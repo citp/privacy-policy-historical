@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rooftopcomedy.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616134054id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rooftopcomedy.com privacy policy that was archived on 2009-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216054815id_/http%3A//www.rooftopcomedy.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
@@ -38,55 +38,46 @@
 <body class="yui-skin-sam">
 <div id="outer">
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript">
-	function winOpen_init()
-	{
-		var links = 	YAHOO.util.Dom.getElementsByClassName('openWin', 'a')
-			for (var i=0; i < links.length; i++) {
-				links[i].onclick = function() {
-				
-				var w =	window.open(this.href, 'RooftopComedy');
-					if (w) w.focus();
-				return false;
-					}
-			}
-	}	
 
 	
 	function inc_topnav_init()
 	{
-		winOpen_init();
-		
+		//winOpen_init();
+		$(".openWin").click(function(){
+			var w =	window.open(this.href, 'RooftopComedy');
+			if (w) {
+				w.focus();
+			}
+			return false;
+		});
+
+		if (typeof(console) != 'undefined') console.log("inc_topnav_init called.");
+
+		$("#none").addClass("active");
+
+
+		$("#navtabs img").hover(
+				function() {
+					var image = $(this);
+					if (!image.hasClass("active")) {
+						var src = image.attr("src");
+						image.attr("src", src.replace(/_of/, "_on"));
+					}
+				},
+				function() {
+					var image = $(this);
+					if (!image.hasClass("active")) {
+						var src = image.attr("src");
+						image.attr("src", src.replace(/_on/, "_of"));
+					}
+				}
+		);
+
 		YAHOO.log("inc_topnav_init called.", "trace", "rooftop");
 
-		YAHOO.util.Event.on("navtabs", "mouseover", on_MouseEventNavTabs);
-		YAHOO.util.Event.on("navtabs", "mouseout", on_MouseEventNavTabs);
 
-		var activeNavBtn = "none";
-		var navBtnElement = null;
-		if (activeNavBtn == "home")
-			navBtnElement = document.getElementById("home");
-		else if (activeNavBtn == "staffpicks")
-			navBtnElement = document.getElementById("staffpicks");
-		else if (activeNavBtn == "shows")
-			navBtnElement = document.getElementById("shows");
-		else if (activeNavBtn == "topics")
-			navBtnElement = document.getElementById("topics");
-		else if (activeNavBtn == "clubs")
-			navBtnElement = document.getElementById("clubs");
-		else if (activeNavBtn == "events")
-			navBtnElement = document.getElementById("events");
-		else if (activeNavBtn == "store") //will never happen with current external store
-			navBtnElement = document.getElementById("store");
-
-		if (navBtnElement != null)
-		{
-			navBtnElement.src = navBtnElement.src.replace(/_of/, "_on");
-			YAHOO.log("navBtnElement.src:" + navBtnElement.src); 
-			navBtnElement.id = navBtnElement.id + "_active"; // this takes out of mouseover/out event trapping  
-		}
-		
-		
 		// Setup the performer search auto complete
 		var performersSchema = ["performer", "code", "name"]; 
 		var performersDS = new YAHOO.widget.DS_XHR("/search/asynch_performersSearch", performersSchema);
@@ -117,7 +108,7 @@
 			document.getElementById("performerSearch").value =  resultItem[2][1]; //Show selected name instead of code
 			document.getElementById("performerSearchForm").action = "/comics/" + resultItem[2][0];
 			document.getElementById("performerSearchForm").submit();
-		}
+		};
 
 		performerAutoComp.itemSelectEvent.subscribe(on_PerformerSelected);
 		var on_PerformerACDataRequest = function(oSelf, sQuery)
@@ -149,64 +140,10 @@
 			document.getElementById("autocomp_error").style.visibility = "visible";
 		};		
 		performerAutoComp.dataErrorEvent.subscribe(on_PerformerACDataError);
-		}
 
-	function on_MouseEventNavTabs(evt)
-	{
-	    var evtTarget = YAHOO.util.Event.getTarget(evt);
-
-		if (evtTarget == null || evtTarget.id == null)  //trying to prevent wierd timing errors
-		{
-			return;
-		}
-
-	    var stateStr = "";
-	    if (evt.type == "mouseout")
-	    	stateStr = "of";
-	    else
-	    	stateStr = "on";
-	     
-	    while (evtTarget != null && evtTarget.id != "navtabs")
-	    { 
-	        if(evtTarget.nodeName.toUpperCase() == "H2")
-	        { 
-	            YAHOO.log("navItem:" + evtTarget.id, "info", "rooftop");
-	            if (evtTarget.id == "navItem_home")
-	            {
-	            	document.getElementById("home").src = "/images/nav/navtab_home_" + stateStr + ".gif";
-	            }
-	            else if (evtTarget.id == "navItem_staffpicks")
-	            {
-		            document.getElementById("staffpicks").src = "/images/nav/navtab_staffpicks_" + stateStr + ".gif";
-		        }
-	            else if (evtTarget.id == "navItem_shows")
-	            {
-		            document.getElementById("shows").src = "/images/nav/navtab_shows_" + stateStr + ".gif";
-		        }
-				else if (evtTarget.id == "navItem_topics")
-	            {
-		            document.getElementById("topics").src = "/images/nav/navtab_topics_" + stateStr + ".gif";
-		        }
-				else if (evtTarget.id == "navItem_clubs")
-	            {
-		            document.getElementById("clubs").src = "/images/nav/navtab_clubs_" + stateStr + ".gif";
-		        }
-				else if (evtTarget.id == "navItem_events")
-	            {
-		            document.getElementById("events").src = "/images/nav/navtab_events_" + stateStr + ".gif";
-		        }
-	            else if (evtTarget.id == "navItem_store")
-	            {
-		            document.getElementById("store").src = "/images/nav/navtab_store_" + stateStr + ".gif";
-		        }
-		        
-	            break; 
-	        }
-	        else
-	        { 
-	            evtTarget = evtTarget.parentNode; 
-	        } 
-	    } 
+		$("#keywordsearchbutton").click(function() {
+			$("#keywordSearchForm").submit();
+		});
 	}
 
 	function onChange_TopicsNavBarForm()
@@ -243,17 +180,17 @@
 <div id="navtop">
 	<div id="navtop_topmenubar" style="float:left;width:976px">
 	    <div id="navtop_lc">
-				<h6><a href="/comics" title="Comedian Directory">Comedian Directory</a></h6> 
-        <h6><a href="/staffpicks">Stand-Up Comedy</a></h6>       
-        <h6><a href="/topics/funny_films">Funny Films</a></h6>
-	      <h6>
-						<a href="http://forums.rooftopcomedy.com" title="Forum">Forum</a>
-				</h6>
-				<h6><a href="http://blog.rooftopcomedy.com/" title="Blog">Blog</a></h6>
-        <h6><a href="/submit?uploadReferrer=/public/about/privacy" title="Upload">Upload</a></h6>
-	            <h6><a href="/about" title="About Us">About Us</a></h6>
-	      <h6><a href="http://store.rooftopcomedy.com" title="My Cart on RooftopComedy">My Cart</a></h6>
-	    </div>
+			<h6><a href="/comics" title="Comedian Directory">Comedian Directory</a></h6>
+			<h6><a href="/staffpicks">Stand-Up Comedy</a></h6>
+			<h6><a href="/topics/funny_films">Funny Films</a></h6>
+			<h6>
+					<a href="http://forums.rooftopcomedy.com" title="Forum">Forum</a>
+			</h6>
+			<h6><a href="http://blog.rooftopcomedy.com/" title="Blog">Blog</a></h6>
+			<h6><a href="/submit?uploadReferrer=/public/about/privacy" title="Upload">Upload</a></h6>
+			<h6><a href="/about" title="About Us">About Us</a></h6>
+			<h6><a href="http://store.rooftopcomedy.com" title="My Cart on RooftopComedy">My Cart</a></h6>
+		</div>
 		<div id="navtop_rc">
 			<ul>
 				<li><a href="/login/signin?referrer=/public/about/privacy" title="Sign In">Sign In</a> | <a href="https://www.rooftopcomedy.com/login/signup?referrer=/public/about/privacy" title="Sign up to be a member">Sign Up</a></li>
@@ -262,23 +199,25 @@
 	</div>
  	<div class="cl"><!-- ie --></div>
 	<div id="navmain">
-    
+
 		<div id="navtabs"><h1><a href="/"><img style="display:inline;" src="/images/nav/nav_logo.jpg" alt="RooftopComedy" width="170" height="31"></a></h1>
-	         <h2 id="navItem_home"><a href="/" title="RooftopComedy Home"><img src="/images/nav/navtab_home_of.gif" alt="RooftopComedy Home" width="61" height="40" id="home"></a></h2>
-	         <h2 id="navItem_staffpicks"><a href="/staffpicks" title="Staff Picks"><img src="/images/nav/navtab_staffpicks_of.gif" alt="RooftopComedy Staff Picks" width="92" height="40" id="staffpicks"></a></h2>
-	         <h2 id="navItem_shows"><a href="/shows" title="RooftopComedy Shows"><img src="/images/nav/navtab_shows_of.gif" alt="RooftopComedy Shows" width="78" height="40" id="shows"></a></h2>
-	         <h2 id="navItem_topics"><a href="/topics" title="RooftopComedy Topics"><img src="/images/nav/navtab_topics_of.gif" alt="RooftopComedy Topics" width="78" height="40" id="topics"></a></h2>
-	         <h2 id="navItem_clubs"><a href="/clubs" title="RooftopComedy Clubs"><img src="/images/nav/navtab_clubs_of.gif" alt="RooftopComedy Clubs" width="70" height="40" id="clubs"></a></h2>
-			 <h2 id="navItem_events"><a href="/events" title="RooftopComedy Events"><img src="/images/nav/navtab_events_of.gif" alt="RooftopComedy Events" width="70" height="40" id="events"></a></h2>
-	         <h2 id="navItem_store"><a href="http://store.rooftopcomedy.com" title="The Comedy Store on RooftopComedy"><img src="/images/nav/navtab_store_of.gif" alt="The Comedy Store on RooftopComedy " width="137" height="40" id="store"></a></h2>
-					
-					 <div class="nav_extra">
-					<span class="nav_extra1"><a href="http://www.rooftopcomedy.com/college" title="2009 National College Comedy Competition"><img src="/images/nav/navtab_nccc.gif" alt="2009 National College Comedy Competition" align="absmiddle"></a></span>&nbsp;
-<span class="nav_extra2"><a href="/events/aspen" title="Aspen RooftopComedy Festival"><img src="/images/nav/navtab_aspen.gif" alt="Aspen RooftopComedy Festival" align="absmiddle"></a></span>
-<div class="cl"></div>
-</div><div class="cl"></div>
+			<h2 id="navItem_home"><a href="/" title="RooftopComedy Home"><img src="/images/nav/navtab_home_of.gif" alt="RooftopComedy Home" width="61" height="40" id="home"></a></h2>
+			<h2 id="navItem_staffpicks"><a href="/staffpicks" title="Staff Picks"><img src="/images/nav/navtab_staffpicks_of.gif" alt="RooftopComedy Staff Picks" width="92" height="40" id="staffpicks"></a></h2>
+			<h2 id="navItem_guesteditors"><a href="/guesteditors" title="Guest Editors"><img src="/images/nav/navtab_guesteditor_of.gif" alt="RooftopComedy Guest Editors" width="107" height="40" id="guesteditors"></a></h2>
+			<h2 id="navItem_topics"><a href="/topics" title="RooftopComedy Topics"><img src="/images/nav/navtab_topics_of.gif" alt="RooftopComedy Topics" width="78" height="40" id="topics"></a></h2>
+			<h2 id="navItem_clubs"><a href="/clubs" title="RooftopComedy Clubs"><img src="/images/nav/navtab_clubs_of.gif" alt="RooftopComedy Clubs" width="70" height="40" id="clubs"></a></h2>
+			<h2 id="navItem_events"><a href="/events" title="RooftopComedy Events"><img src="/images/nav/navtab_events_of.gif" alt="RooftopComedy Events" width="70" height="40" id="events"></a></h2>
+			<h2 id="navItem_store"><a href="http://shop.rooftopcomedy.com" title="The Comedy Shop on RooftopComedy"><img src="/images/nav/navtab_store_of.gif" alt="The Comedy Store on RooftopComedy " width="137" height="40" id="store"></a></h2>
+
+			<div class="nav_extra">
+				<a href="/events/aspen" title="sucksbox" class="openWin"><img src="/images/nav/navtab_aspen.gif" alt="Aspen Rooftop Comedy Festival"></a>
+				<a href="http://www.rooftopcomedy.com/college" title="2009 National College Comedy Competition"><img src="/images/nav/navtab_nccc.gif" alt="2009 National College Comedy Competition" class="nccc"></a>&nbsp;
+
+				<div class="cl"></div>
+			</div>
+			<div class="cl"></div>
 		</div>
-			 <div id="navmain_rc">
+		<div id="navmain_rc">
 
 
 		 <div class="cl"></div>
@@ -287,47 +226,47 @@
     
     <div id="search_bar" style="z-index:2">
 			<div id="search_bar_lc">
-        <form id="keywordSearchForm" action="/search" method="GET">
-						<label>Keyword Search</label>
-	    			<input type="text" class="search" name="query">
-         	<a href="javascript:document.forms['keywordSearchForm'].submit();"><img src="/images/buttons/btn_srch.gif"></a> 
-        </form>
+				<form id="keywordSearchForm" action="/search" method="GET">
+					<p><label for="keywordsearch">Keyword Search</label></p>
+					<p><input type="text" id="keywordsearch" class="search" name="query"></p>
+					<p><a href="#" id="keywordsearchbutton"><img src="/images/buttons/btn_srch.gif" alt="Search by keyword"></a></p>
+				</form>
 			</div>
 			<div id="search_bar_cc">&nbsp;
-        <form id="performerSearchForm" action="/comics" method="GET">
-					<label>Find a Comedian</label>
-	    	 		<div id="performerAutoCompleteContainer" style="width:140px;">
-    	    		<input type="text" name="performerSearch" id="performerSearch">
-        			<div id="performerAutoComplete"></div>
-						</div>  
-    	 		 <a href="javascript:document.forms['performerSearchForm'].submit();"><img src="/images/buttons/btn_srch.gif" class="autocomp"></a>
-          </form>
-					<span id="loading" style="visibility:hidden;"><img style="display:inline" src="/images/global/load_indicator.gif" width="21" height="21"></span>
+				<form id="performerSearchForm" action="/comics" method="GET">
+					<p><label>Find a Comedian</label></p>
+					<div id="performerAutoCompleteContainer" style="width:140px;">
+						<p><input type="text" name="performerSearch" id="performerSearch"></p>
+						<div id="performerAutoComplete"></div>
+					</div>
+					<p><a href="javascript:document.forms['performerSearchForm'].submit();"><img src="/images/buttons/btn_srch.gif" class="autocomp" alt="Search Performer"></a></p>
+				</form>
+				<span id="loading" style="visibility:hidden;"><img style="display:inline" src="/images/global/load_indicator.gif" width="21" height="21" alt="Wait..."></span>
 			</div>
 			<div id="search_bar_rc">
-	      <form id="navBarTopicForm" method="GET" action="/topics" onsubmit="return onSubmit_TopicsNavBarForm();">
-					<label>Browse by Topic</label>
-		      <select id="navBarTopicCode" name="topic" class="topic" onchange="onChange_TopicsNavBarForm();">
-					<option value="">Select a topic</option>
-				    	<option value="asian">Asian Comedy</option>
-				    	<option value="bathroom">Bathroom Humor</option>
-				    	<option value="black">Black Comedy</option>
-				    	<option value="ChristianComedy">Christian Comedy</option>
-				    	<option value="CommonSense">Common Sense</option>
-				    	<option value="drugs">Drugs</option>
-				    	<option value="funny_films">Funny Films</option>
-				    	<option value="gay_lesbian">Gay/Lesbian Comedy</option>
-				    	<option value="newspopculturepolitics">News, Pop Culture &amp; Politics</option>
-				    	<option value="rednecks_and_hillbillies">Rednecks &amp; Hillbillies</option>
-				    	<option value="religion">Religion</option>
-				    	<option value="sexrelationships">Sex &amp; Relationships</option>
-				    	<option value="sketch">Sketch Comedy</option>
-				    	<option value="songs">Songs</option>
-				    	<option value="weird">Weird Comedy</option>
-				    	<option value="women">Women Comics</option>
-				    	<option value="office">Work Sucks</option>
-		      </select>
-             <a href="javascript:document.forms['navBarTopicForm'].submit();"><img src="/images/buttons/btn_arrow_lg.jpg"></a>
+				<form id="navBarTopicForm" method="GET" action="/topics" onsubmit="return onSubmit_TopicsNavBarForm();">
+					<p><label>Browse by Topic</label></p>
+					<p><select id="navBarTopicCode" name="topic" class="topic" onchange="onChange_TopicsNavBarForm();">
+						<option value="">Select a topic</option>
+						<option value="asian">Asian Comedy</option>
+						<option value="bathroom">Bathroom Humor</option>
+						<option value="black">Black Comedy</option>
+						<option value="ChristianComedy">Christian Comedy</option>
+						<option value="CommonSense">Common Sense</option>
+						<option value="drugs">Drugs</option>
+						<option value="funny_films">Funny Films</option>
+						<option value="gay_lesbian">Gay/Lesbian Comedy</option>
+						<option value="newspopculturepolitics">News, Pop Culture &amp; Politics</option>
+						<option value="rednecks_and_hillbillies">Rednecks &amp; Hillbillies</option>
+						<option value="religion">Religion</option>
+						<option value="sexrelationships">Sex &amp; Relationships</option>
+						<option value="sketch">Sketch Comedy</option>
+						<option value="songs">Songs</option>
+						<option value="weird">Weird Comedy</option>
+						<option value="women">Women Comics</option>
+						<option value="office">Work Sucks</option>
+					</select></p>
+					<p><a href="javascript:document.forms['navBarTopicForm'].submit();"><img src="/images/buttons/btn_arrow_lg.jpg" alt="Navigate to topic"></a></p>
 				</form>
 			</div>
 	</div><div class="cl"><!-- ie --></div>
@@ -417,6 +356,44 @@
 </div><div id="plain_rc">
 <div id="plain_rc_news">
 		<p>
+			November 17, 2009<br>
+			<a href="/about/news/20091117_mottleys_comedy_club"><span>Rooftop Media Expands Comedy Club Network Adding
+Mottley's Comedy Club, Boston &amp; The Lincoln Lodge, Chicago</span></a>
+		</p>
+		<p>
+			October 15, 2009<br>
+			<a href="/about/news/20090907_rooftop_funnyfilm"><span>Rooftop Comedy Accepting Submissions for 2 Funny Film Competitions</span></a>
+		</p>
+		<p>
+			August 25, 2009<br>
+			<a href="/about/news/20090825_rooftop_digEcor"><span>Rooftop Media Takes Flight with digEcor Distribution Deal</span></a>
+		</p>
+		<p>
+			August 19, 2009<br>
+			<a href="/about/news/20090819_platforms_suck"><span>MediaPost: Show 'Sucks' Across Multiple Platforms</span></a>
+		</p>
+		<p>
+			August 14, 2009<br>
+			<a href="/about/news/2009081_portfolio_suck"><span>peHUB: This Portfolio Company Does Not Suck</span></a>
+		</p>
+		<p>
+			August 12, 2009<br>
+			<a href="/about/news/20090812_breaking_in"><span>BACKSTAGE: Standing Up, Breaking In</span></a>
+		</p>
+		<p>
+			July 30, 2009<br>
+			<a href="/about/news/20090730_rooftop_productions"><span>Rooftop Comedy Launches Record Label, 'Rooftop Comedy Productions'</span></a>
+		</p>
+		<p>
+			July 5, 2009<br>
+			<a href="/about/news/20090705_talent_institute"><span>Rooftop Comedy Launches Talent Institute for Nation's Most Promising
+Comedians</span></a>
+		</p>
+		<p>
+			May 20, 2009<br>
+			<a href="/about/news/20090520_aspen_lineup"><span>Aspen Rooftop Comedy Festival Announces 2009 Line-Up &amp; Schedule</span></a>
+		</p>
+		<p>
 			February 27, 2009<br>
 			<a href="/about/news/20090223_rooftop_dsi"><span>RooftopComedy Partners With Dirty South</span></a>
 		</p>
@@ -480,22 +457,6 @@
 			November 7, 2007<br>
 			<a href="/about/news/20071115_new_shows"><span>RooftopComedy Now Broadcasting from United Kingdom</span></a>
 		</p>
-		<p>
-			November 1, 2007<br>
-			<a href="/about/news/20071101_rooftop_uk"><span>RooftopComedy Adds to its Comedy Shows &amp; Series</span></a>
-		</p>
-		<p>
-			October 2, 2007<br>
-			<a href="/about/news/20071002_nokia_video_center"><span>Nokia Adds RooftopComedy, New Content Partners to Nokia Video Center</span></a>
-		</p>
-		<p>
-			September 14, 2006<br>
-			<a href="/about/news/20070914_cnet_youtube"><span>CNET: Funnier than YouTube: Rooftop Comedy </span></a>
-		</p>
-		<p>
-			August 30, 2006<br>
-			<a href="/about/news/20070830_investorfest"><span>RooftopComedy Takes Top Honors at InvestorFest with "Best Investment Idea"</span></a>
-		</p>
 </div>
 
 </div>
@@ -503,57 +464,55 @@
 </div> <!-- end plain main -->
 
 <div id="ftr">
-<div id="ftr_bnr_bar">
-    <div id="ftr_bnr_bar_lc">
-		<a href="/submit?uploadReferrer=/public/about/privacy" title="Submit your video"><img src="/images/global/th_124x70_submitvideo.jpg" alt="" width="124" height="70"></a>
-    <div class="bnr_bar_text">Calling comedians, sketch groups and comedy filmmakers.</div>
-		
-    </div>
-    <div id="ftr_bnr_bar_cc1">
-					<a href="/events/aspen" title="The Aspen Rooftop Comedy Festival 2009"><img src="/images/dynamic/events/thumbs/thumb_aspen2009.jpg" alt="The Aspen Rooftop Comedy Festival 2009" width="124" height="70"></a> 				
-				
-    <div class="bnr_bar_text">Join us in Aspen June 11 -14 for a hilarious good time.</div>
-	
+	<div id="ftr_bnr_bar">
+		<div id="ftr_bnr_bar_lc">
+			<a href="/submit?uploadReferrer=/public/about/privacy" title="Submit your video"><img src="/images/global/th_124x70_submitvideo.jpg" alt="" width="124" height="70"></a>
+			<div class="bnr_bar_text">Calling comedians, sketch groups and comedy filmmakers.</div>
+		</div>
+		<div id="ftr_bnr_bar_cc1">
+			<a href="/events/aspen" title="The Aspen Rooftop Comedy Festival 2009"><img src="/images/dynamic/events/thumbs/thumb_aspen2009.jpg" alt="The Aspen Rooftop Comedy Festival 2009" width="124" height="70"></a>
+
+			<div class="bnr_bar_text">Check out clips from this year's festival</div>
+
+		</div>
+		<div id="ftr_bnr_bar_cc2"><a href="/clubs/rooftopatlarge" title="Rooftop at Large"><img src="/images/global/th_124x70_rooftopatlarge.jpg" alt="" width="124" height="70"></a>
+			<div class="bnr_bar_text">We work with the best comedians, sketch groups and comedy filmmakers.</div>
+		</div>
+		<div id="ftr_bnr_bar_rc">
+			<a href="http://blog.rooftopcomedy.com/" title="Rooftop Blog"><img src="/images/global/th_124x70_blog_v2.jpg" alt="" width="124" height="70"></a>
+			<div class="bnr_bar_text">Rooftop Comedy has a blog. Rooftop staff write funny about everything.</div>
+		</div>
+		<div class="cl"></div>
 	</div>
-    <div id="ftr_bnr_bar_cc2"><a href="/clubs/rooftopatlarge" title="Rooftop at Large"><img src="/images/global/th_124x70_rooftopatlarge.jpg" alt="" width="124" height="70"></a>
-    <div class="bnr_bar_text">We work with the best comedians, sketch groups and comedy filmmakers.</div>
-		
-    
-   </div>
-    <div id="ftr_bnr_bar_rc"><a href="http://blog.rooftopcomedy.com/" title="Rooftop Blog"><img src="/images/global/th_124x70_blog_v2.jpg" alt="" width="124" height="70"></a>
-    <div class="bnr_bar_text">Rooftop Comedy has a blog. Rooftop staff write funny about everything.</div>
+	<div id="ftr_nav_top_lc">
+		<div id="ftr_nav_top_list_lc">
+			<h2><a href="/comics" title="Comedian Directory">Comedian Directory</a></h2>
+			<h2><a href="/staffpicks">Stand-Up Comedy</a></h2>
+			<h2><a href="/topics/funny_films">Funny Films</a></h2>
+			<h2>
+					<a href="http://forums.rooftopcomedy.com" title="Forum">Forum</a>
+			</h2>
+			<h2><a href="http://blog.rooftopcomedy.com/" title="Blog">Blog</a></h2>
+			<h2><a href="/submit?uploadReferrer=/public/about/privacy" title="Upload">Upload</a></h2>
+			<h2><a href="/about" title="About Us">About Us</a></h2>
+		</div>
+	</div>
+	<div id="ftr_nav_top_rc">
+		<ul id="ftr_nav_top_list_rc">
+				<li><a href="/login/signin" title="Sign In Rooftop Comedy">Sign In</a></li>
+		</ul>
 	</div>
 	<div class="cl"></div>
- </div>
-    <div id="ftr_nav_top_lc">
-	    <div id="ftr_nav_top_list_lc">
-				<h2><a href="/comics" title="Comedian Directory">Comedian Directory</a></h2> 
-        <h2><a href="/staffpicks">Stand-Up Comedy</a></h2>       
-        <h2><a href="/topics/funny_films">Funny Films</a></h2>
-	      <h2>
-						<a href="http://forums.rooftopcomedy.com" title="Forum">Forum</a>
-				</h2>
-				<h2><a href="http://blog.rooftopcomedy.com/" title="Blog">Blog</a></h2>
-        <h2><a href="/submit?uploadReferrer=/public/about/privacy" title="Upload">Upload</a></h2>
-	            <h2><a href="/about" title="About Us">About Us</a></h2>
-	    </div>
-    </div>
-    <div id="ftr_nav_top_rc">
-    <ul id="ftr_nav_top_list_rc">
-		<li><a href="/login/signin" title="Sign In Rooftop Comedy">Sign In</a></li>
-    </ul>
-    </div>
-    <div class="cl"></div>
-    <div id="ftr_nav_bot">
-    <h6><a href="/about/advertisers" title="Advertisers - Rooftop Comedy">Advertisers</a></h6>
-    <h6><a href="/about/techsupport" title="Tech Support">Tech Support</a></h6> 
-    <h6><a href="/about/terms" title="Terms of Use">Terms of Use</a></h6> 
-    <h6><a href="/about/privacy" title="Privacy Policy" class="link_last">Privacy Policy</a></h6>
-    <h6>Copyright © 2009 Rooftop Media, Inc. All rights reserved.</h6>
-    </div>
+	<div id="ftr_nav_bot">
+		<h6><a href="/about/advertisers" title="Advertisers - Rooftop Comedy">Advertisers</a></h6>
+		<h6><a href="/about/techsupport" title="Tech Support">Tech Support</a></h6> 
+		<h6><a href="/about/terms" title="Terms of Use">Terms of Use</a></h6>
+		<h6><a href="/about/privacy" title="Privacy Policy" class="link_last">Privacy Policy</a></h6>
+		<h6>Copyright © 2009 Rooftop Media, Inc. All rights reserved.</h6>
+	</div>
 
-   </div><!-- end footer -->
-   
+</div><!-- end footer -->
+
 <!--GOOGLE ANALYTICS-->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -567,14 +526,19 @@ pageTracker._trackPageview();
 <!--END GOOGLE ANALYTICS-->
 
 
-	<!-- Start Quantcast tag -->
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-	<script type="text/javascript">
-	_qacct="p-866RjvL6M-bgo";quantserve();</script>
-	<noscript>
-	<img src="http://pixel.quantserve.com/pixel/p-866RjvL6M-bgo.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
-	<!-- End Quantcast tag -->
-	
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+var qJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + qJsHost + "edge.quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://edge.quantserve.com/quant.js" type="text/javascript"></script>
+<script type="text/javascript">
+_qacct="p-866RjvL6M-bgo";quantserve();</script>
+<noscript>
+<p><img src="https://pixel.quantserve.com/pixel/p-866RjvL6M-bgo.gif" style="display: none" height="1" width="1" alt="Quantcast"></p></noscript>
+<!-- End Quantcast tag -->
+
+
 
 </div><!-- end outer -->
 
