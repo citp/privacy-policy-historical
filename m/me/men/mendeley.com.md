@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045351id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216191612id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -19,12 +19,11 @@ Mendeley will never publish private or personally identifiable data. No one will
 **3\. Your data and your content is owned by you.**  
 Whatever data and content you upload to your Mendeley account is owned by you. We do not claim any ownership rights. Of course, you can delete your data at any time. 
 
-From all the users' individual accounts, we _anonymously_ aggregate metadata and statistics, some of which will be made available to the Mendeley community. Nothing about you personally can be inferred from the aggregated statistics. One example: The Mendeley community will be able to see that a certain paper had 7,153 readers and was the most popular paper in Biology last week. However, nobody except you will know whether you were one of these 7,153 readers.
+From all the users' individual accounts, we _anonymously_ aggregate document details, tags and statistics, some of which will be made available to the Mendeley community. Nothing about you personally can be inferred from the aggregated statistics. One example: The Mendeley community will be able to see that a certain paper had 7,153 readers and was the most popular paper in Biology last week. However, nobody except you will know whether you were one of these 7,153 readers.
 
 We believe that aggregating the data in this way benefits both you and the community at large, because it
 
-  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Metadata Extraction](http://www.mendeley.com/faq/#automatic-metadata-extraction "Automatic Metadata Extraction")),
-  * allows you unprecedented insights into the statistics and research trends of your academic discipline,
+  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Document Details Extraction](http://www.mendeley.com/faq/#automatic-metadata-extraction "Automatic Document Details Extraction")),
   * allows you unprecedented insights into the statistics and research trends of your academic discipline,
   * gives you a better understanding of your own research habits and document collection,
   * lays the data foundation for a sophisticated research paper recommendation engine,
@@ -139,7 +138,7 @@ We may disclose your personal information to third parties:
 
 ### EDITING AND DELETION OF DATA
 
-Generally, you can edit and delete any personal data you upload to Site. If you wish to deactivate your account you may do so through the My Account page. Removed information may persist in backup copies for a reasonable period of time and as necessary to comply with our legal obligations. However, please note that this information will not be generally available to other users or registered members.
+Generally, you can edit and delete any personal data you upload to Site. If you wish to deactivate your account you may do so by sending your delete request to . Removed information may persist in backup copies for a reasonable period of time and as necessary to comply with our legal obligations. However, please note that this information will not be generally available to other users or registered members.
 
 Where you make use of the interactive features of the service to share information with other users and registered members (e.g. sending a personal message to another user) you may not be able to remove such communications.
 
