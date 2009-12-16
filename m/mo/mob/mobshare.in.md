@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobshare.in privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060733id_/http%3A//www.mobshare.in/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobshare.in privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000546id_/http%3A//www.mobshare.in/main/privacypolicy) for the most accurate reproduction.*
 
 # Mobshare: Your Mobile Broadcast!
 
