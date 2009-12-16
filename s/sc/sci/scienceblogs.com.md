@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceblogs.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065437id_/http%3A//scienceblogs.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceblogs.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192243id_/http%3A//scienceblogs.com/main/privacy) for the most accurate reproduction.*
 
 # ScienceBlogs : Privacy Policy
 
