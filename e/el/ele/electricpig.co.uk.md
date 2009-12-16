@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181638id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002100id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | ElectricPig.co.uk
+# Privacy Policy | Electricpig
 
 If you’d like to know our policy on all things related to Privacy, you’d better take a look. It makes for right tasty reading!
 
@@ -83,7 +83,7 @@ whether we are keeping personal data about you.
 
 Upon request, which you can indicate by sending an [Email](mailto:feedback@electricpig.tv)
 
-We will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity -. We will provide the information without any charge.
+We will provide you with a readable copy of the personal data which we keep about you, within a month. – although we may before require proof of your identity -. We will provide the information without any charge.
 
 We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:
 
@@ -109,4 +109,4 @@ We cannot demonstrate that our privacy policy accords with the privacy instrumen
 
 If you have an enquiry or concern about our privacy policy, please contact [ElectricPig.tv](mailto:feedback@electricpig.tv).
 
-We do not recommend another means by which visitors’ concerns may be addressed.
+We do not recommend another means by which visitors’ concerns may be addressed. 
