@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the russianeuro.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063817id_/http%3A//www.russianeuro.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianeuro.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000614id_/http%3A//www.russianeuro.com/Privacy.cfm) for the most accurate reproduction.*
 
-# RussianEuro.com - Russian Dating Singles and Personals
+# RussianEuro.com | Privacy Policy
 
 **CUPID MEDIA PTY LTD PRIVACY POLICY**
 
