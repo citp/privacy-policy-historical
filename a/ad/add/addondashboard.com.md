@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addondashboard.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191751id_/http%3A//www.addondashboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addondashboard.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216070446id_/http%3A//www.addondashboard.com/privacy.php) for the most accurate reproduction.*
 
-# AddonDashboard|Article Dashboard Directory | Submit Articles | Author Submission
+# AddonDashboard | Article Dashboard Directory | Submit Free Articles
 
 AddonDashboard Privacy Policy
 
@@ -36,7 +36,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 **Contacting Us**
 
-We can be reached by using our [online contact form](http://addondashboard.com/contacts.php).
+We can be reached by using our [online contact form](http://www.addondashboard.com/contacts.php).
 
 **Changes to this Policy**
 
