@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061644id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002521id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Novinite.com - Sofia News Agency
-
-**Tuesday, June 16, 2009** | » RATES: USD 1.41215,    EUR 1.95583,    GBP 2.30858 | » WEATHER: **Sofia** : 18°,    **Varna** : 21°,    **Plovdiv** : 22°  | [RSS](https://web.archive.org/web/20090616061644id_/http%3A//www.novinite.com/news_on_your_site.php) | [News on your desktop](https://web.archive.org/web/20090616061644id_/http%3A//www.novinite.com/lastx_popup.php)
-
-[](https://web.archive.org/web/20090616061644id_/http%3A//www.novinite.com/index.php "Privacy Policy - Novinite.com - Sofia News Agency")
-
-PRIVACY POLICY
+# 
 
 **Novinite.com (Sofia News Agency) takes your privacy extremely seriously.  
 Please read the following to learn more about our privacy policy. **
@@ -24,8 +18,6 @@ We collect personal information from you through:
   * the forms for sending news to a friend  
 
   * every time you e-mail us your details  
-
-
 
 
 Once you register with Novinite.com (Sofia News Agency) and sign in to our services or you send news to a friend, the information you entered is not anonymous to us. 
