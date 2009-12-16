@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fhmonline.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105221514id_/http%3A//www.fhmonline.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhmonline.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217003030id_/http%3A//www.fhmonline.com/Company/Privacy) for the most accurate reproduction.*
 
 # FHM.com
 
