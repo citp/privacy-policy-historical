@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513042502id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192708id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
 
-# Pro Wrestling Insider - Pro Wrestling News Inside & Out
-
-| 
+# Privacy Policy | PWInsider.com
 
 **Privacy Policy**
 
@@ -13,7 +11,4 @@ PWInsider.com recognizes the importance of protecting the privacy of personally 
 Personally identifiable information that visitors submit to this Site is used only for the purpose for which it is submitted unless we disclose other uses in this Privacy Policy or at the time of collection. However, at the time of collection, you will have the option of instructing us not to send you additional information or share your personal information with third parties. PWInsider.com is not responsible for the privacy policies or practices of our advertisers or business partners. 
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
-
-|   
----|---
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
