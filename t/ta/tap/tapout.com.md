@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapout.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063240id_/http%3A//www.tapout.com/index.cfm%3Ffa%3DAboutUs.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapout.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216191445id_/http%3A//www.tapout.com/index.cfm%3Ffa%3DAboutUs.privacyPolicy) for the most accurate reproduction.*
 
-# TAPOUT - Bad For The Sport!
+# TapouT - An Expression of Combat Known Worldwide
 
 Tapout, LLC (“Tapout”) is committed to protecting the privacy of our Website visitors. This Privacy Policy details the measures taken by Tapout to protect your privacy in connection with your use of www.tapout.com and other sites owned or operated by Tapout (including, but not limited to, www.inyaface.com) (“Site”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).  
 This Privacy Policy is incorporated into and is subject to the [Terms of Use.](http://www.tapout.com/index.cfm?fa=AboutUs.privacyPolicy) If you do not agree to the terms of this Privacy Policy or the Terms of Use, please do not provide Tapout with any information and do not use the Site.   
