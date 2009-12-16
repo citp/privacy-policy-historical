@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527215735id_/http%3A//www.knowledgetree.com/node/62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216205152id_/http%3A//www.knowledgetree.com/node/62) for the most accurate reproduction.*
 
 # Website Privacy Policy | Document Management Software | Open Source Document Management System
 
@@ -76,7 +76,7 @@ To request a correction or cancellation, send an e-mail to the address provided 
 
 ###  Security 
 
-KnowledgeTree Inc. undertakes to take all reasonable measures to protect the information you provide us. These measures include, but are not limited to preventing unauthorised access or disclosure, maintaining data accuracy, and ensuring the appropriate use of the information. KnowledgeTree Inc. has in place appropriate physical and managerial procedures to safeguard the information we collect. 
+KnowledgeTree Inc. undertakes to take all reasonable measures to protect the information you provide us. These measures include, but are not limited to preventing unauthorized access or disclosure, maintaining data accuracy, and ensuring the appropriate use of the information. KnowledgeTree Inc. has in place appropriate physical and managerial procedures to safeguard the information we collect. 
 
 ###  Changes to this statement 
 
