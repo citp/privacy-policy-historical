@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2009-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090108041208id_/http%3A//www.smallnetbuilder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216072647id_/http%3A//www.smallnetbuilder.com/home/privacy-policy) for the most accurate reproduction.*
 
-# SmallNetBuilder - Small Network Help - Privacy Policy
+# Privacy Policy
 
-### SmallNetBuilder Privacy Policy
+### SmallNetBuilder's Privacy Policy
 
 SmallNetBuilder (hereinafter referred to as "SNB") is committed to ensuring the privacy of its readers and registered members and wants you to fully understand our terms and conditions This privacy statement describes how any personal, and anonymous, information is collected and managed and how you can request changes to any sharing of this information that may occur.
 
@@ -68,11 +68,11 @@ This Privacy Policy may be modified from time to time. Any modifications to our 
   
 
 
-### Related Articles:
+### Related Items:
 
-[What else are you reading?](http://www.smallnetbuilder.com/content/view/30327/234/)  
-[About Us](http://www.smallnetbuilder.com/content/view/1398/143/)  
-[Terms of Use](http://www.smallnetbuilder.com/content/view/1416/148/)  
-[They're Out to Get You - An Introduction to Internet Security](http://www.smallnetbuilder.com/content/view/25235/113/)  
-[Clean out the SmallNetBuilder Closet Contest Rules](http://www.smallnetbuilder.com/content/view/29862/186/)  
+[What else are you reading?](http://www.smallnetbuilder.com/blog/30327-what-else-are-you-reading)  
+[They're Out to Get You - An Introduction to Internet Security](http://www.smallnetbuilder.com/security/security-features/25235-outtogetyou)  
+[About Us](http://www.smallnetbuilder.com/home/about-us)  
+[Clean out the SmallNetBuilder Closet Contest Rules](http://www.smallnetbuilder.com/home/contests/29862-clean-out-the-smallnetbuilder-closet-contest-rules)  
+[Terms of Use](http://www.smallnetbuilder.com/home/terms-of-use)  
 
