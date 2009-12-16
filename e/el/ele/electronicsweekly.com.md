@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182508id_/http%3A//electronicsweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002414id_/http%3A//www.electronicsweekly.com/static-pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Electronics Weekly
 
-Privacy Policy
+##  ELECTRONICS WEEKLY PRIVACY POLICY
 
 ElectronicsWeekly.com is owned and operated by Reed Business Information Ltd (RBI). Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
 
@@ -38,4 +38,4 @@ To alter your details
 
 If your personal information changes you can alter the details we hold by sending an e-mail to [webmaster@electronicsweekly.co.uk](mailto:webmaster@electronicsweekly.co.uk) or by accessing one of the login pages of ElectronicsWeekly.com.
 
-[Printer Friendly](http://www.electronicsweekly.com/Home/privacy.htm?PrinterFriendly=true)
+© Reed Business Information Ltd
