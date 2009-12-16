@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldhum.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065500id_/http%3A//www.worldhum.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldhum.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192413id_/http%3A//www.worldhum.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Hum
 
@@ -94,11 +94,11 @@ WH disclaims, and you agree, that WH will not be liable to you for any damages c
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding WH’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  or send written correspondence to the address listed under Contact Us below, attention California Privacy Rights.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding WH’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [Privacy_Policy@worldhum.com](mailto:Privacy_Policy@worldhum.com) or send written correspondence to the address listed under Contact Us below, attention California Privacy Rights.
 
 ## Contact Us
 
-If you have any questions regarding this Privacy Policy, please contact us by e-mail at . Please note that e-mail communications will not necessarily be secure; accordingly, you should not include sensitive information in your e-mail correspondence with us.
+If you have any questions regarding this Privacy Policy, please contact us by e-mail at [Privacy_Policy@worldhum.com](mailto:Privacy_Policy@worldhum.com). Please note that e-mail communications will not necessarily be secure; accordingly, you should not include sensitive information in your e-mail correspondence with us.
 
 World Hum   
 c/o The Travel Channel, L.L.C.  
@@ -106,4 +106,4 @@ c/o The Travel Channel, L.L.C.
 Chevy Chase, MD 20815  
 Attn:  Legal Affairs  
 Effective Date: December 12, 2008  
-©2008 The Travel Channel, L.L.C.  All Rights Reserved.
+©2008 The Travel Channel, L.L.C.  All Rights Reserved. 
