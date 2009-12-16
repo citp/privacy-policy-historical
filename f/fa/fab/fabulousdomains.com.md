@@ -1,16 +1,25 @@
-> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418181532id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D714) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216211752id_/http%3A//www.fabulousdomains.com/informationcenter/%3Fformdata%5Bqid%5D%3D714) for the most accurate reproduction.*
 
-# Fabulous
+# FabulousDomains | Information Center
 
-### FabulousDomains Privacy Policy
+### DarkBlueSea - Privacy Policy
 
-We at FabulousDomains.com, our subsidiaries and our affiliated website operators (“FabulousDomains.com”), pride ourselves on providing our customers (“Customer”) and visitors to our websites (“Visitors”), with a range of exciting online products and services. 
+The Dark Blue Sea group of companies offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale and search engine services.
 
-This privacy policy explains why and how FabulousDomains.com collects certain personal information from both our Customers and Visitors, and what we do with that information. 
+The Dark Blue Sea group comprises a number of companies that includes:
+
+• Dark Blue Sea Limited ABN 47 091 509 796  
+• Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)  
+• Fabulous Parking Pty Ltd ABN 16 094 225 091  
+• Roar.com Pty Ltd ABN 99 094 225 064  
+• Pageseeker.com Pty Ltd ABN 45 090 513 849  
+• Darkblue.com Pty Ltd ABN 14 094 225 082
+
+This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information. 
 
 #### ABOUT THIS PRIVACY POLICY
 
-FabulousDomains.com’s privacy policy has been drafted to comply with the National Privacy Principles outlined in the Australian Privacy Act 1998 (Cth). More information about the Privacy Act is available on the Australian Privacy Commissioner’s website at [http://www.privacy.gov.au](http://www.privacy.gov.au/)
+This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the Australian Privacy Act 1988 (Cth). More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/). 
 
 #### WHY WE NEED TO COLLECT PERSONAL INFORMATION
 
