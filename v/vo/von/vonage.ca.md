@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162549id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002738id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.*
 
 # VOIP with Vonage Canada
 
@@ -28,12 +28,11 @@ Vonage Canada is responsible for personal information under its control and will
 1.2 Vonage Canada's Privacy Officer may be contacted at: 
 
 Attention: Vonage Canada Corp. c/o Privacy Officer   
-2660 Matheson Blvd. East   
-Suite 301   
-Mississauga, Ontario   
-L4W 5M2   
+23 Main Street   
+Holmdel, NJ 07732   
+USA   
 E-mail: [vc_privacyofficer@vonage.com](mailto:vc_privacyofficer@vonage.com)   
-Phone: 416-907-6186
+Phone: 732-226-3319
 
 1.3. Vonage Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing. Vonage Canada will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
 
@@ -70,11 +69,10 @@ Vonage Canada will identify the purposes for which personal information is colle
 
 2.5 Occasionally, Vonage Canada will communicate to you special bonus and new product offers that we think may be of value to you. Vonage Canada may retain third parties to assist it in marketing such new or additional Vonage Canada products and services to our customers (and for such purpose may share personal information with such third parties) but will not otherwise disclose or make available any personal information to any third parties seeking to market their products to Vonage Canada's customers. All Vonage Canada customers have the right to chose not to participate in direct marketing of new products and services from Vonage Canada. If you wish to opt-out of receiving targeted communications from Vonage Canada in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at 
 
-Vonage Canada Corp. c/o Privacy Officer   
-2660 Matheson Blvd. East   
-Suite 301   
-Mississauga, Ontario   
-L4W 5M2   
+Attention: Vonage Canada Corp. c/o Privacy Officer   
+23 Main Street   
+Holmdel, NJ 07732   
+USA   
 E-mail: [vc_privacyofficer@vonage.com](mailto:vc_privacyofficer@vonage.com)
 
 2.6 The Site may provide hyperlinks, which are highlighted words or pictures within a hypertext document that may, when clicked, take you to another place within the document, to another document altogether, or to a third party website not controlled by Vonage Canada. Such hyperlinked third party websites may collect and disclose information different than this Site. Vonage Canada is not responsible for the collection, use, or disclosure of information collected through these third party web sites, and Vonage Canada expressly disclaims any and all liability related to such collection, use, or disclosure.
