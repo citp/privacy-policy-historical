@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztralia.tv privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528134536id_/http%3A//www.oztralia.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztralia.tv privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216181758id_/http%3A//www.oztralia.tv/privacy) for the most accurate reproduction.*
 
 # OZtralia.tv :: Privacy Policy
 
