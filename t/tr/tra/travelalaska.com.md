@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515131556id_/http%3A//www.travelalaska.com/contact/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216095643id_/http%3A//www.travelalaska.com/contact/privacy.aspx) for the most accurate reproduction.*
 
 # Travel Alaska - Privacy Policy
 
@@ -9,10 +9,6 @@
 Find great deals on exciting excursions. [Learn More!](https://web.archive.org/Specials/select.aspx)
 
 ## My Alaska News
-
-Monthly travel tips, highlights and savings!
-
-Your Email:
 
 ## My Alaska Trip
 
