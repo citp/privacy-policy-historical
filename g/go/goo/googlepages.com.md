@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlepages.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201061042id_/http%3A//pages.google.com/-/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlepages.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216133423id_/http%3A//pages.google.com/-/privacy.html) for the most accurate reproduction.*
 
 # Google Page Creator Privacy Policy
 
@@ -29,7 +29,7 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 **More information**   
 Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/). 
 
-Further information about Google Page Creator is available [here](https://web.archive.org/web/20090201061042id_/http%3A//pages.google.com/-/about.html). 
+Further information about Google Page Creator is available [here](https://web.archive.org/web/20091216133423id_/http%3A//pages.google.com/-/about.html). 
 
 For more information about our privacy practices, go to the [full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please [contact us](http://www.google.com/support/pages/bin/request.py) any time. Or write to us at:  
 Privacy Matters  
