@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccerladuma.co.za privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184026id_/http%3A//www.soccerladuma.co.za/index.php%3Fnode%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerladuma.co.za privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192528id_/http%3A//www.soccerladuma.co.za/index.php%3Fnode%3D42) for the most accurate reproduction.*
 
 # Privacy Policy
 
