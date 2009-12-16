@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awaionline.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182333id_/http%3A//awaionline.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaionline.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002351id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.*
 
 # American Writers & Artists Inc. Privacy Statement
 
