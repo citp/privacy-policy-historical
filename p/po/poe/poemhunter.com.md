@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poemhunter.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133002id_/http%3A//www.poemhunter.com/PoemHunter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemhunter.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216054622id_/http%3A//www.poemhunter.com/PoemHunter/privacy) for the most accurate reproduction.*
 
 # PoemHunter.Com - Thousands of poems and poets..
 
-Privacy Statement  
+  
 Our applications and rules on the collection and usage of information about the members 
 
 Collection of Information  
