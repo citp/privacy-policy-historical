@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascowboys.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226043751id_/http%3A//www.dallascowboys.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascowboys.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216025257id_/http%3A//www.dallascowboys.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # DallasCowboys.com | Privacy Policy
 
