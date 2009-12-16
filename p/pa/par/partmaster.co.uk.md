@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417211946id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216011927id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Spares, Spare Parts & Accessories - Currys Partmaster.co.uk
 
+|   
 ---  
   
 In this Privacy Policy references to "we" and "us" are to DSG Retail Limited trading as partmaster.co.uk, Dixons, Curry's Digital, Currys, PC World and The Tech Guys company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG and to our appointed agent for the operation of partmaster.co.uk, Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ.  
   
    
-|  |  |   
----|---|---  
-| **What information we collect and how** |   
-|  |   
+  
+**What information we collect and how**  
   
 The information we collect via this website may include: 
 
@@ -23,10 +22,8 @@ The information we collect via this website may include:
 (4) Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).  
   
    
-|  |  |   
----|---|---  
-| **What we do with your information?** |   
-|  |   
+  
+**What we do with your information?**  
   
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:- 
 
