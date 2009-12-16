@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicybutthoneys.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616051347id_/http%3A//juicybutthoneys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicybutthoneys.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000530id_/http%3A//juicybutthoneys.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
