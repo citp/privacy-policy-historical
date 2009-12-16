@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakeland.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061548id_/http%3A//www.lakeland.co.uk/L%3Fcontent%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakeland.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001432id_/http%3A//www.lakeland.co.uk/L%3Fcontent%3Dprivacy.htm) for the most accurate reproduction.*
 
 # privacy policy - Lakeland, the home of creative kitchenware
 
