@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serpanalytics.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325022401id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpanalytics.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216043633id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.*
 
-# SERP Analytics Help
+# Privacy Policy — SERP Analytics Help
 
 [**About**](https://web.archive.org/docs/about)
 
@@ -8,7 +8,8 @@
 
 [**Help Home**](https://web.archive.org/docs/)
 
-[**Quick Start**](https://web.archive.org/docs/quick_start)  
+[**Quick Start**](https://web.archive.org/docs/quick_start)
+
 [**Browser Configuration**](https://web.archive.org/docs/browser_configuration)
 
 [**Videos**](https://web.archive.org/docs/videos)
@@ -28,10 +29,11 @@
    [Database Search](https://web.archive.org/docs/user_account#dbsearch)
 
 [**SEO Tools**](https://web.archive.org/docs/seo_tools)  
-   [Google Datacenter Tool](https://web.archive.org/docs/seo_tools#gd)  
-   [Google PageRank Tool](https://web.archive.org/docs/seo_tools#pr)  
-   [Google Bulk PageRank Tool](https://web.archive.org/docs/seo_tools#bpr)  
+   [Google Datacenter Tool](https://web.archive.org/docs/seo_tools#gd)
+
    [Top 10,000 Keywords Tool](https://web.archive.org/docs/seo_tools#k)
+
+[**Membership Plans**](https://web.archive.org/docs/plans)
 
 [Terms of Use](https://web.archive.org/docs/tos)  
 [Privacy Policy](https://web.archive.org/docs/privacy)
