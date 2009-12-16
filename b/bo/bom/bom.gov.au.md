@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181330id_/http%3A//www.bom.gov.au/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216181604id_/http%3A//www.bom.gov.au/other/privacy.shtml) for the most accurate reproduction.*
 
 # Bureau of Meteorology - Privacy Statement
 
@@ -64,7 +64,7 @@ Cookies
   
 A cookie is an electronic token that is passed between browser and server to transfer small amounts of information. They are used to maintain site information as you navigate different pages on a web site or return to the web site at a later time. 
 
-We do not use cookies to collect personal information or to track your activities. Limited use of the cookies has been implemented to enhance the rain and river height map displays and to simplify repeat location selection of meteograms and in the marine pages. 
+We do not use cookies to collect personal information or to track your activities but to assist with your setting preferences. Limited use of the cookies has been implemented to enhance the rain and river height map displays and to simplify repeat location selection of meteograms, radar and in the marine pages. 
 
 For more details please refer to the [use of cookies within the Flood Warning Centre Pages](https://web.archive.org/other/legal/cookies_use.shtml) and [the use of cookies within the SILO Meteogram selection pages](https://web.archive.org/silo/CookieSummary.shtml). 
 
