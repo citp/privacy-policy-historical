@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oyyy.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170239id_/http%3A//www.oyyy.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyyy.co.uk privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216150622id_/http%3A//www.oyyy.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
 
-# Oyyy.co.uk > Security & Privacy
+# Oyyy.co.uk > Oyyy Home > Free Delivery available on orders over £49.99!
 
 #### Our Security & Privacy Policy 
 
