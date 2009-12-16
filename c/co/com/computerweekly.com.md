@@ -1,37 +1,84 @@
-> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608070959id_/http%3A//www.computerweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216161440id_/http%3A//www.computerweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | ComputerWeekly.com
 
-ComputerWeekly.com is owned and operated by Reed Business Information Ltd (RBI). Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
+##  Privacy Policy
 
-Contact details  
-We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within Reed Business Information Limited and their associated companies to provide you with information about other services and products and will also be disclosed to third party businesses and advertisers for the same purpose. 
+In order to help us provide the best possible user experience for our visitors we collect certain information about site usage and about visitors to our site, through, for example, the use of cookies.
 
-If you do not wish to be contacted for this purpose, please express your preferences on the appropriate registration page of ComputerWeekly.com.
+The information on this page explains what information we collect, how we make use of it, and how you can manage the information that we have about you.
 
-Voluntary Information  
-We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service. It may also be disclosed to other companies who may provide services of interest to you.
+**ComputerWeekly.com is owned and operated by:**
 
-'Cookies'  
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also, to protect the integrity of registered user names and passwords and to limit access to 'registered' services. The information we gather by use of cookies does not include personally identifying information. You have the option to refuse these cookies. If you choose to refuse these cookies you will be able to use this web site, but will not be able to use the channels of this website that require user registration (eg the Gartner channel) or register for other services such as editorial emails.
+Reed Business Information Ltd (RBI) Registered Office: Quadrant House, The Quadrant, Sutton, Surrey, SM2 5AS.  
+Registered in England under Company No. 0151537  
+VAT Number: GB 235723565
 
-Web Activity Reporting   
-We use Webtrends software which requires a cookie in order to gather valuable information about how users navigate around the site. Click here for the Webtrends privacy policy. <http://www.netiq.com/about_netIQ/privacypolicy.asp>
+All information collected is stored and processed in the UK and its use is governed by UK law.
 
-Statistical information  
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
+Please also see our [Terms & Conditions](https://web.archive.org/static-pages/terms-conditions/) of business and [Disclaimer](https://web.archive.org/static-pages/disclaimer/).
 
-Profile and CV Information
+**Cookies**
 
-If you post your CV to our database it will be available to be accessed either by way of a general broadcast or via an online search over the Internet by customers, who may be direct recruiters, employment consultants or other organisations, who pay us for such access.   
-IMPORTANT: Your current employer may be either a customer of ComputerWeekly or a client of one of our customers. ComputerWeekly cannot restrict the customers who access CVs posted on our database and cannot be held responsible for any eventualities that may result.   
-Some of our customers may be located in countries outside the European Economic Area.   
-We rely on you to ensure that your CV and contact details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.   
+**TIP:  ** _Don't know anything about cookies? See_[ _aboutcookies.org_](http://www.aboutcookies.org/) _for all you need to know, including how to manage which cookies you are willing to accept._
+
+Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. You can find out more about web cookies, and the law governing their use at [aboutcookies.org](http://www.aboutcookies.org/)
+
+We may use cookies to:
+
+  * provide you with access to services that require you to be a logged-in, registered user (for example, our premium content service);
+  * prevent you from seeing certain advertisements or surveys more than once;
+  * help us to match the advertisements and related content that we show you more closely to the content you have chosen to view while on our site;
+  * prevent you from voting or submitting results more than once in a poll, survey, or competition;
+  * keep you logged in to our site throughout a session so that you do not have to log in repeatedly;
+  * monitor how you use the site, so that we can improve our services to you (see web activity reporting, below).
 
 
-Commercial Advertising  
-Please click this link <http://www.adtech.info/privacy_en.php> for the Privacy Policy statement of our advertisement content provider.
 
-To alter your details
+The information we gather by use of cookies may include personally identifying information; if you do not wish to accept this, you can manage cookies via your browser.
 
-If your personal information changes you can alter the details we hold by sending an e-mail to [helpdesk@computerweekly.com](mailto:helpdesk@computerweekly.com) or by accessing one of the login pages of ComputerWeekly.com.
+Some of our third-party partners - for example advertisers - may also serve cookies to you via our site.
+
+**Managing cookies**
+
+You have the option to refuse to accept cookies from both our site and partners. However, if you choose to refuse these cookies you may find that some aspects of the site, in particular those requiring user registration, will not work.
+
+To find out how to manage which cookies you will and will not accept, please go to [aboutcookies.org](http://www.aboutcookies.org/).
+
+**Personal details**
+
+If you register with any of the services on our site that require registration (for example, our premium content service, email newsletter registration, the jobs service, magazine and digital magazine subscription forms, and competitions), we will use your contact details and other information provided by you in order to provide you with any services requested by you and also to tell you about important changes to the site and the services that you have requested. Your details will be stored and processed in the UK.
+
+Contact details will also be used by us and by other businesses within Reed Business Information Limited and its associated companies to provide you with information about other services and products, unless you specify otherwise by means of the registration form at the time of registering, or later, by editing your profile. Details may also be disclosed to third party businesses and advertisers for the same purposes - again, you may opt out of such contact by editing your preferences on the profile page at, or after, registration.
+
+If you do not wish to be contacted for these purposes, please [log in and indicate your preferences on the profile page at ComputerWeekly.com](https://www.computerweekly.com/profile/main).
+
+**Web activity reporting**
+
+In order to help us to improve our service, we use cookies and third-party software to gather information about how our users navigate around through the site. At present, our analytics providers are Google Analytics and HitBox (owned by Omniture). You can find their privacy policies here ([Google Privacy Center](http://www.google.com/privacy.html)) and here ([Omniture Privacy Statement](http://www.omniture.com/en/privacy/product)).
+
+**Statistical information**
+
+From time to time we provide aggregate statistical information to our advertisers and other partners, typically regarding website usage patterns. This statistical information does not include personally identifying information.
+
+**Commercial advertising**
+
+The advertisements on our site are served using the AdTech, Grapeshot and Firstlight advertising platforms. You can find their privacy statements here ([AdTech Privacy Policy](http://www.adtech.com/privacy/)) and here ([Grapeshot Privacy](http://www.grapeshot.co.uk/privacy.html)), and [Firstlight's website here](http://www.firstlightera.com/site/index.html).
+
+**Jobs service, profile and CV information**
+
+If you are registered with our jobs service, please also see the [Jobs Service Privacy Policy](http://www.reedbusiness.co.uk/rb2_terms/rb2_privacy.htm) for further information.
+
+**Email newsletters**
+
+Our email newsletters include a small transparent image, or 'beacon', that lets us know whether or not the emails we send out are being opened. This helps us to improve the service we offer, contact you about changes to your newsletter subscriptions and provide aggregated statistical information to advertisers about readership levels.
+
+By downloading images when you open the newsletter you will activate the beacon; if you do not wish to do this you can choose either not to download images in emails from us, or to receive all emails as plain text, by amending the settings and rules within your email client. However, this will also mean that you will be unable to see any pictorial or multimedia content contained within the newsletters
+
+**Access to data**
+
+You have the right to be told what personal information we hold about you on our databases. You should write to us, Reedbusiness.co.uk Update.net at Reed Business Information, Quadrant House, Sutton, Surrey, SM2 5AS, UK stating your full name, your address and all publications or services from RBI to which you know you subscribe. A small administrative charge will be made for fulfilling this request.
+
+**How t** **o change your details**  
+
+If your personal information changes you can [alter the details we hold by logging in and accessing your profile on ComputerWeekly.com](https://www.computerweekly.com/profile/main).
