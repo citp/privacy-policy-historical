@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630073727id_/http%3A//www.creditexpert.co.uk/PrivacyInfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216154319id_/http%3A//www.creditexpert.co.uk/PrivacyInfo.aspx) for the most accurate reproduction.*
 
 # CreditExpert.co.uk
 
