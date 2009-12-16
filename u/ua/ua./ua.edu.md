@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ua.edu privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152801id_/http%3A//www.ua.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ua.edu privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216061326id_/http%3A//www.ua.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Alabama
-
-### Privacy Statement
 
 The University of Alabama respects your privacy and collects no personally identifiable information about you unless you affirmatively choose to make such information available to us. The University does not actively share personal information about Web site visitors. Personal information provided by visitors, such as e-mail addresses or information submitted via online forms, is used by the University to assist individual visitors as necessary. This assistance may involve redirecting an inquiry or comment to another University individual or unit better suited to provide resolution.
 
