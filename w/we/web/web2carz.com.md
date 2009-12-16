@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154445id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217004331id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Used Car Search, New Car Search, Auto Finance Advice and Loans, Car Shopping Tips...
 
 Web2Carz PRIVACY STATEMENT
 
-_Last Updated: March 13, 2009_
+_Last Updated: November 11, 2009_
 
 Web2Carz recognizes the importance of protecting the privacy of all information provided by users of our web sites and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by Web2Carz. 
 
@@ -58,5 +58,8 @@ Web2Carz websites are not directed at individuals under thirteen years of age, a
 
 **NOTIFICATION and CHANGES**   
 If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
+
+**BANKRUPTCY CONSULTATION**   
+If you opted-in to to be contacted by a local bankruptcy attorney for a free consultation (on our loan application form) and if you agree to these terms and conditions you are also agreeing to Total Bankruptcy's terms and conditions. http://www.totalbankruptcy.com/terms_conditions.htm 
 
 For questions about this Privacy Statement, contact: [request@web2carz.com](mailto:request@web2carz.com)
