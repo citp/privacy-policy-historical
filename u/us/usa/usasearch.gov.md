@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the usasearch.gov privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624220746id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usasearch.gov privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216220413id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security: USA.gov
 
-[Home](https://web.archive.org/index.shtml "Home") > Privacy and Security
+[Home](https://web.archive.org/index.shtml) > Privacy and Security 
 
 Official information and services from the U.S. government
 
 [](https://web.archive.org/gobiernousa/Privacidad_Seguridad.shtml?toggleTo=en_Privacy_&_Security)
 
-Thanks for visiting the USA.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it's only used to fulfill your request for information.
+The USA.gov privacy policy is plain and simple. We collect NO personal information, like names or addresses, when you visit our website. If you choose to provide personal information to us, it's only used to fulfill your request for information.
 
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
+We do collect some technical information when you visit. This is used to help us manage and improve the USA.gov website. The section below explains how we handle and collect technical information when you visit our website.
 
   
 
@@ -20,14 +20,14 @@ We do collect some technical information when you visit to make your visit seaml
 When you browse, read pages, or download information on USA.gov, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
 
   * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you're surfing the web) from which you access our website;
-  * The type of browser (such as Firefox, Netscape, or Internet Explorer) and operating system (Windows, Unix) used to access our site;
+  * The type of browser (such as Firefox, Safari, or Internet Explorer) and operating system (such as Windows, Mac, Unix) used to access our site;
   * The date and time you access our site;
   * The pages you visit; and,
   * If you linked to the USA.gov website from another website, the address of that website.
 
 
 
-This information is only used to help us make the site more useful for you. With this data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
+This information is only used to help us make the site more useful for you. With this aggregate data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
 
   
 
@@ -36,31 +36,7 @@ This information is only used to help us make the site more useful for you. With
 
 When you visit some websites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future.
 
-USA.gov has a permit from the Office of Management and Budget allowing us to use persistent or "blocking" cookies within the American Customer Satisfaction Index (ACSI) survey.
-
-The survey is delivered randomly to USA.gov visitors as a pop up questionnaire. Answers to the survey help the staff at USA.gov improve the site -- making it easier to use and more responsive to the needs of our visitors.
-
-Cookies will:
-
-  * Block the repeated delivery of the survey either in the current visit or in any subsequent visit
-  * Record only that the visitor had the opportunity to answer the survey questions
-  * Expire 45 days after being set
-  * Reduce the burden on visitors to the site by avoiding repeated delivery of the pop-up survey
-
-
-
-Cookies will not:
-
-  * Collect any information about visitors
-  * Track the Web surfing activities of visitors
-  * Indicate whether a visitor answered any questions
-  * Link a particular visitor to any response or set of responses
-
-
-
-You may adjust the settings on your web browser to refuse cookies, or you may delete the cookie whenever you wish. Refusing or removing the cookie will not impact your visit to USA.gov, except that you may experience repeated delivery of the USA.gov ACSI survey.
-
-USA.gov also uses per-session cookies to serve technical purposes, like providing seamless navigation through USA.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. USA.gov's per-session cookies are stored in memory and are only available during an active browser session. When you close your browser, the per-session cookie disappears.
+USA.gov uses per-session cookies to serve technical purposes, like providing seamless navigation through USA.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. USA.gov's per-session cookies are stored in memory and are only available during an active browser session. When you close your browser, the per-session cookie disappears.
 
   
 
@@ -109,4 +85,7 @@ The information posted on the USA.gov website includes hypertext links or pointe
   * GSA and USA.gov **are not** responsible for transmissions users receive from linked websites.
   * GSA and USA.gov **do not** guarantee that outside websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
 
+
+
+  
 
