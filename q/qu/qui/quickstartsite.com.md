@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629224146id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickstartsite.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216082311id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MINING GOLD PRIVACY POLICY
 
