@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornfuze.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618055646id_/http%3A//www.pornfuze.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornfuze.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002329id_/http%3A//pornfuze.com/pages/privacy) for the most accurate reproduction.*
 
 # Free Porn Videos - Sex, Porno, Porn Tube, Free XXX Porn - PornFuZe
 
