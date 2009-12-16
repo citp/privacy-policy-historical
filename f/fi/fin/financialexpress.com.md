@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070848id_/http%3A//www.financialexpress.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217003055id_/http%3A//www.financialexpress.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
