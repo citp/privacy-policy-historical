@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the single-russian-woman.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152258id_/http%3A//www.single-russian-woman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the single-russian-woman.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216090458id_/http%3A//www.single-russian-woman.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,21 +6,21 @@
   
 General
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested. The Information We Collect: This site does not collect any information. 
+There are two types of information you provide during registration: public and private. Public information is displayed on your Personal Profile visible to other users. Any offensive language found in your Personal Profile will be removed. Private information is hidden from others (e.g., Name or Date of Birth). It is always clear whether information you enter will be public or private. 
 
 About Single-Russian-Woman.Com
 
-Single-Russian-Woman.Com is online dating service, which enables any person to get acquainted through the Internet. Any visitor may carry out search profiles other participants with the help of special system of search in criteria, also he may read articles free on our site and to receive anyone interesting for him the information on our service. For this purpose it is not required to the visitor to give us any information on. To get full access to our service it is necessary to become the registered member.  
-We collect a members contact information (like an e-mail address, homepage, address, phone). We use our members contact information to get in touch with them when necessary. 
+We will not share your email address or other personal information with any third party without your expressed permission. We will keep private the history of your interactions with other users on Single-Russian-Woman.com. 
 
 Private and Public Information
 
-The data entered by the user at registration share on two types "private" and "public": \- private - your contact and personal information (like an e-mail address, homepage, address, phone) it is kept in safety and not may be published.  
-\- public - information supplied by the user is intended to be viewed by visitors to the site. This information is used by visitors for searching. Public information cannot be used to identify a specific member by name, address, etc 
+Single-Russian-Woman.com may display ads provided by third-party advertizing networks. These advertizing networks may collect non-personally identifiable information (it does not include e-mails, phone numbers, etc) about your navigation through Single-Russian-Woman.com and advertized sites in order to analyze consumers' preferences. 
 
 Security of Data
 
-This site has measures system of safety for protection of protection of losses, misuse and change of the information at our control. We have safe system of registration and service that confirms presence of certificate VeriSign, and all your personal information is ciphered when were sent and is received. Our internal network has some systems of protection, that completely excludes its defacement and destruction. 
+Third party advertizing networks who display ads on Single-Russian-Woman.com may store and read cookies on your computer via your browser. Cookies are a regular part of working in the Internet; they help to personalize your usage of the web sites. For instance, Single-Russian-Woman.com employs cookies for identification of its users when they sign in. 
+
+Third-party advertizing networks may display ads on behalf of Single-Russian-Woman.com. These advertizing networks may use cookies and web beacons (also called single pixel gifs) to collect your anonymous data for advertizing effectiveness monitoring. 
 
 Contacting the Web Site
 
