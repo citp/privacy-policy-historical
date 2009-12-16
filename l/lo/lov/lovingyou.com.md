@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051348id_/http%3A//www.lovingyou.com/info/file.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192550id_/http%3A//www.lovingyou.com/info/file.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # Lovingyou.com: Corporate Information
 
