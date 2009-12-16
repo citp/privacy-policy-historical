@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ihiremarketing.com privacy policy that was archived on 2009-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611015837id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ihiremarketing.com privacy policy that was archived on 2009-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216054053id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -10,9 +10,10 @@
 <meta name="verify-v1" content="3YqslVRRs7tZe1Ldo+YCPu/5x5kXJ4qraua9JpsMvP8=">
 
 <link rel="stylesheet" href="http://www.iHireMarketing.com/stylesheets/style_MKT.asp" type="text/css">
-<script language="javascript" src="Javascript/mbox.js">
-</script><style>.mboxDefault { visibility:hidden; }</style>
+<script language="javascript" src="Javascript/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 </head>
+
+
 
 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" background="http://www.iHireMarketing.com/images/_MKT_back.jpg" bgcolor="#ffffff">
 <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" id="Table1">
@@ -134,6 +135,202 @@
 	</tr>
 </tbody></table>
 
+<!--SET SiteCatalyst Variables -->
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    var myReportSuite = '';
+</script>
+
+<script language="javascript" src="Javascript/s_code.js"></script>
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript">
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    var sServer = 'WEBSRV110';
+    var sPath = window.location.pathname;
+    var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+    sPage = sPage.toLowerCase();
+   //Put QueryString into object GET[]
+    var a = location.search.slice(1).split("&"), GET = [];
+    
+    for (i in a) { GET[a[i].split("=")[0]] = a[i].split("=")[1]; }
+  
+//ALL Pages pagename generation
+    if (sPage.length < 1 || sPage.indexOf("default.asp") != -1) {
+        sPage = "HomePage";
+    }
+    var sPageCheck = sPath.substring(sPage.lastIndexOf('/') + 1);
+    if (sPage.indexOf("-") != -1) {
+    
+
+        sPage = "SiteMap:" + sPage.substring(sPage.lastIndexOf("-") + 1, sPage.lastIndexOf("."));
+        if (sPageCheck.indexOf("t-") != -1) {
+            sPage = sPage + ":Title";
+        }
+        if(sPageCheck.indexOf("-c-") != -1) {
+            sPage = sPage + ":City";
+        }
+        
+    if (sPageCheck.indexOf("-s-") != -1) {
+
+        sPage = sPage + ":State";
+    }
+}
+
+//Sitemap directory pages
+if (sPage.indexOf("site_map") != -1) {
+    if (typeof (GET["type"]) != 'undefined') {
+        sPage = GET["type"].toLowerCase() + "directory:";
+        if (typeof (GET["state"]) != 'undefined') {
+            sPage = sPage + "state:";
+
+        } 
+        if (typeof (GET["title"]) != 'undefined') {
+        sPage = sPage + "title";
+        
+        }
+
+
+    } else {
+    sPage = "sitemap:home";
+    
+}
+    
+
+
+}
+
+
+//User login status
+s.prop15 = 'Logged Out';
+
+
+//Check fo registration
+//Employer
+if (typeof (GET["EREG"]) != 'undefined') {
+    s.eVar18 = unescape(GET["EREG"]);
+    s.eVar19 = "Employer";
+    s.events = "event3";
+
+}
+
+if (typeof (GET["SessionTO"]) != 'undefined') {
+   
+    s.events = "event9";
+
+}
+
+
+//Candidate
+if (typeof (GET["CREG"]) != 'undefined') {
+    s.eVar18 = unescape(GET["CREG"]);
+    s.eVar19 = "Candidate";
+    s.events = "event4";
+    
+}
+
+
+
+//Check for successful login
+//Employer
+if (typeof (GET["ELOGIN"]) != 'undefined') {
+    s.eVar18 = unescape(GET["ELOGIN"]);
+    s.eVar19 = "Employer";
+    
+}
+//Candidate
+if (typeof (GET["CLOGIN"]) != 'undefined') {
+    s.eVar18 = unescape(GET["CLOGIN"]);
+    s.eVar19 = "Candidate";
+   
+}
+
+//Check for JobID
+//JobID - Both employer and candidate
+if (typeof (GET["JobID"]) == 'undefined') {
+    if (typeof (GET["PJobID"]) == 'undefined') {
+    } else {
+    s.prop6 = GET["PJobID"];
+    }
+
+} else {
+    if (GET["JobID"].length > 0) {
+        s.prop6 = GET["JobID"];
+    }
+}
+//Check for resume upload
+if (typeof (GET["Uploaded"]) != 'undefined') {
+    s.events = "event6";
+    s.prop18 = GET["Method"];
+}
+//Check for campaign
+
+if (typeof (GET["campaign"]) != 'undefined') {
+
+    s.campaign = GET["campaign"];
+
+}
+if (typeof (GET["EI"]) != 'undefined') {
+
+    if (GET["EI"] = "True") {
+
+    s.campaign = "EmploymentInsider";
+
+}
+
+}
+
+
+
+
+
+
+
+//Check for referral
+if (typeof (GET["Referral"]) != 'undefined') {
+    s.events = "event5";
+}
+
+
+    //Set Pagename
+s.pageName = sPage.toLowerCase();
+s.server = sServer;
+s.channel = document.title;
+s.pageType = "";
+s.prop4 = document.domain;
+    
+</script>
+    
+     
+     
+   
+    
+        
+  
+   
+
+
+
+<script>
+</script>
+
+
+<!-- /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/-->
+<script language="javascript" type="text/javascript">    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://.122.2O7.net/b/ss//1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
 
 
 </body></html>
