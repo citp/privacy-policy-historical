@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522094624id_/http%3A//www.costarica.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216080258id_/http%3A//www.costarica.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Costa Rica - Privacy Policy
 
@@ -56,6 +56,6 @@ COSTARICA.COM may update this policy. We will notify you about significant chang
 ### 5\. Questions and Suggestions  
 
 
-Please address your concerns, questions, and suggestions to [privacy@costarica.com.](mailto:privacy@costarica.com.)
+Please address your concerns, questions, and suggestions to [privacy@costarica.com](mailto:privacy@costarica.com) .
 
 [Back to Top](http://www.costarica.com/Home/#top)
