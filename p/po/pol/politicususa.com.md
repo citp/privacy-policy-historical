@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622174920id_/http%3A//www.politicususa.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216085234id_/http%3A//www.politicususa.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Politicususa.com
 
