@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625171147id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216090951id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
 
 # Preloved | Buy and Sell Online for Free in UK and Ireland
 
@@ -106,10 +106,6 @@ Then why not sign up to "The Haggler", our occasional email newsletter telling y
 It lets you in on all the hints and tips that we have picked up behind the scenes here at Preloved, and is completely free of charge.
 
 [Sign up now...](http://www.preloved.co.uk/fuseaction-us.default/bee5b766.html)
-
-**Are you a fan of Preloved?**
-
-If so, why not help us spread the Joy of Second Hand by joining us on Facebook. [[more...]](http://www.preloved.co.uk/index.cfm?fuseaction=go.campaign&campaignId=10001555&cb=47906348&cs=87e3d7fe)
 
 ### Do you own a UK web site?
 
