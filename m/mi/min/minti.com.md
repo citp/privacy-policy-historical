@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minti.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064248id_/http%3A//www.minti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minti.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001851id_/http%3A//www.minti.com/privacy-policy) for the most accurate reproduction.*
 
 # Minti - Privacy Policy
 
