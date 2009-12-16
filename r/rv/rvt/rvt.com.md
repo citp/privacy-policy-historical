@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060537id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000451id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
 
 # RVT Privacy Agreement
 
