@@ -1,29 +1,92 @@
-> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064253id_/http%3A//www.kirklands.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirklands.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001837id_/http%3A//www.kirklands.com/t-security.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-Privacy Policy
+[Home](https://web.archive.org/web/20091217001837id_/http%3A//www.kirklands.com/default.aspx) | Privacy Statement
 
-This Security and Privacy statement discloses the privacy practices for http://www.kirklands.com. This statement does not apply to the practices of companies that Kirkland's does not own or to people that Kirkland's does not employ.
+  
 
-Commitment To Privacy: Kirkland's values its customers and respects their privacy. In connection with demonstrating its commitment to your privacy, Kirkland's has agreed to disclose its information and privacy and security practices. If you feel that Kirkland's is not abiding by its posted privacy and security practices, you should contact our customer service department at csr@kirklands.com.
 
-Information We Collect and Use: We collect information about you (such as your name, e-mail address, mailing address, phone number, e-mail/IP address, transactions with us, and credit card number) that you provide when you place an order or that you provide to us in any other way. We may acquire customer names, e-mail addresses or mailing addresses for select mailings from third parties. We use the information that you provide for purposes such as responding to your requests, communicating with you, improving our services, conducting research, providing anonymous reporting for existing and prospective clients or advertisers, and processing and confirming your order. From time to time, we may also use your information to notify you about our products, services, contests, or promotions. Except as otherwise provided herein, we do not sell or rent the information that you provide to us online to third parties.
+Privacy Statement
 
-Ordering: We request information from you on our order form. Here, a customer must provide contact information (like name and shipping address) and financial information (credit card number, expiration date, and billing address). This information is used for billing purposes to verify the customer is of legal age, and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+Welcome to the Kirkland’s, Inc.’s websites, available at “Kirklands.com” and “MyKirklands.com” (collectively, the “Sites”).  This Statement discloses the Security and Privacy Policy (this “Policy”) for the Sites and describes how Kirkland’s, Inc. (“Kirkland’s”), the operator of the Sites, collects, protects and uses information we receive from visitors to the Sites.  This Policy has been created in order to demonstrate and inform you of our firm commitment to privacy and to outline how we deal with any personal data you provide while visiting the Sites. If you do not agree with any portion of this Policy, you should not use the Sites. This Policy applies only to information collected through the Sites and not to information collected offline or through any other websites (even if affiliated with Kirkland’s).
 
-Cookies: A cookie is a piece of data stored on the end-user's hard drive containing information that relates directly to the end-user's visit to our web site. Kirkland's may, from time to time, use cookies. Any information placed in the cookie is accessible only to Kirkland's, and will not be sold or shared with anyone else. In the event that we use cookies, we do so to improve your shopping experience as cookies enable us to track and target the interests of our customers to enhance the experience on our site. You may change your browser to prevent your browser from accepting cookies.
+_Last updated and effective as of September 17, 2009._
 
-Sharing of Information: We value your privacy at Kirkland's, and will not release any personally identifiable account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so or otherwise in accordance with this privacy and security statement. We will share aggregated demographic information with our partners and advertisers. This information, however, is not linked to any personal information that can identify any individual person. We may from time to time use an outside shipping company to ship orders or a credit card processing company to bill users for goods and services. Additionally, we may contract with third parties to assist us in maintaining or managing our customer information. In such events, we will advise these companies not to retain, share, store or use personally identifiable information for any secondary purposes. We may be required to use your information to respond to court orders or subpoenas or to establish or exercise our legal rights or to defend against legal claims. We may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law. We may transfer your information if Kirkland's or the assets thereof are acquired by or merged with another company.
+1.         THE INFORMATION WE COLLECT
 
-Links: In the event that this web site contains links to other sites, please be aware that Kirkland's is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+There are two kinds of information websites can obtain about you: 
 
-Security: When our order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the encryption software - SSL (Secure Socket Layers), provided by VeriSign, a premier encryption software company. While we use SSL encryption to protect sensitive information online, we also take actions to protect user-information offline. Our users' information is generally restricted in our offices. Our employees are notified and/or reminded about the importance of keeping our customers' information secure and safe at all times. The servers on which we store personally identifiable information on are kept in a locked and secure environment.
+(A) _Anonymous Information_ : “Anonymous Information” is aggregate data that websites use to administer their sites. This Anonymous Information comprises information that cannot be used to identify or contact you, and may include such information as your browser type or your Internet Protocol (IP) address (if not deleted, clipped or anonymized). Kirkland’s may from time to time retain third parties to help us collect and aggregate information pertaining to either or both of the Sites.
 
-Children: Please note that if you are under 18, you may purchase products from kirklands.com only with the involvement of a parent or guardian.
+**IP Addresses**. **  **An IP address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We use your IP address to help diagnose problems with our servers, to administer our Sites, avoid hacking attacks on the Sites’ servers, and may use it to gather broad demographic information. We do not link IP addresses to any Personally Identifiable Information, even if such information is voluntarily provided by a user. 
 
-Correcting/Updating Personal Information: If your personally identifiable information changes (such as your shipping or billing address, your preferred credit card, etc.), you can add new information or delete any addresses or credit cards from your account on our website or you may obtain live one-on-one help toll-free by phone at csr@kirklands.com.
+**Cookie Information**. As is the case with many websites, our Sites use a technology called “cookies”, which are small data files that are downloaded onto your computer. The use of cookies is standard on the Internet, and allows us to tailor your visits to our Sites to your individual preferences.  We also may contract with third party service providers who assign cookies and/or web beacons to conduct site tracking for us. These companies use cookies solely to provide us with aggregate data about Site traffic. Although most web browsers automatically accept cookies, you can change your browser to prevent cookies or notify you whenever you are sent a cookie. Even without accepting a cookie, you can still access most of the features on our Sites. ****
 
-Notification of Changes: If we decide to change our privacy and security statement, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we may disclose it. We will use information in accordance with the privacy and security statement under which the information was collected.
+(B) _Personally Identifiable Information_ : “Personally Identifiable Information” is any information that personally identifies you, such as your name, email address or your telephone number. Sometimes this personal information is needed when you order merchandise from Kirkland’s, register for participation in the Forums, subscribe to our email communications, or when you contact us.  For example, you may be asked to provide the following information:
 
-Agreement to Privacy and Security Statement. By using our Web site, you agree to the Kirkland's privacy and security statement as provided above.
+**User Accounts**.  To order merchandise from Kirkland’s or to participate in certain features of each Site, we may request that you create an account by providing personal information and creating a user ID and password.  We will use this along information along with information pertaining to your order as well as credit card information to maintain your account.  We may also use this information to send you announcements of new Site features, special offers and promotional materials that we think may be of interest to you.  You may elect not to receive such information by opting out as described below. 
+
+**Ordering**.  We request information from you on our order form.  In connection with purchases via the Sites, a customer may be required to provide contact information (including address and name) and financial information (including billing address, credit card number and expiration date).  This information is used for billing purposes, order fulfillment and age verification.  In the event an issue arises in connection with an order, we may also use this information to contact you regarding such order.  
+
+**Email and Other Communications.   **We offer visitors to the Sites the opportunity to sign up to receive email communications from the Sites. In order to sign up for these communications, we ask for contact information, such as name, email address and zip code.  We also may offer the opportunity for you to receive other communications that we think may be of interest to you.    
+
+**Email Correspondence**. Scattered throughout the Sites are links or forms that can be used to contact the Sites so you can comment, make a complaint, make suggestions and ask questions. Your name, email address, address, and phone number are requested on these forms so we can address our answer in a mannerly way. Kirkland’s may put information from email on file, but does not currently sell or license this information with third parties without express authorization from you. ****
+
+2\.         HOW WE USE GATHERED INFORMATION
+
+The information you share with us may be used in a few ways:
+
+(A) _Anonymous Information_ :  Anonymous Information is used internally for administration of the Sites, troubleshooting, and to help improve the quality of the Sites and their design. We may share such aggregated, non-personally identifiable information, such as demographics, with existing and prospective business partners and advertisers.  We never connect aggregate information with Personally Identifiable Information, and none of the Anonymous Information we share will contain any information that identifies you individually. 
+
+(B) _Personally Identifiable Information_ :  Personally Identifiable Information collected by Kirkland’s may be used for purposes including administration of the Sites, forum registration, and communications with you. In all cases, however, we will only use your information as permitted by law. In addition, we may from time to time contract with third parties to assist us in maintaining and managing our customer information.  In such events, we will advise these companies not to retain, share, store or use Personally Identifiable Information for any secondary purposes.  We may also disclose Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note we may not provide you with notice prior to disclosure in such cases. 
+
+3.         Opt-ouT
+
+We support the right of visitors to choose. You will be given the right to opt-out of receiving any promotional materials about Kirkland’s or its partners whenever you are asked to provide Personally Identifiable Information on the Sites.  If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us at info@kirklands.com or at the address provided below, indicating that you no longer want to receive information relating to the Sites.
+
+4.         SECURITY
+
+Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. The Sites incorporate reasonable safeguards to protect the security, integrity and privacy of the personal information we have collected.  We have put in place reasonable precautions to protect information from loss, misuse and alteration, including Secure Socket Layer (SSL) technology and database encryption. Please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, Kirkland’s cannot ensure or warrant the security of any information you transmit to us or through the Sites. 
+
+5.         DISCLOSURE OF INFORMATION THROUGH BUSINESS TRANSFERS
+
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information.  In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or substantially all of Kirkland’s assets are sold or transferred to a third party, customer information (including Personally Identifiable Information) would likely be one of the transferred business assets. 
+
+6.         Our Commitment to children's privacy
+
+Protecting the privacy of children is very important to us. The Children's Online Privacy and Protection Act of 1998 (“COPPA”) defines a “Child” as anyone under the age of 13.  Kirkland’s strictly adheres to COPPA. For that reason, we do not collect or maintain information obtained through our Site from those we actually know are under 13, no part of our Site is structured to attract anyone under 13, and we do not knowingly collect or use the personal information of minors for marketing purposes.  Please note that if you are under 18, you may purchase products through the Sites only with the involvement and consent of a parent or guardian. 
+
+7.         EXTERNAL LINKS
+
+The Sites may provide links to various websites that we do not control. When you click on one of these links, you will be transferred out of our Sites and connected to the website of the organization or company that you selected. We are not responsible for the nature, quality or accuracy of the content or opinions expressed on such websites, or of the services provided through such websites.  Such websites are not investigated, monitored or checked for quality, accuracy or completeness by us. Inclusion of any linked website on the Sites does not imply or express an approval or endorsement of the linked website by us, or of any of the content, opinions, products or services provided on these websites. Even if an affiliation exists between our Sites and a third-party website, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures.  While Kirkland’s expects its partners and affiliates to respect the privacy of our users, Kirkland’s cannot be responsible for the actions of third parties.  If you visit a website that is linked to from our Sites, we encourage you to consult that website's privacy policy before providing any personal information and whenever interacting with any website. 
+
+8.         Consent and Modifications to Privacy Statement
+
+The Sites are controlled, operated and administered entirely within the United States.  By using the Sites, you signify your agreement to the terms of this Policy. If you do not agree with this Policy, please do not disclose any personal information through the Sites.  This Policy and the use of the Sites are governed by Tennessee law.  Any claim related to the Sites or this Policy shall be brought in a federal or state court in Davidson County, Tennessee, within one year after the claim arises. Users of the Sites consent to the exclusive jurisdiction and venue of such courts as the most convenient and appropriate for the resolution of disputes concerning this Policy. This Policy and the notices outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any third party. 
+
+9.         SPECIAL NOTICE TO CALIFORNIA RESIDENTS
+
+Under the California Civil Code, residents of the State of California that have provided any Personally Identifiable Information to Kirkland’s have the right to request a list of all third parties to which Kirkland’s has disclosed Personally Identifiable Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if Kirkland’s has a privacy policy that gives either an opt-out or opt-in choice for use of Personally Identifiable Information by third parties (such as advertisers or affiliated companies) for marketing purposes, Kirkland’s may instead provide you with information on how to exercise your disclosure choice options free of charge.  Kirkland’s qualifies for the alternative option and has adopted a policy of not disclosing the personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option that prevents that information from being disclosed to third parties for those purposes.  It has established this Policy that provides you with details on how you may either opt-out of the use of your Personally Identifiable Information by third parties for direct marketing purposes.  If you are a California resident and would like to request information about how to exercise your third party disclosure choices, please send a request to **** info@kirklands.com with a preference on how our response to your request should be sent.
+
+10.       Modifications To Privacy Policy
+
+Kirkland’s may modify this Policy at any time, at its discretion, and modifications are effective upon being posted on the Sites. You are responsible for reviewing this Policy periodically to ensure that you are aware of any changes to it. 
+
+11.       ACCOUNT REVISIONS, REVOKING & DELETING PERSONAL INFORMATION
+
+We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to the Sites.  You may contact us at through one of the methods listed below.
+
+**E-mail** :             info@kirklands.com
+
+**Address** :          Guest Service
+
+                        Kirkland’s, Inc.
+
+431 Smith Lane
+
+Jackson, TN 38301
+
+**Telephone** :      (877) 208-6668          
+
+8035185.1
