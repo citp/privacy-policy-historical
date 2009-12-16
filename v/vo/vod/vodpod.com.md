@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodpod.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628173453id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodpod.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216222515id_/http%3A//vodpod.com/privacy) for the most accurate reproduction.*
 
 # Vodpod: Privacy
 
