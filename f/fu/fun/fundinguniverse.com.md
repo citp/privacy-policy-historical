@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundinguniverse.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174436id_/http%3A//www.fundinguniverse.com/privacy.php%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundinguniverse.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000529id_/http%3A//www.fundinguniverse.com/privacy.php%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D600) for the most accurate reproduction.*
 
 # None
 
