@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061840id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001422id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
 
 # jobsgopublic - Public Jobs and Careers | Pages | Show
+
+## Privacy Statement
 
 We respect your right to privacy. Our relationship with you is valuable and we understand the importance you place on the privacy and security of information that personally identifies you. In that respect, whether you are a first time visitor to our website ("Website") or a regular user, we take your privacy seriously. Please read the following to learn more about our privacy policy and information handling practices.
 
 ## Personal details
 
 We collect personal information from you when you register with us and when you use our services. Information we collect includes name, email address and other contact details. We use this information to provide our services to you and to communicate with you generally.
-
-Your express permission will always be requested before an employer is able to view your personal details in our Talent Pool. Alternatively you can opt to allow all employers to view your details without first requesting express permission. These permission settings can be altered, only by you, at any time.
 
 It is not our practice to rent or sell your details or otherwise share them with organisations or individuals not connected with the Website. However, we may disclose personal data when we deem it appropriate on the sale of the whole or any related part of our business and/or assets, and/or in order to comply with applicable law.
 
