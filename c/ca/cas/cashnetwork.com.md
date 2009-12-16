@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetwork.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626184846id_/http%3A//www.cashnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetwork.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216141417id_/http%3A//www.cashnetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # CashNetwork: Maximum payouts. Unlimited possibilities.
 
@@ -14,7 +14,7 @@ This policy describes the information collection, use, and dissemination practic
 
 **Please Note: CASHNETWORK.COM from time to time, may make changes to this privacy policy to reflect changes in its legal or regulatory obligations or in the manner in which we deal with your personal information. Changes are effective upon posting. It is your sole responsibility to be aware of changes. We do not provide notices of changes in any manner other than by positing the changes at this web site. We encourage you to refer back to this policy on a regular basis.**
 
-Last updated: December 8, 2008
+Last updated: December 10, 2009
 
 **THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF CASHNETWORK.COM.**
 
@@ -100,7 +100,7 @@ The following paragraphs in Section 2 describe how CASHNETWORK.COM currently use
 
 **2.2 Email and Unsubscribe Policy.**
 
-CASHNETWORK.COM uses Individual Information to provide promotional offers by email to individuals. CASHNETWORK.COM may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all CASHNETWORK.COM's email lists, a person must send an email to information@cashnetwork.com.
+CASHNETWORK.COM uses Individual Information to provide promotional offers by email to individuals. CASHNETWORK.COM may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all CASHNETWORK.COM's email lists, a person must send an email to info@cashnetwork.com.
 
 CASHNETWORK.COM's unsubscribe process impacts only the future delivery of electronic mailings disseminated by CASHNETWORK.COM on its own behalf. You may still receive electronic mailings sent on behalf of Third Parties and your personal information may still be shared with Third Parties for use in offline marketing and data appends, including email appends.
 
@@ -186,7 +186,7 @@ To unsubscribe from a particular list, either (1) send an email to [info@cashnet
 
 **(b) Unsubscribe from all of CASHNETWORK.COM's email lists.**
 
-We reserve the right to add Individual Information to multiple lists maintained by CASHNETWORK.COM. To globally unsubscribe from all of CASHNETWORK.COM's lists, send an email to information@cashnetwork.com.
+We reserve the right to add Individual Information to multiple lists maintained by CASHNETWORK.COM. To globally unsubscribe from all of CASHNETWORK.COM's lists, send an email to info@cashnetwork.com.
 
 **6\. FURTHER INQUIRIES**
 
@@ -196,11 +196,9 @@ Privacy Officer
 
 Cash Network
 
-305 Madison Avenue, Suite 449
+1753 E. Broadway Suite 101-287
 
-New York, NY 10165
-
-Phone: 1-866-491-8525
+Tempe AZ, 85282
 
 Email: [info@cashnetwork.com](mailto:info@cashnetowrk.com)
 
