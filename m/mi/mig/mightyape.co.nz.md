@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061614id_/http%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001241id_/http%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
 
-# Mighty Ape: Help - Privacy Policy
+# Help - Privacy Policy at Mighty Ape
 
 The internet offers the chance to collect information about site users. This information can be personally identifiable information or aggregated information. However your privacy is important to us and we want to be sure that you understand the terms and conditions relating to the way in which we collect information and the use of that information. 
 
@@ -63,4 +63,4 @@ You will always have the option to opt in to certain services and to opt out of 
 
 The Privacy Act of 1993 gives you the right to access and correct your personal information. To find out more about how to do this, please **[contact us](http://www.mightyape.co.nz/help/contact/)**. Alternatively, post your corrections to the attention of the Database Marketing Manager at Mighty Ape, PO Box 80, Greenhithe, Auckland, New Zealand, 0756.
 
-If you have any questions regarding our privacy policy, please **[contact us](http://www.mightyape.co.nz/help/contact/)**. 
+If you have any questions regarding our privacy policy, please **[contact us](http://www.mightyape.co.nz/help/contact/)**.
