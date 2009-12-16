@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611015837id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216054053id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
 
 # Marketing Jobs
 
