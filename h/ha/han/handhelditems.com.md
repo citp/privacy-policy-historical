@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224191725id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216105945id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
 
 # HandHelditems.com Privacy Policy
 
@@ -28,6 +28,10 @@ We request information from the user on our order form. A user must provide cont
 
 **Information Use**   
 The information you provide us will only be used for processing orders and informing our customers of upcoming promotions or newsletters. 
+
+( You may choose to subscribe to our newsletter. Also unsubscribe anytime here 
+
+[https://www.handhelditems.com/newsletter.php](https://www.handhelditems.com/newsletter.php)) 
 
 **Profile**   
 We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
@@ -106,7 +110,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Phone : 909-595-3326  
 Email : sales@Handhelditems.com  
 Postal Address   
-377 south lemon Ave  
-Suite B   
-Walnut, CA 91789  
+1211 John Reed Court  
+City of Industry, California 91745  
 Main Web site URL https://www.Handhelditems.com 
