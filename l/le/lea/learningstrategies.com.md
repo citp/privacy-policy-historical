@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430040949id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216053048id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
 Privacy Policy 
 
-Effective Date of Current Policy: August 21, 2008  
-
+Effective Date of Current Policy: August 21, 2008
 
 This is how we will handle information we learn about you from your visit to our website. It is based on how all of us at Learning Strategies Corporation want to be treated when we visit other websites. 
 
@@ -19,8 +18,7 @@ We use the information we collect to measure the number of visitors to the diffe
 
 If you identify yourself by sending an email or ordering from our site: 
 
-You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally you may receive product announcements or tips on getting more benefit from our products-these may come via the mail or email and may come from us or directly from the author or publisher of the program you purchased from us. At any time, you can tell us not to initiate contact with you in this manner.   
-
+You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally you may receive product announcements or tips on getting more benefit from our products-these may come via the mail or email and may come from us or directly from the author or publisher of the program you purchased from us. At any time, you can tell us not to initiate contact with you in this manner.
 
 Every time you purchase a product on our web site you will receive order acknowledgment emails, and if applicable, product fulfillment emails. If the product you purchase is a teleseminar or other event, you will receive event details via email.
 
@@ -28,7 +26,7 @@ We want to be very clear: We will not obtain personally-identifying information 
 
 If you purchase a downloadable product from us:
 
-When you "checkout" or otherwise "purchase" Learning Strategies Corporation programs or products, you are granted a limited, revocable, non-exclusive, non-transferable license to download or stream such Learning Strategies programs or products to your computer and/or your device(s) solely for your personal non-commercial use. You shall not copy, reproduce, distribute or use the Learning Strategies program or product in any other manner. You shall not sell, transfer, lease, modify, distribute or publicly perform the Learning Strategies program or product in any manner and you shall not exploit it commercially. Do not (A) decompile, disassemble, or reverse engineer the Learning Strategies program or product or attempt to do so; or (B) modify the Learning Strategies program or product or create any derivative works therefrom. 
+When you "checkout" or otherwise "purchase" Learning Strategies Corporation programs or products, you are granted a limited, revocable, non-exclusive, non-transferable license to download or stream such Learning Strategies programs or products to your computer and/or your device(s) solely for your personal non-commercial use. You shall not copy, reproduce, distribute or use the Learning Strategies program or product in any other manner. You shall not sell, transfer, lease, modify, distribute or publicly perform the Learning Strategies program or product in any manner and you shall not exploit it commercially. Do not (A) decompile, disassemble, or reverse engineer the Learning Strategies program or product or attempt to do so; or (B) modify the Learning Strategies program or product or create any derivative works therefrom.
 
 Will we disclose any personal information we collect to outside parties? 
 
@@ -38,17 +36,14 @@ We may provide aggregate statistics about our customers, sales, traffic patterns
 
 When you send us a personal story or testimonial 
 
-We are grateful when clients send us their success stories as well as a photograph. We'll share them to help others understand the possibilities of using our programs. When you send us a story, the only changes we will make are minor edits to correct any spelling and grammar mistakes or to make your story clearer. We will use your name and town unless you tell us not to. And at any time you would like us not to use your story, just send us an email.  
-
+We are grateful when clients send us their success stories as well as a photograph. We'll share them to help others understand the possibilities of using our programs. When you send us a story, the only changes we will make are minor edits to correct any spelling and grammar mistakes or to make your story clearer. We will use your name and town unless you tell us not to. And at any time you would like us not to use your story, just send us an email.
 
 Children's Privacy 
 
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.  
-
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 
 
 We may from time to time update this Policy. 
 
-We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the “Effective Date of Current Policy”  
-legend at the top of the Policy.
+We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Effective Date of Current Policy" legend at the top of the Policy.
 
 Please [contact us](https://web.archive.org/ReachUs.asp) with any questions or concerns. 
