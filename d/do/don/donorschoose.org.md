@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055308id_/http%3A//www.donorschoose.org/help/privacy_policy.html%3Fzone%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216112827id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
 
 # DonorsChoose.org: Privacy Policy
-
-| 
 
 **Privacy Policy  
 DonorsChoose.org**
 
-This document contains the privacy practices for the DonorsChoose.org web site and DC's other web sites (collectively, the "Sites"). These Sites are owned and operated by or on behalf of DonorsChoose.org, Inc. ("DC"). We at DC take your privacy seriously. The purpose of this Privacy Policy is to inform you about the information that is collected about you on the Sites, how DC may use and disclose the information that is collected, how information can be corrected or changed, and your obligations regarding information about others you may encounter in using the Sites. Please note that this Privacy Policy only governs information gathered from you online through these Sites. 
+This document contains the privacy practices for the DonorsChoose.org web site and DC's other web sites (collectively, the "Sites"). These Sites are owned and operated by or on behalf of DonorsChoose.org ("DC"). We at DC take your privacy seriously. The purpose of this Privacy Policy is to inform you about the information that is collected about you on the Sites, how DC may use and disclose the information that is collected, how information can be corrected or changed, and your obligations regarding information about others you may encounter in using the Sites. Please note that this Privacy Policy only governs information gathered from you online through these Sites. 
 
 1\. _How Does DC Collect Information?_
 
@@ -55,7 +53,7 @@ We do not sell, trade, or rent your personal information to others without your 
 
 5\. _A Note to Parents_
 
-Use of the Sites by children (defined as persons under the age of 18) (permitted under the [User Agreement](http://www.donorschoose.org/help/user_agreement.html?zone=0) with parental consent and supervision) does not require disclosure of any personal information about the child. DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Sites. 
+Use of the Sites by children (defined as persons under the age of 18) (permitted under the [User Agreement](http://www.donorschoose.org/help/user_agreement.html) with parental consent and supervision) does not require disclosure of any personal information about the child. DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Sites. 
 
 6\. _Teachers._
 
@@ -99,6 +97,4 @@ We are always glad to hear your questions or comments.
 
 This Privacy Policy may be changed or updated by us from time to time by posting such changes on the Sites. When we post changes to this Privacy Policy, we will revise the "last updated" date at the bottom of this Privacy Policy. We encourage you to periodically review this Privacy Policy to be informed of how DC is protecting your information. 
 
-This Privacy Policy was last updated on 08/06/2007.   
-  
----|---
+This Privacy Policy was last updated on 08/06/2007. 
