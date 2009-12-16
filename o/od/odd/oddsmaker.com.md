@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oddsmaker.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524184256id_/http%3A//www.oddsmaker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmaker.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216131929id_/http%3A//www.oddsmaker.com/privacy.php) for the most accurate reproduction.*
 
 # Oddsmaker � Online Casino & Poker Games Privacy Policy
 
-OddsMaker.com and oddsmaker.com are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about the OddsMaker.com's privacy policy.
+OddsMaker.com (The Company) is committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about the OddsMaker.com privacy policy.
 
-When you participate in play for fun and play for free games, OddsMaker.com needs only to collect your email address. Collecting your email allows The Company to send you announcements and to invite you to participate in special offers and games.
+By signing up and participating in play for fun and play for free games, OddsMaker.com needs to collect your email address and mobile phone number. By signing up and participating in play for fun and play for free games you are giving The Company permission to send you announcements and special offers. If you do not wish to receive these special announcements  and offers, email [ marketing@oddsmaker.com](https://bb-exchange.q2wireless.com/owa/redir.aspx?C=ac6cc0645bbb4652980d9de8c3fb01c0&URL=mailto%3amarketing%40oddsmaker.com) with the subject heading �remove�. 
 
 When you participate in our for real money games, The Company needs your real name, email address, and mailing address. This allows The Company to allow you access to the games you wish to participate in and to reward prizes that you win or money that you withdraw from your OddsMaker.com account.
 
