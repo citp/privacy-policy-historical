@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183938id_/http%3A//www.itwire.com/content/view/1945/893) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216181402id_/http%3A//www.itwire.com/content/view/1945/893) for the most accurate reproduction.*
 
 # iTWire - PRIVACY
 
-[](http://www.addthis.com/bookmark.php)
+[](http://digg.com/submit?url=http://www.itwire.com%2Findex.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1945%26Itemid%3D893&title=PRIVACY "digg")[](http://reddit.com/submit?url=http://www.itwire.com%2Findex.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1945%26Itemid%3D893&title=PRIVACY "reddit")[](http://www.stumbleupon.com/submit?url=http://www.itwire.com%2Findex.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1945%26Itemid%3D893&title=PRIVACY "stumbleupon")
 
 [ SECURITY & PRIVACY POLICY](http://www.itwire.com.au/privacy/)
 
@@ -96,7 +96,4 @@ You agree that we will not be liable to you or any third party for taking any of
 You understand and agree that our Services may include communications such as service announcements and administrative messages from us or from our partners and that these communications are considered part of the Services. You will not be able to opt out of receiving these messages. You also understand that our Services may include advertisements.
 
   
-
-
-Get stories like this delivered daily - FREE - [subscribe ](http://www.itwire.com/register) **now**   
 
