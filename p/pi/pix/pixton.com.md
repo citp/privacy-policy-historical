@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080155id_/http%3A//pixton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002223id_/http%3A//pixton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pixton™ - Create web comic strips online
 
@@ -114,10 +114,6 @@ The Company is not responsible for any material submitted by users to the public
 
 
 The above list is not exhaustive and the Company reserves the right to remove any material that it deems, in its sole and absolute discretion, is comparably harmful. If you are the owner of any material submitted inappropriately to the public areas of the website and wish to have it removed, or wish to notify the Company of any user-submitted material in violation of the above guidelines, please [contact us](http://pixton.com/contact).
-
-* ### Personal Information of Children
-
-Minors under the age of 13 are not entitled to use the Website or establish an account. The Company does not knowingly collect personal information of persons under the age of 13. If the Company becomes aware of anyone under 13 having opened an account, it will delete the account. If you are aware of any such person, please let the company know by contacting its privacy officer at [privacy@pixton.com](mailto:privacy@pixton.com). 
 
 * ### Access and Rights to Information
 
