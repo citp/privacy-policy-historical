@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uni.cc privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301153550id_/http%3A//www.uni.cc/site/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uni.cc privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216090614id_/http%3A//www.uni.cc/site/info_privacy.php) for the most accurate reproduction.*
 
 # UNI.CC - Privacy Statement
 
@@ -18,4 +18,4 @@ UNICC does not sell or commercially make available specific information about it
 
 Under exigent circumstances, UNICC may be required to send you information about the service or your account via e-mail which may contain an advertisement section, but UNICC will not send you unsolicited email regarding any commercial offers or advertisements at any time.
 
-Questions or problems regarding this privacy statement may be sent to [info@nic.uni.cc](mailto:info@nic.uni.cc). Please let us know if you have any suggestions, problems, or ideas regarding this web page. 
+Questions or problems regarding this privacy statement may be sent via our contact page. Please let us know if you have any suggestions, problems, or ideas regarding this web page. 
