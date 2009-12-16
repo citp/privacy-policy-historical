@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukrainedate.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617033230id_/http%3A//www.ukrainedate.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukrainedate.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216054843id_/http%3A//www.ukrainedate.com/Privacy.cfm) for the most accurate reproduction.*
 
 # UkraineDate.com | Privacy Policy
 
