@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616134403id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216055142id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # About Net-Temps
 
 About Net-Temps
-
-**Privacy Statement**  
-Effective December, 2006 
-
-[](http://www.truste.org/ivalidate.php?url=www.net-temps.com&sealid=101) Net-Temps is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users. trust and confidence in the Internet by promoting the use of fair information practices. Because Net-Temps wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Net-Temps ([www.net-temps.com](http://www.net-temps.com/)) has agreed to notify you of: 
-
-  1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the website
-  2. The organization collecting the information
-  3. How the information is used
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Net-Temps' control
-  7. How you can correct any inaccuracies in the information.
-
-If you have questions or concerns regarding this statement, you should first contact Net-Temps at (978) 251-7272 or by email at [ pr@net-temps.com](mailto:pr@net-temps.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 **Thawte SSL Web Server Certificate**  
 The Net-Temps server is secured through the Thawte SSL (secure sockets layer) Web Server Certificate which ensures that any information sent to the Net-Temps server is encrypted, making it virtually impossible to intercept or steal online communications during transmittal. Personal information and credit card details cannot be viewed by outside parties and once such information has been submitted, the data cannot be tampered with while it is being transmitted.
