@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awaionline.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616182333id_/http%3A//awaionline.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awaionline.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217002351id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -11,10 +11,11 @@
 
 	<link href="/rss/main/rss.xml" rel="alternate" type="application/rss+xml" title="AWAIonline Main RSS Feed">
 	<link href="/_css/master.css" rel="stylesheet" type="text/css">
-	<link href="/_css/framework/templates/default.css" rel="stylesheet" type="text/css">
+	<link href="/_css/framework/templates/default-temp.css" rel="stylesheet" type="text/css">
 	<link href="/_css/framework/templates/default-print.css" rel="stylesheet" media="print" type="text/css">
 
 	<script src="//www.awaionline.com/_js/jquery.js" type="text/javascript"></script>
+	<script src="//www.awaionline.com/_js/jquery-ui.js" type="text/javascript"></script>
 	<script src="//www.awaionline.com/_js/thickbox.js" type="text/javascript"></script>
 	<script src="//www.awaionline.com/_js/global.js" type="text/javascript"></script>
 	<script src="//www.awaionline.com/_js/site.js" type="text/javascript"></script>
@@ -29,9 +30,12 @@
 	<div class="ribbon">
 	<div class="ribbon-inner">
 
+	<div class="myawaibutton">
+	<a href="/members/" tabindex="1"><strong>myAWAI Login</strong></a>
+	</div>
+	
 	<!-- Begin Ticker -->
 	<div class="ticker">
-	<div class="ticker-label"><a href="/news/" tabindex="1">Hot News Headlines</a></div>
 	<ul id="news-ticker">
 	<li>American Writers &amp; Artists Inc.</li>
 	</ul>
@@ -44,39 +48,38 @@
 	</div>
 	<!-- End Ribbon -->
 	
+	<!-- Begin myAWAI Menu -->
+	<div class="myawaimenu">
+	<div class="myawaimenu-inner">
+	<form class="login" id="myawaimenu-login" action="/members/" method="post" onsubmit="return myawaiLogin(this)">
+	<div>
+	<input type="hidden" id="myawaimenu-redirectpost" name="redirectpost" value="1" tabindex="3">
+	<div class="logincolumn"><label for="myawaimenu-username">username (email)<br>
+	<input type="text" id="myawaimenu-username" name="username" value="" maxlength="50" onkeypress="myawaiCheckCapsLock(event, this)" tabindex="4"></label></div>
+	<div class="logincolumn"><label for="myawaimenu-password">password<br>
+	<input type="password" id="myawaimenu-password" name="password" value="" maxlength="50" onfocus="select();" onkeypress="myawaiCheckCapsLock(event, this)" tabindex="5"></label></div>
+	<div class="logincolumn"><br>
+	<input type="image" src="/_img/framework/templates/default/login.png" alt="Login" tabindex="6"></div>
+	<div class="logincolumn"><br>
+	<a href="/aboutmyawai/" class="myawaimenu-forgotpass" title="Forgot your password? Enter your email in the username field and click here" tabindex="7">Forgot my password</a> |
+	<a href="/aboutmyawai/" title="Click here to learn more about myAWAI" tabindex="8">What is myAWAI?</a> |
+	<a href="/register/" title="Click here to register for a free account" tabindex="9">Sign up</a></div>
+	</div>
+	</form>
+	<div class="capslockwarning"></div>
+	</div>
+	</div>
+	<!-- End myAWAI Menu -->
+	
 	<!-- Begin Banner -->
 	<div class="banner">
 	<div class="banner-inner">
 	
-	<div class="banner-welcome">
-	Welcome to AWAI (<a href="/members/" tabindex="3">login</a> | <a href="/register/" tabindex="4">register</a>)
-	</div>
+	<div class="logo"><a href="/" title="American Writers &amp; Artists Inc." tabindex="10"><img src="/_img/framework/templates/default/logo.png" title="American Writers &amp; Artists Inc. – Helping people develop skills to acquire financial security, independence and freedom since 1997" width="559" height="44" alt="AWAI"></a></div>
 	
-	<div class="banner-links">
-	<a href="/" tabindex="5">home</a> |
-	<a href="/members/" tabindex="6">myAWAI</a> |
-	<a href="/news/" tabindex="7">news</a> |
-	<a href="/contact/" tabindex="8">contact us</a> |
-	<a href="/help/" tabindex="9">help</a>
-	</div>
-	
-	<div class="logo"><a href="/" title="American Writers &amp; Artists Inc." tabindex="10"><img src="/_img/framework/templates/default/logo_intro.png" title="American Writers &amp; Artists Inc." alt="AWAI" height="42" width="551"></a></div>
-	
-	<div class="subscribe">
-	<form class="eletter" action="http://www.the-golden-thread.com/oem/subscribe.php" method="post">
-	<div class="signup-title"><a href="/signup/spare-time-business/" tabindex="11">Make Extra Money In Your Spare Time</a></div>
-	<input type="hidden" name="FormValue_MailListIDs[]" value="87" tabindex="12">
-	<input type="hidden" name="FormValue_SuccessScreenID" value="NDQ%3D" tabindex="13">
-	<input type="hidden" name="FormValue_FailureScreenID" value="Mg%3D%3D" tabindex="14">
-	<input type="hidden" name="FormValue_CustomField62" value="MAST" tabindex="15">
-	<input type="hidden" name="FormValue_CustomFieldIDs" value="NjIsMQ%3D%3D" tabindex="16">
-	<div class="input-area">
-	<label for="subscribe-eletter-email">Email Address:</label><input type="text" name="FormValue_Email" id="subscribe-eletter-email" class="subscribe-email" value="" title="Email Address" tabindex="17">
-	<label for="subscribe-eletter-name">First Name:</label><input type="text" name="FormValue_CustomField1" id="subscribe-eletter-name" class="subscribe-name" value="" title="First Name" tabindex="18">
-	</div>
-	<input class="submit-button" type="image" id="subscribe-eletter-submit" src="/_img/framework/templates/default/free_eletter.png" alt="Sign Me Up" tabindex="19">
+	<form class="search" action="/search/" method="get">
+	<label for="q"><img src="/_img/framework/templates/default/search.png" alt="Search" width="18" height="17"></label><input type="text" class="searchbox" id="q" name="q" value="" tabindex="11"><button type="submit" tabindex="12">go</button>
 	</form>
-	</div>
 	
 	</div>
 	</div>
@@ -89,28 +92,33 @@
 	<ul class="mainnav">
 	
 	<li id="nav-1">
-	<div><a href="/" tabindex="20">Home</a></div>
-	<ul class="subnav"><li><a href="/articles/" tabindex="21">Article Archive</a></li><li><a href="/blog/" tabindex="22">Blog</a></li><li><a href="/catalog/" tabindex="23">Product Catalog</a></li><li><a href="/live-events/" tabindex="24">Live Events</a></li><li><a href="http://www.awaistudents.com/" tabindex="25">Member Forum</a></li><li><a href="http://store.awaionline.com/" tabindex="26">eBookstore</a></li></ul>
+	<div><a href="/" tabindex="13">Home</a></div>
+	<ul class="subnav"><li><a href="/articles/" tabindex="14">Article Archive</a></li><li><a href="/blog/" tabindex="15">Blog</a></li><li><a href="/news/" tabindex="16">News</a></li><li><a href="/catalog/" tabindex="17">Product Catalog</a></li><li><a href="/live-events/" tabindex="18">Live Events</a></li><li><a href="http://store.awaionline.com/" tabindex="19">eBookstore</a></li></ul>
 	</li>
 
 	<li id="nav-2">
-	<div><a href="/wealth-careers/" tabindex="27">Wealth Careers</a></div>
-	<ul class="subnav"><li><a href="/wealth-careers/" tabindex="28">Learn More</a></li><li><a href="/copywriting/" tabindex="29">Copywriting</a></li><li><a href="/graphic-design/" tabindex="30">Graphic Design</a></li><li><a href="/web-marketing/" tabindex="31">Web Marketing</a></li><li><a href="/information-publishing/" tabindex="32">Information Publishing</a></li></ul>
+	<div><a href="/careers/" tabindex="20">Career Options</a></div>
+	<ul class="subnav"><li><a href="/copywriting/" tabindex="21">Copywriting</a></li><li><a href="/web-marketing/" tabindex="22">Web Marketing</a></li><li><a href="/resume/" tabindex="23">Resume Writing</a></li><li><a href="/graphic-design/" tabindex="24">Design</a></li><li><a href="/published-author/" tabindex="25">Publishing</a></li><li><a href="/lifestyle-careers/" tabindex="26">Travel/Photography</a></li></ul>
 	</li>
 
-	<li id="nav-3">
-	<div><a href="/lifestyle-careers/" tabindex="33">Lifestyle Careers</a></div>
-	<ul class="subnav"><li><a href="/lifestyle-careers/" tabindex="34">Learn More</a></li><li><a href="/travel/" tabindex="35">Travel Writing</a></li><li><a href="/photography/" tabindex="36">Photography</a></li><li><a href="/published-author/" tabindex="37">Published Author</a></li></ul>
+	<li id="nav-3" class="current-nav active-nav">
+	<div><a href="/about/" tabindex="27">About Us</a></div>
+	<ul class="subnav"><li><a href="/about/" tabindex="28">About AWAI</a></li><li><a href="/about/promise/" tabindex="29">Our Promise</a></li><li><a href="/about/advisory-board/" tabindex="30">Advisory Board</a></li><li><a href="/affiliates/" tabindex="31">Affiliate Program</a></li></ul>
 	</li>
 
 	<li id="nav-4">
-	<div><a href="/work-at-home/" tabindex="38">Work-At-Home</a></div>
-	<ul class="subnav"><li><a href="/work-at-home/" tabindex="39">Learn More</a></li><li><a href="/desktop-marketing/" tabindex="40">Desktop Marketing</a></li><li><a href="/resume/" tabindex="41">Resume Writing</a></li></ul>
+	<div><a href="/about/testimonials/" tabindex="32">Testimonials</a></div>
+	<ul class="subnav"><li><a href="/about/testimonials/" tabindex="33">Testimonials</a></li><li><a href="/wall-of-fame/" tabindex="34">Wall of Fame</a></li><li><a href="/about/stories/" tabindex="35">Success Stories</a></li></ul>
 	</li>
 
-	<li id="nav-5" class="current-nav active-nav">
-	<div><a href="/about/" tabindex="42">About AWAI</a></div>
-	<ul class="subnav"><li><a href="/about/" tabindex="43">About Us</a></li><li><a href="/about/promise/" tabindex="44">Our Promise</a></li><li><a href="/about/advisory-board/" tabindex="45">Advisory Board</a></li><li><a href="/about/testimonials/" tabindex="46">Testimonials</a></li><li><a href="/wall-of-fame/" tabindex="47">Wall of Fame</a></li><li><a href="/affiliates/" tabindex="48">Affiliate Program</a></li></ul>
+	<li id="nav-5">
+	<div><a href="/members/" tabindex="36">Member Area</a></div>
+	<ul class="subnav"><li><a href="/members/" tabindex="37">myAWAI</a></li><li><a href="/myaccount/" tabindex="38">Account Info</a></li><li><a href="/members/catalog/" tabindex="39">Programs</a></li><li><a href="/job-opportunities/" tabindex="40">Job Opportunities</a></li><li><a href="http://www.awaistudents.com/" tabindex="41">Member Forum</a></li></ul>
+	</li>
+
+	<li id="nav-6">
+	<div><a href="/help/" tabindex="42">Contact/Help</a></div>
+	<ul class="subnav"><li><a href="/contact/" tabindex="43">Contact Us</a></li><li><a href="/help/" tabindex="44">Help</a></li><li><a href="/search/" tabindex="45">Search the Site</a></li><li><a href="/aboutmyawai/" tabindex="46">About myAWAI</a></li></ul>
 	</li>
 
 	</ul>
@@ -119,57 +127,14 @@
 	</div>
 	<!-- End Navigation -->
 	
-	<!-- Begin myAWAI Menu and Search -->
-	<div class="myawai-search">
-	
-	<form class="search" action="/search/" method="get">
-	<div>
-	<label class="hidden">Search:</label><input type="text" class="searchbox" name="q" value="" tabindex="49"><button type="submit" tabindex="50">Go</button>
-	</div>
-	</form>
-	
-	<div class="myawaibutton">
-	<a href="/members/" tabindex="51"><strong>myAWAI Sign In</strong></a>
-	</div>
-	
-	
-
-	<div class="myawaibutton-extension"></div>
-	
-	<div class="myawaimenu-container">
-	<div class="myawaimenu-top"></div>
-	<div class="myawaimenu">
-	<form class="login" id="myawaimenu-login" action="/members/" method="post" onsubmit="return myawaiLogin(this)">
-	<div>
-	<input type="hidden" id="myawaimenu-redirectpost" name="redirectpost" value="1" tabindex="52">
-	<div class="logincolumn"><label for="myawaimenu-username">username (email)<br>
-	<input type="text" id="myawaimenu-username" name="username" value="" maxlength="50" onkeypress="myawaiCheckCapsLock(event, this)" tabindex="53"></label></div>
-	<div class="logincolumn"><label for="myawaimenu-password">password<br>
-	<input type="password" id="myawaimenu-password" name="password" value="" maxlength="50" onfocus="select();" onkeypress="myawaiCheckCapsLock(event, this)" tabindex="54"></label></div>
-	<div class="logincolumn"><br>
-	<button type="submit" tabindex="55">Login</button>&nbsp; &nbsp;
-	<a href="/aboutmyawai/" class="myawaimenu-forgotpass" title="Forgot your password? Enter your email in the username field and click here" tabindex="56">Forgot my password</a>&nbsp; &nbsp;
-	<a href="/aboutmyawai/" title="Click here to learn more about myAWAI" tabindex="57">What is myAWAI?</a></div>
-	</div>
-	</form>
-	<div class="capslockwarning"></div>
-	</div>
-	<div class="myawaimenu-bottom"></div>
-	</div>
-	
-	</div>
-	<!-- End myAWAI Menu and Search -->
-	
-	
 	<!-- Begin Breadcrumbs -->
 	<div class="breadcrumbs">
 	<div class="bc-bar-left"></div>
-	<a href="/" tabindex="58"><img src="/_img/framework/templates/default/bc_bar-home.gif" height="24" width="14" alt="home"></a>
-	<a href="/about/" tabindex="59">About AWAI</a>
-	<span>Privacy Statement</span>
-	<div class="bc-bar-right">&nbsp;<a href="/about/privacy/?mode=print" class="popup print-link" rel="nofollow" tabindex="60">print</a></div>
+	<a href="/" tabindex="47"><img src="/_img/framework/templates/default/bc-home.gif" height="20" width="14" alt="home"></a><a href="/about/" tabindex="48">About AWAI</a><span>Privacy Statement</span>
+	<div class="bc-bar-right">&nbsp;<a href="/about/privacy/?mode=print" class="popup print-link" rel="nofollow" tabindex="49">print</a></div>
 	</div>
 	<!-- End Breadcrumbs -->
+	
 	</div>
 	<!-- End Masthead -->
 
@@ -188,12 +153,12 @@
 	<p>If you subscribe to The Golden Thread, or purchase any products from American Writers &amp; Artists Inc., your name and email address will be placed in a database. As with all other personal information, only authorized employees of American Writers &amp; Artists Inc. ever have access to this data. We do not give American Writers &amp; Artists Inc. email addresses to outside companies.</p>
 	<p>American Writers &amp; Artists Inc. does not sell or rent your email address to anyone. We may use your name and address to send you information on other American Writers &amp; Artists Inc. products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.</p>
 	<p>Any email you send to American Writers &amp; Artists Inc. is completely confidential. We will not add your name to our email list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.</p>
-	<p>With certain programs you will receive a free subscription to Early to Rise – a daily motivational email, as an extra bonus. To receive this subscription, your email address must be given to Early to Rise (<a href="http://www.earlytorise.com" tabindex="61">www.earlytorise.com</a>). If you do not wish to receive this bonus, simply <a href="/contact/" tabindex="62">contact our Member Services team</a>.</p>
-	<p><em><strong>Note</strong></em>: Early to Rise does not sell or rent subscribers’ email addresses to anyone. You can also <a href="http://www.earlytorise.com/privacy/" tabindex="63">review Early to Rise’s complete privacy policy</a>.</p>
-	<p>If at any time you wish to be removed from our mailing list, please <a href="/contact/" tabindex="64">contact our Member Services department</a>.</p>
+	<p>With certain programs you will receive a free subscription to Early to Rise – a daily motivational email, as an extra bonus. To receive this subscription, your email address must be given to Early to Rise (<a href="http://www.earlytorise.com" tabindex="50">www.earlytorise.com</a>). If you do not wish to receive this bonus, simply <a href="/contact/" tabindex="51">contact our Member Services team</a>.</p>
+	<p><em><strong>Note</strong></em>: Early to Rise does not sell or rent subscribers’ email addresses to anyone. You can also <a href="http://www.earlytorise.com/privacy/" tabindex="52">review Early to Rise’s complete privacy policy</a>.</p>
+	<p>If at any time you wish to be removed from our mailing list, please <a href="/contact/" tabindex="53">contact our Member Services department</a>.</p>
 	<h2>Discussion Board</h2>
 	<p>You are welcome to participate in the American Writers &amp; Artists Inc. Discussion Board. Please note that submitting your email address or a URL is completely voluntary but you do so at your own risk. While American Writers &amp; Artists Inc. does not harvest email addresses from the Discussion Board, there is nothing to prevent an unscrupulous company from doing so.</p>
-	<p>You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please <a href="/contact/" tabindex="65">contact us</a> and we will take all necessary actions, including legal, to correct the matter.</p>
+	<p>You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please <a href="/contact/" tabindex="54">contact us</a> and we will take all necessary actions, including legal, to correct the matter.</p>
 	<p>We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.</p>
 	<p>If you have any questions or comments you can reach us via our contact page or with the information below.</p>
 	<h2>Disclaimer</h2>
@@ -203,7 +168,7 @@
 	Phone (561) 278-5557</p>
 	<div class="content-details">
 	<div class="sharing-panel">
-	<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="digg-link" tabindex="66">Digg This!</a> &nbsp; <a href="http://del.icio.us/post?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="delicious-link" tabindex="67">del.icio.us</a> &nbsp; <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="facebook-link" tabindex="68">facebook</a> &nbsp; <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="stumble-link" tabindex="69">StumbleUpon</a> &nbsp; <a href="/send-to-friend/?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;TB_iframe=true" class="mail-link thickbox" rel="nofollow" tabindex="70">Mail this to a friend</a>
+	<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="digg-link" tabindex="55">Digg This!</a> &nbsp; <a href="http://del.icio.us/post?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="delicious-link" tabindex="56">del.icio.us</a> &nbsp; <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="facebook-link" tabindex="57">facebook</a> &nbsp; <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="stumble-link" tabindex="58">StumbleUpon</a> &nbsp; <a href="/send-to-friend/?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;TB_iframe=true" class="mail-link thickbox" rel="nofollow" tabindex="59">Mail this to a friend</a>
 	</div>	</div>
 
 	</div>
@@ -211,23 +176,76 @@
 
 	<!-- Begin Sidebar -->
 	<div class="sidebar">
-	<div class="bubble bubble-4 clickable">
+	<div class="bubble">
 	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h1 wine">Need Help Staying Motivated?</div>
-	<div class="big bold center">Get a “Kick in the Pants”<br> Every Week With<br> <em>Monday Morning Jumpstart</em></div>
-	<p class="bold center"><a href="/motivation/learn/" tabindex="71">Reach the Next Level of Success</a></p>
+	<div class="bubble-main center">
+	<div class="h3" style="margin-bottom:5px;"><a href="/inside/" style="color:#004;" tabindex="60">Get <em>Inside AWAI</em></a></div>
+	<p style="margin-bottom:5px; font-size:12px; font-weight:bold; color:#007;">Learn How to Find a New Career, Make Extra Money or Work at Home</p>
+	<form action="http://www.the-golden-thread.com/oem/subscribe.php" method="post">
+	<input type="hidden" name="FormValue_MailListIDs[]" value="91" tabindex="61">
+	<input type="hidden" name="FormValue_SuccessScreenID" value="NTA%3D" tabindex="62">
+	<input type="hidden" name="FormValue_FailureScreenID" value="NTI%3D" tabindex="63">
+	<input type="hidden" name="FormValue_CustomFieldIDs" value="OTEsMQ%3D%3D" tabindex="64">
+	<input type="hidden" name="FormValue_CustomField62" value="SIDEBAR" tabindex="65">
+	<label for="subscribe-iawai-name" style="display:none;">First Name:</label><input style="width:118px;" type="text" name="FormValue_CustomField1" id="subscribe-iawai-name" class="subscribe-name" title="first name" value="" tabindex="66">&nbsp;
+	<label for="subscribe-iawai-email" style="display:none;">Email Address:</label><input style="width:118px;" type="text" name="FormValue_Email" id="subscribe-iawai-email" class="subscribe-email" title="email address" value="" tabindex="67">
+	<div class="martop5"><input type="image" src="/_img/toolbox/buttons/sign_me_up-255.png" id="subscribe-iawai-submit" alt="Sign Me Up" tabindex="68"></div>
+	</form>
 	</div>
 	<div class="bubble-bottom"></div>
 	</div>
 
-	<div><a href="/wall-of-fame/" title="Wall of Fame" tabindex="72"><img src="/_img/graphics/banners/wall_of_fame_sidebar.png" width="280" height="122" alt="Wall Of Fame"></a></div>
+
+	<div class="daily-steal clickable">
+	<!-- Begin Deal 07 W2H -->
+	<div class="center bold">
+	<p class="big georgia">Experience the 2009 Web Copy Intensive From the Comfort of Your Own Home!</p>
+	<p class="big red">This is your LAST CHANCE to get to the 2009 Web Copy Intensive home-study program.</p>
+	<p>After today you’ll know longer be able to get access to all of presentations and assignments from the 2009 event.  </p>
+	<p>Don’t miss this opportunity to start 2010 as a working web specialist!</p>
+	<p class="bigger forest georgia">Original Price: $<del>995</del><br><strong><em class="red">Steal Price: $497</em></strong></p>
+	</div>
+	<!-- End Deal 07 -->
+	<p class="center"><a href="/contest/goals/daily-steal/" tabindex="69"><img src="/_img/graphics/holiday2010/steal-yours.png" width="238" height="44" alt="Steal Yours Now"></a></p>
+	</div>
+	<div class="marbottom10"><a href="/contest/goals/" tabindex="70"><img src="/_img/graphics/holiday2010/your_goals.jpg" width="280" height="77" alt="Your Goals"></a></div>
+
+	<div class="daily-winners clickable">
+	<!-- Begin Winner 7 -->
+	<p class="biggest bold center times"><span class="red">December 16th Winner:</span><br>Fred from Farmers Branch, TX<br>Prize: 1-yr of Netflix</p>
+	<!-- End Winner 7 -->
+	<!-- Begin Winner 6 -->
+	<p class="biggest bold center times"><span class="red">December 15th Winner:</span><br>Marc from St. Paul, MN<br>Prize: Chocolate Decadence Basket/Godiva</p>
+	<!-- End Winner 6 -->
+	<!-- Begin Winner 5 -->
+	<p class="biggest bold center times"><span class="red">December 14th Winner:</span><br>John from Kingman, AZ<br>Prize: Panasonic Blu-Ray Player</p>
+	<!-- End Winner 5 -->
+	<!-- Begin Winner 4 -->
+	<p class="biggest bold center times"><span class="red">December 13th Winner:</span><br>Ruth from Los Angeles, CA<br>Prize: Net Book</p>
+	<!-- End Winner 4 -->
+	<!-- Begin Winner 3 -->
+	<p class="biggest bold center times"><span class="red">December 12th Winner:</span><br>Francoise from Liberty Hill, TX<br>Prize: iPod Shuffle</p>
+	<!-- End Winner 3 -->
+	<!-- Begin Winner 2 -->
+	<p class="biggest bold center times"><span class="red">December 11th Winner:</span><br>Cyndee from Spring, TX<br>Prize: Garmin GPS</p>
+	<!-- End Winner 2 -->
+	<!-- Begin Winner 1 -->
+	<p class="biggest bold center times"><span class="red">December 10th Winner:</span><br>Andrea from Stockton, CA<br>Prize: Nintendo Wii</p>
+	<!-- End Winner 1 -->
+	<p class="big bold center">Who Will Win Next?<br>
+	<em class="red">16 Winners, 16 Prizes, 16 Days!</em></p>
+	<div class="wrapped-up">
+	<a href="/contest/goals/prizes/" tabindex="71"><img src="/_img/graphics/holiday2010/wrapped-up.png" alt="" width="220" height="170"></a>
+	</div>
+	</div>
+	
+	<div><a href="/wall-of-fame/" title="Wall of Fame" tabindex="72"><img src="/_img/graphics/banners/wall_of_fame_sidebar.png" width="280" height="122" alt="Wall of Fame"></a></div>
 
 	<div class="bubble bubble-2 clickable">
 	<div class="bubble-top"></div>
 	<div class="bubble-main">
-	<div><img src="/_img/photos/portraits/shelby-beckett-100x128.jpg" alt="Shelby Beckett" width="100" height="128" class="rbox">“Don’t ever give up on your dreams. Never think you’re too old to make a change or to become a success.”</div>
-	<p class="cited rpad0 rclear martop0"><a href="/wall-of-fame/shelby-beckett/" tabindex="73">Shelby Beckett,<br> AWAI Member Since 2007</a></p>
+	<div><img src="/_img/photos/portraits/apryl-parcher-xsmall.jpg" alt="Apryl Parcher" width="75" height="114" class="rbox">“I've owned several small businesses before, but didn't like the fixed schedule and other limitations (not to mention having to work every holiday). I feel much less restrained and free to create now.”</div>
+	<p class="cited rpad0 rclear martop0"><a href="/wall-of-fame/apryl-parcher/" tabindex="73">Apryl Parcher,<br> AWAI Member Since 2004</a></p>
 	</div>
 	<div class="bubble-bottom"></div>
 	</div>
@@ -264,6 +282,7 @@
 	<div class="bubble-bottom"></div>
 	</div>
 
+
 	</div>
 	<!-- End Sidebar -->
 
@@ -285,52 +304,62 @@
 	<ul>
 	<li><a href="/articles/" tabindex="77">Article Archive</a></li>
 	<li><a href="/blog/" tabindex="78">Blog</a></li>
-	<li><a href="/catalog/" tabindex="79">Product Catalog</a></li>
-	<li><a href="/live-events/" tabindex="80">Live Events</a></li>
-	<li><a href="http://www.awaistudents.com/" tabindex="81">Member Forum</a></li>
+	<li><a href="/news/" tabindex="79">News</a></li>
+	<li><a href="/catalog/" tabindex="80">Product Catalog</a></li>
+	<li><a href="/live-events/" tabindex="81">Live Events</a></li>
 	<li><a href="http://store.awaionline.com/" tabindex="82">eBookstore</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
-	<div>Wealth Careers</div>
+	<div>Career Options</div>
 	<ul>
-	<li><a href="/wealth-careers/" tabindex="83">Learn More</a></li>
-	<li><a href="/copywriting/" tabindex="84">Copywriting</a></li>
-	<li><a href="/graphic-design/" tabindex="85">Graphic Design</a></li>
-	<li><a href="/web-marketing/" tabindex="86">Web Marketing</a></li>
-	<li><a href="/information-publishing/" tabindex="87">Information Publishing</a></li>
+	<li><a href="/copywriting/" tabindex="83">Copywriting</a></li>
+	<li><a href="/web-marketing/" tabindex="84">Web Marketing</a></li>
+	<li><a href="/resume/" tabindex="85">Resume Writing</a></li>
+	<li><a href="/graphic-design/" tabindex="86">Design</a></li>
+	<li><a href="/published-author/" tabindex="87">Publishing</a></li>
+	<li><a href="/lifestyle-careers/" tabindex="88">Travel/Photography</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
-	<div>Lifestyle Careers</div>
+	<div>About Us</div>
 	<ul>
-	<li><a href="/lifestyle-careers/" tabindex="88">Learn More</a></li>
-	<li><a href="/travel/" tabindex="89">Travel Writing</a></li>
-	<li><a href="/photography/" tabindex="90">Photography</a></li>
-	<li><a href="/published-author/" tabindex="91">Published Author</a></li>
+	<li><a href="/about/" tabindex="89">About AWAI</a></li>
+	<li><a href="/about/promise/" tabindex="90">Our Promise</a></li>
+	<li><a href="/about/advisory-board/" tabindex="91">Advisory Board</a></li>
+	<li><a href="/affiliates/" tabindex="92">Affiliate Program</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
-	<div>Work-At-Home</div>
+	<div>Testimonials</div>
 	<ul>
-	<li><a href="/work-at-home/" tabindex="92">Learn More</a></li>
-	<li><a href="/desktop-marketing/" tabindex="93">Desktop Marketing</a></li>
-	<li><a href="/resume/" tabindex="94">Resume Writing</a></li>
+	<li><a href="/about/testimonials/" tabindex="93">Testimonials</a></li>
+	<li><a href="/wall-of-fame/" tabindex="94">Wall of Fame</a></li>
+	<li><a href="/about/stories/" tabindex="95">Success Stories</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
-	<div>About AWAI</div>
+	<div>Member Area</div>
 	<ul>
-	<li><a href="/about/" tabindex="95">About Us</a></li>
-	<li><a href="/about/promise/" tabindex="96">Our Promise</a></li>
-	<li><a href="/about/advisory-board/" tabindex="97">Advisory Board</a></li>
-	<li><a href="/about/testimonials/" tabindex="98">Testimonials</a></li>
-	<li><a href="/wall-of-fame/" tabindex="99">Wall of Fame</a></li>
-	<li><a href="/affiliates/" tabindex="100">Affiliate Program</a></li>
+	<li><a href="/members/" tabindex="96">myAWAI</a></li>
+	<li><a href="/myaccount/" tabindex="97">Account Info</a></li>
+	<li><a href="/members/catalog/" tabindex="98">Programs</a></li>
+	<li><a href="/job-opportunities/" tabindex="99">Job Opportunities</a></li>
+	<li><a href="http://www.awaistudents.com/" tabindex="100">Member Forum</a></li>
+	</ul>
+	</div>
+
+	<div class="navigation-column">
+	<div>Contact/Help</div>
+	<ul>
+	<li><a href="/contact/" tabindex="101">Contact Us</a></li>
+	<li><a href="/help/" tabindex="102">Help</a></li>
+	<li><a href="/search/" tabindex="103">Search the Site</a></li>
+	<li><a href="/aboutmyawai/" tabindex="104">About myAWAI</a></li>
 	</ul>
 	</div>
 
@@ -347,14 +376,14 @@
 	(561) 278-5557 or (866) 879-2924
 	</div>
 	<div class="right-column">
-	<a href="https://www.mcafeesecure.com/RatingVerify?ref=www.awaionline.com" title="McAfee Secure Verified" tabindex="101"><img src="//images.scanalert.com/meter/www.awaionline.com/12.gif" alt="McAfee Secure tested daily" title="McAfee Secure Verified" width="115" height="32" border="0"></a>
+	<a href="https://www.mcafeesecure.com/RatingVerify?ref=www.awaionline.com" title="McAfee Secure Verified" tabindex="105"><img src="//images.scanalert.com/meter/www.awaionline.com/12.gif" alt="McAfee Secure tested daily" title="McAfee Secure Verified" width="115" height="32" border="0"></a>
 	</div>
 	<div class="hr clear"><hr></div>
 	<div class="left-column">
-	Copyright © 2009 <a href="/" tabindex="102">American Writers &amp; Artists Inc.</a>
+	Copyright © 2009 <a href="/" tabindex="106">American Writers &amp; Artists Inc.</a>
 	</div>
 	<div class="right-column">
-	<a href="/about/privacy/" tabindex="103">Privacy Policy</a> | <a href="/help/" tabindex="104">Help</a> | <a href="/sitemap/" tabindex="105">Site Map</a> | <a href="/contact/" tabindex="106">Contact Us</a>
+	<a href="/about/privacy/" tabindex="107">Privacy Policy</a> | <a href="/help/" tabindex="108">Help</a> | <a href="/sitemap/" tabindex="109">Site Map</a> | <a href="/contact/" tabindex="110">Contact Us</a>
 	</div>
 	<br class="clear">
 	</div>
