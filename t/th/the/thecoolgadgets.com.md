@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoolgadgets.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616134529id_/http%3A//thecoolgadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoolgadgets.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216055126id_/http%3A//thecoolgadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cool Gadgets
 
