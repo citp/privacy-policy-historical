@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626183612id_/http%3A//www.myeg.com.my/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216053709id_/http%3A//www.myeg.com.my/privacy.htm) for the most accurate reproduction.*
 
 # MyEG Services Berhad
 
@@ -27,7 +27,7 @@ Please read carefully our policy on data collection and use of the data collecte
 
 * To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us
 
-* To comply with any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Conditions of Access and/or Terms of Service  
+* · To comply with any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Conditions of Access and/or Terms of Service  
 
 
 **Can you opt out?**
@@ -49,7 +49,7 @@ If you wish to correct, change or update your particulars, all you have to do is
 
 **How your data is protected**
 
-MYEG will take reasonable steps to ensure that personal data are protected from unauthorized access. Access to "My Account" is password protected. Thus, no other party, including employees of MYEG, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorized party can have access. You must not, at any time, divulge your password to any third party.
+MYEG will take reasonable steps to ensure that personal data are protected from unauthorized access. Access to "My Account" is password protected. Thus, no other party, including employees ofMYEG, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorized party can have access. You must not, at any time, divulge your password to any third party.
 
 All information gathered by MYEG is stored in systems that may only be accessed by authorized staff of MYEG using assigned user ids and passwords.
 
@@ -67,7 +67,7 @@ Like many web site operators, MYEG also use the independent company GoogleAnalyt
 
 * Common entry and exit points into MYEG web sites. 
 
-This aggregate, non-personal information is collated by GoogleAnalytics and provided to MYEG to assist in analysing the usage of MYEG web sites.
+This aggregate, non-personal information is collated by GoogleAnalyticsand provided to MYEG to assist in analysing the usage of MYEG web sites.
 
 All pages on MYEG web sites are coded with software provided by GoogleAnalytics. This is transparent to the user as the software makes use of an invisible image (via _Javascript) or an invisible Java Applet*, at the bottom of the web page.  
 
