@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175708id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216200547id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of B2btrade.biz - Asia B2B trade Portal for Import Export Business focus on Asia
 
