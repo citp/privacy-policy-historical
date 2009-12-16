@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesrus.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616142022id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesrus.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216055446id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -6,17 +6,17 @@
 
 * * *
 
-  1. WHAT DOES THE "R" US FAMILY PRIVACY POLICY COVER?
-  2. WHAT INFORMATION DOES THE "R" US FAMILY COLLECT?
-  3. HOW DOES THE "R" US FAMILY USE AND SHARE PERSONAL INFORMATION?
-  4. HOW IS MY PERSONAL INFORMATION PROTECTED?
-  5. WHAT ARE COOKIES AND HOW DOES THE "R" US FAMILY USE THEM?
-  6. HOW CAN I OPT OUT FROM RECEIVING "R" US FAMILY COMMUNICATIONS?
-  7. HOW CAN I UPDATE OR CHANGE MY PERSONAL INFORMATION?
-  8. WHAT IS THE "R" US FAMILY'S CHILDREN'S PRIVACY POLICY?
-  9. LINKED SITES
-  10. HOW TO CONTACT THE "R" US FAMILY
-  11. REVISIONS TO THE "R" US FAMILY PRIVACY POLICY
+  * [WHAT DOES THE "R" US FAMILY PRIVACY POLICY COVER?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#cover)
+  * [WHAT INFORMATION DOES THE "R" US FAMILY COLLECT?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#collect)
+  * [HOW DOES THE "R" US FAMILY USE AND SHARE PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#share)
+  * [HOW IS MY PERSONAL INFORMATION PROTECTED?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#protect)
+  * [WHAT ARE COOKIES AND HOW DOES THE "R" US FAMILY USE THEM?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#cookies)
+  * [HOW CAN I OPT OUT FROM RECEIVING "R" US FAMILY COMMUNICATIONS?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#opt)
+  * [HOW CAN I UPDATE OR CHANGE MY PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#update)
+  * [WHAT IS THE "R" US FAMILY'S CHILDREN'S PRIVACY POLICY?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#children)
+  * [LINKED SITES](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#linked)
+  * [HOW TO CONTACT THE "R" US FAMILY](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#contact)
+  * [REVISIONS TO THE "R" US FAMILY PRIVACY POLICY](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#revisions)
 
 
 
@@ -24,11 +24,11 @@
 
 The "R" Us Family includes Toys "R" Us, Inc.; Toys "R" Us-Delaware, Inc.; Toysrus.com, LLC; Babiesrus.com, LLC; and their affiliated companies and operating divisions.
 
-This privacy policy outlines "R" Us Family practices regarding information collected (a) online at www.toysrus.com, www.babiesrus.com, www.personalizedbyrus.com, www.toyrusinc.com and any other websites operated by "R" Us Family members (the ""R" Us Sites"); and (b) at "R" Us Family retail stores in the United States (the "Retail Stores").
+This privacy policy outlines "R" Us Family practices regarding information collected (a) online at www.toysrus.com, www.babiesrus.com, www.toyrusinc.com and any other websites operated by "R" Us Family members (the ""R" Us Sites"); and (b) at "R" Us Family retail stores in the United States (the "Retail Stores").
 
 We suggest that you review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on June 30, 2006. By visiting an "R" Us Site or otherwise interacting with an "R" Us Family member, you are accepting the practices described in this Privacy Policy.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -41,7 +41,7 @@ The "R" Us Family members collect personally identifiable information (such as f
 
 For purposes of this policy, information regarding your children that you (the parent) provide to the "R" Us Family is treated in the same manner as information collected about you.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -64,7 +64,7 @@ _To Comply with Laws_ : An "R" Us Family member may also disclose specific infor
 
 _On Registries and Wish Lists_ : Registries and wish lists are made available for viewing by others. If you create your registry or wish list and elect to make it available online, your information will be accessible at www.toysrus.com and/or www.babiesrus.com. If you create your registry or wish list at www.toysrus.com and/or www.babiesrus.com, your registry information may also be accessible at the Retail Stores.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -73,16 +73,16 @@ _On Registries and Wish Lists_ : Registries and wish lists are made available fo
 
 The "R" Us Family members use industry standard security techniques on the "R" Us Sites to help protect against the loss, misuse or alteration of information collected from you at the "R" Us Sites. When you access your account information or transmit personally identifiable data to the "R" Us Sites, that information is stored on servers that the "R" Us Sites have attempted to secure from unauthorized access or intrusion. "Secure Socket Layer" software encrypts all personal information you transmit to the "R" Us Sites. "R" Us Family members cannot be and are not responsible for unauthorized access to information by hackers or others who have obtained such access through illegal measures. 
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
 
 **5\. What are cookies and how does the "R" Us Family use them?**
 
-The "R" Us Sites use "cookies," which are small pieces of information stored by your browser on your computer's hard drive. The cookies are used to connect your computer with information stored about your preferences and product purchases. (Some examples of this data include your account preferences, items added to your shopping cart, user specific information on pages accessed and previous visits to the site.) "R" Us Family members do not use cookies to store any of your personal or financial information on your computer. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. If you reject cookies, you may not be able to participate in certain activities or receive a presentation tailored to you.
+The "R" Us Sites use "cookies," which are small pieces of information stored by your browser on your computer's hard drive. The cookies are used to connect your computer with information stored about your preferences and product purchases. (Some examples of this data include your account preferences, items added to your cart, user specific information on pages accessed and previous visits to the site.) "R" Us Family members do not use cookies to store any of your personal or financial information on your computer. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. If you reject cookies, you may not be able to participate in certain activities or receive a presentation tailored to you.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -91,16 +91,16 @@ The "R" Us Sites use "cookies," which are small pieces of information stored by 
 
 From time to time, you may receive periodic mailings, telephone calls or e-mails from "R" Us Family members with information on products or services, discounts, special promotions, upcoming events or other offers from an "R" Us Family member or its marketing partners. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received or [click here](https://secure.ed4.net/toysrus/preferencecenter) to unsubscribe from future emails. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by completing the online form at www.toysrusinc.com/contactus or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for an operator who will instruct you on how you may opt out of receiving such communications. Please note that if you ask an "R" Us Family member to remove your name from a mailing list, your name will be removed from all of the mailing lists maintained by the "R" Us Family. In addition, your personal information may be retained in the database for record keeping purposes and for internal research and analysis.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
 
 **7\. How can I update or change my personal information?**
 
-You may update or change your personal information by completing the online form at www.toysrusinc.com/contactus or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for an operator, who will instruct you on how to update or change your personal information. To change your shipping or billing information for www.toysrus.com, www.babiesrus.com or www.personalizedbyrus.com orders, log on, select "My Account" and make the appropriate changes.
+You may update or change your personal information by completing the online form at www.toysrusinc.com/contactus or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for an operator, who will instruct you on how to update or change your personal information. To change your shipping or billing information for www.toysrus.com or www.babiesrus.com orders, log on, select "My Account" and make the appropriate changes.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -109,7 +109,7 @@ You may update or change your personal information by completing the online form
 
 The "R" Us Sites do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If any "R" Us Family member learns that a child under the age of 13 has submitted personally identifiable information online, in contravention of these measures, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -118,7 +118,7 @@ The "R" Us Sites do not knowingly solicit or collect personally identifiable inf
 
 The "R" Us Sites may contain links to other sites, including content from other sites that is occasionally framed within an "R" Us Site. Please note that the privacy policies at these other sites may be different from this one. You should review the privacy policy of any site linked to or framed within an "R" Us Site prior to providing any information on or to that site.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -127,7 +127,7 @@ The "R" Us Sites may contain links to other sites, including content from other 
 
 If you have questions or concerns about this Privacy Policy, please feel free to call us at 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -136,7 +136,7 @@ If you have questions or concerns about this Privacy Policy, please feel free to
 
 This Privacy Policy may be updated and revised from time to time and we will post any changes to this policy. You agree that the information that we gather now will be subject to the Privacy Policy in effect at the time of use. We may contact you with notices concerning our Privacy Policy, but you should check the "R" Us Sites periodically to review any changes.
 
- BACK TO TOP
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
