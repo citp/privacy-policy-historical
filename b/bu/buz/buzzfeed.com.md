@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzfeed.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226050231id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzfeed.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216091645id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
 
 # BuzzFeed Privacy Policy
 
