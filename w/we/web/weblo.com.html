@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weblo.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616081451id_/http%3A//www.weblo.com/main/index.php%3FAction%3DMain.privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weblo.com privacy policy that was archived on 2009-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216192935id_/http%3A//www.weblo.com/main/index.php%3FAction%3DMain.privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Weblo - Privacy policy</title>
@@ -445,8 +445,8 @@
 <style type="text/css">@import url("http://www.weblo.com/css/register.css");</style>
 <style type="text/css">@import url("http://www.weblo.com/css/domain.css");</style>
 <style type="text/css">@import url("http://www.weblo.com/css/home.css");</style>
-<style type="text/css" media="screen">@import url("http://www.weblo.com/css/searchpopup.css");</style>
-<style type="text/css" media="screen">@import url("http://www.weblo.com/css/learnmore.css");</style>
+<style type="text/css">@import url("http://www.weblo.com/css/searchpopup.css");</style>
+<style type="text/css">@import url("http://www.weblo.com/css/learnmore.css");</style>
 <link href="http://www.weblo.com/css/headerfooter.css" rel="stylesheet" type="text/css">
 
 <!--[if IE]>
@@ -501,13 +501,633 @@
 
 </head>
 
-
-
 <body>
 <script type="text/javascript">
 /* <![CDATA[ */
 	displayLearnMore();
 /*]]>*/
+</script>
+<style>
+.fr {
+	float:right;
+}
+.fl {
+	float:left;
+}
+.pl15 {
+	padding-left:15px;
+}
+.p5 {
+	padding:5px;
+}
+.lcorner {
+	left:-1px;
+	bottom:-1px;
+	position:absolute;
+}
+a {
+	text-decoration:none;
+	color:#27527E;
+}
+a:hover {
+	text-decoration:underline;
+}
+.bar {
+	margin:0 auto;
+}
+.content {
+	width:275px;
+	padding:1px 0 0 1px;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.notificationcontent {
+	width:273px;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.userstuatus {
+	font-size:11px;
+	color:#27527E;
+	background-color:#E8E8E8;
+	padding:5px 0;
+	width:275px;
+	max-height:350px;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+.onicon {
+	display:block;
+	width:255px;
+	/*background:url(http://www.weblo.com/images/onlineusers/user_online.png) no-repeat 220px center;*/
+	padding:2px 10px;
+}
+.officon {
+	background:url(http://www.weblo.com/images/onlineusers/offline.gif) no-repeat 249px center;
+	padding:2px 10px;
+}
+.name {
+	width:230px;
+	padding:2px 0 2px 12px;
+}
+.chat {
+	height:27px;
+	width:275px;
+	background-color:#336699;
+}
+.text {
+	font-size:12px;
+	color:#FFF;
+}
+.chatbox {
+	position:relative;
+	background-color:#FFFFFF;
+}
+.tabs123 {
+	list-style:none;
+	padding:4px 4px 0;
+	margin:0;
+	height:24px;
+}
+* html .tabs123 {
+	height:19px;
+}
+.tabs123 li {
+	float:left;
+	background:#FFF url(http://www.weblo.com/images/onlineusers/lefto.png) no-repeat left top;
+	padding-left:5px;
+	margin-right:5px;
+}
+.tabs123 li a {
+	display:block;
+	background:#FFF url(http://www.weblo.com/images/onlineusers/righto.png) no-repeat right top;
+	padding:3px 10px 3px 5px;
+	font:bold 11px Arial;
+	color:#343434;
+}
+.tabs123 li.current {
+	background:#e8e8e8 url(http://www.weblo.com/images/onlineusers/leftf.png) no-repeat left top;
+}
+.tabs123 li.current a {
+	background:#e8e8e8 url(http://www.weblo.com/images/onlineusers/rightf.png) no-repeat right top;
+	color:#275380;
+}
+.chatbtn {
+	position:fixed;
+	right:0;
+	bottom:0px;
+	z-index:99;
+}
+* html .chatbtn {
+	position:absolute;
+}
+td.menu {
+	background:lightblue
+}
+table.nav {
+	/*background:black;*/
+position:fixed;
+	font: 80% arial;
+	bottom:19px;
+	right:-315px;
+	z-index:100;
+	width:274px;
+}
+* html table.nav {
+	right: 0px;
+	bottom: 0px;
+top: expression( (-myMenu.offsetHeight - botDiv.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+	display:none;
+}
+.tabDiv {
+	width:100%;
+	bottom:0px;
+	height:20px;
+	background-color:#F3F3F3;
+	/*border:1px solid #c0c0c0;*/
+position:fixed;
+	font: bold 80% arial;
+	bottom:0px;
+	left:0px;
+	z-index:99;
+}
+* html .tabDiv {
+	width:1000px;
+	right: 0px;
+	bottom: 0px;
+left: expression( ( 0 - botDiv.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+top: expression( ( 0 - botDiv.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+* html #botDiv {
+	/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+ 	height:20px; /* fix bar's height */
+	width:100%; /* use 100% of width */
+	/* the code below will PUT the bar at the bottom */	
+	bottom:0px;
+	position:absolute;
+	/* hide scrollbar for this wrapper */
+	overflow:hidden;
+}
+body > div#botDiv {
+/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+  /*position: fixed;*/
+}
+* html #myMenu {
+	/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+  position: absolute;
+	right: 0px;
+	bottom: 21px;
+	overflow:hidden;
+}
+body > * html #myMenu {
+/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+  /*position: fixed;*/
+}
+.alerts {
+	font-size:11px;
+	background-color:#E8E8E8;
+	padding:12px;
+	max-height:350px;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+.notificationalerts {
+	width:250px;
+	font-size:11px;
+	background-color:#E8E8E8;
+	padding:12px;
+	max-height:350px;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+.bgblue {
+	background-color:#336699;
+	height:25px;
+	width:274px;
+}
+.topheader {
+	background-color:#336699;
+	height:24px;
+	width:275px;
+}
+.notify {
+	color:#FFF;
+	font-size:14px;
+	font-weight:bold;
+	padding:4px 0 0 9px;
+}
+.notificationbtn {
+	position:fixed;
+	right:1px;
+	bottom:71px;
+	z-index:99;
+}
+* html .notificationbtn {
+	position:absolute;
+}
+hr {
+	color:#CCC;
+	width:225px;
+}
+* html .alerts {
+	display:block;
+height:expression(this.scrollHeight>300?"356px":"auto");
+}
+* html .topheader {
+	background-color:#336699;
+	height:24px;
+	width:275px;
+}
+table.navNotification {
+	/*background:black;*/
+position:fixed;
+	font: 80% arial;
+	bottom:19px;
+	right:-315px;
+	width:274px;
+	z-index:100;
+	color:#666666;
+}
+* html table.navNotification {
+	right: 0px;
+	width:270px;
+	bottom:0px;
+	max-height:200px;
+top: expression( (-myNotification.offsetHeight - botDiv.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+	display:none;
+}
+* html .bgblue {
+	width:273px;
+}
+* html .notificationalerts {
+	width:250px;
+}
+* html .alerts {
+	width:253px;
+}
+* html .content {
+	width:276px;
+}
+* html .chat {
+	width:276px;
+}
+table.nav2 {
+	position:absolute;
+	font: bold 80% arial;
+	bottom:0px;
+	right:0px;
+	height: 90px;
+}
+* html #myNotification {
+	/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+  position: absolute;
+	right: 0px;
+	bottom: 21px;
+	max-height:200px;
+}
+body > * html #myNotification {
+	/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+  position: fixed;
+	max-height:200px;
+}
+#chatID:hover {
+	background:#336699;
+}
+#notifyID:hover {
+	background:#336699;
+}
+* html #notifyID {
+	margin-right:1px;
+}
+.onicon:hover {
+	background-color:#D8D8D8;
+	color:#fff;
+	text-decoration:none;
+}
+</style>
+<table id="myMenu" class="nav" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><div class="fl" style="width:274px;">
+				<div class="content">
+					<div class="topheader">
+						<ul class="tabs123">
+							<li id="FLTab" class=""><a href="javascript:showFL();" title="Online Friends">Online Friends </a></li>
+							<li id="OUTab" class="current"><a href="javascript:showOU();" title="Online Users">Online Users </a></li>
+						</ul>
+					</div>
+					<div id="FLDiv" class="userstuatus" style="display:none">
+												<div style="padding: 6px 10px; color: rgb(102, 102, 102);" align="center">Please
+							<a href="http://www.weblo.com/signin/index.php?Action=SignIn.SignIn" title="Sign In">Sign In</a>							to see your friends online</div>
+											</div>
+					<div id="OUDiv" class="userstuatus" style="display:block; ">
+												<div style="padding: 6px 10px; color: rgb(102, 102, 102);" align="center">No User(s) Online</div>
+											</div>
+				</div>
+			</div>
+			<div style="clear:both;">
+				<div class="chatbox">
+					<div class="chat">
+						<div class="fl p5"> <img src="http://www.weblo.com/images/onlineusers/chat.png" alt="messages"></div>
+						<div class="fl text p5" id="chatvalue"><b>Online (0)</b></div>
+					</div>
+				</div>
+			</div></td>
+</tr></tbody></table>
+<div class="tabDiv" id="botDiv">
+	<div id="notifyID" style="float:right;  width:50px; height:17px; z-index:101; border-top:1px solid #c0c0c0;  text-align:center; padding:2px;" onmousemove="StyleIn();" onmouseout="StyleOut();"> <a style="display:block;height:20px; width:50px;" href="javascript:Notification();" alt="Notifications" title="Notifications"><img src="http://www.weblo.com/images/onlineusers/notification_icon.png"></a></div>
+	<div id="chatID" style="float:right; border-right:1px solid #c0c0c0; border-top:1px solid #c0c0c0; z-index:101; border-left:1px solid #c0c0c0; width:72px; height:17px;   text-align:center; padding:2px;" onmousemove="StyleInChat();" onmouseout="StyleOutChat();"><a style="display:block;height:20px; width:72px;" href="javascript:onlineUsers();" alt="Chat" title="Chat"><img src="http://www.weblo.com/images/onlineusers/chat.png" width="24" height="17"></a></div>
+	<div style="clear:both"></div>
+</div>
+<script language="javascript">
+var divPosition=-315;
+	var intHide;
+	var speed=315;
+	var HideStatus=1;
+	var HideNotification=1;
+	
+		function showmenu()
+		{
+		clearInterval(intHide);
+		intShow=setInterval("show()",1);
+		}
+		function hidemenu()
+		{
+		clearInterval(intShow);
+		intHide=setInterval("hide()",1);
+		}
+		function show()
+		{
+//	
+		if (divPosition<-5)
+			{
+			divPosition=divPosition+speed;
+			document.getElementById('myMenu').style.zIndex='100';
+			document.getElementById('myMenu').style.right=divPosition+'px';
+			HideStatus = 0;
+			}
+			if(divPosition==-3) document.getElementById('myMenu').style.zIndex='98';
+		}
+		function hide()
+		{
+		if (divPosition>-315)
+			{
+			divPosition=divPosition-speed;
+			document.getElementById('myMenu').style.zIndex='100';
+			document.getElementById('myMenu').style.right=divPosition+'px';
+			HideStatus = 1;
+			}
+			//if(divPosition==-315) document.getElementById('chatImage').style.display='block';
+		
+		}
+		
+		function onlineUsers()
+			{
+			
+			if(HideStatus== 1)
+			{
+				showmenu();
+				document.getElementById('myMenu').style.display='block';
+				document.getElementById('notifyID').style.background='none';
+				document.getElementById('chatID').style.background='#336699';
+				document.getElementById('chatID').style.borderTop='1px solid #336699';
+				document.getElementById('notifyID').style.borderTop='1px solid #c0c0c0';
+				//document.getElementById('chatImage').style.display='none';
+				if(HideNotification==0){
+				hidenotification();
+				document.getElementById('myNotification').style.display='none';
+				}
+				if(HideNotification==1){
+				//document.getElementById('notifiationImage').style.bottom='25px';
+				}
+				HideStatus=0;
+					return ;
+				}else{
+					hidemenu();
+					document.getElementById('myMenu').style.display='none'
+					document.getElementById('chatID').style.background='none';
+					document.getElementById('chatID').style.borderTop='1px solid #c0c0c0';
+					//document.getElementById('notifiationImage').style.bottom='69px';
+					//document.getElementById('chatImage').style.display='block';
+					
+				return ;
+				}
+			}
+			
+			function showFL(){
+				var chatValue=0;
+				document.getElementById('chatvalue').innerHTML='<b>Online ('+chatValue+')</b>';
+				document.getElementById('OUTab').className='';
+				document.getElementById('FLTab').className='current';
+				document.getElementById('OUDiv').style.display='none';
+				document.getElementById('FLDiv').style.display='block';
+				
+			}
+			function showOU(){
+				var chatValue=0;
+				document.getElementById('chatvalue').innerHTML='<b>Online ('+chatValue+')</b>';
+				document.getElementById('FLTab').className='';
+				document.getElementById('OUTab').className='current';
+				document.getElementById('FLDiv').style.display='none';
+				document.getElementById('OUDiv').style.display='block';
+				
+				
+			}
+		
+</script>
+<script language="javascript">
+		
+		document.onclick=check;
+		
+		var Ary=[];
+		function check(e) { 
+		 	var target = (e && e.target) || (event && event.srcElement);
+			 while (target.parentNode){
+		 	 if (target.className.match('nav') || target.className.match('navNotification') || target.className.match('tabDiv') ) return;
+		 	 target=target.parentNode;
+		 }
+		 
+		 if(HideStatus==0){
+		 var ary=zxcByClassName('nav')
+		 for (var z0=0;z0<ary.length;z0++){
+		  ary[z0].style.display='none';
+		 }
+		 document.getElementById('chatID').style.background='none';
+		 HideStatus=1;
+		 return true;
+		 
+		 }else if(HideNotification==0){
+		 var notify=zxcByClassName('navNotification')
+		 for (var z1=0;z1<notify.length;z1++){
+		  notify[z1].style.display='none';
+		 }
+		  document.getElementById('notifyID').style.background='none';
+		  HideNotification = 1;
+		  return true;
+		 }
+		
+		return true;
+		}
+		
+		
+		function zxcByClassName(nme,el,tag){
+		 if (typeof(el)=='string') el=document.getElementById(el);
+		 el=el||document;
+		 for (var tag=tag||'*',reg=new RegExp('\\b'+nme+'\\b'),els=el.getElementsByTagName(tag),ary=[],z0=0; z0<els.length;z0++){
+		  if(reg.test(els[z0].className)) ary.push(els[z0]);
+		 }
+		 return ary;
+		}
+		
+		
+		</script>
+<input type="hidden" id="web_path" name="web_path" value="http://www.weblo.com">
+<div id="notItDiv" class="select-free" style="position:absolute;width:400px;height:auto;z-index:99;display:none;padding:8px;border: 1px solid #999999;background-color:#F2F2F2;">
+  <table border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td align="left" id="Quickmessage"><!--<div id="divShowMesssage" class="divHeading"></div>--></td>
+      <td align="right"><a href="javascript:;" onclick="javascript:closeBuyNotDiv();"> <img src="http://www.weblo.com/images/asset_pages/close_icon.gif" width="15" height="13" border="0" alt=""></a></td>
+    </tr>
+    <tr>
+      <td height="2px"></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><div id="notDiv" style="position:relative;height:auto;"></div></td>
+    </tr>
+	
+  </tbody></table>
+</div>
+
+<table id="myNotification" class="navNotification" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><div class="notificationcontent">
+        <div class="bgblue">
+          <div class="notify">Notifications</div>
+		  
+        </div>
+        <div id="notifyArea" class="notificationalerts">
+          <div align="center" style="padding: 6px 10px; color: rgb(102, 102, 102);">Please <a href="http://www.weblo.com/signin/index.php?Action=SignIn.SignIn" title="Sign In">Sign In</a> to see your notification(s).</div>      </div>
+		
+		
+      </div>
+      
+      <div class="chatbox">
+        <div class="bgblue">
+          <div class="fl p5"> <img src="http://www.weblo.com/images/onlineusers/notification_icon.png" alt="notification"></div>
+          <div class="notify">Notification(0)</div>
+        </div>
+      </div></td>
+</tr></tbody></table>
+<script type="text/javascript">
+	var Divright=-315;
+	var intHideNotification;
+	var speed=315;
+	var HideNotification=1;
+		function shownotification()
+		{
+		clearInterval(intHideNotification);
+		intShowNotification=setInterval("showbar()",1);
+		document.getElementById('chatID').style.background='none';
+		document.getElementById('notifyID').style.background='#336699';
+		document.getElementById('notifyID').style.borderTop='1px solid #336699';
+		document.getElementById('chatID').style.borderTop='1px solid #c0c0c0';
+		
+		}
+		function hidenotification()
+		{
+		clearInterval(intShowNotification);
+		intHideNotification=setInterval("hidebar()",1);
+		document.getElementById('notifyID').style.background='none';
+		document.getElementById('notifyID').style.borderTop='1px solid #c0c0c0';
+		}
+		function showbar()
+		{
+		if (Divright<-5)
+			{
+			Divright=Divright+speed;
+			document.getElementById('myNotification').style.zIndex='100';
+			document.getElementById('myNotification').style.right=Divright+'px';
+			HideNotification = 0;
+			}
+			if(Divright==-3) document.getElementById('myNotification').style.zIndex='98';
+
+		}
+		function hidebar()
+		{
+		if (Divright>-315)
+			{
+			Divright=Divright-speed;
+			document.getElementById('myNotification').style.zIndex='100';
+			document.getElementById('myNotification').style.right=Divright+'px';
+			HideNotification = 1;
+			}
+			//if(Divright==-315) document.getElementById('notifiationImage').style.display='block';
+			if(HideStatus==1){
+			//document.getElementById('notifiationImage').style.bottom='69px';
+			}
+		
+		}
+		
+		function Notification()
+			{
+			
+			if(HideNotification== 1)
+			{
+				
+				shownotification();
+				//document.getElementById('notifiationImage').style.display='none';
+				document.getElementById('myNotification').style.display='block';
+				if(HideStatus==0){
+				hidemenu();
+				document.getElementById('myMenu').style.display='none'
+				}
+				HideNotification=0;
+			return ;
+				}else{
+				hidenotification();
+				document.getElementById('myNotification').style.display='none';
+				HideNotification=1;
+			return ;
+				}
+		
+			}
+
+function ajaxSearchNotification(pageId) {
+		var url = baseURL+'/index.php?Action=weblo.ajaxNotification&page='+pageId;		
+		document.getElementById('notifyArea').innerHTML = '<img src="' + baseURL + '/images/loading.gif" alt="Loading" />';
+		ajax_do_call(url,'','',set_notify_area);
+		
+		
+
+}
+	function set_notify_area(result){
+		document.getElementById('notifyArea').innerHTML=result;
+	}
+	
+	function StyleIn(){
+		document.getElementById('notifyID').style.background='#336699';
+	}	
+	function StyleOut(){
+		if(HideNotification==0){
+			document.getElementById('notifyID').style.background='#336699';
+		}else{
+			document.getElementById('notifyID').style.background='none';
+		}
+	}
+	
+	function StyleInChat(){
+		document.getElementById('chatID').style.background='#336699';
+	}	
+	
+	function StyleOutChat(){
+		if(HideStatus==0){
+			document.getElementById('chatID').style.background='#336699';
+		}else{
+			document.getElementById('chatID').style.background='none';
+		}
+	}
+
+
+
 </script>
 <div id="buyItDiv" class="select-free" style="position:absolute;width:400px;height:auto;z-index:99;display:none;padding:8px;border: 1px solid #999999;background-color:#F2F2F2;">
 <table border="0" align="center" cellpadding="0" cellspacing="0">
@@ -537,16 +1157,16 @@
 								<table border="0" width="92%" id="table79" cellspacing="0" cellpadding="0" height="50">
 									<tbody><tr>
 										<td align="center" valign="bottom">
-
+										
 										<a href="http://www.weblo.com" title="Virtual World">
 										<img alt="Virtual World" title="Virtual World" border="0" src="http://www.weblo.com/images/home/logo.gif" width="127" height="37"></a>
-
+										
 										</td>
 										<td width="234" align="left" class="HeaderLogoName" valign="bottom" style="padding-top:10px;">
 										<font size="1">&nbsp;</font><br>
 										Virtual World. Real Profit!
 																				</td>
-
+										
 									</tr>
 								</tbody></table>
 								</td>
@@ -564,21 +1184,21 @@
 									</tr>
 									<tr>
 										<td height="60" align="right">
-										<form name="searchAssetsForm" id="searchAssetsForm" method="get" action="http://www.weblo.com/search/index.php" onsubmit="return searchAssetsFormSubmit(this)">
-	<input type="hidden" name="Action" value="Search.search_weblo">
-	<input type="text" class="fadeIn" name="txtAssetName" id="searchAssetsFormAssetName" value="Search Weblo" onfocus="fadeFieldFocus(this)" onblur="fadeFieldBlur(this, 'Search Weblo')" onkeydown="return fadeFieldKeyDown(this, event)" style="border: 1px solid #808080; padding: 3px; height: 14px">
-	<select name="asset_type" id="searchAssetsFormAssetType" style="border: 1px solid #808080; height: 22px; padding: 2px; width: 110px; font-size: 12px">
-		<option value="">Weblo.com</option>
-		<option value="City">City</option>
-		<option value="State">State</option>
-		<option value="Celebrity">Celebrity</option>
-		<option value="Domain">Domain</option>
-		<option value="Property">Property</option>
-		<option value="Digital Asset">Digital Asset</option>
-	</select>
-	<input type="submit" class="button" value="Search" id="searchAssetsFormSubmitBtn">
-</form>
-										<div style="clear:both"></div>
+										<script src="http://www.google.com/jsapi?key=ABQIAAAA-uMM45LecqI1RKEYqhD6rRR9GqZ799RhBaJ5q8xu7pLxmi33JhQ3wQnaluZ-MY7jPBbTRC3TANbUbg" type="text/javascript"></script>
+<script src="http://www.weblo.com/javascript/google_ajaxsearch.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+	var webloAjaxSearch = new WebloGoogleAjaxSearch('googleAjaxSearchContainer', 'googleAjaxSearchResults');
+	webloAjaxSearch.delayDraw("");
+/* ]]> */
+</script>
+<div id="googleAjaxSearchContainer"></div>
+<div id="googleAjaxSearchResContainer" class="select-free">
+	<div id="googleAjaxSearchShadow">
+		<div id="googleAjaxSearchResults"></div>
+	</div>
+	<!--[if IE]><iframe></iframe><![endif]-->
+</div>										<div style="clear:both"></div>
 																			
 <div class="HeaderLocation">Location: <a href="http://www.weblo.com/country/United_States_of_America/US/" title="United States of America">United States of America</a> | <a href="javascript:getLocalizedPopUp('http://www.weblo.com%2Fmain%2Findex.php%3FAction%3DMain.privacy_policy','US')" class="join" title="Change Localization">Change</a></div>
 <div id="divLocalizedPopup" class="selectfreepopup" style="display:none;"></div>
@@ -588,77 +1208,34 @@
 								</td>
 							</tr>
 							<tr>
-								<td class="mainlink" colspan="2"><table align="right" border="0" cellpadding="0" style="border-collapse: collapse" id="table7" width="83%">
+								<td class="mainlink" colspan="2"><table align="right" border="0" cellpadding="0" style="border-collapse: collapse" id="table7">
                                   <tbody><tr>
-                                    <td align="center" width="13"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center" width="93"><table border="0" width="100%" id="table73" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Fun Zone" href="http://www.weblo.com/digital/"> Fun
-                                              Zone</a></td>
-                                        </tr>
-                                    </tbody></table></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table74" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Real Estate" href="http://www.weblo.com/property/">Real
-                                              Estate</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Fun Zone" href="http://www.weblo.com/digital/"> Fun
+                                    Zone</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table75" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Celebrities" href="http://www.weblo.com/celebrity/">Celebrities</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Real Estate" href="http://www.weblo.com/property/">Real
+                                    Estate</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table76" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Domains" href="http://www.weblo.com/domain/">Domains</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Celebrities" href="http://www.weblo.com/celebrity/">Celebrities</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table77" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Communities" href="http://www.weblo.com/communities/">Communities</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Domains" href="http://www.weblo.com/domain/">Domains</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table78" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Marketplace" href="http://www.weblo.com/auction/">Marketplace</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Communities" href="http://www.weblo.com/communities/">Communities</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table78" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Music" href="http://www.weblo.com/music/">Music</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Marketplace" href="http://www.weblo.com/auction/">Marketplace</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table78" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Events" href="http://www.weblo.com/events/">Events</a></td>
-                                        </tr>
-                                    </tbody></table></td>
-									<td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table78" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Venues" href="http://www.weblo.com/venues/">Venues</a></td>
-                                        </tr>
-                                    </tbody></table></td>
-									<td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table78" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Ideas" href="http://www.weblo.com/ideas/">Ideas</a></td>
-                                        </tr>
-                                    </tbody></table></td>
+                                    <td align="center"><a class="mainlink" title="Music" href="http://www.weblo.com/music/">Music</a></td>
                                     <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                                    <td align="center"><table border="0" width="100%" id="table78" cellspacing="0" cellpadding="0">
-                                        <tbody><tr>
-                                          <td align="center"><a class="mainlink" title="Advertise" href="http://www.weblo.com/adnetwork/"> Advertise</a></td>
-                                        </tr>
-                                    </tbody></table></td>
-
+                                    <td align="center"><a class="mainlink" title="Events" href="http://www.weblo.com/events/">Events</a></td>
+                                    <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
+                                    <td align="center"><a class="mainlink" title="Venues" href="http://www.weblo.com/venues/">Venues</a></td>
+                                    <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
+                                    <td align="center"><a class="mainlink" title="Ideas" href="http://www.weblo.com/ideas/">Ideas</a></td>
+                                    <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
+									 <td align="center"><a class="mainlink" title="Products" href="http://www.weblo.com/products/">Products</a></td>
+									 <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
+                                    <td align="center"><a class="mainlink" title="Advertise" href="http://www.weblo.com/adnetwork/">Advertise</a></td>
                                   </tr>
                                 </tbody></table></td>
 							</tr>
@@ -674,8 +1251,11 @@
 			  <td id="contentTableCell" valign="top">
 			  <table width="100%" border="0" cellspacing="0" cellpadding="0" id="contentTable">
 		                <tbody><tr>
-                  <td id="contentPageHeadingCell" colspan="2"><div id="contentPageHeading">
-				  Privacy Policy</div>
+                  <td id="contentPageHeadingCell" colspan="2">
+					<div id="contentPageHeading">
+						<div style="float: left">Privacy Policy</div>
+												<div style="clear: both"></div>
+					</div>
 				  </td>
                 </tr>
 	            <tr>
@@ -742,6 +1322,7 @@ background: transparent url(http://www.weblo.com/mediacenter/images/arrow.gif) l
                           <li><a href="http://www.weblo.com/main/index.php?Action=Main.celebrity">Free Celebrities</a></li>
                           <li><a href="http://www.weblo.com/main/index.php?Action=Main.moreWebloIdeas">Weblo Ideas</a></li>
                           <li><a href="http://www.weblo.com/main/index.php?Action=Main.events">Weblo Events</a></li>
+		                  <li><a href="http://www.weblo.com/main/index.php?Action=Main.Products">Weblo Products</a></li>
                           <li><a href="http://www.weblo.com/main/index.php?Action=Main.venues">Weblo Venues</a></li>
                           <li><a href="http://www.weblo.com/main/index.php?Action=Main.property">Virtual Real Estate</a></li>
                           <li><a href="http://www.weblo.com/main/index.php?Action=Main.domain">Virtual Domains</a></li>
@@ -988,6 +1569,49 @@ var dc_adprod='ADL';
 </script>
 <script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
 <!-- Kontera ContentLink -->
+<!-- ValueClick Media InVue Code for Weblo Inc -->
+<script language="javascript"> 
+<!-- 
+function vc_sc(name, value, expires, path, domain, secure) { 
+	var today = new Date(); 
+	today.setTime(today.getTime()); 
+	if (expires) 
+		expires = expires * 1000 * 60; 
+	var expires_date = new Date(today.getTime() + expires); 
+	document.cookie = name + "=" + escape(value) + ((expires) ? ";expires=" + expires_date.toGMTString() : "") + ((path) ? ";path=" + path : "" ) + ((domain) ? ";domain=" + domain : "" ) + ((secure) ? ";secure" : "" ); 
+}
+ var vc_freq_cap = 15; // Frequency cap in minutes
+ var vc_rand = Math.floor(Math.random() * 7777); 
+ // Used to verify that we can set cookies 
+ // 
+ document.cookie = 'h2=o; path=/;'; 
+ // Get the current window size to ensure we can view our ad 
+ // 
+ var vc_window_wt = 0; 
+ var vc_window_ht = 0; 
+ if (window.innerWidth && window.innerHeight) {
+  	vc_window_wt = window.innerWidth; 
+  	vc_window_ht = window.innerHeight; 
+ } else if (document.documentElement.clientWidth > 0 && document.documentElement.clientHeight > 0) { 
+  	vc_window_wt = document.documentElement.clientWidth; 
+  	vc_window_ht = document.documentElement.clientHeight; 
+ } else { 
+  	vc_window_wt = document.body.clientWidth; 
+  	vc_window_ht = document.body.clientHeight;
+   	if (vc_window_ht > 1024) { 
+   		vc_window_ht = 1024; 
+   	}
+ }
+if (document.cookie.indexOf('n=vue') <= 0 && document.cookie.indexOf('2=o') > 0 && document.cookie.indexOf('vccap=1') <= 0) {
+  vc_sc('vccap', '1', vc_freq_cap, '/', null, null); 
+  document.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net'); 
+  document.write('/w/get.media?sid=52950&tm=12&m=4&tp=4&c=' + vc_rand); 
+  document.write('&window_ht=' + vc_window_ht + '&window_wt=' + vc_window_wt + '"></scr'+'ipt>');
+ } 
+	   // --> 
+	   </script><script language="javascript" src="http://media.fastclick.net/w/get.media?sid=52950&amp;tm=12&amp;m=4&amp;tp=4&amp;c=6453&amp;window_ht=768&amp;window_wt=1366"></script>
+<!-- ValueClick Media InVue Code for Weblo Inc -->
+
 
 
 
