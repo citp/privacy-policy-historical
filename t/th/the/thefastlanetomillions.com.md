@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefastlanetomillions.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154605id_/http%3A//www.thefastlanetomillions.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastlanetomillions.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217005443id_/http%3A//www.thefastlanetomillions.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # theFastlaneToMillions.com | Privacy
 
-**TheFastlaneToMillions.com - Privacy Policy**
+**TheFastlaneToMillions.com – Privacy Policy**
 
 I hate spam and I don’t sell your name and information. I know, that isn’t enough. I have to put everything in legal terms to make it all kosher. So here goes…
 
