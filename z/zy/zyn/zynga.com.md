@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625140516id_/http%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216201622id_/http%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
 
-# Zynga.Inc - Privacy Policy
+# Zynga Game Network Inc. - Privacy Policy
 
-﻿ 
+﻿
 
 (Last Updated January 7, 2009)
 
@@ -109,3 +109,5 @@ Again, feel free to contact us by sending an email to [privacy@zynga.com](mailto
 ### California Residents: Your California Privacy Rights
 
 Under California law, California Residents who have an established business relationship with Zynga or one of its subsidiaries may choose to opt out of Zynga disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [privacy@zynga.com](mailto:privacy@zynga.com).
+
+Copyright © 2009 Zynga Game Network Inc.. All rights reserved.   |    [Privacy Policy](http://www.zynga.com/privacyPolicy/)   |    [Terms of Service](http://www.zynga.com/legal/terms_of_service.php)
