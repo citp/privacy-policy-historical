@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104018id_/http%3A//www.dailyme.com/corporate/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192607id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
 
-# Send DailyMe your comments, suggestions or comments
+# Privacy Policy - DailyMe
 
 DailyMe, Inc., a Delaware corporation ("DailyMe") is committed to safeguarding your privacy online. Please read the following policy to understand how your personally identifiable information will be treated as you make use of our current offerings. DailyMe has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses how we gather information from users, and others who visit the DailyMe website, our information dissemination practices and the information services therein. 
 
@@ -13,6 +13,7 @@ Our Privacy Policy will let you know:
   * What security precautions are in place to protect the loss, misuse, or alteration of my information?
   * Children's policy
   * Contact information
+  * Ad network opt-out links
 
 
 
@@ -46,7 +47,7 @@ You may opt-out of use of web beacons in the pages of our website that you view 
 
 Our website contains links to other websites. By clicking on any of these links, you acknowledge that we are not responsible for the content of such links. Moreover these websites' privacy policies may differ from this privacy policy. We strongly encourage you to read the privacy policy of any website you may visit. 
 
-It is your responsibility to maintain the confidentiality of your account information. We advise that you should be cautious about posting a real e-mail address, your actual name or other personally identifiable information to the Members Area and other areas of our website, including blogs newsgroups, chat groups, or other public forums. 
+It is your responsibility to maintain the confidentiality of your account information. We advise that you should be cautious about posting a real e-mail address, your actual name or other personally identifiable information to your Profile Page and other areas of our website, including blogs newsgroups, chat groups, or other public forums. 
 
 From time to time, we or a partner may sponsor a promotion, sweepstake or contest on our website. You may be asked to provide personally identifiable information including name, email address or home address or to answer questions in order to participate. We may transfer personally identifiable information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personally identifiable information and whose privacy statement will apply. 
 
@@ -68,11 +69,13 @@ Any personally identifiable information or content that you voluntarily disclose
 
 DailyMe provides you with the opportunity to opt-out of receiving any communications from us. 
 
-You have the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, including marketing purposes, when we ask for this information. For example, if you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by modifying your personally identifiable information to indicate such preference at any time by clicking on the Members Area section of DailyMe. 
+You have the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, including marketing purposes, when we ask for this information. For example, if you no longer wish to receive promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by modifying your personally identifiable information to indicate such preference at any time by clicking on your Profile Page section of DailyMe. 
+
+If you wish to opt out of the collection and analysis of the stories you read for the purpose of making more precise story recommendations, you may do so by clicking on this link and following the instructions on the [**My Newstogram page**](https://web.archive.org/mynewstogram).
 
 ### Changing or modifying your personally identifiable information 
 
-You may update or modify your personally identifiable information at any time by clicking on the Members Area section of DailyMe 
+You may update or modify your personally identifiable information at any time by clicking on your Profile Page section of DailyMe 
 
 ### What security precautions are in place to protect the loss, misuse, or alteration of my information? 
 
@@ -90,3 +93,7 @@ DailyMe, Inc.,
 Attention: General Counsel  
 4000 Hollywood Blvd. Suite # 745-S   
 Hollywood, FL 33021. 
+
+### AD NETWORK OPT-OUT LINKS 
+
+To opt-out of use of web beacons and of placement of a cookie by ad networks used on DailyMe, please visit the following sites: 
