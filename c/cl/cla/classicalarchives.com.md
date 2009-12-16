@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060827id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000603id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
 
 # Classical Archives: Privacy Policy
 
@@ -8,7 +8,7 @@ We are committed to protecting your privacy and security. You can use much of ou
 
   * **We collect four kinds of Personal Information:**
     * **Credit Card Information - never shared**   
-This information is only required if you subscribe to the Classical Archives or purchase permanent downloads of music. This information is collected to determine which content will be made available for your use and purchase and to allow processing of any payments you make to us. Billing address information is retained by us to fulfill our requirements to our music providers to control geographic availability of music in accordance with the licenses they grant us to make music available to you. We do not retain credit card numbers or security codes, instead, that information is provided to our credit card processor Payflow Pro, a PayPal company, through secure servers (which means that all communication to and from these servers are encrypted.) Payflow Pro, in turn, does not retain your credit card information beyond the time needed for transactions processing. 
+This information is only required if you subscribe to Classical Archives or purchase permanent downloads of music. This information is collected to determine which content will be made available for your use and purchase and to allow processing of any payments you make to us. Billing address information is retained by us to fulfill our requirements to our music providers to control geographic availability of music in accordance with the licenses they grant us to make music available to you. We do not retain credit card numbers or security codes, instead, that information is provided to our credit card processor Payflow Pro, a PayPal company, through secure servers (which means that all communication to and from these servers are encrypted.) Payflow Pro, in turn, does not retain your credit card information beyond the time needed for transactions processing. 
     * **Personal Data - never shared unless expressly requested by you**   
 
       * Name
@@ -44,8 +44,10 @@ Should you have other questions or concerns about these privacy policies, send u
 
 
 
-|  |   
+|  | 
+
+[](http://twitter.com/classicalarchiv) [](http://www.facebook.com/pages/Classical-Archives/66690637652/)  
   
 ---|---|---  
   
-© 1994-2009 Classical Archives LLC — Music For The Rest Of Us ®
+© 1994-2009 Classical Archives LLC — The Ultimate Classical Music Destination ™
