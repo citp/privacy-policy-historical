@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181518id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216152505id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
 
 # Go-Jamaica :: PRIVACY POLICY
 
