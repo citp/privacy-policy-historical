@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartshanghai.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060734id_/http%3A//www.smartshanghai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshanghai.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000607id_/http%3A//www.smartshanghai.com/privacy) for the most accurate reproduction.*
 
 # SmartShanghai.com | Shanghai_nightlife - Shanghai's most popular weekly nightlife newsletter
 
