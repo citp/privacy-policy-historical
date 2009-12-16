@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175020id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001921id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20090616175020id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20091217001921id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -49,8 +49,29 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:info@i-tech.com.au) to contact us. 
 
-|  |   
----|---|---|---|---  
+|  |  | 
+
+| Shopping Cart  
+---  
+  
+[](http://www.i-tech.com.au/Adsltpg.aspx)
+
+[ ](http://www.i-tech.com.au/Flexirent.aspx)  
+  
+| Recent Purchases  
+---  
+| [ Gigabyte GA-P55A-UD3R P55, 4DDR3, 12VRM, PCIE, GbLAN, 2SATA3, ATX, SLIENTPIPE, USB3.0 ](http://www.i-tech.com.au/products/58419_Gigabyte_GA_P55A_UD3R_P55__4DDR3_.aspx)  
+---  
+$196.00   
+[ ATEN 2L-5302U KVM SPHD15F ](http://www.i-tech.com.au/products/12375_ATEN_2L_5302U_KVM_SPHD15F.aspx)  
+$28.00   
+[ IOMEGA 500GB PRESTIGE PORTABLE HDD Iomega Prestige Portable Hard Drive USB 2.0, 500GB ](http://www.i-tech.com.au/products/36589_IOMEGA_500GB_PRESTIGE_PORTABLE_HDD.aspx)  
+$135.00   
+[ OKI YELLOW TONER C5510/ 5540/ 5250/ 5450 5 000 PAGES @ 5% COVERAGE YELLOW ](http://www.i-tech.com.au/products/34529_OKI_YELLOW_TONER_C5510__5540__5250.aspx)  
+$194.00   
+[ CANON PP2014A4 20 Sheets, A4, 260 gsm Photo Paper Plus Glossy II PP201A4 ](http://www.i-tech.com.au/products/36634_CANON_PP2014A4_20_Sheets__A4__260.aspx)  
+$16.00   
+   
   
   
 ---  
