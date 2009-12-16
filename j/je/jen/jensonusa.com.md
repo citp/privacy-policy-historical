@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620060213id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216141115id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
+
+close window
+
+Prices shown in currencies other than USA Dollars are estimates based on current exchange rates. We will charge your credit card in USA Dollars on the day your order is shipped, and the conversion to your local currency will be done at the prevailing rate by your credit card issuer.
+
+Shipments outside the USA are declared as “bike parts” for customs purposes and will include the actual amount paid for merchandise and shipping. Jenson USA will not mark your parcel as a “gift”, declare a value lower than the actual price paid, or otherwise prepare false customs information.
+
+Choose "Standard Shipping" for items labeled "in stock" and complete checkout by 4pm PST on Wednesday, Dec 16 for delivery to USA addresses by December 24th.
 
 By visiting JensonUSA.com you agree to accept the practices described in this Privacy Policy.
 
