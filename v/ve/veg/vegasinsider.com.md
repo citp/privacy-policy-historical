@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409141754id_/http%3A//www.vegasinsider.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216045040id_/http%3A//www.vegasinsider.com/privacy.cfm) for the most accurate reproduction.*
 
 # Sportsbook at VegasInsider.com: Online Sports Betting, Free Sports Picks, Las Vegas Odds, Adult Gambling
 
@@ -93,4 +93,4 @@ VegasInsider.com gives users the following options for changing and modifying in
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of VegasInsider.com, or your dealings with this Web site, you can contact [**Customer Service**](mailto:customer.service@vegasinsider.com) or write to:  Customer Service VegasInsider.com Attn: Privacy Statement 5300 NW 33rd Ave. Suite 119 Fort Lauderdale, FL 33309
+If you have any questions about this privacy statement, the practices of VegasInsider.com, or your dealings with this Web site, you can contact [**Customer Service**](mailto:customer.service@vegasinsider.com) or write to:  Customer Service VegasInsider.com Inc. Attn: Privacy Statement 5300 NW 33rd Ave. Suite 207 Fort Lauderdale, FL 33309
