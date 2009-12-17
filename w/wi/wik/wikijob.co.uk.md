@@ -1,35 +1,66 @@
-> *The following text is extracted and transformed from the wikijob.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181121id_/http%3A//www.wikijob.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikijob.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217103257id_/http%3A//www.wikijob.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | WikiJob
+# Privacy Policy | WikiJob
 
-WikiJob is commited to protecting your privacy in accordance with the law. This privacy policy explains what information we collect about users of the WikiJob website (the "Website") and how we will use it.
+## Information we store and use
 
-Please note that the Website contains links to other website which are outside our control and which are not covered by this privacy policy. Operators of such websites may collect information from you which may be used in a manner inconsistent with the WikiJob privacy policy.
+When you register with us or order from us, we ask for personal information such as your name, e-mail address, employer details, contact telephone number and so on. All this is necessary to verify your identity and eligibility for the services provided by WikiJob. You may also be asked for additional information if you sign up to receive news updates or other information services or to enter into competitions.
 
-## The information we collect
+## Information safety and security
 
-When you register to use the Website bulletin boards or subscribe to the email update system we need to know your name and email address. We (or our agents or subcontractors) may check some of the information that you provide to us against third party databases to confirm that it is accurate.
+We also operate security procedures as required under UK data protection legislation (the Data Protection Act 1998) to protect the information that we store about you from unauthorised access. 
 
-The Website uses "cookies" (small pieces of information stored on your computer's hard drive by your browser) which enable us to personalise your use of the Website (for example by automatically filling in your password for the bulletin boards). Most browsers allow users to turn off the cookie function - this will not prevent you from using the Website. 
+## Internal confidentiality
 
-## How we may use such information
+WikiJob aims to protect your privacy in the following ways: 
 
-We gather this information to allow us to operate the email update system, to personalise your use of the Website, to enable us to contact you in the event of queries relating to the bulletin boards and for security reasons. We may also use the information to communicate with you on any matter relating to the provision of the WikiJob service in general.
+  * Access to account information is limited to those who need access for the performance of their job. 
+  * We use full login and password controls on our data access systems. 
+  * All full and part-time employees are required to sign a confidentiality clause as part of their terms of employment. 
+  * Confidentiality and database access controls are reviewed periodically and updated as required to further protect your personal data. 
 
-On occasions we carry out surveys or other promotional activities which may be for our own benefit or for more general interest. Participation in any survey is entirely optional. We will store any information you provide and reserve the right to use it or distribute it to third parties as we wish.
 
-We may analyse user data to decide which users to include in any promotional campaigns we may run. We may also use aggregate information and statistics for the purposes of monitoring Website usage in order to help us develop the Website and our service and may provide such aggregate information to third parties.
 
-From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We or our agents and sub-contractors may occasionally contact you including by post, email or telephone to ask you for your feedback and comments on our services.
+## Use of ‘cookies’ and recording information
 
-We take reasonable precautions to ensure that any personal information which you provide is used only for the express purposes set out in these conditions. However, the internet is not a completely secure network and we cannot guarantee that such information will not be intercepted by other parties.
+This site uses cookies, but they do not contain any personal information about you and are used only to determine your browser and user preferences for our site. This helps us to provide you with a tailored service and to improve your browsing experience. However, if you prefer, you can set your browser software to not accept cookies. You should still be able to use the majority of our site without cookies enabled, but certain features may not be available without cookies.
 
-We (and any group companies) may also wish to provide you with information about special features of our web site or any special service or products which we think may be of interest to you. If you would rather not receive this information, please contact us.
+We may also feature advertising delivered from third party servers, which may also seek to set cookies. Such businesses have their own privacy policies which we can supply upon request. We do not deal with any advertising sales houses unless they confirm that cookies they use do not record personal information. 
 
-We may also want to provide you with related information from third parties which we think may be of interest to you. If you would rather not receive this information, please contact us.
+We record IP addresses of all people visiting our site. We do not use this information for tracking the activities of specific visitors to the site under normal operational conditions, but we may use this information in connection with any misuse of our site or any attempt to access our site or its data without authorisation. 
 
-## Your consent
+Certain parts of our site permit users to input information or comments. We will retain copies of any such data. 
 
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the web site, so that you may be aware of the information we collect and how we use it. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes.
+## Consent
 
-Because the internet infrastructure is global, the information you provide may be transferred to countries outside the European Economic Area ("EEA") that do not have similar data protection legislation during use as set out in this policy (for example, we may decide at a later date to host the WikiJob site on servers located outside the EEA). However, we have taken the steps outlined above to try to improve the security of your information. Should we wish to transfer data for processing to a country outside the EEA we will ensure that suitable arrangements are in place to protect your privacy. By submitting your information you consent to these transfers.
+All the information we collect via our website or through correspondence with you may be used for the following purposes by WikiJob or any legal entity connected with it:
+
+  * Dealing with transactions and account queries 
+  * Research 
+  * Processing payments, credit reference checking & fraud detection 
+  * To identify whether any offers from us or our partners may be suitable for you (but of course you will not receive any offers if you tell us that you do not wish to receive them); 
+  * For crime prevention or in connection with litigation. 
+
+Unless we are legally required to do so, we will not pass your personal information to an unconnected third party without your consent save where it is necessary for the purposes of crime prevention or prosecution or in connection with litigation. 
+
+## Changes
+
+The manner in which we collect or utilise data may change over time, and this policy may also change.
+
+Any changes to our privacy policy will be posted on this site so that you may ensure that you are fully informed of your rights and can notify us of any changes to your preferences. 
+
+## Your rights
+
+If for any reason, you are unsure about the personal and account information we are holding in your name, please contact us. We can review your file and update the records if required. You can contact our customer service team by email, phone or fax, all as listed in the ‘contact us’ section of the WikiJob website. 
+
+Anyone whose personal information is stored by us has certain rights under UK data protection legislation. If you wish to exercise any of those rights, please write to:
+
+The Data Controller,  
+WikiJob Ltd  
+54 Church Meadow,  
+Surbiton,  
+Surrey  
+KT6 5EW 
+
+
+
