@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoncams.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417032932id_/http%3A//www.neoncams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoncams.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217061300id_/http%3A//www.neoncams.com/privacy) for the most accurate reproduction.*
 
 # NeonCams – Live Webcam Sex – Privacy Policy
 
