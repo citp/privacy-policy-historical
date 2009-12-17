@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062642id_/http%3A//www.shawfloors.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234918id_/http%3A//www.shawfloors.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Shaw Floors: Privacy Policy -ShawFloors.com
 
 #### Shaw Industries Inc. Privacy Policy
 
-> Shaw Industries, Inc. is committed to respecting the privacy of all our visitors to our Web Site. We believe it is important you know how we treat the information about you we receive on the Internet. Although we track the total number of visitor to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process.
+> Shaw Industries, Inc. is committed to respecting the privacy of all our visitors to our Web Site. We believe it is important you know how we treat the information about you we receive on the Internet. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process.
 
 ##### Our Security Policy
 
