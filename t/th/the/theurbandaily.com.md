@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619065600id_/http%3A//theurbandaily.blackplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217040132id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Urban Daily
 
