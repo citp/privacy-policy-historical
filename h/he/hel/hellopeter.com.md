@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellopeter.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522013341id_/http%3A//www.hellopeter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopeter.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217072900id_/http%3A//www.hellopeter.com/privacy.php) for the most accurate reproduction.*
 
-# Customer Service | Hellopeter.com - Report customer service and get feedback
+# Customer Service | Report BAD service. Report GOOD service | Hellopeter.com
 
 ## Privacy statement
 
@@ -34,9 +34,9 @@ You always have the option to be excluded from third party use of your informati
 
 When you place reports, subscribe, or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorised access.
 
-As a Customer/User you may update or change information related to your Hellopeter.com account by accessing the My Hellopeter.com section of the Web site with your email address and password.
+As a Customer/User you may update or change information related to your Hellopeter.com account by accessing the Customer Zone section of the Web site with your email address and password.
 
-As a Company Who Responds you may update or change information related to your Hellopeter.com account by accessing the Company Subscription section of the Web site with your username account and password.
+As a Company Who Responds you may update or change information related to your Hellopeter.com account by accessing the Company Zone section of the Web site with your username and password.
 
 For other questions related to updating or changing your account information, please send email to [info@hellopeter.com](mailto:info@hellopeter.com). 
 
