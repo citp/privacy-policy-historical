@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroesfanatic.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609074118id_/http%3A//www.heroesfanatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroesfanatic.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217044603id_/http%3A//www.heroesfanatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Heroes Fanatic
 
