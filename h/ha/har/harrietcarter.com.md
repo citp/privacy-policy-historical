@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170416id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092432id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
 
 # Harriet Carter Privacy Statement
 
