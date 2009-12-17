@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619155904id_/http%3A//gaypage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217102332id_/http%3A//gaypage.com/privacy.php) for the most accurate reproduction.*
 
 # GAYPAGE.COM: Free Gay Community Videos Dating Chat Hook Up Social Network
 
