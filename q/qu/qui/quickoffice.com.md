@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickoffice.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065050id_/http%3A//www.quickoffice.com/legal-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickoffice.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217010003id_/http%3A//www.quickoffice.com/legal-policy/privacy-policy) for the most accurate reproduction.*
 
 # Quickoffice » Privacy Policy
 
@@ -105,11 +105,10 @@ Should you have any questions or concerns regarding this Privacy Statement, plea
 Quickoffice  
 5508 W Plano Pkwy  
 Suite E  
-Plano, TX 75093  
-(972) 931-8181
+Plano, TX 75093
 
 Privacy Statement Updates
 
 This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-This statement was last updated in October 2005.
+This statement was last updated in August 2009.
