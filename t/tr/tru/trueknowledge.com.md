@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419052909id_/http%3A//www.trueknowledge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217040127id_/http%3A//www.trueknowledge.com/privacy) for the most accurate reproduction.*
 
 # True Knowledge - privacy
 
@@ -10,6 +10,10 @@ True Knowledge Limited is committed to protecting the privacy and confidentialit
 
 When you visit or register on <http://www.trueknowledge.com/> (and all other subdomains of trueknowledge.com) you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information. We may also collect information about your use of our website as well as information about you by the use of cookies (see below), information you post to the website and e-mails or letters you send to us. 
 
+#### Information that we collect from you via the True Knowledge browser add-on
+
+When you use the True Knowledge browser add-on (also called Google Enhancer - True Knowledge and the True Knowledge Firefox add-on), the add-on will transmit to True Knowledge's servers information relating to your use of certain internet search engines. This information includes the search terms you use, what search engine you are using and which version of the add-on you have installed. All use of the add-on is anonymous, we do not associate any personally identifiable information with the information transmitted to our servers via the add-on. 
+
 #### Information posted by third parties
 
 Users of this website may submit personal information about third parties to the True Knowledge database through this website. We do not verify the content of any personal information posted to this website by third parties over whom we have no control. Although every reasonable effort is made to ensure that the information on this website is accurate at the time of publication, it is subject to variation at any time without notice and True Knowledge gives no warranty whatsoever that any such information will be accurate or complete at any particular time. Please refer to our [terms of use](https://web.archive.org/legal/ "terms of use") for further information. We reserve the right at any time and at our sole discretion to remove any information or to correct any information which has been posted to this website. 
@@ -19,6 +23,8 @@ Users of this website may submit personal information about third parties to the
 Cookies are small amounts of information which are stored on your computer. Using cookies enables us to monitor website traffic and to personalise the content of our site to your requirements. This maximises the benefits you gain in using our website and makes it easier for you to log on and use the site during any future visits. 
 
 We may use cookies to collect information about your use of our website (whether you register on our site or not). As soon as you enter or register on our site, our system will issue cookies to your computer whenever you log on.
+
+The first time you use the True Knowledge browser add-on, our service sends a cookie to your computer. The cookie is used to facilitate the collection of the information described in the paragraph above titled: Information that we collect from you when you use the True Knowledge browser add-on.
 
 You may disable the use of cookies in your internet browser but this may limit your access to our website or adversely affect your use of features or functions on certain web pages on it.
 
@@ -40,6 +46,8 @@ Finally, if we enter into a joint venture or our business is sold to or merged w
 Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.
 
 Unless required to do so by law or as otherwise set out in this privacy policy, we will not share, sell or distribute any of your personal information without your consent.
+
+We only collect information via the True Knowledge Firefox add-on in order to facilitate the function of the add-on and for internal statistical and analytical use. The information we collect via the add-on is kept private.
 
 #### Protection of personal data
 
