@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnelementsnow.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163622id_/http%3A//www.learnelementsnow.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnelementsnow.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217133247id_/http%3A//www.learnelementsnow.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,7 +33,7 @@ Look for Web site privacy policies. Know how your child's information is treated
 Check out the FTC's site: http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html for more tips on protecting children's privacy online.
 
 Contacting Us.  
-We can be reached by contacting: LearnElementsNow.com,  Email: learnelementsnow@gmail.com
+We can be reached by contacting: LearnElementsNow.com,  Email: learnadobeelementsnow@gmail.com
 
 1st January 2008
 
