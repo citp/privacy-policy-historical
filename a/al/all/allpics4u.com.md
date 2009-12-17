@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allpics4u.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602222902id_/http%3A//www.allpics4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpics4u.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217035742id_/http%3A//www.allpics4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Allpics4u
+# Privacy Policy -Allpics4u
+
+You are here: [Home](http://www.allpics4u.com/) / Privacy Policy
 
 **Allpics4u** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
