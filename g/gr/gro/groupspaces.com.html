@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the groupspaces.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626232459id_/http%3A//groupspaces.com/c/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groupspaces.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217054734id_/http%3A//groupspaces.com/c/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -13,17 +13,17 @@
 <!-- CSS STYLES -->
 
 <!-- main -->
-<link rel="stylesheet" href="http://media.groupspaces.com/styles/styles.css?1242072577" type="text/css" media="screen, projection, print">
+<link rel="stylesheet" href="http://media.groupspaces.com/styles/styles.css?1260296770" type="text/css" media="screen, projection, print">
 
 <!-- ie5mac -->
 <style type="text/css" media="all">
 /*\*//*/
-@import "http://media.groupspaces.com/styles/ie5mac.css?1242072577";
+@import "http://media.groupspaces.com/styles/ie5mac.css?1260296770";
 /**/
 </style>
 
 <!--[if IE]>
-<link rel="stylesheet" href="http://media.groupspaces.com/styles/ie.css?1242072577" type="text/css" media="screen, projection, print">
+<link rel="stylesheet" href="http://media.groupspaces.com/styles/ie.css?1260296770" type="text/css" media="screen, projection, print">
 <script type="text/JavaScript">
 // used in css expressions for min/max-width replacement - pass min, max, %age - measured against window width
 function minMaxW(a,b,c){
@@ -34,30 +34,88 @@ function minMaxW(a,b,c){
 <![endif]-->
 
 <!--[if lte IE 6]>
-<link rel="stylesheet" href="http://media.groupspaces.com/styles/ie6.css?1242072577" type="text/css" media="screen, projection, print">
+<link rel="stylesheet" href="http://media.groupspaces.com/styles/ie6.css?1260296770" type="text/css" media="screen, projection, print">
 <![endif]-->
 
 <!--[if IE 5]>
-<link rel="stylesheet" href="http://media.groupspaces.com/styles/ie5.css?1242072577" type="text/css" media="screen, projection, print">
+<link rel="stylesheet" href="http://media.groupspaces.com/styles/ie5.css?1260296770" type="text/css" media="screen, projection, print">
 <![endif]-->
 
 <!-- print -->
-<link rel="stylesheet" href="http://media.groupspaces.com/styles/print.css?1242072577" type="text/css" media="print">
+<link rel="stylesheet" href="http://media.groupspaces.com/styles/print.css?1260296770" type="text/css" media="print">
 
 <!-- legacy (v4) browsers -->
 <script type="text/javascript">
-if (!document.getElementById) document.write('<link rel="stylesheet" type="text/css" href="http://media.groupspaces.com/styles/legacy.css?1242072577">');
+if (!document.getElementById) document.write('<link rel="stylesheet" type="text/css" href="http://media.groupspaces.com/styles/legacy.css?1260296770">');
 </script>
 
 <!-- END CSS STYLES -->
 
 
-<script src="http://media.groupspaces.com/js/prototype/1.6.1rc2/prototype.js" type="text/javascript"></script>
+<script src="http://media.groupspaces.com/js/prototype/1.6.1/prototype.js" type="text/javascript"></script>
+<script src="http://media.groupspaces.com/js/scriptaculous/1.8.2/scriptaculous.js" type="text/javascript"></script>
 
+<script src="http://media.groupspaces.com/js/livepipe/090622a/livepipe.js"></script>
+<script src="http://media.groupspaces.com/js/livepipe/090622/window.js"></script>
 
 <script src="http://media.groupspaces.com/js/util.js?3" type="text/javascript"></script>
 
 
+<script type="text/javascript">
+document.observe('dom:loaded', function() {
+	try {
+		$$('a.popup-login').each(function(e) {
+			if (!e) return;
+			e.setAttribute('href', '#popup-login');
+			w = initAjaxModalWindow(e);
+			w.observe('afterOpen', function(e) {
+				$$('#popup-login #username').each(function (i) {
+					if (!$F(i)) {
+						i.focus();
+					} else {
+						i.up().next().down('#password').focus();
+					}
+				});
+			});
+		});
+	} catch (e) {
+		// do nothing, prevents error in IE on window unload
+	}
+});
+</script>
+<style type="text/css">
+#popup-login {
+	width: 550px;
+}
+#popup-login p {
+	margin: 0 0 0.5em 0;
+}
+#popup-login p.button {
+	text-align: center;
+}
+#popup-login img.control_window_close {
+	cursor: pointer;
+	float: right;
+	margin-top: 8px;
+}
+#popup-login p.control_window_status {
+	font-size: 1.3em;
+	font-weight: bold;
+	height: 160px;
+	line-height: 160px;
+	padding-right: 32px;
+	text-align: center;
+}
+#popup-login div.title {
+	background: url(http://media.groupspaces.com/images/des0808/tabs_bg.gif) repeat-x;
+	color: #fff;
+	font-weight: bold;
+	height: 18px;
+	margin: -5px -5px 5px;
+	padding: 5px;
+	position: relative;
+}
+</style>
 <meta name="robots" content="noindex">
 
 </head>
@@ -68,7 +126,8 @@ Event.observe(window, 'unload', function() {
 		FB.Connect.forceSessionRefresh();
 	}
 });
-FB.init('2d3598ff0fdb5430e94772354aa72e39', '/x/xdr', {"reloadIfSessionStateChanged":true,"doNotUseCachedConnectState":true});</script>
+FB.init('2d3598ff0fdb5430e94772354aa72e39', '/x/xdr', {"reloadIfSessionStateChanged":true,"doNotUseCachedConnectState":true});
+</script>
 <!-- accessibility links -->
 <ul id="access" class="offLegacy off">
 	<li><a href="#nav" title="Skip to navigation menu"></a>
@@ -80,23 +139,58 @@ FB.init('2d3598ff0fdb5430e94772354aa72e39', '/x/xdr', {"reloadIfSessionStateChan
 
 <!-- HEADER -->
 
+<div id="popup-login" class="control_window content" style="display: none;">
+<h2 class="title">
+<img alt="" class="control_window_close" height="16" width="16" src="http://media.groupspaces.com/images/icons/silk/cross.png">
+	<img width="32" height="32" class="icon" src="http://media.groupspaces.com/images/logo/32x32.gif" alt="">
+<span>Sign in to GroupSpaces</span>
+</h2>
+<form action="https://secure.groupspaces.com/auth/login" class="spinner" method="post">
+<input type="hidden" name="redirectURI" value="/c/privacy">
+<ul class="formfields rightLabel">
+<li>
+<label class="desc" for="username">E-mail:</label>
+<input type="text" name="username" id="username" value="" class="input_big">
+</li>
+<li>
+<label class="desc" for="password">Password:</label>
+<div>
+	<input name="password" type="password" id="password" class="input_medium">
+	&nbsp; <a href="https://secure.groupspaces.com/auth/reset-password">Forgot password?</a>
+</div>
+</li>
+<li>
+<p class="button">
+	<input type="submit" name="sub_login" value="Sign In">
+	or <a href="#" class="control_window_close">Cancel</a>
+</p>
+<p class="button">Don't have an account yet? <a href="https://secure.groupspaces.com/auth/register">Sign up</a></p>
+</li>
+</ul>
+<p class="control_window_status"><img alt="" class="icon" height="32" width="32" src="http://media.groupspaces.com/images/throbber.gif"> Signing in…</p>
+<p class="control_window_done"></p>
+</form>
+</div>
 
 <div id="header">
 
-<div class="topnw">
 
+
+<div id="headerInner">
+<div class="topnw">
 <table summary="" class="l">
 <tbody><tr>
- <td id="logo" rowspan="2"><h1>
+ <td id="logo"><h1>
 <a href="http://groupspaces.com/c/welcome" title="Go to GroupSpaces home page" id="logoHomeLink">			<span class="off">GroupSpaces</span>
 </a>		</h1>
 </td>
 
-<td id="greet">
-&nbsp;</td>
+<td>
+<ul id="topnav2" class="nav">
 
-<td id="search">
-<form action="http://groupspaces.com/c/search" method="get">
+<li><a href="http://groupspaces.com/c/welcome">Home</a></li><li><a href="http://groupspaces.com/c/tour/">Tour</a></li><li><a href="http://groupspaces.com/c/about/">About</a></li><li><a href="http://groupspaces.com/c/pricing/">Pricing</a></li><li><a href="http://groupspaces.com/c/press/">Press</a></li><li id="mSupport"><a href="http://groupspaces.com/c/support/">Help</a></li></ul>
+
+<form id="search" action="http://groupspaces.com/c/search" method="get">
 	
 		<input type="text" style="width: 250px;" name="s">
 		
@@ -104,27 +198,16 @@ FB.init('2d3598ff0fdb5430e94772354aa72e39', '/x/xdr', {"reloadIfSessionStateChan
 
 </form>
 </td>
-
 </tr>
 
-<tr>
-
-<td colspan="2" id="headerrow2">
-
-
-<ul id="topnav2" class="nav">
-
-<li><a href="http://groupspaces.com/c/welcome">Home</a></li><li><a href="http://groupspaces.com/c/tour/">Tour</a></li><li><a href="http://groupspaces.com/c/about/">About</a></li><li><a href="http://groupspaces.com/c/pricing/">Pricing</a></li><li><a href="http://groupspaces.com/c/press/">Press</a></li><li id="mSupport"><a href="http://groupspaces.com/c/support/">Help</a></li></ul>
-
-
-</td></tr>
 
 </tbody></table>
 
 </div>
-<div id="header_tab_line" class="empty_element_css_height_hook"></div>
-
 </div>
+<div id="header_tab_line" class="empty_element_css_height_hook"></div>
+</div>
+
 
 
 <!-- END HEADER -->
@@ -205,19 +288,19 @@ FB.init('2d3598ff0fdb5430e94772354aa72e39', '/x/xdr', {"reloadIfSessionStateChan
 
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-244942-5";
-_udn="groupspaces.com";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-244942-5");
+pageTracker._setDomainName(".groupspaces.com");
+pageTracker._trackPageview();
+} catch(err) {}
 </script>
 
 
-  <script src="http://static.getclicky.com/64207.js" type="text/javascript"></script>
-  <noscript><img alt='' src='http://static.getclicky.com/64207-db9.gif' /></noscript>
 
-
-
-<!-- Page created in 0.01679 seconds (0.015997 seconds actual processor time). Memory usage: 443.09Kb. -->
+<!-- Page created in 0.00822 seconds (0.0069989999999995 seconds actual processor time). Memory usage: 811.56Kb. -->
 </body></html>
