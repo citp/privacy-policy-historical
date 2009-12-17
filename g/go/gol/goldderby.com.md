@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldderby.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081103id_/http%3A//theenvelope.latimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldderby.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235901id_/http%3A//theenvelope.latimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Envelope - LA Times
 
@@ -44,10 +44,10 @@ Theenvelope.com does not knowingly collect or solicit Personally Identifiable In
 
 We can be reached by contacting:
 
-Theenvelope.com  
+TheEnvelope.com  
 202 W. First Street  
 Los Angeles, CA 90012  
-Email: [**feedback@latimes.echomail.com** ](mailto:feedback@latimes.echomail.com)
+E-mail: Use our convenient [feedback form](http://www.latimes.com/services/site/la-feedback-email-form-cf,0,7399011.customform). 
 
 **Changes to this policy.**
 
