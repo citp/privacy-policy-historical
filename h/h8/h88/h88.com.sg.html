@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the h88.com.sg privacy policy that was archived on 2009-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504044625id_/http%3A//www.h88.com.sg/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the h88.com.sg privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217205921id_/http%3A//www.h88.com.sg/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="H88.com.sg is a magazine blog which brings you the latest developments in real estate in Singapore.">
+<meta name="description" content="Singapore's largest property guide for homes and investment. Latest news, 50,000 photos and detailed reviews of popular Condominiums and HDB projects. Find a home close to MRTs, LRTs, Schools and Shopping Centres with www.h88.com.sg.">
 <link href="css/master.css" rel="stylesheet" type="text/css">
 <title>H88.com.sg » Privacy Policy</title>
 	
@@ -20,236 +20,254 @@ pageTracker._trackPageview();
 
 <body id="keypage">
 <div id="wrapper">
-  <script>
+  
+<script>
+		
 	function update_action(){
 		var formEmt = document.getElementById('searchForm');
 		var target = document.getElementById('searchTarget').selectedIndex;
 		switch (target){			
-			case 0: formEmt.action = "/index.php";
+			case 0: formEmt.action = "/lib_hdb_search.php";
+					document.getElementById('block').style.display='';
+					document.getElementById('searchquery').style.width=120+'px';
 					break;
-			case 1: formEmt.action = "/lib_photos.php";
+			default: formEmt.action = "/lib_search.php"; 
+					document.getElementById('block').style.display='none';
+					document.getElementById('searchquery').style.width=165+'px';
 					break;
 		}
+		switch (target){
+			case 0: document.getElementById('searchExample').innerHTML = 
+					"For example, 525 Hougang or 111 Bishan Street 12";
+				break;
+			case 1: 
+				document.getElementById('searchExample').innerHTML = 
+					"For example, The Anchorage  or Reflections At Keppel Bay";
+				break;
+			case 2: document.getElementById('searchExample').innerHTML = 
+					"For example, Hougang or Bishan";
+				break;
+			case 3: document.getElementById('searchExample').innerHTML = 
+					"For example, Temasek Primary or Ngee Ann Polytechnic";
+				break;
+			case 4: document.getElementById('searchExample').innerHTML = 
+					"For example, Bukit Timah Plaza or Ang Mo Kio Hub";
+				break;
+		}
 	}
+			
+		
+		function clearFieldBg(value, id){
+			if (value == ''){
+				document.getElementById(id).style.background = '#FFF';
+			
+			}
+		}
+		function restoreFieldBg(value, id){
+			if (value == ''){
+				document.getElementById(id).style.background = '#FFF url(http://www.h88.com.sg/images/searchbar_article_bg.gif) no-repeat 0px 3px';
+			
+			} else {
+				document.getElementById(id).style.background = '#FFF';
+			
+			}
+		}
 </script>
 <script src="/scripts/boxover.js"></script>
 <div id="header">
 	
-	<div id="topbanner"> <a href="/index.php?category=Property+Launches"><img src="/images/ads/leaderboard.gif" width="640" height="70" border="0"></a></div>
+	<div id="topbanner"> <a href="/index.php?category=Property+Launches"><img src="/images/ads/ad_h88_header_hdbhop.gif" width="640" height="70" border="0"></a></div>
 	
 
 	<div id="topright" class="topNav">
-		<ul>
-			<li><a href="/aboutus.php" title="Click here to find out more about H88.com.sg">About Us</a></li>
-			<li>|</li>
-			<li><a href="/advertising.php" title="Click here to find out how to advertise with us">Advertise with us</a></li>
-			<li>|</li>
-			<li><a href="/contactus.php" title="Click here for our contact details">Contact Us</a></li>
+	<ul>
+		<li><a href="/advertising.php" title="Click here to find out how 
+to advertise with us">Advertise with us</a></li>
+		<li>|</li>
+		<li><a href="/contactus.php" title="Click here for our contact 
+details">Contact Us</a></li>
+		<li>|</li>
+		<li><img src="/images/facebook_logo.gif" width="12" height="12" border="0" alt="Facebook" style="position:relative; top:2px;"> <a href="http://www.facebook.com/h88.com.sg" title="Find us on Facebook" target="_blank">Facebook</a></li>
+		<li>|</li>
+		<li><img src="/images/rss.gif" width="12" height="12" border="0" alt="RSS" style="position:relative; top:2px;"> <a href="http://www.h88.com.sg/article/How+to+use+the+Feed+on+H88/" title="Subscribe to our feed">Feed</a></li>
 		</ul>
-	</div>
+  </div>
 	<div id="homebar">
 	  <table border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
-          <td><a href="/index.php" title="Click here to go back H88's front page"><img src="/images/h88_masthead_logo.gif" alt="H88.com.sg Logo" width="117" height="104" border="0"></a></td>
-          <td><a href="/index.php" title="Click here to go back H88's front page"><img src="/images/h88_masthead_tag.gif" alt="Singapore's Property Guide - News &amp; Reviews, Directory, Photos" width="427" height="104" border="0"></a></td>
+          <td><a href="/index.php" title="Click here to go back H88's front 
+page"><img src="/images/h88_masthead_logo.jpg" alt="H88.com.sg Logo" width="117" height="104" border="0"></a></td>
+          <td><a href="/index.php" title="Click here to go back H88's front 
+page"><img src="/images/h88_masthead_tag.jpg" alt="Singapore's Property Guide - 
+News &amp; Reviews, Directory, Photos" width="427" height="104" border="0"></a></td>
         </tr>
       </tbody></table>
 	</div>
 	<div id="navigation">						
-		<div class="otherBtn"><a href="/index.php" title="header=[] body=[Read latest reviews, news and articles] offsetx=[15] offsety=[0] windowlock=[off]"><span>News</span></a></div>
-		<div class="otherBtn"><a href="/directory/" title="header=[] body=[Find HDB Blocks, Condominiums and so on] offsetx=[15] offsety=[15] windowlock=[on]"><span>Directory</span></a></div>
-		<div class="otherBtn"><a href="/photos.php" title="header=[] body=[View photos of Condominiums, HDB estates, streets, etc] offsetx=[15] offsety=[15] windowlock=[on]"><span>Photos</span></a></div>
-		<div class="otherBtn"><a href="/tools.php" title="header=[] body=[Find useful real estate tools and calculators] offsetx=[15] offsety=[15] windowlock=[on]"><span>Tools</span></a></div>
+		<div class="otherBtn">
+			<a href="/index.php" title="header=[] body=[Read latest reviews, news and articles] offsetx=[15] offsety=[0] windowlock=[off]"><span>News</span></a>
+		</div>
+		<div class="otherBtn"><a href="/directory/" title="header=[] body=[Find HDB 
+Blocks, Condominiums and so on] offsetx=[15] offsety=[15] 
+windowlock=[on]"><span>Directory</span></a>
+		</div>
+		<div class="otherBtn"><a href="/photos.php" title="header=[] body=[View 
+photos of Condominiums, HDB estates, streets, etc] offsetx=[15] offsety=[15] 
+windowlock=[on]"><span>Photos</span></a></div>
+		<div class="otherBtn"><a href="/tools.php" title="header=[] body=[Find 
+useful real estate tools and calculators] offsetx=[15] offsety=[15] 
+windowlock=[on]"><span>Tools</span></a></div>
 	</div>
 	
 	<div id="searchBar">
+	<div style="text-align:left; padding-right:10px; padding-top:5px; margin:0px;">
 		
+	<form id="searchForm" name="searchBar" method="POST" action="/lib_hdb_search.php" onsubmit="update_action()">
+		
+		<input name="block" id="block" style="position:relative; visible: hidden;  vertical-align:middle; width:30px; background:#FFF url(http://www.h88.com.sg/images/searchbar_article_bg.gif) no-repeat 0px 3px;" onfocus="clearFieldBg(this.value, this.id)" onblur="restoreFieldBg(this.value, this.id)">
+			
+		<input id="searchquery" name="searchquery" style="vertical-align:middle;  width:120px;  background:#FFF url(http://www.h88.com.sg/images/searchbar_article_bg.gif) no-repeat 0px 3px;" onfocus="clearFieldBg(this.value, this.id)" onblur="restoreFieldBg(this.value, this.id)">	
+		
+		
+		<select id="searchTarget" name="searchTarget" style="font-size:12px; vertical-align:middle; margin:0px -2px 0px 0px; " onchange="update_action()">
+			<option value="1" selected="selected">HDB</option>
+			<option value="2">Condos</option>
+			<option value="3">MRTs/LRTs</option>
+			<option value="4">Schools</option>
+			<option value="5">Shopping Ctrs</option>
+		</select>
+		
+		<input type="image" src="/images/btn_search.gif" name="searchbutton" width="56" height="22" style="vertical-align:middle; cursor:pointer;">	    
+	</form>
+			
+	<div id="searchExample" class="searchExample">
+For example, 525 Hougang or 111 Bishan Street 12	  
+	  </div>
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+	<script type="text/javascript" src="http://www.google.com/coop/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
+	<!-- end keyword search script -->
+	</div>
+
   </div>	
 	
-</div><!-- SECONDARY CONTENT BEGINS -->
+</div>
+<!-- SECONDARY CONTENT BEGINS -->
 	<div id="secondaryContent">
     <!--- BOX BEGINS --->
 	<!--<span style="font-size:10px; display:block; width:320px; text-align:center; letter-spacing:3px; padding:0px">advertisement</span>-->
 <script src="/scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <!--- BOX BEGINS --->
-	  <p class="boxTitle">Featured Articles</p>	
-	  	<div class="featuredWrapper">
+	  <p class="boxTitle">Featured Reviews </p>	 
+	  <div class="featuredWrapper">
+	 <!-- BEGIN FEATURED ITEM -->
+			<div class="featuredItem">
+				<div class="featuredImg">
+				 <a href="http://www.h88.com.sg/article/HDB+BTO%3A+Punggol+Ripples+and+Punggol+Sails+Review/" title="Click here to read 'HDB BTO: Punggol Ripples and Punggol Sails Review'">
+				  <img src="http://www.h88.com.sg/images/content/feature/sails_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+				<div class="featuredTitle"><a href="http://www.h88.com.sg/article/HDB+BTO%3A+Punggol+Ripples+and+Punggol+Sails+Review/" title="Click here to read 'HDB BTO: Punggol Ripples and Punggol Sails Review'">HDB BTO: Punggol Ripples and Punggol Sails Review</a> - Our most comprehensive reviews to date!</div>
+			</div>
+			<!-- END FEATURED ITEM -->
+	  <!-- BEGIN FEATURED ITEM -->
+			<div class="featuredItem">
+				<div class="featuredImg">
+				  <a href="http://www.h88.com.sg/article/HDB+BTO%3A+Boon+Lay+Meadow+Review/" title="Click here to read 'HDB BTO: Boon Lay Meadow Review'">
+				  <img src="http://www.h88.com.sg/images/content/feature/boon_lay_meadow_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+			  <div class="featuredTitle">
+			  <a href="http://www.h88.com.sg/article/HDB+BTO%3A+Boon+Lay+Meadow+Review/" title="Click here to read 'HDB BTO: Boon Lay Meadow Review'">HDB BTO: Boon Lay Meadow Review</a> - Find out which units are the best in this 705 unit BTO </div>
+			</div>
+	   <!-- END FEATURED ITEM -->
+	   <!-- BEGIN FEATURED ITEM -->
+			<div class="featuredItem">
+				<div class="featuredImg">
+				  <a href="/article/HDB+BTO+-+Punggol+Spectra+Review/" title="Click here to read 'HDB BTO - Punggol Spectra Review'">
+				  <img src="http://www.h88.com.sg/images/content/feature/punggol_spectra_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+			  <div class="featuredTitle">
+			 	 <a href="/article/HDB+BTO+-+Punggol+Spectra+Review/" title="Click here to read 'HDB BTO - Punggol Spectra Review'">HDB BTO - Punggol Spectra Review</a> - HDB's latest offering in Punggol</div>
+			</div>
+	   <!-- END FEATURED ITEM -->
+  	  <!-- BEGIN FEATURED ITEM -->
+			<div class="featuredItem">
+				<div class="featuredImg">
+				  <a href="/article/HDB+BTO%3A+Fernvale+Palms+Review/" title="Click here to read 'HDB BTO: Fernvale Palms Review'">
+				  <img src="http://www.h88.com.sg/images/content/feature/fernvale_palms_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+			  <div class="featuredTitle"><a href="/article/HDB+BTO%3A+Fernvale+Palms+Review/" title="Click here to read 'HDB BTO: Fernvale Palms Review'">HDB BTO: Fernvale Palms Review</a> <br>
+			  495-units to choose from in Sengkang</div>
+			</div>
+	   <!-- END FEATURED ITEM -->
+
+
+      </div>
+	  <!--- BOX END --->
+<!--- BOX BEGINS --->
+	  <p class="boxTitle">Featured Articles</p>	 
+	  <div class="featuredWrapper"> 
+	  		<!-- BEGIN FEATURED ITEM -->
+			<div class="featuredItem">
+				<div class="featuredImg">
+				 <a href="http://www.h88.com.sg/index.php?tag=H88.COM.SG&amp;page=1" title="Click here to read 'H88.com.sg's Directory upgrading'">
+				  <img src="http://www.h88.com.sg/images/content/feature/upgrade_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+				<div class="featuredTitle"><a href="http://www.h88.com.sg/index.php?tag=H88.COM.SG&amp;page=1" title="Click here to read 'H88.com.sg's Directory upgrading'">H88.com.sg's Directory Upgrades</a> - Do the HDB hop! Find out average HDB prices! And much more!</div>
+			</div>
+			<!-- END FEATURED ITEM -->	
+ <!-- BEGIN FEATURED ITEM -->
+			<div class="featuredItem">
+				<div class="featuredImg">
+				 <a href="/article/Size+chart%3A+Studios+vs+Badminton+Court/" title="Click here to read 'Size chart: Studios vs Badminton Court'">
+				  <img src="http://www.h88.com.sg/images/content/feature/badminton_chart_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+				<div class="featuredTitle"><a href="/article/Size+chart%3A+Studios+vs+Badminton+Court/" title="Click here to read 'Size chart: Studios vs Badminton Court'">Size chart: Studios vs Badminton Court</a> - We compare  small studios against a badminton court</div>
+			</div>
+			<!-- END FEATURED ITEM -->
+	  	  	
 			<!-- BEGIN FEATURED ITEM -->
 			<div class="featuredItem">
 				<div class="featuredImg">
-				  <a href="http://www.h88.com.sg/article/Condo+Photo+Review%3A+Amaryllis+Ville/">
-				  <img src="/images/content/2009-05-02/amaryllis_featured.jpg" width="70" height="50" border="0">
-				  </a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Condo+Photo+Review%3A+Amaryllis+Ville/">
-					Amaryllis Ville: A photo walkthrough of the condo in Newton</a></div>
+				 <a href="http://www.h88.com.sg/article/HDB+BTO%3A+Dawson+estate+preview/" title="Click here to read 'HDB BTO: Dawson estate preview'">
+				  <img src="http://www.h88.com.sg/images/content/feature/dawson_feature.jpg" width="70" height="50" border="0">				  </a>				</div>
+				<div class="featuredTitle"><a href="http://www.h88.com.sg/article/HDB+BTO%3A+Dawson+estate+preview/" title="Click here to read 'HDB BTO: Dawson estate preview'">HDB BTO: Dawson estate preview</a> HDB's latest offering coming soon</div>
 			</div>
 			<!-- END FEATURED ITEM -->
-            <!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/Review%3A+HDB+BTO+The+Nautilus/">
-					<img src="/images/content/2009-05-02/nautilus_featured.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Review%3A+HDB+BTO+The+Nautilus/">
-					Unit scoring charts to help you choose your flat at Punggol Nautilus</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-        	<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/Condo+Photo+Review%3A+Varsity+Park+Condo/">
-					<img src="/images/content/2009-04-30/varsity_park_condo.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Condo+Photo+Review%3A+Varsity+Park+Condo/">
-					A visit to Varsity Park Condo - Pictures and captions</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-			<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/Condo+Photo+Review%3A+Caribbean+at+Keppel+Bay/">
-					<img src="/images/content/2009-04-29/caribbean_at_keppel_bay_feature.JPG" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Condo+Photo+Review%3A+Caribbean+at+Keppel+Bay/">
-					Carribean at Keppel Bay - A photo walkthrough</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-			<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/Review%3A+HDB+DBSS+Parc+Lumiere/">
-					<img src="/images/content/2009-04-28/simei_parc_lumiere.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Review%3A+HDB+DBSS+Parc+Lumiere/">
-					A pictoral review of the Simei HDB DBSS - Parc Lumiere </a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-			<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/A+Look+at+the+Fiorenza+on+Florence+Road/">
-					<img src="/images/content/2009-04-27/fiorenza_at_florence_road_small.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/A+Look+at+the+Fiorenza+on+Florence+Road/">
-					A first look at the Fiorenza at Florence Road. Pictures and review.</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-			<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/Walkabout+at+Singapore's+first+DBSS+HDB+flats+-+Tampines+Premier/">
-					<img src="/images/content/2009-04-28/tampines_premier_feature.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Walkabout+at+Singapore's+first+DBSS+HDB+flats+-+Tampines+Premier/">
-					A Walkabout Singapore's first HDB DBSS - Tampines Premier </a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-			<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/A+Peek+at+the+Peak+@+Toa+Payoh/">
-					<img src="/images/content/feature/a_peek_at_the_peak.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/A+Peek+at+the+Peak+@+Toa+Payoh/">
-					A Peek at The Peak in Toa Payoh</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-			<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/All+gone!+The+Alexis%40Alexandra!/">
-					<img src="/images/content/2009-04-29/alexis_featured.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/All+gone!+The+Alexis%40Alexandra!/">
-					A visit to the Alexis@Alexandra showroom</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-						<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/High+tide+at+the+Caspian/">
-					<img src="/images/content/2009-04-29/caspian_featured.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/High+tide+at+the+Caspian/">
-					High tide at The Caspian</a>
-				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-						<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/Review%3A+HDB+BTO+Champions+Court/">
-					<img src="/images/content/2009-04-29/champions_court_featured.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/Review%3A+HDB+BTO+Champions+Court/">
-					A review HDB BTO Champions Court with scoring charts </a>				</div>
-			</div>
-			<!-- END FEATURED ITEM -->
-						<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/HDB+BTO%3A+Sunshine+Court+Review/">
-					<img src="/images/content/2009-04-29/sunshine_court_featured.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/HDB+BTO%3A+Sunshine+Court+Review/">
-					An in-depth review of the HDB BTO Sunshine Court with scoring charts </a></div>
-			</div>
-			<!-- END FEATURED ITEM -->
-									<!-- BEGIN FEATURED ITEM -->
-			<div class="featuredItem">
-				<div class="featuredImg">
-					<a href="http://www.h88.com.sg/article/HDB+BTO+-+Punggol+Regalia+Review/">
-					<img src="/images/content/2009-04-29/punggol_regalia_featured.jpg" width="70" height="50" border="0">
-					</a>
-				</div>
-				<div class="featuredTitle">
-					<a href="http://www.h88.com.sg/article/HDB+BTO+-+Punggol+Regalia+Review/">
-					Review of the HDB BTO Punggol Regalia with scoring charts </a></div>
-			</div>
-			<!-- END FEATURED ITEM -->
-		</div>
+
+
+		
+
+</div>
 		<!--- BOX ENDS --->
+
+<span style="font-size:9px; letter-spacing:1px; text-transform:uppercase; text-align:center; display:block;">advertisement</span>
+<div class="agent-premcol">
+	<a href="http://www.markiproperty.com" target="_blank"><img src="http://www.h88.com.sg/images/ad_premium_mt.jpg" width="320" height="160" border="0"></a></div>
+
+<!--
+<div class="agent-premcol">
+		 <script type="text/javascript">
+			AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8','width','320','height','160','src','http://www.h88.com.sg/images/adbanner','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.h88.com.sg/images/adbanner' ); //end AC code
+			</script>
+			<noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="320" height="160">
+				<param name="movie" value="http://www.h88.com.sg/images/adbanner.swf" />
+				<param name="quality" value="high" />
+				<embed src="http://www.h88.com.sg/images/adbanner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="320" height="160"></embed>
+			  </object></noscript>
+</div>
+-->
+<span style="font-size:9px; letter-spacing:1px; text-transform:uppercase; text-align:center; display:block;">advertisement</span>
+		<div class="agent-premcol">
+			<a href="http://biz.portalcity.com.sg/admanager3/click.php?a=748&amp;c=1&amp;url=http://lifestyle.myecitizen.sg/movinghouse/index.do" target="_blank"><img src="/images/ecitizen-01.gif" width="320" height="160" border="0"></a>		</div>
+			  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script><script type="text/javascript">FB.init("817835f88371dc586e270fda55a0662b");</script><fb:fan profile_id="193022580256" stream="" connections="15" width="320" height="320"></fb:fan>
 <div style="margin: 5px 0px 10px 0px;">
   <a href="http://www.h88.com.sg/index.php?page=1&amp;tag=HEARTLAND BUNNIES"><img src="/images/heartland_bunnies_banner.gif" width="322" height="91" border="0"></a></div>
+  <!--<div style="margin: 5px 0px 10px 0px; border:1px #000 solid;">
+ 	<a href="http://www.facebook.com/pages/H88comsg/193022580256" title="Find us on Facebook" target="_blank"><img src="/images/find_us_on_facebook.gif" width="320" height="60" border="0" /></a></div> -->
+
+
 	<!--- BOX ENDS --->
 	<!--- BOX BEGINS --->
-	<script src="/scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+	<!--
+<script src="/scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <div class="marquee">
 <script type="text/javascript">
 AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8','width','320','height','160','src','http://www.h88.com.sg/images/directory_marquee','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.h88.com.sg/images/directory_marquee' ); //end AC code
-</script><embed width="320" height="160" src="http://www.h88.com.sg/images/directory_marquee.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="320" height="160">
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="320" height="160">
     <param name="movie" value="http://www.h88.com.sg/images/directory_marquee.swf" />
     <param name="quality" value="high" />
     <embed src="http://www.h88.com.sg/images/directory_marquee.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="320" height="160"></embed>
@@ -260,13 +278,13 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
 <div class="agent-col">
   <script type="text/javascript">
 AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8','width','320','height','80','src','http://www.h88.com.sg/images/tools_showcase','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://www.h88.com.sg/images/tools_showcase' ); //end AC code
-</script><embed width="320" height="80" src="http://www.h88.com.sg/images/tools_showcase.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="320" height="80">
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8" width="320" height="80">
     <param name="movie" value="http://www.h88.com.sg/images/tools_showcase.swf" />
     <param name="quality" value="high" />
     <embed src="http://www.h88.com.sg/images/tools_showcase.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="320" height="80"></embed>
   </object></noscript>
 </div>
-
+-->
 
 	<!--- BOX ENDS --->
    </div>
