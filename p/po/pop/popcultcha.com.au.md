@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606214600id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217020457id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
 
 # Buy Collectables, Action Figures, Trading Cards, T-Shirts, Twilight New Moon and Merchandise
 
