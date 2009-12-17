@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queenonline.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133106id_/http%3A//www.queenonline.com/qpr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queenonline.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217014240id_/http%3A//www.queenonline.com/qpr/privacy) for the most accurate reproduction.*
 
 # Queen + Paul Rodgers – Privacy and Terms & Conditions
 
