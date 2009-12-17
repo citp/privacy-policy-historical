@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193129id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217142121id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
 
 # Privacy policy - Help - TES Connect
 
@@ -10,7 +10,7 @@ We take your privacy seriously and we have notified the Information Commissioner
 
 This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by email at [webmaster@tes.co.uk](mailto:webmaster@tes.co.uk "mailto:webmaster@tes.co.uk")
 
-By submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this [Privacy Policy](https://web.archive.org/web/20090617193129id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000267).
+By submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this [Privacy Policy](https://web.archive.org/web/20091217142121id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000267).
 
 If you do not accept this privacy policy you should not submit your personal data to us and you may find that you will not be able to make full use of the website.
 
@@ -32,7 +32,7 @@ We will not disclose any information we keep about you to any third parties, exc
 
 If you make your personal data available to friends, colleagues and/or any wider TES community then it will be shared within the relevant community. Also, if you post any personal information to any of our forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. In some circumstances we may display some of your personal information (your username for example) when you post material to the website to allow users to identify each other.
 
-If you post any content in breach of our website [terms and conditions](https://web.archive.org/web/20090617193129id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000125) we may inform any relevant third parties such as your employer, school email/Internet provider and law enforcement agencies about the content and your behaviour.
+If you post any content in breach of our website [terms and conditions](https://web.archive.org/web/20091217142121id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000125) we may inform any relevant third parties such as your employer, school email/Internet provider and law enforcement agencies about the content and your behaviour.
 
 ### Third Party Privacy Policies
 
