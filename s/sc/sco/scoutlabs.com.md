@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419031947id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217023631id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scout Labs
 
@@ -102,7 +102,7 @@ Scout Labs may change or supplement this Privacy Policy from time to time. We ma
 
 If you have any questions about this policy or our use of Personal Information, you may contact us at:
 
-Scout Labs, LLC  
+Scout Labs, Inc.  
 199 Fremont Street, 12th Floor  
 San Francisco, CA 94105  
 privacy  Scoutlabs.com 
