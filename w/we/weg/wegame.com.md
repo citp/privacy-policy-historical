@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegame.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616073856id_/http%3A//www.wegame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegame.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217182505id_/http%3A//www.wegame.com/privacy) for the most accurate reproduction.*
 
 # WeGame - Privacy Policy
 
@@ -83,6 +83,11 @@ Certain features of the Service connect to WeGame's computer systems over the In
 
 WeGame uses this information to make other features and services available to you.  WeGame may use the computer information to improve the Service, including, but not limited to, the Software and the Internet-Specific Services.  We may also share such non-personal information with others, such as hardware and software vendors.  They may use the information to improve how their products run with the Service.   
 
+
+**Invitations**    
+
+
+The Invite Friends feature is an easy way for WeGame users to invite friends through email. The email address(es) that you supply to use this service will only be used to send invitations to connect with you on WeGame. Contacts who are not registered members of WeGame will receive an email invitation from us on your behalf inviting them to join. By using the Invite Friends feature on WeGame, you agree to and authorize the following: (a) WeGame may use your e-mail address to invite to your contact, (b) WeGame may use your name and e-mail address to identify who you are in any such invitation, and (c) WeGame may follow up with any invitations initiated by you with two reminder emails to some contacts if they do not respond to the initial invitation. WeGame, with the user's consent, may access his/her e-mail address book during the signup process.
 
 **Use of Cookies**    
 
