@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepowerboards.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192949id_/http%3A//www.freepowerboards.com/privacy.fpb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepowerboards.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217061518id_/http%3A//www.freepowerboards.com/privacy.fpb) for the most accurate reproduction.*
 
 # Free Forum Hosting - FreePowerBoards
 
