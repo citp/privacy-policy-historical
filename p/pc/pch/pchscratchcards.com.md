@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchscratchcards.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628153643id_/http%3A//www.pchscratchcards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchscratchcards.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217220708id_/http%3A//www.pchscratchcards.com/privacy) for the most accurate reproduction.*
 
 # Welcome to PCHScratchCards: Scratch & Win Instantly! | Privacy Policy
 
