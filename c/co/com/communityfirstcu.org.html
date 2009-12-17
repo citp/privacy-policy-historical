@@ -1,0 +1,904 @@
+<!--The following is the downloaded HTML source of the communityfirstcu.org privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217232348id_/http%3A//www.communityfirstcu.org/interior.php/pid/4/sid/33) for the most accurate reproduction.-->
+
+<html><head><script>
+function check()
+{
+	if (confirm("You are about to leave the Community First Credit Union website and enter a linked site.  This link is provided for your convenience and should not be considered as an endorsement of the products, services or information provided, or an assurance of the security provided at the linked site.  Would you like to continue?"))
+	{
+		return true;
+	}
+	else return false;
+}
+
+function check_custom(customurl,lcWidth,lcHeight,lcResize,lcScroll,lcToolbar)
+{
+	if (confirm("You are about to leave the Community First Credit Union website and enter a linked site.  This link is provided for your convenience and should not be considered as an endorsement of the products, services or information provided, or an assurance of the security provided at the linked site.  Would you like to continue?"))
+	{
+		var newwindow = window.open(''+ customurl + '','popup','height='+lcHeight+',width='+lcWidth+',resizable='+lcResize+',status=yes,menubar=yes,toolbar='+lcToolbar+',scrollbars='+lcScroll+',location=yes');
+		newwindow.focus();
+	}
+}
+</script>
+<base href="http://www.communityfirstcu.org/">
+
+<meta name="Classification" content=""><meta name="Copyright" content="CambiumGroup LLC ©2009"><meta name="distribution" content="Global"><meta name="Language" content="en"><meta name="Rating" content="General"><meta name="Keywords" content=""><meta name="Description" content=""><meta name="Author" content="Cambium Group, LLC. - http://www.cambiumgroup.com"><title>Community First Credit Union: </title><meta http-equiv="Content-Type" content="text/html;">	<script language="JavaScript1.1">
+// A utility function that returns true if a string contains only 
+// whitespace characters.
+function isblank(s)
+{
+    for(var i = 0; i < s.length; i++) {
+        var c = s.charAt(i);
+        if ((c != ' ') && (c != '\n') && (c != '\t')) return false;
+    }
+    return true;
+}
+
+// This is the function that performs form verification. It will be invoked
+// from the onSubmit() event handler. The handler should return whatever
+// value this function returns.
+function verify_form(f)
+{
+    var msg;
+    var empty_fields = "";
+    var errors = "";
+
+    // Loop through the elements of the form, looking for all 
+    // text and textarea elements that don't have an "optional" property
+    // defined. Then, check for fields that are empty and make a list of them.
+    // Also, if any of these elements have a "min" or a "max" property defined,
+    // then verify that they are numbers and that they are in the right range.
+    // Put together error messages for fields that are wrong.
+    for(var i = 0; i < f.length; i++)
+	{
+        var e = f.elements[i];
+        if (((e.type == "text") || (e.type == "textarea") || (e.type == "hidden")) && e.required)
+		{
+            // first check if the field is empty
+            if ((e.value == null) || (e.value == "") || isblank(e.value))
+			{
+                empty_fields += "\n          " + e.alias;
+                continue;
+            }
+
+            // Now check for fields that are supposed to be numeric.
+            if (e.numeric || (e.min != null) || (e.max != null))
+			{ 
+                var v = parseFloat(e.value);
+                if (isNaN(v) || 
+                    ((e.min != null) && (v < e.min)) || 
+                    ((e.max != null) && (v > e.max))) {
+                    errors += "- The field " + e.name + " must be a number";
+                    if (e.min != null) 
+                        errors += " that is greater than " + e.min;
+                    if (e.max != null && e.min != null) 
+                        errors += " and less than " + e.max;
+                    else if (e.max != null)
+                        errors += " that is less than " + e.max;
+//                    errors += ".\n";
+                }
+            }
+        }
+		//check boxes
+//		if (e.type == 'checkbox' && e.id != '' && e.required)
+//		{
+//			if (!e.checked)
+//			{
+//				empty_fields += "\n          " + e.alias;
+//              continue;
+//			}
+//		}
+		//radio buttons
+//		var radios = document.getElementsByTagName('input');
+//		var radio_error_flag = 0;
+		
+//		for (var i = 0; i < radios.length; i++)
+//		{
+//			var r = radios[i];
+//			if (r.type == 'radio')
+//			{
+//				alert(r.id);
+//				alert(e.name);
+//			}
+//			if (r.type == 'radio' && r.id != '' && (r.id == e.id && e.required))
+//			{
+//				if (!r.checked)
+//				{
+//					radio_error_flag = 1;
+//				}
+//			}
+//		}
+//		if (r && radio_error_flag == 1)
+//		{
+//			empty_fields += "\n         " + e.alias;
+//		}
+		
+		//select boxes
+		if (e.type == 'select-one' && e.id != '' && e.required)
+		{
+			var myObject = eval('document.' + f.name + '.' + e.id + '[document.' + f.name + '.' + e.id + '.selectedIndex]');
+			if (myObject.value == 'select' && e.alias)
+			{
+				empty_fields += "\n          " + e.alias;
+			}
+		}
+    }
+
+
+    // Now, if there were any errors, display the messages, and
+    // return false to prevent the form from being submitted. 
+    // Otherwise return true.
+//    if (!empty_fields && !errors) 
+//    {
+//    	f.submit();
+//   	return;
+//    }
+    if (empty_fields) {
+	    msg  = "______________________________________________________\n\n"
+	    msg += "The form was not submitted because of the following error(s).\n";
+	    msg += "Please correct these error(s) and re-submit.\n";
+	    msg += "______________________________________________________\n\n"
+	
+        msg += "- The following required field(s) are empty:" 
+                + empty_fields + "\n";
+        if (errors) msg += "\n";
+
+	    msg += errors;
+    }
+    if (!empty_fields && !errors) 
+    {
+	    msg = '';
+    }
+    return msg;
+    
+		//USAGE         
+		//<FORM name="form1">
+		//         
+		//First name: <INPUT TYPE=text NAME="firstname">
+		//Last name: <INPUT TYPE=text NAME="lastname"><BR>
+		//Address:<BR><TEXTAREA NAME="address" ROWS=4 COLS=40></TEXTAREA><BR>
+		//Zip Code: <INPUT TYPE=text NAME="zip"><BR>
+		//Phone Number: <INPUT TYPE=text NAME="phonenumber"><BR>
+		//<INPUT TYPE=button onclick="form1.firstname.required = true;form1.firstname.alias='First Name';
+		//    form1.phonenumber.required = true;form1.phonenumber.alias='Required';
+		//    form1.zip.min = 0;
+		//    form1.zip.max = 99999;
+		//    verify(form1);">
+		//</FORM>       
+    
+}
+function verify(f)
+{
+    var msg;
+    var empty_fields = "";
+    var errors = "";
+
+    // Loop through the elements of the form, looking for all 
+    // text and textarea elements that don't have an "optional" property
+    // defined. Then, check for fields that are empty and make a list of them.
+    // Also, if any of these elements have a "min" or a "max" property defined,
+    // then verify that they are numbers and that they are in the right range.
+    // Put together error messages for fields that are wrong.
+    for(var i = 0; i < f.length; i++)
+	{
+        var e = f.elements[i];
+        if (((e.type == "text") || (e.type == "textarea") || (e.type == "hidden")) && e.required)
+		{
+            // first check if the field is empty
+            if ((e.value == null) || (e.value == "") || isblank(e.value))
+			{
+                empty_fields += "\n          " + e.alias;
+                continue;
+            }
+
+            // Now check for fields that are supposed to be numeric.
+            if (e.numeric || (e.min != null) || (e.max != null))
+			{ 
+                var v = parseFloat(e.value);
+                if (isNaN(v) || 
+                    ((e.min != null) && (v < e.min)) || 
+                    ((e.max != null) && (v > e.max))) {
+                    errors += "- The field " + e.alias + " must be a number";
+                    if (e.min != null) 
+                        errors += " that is greater than " + e.min;
+                    if (e.max != null && e.min != null) 
+                        errors += " and less than or equal to " + e.max;
+                    else if (e.max != null)
+                        errors += " that is less than or equal to " + e.max;
+//                    errors += ".\n";
+                }
+            }
+        }
+		//check boxes
+//		if (e.type == 'checkbox' && e.id != '' && e.required)
+//		{
+//			if (!e.checked)
+//			{
+//				empty_fields += "\n          " + e.alias;
+//              continue;
+//			}
+//		}
+		//radio buttons
+//		var radios = document.getElementsByTagName('input');
+//		var radio_error_flag = 0;
+//		for(var i = 0; i < radios.length; i++)
+//		{
+//			var r = radios[i];
+//			if (r.type == 'radio')
+//			{
+//				alert(r.id);
+//				alert(e.name);
+//			}
+//			if (r.type == 'radio' && r.id != '' && (r.id == e.id && e.required))
+//			{
+//				if (!r.checked)
+//				{
+//					radio_error_flag = 1;
+//				}
+//			}
+//		}
+//		if (r && radio_error_flag == 1)
+//		{
+//			empty_fields += "\n         " + e.alias;
+//		}
+		
+		//select boxes
+		if (e.type == 'select-one' && e.id != '' && e.required)
+		{
+			var myObject = eval('document.' + f.name + '.' + e.id + '[document.' + f.name + '.' + e.id + '.selectedIndex]');
+			if ((myObject.value == 'select' || myObject.value == '999') && e.alias)
+			{
+				empty_fields += "\n          " + e.alias;
+			}
+		}
+    }
+
+
+    // Now, if there were any errors, display the messages, and
+    // return false to prevent the form from being submitted. 
+    // Otherwise return true.
+    if (!empty_fields && !errors) 
+    {
+    	f.submit();
+    	return;
+    }
+    msg  = "______________________________________________________\n\n"
+    msg += "The form was not submitted because of the following error(s).\n";
+    msg += "Please correct these error(s) and re-submit.\n";
+    msg += "______________________________________________________\n\n"
+
+    if (empty_fields) {
+        msg += "- The following required field(s) are empty:" 
+                + empty_fields + "\n";
+        if (errors) msg += "\n";
+    }
+    msg += errors;
+    alert(msg);
+    return;
+    
+		//USAGE         
+		//<FORM name="form1">
+		//         
+		//First name: <INPUT TYPE=text NAME="firstname">
+		//Last name: <INPUT TYPE=text NAME="lastname"><BR>
+		//Address:<BR><TEXTAREA NAME="address" ROWS=4 COLS=40></TEXTAREA><BR>
+		//Zip Code: <INPUT TYPE=text NAME="zip"><BR>
+		//Phone Number: <INPUT TYPE=text NAME="phonenumber"><BR>
+		//<INPUT TYPE=button onclick="form1.firstname.required = true;form1.firstname.alias='First Name';
+		//    form1.phonenumber.required = true;form1.phonenumber.alias='Required';
+		//    form1.zip.min = 0;
+		//    form1.zip.max = 99999;
+		//    verify(form1);">
+		//</FORM>       
+    
+}
+</script>
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+
+<script language="javascript1.2" type="text/javascript" src="init_homepg.js"></script>
+</head>
+<body onload="MM_preloadImages('img/nav_personal_f2.jpg','img/nav_business_f2.jpg','img/nav_aboutus_f2.jpg','img/nav_moneytools_f2.jpg');">
+<table border="0" cellpadding="0" cellspacing="0" width="900" align="center">
+<tbody><tr>
+	<td><img name="topcurve" src="img/topcurve.gif" width="900" height="10" border="0"></td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="900">
+	<tbody><tr>
+		<td background="img/leftsideback.gif" height="100%" width="11">
+		<table border="0" cellpadding="0" cellspacing="0" width="11" height="100%">
+		<tbody><tr>
+			<td><img name="topleftcorner" src="img/topleftcorner.gif" width="11" height="12" border="0"></td>
+		</tr>
+		<tr>
+			<td width="11" height="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="11">
+		   	<tbody><tr>
+				<td width="1" height="100%"><img src="img/leftsideback.gif" alt="" width="11" height="1" border="0"></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="bottom"><img name="leftbottompurple" src="img/leftbottompurple.gif" width="11" height="56" border="0"></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td bgcolor="#ffffff">
+		<table border="0" cellpadding="0" cellspacing="0" width="877">
+				<tbody><tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="877">
+			<tbody><tr>
+ <!--logo image -->
+				<td><a href="http://www.communityfirstcu.org/index.php"><img name="logo" src="img/logo.gif" width="216" height="80" border="0"></a></td>
+				<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="372">
+				<tbody><tr>
+					<td width="372" height="55" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td width="372" height="25">
+					<table border="0" cellpadding="0" cellspacing="0" width="372">
+					<tbody><tr>
+						<td width="15" height="25" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+						<td><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/8/tid/12" class="actionnav">News</a></td>
+						<td><span class="spaceline">&nbsp;&nbsp;|&nbsp;&nbsp;</span></td>
+						<td><a href="http://www.communityfirstcu.org/right.php/pid/6" class="actionnav">Rates</a></td>
+						<td><span class="spaceline">&nbsp;&nbsp;|&nbsp;&nbsp;</span></td>
+						<td><a href="http://www.communityfirstcu.org/right.php/pid/5/sid/12" class="actionnav">Calculators</a></td>
+						<td><span class="spaceline">&nbsp;&nbsp;|&nbsp;&nbsp;</span></td>
+						<td><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/7" class="actionnav">Community</a></td>
+						<td><span class="spaceline">&nbsp;&nbsp;|&nbsp;&nbsp;</span></td>
+						<td><a href="http://www.communityfirstcu.org/right.php/pid/4/sid/25" class="actionnav">Locations</a></td>
+						<td width="15" height="25" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+			<td width="289" height="80" valign="top">
+			<!--begin longin box-->
+			<table border="0" cellpadding="0" cellspacing="0" width="289">
+			<tbody><tr>
+				<td valign="top"><img name="homebanking_logo" src="img/homebanking_logo.gif" width="130" height="80" border="0"></td>
+				<td bgcolor="#4B8781">
+				<table border="0" cellpadding="0" cellspacing="0" width="159">
+				<tbody><tr>
+					<td><img name="topcurvehomebanking" src="img/topcurvehomebanking.gif" width="159" height="12" border="0"></td>
+				</tr>
+				<tr>
+					<td width="159" height="58">
+					<table border="0" cellpadding="0" cellspacing="0" width="159">
+				   	<tbody><tr>
+						<td><iframe src="https://pcu.communityfirstcu.org/asp/USERS/Common/Login/NetLoginIframe.asp" width="159" align="left" height="58" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe></td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="img/bottomcurvehomebanking.gif" alt="" name="bottomcurvehomebanking" id="bottomcurvehomebanking" width="159" height="10" border="0"></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			</tbody></table>
+			<!--end login box -->
+			</td>
+		</tr>
+		</tbody></table>
+		</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="877">
+			<tbody><tr>
+				<td><img name="index_r5_c2" src="img/index_r5_c2.jpg" width="22" height="47" border="0"></td>
+				<td><a href="http://www.communityfirstcu.org/interior.php/pid/2" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_personal','','img/nav_personal_f2.jpg',1);"><img name="nav_personal" src="img/nav_personal.jpg" width="129" height="47" border="0"></a></td>
+				<td><a href="http://www.communityfirstcu.org/interior.php/pid/3" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_business','','img/nav_business_f2.jpg',1);"><img name="nav_business" src="img/nav_business.jpg" width="127" height="47" border="0"></a></td>
+				<td><a href="http://www.communityfirstcu.org/interior.php/pid/4" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_aboutus','','img/nav_aboutus_f2.jpg',1);"><img name="nav_aboutus" src="img/nav_aboutus.jpg" width="128" height="47" border="0"></a></td>
+				<td><a href="http://www.communityfirstcu.org/interior.php/pid/5" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('nav_moneytools','','img/nav_moneytools_f2.jpg',1);"><img name="nav_moneytools" src="img/nav_moneytools.jpg" width="128" height="47" border="0"></a></td>
+				<td><img name="taglinearea" src="img/taglinearea.gif" width="343" height="47" border="0"></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" height="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="877" valign="top">
+			<tbody><tr>
+				<td height="100%" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0" width="877" height="100%">
+				<tbody><tr>
+					<td height="100%" valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="191" height="100%">
+					<tbody><tr>
+						<td valign="top" width="191" height="24"><img name="leftnavtop" src="img/leftnavtop_aboutus.gif" width="191" height="24" border="0"></td>
+					</tr>
+					<tr>
+						<td valign="top" height="100%">
+						<table border="0" cellpadding="0" cellspacing="0" width="191" height="100%" valign="top">
+						<tbody><tr>
+							<td width="0" height="100%" bgcolor="#BBB095"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							<td width="189" valign="top">
+							<table border="0" cellpadding="0" cellspacing="0" width="189" valign="top">
+							<tbody><tr>
+								<td>
+								<table border="0" cellpadding="0" cellspacing="0" width="189">
+								<tbody><tr>
+									<td bgcolor="#4B8781">
+									<table border="0" cellpadding="0" cellspacing="0" width="189">
+									<tbody><tr>
+										<td width="13" height="100%"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+										<td valign="top">
+										<!--begin nav table-->
+										<table border="0" cellpadding="0" cellspacing="0" width="163">
+										<tbody><tr>
+											<td width="163" height="26"><a href="http://www.communityfirstcu.org/interior.php/pid/4" class="sidenav">About Us</a></td>
+										</tr>
+										<tr>
+											<td width="163" height="1" bgcolor="#BBB095"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+										</tr>
+										<!--<tr>-->
+										<!-- <td width="163" height="2" bgcolor="#5A289D"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>-->
+										<!--</tr>-->
+										<tr>
+											<td>
+											<table border="0" cellpadding="0" cellspacing="0" width="163">
+											<tbody><tr>
+												<td width="16" height="100%" "=""><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+												<td>
+												<!-- begin secondary links-->
+												<table border="0" cellpadding="0" cellspacing="0" width="147">
+												<tbody><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/right.php/pid/4/sid/25" class="sidenav2">Locations</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/26" class="sidenav2">History of Community First</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/8" class="sidenav2">Media Center</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/29" class="sidenav2">The Credit Union Difference</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/5/tid/9" class="sidenav2">Become a Member</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/9" class="sidenav2">Career Center</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/7" class="sidenav2">Serving our Community</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/right.php/pid/4/sid/48" class="sidenav2">Community Calendar</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/10" class="sidenav2">Fox Cities Marathon</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/27" class="sidenav2">Board of Directors</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/65" class="sidenav2">Awards &amp; Recognition</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/37/tid/105" class="sidenav2">Scholarships</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/right.php/pid/4/sid/11" class="sidenav2">Contact Us</a></td></tr><tr><td width="163" height="1" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td width="147" height="21"><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/50" class="sidenav2">Financial Literacy</a></td></tr>												</tbody></table>
+												<!--end secondary links-->
+												</td>
+											</tr>
+											</tbody></table>
+											</td>
+										</tr>
+										</tbody></table>
+										<!--end nav table-->
+										</td>
+										<td><img name="body_r1_c5" src="img/shim.gif" width="13" height="269" border="0"></td>
+									</tr>
+									</tbody></table>
+									</td>
+								</tr>
+								<tr>
+									<td><img name="nav_bottomcurve" src="img/leftnavbottom_aboutus.gif" width="189" height="18" border="0"></td>
+								</tr>
+								<tr>
+									<td><img name="body_r20_c1" src="img/body_r20_c1.gif" width="189" height="1" border="0"></td>
+								</tr>
+								</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td width="189" bgcolor="#E3DFD3">
+								<table border="0" cellpadding="0" cellspacing="0" width="189">
+					   			<tbody><tr>
+									<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+									<td width="149"><h4>How can we help you?</h4></td>
+									<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<form method="post" name="searchform" onsubmit="javascript:submitSearch();return false;" class=""></form>
+								
+							<tr>
+								<td width="100%" height="5" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								<td width="149">
+									<!--<select name="help" class="location">-->
+									<!--	<option value="none">Ways to Bank</option>-->
+									<!--</select>-->
+				<select name="category" id="category" class="location" onchange="location.href=this.value;"><option value="none">Ways to Bank</option><option value="http://www.communityfirstcu.org/right.php/pid/4/sid/25"> Branch Locations </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/5/tid/111"> Live Call Center Assistance </option><option value="http://www.communityfirstcu.org/interior.php/pid/5/sid/43"> PC Home Banking </option><option value="http://www.communityfirstcu.org/interior.php/pid/5/sid/44"> PC BillPayer </option><option value="http://www.communityfirstcu.org/interior.php/pid/5/sid/41/tid/107"> Tellerphone </option><option value="http://www.communityfirstcu.org/interior.php/pid/5/sid/41/tid/123"> Fee Free ATMS </option></select>								</td>
+								<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td width="100%" height="10" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								<td width="149">
+									<!--<select name="help" class="location">-->
+									<!--	<option value="none">Member Service</option>-->
+									<!--</select>-->
+				<select name="category2" id="category2" class="location" onchange="location.href=this.value;"><option value="none">Member Service</option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/5/tid/9"> Become a Member </option><option value="http://www.communityfirstcu.org/right.php/pid/4/sid/25"> Locations </option><option value="http://www.communityfirstcu.org/right.php/pid/2/sid/49"> Autos for Sale </option><option value="http://www.communityfirstcu.org/interior.php/pid/5/sid/22"> Order Checks </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/5/tid/34"> Report Lost/Stolen Card </option><option value="http://www.communityfirstcu.org/interior.php/pid/5/sid/41/tid/121"> Direct Deposit </option><option value="http://www.communityfirstcu.org/right.php/pid/4/sid/25">  </option></select>								</td>
+								<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td width="100%" height="10" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								<td width="149">
+									<!--<select name="help" class="location">-->
+									<!--	<option value="none">Apply for a Loan</option>-->
+									<!--</select>-->
+				<select name="category3" id="category3" class="location" onchange="location.href=this.value;"><option value="none">Apply for a Loan</option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/2/tid/115"> Auto Loans </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/32"> Mortgage &amp; Home Equity </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/2/tid/115"> Alternative Student Loan </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/2/tid/115"> Personal Loan </option><option value="http://www.communityfirstcu.org/right.php/pid/2/sid/49"> Autos for Sale </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/2/tid/115"> Credit Card </option><option value="http://www.communityfirstcu.org/interior.php/pid/2/sid/2/tid/115"> Home Equity Loan/Line </option></select>								</td>
+								<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td width="100%" height="10" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>								<tr>
+									<td width="20" height="1" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+									<td width="149" height="1" bgcolor="#BBB095"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+									<td width="20" height="1" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td width="100%" height="5" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+									<td width="149"><h4>Quick Links</h4></td>
+									<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td width="100%" height="1" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+									<td width="149">
+									<a href="http://www.communityfirstcu.org/interior.php/pid/2" class="quicklinks">Checking &amp; Savings</a><br>
+<a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/32" class="quicklinks">Mortgage &amp; Home Equity</a><br>
+<a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/2" class="quicklinks">Loans &amp; Credit Cards</a><br>
+<a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/2/tid/7" class="quicklinks">Auto Buying Service</a><br>
+<a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/3" class="quicklinks">Investments &amp; Insurance</a><br>
+<a href="http://www.communityfirstcu.org/interior.php/pid/2/sid/5/tid/9" class="quicklinks">Become a Member</a><br>
+<a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/7" class="quicklinks">Community Focus</a><br>									</td>
+									<td width="20" height="100%" bgcolor="#E3DFD3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								
+								<tr>
+									<td width="100%" height="15" bgcolor="#E3DFD3" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td width="100%" height="1" bgcolor="#BBB095" colspan="3"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+					   			</tbody></table>
+								</td>
+							</tr>
+							</tbody></table>
+							</td>
+							<td width="1" height="100%" bgcolor="#BBB095"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+						</tr>
+						</tbody></table>
+						</td>
+					</tr>
+					</tbody></table>
+					</td>
+					<td valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="686">
+					<tbody><tr>
+						<td width="686" height="157"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" id="flashhome" width="686" height="157"><param name="movie" value="http://www.communityfirstcu.org/uploads/1232554417.swf"><param name="quality" value="high"><param name="bgcolor" value="#FFFFFF"><embed name="flashhome" src="http://www.communityfirstcu.org/uploads/1232554417.swf" quality="high" bgcolor="#FFFFFF" width="686" height="157" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></td>
+					</tr>
+					<tr>
+						<td width="100%" height="10" bgcolor="#00494A"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+					</tr>
+					<tr>
+						<td width="686" height="20" bgcolor="#00494A">
+						<table border="0" cellpadding="0" cellspacing="0" width="686">
+				   		<tbody><tr>
+							<td width="30" height="20" bgcolor="#00494A"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							<td><h5>Ask Us A Question:</h5></td>
+								<script>
+	
+	function submitSearch1()
+	{
+		if (document.getElementById('quickQuestionValue').value.length > 0)
+		{
+			var dat = document.getElementById('quickQuestionValue').value;
+// 			alert(dat);
+// 			alert(dat);
+			document.location.href='http://km2.silvercloudsoftware.com/communityfirst/ExternalIndex.spr?quickQuestionValue='+dat;
+			//document.silvercloudformthatgoestotheirsite.submit();
+		}
+	}
+	</script>
+	<td><table><tbody><tr><td valign="bottom"><input class="silvercloud" name="quickQuestionValue" id="quickQuestionValue" maxlength="350" size="10"></td><td width="5" bgcolor="#00494A"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td><td valign="bottom"><img name="gobutton" src="img/submitbutton.jpg" alt="" width="58" height="18" border="0" onclick="javascript:submitSearch1();return false;" style="cursor: pointer;"></td></tr></tbody></table></td>							<td width="40" height="20" bgcolor="#00494A"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+						</tr>
+				   		</tbody></table>
+				   		</td>
+				  	</tr>
+					<tr>
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" width="686">
+						<tbody><tr>
+							<td width="25" height="100%" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							<td width="447" valign="top">
+							<table border="0" cellpadding="0" cellspacing="0" width="447">
+						   	<tbody><tr>
+								<td width="447" height="5" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+						   	<tr>
+								<td align="left">
+								<!--begin breadcrumb -->
+								<a href="http://www.communityfirstcu.org/index.php/pid/1">Home</a>
+								<img src="img/crumbarrow.gif" alt="" width="25" height="15" border="0">
+								<a href="http://www.communityfirstcu.org/interior.php/pid/4">About Us</a><img src="img/crumbarrow.gif" alt="" width="25" height="15" border="0"><span class="crumbson">Privacy Policy</span>								<!--end breadcrumb -->
+								</td>
+							</tr>
+							<tr>
+								<td width="447" height="10" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td id="body_text" width="447">
+								<!--begin body content -->
+								<h1>Privacy Policy</h1><h4>Important Privacy Information</h4>A Federal Privacy Law requires us to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. You can be confident that your financial privacy is a top priority of Community First Credit Union.&nbsp; <br><br>Community First Credit Union is committed to providing you financial products and services to meet your needs and reach your financial goals. We are equally committed to protecting our members’ privacy. You can be confident that your financial privacy is a priority at Community First. <br>We are required by law to provide you with this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions, please contact us at (920) 830-7200 or toll free at 1-866-273-2328.<br><br><strong><u>Information We Collect and Disclose About You</u></strong> <br>We receive non-public, personal financial information from you in a variety of ways:<br><br>• From membership and loan applications and other forms you<br>complete;<br>• From your transactions with us, our affiliates, or others;<br>• From a consumer reporting agency;<br>• From verifying the data you provide on an application or other forms, such as from your current or past employers or other institutions where you conduct financial business.<br><br><strong>To protect our member’s privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell the information we<br>provide them to other third parties.<br></strong><br>In order to offer you the most competitive products to meet your financial needs, effectively process and service your transactions, and comply with federal reporting requirements, it is necessary for us to share the information we collect regarding<br>you, as described above, with various organizations with whom we partner. Some examples of companies who partner with us are: vendors who work with us to process and mail account statements, providers of brokerage services to Community First members and credit and check card processors.<br><br>In addition, we may share information about you with our wholly owned affiliates. We also may disclose information about you under other circumstances as permitted or required by law.<br><br>In those instances where we partner with organizations providing additional financial products or services to the credit union or our members, we may disclose all the information we collect as described above. To protect your confidentiality and limit the use of the information we provide, we have entered into special agreements with these organizations.<br><br>If you terminate your membership with Community First Credit Union, we will not share information we have collected about you, except as permitted or required by law.<br><br><strong><u>How We Protect Your Information</u></strong><br>We restrict access to nonpublic personal information about you to Community First employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of preserving confidentiality and member privacy.<br><br>We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information. <br><br><strong><u>What You Can Do To Help Protect Your Privacy</u></strong><br>Community First Credit Union is committed to protecting the privacy of its members. Members can help by following these simple guidelines:<br><br>• Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your debit or credit card, which can provide free access to your accounts if your card is lost or stolen.<br><br>• Use caution when disclosing your account numbers, social security numbers, etc. to other persons.<br><br>• Keep your information with us current. It is important that we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately. If your address or phone number changes, please let us know.<br><br>If you have questions concerning this notice, please do not hesitate to call us.<br>Sincerely,<br><br>Catherine J. Tierney<br>President/CEO<br>Community First Credit Union<br><br><br>							<!--end body content -->
+							</td>
+						</tr>
+						</tbody></table>
+						</td>
+						<td width="25" height="100%" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+						<td width="189" valign="top">
+						<!--begin right sidebar -->
+						<table border="0" cellpadding="0" cellspacing="0" width="189">
+						<tbody><tr>
+							<td width="189" height="11" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+						</tr>
+						<tr>
+							<td>
+							<!--begin icon section -->
+							<table border="0" cellpadding="0" cellspacing="0" width="189">
+							<tbody><tr>
+								<td width="37" height="41" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								<td align="center">
+								<table border="0" cellpadding="0" cellspacing="0" width="152">
+								<tbody><tr>
+									<td>
+									<table border="0" cellpadding="2" cellspacing="0" width="130">
+									<tbody><tr><td><img name="icon_printthispage" src="img/icon_printthispage.gif" border="0" onclick="window.open('http://www.communityfirstcu.org/print.php/pid/4/sid/33/sitetype/Main','print','width=680,height=500,scrollbars=yes');return false;" style="cursor: pointer;"></td><td width="128" height="15"><a href="http://www.communityfirstcu.org/print.php/pid/4/sid/33/sitetype/Main" onclick="window.open('http://www.communityfirstcu.org/print.php/pid/4/sid/33/sitetype/Main','print','width=680,height=500,scrollbars=yes');return false;" class="icon">print this page</a></td></tr>									</tbody></table>
+									</td>
+								</tr>
+								<tr>
+									<td width="152" height="5" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td>
+									<table border="0" cellpadding="2" cellspacing="0" width="130">
+									<tbody><tr><td><img name="icon_tellafriend" src="img/icon_tellafriend.gif" border="0" onclick="window.open('http://www.communityfirstcu.org/emailfriend.php/site_type/Main/url/YUhSMGNEb3ZMM2QzZHk1amIyMXRkVzVwZEhsbWFYSnpkR04xTG05eVp5OXBiblJsY21sdmNpNXdhSEF2Y0dsa0x6UXZjMmxrTHpNeg==','popup','height=530,width=442,resize=yes,scrollbars=yes,toolbar=no,status=no,menubar=no','');" style="cursor: pointer;"></td><td width="128" height="15"><a href="javascript:;" onclick="window.open('http://www.communityfirstcu.org/emailfriend.php/site_type/Main/url/YUhSMGNEb3ZMM2QzZHk1amIyMXRkVzVwZEhsbWFYSnpkR04xTG05eVp5OXBiblJsY21sdmNpNXdhSEF2Y0dsa0x6UXZjMmxrTHpNeg==','popup','height=530,width=442,resize=yes,scrollbars=yes,toolbar=no,status=no,menubar=no','');" class="icon">tell a friend</a></td></tr>									</tbody></table>
+									</td>
+								</tr>
+								<tr>
+									<td width="152" height="5" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+								</tr>
+								<tr>
+									<td>
+									<table border="0" cellpadding="2" cellspacing="0" width="130">
+									<tbody><tr>
+										<td colspan="2">
+										<table cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td colspan="9" align="center"><font style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font weight=bold; color:#A29F7D; text-decoration:none;">Resize the font:</font></td>
+										</tr>
+										<tr>
+											
+											<td><a onclick="dw_fontSizerDX.setSize(9); return false" style="cursor: pointer;"><img src="img/a_one.gif" border="0"></a></td>
+											<td><img src="img/shim.gif" width="5" height="1" border="0"></td>
+											<td><a onclick="dw_fontSizerDX.setSize(11); return false" style="cursor: pointer;"><img src="img/a_two.gif" border="0"></a></td>
+											<td><img src="img/shim.gif" width="5" height="1" border="0"></td>
+											<td><a onclick="dw_fontSizerDX.setSize(13); return false" style="cursor: pointer;"><img src="img/a_three.gif" border="0"></a></td>
+											<td><img src="img/shim.gif" width="5" height="1" border="0"></td>
+											<td><a onclick="dw_fontSizerDX.setSize(15); return false" style="cursor: pointer;"><img src="img/a_four.gif" border="0"></a></td>
+										</tr>
+										</tbody></table>
+										</td>
+									</tr>
+									</tbody></table>
+									</td>
+								</tr>
+								</tbody></table>
+								</td>
+							</tr>
+							</tbody></table>
+							<!--end icon section-->
+							</td>
+						</tr>
+						<tr>
+							<td width="189" height="9" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+						</tr>
+						<!--begin side spotlight -->
+						<!--<tr>-->
+						<!-- <td width="189" valign="top"><img name="sidespotlight" src="img/sidespotlight.gif" width="189" height="183" border="0"></td>-->
+						<!--</tr>-->
+												<!--end side spotlight -->
+						<!--<tr>-->
+						<!-- <td><img name="title_ourrates" src="img/title_ourrates.gif" width="189" height="39" border="0"></td>-->
+						<!--</tr>-->
+						<!--begin sidebar sections -->
+						<tr>
+							<td>
+							</td></tr><tr><td width="152" height="20" bgcolor="#ffffff"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td><img name="title_documents" src="img/title_documents.gif" width="189" height="39" border="0"></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="152"><tbody><tr><td width="152" height="8" bgcolor="#ffffff" colspan="2"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td style="padding-left: 10px"><img src="img/pdf_icon.jpg" alt="" width="20" height="19" border="0"></td><td width="132"><a href="javascript:;" onclick="javascript:window.open('http://www.communityfirstcu.org/uploads/1256765921.pdf','popup','height=600,width=800,resizable,scrollbars,toolbar,status=no,menubar=no');return false;" class="helpful">Privacy Policy 09</a></td></tr></tbody></table></td></tr>							<!--end sidebar sections-->
+							</tbody></table>
+							<!--end of right sidebar -->
+							</td>
+						</tr>
+						</tbody></table>
+						</td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="877">
+				<tbody><tr>
+					<td><img src="img/footerinterior.gif" alt="" name="footerinterior" id="footerinterior" width="877" height="18" border="0"></td>
+				</tr>
+				</tbody></table>
+				</td>
+			</tr>
+			</tbody></table>
+		   	</td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td height="100%">
+		<table border="0" cellpadding="0" cellspacing="0" width="12" height="100%">
+		<tbody><tr>
+			<td><img name="toprightcorner" src="img/toprightcorner.gif" width="12" height="12" border="0"></td>
+		</tr>
+		<tr>
+			<td background="img/rightsideback.gif" width="12" height="100%">
+			<table border="0" cellpadding="0" cellspacing="0" width="12" height="100%">
+			<tbody><tr>
+				<td width="112" height="100%"><img src="img/rightsideback.gif" alt="" width="12" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td valign="bottom"><img name="rightbottompurple" src="img/rightbottompurple_int.gif" width="12" height="56" border="0"></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td width="900" height="78">
+	<table border="0" cellpadding="0" cellspacing="0" width="900">
+	<tbody><tr>
+		<td width="900" height="4" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+		<script src="dw_cookies.js" type="text/javascript"></script>
+<script src="dw_sizerdx.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+dw_fontSizerDX.setDefaults("px", 11, 9, 15, ['td']);
+
+dw_fontSizerDX.set(11, 9, 15, ['div#index_news','div#content','div#dist_content']);
+
+dw_fontSizerDX.init();
+</script>
+<form name="searchform" method="post" target="_blank" action="search.php">
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+<tbody><tr>
+	<td width="22" height="100%" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="619">
+	<tbody><tr>
+		<td width="619">
+		<table border="0" cellpadding="0" cellspacing="0" width="619" align="left">
+   		<tbody><tr>
+			<td><span class="whitesm">Site Search:</span>&nbsp;&nbsp;</td>
+			<td height="31"><input type="text" class="search_index" name="searchdata" maxlength="30" value="" size="10" onclick="javascript:this.value = '';"></td>
+			<td width="5" height="100%" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+			<td><input type="image" onclick="javascript:submitSearch();" src="img/gobutton.gif" width="26" height="18" border="0"></td>
+			<td width="15" height="100%" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+			<td><a href="http://www.communityfirstcu.org/index.php/pid/1" class="footernav">Home</a></td>
+			<td><span class="spaceline">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span></td>
+			<td><a href="http://www.communityfirstcu.org/right.php/pid/4/sid/11" class="footernav">Contact Us</a></td>
+			<td><span class="spaceline">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span></td>
+			<td><a href="javascript:;" onclick="window.open('http://www.communityfirstcu.org/sitemap.php/site_type/Main','popup','height=400,width=442,resizable=yes,status=no,menubar=no,toolbar=no,scrollbars=yes');" class="footernav">Site Map</a></td>
+			<td><span class="spaceline">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span></td>
+			<td><a href="http://www.communityfirstcu.org/interior.php/pid/4/sid/33" class="footernav">Privacy Policy</a></td>
+			<td width="55" height="100%" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" height="4" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="619"><span class="footer"><strong>Community First Credit Union</strong>&nbsp;&nbsp;&nbsp;P.O. Box 1487&nbsp;&nbsp;Appleton, WI&nbsp;&nbsp;&nbsp;&nbsp;54912-1487  920.830.7200&nbsp;&nbsp;&nbsp;&nbsp;1.866.273.2328</span></td>
+	</tr>
+	<tr>
+		<td width="100%" height="4" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td width="100%" height="4" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td align="left"><a href="http://www.cambiumgroup.com" target="new" class="cambium">Web Design &amp; Content Management System by Cambium Group, LLC</a></td>
+	</tr>
+	</tbody></table>
+	</td>
+	<td width="107" height="100%" bgcolor="#381663"><img src="img/shim.gif" alt="" width="1" height="1" border="0"></td>
+	<td><a href="javascript:;" onclick="window.open('http://www.communityfirstcu.org/ncua.php','popup','height=400,width=442,resizable=yes,status=no,menubar=no,toolbar=no,scrollbars=yes');" class="footernav"><img name="ncua_logo" src="img/ncua_logo.gif" width="91" height="53" border="0"></a></td>
+	<td><a href="javascript:;" onclick="window.open('http://www.communityfirstcu.org/equal.php','popup','height=400,width=442,resizable=yes,status=no,menubar=no,toolbar=no,scrollbars=yes');" class="footernav"><img name="equalhousing_logo" src="img/equalhousing_logo.gif" width="61" height="53" border="0"></a></td>
+</tr>
+</tbody></table>
+</form>
+<script src="dw_cookies.js" type="text/javascript"></script>
+<script src="dw_sizerdx.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*************************************************************************
+    This code is from Dynamic Web Coding at dyn-web.com
+    Copyright 2004-5 by Sharon Paine 
+    See Terms of Use at www.dyn-web.com/bus/terms.html
+    regarding conditions under which you may use this code.
+    This notice must be retained in the code as is!
+*************************************************************************/
+
+// setDefaults arguments: size unit, default size, minimum, maximum
+// optional array of elements or selectors to apply these defaults to
+dw_fontSizerDX.setDefaults("px", 11, 9, 15, ['td','p','a','ul','li','h2','h3','h4','font']);
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(11, 9, 15, ['div#index_news','div#content','div#dist_content']);
+
+dw_fontSizerDX.init();
+</script>
+
+<!-- Start Google Analytics Codee -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7419431-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End Google Analytics Codee -->
+
+<!--
+index_news
+content
+dist_content
+-->
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
