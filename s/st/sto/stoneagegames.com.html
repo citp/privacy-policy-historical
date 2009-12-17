@@ -1,149 +1,1390 @@
-<!--The following is the downloaded HTML source of the stoneagegames.com privacy policy that was archived on 2008-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080912132041id_/http%3A//www.stoneagegames.com/%3Fop%3Dhtml%26id%3D5) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stoneagegames.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217094341id_/http%3A//www.stoneagegames.com/html/5) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Best Online Games - StoneAgeGames.com</title>
-<script language="javascript">AC_FL_RunContent = 0;</script>
-<script src="images/AC_RunActiveContent.js" language="javascript"></script>
+<base href="http://www.stoneagegames.com/">
+<title>Hidden Object Games - Point and Click Games - Escape Games</title>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta tag="">
+<meta name="description" content="We offer free Hidden Object Games, Escape Games and Point and Click Games. New Hidden Object Games daily and new Escape Games weekly.">
+<meta name="keywords" content="hidden object, hidden object game, Hidden Object Games, point and click games, escape games, best online games, free Hidden Object Games, stoneagegames">
+<meta tag="Hidden Object Games, point and click games, escape games, best online games, stoneagegames, puzzle">
 <link rel="Shortcut Icon" href="/stone_age_ico.gif">
 <link rel="icon" href="/stone_age_ico.gif" type="image/gif">
-<link href="css/style.css?v=1.4" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Latest games RSS feed" href="/rss.php">
+<link href="/css/style1.css?v=8" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="javascript/swfobject.js"></script>
-</head>
-<body>
+<script type="text/javascript" src="javascript/swfobject-2.2.js"></script>
+<script type="text/javascript" src="javascript/jquery-1.3.1.js"></script>
+<script type="text/javascript" src="javascript/jquery.selectboxes.js"></script>
+<script type="text/javascript" src="javascript/jquery.form.js"></script>
+<link href="/css/thickbox.css?v=1.2" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="javascript/thickbox.js"></script>
+<style>
+body  {
+	background: url(/static/bg/bg.jpg?r=4b29fcaf085c4);
+}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+  document.write(str);
+}
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblclick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+// -->
+</script>
+<script type="text/javascript"> 
+var submitReviewFormBool = false;
+function submitLoginForm(form) {
+	$(form).ajaxSubmit({
+		url: '/ajax.php?aop=login',
+		success: processResponseLogin,
+		type: 'POST',
+		dataType: 'json'
+	});
+}
+function processResponseLogin(resp) {
+	if (resp.code == 0) {
+		$("#ribatext").html('Hello, <a href="/profile/">'+resp.login+'</a>, <a href="./?logout=true">Log out</a>');
+		$("#CommentCaptcha").text('');
+		userIsLoggedIn = true;
+		$("#text_nologin").toggle();
+		$("#post_nologin").toggle();
+		$("#post_login").toggle();
+		if (submitReviewFormBool == true) {
+			submitReviewForm(document.getElementById('commentForm'));
+		}
+		if (typeof(getComments) == 'function') {
+			getComments(0);
+			
+		}
+		tb_remove();
+	} else {
+		alert(resp.msg);
+	}
+}
+</script>
+<script type="text/javascript">
+function submitRegisterForm(form) {
+	$(form).ajaxSubmit({
+		url: './ajax.php?aop=reg',
+		success: processRegisterResponse,
+		type: 'POST',
+		dataType: 'json'
+	});
+}
+function processRegisterResponse(resp) {
+	if (resp.code == 0) {
+		alert('Success! Please check your e-mail (just in case also junk mail folder) to complete registration!');
+		tb_remove();
+	} else {
+		alert(resp.msg);
+	}
+}
+</script>
+
+<script type="text/javascript">
+function submitPassRemindForm(form) {
+	$(form).ajaxSubmit({
+		url: './ajax.php?aop=passremind',
+		success: processPassRemindResponse,
+		type: 'POST',
+		dataType: 'json'
+	});
+}
+function processPassRemindResponse(resp) {
+	if (resp.code == 0) {
+		alert('Success! Please check your e-mail (just in case also junk mail folder) to complete password recovery!');
+		tb_remove();
+	} else {
+		alert(resp.msg);
+	}
+}
+</script>
+
+<script type="text/javascript">
+function loadLoginTexts() {
+		var ff7 = '<a href="/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/register.php?height=410&width=435&modal=true" class="thickbox">Join now!</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/login.php?height=410&width=435&modal=true" class="thickbox">Log In</a>';
+		$("#ribatext").html(ff7);
+	tb_init('a.thickbox');
+}
+</script></head>
+
+<body onload="Javascript:loadLoginTexts();">
 	
 <div id="raam">
-  <div id="header">
-    <div id="logo"><div id="SAGLogo">
-
-<a href="./"></a>
-<script language="javascript">
-	if (AC_FL_RunContent == 0) {
-		alert("This page requires AC_RunActiveContent.js.");
-	} else {
-		AC_FL_RunContent(
-			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0',
-			'width', '245',
-			'height', '140',
-			'src', 'images/SAGlogo',
-			'quality', 'high',
-			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-			'align', 'middle',
-			'play', 'true',
-			'loop', 'true',
-			'scale', 'showall',
-			'wmode', 'window',
-			'devicefont', 'false',
-			'id', 'SAGlogo',
-			'bgcolor', '#ffffff',
-			'name', 'SAGlogo',
-			'menu', 'false',
-			'allowFullScreen', 'false',
-			'allowScriptAccess','sameDomain',
-			'movie', 'images/SAGlogo',
-			'salign', ''
-			); //end AC code
-	}
-</script><embed width="245" height="140" src="images/SAGlogo.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="window" devicefont="false" bgcolor="#ffffff" name="SAGlogo" menu="false" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" type="application/x-shockwave-flash"> 
-<noscript>
-	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="245" height="140" id="SAGlogo" align="middle">
-	<param name="allowScriptAccess" value="sameDomain" />
-	<param name="allowFullScreen" value="false" />
-	<param name="movie" value="images/SAGlogo.swf" /><param name="menu" value="false" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="images/SAGlogo.swf" menu="false" quality="high" bgcolor="#ffffff" width="245" height="140" name="SAGlogo" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-	</object>
-</noscript>
-</div></div>
-
-    <div id="ylabanner">
-      <div id="yla">
-      <!-- ValueClick Media 728x90 Leaderboard CODE v1.0c for stoneagegames.com -->
-<iframe src="http://media.fastclick.net/w/get.media?sid=46318&amp;m=1&amp;tp=5&amp;d=f&amp;v=1.0c&amp;t=s&amp;pageid=1" width="728" height="90" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">
-<a href="http://media.fastclick.net/w/click.here?sid=46318&m=1&pageid=1" target="_top"><img width=728
-height=90 src="http://media.fastclick.net/w/get.media?sid=46318&m=1&tp=5&d=s&v=1.0c&pageid=1" border=0></a>
-</iframe>
-<!-- ValueClick Media 728x90 Leaderboard CODE v1.0c for stoneagegames.com -->      </div>
-    </div>
-  <div id="listmenu">
-    <ul>
-      <li><a href="./?op=category&amp;cid=7">Sport Cave</a></li> 
-      <li><a href="./?op=category&amp;cid=9">Shooting Cave</a></li> 
-      <li><a href="./?op=category&amp;cid=3">Puzzle Cave</a></li> 
-      <li><a href="./?op=category&amp;cid=8">Driving Cave</a></li> 
-      <li><a href="./?op=category&amp;cid=2">Arcade Cave</a></li> 
-      <li><a href="./?op=category&amp;cid=1">Action Cave</a></li> 
-    </ul>
-  </div>
+<!-- päis -->
+<div id="headeryla">Hidden Object Games - Point and Click Games - Escape Games</div>
+<div id="header">
+<div id="logo">&nbsp;
 </div>
-<div id="contentarea">
-  <div id="sidebar1">
-    <div id="otsi">
-      <form name="sf" action="./" method="get"><input type="hidden" name="op" value="search"> 
-        <input class="sisestus100" name="sw">&nbsp;&nbsp;<a href="javascript:document.sf.submit();"><img src="images/otsi.png" alt=""></a> 
-      </form>
-    </div>   
-    <div class="random"><a href="./?op=game&amp;id=98"><img src="images/random.gif" alt="" width="170" height="40"></a></div>
-    <br>  
-    <div id="news1">
-      <div id="newspais">Fresh news</div>
-      <div id="newssisu">
-              <b>StoneAgeGames.com</b><br><p>SAG.com team welcomes You on a brand new online games website! SAG.com is a page where You can find only best online games from different developers!&nbsp;First game from SAG will come out&nbsp;on <strong>18th&nbsp;</strong>of September!&nbsp;We are producing online games about celebs in StoneAge. More&nbsp;- "<a href="http://www.stoneagegames.com/?op=html&amp;id=4"><em>About us</em></a>"</p>
-<p>Vote for the celeb You would like to see in Stoneage <a href="http://www.stoneagegames.com/forum/viewtopic.php?f=12&amp;t=98"><em>here</em></a>!</p>
-<p>&nbsp;</p>
-<table style="table-layout: fixed; height: 100%" cellspacing="0" cellpadding="0" width="100%">
-    <tbody>
-        <tr>
-            <td id="xEditingArea" style="height: 100%" valign="top"><iframe style="width: 100%; height: 370px" frameborder="0"></iframe></td>
-        </tr>
-    </tbody>
-</table>      </div>
-    </div>
-    <div id="news">
-      <div id="newspais">Most Played</div>
-      <div id="newssisu">
-     1. <a href="./?op=game&amp;id=104">House Of Chocolates</a><br>
-     2. <a href="./?op=game&amp;id=166">Adventure Ho</a><br>
-     3. <a href="./?op=game&amp;id=199">Golf Drive</a><br>
-     4. <a href="./?op=game&amp;id=154">Summer Games 2005</a><br>
-     5. <a href="./?op=game&amp;id=150">Cowboy School</a><br>
-     6. <a href="./?op=game&amp;id=219">Blob Twist</a><br>
-     7. <a href="./?op=game&amp;id=187">Go Mad: The Escape</a><br>
-     8. <a href="./?op=game&amp;id=175">Arsenal</a><br>
-     9. <a href="./?op=game&amp;id=208">Knight of the Dead</a><br>
-    10. <a href="./?op=game&amp;id=193">Charles 007 2</a><br>
-      </div>
-    </div> 
-    <div id="news5">
-      <div id="newspais">My Favourites</div>
-      <div id="newssisu">
-	<b>You don't have any favourite games yet!</b>
-      </div>    
-    </div>  
-    <div id="news5">
-      <div id="newspais">Last Played</div>
-      <div id="newssisu">
-     1. <a href="./?op=game&amp;id=166">Adventure Ho</a><br>
-     2. <a href="./?op=game&amp;id=150">Cowboy School</a><br>
-      </div>    
-    </div>     
-  </div>
-  <div id="sidebar2"><script type="text/javascript"><!--
-google_ad_client = "pub-8699271654010122";
-/* 120x600, created 8/23/08 */
-google_ad_slot = "2737260083";
-google_ad_width = 120;
-google_ad_height = 600;
-//-->
+<script type="text/javascript">
+var logo = new SWFObject("/static/bg/logo.swf", "logo", "245", "165", "7");
+logo.addParam("wmode", "transparent");
+logo.addParam("menu", "false");
+logo.write("logo");
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-  <div id="mainContent">
+<div id="ylabanner">
+<div id="yla"><!-- ValueClick Media 468x60 Banner v1.4 for stoneagegames.com -->
+<script language="Javascript"><!--
+var i=j=p=t=u=x=z=dc='';var id=f=0;var f=Math.floor(Math.random()*7777);
+id=46318; dc=document;u='ht'+'tp://media.fastclick.net/w'; x='/get.media?t=s';
+z=' width=468 height=60 border=0 ';t=z+'marginheight=0 marginwidth=';
+i=u+x+'&sid='+id+'&m=1&tp=1&f=b&v=1.4&c='+f+'&r='+escape(dc.referrer);
+u='<a  hr'+'ef="'+u+'/click.here?sid='+id+'&m=1&c='+f+'"  target="_top">';
+dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 frameborder=0 scrolling=no>');
+if(navigator.appName.indexOf('Mic')<=0){dc.writeln(u+'<img src="'+i+'&d=n"'+z+'></a>');}
+dc.writeln('</iframe>'); // --></script><iframe src="http://media.fastclick.net/w/get.media?t=s&amp;sid=46318&amp;m=1&amp;tp=1&amp;f=b&amp;v=1.4&amp;c=367&amp;r=&amp;d=f" width="468" height="60" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a  href="http://media.fastclick.net/w/click.here?sid=46318&m=1&c=367"  target="_top"><img src="http://media.fastclick.net/w/get.media?t=s&sid=46318&m=1&tp=1&f=b&v=1.4&c=367&r=&d=n" width=468 height=60 border=0 ></a>
+</iframe>
+<noscript>
+<a href="http://media.fastclick.net/w/click.here?sid=46318&m=1&c=1"  target="_top">
+<img src="http://media.fastclick.net/w/get.media?sid=46318&m=1&tp=1&d=s&c=1&f=b&v=1.4"
+width=468 height=60 border=1></a></noscript>
+<!-- ValueClick Media 468x60 Banner v1.4 for stoneagegames.com --></div>
+</div>
+<script type="text/javascript">
+var listLoaded = false;
+function loadGameList(obj) {
+	if (!listLoaded) {
+		listLoaded = true;
+		$("#gameList").removeOption(/./);
+		$("#gameList").addOption("", "Please wait.. Loading..");
+		$.getJSON("/ajax.php?aop=listgames",
+		function(data){
+			$("#gameList").removeOption(/./);
+			$("#gameList").addOption("", "quicksearch");
+			$.each(data, function(i,item){
+				$("#gameList").addOption(item.url, item.name);
+			});
+			$("#gameList").selectOptions("");
+		});
+	}
+}
+function gotoGame(obj) {
+	if (obj.options[obj.selectedIndex].value != '') {
+		document.location = obj.options[obj.selectedIndex].value;
+	}
+}
+</script>
+<div id="paiseriba"> 
+ <div id="otsi">
+   <form name="sf" action="./" method="get">
+     <select id="gameList" name="goto" class="sisestus100" onchange="gotoGame(this);">
+       <option value="">quicksearch</option>
+	<option value="/games/703/-brick-stacker/"> Brick Stacker</option>
+	<option value="/games/738/-brick-yard/"> Brick Yard</option>
+	<option value="/games/664/-deconstruction/"> DeConstruction</option>
+	<option value="/games/819/-mad-virus/"> Mad Virus</option>
+	<option value="/games/275/-robotic-fishy/"> Robotic Fishy</option>
+	<option value="/games/792/-sin-mark/"> Sin Mark</option>
+	<option value="/games/952/18-wheeler-2/">18 Wheeler 2</option>
+	<option value="/games/1088/2112-coop-chapter-1/">2112 Coop Chapter 1</option>
+	<option value="/games/1091/2112-coop-chapter-2/">2112 Coop Chapter 2</option>
+	<option value="/games/132/4x4-rally/">4x4 Rally</option>
+	<option value="/games/1113/5-minutes-to-kill-yourself/">5 Minutes To Kill Yourself</option>
+	<option value="/games/482/99-bricks/">99 Bricks</option>
+	<option value="/games/1463/99-bricks-legend-of-garry/">99 Bricks: Legend of Garry</option>
+	<option value="/games/1427/a-blobs-tale/">A Blobs Tale</option>
+	<option value="/games/1067/a-crow-in-hell-2/">A Crow in Hell 2</option>
+	<option value="/games/1616/a-crow-in-hell-3/">A Crow In Hell 3</option>
+	<option value="/games/1625/a-dralien-day/">A Dralien Day</option>
+	<option value="/games/1128/a-small-favor/">A Small Favor</option>
+	<option value="/games/274/alias/">A.L.I.A.S</option>
+	<option value="/games/280/alias-2/">A.L.I.A.S 2</option>
+	<option value="/games/311/alias-3/">A.L.I.A.S 3</option>
+	<option value="/games/1619/absence/">Absence</option>
+	<option value="/games/1501/abuba-the-alien/">Abuba the Alien</option>
+	<option value="/games/647/achievement-unlocked/">Achievement Unlocked</option>
+	<option value="/games/439/addicting-fishing/">Addicting Fishing</option>
+	<option value="/games/166/adventure-ho/">Adventure Ho</option>
+	<option value="/games/314/age-of-war/">Age of War</option>
+	<option value="/games/1515/agony-the-portal/">Agony: The Portal</option>
+	<option value="/games/795/airdrop/">AirDrop</option>
+	<option value="/games/1489/alice-is-dead---episode-1/">Alice is Dead - Episode 1</option>
+	<option value="/games/1692/alien-sos/">Alien SOS</option>
+	<option value="/games/1661/alkirian-the-nine-pages/">Alkirian: The Nine Pages</option>
+	<option value="/games/1194/alleyway-escape/">Alleyway Escape</option>
+	<option value="/games/1177/alrak-escape/">Alrak Escape</option>
+	<option value="/games/1764/amateur-surgeon-christmas/">Amateur Surgeon Christmas</option>
+	<option value="/games/95/amberial-nebulosa-realms/">Amberial: Nebulosa Realms</option>
+	<option value="/games/725/andrew-the-droid/">Andrew the Droid</option>
+	<option value="/games/1703/andy---ancient-temple/">Andy - Ancient Temple</option>
+	<option value="/games/1568/andy---aztec-treasure/">Andy - Aztec Treasure</option>
+	<option value="/games/1049/andy-law/">Andy Law</option>
+	<option value="/games/98/anikas-odyssey/">Anika's Odyssey</option>
+	<option value="/games/564/animal-wars/">Animal Wars</option>
+	<option value="/games/573/aqua-turret/">Aqua Turret</option>
+	<option value="/games/75/aquarotation/">Aquarotation</option>
+	<option value="/games/1456/aquatica/">Aquatica</option>
+	<option value="/games/222/archery-challenge/">Archery Challenge</option>
+	<option value="/games/1643/arise/">Arise</option>
+	<option value="/games/881/armed-with-wings/">Armed With Wings</option>
+	<option value="/games/648/armed-with-wings-2/">Armed with Wings 2</option>
+	<option value="/games/1002/armored-fighter/">Armored Fighter</option>
+	<option value="/games/553/army-of-destruction/">Army of Destruction</option>
+	<option value="/games/68/arnys-battle-2/">Arnys Battle 2</option>
+	<option value="/games/1502/arrival-in-hell/">Arrival In Hell</option>
+	<option value="/games/175/arsenal/">Arsenal</option>
+	<option value="/games/233/arsenal-the-romanov-files/">Arsenal: The Romanov Files</option>
+	<option value="/games/1240/art-gallery-escape/">Art Gallery Escape</option>
+	<option value="/games/1269/art-gallery-escape-2/">Art Gallery Escape 2</option>
+	<option value="/games/1341/art-gallery-escape-3/">Art Gallery Escape 3</option>
+	<option value="/games/1518/artillery-tower/">Artillery Tower</option>
+	<option value="/games/85/assassin/">Assassin</option>
+	<option value="/games/317/atomikkaos/">AtomikKaos</option>
+	<option value="/games/1210/attic-escape/">Attic Escape</option>
+	<option value="/games/988/avalancher/">Avalancher</option>
+	<option value="/games/1257/avalon-escape/">Avalon Escape</option>
+	<option value="/games/1598/baby-boom-2/">Baby Boom 2</option>
+	<option value="/games/1592/back-to-the-cubeture/">Back to the Cubeture</option>
+	<option value="/games/1480/bankrupt-monster/">Bankrupt Monster</option>
+	<option value="/games/1105/barbarian-bob/">Barbarian Bob</option>
+	<option value="/games/1478/barber-shop-challenge/">Barber Shop Challenge</option>
+	<option value="/games/1593/basement-escape/">Basement Escape</option>
+	<option value="/games/1613/basement-escape-2/">Basement Escape 2</option>
+	<option value="/games/1503/basketball-room/">Basketball Room</option>
+	<option value="/games/1136/bathroom-escape/">Bathroom Escape</option>
+	<option value="/games/221/battalion-nemesis/">Battalion: Nemesis</option>
+	<option value="/games/1516/battle-field/">Battle Field</option>
+	<option value="/games/707/battle-gear/">Battle Gear</option>
+	<option value="/games/1496/battle-gear-2/">Battle Gear 2</option>
+	<option value="/games/1720/battle-of-lemolad/">Battle of Lemolad</option>
+	<option value="/games/119/battle-over-berlin/">Battle Over Berlin</option>
+	<option value="/games/284/battlefield-general/">Battlefield General</option>
+	<option value="/games/28/battleships/">Battleships</option>
+	<option value="/games/1683/beach-escape/">Beach Escape</option>
+	<option value="/games/1718/beach-escape-2/">Beach Escape 2</option>
+	<option value="/games/300/beetle-run/">Beetle Run</option>
+	<option value="/games/1244/being-one/">Being One</option>
+	<option value="/games/1476/being-one---episode-2/">Being One - Episode 2</option>
+	<option value="/games/1477/being-one---episode-3/">Being One - Episode 3</option>
+	<option value="/games/1602/being-one---episode-4/">Being One - Episode 4</option>
+	<option value="/games/122/big-truck-adventures/">Big Truck Adventures</option>
+	<option value="/games/195/big-truck-adventures-2/">Big Truck Adventures 2</option>
+	<option value="/games/1076/big-truck-adventures-3/">Big Truck Adventures 3</option>
+	<option value="/games/599/bike-mania-4/">Bike Mania 4</option>
+	<option value="/games/235/black-eagle/">Black Eagle</option>
+	<option value="/games/1046/blackboard-squash/">Blackboard Squash</option>
+	<option value="/games/1530/bling-bling-room/">Bling-Bling Room</option>
+	<option value="/games/219/blob-twist/">Blob Twist</option>
+	<option value="/games/88/blobwars/">Blobwars</option>
+	<option value="/games/990/block-drop/">Block Drop</option>
+	<option value="/games/1640/bloodshade/">BloodShade</option>
+	<option value="/games/1691/bloons-tower-defense-4/">Bloons Tower Defense 4</option>
+	<option value="/games/1139/blue-knight/">Blue Knight</option>
+	<option value="/games/1022/bo-secret-of-steel/">BO: Secret of Steel</option>
+	<option value="/games/82/boat-rush-3d/">Boat Rush 3D</option>
+	<option value="/games/486/bouncy-draw/">Bouncy Draw</option>
+	<option value="/games/10/bounty-killers/">Bounty Killers</option>
+	<option value="/games/1017/bowja-3---ninja-kami/">Bowja 3 - Ninja Kami</option>
+	<option value="/games/1628/bowja-the-ninja/">Bowja The Ninja</option>
+	<option value="/games/667/bowja-the-ninja-2/">Bowja the Ninja 2</option>
+	<option value="/games/1562/box-office/">Box Office</option>
+	<option value="/games/18/boxhead-2play-rooms/">Boxhead 2Play Rooms</option>
+	<option value="/games/19/boxhead-more-rooms/">Boxhead More Rooms</option>
+	<option value="/games/17/boxhead-the-zombie-wars/">Boxhead the Zombie Wars</option>
+	<option value="/games/698/brain-follow/">Brain Follow</option>
+	<option value="/games/1256/bridge-craft/">Bridge Craft</option>
+	<option value="/games/1528/bubble-quest/">Bubble Quest</option>
+	<option value="/games/1747/bubble-sifter/">Bubble Sifter</option>
+	<option value="/games/895/bubblequod/">BubbleQuod</option>
+	<option value="/games/301/bug/">Bug</option>
+	<option value="/games/1169/bug-war/">Bug War</option>
+	<option value="/games/1178/buggy-bricks/">Buggy Bricks</option>
+	<option value="/games/268/buggy-run/">Buggy Run</option>
+	<option value="/games/762/build-a-lot/">Build A Lot</option>
+	<option value="/games/1382/building-blaster/">Building Blaster</option>
+	<option value="/games/1037/bulwark-53/">Bulwark 53</option>
+	<option value="/games/1106/bummin-a-ride/">Bummin' A Ride</option>
+	<option value="/games/1010/bunny-invasion-2/">Bunny Invasion 2</option>
+	<option value="/games/1080/bunny-invasion-easter/">Bunny Invasion: Easter</option>
+	<option value="/games/320/burger-builder/">Burger Builder</option>
+	<option value="/games/212/bush-shoot-out/">Bush Shoot-Out</option>
+	<option value="/games/693/calendar-girls-2009/">Calendar Girls 2009</option>
+	<option value="/games/1063/call-of-atlantis/">Call of Atlantis</option>
+	<option value="/games/1436/canabalt/">Canabalt</option>
+	<option value="/games/691/cannon-blaster-3/">Cannon Blaster 3</option>
+	<option value="/games/589/cannon-defense/">Cannon Defense</option>
+	<option value="/games/466/cannons-of-night/">Cannons of Night</option>
+	<option value="/games/189/captain-braidy-3/">Captain Braidy 3</option>
+	<option value="/games/130/captain-usa/">Captain USA</option>
+	<option value="/games/1657/cards-escape/">Cards Escape</option>
+	<option value="/games/1125/cargo-bridge/">Cargo Bridge</option>
+	<option value="/games/35/carnival-jackpot/">Carnival Jackpot</option>
+	<option value="/games/1404/cartoon-escape/">Cartoon Escape</option>
+	<option value="/games/1563/cartoon-escape-2/">Cartoon Escape 2</option>
+	<option value="/games/1746/castle-escape/">Castle Escape</option>
+	<option value="/games/1757/castle-escape-2/">Castle Escape 2</option>
+	<option value="/games/1495/cave-of-wonders/">Cave of Wonders</option>
+	<option value="/games/1588/cell-shot/">Cell Shot</option>
+	<option value="/games/1730/chaos-chamber/">Chaos Chamber</option>
+	<option value="/games/967/chaos-of-mana/">Chaos of Mana</option>
+	<option value="/games/708/charger-escape/">Charger Escape</option>
+	<option value="/games/193/charles-007-2/">Charles 007 2</option>
+	<option value="/games/1437/children-room-escape/">Children Room Escape</option>
+	<option value="/games/1448/children-room-escape-2/">Children Room Escape 2</option>
+	<option value="/games/1431/choo-choo/">Choo Choo</option>
+	<option value="/games/1142/choose-your-2012/">Choose Your 2012</option>
+	<option value="/games/1780/christmas-promise/">Christmas Promise</option>
+	<option value="/games/1018/chrome-wars/">Chrome Wars</option>
+	<option value="/games/1358/chromium/">Chromium</option>
+	<option value="/games/92/chronotron/">Chronotron</option>
+	<option value="/games/1638/church-escape/">Church Escape</option>
+	<option value="/games/1700/cinema-escape/">Cinema Escape</option>
+	<option value="/games/1298/city-invasion/">City Invasion</option>
+	<option value="/games/1466/civiballs-2/">Civiballs 2</option>
+	<option value="/games/1773/civiballs-christmas-levels/">Civiballs: Christmas Levels</option>
+	<option value="/games/569/civilization-machine/">Civilization Machine</option>
+	<option value="/games/1611/classroom-escape/">Classroom Escape</option>
+	<option value="/games/182/clear-vision-2/">Clear Vision 2</option>
+	<option value="/games/191/clear-vision-elite/">Clear Vision Elite</option>
+	<option value="/games/1684/clickplay-2/">ClickPlay 2</option>
+	<option value="/games/596/climbing-ninja/">Climbing Ninja</option>
+	<option value="/games/1572/clockwords-prelude/">Clockwords: Prelude</option>
+	<option value="/games/1159/closet-escape/">Closet Escape</option>
+	<option value="/games/1255/clown-face-escape/">Clown Face Escape</option>
+	<option value="/games/1290/clown-face-escape-2/">Clown Face Escape 2</option>
+	<option value="/games/1364/clown-face-escape-3/">Clown Face Escape 3</option>
+	<option value="/games/1000/code-monkey-tycoon/">Code Monkey Tycoon</option>
+	<option value="/games/1315/colors-escape/">Colors Escape</option>
+	<option value="/games/1356/colors-escape-2/">Colors Escape 2</option>
+	<option value="/games/1609/colour-my-world/">Colour My World</option>
+	<option value="/games/278/combo-card/">Combo Card</option>
+	<option value="/games/1681/communist-in-space/">Communist in Space</option>
+	<option value="/games/1636/computer-class-escape/">Computer Class Escape</option>
+	<option value="/games/408/confusebox/">ConFusebox</option>
+	<option value="/games/410/confusebox-2/">ConFusebox 2</option>
+	<option value="/games/129/conquer-antarctica/">Conquer Antarctica</option>
+	<option value="/games/1287/continents-escape/">Continents Escape</option>
+	<option value="/games/1331/continents-escape-2/">Continents Escape 2</option>
+	<option value="/games/326/cookay-blast/">Cookay Blast</option>
+	<option value="/games/1713/copy-cat/">Copy Cat</option>
+	<option value="/games/1575/cosmic-crush-2/">Cosmic Crush 2</option>
+	<option value="/games/1603/courthouse-escape-/">Courthouse Escape </option>
+	<option value="/games/1620/cover-orange/">Cover Orange</option>
+	<option value="/games/150/cowboy-school/">Cowboy School</option>
+	<option value="/games/298/crazy-chess/">Crazy Chess</option>
+	<option value="/games/12/crazy-flasher-2/">Crazy Flasher 2</option>
+	<option value="/games/15/crazy-flasher-3/">Crazy Flasher 3</option>
+	<option value="/games/16/crazy-flasher-4/">Crazy Flasher 4</option>
+	<option value="/games/199/crazy-tennis/">Crazy Tennis</option>
+	<option value="/games/761/crossblock/">Crossblock</option>
+	<option value="/games/1149/crunchball-3000/">Crunchball 3000</option>
+	<option value="/games/603/crunkadelic/">Crunkadelic</option>
+	<option value="/games/1119/crush-the-castle/">Crush the Castle</option>
+	<option value="/games/1532/crush-the-castle-players-pack/">Crush the Castle Players Pack</option>
+	<option value="/games/1366/cube-colossus/">Cube Colossus</option>
+	<option value="/games/1697/cube-core/">Cube Core</option>
+	<option value="/games/1522/cubikill/">Cubikill</option>
+	<option value="/games/1675/cubikill-2/">Cubikill 2</option>
+	<option value="/games/1579/cubix-collect/">Cubix Collect</option>
+	<option value="/games/345/curl-rush/">Curl Rush</option>
+	<option value="/games/1224/curse-village/">Curse Village</option>
+	<option value="/games/120/cursed-winds/">Cursed Winds</option>
+	<option value="/games/1264/cyberhorde/">Cyberhorde</option>
+	<option value="/games/343/cyborg/">Cyborg</option>
+	<option value="/games/1381/cyclomaniacs/">CycloManiacs</option>
+	<option value="/games/1543/cyto-life/">Cyto-Life</option>
+	<option value="/games/1175/d-day-defender/">D-Day Defender</option>
+	<option value="/games/1029/daily-life/">Daily Life</option>
+	<option value="/games/1717/dale--peakot/">Dale &amp; Peakot</option>
+	<option value="/games/260/danger-wheels/">Danger Wheels</option>
+	<option value="/games/1059/darkbase/">Darkbase</option>
+	<option value="/games/1207/darkbase-2/">Darkbase 2</option>
+	<option value="/games/1680/darkbase-3/">Darkbase 3</option>
+	<option value="/games/1633/darkness---the-cage/">Darkness - The Cage</option>
+	<option value="/games/1762/dawn-of-the-celebs/">Dawn of the Celebs</option>
+	<option value="/games/1043/days-2-die/">Days 2 Die</option>
+	<option value="/games/1386/daytraders-of-the-dead/">Daytraders Of The Dead</option>
+	<option value="/games/1021/death-vs-monstars/">Death vs. Monstars</option>
+	<option value="/games/1272/demolition-city/">Demolition City</option>
+	<option value="/games/1637/demolition-city-2/">Demolition City 2</option>
+	<option value="/games/1672/desert-escape/">Desert Escape</option>
+	<option value="/games/1709/desert-escape-2/">Desert Escape 2</option>
+	<option value="/games/242/desert-rally/">Desert Rally</option>
+	<option value="/games/793/desert-rifle/">Desert Rifle</option>
+	<option value="/games/1768/detained/">Detained</option>
+	<option value="/games/536/detonator/">Detonator</option>
+	<option value="/games/495/devil-run/">Devil Run</option>
+	<option value="/games/1639/diner-city/">Diner City</option>
+	<option value="/games/929/dino-run/">Dino Run</option>
+	<option value="/games/1663/dinx---lost-treasure-of-ergotten/">Dinx - Lost Treasure of Ergotten</option>
+	<option value="/games/109/dirt-bike-2/">Dirt Bike 2</option>
+	<option value="/games/124/dirt-bike-4/">Dirt Bike 4</option>
+	<option value="/games/112/dirtbike-championship/">Dirtbike Championship</option>
+	<option value="/games/1008/dogfight-2/">Dogfight 2</option>
+	<option value="/games/1005/dogfight-the-great-war/">Dogfight: The Great War</option>
+	<option value="/games/551/dolphin-dive/">Dolphin Dive</option>
+	<option value="/games/1032/dont-look-back/">Don't Look Back</option>
+	<option value="/games/501/doom-1/">Doom 1</option>
+	<option value="/games/1016/dragon-tower/">Dragon Tower</option>
+	<option value="/games/1038/dreamgate-escape/">Dreamgate Escape</option>
+	<option value="/games/1047/drift-runners/">Drift Runners</option>
+	<option value="/games/577/drop-dead/">Drop Dead</option>
+	<option value="/games/519/dropship-commander/">Dropship Commander</option>
+	<option value="/games/215/duckncover/">DuckNCover</option>
+	<option value="/games/136/dune-bashing-in-dubai/">Dune Bashing In Dubai</option>
+	<option value="/games/14/dune-buggy/">Dune Buggy</option>
+	<option value="/games/90/dunegeon-defender/">Dunegeon Defender</option>
+	<option value="/games/1262/dungeons-and-dungeons/">Dungeons and Dungeons</option>
+	<option value="/games/1223/dynamic-systems/">Dynamic Systems</option>
+	<option value="/games/772/earth-defense/">Earth Defense</option>
+	<option value="/games/1423/easter-island-td/">Easter Island TD</option>
+	<option value="/games/1724/elastoman/">Elastoman</option>
+	<option value="/games/308/election-incrimination/">Election Incrimination</option>
+	<option value="/games/1500/electric-escape/">Electric Escape</option>
+	<option value="/games/315/electric-man-2/">Electric Man 2</option>
+	<option value="/games/394/elite-forces-afghanistan/">Elite Forces Afghanistan</option>
+	<option value="/games/601/elite-forces-clone-wars/">Elite Forces: Clone Wars</option>
+	<option value="/games/1487/endless-anesthesia/">Endless Anesthesia</option>
+	<option value="/games/179/endless-zombie-rampage/">Endless Zombie Rampage</option>
+	<option value="/games/1117/endless-zombie-rampage-2/">Endless Zombie Rampage 2</option>
+	<option value="/games/1385/enigmata/">Enigmata</option>
+	<option value="/games/371/entrapment/">Entrapment</option>
+	<option value="/games/1399/epic-battle-fantasy-2/">Epic Battle Fantasy 2</option>
+	<option value="/games/178/epic-war/">Epic War</option>
+	<option value="/games/765/epic-war-2/">Epic War 2</option>
+	<option value="/games/1217/epic-war-3/">Epic War 3</option>
+	<option value="/games/1698/epics-of-distant-realm/">Epics of Distant Realm</option>
+	<option value="/games/481/escape/">Escape</option>
+	<option value="/games/1218/escape-from-cave/">Escape From Cave</option>
+	<option value="/games/1245/escape-from-victorian-room/">Escape from Victorian Room</option>
+	<option value="/games/1645/escape-picos-mansion/">Escape Pico's Mansion</option>
+	<option value="/games/1631/escape-the-mansion/">Escape the Mansion</option>
+	<option value="/games/1705/escape-the-red-giant/">Escape the Red Giant</option>
+	<option value="/games/403/et-smash/">ET Smash</option>
+	<option value="/games/568/eternal-red/">Eternal Red</option>
+	<option value="/games/1294/europe-escape/">Europe Escape</option>
+	<option value="/games/1408/europe-escape-2/">Europe Escape 2</option>
+	<option value="/games/198/evil-minion/">Evil Minion</option>
+	<option value="/games/1013/evolution/">Evolution</option>
+	<option value="/games/1452/exmortis/">Exmortis</option>
+	<option value="/games/1453/exmortis-2/">Exmortis 2</option>
+	<option value="/games/1317/exploding-cow-milk-crisis/">Exploding Cow Milk Crisis</option>
+	<option value="/games/213/extreme-trucks-1/">Extreme Trucks 1</option>
+	<option value="/games/1766/factory-escape/">Factory Escape</option>
+	<option value="/games/1100/fancy-pants-adventure-world-2/">Fancy Pants Adventure: World 2</option>
+	<option value="/games/69/fancy-pants-adventures/">Fancy Pants Adventures</option>
+	<option value="/games/1131/favela-heroes/">Favela Heroes</option>
+	<option value="/games/538/fighting-spirit/">Fighting Spirit</option>
+	<option value="/games/1435/find-cartoon-characters/">Find Cartoon Characters</option>
+	<option value="/games/1554/fish-for-food/">Fish For Food</option>
+	<option value="/games/1662/fishdom-h2o/">Fishdom H2O</option>
+	<option value="/games/86/fisher/">Fisher</option>
+	<option value="/games/1170/flag-room-escape/">Flag Room Escape</option>
+	<option value="/games/1190/flag-room-escape-2/">Flag Room Escape 2</option>
+	<option value="/games/257/flash-minesweeper/">Flash Minesweeper</option>
+	<option value="/games/1157/floral-escape/">Floral Escape</option>
+	<option value="/games/1053/foreign-creature/">Foreign Creature</option>
+	<option value="/games/1723/forest-escape/">Forest Escape</option>
+	<option value="/games/1744/fox-and-roll/">Fox and Roll</option>
+	<option value="/games/205/foxy-sniper/">Foxy Sniper</option>
+	<option value="/games/1033/foxy-sniper-2/">Foxy Sniper 2</option>
+	<option value="/games/1250/fragger/">Fragger</option>
+	<option value="/games/402/frantic/">Frantic</option>
+	<option value="/games/1418/frantic-2/">Frantic 2</option>
+	<option value="/games/1606/free-icecream/">Free Icecream</option>
+	<option value="/games/1220/friendly-fire-blood-and-gore/">Friendly Fire: Blood and Gore</option>
+	<option value="/games/370/frog-fly/">Frog Fly</option>
+	<option value="/games/1564/frontier/">Frontier</option>
+	<option value="/games/1030/fwg-knight-2/">FWG Knight 2</option>
+	<option value="/games/1271/gambling-room-escape/">Gambling Room Escape</option>
+	<option value="/games/313/gangsta-bean/">Gangsta Bean</option>
+	<option value="/games/1041/gangster-bros/">Gangster Bros</option>
+	<option value="/games/111/gangster-life/">Gangster Life</option>
+	<option value="/games/185/gangsters-war/">Gangsters War</option>
+	<option value="/games/1181/garage-escape/">Garage Escape</option>
+	<option value="/games/1263/garage-escape-sag/">Garage Escape SAG</option>
+	<option value="/games/1557/garden-escape/">Garden Escape</option>
+	<option value="/games/1735/gardener-escape/">Gardener Escape</option>
+	<option value="/games/1761/gardener-escape-2/">Gardener Escape 2</option>
+	<option value="/games/1659/genesis/">Ge.ne.sis</option>
+	<option value="/games/236/gem-mania/">Gem Mania</option>
+	<option value="/games/1160/gemcraft-0/">GemCraft 0</option>
+	<option value="/games/282/genghis-khan/">Genghis Khan</option>
+	<option value="/games/1296/get-off-my-lawn/">Get Off My Lawn</option>
+	<option value="/games/834/get-off-my-planet/">Get Off My Planet</option>
+	<option value="/games/1475/ghostscape/">Ghostscape</option>
+	<option value="/games/218/ghosty-ghosty/">Ghosty Ghosty</option>
+	<option value="/games/1583/gibbets/">Gibbets</option>
+	<option value="/games/787/giraffe-above/">Giraffe Above</option>
+	<option value="/games/1348/girls-room-escape-9/">Girls Room Escape 9</option>
+	<option value="/games/238/glass-works/">Glass Works</option>
+	<option value="/games/352/glowstones/">Glowstones</option>
+	<option value="/games/187/go-mad-the-escape/">Go Mad: The Escape</option>
+	<option value="/games/571/go-usagi-go/">Go Usagi Go</option>
+	<option value="/games/1340/gobtron/">Gobtron</option>
+	<option value="/games/1759/goldilocks---twisted/">Goldilocks - Twisted</option>
+	<option value="/games/1455/goliath-the-soothsayer/">Goliath The Soothsayer</option>
+	<option value="/games/1367/gravitee-2/">Gravitee 2</option>
+	<option value="/games/570/gravitex/">Gravitex</option>
+	<option value="/games/1204/gravitex-2/">Gravitex 2</option>
+	<option value="/games/1623/gretel-and-hansel/">Gretel and Hansel</option>
+	<option value="/games/1743/greyhound-racing-tycoon/">Greyhound Racing Tycoon</option>
+	<option value="/games/1549/growbox/">Growbox</option>
+	<option value="/games/1422/guardian-rock/">Guardian Rock</option>
+	<option value="/games/684/guitar-geek/">Guitar Geek</option>
+	<option value="/games/999/guns-n-angel/">Guns n Angel</option>
+	<option value="/games/1075/gunslingers-gold/">Gunslingers Gold</option>
+	<option value="/games/1491/gym-challenge/">Gym Challenge</option>
+	<option value="/games/33/gyroball/">Gyroball</option>
+	<option value="/games/377/halloween-clash/">Halloween Clash</option>
+	<option value="/games/386/halloween-couples/">Halloween Couples</option>
+	<option value="/games/372/hallows-revenge/">Hallows Revenge</option>
+	<option value="/games/1654/hallway-escape/">Hallway Escape</option>
+	<option value="/games/567/hands-of-war/">Hands of War</option>
+	<option value="/games/1632/hangar-escape/">Hangar Escape</option>
+	<option value="/games/517/hanna-in-a-choppa/">Hanna in a Choppa</option>
+	<option value="/games/1353/haunting-escape/">Haunting Escape</option>
+	<option value="/games/1368/haunting-escape-2/">Haunting Escape 2</option>
+	<option value="/games/1547/haunting-escape-3/">Haunting Escape 3</option>
+	<option value="/games/1622/haunting-escape-4/">Haunting Escape 4</option>
+	<option value="/games/1164/heavy-weapons/">Heavy Weapons</option>
+	<option value="/games/186/hedgehog-launch/">Hedgehog Launch</option>
+	<option value="/games/1253/hedgehog-launch-2/">Hedgehog Launch 2</option>
+	<option value="/games/237/heist/">Heist</option>
+	<option value="/games/1601/helio-adventures/">Helio Adventures</option>
+	<option value="/games/1188/hellstein/">Hellstein</option>
+	<option value="/games/1094/heros-arms/">Hero's Arms</option>
+	<option value="/games/1035/hex-empire/">Hex Empire</option>
+	<option value="/games/206/hexiom-connect/">Hexiom Connect</option>
+	<option value="/games/264/high-school-detective/">High School Detective</option>
+	<option value="/games/692/high-speed-chase/">High Speed Chase</option>
+	<option value="/games/171/hive-hero/">Hive Hero</option>
+	<option value="/games/1087/hobo/">Hobo</option>
+	<option value="/games/1750/hobo-prison-brawl/">Hobo Prison Brawl</option>
+	<option value="/games/1167/hot-date/">Hot Date</option>
+	<option value="/games/1719/hotel-catastrophe/">Hotel Catastrophe</option>
+	<option value="/games/1168/hotel-room-escape/">Hotel Room Escape</option>
+	<option value="/games/104/house-of-chocolates/">House Of Chocolates</option>
+	<option value="/games/1293/how-to-raise-a-dragon/">How to Raise a Dragon</option>
+	<option value="/games/1246/hrmageddon/">HRmageddon</option>
+	<option value="/games/1545/huje-tower/">Huje Tower</option>
+	<option value="/games/245/hungry-piranha/">Hungry Piranha</option>
+	<option value="/games/344/hunted-forever/">Hunted Forever</option>
+	<option value="/games/1666/hustler/">Hustler</option>
+	<option value="/games/1660/hutch-escape/">Hutch Escape</option>
+	<option value="/games/13/ice-slide/">Ice Slide</option>
+	<option value="/games/1473/icescape/">Icescape</option>
+	<option value="/games/1474/icescape-2/">Icescape 2</option>
+	<option value="/games/1748/icycle/">Icycle</option>
+	<option value="/games/1320/illuminati-escape/">Illuminati Escape</option>
+	<option value="/games/1577/in-another-chateau/">In Another Chateau</option>
+	<option value="/games/904/inca-blocks/">Inca Blocks</option>
+	<option value="/games/1634/inculcation/">Inculcation</option>
+	<option value="/games/73/indestructo-copter/">Indestructo Copter</option>
+	<option value="/games/248/indiana-jones-in-odd-world/">Indiana Jones in Odd-World</option>
+	<option value="/games/1749/infectonator/">Infectonator!</option>
+	<option value="/games/227/island-colonizer/">Island Colonizer</option>
+	<option value="/games/1665/island-escape/">Island Escape</option>
+	<option value="/games/1690/island-escape-2/">Island Escape 2</option>
+	<option value="/games/1731/island-escape-3/">Island Escape 3</option>
+	<option value="/games/365/jail-break/">Jail Break</option>
+	<option value="/games/687/jetfighter/">JetFighter</option>
+	<option value="/games/263/jewel-thief/">Jewel Thief</option>
+	<option value="/games/1468/jewelry-challenge-4/">Jewelry Challenge 4</option>
+	<option value="/games/1198/jewelry-escape/">Jewelry Escape</option>
+	<option value="/games/1266/jewelry-escape-2/">Jewelry Escape 2</option>
+	<option value="/games/1318/jewelry-escape-3/">Jewelry Escape 3</option>
+	<option value="/games/1535/jewelry-escape-5/">Jewelry Escape 5</option>
+	<option value="/games/497/joes-last-stand/">Joes Last Stand</option>
+	<option value="/games/1048/john-citizen/">John Citizen</option>
+	<option value="/games/1202/johnny-rocketfingers/">Johnny Rocketfingers</option>
+	<option value="/games/1203/johnny-rocketfingers-2/">Johnny Rocketfingers 2</option>
+	<option value="/games/360/journey-to-the-chaos-sanzang-run/">Journey To The Chaos: SanZang Run</option>
+	<option value="/games/1026/journeys-of-reemus/">Journeys of Reemus</option>
+	<option value="/games/1027/journeys-of-reemus-chapter-2/">Journeys of Reemus: Chapter 2</option>
+	<option value="/games/1241/journeys-of-reemus-chapter-3/">Journeys of Reemus: Chapter 3</option>
+	<option value="/games/1536/jumpix-2/">Jumpix 2</option>
+	<option value="/games/340/jungle-assassin/">Jungle Assassin</option>
+	<option value="/games/1493/jungle-magic/">Jungle Magic</option>
+	<option value="/games/616/jvc-stinger-sniper/">JVC Stinger Sniper</option>
+	<option value="/games/433/karoshi-suicide-salaryman/">Karoshi Suicide Salaryman</option>
+	<option value="/games/1345/keyboard-escape/">Keyboard Escape</option>
+	<option value="/games/1429/keyboard-escape-2/">Keyboard Escape 2</option>
+	<option value="/games/1595/kidnapped-by-ghosts/">Kidnapped by Ghosts</option>
+	<option value="/games/1556/kidnapped-by-the-pharaoh/">Kidnapped by the Pharaoh</option>
+	<option value="/games/1555/kill-h1n1/">Kill H1N1</option>
+	<option value="/games/1655/kill-me/">Kill Me</option>
+	<option value="/games/468/kingdom-of-the-wind/">Kingdom Of The Wind</option>
+	<option value="/games/334/kings-island/">Kings Island</option>
+	<option value="/games/208/knight-of-the-dead/">Knight of the Dead</option>
+	<option value="/games/1459/knightfall/">Knightfall</option>
+	<option value="/games/1396/knightfall-2/">Knightfall 2</option>
+	<option value="/games/70/knights-castle/">Knights Castle</option>
+	<option value="/games/1695/lake-escape/">Lake Escape</option>
+	<option value="/games/1409/laser-crawler/">Laser Crawler</option>
+	<option value="/games/113/last-shot/">Last Shot</option>
+	<option value="/games/131/last-tank-standing/">Last Tank Standing</option>
+	<option value="/games/1134/learn-to-fly/">Learn to Fly</option>
+	<option value="/games/1265/legend-wars/">Legend Wars</option>
+	<option value="/games/1040/lethal-war-zone/">Lethal War Zone</option>
+	<option value="/games/190/letum/">Letum</option>
+	<option value="/games/1669/level-editor/">Level Editor</option>
+	<option value="/games/1712/level-up/">Level Up!</option>
+	<option value="/games/1285/life-ark/">Life Ark</option>
+	<option value="/games/1286/life-ark-2/">Life Ark 2</option>
+	<option value="/games/1462/life-ark-3/">Life Ark 3</option>
+	<option value="/games/1614/life-ark-4/">Life Ark 4</option>
+	<option value="/games/256/lightbot/">LightBot</option>
+	<option value="/games/1544/lint/">Lint</option>
+	<option value="/games/1185/little-wheel/">Little Wheel</option>
+	<option value="/games/1208/locker-room-escape/">Locker Room Escape</option>
+	<option value="/games/635/lord-of-war---creeps-revenge/">Lord Of War - Creep's Revenge</option>
+	<option value="/games/1003/lord-of-war-2/">Lord Of War 2</option>
+	<option value="/games/254/lucky-clover/">Lucky Clover</option>
+	<option value="/games/1270/luis-launch/">Luis Launch</option>
+	<option value="/games/144/lunar-command/">Lunar Command</option>
+	<option value="/games/169/mad-monday/">Mad Monday</option>
+	<option value="/games/578/mad-world-differences/">Mad World Differences</option>
+	<option value="/games/1361/mafia-lair/">Mafia Lair</option>
+	<option value="/games/888/magi-wars/">Magi Wars</option>
+	<option value="/games/34/magic-balls/">Magic Balls</option>
+	<option value="/games/1163/magnetic-escape/">Magnetic Escape</option>
+	<option value="/games/1414/mana-wars/">Mana Wars</option>
+	<option value="/games/809/manta-bomber/">Manta Bomber</option>
+	<option value="/games/1440/maquette-room-escape/">Maquette Room Escape</option>
+	<option value="/games/922/mario-forever-flash/">Mario Forever Flash</option>
+	<option value="/games/72/marksmen/">Marksmen</option>
+	<option value="/games/987/mastermind-world-conquerer/">Mastermind: World Conquerer</option>
+	<option value="/games/1507/max-connect/">Max Connect</option>
+	<option value="/games/1401/max-damage/">Max Damage</option>
+	<option value="/games/328/max-dirt-bike/">Max Dirt Bike</option>
+	<option value="/games/123/maximus/">Maximus</option>
+	<option value="/games/255/mazenetix/">Mazenetix</option>
+	<option value="/games/337/mazestopper-2/">MazeStopper 2</option>
+	<option value="/games/324/mcdonalds-videogame/">McDonald's Videogame</option>
+	<option value="/games/1354/mechanism/">Mechanism</option>
+	<option value="/games/1677/mechanism-2/">Mechanism 2</option>
+	<option value="/games/1492/medieval-escape/">Medieval Escape</option>
+	<option value="/games/1132/medieval-rampage/">Medieval Rampage</option>
+	<option value="/games/1467/medieval-rampage-2/">Medieval Rampage 2</option>
+	<option value="/games/1685/medievil-siege/">Medievil Siege</option>
+	<option value="/games/1090/megaman-x-rpg/">Megaman X: RPG</option>
+	<option value="/games/1594/memoir-text-adventure/">Memoir: Text Adventure</option>
+	<option value="/games/1180/metal-slug-brutal-2/">Metal Slug Brutal 2</option>
+	<option value="/games/1641/milk-on-paper/">Milk on Paper</option>
+	<option value="/games/533/mindfields-2---the-russian-tundra/">Mindfields 2 - The Russian Tundra</option>
+	<option value="/games/229/mini-moto/">Mini Moto</option>
+	<option value="/games/1252/mirror-escape/">Mirror Escape</option>
+	<option value="/games/1323/mirror-escape-2/">Mirror Escape 2</option>
+	<option value="/games/1384/mirror-escape-3/">Mirror Escape 3</option>
+	<option value="/games/1521/mirror-escape-4/">Mirror Escape 4</option>
+	<option value="/games/30/mission-mars/">Mission Mars</option>
+	<option value="/games/788/mob-posse/">Mob Posse</option>
+	<option value="/games/105/mobs-down/">Mobs Down</option>
+	<option value="/games/23/monkey-kick-off/">Monkey Kick Off</option>
+	<option value="/games/1051/monkey-king/">Monkey King!</option>
+	<option value="/games/140/monkey-lander/">Monkey Lander</option>
+	<option value="/games/330/monsta-truk/">Monsta Truk</option>
+	<option value="/games/426/monster-dropper/">Monster Dropper</option>
+	<option value="/games/907/monster-evolution/">Monster Evolution</option>
+	<option value="/games/690/monster-invade/">Monster Invade</option>
+	<option value="/games/223/monster-truck-trials/">Monster Truck Trials</option>
+	<option value="/games/685/monster-trucks-nitro/">Monster Trucks Nitro</option>
+	<option value="/games/91/monsters-den-book-of-dread/">Monsters' Den: Book of Dread</option>
+	<option value="/games/1721/moobeam/">MooBeam</option>
+	<option value="/games/1346/more-zombies/">More Zombies</option>
+	<option value="/games/1138/morningstar/">Morningstar</option>
+	<option value="/games/1024/mort-the-sniper/">Mort the Sniper</option>
+	<option value="/games/1349/mort-the-sniper-2/">Mort the Sniper 2</option>
+	<option value="/games/1118/motel-connection/">Motel Connection</option>
+	<option value="/games/1378/mount-eruption/">Mount Eruption</option>
+	<option value="/games/1687/mummy-tombs-2/">Mummy Tombs 2</option>
+	<option value="/games/1704/museum-escape/">Museum Escape</option>
+	<option value="/games/1524/mushroom-madness/">Mushroom Madness</option>
+	<option value="/games/1402/my-territory/">My Territory</option>
+	<option value="/games/500/mytheria/">Mytheria</option>
+	<option value="/games/250/naval-gun/">Naval Gun</option>
+	<option value="/games/997/neverending-light/">Neverending Light</option>
+	<option value="/games/1457/nevermore-1/">Nevermore 1</option>
+	<option value="/games/1458/nevermore-2/">Nevermore 2</option>
+	<option value="/games/1055/nevermore-3/">Nevermore 3</option>
+	<option value="/games/1321/ninja-brawl/">Ninja Brawl</option>
+	<option value="/games/722/ninja-or-nun/">Ninja Or Nun</option>
+	<option value="/games/101/ninja-pop/">Ninja Pop</option>
+	<option value="/games/162/ninja-quest/">Ninja Quest</option>
+	<option value="/games/665/ninja-tales/">Ninja Tales</option>
+	<option value="/games/1062/ninja/">Ninja+</option>
+	<option value="/games/1411/note-escape/">Note Escape</option>
+	<option value="/games/1505/note-escape-2/">Note Escape 2</option>
+	<option value="/games/1565/note-escape-3/">Note Escape 3</option>
+	<option value="/games/1570/oasis-escape/">Oasis Escape</option>
+	<option value="/games/1586/oasis-escape-2/">Oasis Escape 2</option>
+	<option value="/games/1604/obechi/">Obechi</option>
+	<option value="/games/1774/obey-the-game/">Obey the Game</option>
+	<option value="/games/1574/office-escape-3/">Office Escape 3</option>
+	<option value="/games/1590/office-escape-4/">Office Escape 4</option>
+	<option value="/games/1526/office-room/">Office Room</option>
+	<option value="/games/1538/office-room-2/">Office Room 2</option>
+	<option value="/games/1519/oil-night/">Oil Night</option>
+	<option value="/games/388/oiligarchy/">Oiligarchy</option>
+	<option value="/games/1441/on-the-edge/">On The Edge</option>
+	<option value="/games/231/ostrich-underground/">Ostrich Underground</option>
+	<option value="/games/1166/outside-escape/">Outside Escape</option>
+	<option value="/games/1147/outzone/">OutZone</option>
+	<option value="/games/262/overlord/">Overlord</option>
+	<option value="/games/43/paintball/">Paintball</option>
+	<option value="/games/1103/palisade-guardian/">Palisade Guardian</option>
+	<option value="/games/800/panda-tactical-sniper-2/">Panda Tactical Sniper 2</option>
+	<option value="/games/1209/pandas-big-adventure/">Pandas Big Adventure</option>
+	<option value="/games/393/pandas-mahjong-solitaire/">Pandas Mahjong Solitaire</option>
+	<option value="/games/1446/pandemic-american-swine/">Pandemic American Swine</option>
+	<option value="/games/194/parking-lot/">Parking Lot</option>
+	<option value="/games/623/parking-lot-2/">Parking Lot 2</option>
+	<option value="/games/1150/parking-lot-3/">Parking Lot 3</option>
+	<option value="/games/1432/parking-lot-escape/">Parking Lot Escape</option>
+	<option value="/games/163/pathfinder/">Pathfinder</option>
+	<option value="/games/1376/paws/">Paws</option>
+	<option value="/games/51/pearl-diver/">Pearl Diver</option>
+	<option value="/games/299/penguin/">Penguin</option>
+	<option value="/games/44/penguin-push/">Penguin Push</option>
+	<option value="/games/1077/penguinz/">Penguinz</option>
+	<option value="/games/1523/pepe-pillz-2/">Pepe Pillz 2</option>
+	<option value="/games/1230/phage-wars/">Phage Wars</option>
+	<option value="/games/1421/photo-gallery-room/">Photo Gallery Room</option>
+	<option value="/games/1642/phytrix/">Phytrix</option>
+	<option value="/games/1618/picasso-escape/">Picasso Escape</option>
+	<option value="/games/1644/picnic-escape/">Picnic Escape</option>
+	<option value="/games/1652/picnic-escape-2/">Picnic Escape 2</option>
+	<option value="/games/397/picross-forever/">Picross Forever</option>
+	<option value="/games/1357/ping-ping-hamster/">Ping Ping Hamster</option>
+	<option value="/games/1232/pink-room-escape/">Pink Room Escape</option>
+	<option value="/games/271/pipol-destinations/">Pipol Destinations</option>
+	<option value="/games/157/pirate-chains/">Pirate Chains</option>
+	<option value="/games/1249/pirate-launch/">Pirate Launch</option>
+	<option value="/games/279/pirate-race/">Pirate Race</option>
+	<option value="/games/1313/pixel/">Pixel</option>
+	<option value="/games/854/pizza-pronto/">Pizza Pronto</option>
+	<option value="/games/323/pizza-shack/">Pizza Shack</option>
+	<option value="/games/137/planet-racer/">Planet Racer</option>
+	<option value="/games/555/planet-ride/">Planet Ride</option>
+	<option value="/games/1084/plazma-burst/">Plazma Burst</option>
+	<option value="/games/1161/plumet/">Plumet</option>
+	<option value="/games/1688/point--click--destroy/">Point &amp; Click &amp; Destroy</option>
+	<option value="/games/1498/poolroom-challenge/">Poolroom Challenge</option>
+	<option value="/games/418/pop-pies/">Pop Pies</option>
+	<option value="/games/276/popo--bobo/">Popo &amp; Bobo</option>
+	<option value="/games/74/portal-the-flash-version/">Portal The Flash Version</option>
+	<option value="/games/1299/potty-racers/">Potty Racers</option>
+	<option value="/games/913/prince-of-war-2/">Prince of War 2</option>
+	<option value="/games/1567/princess-room-escape/">Princess Room Escape</option>
+	<option value="/games/349/prison-escape/">Prison Escape</option>
+	<option value="/games/1582/public-wc-escape/">Public WC Escape</option>
+	<option value="/games/1648/public-wc-escape-2/">Public WC Escape 2</option>
+	<option value="/games/1630/pupzzle/">Pupzzle</option>
+	<option value="/games/1454/purgatorium/">Purgatorium</option>
+	<option value="/games/390/putt-base/">Putt Base</option>
+	<option value="/games/1610/puzzatales/">Puzzatales</option>
+	<option value="/games/1615/puzzle-escape/">Puzzle Escape</option>
+	<option value="/games/302/puzzle-freak/">Puzzle Freak</option>
+	<option value="/games/991/puzzle-freak-2/">Puzzle Freak 2</option>
+	<option value="/games/1267/rabbit-wants-cake/">Rabbit Wants Cake</option>
+	<option value="/games/829/ragdoll-cannon-remake/">Ragdoll Cannon: Remake</option>
+	<option value="/games/1191/raider-episode-1/">Raider: Episode 1</option>
+	<option value="/games/1439/raider-episode-2/">Raider: Episode 2</option>
+	<option value="/games/307/random-defence/">Random Defence</option>
+	<option value="/games/995/randys-jail-break/">Randys Jail Break</option>
+	<option value="/games/296/rapid-randy/">Rapid Randy</option>
+	<option value="/games/524/red-beard/">Red Beard</option>
+	<option value="/games/1102/red-moon/">Red Moon</option>
+	<option value="/games/1268/red-remover/">Red Remover</option>
+	<option value="/games/498/red-tassled-fighter/">Red Tassled Fighter</option>
+	<option value="/games/45/reel-gold/">Reel Gold</option>
+	<option value="/games/1112/reincarnation-roa/">Reincarnation: ROA</option>
+	<option value="/games/1485/remnant-lost-legacy/">Remnant Lost Legacy</option>
+	<option value="/games/1605/restroom-escape/">Restroom Escape</option>
+	<option value="/games/1011/retardo-and-the-iron-golem/">Retardo and the Iron Golem</option>
+	<option value="/games/1233/return-of-the-squid/">Return Of The Squid</option>
+	<option value="/games/1650/revert-to-growth/">Revert to Growth</option>
+	<option value="/games/295/rickshaw-jam/">Rickshaw Jam</option>
+	<option value="/games/1754/rise-of-pirates/">Rise of Pirates</option>
+	<option value="/games/1779/rise-of-the-tower/">Rise of the Tower</option>
+	<option value="/games/138/risky-rider/">Risky Rider</option>
+	<option value="/games/139/risky-rider-2/">Risky Rider 2</option>
+	<option value="/games/631/risky-rider-3/">Risky Rider 3</option>
+	<option value="/games/1711/river-escape/">River Escape</option>
+	<option value="/games/267/road-burner/">Road Burner</option>
+	<option value="/games/1608/robin-the-archer/">Robin the Archer</option>
+	<option value="/games/297/robojack/">RoboJack</option>
+	<option value="/games/1081/robot-dinosaurs/">Robot Dinosaurs</option>
+	<option value="/games/1070/rodent-tree-jump/">Rodent Tree Jump</option>
+	<option value="/games/1363/roll-roll-pirate/">Roll Roll Pirate</option>
+	<option value="/games/959/roly-poly-cannon/">Roly-Poly Cannon</option>
+	<option value="/games/1182/roly-poly-cannon-2/">Roly-Poly Cannon 2</option>
+	<option value="/games/342/ronin-warrior/">Ronin Warrior</option>
+	<option value="/games/605/rotate-bot-puzzle/">Rotate Bot Puzzle</option>
+	<option value="/games/99/rotazion/">Rotazion</option>
+	<option value="/games/1753/ruins-escape/">Ruins Escape</option>
+	<option value="/games/1778/ruins-escape-2/">Ruins Escape 2</option>
+	<option value="/games/46/rural-racer/">Rural Racer</option>
+	<option value="/games/389/swat/">S.W.A.T.</option>
+	<option value="/games/974/swat-2---tac-sniper/">S.W.A.T. 2 - Tac. Sniper</option>
+	<option value="/games/1292/saloon-escape/">Saloon Escape</option>
+	<option value="/games/479/samurai-master/">Samurai Master</option>
+	<option value="/games/604/santas-cannon/">Santa's Cannon</option>
+	<option value="/games/1377/sas-2-insane-asylum/">SAS 2: Insane Asylum</option>
+	<option value="/games/1533/sassy-cat-escape/">Sassy Cat Escape</option>
+	<option value="/games/1417/sauna-escape/">Sauna Escape</option>
+	<option value="/games/1332/saunavihta/">Saunavihta</option>
+	<option value="/games/1481/saunavihta-yetis/">Saunavihta Yetis</option>
+	<option value="/games/226/save-the-witness/">Save The Witness</option>
+	<option value="/games/1380/sculpture-escape/">Sculpture Escape</option>
+	<option value="/games/1472/seascape/">SeaScape</option>
+	<option value="/games/1145/seed-of-destruction/">Seed of Destruction</option>
+	<option value="/games/464/seeker-of-fortunes/">Seeker of Fortunes</option>
+	<option value="/games/1600/seven-dwarfs-escape/">Seven Dwarfs Escape</option>
+	<option value="/games/291/sewer-run/">Sewer Run</option>
+	<option value="/games/310/sewer-slide-fury/">Sewer Slide Fury</option>
+	<option value="/games/1122/shadez/">Shadez</option>
+	<option value="/games/177/shadow-factory/">Shadow Factory</option>
+	<option value="/games/1732/shadowreign/">Shadowreign</option>
+	<option value="/games/1179/shape-escape/">Shape Escape</option>
+	<option value="/games/1206/shape-escape-2/">Shape Escape 2</option>
+	<option value="/games/1260/shape-escape-3/">Shape Escape 3</option>
+	<option value="/games/1389/shape-escape-4/">Shape Escape 4</option>
+	<option value="/games/1154/shed-escape/">Shed Escape</option>
+	<option value="/games/1415/shields-of-gemland/">Shields of Gemland</option>
+	<option value="/games/76/shift/">Shift</option>
+	<option value="/games/77/shift-2/">Shift 2</option>
+	<option value="/games/78/shift-3/">Shift 3</option>
+	<option value="/games/1144/shift-4/">Shift 4</option>
+	<option value="/games/1771/ship-escape/">Ship Escape</option>
+	<option value="/games/777/shoplifter-defence/">Shoplifter Defence</option>
+	<option value="/games/1189/shopping-cart-hero/">Shopping Cart Hero</option>
+	<option value="/games/1277/shopping-city/">Shopping City</option>
+	<option value="/games/1172/shopping-street/">Shopping Street</option>
+	<option value="/games/1412/shorty-covers/">Shorty Covers</option>
+	<option value="/games/1725/shrink-it/">Shrink It</option>
+	<option value="/games/1193/sift-heads-5/">Sift Heads 5</option>
+	<option value="/games/1587/sift-renegade-2/">Sift Renegade 2</option>
+	<option value="/games/288/sim-lemonade-millionaire/">Sim Lemonade Millionaire</option>
+	<option value="/games/277/sim-rescue/">Sim Rescue</option>
+	<option value="/games/110/sim-taxi/">Sim Taxi</option>
+	<option value="/games/1192/six-keys-escape/">Six Keys Escape</option>
+	<option value="/games/1243/six-keys-escape-2/">Six Keys Escape 2</option>
+	<option value="/games/1273/six-keys-escape-3/">Six Keys Escape 3</option>
+	<option value="/games/1393/six-keys-escape-4/">Six Keys Escape 4</option>
+	<option value="/games/1733/sixty-seconds-to-live/">Sixty Seconds to Live</option>
+	<option value="/games/727/ski-runner/">Ski Runner</option>
+	<option value="/games/290/sky-fire-fighter/">Sky Fire Fighter</option>
+	<option value="/games/1023/slammings/">Slammings</option>
+	<option value="/games/325/sled-bash/">Sled Bash</option>
+	<option value="/games/259/sleepless-knight---assassin/">Sleepless Knight - Assassin</option>
+	<option value="/games/1714/smart-dungeon-escape/">Smart Dungeon Escape</option>
+	<option value="/games/348/smiley-puzzle-girl-edition/">Smiley Puzzle Girl Edition</option>
+	<option value="/games/312/smileys-war/">Smileys War</option>
+	<option value="/games/158/smokin-barrels/">Smokin Barrels</option>
+	<option value="/games/135/smugglers/">Smugglers</option>
+	<option value="/games/210/sniper-assassin-2/">Sniper Assassin 2</option>
+	<option value="/games/1187/sniper-assassin-3-/">Sniper Assassin 3 </option>
+	<option value="/games/1065/sniper-year-one/">Sniper Year One</option>
+	<option value="/games/641/snow-fortress-attack/">Snow Fortress Attack</option>
+	<option value="/games/1052/solar/">Solar</option>
+	<option value="/games/67/sonny/">Sonny</option>
+	<option value="/games/1098/sonny-2/">Sonny 2</option>
+	<option value="/games/494/soul-of-the-katana/">Soul Of The Katana</option>
+	<option value="/games/1514/spa-escape/">Spa Escape</option>
+	<option value="/games/1566/spa-escape-2/">Spa Escape 2</option>
+	<option value="/games/1146/space-pod-escape/">Space Pod Escape</option>
+	<option value="/games/1405/space-voyage---invasion/">Space Voyage - Invasion</option>
+	<option value="/games/1171/spark-game/">Spark Game</option>
+	<option value="/games/1216/sparks-and-dust/">Sparks and Dust</option>
+	<option value="/games/943/spear-and-katana/">Spear and Katana</option>
+	<option value="/games/1607/spectromancer/">Spectromancer</option>
+	<option value="/games/1115/spewer/">Spewer</option>
+	<option value="/games/1599/spin-the-black-circle-2/">Spin the Black Circle 2</option>
+	<option value="/games/1351/splitter-2/">Splitter 2</option>
+	<option value="/games/1438/squared-up/">Squared Up</option>
+	<option value="/games/234/squirtman/">Squirtman</option>
+	<option value="/games/1141/stable-escape/">Stable Escape</option>
+	<option value="/games/1295/stadium-sneakout/">Stadium Sneakout</option>
+	<option value="/games/445/starshine-2/">Starshine 2</option>
+	<option value="/games/1107/stick-bang/">Stick Bang</option>
+	<option value="/games/1028/stick-brawl/">Stick Brawl</option>
+	<option value="/games/1407/stick-war/">Stick War</option>
+	<option value="/games/485/stinky-bean-2/">Stinky Bean 2</option>
+	<option value="/games/428/stomp-tomato/">Stomp Tomato</option>
+	<option value="/games/1497/stoneage-assassin-2/">Stoneage Assassin 2</option>
+	<option value="/games/935/stoneage-assassin-revenge/">Stoneage Assassin: Revenge</option>
+	<option value="/games/1073/stoneage-blast/">Stoneage Blast</option>
+	<option value="/games/544/stoneage-conqueror/">Stoneage Conqueror</option>
+	<option value="/games/1116/stoneage-enigma/">Stoneage Enigma</option>
+	<option value="/games/425/stoneage-panic/">Stoneage Panic</option>
+	<option value="/games/1776/stoneage-poker/">Stoneage Poker</option>
+	<option value="/games/872/stoneage-sam/">Stoneage Sam</option>
+	<option value="/games/808/stoneage-sam-2-the-ice-age/">StoneAge Sam 2: The Ice Age</option>
+	<option value="/games/484/storm-the-house-3/">Storm the House 3</option>
+	<option value="/games/392/straw-hat-samurai/">Straw Hat Samurai</option>
+	<option value="/games/341/street-avenger/">Street Avenger</option>
+	<option value="/games/133/street-drifting/">Street Drifting</option>
+	<option value="/games/106/strong-bow/">Strong Bow</option>
+	<option value="/games/258/stunt-bike-draw/">Stunt Bike Draw</option>
+	<option value="/games/81/stunt-mania-2/">Stunt Mania 2</option>
+	<option value="/games/1007/stunt-pilot/">Stunt Pilot</option>
+	<option value="/games/1004/stunt-pilot-trainer/">Stunt Pilot Trainer</option>
+	<option value="/games/1612/submachine-6/">Submachine 6</option>
+	<option value="/games/103/sundown-shootout/">Sundown Shootout</option>
+	<option value="/games/1183/sunny-balcony-escape/">Sunny Balcony Escape</option>
+	<option value="/games/170/super-b/">Super B</option>
+	<option value="/games/1343/super-briefcase/">Super Briefcase</option>
+	<option value="/games/798/super-d/">Super D</option>
+	<option value="/games/1162/super-karoshi/">Super Karoshi</option>
+	<option value="/games/1184/super-mario-63/">Super Mario 63</option>
+	<option value="/games/845/super-stacker/">Super Stacker</option>
+	<option value="/games/906/super-stacker-2/">Super Stacker 2</option>
+	<option value="/games/49/superbike-gp/">Superbike GP</option>
+	<option value="/games/128/swat-attack/">Swat Attack</option>
+	<option value="/games/1494/swimming-pool-escape/">Swimming Pool Escape</option>
+	<option value="/games/1110/swine-flu--hamdemic/">Swine Flu : Hamdemic!</option>
+	<option value="/games/294/sworbs/">Sworbs</option>
+	<option value="/games/1135/swords--sandals-iv/">Swords &amp; Sandals IV</option>
+	<option value="/games/261/tabla/">Tabla</option>
+	<option value="/games/172/tactical-assassin/">Tactical Assassin</option>
+	<option value="/games/174/tactical-assassin-2/">Tactical Assassin 2</option>
+	<option value="/games/350/tactical-assassin-substratum/">Tactical Assassin Substratum</option>
+	<option value="/games/79/tainted-kingdom/">Tainted Kingdom</option>
+	<option value="/games/281/taxi-driver/">Taxi Driver</option>
+	<option value="/games/1763/taz-in-the-city/">Taz in the City</option>
+	<option value="/games/1449/tct-rpg/">TCT RPG</option>
+	<option value="/games/364/teenage-orc/">Teenage Orc</option>
+	<option value="/games/11/telekinetic-eric/">Telekinetic Eric</option>
+	<option value="/games/1165/tempus-terminus/">Tempus Terminus</option>
+	<option value="/games/1591/tetrisd-the-game/">Tetris´d: The Game</option>
+	<option value="/games/1129/the-arrow-of-time/">The Arrow Of Time</option>
+	<option value="/games/327/the-battle/">The Battle</option>
+	<option value="/games/1158/the-budget-invasion/">The Budget Invasion</option>
+	<option value="/games/1649/the-cabin/">The Cabin</option>
+	<option value="/games/1706/the-company-of-myself/">The Company of Myself</option>
+	<option value="/games/993/the-eternal-battle/">The Eternal Battle</option>
+	<option value="/games/1769/the-farm/">The Farm</option>
+	<option value="/games/1096/the-great-siege/">The Great Siege</option>
+	<option value="/games/1060/the-guardian-rpg/">The Guardian: RPG</option>
+	<option value="/games/1624/the-gun-game/">The Gun Game</option>
+	<option value="/games/292/the-heist/">The Heist</option>
+	<option value="/games/1413/the-infection/">The Infection</option>
+	<option value="/games/1558/the-insanity/">The Insanity</option>
+	<option value="/games/652/the-kings-hexes/">The King's Hexes</option>
+	<option value="/games/64/the-last-stand/">The Last Stand</option>
+	<option value="/games/66/the-last-stand-2/">The Last Stand 2</option>
+	<option value="/games/1653/the-last-village/">The Last Village</option>
+	<option value="/games/217/the-lost-warrior/">The Lost Warrior</option>
+	<option value="/games/197/the-mind-bender/">The Mind Bender</option>
+	<option value="/games/1470/the-morning-after/">The Morning After</option>
+	<option value="/games/1387/the-next-floor/">The Next Floor</option>
+	<option value="/games/1471/the-night-before/">The Night Before</option>
+	<option value="/games/841/the-primitive/">The Primitive</option>
+	<option value="/games/127/the-professionals-2/">The Professionals 2</option>
+	<option value="/games/253/the-rise-of-a-king/">The Rise of a King</option>
+	<option value="/games/1156/the-scene-of-the-crime/">The Scene Of the Crime</option>
+	<option value="/games/694/the-scruffs-online/">The Scruffs Online</option>
+	<option value="/games/7/the-sniper/">The Sniper</option>
+	<option value="/games/639/the-sniper-2/">The Sniper 2</option>
+	<option value="/games/1015/the-space-game/">The Space Game</option>
+	<option value="/games/423/the-stoneager/">The Stoneager</option>
+	<option value="/games/858/the-strangers-3/">The Strangers 3</option>
+	<option value="/games/918/the-tower/">The Tower</option>
+	<option value="/games/1668/the-visitor/">The Visitor</option>
+	<option value="/games/1629/the-x-spot/">The X-spot</option>
+	<option value="/games/1461/theatre-room-challenge/">Theatre Room Challenge</option>
+	<option value="/games/244/thing-thing-3/">Thing Thing 3</option>
+	<option value="/games/159/thing-thing-4/">Thing Thing 4</option>
+	<option value="/games/167/thing-thing-arena-2/">Thing Thing Arena 2</option>
+	<option value="/games/1020/thing-thing-arena-3/">Thing-Thing Arena 3</option>
+	<option value="/games/1359/this-is-the-only-level/">This Is The Only Level</option>
+	<option value="/games/1578/time-to-fish/">Time to Fish</option>
+	<option value="/games/1537/tmnt-double-damage/">TMNT: Double Damage</option>
+	<option value="/games/1469/tombscape/">Tombscape</option>
+	<option value="/games/901/top-truck/">Top Truck</option>
+	<option value="/games/1069/top-truck-2/">Top Truck 2</option>
+	<option value="/games/1123/tortur-o-matic/">Tortur-o-Matic</option>
+	<option value="/games/1646/tortur-o-matic-2/">Tortur-o-Matic 2</option>
+	<option value="/games/966/totem-destroyer-2/">Totem Destroyer 2</option>
+	<option value="/games/1083/tower-core/">Tower Core</option>
+	<option value="/games/1153/tower-of-creed/">Tower of Creed</option>
+	<option value="/games/822/towering-forever/">Towering Forever</option>
+	<option value="/games/1109/towers-tactics-aphelion/">Towers Tactics Aphelion</option>
+	<option value="/games/1772/toxie-radd-2/">Toxie Radd 2</option>
+	<option value="/games/1322/toxie-radd/">Toxie-Radd</option>
+	<option value="/games/1151/toybox/">Toybox</option>
+	<option value="/games/1451/training-camp-escape/">Training Camp Escape</option>
+	<option value="/games/160/treasure-seas/">Treasure Seas</option>
+	<option value="/games/869/tribe/">Tribe</option>
+	<option value="/games/200/trojan-hero/">Trojan Hero</option>
+	<option value="/games/1450/trolls-rage/">Trolls Rage</option>
+	<option value="/games/620/truzzle/">Truzzle</option>
+	<option value="/games/542/tumble-waiter/">Tumble Waiter</option>
+	<option value="/games/1702/turkey-got-guts/">Turkey Got Guts</option>
+	<option value="/games/1391/turn-based-battle/">Turn Based Battle</option>
+	<option value="/games/779/two-rooms/">Two Rooms</option>
+	<option value="/games/1397/u-boat-escape/">U-boat Escape</option>
+	<option value="/games/1176/ultimate-assassin-2/">Ultimate Assassin 2</option>
+	<option value="/games/1126/ultimate-tactics/">Ultimate Tactics</option>
+	<option value="/games/224/undercover-ops/">Undercover Ops</option>
+	<option value="/games/1275/unfairy-tales/">Unfairy Tales</option>
+	<option value="/games/1195/upgrade-complete/">Upgrade Complete!</option>
+	<option value="/games/1174/uphill-rush-2/">Uphill Rush 2</option>
+	<option value="/games/1728/urban-school-legend/">Urban School Legend</option>
+	<option value="/games/184/urban-sniper/">Urban Sniper</option>
+	<option value="/games/306/urban-sniper-2/">Urban Sniper 2</option>
+	<option value="/games/799/urban-soldier/">Urban Soldier</option>
+	<option value="/games/1201/use-boxmen/">Use Boxmen</option>
+	<option value="/games/1258/vase-breaker/">Vase Breaker</option>
+	<option value="/games/1327/vending-machine-champ/">Vending Machine Champ</option>
+	<option value="/games/1667/via-sol-2/">Via Sol 2</option>
+	<option value="/games/1626/villa-escape-1/">Villa Escape 1</option>
+	<option value="/games/1627/villa-escape-2/">Villa Escape 2</option>
+	<option value="/games/165/vindex-gladiator/">Vindex Gladiator</option>
+	<option value="/games/1071/visible/">Visible</option>
+	<option value="/games/1274/visible-2/">Visible 2</option>
+	<option value="/games/1394/viva-caligula/">Viva Caligula</option>
+	<option value="/games/1057/voidgale-arena/">Voidgale Arena</option>
+	<option value="/games/1291/vorago/">Vorago</option>
+	<option value="/games/1465/vox-populi/">Vox Populi</option>
+	<option value="/games/1670/wake-up-the-box/">Wake Up The Box</option>
+	<option value="/games/1079/wall-street-massacre/">Wall Street Massacre</option>
+	<option value="/games/321/war-machines/">War Machines</option>
+	<option value="/games/335/warfare-1917/">Warfare 1917</option>
+	<option value="/games/1325/warfare-1944/">Warfare 1944</option>
+	<option value="/games/93/warlords-call-to-arms/">Warlords: Call to Arms</option>
+	<option value="/games/265/warlords-heroes/">Warlords: Heroes</option>
+	<option value="/games/1398/warp-shot/">Warp Shot</option>
+	<option value="/games/1339/wedding-escape/">Wedding Escape</option>
+	<option value="/games/161/western-blitzkrieg/">Western Blitzkrieg</option>
+	<option value="/games/1390/western-blitzkrieg-2/">Western Blitzkrieg 2</option>
+	<option value="/games/134/wheelers/">Wheelers</option>
+	<option value="/games/1539/when-penguins-attack/">When Penguins Attack</option>
+	<option value="/games/931/whiteboard-tower-defense/">Whiteboard Tower Defense</option>
+	<option value="/games/459/wichick-whooly-revenge/">Wichick: Whooly Revenge</option>
+	<option value="/games/270/wild-wild-west/">Wild Wild West</option>
+	<option value="/games/1288/william-and-sly/">William and Sly</option>
+	<option value="/games/1517/windfall/">Windfall</option>
+	<option value="/games/1527/windows-doors/">Windows Doors</option>
+	<option value="/games/1319/wizard-defense/">Wizard Defense</option>
+	<option value="/games/188/world-wars/">World Wars</option>
+	<option value="/games/602/xenon-prime-racing/">Xenon Prime Racing</option>
+	<option value="/games/1541/yard-escape/">Yard Escape</option>
+	<option value="/games/1552/yard-escape-2/">Yard Escape 2</option>
+	<option value="/games/1597/yard-escape-3/">Yard Escape 3</option>
+	<option value="/games/1676/yo-ho-ho-cannon/">Yo-ho-ho Cannon</option>
+	<option value="/games/760/youda-farmer/">Youda Farmer</option>
+	<option value="/games/1278/zombie-assault-2/">Zombie Assault 2</option>
+	<option value="/games/366/zombie-burger/">Zombie Burger</option>
+	<option value="/games/395/zombie-canyon/">Zombie Canyon</option>
+	<option value="/games/333/zombie-invaders/">Zombie Invaders</option>
+	<option value="/games/1093/zombie-mayhem/">Zombie-Mayhem</option>
+	<option value="/games/1679/d-alabama-smith-in-the-quest-of-fate/">[D] Alabama Smith in the Quest of Fate</option>
+	<option value="/games/1741/d-amazing-adventures-the-caribbean-secret/">[D] Amazing Adventures: The Caribbean Secret</option>
+	<option value="/games/1726/d-echoes-of-the-past-royal-house-of-stone/">[D] Echoes of the Past: Royal House of Stone</option>
+	<option value="/games/1701/d-escape-the-museum-2/">[D] Escape the Museum 2</option>
+	<option value="/games/1737/d-fairy-nook/">[D] Fairy Nook</option>
+	<option value="/games/1738/d-find-your-own-way-home/">[D] Find Your Own Way Home</option>
+	<option value="/games/1775/d-harlequin-presents--hidden-object-of-desire/">[D] Harlequin Presents : Hidden Object of Desire</option>
+	<option value="/games/1742/d-hidden-expedition---devils-triangle/">[D] Hidden Expedition - Devil's Triangle</option>
+	<option value="/games/1767/d-jane-angel-templar-mystery/">[D] Jane Angel: Templar Mystery</option>
+	<option value="/games/1736/d-jewel-quest-mysteries-curse-of-the-emerald-tear/">[D] Jewel Quest Mysteries: Curse of the Emerald Tear</option>
+	<option value="/games/1739/d-jewel-quest-mysteries-trail-of-the-midnight-heart/">[D] Jewel Quest Mysteries: Trail of the Midnight Heart</option>
+	<option value="/games/1707/d-luxor-adventures/">[D] Luxor Adventures</option>
+	<option value="/games/1686/d-murder-she-wrote/">[D] Murder, She Wrote</option>
+	<option value="/games/1715/d-mystery-case-files-dire-grove-collectors-edition/">[D] Mystery Case Files: Dire Grove Collector's Edition</option>
+	<option value="/games/1699/d-nikopol-secrets-of-the-immortals/">[D] Nikopol: Secrets of the Immortals</option>
+	<option value="/games/1751/d-the-dark-hills-of-cherai/">[D] The Dark Hills of Cherai</option>
+	<option value="/games/1693/d-the-mystery-of-the-crystal-portal/">[D] The Mystery of the Crystal Portal</option>
+	<option value="/games/1758/d-the-otherside-realm-of-eons/">[D] The Otherside: Realm of Eons</option>
+	<option value="/games/1740/d-the-treasures-of-montezuma-2/">[D] The Treasures of Montezuma 2</option>
+     </select></form></div> 
+     <div id="ribatext">&nbsp;</div>
+</div>
+<div id="listmenu">
+ <ul>
+      <li><a href="/category/3/puzzle-games">Puzzle Games</a></li> 
+      <li><a href="/category/2/arcade-games">Arcade Games</a></li> 
+      <li><a href="/category/7/escape-games">Escape Games</a></li> 
+      <li><a href="/category/8/hidden-object">Hidden Object</a></li> 
+      <li><a href="/category/9/point-and-click">Point and Click</a></li> 
+      <li><a href="http://www.stoneagegames.com/download-games">Download Games</a></li> 
+  </ul>
+</div>
+</div>
+<!-- päis -->
+<!-- sisu -->
+<div id="contentarea">
+  <div id="joondusraam">
   <br> 
-  <div id="sisukraam">
+  <div id="sisukraampais">
     <div id="tulppaistxt">
       Privacy Policy    </div>
-    <div id="infosisulai">
+  </div>
+  <div id="sisukraamsisu">
+    <div id="sisusisu">
       <p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">StoneAgeGames.com PRIVACY POLICY</span></b><span style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
 <p class="MsoNormal" style=""><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">1. General</span></b><span lang="ET" style="font-size: 8pt;"><u2:p></u2:p><u1:p></u1:p><o:p></o:p></span></p>
 <p class="MsoNormal" style=""><span lang="ET" style="font-size: 8pt; font-family: Verdana;">1.1. This is the official Privacy and Policy for StoneAgeGames.com, an internet website owned and operated by Netest Entertainment LLC. StoneAgeGames.com can be used in this Privacy Policy as "Stone Age Games", "StoneAgeGames.com", "Netest Entertainment LLC", "Netest Entertainment", "site", "we", "us" or "our".</span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
@@ -159,22 +1400,53 @@ google_ad_height = 600;
 <p><u2:p></u2:p></p>
 <p class="MsoNormal" style=""><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">3. Links to third party’s and responsibilities</span></b><span lang="ET" style="font-size: 8pt;"><u2:p></u2:p><u1:p></u1:p><o:p></o:p></span></p>
 <p class="MsoNormal" style=""><span lang="ET" style="font-size: 8pt; font-family: Verdana;">3.1. To provide relevant information not found on our website, StoneAgeGames.com may provide links from our site to third party websites and we encourage our users to read third party sites privacy policies before submitting personal information. All the downloads and Exe files provided on this site are from a 3rd party and StoneAgeGames.com is not responsible for any files or adware that gets installed by their games and screensavers. They contain several adware products so download and install at your own risk. StoneAgeGames.com resumes no responsibility. </span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
-      <div id="next"><a href="./?op=html&amp;id=5&amp;p=1">Next›››</a></div>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">3.2. StoneAgeGames.com is not responsible for the privacy practices of the content of third party sites. StoneAgeGames.com hereby disclaims any representations or warranties expressed on any site other than its own site.&nbsp; </span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">4. Cookies and other aggregate data</span></b><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoBodyText" style="margin: 0in 0in 0.0001pt;"><u2:p></u2:p><span style="font-size: 8pt; font-family: Verdana;">4.1. StoneAgeGames.com may use cookies to improve the use of our website. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. </span><span style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><span lang="ET" style="font-size: 8pt; font-family: Verdana;">4.2. The Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the site and our web-based newsletters or other communications which you may choose to receive. Often these third party advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your Personal Information by third parties in connection with their advertisements, promotions and other websites you encounter on the internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your Personal Information. </span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">4.3. This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers' tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad-serving cookie, please click here </span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">5. Privacy of Your Postings</span></b><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">5.1.StoneAgeGames.com reserves the right to monitor, edit and disclose your use of the site or confidential personal information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the terms of the Terms of Service Agreement, or to protect the interests of our users, advertisers, service providers and others.</span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">6. Protection of Personal Information</span></b><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">6.1. StoneAgeGames.com maintain reasonable standards of security and confidentiality. However, for most internet sites or services, it is possible that third parties may unlawfully intercept or access communications over an unsecured line. StoneAgeGame.com are liable for any leaks caused by us, however we do not take responsibility for unlawful intercepts or accesses what can not be protected against on reasonable standards.</span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">7. Phishing:</span></b><span lang="ET" style="font-size: 8pt; font-family: Verdana;"> </span><span lang="ET" style="font-size: 8pt;"><u2:p></u2:p><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoBodyText" style="margin: 0in 0in 0.0001pt;"><span style="font-size: 8pt; font-family: Verdana;">7.1. Phishers use spoofed e-mails to lead visitor/consumers to counterfeit websites designed to trick recipients into divulging Personal Information such as account usernames and passwords. StoneAgeGames.com do not send emails asking you to provide or confirm personal information or your username or password. If somebody is asking these things form you or you receive such an email, please forward it to the site's Privacy Policy e-mail info@stoneagegames.com and delete the fraudulent e-mail.</span><span style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">8 Information and questions:</span></b><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">8.1. If you have questions or need more information about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to info@stoneagegames.com.</span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 5pt 0in;"><u2:p></u2:p><b><span lang="ET" style="font-size: 8pt; font-family: Verdana;">9. Validity of the Privacy Policy</span></b><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">9.1. This Privacy Policy document is the sole statement of the StoneAgeGames.com site and no other version of the Privacy Policy statement in any other form is valid. StoneAgeGames.com reserves the right to modify Privacy Policy at any time. </span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">9.2. This Privacy Policy was last modified on the 27th of August, 2008 and is effective immediately.</span><span lang="ET" style="font-size: 8pt;"><u1:p></u1:p><o:p></o:p></span></p>
+<p class="MsoNormal" style=""><u2:p></u2:p><span lang="ET" style="font-size: 8pt; font-family: Verdana;">Copyright - 2008 Netest Entertainment LLC. - All Rights Reserved.</span><span lang="ET" style="font-size: 8pt;"><o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="ET" style="font-size: 9pt;"><o:p></o:p></span></p>      <div id="next"></div>
     </div>
+    <div class="clear"></div>
+  </div>
+  <div id="sisukraamjalus">
   </div>
 
   </div>
   <div class="clear"></div>
-</div>
+<!-- sisu -->
+<!-- jalus -->
 <div id="jalus">
-  <div id="alamenyy">
-	<a href="./?op=html&amp;id=4">About us</a>
-	 I <a href="./?op=html&amp;id=2">Contact us</a>
-	 I <a href="./?op=html&amp;id=1">Info</a>
-	 I <a href="./?op=html&amp;id=5">Privacy Policy</a>
-	 I <a href="http://www.stoneagegames.com/forum/">Forum</a>
+<div id="alamenyy">
+	<a href="http://www.stoneagegames.com/html/4/">About us</a>
+	 I <a href="http://www.stoneagegames.com/html/2/">Contact</a>
+	 I <a href="http://www.stoneagegames.com/html/5/">Privacy Policy</a>
+	 I <a href="http://www.stoneagegames.com/html/7/">Terms</a>
+	 I <a href="http://www.stoneagegames.com/html/9/">Free Games For Your Website</a>
+	 I <a href="http://www.stoneagegames.com/html/13/">Free Escapegames For Your Website</a>
+	 I <a href="http://www.stoneagegames.com/gallery/">Gallery</a>
+	I <a href="/rss.php"><img src="/images/rssfeed.gif" alt="RSS Feed" align="absmiddle" border="0"></a> <a href="/rss.php">Games Feed</a>
+	<br>&nbsp;<br>
+      <span style="color: #000;">
+        <p style="font-size: 10px;"><a href="http://www.stoneagegames.com">Hidden Object Games</a>,  <a href="http://www.stoneagegames.com/category/9/point-and-click/">Point and Click Games</a>,  <a href="http://www.stoneagegames.com/category/7/escape-games">Escape Games</a> at  <a href="http://www.stoneagegames.com">StoneAgeGames</a></p>
+	    &nbsp;<br>
+        <p style="font-size: 10px;">Our friends:  <a href="http://www.dumb.com/games" target="_blank"> Online Flash Games</a> - <a href="http://www.gamershood.com" target="_blank"> Escape Games</a> - <a href="http://www.dressuparcade.com" target="_blank"> Dress Up Games</a> - <a href="http://www.smileygamer.com" target="_blank"> Bejeweled Games</a> - <a href="http://www.enjoydressup.com" target="_blank"> Dress Up Games</a> - <a href="http://www.girlgames.com" target="_blank"> Girl Games</a> - <a href="http://www.hallpass.com" target="_blank"> Hallpass Games</a> - <a href="http://www.stickgames.com" target="_blank"> Stick Games</a> - <a href="http://www.sheeparcade.com" target="_blank"> Free Games</a> - <a href="http://www.wordgames.com" target="_blank"> Word Games</a> - <a href="http://www.puzzlegameshq.com" target="_blank"> Puzzle Games</a> - <a href="http://www.fupa.com" target="_blank"> Free Games</a> - <a href="http://www.kchampgames.com" target="_blank"> Fun Games</a> - <a href="http://www.juegos-vestir.net" target="_blank"> Juegos de Vestir</a> - <a href="http://www.loglod.com" target="_blank"> Free Online Games</a> - <a href="http://www.pencilkids.com" target="_blank"> Pencilkids Games!</a> - <a href="http://gorillaarcade.com" target="_blank"> Free Games</a> - <a href="http://www.internetgames247.com" target="_blank"> Internet Games</a> - <a href="http://www.playaddictingwebgames.com" target="_blank"> Play Web Games</a> - <a href="http://www.thegamescenter.com" target="_blank"> Free Online Games</a> - <a href="http://www.funflashgames.com" target="_blank"> Fun Flash Games</a> - <a href="http://www.escapegames24.com" target="_blank"> Room Escape Games</a> - <a href="http://www.girlsgames1.com" target="_blank"> Girls Games</a> - <a href="http://www.dressupgames8.com" target="_blank"> Dress Up Games</a> - <a href="http://www.arcadepenny.com" target="_blank"> Addicting Games</a> - <a href="http://www.gamesfree.ca" target="_blank"> Free Games</a> - <a href="http://www.flasharcadegamessite.com" target="_blank"> Arcade Games</a> - <a href="http://www.escapejuegos.com" target="_blank"> Escape Games</a> - <a href="http://dany58.over-blog.com" target="_blank"> Le blog de Dany</a> - <a href="http://www.allforgirls.net" target="_blank"> Dress Up Games</a> - <a href="http://www.cadomax.com" target="_blank"> Jeux</a> - <a href="http://www.juegosdeescape.net" target="_blank"> Juegos de Escape</a> - <a href="http://www.meloniamaster.com" target="_blank"> Juegos Gratis</a> - <a href="http://www.elbuscajuegos.com" target="_blank"> Juegos Flash</a> - <a href="http://www.juegoslite.com" target="_blank"> Juegos de Naruto</a> - <a href="http://1001juegos.blogspot.com" target="_blank"> 1001 Juegos</a> - <a href="http://www.freeworldgroup.com" target="_blank"> Free World Group</a> - <a href="http://www.escapefever.com" target="_blank"> Point And Click</a> - <a href="http://www.girlgames247.com" target="_blank"> Girl Games</a> - <a href="http://www.dressup121.com/" target="_blank"> Dress Up Games</a></p>
+      </span>
   </div> 
-  Copyright © Netest Entertainment LLC. All rights reserved</div>	
+  Copyright © Netest Entertainment LLC. All rights reserved<br><br></div>	
+</div>
 </div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -185,6 +1457,7 @@ var pageTracker = _gat._getTracker("UA-4674861-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
 
 
 </body></html>
