@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015040id_/http%3A//www.peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217102408id_/http%3A//www.peoplepc.com/online/legals.asp%3Flocid%3D1%26pageid%3D1) for the most accurate reproduction.*
 
 # Privacy and Other Policies — Privacy Policy
 
@@ -61,7 +61,7 @@ You may supply additional information about yourself in your online activities. 
 
 **Choice/Opt-Out.** We provide you the opportunity to opt-out of having your Personal Data used for certain purposes in the "My Account" section of the PeoplePC Member site (<http://home.peoplepc.com/account>). For example, you may opt-out of receiving email marketing communications from PeoplePC, its merchant vendors or partners by updating the email preferences found in this section.
 
-If you want to reduce the amount of national advertising mail you receive at home visit the [Direct Marketing Association's web site](http://www.dmaconsumers.org/) or send your name and address to: Mail Preference Service, Attn: Dept. 11097045, Direct Marketing Association, P.O. Box 282, Carmel, NY 10512. A fee may be charged for online registration.
+If you want to reduce the amount of national advertising mail you receive at home visit the [Direct Marketing Association's web site](http://www.the-dma.org/index.php) or send your name and address to: Mail Preference Service, Attn: Dept. 11097045, Direct Marketing Association, P.O. Box 282, Carmel, NY 10512. A fee may be charged for online registration.
 
 **2\. Usage Information We May Collect.**
 
