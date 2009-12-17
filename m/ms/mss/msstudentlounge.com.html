@@ -1,0 +1,831 @@
+<!--The following is the downloaded HTML source of the msstudentlounge.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217113730id_/http%3A//www.msstudentlounge.com/channels/tabid/58/ctl/Privacy/Default.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" xmlns:msgr="http://messenger.live.com/2009/ui-tags"><head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke� - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2008                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<meta id="ServerNameId" name="ServerName" content="CRISTA"><meta id="MetaDescription" name="DESCRIPTION" content="This page Home page for site."><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN"><meta id="MetaCopyright" name="COPYRIGHT" content="© 2009 Microsoft Corporation. All rights reserved."><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke "><meta id="MetaAuthor" name="AUTHOR" content="Student Lounge"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style>
+
+     
+    <script>document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/data_Channel8_DPE"></s'+'cript>')</script><script language="JavaScript" src="http://view.atdmt.com/jaction/data_Channel8_DPE"></script>
+
+   
+    <script type="text/javascript">
+
+    if (document.images) {
+        var imgPreload;
+
+        ImageUrl = new Array();
+        
+        //basepath must be changed as per the skin installation
+        var basepath = "/Portals/0/";
+
+        ImageUrl[0] = basepath + "Skins/SE%20Skin/images/menu_hover.png";
+        ImageUrl[1] = basepath + "Skins/SE%20Skin/images/menu_hover_190.png";
+        ImageUrl[2] = basepath + "Skins/SE%20Skin/images/menu_active_190.png";
+        ImageUrl[3] = basepath + "Skins/SE%20Skin/images/menu_active.png";
+        ImageUrl[4] = basepath + "Skins/SE%20Skin/images/menu_bg.png";
+        ImageUrl[5] = basepath + "Skins/SE%20Skin/images/menu_bg_190.png";
+        ImageUrl[6] = basepath + "Templates/my_profile_icon.png";
+        ImageUrl[7] = basepath + "Templates/channels_ext8.png";
+        ImageUrl[8] = basepath + "Templates/host.png";
+        ImageUrl[9] = basepath + "Templates/admin.png";
+        ImageUrl[10] = basepath + "Templates/icon_bg.png";
+        ImageUrl[11] = basepath + "Templates/sign_in_icon.png";
+        ImageUrl[12] = basepath + "Templates/create_post_icon.png";
+        ImageUrl[13] = basepath + "Templates/forums_icon.png";
+
+        for (i = 0; i < 14; i++) {
+            imgPreload = new Image();
+            imgPreload.src = ImageUrl[i];
+            imgPreload = null;
+        }
+
+    }
+    </script>
+
+    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+
+    <script type="text/javascript" src="/js/student.corners.js"></script>
+
+    <script type="text/javascript" src="/js/facebox.js"></script>
+
+    <script type="text/javascript" src="http://www.wlmessenger.net/api/3.0/loader.js"></script>
+
+    <!--<script src="/Resources/Shared/scripts/jquery/jquery.min.js" type="text/javascript"></script>-->
+
+    <script type="text/javascript">
+       var messengerUser = null;
+       var messengerUserToken = null;
+       var logout = 0;
+        
+        function OnUserAuthenticated(e) {
+            messengerUser = e.get_user();
+                     
+            messengerUser.add_signInCompleted(SignInCompleted);
+            messengerUser.add_signOutCompleted(onSignOutCompleted);
+           
+        }
+        
+        function OnUserConsentCompleted(e) {
+            messengerUserToken = e.get_consentToken();
+             }
+        
+        function SignInCompleted(sender, e)
+        {    
+           
+			var msgBAR = document.getElementById('messengerbarruntimestyle');
+			msgBAR.innerHTML = '';
+
+			if (e.get_resultCode() == Microsoft.Live.Messenger.SignInResultCode.success) {
+               
+                if (logout == 1) {
+                    messengerUser.signOut(Microsoft.Live.Messenger.SignOutLocations.all);
+			msgBAR.innerHTML = "<style type='text/css' >  .MessengerBarControl {width:100%; } 		.MessengerBarControl_Container {float:right;} 	</style>";
+                    RefreshSignIn();
+                                        
+                } 
+                       
+            if (typeof (InvokeOnUserSignIn) == 'function')        
+            {            
+            InvokeOnUserSignIn();        
+            }    
+            }    
+            else    
+            {        
+            OnUserSignedOut();    
+            }    
+            var usercid = messengerUser.get_identity().get_cid();    
+       }
+       
+        function InvokeOnUserSignIn() 
+        {
+            if (messengerUserToken != null)
+            {
+                
+            }
+        }
+        
+        function OnUserSignedOut() {
+                             
+            logout = 1;
+          }
+
+        function onSignOutCompleted(sender, e) {
+           // alert('The local endpoint has been signed out.');
+			var msgBAR = document.getElementById('messengerbarruntimestyle');
+			msgBAR.innerHTML = "<style type='text/css' >  .MessengerBarControl {width:100%; } 		.MessengerBarControl_Container {float:right;} 	</style>";
+			window.location.reload();
+           
+        }
+
+        
+
+    function callSearchButton()
+    {
+
+        if(event.keyCode  == 13)
+        {
+             document.getElementById('dnn_ctr386_Forum_Container_DNNForum_cmdForumSearch').focus()
+        }
+    }
+        
+        
+    </script>
+
+    <link id="_Portals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css"><link id="_Portals_0_Skins_SE_Skin_" rel="stylesheet" type="text/css" href="/Portals/0/Skins/SE Skin/skin.css"><link id="_Portals__default_Containers_MinimalExtropyPro_" rel="stylesheet" type="text/css" href="/Portals/_default/Containers/MinimalExtropyPro/container.css"><link id="_Portals__default_Containers_MinimalExtropyPro_title_grey_css" rel="stylesheet" type="text/css" href="/Portals/_default/Containers/MinimalExtropyPro/title_grey.css"><link id="_Portals_0_" rel="stylesheet" type="text/css" href="/Portals/0/portal.css"><!--[if LT IE 7]><link id="IE6Minus" rel="stylesheet" type="text/css" href="/Portals/0/Skins/SE Skin/css/ie6skin.css" /><![endif]--><title>
+	Privacy Statement - Student Lounge
+</title><script type="text/javascript">
+function RefreshSignIn()
+        {
+			var tag = document.getElementById('barTag1');
+
+			if (window.navigator.userAgent.indexOf('MSIE') >= 0) {
+				window.setTimeout('Microsoft.Live.Messenger.UI.Tags.TagsFactory.refresh('+tag+');', 5000);
+			}
+			else
+			{
+				Microsoft.Live.Messenger.UI.Tags.TagsFactory.refresh(tag);
+			}
+        }
+       
+</script></head>    
+
+
+
+<body id="Body" class="AllTag">
+    
+    <input name="ServerName" type="hidden" id="ServerName">
+    
+
+    <script type="text/javascript">
+   function pageLoad()
+    {
+	jQuery(document).ready(function() {
+		/* REQUIRED FOR ALL PAGES */
+		jQuery('.box-pink:not(.btn)').rounded({ normalclass: 'box-pink' });
+		jQuery('.box-grey:not(.tvforum)').rounded({ normalclass: 'box-grey' });
+		jQuery('.box-black:not(.btn)').rounded({ normalclass: 'box-black' });
+		jQuery('.box-blue:not(.signout)').rounded({ normalclass: 'box-blue' });
+		jQuery('.box-white').rounded({ normalclass: 'box-white' });
+		jQuery('.box-lightgrey').rounded({ normalclass: 'box-lightgrey' });
+		jQuery('.box-verylightgrey').rounded({ normalclass: 'box-verylightgrey' });
+		
+		//jQuery('.box-pink:not(.sendfeedback)').rounded({ normalclass: 'box-pink' });
+       // jQuery('.sendfeedback').rounded({ normalclass: 'box-pink', hoverclass: 'box-blue' });
+              		
+		jQuery('.btn:not(.channel,.main,.channels-inside)').rounded({ normalclass: 'box-pink', hoverclass: 'box-blue' });
+		/*jQuery('.tvforum').rounded({ normalclass: 'box-grey', hoverclass: 'box-blue' });*/
+		jQuery('.tvforum').rounded({ normalclass: 'box-greyforum', hoverclass: 'box-blueforum' });
+		jQuery('.signout').rounded({ normalclass: 'box-blue', hoverclass: 'box-pink' });
+		//jQuery('.channel').rounded({ normalclass: 'box-black', hoverclass: 'box-blue' });
+		jQuery('.main').rounded({ normalclass: 'box-black', hoverclass: 'box-blue' });
+		jQuery('.channels-inside').rounded({ normalclass: 'box-black', hoverclass: 'box-blue' });
+		jQuery('.tab:not(.tabsnav)').rounded({ normalclass: 'tab' });
+		jQuery('.tabsnav').rounded({ normalclass: 'box-tab', hoverclass: 'box-tabactive' });
+		jQuery('.tabsselnav').rounded({ normalclass: 'box-tabactive'});
+
+        jQuery('input.radiobtn').focus(updateRadioSelectedStyle);
+        jQuery('input.radiobtn').blur(updateRadioSelectedStyle);
+        jQuery('input.radiobtn').change(updateRadioSelectedStyle);
+
+		jQuery('input.checkbtn').focus(updateCheckSelectedStyle);
+        jQuery('input.checkbtn').blur(updateCheckSelectedStyle);
+        jQuery('input.checkbtn').change(updateCheckSelectedStyle);
+
+             jQuery('.channel:not(.all)').rounded({ normalclass: 'box-black', hoverclass: 'box-blue' });  jQuery('.all').rounded({ normalclass: 'box-blue', hoverclass: 'box-blue' }); jQuery('.all').removeClass('box-black').addClass('box-blue');
+		/* END REQUIRED FOR ALL PAGES */
+
+
+	});
+	}
+
+	/* REQUIRED FOR RADIO/CHECKBOX FIELD BEHAVIOR */
+	function updateRadioSelectedStyle() {
+        jQuery('input:radio').removeClass('radiobtn-label-focused').next().removeClass('radiobtn-label-focused');
+        jQuery('input:radio:checked').addClass('radiobtn-label-focused').next().addClass('radiobtn-label-focused');
+    }
+
+	function updateCheckSelectedStyle() {
+        jQuery('input:checkbox').removeClass('checkbtn-label-focused').next().removeClass('checkbtn-label-focused');
+        jQuery('input:checkbox:checked').addClass('checkbtn-label-focused').next().addClass('checkbtn-label-focused');
+    }
+    </script>
+
+    <noscript>
+         <div class="noscriptwarning" valign="middle" align="center">
+            <p valign="middle">
+                This website requires that you enable javascript. Please re-enable javascript and
+                refresh this page.
+            </p>
+        </div> 
+    </noscript>
+
+	<!-- Show the bar [Code change to resolve the messenger javascript issue ]-->
+    
+    <center>
+        <form name="Form" method="post" action="/channels/tabid/58/ctl/Privacy/Default.aspx" id="Form" enctype="multipart/form-data" style="height: 100%;">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUHNzM5MDg5NQ9kFgZmDxYCHgRUZXh0BXk8IURPQ1RZUEUgaHRtbCBQVUJMSUMgIi0vL1czQy8vRFREIFhIVE1MIDEuMCBUcmFuc2l0aW9uYWwvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZCI+ZAIBD2QWDgIBDxYCHgdjb250ZW50BQZDUklTVEFkAgIPFgIeB1Zpc2libGVoZAIDDxYCHwEFHVRoaXMgcGFnZSBIb21lIHBhZ2UgZm9yIHNpdGUuZAIEDxYCHwEFDyxEb3ROZXROdWtlLEROTmQCBQ8WAh8BBTPCqSAyMDA5IE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC5kAgYPFgIfAQULRG90TmV0TnVrZSBkAgcPFgIfAQUOU3R1ZGVudCBMb3VuZ2VkAgIPFgIeBWNsYXNzBQZBbGxUYWcWAgICD2QWAgIED2QWAmYPZBYKAgEPZBYCZg8PFgQeB1Rvb2xUaXAFDlN0dWRlbnQgTG91bmdlHgtOYXZpZ2F0ZVVybAUraHR0cDovL3d3dy5tc3N0dWRlbnRsb3VuZ2UuY29tL0RlZmF1bHQuYXNweGRkAgIPZBYGZg8PFgIfBAWIAVRoaXMgYWN0aW9uIHJlcXVpcmVzIHlvdSB0byBzaWduIGluIHVzaW5nIHlvdXIgTGl2ZSBJRCBhbmQgd2lsbCByZWRpcmVjdCB5b3UgdG8gdGhlIExpdmUgSUQgc2lnbiBpbiBwYWdlLCBiZWZvcmUgcmV0dXJuaW5nIHRvIHRoaXMgc2l0ZS5kZAIDDw9kFgIeB29uY2xpY2sFKmlmKHZhbGlkYXRlKCkpe3JldHVybiB0cnVlO30gcmV0dXJuIGZhbHNlO2QCBQ8PFgIfAAU6RmVlZGJhY2sgdGV4dCBzaG91bGQgbm90IGNvbnRhaW4gbW9yZSB0aGFuIDI1NiBjaGFyYWN0ZXJzLmRkAgMPZBYEZg8WAh8CaBYGAgEPEA8WCh4IQ3NzQ2xhc3MFEFNlcnZlclNraW5XaWRnZXQfAAUDV2ViHwQFE1dpbmRvd3MgTGl2ZSBTZWFyY2geBF8hU0ICAh8CaGRkZGQCAw8QDxYKHwcFEFNlcnZlclNraW5XaWRnZXQfAAUEU2l0ZR8EBQtTaXRlIFNlYXJjaB8IAgIfAmhkZGRkAgcPDxYGHwcFEFNlcnZlclNraW5XaWRnZXQfAAVpPGltZyBzcmM9Ii9Qb3J0YWxzLzAvU2tpbnMvU0UgU2tpbi9pbWcvc2VhcmNoX2ljb25fYnRuLnBuZyIgY2xhc3M9InNlYXJjaC1kZGwiIGJvcmRlcj0iMCIgYWx0PSJTZWFyY2giIC8+HwgCAmRkAgEPFgIfAmcWBAIDDw8WBB8HBRBTZXJ2ZXJTa2luV2lkZ2V0HwgCAmRkAgUPDxYEHwcFEFNlcnZlclNraW5XaWRnZXQfCAICZGQCBQ8WAh8CaBYGAgEPZBYCZg8WAh8CaBYCAgEPDxYCHwJoZGQCAw9kFgJmD2QWAgIBDw8WAh8CaGRkAgUPDxYCHwJoZBYCZg8PFgIfAAUHU2lnbiBJbmRkAgkPZBYCAgEPZBYSAgEPDxYCHwJoZGQCAg8PFgIfAmhkZAIDD2QWAgICDxYCHwJoZAIFDw8WAh8CaGQWAmYPDxYEHgdFbmFibGVkaB8CaGRkAgcPZBYCAgEPZBYCAgEPZBYCAgEPDxYCHwAF2IYBPHA+JiMxNjA7PC9wPiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5TdHVkZW50IExvdW5nZSBQcml2YWN5IFN0YXRlbWVudDxiciAvPkxhc3QgdXBkYXRlZDogQXVndXN0IDIwMDk8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPk1pY3Jvc29mdCBpcyBjb21taXR0ZWQgdG8gcHJvdGVjdGluZyB5b3VyIHByaXZhY3kuIFRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQgYXBwbGllcyB0byB0aGUgZGF0YSBjb2xsZWN0ZWQgYnkgTWljcm9zb2Z0IHRocm91Z2ggdGhlIFN0dWRlbnQgTG91bmdlIHNpdGUgKHRoZSDigJxTaXRl4oCdKSBob3N0ZWQgZm9yIE1pY3Jvc29mdCBieSBGYXN0IFRyYWNrIFRlYW0sIEluYzsgaXQgZG9lcyBub3QgYXBwbHkgdG8gb3RoZXIgb25saW5lIG9yIG9mZmxpbmUgTWljcm9zb2Z0IHNpdGVzLCBwcm9kdWN0cywgb3Igc2VydmljZXMuPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj48Yj5Db2xsZWN0aW9uIG9mIFlvdXIgSW5mb3JtYXRpb248L2I+PGJyIC8+V2Ugd2lsbCBhc2sgeW91IHdoZW4gd2UgbmVlZCBpbmZvcm1hdGlvbiB0aGF0IHBlcnNvbmFsbHkgaWRlbnRpZmllcyB5b3Ugb3IgYWxsb3dzIHVzIHRvIGNvbnRhY3QgeW91LiBUaGUgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgY29sbGVjdCBtYXkgaW5jbHVkZSBmaXJzdCBuYW1lLCBzY2hvb2wgbmFtZSwgY291bnRyeSwgdGltZSB6b25lLCB3ZWJzaXRlLCBibG9nLCBJTSwgYmlvLCBpbnRlcmVzdHMsIHNpZ25hdHVyZSBhbmQgYXZhdGFyLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+V2UgbWF5IGNvbGxlY3QgaW5mb3JtYXRpb24gYWJvdXQgeW91ciB2aXNpdCwgaW5jbHVkaW5nIHRoZSBwYWdlcyB5b3UgdmlldywgdGhlIGxpbmtzIHlvdSBjbGljaywgYW5kIG90aGVyIGFjdGlvbnMgeW91IHRha2UgaW4gY29ubmVjdGlvbiB3aXRoIHRoZSBTaXRlLiBXZSBhbHNvIGNvbGxlY3QgY2VydGFpbiBzdGFuZGFyZCBpbmZvcm1hdGlvbiB0aGF0IHlvdXIgYnJvd3NlciBzZW5kcyB0byBldmVyeSBXZWIgc2l0ZSB5b3UgdmlzaXQsIHN1Y2ggYXMgeW91ciBJUCBhZGRyZXNzLCBicm93c2VyIHR5cGUgYW5kIGxhbmd1YWdlLCBhY2Nlc3MgdGltZXMsIGFuZCByZWZlcnJpbmcgV2ViIHNpdGUgYWRkcmVzc2VzLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+SW4gb3JkZXIgdG8gb2ZmZXIgeW91IGEgbW9yZSBjb25zaXN0ZW50IGFuZCBwZXJzb25hbGl6ZWQgZXhwZXJpZW5jZSBpbiB5b3VyIGludGVyYWN0aW9ucyB3aXRoIE1pY3Jvc29mdCwgaW5mb3JtYXRpb24gY29sbGVjdGVkIHRocm91Z2ggb25lIE1pY3Jvc29mdCBzZXJ2aWNlIG1heSBiZSBjb21iaW5lZCB3aXRoIGluZm9ybWF0aW9uIG9idGFpbmVkIHRocm91Z2ggb3RoZXIgTWljcm9zb2Z0IHNlcnZpY2VzLiBXZSBtYXkgYWxzbyBzdXBwbGVtZW50IHRoZSBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IHdpdGggaW5mb3JtYXRpb24gb2J0YWluZWQgZnJvbSBvdGhlciBjb21wYW5pZXMuIEZvciBleGFtcGxlLCB3ZSBtYXkgdXNlIHNlcnZpY2VzIGZyb20gb3RoZXIgY29tcGFuaWVzIHRoYXQgZW5hYmxlIHVzIHRvIGRlcml2ZSBhIGdlbmVyYWwgZ2VvZ3JhcGhpYyBhcmVhIGJhc2VkIG9uIHlvdXIgSVAgYWRkcmVzcyBpbiBvcmRlciB0byBjdXN0b21pemUgY2VydGFpbiBzZXJ2aWNlcyB0byB5b3VyIGdlb2dyYXBoaWMgYXJlYS48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPlRvIHNpZ24gaW4gdG8gdGhlIFNpdGUsIHlvdSB3aWxsIGJlIGFza2VkIHRvIGVudGVyIGFuIGUtbWFpbCBhZGRyZXNzIGFuZCBwYXNzd29yZCwgd2hpY2ggd2UgcmVmZXIgdG8gYXMgeW91ciBXaW5kb3dzIExpdmXihKIgSUQuIEFmdGVyIHlvdSBjcmVhdGUgeW91ciBXaW5kb3dzIExpdmUgSUQsIHlvdSBjYW4gdXNlIHRoZSBzYW1lIGNyZWRlbnRpYWxzIHRvIHNpZ24gaW4gdG8gbWFueSBkaWZmZXJlbnQgTWljcm9zb2Z0IHNpdGVzIGFuZCBzZXJ2aWNlcywgYXMgd2VsbCBhcyB0aG9zZSBvZiBzZWxlY3QgTWljcm9zb2Z0IHBhcnRuZXJzIHRoYXQgZGlzcGxheSB0aGUgV2luZG93cyBMaXZlIElEIGxvZ28uIEJ5IHNpZ25pbmcgaW4gb24gb25lIE1pY3Jvc29mdCBzaXRlIG9yIHNlcnZpY2UsIHlvdSBtYXkgYmUgYXV0b21hdGljYWxseSBzaWduZWQgaW4gd2hlbiB5b3UgdmlzaXQgb3RoZXIgTWljcm9zb2Z0IHNpdGVzIGFuZCBzZXJ2aWNlcy4gVG8gbGVhcm4gbW9yZSBhYm91dCBob3cgeW91ciBjcmVkZW50aWFsIGluZm9ybWF0aW9uIGlzIHVzZWQgd2hlbiB5b3Ugc2lnbiBpbiB0byBwYXJ0aWNpcGF0aW5nIHNpdGVzLCBwbGVhc2UgcmVhZCB0aGUgTWljcm9zb2Z0IE9ubGluZSBQcml2YWN5IFN0YXRlbWVudCBhdCA8YSB0YXJnZXQ9IuKAnF9ibGFua+KAnSIgaHJlZj0iaHR0cDovL3ByaXZhY3kubWljcm9zb2Z0LmNvbS8iPmh0dHA6Ly9wcml2YWN5Lm1pY3Jvc29mdC5jb20vPC9hPi48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPjxiPlVzZSBvZiBZb3VyIEluZm9ybWF0aW9uPC9iPjxiciAvPjxiciAvPlRoZSBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gdGhpcyBTaXRlIHdpbGwgYmUgdXNlZCB0byBvcGVyYXRlIHRoZSBTaXRlIGFuZCB0byBwcm92aWRlIHRoZSBzZXJ2aWNlKHMpIG9yIGNhcnJ5IG91dCB0aGUgdHJhbnNhY3Rpb24ocykgeW91IGhhdmUgcmVxdWVzdGVkIG9yIGF1dGhvcml6ZWQuPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5JbiBzdXBwb3J0IG9mIHRoZXNlIHVzZXMsIE1pY3Jvc29mdCBtYXkgdXNlIHlvdXIgaW5mb3JtYXRpb24gdG8gcHJvdmlkZSB5b3Ugd2l0aCBtb3JlIGVmZmVjdGl2ZSBjdXN0b21lciBzZXJ2aWNlLCBpbXByb3ZlIHRoZSBTaXRlIGFuZCBhbnkgcmVsYXRlZCBNaWNyb3NvZnQgcHJvZHVjdHMgb3Igc2VydmljZXMsIHBlcmZvcm0gc3RhdGlzdGljYWwgYW5hbHlzaXMsIGFuZCBtYWtlIHRoZSBTaXRlIGVhc2llciB0byB1c2UgYnkgZWxpbWluYXRpbmcgdGhlIG5lZWQgZm9yIHlvdSB0byByZXBlYXRlZGx5IGVudGVyIHRoZSBzYW1lIGluZm9ybWF0aW9uIG9yIGJ5IGN1c3RvbWl6aW5nIHRoZSBTaXRlIHRvIHlvdXIgcGFydGljdWxhciBwcmVmZXJlbmNlcyBvciBpbnRlcmVzdHMuPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5XZSBtYXkgdXNlIHlvdXIgaW5mb3JtYXRpb24gdG8gcHJvdmlkZSB5b3Ugd2l0aCBpbXBvcnRhbnQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIHByb2R1Y3Qgb3Igc2VydmljZSB0aGF0IHlvdSBhcmUgdXNpbmcsIGluY2x1ZGluZyBjcml0aWNhbCB1cGRhdGVzIGFuZCBub3RpZmljYXRpb25zLiBBZGRpdGlvbmFsbHksIHdpdGggeW91ciBwZXJtaXNzaW9uLCB3ZSBtYXkgc2VuZCB5b3UgaW5mb3JtYXRpb24gYWJvdXQgb3RoZXIgTWljcm9zb2Z0IHByb2R1Y3RzIGFuZCBzZXJ2aWNlcywgYW5kL29yIHNoYXJlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2l0aCBNaWNyb3NvZnQgcGFydG5lcnMgc28gdGhleSBtYXkgc2VuZCB5b3UgaW5mb3JtYXRpb24gYWJvdXQgdGhlaXIgcHJvZHVjdHMgYW5kIHNlcnZpY2VzLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+TWljcm9zb2Z0IG9jY2FzaW9uYWxseSBoaXJlcyBvdGhlciBjb21wYW5pZXMgdG8gcHJvdmlkZSBsaW1pdGVkIHNlcnZpY2VzIG9uIG91ciBiZWhhbGYsIHN1Y2ggYXMgV2ViIHNpdGUgaG9zdGluZywgcGFja2FnaW5nLCBtYWlsaW5nLCBhbmQgZGVsaXZlcmluZyBwcml6ZXMsIGFuc3dlcmluZyBjdXN0b21lciBxdWVzdGlvbnMgYWJvdXQgcHJvZHVjdHMgYW5kIHNlcnZpY2VzLCBhbmQgc2VuZGluZyBpbmZvcm1hdGlvbiBhYm91dCBvdXIgcHJvZHVjdHMsIHNwZWNpYWwgb2ZmZXJzLCBhbmQgb3RoZXIgbmV3IHNlcnZpY2VzLiBXZSB3aWxsIG9ubHkgcHJvdmlkZSB0aG9zZSBjb21wYW5pZXMgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRoZXkgbmVlZCB0byBkZWxpdmVyIHRoZSBzZXJ2aWNlLiBUaGV5IGFyZSByZXF1aXJlZCB0byBtYWludGFpbiB0aGUgY29uZmlkZW50aWFsaXR5IG9mIHRoZSBpbmZvcm1hdGlvbiBhbmQgYXJlIHByb2hpYml0ZWQgZnJvbSB1c2luZyB0aGF0IGluZm9ybWF0aW9uIGZvciBhbnkgb3RoZXIgcHVycG9zZS48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPldlIG1heSBhY2Nlc3Mgb3IgZGlzY2xvc2UgaW5mb3JtYXRpb24gYWJvdXQgeW91LCBpbmNsdWRpbmcgdGhlIGNvbnRlbnQgb2YgeW91ciBjb21tdW5pY2F0aW9ucywgaW4gb3JkZXIgdG86IChhKSBjb21wbHkgd2l0aCB0aGUgbGF3IG9yIHJlc3BvbmQgdG8gbGF3ZnVsIHJlcXVlc3RzIG9yIGxlZ2FsIHByb2Nlc3M7IChiKSBwcm90ZWN0IHRoZSByaWdodHMgb3IgcHJvcGVydHkgb2YgTWljcm9zb2Z0IG9yIG91ciBjdXN0b21lcnMsIGluY2x1ZGluZyB0aGUgZW5mb3JjZW1lbnQgb2Ygb3VyIGFncmVlbWVudHMgb3IgcG9saWNpZXMgZ292ZXJuaW5nIHlvdXIgdXNlIG9mIHRoZSBzZXJ2aWNlczsgb3IgKGMpIGFjdCBvbiBhIGdvb2QgZmFpdGggYmVsaWVmIHRoYXQgc3VjaCBhY2Nlc3Mgb3IgZGlzY2xvc3VyZSBpcyBuZWNlc3NhcnkgdG8gcHJvdGVjdCB0aGUgcGVyc29uYWwgc2FmZXR5IG9mIE1pY3Jvc29mdCBlbXBsb3llZXMsIGN1c3RvbWVycyBvciB0aGUgcHVibGljLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+SW5mb3JtYXRpb24gdGhhdCBpcyBjb2xsZWN0ZWQgb24gdGhlIFNpdGUgbWF5IGJlIHN0b3JlZCBhbmQgcHJvY2Vzc2VkIGluIHRoZSBVbml0ZWQgU3RhdGVzIG9yIGFueSBvdGhlciBjb3VudHJ5IGluIHdoaWNoIE1pY3Jvc29mdCBvciBpdHMgYWZmaWxpYXRlcywgc3Vic2lkaWFyaWVzLCBvciBzZXJ2aWNlIHByb3ZpZGVycyBtYWludGFpbiBmYWNpbGl0aWVzLiBNaWNyb3NvZnQgYWJpZGVzIGJ5IHRoZSBzYWZlIGhhcmJvciBmcmFtZXdvcmsgYXMgc2V0IGZvcnRoIGJ5IHRoZSBVLlMuIERlcGFydG1lbnQgb2YgQ29tbWVyY2UgcmVnYXJkaW5nIHRoZSBjb2xsZWN0aW9uLCB1c2UsIGFuZCByZXRlbnRpb24gb2YgZGF0YSBmcm9tIHRoZSBFdXJvcGVhbiBVbmlvbi48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPjxiPkNvbnRyb2wgb2YgWW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbjwvYj48YnIgLz48YnIgLz5FeGNlcHQgYXMgb3RoZXJ3aXNlIGRlc2NyaWJlZCBpbiB0aGlzIHN0YXRlbWVudCwgcGVyc29uYWwgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgb24gdGhlIFNpdGUgd2lsbCBub3QgYmUgc2hhcmVkIG91dHNpZGUgb2YgTWljcm9zb2Z0IGFuZCBpdHMgY29udHJvbGxlZCBzdWJzaWRpYXJpZXMgYW5kIGFmZmlsaWF0ZXMgd2l0aG91dCB5b3VyIHBlcm1pc3Npb24uPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5UaGUgU2l0ZSBhbGxvd3MgeW91IHRvIHNpZ24gdXAgZm9yIHRoZSBNaWNyb3NvZnQgU3R1ZGVudCBuZXdzbGV0dGVyIHVzaW5nIHRoZSDigJhTaWdudXAgZm9yIE5ld3NsZXR0ZXLigJkgbGluayBhbmQgeW91ciBXaW5kb3dzIExpdmVUTSBJRC4gWW91IGNhbiBtb2RpZnkgeW91ciBjb21tdW5pY2F0aW9uIHByZWZlcmVuY2VzLCBpbmNsdWRpbmcgdW5zdWJzY3JpYmluZyBmcm9tIHRoaXMgbmV3c2xldHRlciwgYXQgYW55IHRpbWUgYnkgdXNpbmcgdGhlPHNwYW4gc3R5bGU9ImNvbG9yOiBibGFjayI+IDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vZ28ubWljcm9zb2Z0LmNvbS8/bGlua2lkPTMxNzAyNyI+TWljcm9zb2Z0LmNvbSBQcm9maWxlIENlbnRlcjwvYT48L3NwYW4+PGI+PGk+LjwvaT48L2I+PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5UaGUgU2l0ZSBjb2xsZWN0cyBzb21lIHBlcnNvbmFsIGluZm9ybWF0aW9uIChpbmNsdWRpbmcgZmlyc3QgbmFtZSwgc2Nob29sIG5hbWUsIGNvdW50cnksIHRpbWUgem9uZSwgd2Vic2l0ZSwgYmxvZywgSU0sIGJpbyBhbmQgaW50ZXJlc3RzKS4gWW91IGNhbiBjaG9vc2Ugd2hldGhlciBvciBub3QgdG8gbWFrZSB0aGlzIGluZm9ybWF0aW9uIGF2YWlsYWJsZSB0byBvdGhlciB1c2VycyBieSB1c2luZyB5b3VyIGVkaXQgcHJvZmlsZSBwYWdlLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+UGxlYXNlIGJlIGF3YXJlIHRoYXQgdGhpcyBwcml2YWN5IHN0YXRlbWVudCBhbmQgYW55IGNob2ljZXMgeW91IG1ha2Ugb24gdGhlIFNpdGUgd2lsbCBub3QgbmVjZXNzYXJpbHkgYXBwbHkgdG8gcGVyc29uYWwgaW5mb3JtYXRpb24geW91IG1heSBoYXZlIHByb3ZpZGVkIHRvIE1pY3Jvc29mdCBpbiB0aGUgY29udGV4dCBvZiBvdGhlciwgc2VwYXJhdGVseSBvcGVyYXRlZCwgTWljcm9zb2Z0IHByb2R1Y3RzIG9yIHNlcnZpY2VzLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+PGI+QWNjZXNzIHRvIFlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb24gPC9iPjxiciAvPjxiciAvPkN1c3RvbWVyIGluZm9ybWF0aW9uIGlzIGNvbGxlY3RlZCBieSBGYXN0IFRyYWNrIFRlYW0sIEluYy4sIGEgTWljcm9zb2Z0IHZlbmRvci4gSXQgaXMgc3RvcmVkIGF0IEZhc3QgVHJhY2sgVGVhbSwgSW5jLiwgcGx1cyBzZW50IGJhY2sgdG8gTWljcm9zb2Z0LiBZb3UgY2FuIHJldmlldyBhbmQgZWRpdCB0aGUgcGVyc29uYWwgaW5mb3JtYXRpb24geW91IHByb3ZpZGVkIGF0IHRoaXMgU2l0ZSBieSBzaWduaW5nIGluIGFuZCBlZGl0aW5nIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gYW5kIG1ha2UgaXQgbm9ucHVibGljLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+PGI+U2VjdXJpdHkgb2YgWW91ciBJbmZvcm1hdGlvbiA8L2I+PGJyIC8+PGJyIC8+QXQgTWljcm9zb2Z0LCB3ZSB0YWtlIHRoZSBzZWN1cml0eSBvZiB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHZlcnkgc2VyaW91c2x5LiBXZSB1c2UgYSB2YXJpZXR5IG9mIHNlY3VyaXR5IHRlY2hub2xvZ2llcyBhbmQgcHJvY2VkdXJlcyB0byBoZWxwIHByb3RlY3QgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBmcm9tIHVuYXV0aG9yaXplZCBhY2Nlc3MsIHVzZSwgb3IgZGlzY2xvc3VyZS4gRm9yIGV4YW1wbGUsIHdlIHN0b3JlIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSBvbiBjb21wdXRlciBzZXJ2ZXJzIHdpdGggbGltaXRlZCBhY2Nlc3MgdGhhdCBhcmUgbG9jYXRlZCBpbiBjb250cm9sbGVkIGZhY2lsaXRpZXMuIEFkZGl0aW9uYWxseSwgaWYgd2UgdHJhbnNtaXQgc2Vuc2l0aXZlIHBlcnNvbmFsIGluZm9ybWF0aW9uIChzdWNoIGFzIGEgY3JlZGl0IGNhcmQgbnVtYmVyKSBvdmVyIHRoZSBJbnRlcm5ldCwgd2UgcHJvdGVjdCBpdCB0aHJvdWdoIHRoZSB1c2Ugb2YgZW5jcnlwdGlvbiwgc3VjaCBhcyB0aGUgU2VjdXJlIFNvY2tldCBMYXllciAoU1NMKSBwcm90b2NvbC48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPjxiPlVzZSBvZiBDb29raWVzPC9iPjxiciAvPjxiciAvPldlIG1heSB1c2UgY29va2llcyBvbiB0aGlzIFNpdGUgdG8gZW5hYmxlIHlvdSB0byBzaWduIGluIHRvIG91ciBzZXJ2aWNlcyBvciB0byBoZWxwIHBlcnNvbmFsaXplIHRoZSBTaXRlLiBBIGNvb2tpZSBpcyBhIHNtYWxsIHRleHQgZmlsZSB0aGF0IGlzIHBsYWNlZCBvbiB5b3VyIGhhcmQgZGlzayBieSBhIFdlYiBzZXJ2ZXIuIENvb2tpZXMgY29udGFpbiBpbmZvcm1hdGlvbiB0aGF0IGNhbiBsYXRlciBiZSByZWFkIGJ5IGEgV2ViIHNlcnZlciBpbiB0aGUgZG9tYWluIHRoYXQgaXNzdWVkIHRoZSBjb29raWUgdG8geW91LiBDb29raWVzIGNhbm5vdCBiZSB1c2VkIHRvIHJ1biBwcm9ncmFtcyBvciBkZWxpdmVyIHZpcnVzZXMgdG8geW91ciBjb21wdXRlci4gT25lIG9mIHRoZSBwcmltYXJ5IHB1cnBvc2VzIG9mIGNvb2tpZXMgaXMgdG8gcHJvdmlkZSBhIGNvbnZlbmllbmNlIGZlYXR1cmUgdG8gc2F2ZSB5b3UgdGltZS4gRm9yIGV4YW1wbGUsIGlmIHlvdSBwZXJzb25hbGl6ZSBhIFdlYiBwYWdlLCBvciBuYXZpZ2F0ZSB3aXRoaW4gYSBzaXRlLCBhIGNvb2tpZSBoZWxwcyB0aGUgc2l0ZSB0byByZWNhbGwgeW91ciBzcGVjaWZpYyBpbmZvcm1hdGlvbiBvbiBzdWJzZXF1ZW50IHZpc2l0cy4gVGhpcyBzaW1wbGlmaWVzIHRoZSBwcm9jZXNzIG9mIGRlbGl2ZXJpbmcgcmVsZXZhbnQgY29udGVudCwgZWFzZXMgc2l0ZSBuYXZpZ2F0aW9uLCBhbmQgc28gb24uIFdoZW4geW91IHJldHVybiB0byB0aGUgV2ViIHNpdGUsIHRoZSBpbmZvcm1hdGlvbiB5b3UgcHJldmlvdXNseSBwcm92aWRlZCBjYW4gYmUgcmV0cmlldmVkLCBzbyB5b3UgY2FuIGVhc2lseSB1c2UgdGhlIHNpdGUncyBmZWF0dXJlcyB0aGF0IHlvdSBjdXN0b21pemVkLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+WW91IGhhdmUgdGhlIGFiaWxpdHkgdG8gYWNjZXB0IG9yIGRlY2xpbmUgY29va2llcy4gTW9zdCBXZWIgYnJvd3NlcnMgYXV0b21hdGljYWxseSBhY2NlcHQgY29va2llcywgYnV0IHlvdSBjYW4gdXN1YWxseSBtb2RpZnkgeW91ciBicm93c2VyIHNldHRpbmcgdG8gZGVjbGluZSBjb29raWVzIGlmIHlvdSBwcmVmZXIuIElmIHlvdSBhcmUgdXNpbmcgSW50ZXJuZXQgRXhwbG9yZXIsIHNlYXJjaCBmb3Ig4oCcQ29va2llc+KAnSBpbiB0aGUgSGVscCBtZW51IHRvIGZpbmQgZGV0YWlsZWQgaW5zdHJ1Y3Rpb25zLiBJZiB5b3UgY2hvb3NlIHRvIGRlY2xpbmUgY29va2llcywgeW91IG1heSBub3QgYmUgYWJsZSB0byB1c2UgaW50ZXJhY3RpdmUgZmVhdHVyZXMgb2YgdGhpcyBvciBvdGhlciBXZWIgc2l0ZXMgdGhhdCBkZXBlbmQgb24gY29va2llcy48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPjxiPlVzZSBvZiBXZWIgQmVhY29ucyA8L2I+PGJyIC8+PGJyIC8+UGFnZXMgb24gdGhpcyBTaXRlIG1heSBjb250YWluIGVsZWN0cm9uaWMgaW1hZ2VzIGtub3duIGFzIFdlYiBiZWFjb25zIC0gc29tZXRpbWVzIGNhbGxlZCBzaW5nbGUtcGl4ZWwgZ2lmcyAtIHRoYXQgbWF5IGJlIHVzZWQgdG8gYXNzaXN0IGluIGRlbGl2ZXJpbmcgY29va2llcywgdG8gYWxsb3cgdXMgdG8gY291bnQgdXNlcnMgd2hvIGhhdmUgdmlzaXRlZCB0aG9zZSBwYWdlcywgYW5kIHRvIGRlbGl2ZXIgY28tYnJhbmRlZCBzZXJ2aWNlcy4gV2UgbWF5IGFsc28gaW5jbHVkZSBXZWIgYmVhY29ucyBpbiBwcm9tb3Rpb25hbCBlLW1haWwgbWVzc2FnZXMgb3Igb3VyIG5ld3NsZXR0ZXJzIGluIG9yZGVyIHRvIGRldGVybWluZSB3aGV0aGVyIG1lc3NhZ2VzIGhhdmUgYmVlbiBvcGVuZWQgYW5kIGFjdGVkIHVwb24uPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5NaWNyb3NvZnQgbWF5IGFsc28gZW1wbG95IFdlYiBiZWFjb25zIGZyb20gdGhpcmQgcGFydGllcyBpbiBvcmRlciB0byBoZWxwIHVzIGNvbXBpbGUgYWdncmVnYXRlZCBzdGF0aXN0aWNzIGFuZCBkZXRlcm1pbmUgdGhlIGVmZmVjdGl2ZW5lc3Mgb2Ygb3VyIHByb21vdGlvbmFsIGNhbXBhaWducyBvciBvdGhlciBvcGVyYXRpb25zIG9mIG91ciBzaXRlcy4gV2UgcHJvaGliaXQgV2ViIGJlYWNvbnMgb24gb3VyIHNpdGVzIGZyb20gYmVpbmcgdXNlZCBieSB0aGlyZCBwYXJ0aWVzIHRvIGNvbGxlY3Qgb3IgYWNjZXNzIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24uIFdlIG1heSB3b3JrIHdpdGggb3RoZXIgY29tcGFuaWVzIHRoYXQgYWR2ZXJ0aXNlIG9uIG91ciBzaXRlcyB0byBwbGFjZSBXZWIgYmVhY29ucyBvbiB0aGVpciBzaXRlcyBpbiBvcmRlciB0byBhbGxvdyB1cyB0byBkZXZlbG9wIHN0YXRpc3RpY3Mgb24gaG93IG9mdGVuIGNsaWNraW5nIG9uIGFuIGFkdmVydGlzZW1lbnQgb24gYSBNaWNyb3NvZnQgc2l0ZSByZXN1bHRzIGluIGEgcHVyY2hhc2Ugb3Igb3RoZXIgYWN0aW9uIG9uIHRoZSBhZHZlcnRpc2VyJ3Mgc2l0ZS48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPjxiPkRpc3BsYXkgb2YgQWR2ZXJ0aXNpbmcgPC9iPjxiciAvPjxiciAvPk1hbnkgb2YgdGhlIFdlYiBzaXRlcyBhbmQgb25saW5lIHNlcnZpY2VzIHdlIG9mZmVyLCBhcyB3ZWxsIGFzIHRob3NlIG9mIG91ciBwYXJ0bmVycywgYXJlIHN1cHBvcnRlZCBieSBhZHZlcnRpc2luZy4gVGhyb3VnaCBvdXIgYWQgZGVsaXZlcnkgcGxhdGZvcm0sIHdlIG1heSBkaXNwbGF5IGFkcyBvbiBvdXIgb3duIHNpdGVzIGFuZCB0aGUgc2l0ZXMgb2Ygb3VyIGFkdmVydGlzaW5nIHBhcnRuZXJzLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+V2hlbiB3ZSBkaXNwbGF5IG9ubGluZSBhZHZlcnRpc2VtZW50cyB0byB5b3UsIHdlIHdpbGwgcGxhY2UgYSBwZXJzaXN0ZW50IGNvb2tpZSBvbiB5b3VyIGNvbXB1dGVyIGluIG9yZGVyIHRvIHJlY29nbml6ZSB5b3VyIGNvbXB1dGVyIGVhY2ggdGltZSB3ZSBkaXNwbGF5IGFuIGFkIHRvIHlvdS4gQmVjYXVzZSB3ZSBtYXkgc2VydmUgYWR2ZXJ0aXNlbWVudHMgb24gbWFueSBkaWZmZXJlbnQgV2ViIHNpdGVzLCB3ZSBhcmUgYWJsZSB0byBjb21waWxlIGluZm9ybWF0aW9uIG92ZXIgdGltZSBhYm91dCB3aGVyZSB5b3UsIG9yIG90aGVycyB3aG8gYXJlIHVzaW5nIHlvdXIgY29tcHV0ZXIsIHNhdyBhbmQvb3IgY2xpY2tlZCBvbiB0aGUgYWR2ZXJ0aXNlbWVudHMgd2UgZGlzcGxheS4gV2UgdXNlIHRoaXMgaW5mb3JtYXRpb24gdG8gbWFrZSBwcmVkaWN0aW9ucyBhYm91dCB5b3VyIGNoYXJhY3RlcmlzdGljcywgaW50ZXJlc3RzLCBvciBwcmVmZXJlbmNlcywgYW5kIHRvIGRpc3BsYXkgdGFyZ2V0ZWQgYWR2ZXJ0aXNlbWVudHMgdGhhdCB3ZSBiZWxpZXZlIG1heSBiZSBvZiBpbnRlcmVzdCB0byB5b3UuIFdlIG1heSBhbHNvIGFzc29jaWF0ZSB0aGlzIGluZm9ybWF0aW9uIHdpdGggeW91ciBzdWJzZXF1ZW50IHZpc2l0LCBwdXJjaGFzZSwgb3Igb3RoZXIgYWN0aXZpdHkgb24gcGFydGljaXBhdGluZyBhZHZlcnRpc2Vyc+KAmSBXZWIgc2l0ZXMgaW4gb3JkZXIgdG8gZGV0ZXJtaW5lIHRoZSBlZmZlY3RpdmVuZXNzIG9mIHRoZSBhZHZlcnRpc2VtZW50cy48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPldoaWxlIHdlIG1heSB1c2Ugc29tZSBvZiB0aGUgaW5mb3JtYXRpb24gd2UgY29sbGVjdCBpbiBvcmRlciB0byBwZXJzb25hbGl6ZSB0aGUgYWRzIHdlIHNob3cgeW91LCB3ZSBkZXNpZ25lZCBvdXIgc3lzdGVtcyB0byBzZWxlY3QgYWRzIGJhc2VkIG9ubHkgb24gZGF0YSB0aGF0IGRvZXMgbm90IHBlcnNvbmFsbHkgYW5kIGRpcmVjdGx5IGlkZW50aWZ5IHlvdS4gRm9yIGV4YW1wbGUsIHdlIG1heSBzZWxlY3QgdGhlIGFkcyB3ZSBkaXNwbGF5IGFjY29yZGluZyB0byBjZXJ0YWluIGdlbmVyYWwgaW50ZXJlc3QgY2F0ZWdvcmllcyBvciBzZWdtZW50cyB0aGF0IHdlIGhhdmUgaW5mZXJyZWQgYmFzZWQgb24gKGEpIGRlbW9ncmFwaGljIG9yIGludGVyZXN0IGRhdGEsIGluY2x1ZGluZyBhbnkgeW91IG1heSBoYXZlIHByb3ZpZGVkIHdoZW4gY3JlYXRpbmcgYW4gYWNjb3VudCAoZS5nLiBhZ2UsIHppcCBvciBwb3N0YWwgY29kZSwgYW5kIGdlbmRlciksIGRlbW9ncmFwaGljIG9yIGludGVyZXN0IGRhdGEgYWNxdWlyZWQgZnJvbSBvdGhlciBjb21wYW5pZXMsIGFuZCBhIGdlbmVyYWwgZ2VvZ3JhcGhpYyBsb2NhdGlvbiBkZXJpdmVkIGZyb20geW91ciBJUCBhZGRyZXNzOyAoYikgdGhlIHBhZ2VzIHlvdSB2aWV3IGFuZCBsaW5rcyB5b3UgY2xpY2sgd2hlbiB1c2luZyBNaWNyb3NvZnTigJlzIGFuZCBpdHMgYWR2ZXJ0aXNpbmcgcGFydG5lcnPigJkgV2ViIHNpdGVzIGFuZCBzZXJ2aWNlczsgYW5kIChjKSB0aGUgc2VhcmNoIHRlcm1zIHlvdSBlbnRlciB3aGVuIHVzaW5nIE1pY3Jvc29mdOKAmXMgSW50ZXJuZXQgc2VhcmNoIHNlcnZpY2VzLCBzdWNoIGFzIExpdmUgU2VhcmNoLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+QXMgd2Ugc2VydmUgYWRzLCB3ZSB0YWtlIGEgbnVtYmVyIG9mIHN0ZXBzIGRlc2lnbmVkIHRvIHByb3RlY3QgeW91ciBwcml2YWN5LiBGb3IgZXhhbXBsZSwgd2Ugc3RvcmUgcGFnZSB2aWV3cywgY2xpY2tzLCBhbmQgc2VhcmNoIHRlcm1zIHVzZWQgZm9yIGFkIHBlcnNvbmFsaXphdGlvbiBzZXBhcmF0ZWx5IGZyb20geW91ciBjb250YWN0IGluZm9ybWF0aW9uIG9yIG90aGVyIGRhdGEgdGhhdCBkaXJlY3RseSBpZGVudGlmaWVzIHlvdSAoc3VjaCBhcyB5b3VyIG5hbWUsIGUtbWFpbCBhZGRyZXNzLCBldGMuKS4gRnVydGhlciwgd2UgaGF2ZSBidWlsdCBpbiBhZG1pbmlzdHJhdGl2ZSwgdGVjaG5pY2FsLCBhbmQgcGh5c2ljYWwgc2FmZWd1YXJkcyBkZXNpZ25lZCB0byBwcmV2ZW50IHRoZSB1bmF1dGhvcml6ZWQgY29ycmVsYXRpb24gb2YgdGhpcyBkYXRhLiBXZSBhbHNvIGdpdmUgeW91IHRoZSBhYmlsaXR5IHRvIG9wdC1vdXQgb2YgcGVyc29uYWxpemVkIGFkcy4gRm9yIG1vcmUgaW5mb3JtYXRpb24gb3IgdG8gdXNlIHRoZSBvcHQtb3V0IGZlYXR1cmUsIHlvdSBtYXkgdmlzaXQgb3VyIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vY2hvaWNlLmxpdmUuY29tL2FkdmVydGlzZW1lbnRjaG9pY2UiPm9wdC1vdXQgcGFnZTwvYT4uPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5XZSBhbHNvIHByb3ZpZGUgdGhpcmQgcGFydHkgYWQgZGVsaXZlcnkgdGhyb3VnaCBvdXIgQXRsYXMgc3Vic2lkaWFyeSwgYW5kIHlvdSBtYXkgcmVhZCB0aGUgQXRsYXMgcHJpdmFjeSBzdGF0ZW1lbnQgYXQgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly93d3cuYXRsYXNzb2x1dGlvbnMuY29tL3ByaXZhY3kuYXNweCI+aHR0cDovL3d3dy5hdGxhc3NvbHV0aW9ucy5jb20vcHJpdmFjeS5hc3B4LjwvYT48L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+JiMxNjA7PC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPkFsdGhvdWdoIHRoZSBtYWpvcml0eSBvZiB0aGUgb25saW5lIGFkdmVydGlzZW1lbnRzIG9uIE1pY3Jvc29mdCBzaXRlcyBhcmUgZGlzcGxheWVkIGJ5IE1pY3Jvc29mdCwgd2UgYWxzbyBhbGxvdyB0aGlyZC1wYXJ0eSBhZC1zZXJ2aW5nIGNvbXBhbmllcywgaW5jbHVkaW5nIG90aGVyIGFkIG5ldHdvcmtzLCB0byBkaXNwbGF5IGFkdmVydGlzZW1lbnRzIG9uIG91ciBzaXRlcy4gVGhlc2UgY29tcGFuaWVzIGN1cnJlbnRseSBpbmNsdWRlLCBidXQgYXJlIG5vdCBsaW1pdGVkIHRvLCA8YSB0YXJnZXQ9IuKAnF9ibGFua+KAnSIgaHJlZj0iaHR0cDovL3d3dy4yNDdyZWFsbWVkaWEuY29tLyI+MjQvNyBSZWFsIE1lZGlhPC9hPiwgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly9hZHZlcnRpc2luZy5jb20vIj5QbGF0Zm9ybS1BPC9hPiwgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly93d3cuYmlkY2xpeC5jb20vIj5CaWRjbGl4PC9hPiwgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly93d3cuYmx1ZXN0cmVhay5jb20vIj5CbHVlU3RyZWFrPC9hPiwgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly93d3cuYnVyc3RtZWRpYS5jb20vIj5CdXJzdCBNZWRpYTwvYT4sIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vd3d3LmRvdWJsZWNsaWNrLmNvbS8iPkRvdWJsZUNsaWNrPC9hPiwgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly93d3cuZXVyb2NsaWNrLmNvbS8iPkV1cm9DbGljazwvYT4sIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vd3d3LmV5ZWJsYXN0ZXIuY29tLyI+RXllYmxhc3RlcjwvYT4sIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vd3d3LmV5ZXdvbmRlci5jb20vIj5FeWVXb25kZXI8L2E+LCA8YSB0YXJnZXQ9IuKAnF9ibGFua+KAnSIgaHJlZj0iaHR0cDovL3d3dy5pbnRlcnBvbGxzLmNvbS8iPkludGVycG9sbHM8L2E+LCA8YSB0YXJnZXQ9IuKAnF9ibGFua+KAnSIgaHJlZj0iaHR0cDovL3d3dy5rYW5vb2RsZS5jb20vIj5LYW5vb2RsZTwvYT4sIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vd3d3Lm1lZGlhcGxleC5jb20vIj5NZWRpYXBsZXg8L2E+LCA8YSB0YXJnZXQ9IuKAnF9ibGFua+KAnSIgaHJlZj0iaHR0cDovL3d3dy5wb2ludHJvbGwuY29tLyI+UG9pbnRSb2xsPC9hPiwgPGEgdGFyZ2V0PSLigJxfYmxhbmvigJ0iIGhyZWY9Imh0dHA6Ly9zZWFyY2htYXJrZXRpbmcueWFob28uY29tLyI+WWFob28hIFB1Ymxpc2hlciBOZXR3b3JrPC9hPiwgYW5kIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vd3d3LnplZG8uY29tLyI+WmVkbzwvYT4uPC9kaXY+IDxkaXYgc3R5bGU9Im1hcmdpbjogYXV0byAwaW4iPiYjMTYwOzwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5UaGVzZSBjb21wYW5pZXMgbWF5IG9mZmVyIHlvdSBhIHdheSB0byBvcHQgb3V0IG9mIGFkIHRhcmdldGluZyBiYXNlZCBvbiB0aGVpciBjb29raWVzLiBZb3UgbWF5IGZpbmQgbW9yZSBpbmZvcm1hdGlvbiBieSBjbGlja2luZyBvbiB0aGUgY29tcGFueSBuYW1lcyBhYm92ZSBhbmQgZm9sbG93aW5nIHRoZSBsaW5rcyB0byB0aGUgV2ViIHNpdGVzIG9mIGVhY2ggY29tcGFueS4gU29tZSBvZiB0aGVzZSBjb21wYW5pZXMgYXJlIG1lbWJlcnMgb2YgdGhlIDxhIHRhcmdldD0i4oCcX2JsYW5r4oCdIiBocmVmPSJodHRwOi8vd3d3Lm5ldHdvcmthZHZlcnRpc2luZy5vcmcvIj5OZXR3b3JrIEFkdmVydGlzaW5nIEluaXRpYXRpdmU8L2E+LCB3aGljaCBvZmZlcnMgYSBzaW5nbGUgbG9jYXRpb24gdG8gb3B0IG91dCBvZiBhZCB0YXJnZXRpbmcgZnJvbSBtZW1iZXIgY29tcGFuaWVzLjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+PGI+Q2hhbmdlcyB0byB0aGlzIFByaXZhY3kgU3RhdGVtZW50IDwvYj48YnIgLz48YnIgLz5XZSBtYXkgb2NjYXNpb25hbGx5IHVwZGF0ZSB0aGlzIHByaXZhY3kgc3RhdGVtZW50LiBXaGVuIHdlIGRvLCB3ZSB3aWxsIGFsc28gcmV2aXNlIHRoZSAibGFzdCB1cGRhdGVkIiBkYXRlIGF0IHRoZSB0b3Agb2YgdGhlIHByaXZhY3kgc3RhdGVtZW50LiBGb3IgbWF0ZXJpYWwgY2hhbmdlcyB0byB0aGlzIHByaXZhY3kgc3RhdGVtZW50LCB3ZSB3aWxsIG5vdGlmeSB5b3UgZWl0aGVyIGJ5IHBsYWNpbmcgYSBwcm9taW5lbnQgbm90aWNlIG9uIHRoZSBob21lIHBhZ2Ugb2Ygb3VyIFdlYiBzaXRlIG9yIGJ5IGRpcmVjdGx5IHNlbmRpbmcgeW91IGEgbm90aWZpY2F0aW9uLiBXZSBlbmNvdXJhZ2UgeW91IHRvIHBlcmlvZGljYWxseSByZXZpZXcgdGhpcyBwcml2YWN5IHN0YXRlbWVudCB0byBzdGF5IGluZm9ybWVkIGFib3V0IGhvdyB3ZSBhcmUgaGVscGluZyB0byBwcm90ZWN0IHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0LjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj4mIzE2MDs8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+PGI+Q29udGFjdCBJbmZvcm1hdGlvbiA8L2I+PGJyIC8+PGJyIC8+TWljcm9zb2Z0IHdlbGNvbWVzIHlvdXIgY29tbWVudHMgcmVnYXJkaW5nIHRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQuIElmIHlvdSBoYXZlIHF1ZXN0aW9ucyBhYm91dCB0aGlzIHN0YXRlbWVudCBvciBiZWxpZXZlIHRoYXQgd2UgaGF2ZSBub3QgYWRoZXJlZCB0byBpdCwgcGxlYXNlIGNvbnRhY3QgdXMgYnkgZS1tYWlsIGF0IG1zc3R1ZGVudGxvdW5nZUBmYXN0dHJhY2t0ZWFtLmNvbSBvciBieSBwb3N0YWwgbWFpbCBhdDo8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiBhdXRvIDBpbiI+PGI+JiMxNjA7PC9iPjwvZGl2PiA8ZGl2IHN0eWxlPSJtYXJnaW46IGF1dG8gMGluIj5GYXN0IFRyYWNrPGJyIC8+MTYxNSBTdW5zZXQgQXZlIFNXPGJyIC8+U2VhdHRsZSwgV0EgOTgxMTY8YnIgLz5VU0E8L2Rpdj4gPGRpdiBzdHlsZT0ibWFyZ2luOiAwaW4gMGluIDEwcHQiPiYjMTYwOzwvZGl2PiA8cD4mIzE2MDs8L3A+IDxwPjxiciAvPiYjMTYwOzwvcD5kZAIJDw8WAh8CaGRkAgsPDxYCHwJoZGQCDQ8PFgIfAmhkZAIPDw8WAh8CaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRpkbm4kZG5uU0VBUkNIJGNtZFNlYXJjaE5ldwUaZG5uJGRublNFQVJDSCRjbWRMaXZlU2VhY2gFFGRubiRkbm5OQVYkY3RsZG5uTkFWkuiNoeDgaqSKRTbLzm1y5U6nYF4=">
+</div>
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+OnUserSignedOut()//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=6fEQPOQAHftfD6XDI40fOWCjf_4oDixJlHZl2tjfI9p0QRqDfMCcCW1V5OiX7Pw4_RuUCJGKkfpXHQinQhj2ecByMp7Oo3HN0&amp;t=4e59e7bc" type="text/javascript"></script>
+            
+            
+<div class="maincontent" style="text-align: center;">
+    <div id="dnn_ControlPanel"></div>
+    <div class="header">
+        <div class="left">
+            <div class="identity box box-black notop">
+                <a id="dnn_dnnLOGO_hypLogo" title="Student Lounge" href="http://www.msstudentlounge.com/Default.aspx"><img id="dnn_dnnLOGO_imgLogo" title="Student Lounge" src="/Portals/0/logo.png" alt="Student Lounge" style="border-width:0px;"></a>
+            </div>
+            <div class="feedback box box-blue notop">
+                <div class="feedback-inner">
+                    
+<style type="text/css">
+		.box-pink .tl { background-position: 0 -48px; }
+		.box-pink .tr { background-position: -6px -48px; }
+		.box-pink .bl { background-position: 0 -54px; }
+		.box-pink .br { background-position: -6px -54px; }
+		.registerbtn { width: 50px; }
+
+</style>
+
+<script language="javascript" type="text/javascript">
+        var loadComplete = false;
+        var ratingValue = -1;
+        
+        function addLoadEvent(func) {
+            var oldonload = window.onload;
+            if (typeof window.onload != 'function') {
+                window.onload = func;
+            } else {
+                window.onload = function() {
+                    oldonload();
+                    func();
+                }
+            }
+        }
+
+        addLoadEvent(pageLoadHandler);
+
+        function pageLoadHandler() {
+            loadComplete = true;
+        }
+
+        roll_over(ratingValue);
+
+        var submitted = false;
+        if (submitted == true)
+        {
+            setSelectedStatus();
+        }
+        function setSelectedStatus() {
+            var i = ratingValue;
+            while (i > 0) {
+//                document.getElementById('dnn_SITERATING1_image' + i).src = '/shared/Templates/Components/cueRatingControl/images/star_blue.gif';
+                document.getElementById('dnn_SITERATING1_image' + i).src = '/images/star_blue.gif';
+                document.getElementById('dnn_SITERATING1_image' + i).style.display = 'block';
+                document.getElementById('dnn_SITERATING1_image' + (i - 1)).style.display = 'none';
+                i = i - 2;
+            }
+            i = 5;
+
+            while (i > 0) {
+                document.getElementById('menulink' + i).style.cursor = 'default';
+                				document.getElementById('menulink'+i).title = '';
+                i--;
+            }
+        }
+        var commentMouseOutStatus = false;
+        function checkContainerMouseOut() 
+        {
+            commentMouseOutStatus = false;
+            setTimeout("hide_comment_container()", 1000);
+        }
+        
+        function show_comment_container() {
+            var comment = document.getElementById('divComment');
+            var container = document.getElementById('divStars');
+            //[START][Commented to Set LeftPos of comment window - Saurabh - 3 Jun 2009]
+            //var leftPos = getLeftPosition(container) - (comment.offsetWidth - container.offsetWidth);
+            var leftPos = getLeftPosition(container);
+            
+            
+            //[END][Commented to Set LeftPos of comment window - Saurabh - 3 Jun 2009]
+            
+            var topPos = getTopPosition(container) + container.offsetHeight;
+            var topPos = getTopPosition(container) - 40
+                      
+            /*comment.style.position = 'static';*/
+            comment.style.display = 'block';
+            comment.style.left = leftPos + 'px';
+            comment.style.top = topPos + 'px';
+            /*commentMouseOutStatus = true;*/
+        }
+
+        function getTopPosition(obj) {
+            var topValue = 0;
+            while (obj) {
+                topValue += obj.offsetTop;
+                obj = obj.offsetParent;
+            }
+            return topValue;
+        }
+        function getLeftPosition(obj) {
+            var leftValue = 0;
+            while (obj) {
+                leftValue += obj.offsetLeft;
+                obj = obj.offsetParent;
+            }
+            return leftValue;
+        }
+
+        function hide_comment_container() {
+            if (commentMouseOutStatus == false) {
+                var comment = document.getElementById('divComment');
+                /*comment.style.position = 'absolute';
+                comment.style.display = 'none';*/
+                comment.style.left = '-1000px';
+
+                var i = 10;
+                while (i > 0) {
+                    document.getElementById('dnn_SITERATING1_image' + i).src = '/images/star_on.gif';
+                    document.getElementById('dnn_SITERATING1_image' + i).style.display = 'none';
+                    document.getElementById('dnn_SITERATING1_image' + (i - 1)).style.display = 'block';
+                    i = i - 2;
+                }
+            }
+        }
+
+        function roll_over(img_id)
+        {
+            var userRatedOrNot = 0
+            if(userRatedOrNot == 1)
+            {
+            
+            }
+            else
+            {
+            if (submitted != true) 
+            {
+                var hdn = document.getElementById('dnn_SITERATING1_imgSelected');
+                for (var x = 1; x <= 10; x++)
+                {
+                    if(hdn!=null)
+                    {
+                        if (hdn.value < x) 
+                        {
+                            if (x % 2 == 0) 
+                            {
+                                document.getElementById('dnn_SITERATING1_image' + x).style.display = 'none';
+                            }
+                            else 
+                            {
+                                document.getElementById('dnn_SITERATING1_image' + x).style.display = 'block';
+                            }
+                        }
+                    }
+                }
+                var i = img_id;
+                while (i > 0) 
+                {
+                    document.getElementById('dnn_SITERATING1_image' + i).style.display = 'block';
+                    document.getElementById('dnn_SITERATING1_image' + (i - 1)).style.display = 'none';
+                    i = i - 2;
+                                     
+                }
+            }
+            
+            }
+            
+        }
+
+        //1. This function firsts checks users authentication and then checks whether he as rated or not.
+        //2. If an authenticated user who have not rated earlier clicks on any of the star images, then 
+        //   this function opens feedback window to save feedback and rating specified. 
+        function image_click(img_id) 
+        {
+            //[START][1. To Check whether user is authenticated or not.
+            //        2. Also checks whether user previously rated or not  - Saurabh - 9 Jun 2009]
+            var loginurl = '/channels/tabid/58/ctl/Login/Default.aspx'
+            //if (submitted != true && loadComplete == true) 
+            if (submitted != true ) 
+            {
+                var currentUserId = -1;
+                var userRatedOrNot = 0;  
+                                
+                //alert(currentUserId)
+                //If User is not Authenticated redirect him to login page.
+                if(currentUserId == -1)
+                {
+                   // location.replace(loginurl)
+                     location.href = loginurl;
+                                   
+                }
+                else
+                {
+                   //If user already rated
+                   if(userRatedOrNot == 1)
+                    {
+                
+                    }
+            //[END][1. To Check whether user is authenticated or not.
+            //        2. Also checks whether user previously rated or not  - Saurabh - 9 Jun 2009]
+                    
+                    //If user havent rated earlier then accept his rating
+                    else
+                        {
+                            var hdn = document.getElementById('dnn_SITERATING1_imgSelected');
+                            hdn.value = img_id;
+
+                            //For Loop Starts
+                            for (var x = 1; x <= 10; x++)
+                            {
+                                if (x % 2 == 0)
+                                {
+                                    if (x > img_id)
+                                    {
+                                        document.getElementById('dnn_SITERATING1_image' + x).src = '/images/star_on.gif';
+                                        document.getElementById('dnn_SITERATING1_image' + x).style.display = 'none';
+                                    }
+                                }
+                                else
+                                {
+                                    document.getElementById('dnn_SITERATING1_image' + x).style.display = 'block';
+                                }
+                            }
+                            //For Loop Ends
+
+                            var i = img_id;
+                            while (i > 0) 
+                            {
+                                document.getElementById('dnn_SITERATING1_image' + i).src = '/images/star_blue.gif';
+                                document.getElementById('dnn_SITERATING1_image' + i).style.display = 'block';
+                                document.getElementById('dnn_SITERATING1_image' + (i - 1)).style.display = 'none';
+                                i = i - 2;
+                            }
+
+                            show_comment_container();
+                            document.getElementById('dnn_SITERATING1_txtComments').focus();
+                    }
+                   
+                    }
+                          
+            }
+        }
+
+        function validate() {
+            var hdn = document.getElementById('dnn_SITERATING1_imgSelected');
+            var comment = document.getElementById('dnn_SITERATING1_txtComments');
+            var err = false;
+            if (hdn.value == "-1") {
+                document.getElementById('dnn_SITERATING1_lblChooseRating').style.display = 'block';
+                err = true;
+            }
+            if (comment.value.length > 256) {
+                document.getElementById('dnn_SITERATING1_lblCommentError').style.display = 'block';
+                err = true;
+            }
+
+            if (err) {
+                return false;
+            }
+
+            return true;
+        }
+</script>
+
+<div>
+    <div id="dnn_SITERATING1_pnlRating" title="This action requires you to sign in using your Live ID and will redirect you to the Live ID sign in page, before returning to this site.">
+	
+        
+        <input name="dnn$SITERATING1$imgSelected" type="hidden" id="dnn_SITERATING1_imgSelected" value="-1">
+        <div class="star_rating_container" id="divStars">
+            <div class="feedback_link" onmouseover="roll_over(-1)">
+                <span id="dnn_SITERATING1_lblRatingHeading" style="display: block;"></span>
+            </div>
+            <div style="float: left">
+		<span id="id_feedback_text">
+                <img id="dnn_SITERATING1_image11" src="/images/send_feedback_txt.png" alt="Rate This Site:" style="height:11px;border-width:0px;">&nbsp;&nbsp;
+		</span>
+            </div>
+            <div class="star_list" onmouseout="roll_over(-1)">
+                <ul>
+                    <li style="display: inline; list-style-type: none; float: left; margin-left: 0px; margin-right: 5px;"><a href="javascript:image_click(2)" id="menulink1" onmouseover="roll_over(2)">
+                        <img id="dnn_SITERATING1_image1" src="/images/star_off.gif" style="border-width:0px;">
+                        <img id="dnn_SITERATING1_image2" src="/images/star_on.gif" style="border-width:0px;display: none">
+                    </a></li>
+                    <li style="display: inline; list-style-type: none; float: left; margin-left: 0px; margin-right: 5px;"><a href="javascript:image_click(4)" id="menulink2" onmouseover="roll_over(4)">
+                        <img id="dnn_SITERATING1_image3" border="0" src="/images/star_off.gif" style="border-width:0px;"><img id="dnn_SITERATING1_image4" border="0" src="/images/star_on.gif" style="border-width:0px;display: none"></a> </li>
+                    <li style="display: inline; list-style-type: none; float: left; margin-left: 0px; margin-right: 5px;"><a href="javascript:image_click(6)" id="menulink3" onmouseover="roll_over(6)">
+                        <img id="dnn_SITERATING1_image5" border="0" src="/images/star_off.gif" style="border-width:0px;"><img id="dnn_SITERATING1_image6" border="0" src="/images/star_on.gif" style="border-width:0px;display: none"></a> </li>
+                    <li style="display: inline; list-style-type: none; float: left; margin-left: 0px; margin-right: 5px;"><a href="javascript:image_click(8)" id="menulink4" onmouseover="roll_over(8)">
+                        <img id="dnn_SITERATING1_image7" border="0" src="/images/star_off.gif" style="border-width:0px;"><img id="dnn_SITERATING1_image8" border="0" src="/images/star_on.gif" style="border-width:0px;display: none"></a> </li>
+                    <li style="display: inline; list-style-type: none; float: left; margin-left: 0px;"><a href="javascript:image_click(10)" id="menulink5" onmouseover="roll_over(10)">
+                        <img id="dnn_SITERATING1_image9" border="0" src="/images/star_off.gif" style="border-width:0px;"><img id="dnn_SITERATING1_image10" border="0" src="/images/star_on.gif" style="border-width:0px;display: none"></a> </li>
+                </ul>
+            </div>
+        </div>
+        &nbsp;
+    
+</div>
+    <div id="divComment" style="position: absolute; width: 280px; height: 180px; left: -1000px;
+        border: solid 1px #7a7a7a; background-color: #FFFFFF; z-index: 10001; display: inline;
+        padding: 15px" onmouseover="show_comment_container()">
+        <table>
+            <tbody><tr>
+                <td align="left">
+                    <div style="color: Black">
+                        Would you like to provide more feedback?<br>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <textarea name="dnn$SITERATING1$txtComments" rows="2" cols="20" id="dnn_SITERATING1_txtComments" style="border-color:Gray;border-width:1px;border-style:solid;height:100px;width:250px;"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <div>
+                        <div style="float: left" class="left box box-pink btn registerbtn">
+                            <a onclick="hide_comment_container();" id="dnn_SITERATING1_btnClose" href="javascript:__doPostBack('dnn$SITERATING1$btnClose','')">
+                                <img src="/images/close_btn.png"></a>
+                        </div>
+                        <div style="float: left; margin-left: 10px;" class="left box box-pink btn registerbtn">
+                            <a onclick="if(validate()){return true;} return false;" id="dnn_SITERATING1_btnSubmit" href="javascript:__doPostBack('dnn$SITERATING1$btnSubmit','')">
+                                <img src="/images/send_btn.png"></a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                   
+                    <div>
+                        <span id="dnn_SITERATING1_lblChooseRating" class="mnprcRFV mnprcBold" style="display: none;"></span>
+                        <span id="dnn_SITERATING1_lblCommentError" class="mnprcRFV mnprcBold" style="display:inline-block;width:300px;display: none; color: #FF0000; font-weight: normal; font-family: Arial,Helvetica,sans-serif;">Feedback text should not contain more than 256 characters.</span>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+    
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="search right">
+            <div class="box box-black notop">
+                <div class="search-inner">
+                    
+
+ 
+ <script language="javascript" type="text/javascript">
+    function removeSeachText()
+    {
+       var txtSearch = document.getElementById('dnn_dnnSEARCH_txtSearchNew')
+       txtSearch.value = ''
+    }
+    
+    function Search()
+    {
+        javascript:__doPostBack('dnn$dnnSEARCH$cmdSearchNew','');
+    }
+ </script>
+ 
+
+
+
+<div class="hslice" id="studentvids-update">
+    <span class="entry-title" style="display:none;">Microsoft Student Lounge Video Search</span>
+    <a rel="entry-content" href="/MSVideoSearch.html" style="display:none;">Alternative Display Source - Microsoft Student Lounge Video Search</a>    
+    
+    <a rel="bookmark" href="/Default.aspx" style="display:none;">Bookmark � Microsoft Student Video Search</a>
+    <div class="entry-content">
+        <div id="dnn_dnnSEARCH_DropDownSearch" class="SearchContainer">
+            <table>
+                <tbody><tr>
+                    <td>
+                        <input name="dnn$dnnSEARCH$txtSearchNew" type="text" value="Search Student Lounge" maxlength="255" id="dnn_dnnSEARCH_txtSearchNew" class="SearchTextBox" onfocus="javascript:removeSeachText()" onkeydown="return __dnn_KeyDown('13', 'javascript:__doPostBack(%27dnn$dnnSEARCH$cmdSearchNew%27,%27%27)', event);" style="line-height: 20px;">
+                        <div class="left search-ddl" onclick="Search()">
+                            <input type="image" name="dnn$dnnSEARCH$cmdSearchNew" id="dnn_dnnSEARCH_cmdSearchNew" class="ServerSkinWidget" src="/images/clear.gif" style="border-width:0px;">
+                        </div>
+                    </td>
+                    <td>
+                        <div class="box btn hand box-pink">
+                            <input type="image" name="dnn$dnnSEARCH$cmdLiveSeach" id="dnn_dnnSEARCH_cmdLiveSeach" class="ServerSkinWidget" src="/images/microsoft_text.png" style="border-width:0px;">
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>    
+    </div>
+</div>
+
+                </div>
+            </div>
+            <div class="newsletter box box-blue notop signout ">
+                <a id="dnn_NewsLetterSignUp1_HyperLink1" href="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=10&amp;ct=1244007729&amp;rver=5.0.3265.0&amp;wp=MCMBI&amp;wreply=https:%2F%2Fprofile.microsoft.com%2FRegSysProfileCenter%2Fwizard.aspx%3Fwizid%3D9489462d-6b5c-40ed-8009-9a4f350d3703%26lcid%3D1033%26ci%3D104861&amp;lc=1033&amp;cb=LCID%3D1033%26WizID%3D9489462d-6b5c-40ed-8009-9a4f350d3703%26brand%3DMicrosoft&amp;id=74335" target="_blank"><img id="dnn_NewsLetterSignUp1_image1" src="/images/microsoft_newsletter_text.png" alt="Sign Up for Microsoft Student Newsletter" style="border-width:0px;"></a>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div style="margin-right: 68px; margin-bottom: -5px;height:30px;">
+        
+    </div>
+    <div class="blackMenu  ">
+        <table class=" box">
+            <tbody><tr>
+                <td colspan="3">
+                    <span><div width="100%" class="DNNMenu main_dnnmenu_submenu" name="dnn$dnnNAV$ctldnnNAV" id="dnn_dnnNAV_ctldnnNAV">
+	<div name="58" id="58" style="padding-left:0px;">
+		<span class=" "><img src="/Portals/0/Templates/channels_ext8.png" style="border-width:0px;">&nbsp;</span><a class="main_dnnmenu_rootitem_selected_channels main_dnnmenu_rootitem_selected_channels" href="http://www.msstudentlounge.com/channels/tabid/58/Default.aspx">&nbsp;</a>
+	</div><div name="63" id="63" style="padding-left:0px;">
+		<span class=" "><img src="/Portals/0/Templates/create_post_icon.png" style="border-width:0px;">&nbsp;</span><a title="This action requires you to sign in using your Live ID and will redirect you to the Live ID sign in page, before returning to this site." class="main_dnnmenu_rootitem" href="http://www.msstudentlounge.com/CreateaPost/tabid/63/ctl/UserUpload/mid/369/Default.aspx">&nbsp;</a>
+	</div><div name="65" id="65" style="padding-left:0px;">
+		<span class=" "><img src="/Portals/0/Templates/forums_icon.png" style="border-width:0px;">&nbsp;</span><a class="main_dnnmenu_rootitem" href="http://www.msstudentlounge.com/forums/tabid/65/Default.aspx">&nbsp;</a>
+	</div><div name="72" id="72" style="padding-left:0px;">
+		<span class=" "><img src="/Portals/0/Templates/sign_in_icon.png" style="border-width:0px;">&nbsp;</span><a title="This action requires you to sign in using your Live ID and will redirect you to the Live ID sign in page, before returning to this site." class="main_dnnmenu_rootitem" href="http://www.msstudentlounge.com/signin/tabid/72/Default.aspx">&nbsp;</a>
+	</div>
+</div></span>
+                </td>
+            </tr>
+            <tr>
+                <td id="dnn_LeftPane" class="LeftPane">
+                </td>
+
+                <td>
+                    &nbsp;</td>
+                <td id="dnn_TopPane" class="TopPane">
+                </td>
+
+            </tr>
+        </tbody></table>
+    </div>
+    <div>
+        <p>
+            &nbsp;</p>
+        <table cellspacing="0" class="content box box-blackFT">
+            <tbody><tr>
+                <td class="corner tl">
+                </td>
+                <td class="rail h">
+                </td>
+                <td class="corner tr">
+                </td>
+            </tr>
+            <tr>
+                <td class="rail v">
+                </td>
+                <td class="inner">
+                    <table>
+                        <tbody><tr>
+                            <td id="dnn_ContentPane" width="550px" class="inner pane-left" style="padding-left:15px;">
+                            
+
+    <div class="c_head title_grey">
+        <div class="Head title">
+            <span id="dnn_ctr_dnnTITLE_lblTitle" class="Head">Privacy Statement</span>
+
+
+
+        </div>
+        <div class="Head title_vis">
+            
+        </div>
+        <div class="clear_float">
+        </div>
+    </div>
+    <div class="c_content">
+        <div id="dnn_ctr_ContentPane" class="Normal c_contentpane DNNAligncenter">
+        <div id="dnn_ctr_ModuleContent">
+	
+<style>
+.title_grey .Head 
+{
+	color:white;
+	margin-left: 5px;
+}
+</style>
+<br>
+<div style="margin-left:12px;">
+  <table cellspacing="0" class="box box-whiteFTR" style="width:820px">
+		<tbody><tr>
+			<td class="corner tl"></td>
+			<td class="railWhite h">
+			</td>
+			<td class="corner tr"></td>
+		</tr>
+		<tr>
+			<td class="railWhite v"></td>
+			<td class="innerWhite">
+			<table>
+			    <tbody><tr>
+			        <td style="width:14px"></td>
+			        <td>
+                <span id="dnn_ctr_Privacy_lblPrivacy" class="Normal"><p>&nbsp;</p> <div style="margin: auto 0in">Student Lounge Privacy Statement<br>Last updated: August 2009</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through the Student Lounge site (the “Site”) hosted for Microsoft by Fast Track Team, Inc; it does not apply to other online or offline Microsoft sites, products, or services.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Collection of Your Information</b><br>We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include first name, school name, country, time zone, website, blog, IM, bio, interests, signature and avatar.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">We may collect information about your visit, including the pages you view, the links you click, and other actions you take in connection with the Site. We also collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times, and referring Web site addresses.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">In order to offer you a more consistent and personalized experience in your interactions with Microsoft, information collected through one Microsoft service may be combined with information obtained through other Microsoft services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">To sign in to the Site, you will be asked to enter an e-mail address and password, which we refer to as your Windows Live™ ID. After you create your Windows Live ID, you can use the same credentials to sign in to many different Microsoft sites and services, as well as those of select Microsoft partners that display the Windows Live ID logo. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign in to participating sites, please read the Microsoft Online Privacy Statement at <a target="“_blank”" href="http://privacy.microsoft.com/">http://privacy.microsoft.com/</a>.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Use of Your Information</b><br><br>The information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">In support of these uses, Microsoft may use your information to provide you with more effective customer service, improve the Site and any related Microsoft products or services, perform statistical analysis, and make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preferences or interests.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">We may use your information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other Microsoft products and services, and/or share your personal information with Microsoft partners so they may send you information about their products and services.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">Microsoft occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing, and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">Information that is collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Control of Your Personal Information</b><br><br>Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">The Site allows you to sign up for the Microsoft Student newsletter using the ‘Signup for Newsletter’ link and your Windows LiveTM ID. You can modify your communication preferences, including unsubscribing from this newsletter, at any time by using the<span style="color: black"> <a target="“_blank”" href="http://go.microsoft.com/?linkid=317027">Microsoft.com Profile Center</a></span><b><i>.</i></b></div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">The Site collects some personal information (including first name, school name, country, time zone, website, blog, IM, bio and interests). You can choose whether or not to make this information available to other users by using your edit profile page.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Access to Your Personal Information </b><br><br>Customer information is collected by Fast Track Team, Inc., a Microsoft vendor. It is stored at Fast Track Team, Inc., plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by signing in and editing your personal information and make it nonpublic.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Security of Your Information </b><br><br>At Microsoft, we take the security of your personal information very seriously. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, if we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Use of Cookies</b><br><br>We may use cookies on this Site to enable you to sign in to our services or to help personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you are using Internet Explorer, search for “Cookies” in the Help menu to find detailed instructions. If you choose to decline cookies, you may not be able to use interactive features of this or other Web sites that depend on cookies.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Use of Web Beacons </b><br><br>Pages on this Site may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering cookies, to allow us to count users who have visited those pages, and to deliver co-branded services. We may also include Web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">Microsoft may also employ Web beacons from third parties in order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns or other operations of our sites. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information. We may work with other companies that advertise on our sites to place Web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Display of Advertising </b><br><br>Many of the Web sites and online services we offer, as well as those of our partners, are supported by advertising. Through our ad delivery platform, we may display ads on our own sites and the sites of our advertising partners.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">When we display online advertisements to you, we will place a persistent cookie on your computer in order to recognize your computer each time we display an ad to you. Because we may serve advertisements on many different Web sites, we are able to compile information over time about where you, or others who are using your computer, saw and/or clicked on the advertisements we display. We use this information to make predictions about your characteristics, interests, or preferences, and to display targeted advertisements that we believe may be of interest to you. We may also associate this information with your subsequent visit, purchase, or other activity on participating advertisers’ Web sites in order to determine the effectiveness of the advertisements.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">While we may use some of the information we collect in order to personalize the ads we show you, we designed our systems to select ads based only on data that does not personally and directly identify you. For example, we may select the ads we display according to certain general interest categories or segments that we have inferred based on (a) demographic or interest data, including any you may have provided when creating an account (e.g. age, zip or postal code, and gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address; (b) the pages you view and links you click when using Microsoft’s and its advertising partners’ Web sites and services; and (c) the search terms you enter when using Microsoft’s Internet search services, such as Live Search.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">As we serve ads, we take a number of steps designed to protect your privacy. For example, we store page views, clicks, and search terms used for ad personalization separately from your contact information or other data that directly identifies you (such as your name, e-mail address, etc.). Further, we have built in administrative, technical, and physical safeguards designed to prevent the unauthorized correlation of this data. We also give you the ability to opt-out of personalized ads. For more information or to use the opt-out feature, you may visit our <a target="“_blank”" href="http://choice.live.com/advertisementchoice">opt-out page</a>.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">We also provide third party ad delivery through our Atlas subsidiary, and you may read the Atlas privacy statement at <a target="“_blank”" href="http://www.atlassolutions.com/privacy.aspx">http://www.atlassolutions.com/privacy.aspx.</a></div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">Although the majority of the online advertisements on Microsoft sites are displayed by Microsoft, we also allow third-party ad-serving companies, including other ad networks, to display advertisements on our sites. These companies currently include, but are not limited to, <a target="“_blank”" href="http://www.247realmedia.com/">24/7 Real Media</a>, <a target="“_blank”" href="http://advertising.com/">Platform-A</a>, <a target="“_blank”" href="http://www.bidclix.com/">Bidclix</a>, <a target="“_blank”" href="http://www.bluestreak.com/">BlueStreak</a>, <a target="“_blank”" href="http://www.burstmedia.com/">Burst Media</a>, <a target="“_blank”" href="http://www.doubleclick.com/">DoubleClick</a>, <a target="“_blank”" href="http://www.euroclick.com/">EuroClick</a>, <a target="“_blank”" href="http://www.eyeblaster.com/">Eyeblaster</a>, <a target="“_blank”" href="http://www.eyewonder.com/">EyeWonder</a>, <a target="“_blank”" href="http://www.interpolls.com/">Interpolls</a>, <a target="“_blank”" href="http://www.kanoodle.com/">Kanoodle</a>, <a target="“_blank”" href="http://www.mediaplex.com/">Mediaplex</a>, <a target="“_blank”" href="http://www.pointroll.com/">PointRoll</a>, <a target="“_blank”" href="http://searchmarketing.yahoo.com/">Yahoo! Publisher Network</a>, and <a target="“_blank”" href="http://www.zedo.com/">Zedo</a>.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in">These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the Web sites of each company. Some of these companies are members of the <a target="“_blank”" href="http://www.networkadvertising.org/">Network Advertising Initiative</a>, which offers a single location to opt out of ad targeting from member companies.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Changes to this Privacy Statement </b><br><br>We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.</div> <div style="margin: auto 0in">&nbsp;</div> <div style="margin: auto 0in"><b>Contact Information </b><br><br>Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by e-mail at msstudentlounge@fasttrackteam.com or by postal mail at:</div> <div style="margin: auto 0in"><b>&nbsp;</b></div> <div style="margin: auto 0in">Fast Track<br>1615 Sunset Ave SW<br>Seattle, WA 98116<br>USA</div> <div style="margin: 0in 0in 10pt">&nbsp;</div> <p>&nbsp;</p> <p><br>&nbsp;</p></span>
+             </td>
+			        <td style="width:14px"></td>
+			    </tr>
+			</tbody></table>
+               
+            </td>
+			<td class="railWhite v"></td>
+		</tr>
+		<tr>
+			<td class="corner bl"></td>
+			<td class="railWhite h"></td>
+			<td class="corner br"></td>
+		</tr>
+		</tbody></table>
+</div>
+
+</div></div>
+    </div>
+    <div class="c_footer">
+        <div class="Head">
+            
+            
+            
+            
+        </div>
+    </div>
+
+</td>
+
+                            <td width="20px">
+                                &nbsp;</td>
+                            <td id="dnn_RightPane" width="270px" class="inner pane-right" style="padding-right:15px;">
+                            </td>
+
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+                <td class="rail v">
+                </td>
+            </tr>
+            <tr>
+                <td class="corner bl">
+                </td>
+                <td class="rail h">
+                </td>
+                <td class="corner br">
+                </td>
+            </tr>
+        </tbody></table>
+        <div class="footer box box-verylightgrey notop">
+            <div class="links">
+                
+                <a id="dnn_dnnTERMS_hypTerms" class=" " href="http://www.msstudentlounge.com/channels/tabid/58/ctl/Terms/Default.aspx" target="_blank">Terms of Use</a>
+                | 
+                <a id="dnn_dnnPRIVACY_hypPrivacy" class=" " href="http://www.msstudentlounge.com/channels/tabid/58/ctl/Privacy/Default.aspx" target="_blank">Privacy Statement</a>
+                | <a target="_blank" href="http://help.live.com/help.aspx?project=tou&amp;querytype=keyword&amp;query=coc">Code of Conduct</a></div>
+            <div class="copyright" align="right">
+                    <span id="dnn_dnnCOPYRIGHT_lblCopyright" class=" ">© 2009 Microsoft Corporation. All rights reserved.</span>
+<br>
+                <img src="/Portals/0/Skins/SE Skin/img/ms_footer_logo.png" alt="Microsoft Corporation">
+            </div>
+            <div class="clear">
+            </div>
+            <div align="center">
+                This site is hosted for Microsoft by Fast Track Team, Inc.
+            </div>
+        </div>
+        <table cellspacing="10" class="template_style">
+            <tbody><tr>
+                <td id="dnn_Td1" colspan="10" class="BottomPane">
+                </td>
+
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+
+
+            <input name="ScrollTop" type="hidden" id="ScrollTop">
+            <input name="__dnnVariable" type="hidden" id="__dnnVariable">
+        </form>
+    </center>
+
+
+</body></html>
