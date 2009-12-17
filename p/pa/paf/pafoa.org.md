@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pafoa.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172122id_/http%3A//www.pafoa.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pafoa.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235827id_/http%3A//www.pafoa.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
