@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171909id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217034106id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MNN - Mother Nature Network
 
-Your privacy is important to us. MNN.com has prepared these privacy and security policies ("Statement") so you may better understand how MNN.com ("our Website") may use your personal information in connection with our Website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and  _[contact us](http://www.mnn.com/contact)_  with any questions or concerns.
+Your privacy is important to us. MNN.com has prepared these privacy and security policies ("Statement") so you may better understand how MNN.com ("our Website") may use your personal information in connection with our Website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and [contact us](mailto:contact@mnn.com) with any questions or concerns.
 
 **COLLECTION OF INFORMATION**
 
@@ -44,7 +44,7 @@ MNN.com keeps your personally identifiable information confidential. We do not d
   * We may disclose your personally identifiable information in the event that we sell this Website or substantial parts of our business, provided that the buyer agrees to comply with this Statement.
   * We may share your information with affiliated companies or strategic alliance partners, provided they comply with this Statement.
   * Although we do not provide your personally identifiable information to our advertising customers and ad networks, we do aggregate and supply them with anonymous data (for example, "5,000 members of MNN.com say that global warming is their top environmental concern").
-  * If you post any information in public areas of our Website, such as blogs or article-commenting, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our  _[Terms of Use](http://www.mnn.com/terms-conditions-0)_.
+  * If you post any information in public areas of our Website, such as blogs or article-commenting, it will be available to the public and we may reuse and republish such information at our discretion and in accordance with our [Terms of Use](http://www.mnn.com/terms-conditions-0).
   * We may also share your personally identifiable information to respond to law enforcement requests, court orders, or other legal processes; or if we believe that such disclosure is necessary to investigate, prevent, or respond to illegal activities, fraud, physical threats to you or others; or as otherwise required by any applicable law or regulation.
   * Before we disclose your personally identifiable information for other reasons, we will first obtain your consent, via e-mail, click-through, an online opportunity to enter your preference, or some other manner.
 
@@ -60,7 +60,7 @@ Except as set forth above, MNN.com will not disclose your personally identifiabl
 
 MNN.com offers its users choices for the collection, use, and sharing of personally identifiable information at the time a user decides to register. In addition, users may stop the delivery of future communications from MNN.com by unsubscribing at any time. For instance, each e-mail you receive (aside from “service e-mails”) contain instructions explaining how to stop receiving such e-mails.
 
-If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting your account page on our Website or by e-mailing our Customer Support service at [_contact@MNN.com_](mailto:contact@mnn.com).
+If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting your account page on our Website or by e-mailing our Customer Support service at [contact@mnn.com](mailto:contact@mnn.com).
 
 **PROTECTION OF INFORMATION -- SECURITY**
 
@@ -74,7 +74,7 @@ We may periodically update this Statement to reflect changes in our services and
 
 **CONTACT INFORMATION**
 
-If you have questions or complaints regarding this Statement, you should first write us at [_Contact@MNN.com_](mailto:contact@mnn.com) with any questions or concerns. All customer requests will be formally reviewed by our staff.
+If you have questions or complaints regarding this Statement, you should first write us at [contact@mnn.com](mailto:contact@mnn.com) with any questions or concerns. All customer requests will be formally reviewed by our staff.
 
 Chief Privacy Officer
 
@@ -86,4 +86,4 @@ Atlanta, GA  30303
 
 Terms of Use
 
-Note also that your use of the Website is subject to our  _[Terms of Use](http://www.mnn.com/terms-conditions-0)_.
+Note also that your use of the Website is subject to our [Terms of Use](http://www.mnn.com/terms-conditions-0).
