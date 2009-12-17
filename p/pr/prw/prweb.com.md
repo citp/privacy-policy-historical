@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526172036id_/http%3A//www.prweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217051639id_/http%3A//www.prweb.com/pr/privacy.html) for the most accurate reproduction.*
 
-# PRWeb :: Privacy Policy
+# Press Release Distribution Online - PRWeb
 
 This is the website of Vocus PRW Holdings, LLC d/b/a PRWeb ("PRWeb").
 
@@ -37,4 +37,4 @@ With respect to security, we employ industry-standard encryption technologies wh
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change in the future, we will post the policy changes to our website to notify you and provide you with the ability to opt out of these new uses. To keep up-to-date with PRWeb™'s policy, please check this page periodically.
 
 **Contacting the Website:**  
-If you feel that this site is not following its stated information policy, you may contact us by sending us an email at the address above. 
+If you feel that this site is not following its stated information policy, you may contact us by sending us an email at <https://console.prweb.com/prweb/support/index.php>. 
