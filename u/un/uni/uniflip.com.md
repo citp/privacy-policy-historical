@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniflip.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618163648id_/http%3A//www.uniflip.com/fortrolighed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniflip.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235504id_/http%3A//www.uniflip.com/fortrolighed) for the most accurate reproduction.*
 
 # Privacy for UniFlip flipping Docs
 
