@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174147id_/http%3A//www.ryanseacrest.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217091551id_/http%3A//www.ryanseacrest.com/privacypolicy) for the most accurate reproduction.*
 
-# Official Web Site for Ryan Seacrest
+# Ryan Seacrest | Entertainment News, On-Air Recaps & Ryan News
 
 ### This Privacy Policy was last updated on October 13, 2008
 
