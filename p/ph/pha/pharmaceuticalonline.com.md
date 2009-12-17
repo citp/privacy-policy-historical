@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219174343id_/http%3A//www.pharmaceuticalonline.com/content/Membership/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmaceuticalonline.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217182116id_/http%3A//www.pharmaceuticalonline.com/Static.mvc/Privacy) for the most accurate reproduction.*
 
-# M E M B E R S H I P R E G I S T R A T I O N
+# Pharmaceutical Online:Sourcing for Pharmaceutical Manufacturing, Pharmaceutical Contract Manufacturing
 
 **PRIVACY STATEMENT**  
 Your privacy on the Internet is important to us. Because we gather certain types of information about the users of VertMarkets' network of sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
