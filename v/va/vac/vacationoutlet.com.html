@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616172801id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217094848id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -59,225 +59,31 @@
 			//alert(event_name);
 		return true;
     }
+    function CallTracker(cat, cat2, value)
+    {
+    		pageTracker._trackEvent(cat, cat2, value);
+			//alert(event_name);
+		return true;
+    }
     
-// this function gets the destination name the user changes to in the widget on the results page and sends it to GA
-function getValueDropdown(formName)
-{
-	
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.places.options[formDOM.places.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Destination/" + dropValue);
-	
-}
-
-
-// this function gets the amount of days out the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown2(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.month.options[formDOM.month.selectedIndex].value;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-	
-var day1, day2;
-var month1, month2;
-var year1, year2;
-var value1, value2;
-var date1, date2;
-var firstDate, secondDate;
-var msPerDay, dbd;
-
-value1 = dropValue;
-value2 = new Date();
-
-day1 = value1.substring (0, value1.indexOf ("/"));
-month1 = value1.substring (value1.indexOf ("/")+1, value1.lastIndexOf ("/"));
-year1 = value1.substring (value1.lastIndexOf ("/")+1, value1.length);
-
-day2 = value2.getUTCDate();
-month2 = value2.getUTCMonth() + 1;
-year2 = value2.getUTCFullYear();
-
-date1 = year1+"/"+day1+"/"+month1;
-date2 = year2+"/"+month2+"/"+day2;
-
-firstDate = Date.parse(date1);
-secondDate= Date.parse(date2);
-
-msPerDay = 24 * 60 * 60 * 1000;
-dbd = Math.round((firstDate.valueOf()-secondDate.valueOf())/ msPerDay);
-
-CallUrchin("/UserEvents/SearchResults/" + refineName + "/DepartureWindowDays/" + dbd);
-
-}
-
-// this function gets the cruiseline the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown3(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.c.options[formDOM.c.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/CruiseLine/" + dropValue);
-}
-
-// this function gets the vessel the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown4(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.v.options[formDOM.v.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Vessel/" + dropValue);
-}
-
-// this function gets the cruise length the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown5(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.days.options[formDOM.days.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Length/" + dropValue);
-}
-
-
-// this function gets the port the user free types in the chaser widget on the results page and sends it to GA
-
-function getValueDropdown6(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.port.value;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Port/" + dropValue);
-}
-
-// this function gets the senior choice the user chooses in the chaser widget on the results page and sends it to GA
-
-function getValueDropdown7(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.IncludeSeniorRates.options[formDOM.IncludeSeniorRates.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Senior/" + dropValue);
-}
-
-// this function gets the alumni choice (yes or no, not the values) the user chooses in the chaser widget on the results page and sends it to GA
-
-function getValueDropdown8(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.IncludeAlumniRates.options[formDOM.IncludeAlumniRates.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Alumni/" + dropValue);
-}
-
-</script>
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
     
+ </script>  
 
 
 
-        
-             
+
+
+
+
+
+
+
+
+
+
+	
+
+
 
 
 
@@ -296,7 +102,7 @@ function getValueDropdown8(formName)
 
 
 <!--
-	server and timestamp info:blweb16:Tue Jun 16 13:20:20 EDT 2009
+	server and timestamp info:blweb12:Thu Dec 17 04:48:30 EST 2009
   -->
 	
 
@@ -310,43 +116,43 @@ function getValueDropdown8(formName)
 <style type="text/css" media="all">
 img{border: 0;}
 </style>
+<div align="center">
 
+	<div id="VO_header_container">
+			<div id="vo_header_top">
+				<div id="vo_header_logo"><a href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header/logo_cruise.gif" width="240" height="45" border="0" alt="Vacation Outlet Cruises"></a></div>
+								
+					<div id="vo_header_phone"><img src="/images_unique/vo/header/header_phone.gif" border="0" alt="Vacation Outlet 1-800-TAKE-OFF" width="237" height="37"><br>
+						<div class="vo_header_ph_links"><a href="/cs/default.asp" class="whitelink">Make a Payment</a> | <a href="/cs/default.asp" class="whitelink">Customer Service</a> | <a href="/vo-sitemap.asp" class="whitelink">Sitemap</a></div>
+					</div>
+		
+		</div>			
+	
+		<div style="clear:both"></div>
+			<div id="VO_header_bottom">
+			
+				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/header/tab_home-off.gif" border="0" width="55" height="41" alt="Vacation Outlet Home"></a></div>
+				<div class="navButtonon"><a href="http://www.vacationoutlet.com/cruises/default.asp"><img src="/images_unique/vo/header/tab_cruise-on.gif" width="73" height="41" border="0" alt="Vacation Outlet Cruises"></a></div>
+				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/packages/default.asp"><img src="/images_unique/vo/header/tab_vaca-off.gif" width="144" height="41" border="0" alt="Vacation Outlet Vacation Packages"></a></div>
+				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/hotels/default.asp"><img src="/images_unique/vo/header/tab_hotel-off.gif" width="66" height="41" border="0" alt="Vacation Outlet Hotels"></a></div>				
+				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/default.asp"><img src="/images_unique/vo/header/tab_boston-off.gif" width="202" height="41" border="0" alt="Vacation Outlet Boston Vacations"></a></div>
+				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp"><img src="/images_unique/vo/header/tab_car-off.gif" width="101" height="41" border="0" alt="Vacation Outlet Car Rentals"></a></div>
+				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/lm/default.asp"><img src="/images_unique/vo/header/tab_lm-off.gif" width="139" height="41" border="0" alt="Vacation Outlet Last Minute Deals"></a></div>
+			
+			</div>	
+			<div class="clear-both"></div>
+	</div>
 	<div class="clear"></div>
-	<center>
-	<div align="center" style="width:780px;">
-			
-		<div id="VO_header_container">
-				<div id="vo_header_top">
-					<div id="vo_header_logo"><a href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header/logo_cruise.gif" width="240" height="45" border="0" alt="Vacation Outlet Cruises"></a></div>
-									
-						<div id="vo_header_phone"><img src="/images_unique/vo/header/header_phone.gif" border="0" alt="Vacation Outlet 1-800-TAKE-OFF" width="237" height="37"><br>
-							<div class="vo_header_ph_links"><a href="/cs/default.asp" class="whitelink">Make a Payment</a> | <a href="/cs/default.asp" class="whitelink">Customer Service</a> | <a href="/vo-sitemap.asp" class="whitelink">Sitemap</a></div>
-						</div>
-			
-				</div>
+	
+		
 
-				<div style="clear:both"></div>
-				<div id="VO_header_bottom">
-					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/header/tab_home-off.gif" border="0" alt="Vacation Outlet Home"></a></div>
-					<div class="navButtonon"><a href="http://www.vacationoutlet.com/cruises/default.asp"><img src="/images_unique/vo/header/tab_cruise-on.gif" border="0" alt="Vacation Outlet Cruises"></a></div>
-					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/packages/default.asp"><img src="/images_unique/vo/header/tab_vaca-off.gif" border="0" alt="Vacation Outlet Vacation Packages"></a></div>
-					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/default.asp"><img src="/images_unique/vo/header/tab_boston-off.gif" width="217" height="41" border="0" alt="Vacation Outlet Boston Vacations"></a></div>
-					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp"><img src="/images_unique/vo/header/tab_car-off.gif" border="0" alt="Vacation Outlet Car Rentals"></a></div>
-					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/lm/default.asp"><img src="/images_unique/vo/header/tab_lm-off.gif" border="0" alt="Vacation Outlet Last Minute Deals"></a></div>
-				</div>	
-				<div class="clear-both"></div>
-		</div> 
-		<div class="clear"></div>
-		<div style="background-color:#ffffff;">	     
+	
 
 
 
 
 
-
-<div><script language="javascript">
-
-</script>
+<div>
 
 <table width="780" cellspacing="0" cellpadding="0" border="0" align="center" class="bodybgcolor">
 	<tbody>
@@ -506,7 +312,7 @@ img{border: 0;}
 	</tbody>
 </table>
 </div>
-</div>
+
 <div class="clearfloats">
 
 
@@ -520,15 +326,32 @@ img{border: 0;}
 </div>
 </div>
 <center>
-	<link rel="stylesheet" type="text/css" href="/vomaps/footer.css">	
+	<link rel="stylesheet" type="text/css" href="/vomaps/footer.css">
+	
 	<div id="crosslinks"> 
-		<a href="http://www.vacationoutlet.com/promotion/vo/aruba/default.asp" class="footerlinks">Aruba Vacations</a> | 
+	
+	
+		<a href="http://www.vacationoutlet.com/cs/default.asp"><img src="/images_unique/cs_v4.gif" alt="Cruise Customer Service" border="0"></a><br><br>
+
+		<a href="http://www.vacationoutlet.com/promotion/vo/all-inclusive-vacations.asp" class="footerlinks">All-Inclusive Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/aruba/default.asp" class="footerlinks">Aruba Vacations</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/bermuda-vacations.asp" class="footerlinks">Bermuda Vacations</a> |  
+		<a href="http://www.vacationoutlet.com/promotion/vo/disney/default.asp" class="footerlinks">Disney Vacations</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/florida/default.asp" class="footerlinks">Florida Vacations</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/jamaica/default.asp" class="footerlinks">Jamaica Vacations</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/last_minute_vac/default.asp" class="footerlinks">Last-Minute Vacations</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/mexico/default.asp" class="footerlinks">Mexico Vacations</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/vegas/default.asp" class="footerlinks">Las Vegas Vacations</a><br><br>
-		
+		<a href="http://www.vacationoutlet.com/promotion/vo/last_minute_vac/default.asp" class="footerlinks">Last-Minute Vacations</a><br> 
+		<a href="http://www.vacationoutlet.com/promotion/vo/vegas/default.asp" class="footerlinks">Las Vegas Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/mexico/default.asp" class="footerlinks">Mexico Vacations</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/tropical-beach-vacations.asp" class="footerlinks">Tropical Beach Vacations</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/california-Hotels.asp" class="footerlinks">California Hotels</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/condos-hotels.asp" class="footerlinks">Condos</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/florida-hotels.asp" class="footerlinks">Florida Hotels</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/vegas-hotels.asp" class="footerlinks">Las Vegas Hotels</a><br> 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/new-york-hotels.asp" class="footerlinks">New York Hotels</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/orlando-hotels.asp" class="footerlinks">Orlando Hotels</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/ski-hotels.asp" class="footerlinks">Ski Condos &amp; Hotels</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/city-hotels.asp" class="footerlinks">U.S. City Hotels</a><br><br>
+	
 		<a href="http://www.vacationoutlet.com/c/cruisemain.asp" class="footerlinks">Cruise Lines</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/aza_ten/default.asp" class="footerlinks">Azamara Cruises</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/ccl_ten/default.asp" class="footerlinks">Carnival Cruise Line</a> | 
@@ -536,12 +359,12 @@ img{border: 0;}
 		<a href="http://www.vacationoutlet.com/promotion/vo/cos_ten/default.asp" class="footerlinks">Costa Cruises</a> | 
 		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=17" class="footerlinks">Crystal Cruises</a> | 
 		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=18" class="footerlinks">Cunard Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=20" class="smlink">Disney Cruises</a><br>
+		<a href="http://www.vacationoutlet.com/promotion/vo/disney/cruises.asp" class="smlink">Disney Cruise Line</a><br>
 		<a href="http://www.vacationoutlet.com/promotion/vo/hal_ten/default.asp" class="footerlinks">Holland America Cruises</a> |
 		<a href="http://www.vacationoutlet.com/promotion/vo/msc_ten/default.asp" class="footerlinks">MSC Cruises</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/ncl_ten/default.asp" class="footerlinks">Norwegian Cruise Line</a> | 
 		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=67" class="smlink">Oceania Cruises</a> |
-		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=40" class="smlink">Princess Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/pcl_ten/default.asp" class="smlink">Princess Cruises</a> |
 		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=41" class="smlink">Regent Cruises</a> |
 		<a href="http://www.vacationoutlet.com/promotion/vo/rci_ten/default.asp" class="footerlinks">Royal Caribbean</a><br>
 		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=48" class="smlink">Seabourn Cruises</a> |
@@ -552,17 +375,24 @@ img{border: 0;}
 
 		<a href="http://www.vacationoutlet.com/promotion/vo/alaska/default.asp" class="footerlinks">Alaska Cruises</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/bahamas/bahamas-cruises.asp" class="footerlinks">Bahamas Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/bermuda/default.asp" class="footerlinks">Bermuda Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/bermuda/default.asp" class="footerlinks">Bermuda Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/newengland/default.asp" class="footerlinks">Canada/New England Cruises</a> |  
 		<a href="http://www.vacationoutlet.com/promotion/vo/caribbean/default.asp" class="footerlinks">Caribbean Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/home2/default.asp" class="footerlinks">Close to Home Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/cdefault.asp" class="footerlinks">Cruise from Boston</a> | 
-		<a href="http://www.vacationoutlet.com/p/c/cruisefromNY" class="footerlinks">Cruise from NY</a><br> 
-		<a href="http://www.vacationoutlet.com/promotion/vo/disney/cruises.asp" class="footerlinks">Disney Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/europe/default.asp" class="footerlinks">Europe Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/specials/cheapcruises.asp" class="footerlinks">Cheap Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/home2/default.asp" class="footerlinks">Close to Home Cruises</a><br>
+		<a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/cdefault.asp" class="footerlinks">Cruise from Boston</a> |
+		
+		<a href="http://www.vacationoutlet.com/promotion/vo/newyork/cruise-from-ny.asp" class="footerlinks">Cruise from NY</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/europe/default.asp" class="footerlinks">European Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/family/cdefault.asp" class="footerlinks">Family Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/glbt/default.asp" class="footerlinks">Gay &amp; Lesbian Cruises</a> | 
 		<a href="http://www.vacationoutlet.com/groups/default.asp" class="footerlinks">Group Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/holiday/default.asp" class="footerlinks">Holiday Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/lastminute/default.asp" class="footerlinks">Last-Minute Cruises</a> | 
-		<a href="http://www.vacationoutlet.com/shoretours/default.asp" class="footerlinks">Shore Excursions</a>
+		<a href="http://www.vacationoutlet.com/promotion/vo/holiday/default.asp" class="footerlinks">Holiday Cruises</a><br> 
+		<a href="http://www.vacationoutlet.com/promotion/lastminutecruises/lastminutecruises.asp" class="footerlinks">Last-Minute Cruises</a> | 
+		
+		<a href="http://www.vacationoutlet.com/promotion/vo/mexicocru/default.asp" class="footerlinks">Mexico Cruises</a> |
+		<a href="http://www.portpromotions.com/vacationoutlet/" class="footerlinks">Shore Excursions</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/weekendcruises.asp" class="footerlinks">Weekend Cruises</a>
 	</div>
 	
 	<div id="footerNav">
@@ -577,13 +407,20 @@ img{border: 0;}
 		resorts, hotels, and cruise lines.<br>
 		© 2009 Vacation Outlet is a registered trademark of WTH/NLG.  All rights 
 		reserved.  <a href="http://www.vacationoutlet.com/cs/sellerinfo.asp" class="footerlinks">Seller of Travel Info</a><br><br>
-	</div>	
+	</div>
+	
 	
 	</center>
 
 
 
-<div id="crosslinks"><br>
+	
+
+
+<div align="center">
+<div style="text-align:center;">
+
+<div id="crosslinks" style="width:100% !important;"><br>
 <a href="http://www.worldtravelholdings.com/" target="blank" class="smlink">World Travel Holdings</a> Brand Sites <br>
 <!--<a href="http://www.creativeleisure.com" target="blank" class="smlink">CreativeLeisure.com</a> | -->
 	
@@ -602,9 +439,10 @@ img{border: 0;}
 <br>
 
 </div>
+</div>
+</div>
 
 
-<iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
 <div style="visibility:hidden">
 <table>
@@ -618,4 +456,4 @@ img{border: 0;}
 
 
 
-</center></body></html>
+</body></html>
