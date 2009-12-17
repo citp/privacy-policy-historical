@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquepeek.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408180705id_/http%3A//www.uniquepeek.com/viewpage.php%3Fpage_id%3D696) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquepeek.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217150501id_/http%3A//www.uniquepeek.com/viewpage.php%3Fpage_id%3D696) for the most accurate reproduction.*
 
 # UniquePeek.com
 
