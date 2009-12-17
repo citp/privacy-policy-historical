@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcanmakethis.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618093241id_/http%3A//youcanmakethis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcanmakethis.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217233332id_/http%3A//www.youcanmakethis.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | YouCanMakeThis.com
 
