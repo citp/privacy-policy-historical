@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidealmeal.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184215id_/http%3A//www.theidealmeal.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidealmeal.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217081631id_/http%3A//www.theidealmeal.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
 
 # Restaurant.com — The Ideal Meal
 
@@ -98,7 +98,8 @@ Restaurant.com
 Arlington Heights, Illinois 60004 
 
 **Phone**  
-(800) 979-8985 Toll-free 
+Just call toll free: 1-800-979-8985.  
+
 
 **For Customers**  
 Customer Service Inquiries | [info@restaurant.com](mailto:info@restaurant.com)
