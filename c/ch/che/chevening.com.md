@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevening.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616193726id_/http%3A//www.chevening.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevening.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217135159id_/http%3A//www.chevening.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Chevening.com
 
