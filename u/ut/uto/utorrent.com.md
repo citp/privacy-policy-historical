@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527200325id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217072803id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - µTorrent - The Lightweight and Efficient BitTorrent Client
+# Privacy Policy - µTorrent - a (very) tiny BitTorrent client
 
 [utorrent.com](http://utorrent.com/) and various software applications and services provided through the [utorrent.com](http://utorrent.com/) website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
 
