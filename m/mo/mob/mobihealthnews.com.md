@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610162225id_/http%3A//mobihealthnews.com/%3Fpage_id%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217060555id_/http%3A//mobihealthnews.com/%3Fpage_id%3D19) for the most accurate reproduction.*
 
-# Chester Street Publishing, Inc. - Privacy Policy | mobihealthnews
+# Chester Street Publishing, Inc. – Privacy Policy | mobihealthnews
 
 By visiting any of the websites owned and operated by Chester Street Publishing, Inc. (”Chester Street” or “the Company”), submitting information or using any of Chester Street’s services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy covers Chester Street’s treatment of personally identifiable information (”Personal Information”) that Chester Street gathers when you access any of Chester Street’s Sites and when you use Chester Street services or register for events provided by Chester Street. This Privacy Policy also covers Chester Street’s treatment of any Personal Information that Chester Street’s business partners share with Chester Street.
 
