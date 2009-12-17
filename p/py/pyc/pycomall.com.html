@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the pycomall.com privacy policy that was archived on 2009-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090520024725id_/http%3A//www.pycomall.com/pages.php%3Fpageid%3D13) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pycomall.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217053902id_/http%3A//www.pycomall.com/pages.php%3Fpageid%3D13) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>Privacy Policy&nbsp;::&nbsp;Pycomall</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta http-equiv="Content-Script-Type" content="text/javascript">
   <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	<meta name="description" content="Pycomall is the easiest place to buy or sell digital contents. As a Customer, you can purchase 3D Models, Flash Sources, Web Templates, Vector Art, Logos, Icons, Art Sources, Ebook, Mobile Contents, Software or any type of digital content. As a Content Provider, you can publish your digital content and make money. ">
 	<meta name="keywords" content="pycomall, 3d models, flash sources, web templates, vector art, logos, icons, art sources, ebook, mobile contents, software, download, affiliate, partner, paypal">
 	<script type="text/javascript">
@@ -19,6 +20,9 @@ var images_dir = "/skin1/images";
 var lbl_no_items_have_been_selected = 'No items have been selected';
 var current_area = 'C';
 var currency_format = "$x";
+var lbl_product_minquantity_error = "Sorry, the minimum order quantity for this product is {{min}}.";
+var lbl_product_maxquantity_error = "Sorry, the maximum order quantity for this product is {{max}}.";
+var lbl_product_quantity_type_error = "You can specify a number from {{min}} to {{max}}.";
 -->
 	</script>
 	<script type="text/javascript" src="/skin1/common.js"></script>
@@ -114,7 +118,7 @@ if (/mozilla/.test(navigator.userAgent.toLowerCase()) && !/(compatible|webkit)/.
   <div class="content">
     
   <form action="http://www.pycomall.com/include/login.php" method="post" name="authform" class="item">
-    <input type="hidden" name="xid" value="d46a0815e55d74bdaca52949e66d85c9">
+    <input type="hidden" name="xid" value="5fa94267352ed3bf1f2c689c15c108ea">
     
       <input type="hidden" name="mode" value="login">
       <input type="hidden" name="usertype" value="C">
@@ -135,7 +139,7 @@ if (/mozilla/.test(navigator.userAgent.toLowerCase()) && !/(compatible|webkit)/.
         
     
               <div class="button menu-button" title="Register" onclick="javascript: self.location = 'register.php'; if (event) event.cancelBubble = true;">
-    <a href="register.php">Register</a>
+    <a href="register.php" onclick="javascript: if (event) event.cancelBubble = true;">Register</a>
   </div>
         <div class="clearing"></div>
       </div>
@@ -252,9 +256,9 @@ google_ad_height = 600;
 
 <div style="height:10px; width:10px"></div>
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="160" height="200">
-  <param name="movie" value="http://www.pycomall.com/images/banners/banner_160x200.swf">
+  <param name="movie" value="http://www.pycomall.com/images/banners/banner_loader.swf">
   <param name="quality" value="high">
-  <embed src="http://www.pycomall.com/images/banners/banner_160x200.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="200">
+  <embed src="http://www.pycomall.com/images/banners/banner_loader.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="200">
 </object>
 <div style="height:10px; width:10px"></div>
 
@@ -278,7 +282,6 @@ google_ad_height = 600;
 		<div id="header">
       <div class="line1" style="background-color:#F6F6F6" align="center">
 <div align="left" style="width:1000px;">
-	<div class="logo"><a href="http://www.pycomall.com/home.php"><img src="/skin1/images/logo.gif" alt="Pycomall - Buy sell digital products"></a></div>
 
   
 	</div>
@@ -286,7 +289,8 @@ google_ad_height = 600;
 
 <div class="line2">
   <div class="valign-middle menu">
-<a href="home.php">Home</a>  &nbsp; | &nbsp;   <a href="cart.php">Shopping Cart</a>  &nbsp; | &nbsp;   <a href="pages.php?pageid=8">Become a Provider</a>  &nbsp; | &nbsp;   <a href="pages.php?pageid=7">Affiliates</a>  &nbsp; | &nbsp;   <a href="pages.php?pageid=10">Freelance</a></div>
+<div style="float:left"><a href="http://www.pycomall.com/home.php"><img src="/skin1/images/pyco-logo.gif" alt="Pycomall - Buy sell digital products"></a></div>
+ &nbsp;   <a href="cart.php">Shopping Cart</a>  &nbsp; | &nbsp;   <a href="pages.php?pageid=8">Become a Provider</a>  &nbsp; | &nbsp;   <a href="pages.php?pageid=7">Affiliates</a>  &nbsp; | &nbsp;   <a href="pages.php?pageid=10">Freelance</a></div>
     <div class="search">
       <div class="valign-middle" align="right">
         <form method="post" action="search.php" name="productsearchform">
@@ -326,9 +330,10 @@ google_ad_height = 600;
 <div>
   <div class="box">
     <div class="subbox">
-      <div class="left"><a href="http://www.pycomall.com/pages.php?pageid=14" class="Bottom">About Us</a> • <a href="http://www.pycomall.com/help.php?section=contactus&amp;mode=update" class="Bottom">Contact us</a> • <a href="http://www.pycomall.com/pages.php?pageid=16" class="Bottom">Terms &amp; Conditions</a> • <a href="http://www.pycomall.com/pages.php?pageid=13" class="Bottom">Privacy Policy</a> • <a href="http://www.pycomall.com/pages.php?pageid=15" class="Bottom">FAQ</a> • <a href="http://www.pycomall.com/pages.php?pageid=9" class="Bottom">Partner</a> • <a href="http://www.pycomall.com/catalog/index.html" class="Bottom">Catalog</a> <br>
+	<div class="left"><a href="http://www.pycomall.com/"><img src="/skin1/images/footer-logo.gif" alt="Pay safe with Pycomall" border="0"></a></div>
+      <div class="left"><a href="http://www.pycomall.com/pages.php?pageid=14" class="Bottom">About Us</a> • <a href="http://www.pycomall.com/help.php?section=contactus&amp;mode=update" class="Bottom">Contact us</a> • <a href="http://www.pycomall.com/pages.php?pageid=16" class="Bottom">Terms &amp; Conditions</a> • <a href="http://www.pycomall.com/pages.php?pageid=13" class="Bottom">Privacy Policy</a> • <a href="http://www.pycomall.com/pages.php?pageid=15" class="Bottom">FAQ</a> • <a href="http://www.pycomall.com/pages.php?pageid=18" class="Bottom"><b>Earth Conservation</b></a> • <a href="http://www.pycomall.com/catalog/index.html" class="Bottom">Catalog</a> <br>
         <br>
-        Copyright © 2006-2009 Pycomall.   Optimize design by webz.pycomall.com
+        Copyright © 2006-2009 Pycomall.   Optimize design by <a href="http://webz.pycomall.com">webz.pycomall.com</a>
       </div>
       <div class="right"><img src="/skin1/images/paypal.gif" alt="Pay safe with Paypal"></div>
     </div>
