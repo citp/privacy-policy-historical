@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140949id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235130id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,7 @@ We want to protect your privacy. In order to operate, our web sites and business
 
 ### Personally Identifiable Information Collected
 
-Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number.  
-We collect certain types of personal information when you register for an event, a webcast or a newsletter. This information may include:
+Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number. We collect certain types of personal information when you register for an event, a webcast or a newsletter. This information may include:
 
   * your name
   * your title
@@ -31,7 +30,7 @@ A web beacon does not personally identify you. It is simply a way to automatical
 
 Cookies and web beacons allows us to understand things such as whether a particular web browser is spending much time on our sites, visiting several times per month and other types of analysis.
 
-If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don’t know the actual person linked with the cookie.
+If you never provide us with personally identifiable information, then your visits – despite us using cookies or web beacons – are anonymous. We don’t know the actual person linked with the cookie.
 
 It’s like having a library card but never having to provide your name, address or phone number to check out books. The books are checked out by someone using a particular library card number, but who owns that number isn’t known.
 
@@ -58,6 +57,7 @@ Your personally identifiable information will only be shared with other companie
 
   * We have asked for and you have given your consent to share the information with advertisers, exhibitors and sponsors for a specific service.
   * We need to provide it to other companies in order to deliver the services you want from us, such as having an email list sent out or to process your event order. In these cases, the information is used only for the specific service you wanted from us.
+  * You allow your badge to be scanned at Search Marketing Expo conference.
 
 
 
@@ -70,21 +70,3 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 ### Policy Changes, Questions & Comments
 
 We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](https://web.archive.org/contact "Contact Us") or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
-
-### Search SMN
-
-## SMN News & Notices
-
-Be notified of new webcasts when they're available! Enter your email address below:
-
-[](http://feeds.searchmarketingnow.com/smnow)  Or be notified via [RSS](http://feeds.searchmarketingnow.com/smnow)
-
-### Track Us Socially
-
-## Sponsor Opportunities
-
-Interested in sponsoring a webcast or whitepaper? [Contact](https://web.archive.org/sales) Sean Moriarty for details.
-
-### Search Marketing Resources
-
-[](http://searchmarketingexpo.com/)    [](http://sphinn.com/) [](http://searchengineland.com/)
