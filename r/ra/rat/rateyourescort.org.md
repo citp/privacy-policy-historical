@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rateyourescort.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626152010id_/http%3A//www.rateyourescort.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateyourescort.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217183300id_/http%3A//www.rateyourescort.org/privacy.php) for the most accurate reproduction.*
 
 # Rate Your Escort | Privacy And Policy
 
-#### Privacy Policy 
+#### Terms and FAQ
 
 A. My picture/ad is online and I was not aware of it? **  
 ** We can't determinte the true identity of posters. If there is any personal information/picture that is publicly available without your consent, we reserve the right to remove this information as soon as we can. If this is ever the case, volunteer administrators will do the best to satisfy such requests at shortest time possible. 
@@ -42,10 +42,13 @@ G. What are the limits of your Privacy Policy?
 The _Rate Your Escort_ Web site contains hyperlinks and advertisements that, if activated in the manner provided by your browser, will cause your browser to access and display the contents of other Web sites. _Rate Your Escort_ does not control or have any knowledge concerning the provisions of the privacy policies, if any, of those sites. Accordingly, _Rate Your Escort_ is not responsible for the privacy practices or any of the content of those Web sites and _Rate Your Escort's_ Privacy Policy does not apply to those other sites. If you choose to activate a hyperlink to another Web site, you do so at your own risk and you may wish to review that site’s privacy policy.   
   
 H. How do I opt-out of your communication lists? **  
-**As mentioned previously, _Rate Your Escort_ provides users the opportunity to opt-out of receiving communications from us and our partners during the registration process. Users can also remove themselves from our e-mailing list by writing to us at info@rateyourescort.org. 
+**As mentioned previously, _Rate Your Escort_ provides users the opportunity to opt-out of receiving communications from us and our partners during the registration process. Users can also remove themselves from our e-mailing list by [writting to us](https://web.archive.org/contactus.php). 
 
 **I. What if I have more questions?   
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an e-mail to info@rateyourescort. 
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/conactus.php). 
 
 J. How can I be sure that you adhere to your Privacy Policy? **  
-**If for any reason you believe that _Rate Your Escort_ has not adhered to the principles contained in this Privacy Policy, please notify us at info@rateyourescort. We will do our best to address your concerns and to confirm and correct the problem promptly. 
+**If for any reason you believe that _Rate Your Escort_ has not adhered to the principles contained in this Privacy Policy, please [notify us](https://web.archive.org/contactus.php). We will do our best to address your concerns and to confirm and correct the problem promptly. 
+
+K. How can I disable my profile  
+When you sign up, you agree that you will be responsible for your own profile. By logging in to our site, you can disable your ad, update personal information, and therefore you won't require our help. We will gladly help, but we currently don't have the resources to manage this site every working day. If there are any problems, you may [contact us](https://web.archive.org/contactus.php). We will answer all the emails in the order that they are received, and as soon as we can.
