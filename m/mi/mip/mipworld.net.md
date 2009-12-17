@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mipworld.net privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414042600id_/http%3A//www.mipworld.com/en/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipworld.net privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217204200id_/http%3A//www.mipworld.com/en/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - MIPWORLD
 
-Welcome to Reed MIDEM’s website [www.mipworld.com](https://web.archive.org/web/20090414042600id_/http://www.mipworld.com/) (hereafter: the “Portal”).
+Welcome to Reed MIDEM’s website [www.mipworld.com](http://www.mipworld.com/) (hereafter: the “Portal”).
 
 Since 1994, Reed MIDEM, member of the Reed Exhibitions group, has been offering Internet services and secure Websites (hereinafter called "the Sites") which are user-friendly and respectful of their users' rights.
 
-We undertake to respect the privacy of users of these Sites and in particular the Portal. We have consequently prepared this Data Protection Notice (hereafter: the “Privacy Policy”) to explain the nature of the information gathered on the Portal when you visit them, and the ways in which it may be used.
+We undertake to respect the privacy of users of these Sites and in particular the Portal. We have consequently prepared this Data Protection Notice (hereafter: the "Privacy Policy") to explain the nature of the information gathered on the Portal when you visit them, and the ways in which it may be used.
 
- **1\. GENERALITY**  
+**1\. GENERALITY**  
 Reed MIDEM respects the privacy of every individual who visits the Portal, and all other Sites owned, operated or maintained directly or indirectly by Reed MIDEM.
 
 Reed MIDEM hereby informs you on the terms and conditions under which data that we collect from you on the Portal will be used, shared and otherwise treated. This Privacy Policy will also instruct you on how you can verify the accuracy, and control certain uses, of the information you provide to us on the Portal. Reed MIDEM abides by the constraining French and European rules in terms of protection of personal data and privacy. Personal data processing carried out by Reed MIDEM in the framework of the Portal were notified to the French Data Protection Authority, the CNIL ([www.cnil.fr](http://www.cnil.fr/)).
