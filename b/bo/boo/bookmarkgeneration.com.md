@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkgeneration.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193801id_/http%3A//www.bookmarkgeneration.com/member/member/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkgeneration.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218001741id_/http%3A//www.bookmarkgeneration.com/member/member/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmark Generation
 
