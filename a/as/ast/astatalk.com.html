@@ -1,0 +1,222 @@
+<!--The following is the downloaded HTML source of the astatalk.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217014111id_/http%3A//astatalk.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>Astatalk - Privacy Policy</title>  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <script language="javascript" type="text/javascript" src="/js/jquery-1.2.3.js"></script>
+  <link rel="stylesheet" type="text/css" href="/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+
+  <link rel="icon" href="/favicon.gif">
+</head>
+
+<body><div id="header">
+  <table class="c">
+    <tbody><tr>
+      <td class="logo">
+        <a href="/"><img src="/img/ava50_.jpg" width="50" height="50"></a><br>Astatalk
+        
+        
+      </td>
+	
+      <script language="javascript">
+
+         function where(w)
+         {
+
+         var where_block = $('.where');
+         var categories_block = $('#categories');
+         var include_block = $('#include');
+         var hidden_block = $('#what');
+
+         switch(w)
+         {
+            case 'release':
+               $(where_block).before('<div class="where"><span>Search:</span><strong>Release</strong>|<a href="javascript: where(\'request\')">Request</a>|<a href="javascript: where(\'thread\')">Thread</a>|<a href="javascript: where(\'all\')">All</a>|<a href="javascript: where(\'old\')">Old forum</a></div>').remove();
+               $('#form_id').attr('action','/search/index');
+               $('#form_id').attr('method','post');
+               $('.search-line').attr('name','q');
+               $(categories_block)
+               .before('<div id="categories" class="categories"><strong>Categories:</strong> \
+				<span><input type="checkbox" name="category[]" value="3"  /> Applications</span> <span><input type="checkbox" name="category[]" value="13"  /> OS Support</span> <span><input type="checkbox" name="category[]" value="8"  /> Cracks / Serials</span> <span><input type="checkbox" name="category[]" value="9"  /> Games</span> <span><input type="checkbox" name="category[]" value="2"  /> Video</span> <span><input type="checkbox" name="category[]" value="4"  /> Audio</span> <span><input type="checkbox" name="category[]" value="15"  /> Torrents</span> <span><input type="checkbox" name="category[]" value="6"  /> Graphics</span> <span><input type="checkbox" name="category[]" value="5"  /> Text</span> <span><input type="checkbox" name="category[]" value="10"  /> Mobile / PDA</span> <span><input type="checkbox" name="category[]" value="11"  /> Web Stuff</span> <span><input type="checkbox" name="category[]" value="12"  /> Cracking</span> <span><input type="checkbox" name="category[]" value="14"  /> Archive</span> ').remove();
+				$(include_block).before('<div class="categories" id="include"><strong>Include:</strong><input type="checkbox" name="include_description" value="description" /> Description<input type="checkbox" name="include_keywords" value="keywords" /> Keywords</div>').remove();
+				$(hidden_block).before('<input type="hidden" name="what" value="release" id="what" />').remove();
+               break;
+            case 'request':
+               $(where_block).before('<div class="where"><span>Search:</span><a href="javascript: where(\'release\');">Release</a>|<strong>Request</strong>|<a href="javascript: where(\'thread\')">Thread</a>|<a href="javascript: where(\'all\')">All</a>|<a href="javascript: where(\'old\')">Old forum</a></div>').remove();
+               $('#form_id').attr('action','/search/index');
+               $('#form_id').attr('method','post');
+               $('.search-line').attr('name','q');
+               $(categories_block)
+               .before('<div id="categories" class="categories"><strong>Categories:</strong> \
+               <span><input type="checkbox" name="category[]" value="3"  /> Applications</span> <span><input type="checkbox" name="category[]" value="13"  /> OS Support</span> <span><input type="checkbox" name="category[]" value="8"  /> Cracks / Serials</span> <span><input type="checkbox" name="category[]" value="9"  /> Games</span> <span><input type="checkbox" name="category[]" value="2"  /> Video</span> <span><input type="checkbox" name="category[]" value="4"  /> Audio</span> <span><input type="checkbox" name="category[]" value="15"  /> Torrents</span> <span><input type="checkbox" name="category[]" value="6"  /> Graphics</span> <span><input type="checkbox" name="category[]" value="5"  /> Text</span> <span><input type="checkbox" name="category[]" value="10"  /> Mobile / PDA</span> <span><input type="checkbox" name="category[]" value="11"  /> Web Stuff</span> <span><input type="checkbox" name="category[]" value="12"  /> Cracking</span> <span><input type="checkbox" name="category[]" value="14"  /> Archive</span> ').remove();
+               $(include_block).before('<div class="categories" id="include"><strong>Include:</strong><input type="checkbox" name="include_description" value="description" /> Description</div>').remove();
+               $(hidden_block).before('<input type="hidden" name="what" value="request" id="what" />').remove();
+               break;
+            case 'thread':
+               $(where_block).before('<div class="where"><span>Search:</span><a href="javascript: where(\'release\')">Release</a>|<a href="javascript: where(\'request\')">Request</a>|<strong>Thread</strong>|<a href="javascript: where(\'all\')">All</a>|<a href="javascript: where(\'old\')">Old forum</a></div>').remove();
+               $('#form_id').attr('action','/search/index');
+               $('#form_id').attr('method','post');
+               $('.search-line').attr('name','q');
+               $(categories_block)
+               .before('<div id="categories" class="categories"><strong>Categories:</strong> \
+               <span><input type="checkbox" name="category[]" value="1"  /> General</span> <span><input type="checkbox" name="category[]" value="3"  /> Applications</span> <span><input type="checkbox" name="category[]" value="13"  /> OS Support</span> <span><input type="checkbox" name="category[]" value="8"  /> Cracks / Serials</span> <span><input type="checkbox" name="category[]" value="9"  /> Games</span> <span><input type="checkbox" name="category[]" value="2"  /> Video</span> <span><input type="checkbox" name="category[]" value="4"  /> Audio</span> <span><input type="checkbox" name="category[]" value="15"  /> Torrents</span> <span><input type="checkbox" name="category[]" value="6"  /> Graphics</span> <span><input type="checkbox" name="category[]" value="5"  /> Text</span> <span><input type="checkbox" name="category[]" value="10"  /> Mobile / PDA</span> <span><input type="checkbox" name="category[]" value="11"  /> Web Stuff</span> <span><input type="checkbox" name="category[]" value="12"  /> Cracking</span> <span><input type="checkbox" name="category[]" value="7"  /> General Talks</span> <span><input type="checkbox" name="category[]" value="14"  /> Archive</span> ').remove();
+               $(include_block).before('<div class="categories" id="include"></div>').remove();
+               $(hidden_block).before('<input type="hidden" name="what" value="thread" id="what" />').remove();
+               break;
+            case 'all':
+               $(where_block).before('<div class="where"><span>Search:</span><a href="javascript: where(\'release\')">Release</a>|<a href="javascript: where(\'request\')">Request</a>|<a href="javascript: where(\'thread\')">Thread</a>|<strong>All</strong>|<a href="javascript: where(\'old\')">Old forum</a></div>').remove();
+               $('#form_id').attr('action','/search/index');
+               $('#form_id').attr('method','post');
+               $('.search-line').attr('name','q');
+               $(categories_block)
+               .before('<div id="categories" class="categories"><strong>Categories:</strong> \
+               <span><input type="checkbox" name="category[]" value="1"  /> General</span> <span><input type="checkbox" name="category[]" value="3"  /> Applications</span> <span><input type="checkbox" name="category[]" value="13"  /> OS Support</span> <span><input type="checkbox" name="category[]" value="8"  /> Cracks / Serials</span> <span><input type="checkbox" name="category[]" value="9"  /> Games</span> <span><input type="checkbox" name="category[]" value="2"  /> Video</span> <span><input type="checkbox" name="category[]" value="4"  /> Audio</span> <span><input type="checkbox" name="category[]" value="15"  /> Torrents</span> <span><input type="checkbox" name="category[]" value="6"  /> Graphics</span> <span><input type="checkbox" name="category[]" value="5"  /> Text</span> <span><input type="checkbox" name="category[]" value="10"  /> Mobile / PDA</span> <span><input type="checkbox" name="category[]" value="11"  /> Web Stuff</span> <span><input type="checkbox" name="category[]" value="12"  /> Cracking</span> <span><input type="checkbox" name="category[]" value="7"  /> General Talks</span> <span><input type="checkbox" name="category[]" value="14"  /> Archive</span> ').remove();
+               $(include_block).before('<div class="categories" id="include"><strong>Include:</strong><input type="checkbox" name="include_description" value="description" /> Description<input type="checkbox" name="include_keywords" value="keywords" /> Keywords</div>').remove();
+               $(hidden_block).before('<input type="hidden" name="what" value="all" id="what" />').remove();
+               break;
+            case 'old':
+            	$(where_block).before('<div class="where"><span>Search:</span><a href="javascript: where(\'release\')">Release</a>|<a href="javascript: where(\'request\')">Request</a>|<a href="javascript: where(\'thread\')">Thread</a>|<a href="javascript: where(\'all\')">All</a>|<strong>Old forum</strong></div>').remove();
+            	$('#form_id').attr('action','/search.php');
+            	$('#form_id').attr('method','get');
+            	$('#what').before('<div id="what"></div>').remove();
+            	$('#categories').before('<div id="categories" class="categories"></div>').remove();
+            	$('#include').before('<div class="categories" id="include"></div>').remove();
+            	$('.search-line').attr('name','search_keywords');
+            	break;
+         }
+
+   
+         }
+      </script>
+
+      <td class="search">
+      	<div class="where">
+      	
+      	
+      	
+      	 
+            <span>Search:</span>
+            <a href="javascript: where('release');">Release</a>|
+            <a href="javascript: where('request');">Request</a>|
+            <a href="javascript: where('thread');">Thread</a>|
+            <strong>All</strong>|
+            <a href="javascript: where('old');">Old forum</a>
+        
+        </div>
+
+        <form action="/search/index" method="post" id="form_id">
+            <div class="form">
+                <span class="grey_input"><input type="text" name="q" value="" class="search-line"></span>
+                <input style="padding: 2px;" type="submit" value="Search" class="but">
+                <input type="hidden" name="what" value="all" id="what">
+            </div>
+            <div class="categories" id="categories">
+                <strong>Categories:</strong>
+                
+                
+                
+                <span><input type="checkbox" name="category[]" value="1"> General</span> <span><input type="checkbox" name="category[]" value="3"> Applications</span> <span><input type="checkbox" name="category[]" value="13"> OS Support</span> <span><input type="checkbox" name="category[]" value="8"> Cracks / Serials</span> <span><input type="checkbox" name="category[]" value="9"> Games</span> <span><input type="checkbox" name="category[]" value="2"> Video</span> <span><input type="checkbox" name="category[]" value="4"> Audio</span> <span><input type="checkbox" name="category[]" value="15"> Torrents</span> <span><input type="checkbox" name="category[]" value="6"> Graphics</span> <span><input type="checkbox" name="category[]" value="5"> Text</span> <span><input type="checkbox" name="category[]" value="10"> Mobile / PDA</span> <span><input type="checkbox" name="category[]" value="11"> Web Stuff</span> <span><input type="checkbox" name="category[]" value="12"> Cracking</span> <span><input type="checkbox" name="category[]" value="7"> General Talks</span> <span><input type="checkbox" name="category[]" value="14"> Archive</span> 
+            </div>
+
+            <div class="categories" id="include">
+                
+                
+                <strong>Include:</strong><input type="checkbox" name="include_description" value="description"> Description
+                
+                
+                <input type="checkbox" name="include_keywords" value="keywords"> Keywords
+            </div>
+          </form>
+
+  
+
+	
+
+	
+	
+	
+
+      </td>
+
+    </tr>   
+   </tbody></table>
+    <div class="topline">
+        <div class="c">
+            <div class="title">
+                <h1>Astatalk Privacy Policy</h1>
+            </div>
+            <div class="menu">
+			<a href="/login/">login</a>|
+
+	<a href="/board/">board</a>|
+	<a href="/community/top/p/1/">community</a>|
+	<a href="/team/list/1/">teams</a>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<div id="content" class="c">
+<p>This Privacy Policy describes how Astatalk.com treat personal information when you use our services.</p>
+<br>
+<b>Personal Information</b>
+<br><br>
+<p>For some activities on Astatalk.com, such as submitting content (collectively referred to as
+"Submissions”), you need an Astatalk.com account. We ask for some personal information when you create
+an account, including your email address and a password, which is used to protect your account from
+unauthorised access.</p> 
+<br>
+<b>Usage Information</b>
+<br><br>
+<p>When you use Astatalk.com, we may record information about your usage of the site. If you are
+logged in, we may associate that information with your Astatalk.com account.</p> 
+
+<p>Some information about your Astatalk.com account will be provided to other users of Astatalk.com.</p>
+<br>
+<b>Submissions</b>
+<br><br>
+<p>Any personal information that you voluntarily disclose online (e.g. your profile page) may be
+collected and used by others.</p> 
+
+<p>If you submit personal information to Astatalk.com, we may use that information to operate,
+maintain and improve the features and functionality of Astatalk.com.</p>
+ 
+<p>We do not use your email address or other personal information to send commercial or marketing
+messages without your consent.</p> 
+
+<p>We may use your email address without further consent for non-marketing or administrative purposes.</p> 
+
+<p>We use cookies to store information so that you will not have to re-enter it during your visit
+or the next time that you visit Astatalk.com and to provide custom, personalised content and information.</p>  
+
+<p>You may also choose to add personal information which may include your name, gender or other
+details, that will be visible to other users on your Astatalk.com account page.</p>
+
+<p>If you have an Astatalk.com account, you may update or correct your personal profile information
+at any time by visiting your account profile page.</p> 
+<br>
+<b>More Information</b>
+<br><br>
+<p>For questions concerning your account and  our privacy practices, send us an email.</p>
+
+</div><div id="footer" class="c">
+    <div class="menu">
+        <a href="/last-releases/">Fresh downloads</a>♠<a href="/board/">Download board</a>♠<a href="/rules/" rel="nofollow">Participation Rules</a>♠<wbr><a href="/faq/" rel="nofollow">FAQ</a>♠<wbr><a href="/contact/" rel="nofollow">Contact</a>♠<wbr><a href="/team/" rel="nofollow">Teams</a>
+        <br><a href="/terms/" rel="nofollow">Terms and Conditions</a>♠<wbr><a href="/privacy-policy/" rel="nofollow">Privacy Policy</a>♠<wbr><a href="/takedown-policy/" rel="nofollow">Takedown Policy</a>♠<wbr><a href="/login/" rel="nofollow">Login</a>♠<wbr><a href="/register/" rel="nofollow">Register</a>♠<wbr><a href="/login-problems/" rel="nofollow">Login problems?</a>♠<a href="/index.php"><wbr>Old forum</a>
+    </div>
+    © 2004—2009 Astatalk.com
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10558584-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>
