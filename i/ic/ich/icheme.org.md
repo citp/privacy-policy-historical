@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icheme.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531184735id_/http%3A//cms.icheme.org/MainWebSite/General2b3b075e.aspx%3FMap%3D189A761EE2DC30F7D784573573B6FF38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icheme.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217212458id_/http%3A//cms.icheme.org/MainWebSite/General2b3b075e.aspx%3FMap%3D189A761EE2DC30F7D784573573B6FF38) for the most accurate reproduction.*
 
 # icheme.org | Privacy Policy
 
@@ -32,7 +32,8 @@ Personal information about you may also be collected from a third party. For exa
 
 
 
-##### Why we collect information 
+#####   
+Why we collect information 
 
 We collect your personal information to enable us to provide various products and services and for the administration of your membership with the Institution.
 
@@ -69,7 +70,7 @@ You can seek access to the personal information we hold about you, by contacting
 
 If you have any questions, comments or would like further information about our privacy and information handling practices, please contact: 
 
-Caroline Smith  
+Justin Blades  
 Institution Of Chemical Engineers  
 Davis Building  
 165 - 189 Railway Terrace  
@@ -79,7 +80,7 @@ United Kingdom
 
 Telephone: + 44 01788 578214  
 Facsimile: + 44 01788 560833  
-Email: [csmith@icheme.org](mailto:csmith@icheme.org)
+Email: [jblades@icheme.org](mailto:jblades@icheme.org)
 
 ##### Unsubscribe Statement
 
@@ -89,7 +90,7 @@ We would stress that your personal data is available only to IChemE and not for 
 
 If you wish to be removed from any of our mailing lists, please contact:
 
-Caroline Smith  
+Justin Blades  
 Institution Of Chemical Engineers  
 Davis Building  
 165 - 189 Railway Terrace  
@@ -99,7 +100,7 @@ United Kingdom
 
 Telephone: + 44 01788 578214  
 Facsimile: + 44 01788 560833  
-Email: [csmith@icheme.org](mailto:csmith@icheme.org)
+Email: [jblades@icheme.org](mailto:jblades@icheme.org)
 
   
- [top](http://cms.icheme.org/mainwebsite/general2b3b075e.aspx?map=189a761ee2dc30f7d784573573b6ff38#top)
+[top](http://cms.icheme.org/mainwebsite/general2b3b075e.aspx?map=189a761ee2dc30f7d784573573b6ff38#top)
