@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipmarks.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045313id_/http%3A//clipmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipmarks.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217095833id_/http%3A//clipmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -74,4 +74,4 @@ We may serve advertisements on the Site. We do not bundle any third party softwa
 
 Effective 06/2008
 
-Portions of this web site and/or the Clipmarks(TM) clipping tool are or may be covered by United States Patent Numbers 7216290, 7278092, 7360166.
+Portions of this web site and/or the Clipmarks(TM) clipping tool are or may be covered by United States Patent Numbers 7216290, 7278092, 7360166, 7562287.
