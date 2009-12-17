@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joopita.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616050346id_/http%3A//en.joopita.com/cgi-bin/local/perl/directory/support.pl%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joopita.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217173913id_/http%3A//en.joopita.com/cgi-bin/local/perl/directory/support.pl%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Support Pages - Joopita Web Directory
 
