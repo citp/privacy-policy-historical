@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091222id_/http%3A//www.citylink.com.au/137.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217112558id_/https%3A//www.citylink.com.au/137.jsp) for the most accurate reproduction.*
 
 # Privacy statement
 
 **Privacy protection**  
-CityLink respects your right to privacy and is committed to privacy protection. This commitment is set out in our Privacy Code. The Privacy Code provides a set of policies that regulate the way that CityLink collects, uses and handles your personal information. The Code also provides background information about these issues. This page provides a brief summary about your privacy as a CityLink customer and the way that CityLink collects, uses and handles your personal information. If you are interested in these issues, you can read more in the [Privacy Code](https://web.archive.org/files/Privacy_Code_Dec_02.pdf).  
+CityLink respects your right to privacy and is committed to privacy protection. This commitment is set out in our Privacy Code. The Privacy Code provides a set of policies that regulate the way that CityLink collects, uses and handles your personal information. The Code also provides background information about these issues. This page provides a brief summary about your privacy as a CityLink customer and the way that CityLink collects, uses and handles your personal information. If you are interested in these issues, you can read more in the [Privacy Code](https://web.archive.org/files/Privacy_Code_C_0109.pdf "CityLink Privacy Code").  
 Alternatively, if you want to ask us anything in particular about how we protect your privacy, you can contact us by emailing [assist@citylink.com.au](mailto:assist@citylink.com.au) or by calling 13 26 29. 
 
   
