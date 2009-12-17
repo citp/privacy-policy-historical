@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalcycles.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626232454id_/http%3A//www.universalcycles.com/policy_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalcycles.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217060512id_/http%3A//www.universalcycles.com/policy_privacy.php) for the most accurate reproduction.*
 
 # Universal Cycles -- Our Privacy Policy
 
