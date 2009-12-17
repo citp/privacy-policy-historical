@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucd.ie privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616074158id_/http%3A//www.ucd.ie/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucd.ie privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217185405id_/http%3A//www.ucd.ie/privacy.htm) for the most accurate reproduction.*
 
 # UCD Privacy Statement
 
