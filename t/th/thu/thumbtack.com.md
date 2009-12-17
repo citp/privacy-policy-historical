@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612225642id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217051207id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# thumbtack Privacy Policy
 
-Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack’s use of personal data collected through Thumbtack’s website located at [www.thumbtack.com](https://web.archive.org/web/20090612225642id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
+Thumbtack, Inc. ("Thumbtack") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance. This Privacy Policy details certain policies implemented throughout Thumbtack governing Thumbtack’s use of personal data collected through Thumbtack’s website located at [www.thumbtack.com](https://web.archive.org/web/20091217051207id_/http%3A//www.thumbtack.com/www.thumbtack.com) (the "Website") and the services provided by Thumbtack on the Website ("Services"). The Privacy Policy describes how we handle your personal information in connection with your use, and our operation, of the Website and Services, including the kind of personally identifiable information that we gather and how it is used and disclosed.
 
 If you have any questions or comments about the Privacy Policy, please contact us at [support@thumbtack.com](mailto:support@thumbtack.com).
 
@@ -18,7 +18,7 @@ You can generally browse parts of the Website without telling us who you are or 
 
   2. COLLECTION OF FINANCIAL INFORMATION 
 
-We may collect financial information from you, such as your credit card number, and any transactional information related thereto, including without limitation, billing information, which is gathered in connection with your purchase or provision of Services.
+Thumbtack does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology. Thumbtack may, however, collect contact information, such as name, phone number, and address for billing purposes.
 
   3. COLLECTION OF AGGREGATE INFORMATION 
 
@@ -47,7 +47,7 @@ We collect your personal information to better understand your needs and to prov
     8. We may use your demographic information (i.e., age, postal code, residential and commercial addresses, and other various data) to more effectively facilitate the promotion of goods and services to appropriate target audiences. 
   2. HOW FINANCIAL INFORMATION IS USED 
 
-When you enter your credit card information into the Website, a credit card processor encrypts the data. We save credit card information under your Account for your convenience, but you are free to delete or modify such information at anytime.
+When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack saves none of your credit card information, and your credit card information is used for no purpose but to make the particular transaction you authorize.
 
   3. HOW AGGREGATE AND COOKIES INFORMATION ARE USED 
 
@@ -167,7 +167,7 @@ Anything you post on your profile, any services you list, and any requests you m
 
 You can browse Thumbtack anonymously. However, we will collect and use any information that you supply to us on your own. We don’t plan on doing anything devious with this information; rather, we hope to use this information to improve Thumbtack and tailor it to your needs.
 
-Like most other websites that host secure transactions online, we will collect your billing information when you transact through Thumbtack.
+Thumbtack does not store your credit card information.
 
 We will collect certain information provided by your computer when you visit Thumbtack. However, we can’t personally identify you with this information, and we will only use it to look at where our users are coming from and why they might be attracted to Thumbtack.
 
@@ -175,7 +175,7 @@ Like most other websites, Thumbtack collects information from your web browser u
 
 Thumbtack uses the information you provide us in a few ways. First, we use it to register you the first time you use Thumbtack, and to verify your identity each time you return. Second, we share it with our payment services when you transact through Thumbtack. Finally, we use it to send you information and updates about Thumbtack unless you opt out of our mailings.
 
-Any payment information you give us is encrypted, so we can’t access it. We save your encrypted credit card information for purposes of convenience, but you can delete or modify it whenever you’d like.
+When you enter your credit card information into the Website, a credit card processor encrypts the data. Thumbtack deosn’t save any of your credit card information.
 
 We use information provided by your computer’s cookies to track our users’ interests. We do this so we can improve the website, and see which parts of it our users like most.
 
