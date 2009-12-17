@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151606id_/http%3A//whathifi.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217082427id_/http%3A//www.whathifi.com/Privacy-Policy) for the most accurate reproduction.*
 
 # The world’s No.1 home cinema, hi-fi and TV buying guide – from the experts at whathifi.com
 
 Haymarket Media Group ( "Haymarket") is committed to protecting and respecting your privacy.
 
 This privacy policy sets out the basis on which your personal data will be processed by us as the data controller of your personal data for the purposes of the Data Protection Act 1998 ( "the Act "). Please read the following carefully to understand our views and practices regarding your personal data and how they will be treated by us.
+
+  
+
 
 ## Information we may collect from you
 
@@ -15,6 +18,7 @@ We may collect and process the following data about you:
   * Haymarket may also ask you to complete surveys that we use for research purposes although you do not have to respond to them.
   * Details of your visits to the site and the resources that you access.
 
+  
 
 
 ### IP Addresses and Cookies.
@@ -30,9 +34,11 @@ For the same reason we may obtain information about your general Internet usage 
 
 
 
-You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. If you want to find out more about how to disable cookies [please see this external third party website](http://www.allaboutcookies.org/manage-cookies/).
+Advertisements on our site are provided by another organization.  Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number).  In order to do this, our advertising partner may need to place a cookie on your computer.  For more information about this type of online behavioral advertising, about cookies, and about how to turn this features off, please visit [ http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/ "http://www.youronlinechoices.co.uk/").
 
-Please note that our advertisers may also use cookies over which we have no control.
+Whathifi.com members often post links to products on merchants' websites. eBay and Amazon are common examples. Whathifi.com uses technology to convert these links into ones which generate revenue for Whathifi.com. When a link is clicked, a script automatically analyses it, and if the link takes the user to an affiliated merchant's website, our details are added to that link and the link then followed to the merchant's website. This does not change in any way the web page which is being visited, and the intention is that the process will be completely invisible to the user. After arriving at the product page on the affiliated merchant's website, if the user then makes a purchase, a small proportion of that revenue is paid to Whathifi.com.
+
+You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. If you want to find out more about how to disable cookies [please see this external third party website](http://www.allaboutcookies.org/manage-cookies/).
 
 ### Transfer of Personal Data Outside of the EU
 
