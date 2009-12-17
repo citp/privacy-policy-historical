@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dgmarket.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418060059id_/http%3A//www.dgmarket.com/eproc/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgmarket.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235003id_/http%3A//www.dgmarket.com/tenders/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
