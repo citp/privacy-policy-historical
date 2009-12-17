@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063542id_/http%3A//www.scotts.com./smg/privacy.jsp%3FnavId%3Dpage900105%26parentId%3D500006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092007id_/http%3A//www.scotts.com/smg/privacy.jsp%3FnavId%3Dpage900105%26parentId%3D500006) for the most accurate reproduction.*
 
 # Privacy Policy - Scotts Miracle-Gro
 
