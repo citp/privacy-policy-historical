@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylays.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180755id_/http%3A//www.mylays.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylays.net privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092236id_/http%3A//www.mylays.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
