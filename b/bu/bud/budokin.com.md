@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budokin.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207211247id_/http%3A//www.budokin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budokin.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217115336id_/http%3A//www.budokin.com/privacy) for the most accurate reproduction.*
 
 # BudoKin: BudoKin.com Privacy Policy
 
