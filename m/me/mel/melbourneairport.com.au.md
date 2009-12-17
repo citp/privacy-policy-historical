@@ -1,38 +1,12 @@
-> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135209id_/http%3A//www.melbourneairport.com.au/site_tools/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217140851id_/http%3A//www.melbourneairport.com.au/Privacy-policy.html) for the most accurate reproduction.*
 
-# Melbourne Airport - Site Tools - Disclaimer / Privacy Policy
+# Privacy policy - Melbourne Airport
 
-## Disclaimer / Privacy Policy
+Personal information obtained through the Melbourne Airport website includes Internet Protocol (IP) address and browser/operating system information (which is used solely for the purposes of website statistical evaluation) and where you contact Australia Pacific Airports (Melbourne) Pty Ltd (ACN 076 999 114) ("Melbourne Airport"), for example via web inquiries or emails.
 
-### Privacy Policy
+Personal information collected in this way is not made available to third parties outside Melbourne Airport, Australia Pacific Airports Corporation Limited, Australia Pacific Airports (Launceston) Pty Limited, APAC (Holdings) Pty Limited and APAC (Holdings No.2) Pty Limited, without the individual's consent unless, in Melbourne Airport's view, the information collected raises a threat to the safety, security or health of others or Melbourne Airport is required by law to do so. Personal information obtained in connection with Melbourne Airport's WiFi hotspots shall be handled in accordance with the terms and conditions of WiFi hotspot use.  Please see the [wireless internet access](http://www.melbourneairport.com.au/Redirect.aspx?cid=ea23a1d2-6c31-427f-85d3-671980c941d7) page for more information.
 
-Information obtained through the Melbourne Airport website is restricted to Internet Protocol (IP) address and browse/operating system information – and is used solely for the purposes of website statistical evaluation. Melbourne Airport does not obtain any other personal and/or confidential information from its website without the written consent of the parties involved.
+Melbourne Airport will, on request, provide an individual with access to any information it holds about him or her unless there is an exception which applies under the National Privacy Principles. We may recover our reasonable costs of providing access to this information from the individual making the request.
 
-Statistical information collected is not made available to third parties outside Australia Pacific Airports (Melbourne) Pty Limited, Australia Pacific Airports (Launceston) Pty Limited, and APAC (Holdings) Pty Limited without the individuals consent or to the extent required by law.
-
-Melbourne Airport will, on request, provide an individual with access to any information we hold about them unless there is an exception which applies under the National Privacy Principles. We may recover from them our reasonable costs of providing access to this information.
-
-Appropriate technology and security policies, rules and measures will be implemented to protect the personal information that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction and accidental loss.
-
-Personal information is removed from our systems when it is no longer required. The National Privacy Principles as set out in the Privacy Act 1988, as amended by the Privacy Amendment (Private Sector) Act 2000, are to be complied with in every respect by us. Any complaints about privacy issues are to be directed immediately to the Company Secretary who carries responsibility for compliance and resolution of complaints.
-
-Chris Woodruff  
-Chief Executive Officer
-
-Last updated 29 Feb 2008
-
-### Liability Disclaimer
-
-Every effort has been made to ensure the accuracy of the information contained on the Melbourne Airport web site. Melbourne Airport, however, does not make any warranties or representations as to the completeness or accuracy of any information on this website. Melbourne Airport shall not be responsible or liable to any person or entity with respect to any inconvenience, misleading information or direct, indirect, special or consequential loss or damage however suffered, following reliance on any information contained on the site.
-
-Changes and additions to the information contained on the Melbourne Airport site are made frequently. Melbourne Airport may make such changes and additions at any time. 
-
-We do not provide any warranties that our web site is undisrupted, error free or free from malicious software such as computer viruses.
-
-Melbourne Airport web pages provide links and pointers to Internet sites controlled and maintained by others. These links and pointers are included solely for the convenience of users, and do not constitute an endorsement by Melbourne Airport to the sites linked or referred to. The user takes sole responsibility for use of third party sites. 
-
-Melbourne Airport is operated by Australia Pacific Airports (Melbourne) Pty Ltd (ACN 076 999 114).
-
-### Intellectual property rights
-
-The material contained on the Melbourne Airport web site is protected by copyright. Material from the site is only permitted for personal and non commercial use and must not be copied, reproduced or modified without first obtaining our express consent.
+Appropriate technology and security policies, rules and measures will be implemented to protect the personal information that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction and accidental loss.  
+Personal information is removed from our systems when it is no longer required. Any complaints about privacy issues are to be directed to the Company Secretary.
