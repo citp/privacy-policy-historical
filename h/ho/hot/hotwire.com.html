@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotwire.com privacy policy that was archived on 2009-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611063056id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotwire.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217080202id_/http%3A//www.hotwire.com/travel-information/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     <meta http-equiv="Content-Language" content="en-us">
@@ -19,8 +19,8 @@
 
     
     
-    <link rel="shortcut icon" href="http://ak-static.hotwire.com/static/images/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="http://ak-static.hotwire.com/static/deploy/master/hwCore.css?cfVer=053009121717">
+    <link rel="shortcut icon" href="http://ak-static.hotwire.com/static/images/favicon2.ico">
+    <link rel="stylesheet" type="text/css" href="http://ak-static.hotwire.com/static/deploy/master/hwCore.css?cfVer=121009182413">
 
     
 
@@ -30,61 +30,55 @@
 
 
 
-
+<!--
+    This is the common global server include for various 'global' properties in the view tier rendering.
+-->
 
 
 <script>
     window.serverSideGlobalPassThrough = {//Dynamically write out browser information from the server...
         partnerReferral:false,
         dateFormat:"MM/dd/yy",
-        pageId:"about/privacy-policy.jsp",
+        pageId:"about/other-resources/privacy.jsp",
         analyticsId:"hotwirecom",
         imgBaseUrl:"http://ak-static.hotwire.com/static///",
-        clientFileBaseUrl:"http://ak-static.hotwire.com/static/deploy///?cfVer=053009121717",
+        clientFileBaseUrl:"http://ak-static.hotwire.com/static/deploy///?cfVer=121009182413",
         jspBaseUrl:"http://www.hotwire.com///",
         sessionNew:false
     };
+    
 </script>
 
-    <script src="http://ak-static.hotwire.com/static/deploy/master/hwCore.js?cfVer=053009121717"></script>
+    <script src="http://ak-static.hotwire.com/static/deploy/master/hwCore.js?cfVer=121009182413"></script>
+    
+    
+
 
 
 
     
 
     
-
-    
-    
-
-
-
-<link rel="stylesheet" href="http://ak-static.hotwire.com/static/deploy/css/actLayout.css?cfVer=053009121717" type="text/css">
-<link rel="stylesheet" href="http://ak-static.hotwire.com/static/deploy/css/tripWatcherLayout.css?cfVer=053009121717" type="text/css">
-<link rel="stylesheet" href="http://ak-static.hotwire.com/static/deploy/css/hotels.css?cfVer=053009121717" type="text/css">
-<script src="http://ak-static.hotwire.com/static/deploy/javascript/lib-ppath.js?cfVer=053009121717"></script>
-
+    <script>
+        window.open('http://www.hotwire.com/pop-up/old-browser-popup.jsp', 'oldBrowser', 'width=440,height=480,status=yes');
+    </script>
     
 
+    
     
 
 
 
+<link rel="stylesheet" href="http://ak-static.hotwire.com/static/deploy/css/aboutHotwire.css?cfVer=121009182413" type="text/css">
+<link rel="stylesheet" href="http://ak-static.hotwire.com/static/deploy/css/hotels.css?cfVer=121009182413" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://ak-static.hotwire.com/static/deploy/3rdparty/yui/tabview/assets/tabview-core.css?cfVer=121009182413">
+<link rel="stylesheet" href="http://ak-static.hotwire.com/static/deploy/css/core/comp/AccordionComp.css?cfVer=121009182413" type="text/css">
 
+<script src="http://ak-static.hotwire.com/static/deploy/3rdparty/yui/element/element-beta.js?cfVer=121009182413"></script>
+<script src="http://ak-static.hotwire.com/static/deploy/3rdparty/yui/tabview/tabview.js?cfVer=121009182413"></script>
+    
 
-
-
-
-
-
-
-
-
-
-
-
-<script src="http://ak-static.hotwire.com/static/deploy/master/mockCM.js?cfVer=053009121717"></script>
-
+    
 
 
 
@@ -101,15 +95,15 @@
 
 
 <script>
-    AnalyticsSupport.setAnalyticsContextVariable("pageName", "about.privacy-policy");
+    AnalyticsSupport.setAnalyticsContextVariable("pageName", "about.other-resources.privacy");
     
     AnalyticsSupport.setAuthenticationStatus("false");
     AnalyticsSupport.setAnalyticsContextVariable("channel", "gen_info");
 
-    AnalyticsSupport.resolveLid("");
+    AnalyticsSupport.resolveReferringLid("");
 
     AnalyticsSupport.setAnalyticsContextVariable("prop10", "about");
-    AnalyticsSupport.setAnalyticsContextVariable("server", "jsp04");
+    AnalyticsSupport.setAnalyticsContextVariable("server", "jsp03");
     AnalyticsSupport.setAnalyticsContextVariable("pageType", "");
     
     AnalyticsSupport.setAnalyticsContextVariable("prop2", "new");
@@ -124,30 +118,36 @@
     
 
     
-    AnalyticsSupport.removeAnalyticsCookie();
+   
+    // ***************************************************************
+    // don't clear Analytics if this is a window with an opener
+    // and the opener has AnalyticsSupport -- it is a site popup
+    var isWindowWithOpenerAndAnalyticsSupport
+    try {
+        isWindowWithOpenerAndAnalyticsSupport = window.opener && window.opener.AnalyticsSupport;
+    } catch(e) {
+        isWindowWithOpenerAndAnalyticsSupport = false;
+    }
+    if ( !isWindowWithOpenerAndAnalyticsSupport ) {
+        AnalyticsSupport.removeAnalyticsCookie();
+        
+        AnalyticsSupport.storeAnalyticsCookieValue("previousPageName", "about.other-resources.privacy");
+    }
 
     
-    AnalyticsSupport.storeAnalyticsCookieValue("previousPageName", "about.privacy-policy");
-
-    
-    AnalyticsSupport.loadSiteCatalyst("http://ak-static.hotwire.com/static/deploy/3rdparty/omniture/s_code.js?cfVer=053009121717");
+    AnalyticsSupport.loadSiteCatalyst("http://ak-static.hotwire.com/static/deploy/3rdparty/omniture/s_code.js?cfVer=121009182413");
 </script>
 
 
 
-<script>
-document.cookie = "linkIdCookie=;path=/";
-</script>
 
 </head>
 
 
 <body>
-<div id="pageStart" class="lftBgClr182">
+<div id="pageStart" class="aboutHotwire">
 
-
-
-
+    
 
 
 
@@ -170,7 +170,8 @@ document.cookie = "linkIdCookie=;path=/";
             
             <div id="tileName-AN1">
 
-</div>
+
+<img src="http://ak-static.hotwire.com/static/images/spacer.gif" alt="" width="468" height="60" border="0"></div>
 
 
         
@@ -179,25 +180,17 @@ document.cookie = "linkIdCookie=;path=/";
 
 
 
-<div id="tileName-TTTrafficTestHeader">
-
-</div>
-
 
 
 
 <div id="hwGlobalHeader">
 
     <div class="hwLogo">
-        <a href="http://www.hotwire.com/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-LOGO:loc:0:HOTWIRE');"><img src="http://ak-static.hotwire.com/static/images/shell/hotwire-logo-3d.gif" width="165" height="33" border="0" alt="Hotwire.com Home"></a>
+        <a href="http://www.hotwire.com/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-LOGO',linkName:'HOTWIRE'});"><img src="http://ak-static.hotwire.com/static/images/shell/hotwire-logo-3d.gif" width="165" height="33" border="0" alt="Hotwire.com Home"></a>
     </div>
 
     
-        <div id="tileName-alert">
-
-</div>
-
-
+        
         
 
     
@@ -213,12 +206,12 @@ document.cookie = "linkIdCookie=;path=/";
 
 <div id="globalAccountStatusMessaging">
     
-        <strong>Welcome</strong> - <nobr>(<a href="https://www.hotwire.com/login.jsp?lid=about/privacy-policy.jsp:NAV-ACCOUNT:loc:0:SIGNIN">Sign in</a>)</nobr>
+        <strong>Welcome</strong> - <nobr>(<a href="https://www.hotwire.com/login.jsp?lid=:NAV-ACCOUNT:SIGNIN">Sign in</a>)</nobr>
     
     <ul>
-        <li class=""><a href="https://www.hotwire.com/account/my-account.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-ACCOUNT:loc:0:MY-ACCT');">My Account</a></li>
+        <li class=""><a href="https://www.hotwire.com/account/my-account.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-ACCOUNT',linkName:'MY-ACCT'});">My Account</a></li>
         <span>|</span>
-        <li class=""><a href="http://www.hotwire.com/newtohotwire/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-ACCOUNT:loc:0:NEW-USER');">New to Hotwire?</a></li>
+        <li class=""><a href="http://www.hotwire.com/newtohotwire/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-ACCOUNT',linkName:'NEW-USER'});">New to Hotwire?</a></li>
     </ul>
 </div>
 
@@ -230,6 +223,7 @@ document.cookie = "linkIdCookie=;path=/";
     <div class="clr"></div>
 
     
+
 
 
 
@@ -239,36 +233,37 @@ document.cookie = "linkIdCookie=;path=/";
     <ul class="tabs">
         
         <li class="">
-            <a href="http://www.hotwire.com/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName: 'NAV-TABS', linkName: 'HOME'});AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-TABS:loc:0:HOME');">Home</a>
+            <a href="http://www.hotwire.com/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-TABS',linkName:'HOME'});">Home</a>
         </li>
         <li class="">
-            <a href="http://www.hotwire.com/hotel/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName: 'NAV-TABS', linkName: 'HOTELS'});AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-TABS:loc:0:HOTELS');">Hotels</a>
+            <a href="http://www.hotwire.com/hotel/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-TABS',linkName:'HOTELS'});">Hotels</a>
         </li>
         <li class="">
-            <a href="http://www.hotwire.com/car/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName: 'NAV-TABS', linkName: 'CARS'});AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-TABS:loc:0:CARS');">Cars</a>
+            <a href="http://www.hotwire.com/car/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-TABS',linkName:'CARS'});">Cars</a>
         </li>
         <li class="">
-            <a href="http://www.hotwire.com/air/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName: 'NAV-TABS', linkName: 'FLIGHTS'});AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-TABS:loc:0:FLIGHTS');">Flights</a>
+            <a href="http://www.hotwire.com/air/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-TABS',linkName:'FLIGHTS'});">Flights</a>
+        </li>
+        
+            <li class="">
+                <a href="http://www.hotwire.com/package/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-TABS',linkName:'PACKAGES'});">Vacations</a>
+            </li>
+        
+        <li class="">
+            <a href="http://cruises.hotwire.com" onclick="AnalyticsSupport.logOmnitureLinkEvent({moduleName:'NAV-TABS', linkName:'CRUISES'})">Cruises</a>
         </li>
         <li class="">
-            <a href="http://www.hotwire.com/package/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName: 'NAV-TABS', linkName: 'PACKAGES'});AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-TABS:loc:0:PACKAGES');">Packages</a>
-        </li>
-        <li class="">
-            <a href="http://cruises.hotwire.com" onclick="cmPageviewOnClick('about/privacy-policy.jsp:NAV-TABS:loc:0:CRUISES', 'external-link', document.referrer, 'about/privacy-policy.jsp');">Cruises</a>
-        </li>
-        <li class="">
-            <a href="http://www.hotwire.com/deals/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName: 'NAV-TABS', linkName: 'DEALS'});AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-TABS:loc:0:DEALS');">Deals</a>
+            <a href="http://www.hotwire.com/deals/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-TABS',linkName:'DEALS'});">Deals</a>
         </li>
     </ul>
 
     <ul class="utilities">
         
-        
         <li class="">
-            <a href="http://www.hotwire.com/planning/index.jsp" class="planningTools" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-UTILITIES:loc:0:PLANNING-TOOLS');">&nbsp;</a>
+            <a href="http://www.hotwire.com/planning/index.jsp" class="planningTools" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-UTILITIES',linkName:'PLANNING-TOOLS'});">&nbsp;</a>
         </li>
         <li class="">
-            <a href="http://www.hotwire.com/helpcenter/index.jsp" class="customerCare" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-UTILITIES:loc:0:CUST-CARE');">&nbsp;</a>
+            <a href="http://www.hotwire.com/helpcenter/index.jsp" class="customerCare" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-UTILITIES',linkName:'HELP-CENTER'});">&nbsp;</a>
         </li>
     </ul>
     <div class="clr"></div>
@@ -277,281 +272,402 @@ document.cookie = "linkIdCookie=;path=/";
 </div>
 
 
-<style>
-    #hwGlobalHeader {
-        margin-bottom: 0;
-    }
-</style>
+    <!-- Analytics context include, must be inserted before pageEndTiles.jsp to capture page sensative info-->
+    
 
-<div style="padding: 12px 0 8px 212px; background-color: #EDEDED;">
-    <h1 class="fnt50 fcRed"><strong><span style="color: #000000;">Protecting Your Privacy</span></strong></h1>
-</div>
-<div style="float:left; width:162px; margin: 0 20px 0 0;">
-    <div id="tileName-L1">
+    <div id="stripedSidebarLeftLayout">
+        <div id="headers">
+            <div id="tileName-H1">
 
 
-
-<div class="sideBarLft">
-    <h2><strong>General Information</strong></h2>
-    <div class="con">
-        <ul class="noBlts">
-        	<li>Privacy Policy</li>
-        	<li style="margin: 0;"><a href="http://www.hotwire.com/travel-information/terms.jsp">Terms of Use</a></li>
-        </ul>
-    </div>
-</div>
+<h1>
+    <img src="http://ak-static.hotwire.com/static/images/about-hotwire/headlines/about-hotwire-headline.png" width="159" height="23" border="0" alt="About Hotwire">
+</h1>
 </div>
 
 
-</div>
-<div style="float:left; width: 570px;">
-    <div class="greyCrnr">
+            <div id="tileName-H2">
+
+
+
+
+<ul class="breadCrumb">
+    <li><a href="http://www.hotwire.com/about-hotwire/index.jsp">About Hotwire</a></li>
+    <li>:</li>
+    <li><a href="http://www.hotwire.com/travel-information/privacy-policy.jsp">Privacy Policy</a></li>
+</ul></div>
+
+
+        </div>
+        <div id="columnA">
+            <div id="tileName-A1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="roundCornerBox sidebarModule sidebarTitleModule ">
+    <div class="hd top">
+        <div class="rightCorner"></div>
+            
+            <h3 class="title noOptions">
+            
+            
+                <img src="http://ak-static.hotwire.com/static/images/about-hotwire/sidebar/general-information-headline.png" alt="title">
+            
+            
+                
+            
+            </h3>
         
-        <div id="tileName-main">
-
-
-
-<style type="text/css" title="">
-.privacyPolicyMain ul {
-    padding: 0 0 0 15px;
-    margin: 0;
-}
-.privacyPolicyMain ul li {
-    padding: 0 0 1em 0;
-    margin: 0;
-}
-</style>
-
-<a name="top"></a>
-
-<div class="privacyPolicyMain">
-
-    <p>We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our Site.</p>
-
-    <p>This privacy statement discloses the privacy practices for www.hotwire.com (including www.cruises.hotwire.com), including:</p>
-
-    <ul>
-        <li><a href="#wiwcfy">What information we collect from you</a></li>
-        <li><a href="#woicti">What organization is collecting the information</a></li>
-        <li><a href="#hyiiu">How your information is used</a></li>
-        <li><a href="#hyiip">How your information is protected</a></li>
-        <li><a href="#wwmsyi">When we may share your information</a></li>
-        <li><a href="#wcaa">What choices are available</a></li>
-        <li><a href="#ecyctrfu">Email communication you choose to receive from us</a></li>
-        <li><a href="#htaacyai">How to access and control your account information</a></li>
-    </ul>
-
-    <p>We promise never to sell or rent any of your personal information without your prior consent. Your trust and confidence are our highest priority. For questions or concerns regarding our privacy policy, please contact Hotwire Customer Care (the contact information is listed <a href="#customerCareContact">below</a>).</p>
-
-    <a name="wiwcfy"></a>
-    <p><strong>What information we collect from you</strong></p>
-
-    <p>When you register with Hotwire, we ask for the basics - including your name, email address and password. When you make a booking, we will also need your billing and delivery information.</p>
-
-    <p>To help us send more relevant communications to you (if you choose to receive any from us), we keep track of all Site searches and bookings. For example, if you frequently travel between San Francisco and New York, we may send you special notices listing great recently booked fares for that route.</p>
-
-    <p>For all Hotwire visitors - not just registered users - we collect information such as IP addresses, browser type, domain names, access times, duration of visit, referring URL, platform, new/repeat information, timestamp and exit page information. One of the uses for which this data is gathered is for statistical purposes so that we may analyze trends and performances over time. Hotwire uses third-party service providers to help us gather and analyze information about our customers. These service providers are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our Site.</p>
-
-    <p>If you contact our Customer Care department, we will also collect the information you provide that details the nature of your question or problem to enhance the quality of our Site.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="woicti"></a>
-    <p><strong>What organization is collecting the information</strong></p>
-
-    <p>Hotwire, Inc., a Delaware corporation, operates and manages www.hotwire.com. More information about Hotwire may be found at by clicking on the About Hotwire link at the bottom of this page.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="hyiiu"></a>
-    <p><strong>How your information is used</strong></p>
-
-    <p>The data we gather is used to process your booking, notify you of your booked travel itineraries, contact you if problems arise (e.g., your flight is changed or cancelled by the airline) and, if you have selected to receive them, send you marketing messages. All data is saved in a secure environment. The information we collect helps us better serve you. For example:</p>
-
-    <ul>
-        <li>We save all of your Hotwire searches, bookings and booked itineraries - extremely helpful when you can't remember what time your flight leaves!</li>
-        <li>We process your bookings more quickly and efficiently using the data you provide. For example, if you opt to save your credit card number within your account, you won't have to enter it every single time you book on Hotwire.</li>
-    </ul>
-
-    <p>Hotwire also uses the information that we gather to target content on our Site to more closely match your interests and, if you have selected to receive email communication from us, to target email marketing messages that are more appropriate to your needs.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="hyiip"></a>
-    <p><strong>How your information is protected</strong></p>
-
-    <p>Hotwire maintains data handling and storage practices and procedures that are designed to ensure the integrity and confidentiality of customer information. When you book a reservation on Hotwire, you are doing so in a safe and secure environment. Credit card information is transmitted online using industry standard security measures called secure socket layer encryption (SSL). Current Internet security methods and technologies are used to prevent unauthorized access, maintain data accuracy and ensure correct use of information. This means that information such as your credit card number is encrypted, sent through the Internet as a jumbled code, then decoded and passed on to Hotwire's secure systems. These safeguards are expressly implemented for the purpose of protecting your information. Hotwire also employs additional security measures for credit card usage. For example, when you book on our Site, we may require that you provide the credit card identification number - a security code that helps validate bookings.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="wwmsyi"></a>
-    <p><strong>When we may share your information</strong></p>
-
-    <p>When you book on Hotwire, the personal information you provide will be shared with the third parties necessary to ensure the completion of your booking. This includes the airline, hotel, car rental, or cruise partner with whom your itinerary is booked, as well as any third parties responsible for facilitating the transaction (e.g., credit card authorization company, etc.). The personal information provided to the third parties will not be used for any purpose other than the completion of your travel arrangements.</p>
-
-    <p>Hotwire will also share your information with business firms contracted to provide specific services to us, in a manner consistent with this Privacy Policy. For instance, if Hotwire were to hold a sweepstakes offer on our Site, we may choose to hire a Sweepstakes Administration firm to handle the legal requirements surrounding entrant and winner selection and validation. We also share complete booking data for registered coolExtras members with Affinion Group, a loyalty marketing firm that administers coolExtras rebates.
-    In situations such as this where your data is shared with a third-party firm, these firms are contractually obligated to only use your personal data for the purpose for which the relationship exists. These firms do not have the right to share your data with other organizations or contact you outside the bounds of their contract with us.</p>
-
-    <p>From time to time, we may share general statistical information about our Site and visitors - such as number of visitors, aggregate and non-personally identifiable demographic data, number and type of goods and services booked, etc. - with our advertisers and partners. However, we do not reveal your name, address or other personal data for anything other than the use it was originally intended without giving you the opportunity to opt out.</p>
-
-    <p>Hotwire may disclose information about you to others if we have a good-faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property, or safety of Hotwire or others. This includes, but is not limited to, customer fraud, technical malfunctions, or abuse of our network or systems. We also may provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. Except as otherwise stated above, Hotwire will not disclose your personal information with any third party without your consent.</p>
-
-    <p>Hotwire is not responsible for information collection and privacy practices of third-party sites that are accessed via links from the Hotwire Site.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="wcaa"></a>
-    <p><strong>What choices are available</strong></p>
-
-    <p>Registration is optional. If you choose not to register, certain sections of our Site may be inaccessible but you will be able to search products. Please be aware, however, that after a certain number of searches, Hotwire may require you to register in order to continue searching on our Site. Registration and login is required to complete a booking on our Site.</p>
-
-    <p>In the "My Account" section of the Hotwire Site, you may make changes to your account and change your email address, change your password or update your contact or credit card information. You may also subscribe or unsubscribe for Hotwire communications. Registration and login is required to access these account settings.</p>
-
-    <p>As we explain in more detail <a href="#cookies">below</a>, Hotwire uses cookies to improve your booking experience and reduce the time it takes for you to complete a booking. You may choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please be aware, however, that by refusing to accept cookies, you will be unable to access a significant portion of the Hotwire Site.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="ecyctrfu"></a>
-    <p><strong>Email communication you choose to receive from us</strong></p>
-
-    <p>If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you. For example:</p>
-
-    <ul>
-        <li>We update you on any important functionality changes to our Site via email.</li>
-        <li>We keep you informed about Hotwire deals, sweepstakes, programs, etc., and other special promotions that we think you will find valuable. For example, if you choose to provide us with information about your travel preferences - such as which cities you most frequently travel between - we can deliver highly relevant and customized email newsletters.</li>
-        <li>From time to time, we may ask you to fill out optional personal profiles that will shape our future offers and promotions.</li>
-    </ul>
-
-    <p>With the exception of emails confirming registration, emails that include information about your Hotwire account, and emails relating directly to a booking made on our Site, Hotwire will not send you any postal mail or emails unless you elect to receive communications from us. If you are no longer interested in receiving communications from Hotwire, you have several choices for opting out of future mailings:</p>
-
-    <ul>
-        <li>Our emails include instructions on how to unsubscribe yourself from our email list.</li>
-        <li>Click on "My Account" at the top of any page on our Site and update your "Account Settings" (the opt-in/out area is located under "Contact Details," below your email).</li>
-        <li>Call us at <strong>1-866-HOTWIRE (468-9473)</strong>.</li>
-    </ul>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="htaacyai"></a>
-    <p><strong>How to access and control your account information</strong></p>
-
-    <p>Don't worry - the information you save under "My Account" is securely stored and can only be accessed using your email login and password (both of which you choose when registering with our Site). If you wish to update, correct or access any personally identifiable information that you saved to your account on Hotwire, you can make the changes by clicking on the "My Account" links that appear throughout the Site. In addition, all of your previous travel activity is stored with your account information. Should you misplace your itinerary, you can go to "My Account" and look it up. Hotwire cannot modify information about any previous itinerary that you searched or booked.</p>
-
-    <p><strong>Other topics:</strong></p>
-
-    <ul>
-    <li><a href="#cookies">Cookies</a></li>
-    <li><a href="#third">Third-party Advertising</a></li>
-    <li><a href="#sweepstakes">Sweepstakes</a></li>
-    <li><a href="#mergers">Mergers/Acquisitions</a></li>
-    <li><a href="#recently">Recently Booked Deals</a></li>
-    <li><a href="#testimonials">Testimonials</a></li>
-    <li><a href="#children">Children</a></li>
-    <li><a href="#internationalusers">International Users</a></li>
-    <li><a href="#notification">Notification of Changes</a></li>
-    <li><a href="#customerCareContact">Contact Us</a></li>
-    </ul>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="cookies"></a>
-    <p><strong>Cookies</strong></p>
-
-    <p>A cookie is a unique identifier sent to your computer by a Web server and stored on your computer's hard drive. A cookie lets a computer server identify your computer. A cookie is what allows many sites to greet you upon every return with a message such as, "Hi, Bob! Welcome back," even before you actively login. At Hotwire, we use cookies to improve your shopping experience and reduce the time it takes for you to complete a booking. Our cookies do not include any sensitive information, but they do help us track which of our Web pages are visited and what services are most often used. Please note that in order to use our Site, your Web browser must be configured to accept cookies. You can rest assured, however, that due to the way the technology of the Internet works, Hotwire does not and cannot use cookies to retrieve personal information from your computer.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="third"></a>
-    <p><strong>Third-party Advertising</strong></p>
-
-    <p>From time to time, Hotwire may use a third-party advertising company to serve advertising on our behalf. Through the use of technology devices - commonly referred to as cookies and action tags - this third-party ad-serving company can measure the effectiveness of our ads. Hotwire does not have access to the third-party company's cookies, which are similar to our own cookies. The company employs an action tag - also known as a Web Beacon or a one-pixel .gif file - to set or read cookies. Hotwire's third-party ad server will also receive specific information about your order, such as the order number and product category. Rest assured that this shared information is anonymous and does not contain any sensitive information. The company may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="sweepstakes"></a>
-    <p><strong>Sweepstakes</strong></p>
-
-    <p>Hotwire may occasionally offer Site visitors an opportunity to participate in a survey, contest or sweepstakes. Information collected by Hotwire for such a survey, contest or sweepstakes will be subject to the same protection as the information Hotwire generally collects from its users.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="mergers"></a>
-    <p><strong>Mergers/Acquisitions</strong></p>
-
-    <p>In the event that Hotwire or substantially all of Hotwire's assets are acquired, customer information may be transferred to Hotwire's successor company. In the event such a transfer occurs, your personal information will be subject to the same protection as it was prior to the transfer.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="recently"></a>
-    <p><strong>Recently Booked Deals</strong></p>
-
-    <p>Whenever Hotwire shows recently booked airfare, hotel or car rental deals, they are based on individual bookings that we aggregated (i.e., gathered up across all user accounts) during a specified time period. However, no personally identifiable information is provided.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="testimonials"></a>
-    <p><strong>Testimonials and Customer Feedback</strong></p>
-
-    <p>At Hotwire, we often receive testimonials and comments from customers who have had positive booking and/or travel experiences with our Site. We occasionally publish such content.</p>
-
-    <a name="children"></a>
-    <p><strong>Children</strong></p>
-
-    <p>Children are not eligible to use our services and we ask that minors (anyone under the age of 18) not submit any personal information to us. Hotwire does not knowingly collect personal information from anyone under the age of 18 or permit them to use our Site.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="internationalusers"></a>
-    <p><strong>International Users - Applicable Law</strong></p>
-
-    <p>Hotwire collects, processes, stores, discloses and disposes of personal information that you submit to us in accordance with applicable United States law. Please note that the personal information you submit to our Site will be transferred to the United States to be processed by Hotwire in order to provide this Site and its services to you or for such other purposes as set forth in this Privacy Policy. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction. In addition, we may store such personal information in the United States, outside your resident jurisdiction. In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation and self-regulation. Please be aware that United States law may offer different levels of protection for personal information than may be available in your country.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="notification"></a>
-    <p><strong>Notification of Changes</strong></p>
-
-    <p>If we intend to use any personally identifiable information in a manner different than what is stated at the time of data collection, we will notify you via email and give you the opportunity to opt-out. In addition, if we make any material changes in our privacy practices, we will post a notice on our Site advising users of the change. This Privacy Policy was produced and posted in July 2003 and last modified in November 2004.</p>
-
-    <p><a href="#top">Back to top</a></p>
-
-    <a name="customerCareContact"></a>
-    <p><strong>Contact Us</strong></p>
-
-    <p>If you have questions or concerns regarding your privacy or security on our Site, feel free to contact us by email, phone or postal mail.</p>
-
-    <p>For other issues, we can be reached in the following ways:</p>
-
-    <p><strong>Email</strong></p>
-
-    <p>Our customer care associates are available 24 hours a day, seven days a week. If you wish to <a href="https://www.hotwire.com/helpcenter/contact.jsp">email us</a>, we respond to most customer emails within two hours or less. Depending on the nature of your inquiry and the time of day, our response may take a bit longer.</p>
-
-    <p><strong>Phone Toll-Free - within the U.S. and Canada<br>1-866-HOTWIRE (468-9473)</strong></p>
-
-    <p><strong>Phone - outside of the U.S. and Canada<br>1-920-634-3150 (regular toll charges apply)</strong></p>
-
-    <p><strong>Mail</strong></p>
-
-    <p>Hotwire Customer Care<br>
-    655 Montgomery Street #600<br>
-    San Francisco, CA 94111<br>
-    U.S.A </p>
-                                          
-</div>
-</div>
-
-
     </div>
+    <div class="bd leftSide">
+        <div class="content rightSide">
+             
+        <ul>
+            <li class="active"><a href="http://www.hotwire.com/travel-information/privacy-policy.jsp">Privacy policy</a></li>
+            <li><a href="http://www.hotwire.com/travel-information/terms.jsp">Terms of use</a></li>
+            <li>
+                <a href="http://www.hotwire.com/about-hotwire/other-resources/hotwireAgreement.jsp">Hotwire Travel Products Rules and Restrictions</a></li>
+        </ul>
+    
+        </div>
+    </div>
+    <div class="ft bottom">
+        <div class="rightCorner"></div>
+    </div>
+</div></div>
+
+
+            <div id="tileName-A2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="roundCornerBox sidebarModule sidebarTitleModule ">
+    <div class="hd top">
+        <div class="rightCorner"></div>
+            
+            <h3 class="title noOptions">
+            
+            
+                <img src="http://ak-static.hotwire.com/static/images/about-hotwire/sidebar/see-also-headline.png" alt="title">
+            
+            
+                
+            
+            </h3>
+        
+    </div>
+    <div class="bd leftSide">
+        <div class="content rightSide">
+             
+        <ul>
+            <li><a href="http://www.hotwire.com/about-hotwire/our-company/companyOverview.jsp">Company overview</a></li>
+            <li><a href="http://www.hotwire.com/travel-information/suppliers/index.jsp">Supplier overview</a></li>
+            <li><a href="http://www.hotwire.com/about-hotwire/press-room/welcome.jsp">Press room welcome</a></li>
+        </ul>
+    
+        </div>
+    </div>
+    <div class="ft bottom">
+        <div class="rightCorner"></div>
+    </div>
+</div></div>
+
+
+            
+            
+            
+        </div>
+        <div id="columnB">
+            <div class="whiteSpace"></div>
+            <div class="con">
+                
+                <div id="tileName-B1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="sectionHeader">Privacy policy</h2>
+
+<div class="intro">
+<p>We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our Site.</p>
+
+<p>This privacy statement discloses the privacy practices for www.hotwire.com (including www.cruises.hotwire.com), including:</p>
+
+<ul class="square">
+    <li><a href="#wiwcfy">What information we collect from you</a></li>
+    <li><a href="#woicti">What organization is collecting the information</a></li>
+    <li><a href="#hyiiu">How your information is used</a></li>
+    <li><a href="#hyiip">How your information is protected</a></li>
+    <li><a href="#wwmsyi">When we may share your information</a></li>
+    <li><a href="#wcaa">What choices are available</a></li>
+    <li><a href="#ecyctrfu">Email communication you choose to receive from us</a></li>
+    <li><a href="#htaacyai">How to access and control your account information</a></li>
+</ul>
+
+<p>We promise never to sell or rent any of your personal information without your prior consent. Your trust and confidence are our highest priority. For questions or concerns regarding our privacy policy, please contact Hotwire Customer Care (the contact information is listed <a href="#customerCareContact">below</a>).</p>
+
+<a name="wiwcfy"></a>
+<p><strong>What information we collect from you</strong></p>
+
+<p>When you register with Hotwire, we ask for the basics - including your name, email address and password. When you make a booking, we will also need your billing and delivery information.</p>
+
+<p>To help us send more relevant communications to you (if you choose to receive any from us), we keep track of all Site searches and bookings. For example, if you frequently travel between San Francisco and New York, we may send you special notices listing great recently booked fares for that route.</p>
+
+<p>For all Hotwire visitors - not just registered users - we collect information such as IP addresses, browser type, domain names, access times, duration of visit, referring URL, platform, new/repeat information, timestamp and exit page information. One of the uses for which this data is gathered is for statistical purposes so that we may analyze trends and performances over time. Hotwire uses third-party service providers to help us gather and analyze information about our customers. These service providers are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our Site.</p>
+
+<p>If you contact our Customer Care department, we will also collect the information you provide that details the nature of your question or problem to enhance the quality of our Site.</p>
+
+
+
+<a name="woicti"></a>
+<p><strong>What organization is collecting the information</strong></p>
+
+<p>Hotwire, Inc., a Delaware corporation, operates and manages www.hotwire.com. More information about Hotwire may be found at by clicking on the About Hotwire link at the bottom of this page.</p>
+
+
+
+<a name="hyiiu"></a>
+<p><strong>How your information is used</strong></p>
+
+<p>The data we gather is used to process your booking, notify you of your booked travel itineraries, contact you if problems arise (e.g., your flight is changed or cancelled by the airline) and, if you have selected to receive them, send you marketing messages. All data is saved in a secure environment. The information we collect helps us better serve you. For example:</p>
+
+<ul>
+    <li>We save all of your Hotwire searches, bookings and booked itineraries - extremely helpful when you can't remember what time your flight leaves!</li>
+    <li>We process your bookings more quickly and efficiently using the data you provide. For example, if you opt to save your credit card number within your account, you won't have to enter it every single time you book on Hotwire.</li>
+</ul>
+
+<p>Hotwire also uses the information that we gather to target content on our Site to more closely match your interests and, if you have selected to receive email communication from us, to target email marketing messages that are more appropriate to your needs.</p>
+
+
+
+<a name="hyiip"></a>
+<p><strong>How your information is protected</strong></p>
+
+<p>Hotwire maintains data handling and storage practices and procedures that are designed to ensure the integrity and confidentiality of customer information. When you book a reservation on Hotwire, you are doing so in a safe and secure environment. Credit card information is transmitted online using industry standard security measures called secure socket layer encryption (SSL). Current Internet security methods and technologies are used to prevent unauthorized access, maintain data accuracy and ensure correct use of information. This means that information such as your credit card number is encrypted, sent through the Internet as a jumbled code, then decoded and passed on to Hotwire's secure systems. These safeguards are expressly implemented for the purpose of protecting your information. Hotwire also employs additional security measures for credit card usage. For example, when you book on our Site, we may require that you provide the credit card identification number - a security code that helps validate bookings.</p>
+
+
+
+<a name="wwmsyi"></a>
+<p><strong>When we may share your information</strong></p>
+
+<p>When you book on Hotwire, the personal information you provide will be shared with the third parties necessary to ensure the completion of your booking. This includes the airline, hotel, car rental, or cruise partner with whom your itinerary is booked, as well as any third parties responsible for facilitating the transaction (e.g., credit card authorization company, etc.). The personal information provided to the third parties will not be used for any purpose other than the completion of your travel arrangements.</p>
+
+<p>Hotwire will also share your information with business firms contracted to provide specific services to us, in a manner consistent with this Privacy Policy. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. In situations such as this where your data is shared with a third-party firm, these firms are contractually obligated to only use your personal data for the purpose for which the relationship exists. These firms do not have the right to share your data with other organizations or contact you outside the bounds of their contract with us.</p>
+
+<p>From time to time, we may share general statistical information about our Site and visitors - such as number of visitors, aggregate and non-personally identifiable demographic data, number and type of goods and services booked, etc. - with our advertisers and partners. However, we do not reveal your name, address or other personal data for anything other than the use it was originally intended without giving you the opportunity to opt out.</p>
+
+<p>Hotwire may disclose information about you to others if we have a good-faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property, or safety of Hotwire or others. This includes, but is not limited to, customer fraud, technical malfunctions, or abuse of our network or systems. We also may provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. Except as otherwise stated above, Hotwire will not disclose your personal information with any third party without your consent.</p>
+
+<p>Hotwire is not responsible for information collection and privacy practices of third-party sites that are accessed via links from the Hotwire Site.</p>
+
+
+
+<a name="wcaa"></a>
+<p><strong>What choices are available</strong></p>
+
+<p>Registration is optional. If you choose not to register, certain sections of our Site may be inaccessible but you will be able to search products. Please be aware, however, that after a certain number of searches, Hotwire may require you to register in order to continue searching on our Site. Registration and login is required to complete a booking on our Site.</p>
+
+<p>In the "My Account" section of the Hotwire Site, you may make changes to your account and change your email address, change your password or update your contact or credit card information. You may also subscribe or unsubscribe for Hotwire communications. Registration and login is required to access these account settings.</p>
+
+<p>As we explain in more detail <a href="#cookies">below</a>, Hotwire uses cookies to improve your booking experience and reduce the time it takes for you to complete a booking. You may choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please be aware, however, that by refusing to accept cookies, you will be unable to access a significant portion of the Hotwire Site.</p>
+
+
+
+<a name="ecyctrfu"></a>
+<p><strong>Email communication you choose to receive from us</strong></p>
+
+<p>If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you. For example:</p>
+
+<ul>
+    <li>We update you on any important functionality changes to our Site via email.</li>
+    <li>We keep you informed about Hotwire deals, sweepstakes, programs, etc., and other special promotions that we think you will find valuable. For example, if you choose to provide us with information about your travel preferences - such as which cities you most frequently travel between - we can deliver highly relevant and customized email newsletters.</li>
+    <li>From time to time, we may ask you to fill out optional personal profiles that will shape our future offers and promotions.</li>
+</ul>
+
+<p>With the exception of emails confirming registration, emails that include information about your Hotwire account, and emails relating directly to a booking made on our Site, Hotwire will not send you any postal mail or emails unless you elect to receive communications from us. If you are no longer interested in receiving communications from Hotwire, you have several choices for opting out of future mailings:</p>
+
+<ul>
+    <li>Our emails include instructions on how to unsubscribe yourself from our email list.</li>
+    <li>Click on "My Account" at the top of any page on our Site and update your "Account Settings" (the opt-in/out area is located under "Contact Details," below your email).</li>
+    <li>Call us at <strong>1-866-HOTWIRE (1-866-468-9473)</strong>.</li>
+</ul>
+
+
+
+<a name="htaacyai"></a>
+<p><strong>How to access and control your account information</strong></p>
+
+<p>Don't worry - the information you save under "My Account" is securely stored and can only be accessed using your email login and password (both of which you choose when registering with our Site). If you wish to update, correct or access any personally identifiable information that you saved to your account on Hotwire, you can make the changes by clicking on the "My Account" links that appear throughout the Site. In addition, all of your previous travel activity is stored with your account information. Should you misplace your itinerary, you can go to "My Account" and look it up. Hotwire cannot modify information about any previous itinerary that you searched or booked.</p>
+
+<p><strong>Other topics:</strong></p>
+
+<ul>
+<li><a href="#cookies">Cookies</a></li>
+<li><a href="#third">Third-party Advertising</a></li>
+<li><a href="#sweepstakes">Sweepstakes</a></li>
+<li><a href="#mergers">Mergers/Acquisitions</a></li>
+<li><a href="#recently">Recently Booked Deals</a></li>
+<li><a href="#testimonials">Testimonials</a></li>
+<li><a href="#children">Children</a></li>
+<li><a href="#internationalusers">International Users</a></li>
+<li><a href="#notification">Notification of Changes</a></li>
+<li><a href="#customerCareContact">Contact Us</a></li>
+</ul>
+
+
+
+<a name="cookies"></a>
+<p><strong>Cookies</strong></p>
+
+<p>A cookie is a unique identifier sent to your computer by a Web server and stored on your computer's hard drive. A cookie lets a computer server identify your computer. A cookie is what allows many sites to greet you upon every return with a message such as, "Hi, Bob! Welcome back," even before you actively login. At Hotwire, we use cookies to improve your shopping experience and reduce the time it takes for you to complete a booking. Our cookies do not include any sensitive information, but they do help us track which of our Web pages are visited and what services are most often used. Please note that in order to use our Site, your Web browser must be configured to accept cookies. You can rest assured, however, that due to the way the technology of the Internet works, Hotwire does not and cannot use cookies to retrieve personal information from your computer.</p>
+
+
+
+<a name="third"></a>
+<p><strong>Third-party Advertising</strong></p>
+
+<p>From time to time, Hotwire may use a third-party advertising company to serve advertising on our behalf. Through the use of technology devices - commonly referred to as cookies and action tags - this third-party ad-serving company can measure the effectiveness of our ads. Hotwire does not have access to the third-party company's cookies, which are similar to our own cookies. The company employs an action tag - also known as a Web Beacon or a one-pixel .gif file - to set or read cookies. Hotwire's third-party ad server will also receive specific information about your order, such as the order number and product category. Rest assured that this shared information is anonymous and does not contain any sensitive information. The company may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.</p>
+
+
+
+<a name="sweepstakes"></a>
+<p><strong>Sweepstakes</strong></p>
+
+<p>Hotwire may occasionally offer Site visitors an opportunity to participate in a survey, contest or sweepstakes. Information collected by Hotwire for such a survey, contest or sweepstakes will be subject to the same protection as the information Hotwire generally collects from its users.</p>
+
+
+
+<a name="mergers"></a>
+<p><strong>Mergers/Acquisitions</strong></p>
+
+<p>In the event that Hotwire or substantially all of Hotwire's assets are acquired, customer information may be transferred to Hotwire's successor company. In the event such a transfer occurs, your personal information will be subject to the same protection as it was prior to the transfer.</p>
+
+
+
+<a name="recently"></a>
+<p><strong>Recently Booked Deals</strong></p>
+
+<p>Whenever Hotwire shows recently booked airfare, hotel or car rental deals, they are based on individual bookings that we aggregated (i.e., gathered up across all user accounts) during a specified time period. However, no personally identifiable information is provided.</p>
+
+
+
+<a name="testimonials"></a>
+<p><strong>Testimonials and Customer Feedback</strong></p>
+
+<p>At Hotwire, we often receive testimonials and comments from customers who have had positive booking and/or travel experiences with our Site. We occasionally publish such content.</p>
+
+<a name="children"></a>
+<p><strong>Children</strong></p>
+
+<p>Children are not eligible to use our services and we ask that minors (anyone under the age of 18) not submit any personal information to us. Hotwire does not knowingly collect personal information from anyone under the age of 18 or permit them to use our Site.</p>
+
+
+
+<a name="internationalusers"></a>
+<p><strong>International Users - Applicable Law</strong></p>
+
+<p>Hotwire collects, processes, stores, discloses and disposes of personal information that you submit to us in accordance with applicable United States law. Please note that the personal information you submit to our Site will be transferred to the United States to be processed by Hotwire in order to provide this Site and its services to you or for such other purposes as set forth in this Privacy Policy. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction. In addition, we may store such personal information in the United States, outside your resident jurisdiction. In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation and self-regulation. Please be aware that United States law may offer different levels of protection for personal information than may be available in your country.</p>
+
+
+
+<a name="notification"></a>
+<p><strong>Notification of Changes</strong></p>
+
+<p>If we intend to use any personally identifiable information in a manner different than what is stated at the time of data collection, we will notify you via email and give you the opportunity to opt-out. In addition, if we make any material changes in our privacy practices, we will post a notice on our Site advising users of the change. This Privacy Policy was produced and posted in July 2003 and last modified in November 2004.</p>
+
+
+
+<a name="customerCareContact"></a>
+<p><strong>Contact Us</strong></p>
+
+<p>If you have questions or concerns regarding your privacy or security on our Site, feel free to contact us by email, phone or postal mail.</p>
+
+<p>For other issues, we can be reached in the following ways:</p>
+
+<p><strong>Email</strong></p>
+
+<p>Our customer care associates are available 24 hours a day, seven days a week. If you wish to
+    <a href="https://www.hotwire.com/helpcenter/contact.jsp" target="_blank">email us</a>, we respond to most customer emails within two hours or less. Depending on the nature of your inquiry and the time of day, our response may take a bit longer.</p>
+
+<p><strong>Phone Toll-Free - within the U.S. and Canada<br>1-866-HOTWIRE (1-866-468-9473)</strong></p>
+
+<p><strong>Phone - outside of the U.S. and Canada<br>1-920-634-3150 (regular toll charges apply)</strong></p>
+
+<p><strong>Mail</strong></p>
+
+<p>Hotwire  Customer Care<br>
+655 Montgomery Street #600<br>
+San Francisco, CA 94111<br>
+U.S.A </p>
+
 </div>
+</div>
+
+
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        <div class="clr"></div>
+    </div>
+
+    <style type="text/css">
+        #hwGlobalFooter {
+            margin-top: 0;
+        }
+    </style>
+
+
+    
+
+
+
+
+
 <div class="clr"></div>
-
-
-
-
-
 <div id="hwGlobalFooter">
     <div class="award">
-        <div class="jdPowerAward" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-AWARD:loc:0:JDPOWER');
+        <div class="jdPowerAward" onclick="AnalyticsSupport.storeLinkId(':NAV-AWARD:JDPOWER');
                                            AppSupport.popUpWindow('http://www.hotwire.com/pop-up/jd-power-award.jsp',
                                                                   'jdpaward',
                                                                   'height=280,width=469,scrollbars=yes,resizable=yes');">
@@ -561,48 +677,60 @@ document.cookie = "linkIdCookie=;path=/";
     </div>
     <div class="footerLinks">
         <ul class="sitemapLinks">
-            <li><a href="http://www.hotwire.com/travel-information/privacy-policy.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:PRIVACY');">Privacy Policy</a></li>
+            <li><a href="http://www.hotwire.com/travel-information/privacy-policy.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'PRIVACY'});">Privacy Policy</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/travel-information/terms.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:TERMS');">Terms of Use</a></li>
+            <li><a href="http://www.hotwire.com/travel-information/terms.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'TERMS'});">Terms of Use</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/travel-information/suppliers/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:SUPPLIERS');">Suppliers</a></li>
+            <li><a href="http://www.hotwire.com/travel-information/suppliers/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'SUPPLIERS'});">Suppliers</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/about-hotwire/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:ABOUT-HW');">About Hotwire</a></li>
+            <li><a href="http://www.hotwire.com/about-hotwire/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'ABOUT-HW'});">About Hotwire</a></li>
             <li class="sep">|</li>
-            <li><a href="http://press.hotwire.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-FOOTER:loc:0:PRESS',
-                                              'external-link','http://press.hotwire.com', AnalyticsSupport.pageId)">Press Room</a></li>
+            <li><a href="http://www.hotwire.com/about-hotwire/press-room/welcome.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'PRESS'});">Press Room</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/affiliates/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:AFFILIATES');">Affiliates</a></li>
+            <li><a href="http://www.hotwire.com/affiliates/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'AFFILIATES'});">Affiliates</a></li>
             <li class="sep">|</li>
             <li><a href="http://www.advertising.expedia.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-FOOTER:loc:0:ADVERTISERS',
                                                                                         'external-link','http://www.advertising.expedia.com', AnalyticsSupport.pageId)">Advertisers</a></li>
+            <li class="sep">|</li>
+            <li><a href="http://www.hotwire.com/careers/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'CAREERS'});">Careers</a></li>
         </ul>
         <ul class="sitemapLinks">
-            <li><a href="http://www.hotwire.com/hotel-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:HOTELS');">Hotels</a></li>
+            <li><a href="http://www.hotwire.com/hotel-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'HOTELS'});">Hotels</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/car-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:CARS');">Cars</a></li>
+            <li><a href="http://www.hotwire.com/car-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'CARS'});">Cars</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/flight-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:FLIGHTS');">Flights</a></li>
+            <li><a href="http://www.hotwire.com/flight-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'FLIGHTS'});">Flights</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/package-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:PACKAGES');">Packages</a></li>
+             
+            <li><a href="http://www.hotwire.com/package-information/us/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'PACKAGES'});">Vacations</a></li>
             <li class="sep">|</li>
+            
             <li><a href="http://cruises.hotwire.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-FOOTER:loc:0:CRUISES',
                                                                                 'external-link','http://cruises.hotwire.com', AnalyticsSupport.pageId)">Cruises</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/deals/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:DEALS');">Deals</a></li>
+            <li><a href="http://www.hotwire.com/deals/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'DEALS'});">Deals</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/planning/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:PLANNING-TOOLS');">Planning Tools</a></li>
+            <li><a href="http://www.hotwire.com/helpcenter/index.jsp" class="customerCare" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-UTILITIES',linkName:'HELP-CENTER'});">Help Center</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/newtohotwire/index.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:NEW-USER');">New to Hotwire?</a></li>
+            <li><a href="http://www.hotwire.com/planning/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'PLANNING-TOOLS'});">Planning Tools</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/travelticker/index.jsp" target="_blank" onclick="AnalyticsSupport.logOmnitureLinkEvent({moduleName:'nav-footer', link: 'ticker'});
-                            cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-FOOTER:loc:0:TICKER','external-link',
-                                              'http://www.advertising.expedia.com', AnalyticsSupport.pageId)">Travel Ticker</a></li>
+            <li><a href="http://www.hotwire.com/newtohotwire/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'NEW-USER'});">New to Hotwire?</a></li>
             <li class="sep">|</li>
-            <li><a href="http://www.hotwire.com/sitemap.jsp" onclick="AnalyticsSupport.storeLinkId('about/privacy-policy.jsp:NAV-FOOTER:loc:0:SITE-MAP');">Site Map</a></li>
+            <li><a href="http://www.hotwire.com/sitemap.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'SITE-MAP'});">Site Map</a></li>
+            <li class="sep">|</li>
+            <li><a href="http://developer.hotwire.com">Developers</a></li>
         </ul>
         <div class="additionalInformation">
-            <p>© 2000-2009 Hotwire, Inc. All rights reserved. Hotwire, Inc. is not responsible for content on external sites. Hotwire, the Hotwire logo, Hot Fare, Hot Rate, Travel Ticker and TripStarter are either registered trademarks or trademarks of Hotwire, Inc. in the US and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners. CST 2053390-40; NST 20003-0209.</p>
+            <p>© 2000-2009 Hotwire, Inc. All rights reserved. Hotwire, Inc. is not responsible for content on external sites. Hotwire, the Hotwire logo, Hot Fare, Hot Rate, <nobr>"4-star hotels. 2-star prices.",</nobr> Travel Ticker and TripStarter are either registered trademarks or trademarks of Hotwire, Inc. in the US and/or other countries. Other logos or product and company names mentioned herein may be the property of their respective owners. CST 2053390-40; NST 20003-0209.</p>
+            <p class="partners">
+                <strong>The Hotwire Group: </strong>
+                <a href="http://www.hotwire.com/index.jsp" onclick="AnalyticsSupport.storeLinkId({moduleName:'NAV-FOOTER',linkName:'HOTWIRE'});">Hotwire.com</a> -
+                <a target="_blank" href="http://www.carrentals.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:CARRENTALS',
+                   'external-link','http://www.carrentals.com', AnalyticsSupport.pageId);">CarRentals.com</a> -
+                
+                <a target="_blank" href="http://www.travel-ticker.com/index.jsp" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:TRAVEL-TICKER',
+                   'external-link','http://www.travel-ticker.com', AnalyticsSupport.pageId);">Travel-Ticker.com</a>
+            </p>
             <p class="partners">
                 <strong>Expedia Inc. Partners: </strong>
                 <a target="_blank" href="http://www.expedia.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:EXPEDIA',
@@ -621,26 +749,27 @@ document.cookie = "linkIdCookie=;path=/";
             <p class="partners">
                 <strong><a target="_blank" href="http://iac.com/index.html" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:IAC',
                                                        'external-link','http://iac.com/index.html', AnalyticsSupport.pageId);">IAC/InterActiveCorp</a> Partners: </strong>
+                <a target="_blank" href="http://www.bloglines.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:BLOGLINES',
+                                             'external-link','http://www.bloglines.com', AnalyticsSupport.pageId);">Bloglines</a> -
                 <a target="_blank" href="http://www.citysearch.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:CITY-SEARCH',
                                              'external-link','http://www.citysearch.com', AnalyticsSupport.pageId);">Citysearch</a> -
-                <a target="_blank" href="http://www.entertainment.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:ENTERTAINMENT',
-                                                                                                  'external-link','http://www.entertainment.com', AnalyticsSupport.pageId);">Entertainment</a> -
                 <a target="_blank" href="http://www.evite.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:EVITE',
                                                                                           'external-link','http://www.evite.com', AnalyticsSupport.pageId);">Evite</a> -
+                <a target="_blank" href="http://www.excite.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:EXCITE',
+                                             'external-link','http://www.excite.com', AnalyticsSupport.pageId);">Excite</a> -
                 <a target="_blank" href="http://www.gifts.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:GIFTS',
                                                                                           'external-link','http://www.gifts.com', AnalyticsSupport.pageId);">Gifts</a> -
                 <a target="_blank" href="http://www.hsn.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:HSN',
                                                                                         'external-link','http://www.hsn.com', AnalyticsSupport.pageId);">HSN</a> -
-                <a target="_blank" href="http://www.improvementscatalog.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:IMPROVEMENTS',
-                                             'external-link','http://www.improvementscatalog.com', AnalyticsSupport.pageId);">Improvements Catalog</a> -
+
                 <a target="_blank" href="http://www.lendingtree.com/stm/default.asp" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:LENDING-TREE',
                                              'external-link','http://www.lendingtree.com/stm/default.asp', AnalyticsSupport.pageId);">LendingTree</a> -
                 <a target="_blank" href="http://www.match.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:MATCH','external-link',
                                              'http://www.match.com', AnalyticsSupport.pageId);">Match</a> -
-                <a target="_blank" href="http://www.realestate.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:REAL-ESTATE',
-                                             'external-link','http://www.realestate.com', AnalyticsSupport.pageId);">RealEstate</a> -
-                <a target="_blank" href="http://www.reserveamerica.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:RESERVEAMERICA',
-                                             'external-link','http://www.reserveamerica.com', AnalyticsSupport.pageId);">ReserveAmerica</a> -
+                <a target="_blank" href="http://www.pronto.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:PRONTO',
+                                             'external-link','http://www.pronto.com', AnalyticsSupport.pageId);">Pronto</a> -
+                <a target="_blank" href="http://www.servicemagic.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:SERVICEMAGIC',
+                                             'external-link','http://www.servicemagic.com', AnalyticsSupport.pageId);">ServiceMagic</a> -
                 <a target="_blank" href="http://www.shoebuy.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:SHOES','external-link',
                                              'http://www.shoebuy.com', AnalyticsSupport.pageId);">Shoes</a> -
                 <a target="_blank" href="http://www.ticketmaster.com" onclick="cmPageviewOnClick(AnalyticsSupport.pageId + ':NAV-PARTNERS:loc:0:TICKETMASTER',
@@ -651,15 +780,17 @@ document.cookie = "linkIdCookie=;path=/";
     <div class="clr"></div>
 </div>
 
+    
 
 
 
 
 
 
-
-
+    
+    
 </div>
+
 
 
 
