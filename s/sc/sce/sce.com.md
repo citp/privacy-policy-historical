@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062623id_/http%3A//www.sce.com/SC3/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218001702id_/http%3A//www.sce.com/SC3/PrivacyPolicy) for the most accurate reproduction.*
 
 # SCE - Privacy Policy
 
@@ -9,7 +9,15 @@ Southern California Edison (SCE) respects the privacy of our customers. We reali
   **What kind of information do we collect?**  
 When you visit our Web site there are two kinds of information that we are likely to record:
 
- **We do not sell or trade customer information.  
+> 1\. Non-personal statistical information collected in the aggregate. 
+
+This is anonymous information on subjects such as: how many visitors come to our Web site, how they navigate through the site, which browsers they use to visit the site, etc. 
+
+> 2\. Personal information that you knowingly supply to us.
+
+When you sign up for certain products or register on the SCE Web site to access your account information, SCE will collect personal information that will help us to identify you, authenticate you, and provide you better service in the future. This information is called “personally identifiable information” and is used to associate usage information with a specific individual or entity. Examples of personally identifiable information are: customer name, address, telephone number, e-mail address, account number, etc. It is a common business practice to collect “personally identifiable information” in order to conduct business and provide customers with specific services. SCE has collected this information from customers in the past to provide services through mail or over the telephone. The emergence and popularity of the Internet provides SCE with yet another way to communicate with customers and meet customer needs. 
+
+**We do not sell or trade customer information.  
 ** SCE will not sell or trade your personal information to any third party, absent authorization by you. In fact, because we are a regulated utility, the California Public Utilities Commission forbids us to do so. The Internet medium will not change this.  We only collect your personal data in order to provide you with better services.
 
   **Receipt of E-mails**  
@@ -26,3 +34,6 @@ The SCE Web site contains links to various other Web sites. Please be aware that
 
 **Updates**  
 In order to improve our service or to keep up with future industry changes, the information in this privacy policy may be periodically updated. We will post a new date in the event that the current policy is altered. This statement posted December 2000.
+
+
+
