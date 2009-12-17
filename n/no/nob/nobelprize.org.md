@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616075432id_/http%3A//nobelprize.org/nobelweb/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217192603id_/http%3A//nobelprize.org/nobelweb/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
