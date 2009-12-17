@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestranger.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175713id_/http%3A//thestranger.com/seattle/Page%3Foid%3D568113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestranger.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234619id_/http%3A//www.thestranger.com/seattle/Page%3Foid%3D568113) for the most accurate reproduction.*
 
-# The Stranger | Privacy Policy
+# Privacy Policy | The Stranger, Seattle's Only Newspaper
 
 When you register on this website or use services on the site, we collect some personal information directly from you, typically just your e-mail address. If you purchase merchandise, a classified ad or sign up for a Stranger Personals membership, we may also ask for your payment information (processed through industry leader VeriSign), your physical address, phone number, date of birth, and/or gender. The privacy policy below explains how we deal with your information. 
 
