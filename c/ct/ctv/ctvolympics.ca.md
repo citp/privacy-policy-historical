@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ctvolympics.ca privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615170543id_/http%3A//www.ctvolympics.ca/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctvolympics.ca privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217193509id_/http%3A//www.ctvolympics.ca/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# CTV Olympics | Vancouver 2010 Olympic Winter Games | Athletes & Team News, Videos, Photos | Results and Schedules, Medals, TV and Online Listings
+# Privacy Policy - 2010 Winter Olympics - CTV Olympics
 
 (Last Updated on February 9, 2009) 
 
