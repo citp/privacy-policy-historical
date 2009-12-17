@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the bcu.org privacy policy that was archived on 2009-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090519003013id_/http%3A//www.bcu.org/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcu.org privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217100917id_/http%3A//www.bcu.org/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=7">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en-us">
-<!-- 12/19/08 CLD test cache disable -->
+<!-- 12/19/08 CLD test cache disabled -->
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
@@ -12,6 +13,7 @@
 <meta name="keywords" lang="en-us" content="accidental death and dismemberment coverage,aig,loans,atm locations,atm search,atms,auto loans,bank,balance,banking,becu,bcu security,bcu.com,bcu.org,bill pay,bill payment,bill paying,boat loans,baxter credit union,calculators,car loans,careers,check reorder,checking,CDs,co-op network,college savings,community banks,coverdell education savings accounts,credit cards,cash,credit life and disability,credit union,cudl,cu direct lending,custodial services,debit card,deposit,dividends,employment,estatements,service centers,shared branching,financial advisors,financial cooperative,financial education,financial planning and counseling,financial services,foreCLOSEd properties,free seminars,gap,googolplex,guaranteed auto protection,heloc,home equity,homeowners insurance,insurance,internship,investment management,investments,IRA,jobs,join us,jumbo,lending,life insurance,line of credit,lpl,linsco private ledger,loans,loan rates,locations,mastercard exclusives online,members market index,membership,membership benefits,membership enrollment,money,mortgage,mutual funds,ncua,chicagoland area,lake county,mchenry county,online access,online banking,online bill pay,online enrollment,online mortgages,online visa,phone banking,prime alliance,rates,reg d,reorder,reporting agencies,rollover IRAs,savings account,security,security online,sharebuilder,special offers,statements online,stocks,student,term life,the home service store,travelaccount visa,travel visa,vehicle service agreement,verified by visa,visa,vsa,credit unions,www.bcu,www.bcu.com,www.bcu.org">
 <!-- 11/11/08 CLD Modify to use WebBankingPageMainCopyHeader rather than MainCopyHeader. -->
 <title>BCU - 
+Privacy Policy
 </title>
 <style type="text/css">
 <!--
@@ -30,6 +32,9 @@
 <!--[if IE 6]>
   <link rel="stylesheet" type="text/css" href="css/08_2008/ie6.css" />
 <![endif]-->
+<!--[if !IE]-->
+<link rel="stylesheet" type="text/css" href="css/08_2008/otherbrowsers.css">
+<!--[endif]-->
       <script type="text/javascript" language="javascript" charset="iso-8859-1">
          var theme = 'blue';
          /* Force the application into the top frame */
@@ -141,6 +146,43 @@ function setDashboardLinksNormal()
 <script type="text/javascript" src="common/rowhide.js"></script>
 <script type="text/javascript" src="common/rateswidget/jquery.min.js"></script>
 <script type="text/javascript" src="common/rateswidget/equalheight.js"></script>
+  <script language="JavaScript">
+  //04/29/09 CdG - Added the following functions for eNotices (project 87)
+  // toggleMenu handles the expanding and contracting of the menu sections
+  function toggleMenu(objID) 
+  {
+    if (!document.getElementById) return;
+    var ob = document.getElementById(objID).style;
+    ob.display = (ob.display == 'block')?'none': 'block';
+  }
+  
+  // displayExpansionIcons is called on BODY load and will do the initial setting of the plus minus 
+  // displays for all menu sections
+    function displayExpansionIcons(showobjID1,showobjID2,showobjID3,hideobjID1,hideobjID2,hideobjID3)
+  {
+    document.getElementById(showobjID1).style.display = 'inline';
+    document.getElementById(showobjID2).style.display = 'inline';
+    document.getElementById(showobjID3).style.display = 'inline';
+    document.getElementById(hideobjID1).style.display = 'none';
+    document.getElementById(hideobjID2).style.display = 'none';
+    document.getElementById(hideobjID3).style.display = 'none';
+  }
+  
+  // switches the plus and minus icons accordingly
+  function switchSectionExpansionIcons(objID1,objID2)
+  {
+    if (document.getElementById(objID1).style.display == 'inline')
+    {
+      document.getElementById(objID1).style.display = 'none';
+      document.getElementById(objID2).style.display = 'inline';
+    }
+    else
+    {
+      document.getElementById(objID1).style.display = 'inline';
+      document.getElementById(objID2).style.display = 'none';
+    }
+  } 
+  </script>
 </head>
 <body>
 <p class="skipNav"><a href="#mainCopy">Skip Navigation</a></p>
@@ -181,16 +223,13 @@ function setDashboardLinksNormal()
 </div><!-- CLOSE div#header -->
 <div id="menubar">
 <ul id="menubarNav">
-<li><a href="Checking.aspx" class="first 1"><span>Checking</span></a></li>
-<li><a href="AutoLoans.aspx"><span>Auto Loans</span></a></li>
-<li><a href="Savings.aspx"><span>Savings</span></a></li>
-<li><a href="HomeLoans.aspx"><span>Home Loans</span></a></li>
-<li><a href="CreditCards.aspx"><span>Credit Cards</span></a></li>
-<li><a href="InvestingAndPlanning.aspx"><span>Investing &amp; Planning</span></a></li>
-<li><a href="OnlineServices.aspx">
-<!-- 11/3/08 CLD Modify to add line break to Online Services tab name -->
-<span>Online <br> Services
-</span></a></li>
+<!-- 6/29/09 DL home page/nav bar redesign -->
+<li><a href="DepositsInvesting.aspx" class="first 1"><span>Deposits &amp; Investments</span></a></li>
+<li><a href="Loans.aspx"><span>Loans<span></span></span></a></li>
+<li><a href="creditcards.aspx"><span>Credit Cards&nbsp;</span></a></li>
+<li><a href="ONLINESERVICES.aspx"><span>Online Services</span></a></li>
+<li><a href="financialfitnessstart.aspx"><span>Financial Resource Center</span></a></li>
+<li><a href="PressReleases2009.aspx"><span>News &amp; Events</span></a></li>
 </ul><!-- CLOSE ul#menubarNav -->
 </div><!-- CLOSE #menubar -->
 <div id="mainContent">
@@ -248,7 +287,7 @@ function setDashboardLinksNormal()
 <p>Make a smart choice for your financial well-being by joining a member-owned financial institution with distinct advantages.
 </p>
 <ul id="memebersBenefits" title="Membership Benefits">
-<li><a href="BecomeMember.aspx">What are the Advantages<br>of Membership?</a></li>
+<li><a href="MemberAdvantage.aspx">What are the Advantages<br>of Membership?</a></li>
 </ul>
 
 <button type="submit" onclick="window.open('https://memberapp.org/accesspoint/cumember/logon.aspx   ', 'ApplyForMembership','locationbar=no,scrollbars=yes,resizable=yes,status=yes' );pageTracker._link(this.href); return false;"><span class="buttonArrow"><span class="buttonBegin">
@@ -741,9 +780,9 @@ function validateLoginFields()
 <div id="currentRates">
 <h2>Current Rates</h2>		
 <ul id="currentRatesNav" title="Current Rates Tabs">
-<li><a href="?rwt=5" class="active"><span>Checking</span></a></li>
+<li><a href="?rwt=5"><span>Checking</span></a></li>
+<li><a href="?rwt=2" class="active"><span>Savings</span></a></li>
 <li><a href="?rwt=1"><span>Auto Loans</span></a></li>
-<li><a href="?rwt=2"><span>Savings</span></a></li>
 <li><a href="?rwt=3"><span>Home Loans</span></a></li>
 <li><a href="?rwt=4"><span>Credit Cards</span></a></li>
 </ul>
@@ -752,16 +791,19 @@ function validateLoginFields()
 
 
 </tbody><thead>
-<tr><td class="first"></td><td>APY</td><td>DIVIDEND RATE*</td></tr>
+<tr><td class="first">Savings </td><td>APY</td><td>DIVIDEND RATE*</td></tr>
 </thead>
-<tbody><tr><td id="cont"><a href="POWERCHECKING.aspx">POWERCHECKING*</a></td><td>3.50%</td><td>3.45%</td></tr>
-<tr><td><a href="BasicChecking.aspx">Preferred Interest Checking**</a></td><td>0.75% over $25,000</td><td>0.75% over $25,000</td></tr>
+<tbody><tr><td id="cont"><a href="Certificates.aspx">60 month term</a></td><td>3.00%</td><td>2.96%</td></tr>
+<tr><td><a href="Certificates.aspx">6-month Certificate**</a></td><td>0.80%</td><td>0.80%</td></tr>
+<tr><td><a href="MoneyMarket.aspx">Money Market* $100,000 +</a></td><td>1.25%</td><td>1.24%</td></tr>
+<tr><td><a href="RainyDaySavings.aspx">Rainy Day Savings**</a></td><td>3.00%</td><td>2.96%</td></tr>
 <tr><td colspan="3">
 <div id="ratesWidget">
 <hr id="ratesWidgetHR">
-<p><a href="RatesPR.aspx">Rates for Puerto Rico</a><br>
+<p><a href="InterestRatesSummary.aspx">View additional rates</a><br>
+</p><p><a href="RatesPR.aspx">Rates for Puerto Rico</a><br>
 <abbr title="Annual Percentage Yield">APY = Annual Percentage Yield</abbr><br>
-<a href="#" onclick="openPopup('Disclosures.aspx#Checking','Help','width=300,height=270')">*Disclosure Information</a><br>
+<a href="DepositDisclosures.aspx#Savings">*Disclosure Information</a><br>
 &nbsp;<br>
 </p><hr id="ratesWidgetHR">
 <p></p>
@@ -775,6 +817,8 @@ function validateLoginFields()
 <!-- End Rates Widget -->
 
 <!-- End Bottom right corner of page - bottom of dashboard -->
+<!-- 04/29/09 CdG - Create space for revised dashboard menu client-side expansion. (project 87) -->
+
 <!-- End If -->
 </div>
 </div><!-- close #sidebar-->
