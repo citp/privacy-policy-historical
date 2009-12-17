@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193436id_/http%3A//www.thedailymash.co.uk/weekend/ironicbbq/privacy-policy-20070607197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217012358id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Daily Mash
+# The Daily Mash - Privacy Policy
 
 This is the Privacy Policy which you agree to by using thedailymash.co.uk. 
 
