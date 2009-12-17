@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myla.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175614id_/http%3A//www.myla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myla.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092447id_/http%3A//www.myla.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Myla's Designer Lingerie Shop Online
+# Privacy Policy - Myla's Designer Lingerie Shop Online
 
 At Myla we know that one of the things that our customers enjoy about their personal lives is that it is a private oasis in their busy lives. We feel the same way and so we are committed to protecting your privacy and security.
 
