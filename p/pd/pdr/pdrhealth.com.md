@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdrhealth.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628015328id_/http%3A//www.pdrhealth.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdrhealth.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217180655id_/http%3A//www.pdrhealth.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy tittle meta tag
 
@@ -22,11 +22,9 @@ In general, we use all of the information we collect in order to:
 
 
 
-We may also provide information about you to other Thomson companies who offer various programs and products and we may include information about you to other Thomson companies for those programs. 
-
 We may also share your information with other third parties who perform services for us, but we forbid these companies from using your personal information for their own purposes. 
 
-Please note that we may disclose any information as required by law, when necessary for health or safety purposes, or when needed to protect our legal rights. For example, we may disclose information about you in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our business. Additionally, as we continue to develop the PDRhealth web site, we might sell or buy business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer consents otherwise). 
+Please note that we may disclose any information as required by law or when needed to protect our legal rights. For example, we may disclose information about you in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our business. Additionally, as we continue to develop the PDRhealth web site, we might sell or buy business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer consents otherwise). 
 
 ###  Your Choices
 
@@ -34,13 +32,13 @@ We use good faith efforts to respect your preferences about our use of your info
 
 ###  Accessing your Information
 
-We strive to provide all our customers with reasonable opportunity to access and update their customer profile information. If you have sent us your email address, you may access and update this information by contacting our customer support department. 
+We strive to provide all our customers with reasonable opportunity to access and update their customer profile information. If you have sent us your email address, you may access and update this information by contacting our customer support department.
 
 ###  Privacy Statement Parameters
 
-This privacy statement describes the policies governing the PDRhealth web site. It does not govern the practices at other Thomson company businesses or other PDR web sites (such as pdrbookstore.com and pdr.net). 
+This privacy statement describes the policies governing the PDRhealth web site. It does not govern the practices at other PDR web sites (such as pdrbookstore.com and pdr.net). 
 
-Embedded within the PDRhealth web site are the Thomson Healthcare NexCura profiler tools. If you elect to use the NexCura profiler tools, please review the NexCura privacy policy linked at the bottom of the profiler tools. While using the NexCura profiler tools, your information will be treated in accordance with the NexCura privacy policy. 
+Embedded within the PDRhealth web site are the NexCura profiler tools. If you elect to use the NexCura profiler tools, please review the NexCura privacy policy linked at the bottom of the profiler tools. While using the NexCura profiler tools, your information will be treated in accordance with the NexCura privacy policy. 
 
 Additionally, some of the links on the PDRhealth web site are direct links to various sponsor and marketing partner sites, where you can apply for products and services. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company’s web site, you should read the privacy notice associated with that site. 
 
@@ -48,9 +46,9 @@ Additionally, some of the links on the PDRhealth web site are direct links to va
 
 Like most other commercial web sites, we use standard "cookie" technology and web server logs to collect information about how our web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our web sites. Cookies allow you to move from page to page on the web site, by remembering the information about the entire session.
 
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our web site, and the web sites visited just before and just after our web site. This information is collected on an aggregate basis and is not associated with your profile. 
+Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our web site, and the web sites visited just before and just after our web site. This information is collected on an aggregate basis and is not associated with your profile.
 
-We use a third-party advertising company to serve ads when you visit our web site. This company may use information about your visit to this web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+We may use a third-party advertising company to serve ads when you visit our web site. This company may use information about your visit to this web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 ###  How We Secure Information Transmissions
 
@@ -58,25 +56,25 @@ We take reasonable steps to maintain the security of the personally identifiable
 
 ###  Privacy Protections for Children Under the Age of 13 Using the Internet 
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our web site from those we actually know are under the age of 13, nor is any part of our web site targeted to attract anyone under 13. We request that all visitors to our web site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our web site from those we actually know are under the age of 13, nor is any part of our web site targeted to attract anyone under 13. We request that all visitors to our web site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
 
-###  Changes to Our Policies
+### Changes to Our Policies
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes and we will also notify you via email or on the website and take other reasonable steps to give you an opportunity to opt-out of the new data uses. 
 
 ###  Individuals Located Outside the United States
 
-If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By joining the PDRhealth web site, receiving our products or services and/or providing us with your information, you consent to this transfer. 
+If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By joining the PDRhealth web site, receiving our products or services and/or providing us with your information, you consent to this transfer.
 
 ###  Contact Us with Any Questions 
 
 If you have any questions about this privacy statement or our use of your personal information, please contact: 
 
-PDRHealth   
+PDRHealth, c/o PDR Network   
 5 Paragon Drive   
 Montvale, NJ 07645 
 
 Phone: 888.632.9998   
 Email: [PDR.PDRhealth@thomson.com](mailto:PDR.PDRhealth@thomson.com)
 
-The Effective Date of this Privacy Policy is October 29, 2007. 
+The Effective Date of this Privacy Policy is September 24, 2009. 
