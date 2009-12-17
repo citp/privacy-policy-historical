@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toonpool.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185700id_/http%3A//www.toonpool.com/faq.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonpool.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217185135id_/http%3A//www.toonpool.com/faq.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# toonpool.com - cartoons & funny pics
+# Privacy | Cartoons, Caricatures, Cartoon Images | TOONPOOL
 
 ## Your privacy is important to **toonpool.com**.
 
