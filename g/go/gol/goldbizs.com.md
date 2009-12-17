@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbizs.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526232656id_/http%3A//goldbizs.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbizs.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217070839id_/http%3A//goldbizs.com/pages/privacy.php) for the most accurate reproduction.*
 
 # goldbizs.com
 
@@ -38,21 +38,21 @@ Registered Users:
   
 ---  
   
-6,188  
+20,112  
   
 Total Payouts :  
   
-31,995.00$  
+4,234,254.00$  
   
 Users Online:  
   
   
   
-[](https://web.archive.org/web/20090526232656id_/http%3A//goldbizs.com/pages/lastpayouts.php)
+[](https://web.archive.org/web/20091217070839id_/http%3A//goldbizs.com/pages/lastpayouts.php)
 
-[](https://web.archive.org/web/20090526232656id_/http%3A//goldbizs.com/pages/buyreferrals.php)
+[](https://web.archive.org/web/20091217070839id_/http%3A//goldbizs.com/pages/buyreferrals.php)
 
-[](https://web.archive.org/web/20090526232656id_/http%3A//goldbizs.com/pages/contest.php)
+[](https://web.archive.org/web/20091217070839id_/http%3A//goldbizs.com/pages/contest.php)
 
   
 
