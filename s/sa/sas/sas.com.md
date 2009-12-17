@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318173139id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217161845id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
 
 # SAS Institute Inc. | Privacy Statement
 
@@ -77,7 +77,7 @@ SAS offers you the choice of receiving different types of communication and info
 
 #### OUR COMMITMENT TO DATA SECURITY
 
-SAS is concerned about the security of your information. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of information, we have put in place reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption technology when collected or transferring sensitive data such as credit card information. Credit card numbers are used only for processing payment and are not used for other purposes. 
+SAS is concerned about the security of your information. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of information, we have put in place reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption technology when collecting or transferring sensitive data such as credit card information. Credit card numbers are used only for processing payment and are not used for other purposes. 
 
 #### EXTERNAL LINKS
 
