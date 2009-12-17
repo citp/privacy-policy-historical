@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430104443id_/http%3A//www.nintendoworldreport.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217081727id_/http%3A//www.nintendoworldreport.com/privacy.cfm) for the most accurate reproduction.*
 
 # Nintendo World Report - Nintendo World Report Privacy Policy
 
