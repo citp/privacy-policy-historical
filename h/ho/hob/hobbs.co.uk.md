@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616085617id_/http%3A//www.hobbs.co.uk/index.cfm%3Fpage%3D1041) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217210214id_/http%3A//www.hobbs.co.uk/index.cfm%3Fpage%3D1041) for the most accurate reproduction.*
 
-# @txt_pageTitle@
+# 
 
 We at "Hobbs" ("we", "us") respect your right to privacy. Here are some things you should know about how we protect information which you ("you") provide when communicating with us, including when you visit our website located at http://www.hobbs.co.uk ("Website").  
 By communicating with us, including when you access and use our Website, you are accepting and agreeing to the information practices described in this Privacy Policy.
@@ -89,7 +89,7 @@ Controller of Your Information
 Information which you provide to us or which we gather from the Website or in the course of providing services to you is controlled by Hobbs Limited trading as "Hobbs".  
 Registered in England: 01577740
 
-Registered office: 150 Aldersgate Street, London, EC1A 4EJ, United Kingdom. 
+Registered office: Milton Gate, 60 Chiswell Street, London, EC1Y 4AG, United Kingdom. 
 
 VAT Number: 393 824 029
 
