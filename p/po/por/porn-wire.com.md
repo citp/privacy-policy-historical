@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417032804id_/http%3A//www.porn-wire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217061654id_/http%3A//www.porn-wire.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: Porn-Wire
+# Porn-Wire :: Privacy Policy
 
 [](http://www.porn-wire.com/index.php)
 
@@ -44,11 +44,11 @@ Special Note for Parents
 
 Modification and Deletion of Personally Identifiable Information (Opt-Out) 
 
-  In order to delete the personally identifiable information you submitted, notify us, to the following email address: admin@your_domain.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+  In order to delete the personally identifiable information you submitted, notify us, to the following email address: support@porn-wire.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 Modification 
 
-  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: admin@your_domain.com. Please note that deletion of your personally identifiable information from Porn-Wire's database will not prevent Porn-Wire from using gathered anonymous information. 
+  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: support@porn-wire.com. Please note that deletion of your personally identifiable information from Porn-Wire's database will not prevent Porn-Wire from using gathered anonymous information. 
 
 Third Parties' Practices 
 
