@@ -1,94 +1,149 @@
-> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615111634id_/http%3A//mgmmirage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217141312id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM MIRAGE Privacy Statement
 
-|  | 
+## Revised: June 22, 2009
 
-**PRIVACY POLICY**
+MGM MIRAGE values your patronage and respects your privacy. This Privacy Policy ("Policy") describes the privacy practices of MGM MIRAGE, the MGM MIRAGE Web Sites, and the MGM MIRAGE Resorts and Casinos described below (collectively, "us" or "we"), including how personal information about you may be obtained, used, and disclosed by us. This Policy also describes how you can opt-out of some uses of personal information. You may click _[here](http://www.mgmmirage.com/privacy_faq.htm)_ to view Frequently Asked Questions or _[here](http://www.mgmmirage.com/TermsOfUse.htm)_ to review the Terms of Use for MGM MIRAGE Web Sites. If, after reviewing this Policy, you have any privacy questions or concerns, you may contact us at _[privacy@mgmmirage.com](mailto:privacy@mgmmirage.com)_. 
 
-#####  Revised: May 17, 2004 
+This Policy applies only to MGM MIRAGE, the MGM MIRAGE web sites that post this Policy (collectively, "MGM MIRAGE Web Sites"), and the resorts, casinos and other MGM MIRAGE properties listed below (collectively, "MGM MIRAGE Resorts and Casinos"): 
 
-##### **This notice describes how personal information about you may be used and disclosed and how you can "opt out" of some uses. Please review this Privacy Policy carefully.**
+ARIA Resort and Casino in Las Vegas, Nevada  
+Beau Rivage in Biloxi, Mississippi   
+Bellagio in Las Vegas, Nevada  
+Circus Circus in Las Vegas, Nevada   
+Circus Circus in Reno, Nevada  
+CityCenter Residential Division in Las Vegas, Nevada  
+Excalibur in Las Vegas, Nevada  
+Gold Strike in Jean, Nevada  
+Gold Strike Resort in Tunica, Mississippi  
+Luxor in Las Vegas, Nevada  
+Mandalay Bay in Las Vegas, Nevada  
+MGM Grand in Las Vegas, Nevada  
+MGM Grand Detroit in Detroit, Michigan   
+Monte Carlo in Las Vegas, Nevada  
+New York-New York in Las Vegas, Nevada  
+Skylofts at MGM Grand in Las Vegas, Nevada  
+The Crystals at CityCenter in Las Vegas, Nevada  
+THEhotel at Mandalay Bay in Las Vegas, Nevada   
+The Mirage in Las Vegas, Nevada   
+The Signature at MGM Grand in Las Vegas, Nevada  
+Vdara Condo Hotel at CityCenter in Las Vegas, Nevada
 
-##### **If you have any questions about this Privacy Policy, please contact our  
-Loyalty Marketing Department at _[privacy@mgmmirage.com](mailto:privacy@mgmmirage.com)_**
+This Policy does not apply to any other web sites, including other web sites that may be owned, operated, or affiliated with MGM MIRAGE or its subsidiaries. Nor does it apply to any other subsidiaries of MGM MIRAGE, or to any other resorts, casinos, or other properties that are owned, operated, or affiliated with MGM MIRAGE or its subsidiaries. 
 
-#####  MGM MIRAGE is a leading and respected hotel and gaming company. Our mission is to design and operate an unmatched collection of resorts and casinos and provide unsurpassed service and amenities to our guests. We hope that you enjoy our luxurious facilities, our exciting entertainment, and our quality customer service, and that you visit us again. Because we value your patronage and respect your privacy rights, we are voluntarily providing you with this statement of our Privacy Policy. 
+## I .INFORMATION WE COLLECT
 
-#####  This Privacy Policy applies to the following resorts and casinos (the “MGM MIRAGE resorts and casinos” or the “Resorts and Casinos”) and web sites (the “MGM MIRAGE Web Sites”) owned or operated by MGM MIRAGE and/or its subsidiaries: the MGM MIRAGE web site located at [www.mgmmirage.com](http://www.mgmmirage.com/); MGM Grand in Las Vegas, Nevada ([www.mgmgrand.com](http://www.mgmgrand.com/)); MGM Grand Detroit in Detroit, Michigan ([www.mgmdetroit.com](http://www.mgmdetroit.com/)); Bellagio in Las Vegas, Nevada ([www.bellagio.com](http://www.bellagio.com/)); New York-New York Hotel & Casino in Las Vegas, Nevada ([www.nynyhotelcasino.com](http://www.nynyhotelcasino.com/)); The Mirage in Las Vegas, Nevada ([www.mirage.com](http://www.mirage.com/)); Treasure Island in Las Vegas, Nevada ([www.treasureisland.com](http://www.treasureisland.com/)); Beau Rivage in Biloxi, Mississippi ([www.beaurivage.com](http://www.beaurivage.com/)); Players Club ([www.playersclub.com](http://www.playersclub.com/)); Shadow Creek ([www.shadowcreek.com](http://www.shadowcreek.com/)); _M lifestyle_ Magazine ([www.mlifestyle.com](http://www.mlifestyle.com/)); and MGM MIRAGE Voice ([www.mgmmiragevoice.com](http://www.mgmmiragevoice.com/)). Please note that this Privacy Policy applies only to these listed MGM MIRAGE resorts and casinos and MGM MIRAGE Web Sites (collectively, “MGM MIRAGE”). 
+### A.Personal Information that You Provide Voluntarily to Us
 
-#####  This Privacy Policy specifically does **not** apply to the following resorts, casinos, and services and their web sites: Primm Valley Resorts ([www.primmvalleyresorts.com](http://www.primmvalleyresorts.com/)); the Boardwalk Hotel and Casino ([www.boardwalklv.com](http://www.boardwalklv.com/)); MGM Grand Darwin (www.mgmgrand.com.au); MGM MIRAGE Vacations ([www.mgmmiragevacations.com](http://www.mgmmiragevacations.com/)); and MGM MIRAGE Voice Message Board (<https://secure02.mgm-mirage.com/voice/pages/forum>). 
+"Personal Information" is information through which you can be identified. We collect Personal Information that you provide voluntarily to us through a variety of means. Some examples of Personal Information that we collect include your name, date of birth, postal address, e-mail address, telephone number, fax number, gender, gaming activity, and purchase and reservation information. If you visit MGM MIRAGE Resorts and Casinos, Personal Information may include your image in a live video feed that can be viewed on the MGM MIRAGE Web Sites. Some Personal Information is considered "Confidential Personal Information." Confidential Personal Information is your name in combination with one or more of the following: credit or debit card number, financial account number, driver's license number, state identification card number, Social Security number, passport number, and naturalization number. 
 
-#####  This Privacy Policy applies to Personal Information (as defined below) collected by MGM MIRAGE at the MGM MIRAGE resorts and casinos and the MGM MIRAGE Web Sites. Users of the MGM MIRAGE Web Sites are also referred to the Terms of Use for the MGM MIRAGE Web Sites, located at [https://www.mgmmirage.com/TermsOfUse.htm](https://web.archive.org/web/20040615111634id_/http%3A//mgmmirage.com/TermsOfUse.htm)
+### B. Personal Information that We Obtain From Partners
 
-##### **_A Special Notice about Children_**
+We may obtain Personal Information from carefully selected business partners including entities that direct you to, or are located at, MGM MIRAGE Web Sites or MGM MIRAGE Resorts and Casinos (collectively "Partners"). We may use Personal Information obtained from our Partners in accordance with the terms of this Policy. We generally have no control over how our Partners use Personal Information they collect from or about you. Therefore, if you provide Personal Information, including Confidential Personal Information, to our Partners, we encourage you to consult our Partners' privacy policies for more information about their privacy protection practices. 
 
-#####  Children [persons under the age of twenty-one (21)] are not permitted to gamble in casinos, loiter in the gaming areas, or drink alcoholic beverages at any of the MGM MIRAGE resorts and casinos. In addition, children may not be permitted to attend certain entertainment or enter into contractual relationships with MGM MIRAGE in certain states. **_If you are under the age of 21, we ask that you do not gamble or loiter in the gaming areas, drink alcoholic beverages, attend inappropriate entertainment, or enter into contracts that you are not legally permitted to enter, and that you do not provide any Personal Information to us._**
+### C. Personal Information Collected by Third Parties
 
-##### **I. Personal Information We Collect About You**
+Certain transactions and services offered while visiting MGM MIRAGE Web Sites may be processed or provided by third parties under contract with us for fulfillment and other purposes. When your Personal Information is submitted to these third parties for such purposes, we require those third parties to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided. 
 
-##### "Personal Information" is information through which you can be identified. Personal Information that MGM MIRAGE may collect from you directly or through Strategic Partners (see below), includes but is not limited to your name, date of birth, postal address(es), e-mail address(es), telephone number(s), fax number, gender, credit card information, Driver’s License Number and State, Social Security Number, Passport information, Naturalization information, purchase and reservation information, gaming activity, and other information that you voluntarily provide; it may also include live video feed if you visit our public entertainment facilities. When you complete a marker play application, MGM MIRAGE may also collect the name of your firm, your firm's address and telephone number, your position with the firm, your social security number, and banking information (including the name and address of your primary and secondary banks and your account numbers). This Personal Information is collected by e-mail, through mail-in forms, through online and on-site applications you complete, and through your activities with MGM MIRAGE. MGM MIRAGE only collects Personal Information that you voluntarily provide to us or voluntarily provide to Strategic Partners who share that information with us. The Personal Information that MGM MIRAGE collects through the MGM MIRAGE resorts and casinos, through the MGM MIRAGE Web Sites, or obtains from its Strategic Partners depends on the nature of your activities, including, but not limited to whether you make reservations, sign the guestbook, apply to become a member of Players Club, apply for a job, purchase show tickets or merchandise, register to receive promotional information, complete a casino patron application, play games, plan a meeting, etc. 
+### D. Non-Personal Information
 
-##### **_General Information_**
+"Non-Personal Information" is information about you or your activities through which you cannot be personally identified. When you use the Internet, your web browser or software may transmit certain information to the servers that host the web sites you visit. Such information may include, for example, the unique number assigned to your server or Internet connection, your geographic location, and your interactions with the MGM MIRAGE Web Sites, including what pages you look at and what information you download. When you visit the MGM MIRAGE Web Sites, our servers collect Non-Personal Information. In situations where it is possible to do so, Non-Personal Information may be linked to Personal Information. 
 
-##### “General Information” is information about you or your activities through which you _cannot_ be identified. When you use the Internet, your web browser or client software may transmit certain information to the servers that host the web sites you visit. The information may include the unique number assigned to your server or Internet connection, the capabilities and features of your computer, your geographic location, and your movement within and interaction with the web site including what pages you look at and what information you download. When you visit MGM MIRAGE Web Sites, MGM MIRAGE servers collect such general information. MGM MIRAGE uses this general information to generate aggregate statistics about visitors to MGM MIRAGE Web Sites. In situations where it is possible to do so, General Information may be linked to Personal Information.
+### E. Cookies
 
-##### **_Cookies_**
+A cookie is a small file that contains information sent by a web site that is saved on your computer's hard drive. Cookies have become a standard feature of Internet commercial web sites. MGM MIRAGE Web Sites use cookies to personalize your experience and to gather data such as which web pages you visit and what material you download. Cookies also are used to put a unique identifier on your computer. This helps us to generate statistics regarding usage of MGM MIRAGE Web Sites, such as the percentage of repeat visitors. In situations where it is possible to do so, this unique identifier may be linked to Personal Information. You can prevent a cookie from being used on your computer. To browse the Internet and MGM MIRAGE Web Sites without using cookies, you can configure your browser to reject all cookies or to notify you when each cookie is offered so that you can accept or reject each cookie. However, if you reject all cookies, you may not be able to conduct some transactions or use some services on MGM MIRAGE Web Sites. 
 
-#####  MGM MIRAGE Web Sites use cookie technology. A cookie is a small file that contains information sent by a web site that is saved on your hard disk by your computer's browser. Cookies store information that a web site may need to personalize your experience and to gather web site statistical data, such as which pages you visit, what material you download, your internet provider's domain name and country, and the addresses of web sites you visited immediately before, and after, visiting a particular web site. MGM MIRAGE Web Sites use cookies to collect and store your preferences for viewing the MGM MIRAGE Web Sites, such as whether you disable Flash so that you will not have to do so on follow up visits. 
+## II. HOW WE USE THE INFORMATION WE COLLECT 
 
-#####  In addition, MGM MIRAGE Web Sites use cookies to provide a unique identifier to your computer so that we can generate statistics regarding usage of MGM MIRAGE Web Sites, such as the percentage of repeat visitors and other general statistics. In situations where MGM MIRAGE has Personal Information, the unique identifiers may be matched with Personal Information. In addition, when you book a reservation online to stay at an MGM MIRAGE resort, the reservation or confirmation number may be stored in a cookie on your computer and in an order file generated by Strategic Partners. 
+### A. Uses by MGM MIRAGE 
 
-##### To browse the Internet and MGM MIRAGE Web Sites without cookies, you can configure your browser to reject all cookies or to notify you when each cookie is offered so that you can accept or reject each cookie. You may not be able to conduct some transactions or use some services on MGM MIRAGE Web Sites if you disable your browser from accepting cookies.
+Except for Confidential Personal Information, we may use Personal Information and Non-Personal Information for our own marketing purposes, including notifying you of special promotions, offers and events via postal mail, e-mail, telephone, text message, and other means. Confidential Personal Information will not be used for our own marketing purposes without your express consent. 
 
-##### **II. How We Use The Information We Collect**
+We may also use Personal Information and Non-Personal Information for non-marketing purposes. Some examples of such use include (1) processing and fulfilling reservations or purchases; (2) conducting statistical or demographic analysis; (3) tracking reservations and corresponding hotel stays generated through our affiliate program and calculating or auditing commissions that may be paid in relation to a hotel stay; (4) customizing your experience at MGM MIRAGE Web Sites; and (5) responding to your inquiries or other communications. 
 
-#####  Certain transactions and services offered while visiting MGM MIRAGE may be processed or provided by Strategic Partners (collectively, "Strategic Partners") under contract with MGM MIRAGE, even though it may appear that you may not have left the MGM MIRAGE Web Sites or the MGM MIRAGE resorts and casinos. Personal Information and General Information obtained by MGM MIRAGE may be shared with Strategic Partners who are under an obligation to MGM MIRAGE to use reasonable care to keep Personal Information confidential. Personal Information and General Information obtained by Strategic Partners may be shared with MGM MIRAGE, which will use such General Information and Personal Information in accordance with the terms of this Privacy Policy. MGM MIRAGE and its Strategic Partners may use the information collected by us or our Strategic Partners: (1) to respond to your inquiries; (2) for marketing purposes, including, but not limited to, notifying you of special promotions, offers and events (including promotions and offers through our Strategic Partners), additionally, live video feed from visitors to our public entertainment facilities may be used to promote these facilities on the MGM MIRAGE Web Sites; (3) to process and fulfill reservations and make a record of reservations; (4) to process and fulfill purchases and make a record of purchases; (5) to enable us to contact you for confirmation or customer service after reservations and purchases are made or after you sign up for or participate in certain activities; (6) to respond to inquiries, complaints and other communications; (7) to cross-reference with other Personal Information that we have acquired about you or may acquire about you through other sources; (8) to notify our Strategic Partners (including affiliated resorts and casinos not covered by this Privacy Policy) in the event you enroll in MGM MIRAGE’s Responsible Gaming Program (see _A Special Note about Personal Information and MGM MIRAGE’s Responsible Gaming Program_ below); (9) for profiling or demographic purposes; and (10) for purposes of tracking reservations and corresponding hotel stays generated through MGM MIRAGE’s affiliate program and calculating and auditing commissions that may be paid in relation to the hotel stay. 
+We may combine Personal Information with other generally or publicly available information to help us identify your preferences or interests. Your Personal Information may also be merged with Personal Information available from other sources such as (1) companies that match e-mail addresses with postal addresses; (2) credit card verification and credit services; and (3) other resorts, casinos, or properties that are owned, operated, or affiliated with MGM MIRAGE or its subsidiaries.
 
-#####  MGM MIRAGE reserves the right to transfer your Personal Information to a third party in the event of a transfer of all or substantially all of MGM MIRAGE’s assets to a third party, provided that the third party agrees to adhere to the terms of this Privacy Policy. Likewise, each MGM MIRAGE resort and casino reserves the right to transfer your Personal Information relevant to that resort and casino to a third party in the event of a transfer of all or substantially all of that MGM MIRAGE resort and casino’s assets to a third party, provided that the third party agrees to adhere to the terms of this Privacy Policy. 
+If you do not want us to use your Personal Information for marketing purposes, you may opt-out of such uses by notifying us in accordance with Section III.B. below. Opting-out will not prevent your Personal Information (including Confidential Personal Information) from being used for non-marketing purposes. 
 
-#####  MGM MIRAGE will not use your Personal Information for uses prohibited by the provisions of the Telemarketing and Consumer Fraud and Abuse Prevention Act or the CAN-SPAM Act of 2003. ****
+### B. Sharing within MGM MIRAGE and with Subsidiaries 
 
-#####  This Privacy Policy does not apply to information collected by Strategic Partners, except that MGM MIRAGE will treat information it receives about you from Strategic Partners in accordance with the terms of this Privacy Policy. MGM MIRAGE does not have any control over how Strategic Partners use information they collect about you, except that MGM MIRAGE has obligated its Strategic Partners to use reasonable care to keep confidential the Personal Information they receive from MGM MIRAGE. To determine the privacy policy applicable to information collected by these Strategic Partners, please consult the privacy policies of the Strategic Partners. 
+Except for Confidential Personal Information, your Personal Information and Non-Personal Information may be shared for any purpose (1) among MGM MIRAGE, MGM MIRAGE Resorts and Casinos and MGM MIRAGE Web Sites, and (2) with MGM MIRAGE subsidiaries not covered by this Policy, and any other resorts, casinos, or other properties that are owned, operated by or affiliated with MGM MIRAGE or its subsidiaries (collectively, "Subsidiaries"). If you do not want your Personal Information to be shared among MGM MIRAGE, MGM MIRAGE Resorts and Casinos and MGM MIRAGE Web Sites or with Subsidiaries for marketing purposes, you may opt-out of such sharing by notifying us in accordance with Section III.B. below. 
 
-##### **A Special Note about Personal Information and MGM MIRAGE’s Responsible Gaming Program:** MGM MIRAGE believes that gaming should always be handled responsibly. That’s why MGM MIRAGE is a member of the American Gaming Association and adheres to the American Gaming Association Code of Conduct for Responsible Gaming. As part of MGM MIRAGE’s Responsible Gaming Program, MGM MIRAGE will not use Personal Information of members of the MGM MIRAGE’s Self-Limit Access Program of Nevada, Self-Exclusion Program of Mississippi, or Disassociated Persons Program of Michigan, for any marketing purposes, including direct mail marketing, telemarketing, promotional mail, and player recognition programs. 
+Although you may request to opt-out of sharing Personal Information for marketing purposes, we may share Personal Information among MGM MIRAGE, MGM MIRAGE Resorts and Casinos and MGM MIRAGE Web Sites and with Subsidiaries for non-marketing purposes. Confidential Personal Information will only be shared among MGM MIRAGE, MGM MIRAGE Resorts and Casinos and MGM MIRAGE Web Sites and with Subsidiaries to the extent necessary to permit validation of your identity, completion of a purchase or credit transaction, recording of gaming-related activity, or other legitimate non-marketing business purposes.
 
-##### **_A Special Note about MGM MIRAGE Voice Message Board:_** MGM MIRAGE Voice features a message board for employees of MGM MIRAGE who volunteer their time in various charitable enterprises. Although the ability to post to this message board is restricted, password protected, for employees only, and subject to a separate privacy policy, postings to this message board, including employee login names, will be made available for viewing at an unsecured, unrestricted web page within the MGM MIRAGE Voice web site. 
+### C. Sharing With Partners for Marketing Purposes
 
-##### **III. Disclosure Of Information We Collect**
+Except for Confidential Personal Information, we may share your Personal Information with our Partners for joint marketing efforts, or for our Partners' own marketing purposes. When we provide Personal Information to our Partners, we require those Partners to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided to them. To determine how Partners use the Personal Information they collect directly from you, or about you, from sources other than us, please consult the privacy policies of our Partners. If you do not want us to share your Personal Information with Partners for marketing purposes, you may opt-out of such sharing by notifying us in accordance with Section III.B. below. 
 
-#####  Except as provided in this Privacy Policy (see “How We Use Your Personal Information” above), MGM MIRAGE will not sell, trade, or disclose to third parties any Personal Information obtained through MGM MIRAGE or obtained from Strategic Partners, without your consent. MGM MIRAGE may disclose Personal Information: (1) to comply with a court order, subpoena, search warrant or other legal process; (2) to comply with legal, regulatory or administrative requirements of any governmental authorities; (3) to protect and defend MGM MIRAGE, its subsidiaries and affiliates, and all of their officers, directors, employees, attorneys, agents, contractors, and partners, in connection with any legal action, claim or dispute; (4) to enforce the terms of use of MGM MIRAGE Web Sites; (5) to prevent imminent physical harm; (6) to businesses that MGM MIRAGE may use for purposes of performing functions on behalf of MGM MIRAGE, such as companies that process credit card transactions; (7) in connection with the sale, assignment, or transfer of any MGM MIRAGE resort and casino or MGM MIRAGE Web Site; and (8) to Strategic Partners and affiliates of MGM MIRAGE for purposes of tracking reservations and corresponding hotel stays generated through MGM MIRAGE's affiliate program managed by Strategic Partners and calculating and auditing commissions that may be paid in relation to the hotel stay. 
+### D. Sharing With Partners and Other Third Parties for Non-Marketing Purposes 
 
-##### **IV. Choice Regarding Providing Information**
+Although you may request to opt-out of sharing Personal Information for marketing purposes, we may disclose Personal Information, including Confidential Personal Information, to our Partners and other third parties for the following purposes: 
 
-##### Your privacy is important to MGM MIRAGE. Thus, if you do not want us to share your Personal Information with Strategic Partners for marketing purposes, you can “opt out” by providing a written request to “opt out,” postage prepaid, to MGM MIRAGE at: 
+(1) if you enroll in our Responsible Gaming Program (see "Responsible Gaming Program" in Section V below);   
+(2) for non-marketing purposes, such as processing and fulfilling reservations or purchases;   
+(3) in connection with a business transaction involving a sale, purchase, reorganization, or transfer to a third party of any of the assets of MGM MIRAGE, any MGM MIRAGE Resort and Casino, and/or any MGM MIRAGE Web Site;   
+(4) to comply with a court order, subpoena, search warrant or other valid legal process;   
+(5) to comply with legal, regulatory or administrative requirements of any governmental authorities;   
+(6) to protect and defend MGM MIRAGE, its subsidiaries and affiliates, and all of their officers, directors, employees, attorneys and agents in connection with any legal action, claim or dispute;   
+(7) to satisfy any contractual obligation to indemnify our contractors, Partners or other third parties in connection with any legal action, claim or dispute;   
+(8) to enforce the Terms of Use of MGM MIRAGE Web Sites;   
+(9) to prevent imminent physical harm or threats to public safety;   
+(10) to third-party vendors that MGM MIRAGE may use to perform functions on behalf of MGM MIRAGE, such as companies that process credit card transactions;   
+(11) to prevent fraud; and   
+(12) to engage in debt collection. 
 
-##### MGM MIRAGE Advertising
+When we provide Personal Information to our Partners and other third parties for such purposes, we require those Partners and third parties to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided to them. 
 
-#####  Attn: Privacy Policy
+## III. YOUR COMMUNICATION PREFERENCES 
 
-##### 3260 Industrial Road
+### A. Establishing a Preference Account 
 
-##### Las Vegas, Nevada 89109 
+We are committed to protecting the accuracy and confidentiality of your Personal Information and encourage you to tell us how you want us to communicate with you and let you know about special offers. By creating an MGM MIRAGE Preference Account, you can view and update your Personal Information and choose your communication preferences. Your Preference Account gives you the ability to choose which MGM MIRAGE Resorts and Casinos and MGM MIRAGE Web Sites you would like to receive communications from and how. You can select from communications preference options including direct mail, e-mail, telemarketing, and text messaging. To create a Preference Account or to update your preferences at any time after you have created your Preference Account, click [here](https://secure02.mgm-mirage.com/Guestbook/privacy.aspx) or visit any MGM MIRAGE Web Site and select "E-mail Promotions" or "Guestbook". These options will allow you to create and access your Preference Account.
 
-##### Or you can call (866) 800-4668. If you are an online visitor, please visit the Marketing Communication Preferences page of our Site at [ https://secure02.mgm-mirage.com/GuestCommunications/preferences.asp](https://secure02.mgm-mirage.com/GuestCommunications/preferences.asp), to “opt out.” If you are a member of Players Club, please visit [ www.playersclub.com](http://www.playersclub.com/), login to your account, and select Update on your Member Home Page. In addition, information regarding “opt out” procedures is provided in every promotional e-mail we send to you. 
+If you are a member of Players Club, you may update your communications preferences by visiting [www.playersclub.com](https://www.playersclub.com/), logging in to your account, and selecting "Update Account".
 
-##### **V. Access To Your Personal Information**
+### B. How to Opt-Out 
 
-##### The Personal Information collected through MGM MIRAGE, or provided by Strategic Partners, is not currently accessible to you, except that confirmation is provided for some transactions and services, such as reservations and purchases. 
+If you wish to opt-out of receiving solicitations from us or do not want us to share your Personal Information with Partners for marketing purposes, you can record your preferences by clicking [here](https://secure02.mgm-mirage.com/Guestbook/privacy.aspx). To opt-out, you can also email us at [privacy@mgmmirage.com](mailto:privacy@mgmmirage.com), call (866) 761-7111, or write to:
 
-##### If you believe that any Personal Information collected by MGM MIRAGE about you is not correct or has changed, please send an e-mail message to **_[privacy@mgmmirage.com](mailto:privacy@mgmmirage.com) _**explaining the correction or change and providing any relevant confirmation or reference number. 
+MGM MIRAGE   
+Attn: Privacy Policy  
+840 Grier Drive Suite 200   
+Las Vegas, Nevada 89119 
 
-##### **VI. Security**
+If you do not want us to share your Personal Information among MGM MIRAGE Resorts and Casinos and MGM MIRAGE Web Sites or with Subsidiaries for marketing purposes, you may e-mail us at [privacy@mgmmirage.com](mailto:privacy@mgmmirage.com) or call (866) 761-7111.
 
-##### General Information and Personal Information collected by MGM MIRAGE is stored on secure servers. The secure servers are protected by firewalls and other standard security procedures. The secure servers are not generally accessible by unauthorized third parties, but could become accessible in the event of a security breach. No security system is impenetrable. In the event of a breach of the security of MGM MIRAGE’s system that involves a breach in the security of Personal Information wherein unencrypted Personal Information was, or is reasonably believed to have been, acquired by an unauthorized person, MGM MIRAGE will notify all parties whose Personal Information was breached as expediently as possible and without unreasonable delay, in accordance with the notification procedures of MGM MIRAGE’s information security policy. At MGM MIRAGE, our staff is required to take reasonable measures to ensure that unauthorized third parties do not view your Personal Information.
+### C. Telemarketing
 
-#####  MGM MIRAGE has no control over the security of the computers or other electronic devices and means you use to send e-mails and submit information to MGM MIRAGE over the Internet. Therefore, MGM MIRAGE is not responsible for the disclosure or interception of your information before MGM MIRAGE receives it. 
+Even if you registered your telephone number on a Do-Not-Call list, certain exemptions may allow us to contact you by telephone. However, to ensure our customers' preferences are honored, we also maintain our own internal do-not-call list. If you would like to opt-out of receiving telemarketing sales calls from us by adding your telephone number to our internal do-not-call list, please click [here](http://www.mgmmirage.com/dnc/). 
 
-##### **VII.** **Changes to this Privacy Policy** ****
+## IV. SECURITY 
 
-#####  This Privacy Policy was last revised on May 17, 2004. MGM MIRAGE reserves the right to change, modify or amend this Privacy Policy at any time without notice. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be available at MGM MIRAGE resorts and casinos and will be posted on the MGM MIRAGE Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy available at MGM MIRAGE resorts and casinos and the MGM MIRAGE Web Sites for changes, and are encouraged to bookmark the Web Sites to check for updates and take or print out copies of the Privacy Policy for their records. 
+Personal Information (including Confidential Personal Information) and Non-Personal Information collected by MGM MIRAGE, the MGM MIRAGE Web Sites and MGM MIRAGE Resorts and Casinos are stored on secure servers. The secure servers are protected by firewalls and other industry standard security measures. These security measures are instituted to ensure the protection of these secure servers from unauthorized access. However, no security system is impenetrable, and these systems could become accessible in the event of a security breach. We have controls in place that are designed to detect potential data breaches, contain and minimize the loss of data, and conduct forensic investigations of a breach. 
 
-##### If you have any questions regarding this Privacy Policy, please contact us at **_[privacy@mgmmirage.com.](mailto:privacy@mgmmirage.com)_**  
-  
----|---
+Our staff is required to take reasonable measures to ensure that unauthorized persons cannot view or access your Personal Information. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
+
+We cannot enforce or control the security of the computers, electronic devices, or electronic communication method that a consumer may use to send e-mails and submit information to us over the Internet. You are responsible for ensuring that the computers, electronic devices and electronic communication methods you use will provide adequate security for communicating with us. We are not responsible for the disclosure or interception of your information before we receive it.
+
+As a standard security practice, we will take reasonable steps which are standard in the industry to ensure that the communication methods used to support the MGM MIRAGE Web Sites do not permit connection or communication by methods that have known security weaknesses or vulnerabilities. As such, if you experience trouble using an MGM MIRAGE Web Site, it may be an indication that you need to upgrade your Internet browsing tool or application to a newer version that supports more secure communication methods. 
+
+## V. RESPONSIBLE GAMING PROGRAM 
+
+MGM MIRAGE is a member of the American Gaming Association and adheres to its Code of Conduct for Responsible Gaming. Accordingly, we will not use the Personal Information of members of the MGM MIRAGE Self-Limit Access Program of Nevada, Self-Exclusion Program of Mississippi, or Disassociated Persons Program of Michigan, as applicable, for any marketing purposes. 
+
+## VI. OTHER WEB SITES 
+
+We are not responsible for the information collection or privacy practices of other web sites, including web sites operated by our Partners. You should review and understand the privacy policies posted on any linked sites you visit before providing any Personal Information.
+
+## VII. PERSONS UNDER AGES 18 AND 21 
+
+Certain of our areas and activities are intended for persons 21 or older. If you are under 21, we ask that you do not access or attempt to access any areas or participate in any activities that are restricted to persons 21 or older. We do not knowingly collect or allow the collection of Personal Information from persons under 18. If you are the parent or guardian of a person under 18 and believe that the person has provided us with Personal Information, you may contact us at [privacy@mgmmirage.com](mailto:privacy@mgmmirage.com) and request that it be deleted from our files. We will delete the Personal Information of any person under 18 and will not use such Personal Information for any purpose.
+
+## VIII. VISITORS OUTSIDE OF THE UNITED STATES 
+
+The MGM MIRAGE Web Sites are maintained on servers located in the United States, and Personal Information and Non-Personal Information are stored on computers and servers located in the United States. The United States may not offer a level of privacy protection for Personal Information (including Confidential Personal Information) as great as that offered in other jurisdictions. Therefore, the disclosure of Personal Information pursuant to this Policy is at your own risk. We make no representation that the practices described in this Policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of Personal Information. 
+
+## IX. CHANGES TO THIS POLICY 
+
+We reserve the right to revise this Policy at any time without notice. When this Policy is revised in a material way, notice will be posted on the MGM MIRAGE Web Sites along with the revised Policy. 
