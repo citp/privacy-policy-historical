@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldticketshop.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194352id_/http%3A//www.worldticketshop.com/popup/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldticketshop.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217193614id_/http%3A//www.worldticketshop.com/popup/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,19 +41,23 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can email us at [info@worldticketshop.com](mailto:info@worldticketshop.com). 
+If you have any questions about security on our Web site, you can contact our [Customer Service](http://www.worldticketshop.com/contact_us)[](http://www.worldticketshop.com/contact_us)
+
+.
 
 **THIRD PARTY NOTIFICATION  
 **If your personal information is ever collected by any Third Party that is not our agent/service provider, you will be notified so you can make an informed choice as to whether or not to share your information with that party. 
 
 **REFERRALS**  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him/her to visit the site. Worldticketshop stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. He/she may contact us at [info@worldticketshop.com](mailto:info@worldticketshop.com) to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him/her to visit the site. Worldticketshop stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. He/she may contact our [Customer Service](http://www.worldticketshop.com/contact_us)
+
+to request that we remove this information from our database. 
 
 **OPT-OUT POLICY  
-**If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@worldticketshop.com](mailto:info@worldticketshop.com) with "Unsubscribe" in the subject line. You are not able to opt-out of emails related to a specific order (confirmation emails). 
+**If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. You are not able to opt-out of emails related to a specific order (confirmation emails). 
 
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
-If your personally identifiable information changes, you may correct or update it by emailing Customer Care at [info@worldticketshop.com](mailto:info@worldticketshop.com), or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, you may correct or update it by contacting our [Customer Service](http://www.worldticketshop.com/contact_us), or by contacting us by telephone or postal mail at the contact information listed below. 
 
 **CONTACT US**  
 If you have any questions about this privacy policy or the security practices of this site, please contact: 
@@ -63,5 +67,7 @@ Weena 290
 3012 NJ Rotterdam  
 The Netherlands  
 Phone: +31 (0) 50 201 1524  
-Email: [info@worldticketshop.com](mailto:info@worldticketshop.com)  
+Email: 
+
+[Customer Service](http://www.worldticketshop.com/contact_us)  
 EFFECTIVE DATE: 10/12/2006 
