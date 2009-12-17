@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs-usa.co.in privacy policy that was archived on 2008-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080417173120id_/http%3A//vfs-usa.co.in/ApplnForms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs-usa.co.in privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217171457id_/http%3A//www.vfs-usa.co.in/ApplnForms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
