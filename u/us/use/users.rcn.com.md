@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the users.rcn.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615150230id_/http%3A//www.rcn.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the users.rcn.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218001715id_/http%3A//www.rcn.com/privacy-policy) for the most accurate reproduction.*
 
-# RCN Legal - Privacy Policy
+# RCN | Policies & Disclaimers | Privacy Policy
 
-| 
+### RCN Privacy Policy
 
-**RCN Privacy Policy**   
   
 RCN understands how important personal privacy is to you and we are committed to fully protect your rights. We want our customers to be aware of what information RCN collects and how it is handled. This statement discloses RCN's privacy practices, including an explanation of which personal information about RCN's customers is collected, how the information is used, with whom the information may be shared, how the customer can correct any inaccuracies in the information, and your rights and our responsibilities under applicable privacy laws.
 
@@ -138,7 +137,7 @@ You have a right to inspect our records that contain information about you as a 
 
 The Communications Act also gives you a right to confidentiality of your CPNI, and requires us to protect the privacy of that information. RCN, or its agents and affiliates, may use, disclose or permit access to your CPNI without notifying you, to provide, install, and repair the services you have ordered, for billing and collection, for emergency services, and for protection of our network and our subscribers against fraud, abuse, and unlawful use. RCN also may be compelled to disclose CPNI or other Personally Identifiable Information in compliance with government taxing or regulatory authorities or pursuant to law enforcement directives or court order. 
 
-From time to time we may have the opportunity to offer you related products and services that will better meet your needs by using information about the telephone services you have already purchased from RCN. Use of your CPNI for this purpose may enhance our ability to make you aware of new or alternate products and services that are tailored to your needs. We may also share CPNI, without your prior consent, with RCN’s affiliates and agents for administrative and marketing purposes, but only for communications-related services. RCN, and its agents or affiliates, are permitted to use CPNI to market new communications services to which you do not currently subscribe, but only after providing you with written or electronic notice and the opportunity to “opt-out” of such use. Under these circumstances, it is assumed that if you do not affirmatively instruct RCN not to use or disclose CPNI for such use, you have consented to the use of your CPNI for these purposes. RCN is required to provide you with this “opt-out” notice biennially, and will wait 30 days after providing such notice before assuming you have approved the use or disclosure of CPNI. Your decision to restrict our use of your CPNI is free of charge and will not affect the service you receive from RCN. If you wish to “opt-out” of RCN’s use of your CPNI, please notify RCN, in writing, at 196 Van Buren Street, Herndon, VA 20170, or e-mail to [phone@rcn.com](mailto:phone@rcn.com), or call us at 1.800.RING.RCN. You may contact us at any time in the future to restrict the use of your CPNI. If you elect not to restrict the use of your CPNI, RCN may use it for any of the purposes described above.
+From time to time we may have the opportunity to offer you related products and services that will better meet your needs by using information about the telephone services you have already purchased from RCN. Use of your CPNI for this purpose may enhance our ability to make you aware of new or alternate products and services that are tailored to your needs. We may also share CPNI, without your prior consent, with RCN’s affiliates and agents for administrative and marketing purposes, but only for communications-related services. RCN, and its agents or affiliates, are permitted to use CPNI to market new communications services to which you do not currently subscribe, but only after providing you with written or electronic notice and the opportunity to “opt-out” of such use. Under these circumstances, it is assumed that if you do not affirmatively instruct RCN not to use or disclose CPNI for such use, you have consented to the use of your CPNI for these purposes. RCN is required to provide you with this “opt-out” notice biennially, and will wait 30 days after providing such notice before assuming you have approved the use or disclosure of CPNI. Your decision to restrict our use of your CPNI is free of charge and will not affect the service you receive from RCN. If you wish to “opt-out” of RCN’s use of your CPNI, please notify RCN, in writing, at 196 Van Buren Street, Herndon, VA 20170, or e-mail to [phone@rcn.com](mailto:phone@rcn.com) , or call us at 1.800.RING.RCN. You may contact us at any time in the future to restrict the use of your CPNI. If you elect not to restrict the use of your CPNI, RCN may use it for any of the purposes described above.
 
 Except as otherwise indicated herein, and as required under applicable law, RCN will provide you with prior written, electronic, or oral notice and obtain your affirmative consent before sharing your CPNI with joint venture partners and independent contractors for marketing purposes. 
 
@@ -182,7 +181,7 @@ RCN also may disclose to third parties information logged by the RCN network and
 
   * to comply with applicable law or valid legal process, such as in the event RCN is served with a Subpoena, Court Order or other legal mandate, requiring the production of such records
   * in emergencies when a person’s physical safety is at issue
-  * 
+
 
 
 In addition, RCN reserves the right to disclose the identity of a subscriber, whether or not in conjunction with other information, to third parties as required to comply with applicable law, or valid legal process, or law enforcement request. 
