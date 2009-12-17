@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rapnet.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611145152id_/http%3A//rapnet.com/Info/PrivPol.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapnet.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217095033id_/http%3A//www.rapnet.com/Info/PrivPol.aspx) for the most accurate reproduction.*
 
 # Diamonds.net - Privacy Policy
 
-|   
 ---  
-  
   
 |    
   
@@ -23,7 +21,7 @@ Last updated: January 9, 2005>
 
 1.2 Rapaport takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Paragraph 3 below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the Diamonds.Net Web site, whether the services are offered by Rapaport, by its subsidiaries, or by its affiliates in the Rapaport Group.
 
-1.3 By using the Diamonds.Net website, you agree to accept the Privacy Policy and Diamonds.Net Terms of Use . By applying for any of the subscription or membership based services offered through the Diamonds.Net website, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into the terms of the [Diamonds.Net Terms of Use.](https://web.archive.org/web/20090611145152id_/http%3A//rapnet.com/Info/TOS.aspx)
+1.3 By using the Diamonds.Net website, you agree to accept the Privacy Policy and Diamonds.Net Terms of Use . By applying for any of the subscription or membership based services offered through the Diamonds.Net website, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into the terms of the [Diamonds.Net Terms of Use.](https://web.archive.org/web/20091217095033id_/http%3A//www.rapnet.com/Info/TOS.aspx)
 
 1.4 Please note that your personal information will be stored and processed on our computers in the United States , in accordance with United States laws. Rapaport will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not register for the Services.
 
@@ -112,7 +110,7 @@ We use IP addresses, browser types and access times to analyze trends, administe
   
 |   
 ---  
-© Copyright 1982-2009 by Martin Rapaport. All rights reserved. | [ Terms of Use](https://web.archive.org/Info/tos.aspx) | [ Privacy Policy](https://web.archive.org/Info/PrivPol.aspx) | [ Legal Notices](https://web.archive.org/Info/legal.aspx)   
+© Copyright 1982-2009 by Martin Rapaport. All rights reserved. | [ Terms of Service](https://web.archive.org/Info/RapNet_TermsOfUse.aspx) | [ Privacy Policy](https://web.archive.org/Info/RapNet_TermsOfUse.aspx#privacy) | [ Legal Notices](https://web.archive.org/Info/legal.aspx)   
 Index®, RapNet®, Rapaport®, PriceGrid™,[ Diamonds.Net™](http://www.diamonds.net/), and JNS®; are TradeMarks of Martin Rapaport.  
 While the information presented is from sources we believe reliable, we do not guarantee the accuracy  
 or validity of any information presented by Rapaport or the views expressed by users of our internet service. 
