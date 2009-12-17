@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiql.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063037id_/http%3A//www.fiql.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiql.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092418id_/http%3A//www.fiql.com/privacy.php) for the most accurate reproduction.*
 
 # FIQL.com - The Best Source for Music and Video Playlists
 
