@@ -1,88 +1,136 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055716id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217182349id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # privacy policy - myDr.com.au
 
-__myDr__ and its publisher, CMPMedica Australia, are committed to protecting your privacy. Please read the following Privacy Policy and click on the link at the end of this document to return to the website 
+## A statement about privacy and collection of personal information
 
-As a visitor to _myDr_ , you are interested in knowing more about your health or the health of someone close to you. We understand that your health is a very personal matter and that providing personal information is an act of trust. We recognise the importance of your privacy and respect your right to control how your personal information is collected and used. 
+UBM Medica Australia Pty Ltd (" **We** ", " **Our** ", or " **Us** ") as publisher of _myDr_ ( **Website** ), aims to protect the privacy of the personal information We collect and hold whilst carrying out Our business activities. 
 
-_myDr_ is a project of CMPMedica Australia. _myDr_ complies with the standards set by HealthInsite—a Federal Government accreditation initiative designed to provide Quality Assurance for health information on the Internet. _myDr_ is committed to complying with the National Privacy Principles in the Privacy Act 1988. 
+We are bound by the National Privacy Principles ( **Principles** ) in the _Privacy Act 1988_ (Cth)( **Act** ). 
 
-Please read this Privacy Policy carefully before you submit any information through __myDr__ as usage of this Web site is conditional on your agreeing to be bound by this policy. If you have any questions, or would like to provide feedback, please feel free to contact us on the number or address listed below. 
+This statement explains: 
 
-## The information practices of _myDr_
+  * what types of personal information We might collect
+  * how We aim to use personal information
+  * when We will disclose personal information to others
+  * how We manage and secure personal information, and
+  * how you can access personal information that We hold about you.
 
-### 1\. Collecting information about you
 
-Some services provided by __myDr__ require your email address and may involve disclosing some personal information about yourself. This is to allow us to respond to a query or provide you with information that you have requested. You will also have the option to provide other personal information voluntarily. 
 
-__myDr__ may also collect information about your use of our website such as what pages you visit and the Internet address you have come from. By having this information we can tailor your experience of our website to your personal interests. 
+This statement does not form part of any contract. 
 
-Any further collection of your personal information than that explained here will only occur with your consent. 
+From time to time, We may review and update this statement - for example, to reflect changes to the law, technology or Our company. We reserve the right to change this statement at any time and notify you by posting an updated version of the statement on the Website. 
 
-### 2\. Using your personal information
+## What types of personal information do we collect?
 
-Any information collected by _myDr_ will be treated as confidential. We may use your personal information in providing you with information or services you request, and in tailoring your experience of our site to your interests. With your consent, we will send you updates on new features, products and content that we think you are likely to be interested in. 
+We aim only to collect 'personal information' (as defined under the Act) that is necessary for Our activities. The types of personal information that We collect will depend on the nature of the interaction between you and Us, and where and how We collect the information. 
 
-_myDr_ may also use pooled information obtained from all _myDr_ visitors to understand our users' interests and improve our services. These reports may be shared with the partners and sponsors of _myDr_ but they will not disclose personally identifiable information. 
+Most commonly, the information collected from you may include your name, address/es, email address/es, telephone and fax number/s, and other contact details, your medical practitioner registration details (if relevant), and also information about your use of Our services or the Website. 
 
-### 3\. Disclosure
+Some of the information We collect is 'sensitive information' (as defined under the Act). The Act requires Us only to collect sensitive information from you where this is consented to by you, or if the collection is required by law, and only to share sensitive information if We have a belief that its use and/or disclosure is necessary to prevent threats to health, life or safety of any individual. 
 
-_myDr_ will not disclose any of your personally identifiable information, except when it has your permission or under special circumstances, such as when we believe in good faith that the law requires disclosure or where we believe it necessary to provide you with a service which you have requested. 
+## How do We collect your personal information?
 
-Like many businesses, _myDr_ uses a range of service providers to help us maximise the quality and efficiency of our services and our business operations. This means that individuals and organisations outside of _myDr_ , such as Web hosting services, will sometimes have access to personal information held by _myDr_ and may use it on behalf of _myDr_. We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purposes. 
+We collect most of your personal information directly from you, for example when you send Us correspondence by e-mail, via the Website or in writing; deal with Us over the telephone or in person; or register or post information on the Website. 
 
-### 4\. You can access and change the information we keep about you
+Sometimes, someone else may provide Us with personal information about you, with or without your direct involvement. For example, We might collect your personal information from: 
 
-If at any time you want to know exactly what personal information we hold about you, you are welcome to access your record by emailing us at admin@ _myDr_.com.au. We will, except in special circumstances, make our file of your personal information available to you. 
+  * another organisation or alliance you are a member of
+  * your representative
+  * publicly available sources of information (such as telephone directories), or
+  * commercially available mailing or marketing lists.
 
-If at any time you wish to change personal information that is inaccurate or out of date, please also contact us by emailing admin@ _myDr_.com.au and we will amend the record. 
 
-###  5\. Our website privacy practices
 
-We sometimes use cookie technology on our website to enable us to provide information and services to web site visitors. Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes and are a necessary part of facilitating online transactions. Most web browsers are set to accept cookies. _myDr_ uses cookies to make your use of our website and services as enjoyable as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate our number of members and determine overall traffic patterns through our website, as well as responding to your requests for particular services. 
+## How do We use your personal information?
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+In most cases, if We ask you to provide information about yourself it is because We need that information for the purpose it was collected or to provide you with the information you require or access to the Website. For example, We may use your personal information to: 
 
-Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads based on your visits to this and other websites on the internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) or by clicking on the "Ads by Google" link at the foot of the Sponsored Ads box and following the instructions. 
+  * verify that you are an Australian healthcare practitioner (if relevant)
+  * tailor your experience of Our site to your interests
+  * provide you with access to certain parts of the Website
+  * provide ongoing support or help manage the Website, for example if you have a query about this statement
+  * communicate with you, for example to seek feedback regarding your experiences with the Website, or the information, the services and the promotions offered on the Website
+  * provide information about other events, promotions, products or services that We believe would interest you (which you can tell Us not to do at any time)
+  * help us run Our organisation, for example to improve the Website. Our products or services or Our security, train staff or undertake marketing activities, and 
+  * comply with legal obligations.
 
-If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of _myDr_ 's services. 
 
-### 6\. Storage and security
 
-_myDr_ will endeavour to take all reasonable steps to ensure your personal information is kept secure, accurate and up to date. Your information is stored on secure servers that are protected in controlled facilities. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. So while we make use of available technology, such as encryption software, to protect your personal information, _myDr_ cannot give an absolute assurance that the information you provide to _myDr_ will be secure at all times. You accordingly do so at your own risk and _myDr_ will not be held responsible for events arising from unauthorised access to your personal information. 
+## When will We disclose your personal information to others?
 
-### 7\. Password and log-in security
+We aim to confine Our disclosure of personal information to the primary purpose for which it has been collected, or for a related purpose. This means We will usually only disclose personal information in order to fulfil our business and admininstrative functions, including when disclosure is necessary to complete a transaction on your behalf; provide you with a product, service or activity you have requested; help Us with the running of Our organisation; or for security reasons. 
 
-For the purposes of signing up to the myHealth file services, you will nominate a user name and password. You are responsible for the security of your password and log-in information. You can play an important role in keeping your personal information secure by maintaining the confidentiality of any passwords used on the _myDr_ website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
+We may also disclose your personal information outside Our organisation for the purpose for which the information was collected, for a related purpose - for example when disclosure is necessary to complete a transaction on your behalf, provide you with a product, service or activity you have requested, help Us with the running of Our organisation, or for security reasons. 
 
-### 8\. Transfer of business
+We may provide your personal information to: 
 
-In the unlikely event that the assets and operations of the _myDr_ business is transferred to another party as a going concern, the personal information collected by _myDr_ will be provided to the new business operator. However, it will remain subject to the privacy safeguards set out in the _myDr_ privacy policy. 
+  * companies related to Us that are located in Australia or offshore
+  * outsourced service providers who perform functions on Our behalf, such as organisations providing security services, conducting market research, providing advertising/marketing services, or providing hosting, email or mail handling services to Us or Our service providers
+  * anyone authorised by you to receive your personal information (your consent may be express or implied and can be withdrawn at any time)
+  * an actual or prospective purchaser in the event We sell part of Our business, and
+  * anyone We are required by law to disclose it to.
 
-## Contact us
 
-If you have questions about our privacy policy and practices, or would like to provide feedback, please contact our privacy officer.
 
-Email:  
-[admin@myDr.com.au](mailto:admin@myDr.com.au)
+We generally require third parties only to use your personal information for the specific purpose for which it was given and to protect the privacy and confidentiality of your personal information. 
 
-Mail:  
-__myDr__  
-Privacy and Security  
-Locked Bag 3000  
-St Leonards, NSW 1590, Australia
+You consent to us disclosing your personal information to third parties for marketing purposes. You can withdraw your consent at any time by informing Us that you withdraw that consent. 
 
-## Future Changes
+To the extent that the Website contains links to sites operated by third parties, including other organisations, those linked websites are not controlled by Us and We are not responsible for the privacy practices of the site operators. Before you disclose your personal information to any linked websites, We advise you to examine their privacy policies and terms and conditions of use. 
 
-_myDr_ will continue to evolve as we introduce new services and features to our Web site. Because of this, from time to time, our policies will be reviewed and may be revised. _myDr_ reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on the Web site. If you object to any changes, you may discontinue your use of the services. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. 
+### Use of cookies on the Website
 
-## Your agreement
+We sometimes use cookie technology on the Website to enable us to provide information and services to You. Cookies are pieces of information that a website transfers to Your computer's hard disk for record keeping purposes and are a necessary part of facilitating access to that website. Most web browsers are set to accept cookies. The Website uses cookies to make Your use of the Website and Our services as enjoyable as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to determine overall traffic patterns through the Website, as well as responding to Your requests for particular services. 
 
-I agree that I have read and agree with the terms and conditions outlined in this privacy policy. Click [here](http://www.mydr.com.au/) to return to the _myDr_ site. 
+We use third-party advertising companies (such as Google) to serve ads when You visit the Website. These third parties may use information (not including Your name, address/es, email address/es and other contact details) about Your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you. 
 
-Last revised: 15 April 2002. 
+You may opt out of cookies by: 
 
-  © Copyright: myDr, CMPMedica Australia, 2000-2009. All rights reserved. 
+  * visiting the Network Advertising Initiative website ([www.networkadvertising.org](http://www.networkadvertising.org/)) and following the instructions; and/or
+  * set Your browser to refuse all cookies (this may mean You will not be able to take full advantage of the Website and/or Our services).
 
-Last Reviewed: 07 April 2009
+
+
+## How We manage and secure personal information
+
+We have appointed a Privacy Officer to be responsible for the management of personal information We collect. We have security systems in place to protect your personal information and have directed Our staff that personal information must be dealt with in accordance with this statement. 
+
+## Updating personal information that We hold about you
+
+We aim to keep all personal information We hold both accurate and up-to-date and encourage you to tell us if you change your contact details. 
+
+If you believe that the information We hold about you is incorrect, incomplete or out-of-date, please contact our Privacy Officer. 
+
+If We no longer require your personal information, We will generally destroy or de-identify that information. 
+
+## Password and log-in security
+
+On occasion there may be services that you nominate to use that require you to nominate a user name and password. You are responsible for the security of your password and log-in information. You can play an important role in keeping your personal information secure by maintaining the confidentiality of any passwords used on the Website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
+
+## How you can access personal information that We hold about you
+
+You may seek access to personal information that We hold about you by contacting Our Privacy Officer as follows: 
+
+By Post:  
+UBM Medica Privacy and Security  
+Locked Bag 3000,  
+St Leonards, NSW 1590,  
+Australia 
+
+By Phone: +61 2 9902 7740 
+
+By Fax: +61 2 9902 7778 
+
+By Email: [admin@mydr.com.au](mailto:admin@mydr.com.au)
+
+If you make a request for access to your personal information, We will ask you to verify your identity and specify what information you require. We may also charge a reasonable fee to cover Our costs of supplying you with access to this information. 
+
+In some circumstances, the Act entitles Us to deny access, for example if providing access would impact unreasonably on the privacy of others or prejudice negotiations in which We are involved. If We do refuse access, We are required to let you know the reasons for Our refusal. 
+
+Last revised: 20 October 2009. 
+
+  © Copyright: myDr, UBM Medica Australia, 2000-2009. All rights reserved. 
+
+Last Reviewed: 20 October 2009
