@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174825id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217175148id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy and Security at Biblio.com
+# Privacy and Security
 
 Biblio Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio Inc. follows certain procedures designed to safeguard the information you entrust to it. These procedures are set forth in the following paragraphs. 
 
