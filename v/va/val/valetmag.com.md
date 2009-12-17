@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valetmag.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091013id_/http%3A//www.valetmag.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valetmag.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217190341id_/http%3A//www.valetmag.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Valet. > About > Legal > Privacy Policy
 
