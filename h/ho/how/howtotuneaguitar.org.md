@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtotuneaguitar.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623202825id_/http%3A//www.howtotuneaguitar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtotuneaguitar.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234456id_/http%3A//www.howtotuneaguitar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,3 @@ HowToTuneAGuitar.org web site contains links to other sites as a courtesy to vis
 
 **Changes to this Statement**  
 From time to time, we may amend or update this policy. In the event that we change our privacy policy, we will publish the full text of the amended policy here and will post a notification of effective changes on our home page.
-
-[Learn Guitar Faster Today](http://www.howtotuneaguitar.org/jamorama11)WHO ELSE Wants To Learn To Play Guitar Step-By-Step Like The Eagles, Green Day, Pink Floyd, Guns 'n Roses, Jimi Hendrix, Nirvana, Eric Clapton, The Beatles and more?  
-[www.jamorama.com](http://www.howtotuneaguitar.org/jamorama11)
