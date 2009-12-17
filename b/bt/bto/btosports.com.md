@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174438id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092043id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BTO Sports
 
-[](https://www.controlscan.com/seal/verify2.php?subid=168&id=100)
-
-|  Privacy Policy  
+Privacy Policy  
   
 **Customer Information  
 **BTO Sports is firmly committed to protecting your privacy. We do not distribute a customer's information outside the BTO Sports organization. This customer information is solely used to build and maintain a typical business-to-customer data base. Within the checkout process, we use an order form to enable your purchase of products. In connection with your purchase, we ask for contact and shipping information (name, address, telephone number, e-mail address, etc.) and billing information (credit card number, etc.). To insure that you are aware of our current privacy policy, we suggest that you stop back and review this policy from time to time.
