@@ -1,85 +1,77 @@
-> *The following text is extracted and transformed from the maxbounty.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520032550id_/http%3A//www.maxbounty.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxbounty.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217053516id_/http%3A//www.maxbounty.com/privacy.cfm) for the most accurate reproduction.*
 
-# MAXBounty.com - highest paying CPA rates
+# MaxBounty - Highest Paying CPA Campaigns
 
-**Privacy Policy for MaxBounty.com** About Us This is a privacy policy for MaxBounty.com. Our homepage on the Web is located at [http://www.maxbounty.com](http://www.maxbounty.com/). Users may go to <http://www.maxbounty.com/support.cfm#privacy> for information on how to opt-in or opt-out of use of their information. 
+Privacy Policy for MaxBounty.com
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+About Us
+
+This is a privacy policy for MaxBounty.com. Our homepage on the Web is located at [http://www.maxbounty.com](http://www.maxbounty.com/). Users may go to our [contact page](https://web.archive.org/web/20091217053516id_/http%3A//www.maxbounty.com/contact.cfm?t=b) for information on how to opt-in or opt-out of use of their information.
+
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
 MaxBounty Inc.  
 PO Box 593  
 Station Orleans  
 Ottawa, Ontario K1C 1S9  
-Canada 
+Canada
 
-You may contact us by e-mail at [privacy@maxbounty.com](mailto:privacy@maxbounty.com).   
-You may call us at 613-834-3955. 
+You may contact us by e-mail at [privacy@maxbounty.com](mailto:privacy@maxbounty.com).
 
-Dispute Resolution We have the following dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+You may call us at 613-834-3955.
 
-**In-House Resolution** : All privacy disputes will be resolved internally by Customer Service. 
+Dispute Resolution
 
-Please contact Customer Service by e-mail at [privacy@maxbounty.com](mailto:privacy@maxbounty.com)
+We have the following dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-Additional Information This policy is valid for 1 day from the time that it is loaded by a client.  Data Collection **Site Usage Information**
+**In-House Resolution** : All privacy disputes will be resolved internally by Customer Service.
 
-Site access logs are stored on the system. Also, information is stored about the computer system that the individual is using to access the network -- such as the IP number, domain name, browser type or operating system. This information is used for hardware and application maintenance purposes. Cookies are used for state management purposes (i.e. maintaining a "logged in" status to the site). 
+Please contact Customer Service by e-mail at [privacy@maxbounty.com](mailto:privacy@maxbounty.com).
 
-We collect the following information: 
+Additional Information
 
-  * Navigation and click-stream data
-  * Computer information
-  * State management mechanisms
+This policy is valid for 1 day from the time that it is loaded by a client.
 
-This data will be used for the following purposes: 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+Data Collection
 
-This data will be used by ourselves and our agents.  **Cookies**
+**Site Usage Information**
 
-Cookies are used to keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants. 
+Site access logs are stored on the system. Also, information is stored about the computer system that the individual is using to access the network -- such as the IP number, domain name, browser type or operating system. This information is used for hardware and application maintenance purposes. Cookies are used for state management purposes (i.e. maintaining a "logged in" status to the site).
 
-We collect the following information: 
+We collect the following information: Navigation and click-stream data, Computer information, State management mechanisms. This data will be used for the following purposes: Completion and support of the current activity, Web site and system administration, Research and development.
 
-  * HTTP cookies
+This data will be used by ourselves and our agents.
 
-This data will be used for the following purposes: 
-  * Other purposes: Cookies are used to keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
+Cookies
 
-This data will be used by ourselves and our agents.  **Contact Information**
+Cookies are used to keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
 
-This information is collected so that we can maintain communication with the merchants and affiliates that form our network. 
+We collect the following information: HTTP cookies. This data will be used for the following purposes: Other purposes: Cookies are used to keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
 
-We collect the following information: 
+This data will be used by ourselves and our agents.
 
-  * Physical contact information
-  * Online contact information
+Contact Information
 
-This data will be used for the following purposes: 
-  * Other purposes: This information is collected so that we can maintain communication with the merchants and affiliates that form our network.
+This information is collected so that we can maintain communication with the merchants and affiliates that form our network.
 
-This data will be used by ourselves and our agents. 
+We collect the following information: Physical contact information, Online contact information. This data will be used for the following purposes: Other purposes: This information is collected so that we can maintain communication with the merchants and affiliates that form our network.
 
-MaxBounty affiliates must agree to receive periodic communications from MaxBounty. This communication could be in the form of e-mail, postal mail, telephone or fax. 
+This data will be used by ourselves and our agents.
 
-Merchants and affiliates can modify their contact information once they've logged in to the network. 
+MaxBounty affiliates must agree to receive periodic communications from MaxBounty. This communication could be in the form of e-mail, instant message, postal mail, telephone or fax.
 
-**Financial Information**
+Merchants and affiliates can modify their contact information once they've logged in to the network.
 
-Information on all network transactions are stored and and available to network merchants and affiliates involved in the transactions. Transactions include: clicks generated, leads generated and account transactions. Summarized information is also available in the form of reports. 
+Financial Information
 
-We collect the following information: 
+Information on all network transactions are stored and and available to network merchants and affiliates involved in the transactions. Transactions include: clicks generated, leads generated and account transactions. Summarized information is also available in the form of reports.
 
-  * Financial information
-  * Transaction history
+We collect the following information: Financial information, Transaction history. This data will be used for the following purposes: Historical preservation, Other purposes: Information on all network transactions are stored and and available to network merchants and affiliates involved in the transactions. Transactions include: clicks generated, leads generated and account transactions. Summarized information is also available in the form of reports.
 
-This data will be used for the following purposes: 
-  * Historical preservation.
-  * Other purposes: Information on all network transactions are stored and and available to network merchants and affiliates involved in the transactions. Transactions include: clicks generated, leads generated and account transactions. Summarized information is also available in the form of reports.
+This data will be used by ourselves and our agents.
 
-This data will be used by ourselves and our agents.  Cookies Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+Cookies
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-Other: To keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants. 
+Our site makes use of cookies. Cookies are used for the following purposes: Other: To keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
