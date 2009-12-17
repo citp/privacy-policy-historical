@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingonthefringe.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514043814id_/http%3A//www.marketingonthefringe.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingonthefringe.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217142326id_/http%3A//marketingonthefringe.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Marketing on The Fringe - Privacy Statement
 
