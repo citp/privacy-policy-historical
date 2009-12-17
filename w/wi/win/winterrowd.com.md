@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622191509id_/http%3A//www.winterrowd.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217193348id_/http%3A//www.winterrowd.com/Privacy) for the most accurate reproduction.*
 
 # Winterrowd.com - The original place for pranks and everything scary or spooky!
 
@@ -46,4 +46,4 @@ Winterrowd Solutions will occasionally update this Statement of Privacy to refle
 
 Contact Information
 
-Winterrowd Solutions welcomes your comments regarding this Statement of Privacy. If you believe that Winterrowd Solutions has not adhered to this Statement, please contact Winterrowd Solutions using our [ contact form](http://www.winterrowd.com/Contact). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Winterrowd Solutions welcomes your comments regarding this Statement of Privacy. If you believe that Winterrowd Solutions has not adhered to this Statement, please contact Winterrowd Solutions using our [ contact form](http://www.winterrowd.com/contact). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
