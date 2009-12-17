@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehighvalleylive.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519232416id_/http%3A//www.lehighvalleylive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehighvalleylive.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217174059id_/http%3A//www.lehighvalleylive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - lehighvalleylive.com
 
@@ -60,5 +60,6 @@ Privacy Policy Coordinator
 **PennLive LLC**  
 **2405 Park Drive Suite 201**  
 **Harrisburg, PA 17110**  
-**11contact02@pennlive.com**  
 **[Contact Us](https://web.archive.org/contactus)**
+
+lehighvalleylive.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/ "Advance Internet") is a leading creator of local news and information Web sites, created in alliance with over 25 newspapers affiliated with Advance Internet.
