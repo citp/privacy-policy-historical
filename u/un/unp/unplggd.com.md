@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unplggd.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616072731id_/http%3A//www.unplggd.com/unplggd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unplggd.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217025432id_/http%3A//www.unplggd.com/unplggd/privacy) for the most accurate reproduction.*
 
-# Apartment Therapy Unplugged Privacy Policy
+# Apartment Therapy Unplggd Privacy Policy
 
 **PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 9, 2008.**
 
