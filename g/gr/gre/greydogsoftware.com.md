@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greydogsoftware.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064730id_/http%3A//www.greydogsoftware.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greydogsoftware.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217201640id_/http%3A//www.greydogsoftware.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Grey Dog Software
 
