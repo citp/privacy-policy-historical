@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426064800id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217062818id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Free College Scholarships | Privacy Policy
 
 Edvisors is committed to protecting the privacy of your personal information. As part of that commitment, we provide this policy to explain our privacy practices, including what information we collect, how we use it, and what choices you have about collection and use of your personal information. We urge you to review this entire policy. 
 
-This privacy policy covers all Edvisors sites, including all [Student Loan Network](http://www.studentloannetwork.com/student-resources/links.php) sites. This policy also covers User Information received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. We invite you to contact us if you have questions about this policy. You may write to us at: 
+This privacy policy covers all Edvisors sites, including all [Student Loan Network](http://www.studentloannetwork.com/resources/links.php) sites. This policy also covers User Information received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. We invite you to contact us if you have questions about this policy. You may write to us at: 
 
 Edvisors   
 1250 Hancock Street, Suite 703N   
@@ -12,7 +12,7 @@ Quincy, MA 02169 USA
 
 You may also [email](mailto:privacy@edvisors.com) us. 
 
-If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.edvisors.com/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://reports.bosbbb.org/Boston/Public/Reports/BrandedReport.aspx?firm=88239). Edvisors is a member of the BBB Reliability Program. 
+If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.edvisors.com/profile/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://www.bbb.org/boston/business-reviews/insurance-companies/edvisors-network-inc-in-quincy-ma-88239/). Edvisors is a member of the BBB Reliability Program. 
 
 _Please note: If you apply for a loan, loan consolidation service, or other product or service, you may be redirected to the website of one of our third-party service providers (banks, lenders, facilitators, servicers, guarantors, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully._
 
@@ -58,11 +58,11 @@ We use your information to provide you the services your request, to improve Edv
 
 ## What Choices Do I Have About the Use of My Information?
 
-To edit any of your privacy preferences, please visit our [opt-out page](http://www.edvisors.com/opt-out.php). On that page, you may choose to opt out of our use of your information for marketing purposes or change your email delivery options. Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third party marketers. 
+To edit any of your privacy preferences, please visit our [opt-out page](http://www.edvisors.com/profile/opt-out.php). On that page, you may choose to opt out of our use of your information for marketing purposes or change your email delivery options. Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third party marketers. 
 
-If you wish to opt out of the use of your Technical Information by Online Advertising Networks, please visit <http://www.networkadvertising.org/managing/opt_out.asp>; this link is also available on our [opt-out page](http://www.edvisors.com/opt-out.php). You can also disable or delete cookies directly on your web browser. Please see your browser's "help" content if you are not sure how to do this. 
+If you wish to opt out of the use of your Technical Information by Online Advertising Networks, please visit <http://www.networkadvertising.org/managing/opt_out.asp>; this link is also available on our [opt-out page](http://www.edvisors.com/profile/opt-out.php). You can also disable or delete cookies directly on your web browser. Please see your browser's "help" content if you are not sure how to do this. 
 
-If you have any problems or questions regarding your privacy preferences or opt-out options, and cannot resolve them using our [opt-out page](http://www.edvisors.com/opt-out.php), please [email](mailto:privacy@edvisors.com) us. 
+If you have any problems or questions regarding your privacy preferences or opt-out options, and cannot resolve them using our [opt-out page](http://www.edvisors.com/profile/opt-out.php), please [email](mailto:privacy@edvisors.com) us. 
 
 Please note that you cannot opt out of the use of your information for completion and support of your loan or loan consolidation applications. You also cannot opt out of sharing your information to comply with valid law enforcement requests, legal process, to protect our interests or property or those of third parties, or as otherwise permitted or required by law. 
 
