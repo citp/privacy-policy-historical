@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onemotoring.com.sg privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060849id_/http%3A//onemotoring.com.sg/publish/onemotoring/en/bottomwebwide/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemotoring.com.sg privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217174837id_/http%3A//www.onemotoring.com.sg/publish/onemotoring/en/bottomwebwide/privacy_statement.html) for the most accurate reproduction.*
 
 # ONE.MOTORING - Privacy Statement
 
 ### ONE.MOTORING Portal Privacy Agreement
 
-Green Dot Internet Services Pte Ltd ("the Company") takes your privacy seriously. The Company will not collect personally identifiable information about you when you visit this web site ("this Web Site") or use any of the Company's services provided on this Web Site unless you choose to provide that information to the Company.
+NCS ("the Company") takes your privacy seriously. The Company will not collect personally identifiable information about you when you visit this web site ("this Web Site") or use any of the Company's services provided on this Web Site unless you choose to provide that information to the Company.
 
 Kindly view the [MSI Global Pte Ltd ("MSI") Privacy Statement](https://web.archive.org/publish/onemotoring/en/bottomwebwide/msi_privacy_statement.html "MSI Privacy Statement") when you are using LTA Regulatory Applications on this website.
 
@@ -37,8 +37,6 @@ The Company may disclose information about you if the Company in its discretion 
 The Company may revise and update this Privacy Policy at any time by posting such revised Privacy Policy on this Web Site ([http://www.onemotoring.com.sg](http://www.onemotoring.com.sg/publish/onemotoring/en.html)). By using this Web Site, you consent to the collection and use of your information as outlined in this policy and to the Web Site User Agreement for use of this Web Site.
 
 ### OTHER TERMS AND CONDITIONS
-
-See One.motoring Portal Terms and Conditions for use of this Web Site.
 
 ### EFFECTIVE DATE
 
