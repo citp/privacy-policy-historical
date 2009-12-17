@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodnet.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192403id_/http%3A//www.woodnet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodnet.net privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217132318id_/http%3A//www.woodnet.net/privacy) for the most accurate reproduction.*
 
 # WoodNet.net - The Woodworker's Online Resource - Privacy Policy
 
