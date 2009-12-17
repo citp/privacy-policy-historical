@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the picturepeople.com privacy policy that was archived on 2009-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090421033808id_/http%3A//www.picturepeople.com/fp_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the picturepeople.com privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217235650id_/http%3A//www.picturepeople.com/fp_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Picture People - Privacy Pledge</title>
@@ -28,35 +28,39 @@
 <body>
 <div class="main">
 
-	<script language="javascript">
-function CheckZip() {
-if (document.frmZip.PostalCode.value.length != 5) {
-alert("Please enter a 5 digit postal code");
-document.frmZip.PostalCode.select();
-return false;
-}
-return true;
-}
+	
+<script language="javascript">
+    function CheckZip() {
+        if (document.frmZip.PostalCode.value.length != 5) {
+            alert("Please enter a 5 digit postal code");
+            document.frmZip.PostalCode.select();
+            return false;
+        }
+        return true;
+    }
 </script>
-<script src="/studio_locator/xslt/map.js" language="javascript" type="text/javascript"></script>	    
-
-
-
+    <script src="studio_locator/xslt/map.js" language="javascript" type="text/javascript">
+</script>
 <form action="store_locator_result_by_zip.asp" method="get" name="frmZip" onsubmit="return CheckZip();">
-<div class="guarantee clearfix">No Session Fees. 100% Satisfaction Guaranteed. Portraits in One Hour.<label>[<a href="es/index.asp">Español</a>]</label>
+<div class="guarantee clearfix">
+	<label style="left:-100px">[<a href="es/index.asp">Español</a>]</label>
+	No Session Fees. 100% Satisfaction Guaranteed. Get Your Portraits Same Day.
+    <label style="left:100px">[<a href="sso/default.aspx">Sign In</a>]&nbsp;[<a href="sso/registerContent.aspx">Register</a>]</label>
 </div>
 <div class="header clearfix">
 		<div class="logo"><a href="index.asp"><img src="img/logo.png" alt="The Picture People"></a></div>
-		<div class="call"><a href=""><img src="img/spring09_call.png" alt="1.800.341.HOUR - Book Your Appointment"></a></div>
+		<div class="call"><a href=""><img src="img/hol09_call.png" alt="1.800.341.HOUR - Book Your Appointment"></a></div>
 		<div class="locate">
 			<div class="clearfix">
 				<input name="PostalCode" type="text" value="Zip Code" class="locate_field" onfocus="this.value=''">
-				<input name="" type="image" value="Find" src="img/but/spring09_find.png">
+				<input name="" type="image" value="Find" src="img/but/hol09_find.png">
 			</div>
       <label><a href="locator.asp">click to view map</a></label>
 		</div>
 </div>
-</form><div class="nav clearfix">
+</form>
+
+<div class="nav clearfix">
 	
 		<dl class="dropdown">
 			<dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)"><a href="exp_who.asp">The Experience</a></dt>
@@ -135,15 +139,17 @@ return true;
 			<dt id="seven-ddheader" onmouseover="ddMenu('seven',1)" onmouseout="ddMenu('seven',-1)"><a href="sign_up.asp">Special Offers</a></dt>
 			<dd id="seven-ddcontent" onmouseover="cancelHide('seven')" onmouseout="ddMenu('seven',-1)">
 				<ul class="menu">
-					<li><a href="sign_up.asp">Sign Up!</a></li>
 					<li><a href="whats_new.asp">What’s New</a></li>
 					<li><a href="accents_portrait_showcase.asp">Portrait Collections</a></li>
+					<li><a href="teleflora.asp">Teleflora Offer</a></li>
 				</ul>
 			</dd>
 		</dl>
 
 		<dl class="dropdown" style="background:none;">
-			<dt id="eight-ddheader" onmouseover="ddMenu('eight',1)" onmouseout="ddMenu('eight',-1)"><a href="http://smilestore.picturepeople.com/pn/tpp/home" target="_blank">Smilestore</a></dt>
+			<dt id="eight-ddheader" onmouseover="ddMenu('eight',1)" onmouseout="ddMenu('eight',-1)"><a href="/sso/default.aspx">SmileStore</a></dt>
+			<dd id="eight-ddcontent" onmouseover="cancelHide('eight')" onmouseout="ddMenu('eight',-1)">
+			</dd>
 		</dl>
 	</div>
 	
@@ -198,10 +204,12 @@ return true;
 			<div class="bottom"></div>		
 		</div>
 		
-			<div class="footer clearfix">
+	
+		<div class="footer clearfix">
 			<!--
 			<div class="language"><a href="">Espa&ntilde;ol</a></div>
 			-->
+<div class="facebook"><a href="http://www.facebook.com/thepicturepeople"><img src="img/but/facebook.gif" border="0"></a></div>
 			<ul class="footerlinks">
 				<li><a href="fp_about.asp">About Us</a></li>
 				<li><a href="fp_cc_contact.asp">Customer Care</a></li>
@@ -209,10 +217,12 @@ return true;
 				<li><a href="fp_partners.asp">Partners</a></li>
 				<li><a href="fp_help.asp">Help</a></li>
 				<li><a href="fp_privacy.asp">Privacy</a></li>
+				<li><a href="fp_terms.asp">Terms of Use</a></li>
 				<li><a href="fp_site_map.asp">Site Map</a></li>
 			</ul>
 			<div class="copyright">The Picture People. Copyright © The Picture People Inc. All rights reserved.</div>
 		</div>
+		
 		
 	</div>
 	
