@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133128id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217080424id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
 
 # Adult DVD Empire -
 
