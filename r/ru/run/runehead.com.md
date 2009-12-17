@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the runehead.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601170429id_/http%3A//www5.runehead.com/Privacy%2BPolicy-x) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runehead.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217050900id_/http%3A//www.runehead.com/Privacy%2BPolicy-x) for the most accurate reproduction.*
 
 # RuneHead :: For RuneScape Services and Information
 
-RuneHead is run by the people in the [RuneHead Crew](https://web.archive.org/web/20090601170429id_/http%3A//www5.runehead.com/RuneHead+Credits-x) . Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy surrounding the collection and use of that information. 
+RuneHead is run by the people in the [RuneHead Crew](https://web.archive.org/web/20091217050900id_/http%3A//www.runehead.com/RuneHead+Credits-x) . Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy surrounding the collection and use of that information. 
 
 **Collected Data**  
 Certain features require registration and this is a **one time only registration** for the whole range of RuneHead services. Data collected from this process is used only for the running of said services and will not be given to any third parties **ever**.
@@ -24,4 +24,4 @@ Most advertisements on RuneHead are provided by outside advertising companies an
 **Links to external websites**  
 RuneHead may link to other websites on the internet. Content and Privacy Policies are the responsibility of their respective owners.
 
-If you have any further questions then feel free to contact us via our [Support Forum](https://web.archive.org/web/20090601170429id_/http%3A//www5.runehead.com/forum).
+If you have any further questions then feel free to contact us via our [Support Forum](https://web.archive.org/web/20091217050900id_/http%3A//www.runehead.com/forum).
