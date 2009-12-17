@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peplink.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180129id_/http%3A//www.peplink.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peplink.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217095354id_/http%3A//www.peplink.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Peplink
 
@@ -29,4 +29,4 @@ You may choose to give us personal information in a variety of situations. For e
 
  **Important**
 
-To correct inaccuracies in our record of your personal information, please respond to the sender or contact Peplink at privacy@peplink.com.
+To correct inaccuracies in our record of your personal information, please respond to the sender or contact Peplink at privacy@Peplink.com.
