@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013114755id_/http%3A//www.fxsol.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218162317id_/http%3A//www.fxsolutions.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # FX Solutions - Privacy Policy
-
-Privacy Policy
 
 This privacy policy explains the manner in which FX Solutions (sometimes referred to herein as "we", "us", or "our") collects, utilizes and maintains nonpublic personal information about its customers and those parties with whom FX Solutions has a prospective relationship (sometimes referred to herein as "you", "your" or "prospective customer"). This policy only applies to nonpublic personal information of individuals (not entities). 
 
