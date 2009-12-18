@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193432id_/http%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022356id_/http%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesiComments.com
 
@@ -8,7 +8,7 @@ The following Privacy Statement discloses the information gathering and dissemin
 
 Our site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer’s hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. If a guest makes a purchase, cookies are used to keep the shopping cart active during the shopping process. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
-We may use an outside ad company to display ads on our Site. These ads may contain cookies and are collected by our ad company, and we do not have access to this information.
+We may use a third party ad company to display ads on our site. These ads may contain cookies and are collected by the ad company, and we do not have access to this information.
 
 We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Website). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink, chances are that your IP address varies each session, thus making it effectively impossible for us to use your IP address to determine who you are.
 
