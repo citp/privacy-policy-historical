@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney-clipart.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618215009id_/http%3A//disney-clipart.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney-clipart.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218100049id_/http%3A//disney-clipart.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy > Disney-Clipart.com
 
