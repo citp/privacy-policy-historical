@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbocargames.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601212736id_/http%3A//www.turbocargames.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbocargames.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218071505id_/http%3A//www.turbocargames.com/page/1.html) for the most accurate reproduction.*
 
 # Car Games - Parking Games - Racer Games - Biker Games - Dirt Bike Games - Racing Games - Turbo Car Games - Privacy Policy
 
