@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfilm.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201429id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfilm.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218181255id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.*
 
 # Openfilm » Help & Info » Privacy Policy
 
