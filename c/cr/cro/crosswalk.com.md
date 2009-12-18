@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065154id_/http%3A//www.crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218181359id_/http%3A//crosswalk.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # About Crosswalk.com, Jesus Christ, Bible Study Tools, Online Christian Living Resources
 
@@ -7,7 +7,7 @@
 **Privacy Policy**  
 **Last Updated:** November 3, 2007
 
-This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, �Salem�), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website. Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others. Accordingly, what follows is a description of how we gather and use information about you (collectively �Your Information�). 
+This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, "Salem"), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website. Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others. Accordingly, what follows is a description of how we gather and use information about you (collectively "Your Information"). 
 
 **Please note that by visiting this website, you consent to the collection of Your Information by Salem as set forth in this Privacy Policy.**
 
@@ -82,15 +82,14 @@ Salem acquires no personal or registration data about our users except what you 
 **If You Contact Us**  
 We use return email addresses to answer the email we receive from you. Unless you tell us otherwise, we will not use your address for any other purpose.
 
-**Feedback Data**
-
+**Feedback Data**   
 Feedback data is voluntary information (such as success stories) provided directly by you for the purposes of assessing the products or services provided through Salem Web Network sites.  There are areas on Salem Web Network owned sites which allow you to submit feedback. Any feedback you submit in these areas becomes the property of Salem Web Network, and we reserve the right to use this information for the purposes of marketing, quality control, or to contact you for further information.
 
 **Usage (Log) Data**   
 Salem also gathers and analyzes Usage or Log Data including your IP (internet protocol) address assigned by your ISP (internet service provider), and the type of operating system you are using on your computer, and the type of web browser you are using to view our Website. Salem management uses Usage or Log Data to help diagnose problems with and optimize performance of the server. This information also allows us to evaluate user traffic patters into, out from, and within our Website. These uses, however, do not allow us to connect your IP address with your personal identity.
 
 **What About "Cookies"?**  
-"Cookies" are small pieces of information that your Web browser stores on your computer's hard drive. From time to time our Website may place cookies on your computer�s hard drive that enable our systems to recognize your browser and to provide you with certain features. Use of cookies also provides information about your Web usage, which helps us compile demographic and statistical information about visitors who are utilizing our Website. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. 
+"Cookies" are small pieces of information that your Web browser stores on your computer's hard drive. From time to time our Website may place cookies on your computer's hard drive that enable our systems to recognize your browser and to provide you with certain features. Use of cookies also provides information about your Web usage, which helps us compile demographic and statistical information about visitors who are utilizing our Website. Our cookies may contain personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. 
 
 **Correcting and Updating**  
 You may correct or update your registration data by contacting our member services in the following ways:
@@ -127,7 +126,7 @@ Richmond, Virginia 23219
 
 
 **Public Forums**  
-This site may make chat rooms, forums, message boards, and/or news groups available to its users. Any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you should do so carefully and at your own risk. Please refer to <http://l.salemweb.net/communitytermsofservice> for additional information about the terms of service applicable to Salem�s public forums. 
+This site may make chat rooms, forums, message boards, and/or news groups available to its users. Any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you should do so carefully and at your own risk. Please refer to <http://l.salemweb.net/communitytermsofservice> for additional information about the terms of service applicable to Salem's public forums. 
 
 **Sale of Our Company** Salem may include any information we collect through this website in our customer information database. This database is considered an asset owned by Salem. As in any business venture, the sale of Salem is always a possibility, either as an entire corporate entity or through an asset sale that may include our customer information database. Should another entity ever purchase or acquire Salem or its assets, all information contained in our customer information database will be considered a transferred asset and become the property of the purchasing or acquiring entity. 
 
@@ -135,19 +134,19 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 When you visit Salem, you may be linked to other outside sites. This includes links to sites operated by advertisers, sponsors, and partners that may use Salem's logo as part of an agreement with Salem. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites may be developed by people over whom Salem exercises no control and, as such, are not subject to the Salem Privacy Policy. Salem is not responsible for the privacy policies of these other sites, nor for the use of any information that these sites may collect.
 
 **Information Sharing With Third Parties**  
-From time to time we may enter into a special relationship with another company that is not owned by Salem to provide additional features at this website. These special relationships may include �powered by� partners, business partners, sponsors, and co-branded sites (referred to here as �co-branded pages�). You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner. You should also check our partner�s website for information regarding its privacy policies.  
+From time to time we may enter into a special relationship with another company that is not owned by Salem to provide additional features at this website. These special relationships may include "powered by" partners, business partners, sponsors, and co-branded sites (referred to here as "co-branded pages"). You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner. You should also check our partner's website for information regarding its privacy policies.  
   Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Salem corporate enterprise. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Salem enterprise. By responding to those features of the site, whether by email or direct entry of information on our website, you are consenting to our transferring that information to such persons or entities.
 
 **Children's Privacy**  
 Because the safety of children is very important to us, Salem will not knowingly accept personal information from children under the age of 13 without first obtaining written parental consent. A parent can give such consent by filling out and signing the [Salem Parental Consent Form](http://www.crosswalk.com/help/ParentalConsentForm.aspx) and returning it to us at the contact point listed below. If a parent wishes to refuse to permit collection or use of their child's information by Salem, that parent should contact us to request deletion of their child's account.  
-If you have any questions or comments regarding children�s privacy at Salem or if you would like to submit a signed Parental Consent Form, please contact:
+If you have any questions or comments regarding children's privacy at Salem or if you would like to submit a signed Parental Consent Form, please contact:
 
   * By mailing us at:
 
 
 
 Salem Web Network  
-Attn: Children�s Privacy Dept.  
+Attn: Children's Privacy Dept.  
 111 Virginia Street, Suite 500  
 Richmond, Virginia 23219 
 
@@ -160,7 +159,8 @@ Richmond, Virginia 23219
 The security and confidentially of Your Information is extremely important to us. Accordingly, we take appropriate security measures to protect against the unauthorized access, alteration, disclosure, or destruction of data. This includes the use of encryption technology to ensure that Your Information is protected. Please understand, however, that despite our best efforts no security measures are perfect or impenetrable.
 
 **Your California Privacy Rights  
-**Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Salem who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com) or write us at:   
+**Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Salem who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@salemwebnetwork.com](mailto:support@salemwebnetwork.com) or write us at: 
+
 Salem Web Network  
 Attn: California Privacy Rights  
 111 Virginia Street, Suite 500  
@@ -179,7 +179,7 @@ If you have any questions concerning this Policy, you may send them by email to 
 
 
 Salem Web Network  
-Attn: Privacy Policy �Dept.  
+Attn: Privacy Policy Dept.  
 111 Virginia Street, Suite 500  
 Richmond, Virginia 23219 
 
@@ -196,4 +196,4 @@ We understand your privacy is important to you. Please note, however, that Salem
 
 **Your Consent and Changes to this Policy**  
 By using our Website, you consent to the collection and use of Your Information by Salem as set forth in this Privacy Policy. Additionally, your visit and any dispute over privacy are subject to this Privacy Policy and the Terms of Use applicable to this website.  
-Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting, and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect. If we make any material changes, we will revise the �Last Updated� date at the top of the Privacy Policy. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates.
+Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting, and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect. If we make any material changes, we will revise the "Last Updated" date at the top of the Privacy Policy. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates.
