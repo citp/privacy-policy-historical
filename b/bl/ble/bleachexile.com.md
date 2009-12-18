@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072700id_/http%3A//www.bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218015612id_/http%3A//www.bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Bleach Exile > Information > Privacy Policy
 
 [Make a donation today!](https://web.archive.org/information/donations/) Browse AD free, unlimited downloads, customize yourself, and much more!
 
+  
 Privacy Policy
 
 **Privacy Policy**
