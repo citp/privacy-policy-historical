@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621061654id_/http%3A//www.moneymorning.com%3Fpage_id%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218103811id_/http%3A//www.moneymorning.com%3Fpage_id%3D20) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,7 +18,7 @@ At no time are you required to submit personal information to access any area of
 
 **Ordering Online**
 
-Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer - an encryption protocol - and is kept in databases that cannot be accessed from outside our firewall. 
+Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer – an encryption protocol – and is kept in databases that cannot be accessed from outside our firewall. 
 
 In other words, any data you send us is encrypted, so in the unlikely event a hacker intercepts your data, it cannot be easily read. Our firewall is a mechanism that prevents access to our servers by anyone outside of the company.
 
