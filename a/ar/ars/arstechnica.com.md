@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arstechnica.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620173945id_/http%3A//arstechnica.com/site/privacy-policy.ars) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arstechnica.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218223913id_/http%3A//arstechnica.com/site/privacy-policy.ars) for the most accurate reproduction.*
 
-# Privacy Policy - Ars Technica
+# Privacy Policy
 
 _Last Revised 1/25/2009_
 
