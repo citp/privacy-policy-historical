@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uci.edu privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616210355id_/http%3A//www.uci.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uci.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218044452id_/http%3A//www.uci.edu/privacy.php) for the most accurate reproduction.*
 
 # UCI Privacy Statement
 
