@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080242id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219005113id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
 
 # Free College Scholarships
 
@@ -32,6 +32,10 @@ Additionally, freecollegescholarships.net may disclose your information if requi
 ##### Registry Compliance:
 
 By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from freecollegescholarships.net, our affiliates, and our partners for contact via telephone and/or sms messages, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls. 
+
+##### Third Party Offers
+
+In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies.Â  A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements.Â  The cookie is not associated with your personally identifiable information. To opt out of our third party cookie-based marketing program, click here: <http://rt.displaymarketplace.com/optout.html>
 
 ##### We do not collect Information from Children:
 
