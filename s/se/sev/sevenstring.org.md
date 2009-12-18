@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenstring.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190103id_/http%3A//www.sevenstring.org/forum/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenstring.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218012527id_/http%3A//www.sevenstring.org/forum/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
