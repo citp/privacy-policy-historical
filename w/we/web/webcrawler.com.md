@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628165146id_/http%3A//www.webcrawler.com/webcrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218165725id_/http%3A//www.webcrawler.com/webcrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - WebCrawler
 
@@ -58,7 +58,7 @@ In the event InfoSpace goes through a business transition, such as a merger, bei
 
 ###### Choice/Opt-out
 
-We desire to keep you in control of your personal information. Accordingly, you can review, correct, change or remove your personal registration information and elect not to receive future communications from us by sending us an e-mail at [Contact Form](http://www.webcrawler.com/WebCrawler/ws/about/_iceUrlFlag=11?_IceUrl=true#contactus).
+We desire to keep you in control of your personal information. Accordingly, you can review, correct, change or remove your personal registration information and elect not to receive future communications from us by sending us an e-mail at [Contact Form](http://www.webcrawler.com/webcrawler/ws/about/_iceUrlFlag=11?_IceUrl=true#contactus).
 
 ###### Notification of Changes
 
@@ -83,6 +83,6 @@ InfoSpace, Inc.
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
-E-mail: [Contact Form](http://www.webcrawler.com/WebCrawler/ws/about/_iceUrlFlag=11?_IceUrl=true#contactus)
+E-mail: [Contact Form](http://www.webcrawler.com/webcrawler/ws/about/_iceUrlFlag=11?_IceUrl=true#contactus)
 
 Policy effective January 1, 2005 
