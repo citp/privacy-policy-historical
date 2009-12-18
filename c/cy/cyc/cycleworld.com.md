@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cycleworld.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071738id_/http%3A//hfmus.com/hfmus/your_privacy_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cycleworld.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024709id_/http%3A//hfmus.com/hfmus/your_privacy_rights) for the most accurate reproduction.*
 
 # HFMUS
 
