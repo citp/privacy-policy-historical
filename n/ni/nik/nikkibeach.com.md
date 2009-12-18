@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nikkibeach.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618093442id_/http%3A//www.nikkibeach.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkibeach.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022443id_/http%3A//www.nikkibeach.com/privacy.php) for the most accurate reproduction.*
 
 # Nikki Beach
 
 ## NIKKI BEACH
 
-### Privacy Polucy
+### Privacy Policy
 
 **Your privacy is important to us**. 
 
