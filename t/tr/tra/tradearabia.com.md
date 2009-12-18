@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135657id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218112929id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
 
 # Trade Arabia - Online business directory with over 200,000 profiles
 
-| 
+|  | 
 
 |   
 ---  
@@ -46,11 +46,11 @@ Any changes to this Privacy Policy will be communicated through our posting an a
 
  **Correcting Your Information**
 
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Tradearabia.com. To update or correct such information, please send an email to [ info@tradearabia.net](mailto:info@tradearabia.net)
+You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Tradearabia.com. To update or correct such information, please send an email to [ adsonline@tradearabia.net](mailto:adsonline@tradearabia.net)
 
  **Your feedback**
 
-Tradearabia.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [ info@tradearabia.net](mailto:info@tradearabia.net)
+Tradearabia.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [ adsonline@tradearabia.net](mailto:adsonline@tradearabia.net)
 
 |    
 ---|---|---  
@@ -58,8 +58,8 @@ Tradearabia.com welcomes your continuous input regarding our Privacy Policy or o
   
 |   
 ---  
-[ ](https://web.archive.org/web/20090618135657id_/http%3A//www.tradearabia.com/premium/gulfhome.asp)  
-[ ](https://web.archive.org/web/20090618135657id_/http%3A//www.tradearabia.com/premium/default.asp)  
+[ ](https://web.archive.org/web/20091218112929id_/http%3A//www.tradearabia.com/premium/gulfhome.asp)  
+[ ](https://web.archive.org/web/20091218112929id_/http%3A//www.tradearabia.com/premium/default.asp)  
    
    
  
