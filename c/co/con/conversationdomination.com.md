@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationdomination.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419002741id_/http%3A//www.conversationdomination.com/membership/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationdomination.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218111723id_/http%3A//www.conversationdomination.com/membership/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conversation Domination
 
