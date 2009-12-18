@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncc.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122753id_/http%3A//info.uncc.edu/redirect/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncc.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023931id_/http%3A//info.uncc.edu/redirect/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Office of Legal Affairs | UNC Charlotte
 
