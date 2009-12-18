@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the championshipmanager.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171630id_/http%3A//www.championshipmanager.co.uk/server/show/ConWebDoc.187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the championshipmanager.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113103id_/http%3A//www.championshipmanager.co.uk/server/show/ConWebDoc.187) for the most accurate reproduction.*
 
 # Privacy Policy : : Championship Manager
 
