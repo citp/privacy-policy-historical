@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508032103id_/http%3A//www.aiim.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiim.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218092302id_/http%3A//www.aiim.org/Privacy.aspx) for the most accurate reproduction.*
 
 # AIIM - AIIM International Privacy Statement
 
