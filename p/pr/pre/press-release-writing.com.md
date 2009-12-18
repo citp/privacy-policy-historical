@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171635id_/http%3A//www.press-release-writing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218065958id_/http%3A//www.press-release-writing.com/privacy.htm) for the most accurate reproduction.*
 
 # Press-Release-Writing.com Privacy Statement
-
-## Privacy Statement
 
 Press-release-writing.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: Press-release-writing.com.
 
@@ -20,16 +18,26 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-Send email to [newsletter@press-release-writing.com](mailto:newsletter@press-release-writing.com) or [webmaster@press-release-writing.com](mailto:webmaster@press-release-writing.com).
+Send email to webmaster@press-release-writing.com.
 
 ## Correct/Update/Review
 
 This site gives users the following options for reviewing, changing and modifying information previously provided.
 
-Send email to [newsletter@press-release-writing.com](mailto:newsletter@press-release-writing.com) or [webmaster@press-release-writing.com](mailto:webmaster@press-release-writing.com).
+Send email to webmaster@press-release-writing.com.
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact PRW 315 Fruitwood Lane  
-Knoxville, TN 37934 865-671-8436 [info@press-release-writing.com](mailto:info@press-release-writing.com)   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact
 
+**Main Office**  
+Press-Release-Writing.com  
+5022 Campbell Boulevard  
+Suite N  
+Baltimore, MD 21236
+
+Toll Free: 800.990.5545  
+Phone: 410.931.2966
+
+**Business hours:**  
+Mon.-Fri. 7:00AM-7:00PM Eastern Time
