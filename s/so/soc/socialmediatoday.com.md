@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialmediatoday.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194517id_/http%3A//www.socialmediatoday.com/SMC/pages/page/%3Fpgid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediatoday.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024441id_/http%3A//www.socialmediatoday.com/SMC/pages/page/%3Fpgid%3D4) for the most accurate reproduction.*
 
-# Privacy
+# Social Media Today | Privacy
 
 **Privacy Policy  
 **  
