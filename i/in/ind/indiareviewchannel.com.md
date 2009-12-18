@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602071935id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218112657id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# IndiaReviewChannel privacy policy
+# IndiaReviewChannel.com privacy policy
 
 At IndiaReviewChannel.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting IndiaReviewChannel.com, you are accepting this privacy policy and our terms & conditions.
 
@@ -19,6 +19,8 @@ For statistical purposes, we gather and store general visitor information like I
  **Cookies**
 
 Cookies are small pieces of information stored in your computer. When you login to IndiaReviewChannel.com, we store small cookies in your computer, to provide a better browsing experience for you.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use non personal about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
  **Advertisements**
 
