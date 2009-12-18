@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayarticles.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193248id_/http%3A//www.everydayarticles.com/example-subpage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayarticles.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022521id_/http%3A//www.everydayarticles.com/example-subpage.html) for the most accurate reproduction.*
 
 # Privacy Policy - Everydayarticles.com- Free articles for reprint, web site, newsletters and everything else...
 
@@ -45,7 +45,4 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
  If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.   
-
-
-  
 
