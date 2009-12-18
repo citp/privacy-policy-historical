@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061907id_/http%3A//www.bluelounge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218044522id_/http%3A//www.bluelounge.com/privacy.php) for the most accurate reproduction.*
 
 # Bluelounge - Privacy Policy
 
@@ -8,4 +8,8 @@ Bluelounge respects your personal information. We do not give out information to
 
 We are committed to protecting your privacy. We use the information we collect on the site simply to make online orders possible and to enhance your overall shopping experience.
 
+The personal information you provide us is used only for processing your order, and customizing your shopping experience. Under no circumstances will we share your personal details with any other entity or third-party.
+
 We may use the information we collect to occasionally notify you about new products, events, or special offers.
+
+Have any questions or comments concerning your privacy? Please feel free to contact us. We read every email that we receive and will reply as quickly as we can.
