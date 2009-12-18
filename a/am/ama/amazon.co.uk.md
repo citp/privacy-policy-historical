@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619151528id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218062006id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk: Help > Security & Privacy > Privacy Notice
 
