@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223150553id_/http%3A//www.encyclopedia-titanica.org/admin.php%3Fangle%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219004828id_/http%3A//www.encyclopedia-titanica.org/privacy-policy) for the most accurate reproduction.*
 
-# Encyclopedia Titanica : Privacy
+# Encyclopedia Titanica :Privacy
 
 This page explains what information might be gathered about you when you visit encyclopedia-titanica.org. 
 
@@ -14,6 +14,12 @@ This page explains what information might be gathered about you when you visit e
 ET may use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 **Cookies:** A cookie is a small data file that is transferred to your computer's hard drive through your web browser when you visit ET. Cookies enable the system to recognize your computer, so that you can receive a personalized response. This is largely of use on the message board. You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, you may not be able to use certain site features or functions. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **External Links and Services:** This site contains links to other sites. ET is not responsible for the privacy practices or the content of other Web Sites. 
 
