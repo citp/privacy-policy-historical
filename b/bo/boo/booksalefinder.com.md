@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksalefinder.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618115209id_/http%3A//www.booksalefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksalefinder.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022443id_/http%3A//www.booksalefinder.com/privacy.html) for the most accurate reproduction.*
 
 # Book Sale Finder Privacy Policy
 
