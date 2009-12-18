@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609084910id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218222608id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
-## Privacy policy
+## Lonley Planet Privacy policy
 
-At Lonely Planet, we understand the importance of privacy. That's why we've prepared this privacy policy to let you know who we are and how we handle your personal information. We'll keep you out of the tabloids.
+At Lonely Planet, we understand that privacy is really important. So we have prepared this privacy policy to fill you in on who we are, our objectives in handling personal information that we collect, and how you can find out more about our privacy philosophy and the personal information that we collect about you. 
 
   * Who are we?
   * What we collect and why
   * But it isn't about me!
   * What about 'cookies'?
+  * Security
   * You tell who?
   * Complaints, comments or corrections?
 
@@ -32,13 +33,15 @@ Back to top
 
 ### What do we collect and why do we collect it?
 
-There will be situations in which it is necessary for us to collect information about individuals. We collect and hold personal information such as names, addresses, e-mail addresses, and phone numbers. If customers choose to purchase Lonely Planet products or services, we collect credit card details and other identifying information in order to process orders and provide customer service. Our writers (some of whom work on contract to us) may also collect personal information in the course of gathering material for inclusion in our publications (although you won't always know who they are at the time as we need to get the real story!) Click here to read our Media privacy policy. The types of purposes for which we collect information about individuals include the following (we'll generally explain more about why we collect personal information when we actually collect it - but there are some exceptions): 
+There are situations in which we ask you to give us information about yourself. This information includes things like your name, address, e-mail address, and phone number. We collect, hold and use your personal information only where you have given us your permission to do so. If customers choose to purchase Lonely Planet products or services, we collect their credit card details and other identifying information in order to process orders and provide customer service. Our writers (some of whom work on contract to us) may also collect personal information in the course of gathering material for inclusion in our publications (although you won't always know who they are at the time as we need to get the real story!). Click here to read our Media privacy policy. The types of purposes for which we collect information about individuals include the following: 
 
-  * obtaining and responding to feedback from travellers
+  * obtaining, responding to and managing feedback from travellers 
   * allowing people to share their experiences with fellow travellers on our bulletin boards
-  * sending our newsletters and promotional emails to travellers who ask for them
   * processing purchase orders and providing technical support
   * offering on-the-road communications services contacting customers with exciting travel news and great Lonely Planet offers (but only if they have asked us to).
+  * contacting travellers with information and updates (like exciting travel news, great offers, promotions, special events, competitions and surveys) from Lonely Planet. Our information and updates may also include information from our partners and BBC Worldwide
+  * managing our competitions and contacting the winners
+  * personalising or improving the way Lonely Planet content is presented to you online (see the section on "What about cookies?" for more information)
 
 
 
@@ -50,19 +53,29 @@ We may also collect information about individuals involved in businesses, and th
 
 
 
-If you work for us (as an employee or under contract) we keep information about you in the context of that relationship. There are some differences in how we deal with that type of personal information because of the relationship, plus some housekeeping stuff. If you are in this group and want further information on how we deal in the information about you, please contact your Human Resources manager or the person who manages your relationship with us. 
+If you work for us (as an employee or under contract) we keep information about you in the context of that relationship. There are some differences in how we deal with that type of personal information because of the relationship, plus some housekeeping stuff. If you are in this group and want further information on how we deal with information about you, please contact your Human Resources manager or the person who manages your relationship with us. 
 
 Back to top
 
 ### But it isn't about me!
 
-One of the best things about the Lonely Planet community is that everyone is keen to share their views and experiences with others. (If you don't believe us, just check out the thousands of daily posts at the [Thorn Tree](http://thorntree.lonelyplanet.com/), our online travel forum.) We welcome your contributions, but remember, what's 'gossip' to you may deserve 'privacy' in someone else's eyes. So please respect the privacy of others. If you want to include information about yourself we'll take it that you understand how our services work and are happy for that information to be shared. If you are _unhappy_ that personal information about you has been included in one of our publications or on one of our bulletin boards, please [let us know](mailto:privacy@lonelyplanet.com.au). Where reasonable and possible we will remove that information at the next practical opportunity - where it has been included in one of our publications that may be the next reprint or next edition. 
+One of the best things about the Lonely Planet community is that everyone is keen to share their views and experiences with others (if you don't believe us, just check out the thousands of daily posts at the [Thorn Tree](http://thorntree.lonelyplanet.com/) and our message boards). We welcome your contributions, but remember, what's 'gossip' to you may deserve 'privacy' in someone else's eyes. So please respect the privacy of others. If you want to include information about yourself we'll take it that you understand how our services work and are happy for that information to be shared. If you are _unhappy_ that personal information about you has been included in one of our publications or on one of our bulletin boards, please [let us know](mailto:privacy@lonelyplanet.com.au). Where reasonable and possible we will remove that information at the next practical opportunity - where it has been included in one of our publications that may be the next reprint or next edition. 
 
 Back to top
 
 ### What about 'cookies'?
 
-A 'cookie' is a small message given to your web browser by our web server. The browser stores the message in a text file, and the message is then sent back to the server each time the browser requests a page from the server. We make limited use of cookies on our website for the purposes of tailoring our web pages to your needs. We do not match cookies to your registration details and we do not use cookies to track your movements after leaving this website. Most browsers allow you to turn off cookies, and the help menu on your browser should tell you how. However, switching off cookies will restrict your use of our website.
+A "cookie" is a small message given to your web browser by our web server. The browser stores the message in a text file, and the message is then sent back to the server each time the browser requests a page from the server. We use cookies on our website to tailor our web pages to your needs. This may include recording what region of the world you are from so we don't make the mistake of requiring you to buy stuff with British Pounds when you live in Fiji for example!
+
+Cookies also allow us to analyse and improve the services offered by our website e.g. to provide you with the most user-friendly navigation experience. We engage independent measurement, advertising and research companies who use cookies to help us gather information about visitors to our website. We may collect your IP address (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) and attach cookies to it for the purpose of improving our site and enhancing your use of it. IP addresses may be used to identify the location of users, the number of visits from different countries and also to block disruptive use. Rest assured, this information is not used to develop a personal profile of you. Lonely Planet strictly requires that these companies do not use this information for their own purposes. We do not match cookies to your registration details (that is, if you are registered with us) and we do not use cookies to track your movements after leaving this website.
+
+Further information regarding the main cookies that we set on our site (e.g. what they are used for) - and ways to minimise the number of cookies you receive can be viewed at the [More about Cookies](http://www.lonelyplanet.com/legal/cookies) page. Note that while you can turn off cookies, doing this will restrict your use of our website.
+
+Back to top
+
+### Security
+
+The security of your personal information is important. Lonely Planet has in place proper security measures to protect your personal information.
 
 Back to top
 
@@ -70,7 +83,7 @@ Back to top
 
 We may share personal information amongst companies in the Lonely Planet family. We may also disclose that information to our travel writers and other contractors who help us put together Lonely Planet products and services and, where relevant, to our business partners who assist us in providing these products and services, or to successors in title to our business. This may involve transferring your data from one country to another. By giving us personal information through the Lonely Planet website or communicating with us, you acknowledge and agree to our use of your data on a global basis, but if you have any concerns about this please let us know.
 
-We will generally provide you with more details about who we tell and why we tell them when we ask you to give us your personal details. There are some limited exceptions to this (for instance, where under Australian or other privacy laws we are permitted to rely on exemptions relating to handling of employee information, our activities in journalism, or information sharing between related companies in the Lonely Planet family). If legal or health and safety issues arise we may also have to make disclosures to relevant organisations to deal with these matters. 
+If legal or health and safety issues arise we may also have to make disclosures to relevant organisations to deal with these matters. 
 
 Back to top
 
