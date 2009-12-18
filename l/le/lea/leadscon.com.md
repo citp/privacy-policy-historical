@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202923id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadscon.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022232id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | LeadsCon
+# LeadsCon » Privacy Policy
 
 ### Privacy Policy
 
@@ -12,7 +12,7 @@ LeadsCon does not require any information in order to interact with the site. We
 
 ### Personally Identifiable Information
 
-Certain information collected falls under personally identifiable information, and it is information that allows you to be identified in particular, such as your name, address or phone number. LeadsCon does require certain types of personal information when you register for an event and can include - your full name, mailing address, phone number, email address, and credit card information.
+Certain information collected falls under personally identifiable information, and it is information that allows you to be identified in particular, such as your name, address or phone number. LeadsCon does require certain types of personal information when you register for an event and can include – your full name, mailing address, phone number, email address, and credit card information.
 
 ### Sharing Information with Third Parties
 
