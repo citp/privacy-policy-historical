@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114247id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170118id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
 
-# KATU.com - Portland, Oregon | KATU Privacy Policy
+# KATU.com - News - Portland, Oregon | KATU Privacy Policy
 
 Privacy Policy effective July 2008 
 
