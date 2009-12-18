@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194312id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024935id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # BlackSexFinder - Black Sex, Black Dating - Privacy Policy
 
@@ -47,15 +47,15 @@ If you have any questions regarding the above Policy Statement, please contact u
 |   
 ---  
   
+  * **11.28.09**  
+spam alert..BSF members.. Please send us an email if any member is trying to spam u to visit there websites or have fake profiles. WE do not tolerate this and will take approrpriate action.
+  *  **11.11.09**  
+cupid bug fixed. your cupid links in you emails are working now. 
+  * **10.08.09**  
+Webmasters. Join our new Affiliate program and get 50/50 rev share
+  *  **09.18.09**  
+Add titles to all your videos. Go to "My Video Album" and add or edit your titles. We Will be adding default titles to all the videos. 
   * **03.04.09**  
 Hot Stories have been upgraded. You can view now view more catagories and stories
-  *  **02.23.09**  
-New Audio Player added to BSF. Upload your audios and it will display on ur Profile.
-  *  **01.13.09**  
-For BSF members with slow internet connection, checkmark the Chat messenger to "Show Friends Only". This should speed up the site significantly, for users with slow internet connections
-  *  **12.24.08**  
-Site Upgrade is complete. The photo album bug is fixed, 
-  * **12.22.08**  
-We are Upgrading the site to make it alot faster for our BSF users. This should be completed within the next 10 hours
 
 
