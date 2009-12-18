@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071238id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024259id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Nuffnang Philippines | Asia Pacific’s First Blog Advertising Community » Privacy Policy
 
@@ -32,7 +32,7 @@ Nuffnang.com collects information through reader surveys published on blogs unde
 
 4) **Other Disclosures**. Nuffnang.com may disclose your personal information if required to do so by law or if Nuffnang.com has a good faith belief that such disclosure is necessary to protect and/or defend the rights and interests of Nuffnang.com. Nuffnang.com may, as permitted by applicable law, disclose your personally identifiable information to Publishers or Advertisers, or third parties in connection with an investigation of fraud, infringement, piracy or other unlawful activity and you expressly authorize Nuffnang.com to make such disclosures.
 
-5) **Domestic and International Use.** All personally identifying information collected by Nuffnang.com may be used in Singapore, Malaysia and Philippines or if the Services are undertaken by Nuffnang.com for a foreign Publisher or Advertiser, such information may be transferred to that Publisher or Advertiser outside of Singapore, Malaysia and Philippines and you consent to any such transfer of information outside of your country.
+5) **Domestic and International Use.** All personally identifying information collected by Nuffnang.com may be used in Singapore Malaysia and Philippines or if the Services are undertaken by Nuffnang.com for a foreign Publisher or Advertiser, such information may be transferred to that Publisher or Advertiser outside of Singapore, Malaysia and Philippines and you consent to any such transfer of information outside of your country.
 
 6) **Merger or Acquisition.** If Netccentric Pte Ltd is merged or acquired by another entity, personally identifiable information may be transferred to such entity as a part of the merger or acquisition.
 
