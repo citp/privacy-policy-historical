@@ -1,7 +1,33 @@
-> *The following text is extracted and transformed from the themusicdynasty.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619034242id_/http%3A//www.themusicdynasty.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusicdynasty.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218115854id_/http%3A//www.themusicdynasty.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Music Dynasty | The Internet's #1 Music Forum
 
+  
+  
+
+
+  
+
+
+Welcome to The Music Dynasty, a hip hop, rap, and music discussion forum where you can join thousands of fans from all over the world discussing all things related to rap music and hip hop culture among other music. To gain full access to Music Dynasty you must **register for a free account and make a introduction post**. As a registered member you will be able to do the following.   
+
+
+  * Participate in various forums and browse from over **1,000,000 posts**.
+  * Download all the newest and hottest **[albums](http://www.themusicdynasty.com/forums/new-albums-2009/)** , **[mixtapes](http://www.themusicdynasty.com/forums/mixtapes-osts/)** , **[singles](http://www.themusicdynasty.com/forums/singles-chamber/)** , and **[videos](http://www.themusicdynasty.com/forums/multi-plex-chamber/)**. 
+  * Show off your talents such as your producing skills, remixes, blends, etc. 
+
+  
+All this and much more is available to you absolutely free when you [**register**](http://themusicdynasty.com/forums/register.php) for an account, so [**sign up now**](http://themusicdynasty.com/forums/register.php)! 
+
+If you have any problems with the registration process or your account login, please 
+
+[**contact**](http://www.themusicdynasty.com/forums/sendmessage.php) the Music Dynasty Support Team. 
+
+  
+  
+| The Music Dynasty's Privacy Policy  
+---  
+  
   * The Music Dynasty recognizes that you care about the personal information that is held about you and how that is used.
   
 
@@ -32,4 +58,14 @@
   * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. Please [Contact Us](https://web.archive.org/forums/sendmessage.php) if you have any questions regarding your privacy.
   
 
+  
+  
+Powered by vBulletin® Version 3.8.4  
+Copyright ©2000 - 2009, Jelsoft Enterprises Ltd. 
+
+Search Engine Optimization by vBSEO 3.2.0
+
+vBulletin Skin developed by: [1uxkz](http://www.themusicdynasty.com/forums/members/-1uxkz-.html)
+
+  
 
