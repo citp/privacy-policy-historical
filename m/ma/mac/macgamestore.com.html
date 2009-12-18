@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macgamestore.com privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615164656id_/http%3A//www.macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macgamestore.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218043216id_/http%3A//www.macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="content-type" content="text/html;charset=iso-8859-1"><meta name="Description" content="Viewing Information - Privacy at the Macgamestore.com"><meta name="Author" content="Macgamestore.com"><meta name="Keywords" content="privacy, mac games, free mac games, download mac games, Macintosh, Mac"><link rel="icon" href="/favicon.ico"><link rel="shortcut icon" href="/favicon.ico"><title>Macgamestore: Information - Privacy</title><link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.macgamestore.com/rss.php"><basefont face="geneva,verdana,helvetica,arial,sans-serif"><style type="text/css">
 /* STORE STYLESHEET */
@@ -16,6 +16,9 @@
 		font-size:		11px;
 		color:			#25435B;
 	}
+	DIV			{ 	/* HACK FOR LAME IE ON WINDBLOWS */
+					
+				}
 	
 	A {
 		color:			#005395;/* #25435B;*/
@@ -25,6 +28,9 @@
 	A:visited 	{ color: #005395;/* #25435B;*/ }
 	A:hover 	{ color: #000000; text-decoration: underline; }
 	
+	A.nobold {
+		font-weight:	normal;
+	}
 	A.arrowsmall {
 		padding-left:			12px;
 		background-position:	left top;
@@ -32,6 +38,12 @@
 		background-image: 		url('/images/_MGS/linkarrowsmall.gif');
 	}
 	
+	.nospacing {
+		margin:		0px;
+		border:		0px;
+		padding:	0px;
+	}
+
 	.tiny {
 		font-size: 9px;
 	}
@@ -47,6 +59,9 @@
 	}
 	.light {
 		color: #505050;
+	}
+	.verylight {
+		color: #999;
 	}
 	.strong {
 		color: #000000;
@@ -65,6 +80,15 @@
 	}
 	.aok {
 		color: #000066;
+	}
+	.ordersn {
+		color: #1a9428;
+	}
+	.green {
+		color: #1a9428;
+	}
+	.darktext {
+		color: #111111;
 	}
 	.asterisk {
 		margin-right:			4px;
@@ -135,14 +159,15 @@
 		font-size: 15px;
 		font-weight: bold;
 	}
-	.ordersn {
-		color: #1a9428;
-	}
 	
 	.textbutton {
 		border: 1px solid #2B5370;
 		padding: 1px 3px 1px 3px;
 		background-color: #B4CEDA;
+	}
+	
+	.nobullet {
+		list-style-type: none;
 	}
 	
 	
@@ -224,12 +249,31 @@
 		}
 	
 	
+/* VARIOUS SETTINGS */
 
-	DIV			{ 	/* HACK FOR LAME IE WINDBLOWS */
-					
-				}
-				
-	.dividerline 	{ background-color: #2B5370; }
+	.spacer {
+		overflow: 	hidden;
+		height: 	1px;
+		margin: 	0px;
+		padding: 	0px;
+		border: 	0px;
+		clear: 		both;
+	}
+	
+	.dividerline-1px,
+	.dividerline-2px {
+		overflow: 	hidden;
+		height: 	1px;
+		margin: 	0px;
+		padding: 	0px;
+		border: 	0px;
+		clear: 		both;
+		background-color: #2b5370;
+	}
+	.dividerline-1px { height: 	1px; }
+	.dividerline-2px { height: 	2px; }
+	
+	.dividerline 	{ background-color: #2B5370; }/* used on TDs */
 	.nobg 			{ background-image: none; }
 	
 	.shade 			{ background-color: #FEFEFE; }
@@ -266,10 +310,11 @@
 	.infobox_dark 			{ background-color: #386380; }
 	.infobox_dark_border	{ background-color: #2B5370; }
 
-	.whitebox 				{ background-color: #FEFEFE; }
-	.whitebox_border_thin	{ background-color: #A8A8A8; }
-	.whitebox_border_thick	{ background-color: #8F8F8F; }
-	.whitebox_innerheader	{ background-color: #F0F0F0; }
+	.whitebox 					{ background-color: #FEFEFE; }
+	.whitebox_border_thin		{ background-color: #A8A8A8; }
+	.whitebox_border_thick		{ background-color: #8F8F8F; }
+	.whitebox_innerheader		{ background-color: #F0F0F0; }
+	.whitebox_innerheader TD	{ padding: 5px 5px 4px 5px; }
 
 	.footer_breadcrumbs 			{ color: #305976; font-size: 12px; }
 	.footer_breadcrumbs A			{ color: #305976; font-size: 12px; }
@@ -282,7 +327,7 @@
 	
 	.searchfield { width: 156px; }
 	
-	IMG { /* HACK FOR LAME FIREFOX */
+	IMG { /* HACK FOR NEW BROWSERS */
 		margin: 0;
 		border: 0;
 		padding: 0;
@@ -314,8 +359,173 @@
 		font-size:		10px;
 		vertical-align:	6px;
 	}
+	
+	.indentedtext {
+		margin: 0px 15px;
+	}
+	.indent10 {
+		margin: 0px 0px 0px 10px;
+	}
+	
+	
+
+/* ICON OVERLAY HANDLERS - Multi Location Style */
+
+	.icon-T-href,
+	.icon-I-href,
+	.icon-M-href {
+		display:	block;
+		margin:		0px;
+		border:		0px;
+		padding:	0px;
+	}
+
+	.icon-T-href,
+	.icon-T-wrap {
+		width:		18px;
+		height:		18px;
+	}
+	.icon-I-href,
+	.icon-I-wrap {
+		width:		34px;
+		height:		34px;
+	}
+	.icon-M-href,
+	.icon-M-wrap {
+		width:		102px;
+		height:		102px;
+	}
+	.icon-T-wrap,
+	.icon-I-wrap,
+	.icon-M-wrap {
+		position:	relative;
+		margin:		0px;
+		border:		0px;
+		padding:	0px;
+	}
+	.icon-T-img,
+	.icon-I-img,
+	.icon-M-img {
+		position:	absolute;
+		top:		1px;
+		left:		1px;
+	}
+	.icon-T-overlay,
+	.icon-I-overlay,
+	.icon-M-overlay {
+		position:	absolute;
+		top:		0px;
+		left:		0px;
+	}
+		
+	
+	
+	
+	
+	
+/* DETAIL PAGE ITEMS */
+	
+	#product-details {
+		padding: 0px 0px 0px 25px; 
+	}
+		#product-details .details-body {
+			padding: 0px 25px 0px 0px; 
+		}
+		#product-details .reviews-body {
+			padding: 0px 25px 0px 0px; 
+		}
 
 
+		#product-details .price {
+			display:		block;
+			padding-top:	8px;
+			color:			#6f420a;
+			font-size:		22px;
+			font-weight:	strong;
+			font-family:	Verdana, Arial, sans-serif;
+		}
+		#product-details .price_sign {
+			font-size:		18px;
+			vertical-align:	3px;
+			font-weight:	normal;
+		}
+		#product-details .price_cents {
+			font-size:		14px;
+			vertical-align:	6px;
+		}
+	
+	A.btn-download-demo {
+		height:			35px;
+		display:		block;
+		float:			left;
+		background-color: 	#569ad0;
+		background-image: 	url('/images/_MGS/btn_dldemo_captxtr.gif');
+		background-position: right center;
+		background-repeat: 	no-repeat;
+		color:			#fff;
+		font-weight: 	bold;
+		font-size:		9px;
+		text-align:		center;
+	}
+	A.btn-download-demo:hover {
+		text-decoration: none;
+		color: #fff;
+	}
+	
+
+
+
+/* GIFT CARD ITEMS */
+
+	#gift-wrapper {
+		margin:			4px 0px 0px 0px;
+		border:			0px;
+		padding:		0px;
+		width:			574px;
+		/* background: 	#491937;*/
+		background: 	#eee;
+		background-repeat:	y-repeat;
+	}
+		#gift-wrapper .top {
+			width:		574px;
+			height:		112px;
+		}
+		#gift-wrapper .details {
+			padding:	0px 46px;
+			background-image:	url('/images/_MGS/gift_toptxtr.gif');
+			color:		#111;
+			text-align:	left;
+		}
+		#gift-wrapper .details .title_sub {
+			color:		#111;
+		}
+		#gift-wrapper .middivider {
+			width:		574px;
+			height:		39px;
+		}
+		#gift-wrapper .interaction {
+			padding:	0px 46px;
+			background-image:	url('/images/_MGS/gift_midtxtr.gif');
+			text-align:	left;
+		}
+		#gift-wrapper .interaction FORM {
+			margin:		0px 10px;
+			border:		0px;
+			padding:	0px;
+		}
+		#gift-wrapper .interaction FORM.nospacing {
+			margin:		0px 0px;
+			border:		0px;
+			padding:	0px;
+		}
+		#gift-wrapper .bottom {
+			width:		574px;
+			height:		55px;
+		}
+	
+	
+	
+	
 
 /* HOME PAGE ONLY ITEMS */
 
@@ -405,7 +615,7 @@
 
 
 	
-/* FORM BOXES */
+/* GLOBAL FORM BOXES */
 	
 	.formbox {
 		margin: 0px auto; /* center for now */
@@ -463,6 +673,10 @@
 			background-color: 	#F1F1F1;
 			color:				#888;
 		}
+
+
+
+
 
 
 </style><script language="JavaScript" type="text/javascript">
@@ -679,13 +893,13 @@ function out(theImageName) {
 		<td width="2" class="navboxborder" nowrap=""><img src="/images/x.gif" width="2" height="1" border="0"></td>
 	</tr>
 		<tr><td colspan="5" nowrap=""><img src="/images/_MGS/navbox_bottom.gif" width="200" height="8" border="0"></td></tr>
-		</tbody></table>	<div style="padding:6px 0px 6px 0px;background:#fff;"><a href="http://www.macgamesarcade.com/mgs/" target="_blank"><img src="/images_promoads/mga_sidebar_ad.gif" width="200" height="133" border="0"></a></div>
+		</tbody></table>	<div style="padding:6px 0px 6px 0px;background:#fff;"><a href="http://www.macgamestore.com/gifts.php" target="_blank"><img src="/images_promoads/giftgiving.gif" width="200" height="133" border="0"></a></div>
 	<table border="0" cellpadding="0" cellspacing="0" width="200">
 	<tbody><tr><td colspan="5" nowrap=""><img src="/images/_MGS/navbox_top.gif" width="200" height="8" border="0"></td></tr>
 	<tr>
 		<td width="1" class="navboxborder" nowrap=""><img src="/images/x.gif" width="1" height="1" border="0"></td>
 		<td width="7" nowrap=""><img src="/images/x.gif" width="7" height="1" border="0"></td>
-		<td width="184" class="navbox" align="center" valign="top"><img src="/images/_MGS/navbox_header_services.gif" width="184" height="24" border="0"><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B0" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/freewebgames/" onmouseover="jo(B0);return true;" onmouseout="jx(B0);return true;">Free Webgames</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B1" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/coupons.php" onmouseover="jo(B1);return true;" onmouseout="jx(B1);return true;">Coupons</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B2" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/imgpro.php" onmouseover="jo(B2);return true;" onmouseout="jx(B2);return true;">IMG Pro</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B3" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/giftcertificates.php" onmouseover="jo(B3);return true;" onmouseout="jx(B3);return true;">Gift Certificates</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B4" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=551" onmouseover="jo(B4);return true;" onmouseout="jx(B4);return true;">MacGameStore DVD</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
+		<td width="184" class="navbox" align="center" valign="top"><img src="/images/_MGS/navbox_header_services.gif" width="184" height="24" border="0"><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B0" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/freewebgames/" onmouseover="jo(B0);return true;" onmouseout="jx(B0);return true;">Free Webgames</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B1" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/coupons.php" onmouseover="jo(B1);return true;" onmouseout="jx(B1);return true;">Coupons</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B2" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/gifts.php" onmouseover="jo(B2);return true;" onmouseout="jx(B2);return true;">Gift Giving!</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B3" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=551" onmouseover="jo(B3);return true;" onmouseout="jx(B3);return true;">MacGameStore DVD</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
 		<td width="6" nowrap=""><img src="/images/x.gif" width="6" height="1" border="0"></td>
 		<td width="2" class="navboxborder" nowrap=""><img src="/images/x.gif" width="2" height="1" border="0"></td>
 	</tr>
@@ -693,7 +907,7 @@ function out(theImageName) {
 	<tr>
 		<td width="1" class="navboxborder" nowrap=""><img src="/images/x.gif" width="1" height="1" border="0"></td>
 		<td width="7" nowrap=""><img src="/images/x.gif" width="7" height="1" border="0"></td>
-		<td width="184" class="navbox" align="left" valign="top"><img src="/images/_MGS/navbox_header_browsecats.gif" width="184" height="24" border="0"><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B5" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=NR" onmouseover="jo(B5);return true;" onmouseout="jx(B5);return true;">New Releases</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B6" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=PO" onmouseover="jo(B6);return true;" onmouseout="jx(B6);return true;">Coming Soon</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="6" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B8" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=1" onmouseover="jo(B8);return true;" onmouseout="jx(B8);return true;">Action</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B9" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=2" onmouseover="jo(B9);return true;" onmouseout="jx(B9);return true;">Adventure</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B10" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=3" onmouseover="jo(B10);return true;" onmouseout="jx(B10);return true;">Arcade</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B11" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=17" onmouseover="jo(B11);return true;" onmouseout="jx(B11);return true;">Board &amp; Card</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B12" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=20" onmouseover="jo(B12);return true;" onmouseout="jx(B12);return true;">Kids</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B13" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=19" onmouseover="jo(B13);return true;" onmouseout="jx(B13);return true;">Puzzle</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B14" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=4" onmouseover="jo(B14);return true;" onmouseout="jx(B14);return true;">Racing</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B15" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=5" onmouseover="jo(B15);return true;" onmouseout="jx(B15);return true;">Role Playing</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B16" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=6" onmouseover="jo(B16);return true;" onmouseout="jx(B16);return true;">Shooters</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B17" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=7" onmouseover="jo(B17);return true;" onmouseout="jx(B17);return true;">Simulation</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B18" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=8" onmouseover="jo(B18);return true;" onmouseout="jx(B18);return true;">Sports</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B19" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=9" onmouseover="jo(B19);return true;" onmouseout="jx(B19);return true;">Strategy</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B20" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=18" onmouseover="jo(B20);return true;" onmouseout="jx(B20);return true;">Utilities</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B21" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=DD" onmouseover="jo(B21);return true;" onmouseout="jx(B21);return true;">Digital Downloads</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="6" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B23" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=SW" onmouseover="jo(B23);return true;" onmouseout="jx(B23);return true;">View All Games</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="6" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
+		<td width="184" class="navbox" align="left" valign="top"><img src="/images/_MGS/navbox_header_browsecats.gif" width="184" height="24" border="0"><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B4" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=NR" onmouseover="jo(B4);return true;" onmouseout="jx(B4);return true;">New Releases</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B5" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=PO" onmouseover="jo(B5);return true;" onmouseout="jx(B5);return true;">Coming Soon</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="6" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B7" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=1" onmouseover="jo(B7);return true;" onmouseout="jx(B7);return true;">Action</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B8" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=2" onmouseover="jo(B8);return true;" onmouseout="jx(B8);return true;">Adventure</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B9" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=3" onmouseover="jo(B9);return true;" onmouseout="jx(B9);return true;">Arcade</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B10" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=17" onmouseover="jo(B10);return true;" onmouseout="jx(B10);return true;">Board &amp; Card</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B11" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=20" onmouseover="jo(B11);return true;" onmouseout="jx(B11);return true;">Kids</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B12" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=19" onmouseover="jo(B12);return true;" onmouseout="jx(B12);return true;">Puzzle</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B13" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=4" onmouseover="jo(B13);return true;" onmouseout="jx(B13);return true;">Racing</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B14" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=5" onmouseover="jo(B14);return true;" onmouseout="jx(B14);return true;">Role Playing</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B15" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=6" onmouseover="jo(B15);return true;" onmouseout="jx(B15);return true;">Shooters</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B16" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=7" onmouseover="jo(B16);return true;" onmouseout="jx(B16);return true;">Simulation</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B17" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=8" onmouseover="jo(B17);return true;" onmouseout="jx(B17);return true;">Sports</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B18" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=9" onmouseover="jo(B18);return true;" onmouseout="jx(B18);return true;">Strategy</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B19" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?CategoryID=18" onmouseover="jo(B19);return true;" onmouseout="jx(B19);return true;">Utilities</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B20" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=DD" onmouseover="jo(B20);return true;" onmouseout="jx(B20);return true;">Digital Downloads</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="6" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B22" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/search.php?ProductType=SW" onmouseover="jo(B22);return true;" onmouseout="jx(B22);return true;">View All Games</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="6" border="0"></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
 		<td width="6" nowrap=""><img src="/images/x.gif" width="6" height="1" border="0"></td>
 		<td width="2" class="navboxborder" nowrap=""><img src="/images/x.gif" width="2" height="1" border="0"></td>
 	</tr>
@@ -701,7 +915,7 @@ function out(theImageName) {
 	<tr>
 		<td width="1" class="navboxborder" nowrap=""><img src="/images/x.gif" width="1" height="1" border="0"></td>
 		<td width="7" nowrap=""><img src="/images/x.gif" width="7" height="1" border="0"></td>
-		<td width="184" class="navbox" align="left" valign="top"><a href="/search.php?ProductType=NR"><img src="/images/_MGS/navbox_header_newreleases.gif" width="184" height="24" border="0"></a><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B25" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1180" onmouseover="jo(B25);return true;" onmouseout="jx(B25);return true;">Sunset Studio Love on the High Seas</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B26" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1185" onmouseover="jo(B26);return true;" onmouseout="jx(B26);return true;">Plan It Green</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B27" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1182" onmouseover="jo(B27);return true;" onmouseout="jx(B27);return true;">Europa Universalis III: Complete</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B28" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1183" onmouseover="jo(B28);return true;" onmouseout="jx(B28);return true;">Party Down</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B29" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1181" onmouseover="jo(B29);return true;" onmouseout="jx(B29);return true;">Fashion Finder Secrets of Fashion</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B30" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1179" onmouseover="jo(B30);return true;" onmouseout="jx(B30);return true;">Mystic Emporium</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B31" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1178" onmouseover="jo(B31);return true;" onmouseout="jx(B31);return true;">Mystery Stories - Island of Hope</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B32" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1167" onmouseover="jo(B32);return true;" onmouseout="jx(B32);return true;">Braid</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B33" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1172" onmouseover="jo(B33);return true;" onmouseout="jx(B33);return true;">Chuzzle</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B34" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1171" onmouseover="jo(B34);return true;" onmouseout="jx(B34);return true;">Peggle Nights</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
+		<td width="184" class="navbox" align="left" valign="top"><a href="/search.php?ProductType=NR"><img src="/images/_MGS/navbox_header_newreleases.gif" width="184" height="24" border="0"></a><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B24" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1321" onmouseover="jo(B24);return true;" onmouseout="jx(B24);return true;">Build It! Miami Beach Resort</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B25" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1349" onmouseover="jo(B25);return true;" onmouseout="jx(B25);return true;">Christmas Clix</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B26" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1340" onmouseover="jo(B26);return true;" onmouseout="jx(B26);return true;">Empire Builder: Ancient Egypt</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B27" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1332" onmouseover="jo(B27);return true;" onmouseout="jx(B27);return true;">Guns of Icarus</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B28" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1339" onmouseover="jo(B28);return true;" onmouseout="jx(B28);return true;">The Perfect Tree</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B29" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1336" onmouseover="jo(B29);return true;" onmouseout="jx(B29);return true;">Osmos</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B30" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1333" onmouseover="jo(B30);return true;" onmouseout="jx(B30);return true;">Kelly Green Garden Queen</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B31" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1320" onmouseover="jo(B31);return true;" onmouseout="jx(B31);return true;">Kitchen Brigade</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B32" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1326" onmouseover="jo(B32);return true;" onmouseout="jx(B32);return true;">Championship Manager 2010</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B33" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1325" onmouseover="jo(B33);return true;" onmouseout="jx(B33);return true;">Hearts of Iron 3</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
 		<td width="6" nowrap=""><img src="/images/x.gif" width="6" height="1" border="0"></td>
 		<td width="2" class="navboxborder" nowrap=""><img src="/images/x.gif" width="2" height="1" border="0"></td>
 	</tr>
@@ -709,7 +923,7 @@ function out(theImageName) {
 	<tr>
 		<td width="1" class="navboxborder" nowrap=""><img src="/images/x.gif" width="1" height="1" border="0"></td>
 		<td width="7" nowrap=""><img src="/images/x.gif" width="7" height="1" border="0"></td>
-		<td width="184" class="navbox" align="left" valign="top"><a href="/search.php?ProductType=PO"><img src="/images/_MGS/navbox_header_comingsoon.gif" width="184" height="24" border="0"></a><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B35" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1177" onmouseover="jo(B35);return true;" onmouseout="jx(B35);return true;">Plants vs. Zombies</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
+		<td width="184" class="navbox" align="left" valign="top"><a href="/search.php?ProductType=PO"><img src="/images/_MGS/navbox_header_comingsoon.gif" width="184" height="24" border="0"></a><br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="26"><img src="/images/x.gif" width="26" height="1" border="0"></td><td width="158"><img src="/images/x.gif" width="158" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B34" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1341" onmouseover="jo(B34);return true;" onmouseout="jx(B34);return true;">Hotel Dash - Suite Success</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B35" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1335" onmouseover="jo(B35);return true;" onmouseout="jx(B35);return true;">Fantastic Farm</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr><tr><td valign="top"><img src="/images/_MGS/navx.gif" name="B36" width="26" height="12" border="0"></td><td valign="middle" class="nav"><a href="/detail.php?ProductID=1319" onmouseover="jo(B36);return true;" onmouseout="jx(B36);return true;">Escape The Museum 2</a></td></tr><tr><td colspan="2"><img src="/images/x.gif" width="184" height="1" border="0"></td></tr></tbody></table></td>
 		<td width="6" nowrap=""><img src="/images/x.gif" width="6" height="1" border="0"></td>
 		<td width="2" class="navboxborder" nowrap=""><img src="/images/x.gif" width="2" height="1" border="0"></td>
 	</tr>
@@ -717,17 +931,26 @@ function out(theImageName) {
 	<tr>
 		<td width="1" class="navboxborder" nowrap=""><img src="/images/x.gif" width="1" height="1" border="0"></td>
 		<td width="7" nowrap=""><img src="/images/x.gif" width="7" height="1" border="0"></td>
-		<td width="184" class="navbox" align="left" valign="top"><a href="/giftcertificates.php" style="font-weight:normal;"><img src="/images_promoads/subnav_12_918515635.gif" width="60" height="68" border="0" align="left" style="margin-right: 0px;margin-bottom: 0px"><div>
-					<b>Give a Gift of Gaming!</b> Get the perfect gift that you know someone will love! Gift Certificates work towards any software or hardware purchase, including shipping!
+		<td width="184" class="navbox" align="left" valign="top"><a href="/imgpro.php" style="font-weight:normal;"><img src="/images_promoads/subnav_14_197076931.gif" width="65" height="60" border="0" align="left" style="margin-right: 0px;margin-bottom: 0px"><div>
+					<b>Subscribe!</b> Get discounts on games, features on InsideMacGames websites, and no advertisements! Subscriptions start around $20 and include free games!
 					</div></a></td>
 		<td width="6" nowrap=""><img src="/images/x.gif" width="6" height="1" border="0"></td>
 		<td width="2" class="navboxborder" nowrap=""><img src="/images/x.gif" width="2" height="1" border="0"></td>
 	</tr>
-		</tbody></table></td>
+		</tbody></table>
+
+
+
+
+
+</td>
 		<td rowspan="2" width="6"><img src="/images/x.gif" width="6" height="300" border="0"></td>
 		
 		<!-- BEGIN PAGE GUTS CONTENT -->
-		<td rowspan="2" width="584" valign="top"><span class="title_large">Privacy Policy:</span><br><span class="title_sub">&nbsp;&nbsp;Your Rights as a Shopper</span><br><br><center>
+		<td rowspan="2" width="584" valign="top"><!-- BLACK FRIDAY HIJACK !!! OMG !!! -->
+<a href="/coupons.php"><img src="/images_promoads/tenoff.jpg" width="584" height="62" border="0"></a>
+<div style="clear:both;height:5px;"></div>
+<!-- BLACK FRIDAY HIJACK !!! OMG !!! --><span class="title_large">Privacy Policy:</span><br><span class="title_sub">&nbsp;&nbsp;Your Rights as a Shopper</span><br><br><center>
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="540" align="center">
@@ -874,7 +1097,7 @@ or its services.
 		<td width="1" class="headfootboxborderleft" nowrap=""><img src="/images/x.gif" width="1" height="1" border="0"></td>
 		<td width="7" nowrap=""><img src="/images/x.gif" width="7" height="1" border="0"></td>
 		<td width="774" class="headfootbox" align="center" valign="top">			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-						<tbody><tr><td class="footer_breadcrumbs" align="left" valign="top"><a href="/">Store</a> · <a href="/detail.php?ProductID=551" class="footer_breadcrumbs">MacGameStore DVD</a> · Information: Privacy</td></tr>
+						<tbody><tr><td class="footer_breadcrumbs" align="left" valign="top"><a href="/">Store</a> · <a href="/search.php?CategoryID=20&amp;orderby=title" class="footer_breadcrumbs">Kids</a> · Product Listing · Information: Privacy</td></tr>
 			<tr><td><img src="/images/x.gif" width="774" height="3" border="0"></td></tr>
 						<tr><td class="footer_information" align="right" valign="bottom" nowrap="">
 				<a href="/help.php" class="footer_information">Help</a>
@@ -887,7 +1110,7 @@ or its services.
 				&nbsp;|&nbsp;
 				<a href="/information.php?Topic=Terms" class="footer_information">Terms &amp; Conditions</a>
 				&nbsp;|&nbsp;
-				<a href="/information.php?Topic=Copyright" class="footer_information">Copyright©2005 Macgamestore.com</a>
+				<a href="/information.php?Topic=Copyright" class="footer_information">Copyright©Macgamestore.com</a>
 			</td></tr>
 			</tbody></table>
 			</td>
