@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193419id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218225158id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # MHVillage.com - Privacy Policy
 
@@ -53,7 +53,7 @@ If you have questions or suggestions, please contact us at:
 
 MHVillage.com  
 Customer Service  
-3215 Eaglecrest Drive   
+2600 Five Mile Road NE  
 Grand Rapids, MI 49525   
 (616) 363-8454  
 CustomerService@MHVillage.com
