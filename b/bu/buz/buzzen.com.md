@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193534id_/http%3A//www.buzzen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218183216id_/http%3A//www.buzzen.com/privacy) for the most accurate reproduction.*
 
 # Chat Online Using Free Online Chat Rooms - Buzzen Chat!
 
 [Chat Code of Conduct](https://web.archive.org/support/conduct.php)  
 [SpaceDom Code of Conduct](https://web.archive.org/support/spacecoc.php)  
 [Buzzen Supported Room Code of Conduct](https://web.archive.org/support/bsrcoc.php)  
-[Terms of Use](https://web.archive.org/web/20090617193534id_/http://www.buzzen.com/privacy/tou.php)
+[Terms of Use](https://web.archive.org/web/20091218183216id_/http://www.buzzen.com/privacy/tou.php)
 
 Privacy Statement
 
