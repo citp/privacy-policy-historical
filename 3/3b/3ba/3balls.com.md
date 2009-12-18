@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193101id_/http%3A//www.3balls.com/file_include-file/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021527id_/http%3A//www.3balls.com/file_include-file/privacypolicy) for the most accurate reproduction.*
 
 # 3balls.com | New and used golf clubs, golf equipment, golf balls, golf shoes, golf bags and golf gifts
 
@@ -28,6 +28,8 @@ Employees of 3balls.com who have access to personally identifiable information a
 
 **Cookies**  
 Like many companies, we use "cookies" on our website. Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to remember user's activities on a website. For example, cookies may be used to remember what is in your shopping cart after leaving the website. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser.
+
+We use cookies on our site to use for advertising purposes. If you do not wish to have your computer cookied, you may Opt **-** Out of this advertising service by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **IP Addresses**  
 Like many companies, we automatically track certain information based on your behavior on our website. 3balls.com might use the information collected to do research on our customers’ website behavior as well as demographics. The information we collect might include the URL where you came from and the pages you go to next. We also might collect information on your IP address (Internet Protocol). An ISP provides a unique IP address every time if you are using a dial up. However for LAN or cable models, an IP address may be permanently assigned to one computer. IP addresses are automatically logged by web servers, collecting information about a user's traffic patterns. An IP address does not identify an individual by name, however it can reveal what geographic area you are connecting from.
