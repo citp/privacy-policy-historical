@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the optionmonster.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185708id_/http%3A//www.optionmonster.com/about/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionmonster.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218211149id_/http%3A//www.optionmonster.com/about/privacy_policy.jsp) for the most accurate reproduction.*
 
 # optionMONSTER: Real-time News, Webcasts, Education for Options Traders
 
 THIS AGREEMENT WAS LAST UPDATED ON MAY 28, 2009. 
 
-OptionMonster® Holdings, Inc. (optionMONSTER) shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for you privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes optionMONSTER®'s policies concerning the use of personal information of all users collected via this web site. 
+OptionMonster® Holdings, Inc. (optionMONSTER) shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for you privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes optionMONSTER's policies concerning the use of personal information of all users collected via this web site. 
 
 This privacy policy describes how optionMONSTER (the company that created, runs and owns optionMONSTER.com) treats the personally identifiable information that is collected about you when you visit the optionMONSTER.com web site. This policy also describes our treatment of personally identifiable information about you that our business partners may share with us. 
 
@@ -64,4 +64,4 @@ Due to the financial nature of our business, our web site is not designed to app
 
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By registering with optionMONSTER.com, you consent to this transfer. 
 
-optionMONSTER may change this policy from time to time without notice. Any changes to this policy will be promptly posted on this web site so we encourage you to refer back to this policy each time that you visit. Your use of optionMONSTER®'s web site after any changes have been posted will constitute your agreement to the modified Privacy Policy. 
+optionMONSTER may change this policy from time to time without notice. Any changes to this policy will be promptly posted on this web site so we encourage you to refer back to this policy each time that you visit. Your use of optionMONSTER's web site after any changes have been posted will constitute your agreement to the modified Privacy Policy. 
