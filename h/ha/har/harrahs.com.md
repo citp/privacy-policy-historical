@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the harrahs.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428043614id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrahs.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170434id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
 
 # Harrah's Entertainment, Inc. - Privacy Policy
 
-|  [ HARRAH'S COMPANY INFO](/harrahs-corporate/index.html) | | |  [ ABOUT US](/harrahs-corporate/about-us.html) | | |  [ INVESTOR RELATIONS](http://investor.harrahs.com) | | |  [ CAREERS](/harrahs-corporate/careers-home.html
-) | | |  [ DIVERSITY](/harrahs-corporate/diversity-overview.html
-) | | |  [ MEDIA CENTER](/harrahs-corporate/media-center-overview.html
-)  
----|---|---|---|---|---|---|---|---|---|---  
 |   
 ---  
 |   
@@ -28,7 +23,7 @@ Harrah's Operating Company, Inc.
   
 **INTRODUCTION**
 
-Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah's Phoenix Ak-Chin, Harrah's Rincon, Harrah's Joliet, Harrah's Metropolis, Horseshoe Hammond, Horseshoe Council Bluffs, Harrah's Council Bluffs, Harrah's Louisiana Downs, Harrah's New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah's North Kansas City, Harrah's St. Louis, Bill's Lake Tahoe, Harrah's Lake Tahoe, Harrah's Las Vegas, Harrah's Laughlin, Harrah's Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah's Resort Atlantic City, Showboat Atlantic City, Harrah's Cherokee, Harrah's Chester, Bally's Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Horseshoe Southern Indiana, Caesars Atlantic City, Bally's Atlantic City, Grand Biloxi, Harrah's Tunica, Sheraton Tunica, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah's Operating Company, Inc. (collectively “The Properties” and/or “We”).
+Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah's Phoenix Ak-Chin, Harrah's Rincon, Harrah's Joliet, Harrah's Metropolis, Horseshoe Hammond, Horseshoe Council Bluffs, Harrah's Council Bluffs, Harrah's Louisiana Downs, Harrah's New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah's North Kansas City, Harrah's St. Louis, Bill's Lake Tahoe, Harrah's Lake Tahoe, Harrah's Las Vegas, Harrah's Laughlin, Harrah's Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah's Resort Atlantic City, Showboat Atlantic City, Harrah's Cherokee, Harrah's Chester, Bally's Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Horseshoe Southern Indiana, Caesars Atlantic City, Bally's Atlantic City, Grand Biloxi, Harrah's Tunica, Tunica Roadhouse, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah's Operating Company, Inc. (collectively “The Properties” and/or “We”).
 
 * * *
 
@@ -67,7 +62,7 @@ We collect and use information we believe is necessary to administer our busines
 
 **Information Disclosure to Affiliated Entities**
 
-If necessary, we may share information we receive from you, and about your transactions with us, with our affiliates, including our owned, operated, and managed casinos licensed under the Harrah's, Horseshoe, Rio, Showboat, Harveys, Caesars, Bally's, Paris, Grand, Sheraton Tunica, and Flamingo brand names. Doing so allows us to quickly respond to applications for credit or other financial services at these properties to better serve our customers.
+If necessary, we may share information we receive from you, and about your transactions with us, with our affiliates, including our owned, operated, and managed casinos licensed under the Harrah's, Horseshoe, Rio, Showboat, Harveys, Caesars, Bally's, Paris, Grand, Tunica Roadhouse, and Flamingo brand names. Doing so allows us to quickly respond to applications for credit or other financial services at these properties to better serve our customers.
 
 **Information Disclosure to Non-Affiliated Entities**
 
@@ -97,7 +92,7 @@ OR
 
 **Direct Mail**
 
-To indicate that you do not want to receive direct mail from Harrah's (including Harrah's, Caesars, Horseshoe, Bally's, Paris, Flamingo, Showboat, Rio, Sheraton Tunica, Grand Biloxi and/or Harveys), please visit any Total Rewards Center or call 1-800-HARRAHS. This will opt you out within 30 days of direct mail from Harrah's.  
+To indicate that you do not want to receive direct mail from Harrah's (including Harrah's, Caesars, Horseshoe, Bally's, Paris, Flamingo, Showboat, Rio, Tunica Roadhouse, Grand Biloxi and/or Harveys), please visit any Total Rewards Center or call 1-800-HARRAHS. This will opt you out within 30 days of direct mail from Harrah's.  
 
 
 * * *
@@ -119,7 +114,7 @@ Customer information is collected when a customer chooses to book a reservation,
 
 **Information Disclosure to Affiliated Entities**
 
-If necessary, we may share information as set forth above with our affiliates, including our owned, operated, and managed casinos licensed under the Harrah's, Horseshoe, Rio, Showboat, Harveys, Caesars, Bally's, Paris, Grand, Sheraton Tunica, and Flamingo brand names. Doing so allows us to better serve our customers.
+If necessary, we may share information as set forth above with our affiliates, including our owned, operated, and managed casinos licensed under the Harrah's, Horseshoe, Rio, Showboat, Harveys, Caesars, Bally's, Paris, Grand, Tunica Roadhouse, and Flamingo brand names. Doing so allows us to better serve our customers.
 
 **Information Disclosure to Non-Affiliated Entities**
 
