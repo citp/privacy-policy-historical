@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the 3balls.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617193101id_/http%3A//www.3balls.com/file_include-file/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 3balls.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218021527id_/http%3A//www.3balls.com/file_include-file/privacypolicy) for the most accurate reproduction.-->
 
 <html><head>
-
+		
+		<style type="text/css">#ticker{display:none}</style>
     	<title>3balls.com | New and used golf clubs, golf equipment, golf balls, golf shoes, golf bags and golf gifts</title>
 		<meta name="keywords" content="TaylorMade,Mizuno,Ping,Ben Hogan,BenHogan,TailorMade,Taylor Made,Taylor-Made,Golf Clubs,Golf Balls,Wedges,Putters,Drivers,Woods,Fairway Woods,Irons,Iron Sets,Used Golf Clubs,Used Clubs,Gold Accessories,Golf Bags,Golf Hats,Golf Bags,FootJoy,Callaway,Adams,Titleist,Titlist,Cobra,Nike">
 		<meta name="description" content="Used and new golf clubs, golf equipment, golf balls, golf shoes, golf bags and golf gifts from 3balls.com. Featuring name brands like TaylorMade, Callaway, Cleveland, Mizuno, Ping, Titliest, Nike, FootJoy and many more.">
@@ -29,26 +30,158 @@
 		//-->
 		</script>
 		
-		<link href="http://www.3balls.com/styles/stylesheet.php?updated=4-27-09" rel="stylesheet" type="text/css">
+		<link href="http://www.3balls.com/styles/stylesheet.php?updated=10-21-09" rel="stylesheet" type="text/css">
 		
 		<script type="text/javascript" src="http://www.3balls.com/include/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
-		<script type="text/javascript" src="http://www.3balls.com/js/connection-min.js"></script>		
 		
 		<!-- random script -->
 		<style type="text/css"> .random {visibility: hidden;} </style>
 		<script type="text/javascript" src="http://www.3balls.com/js/random.js"></script>
 		<!-- random script -->
 		
+		<!-- load jQuery -->
+		<script type="text/javascript">
+		    document.write([
+		        "\<script src='",
+		        ("https:" == document.location.protocol) ? "https://" : "http://",
+		        "ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js' type='text/javascript'>\<\/script>" 
+		    ].join(''));
+		</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+		
+		
+
     </head>
 <body>
 <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
-<center>
+
 
 <!---------------- Header Paste (start) ------------------>
 
-<link href="/styles/header.css?updated=5-15-09" rel="stylesheet" type="text/css">
+<link href="/styles/header.css?updated=11-15-09" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" src="/js/header-dd.js"></script>
+
+<style type="text/css">
+#ticker{
+width: 950px;
+height: 24px;
+background-color: #ddd;
+margin-bottom: 10px;
+text-align: left;
+}
+* html #ticker{ margin: 0; }
+#ticker img{
+float: left;
+}
+#domticker{
+width: 632px;
+height: 19px;
+padding: 5px 7px 0;
+font: normal 12px Arial, Helvetica, sans-serif;
+background-color: #ddd;
+overflow: hidden;
+float: left;
+}
+* html #domticker{ width: 634px; }
+
+#domticker span.name{
+font-weight: bold; font-style: italic;
+} 
+#domticker div{ /*IE6 bug fix when text is bold and fade effect (alpha filter) is enabled. Style inner DIV with same color as outer DIV*/
+background-color: #ddd;
+}
+.someclass{ /*class to apply to your scroller(s) if desired*/
+}
+</style>
+
+<script type="text/javascript">
+var tickercontent=new Array()
+tickercontent[0]='"The 3balls price can\'t be beat! Condition was above stated. Don\'t hesitate to buy from 3balls."<span class="name">&nbsp;&nbsp;- Earl C.</span>'
+tickercontent[1]='"what a quick delivery. everything as advertised. thank you for a smooth transaction"<span class="name">&nbsp;&nbsp;- clem1941</span>'
+tickercontent[2]='"I like these guys a lot. It\'s a great place to shop and the deals are the best on the net."<span class="name">&nbsp;&nbsp;- David N.</span>'
+tickercontent[3]='"unbelievably fast delivery. Outstanding quality club and price, better than expected!!!!"<span class="name">&nbsp;&nbsp;- curt a.</span>'
+tickercontent[4]='"Great item. Looks better in hand than in the picture. Thanks."<span class="name">&nbsp;&nbsp;- Fred A.</span>'
+tickercontent[5]='"Arrived on time and well packed"<span class="name">&nbsp;&nbsp;- drachmeler</span>'
+tickercontent[6]='"No problems, everything was as expected which is just the way I like it!" <span class="name">&nbsp;&nbsp;- Tim</span>'
+tickercontent[7]='"Too small and needed to return. No problem on returns and appreciated quick feedback."<span class="name">&nbsp;&nbsp;- Joel L.</span>'
+tickercontent[8]='"Ordering process was easy to use and it didn\'t take all day to complete. Will be a repeat customer."<span class="name">&nbsp;&nbsp;- Carolyn G.</span>'
+tickercontent[9]='"Item better than described and the service (delivery time) was outstanding. Will use them again."<span class="name">&nbsp;&nbsp;- asharpe21</span>'
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* DHTML Ticker script- � Dynamic Drive (www.dynamicdrive.com)
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function domticker(content, divId, divClass, delay, fadeornot){
+var ran=Math.floor(Math.random()*content.length);
+while(ran > 0){
+	content.push(content.shift());
+        ran--;
+}
+this.content = content;
+this.tickerid=divId //ID of master ticker div. Message is contained inside first child of ticker div
+this.delay=delay //Delay between msg change, in miliseconds.
+this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over ticker (and pause it if it is)
+this.pointer=1
+this.opacitystring=(typeof fadeornot!="undefined")? "width: 100%; filter:progid:DXImageTransform.Microsoft.alpha(opacity=100); -moz-opacity: 1" : ""
+if (this.opacitystring!="") this.delay+=500 //add 1/2 sec to account for fade effect, if enabled
+this.opacitysetting=0.2 //Opacity value when reset. Internal use.
+document.write('<div id="'+divId+'" class="'+divClass+'"><div style="'+this.opacitystring+'">'+content[0]+'</div></div>')
+var instanceOfTicker=this
+setTimeout(function(){instanceOfTicker.initialize()}, delay)
+}
+
+domticker.prototype.initialize=function(){
+var instanceOfTicker=this
+this.contentdiv=document.getElementById(this.tickerid).firstChild //div of inner content that holds the messages
+document.getElementById(this.tickerid).onmouseover=function(){instanceOfTicker.mouseoverBol=1}
+document.getElementById(this.tickerid).onmouseout=function(){instanceOfTicker.mouseoverBol=0}
+this.rotatemsg()
+}
+
+domticker.prototype.rotatemsg=function(){
+var instanceOfTicker=this
+if (this.mouseoverBol==1) //if mouse is currently over ticker, do nothing (pause it)
+setTimeout(function(){instanceOfTicker.rotatemsg()}, 100)
+else{
+this.fadetransition("reset") //FADE EFFECT- RESET OPACITY
+this.contentdiv.innerHTML=this.content[this.pointer]
+this.fadetimer1=setInterval(function(){instanceOfTicker.fadetransition('up', 'fadetimer1')}, 100) //FADE EFFECT- PLAY IT
+this.pointer=(this.pointer<this.content.length-1)? this.pointer+1 : 0
+setTimeout(function(){instanceOfTicker.rotatemsg()}, this.delay) //update container
+}
+}
+
+// -------------------------------------------------------------------
+// fadetransition()- cross browser fade method for IE5.5+ and Mozilla/Firefox
+// -------------------------------------------------------------------
+
+domticker.prototype.fadetransition=function(fadetype, timerid){
+var contentdiv=this.contentdiv
+if (fadetype=="reset")
+this.opacitysetting=0.2
+if (contentdiv.filters && contentdiv.filters[0]){
+if (typeof contentdiv.filters[0].opacity=="number") //IE6+
+contentdiv.filters[0].opacity=this.opacitysetting*100
+else //IE 5.5
+contentdiv.style.filter="alpha(opacity="+this.opacitysetting*100+")"
+}
+else if (typeof contentdiv.style.MozOpacity!="undefined" && this.opacitystring!=""){
+contentdiv.style.MozOpacity=this.opacitysetting
+}
+else
+this.opacitysetting=1
+if (fadetype=="up")
+this.opacitysetting+=0.2
+if (fadetype=="up" && this.opacitysetting>=1)
+clearInterval(this[timerid])
+}
+
+</script>
+
 
 <table width="950" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
@@ -59,17 +192,21 @@
 
 <table width="950" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
-    <td colspan="3"><div id="other"> <a href="http://www.3balls.com/customer_account-display/modifycart/" style="border-left:0;"><img src="/newheader/slices/cart.gif" alt="" width="15" height="11" border="0" align="absmiddle">Shopping Cart</a><a href="http://www.3balls.com/customer_account/">Track Order</a><a href="http://3balls.custhelp.com">Help</a></div></td>
+    <td colspan="3"><div id="other"> <a href="http://www.3balls.com/customer_account-display/modifycart/" style="border-left:0;"><img src="/newheader/slices/cart.gif" alt="" width="15" height="11" border="0" align="absmiddle">Shopping Cart</a><a href="http://www.3balls.com/customer_account/">Track Order</a><a class="holidayship" href="http://www.3balls.com/misc/shipping2009.gif" target="page" onclick="window.open('','page','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=450,height=550,left=50,top=50,titlebar=yes')">Holiday Shipping Schedule</a><a class="help" href="http://3balls.custhelp.com">Help</a></div></td>
   </tr>
   <tr>
-    <td colspan="3"><div id="other2"> <a href="http://www.3balls.com/file_include-file/comictoday/" style="border-left:0;">3balls dot Comic Strip</a> <a href="http://www.3balls.com/file_include-file/castofcharacters/">Cast of Characters</a> <a href="http://www.3balls.com/file_include-file/whatis/">What is a 3balls?</a> <a href="http://www.3balls.com/file_include-file/careers/">Jobs at 3balls</a></div></td>
+    <td colspan="3"><div id="other2"> <a style="border-left:0;" href="http://www.3balls.com/file_include-file/where-we-get-our-stuff">Where Do We Get Our Stuff?</a> <a href="http://www.3balls.com/file_include-file/buy-with-confidence">Buy With Confidence</a> <a href="http://www.3balls.com/file_include-file/comictoday/">3balls dot Comic Strip</a> <a href="http://www.3balls.com/file_include-file/castofcharacters/">Cast of Characters</a> <a href="http://www.3balls.com/file_include-file/whatis/">What is 3balls?</a></div></td>
   </tr>
   <tr>
-    <td colspan="3"><div style="float:left; position: absolute; top:0;"><a href="/"><img src="/deal-zone/slices/logo.gif" width="270" height="70" border="0"></a></div>
+    <td colspan="3"><div style="float:left; position: absolute; top:0;">
+		<img src="https://www.3balls.com/promotions/bb/logoanimated.gif" border="0" usemap="#MapBBHeaderLogo">
+	<map name="MapBBHeaderLogo" id="MapBBHeaderLogo">
+<area shape="rect" coords="5,13,135,68" href="http://www.3balls.com/"><area shape="rect" coords="142,4,309,66" href="http://www.3balls.com/promotions/bb/splash-pop.html?headerlogo" target="page" onclick="window.open('','page','toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=1000,height=600,left=50,top=50,titlebar=yes')"></map>
+	</div>
       <div style="float:right"><a href="#" id="ebay_parent" rel="ebay_child"><img src="/newheader/slices/ebay.gif" width="92" height="27" border="0" align="top"></a></div>
         <div id="navigation">
           <ul>
-		  <li class="dealzone"><a href="#" id="onlyat3balls_parent" rel="onlyat3balls_child"><img src="/header/slices/onlyat3balls-button.gif" width="98" height="27" border="0" align="top"></a></li>
+		  <li class="dealzone"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--gifts"><img src="/header/slices/gifts-button.gif" width="98" height="27" border="0" align="top"></a></li>
             <li><a href="#" id="equipment_parent" rel="equipment_child"><span>Golf Clubs<img src="/newheader/slices/arrow.gif" width="10" height="8" border="0"></span></a></li>
             <li><a href="http://www.3balls.com/sitesearch/search.php?keywords=--apparel&amp;refine=y&amp;Producttype=Apparel"><span>Apparel</span></a></li>
             <li><a href="http://www.3balls.com/sitesearch/search.php?keywords=--balls&amp;refine=y&amp;Producttype=Balls"><span>Golf Balls</span></a></li>
@@ -94,6 +231,20 @@
         <table id="header_search_bar" width="950" border="0" align="center" cellpadding="0" cellspacing="0" style="padding:10px 0 0;">
           <tbody><tr>
             <td align="center">
+
+<div id="ticker">
+  <a href="http://www.3balls.com/file_include-file/feedback/"><img src="/feedback/feedback-ticker-head.gif" width="217" height="24" border="0" class="feedback-ticker-head"></a>
+<script type="text/javascript">
+//new domticker(name_of_message_array, CSS_ID, CSS_classname, pause_in_miliseconds, optionalfadeswitch)
+new domticker(tickercontent, "domticker", "someclass", 7000, "fadeit")
+</script><div id="domticker" class="someclass"><div style="width: 100%; filter:progid:DXImageTransform.Microsoft.alpha(opacity=100); -moz-opacity: 1">"Great item. Looks better in hand than in the picture. Thanks."<span class="name">&nbsp;&nbsp;- Fred A.</span></div></div>
+<a href="http://www.3balls.com/file_include-file/feedback/"><img src="/feedback/feedback-ticker-more.gif" width="87" height="24" border="0" class="feedback-ticker-more"></a></div>
+<!-- #ticker -->
+
+			</td>
+          </tr>
+          <tr>
+            <td align="center">
 <script type="text/javascript"><!--
 var nxt_geo_merch_cid = "06c44c44e1879649a92a80f98d0815c9";
 var nxt_geo_merch_pid = "1";
@@ -102,11 +253,7 @@ var nxt_geo_merch_height = "50";
 nxt_host = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
 document.write(unescape("%3C") + "script src='" + nxt_host + "geomerchandise.com/nxt_geo_ads_v1.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
 //--></script><script src="https://www.geomerchandise.com/nxt_geo_ads_v1.js" type="text/javascript"></script>
-
-
-
-
-            </td>
+			</td>
           </tr>
         </tbody></table>
     </div></td>
@@ -144,7 +291,7 @@ document.write(unescape("%3C") + "script src='" + nxt_host + "geomerchandise.com
     </tr>
     <tr>
       <td width="50%" nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--driver&amp;refine=y&amp;Producttype=Woods+Drivers">Drivers</a></td>
-      <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--womens"><font color="#CC33CC">Women's Golf Equipment</font></a></td>
+      <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--womens">Women's Golf Equipment</a></td>
     </tr>
     <tr>
       <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--fairway+wood&amp;refine=y&amp;Producttype=Woods+Fairway">Fairway Woods</a></td>
@@ -223,7 +370,7 @@ document.write(unescape("%3C") + "script src='" + nxt_host + "geomerchandise.com
     </tr>
     <tr>
       <td nowrap="nowrap"><a href="http://www.3balls.com/ebay.php?m=drivers" rel="nofollow" target="_blank">Drivers</a></td>
-      <td nowrap="nowrap"><a href="http://www.3balls.com/ebay.php?m=womens" rel="nofollow" target="_blank"><font color="#CC33CC">Women's Golf Equipment</font></a></td>
+      <td nowrap="nowrap"><a href="http://www.3balls.com/ebay.php?m=womens" rel="nofollow" target="_blank">Women's Golf Equipment</a></td>
     </tr>
     <tr>
       <td nowrap="nowrap"><a href="http://www.3balls.com/ebay.php?m=fwys" rel="nofollow" target="_blank">Fairway Woods </a></td>
@@ -231,6 +378,7 @@ document.write(unescape("%3C") + "script src='" + nxt_host + "geomerchandise.com
     </tr>
     <tr>
       <td nowrap="nowrap"><a href="http://www.3balls.com/ebay.php?m=hybrids" rel="nofollow" target="_blank">Hybrid Club</a></td>
+
       <td nowrap="nowrap"><a href="http://www.3balls.com/ebay.php?m=lefty" rel="nofollow" target="_blank">Lefty Golf Equipment</a></td>
     </tr>
     <tr>
@@ -267,6 +415,8 @@ document.write(unescape("%3C") + "script src='" + nxt_host + "geomerchandise.com
     <tr>
       <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--adidas">Adidas</a></td>
       <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--club+glove&amp;refine=y&amp;Brand=Club+Glove">Club Glove</a></td>
+
+
       <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--medicus">Medicus</a></td>
       <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--ping">PING</a></td>
       <td nowrap="nowrap"><a href="http://www.3balls.com/sitesearch/search.php?keywords=--taylormade">TaylorMade</a></td>
@@ -373,10 +523,14 @@ dropdowncontent.init("allbrands_parent", "right-bottom", 100, 'click')
                                     <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3balls.com will disclose personal information to law enforcement or government agencies in response to a subpoena, court order or a warrant. Whenever personal information is required by a government agency, we will require written documentation of the request, proof of the identity of the government agent making the request, and we will validate the request.</font></p>
                                     <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Employees of 3balls.com who have access to personally identifiable information are obligated to protect this information in a manner that is consistent with this Privacy Policy. The personal information will only be used to carry out the orders/services they are providing you from 3balls.com. </font></p>
                                     <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Cookies</strong><br>
-         Like many companies, we use "cookies" on our website. Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to remember user's activities on a website. For example, cookies may be used to remember what is in your shopping cart after leaving the website. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser.<br>
-         <br>
-         <strong>IP Addresses</strong><br>
-         Like many companies, we automatically track certain information based on your behavior on our website. 3balls.com might use the information collected to do research on our customers’ website behavior as well as demographics. The information we collect might include the URL where you came from and the pages you go to next. We also might collect information on your IP address (Internet Protocol). An ISP provides a unique IP address every time if you are using a dial up. However for LAN or cable models, an IP address may be permanently assigned to one computer. IP addresses are automatically logged by web servers, collecting information about a user's traffic patterns. An IP address does not identify an individual by name, however it can reveal what geographic area you are connecting from.</font></p>
+         Like many companies, we use "cookies" on our website. Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to remember user's activities on a website. For example, cookies may be used to remember what is in your shopping cart after leaving the website. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser.</font></p>
+                                    <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We use cookies on our site to use for advertising
+                                      purposes. If you do not wish to have your computer
+                                      cookied, you may Opt<strong>-</strong>Out of this advertising service by
+                                      <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">clicking here</a>.<br>
+                                    <br>
+                                    <strong>IP Addresses</strong><br>
+                                    Like many companies, we automatically track certain information based on your behavior on our website. 3balls.com might use the information collected to do research on our customers’ website behavior as well as demographics. The information we collect might include the URL where you came from and the pages you go to next. We also might collect information on your IP address (Internet Protocol). An ISP provides a unique IP address every time if you are using a dial up. However for LAN or cable models, an IP address may be permanently assigned to one computer. IP addresses are automatically logged by web servers, collecting information about a user's traffic patterns. An IP address does not identify an individual by name, however it can reveal what geographic area you are connecting from.</font></p>
                                     <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Confidentiality and Security</strong><br>
          3balls.com is committed to making your online ordering process secure. 3balls.com takes all necessary precautions to protect your personal information both online and off-line. When 3balls.com requests that you enter sensitive information, that information is encrypted using Secure Sockets Layer (SSL) software or other security protocol, which encrypts the information you input. No administrator at 3balls.com will have knowledge of your password. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to log off from 3balls.com when finished using a shared computer. 3balls.com also protects your personal information off-line. Access to your personal information is limited to employees who 3balls.com reasonably believes will need that information to provide services to you. However, 3balls.com is not responsible for the confidentiality, security or distribution of your own personal information by our partners and third parties outside the scope of our agreement with such partners and third parties.</font></p>
                                     <p align="left"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Children's and Minor's Privacy</strong><br>
@@ -403,7 +557,11 @@ dropdowncontent.init("allbrands_parent", "right-bottom", 100, 'click')
 	
 	
 	
-	<div id="footer">
+	<!--[if IE]>
+<center>
+<![endif]-->
+
+<div id="footer">
 	
 	<div id="footer-extra">
 	
@@ -423,20 +581,22 @@ dropdowncontent.init("allbrands_parent", "right-bottom", 100, 'click')
 	    <area shape="rect" coords="528,125,696,153" href="http://www.3balls.com/sitesearch/search.php?keywords=--BargainBasement&amp;refine=y&amp;Producttype=Apparel&amp;Price=Under+$10&amp;sort_by_field=Price:DESC">
         <area shape="rect" coords="528,156,695,186" href="http://www.3balls.com/sitesearch/search.php?keywords=--BargainBasement&amp;refine=y&amp;Producttype=Accessories&amp;Price=Under+$10&amp;sort_by_field=Price:DESC">
 	  </map>
-  </div>
+  		</div>
 
 		<div id="email-footer">
 			<iframe src="/promotions/email-signup-tiny.php" height="200px" width="230px;" frameborder="0" scrolling="No"></iframe>
 		</div>
 		
+		
+		<div style="clear:both"></div>
 	</div><!-- end footer-extra -->
 	
 	<div style="clear:both"></div>
 	
 	<div id="global-footer">
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <table width="950" align="center" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td><table width="100%" border="0" cellspacing="0" cellpadding="4">
+          <td><table border="0" cellpadding="4" cellspacing="0">
               <tbody><tr>
                 <td><div id="footer-columns-wrap">
                   <div class="footer-columns">
@@ -459,7 +619,8 @@ dropdowncontent.init("allbrands_parent", "right-bottom", 100, 'click')
                   <div class="footer-columns">
                     <ul>
                       <li class="list-head">Customer Service</li>
-                      <li><a href="http://3balls.custhelp.com">Help</a></li>
+                      <li><a href="http://3balls.custhelp.com">Help Desk</a></li>
+					  <li><a href="http://3balls.custhelp.com/cgi-bin/3balls.cfg/php/enduser/std_adp.php?p_faqid=140&amp;p_created=1241645522&amp;p_sid=JJcS65Hj&amp;p_accessibility=0&amp;p_redirect=&amp;p_lva=&amp;p_sp=cF9zcmNoPSZwX3NvcnRfYnk9JnBfZ3JpZHNvcnQ9JnBfcm93X2NudD0zNCwzNCZwX3Byb2RzPSZwX2NhdHM9JnBfcHY9JnBfY3Y9JnBfc2VhcmNoX3R5cGU9YW5zd2Vycy5zZWFyY2hfbmwmcF9wYWdlPTE!&amp;p_li=&amp;p_topview=1">Shipping Rates &amp; Info</a></li>
                       <li><a href="http://www.3balls.com/customer_account-display/modifycart">Shopping Cart</a></li>
                       <li><a href="http://www.3balls.com/customer_account">Track Recent Order</a></li>
                       <li><a href="http://www.3balls.com/file_include-file/infobooth#return">Return Info</a></li>
@@ -530,44 +691,27 @@ dropdowncontent.init("allbrands_parent", "right-bottom", 100, 'click')
               <tr>
                 <td><table width="100%" border="0" cellspacing="20" cellpadding="0">
                     <tbody><tr>
-                      <td>
-                          <script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script>                      </td>
+                      <td><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script></td>
                       <td><!-- PayPal Logo -->
-                      <a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.3balls.com/images/PayPal_mark_180x113.gif" border="0" alt="Acceptance Mark"></a><!-- PayPal Logo -->					  </td>
+                          <a href="http://www.3balls.com/ebay.php?m=feedback" target="_blank"><img src="httpS://www.3balls.com/images/ebay-top-rated.gif" border="0" alt="eBay Top Rated Seller"></a>
+                      </td>
+						  <td><!-- eBay Logo -->
+                          <a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.3balls.com/images/PayPal_mark_180x113.gif" border="0" alt="Acceptance Mark"></a>
+					  </td>
                       <td><!-- START SCANALERT CODE -->
-                      <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.3balls.com"><img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.3balls.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><!-- END SCANALERT CODE -->                      </td>
+                          <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.3balls.com"><img width="115" height="30" border="0" src="https://images.scanalert.com/meter/www.3balls.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+                          <!-- END SCANALERT CODE -->                      </td>
                       <td><!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc. -->
-                              <script type="text/javascript" language="javascript">var ANS_customer_id="46d259dd-249a-4610-ba9a-eb733d40f95e";</script>
-                              <script type="text/javascript" language="javascript" src="//VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script>                      </td>
+                          <script type="text/javascript" language="javascript">var ANS_customer_id="46d259dd-249a-4610-ba9a-eb733d40f95e";</script>
+                          <script type="text/javascript" language="javascript" src="https://VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script>
+                      </td>
                       <td><!-- BEGIN: BizRate Medal (125x73 pixels) -->
-					  <a href="http://www.shopzilla.com/ratings_guide/cust_reviews__mid--85041.html" target="http://www.shopzilla.com"> <img src="https://medals.bizrate.com/medals/dynamic/85041_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
-				  </td>
-                      <td>
-                          <script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
-                          <span id="BuySafeSealSpan">
-                          <script type="text/javascript">WriteBuySafeSeal('BuySafeSealSpan', 'Small', 'HASH=LrPw3nxpXdZRqGqIKJ4pvzffsehPWc0X70kyhQ1k33BncOVNKKSe7TmCY5tak%2fYj2iJ4tUYXoYPZ57sn2Hkmsg%3d%3d');</script>
-                      	</span>					  </td>
+                        <a href="http://www.shopzilla.com/ratings_guide/cust_reviews__mid--85041.html" target="http://www.shopzilla.com"> <img src="https://medals.bizrate.com/medals/dynamic/85041_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a> </td>
                     </tr>
                 </tbody></table></td>
               </tr>
               <tr>
                 <td><img src="/images/static/payment-methods.gif" width="650" height="32" alt=""></td>
-              </tr>
-              <tr>
-                <td>
-<script type="text/javascript">
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//www.veruta.com/scripts/trackmerchant.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.veruta.com/scripts/trackmerchant.js" type="text/javascript"></script>
-<script type="text/javascript">
-try 
-{
-	var v_merchantID = 21;
-	var v_merchantBeacon = document.location.protocol + "//bstats.adbrite.com/click/bstats.gif?kid=41589067&bapid=352";
-	v_trackPage();
-} 
-catch(e) {}
-</script>
-				</td>
               </tr>
           </tbody></table></td>
         </tr>
@@ -575,7 +719,12 @@ catch(e) {}
 	  
 	</div><!-- end global-footer -->
 	
-</div><!-- end footer --></center>
+</div><!-- end footer -->
+
+<!--[if IE]>
+</center>
+<![endif]-->
+
 	<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1644" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 	
 <script type="text/javascript">
@@ -596,6 +745,17 @@ try{
 <!-- End: 4q.iperceptions.com -->
 <!-- TrueTag Landing Page tracking -->
 <script src="http://cts.channelintelligence.com/35638742_landing.js"></script>
+<!-- Veruta tracking start -->
+<script type="text/javascript">
+	document.write(unescape("%3Cscript src='" + document.location.protocol + "//www.veruta.com/scripts/trackmerchant.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.veruta.com/scripts/trackmerchant.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var v_merchantID = 3390336734;
+	v_trackPage();
+</script>
+<!-- Veruta tracking end -->
+
+
                                 
                         
   
