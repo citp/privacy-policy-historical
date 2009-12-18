@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegaweb.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605115305id_/http%3A//www.pegaweb.com/special/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegaweb.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218175049id_/http%3A//www.pegaweb.com/special/privacy-policy.htm) for the most accurate reproduction.*
 
 # Pegaweb.com Privacy Policy
 
@@ -17,6 +17,12 @@
 > Google Adsense's Interest-based advertising is active on this site. It allows advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests.
 > 
 > This system is operated by Google. Pegaweb.com does not collect or have any access to this data.
+> 
+> **NAI Opt-Out**
+> 
+> You can opt out of behavioural advertising here:
+> 
+> <http://www.networkadvertising.org/managing/opt_out.asp>
 > 
 > **Cookies and Web Beacons**
 > 
