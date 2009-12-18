@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgdesi.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070651id_/http%3A//www.imgdesi.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdesi.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218093744id_/http%3A//imgdesi.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# IMGDESI.COM ~~ UPLOAD YOUR IMAGE FOR FREE
+# Mallu,Desi,Sexy Girls & Aunty - Hot Pics Inside!! IMGDESI.COM ~~ UPLOAD YOUR IMAGE FOR FREE
 
 When you sign up for an account with MultiHoster, we collect personal information from you including your e-mail address, and a password. 
 
