@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170708id_/http%3A//www.selftrade.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218044646id_/http%3A//www.selftrade.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy / Selftrade
 
@@ -41,14 +41,14 @@ By applying for our services or entering into any agreement with us, whether or 
 
 The Purpose mentioned above will also include:
 
-    * (a) providing the Selftrade service to you, administering your Selftrade account and any agreement between us for the provision of the Selftrade service, 
-    * (b) providing services ancillary to any such agreement or service, 
-    * (c) marketing to you of financial services and products,
-    * (d) the release of your name, address, e-mail address and telephone number to market research organisations for the purpose of confidential market research surveys carried out by post, telephone or electronically on Selftrade's behalf, 
-    * (e) the compliance with a request you make of us, 
-    * (f) assessment of financial standing, which will include verification of identity checks, with a credit reference agency,
-    * (g) the transfer of information to the Official Receiver or appointed insolvency practitioner(s) for the administration of your account if we receive notice of or are informed of your insolvency or bankruptcy or of any insolvency proceedings/arrangements;
-    * (h) any use of your personal information to comply with legal or regulatory obligations.
+  * (a) providing the Selftrade service to you, administering your Selftrade account and any agreement between us for the provision of the Selftrade service, 
+  * (b) providing services ancillary to any such agreement or service, 
+  * (c) marketing to you of financial services and products,
+  * (d) the release of your name, address, e-mail address and telephone number to market research organisations for the purpose of confidential market research surveys carried out by post, telephone or electronically on Selftrade's behalf, 
+  * (e) the compliance with a request you make of us, 
+  * (f) assessment of financial standing, which will include verification of identity checks, with a credit reference agency,
+  * (g) the transfer of information to the Official Receiver or appointed insolvency practitioner(s) for the administration of your account if we receive notice of or are informed of your insolvency or bankruptcy or of any insolvency proceedings/arrangements;
+  * (h) any use of your personal information to comply with legal or regulatory obligations.
 
 
 
@@ -85,7 +85,7 @@ For quality control, training and regulatory purposes, we may monitor and/or rec
 When you use our website, information will be stored or accessed on your computer (also known as 'cookies'). Cookies are blocks of text placed in files on your computer's hard drive when you visit a website and which contain information to identify you. Selftrade uses cookies to track our online marketing activity and to ensure that when you login into the My Account secure area of the site, we maintain your confidentiality and security. To learn more about cookies, please read our FAQs. A cookie does not contain any personal information unless it is attached to personal information collected another way, such as by means of an Application Form. You have the right to refuse such cookies. However, since access to the secure site, including personal accounts, relies on us being able to identify you, refusing the use of cookies means that we will be unable to provide you with further access to our services.  
 
 
-Should you wish to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies can be identified by looking for the name Selftrade.co.uk in the host section. Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.selftrade.co.uk/external.php?url=http://www.aboutcookies.org/). Please note as previously explained that by deleting our cookies or disabling future cookies, you may not be able to access certain features of our site.
+Should you wish to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies can be identified by looking for the name Selftrade.co.uk in the host section. Information on deleting or controlling cookies is available at [www.AboutCookies.org](https://web.archive.org/external.php?url=http%3A%2F%2Fwww.aboutcookies.org%2F&m=d3d2e4f86db21e814f7e44e4a238d356) . Please note as previously explained that by deleting our cookies or disabling future cookies, you may not be able to access certain features of our site.
 
   * **5\. Web Beacons**
 
