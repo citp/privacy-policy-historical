@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getglue.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430044226id_/http%3A//www.getglue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getglue.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218095318id_/http%3A//getglue.com/privacy) for the most accurate reproduction.*
 
-# Glue: Privacy.html
+# Get Glue: Privacy
 
 ## Glue's Privacy Policy
 
@@ -10,7 +10,7 @@ AdaptiveBlue does not sell, trade or rent your personal information to others. W
 
 In addition to personal information voluntarily provided by you, by the nature of its functionality, Glue software collects information regarding your Internet usage when visiting specific web pages that represent books, music, movies, and other everyday things.
 
-Glue works by recognizing books, music, movies, wine, restaurants, stocks and other things around the web. The software automatically stores the last 20 things you visit. In addition, Glue enables you to explicitly save your favorites by clicking the Like button or adding a comment.
+Glue works by recognizing books, music, movies, wine, restaurants, and other things on GetGlue.com and on popular pages around the web. The software saves the items that you visit on these pages. Additionally, you can click thumbs-up or thumbs-down to share your opinion and leave a comment. Privacy controls include: deleting any individual item that you have visited; not sharing the items you visit on your profile; only allowing approved individuals access to your profile.
 
 Although we do not sell, trade or rent your information, we may release personal and/or non-personal information about you when you request us to do so. In addition, your information may also be accessed by AdaptiveBlue employees as necessary to provide customer support and troubleshoot problems.
 
