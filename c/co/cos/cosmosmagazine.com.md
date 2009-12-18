@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618050945id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218060451id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | COSMOS magazine
 
@@ -46,12 +46,13 @@ This policy is available upon request. It will be reviewed from time to time and
 
 If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:
 
-Privacy manager  
+Privacy Officer  
+COSMOS magazine  
 Luna Media Pty Ltd  
-Level 2, 25 Cooper Street  
-SURRY HILLS NSW 2010
+Level 1, 49 Shepherd Street  
+CHIPPENDALE NSW 2008
 
 Phone +61 2 9310 8500  
 Fax +61 2 9698 4899 
 
-Email: [privacy@lunamedia.com.au](mailto:privacy@lunamedia.com.au)
+Email: [Privacy Officer at COSMOS magazine](mailto:privacy@cosmosmagazine.com)
