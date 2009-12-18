@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearsports.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044947id_/http%3A//www.realclearsports.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearsports.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218165343id_/http%3A//www.realclearsports.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # RealClearSports - Static Pages: Privacy Policy
 
