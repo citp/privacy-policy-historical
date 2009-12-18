@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072807id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218014551id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -38,7 +38,7 @@ In all cases:
 
 The MyPivots web site uses cookies on some pages to enhance your experience by remembering previous values that you used so that you don't have to enter them again. 
 
-The [Day Trading Forum](https://web.archive.org/forum/) uses cookies if you elect to have your username and password remembered. 
+The [Day Trading Forum](https://web.archive.org/Board) uses cookies if you elect to have your username and password remembered. 
 
 Google, as a third party vendor, uses cookies to serve ads on our site. 
 
@@ -79,7 +79,7 @@ We do not collect any identifiable data about our visitors.
 
 * * *
 
-### [Cookies](https://web.archive.org/web/20090618072807id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
+### [Cookies](https://web.archive.org/web/20091218014551id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
 
 Cookies are used to enhance your browsing experience by remember previously used settings. 
 
