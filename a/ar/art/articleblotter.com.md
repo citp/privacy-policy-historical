@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleblotter.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419073354id_/http%3A//www.articleblotter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleblotter.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023816id_/http%3A//www.articleblotter.com/privacy.php) for the most accurate reproduction.*
 
 # Free Article Submission Directory | Submit Articles And Article Content Search For Ezine Publishers and Authors
 
