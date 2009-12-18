@@ -1,7 +1,19 @@
-<!--The following is the downloaded HTML source of the amazon.co.uk privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619151528id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amazon.co.uk privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218062006id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.-->
 
-<html><head><title>Amazon.co.uk:
+<html><head><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/fruitCSS/GB/combined-3632404648._V234345100_.css">
+
+
+
+
+
+
+
+
+
+
+
+<title>Amazon.co.uk:
 
 
 Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
@@ -151,7 +163,7 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
 /* New PhoneTab Styles */
 .cs-check {
         background-image:url(http://g-ecx.images-amazon.com/images/G/02/x-locale/cs/help/customer/icons/cs-check._V17359978_.gif);
-                background-position:1.1em 1px;
+                background-position:1.1em 4px;
                 background-repeat:no-repeat;
                 font-size:1em;
                 margin:.5em 0 0 0;
@@ -270,20 +282,128 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
 	padding:.5em 1em .5em 0;
 }
 </style>
-  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/layout-1._V20425023_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/help/help-search-3._V247047180_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/browser-hacks-1._V20423081_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/cs-content-12._V266672109_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/cs-wrapper-1._V20423082_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/help/help-content-3._V13806402_.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/layout-1._V20425023_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/help/help-search-3._V247047180_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/browser-hacks-1._V20423081_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/cs-content-12._V266672109_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/cs-wrapper-1._V20423082_.css" media="screen">
 <style type="text/css">
 .csBottomNavLinks {font-family: verdana,arial,helvetica,sans-serif; font-size: 13px; padding-top: 5px; padding-bottom: 5px;}
 .csBottomNavLinks table {font-family: verdana,arial,helvetica,sans-serif; font-size: 13px;}
-</style><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/x-locale/cs/projects/andon/error-styles-1.03.css" media="screen"><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/x-locale/cs/help/css/help-fixes-01._V226058560_.css" media="screen"></head><body><!-- HCVSPKMMC -->
+</style><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/help/css/help/help-content-3._V231050485_.css" media="screen"><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/02/x-locale/cs/help/css/help-fixes-02._V234081520_.css" media="screen"></head><body><link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/amazonJQ/amazonJQ-combined-coreCSS-8516._V231938213_.css" rel="stylesheet">
+<link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/navbarCSSUKTFS/navbarCSSUKTFS-navbarUKTFS-37029._V227554852_.css" rel="stylesheet">
 
 
+<!-- HCVSPKMMC -->
+
+<script type="text/javascript">
+  function Navbar(options) {
+    options = options || {};
+
+    this._loadedCount = 0;
+    this._hasUedata = (typeof uet == 'function');
+    this._finishLoadQuota = options['finishLoadQuota'] || 2;
+    this._startedLoading = false;
+
+    this._btfFlyoutContents = [];
+
+    this.addToBtfFlyoutContents = function(content, callback) {
+      this._btfFlyoutContents.push({content: content, callback: callback});
+    }
+
+    this.getBtfFlyoutContents = function() {
+      return this._btfFlyoutContents;
+    }
+
+    this.loading = function() {
+      if (!this._startedLoading && this._isReportingEvents()) {
+        uet('ns');
+      }
+
+      this._startedLoading = true;
+    }
+
+    this.componentLoaded = function() {
+      this._loadedCount++;
+      if (this._startedLoading && this._isReportingEvents() && (this._loadedCount == this._finishLoadQuota)) {
+        uet('ne');
+      }
+    }
+
+    this._isReportingEvents = function() {
+      return this._hasUedata;
+    }
+  }
+
+  _navbar = new Navbar({ finishLoadQuota: 1});
+  _navbar.loading();
+
+  amznJQ.available('jQuery', function() {
+    _navbar._navPopoverBorderSpriteImage_h = new Image();
+    _navbar._navPopoverBorderSpriteImage_h.src = 'http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif';
+    _navbar._navPopoverBorderSpriteImage_v = new Image();
+    _navbar._navPopoverBorderSpriteImage_v.src = 'http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif';
+  });
+
+  window.navSAFlyoutDelay = 0;
 
 
+</script>
+<style type="text/css"><!--
 
 
+.navSprite,
+.navSpriteH,
+.navSaJs li.navSaMenuItem {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v13._V219533094_.png);
+}
 
+.navSpritePopoverH {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif);
+}
 
+.navSpritePopoverV {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif);
+}
 
+#navbar .tiny,
+.navbar .tiny,
+.navShopAllPopLevel .tiny,
+.navShopAllPopNonRootLevel .tiny {
+  font-family: Arial, sans-serif;
+  font-size: x-small;
+}
+
+.nav_popover .header .l {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) -14px 0px no-repeat;
+}
+
+.nav_popover .header .r {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px -14px no-repeat;
+}
+
+.nav_popover .header .c {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px 0px repeat-x;
+}
+
+.nav_popover .footer .l {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px -21px no-repeat;
+}
+
+.nav_popover .footer .r {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) -21px 0px no-repeat;
+}
+
+.nav_popover .footer .c {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px -7px repeat-x;
+}
+
+.nav_popover .body .l {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) 0px 0px repeat-y;
+}
+
+.nav_popover .body .r {
+  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) -7px 0px repeat-y;
+}
+--></style>
+<img src="http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v13._V219533094_.png" style="display:none" alt="">
+<img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" style="display:none" alt="">
 
 
 
@@ -310,327 +430,13 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
 
 
 
-<script type="text/javascript">
-  function Navbar(options) {
-    options = options || {};
 
-    this._loadedCount = 0;
-    this._hasUedata = (typeof uet == 'function');
-    this._finishLoadQuota = options['finishLoadQuota'] || 2;
-    this._startedLoading = false;
-    this._backupNav = false;
 
-    this._btfFlyoutContents = [];
 
 
 
-    this.addToBtfFlyoutContents = function(content, callback) {
-      this._btfFlyoutContents.push({content: content, callback: callback});
-    }
 
 
-
-
-    this.getBtfFlyoutContents = function() {
-      return this._btfFlyoutContents;
-    }
-
-
-
-
-    this.loading = function() {
-      if (!this._startedLoading && this._isReportingEvents()) {
-        uet('ns');
-      }
-
-      this._startedLoading = true;
-    }
-
-
-
-
-    this.componentLoaded = function() {
-      this._loadedCount++;
-      if (this._startedLoading && this._isReportingEvents() && (this._loadedCount == this._finishLoadQuota)) {
-        uet('ne');
-      }
-    }
-
-
-
-
-
-
-    this._isReportingEvents = function() {
-      return this._hasUedata && !this._backupNav;
-    }
-  }
-
-  _navbar = new Navbar({ finishLoadQuota: 2});
-  _navbar.loading();
-
-</script>
-<link href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/navbarCSSUKSprite/navbarCSSUKSprite-navbarUKSprite-16449._V222545658_.css" type="text/css" rel="stylesheet">
-<img src="http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png" alt="" style="display:none" border="0">
-<img src="http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navHoriSprites._V260346507_.gif" alt="" style="display:none" border="0">
-<img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" style="display:none" height="1" border="0">
-
-
-<script type="text/javascript"><!--
-
-    function shiftImage(){}
-    function navShiftCartImage(){}
-
-
-    window.navTransparentPixelURL = 'http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif';
-
-
-  amznJQ.available('navBelowTheFold', function() {
-    _navbar._navPopoverBorderSpriteImage_h = new Image();
-    _navbar._navPopoverBorderSpriteImage_h.src = 'http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif';
-    _navbar._navPopoverBorderSpriteImage_v = new Image();
-    _navbar._navPopoverBorderSpriteImage_v.src = 'http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif';
-  });
---></script>
-
-
-<style type="text/css"><!--
-
-
-
-#navbar .tiny,
-.navbar .tiny,
-.navShopAllPopLevel .tiny,
-.navShopAllPopNonRootLevel .tiny
-{
-  font-size: x-small;
-}
-.nav_popover .header .l {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) -14px 0px no-repeat;
-}
-.nav_popover .header .r {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px -14px no-repeat;
-}
-.nav_popover .header .c {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px 0px repeat-x;
-}
-.nav_popover .footer .l {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px -21px no-repeat;
-}
-.nav_popover .footer .r {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) -21px 0px no-repeat;
-}
-.nav_popover .footer .c {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif) 0px -7px repeat-x;
-}
-.nav_popover .body .l {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) 0px 0px repeat-y;
-}
-.nav_popover .body .r {
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif) -7px 0px repeat-y;
-}
-
-#navSAGatewayButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -179px -279px;
-}
-
-#navSAGatewayButtonNoSubnav
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -1px -80px;
-}
-
-.navSAGatewayButtonPanel a:hover, .navSAGatewayButtonPanel a:focus, .navSAGatewayButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -179px -317px;
-}
-
-.navSAGatewayButtonNoSubnavPanel a:hover, .navSAGatewayButtonNoSubnavPanel a:focus, .navSAGatewayButtonNoSubnavPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -1px -118px;
-}
-
-.navSAButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -182px -163px;
-}
-
-.navSAButtonNoSubnav
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) 0px -164px;
-}
-
-.navSAButtonPanel a:hover, .navSAButtonPanel a:focus, .navSAButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -182px -201px;
-}
-
-.navSAButtonNoSubnavPanel a:hover, .navSAButtonNoSubnavPanel a:focus, .navSAButtonNoSubnavPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat 0px -202px;
-}
-
-.navExpandedChildLITop
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -1px -2px;
-}
-
-.navExpandedChildLITopInactive
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -181px -2px;
-}
-
-.navExpandedChildLIMiddle
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat 0px -28px;
-}
-
-.navExpandedChildLIMiddleInactive
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -180px -28px;
-}
-
-.navExpandedChildLIBottom
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat 0px -54px;
-}
-
-.navExpandedChildLIBottomInactive
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -180px -54px;
-}
-
-.navSAExpandedNonJSBottomBorder
-{
-  background:url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -1px -157px;
-}
-
-#navbar .navSearchLeft
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -497px -315px;
-}
-
-#navCartEmptyButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -465px -2px;
-}
-
-.navCartEmptyButtonPanel a:hover, .navCartEmptyButtonPanel a:focus, .navCartEmptyButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -465px -40px;
-}
-
-#navCartFullButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -455px -118px;
-}
-
-.navCartFullButtonPanel a:hover, .navCartFullButtonPanel a:focus, .navCartFullButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -455px -156px no-repeat;
-}
-
-#navCartErrorButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -179px -357px;
-}
-
-.navCartErrorButtonPanel a:hover, .navCartErrorButtonPanel a:focus, .navCartErrorButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -179px -395px no-repeat;
-}
-
-#navCartNonJSButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) transparent no-repeat -364px -235px;
-}
-
-.navCartNonJSButtonPanel a:hover, .navCartNonJSButtonPanel a:focus, .navCartNonJSButtonPanel a:active
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) transparent no-repeat -364px -273px;
-}
-
-#navCartL
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -574px -118px;
-}
-
-.navCartCPanel
-{
-  background-image: url();
-}
-
-#navCartR1
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -365px -119px;
-}
-
-#navCartR2
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -298px -357px;
-}
-
-.navCartFlyItemPriceBarL
-{
-  background: #f3f2e4 url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat scroll -381px -425px;
-}
-
-.navCartFlyItemPriceBarM
-{
-  background: #f3f2e4 url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navCartItemPriceBarM._V1833933_.gif) 0px 0px;
-}
-
-.navCartFlyItemPriceBarR
-{
-  background: #f3f2e4 url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat scroll -413px -429px;
-}
-
-#navAmazonLogo
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -1px -279px;
-}
-
-#navbar .navAmazonLogoPanel a:hover, #navbar .navAmazonLogoPanel a:focus, #navbar .navAmazonLogoPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -1px -327px;
-}
-
-#navAmazonPrimeLogo
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -1px -375px;
-}
-
-#navbar .navAmazonPrimeLogoPanel a:hover, #navbar .navAmazonPrimeLogoPanel a:focus, #navbar .navAmazonPrimeLogoPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) -1px -423px;
-}
-
-#navbar .navCrossshopFirstTab .navCrossshopTabLeft
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat -402px -420px;
-}
-
-#navCategoryBtn
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png) no-repeat  -182px -80px;
-}
-.navSprite{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png);
-}
-.navSpriteH{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navHoriSprites._V260346507_.gif);
-}
-.navSpritePopoverH{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-h._V261416900_.gif);
-}
-.navSpritePopoverV{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/popover/sprites-v._V261416900_.gif);
-}
-.navSaJs li.navSaMenuItem{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png);
-}
-
---></style>
 
 
 
@@ -641,167 +447,89 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tbody><tr>
-    <td rowspan="2" align="left" width="180" valign="bottom"><ul id="navAmazonLogo">
-  <li class="navAmazonLogoPanel"><a href="/"><img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="175" alt="amazon.co.uk" height="48" border="0"></a></li>
-</ul></td>
+    <td rowspan="2" align="left" width="180" valign="bottom"><a id="navLogo" class="nonGateway" href="/">
+  <span id="navLogoPrimary" class="navSprite"><span>amazon.co.uk</span></span>
+  <span id="navLogoSecondary" class="navSprite nonPrime"></span>
+</a></td>
     <td width="100%" align="left" height="26">
-      <table width="100%" id="welcomeRowTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-        <td align="left" valign="bottom" class="navGreetingBkg" nowrap=""><div id="navidWelcomeMsg">
+      <table width="100%" id="welcomeRowTable" cellspacing="0" cellpadding="0" border="0" style="height: 69px; background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/holiday09/holiday09_sprite_uk._V228084317_.png); background-position: -500px 0px"><tbody><tr>
+        <td align="left" valign="bottom" class="navGreetingBkg"><div id="navidWelcomeMsg" style="white-space: nowrap;">
   <span class="navGreeting">Hello.</span>
-  <span class="navMessage">Sign in to get <a href="/gp/yourstore?ie=UTF8&amp;signIn=1" rel="nofollow">personalised recommendations</a>. New Customer? <a href="/gp/flex/sign-out.html?ie=UTF8&amp;path=%2Fgp%2Fyourstore&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;action=sign-out" rel="nofollow">Start here</a>.</span>
+  <span class="navMessage" style="white-space: nowrap;">Sign in to get <a href="/gp/yourstore?ie=UTF8&amp;signIn=1" rel="nofollow">personalised recommendations</a>.</span>
+  <span class="navMessage" style="white-space: nowrap;">New Customer? <a href="/gp/flex/sign-out.html?ie=UTF8&amp;path=%2Fgp%2Fyourstore&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;action=sign-out" rel="nofollow">Start here</a>.</span>
 </div></td>
-            <td align="left">&nbsp;</td>
-          <td id="navSwmSlot" align="right" valign="center" height="26">
-<style type="text/css">
-  #navSwmMainHeading {
-    color: #FF9900;
-  }
-  #navSwmPopMainHeading {
-    color: #E47911;
-  }
-  a:active#navSwmMainHeading,
-  a:hover#navSwmMainHeading,
-  a:focus#navSwmMainHeading {
-    color: #FF9900;
-  }
-  a:hover#navSwmPopMainHeading,
-  a:focus#navSwmPopMainHeading,
-  a:active#navSwmPopMainHeading {
-    color: #E47911;
-  }
-  #navSwmSubHeading {
-    color: #E47911;
-  }
-  #navSwmPopSubHeading {
-    color: #E47911;
-  }
-  a:active#navSwmSubHeading,
-  a:hover#navSwmSubHeading,
-  a:focus#navSwmSubHeading {
-    color: #E47911;
-  }
-  a:hover#navSwmPopSubHeading,
-  a:focus#navSwmPopSubHeading,
-  a:active#navSwmPopSubHeading {
-    color: #E47911;
-  }
-</style>
-    
-<table id="navSwmSkedPop" border="0" cellspacing="0" cellpadding="0" height="100%" width="100%">
+        <td align="left">&nbsp;</td>
+        <td id="navSwmSlot" align="right" valign="center" height="26">
+<table id="navSwmHoliday" cellspacing="0" style="height: 69px; ">
   <tbody><tr>
-    <td align="right" valign="center">
-      <div id="navSwmMainHdgDiv">
-          <a id="navSwmMainHeading" href="/b/ref=nav_swm_fathersdaynonprime?ie=UTF8&amp;node=213420031">
-            Two days left to shop for Father's Day
-          </a>
-      </div>
-    </td>
-    <td align="left" valign="center" width="25" rowspan="1"><div id="navSwmFlyoutTrigger" style="display:none; height:13px; width:13px; margin:2px 3px 3px 3px;">
-      <a name="navSwmSkedPop|he|navSwmSkedPop_content"><img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" class="default navSprite" id="navSwmFlyoutImage" height="1" border="0"></a>
-      </div>
-    </td>
+    <td style="background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/images/holiday09/holiday09_sprite_uk._V228084317_.png); padding-left: 105px; height: 69px; ">
+    <ul class="navSwmHolidayUl">
+	      <li class="navSwmHolidayHead"><a href="/gp/gift-central/">Last day to order for Christmas</a></li>
+			  <li class="navSwmHolidaySubhead">with FREE Super Saver Delivery</li>
+	      <li class="navSwmHolidayNote"><a href="/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=200039400">Restrictions apply</a></li>
+	      <li class="navSwmHolidaySponsor"><a href="/gp/gift-central/">Sponsored by HP Photosmart</a></li>
+    </ul>
+    </td> 
   </tr>
-</tbody></table>            </td>
+</tbody></table>        </td>
       </tr></tbody></table>
     </td>
 </tr>
 
 <tr>
-<td width="100%" id="navidCrossshop" height="22" align="left" valign="top">
-  <table width="100%" height="22" valign="top" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr id="navCrossshopRow">
-        <td class="navCrossshopFirstTab" height="22"><table id="navCSYourAmazonHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/yourstore/home/ref=topnav_ys_w_h_" style="vertical-align:baseline; padding-top:2px;" rel="nofollow"><img class="" id="navCSYourAmazonHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" style="vertical-align:-5px;">Your Amazon.co.uk</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="4" alt="" id="" class="" height="1" border="0">
+  <td>
+<table id="navCrossshop" border="0" cellpadding="0" cellspacing="0" height="22">
+      <tbody><tr>          
+        <td>
+        <a href="/gp/yourstore/home" class="navCrossshopLink"> Your Amazon.co.uk</a>
+        <span class="navCrossshopBar">&nbsp;|&nbsp;</span>
+        <a href="/Deals-Week/b?ie=UTF8&amp;node=350613011" class="navCrossshopLink">Deals of the Week</a>
+        <span class="navCrossshopBar">&nbsp;|&nbsp;</span>
+        <a href="/gp/gc" class="navCrossshopLink">Gift Certificates</a>
+        <span class="navCrossshopBar">&nbsp;|&nbsp;</span>
+        <a href="/gp/gift-central" class="navCrossshopLink">Gifts &amp; Wish Lists</a>
+      </td>
+      <td width="100%">&nbsp;</td>
+      <td>
+        <a href="/gp/css/homepage" class="navCrossshopYALink">Your Account</a>
+        <span class="navCrossshopBar">&nbsp;|&nbsp;</span>
+        <a href="/Help/b?ie=UTF8&amp;node=471044" class="navCrossshopYALink">Help</a>
+     </td>
+        
+      </tr>
+</tbody></table>  
   </td>
-  </tr>
-</tbody></table></td>
-        <td height="22"><table id="navCSTodaysDealsHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/Deals-Week/b/ref=cs_top_nav_gb27?ie=UTF8&amp;node=350613011" style="vertical-align:baseline; padding-top:2px;"><img class="" id="navCSTodaysDealsHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" style="vertical-align:-5px;">Deals of the Week</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-        <td height="22"><table id="navCSGiftCardsHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/gc/ref=topnav_giftcert_w_h_" style="vertical-align:baseline; padding-top:2px;"><img class="" id="navCSGiftCardsHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" style="vertical-align:-5px;">Gift Certificates</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-        <td height="22"><table id="navCSFindGiftsHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/gift-central/ref=cm_gift_button_gc_lp" style="vertical-align:baseline; padding-top:2px;"><img class="" id="navCSFindGiftsHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" style="vertical-align:-5px;">Gifts &amp; Wish Lists</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-      <td width="100%" height="22">&nbsp;</td>
-      <td height="100%"><div id="navHelpLinks" height="100%">
-<a href="/gp/css/homepage">Your Account</a>
-&nbsp;|&nbsp;
-<a href="/Help/b?ie=UTF8&amp;node=471044">Help</a></div></td>
-      <td id="navCrossshopRowRightEndCap" class="navSprite" height="22"><img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="6" alt="" height="1" border="0"></td>
-    </tr>
-  </tbody></table>
-</td>
 </tr>
 
 <tr class="navShopSearch" align="left" width="100%">
-  <td width="180"><ul id="navSAGatewayButton">
-        <li id="navSASwapPanel" class="navSAGatewayButtonPanel"><a href="/gp/site-directory"><img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="180" alt="Shop All Departments" height="38" border="0"></a></li>
-     </ul></td>
+  <td width="180"><div id="navShopAllButton" class="navSprite navButton navShopAllButtonSubnav">
+  <a class="destination" href="/gp/site-directory"><span class="text">Shop All Departments</span></a>
+  <a class="flyoutAnchor"><span class="navSprite downArrow"></span></a>
+</div></td>
   <td width="100%"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
   <td width="100%"></td>
-  <td align="right" style="padding-right:3px;"><div id="cartPop_NonJS_tab" style="">
-
-  <ul id="navCartNonJSButton">
-    <li id="navCartNonJSSwapPanel" class="navCartNonJSButtonPanel"><a href="/gp/cart/view.html" rel="nofollow"><img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="107" alt="Cart" height="38" border="0"></a></li>
-  </ul>
+  <td align="right" style="padding-right:1px;"><div id="navCartButton" class="navButton navBlueButton shortCartWidth">
+    <div class="navSprite left"></div>
+    <div class="navSprite right"></div>
+    <div class="navSprite icon"></div>
+    <a class="destination" href="/gp/cart/view.html" rel="nofollow"><span class="text">Basket</span></a>
+  </div></td>
+  <td align="right" style="padding-right:0px;"><div id="navWishListButton" class="navButton navBlueButton">
+  <div class="navSprite left"></div>
+  <div class="navSprite right"></div>
+  <a class="destination" href="/gp/registry/wishlist"><span class="text">Wish List</span></a>
 </div></td>
-  </tr></tbody></table></td>
+  <td class="navSprite navSearchEnd">
+  </td></tr></tbody></table></td>
 </tr>
 
 
  <tr width="100%" height="23">
     <td width="180" valign="top" style="height: 0px;">
-      <table id="navCategoryBtn" cellspacing="0" cellpadding="0" border="0" height="100%">
-<tbody><tr>
-<td id="navCategoryInner" height="23px" width="180px">
- <a href="/Help/b?ie=UTF8&amp;node=471044">Help</a>
-</td>
-</tr>
-</tbody></table>
+      <div id="navCategoryBtn">
+  <div class="navSprite left"></div>
+  <a href="/Help/b?ie=UTF8&amp;node=471044"><span>Help</span></a>
+</div>
     </td>
     <td width="100%" height="100%">
       <script type="text/javascript">
@@ -819,7 +547,7 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
           <td class="navSubnavMid" width="10">
               <div class="navSubnavDividerContainer">
                 <div class="navSubnavDivider navSprite"></div>
-              <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
+                <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
               </div>
           </td>
 
@@ -829,17 +557,7 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
           <td class="navSubnavMid" width="10">
               <div class="navSubnavDividerContainer">
                 <div class="navSubnavDivider navSprite"></div>
-              <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
-              </div>
-          </td>
-
-          <td class="navSubnavCell" style="text-align:center;">
-            <a href="/gp/seller/sell-your-stuff.html">Sell&nbsp;Your Stuff</a>
-          </td>
-          <td class="navSubnavMid" width="10">
-              <div class="navSubnavDividerContainer">
-                <div class="navSubnavDivider navSprite"></div>
-              <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
+                <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
               </div>
           </td>
 
@@ -849,22 +567,32 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
           <td class="navSubnavMid" width="10">
               <div class="navSubnavDividerContainer">
                 <div class="navSubnavDivider navSprite"></div>
-              <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
+                <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
               </div>
           </td>
 
           <td class="navSubnavCell" style="text-align:center;">
-            <a href="/Harry-Potter-Characters-Games/b?ie=UTF8&amp;node=470448">Harry Potter</a>
+            <a href="/gp/cobrandcard/marketing.html?ie=UTF8&amp;ad=SURL1">Amazon.co.uk MasterCard</a>
           </td>
           <td class="navSubnavMid" width="10">
               <div class="navSubnavDividerContainer">
                 <div class="navSubnavDivider navSprite"></div>
-              <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
+                <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
               </div>
           </td>
 
           <td class="navSubnavCell" style="text-align:center;">
-            <a href="/Disney-Zone-Games/b?ie=UTF8&amp;node=1100654">Disney</a>
+            <a href="/New-Amazoncouk/b?ie=UTF8&amp;node=309406031">New&nbsp;to Amazon.co.uk</a>
+          </td>
+          <td class="navSubnavMid" width="10">
+              <div class="navSubnavDividerContainer">
+                <div class="navSubnavDivider navSprite"></div>
+                <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="1" alt="" height="1" border="0">
+              </div>
+          </td>
+
+          <td class="navSubnavCell" style="text-align:center;">
+            <a href="/gp/feature.html?ie=UTF8&amp;docId=1000351073">Delivery Options</a>
           </td>
       <td class="navSubnavRight navSprite" width="8">
         <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V42753713_.gif" width="8" alt="" height="1" border="0">
@@ -884,10 +612,9 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
 
 
 
-
 </div>
 
-<img alt="" style="display:none" onload="if (typeof(_navbar) != 'undefined') { _navbar.componentLoaded(); }" src="http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v1._V242544712_.png"><img alt="" style="display:none" onload="if (typeof(_navbar) != 'undefined') { _navbar.componentLoaded(); }" src="http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navHoriSprites._V260346507_.gif">
+
 
   
 
@@ -901,16 +628,29 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
 
 <!--Pilu -->
 
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    amznJQ.declareAvailable('navbarInline');
+    amznJQ.available('jQuery', function() {
+        amznJQ.available('navbarJS-jQuery', function(){});
+    });
+</script>
+<img alt="" style="display:none" onload="_navbar.componentLoaded()" src="http://g-ecx.images-amazon.com/images/G/02/gno/images/orangeBlue/navPackedSprites_v13._V219533094_.png">
 <!--CMMKPSVCH -->
-
-
 
 
 
 
 <div id="cs-wrapper">
  <div class="cs-head-wrapper">
-  <div class="cs-breadcrumb-node">
+       <div class="cs-breadcrumb-node">
 
 
 <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=471044">Help</a>&nbsp;&gt;&nbsp;<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=492866">Security &amp; Privacy</a>&nbsp;&gt;&nbsp;<span class="breadcrumb">Privacy Notice</span></div>
@@ -918,10 +658,10 @@ Help&nbsp;&gt;&nbsp;Security &amp; Privacy&nbsp;&gt;&nbsp;Privacy Notice</title>
   <div class="cs-logout-node">
     &nbsp;
   </div>
-
- </div>
+    </div>
 
 <br clear="all">
+ </div>
 	<div id="cs-container-col">
 		<div id="cs-wrap-3col" style="width: 78%">
 			<div id="cs-browse-col" style="width: 29%">
@@ -944,12 +684,10 @@ Help Topics</div></div>
 
 
 
-
 <div class="cs-orange-head">Search</div>
-
 <div class="cs-first-head-flexi" style="width: 95%;padding-top:0">
 
-<form name="search-help" id="search-help" method="post" action="/gp/help/customer/display.html">
+<form name="search-help" id="search-help" method="post" action="/gp/help/customer/display.html/ref=hp_search_request">
 
 
 <div>
@@ -958,7 +696,6 @@ Help Topics</div></div>
 <input type="hidden" name="nodeId" value="502584">
 <input type="hidden" name="search" value="true">
 <input type="hidden" name="kwHidden" id="searchPlaceholder" value="true">
-
 </div>
 </form>
 </div>
@@ -966,88 +703,82 @@ Help Topics</div></div>
 
 
 
-
-
 <div class="cs-orange-head">Security &amp; Privacy</div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502570">Customer Promise
-</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584">Privacy Notice</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=541522">E-mail Subscriptions &amp; Communication Preferences</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=11081621">Safe &amp; Secure Online Transactions
-</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616">Conditions of Use &amp; Sale</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=14044771">Non-Disclosure Agreement
-</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=15340571">How to Identify False (Spoof or Phishing) E-mails
-</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200217120"> Recalls &amp; Product Safety</a></div><div class="cs-divider-dashed less-vertical-space"></div><div class="cs-first-head-flexi">FAQ</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_faq_lo/?nodeId=1093784">Log out</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_faq_wl/?nodeId=748390">Wish List</a></div>
+</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200406970">Safe Online Shopping</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=14044771">Non-Disclosure Agreement
+</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616">Conditions of Use &amp; Sale</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584">Privacy Notice</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200217120"> Recalls &amp; Product Safety</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=541522">E-mail Subscriptions &amp; Communication Preferences</a></div><div class="cs-divider-dashed less-vertical-space"></div><div class="cs-first-head-flexi">FAQ</div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_faq_wms/?nodeId=529936">Where's My Stuff?</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_faq_lo/?nodeId=1093784">Log out</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_faq_wl/?nodeId=748390">Wish List</a></div>
 <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_faq_more/?nodeId=200256010">More FAQs...</a></div>
 <div class="cs-orange-head">Ordering</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492870/ref=hp_ln_ord_hto">How to order</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=502536/ref=hp_ln_ord_cao">Cancelling an Order</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492858/ref=hp_ln_ord_ncg">New Customers' Guide</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492874/ref=hp_ln_ord_povat">Payment Options &amp; VAT</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200135550/ref=hp_ln_ord_gth">General Technical Help</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13378011/ref=hp_ln_ord_isf">How to Order from Indigostarfish.com on Amazon.co.uk</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=10293911/ref=hp_ln_ord_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_hto/?nodeId=492870">How to order</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_cao/?nodeId=502536">Cancelling an Order</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_ncg/?nodeId=492858">New Customers' Guide</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_povat/?nodeId=492874">Payment Options &amp; VAT</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_gth/?nodeId=200135550">General Technical Help</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_isf/?nodeId=13378011">How to Order from Indigostarfish.com on Amazon.co.uk</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ord_more/?nodeId=10293911">More...</a></div>
 <div class="cs-orange-head">Gifts and Gift Certificates</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200037930/ref=hp_ln_ggs_gs">Gift Services</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=502520/ref=hp_ln_ggs_sg">Sending a Gift</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200272630/ref=hp_ln_ggs_sgc">Sending a Gift Certificate</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200268730/ref=hp_ln_ggs_gcq">Gift Certificate FAQ's</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200272910/ref=hp_ln_ggs_gctc">Gift Certificate Terms and Conditions</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200268710/ref=hp_ln_ggs_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ggs_gs/?nodeId=200037930">Gift Services</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ggs_sg/?nodeId=502520">Sending a Gift</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ggs_sgc/?nodeId=200272630">Sending a Gift Certificate</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ggs_gcq/?nodeId=200268730">Gift Certificate FAQ's</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ggs_gctc/?nodeId=200272910">Gift Certificate Terms and Conditions</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ggs_more/?nodeId=200268710">More...</a></div>
 <div class="cs-orange-head">Amazon MP3 Downloads</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200274410/ref=hp_ln_mpt_faq">Amazon MP3 FAQs</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200274430/ref=hp_ln_mpt_dl">Using the Amazon MP3 Downloader</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200274470/ref=hp_ln_mpt_bd">How to Buy MP3 Downloads</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200274390/ref=hp_ln_mpt_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mpt_faq/?nodeId=200274410">Amazon MP3 FAQs</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mpt_dl/?nodeId=200274430">Using the Amazon MP3 Downloader</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mpt_bd/?nodeId=200274470">How to Buy MP3 Downloads</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mpt_more/?nodeId=200274390">More...</a></div>
 <div class="cs-orange-head">Dispatch &amp; Delivery&nbsp;</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=529936/ref=hp_ln_dd_wms">Where's My Stuff?</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3793221/ref=hp_ln_dd_pdr">There's a Problem with a Delivery I've Received</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200182130/ref=hp_ln_dd_prm">Amazon Prime</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=69502011/ref=hp_ln_dd_exd">Express Delivery</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200173380/ref=hp_ln_dd_evd">Evening Delivery</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=10790441/ref=hp_ln_dd_fcd">First Class</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200039400/ref=hp_ln_dd_ssd">Free Super Saver Delivery</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492868/ref=hp_ln_dd_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_wms/?nodeId=529936">Where's My Stuff?</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_pdr/?nodeId=3793221">There's a Problem with a Delivery I've Received</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_prm/?nodeId=200182130">Amazon Prime</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_exd/?nodeId=69502011">Express Delivery</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_evd/?nodeId=200173380">Evening Delivery</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_fcd/?nodeId=10790441">First Class</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_ssd/?nodeId=200039400">Free Super Saver Delivery</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_dd_more/?nodeId=492868">More...</a></div>
 <div class="cs-orange-head">Returns &amp; Refunds</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200142750/ref=hp_ln_rr_wee">WEEE Legislation </a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1161002/ref=hp_ln_rr_ri">How to Return an Item</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1161010/ref=hp_ln_rr_rmi">How to Return a Marketplace Item</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1161020/ref=hp_ln_rr_ysr">Your Statutory Rights</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=502480/ref=hp_ln_rr_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_rr_wee/?nodeId=200142750">WEEE Legislation </a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_rr_ri/?nodeId=1161002">How to Return an Item</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_rr_rmi/?nodeId=1161010">How to Return a Marketplace Item</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_rr_ysr/?nodeId=1161020">Your Statutory Rights</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_rr_more/?nodeId=502480">More...</a></div>
 <div class="cs-orange-head">Amazon.co.uk Marketplace</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3149631/ref=hp_ln_mp_wmo">Where's my Marketplace Order?</a> </div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13000831/ref=hp_ln_mp_mbf">Marketplace Buying FAQs</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13000821">Marketplace Selling FAQs</a> </div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=3149611/ref=hp_ln_mp_dr">Marketplace Delivery Rates</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200210920/ref=hp_ln_mp_dt">Marketplace Delivery Times</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=10293921/ref=hp_ln_mp_oth">Other Ways to Make Money at Amazon.co.uk</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3149101/ref=hp_ln_mp_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_wmo/?nodeId=3149631">Where's my Marketplace Order?</a> </div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3149541">Communicating with Marketplace Sellers</a> </div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_mbf/?nodeId=13000831">Marketplace Buying FAQs</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_msf/?nodeId=13000821">Marketplace Selling FAQs</a> </div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_dr/?ie=UTF8&amp;nodeId=3149611">Marketplace Delivery Rates</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_dt/?nodeId=200210920">Marketplace Delivery Times</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_oth/?nodeId=10293921">Other Ways to Make Money at Amazon.co.uk</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_mp_more/?nodeId=3149101">More...</a></div>
 <div class="cs-orange-head">Manage Your Account</div>
 <div class="cs-caret-list nav"><a href="https://www.amazon.co.uk/gp/css/account/forgot-password/email.html/ref=hp_ln_ma_fyp/">Forgot Your Password</a> </div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1093784/ref=hp_ln_ma_lo">Logging Out from Amazon.co.uk</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=561338/ref=hp_ln_ma_co">Changing Your Order</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=10293931/ref=hp_ln_ma_cad">Changing Your Account Details</a></div>
-<div class="cs-caret-list nav"><a href="https://www.partnerandaffinitycards.co.uk/Servicing/Logon.aspx?brand=AMZ01">Manage Your Amazon.co.uk MasterCard Account</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492862/ref=hp_ln_ma_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ma_lo/?nodeId=1093784">Logging Out from Amazon.co.uk</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ma_co/?nodeId=561338">Changing Your Order</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ma_cad/?nodeId=10293931">Changing Your Account Details</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ma_more/?nodeId=492862">More...</a></div>
 <div class="cs-orange-head">Extras &amp; Services</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13457261/ref=hp_ln_es_mc">Amazon.co.uk MasterCard</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=924452/ref=hp_ln_es_yr">Your Recommendations</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=748390/ref=hp_ln_es_wl">Wish List</a></div>
-<div class="cs-caret-list nav"><a href="http://www.amazon.com/gp/browse.html?node=3435361/ref=hp_ln_es_ws">Amazon Web Services</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492876/ref=hp_ln_es_more">More...</a></div>
+
+<div class="cs-caret-list nav"><a href="http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=13457261">Amazon.co.uk MasterCard</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_es_yr/?nodeId=924452">Your Recommendations</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_es_wl/?nodeId=748390">Wish List</a></div>
+<div class="cs-caret-list nav"><a href="http://www.amazon.com/gp/browse.html?node=3435361">Amazon Web Services</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_es_more/?nodeId=492876">More...</a></div>
 <div class="cs-orange-head">Security &amp; Privacy </div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=502584/ref=hp_ln_sp_pn">Privacy Notice</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=541522/ref=hp_ln_sp_escp">E-mail Subscriptions &amp; Communication Preferences</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=11081621/ref=hp_ln_sp_sot">Safe &amp; Secure Online Transactions</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492866/ref=hp_ln_sp_more">More...</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_sp_pn/?nodeId=502584">Privacy Notice</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_sp_escp/?nodeId=541522">E-mail Subscriptions &amp; Communication Preferences</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_sp_sot/?nodeId=11081621">Safe &amp; Secure Online Transactions</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_sp_more/?nodeId=492866">More...</a></div>
 <div class="cs-orange-head">
 <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13440451"></a></div>Publisher &amp; Vendor Guides</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3933/ref=hp_ln_pv_bk">Books</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3908/ref=hp_ln_pv_ms">Music</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=4052/ref=hp_ln_pv_dvd">DVD &amp; VHS</a> </div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3906/ref=hp_ln_pv_more">More... </a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_pv_bk/?nodeId=3933">Books</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_pv_ms/?nodeId=3908">Music</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_pv_dvd/?nodeId=4052">DVD &amp; VHS</a> </div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_pv_more/?nodeId=3906">More... </a></div>
 <div class="cs-orange-head">Useful Information</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=502550/ref=hp_ln_ui_svs">Sound &amp; Video Samples</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=746682/ref=hp_ln_ui_eb">e-Books</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=11091691/ref=hp_ln_ui_dvd">DVD Help &amp; Information</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=492880/ref=hp_ln_ui_more">More...</a> </div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ui_svs/?nodeId=502550">Sound &amp; Video Samples</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ui_eb/?nodeId=746682">e-Books</a></div>
+<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ui_dvd/?nodeId=11091691">DVD Help &amp; Information</a></div>
+<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_ln_ui_more/?nodeId=492880">More...</a> </div>
 
 		</div>
 </div>
@@ -1061,6 +792,9 @@ Help Topics</div></div>
 
 			</div>
 			<div id="cs-content-col" style="width: 68%">
+
+
+
                            <div class="cs-help-content-wrapper">
 <p><a></a><a name="PrivacyNotice"></a><b><span class="lftnavorange"></span></b></p><h1><b>Amazon.co.uk Privacy
 Notice</b></h1><p></p>
@@ -1521,10 +1255,6 @@ top</a><br><br><a name="PrivacyNotice"></a>
 
 
 
-
-
-
-
 <div class="cs-flexi-top-g-blue">
 <div></div>
 </div>
@@ -1557,7 +1287,7 @@ top</a><br><br><a name="PrivacyNotice"></a>
 
 
 <div class="cs-list">
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;os=profile" class="expander">Account Profile</a>
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584&amp;os=profile" class="expander">Account Profile</a>
 </div>
 
 
@@ -1574,7 +1304,7 @@ top</a><br><br><a name="PrivacyNotice"></a>
 
 
 <div class="cs-list">
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;os=billing" class="expander">Payment &amp; Addresses</a>
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584&amp;os=billing" class="expander">Payment &amp; Addresses</a>
 </div>
 
 
@@ -1588,7 +1318,7 @@ top</a><br><br><a name="PrivacyNotice"></a>
 
 
 <div class="cs-list">
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;os=ordering" class="expander">Ordering Settings</a>
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584&amp;os=ordering" class="expander">Ordering Settings</a>
 </div>
 
 
@@ -1601,7 +1331,7 @@ top</a><br><br><a name="PrivacyNotice"></a>
 
 
 <div class="cs-list">
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;os=lists" class="expander">Lists</a>
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584&amp;os=lists" class="expander">Lists</a>
 </div>
 
 
@@ -1615,7 +1345,7 @@ top</a><br><br><a name="PrivacyNotice"></a>
 
 
 <div class="cs-list">
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;os=content" class="expander">Your Content</a>
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584&amp;os=content" class="expander">Your Content</a>
 </div>
 
 
@@ -1683,143 +1413,126 @@ Get Express customer service or contact us by e-mail or phone.
 		</div>
                 <div class="cs-clear"></div>
 	</div>
-</div>
+
 
 <br clear="all"><br clear="all">
 
 
-<script type="text/javascript">
 
 
-                                                                                                                          
 
-</script>
+
 
 
 
 <div class="csBottomNavLinks">
 
-<table border="0" width="100%" cellpadding="1" cellspacing="0" bgcolor="#999999" style="margin-bottom: 15px;">
-<tbody><tr><td>
-<table border="0" width="100%" bgcolor="#ffffff" cellspacing="0" cellpadding="5">
-<tbody><tr valign="top">
-<td width="33%">
-<h4 class="wonderbar-list-header">Where's My Stuff?</h4>
-<ul class="wonderbar-list">
-<li>track your <a href="https://www.amazon.co.uk/gp/css/history/view.html?ie=UTF8&amp;is-secure=true&amp;orderFilter=wheres-my-stuff" rel="nofollow">recent orders</a></li>
-<li>view or change your orders in <a href="/gp/css/homepage.html" rel="nofollow">Your Account</a></li>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navFooter">
+  <table cellspacing="0">
+    <tbody><tr>
+      <td>
+        <table class="navFooterThreeColumn" cellspacing="0">
+          <tbody><tr>
+					  <td class="navFooterColSpacerOuter"></td>
+            <td class="navFooterLinkCol">
+<div class="navFooterColHead">Get to Know Us</div>
+<ul>
+<li><a href="/b?ie=UTF8&amp;node=202594011">Careers</a></li>
+<li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fp%3Dirol-irhome%26c%3D97664&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C">Investor Relations</a></li>
+<li><a href="/gp/press/home/2009">Press Releases</a></li>
+<li><a href="/Amazon-and-our-Planet/b?ie=UTF8&amp;node=299737031">Amazon and Our Planet</a></li>
+</ul>
+</td>
+<td class="navFooterColSpacerInner"></td>
+<td class="navFooterLinkCol">
+<div class="navFooterColHead">Make Money with Us</div>
+<ul>
+<li><a href="/gp/seller-account/mm-product-page.html?ie=UTF8&amp;topic=200314070">Sell on Amazon</a></li>
+<li><a href="https://affiliate-program.amazon.co.uk">Associates Programme</a></li>
+<li><a href="/gp/seller/fba/fulfillment-by-amazon.html">Fulfilment by Amazon</a></li>
+<li><span class="navFooterRightArrowBullet">›</span> <a href="/gp/seller-account/mm-landing.html?ie=UTF8&amp;topic=200313300">See all</a></li>
+</ul>
+</td>
+<td class="navFooterColSpacerInner"></td>
+<td class="navFooterLinkCol">
+<div class="navFooterColHead">Let Us Help You</div>
+<ul>
+<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=492868">Delivery Rates &amp; Policies</a></li>
+<li><a href="/gp/subs/primeclub/signup/main.html">Amazon Prime</a></li>
+<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502480">Returns</a></li>
+<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=471044">Help</a></li>
 </ul>
 </td>
 
-<td width="33%">
-<h4 class="wonderbar-list-header">Delivery and Returns</h4>
-<ul class="wonderbar-list">
+            <td class="navFooterColSpacerOuter"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="navFooterLine navFooterLogoLine">
+          <a href="/"><img src="http://g-ecx.images-amazon.com/images/G/02/gno/images/general/navAmazonLogoFooter._V28243301_.gif" width="133" alt="amazon.co.uk" height="28" border="0"></a>
+        </div>
+        <div class="navFooterLine navFooterLinkLine">
+          <a href="http://www.amazon.ca">Canada</a> |
+<a href="http://www.amazon.cn">China</a> |
+<a href="http://www.amazon.fr">France</a> |
+<a href="http://www.amazon.de">Germany</a> |
+<a href="http://www.amazon.co.jp">Japan</a> |
+<a href="http://www.amazon.com">United States</a>
+					
+          <span>
+            &nbsp;And don't forget:
+<a href="http://www.abebooks.co.uk">AbeBooks</a> |
+<a href="http://www.audible.co.uk">Audible</a> |
+<a href="http://www.dpreview.co.uk">DPReview</a> |
+<a href="http://uk.imdb.com">IMDb</a> |
+<a href="http://www.javari.co.uk">Javari</a> |
+<a href="http://www.soundunwound.com">SoundUnwound</a>
+
+          </span>
+        </div>
+        <div class="navFooterLine navFooterLinkLine">
+          <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616">Conditions of Use &amp; Sale</a> |
+<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584">Privacy Notice</a>
+<span>
+&nbsp;© 1996-2009, Amazon.com, Inc. or its affiliates
+</span>
+
+        </div>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+
+<!-- whfh-5/AJQssi2R1AjufXDNz2xygJdSzEXNcc3/KZCS90ncs= rid-07JZ82N2P4HRC428JD9X -->
 
 
-<li>see our <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502482">delivery rates and policies</a></li>
-
-
-
-<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502480">thinking of returning an item</a>? (See our <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502480">Returns Policy</a>)</li></ul>
-</td>
-
-
-
-
-
-
-<td width="33%">
-<h4 class="wonderbar-list-header">Need Help?</h4>
-<ul class="wonderbar-list">
-<li><a href="https://www.amazon.co.uk/gp/css/account/forgot-password/email.html">Forgot your password?</a></li>
-<li>Buy <a href="/exec/obidos/subst/gifts/gift-certificates/gift-certificates.html">Gift Certificates</a>.</li>
-
-
-
-
-<li>still have questions? <a href="/gp/help/customer/display.html">Visit our Help Pages</a></li></ul>
-</td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-
-
-
-
-
-
-<table width="100%">
-  <tbody><tr>
-    <td width="50%" valign="top" align="left">
-    </td>
-    <td width="50%" valign="top" align="right">
-      <font size="-1">
-	<a href="#top">Top of Page</a>
-      </font>
-    </td>
-  </tr>
-</tbody></table>
-
-<p>
-
-
-
-
-
-
-<table width="100%" align="center" border="0"><tbody><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr align="center"><td colspan="2">
-International Sites:&nbsp;
-<a href="http://www.amazon.com">United States</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.amazon.de">Germany</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.amazon.fr">France</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.amazon.co.jp">Japan</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.amazon.ca">Canada</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.joyo.com">China</a>
-</td></tr>
-</tbody></table></td></tr><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-
-
-<tbody><tr align="center"><td colspan="2">
-
-
-
-
-
-
-
-
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502564" rel="nofollow">Customer Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/help/customer/display.html" rel="nofollow">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/cart/view.html?ie=UTF8&amp;%2AVersion%2A=1&amp;%2Aentries%2A=0" rel="nofollow">View Basket</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/css/homepage" rel="nofollow">Your Account</a></td></tr>
-</tbody></table></td></tr><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-
-
-
-
-
-
-<tbody><tr align="center"><td colspan="2">
-  <a href="/gp/press/info/home">About Amazon.co.uk</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/b?ie=UTF8&amp;node=202594011">Careers at Amazon</a>
-</td></tr>
-</tbody></table></td></tr></tbody></table>
-
-<table width="100%" align="center" border="0">
-  <tbody><tr>
-    <td>
-      <table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-        
-
-
-<tbody><tr align="center"><td colspan="2">
-<font size="-2">
-
-
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616" rel="nofollow">Conditions of Use &amp; Sale</a>&nbsp;|&nbsp;
-
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584" rel="nofollow">Privacy Notice</a>&nbsp;&nbsp;© 1996-2009, Amazon.com, Inc. and its affiliates</font>
-</td></tr>
-
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-  
-<!-- whfh-kfVzBAeaMbKHrcoTl11/1EulrCuzNg63dAbG+oXErmA= rid-0R0BZ7ME0873N7VJDJK7 -->
-</p></div>
+</div>
 
 
 
