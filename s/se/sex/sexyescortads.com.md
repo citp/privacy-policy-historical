@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexyescortads.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044451id_/http%3A//www.sexyescortads.com/static_pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyescortads.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170721id_/http%3A//www.sexyescortads.com/static_pages/show/privacy) for the most accurate reproduction.*
 
-# Escort Service :: privacy
+# Sexy Escorts :: privacy
 
 |   
 ---  
@@ -22,6 +22,5 @@
 [](http://www.sexyescortads.com/static_pages/print_view/8/ "print") [](http://www.sexyescortads.com/static_pages/email_page/8/ "email") [](http://www.sexyescortads.com/static_pages/pdf_view/8/ "pdf")  
   
 **Bookmark Our Site! (Ctrl+D)** \- **Make Us Your Homepage!**  
-[](http://intimland.com/ads/adclick.php?n=a40e252a)  
 [Terms of Service](http://www.sexyescortads.com/static_pages/show/terms/)  [Compliance with 18 U.S.C. § 2257](http://www.sexyescortads.com/static_pages/show/2257notice/)  [Privacy Policy](http://www.sexyescortads.com/static_pages/show/privacy/)  [FAQ](http://www.sexyescortads.com/faq/)  [Help / Contact](http://www.sexyescortads.com/help/email_form/)   
-© [Escort Service](http://www.sexyescortads.com/help/email_form/), 2002-2009 
+© [Sexy Escorts](http://www.sexyescortads.com/help/email_form/), 2002-2009 
