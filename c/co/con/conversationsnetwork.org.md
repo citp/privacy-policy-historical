@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070102id_/http%3A//www.conversationsnetwork.org/faqPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023103id_/http%3A//www.conversationsnetwork.org/faqPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy for The Conversations Network
 
@@ -14,9 +14,9 @@ In the process of delivering web pages and email, The Conversations Network reco
 
 ### Cookies
 
-A cookie is a small amount of data, optionally stored on a visitor's hard drive, containing information that is placed there by a website. This information is often used to identify successive visits by the same web browser to the same site, or to remember information between sessions on the website. The Conversations Network uses two types of cookies: First, if you check the Remember Me box on the Register or Login pages we will save an encrypted version of your login information as a cookie on your computer. This will allow you or anyone using your computer to bypass the login process on subsequent visits. Second, we will use a temporary cookie (one that will disappear as soon as you close your browser) to make our site easier to use by remembering your preferences from one page to another.
+A cookie is a small amount of data, optionally stored on a visitor's hard drive, containing information that is placed there by a website. This information is often used to identify successive visits by the same web browser to the same site, or to remember information between sessions on the website. The Conversations Network uses two types of cookies: First, we will save an encrypted version of your login information as a cookie on your computer. This will allow you or anyone using your computer to bypass the login process on subsequent visits. Second, we will use a temporary cookie (one that will disappear as soon as you close your browser) to make our site easier to use by remembering your preferences from one page to another.
 
-Some of our advertisers also use cookies and may track your usage patterns in ways beyond our control. For example, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. One such cookie is the [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx) from Google. You can opt-out from the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some of our undewriters and partners also use cookies and may track your usage patterns in ways beyond our control. For example, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. One such cookie is the [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx) from Google. You can opt-out from the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ### Log Files
 
@@ -32,7 +32,7 @@ We may share aggregated demographic information with our partners. Shared aggreg
 
 ### Links
 
-This web site contains links to other sites. Please be aware that The Conversations Network is not responsible for the privacy practices of other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected, and services provided, by our web site.
+Our web sites contain links to other sites. Please be aware that The Conversations Network is not responsible for the privacy practices of other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected, and services provided, by our web site.
 
 ### Email
 
@@ -53,9 +53,9 @@ From time to time we may request information from users via forms or surveys. Pa
 
 ### Security
 
-This website (www.conversationsnetwork.org) does not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. If you receive email requesting any such information, please report it immediately to webmaster@conversationsnetwork.org.
+Our web sites do not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. If you receive email requesting any such information, please report it immediately to webmaster@conversationsnetwork.org.
 
-### Notification of Changes
+Please keep in mind, however, that whenever you give out personal information online (including, for example, using your passwords) there is a risk that third parties may intercept and use that information. While The Conversations Network strives to protect your perosnal information and privacy, we cannot guarantee the security of any information you disclose online. By using our web sites, you expressly acknowledge and agree that we do not guarantee the security of any data provided to or received by us through your use of our web sites and that any personal information, general information, or other data or information received from your through your use of our web sites is provided to us at your own risk, which you expressly assume.Notification of Changes 
 
 If we materially change our privacy policy, we will post a notice on our web site's homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify registered users via email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
