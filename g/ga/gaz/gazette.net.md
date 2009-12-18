@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202327id_/http%3A//www.gazette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021110id_/http%3A//www.gazette.net/privacy) for the most accurate reproduction.*
 
 # Gazette.Net Maryland Community News
 
