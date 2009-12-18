@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1and1affiliate.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622230621id_/http%3A//www.1and1affiliate.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1affiliate.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021604id_/http%3A//www.1and1affiliate.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # 1&1 Affiliate - CONTACT - Privacy Policy
 
