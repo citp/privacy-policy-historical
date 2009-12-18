@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profootballtalk.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305093008id_/http%3A//www.profootballtalk.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballtalk.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218094505id_/http%3A//profootballtalk.nbcsports.com/about/privacy-policy) for the most accurate reproduction.*
 
-# ProFootballTalk.com - FOOTBALL TALK, LLC. PRIVACY POLICY
+# Privacy Policy | ProFootballTalk.com
 
 covering the practices of [www.profootballtalk.com](http://www.profootballtalk.com/) and [www.collegefootballtalk.com](http://www.collegefootballtalk.com/)
 
