@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiproject.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603233706id_/http%3A//www.xb-wiki.com/index.php/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiproject.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218224002id_/http%3A//www.xb-wiki.com/index.php/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Xb
 
