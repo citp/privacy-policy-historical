@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524202103id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218184600id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Samuel Merritt University
 
@@ -18,7 +18,7 @@ This policy applies to all divisions of the University and to all personal infor
 
 **Policy:**
 
->   * Collection Methods: Personal information is collected for various purposes though website forms. In most cases, such information is delivered to relevant college employees through our internal email server. In some cases, the contents of these forms are collected in databases; in such cases, those databases are stored and maintained within our internal network and are not accessible to anyone inside or outside SMU without explicit permissions being granted.
+>   * Collection Methods: Personal information is collected for various purposes though website forms. In most cases, such information is delivered to relevant university employees through our internal email server. In some cases, the contents of these forms are collected in databases; in such cases, those databases are stored and maintained within our internal network and are not accessible to anyone inside or outside SMU without explicit permissions being granted.
 > 
 
 
