@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedmyinbox.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071328id_/http%3A//www.feedmyinbox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedmyinbox.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024053id_/http%3A//www.feedmyinbox.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Feed My Inbox ~ Privacy Policy ~ Feed to Email
 
@@ -18,4 +18,4 @@ Spam sucks. We never sell or rent your personal information. Your email address 
 
 #### Questions?
 
-Please don't hesitate to [touch base](https://web.archive.org/web/20090617071328id_/http://www.feedmyinbox.com/pages/help/ "Help Page").
+Please don't hesitate to [touch base](https://web.archive.org/web/20091218024053id_/http://www.feedmyinbox.com/pages/help/ "Help Page").
