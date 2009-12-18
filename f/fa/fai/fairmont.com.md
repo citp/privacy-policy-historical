@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015842id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218011638id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,11 +26,13 @@ The Privacy Protection Policy does not apply to information regarding Fairmont H
 
 2. By registering with Fairmont Hotels & Resort's loyalty program, President's Club.
 
-3. By providing it to us in communications regarding service delivery such as comment cards.
+3. By registering on the Everyone’s an Original website.
 
-4. By providing the information to us by participating in a marketing initiative.
+4. By providing it to us in communications regarding service delivery such as comment cards.
 
-5. By visiting our website.
+5. By providing the information to us by participating in a marketing initiative.
+
+6. By visiting our website.
 
 Below we will outline the type of information normally collected in each of these circumstances, the reasons for doing so, how we will use it and store it.
 
@@ -38,9 +40,9 @@ Below we will outline the type of information normally collected in each of thes
 
 When making a reservation or using Fairmont Hotels & Resorts services it is necessary to have information in order to identify you, contact you and to process your purchase and requests. This information usually includes your name, address, phone number, e-mail address, credit card number and expiration date, and language preference. It may also include, if you choose to share that information with us, your preferences regarding the delivery of your service such as type of room, type of bed, and the like. You may wish to have your purchase of Fairmont Hotels & Resorts' services recognized in a third party's loyalty program with which Fairmont Hotels & Resorts has a relationship. To do so will require you providing us certain verification information such as your membership number in the third party program. We also offer special discounts from time to time that may have qualifying criteria. Sometimes we offer special offers to, for example, seniors or for children. To assess your eligibility and process your reservation correctly, we need to record your date of birth at the time of booking. You may be required to provide personal identification with your date of birth in order to verify this upon check-in.
 
-Fairmont Hotels & Resorts, is a family of management companies that manage hotels for third party owners. Your personal information is shared with the third party owner of the hotel where you intend to stay and those of its employees involved in delivering the service to you to the extent necessary for them to do so and to process the transaction. All hotels that are managed by Fairmont Hotels & Resorts are required agree to abide by the terms of this Privacy Protection Policy.
+Fairmont Hotels & Resorts, is a family of management companies that manage hotels for third party owners. Your personal information is shared with the third party owner of the hotel where you intend to stay and those of its employees involved in delivering the service to you to the extent necessary for them to do so and to process the transaction. All hotels that are managed by Fairmont Hotels & Resorts are required to agree to abide by the terms of this Privacy Protection Policy.
 
-From time to time, we offer packages or other services that involve third parties. If you are partaking of such a package or service your personal information will be shared with that third party to the extent necessary to provide that service and process the purchase or request.
+From time to time, we offer packages or other services that involve third parties. If you are partaking of such a package or service, your personal information will be shared with that third party to the extent necessary to provide that service and process the purchase or request.
 
 Fairmont Hotels & Resorts may use the information you provide to send you offers and information about Fairmont Hotels & Resorts services and those of select third parties. Your information will not be given to these third parties but rather the offer of the third party will be provided to Fairmont Hotels & Resorts which will manage the distribution.
 
@@ -48,7 +50,17 @@ If you do not wish to receive such offers and information you may unsubscribe or
 
 **REGISTERING WITH FAIRMONT HOTELS & RESORTS' LOYALTY PROGRAM, FAIRMONT PRESIDENT'S CLUB**
 
-As a customer of Fairmont Hotels & Resorts you have the opportunity to belong to its loyalty program, President's Club. Because the program is designed to deliver a higher degree of personalization of service, additional personal information will be required. Membership is voluntary. By choosing to join you have consented to the supply of and use of the personal information as more particularly outlined in the President's Club Privacy Protection Policy.
+As a customer of Fairmont Hotels & Resorts you have the opportunity to belong to it's loyalty program, Fairmont President's Club.  Fairmont President's Club is designed to deliver a higher level of personalization and service, additional personal information will be required. Membership is voluntary. By choosing to enroll you have consented to the supply of and use of your personal information as more particularly outlined in the President's Club Terms and Conditions.  Please [click here](https://web.archive.org/EN_FA/FPCPublic/FPCTermsAndConditions.htm?DisplayType=popup) to view the Fairmont President's Club Terms and Conditions.
+
+**REGISTERING ON THE EVERYONE’S AN ORIGINAL WEBSITE**
+
+Individuals interested in sharing their experiences at Fairmont Hotels & Resorts may wish to do so through our Everyone’s an Original website. Although registration is not required to view the site, it is required to enable sharing and other functions on that website. The personal information you provide during registration is used to validate your identity and to enable us to manage and administer your contributions to the website, and to contact you regarding your contributions or use of the website. We may also use your information to contact you about updates or changes to the website, shared content that may be of interest to you, or other offers and information related to Fairmont Hotels & Resorts or marketing partners whose products and services may be of interest to you.
+
+We may from time to time use third party service providers to facilitate the operation of the Everyone’s an Original website. As a result, your personal information may be accessed, administered or stored by such third parties to the extent reasonably required for them to perform such services. Some service providers may be located in other jurisdictions that do not have privacy legislation similar to that found in Canada, and information in such jurisdictions may be accessed pursuant to the laws of those countries.
+
+If you have become a member of the President’s Club, you may also use your President’s Club details to register on Everyone’s an Original website instead of a separate registration. If you choose to do so, you consent to the use of personal information you provided in the course of your enrolment in the President’s clubClub to facilitate such registration, to login to the website and for the purposes described above.
+
+Use of the Everyone’s an Original website is also subject to the [Everyone’s an Original Terms and Conditions](http://www.everyonesanoriginal.com/termsandconditions/ "Everyone's An Original Terms and Conditions").
 
 **INFORMATION PROVIDED TO US IN COMMUNICATIONS REGARDING SERVICE DELIVERY SUCH AS COMMENT CARDS**
 
@@ -58,13 +70,13 @@ Information provided to us in such a fashion will be used solely for the purpose
 
 To sign up for this service we require you to provide us with your e-mail address, first name, last name, language preference, and country of residence. You may unsubscribe at any time using the link provided on every e-mail message and you will no longer receive e-mail offers and promotions for the specified subscription or website, as the case may be. You may at any time in the future opt-in to receive e-mail offers.
 
-**BY VISITING OUR WEBSITE**
+**BY VISITING ONE OF OUR WEBSITES**
 
-We use "cookies" on our website. Cookies are pieces of information that an Internet site transfers to your hard drive for record-keeping purposes. The use of cookies is an industry standard -- you'll find them almost everywhere on the Internet. Fairmont uses cookies to recognize visitors when they return to our sites. Once we know it's you, we can customize your online visit.
+We use "cookies" on our websites. Cookies are pieces of information that an Internet site transfers to your hard drive for record-keeping purposes. The use of cookies is an industry standard -- you'll find them almost everywhere on the Internet. Fairmont uses cookies to recognize visitors when they return to our sites. Once we know it's you, we can customize your online visit.
 
 We may also evaluate our content and services and tailor our websites, for visitors, based on other information we collect such as IP addresses, which are numbers assigned to your computer whenever you use the Internet, pixel tags (or clear gifs), and the type of Internet browser or operating system you are using. This information is collected in the aggregate, but we may tie it to your personal information through cookie use as described above.
 
-Our company contracts under the confidentiality restrictions mentioned above with Coremetrics, a service partner, to provide data collection and reports regarding our customers' activities on our site. Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity. Coremetrics may store member ID, city, state, zip code, and email address on our behalf. Under no circumstances may Coremetrics use your information other than in connection with providing services to us to make our site more useful and efficient. If you would like to opt out of these particular services, please [[CLICK HERE](https://web.archive.org/EN_FA/Help/coremetrixoptout.htm?DisplayType=Popup)]. 
+Our company contracts under the confidentiality restrictions mentioned above with Coremetrics, a service partner, to provide data collection and reports regarding our customers' activities on our sites. Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity. Coremetrics may store member ID, city, state/province, zip/postal code, and email address information on our behalf. Under no circumstances may Coremetrics use your information other than in connection with providing services to us to make our site more useful and efficient. If you would like to opt out of these particular services, please [click here](https://web.archive.org/EN_FA/Help/coremetrixoptout.htm?DisplayType=Popup). 
 
 **WHY WE COLLECT PERSONAL INFORMATION**
 
@@ -127,3 +139,5 @@ Canada
 M5K 1B7
 
 Attention: Privacy Officer, Law Department
+
+[Rev. 1.10, November 3, 2009]
