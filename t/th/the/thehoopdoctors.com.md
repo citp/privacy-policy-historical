@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehoopdoctors.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618083443id_/http%3A//thehoopdoctors.com/online/%3Fpage_id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehoopdoctors.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022716id_/http%3A//thehoopdoctors.com/online/%3Fpage_id%3D18) for the most accurate reproduction.*
 
 # The Hoop Doctors Privacy Policy | thehoopdoctors.com
 
