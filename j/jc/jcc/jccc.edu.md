@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193224id_/http%3A//jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218083416id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
 
 # JCCC::Web Site Privacy Policy
 
@@ -16,7 +16,7 @@ Personal data collected by JCCC will be used by JCCC for editorial and feedback 
 
 3\. COLLECTION OF PERSONAL DATA FROM CHILDREN 
 
-JCCC will not collect or post information from children under the age of sixteen (children) without their parents' or guardians' consent. JCCC does not provide any personally identifying information collected from children, regardless of its source, to any third party for any purpose whatsoever. No information collected from children is used for any marketing or promotional purposes whatsoever, either inside or outside JCCC. 
+JCCC will not collect or post information from children under the age of sixteen (children) without their parents' or guardians' consent. JCCC does not provide any personally identifying information collected from children, regardless of its source, to any third-party for any purpose whatsoever. No information collected from children is used for any marketing or promotional purposes whatsoever, either inside or outside JCCC. 
 
 4\. JCCC'S RIGHT TO CONTACT USER 
 
