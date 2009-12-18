@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419173101id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023927id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | Sheffeild Hallam University
+# Privacy policy | Sheffield Hallam University
 
-This website ([www.shu.ac.uk](https://web.archive.org/web/20090419173101id_/http%3A//www.shu.ac.uk/)) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it.  This policy explains why and how we collect and use your personal data.
+This website ([www.shu.ac.uk](https://web.archive.org/web/20091218023927id_/http%3A//www.shu.ac.uk/)) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it.  This policy explains why and how we collect and use your personal data.
 
-We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1st January 2009.
+We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1 January 2009.
 
 ### 1.  Use of information provided by visitors
 
@@ -18,17 +18,17 @@ We may use mailing houses to process certain mailings and external research agen
 
 We will use any demographic information you provide for market research purposes (in aggregate form) only.  These statistics will not include any information that could be used to identify any individual.
 
-If you choose to receive further communication from Sheffield Hallam University, you may change your mind at any time by writing to us or emailing us using the following contact details
+If you choose to receive further communication from Sheffield Hallam University, you may change your mind at any time by writing to us or e-mailing us using the following contact details
 
 Steven Hunter   
-Web Marketing Manager   
+Digital Marketing Communications Manager   
 Department of Marketing   
 Sheffield Hallam University   
 City Campus   
 Sheffield   
 S1 1WB 
 
-Email: webclinic@shu.ac.uk 
+E-mail: [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk)
 
 **b) Subscription services**
 
@@ -58,11 +58,13 @@ Most browsers allow you choose whether cookies are used or not. The 'help' porti
 
 ### 4\. Inaccurate data
 
-The University will make reasonable endeavours to ensure that the information it places on our website is accurate.  However, the University does not accept responsibility for any losses caused by errors or inaccuracies in the information within the website. If you believe that any information Sheffield Hallam University has published on the website is incorrect, you should email [webclinic@shu.ac.uk](mailto:webclinic@shu.ac.uk) or write to the Web Marketing Manager at the address below and any information which is found to be incorrect will be corrected as soon as possible.      
+The University will make reasonable endeavours to ensure that the information it places on our website is accurate.  However, the University does not accept responsibility for any losses caused by errors or inaccuracies in the information within the website. 
+
+If you believe that any information Sheffield Hallam University has published on the website is incorrect, you should e-mail [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk) or write to the address below - any information which is found to be incorrect will be corrected as soon as possible.      
 
 
 Steven Hunter   
-Web Marketing Manager  
+Digital Marketing Communications Manager  
 Department of Marketing  
 Sheffield Hallam University  
 City Campus  
@@ -72,10 +74,10 @@ S1 1WB
 
 ### 5.  Feedback 
 
-If you feel this site is not following its stated privacy policy, you may contact us at [webclinic@shu.ac.uk](mailto:webclinic@shu.ac.uk) or write to 
+If you feel this site is not following its stated privacy policy, you may contact us at [creativedigital@shu.ac.uk](mailto:creativedigital@shu.ac.uk) or write to 
 
 Steven Hunter  
-Web Marketing Manager  
+Digital Marketing Communications Manager  
 Department of Marketing  
 Sheffield Hallam University  
 City Campus,   
