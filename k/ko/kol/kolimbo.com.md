@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kolimbo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035638id_/http%3A//www.kolimbo.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolimbo.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113424id_/http%3A//www.kolimbo.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Kolimbo
 
-**Effective January 1, 2000**
+**Effective January 1, 2009**
 
 We respect you and we hold your personal information private. 
 
@@ -26,10 +26,6 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-## WebTrends Live
-
-[WebTrends Live](http://www.webtrendslive.com/) is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/wtl_marcom/privacy_policy.htm). 
-
 ## Choice/Opt-Out
 
 We do not provide your personal information, including email address, to any third party. 
@@ -38,18 +34,17 @@ You will only receive communications from KowaBunga! Technologies.
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to: [rachel@Kowabunga.com](mailto:rachel@Kowabunga.com). 
+You can send email to: [kolimbohelp@kowabunga.com](mailto:kolimbohelp@kowabunga.com). 
 
 ## Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-You can send email to: [rachel@Kowabunga.com](mailto:rachel@Kowabunga.com). 
+You can send email to: [kolimbohelp@kowabunga.com](mailto:kolimbohelp@kowabunga.com). 
 
 Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Rachel Honoway  
-KowaBunga! Technologies  
-962 Newburgh Rd  
-Westland, MI 48185  
-[rachel@Kowabunga.com](mailto:rachel@Kowabunga.com)
+Inuvo  
+15550 Lightwave Drive, Suite 300  
+Clearwater, FL 33760  
+[kolimbohelp@Kowabunga.com](mailto:kolimbohelp@Kowabunga.com)
