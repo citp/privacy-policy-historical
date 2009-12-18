@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193537id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022923id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
 
 # Radiology, FAQ
 
   
 Frequently Asked Questions  
  **Privacy Policy**  
-March 15, 2004  
-As you know, we collect and, in some cases, disclose information about you as part of the normal operation of our site. This Privacy Policy describes the information we collect about you and what may happen to that information. As described below, some information we collect from you is disclosed to third parties and used by us and third parties. When you use the AuntMinnie.com ("AuntMinnie") site, you expressly consent to such use and disclosure of your information. 
+March 15, 2004As you know, we collect and, in some cases, disclose information about you as part of the normal operation of our site. This Privacy Policy describes the information we collect about you and what may happen to that information. As described below, some information we collect from you is disclosed to third parties and used by us and third parties. When you use the AuntMinnie.com ("AuntMinnie") site, you expressly consent to such use and disclosure of your information. 
 
 AuntMinnie may amend this Privacy Policy at any time by posting the amended policy on the AuntMinnie site, and such amendments will become effective upon posting. 
 
@@ -24,7 +23,7 @@ Attention: Privacy Policy
 Information About You  
 Our site's registration form requires you to provide personal information (including without limitation name, email address, street address, telephone number and fax number). We will also collect transaction information (including without limitation prices, item descriptions, shipping destinations and other transaction-related information) about the listings and bids you place and transactions you conduct through our site. Without your permission, we do not intend to sell or rent any of your personally identifiable information to third parties. When you voluntarily list equipment for sale, place bids on equipment, purchase products or services, or enter into transactions with other users or third parties through our site, these parties may be provided with your personally identifiable information and transaction information in connection with such activities and transactions. 
 
-We do presently aggregate personally identifiable information and knowlingly disclose such information in aggregate for a number of business purposes, but in these situations we do not, in the normal course, disclose to other entities any information that could be used to personally identify you. 
+We do presently aggregate personally identifiable information and knowingly disclose such information in aggregate for a number of business purposes, but in these situations we do not, in the normal course, disclose to other entities any information that could be used to personally identify you. 
 
 We use this information in the normal operation of the site and we may disclose this information on an aggregated basis. Also, we may use information we obtain from you to display on our site ads or offers from advertisers that we think may be relevant to you, but in these cases we do not disclose any personally identifiable information about you to third parties. 
 
