@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418233123id_/http%3A//www.atlus.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218185611id_/http%3A//atlus.com/privacypolicy.php) for the most accurate reproduction.*
 
 # :::: Atlus.com ::::
 
