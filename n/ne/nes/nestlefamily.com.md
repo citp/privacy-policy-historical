@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620051414id_/http%3A//www.nestlefamily.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestlefamily.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218184045id_/http%3A//www.nestlefamily.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Nestlé Family
+# Privacy Policy - Nestlé Family
 
 Effective Date: 10/25/2006  
 Last Updated On: 5/29/2009
