@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617032002id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218163320id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>IronPlanet - Privacy Statement</title>
 		
 	<!-- Meta Tag Include -->
@@ -11,13 +11,33 @@
 
 	
 	<!-- Global Stylesheets -->
-	<link rel="stylesheet" type="text/css" href="/css/en/ip_nd.css">
-<script language="javascript">
+	
+
+
+<link rel="stylesheet" type="text/css" href="/css/ip_styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/en/ip_styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/ip_styles_buttons.css">
+<link rel="stylesheet" type="text/css" href="/css/en/ip_styles_buttons.css">
+
+<!--[if lte IE 7]>
+  <link rel="stylesheet" type="text/css" href="/css/ip_styles_ie7.css">
+  <link rel="stylesheet" type="text/css" href="/css/en/ip_styles_ie7.css">
+<![endif]-->
+
+<script type="text/javascript">
 <!--
 var maxNbOfTrialItems = 0;
+
+if (navigator.platform.indexOf('Mac') >= 0) {
+  document.write('<link rel="stylesheet" type="text/css" href="/css/ip_styles_mac.css">');
+  document.write('<link rel="stylesheet" type="text/css" href="/css/en/ip_styles_mac.css">');
+}
 //-->
 </script>
 
+	
 
 
 	<!-- Common JavaScript -->
@@ -27,20 +47,24 @@ var maxNbOfTrialItems = 0;
 </head>
 <body class="wcon">
 <div style="width:765px" id="bigboy">
-<!-- Begin /jsp/realm/1/nav_bar.jsp -->
 
 
-<script language="JavaScript" src="/js/ipnavbar.js"></script>
-<script>
+
+<!-- Begin /jsp/realm/1/navbar.jsp -->
+
+<script type="text/javascript" src="/js/reg_login_overlay_data.jsp?lngParam=en_US&amp;fmtPrmtr=en_US"></script>
+<script type="text/javascript" src="/js/reg_login_overlay_code.js"></script>
+<script type="text/javascript" src="/js/md5.js"></script>
+<script type="text/javascript" src="/js/ipnavbar.js"></script>
+<script type="text/javascript">
 <!--
-// ============ Login Tracking ===============
 var loggedIn = getCookie("loggedin");
 var loginName = getCookie("login");
 var acsLevel = getCookie("reglevel");
 var termsTips = getCookie(loginName +"-termsTips");
 
 if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
-	var w2 = window.open('/pop/terms_popup.jsp','Terms','width=695, height=435,scrollbars=yes');
+	var w2 = window.open('http://www.ironplanet.com/pop/terms_popup.jsp','Terms','width=695, height=435,scrollbars=yes');
 
 	if(w2 != null)
 		w2.focus();
@@ -52,179 +76,326 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 // ========== End Login Tracking ================================
 
+// ========== Login URL -- use dynamic value here, in case someone wants to direct it to different page after login ============
+var signinurl = '/jsp/acct/login.jsp?h=4';
+
 // -->
 </script>
-<div style="position:absolute; left:15px; top:1px; z-index:4;"><a href="/index.jsp"><img src="/k_images/logo_home.gif" border="0" alt="Home" title="Home"></a></div>
-<table id="yogurt" width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr class="hdr_row1">
-    <td width="172px;"><img src="/k_images/dot.gif" width="172" height="1" alt=""></td>
-    <td><img src="/k_images/dot.gif" width="590" height="1" alt=""><br>
-    	<table style="width:100%;" cellspacing="0" cellpadding="0">
-    	<tbody><tr class="hdr_row1">
-    		<td style="padding-right:2px;">
-    		<span>
-    		  <table cellspacing="0" cellpadding="0">
-    			<tbody><tr>
-    				<td style="padding-right:2px; padding-bottom:5px;" width="100%">
-                                <span style="text-align:right; padding-bottom:5px;">&nbsp;&nbsp;&nbsp;North America 
-                                | <a href="http://www.ironplanet.com.au?rp=2">Australia</a>
-                                | <a href="http://eu.ironplanet.com?rp=3">Europe</a></span>
-                        </td><td style="text-align:right; padding-bottom:5px;" width="1" nowrap="">|</td>
-		    			<td style="text-align:right; padding-bottom:5px; padding-left:2px; padding-right:2px" width="5" nowrap="">
-		    			<script language="JavaScript">
-							document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=es_MX\');">Español</a>');
-						</script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=es_MX');">Español</a>
-						<noscript>
-							<a href="http://es.ironplanet.com">Español</a>
-						</noscript>
-						</td>
-					<td style="text-align:right; padding-bottom:5px;" width="1" nowrap="">|</td>
-		    			<td style="text-align:right; padding-bottom:5px; padding-left:2px; padding-right:2px" width="5" nowrap="">
-		    			<script language="JavaScript">
-							document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=fr_CA\');">Français</a>');
-						</script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=fr_CA');">Français</a>
-						<noscript>
-							<a href="http://fr.ironplanet.com">Français</a>
-						</noscript>
-						</td>
-					
-    		  </tr>
-    		  </tbody></table>
-    		  </span>
-	         </td>
-	         </tr>
-	         <tr class="hdr_row1">
-	          <td>
-				<table style="width:100%" cellspacing="0" cellpadding="0">
-    			<tbody><tr><td style="padding-bottom:3px; padding-left:10px;">         
-	    		<script language="javascript">
-					<!-- 
-					if (loginName == null) loginName = "";
-					  if (loggedIn && loginName != "")  {
-					  document.write("Logged in as: <nobr>"+decodeUTF8(loginName)+"</nobr> | <a href=/jsp/logout_nd.jsp><b>"+"Logout"+"</b></a>");
-					  } else {
-					  document.write("<a href=/jsp/acct/my-account.jsp >"+"Login"+"</a> | "+"<a href='/jsp/acct/register.jsp'>Register Now...</a> it's quick, easy, and FREE!");
-					}
-					// -->
-					</script><a href="/jsp/acct/my-account.jsp">Login</a> | <a href="/jsp/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
-					<noscript>
-						<a href='/jsp/acct/my-account.jsp'>Login</a> or <a href="/jsp/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
-					</noscript>
-			</td>
-    		<td style="text-align:right; padding-bottom:3px;">   		
-    		<a href="/main/contact.jsp">Contact Us</a> : <img src="/k_images/icon_phone4_inv.gif" style="position:relative; top:2px;"> 888-433-5426&nbsp;&nbsp;</td>
-    	</tr>
-    	</tbody></table> 
-    	</td>
-    	</tr>
-    	</tbody></table> 
-    </td>
-</tr>
-<tr class="hdr_row2">
-	<td>&nbsp;</td>
-	<td>
-		<table style="width:100%; max-width:800px; width:expression(document.getElementById('yogurt').offsetWidth > 1000 ? '800px': '100%');" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>		
-			<td class="menu_root" onmouseover="show_menu('m1')" onmouseout="hide_menu('m1')" id="menu1"><a class="menu_item" style="text-align:left; padding-left:10px;" href="/jsp/equip/index.jsp">EQUIPMENT <img src="/k_images/down_arrow.gif" border="0"></a>
-		   		<div class="sub_menu" id="m1">
-		   			
 
-
-
-
-
-
-
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1198&amp;command=NewSearch&amp;h=400" style="display:block">Aerial Work Platforms</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=8&amp;command=NewSearch&amp;h=400" style="display:block">Aggregate</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=12&amp;command=NewSearch&amp;h=400" style="display:block">Asphalt/Paving/Concrete</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=21&amp;command=NewSearch&amp;h=400" style="display:block">Backhoes</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=9&amp;command=NewSearch&amp;h=400" style="display:block">Compactors</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=17&amp;command=NewSearch&amp;h=400" style="display:block">Cranes</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1&amp;command=NewSearch&amp;h=400" style="display:block">Dozers</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=3&amp;command=NewSearch&amp;h=400" style="display:block">Excavators</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=10&amp;command=NewSearch&amp;h=400" style="display:block">Farm Equipment</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=18&amp;command=NewSearch&amp;h=400" style="display:block">Forestry</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1197&amp;command=NewSearch&amp;h=400" style="display:block">Forklifts</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=7&amp;command=NewSearch&amp;h=400" style="display:block">Graders</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1564&amp;command=NewSearch&amp;h=400" style="display:block">Landscaping</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=4&amp;command=NewSearch&amp;h=400" style="display:block">Loaders</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1380&amp;command=NewSearch&amp;h=400" style="display:block">Recreational Vehicles</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=5&amp;command=NewSearch&amp;h=400" style="display:block">Scrapers</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=29&amp;command=NewSearch&amp;h=400" style="display:block">Skid-Steers</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=11&amp;command=NewSearch&amp;h=400" style="display:block">Trucks - Off-Road</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1201&amp;command=NewSearch&amp;h=400" style="display:block">Trucks - On-Road</a>
-	
-	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1764&amp;command=NewSearch&amp;h=400" style="display:block">Water Related Equipment</a>
-	
-
-
-
-
-				
-				<a href="/jsp/equip/index.jsp">MORE CATEGORIES &gt;&gt;</a>
-				<a href="#">&nbsp;</a>
-				<a href="/jsp/equip/index.jsp?page=byLocation">SEARCH BY LOCATION </a>
-				<a href="/jsp/equip/index.jsp?page=byMake">SEARCH BY MAKE </a>
-
-		   		</div>
-		   	</td>
-			<td class="menu_root" onmouseover="show_menu('m2')" onmouseout="hide_menu('m2')" id="menu2"><a class="menu_item" href="/main/auction_calendar.jsp">AUCTION CALENDAR <img src="/k_images/down_arrow.gif" border="0"></a>
-	   	   		<div class="sub_menu" id="m2">
-	   	   			
-
-
-
-
-			<a href="http://www.ironplanet.com/jsp/equip/auction.jsp?groupId=2590" style="display:block">Thu Jun 18</a>
-			
-			<a href="http://www.ironplanet.com/jsp/equip/auction.jsp?groupId=2570" style="display:block">Thu Jun 25</a>
-			
-			<a href="http://www.ironplanet.com/jsp/listing/listing_form.jsp" style="display:block">Thu Jul 9</a>
-			
-
-
-
-
-
-					<a href="#">&nbsp;</a>
-					<a href="/main/auction_calendar.jsp" style="display:block">Future Auctions</a>
-					<a href="/jsp/equip/owner-auction.jsp?displayType=all&amp;view=type&amp;h=">Owner Auctions</a>
-					<a href="/main/auction_results.jsp">Past Auction Results</a>
-		   		</div>
-			</td>
-			<td><a class="menu_item" href="/jsp/s/howto/howtoBuy.html" id="menu3">HOW TO BUY</a></td>
-<td><a class="menu_item" href="/jsp/s/howto/howtoSell.html" id="menu4">HOW TO SELL</a></td>
-<td><a class="menu_item" href="/jsp/acct/my-account.jsp" id="menu5">MY ACCOUNT</a></td>
-<td><a class="menu_item" href="/jsp/equip/index.jsp" id="menu6" style="text-align:right; padding-right:8px;">SEARCH</a></td>
-
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr class="hdr_row3"><td colspan="2"><img src="/k_images/dot.gif" height="2" alt=""></td></tr>
-</tbody></table>
 
 <div id="motd" class="no_motd"></div>
 
+
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr><td rowspan="2" style="width:151px;">
+        <div id="sidebar">
+            <div id="sidebar_pad">
+                <a href="http://www.ironplanet.com/index.jsp" class="replace" id="logo_new" title="IronPlanet" style="margin: 0 0 0 0;"><span></span>ironplanet</a>
+            </div>
+        </div>
+	</td>
+	<td style="vertical-align: bottom;">
+		<table width="100%">
+		<tbody><tr><td style="text-align: left;">
+          <div id="content_location">
+            <ul>
+              <li>
+                <script type="text/javascript">
+                  <!-- 
+                    if (loginName == null) loginName = "";
+                      if (loginName != "")  {
+                      	if(loggedIn) {
+                      		document.write("<span style=\"white-space:nowrap\"><a title='"+decodeUTF8(loginName)+"' href='http://www.ironplanet.com/jsp/acct/my-account.jsp'>"+"My account"+"</a> | <a href=/jsp/logout_nd.jsp>"+"Sign out"+"</a></span>");
+                      	} else {
+                      		document.write("<span style=\"white-space:nowrap\"><a href=\"#\" onclick=\"window.location.href=signinurl;\" >Sign in</a></span>");
+                      	}
+                      } else {
+	                      document.write("<span style=\"white-space:nowrap\"><a href=\"#\" onClick=\"showRegistration('window.location.reload(true)', null, true)\">Sign up</a> | <a href=\"#\" onclick=\"window.location.href=signinurl;\">"+"Sign in"+"</a></span>");
+                    }
+                  // -->
+                </script><span style="white-space:nowrap"><a href="#" onclick="showRegistration('window.location.reload(true)', null, true)">Sign up</a> | <a href="#" onclick="window.location.href=signinurl;">Sign in</a></span>
+                <noscript>
+                  <a href='/jsp/acct/my-account.jsp'>Sign in</a> or <a href="/jsp/acct/register.jsp">Sign Up Now...</a> it's quick, easy, and FREE!
+                </noscript>
+              </li>
+              <li>|</li>
+              <li><a href="http://www.ironplanet.com/main/contact.jsp" style="color: black;font-weight: normal; padding-left: 2px;"><img src="/n_images/i_phone.gif"> 888-433-5426</a></li>
+              <li>|</li>
+              <li><a href="#" style="background:url(/n_images/DownArrow_b.gif) no-repeat left 2px;padding-left:12px;">English</a>
+              <ul>
+              <li>
+                    <script type="text/javascript">
+                      document.write('<a href="#" class="selected">English</a>');
+                    </script><a href="#" class="selected">English</a>
+                    <noscript>	
+                    <a href="http://www.ironplanet.com">English</a>						  
+                    </noscript>
+                  </li>
+            <li>
+                    <script type="text/javascript">
+                      document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=es_MX\');" >Español</a>');
+                    </script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=es_MX');">Español</a>
+                    <noscript>	
+                    <a href="http://es.ironplanet.com">Español</a>						  
+                    </noscript>
+                  </li>
+            <li>
+                    <script type="text/javascript">
+                      document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=fr_CA\');" >Français</a>');
+                    </script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=fr_CA');">Français</a>
+                    <noscript>	
+                    <a href="http://fr.ironplanet.com">Français</a>						  
+                    </noscript>
+                  </li>
+            
+            </ul></li></ul>
+          </div> 
+        </td><td style="width:100%;height:10px">
+          <script type="text/javascript">
+            var keywordInputChanged = false;
+
+            function searchKeyword1(obj) {
+              if (!keywordInputChanged) {
+                keywordInputChanged = true;
+                obj.form.changedSearchValue.value = 'Y';
+                obj.value = '';
+              }
+            }
+
+            function doNavbarKeywordSearch(whichform) {
+              var nowhitespace = whichform.any.value.replace(/\s/, "");
+              if (whichform.changedSearchValue.value == 'Y' &&
+                  nowhitespace != "") {
+                return true;
+              }
+              return false;
+            }
+          </script>
+            <div style="width:210px;float:right;height:10px;">
+	            <div id="content_search">
+                <form method="POST" action="http://www.ironplanet.com/jsp/find/searchresults.jsp" onsubmit="return doNavbarKeywordSearch(this);">
+                  <input type="hidden" name="changedSearchValue" value="N">
+                  <input type="hidden" name="command" value="NewSearch">
+                  <input name="any" type="text" value="Search..." id="input_search" onclick="searchKeyword1(this);" onkeydown="searchKeyword1(this);" onfocus="searchKeyword1(this);">
+                  <input type="image" src="/n_images/go.gif" id="input_search_sub" alt="Go" title="Enter anything, such as make, model, item #, or an equipment feature, and click Go!.">
+                </form>
+              </div> 
+              <div class="clear"></div>
+            </div>
+			</td></tr>
+			</tbody></table>
+        <div id="content">
+            <div id="main_menu">
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tbody>
+                        <tr>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/index.jsp" id="navtab_0"><span style="padding-top: 3px;"><img src="/n_images/home_icon.png" style="padding-left:4px;" onclick="window.location.href='http://www.ironplanet.com/index.jsp'"></span></a>
+                            </div>
+                          </td>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/Construction" id="navtab_1"><span>CONSTRUCTION</span></a>
+                              
+
+
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Aerial+Work+Platforms?ct=1" style="display:block">Aerial Work Platforms</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Aggregate?ct=1" style="display:block">Aggregate</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Asphalt%2FPaving%2FConcrete?ct=1" style="display:block">Asphalt/Paving/Concrete</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Backhoes?ct=1" style="display:block">Backhoes</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Compactors?ct=1" style="display:block">Compactors</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Containers?ct=1" style="display:block">Containers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Cranes?ct=1" style="display:block">Cranes</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Dozers?ct=1" style="display:block">Dozers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Excavators?ct=1" style="display:block">Excavators</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Forklifts?ct=1" style="display:block">Forklifts</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Graders?ct=1" style="display:block">Graders</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Loaders?ct=1" style="display:block">Loaders</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/On-Road+Trailers?ct=1" style="display:block">On-Road Trailers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Scrapers?ct=1" style="display:block">Scrapers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Skid-Steers?ct=1" style="display:block">Skid-Steers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Off-Road?ct=1" style="display:block">Trucks - Off-Road</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+On-Road?ct=1" style="display:block">Trucks - On-Road</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Construction" style="display:block">ALL CONSTRUCTION</a>
+</li>
+</ul>
+
+
+
+                   
+                            </div>
+                          </td>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/Agriculture" id="navtab_2"><span>AGRICULTURE</span></a>
+                              
+
+
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Backhoes?ct=2" style="display:block">Backhoes</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Farm+Equipment?ct=2" style="display:block">Farm Equipment</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Skid-Steers?ct=2" style="display:block">Skid-Steers</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Agriculture" style="display:block">ALL AGRICULTURE</a>
+</li>
+</ul>
+
+
+
+                   
+                            </div>
+                          </td>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/Transportation" id="navtab_3"><span>TRANSPORTATION</span></a>
+                              
+
+
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Airplanes?ct=3" style="display:block">Airplanes</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Automobiles?ct=3" style="display:block">Automobiles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Motorcycles?ct=3" style="display:block">Motorcycles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/On-Road+Trailers?ct=3" style="display:block">On-Road Trailers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Recreational+Vehicles?ct=3" style="display:block">Recreational Vehicles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Off-Road?ct=3" style="display:block">Trucks - Off-Road</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+On-Road?ct=3" style="display:block">Trucks - On-Road</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Utility+Vehicles?ct=3" style="display:block">Utility Vehicles</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Transportation" style="display:block">ALL TRANSPORTATION</a>
+</li>
+</ul>
+
+
+
+                   
+                            </div>
+                          </td>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/Recreation" id="navtab_13"><span>RECREATION</span></a>
+                              
+
+
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Airplanes?ct=13" style="display:block">Airplanes</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Automobiles?ct=13" style="display:block">Automobiles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Boats?ct=13" style="display:block">Boats</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Motorcycles?ct=13" style="display:block">Motorcycles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Recreational+Vehicles?ct=13" style="display:block">Recreational Vehicles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Utility+Vehicles?ct=13" style="display:block">Utility Vehicles</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Recreation" style="display:block">ALL RECREATION</a>
+</li>
+</ul>
+
+
+
+                   
+                            </div>
+                          </td>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/Real+Estate" id="navtab_4"><span>REAL ESTATE</span></a>
+                                                 
+                            </div>
+                          </td>
+                          <td>
+                            <div>
+                              <a href="http://www.ironplanet.com/jsp/category/category.jsp" id="navtab_more"><span>MORE</span></a>
+                              
+                               
+                              <ul id="moreTab">
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Accessories" style="display:block">Accessories</a>
+	                                </li>
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Asphalt-Concrete-Compaction" style="display:block">Asphalt-Concrete-Compaction</a>
+	                                </li>
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Complete+Liquidations" style="display:block">Complete Liquidations</a>
+	                                </li>
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Forestry" style="display:block">Forestry</a>
+	                                </li>
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Lifting+and+Material+Handling" style="display:block">Lifting and Material Handling</a>
+	                                </li>
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Mining" style="display:block">Mining</a>
+	                                </li>
+                                
+	                                <li>
+	                                  <a href="http://www.ironplanet.com/Rental" style="display:block">Rental</a>
+	                                </li>
+                                
+                                <li>&nbsp;</li>
+                                <li>
+                                  <a href="http://www.ironplanet.com/jsp/category/category.jsp">ALL CATEGORIES</a>
+                                </li>
+                              </ul>
+                            </div>
+                          </td>
+                      </tr>
+                  </tbody>
+                </table>
+            </div>
+        </div>
+	</td>	
+	</tr>
+	<tr style="height: 4px;">
+	<td style="padding: 0px 10px 0px 16px; vertical-align: bottom;">
+		<div style="height:4px;width:100%;background:url('/n_images/main_menu_bg.gif') repeat-x left bottom;"></div>
+	</td>
+	</tr>
+	</tbody></table>
 
 
 
@@ -241,16 +412,16 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 	
 	  <h1>Privacy Statement</h1>
      
-      <p>IronPlanet.com, Inc. (hereinafter referred to as "IronPlanet" 
+      <p>IronPlanet, Inc. (hereinafter referred to as "IronPlanet" 
         or "we") is committed to protecting your privacy online. You 
         are important to us, and we will take special care to maintain 
         your trust. In order to fully understand your rights, we encourage 
-        you to read this Privacy Statement and to consult our <a href="javascript:popUp('/pop/short_terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars')">Terms 
-        &amp; Conditions</a>. Please direct questions regarding this 
-        statement to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
+        you to read this Privacy Statement and to consult our <a href="javascript:popUp('/pop/terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars')">Terms 
+        &amp; Conditions</a> as set forth in the IronPlanet website currently located at <a href="http://www.ironplanet.com">http://ironplanet.com</a> ("IronPlanet Site" or "Site"). 
+        Please direct questions regarding this statement to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
       </p><p><b>When does IronPlanet collect my personal information?<br>
         </b> IronPlanet gathers information from users in three ways: 
-        voluntary registration, cookie technology and IP addresses. 
+        voluntary registration, cookies, web beacon technology and log files. 
       </p><blockquote> 
         <p><b>Voluntary Registration</b>. When you register with IronPlanet, 
           we ask for certain necessary personal information. Other 
@@ -258,20 +429,38 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
           and may require you to provide additional information. 
         </p><p><b>Cookies</b>. IronPlanet uses a browser cookie to remember 
           your login name (but not your password), as a reminder to 
-          assist you the next time you log on to our site. 
-        </p><p><b>IP Address</b>. IronPlanet may also log IP addresses 
-          for the purposes of systems administration or to report 
-          information in aggregate form to our advertisers, sponsors, 
-          and corporate partners. 
+          assist you the next time you log on to our Site.  A cookie helps the Site to recall
+          your specific information or subsequent visits in order to simplify the process of
+          delivering relevant content and ease site navigation.  You have the ability to 
+          accept or decline cookies by modifying your browser setting to decline cookies if you prefer.
+          If you choose to decline cookies, you may not be able to use interactive features of this or other
+          websites that depend on cookies. 
+        </p><p><b>Web Beacons</b>.  IronPlanet may user electronic images known as web beacons - sometimes called single-pixel
+        gifs - that assist in delivering cookies on our sites and allow us to count users who have visited those
+        pages and to deliver co-branded services.  We may include web beacons in promotional email messages or 
+        our newsletters in order to determine whether messages have been opened and acted upon.  IronPlanet may also
+        employ web beacons from third parties in order to help us compile aggregated statistics and determine the 
+        effectiveness of our promotional campaigns.
+        </p><p><b>Log Files</b>. IronPlanet may also log standard information about your visit, including your
+          IP address, browser type and language, access times, referring website addresses, the pages you
+          view, the links you click and other actions taken in connection with the Site for the purposes
+          of systems administration or to report information in aggregate form to our advertisers,
+          sponsors, and corporate partners.
       </p></blockquote>
 
       <p><b>How is my personally identifiable information used?</b></p>
-      <blockquote> 
-        <p><b>Customized Look and Feel</b>. IronPlanet gathers user 
-          information for the purpose of reviewing our users' preferences, 
-          demographics, traffic patterns, and other information in 
-          the aggregate. 
-        </p><p><b>E-mail</b>. If you register with our site, from time 
+      <p>We use the personal information you submit to operate, maintain, and provide to you the features
+      and functionality of the Site.
+      </p><blockquote> 
+        <p><b>Customized Look and Feel</b>. We user cookies, web beacons, and log fine information to:
+        (a) remember information so that you will not have to re-enter it during your visit or the next time
+        you visit the site; (b) provide a customized look and feel and personalized content and information;
+        (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of 
+        visitors and traffic patterns, demographics, users' preferences, and other information in the aggregate;
+        (e) diagnose or fix technology problems reported by our users or engineers that are associated with the
+        IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information
+        after you sign in.
+        </p><p><b>E-mail</b>. If you register with our Site, from time 
           to time, IronPlanet may email you with informative messages 
           about our services or third party products and services 
           we believe may be of interest to you. 
@@ -316,24 +505,30 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
         may be collected and used by others. We do not control the 
         actions of our visitors and registered users. If you disclose 
         personal information in a publicly accessible place in the 
-        IronPlanet web site ("IronPlanet Site"), you do so at your 
-        own risk and you understand that your submitted information 
+        IronPlanet website ("IronPlanet Site"), you do so at your 
+        own risk and you understand that your disclosed information 
         may be collected and used by others to send you unsolicited 
-        messages, advertisements, or for other purposes. 
+        messages, advertisements, or for other purposes.  If you remove
+        personal information from the IronPlanet Site, copies may remain 
+        viewable in cached and archived pages for a certain period of time
+        and other users may have copied or stored your personal information.
       </p><p>Please remember that you are solely responsible for maintaining 
         the secrecy of any password you use to register and you should 
         always be careful and responsible whenever disclosing information 
-        online. 
-      </p><p>Although IronPlanet uses reasonable efforts to safeguard 
+        online. Also, IronPlanet may store personal information in locations
+        outside the direct control of IronPlanet (for instance, on servers or
+        databases co-located with hosting providers).  Although IronPlanet uses reasonable efforts to safeguard 
         the privacy of your personal information, transmissions made 
-        by means of the Internet cannot be made absolutely secure. 
-        IronPlanet assumes no liability for disclosure of data due 
-        to errors in transmission or unauthorized third parties. 
+        by means of the Internet cannot be made absolutely secure and are made at your own risk.
+        IronPlanet expressly disclaims any warranty that your personal information will not be
+        accessed, disclosed, altered, or destroyed by breach of any of our physical,
+        technical, or managerial safeguards.  IronPlanet assumes no liability for disclosure of data due 
+        to errors in transmission or unauthorized breach of our safeguards by third parties. 
       </p><p><b>Acceptance of Privacy Policy</b>. By using the IronPlanet 
         Site and services, you signify your acceptance of this Privacy 
         Statement. If you do not agree or are not comfortable with 
         any policy described in this Privacy Statement, your only 
-        remedy is to discontinue use of the IronPlanet Site. We reserve 
+        remedy is to discontinue use of the IronPlanet Site and services. We reserve 
         the right to modify this Privacy Statement at any time. Your 
         continued use of any portion of the IronPlanet Site following 
         notification or posting of such changes, will constitute your 
@@ -346,34 +541,46 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 
 
+	<!-- New Footer -->
 
-<table cellspacing="0" cellpadding="0" border="0" style="width:100%">
-<tbody><tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-	<td class="footer" colspan="2" style="text-align:right">
-		<a href="/index.jsp">Home</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
-		<a href="/about/about_us.jsp">About Us</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
-		<a href="/main/privacy.jsp">Privacy</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
-		<a href="/jsp/s/news/news.html">News</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
-		<a href="/main/forms.jsp">Forms</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
-		<a href="/main/contact.jsp">Contact Us</a>
-	</td>
-</tr>
+	<table cellpadding="0" cellspacing="0" style="border: none; width:98%; margin-left:1%"><tbody><tr><td style="text-align:center;">
+            <div id="footer">
+                <span><a href="/index.jsp">Home</a>
+                     | 
+                    <a href="/about/about_us.jsp">About Us</a>
+                     | 
+                    <a href="/jsp/s/news/news.html">News</a>
+                     | 
+                    <a href="/main/forms.jsp">Forms</a>
+                     | 
+                    <a href="/main/contact.jsp">Contact Us</a>
+                     | 
+                    <a href="mailto:CustomerCare@ironplanet.com?subject=Send Feedback">Send Feedback</a>
+                </span>
+                <br>
+                <span>
+                North America&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="http://eu.ironplanet.com?rp=3">Europe</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="http://www.ironplanet.com.au?rp=2">Asia-Pacific</a>
+                </span>
+                <p>
+                    © 2009 IronPlanet, <a href="/pop/terms.jsp" onclick="popUp('/pop/terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a>, 
+                    <a href="/main/privacy.jsp">Privacy</a>           
+                </p>
+            </div>
+  </td></tr>
+  </tbody></table>
+	
+	<!-- End New Footer -->
 
-<tr><td colspan="2" class="sub_footer" style="text-align:right; color:#666; font-size:10px; padding-top:5px;">IronPlanet, Inc. © 2009 All Rights Reserved &nbsp;&nbsp; <a href="/pop/short_terms.jsp" onclick="popUp('/pop/short_terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a><br>&nbsp;
 
-	<div class="WL">
-<a class="WL" href="/heavy_equipment.jsp">I</a><a class="WL" href="/construction_equipment_auction.html">r</a><a class="WL" href="/heavy_equipment_auction.html">o</a><a class="WL" href="/heavy_equipment_for_sale.html">n</a><a class="WL" href="/used_backhoes.html">P</a><a class="WL" href="/used_dozers.html">l</a><a class="WL" href="/used_caterpillar_equipment.html">a</a><a class="WL" href="/used_construction_equipment.html">n</a><a class="WL" href="/used_heavy_equipment.html">e</a><a class="WL" href="/used_farm_tractors.html">t</a><a class="WL" href="/used_farm_tractors_for_sale.html">&nbsp;I</a><a class="WL" href="/used_case_equipment.html">n</a><a class="WL" href="/used_caterpillar_equipment.html">c</a><a class="WL" href="/used_bulldozers.html">.</a>
-</div>
 
-</td></tr>
-</tbody></table>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2805818-1");
+var pageTracker = _gat._getTracker("UA-2805818-6");
 pageTracker._trackPageview();
 </script>
 
