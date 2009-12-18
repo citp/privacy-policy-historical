@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgenetwork.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140911id_/http%3A//cgenetwork.com/CGE_Network_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgenetwork.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113743id_/http%3A//cgenetwork.com/CGE_Network_Privacy_Policy) for the most accurate reproduction.*
 
 # CGE Network - MMO Gaming Zone - Browser Games - Game Downloads - Free RPG Games | CGE Network Privacy Policy - Central Gaming Empire (CGE Network).
 
@@ -25,12 +25,7 @@ The information we collect is used for internal review and is then discarded and
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. If you supply us with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-With respect to Ad Servers (advertisements do NOT run on the official company site, only on fan and resource sites): To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policies of:
-
-*<http://valueclickmedia.com/>
-
- (view privacy policy on homepage)  
-*[http://www.burstmedia.com](http://www.burstmedia.com/) (view privacy policy on homepage)
+With respect to Ad Servers (advertisements do NOT run on the official company site, only on fan and resource sites): To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
