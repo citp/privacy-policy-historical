@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the imageuploadonline.info privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061651id_/http%3A//imageuploadonline.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageuploadonline.info privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218061851id_/http%3A//www.imageuploadonline.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MultiHoster » More Information » Privacy Policy
 
 [Adult Movie Film, Free Preview Video, Worldwide Free Shipping](http://www.adultmoviefilm.com/en/index.html) [ **Strickly 18+ : If You are not Above 18 Pls close this site** ]()
 
-[   
-]()[]()[UU9.EU AD](http://uu9.eu/) [](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1065784&afsid=55544) When you sign up for an account with MultiHoster, we collect personal information from you including your e-mail address, and a password. 
+[ ]()[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1438894&afsid=55544) When you sign up for an account with MultiHoster, we collect personal information from you including your e-mail address, and a password. 
 
 We may also collect the URL from which you linked into our site, your IP address, and your browser type and version, all of which are collected in an anonymous manner without being linked to any of your personal information. 
 
