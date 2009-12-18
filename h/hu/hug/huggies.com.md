@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627202026id_/http%3A//huggies.com/Privacy_Generic.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218014009id_/http%3A//www.huggies.com/Privacy_Generic.aspx) for the most accurate reproduction.*
 
 # HUGGIES® Baby Network-Country Selector
 
