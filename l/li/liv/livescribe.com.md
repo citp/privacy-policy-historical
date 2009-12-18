@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescribe.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192951id_/http%3A//www.livescribe.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescribe.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218075948id_/http%3A//www.livescribe.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Livescribe :: Never Miss A Word
 
@@ -11,11 +11,11 @@ We at Livescribe, Inc. take your privacy seriously. Because we gather certain ty
 
 There are a few instances where Livescribe may collect information from you. 
 
-When you buy products from Livescribe and our partners, we may ask you to register that product in order to gain access to support and other features. That registration may require that you provide personal information such as your name, email address, mailing address, and phone number, as well as demographic information such as your gender or occupation. 
+When you buy products from Livescribe and our partners, we may ask you to register that product in order to gain access to support and other features. That registration may require that you provide personal information such as your name, email address, mailing address, and phone number, as well as demographic information such as your gender or occupation. When you buy or download free Smartpen application software from Livescribe and our partners, we may ask for you to provide personally identifiable information in order to proceed to check out, such as your name, email address and billing address.
 
 To use certain features on our website such as posting on our blog or in our community forums, or to be notified about new products and services, we may also ask that you provide information such as your e-mail address and zip code and that you create a unique user name and password. 
 
-Livescribe does not collect any of the content that you create with your Livescribe products without your express action and approval. Your Livescribe products may themselves collect and transmit to us basic usage information that is helpful to Livescribe in providing you with improved products and services. 
+Livescribe does not collect any of the content that you create with your Livescribe products without your express action and approval. Through use of Your Livescribe products or Smartpen application software, Livescribe periodically collects and uses usage data, including technical information about your Smartpen, your usage of your Smartpen (e.g., monthly minutes usage), your usage of the Livescribe Desktop, your usage of Smartpen application software, and the version of your computer operating system and related system software. Such usage data does not include any of the content you create with Livescribe products.
 
 There may be other times in the future that Livescribe collects personal information from you. Livescribe will always make clear what information it is requesting. 
 
@@ -27,13 +27,14 @@ We use cookies in a variety of ways, including:
 
     1. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on website usage; 
     2. Saving your password so you don't have to re-enter it each time you visit our site; 
-    3. Displaying information associated with you when you re-visit our site. 
+    3. Displaying information associated with you, including Livescribe store session and shopping cart information when you re-visit our site; 
+    4. Tracking affiliate and conversion data for use with our sales campaigns.
 
 Our sites may contain links to websites owned by other parties. Those websites may use tracking technologies such as cookies in a different way than we do, and are subject to their own privacy policies. 
 
   3. **How does Livescribe use the information it gathers?**
 
-We generally use the information we gather to help us develop, enhance and improve the user experience with our products and services. This can include providing you with better customer service and support, informing you about new products and services, and otherwise making your user experience with Livescribe more enjoyable.
+We generally use the information we gather to help us develop, enhance and improve the user experience with our products and services. This can include providing you with better customer service and support, informing you about new products and services, requesting participation in Livescribe surveys, research and customer feedback and otherwise making your user experience with Livescribe more enjoyable. We also use the information to verify compliance with the terms of the license agreements you have entered into with the company.
 
   4. **How does Livescribe share the information?
 
@@ -46,9 +47,10 @@ We will not make any of your personally identifiable information available to ot
     1. You specifically agree that we can share that information. 
     2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, blogs, or other forms of public communication and interaction. 
     3. You include personally identifiable information of yourself or others in the Paper Replay sessions, audio recordings, notes, or other content ("Your Content") you upload to Livescribe’s community features such as forums, blogs or community site. If you do, Livescribe will collect and store such information and will make it available to users to whom you’ve elected to share who could then share it with third parties. And, although Livescribe does not specifically process any personally identifiable information contained within Your Content, Livescribe may share your content—and the personally identifiable information it contains—with third-party vendors who provide us with storage and hosting services and with other entities in the case of a business transfer as described below. 
-    4. We hire third-party vendors to provide services such as customer support or data processing. These companies are only allowed to use the information in order to help us fulfill those services to you. We do not provide your information to these companies for their own, permanent use. 
-    5. We are required by law, such as when we respond to subpoenas, court orders, or legal process. 
-    6. We believe that your actions violate applicable laws, Livescribe's [Terms of Use](https://web.archive.org/legal/index.html), or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. 
+    4. You purchase a fixed-print Licensed Application on the Livescribe Store from a third party application developer and the third-party application developer is responsible for fulfilling your order.
+    5. We hire third-party vendors to fulfill certain Livescribe product orders and provide services such as customer support or data processing. These companies are only allowed to use the information in order to help us fulfill those services to you. We do not provide your information to these companies for their own, permanent use. 
+    6. We are required by law, such as when we respond to subpoenas, court orders, or legal process. 
+    7. We believe that your actions violate applicable laws, Livescribe's [Terms of Use](https://web.archive.org/legal/index.html), or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. 
 
 **_Aggregate information_**  
 We aggregate personally identifiable information and disclose it in a non-personally identifiable manner to our application developers and other third parties for development, marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally without your knowledge and consent. We may provide them with aggregate information to enable them to develop and provide new products and services to our customers.
@@ -58,7 +60,7 @@ We are always seeking to improve our business. In accomplishing this objective, 
 
   5. **What are my options?**
 
-If you would rather not provide any of the information requested by a registration process, you do not need to register with us. You will not, however, be eligible for certain support and services related to your Livescribe product or service if you do not register.
+If you would rather not provide any of the information requested by a registration process, you do not need to register with us and you should not purchase a Licensed Application from the Livescribe Store, as registration is required to install a Licensed Application on to your Smartpen. You will not, however, be eligible for certain support and services related to your Livescribe product or service if you do not register.
 
   6. **How will I know if the privacy policy is changed?**
 
@@ -75,7 +77,7 @@ Livescribe recognizes that parents, guardians, or other adults may purchase our 
 
 Questions regarding this privacy statement or any other aspects of our Web site should be sent to our corporate offices at 7677 Oakport St., 12th Floor, Oakland, CA 94621, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and our products and services, or review and discard the information. 
 
-Last updated: March 28, 2008
+Last updated: December 11, 2009
 
   
 
