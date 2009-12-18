@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182114id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024021id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
 
 # immunize.org Disclaimer
 
