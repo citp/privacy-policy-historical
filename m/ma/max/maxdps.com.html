@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the maxdps.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618050613id_/http%3A//www.maxdps.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxdps.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218042926id_/http%3A//www.maxdps.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>MaxDPS.com - News</title>	<link rel="stylesheet" type="text/css" href="include/style.css">
-	<link rel="stylesheet" type="text/css" href="include/ajaxtabs.css">
-	<link rel="stylesheet" type="text/css" href="include/tabcontent.css">
+	<title>MaxDPS.com - News</title>	<link rel="stylesheet" type="text/css" href="include/styleM.css">
 	<!--[if IE 7]>
 	<style type="text/css">
 	.armoryDiv {
@@ -13,62 +11,12 @@
 	}
 	</style>
 	<![endif]-->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> 
+	<script type="text/javascript" src="include/jsM.js"></script>
 
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script> 
-	<script type="text/javascript" src="include/jquery.autocomplete.js"></script> 
-	<script src="include/tabcontent.js"></script>
-	<script type="text/javascript" src="include/txo_menus.js"></script>
-	<script type="text/javascript" src="include/ajaxtabs.js"></script>
-	<style type="text/css" media="screen">
-		@import "include/txo_compliant.css";
-		.navMenu {display:none;}
-	</style>
 	<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
 	<link rev="made" href="mailto:ccweb@mun.ca">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-	<script language="javascript1.2" type="text/javascript">
-		/* Create a new XMLHttpRequest object to talk to the Web server */
-		var xmlHttp = false;
-		/*@cc_on @*/
-		/*@if (@_jscript_version >= 5)
-		try {
-		  xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
-		} catch (e) {
-		  try {
-			xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
-		  } catch (e2) {
-			xmlHttp = false;
-		  }
-		}
-		@end @*/
-		
-		if (!xmlHttp && typeof XMLHttpRequest != 'undefined') {
-		  xmlHttp = new XMLHttpRequest();
-		}
-		
-		function callServer(query) {
-		document.getElementById("gearList").innerHTML = "<img align=\"center\" style=\"padding:50px;\" src=\"images/load.gif\" border=\"0\" /></span> <strong>Loading</strong>";
-		  // Build the URL to connect to
-		  var url = "search.php?query=" + query;
-		
-		  // Open a connection to the server
-		  xmlHttp.open("GET", url, true);
-		
-		  // Setup a function for the server to run when it's done
-		  xmlHttp.onreadystatechange = updatePage;
-		
-		  // Send the request
-		  xmlHttp.send(null);
-		}
-
-		function updatePage() {
-		  if (xmlHttp.readyState == 4) {
-			var response = xmlHttp.responseText;
-			document.getElementById("gearList").innerHTML = response;
-		  }
-		}
-	</script>
 </head>
 
 <body>
@@ -88,7 +36,13 @@
         	    <div class="armoryDiv">
 			<form action="scripts/armory.php" method="post">
 			<input type="hidden" name="action" value="getArmory">
-				Zone: <select class="armorySelect" name="zone"><option value="US">US</option><option value="EU">EU</option></select>  Realm: <input type="text" id="realm" class="armoryInput" name="realm" value=""> Name: <input type="text" class="armoryInput" name="name"><button type="submit" class="armoryButton">Get</button>
+				Zone: <select class="armorySelect" name="zone">
+                <option value="US">US</option>
+                <option value="EU">EU</option>
+                <option value="CN">CN</option>
+                <option value="KR">KR</option>
+                <option value="TW">TW</option>
+                </select>  Realm: <input type="text" id="realm" class="armoryInput" name="realm" value=""> Name: <input type="text" class="armoryInput" name="name"><button type="submit" class="armoryButton">Get</button>
             </form></div>
         
     
@@ -106,43 +60,43 @@
                 </li>
                 <li class="menu hasSubMenu"><a href="warrior/" class="navItem" style="background: transparent url(images/menu/1.gif) no-repeat center left;" id="navItem_1">Warrior</a>
                     <ul class="navMenu" id="navMenu_1">
-                        <li class="menu"><a href="warrior/fury.php" class="navItem" style="background: transparent url(images/menu/12.gif) no-repeat center left;" id="navItem_1.1">Fury <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="warrior/arms.php" class="navItem" style="background: transparent url(images/menu/11.gif) no-repeat center left;" id="navItem_1.2">Arms <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="warrior/protection.php" class="navItem" style="background: transparent url(images/menu/13.gif) no-repeat center left;" id="navItem_1.3">Protection <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="warrior/fury.php" class="navItem" style="background: transparent url(images/menu/12.gif) no-repeat center left;" id="navItem_1.1">Fury</a></li>
+                        <li class="menu"><a href="warrior/arms.php" class="navItem" style="background: transparent url(images/menu/11.gif) no-repeat center left;" id="navItem_1.2">Arms</a></li>
+                        <li class="menu"><a href="warrior/protection.php" class="navItem" style="background: transparent url(images/menu/13.gif) no-repeat center left;" id="navItem_1.3">Protection</a></li>
                     </ul>
                 </li>
                 <li class="menu hasSubMenu"><a href="warlock/affliction.php" class="navItem" style="background: transparent url(images/menu/2.gif) no-repeat center left;" id="navItem_2">Warlock</a>
                     <ul class="navMenu" id="navMenu_2">
-                        <li class="menu"><a href="warlock/affliction.php" class="navItem" style="background: transparent url(images/menu/21.gif) no-repeat center left;" id="navItem_2.1">Affliction <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="warlock/affliction.php" class="navItem" style="background: transparent url(images/menu/21.gif) no-repeat center left;" id="navItem_2.1">Affliction</a></li>
                         <li class="menu"><a href="warlock/destruction.php" class="navItem" style="background: transparent url(images/menu/23.gif) no-repeat center left;" id="navItem_2.2">Destruction</a></li>
                     </ul>
                 </li>
                 <li class="menu hasSubMenu"><a href="mage/fire.php" class="navItem" style="background: transparent url(images/menu/3.gif) no-repeat center left;" id="navItem_3">Mage</a>
                     <ul class="navMenu" id="navMenu_3">
-                        <li class="menu"><a href="mage/fire.php" class="navItem" style="background: transparent url(images/menu/32.gif) no-repeat center left;" id="navItem_3.1">Fire <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="mage/frost.php" class="navItem" style="background: transparent url(images/menu/33.gif) no-repeat center left;" id="navItem_3.2">Frost <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="mage/fire.php" class="navItem" style="background: transparent url(images/menu/32.gif) no-repeat center left;" id="navItem_3.1">Fire</a></li>
+                        <li class="menu"><a href="mage/frost.php" class="navItem" style="background: transparent url(images/menu/33.gif) no-repeat center left;" id="navItem_3.2">Frost</a></li>
                         <li class="menu"><a href="mage/arcane.php" class="navItem" style="background: transparent url(images/menu/31.gif) no-repeat center left;" id="navItem_3.3">Arcane</a></li>
                     </ul>
         
                 </li>
                 <li class="menu hasSubMenu"><a href="paladin/dps.php" class="navItem" style="background: transparent url(images/menu/4.gif) no-repeat center left;" id="navItem_4">Paladin</a>
                     <ul class="navMenu" id="navMenu_4">
-                        <li class="menu"><a href="paladin/retribution.php" class="navItem" style="background: transparent url(images/menu/43.gif) no-repeat center left;" id="navItem_4.1">Retribution <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="paladin/holy.php" class="navItem" style="background: transparent url(images/menu/41.gif) no-repeat center left;" id="navItem_4.2">Holy <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="paladin/retribution.php" class="navItem" style="background: transparent url(images/menu/43.gif) no-repeat center left;" id="navItem_4.1">Retribution</a></li>
+                        <li class="menu"><a href="paladin/holy.php" class="navItem" style="background: transparent url(images/menu/41.gif) no-repeat center left;" id="navItem_4.2">Holy</a></li>
                     </ul>
                 </li>
                 <li class="menu hasSubMenu"><a href="priest/shadow.php" class="navItem" style="background: transparent url(images/menu/7.gif) no-repeat center left;" id="navItem_5">Priest</a>
         
                     <ul class="navMenu" id="navMenu_5">
-                        <li class="menu"><a href="priest/shadow.php" class="navItem" style="background: transparent url(images/menu/73.gif) no-repeat center left;" id="navItem_5.1">Shadow <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="priest/holy.php" class="navItem" style="background: transparent url(images/menu/72.gif) no-repeat center left;" id="navItem_5.2">Holy <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="priest/shadow.php" class="navItem" style="background: transparent url(images/menu/73.gif) no-repeat center left;" id="navItem_5.1">Shadow</a></li>
+                        <li class="menu"><a href="priest/holy.php" class="navItem" style="background: transparent url(images/menu/72.gif) no-repeat center left;" id="navItem_5.2">Holy</a></li>
                     </ul>
                 </li>
                 <li class="menu hasSubMenu"><a href="shaman/enhancement.php" class="navItem" style="background: transparent url(images/menu/9.gif) no-repeat center left;" id="navItem_6">Shaman</a>
                     <ul class="navMenu" id="navMenu_6">
-                        <li class="menu"><a href="shaman/enhancement.php" class="navItem" style="background: transparent url(images/menu/92.gif) no-repeat center left;" id="navItem_6.1">Enhance <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="shaman/elemental.php" class="navItem" style="background: transparent url(images/menu/91.gif) no-repeat center left;" id="navItem_6.2">Elemental <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="shaman/restoration.php" class="navItem" style="background: transparent url(images/menu/93.gif) no-repeat center left;" id="navItem_6.3">Resto <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="shaman/enhancement.php" class="navItem" style="background: transparent url(images/menu/92.gif) no-repeat center left;" id="navItem_6.1">Enhance</a></li>
+                        <li class="menu"><a href="shaman/elemental.php" class="navItem" style="background: transparent url(images/menu/91.gif) no-repeat center left;" id="navItem_6.2">Elemental</a></li>
+                        <li class="menu"><a href="shaman/restoration.php" class="navItem" style="background: transparent url(images/menu/93.gif) no-repeat center left;" id="navItem_6.3">Resto</a></li>
                     </ul>
                 </li>
                 <li class="menu hasSubMenu"><a href="rogue/combat.php" class="navItem" style="background: transparent url(images/menu/5.gif) no-repeat center left;" id="navItem_7">Rogue</a>
@@ -150,21 +104,24 @@
                         <li class="menu"><a href="rogue/combat.php" class="navItem" style="background: transparent url(images/menu/52.gif) no-repeat center left;" id="navItem_7.1">Combat</a></li>
                     </ul>
                 </li>
-                <li class="menu hasSubMenu"><a href="hunter/beastMaster.php" class="navItem" style="background: transparent url(images/menu/6.gif) no-repeat center left;" id="navItem_8">Hunter</a>
+                <li class="menu hasSubMenu"><a href="hunter/survival.php" class="navItem" style="background: transparent url(images/menu/6.gif) no-repeat center left;" id="navItem_8">Hunter</a>
                     <ul class="navMenu" id="navMenu_8">
-                        <li class="menu"><a href="hunter/beastMaster.php" class="navItem" style="background: transparent url(images/menu/61.gif) no-repeat center left;" id="navItem_8.1">Beast Master <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="hunter/survival.php" class="navItem" style="background: transparent url(images/menu/63.gif) no-repeat center left;" id="navItem_8.1">Survival</a></li>
+                        <li class="menu"><a href="hunter/marksmanship.php" class="navItem" style="background: transparent url(images/menu/62.gif) no-repeat center left;" id="navItem_8.2">Marksmanship</a></li>
+                        <li class="menu"><a href="hunter/beastMaster.php" class="navItem" style="background: transparent url(images/menu/61.gif) no-repeat center left;" id="navItem_8.3">Beast Master</a></li>
                     </ul>
                 </li>
                 <li class="menu hasSubMenu"><a href="druid/moonkin.php" class="navItem" style="background: transparent url(images/menu/8.gif) no-repeat center left;" id="navItem_9">Druid</a>
                     <ul class="navMenu" id="navMenu_9">
-                        <li class="menu"><a href="druid/moonkin.php" class="navItem" style="background: transparent url(images/menu/81.gif) no-repeat center left;" id="navItem_9.1">Moonkin <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="druid/feral.php" class="navItem" style="background: transparent url(images/menu/82.gif) no-repeat center left;" id="navItem_9.2">Feral (Cat)</a></li>
+                        <li class="menu"><a href="druid/moonkin.php" class="navItem" style="background: transparent url(images/menu/81.gif) no-repeat center left;" id="navItem_9.1">Moonkin</a></li>
+                        <li class="menu"><a href="druid/restoration.php" class="navItem" style="background: transparent url(images/menu/83.gif) no-repeat center left;" id="navItem_9.2">Resto</a></li>
+                        <li class="menu"><a href="druid/feral.php" class="navItem" style="background: transparent url(images/menu/82.gif) no-repeat center left;" id="navItem_9.3">Feral <img class="menuExp" src="images/zbc.gif"></a></li>
                     </ul>
                 </li>
 <li class="menu hasSubMenu"><a href="deathknight/unholy.php" class="navItem" style="background: transparent url(images/menu/10.gif) no-repeat center left;" id="navItem_10">Death Knight</a>
                     <ul class="navMenu" id="navMenu_10">
-                        <li class="menu"><a href="deathknight/unholy.php" class="navItem" style="background: transparent url(images/menu/103.gif) no-repeat center left;" id="navItem_10.1">Unholy <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
-                        <li class="menu"><a href="deathknight/blood.php" class="navItem" style="background: transparent url(images/menu/101.gif) no-repeat center left;" id="navItem_10.2">Blood <img style="padding-left:4px; vertical-align:middle; margin-top:-2px;" src="images/menu/wrath.gif" border="0"></a></li>
+                        <li class="menu"><a href="deathknight/unholy.php" class="navItem" style="background: transparent url(images/menu/103.gif) no-repeat center left;" id="navItem_10.1">Unholy</a></li>
+                        <li class="menu"><a href="deathknight/blood.php" class="navItem" style="background: transparent url(images/menu/101.gif) no-repeat center left;" id="navItem_10.2">Blood</a></li>
                     </ul>
                 </li>
             </ul>
@@ -189,6 +146,7 @@ http://www.neverblueads.com/signup/terms.html<br>
 https://www.clickbank.com/privacy.html
 </p><p class="f">With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
 
+
 	</div>
 	<div id="sidebar">
 					<div class="sideBarItem">
@@ -203,7 +161,7 @@ https://www.clickbank.com/privacy.html
 		<div class="sideBarItem">
 		<div class="sideBarHeader">MaxDPS Recommends</div>
 		<div class="sideBarBody">
-			<div class="sponsor"><img src="images/bulletRedArrow.gif" height="9" width="9">&nbsp;<a href="http://www.maxdps.com/goldSecrets.php" target="_top">Legit Gold Making Guide</a></div> 
+			<div class="sponsor"><img src="images/bulletRedArrow.gif" height="9" width="9">&nbsp;<a href="http://www.maxdps.com/goldGuide.php" target="_top">Legit Gold Making Guide</a></div> 
 			<div class="sponsor"><img src="images/bulletRedArrow.gif" height="9" width="9">&nbsp;<a href="http://www.maxdps.com/levelfaster.php" target="_top">Speed Leveling Guide</a></div>
 		</div>
 		</div>
@@ -212,8 +170,13 @@ https://www.clickbank.com/privacy.html
 		<div class="sideBarHeader">Sponsored Links</div>
 		<div class="sideBarBody" style="height:620px;">
             <div align="center">
-            						<a href="http://maxdps.wowzygor.hop.clickbank.net/?tid=SKYZYG"><img src="http://www.zygorguides.com/img/WideSkyscraper.jpg" height="600" width="160" border="0"></a>
-                                </div>
+            					<script type="text/javascript"><!--
+					   e9 = new Object();
+					   e9.size = "160x600,120x600";
+					   e9.addBlockingCategories="Adult,Suggestive,Warning,Pop-under,Pop-up,Floating,Full-page,Survey,Flashing";
+					//--></script>
+					<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/MaxDPScom/ROS/tags.js"></script>
+                            </div>
 		</div>
 		</div>
 		
@@ -246,7 +209,7 @@ https://www.clickbank.com/privacy.html
 		</div>
 
 
-				<div class="sideBarItem" style="width:310px; margin-left:-112px; position:absolute;">
+							<div class="sideBarItem" style="width:310px; margin-left:-112px; position:absolute;">
 		<div class="sideBarHeader">Sponsored Links</div>
 		<div class="sideBarBody">
 			 <div align="center">
@@ -258,18 +221,21 @@ https://www.clickbank.com/privacy.html
 					<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/MaxDPScom/ROS/tags.js"></script>
                             </div>
 		</div>
+        
+      
 		</div>
-				</div>
+			</div>
 <div id="footer"><a href="about.php" class="footer">About us &amp; contact</a> | <a href="privacy.php" class="footer">Privacy</a></div>
 </div>
 
-<script src="http://www.wowhead.com/widgets/power.js"></script>
+   	<script type="text/javascript" src="http://www.wowhead.com/widgets/power.js"></script>
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 	</script>
 	<script type="text/javascript">
 	_uacct = "UA-1059937-1";
 	urchinTracker();
 	</script>
+
 
 
 
