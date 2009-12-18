@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601192950id_/http%3A//www.livemocha.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218051700id_/http%3A//www.livemocha.com/pages/privacy) for the most accurate reproduction.*
 
-# Language Learning with Livemocha | Learn a Language Online - Free!
+# None
 
 Welcome to LiveMocha.com ("Site"), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice.  LiveMocha.com is owned and operated by LiveMocha, Inc.  LIVEMOCHA, INC is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices.  If you have specific questions about these practices, please contact us by email at [support@livemocha.com](mailto:support@livemocha.com).
 
