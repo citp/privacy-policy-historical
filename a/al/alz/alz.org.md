@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620052317id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218085945id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site
 
