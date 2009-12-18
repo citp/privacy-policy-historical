@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617182743id_/http%3A//www.oregon.gov/DAS/EISPD/EGOV/termsconditions.shtml%23Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021105id_/http%3A//www.oregon.gov/DAS/EISPD/EGOV/termsconditions.shtml%23Privacy_Statement) for the most accurate reproduction.*
 
 # E-government Privacy and Terms and Conditions
 
@@ -56,6 +56,6 @@ This site uses the industry standard encryption software Secure Socket Layer (SS
 
 Cookies
 
-  A cookie file is a small text file created on your computer by a web site.  This file contains information the site can use to track such things as your passwords, lists of pages you have visited, the date when you last looked at a specific page, or to identify your session at a particular web site. A cookie is often used by sites to identify the items selected for purchase or payment and to enable site registration functions. While most browsers have an option that prohibits cookies, this option may disable some features on state sites that can not be used if cookies are turned off.
+  A cookie is a small text file created by a Web server and stored on your computer hard drive. Cookies save unique information that the Web server can access while you are browsing our Web site. Typically, cookies save information such as your site preferences, the date you last looked at a specific page, or a random number used to identify your particular Web session. Cookies help us measure how many visitors come to our Web site and how many of these visitors are new or returning.
 
-[www.oregon.gov](http://www.oregon.gov/) only uses cookies to assist with accessibility, and they are deleted within four hours of leaving the site.
+Cookies placed on your computer by our Web management tools are written so they can only be used by our Web tools, and they only retrieve specific information. We do not gather information from you, from other cookie files, or access any other information on your computer.Most Web browsers allow you to deny or accept the cookie feature (refer to your browser's help function for details). You can control the use of cookies on your computer, and even eliminate them.  However, eliminating cookie use may interfere with the function of some Oregon.gov Web site services. 
