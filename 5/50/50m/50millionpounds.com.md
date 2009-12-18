@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50millionpounds.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620024151id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50millionpounds.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218230534id_/http%3A//www.statefarm.com/about/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies
 
