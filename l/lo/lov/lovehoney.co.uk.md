@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625055643id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218183127id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your Privacy Policy?
 
