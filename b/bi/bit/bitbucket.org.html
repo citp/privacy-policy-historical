@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bitbucket.org privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617171758id_/http%3A//bitbucket.org/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitbucket.org privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218113408id_/http%3A//bitbucket.org/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>
@@ -8,15 +8,16 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Mercurial hosting - we're here to serve.">
 	<meta name="keywords" content="mercurial,hg,hosting,bitbucket,">
-	<link rel="stylesheet" type="text/css" href="/m/css/layout.css?12985842">
-	<link rel="stylesheet" type="text/css" href="/m/css/print.css?12985842" media="print">
+	<link rel="stylesheet" type="text/css" href="http://bitbucket.org/m/css/layout.css?12985842">
+	<link rel="stylesheet" type="text/css" href="http://bitbucket.org/m/css/print.css?12985842" media="print">
 	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Bitbucket">
-	<link rel="icon" href="/m/img/logo_new.png" type="image/png">
-	<script type="text/javascript" src="http://bitbucket.org/m/js/lib/bundle.310309Mar.js?2152100"></script>
+	<link rel="icon" href="http://bitbucket.org/m/img/logo_new.png" type="image/png">
+	<script type="text/javascript" src="http://bitbucket.org/m/js/lib/bundle.180909Sep.js?2152820"></script>
 	
 	<script type="text/javascript">
 		$(document).ready(function() {
 			Dropdown.init();
+			$(".tooltip").tipsy({gravity:'s'});
 		});
 	</script>
 	<noscript>
@@ -30,7 +31,7 @@
 	<!--[if lt IE 7]>
 	<style type="text/css">
 	body {
-		behavior: url(/m/css/csshover.htc);
+		behavior: url(http://bitbucket.org/m/css/csshover.htc);
 	}
 	
 	#issues-issue pre {
@@ -51,12 +52,24 @@
 	<![endif]-->
 	
 	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-2456069-3'], ['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script');
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+	        'http://www') + '.google-analytics.com/ga.js';
+	    ga.setAttribute('async', 'true');
+	    document.documentElement.firstChild.appendChild(ga);
+	  })();
+	</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
 </head>
 <body class="">
 	<div id="main-wrapper">
 		<div id="header-wrapper">
 			<div id="header">
-				<a href="/"><img src="/m/img/logo_myriad.png" alt="Bitbucket" id="header-wrapper-logo"></a>
+				<a href="/"><img src="http://bitbucket.org/m/img/logo_myriad.png" alt="Bitbucket" id="header-wrapper-logo"></a>
 				
 					<div id="header-nav">
 						<div id="header-nav-login-forms">
@@ -64,6 +77,7 @@
 								<fieldset>
 									<input id="id_username_header" type="text" class="required login" name="username" value="username" maxlength="30" onfocus="if(this.value=='username'){this.value='';}; $(this).addClass('normaltext');"> <input id="id_password_header" type="password" class="required login" name="password" value="password" maxlength="128" onfocus="if(this.value=='password'){this.value='';}; $(this).addClass('normaltext');"> <input type="submit" name="blogin" value="»" style="display:none;">
 									<input type="hidden" name="next" value="/site/privacy/">
+									
 								</fieldset>
 							</form>
 							<form name="fopenid" action="/account/signin/" method="post">
@@ -164,17 +178,16 @@
 	</div>
 	<div id="footer-wrapper">
 		<div id="footer">
-			<a href="/site/terms/">Terms of Service</a> | <a href="/site/privacy/">Privacy Policy</a> | <a href="http://blog.bitbucket.org/">Blog</a> | <a href="http://bitbucket.org/jespern/bitbucket/issues/new/">Report Bug / Request Feature</a> | <a href="http://groups.google.com/group/bitbucket-users">Discuss Bitbucket</a> | <a href="http://avantlumiere.com/">avantlumiere.com © 2008-2009</a>
+			<a href="/site/terms/">TOS</a> | <a href="/site/privacy/">Privacy Policy</a> | <a href="http://blog.bitbucket.org/">Blog</a> | <a href="http://bitbucket.org/jespern/bitbucket/issues/new/">Report Bug</a> | <a href="http://groups.google.com/group/bitbucket-users">Discuss</a> | <a href="http://avantlumiere.com/">© 2008-2009</a>
+			| We run <small><b>
+				<a href="http://www.djangoproject.com/">Django 1.1.0</a> / 
+				<a href="http://bitbucket.org/jespern/django-piston/">Piston 0.2.3rc1</a> / 
+				<a href="http://www.selenic.com/mercurial/">Hg 1.3.1</a> / 
+				<a href="http://www.python.org">Python 2.5.2</a> /
+				r2736
+			</b></small>
 		</div>
 	</div>
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	var pt = _gat._getTracker("UA-2456069-3");
-	pt._trackPageview();
-	</script>
 
 
 </body></html>
