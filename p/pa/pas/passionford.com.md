@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passionford.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175519id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dpassionford.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionford.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218061147id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dpassionford.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
