@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061839id_/http%3A//www.levenger.com/CUSTOMER/SERVICE/privacy.asp%3FParams%3Dcategory%3D539%7Clevel%3D2%7Cpageid%3D2370) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218044658id_/http%3A//www.levenger.com/CUSTOMER/SERVICE/privacy.asp%3FParams%3Dcategory%3D539%7Clevel%3D2%7Cpageid%3D2370) for the most accurate reproduction.*
 
 # Levenger Privacy Statement - Levenger
 
