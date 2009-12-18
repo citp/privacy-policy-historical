@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610165852id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164509id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
 
 # DtDNS :: Privacy Statement
 
@@ -42,4 +42,4 @@ This site gives customers the option for removing their information from our dat
 
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact:
 
-> Justin Scott dba DtDNS 6154 Turnbury Park Dr. #2302 Sarasota, FL  34243 UNITED STATES OF AMERICA   E-mail to: [admin@dtdns.com](mailto:admin@dtdns.com)
+> Justin Scott dba DtDNS 1960 Stickney Pt. Rd. Ste. 210 Sarasota, FL  34231 UNITED STATES OF AMERICA   E-mail to: [admin@dtdns.com](mailto:admin@dtdns.com)
