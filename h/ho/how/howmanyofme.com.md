@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howmanyofme.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070946id_/http%3A//www.howmanyofme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmanyofme.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024015id_/http%3A//www.howmanyofme.com/privacy) for the most accurate reproduction.*
 
 # How Many of Me - Privacy Policy
 
