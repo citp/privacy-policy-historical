@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193454id_/http%3A//www.astroyogi.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218043420id_/http%3A//www.astroyogi.com/policy.asp) for the most accurate reproduction.*
 
 # astroyogi.com Discover your future. design your destiny.
 
+|  |  |    
+---  
+| **PERSONAL INFORMATION**  
+---  
   
 In order to operate the Site in an efficient and effective manner and provide users with information on astrology services & products that may be of interest to them, Astroyogi.com may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with relevant astrological details. We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. 
 
@@ -29,4 +33,11 @@ Logging into Astroyogi.com is always an optional task for you to take, (although
 Managing your privacy is as simple as selecting which pieces of your contact information are displayed. This is done in the section of the resume form called "Contact Information." Using option 3 above requires that you select the Apply Online Only option from the "Contact Information" section at the bottom of the edit form, as shown below. 
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us .   
+  
+  
+   
+  |    
+  
+  
+  
 
