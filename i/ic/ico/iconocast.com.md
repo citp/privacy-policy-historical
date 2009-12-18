@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218053758id_/http%3A//www.iconocast.com/privacy.htm) for the most accurate reproduction.*
 
-# Iconocast privacy policy
+# How We Protect the Security of Your Information
 
-  |    
----|---  
-  |    
-   
-   
- 
-
-ADVERTISING BY ICONOCAST
-
-[**Optimism, Happiness, Self Esteem, Creativity, Competency, Achieve Intrinsic Motivation; visit www.motivationbook.com**](http://www.motivationbook.com/)
-
-**[Iconocast is about learning and teaching without borders; we offer eMarketing, Internet Advertising, Internet Marketing, Search Engine Optimization, Search Engine Marketing, Online Branding, and eMarketing News Services.](http://www.iconocast.com/index.html)**  
-  
 ## **Our commitment to your privacy, security and our Privacy Policy**
 
 _**Your privacy is of outmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**_
 
 ### How We Protect the Security of Your Information
+
+**New:**
+
+**Iconocast is a Google AdSense Publisher. According to this new policy between Google and its publisher, publishers must notify their users of the use of cookies and/or web beacons to collect data in the ad serving process. This change relates to advertisers' use of innovative products and features like Gadget Ads, Google's new test ad server, and other offerings in the future.**
 
   
 For your privacy, we employ the latest encryption and security technology and fraud detection techniques in all areas of iconocast.com where you provide us with personal or account information. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, please download and install the latest version of your favorite browser, Microsoft Internet Explorer or Netscape Communicator. Please note, for privacy purposes, once you give us any information relating to you, it is stored on a highly secure server that is not accessible via the Internet. All these is for your own privacy. Your privacy is important for all of us to build trust and make sure our business is sound.
@@ -51,28 +42,4 @@ Protecting the privacy of the very young is especially important.
 
 ## **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at **info1(at)iconocast.com**
-
-[First Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/First_Law_Branding.html)
-
-[Second Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Second_Law_Branding.htm)
-
-**[Third Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Third_Law_Branding.htm)**
-
-**[Fourth Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Fourth_Law_Branding.htm)**
-
-**[Fifth Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Fifth_Law_Branding.htm)**
-
-**[Sixth Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Sixth_Law_Branding.htm)**
-
-**[Seventh Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Seventh_Law_Branding.htm)**
-
-**[Eighth Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Eighth_Law_Branding.htm)**
-
-**[Ninth Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Ninth_Law_Branding.htm)**
-
-**[Tenth Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Tenth_Law_Branding.htm)**
-
-****[Eleventh Law of Branding](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Eleventh_Law_Branding.htm)****
-
-**[**Twelfth Law of Branding**](https://web.archive.org/web/20070509034057id_/http%3A//www.iconocast.com/Twelfth_Law_Branding.htm)**
+Should you have other questions or concerns about these privacy policies, please send us an email at **info (@) liveinfospace.com**
