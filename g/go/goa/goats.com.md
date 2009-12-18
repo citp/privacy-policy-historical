@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the goats.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070844id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goats.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218063747id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.*
 
 # goats: the privacy policy
+
+[](http://www.topatoco.com/goats/)
+
+[](http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=GOAT-TYPEW_CORND&Category_Code=GOAT)
 
 the privacy policy
 
