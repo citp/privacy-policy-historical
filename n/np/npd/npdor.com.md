@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625173127id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218052635id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
 # NPD Online Research - Making your opinions count
 
   
-Updated: May 2009
+Updated: September 2009
 
 **About NPD**
 
@@ -43,13 +43,13 @@ Your contact information is used to send you a welcome e-mail when you register,
 
 Demographic data is collected to ensure that we send you surveys relevant to your lifestyle and interests. It is used only for statistical and classification purposes in aggregated or summary form (grouped together with other panelists' data) and is NOT shared or sold on an individual basis. 
 
-We do not knowingly collect personally identifiable information from users who are under the age of 13. 
+We do not knowingly collect personally identifiable information from users who are under the age of 13 or users under the age of 18 who reside in Maine.
 
 At registration and in each communication with you thereafter, you may opt-out of receiving future surveys and mailings; see _How To Unsubscribe_ below. 
 
 **Correcting/Updating Your Information**
 
-We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20090625173127id_/http%3A//www.npdor.com/English/memberservices.asp). 
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20091218052635id_/http%3A//www.npdor.com/English/memberservices.asp). 
 
 If you are a SweepLand member, you may change your name, mailing address and e-mail preferences by visiting [www.sweepland.com](http://www.sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
@@ -107,7 +107,7 @@ NPD and its agents employ physical, electronic and managerial protections and pr
 
 **HOW TO UNSUBSCRIBE**
 
-Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20090625173127id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20090625173127id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
+Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20091218052635id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20091218052635id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
 **NOTIFICATION OF CHANGES**
 
