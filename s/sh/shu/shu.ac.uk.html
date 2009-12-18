@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the shu.ac.uk privacy policy that was archived on 2009-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090419173101id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shu.ac.uk privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218023927id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/template.html" codeOutsideHTMLIsLocked="true" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy policy | Sheffeild Hallam University</title>
+<title>Privacy policy | Sheffield Hallam University</title>
 <!-- InstanceEndEditable -->
 <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
 	<!-- InstanceBeginEditable name="description" -->
@@ -49,8 +49,10 @@
 
 
 <!-- InstanceParam name="browseDropdown" type="text" value="subject" -->
-	<meta name="robots" content="index,follow">
+		<meta name="robots" content="index,follow">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
 	<meta name="Revisit-After" content="31 days">
 	<meta name="Resource-Type" content="document">
 	<meta http-equiv="Pragma" content="no-cache">
@@ -62,36 +64,81 @@
 	<meta name="MSSmartTagsPreventParsing" content="TRUE">
 	<meta name="author" content="Sheffield Hallam University (www.shu.ac.uk)">
 
-								<link rel="stylesheet" type="text/css" media="screen" href="/_apps/css/style.css">
-							
+
+
+			<link rel="stylesheet" type="text/css" media="screen" href="/_apps/css/style.css">
+
+			
+
+
 	<link rel="stylesheet" type="text/css" media="print" href="/_apps/css/print.css">
 	<link type="text/css" rel="stylesheet" media="screen" href="/interactive-banner/lightbox.css">
 
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="/_apps/css/ie.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+  <link rel="stylesheet" type="text/css" href="/_apps/css/ie6andbelow.css" />
+<![endif]-->
+	
+
+
 	<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		function changeLocation(menuObj){
-   			var i = menuObj.selectedIndex;
+
+<script type="text/JavaScript">
+<!--
+function searchHeaderReset(){
+	document.getElementById('select').options[0].selected=true;
+
+	if(document.getElementById('menu3').options[0]){
+		document.getElementById('menu3').options[0].selected=true;
+	}
+	if(document.getElementById('menu4')){
+		document.getElementById('menu4').options[0].selected=true;
+	}
+	showSearches('site');
+}
+function showSearches(thisSearch)
+{
+
+document.getElementById('site').style.display = 'none';
+document.getElementById('undergrad').style.display  = 'none';
+document.getElementById('postgrad').style.display  = 'none';
+document.getElementById('subjects').style.display  = 'none';
+document.getElementById('parttime').style.display  = 'none';
+
+
+ switch(thisSearch)
+ {
+ case 'site'        : document.getElementById('site').style.display = ''; break;
+ case 'undergrad'   : document.getElementById('undergrad').style.display  = ''; break;
+ case 'parttime'    : document.getElementById('parttime').style.display  = ''; break;
+ case 'postgrad'    : document.getElementById('postgrad').style.display  = ''; break;
+ case 'subjects'    : document.getElementById('subjects').style.display  = ''; break;
+ }
+}
+
+function changeLocation(menuObj)
+{
+   		var i = menuObj.selectedIndex;
 			if(i > 0){
       			window.location = menuObj.options[i].value;
    			}
-		}
-	</script>
-</head>
+}
+
+window.onbeforeunload = searchHeaderReset;
+
+
+//-->
+</script></head>
 <!--corporate-header hn-corporate--><!--none--><!--corporate-content-->
 <body class="none">
-<!-- JH test code -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- JH test code -->
-
-
 	<div class="inv-navigation">
 		<ul>
 			<li><a name="top" id="top"></a></li>
-			<li><a href="/" title="Click to go to the homepage" class="invisible">Return to the Sheffield Hallam University homepage</a></li>
-			<li><a href="#navigation" class="invisible" title="Skip to navigation">Skip to navigation</a></li>
-			<li><a href="#content" class="invisible" title="Skip to main content">Skip to main content</a></li>
+				<li><a href="/" title="Click to return to the homepage" class="invisible">Return to the Sheffield Hallam University homepage</a></li>
+	<li><a href="#navigation" class="invisible" title="Skip to navigation">Skip to navigation</a></li>
+	<li><a href="#content" class="invisible" title="Skip to main content">Skip to main content</a></li>
 		</ul>
 	</div>
 
@@ -102,11 +149,13 @@ var WRInitTime=(new Date()).getTime();
 
 		<div id="layout-print-header"><img src="/images/print/layout-print.gif" width="160" height="45" alt="Layout print header" id="layout-print-img" longdesc="http://www.shu.ac.uk/images/description/print.txt"><span class="inv-linkspace">[<a href="http://www.shu.ac.uk/images/description/print.txt" onclick="window.open(this.href,'_blank');return false;" onkeypress="window.open(this.href,'_blank');return false;">D</a>]</span></div>
 
-		<!-- Clear room for the header -->
+				<!-- Clear room for the header -->
 				<div id="clearheader"></div>
-		
+
+
 		<div id="content" class="corporate-content">
-          <!-- start content --><div id="content-left">
+          <!-- start content -->
+          <div id="content-left">
 			<!-- start content left -->	
   <div id="page-navigation">
 					<!-- start page navigation -->
@@ -144,22 +193,22 @@ var WRInitTime=(new Date()).getTime();
 				  <!-- InstanceBeginEditable name="contentPageContent" -->
 				  <h1><strong>Privacy policy</strong></h1>
 				  <p>This website (<a href="..">www.shu.ac.uk</a>) is run by Sheffield Hallam University. The privacy of our users is important to us and the University takes care to safeguard it.&nbsp; This policy explains why and how we collect and use your personal data.</p>
-				  <p>We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1st January 2009.</p>
+				  <p>We may change this policy by updating the information on this page. You should check this page from time to time to ensure that you are happy with any changes that we make. This policy is effective from 1 January 2009.</p>
 				  <h3>1.&nbsp; Use of information provided by visitors</h3>
 				  <p><strong>a) Enquiries (i.e. requesting publications, registering for open days, enquiring about </strong><strong>courses or events etc.)</strong></p>
 				  <p>You may be asked to provide your name, e-mail address or other personal information on various pages on our site in order that your enquiry can be dealt with. &nbsp;When you provide this information you are asked whether you wish to receive any further communication from Sheffield Hallam University.</p>
 				  <p>If you choose not to receive further communications we will only use your name and address details to respond to your enquiry. We will not use it for any other purpose and it is never sold to any third party. &nbsp;</p>
 				  <p>We may use mailing houses to process certain mailings and external research agencies to carry our market research on the University's behalf.&nbsp; The University ensures that such agencies will also handle information securely and in accordance with the Data Protection Act.</p>
 				  <p>We will use any demographic information you provide for market research purposes (in aggregate form) only.&nbsp; These statistics will not include any information that could be used to identify any individual.</p>
-				  <p>If you choose to receive further communication from Sheffield Hallam University, you may change your mind at any time by writing to us or emailing us using the following contact details</p>
+				  <p>If you choose to receive further communication from Sheffield Hallam University, you may change your mind at any time by writing to us or e-mailing us using the following contact details</p>
 				  <p>Steven Hunter <br>
-  Web Marketing Manager <br>
+  Digital Marketing Communications Manager <br>
   Department of Marketing <br>
   Sheffield Hallam University <br>
   City Campus <br>
   Sheffield <br>
   S1 1WB </p>
-				  <p>Email: webclinic@shu.ac.uk </p>
+				  <p>E-mail: <a href="mailto:creativedigital@shu.ac.uk">creativedigital@shu.ac.uk</a> </p>
 				  <p><strong>b) Subscription services</strong></p>
 				  <p>You may use our subscription facility to receive regular e-mail updates or SMS text messages from Sheffield Hallam University. Any information you supply for this is used only to deliver messages based on the subjects you choose to the e-mail address or telephone number you specify. We do not share this information in any way. You may unsubscribe at any time. Details of how to stop receiving updates are provided at the time of subscribing and on the relevant web pages.&nbsp; &nbsp;</p>
 				  <p><strong>c) Online community</strong></p>
@@ -174,10 +223,11 @@ var WRInitTime=(new Date()).getTime();
 				  <p>Cookies are small text files that are transferred to your computer's hard drive through your web browser when you are visit websites&nbsp; A cookie contains a unique number, but no personal data.&nbsp; We will not use the cookie to identify you personally.&nbsp; </p>
 				  <p>Most browsers allow you choose whether cookies are used or not. The 'help' portion of your browser's toolbar will usually tell you how to configure your browser to refuse cookies, to delete cookies or to notify you when you receive a new cookie.&nbsp; However, by turning off cookies you may make the website less efficient and some services may not function properly</p>
 				  <h3>4. Inaccurate data</h3>
-				  <p>The University will make reasonable endeavours to ensure that the information it places on our website is accurate.&nbsp; However, the University does not accept responsibility for any losses caused by errors or inaccuracies in the information within the website. If you believe that any information Sheffield Hallam University has published on the website is incorrect, you should email <a href="mailto:webclinic@shu.ac.uk">webclinic@shu.ac.uk</a> or write to the Web Marketing Manager at the address below and any information which is found to be incorrect will be corrected as soon as possible.&nbsp;&nbsp;&nbsp; <br>
+				  <p>The University will make reasonable endeavours to ensure that the information it places on our website is accurate.&nbsp; However, the University does not accept responsibility for any losses caused by errors or inaccuracies in the information within the website. </p>
+				  <p>If you believe that any information Sheffield Hallam University has published on the website is incorrect, you should e-mail <a href="mailto:creativedigital@shu.ac.uk">creativedigital@shu.ac.uk</a> or write to  the address below - any information which is found to be incorrect will be corrected as soon as possible.&nbsp;&nbsp;&nbsp; <br>
 			      </p>
 				  <p>Steven Hunter <br>
-			      Web Marketing Manager<br>
+			      Digital Marketing Communications Manager<br>
 			      Department of Marketing<br>
 			      Sheffield Hallam University<br>
 			      City Campus<br>
@@ -185,15 +235,14 @@ var WRInitTime=(new Date()).getTime();
 			      Sheffield <br>
 			      S1 1WB</p>
 				  <h3>5.&nbsp; Feedback </h3>
-				  <p>If you feel this site is not following its stated privacy policy, you may contact us at <a href="mailto:webclinic@shu.ac.uk">webclinic@shu.ac.uk</a> or write to <br>
-				    <br>
-			      Steven Hunter<br>
-			      Web Marketing Manager<br>
-			      Department of Marketing<br> 
-			      Sheffield Hallam University<br> 
-			      City Campus, <br>
-			      Sheffield, <br>
-			      S1 1WB</p>
+				  <p>If you feel this site is not following its stated privacy policy, you may contact us at <a href="mailto:creativedigital@shu.ac.uk">creativedigital@shu.ac.uk</a> or write to </p>
+				  <p>Steven Hunter<br>
+				    Digital Marketing Communications Manager<br>
+				    Department of Marketing<br>
+				    Sheffield Hallam University<br>
+				    City Campus, <br>
+				    Sheffield, <br>
+				    S1 1WB</p>
 				  <h3>6. Data Protection Act</h3>
 				  <p>Information will be used in accordance with the Data Protection Act 1998 and other applicable legislation. The University is registered as a Data Controller with the Information Commissioner. <a href="http://www.esd.informationcommissioner.gov.uk/esd/DoSearch.asp?reg=3382927">Our register entry can be viewed here</a>.</p>
 				  <p> The University's Data Protection Policy Statement is also <a href="http://students.shu.ac.uk/rightsrules/othercodesandpolicies/it/dataprotection.html">available and can be viewed here.</a></p>
@@ -227,29 +276,32 @@ var WRInitTime=(new Date()).getTime();
 		<!-- Clear room for the footer -->
 		<div id="clearfooter"></div>
 
-		<div id="header">
-		<!-- start header -->
+						<div id="header">
+								<!-- start header -->
 
-			<div id="header-layout" class="corporate-header">
-			<!-- start header layout -->
+					<div id="header-layout" class="corporate-header">
+					<!-- start header layout -->
 
-				<!-- Topbar - Including logo, image and navigation -->
-				<div id="header-navigation">
-
-
-					<div id="shu-logo">
-						<h1><span class="inv-linkspace">[</span><a href="/" title="Homepage link: Sheffield Hallam University">Sheffield Hallam University</a><span class="inv-linkspace">]</span></h1>
+						<!-- Topbar - Including logo, image and navigation -->
+						<div id="header-navigation">
 
 
-														<h2>Sharpens your thinking</h2>
-												</div>
+
+		
+							<div id="shu-logo">
+								<h1><span class="inv-linkspace">[</span><a href="/" title="Homepage link: Sheffield Hallam University">Sheffield Hallam University</a><span class="inv-linkspace">]</span></h1>
+
+
+																		<h2>Sharpens your thinking</h2>
+																</div>
+
 
 					<a name="navigation" id="navigation"></a>
 
 					
 					<ul id="hn-corporate">
-						<li><a href="/" title="Sheffield Hallam University Navigation: Home">Home</a></li>
-						<li><a href="/study/" title="Sheffield Hallam University Navigation: Study">Study</a></li>
+						<li><a class="first" href="/" title="Sheffield Hallam University Navigation: Home">Home</a></li>
+						<li><a href="/study/" title="Sheffield Hallam University Navigation: Courses">Courses</a></li>
 						<li><a href="/university/" title="Sheffield Hallam University Navigation: University">University</a></li>
 						<li><a href="/sheffield/" title="Sheffield Hallam University Navigation: Sheffield">Sheffield</a></li>
 						<li><a href="/news/" title="Sheffield Hallam University Navigation: News">News</a></li>
@@ -263,13 +315,67 @@ var WRInitTime=(new Date()).getTime();
 
 					</ul>
 					
+
 			  <div id="header-forms">
 
-						<form action="#">
-							<fieldset id="browsesubject-shu">
-														<label for="menu3">Browse subject sites:</label>
-			  <select name="menu3" id="menu3" onchange="javascript:changeLocation(this)">
-									<option value="http://www.shu.ac.uk" selected="selected">&lt; Select a subject site &gt;</option>
+<div id="searchBoxHolder">
+                <div>
+                <fieldset id="search-shu" style="border:none;padding:0px;margin:0px;display:inline;">
+
+                    <select name="select" id="select" class="searchBoxDropdown" onchange="showSearches(this.value);" style="font-size:9px;">
+                        <option value="site">Entire Site</option>
+                        <option value="undergrad">Undergraduate courses</option>
+                        <option value="postgrad">Postgraduate courses</option>
+                        <option value="parttime">Part-time study</option>
+                                                <option value="subjects">Subject sites</option>
+                                            </select>
+                   <div id="site">
+                   					   	<form method="get" action="http://www.shu.ac.uk/search.html" style="border:none;padding:0px;margin:0px;display:inline;">   <div>
+					                   <label for="q">&nbsp;</label>
+                    <input type="text" name="q" id="q" size="24" class="searchBoxStyle">
+                    <input type="submit" name="btnG" value="> Search" class="search-submit">
+                   </div></form>
+                   </div>
+                   <div id="undergrad" style="display:none;">
+                   <form method="post" action="http://prospectus.shu.ac.uk/SearchResults.cfm" style="border:none;padding:0px;margin:0px;display:inline;">    <div>
+                   <label for="SearchField1">&nbsp;</label>
+                    <input type="text" name="SearchField" id="SearchField1" size="24" class="searchBoxStyle">
+                    <input type="submit" name="Search1" value="> Search" class="search-submit">
+                    <input type="hidden" value="UG" name="SType">
+                    <input type="hidden" value="xxx" name="CourseTypeDropDown">
+
+                   </div></form>
+                   </div>
+                   <div id="parttime" style="display:none;">
+                   <form method="post" action="http://prospectus.shu.ac.uk/SearchResults.cfm" style="border:none;padding:0px;margin:0px;display:inline;">    <div>
+                   <label for="SearchField2">&nbsp;</label>
+                    <input type="text" name="SearchField" id="SearchField2" size="24" class="searchBoxStyle">
+                    <input type="submit" name="Search1" value="> Search" class="search-submit">
+                   <input type="hidden" value="PT" name="Stype">
+                   <input type="hidden" value="xxx" name="CourseTypeDropDown">
+
+                   </div></form>
+                   </div>
+                   <div id="postgrad" style="display:none;">
+                   <form method="post" action="http://prospectus.shu.ac.uk/SearchResults.cfm" style="border:none;padding:0px;margin:0px;display:inline;">    <div>
+                   <label for="SearchField3">&nbsp;</label>
+                    <input type="text" name="SearchField" id="SearchField3" size="24" class="searchBoxStyle">
+                    <input type="submit" name="Search1" value="> Search" class="search-submit">
+                   <input type="hidden" value="FT" name="FT">
+                   <input type="hidden" value="PT" name="PT">
+                   <input type="hidden" value="DL" name="DL">
+                   <input type="hidden" value="PG" name="Stype">
+                   <input type="hidden" value="xxx" name="CourseTypeDropDown">
+
+                   </div></form>
+                   </div>
+                   <div id="subjects" style="display:none;">
+                   <form action="#" style="border:none;padding:0px;margin:0px;display:inline;">
+                   <div>
+				   <label for="menu3" style="display:none;">Select a subject site</label>
+				   <select name="menu3" id="menu3" class="searchBoxDropdown" onchange="javascript:changeLocation(this)">
+				   
+				   <option value="http://www.shu.ac.uk" selected="selected" style="">&lt; Select a subject site &gt;</option>
 									<option value="http://www.shu.ac.uk/finance/">Accounting, banking and finance</option>
 									<option value="http://www.shu.ac.uk/art/">Art and design</option>
 									<option value="http://www.shu.ac.uk/bio/">Biosciences</option>
@@ -297,7 +403,6 @@ var WRInitTime=(new Date()).getTime();
 									<option value="http://www.shu.ac.uk/mathematics/">Mathematics and statistics</option>
 									<option value="http://www.shu.ac.uk/midwifery/">Midwifery</option>
 									<option value="http://www.shu.ac.uk/mba/">MBA (Master of Business Administration)</option>
-									<option value="http://www.shu.ac.uk/multimedia/">Multimedia and internet</option>
 									<option value="http://www.shu.ac.uk/nursing/">Nursing</option>
 									<option value="http://www.shu.ac.uk/occupational/">Occupational therapy</option>
 									<option value="http://www.shu.ac.uk/odp/">Operating department practice</option>
@@ -311,67 +416,60 @@ var WRInitTime=(new Date()).getTime();
 									<option value="http://www.shu.ac.uk/socialwork/">Social work</option>
 									<option value="http://www.shu.ac.uk/active/">Sport and active lifestyles</option>
 									<option value="http://www.shu.ac.uk/tourism/">Tourism, hospitality and event management</option>
-								</select>
-													  </fieldset>
-						</form>
-
-						<!-- Search My Google Search Appliance -->
-						<form method="get" action="/search.html">
-							<fieldset id="search-shu">
-								<label for="q"></label>
-
-                            <div id="search">
-                                                            <div id="search-margin">
-                                                            <input type="text" name="q" id="q" size="30" maxlength="255" onblur="if(this.value==''){this.value=''}" onfocus="if(this.value==''){this.value=''}" value="" class="input"><!-- Add this to keep search term in input after search -->
-                              <input type="submit" name="btnG" value="Search" class="submit">
-                            </div>
-                            </div>
-						  </fieldset>
-						</form>
-						<!-- Search My Google Search Appliance-->
+				   								</select>
+							</div>
+						</form>   </div>
+                   </fieldset></div>
+                </div><!--searchBoxHolder-->
 
 					</div>
 
 				</div>
 
-				<!-- Quick links panel including serach -->
+<!-- Quick links panel including search -->
+
 				<div id="quicklinks-navigation">
 					<ul>
 
-												<li><a href="/study/open/" title="Sheffield Hallam University Quicklinks: Open days">Open days</a></li>
-						<li><a href="/study/prospectus/" title="Sheffield Hallam University Quicklinks: Order a prospectus">Order a prospectus</a></li>
-																		<li><a href="/contact/" title="Sheffield Hallam University Quicklinks: Contact us">Contact us</a></li>
-												<li><a href="/visit/" title="Sheffield Hallam University Quicklinks: How to find us">How to find us</a></li>
-						<li><a href="/about/access.html" title="Sheffield Hallam University Quicklinks: Accessibility">Accessibility</a></li>
-						<li><a href="/sitemap/" title="Sheffield Hallam University Quicklinks: Sitemap">Sitemap</a></li>
-					</ul>
+												<li class="link1"><a href="/study/open/" title="Sheffield Hallam University Quicklinks: Open days">Open days</a></li>
+						<li class="link2"><a href="/study/prospectus/" title="Sheffield Hallam University Quicklinks: Order a prospectus">Order a prospectus</a></li>
+						<li class="link3"><a href="/contact/" title="Sheffield Hallam University Quicklinks: Contact us">Contact us</a></li>
+						<li class="link4"><a href="/visit/" title="Sheffield Hallam University Quicklinks: How to find us">How to find us</a></li>
+						<li class="link5"><a href="/askhallam/" title="Sheffield Hallam University Quicklinks: Ask Hallam">Ask Hallam</a></li>
+						<li class="link6"><a href="/sitemap/" title="Sheffield Hallam University Quicklinks: Sitemap">Sitemap</a></li>
+											</ul>
 				</div>
 
-			<!-- end header layout -->
-			</div>
 
+
+			<!-- end header layout -->
+                                    			<!-- end header layout --></div>
 			<!-- page image -->
-<div id="page-image"><!-- InstanceBeginEditable name="pageImage" --><img src="../images/about/banner-aboutweb.jpg" id="page-img" height="220" alt="Image of the homepage of Sheffield Hallam University" width="960"><!-- InstanceEndEditable --></div>		<!-- end header -->
+<div id="page-image"><!-- InstanceBeginEditable name="pageImage" --><img src="../_assets/images/jpg/banner-privacy.jpg" width="960" height="220" alt="Blurred image of people on a staircase at Sheffield Hallam University"><!-- InstanceEndEditable --></div>
+		<!-- end header -->
 		</div>
 
 	<!-- end page layout -->
 	</div>
+	<div id="footerHolder" class="footerText">
+            <div id="footerLeft">
+            
+                <h2>Sheffield Hallam University, City Campus, Howard Street, Sheffield S1 1WB</h2>
+                <h2>Phone 0114 225 5555 | Fax 0114 225 4449</h2>
+        		                        
+            </div><!--footerLeft-->
+            <div id="footerRight1">
+                <p><a href="http://www.shu.ac.uk/about/privacy.html">Privacy policy</a></p>
+                <p><a href="http://www.shu.ac.uk/about/foi/">Freedom of information</a></p>
+                <p><a href="http://www.shu.ac.uk/contact/">Feedback</a></p>
+            </div><!--footerRight1-->
+            <div id="footerRight2">
+                <p><a href="http://www.shu.ac.uk/about/access.html">Accessibility</a></p>
+                <p><a href="http://www.shu.ac.uk/sitemap/">Sitemap</a></p>
+                <p><a href="http://www.shu.ac.uk/about/legal.html">Legal information</a></p>
+            </div><!--footerRight2-->
+        </div>
 
-	<div id="footer">
-
-		<p><b>Sheffield Hallam University</b>, City Campus, Howard Street, Sheffield S1 1WB.<br>Telephone 0114 225 5555 | Fax 0114 225 4449
-				</p>
-
-		<ul>
-			<li><a href="/sitemap/" title="Sheffield Hallam University Footer Navigation: Sitemap">Sitemap</a></li>
-			<li><a href="/about/legal.html" title="Sheffield Hallam University Footer Navigation: Legal Information">Legal Information</a></li>
-			<li><a href="/about/privacy.html" title="Sheffield Hallam University Footer Navigation: Privacy Policy">Privacy Policy</a></li>
-			<li><a href="/about/access.html" title="Sheffield Hallam University Footer Navigation: Accessibility">Accessibility</a></li>
-			<li><a href="/about/foi/" title="Sheffield Hallam University Footer Navigation: Freedom of information">Freedom of information</a></li>
-			<li><a href="/contact/" title="Sheffield Hallam University Footer Navigation: Feedback">Feedback</a></li>
-		</ul>
-
-	</div>
 
 	<div class="inv-navigation">
 		<ul>
@@ -380,15 +478,7 @@ var WRInitTime=(new Date()).getTime();
 		</ul>
 	</div>
 
-<!-- JH Test code -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(24769,0.012,"www");
-</script>
-<!-- JH Test code  -->
-
-
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0007/6959.js"> </script>
 
 	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
