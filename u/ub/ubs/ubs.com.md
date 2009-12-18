@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163234id_/http%3A//www.ubs.com/1/e/index/legalinfo2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113014id_/http%3A//www.ubs.com/1/e/index/legalinfo2/privacy.html) for the most accurate reproduction.*
 
 # UBS - Privacy Statement
 
@@ -25,11 +25,11 @@ We use your personal data to inform you about our services and products only in 
 
 **How do we collect and store information from you?**
 
-UBS may use cookies and page tags to enhance your user experience while visiting the UBS Website.
+UBS uses tracking technology such as cookies or tags to gather such information as outlined above (see: "What information do we collect from you and for what purpose?") and to understand how visitors use the UBS Website. Tracking technology helps us manage and improve the usability of the UBS Website, for example, by determining whether there has been any contact between your computer and us in the past and identify the most popular sections of the UBS Website.
 
-"Cookies" are small files which are stored on your hard drive. There are two different types of cookies. Session cookies are temporary and erased when you close your browser. Persistent cookies remain on your hard drive until you erase them or they expire. UBS uses persistent cookies to determine whether there has been any contact between your computer and us in the past. Only the cookie on your computer is identified. Most browsers automatically accept cookies. You can prevent cookies from being stored on your hard drive by setting your browser to "not accept cookies". The exact instructions for this can be found in the manual for your browser. You can delete cookies already on your hard drive at any time. If you choose not to accept cookies, you can still visit the UBS Website. However, this may result in a reduced availability of the services provided by the UBS Website. 
+Please ensure that your computer setting reflects whether you accept cookies and other tracking technologies or have disabled or deactivated them. You can set your browser to warn you before accepting such tracking technology, or you can also set it to refuse such devices. The specific instructions can be found in the manual of your browser. Disabling or deactivating of devices may result in a reduced availability of the services provided by the UBS Website or parts of the UBS Website may no longer function correctly.
 
-"Page tags" are small components of JavaScript code embedded in our web pages. Every time you request a new page, your browser will send information to a remote server of UBS. Page tags help us to identify the most popular sections of the UBS Website and improve our services. You may deactivate page tags by disabling JavaScript in your browser within the security settings. However, once JavaScript is disabled, parts of the UBS Website may not function correctly.
+All electronic messages sent to and from UBS are automatically retained in a distinct journaling system which preserves the evidential weight of the e-mails. They are protected by adequate legal, technical and organisational measures and may only be accessed in justified cases in line with applicable laws and regulations (e.g. court order, suspicion of criminal conduct, violation of regulatory obligations, material breach of employment contract) to specific persons in defined functions (e.g. Legal, Compliance, Risk). Every step of the process as well as the search criteria used, are logged in an audit trail. All emails are disposed of after the applicable retention period has expired. 
 
 **To whom do we disclose information gathered from the UBS Website?**
 
@@ -37,7 +37,7 @@ UBS may disclose your information to its employees, agents and affiliates inside
 
 When transferring personal data internationally we make sure that we comply with applicable laws and regulations, for example, by entering into agreements which will ensure that the recipients of your information maintain an adequate level of data protection.
 
-We may also disclose your information to governmental agencies or entities, regulatory authorities, or other persons in line with applicable rules, orders, subpoenas, official requests, or similar processes as either required or permitted by applicable law. 
+We may also disclose your information to governmental agencies or entities, regulatory authorities, or other persons in line with applicable rules, orders, subpoenas, official requests, or similar processes as either required or permitted by applicable law.
 
 **Which security measures have been implemented to protect information from you?**
 
@@ -63,4 +63,4 @@ P.O. Box
 8098 Zürich  
 Switzerland
 
-Last update in February 2009.
+Last update in November 2009.
