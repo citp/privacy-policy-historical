@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giantbomb.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627153515id_/http%3A//www.giantbomb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantbomb.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218205513id_/http%3A//www.giantbomb.com/privacy) for the most accurate reproduction.*
 
-# GiantBomb.com - Video Game Reviews, Encyclopedia and Community
+# Giant Bomb Privacy Policy
 
 This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us at privacy@giantbomb.com or send us a note to:
 
