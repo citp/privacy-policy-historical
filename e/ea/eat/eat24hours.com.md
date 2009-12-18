@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064818id_/http%3A//eat24hours.com/index.php%3FSCR%3Ds_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218030021id_/http%3A//eat24hours.com/index.php%3FSCR%3Ds_privacy) for the most accurate reproduction.*
 
-# Food Delivery | Restaurant Delivery | Restaurant Food Online | Eat24Hours.com
+# Food Delivery | Restaurants Delivery | Eat24Hours - Order Food Online
 
-**_Our Privacy Statement  _**
+* * *
 
 _Eat24hours.com is committed to protecting your privacy when you use our on-line or other services ("Services").   In this policy we explain how and why we collect your information, what do we do with it and what controls you have over our use of it._
 
 _From time to time, we add or change functions, features or products to our web site or add or change Services.   This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy.  As a result, please remember to refer back to this Privacy Policy regularly to review any amendments. _
 
-_Any questions regarding our Privacy Policy should be directed to contact at company name at[Info@Eat24Hours.com](mailto:Info@Eat24Hours.com) or alternatively see the section "Comments" below._
+_Any questions regarding our Privacy Policy should be directed to contact at company name at[Eat24Hours@Eat24Hours.com](mailto:Eat24Hours@Eat24Hours.com) or alternatively see the section "Comments" below._
 
 **_Your acceptance of these Privacy Statement terms._**
 
@@ -74,7 +74,7 @@ _We will only sell or rent your personal information to a third party either as 
 
 **_Information about products and services_**
 
-_It is very important to us that we provide you with the highest level of service.   In order to help us do this, from time to time Eat24Hours.com may send you details of our products and services which we think may be of interest to you.  If at any time you do not wish to receive these details, please e-mail us at [Info@Eat24Hours.com](mailto:Info@Eat24Hours.com)._
+_It is very important to us that we provide you with the highest level of service.   In order to help us do this, from time to time Eat24Hours.com may send you details of our products and services which we think may be of interest to you.  If at any time you do not wish to receive these details, please e-mail us at [Eat24Hours@Eat24Hours.com](mailto:Eat24Hours@Eat24Hours.com)._
 
 **_Security_**
 
@@ -86,4 +86,4 @@ _Information which you submit via our Web Sites or our telephone services is sto
 
 **_Comments_**
 
-_Please e-mail any questions, concerns or comments you have about our Privacy Policy to[Info@Eat24Hours.com](mailto:Info@Eat24Hours.com)._
+_Please e-mail any questions, concerns or comments you have about our Privacy Policy to[Eat24Hours@Eat24Hours.com](mailto:Eat24Hours@Eat24Hours.com)._
