@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170603id_/http%3A//www.statto.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218115632id_/http%3A//www.statto.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - statto.com
 
