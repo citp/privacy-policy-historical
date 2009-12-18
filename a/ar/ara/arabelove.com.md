@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605004116id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218073348id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN.aspx) for the most accurate reproduction.*
 
 # Free Arab Dating -arab-dating-privacy:: arabElove.com
 
