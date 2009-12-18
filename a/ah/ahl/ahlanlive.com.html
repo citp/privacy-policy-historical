@@ -1,310 +1,184 @@
-<!--The following is the downloaded HTML source of the ahlanlive.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617070501id_/http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ahlanlive.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218063552id_/http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <title>Ahlan! Live - The Middle East's Glamour &amp; Fashion Magazine, Celebrity News &amp; Events</title>
-  <meta name="description" content="The Middle East's Biggest Celebrity Magazine, Features International Glamour News, Latest Fashion and Beauty Tips, Star Travel &amp; Holidays, Celebrity photos and Events">
-  <meta name="generator" content="ahlanlive.com">
+  <title>Privacy Policy</title>
+  <meta name="description" content="The Middle East's Biggest Celebrity Website, Features International Glamour News, Latest Fashion and Beauty Tips, Star Travel &amp; Holidays, Celebrity photos and Events.">
+  <meta name="generator" content="Ahlan! Live">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="robots" content="noarchive,index,follow">
-  <meta name="keywords" content="AhlanLive.com,Celebrity News,Hollywood News,Entertainment News,Fashion News,Fashion Magazine,Fashion Website,Glamour Website,Horoscope,Star Photos,Celebrity Magazine,Glamour magazine,Fashion Models,Top Models,Supermodels,Fashion World,Glamour world,Hottest News,celebrity gossip,celebs,celebrities,style news,fashion &amp; style,celebrity photos,Star Travel,Holidays,star magazine,Star shots,Health,Beauty,Competition,Prize,Gifts,Best dressed,Fashion flash,celebrity search,Celebrity Profile,Fitness &amp; Health,Hot or not,Star Profile,Celebrity dresses,Actor,Actress,Dubai Diaries,Music,Nights Out,Trend of the week,Middle East,Dubai">
+  <meta name="keywords" content="AhlanLive.com, celebrity news, Hollywood News, Entertainment, Entertainment News, Fashion News, Fashion Magazine, Latest News,Ahlan Loves,Ahlan Hates,Love-o-Meter,Horoscope,Latest Photos,Star Photos,Celebrity Magazine,Beauty Magazine,Online Beauty Magazine,Glamour magazine,Fashion Models,Top Models,Supermodels,Models World,Fashion World,Glamour world,Awards,Hottest News,Current Events,celebrity gossip,celebs,celebrities,style,style news,fashion &amp; style,celebrity photos,Star Travel,Holidays,star magazine,Star shots,Health,Beauty,Competition,Current competition,Prize,Gifts,Best dressed,Fashion flash,model search,celebrity search,Star Feature,Star interviews,Snapshots,Pictures,Celebrity Profile,Upcoming events,Fitness &amp; Health,Beauty flash,Movie awards,Hot or not,Star Profile,Celebrity dresses,Actor,Actress,star highlights,Latest issues,United Arab Emirates,UAE,Dubai,Middle East">
   <link href="http://www.ahlanlive.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" src="http://www.ahlanlive.com/media/system/js/mootools.js"></script>
-
-	<link href="/templates/ahlan.ae/components/css/default.css" rel="stylesheet" type="text/css">
-	<script src="/templates/ahlan.ae/components/js/default.js"></script>
-	<script src="/templates/ahlan.ae/components/js/functions.js"></script>
-	<script src="/templates/ahlan.ae/components/js/validate.js"></script>
-	<script type="text/javascript">
-		window.defaultStatus = "Ahlan! Live";
-	</script>
-	
-<!--[if lt IE 7]>
-<script defer type="text/javascript" src="/templates/ahlan.ae/components/js/pngfix.js"></script>
-<![endif]-->
-
-
-
-
-<script>
-function imageholderclass(){
-	this.over=new Array();
-	this.down=new Array();
-	this.src=new Array();
-	this.store=store;
-	
-	function store(src, down, over){
-		var AL=this.src.length;
-		this.src[AL]=new Image(); this.src[AL].src=src;
-		this.over[AL]=new Image(); this.over[AL].src=over;
-		this.down[AL]=new Image(); this.down[AL].src=down;
-	}
-}
-
-var ih = new imageholderclass();
-var mouseisdown=0;
-
-function preloader(t){
-	for(i=0;i<t.length;i++){
-		if(t[i].getAttribute('srcover')||t[i].getAttribute('srcdown')){
-			
-			storeimages(t[i]);
-			var checker='';
-			checker=(t[i].getAttribute('srcover'))?checker+'A':checker+'';
-			checker=(t[i].getAttribute('srcdown'))?checker+'B':checker+'';
-			
-			switch(checker){
-			case 'A' : mouseover(t[i]);mouseout(t[i]); break;
-			case 'B' : mousedown(t[i]); mouseup2(t[i]); break;
-			case 'AB' : mouseover(t[i]);mouseout(t[i]); mousedown(t[i]); mouseup(t[i]); break;
-			default : return;			
-			}
-			
-			if(t[i].src){t[i].setAttribute("oldsrc",t[i].src);}
-		}
-	}
-}
-function mouseup(t){
-	var newmouseup;
-	if(t.onmouseup){
-		t.oldmouseup=t.onmouseup;
-		newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("srcover");this.oldmouseup();}
-
-	}
-	else{newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("srcover");}}
-	t.onmouseup=newmouseup;
-}
-
-function mouseup2(t){
-	var newmouseup;
-	if(t.onmouseup){
-		t.oldmouseup=t.onmouseup;
-		newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("oldsrc");this.oldmouseup();}
-		}
-	else{newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("oldsrc");}}
-	t.onmouseup = newmouseup;
-}
-
-function mousedown(t){
-	var newmousedown;
-	if(t.onmousedown){
-		t.oldmousedown=t.onmousedown;
-		newmousedown=function(){if(mouseisdown==0){this.src=this.getAttribute("srcdown");this.oldmousedown();}}
-	}
-	else{newmousedown=function(){if(mouseisdown==0){this.src=this.getAttribute("srcdown");}}}
-	t.onmousedown=newmousedown;
-}
-
-function mouseover(t){
-	var newmouseover;
-	if(t.onmouseover){
-		t.oldmouseover=t.onmouseover;
-		newmouseover=function(){this.src=this.getAttribute("srcover");this.oldmouseover();}
-	}
-	else{newmouseover=function(){this.src=this.getAttribute("srcover");}}
-	t.onmouseover=newmouseover;
-}
-
-function mouseout(t){
-	var newmouseout;
-	if(t.onmouseout){
-		t.oldmouseout=t.onmouseout;
-		newmouseout=function(){this.src=this.getAttribute("oldsrc");this.oldmouseout();}
-	}
-	else{newmouseout=function(){this.src=this.getAttribute("oldsrc");}}
-	t.onmouseout=newmouseout;
-}
-
-function storeimages(t){
-	var s=(t.getAttribute('src'))?t.getAttribute('src'):'';
-	var d=(t.getAttribute('srcdown'))?t.getAttribute('srcdown'):'';
-	var o=(t.getAttribute('srcover'))?t.getAttribute('srcover'):'';
-	ih.store(s,d,o);
-}
-
-function preloadimgsrc(){
-	if(!document.getElementById) return;
-	var it=document.getElementsByTagName('IMG');
-	var it2=document.getElementsByTagName('INPUT');
-	preloader(it);
-	preloader(it2);
-}
-
-if(window.addEventListener){window.addEventListener("load", preloadimgsrc, false);} 
-else{
-	if(window.attachEvent){window.attachEvent("onload", preloadimgsrc);}
-	else{if(document.getElementById){window.onload=preloadimgsrc;}}
-}
-</script>
-
-
+  <link rel="stylesheet" href="/templates/ahlan_v3/components/css/base.0.9.5.css" type="text/css">
+  <script type="text/javascript" src="/templates/ahlan_v3/components/js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/templates/ahlan_v3/components/js/jquery.plugins.min.js"></script>
+  <script type="text/javascript" src="/templates/ahlan_v3/components/js/swfobject.2.2.js"></script>
+  <script type="text/javascript" src="/templates/ahlan_v3/components/js/main.0.8.1.js"></script>
+  <script type="text/javascript">
+    // <!--
+var DFP_ord = 1261118152; if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;}
+    // -->
+  </script>
 
 </head>
 <body>
-<div id="pagewrapper"><div id="top-container"><a name="up"></a>
-	<div id="branding-strap">
-	<!-- Replace with the below div when the festive perios ends -->
-<div class="right" width="25" height="110"><img src="/templates/ahlanmasala/pictures/furniture/logo_sh_rt.gif" width="25" height="110"> </div>
-	<div id="branding-logo"><a href="/"><img src="/templates/ahlan.ae/pictures/furniture/logo_ahlan_new.jpg" width="227" height="110" border="0" alt="Celebrity Glamour &amp; Fashion News"></a></div><div id="branding-leaderboard"><div id="oas-leaderboard">
-  	
-	<script type="text/javascript">google_sitepage = '/advertise'</script>
-				<!--  begin ad tag: ahlan_en/advertise (728x90)  js -->
-	<script language="JavaScript" type="text/javascript">var DFP_ord = 1245222300; if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise;sz=728x90;tile=' + DFP_tile + ';pos=top;ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
-	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise;sz=728x90;tile=1;pos=top;ord=1245222300?" type="text/javascript"></script>
+<div id="shell">
+	<div id="top_banners">
+		<div class="leaderboard">
+				<!--  begin ad tag: ahlan_en/advertise/homepage (728x90)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=728x90;tile=' + DFP_tile + ';pos=top;ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=728x90;tile=2;pos=top;ord=1261118152?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise;sz=728x90;tile=1;pos=top;ord=1245222300?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise;sz=728x90;tile=1;pos=top;ord=1245222300?" width="728" height="90" border="0" alt=""></a>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=728x90;tile=1;pos=top;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=728x90;tile=1;pos=top;ord=1261118152?" width="728" height="90" border="0" alt=""></a>
 	</noscript><!-- end ad tag --></div>
-</div>
-	<!--<div class="right"><img src="/templates/ahlanmasala/pictures/furniture/logo_sh_rt.gif" /> </div>-->
-		<div style="margin:-5px 0px 0px 12px; clear:both; " width="989" height="7"><img src="/templates/ahlanmasala/pictures/furniture/logo_sh_bot.gif" width="989" height="7"></div>
-        <br clear="all">
-				<div id="nav-top">
-	        &nbsp;&nbsp;
-            <a href="/"><img src="/templates/ahlan.ae/pictures/buttons/navlink_01.gif" width="53" height="27" border="0" alt="Home" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_01.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_01.gif"></a>
-            <a href="/news"><img src="/templates/ahlan.ae/pictures/buttons/navlink_02.gif" width="61" height="27" border="0" alt="News" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_02.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_02.gif"></a>
-            <a href="/photos"><img src="/templates/ahlan.ae/pictures/buttons/navlink_03.gif?1" width="67" height="27" border="0" alt="Dubai Diaries" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_03.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_03.gif?1"></a>
-            <a href="/going-out"><img src="/templates/ahlan.ae/pictures/buttons/navlink_04.gif?1" width="70" height="27" border="0" alt="Going Out" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_04.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_04.gif?1"></a>
-            <a href="/starstyle"><img src="/templates/ahlan.ae/pictures/buttons/navlink_05.gif?1" width="87" height="27" border="0" alt="Star Style" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_05.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_05.gif?1"></a>
-            <a href="/celebs"><img src="/templates/ahlan.ae/pictures/buttons/navlink_06.gif" width="63" height="27" border="0" alt="Celebs" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_06.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_06.gif"></a>
-            <a href="/competitions"><img src="/templates/ahlan.ae/pictures/buttons/navlink_07.gif" width="95" height="27" border="0" alt="Competitions" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_07.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_07.gif"></a>
-            <a href="/travel"><img src="/templates/ahlan.ae/pictures/buttons/navlink_08.gif" width="65" height="27" border="0" alt="Travel" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_08.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_08.gif"></a>
-           <a href="/horoscope"><img src="/templates/ahlan.ae/pictures/buttons/navlink_12.gif" width="87" height="27" border="0" alt="Horoscopes" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_12.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_12.gif"></a>
-                     <a href="/health-and-beauty"><img src="/templates/ahlan.ae/pictures/buttons/navlink_09.gif" width="103" height="27" border="0" alt="Health+Beauty" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_09.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_09.gif"></a>
-          <a href="/hot100"><img src="/templates/ahlan.ae/pictures/buttons/navlink_10.gif" width="70" height="27" border="0" alt="HOT 100" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_10.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_10.gif"></a>
-		  <a href="/dwc"><img src="/templates/ahlan.ae/pictures/buttons/navlink_16.gif" width="63" height="27" border="0" alt="DWC 2009" srcover="/templates/ahlan.ae/pictures/buttons/navlink_ro_16.gif" oldsrc="https://web.archive.org/templates/ahlan.ae/pictures/buttons/navlink_16.gif"></a>
-          </div>
-  </div>
-
-</div>
-<div id="main-container-shadow" class="bd_shadow">
-	<div id="main-container">
-		<div id="crumbs-bar">
-			<div class="date">
-				<div class="section-title">
-				Privacy Policy...				</div>
-				<strong>Wednesday, 17 June, 2009</strong></div>
-			<div class="nav-links">
-			<form action="/index.php" method="post">
-			<table width="100px" border="0" cellspacing="0" cellpadding="0" align="right" style="border:1px solid #FF0000; float:right">
-			<tbody><tr>
-			<td><span><img src="/templates/ahlan.ae/pictures/icons/search.gif" width="24" height="18" align="absmiddle"></span></td>
-					<td>
-						<input type="text" size="10" name="searchword" class="searcharea" value=" Search" onfocus="if(this.value==' Search') { this.value = '' };this.style.color='#000000'" onblur="if(this.value=='') { this.value = ' Search' };this.style.color='#999999'">
-						</td>
-										<td><span class="features-scroll"><input type="image" src="/templates/ahlan.ae/pictures/buttons/go_red.gif" width="24" align="absmiddle" style="height:18px"></span></td>
-				</tr>
-			<input type="hidden" name="ordering" value="newest">
-			<input type="hidden" name="searchphrase" value="exact">
-			<input type="hidden" name="task" value="search">
-			<input type="hidden" name="option" value="com_search">
-			</tbody></table>
-			</form>
-				<ul>
+	
+<a href="competitions/details/3095"><img src="/pictures/rihannacomp.jpg" border="0" width="200" style="margin:5px 0 0 20px;" alt="Competition"></a>
+	</div>
+    <div id="content">
+        <div id="head">
+            <div id="branding">
+                <div id="tail_logo">
+	<a href="/"><img src="/templates/ahlan_v3/pictures/furniture/ahlanlive_tail_logo.png" alt="Ahlanlive - Latest celebrity news" title="Ahlanlive - Latest celebrity news"></a>
+</div><div id="top_tools">
+			<div id="top_search">
+				<form action="/index.php" method="post">
+					<input type="text" value="Search" id="searchword" name="searchword" title="Enter search term" onfocus="if(this.value=='Search') { this.value = '' };this.style.color='#000000'" onblur="if(this.value=='') { this.value = 'Search' };this.style.color='#999999'">
+					<button>Search</button>
+					<input class="hidden" name="ordering" value="newest" style="display:none">
+					<input class="hidden" name="searchphrase" value="exact" style="display:none">
+					<input class="hidden" name="task" value="search" style="display:none">
+					<input class="hidden" name="option" value="com_search" style="display:none">
+				</form>					
+			</div>
+			<ul>
+            
+            
 										
-									<li><a href="http://www.ahlanlive.com/login">Register</a></li>
+									<li><a href="http://www.ahlanlive.com/login?task=register">Register</a></li>
 									<li><a href="http://www.ahlanlive.com/login">Log in</a></li>
 												
-											<li><a href="javascript:;" onclick="bookmarkPage(document.title,document.location.href);">Bookmark</a></li>
-					<li><a href="http://www.ahlanlive.com/newsletter">Newsletters</a></li>
-					<li class="lastlink"><a href="http://www.ahlanlive.com/allfeeds">RSS Feeds</a></li>
-				</ul>
+						            
+				<li><a href="http://www.ahlanlive.com/newsletter">Newsletters</a></li>
+				<li class="last"><a href="http://www.ahlanlive.com/allfeeds">RSS Feeds</a></li>
+			</ul>
+		</div>
+	<div id="top_comments">
+				<div>
+				<img src="/pictures/content/author/aoife_stuart.png" alt="Aoife Stuart" title="Aoife Stuart">
+				<p><a href="http://www.ahlanlive.com/17283-suddenly-its-clear-why-heidi-and-seal">
+                Suddenly, it’s clear why Heidi and Seal are still acting like lovestruck teens after four years – she’s still wearing her ‘first date’ mask!                    </a></p>
+				<dfn>Aoife Stuart</dfn>
 			</div>
-		</div>		<!-- Main Content -->
-		<div id="main-content">
-				<script type="text/javascript">
-<!--
-var cp_tmp_height=0;
-var cp_max_height=365;
-var right_top_margin=0;
-
-var cp_parent_name="cPush";
-var cp_timeOut;
-
-
-function f4d_expand_layer(){
-	 clearTimeout(cp_timeOut);
-	 var div = document.getElementById('right-column');
-     with(document.getElementById(cp_parent_name).style){
-	 	  cp_tmp_height=cp_tmp_height+10;
-		  right_top_margin=right_top_margin-10;
-	 	  if(cp_tmp_height<=cp_max_height){
-			display="block";
-	 	  	height=cp_tmp_height+"px";
-			div.style.marginTop = right_top_margin+"px";
-			cp_timeOut=setTimeout('f4d_expand_layer()',10);
-	 	  }
-	 }
-}
-
-function f4d_collapse_layer(){
-	 clearTimeout(cp_timeOut);
-  	 var div = document.getElementById('right-column');
-	 with(document.getElementById(cp_parent_name).style){
-	 	  cp_tmp_height=cp_tmp_height-10;
-          right_top_margin=right_top_margin+10;
-	 	  if(cp_tmp_height>=5){
-	 	  	 height=cp_tmp_height+"px";
-			div.style.marginTop = right_top_margin+"px";
-			 cp_timeOut=setTimeout('f4d_collapse_layer()',10);	
-	 	  }
-	 	  else if(cp_tmp_height==0){
-	 	  	 height="1px";
-			 display="none";
-			 div.style.marginTop = "0px";
-	 	  }
-	 }
-}
-
-var delayPush
-var delayCount = 0
-function f4d_init_expand_layer(){
-	 right_top_margin=0;
-	 if(document.getElementById(cp_parent_name)){
-		 if(delayCount == 0) {
-              delayPush = setTimeout('f4d_expand_layer()', 1000);
-            } else {
-			  f4d_expand_layer();
-			}
-	 }
-}
-
-function f4d_init_collapse_layer(){
-      clearTimeout(delayPush)
-      delayCount = 0
-	 if(document.getElementById(cp_parent_name)){
-      f4d_collapse_layer();
-   }
-}
-
-//-->
-</script>
-			<div id="cPush" style="overflow:hidden;height:1px;display:none;">
-				
-				<!--  begin ad tag: ahlan_en/advertise (615x346)  js -->
-	<script language="JavaScript" type="text/javascript">if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise;sz=615x346;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
-	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise;sz=615x346;tile=2;ord=1245222300?" type="text/javascript"></script>
-	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise;sz=615x346;tile=3;ord=1245222300?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise;sz=615x346;tile=3;ord=1245222300?" width="615" height="346" border="0" alt=""></a>
-	</noscript><!-- end ad tag --></div>			            <div id="subheader" style="margin:20px 0; clear:both;width:930px;">
-		    	
-		    </div>
-			<div id="content-column">
-				
-				<!-- Left & middle columns -->
-				<script language="JavaScript" type="text/javascript">document.getElementById('crumbs-dir').innerHTML = '<span class="mdgrey">ADVERTISE</span> /'</script>	
+					<div>
+				<img src="/pictures/content/author/lucy_wildman.png" alt="Lucy Wildman" title="Lucy Wildman">
+				<p><a href="http://www.ahlanlive.com/17050-lily-the-recessionista">
+                Designer frocks rented out to poor but deserving fashion junkies? Reason enough to have Lily recommended for an OBE                    </a></p>
+				<dfn>Lucy Wildman</dfn>
+			</div>
+			<a class="more" href="http://www.ahlanlive.com/category/alleditor-comment">more comment <i>»</i></a>
+	</div>
+	
+<div id="hot_now">
+	<img alt="Hot Right Now!" title="Hot Right Now!" src="/templates/ahlan_v3/pictures/furniture/hot_right_now.png">
+	
+<a href="http://www.ahlanlive.com/diff">DIFF 2009 News And Pics</a>+
+<a href="http://www.ahlanlive.com/competitions/details/3095">Meet Rihanna and Win Concert Tickets</a>+
+<a href="http://www.ahlanlive.com/17145-tiger-quits-golf">Tiger Woods</a>		</div><div id="top_nav" class="main_nav">
+	<table>
+		<tbody><tr>
+							<td>
+					<a href="/home">
+						<i></i>
+												<span>Home</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/news">
+						<i></i>
+												<span>News</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/photos">
+						<i></i>
+												<span>Photos</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/going-out">
+						<i></i>
+												<span>Going Out</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/starstyle">
+						<i></i>
+												<span>Star Style</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/celebs" class="active">
+						<i></i>
+												<span>Celebs</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/travel">
+						<i></i>
+												<span>Travel</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/health-and-beauty">
+						<i></i>
+												<span>Health-Beauty</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/competitions">
+						<i></i>
+												<span>Competitions</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/readers-offers">
+						<i></i>
+												<span>Readers Offers</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/hot100">
+						<i></i>
+												<span>HOT 100</span>
+					</a>
+				</td>			
+					</tr>
+	</tbody></table>
+</div>
+<script>ITP.transformFlash('top_nav');</script>
+            </div>
+        </div>
+        <div class="main">
+            <div class="grid1">
+                <div class="wrapper">
+                    <div class="flexycol">
+                        <div class="grid1">
+                        	
+                            
+                            <script language="JavaScript" type="text/javascript">document.getElementById('crumbs-dir').innerHTML = '<span class="mdgrey">ADVERTISE</span> /'</script>	
 	<div style="padding:10px; width:595px">
 	  <p><span class="pink"><strong>INTRODUCTION</strong></span> <br>
-      AHLAN! is a picture portal website showcasing digital photographs   								of people enjoying themselves at restaurants, bars, nightclubs and   								outdoors. <br>
+      AHLAN! is a picture portal website showcasing digital photographs of people enjoying themselves at restaurants, bars, nightclubs and   								outdoors. 
+      <br><br>
+      AHLAN! dispatches its own photographers and requests bar owners and customers to capture photographs for the website. AHLAN!   								briefs all photographers to photograph people with their permission and to delete any pictures on request. <br>
   <br>
-      AHLAN! dispatches its own photographers and requests bar owners   								and customers to capture photographs for the website. AHLAN!   								briefs all photographers to photograph people with their permission   								and to delete any pictures on request. <br>
+      AHLAN! respects the privacy of its users and has drafted this Privacy Policy to protect their interests. <br>
   <br>
-      AHLAN! respects the privacy of its users and has drafted this   								Privacy Policy to protect their interests. <br>
-  <br>
-      AHLAN! reserves the right to amend this Privacy Policy at any   								time without notice. <br>
+      AHLAN! reserves the right to amend this Privacy Policy at any time without notice. <br>
   <br>
   <br>
   <span class="pink"><strong>REGISTRATION</strong></span> <br>
-      Users are required to complete a Registration Form to access all   								features of AHLAN!. <br>
+      Users are required to complete a Registration Form to access all features of AHLAN!. <br>
   <br>
       AHLAN! is committed to safeguarding the constitutional and   								common law privacy of its registrants and will not disclose nor   								sell any personally identifiable information to anybody without   								the express permission of its registrants unless obliged to do so   								by law or due legal process. Personally identifiable information   								includes a registrant's name, telephone number and e-mail address   								which is stored on a secure server where access is limited to authorised   								AHLAN! personnel, its System Administrators and its appointed   								agents. <br>
   <br>
@@ -365,561 +239,1135 @@ function f4d_init_collapse_layer(){
       </p>
 </div>
 
+
+
+
+
+
+
 		
 	
-						</div>
-			<div id="right-column">
-                            <div id="oas-300x600"><img src="/templates/ahlan.ae/pictures/furniture/tab-advt.gif">
+                            <div class="wrapper">
+                                <div class="flexycol">
+                                    <!--  <pre>--------- testing by 55555555555555555 ------------<br>SELECT a.id, a.catid,a.attribs,a.created_by, 
+a.modified,a.checked_out,a.publish_up as publish_up,a.publish_down,a.sectionid,
+ cc.title as cattitle, 
+ CASE WHEN CHAR_LENGTH(a.alias) THEN CONCAT_WS(":", a.id, a.alias) ELSE a.id END as slug 
+ FROM #__content AS a
+ INNER JOIN #__categories AS cc ON cc.id = a.catid 
+
+ INNER JOIN jos_content_frontpage AS fp ON fp.content_id = a.id 
+ WHERE a.state = 1 AND (publish_up = '0000-00-00 00:00:00' OR publish_up <= '2009-12-18 06:59:00' ) AND ( a.publish_down = '0000-00-00 00:00:00' OR a.publish_down >= '2009-12-18 06:59:00' ) AND a.site_english=1
+ AND (cc.id=1) AND cc.published = 1 
+
+ ORDER BY  publish_up DESC  LIMIT 7<br>----------------</pre>  --><!-- breaking news module -->
+<div id="breaking-news">
 	
-				<!--  begin ad tag: ahlan_en/advertise (220x550)  js -->
-	<script language="JavaScript" type="text/javascript">if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise;sz=220x550;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
-	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise;sz=220x550;tile=3;ord=1245222300?" type="text/javascript"></script>
-	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise;sz=220x550;tile=9;ord=1245222300?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise;sz=220x550;tile=9;ord=1245222300?" width="220" height="550" border="0" alt=""></a>
-	</noscript><!-- end ad tag -->	
-	</div>
-	<br clear="all">
-                			  
-				
+        <h4 class="mod"><a href="http://www.ahlanlive.com/category/allbreaking-news">Breaking News!<span>»</span></a></h4>
+    <div class="first">
+        <h3><a href="http://www.ahlanlive.com/17307-peaches-in-car-crash">Peaches in car crash</a></h3>
+                <img src="http://www.ahlanlive.com/images/tmp/thumb/wenn5386197.jpg_thumb.jpg" alt="Peaches in car crash">
+                <p>Boomtown brat ‘almost died’ in smash</p>
+    </div>
+		
+        <div class="zebra">
+        <h3><a href="http://www.ahlanlive.com/17289-jessica-to-sue-over-tiger-affair-claims">Jessica to sue over Tiger affair claims</a></h3>
+                 <img src="http://www.ahlanlive.com/images/tmp/thumb/93514701.jpg_thumb.jpg" alt="Jessica to sue over Tiger affair claims">
+                <p>Singer taking legal action after magazine links her to troubled golfer</p>
+    </div>
+	
+        <div>
+        <h3><a href="http://www.ahlanlive.com/17288-courtney-reaches-out-to-frances">Courtney reaches out to Frances</a></h3>
+                 <img src="http://www.ahlanlive.com/images/tmp/thumb/nnn550477.jpg_thumb.jpg" alt="Courtney reaches out to Frances">
+                <p>Despite restraining order, Courtney is showing her daughter the Love</p>
+    </div>
+	
+        <div class="zebra">
+        <h3><a href="http://www.ahlanlive.com/17287-elin-tells-tiger--its-over">Elin tells Tiger – “It’s Over”</a></h3>
+                 <img src="http://www.ahlanlive.com/images/tmp/thumb/tiiggeer551678.jpg_thumb.jpg" alt="Elin tells Tiger – “It’s Over”">
+                <p>Model confirms end of marriage after 13 women claim affairs</p>
+    </div>
+	
+        <div>
+        <h3><a href="http://www.ahlanlive.com/17285-morgan-still-recovering-from-car-crash">Morgan still recovering from car crash</a></h3>
+                 <img src="http://www.ahlanlive.com/images/tmp/thumb/wenn2680300.jpg_thumb.jpg" alt="Morgan still recovering from car crash">
+                <p>Actor has damaged nerves in his hand following smash</p>
+    </div>
+	
+        <div class="zebra">
+        <h3><a href="http://www.ahlanlive.com/17284-swayzes-legacy">Swayze’s Legacy</a></h3>
+                 <img src="http://www.ahlanlive.com/images/tmp/thumb/77493805.jpg_thumb.jpg" alt="Swayze’s Legacy">
+                <p>Actor’s widow sets up cancer fund in his name</p>
+    </div>
+	
+        <div>
+        <h3><a href="http://www.ahlanlive.com/17281-courtney-blasts-frances-bean">Courtney blasts Frances Bean</a></h3>
+                 <img src="http://www.ahlanlive.com/images/tmp/thumb/wennn550477.jpg_thumb.jpg" alt="Courtney blasts Frances Bean">
+                <p>Singer blames ‘liar’ daughter for losing custody battle</p>
+    </div>
+    <a class="more" href="http://www.ahlanlive.com/category/allbreaking-news">See more Breaking News! ›</a>
+</div>
+<!-- end of breaking news module --><div class="celebs-mod">
+	<h4 class="mod"><a href="http://www.ahlanlive.com/celebs">Celebs <span>»</span></a></h4>
+</div>
+<div class="celebs-mod">
+<a href="http://www.ahlanlive.com/category/allahlan-hates"><h5 class="redtag">Ahlan Hates</h5></a>
 <div>
-<script language="javascript">
-	AC_FL_RunContent = 0;
-</script>
-<script src="/templates/ahlan.ae/components/js/AC_RunActiveContent.js" language="javascript">
-</script>
-<script language="javascript">
-	if (AC_FL_RunContent == 0) {
-		alert("This page requires AC_RunActiveContent.js.");
-	} else {
-		AC_FL_RunContent(
-			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
-			'width', '300',
-			'height', '278',
-			'src', 'http://www.ahlanlive.com/modules/mod_photostories/tmpl/Photostories',
-			'quality', 'high',
-			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-			'align', 'middle',
-			'play', 'true',
-			'loop', 'true',
-			'scale', 'exactfit',
-			'wmode', 'window',
-			'devicefont', 'false',
-			'id', 'Photostories',
-			'bgcolor', '#ffffff',
-			'name', 'Photostories',
-			'wmode', 'transparent',
-			'menu', 'true',
-			'allowFullScreen', 'false',
-			'allowScriptAccess','sameDomain',
-			'movie', 'http://www.ahlanlive.com/modules/mod_photostories/tmpl/Photostories',
-			'salign', '',
-			'FlashVars','loadxml=http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_content%26task%3Dphotostories%26catid%3D45%26rndid%3D39664'
-			); //end AC code
-	}
-</script><embed width="300" height="278" src="http://www.ahlanlive.com/modules/mod_photostories/tmpl/Photostories.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="exactfit" wmode="transparent" devicefont="false" bgcolor="#ffffff" name="Photostories" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" flashvars="loadxml=http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_content%26task%3Dphotostories%26catid%3D45%26rndid%3D39664" type="application/x-shockwave-flash"> 
-<noscript>
-	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="300" height="278" id="Photostories" align="middle">
-	<param name="allowScriptAccess" value="sameDomain" />
-	<param name="allowFullScreen" value="false" />
-	<param name="movie" value="http://www.ahlanlive.com/modules/mod_photostories/tmpl/Photostories.swf" />
-    <param name="quality" value="high" />
-    <param name="scale" value="exactfit" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="wmode" value="transparent" />	
-    <param name="FlashVars" value="[loadxml=http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_content%26task%3Dphotostories%26catid%3D45%26rnd%3D81248]">
-    <embed 
-    	src="http://www.ahlanlive.com/modules/mod_photostories/tmpl/Photostories.swf" 
-        quality="high" 
-        scale="exactfit" 
-        bgcolor="#ffffff" 
-        width="300" 
-        height="278" 
-        name="Photostories" 
-        align="middle" 
-        allowscriptaccess="sameDomain" 
-        allowfullscreen="false" 
-        type="application/x-shockwave-flash" 
-        pluginspage="http://www.macromedia.com/go/getflashplayer"  />
-	</object>
-</noscript>
+<img src="http://www.ahlanlive.com/images/tmp/middle/346ahelabs_2_middle.jpg" alt="Rosie’s Tan Obsession">
+<h3><a href="http://www.ahlanlive.com/17252-rosies-tan-obsession">Rosie’s Tan Obsession</a></h3>
+<p>While we’re not her biggest fan, Ahlan! has always put Rosie O’Donnell in the box marked ‘brains over beauty...</p>
 </div>
-<div style="height:10px;"><!-- empty div for formatting --></div>
-			  					
-
-                			<div id="oas-mpu-right" style="margin-top:0px;"><img src="/templates/ahlan.ae/pictures/furniture/tab-advt.gif">
-	
-				<!--  begin ad tag: ahlan_en/advertise (300x251)  js -->
-	<script language="JavaScript" type="text/javascript">if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise;sz=300x251;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
-	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise;sz=300x251;tile=4;ord=1245222300?" type="text/javascript"></script>
+</div>
+<div class="celebs-mod">
+<a href="http://www.ahlanlive.com/category/allahlan-loves"><h5 class="redtag">Ahlan Loves</h5></a>
+<div>
+<img src="http://www.ahlanlive.com/images/tmp/middle/346ahelabs_1_middle.jpg" alt="Britney revenge dissing Courtney">
+<h3><a href="http://www.ahlanlive.com/17251-britney-revenge-dissing-courtney">Britney revenge dissing Courtney</a></h3>
+<p>When Courtney Love astonishingly accused Britney’s dad of molesting his daughter in a bizarre Twitter rant last week...</p>
+</div>
+</div><div class="celebs-mod">
+	<h5 class="redtag"><span>CELEB OF THE WEEK</span></h5>
+	<div>
+				<img src="http://www.ahlanlive.com/images/tmp/middle/1207xtinaa1_middle.jpg" alt="Christina Aguilera">
+				<h3><a href="http://www.ahlanlive.com/celebs/14-christina-aguilera">Christina Aguilera</a></h3>
+		<p><strong>Birthday:</strong>&nbsp;&nbsp;18th December 1980 </p>
+			</div>
+</div>
+		<div class="mpu">
+			
+				<!--  begin ad tag: ahlan_en/advertise/homepage (300x250)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=300x250;tile=' + DFP_tile + ';pos=left;ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=300x250;tile=3;pos=left;ord=1261118152?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise;sz=300x251;tile=7;ord=1245222300?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise;sz=300x251;tile=7;ord=1245222300?" width="300" height="251" border="0" alt=""></a>
-	</noscript><!-- end ad tag -->	</div>
-							<div id="latest">
-<h3>MOST READ</h3>
-
-</div>
-	<div id="latest">
-        <div class="tab-news">
-						<div class="right">
-				<a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/index.php?option=com_gallery&amp;id=12808','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=,height=,top=10,left=10');"><img src="http://www.ahlanlive.com/images/tmp/thumb/1robstenn_thumb.jpg" width="72" height="72" alt="Rob And Kristen"></a>
-			</div>
-			<div class="tab-listing-left">
-				<h2>
-					<a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/index.php?option=com_gallery&amp;id=12808','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=,height=,top=10,left=10');">
-						
-                        Rob And Kristen                    </a>
-									</h2>
-				
-			    <br clear="left">
-			    <p>The (body) language of love...</p>
-			</div>
-			
-			<div class="border" style="margin-top:10px;"><!--  --></div>
-		</div>
-        	</div>
-	<div id="latest">
-    	  	<div class="tab-news" style="border-bottom: 1px solid #cccccc;">
-				<h2>
-					<a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/index.php?option=com_gallery&amp;id=12813','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=,height=,top=10,left=10');" style="font-weight:bold;"><span style="color:#000000;">2</span> Paris In Dubai!</a>
-                				</h2>
-			    <p style="font-size:11px;">
-					We reveal where you can spot her...                </p>
-			
-		</div>
-        	</div>
-	<div id="latest">
-    	  	<div class="tab-news" style="border-bottom: 1px solid #cccccc;">
-				<h2>
-					<a href="http://www.ahlanlive.com/12799-kristen-dumps-boyfriend-for-rob" style="font-weight:bold;"><span style="color:#000000;">3</span> Kristen Dumps Boyfriend For Rob!</a>
-                				</h2>
-			    <p style="font-size:11px;">
-					RobSten rumours are in full flow as actress ends it with her longterm boyf after Pattinson declares his love!                </p>
-			
-		</div>
-        	</div>
-	<div id="latest">
-    	  	<div class="tab-news" style="border-bottom: 1px solid #cccccc;">
-				<h2>
-					<a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/index.php?option=com_gallery&amp;id=12782','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=,height=,top=10,left=10');" style="font-weight:bold;"><span style="color:#000000;">4</span> Beckham Undressed</a>
-                				</h2>
-			    <p style="font-size:11px;">
-					David gets his kit off again!!                </p>
-			
-		</div>
-        	</div>
-	<div id="latest">
-    	  	<div class="tab-news" style="border-bottom: 1px solid #cccccc;">
-				<h2>
-					<a href="http://www.ahlanlive.com/12771-models-night-with-harley-davidson" style="font-weight:bold;"><span style="color:#000000;">5</span> Models' night with Harley Davidson</a>
-                				</h2>
-			    <p style="font-size:11px;">
-					Models' night with Harley Davidson at Aqua Fuego, Manama, Bahrain                </p>
-			
-		</div>
-        	</div>
-
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=300x250;tile=2;pos=left;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=300x250;tile=2;pos=left;ord=1261118152?" width="300" height="250" border="0" alt=""></a>
+	</noscript><!-- end ad tag -->		</div>
 	
-<br clear="all">                
-			</div>
+<div id="poll-module">
+	<h4 class="mod">Poll <span>»</span></h4>
+	<div class="poll-contain">
+		<h3>Ahlan! asked</h3>
+					<p>In which movie did Gerard Butler look at his hottest?</p>
+						<img src="http://www.ahlanlive.com/images/poll/poll_798.jpg" alt="In which movie did Gerard Butler look at his hottest?">
+						<ul class="poll-result">
+														 
+						<li class="first">
+							<dfn>P.S. I Love You</dfn><span>27%</span>
+						</li>
+																			 
+						<li>
+							<dfn>The Ugly Truth</dfn><span>21%</span>
+						</li>
+																			 
+						<li>
+							<dfn>RocknRolla</dfn><span>4%</span>
+						</li>
+																			 
+						<li>
+							<dfn>300</dfn><span>48%</span>
+						</li>
+												</ul>
+				﻿<form method="post" action="index.php?option=com_advertise&amp;view=privacy_policy&amp;Itemid=1">
+<div class="poll-question">
+<img src="http://www.ahlanlive.com/images/poll/poll_801_middle.jpg">
+<p><span>Next:</span> Who is Miley's hottest man?</p>
+<dl><dd>
+<input class="green-radio" type="radio" name="option_id" id="801-0" value="0"> 
+<label for="801-0">Nick Jonas</label>
+</dd><dd>
+<input class="green-radio" type="radio" name="option_id" id="801-1" value="1"> 
+<label for="801-1">Justin Gaston</label>
+</dd><dd>
+<input class="green-radio" type="radio" name="option_id" id="801-2" value="2"> 
+<label for="801-2">Liam Hemsworth</label>
+</dd><dd class="last"><button type="submit" class="ellipse-button addimg">Submit</button></dd>
+</dl>
+									</div><input type="hidden" name="poll_ident" value="801"><input type="hidden" name="action" value="vote"></form>	</div>
+</div><!--  <pre>--------- testing by 55555555555555555 ------------<br>SELECT a.id, a.catid,a.attribs,a.created_by, 
+a.modified,a.checked_out,a.publish_up as publish_up,a.publish_down,a.sectionid,
+
+ CASE WHEN CHAR_LENGTH(a.alias) THEN CONCAT_WS(":", a.id, a.alias) ELSE a.id END as slug 
+ FROM #__content AS a
+
+ INNER JOIN #__sections AS s ON s.id = a.sectionid 
+ INNER JOIN jos_content_frontpage AS fp ON fp.content_id = a.id 
+ WHERE a.state = 1 AND (publish_up = '0000-00-00 00:00:00' OR publish_up <= '2009-12-18 06:59:00' ) AND ( a.publish_down = '0000-00-00 00:00:00' OR a.publish_down >= '2009-12-18 06:59:00' ) AND a.site_english=1
+
+ AND (s.id=7) AND s.published = 1 
+ ORDER BY  publish_up DESC  LIMIT 1<br>----------------</pre>  --><div id="heath-module">
+		<h4 class="mod"><a href="http://www.ahlanlive.com/health-beauty">Health &amp; Beauty <span>»</span></a></h4>
+			<img src="http://www.ahlanlive.com/images/tmp/home/346ahehelts_1_home.jpg" alt="Avoid Festive Diet Meltdown!">
+		<h3><a href="http://www.ahlanlive.com/17242-avoid-festive-diet-meltdown">Avoid Festive Diet Meltdown!</a></h3>
+	<p>Drinks, dinners, parties... your Xmas diary may be bulging, but these top tips will ensure your waistline isn’t...</p>
+	</div>
+
+                                </div>
+                            </div>
+                            <div class="fixedcol">
+                                ﻿<div id="photo-galleries">
+    <h4 class="mod"><a href="http://www.ahlanlive.com/photos?cid=45">Photo galleries <span>»</span></a></h4>
+    <div class="gallery">
+	        <ul>
+            <!-- gallery each repeaters -->
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/tmp/full/346ahehug1_full.jpg" alt="Celebrity Huggers!" onclick="window.open('http://www.ahlanlive.com/gallery?id=17206','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17206','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Celebrity Huggers!</a>
+                </h3>
+                <p>
+					Kim Cattrall and Sarah Jessica Parker, SJP thought she was having a hug, but instead, frenemy Kim employed her trademark ‘Velociraptor Death Grip’!                </p>
+            </li>
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/tmp/full/1216jtgoldnglbs_1_full.jpg" alt="JT Gets Geeky!" onclick="window.open('http://www.ahlanlive.com/gallery?id=17282','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17282','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">JT Gets Geeky!</a>
+                </h3>
+                <p>
+					Justin Timberlake speaks onstage during the 67th annual Golden Globe Awards nomination announcement                </p>
+            </li>
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/tmp/full/1216pdidwax_1_full.jpg" alt="Diddy In Wax!" onclick="window.open('http://www.ahlanlive.com/gallery?id=17280','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17280','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Diddy In Wax!</a>
+                </h3>
+                <p>
+					Sean "Diddy" Combs poses with his wax likeness unveiled at Madame Tussauds New York wax museum                </p>
+            </li>
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/celebrities/gerard_butler/full/1216gerardprscon_1_full.jpg" alt="Gerard Butler!" onclick="window.open('http://www.ahlanlive.com/gallery?id=17272','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17272','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Gerard Butler!</a>
+                </h3>
+                <p>
+					Hottie Alert!! Gerard Butler holds a press conference in Dubai!                </p>
+            </li>
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/tmp/full/1216diftu_3_full.jpg" alt="DIFF Avatar Premiere" onclick="window.open('http://www.ahlanlive.com/gallery?id=17271','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17271','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">DIFF Avatar Premiere</a>
+                </h3>
+                <p>
+					                </p>
+            </li>
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/tmp/full/1225brangeali1_full.jpg" alt="Brangelina Get Cosy" onclick="window.open('http://www.ahlanlive.com/gallery?id=17248','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17248','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Brangelina Get Cosy</a>
+                </h3>
+                <p>
+					Couple can't keep their hands off each other as they meet Mohammed Ali                </p>
+            </li>
+		            
+            <li>
+                <img src="http://www.ahlanlive.com/images/tmp/full/1215wieinstein_1_full.jpg" alt="NINE Luncheon" onclick="window.open('http://www.ahlanlive.com/gallery?id=17233','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                <h5 class="redtag">
+					Photo Galleries                    <a href="/photos/allnews">more»</a>
+                </h5>
+                <h3>
+	                <a href="#" onclick="window.open('http://www.ahlanlive.com/gallery?id=17233','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">NINE Luncheon</a>
+                </h3>
+                <p>
+					Kate Hudson attends a luncheon for The Weinstein Company's "NINE"                </p>
+            </li>
+		            <!-- end of gallery each repeaters -->
+        </ul>
+	        <!-- gallery navigation -->
+        <ol>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>6</li>
+            <li class="last">7</li>
+        </ol>
+        
+    </div>
+</div>
+<script>
+	ITP.gallerySlide();
+</script><div id="ahlan-tv" class="tabview">
+	<h4 class="mod"><a href="http://www.ahlanlive.com/category/allvideos">Ahlan! TV</a><span> »</span></h4>
+	<div class="tab-hold">
+			<ul class="tabs">
+				<li class="ui-state-active"><a href="#tlatest"><span>Latest</span></a></li>
+				<li><a href="#tmostpop"><span>Most Popular</span></a></li>
+				<li><a href="#tedschoice"><span>Editor’s Choice</span></a></li>
+			</ul>		
+		<div class="tab-content">
+			<div id="tlatest">
+            	<div class="video-embed">
+				<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="288" height="250" id="http://www.ahlanlive.com/templates/ahlan.ae/pictures/flv/player" align="middle">
+			<param name="allowScriptAccess" value="always">
+			<param name="allowFullScreen" value="false">
+			<param name="movie" value="http://www.ahlanlive.com/images/videos/player.swf">
+			<param name="quality" value="high">
+			<param name="bgcolor" value="#ffffff">
+			<param name="FlashVars" value="playerOpts=targetClip*http://www.ahlanlive.com/images/videos/bang_video_02.flv*s||autoLoad*true*b||showReplay*false*bshowReplay||pauseAtFirstFrame*true*b">
+			<embed src="http://www.ahlanlive.com/images/videos/player.swf" quality="high" bgcolor="#ffffff" width="288" height="250" name="http://www.ahlanlive.com/templates/ahlan.ae/pictures/flv/player" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="playerOpts=targetClip*http://www.ahlanlive.com/images/videos/bang_video_02.flv*s||autoLoad*true*b||showReplay*false*b||pauseAtFirstFrame*true*b">
+			</object>                </div>
+						
+											<div class="videoh v0">
+						<h3>
+                        	<a href="javascript:;" onclick="window.open('http://www.ahlanlive.com/gallery?id=17013','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+							Bang! Movie Gossip                            </a>
+                            </h3>
+						<p>Movie Gossip</p>
+						</div>
+											<div class="videoh v1">
+						<h3>
+                        	<a href="javascript:;" onclick="window.open('http://www.ahlanlive.com/gallery?id=16901','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+							Bang Video 1                            </a>
+                            </h3>
+						<p>Movie Gossip</p>
+						</div>
+											<div class="videoh v2">
+						<h3>
+                        	<a href="javascript:;" onclick="window.open('http://www.ahlanlive.com/gallery?id=16783','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+							Astro Boy!                            </a>
+                            </h3>
+						<p>Watch the trailer!</p>
+						</div>
+											<div class="videoh v3">
+						<h3>
+                        	<a href="javascript:;" onclick="window.open('http://www.ahlanlive.com/gallery?id=16782','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+							Amelia Trailer                            </a>
+                            </h3>
+						<p>Richard Gere and Hilary Swank star...</p>
+						</div>
+									
+				<div class="video-switcher">
+					<span class="video-marker"></span>
+					<ul>
+						                        
+												                        
+                        
+                        
+						<li>
+						<a href="#:here" title="flvVideo,bang_video_02"><img src="http://www.ahlanlive.com/images/tmp/thumb/breakftiffs.jpg_thumb.jpg" alt="Bang! Movie Gossip" title="Bang! Movie Gossip"></a></li>
+						                        
+												                        
+                        
+                        
+						<li>
+						<a href="#:here" title="flvVideo,bang_video_01"><img src="http://www.ahlanlive.com/images/tmp/thumb/flv01_thumb.jpg" alt="Bang Video 1" title="Bang Video 1"></a></li>
+						                        
+												                        
+                        
+                        
+						<li>
+						<a href="#:here" title="youtubeVideo,s8H6j6afuOM"><img src="http://www.ahlanlive.com/images/tmp/thumb/astro.jpg_thumb.jpg" alt="Astro Boy!" title="Astro Boy!"></a></li>
+						                        
+												                        
+                        
+                        
+						<li class="last">
+						<a href="#:here" title="youtubeVideo,ioZCEpRLpxo"><img src="http://www.ahlanlive.com/images/tmp/thumb/amelia.jpg_thumb.jpg" alt="Amelia Trailer" title="Amelia Trailer"></a></li>
+											</ul>
+				</div>
+							</div>
+			<div id="tmostpop" class="ui-tabs-hide">
+				<div class="video-embed">
+					<object width="288" height="250">
+								<param name="movie" value="http://www.youtube.com/v/q58iQSHhZGg&amp;hl=en&amp;fs=1&amp;color1=0xcc2550&amp;color2=0xe87a9f">
+								<param name="allowFullScreen" value="true">
+								<param name="allowscriptaccess" value="always">
+								<embed src="http://www.youtube.com/v/q58iQSHhZGg&amp;hl=en&amp;fs=1&amp;color1=0xcc2550&amp;color2=0xe87a9f" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="288" height="250">
+						</object>				</div>
+															<div class="videoh v0">
+						<h3><a href="http://www.ahlanlive.com/gallery?id=16220">New Moon Trailer</a></h3>
+						<p>R-Patz is back!</p>
+						</div>
+											<div class="videoh v1">
+						<h3><a href="http://www.ahlanlive.com/gallery?id=14622">Michael Jackson Burial</a></h3>
+						<p>Michael Jackson Burial</p>
+						</div>
+											<div class="videoh v2">
+						<h3><a href="http://www.ahlanlive.com/gallery?id=15007">Michael Jackson Rehearsal Footage</a></h3>
+						<p>Michael Jackson EXCLUSIVE CLIP from THIS IS IT Movie Trailer 'Human Nature'</p>
+						</div>
+											<div class="videoh v3">
+						<h3><a href="http://www.ahlanlive.com/gallery?id=14839">Kanye West's Stage Invasion</a></h3>
+						<p>Kanye West's Stage Invasion</p>
+						</div>
+										<div class="video-switcher">
+						<span class="video-marker"></span>
+						<ul>
+																																			<li>
+								<a href="#:here" title="youtubeVideo,q58iQSHhZGg"><img src="http://www.ahlanlive.com/images/tmp/thumb/newmoon.jpg_thumb.jpg" alt="New Moon Trailer" title="New Moon Trailer"></a>
+							</li>
+																																			<li>
+								<a href="#:here" title="youtubeVideo,nwo74cYNYS4"><img src="http://www.ahlanlive.com/images/tmp/thumb/mjburial_thumb.jpg" alt="Michael Jackson Burial" title="Michael Jackson Burial"></a>
+							</li>
+																																			<li>
+								<a href="#:here" title="youtubeVideo,oABqVVfNxA0"><img src="http://www.ahlanlive.com/images/tmp/thumb/mjfoot.jpg_thumb.jpg" alt="Michael Jackson Rehearsal Footage" title="Michael Jackson Rehearsal Footage"></a>
+							</li>
+																																			<li class="last">
+								<a href="#:here" title="youtubeVideo,2FtoiYn-sMA"><img src="http://www.ahlanlive.com/images/tmp/thumb/kan13093_thumb.jpg" alt="Kanye West's Stage Invasion" title="Kanye West's Stage Invasion"></a>
+							</li>
+													</ul>
+					</div>
+							</div>
+			<div id="tedschoice" class="ui-tabs-hide">
+				<div class="video-embed">
+					<object width="288" height="250">
+								<param name="movie" value="http://www.youtube.com/v/oABqVVfNxA0&amp;hl=en&amp;fs=1&amp;color1=0xcc2550&amp;color2=0xe87a9f">
+								<param name="allowFullScreen" value="true">
+								<param name="allowscriptaccess" value="always">
+								<embed src="http://www.youtube.com/v/oABqVVfNxA0&amp;hl=en&amp;fs=1&amp;color1=0xcc2550&amp;color2=0xe87a9f" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="288" height="250">
+						</object>				</div>
+															<div class="videoh v0">
+						<h3><a href="http://www.ahlanlive.com/gallery?id=15007">Michael Jackson Rehearsal Footage</a></h3>
+						<p>Michael Jackson EXCLUSIVE CLIP from THIS IS IT Movie Trailer 'Human Nature'</p>
+						</div>
+										<div class="video-switcher">
+						<span class="video-marker"></span>
+						<ul>
+																																			<li class="last">
+								<a href="#:here" title="youtubeVideo,oABqVVfNxA0"><img src="http://www.ahlanlive.com/images/tmp/thumb/mjfoot.jpg_thumb.jpg" alt="Michael Jackson Rehearsal Footage" title="Michael Jackson Rehearsal Footage"></a>
+							</li>
+													</ul>
+					</div>
+							</div>
 		</div>
-		<!-- Features -->
-		<div id="features">
+	</div>
+</div>
+<div id="yoursay-mod">
+	<h4 class="mod"><a href="http://www.ahlanlive.com/readers-comments"> “Have your say” <span>»</span></a></h4>
+	<div class="yoursay-cont">
+		<h3>Latest reader comments</h3>
+		<div class="yoursay-scroller">
+			<dl>
+									
+				<dd>
+					<a href="http://www.ahlanlive.com/16596-jim-carreys-daughter-weds">
+						<dfn>Jim Carrey’s daughter weds</dfn>
+						<span>“I read that she married a heavy metal guitarist of some...”</span>
+						<cite>Hansel:  22 Nov  ' 09 at 09:11</cite>
+					</a>
+				</dd>
+								
+				<dd class="zebra">
+					<a href="http://www.ahlanlive.com/9189-desert-rock">
+						<dfn>Desert Rock</dfn>
+						<span>“Best metal event in Dubai,nothing beats any event like...”</span>
+						<cite>Hansel:  18 Nov  ' 09 at 10:11</cite>
+					</a>
+				</dd>
+								
+				<dd>
+					<a href="http://www.ahlanlive.com/16490-oprahs-false-dubai-claims">
+						<dfn>Oprah’s false Dubai claims</dfn>
+						<span>“The Citizens of the United Arab Emirates do not pay for...”</span>
+						<cite>john won doo:  17 Nov  ' 09 at 14:11</cite>
+					</a>
+				</dd>
+								
+				<dd class="zebra">
+					<a href="http://www.ahlanlive.com/1717-dubai-fashion-week">
+						<dfn>Dubai Fashion Week</dfn>
+						<span>“hi!!am 20 yrs old young gurl brought up in India and...”</span>
+						<cite>smily:  11 Nov  ' 09 at 06:11</cite>
+					</a>
+				</dd>
+								
+				<dd>
+					<a href="http://www.ahlanlive.com/13721-jackson-dreamed-of-second-neverland">
+						<dfn>Jackson Dreamed Of Second Neverland</dfn>
+						<span>“Michael fuiste un excelente cantante descansa en paz te...”</span>
+						<cite>sol:  07 Nov  ' 09 at 20:11</cite>
+					</a>
+				</dd>
+								
+				<dd class="zebra">
+					<a href="http://www.ahlanlive.com/1023-wrinkles-beware">
+						<dfn>WIN - a Kaya skin treatment</dfn>
+						<span>“It is really nice article with have a great thinking...”</span>
+						<cite>Raj:  05 Nov  ' 09 at 12:11</cite>
+					</a>
+				</dd>
+								
+				<dd>
+					<a href="http://www.ahlanlive.com/16125-moonlight-chill--kempinski-ajman">
+						<dfn>Moonlight chill @ Kempinski Ajman</dfn>
+						<span>“FREE ENTRANCE!!!!! It's going be awesome!”</span>
+						<cite>John:  05 Nov  ' 09 at 09:11</cite>
+					</a>
+				</dd>
+								
+				<dd class="zebra">
+					<a href="http://www.ahlanlive.com/3335-urban-behavior">
+						<dfn>Urban Behavior</dfn>
+						<span>“UB closed its USA doors due to Bankruptcy. Cheaply made...”</span>
+						<cite>smart shopper:  04 Nov  ' 09 at 15:11</cite>
+					</a>
+				</dd>
+								
+				<dd>
+					<a href="http://www.ahlanlive.com/15983-steven-tyler-the-new-michael-jackson-impersonator">
+						<dfn>Steven Tyler... the new Michael Jackson impersonator?</dfn>
+						<span>“The author asks "who looks good in their swimmers?"And...”</span>
+						<cite>Will Milner:  01 Nov  ' 09 at 08:11</cite>
+					</a>
+				</dd>
+								
+				<dd class="zebra">
+					<a href="http://www.ahlanlive.com/3335-urban-behavior">
+						<dfn>Urban Behavior</dfn>
+						<span>“I want a new store by me in the ohio area!!!! i miss...”</span>
+						<cite>katie lynn:  28 Oct  ' 09 at 01:10</cite>
+					</a>
+				</dd>
+								
+				<dd>
+					<a href="http://www.ahlanlive.com/15825-has-john-dumped-jen-again">
+						<dfn>Has John dumped Jen Again?</dfn>
+						<span>“Oh man, we totally figured out why Jen and John are up...”</span>
+						<cite>Carly:  26 Oct  ' 09 at 19:10</cite>
+					</a>
+				</dd>
+								
+				<dd class="zebra">
+					<a href="http://www.ahlanlive.com/15656-posh-in-gossip-girl">
+						<dfn>Posh in Gossip Girl</dfn>
+						<span>“Victoria is absolutely fab,and that what Gossip girl is...”</span>
+						<cite>Fahed:  19 Oct  ' 09 at 18:10</cite>
+					</a>
+				</dd>
+						</dl>
+		</div>
+		<a class="more" href="http://www.ahlanlive.com/readers-comments">All reader comments ›</a>
+	</div>
+</div>	
+
+<div id="star-style" class="tabview">
+	<h4 class="mod"><a href="http://www.ahlanlive.com/star-style">Star*Style <span>»</span></a></h4>
+<div class="tab-hold"><ul class="tabs"><li class="ui-state-active"><a href="#BestDressed"><span>Best Dressed</span></a></li><li class="ui-state-active"><a href="#StealherStyle"><span>Steal her Style</span></a></li></ul>	<div class="tab-content">
+		
+	<div id="BestDressed"><h5 class="redtag"><span>We Decide</span></h5><div class="wedec"><img src="http://www.ahlanlive.com/images/tmp/full/1214sjptwbd_1_full.jpg" alt="The Week's Best Dressed?"><h3><a href="http://www.ahlanlive.com/17217-the-weeks-best-dressed">The Week's Best Dressed?</a></h3><p>From the knockout neutrals to the ultimate grown up festive frock - party season't here!</p><a class="more" href="http://www.ahlanlive.com/17217-the-weeks-best-dressed">read more</a></div><div>﻿<h5 class="redtag">
+<span>You Decide</span>
+</h5>
+<div class="youdec">
+<h3>Who wore it best?</h3>
+<form method="post" action="index.php?option=com_advertise&amp;view=privacy_policy&amp;Itemid=1">
+	<div class="poll-question">
+		<p>Who Wore It Best?</p>
+		<img src="http://www.ahlanlive.com/images/poll/poll_802.jpg"><div class="pollopt">
+<input class="green-radio" type="radio" name="option_id" id="802-0" value="0"> 
+<label for="802-0">Iman</label>
+</div><div class="pollopt">
+<input class="green-radio" type="radio" name="option_id" id="802-1" value="1"> 
+<label for="802-1">Jennifer Nettles</label>
+</div><br clear="all">                    <button type="submit" class="ellipse-button">Submit</button>
+                </div>
+	<input type="hidden" name="poll_ident" value="802">
+	<input type="hidden" name="action" value="vote">
+</form>
+</div></div></div><div id="StealherStyle" class="ui-tabs-hide"><h5 class="redtag"><span>We Decide</span></h5><div class="wedec"><img src="http://www.ahlanlive.com/images/tmp/full/1215leighton_1_full.jpg" alt="Steal  Her  Style"><h3><a href="http://www.ahlanlive.com/17224-steal-her-style">Steal  Her  Style</a></h3><p>Socks with a floral frock? Loving your work, Leighton!</p><a class="more" href="http://www.ahlanlive.com/17224-steal-her-style">read more</a></div></div></div>
+	
+				
 			
-<script language="JavaScript" type="text/javascript" src="/modules/mod_features/tmpl/slide.js"></script>
+			
+		</div>
+		
+</div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="fixedcol">
+                    <div id="most-popular" class="tabview">
+<h4 class="mod">Most Popular Right Now!</h4>
+<div class="tab-hold">
+		<ul class="tabs">
+			<li class="ui-state-active"><a href="#tread"><span>Read</span></a></li>
+			<li><a href="#temailed"><span>Emailed</span></a></li>
+			<li><a href="#tphotos"><span>Photos</span></a></li>
+			<li><a href="#tvideos"><span>Videos</span></a></li>
+		</ul> 		
+	<div class="tab-content"> 
+		<div id="tread">
+			<ol>
+							<li><a href="http://www.ahlanlive.com/17287-elin-tells-tiger--its-over">Elin tells Tiger – “It’s Over”</a></li>
+							<li><a href="http://www.ahlanlive.com/17289-jessica-to-sue-over-tiger-affair-claims">Jessica to sue over Tiger affair claims</a></li>
+							<li><a href="http://www.ahlanlive.com/17288-courtney-reaches-out-to-frances">Courtney reaches out to Frances</a></li>
+							<li><a href="http://www.ahlanlive.com/17281-courtney-blasts-frances-bean">Courtney blasts Frances Bean</a></li>
+							<li><a href="http://www.ahlanlive.com/17279-joshua-to-marry-diane">Joshua to marry Diane</a></li>
+						</ol>
+		</div>
+		<div id="temailed" class="ui-tabs-hide">
+			<ol>
+							<li><a href="http://www.ahlanlive.com/17287-elin-tells-tiger--its-over">Elin tells Tiger – “It’s Over”</a></li>			
+							<li><a href="http://www.ahlanlive.com/17289-jessica-to-sue-over-tiger-affair-claims">Jessica to sue over Tiger affair claims</a></li>			
+							<li><a href="http://www.ahlanlive.com/17288-courtney-reaches-out-to-frances">Courtney reaches out to Frances</a></li>			
+							<li><a href="http://www.ahlanlive.com/17281-courtney-blasts-frances-bean">Courtney blasts Frances Bean</a></li>			
+							<li><a href="http://www.ahlanlive.com/17279-joshua-to-marry-diane">Joshua to marry Diane</a></li>			
+						</ol>			
+		</div>
+		<div id="tphotos" class="ui-tabs-hide">
+			<ol>
+			   
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17272','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Gerard Butler!</a></li>
+			   
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17206','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Celebrity Huggers!</a></li>
+			   
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17271','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">DIFF Avatar Premiere</a></li>
+			   
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17310','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">DIFF closing reception</a></li>
+			   
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17282','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">JT Gets Geeky!</a></li>
+						</ol>
+		</div>
+		<div id="tvideos" class="ui-tabs-hide">
+			<ol>
+			     
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=16220','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">New Moon Trailer</a></li>
+				
+			     
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=15007','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Michael Jackson Rehearsal Footage</a></li>
+				
+			     
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=16461','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Sal! New Video</a></li>
+				
+			     
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=16783','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Astro Boy!</a></li>
+				
+			     
+				<li><a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=16782','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">Amelia Trailer</a></li>
+				
+						</ol>
+		</div>
+		<div style="padding:6px;"></div>	</div>
+</div>
+</div>		<div class="other-ad">
+			
+				<!--  begin ad tag: ahlan_en/advertise/homepage (300x100)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=300x100;tile=' + DFP_tile + ';pos=right;ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=300x100;tile=4;pos=right;ord=1261118152?" type="text/javascript"></script>
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=300x100;tile=1;pos=right;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=300x100;tile=1;pos=right;ord=1261118152?" width="300" height="100" border="0" alt=""></a>
+	</noscript><!-- end ad tag -->		</div>
+		
+	<div class="newsletter-sign">
+	<h4 class="mod">Email sign-up</h4>
+    <img src="/templates/ahlan_v3/pictures/furniture/newsletter.png" alt="Ahlan! live newsletter">
+    <p>The latest Hollywood news, gossip and photos straight to your mail inbox</p>
+    <form onsubmit="return validateForm(this)" name="ahlanlive.ae" method="post" action="http://www.ahlanlive.com/newsletter?task=insert&amp;subscribe=yes" id="newsletter">
+        <input type="hidden" value="47" name="selectednewsletter[]" style="display:none;">        
+        <input type="text" valrequired="1" valtype="valEmail" onblur="if(this.value=='') { this.value = ' Your email address' };this.style.color='#999999'" onfocus="if(this.value==' Your email address') { this.value = '' };this.style.color='#000000'" value=" Your email address" class="searcharea" name="nemail">
+        <button onclick="return validateForm(this)">Sign up</button>
+
+      </form>
+    <span><a href="/newsletter?task=send">See sample</a> | <a href="/index.php?option=com_advertise&amp;view=privacy_policy">Privacy policy</a></span>
+</div>		<div class="halfpage">
+			
+				<!--  begin ad tag: ahlan_en/advertise/homepage (220x550)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=220x550;tile=' + DFP_tile + ';pos=right;ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=220x550;tile=5;pos=right;ord=1261118152?" type="text/javascript"></script>
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=220x550;tile=4;pos=right;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=220x550;tile=4;pos=right;ord=1261118152?" width="220" height="550" border="0" alt=""></a>
+	</noscript><!-- end ad tag -->		</div>
+		<!--  <pre>--------- testing by 55555555555555555 ------------<br>SELECT a.id, a.catid,a.attribs,a.created_by, 
+a.modified,a.checked_out,a.publish_up as publish_up,a.publish_down,a.sectionid,
+ cc.title as cattitle, 
+ CASE WHEN CHAR_LENGTH(a.alias) THEN CONCAT_WS(":", a.id, a.alias) ELSE a.id END as slug 
+ FROM #__content AS a
+ INNER JOIN #__categories AS cc ON cc.id = a.catid 
+
+ INNER JOIN jos_content_frontpage AS fp ON fp.content_id = a.id 
+ WHERE a.state = 1 AND (publish_up = '0000-00-00 00:00:00' OR publish_up <= '2009-12-18 06:59:00' ) AND ( a.publish_down = '0000-00-00 00:00:00' OR a.publish_down >= '2009-12-18 06:59:00' ) AND a.site_english=1
+ AND (cc.id=4) AND cc.published = 1 
+
+ ORDER BY  publish_up DESC  LIMIT 9<br>----------------</pre>  -->    <!-- module starts here -->
+<style type="text/css">
+.thumbnail img {
+	padding:3px;
+	margin:8px;
+	float:left;
+	clear:right;
+	border:1px solid #ccc;
+}
+.introtext {
+	height:45px;
+	clear:left;
+	margin:10px 0;
+}
+</style>
+<div class="newsinpics">
+    	            <div class="title">
+				<h4 class="mod"><a href="http://www.ahlanlive.com/category/alldubai-diaries">Dubai Diaries</a> <span>»</span></h4>
+            </div>
+            <div class="thumb">
+                <div class="emptydiv">
+                    <!-- empty div -->
+                </div>
+		                        <div class="thumbnail" onmouseover="changetext_19735(1);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17310','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1217diffgalaclos_1_thumb.jpg" alt="DIFF closing reception" width="72" height="72">
+                    </a>
+                </div>
+                 
+		                        <div class="thumbnail" onmouseover="changetext_19735(2);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17250','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1215lyalitent_1_thumb.jpg" alt="Party in Layali tent" width="72" height="72">
+                    </a>
+                </div>
+                 
+		                        <div class="thumbnail" onmouseover="changetext_19735(3);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17150','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1212cremf_1_thumb.jpg" alt="Creamfields Party" width="72" height="72">
+                    </a>
+                </div>
+                 
+		        <br clear="all">                <div class="thumbnail" onmouseover="changetext_19735(4);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17148','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1212adddnas_1_thumb.jpg" alt="Freestyle Dance Competition" width="72" height="72">
+                    </a>
+                </div>
+                 
+		                        <div class="thumbnail" onmouseover="changetext_19735(5);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17146','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1211alvnred_1_thumb.jpg" alt="Alvin &amp; the Chipmunks" width="72" height="72">
+                    </a>
+                </div>
+                 
+		                        <div class="thumbnail" onmouseover="changetext_19735(6);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17139','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1210horizonl_1_thumb.jpg" alt="Horizon Lounge" width="72" height="72">
+                    </a>
+                </div>
+                 
+		        <br clear="all">                <div class="thumbnail" onmouseover="changetext_19735(7);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17138','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1213xmasliht_1_thumb.jpg" alt="Xmas Tree Lighting" width="72" height="72">
+                    </a>
+                </div>
+                 
+		                        <div class="thumbnail" onmouseover="changetext_19735(8);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17136','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1210chicha_1_thumb.jpg" alt="Chi @ Lodge" width="72" height="72">
+                    </a>
+                </div>
+                 
+		                        <div class="thumbnail" onmouseover="changetext_19735(9);">
+                    <a href="javascript:void(0);" onclick="window.open('http://www.ahlanlive.com/gallery?id=17135','window','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,channelmode=no,directories=no,width=980,height=640,top=10,left=10');">
+                    <img src="http://www.ahlanlive.com/images/tmp/thumb/1211cavlic_1_thumb.jpg" alt="Cavalli Club" width="72" height="72">
+                    </a>
+                </div>
+                 
+		            </div>
+
+            <div class="introtext" id="div_27197"><strong style="color:red">DIFF closing reception</strong><br>Gala dinner at Jumeirah Beach Hotel to mark the end of the Dubai International Film Festival</div>  
+            <br clear="all">
+
+            
+            	<div style="clear:left; text-align:right;  "><a href="http://www.ahlanlive.com/category/alldubai-diaries" style="font-size:11px;">More Dubai Diaries»</a></div>
+    
+</div>
+
 <script type="text/javascript">
 
-    var featureslide = new FeaturesSlide(4); //Passes display elements count
+function changetext_19735(i)
+{
+ var changetext_1 = "<strong style=\"color:red\">DIFF closing reception</strong><br />Gala dinner at Jumeirah Beach Hotel to mark the end of the Dubai International Film Festival" ;
+var changetext_2 = "<strong style=\"color:red\">Party in Layali tent</strong><br />Party in Layali tent at Mina an Salam, Madinat Jumeirah" ;
+var changetext_3 = "<strong style=\"color:red\">Creamfields Party</strong><br />@ the Emirates Palace Hotel in Abu Dhabi" ;
+var changetext_4 = "<strong style=\"color:red\">Freestyle Dance Competition</strong><br />@ Burjuman Mall, Dubai" ;
+var changetext_5 = "<strong style=\"color:red\">Alvin &amp; the Chipmunks</strong><br />@ Diff 2009 red carpet" ;
+var changetext_6 = "<strong style=\"color:red\">Horizon Lounge</strong><br />Habtoor Grand Hotel, Dubai" ;
+var changetext_7 = "<strong style=\"color:red\">Xmas Tree Lighting</strong><br />The Palace Hotel Old Town, Dubai" ;
+var changetext_8 = "<strong style=\"color:red\">Chi @ Lodge</strong><br />Chi @ Lodge" ;
+var changetext_9 = "<strong style=\"color:red\">Cavalli Club</strong><br />@ The Fairmont" ;
+var id = document.getElementById("div_27197");
+id.innerHTML=eval('changetext_'+i);
+}
+
+changetext_19735(1); // initial setting text to text of 1st article
 
 </script>
 
-        <div id="feature_12735" style="display:none;">
 
-          <div class="features-content-image">
-            <p class="title">Feature</p>
-            <p><a href="http://www.ahlanlive.com/12735"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahecs1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12735">Top 25 Celeb Body Tips!</a></p>
-            <p>Shape up for summer with these A-list slimming secrets...</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12735'));</script>
-        <div id="feature_12654" style="display:none;">
+     
 
-          <div class="features-content-image">
-            <p class="title">Ahlan Loves</p>
-            <p><a href="http://www.ahlanlive.com/12654"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahelab_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12654">Johnny’s Tribute To Heath</a></p>
-            <p>In news that’s possibly less shocking than the sky being blue and Spencer Pratt making the <em>Ahlan!</em> team want to eat their own heads... Johnny Depp rocks!</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12654'));</script>
-        <div id="feature_12655" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Ahlan Hates</p>
-            <p><a href="http://www.ahlanlive.com/12655"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahehet_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12655">Chris Brown’s Obliviousness</a></p>
-            <p>Sure, we know that Chris Brown hasn’t been found guilty of committing any crime against Rihanna</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12655'));</script>
-        <div id="feature_12641" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Feature</p>
-            <p><a href="http://www.ahlanlive.com/12641"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahesf_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12641">Raising Matilda</a></p>
-            <p><em>Ahlan!</em> goes inside the world of the happiest child in Hollywood...</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12641'));</script>
-        <div id="feature_12642" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">We can't stop talking about</p>
-            <p><a href="http://www.ahlanlive.com/12642"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahewcst_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12642">Girls Getting Curves!</a></p>
-            <p>Even more A-list chicks are saying ‘super-skinny is out’...</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12642'));</script>
-        <div id="feature_12635" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Best Dressed</p>
-            <p><a href="http://www.ahlanlive.com/12635"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahebd_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12635">The week's best dressed</a></p>
-            <p>Whether in battered sneakers or burberry, the stars were all about individuality...</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12635'));</script>
-        <div id="feature_12624" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Fitness &amp; Health</p>
-            <p><a href="http://www.ahlanlive.com/12624"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahehelt_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12624">Sienna’s Six-Pack Workout</a></p>
-            <p>Get your bod into knockout shape with Sisi’s gruelling GI Joe training...</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12624'));</script>
-        <div id="feature_12627" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Shop Talk</p>
-            <p><a href="http://www.ahlanlive.com/12627"><img src="http://www.ahlanlive.com/images/celebrities/kate_moss/middle/319aheshs_01_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12627">Steal her style</a></p>
-            <p>City chic? It’s a cinch for uber-cool Kate</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12627'));</script>
-        <div id="feature_12629" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Shop Talk</p>
-            <p><a href="http://www.ahlanlive.com/12629"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahewear_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12629">Everyone’s wearing... Shorts</a></p>
-            <p>Start doing lunges and squats – this summer, it’s all about shorts!</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12629'));</script>
-        <div id="feature_12622" style="display:none;">
-
-          <div class="features-content-image">
-            <p class="title">Go!</p>
-            <p><a href="http://www.ahlanlive.com/12622"><img src="http://www.ahlanlive.com/images/tmp/middle/319ahego_1_middle.jpg" width="134" height="103"></a></p>
-            <p class="headline"><a href="http://www.ahlanlive.com/12622">Vevey</a></p>
-            <p>Once home to Charlie Chaplin and the birthplace of milk chocolate... What a delicious destination!</p>
-          </div>
-            
-        </div>
-        <script>featureslide.add($('feature_12622'));</script>
-
-
-	<div id="magazine">
-    	<h2>
-    		From The Magazine <span class="text">Click arrows to view more features</span>
-    	</h2>
-      	<!-- START Current Issue -->
-		<div class="current_magazine">
-			<p class="title">This week in Ahlan! English</p>
-			<p><img src="http://www.ahlanlive.com/images/covers/english/20090611.jpg" width="130" height="172"></p>
-        	<p class="headline">Look out for Ahlan! English. Out now in all leading outlets</p>      
-		</div>
-     	<!-- END Current Issue -->
-
-		<!-- Features Scroll -->
-		<div class="feature_scroll">
-      			<script>
-function imageholderclass(){
-	this.over=new Array();
-	this.down=new Array();
-	this.src=new Array();
-	this.store=store;
-}	
-	function store(src, down, over){
-		var AL=this.src.length;
-		this.src[AL]=new Array();
-		this.src[AL].src=src;
-		
-		this.over[AL]=new Array();
-		this.over[AL].src=over;
-		
-		this.down[AL]=new Array();
-		this.down[AL].src=down;
-	}
-
-
-/*var ih = new imageholderclass();
-var mouseisdown=0;*/
-imageholderclass();
-var mouseisdown=0;
-function preloader(t){
-	for(i=0;i<t.length;i++){
-		if(t[i].getAttribute('srcover')||t[i].getAttribute('srcdown')){
-			
-			storeimages(t[i]);
-			var checker='';
-			checker=(t[i].getAttribute('srcover'))?checker+'A':checker+'';
-			checker=(t[i].getAttribute('srcdown'))?checker+'B':checker+'';
-			
-			switch(checker){
-			case 'A' : mouseover(t[i]);mouseout(t[i]); break;
-			case 'B' : mousedown(t[i]); mouseup2(t[i]); break;
-			case 'AB' : mouseover(t[i]);mouseout(t[i]); mousedown(t[i]); mouseup(t[i]); break;
-			default : return;			
-			}
-			
-			if(t[i].src){t[i].setAttribute("oldsrc",t[i].src);}
-		}
-	}
-}
-function mouseup(t){
-	var newmouseup;
-	if(t.onmouseup){
-		t.oldmouseup=t.onmouseup;
-		newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("srcover");this.oldmouseup();}
-
-	}
-	else{newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("srcover");}}
-	t.onmouseup=newmouseup;
-}
-
-function mouseup2(t){
-	var newmouseup;
-	if(t.onmouseup){
-		t.oldmouseup=t.onmouseup;
-		newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("oldsrc");this.oldmouseup();}
-		}
-	else{newmouseup=function(){mouseisdown=0;this.src=this.getAttribute("oldsrc");}}
-	t.onmouseup = newmouseup;
-}
-
-function mousedown(t){
-	var newmousedown;
-	if(t.onmousedown){
-		t.oldmousedown=t.onmousedown;
-		newmousedown=function(){if(mouseisdown==0){this.src=this.getAttribute("srcdown");this.oldmousedown();}}
-	}
-	else{newmousedown=function(){if(mouseisdown==0){this.src=this.getAttribute("srcdown");}}}
-	t.onmousedown=newmousedown;
-}
-
-function mouseover(t){
-	var newmouseover;
-	if(t.onmouseover){
-		t.oldmouseover=t.onmouseover;
-		newmouseover=function(){this.src=this.getAttribute("srcover");this.oldmouseover();}
-	}
-	else{newmouseover=function(){this.src=this.getAttribute("srcover");}}
-	t.onmouseover=newmouseover;
-}
-
-function mouseout(t){
-	var newmouseout;
-	if(t.onmouseout){
-		t.oldmouseout=t.onmouseout;
-		newmouseout=function(){this.src=this.getAttribute("oldsrc");this.oldmouseout();}
-	}
-	else{newmouseout=function(){this.src=this.getAttribute("oldsrc");}}
-	t.onmouseout=newmouseout;
-}
-
-function storeimages(t){
-	var s=(t.getAttribute('src'))?t.getAttribute('src'):'';
-	var d=(t.getAttribute('srcdown'))?t.getAttribute('srcdown'):'';
-	var o=(t.getAttribute('srcover'))?t.getAttribute('srcover'):'';
-	store(s,d,o);
-}
-
-function preloadimgsrc(){
-	if(!document.getElementById) return;
-	var it=document.getElementsByTagName('IMG');
-	var it2=document.getElementsByTagName('INPUT');
-	preloader(it);
-	preloader(it2);
-}
-
-if(window.addEventListener){window.addEventListener("load", preloadimgsrc, false);} 
-else{
-	if(window.attachEvent){window.attachEvent("onload", preloadimgsrc);}
-	else{if(document.getElementById){window.onload=preloadimgsrc;}}
-}
-</script>
-
-	<div class="left" style="margin:0px 20px 0px 0px ">
-    	<a href="javascript:void(0);" onclick="featureslide.slide('left');"><img src="/templates/ahlanmasala/pictures/buttons/feature_lt.jpg" srcover="/templates/ahlanmasala/pictures/buttons/feature_lt_over.jpg" width="30" height="254" oldsrc="https://web.archive.org/templates/ahlanmasala/pictures/buttons/feature_lt.jpg"></a>
-	</div>
-    	<!-- START Feature BOX -->
-        		<div id="placeholder_0">
-	</div>
-               	<div id="placeholder_1">
-	</div>
-               	<div id="placeholder_2">
-	</div>
-               	<div id="placeholder_3">
-	</div>
-               	<div id="placeholder_4">
-	</div>
-               	<div id="placeholder_5">
-	</div>
-               	<div id="placeholder_6">
-	</div>
-               	<div id="placeholder_7">
-	</div>
-               	<div id="placeholder_8">
-	</div>
-               	<div id="placeholder_9">
-	</div>
-               	               <script>
-	                    for(var i=0; i < 10; i++) {  
-	                        featureslide.placeholders.push($('placeholder_'+i));
-	                        featureslide.items_on.push(featureslide.items.shift());     
-	                    }
-	                    featureslide.turn_on();
-	               </script>
-            <!-- END Feature BOX -->
-                    
-	        <div class="left">
-	        	<a href="javascript:void(0);" onclick="featureslide.slide('right');">
-	        		<img src="/templates/ahlanmasala/pictures/buttons/feature_rt.jpg" srcover="/templates/ahlanmasala/pictures/buttons/feature_rt_over.jpg" width="30" height="254" oldsrc="https://web.archive.org/templates/ahlanmasala/pictures/buttons/feature_rt.jpg">
-	        	</a>
-	        </div>
-                  
-		</div>
-	</div>
-		</div>
-		<br clear="all">
-		<!-- Bottom Blue Branding -->
-		<div id="bottom-strap">
-						<div id="nav-bottom" style="margin-top:5px">
-				<ul>
-					<li><a href="/news">News</a></li>
-										<li><a href="/starstyle">Star Style</a></li>
-					<li><a href="/photos">Photos</a></li>
-					<li><a href="/celebs">Celebs</a></li>
-                    <li><a href="/horoscope">Horoscopes</a></li>
-					<li><a href="/competitions">Competitions</a></li>
-					<li><a href="/travel">Travel</a></li>
-					<li><a href="/health-and-beauty">Health &amp; Beauty</a></li>
-										<li><a href="/index.php?option=com_advertise&amp;view=privacy_policy">Privacy Policy</a></li>
-					<li class="lastlink"><a href="/index.php?option=com_advertise&amp;view=contact_us">Contact Us</a></li>
-				</ul>
-			</div>
-					</div>
-	</div>
+         <!-- module ends here -->  
+<div id="competitions-mod">
+	<h4 class="mod"><a href="http://www.ahlanlive.com/competitions">Competitions <span>»</span></a></h4>
+	<ul>
+				<li>
+						<img src="http://www.ahlanlive.com/images/competitions/comp_2899/72.jpg" alt="Obsessed on DVD" title="Obsessed on DVD">
+						<span>WIN</span>
+			<h3><a href="http://www.ahlanlive.com/competitions/details/2899">Obsessed on DVD</a></h3>
+			<dfn>Ends 19 December 2009</dfn>
+		</li>
+				<li>
+						<img src="http://www.ahlanlive.com/images/competitions/comp_3066/72.jpg" alt="Tickets to Sherlock Holmes Premiere" title="Tickets to Sherlock Holmes Premiere">
+						<span>WIN</span>
+			<h3><a href="http://www.ahlanlive.com/competitions/details/3066">Tickets to Sherlock Holmes Premiere</a></h3>
+			<dfn>Ends 20 December 2009</dfn>
+		</li>
+				<li>
+						<img src="http://www.ahlanlive.com/images/competitions/comp_3067/72.jpg" alt="A Fairmont Boxing Day Brunch For Six" title="A Fairmont Boxing Day Brunch For Six">
+						<span>WIN</span>
+			<h3><a href="http://www.ahlanlive.com/competitions/details/3067">A Fairmont Boxing Day Brunch For Six</a></h3>
+			<dfn>Ends 20 December 2009</dfn>
+		</li>
+				<li>
+						<img src="http://www.ahlanlive.com/images/competitions/comp_3068/72.jpg" alt="A Christmas Day Meal for four at Ruth’s Chris Steak House!" title="A Christmas Day Meal for four at Ruth’s Chris Steak House!">
+						<span>WIN</span>
+			<h3><a href="http://www.ahlanlive.com/competitions/details/3068">A Christmas Day Meal for four at Ruth’s Chris Steak House!</a></h3>
+			<dfn>Ends 20 December 2009</dfn>
+		</li>
+			</ul>
+	<ol id="comp-nav">
+		<li><a class="more" href="morelink">List all competitions</a></li>
+		<li id="cupbut"></li>
+		<li id="ccount">2 of 3</li>
+		<li id="cdownbut"></li>
+	</ol>
 </div>
-<div class="bottom-shadow">&nbsp;</div>
-<div id="siteinfo-legal">
-    <div id="siteinfo-anchor">
-            <a href="#up" style="color:#FFFFFF">
-            BACK TO TOP 
-            <img src="/templates/ahlan.ae/pictures/icons/arrow_white_top.gif" width="14" height="11" class="star">
-        </a> 
+
+<!-- tools module -->
+<div class="tools-mod">
+    <h4 class="mod">Ahlan! Apps and Feeds <span>»</span></h4>
+    <div>
+        <ul>
+            <li>
+            	<a href="/allfeeds"><img src="/templates/ahlan_v3/pictures/furniture/big_rss_icon.png" alt="RSS" title="RSS"></a>
+            </li>
+            <li>
+                <a href="http://www.twitter.com/AhlanLive"><img src="/templates/ahlan_v3/pictures/furniture/big_twitter_icon.png" alt="Twitter" title="Twitter"></a>
+            </li>
+            <li>
+	            <a href="http://www.facebook.com/pages/AhlanLive/80944132829"><img src="/templates/ahlan_v3/pictures/furniture/big_facebook_icon.png" alt="Facebook" title="Facebook"></a>
+            </li>
+        </ul>
     </div>
-    <br clear="all">
-                <script type="text/javascript"> 
-var sistersitesCSSHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Clink href='" + sistersitesCSSHost + "www.itp.net/templates/itp/components/css/sister_sites.css' rel='stylesheet' type='text/css'%3E"));
-</script><link href="https://www.itp.net/templates/itp/components/css/sister_sites.css" rel="stylesheet" type="text/css"> 
+</div>
+<!-- end of tools module -->		<div class="mpu">
+			
+				<!--  begin ad tag: ahlan_en/advertise/homepage (300x251)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=300x251;tile=' + DFP_tile + ';pos=right;ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=300x251;tile=6;pos=right;ord=1261118152?" type="text/javascript"></script>
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=300x251;tile=3;pos=right;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=300x251;tile=3;pos=right;ord=1261118152?" width="300" height="251" border="0" alt=""></a>
+	</noscript><!-- end ad tag -->		</div>
+	<div>
+	<h4 class="mod">The Magazine <span>»</span></h4>
+    <img src="http://www.ahlanlive.com/images/covers/english/20091217.jpg" width="75" align="left" style="margin-right:10px;">
+    <h3>Latest Issue - <strong style="color:#FF0000;">Out Now</strong></h3>
+    <p>Get your favourite celebrity and fashion mag in all good shops every week. </p>
+    <p><strong>Still only Dhs 7.</strong></p>    
+    <p></p>
+</div><br clear="all"> &nbsp;
 
+                </div>
+            </div>
+        </div>
+ 	   
+<div id="going-out-big-mod">
+	<h4 class="mod"><a href="/going-out">Going Out <span>»</span></a></h4>
+	<table>
+		<tbody>
+			<tr>
+										<td class="first"><h3><a href="http://www.ahlanlive.com/going-out?keyword=budgetdeals">Budget Deals<span>»</span></a></h3></td>
+											<td><h3><a href="http://www.ahlanlive.com/going-out?catid=49">Reader Offers<span>»</span></a></h3></td>
+											<td><h3><a href="http://www.ahlanlive.com/going-out?catid=46">Dining Out<span>»</span></a></h3></td>
+											<td><h3><a href="http://www.ahlanlive.com/going-out?keyword=hottickets">Hot Tickets<span>»</span></a></h3></td>
+								</tr>
+			<tr class="list">
+								<td class="first">
+						<div>
+														<img src="http://www.ahlanlive.com/images/tmp/middle/346aheboab_3_middle.jpg" alt="Going out" title="Going out">
+														<ul>
+															<li class="first">
+									<h5><a href="http://www.ahlanlive.com/17211-vista">Vista</a></h5>
+									<p>Happy new view</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17210-grand-hyatt">Grand HYATT</a></h5>
+									<p>Pop your cork!</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17209-nye-lunch--chimes">NYE lunch @ chimes</a></h5>
+									<p>Lunch with bells on!</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17066-ewaan">Ewaan</a></h5>
+									<p>Christmas Day Brunch!</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17065-warehouse">Warehouse</a></h5>
+									<p>Christmas Day Drunch!</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/15209-ahlan-offer">Ahlan! offer</a></h5>
+									<p>2 for 1 cocktails at Radisson Blu</p>
+								</li>		
+														</ul>
+						</div>
+					</td>
+										<td class="zebra">
+						<div>
+														<img src="http://www.ahlanlive.com/images/tmp/middle/342ahegatz_2_middle.jpg" alt="Going out" title="Going out">
+														<ul>
+															<li class="first">
+									<h5><a href="http://www.ahlanlive.com/16532-a-fab-dinner-discount-at-choices">A fab dinner discount at choices</a></h5>
+									<p>Get 20 per cent off your total bill at Choices Restaurant in the Al Bustan Rotana...</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16466-discount-on-nike">Discount on Nike!</a></h5>
+									<p>Get 15% off Nike's Women range and see DJ Valdini live!</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16287-two-for-one-brunch-at-esca">Two for one brunch at Esca!</a></h5>
+									<p>Buy one Q-brunch at Esca – Qamardeen Hotel’s</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16251-get-wild-at-wadi">Get Wild at Wadi</a></h5>
+									<p>Sign up to the 2009 Pepsi Flowboarding Competition</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16120-ahlan-offer">Ahlan Offer!</a></h5>
+									<p>Free manicures at Tips &amp; Toes!</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16869-okku">OKKU</a></h5>
+									<p>The Monarch, 04 501 8777</p>
+								</li>		
+														</ul>
+						</div>
+					</td>
+										<td>
+						<div>
+														<img src="http://www.ahlanlive.com/images/tmp/middle/candles_middle.jpg" alt="Going out" title="Going out">
+														<ul>
+															<li class="first">
+									<h5><a href="http://www.ahlanlive.com/17300-ten-of-the-best-christmas-brunches">Ten of the Best Christmas Brunches</a></h5>
+									<p>Spending Christmas in Dubai? We’ve got 10 of the best Xmas Day brunches in the city</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17237-bateaux-dubai">Bateaux Dubai</a></h5>
+									<p>NYE Cruise</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17239-calabar">Calabar</a></h5>
+									<p>Calabar@ The Address, Downtown Burj Dubai, 04 436 8888</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17238-western-steakhouse">Western Steakhouse</a></h5>
+									<p>Western Steakhouse@ Crowne Plaza Dubai, 04 331 1111</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17057-fairmont-brunch">Fairmont Brunch</a></h5>
+									<p>Fairmont Boxing Day Brunch</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16730-creamfields">Creamfields</a></h5>
+									<p>December 11, Emirates Palace Abu Dhabi</p>
+								</li>		
+														</ul>
+						</div>
+					</td>
+										<td class="zebra">
+						<div>
+														<img src="http://www.ahlanlive.com/images/tmp/middle/346ahegat1_4_middle.jpg" alt="Going out" title="Going out">
+														<ul>
+															<li class="first">
+									<h5><a href="http://www.ahlanlive.com/17241-armin-van-buuren">Armin van Buuren</a></h5>
+									<p>December 31 @ Peppermint Experience, World Trade Centre</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17062-hisham-samawi">Hisham Samawi</a></h5>
+									<p>December 24 @ The Rooftop, Madinat Jumeirah</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17061-shaggy">Shaggy</a></h5>
+									<p>December 17 @ Chi, The Lodge</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/17020-da-gama-brunch">Da Gama Brunch!</a></h5>
+									<p>Is this the sexiest brunch in Dubai?</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16731-backstreet-boys">Backstreet Boys</a></h5>
+									<p>December 17 @ The Paladium</p>
+								</li>		
+															<li>
+									<h5><a href="http://www.ahlanlive.com/16730-creamfields">Creamfields</a></h5>
+									<p>December 11, Emirates Palace Abu Dhabi</p>
+								</li>		
+														</ul>
+						</div>
+					</td>
+								</tr>			
+			<tr class="morelinks">
+										<td><a class="more" href="http://www.ahlanlive.com/going-out?keyword=budgetdeals">More Budget Deals</a></td>
+											<td class="zebra"><a class="more" href="http://www.ahlanlive.com/going-out?catid=49">More Reader Offers</a></td>
+											<td><a class="more" href="http://www.ahlanlive.com/going-out?catid=46">More Dining Out</a></td>
+											<td class="zebra"><a class="more" href="http://www.ahlanlive.com/going-out?keyword=hottickets">More Hot Tickets</a></td>
+										
+				
+			</tr>
+		</tbody>
+	</table>
+</div>
 
-<div class="ahlanlive">
-<span class="siscorns" id="tole"></span><span class="siscorns" is="tori"></span>
-<h6 id="sisterhead">Visit Our Sister Sites:</h6>
-<ul id="sisterlinks">
-<li><a target="_blank" title="ArabianBusiness.com" href="http://www.arabianbusiness.com">ArabianBusiness.com</a></li>
-<li><a target="_blank" title="ArabianBusiness.com/Arabic" href="http://www.arabianbusiness.com/arabic">ArabianBusiness.com/Arabic</a></li>
-<li><a target="_blank" title="ArabianBusiness.com/Markets" href="http://www.arabianbusiness.com/financialmarkets">ArabianBusiness.com/Markets</a></li>
-<li><a target="_blank" title="ArabianBusiness.com/Jobs" href="http://www.arabianbusiness.com/jobs">ArabianBusiness.com/Jobs</a></li>
-<li><a target="_blank" title="ArabianBusiness.com/Property" href="http://www.arabianbusiness.com/property">ArabianBusiness.com/Property</a></li>
-<li><a target="_blank" title="Ahlan! Live" href="http://www.ahlanlive.com">Ahlan! Live</a></li>
-<li><a target="_blank" title="Masala.com" href="http://www.masala.com">Masala.com</a></li>
-<li><a target="_blank" title="ITP.net" href="http://www.itp.net">ITP.net</a></li>
-<li><a target="_blank" title="TimeOutDubai.com" href="http://www.timeoutdubai.com">TimeOutDubai.com</a></li>
-<li><a target="_blank" title="TimeOutAbuDhabi.com" href="http://www.timeoutabudhabi.com">TimeOutAbuDhabi.com</a></li>
-<li><a target="_blank" title="TimeOutBahrain.com" href="http://www.timeoutbahrain.com">TimeOutBahrain.com</a></li>
-<li><a target="_blank" title="TimeOutTickets.com" href="http://www.timeouttickets.com"> TimeOutTickets.com</a></li>
-<li><a target="_blank" title="Ahlan.ae" href="http://www.ahlan.ae">Ahlan.ae</a></li>
-<li><a target="_blank" title="Grazia.ae" href="http://www.grazia.ae">Grazia.ae</a></li>
-<li><a target="_blank" title="VivaMagazine.ae" href="http://www.vivamagazine.ae">VivaMagazine.ae</a></li>
-<li><a target="_blank" title="ITP Publishing Group" href="http://www.itp.com">ITP.com</a></li>
-<li style="border:none;"><a class="focw" target="_blank" title="ConstructionWeekDirectory" href="http://www.constructionweekdirectory.com">ConstructionWeekDirectory</a></li>
+       <div id="footer">
+	       <div id="bot-nav" class="main_nav">
+	<table>
+		<tbody><tr>
+							<td>
+					<a href="/home" class="active">
+						<i></i>
+												<span>Home</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/news">
+						<i></i>
+												<span>News</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/photos">
+						<i></i>
+												<span>Photos</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/going-out">
+						<i></i>
+												<span>Going Out</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/starstyle">
+						<i></i>
+												<span>Star Style</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/celebs">
+						<i></i>
+												<span>Celebs</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/travel">
+						<i></i>
+												<span>Travel</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/health-and-beauty">
+						<i></i>
+												<span>Health-Beauty</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/competitions">
+						<i></i>
+												<span>Competitions</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/readers-offers">
+						<i></i>
+												<span>Readers Offers</span>
+					</a>
+				</td>			
+							<td>
+					<a href="/hot100">
+						<i></i>
+												<span>HOT 100</span>
+					</a>
+				</td>			
+					</tr>
+	</tbody></table>
+</div>
+<script>ITP.transformFlash('bot-nav');</script><ul>
+	<li class="minilogo">
+    	<a href="/"><img title="Ahlan! Live" alt="Ahlan! Live" src="/templates/ahlan_v3/pictures/furniture/ahlan_mini.png"></a>
+    </li>
+    <li class="copy-text">
+    	© 2009 ITP Digital Ltd. All rights reserved.	
+        <a href="http://www.ahlanlive.com/advertise?view=privacy_policy">Privacy policy</a> | 
+        <a href="http://www.ahlanlive.com/advertise?view=terms">Terms of use</a>
+    </li>
+    <li class="sister-sites">
+        <select id="sister_sites_list" onchange="if (this.selectedIndex > 0) location.href=this[this.selectedIndex].value;">
+            <option class="title" selected="selected">Visit other ITP Digital sites</option>
+            <option value="http://www.ArabianBusiness.com/"> ArabianBusiness.com</option>
+            <option value="http://www.ArabianBusiness.com/arabic/">ArabianBusiness.com/Arabic</option>
+            <option value="http://www.ArabianBusiness.com/financial-markets">ArabianBusiness.com/Markets</option>
+            <option value="http://www.ArabianBusiness.com/jobs"> ArabianBusiness.com/Jobs</option>
+            <option value="http://www.ArabianBusiness.com/property">ArabianBusiness.com/Property</option>
+            <option value="http://www.AhlanLive.com/">Ahlan! Live</option>
+            <option value="http://www.Masala.com/">Masala.com</option>
+            <option value="http://www.TimeOutDubai.com/">TimeOutDubai.com</option>
+            <option value="http://www.TimeOutAbuDhabi.com/">TimeOutAbuDhabi.com</option>
+            <option value="http://www.TimeOutBahrain.com/">TimeOutBahrain.com</option>
+            <option value="http://www.TimeOutTickets.com/"> TimeOutTickets.com</option>
+            <option value="http://www.Ahlan.ae/">Ahlan.ae</option>
+            <option value="http://www.Grazia.ae/">Grazia.ae</option>            
+            <option value="http://www.VivaMagazine.ae/">VivaMagazine.ae</option>
+            <option value="http://www.ConstructionWeekDirectory.com/">ConstructionWeekDirectory</option>
+            <option value="http://www.ITP.com/">ITP.com</option>
+        </select>
+    </li>
+    <li id="backtotop">
+        <a href="#">Back to top <b>↑</b></a>
+    </li>
 </ul>
-<span id="sistercopy">
-© 2009 <a href="http://www.itp.com/digital" target="_blank"> ITP DIGITAL</a>&nbsp;|&nbsp;Use of this site constitutes acceptance of our User Policy and Privacy Policy</span>
-<span class="siscorns" id="bole"></span><span class="siscorns" id="bori"></span>
-</div>
-    </div>
-   </div> 
-   <!-- Close for text center div -->
-     	
-				<!--  begin ad tag: ahlan_en/advertise (1x1)  js -->
-	<script language="JavaScript" type="text/javascript">if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise;sz=1x1;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
-	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise;sz=1x1;tile=5;ord=1245222300?" type="text/javascript"></script>
+       </div>
+    </div> 
+</div> 
+<script type="text/javascript">google_sitepage = '/advertise/homepage'</script>		<div style="width:220px; margin:auto;">
+			
+				<!--  begin ad tag: ahlan_en/advertise/homepage (1x1)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=1x1;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=1x1;tile=7;ord=1261118152?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise;sz=1x1;tile=14;ord=1245222300?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise;sz=1x1;tile=14;ord=1245222300?" width="1" height="1" border="0" alt=""></a>
-	</noscript><!-- end ad tag -->	<script type="text/javascript">
-	function setInterstitial(setURI, wTime) {
-		var regex = new RegExp("doubleclick.net|javascript:|mailto:|ftp:|#", "im");
-		var wLinks = document.getElementsByTagName('a');
-		for( i=0; i<wLinks.length; i++ ) {
-				if(setURI != 'reset') {
-					if ( !regex.test(wLinks[i].href) && !wLinks[i].getAttribute('onclick') ) {
-						var wURI = wLinks[i].href;
-						wLinks[i].setAttribute('ohref', wURI);
-						wLinks[i].setAttribute('onclick', 'setInterstitial(\'reset\', ' + i + ')');
-						var wURI = encodeURIComponent(wURI);
-						wLinks[i].href = setURI + '?wURI=' + wURI + '&wAd=' + wAd + '&wTime=' + wTime;
-					}
-				}
-		else {
-		if(i != wTime) wLinks[i].href = wLinks[i].getAttribute('ohref');
-			}
-		}
-	}
-	if (typeof wAd != undefined && wAd) { setInterstitial('/interstitial.php', 60000) };
-</script>
-
-
-
-				<!--  begin ad tag: ahlan_en/advertise (1x2)  js -->
-	<script language="JavaScript" type="text/javascript">if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise;sz=1x2;dcopt=ist;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
-	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise;sz=1x2;dcopt=ist;tile=6;ord=1245222300?" type="text/javascript"></script>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=1x1;tile=15;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=1x1;tile=15;ord=1261118152?" width="1" height="1" border="0" alt=""></a>
+	</noscript><!-- end ad tag -->		</div>
+		<br clear="all">
+	
+				<!--  begin ad tag: ahlan_en/advertise/homepage (1x2)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=1x2;dcopt=ist;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=1x2;dcopt=ist;tile=8;ord=1261118152?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise;sz=1x2;dcopt=ist;tile=15;ord=1245222300?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise;sz=1x2;dcopt=ist;tile=15;ord=1245222300?" width="1" height="2" border="0" alt=""></a>
-	</noscript><!-- end ad tag --><div id="pageCurlAd">
-			</div>
-	<script language="javascript" type="text/javascript">domRollover();</script>
-			<script src="/ga.js" type="text/javascript"></script>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=1x2;dcopt=ist;tile=15;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=1x2;dcopt=ist;tile=15;ord=1261118152?" width="1" height="2" border="0" alt=""></a>
+	</noscript><!-- end ad tag -->
+				<!--  begin ad tag: ahlan_en/advertise/homepage (740x467)  js -->
+	<script language="JavaScript" type="text/javascript">if(typeof(DFP_ord) == "undefined"){var DFP_ord = 1261118152;} if(typeof(DFP_host) == "undefined"){var DFP_host = (("https:" == document.location.protocol) ? "https://" : "http://");} if(typeof(DFP_tile) == "undefined"){var DFP_tile = 1;} else {DFP_tile++;} document.write('<scr'+'ipt language="JavaScript" src="' + DFP_host + 'ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=740x467;tile=' + DFP_tile + ';ord='+DFP_ord+'?" type="text/javascript"></scr'+'ipt>');
+	</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/ahlan_en/advertise/homepage;sz=740x467;tile=9;ord=1261118152?" type="text/javascript"></script>
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ahlan_en/advertise/homepage;sz=740x467;tile=15;ord=1261118152?" target="_blank"><img src="http://ad.doubleclick.net/ad/ahlan_en/advertise/homepage;sz=740x467;tile=15;ord=1261118152?" width="740" height="467" border="0" alt=""></a>
+	</noscript><!-- end ad tag --><script type="text/javascript">google_sitepage = '/advertise/homepage'</script>		<script src="/ga.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	var pageTracker = _gat._getTracker("UA-515197-3");
 	pageTracker._initData();
@@ -943,7 +1391,5 @@ document.write(unescape("%3Clink href='" + sistersitesCSSHost + "www.itp.net/tem
 	</noscript>
 	<!-- END Nielsen//NetRatings SiteCensus V5.3 -->	
 
-	
-	
-<!-- template index_full -->
+
 </body></html>
