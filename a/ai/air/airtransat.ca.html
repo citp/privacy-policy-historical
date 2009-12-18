@@ -1,0 +1,651 @@
+<!--The following is the downloaded HTML source of the airtransat.ca privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218014613id_/http%3A//www.airtransat.ca/EN/Info/privacy.aspx%3FExitID%3D765%26ContentType%3Dgamme) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="Default description">
+<meta name="keywords" content="default keywords"><link href="/Handlers/HttpCombiner.ashx?s=Set_Css&amp;t=text%2fcss&amp;v=v2.3.0_33+%40+12%2f07%2f2009+16%3a54%3a09" type="text/css" rel="Stylesheet"><script type="text/javascript" src="/Handlers/HttpCombiner.ashx?s=Set_JavaScript&amp;t=text%2fjavascript&amp;v=v2.3.0_33+%40+12%2f07%2f2009+16%3a54%3a09"></script><title>
+	
+</title></head>
+
+<body id="ctl00_ctl00_mainMasterId">
+    <form name="aspnetForm" method="post" action="privacy.aspx?langue=EN&amp;sujet=privacy&amp;exitid=765&amp;ContentType=gamme" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjYzRkNzExYjAyY2QzNxgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQU8Y3RsMDAkY3RsMDAkY3BoQ29udGVudCRjcGhNeVRyYW5zYXRDb250ZW50JE1lbnUkdHJlZUluZm9wYWdlBSxjdGwwMCRjdGwwMCRUcmF2ZWxBZHZpc29yaWVzMSRBbGVydHNMaXN0Vmlldw9nZOJ5H5ae8XlyMLUWpV84JdrvSQxR">
+
+
+<script type="text/javascript">
+//<![CDATA[
+var GaEnabled = true;var __cultureInfo = '{"name":"en-CA","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135578800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"MMMM d, yyyy h:mm:ss tt","LongDatePattern":"MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM, yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":false,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}}';//]]>
+</script>
+
+<script src="../../js/Ajax_v1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Type.registerNamespace('Transat.B2X.Web.Apps.MainSite.MyTransat');
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS=function() {
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.prototype={
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.get_path();},
+GetPageToGoTo:function(sourcePage,action,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetPageToGoTo',false,{sourcePage:sourcePage,action:action},succeededCallback,failedCallback,userContext); },
+Logout:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'Logout',false,{},succeededCallback,failedCallback,userContext); },
+IsUserAuthenticated:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'IsUserAuthenticated',false,{},succeededCallback,failedCallback,userContext); }}
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.registerClass('Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS',Sys.Net.WebServiceProxy);
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance = new Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS();
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.set_path = function(value) { Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.set_path(value); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.get_path = function() { return Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.get_path(); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.set_timeout = function(value) { Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.set_timeout(value); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.get_timeout = function() { return Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.get_timeout(); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.set_defaultUserContext = function(value) { Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.set_defaultUserContext(value); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.get_defaultUserContext = function() { return Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.get_defaultUserContext(); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.set_defaultSucceededCallback = function(value) { Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.set_defaultSucceededCallback(value); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.get_defaultSucceededCallback = function() { return Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.get_defaultSucceededCallback(); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.set_defaultFailedCallback = function(value) { Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.set_defaultFailedCallback(value); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.get_defaultFailedCallback = function() { return Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.get_defaultFailedCallback(); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.set_path("/WebServices/MyTransatWS.asmx");
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.GetPageToGoTo= function(sourcePage,action,onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.GetPageToGoTo(sourcePage,action,onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.Logout= function(onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.Logout(onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.IsUserAuthenticated= function(onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS._staticInstance.IsUserAuthenticated(onSuccess,onFailed,userContext); }
+Type.registerNamespace('Transat.B2X.Web.Apps.MainSite.Code');
+if (typeof(Transat.B2X.Web.Apps.MainSite.Code.NavigationAction) === 'undefined') {
+Transat.B2X.Web.Apps.MainSite.Code.NavigationAction = function() { throw Error.invalidOperation(); }
+Transat.B2X.Web.Apps.MainSite.Code.NavigationAction.prototype = {HomePg: 0,FlightResult: 1,CarResult: 2,HotelResult: 3,Options: 4,Presel: 5,Car: 6,Insurance: 7,BackToInsurance: 8,Review: 9,Reserve: 10,Confirm: 11,FindFlight: 12,FindCar: 13,FindHotel: 14,ChildrenBabiesConfirm: 15,UpdateFlight: 16,UpdateCar: 17,UpdateHotel: 18,GoPresel: 19,SelectFlight: 20,StartNewSearch: 21,OptionsBack: 22,AddCar: 23,ReserveSeat: 24,OptionsContinue: 25,CarFinish: 26,PreselFinish: 27,BackToOptions: 28,InsuranceContinue: 29,BackToFlightResults: 30,ReviewContinue: 31,BackToReview: 32,ConfirmPayment: 33,MyTransat: 34,MyItineraries: 35,FlightHomePg: 36,CarHomePg: 37,HotelHomePg: 38,MyProfileLogin: 39,MyProfile: 40,OptionsFlight: 41,HotelDetail: 42,BackToHotelDetail: 43,ChildrenConfirm: 44,OptionsHotel: 45,ShoppingCart_Home: 46,ShoppingCart_AddExtras: 47,ShoppingCart_ManageUserSession: 48,ShoppingCart_TravellersInfo: 49,ShoppingCart_TravellersAssignments: 50,ShoppingCart_TravellersInsurance: 51,ShoppingCart_ReviewOrder: 52,ShoppingCart_Payment: 53,ShoppingCart_Confirmation: 54,SecureFlightInfo: 55,WebCheckIn: 56}
+Transat.B2X.Web.Apps.MainSite.Code.NavigationAction.registerEnum('Transat.B2X.Web.Apps.MainSite.Code.NavigationAction', true);
+}
+Type.registerNamespace('Transat.B2X.Web.Apps.MainSite.WebServices.Car');
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search=function() {
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.prototype={
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.get_path();},
+SearchCars:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'SearchCars',false,{},succeededCallback,failedCallback,userContext); },
+GetCarCitiesAirports:function(context,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetCarCitiesAirports',false,{context:context},succeededCallback,failedCallback,userContext); },
+GetCarWorkingHours:function(carLocationId,carLocationDate,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetCarWorkingHours',false,{carLocationId:carLocationId,carLocationDate:carLocationDate},succeededCallback,failedCallback,userContext); },
+GetCarWorkingHoursFromCriteria:function(carLocationId,isDropOff,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetCarWorkingHoursFromCriteria',false,{carLocationId:carLocationId,isDropOff:isDropOff},succeededCallback,failedCallback,userContext); },
+GetMapInfoByCityCode:function(cityCode,type,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetMapInfoByCityCode',false,{cityCode:cityCode,type:type},succeededCallback,failedCallback,userContext); },
+GetMapItemByLocationId:function(locationId,locationType,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetMapItemByLocationId',false,{locationId:locationId,locationType:locationType},succeededCallback,failedCallback,userContext); }}
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.registerClass('Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search',Sys.Net.WebServiceProxy);
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance = new Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search();
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.set_path = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.set_path(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.get_path = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.get_path(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.set_timeout = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.set_timeout(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.get_timeout = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.get_timeout(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.set_defaultUserContext = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.set_defaultUserContext(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.get_defaultUserContext = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.get_defaultUserContext(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.set_defaultSucceededCallback = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.set_defaultSucceededCallback(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.get_defaultSucceededCallback = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.get_defaultSucceededCallback(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.set_defaultFailedCallback = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.set_defaultFailedCallback(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.get_defaultFailedCallback = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.get_defaultFailedCallback(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.set_path("/WebServices/Car/Search.asmx");
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.SearchCars= function(onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.SearchCars(onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.GetCarCitiesAirports= function(context,onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.GetCarCitiesAirports(context,onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.GetCarWorkingHours= function(carLocationId,carLocationDate,onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.GetCarWorkingHours(carLocationId,carLocationDate,onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.GetCarWorkingHoursFromCriteria= function(carLocationId,isDropOff,onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.GetCarWorkingHoursFromCriteria(carLocationId,isDropOff,onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.GetMapInfoByCityCode= function(cityCode,type,onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.GetMapInfoByCityCode(cityCode,type,onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search.GetMapItemByLocationId= function(locationId,locationType,onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.Car.Search._staticInstance.GetMapItemByLocationId(locationId,locationType,onSuccess,onFailed,userContext); }
+var gtc = Sys.Net.WebServiceProxy._generateTypedConstructor;
+Type.registerNamespace('Telerik.Web.UI');
+if (typeof(Telerik.Web.UI.RadComboBoxItemData) === 'undefined') {
+Telerik.Web.UI.RadComboBoxItemData=gtc("Telerik.Web.UI.RadComboBoxItemData");
+Telerik.Web.UI.RadComboBoxItemData.registerClass('Telerik.Web.UI.RadComboBoxItemData');
+}
+Type.registerNamespace('Transat.B2X.Web.Apps.MainSite.Code');
+if (typeof(Transat.B2X.Web.Apps.MainSite.Code.MapInfo) === 'undefined') {
+Transat.B2X.Web.Apps.MainSite.Code.MapInfo=gtc("Transat.B2X.Web.Apps.MainSite.Code.MapInfo");
+Transat.B2X.Web.Apps.MainSite.Code.MapInfo.registerClass('Transat.B2X.Web.Apps.MainSite.Code.MapInfo');
+}
+if (typeof(Transat.B2X.Web.Apps.MainSite.Code.MapItem) === 'undefined') {
+Transat.B2X.Web.Apps.MainSite.Code.MapItem=gtc("Transat.B2X.Web.Apps.MainSite.Code.MapItem");
+Transat.B2X.Web.Apps.MainSite.Code.MapItem.registerClass('Transat.B2X.Web.Apps.MainSite.Code.MapItem');
+}
+Type.registerNamespace('Transat.B2X.Web.Apps.MainSite.WebServices');
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS=function() {
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.prototype={
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.get_path();},
+RefreshSession:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'RefreshSession',false,{},succeededCallback,failedCallback,userContext); },
+RemoveShoppingBasketAndSessions:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'RemoveShoppingBasketAndSessions',false,{},succeededCallback,failedCallback,userContext); },
+GetLastErrorDetails:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetLastErrorDetails',false,{},succeededCallback,failedCallback,userContext); }}
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.registerClass('Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS',Sys.Net.WebServiceProxy);
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance = new Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS();
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.set_path = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.set_path(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.get_path = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.get_path(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.set_timeout = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.set_timeout(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.get_timeout = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.get_timeout(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.set_defaultUserContext = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.set_defaultUserContext(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.get_defaultUserContext = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.get_defaultUserContext(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.set_defaultSucceededCallback = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.set_defaultSucceededCallback(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.get_defaultSucceededCallback = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.get_defaultSucceededCallback(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.set_defaultFailedCallback = function(value) { Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.set_defaultFailedCallback(value); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.get_defaultFailedCallback = function() { return Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.get_defaultFailedCallback(); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.set_path("/WebServices/RefrechSessionWS.asmx");
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.RefreshSession= function(onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.RefreshSession(onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.RemoveShoppingBasketAndSessions= function(onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.RemoveShoppingBasketAndSessions(onSuccess,onFailed,userContext); }
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.GetLastErrorDetails= function(onSuccess,onFailed,userContext) {Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS._staticInstance.GetLastErrorDetails(onSuccess,onFailed,userContext); }
+var gtc = Sys.Net.WebServiceProxy._generateTypedConstructor;
+if (typeof(Transat.B2X.Web.Apps.MainSite.WebServices.LiteError) === 'undefined') {
+Transat.B2X.Web.Apps.MainSite.WebServices.LiteError=gtc("Transat.B2X.Web.Apps.MainSite.WebServices.LiteError");
+Transat.B2X.Web.Apps.MainSite.WebServices.LiteError.registerClass('Transat.B2X.Web.Apps.MainSite.WebServices.LiteError');
+}
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLrmt33BQLE053XBQ7IhdpHV2iSlUBsWz6wz4sFuHGL">
+    
+
+<script type="text/javascript">if(typeof(Telerik)!="undefined"&&Telerik!=null&&Telerik.Web.UI.Overlay!=null){Sys.Application.add_init(function(){Telerik.Web.UI.Overlay.IsSupported=function(){return false
+}
+})
+};</script>
+
+         
+       <div>
+	      
+            <table border="0" cellspacing="0" cellpadding="0" class="MainTable" id="table1">
+                <tbody><tr>
+                    <td rowspan="2" class="CellLeft"></td>
+                    <td></td>
+                    <td rowspan="2" class="CellRight">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="MainCell">
+                        <div id="pageMaster" class="pageMasterClass">
+                            
+                                
+
+
+<div id="divHeader" class="headerPrincipalArea">
+    <div id="divLogo" class="logo">
+        <a href="/"><img src="http://media.transat.com/destinations/images.aspx?imageid=8332&amp;imagetype=image" alt="" border="0"></a>                     
+    </div>
+    <div id="divHeaderTopMenus" class="topHeaderRight">
+        <div id="divHeaderMenuLang" class="topMenusLine">
+            <div class="linksArea fromGame">
+            
+                <a id="ctl00_ctl00_cphHeader_usrHeader_hylHome" title="Home" class="color3" href="/en/Home.aspx">Home</a>
+                <span class="color7">|</span>
+
+                <a class="linkItem" href="http://www.airtransat.ca/en/Info/profile.aspx?ExitID=35&amp;ContentType=voyageur" target="_self">About us</a>   
+            </div>
+            
+          <div class="flagListContainer addLeftSpace">
+                <ul id="flagList-1" onmouseover="makeVisibleFlag('true')" onmouseout="makeVisibleFlag('false')">
+		            <li><a href="#"></a>
+			            <ul class="flagList-2" id="flagList-2" onmouseout="makeVisibleFlag('false')">
+				            <li>
+				                <div id="ctl00_ctl00_cphHeader_usrHeader_pnlCultureFlags">
+	<a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem3" title="United Kingdom" class="en" href="http://www.airtransat.co.uk" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem9" title="Switzerland" class="sw" href="http://www.airtransat.ch" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem8" title="Spain" class="sp" href="http://www.airtransat.es" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem11" title="Netherlands" class="nl" href="http://www.airtransat.nl" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem7" title="Italy" class="it" href="http://www.airtransat.it" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem6" title="Ireland" class="ir" href="http://www.airtransat.ie" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem5" title="Greece" class="gr" href="http://www.airtransat.gr" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem4" title="Germany" class="de" href="http://www.airtransat.de" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem2" title="France" class="fr" href="http://www.airtransat.fr" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem1" title="Belgium" class="be" href="http://www.airtransat.be" target="_blank"></a><a id="ctl00_ctl00_cphHeader_usrHeader_RadMenuItem" title="Austria" class="au" href="http://www.airtransat.at" target="_blank"></a>
+</div>
+                            </li>
+			            </ul>
+		            </li>
+              </ul>
+            </div>
+            <div class="linksArea addLeftSpace">
+                <span id="ctl00_ctl00_cphHeader_usrHeader_lblbarSeparator3" class="color7">|</span>
+                <a id="ctl00_ctl00_cphHeader_usrHeader_ChangeLanguageLinkButton" class="languageActif" href="javascript:__doPostBack('ctl00$ctl00$cphHeader$usrHeader$ChangeLanguageLinkButton','')">Français</a>                    
+            </div>
+            <div class="clearDiv"></div>
+        </div>
+        <div class="clearDiv"></div>
+        <div class="signInSeparator"></div>
+        <div class="clearDiv"></div>
+       
+        <div class="shoppingBagContent"> 
+             <span id="ctl00_ctl00_cphHeader_usrHeader_lblBarSeparator" class="color7">|</span>
+       
+              <a id="ctl00_ctl00_cphHeader_usrHeader_lnkShoppingCart" disabled="disabled" class="shoppingBagHeaderLink shoppingBagUnactive bold">Shopping Cart</a>      
+        </div>
+        <div class="topMenusLine signIn">              
+            <div id="ctl00_ctl00_cphHeader_usrHeader_SessionHeaderUpdatePanel">
+	
+                    <a id="ctl00_ctl00_cphHeader_usrHeader_hylSignIn" title="Open a session" class="color3 bold" href="../../MyTransat/MyProfileLogin.aspx?action=login">Sign in</a> 
+                    <span id="ctl00_ctl00_cphHeader_usrHeader_lblSlashSeparator" class="color3">/</span>
+                    <a id="ctl00_ctl00_cphHeader_usrHeader_hylRegister" title="Sign up" class="color3 bold" href="../../MyTransat/MyProfileLogin.aspx?action=create">Register</a>            
+                        
+                    <div id="ctl00_ctl00_cphHeader_usrHeader_upHeaderLogin" style="display:none;">
+		
+                            <div>
+                                <img id="ctl00_ctl00_cphHeader_usrHeader_Image1" src="../../App_Themes/AirTransat/img/Common/WaitingAnimation4.gif" alt="Header" border="0">
+                            </div>
+                        
+	</div>            
+                    
+                
+</div>
+             </div>
+                 
+                        
+       
+    </div>
+    <div id="divHeaderMainMenu" class="mainMenu">
+        
+
+
+
+<div class="menuContainer">
+	<ul id="navigation-1">
+		<li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylFlight" href="/en/Flight/Default.aspx">
+		    <div></div>
+		    <span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblFlight" title="Flights">Flights</span></a></li>
+		<li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylHotel" href="/en/Hotel/Default.aspx"><div></div><span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblHotels" title="Hotels">Hotels</span></a></li>    
+		<li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylCar" href="/en/Car/Default.aspx"><div></div><span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblCars" title="Cars">Cars</span></a></li>
+		<li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylPackages" href="../PackagesInfo/Packages.aspx">
+		    <div></div>
+		    <span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblPackages" title="Packages">Packages</span></a></li>
+		<li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylSpecialOffers" href="../SpecialOffers/Default.aspx">
+		    <div></div>
+		    <span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblSpecialOffers" title="Special offers">Special offers</span></a></li>
+		 
+		<li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylTravelInfo" class="current" href="travel-info.aspx?ExitID=1&amp;ContentType=voyageur">		
+		    <div></div>
+		    <span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblTravelInfo" title="Travel info">Travel info</span></a></li>
+      
+        <li><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylDestinations" class="area2" href="../Destinations/Map.aspx">
+            <div></div>
+            <span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblDestinations" title="Destinations">Destinations</span></a></li>
+        
+        <li class="last"><a id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_hylMyTransat" class="area3" href="https://www.airtransat.ca/MyTransat/default.aspx">
+            <div></div>
+            <span id="ctl00_ctl00_cphHeader_usrHeader_usrMainMenu_lblMyTransat" title="My Transat">My Transat</span></a></li>
+	</ul>
+    <div class="clearDiv"></div>
+    <div class="menuLine"><div class="rightCorner"></div></div>
+    <div class="clearDiv"></div>
+</div>
+
+
+
+    </div> 
+    <div style="clear:both;"></div> 
+</div>
+
+    
+
+
+<script type="text/javascript">function makeVisibleFlag(param){var obj=document.getElementById("flagList-2");
+if(param=="true"){obj.style.display="block"
+}else{obj.style.display="none"
+}}function GotoShoppingBagHome(){Transat.B2X.Web.Apps.MainSite.MyTransat.MyTransatWS.GetPageToGoTo("ASP.shoppingcart_default_aspx","ShoppingCart_Home",ProceedResponse)
+}function DisableShoppingCart(){var lnkShoppingCart=document.getElementById("ctl00_ctl00_cphHeader_usrHeader_lnkShoppingCart");
+if(lnkShoppingCart!=null){lnkShoppingCart.onclick="return false";
+lnkShoppingCart.className="shoppingBagHeaderLink shoppingBagUnactive bold"
+}};</script>
+                            
+                            <a id="ctl00_ctl00_ErrorHandlingControl_sessionTimeOutHL" style="display:none;">[sessionTimeOutHL]</a>
+
+    <div id="ctl00_ctl00_ErrorHandlingControl_panEndSession" class="panModalInfo" style="display:none;">
+	
+        <div id="divPanEndSessionContent" class="panEndSessionContent">
+            <div id="divEndSession" class="endSession">
+                <div>
+                    <div class="msgInfoIcon1"></div>
+                    <div id="endSessionMessage" class="endSessionTitle">
+                        <span id="ctl00_ctl00_ErrorHandlingControl_lblTitreEndSession" class="color9 typo2 font12 bold">Your session has expired. If your shopping cart contained items, they will be removed.</span>                
+                    </div>
+                </div>
+                <div class="msgEndSessionAction">
+                    <a id="ctl00_ctl00_ErrorHandlingControl_linkToHome" title="Return to first page" class="bulletedLink" onclick="HideErrorMessage();return false;">Close window</a>           
+                </div>
+                <div class="clearDiv"></div>
+            </div>
+        </div>
+    
+</div>  
+
+
+    
+    
+
+    
+            
+      
+      <script type="text/javascript">var postbackElement;
+Sys.Application.add_load(ApplicationLoadHandler);
+function ApplicationLoadHandler(){Sys.WebForms.PageRequestManager.getInstance().add_endRequest(onEndRequest)
+}function onEndRequest(sender,args){var err=args.get_error();
+if(err!=null){HasError=true;
+args.set_errorHandled(true);
+Transat.B2X.Web.Apps.MainSite.WebServices.RefrechSessionWS.GetLastErrorDetails(ShowErrorMessage)
+}}function showSesssionTimeOutReminder(){var iFrameObj=document.getElementById("ctl00_ctl00_cphContent_cphContent_PreselIframe");
+if(iFrameObj!=null){iFrameObj.style.display="none"
+}var popup=$find("modalPopup");
+popup.show()
+}function HideErrorMessage(){var popup=$find("modalPopup");
+popup.hide();
+DisableShoppingCart()
+}function ShowErrorMessage(lightError){var popup=$find("modalPopup");
+var text=$get("endSessionMessage");
+var myLink=$get("ctl00_ctl00_ErrorHandlingControl_linkToHome");
+var lbl=$get("ctl00_ctl00_ErrorHandlingControl_lblTitreEndSession");
+var linkLabel=$get("ctl00_ctl00_ErrorHandlingControl_linkToHome");
+if(lightError.RedirectToCustomErrorPage){window.location.href="/GenericErrorPage.htm"
+}lbl.innerText=lightError.ErrorMessage;
+linkLabel.innerText=lightError.LinkLabel;
+popup.show()
+};</script>                         
+
+                            
+                            
+    <div class="masterGeneriqueContainer">
+    
+        <div class="titleArea"> 
+            
+
+<div id="divSelectFlightBreadCrump" class="breadCrump">
+    
+    <span id="ctl00_ctl00_cphContent_usrBreadCrumpTitle_smpMain" class="font10 color7"><a href="#ctl00_ctl00_cphContent_usrBreadCrumpTitle_smpMain_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=QoFZFOhk3WOLcb6nnanPGQ2&amp;t=633637428500351488" border="0"></a><span><a href="/Default.aspx">Home</a></span><span>
+            <span class="arrowBreadCrump">&nbsp;</span>                                    
+        </span><span><a href="/EN/general-information.aspx?ExitID=766&amp;ContentType=gamme">Information for travellers</a></span><span>
+            <span class="arrowBreadCrump">&nbsp;</span>                                    
+        </span><span>Privacy</span><a id="ctl00_ctl00_cphContent_usrBreadCrumpTitle_smpMain_SkipLink"></a></span>
+                                 
+</div>
+<div class="clearDiv"></div>
+<div id="divSelectFlightTitle" class="pageTitle">
+    <h1 class="typo1 font25 color2"><span id="ctl00_ctl00_cphContent_usrBreadCrumpTitle_lblPageTitle">Privacy</span></h1>
+</div>               
+        </div>
+ 
+        <div class="contentArea">
+            
+            <div id="ctl00_ctl00_cphContent_UpdatePanel_MsgError">
+	        
+                            
+                
+</div> 
+                
+            <div class="clearDiv"></div> 
+            
+            
+    
+
+    <div class="infoHome">
+        <div id="ctl00_ctl00_cphContent_cphMyTransatContent_divLeftColumnArea" class="leftColumnArea">                
+            
+    
+
+   
+<div id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_divMenuAllSpecialOffers" class="menuOSAllNoSearchEngine">
+    <div class="menuOSAllSpecialOffers padding0">
+        <a href="#ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopage_SkipLink"><img alt="Skip Navigation Links." src="/WebResource.axd?d=QoFZFOhk3WOLcb6nnanPGQ2&amp;t=633637428500351488" width="0" height="0" border="0"></a><div id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopage">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><img src="/WebResource.axd?d=Qy8lhHzvuJdghvnMmVpMsVIrMAE1skPjSGI3r61E9tw1&amp;t=633637428500351488" alt=""></td><td class="lineItem" width="207"><a class="lineItem" href="../customer-service.aspx?ExitID=766&amp;ContentType=gamme" id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopaget0">Customer service</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><img src="/WebResource.axd?d=Qy8lhHzvuJdghvnMmVpMsVIrMAE1skPjSGI3r61E9tw1&amp;t=633637428500351488" alt=""></td><td class="lineItem" width="207"><a class="lineItem" href="../terms--conditions.aspx?ExitID=768&amp;ContentType=gamme" id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopaget1">Terms &amp; Conditions</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><img src="/WebResource.axd?d=Qy8lhHzvuJdghvnMmVpMsVIrMAE1skPjSGI3r61E9tw1&amp;t=633637428500351488" alt=""></td><td class="lineItemCurrent lineItem" width="207"><a class="lineItemCurrent lineItem" href="../privacy.aspx?ExitID=765&amp;ContentType=gamme" id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopaget2">Privacy</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><img src="/WebResource.axd?d=Qy8lhHzvuJdghvnMmVpMsVIrMAE1skPjSGI3r61E9tw1&amp;t=633637428500351488" alt=""></td><td class="lineItem" width="207"><a class="lineItem" href="../legal-notice.aspx?ExitID=769&amp;ContentType=gamme" id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopaget3">Legal Notice</a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><img src="/WebResource.axd?d=Qy8lhHzvuJdghvnMmVpMsVIrMAE1skPjSGI3r61E9tw1&amp;t=633637428500351488" alt=""></td><td class="lineItem" width="207"><a class="lineItem" href="http://www.transat.com/en/social.responsibility/sustainable.tourism.aspx" target="_blank" id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopaget4">For sustainable tourism</a></td>
+		</tr>
+	</tbody></table>
+</div><a id="ctl00_ctl00_cphContent_cphMyTransatContent_Menu_treeInfopage_SkipLink"></a>
+    </div>
+</div>
+               
+        </div>
+        <div id="ctl00_ctl00_cphContent_cphMyTransatContent_divInfoHomeContent" class="infoHomeContentNoRightCol">
+            <div id="ctl00_ctl00_cphContent_cphMyTransatContent_divDestDescriptionContainerHeader" class="destDescriptionContainer">     
+            <h2 class="typo4 font16 color2 marginTop10">Privacy</h2>
+<div class="marginTop10"><p>Air Transat and its affiliated companies (“Transat”) are committed to protecting the privacy of your personal information and have taken measures to ensure the privacy and confidentiality of that information.&nbsp; Our commitment to safeguarding your privacy is reflected in our Transat’s privacy policy (the “Policy”). We have developed this policy and related procedures to comply with the <em>Personal Information Protection and Electronic Document Act</em>.&nbsp; We invite you to consult our Policy for more information and details.&nbsp; We invite you to consult our Policy to get more details, it is accessible below.</p>
+<p>Transat is responsible for personal information it holds or has under its control, including personal information it passes to others with your permission.&nbsp; Our privacy officer will receive and respond to your enquiries and complaints regarding the protection and privacy of your personal information, and will deal with requests for access to your information.</p>
+<p>If you have given us your consent, we may forward your name, coordinates, profile and travel preferences to<em><strong> other divisions and members of Transat</strong></em> (collectively, “Transat”) and to service providers specializing in data processing in order to contact you, via any and all means, with respect to our travel services (including to conduct surveys) and / or to send you personalized offers on our products and <strong>Transat</strong> products. </p>
+<p>For all bookings, your name and booking details will be forwarded to our travel suppliers (airlines, hotels, cruise companies, incoming tour operators, car rental companies…) in order to finalize your booking and enable you to fully enjoy your trip.</p>
+<h3> 1 - The importance of the right to privacy. </h3>
+<p>Transat takes the privacy rights of individuals very seriously and, in this respect, takes all measures possible to ensure the protection of the personal information that we collect in providing our services.&nbsp; Transat may be required to exchange personal information with third parties on individuals for the purpose of administering customer accounts and files.&nbsp; Transat and such third parties may also exchange information on individuals that is not of a sensitive nature regarding their preferences for the purpose of offering and providing quality benefits, products, goods, and services in an efficient manner. Nevertheless, Transat will not collect, use, or disclose any personal information on an individual without his or her consent, unless compelled to do so by statute or regulation. In this regard, our primary concern is the trust that individuals place in our safeguarding the privacy of their personal information.</p>
+<p>The purpose of this Policy is to outline our commitment regarding the protection of privacy as well as the rules we intend to follow when we collect, retain, use, or disclose personal information.</p>
+<p>Our Policy has been formulated to satisfy and indeed, even to exceed the requirements of privacy legislation in force in Canada, specifically the <em>Personal Information Protection and Electronic Documents Act</em>, S.C. 2000, c. 5, various provincial laws regarding privacy protection, the Principles set out in the National Standard of Canada for the Protection of Personal Information (CAN/CSA-Q830-96), as well as any applicable regulations (hereinafter the “Law”). We also undertake to constantly re-assess our rules of practice and our procedures in this area and to take into account the comments of any individuals.</p>
+<p>In order to better understand and meet the expectations of individuals regarding the protection of personal information, Transat has designated a member of senior management to act as Director, Protection of Personal Information (hereinafter “the Director”). Any person may contact the Director in order to share comments, request access to any personal information that we may have on him or her, request that corrections be made to the information, or to file a complaint. The Director shall conduct a consistent review of Transat practices and procedures to ensure compliance with this Policy and to meet customer expectations in this respect.</p>
+<p>&nbsp;</p>
+<h3>2 - Transat’s undertakings</h3>
+<ul>
+  <li>We shall collect only such personal information as is required to offer services, benefits, goods, and products to individuals;</li>
+  <li>We shall not disclose any personal information to a third party without the prior express or tacit consent, as applicable, of the individual, or unless bound by law to do so;</li>
+  <li>We shall not collect, use, or disclose any personal information on any individual without having obtained his or her prior express or tacit consent, as applicable, or unless bound by any statute or regulation to do so;</li>
+  <li>We may on occasion release personal information to our external agencies or mandataries for processing, to identify customers likely to be interested in benefits, products, goods, or services offered by Transat. Through contractual agreements or other comparable means, we shall ensure that your personal information is protected when processed by our mandataries and external agencies;</li>
+  <li>In order to increase the opportunities of Transat customers to obtain special benefits, we may occasionally exchange personal information with a third party, in the form of a list of those customers who meet certain general criteria. The lists may not contain any information of a sensitive nature, and the use of such information by the third party for any purpose other than as set forth in this Policy is strictly prohibited. Under no circumstances may personal information be disclosed without the express or tacit consent, as applicable of the individual concerned. </li>
+  <li>We will provide individuals with explanations on how to delete their names from any lists we exchange with third parties. Individuals may contact us at any time to have their names removed from these lists;</li>
+  <li>We guarantee the security and confidentiality of the information that individuals provide us with. Compliance with these standards is subject to audit and these standards may be revised where a situation warrants it;</li>
+  <li>If requested to reveal personal information to a third party, we shall assume responsibility for the disclosures and shall take the necessary measures to ensure that the undertakings and rules referred to in this Policy are observed by this third party;</li>
+  <li>We require that all organizations that provide us with administrative support services or that process information at our request comply with the undertakings and rules contained in this Policy; and</li>
+  <li>Any individual is entitled to take cognizance of the information we hold on him or her, subject to restrictions in the Law, and that person may require that inaccurate or incomplete information be corrected. Where applicable, we shall transmit this information to the person concerned and shall make the necessary corrections without delay.</li>
+</ul>
+<h3>3 - Transat’s Rules regarding the Protection of Personal Information.</h3>
+<em>A - Personal information</em>
+<p>The following is regarded as personal information: any information that is directly connected to an identifiable person including, but not limited to, his or her name, residential address, social insurance number, as well as any information relating to his or her medical condition or financial situation.</p>
+<em>B - Responsibilities</em>
+<ul>
+  <li>Transat is responsible for the personal information in its possession or under its control, in particular, personal information that it entrusts to its mandataries, agents or representatives. Transat shall adopt and apply specific rules of conduct and procedures that ensure compliance with the undertakings and rules referred to in this Policy, which, inter alia, are as follows:  <br>
+  </li>
+  <li>The Director shall take all measures necessary to ensure that the undertakings regarding privacy rights and the protection of personal information, as well as the rules contained in this Policy, are complied with by Transat employees and its agents, mandataries or representatives;  <br>
+  </li>
+  <li>Transat shall require that all agents, mandataries, representatives and other external organizations required to provide it with administrative support services, agree, either by contract or through a certificate of compliance, to comply with the undertakings and rules referred to in this Policy. They are prohibited from using the personal information held by Transat for purposes other than those for which the information was provided to them. The aforementioned phrase “agents, mandataries, representatives, and other organizations” includes, in particular, Transat suppliers of hotel and airport services, data processing and storage companies, as well as suppliers of administrative support services;  <br>
+  </li>
+  <li>Transat shall implement security measures to ensure the confidentiality of personal information;  <br>
+  </li>
+  <li>Transat shall issue employee directives to remind all staff of their obligation to comply with this Policy. In addition, Transat shall provide employee training to ensure that all staff understand the importance of privacy and how to ensure its protection;  <br>
+  </li>
+  <li>Transat shall periodically remind third parties with whom it does business that they, their agents, mandataries or representatives must comply with the undertakings and rules referred to in this Policy; and  <br>
+  </li>
+  <li>Transat has adopted procedures in order to receive and investigate complaints, and must report back to complainants as soon as possible.</li>
+</ul>
+<p><em>C - Identification of uses for which personal information is collected </em></p>
+<p>Transat may collect personal information on individuals but solely for the purposes identified in advance.</p>
+<p>i. Transat may collect personal information for the following purposes:</p>
+<ul>
+  <li>to check the identity of individuals, to contact them, and to communicate with them;  <br>
+  </li>
+  <li>to better understand the preferences, needs, and interests of individuals.  <br>
+  </li>
+  <li>to enable Transat to offer individuals services, benefits, products, and goods within the framework of this Policy;   <br>
+  </li>
+  <li>to comply with the statutes and regulations in force, including the information requirements of customs and immigration control, and to ensure the security and the processing of information; and  <br>
+  </li>
+  <li>to allow Transat to effectively manage its human resources.</li>
+</ul>
+<p><em>D - Restrictions relating to the collection of personal information</em></p>
+<p>Transat may collect only such personal information as is necessary for the purposes identified in this Policy. Furthermore, Transat may only collect personal information by employing legal and legitimate means.</p>
+<blockquote>
+  <p>i. Transat may collect personal information from the following sources:</p>
+  <ul>
+    <li>customers;</li>
+    <li>agents, mandataries or representatives;</li>
+    <li>employees; and</li>
+    <li>suppliers.</li>
+  </ul>
+  <p><br>
+    ii. In responding to offers made by third parties with whom Transat may do business (whether sent to customers by these parties or by Transat), individuals may be asked to provide personal. The transmission of information by individuals to, and the collection thereof by the third parties does not constitute collection of personal information by Transat and is therefore exclusively under the control of the individuals and the third parties in question.</p>
+</blockquote>
+<em>E - Identification of uses and disclosure of personal information</em>
+<p>Transat may use or disclose personal information solely for the purposes identified in advance and by employing the means also thus identified. Transat may not collect, use, or disclose any personal information concerning an individual without his or her express or tacit consent, as applicable, unless required to do so by statute or regulation. </p>
+<p> Transat shall not use or disclose any personal information except for the following purposes, and in the manner indicated:</p>
+<blockquote>
+  <p>i. Personal information, that is not sensitive in nature (N.B. information will be deemed as being sensitive of the purpose of applying the present Policy where such information refers to the health or physical, mental or medical condition of an individual), regarding customers’ preferences, needs, and interests, may be used to identify those customers who are most likely to be interested in products or services offered by Transat and its agents, mandataries or representatives. Such information shall be used exclusively to enable Transat and its agents, mandataries or agents to propose services, premiums, benefits, and products that are likely to interest customers as part of a Transat promotional offer. Transat may not provide individualized customer profiles to third parties.<br clear="all">
+  </p>
+  <p>ii. When a third party wishes to submit an offer to customers, generally the offer shall be sent to customers by Transat rather than by the party in question.</p>
+  <p>iii. However, for follow-up purposes, Transat may on occasion provide a third party with a list of customers to whom an offer was transmitted. Occasionally, Transat may also provide such a party with a list of customers who meet certain general criteria involving non-sensitive information, while ensuring through contractual or other means that the third party is strictly prohibited from using the list for any purpose other than to offer customers a benefit or a privilege available exclusively to Transat customers.</p>
+  <p>The use of a customer list by a third party for any other purpose is forbidden. Information of a sensitive nature may not be disclosed under any circumstances without the express consent of the individual.</p>
+  <p>iv. Personal information may be disclosed to agents, mandataries, representatives, or to other organizations whose services are retained by Transat. The agents, mandataries, representatives, and other organizations must sign a confidentiality agreement. They may not use the information transmitted to them except for the purposes referred to in the agreement. These parties are formally prohibited from disclosing the information in question to other third parties without the prior consent of Transat.</p>
+  <p>v. Personal information may be disclosed when required by statute or regulation.</p>
+</blockquote>
+<p><em>F - Restrictions concerning the use, disclosure, and the retention of personal information</em></p>
+<p>Transat may not use or disclose personal information for any purpose other than that for which it was collected, unless the express or tacit consent, as applicable, of the individual concerned has been obtained or unless the Law requires the use of disclosure of such information. Furthermore, Transat may not retain personal information except as required to achieve the purposes identified.</p>
+<p><em>G. Consent</em></p>
+<p>Transat shall take all measures necessary to ensure that individuals know and understand the purposes for which it collects, uses, or discloses personal information. Transat shall obtain the consent of every individual in respect of whom it collects, uses, or discloses personal information. Indeed, depending on the circumstances and the nature of the information, such consent may be express or tacit. In certain circumstances, express consent is necessary. In other cases, consent is reasonably presumed, but is revocable on demand. </p>
+<blockquote>
+  <p>i. Transat may not collect, use, or disclose any sensitive personal information of an individual without the express consent of the person concerned, unless required to do so by statute or regulation;</p>
+  <p>ii. Transat shall periodically inform individuals by correspondence, through its Web site or interactive voice response system of any change to this Policy on the protection of personal information and the right to privacy, as well as any further collection, use, or disclosure of personal information in order to obtain the appropriate consent.&nbsp; Transat shall use a combination of the aforementioned methods to ensure that all necessary measures are taken to contact the individuals concerned;</p>
+  <p>iii. When customers fill out a survey from Transat, its agents, mandataries or representatives, concerning their preferences, needs, or interests, they will be advised of the specific reasons for which the personal information was collected, used, or disclosed. The survey shall contain a statement reminding the customer that in completing and returning the survey, he or she is consenting to the collection, use, and disclosure of information provided through the survey for the purposes identified therein.</p>
+</blockquote>
+<p><em>H - Accuracy of personal information</em></p>
+<p>Transat shall ensure that the necessary measures are taken to ensure that the personal information it has on individuals is up to date and accurately reflects its intended use.</p>
+<blockquote>
+  <p>i. When required, Transat shall update personal information on the basis of information conveyed to it by the individuals concerned or by Transat’s agents, mandataries or representatives;</p>
+  <p>ii. Transat may not systematically update personal information unless it is necessary for achieving the purpose for which the information was collected. These updates shall be carried out in compliance with Section D above; and</p>
+  <p>iii. Since it is quicker and more efficient for individuals to inform Transat of any changes to their personal information, such as their names or addresses, Transat shall ask the individuals concerned to ensure that the information they provide is up to date and accurate, and wherever possible, that they inform Transat of any changes.</p>
+</blockquote>
+<p><em>I - Measures for ensuring the security of personal information</em></p>
+<p>Transat ensures the protection of personal information by relying on physical, technological, and administrative security measures.</p>
+<blockquote>
+  <p>i. The security measures put in place by Transat are intended to protect personal information against loss or theft, and safeguard it from unauthorized access, disclosure, copying, use, or modification;</p>
+  <p>ii. To ensure the confidentiality of personal information, Transat shall employ a) physical measures such as locked filing cabinets and restricting access to its offices; b) administrative measures such as security clearances and limiting access on a “need to know” basis for individuals, agents, mandataries, and representatives; and c) technical and technological measures. When it uses information technologies such as the Internet, Transat shall remind individuals, agents, mandataries or representatives of the importance of protecting the confidentiality of personal information; and</p>
+  <p>iii. Transat shall put in place all measures necessary to ensure the destruction and safe disposal of personal information.</p>
+</blockquote>
+<p><em>J - Transparency</em></p>
+<p>Transat shall ensure that this Policy and the undertakings and rules of practice and procedure concerning the management of personal information set forth herein are readily accessible to anyone, especially its customers. Copies of this Policy may be obtained from the Director at any time on request. This Policy is also available on the Internet.</p>
+<p><em>K - Access to personal information</em></p>
+<p>Any individual making a request in writing is entitled to be informed of the existence of personal information held by Transat on him or her, of the use made of such information and of the fact that this information was provided to third parties. The individual concerned is also entitled to access such information, subject to legislative and regulatory exceptions. The individual may also contest the accuracy or completeness of information and request that corrections be made. To exercise their right of access or of correction, the individuals concerned should contact Mr. George Petsikas, Director, Protection of Personal Information, Transat at the following address: 5959 Côte-Vertu Blvd., Montreal, Quebec H4S 2E6.</p>
+<blockquote>
+  <p>i. The applicant must identify himself or herself, provide his or her employee number (where applicable) and sign the request in order to prevent fraud or the unjustified transmission of personal information to a third party. The individual concerned shall provide sufficient information to enable Transat to confirm the existence of such personal information, to inform the applicant of the use thereof and to provide access thereto;</p>
+  <p>ii. Transat shall process the request for access to or correction of personal information within thirty (30) days of receiving the request. This time limit may be extended by an additional period of thirty (30) days if processing the request would unreasonably interfere with Transat activities or if circumstances or the scope of the request make it impossible to meet this deadline;</p>
+  <p>iii. Generally, Transat shall grant the applicant access to the personal information on him or her, or correct the information at no charge. It may, however, be necessary to charge a reasonable fee to recover any administrative costs or when the request for access to information or correction of information is complex.</p>
+  <p>iv. With regard to the correction of personal information, Transat shall do so where the applicant can establish the incomplete nature or the inaccuracy of the information. As required, correction may involve a correction, withdrawal, or the addition of information; and</p>
+  <p>v. Should the applicant be dissatisfied with the answer to a request for access to or correction of information, he or she may file a complaint with the Director.</p>
+</blockquote>
+<p><em>L - Complaints concerning non-compliance with the Policy</em></p>
+<p>Should an individual feel that this Policy is not being complied with or should he or she be concerned by Transat practices, the individual concerned may submit a complaint to Transat by sending it to Mr. George Petsikas, Director, Protection of Personal Information, Transat.</p>
+<blockquote>
+  <p>i. A complaint or request for an inquiry must be addressed in writing to the Director at the following address: 5959 Côte-Vertu Blvd., Montreal, Quebec H4S 2E6; and</p>
+  <p>ii. Any complaint or request for investigation shall be the subject of an inquiry or a reply within sixty (60) working days. If the complaint is justified, Transat will take the appropriate follow-up measures including providing access to the personal information requested, the correction of the information, or, where applicable, by modifying this Policy. </p>
+</blockquote></div></div>
+            
+            
+            
+            
+
+            
+            
+            <div id="ctl00_ctl00_cphContent_cphMyTransatContent_divDestDescriptionContainerEndPage" class="destDescriptionContainer">     
+            <div class="marginTop10"> <table width="407" cellpadding="0" cellspacing="0" border="0"> <tbody><tr><td bgcolor="#40BDE8" height="1"></td></tr> <tr>
+				<td><table border="0" align="center" cellpadding="0" cellspacing="0"> <tbody><tr> <td style="padding-bottom:50px;"> </td> </tr>
+				</tbody></table></td> </tr> <tr><td bgcolor="#40BDE8" height="1"></td></tr> </tbody></table></div></div>
+        </div>      
+        <div class="infoRightColumn" id="divSpecialOffersRightColumn">        
+            
+        </div>
+    </div>
+
+            
+        </div>
+        <div class="clearDiv"></div>
+    </div>
+
+                            
+                            
+                                
+
+<div id="menuBottom">
+    <div class="menuLegals typo2 font10">
+        <a class="hylMenuLegals" href="http://www.airtransat.ca/EN/Info/customer-service.aspx?ExitID=766&amp;ContentType=gamme">Customer service</a><span class="separatorMenuLegals color4 bold">|</span><a class="hylMenuLegals" href="http://www.airtransat.ca/EN/Info/terms-conditions.aspx?ExitID=768&amp;ContentType=gamme">Terms &amp; Conditions</a><span class="separatorMenuLegals color4 bold">|</span><a class="hylMenuLegals" href="http://www.airtransat.ca/EN/Info/privacy.aspx?ExitID=765&amp;ContentType=gamme">Privacy</a><span class="separatorMenuLegals color4 bold">|</span><a class="hylMenuLegals" href="http://www.airtransat.ca/EN/Info/legal-notice.aspx?ExitID=769&amp;ContentType=gamme">Legal Notice</a><span class="separatorMenuLegals color4 bold">|</span><a class="hylMenuLegals" href="http://www.transat.com/en/social.responsibility/sustainable.tourism.aspx" target="_blank">For sustainable tourism</a><span class="separatorMenuLegals color4 bold">|</span> 
+    </div>
+</div>
+
+                            
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
+            
+        </div>
+ 
+        
+
+
+
+
+        
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var errMsgInfoTxtID = 'ctl00_ctl00_cphContent_ucMsgError_lblMsgInfoTxt';
+var divMsgErrorImgID = 'ctl00_ctl00_cphContent_ucMsgError_divMsgErrorImg';
+var errMsgInfoTitleID = 'ctl00_ctl00_cphContent_ucMsgError_lblMsgInfoTitle';
+window.status="v2.3.0_33 @ 12/07/2009 16:54:09 (PROD1) - Srv: 232";//]]>
+</script>
+
+<script src="../../AirportList.axd?lang=EN" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Transat.B2X.Web.Controls.UpdateProgressOverlayBehavior, {"associatedUpdatePanelID":"ctl00_ctl00_cphHeader_usrHeader_SessionHeaderUpdatePanel","controlToOverlayID":"ctl00_ctl00_cphHeader_usrHeader_SessionHeaderUpdatePanel","displayAfter":0,"targetCssClass":"bkgProgressWhite updateProgress"}, null, null, $get("ctl00_ctl00_cphHeader_usrHeader_upHeaderLogin"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.Animation.AnimationBehavior, {"OnClick":"{\"AnimationName\":\"Sequence\",\"AnimationChildren\":[{\"AnimationName\":\"Parallel\",\"AnimationTarget\":\"ctl00_ctl00_ErrorHandlingControl_panEndSession\",\"Duration\":\".3\",\"AnimationChildren\":[{\"AnimationName\":\"FadeIn\",\"AnimationTarget\":\"ctl00_ctl00_ErrorHandlingControl_panEndSession\",\"MaximumOpacity\":\"1\",\"AnimationChildren\":[]}]}]}","id":"SessionTimeOutBehavior"}, null, null, $get("ctl00_ctl00_ErrorHandlingControl_sessionTimeOutHL"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"ctl00_ctl00_ErrorHandlingControl_panEndSession","dynamicServicePath":"/EN/Info/privacy.aspx","id":"modalPopup"}, null, null, $get("ctl00_ctl00_ErrorHandlingControl_sessionTimeOutHL"));
+});
+//]]>
+</script>
+</form> 
+   
+
+
+    
+    <script type="text/javascript">
+        if (GaEnabled) {
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        }
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        if (GaEnabled) {
+            try {
+                var pageTracker = _gat._getTracker("UA-6139528-1");
+                pageTracker._setDomainName("none");
+                pageTracker._trackPageview();
+            }
+            catch (err) { }
+        }
+    </script>
+
+</body></html>
