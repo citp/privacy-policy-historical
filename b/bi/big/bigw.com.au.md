@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062647id_/http%3A//bigw.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218120654id_/http%3A//www.bigw.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # BIG W Privacy Policy
 
-[Home](https://web.archive.org/web/20090618062647id_/http%3A//bigw.com.au/index.html) > Privacy Policy
+[Home](https://web.archive.org/web/20091218120654id_/http%3A//www.bigw.com.au/index.html) > Privacy Policy
 
 #### Respecting your privacy
 
