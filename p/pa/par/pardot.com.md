@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193620id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023137id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Marketing Automation and Lead Management by Pardot
 
@@ -72,4 +72,4 @@ The website contains links to other websites. We are not responsible for the pri
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info (at) pardot.com or by post to Pardot LLC, 950 East Paces Ferry Rd, Suite 2440, Atlanta, GA 30326.
 
-Top of Page | [ < Legal](https://web.archive.org/web/20090617193620id_/http%3A//www.pardot.com/company/legal/index.html) | [Permission-Based Marketing Policy > ](https://web.archive.org/web/20090617193620id_/http%3A//www.pardot.com/company/legal/permission-based-marketing-policy.html)
+Top of Page | [ < Legal](https://web.archive.org/web/20091218023137id_/http%3A//www.pardot.com/company/legal/index.html) | [Permission-Based Marketing Policy > ](https://web.archive.org/web/20091218023137id_/http%3A//www.pardot.com/company/legal/permission-based-marketing-policy.html)
