@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204746id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023440id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
 
 # Where can I view StarCityGames.com's Privacy Statement?
 
