@@ -1,41 +1,39 @@
-> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602083056id_/http%3A//www.weblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170555id_/http%3A//www.weblog.com/privacy) for the most accurate reproduction.*
 
-# Weblog.com - Privacy Policy
+# Privacy Policy | Weblog.com
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
+Weblog.com Media LLC (“ **Weblog** ”) operates [weblog.com](http://www.weblog.com/). It is Weblog’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+**Website Visitors**
 
-**Registration Information**
+Like most website operators, Weblog collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Weblog’s purpose in collecting non-personally identifying information is to better understand how Weblog’s visitors use its website. From time to time, Weblog may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of Weblog.com and its subsidiaries, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see Weblog.com servicing your needs and interests. 
+Weblog also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Weblog does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-**Email Information**
+**Gathering of Personally-Identifying Information**
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+Certain visitors to Weblog’s websites choose to interact with Weblog in ways that require Weblog to gather personally-identifying information. The amount and type of information that Weblog gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [weblog.com](http://weblog.com/) to provide a username and email address. Those who engage in transactions with Weblog – by purchasing [premium services](http://weblog.com/premium/), for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Weblog collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Weblog. Weblog does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**Web Site Use Information**
+**Aggregated Statistics**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions users have seen and how users responded to them.
+Weblog may collect statistics about the behavior of visitors to its websites. For instance, Weblog may monitor the most popular blogs on the Weblog.com site or use spam screened by the Akismet service to help identify spam. Weblog may display this information publicly or provide it to others. However, Weblog does not disclose personally-identifying information other than as described below.
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time by simply opt-ing out appropriately from such designated e-mail message footer, instructions.
+**Protection of Certain Personally-Identifying Information**
 
-**What Are Cookies?**
+Weblog discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Weblog’s behalf or to provide services available at Weblog’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Weblog’s websites, you consent to the transfer of such information to them. Weblog will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Weblog discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Weblog believes in good faith that disclosure is reasonably necessary to protect the property or rights of Weblog, third parties or the public at large. If you are a registered user of an Weblog website and have supplied your email address, Weblog may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Weblog and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Weblog takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+**Cookies**
 
-**How Do We Use Information We Collect from Cookies?**
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Weblog uses cookies to help Weblog identify and track visitors, their usage of Weblog website, and their website access preferences. Weblog visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Weblog’s websites, with the drawback that certain features of Weblog’s websites may not function properly without the aid of cookies.
 
-As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+**Ads**
 
-**Sharing Information with Third Parties**
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Weblog and does not cover the use of cookies by any advertisers.
 
-We DO NOT share your information to any third parties without your prior knowledge and or consent. 
+**Comments**
 
-**Notice of New Services and Changes**
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time by simply opt-ing out appropriately from such designated e-mail notice footer, instructions. 
+**Privacy Policy Changes**
 
-**YOUR CONSENT**
-
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
+Although most changes are likely to be minor, Weblog may change its Privacy Policy from time to time, and in Weblog’s sole discretion. Weblog encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a wordpress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
