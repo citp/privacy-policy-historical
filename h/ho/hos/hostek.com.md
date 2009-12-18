@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420235401id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218161749id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
 
-# Windows Hosting | ColdFusion Hosting - web hosting privacy | Hostek.com - Hostek.com
+# Windows Hosting | ColdFusion Hosting - web hosting privacy - Hostek.com
 
   
 Hostek.com PRIVACY STATEMENT
@@ -21,7 +21,7 @@ Sharing
 Hostek.com does NOT share any information with any other company except as noted here. We use a credit card processing company (just like every business that accepts credit cards has to) to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 Links  
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20090420235401id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Other [sites](https://web.archive.org/web/20091218161749id_/http%3A//hostek.com/links.asp) owned operated by Advanced Online Solutions. 
 
 Newsletter  
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. 
