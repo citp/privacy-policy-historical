@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184158id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218064523id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : ERE.net
 
