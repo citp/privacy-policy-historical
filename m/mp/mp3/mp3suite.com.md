@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3suite.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617205015id_/http%3A//www.mp3suite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3suite.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218175911id_/http%3A//mp3suite.com/privacy.php) for the most accurate reproduction.*
 
 # MP3Suite - Privacy Policy
 
