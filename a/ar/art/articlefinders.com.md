@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefinders.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163945id_/http%3A//company.xaviermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefinders.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023009id_/http%3A//company.xaviermedia.com/privacy) for the most accurate reproduction.*
 
 # Xavier Media™ -
 
