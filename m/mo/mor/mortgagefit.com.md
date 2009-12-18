@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the mortgagefit.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618083724id_/http%3A//www.mortgagefit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagefit.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218171534id_/http%3A//www.mortgagefit.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 Privacy Policy
 
@@ -83,3 +80,6 @@ We also implement special security measures to protect unauthorized access or al
 Our Privacy Policy may change in due course of time. Any relevant change in the policy will be directly communicated through our website at least a week in advance of its implementation. The relevant changes will be secured by the rules and regulations of the old Privacy Policy.
 
 For any additional query, please feel free to [contact us any time.](https://web.archive.org/contactus/)
+
+  
+
