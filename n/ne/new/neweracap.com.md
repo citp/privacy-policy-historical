@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweracap.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152122id_/http%3A//www.neweracap.com/infoPages/privacy.php%3FfootDept%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweracap.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218180147id_/http%3A//www.neweracap.com/infoPages/privacy.php%3FfootDept%3Dprivacy) for the most accurate reproduction.*
 
 # Customer Service: Privacy Policy
 
