@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629202931id_/http%3A//www.dropshots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219001559id_/http%3A//www.dropshots.com/privacy.html) for the most accurate reproduction.*
 
 # DropShots Privacy Policy
 
@@ -95,12 +95,12 @@ At DropShots the safety of your children is very important to us. Consequently, 
 
 #### It's Always Your Choice/Opt-Out 
 
-Unless you affirmatively opt-out, we will maintain personal information in accordance with this Privacy Policy. If you do not want to receive direct mail, email, product- and/or service-specific information and/or general marketing communications, please contact us at support@dropshots.com. If you do not wish to have your name and address shared with other carefully screened companies so they can share with you products and/or services that may interest you, please contact us at support@dropshots.com.
+Unless you affirmatively opt-out, we will maintain personal information in accordance with this Privacy Policy. If you do not want to receive direct mail, email, product- and/or service-specific information and/or general marketing communications, please contact us at optout@dropshots.com. If you do not wish to have your name and address shared with other carefully screened companies so they can share with you products and/or services that may interest you, please contact us at optout@dropshots.com.
 
 #### Summary 
 
-We at DropShots are committed to protecting your privacy. We use the information we collect on our Website to make your user experience on our website possible. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending us an email message to that. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+We at DropShots are committed to protecting your privacy. We use the information we collect on our Website to make your user experience on our website possible. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending us an email message to the address below. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 #### Comments
 
-If you have any questions or comments about our Privacy Policy, please send us an e-mail at support@dropshots.com
+If you have any questions or comments about our Privacy Policy, please send us an e-mail at privacy@dropshots.com
