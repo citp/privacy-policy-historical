@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171157id_/http%3A//www.peakperformancegolfswing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakperformancegolfswing.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218175746id_/http%3A//www.peakperformancegolfswing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Peak Performance Golf Swing
-
-Browse >
-
-[Home](http://www.peakperformancegolfswing.com/ "Browse to: Home") / Privacy Policy 
+# Privacy Policy » Peak Performance Golf Swing - A Simple, Yet Powerful… Pain Free Golf Swing!
 
 **PRIVACY POLICY**
 
