@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneida.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164628id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneida.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218042620id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.*
 
 # Oneida Customer Service Privacy Policy
 
