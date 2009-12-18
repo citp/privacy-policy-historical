@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621021210id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218054403id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LawnSite.com™ - Lawn Care & Landscaping Business Forum Powered by Moose River Media
 
@@ -85,7 +85,7 @@ PO Box 449
 374 Emerson Falls Road  
 St. Johnsbury, VT 05819
 
-Telephone: (800) 422-7147
+Telephone: 802-748-8908
 
 Facsimile: (802) 748-1866
 
