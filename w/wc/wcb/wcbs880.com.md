@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050205id_/http%3A//www.wcbs880.com/pages/2135.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218165614id_/http%3A//www.wcbs880.com/pages/2135.php) for the most accurate reproduction.*
 
 # WCBS NEWSRADIO 880 - *
 
 |   
 ---  
-Posted: Sunday, 26 November 2006 3:02PMPrivacy Policy / Your California Privacy Rights  
+Posted: Sunday, 26 November 2006 3:02PM  
   
 Unless specified otherwise on the Site, users must be at least 18 years of age and a legal resident of the United States before participation in any activity that requires the submission of Personal Information.  By your participation in our Site activities, you certify that you are at least 18 years of age.  All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false or fraudulent.  
 
