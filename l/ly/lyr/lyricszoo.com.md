@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricszoo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193703id_/http%3A//www.lyricszoo.com/i/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricszoo.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218090742id_/http%3A//www.lyricszoo.com/i/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lyricszoo
 
@@ -132,6 +132,7 @@ Custom Search
     * [John Mayer](https://web.archive.org/john-mayer/)
     * [Ray LaMontagne](https://web.archive.org/ray-lamontagne/)
     * [Coldplay](https://web.archive.org/coldplay/)
+    * [Justin Bieber](https://web.archive.org/justin-bieber/)
     * [Josh Groban](https://web.archive.org/josh-groban/)
     * [Jonas Brothers](https://web.archive.org/jonas-brothers/)
     * [Prince](https://web.archive.org/prince/)
@@ -172,7 +173,10 @@ Custom Search
     * [Shaggy](https://web.archive.org/shaggy/)
     * [Nox Arcana](https://web.archive.org/nox-arcana/)
     * [Tracy Chapman](https://web.archive.org/tracy-chapman/)
-    * [Toots & the Maytals](https://web.archive.org/toots-the-maytals/)
+  * ## Elsewhere
+
+    * [Twitter](http://twitter.com/lyricszoo)
+    * [Facebook](http://www.facebook.com/lyricszoo)
 
 
 
