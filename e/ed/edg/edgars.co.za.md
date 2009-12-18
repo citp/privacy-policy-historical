@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgars.co.za privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412192943id_/http%3A//www.edgars.co.za/Edgars/_Site_Footer/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgars.co.za privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218182352id_/http%3A//www.edgars.co.za/Edgars/_Site_Footer/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # edgars.co.za : Privacy Policy
 
