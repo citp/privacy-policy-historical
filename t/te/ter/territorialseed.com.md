@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the territorialseed.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081340id_/http%3A//www.territorialseed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territorialseed.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021731id_/http%3A//www.territorialseed.com/privacy) for the most accurate reproduction.*
 
-# Territorial Seed - Vegetable and Flower Seeds at Territorial Seed Company
+# Territorial Seed - Vegetable Seed, Flower Seed, and Herb Seed at Territorial Seed Company
 
 The Territorial Seed Company website does not record any personal information during your visit to our site. We only collect information that is provided by the customer for the online purchase of goods and services. We collect this information only when you place an order or request a catalog online.
 
