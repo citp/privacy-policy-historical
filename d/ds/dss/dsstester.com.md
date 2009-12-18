@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dsstester.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045341id_/http%3A//forums.dsstester.com/vbb/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsstester.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218053610id_/http%3A//forums.dsstester.com/vbb/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Dsstester.com | FTA, DISH & DSS Forums
+# Privacy Policy - DssTester.com | DSS & FTA Forums
 
   
 
 
-Welcome to Dsstester. If this is your first visit, be sure to check out the [**FAQ**](https://web.archive.org/web/20081217045341id_/http%3A//forums.dsstester.com/vbb/faq.php?) as this board is unique from most others. You will need to [**register**](https://web.archive.org/web/20081217045341id_/http%3A//forums.dsstester.com/vbb/register.php?) before you can post or download: click register to proceed. To start viewing messages, select the forum that you want to visit from the selection below. Enjoy! 
+Welcome to Dsstester. If this is your first visit, be sure to check out the [**FAQ**](https://web.archive.org/web/20091218053610id_/http%3A//forums.dsstester.com/vbb/faq.php?) as this board is unique from most others. You will need to [**register**](https://web.archive.org/web/20091218053610id_/http%3A//forums.dsstester.com/vbb/register.php?) before you can post or download: click register to proceed. To start viewing messages, select the forum that you want to visit from the selection below. Enjoy! 
 
   
   
@@ -18,6 +18,7 @@ Welcome to Dsstester. If this is your first visit, be sure to check out the [**F
   * This privacy policy applies to all personal data, submitted by you, to the DssTester.com web site.
   * By registering to DssTester.com you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
   * DssTester.com also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as DssTester.com. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
   * DssTester.com will not sell, transmit or distribute any data held without your prior permission or consent.
   * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
   * You have a legal right for the personal information held at DssTester.com to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
@@ -30,7 +31,7 @@ Welcome to Dsstester. If this is your first visit, be sure to check out the [**F
   
   
   
-All times are GMT -7. The time now is 09:50 PM.
+All times are GMT -7. The time now is 10:05 PM.
 
   
 
