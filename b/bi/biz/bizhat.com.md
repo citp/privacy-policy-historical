@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizhat.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065924id_/http%3A//www.bizhat.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhat.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022839id_/http%3A//www.bizhat.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BizHat.com - Privacy Policy
 
