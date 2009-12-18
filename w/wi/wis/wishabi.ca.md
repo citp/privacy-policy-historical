@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishabi.ca privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208083740id_/http%3A//www.wishabi.ca/wishabi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishabi.ca privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164456id_/http%3A//www.wishabi.ca/wishabi/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wishabi
 
