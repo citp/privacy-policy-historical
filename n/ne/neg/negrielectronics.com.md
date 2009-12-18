@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the negrielectronics.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616164734id_/http%3A//www.negrielectronics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the negrielectronics.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219003443id_/http%3A//www.negrielectronics.com/privacy.php) for the most accurate reproduction.*
 
 # Negri Electronics - iPhones, Pocket PC's, Smart Phones, Cell Phones, Ultra Mobile PC's, PDA's, GPS Devices, Cameras and More...
 
