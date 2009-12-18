@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palgn.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165026id_/http%3A//palgn.com.au/page.php%3Fid%3D9%26sid%3Da1a52be1a992af089f40bfbbe32966c5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgn.com.au privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218090549id_/http%3A//palgn.com.au/page/9/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Australia's PAL Gaming Network
+# Privacy Policy - PAL Gaming Network
 
 **Personal Information**   
 PALGN will record any personal information that you provide to us. We will do our best to inform you if this information is going to be on public display or otherwise, however you must assume that all information you provide to us will be publicly viewable, unless explicitly told otherwise. 
