@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044517id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218203336id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
 
 # Free Transgender Personals - Community for Transsexuals and Admirers Worldwide to find Love, Friendship and Support.
 
