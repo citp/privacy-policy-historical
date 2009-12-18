@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the inkedmag.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044715id_/http%3A//www.inkedmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedmag.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218175950id_/http%3A//inkedmag.com/privacy) for the most accurate reproduction.*
 
 # Inked Magazine
 
-  | **Inked Magazine and Pinchazo Publishing Group, Inc. Privacy Policy**
+**Inked Magazine and Pinchazo Publishing Group, Inc. Privacy Policy**
 
 October 2, 2007
 
-At Inked Magazine and Pinchazo Publishing Group, Inc. we recognize that privacy is important. This Policy applies to [www.inkedmag.com](http://www.inkedmag.com/) and [www.inkedmag.com](http://www.inkedmag.com/) and Pinchazo Publishing Group, Inc. or its subsidiaries or affiliated companies (collectively, Inked Magazine and Pinchazo Publishing Group, Inc.'s "services"). 
+At Inked Magazine and Pinchazo Publishing Group, Inc. we recognize that privacy is important. This Policy applies to [www.inkedmag.com](https://web.archive.org/) and [www.inkedmag.com](http://www.inkedmag.com/) and Pinchazo Publishing Group, Inc. or its subsidiaries or affiliated companies (collectively, Inked Magazine and Pinchazo Publishing Group, Inc.'s "services"). 
 
 If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Inked Magazine/Pinchazo Publishing Group, Inc. Inc., 419 Lafayette St, 3rd Floor, NY, NY 10003 USA.
 
@@ -14,22 +14,11 @@ If you have any questions about this Policy, please feel free to contact us thro
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Inked Magazine and Pinchazo Publishing Group, Inc. Search. In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide** \- When you sign up for a [_Inked Magazine and Pinchazo Publishing Group, Inc. Account_](http://www.google.com/privacy_faq.html#account) or other Inked Magazine and Pinchazo Publishing Group, Inc. service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as subscriptions, we also request credit card or other payment account information which we may be maintained in encrypted form on secure servers. We may combine the information you submit under your account with information from other Inked Magazine and Pinchazo Publishing Group, Inc. services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
-  * **Inked Magazine and Pinchazo Publishing Group, Inc. cookies** \- When you visit Inked Magazine and Pinchazo Publishing Group, Inc., we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Inked Magazine and Pinchazo Publishing Group, Inc. features and services may not function properly if your cookies are disabled. 
-  * **Log information** \- When you use Inked Magazine and Pinchazo Publishing Group, Inc. services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **User communications** \- When you send email or other communication to Inked Magazine and Pinchazo Publishing Group, Inc., we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
-  * **Affiliated sites** \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Inked Magazine and Pinchazo Publishing Group, Inc. in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
-  * **Links** \- Inked Magazine and Pinchazo Publishing Group, Inc. may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. 
-  * **Other sites** \- This Privacy Policy applies to web sites and services that are owned and operated by Inked Magazine and Pinchazo Publishing Group, Inc.We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
-
+  * 
 
 
 Inked Magazine and Pinchazo Publishing Group, Inc. only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-  * Providing our products and services to users, including the display of customized content and advertising; 
-  * Auditing, research and analysis in order to maintain, protect and improve our services; 
-  * Ensuring the technical functioning of our network; and 
-  * Developing new services. 
 
 
 
@@ -45,9 +34,6 @@ When you sign up for a particular service that requires registration, we ask you
 
 Inked Magazine and Pinchazo Publishing Group, Inc. only shares personal information with other companies or individuals outside of Inked Magazine and Pinchazo Publishing Group, Inc. in the following limited circumstances: 
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Inked Magazine and Pinchazo Publishing Group, Inc., its users or the public as required or permitted by law. 
 
 
 
@@ -82,6 +68,3 @@ Please note that this Privacy Policy may change from time to time. We will not r
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Inked Magazine and Pinchazo Publishing Group, Inc. Inc., 419 Lafayette St. 3rd Floor, NY, NY 10003, USA. 
 
 ©2008 Pinchazo Publishing Group, Inc.
-
-|    
----|---|---
