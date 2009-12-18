@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvosz.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171007id_/http%3A//www.tvosz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvosz.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113019id_/http%3A//www.tvosz.com/privacy.php) for the most accurate reproduction.*
 
-# Tvosz.com | A GREAT WEB EXPERIENCE
+# Tvosz.com | موقع مصر الأول للفيديو
 
 Protecting the privacy of all of our users ("Users", "you" or "your") is a dedicated commitment of Tvosz.com and all of the services brought to you by Tvosz.com (collectively, "Tvosz.com", "us" or "we"). This Privacy Policy ("Privacy Policy"), applies to all URLs and services provided under the Tvosz.com name and in connection with the Tvosz.com marks. It explains how Tvosz.com treats personal information that we collect and receive on the Tvosz.com website from our users and visitors. 
 
