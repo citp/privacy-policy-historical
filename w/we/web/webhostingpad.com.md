@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531130651id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218050525id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Privacy Statement of Web Hosting Pad
 
-WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors.  This Privacy Policy covers the site _[www.hostingpad.com](https://web.archive.org/web/20090531130651id_/http%3A//www.webhostingpad.com/index.html)_.  We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy.  This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at _[Terms of Use](https://web.archive.org/web/20090531130651id_/http%3A//www.webhostingpad.com/terms.html)_.  
+WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors.  This Privacy Policy covers the site _[www.hostingpad.com](https://web.archive.org/web/20091218050525id_/http%3A//www.webhostingpad.com/index.html)_.  We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy.  This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at _[Terms of Use](https://web.archive.org/web/20091218050525id_/http%3A//www.webhostingpad.com/terms.html)_.  
 
 
 **WebHostingPad does NOT trade, rent or sell your personal information to any other organization or third party.**
