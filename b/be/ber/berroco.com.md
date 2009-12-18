@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174432id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218043252id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
 
 # Berroco® KnitBits®
 
@@ -7,8 +7,7 @@
 It is the goal of Berroco.com to bring you information about knitting and about our products and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
 **The Type of Information Berroco.com Collects**  
-Berroco.com generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, vote in an online poll or subscribe to our free online newsletter you are asked to provide information, such as your e-mail address, name or phone  
-number. Optional information such as your age or gender may also be requested.
+Berroco.com generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, vote in an online poll or subscribe to our free online newsletter you are asked to provide information, such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
 **How Berroco.com Uses Information Provided by You**  
 Berroco.com uses this information to provide you with the service you have requested. For example, if you subscribe to our newsletter, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newsletter. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
@@ -32,12 +31,8 @@ If you have other concerns or questions about any aspect of this policy, you may
 Enter your e-mail  
 address in the Subscription Box on this page or   
 at the top of any page in our website.   
-Then click "Subscribe"  
-& you may win a  
-Free Sweater kit. 
+Then click "Subscribe".
 
 **To Unsubscribe:  
 **  
 Click [here](https://web.archive.org/cancel_knitbits.html). 
-
-[](https://web.archive.org/win.html)
