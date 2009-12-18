@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanroyal.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215123434id_/http%3A//www.americanroyal.com/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanroyal.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218094232id_/http%3A//www.americanroyal.com/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
 # American Royal > Home
 
