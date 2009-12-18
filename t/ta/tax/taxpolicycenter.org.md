@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxpolicycenter.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625000730id_/http%3A//www.taxpolicycenter.org/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxpolicycenter.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218012800id_/http%3A//www.taxpolicycenter.org/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # TPC About Us | Privacy Policy
 
