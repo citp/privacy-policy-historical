@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qvcuk.com privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615080506id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml%3Fcm_re%3DFooter-_-Footer-_-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qvcuk.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218191405id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml%3Fcm_re%3DFooter-_-Footer-_-Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- START head html zone file --><head>
 	
@@ -24,6 +24,17 @@
   <meta name="language" content="english">
   <script type="text/javascript" src="/js/masthead.js">
   </script>
+  <script type="text/javascript">
+      if (typeof jQuery == "undefined") {
+        writeJQuery();
+      }
+    </script>
+  <script type="text/javascript" src="/js/featureditemoverlay.js">
+  </script>
+  <script type="text/javascript">
+      addLoadEvent(displayFeaturedOverlay);
+      timer = setInterval("displayFeaturedOverlay();", 30000);
+    </script>
 
 
 	<meta http-equiv="Set-Cookie" content="IQVC=OK; path=/; DOMAIN=.qvcuk.com">	
@@ -136,13 +147,17 @@
           <a href="http://www.qvcuk.com/ukqic/qvcapp.aspx/app.nav/params.class.ukgd/walk.yah.ukgd?cm_re=mh-_-GardenDIY-_-GardenDIY" title="Garden &amp; DIY">Garden &amp; DIY</a>
         </li>
         <li id="col8" class="nav">
-          <a href="http://www.qvcuk.com/ukqic/qvcapp.aspx/app.nav/params.class.ukgf/walk.yah.ukgf?cm_re=mh-_-Gifts-_-Gifts" title="Gifts">Gifts</a>
+          <a href="http://www.qvcuk.com/ukqic/qvcapp.aspx/app.nav/params.class.ukgf/walk.yah.ukgf?cm_re=mh-_-Gifts-_-Gifts" title="Christmas">Christmas</a>
         </li>
         <li id="col9" class="nav">
           <a href="http://www.qvcuk.com/ukqic/qvcapp.aspx/app.nav/params.class.ukcl/walk.yah.ukcl?cm_re=mh-_-Clearance-_-Clearance" title="Clearance">Clearance</a>
         </li>
       </ul>
     </div>
+  </div>
+  <iframe id="iframeOverlay" style="position: absolute; top: -500px; left:350px; z-index:10;" frameborder="0">
+  </iframe>
+  <div id="FeatureOverlay" style="position: absolute; top: -500px; left:350px; *left:300px; z-index: 99;">
   </div>
 
 
@@ -161,15 +176,18 @@
 
 <!-- start tool box -->
 
-  	<ul>
+  	  	<ul>
 		<li><a name="dd_24_Hour_Product_Review" href="/ukqic/qvcapp.aspx/app.pr/params.frames.y/walk.html.%7Cmetadrill,html?cm_re=LN-_-OnQVCTV-_-24hrs">Items from last 24 hours</a></li>
         <li><a name="Current_on_air_item" href="/ukqic/qvcapp.aspx/app.detail/params.frames.y.tpl.ukonair.item.onair.cm_scid.TB-OnAir/walk.html.|metadrill,html?cm_re=LN-_-OnQVCTV-_-CurrentOnAirItem">Item on air now</a></li>
 
         <li class="tb_tsv"><a name="TSV_toolbox" href="/ukqic/qvcapp.aspx/app.detail/params.frames.y.tpl.uktsv.item.tsv.cm_scid.TB-TSV/left.html.|tsvmetadrill,html/walk.yah.ukHB?cm_re=LN-_-OnQVCTV-_-TodaysSpecialValue">Today's Special Value</a></li>
 		<li><a name="QVC_TV_Guide" href="/ukqic/qvcapp.aspx/view.2/app.multi/params.file.%7Cuktvguide%7Cdaily,aspx/walk.yah.ukFA?cm_re=LN-_-OnQVCTV-_-TVGuide">QVC TV Guide</a></li>
 		<li><a name="Watch_QVC_live" href="/ondemand/livetv.html?nonqiclink&amp;cm_re=LN-_-OnQVCTV-_-QVCLive" target="OnDemand" onclick="javascript:window.open('', 'OnDemand', 'toolbar=no,location=no,directories=no,status=no,menubar=no,,scrollbars=yes,resizable=yes,copyhistory=no,width=970, height=740');" title="Opens in new window">Watch QVC live</a></li>
+        <li><a name="Watch_QVC_Beauty_Channel" href="http://www.qvcuk.com/ondemand/beautychannel.html?nonqiclink&amp;cm_re=LN-_-OnQVCTV-_-QVCBeautyChannel" target="OnDemand" onclick="javascript:window.open('', 'OnDemand', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=800, height=600');" title="Opens in new window">QVC Beauty Channel</a></li>
+
 		<!--<li><a name="QVC_On_Demand" href="/ondemand/index.html?cm_re=LN-_-OnQVCTV-_-ONDemand" target="OnDemand" onclick="javascript:window.open('', 'OnDemand', 'toolbar=no,location=no,directories=no,status=no,menubar=no,,scrollbars=yes,resizable=yes,copyhistory=no,width=970, height=740');" title="Opens in new window">QVC On Demand</a></li>-->
 	</ul>
+
 
 <!-- end toolbox -->
 
@@ -281,7 +299,7 @@
             <div class="horRuleTop"></div>
 
             <h2>What steps are taken to keep my personal information private?</h2>
-            <p>The information you submit to QVCUK.com is sent to us or the third party service provider(s) we use to support QVCUK.com through a 'secure session' established with Secure Socket Layer (SSL). This technology encrypts (scrambles) your account information before it is sent, making it virtually impossible for anyone other than QVCUK.com to read it. Because our service provider(s) may be based overseas, your personal information may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA. By submitting your personal information, you agree to this transfer, storing and/or processing. We protect all customer data against unauthorised access and take all steps reasonably necessary to ensure our service providers do likewise. We and they use secure technology, privacy protection controls and restrictions on employee access to safeguard your personal information.</p>
+            <p>The information you submit to QVCUK.com is sent to us or the third party service provider(s) we use to support QVCUK.com through a 'secure session' established with Secure Socket Layer (SSL). This technology encrypts (scrambles) your account information before it is sent, making it virtually impossible for anyone other than QVCUK.com to read it. Because our service provider(s) may be based overseas, your personal information may be transferred to, and stored at, a destination outside the European Economic Area (EEA). All information stored outside the EEA is protected by our <a href="/ukqic/qvcapp.aspx/app.html/params.file.|safe_harbour_policy,html/walk.html.|Cor_uk_PrivStat,html">Safe Harbour Privacy Statement</a>. It may also be processed by staff operating outside the EEA. By submitting your personal information, you agree to this transfer, storing and/or processing. We protect all customer data against unauthorised access and take all steps reasonably necessary to ensure our service providers do likewise. We and they use secure technology, privacy protection controls and restrictions on employee access to safeguard your personal information.</p>
 
 			<p class="gotoTop"><img class="topArrow" src="/ukgif/pTermsConditionsbutton.gif" alt="go to top of page" border="0"><a href="#top_of_page">go to top</a></p>
 
@@ -379,11 +397,10 @@
         <ul>
             <li class="noborder"><a name="qvc_terms_and_conditions" href="/ukqic/qvcapp.aspx/main.html.file.%7CTerms_Conditions,html?cm_re=CS-_-TermsConditions-_-TermsConditions">Customer Terms and Conditions</a></li>
             <li><a name="qvc_privacy_statement" href="/ukqic/qvcapp.aspx/app.html/params.file.%7CPrivacystate,html/walk.html.%7CCor_uk_PrivStat,html?cm_re=CS-_-PrivacyStatement-_-PrivacyStatement">Privacy Statement</a></li>
-            <li><a name="terms_of_use" href="/ukqic/qvcapp.aspx/app.html/params.file.%7CQVC_Terms_Use,html?cm_re=CS-_-TermsOfUse-_-TermsOfUse">QVC Website Terms of Use</a></li>
-        </ul>
-        
-        <ul>
-            <li class="noborder"><a name="community_standards" href="/ukqic/qvcapp.aspx/app.html/params.file.%7Ccommunity_standards,html?cm_re=CS-_-CommunityStandards-_-CommunityStandards">Community Standards</a></li>
+<li><a href="/ukqic/qvcapp.aspx/app.html/params.file.%7Csafe_harbour_policy,html/walk.html.%7CCor_uk_PrivStat,html">QVC Safe Harbour Policy</a></li>
+            <li class="noborder"><a name="terms_of_use" href="/ukqic/qvcapp.aspx/app.html/params.file.%7CQVC_Terms_Use,html?cm_re=CS-_-TermsOfUse-_-TermsOfUse">QVC Website Terms of Use</a></li>
+
+            <li><a name="community_standards" href="/ukqic/qvcapp.aspx/app.html/params.file.%7Ccommunity_standards,html?cm_re=CS-_-CommunityStandards-_-CommunityStandards">Community Standards</a></li>
             <li><a href="http://www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%7CWasteElectricalProducts,html/walk.html.%7CCor_uk_QVCfacts,html?cm_re=CS-_-WasteElectricalProducts-_-WasteElectricalProducts" name="waste_electrical_products">Waste Electrical Products</a></li>
             <li>© 1998 – 2009 QVC</li>
         </ul>
@@ -400,11 +417,8 @@
         
         </div>                 
         <div>
-        <a name="jewellery_awards" href="/jewelleryawards2008.html" target="jewellery" onclick="javascript:window.open('', 'jewellery', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=630,height=200');" title="UK Jewellery awards 2008 finalist (opens in new window)"><img src="/ukgif/footer/jewellery_awards_finalist_logo.gif" alt="Jewellery awards" height="64" width="124"></a>
+        <a name="hitwise" href="http://www.imrg.org/top100" target="_blank" title="This external link will open in a new window"><img src="/ukgif/top100_hitwise.jpg" alt="Hitwise Top 100 award" height="64" width="56"></a>
         </div>                 
-        <!--<div>
-        <a name="hitwise" href="http://www.hitwise.co.uk/awards/popup.html?sDomain=www.qvcuk.com&amp;iDate=200801&amp;iCatnum=505&amp;Cal=" target="info" onclick="javascript:window.open('', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');" title="Hitwise award (opens in new window)"><img src="/ukgif/footer/top10_hitwise.gif" alt="Hitwise Award Winner" /></a>
-        </div>-->
     </div>
 </div>
 <!-- End QVCUK Footer Include -->
