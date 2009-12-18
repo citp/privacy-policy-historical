@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193441id_/http%3A//www.ebookers.ie/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218191243id_/http%3A//www.ebookers.ie/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -111,7 +111,7 @@ We use Personal Information in order to provide and enhance the Products or Serv
   * To manage our Website, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Website is as efficient as possible;
   * To process and track your transactions and to send you information about our and our group companies and business partners' products and services and other information and materials that may be of interest to you but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
   * To develop, enhance, market, sell or provide ebookers' Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
-  * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;
+  * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities; In performing these evaluations, personal information provided by you may be disclosed to a registered credit reporting agency which may keep a record of that information.
   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
   * To audit compliance with our policies and contractual obligations;
   * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or
