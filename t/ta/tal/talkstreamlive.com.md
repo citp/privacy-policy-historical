@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065654id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218012320id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# TalkStreamLive
+# TalkStreamLive - A Dynamic Directory of Internet Radio
 
 Effective 8/14/06
 
@@ -14,17 +14,11 @@ Welcome to TalkStreamLive. We value your privacy, and we want you to know what i
 
 From time to time, we may make changes to this policy, so please review it frequently. Whenever we make a change, we will post or otherwise make available the revised policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of this policy will appear at the top of this page. This policy applies to any information we collect from you. If we make any material changes to this policy, we will notify you here.
 
-**WHAT INFORMATION WE COLLECT**
-
-We do not collect nor do you submit any personal information to us. We do have features that automatically collect non-personally information from users of our service. 
-
 **INFORMATION YOU PROVIDE TO US.**
 
-None. We do not collect or store user’s personal information.
+We only require basic information for users who wish to create a free TalkStreamLive account. We hate spam as much as you do. We will NEVER sell or distribute you personal information to any 3rd party sites.
 
 _Browsing the Site._ If you are browsing the TalkStreamLive site, we may track gross usage on a non-personally identifiable basis for our own internal use or to share gross impressions with third party advertisers. We do not track or have access to your personal data.
-
-_Communications from Us._ Will only be viewed on this site -- we do not store any user’s emails in list or databases.
 
 _Communications with Us._ Our services have features that allow you to submit information to us (such as when contacting us with a question or problem related to the service). We may retain your emails and other information you submit to us for our internal purposes and to help us to serve you better. We will not spam, or knowingly contribute to spam.
 
@@ -41,7 +35,7 @@ _TalkStreamLive Site._ As you browse our site and as you use any of the Web Serv
 
     **WITH WHOM WE SHARE YOUR INFORMATION**
 
-We will never share your personal information with any marketing or promotional partners because we can’t – we do not keep any personal information.
+We will never share your personal information with any marketing or promotional partners.
 
 We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. 
 
