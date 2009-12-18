@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maktoob-research.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608235747id_/http%3A//www.maktoob-research.com/Policy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maktoob-research.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024503id_/http%3A//www.maktoob-research.com/Policy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # Maktoob Research: Online research made quick, easy and cost-effective
 
