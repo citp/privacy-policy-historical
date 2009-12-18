@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telenor.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216020926id_/http%3A//telenor.com/en/privacy-statement/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218120558id_/http%3A//telenor.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Telenor Group
 
