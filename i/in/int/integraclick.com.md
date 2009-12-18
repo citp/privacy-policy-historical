@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604134528id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integraclick.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218093139id_/http%3A//www.integraclick.com/privacypolicy.html) for the most accurate reproduction.*
 
 # IntegraClick
 
