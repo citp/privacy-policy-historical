@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherbonk.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613040613id_/http%3A//www.weatherbonk.com/weather/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbonk.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219002316id_/http%3A//www.weatherbonk.com/weather/privacy.jsp) for the most accurate reproduction.*
 
 # Weather Bonk Privacy Policy
 
