@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064109id_/http%3A//privacy.massey.ac.nz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218054304id_/http%3A//privacy.massey.ac.nz) for the most accurate reproduction.*
 
-# Massey University - Privacy Statement
+# Privacy Statement - Massey University
 
 Massey University is committed to safeguarding personal information in accordance with The Privacy Act 1993. 
 
 ## Personal information
 
-The University may collect personal information that is provided voluntarily through the use of email, online forms and online surveys, which might include:
+The University may collect personal information that is provided voluntarily through the use of email, online forms and online surveys, which might include: 
 
   * your name and surname 
   * your address 
   * your telephone numbers 
   * your email address 
-  * your date of birth.
+  * your date of birth. 
 
 
 
@@ -41,16 +41,12 @@ A cookie is a small text file that is written to your computer hard drive. When 
 
 ## Protection of personal information
 
-The University takes all reasonable precautions to guard against unauthorised access to confidential and personal information including the loss, misuse, and alteration of the information held by the University on its servers. When personal information is no longer required for the purposes for which it was collected it may be deleted.
+The University takes all reasonable precautions to guard against unauthorised access to confidential and personal information including the loss, misuse, and alteration of the information held by the University on its servers. When personal information is no longer required for the purposes for which it was collected it may be deleted. 
 
 ## Disclosure of personal information
 
-Personal information held by the University is not disclosed to third parties without consent, unless the University is obliged to disclose information in certain circumstances set out in the Act or by order of any Court of Tribunal of competent jurisdiction. 
+Personal information held by the University is not disclosed to third parties without consent, unless the University is obliged to disclose information in certain circumstances set out in the Act or by order of any Court of Tribunal of competent jurisdiction.   
 
-## Page information
 
-URL: http://www.massey.ac.nz/?paff85634t  
-Location: Home > About Massey  
-Page authorised by:  Web Content Manager  
-Last updated: Thursday 14 Feb 2008  
-Copyright: Massey University © 1998-2009 
+Page authorised by Web Content Manager  
+Last updated on Tuesday 15 December 2009 
