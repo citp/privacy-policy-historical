@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seojobs.in privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618093404id_/http%3A//seojobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seojobs.in privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024947id_/http%3A//seojobs.in/privacy-policy) for the most accurate reproduction.*
 
-# seojobs.in » Privacy Policy
+# Privacy Policy | SEO Jobs
 
 This is the Privacy Policy for [SEOjobs.in](http://www.seojobs.in/)
 
