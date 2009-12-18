@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617085928id_/http%3A//www.optionshouse.com/risk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218055825id_/http%3A//www.optionshouse.com/risk/privacy) for the most accurate reproduction.*
 
-# OptionsHouse Brokerage 2.0
+# Protecting Your Privacy | OptionsHouse Brokerage 2.0
 
-## Customer Agreement
+## OptionsHouse, LLC Privacy Policy
+
+Effective December 1, 2009
+
+Your Privacy is Our Priority. A Guide to How We Protect and Utilize Customer Information
 
   * Protecting Your Privacy
 
@@ -74,15 +78,13 @@ We have security standards and procedures in place designed to prevent unauthori
 
 One way to guard against unauthorized access or intrusion to your account is to keep your OptionsHouse password private. Note: OptionsHouse does not have access to your password. Here are some suggestions on how to choose and safeguard your password:
 
-For example, we use information about you to: 
-
   * Do not share your password with anyone. 
   * Do not write your password down. 
   * Type your password each time it is required of you. Do not save your password on the site entry screen or develop a shortcut to reproducing your password
   * Avoid using easily guessed words such as your name, user id, or any variation thereof (backwards, changing case, etc.).
   * Avoid words referring to anything noticeable about you: the name of your spouse, child, pet, your favorite football team, or literary character. 
   * Avoid any combination of your office number, address, birthday, or anniversary. 
-  * Avoid any combination of you license-plate number, your social-security number. 
+  * Avoid any combination of your license-plate number, your social-security number. 
 
 
 
@@ -92,25 +94,27 @@ If you feel that your password is no longer secure, please change it immediately
 
 
 
-To protect your privacy, we limit the information we share outside OptionsHouse. We conduct our business with great respect for the confidential nature of the information being provided. We will not share information about you except as outlined below.
+To protect your privacy, we limit the information we share outside OptionsHouse. We conduct our business with great respect for the confidential nature of the information being provided. We will not share information about you except as outlined below. We do not sell customer (current or former) information to third parties under any circumstance.
 
   * Sharing Information With Companies Who Help Us Provide You Services
 
 
 
-We may share the information described under the Section captioned "Information We Collect" with affiliates of OptionsHouse. Additionally, this information may be shared with companies external to OptionsHouse to complete a transaction you have requested or to help us service your account. We are highly selective in choosing these companies. All companies with whom we do business are contractually obligated to comply with strict standards regarding security and confidentiality, and the information can be used only for the sole purpose of providing the service we have requested the company to perform. Examples of the types of outside companies with which we may share information include non-financial companies that perform services for us such as data processing and companies that perform securities execution and clearing services on our behalf. 
+We may share the information described under the Section captioned "Information We Collect" with affiliates of OptionsHouse. Additionally, this information may be shared with companies external to OptionsHouse ("outside companies" or "third parties") to complete a transaction you have requested, to help us service your account, and to allow us to offer you improved products and services. We are highly selective in choosing these companies. All companies with whom we do business are contractually obligated to comply with strict standards regarding security and confidentiality, and the information can be used only for the sole purpose of providing the service we have requested the company to perform. 
+
+Examples of the types of outside companies with which we may share information to help us service your account include non-financial companies that perform services for us such as data processing and companies that perform securities execution and clearing services on our behalf. In order to offer improved products and services to you, we may engage outside companies who use third-party technology to assist us with certain functions such as client satisfaction surveys, business or marketing analysis, or other data collection activities relevant to our business. Use of any information shared is strictly limited to the performance of the task we request and for no other purpose.
 
   * Sharing Information In Other Situations
 
 
 
-OptionsHouse may also be required to release your information to nonaffiliated third parties as required by law or to cooperate with regulators or law enforcement authorities. This may include releasing such information to nonaffiliated parties such as Financial Industry Regulatory Authority (FINRA), the Securities and Exchange Commission (SEC), or the Internal Revenue Service (IRS) as well as any of the securities exchanges or regulatory authorities in states in which OptionsHouse is registered. OptionsHouse may also be required to disclose nonpublic, personal information as required under court order or subpoena or for certain obligations of OptionsHouse under the USA Patriot Act.
+OptionsHouse may also be required to release your information to third parties as required by law or to cooperate with regulators or law enforcement authorities. This may include releasing such information to nonaffiliated parties such as Financial Industry Regulatory Authority (FINRA), the Securities and Exchange Commission (SEC), or the Internal Revenue Service (IRS) as well as any of the securities exchanges or regulatory authorities in states in which OptionsHouse is registered. OptionsHouse may also be required to disclose nonpublic, personal information as required under court order or subpoena or for certain obligations of OptionsHouse under the USA Patriot Act.
 
   * Linking to Other Sites
 
 
 
-From time to time, OptionsHouse Web Site may provide links to other Web Sites not owned or controlled by OptionsHouse that we think might be useful or of interest to you. We cannot, however, be responsible for the privacy practices used by other Web Site owners or the content or accuracy of those other websites. Links to various non-OptionsHouse Web Sites do not constitute or imply endorsement by OptionsHouse of these websites, any products or services described on these sites, or of any other material contained in them.
+From time to time, OptionsHouse Web Site may provide links to other Web Sites not owned or controlled by OptionsHouse that we think might be useful or of interest to you. We cannot, however, be responsible for the privacy practices used by other Web Site owners or the content or accuracy of those other websites. Links to various non-OptionsHouse Web Sites do not constitute or imply endorsement by OptionsHouse of these websites, any products or services described on these sites, or of any other material contained in them. It is always your choice whether or not to participate in certain promotions and special offers that may be made to you via these other web sites.
 
   * Opting Out
 
@@ -152,4 +156,62 @@ Farmingdale, NY 11735-9014
 
 Please be sure to include complete information about each name, address, and telephone number that you would like to have excluded from national advertising lists. If you have moved within the past year, you should also include your old address and phone number. The same is true for name changes and the addresses and phone numbers associated with each name.
 
-[Back to Risk Statements + Disclosures](https://web.archive.org/risk/)
+  * OptionsHouse Clearing Firm, Penson Financial Services, Inc. Privacy Policy
+
+
+
+OptionsHouse is an introducing broker and Penson Financial Services, Inc. ("Penson") is our clearing firm and they carry your account by arrangement. Penson understands that privacy is an important issue for our customers. It is Penson's policy to respect the privacy of all accounts that they maintain as clearing broker and to protect the security and confidentiality of nonpublic personal information relating to those accounts. Penson applies this policy to former customers as well as current customers.
+
+  * Personal Information Collected
+
+
+
+In order to service your account as clearing broker, information is provided to Penson by OptionsHouse. We collect information from you in order to provide the financial services that you have requested. The information OptionsHouse collects and provides to Penson may come from the following sources: 
+
+  1. Information received from you, such as your name, address, telephone number, social security number, occupation, and income. 
+  2. Information relating to your transactions, including account balances, positions, and activity. 
+  3. Information that may be received from consumer reporting agencies, such as credit bureau reports and other information relating to your creditworthiness. 
+  4. Information that may be received from other sources with your consent or with the consent of your introducing broker.
+
+
+  * Sharing of Nonpublic Personal Information
+
+
+
+Penson does not disclose nonpublic personal information relating to current or former customers of OptionsHouse to any third parties, except as required or permitted by law, including but not limited to any obligations of Penson under the USA PATRIOT Act, and in order to facilitate the clearing of customer transactions in the ordinary course of business.
+
+Penson has multiple affiliates, including Penson Financial Futures, Inc., Penson Worldwide Settlements Ltd., Penson Financial Services Canada, and Integrated Trading Solutions, Inc. These companies along with Penson Financial Services, Inc. are wholly owned subsidiaries of Penson Worldwide, Inc. Penson may share information among its affiliates, as permitted by law, in order to better service your financial needs.
+
+  * Security
+
+
+
+Penson strives to ensure that their systems are secure and that they meet industry standards. Penson protects personal information that is provided to Penson by OptionsHouse by maintaining physical, electronic and procedural safeguards that either meet or exceed applicable law. Where appropriate, Penson employs firewalls, encryption technology, user authentication systems (i.e. passwords and personal identification numbers) and access control mechanisms to control access to systems and data. Third parties who may have access to such personal information must also agree to follow appropriate standards of security and confidentiality. Penson instructs their employees to use strict standards of care in handling the personal financial information of customers. As a general policy Penson's staff will not discuss or disclose information regarding an account except with authorized personnel of OptionsHouse or as required by law or pursuant to regulatory request and/or authority.
+
+  * Access to Your Information
+
+
+
+You may access your account information through a variety of media offered by OptionsHouse and Penson (i.e. statements or online services). Please contact OptionsHouse at [customerservice@OptionsHouse.com](https://web.archive.org/web/20091218055825id_/http://www.optionshouse.com/risk/privacy/customerservice@OptionsHouse.com) if you require any additional information.
+
+  * Changes to Penson's Privacy Policy
+
+
+
+Penson reserves the right to make changes to this policy.
+
+  * How to Get in Touch with Penson about this Privacy Policy
+
+
+
+For your reference, this policy has been posted to the Penson website at [www.penson.com.](http://www.penson.com/)
+
+For more information relating to Penson's privacy policy, please contact:
+
+Penson Financial Futures, Inc.  
+ATTN: Legal/Compliance Department  
+1700 Pacific Avenue, Suite 1400  
+Dallas, TX 75201  
+1-800-696-3585
+
+[](https://web.archive.org/risk/)
