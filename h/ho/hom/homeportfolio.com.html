@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homeportfolio.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616183941id_/http%3A//www.homeportfolio.com/AboutHomePortfolio/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homeportfolio.com privacy policy that was archived on 2009-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218063936id_/http%3A//www.homeportfolio.com/AboutHomePortfolio/privacy.jhtml) for the most accurate reproduction.-->
 
 <html><head>
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -17,7 +17,7 @@
 
    
    
-   <!-- headCode -->
+<!-- headCode -->
 
 
 
@@ -58,7 +58,7 @@ var HPdesId = null;
       			
 				<!-- style stylesheet -->
 				
-						<link rel="stylesheet" type="text/css" href="/templates/components/style.css?June162009">
+						<link rel="stylesheet" type="text/css" href="/templates/components/style.css?December182009">
 					
 				<!-- print stylesheet --
 				<droplet bean="FuseAnyBean">
@@ -70,22 +70,22 @@ var HPdesId = null;
 				</droplet-->
 				<!-- yui reset-fonts-grids stylesheet -->
 				
-						<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/reset-fonts-grids/reset-fonts-grids.css?June162009">
+						<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/reset-fonts-grids/reset-fonts-grids.css?December182009">
 					
 				<!-- yui base-min stylesheet -->
 				
-						<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/base/base-min.css?June162009">
+						<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/base/base-min.css?December182009">
 					
 				<!-- style1000 stylesheet -->
 				
-				<link rel="stylesheet" type="text/css" href="/templates/components/style1000.css?June162009">
+				<link rel="stylesheet" type="text/css" href="/templates/components/style1000.css?December182009">
 			
         <!-- javascript -->
 				
-						<script language="JavaScript" type="text/javascript" src="/templates/components/js/jsFunctions.js?June162009"></script>
+						<script language="JavaScript" type="text/javascript" src="/templates/components/js/jsFunctions.js?December182009"></script>
 					
 				
-						<script language="JavaScript" type="text/javascript" src="/templates/components/js/HomePgRollovers.js?June162009"></script>
+						<script language="JavaScript" type="text/javascript" src="/templates/components/js/HomePgRollovers.js?December182009"></script>
 					
 				<!-- a tags for tracking purposes -->
 				</head><body onload="trackNow(); Rollover.init()"><a name="home_1"></a>
@@ -98,14 +98,9 @@ var HPdesId = null;
 
 
 
-	<!-- javascript -->    
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript" language="javascript">
-	// Load jQuery
-	google.load("jquery", "1.2.6", { uncompressed: true });
-</script>
+	
+<!-- Load jQuery -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
 <script type="text/javascript" src="/templates/superfish/js/hoverIntent.js"></script>
 <script type="text/javascript" src="/templates/superfish/js/superfish.js"></script>
@@ -114,11 +109,23 @@ var HPdesId = null;
 <link rel="stylesheet" type="text/css" href="/templates/superfish/css/superfish-vertical.css">
 
 <script type="text/javascript" language="JavaScript">
-	$(document).ready(function() {
-	$("ul.sf-menu").superfish({
-	autoArrows: false, dropShadows: false
-	});;
-	});
+   $(document).ready(function() {      
+      $.getJSON("http://blog.homeportfolio.com/wordpress/?feed=json&callback=?",
+         function(json) {
+            $.each(json.items, function(i, item) {
+               if (i == 4){
+                  $('<li><a class="mla2 mla2-last" href' + '="' + item.link + '">' + item.title + '</a></li>').appendTo('ul#blog-ul');
+                  return false;
+               }else{
+                  $('<li><a class="mla2" href' + '="' + item.link + '">' + item.title + '</a></li>').appendTo('ul#blog-ul');
+               }
+            });
+         }
+      );         
+      $("ul.sf-menu").superfish({
+         autoArrows: false, dropShadows: false
+      });;
+   });
 </script>
    
 <script type="text/javascript" language="JavaScript" src="/templates/components/js/jquery.innerfade.js"></script>
@@ -140,17 +147,44 @@ var HPdesId = null;
 	});
 </script>
 
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript" language="JavaScript">
-	GS_googleAddAdSenseService("ca-pub-7872714429805012");
-	GS_googleEnableAllServices();
+   GS_googleAddAdSenseService("ca-pub-7872714429805012");
+   
+   <!-- H2N-->
+   GS_googleAddAdSenseService("ca-pub-4320677269614839"); 
+   GS_googleEnableAllServices();
 </script>
 
+   <script type="text/javascript">
+      var j_is_green = "false";
+   </script>
+
+   
+
+   
+
+   <script type="text/javascript">
+      if (j_super_cat == undefined){var j_super_cat = '';}
+      if (j_cat == undefined){var j_cat = '';}
+      if (j_super_cat == ''){var j_super_cat = 'Not-Specific';}
+      if (j_add_rec == undefined){var j_add_rec = false;}
+      if (j_trans_ok == undefined){var j_trans_ok = true;}
+   </script>
+      
+   <script type="text/javascript">
+      if (j_super_cat=='Green Home'){
+         j_is_green = "true";
+      }
+   </script>
+      
 <script type="text/javascript" language="JavaScript">
 
    
-         GA_googleAddAttr("registered", "0");
+         GA_googleAddAttr("is-hp-user", "false");
       
-					
+   
+   GA_googleAddAttr("is-green", j_is_green);
    GA_googleAddAttr("av-id", ""); 
    GA_googleAddAttr("product-id", "");  
    
@@ -158,17 +192,11 @@ var HPdesId = null;
       
    
          
-               GA_googleAddAttr("dev", "0");
+               GA_googleAddAttr("is-dev", "false");
             
          
 </script>
    
-<script type="text/javascript">
-	if (j_super_cat == undefined){var j_super_cat = '';}
-	if (j_cat == undefined){var j_cat = '';}
-   if (j_super_cat == ''){var j_super_cat = 'Not-Specific';}
-</script>
-
 
 
 <script type="text/javascript">
@@ -180,15 +208,51 @@ var HPdesId = null;
          if (firstload==false){GA_googleAddSlot("ca-pub-7872714429805012", "HP_Not-Specific_1x1");}
          GA_googleAddSlot("ca-pub-7872714429805012", j_ad_page_tag + "_728x90_Top");
          GA_googleAddSlot("ca-pub-7872714429805012", j_ad_page_tag + "_160x600");
+         GA_googleAddSlot("ca-pub-7872714429805012", j_ad_page_tag + "_728x90_Bottom");
       </script>
 	
 
    <script type="text/javascript">
-      GA_googleUseSyncSRARendering();
+      if (j_add_rec==true){GA_googleAddSlot("ca-pub-7872714429805012", j_ad_page_tag + "_300x250");}
+   </script>
+   
+   <!-- START H2N NETWORK TAGS -->
+   <script type="text/javascript">
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sears_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sears_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sears_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sears_Bonus_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sears_Bonus_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sears_Bonus_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_CT_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_CT_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_CT_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_ROS_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_ROS_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_ROS_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_Bonus_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_Bonus_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Sams_Bonus_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Shaw_CT_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Shaw_Design_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Shaw_Design_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Shaw_Design_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Ace_Paint_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Ace_Paint_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Ace_IntDes_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Ace_IntDes_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_Ace_IntDes_728x90");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_THD_160x600");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_THD_300x250");
+      GA_googleAddSlot("ca-pub-4320677269614839", "H2M_HomePort_THD_728x90");
+   </script>
+   <!-- END NETWORK TAGS -->
+   
+   <script type="text/javascript">
       GA_googleFetchAds();
    </script>
 
-	
+   
 
 
 
@@ -216,7 +280,9 @@ var HPdesId = null;
  
 
 
-   <script type="text/javascript">GA_googleFillSlot("HP_Not-Specific_1x1");</script>
+   <script type="text/javascript">
+      if (j_trans_ok==true){GA_googleFillSlot("HP_Not-Specific_1x1");}
+   </script>
 	<!--stopindex-->
 	<div id="shell">
 		<div id="header">
@@ -548,9 +614,16 @@ var HPdesId = null;
 <!--stopindex-->
 <div class="cbox cbox-leftrail" style="margin-bottom:10px">
   <h3><img src="/images/subHeads/viewBy.gif" style="margin:5px 0px 0px 0px" alt="View By"></h3>
-  <div class="innerbox" style="margin:0px 0px 4px 10px;float:left;">
+  <div class="innerbox" style="margin:0px 0px 4px 10px;float:left;">  
   <ul class="sf-menu sf-vertical" style="margin-bottom:6px">
-    <li class="mll2" style="border:none"><a href="/catalog/Room.jhtml" class="mla1">room</a>
+    <li class="mll2" style="border:none">
+      <a href="http://blog.homeportfolio.com/wordpress/" class="mla1">blogs</a>
+      <ul id="blog-ul">
+         <li><a href="http://blog.homeportfolio.com/wordpress/" class="mla2"><b>See all posts</b></a></li>
+      </ul>			    
+    </li>  
+    <li class="mll2">
+      <a href="/catalog/Room.jhtml" class="mla1">room</a>
       <ul>
         <li><a href="/catalog/Room.jhtml" class="mla2"><b>See all rooms</b></a></li>
         <li><a href="/top/kitchen.html" class="mla2">Kitchen</a></li>
@@ -646,12 +719,32 @@ var HPdesId = null;
                      GA_googleFillSlot(j_ad_page_tag + "_160x600");
                   </script>
                </div>
+
+               <div style="width:160px;margin:20px 0px 20px 0px;">
+
+                  <div id="GNWidget"></div>
+                  <input type="hidden" id="WidgetAction" value="showwidget">
+                  <iframe id="widgetKeyFrame" name="widgetKeyFrame" src="/growers/GN_widget_key.html" scrolling="no" frameborder="0"> </iframe>
+               
+               </div>              
+               
 					
 			</div>
-			</div>
+
 		</div>
-		<div id="footer">
-         <div id="footerRule"></div>
+
+      <div id="footer" style="height:300px;">
+      
+         
+               <div id="footerRule"></div>
+               <script type="text/javascript">               
+                  GA_googleFillSlot(j_ad_page_tag + "_728x90_Bottom");
+               </script>
+            		
+						
+         
+
+<div id="footerRule"></div>
 <a href="/catalog/index.jhtml" class="footerLink">find products</a>&nbsp;&nbsp;|&nbsp;
 <a href="/top/room_search.html" class="footerLink">find rooms</a>&nbsp;&nbsp;|&nbsp;
 <a href="/ProductExplorer/SearchByBrand.jhtml" class="footerLink">find brands</a>&nbsp;&nbsp;|&nbsp;
@@ -667,36 +760,57 @@ Copyright © 1997-2009 HomePortfolio Inc. All rights reserved.
 <a href="/AboutHomePortfolio/terms.jhtml" class="footerLink">Terms of Use</a>. 
 <a href="/AboutHomePortfolio/privacy.jhtml" class="footerLink">Privacy</a>.
 
+<div style="padding:15px;width:305px;margin-left:auto;margin-right:auto;">
+   <div style="float:left;">
+      <a href="http://www.facebook.com/home.php?#/pages/HomePortfolio/127060404363?ref=mf" target="_Blank"><img src="http://www.homeportfolio.com/images/social/facebook_icon.gif" alt="Follow Us On Facebook" border="0" width="48" height="48"></a>
+   </div>
+   <div style="float:left;padding:7px;text-align:left;">
+      <a href="http://www.facebook.com/home.php?#/pages/HomePortfolio/127060404363?ref=mf" target="_Blank" style="color:#888;font-size:12px;">Become a Fan<br>on Facebook</a>
+   </div>
+   <div style="float:right;">
+      <div style="float:left;">
+         <a href="http://twitter.com/homeportfolio" target="_Blank"><img src="http://www.homeportfolio.com/images/social/twitter_icon.gif" alt="Follow Us On Twitter" border="0" width="48" height="48"></a>
+      </div>
+      <div style="float:left;padding:7px;text-align:left;">
+         <a href="http://twitter.com/homeportfolio" target="_Blank" style="color:#888;font-size:12px;">Follow Us<br>On Twitter</a>
+      </div>
+   </div>
+</div>
+
 
 
 <sessionid src="">
 
 
 	  	
-		    		<pageservedfrom src="sav07.homeportfolio.com:8842">
-		    		<!-- keep tracking code from running on dev -->
+            <pageservedfrom src="sav06.homeportfolio.com:8843">
+            <!-- keep tracking code from running on dev -->
 				
-						
-								<!-- Google Analytics Code -->
-								<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-								</script>
-								<script type="text/javascript">
-								_uacct = "UA-1995605-1";
-								urchinTracker();
-								</script>
-								<!-- Quantcast tag -->
-								<script type="text/javascript">
-								   _qoptions={
-								   qacct:"p-5f5siXhRbVfuU"
-								   };
-								</script>
-								<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-								<noscript>
-								   <img src="http://pixel.quantserve.com/pixel/p-5f5siXhRbVfuU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-								</noscript>
-							
-					
-		    	
+						<!-- Google Analytics Code -->
+                  <script type="text/javascript">
+                     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                  <script type="text/javascript">
+                     try {
+                     var pageTracker = _gat._getTracker("UA-1995605-1");
+                     pageTracker._setDomainName(".homeportfolio.com");
+                     pageTracker._trackPageview();
+                     } catch(err) {}
+                  </script>						
+						<!-- Quantcast tag -->
+						<script type="text/javascript">
+						   _qoptions={
+						   qacct:"p-5f5siXhRbVfuU"
+						   };
+						</script>
+						<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+						<noscript>
+						   <img src="http://pixel.quantserve.com/pixel/p-5f5siXhRbVfuU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+						</noscript>                   
+               
+				
+         
 	
 
 
@@ -709,4 +823,4 @@ Copyright © 1997-2009 HomePortfolio Inc. All rights reserved.
 
 
 
-</body></html>
+</div></body></html>
