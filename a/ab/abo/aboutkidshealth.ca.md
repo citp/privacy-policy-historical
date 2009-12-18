@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutkidshealth.ca privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604140340id_/http%3A//www.aboutkidshealth.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutkidshealth.ca privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218011153id_/http%3A//www.aboutkidshealth.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AboutKidsHealth: Privacy Policy
 
