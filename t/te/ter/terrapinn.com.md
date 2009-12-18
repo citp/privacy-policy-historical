@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616205538id_/http%3A//www.terrapinn.com/Legal.aspx%3FL%3DP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218093256id_/http%3A//www.terrapinn.com/Legal.aspx%3FL%3DP) for the most accurate reproduction.*
 
 # Terrapinn - Legal
 
@@ -14,7 +14,7 @@ Terrapinn Limited and its group companies (together, "Terrapinn") are committed 
 
  All of the personal information described above will be stored on Terrapinn's user database (unless you notify us that you no longer wish us to retain such information, in which case it will be deleted).
 
-Terrapinn will only use your personal information in order to contact you (for example by email, mail or telephone) for those purposes to which you have previously consented on the site.  For example, if you register on the site, Terrapinn will email to you Terrapinn's newsletter and, if you wish, contact you about relevant products and services offered by Terrapinn or by reputable third parties.  If you do not wish to receive information about Terrapinn's and/or third parties' products and services, please tick the relevant box on the registration form when you register or, subsequently, via the "Amend my account" button at the top of the home page.  You may cancel your subscription to Terrapinn's newsletter at any time by clicking on the link at the foot of any edition of the newsletter.
+Terrapinn will only use your personal information in order to contact you (for example by email, mail or telephone) for those purposes to which you have previously consented on the site.  For example, if you register on the site, Terrapinn will email to you Terrapinn's newsletter and, if you wish, contact you about relevant products and services offered by Terrapinn or by reputable third parties.  If you do not wish to receive information about Terrapinn's and/or third parties' products and services, please tick the relevant box on the registration form when you register or, subsequently, via the "edit my profile" button at the bottom of the home page.  You may cancel your subscription to Terrapinn's newsletter at any time by clicking on the link at the foot of any edition of the newsletter.
 
    Terrapinn will also use the information which you provide in aggregate form (i.e. so that no individual users are identifiable) to determine demographic profiles and browsing patterns in order to:
 
@@ -45,4 +45,4 @@ Terrapinn is committed to data security.  If you subscribe to access our premiu
 
 **8.  Contacting us**
 
- If you have any questions or concerns about Terrapinn's use of your personal information, please email Klaudia Gowero at [compliance@terrapinn.com](mailto:compliance@terrapinn.com) or write to her at Terrapinn Limited, Wren House, 43 Hatton Garden, London EC1N 8EL.
+If you have any questions or concerns about Terrapinn's use of your personal information, please email Klaudia Gowero at [compliance@terrapinn.com](mailto:compliance@terrapinn.com) or write to her at Terrapinn Holdings Limited, Welken House, 10-11 Charterhouse Square, London EC1M 6EH
