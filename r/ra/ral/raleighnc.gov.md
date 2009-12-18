@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618083943id_/http%3A//www.raleighnc.gov./portal/server.pt/gateway/PTARGS_0_0_306_0_0_43/http%3B/pt03/DIG_Web_Content/global/GBL-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023315id_/http%3A//www.raleighnc.gov/portal/server.pt/gateway/PTARGS_0_0_306_0_0_43/http%3B/pt03/DIG_Web_Content/global/GBL-Privacy.html) for the most accurate reproduction.*
 
 # City of Raleigh | Privacy Policy
 
