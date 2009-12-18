@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616203924id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022546id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.*
 
 # SPSS Inc. - Privacy Policy
 
