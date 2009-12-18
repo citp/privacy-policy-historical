@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acnnewswire.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601154116id_/http%3A//www.acnnewswire.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnnewswire.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219003522id_/http%3A//www.acnnewswire.com/privacy.asp) for the most accurate reproduction.*
 
 # ACN Newswire - Privacy Policy
 
