@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152110id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219034018id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -- MLive.com: Michigan's Leading News, Information and Community Web Site with The Booth Newspapers
 
@@ -71,3 +71,5 @@ Privacy Policy Coordinator
 
 
 
+
+MLive.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 25 newspapers affiliated with [Advance Internet](http://www.advanceinternet.com/).
