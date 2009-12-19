@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200130id_/http%3A//www.synacor.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219012740id_/http%3A//www.synacor.com/pages/privacy) for the most accurate reproduction.*
 
 # Synacor — Privacy
 
