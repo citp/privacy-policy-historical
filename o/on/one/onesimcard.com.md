@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425004527id_/http%3A//onesimcard.com%3Fidmenu%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219024903id_/http%3A//www.onesimcard.com%3Fidmenu%3D16) for the most accurate reproduction.*
 
 # OneSIMcard - International SIM Card, Prepaid SIM cards, International Mobile phones, rent a cell phone for international travel, International Cell Phones, Global Phone SIM Card, corporate mobile phones
 
 ## We are committed to your privacy in every transaction
 
-At OneSIMcard.com, the privacy and security of your personal information is extremely important to us. We want to make sure that your personal information is properly protected. We only grant access to personal information about you (such as your name, address, etc.) to our company employees to provide or offer products and services to you, process and service your account(s), and for administration purposes. We only share your personal information with financial service providers to process credit card transactions.
+At OneSIMcard.comTM, the privacy and security of your personal information is extremely important to us. We want to make sure that your personal information is properly protected. We only grant access to personal information about you (such as your name, address, etc.) to our company employees to provide or offer products and services to you, process and service your account(s), and for administration purposes. We only share your personal information with financial service providers to process credit card transactions.
 
 ## OneSIMcard.com Code of Conduct
 
