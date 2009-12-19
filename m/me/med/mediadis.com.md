@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediadis.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154255id_/http%3A//www.mediadis.com/services/services.asp%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediadis.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213602id_/http%3A//www.mediadis.com/services/services.asp%3Fid%3D9) for the most accurate reproduction.*
 
 # Mediadis
 
@@ -25,9 +25,6 @@ Contact
   
 If you have any question about this privacy statement or the practices of our company, you can contact us :
 
-Mediadis S.A./N.V.  
-Jean-Noël Chamart   
-Rue Saint-Denis, 282  
-1190 Brussels  
-Belgium  
-[infoen@mediadis.com](mailto:infoen@mediadis.com)
+[By email](mailto:infoen@mediadis.com)  
+[The company](http://www.mediadis.com/mediadis/)  
+
