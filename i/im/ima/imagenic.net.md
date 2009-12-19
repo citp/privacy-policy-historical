@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imagenic.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160736id_/http%3A//www.imagenic.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagenic.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219015612id_/http%3A//www.imagenic.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Imagenic.net Free Multi Image Upload Picture Upload Multi Upload Image Hosting Image Gallery » More Information » Privacy Policy
+
+[ ](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=bakerman)     [](http://movies-coming-soon.com/)
 
 When you sign up for an account with Imagenic.net Free Multi Image Upload Picture Upload Multi Upload Image Hosting Image Gallery, we collect personal information from you including your e-mail address, and a password. 
 
