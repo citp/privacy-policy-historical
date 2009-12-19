@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601224550id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219072938id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
@@ -46,6 +46,8 @@ Circumstances may arise where we are required to disclose your personal informat
 You can opt out of receiving further marketing from FTP at any time.
 
 We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only FTP (or agents or contractors working on behalf of FTP and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from FTP by emailing us at [announce@FullTiltPoker.com](mailto:announce@FullTiltPoker.com).
+
+If you have signed up for Full Tilt Poker Academy and wish to be removed from the marketing mailing list simply email [unsubscribe@info.ftpacademy.com](mailto:unsubscribe@info.ftpacademy.com "unsubscribe@info.ftpacademy.com").
 
 **Our Commitment to Data Security**
 
