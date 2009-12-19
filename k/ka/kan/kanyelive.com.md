@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanyelive.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606211831id_/http%3A//www.kanyelive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanyelive.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219070238id_/http%3A//www.kanyelive.com/privacy.php) for the most accurate reproduction.*
 
 # kanYeLive.com | Privacy Policy
 
