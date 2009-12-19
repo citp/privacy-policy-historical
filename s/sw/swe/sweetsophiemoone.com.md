@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetsophiemoone.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620052934id_/http%3A//sweetsophiemoone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsophiemoone.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219201958id_/http%3A//sweetsophiemoone.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
