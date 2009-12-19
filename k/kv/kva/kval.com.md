@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174454id_/http%3A//kval.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131757id_/http%3A//www.kval.com/about/privacy) for the most accurate reproduction.*
 
 # KVAL CBS 13 - News, Weather and Sports - Eugene, OR - Eugene, Oregon | KVAL Privacy Policy
 
