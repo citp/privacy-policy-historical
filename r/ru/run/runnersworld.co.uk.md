@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618083534id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219090504id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
-**As the publishers of Runner's World, Natmag-Rodale Ltd is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The data collector for this website is Natmag-Rodale Ltd, with its registered office at 33 Broadwick St, London W1F 0DQ. Please note that this policy only addresses our activities, and other sites to which this website links may have their own privacy policies and practices, which we do not control.**
+PRIVACY POLICY
 
-1.| Collection  
- | We shall ask you to supply personal information (data) to us in the following circumstances:
+ **As the publishers of Runner's World and Triathlete's World, Natmag-Rodale Ltd is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The data collector for this website is Natmag-Rodale Ltd, with its registered office at 33 Broadwick St, London W1F 0DQ. Please note that this policy only addresses our activities, and other sites to which this website links may have their own privacy policies and practices, which we do not control.**
+
+|  1.| Collection  
+---|---  
+| We shall ask you to supply personal information (data) to us in the following circumstances:
 
 (a) when you wish to become a registered user of this website (www.runnersworld.co.uk) and/or   
 (b) when you wish to buy or utilise any of our products or services.  
   
   
 2.| Information  
- | The personal data that we shall ask you to supply shall include the following:
+| The personal data that we shall ask you to supply shall include the following:
 
 (a) your name, address, and email address; and  
 (b) your postcode and telephone number; and   
@@ -22,7 +25,7 @@
 We may also ask you to provide other personal data to us for particular purposes, such as supplying our products or services to you. In each case it will be your decision as to whether you supply us with the information in question or not.  
   
 3.| Use of your personal information  
- | We shall only use your personal data for the following purposes where applicable:
+| We shall only use your personal data for the following purposes where applicable:
 
 (a) to identify you as a registered user of our website and to allow you to post messages on our forum;  
 (b) to provide you with products and services (which may include products and services that we supply in association with other businesses);   
@@ -32,15 +35,15 @@ We may also ask you to provide other personal data to us for particular purposes
 (f) to send you information regarding the products and services of other businesses with your consent;  
 (g) to notify you of any changes to our Privacy Policy and our Terms and Conditions from time to time;  
 (h) for our own internal purposes in connection with risk control, resolving consumer disputes; and  
-(i) for producing statistics and other information relating to our business and the users of our website.
+(i) for producing statistics and other information relating to our business and the users of our website. 
 
-You may at any time revoke your consent to us contacting you for the purposes noted in (e) and (f) above by contacting us at [members@runnersworld.com](mailto:members@runnersworld.com), or by unsubscribing from our email mailing lists by following the procedure set out in any of the relevant emails that we send you.
+You may at any time revoke your consent to us contacting you for the purposes noted in (e) and (f) above by contacting us at [support@runnersworld.co.uk](mailto:support@runnersworld.co.uk), or by unsubscribing from our email mailing lists by following the procedure set out in any of the relevant emails that we send you. 
 
 |   
- | General Information  
- | Any information or statistics relating to our business that we disclose to others shall not identify you personally. We may, for example, perform statistical analyses of the behaviour of the users of our website in order to measure interest in the various areas of our site and to tell advertisers how many users of our website have seen or "clicked" their advertising banners. This information, and any other general information about our users that we share with advertisers and other partners, will not disclose personal information about you.  
+| General Information  
+| Any information or statistics relating to our business that we disclose to others shall not identify you personally. We may, for example, perform statistical analyses of the behaviour of the users of our website in order to measure interest in the various areas of our site and to tell advertisers how many users of our website have seen or "clicked" their advertising banners. This information, and any other general information about our users that we share with advertisers and other partners, will not disclose personal information about you.  
 4.| Disclosure of your personal information  
- | We shall only disclose your personal data to other people in the following circumstances:
+| We shall only disclose your personal data to other people in the following circumstances:
 
 (a) to verify and process any payment instructions that you give us when you order any of our products or services;  
 (b) to other businesses, when we are providing products or services to you in association with those businesses (see 3(b) above);  
@@ -51,21 +54,21 @@ You may at any time revoke your consent to us contacting you for the purposes no
 Unless they are already legally bound to keep your personal data confidential, we shall enter into agreements with anyone to whom we disclose your personal data under (a), (b), (c) and (d) above obliging them to keep your personal data confidential.  
   
 5.| Sale and supply  
- | We shall comply with the following restrictions in relation to your personal information.
+| We shall comply with the following restrictions in relation to your personal information.
 
 (a) We shall not sell your personal data to anyone else, though with your permission we may rent it for limited use or contact you by post or email on behalf of other carefully selected companies. You can switch your permission on and off on your 'My Details' page.
 
 (b) Subject to the exception in point 4(e) above, we shall not supply your personal data to anyone else so that they can use it for their own purposes.  
   
 6.| Security of your personal information  
- | We shall take steps to ensure that your personal data is kept reasonably secure whilst it is in our possession, and your credit card details will only be stored and transmitted by us in an encrypted form.  
+| We shall take steps to ensure that your personal data is kept reasonably secure whilst it is in our possession, and your credit card details will only be stored and transmitted by us in an encrypted form.  
 7.| Transfer of Information  
- | We are part of an international group of companies in common US ownership and we may transfer your data to the US servers that we use for data processing and storage purposes in connection with providing our products and services to you. 
+| We are part of an international group of companies in common US ownership and we may transfer your data to the US servers that we use for data processing and storage purposes in connection with providing our products and services to you. 
 
 All data that is processed and stored overseas shall be held securely and shall remain subject to the restrictions on its use and disclosure set out in this Privacy Policy.  
   
 8.| Other information that we collect  
- | When you visit our site we may log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. 
+| When you visit our site we may log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. 
 
 We may collect information about your viewing habits when you visit our website through your IP address and by using cookies and other web tools in the following ways.
 
@@ -78,8 +81,10 @@ We do not store sensitive information such as account numbers or passwords in "p
  **NOTE**. Some of the advertisements on our website may contain cookies, GIFs, or other web tools that are set by other people such as advertising agencies, or the businesses to which the advertisements in question relate. We do not have access to any information that might be collected in this way, and (if you are concerned) you should contact the advertiser for more information.  
   
 9.| Amendments, cancellation, and contact us  
- | At your request we shall make any amendments that you stipulate to the personal data that you have supplied us with. If you require it we shall also remove your name and personal data from our database. This shall be on the basis that you shall be deemed to have cancelled any contract or licence you may have had with us that the personal data in question related to, and (as we shall not have been at fault in those circumstances) you shall not be entitled to any compensation or refunds in relation to the cancellation of the applicable contract or licence. 
+| At your request we shall make any amendments that you stipulate to the personal data that you have supplied us with. If you require it we shall also remove your name and personal data from our database. This shall be on the basis that you shall be deemed to have cancelled any contract or licence you may have had with us that the personal data in question related to, and (as we shall not have been at fault in those circumstances) you shall not be entitled to any compensation or refunds in relation to the cancellation of the applicable contract or licence. 
 
 Please contact us at [members@runnersworld.co.uk](mailto:members@runnersworld.co.uk) in relation to the matters to which this point 8 relates, or if you have any questions or concerns regarding our privacy policy.   
   
 This Privacy Policy has been prepared to meet the requirements of the UK's Data Protection Act 1998, and that Act only relates to the collection, protection, disclosure and use of personal data belonging to living individuals. It does not relate to data regarding companies and other non-living entities, although the general principles regarding our collection and use of data is broadly the same irrespective of whether the users of our website are living individuals or not.
+
+[](http://www.runnersworld.co.uk/cl.asp?cn=3995)
