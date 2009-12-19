@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon-asia.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620055536id_/http%3A//www.canon-asia.com/section/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon-asia.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213556id_/http%3A//www.canon-asia.com/section/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Canon in South & Southeast Asia
 
@@ -61,11 +61,11 @@ We use return email addresses to answer the email we receive as well as to provi
 In the course of growing or restructuring our business, we may purchase the assets of another company or sell the assets of our company. During these transactions, information about customers is frequently considered a business asset that is the subject of such a purchase or sale. Also, in the unlikely event that Canon, or substantially all of its assets are either acquired or subject to liquidation in bankruptcy, Information may be transferred as well.  
    
   
-The Canon Website may contain hyperlinks to and from other Internet websites, including other Canon Company websites. These websites may have different privacy practices from the ones described here. Since this Statement applies solely to this Website, please read the privacy statements of the other websites you visit. For more information about hyperlinks, please see the [Terms of Use](https://web.archive.org/section/termsofuse/)[](https://web.archive.org/web/20090620055536id_/http%3A//www.canon-asia.com/termsofuse/index.cfm?fuseaction=terms) posted elsewhere on our Canon Website.  
+The Canon Website may contain hyperlinks to and from other Internet websites, including other Canon Company websites. These websites may have different privacy practices from the ones described here. Since this Statement applies solely to this Website, please read the privacy statements of the other websites you visit. For more information about hyperlinks, please see the [Terms of Use](https://web.archive.org/section/termsofuse/)[](https://web.archive.org/web/20091219213556id_/http://www.canon-asia.com/section/termsofuse/index.cfm?fuseaction=terms) posted elsewhere on our Canon Website.  
   
    
   
-We release Information when we believe release is appropriate to comply with law, to enforce or apply our [Terms of Use](https://web.archive.org/section/termsofuse/)[](https://web.archive.org/web/20090620055536id_/http%3A//www.canon-asia.com/termsofuse/index.cfm?fuseaction=terms) and other agreements, or to protect the rights, property, or safety of Canon, Canon Website users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.   
+We release Information when we believe release is appropriate to comply with law, to enforce or apply our [Terms of Use](https://web.archive.org/section/termsofuse/)[](https://web.archive.org/web/20091219213556id_/http://www.canon-asia.com/section/termsofuse/index.cfm?fuseaction=terms) and other agreements, or to protect the rights, property, or safety of Canon, Canon Website users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.   
   
 * * *  
   
