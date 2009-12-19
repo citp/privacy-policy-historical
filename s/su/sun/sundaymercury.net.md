@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundaymercury.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170517id_/http%3A//www.sundaymercury.net/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaymercury.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219014610id_/http%3A//www.sundaymercury.net/priv_statement) for the most accurate reproduction.*
 
 # Privacy statement - SundayMercury.net
 
