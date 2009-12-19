@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154920id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215508id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # RoadCyclingUK - Privacy Policy
 
@@ -27,4 +27,10 @@ If you are a member of this website, we may also permit third parties to use you
 
 You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to access and disclose individually identifiable information concerning your activities whilst using our web site, we shall do so. We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our web site, and that use is deemed by us inconsistent with these conditions.
 
-In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.
+In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
+  
+Is the RCUK redesign an improvement?  
+[Click here](https://web.archive.org/forum/forummessages.asp?dt=3&UTN=118103&V=8) to tell us what you think about it in the forum 
+
+Do you think spending money at an [online casino](http://www.gamblingplanet.org/) is a waste of time and cash? Would you ever consider signing up to play at one of the rooms?  
+[Click here](http://www.roadcyclinguk.com/forum/forummessages.asp?dt=4&UTN=118397&V=8&SP=) to discuss 
