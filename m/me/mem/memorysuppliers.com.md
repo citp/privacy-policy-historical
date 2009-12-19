@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182828id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133431id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.memorysuppliers.com)
+If you are visually impaired and are having difficulty navigating this site, please call our Customer Support line via our toll free number 800-979-9707.
 
-| 
-
-**AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
+ **AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
 
   
 
@@ -48,16 +46,8 @@ In order to most efficiently serve you, credit card transactions and order fulfi
   
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
 
-  
-_"This was my second order with MemorySuppliers and they continue to build my confidence in them. The ordering process went smoothly, the parts came exactly on time and they kept me informed of the progress of my order the entire time. Thanks._ " — Dr. Schultz, CA
-
-**Thank you for choosing MemorySuppliers.com.** We are a **service-based** company with a single priority: your complete satisfaction. We recently extended our [support and sales hours](http://www.memorysuppliers.com/contactus.html) to better serve our clients worldwide. Contact us **toll free at 800-979-9707** , via **Live Chat** or [email](mailto:sales@memorysuppliers.com).
-
-  
 | 
 
-[](https://web.archive.org/web/20090618182828id_/http%3A//www.memorysuppliers.com/clearance-deals.html)
-
-[](https://web.archive.org/web/20090618182828id_/http%3A//www.memorysuppliers.com/cuusbfldr.html)  
+[ ](https://web.archive.org/web/20091219133431id_/http%3A//www.memorysuppliers.com/giftguide.html)  
   
----|---|---
+---|---
