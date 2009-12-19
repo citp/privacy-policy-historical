@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615004808id_/http%3A//www.vetfriends.com/vetfriends.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219103249id_/http%3A//www.vetfriends.com/vetfriends.cfm) for the most accurate reproduction.*
 
-# Privacy Statement | VetFriends
+# VetFriends | Privacy Statement & Terms of Use for VetFriends.com
 
 **VetFriends Privacy Statement**
 
@@ -21,10 +21,6 @@ In order to use this website, a user must first complete the members' registrati
 A cookie is a piece of data stored on the user’s hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates.  For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.  If a user rejects the cookie, they will not have access to the members' section. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
 Some of our business partners use cookies on our site (for example, advertisers).  However, we have no access to or control over these cookies. 
-
-  
-**Sharing  
-**We will share aggregated demographic information with our partners and advertisers. This is _not linked to any personal information_ that can identify any individual person. 
 
   
 **Links  
@@ -61,7 +57,7 @@ Site and Service Updates
 
   
 **Choice/Opt-out  
-** Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by updating their member's profile in the members' section of VetFriends.com or [clicking here.](https://web.archive.org/web/20090615004808id_/http%3A//www.vetfriends.com/unsubscribe.cfm)
+** Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by updating their member's profile in the members' section of VetFriends.com or [clicking here.](https://web.archive.org/web/20091219103249id_/http%3A//www.vetfriends.com/unsubscribe.cfm)
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
