@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnakarachi.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192856id_/http%3A//www.apnakarachi.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2777%26Itemid%3D394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnakarachi.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033318id_/http%3A//www.apnakarachi.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2777%26Itemid%3D394) for the most accurate reproduction.*
 
 # Apnakarachi.com | Privacy Policy | Information, Use, Such, Collected, Any
 
