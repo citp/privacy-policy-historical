@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2008-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080323133920id_/http%3A//www.bizindia.net/site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219140205id_/http%3A//www.bizindia.net/Site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # BizIndia Magazine > Home ( DNN 3.3.7 )
 
@@ -44,4 +44,4 @@ BizIndia Magazine will occasionally update this Statement of Privacy to reflect 
 
 Contact Information
 
-BizIndia Magazine welcomes your comments regarding this Statement of Privacy. If you believe that BizIndia Magazine has not adhered to this Statement, please contact BizIndia Magazine at [jb@ijenis.com](mailto:jb@ijenis.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+BizIndia Magazine welcomes your comments regarding this Statement of Privacy. If you believe that BizIndia Magazine has not adhered to this Statement, please contact BizIndia Magazine at [prasad@pamten.com](mailto:prasad@pamten.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
