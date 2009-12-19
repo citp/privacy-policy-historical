@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627153302id_/http%3A//www.carbonfund.org/site/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219195956id_/http%3A//www.carbonfund.org/site/pages/privacy_policy) for the most accurate reproduction.*
 
 # None
 
@@ -14,7 +14,7 @@ Online donations are secure. When you make a donation we will collect the follow
 
 Carbonfund.org respects your privacy and will discontinue contacting you at your request, either written or oral.
 
-Contact us at: Carbonfund.org 1320 Fenwick Ave Suite 206 Silver Spring, MD 20910 USA [[info@carbonfund.org](mailto:info@carbonfund.org)](mailto:info@carbonfund.org)
+Contact us at: Carbonfund.org 1320 Fenwick Ln Suite 206 Silver Spring, MD 20910 USA [[info@carbonfund.org](mailto:info@carbonfund.org)](mailto:info@carbonfund.org)
 
 We do not share your personal information with any other organization, except for a third-party financial institution to process credit cards. The information sent to them is only to verify credit card numbers and process the order in a secure environment. We do not rent or share our mailing list. If you give a donation via one our partnerships, then your personal information is shared with the sponsoring partner and the third-party financial institution to process the credit card.
 
