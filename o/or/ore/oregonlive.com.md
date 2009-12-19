@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071238id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219011256id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # Private Policy - OregonLive.com
 
@@ -62,3 +62,5 @@ Privacy Policy Coordinator
 **Portland, OR 97205**
 
 **[Contact Us](https://web.archive.org/contactus/)**
+
+OregonLive.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 25 newspapers affiliated with [Advance Internet](http://www.advanceinternet.com/).
