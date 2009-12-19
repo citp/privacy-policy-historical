@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the keds.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619005136id_/http%3A//www.keds.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keds.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144832id_/http%3A//www.keds.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
 
-# Keds Shoes Official Site - The Complete Keds Collection - Champion, Green, Studio, Lifestyle & More
+# Keds Shoes Official Site - The Complete Keds Collection - Champion, Green, Custom
 
 **Privacy policy for Keds.com**
 
 Thank you for visiting keds.com, a Keds LLC Web site. Your privacy is important to us. We understand that when you choose to provide us with information about yourself, you trust us to act responsibly. This policy explains how we collect information from you and how we use it. Please read on for more details about our privacy practices.
 
-**What Information Does KedsŽ Collect?**
+**What Information Does Keds® Collect?**
 
 Keds does not collect personally identifiable information about individuals except when the information is knowingly provided. For example, when you upload a photo or video to our site, you voluntarily enter certain information. The types of personally identifiable information that may be collected on this site include: your state of residence and your email address.
 
