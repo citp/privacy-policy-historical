@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617083852id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219013719id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
 
 # View topic - NYFS Privacy Policy ny mets message boards forums mets minor league baseball discussion group
 
