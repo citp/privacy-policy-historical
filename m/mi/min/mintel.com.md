@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183030id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219132208id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Mintel International Group Ltd
 
