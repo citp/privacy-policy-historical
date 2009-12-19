@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052703id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130325id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
 
 # Modern Ghana Privacy
 
-Modern Ghana takes your privacy seriously. Please read the following to learn more about our privacy policy.   
+Modern Ghana takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+
 **What This Privacy Policy Covers**
 
   * This policy covers how Modern Ghana treats personal information that Modern Ghana collects and receives, including information related to your past use of Modern Ghana products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
@@ -10,8 +11,9 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
 
 
 
-**Information Collection and Use**   
-      **General**
+**Information Collection and Use**
+
+**General**
 
   * Modern Ghana collects personal information when you register with Modern Ghana, when you use Modern Ghana products or services, when you visit Modern Ghana pages or the pages of certain Modern Ghana partners, and when you enter promotions or newsletters. Modern Ghana may combine information about you that we have with information we obtain from business partners or other companies. 
   * When you register we ask for information such as your name, email address, birth date, gender, postal code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Modern Ghana and sign in to our services, you are not anonymous to us. 
@@ -21,7 +23,7 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
 
 
 
-      **Children**
+**Children**
 
   * When a child under age 18 attempts to register with Modern Ghana, we ask that he or she has a parent or guardian creates a Modern Ghana Account to obtain parental permission. 
   * Modern Ghana will not contact children under age 18 about special offers or for marketing purposes without a parent's permission. 
@@ -49,11 +51,13 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
   * Modern Ghana may set and access Modern Ghana cookies on your computer. 
   * Modern Ghana lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Modern Ghana's cookies. 
   * Modern Ghana uses web beacons to access Modern Ghana cookies inside and outside our network of web sites and in connection with Modern Ghana products and services. 
+  * Users may opt out of the use of cookies by visiting [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**   
-      **General**
+**Your Ability to Edit and Delete Your Account Information and Preferences**
+
+**General**
 
   * You can edit your Modern Ghana Account Information, including your marketing preferences, at any time. 
   * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
@@ -62,7 +66,7 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
 
 
 
-      **Children**
+**Children**
 
   * Parents can review, edit, and delete information relating to their child's Modern Ghana account using tools offered by Modern Ghana Accounts. 
   * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Modern Ghana Accounts can delete their child's account by signing into that child's account and then visiting our Account Deletion page. Please be aware that your information might possibly remain in our archived records after your account has been deleted. 
@@ -85,6 +89,6 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a feedback form or you can contact us at: [info@modernghana.com](https://web.archive.org/web/20090619052703id_/http%3A//www.modernghana.com/GhanaHome/mg_services/info@modernghana.com)
+  * If you have questions or suggestions, please complete a [feedback form.](https://web.archive.org/GhanaHome/mg_services/contactus.asp?menu_id=11&sub_menu_id=269)
 
 
