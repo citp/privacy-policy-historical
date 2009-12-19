@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522091408id_/http%3A//www.influxis.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215705id_/http%3A//www.influxis.com/other/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ We implement a variety of security measures to maintain the safety of your perso
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
 **Do we use cookies?**  
-Yes. Cookies are small tiles that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
 
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
