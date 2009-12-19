@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106211241id_/http%3A//www.adelaide.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144537id_/http%3A//www.adelaide.edu.au/privacy.html) for the most accurate reproduction.*
 
 # Conditions of Use | Privacy
-
-  
-
 
 This web site is administered by the University of Adelaide. The following provides an overview of how your privacy is protected during your visit.
 
