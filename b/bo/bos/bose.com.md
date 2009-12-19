@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060201id_/http%3A//www.bose.com/controller%3Furl%3D/customer_service/privacy/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219222323id_/http%3A//www.bose.com/controller%3Furl%3D/customer_service/privacy/privacy_security.jsp) for the most accurate reproduction.*
 
 # Your Privacy Rights - Bose Customer Service
 
@@ -64,12 +64,14 @@ We may also use an application known as a "web beacon." A web beacon is an elect
 
 
 
-In addition to our use of these applications, certain third parties and affiliates may set and access cookies on your computer, and use web beacons in conjunction with them. For example, third parties or affiliates may administer Bose banner advertising programs on non-Bose websites, or they may provide auditing, research or reporting. Their use of these applications is subject to their own privacy policies, not the Bose.com privacy policy. If you prefer to prevent these third parties and affiliates from setting and accessing cookies on your computer and using web beacons in conjunction with them, you may set your browser to block cookies.
+In addition to our use of these applications, certain third parties and affiliates may set and access cookies on your computer, and use web beacons in conjunction with them. For example, third parties or affiliates may administer Bose banner advertising programs on non-Bose websites, or they may provide auditing, research or reporting. Specifically, a third-party provider may collect information to target some Bose advertisements. For information about this practice, including privacy and confidentiality, visit the [ Network Advertising Initiative website](http://www.networkadvertising.org/index.asp). 
+
+The use of any applications utilized by third parties and affiliates is subject to their own privacy policies, not the Bose.com privacy policy. If you prefer to prevent third parties and affiliates from setting and accessing cookies on your computer, and using web beacons in conjunction with them, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Please note: To complete a purchase on our website, you’ll need to accept cookies sent by our site. If you choose not to accept our cookies, please call us at 1-800-999 2673 to place your order by phone. Blocking our cookies may also impact the usability of other features on Bose.com. 
 
 The Bose® Preferred Credit Card  
-The Bose® Preferred Credit Card is offered and administered by HSBC Bank Nevada, N.A. The HSBC Bank Nevada, N.A. Privacy Statement applies to the information you submit as part of your credit card application and to certain ongoing interactions you may have with HSBC Bank Nevada, N.A., such as your payment history. We urge you to carefully read the HSBC Bank Nevada, N.A. Privacy Statement on the HSBC Bank Nevada, N.A. website. It may contain terms and conditions, privacy provisions, security information or other provisions that differ from Bose policies. 
+The Bose® Preferred Credit Card is offered and administered by HSBC Bank Nevada, N.A. The HSBC Bank Nevada, N.A. Privacy Statement applies to the information you submit as part of your credit card application and to certain ongoing interactions you may have with HSBC Bank Nevada, N.A., such as your payment history. We urge you to carefully read the [HSBC Bank Nevada, N.A. Privacy Statement](https://www.hrsaccount.com/hrs/ecare;?cmd_Redirect=PrivacyStatement&org=000) on the HSBC Bank Nevada, N.A. website. It may contain terms and conditions, privacy provisions, security information or other provisions that differ from Bose policies. 
 
 Children's privacy  
 Bose.com is a general-audience website. We do not knowingly collect personal information from children under the age of 13. 
