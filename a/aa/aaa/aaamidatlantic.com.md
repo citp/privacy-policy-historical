@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174449id_/http%3A//www.aaamidatlantic.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131827id_/http%3A//www.aaamidatlantic.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AAA - AAA Mid-Atlantic
 
@@ -14,6 +14,7 @@ AAA Mid-Atlantic (and its affiliated insurance companies, insurance agency and t
   * Information Collected from Non-Website Transactions with You
   * We Safeguard Your Information
   * Linking from AAA.com to Other Websites
+  * Our use of cookies online
 
 
 
@@ -57,6 +58,25 @@ Return to Top
 
 ## Linking From AAA.com to Other Websites
 
-Please remember that when you use a link to go from the AAA Mid-Atlantic or AAA World web site that this privacy policy is no longer in effect. Your browsing, use of email address and interaction on any other website, including sites, which have a link on this site, are subject to the terms, conditions, and privacy policies of that site. Please read over those terms, conditions and policies before proceeding.
+Please remember that when you use a link to go away from the AAA Mid-Atlantic or AAA World web site,,our privacy policy is no longer in effect. Your browsing, use or disclosure of your email address and other personal information, and interaction on any other website, including sites to which you can link from our site, are subject to the terms, conditions, and privacy policies of those sites. Please read those privacy policies carefully before proceeding.
+
+## Our use of cookies online
+
+What are cookies? Cookies are small pieces of information that a Web site transfers to your computer's hard drive for record-keeping and other purposes. Cookies make navigating the web easier for you by saving your registration, passwords, and references while you're at a site. By using cookies, we can serve you better since they help us understand what information interests you. We can then provide you more of the goods and services you like and want from us and our partners.
+
+The use of cookies is an industry standard - most major Web sites use them. Cookies come in two types that might be used on our Web site: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser in the "Cookies" folder on your computer and remains in this folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is help temporarily in your computer's memory and disappears after you close your browser or shut off your computer.
+
+ **Here are some examples of how we use cookies:**
+
+A cookie lets our computers remember that you've registered, which allows us to speed up your future activities at our Web site. Using cookies to do this record keeping saves you the trouble of entering information over and over again. We also use cookies to estimate the number of visitors to our Web site, track visits to and sales at the sites referenced on our Web site, and analyze our members' and customers' visiting patterns. Similarly, cookies help us tailor our product and service offerings, and those of our partners, to suit your personal interests.
+
+We do not use cookies to store any of your personal or financial information on your computer. Also, we do not use cookies to retrieve information from your computer that was not originally provided by you or provided by your browser in a visit to our Web site. In addition, we do not use cookies to track other sites that you visit on the Internet.
+
+We permit other approved companies to use a cookie when you visit our Web site to help us gather data to improve your shopping experience. Some of these approved companies may also use a cookie to show you information on products and services which might interest you. The use of such cookies sent by third-party servers is standard on the Internet. As mentioned above, we only share non-personally identifiable information in this way so these partners may bring you targeted offers. This information can be associated with their cookies but will not include personally identifiable information such as your name or address. You may review our partners' privacy policies when visiting their sites.
+
+Once you visit or link to a partner's Web site, their sites may use cookies. We do not control those cookies and they are not subject or our cookies policy. 
+
+**What to do if you do not want cookies used:**  
+If you do not want cookies used in connection with your visit, or if you wish to limit their use, you can generally adjust your browser settings on your computer. Most internet browsers allow you to set your own preferences for use of cookies. Please see the cookie security options in your browser and change them to suit your preferences. For example, you typically can either refuse to accept cookies or you can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, if you decline cookies, you may have difficulty navigating our Web site, which could adversely impact your AAA on-line experience.
 
 Return to Top
