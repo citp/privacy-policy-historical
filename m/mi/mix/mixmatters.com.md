@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2008-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080411000629id_/http%3A//www.mixmatters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032921id_/http%3A//www.mixmatters.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -16,7 +16,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and .
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, ensure that visitors are not repeatedly sent the same banner ads.
 
@@ -29,15 +29,29 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-[google.com](http://www.google.com/privacy.html)  
-[amazon.com  
-](http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-7568731-9590244)[contextweb.com  
-](http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-7568731-9590244)[chitica.com  
-](http://chitika.com/privacy_policy.php)[linkshare.com  
-](http://www.linkshare.com/company/privacy.shtml)[azoogleads.com  
-](https://www.azoogleads.com/corp/about/privacy.php)[maxbounty.com  
-](http://www.maxbounty.com/privacy.cfm)[quantcast.com  
-](http://www.quantcast.com/privacy.jsp)[shareasale.com](http://www.shareasale.com/w3c/policy.html)
+
+
+  * [google.com. ](http://www.google.com/privacy.html)Google, as a third party vendor, uses cookies to serve ads on mixmatters.com. Google's use of the DART cookie enables it to serve ads to mixmatters.com users based on their visit to mixmatters.com site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * [amazon.com](http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-7568731-9590244)
+  * [chitica.com  
+](http://chitika.com/privacy_policy.php)
+  * [linkshare.com  
+](http://www.linkshare.com/company/privacy.shtml)
+  * [azoogleads.com  
+](https://www.azoogleads.com/corp/about/privacy.php)
+  * [maxbounty.com  
+](http://www.maxbounty.com/privacy.cfm)
+  * [quantcast.com](http://www.quantcast.com/privacy.jsp)[  
+](https://direct.rightmedia.com/)
+  * [direct.rightmedia.com  
+](http://www.rightmedia.com/content/company/privacy-policy/6,604.php)
+  * [tribalfusion.com  
+](http://www.tribalfusion.com/TribalFusion/privacy.html)
+  * [vizidirect.com  
+](http://www.vizidirect.com/privacy.html)
+  * [jambovideonetwork.com](http://www.vizidirect.com/privacy.html)
+
+
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
@@ -49,4 +63,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
 
-[Back](https://web.archive.org/web/20080411000629id_/http%3A//www.mixmatters.com/index.html)
+[Back](https://web.archive.org/web/20091219032921id_/http%3A//www.mixmatters.com/index.html)
