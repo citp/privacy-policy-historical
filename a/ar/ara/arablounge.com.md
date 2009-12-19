@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arablounge.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193305id_/http%3A//arablounge.com/personals/privacy.cfm%3FsiteIDD%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arablounge.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219221318id_/http%3A//www.arablounge.com/personals/privacy.cfm%3FsiteIDD%3D45) for the most accurate reproduction.*
 
 # ArabLounge.com - Safe Online Dating and Friendship Site for Arab Men and Women
 
