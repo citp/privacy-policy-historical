@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064819id_/http%3A//www.mytruspot.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219162941id_/http%3A//www.mytruspot.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Tru Spot! - The African Social Music Network | Free African Streaming Music , Find African music videos, African internet radio, African music downloads and all the latest African music news and information on Tru Spot!
+# Tru Spot! - Listen to free music by Africans with internet radio and the largest African music catalogue online
 
-## Privacy Policy
+Privacy Policy
 
 Tru Spot! values your privacy and protect the information we receive from you, accordingly we have set out this policy that states clearly how we use and store personal information. We treat both privacy and security as a priority and make every effort to ensure that all the information provided by you is protected.   
 Although we endeavour to keep you up-to-date on all changes made to the website, this Policy may be amended from time to time without notice to you. It is your responsibility to read the Policy carefully and review any changes that may have been made. 
