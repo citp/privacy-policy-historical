@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509193330id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219102521id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
 
 # UK Net Guide - your online guide to the best of the web: Privacy Policy
 
