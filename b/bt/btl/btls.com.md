@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the btls.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105941id_/http%3A//www.btls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btls.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033127id_/http%3A//www.btls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bubba the Love Sponge® Show
 
-The [Bubba](http://www.btls.com/show-staff/bubba "Bubba") the Love Sponge® Show & BTLS.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Bubba the Love Sponge® Show & BTLS.com.
+The Bubba the Love Sponge® Show & BTLS.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Bubba the Love Sponge® Show & BTLS.com.
 
 The Bubba the Love Sponge® Show & BTLS.com is committed to protecting your personal privacy. Our Five Principles of Privacy summarize and clarify that commitment–how we safeguard your privacy, how we treat personal information, and what choices you have. We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure.
 
