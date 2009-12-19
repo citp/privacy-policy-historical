@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417062727id_/http%3A//www.worldnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219025907id_/http%3A//www.worldnow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
-# WorldNow - Advertising, Technology and Streaming Video Solutions: This Web Site’s Privacy Policy
+# This Web Site’s Privacy Policy - WorldNow - Advertising, Technology and Streaming Video Solutions:
 
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
