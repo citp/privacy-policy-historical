@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182531id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131816id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,9 @@ At EstateSales.NET we care about providing you with tools and information to man
     
      
             EstateSales.NET
-            P.O. Box 150
-            Frohna, MO 63748
+            113 West Main St
+            Suite #8
+            Jackson, MO 63755
             E-mail: [support@EstateSales.NET](mailto:support@EstateSales.NET)
             Phone: (888) 653-8468 
     	
@@ -23,8 +24,8 @@ We collect the following types of information:
   * Traditional contact information such as mailing address, phone number, and fax number.
   * Internet contact information such as e-mail addresses.
   * Web pages visited, click stream data, and other navigation information.
-  * Non-financial identification information, such as username and password combinations. (This only applies to the estate sale companies listing their sales with us.)
-  * Estate Sale companies provide us with estate sale information and financial information.
+  * Non-financial identification information, such as username and password combinations. 
+  * Estate Sale companies and some individuals provide us with estate sale information and financial information.
 
 
 
@@ -44,9 +45,11 @@ We collect the information for the following purposes:
 **Who will receive the information?**  
 The information will be shared with the following parties: 
 
-  * Our internal staff and our direct agents, such as a printing bureau. **(We don't want our information sold or shared so we don't sell or share yours.)**
+  * Our internal staff and our direct agents, such as a printing bureau.
 
 
+
+We do not want our own information shared or sold, so we do not do that with your information. We will never sell, rent, give away, or share your information. 
 
 **How long will the information be kept?**  
 
@@ -57,7 +60,7 @@ The information will be shared with the following parties:
 
 
 **Can I review my information?**  
-Our website allows you to review all the information we keep about you. This is done by clicking on the link in the estate sale e-mail that goes out once a week. 
+Our website allows you to review the contact information we keep about you. This is done by clicking on the link in the estate sale e-mail or by logging in on the site under Subscribers or Admin (depending on whether or not you are a company). 
 
 **Can I opt-out at any time?**  
 Yes, you can unsubscribe at any time by one of the following methods. We will normally unsubscribe your address within 30 minutes. It can take up to one business day though. 
