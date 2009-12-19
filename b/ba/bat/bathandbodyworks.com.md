@@ -1,130 +1,218 @@
-> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014254id_/http%3A//www.bathandbodyworks.com/helpdesk/index.jsp%3Fdisplay%3Dcorp%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213850id_/http%3A//www.bathandbodyworks.com/helpdesk/index.jsp%3Fdisplay%3Dcorp%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # Bath & Body Works
 
 |  | 
 
-This privacy policy is intended to assist you in understanding what information we gather about you when you visit this Web site, how we use that information, and the safeguards we have in place for the information.
+This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. This policy applies only to personal information collected through the Web site, microsites, and mobile sites of Bath & Body Works that display or link to this policy. By "personal information" we mean your identifying information (like name, home address, and email address), and possibly descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Bath & Body Works as "we," "us," or "our" throughout this privacy policy. 
 
-This Privacy Policy applies only to the information collected online by BathandBodyWorks.com.
+This privacy policy answers these questions: 
 
-  * WHAT TYPE OF INFORMATION DOES BATHANDBODYWORKS.COM COLLECT ONLINE ?
-  * HOW DOES BATHANDBODYWORKS.COM USE THE INFORMATION COLLECTED ONLINE?
-  * BATH AND BODY WORKS EMAIL
-  * INFORMATION WE SHARE WITH THIRD PARTIES
-  * VISITORS FROM OUTSIDE THE U.S.
-  * COOKIES
-  * UPDATING YOUR PERSONAL INFORMATION
-  * PRIVACY OF CHILDREN ON OUR WEB SITE
-  * LINKS TO OTHER WEB SITES AND SERVICES
-  * UPDATES TO PRIVACY STATEMENT
-  * QUESTIONS OR CONCERNS
-  * SECURITY STATEMENT
-
+  * What personal information is collected at our Web site, and how is it used?
+  * How does this site interact with third-party Web sites and content?
+  * What information do we share with third parties (or what information may they access because of the services they provide to us)?
+  * What choices do you have over how your information is used?
+  * Does our policy differ for visitors from outside the U.S.?
+  * How may you access and update your personal information?
+  * How do we address children's privacy?
+  * How do we secure your information on our site?
+  * Whom do you contact with questions or concerns?
+  * Who is responsible for administering this policy?
+  * When was this policy last updated?
 
 
-_1\. General Browsing:_
 
-BathandBodyWorks.com gathers navigational information about where visitors go on our Web site and information about the technical efficiencies of our Web site and services (i.e., time to connect to our Web site, time to download pages, etc.). This information allows us to see which areas of our Web site are most visited and helps us better understand our visitors' experiences at BathandBodyWorks.com. With the navigational information, we can improve the quality of our Web site by recognizing and delivering more of the features, areas and services our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our Web site (such as the time of a visitor's last visit to a page on our site).
+**WHAT PERSONAL INFORMATION IS COLLECTED AT OUR WEB SITE AND HOW IS IT USED?**
 
-_2\. Collection of Personal Information:_
+**      1\. Information Collected Directly from You and Others through this Site**
 
-BathandBodyWorks.com (and its microsites) may ask you to provide personal information when you establish or update a BathandBodyWorks.com Account, sign up for Bath and Body Works email, enter a contest, participate in a survey, submit information to be posted on the website if compliant with rules and terms of use (such as product reviews, Customer Conversation request or answer, Stories and related photos or video), shop online (including the purchase of an Egift card), register to receive a free gift, check the status of an order, contact us, purchase and send a gift card or an Egift card and/or create or send a wish list, gift reminder, or product description.
+We collect personal information directly from you to do all the things typically associated with electronic and mobile commerce Web sites. Examples of the information we collect include name, address, telephone number, mobile phone number, email address, personal preferences, credit card number, purchase and ordering information, demographical information, and sizing information.
 
-Categories of information collected online include name, billing and shipping address, email address, recipient's name, phone number and email address, order information, telephone number, credit card information, gift card information, your experience on this Web site or with our products, your photograph or video, your questions, responses, messages, reminders or stories you create. If you create a BathandBodyWorks.com Account, you will be required to provide your email address and a password and may provide additional personal information such as name, billing and shipping address and credit card number.
+This information is collected at various places: for instance, when you check out with your online order; subscribe to mailers, email offers, and mobile messaging offers; participate in surveys, contests, or sweepstakes; or interact with special-event or program offers. 
 
-We will use the services of YAHOO! mapping if you want specific directions to one of our stores. If you use the store locator on our Web site to obtain driving directions, you will be providing your mailing address to our service provider. 
+We collect information about you. And, when you provide it, we collect information about those you know. For example, we collect your gift recipient's contact information to process your gift orders. We use this information to do things like: 
 
-If you request information about corporate sales, we will collect your name, company name, email address, postal address, telephone number and any comments you might have.
+  * Process your online orders. 
+  * Open an online account at your request.
+  * Personalize your online experience with content and offers that are tailored to your interests. 
+  * Provide customer service, whether it's responding to a request or following up on an order.
+  * Include you in surveys and contests.
+  * Facilitate networks of online social activity centered around our products and services.
+  * Manage and develop Bath & Body Works' business and operations.
+  * Enable you to interact with third-party content service providers, whether by linking to their sites, viewing their content within our Web environment, or by viewing our content within their Web environment.
+  * Market our products and services (for instance, by adding you to our email or mailing list when you make an online purchase).
 
-BACK TO TOP
 
-BathandBodyWorks.com uses the personal information we collect from you: (i) to deliver products that you have ordered; (ii) to process your request and send the requested gift card(s) or Egift card(s); (iii) to fulfill requests that you have created; (iv) to contact you or the product recipient(s) in the event of order or delivery difficulties, for verification purposes; (v) to respond to your inquiries; (vi) to develop our products and deliver information to you about our services, products, promotions or Web site, including (if you have not opted-out) adding you to the Bath and Body Works email list and the Bath and Body Works mailing list; and (vii) to enter you in online contests and sweepstakes that may be offered from time to time.
 
-If you have a BathandBodyWorks.com Account you may save personal information in that Account, such as name, shipping and billing addresses, and credit card information, and we will access this saved information to make your shopping quicker and easier. We require you to create and/or access your Account to use various services on the Web site, such as Order Status, Wish List, and creating a product review. Because you must create or access your BathandBodyWorks.com Account prior to using these services, it is possible that we could associate you with the information you provide through these services.
+We enable you to post your content, such as comments, product reviews, images, and other content on sites like our Customer Conversations and Stories. This content may include your comments, product reviews, audio, video, and similar content. If your content complies with our rules and terms of use, any portion of it may be published on our Web site(s), and in our stores, emails, online marketing, mailers, and other media. This published content could identify details concerning you.
 
-The information you include in a Wish List, product review, Customer Conversation or Story may be used by us to send you information about the types of products in which you have indicated an interest. The information you provide when using the Order Status feature on our Web site is only used to assist you in tracking your shopping order(s). Because some of our surveys require you to provide self-identifying information, we may use information you provide to us in survey responses to enhance and personalize our product offerings to you.
+**      2\. Information We Observe or Collect through Technology**
 
-If you purchase a gift card after August 9, 2004, we will add your email address to the BathandBodyWorks.com email marketing list, which is used as noted below in "Bath and Body Works Email". If you purchased a gift card prior to August 9, 2004 and indicated when ordering your gift card(s) that you would like to receive emails from BathandBodyWorks.com regarding product information and sales alerts, you were added to our email marketing list. If you purchase an Egift card, we will add your name and email address to the BathandBodyWorks.com email marketing list. If you have us send an Egift card to another person, we will not add the recipient's information to our email marketing list. However, it is possible that the recipient has separately signed up for email or purchased from us and is included in the BathandBodyWorks.com email marketing list.
+**           a. Navigational Information**
 
-BACK TO TOP
+When you visit this Web site, we collect navigational information, such as browser type and version, service-provider identification, IP address, the site from which you came, and the site to which you navigate. Navigational information is largely anonymous in the sense that it doesn't contain your name, address, phone number, email address or other information that directly identifies you. However, we may associate this navigational information with your personal information if you provide it. 
 
-Bath and Body Works email allows you to receive exclusive information about special offers, media events, new products and much more. If you're not already registered, simply complete our [sign up](http://www.bathandbodyworks.com/emailSignup/index.jsp) form to receive these special messages. If at any time you would like to stop future delivery of Bath and Body Works email, please follow the removal instructions located at the bottom of each message. Asking to be removed from Bath and Body Works email will not prevent you from receiving email communications relating to any online order you place at BathandBodyWorks.com, requests to participate in surveys about our products or other operational email communications. 
+**           b. Cookies and Clear gifs **
 
-BathandBodyWorks.com does not sell, rent or trade your email address to unaffiliated companies (those companies in which we or our parent have no ownership interest). We may share our email marketing list (and, thus, your email address), with our affiliated "sister" companies (for example, Express, The Limited, Victoria's Secret, etc.). Our sister companies' emails, like ours, provide you with the opportunity to opt-out of future emails from them. We may occasionally provide you with the opportunity on our site to opt-in to receive email messages from unaffiliated third parties. If you do opt-in we will share your email address with the specific unaffiliated third party with whom you have opted-in to receive email messages
+To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer. It's used to do things like see how you navigate our Web site, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, personalize your online experience, and personalize offers to you based on your unique tastes and purchase history. 
 
-We will use third parties to help us provide services to you and to give us comparative information on the performance of our site and our microsites. These services include such things as operating our Web site, monitoring site activity, conducting surveys, processing shopping, gift card and Egift card orders, maintaining our database, processing product reviews, Customer Conversations and Stories (including photographs and videos submitted with Stories) and administering and monitoring emails, surveys, drawings or contests. Third party service providers may also assist us in offering, running and monitoring microsites where you will provide personal information about yourself and possibly about your friends. The microsites may also include a means for you to access and download information from your existing email address books through the service provider so you can more easily share our offers with your friends. Third parties assisting us with microsites may only use personal information collected on those sites for the purpose of providing services for us and you.
+We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family; and they help deliver a more personalized online experience. 
 
-BathandBodyWorks.com may use third parties or on its own conduct various surveys to better understand your experience with our Web site. In some cases you will provide self-identifying information, in which case we would then be able to associate your responses to you. In other cases we will only receive the aggregate results (not personally identifiable) from these third parties. If you participate in an online survey at our Web site that is conducted by a third party provider, you may be asked to download a small software application and the information you provide may be subject to the third party provider's linked privacy policy. You should read any such linked privacy policy before you participate in the online survey. You may also choose to not participate in the online surveys with linked third party privacy policies. 
+Overall, these technologies may be used to help us see which of our interactive experiences online users like most: for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites; and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. 
 
-If you choose to write a product review, submit an inquiry or response for a Customer Conversation or submit a Story (along with a photograph and video) you will be providing it to a third party who we use to process these submissions. Product reviews, inquiries and responses to Customer Conversations and Stories (and photographs and videos, if submitted) that comply with the Review Rules may be published on this Web site, and some may be published in our stores, emails, online marketing and/or catalogs. Published reviews, Conversations and Stories (and photographs and videos, if submitted) will identify the author's nickname, location, responses and/or images in photographs or videos (if submitted by you and compliant with the rules and terms of use). 
+Cookies and clear gifs also allow us to associate your online navigational or transactional information with any personal information you provide (such as name, address, phone number, and email address). We'll associate this information only for our purposes: to deliver products and services to you; to improve our business; to transact business; and to market our products and services through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end-result is a more personalized experience that's tailored to your needs and tastes. 
 
-If you sign up for anything on our Web site where you provide your name, mailing address and phone number, such information will be added to a database. In addition, if you purchase a product or an Egift card on our Web site, the information you provide (for example, name, mailing address, phone, credit card number) will be added to the same database. If you purchase a gift card on our Web site after May 14, 2004, the information you provide (for example, name, mailing address, credit card number) will be added to the same database. The information in this database is used to provide names and mailing addresses to other companies, sometimes categorized by purchase information. Our affiliated companies (for example, Express, The Limited, Victoria's Secret, etc.) also have access to this database. If you would prefer that we not share your name and mailing address with unaffiliated companies (other than third party service providers), please call us at 800-887-2298. 
+**      3\. Information Others Observe or Collect through Technology **
 
-There is a possibility that Bath and Body Works could merge with, acquire, or be acquired by another business entity. If such an action occurs, some or all of the personal information collected about you would be shared with this entity, as well as retained by Bath and Body Works. 
+Third-party service providers help us analyze our visitors' site and purchase preferences, and may help us deliver ads to you about our products through banner ads when you visit other web sites (often referred to as "online network advertising"). The following provides more information about these service providers and the choices you have with respect to their services.
 
-You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site or the public. 
+**           a. Analysis **
 
-BACK TO TOP
+We contract with analytics companies to better understand your use of our Web sites, and Web capabilities like embeddable widgets. They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology. 
 
-If you are visiting BathandBodyWorks.com from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you provide to BathandBodyWorks.com will be maintained in our Web servers and/or internal systems located within the U.S., and protected as explained in this privacy policy. 
+**           b. Advertising **
 
-  
-BACK TO TOP
-
-_1\. What are cookies and how do we use them on our Web site?_
-
-BathandBodyWorks.com uses a browser feature known as a cookie. A cookie is a small data file that is stored by your Web browser on your computer. Cookies are typically stored on your computer's hard drive and are used by BathandBodyWorks.com to help track clicks and pass information as you go through the pages within our Web site. We may also use cookies to tell us whether BathandBodyWorks.com has been previously visited by you or someone using your computer and to assist in the administration of your use of features and programs on our site. 
-
-We also use cookies and a technology known as clear gifs which are typically stored in emails to help us confirm your receipt of, and response to, our emails and to provide you a more personalized experience. If you elect to sign up to participate in the online features offered at this Web site, enter an online contest, or purchase products, a gift card or an Egift card, cookies might allow us to associate your Web site navigational information from previous browsing visits with personal information you provide at our site. 
-
-_2\. Do we share information from cookies with third parties?_
-
-After September 1, 2004 we may share non-transactional behavioral data collected through the use of cookies with our sister companies, such as Express, The Limited, and Victoria's Secret.
-
-_3\. How do third parties use cookies on our site?_
-
-We carefully select third party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit and when you visit BathandBodyWorks.com. These selected companies may use information (not including your name, address, credit card information, email address, or telephone number) about your choice to visit and your visits to our site and other Web sites to provide advertisements about Bath and Body Works' products and services on this and other Web sites. These selected companies also provide information to us which we use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes. If you would like more information about this practice and to know your choices about no longer having information from these third party cookies used by these companies or provided to us, [click here.](http://www.networkadvertising.org/consumer/opt_out.asp)
-
-Third party service providers who assist us in running and monitoring microsites will use cookies on these microsites and pixel tags in the emails sent from the microsites to assist us in conducting and monitoring the effectiveness of our marketing campaigns and, in the future, to possibly provide you with enhanced features and content. Cookies and pixel tags will also be used by these third parties to monitor and provide information about participation in sweepstakes or events promoted on our microsites to us and the friend who provided you the connection to the microsite in the following situations: if you receive an invitation to such a sweepstakes or event from a friend and accept the invitation, or if you click on a link located on a friend's social networking page that takes you to a sweepstakes or event on one of our microsites. 
-
-Coremetrics: We have also selected a company, Coremetrics, that will assist us in better understanding your use of our site. Coremetrics will place cookies on your computer to collect information on our behalf. The collection of data on our site by Coremetrics is done through first-party data collection. Therefore, blocking cookies served from third party domains will not block these first-party Coremetrics cookies. The information that is collected through these cookies educates us on such things as search engine referral, how you navigate around our site, traffic driven by banner ads, responses to email, unique visitor identification, and product browsing and purchasing information. BathandBodyWorks.com does not allow Coremetrics to collect credit card, username or password information. Coremetrics analyzes the information it collects on our behalf and returns it back to BathandBodyWorks.com through a secure Web connection. The information and analysis will be used to assist us in better understanding your interests in our Web site and to better serve those interests, including providing emails aimed at interests you expressed on our site. Other than possibly allowing use of collected data on an aggregate basis (thus, not associated with any individual), Coremetrics is contractually prohibited from using our data for any other purposes or match it against any other information in its possession. Coremetrics is required to maintain all information collected and its analysis in confidence.
-
-As a visitor to BathandBodyWorks.com, you have the option to deactivate the ability of Coremetrics to analyze your browsing behavior on our site or when our site sends you product offers by email. You may also choose to continue to benefit from the improved experience which the Coremetrics analysis allows us to provide to you, but maintain anonymity. If you delete your cookies, you will need to opt-out again. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, [click here.](https://web.archive.org/web/20081216014254id_/http%3A//www.bathandbodyworks.com/optout/cmoptout.html)
+We contract with third-party advertising companies that, in turn, collect non-personally identifying information by placing cookies on your browser when you visit us here. These companies may use information (not including your name, address, credit card information, e-mail address, or telephone number) about your visit to deliver our ads on this and other Web sites through their online advertising networks. These companies also provide this information to us which we, in turn, use to gauge how effective our ads are. If you'd like more information about how online network advertising works and what your choices are for the information that's collected via these third-party cookies, please see What Choices do you have Over how Your Information is Used?
 
 BACK TO TOP
 
-We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify information you have created in Your Account, including billing and shipping information, by logging into Your Account.
+**HOW DOES THIS WEB SITE INTERACT WITH THIRD-PARTY WEB SITES AND CONTENT?**
+
+We may enable you to navigate to third-party sites and services, or otherwise display third-party content. We do this for your convenience. We don't endorse, or generally have any affiliation with, these third parties. And we don't control and aren't responsible for their Web practices. Whether their content appears within our Web environment (like a map frame), or you leave our Web site for another site to view it, those service provider's terms, conditions, and privacy policies govern your online experience (unless there's a conspicuously posted statement by us that says otherwise). Please view their terms of service and privacy policies if you have any question about their practices.
+
+Here's a partial list of the sites or content of these third parties: 
+
+**      1\. Interactive Maps **
+
+We may facilitate easy access to the online maps of content providers like Google, Microsoft, and Yahoo! There you can get quick location, driving, and contact information for our stores. 
+
+**      2\. Sweepstakes, Contests, and Survey Sites**
+
+We may rely on the expertise of third-party service providers to run sweepstakes, contests, and surveys. Navigation to these sites may be seamless so that it appears you're still in our Web site environment. In these cases, the third-party's privacy policy may apply to any personal information you provide in connection with the event. So please take note of who's running the event in question; and the terms, conditions, and policies that apply. 
+
+**      3\. Social Networking or Other User-Generated-Content Sites, and Other Websites**
+
+We may at times facilitate easy access to third-party sites, like social networking sites and other sites that host user-generated content. This may include easy click-through access or even "single-sign on" to these sites. The third-party's privacy policy applies to any personal information you provide at these sites. 
+
+**      4\. Third-Party Rewards or Membership Programs**
+
+We may interact with certain unrelated companies that offer their customers memberships to participate in programs, which may include rewards for purchases from us. If you become a member of one of these programs or purchase something from us at this Web site through such a program, we may provide the company administering the membership program enough information about you or your purchase (like contact information, transaction date, transaction amount, and order number), to enable it to honor your membership. 
+
+We are not responsible for the privacy practices of the companies sponsoring these membership programs. Their terms, conditions, and policies apply to any information that's provided to them to further their programs. 
 
 BACK TO TOP
 
-To ensure compliance with federal law, BathandBodyWorks.com does not knowingly collect or maintain information provided by children under the age of 13.
+**WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES OR AFFILIATES (OR WHAT INFORMATION MAY THEY ACCESS BECAUSE OF THE SERVICES THEY PROVIDE TO US)?**
+
+**      1\. Our Affiliates**
+
+We may also share the information described in this policy, like postal and email address, customer preferences, and purchase history within our corporate family so that our affiliates may market to you. Our affiliates include Beauty Avenues, Inc., C.O. Bigelow, Henri Bendel, the La Senza family of brands (including La Senza Girl, La Senza Express, and La Senza Spirit), MAST Industries, Inc., Slatkin & Co., the Victoria's Secret family of brands (including Victoria's Secret Beauty, Victoria's Secret Pink, and Victoria's Secret Sport) and White Barn Candle. 
+
+**      2\. Contractors**
+
+We use third-party "back-office" contractors to help handle parts of our business because of their expertise, resources, or scale. They help us do things like fulfill orders, process payments, monitor site activity, maintain databases, administer and monitor emails, administer and send mobile messages, and provide consulting services.
+
+Contractors may also assist us in hosting microsites and mobile Web sites where you may provide personal information about you and others you know; and where they may observe information about you in the same way as described above (see What Personal Information Is Collected At Our Web Site, and How Is It Used?). 
+
+**      3\. Other Marketers **
+
+We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers on their products and services. If you don't want this information shared with these merchants and exchanges, please [click here](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact&isStoremanDriven=yes&stillHaveQuestion=yes). 
+
+**      4\. Law Enforcement and Emergency Response**
+
+We may disclose specific information about our Web-site visitors if we have a good-faith belief that it's necessary or authorized under the law to protect our customers, the public, or our business.
+
+**      5\. Sale or Merger**
+
+In the event we sell or transfer all or a portion of our business assets, consumer information may be one of the business assets that are transferred as part of the transaction.
 
 BACK TO TOP
 
-For your convenience, our Web site may contain links to other Web sites. BathandBodyWorks.com is not responsible for the privacy practices, advertising, products or the content of such Web sites. Links that appear on BathandBodyWorks.com should not necessarily be deemed to imply that BathandBodyWorks.com endorses or has any affiliation with the linked Web sites. We encourage you to review the separate privacy policies of each site you visit.
+**WHAT CHOICES DO YOU HAVE OVER HOW YOUR INFORMATION IS USED?**
 
-We have provided a link to [LimitedBrands.com](http://limitedbrands.com/index.jsp) (our parent company) to provide you with employment opportunities with Bath and Body Works. If you plan to provide information at this LimitedBrands.com site, you should review the separate privacy policy on that site.
+**      1\. Email**
+
+If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message This will stop future email offers from us, but won't stop operational or transactional messages such as email confirmations of your online orders, or customer service communications. You may also [click here](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact&isStoremanDriven=yes&stillHaveQuestion=yes) or call us at 1-800-756-5005.
+
+We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your e-mail address with the specific third party with which you have opted in. Please review their privacy policies to see how they treat your personal information.
+
+**      2\. Mobile Messaging**
+
+If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message. You may also [click here](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact&isStoremanDriven=yes&stillHaveQuestion=yes) or call us at 1-800-756-5005.
+
+**      3\. Postal Mailers**
+
+If you'd like to specify your preferences for offers by postal mail, simply follow the instructions on each catalog, or call us at 1-800-395-1001.
+
+**      4\. Cookies, Clear Gifs, and Online Network Advertising**
+
+You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser's instructions on how to block and clear cookies. Note that blocking cookies may not block the "first-party" cookies that are placed on your computer when you visit this site. By first-party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our site (as opposed to ads on an online advertising network of third-party Web sites). Clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Web sites rely on their cookies to provide you with services or features that you have requested or expect.
+
+If you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (you'll leave this site for a centrally managed online site where you can specify your preference) 
+
+**      5\. Other Marketers**
+
+If you don't want your basic contact and purchase information shared with other marketers (other than our affiliates), you may request a third-party direct marketing opt-out form. Contact us at [bbwrequest@bbw.com](mailto:bbwrequest@bbw.com) or Bath & Body Works, P.O. Box 183025, Columbus, OH 43218-3025, US, and we'll send you a form which you may complete and return to opt out of any such marketing.
+
+**      6\. Our Affiliates **
+
+If you would like to request that our affiliates do not use your name, postal address, email address and purchase information for marketing purposes, please contact us at 1-800-395-1001 to make a request. 
 
 BACK TO TOP
 
-Please [click here](https://web.archive.org/graphics/storeman/bbw/BBW_privacy_policy_Oct08_updates.pdf) to view the most recent material changes, if any, made with respect to categories of information collected at BathandBodyWorks.com or material changes in how we use information collected at BathandBodyWorks.com (whether a deletion or addition). If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about BathandBodyWorks.com.
+**WHAT IS THE POLICY FOR VISITORS FROM OUTSIDE THE U.S.?**
+
+This is a U.S. Web-commerce site. This privacy policy governs the information collected at this site irrespective of where you're located when you access it, browse it, interact with it, and make purchases through it (including those that are shipped to addresses outside the U.S.). This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us, an affiliate or a third-party service provider as described in this privacy policy. Moreover, U.S. governmental bodies that have jurisdiction (e.g., the courts and law enforcement agencies) may be entitled to access your personal information.
+
+BACK TO TOP  
+
+
+**HOW MAY I ACCESS AND UPDATE MY PERSONAL INFORMATION?**
+
+We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information by logging onto [Your Account](https://www.bathandbodyworks.com/coreg/index.jsp?step=register), or by calling us at 1-800-756-5005. 
 
 BACK TO TOP
 
-If you have additional questions or would like more information on this topic, please feel free to contact us by phone at 800-395-1001 or by mail at:  
-Customer Relations  
-Bath & Body Works  
-7 Limited Parkway  
-Reynoldsburg, OH 43068
+**HOW DO WE ADDRESS CHILDREN'S PRIVACY?**
+
+We do not knowingly collect or maintain information provided by children under the age of 13.
 
 BACK TO TOP
 
-BathandBodyWorks.com has implemented the following security measures to protect the information we have collected at our Web site: use of technologies and policies such as limited access data-centers, firewall technology, and limitations of administrative access to our systems. In addition, it is our policy not to send your credit card number via email. In fact, this is a practice we encourage you to adopt in all of your Internet activities. We designed BathandBodyWorks.com to accept shopping orders only from Web browsers that permit communication through Secure Socket Layer (SSL) technology; for example, 5.0 versions or higher of Internet Explorer. This means you'll be unable to inadvertently place an order through an unsecured connection. While we implement the above security measures for this Web site, you should be aware that 100% security is not always possible.
+**HOW DO WE SECURE YOUR INFORMATION ON OUR SITE?**
+
+This Web site has the following types of security measures: limited access data-centers, firewall technology, and secure-socket-layer (SSL) certificate authentication. SSL is encryption technology that provides security for information that's transmitted over the Internet. This site accepts orders only from Web browsers that permit communication through SSL technology—for example, 4.0 versions or higher of Netscape Navigator, versions 5.01 or higher of Internet Explorer, versions 0.8 or higher of Firefox, and versions 1.2 or higher of Safari. 
+
+While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
 BACK TO TOP
 
-This privacy policy is effective October 27, 2008.
+**WHOM MAY YOU CONTACT WITH QUESTIONS OR CONCERNS?**
+
+If you have questions or concerns with respect to our Privacy Policy, please feel free to [contact us](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact&isStoremanDriven=yes&stillHaveQuestion=yes).
+
+BACK TO TOP
+
+**WHO ADMINISTERS THIS POLICY?**
+
+Our Associate Vice President (AVP) of Limited Brands, Inc., administers this policy. You may write to this person at:
+
+       AVP, Privacy  
+       Legal and Compliance Services  
+       Limited Brands, Inc.  
+       3 Limited Parkway  
+       Columbus, OH 43230  
+       US
+
+BACK TO TOP
+
+**WHEN WAS THIS POLICY LAST UPDATED?**
+
+Please [click here](https://web.archive.org/graphics/storeman/bbw/BBW%20Privacy%20Policy_Jan_2009.pdf) to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about BathandBodyWorks.com. 
+
+BACK TO TOP
+
+This privacy policy is effective September 3, 2009.
 
   
 |  | 
