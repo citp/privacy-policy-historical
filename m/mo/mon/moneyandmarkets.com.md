@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621093919id_/http%3A//www.moneyandmarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032816id_/http%3A//www.moneyandmarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money and Markets: Free Investment Email Newsletter
 
