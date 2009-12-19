@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthsquare.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183058id_/http%3A//www.healthsquare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthsquare.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215231id_/http%3A//www.healthsquare.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
