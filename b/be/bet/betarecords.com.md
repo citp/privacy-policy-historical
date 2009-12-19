@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betarecords.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174517id_/http%3A//www.betarecords.com/beta/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betarecords.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215555id_/http%3A//www.betarecords.com/beta/legal/privacypolicy) for the most accurate reproduction.*
 
 # BETA Records - Privacy Policy
 
