@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617185221id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219225658id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
 
 # Academic Superstore : Academic Software discounts for students, teachers and schools
 
@@ -33,4 +33,6 @@ We never sell or share your email addresses with other companies.
 ## You can unsubscribe at any time.
 
 If you receive a newsletter or email and decide you don't like it, simply click the unsubscribe link at the bottom of the email.   
-If you feel you've been sent unsolicited email and would like to register a complaint, please call our toll free number, 1-800-817-2347, or [email our abuse department](mailto:mailinglistabuse@academicsuperstore.com). 
+If you feel you've been sent unsolicited email and would like to register a complaint, please call our toll free number, 1-800-817-2347, or [email our abuse department](mailto:mailinglistabuse@academicsuperstore.com).
+
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@AcademicSuperstore.com](mailto:optout@academicsuperstore.com). 
