@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the ing.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618140635id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ing.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219011158id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
-      
  <title>Privacy statement - ING</title>
  <meta name="keywords" lang="null" content="">
  <meta name="description" lang="null" content="">
 <meta name="generator" content="HTML Tidy, see www.w3.org">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="GENERATOR" content="Stellent Dynamic Converter 10gR3 (10.1.3.3.3)">
 
 
@@ -21,18 +20,18 @@
             var cssNode = document.createElement('link');
             cssNode.type = 'text/css';
             cssNode.rel = 'stylesheet';
-            cssNode.href = 'http://www.ing.be/xpedio/common/corp/style/common_stellent.css';
+            cssNode.href = '/xpedio/common/corp/style/common_stellent.css';
             cssNode.media = 'screen';
             headID.appendChild(cssNode);
         }
 -->
-</script><link type="text/css" rel="stylesheet" href="http://www.ing.be/xpedio/common/corp/style/common_stellent.css" media="screen">
+</script><link type="text/css" rel="stylesheet" href="/xpedio/common/corp/style/common_stellent.css" media="screen">
 
-<link rel="stylesheet" href="http://www.ing.be/xpedio/common/corp/style/common.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://www.ing.be/xpedio/common/corp/style/common.css" type="text/css" media="print">
-<link rel="stylesheet" href="http://www.ing.be/xpedio/common/corp/style/stellent.css" type="text/css" media="print,screen">
-<link rel="stylesheet" href="http://www.ing.be/xpedio/internet/corp/style/common.css" type="text/css" media="print,screen">
-<script type="text/javascript" src="http://www.ing.be/xpedio/common/corp/javascript/common.js">
+<link rel="stylesheet" href="/xpedio/common/corp/style/common.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/xpedio/common/corp/style/common.css" type="text/css" media="print">
+<link rel="stylesheet" href="/xpedio/common/corp/style/stellent.css" type="text/css" media="print,screen">
+<link rel="stylesheet" href="/xpedio/internet/corp/style/common.css" type="text/css" media="print,screen">
+<script type="text/javascript" src="/xpedio/common/corp/javascript/common.js">
 </script>
 
 <script type="text/javascript" language="JavaScript">
@@ -148,7 +147,7 @@ function play_video(v, h, w, a, t, el) {
 
 <meta name="generator" content="html">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" type="image/icon" href="images/favicon.ico">
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 <link rel="icon" type="image/png" href="images/favicon.png">
 
 <link rel="stylesheet" media="print" href="stylesheet/print.css" type="text/css" title="Stylesheet">
@@ -156,9 +155,12 @@ function play_video(v, h, w, a, t, el) {
 
 <link rel="stylesheet" href="stylesheet/style.css" type="text/css">
 
-
+<link rel="stylesheet" href="stylesheet/internet_top.css" type="text/css">
 <link rel="stylesheet" href="stylesheet/internet_menu.css" type="text/css">
 <link rel="stylesheet" href="stylesheet/internet_leftmenu.css" type="text/css">
+<link rel="stylesheet" href="stylesheet/footer.css" type="text/css">
+<link rel="stylesheet" href="stylesheet/psfinder.css" type="text/css">
+
 
 <!--[if IE]>
  <link rel="Stylesheet" media="screen" href="stylesheet/ieonly.css" type="text/css" title="Stylesheet" />
@@ -166,8 +168,10 @@ function play_video(v, h, w, a, t, el) {
 
 
 <script type="text/javascript" src="script/Common.js"></script>
-
+<script type="text/javascript" src="script/browserdetect.js"></script>
 <script type="text/javascript" src="script/dynMenu.js"></script>
+<script type="text/javascript" src="script/psfinder.js"></script>
+
 
 
 
@@ -186,25 +190,47 @@ function play_video(v, h, w, a, t, el) {
  
 
 
-    
+<!--[if lte IE 6.5]>
+ <script type="text/javascript" src="scripts/select_fix.js"></script>
+ <link media="screen" type="text/css" rel="stylesheet" href="stylesheet/select_fix.css" />
+<![endif]-->
+
 </head>
 
-<body id="com_ingcom" class="homepage">
+<body id="group" class="homepage">
 <div class="ow">
 <div class="iw">
 
-      
 
-<script type="text/javascript">var empty_search="Type keyword";</script>
+<script type="text/javascript">var empty_search="Type keyword";var lang="en";</script>
 <script type="text/javascript"><!--
 
-function IPASearch() {
+function esc(val) {
+  var ret = escape(val);
+  ret = ret.replace(/\+/g,"%2B");
+  ret = ret.replace(/\//g,"%2F");
+  ret = ret.replace(/\?/g,"%3F");
+  ret = ret.replace(/=/g,"%3D");
+  ret = ret.replace(/&/g,"%26");
+  ret = ret.replace(/@/g,"%40");
+  return ret;
+} 
+function INGSearch() {
 	var form = document.forms['searchform'];
 	if(form.fullText.value == empty_search) form.fullText.value = "";
-	form.action="search.jsp";
-	form.submit();
-	form.fullText.value = "";
+	var q = form.fullText.value;
+	var url = "http://search.ing.com/search?siteId=www.ing.com_"+lang;
+	if(q !="") {
+		url += "&Search=" + esc(q);
+		window.open(url);
+		form.fullText.value = "";
+	} else {
+		window.open(url);
+		form.action="javascript:INGSearch();";
+	}
 }
+
+
 function changecolor(){
 	var form = document.forms['searchform'];
 	form.fullText.style.color="#333";
@@ -219,7 +245,7 @@ function changecolor(){
 <div id="sitetitle"><a href="index.jsp"></a></div>
 <div id="topline"><img class="wid" src="images/shim.gif" border="0" alt=""></div>
 <div id="servicelinks" class="links">
- <a class="link" href="index.jsp">Home</a>|<a class="link" href="sitemap.jsp">Sitemap</a>|<a class="link" href="ingpublication.jsp">Publications</a>|<a class="link" href="javascript:openPopup('http://cws.huginonline.com/I/130668/subscribe_5_v2.html')">Subscribe to news</a>|<a class="link" href="coupon.jsp?cp=cpContactUS">Contact us</a>
+ <a class="link" href="index.jsp">Home</a>|<a class="link" href="sitemap.jsp">Sitemap</a>|<a class="link" href="ingpublication.jsp">Publications</a>|<a class="link" href="javascript:openPopup('http://cws.huginonline.com/I/130668/subscribe_5_v2.html')">Subscribe to news</a>|<a class="link" href="showdoc.jsp?docid=416804_EN&amp;menopt=abo">Contact us</a>
 
 
 <span id="langtoggle" class="links">
@@ -227,7 +253,7 @@ function changecolor(){
 </span>
 </div>
 <div id="searchtoggle" class="links">
-<form name="searchform" action="javascript:IPASearch();" method="get"><input type="text" id="fullText" name="fullText" value="Type keyword" onfocus="changecolor()"><a class="send" href="javascript:document.searchform.submit();">Search</a></form>
+<form name="searchform" action="javascript:INGSearch();" method="get"><input type="text" id="fullText" name="fullText" value="Type keyword" onfocus="changecolor()"><a class="send" href="javascript:document.searchform.submit();">Search</a></form>
 </div>
 
 
@@ -244,8 +270,11 @@ function changecolor(){
  <div id="hmenu">
 <ul class="menu" id="menu">
 <li id="li0">
-<a href="showdoc.jsp?docid=074391_EN&amp;menopt=abo" class="arrow1">About Us</a>
+<a href="aboutus.jsp?menopt=abo|abo" class="arrow1">About Us</a>
 <ul class="smenu">
+<li>
+<a href="aboutus.jsp?menopt=abo|abo">About Us</a>
+</li>
 <li>
 <a href="showdoc.jsp?docid=092825_EN&amp;menopt=abo|fct">Profile &amp; Fast facts</a>
 </li>
@@ -253,16 +282,22 @@ function changecolor(){
 <a href="showdoc.jsp?docid=074233_EN&amp;menopt=abo|mis">Mission and strategy</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=350057_EN&amp;menopt=cre|pol|bus">Business Principles</a>
+<a href="showdoc.jsp?docid=074059_EN&amp;menopt=abo|cog">Corporate Governance</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=074103_EN&amp;menopt=abo|coc">Compliance</a>
 </li>
 <li>
 <a href="showdoc.jsp?docid=372285_EN&amp;menopt=ivr|pub|arp">Annual report</a>
 </li>
 <li>
+<a href="showdoc.jsp?docid=406227&amp;menopt=abo|iwd">ing.world</a>
+</li>
+<li>
 <a href="archives.jsp?year=2009&amp;category=feat&amp;menopt=abo|far|009">Features archive</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=168724_EN&amp;menopt=abo|bra">ING Brand</a>
+<a href="showdoc.jsp?htmlid=425689_EN&amp;menopt=abo|bra&amp;menopt=abo|bra">ING Brand</a>
 </li>
 <li>
 <a href="showdoc.jsp?docid=074177_EN&amp;menopt=abo|his">History of ING</a>
@@ -281,102 +316,162 @@ function changecolor(){
 </li>
 </ul>
 </li>
-<li id="li12">
-<a href="showdoc.jsp?docid=074059_EN&amp;menopt=cog" class="arrow1">Corporate Governance</a>
+<li>
+<a href="psfinder.jsp?left=false&amp;lang=en&amp;menopt=p&amp;s">Products &amp; Services</a>
+</li>
+<li id="li16">
+<a href="../ezonomics/?menopt=ces" class="arrow1">eZonomics</a>
 <ul class="smenu">
 <li>
-<a href="showdoc.jsp?docid=074060_EN&amp;menopt=cog|les">Legal structure and Regulators</a>
+<a href="../ezonomics/showtopic.jsp?topic=news&amp;menopt=ces|new">News</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=074061_EN&amp;menopt=cog|mas">Management structure</a>
+<a href="../ezonomics/showtopic.jsp?topic=money&amp;menopt=ces|mon">Money</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=093296_EN&amp;menopt=cog|sub|sbm">Supervisory Board</a>
+<a href="../ezonomics/showtopic.jsp?topic=homes&amp;menopt=ces|hom">Homes</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=074085_EN&amp;menopt=cog|exb|ebm">Executive Board</a>
+<a href="../ezonomics/showtopic.jsp?topic=bigPicture&amp;menopt=ces|bpc">Big Picture</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=074095_EN&amp;menopt=cog|sif">Shareholder influence</a>
+<a href="../ezonomics/showtopic.jsp?topic=life&amp;menopt=ces|lif">Life</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=074103_EN&amp;menopt=cog|coc">Compliance</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=074107_EN&amp;menopt=cog|dtc">Dutch corporate governance code</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=152789_EN&amp;menopt=cog|cgn">Corporate Governance and the NYSE listing standards</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=063421_EN&amp;menopt=cog|iaa">Information about auditors</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=164346_EN&amp;menopt=cog|ado">Annual Documents</a>
-</li>
-<li>
-<a href="http://www.ing.com/group/showdoc.jsp?docid=063433_EN&amp;showSection=section_2&amp;menopt=abo|faq">FAQ</a>
+<a href="../ezonomics/polllanding.jsp?menopt=ces|p&amp;m&amp;menopt=ces|p&amp;m">Polls &amp; more</a>
 </li>
 </ul>
 </li>
-<li id="li24">
-<a href="showdoc.jsp?docid=074393_EN&amp;menopt=ivr" class="arrow1">Investor Relations</a>
+<li id="li23">
+<a href="javascript:openWindowC('http://www.ing.jobs/careers/',700,500,1,1,0,1,1,1)" class="arrow1">Careers</a>
 <ul class="smenu">
+<li>
+<a href="javascript:openWindowC('http://www.ing.jobs/careers/',700,500,1,1,0,1,1,1)">ING Careers Site</a>
+</li>
+</ul>
+</li>
+<li id="li25">
+<a href="corporateresponsibility.jsp?menopt=cre|cre" class="arrow1">Corporate Responsibility</a>
+<ul class="smenu">
+<li>
+<a href="corporateresponsibility.jsp?menopt=cre|cre">Corporate Responsibility</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=413640_EN&amp;menopt=cre|app">Our approach</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=413646_EN&amp;menopt=cre|per">Our performance</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=350033_EN&amp;menopt=cre|pol">Policies</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=413651_EN&amp;menopt=cre|bus">Business</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=413660_EN&amp;menopt=cre|emp">People</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=413670_EN&amp;menopt=cre|com">Community</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=413666_EN&amp;menopt=cre|env">Environment</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=350171_EN&amp;menopt=cre|rep">Reporting</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=350707_EN&amp;menopt=cre|sps">Sustainable products &amp; services</a>
+</li>
+<li>
+<a href="http://www.ing.com/group/showdoc.jsp?docid=063433_EN&amp;showSection=section_6&amp;menopt=abo|faq">FAQ</a>
+</li>
+</ul>
+</li>
+<li id="li37">
+<a href="sponsoring.jsp?menopt=spr|spr" class="arrow1">Sponsorship</a>
+<ul class="smenu">
+<li>
+<a href="sponsoring.jsp?menopt=spr|spr">Sponsorship</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=402048_EN&amp;htmlid=402167_EN&amp;menopt=spr|">ING and sponsorship</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=402050_EN&amp;htmlid=402168_EN&amp;menopt=spr|aec">Art and Culture</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=402070_EN&amp;htmlid=402171_EN&amp;menopt=spr|spo">Sports</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=402072_EN&amp;htmlid=402172_EN&amp;menopt=spr|iis">ING in Society</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=402074_EN&amp;htmlid=402173_EN&amp;menopt=spr|spa">Sponsorship requests</a>
+</li>
+</ul>
+</li>
+<li id="li44">
+<a href="investorrelations.jsp?&amp;menopt=ivr&amp;menopt=ivr|ivr" class="arrow1">Investor Relations</a>
+<ul class="smenu">
+<li>
+<a href="investorrelations.jsp?&amp;menopt=ivr&amp;menopt=ivr|ivr">Investor Relations</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=074211_EN&amp;menopt=ivr|ffa|kfi">Fast Facts</a>
+</li>
 <li>
 <a href="showdoc.jsp?docid=074360_EN&amp;menopt=ivr|shf">Share information</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=039176_EN&amp;menopt=ivr|qtr">Quarterly results</a>
+<a href="showdoc.jsp?htmlid=419558_EN&amp;menopt=ivr|qtr|qtr">Results &amp; presentations</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=073900_EN&amp;menopt=ivr|apr">Analyst presentations </a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=372285_EN&amp;menopt=ivr|pub">Publications</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=074099_EN&amp;menopt=ivr|tru">ING Trust Office</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=074340_EN&amp;menopt=ivr|shm">Shareholders' meeting </a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=074173_EN&amp;menopt=ivr|fci">Calendar</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=113142_EN&amp;menopt=ivr|rmt">Risk Management</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=074320_EN&amp;menopt=ivr|rat">Ratings</a>
+<a href="showdoc.jsp?docid=372285_EN&amp;menopt=ivr|pub">Annual Reports</a>
 </li>
 <li>
 <a href="showdoc.jsp?docid=075330_EN&amp;menopt=ivr|sec">SEC filings</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=075250_EN&amp;menopt=ivr|fis">Fixed Income Information</a>
+<a href="showdoc.jsp?docid=074320_EN&amp;menopt=ivr|rat">Ratings</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=363620_EN&amp;menopt=ivr|tdt&amp;menopt=ivr|tdt">Transactions with Dutch State</a>
+<a href="showdoc.jsp?docid=416770_EN&amp;menopt=ivr|shm|egm">Shareholders' meeting</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=075332_EN&amp;menopt=ivr|irc">IR contacts &amp; FAQ</a>
+<a href="showdoc.jsp?docid=074099_EN&amp;menopt=ivr|tru">ING Trust Office</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=182991_EN&amp;htmlid=185191_EN&amp;menopt=ivr|glo">Glossary</a>
+<a href="showdoc.jsp?docid=075250_EN&amp;menopt=ivr|fis">Fixed income securities</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=074173_EN&amp;menopt=ivr|fci">Calendar</a>
 </li>
 <li>
 <a href="showdoc.jsp?docid=363754_EN&amp;menopt=ivr|aco">Analyst Coverage</a>
 </li>
+<li>
+<a href="showdoc.jsp?docid=363620_EN&amp;menopt=ivr|tds">Transactions with Dutch State</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=075332_EN&amp;menopt=ivr|apr">IR contacts &amp; FAQs</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=417773&amp;menopt=ivr|ris">Rights issue</a>
+</li>
 </ul>
 </li>
-<li id="li40">
-<a href="showdoc.jsp?docid=074394_EN&amp;menopt=prm" class="arrow1">Press Room</a>
+<li id="li60">
+<a href="pressroom.jsp?&amp;menopt=prm&amp;menopt=prm|prm" class="arrow1">Press Room</a>
 <ul class="smenu">
+<li>
+<a href="pressroom.jsp?&amp;menopt=prm&amp;menopt=prm|prm">Press Room</a>
+</li>
 <li>
 <a href="pressdoc.jsp?docid=074397_EN&amp;menopt=prm|pre">Press release archive</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=039176_EN&amp;menopt=prm|qtr">Quarterly results</a>
+<a href="showdoc.jsp?htmlid=419558_EN&amp;menopt=prm|qtr">Quarterly results</a>
 </li>
 <li>
 <a href="showdoc.jsp?docid=074270_EN&amp;menopt=prm|prc">Press contacts</a>
@@ -392,66 +487,6 @@ function changecolor(){
 </li>
 </ul>
 </li>
-<li id="li47">
-<a href="showdoc.jsp?htmlid=350726_EN&amp;menopt=cre" class="arrow1">Corporate Responsibility </a>
-<ul class="smenu">
-<li>
-<a href="showdoc.jsp?docid=350013_EN &amp;menopt=cre|app">Approach</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350023_EN&amp;menopt=cre|per">Performance highlights</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350033_EN&amp;menopt=cre|pol">Policies</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350037_EN&amp;menopt=cre|emp">People</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350156_EN&amp;menopt=cre|com">Communities</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350716_EN&amp;menopt=cre|env">Environment</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350171_EN&amp;menopt=cre|rep">Reporting</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=350707_EN&amp;menopt=cre|sps">Sustainable products &amp; services</a>
-</li>
-<li>
-<a href="http://www.ing.com/group/showdoc.jsp?docid=063433_EN&amp;showSection=section_6&amp;menopt=abo|faq">FAQ</a>
-</li>
-</ul>
-</li>
-<li id="li57">
-<a href="showdoc.jsp?docid=074368_EN&amp;menopt=spr" class="arrow1">Sponsorship</a>
-<ul class="smenu">
-<li>
-<a href="showdoc.jsp?docid=063423_EN&amp;menopt=spr|pls">Policy</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=169283_EN&amp;menopt=spr|aec">Art and Culture</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=181727_EN&amp;menopt=spr|one">ING Renault F1 Team</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=169334_EN&amp;menopt=spr|sps">ING Running Events</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=169330_EN&amp;menopt=spr|spa">Sponsorship requests</a>
-</li>
-</ul>
-</li>
-<li id="li63">
-<a href="javascript:openWindowC('http://www.ing.jobs/careers/',700,500,1,1,0,1,1,1)" class="arrow1">Careers</a>
-<ul class="smenu">
-<li>
-<a href="javascript:openWindowC('http://www.ing.jobs/careers',700,500,1,1,0,1,1,1)">ING Careers Site</a>
-</li>
-</ul>
-</li>
 </ul>
 </div><script type="text/javascript">initMenu();</script>
  </div>
@@ -460,9 +495,7 @@ function changecolor(){
 
 </div>
 
-    
 <div id="main">
-      
 
 
 
@@ -474,33 +507,42 @@ function changecolor(){
     <div style="display:block;" id="leftmenu">
 <ul>
 <li id="lim1">
-<a class="level1" href="showdoc.jsp?docid=092825_EN&amp;menopt=abo|fct">Profile &amp; Fast facts</a>
+<a class="level1" href="aboutus.jsp?menopt=abo|abo">About Us</a>
 </li>
 <li id="lim2">
-<a class="level1" href="showdoc.jsp?docid=074233_EN&amp;menopt=abo|mis">Mission and strategy</a>
+<a class="level1" href="showdoc.jsp?docid=092825_EN&amp;menopt=abo|fct">Profile &amp; Fast facts</a>
 </li>
 <li id="lim3">
-<a class="level1" href="showdoc.jsp?docid=350057_EN&amp;menopt=cre|pol|bus">Business Principles</a>
+<a class="level1" href="showdoc.jsp?docid=074233_EN&amp;menopt=abo|mis">Mission and strategy</a>
 </li>
 <li id="lim4">
-<a class="level1" href="showdoc.jsp?docid=372285_EN&amp;menopt=ivr|pub|arp">Annual report</a>
+<a class="level1" href="showdoc.jsp?docid=074059_EN&amp;menopt=abo|cog">Corporate Governance</a>
 </li>
 <li id="lim5">
-<a class="level1" href="archives.jsp?year=2009&amp;category=feat&amp;menopt=abo|far|009">Features archive</a>
+<a class="level1" href="showdoc.jsp?docid=074103_EN&amp;menopt=abo|coc">Compliance</a>
 </li>
 <li id="lim6">
-<a class="level1" href="showdoc.jsp?docid=168724_EN&amp;menopt=abo|bra">ING Brand</a>
+<a class="level1" href="showdoc.jsp?docid=372285_EN&amp;menopt=ivr|pub|arp">Annual report</a>
 </li>
 <li id="lim7">
-<a class="level1" href="showdoc.jsp?docid=074177_EN&amp;menopt=abo|his">History of ING</a>
+<a class="level1" href="showdoc.jsp?docid=406227&amp;menopt=abo|iwd">ing.world</a>
 </li>
 <li id="lim8">
-<a class="level1" href="showdoc.jsp?docid=271855_EN&amp;menopt=abo|vir">Welcome to ING House</a>
+<a class="level1" href="archives.jsp?year=2009&amp;category=feat&amp;menopt=abo|far|009">Features archive</a>
 </li>
 <li id="lim9">
-<a class="level1" href="showdoc.jsp?docid=182991_EN&amp;htmlid=185191_EN&amp;menopt=abo|glo">Glossary</a>
+<a class="level1" href="showdoc.jsp?htmlid=425689_EN&amp;menopt=abo|bra&amp;menopt=abo|bra">ING Brand</a>
 </li>
 <li id="lim10">
+<a class="level1" href="showdoc.jsp?docid=074177_EN&amp;menopt=abo|his">History of ING</a>
+</li>
+<li id="lim11">
+<a class="level1" href="showdoc.jsp?docid=271855_EN&amp;menopt=abo|vir">Welcome to ING House</a>
+</li>
+<li id="lim12">
+<a class="level1" href="showdoc.jsp?docid=182991_EN&amp;htmlid=185191_EN&amp;menopt=abo|glo">Glossary</a>
+</li>
+<li id="lim13">
 <a class="level1" href="showdoc.jsp?docid=063433_EN&amp;menopt=abo|faq">FAQ</a>
 </li>
 <li id="menulilast">
@@ -588,17 +630,13 @@ changes that may be posted.<br>
 <br>
 If you have any questions about this Privacy Statement or our data
 processing activities, please 
-<a href="coupon.jsp?cp=cpContactUS&amp;lang=en" target="_self">contact us</a>
-via this website.</p>
+<a href="coupon.jsp?cp=cpContactUS〈=en" target="_self">contact us</a> via
+this website.</p>
 </td>
 </tr>
 
 <tr class="stel_space">
 <td></td>
-</tr>
-
-<tr class="stel_footer">
-<td colspan="3">FADDEGON, Dick (NT) - 23/10/2008</td>
 </tr>
 </tbody></table>
 
@@ -693,13 +731,14 @@ doctable.getElementsByTagName("A").item(j).setAttribute("onclick", wtdoc);
      
      
      
+     
+           
+
+     
      </div></td>
   
   </tr></tbody></table>
-
     
-    <div class="footer">     <a class="link" href="showdoc.jsp?docid=095071_EN">Legal Information</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=134735_EN">Security</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=095075_EN">Privacy Statement</a><span class="text"> © 2001-2009 ING Groep N.V. All rights reserved.</span>
-   </div> 
    </div>
    <div id="white-bottom-left"><div id="white-bottom-right"></div></div>
    </td>
@@ -707,20 +746,118 @@ doctable.getElementsByTagName("A").item(j).setAttribute("onclick", wtdoc);
    
   
   
-   
   
  </tr>
 </tbody></table>
+</div>
+<div id="footer_top">
+  <div id="footer_top_text"><a href="#">back to top</a></div>
+</div>
+<div id="footer_main">
+  
+  <!-- footer test -->
+   <div id="footer">
+<table>
+<tbody><tr>
+<td>
+<div class="footer_title">Products &amp; Services</div>
+</td><td>
+<div class="footer_title">Quick links</div>
+</td><td>
+<div class="footer_title">Careers</div>
+</td><td>
+<div class="footer_title">Miscellaneous</div>
+</td><td>
+<div class="footer_title">Subscribe to feeds</div>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li class="footer-item">
+<a href="psfinder.jsp?left=false&amp;choice=b2c&amp;lang=en">For individuals</a>
+</li>
+<li class="footer-item">
+<a href="psfinder.jsp?left=false&amp;choice=b2b&amp;lang=en">For businesses</a>
+</li>
+</ul>
+</td><td>
+<ul>
+<li class="footer-item">
+<a href="../ezonomics/?menopt=ces">eZonomics</a>
+</li>
+<li class="footer-item">
+<a href="pressroom.jsp?&amp;menopt=prm">Press Room</a>
+</li>
+<li class="footer-item">
+<a href="showdoc.jsp?docid=039176_EN&amp;menopt=ivr|qtr">Financial results</a>
+</li>
+<li class="footer-item">
+<a href="showdoc.jsp?docid=074173_EN&amp;menopt=ivr|fci">Calendar</a>
+</li>
+<li class="footer-item">
+<a href="aboutus.jsp?menopt=abo">About Us</a>
+</li>
+<li class="footer-item">
+<a href="showdoc.jsp?docid=074360_EN&amp;menopt=ivr|shf">Share Information</a>
+</li>
+<li class="footer-item">
+<a href="corporateresponsibility.jsp?&amp;menopt=cre">Corporate Responsibility</a>
+</li>
+</ul>
+</td><td>
+<ul>
+<li class="footer-item">
+<a href="javascript:openWindowC('http://www.ing.jobs/careers',800,450,1,1,0,1,1,1)">International careersite</a>
+</li>
+<li class="footer-item">
+<a href="http://www.ingtalentprogramme.nl">Students</a>
+</li>
+<li class="footer-item">
+<a href="http://www.ing.jobs/careers/netherlands/index.jsp?lang=en">Dutch careersite</a>
+</li>
+</ul>
+</td><td>
+<ul>
+<li class="footer-item">
+<a href="showdoc.jsp?docid=416804_EN&amp;menopt=abo">Contact</a>
+</li>
+<li class="footer-item">
+<a href="javascript:openWindowC('http://www.clicktools.com/survey?iv=3912497afa48152',800,450,1,1,0,1,1,1)">Take our survey</a>
+</li>
+</ul>
+</td><td>
+<ul>
+<li class="footer-item" style="list-style-image: url(&quot;images/feedicon.gif&quot;);margin-left:20px;padding-left:5px;">
+<a href="rss.jsp?">Latest ING news</a>
+</li>
+<li class="footer-item" style="list-style-image: url(&quot;images/feedicon.gif&quot;);margin-left:20px;padding-left:5px;">
+<a href="../ezonomics/rss.jsp?">Latest eZonomics articles</a>
+</li>
+<li class="footer-item" style="list-style-image: url(&quot;images/feedicon.gif&quot;);margin-left:20px;padding-left:5px;">
+<a href="showdoc.jsp?docid=414008_EN">What is RSS?</a>
+</li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+</div>
 
-    </div>
+  
+  
+   
+</div>
+<div id="footer_bottom">
+ 
+  <a class="link" href="showdoc.jsp?docid=095071_EN">Legal Information</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=134735_EN">Security</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=095075_EN">Privacy Statement</a><span class="text"> 2001-2009 ING Groep N.V. All rights reserved.</span>
 
-      
-    
+ 
+
+</div>
 </div>
 </div>
  
 
 
 
-<!-- Serving time: 234ms -->
 </body></html>
