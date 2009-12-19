@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055647id_/http%3A//www.coolavenues.com/res/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219220838id_/http%3A//www.coolavenues.com/res/privacy.php3) for the most accurate reproduction.*
 
 # MBA Admission Details : CAT, GMAT, SNAP, XAT, IIFt, FMS, Symbiosis, JMET CET Admission deadlines and details & Management Seminars
 
