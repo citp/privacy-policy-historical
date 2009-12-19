@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyte.tv privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608192216id_/http%3A//www.kyte.tv/home/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyte.tv privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219165326id_/http%3A//www.kyte.tv/home/privacyPolicy.html) for the most accurate reproduction.*
 
 # Kyte: Privacy Policy
 
@@ -45,11 +45,11 @@ decentral.tv also reserves the right to disclose personally identifiable informa
 
 ###  Your Choices 
 
-You may, of course, decline to submit personally identifiable information through the decentral.tv Sites and Service, in which case decentral.tv may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the decentral.tv Sites and Service remain subject to our Terms of Service, even if you have deleted them from the pages associated with your account. If you inadvertently post materials in violation of our Term of Service, please contact decentral.tv using the [feedback form](https://web.archive.org/web/20090608192216id_/http%3A//www.kyte.tv/home/feedback.html). 
+You may, of course, decline to submit personally identifiable information through the decentral.tv Sites and Service, in which case decentral.tv may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the decentral.tv Sites and Service remain subject to our Terms of Service, even if you have deleted them from the pages associated with your account. If you inadvertently post materials in violation of our Term of Service, please contact decentral.tv using the [feedback form](https://web.archive.org/web/20091219165326id_/http%3A//www.kyte.tv/home/feedback.html). 
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
-Please contact decentral.tv with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices by using the [feedback form](https://web.archive.org/web/20090608192216id_/http%3A//www.kyte.tv/home/feedback.html). 
+Please contact decentral.tv with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices by using the [feedback form](https://web.archive.org/web/20091219165326id_/http%3A//www.kyte.tv/home/feedback.html). 
 
 ###  Third-party Advertisers, Links to Other Sites 
 
@@ -63,7 +63,7 @@ If you click on an advertisement, or click on a link that takes you to a website
 
 decentral.tv uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to decentral.tv and you do so at your own risk. Once we receive your transmission of information, decentral.tv makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
-If decentral.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. decentral.tv may post a notice on the decentral.tv Sites and Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using the [feedback form](https://web.archive.org/web/20090608192216id_/http%3A//www.kyte.tv/home/feedback.html). 
+If decentral.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. decentral.tv may post a notice on the decentral.tv Sites and Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using the [feedback form](https://web.archive.org/web/20091219165326id_/http%3A//www.kyte.tv/home/feedback.html). 
 
 ###  Our Commitment To Childrens' Privacy 
 
@@ -79,4 +79,4 @@ This Privacy Policy may be revised periodically and this will be reflected by th
 
 ###  Contact Information: 
 
-If you have any questions or comments about this Privacy Policy please use our [feedback form](https://web.archive.org/web/20090608192216id_/http%3A//www.kyte.tv/home/feedback.html). 
+If you have any questions or comments about this Privacy Policy please use our [feedback form](https://web.archive.org/web/20091219165326id_/http%3A//www.kyte.tv/home/feedback.html). 
