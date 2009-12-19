@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617074822id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010845id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
 
-# Fabulous
+# Fabulous - Information Center
 
 ### Dark Blue Sea - Privacy Policy
 
-The Dark Blue Sea group of companies offers an exciting range of online products and services including domain name registration, website hosting, domain monetization and search engine services.
+The Dark Blue Sea group of companies offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale and search engine services.
 
 The Dark Blue Sea group comprises a number of companies that includes:
 
 • Dark Blue Sea Limited ABN 47 091 509 796  
-• Fabulous.com Pty Ltd ABN 64 094 218 443  
+• Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)  
 • Fabulous Parking Pty Ltd ABN 16 094 225 091  
 • Roar.com Pty Ltd ABN 99 094 225 064  
 • Pageseeker.com Pty Ltd ABN 45 090 513 849  
