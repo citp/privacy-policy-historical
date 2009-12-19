@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greekporntube.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616213828id_/http%3A//greekporntube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekporntube.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144155id_/http%3A//greekporntube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
-# Greek Porn Tube - Home Of Free Porn Videos - Information
+# Greek Porn Tube - Home Of Free Porn Videos - GreekPornTube.Com - Information
 
 ## Introduction
 
