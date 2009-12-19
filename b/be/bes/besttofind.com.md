@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the besttofind.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204145949id_/http%3A//www.besttofind.com/privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besttofind.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219154947id_/http%3A//www.besttofind.com/privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Welcome to Best To find
+# Besttofind.com: Privacy Policy
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+|  Privacy Policy   
+---  
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
-**Note:** the privacy practices set forth in this privacy policy are for this website only. If you link to other web sites, please review the privacy policies posted at those sites.
+**Note:** the privacy practices set forth in this privacy policy are for this website only. If you link to other web sites, please review the privacy policies posted at those sites.   
+Collection of Information  
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide can be used to publish on our articles or to distribute in any other manner. 
 
-**Collection of Information  
-** We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide can be  used to publish on our articles or to distribute in any other manner.
-
-**Cookie/Tracking Technology  
-** The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+**Cookie/Tracking Technology**  
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
 
 **Distribution of Information**  
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information can also be  provided to other companies for marketing purposes. 
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information can also be provided to other companies for marketing purposes. 
 
 **Commitment to Data Security**  
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
 
-**[ Home](http://www.besttofind.com/)  |  [ Contact Us](http://www.besttofind.com/contact.htm)  |  Add to Favorite |  [ Submit Article](http://www.besttofind.com/submitarticle.aspx) |  [ Link Exchange](http://www.besttofind.com/sublink.aspx) |[Resources Links](http://www.besttofind.com/Links%20-%20Resources%20Links.html)|  [ Terms & Conditions ](http://www.besttofind.com/Termas-Conditions.htm) |  [ Privacy Policy](http://www.besttofind.com/privacy-Policy.htm)  |  [ Site Map](http://www.besttofind.com/Site-Map.htm)**
+**Advertising and Privacy**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
