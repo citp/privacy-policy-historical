@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621163333id_/http%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219070353id_/http%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SF Station Privacy Policy
 
@@ -21,6 +21,8 @@ We do not share Personal Information with advertisers or any other third parties
 **Consent.**  In the event and to the extent we have your consent. In such cases, we will provide opt-in consent for the sharing of any sensitive personal information.
 
 **Affiliated or Trusted Persons.**  We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. We occasionally utilize trusted third parties to perform certain functions on our behalf. These authorized third parties may be given access to Personal Information in order to perform their designated function but are contractually bound to maintain the confidentiality and security of the Personal Information. Furthermore, such third parties are restricted from using or in any way altering data other than in accordance with their expressed contractual function.
+
+**Giveaways, Contests and Coupons.**  We may share data collected through Giveaways, Contents and Coupons with our divisions, subsidiaries and affiliated companies. This will only apply to users who choose to participate in such Giveaways, Contests and Coupons.
 
 **Enforcement or Protection.**  We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of us, our users or the public as required or permitted by law. Mergers and Acquisition. If we becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
