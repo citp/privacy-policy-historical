@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428001436id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219091925id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tata Sky Satellite Television – PRIVACY POLICY
 
-Tata Sky Limited is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Web site “www.tatasky.com” (“Site”).
+Tata Sky Limited is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Website “www.tatasky.com” (“Site”).
 
 In general, You can visit this site without telling Us who You are or revealing any information about Yourself. Our web servers collect the domain names, not the e-mail addresses of visitors.
 
@@ -38,9 +38,7 @@ You should be aware that information and data may be automatically collected thr
 
 Cookies do not attach to Your system and damage Your files. If You do not want information collected through the Use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that "personalised" services may be affected if the cookie option is disabled.
 
-If You wish to disable the setting of cookies in Your browser, please click here for instructions.
-
-## Security and cata retention
+## Security and data retention
 
   
 Security is very important to Us. All security procedures are in place to protect the confidentiality, integrity and availability of Your User information. We maintain strict physical, electronic, and administrative safeguards to protect Your personal information from unauthorized or inappropriate access. We restrict access to information about You to those of Our employees who need to know the information to respond to Your inquiry or request. Employees who misuse personal information are subject to disciplinary action
