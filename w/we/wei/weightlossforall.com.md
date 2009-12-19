@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614085447id_/http%3A//www.weightlossforall.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219075136id_/http%3A//www.weightlossforall.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Our privacy policy
 
@@ -10,7 +10,7 @@ WeightLossForAll.com guarantee we will not sell, trade or share your information
 
 On signing up to our monthly newsletter we transfer the information onto a separate disk and promptly delete the details from our computer. This ensures those details cannot be transmitted to another computer in the unlikely event a hacker manages to penetrate our firewall or other security software.
 
-Please read our [terms](https://web.archive.org/web/20090614085447id_/http%3A//www.weightlossforall.com/terms-and-conditions.htm) before signing up for the newsletter!
+Please read our [terms](https://web.archive.org/web/20091219075136id_/http%3A//www.weightlossforall.com/terms-and-conditions.htm) before signing up for the newsletter!
 
 WeightLossForAll.com uses third-party advertising companies to serve ads to support the site. Some of these companies (Google) may use technology such as cookies and web beacons when they advertise on this site to collect some **_non-personal_** information (such as your IP address and what web browser you use). This is done for the sole purpose of helping them improve ad targeting (for example, showing ads for sports equipment to a sports enthusiast). 
 
