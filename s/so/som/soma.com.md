@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035822id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033106id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.*
 
 # Soma Intimates - Privacy Policy
 
   
-Revised December 5, 2008  
+Revised September 8, 2009  
 
 
   
@@ -55,7 +55,12 @@ Our website uses "cookies" which are small data files stored on your computer wh
 
 
   
-We use a variety of technologies and processes for protection of our customer data. We use encryption technology whenever transmitting sensitive data such as credit and debit card information. Please note however that absolute security can never be guaranteed. We will never request your credit card or other personal information by email. If you receive an email that appears to be a request from us for personal information, do not respond as this may be a "phishing" scam designed to steal your personal information. Email is not a secure means of communication. Never include in an email your credit card number or other sensitive information. We will only request such information during secure transactions at our website. 
+We use a variety of technologies and processes for protection of our customer data. We use encryption technology whenever transmitting sensitive data such as credit and debit card information. Please note however that absolute security can never be guaranteed. We will never request your credit card or other personal information by email. If you receive an email that appears to be a request from us for personal information, do not respond as this may be a "phishing" scam designed to steal your personal information. Email is not a secure means of communication. Never include in an email your credit card number or other sensitive information. We will only request such information during secure transactions at our website.   
+
+
+  
+We use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp)  
+
 
   
 Our website may contain links to websites owned by third parties. (See **[Terms of Use, Links to Other Websites](https://web.archive.org/store/page.jsp?id=54#links)**.) Please review the privacy policy of any site you access through our website. ****  
