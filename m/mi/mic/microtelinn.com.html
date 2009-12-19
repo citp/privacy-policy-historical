@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the microtelinn.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618174353id_/http%3A//www.microtelinn.com/MicrotelInn/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the microtelinn.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219213152id_/http%3A//www.microtelinn.com/MicrotelInn/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 
@@ -9,11 +9,13 @@
 	<base href="http://www.microtelinn.com/MicrotelInn/control/">
 	<title>Microtel Inn &amp; Suites: Privacy policy</title>
 		<link rel="stylesheet" type="text/css" href="../css/style.css">
-	<link rel="stylesheet" type="text/css" href="../css/recentHotelsStyle.css">
-	<link rel="stylesheet" type="text/css" href="../css/minisites.css">
+	<link rel="stylesheet" type="text/css" href="../css/recentHotelsStyle.css"> 
+	<link rel="stylesheet" type="text/css" href="../css/leftnav.css">
 	<link rel="stylesheet" type="text/css" href="../css/wrLoginWidget.css">
+	<link rel="stylesheet" type="text/css" href="../css/minisites.css">
 	<link rel="stylesheet" type="text/css" href="../content/css/inlineCommon.css">
- 
+	<link rel="stylesheet" type="text/css" href="../css/maps.css">
+
 	<link rel="alternate stylesheet" type="text/css" href="../css/large.css" title="A++">
 	<link rel="alternate stylesheet" type="text/css" href="../css/medium.css" title="A+">
 	<link rel="alternate stylesheet" type="text/css" href="../css/small.css" title="A">
@@ -43,7 +45,8 @@
 
 
 
-	<tbody><tr>
+
+<tbody><tr>
 		<td>
 
 
@@ -56,7 +59,26 @@
                     document.cookie = "daysinn_variant"+"="+"global_english"+""+"; path=/";
                 -->
             </script> <!-- START HEADER -->  	</td></tr><tr>
-		<td><img src="../images/navigation/masthead_banner.jpg" alt="Microtel Inn &amp; Suites" width="599" height="103" border="0" usemap="#ah_masthead"></td>
+		<td>
+    	<!--Flash Promo Box Begin -->		
+		<script language="JavaScript1.2" src="../js/swfobject.js" type="text/javascript">
+			swfobject.registerObject("flashcontent");
+		</script>
+
+		<div>	                                                    
+			<object id="flashcontent" width="599" height="103" data="../media/masthead_banner.swf" type="application/x-shockwave-flash">
+				<param name="movie" value="../media/masthead_banner.swf">
+			<param name="wmode" value="opaque">
+					
+						<a href="special_offers1"><img src="../images/navigation/masthead_banner.jpg" alt="Microtel Inn &amp; Suites" width="599" height="103" border="0" usemap="#ah_masthead"></a>
+				</object>
+		</div>
+<!-- Flash Promo Box End-->  
+    
+    
+    
+    
+    </td>
 		<td>
 			<!-- UTILITY NAV -->
 			<table id="utilityTable" cellpadding="0" cellspacing="0" width="175" border="0">
@@ -93,13 +115,15 @@
         function changeSiteLanguage(language) {
             var variantForUrl = "";
             
-            var paramStr = window.location.href.substr(window.location.href.indexOf("/",8));
+
+            variantForUrl = "?variant=" + language + "";
+
             if ("cnen" == language) {
                 document.cookie = "whg_variant"+"="+"cnen";
-                location.href = "http://"+"en.whghotels.cn/"+variantForUrl;
+                location.href = "http://"+"en.whghotels.cn/WHG/control/home"+variantForUrl;
             } else {
                 document.cookie = "whg_variant"+"="+"cncn";
-                location.href = "http://"+"www.whghotels.cn/"+variantForUrl;
+                location.href = "http://"+"www.whghotels.cn/enzh/WHG/control/home"+variantForUrl;
             }
         }
         -->
@@ -112,6 +136,7 @@
                 <tr>
                     <td colspan="2">
                             
+
 
 
 
@@ -188,8 +213,8 @@
 				<td width="77"><a href="Booking/Link?redirect=index"><img src="../images/navigation/nav_home.gif" alt="Home" width="77" height="27" border="0"></a></td>
 				<td width="165"><a href="Booking/Link?redirect=advanced_search" title="Go to Advanced Search"><img src="../images/navigation/nav_hotel_res.gif" alt="Hotels &amp; Reservations" width="165" height="27" border="0"></a></td>
 				<td width="127"><a href="Booking/Link?redirect=special_offers"><img src="../images/navigation/nav_special_offers.gif" alt="Special Offers" width="127" height="27" border="0"></a></td>
-				<td width="102"><a href="Booking/Link?redirect=wyndhamrewards&amp;variant="><img src="../images/navigation/nav_trip_rewards.gif" alt="Wyndham Rewards" width="102" height="27" border="0"></a></td>
-				<td width="87"><img src="../images/navigation/nav_blank_right.gif" alt="" width="87" height="27" border="0"></td>
+				<td width="165"><a href="Booking/Link?redirect=wyndhamrewards&amp;variant="><img src="../images/navigation/nav_trip_rewards.gif" alt="Wyndham Rewards" width="165" height="27" border="0"></a></td>
+				<td width="24"><img src="../images/navigation/nav_blank_right.gif" alt="" width="24" height="27" border="0"></td>
 				<td width="207"><img src="../images/navigation/email_print.gif" alt="" width="207" height="27" border="0" usemap="#Map"><map name="Map"><area shape="rect" alt="Email this page" coords="2,3,108,25" href="" onclick="javascript:event.cancelBubble=true;popup=window.open('email_this_page_popup?','EmailThisPage','width=570,height=500,scrollbars=yes,status=yes,resizable=yes');popup.focus();return false;" class="emailPrintMap" title="opens in new window"><area shape="rect" alt="Printer Friendly Version" coords="110,4,207,25" href="" onclick="javascript:printerFriendly(location.href);return false" class="emailPrintMap" title="opens in new window"></map></td>
 				<td width="*" align="right" class="fontSz"><img src="../images/navigation/nav_font_sz_right.gif" alt="" width="15" height="27" border="0"></td>
 			</tr>
@@ -296,41 +321,42 @@
 <br>
 
 <!-- CMS -->
-<h3 class="h3_inline">Introduction.</h3>&nbsp;Wyndham Hotel Group, LLC, (“WHG”),&nbsp; a subsidiary of Wyndham Worldwide Corporation (“WWC”), is the parent company&nbsp; of Wyndham Hotels and Resorts, LLC., Days Inns Worldwide, Inc., Howard Johnson International, Inc., Ramada Worldwide Inc., Super 8 Worldwide, Inc., Travelodge Hotels, Inc., Wingate Inns International, Inc., AmeriHost Franchise Systems, Inc., Knights Franchise Systems, Inc., Baymont Franchise Systems, Inc., Microtel Inns and Suites Franchising, Inc., and Hawthorn Suites Franchising, Inc. (collectively, the "Franchisors") which license the Wyndham®, Days Inn®, Howard Johnson®, Ramada®, Super 8®, Travelodge®, Wingate® by Wyndham, AmeriHost Inn®, Knights Inn®, Baymont Inn &amp; Suites®, Microtel Inn &amp; Suites®, and Hawthorn Suites® hotel systems (collectively, the "Brands") to independently owned hotels (“Franchisees”).&nbsp; Travel Rewards, Inc., the sponsor of the Wyndham RewardsSM guest loyalty program, is also a wholly owned subsidiary of WHG.&nbsp; Wyndham Hotels and Resorts, LLC, one of the Franchisors, is the sponsor of the Wyndham ByRequest® guest loyalty program.&nbsp;&nbsp;&nbsp; Microtel Inns and Suites Franchising, Inc., one of the Franchisors, is the sponsor of the MicroPass® frequent travel program.  In this Privacy Policy WHG and its affiliates, the Franchisors, the Brands, Wyndham Rewards, Wyndham ByRequest and MicroPass, may be referred to collectively, as “Wyndham”, “we”, “us” or “our.”&nbsp; Wyndham Rewards, Wyndham ByRequest, MicroPass and any successor or additional guest loyalty programs may collectively be referred to as “Loyalty Programs.”
+<p>
+<strong>Introduction.&nbsp; </strong>Wyndham Hotel Group, LLC, (“WHG”),&nbsp; a subsidiary of Wyndham Worldwide Corporation (“WWC”), is the parent company&nbsp; of Wyndham Hotels and Resorts, LLC., Days Inns Worldwide, Inc., Howard Johnson International, Inc., Ramada Worldwide Inc., Super 8 Worldwide, Inc., Travelodge Hotels, Inc., Wingate Inns International, Inc., AmeriHost Franchise Systems, Inc., Knights Franchise Systems, Inc., Baymont Franchise Systems, Inc., Microtel Inns and Suites Franchising, Inc., and Hawthorn Suites Franchising, Inc. (collectively, the "Franchisors") which license the Wyndham®, Days Inn®, Howard Johnson®, Ramada®, Super 8®, Travelodge®, Wingate® by Wyndham, AmeriHost Inn®, Knights Inn®, Baymont Inn &amp; Suites®, Microtel Inn &amp; Suites®, and Hawthorn Suites® hotel systems (collectively, the "Brands") to independently owned hotels (“Franchisees”).&nbsp; Travel Rewards, Inc., the sponsor of the Wyndham RewardsSM guest loyalty program, is also a wholly owned subsidiary of WHG.&nbsp; Wyndham Hotels and Resorts, LLC, one of the Franchisors, is the sponsor of the Wyndham ByRequest® guest loyalty program.&nbsp;&nbsp;&nbsp; Microtel Inns and Suites Franchising, Inc., one of the Franchisors, is the sponsor of the MicroPass? frequent travel program.  In this Privacy Policy WHG and its affiliates, the Franchisors, the Brands, Wyndham Rewards, Wyndham ByRequest and MicroPass, may be referred to collectively, as “Wyndham”, “we”, “us” or “our.”&nbsp; Wyndham Rewards, Wyndham ByRequest, MicroPass and any successor or additional guest loyalty programs may collectively be referred to as “Loyalty Programs.”
 
-<p>We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues. </p>
+</p><p>We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues. </p>
 <ul class="privacy_policy_list1">
-	<li><a href="california_privacy_policy">Privacy Notice to California Customers</a></li>
+	<li><a href="california_privacy_policy?variant=">Privacy Notice to California Customers</a></li>
 
-	<li><a href="canada_privacy_policy">Canadian Privacy Policy</a></li>
+	<li><a href="canada_privacy_policy?variant=">Canadian Privacy Policy</a></li>
 
-	<li><a href="canada_french_privacy_policy" lang="fr">Politique de confidentialité</a></li>
+	<li><a href="canada_french_privacy_policy?variant=" lang="fr">Politique de confidentialité</a></li>
 
-	<li><a href="european_privacy_policy">European Privacy Policy </a></li>
+	<li><a href="european_privacy_policy?variant=">European Privacy Policy </a></li>
 </ul>
 <br>
 
 <ul class="search_widget1">
-<li><a href="privacy_policy#Application">Application</a></li>
-<li><a href="privacy_policy#Purpose">Purpose</a></li>
-<li><a href="privacy_policy#Security">Security</a></li>
-<li><a href="privacy_policy#Internet">The Internet</a></li>
-<li><a href="privacy_policy#Cookies">Cookies</a></li>
-<li><a href="privacy_policy#Information">Information We Collect</a></li>
-<li><a href="privacy_policy#Feedback">Feedback/Opt out</a></li>
-<li><a href="privacy_policy#Reservations">Reservations</a></li>
-<li><a href="privacy_policy#E-mail">e-mail</a></li>
-<li><a href="privacy_policy#Sweepstakes">Sweepstakes/Contests</a></li>
-<li><a href="privacy_policy#DirectMail">Direct Mail/Outbound Telemarketing</a></li>
-<li><a href="privacy_policy#Research">Research/Survey</a></li>
-<li><a href="privacy_policy#Individual">What is Individual Specific Information?</a></li>
-<li><a href="privacy_policy#dont">What We Won't Do with Customer Information</a></li>
-<li><a href="privacy_policy#do">What We Will Do With Customer Information</a></li>
-<li><a href="privacy_policy#Franchisees">Our Franchisees</a></li>
-<li><a href="privacy_policy#Low">Other Disclosures/Compliance with law</a></li>
-<li><a href="privacy_policy#Correction">Correction</a></li>
-<li><a href="privacy_policy#Downloading">Downloading</a></li>
-<li><a href="privacy_policy#Policy">Policy Changes</a></li>
+<li><a href="privacy_policy?variant=#Application">Application</a></li>
+<li><a href="privacy_policy?variant=#Purpose">Purpose</a></li>
+<li><a href="privacy_policy?variant=#Security">Security</a></li>
+<li><a href="privacy_policy?variant=#Internet">The Internet</a></li>
+<li><a href="privacy_policy?variant=#Cookies">Cookies</a></li>
+<li><a href="privacy_policy?variant=#Information">Information We Collect</a></li>
+<li><a href="privacy_policy?variant=#Feedback">Feedback/Opt out</a></li>
+<li><a href="privacy_policy?variant=#Reservations">Reservations</a></li>
+<li><a href="privacy_policy?variant=#E-mail">e-mail</a></li>
+<li><a href="privacy_policy?variant=#Sweepstakes">Sweepstakes/Contests</a></li>
+<li><a href="privacy_policy?variant=#DirectMail">Direct Mail/Outbound Telemarketing</a></li>
+<li><a href="privacy_policy?variant=#Research">Research/Survey</a></li>
+<li><a href="privacy_policy?variant=#Individual">What is Individual Specific Information?</a></li>
+<li><a href="privacy_policy?variant=#dont">What We Won't Do with Customer Information</a></li>
+<li><a href="privacy_policy?variant=#do">What We Will Do With Customer Information</a></li>
+<li><a href="privacy_policy?variant=#Franchisees">Our Franchisees</a></li>
+<li><a href="privacy_policy?variant=#Low">Other Disclosures/Compliance with law</a></li>
+<li><a href="privacy_policy?variant=#Correction">Correction</a></li>
+<li><a href="privacy_policy?variant=#Downloading">Downloading</a></li>
+<li><a href="privacy_policy?variant=#Policy">Policy Changes</a></li>
 </ul>
 <br><br>
 <br><h3 class="h3_inline"><a name="Application">Application.</a></h3>&nbsp;This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/or Brands. <br>
@@ -342,7 +368,7 @@
 
 </p><p> We take commercially reasonable efforts to create and maintain "fire walls" and other appropriate safeguards to ensure that to the extent we control the Information, the Information is used only as authorized by&nbsp;us and consistent with this Policy, and that the Information is not improperly altered or destroyed. Our privacy protection practices help us to maintain accurate, timely, complete and relevant information for our business purposes. Our communication system, software and database practices have been designed to aid us in supporting authenticity, integrity and confidentiality. Although we use commercially reasonable efforts to maintain data security when data is transmitted through third party communication service providers, we do not warrant the security of data during such transmission.
 </p><p> Third party Web sites that are accessed through links, banners and other means of electronic connection on our Web sites have separate privacy and data collection practices, and security measures. We have no control over these third party Web sites and no responsibility or liability for the practices, policies and security measures implemented by third parties on their Web sites. These third party Web sites have content, advertising, banners, links, sponsors, partners and connections over which we have no control and no responsibility. We encourage you to contact these third parties to ask questions about their terms of use, privacy practices, policies and security measures before disclosing personal information on linked Web sites. We do not endorse or approve the content, terms of use, privacy policy, advertising or sponsors of any linked Web site.
-</p><p>Please click on this link <a href="http://www.microtelinn.com/Microtelinn/control/privacy_policy_inquiry_form">Feedback/Opt out</a> to give us your feedback about this Policy or opt out of further communications from us. 
+</p><p>Please click on this link <a href="privacy_policy_inquiry_form?variant=">Feedback/Opt out</a> to give us your feedback about this Policy or opt out of further communications from us. 
 
 </p><p> </p><h3 class="h3_inline"><a name="Internet">The Internet.</a></h3>&nbsp;On our Web sites we do not collect personally identifiable information from Customers unless they provide it to us voluntarily and knowingly. When you reserve a room with us we will capture information such as name, address, telephone number, e-mail address, and credit card number to process your reservation. The primary purpose of capturing your e-mail address when you make a reservation with us is to send you a reservation confirmation. The confirmation may contain additional offers that we believe may be of interest to you, based on the information you provide to us. If you have consented to be put on our e-mail lists, we may contact you via e-mail from time to time. You will always be provided with a way to opt-out of future e-mailings.&nbsp; However we will continue to send e-mails to confirm your reservations. Like many other Internet sites, we automatically collect certain non-personal information regarding our Customers, such as software client information (for example, IP addresses, browser versions and operating systems) and aggregate information (for example, number of pages accessed) in order to analyze Web traffic and usage trends, and to enable us to tailor content and services to provide a better fit to our Customers' needs. Information of this nature does not pertain to your specific identity and is not associated with your personal information. 
 	
@@ -365,7 +391,7 @@
  <p> </p><h3 class="h3_inline"><a name="Feedback">Feedback/Opt out.</a></h3>&nbsp;We&nbsp; offer Customers the opportunity to "opt-out" of communications. A customer may elect to opt out of receiving communications by following the directions posted on the e-mail communication or by visiting the Brand or the Loyalty Program Web site, by contacting the Customer Care Department of the Brand that was patronized, or by contacting the Wyndham Rewards® Member Services Department.&nbsp; However, we will continue to send e-mails to confirm your reservations. Customers can elect to opt out from any of the following: (1) Mail - e-mail (excluding confirmation e-mails) and direct mail; (2) Phone -telephone and fax solicitation; or (3) Contact - all communications including e-mail, direct mail, fax and telephone.&nbsp; We maintain telephone "do not call" lists as mandated by law. We incorporate into our Data Warehouse "do not call" and "do not mail" lists maintained by other organizations. We process requests to be placed on do not mail, do not phone and do not contact lists within 60 days after receipt, or such shorter time as may be required by law.&nbsp; Any Customer may opt out of receiving communications by contacting us using the following methods: 
 	
  <p>
- By e-mail, <a href="http://www.microtelinn.com/Microtelinn/control/privacy_policy_inquiry_form">click here to opt out</a>. 
+ By e-mail, <a href="privacy_policy_inquiry_form?variant=">click here to opt out</a>. 
  </p><p> 
  
  By phone - 888-564-4487 for AmeriHost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada ; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate by Wyndham; 800-870-3936 for Baymont Inn; 866-850-3070 for Wyndham Hotels and Resorts; 888-877-0675 for Microtel Inn &amp; Suites; 888-297-2778 for Hawthorn Suites; and 866-996-7937 for Wyndham Rewards or Wyndham ByRequest.
@@ -499,31 +525,44 @@
 
 
 
-			
-		<table class="footerTbl" cellpadding="0" cellspacing="0" border="0" width="772">
-			<tbody><tr bgcolor="#EFEFEF"><td colspan="16"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr>
-			<tr bgcolor="#ffffff"><td colspan="16"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr>
-            <tr><td align="center" class="promosIntroTxt" style="border-bottom: 1px solid #999999; font-size:11pt; color:#666"><b>Proud members of the Wyndham Worldwide family of hotel brands</b></td></tr><tr>
-				<td align="center">
-                <img src="../images/navigation/foot_logo_wyndham.gif" alt="Wyndham Hotels &amp; Resorts" border="0">
-				<img src="../images/navigation/foot_logo_ramada.gif" alt="Ramada" border="0">
-				<img src="../images/navigation/foot_logo_days_inn.gif" alt="Days Inn" border="0">
-				<img src="../images/navigation/foot_logo_motel_8.gif" alt="Super 8" border="0">
-				<img src="../images/navigation/foot_logo_wingate_inn.gif" alt="Wingate by Wyndham" border="0">
-				<img src="../images/navigation/foot_logo_baymont_inns.gif" alt="Baymont Inn &amp; Suites" border="0"></td>
+			<table class="footerTbl" cellpadding="0" cellspacing="0" border="0" width="772"><!--OLD FOOTER -->
+	 <!--  		<tr bgcolor="#EFEFEF"><td colspan="21"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr>
+			<tr bgcolor="#ffffff"><td colspan="21"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr> 
+         <tr><td colspan="6" align="center" class="promosIntroTxt" style="border-bottom: 1px solid #999999; font-size:11pt; color:#666"><b>Proud members of the Wyndham Worldwide family of hotel brands</b></td><tr>
+			<tr>
+				<td colspan="6" align="center">
+                <img src="../images/navigation/foot_logo_wyndham.gif"   alt="Wyndham Hotels & Resorts"  border="0">
+				<img src="../images/navigation/foot_logo_ramada.gif" alt="Ramada"  border="0">
+				<img src="../images/navigation/foot_logo_days_inn.gif"   alt="Days Inn"  border="0">
+				<img src="../images/navigation/foot_logo_motel_8.gif"   alt="Super 8"  border="0">
+				<img src="../images/navigation/foot_logo_wingate_inn.gif"   alt="Wingate by Wyndham"  border="0">
+				<img src="../images/navigation/foot_logo_baymont_inns.gif"   alt="Baymont Inn & Suites"  border="0"></td>
             </tr>
             <tr>
-				<td align="center">
-                <img src="../images/navigation/foot_logo_microtel.gif" alt="Microtel Inn" border="0">
-				<img src="../images/navigation/foot_logo_hawthorn.gif" alt="Hawthorn" border="0">
-				<img src="../images/navigation/foot_logo_howard_johnson.gif" alt="Howard Johnson" border="0">
-				<img src="../images/navigation/foot_logo_travelodge.gif" alt="Travelodge" border="0">
-				<img src="../images/navigation/foot_logo_knights_inn.gif" alt="Knights Inn" border="0"></td>
+				<td colspan="6" align="center">
+                <img src="../images/navigation/foot_logo_microtel.gif"   alt="Microtel Inn"  border="0">
+				<img src="../images/navigation/foot_logo_hawthorn.gif"   alt="Hawthorn"  border="0">
+				<img src="../images/navigation/foot_logo_howard_johnson.gif"   alt="Howard Johnson"  border="0">
+				<img src="../images/navigation/foot_logo_travelodge.gif"   alt="Travelodge"  border="0">
+				<img src="../images/navigation/foot_logo_knights_inn.gif"   alt="Knights Inn"  border="0"></td>
 			</tr>
-            <tr><td style="border-top: 1px solid #999999;">&nbsp;</td></tr><tr><td colspan="16"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr> 
+            <tr><td colspan="6" style="border-top: 1px solid #999999;">&nbsp;</td><tr> -->
+	
 <!-- END WYNDHAM FOOTER LINKS -->
-			<tr>
-				<td colspan="16" class="footer" align="center">
+		
+
+
+		</table><table class="footerTbl" cellpadding="0" cellspacing="0" border="0" width="772">
+			<tbody><tr bgcolor="#EFEFEF"><td colspan="2"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr>
+			<tr bgcolor="#ffffff"><td colspan="2"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr>
+		    <tr><td colspan="6" align="center"></td></tr><tr>
+			</tr><tr>
+				<td colspan="6">
+		<!--<a href="https://www.wyndhamrewards.com/"> --><img src="../images/navigation/footer_logo_all.jpg" width="772" height="95" border="0"><br><br>
+</td>
+</tr>  
+			<tr> <!--colspan="2" -->
+				<td colspan="21" class="footer" align="center">
 					<a href="Booking/Link?redirect=privacy_policy">Privacy Policy</a> |
 					<a href="Booking/Link?redirect=terms_of_use">Terms of Use</a> |
 					<a href="Booking/Link?redirect=safemark">About Safemark</a> |
@@ -545,6 +584,12 @@
 		<!-- END WYNDHAM FOOTER LINKS -->
 		 <!-- city page footer change -->
 		 		<tr><td colspan="16"><img src="../images/navigation/spacer.gif" alt="" border="0" width="1" height="7"></td></tr>
+		 			 		<tr>
+<td colspan="21" valign="center" align="center" class="footerCity" nowrap=""><br>		
+<a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Atlanta%26state=GA%26country=US%26Seo=true" title="Atlanta">Atlanta</a> | <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Baton Rouge%26state=LA%26country=US%26Seo=true" title="Baton Rouge">Baton Rouge</a> | <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Charlotte%26state=NC%26country=US%26Seo=true" title="Charlotte">Charlotte</a> |  <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Dallas%26state=TX%26country=US%26Seo=true" title="Dallas">Dallas</a> | <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Jacksonville%26state=FL%26country=US%26Seo=true" title="Jacksonville">Jacksonville </a>   | <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Las Vegas%26state=NV%26country=US%26Seo=true" title="Las Vegas">Las Vegas</a> | <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=San Antonio%26state=TX%26country=US%26Seo=true" title="San Antonio">San Antonio</a> | <a class="footerCity" href="Booking/Link?redirect=Booking%2Fsearch_results%3FareaType=1%26destination=Savannah%26state=GA%26country=US%26Seo=true" title="Savannah">Savannah</a></td>				 		</tr>
+		 		<tr>
+					<td colspan="21" align="center" class="footerCity" nowrap="">&nbsp;</td>
+		 		</tr>
 	<!-- city page footer change ends here-->
 			<!-- copyright -->
 			<tr><td colspan="16" class="footer" align="center"><br>© Microtel Inns and Suites Franchising, Inc. All rights reserved. All hotels
@@ -767,7 +812,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
             <script language="JavaScript">
             var s1 = "http"+(document.URL.indexOf('https:')==0?'s':'')+"://app.insightgrit.com/1/nat?id=81605477245&ref="+window.document.referrer.replace(/&/g, '|@@|')+"&z="+Math.floor(Math.random()*999999)+"&purl="+document.URL.replace(/&/g, '|@@|');
             document.write('<IMG WIDTH="1" HEIGHT="1" src="'+s1+'">');
-            </script><img width="1" height="1" src="https://app.insightgrit.com/1/nat?id=81605477245&amp;ref=&amp;z=211980&amp;purl=https://web.archive.org/web/20090618174353id_/http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=">
+            </script><img width="1" height="1" src="https://app.insightgrit.com/1/nat?id=81605477245&amp;ref=&amp;z=360746&amp;purl=https://web.archive.org/web/20091219213152id_/http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=">
             <!--INSIGHTGRIT NS TAG END-->
 			<div>
 
