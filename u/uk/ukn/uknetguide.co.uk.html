@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the uknetguide.co.uk privacy policy that was archived on 2009-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090509193330id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uknetguide.co.uk privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219102521id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>UK Net Guide - your online guide to the best of the web: Privacy Policy</title>
 <meta name="description" content="UK Net Guide - specialised Internet directory, offering a wide selection of the best UK sites covering 15 main channels, including: homes, shopping, motoring, finance, jobs, sports, travel, entertainment, lifestyle, news, business, education, government, health and computers.">
 <meta name="keywords" content="uk net guide, net, internet, web, uk web guide, uk, guide, search engine, directory, directories, property, jobs, employment, cars, motors, finance, money, shops, shopping, sport, sports, flight, flights, holidays, entertainment, lifestyle">
 
-    <link href="/Styles/ukng.css" rel="stylesheet" type="text/css">
+    <link href="/Styles/ukng.css?css=3" rel="stylesheet" type="text/css">
 
 <script language="JavaScript" type="text/javascript" src="/Includes/InJS.asp"></script>
 
@@ -74,6 +74,55 @@ function GetXmlHttpRecordClickObject()
     return xmlHttpRecordClick;
 }
 
+
+
+var clickAmount;
+clickAmount = 0;
+
+function trackClick(progRef) {
+            
+   clickAmount = clickAmount + 1;
+           
+   var x = readCookie('asdaasda')
+           
+   var tmp = document.getElementById("div2").innerHTML
+               
+   if ((clickAmount == 1) && !(x) && (tmp.length > 20) ) {               
+                            
+      createCookie('asdaasda','1',1);
+              
+      a = open(tmp,'maybe','width=950,height=800,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');
+      a.blur();
+      window.focus();
+   }
+           
+}
+
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+
+
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+
 </script>
 
 
@@ -88,22 +137,24 @@ function GetXmlHttpRecordClickObject()
 
 	</head>
 	
-		<body style="background-image: url(/images/GLOBAL/background_blue.jpg);">
+		<body style="background-image: url(/images/GLOBAL/background_football.gif);">
 		
 	<table border="0" width="100%" style="border-collapse:separate;border-spacing:3px;">
 		<tbody><tr>
 			<td>
 				<div id="divPageContainer" class="PageContainer">
-					<div class="BannerAd">
-						<iframe src="http://ads.uknetguide.co.uk/serve/adframe.asp?AdType=1&amp;SI=UKNE&amp;ReferringPage=%2Finfo%2Fprivacy%2Easp&amp;RandomNo=00623286" height="60" width="468" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
-					</div>
-
-					<div class="Logo">
+					
+					<div class="Logo" style="width:100%;">
 						<a href="/" target="_top">
-						  <img src="/images/GLOBAL/ukng_blue.gif" alt="UK Net Guide" border="0" width="167" height="53"> 
+						  <img src="/images/GLOBAL/ukng_blue.gif" alt="UK Net Guide" border="0" style="float:left;" width="167" height="53"> <img src="/images/GLOBAL/christmas.gif" alt="UKNetGuide" style="border:0;margin-left:15px;z-index:-10px;margin-top:-25px;" width="640" height="82">
 						</a>
 					</div>
-				<div class="HeaderStrip" style="width:960px;">
+					
+					<div class="BannerAd">
+						<iframe src="http://ads.uknetguide.co.uk/serve/adframe.asp?AdType=1&amp;SI=UKNE&amp;ReferringPage=%2Finfo%2Fprivacy%2Easp&amp;RandomNo=79429262&amp;GUID={C6569ADF-05A0-47D5-96F1-45ECE3C9DB61}" height="60" width="468" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+					</div>
+
+				<div class="HeaderStrip" style="width:960px;z-index:10;">
   <ul>
   <!--li><a href="/" title="Home" style="PADDING-BOTTOM: 3px;">Home<br />&nbsp;</a></li-->
 
@@ -144,53 +195,7 @@ function GetXmlHttpRecordClickObject()
 
 
 
-<script language="Javascript">
-
-function echeck(inputvalue) {
-    
-    var pattern=/^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/;
-    
-    if(pattern.test(inputvalue)){   
-		return true 
-    }else{   
-		return false 
-    }
-			
-}
-
-function ValidateForm(){
-	var emailID=document.getElementById('newsletterOffersEmailSignUpBox')
-		
-	if ((emailID.value==null)||(emailID.value=="")){
-		alert("Please Enter your Email address")
-		emailID.focus()
-		return false
-	}
-	if (echeck(emailID.value)==false){
-	    alert("Please Enter a valid email address")
-		emailID.focus()
-		return false
-	}
-	return true
- }
- 
- 
-function ValidateForm2(){
-	var emailID=document.getElementById('newsletterOffersEmailSignUpBox2')
-		
-	if ((emailID.value==null)||(emailID.value=="")){
-		alert("Please Enter your Email address")
-		emailID.focus()
-		return false
-	}
-	if (echeck(emailID.value)==false){
-	    alert("Please Enter a valid email address")
-		emailID.focus()
-		return false
-	}
-	return true
- }
-</script>
+<script language="Javascript" src="/Includes/inJSSearchStrip.js"></script>
 
 
 <div id="searchbar" style="margin-left:5px;width:925px;">  
@@ -221,13 +226,12 @@ function ValidateForm2(){
 
 
 <div id="divLeftColumn" class="LeftColumn" style="top:169px">
-
-<iframe style="padding-top:10px" src="http://ads.uknetguide.co.uk/serve/adframe.asp?AdType=86&amp;SI=UKNE&amp;ReferringPage=%2Finfo%2Fprivacy%2Easp&amp;RandomNo=00623286" height="125" width="150" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>
   
 	<br>
  	<!-- iframe id="iframePoll" width="150" height="550" src="http://polls.uknetguide.co.uk/poll/default.asp?SI=UKNE" frameborder="0" scrolling="no">
     Sorry, you need inline frames to see this poll.
     </iframe -->
+    
 </div>
 
 
@@ -429,11 +433,9 @@ function ValidateForm2(){
 
 
 
-<script language="JavaScript" defer="defer" type="text/javascript" src="http://users.uknetguide.co.uk/user.js?SI=UKNE&amp;RNum=00623286&amp;Rf=&amp;Page=%2FInfo%2FPrivacy%2Easp"></script>
+<script language="JavaScript" defer="defer" type="text/javascript" src="http://users.uknetguide.co.uk/user.js?SI=UKNE&amp;RNum=79429262&amp;Rf=&amp;Page=%2FInfo%2FPrivacy%2Easp"></script>
 
 <!-- Tracking code for UKNetGuide -->
-
-<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=ao2ZhWlCmr3OZNacn9QLBk&amp;s=50"></script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
