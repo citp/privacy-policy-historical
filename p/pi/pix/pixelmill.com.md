@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelmill.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203725id_/http%3A//www.pixelmill.com/pixelmill/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelmill.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010732id_/http%3A//www.pixelmill.com/pixelmill/privacy.aspx) for the most accurate reproduction.*
 
 # PixelMill: Privacy Policy
 
