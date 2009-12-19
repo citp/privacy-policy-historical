@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607071554id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219110117id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Howstuffworks "Privacy Policy"
 
@@ -6,7 +6,7 @@ This privacy policy applies only to the websites controlled by Discovery Communi
 
 **A. Information Collected**
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, [click here](https://web.archive.org/web/20090607071554id_/http%3A//www.howstuffworks.com/privacy.html#children). 
+This privacy policy applies only to information collected on the Sites and does not apply to information collected by Discovery through any other means. For details on the information collected and used from children under the age of 13, [click here](https://web.archive.org/web/20091219110117id_/http%3A//www.howstuffworks.com/privacy.html#children). 
 
 We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies. 
 
