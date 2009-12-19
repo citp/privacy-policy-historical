@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195156id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219214708id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
 
 # Entergy - Legal
 
@@ -54,10 +54,10 @@ Entergy provides its customers with a variety of Web Services. You can learn mor
 
 In connection with your use of the Web Services, you may provide personal information to Entergy and, in turn, be provided with a password that you create. The term “Personal Information” refers to a user’s name, address, e-mail address, phone number, fax number, tax identification number, social security number, bank name and account number, credit card number and credit card provider, Entergy utility account number, and user password. Each user shall be responsible for the use, security, and safeguarding of such user’s identification, passwords, Entergy account information, and other Personal Information. Entergy shall have no responsibility for damages resulting from the theft or unauthorized use of a user’s identification, password, Entergy account information, or other Personal Information, Entergy will not intentionally disclose to third parties your identity, Entergy account information, or other Personal Information, except under the following circumstances: 
 
-• when and to the extent necessary to complete a transaction, service your account, provide a Web Service requested by you, or otherwise to communicate with you about your account or request for service;   
-• when otherwise authorized by you;   
-• when necessary to comply with an order of a government agency or court, when requested by a government regulator, or as otherwise required by law;   
-• to protect the security of the Web site;   
+• when and to the extent necessary to complete a transaction, service your account, provide a Web Service requested by you, or otherwise to communicate with you about your account or request for service;  
+• when otherwise authorized by you;  
+• when necessary to comply with an order of a government agency or court, when requested by a government regulator, or as otherwise required by law;  
+• to protect the security of the Web site;  
 • to the purchaser in connection with the sale, assignment, or other transfer of all or part of our business or company. 
 
 Some parts of this Web site use cookies. A cookie is an extremely small text file that is stored on your computer and created to track specific information that can later be retrieved and read only by the same site that created the cookie, and cannot be executed as code or deliver viruses. Our Web site uses cookies to store some information that you enter in order to provide you with the best experience possible. Cookies that may be created on your computer by using this Web site do not compromise your privacy or security. You can refuse the cookie or delete the cookie file from your computer by using any of the widely available methods. NOTE: If your Web browser does not accept cookies and/or depending on your privacy settings, you may not be able to use certain features of this site. 
@@ -66,8 +66,8 @@ Except for Personal Information provided by Entergy’s customers in connection 
 
 **7\. Data Security**
 
-Transmissions over the Internet are never completely secure or error-free. Because of this, we can not and do not guarantee the security, accuracy, or completeness of Personal Information that you supply to us. However, we maintain reasonable security procedures and system safeguards to protect Personal Information against destruction, loss, alteration, or unauthorized access or disclosure. 
+Transmissions over the Internet are never completely secure or error-free. Storage of information is never completely safe. Because of this, we can not and do not guarantee the security, accuracy, completeness, or security of Personal Information or other confidential information that you supply to us. However, we endeavor to maintain security procedures and system safeguards to protect Personal Information and other confidential information against destruction, loss, alteration, or unauthorized access, misuse, and disclosure. 
 
 You can learn more about Entergy's Web Services by [clicking here](https://web.archive.org/privacy_legal/legal.aspx). 
 
-Last Updated April 4, 2008 
+_Last Updated August 10, 2009._
