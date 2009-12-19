@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040706id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033219id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
 
 # Customer Service - Your Privacy Rights - TravelSmith
 
-TravelSmith respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
+Untitled Document| 
+
+Your Privacy Rights  
+  
+---  
+  
+TravelSmith respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/)
 
 **Consumer Privacy at TravelSmith, an HSNi Company.**  
 TravelSmith is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com.](http://www.hsni.com/)
