@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619083927id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131300id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # Laplink Software - Privacy Policy
 
@@ -38,9 +38,9 @@ We absolutely never provide your e-mail address or telephone number to anyone ou
 
 **Security**
 
-At Laplink Software Inc, we understand and respect your concerns about privacy. Our corporate security policy is so important to us that we include a policy overview in every employee’s orientation. Access to our customer database is restricted to only those employees who have a specific need for access to that data to do their job. And even then, access to the customer data is password protected. Each quarter, we review and update our Web security. In addition to safeguarding the privacy of any information you give us as you visit our site, Laplink Software Inc. has entered into partnerships with other companies that care just as deeply about your privacy concerns.
+At Laplink Software Inc, we understand and respect your concerns about privacy. Our corporate security policy is so important to us that we include a policy overview in every employee's orientation. Access to our customer database is restricted to only those employees who have a specific need for access to that data to do their job. And even then, access to the customer data is password protected. Each quarter, we review and update our Web security. In addition to safeguarding the privacy of any information you give us as you visit our site, Laplink Software Inc. has entered into partnerships with other companies that care just as deeply about your privacy concerns.
 
-Laplink Software Inc. does not handle financial transactions via the Web, so it has no need for streaming encryption products. Laplink Software Inc. works with a third party to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partners handles e-commerce on a secure server which encrypts all of our customers’ personal information. To learn more about how our commerce partners manages the privacy of information in conjunction with these e-commerce transactions, please see their complete [privacy statement](http://www.element5.com/privacy.html).
+Laplink Software Inc. does not handle financial transactions via the Web, so it has no need for streaming encryption products. Laplink Software Inc. works with a third party to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partners handles e-commerce on a secure server which encrypts all of our customers' personal information. To learn more about how our commerce partners manages the privacy of information in conjunction with these e-commerce transactions, please see their complete [privacy statement](http://www.element5.com/privacy.html).
 
 **Freedom of choice: "opting-out"**
 
@@ -50,7 +50,7 @@ Visitors who decide they no longer wish to receive our product mailings or promo
 
   * Visit [MySupport profile](https://web.archive.org/mysupport/viewProfile.asp). Click one box to opt out of receiving future promotional materials. 
 
-  * Click the opt-out link that you’ll find on each promotional e-mail. 
+  * Click the opt-out link that you'll find on each promotional e-mail. 
 
   * Mail us a short note to tell us you no longer wish to receive the promotional materials. For prompt handling of your request, remember to include your name, your full address and your e-mail address. Send your request to:  
 
@@ -72,7 +72,7 @@ Visitors to our site are always notified when their information is being collect
 
 Through the one-stop convenience of MySupport you can register Laplink products, submit and track your requests for customer support, sign up to receive e-mail notices of new product releases and special offers or "opt-out" of such mailings.
 
-Once you’ve registered with us, you may update or change your personal profile at any time by visiting the [MySupport](https://web.archive.org/mysupport/viewProfile.asp) section of our Web site.
+Once you've registered with us, you may update or change your personal profile at any time by visiting the [MySupport](https://web.archive.org/mysupport/viewProfile.asp) section of our Web site.
 
 **Legal disclaimer**
 
@@ -88,9 +88,9 @@ We may choose to change our privacy policies in the future. At the time we decid
 
 A cookie is like an electronic identification card. It is a small string of code placed on your hard drive by our Web server. The cookie allows our server to identify you when you come back for another visit. A cookie is not a program. It cannot execute or carry out any operation on your computer!
 
-The cookie benefits you in that we automatically recognize you when you come back to our Web site and that allows us to tailor the information presented to you—based on your personal needs and past interactions with our site.
+The cookie benefits you in that we automatically recognize you when you come back to our Web site and that allows us to tailor the information presented to you-based on your personal needs and past interactions with our site.
 
-Cookies also help us to better understand general visitor interests and patterns—and that means we are able to create better Web sites!
+Cookies also help us to better understand general visitor interests and patterns-and that means we are able to create better Web sites!
 
 **How to get in touch with us**
 
