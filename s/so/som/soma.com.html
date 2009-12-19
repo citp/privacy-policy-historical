@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soma.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617035822id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soma.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219033106id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -9,68 +9,144 @@
 	
 	function getQueryString () {
  		var querystring = new Array;
- 		var q = String (document.location).split ('?')[1];
+ 		var q = String(document.location).split('?')[1];
 		if (!q) return false;
-		q = q. split ('&');
+		q = q.split('&');
 		for (var i = 0 ; i < q.length; i++) {
 			var o = q[i].split('=');
 			querystring[o[0]] = o[1];
 		}
 	return querystring;
 	}
-
+	
+	function getHashString()
+	{	
+			
+		var qs = new Array;		
+ 		var q = String(document.location).split('#')[1];
+				
+		if (!q) return false;
+		
+		q = q.split('&');
+		
+		for (var i = 0; i < q.length; i++)
+		{
+			var o = q[i].split('=');
+			qs[o[0]] = o[1];
+		}
+		
+		return qs;
+	}
+	
 	var querystring = getQueryString();
-	var sourceid = querystring['sourceid'] ? querystring['sourceid']: "";
- 
+	var hashstring = getHashString();
+	
+	var sourceid = querystring['sourceid'] ? querystring['sourceid']: ""; 
 	document.cookie = "Foresee_Hitbox="+sourceid+"; path=/";
-</script>
-
+	
+	
+	var imagePath = "http://www.soma.com/Product_Images/";
+	</script>
+	
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="robots" content="all">
 	<meta name="description" content="Shop Soma Intimates for luxurious bras, panties, sleepwear, activewear &amp; more.  The only place to find the exclusive, patented Vanishing Edge Collection."><meta name="keywords" content="soma, intimates, soma intimates, soma.com, www.soma, soma online, www soma com,  intimate apparel, lingerie, bra, bras, bra fitting guide, panties, vanishing edge panties, swimwear, swimsuits, miraclesuit, shapewear, sports bras, sleepwear, sleepshirts, pjs, pajamas, robes, activewear, shorts, yoga pants, briefs, bikinis, thongs, slips, foundations, camisoles"><meta name="author" content="Chicos FAS">
 
 	<title>Soma Intimates - Privacy Policy</title>
-	<script type="text/javascript" src="/store/common/include/jquery.js?ver=5"></script>
-	<script type="text/javascript" src="/store/common/js/common.js?ver=5"></script>
-	<script language="Javascript" type="text/javascript">var s_account="chsomacomprod"</script>
+	<script type="text/javascript" src="/store/common/include/jquery.js?ver=11"></script>
+	<script type="text/javascript" src="/store/common/js/common.js?ver=11"></script>
+	<script type="text/javascript">var s_account="chsomacomprod"</script>
 	<script type="text/javascript">
-	$().ready(function() {
-  		$.getScript("/web_assets/js/site_catalyst/s_code.js", function(){
-  			popOmniture();
-		});	
-  		$.getScript("/web_assets/js/fsrscripts/oeForesee.js", function(){
-  			openFSRTracker(1);
-		});	
+	$(document).ready(function() {
+			$.getScript("/web_assets/js/site_catalyst/s_code.js", function(){
+				popOmniture();
+				$.getScript("/web_assets/js/fsrscripts/oeForesee.js", function(){
+		  			openFSRTracker(1);
+		  			$.getScript("https://as00.estara.com/as/InitiateCall2.php?accountid=200106296473", function(){
+			  			$.getScript("https://as00.estara.com/fs/lr.php?onload=1&accountid=200106296473");
+		  			});
+				});
+		}); 
+		/*
+			$.getScript("/web_assets/js/site_catalyst/s_code.js", function(){
+				popOmniture();
+				$.getScript("/web_assets/js/fsrscripts/oeForesee.js", function(){
+		  			openFSRTracker(1);
+				});
+			});
+		*/
 	});
 	</script>
-	<link href="/web_assets/css/common.css?ver=10" rel="stylesheet" type="text/css">
+	<link href="/web_assets/css/common.css?ver=21" rel="stylesheet" type="text/css">
 	<link href="/web_assets/css/skin.css" rel="stylesheet" type="text/css">
-</head>
+<script src="https://as00.estara.com/as/InitiateCall2.php?accountid=200106296473"></script></head>
 		<body>
 			<div id="canvas">
 				<div id="page">
-			        <div id="header">
-	<h1 id="logo"><a href="http://www.soma.com/store/home.jsp" onclick="s_objectID='Soma Intimates';"><img width="193" height="61" src="/store/images/common/soma_logo.gif" border="0" alt="Soma Intimates"></a></h1>
-				<form action="http://www.soma.com/store/search/search_results.jsp?_DARGS=/store/include/header.jsp" onsubmit="return isEmptyQSearch('headerFasSearch');" name="headerFasSearch" method="POST" id="headerFasSearch"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-224021922418339871" type="hidden" name="_dynSessConf"><input value="Soma" type="hidden" name="/atg/commerce/catalog/CatalogSearch.brand"><input value=" " type="hidden" name="_D:/atg/commerce/catalog/CatalogSearch.brand"><input value="1" type="hidden" name="/atg/commerce/catalog/CatalogSearch.brandId"><input value=" " type="hidden" name="_D:/atg/commerce/catalog/CatalogSearch.brandId"><div id="tertiary-nav">
-									<a href="https://www.soma.com/store/account/login.jsp" onclick="s_objectID='my account';">my account</a><img width="1" height="9" class="nav-vertical-divider" src="/store/images/common/nav_divider.jpg" alt=""><a href="http://www.soma.com/store/search/search.jsp" onclick="s_objectID='search';">search</a><img width="1" height="9" class="nav-vertical-divider" src="/store/images/common/nav_divider.jpg" alt=""><a href="http://www.soma.com/store/browse/catalog.jsp" onclick="s_objectID='shop by catalog';">shop&nbsp;by&nbsp;catalog</a><img width="1" height="9" class="nav-vertical-divider" src="/store/images/common/nav_divider.jpg" alt=""><input value="shop by catalog #" type="text" onfocus="this.value=''" size="30" alt="Enter Keywords To Search On" name="catalogid-box" id="catalogid-box"><input value=" " type="hidden" name="_D:catalogid-box"><input value="/store/search/search_results.jsp" type="hidden" name="/atg/search/formhandlers/QueryFormHandler.successURL"><input value=" " type="hidden" name="_D:/atg/search/formhandlers/QueryFormHandler.successURL"><input value="true" type="hidden" name="/atg/search/formhandlers/QueryFormHandler.headerSearch"><input value=" " type="hidden" name="_D:/atg/search/formhandlers/QueryFormHandler.headerSearch"><input value="Search" type="image" src="/store/images/common/shop_btn.jpg" border="0" alt="search" name="/atg/search/formhandlers/QueryFormHandler.search" id="catalogid-button"><input value=" " type="hidden" name="_D:/atg/search/formhandlers/QueryFormHandler.search"><input value="Search" type="hidden" name="/atg/search/formhandlers/QueryFormHandler.search"><input value=" " type="hidden" name="_D:/atg/search/formhandlers/QueryFormHandler.search"></div>
-								
-							<input value="/store/include/header.jsp" type="hidden" name="_DARGS"></form><div id="primary-nav">
-				<ul id="nav">
-										<li id="n_whatsnew"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Whats+New&amp;catId=cat20002" onclick="s_objectID='Whats New';">What's New</a></li>
-										<li id="n_bras"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Bras&amp;catId=cat40089" onclick="s_objectID='Bras';">Bras</a></li>
-										<li id="n_panties"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Panties&amp;catId=cat40090" onclick="s_objectID='Panties';">Panties</a></li>
-										<li id="n_vanishing_edge"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Vanishing+Edge&amp;catId=cat20004" onclick="s_objectID='Vanishing Edge';">Vanishing Edge</a></li>
-										<li id="n_shapewear"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Shapewear&amp;catId=cat40091" onclick="s_objectID='Shapewear';">Shapewear</a></li>
-										<li id="n_sleepwear"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Sleepwear&amp;catId=cat40092" onclick="s_objectID='Sleepwear';">Sleepwear</a></li>
-										<li id="n_activewear"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Activewear&amp;catId=cat40135" onclick="s_objectID='Activewear';">Activewear</a></li>
-										<li id="n_swimwear"><a href="http://www.soma.com/store/browse/shelf.jsp?cat=Swimwear&amp;catId=cat2060003" onclick="s_objectID='Swimwear';">Swimwear</a></li>				
-										<li id="n_sale"><a href="http://www.soma.com/store/browse/sale_shelf.jsp?cat=Sale" onclick="s_objectID='Sale';">Sale</a></li>
-										<li id="n_bag"><a href="http://www.soma.com/store/checkout/cart.jsp" onclick="s_objectID='Shopping Bag';">Shopping Bag</a><div id="bag-count">
-												0&nbsp;items
-										            </div>
-										</li>
-									</ul>
-							   		</div>
+			        <script type="text/javascript">
+function submitKeywordSearch()
+							{
+							document.getElementById("keywrd").value=document.getElementById("catalogid-box").value;
+							document.hform1a.submit();
+							}
+</script>
+<form action="/store/search/search_results.jsp?_DARGS=/store/include/header.jsp" name="hform1a" method="POST" id="hform1"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="3461779342610542800" type="hidden" name="_dynSessConf"><input value="" type="hidden" name="kywrd" id="keywrd"><input value=" " type="hidden" name="_D:kywrd"><input value="true" type="hidden" name="/atg/commerce/search/catalog/QueryFormHandler.searchRequest.saveRequest"><input value=" " type="hidden" name="_D:/atg/commerce/search/catalog/QueryFormHandler.searchRequest.saveRequest"><input value="true" type="hidden" name="/fas/search/repository/FasSearchResponseProcessor.saveFacets"><input value=" " type="hidden" name="_D:/fas/search/repository/FasSearchResponseProcessor.saveFacets"><input value="true" type="hidden" name="/atg/commerce/search/catalog/QueryFormHandler.keywordSearch"><input value=" " type="hidden" name="_D:/atg/commerce/search/catalog/QueryFormHandler.keywordSearch"><input value="submit" type="hidden" name="/atg/commerce/search/catalog/QueryFormHandler.search"><input value=" " type="hidden" name="_D:/atg/commerce/search/catalog/QueryFormHandler.search"><input value="/store/include/header.jsp" type="hidden" name="_DARGS"></form><script>
+    __initialFacetTrail__ = "";
+  </script>
+
+  <div id="header" class="">
+	<h1 id="header-logo"><a href="http://www.soma.com/store/home.jsp" onclick="s_objectID='Soma Intimates';"><img width="132" height="53" src="/store/images/common/soma_intimates.gif" border="0" alt="Soma Intimates"></a></h1>
+	<div id="header-promo"><a href="/store/browse/shelf.jsp?cat=Whats+New+Bras&amp;catId=cat5289276&amp;icid=HP_giveGet_guide_promo"><img src="/web_assets/image/20091116/top_promo.gif" alt="Holiday gift guide"></a></div>
+				<form action="http://www.soma.com/store/search/search_results.jsp" onsubmit="return isEmptyQSearch('headerFasSearch');" name="headerFasSearch" method="GET" id="headerFasSearch"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="3461779342610542800" type="hidden" name="_dynSessConf"><div id="tertiary-nav">
+						<a href="https://www.soma.com/store/account/login.jsp" onclick="s_objectID='my account';">my account</a><img width="1" height="9" class="nav-vertical-divider" src="/store/images/common/nav_divider.jpg" alt=""><img src="/store/images/common/shoppingbag_empty.gif" alt="Shopping Bag"><a href="http://www.soma.com/store/checkout/cart.jsp" onclick="s_objectID='Shopping Bag'">shopping bag&nbsp;(<span id="bag-count">
+										0 items
+											</span>)</a><img width="1" height="9" class="nav-vertical-divider" src="/store/images/common/nav_divider.jpg" alt=""><a href="http://www.soma.com/store/browse/catalog.jsp" onclick="s_objectID='shop by catalog';">shop by catalog</a><img width="1" height="9" class="nav-vertical-divider" src="/store/images/common/nav_divider.jpg" alt=""><input value="Search" type="text" onfocus="this.value=''" size="30" alt="Enter Keywords To Search On" name="searchTerm" id="catalogid-box"><input value=" " type="hidden" name="_D:searchTerm"><input value="true" type="hidden" name="qfh_sr"><input value=" " type="hidden" name="_D:qfh_sr"><input value="true" type="hidden" name="fsrp_sf"><input value=" " type="hidden" name="_D:fsrp_sf"><input value="true" type="hidden" name="qfh_ks"><input value=" " type="hidden" name="_D:qfh_ks"><input value="submit" type="hidden" name="qfh_s_s"><input value=" " type="hidden" name="_D:qfh_s_s"><input name="submit" type="image" src="/store/images/common/shop_btn.jpg" border="0" alt="search" id="catalogid-button" value="search" onclick="return isEmptyQSearch('headerFasSearch');">
+						
+						</div>
+						<input value="/store/include/header.jsp.1" type="hidden" name="_DARGS"></form><div id="primary-nav">
+		<ul id="nav">
+
+								<li id="n_whatsnew">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Whats+New&amp;catId=cat20002" onclick="s_objectID='Whats New';">
+									What's New</a></li>
+
+									<li id="n_bras">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Bras&amp;catId=cat40089" onclick="s_objectID='Bras';">
+										Bras</a></li>
+
+									<li id="n_panties">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Panties&amp;catId=cat40090" onclick="s_objectID='Panties';">
+										Panties</a></li>
+
+									<li id="n_vanishing_edge">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Vanishing+Edge&amp;catId=cat20004" onclick="s_objectID='Vanishing Edge';">
+										Vanishing Edge</a></li>
+
+									<li id="n_somawear">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Somawear&amp;catId=cat5039300" onclick="s_objectID='Somawear';">
+										Somawear</a></li>
+
+									<li id="n_sleepwear">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Sleepwear&amp;catId=cat40092" onclick="s_objectID='Sleepwear';">
+										Sleepwear</a></li>
+
+									<li id="n_active">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Active&amp;catId=cat40135" onclick="s_objectID='Active';">
+										Activewear</a></li>
+
+									<li id="n_shapewear">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Shape+Shop&amp;catId=cat40091" onclick="s_objectID='Shape Shop';">
+										Shape Shop</a></li>
+									
+									<li id="n_swim">
+									<a href="http://www.soma.com/store/browse/shelf.jsp?cat=Swim&amp;catId=cat2060003" onclick="s_objectID='Swim';">
+									Swimwear</a></li>
+
+									<li id="n_sale">
+										<a href="/store/search/search_results.jsp?_DARGS=/store/include/header.jsp.2_AF&amp;_dynSessConf=3461779342610542800&amp;trail=10275%3Acat4809276&amp;_D%3Aqfh_ft=+&amp;qfh_fsr=true&amp;_D%3Aqfh_fsr=+&amp;qfh_cl=true&amp;_D%3Aqfh_cl=+&amp;catId=cat4809276&amp;fsrp_sf=true&amp;_D%3Afsrp_sf=+&amp;qfh_ft=10275%3Acat4809276&amp;_D%3Aqfh_s_s=+&amp;qfh_s_s=submit" onclick="s_objectID='Sale';">
+												Sale</a></li>
+							</ul>
+							</div>
 </div>
 <div id="content">
 				        <div id="main-content">
@@ -95,7 +171,7 @@
 										<div id="content-header">Privacy Policy</div>
 				   						<div id="page-content-nav">
 				   							<p><span class="section-header">Privacy Policy</span><br>
- Revised December 5, 2008<br>
+ Revised September 8, 2009<br>
 </p>
 <p><strong class="section-header">Information We Collect</strong><br>
  We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:</p>
@@ -136,7 +212,11 @@
  Our website uses "cookies" which are small data files stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, cookies allow us to remember what's in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits to our website. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies however, you will not be able to access your account information or make purchases on our website. <br>
  </p>
 <p><strong class="section-header">Security</strong><br>
- We use a variety of technologies and processes for protection of our customer data. We use encryption technology whenever transmitting sensitive data such as credit and debit card information. Please note however that absolute security can never be guaranteed. We will never request your credit card or other personal information by email. If you receive an email that appears to be a request from us for personal information, do not respond as this may be a "phishing" scam designed to steal your personal information. Email is not a secure means of communication. Never include in an email your credit card number or other sensitive information. We will only request such information during secure transactions at our website. </p>
+ We use a variety of technologies and processes for protection of our customer data. We use encryption technology whenever transmitting sensitive data such as credit and debit card information. Please note however that absolute security can never be guaranteed. We will never request your credit card or other personal information by email. If you receive an email that appears to be a request from us for personal information, do not respond as this may be a "phishing" scam designed to steal your personal information. Email is not a secure means of communication. Never include in an email your credit card number or other sensitive information. We will only request such information during secure transactions at our website. <br>
+</p>
+<p><strong class="section-header">Third-Party Ads</strong><br>
+We use a third-party service provider to serve ads on our behalf across the Internet.  They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.  If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a><br>
+</p>
 <p><strong class="section-header">Links to Other Websites</strong><br>
  Our website may contain links to websites owned by third parties. (See <strong><a href="/store/page.jsp?id=54#links">Terms of Use, Links to Other Websites</a></strong>.) Please review the privacy policy of any site you access through our website. <strong></strong><br>
  </p>
@@ -159,7 +239,8 @@
 					        	</div>
 					</div><div class="clear"></div>
 				</div>
-       			<div id="footer">
+
+          		<div id="footer">
 	<script>
 		function emailSignUp()
 		{
@@ -172,11 +253,13 @@
 		sign up for email<br>
 		<input type="text" name="email-box" id="email-box" value="">
 		<img onclick="javascript:emailSignUp(); s_objectID='email button';" src="/store/images/common/shop_btn.jpg" border="0" alt="" id="email-button"></div>
-	<div id="fn-gift"><a href="http://www.soma.com/store/browse/gift_cert.jsp?subCatId=cat40126&amp;catId=cat40125" onclick="s_objectID='gift cards from Soma Intimates';">gift cards from Soma Intimates</a></div>
+	<div id="fn-gift"><a href="http://www.soma.com/store/browse/gift_cert.jsp" onclick="s_objectID='gift cards from Soma Intimates';">gift cards from Soma Intimates</a></div>
 	<div id="fn-passport"><a href="http://www.soma.com/store/account/loyalty.jsp" onclick="s_objectID='passport program';">passport program</a></div>
-	<div id="fn-support">
-					<span class="service-header">talk to our fit experts:</span><br>
-					866.768.7662  <a href="http://www.soma.com/store/page.jsp?id=61" onclick="s_objectID='customer service';">customer service</a></div>
+	<div id="fn-support" style="text-align:center">
+					<a href="javascript:webChatPop('Template=579529');"><img src="/web_assets/skins/btn_click_to_chat.gif" border="0" alt="Click to Chat"></a><br>
+					<span class="service-header">Live help from a solution expert</span><br>
+					866.768.7662
+					</div>
 				<div id="footer-nav">
 				<ul>
 					<li><a href="http://www.soma.com/store/fit_guide/fit_guide.jsp" onclick="s_objectID='bra fit guide';">bra fit guide</a></li>
@@ -194,7 +277,18 @@
 </div>
 <p id="copyright">Soma Intimates is a trademark of Chico's Brands Investments, Inc.<br>
 © 2009 Chico's Brands Investments, Inc.  All Rights Reserved.</p>
+
+<div id="text-popup"><div id="text-popup-content"></div></div>
 <div id="zone-error-hidden" style="display:none;"></div>
+
+<!-- Search Ignite BEGIN click tracking script  version 4.0 -->
+<script language="javascript" type="text/javascript">
+			document.write('<s'+'cript language="javascript" type="text/javascript" src="'+document.location.protocol+'//track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=3600&jscript=1"></s'+'cript>');
+		</script><script language="javascript" type="text/javascript" src="https://track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=3600&amp;jscript=1"></script>
+		<noscript><img width="1" height="1" src='http://track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=3600&jscript=0'></noscript>
+		<script src="https://chic.netmng.com/?aid=152" type="text/javascript" defer="defer"></script>
+	<!--Search Ignite END click tracking script  version 4.0 -->
+
 <!-- SiteCatalyst code version: H.17.
 	Copyright 1997-2008 Omniture, Inc. More info available at
 	http://www.omniture.com -->
@@ -225,6 +319,14 @@
 		s.eVar9 = "";
 		s.eVar10 = "";
 		
+		s.eVar25 = "";
+		s.eVar26 = ""; 
+		s.eVar27 = ""; 
+		s.eVar28 = ""; 
+		s.eVar29 = ""; 
+		s.eVar30 = ""; 
+		s.eVar31 = ""; 
+		
 		s.eVar2 = "";
 		
 		s.eVar3 = "";
@@ -254,4 +356,4 @@
 </div>
 		
 	
-</body></html>
+<div class="modalWindow jqmID1" id="modal"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr class="modalControls"><td class="modalCaption"></td><td align="right"><a class="modalClose"></a></td></tr><tr><td colspan="2"><div class="modalContent"></div></td></tr></tbody></table></div><div class="modalWindow jqmID2" id="alert"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr class="modalControls"><td class="modalCaption"></td><td align="right"><a class="modalClose"></a></td></tr><tr><td colspan="2"><div class="modalContent"></div></td></tr></tbody></table></div><div class="modalWindow jqmID3" id="quickViewWindow"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr class="modalControls"><td class="modalCaption">Quick View</td><td align="right"><a class="qvClose"></a></td></tr><tr><td colspan="2"><div class="quickViewContent"></div></td></tr></tbody></table></div></body></html>
