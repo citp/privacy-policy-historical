@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcwin.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201251id_/http%3A//pcwin.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwin.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010615id_/http%3A//pcwin.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Poilcy for PCWIN.COM
+# Privacy Policy for PCWIN.COM
 
 **Privacy Policy of pcwin.com**
 
