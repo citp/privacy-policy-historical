@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191823id_/http%3A//www.listsomething.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133545id_/http%3A//www.listsomething.com/site/privacy) for the most accurate reproduction.*
 
 # ListSomething.com
 
@@ -24,6 +24,10 @@
   * * ListSomething.com does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology.
   * * We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on ListSomething.com's forums or classifieds that you expect to keep private.
   * * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the ListSomething.com site, and to otherwise provide our service to you. 
+  * * Google, as a third party vendor, uses cookies to serve ads on this site
+  * * Google's use of the DART cookie enables it to serve ads to you based on your visit sites on the Internet
+  * * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/privacy_ads.html)
+  * * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
 
 
 
