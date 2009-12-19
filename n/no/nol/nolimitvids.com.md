@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nolimitvids.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618212940id_/http%3A//nolimitvids.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolimitvids.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219164323id_/http%3A//nolimitvids.com/info/privacy) for the most accurate reproduction.*
 
 # No Limit Vids - Unlimited XXX DVD Downloads Instantly
 
