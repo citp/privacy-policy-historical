@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154532id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219034003id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Direct
 
@@ -43,3 +43,5 @@ In accordance with the Privacy & Electronic Communications Act passed into law i
 Digital Direct conform with the requirements of the Data Protection Act, 1998. 
 
 Should you have any queries with regard our privacy policy then please contact us at privacy@digitaldirect.uk.com
+
+[](http://www.addthis.com/bookmark.php)
