@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212654id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219201956id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
 
 # YesButNoButYes: Privacy Policy
 
@@ -15,3 +15,5 @@ This site contain links to other sites. We are not responsible for the privacy p
 Finally, if any of you people have a problem with any of that, then you better email us at [webmaster@yesbutnobutyes.com](maito:webmaster@yesbutnobutyes.com). (But then, of course, we'll know exactly who you are.) 
 
 [Stumble This](http://www.stumbleupon.com/submit?url=http://www.yesbutnobutyes.com/privacy.html&title=Privacy%20Policy)    [Reddit!](http://reddit.com/submit?url=http://www.yesbutnobutyes.com/privacy.html&title=Privacy%20Policy)
+
+Facebook Comments test...
