@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitmovieclub.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185650id_/http%3A//bigtitmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitmovieclub.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219231730id_/http%3A//bigtitmovieclub.com/info/privacy) for the most accurate reproduction.*
 
 # Big Tit Movie Club - Internet's biggest Big Tit DVD site
 
