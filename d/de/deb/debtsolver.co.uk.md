@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debtsolver.co.uk privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429072007id_/http%3A//www.debtsolver.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtsolver.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219124448id_/http%3A//www.debtsolver.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Debtsolver | The debt advice company
+# Read the Debtsolver Privacy Policy | Debtsolver
 
 Your Privacy
 
@@ -74,7 +74,7 @@ Accuma Group and its subsidiaries may contact you for all types of marketing tha
 
 Debt Solutions
 
-Accuma Group plc offers a range of [debt solutions](https://web.archive.org/debt-advice) through it subsidiary businesses.
+Accuma Group plc offers a range of debt solutions through it subsidiary businesses.
 
 Depending on your individual situation your details will be passed to the relevant group business to assist you. Our Insolvency Practice for Individual Voluntary Arrangements are Wilson Phillips, for Debt Management Plans our company is Byrom & Keeley Financial Services and for Consolidation Loans our company is LoanLine. We may also, with your agreement, refer you on to other third party companies, not part of the Accuma Group.
 
