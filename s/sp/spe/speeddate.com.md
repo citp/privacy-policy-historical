@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090035id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033818id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
-# SpeedDate
+# Online Speed Dating - SpeedDate.com
 
 This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed by SpeedDate.com, Inc. (“SpeedDate”).
 
@@ -18,7 +18,7 @@ Please note that individuals under the age of 18 may not submit any personal inf
 
 We use data collection devices such as "cookies" on certain pages of the Service. "Cookies" are small files placed on Your hard drive that assist Us in providing customized services. Certain features of the Service are only available with the use of a "cookie." We use this information to determine Our members' demographics, interests, and behavior to better understand and serve You and other members. This information may include the URL of the website that You visited prior to the Service (whether this URL is on the Service or not), the URL of the website You next go to (whether this URL is on the Service or not), what browser You are using and Your Internet Protocol address. Most cookies are "session cookies" meaning that they are automatically deleted from Your hard drive at the end of a session. You are always free not to accept cookies if Your browser permits.
 
-We may use a third party advertising company to serve ads on Our behalf across the Internet. That advertising company may also collect anonymous information about Your visits to the Service. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon, cookie or an action tag, which is placed on various Web pages within the Service or in an HTML e-mail that allows the third party advertising company to collect anonymous information. There may also be a number of services offered by external service providers that help You use the Service. If You choose to use these optional services and in doing so disclose information to the external service providers or grant them permission to collect information about You, then their use of Your information will be governed by their private policies, if any.
+We may use a third party advertising company to serve ads on Our behalf across the Internet. That advertising company may also collect anonymous information about Your visits to the Service. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon, cookie or an action tag, which is placed on various Web pages within the Service or in an HTML email that allows the third party advertising company to collect anonymous information. There may also be a number of services offered by external service providers that help You use the Service. If You choose to use these optional services and in doing so disclose information to the external service providers or grant them permission to collect information about You, then their use of Your information will be governed by their private policies, if any.
 
 #### How We Use Personal Information
 
@@ -36,11 +36,11 @@ You have full control regarding which of these emails you want to receive. To ch
 
 #### Inviting Friends
 
-Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. Your friends may contact us at [info@speeddate.com](mailto:info@speeddate.com) to request that we remove their information from our database. 
+Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. Your friends may [contact us](http://helpspot.speeddate.com/index.php?pg=request) to request that we remove their information from our database. 
 
 For your convenience, SpeedDate.com offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not leave preselected or explicitly select, and your invitations are the only email we will ever send to your friends unless they register to join the site. 
 
-If you have accidentally sent invitations you did not intend - please [contact us](mailto:info@speeddate.com) and we can cancel the reminder message. 
+If you have accidentally sent invitations you did not intend - please [contact us](http://helpspot.speeddate.com/index.php?pg=request) and we can cancel the reminder message. 
 
 #### Our Disclosure of Your Information
 
