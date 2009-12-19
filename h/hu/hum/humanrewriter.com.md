@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620162328id_/http%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219132233id_/http%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Human Rewriter - Human Powered Content Spinner
 
