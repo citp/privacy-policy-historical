@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebonymovievault.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140910id_/http%3A//ebonymovievault.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebonymovievault.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219014731id_/http%3A//ebonymovievault.com/info/privacy) for the most accurate reproduction.*
 
 # Ebony Movie Vault - Internet's biggest Ebony DVD site
 
