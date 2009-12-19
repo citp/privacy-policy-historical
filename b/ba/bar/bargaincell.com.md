@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525101404id_/http%3A//www.bargaincell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144144id_/http%3A//www.bargaincell.com/privacy.html) for the most accurate reproduction.*
 
 # BargainCell.com - Bargain Cellular Phone Accessories, Motorola, LG, BlackBerry, Nokia, Samsung, Palm Treo, Sanyo, Sony Ericsson, UTStarcom, iPhone accessory & iPod touch, iPod Classic, Nano, Shuffle, Video, psp, wii accessory
 
