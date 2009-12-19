@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainingpeaks.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619035841id_/http%3A//home.trainingpeaks.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainingpeaks.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219033353id_/http%3A//home.trainingpeaks.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,18 +10,10 @@
 <meta name="robots" content="all">
 <link rel="icon" href="/media/29269/favicon.ico" type="image/x-icon">
 <link rel="Shortcut Icon" href="/media/29269/favicon.ico" type="image/x-icon"> 
-
+<script type="text/javascript" src="/scripts/js/jquery126.js"></script>
+<script type="text/javascript" src="/scripts/js/trainingpeaks.js"></script>
 <script type="text/javascript">
-//get pagename
-var sPath = window.location.pathname;
-var pagename = sPath.substring(sPath.lastIndexOf('/') + 1);
-//get subdomain
-var a = document.URL.split("//"); // split at protocol
-var protocol = a[0];
-var b = (a[1] ? a[1] : a[0]).split("/");
-var domain = b[0];
-a = (a[1] ? a[1] : a[0]).split(".");
-var subdomain = a[0];
+
 if (protocol == "https:")
 {
 	document.write ('<link rel="stylesheet" type="text/css" href="/css/trainingpeaks.css">');
@@ -36,40 +28,52 @@ else
 <noscript>
 <link rel="stylesheet" type="text/css" href="/css/trainingpeaks.css">
 </noscript>
-
+<style>
+.chrome #slidernav .ui-tabs-nav{margin-bottom:8px}
+</style>
 <link rel="stylesheet" type="text/css" href="/css/supportcontent.css">
-<link rel="stylesheet" type="text/css" href="/css/scrollable.css">
-<link rel="stylesheet" type="text/css" href="/css/ui.tabs.css">
-<link rel="stylesheet" type="text/css" href="/css/sIFR-screen.css" media="screen">
-<script type="text/javascript" src="/scripts/js/jquery126.js"></script>
-<script type="text/javascript" src="/scripts/js/trainingpeaks.js"></script>
 
+
+<script type="text/javascript">
+$(document).ready(function(){
+if (DetectMobile()) 
+	$("#mobileMessage").toggle();
+ });
+</script>
 </head>
-<body>
+<body onload="document.loginform.username.focus();">
 
 <div id="wrapper">
+	<div id="mobileMessage" style="display:none;padding:5px;margin-bottom:13px;font-weight:bold;text-align:center;border:1px solid #cc0000;background:#fff;">
+	<a href="https://www.trainingpeaks.com/m/">Login to TrainingPeaks Mobile</a> (premium or professional account required)
+	</div>
      <div id="header">
+	  <div id="loginnotification" class="hide">&nbsp;</div>
           <div id="logo">
                <h1><a href="http://home.trainingpeaks.com/">Training log and Training plans for Running, Cycling, Triathlon and Fitness</a></h1>
           </div>
-          <form method="post" id="loginform" action="https://www.trainingpeaks.com/authuser.asp?fr=trainingpeaks">
-               <div id="access">
+          <form method="post" id="loginform" name="loginform" action="https://www.trainingpeaks.com/authuser.asp?fr=trainingpeaks">
+               <div id="access">		    
+	       	    
                     <div id="login">
-                         <div class="logininput"> Username:<input class="forminput2" onfocus="if(this.value=='Username')this.value='';" value="" type="text" name="username" onblur="if(this.value=='')this.value='';"> &nbsp;
+                         <div class="logininput"> Username:<input class="forminput2" onfocus="if(this.value=='Username')this.value='';" value="" type="text" name="username" id="username" onblur="if(this.value=='')this.value='';"> &nbsp;
                               Password:<input type="password" name="Password" value="" class="forminput2">
                               </div>
                          <div class="loginsubmit">
                               <input type="submit" name="loginsubmit" value="GO" class="formsubmit">
                          </div>
                     </div>
-                    <br class="clear">
-		    <div id="loginnotification" class="hide">&nbsp;</div>
-                    <div id="start"> <a href="http://home.trainingpeaks.com/sign-up-personal-edition.aspx"><img src="/images/btn_signupfree_small.png"></a> </div>
+
+                    <div id="start"> <a href="http://home.trainingpeaks.com/sign-up-personal-edition.aspx"><img src="https://home.trainingpeaks.com/images/btn_signupfree_small.png"></a> </div><br class="clear">
+<div id="accessNav">
+<a href="https://www.trainingpeaks.com/routesearch/" target="_blank">Routes</a> | <a href="http://home.trainingpeaks.com/find-a-professional.aspx">Find a Coach</a> | <a href="http://home.trainingpeaks.com/videos.aspx">How To Videos</a> | <a href="http://home.trainingpeaks.com/members/downloads.aspx">Downloads</a> | <a href="http://www.trainingpeaks.com/m/">Mobile</a>
+</div>
 
                </div>
           </form>
      </div>
-     <div id="dhtmlwindowholder"><span style="display:none">.</span></div><!--modal window: needs to be above first relative position-->
+
+     <div id="dhtmlwindowholder"><span style="display:none">.</span></div>
      <br class="clear">
      <div id="wrappernav" class="load">
 
@@ -77,13 +81,13 @@ else
 		<li id="mainnav-trainingpeaks"><a href="http://home.trainingpeaks.com/">TrainingPeaks</a></li>
 		<li id="mainnav-personal"><a href="http://home.trainingpeaks.com/personal-edition/training-log-and-food-diary.aspx">Personal</a></li>
 		<li id="mainnav-professional"><a href="http://home.trainingpeaks.com/professional-edition/client-management-tools.aspx">Professional</a></li>
-		<li id="mainnav-plans"><a href="http://home.trainingpeaks.com/training-and-nutrition-plans/training-plans-and-meal-plans-for-expert-guidance.aspx">Training &amp; Meal Plans</a></li>
+		<li id="mainnav-plans"><a href="http://home.trainingpeaks.com/training-and-nutrition-plans.aspx">Training &amp; Meal Plans</a></li>
 		<li id="mainnav-wko"><a href="http://home.trainingpeaks.com/wko-desktop-software/analysis-software-for-training-files.aspx">WKO+</a></li>
 		<li id="mainnav-blog"><a href="http://blog.trainingpeaks.com">Blog</a></li>
 		<li id="mainnav-support"><a href="http://support.trainingpeaks.com/">Support</a></li>
 	</ul>
 	<div id="sitesearch">
-          <form method="get" action="/search-results.aspx" class="search" id="g-search">
+          <form method="get" action="http://home.trainingpeaks.com/search-results.aspx" class="search" id="g-search">
                <div>
 <label for="sp-searchtext"> <span class="prettyplaceholder">Search</span>
 <input onfocus="if(this.value=='Search')this.value='';" value="Search" class="s-searcher" type="text" name="search" onblur="if(this.value=='')this.value='Search';"></label>
@@ -816,7 +820,7 @@ using the Internet.<span>&nbsp; </span>
 		TrainingPeaks is the ultimate training log and food diary designed to help motivated individuals and professionals achieve health, fitness and peak performance.<br></span>
      </div>
      <div id="footernav"> 
-<a href="http://www.peaksware.com/">About Us</a> | <a href="http://support.trainingpeaks.com/">Support</a> | <a href="http://www.trainingpeaks.com/bbs-forum/index.asp?viewgroup=1">Message Boards</a> | <a href="http://home.trainingpeaks.com/products.aspx">Products</a> |<a href="http://blog.trainingpeaks.com/">Blog</a> | <a href="http://support.trainingpeaks.com/general-faq%27s.aspx">FAQ</a> | <a href="http://home.trainingpeaks.com/site-map.aspx">Site Map</a> </div>
+<a href="http://www.peaksware.com/">About Us</a> | <a href="http://support.trainingpeaks.com/">Support</a> | <a href="http://www.trainingpeaks.com/bbs-forum/index.asp?viewgroup=1">Forums</a> | <a href="http://home.trainingpeaks.com/products.aspx">Products</a> |<a href="http://blog.trainingpeaks.com/">Blog</a> | <a href="http://support.trainingpeaks.com/general-faq%27s.aspx">FAQ</a> | <a href="http://home.trainingpeaks.com/site-map.aspx">Site Map</a> </div>
      <div id="copyright" class="smallgrey">
           <script type="text/javascript">
 		var curdate = new Date();
@@ -853,7 +857,24 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-50150-3");
 pageTracker._setDomainName(".trainingpeaks.com");
 pageTracker._trackPageview();
+
 </script>
+
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript">
+    _qoptions = {
+        qacct: "p-2bKEFt52rWPDg"
+    };
+</script>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+<noscript>
+    <img src="http://pixel.quantserve.com/pixel/p-2bKEFt52rWPDg.gif" style="display: none;"
+        border="0" height="1" width="1" alt="Quantcast" />
+</noscript>
+<!-- End Quantcast tag -->
 
 
 
