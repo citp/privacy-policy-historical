@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheatcodesweb.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103950id_/http%3A//www.cheatcodesweb.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodesweb.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219200101id_/http%3A//www.cheatcodesweb.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Cheat Codes Web
 
-**[Home](https://web.archive.org/web/20090618103950id_/http%3A//www.cheatcodesweb.com/index.htm)  >  Privacy Policy**
+**[Home](https://web.archive.org/web/20091219200101id_/http%3A//www.cheatcodesweb.com/index.htm)  >  Privacy Policy**
 
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
