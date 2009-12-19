@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035815id_/http%3A//www.oneplace.com/Help/Help.aspx%3FHelpID%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219195634id_/http%3A//www.oneplace.com/Help/Help.aspx%3FHelpID%3D88) for the most accurate reproduction.*
 
 # Help Topics
 
