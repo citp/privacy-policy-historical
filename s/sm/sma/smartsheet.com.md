@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616191842id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219185219id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
-# Smartsheet | Online Project Collaboration - Privacy Policy
+# Privacy Policy | Smartsheet
 
 **Smartsheet.com Privacy Statement**
 
