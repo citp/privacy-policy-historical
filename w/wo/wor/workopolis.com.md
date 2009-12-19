@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413064347id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033611id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
 
 # workopolis.com - Privacy Policy - Canada's Biggest Job Site
 
@@ -6,7 +6,7 @@
 
 ### WORKOPOLIS PARTNERSHIP PRIVACY POLICY
 
-_Last Updated on May 18, 2006_
+_Last Updated on July 30, 2008_
 
 At the Workopolis partnership ("Workopolis"), protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy.
 
@@ -60,6 +60,8 @@ By registering on this site, by submitting your resume or any information throug
   7. The purposes for which we collect any information will always be as set out in this Privacy Policy or as otherwise expressly communicated to you before we collect the information.
 
   8. We do not knowingly solicit information from children and we do not knowingly market our services to minor.
+
+  9. Some ads appearing on this website are delivered to you by DoubleClick, a web advertising company. Information about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal information) is used to serve additional ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please visit <http://www.doubleclick.com/privacy/index.aspx>
 
 
 
@@ -137,7 +139,7 @@ By registering on this site, by submitting your resume or any information throug
 
   2. We maintain record retention practices and policies which apply to personal information that is no longer necessary or relevant for the identified purposes, or that is no longer required or permitted by law to be retained.
 
-  3. As a part of our record retention practices and policies, if you email us at [privacy@workopolis.com](mailto:privacy@workopolis.com), we will erase all of your personal information upon request, including your Registration Information and account. If personal information is ever to be used to make a decision about you it will be retained long enough to allow you access to the information after the decision has been made.
+  3. As a part of our record retention practices and policies, if you email us at [comments@support.workopolis.com](mailto:comments@support.workopolis.com), we will erase all of your personal information upon request, including your Registration Information and account. If personal information is ever to be used to make a decision about you it will be retained long enough to allow you access to the information after the decision has been made.
 
   4. All personal information destroyed or erased from our records is done so securely with due regard to the sensitivity of the information.
 
@@ -156,7 +158,7 @@ By registering on this site, by submitting your resume or any information throug
 
   5. We will not require you to consent to the collection, use or disclosure of personal information as a condition to the supply of any products or services, except to the extent reasonably required to fulfill the purposes identified in this Privacy Policy or otherwise identified at the time that we collect your personal information.
 
-  6. You may withdraw your consent to the continued collection, use or disclosure of your personal information by Workopolis at any time by sending an email to [privacy@workopolis.com](mailto:privacy@workopolis.com) or by calling 1-888-641-4047, but such a request would be subject to legal or contractual restrictions. We would also require reasonable advance notice to effect any requested changes. A request that we no longer collect or use your Registration Information or certain User Information or Anonymous Information, may mean that we will no longer have practical means to provide you with our services or products. You may no longer be able to log in to our site or may lose certain functionality when visiting the site, including functionality that depends on Anonymous Information such as the placement of cookies.
+  6. You may withdraw your consent to the continued collection, use or disclosure of your personal information by Workopolis at any time by sending an email to [comments@support.workopolis.com](mailto:comments@support.workopolis.com) or by calling 1-888-641-4047, but such a request would be subject to legal or contractual restrictions. We would also require reasonable advance notice to effect any requested changes. A request that we no longer collect or use your Registration Information or certain User Information or Anonymous Information, may mean that we will no longer have practical means to provide you with our services or products. You may no longer be able to log in to our site or may lose certain functionality when visiting the site, including functionality that depends on Anonymous Information such as the placement of cookies.
 
   7. If you withdraw your consent to the disclosure of personal information that you have previously authorized us to share with others, such as your Resumé, you should know that employers, recruiters and others who have subscribed to the Resumé database or for whose job posting you may have applied, may already have retained a copy of your Resumé or such personal information in their own systems and databases.
 
@@ -186,11 +188,11 @@ By registering on this site, by submitting your resume or any information throug
 
   4. You can update or delete your Resumé at any time by logging on to the site and making the required changes. However, employers, recruiters and others who subscribe to the Resumé database or for whose job posting you may have applied, may already have retained a copy of your Resumé in their own systems and databases.
 
-  5. You may similarly contact us to address errors or omissions relating to your personal information by emailing [privacy@workopolis.com](mailto:privacy@workopolis.com) or by telephoning 1-888-641-4047. Workopolis does not share your identifiable personal information with any third party.
+  5. You may similarly contact us to address errors or omissions relating to your personal information by emailing [comments@support.workopolis.com](mailto:comments@support.workopolis.com) or by telephoning 1-888-641-4047. Workopolis does not share your identifiable personal information with any third party.
 
   6. If you decide at any time that you do not want to receive any updates to which you have subscribed, you can log in to the site and change your personal preferences or email a request to [comments@support.workopolis.com](mailto:comments@support.workopolis.com) indicating your preference not to receive updates.
 
-  7. Upon request made in writing, Workopolis will inform you of the existence, use and disclosure of your personal information, at minimal or no cost to you, in accordance with processes and procedures that we have put in place for such requests. If you are unsure whether we have a record containing your personal information and would like to confirm what personal information we have, please send an email to [privacy@workopolis.com](mailto:privacy@workopolis.com) with your request, identifying all email addresses which you may have given us. If there is a cost involved at all, we will inform you at that time.
+  7. Upon request made in writing, Workopolis will inform you of the existence, use and disclosure of your personal information, at minimal or no cost to you, in accordance with processes and procedures that we have put in place for such requests. If you are unsure whether we have a record containing your personal information and would like to confirm what personal information we have, please send an email to [comments@support.workopolis.com](mailto:comments@support.workopolis.com) with your request, identifying all email addresses which you may have given us. If there is a cost involved at all, we will inform you at that time.
 
   8. We may require additional information from you in order to verify your identity following an access request. Such personal information will only be used for the purpose of identity verification and will itself be subject to protection under the terms of this Privacy Policy.
 
@@ -240,9 +242,9 @@ By registering on this site, by submitting your resume or any information throug
 
 **11\. Contact Us**
 
-  1. Workopolis will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about our privacy policies and procedures, any requests for access to our records of your personal information and any other privacy related concerns or complaints to [privacy@workopolis.com](mailto:privacy@workopolis.com). All privacy related complaints will be acknowledged, recorded, investigated and responded to in accordance with applicable law.
+  1. Workopolis will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about our privacy policies and procedures, any requests for access to our records of your personal information and any other privacy related concerns or complaints to [comments@support.workopolis.com](mailto:comments@support.workopolis.com). All privacy related complaints will be acknowledged, recorded, investigated and responded to in accordance with applicable law.
 
-  2. You can contact us by e-mail at [privacy@workopolis.com](mailto:privacy@workopolis.com), through our toll-free line at 1-888-641-4047 or by postal mail at:
+  2. You can contact us by e-mail at [comments@support.workopolis.com](mailto:comments@support.workopolis.com), through our toll-free line at 1-888-641-4047 or by postal mail at:
 
   Privacy, Workopolis  
 720 King Street West  
