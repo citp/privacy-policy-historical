@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the howstuffworks.com privacy policy that was archived on 2009-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090607071554id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the howstuffworks.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219110117id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 	<script language="JavaScript">
 	<!--
 
@@ -22,16 +22,18 @@
 	</script>
 	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
 	<title>Howstuffworks "Privacy Policy"</title>
-	<link href="http://www.howstuffworks.com/css?m=basicV3.css%2CutilityV3.css%2ClayoutV3.css%2CnavV4.css%2Carticle.css&amp;r=7424" rel="stylesheet" type="text/css">
+	<link href="http://www.howstuffworks.com/css?m=reset.css%2CbasicV3.css%2CutilityV3.css%2ClayoutV3.css%2CnavV4.css%2Carticle.css%2CheaderSiteWide.css%2Csm.css%2Csm%2FtoolBar.css&amp;r=8010" rel="stylesheet" type="text/css">
 	<!--[if lt IE 7]>
-	<link href="http://www.howstuffworks.com/css?m=nav_ie6.css%2Cie6.css&r=7424" rel="stylesheet" type="text/css" />
+	<link href="http://www.howstuffworks.com/css?m=nav_ie6.css%2Cie6.css&r=8010" rel="stylesheet" type="text/css" />
 	<![endif]-->
+	<script type="text/javascript" src="http://www.howstuffworks.com/js?m=jquery.js%2Chsw.js%2Cmodal.js%2CpanelHover.js%2Csm.js%2Csm%2Flogin.js%2Csm%2Frecommendation.js&amp;r=8010"></script>
 	
 <script type="text/javascript">
 <!--
 //configuration
-var OAS_url = "http:" + "//ad" + ".howstuf" + "fworks." + "com/Re" + "alM" + "edi" + "a/ads/";
-var OAS_sitepage = "www.how" + "stu" + "ffwor" + "ks.com/p" + "reempt/" + "ros/h" + "omep" + "age/priv" + "acy.htm";
+
+var OAS_url = "htt" + "p:/" + "/ad.how" + "stuf" + "fwork" + "s.com/" + "Real" + "Media/ad" + "s/";
+var OAS_sitepage = "www.ho" + "wstu" + "ffw" + "orks.co" + "m/pree" + "mpt/ro" + "s/home" + "page/p" + "rivacy" + ".htm";
 var adImpressions = new Array ();
 //yahoo spoof changes
 if (document.cookie.indexOf('_ybf1=1') != -1)
@@ -41,7 +43,34 @@ document.cookie = '_ybf1=1;expires=' + d.toGMTString() + ';' + ';';
 OAS_sitepage = OAS_sitepage.replace(/^[^\.]+\./, 'yahoo.');
 }
 var OAS_listpos = 'MedRect,TopBanner,x54,x55,x56,Tlink1,BotBanner';
-var OAS_query = 'About';
+
+var revenueScienceCookieData = getCookie("rsi_segs");
+var rsiQSValue = '';
+
+if (revenueScienceCookieData)
+{
+	var temp = revenueScienceCookieData.split("|");
+
+	for (var i=0; i < temp.length; i++)
+	{
+		if (temp[i])
+		{
+			rsiQSValue += "&rsi=" + encodeURIComponent (temp[i]);
+		}
+	}
+}
+else
+{
+	rsiQSValue = '&rsi=not';
+}
+
+var format = encodeURIComponent('');
+format = format ? '&f='+format : '';
+
+var affinity = encodeURIComponent('');
+affinity = affinity ? '&aff='+affinity : '';
+
+var OAS_query = 'tc='+encodeURIComponent('About')+'&p='+encodeURIComponent('0')+'&o='+encodeURIComponent('HSW') + rsiQSValue + affinity + format;
 var OAS_target = '_top';
 //end of configuration
 var OAS_version = 10;
@@ -71,7 +100,7 @@ function OAS_NORMAL(pos) {
 	}
 
 //-->
-</script><script type="text/javascript" src="http://ad.howstuffworks.com/RealMedia/ads/adstream_mjx.ads/www.howstuffworks.com/preempt/ros/homepage/privacy.htm/1341808923@MedRect,TopBanner,x54,x55,x56,Tlink1,BotBanner?About"></script>
+</script><script type="text/javascript" src="http://ad.howstuffworks.com/RealMedia/ads/adstream_mjx.ads/www.howstuffworks.com/preempt/ros/homepage/privacy.htm/1undefined@MedRect,TopBanner,x54,x55,x56,Tlink1,BotBanner?undefined"></script>
 
 <script type="text/javascript">
 <!--
@@ -89,7 +118,6 @@ function OAS_AD(pos)
 }
 //-->
 </script>
-	<script type="text/javascript" src="http://www.howstuffworks.com/js?m=swfobject.js%2Cjquery.js%2Chsw.js&amp;r=7424"></script>
 	<link rel="shortcut icon" href="http://static.howstuffworks.com/en-us/default/misc/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="How Stuff Works Feature Articles" href="http://feeds.howstuffworks.com/DailyStuff">
 <link rel="search" href="http://static.howstuffworks.com/en-us/default/misc/hsw-search.xml" type="application/opensearchdescription+xml" title="HowStuffWorks">
@@ -104,103 +132,75 @@ function OAS_AD(pos)
 </head>
 
 <body>
+	<script type="text/javascript">HSW.sm.loadPageInfo(555);</script>
 	<div class="bodyCont">
 		<div id="header">
-			<div class="ad">
-	<center>
-		<script type="text/javascript">
-		<!--
-			OAS_AD('TopBanner');
-		//-->
-		</script>
-	</center>
+			<div class="ad blockAlignCenter">
+	<script type="text/javascript">
+		OAS_AD('TopBanner');
+	</script>
 </div>
-			<div class="extras">
-	<div class="leftLinks">
-		<span><a href="http://videos.howstuffworks.com">Video Center</a></span>
-		<span><a href="http://maps.howstuffworks.com">Maps</a></span>
-		<h5 class="inline">Consumer Guide:</h5>
-		<ul class="extrasLinks">
-			<li><a href="http://consumerguideauto.howstuffworks.com">Auto Reviews</a> |</li>
-			<li><a href="http://products.howstuffworks.com">Product Reviews</a></li>
-		</ul>
-	</div>
-	<div class="rightLinks">
-		<ul class="extrasLinks">
-			<li><a href="javascript:makeHomePage()" id="hplink" onclick="var s=s_gi(s_account);s.tl(this,'o','Header - Set Home Page Link Clicks');">Make HSW your homepage</a> |</li>
-			<li><a href="/register.htm">Get Newsletter</a> |</li>
-			<li><a class="rss" href="/rss-feeds.htm">RSS</a> |</li>
-			<li><a omni="Home Pg: Random Article" href="/random-article" id="random-article"><img src="http://static.howstuffworks.com/en-us/default/icons/animated-button-article.gif" alt="Random Article" style="vertical-align: middle;" border="0" title="Random Article"> Random Article</a></li>
-		</ul>
-	</div>
-</div>
-			<div class="logoBarSearch">
-	<div style="float: left; width: 335px;">
-		<a class="spriteHSWLogo" href="http://www.howstuffworks.com">
-			HowStuffWorks
-		</a>
-	</div>
+			<div id="logoBarSearch">
+	<a class="hswLogoSprite" href="http://www.howstuffworks.com">HowStuffWorks</a>
 	<div class="search1">
 	<form omni="Search Top" class="searchForm" action="/search.php">
 		<label for="terms_Top">Search HowStuffWorks and the web</label>
-		<input type="text" id="terms_Top" name="terms" value="" class="searchField" onblur="if(this.value=='') {this.value='';}" onfocus="if(this.value=='Search HowStuffWorks and the Web') {this.value='';}">
-		<input type="submit" value="" alt="Search" class="spriteTopSearchButton">
-								</form>
+		<input type="text" id="terms_Top" name="terms" value="" class="searchField" onblur="if(this.value=='') {this.value='';}" onfocus="if(this.value=='Search HowStuffWorks and the Web') {this.value='';}"><input type="submit" value="" alt="Search" class="spriteTopSearchButton">
+		</form>
+</div>
+<div id="spriteDiscoveryLogo"></div>
+<div id="headerIconsContainer"><a class="hswVideoIconSprite" href="http://videos.howstuffworks.com/">Video</a> | <a omni="Top Header : RSS" omnivars="&amp;events=event33" class="hswRssIconSprite" href="/rss-feeds.htm">RSS</a> | <a omni="Random Article" id="random-article" class="hswRandomIconSprite" href="/random-article">Random</a></div>
 </div>
 
-<div class="discoveryBrand">
-	<div class="spriteDiscoveryLogo"></div>
-</div>
-</div>
-
-<div style="clear: both"></div>			<ul id="channelNav">
+<div style="clear: both"></div>
+			<ul id="channelNav">
 		<li>
-			<a omni="aboutus : Level 1 Nav : Home" href="http://www.howstuffworks.com/">Home</a>
+			<a href="http://www.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Home">Home</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Adventure" href="http://adventure.howstuffworks.com/">Adventure</a>
+			<a href="http://adventure.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Adventure">Adventure</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Animals" href="http://animals.howstuffworks.com/">Animals</a>
+			<a href="http://animals.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Animals">Animals</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Auto" href="http://auto.howstuffworks.com/">Auto</a>
+			<a href="http://auto.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Auto">Auto</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Communication" href="http://communication.howstuffworks.com/">Communication</a>
+			<a href="http://communication.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Communication">Communication</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Computer" href="http://computer.howstuffworks.com/">Computer</a>
+			<a href="http://computer.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Computer">Computer</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Electronics" href="http://electronics.howstuffworks.com/">Electronics</a>
+			<a href="http://electronics.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Electronics">Electronics</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Entertainment" href="http://entertainment.howstuffworks.com/">Entertainment</a>
+			<a href="http://entertainment.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Entertainment">Entertainment</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Food" href="http://recipes.howstuffworks.com/">Food</a>
+			<a href="http://recipes.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Food">Food</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Geography" href="http://geography.howstuffworks.com/">Geography</a>
+			<a href="http://geography.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Geography">Geography</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Health" href="http://health.howstuffworks.com/">Health</a>
+			<a href="http://health.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Health">Health</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : History" href="http://history.howstuffworks.com/">History</a>
+			<a href="http://history.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : History">History</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Home &amp; Garden" href="http://home.howstuffworks.com/">Home &amp; Garden</a>
+			<a href="http://home.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Home &amp; Garden">Home &amp; Garden</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Money" href="http://money.howstuffworks.com/">Money</a>
+			<a href="http://money.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Money">Money</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : People" href="http://people.howstuffworks.com/">People</a>
+			<a href="http://people.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : People">People</a>
 		</li>
 		<li class="divider"></li>		<li>
-			<a omni="aboutus : Level 1 Nav : Science" href="http://science.howstuffworks.com/">Science</a>
+			<a href="http://science.howstuffworks.com/" omnivars="&amp;c23=About : Level 1 Nav&amp;v40=About : Level 1 Nav" omni="Privacy Policy : Level 1 Nav  : Science">Science</a>
 		</li>
 		</ul>
 			<div class="breadcrumb">
@@ -208,7 +208,7 @@ function OAS_AD(pos)
 				&gt; <a href="http://www.howstuffworks.com/about-hsw.htm">About Us</a>
 			</div>
 		</div>
-		<div id="mainCont">
+		<div id="mainCont" class="clearFloat">
 			<div class="col1">
 				<div class="article module">
 										<div class="content">
@@ -743,15 +743,12 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 <div class="relatedAds">
 	<div class="clearer"></div>
 	<div class="related-inset">
-		
-<div class="reflinksContent">
-
-<script type="text/javascript">
-<!--
-	OAS_AD('Tlink1');
-//-->
+		<div class="reflinksContent">
+	<script type="text/javascript">
+/* <![CDATA[ */
+OAS_AD('Tlink1');
+/* ]]> */
 </script>
-
 </div>	</div>
 </div>			</div>
 			<div class="clearer"></div>
@@ -759,7 +756,9 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 		<div id="footer">
 			<div id="nav3">
 	<ul class="inline linkList">
-		<li><a href="http://www.howstuffworks.com">Home</a><span class="spacer">|</span></li>
+		<li>
+	<a href="http://www.howstuffworks.com">Home</a><span class="spacer">|</span>
+</li>
 <li><a href="http://adventure.howstuffworks.com/">Adventure</a><span class="spacer">|</span></li>
 <li><a href="http://animals.howstuffworks.com/">Animals</a><span class="spacer">|</span></li>
 <li><a href="http://auto.howstuffworks.com/">Auto</a><span class="spacer">|</span></li>
@@ -777,13 +776,12 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 <li><a href="http://science.howstuffworks.com/">Science</a></li>
 	</ul>
 </div>
-<center>
+<div class="blockAlignCenter">
 	<script type="text/javascript">
-	<!--
 		OAS_AD('BotBanner');
-	//-->
 	</script>
-</center><div class="extras">
+</div>
+<div class="extras">
 	<ul class="inline linkList">
 		<li><a href="http://www.howstuffworks.com/about-hsw.htm">Company Info</a> |</li>
 		<li><a href="http://www.howstuffworks.com/advertise.htm">Advertise With Us</a> |</li>
@@ -793,7 +791,8 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 		<li><a href="http://www.howstuffworks.com/hsw-contact.htm">Contact Us</a> |</li>
 		<li><a href="http://www.howstuffworks.com/faq.htm">Help</a> |</li>
 		<li><a href="http://www.howstuffworks.com/terms-and-conditions.htm">Visitor Agreement</a> |</li>
-		<li><a class="rss" href="http://www.howstuffworks.com/rss-feeds.htm">RSS</a></li>
+		<li><a class="rss" href="http://www.howstuffworks.com/rss-feeds.htm">RSS</a> |</li>
+		<li><a href="http://www.howstuffworks.com/hsw-stuff-you-want.htm">HSW Tools</a></li>
 	</ul>
 	<br>
 	<ul class="inline linkList">
@@ -802,6 +801,17 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 		<li><a href="http://www.bowenwang.com.cn">HSW China <img src="http://static.howstuffworks.com/en-us/default/logos/china_logo_30x10.gif" alt="HowStuffWorks China" border="0" title="HowStuffWorks China"></a></li>
 	</ul>
 	<div class="copyright">©&nbsp;1998-2009&nbsp;HowStuffWorks, Inc.</div>
+	
+	<ul class="inline linkList">
+		<li><a href="http://videos.howstuffworks.com">Video Center</a> |</li>
+		<li><a href="http://maps.howstuffworks.com">Maps</a> |</li>
+		<li><a href="http://consumerguideauto.howstuffworks.com">Consumer Guide Auto</a> |</li>
+		<li><a href="http://products.howstuffworks.com">Consumer Guide Products</a> |</li>
+		<li><a id="hplink" onclick="var s=s_gi(s_account);s.tl(this,'o','Header - Set Home Page Link Clicks');" href="javascript:makeHomePage()">Make HSW your homepage</a></li>
+	</ul>
+	<br>
+	<br>
+	
 	<ul class="inline linkList">
 		<li><a href="http://corporate.discovery.com/">Discovery Communications, LLC</a> |</li>
 		<li><a href="http://dsc.discovery.com/">Discovery Channel</a> |</li>
@@ -820,7 +830,8 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 		<li><a href="http://investigation.discovery.com/">Investigation Discovery</a> |</li>
 		<li><a href="http://dhd.discovery.com/">HD Theater</a> |</li>
 		<li><a href="http://fittv.discovery.com/">FitTV</a> |</li>
-		<li><a href="http://turbo.discovery.com/">Turbo</a></li>
+		<li><a href="http://turbo.discovery.com/">Turbo</a> |</li>
+		<li><a href="http://school.discoveryeducation.com">Discovery Education</a></li>
 	</ul>
 	<br><br>
 	<ul class="inline linkList">
@@ -835,476 +846,183 @@ Email: <a href="mailto:privacy_policy@discovery.com">privacy_policy@discovery.co
 if(!adBackgroundColor||adBackgroundColor==''){var adBackgroundColor='#e5e6e6'};
 realMediaPM.setColor(adBackgroundColor);
 </script>
-	<script type="text/javascript">
-	var s_account="disccglobal";
-</script>
-<script type="text/javascript" src="http://www.howstuffworks.com/js?m=s_code_disc.js&amp;r=7424"></script>
-<script type="text/javascript"><!--
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics">
-<img src="http://disccglobal.112.2O7.net/b/ss/disccglobal/1/H.16--NS/0" style="display: none;" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.16. -->
-
-<script language="javascript">
+<script type="text/javascript">
 	var s_account="hswprod";
 </script>
 <div style="display: none;">
-<script type="text/javascript" src="http://www.howstuffworks.com/js?m=s_code.js&amp;r=7424"></script>
-<img id="hswOmniImage" src="" style="display: none;" height="1" width="1" border="0" alt="">
+<script type="text/javascript" src="http://www.howstuffworks.com/js?m=s_code.js&amp;r=8010"></script>
 </div>
+
+
 <script type="text/javascript">
 /* <![CDATA[ */
-function isPurchaseEvent(tag, lookupArray) 
-{
-
-    var found = false;
- 
-    for (key in lookupArray) 
-	{
-        if (tag.indexOf(lookupArray[key]) >= 0) 
-		{
-            found = lookupArray[key];
-            break;
-        }
-    }
- 
-    return found;
-}
-
-function inArray(tag, lookupArray) 
-{
-
-    var found = false;
- 
-    for (key in lookupArray) 
-	{
-        if (tag.indexOf(lookupArray[key]) >= 0) 
-		{
-            found = true;
-            break;
-        }
-    }
- 
-    return found;
-}
-
-function sendTags(tag, vars, current, eventObj, noRedirect)
-{
-	if (tag != '')
-	{	
-		// set image variables
-		var hswOmniImage 	= document.getElementById('hswOmniImage');		
-		var omniImageData 	= "http://metrics.howstuffworks.com/b/ss/" + s_account + "/1/H.17/s45086097826030?";
-		
-		// reset action variables
-		var gotoAction 		= ''
-		var tagName 		= '';
-		
-		// set timestamp variables
-		var timestamp = new Date();
-		var year = timestamp.getFullYear();
-		var month = timestamp.getMonth() + 1;
-		var day = timestamp.getDate();
-		var hours = timestamp.getHours();
-		var mins = timestamp.getMinutes();
-		var secs = timestamp.getSeconds();
-		var weekday = timestamp.getDay();
-		var timezoneOffset = timestamp.getTimezoneOffset();
-		var gValue = location.protocol + '//' + location.hostname + location.pathname;
-		
-		// start setting data to send to omniture
-		omniImageData += '&AQB=1';  
-		omniImageData += '&t=' + month + '/' + day + '/' + year + ' ' + hours + ':' + mins + ':' + secs + ' ' + weekday + ' ' + timezoneOffset;  // DAY/MONTH/YEAR   HOUR:MIN:SEC WEEKDAY TIMEZONEOFFSET
-		omniImageData += '&vmt=' + '4467DB86';
-		omniImageData += '&ns=' + 'hswmedia';
-		omniImageData += '&g=' + encodeURIComponent(gValue);
-
-		var subDomain = location.href;
-		subDomain = subDomain.substring(7, subDomain.indexOf('.', 7));
-		if (subDomain == 'consumerguideauto')
-		{
-			omniImageData += sendTagsCGA(tag, vars, current, eventObj);
-		}
-		
-		if (vars != '' && vars !== undefined)
-		{
-			omniImageData += vars;
-		}
-			
-		if (tag  == 'Search Top') 
-		{
-			omniPage = 'Privacy Policy';
-			omniImageData += '&v40=' + 'Search Top';
-			omniImageData += '&c23=' + 'Search Top';
-			tag = omniPage + ' : Search Top : ' + document.getElementById('terms_Top').value
-		}
-		if (tag.indexOf('Video Search') >= 0) 
-		{
-			omniPage = 'Privacy Policy';
-			omniImageData += '&v40=Search Videos';
-			omniImageData += '&c23=Search Videos';
-			tag = omniPage + ' : Search Videos : ' + document.getElementById('terms_videos').value
-		}
-		if (tag == 'Search Bottom') 
-		{
-			omniPage = 'Privacy Policy';
-			omniImageData += '&v40=' + 'Search Bottom';
-			omniImageData += '&c23=' + 'Search Bottom';
-			tag = omniPage + ' : Search Bottom : ' + document.getElementById('terms_Bottom').value
-		}
-		
-		if (current.href) 
-		{
-			if (omniImageData.indexOf('c25=') >= 0)
-			{
-				var startPos = current.href.lastIndexOf('/')
-				var shortHref = current.href.substr(startPos + 1);
-				if (shortHref == '')
-				{
-					shortHref = current.href;
-				}
-				omniImageData += '&c7=' + shortHref;
-				omniImageData += '&v9=' + shortHref;
-			}
-		}
-
-		if (noRedirect == undefined)
-		{
-			$('#hswOmniImage').unbind('load');
-			if (current.action) 
-			{
-				gotoAction = current.action;
-				tagName = current.nodeName;
-				$('#hswOmniImage').bind("load", function(e)
-				{
-					current.submit();
-				});		
-			}	
-			else if (current.href) 
-			{
-				gotoAction = current.href; 
-				gotoTarget = current.target;
-				tagName = current.nodeName;
-				$('#hswOmniImage').bind("load", function(e)
-				{
-					document.location.href = gotoAction;
-				});		
-			}
-			else if (eventObj.target.href) 
-			{
-				gotoAction = eventObj.target.href;
-				tagName = current.nodeName;
-				$('#hswOmniImage').bind("load", function(e)
-				{
-					location.href = gotoAction;
-				});		
-			}
-			else		
-			{
-				gotoAction = location.href;
-				tagName = current.nodeName;
-			}
-		}
-		
-		if (navigator.appName == "Netscape")
-		{
-			var installedPlugins = '';
-			for (plugin in navigator.plugins)
-			{
-				installedPlugins += navigator.plugins[plugin].name + ';';
-			}
-			omniImageData += '&p=' + installedPlugins; // plugins enabled
-		}
-		omniImageData += '&pe=' + 'lnk_o';
-		omniImageData += '&pev1=' + encodeURIComponent(gotoAction);
-		omniImageData += '&pev2=' + tag.replace(/&/g, ' and ');
-		omniImageData += '&pid=' + encodeURIComponent(location.href);
-		omniImageData += '&oid=' + encodeURIComponent(gotoAction);
-		omniImageData += '&ot=' + tagName;  // tagname - for clickmap 
-		omniImageData += '&AQE=1';	
-
-		hswOmniImage.src = omniImageData;
-	}
-}
-
-function registerPage(pageName, vars)
-{
-
-	s.pageName="";
-	s.hier1="";
-	s.channel="";
-	s.pageType="";
-	s.events= "";
-	s.products="";
-
-	for (var i = 0; i <= 50; i++) 
-	{
-		s['prop'+i] = '';
-		s['eVar'+i] = '';
-	}
-	
-	var currentTime = new Date();
-	var month = currentTime.getMonth() + 1;
-	var day = currentTime.getDate();
-	var year = currentTime.getFullYear();
-	if (month < 10) { month = ("0" + String(month)) }
-	if (day < 10) { day = ("0" + String(day)) }
-	var currentDate = (year + "-" + month + "-" + day);
-	String(currentDate);
-	var impressions = new Array ();
-	
-	if (HSW.RealMedia.adImpressions)
-	{
-		for (i in HSW.RealMedia.adImpressions)
-		{
-			impressions.push(";" + HSW.RealMedia.adImpressions[i]);
-		}
-	}
-	
-	if (pageName == '' || pageName === undefined)
-	{
-		s.pageName = 'www.howstuffworks.com/privacy.htm';		
-	}
-	else
-	{
-		s.pageName = pageName;
-	}
-	s.hier1    = 'hsw';
-	s.channel  = 'www.howstuffworks.com';
-	s.pageType = '';
-		var events   = 'event4';
-		s.events = events.replace(',,', ',');
-	s.products = impressions.join(',');
-	s.prop1    = 'aboutus';
-	s.prop2    = 'HSW';
-	
-		s.prop3    = 'privacy.htm';
-	s.prop16   = 'privacy.htm';
-		s.prop4    = '';
-	s.prop5    = '2000-04-01';
-	s.prop6    = '';
-	s.prop14   = '';
-	s.prop15   = '';
-	s.prop19   = '';
-	s.prop22   = '';
-	s.prop34   = '';
-	s.prop35   = '';
-	s.prop38   = 'Privacy Statement for HowStuffWorks.com';
-	s.prop39   = 'About' + (HSW.ab && HSW.ab.count() ? '-' + HSW.ab.toOmniString() : '');
-	s.prop41   = '';
-	s.prop42   = '';
-	s.prop43   = '';
-	s.prop44   = '';
-		s.eVar42   = 'Privacy Statement for HowStuffWorks.com';
-	s.eVar45   = '';
-	s.eVar46   = '';
-	
-	if (s.channel == 'videos.howstuffworks.com' && s.prop1 != 'search')
-	{
-		s.events += ',event21';
-	}
-	
-	
-	// below appears to be dead code
-	/****
-	if(!s.campaign)
-	{
-		s.campaign=s.getQueryParam('src');
-		s.campaign=s.getValOnce(s.campaign,'s_campaign',0);
-	}
-	****/
-	
-	// 04-27-09 (Jeff): read campaign value from cookie then trash cookie
-	if(document.cookie.indexOf('mkcpgn') != -1)
-	{
-		// cookie functions depend on hsw.js
-		var campaign=getCookie('mkcpgn');
-		// deleteCookie was not working; kill it by setting value to NULL & expires in the past
-		deleteCookie('mkcpgn', '/', '.howstuffworks.com');
-		if (campaign != null && campaign != '')
-		{
-			s.campaign=campaign;
-		}
-	}
-	
-	
-	
-	if(s.prop6)
-	{
-		s.prop6=s.prop6.toLowerCase();
-		s.eVar18=s.prop6;
-		var t_search=s.getValOnce(s.eVar18,'ev18',0);
-		if(t_search)
-		{
-			s.events=s.apl(s.events,"event10",",",2);
-		}
-	}
-	
-	s.prop36   = s.getPreviousValue(s.channel,'gpv_p36');
-	s.prop37   = s.getPreviousValue(s.pageName,'gpv_p37');
-	
-	if(s.pageName&&!s.eVar33) s.eVar33=s.pageName;
-	if(s.prop1&&!s.eVar3) s.eVar3=s.prop1;
-	if(s.prop2&&!s.eVar4) s.eVar4=s.prop2;
-	if(s.prop3&&!s.eVar5) s.eVar5=s.prop3;
-	if(s.prop4&&!s.eVar6) s.eVar6=s.prop4;
-	if(s.prop5&&!s.eVar7) s.eVar7=s.prop5;
-	if(s.channel&&!s.eVar11) s.eVar11=s.channel;
-	if(s.prop9&&!s.eVar12) s.eVar12=s.prop9;
-	if(s.prop6&&!s.eVar18) s.eVar18=s.prop6;
-	if(s.prop14&&!s.eVar14) s.eVar14=s.prop14;
-	if(s.prop15&&!s.eVar19) s.eVar19=s.prop15;
-	if(s.prop22&&!s.eVar31) s.eVar31=s.prop22;
-	if(s.prop34&&!s.eVar37) s.eVar37=s.prop34;
-	if(s.prop35&&!s.eVar38) s.eVar38=s.prop35;
-	if(s.prop39&&!s.eVar43) s.eVar43=s.prop39;
-	if(s.prop41&&!s.eVar45) s.eVar45=s.prop41;
-	if(s.prop42&&!s.eVar46) s.eVar46=s.prop42;
-	if(s.prop43&&!s.eVar47) s.eVar47=s.prop43;
-	if(s.prop44&&!s.eVar48) s.eVar48=s.prop44;
-	
-	if (document.referrer)
-	{
-		var propsArray = new Array(
-							'discovery.com',
-							'treehugger.com',
-							'petfinder.com'
-						);
-
-		var sProperty = isPurchaseEvent(document.referrer, propsArray);
-		if (sProperty)
-		{
-			sReferrer = document.referrer;
-			sReferrer = sReferrer.substring(7, sReferrer.indexOf('/', 7));
-			s.prop14=s.eVar14=sReferrer;
-		}
-	}
-	
-	if (impressions.length > 0)
-	{
-		if (s.events.length > 0)
-		{
-			s.events += ',event18';
-		}
-		else
-		{
-			s.events = 'event18';
-		}
-	}
-	
-	if (s.prop39 == 'HomePage')
-	{
-		if (s.events.length > 0)
-		{
-			s.events += ',event44';
-		}
-		else
-		{
-			s.events = 'event44';
-		}
-	}
-	
-	if (typeof(cgaCarFax) != 'undefined')
-	{
-		s.linkTrackVars = 'events';
-		s.linkTrackEvents += ',event42';
-		if (s.events.length > 0) {
-			s.events += ',event42';
-		}
-		else {
-			s.events = 'event42';
-		}
-	}
-	
-	if (vars != '' && vars !== undefined)
-	{
-		eval(vars);
-	}
-	
-	var s_code=s.t();
-	
-	if(s_code)document.write(s_code);
-	
-	// this is breaking in IE and stopping execution of all following JS (1/29/2009 MCB)
-	/*
-	if(navigator.appVersion.indexOf('MSIE')>=0)
-		document.write(unescape('%3C')+'\!-'+'-');
-	*/
-}
-
+function writeImage(method,data,action,current)
+{$(document.createElement("img")).attr({id:'hswOmniImage',src:data}).load(function(){if(method!=='none')
+{clearTimeout(t);doAction(method,action,current);}});if(typeof method==='string'&&method!=='none')
+{var t=setTimeout('doAction(method, action, current);',500);}}
+function doAction(method,action,current)
+{if(method=='form')
+{current.submit();}
+else
+{document.location.href=action;}}
+function isPurchaseEvent(tag,lookupArray)
+{var found=false;for(key in lookupArray)
+{if(tag.indexOf(lookupArray[key])>=0)
+{found=lookupArray[key];break;}}
+return found;}
+function inArray(tag,lookupArray)
+{var found=false;for(key in lookupArray)
+{if(tag.indexOf(lookupArray[key])>=0)
+{found=true;break;}}
+return found;}
+function sendTags(tag,vars,current,eventObj,noRedirect)
+{if(tag!='')
+{var hswOmniImage=document.getElementById('hswOmniImage');var omniImageData="http://metrics.howstuffworks.com/b/ss/"+s_account+"/1/H.17/s45086097826030?";var gotoAction=''
+var tagName='';var timestamp=new Date();var year=timestamp.getFullYear();var month=timestamp.getMonth()+1;var day=timestamp.getDate();var hours=timestamp.getHours();var mins=timestamp.getMinutes();var secs=timestamp.getSeconds();var weekday=timestamp.getDay();var timezoneOffset=timestamp.getTimezoneOffset();var gValue=location.protocol+'//'+location.hostname;if(location.pathname)
+{gValue+=location.pathname;}
+omniImageData+='&AQB=1';omniImageData+='&t='+month+'/'+day+'/'+year+' '+hours+':'+mins+':'+secs+' '+weekday+' '+timezoneOffset;omniImageData+='&vmt='+'4467DB86';omniImageData+='&ns='+'hswmedia';omniImageData+='&g='+encodeURIComponent(gValue);var subDomain=location.href;subDomain=subDomain.substring(7,subDomain.indexOf('.',7));if(subDomain=='recipes')
+{if(vars)
+{vars=vars.replace(/=/gi,'=TLC Cooking : ');vars=vars.replace(/events=TLC Cooking :/gi,'events=');vars=vars.replace(/products=TLC Cooking :/gi,'purchase=');}}
+if(subDomain=='consumerguideauto')
+{cgaOutput=sendTagsCGA(tag,vars,current,eventObj);tag=cgaOutput.substr(0,cgaOutput.indexOf('&'));omniImageData+=cgaOutput.substr(cgaOutput.indexOf('&'));}
+if(vars)
+{omniImageData+=vars;}
+if(tag=='Search Top')
+{omniPage='Privacy Policy';omniImageData+='&v40='+'About : Search Top';omniImageData+='&c23='+'About : Search Top';tag=omniPage+' : Search Top : '+document.getElementById('terms_Top').value}
+if(tag=='Search Bottom')
+{omniPage='Privacy Policy';omniImageData+='&v40='+'About : Search Bottom';omniImageData+='&c23='+'About : Search Bottom';tag=omniPage+' : Search Bottom : '+document.getElementById('terms_Bottom').value}
+if(tag.indexOf('Search Recipes')>=0)
+{omniPage='Privacy Policy';omniImageData+='&v40='+'TLC Cooking : About  : Recipe Search';omniImageData+='&c23='+'TLC Cooking : About  : Recipe Search';tag=omniPage+' : Search Recipes : '+document.getElementById('terms_recipes').value}
+if(tag.indexOf('TLC Video Search')>=0)
+{omniPage='Privacy Policy';omniImageData+='&v40='+'TLC Cooking : About  : Video Search';omniImageData+='&c23='+'TLC Cooking : About  : Video Search';tag=omniPage+' : Search Videos : '+document.getElementById('search-query-videos').value}
+if(tag.indexOf('Video Search')>=0)
+{omniPage='Privacy Policy';omniImageData+='&v40='+'About  : Video Search';omniImageData+='&c23='+'About  : Video Search';tag=omniPage+' : Search Videos : '+document.getElementById('terms_videos').value}
+if(tag=='Search Bottom')
+{omniPage='Privacy Policy';omniImageData+='&v40='+'About : Search Bottom';omniImageData+='&c23='+'About : Search Bottom';tag=omniPage+' : Search Bottom : '+document.getElementById('terms_Bottom').value}
+if(tag=='Random Article')
+{omniPage='Privacy Policy';omniImageData+='&v40='+'About : Random Article';omniImageData+='&c23='+'About : Random Article';tag=omniPage+' : Random Article';}
+if(tag.toLowerCase().indexOf('toolbar')>=0&&omniImageData.indexOf('&c45=')===-1)
+{if(HSW.cookies.exists('user_type')&&HSW.cookies.exists('auth_type'))
+{var user_value=encodeURIComponent(HSW.cookies.user_type.value.toLowerCase()+' : '+HSW.cookies.auth_type.value.toLowerCase());omniImageData+='&c45='+user_value+'&v49='+user_value;}
+else
+{omniImageData+='&c45=unregistered&v49=unregistered';}}
+if(subDomain=='recipes')
+{tag='TLC Cooking : '+tag;}
+if(current.href)
+{if(omniImageData.indexOf('c25=')>=0&&omniImageData.indexOf('c7=')<0)
+{var endPos=current.href.indexOf('?');if(endPos<0)
+{endPos=current.href.length;}
+var startPos=current.href.lastIndexOf('/',endPos);var shortHref=current.href.substr(startPos+1,endPos-startPos-1);if(shortHref=='')
+{shortHref=current.href;}
+omniImageData+='&c7='+shortHref;omniImageData+='&v9='+shortHref;}}
+omniImageData+='&pe='+'lnk_o';omniImageData+='&pev2='+tag.replace(/&/g,' and ');omniImageData+='&pid='+encodeURIComponent(location.href);omniImageData+='&AQE=1';if(noRedirect==undefined)
+{if(current.action)
+{gotoAction=current.action;tagName=current.nodeName||'';if(omniImageData.indexOf('pev1=')<0)
+{omniImageData+='&pev1='+encodeURIComponent(gotoAction);omniImageData+='&oid='+encodeURIComponent(gotoAction);}
+omniImageData+='&ot='+tagName;if((current.method.toLowerCase()=='get')&&(current.name.substr(0,15)=='frmSelMakeModel'))
+{writeImage('url',omniImageData,current.action,current);}
+else
+{writeImage('form',omniImageData,current.action,current);}}
+else if(current.href)
+{gotoAction=current.href;gotoTarget=current.target;tagName=current.nodeName||'';if(omniImageData.indexOf('pev1=')<0)
+{omniImageData+='&pev1='+encodeURIComponent(gotoAction);omniImageData+='&oid='+encodeURIComponent(gotoAction);}
+omniImageData+='&ot='+tagName;writeImage('url',omniImageData,gotoAction,current);}
+else if(eventObj.target.href)
+{gotoAction=eventObj.target.href;tagName=current.nodeName||'';if(omniImageData.indexOf('pev1=')<0)
+{omniImageData+='&pev1='+encodeURIComponent(gotoAction);omniImageData+='&oid='+encodeURIComponent(gotoAction);}
+omniImageData+='&ot='+tagName;writeImage('url',omniImageData,gotoAction,current);}
+else
+{gotoAction=document.location.href;tagName=current.nodeName||'';if(omniImageData.indexOf('pev1=')<0)
+{omniImageData+='&pev1='+encodeURIComponent(gotoAction);omniImageData+='&oid='+encodeURIComponent(gotoAction);}
+omniImageData+='&ot='+tagName;writeImage('none',omniImageData,gotoAction,current);}}
+else
+{gotoAction=document.location.href;tagName=current.nodeName||'';if(omniImageData.indexOf('pev1=')<0)
+{omniImageData+='&pev1='+encodeURIComponent(gotoAction);omniImageData+='&oid='+encodeURIComponent(gotoAction);}
+omniImageData+='&ot='+tagName;writeImage('none',omniImageData,gotoAction,current);}}}
+function registerPage(pageName,vars)
+{s.pageName="";s.hier1="";s.channel="";s.pageType="";s.events="";s.products="";for(var i=0;i<=50;i++)
+{s['prop'+i]='';s['eVar'+i]='';}
+var currentTime=new Date();var month=currentTime.getMonth()+1;var day=currentTime.getDate();var year=currentTime.getFullYear();if(month<10){month=("0"+String(month))}
+if(day<10){day=("0"+String(day))}
+var currentDate=(year+"-"+month+"-"+day);String(currentDate);var impressions=new Array();if(HSW.RealMedia.adImpressions)
+{for(i in HSW.RealMedia.adImpressions)
+{impressions.push(";"+HSW.RealMedia.adImpressions[i]);}}
+if(pageName==''||pageName===undefined)
+{s.pageName='www.howstuffworks.com/privacy.htm';}
+else
+{s.pageName=pageName;}
+s.hier1='home';s.channel='www.howstuffworks.com';s.pageType='';var events='event4';if(HSW.quiz&&events.indexOf('event13')>-1)
+{var quizCookieData=HSW.quiz.readCookie();if(parseInt(quizCookieData['omniEnd'])==1)
+{events=events.replace(',event13','').replace('event13','');}
+else
+{quizCookieData['omniEnd']=1;HSW.quiz.saveCookie(quizCookieData);}}
+s.events=events.replace(',,',',');s.products=impressions.join(',');s.prop1='aboutus';s.prop2='HSW';s.prop3='privacy.htm';s.prop16='privacy.htm';s.prop4='';s.prop5='2000-04-01';s.prop6='';s.prop14='';s.prop15='';s.prop19='';s.prop22='';s.prop26='';s.prop27='';s.prop28='';s.prop29='';s.prop30=(HSW.ab&&HSW.ab.count(1)?HSW.ab.toOmniString(1):'');s.prop34='';s.prop35='';s.prop38='Privacy Statement for HowStuffWorks.com';s.prop39='About'+(HSW.ab&&HSW.ab.count()?'-'+HSW.ab.toOmniString():'');s.prop41='';s.prop42='';s.prop43='';s.prop44='';s.eVar42='Privacy Statement for HowStuffWorks.com';s.eVar45='';s.eVar46='';if(document.location.hash.indexOf('#mkcpgn=')!=-1)
+{s.campaign=document.location.hash.split('=')[1];}
+if(HSW.cookies.exists('mkcpgn'))
+{var campaign=HSW.cookies.mkcpgn.value;HSW.cookies.remove('mkcpgn');if(campaign!=null&&campaign!='')
+{s.campaign=campaign;}}
+if(HSW.cookies.exists('user_id'))
+{var smUserId=HSW.cookies.user_id.value;if(smUserId!=null&&smUserId!='')
+{s.prop50=smUserId;}}
+if(HSW.cookies.exists('user_type')&&HSW.cookies.exists('auth_type'))
+{var smAuthType=HSW.cookies.auth_type.value.toLowerCase();var smUserType=HSW.cookies.user_type.value.toLowerCase();s.prop45=encodeURIComponent(smUserType)+' : '+encodeURIComponent(smAuthType);s.eVar49=s.prop45;if(!HSW.cookies.exists('recorded_login'))
+{s.events+=',event1';HSW.cookies.add('recorded_login');HSW.cookies.recorded_login.value='1';HSW.cookies.recorded_login.set();if(typeof HSW.sm!='undefined'&&typeof HSW.sm.pageInfo!='undefined'&&HSW.sm.pageInfo.showWelcomeScreen)
+{if(HSW.cookies.exists('auth_type')&&HSW.cookies.auth_type.value.toLowerCase()=='facebook')
+{s.events+=',event2';}}}}
+else
+{if(HSW.cookies.exists('recorded_login'))
+{HSW.cookies.remove('recorded_login');}
+s.prop45='unregistered';s.eVar49='unregistered';}
+if(s.prop6)
+{s.prop6=s.prop6.toLowerCase();s.eVar18=s.prop6;if(s.prop6)
+{s.events=s.apl(s.events,"event10",",",2);}}
+s.prop36=s.getPreviousValue(s.channel,'gpv_p36');s.prop37=s.getPreviousValue(s.pageName,'gpv_p37');if(s.pageName&&!s.eVar33)s.eVar33=s.pageName;if(s.prop1&&!s.eVar3)s.eVar3=s.prop1;if(s.prop2&&!s.eVar4)s.eVar4=s.prop2;if(s.prop3&&!s.eVar5)s.eVar5=s.prop3;if(s.prop4&&!s.eVar6)s.eVar6=s.prop4;if(s.prop5&&!s.eVar7)s.eVar7=s.prop5;if(s.channel&&!s.eVar11)s.eVar11=s.channel;if(s.prop9&&!s.eVar12)s.eVar12=s.prop9;if(s.prop6&&!s.eVar18)s.eVar18=s.prop6;if(s.prop14&&!s.eVar14)s.eVar14=s.prop14;if(s.prop15&&!s.eVar19)s.eVar19=s.prop15;if(s.prop22&&!s.eVar31)s.eVar31=s.prop22;if(s.prop26&&!s.eVar22)s.eVar22=s.prop26;if(s.prop27&&!s.eVar23)s.eVar23=s.prop27;if(s.prop28&&!s.eVar24)s.eVar24=s.prop28;if(s.prop29&&!s.eVar25)s.eVar25=s.prop29;if(s.prop30&&!s.eVar26)s.eVar26=s.prop30;if(s.prop34&&!s.eVar37)s.eVar37=s.prop34;if(s.prop35&&!s.eVar38)s.eVar38=s.prop35;if(s.prop39&&!s.eVar43)s.eVar43=s.prop39;if(s.prop41&&!s.eVar45)s.eVar45=s.prop41;if(s.prop42&&!s.eVar46)s.eVar46=s.prop42;if(s.prop43&&!s.eVar47)s.eVar47=s.prop43;if(s.prop44&&!s.eVar48)s.eVar48=s.prop44;if(document.referrer)
+{var propsArray=new Array('discovery.com','treehugger.com','petfinder.com');var sProperty=isPurchaseEvent(document.referrer,propsArray);if(sProperty)
+{sReferrer=document.referrer;sReferrer=sReferrer.substring(7,sReferrer.indexOf('/',7));s.prop14=s.eVar14=sReferrer;if(location.host.indexOf('recipes')>=0)
+{if(document.referrer.indexOf('?')>=0)
+{s.prop13=s.eVar16=document.referrer.substring(0,document.referrer.indexOf('?')-1);}
+else
+{s.prop13=s.eVar16=document.referrer;}}}}
+if(impressions.length>0)
+{if(s.events.length>0)
+{s.events+=',event18';}
+else
+{s.events='event18';}}
+if(s.prop39=='HomePage'&&s.pageName.indexOf('randomzone')==-1)
+{if(s.events.length>0)
+{s.events+=',event44';}
+else
+{s.events='event44';}}
+if(typeof(cgaCarFax)!='undefined')
+{s.linkTrackVars='events';s.linkTrackEvents+=',event42';if(s.events.length>0){s.events+=',event42';}
+else{s.events='event42';}}
+if(vars!=''&&vars!==undefined)
+{eval(vars);}
+var s_code=s.t();if(s_code)document.write(s_code);}
 $(document).ready(function()
-{	
-	$('[omniselect]').unbind('change');
-	$('#hswOmniImage').unbind('load');
-	
-	$("a").click(function(e)
-	{
-		var tag = $(this).attr('omni');
-		var vars = $(this).attr('omnivars');
-		if (tag != '' && tag !== undefined)
-		{
-			// Added for target=_new or _blank
-			if ($(this).attr('target') == '_new' || $(this).attr('target') == '_blank')
-			{
-				sendTags(tag, vars, this, e, true);
-			}
-			else
-			{
-				sendTags(tag, vars, this, e);
-				return false;
-			}
-		}
-	});
-
-	$("form").submit(function(e) 
-	{
-		var tag = $(this).attr('omni');
-		var vars = $(this).attr('omnivars');
-		if (tag != '' && tag !== undefined)
-		{
-			sendTags(tag, vars, this, e);
-			return false;
-		}
-	});
-
-	$('[omniselect]').change(function(e)
-	{
-		var tag = this.options[this.selectedIndex].getAttribute('omni');
-		var vars = this.options[this.selectedIndex].getAttribute('omnivars');
-		sendTags(tag, vars, this, e);
-		return false;
-	});
-	
-});
-
-registerPage();
-
+{$('[omniselect]').unbind('change');$('#hswOmniImage').unbind('load');$("a").live('click',function(e)
+{if((!$.browser.msie&&e.button==0)||$.browser.msie)
+{var tag=$(this).attr('omni');var vars=$(this).attr('omnivars');if(tag!=''&&tag!==undefined)
+{if($(this).attr('target')=='_new'||$(this).attr('target')=='_blank')
+{sendTags(tag,vars,this,e,true);}
+else
+{sendTags(tag,vars,this,e);return false;}}}});$("form").submit(function(e)
+{var tag=$(this).attr('omni');var vars=$(this).attr('omnivars');if(tag!=''&&tag!==undefined)
+{if($(this).attr('target')=='_new'||$(this).attr('target')=='_blank')
+{sendTags(tag,vars,this,e,true);}
+else
+{sendTags(tag,vars,this,e);return false;}}});$('[omniselect]').change(function(e)
+{var tag=this.options[this.selectedIndex].getAttribute('omni');var vars=this.options[this.selectedIndex].getAttribute('omnivars');sendTags(tag,vars,this,e);return false;});});registerPage();
 /* ]]> */
 </script>
-
-
-<!-- #################### QUANTCAST [ tracking ] -->
-<script id="quantcast-tracking-campaign" language="javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
+<div id="pixels" style="display: none">
+	<script type="text/javascript">
 /* <![CDATA[ */
-_qoptions = {qacct:"p-eeQ5-n64VG-GM"};
-document.getElementById("quantcast-tracking-campaign").setAttribute("src", "http://edge.quantserve.com/quant.js");
+$(window).load(function()
+{$('#pixels').append($('<IFRAME>').attr({src:['http://',location.hostname,'/adiframe/pixels'].join(''),width:'0',height:'0',frameBorder:'0',marginWidth:'0',marginHeight:'0',scrolling:'no',style:'display: none'}));window._qoptions={qacct:"p-eeQ5-n64VG-GM"};HSW.loader.loadScript('http://edge.quantserve.com/quant.js');});
 /* ]]> */
 </script>
-<!-- #################### END QUANTCAST -->
-<!-- #################### REVENUE SCIENCE -->
-<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J08778"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-RSI_Category = (rsVar).replace(/\:/g, " > ");
-DM_cat(RSI_Category);
-DM_tag();
-/* ]]> */
-</script>
-<!-- ################## END REVENUE SCIENCE -->
+</div>
 		</div>
 	</div>
 
