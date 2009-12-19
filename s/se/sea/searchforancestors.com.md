@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191809id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131908id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -42,8 +42,6 @@ If you have any questions about this privacy statement, the practices of this si
   
   
 
-*   [Footnote.com](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.700229741&type=10&subid=0&u1=sfaadvanced)   
-Search all the indexed data of every record for free. 
 *   [Free Databases](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.688600412&type=10&subid=0&u1=sfafreedatabases)   
 View, download, and print the original record from Footnote's free database collection. 
 *   [Free Trial](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.697388383&type=10&subid=0&u1=sfacolumnft)   
@@ -66,3 +64,5 @@ Free genealogy resources: charts, lessons, software, databases, look ups, relati
 Free trials to genealogy databases such as Ancestry.com and Footnote.com. Why pay when you can view for free? 
 *   [Ancestry.com Coupons & Deals](http://www.searchforancestors.com/ancestrycoupon.html)   
 Special offers, coupons, coupon codes, discounts, sales & deals 
+*  [FTM 2010](http://ancestorsearch.blogspot.com/2009/08/family-tree-maker-2010-improvements.html)  
+Family Tree Maker 2010 list of improvements plus 20% Coupon Code
