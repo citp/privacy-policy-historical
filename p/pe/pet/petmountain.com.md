@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the petmountain.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052901id_/http%3A//www.petmountain.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petmountain.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213627id_/http%3A//www.petmountain.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
 
 
 
-**Privacy Policy**   
 At Pet Mountain, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Pet Mountain. Feel free to email us at [PetMountain.com](http://www.petmountain.com/contact) with any questions you might have. 
+
+**  
+100% Secure Checkout**  
+At Pet Mountain,  you have the choice to use our 100% Secure Checkout, PayPal Checkout or Google Checkout. We accept all major credit cards Visa, Master Card, American Express and Discover card. You can create your own PayPal account or Google Checkout account by clicking on our PayPal or Google Checkout buttons located in our checkout page. 
 
 **What Information We Collect**   
 In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us. This information is used solely by Pet Mountain and is stored in a secure environment. Under certain circumstances we do also collect the user's IP address, but only when we suspect that credit card fraud may have occurred. We also periodically conduct surveys of visitors to our Web site. This helps us better understand what our customers would like to see from us. We use this information for internal marketing research purposes. We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted. 
