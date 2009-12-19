@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616055621id_/http%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219135201id_/http%3A//pmemory.com/privacy-policy) for the most accurate reproduction.*
 
-# Memorization techniques, Memory improvement, Memory strategies, Memory development, Memory skills, Brain power, Mnemonics, Improve your Memory, Memory Loss
+# Memory development, Memory Loss, Memory skills, Memorization techniques, Memory strategies, Brain power, Improve your Memory, Memory improvement, Mnemonics
 
 What information does School Of Phenomenal Memory collect from our users and how do we collect it?
 
