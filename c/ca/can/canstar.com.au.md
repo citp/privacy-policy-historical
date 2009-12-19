@@ -1,173 +1,81 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619082522id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219161301id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CANSTAR CANNEX
 
-CANSTAR CANNEX understands that you may have concerns about privacy and security of personal information, that we may gain or you supply. We are committed to protecting all personal information about you that we hold.
+**Version: 22 July 2009**
 
-This privacy policy describes how we manage your personal information and safeguard your privacy. 
+This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record. 
 
-1\. The National Privacy Principles 
+This privacy policy does not apply to parties that may be linked or associated with our website. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
 
-CANSTAR CANNEX complies with the National Privacy Principles ("NPPs") which came into effect 21 December 2001. 
+What information do we collect? 
 
-2\. Who Is CANSTAR CANNEX (Aust) Pty Ltd? 
+The types of information we keep on record will depend on the type of product or service requested by you. Generally, we keep a record of the following types of information about you: 
 
-CANSTAR CANNEX is Australia's leading FINANCIAL SERVICES RESEARCH GROUP 
+  * information that identifies you, such as your name and address and other information provided by you; 
+  * if you use a quoting tool, calculator, online survey or other tool (“Website Tool”) on our website, the information that you enter into the Website Tool; 
+  * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet.
 
-We provide comprehensive, tailored financial information to Australia's 400-plus financial institutions which includes :- 
+We do not seek to collect sensitive information (for example health information or information about your racial or ethnic origin or any criminal record), unless it is necessary for our business purposes. If we do have to collect sensitive information, we will do so in accordance with the National Privacy Principles.
 
-* Banks  
-* Credit Unions  
-* Building Societies  
-* Mortgage Originators  
-* Finance Companies and  
-* Government bodies such as ACCC, ASIC, APRA etc.  
-* Life companies and other Issuers of  
-annuity, insurance, managed funds and superannuation products 
+During our dealings with you, we may gather information about you relating to all products and services that we or our business partners provide to you. This information is used to help us decide how we can improve our service delivery to you.
 
-CANSTAR CANNEX maintains a vast database of retail financial services products with associated features such as interest rates, fees & charges and terms & conditions. Products include:
+We collect and hold information about you when you: 
 
-* Asset products (consumer, home, business, commercial, development, leasing, agri business and margin lending);  
-* Liability products (transaction, saving, investment and managed funds);  
-* Managed fund and superannuation products - (fees and features).  
-* Annuity information for Term Certain Annuities and Lifetime Annuities.  
-* Risk product information for Term, Trauma, TPD, Income Protection and Business Expenses. 
+  * complete an online form or use a Website Tool; 
+  * provide us with your email address; or 
+  * access and use our services through our website. 
 
-It is important to note that CANSTAR CANNEX does NOT have access to and therefore does not store, ANY confidential bank account data relating to individuals or organisations. Our subscribing business customers use the information stored in our database and system for:-
+We also collect some statistical information about visitors to our website (for example, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded). Some of this statistical information is collected by using cookies, but none of the statistical information we collect allows us to identify a visitor. We use this information to evaluate our website performance and continually improve our services. We may disclose this information in an aggregated form to third parties including advertisers or potential advertisers. Other than statistical information, we do not collect any information about you through our website unless you provide the information to us.
 
-* In-depth competitor analysis;  
-* Distribution of banking and finance information to print and electronic media for publication and to Agents and Brokers for use in advising their clients.  
-* Risk assessments and pricing research. 
+You need not give us any of the personal information about you or any other person which may be requested in our communications with you. However, without that information, we may not be able to fulfil your request or provide you with an appropriate level of service.
 
-The information is analysed and used in a variety of ways to assess financial institution competitiveness and positioning. Advisers, Dealer Groups, Agents, Accountants and Brokers use the data when advising their clients. 
+How do we use your personal information?
 
-CANSTAR CANNEX charges its clients a subscription fee, which entitles subscribers to online access to its database of financial services products.
+We use your personal information to: 
 
-We are not paid commission nor do we sell any financial sevice or product, either directly or indirectly or via a broker. CANSTAR CANNEX does not charge for nor restrict any financial institution from listing their products in media tables state-by-state or nationally through media tables, internet sevices, fax back or any other medium. 
+  * respond to your requests; 
+  * provide products and services to you; 
+  * deal with complaints or issues you may have in relation to our services; 
+  * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers; 
+  * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing;
 
-3\. How To Contact Us 
+Can we disclose personal information?
 
-Our contact details are:
+Usually we must get your consent before we tell anyone about you. You can give us your consent expressly or it may be implied by your conduct. We may disclose your personal information to: 
 
-Address:
+  * our external service providers (which may be located overseas) for the purposes of our business, for example IT service providers. Information is only disclosed on a confidential basis. 
+  * any organisation which you request us to, including a financial adviser, broker, solicitor, or accountant, 
+  * our related companies and other organisations where reasonable to do so in relation to the operation of our business, 
+  * to protect and defend our rights or property, 
+  * if we consider it necessary to do so in order to enforce or apply the terms of any of our agreements with you, 
+  * to contractors providing licensed collections services, credit card payment processing and CRM services, who comply with our privacy and security policies, 
+  * if we sell our business or part of it, 
+  * in extreme circumstances, to protect the personal safety of our customers, website users, staff or the public, 
+  * law enforcement, regulatory and government bodies, government agencies and courts, if we are required to by law to do so. 
 
-CANSTAR CANNEX (Aust) Pty Ltd  
-Level 2, 107 Quay Street  
-Brisbane Qld 4000
+We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure.
 
-Email: [admin@cannex.com.au](mailto:admin@cannex.com.au)
+How do we store personal information?
 
-Ph: 07 3837 4100  
-Fax: 07 3837 4141
+We provide a robust level of security when you use our online products and services. We have physical, electronic and procedural safeguards to protect your information which is held by us. Access to information stored electronically is restricted to staff whose job purpose requires access. We use secure methods to destroy or de-identify any personal information as soon as the law permits, provided the information is no longer needed by us for any purpose.
 
-New Zealand:  
-Tollfree: 00 800 3632 4100  
-(Telecom line only)
+Amendment of this policy
 
-4\. What Does 'Personal Information' Mean?
+We may amend this policy from time to time. Not all changes to our privacy policy will require your consent, for example where office security procedures are changed. We will notify you of any change to our information handling policy that requires your consent before being implemented. 
 
-Personal information is information or an opinion about an individual whose identity is apparent, or can reasonably be ascertained. It includes all personal information regardless of its source. 
+If you do not wish to receive information about our products and services then please tell us. You can do this at any time by writing to us or telephoning us at the contact details listed on our contact us page.
 
-5\. Data Collection 
+Access to your information
 
-We will, if it is reasonable or practicable to do so, collect your personal information from you. This may happen when you fill out an application form for a life company product or for a 'Annuity Quote Scenario'. We may also need to collect personal information from your representative or adviser. 
+You can request access at any time to personal information we hold about you. We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; however we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access - for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why. 
 
-Collection of some of your personal information is essential for completion of some of the functions and activities of CANSTAR CANNEX. If we do not collect and make use of some of the data that you enter, we will not be able to complete some of the functions for which this web site is designed. 
+Correction of information
 
-The data entered by you or your adviser may include your name, postal or email address, date of birth or other information considered necessary for any application process you may be undertaking. 
+We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time.
 
-No matter how your personal information is collected, it is dealt with by CANSTAR CANNEX in accordance with the National Privacy Principles.
+In this policy, reference to "we/us" means CANSTAR CANNEX Pty Limited A.C.N. 053 646 165, AFSL 312804. If you have any questions, concerns or complaints about our privacy policy or practices please contact us on 07 3837 4100, 9am - 5pm on business days in Brisbane, Qld.
 
-6\. Using and Disclosing Personal Information 
+We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. 
 
-In line with modern business practices common to many institutions and in order to meet your specific needs (such as where you have a financial adviser), CANSTAR CANNEX may disclose your personal information in certain circumstances, to third party organisations whose products you may require. These organisations may include life companies, managed fund and superannuation organisations, dealer groups, financial advisers and planners and their service providers. The types of organisations to whom your personal information may be disclosed, are listed in 'Who is CANSTAR CANNEX (Aust) Pty Ltd?' above. 
-
-Where your personal information is disclosed, we will seek to ensure that the information is held, used or disclosed consistently with the National Privacy Principles and other applicable privacy laws and codes. It may also be disclosed to in relation: 
-
-* to maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems;  
-* as required or authorised by law, for example, to government or regulatory bodies for purposes related to public health or safety, the prevention or detection of unlawful activities or to protect public revenue. 
-
-7\. Consumer Calculators Available on Our Website
-
-A 'Consumer Calculator' is defined as a calculator which is available, for free on the publicly accessible CANSTAR CANNEX website, to non-subscribing users of the calculator. 'Consumer' calculators such as the CANSTAR CANNEX aapr Calculator, CANSTAR CANNEX savings Calculator and the CANSTAR CANNEX adviserinfo Calculator among others, require only the minumum of customer data to derive a result. CANSTAR CANNEX does not collect or store any data entered into any Consumer Calculator. 
-
-8\. Marketing Of CANSTAR CANNEX Products and Services
-
-The personal information of an individual consumer will not be used by CANSTAR CANNEX for direct marketing purposes, unless that person also happens to be a financial adviser or planner who may or may not be part of a Dealer Group. 
-
-The information about a Dealer, Financial Planner, Life company or other Issuers of annuity, insurance, managed fund and superannuation products will be used to direct market CANSTAR CANNEX products and services to Dealers, Financial Planners, Life companies and other Issuers of annuity, insurance, managed fund and superannuation products. 
-
-9\. Data Quality - Keeping Your Personal Information Accurate And Up-To-Date 
-
-We aim to make sure that the information we collect, use and disclose to dealers, financial planners, life companies and other Issuers of annuity, insurance, managed fund and superannuation products, is accurate, complete and up-to-date. We will take reasonable steps to make sure this is the case. This way we can provide you with better service by ensuring that these parties are up to date with market happenings. 
-
-If you believe your personal information is not accurate, please contact us. Refer to the section 'How To Contact Us' above.
-
-10\. Data Security - Protecting Your Personal Information 
-
-We store information in different ways, including in paper and electronic format. The security of your personal information is important to us and we take reasonable steps to protect it from misuse and loss and unauthorised access, modification or disclosure. Some of the ways we do this are: 
-
-* confidentiality agreements for our employees and contractors;  
-* security measures for systems access;  
-* only allowing access to personal information where the individual seeking access has satisfied our identification requirements;  
-* access control for our buildings;  
-* destroying or permanently de-identifying your personal information if it is no longer needed for the purpose which the information was originally collected, used or disclosed under National Privacy Policy Principles. 
-
-11 Your Privacy On Our Website/s
-
-We take care to ensure that the personal information you give us on our website is protected. 
-
-12 Links from our Website to Other Sites 
-
-You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy standards, policies and procedures. 
-
-13\. Gaining access to your personal information 
-
-You may request access to any of the personal information we hold about you. This is subject to some exceptions allowed by law. Factors affecting a right to access include: 
-
-* where access would pose a serious threat to the life or health of any individual;  
-* where access would have an unreasonable impact on the privacy of others;  
-* a frivolous or vexatious request;  
-* the information relates to a commercially sensitive decision making process;  
-* where access would be unlawful;  
-* where access would prejudice enforcement activities relating to criminal activities and other breaches of law, public revenue, a security function or negotiations with you;  
-* legal dispute resolution proceedings denying access as required or authorised by or under law. 
-
-For more detailed requests for access to personal information, for example access to information held in archives, a fee may be charged to cover the cost of retrieval and the supply of this information to you. Contact us to obtain a form requesting access (see 'How To Contact Us' above). In some cases we may be able to deal with your request over the telephone.
-
-If we deny your request for access to, or refuse your request to correct your personal information, we will explain why. 
-
-14\. Using Commonwealth Identifiers 
-
-It is not anticipated that CANSTAR CANNEX will ever need to collect Commonwealth Identifiers such as your Tax File Number or pension card details. If this were to change in the future, the CANSTAR CANNEX Privacy Policy will be amended. If we were obliged to collect this type of information, CANSTAR CANNEX would not use or disclose this information other than when required or authorised by law. 
-
-15\. Do I have to be identified at all?
-
-Wherever it is lawful and practicable to do so, we may offer you the opportunity to deal with us anonymously. For example, when making an inquiry about current interest rates applicable on term deposits or if you perform an Annuity Calculation. If you choose to apply for a product from a third party, then it would be necessary to identify yourself. 
-
-16\. Your Sensitive Information
-
-Without your consent we will not collect information about you that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of a professional or trade association, membership of a trade union, details of health, disability, sexual preferences or practices, or criminal record. 
-
-CANSTAR CANNEX would only collect, use or disclose sensitive information about you as is allowed by law, for example where we have received your consent to do so or the collection is necessary for the establishment, exercise or defence of a legal claim. 
-
-17\. Resolving Your Privacy Issues
-
-If you have any issues you wish to raise with CANSTAR CANNEX, or would like to discuss any issues about our Privacy Policy, then you are able to do so a number of ways: 
-
-* you are always welcome to speak directly to our staff and they will do their best to resolve your issue. If investigation is required we will keep you advised of progress. If staff are unable to resolve the matter, it will be escalated as appropriate to facilitate resolution  
-* you can call our office any time between 8am and 5pm Monday to Friday EST (Refer 'How To Contact Us' above.)  
-* you can email your issue when you fill out a 'Customer Relations' form outlining your issue that will then be forwarded to our Customer Relations Manager.  
-You can obtain a form from our office (see 'How To Contact Us' above) or fill out the online form from this location - Customer Relations Form 
-
-18\. Acceptance and Changes To Our Privacy Policy
-
-You acknowledge and accept that your use of the CANSTAR CANNEX website indicates your acceptance of the CANSTAR CANNEX website terms of use and the CANSTAR CANNEX Privacy Policy.
-
-From time to time, our privacy statement may change. We may notify you about changes to our privacy statement by posting an updated version on our website: www.canstarcannex.com.au.
-
-19\. More Information About The National Privacy Policy
-
-For more information about privacy in general, you can visit the Federal Privacy Commissioner's website: www.privacy.gov.au
-
-Information Privacy Principles under the Privacy Act 1988: The Information Privacy Principles(IPP) 
+You acknowledge and accept that your use of the CANSTAR CANNEX website indicates your acceptance of the CANSTAR CANNEX website Terms of Use and Privacy Statement. 
