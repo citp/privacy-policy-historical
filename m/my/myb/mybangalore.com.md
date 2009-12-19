@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112154id_/http%3A//www.mybangalore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033121id_/http%3A//mybangalore.com/privacy) for the most accurate reproduction.*
 
 # My Bangalore privacy policy
 
