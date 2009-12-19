@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csupomona.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193427id_/http%3A//www.csupomona.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csupomona.edu privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219132539id_/http%3A//www.csupomona.edu/privacy.php) for the most accurate reproduction.*
 
 # Cal Poly Pomona
 
