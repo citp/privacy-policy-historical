@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessgreen.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170251id_/http%3A//www.businessgreen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessgreen.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219211338id_/http%3A//www.businessgreen.com/about/privacy) for the most accurate reproduction.*
 
 # About - Privacy policy - BusinessGreen.com
 
@@ -41,7 +41,7 @@ This statement discloses the privacy policy for the Incisive Media network of si
   * [http://www.networknews.co.uk](http://www.networknews.co.uk/ "Network IT Week")
   * [http://www.pcmag.co.uk](http://www.pcmag.co.uk/ "PC Magazine")
   * [http://www.pcw.co.uk](http://www.pcw.co.uk/ "Personal Computer World")
-  * [http://www.vnunet.com](http://www.vnunet.com/ "vnunet.com")
+  * [http://www.v3.co.uk](http://www.v3.co.uk/ "vnunet.com")
   * [http://www.vnuservices.co.uk](http://www.vnuservices.co.uk/ "VNU Services")
   * [http://www.webactivemagazine.co.uk](http://www.webactivemagazine.co.uk/ "Webactive")
   * and subdomains of these websites
