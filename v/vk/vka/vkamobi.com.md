@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vkamobi.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611090155id_/http%3A//www.vkamobi.com/pages.php%3Fpageid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkamobi.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220003750id_/http%3A//www.vkamobi.com/pages.php%3Fpageid%3D22) for the most accurate reproduction.*
 
 # Privacy notice
 
@@ -27,4 +27,4 @@ Account information, purchasing or returning information, searching keywords and
 The information you can get  
 The information you can get easily from www.vkamobi.com containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
-**Updates to this policy** If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us at 86-755-84522097
+**Updates to this policy** If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us at 86-755-83227647
