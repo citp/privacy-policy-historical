@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annegeddes.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615070611id_/http%3A//www.annegeddes.com/Modules/home/helpindex.aspx%3FcatId%3D49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annegeddes.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219183916id_/http%3A//www.annegeddes.com/Modules/home/helpindex.aspx%3FcatId%3D49) for the most accurate reproduction.*
 
 # Designer baby clothes and baby pictures by Anne Geddes
 
@@ -47,11 +47,13 @@ Our site requires you to voluntarily opt-in to receive any information from us. 
   
 ****  
   
-If you have questions or concerns regarding this Website's privacy policy, you should contact the company as follows:
+If you have questions or concerns regarding this Website’s privacy policy, you should contact the company as follows:
 
-Privacy Policy Coordinator,< br />Kel Geddes Management Ltd.,< br />2 York Street, Parnell< br />Auckland  
-New Zealand  
-
+Privacy Policy Coordinator,  
+Kel Geddes Management Ltd.,  
+2 York Street, Parnell  
+Auckland  
+New Zealand
 
 [Click here](http://www.annegeddes.com/Modules/home/helpindex.aspx?catId=46) to contact us.
 
