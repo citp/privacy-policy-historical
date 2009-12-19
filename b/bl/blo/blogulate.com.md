@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191851id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215632id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogulate
 
