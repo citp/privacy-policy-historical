@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnn.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132353id_/http%3A//privacy.pnn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnn.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032947id_/http%3A//privacy.pnn.com) for the most accurate reproduction.*
 
 # PNN.com Privacy on PNN
 
