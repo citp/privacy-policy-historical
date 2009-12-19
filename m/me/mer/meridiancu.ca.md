@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618101200id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219081942id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
 
 # Meridian Credit Union - Privacy
 
