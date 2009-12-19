@@ -1,14 +1,83 @@
-<!--The following is the downloaded HTML source of the ferret.com.au privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618185351id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ferret.com.au privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219010346id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy
-</title>
-<script type="text/javascript" src="/js/toggle.js"></script>
+	Ferret - Australia's Manufacturing and Industrial Directory
+</title><meta name="keywords">
+<meta name="description">
+<meta name="robots" content="noindex, nofollow">
 
-<link href="/css/layout-base.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/toggle.js?2.4.10c.001"></script>
 
-<link href="/css/layout-ferret.css" rel="stylesheet" type="text/css">
+<link href="/css/layout-base.css?2.4.10c.001" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.jqModal.js"></script>
+
+<link href="/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
+
+<link href="/css/jqModal.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+.page_master  .box .boxheader .boxheaderinner,
+ h2,
+ .Popup h2,
+ .title_2small,
+ .Popup h1,
+ .title_darkblue,
+ .FormHeading,
+ .title_2,
+ .dvSearchFoundTag,
+ .expert_question,
+.free_site .categorylist  .boxheader,
+.free_site .page_default .main_right  .boxheader,
+.free_site .page_default .main_right  .boxheader .boxheaderinner,
+.free_site .page_default .main_left  .boxheader,
+.free_site .page_default .main_left  .boxheader .boxheaderinner
+{
+    color: #6DA8C7;
+}
+
+ #pagebody {
+	border-top: solid 10px #6DA8C7;
+}
+           
+.free_site .categorylist  .boxheader,
+ a{
+	color: #3A99FF;
+}
+
+.paid_site  .boxheader a {
+    color: #ffffff;
+}
+
+.page_default .main_center  .boxheader,
+.page_master  .main_center  .boxheader,
+.paid_site  .boxheader {
+    background-color: #6DA8C7;
+    border-top: solid 1px #CEE2EC;
+    border-bottom: solid 1px #CEE2EC;
+}
+
+.free_site  .divGoogleAdsTop,
+.free_site  .boxheader {
+    border-top: solid 2px #6DA8C7;
+}
+
+ .deemphasisedboxheader {
+    border-top: solid 1px #6DA8C7;
+}
+
+ .box .AdSlotWithinList .divGoogleAdsTop
+{
+    background-color: #D5E6EF;
+}
+      
+</style>
 
 <!--[if IE 6]>
 <link href="/css/layout-ie6.css" rel="stylesheet" type="text/css" />
@@ -17,282 +86,151 @@
 <link href="/favicon_ferret.ico" rel="shortcut icon" type="image/x-icon">
 
 <link href="/favicon_ferret.ico" rel="icon" type="image/x-icon">
-<meta name="keywords" content="privacy policy">
-<meta name="description" content="All things manufacturing and industrial.">
-<meta name="robots" content="index, follow">
 <meta name="msvalidate.01" content="D34FBC6388414F99BC97494E062CD5D5">
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzEzMDY1MzYzZGT4pXk7NCbZaAGs1IpUBCC/q9GuUw==">
+	<form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIxNzY1NjU1M2RkDVgQO4OlKXUZP/RM54rtQlr2IqE=">
 
 
+<script src="/WebResource.axd?d=z7IZx0ZR_1Vfsw28uQhmG6_ziFcl3hPPZETKKohLvhX2vEtVWDpOd7IkC5VEnISrI_KVMpz3Q-L0bptRSmdTYA2&amp;t=633964648200000000" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-function openNewsletterPage(strSignupSource)
+function openNewsletterPage(strSignupSource,strEmailAddressId,strErrorInvalidID,strErrorRequiredID)
 {
-if($get('ctl00_ucNewsletterBox_NewsletterBox_EmailAddress').value != 'Enter email here') {if (isEmailAddress($get('ctl00_ucNewsletterBox_NewsletterBox_EmailAddress').value)) { 
-location.href='/enewsletter.aspx?EmailAddress=' + escape($get('ctl00_ucNewsletterBox_NewsletterBox_EmailAddress').value) + '&SignupSource=' + strSignupSource; 
+document.getElementById(strErrorRequiredID).style.display='none';
+document.getElementById(strErrorInvalidID).style.display='none';
+var eAddress = document.getElementById(strEmailAddressId)
+if(eAddress.value == 'Enter email here') {
+document.getElementById(strErrorRequiredID).style.display='block';
 } else {
-$get('NewsletterBox_ErrorInvalid').style.display='block'; }
+if (isEmailAddress(eAddress.value)) { 
+location.href='/enewsletter.aspx?EmailAddress=' + escape(eAddress.value) + '&ss=' + strSignupSource; 
+} else {
+document.getElementById(strErrorInvalidID).style.display='block'; }
 }
 return(false);
 }
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=xt052iFU4-daHNCs4o0sRZgf8EfjtBA1WQG1DVVYRxrTZPgAE97Pi6LfEefKPHV07lImHQcL4H_Hd7I_tb26zcndli8BXfqT2YPSu6sZET01&amp;t=35e40538" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var PageMethods = function() {
-PageMethods.initializeBase(this);
-this._timeout = 0;
-this._userContext = null;
-this._succeeded = null;
-this._failed = null;
-}
-PageMethods.prototype = {
-_get_path:function() {
- var p = this.get_path();
- if (p) return p;
- else return PageMethods._staticInstance.get_path();},
-CaptchaAsynchValidate:function(strTypedInValue,succeededCallback, failedCallback, userContext) {
-return this._invoke(this._get_path(), 'CaptchaAsynchValidate',false,{strTypedInValue:strTypedInValue},succeededCallback,failedCallback,userContext); }}
-PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
-PageMethods._staticInstance = new PageMethods();
-PageMethods.set_path = function(value) { PageMethods._staticInstance.set_path(value); }
-PageMethods.get_path = function() { return PageMethods._staticInstance.get_path(); }
-PageMethods.set_timeout = function(value) { PageMethods._staticInstance.set_timeout(value); }
-PageMethods.get_timeout = function() { return PageMethods._staticInstance.get_timeout(); }
-PageMethods.set_defaultUserContext = function(value) { PageMethods._staticInstance.set_defaultUserContext(value); }
-PageMethods.get_defaultUserContext = function() { return PageMethods._staticInstance.get_defaultUserContext(); }
-PageMethods.set_defaultSucceededCallback = function(value) { PageMethods._staticInstance.set_defaultSucceededCallback(value); }
-PageMethods.get_defaultSucceededCallback = function() { return PageMethods._staticInstance.get_defaultSucceededCallback(); }
-PageMethods.set_defaultFailedCallback = function(value) { PageMethods._staticInstance.set_defaultFailedCallback(value); }
-PageMethods.get_defaultFailedCallback = function() { return PageMethods._staticInstance.get_defaultFailedCallback(); }
-PageMethods.set_path("/privacy-policy.aspx");
-PageMethods.CaptchaAsynchValidate= function(strTypedInValue,onSuccess,onFailed,userContext) {PageMethods._staticInstance.CaptchaAsynchValidate(strTypedInValue,onSuccess,onFailed,userContext); }
-//]]>
-</script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQL66tDcDgLN5YvACQLil/PbDQKV9+zpBAKXr6oJ1IaaJVCUGFTvX52ox8xC4dEwJAE=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLNvNN8AsXD4JQOAuynuNkPAvWZ0fkFAteQ94kHqqrEh0ZnnD0WcnJfEqQvbiPJn08=">
-    
+	
+	<div id="ctl00_dvMain" class="paid_site">
+	<div id="ctl00_dvMain2" class="page_master">
+		<div id="pagebody">
+		    
 
-    
-    <div id="ctl00_dvMain" class="page_master paid_site">
-        <div id="pagebody">
-            <div id="header_top">
-                <div id="header_top_left">
-                    
+<div id="header_top">
+    <span id="ctl00_ucHeader_ucTopMenu_lblMenu"><a href="/">Home</a> | <a href="/about-us.aspx">About Ferret</a></span>
+
+
+</div>
+<div id="header_middle">
+	<div id="header_middle_left">
+		
 
 <div id="dvLogo">
-    <div id="ctl00_ucLogo_dvLogoHome" class="dvLogoHome">
-        <a id="ctl00_ucLogo_hlHome" href="/default.aspx">Home</a>
-    </div>
-    
-    <a id="ctl00_ucLogo_hlLogo" class="imgLogoImage" href="/default.aspx"><img src="/images/ferret/logo.png" border="0"></a>
+	<a id="ctl00_ucHeader_ucLogo_hlLogo" class="imgLogoImage" href="/"><img src="/images/ferret/logo.png" border="0"></a>
 
-    <div id="ctl00_ucLogo_dvLogoTagLineDiv" class="dvLogoTagline">
-        Australia's Manufacturing and Industrial Directory
-    </div>
-    
+	<div id="ctl00_ucHeader_ucLogo_dvLogoTagLineDiv" class="dvLogoTagline">
+		Australia's Manufacturing and Industrial Directory
+	</div>
+	
 </div>
-
-
-                </div>
-                <div id="header_top_right">
-                    
+	</div>
+	<div id="header_middle_right">
+		
 <div class="paidad">
-<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;dcopt=ist;tile=1;ord=850911237?"></script>
+<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;tile=1;ord=198449392?"></script>
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;dcopt=ist;tile=1;ord=850911237?" target="_blank"
-><img src="http://ad.au.doubleclick.net/ad/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;dcopt=ist;tile=1;ord=850911237?" width="468" height="60" alt="Advertisement" border="0" /></a>
+<a href="http://ad.au.doubleclick.net/jump/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;tile=1;ord=198449392?" target="_blank"
+><img src="http://ad.au.doubleclick.net/ad/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;tile=1;ord=198449392?" width="468" height="60" alt="Advertisement" border="0" /></a>
 </noscript>
 </div>
 
 
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="header_bottom">
+	<div id="header_bottom_left">
+		
 
-                </div>
-                <div class="clear"></div>
-            </div>
-            <div id="header_bottom">
-                <div id="header_bottom_left">
-                    <div id="ctl00_ucAddYourBusinessButton_Header_UcButton_dvButtonOuter">
-    <div id="ctl00_ucAddYourBusinessButton_Header_UcButton_dvButtonInner">
-        <div class="buttonleft"></div><div id="ctl00_ucAddYourBusinessButton_Header_UcButton_dvMiddle" class="buttoncenter"><a id="ctl00_ucAddYourBusinessButton_Header_UcButton_HyperLink1" href="/add-my-business.aspx">Add My Business - FREE</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
+
+
+
+    <div class="AddYourBusiness">
+        <div id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_dvButtonOuter">
+	<div id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_dvButtonInner">
+		<div class="buttonleft"></div><div id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_dvMiddle" class="buttoncenter"><a id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_HyperLink1" href="/add-my-business.aspx">Submit Your Listing</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+</div>
     </div>
-    
-</div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-                </div>
-                <div id="header_bottom_center">
-                    <div id="ctl00_UcNewsletterSignUpButton_dvButtonOuter">
-    <div id="ctl00_UcNewsletterSignUpButton_dvButtonInner">
-        <div class="buttonleft"></div><div id="ctl00_UcNewsletterSignUpButton_dvMiddle" class="buttoncenter"><a id="ctl00_UcNewsletterSignUpButton_HyperLink1" href="/enewsletter.aspx">Newsletter Sign Up</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
+    <div class="clear">
     </div>
-    
+
+
+
+
+
+	</div>
+	<div id="header_bottom_center">
+        
+		<div id="ctl00_ucHeader_UcNewsletterSignUpButton_dvButtonOuter">
+	<div id="ctl00_ucHeader_UcNewsletterSignUpButton_dvButtonInner">
+		<div class="buttonleft"></div><div id="ctl00_ucHeader_UcNewsletterSignUpButton_dvMiddle" class="buttoncenter"><a id="ctl00_ucHeader_UcNewsletterSignUpButton_HyperLink1" href="/enewsletter.aspx">Newsletter Sign Up</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+</div>
+	</div>
+	<div id="header_bottom_right">
+		<div class="dvSearchBox">
+	<div class="dvSearchBoxInput">
+	  <input name="ctl00$ucHeader$ucSearchbox$qu" type="text" value="Search product or company names" maxlength="200" id="ctl00_ucHeader_ucSearchbox_qu" class="textinput" onfocus="clearText(this);" onblur="checkText(this);" size="34" onkeypress="if(returnPressed(event)) {document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='none';
+if(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value == 'Search product or company names') {
+document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='block';
+} else {
+location.href='/search.aspx?qu=' + escape(escape(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value)); }return(false);} ; return true;">
+	</div>
+	<div class="dvSearchBoxButton">
+		<div id="ctl00_ucHeader_ucSearchbox_UcSearchButton_dvButtonOuter">
+	<div id="ctl00_ucHeader_ucSearchbox_UcSearchButton_dvButtonInner">
+		<div class="buttonleft"></div><div id="ctl00_ucHeader_ucSearchbox_UcSearchButton_dvMiddle" class="buttoncenter"><a onclick="document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='none';
+if(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value == 'Search product or company names') {
+document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='block';
+} else {
+location.href='/search.aspx?qu=' + escape(escape(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value)); }return(false);" id="ctl00_ucHeader_ucSearchbox_UcSearchButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucHeader$ucSearchbox$UcSearchButton$LinkButton1','')">Search</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+</div>
+	</div>
+	<div style="clear:both;"></div>
+	<div id="ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired" class="errortext" style="display:none;">missing search term</div>
+</div>
+
+	</div>
+	<div class="clear"></div>
 </div>
 
 
 
 
-
-
-
-
-
-
-
-
-                </div>
-                <div id="header_bottom_right">
-                    <div class="dvSearchBox">
-    <div class="dvSearchBoxInput">
-      <input name="ctl00$ucSearchbox$qu" type="text" value="Search product or company names" maxlength="200" id="ctl00_ucSearchbox_qu" class="textinput" onfocus="clearText(this);" onblur="checkText(this);" size="34" onkeypress="if(returnPressed(event)) {if($get('ctl00_ucSearchbox_qu').value != 'Search product or company names') {location.href='/search.aspx?qu=' + escape($get('ctl00_ucSearchbox_qu').value); }return(false);} ; return true;">
-    </div>
-    <div class="dvSearchBoxButton">
-        <div id="ctl00_ucSearchbox_UcSearchButton_dvButtonOuter">
-    <div id="ctl00_ucSearchbox_UcSearchButton_dvButtonInner">
-        <div class="buttonleft"></div><div id="ctl00_ucSearchbox_UcSearchButton_dvMiddle" class="buttoncenter"><a onclick="if($get('ctl00_ucSearchbox_qu').value != 'Search product or company names') {location.href='/search.aspx?qu=' + escape($get('ctl00_ucSearchbox_qu').value); }return(false);" id="ctl00_ucSearchbox_UcSearchButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucSearchbox$UcSearchButton$LinkButton1','')">Search</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
-    </div>
-    
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    <div style="clear:both;"></div>
-</div>
-
-                </div>
-                <div class="clear"></div>
-            </div>
-            <div id="main">
-                <div id="main_left">
-                    
-
-
-                    
-
-<div class="categorylist">
-    <div class="boxheader">Ferret Categories</div>
-    <div class="box">
-        <ul>
-            <li><a href="/z/Automation-Process-and-Control">Automation, Process and Control</a></li><li><a href="/z/Computers-and-Software">Computers and Software</a></li><li><a href="/z/Electronics-and-Components">Electronics and Components</a></li><li><a href="/z/Environment-and-Waste-Management">Environment and Waste Management</a></li><li><a href="/z/Food-and-Beverage-Processing">Food and Beverage Processing</a></li><li><a href="/z/Health-and-Safety">Health and Safety</a></li><li><a href="/z/Heavy-Machinery-and-Equipment">Heavy Machinery and Equipment</a></li><li><a href="/z/Industrial-Consumables">Industrial Consumables</a></li><li><a href="/z/Industry-Services">Industry Services</a></li><li><a href="/z/Materials-Handling-and-Storage">Materials Handling and Storage</a></li><li><a href="/z/Metal-Working">Metal Working</a></li><li><a href="/z/Mining">Mining</a></li><li><a href="/z/Packaging-Labelling-and-Barcoding">Packaging, Labelling and Barcoding</a></li><li><a href="/z/Test-and-Measurement">Test and Measurement</a></li><li><a href="/z/Transport-Logistics">Transport &amp; Logistics</a></li>
-        </ul>
-    </div>
-</div>
-
-
-
-
-                    
-
-<div class="boxheader"><span id="ctl00_ucNewsletterBox_lblBoxHeader">Ferret Newsletter</span></div>
-<div class="box newsletterbox">
-    <p>
-        <span id="ctl00_ucNewsletterBox_lblBoxText">Be the first to know about new products, services and developments. Sign up for Ferret's Daily Product News.<br></span>
-    </p>
-    <div>
-        <input name="ctl00$ucNewsletterBox$NewsletterBox_EmailAddress" type="text" id="ctl00_ucNewsletterBox_NewsletterBox_EmailAddress" onfocus="clearText(this);" size="12" onblur="checkText(this);" class="textinput" value="Enter email here" onkeypress="if(returnPressed(event)) {openNewsletterPage('2');return(false);} ; return true;">
-        <div id="NewsletterBox_ErrorInvalid" class="errortext" style="display:none;">invalid email address</div>
-        <div id="ctl00_ucNewsletterBox_UcSignupButton_dvButtonOuter" class="dvButtonOuter">
-    <div id="ctl00_ucNewsletterBox_UcSignupButton_dvButtonInner" style="float: right;">
-        <div class="buttonleft"></div><div id="ctl00_ucNewsletterBox_UcSignupButton_dvMiddle" class="buttoncenter"><a onclick="openNewsletterPage('2');return(false);" id="ctl00_ucNewsletterBox_UcSignupButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucNewsletterBox$UcSignupButton$LinkButton1','')">Sign up</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
-    </div>
-    
-        <div>
-        &nbsp;
-        </div>
-        <div style="clear:both;"></div>
-    
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-</div>
-
-
-
-
-
-                    
-
-
-                    
-<div class="paidad" style="width:300px; height:250px; ">
-<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250;tile=2;ord=850911237?"></script>
-<noscript>
-<a href="http://ad.au.doubleclick.net/jump/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250;tile=2;ord=850911237?" target="_blank"
-><img src="http://ad.au.doubleclick.net/ad/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250;tile=2;ord=850911237?" width="300" height="250" alt="Advertisement" border="0" /></a>
-</noscript>
-</div>
-
-
-
-
-                    
-
-
-                    
-
-
-                    
-
-<div class="dvCareersLink">
-    <p>
-        <a id="ctl00_ucCareersLink_hlCareersLink" href="/careers.aspx">Access hundreds of Manufacturing and Operations jobs online!</a>
-    </p>
-    <p>
-        <a id="ctl00_ucCareersLink_hlCareersImage" href="/careers.aspx" style="display:inline-block;"><img src="/images/Seek/powerdbyseek_wide.gif" border="0"></a>
-    </p>
-</div>
-
-
-
-
-                </div>
-                <div id="main_right">
-                    
-    
+			<div id="main">
+				<div class="main_center">
+					
+	
 <h1 class="boxheader">Privacy Policy</h1>
 <div class="box">
-    <div class="textarea"><span class="title_2"></span><span class="title_2"></span><span class="title_2">
+	<div class="textarea"><span class="title_2"></span><span class="title_2"></span><span class="title_2">
 <div class="" align="center"><br>Online Privacy Policy<br></div></span>
 <div align="center"><span class="title_2small">Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)</span></div><br>This privacy policy applies to all personal information collected by Catch via the internet.<br><br>Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.&nbsp; We know that providing personal information is an act of trust and we take that seriously.&nbsp; Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.<br><br><span class="title_2small">Collection of information</span><br><br>The four main ways we collect personal information about you are:<br>
 <ul>
@@ -318,58 +256,206 @@ PageMethods.CaptchaAsynchValidate= function(strTypedInValue,onSuccess,onFailed,u
 <li>provide you with other information about other products or services which you may enjoy.</li></ul>If you are receiving promotional information from Catch and do not wish to receive this information any longer, you may remove your name from our list by contacting the Catch Privacy Officer at <a href="mailto:legal@catch.com.au">legal@catch.com.au</a> and asking to be removed from our mailing list.&nbsp; Please allow 28 days for this request to be processed.&nbsp; <br><br><span class="title_2small">Access to the information we hold</span><br><br>You can request access to the personal information we hold about you by making a request to the Catch Privacy Officer via <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>. We will provide you with access unless we are legally authorised not to do so.<br><br><span class="title_2small">Changing and deleting the information we have about you</span><br><br>If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>.<br><br>If you wish to have your personal information deleted, please let us know in the same manner as referred to above.&nbsp; <br><br>We will take all reasonable steps to change or delete information in response to such a request.&nbsp; If there is a reason that we cannot make that change or deletion, we will inform you of that reason.&nbsp; <br><br><span class="title_2small">Storage and security of your personal information</span><br><br>Catch will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date.&nbsp; You should note that the internet is not a secure method of transmitting information and, as such, we are not responsible for the security of any information sent or received over the internet.<br><br>Please note that Catch may use overseas facilities to store, process or back up its information.&nbsp; As a result, we may transfer your personal information to our overseas facilities.&nbsp; However, this does not change our commitment to keep your information secure.<br><br><span class="title_2small">Third party websites</span><br><br>Catch websites contain links to websites that are not operated by Catch and the contact details for many businesses not operated by Catch.&nbsp; These linked sites and listed businesses are not under the control of Catch, and we are not responsible for the conduct of those businesses.&nbsp; Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. <br><br><span class="title_2small">CatchBot</span><br><br>CatchBot is the web crawler for Catch.&nbsp; CatchBot investigates websites for publicly available information about companies.&nbsp; CatchBot is not designed to access or index any personal or other information about individuals.&nbsp; However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.<br><br>More information about CatchBot is available at <a href="http://www.catchbot.com/">www.catchbot.com</a>.<br><br><span class="title_2small">Privacy inquiries</span><br><br>If you have any questions about this Privacy Policy or how Catch deals with your personal information you can contact:<br><br>Catch Privacy Officer<br><br>Email: <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>&nbsp;&nbsp;&nbsp; <br><br>Or, Mail: <br>Catch <br>Locked Bag 2999<br>Chatswood Delivery Centre NSW 2067<br>Australia<br><br><span class="title_2small">Future changes</span><br><br>Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.&nbsp; Because of this, from time to time, our policies will be reviewed and may be revised.&nbsp; Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website.&nbsp; The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.<br></div>
 </div>
 
+				</div>
+				<div class="main_left">
+					
 
-                </div>
-                <div class="clear"></div>
-            </div>
-        </div>
-        <div id="footer">
-            
-<div id="footer">
-    <div id="footer_left"><a id="ctl00_Ucpagefooter_hlCatch" href="http://www.catch.com.au" target="_blank"><img src="/images/catch.png" border="0"></a></div>
-    <div id="footer_right">
-        
-    </div>
-    <div id="footer_main">
-        <p>
-            <a href="/default.aspx">Home</a> |
-            <a href="/add-my-business.aspx">Add My Business</a> |
-            <a href="/add-my-pressrelease.aspx">Submit Free Article</a> |
-            <a href="/advertise.aspx">Advertise On Ferret</a> |
-            <span id="ctl00_Ucpagefooter_NewsletterPageLink"><a href="/enewsletter.aspx">eNewsletter</a> |</span>
-            <a href="/article-archive.aspx">News Archive</a>
-            <br>
-            <a href="/about-us.aspx">About Us</a> |
-            <a href="/contact-us.aspx">Contact Us</a> |
-            <a href="/careers.aspx">Careers</a> |
-            <a href="/privacy-policy.aspx">Privacy Policy</a> |
-            <a href="/termsofuse.aspx">Terms Of Use</a> |
-            <a href="/helpful-links.aspx">Helpful Links</a>
-        </p>
-        <p>
-            Product/Service: 
-            <span id="ctl00_Ucpagefooter_lbSections"><a href="/browse-sections.aspx?char=%23">#</a> <a href="/browse-sections.aspx?char=A">A</a> <a href="/browse-sections.aspx?char=B">B</a> <a href="/browse-sections.aspx?char=C">C</a> <a href="/browse-sections.aspx?char=D">D</a> <a href="/browse-sections.aspx?char=E">E</a> <a href="/browse-sections.aspx?char=F">F</a> <a href="/browse-sections.aspx?char=G">G</a> <a href="/browse-sections.aspx?char=H">H</a> <a href="/browse-sections.aspx?char=I">I</a> <a href="/browse-sections.aspx?char=J">J</a> <a href="/browse-sections.aspx?char=K">K</a> <a href="/browse-sections.aspx?char=L">L</a> <a href="/browse-sections.aspx?char=M">M</a> <a href="/browse-sections.aspx?char=N">N</a> <a href="/browse-sections.aspx?char=O">O</a> <a href="/browse-sections.aspx?char=P">P</a> <a href="/browse-sections.aspx?char=Q">Q</a> <a href="/browse-sections.aspx?char=R">R</a> <a href="/browse-sections.aspx?char=S">S</a> <a href="/browse-sections.aspx?char=T">T</a> <a href="/browse-sections.aspx?char=U">U</a> <a href="/browse-sections.aspx?char=V">V</a> <a href="/browse-sections.aspx?char=W">W</a> <a href="/browse-sections.aspx?char=X">X</a> <a href="/browse-sections.aspx?char=Y">Y</a> <a href="/browse-sections.aspx?char=Z">Z</a> </span>
-            <br>
-            Companies:
-            <span id="ctl00_Ucpagefooter_lbCompanies"><a href="/browse-companies.aspx?char=%23">#</a> <a href="/browse-companies.aspx?char=A">A</a> <a href="/browse-companies.aspx?char=B">B</a> <a href="/browse-companies.aspx?char=C">C</a> <a href="/browse-companies.aspx?char=D">D</a> <a href="/browse-companies.aspx?char=E">E</a> <a href="/browse-companies.aspx?char=F">F</a> <a href="/browse-companies.aspx?char=G">G</a> <a href="/browse-companies.aspx?char=H">H</a> <a href="/browse-companies.aspx?char=I">I</a> <a href="/browse-companies.aspx?char=J">J</a> <a href="/browse-companies.aspx?char=K">K</a> <a href="/browse-companies.aspx?char=L">L</a> <a href="/browse-companies.aspx?char=M">M</a> <a href="/browse-companies.aspx?char=N">N</a> <a href="/browse-companies.aspx?char=O">O</a> <a href="/browse-companies.aspx?char=P">P</a> <a href="/browse-companies.aspx?char=Q">Q</a> <a href="/browse-companies.aspx?char=R">R</a> <a href="/browse-companies.aspx?char=S">S</a> <a href="/browse-companies.aspx?char=T">T</a> <a href="/browse-companies.aspx?char=U">U</a> <a href="/browse-companies.aspx?char=V">V</a> <a href="/browse-companies.aspx?char=W">W</a> <a href="/browse-companies.aspx?char=X">X</a> <a href="/browse-companies.aspx?char=Y">Y</a> <a href="/browse-companies.aspx?char=Z">Z</a> </span>
-        </p>
-        <p>
-            Copyright © Reed Business Information (2.0.3-fsb). All material on this site is subject to copyright. All rights reserved.
-            <br>
-            No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system
-            <br>
-            for public or private use without the written permission of the publisher.
-        </p>   
-    </div>
+
+
+
+
+
+
+
+
+	    
+		
+        		
+		<div id="ctl00_ucInternalLeft1_ucCategoryList_rptrCategoryGroups_ctl00_dvGroupBox" class="categorylist groupclass__0">
+		    <div id="ctl00_ucInternalLeft1_ucCategoryList_rptrCategoryGroups_ctl00_dvBoxheader" class="boxheader">Ferret Categories</div>
+			<div class="box">
+
+				<ul>
+					
+							<li>
+							<a href="/z/Automation-Process-and-Control">Automation, Process and Control</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Computers-and-Software">Computers and Software</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Electronics-and-Components">Electronics and Components</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Environment-and-Waste-Management">Environment and Waste Management</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Food-and-Beverage-Processing">Food and Beverage Processing</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Health-and-Safety">Health and Safety</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Heavy-Machinery-and-Equipment">Heavy Machinery and Equipment</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Industrial-Consumables">Industrial Consumables</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Industry-Services">Industry Services</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Materials-Handling-and-Storage">Materials Handling and Storage</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Metal-Working">Metal Working</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Mining">Mining</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Packaging-Labelling-and-Barcoding">Packaging, Labelling and Barcoding</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Test-and-Measurement">Test and Measurement</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Transport-Logistics">Transport &amp; Logistics</a>
+							
+							</li>
+						
+				 </ul>
+
+			</div>
+		</div>
+	
+
+
+
+
+<div class="boxheader"><span id="ctl00_ucInternalLeft1_ucNewsletterBox_lblBoxHeader">Ferret Newsletter</span></div>
+<div class="box newsletterbox">
+	<p>
+		<span id="ctl00_ucInternalLeft1_ucNewsletterBox_lblBoxText">Be the first to know about new products, services and developments. Sign up for Ferret's Daily Product News.<br></span>
+	</p>
+	<div>
+		<input name="ctl00$ucInternalLeft1$ucNewsletterBox$NewsletterBox_EmailAddress" type="text" id="ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_EmailAddress" onfocus="clearText(this);" size="12" onblur="checkText(this);" class="textinput" value="Enter email here" onkeypress="if(returnPressed(event)) {openNewsletterPage('2','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_EmailAddress','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorInvalid','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorRequired');return(false);} ; return true;">
+		<div id="ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorInvalid" class="errortext" style="display:none;">invalid email address</div>
+		<div id="ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorRequired" class="errortext" style="display:none;">enter your email address</div>
+		<div id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_dvButtonOuter" class="dvButtonOuter">
+	<div id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_dvButtonInner" style="float: right;">
+		<div class="buttonleft"></div><div id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_dvMiddle" class="buttoncenter"><a onclick="openNewsletterPage('2','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_EmailAddress','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorInvalid','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorRequired');return(false);" id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucInternalLeft1$ucNewsletterBox$UcSignupButton$LinkButton1','')">Sign up</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+		<div>
+		&nbsp;
+		</div>
+		<div style="clear:both;"></div>
+	
+</div>
+	</div>
 </div>
 
 
-        </div>
+
+
+<div class="paidad" style="width:300px; ">
+<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250,300x600;tile=2;ord=198449392?"></script>
+<noscript>
+<a href="http://ad.au.doubleclick.net/jump/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250,300x600;tile=2;ord=198449392?" target="_blank"
+><img src="http://ad.au.doubleclick.net/ad/catch.ferret.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250,300x600;tile=2;ord=198449392?" width="300" height="250" alt="Advertisement" border="0" /></a>
+</noscript>
+</div>
+
+
+
+
+
+
+
+
+
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+<div id="footer">
+    <div id="footer_left">
+        <span id="ctl00_Ucpagefooter_lbHtmlLeftOfMenus"><a target="_blank" href="http://www.catch.com.au"><img src="/images/catch.png"></a></span>
     </div>
+    <div id="footer_right">
+        <span id="ctl00_Ucpagefooter_lbHtmlRightOfMenus"></span>
+    </div>
+    <div id="footer_main">
+        <p>
+            <a href="/">
+                Home</a> | <a href="/add-my-business.aspx">
+                    Add My Business</a> | <span id="ctl00_Ucpagefooter_AddMyPressReleaseLink"><a href="/add-my-pressrelease.aspx">
+                            Submit Free Article</a> |</span> <a href="/advertise.aspx">
+                                Advertise On Ferret</a> | <span id="ctl00_Ucpagefooter_NewsletterPageLink">
+                                    <a href="/enewsletter.aspx">
+                                        eNewsletter</a> |</span>
+            <a href="/article-archive.aspx">
+                News Archive</a>
+            <br>
+            <a href="/about-us.aspx">
+                About Us</a> | <a rel="nofollow" href="/contact-us.aspx">
+                    Contact Us</a>  | <a href="/privacy-policy.aspx">
+                                Privacy Policy</a> | <a href="/termsofuse.aspx">
+                                    Terms Of Use</a> <span id="ctl00_Ucpagefooter_HelpfulLinksPageLink">
+                                        | <a href="/helpful-links.aspx">
+                                            Helpful Links</a></span>
+             
+        </p>
+        <p>
+            
+            
+        </p>
+        
+        <div id="ctl00_Ucpagefooter_dvCopyright" class="dvCopyright">Copyright © Reed Business Information (2.4.10c.001). All material on this site is subject to copyright. All rights reserved.
+			<br>
+			No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system
+			<br>
+			for public or private use without the written permission of the publisher.</div>
+    </div>
+</div>
 
-    
+	</div>
+	</div>
 
-    
+	
+
+	
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -379,15 +465,21 @@ var pageTracker = _gat._getTracker("UA-251822-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-
-    
-
+	
+<script language="JavaScript">CreateCookie();</script></form>
+	
+	<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
 <script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
+ var _rsCI="postclick";
+ var _rsCG="ferrett";
+ var _rsDN="//secure-au.imrworldwide.com/";
 </script>
-</form>
-
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
+<noscript>
+ <div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=postclick&amp;cg=ferrett&amp;cc=1" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+<script language="javascript" src="http://ethnio.com/remotes/59602" type="text/javascript"></script>
 
 </body></html>
