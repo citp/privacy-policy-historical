@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330083423id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219124307id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Veoh Video Network | Veoh
 
