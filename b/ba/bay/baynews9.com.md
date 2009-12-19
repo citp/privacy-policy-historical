@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193040id_/http%3A//www.baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033417id_/http%3A//www.baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Station Information - Privacy Policy - Bay News 9
 
