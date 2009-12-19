@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615165653id_/http%3A//ww2.libertytravel.com/SecurityPolicy.jsp%3Futm_source%3D%26utm_medium%3D%26utm_campaign%3D%26leadsourceid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133250id_/http%3A//ww2.libertytravel.com/SecurityPolicy.jsp%3Futm_source%3D%26utm_medium%3D%26utm_campaign%3D%26leadsourceid%3D) for the most accurate reproduction.*
 
 # Privacy Policy | Your Security and Privacy | Liberty Travel
 
