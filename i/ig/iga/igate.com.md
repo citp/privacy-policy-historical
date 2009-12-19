@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090513id_/http%3A//www.igate.com/privacy_policy.html%3Fexpandable%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219222109id_/http%3A//www.igate.com/privacy_policy.html%3Fexpandable%3D9) for the most accurate reproduction.*
 
 # iGATE – Privacy Policy
 
-[](https://web.archive.org/web/20090619090513id_/http%3A//www.igate.com/index.php)
+[](https://web.archive.org/web/20091219222109id_/http%3A//www.igate.com/index.php)
 
-[](https://web.archive.org/web/20090619090513id_/http%3A//www.igate.com/index.php)
+[](https://web.archive.org/web/20091219222109id_/http%3A//www.igate.com/index.php)
 
   | This website, www.igate.com ( the "site"), and all personal information collected from users of this site, are owned solely by iGATE Corporation . In this Privacy Policy references to "we", "us", "our", are references to iGATE Corporation. |    
 ---|---|---  
@@ -46,4 +46,4 @@ You may access this Site's home page and browse the Site without disclosing any 
   |    
   |    
   
-© 2008 iGATE Corporation. All Rights Reserved.
+© 2009 iGATE Corporation. All Rights Reserved.
