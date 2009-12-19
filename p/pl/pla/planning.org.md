@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617055609id_/http%3A//www.planning.org/apaataglance/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213808id_/http%3A//www.planning.org/apaataglance/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The American Planning Association respects the privacy of those who use our products and services. The following policies guide our use of information collected from members, subscribers, customers, and website visitors.
+The American Planning Association respects the privacy of those who use our products and services. The following policies guide our use of information collected from members, subscribers, customers, and website visitors. We will post notification of material changes to this privacy statement on our website and will update this page with such changes.
 
  **Domain names**
 
@@ -10,7 +10,7 @@ Our web server automatically recognizes a visitor's domain name, but not the vis
 
  **E-mail addresses**
 
-We collect the e-mail addresses of members, subscribers, and customers, as well as of those who use our listservs, those who communicate with us via e-mail, and those who register for our website. APA does not sell e-mail addresses to anyone. APA shares e-mail addresses only with our own affiliated chapters and divisions and the Planning Foundation of APA. We share with our own affiliated chapters and divisions only the e-mail addresses of their members. APA uses vendors to distribute APA e-mail messages. These vendors are contractually prohibited from using those e-mail addresses for any purpose other than APA e-mail messages.
+We collect the e-mail addresses of members, subscribers, and customers, as well as of those who use our listservs, those who communicate with us via e-mail, and those who register for our website. APA does not sell e-mail addresses to anyone. APA shares e-mail addresses only with our own affiliated chapters and divisions and the Planning Foundation of APA. We share with our own affiliated chapters and divisions only the e-mail addresses of their respective members. APA uses vendors to distribute APA e-mail messages. These vendors are contractually prohibited from using those e-mail addresses for any purpose other than APA e-mail messages.
 
 Membership in APA and many APA subscriptions include electronic benefits, such as e-newsletters. We assume that anyone who joins APA or one of our chapters and divisions or who subscribes to a publication or service wants to receive the electronic benefits of the membership or subscription. Those who do not wish to receive their electronic benefits can unsubscribe via a link in the e-mail that delivers the electronic benefit.
 
@@ -30,7 +30,7 @@ We use cookies to record session information and to allow APA members and subscr
 
  **Provision of information**
 
-Upon request, we provide visitors access to all information we maintain about them.
+Upon request, we provide visitors access to all information we maintain about them and allow visitors to correct any inaccuracies in such information.
 
  **Security**
 
@@ -39,3 +39,5 @@ When we transfer and receive certain types of information, such as financial dat
  **Contact us**
 
 If you have any questions about our privacy statement, please e-mail [websitefeedback@planning.org](mailto:websitefeedback@planning.org).
+
+Privacy policy effective date: November 30, 2009
