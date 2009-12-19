@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193730id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterer.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219095401id_/http%3A//www.caterer.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Caterer.com - Privacy Policy
 
@@ -6,7 +6,7 @@ At Caterer.com we make every effort to comply with our obligations under the 199
 
 You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your 'My Caterer' account and choosing to close the account. 
 
-Privacy policy update (1 February 2007) 
+Privacy policy update (25 November, 2009) 
 
 ### Registration details
 
@@ -49,13 +49,3 @@ We provide aggregate statistical information about site visitors and users to re
 ### Security
 
 The site is protected against unauthorised access using the latest security devices and 'firewalls'. 
-
-### Collection and Use of Personal Information
-
-You may be asked to provide personal information in certain fields on this website. The personal information collected on this site is used for the purpose for which it is requested: 
-
-  1. Contact information, such as names, address, telephone numbers and email addresses is collected by us in order to provide information about our services, respond to questions, concerns, complaints, or technical support questions. This information will be stored by us and by our suppliers (who include Silverpop and Salesforce.com). Such information is usually deleted as space requires or in the normal course of business but can be amended or deleted upon request. To update your information, please contact your account manager.
-  2. When you sign up for an email newsletter or alerts about our products and services, Totaljobs Group will use that address and other details you provide to deliver the email newsletter requested.
-  3. We also record information about the pages and features you view during your use of the site and we may use your contact information to contact you by email or telephone to discuss ways in which we can enhance your use of the site. If you do not want to receive such contact please opt out by following this [link](https://web.archive.org/MarketingEmail/MarketingEmail.aspx).
-
-
