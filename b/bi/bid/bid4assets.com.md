@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616211129id_/http%3A//www.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219224715id_/http%3A//www.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Bid4Assets – the online auction marketplace for buying and selling high-value items
 
@@ -37,10 +37,10 @@ Bid4Assets uses cookies in a limited way. Cookies enable us to deliver content s
 Some of our sellers and service affiliates use "cookies".  Because we do not control the privacy policies of these non-Bid4Assets Web sites to which we may provide hyperlinks, you should check the privacy policy of sites you visit if you have concerns about their use of cookies.
 
 **Personal Information** [ (top)](http://www.bid4assets.com/Help/index.cfm?fuseAction=privacyPolicy#top)   
-Our site's registration form may require you to give us contact information (such as your name and email address). This information helps us customize your experience, tailor email alerts and notifications and qualify you to sell and/or bid on the site. You may opt out of receiving future e-mails by sending an email to [service@Bid4Assets.com](mailto:service@Bid4Assets.com)
+Our site's registration form may require you to give us contact information (such as your name, email address, and credit card). This information helps us customize your experience, tailor email alerts and notifications and qualify you to sell and/or bid on the site. You may opt out of receiving future e-mails by sending an email to [service@Bid4Assets.com](mailto:service@Bid4Assets.com)
 
 **Survey Information Use** [ (top)](http://www.bid4assets.com/Help/index.cfm?fuseAction=privacyPolicy#top)   
-Bid4Assets conducts regular voluntary user surveys.  The data collected from these surveys is intended to help us effectively determine how to better serve our users. All information collected is kept confidential and will be used to analyze consumer satisfaction, so that we may improve our content and product offerings. 
+Bid4Assets conducts regular voluntary user surveys.  The data collected from these surveys is intended to help us effectively determine how to better serve our users. Any information collected will not be published with personally identifiable content and is kept confidential. The information will be used to analyze consumer satisfaction, so that we may improve our content and product offerings. 
 
 We may use your email address, mailing address, and/or phone number to contact you regarding survey participation. If you do not wish to participate in our voluntary surveys please see the Opting Out section below. We may make changes to the Survey Information Use from time to time. 
 
@@ -52,7 +52,7 @@ Bid4Assets gives high priority to protecting the privacy of your personal inform
 
 Certain browsers and computers have the ability to communicate securely by scrambling (or encrypting) the information as it passes across the Internet. This method of communication is called SSL, or Secure Socket Layer. We require the use of a secure browser before a connection can be made to the registration system.
 
-We recommend that you use one of the two most popular browsers for your online sessions. If you are not currently using the most up-to-date versions of Microsoft Internet Explorer or Netscape Navigator, we urge you to upgrade now. When choosing a browser, make sure that you download and install a 128-bit version. The description provided by Netscape or Microsoft will ensure that you get the right one. If you need to update your browser please click [here](http://www.bid4assets.com/Help/index.cfm?fuseAction=downloads) .  
+We recommend that you use one of the two most popular browsers for your online sessions. If you are not currently using the most up-to-date versions of Microsoft Internet Explorer or Mozilla Firefox, we urge you to upgrade now. If you need to update your browser please click [here](http://www.bid4assets.com/Help/index.cfm?fuseAction=downloads) .  
   
 
 
@@ -96,9 +96,3 @@ Bid4Assets
 8757 Georgia Avenue, Suite 1330  
 Silver Spring, MD 20910  
 [Service@Bid4Assets.com](mailto:Service@Bid4Assets.com)
-
-  
-BID4ASSETS.COM® and BID4ASSETS® are registered trademarks of Bid4Assets, Inc.  
-Copyright © 1999-2009 ALL RIGHTS RESERVED Bid4Assets®, Inc  
----  
- 
