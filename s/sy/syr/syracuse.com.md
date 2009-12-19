@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045003id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033007id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - syracuse.com
 
@@ -64,3 +64,5 @@ Privacy Policy Coordinator
 **Syracuse, NY, 13214**  
 **support@syracusemail.com**  
 **[or Contact Us with this form](https://web.archive.org/contactus)**
+
+Syracuse.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 25 newspapers affiliated with [Advance Internet](http://www.advance.net/).
