@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myarticlezine.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072741id_/http%3A//myarticlezine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarticlezine.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219145425id_/http%3A//myarticlezine.com/privacy.php) for the most accurate reproduction.*
 
 # MyArticleZine.com|MyArticleZine Directory | Submit Articles | Search Find Free Content | Author Submissions
-
-**Do You Want More One Way Links?** If you answered yes to this question then read on, if you answered no, look away. What is Social Link Network? It is a free Network of Webmasters giving and receiving One Way Links. There are no link exchange, 3 way links or spam links. Get back to the basics and build one way links. [One way links](http://www.sociallinknetwork.net/) will drive traffic to your website by helping your website in the search engine rankings.
 
 My Article Zine Privacy Policy
 
