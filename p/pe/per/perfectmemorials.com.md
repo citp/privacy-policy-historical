@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216093017id_/http%3A//www.perfectmemorials.com/privacy_security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144649id_/http%3A//www.perfectmemorials.com/help/general-help/privacy-security/privacy-notice) for the most accurate reproduction.*
 
-# Privacy & Security - Perfect Memorials
+# Help - Privacy Notice
 
-Perfect Memorials knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Perfect Memorials, you are accepting the practices described in this Privacy & Security Notice.
+Perfect Memorials Privacy Notice
 
-  
+Perfect Memorials knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Perfect Memorials, you are accepting the practices described in this Privacy Notice.**
 
-
-### What Personal Information About Customers Does Perfect Memorials Gather?
+**What Personal Information About Customers Does Perfect Memorials Gather?**
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at Perfect Memorials. Here are the types of information we gather. 
 
@@ -18,13 +17,13 @@ The information we learn from customers helps us personalize and continually imp
 
 
 
-### What About Cookies?
+**What About Cookies?**
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. 
 
 
 
-### Does Perfect Memorials Share the Information It Receives?
+**Does Perfect Memorials Share the Information It Receives?**
 
 Information about our customers is an important part of our business, and **we are not in the business of selling it to others**. We share customer information only as described below and with subsidiaries Perfect Memorials LLC controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
@@ -34,7 +33,7 @@ Information about our customers is an important part of our business, and **we a
 
 
 
-### How Secure Is Information About Me?
+**How Secure Is Information About Me?**
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
   * We reveal only limited digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
@@ -42,32 +41,28 @@ Information about our customers is an important part of our business, and **we a
 
 
 
-### Which Information Can I Access?
+**Which Information Can I Access?**
 
 Perfect Memorials gives you access to a broad range of information about your account and your interactions with Perfect Memorials for the limited purpose of viewing and, in certain cases, updating that information. 
 
-### Conditions of Use, Notices, and Revisions
+**Conditions of Use, Notices, and Revisions**
 
-If you choose to visit Perfect Memorials, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of Minnesota . If you have any concern about privacy at Perfect Memorials, please [contact us](http://www.perfectmemorials.com/contact_us.php) with a thorough description, and we will try to resolve it. 
+If you choose to visit Perfect Memorials, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of Minnesota . If you have any concern about privacy at Perfect Memorials, please [contact us](http://www.perfectmemorials.com/contact-us/) with a thorough description, and we will try to resolve it. 
 
 Our business changes constantly, and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-### Information You Give Us
+**Information You Give Us**
 
 You provide most such information when you search, buy, answer a questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Perfect Memorials or one of our third-party sellers; provide information in [ Your Account](https://www.perfectmemorials.com/login.php); communicate with us by phone, e-mail, or otherwise; complete a questionnaire; and employ other Personal Notification Services, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers).
 
-### Automatic Information
+**Automatic Information**
 
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
 
-### Information from Other Sources
+**Information from Other Sources**
 
 Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information; search term and search result information; search results and links, including paid listings (such as Sponsored Links from Google); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
 
-### Information You Can Access
+**Information You Can Access**
 
-Examples of information you can access easily at Perfect Memorials include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, and address book); payment settings (including credit card information and gift certificates); and e-mail notification settings.
-
-### Safe & Secure Online Transactions
-
-Perfect Memorials is concerned about the safety and security of our customers. Accordingly, we have put a number of technological protections in place to ensure that our transaction process is extremely safe and that our customers' information is secure. 
+Examples of information you can access easily at Perfect Memorials include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, and address book); payment settings (including credit card informacotion and gift certificates); and e-mail notification settings.
