@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxhyip.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313073859id_/http%3A//maxhyip.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxhyip.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219031618id_/http%3A//www.maxhyip.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Statement for MaxHYIP - High Yield Investment Programs - HYIP Forex Offshore Invest Gold
+# Privacy Statement for MaxHYIP Monitor
 
 MaxHYIP, will use the information you provide for internal purposes only. informations will not be sold, traded, given, provided to or transmitted in any way to other entities, businesses, individuals, corporations, or associations. You will not receive unsolicited e-mails or mailings from MaxHYIP unless you provide us with permission to do so.
 
@@ -40,7 +40,7 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [admin@maxhyip.com](mailto:admin@maxhyip.com)  
 
 
-Last Updated: October 16 2008
+Last Updated: December 18 2009
 
   
 
