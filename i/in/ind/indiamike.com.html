@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiamike.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616163327id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiamike.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219213347id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head>
 <title>India Travel Forum | IndiaMike.com - Privacy Policy</title>
@@ -14,13 +14,13 @@
 
 
 <!-- CSS Stylesheet -->
-<link rel="stylesheet" type="text/css" href="http://www.indiamike.com/india/clientscript/vbulletin_css/style-1f4a0049-00001.css" id="vbulletin_css">
+<link rel="stylesheet" type="text/css" href="http://www.indiamike.com/india/clientscript/vbulletin_css/style-7ab7a00e-00001.css" id="vbulletin_css">
 
 <!-- / CSS Stylesheet -->
 
 <script type="text/javascript">
 <!--
-var SESSIONURL = "s=c7e414c56b0114119d76c1018739b264&";
+var SESSIONURL = "s=8e3521a67e29433a5dc57d22810c106b&";
 var IMGDIR_MISC = "http://www.indiamike.com/india/images/misc";
 var vb_disable_ajax = parseInt("0", 10);
 // -->
@@ -38,6 +38,8 @@ var vb_disable_ajax = parseInt("0", 10);
 </head>
 <body>
 
+<script type="text/javascript" src="http://www.indiamike.com/jsinclude/jquery.js"></script>
+<script type="text/javascript" src="http://www.indiamike.com/jsinclude/jquerycookie.js"></script>  
 <script type="text/javascript">
 <!--
 function log_out()
@@ -61,40 +63,78 @@ function log_out()
 <!-- End Admin Log In As User -->
 <!-- logo -->
 
-<!-- emailadd file -->
-<a href="http://www.indiamike.com/emailadd/index.php"><img src="http://www.indiamike.com/emailadd/pixel.gif" border="0" alt=" " width="1" height="1" http:="" www.indiamike.com="" india=""></a>
-<!-- / emailadd file -->
+<!-- emailadd file
+<a href="http://www.indiamike.com/emailadd/index.php"><img src="http://www.indiamike.com/emailadd/pixel.gif" border="0"
+alt=" " width="1" height="1"http://www.indiamike.com/india//></a>
+ / emailadd file -->
 
 <a name="top"></a>
 <div id="header">
-<div class="loginbox">
+	<div class="loginbox">
+					
+			<!-- login form -->
+			<form action="http://www.indiamike.com/india/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+			<script type="text/javascript" src="http://www.indiamike.com/india/clientscript/vbulletin_md5.js?v=365"></script>
+			
+			<span style="font-size:10px">		
+				<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label>
+				&nbsp;&nbsp;
+				<input type="text" class="bginput" style="font-size: 10px" name="vb_login_username" id="navbar_username" size="20" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';" onblur="if (this.value == '') this.value = 'User Name';">
 				
-		<!-- login form -->
-		<form action="http://www.indiamike.com/india/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-		<script type="text/javascript" src="http://www.indiamike.com/india/clientscript/vbulletin_md5.js?v=365"></script>
-		<table cellpadding="0" cellspacing="3" border="0">
-		<tbody><tr>
-			<td align="right"><div class="smallfont"><label for="navbar_username">User Name&nbsp;</label></div></td>
-			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
-			<td colspan="2" nowrap="nowrap"><div class="smallfont"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></div></td>
-		</tr>
-		<tr>
-			<td align="right"><div class="smallfont"><label for="navbar_password">Password</label>&nbsp;</div></td>
-			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"></td>
-			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
-		</tr>
-		</tbody></table>
-		<input type="hidden" name="s" value="c7e414c56b0114119d76c1018739b264">
-		<input type="hidden" name="do" value="login">		
-		<input type="hidden" name="vb_login_md5password">
-		<input type="hidden" name="vb_login_md5password_utf">
-		</form>
-		<!-- / login form -->
-	        <div style="text-align:center"><div class="smallfont"><a rel="nofollow" href="http://www.indiamike.com/india/login.php?do=lostpw">Forgot your password?</a></div></div>
+				<input type="password" class="bginput" style="font-size: 10px" name="vb_login_password" id="navbar_password" size="20" tabindex="102" value="">
 		
-</div>
-<a href="http://www.indiamike.com/"><img src="http://www.indiamike.com/india/images/newlogo2.gif" align="left" border="0" alt="India Travel Forum Homepage"></a>
-<br class="clear" http:="" www.indiamike.com="" india="">
+				<input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s">
+				<br class="clear">
+				<a rel="nofollow" href="http://www.indiamike.com/india/login.php?do=lostpw">Forgotten Your Password?</a>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		
+				<br class="clear">
+			</span>
+	
+			<input type="hidden" name="s" value="8e3521a67e29433a5dc57d22810c106b">
+			<input type="hidden" name="do" value="login">		
+			<input type="hidden" name="vb_login_md5password">
+			<input type="hidden" name="vb_login_md5password_utf">
+			</form>
+			<!-- / login form -->
+		        
+			
+
+		<div style="float:right;margin:1px">
+			<div style="padding:7px 1px 1px 3px">
+				<form id="mainSearchForm" action="http://www.indiamike.com/india-search" method="post">
+					<input style="padding:1px;color:#5a5a5a" id="msearchTextHidden" type="text" size="40" onfocus="if (this.value=='Search IndiaMike.com') this.value='';" onblur="if (this.value=='') this.value='Search IndiaMike.com';" name="newSearchText" value="Search IndiaMike.com">
+					<input type="submit" style="margin:0px;padding:0px;" value="GO">
+					<br class="clear">
+					<div style="display:none">
+						<select id="mdateRangeSelect" name="daterange">
+							<option value="anytime" selected="">anytime</option>
+							<option value="oneDayAgo">past 24 hours</option>
+							<option value="oneWeekAgo">past week</option>
+							<option value="oneMonthAgo">past month</option>
+							<option value="sixMonthsAgo">past 6 months</option>
+							<option value="oneYearAgo">past year</option>
+						</select>
+						<input id="madvancedCheckbox" type="checkbox" name="searchType" value="advanced">
+						<input id="startPosition" type="text" name="startPosition" value="0">
+						<input id="mdisplaySearchResults" type="hidden" name="displaySearchResults" value="yes" http:="" www.indiamike.com="" india="">
+						<input id="mcityCheckbox" type="checkbox" name="cityTemplate" value="city" checked="">
+						<input id="marticleCheckBox" type="checkbox" name="articleTemplate" value="article" checked="">
+						<input id="mforumCheckbox" type="checkbox" name="forumTemplate" value="forum" checked=""> &amp;
+						<input id="mthreadRadio" type="radio" name="forumSelection" value="thread" checked=""> &amp;
+						<input id="mpostRadio" type="radio" name="forumSelection" value="post"> &amp;
+						<input id="mhotelCheckbox" type="checkbox" name="hotelTemplate" value="hotel" checked=""> 
+						<input id="mphotoCheckbox" type="checkbox" name="photoTemplate" value="photo" checked="">
+					</div>
+				</form>
+			</div>
+		</div>
+
+
+	</div>
+	<a href="http://www.indiamike.com/"><img src="http://www.indiamike.com/india/images/newlogo2.gif" align="left" border="0" alt="India Travel Forum Homepage"></a>
+
+	<br class="clear">
+
 </div>
 <!-- /logo -->
 
@@ -109,7 +149,6 @@ function log_out()
 
 
 <!-- begin navbar -->
-
 <!-- nav buttons bar -->
 <div id="globalnavigation">
 <div class="gnlinks">
@@ -161,48 +200,18 @@ function log_out()
 
 <!-- breadcrumb, login, pm info -->
 <div>
-<div style="background:#b00;float:right;margin:1px">
-	<div style="padding:0px 1px 1px 3px">
-		<form id="mainSearchForm" action="/india-search" method="post">
-			<input style="padding:1px;color:#5a5a5a" id="msearchTextHidden" type="text" size="40" onfocus="if (this.value=='Search IndiaMike.com') this.value='';" onblur="if (this.value=='') this.value='Search IndiaMike.com';" name="newSearchText" value="Search IndiaMike.com">
-			<input type="submit" style="margin:0px;padding:0px;" value="GO">
-			<div style="display:none">
-			<input id="mdisplaySearchResults" type="hidden" name="displaySearchResults" value="yes">
-			<input id="mcityCheckbox" type="checkbox" name="cityTemplate" value="city" checked="">
-			<input id="marticleCheckBox" type="checkbox" name="articleTemplate" value="article" checked="">
-			<input id="mforumCheckbox" type="checkbox" name="forumTemplate" value="forum" checked=""> &amp;
-			<input id="mthreadRadio" type="radio" name="forumSelection" value="thread" checked=""> &amp;
-			<input id="mpostRadio" type="radio" name="forumSelection" value="post"> &amp;
-			<input id="mhotelCheckbox" type="checkbox" name="hotelTemplate" value="hotel" checked=""> 
-			<select id="mdateRangeSelect" name="daterange">
-				<option value="anytime" selected="">anytime</option>
-				<option value="oneDayAgo">past 24 hours</option>
-				<option value="oneWeekAgo">past week</option>
-				<option value="oneMonthAgo">past month</option>
-				<option value="sixMonthsAgo">past 6 months</option>
-				<option value="oneYearAgo">past year</option>
-			</select>
-			<input id="madvancedCheckbox" type="checkbox" name="searchType" value="advanced">
-			<input id="mphotoCheckbox" type="checkbox" name="photoTemplate" value="photo" checked="">
-			<input id="startPosition" type="text" name="startPosition" value="0">
-			</div>
-		</form>
-	</div>
-</div>
-
 <div class="navbar">
 	
 		<a href="http://www.indiamike.com/index.php" accesskey="1">IndiaMike.com</a>»
 	Privacy Policy
 
 			
+	<div style="display:none" id="settingOutput"></div>
+	
+	
 </div>
 </div>
 <!-- / breadcrumb, login, pm info -->
-
-<!-- Forum Description -->
-
-
 
 
 <table id="insetlayout">
@@ -428,7 +437,7 @@ IndiaMike.com is an information site and as a policy we never display by way of 
 	
 	<!-- Do not remove  or your scheduled tasks will cease to function -->
 
-	indiamike.com ©2001-2008
+	IndiaMike.com ©2001-2009
 	</div>
 </div>
 <br>
