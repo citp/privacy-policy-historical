@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitemoviepass.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065929id_/http%3A//elitemoviepass.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemoviepass.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010549id_/http%3A//elitemoviepass.com/info/privacy) for the most accurate reproduction.*
 
 # Elite Movie Pass - 1000's Of High Quality XXX Porn DVD's
 
