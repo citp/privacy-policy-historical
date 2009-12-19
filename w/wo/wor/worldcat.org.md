@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191808id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133930id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy [WorldCat]
 
@@ -42,7 +42,7 @@ OCLC Online Computer Library Center, Inc. ("OCLC") is a nonprofit, membership, c
 > 
 > (6) Questions, Comments, and Entries to Open Forums and Reviews
 > 
->   1. We encourage you to provide personal information ONLY in fields specifically designed for such information such as riegstration and log-on.
+>   1. We encourage you to provide personal information ONLY in fields specifically designed for such information such as registration and log-on.
 >   2. Comments and entries to forums and reviews are posted in real time. Consequently, your entire submission may appear in an open forum or review. Please be aware that any personal information you include within this entry field will be available to the public. OCLC will make reasonable attempts to remove personal information included in submissions.
 > 
 
