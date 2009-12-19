@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523074130id_/http%3A//smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219122714id_/http%3A//www.smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
 
 # Game On
 
@@ -82,5 +82,5 @@ If you have questions or concerns regarding this policy, you should contact us b
 
 2waytraffic Mobile USA, Inc.   
 Concerning Privacy Policy   
-55 Washington Street, Suite 822  
-Brooklyn, NY 11201
+1515 Broadway, 12th floor  
+New York, NY 10036
