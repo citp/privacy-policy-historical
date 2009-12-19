@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageconverterplus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044757id_/http%3A//www.imageconverterplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageconverterplus.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219034655id_/http%3A//www.imageconverterplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy / Image Converter Plus
 
