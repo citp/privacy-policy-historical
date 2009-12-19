@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alivetorrents.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629080945id_/http%3A//www.alivetorrents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivetorrents.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219012958id_/http%3A//www.alivetorrents.com/privacy) for the most accurate reproduction.*
 
 # AliveTorrents - Privacy Policy
 
