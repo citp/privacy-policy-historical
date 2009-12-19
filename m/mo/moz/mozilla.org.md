@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180350id_/http%3A//www.mozilla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219041551id_/http%3A//www.mozilla.org/about/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
 
@@ -55,5 +55,3 @@ Mozilla may change its Privacy Policy from time to time. Any and all changes wil
 ### For More Information
 
 If you have questions about this privacy policy, please contact Mozilla at: privacy@mozilla.org.
-
-* * *
