@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191811id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130220id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -62,4 +62,4 @@ If you have any inquiries or complaints regarding this Privacy Statement, [conta
 
 * * *
 
-[ Request More Information](https://web.archive.org/web/20090618191811id_/http%3A//www.comptia.org/contactus.aspx)
+[ Request More Information](https://web.archive.org/web/20091219130220id_/http%3A//www.comptia.org/contactus.aspx)
