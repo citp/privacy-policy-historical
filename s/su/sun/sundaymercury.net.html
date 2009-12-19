@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sundaymercury.net privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617170517id_/http%3A//www.sundaymercury.net/priv_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sundaymercury.net privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219014610id_/http%3A//www.sundaymercury.net/priv_statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -24,9 +24,9 @@
 		
 		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/r2/preDisplay.js"></script>
 	
-		<script type="text/javascript" language="javascript" src="http://images.icnetwork.co.uk/js/xmlHttp.js"></script>
+		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/xmlHttp.js"></script>
 
-	    <link rel="stylesheet" href="http://images.icnetwork.co.uk/css/dhtmlwindow.css" type="text/css">
+	  <link rel="stylesheet" href="http://images.icnetwork.co.uk/css/dhtmlwindow.css" type="text/css">
 		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/dhtmlwindow.js"></script>
 	
 		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/googleLogo.js"></script>
@@ -56,6 +56,13 @@
 					setGoogleLogo();
 				}
 			}
+	
+
+		
+
+		
+
+		
 		//]]>
 		</script>
 	
@@ -63,7 +70,7 @@
 		
 		</head>
 
-		<body onload="tm.updateClock(''); 
+		<body id="tmg-sundaymercury-priv_statement-index" onload="tm.updateClock(''); 
 				setInterval('tm.updateClock(\'\')', 60000 ); 
 				if ( (typeof geoInitialize) != 'undefined' ){ geoInitialize(); } 
 				setGoogleLogoIfNeeded(); " onunload="if((typeof geoUnload) != 'undefined') geoUnload();">
@@ -77,15 +84,131 @@
 			
 				<span id="clock">
 						
-						17 June 2009: 1:33pm
+						18 December 2009: 8:17am
 					
 				</span>
 			
 
 		 | 
-		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/cookieVal.js"></script>
-		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/authHeader.js"></script>
+			<script type="text/javascript">
+			//<![CDATA[
+				/*
+	$Copyright Trinity Mirror $Date: 2009-08-11 16:28:00 +0100 (Tue, 11 Aug 2009) $
+	$Revision: 52471 $
+*/
+// parse document.cookie
+// returns a string or null.
+function getCookieVal(key) {
+	var pos = document.cookie.indexOf( key + "=" );
+	if( pos != -1 ) {
+		var start = pos + key.length + 1; 
+		var end = document.cookie.indexOf(";", start);
+		if( end == -1 ) end = document.cookie.length;
+		var value = document.cookie.substring(start, end);
+		return unescape(value);
+	}
+	return null;
+}
+/*
+set a key in document.cookie with optional expiry and path.
+*/
+function setCookieVal(key,value,duration_sec,path) {
+	var theCookie = key + "=" + escape(value);
+	if (duration_sec && duration_sec > 0) {
+		var exp = new Date();
+		exp.setTime(exp.getTime() + (duration_sec * 1000));
+		theCookie += '; expires=' + exp.toGMTString();
+	}
+	if (path) {
+		theCookie += ';path=' + path;
+	}
+	document.cookie = theCookie;
+}
+
+				/*
+ * 
+ * Writes out headers for being logged in or not.
+ * 
+ */
+
+function writeAuthHeader(regionId, needsCookies, regUrl, mailAddress, needsDiv, commProfileUrl, 
+		type, profileUrl) {	
+	var siteLifeUId = "";
+	var siteLifeDisplayName = "";
+	if (!type) { // consumer type
+		type = 2;
+	}
 	
+	if (needsCookies) {
+		mailAddress = getCookieVal("AUTH_SITE" + regionId + "_EMAIL");
+		if (commProfileUrl) {
+			var at = getCookieVal("AT");
+			if (at) {
+				var atVals = at.split("&");
+				for (var i = 0; i < atVals.length; i++) {
+					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'u=') {
+						siteLifeUId = atVals[i].substring(2);
+					}
+					if (atVals[i].length > 2 && atVals[i].substring(0,2) == 'a=') {
+						siteLifeDisplayName = atVals[i].substring(2);
+						if (type != 1) {
+							profileUrl = commProfileUrl + siteLifeDisplayName + '/';
+						} 
+					}
+				}
+			}
+		}
+	}
+	if (type == 1) { // i.e. forums
+		if (!profileUrl) {
+			profileUrl = '/profile.php?mode=editprofile';
+		} else {
+			//try to append session id to the profile url
+			var sid = document.body.innerHTML.match(/sid=[0-9a-fA-F]+/);
+			if (sid && sid.length) {
+				profileUrl = profileUrl + '&' + sid;
+			}
+		}
+	}
+ 	if (needsDiv) {
+ 		document.write('<div class="RegistrationHeader">');
+	}
+
+	var a_redirect = location.href.match(/[&?]redirect=([^?&]*)/i);
+	if (a_redirect != null) {
+		var queryString = location.href.replace(/^[^?]*\?/, '');
+		redirectURL = a_redirect[1] + '&' + queryString.replace(/[&?](redirect|account|logout|register)=([^?&]*)/gi, '');
+	} else {
+		redirectURL = escape(location.href);
+	}
+	
+	if (mailAddress) {
+		// User is logged in
+		writeAuthHeaderLoggedIn(mailAddress,
+								regUrl + '?account=1',
+								regUrl + '?logout=1&redirect=' + redirectURL,
+								profileUrl,
+								siteLifeUId,
+								siteLifeDisplayName); 
+	} else {
+		// User is not logged in
+		
+		//removed register=1 to allow toggle between login and register pages
+		var loginURL = regUrl + '?' + (type != 2 ? 'type='+type+'&' : '') 
+				+ 'redirect=' + redirectURL;
+		loginURL = loginURL.replace(/[&?](register)=([^?&]*)/gi, '');
+		writeAuthHeaderLoggedOut(loginURL, regUrl + '?register=1&type='+type+'&redirect=' + 
+				redirectURL, profileUrl);
+	}
+	
+	if (needsDiv) {
+		document.write('</div>');
+	}
+}
+
+			//]]>
+			</script>
+		
 		<script type="text/javascript">
 		//<![CDATA[
 
@@ -108,11 +231,13 @@ writeAuthHeader(183,
 				'http://www.sundaymercury.net/registration/index.cfm',
 				null,
 				false,
-				''
+				'',
+				2
+	
 				);
 
 	//]]>
-	</script>
+	</script><a href="http://www.sundaymercury.net/registration/index.cfm?redirect=https%3A//web.archive.org/web/20091219014610id_/http%3A//www.sundaymercury.net/priv_statement/">login</a>/<a href="http://www.sundaymercury.net/registration/index.cfm?register=1&amp;type=2&amp;redirect=https%3A//web.archive.org/web/20091219014610id_/http%3A//www.sundaymercury.net/priv_statement/">register</a>
 </p>
 		<form name="header_dropdown" method="get" action="">
 			<p id="nav-other-sites" style="display: block;">Visit our other sites:&nbsp;		
@@ -179,12 +304,11 @@ writeAuthHeader(183,
 </div><!--[if !IE]> end of container object <![endif]--></div>
 		</div>
 		
-	</div><!--This div contains the main site navigation-->
-			<div id="main-nav"> 
+	</div><div id="main-nav"> 
 				<ul>
-<li><a id="main-nav-selected" href="http://www.sundaymercury.net/">Home</a></li><li><a href="http://www.sundaymercury.net/news/">News</a></li><li><a href="http://www.sundaymercury.net/midlands-sport/">Midlands Sport</a></li><li><a href="http://www.sundaymercury.net/video-pics/">Videos &amp; Pics</a></li><li><a href="http://www.sundaymercury.net/roywoodcampaign/">Roy Wood Campaign</a></li><li><a href="http://www.sundaymercury.net/birmingham-blogs-comment/">Blogs &amp; Forum</a></li><li><a href="http://www.sundaymercury.net/fun-games-online/">Fun</a></li><li><a href="http://www.sundaymercury.net/entertainment-news/">Entertainment</a></li><li><a href="http://www.sundaymercury.net/lifestyle-news/">Lifestyle</a></li><li><a href="http://www.sundaymercury.net/travel/">Travel</a></li><li><a href="http://www.sundaymercury.net/sitemap/">Site Map</a></li>
+<li><a id="main-nav-selected" href="http://www.sundaymercury.net/">Home</a></li><li><a href="http://www.sundaymercury.net/news/">News</a></li><li><a href="http://www.sundaymercury.net/midlands-sport/">Sport</a></li><li><a href="http://www.sundaymercury.net/video-pics/">Videos &amp; Pics</a></li><li><a href="http://www.sundaymercury.net/birmingham-blogs-comment/">Blogs &amp; Forum</a></li><li><a href="http://www.sundaymercury.net/fun-games-online/">Fun</a></li><li><a href="http://www.sundaymercury.net/entertainment-news/">Entertainment</a></li><li><a href="http://www.sundaymercury.net/lifestyle-news/">Lifestyle</a></li><li><a href="http://www.sundaymercury.net/travel/">Travel</a></li><li><a href="http://www.sundaymercury.net/roywoodcampaign/">Roy Wood Campaign</a></li><li><a href="http://www.sundaymercury.net/sitemap/">Sitemap</a></li><li><a href="http://www.sundaymercury.net/weather/">Weather</a></li>
 		        </ul>
-			</div> <!-- End main-nav --><script language="javascript">
+			</div><script language="javascript">
 			//<![CDATA[
 					function checktopsearch(frm) {
 						if (frm.q.value.replace(/^[\s\t]*/, "").replace(/[\s\t]*$/, "") == '') {
@@ -210,18 +334,18 @@ if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90'  +
+ 'priv_statement;slot=top%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90'  +
  ';dcopt=ist' +
  ';tile=1' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;dcopt=ist;tile=1;ord=163782180176099680?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;dcopt=ist;tile=1;ord=2305465375957767000?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=783701670?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=133533944?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=783701670?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=133533944?"
 					
 						width="468"
 						height="60"
@@ -375,7 +499,7 @@ need to know basis including, for example, in relation to the fulfilment of any 
 <li class="homes"><a href="http://www.homes-midlands.com/birminghamproperty/">Homes Midlands</a></li>
 <li class="ads4u"><a href="http://birmingham.bookanad.com/">Book An Ad</a></li>
 <li class="family"><a href="http://www.bmdsonline.co.uk/?keywords=&amp;type=all_notices&amp;date_limit=&amp;region=tmmi&amp;source=tmmi_bmsm&amp;_fstatus=search">Family Notices</a></li>
-<li class="localmole"><a href="http://www.localmole.co.uk/?referer=http://www.sundaymercury.net/">LocalMole</a></li>
+<li class="localmole"><a href="http://www.localmole.co.uk/">LocalMole</a></li>
 <li class="ads4u"><a href="http://www.mercurycashback.com/">Cashback</a></li>
 <li class="family"><a href="http://3400.e-printphoto.co.uk/bpm/index.cfm?z=z&amp;action=home&amp;sessionout=1">Photosales</a></li>
 <li class="jobs"><a href="http://www.holidays-midlands.com/">Reader Travel</a></li>
@@ -543,17 +667,17 @@ if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155'  +
+ 'priv_statement;slot=widget%5Fone%5Fcol;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155'  +
  ';tile=2' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=163782180176099680?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=2305465375957767000?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=783701670?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=133533944?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=783701670?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=133533944?"
 					
 						width="160"
 						height="155"
@@ -571,29 +695,29 @@ if (typeof dartOrdT160x60 == 'undefined') dartOrdT160x60=Math.random()*100000000
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;tp=1;tn=3;to=v;tr=1;te=2;slot=right%5Ftable1;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120'  +
+ 'priv_statement;tp=1;tn=3;to=v;tr=1;te=2;slot=right%5Ftable1;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120'  +
  ';ord=' +
  dartOrdT160x60 +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=3;to=v;tr=1;te=2;slot=right%5Ftable1;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=8469229252248987000?"></script><script type="text/javascript">//<![CDATA[
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=3;to=v;tr=1;te=2;slot=right%5Ftable1;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=1651255100084516600?"></script><script type="text/javascript">//<![CDATA[
 
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600'  +
+ 'priv_statement;slot=right%5Fsky;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600'  +
  ';tile=3' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=163782180176099680?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=2305465375957767000?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=783701670?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=133533944?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=783701670?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=133533944?"
 					
 						width="120"
 						height="600"
@@ -608,18 +732,15 @@ if (typeof dartOrdT160x60 == 'undefined') dartOrdT160x60=Math.random()*100000000
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;tp=1;tn=2;to=v;tr=1;te=2;slot=right%5Ftable2;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120'  +
+ 'priv_statement;tp=1;tn=2;to=v;tr=1;te=2;slot=right%5Ftable2;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120'  +
  ';ord=' +
  dartOrdT160x60 +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=2;to=v;tr=1;te=2;slot=right%5Ftable2;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=8469229252248987000?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=2;to=v;tr=1;te=2;slot=right%5Ftable2;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=1651255100084516600?"></script>
 		</div>				
 				<!--end div sidebar-->		
 				</div><div id="footer">
-			
-			
-			
 	<!--This div contains our copyright and ads-->
 			<div id="footer-ad-slot-copyright">
 				<div class="clearfix">	
@@ -630,17 +751,17 @@ if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60'  +
+ 'priv_statement;slot=bottom%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60'  +
  ';tile=4' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=163782180176099680?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=2305465375957767000?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=783701670?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=133533944?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=783701670?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=133533944?"
 					
 						width="468"
 						height="60"
@@ -668,10 +789,12 @@ document.write('<scr' +
 <li><a href="http://www.mercurycashback.com">Cashback</a></li>	
 <li><a href="http://www.sundaymercuryoffers.co.uk">Reader offers</a></li>	
 <li><a href="http://www.trinitymirrormidlands.co.uk">Advertising information</a></li>	
+<li><a href="http://www.sundaymercury.net/news/contact-sunday-mercury/">Contact Us</a></li>	
 <li><a href="/sitemap/accessibility/">Accessibility</a></li>	 
 <li><a href="/priv_statement/">Privacy Policy</a></li>	 
 <li><a href="/sitemap/">Site Map</a></li>	 
-<li><a href="/terms_conditions/">Terms &amp; Conditions</a></li>	 
+<li><a href="/terms_conditions/">Terms &amp; Conditions</a></li>
+<li><a href="http://www.visitbirmingham.com/country_selector/">Visit Birmingham</a></li>	 
 </ul></div><!--[if !IE]> end of container object <![endif]--><!--[if !IE]> container object 66331:20992668 (noformat)  <![endif]--><!--This div contains our other sites links-->	 
 	<div id="footer-links-sites">
 	<ul>
@@ -697,17 +820,17 @@ if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
- 'priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90'  +
+ 'priv_statement;slot=bottom%5Fleaderboard;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90'  +
  ';tile=5' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=163782180176099680?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=2305465375957767000?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=783701670?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=133533944?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=783701670?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=priv%5Fstatement;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=133533944?"
 					
 						width="728"
 						height="90"
@@ -726,21 +849,21 @@ http://www.omniture.com -->
 
 
 <script type="text/javascript"><!--
-// Function to read URL variables
+
 function GetURLVars()
 {
-	// Get all of the name-value pairs from the URL string
+	
 	var args = new Object();
 	a_pairs = document.location.search.split(/[?&]/);
 	for (i = 0; i < a_pairs.length; i ++) {
-		// Get name and value
+		
 		a_bits = a_pairs[i].split('=');
 		if ((a_bits.length == 2) && (a_bits[0].length)) {
 			if (args[a_bits[0]] == undefined) {
-				// Set name and value
+				
 				args[a_bits[0]] = unescape(a_bits[1]);
 			} else {
-				// Build a comma separated list
+				
 				args[a_bits[0]] = args[a_bits[0]] + ',' + unescape(a_bits[1]);
 			}
 		}
@@ -761,8 +884,9 @@ function GetCampaign()
 	return campaignSrc;
 }
 
-/* Specify the Report Suite ID(s) to track here */
-var s_account="mgntrinitymirroraggregate,tmrsundaymercury";
+
+var s_account;
+s_account = s_account || "mgntrinitymirroraggregate,tmrsundaymercury";
 //--></script>
 
 <script type="text/javascript" src="http://images.icnetwork.co.uk/js/stats/omniture_network_wide_code.js"></script>
@@ -771,7 +895,7 @@ var s_account="mgntrinitymirroraggregate,tmrsundaymercury";
 
 var pageName = "sundaymercury/Privacy Statement/home"
 
-// Calculate page load time from clients perspective
+
 if (typeof startLoadTime != 'undefined') {
 	var endLoadTime = (new Date()).getTime();
 	var totalLoadTime = Math.round((endLoadTime - startLoadTime) / 100) /10;
@@ -780,8 +904,7 @@ else {
 	var totalLoadTime = 0;
 }
 
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+
 s.channel="Privacy Statement";
 s.pageType="";
 s.prop1="";
@@ -792,10 +915,12 @@ s.prop4="";
 
 s.prop5 = "sundaymercury";
 try {
-	var omnitureSitename = getCookie('brandingheader_site_name');
+	var omnitureSitename = (
+		(typeof getCookieVal == 'undefined')?getCookie:getCookieVal
+	)('brandingheader_site_name');
 	if (omnitureSitename) s.prop5 = omnitureSitename;
 } catch(e) {
-	// we do not have a getCookie function
+	
 }
 
 s.prop9="index.cfm"
@@ -813,7 +938,7 @@ s.prop27 = totalLoadTime
 s.prop30="channel"
 s.hier1="sundaymercury|Privacy Statement"
 
-/* E-commerce Variables */
+
 s.campaign=s.prop14
 s.state=""
 s.zip=""
@@ -836,15 +961,30 @@ if (typeof(statsPageProps)!='undefined'){
 		eVar2Val=s.prop23=statsPageProps.videoTitle;
 	s.prop15=''
 	}
-	/* override s.prop5, s.prop16, s.prop21 if defined from header var statsPageProps */ 
+	/* override props if defined from header var statsPageProps */ 
+	if (typeof(statsPageProps.path1) != 'undefined') {
+			s.prop1 = statsPageProps.path1;
+	}
+	if (typeof(statsPageProps.path2) != 'undefined') {
+			s.prop2 = statsPageProps.path2;
+	}
+	if (typeof(statsPageProps.path3) != 'undefined') {
+			s.prop3 = statsPageProps.path3;
+	}
 	if (typeof(statsPageProps.siteName) != 'undefined') {
 			s.prop5 = statsPageProps.siteName;
 	}
 	if (typeof(statsPageProps.region) != 'undefined') {
 		s.prop16 = statsPageProps.region;
 	}
+	if (typeof(statsPageProps.itemTitle) != 'undefined') {
+		s.prop19 = statsPageProps.itemTitle;
+	}
 	if (typeof(statsPageProps.publishingGroup) != 'undefined') {
 		s.prop21 = statsPageProps.publishingGroup;
+	}
+	if (typeof(statsPageProps.channel) != 'undefined') {
+		s.channel = statsPageProps.channel;
 	}
 	if (typeof(statsPageProps.classifiedCategory) != 'undefined') {
 		statsClassifiedCategory = statsPageProps.classifiedCategory;
@@ -852,6 +992,12 @@ if (typeof(statsPageProps)!='undefined'){
 	if (typeof(statsPageProps.contentCategory) != 'undefined') {
 		statsContentCategory = statsPageProps.contentCategory;
 	}
+	
+	
+	if (typeof(statsPageProps.moleBusinessName) != 'undefined') {
+		s.prop26='Mole-Enquiry';
+		s.eVar7=statsPageProps.moleBusinessName;
+	}	
 }
 
 
@@ -859,19 +1005,16 @@ if (typeof(statsPageProps)!='undefined'){
  
 
 s.events=eventsList
-//s.eVar1=eVar1Val
-//s.eVar2=eVar2Val
 s.eVar3=eVar3Val
 s.eVar4=eVar4Val
 s.eVar5=""
 
-/*** set page name ***/
+
 s.pageName = setOmniturePageName(pageName);
 if (typeof(statsPageProps)!='undefined' && typeof(statsPageProps.pageNameSuffix)!='undefined') {
 	s.pageName += statsPageProps.pageNameSuffix; // adds a suffix if present on page.
 }
 
-/************* Capture attributes set in page ***********************/
 if (typeof(statsClassifiedCategory) != "undefined") {
 	
 	s.prop4 = statsClassifiedCategory;
@@ -884,11 +1027,10 @@ if (typeof(statsContentCategory) != "undefined") {
 
 if (s.prop4 != "" && s.prop5 != "") s.prop12 = s.prop5 + "_" + s.prop4;
 if (s.prop4 != "" && s.prop16 != "") s.prop17 = s.prop16 + "_" + s.prop4;
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
+//--></script>
 <!-- End SiteCatalyst code version: H.17. -->
 		</div><script type="text/javascript">
 		//<![CDATA[
@@ -900,6 +1042,10 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 		</script>
 		</div>
 				<br clear="all">
+			
+			
+			
+			
 			
 			
 		
