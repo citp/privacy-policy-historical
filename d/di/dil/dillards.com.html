@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dillards.com privacy policy that was archived on 2009-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090506140229id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dillards.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219071746id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Dillard's.com | Company Notices and Terms of Use</title>
@@ -8,6 +8,7 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="/js/holidaypopup.js"></script>
 <link rel="stylesheet" href="/css/shopping.css">
+<link rel="stylesheet" href="/css/lightbox.css">
 
 <script language="JavaScript">
   function MM_openBrWindow(theURL,winName,features) 
@@ -15,16 +16,9 @@
     window.open(theURL,winName,features);
   }
 </script>
-
-
 </head>
 
-
-
-   <!--Begin Main Content Area -->
-   
-
-
+<!--Begin Main Content Area -->
 <body>  
 
 
@@ -67,13 +61,25 @@
 
         </ul>
       </div>
-	  <div id="email_inner">
-        <form method="post" name="EmailRequest" action="/catalogrequest/EmailRequestStartServlet">
-          <!--Be the first to know! Join our email list-->Be the first to know! Join our email list &nbsp;
-          <input name="email" type="text" value="enter email address" size="25" onfocus="this.value='';" class="psearch">
+	  <div id="email_inner" style="margin: -3px 0 0 0; padding: 0;">
+        <form method="post" name="EmailRequest" action="/catalogrequest/EmailRequestStartServlet" style="margin:0; padding:0;">
+          Be the first to know! Join our email list &nbsp;
+          <input name="email" type="text" value="enter email address" size="20" onfocus="this.value='';" class="psearch" style="margin-top: -5px; font-size: 11px;">
           <input src="/images/arrow.gif" alt="join our email list" name="go" type="image" border="0" style="vertical-align: text-bottom">
         </form>
-      </div>
+     	  <!-- BEGIN HOLIDAY SHIPPING NOTICE -->
+		  <div style="display: none;" id="lbox_on" class="lb_noalpha">&nbsp;</div>
+<div style="display: none;" id="lbox" class="hs_content">
+<div class="close"><a href="#" onclick="document.getElementById('lbox').style.display='none';document.getElementById('lbox_on').style.display='none'; return false;" alt="clicking this will close the holiday shipping information box">X</a>
+</div>
+<h1>Holiday Shipping</h1>
+<p>We will make every effort to deliver in stock items by <b>Dec. 25</b> for<br> 
+ <span class="emph">Regular ship</span> orders received prior to <b>midnight Sat., Dec 19</b>,<br><span class="emph">Express ship</span> orders received prior to <b>midnight Mon., Dec. 21 </b>.<br>
+Orders shipping to <span class="emph">APO/FPO addresses</span> must be received before <br><b>midnight Wed., Dec. 9.</b></p></div>
+<!--END HOLIDAY SHIPPING DISPLAY -->
+<div id="holiday"><a href="/html/holiday_ship.html" onclick="document.getElementById('lbox').style.display='block';document.getElementById('lbox_on').style.display='block'; return false;">Holiday Shipping Information<img src="/images/flake.gif" border="0"></a></div>
+</div>
+ </div>
     </div>
 	<div id="sitenav">
 
@@ -117,7 +123,7 @@
 
 
 
-</div>
+
 
 
 
@@ -145,9 +151,6 @@
 <h3><a href="#LimitationofLiability">Limitation of Liability</a></h3>
 <h3><a href="#Security">Security</a></h3><br><br>
 <p></p>
-
- 
-
    
 <h3><a name="LegalNotices"></a>Legal Notices - Terms of Use</h3>
 <div align="RIGHT">
@@ -213,27 +216,43 @@
         here</a>. </p>   
       <p><br>
 
-</p><h3><a name="ShippingPolicy"></a>Shipping  Policy</h3>
+
+</p><div id="tm_lbox_on" class="lb_alpha">&nbsp;</div>
+
+<div id="tm_lbox" class="tm_content">
+	<div class="lb_close">
+		<a href="transit_map.html" onclick="document.getElementById('tm_lbox').style.display='none';document.getElementById('tm_lbox_on').style.display='none'; return false;">Close[x]</a>
+	</div>
+	<img src="/images/fedex_ground_service_map_no_hiorak.png">
+</div>		
+  
+
+<h3><a name="ShippingPolicy"></a>Shipping  Policy</h3>
 <div align="right">
 <a href="#top">Back to Top</a>
 </div> 
       <p>
-      Items ordered through Dillards.com are shipped UPS, Fed 
-      Ex, or USPS. A street address is required for delivery. Merchandise will be delivered 
-      standard ground transportation, which takes 7-10 business days. You may 
-      request express delivery, which takes 2-3 business days, for an additional 
-      charge. Processing time for in stock items is approximately 2 business days. 
-      Business days are Monday through Friday, excluding holidays. 
-      <em style="font-weight:bold">Delivery times do not include processing time.</em>
-      </p>
-
+	  Orders requesting regular shipping are shipped within 2 business days. 
+	  Our <a href="/html/transit_map.html" onclick="document.getElementById('tm_lbox').style.display='block';document.getElementById('tm_lbox_on').style.display='block'; return false;">transit map</a> 
+	  gives the average number of business days required for delivery after shipment.
+	  Residential shipments are sent via FedEx Home Delivery. Their business days are 
+	  Tuesday thru Saturday (excluding holidays). Commercial shipments are sent via
+	  FedEx Ground. Their business days are Monday thru Friday.	  
+	  </p>	  
+	  <p>
+	  Orders requesting express shipping are shipped the following business day. You can expect 
+	  delivery in 2 business days after shipping. Express shipments are sent via FedEx Express. Their business 
+	  days are Monday thru Friday. 
+	  </p>	  
       <p> At this time Dillard's only ships merchandise to the U.S.. 
       Additional charges will be applied to merchandise shipped to Alaska and 
       Hawaii. 
       </p>
       <p> Express shipping is not available for P.O. Box and APO/FPO addresses.
       </p>
-      <p> The following charges apply to your order: 
+      <p> Shipping charges are calculated for each address and are based on the order amount being shipped to that address. 
+      </p>
+      <p> The following charges will apply to your order:
       </p>
       <table width="500" border="0" cellspacing="0" cellpadding="0">
       <colgroup><col align="left">
@@ -243,7 +262,7 @@
       <td align="center"><b>ORDER AMOUNT</b></td>
       <td align="center" width="5">&nbsp;</td>
       <td align="center"><b>REGULAR<br>
-      7 - 10 business days</b></td>
+      4 - 7 business days</b></td>
       <td align="center"><b>EXPRESS<br>
       2 - 3 business days</b></td>
       </tr>
@@ -376,9 +395,6 @@ This Internet Privacy Policy will address the following major topics:
 <h3><a href="#MiscInfo">6. Miscellaneous Information (such as changes to this policy, 
 data security, children’s privacy).</a></h3>
 <p></p><br><br>
-
- 
-
    
 <h3><a name="WhatPersonal"></a>1. What Personal Information We Obtain.</h3>
 <div align="RIGHT">
@@ -753,11 +769,11 @@ var s_code=s.t();if(s_code)document.write(s_code)
 
 			<li><a href="/info/sitemap.jsp">Site Map</a></li>
 
-			<li><a href="/info/notices.jsp#ShippingPolicy">Shipping Policy</a>
+			<li><a href="/info/notices.jsp#ShippingPolicy" class="last">Shipping Policy</a>
 
-			</li><li><a href="/info/rfidInfo.jsp" class="last">RFID</a></li>
+			<!--<li><a href="/info/rfidInfo.jsp" class="last">RFID</a></li>-->
 
-		</ul>
+		</li></ul>
 
 	</div>
 
@@ -768,7 +784,6 @@ var s_code=s.t();if(s_code)document.write(s_code)
 </span>
 
 </div>
-
 
 
 
