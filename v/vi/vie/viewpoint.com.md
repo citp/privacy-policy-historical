@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewpoint.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628153154id_/http%3A//www.viewpoint.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219041509id_/http%3A//www.viewpoint.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Viewpoint - Privacy Policy
 
