@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sae.edu privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615114203id_/http%3A//www.sae.edu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.edu privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032735id_/http%3A//www.sae.edu/en-gb/content/47/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Statement - SAE Institute
+# Privacy Policy - SAE Institute
+
+### PRIVACY STATEMENT
 
 In this privacy policy, the terms 'we', 'us' and 'our' are a reference to SAE B.V trading as SAE Institute (SAE), the owner and operator of this web site (Site). We maintain a high standard of on-line conduct and operate the following privacy policies in respect of our users.
 
