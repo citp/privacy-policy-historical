@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211928id_/http%3A//lloydspharmacy.com/wps/portal/%21ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3jPgCBvSydDRwN3U08XAyNjZ28Lf1dHIwMDA_2CbEdFAD-zWck%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219141821id_/http%3A//www.lloydspharmacy.com/wps/portal/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Home - Lloyds Pharmacy - Online Chemist
+# Privacy Policy - Information and Services - Lloyds Pharmacy - Online Chemist
 
 **ABOUT US**
 
