@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618052123id_/http%3A//www.colostate.edu/info-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219150941id_/http%3A//www.colostate.edu/info-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Colorado State University - Fort Collins
 
