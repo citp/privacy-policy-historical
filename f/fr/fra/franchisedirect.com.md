@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisedirect.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174208id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisedirect.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130052id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.*
 
 # Franchise Direct > Privacy Policy
 
@@ -51,7 +51,6 @@ If you have questions or concerns regarding this statement, you should first con
 Franchise Direct reserves the right to make material changes to it’s Privacy Statement These changes will be posted prominently to our privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 Franchise Direct  
-McGarry Internet  
 Units 105-106  
 The Capel Building  
 Capel Street  
