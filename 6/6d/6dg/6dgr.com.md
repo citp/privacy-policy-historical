@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6dgr.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6dgr.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # 6dgr
 
@@ -19,7 +19,7 @@ This Privacy Policy describes the information we collect and how we use that inf
 
 This site may contain links to other websites. Please be aware that WE are not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-By accepting the Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/index.php?mode=terms) in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the 6dgr [Terms and Conditions.](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/index.php?mode=terms)
+By accepting the Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/index.php?mode=terms) in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the 6dgr [Terms and Conditions.](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/index.php?mode=terms)
 
 Your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country, but WE will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not register for the 6dgr service.
 
@@ -104,7 +104,7 @@ If you are buying goods or services and paying through 6dgr, the seller of the g
 
 We disclose the information we collect, as described in Section B above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. These companies may be subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified 6dgr-related products or services, unless you have affirmatively agreed or given your prior permission for other uses.
 
-We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our [Terms and Conditions.](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/index.php?mode=terms) Specifically, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity's contact information (but not bank account or credit card information) to victims who request it.   
+We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our [Terms and Conditions.](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/index.php?mode=terms) Specifically, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity's contact information (but not bank account or credit card information) to victims who request it.   
 We disclose information in response to State and federal court orders. 
 
 If a user signs up for a co-branded version of a 6dgrthrough links on our co-branded partner's website, 6dgr will share with the co-branded partner that user's name, e-mail address and physical address in order to provide enhanced integration between 6dgr's Services and the services of our co-branded partner. If a user does not want his or her information shared with 6dgr's co-branded partner, he or she should not use this aspect of the site. 
@@ -137,7 +137,7 @@ We use IP addresses, browser types and access times to analyze trends, administe
 
 In order to facilitate the transactions between **6dgr** members and the 6dgr financial partner network, our Service allows the financial partner's limited access to your contact information. 
 
-By entering into our [Terms and Conditions,](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/index.php?mode=terms) you agree that, with respect to other users' personally identifiable information that you obtain through the site or through an 6dgr related communication or 6dgr facilitated transaction, you will only use this information for: (a) 6dgr related communications that are not unsolicited commercial messages  
+By entering into our [Terms and Conditions,](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/index.php?mode=terms) you agree that, with respect to other users' personally identifiable information that you obtain through the site or through an 6dgr related communication or 6dgr facilitated transaction, you will only use this information for: (a) 6dgr related communications that are not unsolicited commercial messages  
 (b) using Services offered through 6dgr.  
 (c) any other purpose that such user expressly agrees to after adequate disclosure of the purpose(s).
 
@@ -161,7 +161,7 @@ You can review the personal information you provided us and make any desired cha
 
 If you have any questions about this privacy statement please review our 
 
-[FAQ ](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/index.php?mode=help) page or Contact Us directly.   
-                                                                                     [ ](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/privacy.pdf)
+[FAQ ](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/index.php?mode=help) page or Contact Us directly.   
+                                                                                     [ ](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/privacy.pdf)
 
-[ ](https://web.archive.org/web/20090617193746id_/http%3A//www.6dgr.com/privacy.pdf)
+[ ](https://web.archive.org/web/20091219084457id_/http%3A//www.6dgr.com/privacy.pdf)
