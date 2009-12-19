@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616120928id_/http%3A//talgov.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219015347id_/http%3A//talgov.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Talgov.com
 
@@ -38,6 +38,9 @@ Cookies are small files attached to some sites that track visitors and are acces
 **Online Payments**  
 The use of third-party payment services, such as Western Union, Inc. or Active.com, may require you to enter your credit card information in a secure form. By using these sites, you are authorizing them to collect your account information to process your payment. Each site is secure and protects information you transmit to them using industry-standard encryption. These sites are only affiliated with the City of Tallahassee through payment handling, and this privacy policy does not necessarily apply to them.
 
+**Refunds**  
+Refunds are issued at the discretion of the City manager or the manager's designee, unless proscribed by specific language governed by the City's Code of Ordinances. Generally, refund requests should be made to the City department from which the service was provided. In your request, please include an explanation of your reasons for requesting a refund. Before enrolling for any services, please, make sure you have carefully read and understood the requirements. If you are not sure about a City-offered service, costs associated with the service, or have questions about activities or how the process in managed, please contact the City's Customer Service Center at (850) 891-0000 and you will be directed to the appropriate person.
+
 **Florida Sunshine Law**  
 As a general rule, Talgov.com does not disclose any personally identifiable information collected online except where you have given us permission, or where the information is requested to be disclosed and is public information under the State of Florida statutes or other applicable laws. Visitors to the site should be aware that Florida Statute 119 declares that it is the policy of this state that all state, county, and municipal records shall be open for personal inspection by any person, and thus information collected by Talgov.com may be subject to examination and inspection upon request, if such information is a public record and not otherwise protected from disclosure by statute.
 
@@ -45,7 +48,7 @@ As a general rule, Talgov.com does not disclose any personally identifiable info
 Talgov.com contains links to other sites. These sites follow their own privacy policy, and are not bound by this document. Any site outside of the Talgov.com domain is subject to its own guidelines, and should not be viewed as a part of the City's site.
 
 **How to contact us**  
-If you have questions regarding this privacy policy, [feel free to contact us](https://web.archive.org/web/20090616120928id_/http%3A//talgov.com/email.cfm?id=webmaster).
+If you have questions regarding this privacy policy, [feel free to contact us](https://web.archive.org/web/20091219015347id_/http%3A//talgov.com/email.cfm?id=webmaster).
 
   
  
