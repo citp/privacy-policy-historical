@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618213738id_/http%3A//www.pep.ph/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219015021id_/http%3A//www.pep.ph/static/privacy) for the most accurate reproduction.*
 
 # PEP.ph: The Number One Site for Philippine Showbiz | Privacy
 
@@ -6,7 +6,7 @@
 
 We frequently provide information and links to third-party advertisers or partners. Information on how to access the privacy practices of these third parties is included below as well. 
 
-We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which PEP gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your personally identifiable information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to PEP opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, PEP reserves the right to make non-significant changes to our Privacy Policy that will not affect PEP's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on PEP. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into PEP's [Terms of Service](https://web.archive.org/web/20090618213738id_/http://www.pep.ph/static/tos/).
+We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which PEP gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your personally identifiable information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to PEP opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, PEP reserves the right to make non-significant changes to our Privacy Policy that will not affect PEP's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on PEP. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into PEP's [Terms of Service](https://web.archive.org/web/20091219015021id_/http://www.pep.ph/static/tos/).
 
 **Information that PEP collects**
 
@@ -137,3 +137,11 @@ PEP uses industry-standard tools, such as firewalls, to ensure that your informa
 **Guidelines regarding children**
 
 Personal information about children is a concern for all of us. At PEP, we take the protection of children's privacy very seriously. PEP does not encourage participation or visitation by children. Visitors who are known to be under the age of 13 are prohibited from becoming a member. Anyone under the age of eighteen is discouraged from participating in any sex related chats or message boards and we ask that no one less than eighteen years of age become a community volunteer. 
+
+**Third-Party Advertising Companies**
+
+"We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>" 
+
+To learn specifically about Google's policy, click here <http://www.google.com/privacy_ads.html>. 
+
+PEP and its advertisers often user cookies to monitor user behavior and allow for better-targeted ads. To disable the use of cookies, look for the "cookie settings" option on your browser under the Tools/Options/Settings or similar menu item, and choose "disable all cookies". 
