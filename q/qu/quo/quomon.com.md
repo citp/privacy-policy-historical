@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044559id_/http%3A//quomon.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quomon.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219194250id_/http%3A//www.quomon.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Quomon.com - Questions and Answers for IT & Graphic Design Professionals
 
