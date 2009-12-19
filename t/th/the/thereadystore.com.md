@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201529id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010904id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
