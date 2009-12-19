@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shredordie.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193908id_/http%3A//www.shredordie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredordie.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219011007id_/http%3A//www.shredordie.com/about/privacy) for the most accurate reproduction.*
 
 # Shred or Die Privacy Notice
 
@@ -106,6 +106,6 @@ This Privacy Notice was last modified April 11, 2007.
 **Contact Information:**  
 Please contact Shred or Die with any questions or comments about this Privacy Notice at [privacy@shredordie.com](mailto:privacy@shredordie.com).
 
-Copyright © 2009 June Shred or Die Inc. All rights reserved. 
+Copyright © 2009 December Shred or Die Inc. All rights reserved. 
 
 Skateboarding and the other activities shown on this site are dangerous. Shred or Die, Inc. does not endorse the activities shown and described on this site nor encourage users of this site to engage in the activities depicted herein. By engaging in skateboarding or any of the other activities shown on this site you are doing so at your own risk. Using this site or engaging in the activities shown and described on this site in any manner whatsoever constitutes a complete waiver and release of all liability, claims, demands, actions or causes of action against Shred or Die, Inc., its developers and its related entities. 
