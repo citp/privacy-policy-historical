@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174353id_/http%3A//www.microtelinn.com/MicrotelInn/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213152id_/http%3A//www.microtelinn.com/MicrotelInn/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Microtel Inn & Suites: Privacy policy
 
@@ -15,40 +15,38 @@
   
 
 
-### Introduction.
-
- Wyndham Hotel Group, LLC, (“WHG”),  a subsidiary of Wyndham Worldwide Corporation (“WWC”), is the parent company  of Wyndham Hotels and Resorts, LLC., Days Inns Worldwide, Inc., Howard Johnson International, Inc., Ramada Worldwide Inc., Super 8 Worldwide, Inc., Travelodge Hotels, Inc., Wingate Inns International, Inc., AmeriHost Franchise Systems, Inc., Knights Franchise Systems, Inc., Baymont Franchise Systems, Inc., Microtel Inns and Suites Franchising, Inc., and Hawthorn Suites Franchising, Inc. (collectively, the "Franchisors") which license the Wyndham®, Days Inn®, Howard Johnson®, Ramada®, Super 8®, Travelodge®, Wingate® by Wyndham, AmeriHost Inn®, Knights Inn®, Baymont Inn & Suites®, Microtel Inn & Suites®, and Hawthorn Suites® hotel systems (collectively, the "Brands") to independently owned hotels (“Franchisees”).  Travel Rewards, Inc., the sponsor of the Wyndham RewardsSM guest loyalty program, is also a wholly owned subsidiary of WHG.  Wyndham Hotels and Resorts, LLC, one of the Franchisors, is the sponsor of the Wyndham ByRequest® guest loyalty program.    Microtel Inns and Suites Franchising, Inc., one of the Franchisors, is the sponsor of the MicroPass® frequent travel program. In this Privacy Policy WHG and its affiliates, the Franchisors, the Brands, Wyndham Rewards, Wyndham ByRequest and MicroPass, may be referred to collectively, as “Wyndham”, “we”, “us” or “our.”  Wyndham Rewards, Wyndham ByRequest, MicroPass and any successor or additional guest loyalty programs may collectively be referred to as “Loyalty Programs.” 
+**Introduction.   **Wyndham Hotel Group, LLC, (“WHG”),  a subsidiary of Wyndham Worldwide Corporation (“WWC”), is the parent company  of Wyndham Hotels and Resorts, LLC., Days Inns Worldwide, Inc., Howard Johnson International, Inc., Ramada Worldwide Inc., Super 8 Worldwide, Inc., Travelodge Hotels, Inc., Wingate Inns International, Inc., AmeriHost Franchise Systems, Inc., Knights Franchise Systems, Inc., Baymont Franchise Systems, Inc., Microtel Inns and Suites Franchising, Inc., and Hawthorn Suites Franchising, Inc. (collectively, the "Franchisors") which license the Wyndham®, Days Inn®, Howard Johnson®, Ramada®, Super 8®, Travelodge®, Wingate® by Wyndham, AmeriHost Inn®, Knights Inn®, Baymont Inn & Suites®, Microtel Inn & Suites®, and Hawthorn Suites® hotel systems (collectively, the "Brands") to independently owned hotels (“Franchisees”).  Travel Rewards, Inc., the sponsor of the Wyndham RewardsSM guest loyalty program, is also a wholly owned subsidiary of WHG.  Wyndham Hotels and Resorts, LLC, one of the Franchisors, is the sponsor of the Wyndham ByRequest® guest loyalty program.    Microtel Inns and Suites Franchising, Inc., one of the Franchisors, is the sponsor of the MicroPass? frequent travel program. In this Privacy Policy WHG and its affiliates, the Franchisors, the Brands, Wyndham Rewards, Wyndham ByRequest and MicroPass, may be referred to collectively, as “Wyndham”, “we”, “us” or “our.”  Wyndham Rewards, Wyndham ByRequest, MicroPass and any successor or additional guest loyalty programs may collectively be referred to as “Loyalty Programs.” 
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues. 
 
-  * [Privacy Notice to California Customers](http://www.microtelinn.com/MicrotelInn/control/california_privacy_policy)
-  * [Canadian Privacy Policy](http://www.microtelinn.com/MicrotelInn/control/canada_privacy_policy)
-  * [Politique de confidentialité](http://www.microtelinn.com/MicrotelInn/control/canada_french_privacy_policy)
-  * [European Privacy Policy ](http://www.microtelinn.com/MicrotelInn/control/european_privacy_policy)
+  * [Privacy Notice to California Customers](http://www.microtelinn.com/MicrotelInn/control/california_privacy_policy?variant=)
+  * [Canadian Privacy Policy](http://www.microtelinn.com/MicrotelInn/control/canada_privacy_policy?variant=)
+  * [Politique de confidentialité](http://www.microtelinn.com/MicrotelInn/control/canada_french_privacy_policy?variant=)
+  * [European Privacy Policy ](http://www.microtelinn.com/MicrotelInn/control/european_privacy_policy?variant=)
 
   
 
 
-  * [Application](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Application)
-  * [Purpose](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Purpose)
-  * [Security](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Security)
-  * [The Internet](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Internet)
-  * [Cookies](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Cookies)
-  * [Information We Collect](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Information)
-  * [Feedback/Opt out](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Feedback)
-  * [Reservations](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Reservations)
-  * [e-mail](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#E-mail)
-  * [Sweepstakes/Contests](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Sweepstakes)
-  * [Direct Mail/Outbound Telemarketing](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#DirectMail)
-  * [Research/Survey](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Research)
-  * [What is Individual Specific Information?](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Individual)
-  * [What We Won't Do with Customer Information](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#dont)
-  * [What We Will Do With Customer Information](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#do)
-  * [Our Franchisees](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Franchisees)
-  * [Other Disclosures/Compliance with law](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Low)
-  * [Correction](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Correction)
-  * [Downloading](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Downloading)
-  * [Policy Changes](http://www.microtelinn.com/MicrotelInn/control/privacy_policy#Policy)
+  * [Application](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Application)
+  * [Purpose](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Purpose)
+  * [Security](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Security)
+  * [The Internet](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Internet)
+  * [Cookies](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Cookies)
+  * [Information We Collect](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Information)
+  * [Feedback/Opt out](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Feedback)
+  * [Reservations](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Reservations)
+  * [e-mail](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#E-mail)
+  * [Sweepstakes/Contests](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Sweepstakes)
+  * [Direct Mail/Outbound Telemarketing](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#DirectMail)
+  * [Research/Survey](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Research)
+  * [What is Individual Specific Information?](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Individual)
+  * [What We Won't Do with Customer Information](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#dont)
+  * [What We Will Do With Customer Information](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#do)
+  * [Our Franchisees](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Franchisees)
+  * [Other Disclosures/Compliance with law](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Low)
+  * [Correction](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Correction)
+  * [Downloading](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Downloading)
+  * [Policy Changes](http://www.microtelinn.com/MicrotelInn/control/privacy_policy?variant=#Policy)
 
 
 
@@ -70,7 +68,7 @@ We take commercially reasonable efforts to create and maintain "fire walls" and 
 
 Third party Web sites that are accessed through links, banners and other means of electronic connection on our Web sites have separate privacy and data collection practices, and security measures. We have no control over these third party Web sites and no responsibility or liability for the practices, policies and security measures implemented by third parties on their Web sites. These third party Web sites have content, advertising, banners, links, sponsors, partners and connections over which we have no control and no responsibility. We encourage you to contact these third parties to ask questions about their terms of use, privacy practices, policies and security measures before disclosing personal information on linked Web sites. We do not endorse or approve the content, terms of use, privacy policy, advertising or sponsors of any linked Web site. 
 
-Please click on this link [Feedback/Opt out](http://www.microtelinn.com/Microtelinn/control/privacy_policy_inquiry_form) to give us your feedback about this Policy or opt out of further communications from us. 
+Please click on this link [Feedback/Opt out](http://www.microtelinn.com/MicrotelInn/control/privacy_policy_inquiry_form?variant=) to give us your feedback about this Policy or opt out of further communications from us. 
 
 ### The Internet.
 
@@ -97,7 +95,7 @@ We and our third party ad server also use invisible pixels, sometimes called web
 
  We  offer Customers the opportunity to "opt-out" of communications. A customer may elect to opt out of receiving communications by following the directions posted on the e-mail communication or by visiting the Brand or the Loyalty Program Web site, by contacting the Customer Care Department of the Brand that was patronized, or by contacting the Wyndham Rewards® Member Services Department.  However, we will continue to send e-mails to confirm your reservations. Customers can elect to opt out from any of the following: (1) Mail - e-mail (excluding confirmation e-mails) and direct mail; (2) Phone -telephone and fax solicitation; or (3) Contact - all communications including e-mail, direct mail, fax and telephone.  We maintain telephone "do not call" lists as mandated by law. We incorporate into our Data Warehouse "do not call" and "do not mail" lists maintained by other organizations. We process requests to be placed on do not mail, do not phone and do not contact lists within 60 days after receipt, or such shorter time as may be required by law.  Any Customer may opt out of receiving communications by contacting us using the following methods: 
 
-By e-mail, [click here to opt out](http://www.microtelinn.com/Microtelinn/control/privacy_policy_inquiry_form). 
+By e-mail, [click here to opt out](http://www.microtelinn.com/MicrotelInn/control/privacy_policy_inquiry_form?variant=). 
 
 By phone - 888-564-4487 for AmeriHost Inn; 877-212-2733 for Days Inn; 877-222-3297 for Howard Johnson; 877-225-5637 for Knights Inn; 877-227-3557 for Ramada ; 877-244-7633 for Super 8; 877-321-7653 for Travelodge; 877-333-6683 for Wingate by Wyndham; 800-870-3936 for Baymont Inn; 866-850-3070 for Wyndham Hotels and Resorts; 888-877-0675 for Microtel Inn & Suites; 888-297-2778 for Hawthorn Suites; and 866-996-7937 for Wyndham Rewards or Wyndham ByRequest. 
 
