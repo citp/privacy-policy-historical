@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201853id_/http%3A//www.kftv.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219162714id_/http%3A//www.kftv.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -31,5 +31,5 @@ Please refer to <http://www.adtech.info/privacy_en.php>.
 Changes to this policy will be posted here.
 
 **Your comments**  
-Please send any comments about this website or privacy policy to: [jnice@reedinfo.co.uk](mailto:jnice@reedinfo.co.uk).  
+Please send any comments about this website or privacy policy to: [kemps@rbi.co.uk](mailto:kemps@rbi.co.uk).  
 
