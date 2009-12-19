@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nubella.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071117id_/http%3A//www.nubella.com/content/view/1786/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubella.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219195709id_/http%3A//www.nubella.com/content/view/1786/79) for the most accurate reproduction.*
 
-# Nubella
+# Nubella - Privacy Statement
 
 We’re very aware of the need to respect, and protect the privacy of all our readers. We’ve built a site that gives you the power to control how much information you give to us, and how that information is used.
 
