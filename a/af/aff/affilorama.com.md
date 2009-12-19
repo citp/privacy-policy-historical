@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affilorama.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429031042id_/http%3A//www.affilorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affilorama.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219121444id_/http%3A//www.affilorama.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Affilorama
 
-_Last updated: October 11, 2008_
+_Last updated: October 11, 2009_
 
   1. **Introduction** : affilorama.com (" **this website** ") is owned and operated by Affilorama Group Limited (" **we** ", " **us** ", " **our** "). We respect the privacy of our website users (" **you** ", " **your** "). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.
   2. **Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/terms). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/terms).
