@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the protectamerica.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619033704id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the protectamerica.com privacy policy that was archived on 2009-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219032857id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 
-	<title>Protect America - Protect America Home Security - Privacy Policy</title>
+	<title>Protect America | Protect America Home Security | Privacy Policy</title>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Protect America offers the latest home security technology with the GE wireless security alarm system. Protect America offers flexible service options nationwide. Protect your family today.">
 	<meta name="keywords" content="protect america,home security,security,home security system,security system">
 	<meta name="ROBOTS" content="INDEX,FOLLOW">
 	<meta name="rating" content="general">
-	<meta name="copyright" content="Copyright (c) 2009 Protect America, Inc., all rights reserved">
+	<meta name="copyright" content="Copyright © 2009 Protect America, Inc., all rights reserved">
 	<meta name="author" content="Protect America">
 	<meta name="contact_addr" content="webmaster@protectamerica.com">
 	<meta name="distribution" content="global">
@@ -19,7 +19,7 @@
 	<meta name="MSSmartTagsPreventParsing" content="true">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="http://www.protectamerica.com/css/style.css">
-		<link rel="stylesheet" type="text/css" media="print" href="http://www.protectamerica.com/css/oa_print.css">
+	    	<link rel="stylesheet" type="text/css" media="print" href="http://www.protectamerica.com/css/oa_print.css">
 	<!--[if lte ie 6]>
 		<style type="text/css" media="screen">
 			.uniForm, .uniForm fieldset,
@@ -42,165 +42,20 @@
 	<script src="http://www.protectamerica.com/js/global.js" type="text/javascript"></script>
 	<script src="http://www.protectamerica.com/js/pa.js" type="text/javascript"></script>
 	<script src="http://www.protectamerica.com/js/thickbox.js" type="text/javascript"></script>
+	<script src="http://www.protectamerica.com/js/cycle.js" type="text/javascript"></script>
 	<style type="text/css">
     		div.domtab div.tab_cnt {
     			display:none;
     		}
 	</style>
 
-
 	<link rel="icon" href="http://www.protectamerica.com/favicon.ico">
 	<link rel="shortcut icon" href="http://www.protectamerica.com/favicon.ico">
-    <script type="text/javascript">
-        
-
-
-        // Offer Box Javascript Code
-        function setCookie(c_name,value,expiredays) {
-            var exdate=new Date();
-            exdate.setDate(exdate.getDate()+expiredays);
-            document.cookie=c_name+ "=" + escape(value) + ((expiredays==null) ? "" : ";expires="+exdate.toGMTString()) + ";path=/";
-        }
-        
-        function getCookie(c_name) {
-            if (document.cookie.length>0) {
-                c_start=document.cookie.indexOf(c_name + "=");
-                if (c_start!=-1) {
-                    c_start=c_start + c_name.length+1;
-                    c_end=document.cookie.indexOf(";",c_start);
-                    if (c_end==-1) c_end=document.cookie.length;
-                    return unescape(document.cookie.substring(c_start,c_end));
-                }
-            }
-            return "";
-        }
-                
-        var _HOVER_INTERVAL = null;
-        var _COUNTDOWN;
-        
-        function loadBox(caption, url) {
-        
-                                
-            var cookie = getCookie('offerBox');
-            if(cookie == '') {
-                $(document).ready(function () {
-                    var interval = 1; //sec
-                    var max_time = 120;
-                    _COUNTDOWN = max_time;
-                    $('div.timer').html('02:00 left');
-                    var _interval = setInterval(function () {
-                        var t = _COUNTDOWN -  interval;
-                        if(t > 0) {
-                            var minutes = Math.floor(t / 60);
-                            var seconds = t - (minutes * 60);
-                            $('div.timer').html('0'+minutes+':'+(seconds>9?'':'0')+seconds + ' left');
-                            _COUNTDOWN = t;
-                        } else {
-                            clearInterval(_interval);
-                            TB_remove();
-                        }
-                    }
-                    , interval * 1000);
-                }
-                );
-
-                TB_show(caption, url);
-                _HOVER_INTERVAL = setInterval(buttonHover, 100);
-                setCookie('offerBox', 'true', 999)
-            }
-        }
-        
-        function buttonHover() {
-            if(document.getElementById('TB_window')) {
-                $("#TB_window button#offerSubmit").hover(
-                    function() {
-                        $(this).children("img").attr("src","/images/offer_submit_hover.png");
-                    },
-                    function() {
-                        $(this).children("img").attr("src","/images/offer_submit.png");
-                });
-                clearInterval(_HOVER_INTERVAL);
-            }
-        }
-        
-        function submitObForm() {
-            var name = $('#TB_window #ob_name');
-            var phone = $('#TB_window #ob_phone');
-            var email = $('#TB_window #ob_email');
-            var errorMessage = "";
-            if(name.attr('value') == "" || name.attr('value') == undefined) {
-                errorMessage += "Name Cannot Be Blank \n";
-            }
-            if(phone.attr('value') == "" || phone.attr('value') == undefined) {
-                errorMessage += "Phone Cannot Be Blank \n";
-            }
-            if(email.attr('value') == "" || email.attr('value') == undefined) {
-                errorMessage += "Email Cannot Be Blank \n";
-            }
-            
-            if(errorMessage == "") {
-                $.post('/scripts/post_lead.php?rand='+Math.random().toString(), {
-                    l_fname: name.attr('value'),
-                    email_addr: email.attr('value'),
-                    l_phone1: phone.attr('value'),
-                    key3: 'offerBox',
-                    auto: '1'
-                }, function (oJson) {
-                    if(oJson.success == undefined) {
-                        if(oJson.errors.length > 0){
-                            alert(oJson.errors);
-                        }
-                    } else {
-                        if(oJson.success == true) {
-                            window.location = "http://www.protectamerica.com/pa/home/thank_you_lsub";
-                        }
-                    }
-                }, 'json');
-            } else {
-                alert(errorMessage);
-            }
-        }     
-        
-        $(document).ready(function() {
-            $("html").mousemove(function(e) {
-                if(e.clientY < 4) {
-                    loadBox('Internet Special', '#TB_inline?height=470&width=610&inlineId=popUp');
-                }
-            })
-        });
-        
-        setTimeout("loadBox('Internet Special', '#TB_inline?height=470&width=610&inlineId=popUp');", 45000);
-        // End Javascript Offer Box
-    </script>
+    <script type="text/javascript" src="http://www.protectamerica.com/js/offer_box.js"></script>
 </head>
 
 <body id="hdhome" onload="onLoads();">
-<div style="display: none;" id="popUp">
-    <!-- Start Offer Box Container -->
-	<div id="offerContainer">
 
-        <div class="offerBox">
-            <div class="offerFrame">
-                <div class="offer">
-                	<img src="/images/solar_light_offer.jpg">
-                </div>
-                <div class="learnMore" style="display: none;">
-                	<a href="/pa/offers">Learn More</a>
-                </div>
-            	<div class="disclaimer">
-            		<a href="/pa/advantage/adt-security">* Click here for price comparison details</a>
-            	</div>
-            </div>
-        </div>
-
-        <div class="formBox">
-            <div class="timer"></div>
-            <div class="phoneOffer">1-888-951-5141 </div>
-        </div>
-    </div>
-    <!-- End Offer Box Container -->
-
-</div>
 <script src="http://www.protectamerica.com/js/hbx.js" type="text/javascript"></script>
 
 <!-- Page Wrapper -->
@@ -208,7 +63,7 @@
 <!-- Shadowwrapper for Left and Right  -->
 		<div id="shadowwrap"><div id="shadowwrapr">
 <!-- PA Content Wrapper -->
-			<span style="float:left;margin-top:10px;margin-left:20px;"><strong><em>America's Home Security Experts</em></strong></span>
+			<span style="float:left;margin-left:20px;"><strong><em>America's Home Security Experts</em></strong></span>
 			<ul id="qnav">
 				<li><a href="http://www.protectamerica.com/" title="Return Home" class="home">Home</a></li>
 
@@ -216,20 +71,19 @@
 				<li><a href="https://server.iad.liveperson.net/hc/34774121/?cmd=file&amp;file=visitorWantsToChat&amp;site=34774121&amp;byhref=1&amp;SESSIONVAR!skill=Customer%20Service&amp;imageUrl=https://www.protectamerica.com/images/liveperson" target="chat34774121" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/34774121/?cmd=file&amp;file=visitorWantsToChat&amp;site=34774121&amp;SESSIONVAR!skill=Customer%20Service&amp;imageUrl=https://www.protectamerica.com/images/liveperson&amp;referrer='+escape(document.location),'chat34774121','width=472,height=320');return false;" class="chat">Live Chat</a></li>				<li><a href="http://www.protectamerica.com/includes/form_email_signup.php?TB_iframe=true&amp;width=450&amp;height=260&amp;modal=true" title="Promotional Emails" class="thickbox mailto">E-Mail Sign Up</a></li>
 				<li><a href="http://www.protectamerica.com/agreement/help.php" title="Frequently Asked Questions" class="help">FAQs</a></li>
 				<li><a href="/agreement" title="Enter the Online Agreement" class="doc">Agreement</a></li>
-				<li><a href="http://www.protectamerica.com/pa/site_map" title="Detailed list of the Protect America homesite site map architecture." class="dir">Site Map</a></li>
+				<li><a href="http://www.protectamerica.com/pa/site_map" title="Protect America Site Overview" class="dir">Site Map</a></li>
 			</ul>
 			
 
 			
 			<h1 id="header"><a href="/" title="Protect America - Largest Authorized Installer of GE Home Security">Protect America</a></h1>
 			
-
 			
 			<ul id="nav">
 				<li id="nvhome"><a href="http://www.protectamerica.com/" title="Return to the Protect America home security system home page.">Home</a></li>
-				<li id="nvproducts"><a href="http://www.protectamerica.com/pa/copper" title="View Copper Package details and compare to our other home security systems packages.">Copper Package</a></li>
-				<li id="nvabout"><a href="http://www.protectamerica.com/pa/about" title="See what makes Protect America different from other home security companies.">About Us</a></li>
-				<li id="nvsupport"><a href="http://www.protectamerica.com/pa/support" title="Home security alarm system customer service and support for our valued customers.">Support</a></li>
+				<li id="nvproducts"><a href="http://www.protectamerica.com/pa/copper" title="View Copper Package details. Compare to our other home security systems packages.">Copper Package</a></li>
+				<li id="nvabout"><a href="http://www.protectamerica.com/pa/about" title="See why Protect America is different from other home security companies.">About Us</a></li>
+				<li id="nvsupport"><a href="http://www.protectamerica.com/pa/support" title="Home security customer service and support.">Support</a></li>
 				<li id="nvcontact"><a href="http://www.protectamerica.com/pa/contact" title="Contact Protect America about our GE home security systems.">Contact Us</a></li>
 				<li id="nav_bg_shadow"></li>
 				<li id="search">
@@ -386,7 +240,7 @@ and/or email.</p>
 
     <div id="lead_privacy" style="margin-bottom:10px;">
         Fill out this form for a no-obligation security analysis.
-        <a href="http://www.protectamerica.com/pa/priv_p" title="Protect America Privacy Policy">We never share your information with anyone.</a>    </div>
+        <a href="http://www.protectamerica.com/pa/priv_p" title="Privacy Policy">We never share your information with anyone.</a>    </div>
 
 </center>
 		</div>
@@ -429,7 +283,7 @@ and/or email.</p>
 <div id="pg_footer">
 	<div class="credentials noprint">
 <!-- START TRUSTe CODE -->
-		<a href="http://www.protectamerica.com/pa/priv_p" title="Protect America Privacy Policy"><img src="http://www.protectamerica.com/images/truste_seal_web.gif" alt="Protect America Home Security is a TRUSTe Reviewed Site" width="171" height="47"></a><!-- END TRUSTe CODE -->	
+		<a href="http://www.protectamerica.com/pa/priv_p" title="Privacy Policy"><img src="http://www.protectamerica.com/images/truste_seal_web.gif" alt="Protect America Home Security is a TRUSTe Reviewed Site" width="171" height="47"></a><!-- END TRUSTe CODE -->	
 <!-- START SCANALERT CODE -->
 		<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.protectamerica.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.protectamerica.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." class="external"></a>
 <!-- END SCANALERT CODE -->		
@@ -451,16 +305,16 @@ and/or email.</p>
 <div id="footer">
 	<ul id="qnav2">
 		<li><a href="http://www.protectamerica.com/" title="Return to the Protect America home security system home page.">Home |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/products" title="View our GE home security products and services.">Products |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/about" title="See what makes Protect America different from other home security companies.">About Us |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/support" title="Home security alarm system customer service and support for our valued customers.">Support |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/products" title="View our GE home security equipment and services.">Products |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/about" title="See why Protect America is different from other home security companies.">About Us |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/support" title="">Protect America customer service</a></li>
 		<li><a href="http://www.protectamerica.com/pa/contact" title="Contact Protect America about our GE home security systems.">Contact Us |</a></li>
 		<li><a href="http://www.protectamerica.com/pa/do-not-call" title="default">Do Not Call |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/careers" title="Learn about our home security jobs and join our growing team!">Careers |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/affiliates" title="Learn about our wireless alarm affiliate program and partner with us today.">Affiliate Program</a></li> 		<li><a href="http://www.protectamerica.com/pa/license" title="View the list of Protect America licenses.">State Licenses |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/priv_p" title="Protect America Privacy Policy">Privacy Policy |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/return-policy" title="Protect America Return Policy">Return Policy |</a></li>
-		<li><a href="http://www.protectamerica.com/pa/site_map" title="Detailed list of the Protect America homesite site map architecture.">Site Map</a></li>
+		<li><a href="http://www.protectamerica.com/pa/careers" title="Learn about careers and join our home security team!">Careers |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/affiliates" title="Learn about our GE Home Security affiliate program and partner with us today.">Affiliate Program</a></li> 		<li><a href="http://www.protectamerica.com/pa/license" title="View our home security business licenses.">State Licenses |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/priv_p" title="Privacy Policy">Privacy Policy |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/return-policy" title="Security System Return Policy">Return Policy |</a></li>
+		<li><a href="http://www.protectamerica.com/pa/site_map" title="Protect America Site Overview">Site Map</a></li>
 	</ul>
 
 	<div id="copyright">
@@ -479,15 +333,43 @@ and/or email.</p>
 		
 <div id="disclaimer">
 	<a href="http://www.alarm.org" class="external fl-left"><img src="https://www.protectamerica.com/images/nbfaa_logo.gif" width="75" height="25" border="0" alt="National Burglar &amp; Fire Alarm Association"></a>
-	<sup>*</sup> <a href="http://www.protectamerica.com/agreement/includes/mon_agreement.php?homesite=true&amp;TB_iframe=true&amp;width=780&amp;height=550" title="Standard Monitoring Agreement" class="thickbox">Standard monitoring agreement</a> required with approved credit.<br>
+	<sup>*</sup> <a href="http://www.protectamerica.com/agreement/includes/mon_agreement.php?homesite=true&amp;TB_iframe=true&amp;width=780&amp;height=550" title="Standard Monitoring Agreement" class="thickbox">
+        Standard home security alarm monitoring agreement
+    </a> required with approved credit.<br>
 	Offer subject to change.  Void where prohibited.
             <br>
-        Hours of Operation: M-F: 8am-11pm CST, Sat: 8am-9pm CST, Sun: 12pm-5pm CST.
+        Hours of Operation: M-F: 8am-11pm CST, Sat: 8am-9pm CST, Sun: 10am-6pm CST.
     </div>
 
 
-</div><!-- WRAPPER -->
 
+</div><!-- WRAPPER -->
+<div style="display: none;" id="popUp">
+    <!-- Start Offer Box Container -->
+	<div id="offerContainer">
+
+        <div class="offerBox">
+            <div class="offerFrame">
+                <div class="offer">
+                	<img src="/images/solar_light_offer.jpg">
+                </div>
+                <div class="learnMore" style="display: none;">
+                	<a href="/pa/offers">Learn More</a>
+                </div>
+            	<div class="disclaimer">
+            		<a href="/pa/advantage/adt-security">* Click here for price comparison details</a>
+            	</div>
+            </div>
+        </div>
+
+        <div class="formBox">
+            <div class="timer"></div>
+            <div class="phoneOffer">1-888-951-5141 </div>
+        </div>
+    </div>
+    <!-- End Offer Box Container -->
+
+</div>
 
 <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 <script type="text/javascript" src="https://server.iad.liveperson.net/hc/34774121/x.js?cmd=file&amp;file=chatScript3&amp;site=34774121&amp;&amp;imageUrl=https://www.protectamerica.com/images/liveperson"> </script>
