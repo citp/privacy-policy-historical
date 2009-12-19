@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506140229id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219071746id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -62,16 +62,20 @@ For information on GE Money Bank's key credit terms of the Dillard's Personal Cr
 
 ### Shipping Policy
 
-Items ordered through Dillards.com are shipped UPS, Fed Ex, or USPS. A street address is required for delivery. Merchandise will be delivered standard ground transportation, which takes 7-10 business days. You may request express delivery, which takes 2-3 business days, for an additional charge. Processing time for in stock items is approximately 2 business days. Business days are Monday through Friday, excluding holidays. _Delivery times do not include processing time._
+Orders requesting regular shipping are shipped within 2 business days. Our [transit map](https://web.archive.org/html/transit_map.html) gives the average number of business days required for delivery after shipment. Residential shipments are sent via FedEx Home Delivery. Their business days are Tuesday thru Saturday (excluding holidays). Commercial shipments are sent via FedEx Ground. Their business days are Monday thru Friday. 
+
+Orders requesting express shipping are shipped the following business day. You can expect delivery in 2 business days after shipping. Express shipments are sent via FedEx Express. Their business days are Monday thru Friday. 
 
 At this time Dillard's only ships merchandise to the U.S.. Additional charges will be applied to merchandise shipped to Alaska and Hawaii. 
 
 Express shipping is not available for P.O. Box and APO/FPO addresses. 
 
-The following charges apply to your order: 
+Shipping charges are calculated for each address and are based on the order amount being shipped to that address. 
+
+The following charges will apply to your order: 
 
 **ORDER AMOUNT** |   | **REGULAR  
-7 - 10 business days** | **EXPRESS  
+4 - 7 business days** | **EXPRESS  
 2 - 3 business days**  
 ---|---|---|---  
 Up to $24.99  |   |  $5.95  | $17.95  
