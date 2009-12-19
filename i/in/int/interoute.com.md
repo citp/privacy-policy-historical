@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interoute.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604145247id_/http%3A//www.interoute.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interoute.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219025906id_/http%3A//www.interoute.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Interoute
 
