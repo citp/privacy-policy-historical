@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185351id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010346id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ferret - Australia's Manufacturing and Industrial Directory
 
 Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)
 
