@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quotemedia.com privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620233853id_/http%3A//www.quotemedia.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quotemedia.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220041036id_/http%3A//www.quotemedia.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,14 +7,39 @@
 	<meta http-equiv="Keywords" content="quote, chart, stock market, market depth, level II, sec filings, market data, data feeds, xml, quotestream, quote module, quote tool, ticker, forex, currency">
 	<meta http-equiv="Description" content="QuoteMedia is strongly committed to protecting the privacy of users of it's interactive products and services">
 	<title>QuoteMedia - Privacy Policy</title>
-	<link rel="stylesheet" href="/css/base.css?53013" type="text/css" media="screen" title="Base Styling" charset="utf-8">
+	<link rel="stylesheet" href="/css/base.css?783609" type="text/css" media="screen" title="Base Styling" charset="utf-8">
 	<!--[if IE]><link rel="stylesheet" href="/css/ieoverrides.css" type="text/css" media="screen" title="Internet Explorer Overrides" charset="utf-8"><![endif]-->
+	
 	<style type="text/css">
 	.quoteSearch { position:relative; }
 	.quoteSearch .searchButton { display: block; width: 16px; height: 16px; background: transparent url(images/magnify.gif) left top no-repeat; position:absolute; top: 2px; left: 2px; z-index: 5; border: 0;  text-indent: -3000em; overflow:hidden; }
 	.quoteSearch .searchInput { width: 150px; padding-left: 21px; }
 	#qmci-quoteLookup { width: 171px; height: 200px; border: 1px solid #dadada;position:absolute; z-index: 500; background: #fff;}
+	#qmci-quoteTool table { border: 0px; }
+	#qmci-quoteTool { overflow : hidden; zoom : 1; }
+	#qmci-quoteTool form { float : left; }
+	#qmci-quoteTool a, #qmci-quoteTool a:visited { float : left; margin-top : 8px; }
+	#qmci-quoteTool .qmmt_header_bar { display : none; }
+	#qmci-quoteTool .qmmt_quoteEntryBox_linksRow { display : none; }
+	#qmci-quoteTool table { background-color : transparent; }
+	#qmci-quoteTool table td, #qmci-quoteTool button { font-size : 12px; }
 	</style>
+	
+	<link rel="stylesheet" type="text/css" href="http://app.quotemedia.com/css/tools.css">
+	<link rel="stylesheet" type="text/css" href="http://app.quotemedia.com/css/symbolLookupStyle.css">
+	<script type="text/javascript" src="/js/jquery-1.3.2.min.js" language="Javascript"></script>
+	<script type="text/javascript">
+	var $QM = jQuery.noConflict(true);
+	(function ($) {
+		$(document).ready(function() {
+			//$('#qmci-quoteTool button span').text('Get Quote');
+			$('#qmci-quoteTool input').css('width','60px');
+			$('#qmci-quoteTool button').css('font-size','12px');
+			$('#qmci-quoteTool #symbolText').css({'font-size':'12px','text-transform':'uppercase'});
+			$('#qmci-quoteTool').show();
+		});
+	})($QM);
+	</script>
 			</head>
 
 <body>
@@ -28,7 +53,7 @@
 				<span class="inactiveBC"><a href="/">home</a></span> · 				<span class="activeBC"><a href="/legal/privacy.php">privacy policy</a></span>			</div>
 	
 	<!-- Quote Find -->
-	<div id="qmci-quoteTool">
+	<div id="qmci-quoteTool" style="">
 		<script language="JavaScript">
 				<!-- Begin
 				function NewWindow(mypage, myname) {
@@ -52,17 +77,20 @@
 					return correct
 				}
 				</script>
-		<form method="post" name="quote" action="http://app.quotemedia.com/quotetools/clientForward">
+		<!--form method="post" name="quote" action="http://app.quotemedia.com/quotetools/clientForward">
 			<input type="hidden" name="targetURL" value="http://www.quotemedia.com/results.php">
 			<input type="hidden" name="targetsym" value="qm_symbol">
 			<fieldset>
 				<legend>Stock Information Lookup</legend>
 				<label for="symbol">Stock Quote:</label> <input type="text" id="symbol" name="symbol" value="qmci"> 
 			 <span class="formbutton"><input type="submit" value="Get Quote"></span> 
-			 <a href="http://app.quotemedia.com/quotetools/clientForward?action=showSymbolLookup&amp;disableJQueryImport=true&amp;forwardAction=showSymbolLookup&amp;targetURL=http://www.quotemedia.com/results.php" style="text-decoration:none;">
+			 <a href="http://app.quotemedia.com/quotetools/clientForward?action=showSymbolLookup&disableJQueryImport=true&forwardAction=showSymbolLookup&targetURL=http://www.quotemedia.com/results.php" style="text-decoration:none;">
 				<img src="/images/icons/search_16x16.gif" style="vertical-align:middle;"> symbol lookup</a>  
 				</fieldset>
-		</form>
+		</form-->
+		<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/quoteEntryBox.go?webmasterId=501&amp;targetsym=qm_symbol&amp;newwindow=off&amp;toolWidth=220&amp;targetURL=http://www.quotemedia.com/results.php&amp;smartLookup=on&amp;buttonText=Get+Quote"></script>
+		<a href="http://app.quotemedia.com/quotetools/clientForward?action=showSymbolLookup&amp;disableJQueryImport=true&amp;forwardAction=showSymbolLookup&amp;targetURL=http://www.quotemedia.com/results.php" style="text-decoration:none;">
+				<img src="/images/icons/search_16x16.gif" style="vertical-align:middle;"> symbol lookup</a>  
 	</div>
 	
 	<!-- Main Navigation-->
