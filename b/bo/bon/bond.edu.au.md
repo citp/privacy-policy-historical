@@ -1,109 +1,109 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609143312id_/http%3A//www.bond.edu.au/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220043908id_/http%3A//bond.edu.au/privacy/index.htm) for the most accurate reproduction.*
 
-# Your privacy - Bond University
-
-## Bond University
+# Bond University | Privacy | Gold Coast
 
 ## General
 
-Bond University (‘BU’) is committed to protecting your personal information. 
+Bond University (‘BU’) is committed to protecting your personal information.
 
-BU is bound by the Privacy Act 1988 (Cth) (‘Privacy Act’), including the National Privacy Principles (‘NPP’s’). Although, acts done or practices engaged in by BU, which are directly related to: 
+BU is bound by the Privacy Act 1988 (Cth) (‘Privacy Act’), including the National Privacy Principles (‘NPP’s’). Although, acts done or practices engaged in by BU, which are directly related to:
 
-  * a current or former employment relationship between BU and you; and 
-  * an employee record held by BU and relating to you, 
-  * are exempt from the Privacy Act, including the NPP’s. 
+  * a current or former employment relationship between BU and you; and
+  * an employee record held by BU and relating to you,
+  * are exempt from the Privacy Act, including the NPP’s.
 
 
 
-This policy sets out how BU manages your personal information. 
+This policy sets out how BU manages your personal information.
 
-BU encourages you to check BU’s web site regularly for any updates to BU’s privacy policy. 
+BU encourages you to check BU’s web site regularly for any updates to BU’s privacy policy.
 
-## Collection 
+## Collection
 
-BU may collect and hold personal information about you, including your name, date of birth, gender, address, phone number, facsimile number, email address, next of kin details, bank account details, academic history, employment record, FEE-HELP status, nationality, visa details, passport details, travel details, preferred course of study, photograph, accommodation preferences, dietary requirements, physical attributes, medical history, health cover details, religious beliefs and/or other information relevant to providing you with the services you are, or someone else you know is, seeking. 
+BU may collect and hold personal information about you, including your name, date of birth, gender, address, phone number, facsimile number, email address, next of kin details, bank account details, academic history, employment record, FEE-HELP status, nationality, visa details, passport details, travel details, preferred course of study, photograph, accommodation preferences, dietary requirements, physical attributes, medical history, health cover details, religious beliefs and/or other information relevant to providing you with the services you are, or someone else you know is, seeking.
 
-The personal information that BU collects and holds about you, depends on your interaction with BU. Generally, BU will collect and hold your personal information for the purpose of: 
+The personal information that BU collects and holds about you, depends on your interaction with BU. Generally, BU will collect and hold your personal information for the purpose of:
 
-  * assessing your, or someone else’s, application; 
+  * assessing your, or someone else’s, application;
   * providing services to you or someone else you know;
   * providing you with information about other services that BU offers that may be of interest to you;
-  * facilitating BU’s internal business operations, including the fulfilment of any legal requirements; 
+  * facilitating BU’s internal business operations, including the fulfilment of any legal requirements;
   * analysing BU’s services and customer needs with a view to developing new and/or improved services;
-  * contacting you, in the case of an emergency involving someone else you know; 
-  * contacting you in relation to employment opportunities for BU undergraduates; 
-  * contacting you to provide a testimonial for BU; 
-  * contacting you in relation to Alumni activities; and 
-  * Personal information will generally be collected by BU directly from you through the use of any of BU’s standard forms, such as BU’s Application for Postgraduate Admission form. There may, however, be some instances where personal information about you will be collected indirectly because it is unreasonable or impractical to collect personal information directly from you. We will usually notify you about these instances in advance, or where that is not possible, as soon as reasonably practicable after the information has been collected. 
+  * contacting you, in the case of an emergency involving someone else you know;
+  * contacting you in relation to employment opportunities for BU undergraduates;
+  * contacting you to provide a testimonial for BU;
+  * contacting you in relation to Alumni activities; and
+  * Personal information will generally be collected by BU directly from you through the use of any of BU’s standard forms, such as BU’s Application for Postgraduate Admission form. There may, however, be some instances where personal information about you will be collected indirectly because it is unreasonable or impractical to collect personal information directly from you. We will usually notify you about these instances in advance, or where that is not possible, as soon as reasonably practicable after the information has been collected.
 
 
 
-If you access BU’s web site, BU may collect additional personal information about you in the form of your IP address (that is, the single numerical address for your computer on the Internet, which consists of four consecutive numbers ranging between 0 and 255) and/or domain name (that is, the textual address for your location on the Internet which corresponds to your IP address, which the Internet computers can read). BU’s website does not use cookies. 
+If you access BU’s web site, BU may collect additional personal information about you in the form of your IP address (that is, the single numerical address for your computer on the Internet, which consists of four consecutive numbers ranging between 0 and 255) and/or domain name (that is, the textual address for your location on the Internet which corresponds to your IP address, which the Internet computers can read). BU’s website does not use cookies*.
 
-In the case of Visa details, BU is required to collect this information pursuant to Australian Immigration Laws. 
+In the case of Visa details, BU is required to collect this information pursuant to Australian Immigration Laws.
 
-If the personal information you provide to BU is incomplete and/or inaccurate, BU may be unable to provide you, or someone else you know, with the services you, or they, are seeking. 
+If the personal information you provide to BU is incomplete and/or inaccurate, BU may be unable to provide you, or someone else you know, with the services you, or they, are seeking.
 
-### Use and disclosure 
+### Use and disclosure
 
-Generally, BU only uses and/or discloses personal information about you for the purposes for which it was collected (as set out above). Although, BU may disclose personal information about you to: 
+Generally, BU only uses and/or discloses personal information about you for the purposes for which it was collected (as set out above). Although, BU may disclose personal information about you to:
 
-  * service providers, who assist BU in operating its business, however, these service providers are required to comply with BU’s privacy policy in how they handle your personal information; 
-  * a purchaser of the assets and operations of BU’s business, providing those assets and operations are purchased as a going concern; 
-  * its related entities; 
-  * in the case of untrue or misleading information, the Australian Vice-Chancellors Committee (‘AVCC’) or any AVCC member institution; 
-  * in the case of an emergency involving you, your nominated next of kin; 
-  * your agent and/or your next of kin for the purpose of processing an application you may have made; and 
-  * the Commonwealth Government Department of Education, Science and Training; and 
-  * the Department of Immigration & Multicultural & Indigenous Affairs 
+  * service providers, who assist BU in operating its business, however, these service providers are required to comply with BU’s privacy policy in how they handle your personal information;
+  * a purchaser of the assets and operations of BU’s business, providing those assets and operations are purchased as a going concern;
+  * its related entities;
+  * in the case of untrue or misleading information, the Australian Vice-Chancellors Committee (‘AVCC’) or any AVCC member institution;
+  * in the case of an emergency involving you, your nominated next of kin;
+  * your agent and/or your next of kin for the purpose of processing an application you may have made; and
+  * the Commonwealth Government Department of Education, Science and Training; and
+  * the Department of Immigration & Multicultural & Indigenous Affairs
 Security 
 
 
-BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures. 
+BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures.
 
-## Access 
+## Access
 
-You may access personal information BU holds about you, upon making a written request. BU will endeavour to acknowledge your request within 14 days of its receipt and to provide you with access to the information requested within 30 days. BU may charge you a reasonable fee for processing your request. 
+You may access personal information BU holds about you, upon making a written request. BU will endeavour to acknowledge your request within 14 days of its receipt and to provide you with access to the information requested within 30 days. BU may charge you a reasonable fee for processing your request.
 
-BU may decline a request for access to personal information where, among other things: 
+BU may decline a request for access to personal information where, among other things:
 
-  * providing access would pose a serious threat to the life or health of an individual; 
+  * providing access would pose a serious threat to the life or health of an individual;
   * providing access would have an unreasonable impact upon the privacy of other individuals;
-  * the request for access is frivolous or vexatious; 
-  * the information relates to existing or anticipated legal proceedings between BU and you, and the information would not be accessible by the process of discovery in those proceedings; 
-  * providing access would reveal information about a commercially sensitive decision making process; 
-  * providing access would be unlawful; 
-  * denying access is required or authorised by or under law; 
+  * the request for access is frivolous or vexatious;
+  * the information relates to existing or anticipated legal proceedings between BU and you, and the information would not be accessible by the process of discovery in those proceedings;
+  * providing access would reveal information about a commercially sensitive decision making process;
+  * providing access would be unlawful;
+  * denying access is required or authorised by or under law;
   * providing access would be likely to prejudice an investigation of possible unlawful activity; or
-  * providing access would be likely to prejudice the activities of enforcement bodies. 
+  * providing access would be likely to prejudice the activities of enforcement bodies.
 
 
 
-If, upon receiving access to your personal information or at any other time, you believe the personal information BU holds about you is inaccurate, incomplete or out of date, please notify BU immediately. BU will take reasonable steps to correct the information so that it is accurate, complete and up to date. If BU disagrees with you about whether your personal information is inaccurate, incomplete or out of date, and you ask BU to associate with your personal information a statement claiming that your personal information is inaccurate, incomplete or out of date, BU will take reasonable steps to do so. 
+If, upon receiving access to your personal information or at any other time, you believe the personal information BU holds about you is inaccurate, incomplete or out of date, please notify BU immediately. BU will take reasonable steps to correct the information so that it is accurate, complete and up to date. If BU disagrees with you about whether your personal information is inaccurate, incomplete or out of date, and you ask BU to associate with your personal information a statement claiming that your personal information is inaccurate, incomplete or out of date, BU will take reasonable steps to do so.
 
-## Links to other web sites 
+## Links to other web sites
 
 BU’s website may contain links to other websites. BU is not responsible for the privacy practices of linked web sites and so linked web sites are not subject to BU’s privacy policies and procedures.
 
-## Updates 
+## Updates
 
-This privacy policy may be updated by BU from time to time. 
+This privacy policy may be updated by BU from time to time.
 
-## Feedback 
+## Feedback
 
-If you have any queries or concerns about BU’s privacy policy or the way in which BU handles your personal information, please contact BU’s privacy officer at: 
+If you have any queries or concerns about BU’s privacy policy or the way in which BU handles your personal information, please contact BU’s privacy officer at:
 
-Street address: University Drive , Robina, QLD, 4226
+**Street address:** University Drive , Robina, QLD, 4226
 
-Postal address: Bond University , Gold Coast, QLD, 4229 
+**Postal address:** Bond University , Gold Coast, QLD, 4229
 
-Email address: [privacy@bond.edu.au](mailto:privacy@bond.edu.au)
+**Email address:** [privacy@bond.edu.au](mailto:privacy@bond.edu.au)
 
-Telephone: 07 5595 4103 
+**Telephone:** 07 5595 4103
 
-Facsimile: 07 5595 1748
+**Facsimile:** 07 5595 1748
 
-### More information 
+### More information
 
 For more information about privacy in general, you can visit the Federal Privacy Commissioner’s web site at [www.privacy.gov.au](http://www.privacy.gov.au/)
+
+* 1 Except in the case of our introductory animation.  
