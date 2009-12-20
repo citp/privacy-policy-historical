@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619162622id_/http%3A//www.transitchicago.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitchicago.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220185332id_/http%3A//www.transitchicago.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,7 @@ If you have any questions about our privacy policy statement or our use of your 
 
 ## Special Notice
 
-Effective Date of this version of CTA's Privacy Policy: April 23, 2007.
+Effective Date of this version of CTA's Privacy Policy: April 23, 2007.  
+ 
 
 _Use of this site signifies your acceptance of Chicago Transit Authority Web Site Terms and Conditions and Privacy Policy._
