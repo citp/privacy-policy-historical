@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154429id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005345id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
 |   Popular  
   
 ---  
- [Medical Insurance](http://www.buyamericaninsurance.com/)  
+ [Medical Insurance](http://www.insubuy.com/)  
  [Directory](https://web.archive.org/directory/)  
  [Discussion Forums](https://web.archive.org/forum/)  
  [Fillable Forms](https://web.archive.org/forms/)  
  [Read Experiences](https://web.archive.org/experience/)  
  [Sample Documents](https://web.archive.org/forms/sample.html)  
+ [GC/Visa Tracker](https://web.archive.org/tracker/)  
   
   
  Visas  
@@ -59,10 +60,7 @@
 
 
 
-|  |  [Read Experiences](https://web.archive.org/experience/)   
-  
----  
-[GC/Visa Tracker](https://web.archive.org/tracker/)   
-  
+| 
+
 [ ](http://www.immihelp.com/adserver/adclick.php?n=a96e056b)   
 [ ](http://www.immihelp.com/adserver/adclick.php?n=a8a090ac)
