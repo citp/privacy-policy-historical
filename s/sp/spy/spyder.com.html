@@ -1,487 +1,541 @@
-<!--The following is the downloaded HTML source of the spyder.com privacy policy that was archived on 2008-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080509055851id_/http%3A//www.spyder.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spyder.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220065555id_/http%3A//www.spyder.com/YourPrivacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- oneneck live site --><head>
-	<meta http-equiv="content-type" content="text/html; charset=windows-1252">
-
-	<meta name="site" content="US">
-
-	<title>Spyder 2007/2008 | About Spyder | Privacy Policy</title>
-	<link rel="shortcut icon" href="favicon.ico">
-	<link type="text/css" rel="stylesheet" media="all" href="includes/styles07_global.css">
-	
-	<script language="JavaScript1.2" type="text/javascript" src="js/menu_functions.js"></script>
-	<script language="javascript1.2" type="text/javascript" src="js/emails.js.asp"></script>
-	
-	
-    	<script language="JavaScript1.2" type="text/javascript" src="js/menu_links.js"></script>
-    
-        
-    <script language="javascript1.2" type="text/javascript" src="js/filesearchhover.js"></script></head><body onload="MM_preloadImages('images/top_prod_f2.gif','images/top_subscribe_f2.gif','images/top_login_f2.gif','images/pr_snow_f2.jpg','images/pr_events_f2.jpg','images/nav_about_f2.jpg','images/nav_product_f2.jpg','images/nav_retail_f2.jpg','images/nav_ath_f2.jpg','images/nav_tech_f2.jpg','images/menu_back_ab.jpg','images/menu_back_ab_f2.jpg','images/menu_back_te.jpg','images/menu_back_te_f2.jpg'); "><div id="trailimageid" style=""></div>
-    <!-- FLASH JS-->
-	<script language="JavaScript1.2" type="text/javascript">AC_FL_RunContent = 0;</script>
-    <script language="JavaScript1.2" type="text/javascript" src="js/AC_RunActiveContent.js"></script>
-	<!-- // -->
-    
-    
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+		<title>Spyder | Your Privacy</title>
+		<meta name="keywords" content="">
+		<meta name="Last Publish" content="">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css">
+		<link rel="stylesheet" type="text/css" href="/css/pages.css">
+		<!--[if IE]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="all" /><![endif]-->
+		<script src="/scripts/scripts.js" type="text/javascript"></script>
+		<script src="/js/spyder.js" type="text/javascript"></script>
+		<script src="/scripts/jquery/jquery.js" type="text/javascript"></script>
+		<script src="/js/basic.js" type="text/javascript"></script>
+		<script src="/js/jquery.simplemodal.js" type="text/javascript"></script>
+			<link href="/css/qnav.css" rel="stylesheet" type="text/css">
+			<script src="/js/qnav.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div class="container">
+<script type="text/javascript">
+	function login_prompt(){
+		var url = "/front/templates/login_popups.jsp?timeStamp=" + new Date().getTime();
+		$.ajax({
+		   type: "POST",
+		   url: url,
+		   success: function(content){
+			  $('#modalLogin').html(content);
+			  $('#modalLogin').modal();
+			/* need to dynamicly adjust the height of gray background or else firefox would not fully cover the screen with it */
+			var pixelHeight = document.body.offsetHeight;
+		    $('#modal-screen').height(pixelHeight + "px");
+			}
+		 });	
+	}
+</script>
+<div class="headerwrap">
+	<div class="header">
+		<h1 class="logo"><a href="/"><img src="/images/logo.gif" alt="LOGO"></a></h1>	
+		<form action="/front/servlet/ssearch" name="search" method="post" class="topsearch" id="topsearch">		
+			<fieldset>
+				<label for="search" class="label">Search</label>
+				<input id="search" name="searchterm" value="" class="text">
+				<input type="hidden" name="success" value="/front/search/results.jsp">
+				<input type="hidden" name="failure" value="/front/search/results.jsp">
+				<input type="hidden" name="action" value="SEARCH">
+				<input type="hidden" name="si" value="1">			
+			</fieldset>
+		</form><!--/.topsearch-->
+		<ul class="utilitynav">
+			<li id="vipContact" class="vipContact" style="display: none"><a href="#">Need Help?</a></li>
+			<li><a href="http://survey.leisuretrends.com/default.asp?survey=282&amp;survey_version=392" target="_blank">Subscribe</a></li>
+			<script type="text/javascript">
+				addLoadListener(showProductReg);
+				function showProductReg(){
+					if(is_domestic() == true)
+						document.getElementById("product-registration").style.display="";
+				}
+			</script>
+			<li id="product-registration" style=""><a href="https://secure.prodregister.com/spyder/register.shtml" target="_blank">Product Registration</a></li>
+			<li id="myaccount" style="display: none"><a href="/front/agent/my_account">My Account</a></li>
+			<li id="cart" style="display: none"><a href="/front/shopping_cart/view_cart.jsp">Cart</a></li>
+			<li id="login"><a href="#">Login</a></li>
+			<script language="JavaScript" type="text/javascript">
+				function handle_login_out(response, arg){
+					var item = document.getElementById(arg.elementId);
+					var item2 = document.getElementById(arg.elementId2);
+					var item3 = document.getElementById(arg.elementId3);
+					var item4 = document.getElementById(arg.elementId4);
+					var item5 = document.getElementById(arg.elementId5);
+					var item6 = document.getElementById(arg.elementId6);
+					if(response.indexOf("logout") > 0){
+						// shift topsearch
+						item4.className = 'topsearchloggedin';
+						// logout button is visible, user is logged in
+						item.className="logout";
+						item2.style.display = '';
+						item3.style.display = '';
+						item5.style.display = '';
+						 // we put the displayable content here to prevent search robots from indexing this
+                        item6.innerHTML = '<br/><p>If you have any questions, or are having any problems while shopping on Spyder.com, you can reach us via email at <a href="mailto:viper@spyder.com">viper@spyder.com</a>, or by calling 888.284.2983</p>';
+						// if dirty cookie is set, clear the current spyder off cookie; making sure new one is retrieved
+						var dirty_cookie = readCookie('spyder_dirty_cookie'); 
+						if (dirty_cookie != null)	eraseCookie('spyder_percent_off');
+						var percent_off = readCookie('spyder_percent_off');
+						if (percent_off == null){
+							asyncGet('/front/templates/ajax/percent_off.jsp', 'addCookie', '');
+						}
+					}else{
+						// user is logged out; delete cookie here (cookies is also deleted when they click log out, but if they keep the browser open for a long time and session expires, the cookies stays; so we delete it here in that senario)
+						var percent_off = readCookie('spyder_percent_off'); 
+						if (percent_off != null){
+							eraseCookie('spyder_percent_off');
+						}
+						// unshift topsearch
+						item4.className = 'topsearch';
+					}
+					item.innerHTML=response;
+				}
+				asyncGet('/front/templates/ajax/login_out.jsp', 'handle_login_out', {'elementId': 'login', 'elementId2': 'myaccount', 'elementId3': 'cart', 'elementId4': 'topsearch', 'elementId5': 'vipContact', 'elementId6': 'vipContactModal'});
+				function addCookie(response){
+					createCookie('spyder_percent_off', response);
+				}
+			</script>
+		</ul>
+	</div><!--/.header-->
+	</div><!--/.headerwrap-->
+<div id="navwrap">	
+	<ul id="nav">
+		<li id="nav1" class="current"><a href="#">Athletes</a>
+			<ul class="subnav">
+				<li><a href="/Freeski-Athletes/">Freeski Athletes</a></li>
+	        	<li><a href="http://usskiteam.com" target="_blank">US Ski Team</a></li>
+	        	<li class="last"><a href="http://canski.org" target="_blank">Canadian Alpine Team</a></li>
+			</ul>
+		</li>
+		<li id="nav2"><a href="#">Find a Retailer</a>
+			<ul class="subnav">
+				<li><a href="/front/retailers/index.jsp">Find Local Retailers</a></li>
+        		<li class="last"><a href="/Retailers.html">Online Retailers</a></li>
+			</ul>
+		</li>
+		<li id="nav3"><a href="#">About Spyder</a>
+			<ul class="subnav">
+					<li><a href="/Whats-New.html">What's New</a></li>
+					<li><a href="/Recent-Press.html">Recent Press</a></li>
+			        		<li id="domestic-jobdropdown" style=""><a href="/Jobs.html">Jobs</a></li>
+							<li><a href="/Customer-Service.html">Customer Service</a></li>
+							<li><a href="/Contacts.html">Contacts</a></li>
+							<li><a href="/FAQs.html">FAQs</a></li>
+							<li><a href="/Company-History.html">Company History</a></li>
+							<li><a href="/Founders-Bio.html">Founder's Bio</a></li>
+							<li class="last"><a href="/Partners.html">Partners</a></li>
+			</ul>
+		</li>	
+	</ul>
 	<script type="text/javascript">
-	    
-	    function hoverOn(hover,pic,txt)
-	    {
-	        var hover;
-	        var pic;
-	        var txt;
-	        if (hover)
-	        {
-	            document.getElementById(pic).style.border='1px solid #cc0000';
-	            document.getElementById(txt).style.color='#cc0000';
-	        }
-	        else
-	        {
-	            document.getElementById(pic).style.border='1px solid white';
-	            document.getElementById(txt).style.color='#990000';
-	        }	        
-	    }
-	    
-	</script>
-	
-
-
-
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-spyderactivesportinc.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM561106BPSB95EN3";//ACCOUNT NUMBER(S)
-hbx.pn="Spyder+2007/2008+|+About+Spyder+|+Privacy+Policy";//PAGE NAME(S)
-hbx.mlc="US+Site";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="none";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="http://www.spyder.com/includes/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
-<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 175px;">
-  <div id="menuLite0" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 175px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg0" style="position: absolute; left: 0px; top: 0px; height: 175px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem0" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText0" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">News&nbsp;</div>
-<div id="menuItemHilite0" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">News&nbsp;</div></div><div id="menuItem1" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText1" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Jobs&nbsp;</div>
-<div id="menuItemHilite1" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Jobs&nbsp;</div></div><div id="menuItem2" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText2" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Customer&nbsp;Service&nbsp;</div>
-<div id="menuItemHilite2" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Customer&nbsp;Service&nbsp;</div></div><div id="menuItem3" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText3" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Contacts&nbsp;</div>
-<div id="menuItemHilite3" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Contacts&nbsp;</div></div><div id="menuItem4" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText4" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">FAQs&nbsp;</div>
-<div id="menuItemHilite4" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">FAQs&nbsp;</div></div><div id="menuItem5" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 110px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText5" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Company&nbsp;History&nbsp;</div>
-<div id="menuItemHilite5" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Company&nbsp;History&nbsp;</div></div><div id="menuItem6" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 132px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText6" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Founder's&nbsp;Bio&nbsp;</div>
-<div id="menuItemHilite6" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Founder's&nbsp;Bio&nbsp;</div></div><div id="menuItem7" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 154px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText7" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Partners&nbsp;</div>
-<div id="menuItemHilite7" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Partners&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer1" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 109px;">
-  <div id="menuLite1" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 109px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 0px; top: 0px; height: 109px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem8" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText8" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Legend&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Legend&nbsp;</div></div><div id="menuItem9" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText9" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Quest&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Quest&nbsp;</div></div><div id="menuItem10" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText10" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Victory&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Victory&nbsp;</div></div><div id="menuItem11" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText11" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem12" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText12" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer2" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 131px;">
-  <div id="menuLite2" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 131px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg2" style="position: absolute; left: 0px; top: 0px; height: 131px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem13" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText13" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Legend&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Legend&nbsp;</div></div><div id="menuItem14" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText14" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Platinum&nbsp;</div>
-<div id="menuItemHilite14" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Platinum&nbsp;</div></div><div id="menuItem15" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText15" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Quest&nbsp;</div>
-<div id="menuItemHilite15" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Quest&nbsp;</div></div><div id="menuItem16" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText16" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Victory&nbsp;</div>
-<div id="menuItemHilite16" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Victory&nbsp;</div></div><div id="menuItem17" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText17" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite17" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem18" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 110px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText18" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite18" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer3" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 43px;">
-  <div id="menuLite3" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg3" style="position: absolute; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem19" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText19" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Men's&nbsp;</div>
-<div id="menuItemHilite19" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Men's&nbsp;</div><div id="childMenu19" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem20" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText20" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Women's&nbsp;</div>
-<div id="menuItemHilite20" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Women's&nbsp;</div><div id="childMenu20" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer4" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 87px;">
-  <div id="menuLite4" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg4" style="position: absolute; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem21" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText21" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Big&nbsp;Mountain&nbsp;</div>
-<div id="menuItemHilite21" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Big&nbsp;Mountain&nbsp;</div></div><div id="menuItem22" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText22" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Freeryde&nbsp;</div>
-<div id="menuItemHilite22" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Freeryde&nbsp;</div></div><div id="menuItem23" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText23" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">V-lyne&nbsp;</div>
-<div id="menuItemHilite23" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">V-lyne&nbsp;</div></div><div id="menuItem24" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText24" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite24" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer5" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 87px;">
-  <div id="menuLite5" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg5" style="position: absolute; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem25" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText25" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Big&nbsp;Mountain&nbsp;</div>
-<div id="menuItemHilite25" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Big&nbsp;Mountain&nbsp;</div></div><div id="menuItem26" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText26" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Freeryde&nbsp;</div>
-<div id="menuItemHilite26" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Freeryde&nbsp;</div></div><div id="menuItem27" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText27" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">V-lyne&nbsp;</div>
-<div id="menuItemHilite27" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">V-lyne&nbsp;</div></div><div id="menuItem28" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText28" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite28" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer6" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 43px;">
-  <div id="menuLite6" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg6" style="position: absolute; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem29" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText29" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Men's&nbsp;</div>
-<div id="menuItemHilite29" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Men's&nbsp;</div><div id="childMenu29" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem30" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText30" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Women's&nbsp;</div>
-<div id="menuItemHilite30" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Women's&nbsp;</div><div id="childMenu30" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer7" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 65px;">
-  <div id="menuLite7" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 65px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg7" style="position: absolute; left: 0px; top: 0px; height: 65px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem31" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText31" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;</div>
-<div id="menuItemHilite31" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;</div></div><div id="menuItem32" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText32" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite32" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem33" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText33" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite33" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer8" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 65px;">
-  <div id="menuLite8" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 65px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg8" style="position: absolute; left: 0px; top: 0px; height: 65px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem34" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText34" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;</div>
-<div id="menuItemHilite34" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;</div></div><div id="menuItem35" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText35" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite35" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem36" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText36" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite36" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer9" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 43px;">
-  <div id="menuLite9" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg9" style="position: absolute; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem37" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText37" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Men's&nbsp;</div>
-<div id="menuItemHilite37" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Men's&nbsp;</div><div id="childMenu37" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem38" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText38" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Women's&nbsp;</div>
-<div id="menuItemHilite38" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Women's&nbsp;</div><div id="childMenu38" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer10" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 175px;">
-  <div id="menuLite10" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 175px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg10" style="position: absolute; left: 0px; top: 0px; height: 175px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem39" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText39" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Legend&nbsp;</div>
-<div id="menuItemHilite39" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Legend&nbsp;</div></div><div id="menuItem40" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText40" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Quest&nbsp;</div>
-<div id="menuItemHilite40" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Quest&nbsp;</div></div><div id="menuItem41" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText41" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Freeryde&nbsp;</div>
-<div id="menuItemHilite41" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Freeryde&nbsp;</div></div><div id="menuItem42" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText42" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;</div>
-<div id="menuItemHilite42" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;</div></div><div id="menuItem43" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText43" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Authentics&nbsp;</div>
-<div id="menuItemHilite43" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Authentics&nbsp;</div></div><div id="menuItem44" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 110px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText44" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Victory&nbsp;</div>
-<div id="menuItemHilite44" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Victory&nbsp;</div></div><div id="menuItem45" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 132px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText45" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite45" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem46" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 154px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText46" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite46" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem10" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer11" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 175px;">
-  <div id="menuLite11" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 175px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg11" style="position: absolute; left: 0px; top: 0px; height: 175px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem47" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText47" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Platinum&nbsp;</div>
-<div id="menuItemHilite47" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Platinum&nbsp;</div></div><div id="menuItem48" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText48" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Quest&nbsp;</div>
-<div id="menuItemHilite48" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Quest&nbsp;</div></div><div id="menuItem49" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText49" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Freeryde&nbsp;</div>
-<div id="menuItemHilite49" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Freeryde&nbsp;</div></div><div id="menuItem50" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText50" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;</div>
-<div id="menuItemHilite50" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;</div></div><div id="menuItem51" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText51" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Authentics&nbsp;</div>
-<div id="menuItemHilite51" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Authentics&nbsp;</div></div><div id="menuItem52" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 110px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText52" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Victory&nbsp;</div>
-<div id="menuItemHilite52" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Victory&nbsp;</div></div><div id="menuItem53" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 132px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText53" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite53" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem54" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 154px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText54" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite54" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem11" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer12" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 87px;">
-  <div id="menuLite12" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg12" style="position: absolute; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem55" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText55" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Mini&nbsp;Quest&nbsp;</div>
-<div id="menuItemHilite55" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Mini&nbsp;Quest&nbsp;</div></div><div id="menuItem56" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText56" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;</div>
-<div id="menuItemHilite56" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;</div></div><div id="menuItem57" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText57" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite57" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem58" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText58" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite58" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem12" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer13" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 109px;">
-  <div id="menuLite13" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 109px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg13" style="position: absolute; left: 0px; top: 0px; height: 109px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem59" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText59" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Bitsy&nbsp;Platinum&nbsp;</div>
-<div id="menuItemHilite59" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Bitsy&nbsp;Platinum&nbsp;</div></div><div id="menuItem60" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText60" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Bitsy&nbsp;Quest&nbsp;</div>
-<div id="menuItemHilite60" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Bitsy&nbsp;Quest&nbsp;</div></div><div id="menuItem61" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText61" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;</div>
-<div id="menuItemHilite61" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;</div></div><div id="menuItem62" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText62" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div>
-<div id="menuItemHilite62" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Lifestyle&nbsp;&amp;&nbsp;Layering&nbsp;</div></div><div id="menuItem63" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText63" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Accessories&nbsp;</div>
-<div id="menuItemHilite63" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div>	  <div id="focusItem13" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer14" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 87px;">
-  <div id="menuLite14" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg14" style="position: absolute; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem64" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText64" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Boy's&nbsp;Sizes&nbsp;8&nbsp;to&nbsp;20&nbsp;</div>
-<div id="menuItemHilite64" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Boy's&nbsp;Sizes&nbsp;8&nbsp;to&nbsp;20&nbsp;</div><div id="childMenu64" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem65" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText65" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Girl's&nbsp;Sizes&nbsp;8&nbsp;to&nbsp;20&nbsp;</div>
-<div id="menuItemHilite65" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Girl's&nbsp;Sizes&nbsp;8&nbsp;to&nbsp;20&nbsp;</div><div id="childMenu65" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem66" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText66" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Boy's&nbsp;Sizes&nbsp;2&nbsp;to&nbsp;8&nbsp;</div>
-<div id="menuItemHilite66" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Boy's&nbsp;Sizes&nbsp;2&nbsp;to&nbsp;8&nbsp;</div><div id="childMenu66" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem67" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText67" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Girls&nbsp;Sizes&nbsp;2&nbsp;to&nbsp;8&nbsp;</div>
-<div id="menuItemHilite67" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Girls&nbsp;Sizes&nbsp;2&nbsp;to&nbsp;8&nbsp;</div><div id="childMenu67" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div>	  <div id="focusItem14" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer15" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 153px;">
-  <div id="menuLite15" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 153px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg15" style="position: absolute; left: 0px; top: 0px; height: 153px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem68" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText68" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Alpine&nbsp;Ski&nbsp;</div>
-<div id="menuItemHilite68" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Alpine&nbsp;Ski&nbsp;</div><div id="childMenu68" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem69" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText69" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Venom&nbsp;Freeski&nbsp;</div>
-<div id="menuItemHilite69" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Venom&nbsp;Freeski&nbsp;</div><div id="childMenu69" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem70" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText70" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Xscap&nbsp;Outdoor&nbsp;</div>
-<div id="menuItemHilite70" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Xscap&nbsp;Outdoor&nbsp;</div><div id="childMenu70" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem71" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText71" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Race&nbsp;Authentics&nbsp;</div>
-<div id="menuItemHilite71" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Race&nbsp;Authentics&nbsp;</div></div><div id="menuItem72" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText72" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Kyds&nbsp;</div>
-<div id="menuItemHilite72" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Kyds&nbsp;</div><div id="childMenu72" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem73" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 110px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText73" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Luggage&nbsp;</div>
-<div id="menuItemHilite73" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Luggage&nbsp;</div></div><div id="menuItem74" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 132px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText74" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Footwear&nbsp;</div>
-<div id="menuItemHilite74" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Footwear&nbsp;</div></div>	  <div id="focusItem15" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer16" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 131px;">
-  <div id="menuLite16" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 131px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg16" style="position: absolute; left: 0px; top: 0px; height: 131px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem75" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText75" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Alpine&nbsp;Ski&nbsp;</div>
-<div id="menuItemHilite75" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Alpine&nbsp;Ski&nbsp;</div></div><div id="menuItem76" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText76" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Venom&nbsp;Freeski&nbsp;</div>
-<div id="menuItemHilite76" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Venom&nbsp;Freeski&nbsp;</div></div><div id="menuItem77" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText77" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Xscap&nbsp;Outdoor&nbsp;</div>
-<div id="menuItemHilite77" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Xscap&nbsp;Outdoor&nbsp;</div></div><div id="menuItem78" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText78" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Race&nbsp;Authentics&nbsp;</div>
-<div id="menuItemHilite78" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Race&nbsp;Authentics&nbsp;</div></div><div id="menuItem79" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 88px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText79" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Kyds&nbsp;</div>
-<div id="menuItemHilite79" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Kyds&nbsp;</div></div><div id="menuItem80" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 110px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText80" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Luggage&nbsp;</div>
-<div id="menuItemHilite80" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Luggage&nbsp;</div></div>	  <div id="focusItem16" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer17" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 43px;">
-  <div id="menuLite17" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg17" style="position: absolute; left: 0px; top: 0px; height: 43px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem81" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText81" style="position:absolute;left:11px;top:4.5px;color:#ffffff;"> Online&nbsp;Retailers&nbsp;</div>
-<div id="menuItemHilite81" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;"> Online&nbsp;Retailers&nbsp;</div><div id="childMenu81" style="position: absolute; left: 149px; top: 7px;"><img src="images/arrows.gif"></div>
-</div><div id="menuItem82" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText82" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Find&nbsp;a&nbsp;Retailer&nbsp;Near&nbsp;You&nbsp;</div>
-<div id="menuItemHilite82" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Find&nbsp;a&nbsp;Retailer&nbsp;Near&nbsp;You&nbsp;</div></div>	  <div id="focusItem17" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer18" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 160px; height: 87px;">
-  <div id="menuLite18" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg18" style="position: absolute; left: 0px; top: 0px; height: 87px; width: 160px; background-color: rgb(44, 42, 42);">
-<div id="menuItem83" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText83" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Freeski&nbsp;Athletes&nbsp;</div>
-<div id="menuItemHilite83" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Freeski&nbsp;Athletes&nbsp;</div></div><div id="menuItem84" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText84" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">U.S.&nbsp;Ski&nbsp;Team&nbsp;</div>
-<div id="menuItemHilite84" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">U.S.&nbsp;Ski&nbsp;Team&nbsp;</div></div><div id="menuItem85" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText85" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Canadian&nbsp;Alpine&nbsp;Team&nbsp;</div>
-<div id="menuItemHilite85" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Canadian&nbsp;Alpine&nbsp;Team&nbsp;</div></div><div id="menuItem86" style="background: url(&quot;images/menu_back_ab.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 66px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 160px; height: 22px; visibility: inherit;"><div id="menuItemText86" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Canadian&nbsp;Freestyle&nbsp;Team&nbsp;</div>
-<div id="menuItemHilite86" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Canadian&nbsp;Freestyle&nbsp;Team&nbsp;</div></div>	  <div id="focusItem18" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer19" style="position: absolute; z-index: 10; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 170px; height: 65px;">
-  <div id="menuLite19" style="position: absolute; z-index: 10; left: 0px; top: 0px; height: 65px; width: 170px; background-color: rgb(44, 42, 42);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg19" style="position: absolute; left: 0px; top: 0px; height: 65px; width: 170px; background-color: rgb(44, 42, 42);">
-<div id="menuItem87" style="background: url(&quot;images/menu_back_te.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 0px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 170px; height: 22px; visibility: inherit;"><div id="menuItemText87" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Waterproof/Breathable&nbsp;Fabrics&nbsp;</div>
-<div id="menuItemHilite87" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Waterproof/Breathable&nbsp;Fabrics&nbsp;</div></div><div id="menuItem88" style="background: url(&quot;images/menu_back_te.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 22px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 170px; height: 22px; visibility: inherit;"><div id="menuItemText88" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Insulation&nbsp;</div>
-<div id="menuItemHilite88" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Insulation&nbsp;</div></div><div id="menuItem89" style="background: url(&quot;images/menu_back_te.jpg&quot;) rgb(44, 42, 42); position: absolute; left: 0px; top: 44px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 11px; width: 170px; height: 22px; visibility: inherit;"><div id="menuItemText89" style="position:absolute;left:11px;top:4.5px;color:#ffffff;">Features&nbsp;</div>
-<div id="menuItemHilite89" style="position:absolute;left:11px;top:4.5px;color:#ffffff;visibility:hidden;">Features&nbsp;</div></div>	  <div id="focusItem19" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-</span>
-
-
-    <div id="navTop_bg">
-        <div id="navTop_wrap">
-            <table>
-                <tbody><tr>
-                    <td style="padding-right:45px;"><a href="https://secure.prodregister.com/spyder/register.shtml" target="_blank" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_prod','','images/top_prod_f2.gif',1);"><img name="top_prod" src="images/top_prod.gif" width="109" border="0" alt=""></a></td>
-                    <td style="padding-right:45px;"><a href="http://survey.leisuretrends.com/default.asp?survey=282&amp;survey_version=392" target="_blank" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_subscribe','','images/top_subscribe_f2.gif',1);"><img name="top_subscribe" src="images/top_subscribe.gif" width="53" height="23" alt=""></a></td>
-                    <td style="padding-right:2px"><img src="images/top_search.gif" alt="" width="40" height="23"></td>
-                    <td><form style="margin:0; padding:0" action="http://search.spyder.com/search.php" method="get" name="searchform"><input type="text" name="q" value="" size="19" class="search"><input type="hidden" name="wm" value="sub"></form></td>
-                    <td style="padding:0 115px 0 4px;"><a href="#"><img onclick="document.searchform.submit();" name="search" src="images/top_go.gif" alt="Go Search!"></a></td>
-                    <td style="padding-right:5px;"><a href="http://www.spyder.com/dealersite/login.aspx" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('top_login','','images/top_login_f2.gif',1);"><img name="top_login" src="images/top_login.gif" alt="login" width="28" height="23"></a></td>
-                </tr>
-            </tbody></table>    
-        </div>
-    </div>
- 
- <!--Main content area -->   
-    <div id="mainWrap">
-    	<div id="nav_pos">
-            <!--||MAIN NAV ||-->
-            <!--|||||||||||||-->
-            <table>
-                <tbody><tr>
-                    <td><a href="about.asp" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showHideLayers('Flash_div','','hide'); MM_showMenu(window.mm_menu_0626100753_0,41,24,null,'about_btn');MM_swapImage('about_btn','','images/nav_about_f2.jpg',1);"><img name="about_btn" src="images/nav_about.jpg" width="160" height="24" alt="about Spyder"></a></td>
-                    <td><a href="product.asp" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showHideLayers('Flash_div','','hide'); MM_showMenu(window.mm_menu_0626120317_1,22,24,null,'product_btn');MM_swapImage('product_btn','','images/nav_product_f2.jpg',1);"><img name="product_btn" src="images/nav_product.jpg" width="105" height="24" alt="product"></a></td>
-                    <td><a href="retail.asp" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showHideLayers('Flash_div','','hide'); MM_showMenu(window.mm_menu_0626121614_2,28,24,null,'retailer_btn');MM_swapImage('retailer_btn','','images/nav_retail_f2.jpg',1);"><img name="retailer_btn" src="images/nav_retail.jpg" width="121" height="24" alt="retail"></a></td>
-                    <td><a href="athlete.asp" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showHideLayers('Flash_div','','hide'); MM_showMenu(window.mm_menu_0626121735_3,17,24,null,'athlete_btn');MM_swapImage('athlete_btn','','images/nav_ath_f2.jpg',1);"><img name="athlete_btn" src="images/nav_ath.jpg" width="96" height="24" alt="athletes"></a></td>
-                    <td><a href="tech.asp" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showHideLayers('Flash_div','','hide'); MM_showMenu(window.mm_menu_0626121840_4,33,24,null,'tech_btn');MM_swapImage('tech_btn','','images/nav_tech_f2.jpg',1);"><img name="tech_btn" src="images/nav_tech.jpg" width="141" height="24" alt="tech guide"></a></td>
-                </tr>
-            </tbody></table>
-        </div>
-        
-        <div id="logo"><a href="/"><img src="images/logo.png" alt="Spyder logo" width="55" height="119"></a></div>		<div id="header"><a href="about.asp"><img src="images/head_about.jpg" alt="About Spyder" width="419" height="90"></a></div>
-        
-        <div id="pulldown_wrap">
-            
-            &nbsp;
-			
-			<div id="line_crumb">Privacy Policy</div>
-	    </div>
-	    
-
-				<div id="promo_wrap">
-					<table>
-					<tbody><tr>
-						<!--||Top PROMO ||-->
-						<!--||||||||||||||-->
-						<td><a href="#" onclick="window.open('promos/ky_top.html','techlogos','scrollbars=yes,resizable=yes,menubar=no,toolbar=no,status=no,width=500,height=440'); return false;"><img src="images/pr_top_ky.jpg" alt="Kyds" width="188" height="189"></a></td>
-					</tr>
-					<tr>    
-						<!--|| bottom PROMOs ||-->
-						<!--|||||||||||||||||||-->
-						<td><a href="#" onclick="window.open('promos/ky_btm.html','techlogos','scrollbars=yes,resizable=yes,menubar=no,toolbar=no,status=no,width=500,height=540'); return false;"><img src="images/pr_btm_ky.jpg" alt="News item 5" width="188" height="181"></a></td>
-					</tr>    
-					<tr>
-						<!--|| bottom 2 PROMOs ||-->
-						<!--|||||||||||||||||||||-->
-						<td><a href="http://www.skireport.com" target="_blank" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pr_snow','','images/pr_snow_f2.jpg',1);"><img name="pr_snow" src="images/pr_snow.jpg" width="94" height="56" alt="snow report"></a><a href="#" onclick="window.open('promos/event_popup.html','techlogos','scrollbars=yes,resizable=yes,menubar=no,toolbar=no,status=no,width=500,height=440'); return false;" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pr_events','','images/pr_events_f2.jpg',1);"><img name="pr_events" src="images/pr_events.jpg" width="94" height="56" alt="event schedule"></a></td>
-					</tr>
-				</tbody></table>
-				</div>
-				
-	  
-
-<!-- GREY BOX CONTENT -->        
-        <div id="content_pos">
-            <div id="content_wrap">
-                <!-- // minimum hight // -->
-                <div style="width:10px; height:480px; float:right;"></div>
-                
-
-<div id="in_pos">
-<p>
-<b>Your Consent</b><br>
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.<br>
-<br><b>Our Commitment to Privacy</b><br>
-Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners.  Our Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  This statement will be continuously assessed against new technologies, business practices and our customers' needs.<br>
-<br><b>We Do Not Sell Our List</b><br>
-We will not sell your name to a third party for the purpose of their advertising to you.  We may send information to you from complementary service providers in order to inform you of their services when we believe you will benefit from these services, <b>but we will not share information about you with these third parties.</b><br>
-<br><b>What Information Do We Collect and Why?</b><br>
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.<br>
-<br><b>1.  Personal Information You Choose to Provide</b><br>
-<br><b>Email Documents</b><br>
-In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses.  We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.<br><br>
-<b>How Do We Use the Information That You Provide to Us?</b><br>
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers.  Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information.  As a customer, you will be given the opportunity, at least once per contact, to notify us of your desire not to receive these offers.<br>
-<br><b>2.  Web Site Information</b><br><br>
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used.  Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.<br>
-<br><b>What Are Cookies?</b><br>
-Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site.  Cookies are small pieces of data that are stored by your Web browser on your hard drive.  Cookies can remember what information you access on one Web page to simplify your subsequent interactions with that Web site or to use the information to streamline your transactions on related Web pages.  This makes it easier for you to move from Web page to Web page and to complete commercial transactions over the Internet.  When you use the same computer to return to our site at a later time we will recognize you as a previous guest.  We use cookies to make your online experience easier and more personalized.  Cookies may permit us to send focused online content to you.<br>
-<br><b>Web Server Logs</b><br>
-Server logs help us collect important business and technical statistics.  The information in the logs lets us trace the paths followed by users to our Web site as they move from one page to another.  Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity.  We do not use these logs to capture your individual email address or any personally identifying information about you.<br>
-<br><b>How Do We Use Information We Collect from Cookies and Logs?</b><br>
-We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities, in order to constantly improve our Web site and better serve our customers.  This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.<br>
-<br><b>How Do We Secure Information Transmissions?</b><br>
-When you send confidential personal information including credit card numbers to us on our Web site, secure server software which we have licensed encrypts all information you input before it is sent to us.  The information is scrambled en route and decoded once it reaches our Web site.  Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.  For that reason, we ask that you do not send confidential information such as credit card or account numbers to us through an unsecured email.<br>
-<br><b>How Do We Protect Your Information?</b><br>
-<br><b>Information Security.</b><br>
-We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.<br>
-<br><b>Employee Access, Training and Expectations.</b><br>
-Our corporate values, ethical standards, policies and practices are committed to the protection of customer information.  In general, our business practices limit the use and disclosure of such information only to authorized persons, processes and transactions.<br>
-<br><b>What About Legally Compelled Disclosure of Information?</b><br>
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.<br>
-<br><b>What About Other Web Sites Linked to Our Web Site?</b><br>
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies.  Please read over those rules and policies before proceeding.<br>
+		addLoadListener(showJobDropdown);
+		function showJobDropdown(){
+			if(is_domestic() == true)
+				document.getElementById("domestic-jobdropdown").style.display="";
+		}
+	</script>	
+</div><!--/.navwrap-->
+	<!-- The below is shown as a modal window on demand. Notice the id of the modal dialogue which uniquely identifes which dialogue is being opened -->
+	<div class="modal" id="vipContactModal" style="display: none; height: 200px;">
+	</div>
+			<div style="display: none;" class="modal simplemodal-data" id="modalLogin"></div>
+			<div class="contentwrap">
+						<div class="content">
+							<div class="maincontent">
+								<div class="contentArea">
+	<h2><img src="/images/interface/h2-privacy.gif" alt="YOUR PRIVACY"></h2>
+<p>        <b>Your Consent</b><br>
+        By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.<br>
+        <br><b>Our Commitment to Privacy</b><br>
+        Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners.  Our Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  This statement will be continuously assessed against new technologies, business practices and our customers' needs.<br>
+        <br><b>We Do Not Sell Our List</b><br>
+        We will not sell your name to a third party for the purpose of their advertising to you.  We may send information to you from complementary service providers in order to inform you of their services when we believe you will benefit from these services, <b>but we will not share information about you with these third parties.</b><br>
+        <br><b>What Information Do We Collect and Why?</b><br>
+        When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.<br>
+        <br><b>1.  Personal Information You Choose to Provide</b><br>
+        <br><b>Email Documents</b><br>
+        In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses.  We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.<br><br>
+        <b>How Do We Use the Information That You Provide to Us?</b><br>
+        Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers.  Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information.  As a customer, you will be given the opportunity, at least once per contact, to notify us of your desire not to receive these offers.<br>
+        <br><b>2.  Web Site Information</b><br><br>
+        Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used.  Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.<br>
+        <br><b>What Are Cookies?</b><br>
+        Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site.  Cookies are small pieces of data that are stored by your Web browser on your hard drive.  Cookies can remember what information you access on one Web page to simplify your subsequent interactions with that Web site or to use the information to streamline your transactions on related Web pages.  This makes it easier for you to move from Web page to Web page and to complete commercial transactions over the Internet.  When you use the same computer to return to our site at a later time we will recognize you as a previous guest.  We use cookies to make your online experience easier and more personalized.  Cookies may permit us to send focused online content to you.<br>
+        <br><b>Web Server Logs</b><br>
+        Server logs help us collect important business and technical statistics.  The information in the logs lets us trace the paths followed by users to our Web site as they move from one page to another.  Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity.  We do not use these logs to capture your individual email address or any personally identifying information about you.<br>
+        <br><b>How Do We Use Information We Collect from Cookies and Logs?</b><br>
+        We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities, in order to constantly improve our Web site and better serve our customers.  This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.<br>
+        <br><b>How Do We Secure Information Transmissions?</b><br>
+        When you send confidential personal information including credit card numbers to us on our Web site, secure server software which we have licensed encrypts all information you input before it is sent to us.  The information is scrambled en route and decoded once it reaches our Web site.  Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.  For that reason, we ask that you do not send confidential information such as credit card or account numbers to us through an unsecured email.<br>
+        <br><b>How Do We Protect Your Information?</b><br>
+        <br><b>Information Security.</b><br>
+        We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.<br>
+        <br><b>Employee Access, Training and Expectations.</b><br>
+        Our corporate values, ethical standards, policies and practices are committed to the protection of customer information.  In general, our business practices limit the use and disclosure of such information only to authorized persons, processes and transactions.<br>
+        <br><b>What About Legally Compelled Disclosure of Information?</b><br>
+        We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.<br>
+        <br><b>What About Other Web Sites Linked to Our Web Site?</b><br>
+        We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies.  Please read over those rules and policies before proceeding.<br>
 </p>
-
-
-
-
-
 </div>
-
-                <div style="height:1px; background:transparent; clear:both;"><img src="images/spacer.gif" height="1" width="1" alt="0"></div>
-            </div>
-            <div>
-                <img src="images/content_end.gif" alt="" width="750" height="16">
-            </div>
-            <div id="footer">
-                <div>Copyright © 2008. Spyder Active Sports, Inc. All Rights Reserved.</div>
-                <a href="sitemap.asp">Site Map</a> :: <a href="privacy.asp">Privacy Policy</a> :: <a href="/">Home</a>
-            </div>
-            
-        </div>
-    </div>
+<div class="contentAreaBase"></div>
+							</div><!--/.maincontent -->
+	<div class="sidecontent">
+		<a href="http://www.spyder.com/volume1" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image1_108718.gif" alt=""></a>
+		<a href="http://www.facebook.com/spyderactivesports" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image2_108719.jpg" alt=""></a>		
+	</div><!--/.sidecontent-->
+						</div><!--/.content -->		
+	<script type="text/javascript">
+		var last_subcat = '';
+		function show_tree(cat, subcat, current_leaf_cat){
+			document.getElementById("cat_81").style.display='none';
+			document.getElementById("cat_90").style.display='none';
+			document.getElementById("cat_91").style.display='none';
+			document.getElementById("cat_92").style.display='none';
+			document.getElementById("cat_93").style.display='none';
+			document.getElementById("cat_94").style.display='none';
+			document.getElementById("cat_203").style.display='none';
+			/* If we have a predefine default cat from a cookie, we use that value and delete it immediately. This is used
+			 * for remembering which cat the user came from when viewing the product detail page so that it current cat state
+			 * remains consistent to the user. */
+			if(readCookie('current_cat_id') != null && document.getElementById('subcat_' + readCookie('current_cat_id')) != null){
+				var current_cat_id_value = readCookie('current_cat_id');
+				var current_parent_cat_id_value = readCookie('current_parent_cat_id');
+				var leaf_parent_cat_id_value = readCookie('current_leaf_cat_id');
+				eraseCookie('current_cat_id');
+				eraseCookie('current_parent_cat_id');
+				eraseCookie('current_leaf_cat_id');
+				document.getElementById('subcat_' + current_cat_id_value).style.display = '';
+				document.getElementById('cat_' + current_parent_cat_id_value).style.display = '';
+				document.getElementById('leaf_cat_' + leaf_parent_cat_id_value).className = 'current';
+			}else{			
+				if(cat)			
+					document.getElementById(cat).style.display='';
+				if(last_subcat)
+					document.getElementById(last_subcat).style.display='none';
+				if(subcat){
+					document.getElementById(subcat).style.display='';
+					last_subcat = subcat;
+				}
+				if(current_leaf_cat){
+					if(current_leaf_cat == 'leaf_cat_211' || current_leaf_cat == 'leaf_cat_243' || current_leaf_cat == 'leaf_cat_223'){
+						document.getElementById(current_leaf_cat).className='currentlong';
+					}else{
+						document.getElementById(current_leaf_cat).className='current';
+					}
+				}
+			}
+		}
+	</script>
+	<div class="sidenav" id="sidenav">
+		<h2 class="head"><img src="/images/product.gif" alt="Product"></h2>
+		<ul>
+	    	<li><a href="#" onclick="show_tree('cat_81', '');">Mens</a>
+	            <ul id="cat_81" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_82');">Jackets</a>
+				            		<ul id="subcat_82" style="display: none">
+											<li id="leaf_cat_83"><a href="/Mens/Jackets/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_84"><a href="/Mens/Jackets/Down/">Down</a></li>
+											<li id="leaf_cat_85"><a href="/Mens/Jackets/Shell/">Shell</a></li>
+											<li id="leaf_cat_86"><a href="/Mens/Jackets/System/">System</a></li>
+											<li id="leaf_cat_87"><a href="/Mens/Jackets/Softshell/">Softshell</a></li>
+											<li id="leaf_cat_88"><a href="/Mens/Jackets/Insulator/">Insulator</a></li>
+											<li id="leaf_cat_89"><a href="/Mens/Jackets/Fleece/">Fleece</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_115');">Pants</a>
+				            		<ul id="subcat_115" style="display: none">
+											<li id="leaf_cat_116"><a href="/Mens/Pants/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_117"><a href="/Mens/Pants/Shell/">Shell</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_120');">Layers</a>
+				            		<ul id="subcat_120" style="display: none">
+											<li id="leaf_cat_121"><a href="/Mens/Layers/Thermal/">Thermal</a></li>
+											<li id="leaf_cat_122"><a href="/Mens/Layers/Midlayer/">Midlayer</a></li>
+											<li id="leaf_cat_123"><a href="/Mens/Layers/Baselayer/">Baselayer</a></li>
+									</ul>
+								</li>
+								<li id="leaf_cat_"><a href="/Mens/Race/">Race</a></li>
+				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_269');">Accessories</a>
+				            		<ul id="subcat_269" style="display: none">
+											<li id="leaf_cat_124"><a href="/Mens/Accessories/Gloves/">Gloves</a></li>
+											<li id="leaf_cat_125"><a href="/Mens/Accessories/Hats/">Hats</a></li>
+											<li id="leaf_cat_270"><a href="/Mens/Accessories/Socks/">Socks</a></li>
+									</ul>
+								</li>
+	            </ul>
+	        </li>
+	    	<li><a href="#" onclick="show_tree('cat_90', '');">Womens</a>
+	            <ul id="cat_90" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_126');">Jackets</a>
+				            		<ul id="subcat_126" style="display: none">
+											<li id="leaf_cat_127"><a href="/Womens/Jackets/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_128"><a href="/Womens/Jackets/Down/">Down</a></li>
+											<li id="leaf_cat_129"><a href="/Womens/Jackets/Shell/">Shell</a></li>
+											<li id="leaf_cat_130"><a href="/Womens/Jackets/System/">System</a></li>
+											<li id="leaf_cat_131"><a href="/Womens/Jackets/Softshell/">Softshell</a></li>
+											<li id="leaf_cat_132"><a href="/Womens/Jackets/Insulator/">Insulator</a></li>
+											<li id="leaf_cat_133"><a href="/Womens/Jackets/Fleece/">Fleece</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_134');">Pants</a>
+				            		<ul id="subcat_134" style="display: none">
+											<li id="leaf_cat_135"><a href="/Womens/Pants/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_137"><a href="/Womens/Pants/Softshell/">Softshell</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_139');">Layers</a>
+				            		<ul id="subcat_139" style="display: none">
+											<li id="leaf_cat_140"><a href="/Womens/Layers/Thermal/">Thermal</a></li>
+											<li id="leaf_cat_141"><a href="/Womens/Layers/Midlayer/">Midlayer</a></li>
+											<li id="leaf_cat_142"><a href="/Womens/Layers/Baselayer/">Baselayer</a></li>
+									</ul>
+								</li>
+								<li id="leaf_cat_"><a href="/Womens/Race/">Race</a></li>
+				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_271');">Accessories</a>
+				            		<ul id="subcat_271" style="display: none">
+											<li id="leaf_cat_143"><a href="/Womens/Accessories/Gloves/">Gloves</a></li>
+											<li id="leaf_cat_144"><a href="/Womens/Accessories/Hats/">Hats</a></li>
+											<li id="leaf_cat_272"><a href="/Womens/Accessories/Socks/">Socks</a></li>
+									</ul>
+								</li>
+				</ul>
+	        </li>
+	    	<li><a href="#" onclick="show_tree('cat_91', '');">Boys 8-20</a>			
+	            <ul id="cat_91" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_145');">Jackets</a>
+				            		<ul id="subcat_145" style="display: none">
+											<li id="leaf_cat_146"><a href="/Boys-8-20/Jackets/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_147"><a href="/Boys-8-20/Jackets/Down/">Down</a></li>
+											<li id="leaf_cat_150"><a href="/Boys-8-20/Jackets/Softshell/">Softshell</a></li>
+											<li id="leaf_cat_151"><a href="/Boys-8-20/Jackets/Insulator/">Insulator</a></li>
+											<li id="leaf_cat_152"><a href="/Boys-8-20/Jackets/Fleece/">Fleece</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_153');">Pants</a>
+				            		<ul id="subcat_153" style="display: none">
+											<li id="leaf_cat_154"><a href="/Boys-8-20/Pants/Insulated/">Insulated</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_158');">Layers</a>
+				            		<ul id="subcat_158" style="display: none">
+											<li id="leaf_cat_159"><a href="/Boys-8-20/Layers/Thermal/">Thermal</a></li>
+											<li id="leaf_cat_160"><a href="/Boys-8-20/Layers/Midlayer/">Midlayer</a></li>
+											<li id="leaf_cat_161"><a href="/Boys-8-20/Layers/Baselayer/">Baselayer</a></li>
+									</ul>
+								</li>
+								<li id="leaf_cat_"><a href="/Boys-8-20/Race/">Race</a></li>
+				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_273');">Accessories</a>
+				            		<ul id="subcat_273" style="display: none">
+											<li id="leaf_cat_162"><a href="/Boys-8-20/Accessories/Gloves/">Gloves</a></li>
+											<li id="leaf_cat_163"><a href="/Boys-8-20/Accessories/Hats/">Hats</a></li>
+											<li id="leaf_cat_274"><a href="/Boys-8-20/Accessories/Socks/">Socks</a></li>
+									</ul>
+								</li>
+				</ul>
+	        </li>
+	    	<li><a href="#" onclick="show_tree('cat_92', '');">Girls 8-20</a>
+	            <ul id="cat_92" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_164');">Jackets</a>
+				            		<ul id="subcat_164" style="display: none">
+											<li id="leaf_cat_165"><a href="/Girls-8-20/Jackets/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_166"><a href="/Girls-8-20/Jackets/Down/">Down</a></li>
+											<li id="leaf_cat_167"><a href="/Girls-8-20/Jackets/Shell/">Shell</a></li>
+											<li id="leaf_cat_168"><a href="/Girls-8-20/Jackets/System/">System</a></li>
+											<li id="leaf_cat_170"><a href="/Girls-8-20/Jackets/Fleece/">Fleece</a></li>
+											<li id="leaf_cat_182"><a href="/Girls-8-20/Jackets/Insulator/">Insulator</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_171');">Pants</a>
+				            		<ul id="subcat_171" style="display: none">
+											<li id="leaf_cat_172"><a href="/Girls-8-20/Pants/Insulated/">Insulated</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_176');">Layers</a>
+				            		<ul id="subcat_176" style="display: none">
+											<li id="leaf_cat_177"><a href="/Girls-8-20/Layers/Thermal/">Thermal</a></li>
+											<li id="leaf_cat_178"><a href="/Girls-8-20/Layers/Midlayer/">Midlayer</a></li>
+											<li id="leaf_cat_179"><a href="/Girls-8-20/Layers/Baselayer/">Baselayer</a></li>
+									</ul>
+								</li>
+								<li id="leaf_cat_"><a href="/Girls-8-20/Race/">Race</a></li>
+				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_275');">Accessories</a>
+				            		<ul id="subcat_275" style="display: none">
+											<li id="leaf_cat_180"><a href="/Girls-8-20/Accessories/Gloves/">Gloves</a></li>
+											<li id="leaf_cat_183"><a href="/Girls-8-20/Accessories/Hats/">Hats</a></li>
+											<li id="leaf_cat_276"><a href="/Girls-8-20/Accessories/Socks/">Socks</a></li>
+									</ul>
+								</li>
+				</ul>
+	        </li>
+	    	<li><a href="#" onclick="show_tree('cat_93', '');">Mini Boys 2-7</a>
+		        <ul id="cat_93" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_184');">Jackets</a>
+				            		<ul id="subcat_184" style="display: none">
+											<li id="leaf_cat_185"><a href="/Mini-Boys-2-7/Jackets/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_186"><a href="/Mini-Boys-2-7/Jackets/Down/">Down</a></li>
+											<li id="leaf_cat_190"><a href="/Mini-Boys-2-7/Jackets/Insulator/">Insulator</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_192');">Pants</a>
+				            		<ul id="subcat_192" style="display: none">
+											<li id="leaf_cat_193"><a href="/Mini-Boys-2-7/Pants/Insulated/">Insulated</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_197');">Layers</a>
+				            		<ul id="subcat_197" style="display: none">
+											<li id="leaf_cat_198"><a href="/Mini-Boys-2-7/Layers/Thermal/">Thermal</a></li>
+											<li id="leaf_cat_199"><a href="/Mini-Boys-2-7/Layers/Midlayer/">Midlayer</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_279');">Accessories</a>
+				            		<ul id="subcat_279" style="display: none">
+											<li id="leaf_cat_201"><a href="/Mini-Boys-2-7/Accessories/Gloves/">Gloves</a></li>
+											<li id="leaf_cat_202"><a href="/Mini-Boys-2-7/Accessories/Hats/">Hats</a></li>
+									</ul>
+								</li>
+				</ul>	            
+	        </li>
+	    	<li><a href="#" onclick="show_tree('cat_94', '');">Bitsy Girls 2-7</a>
+			    <ul id="cat_94" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_107');">Jackets</a>
+				            		<ul id="subcat_107" style="display: none">
+											<li id="leaf_cat_108"><a href="/Bitsy-Girls-2-7/Jackets/Insulated/">Insulated</a></li>
+											<li id="leaf_cat_109"><a href="/Bitsy-Girls-2-7/Jackets/Down/">Down</a></li>
+											<li id="leaf_cat_113"><a href="/Bitsy-Girls-2-7/Jackets/Insulator/">Insulator</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_102');">Pants</a>
+				            		<ul id="subcat_102" style="display: none">
+											<li id="leaf_cat_103"><a href="/Bitsy-Girls-2-7/Pants/Insulated/">Insulated</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_98');">Layers</a>
+				            		<ul id="subcat_98" style="display: none">
+											<li id="leaf_cat_99"><a href="/Bitsy-Girls-2-7/Layers/Thermal/">Thermal</a></li>
+											<li id="leaf_cat_100"><a href="/Bitsy-Girls-2-7/Layers/Midlayer/">Midlayer</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_277');">Accessories</a>
+				            		<ul id="subcat_277" style="display: none">
+											<li id="leaf_cat_96"><a href="/Bitsy-Girls-2-7/Accessories/Hats/">Hats</a></li>
+											<li id="leaf_cat_97"><a href="/Bitsy-Girls-2-7/Accessories/Gloves/">Gloves</a></li>
+									</ul>
+								</li>
+				</ul>		            
+	        </li>
+	    	<li><a href="/Bags/">Bags</a></li>	        	
+	    	<li><a href="#" onclick="show_tree('cat_203', '');">Collections</a>
+			    <ul id="cat_203" style="display:none;">
+				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_204');">Mens</a>
+				            		<ul id="subcat_204" style="display: none">
+											<li id="leaf_cat_205"><a href="/Collections/Mens/Legend/">Legend</a></li>
+											<li id="leaf_cat_206"><a href="/Collections/Mens/Quest/">Quest</a></li>
+											<li id="leaf_cat_207"><a href="/Collections/Mens/Rogue/">Rogue</a></li>
+											<li id="leaf_cat_208"><a href="/Collections/Mens/Big-Mountain/">Big Mountain</a></li>
+											<li id="leaf_cat_209"><a href="/Collections/Mens/Venom/">Venom</a></li>
+											<li id="leaf_cat_210"><a href="/Collections/Mens/Active/">Active</a></li>
+											<li id="leaf_cat_212"><a href="/Collections/Mens/Layers/">Layers</a></li>
+											<li id="leaf_cat_213"><a href="/Collections/Mens/Accessories/">Accessories</a></li>
+											<li id="leaf_cat_259"><a href="/Collections/Mens/Race/">Race</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_214');">Womens</a>
+				            		<ul id="subcat_214" style="display: none">
+											<li id="leaf_cat_215"><a href="/Collections/Womens/L-Series/">L-Series</a></li>
+											<li id="leaf_cat_216"><a href="/Collections/Womens/Legend/">Legend</a></li>
+											<li id="leaf_cat_217"><a href="/Collections/Womens/Quest/">Quest</a></li>
+											<li id="leaf_cat_218"><a href="/Collections/Womens/Vision/">Vision</a></li>
+											<li id="leaf_cat_219"><a href="/Collections/Womens/Renaissance/">Renaissance</a></li>
+											<li id="leaf_cat_220"><a href="/Collections/Womens/Big-Mountain/">Big Mountain</a></li>
+											<li id="leaf_cat_221"><a href="/Collections/Womens/Venom/">Venom</a></li>
+											<li id="leaf_cat_222"><a href="/Collections/Womens/Active/">Active</a></li>
+											<li id="leaf_cat_224"><a href="/Collections/Womens/Layers/">Layers</a></li>
+											<li id="leaf_cat_225"><a href="/Collections/Womens/Accessories/">Accessories</a></li>
+											<li id="leaf_cat_260"><a href="/Collections/Womens/Race/">Race</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_226');">Boys Size 8-20</a>
+				            		<ul id="subcat_226" style="display: none">
+											<li id="leaf_cat_228"><a href="/Collections/Boys-Size-8-20/Legend/">Legend</a></li>
+											<li id="leaf_cat_229"><a href="/Collections/Boys-Size-8-20/Quest/">Quest</a></li>
+											<li id="leaf_cat_230"><a href="/Collections/Boys-Size-8-20/Rogue/">Rogue</a></li>
+											<li id="leaf_cat_231"><a href="/Collections/Boys-Size-8-20/Spawn/">Spawn</a></li>
+											<li id="leaf_cat_232"><a href="/Collections/Boys-Size-8-20/Xscap/">Xscap</a></li>
+											<li id="leaf_cat_233"><a href="/Collections/Boys-Size-8-20/Active/">Active</a></li>
+											<li id="leaf_cat_234"><a href="/Collections/Boys-Size-8-20/Layers/">Layers</a></li>
+											<li id="leaf_cat_235"><a href="/Collections/Boys-Size-8-20/Accessories/">Accessories</a></li>
+											<li id="leaf_cat_262"><a href="/Collections/Boys-Size-8-20/Race/">Race</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_236');">Girls Size 8-20</a>
+				            		<ul id="subcat_236" style="display: none">
+											<li id="leaf_cat_238"><a href="/Collections/Girls-Size-8-20/L-Series/">L-Series</a></li>
+											<li id="leaf_cat_239"><a href="/Collections/Girls-Size-8-20/Vision/">Vision</a></li>
+											<li id="leaf_cat_240"><a href="/Collections/Girls-Size-8-20/Antidote/">Antidote</a></li>
+											<li id="leaf_cat_241"><a href="/Collections/Girls-Size-8-20/Xscap/">Xscap</a></li>
+											<li id="leaf_cat_242"><a href="/Collections/Girls-Size-8-20/Active/">Active</a></li>
+											<li id="leaf_cat_244"><a href="/Collections/Girls-Size-8-20/Layers/">Layers</a></li>
+											<li id="leaf_cat_245"><a href="/Collections/Girls-Size-8-20/Accessories/">Accessories</a></li>
+											<li id="leaf_cat_261"><a href="/Collections/Girls-Size-8-20/Race/">Race</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_246');">Mini Boys Size 2-7</a>
+				            		<ul id="subcat_246" style="display: none">
+											<li id="leaf_cat_247"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Quest/">Mini Quest</a></li>
+											<li id="leaf_cat_248"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Spawn/">Mini Spawn</a></li>
+											<li id="leaf_cat_249"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Active/">Mini Active</a></li>
+											<li id="leaf_cat_250"><a href="/Collections/Mini-Boys-Size-2-7/Layers/">Layers</a></li>
+											<li id="leaf_cat_251"><a href="/Collections/Mini-Boys-Size-2-7/Accessories/">Accessories</a></li>
+									</ul>
+								</li>
+				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_252');">Bitsy Girls Size 2-7</a>
+				            		<ul id="subcat_252" style="display: none">
+											<li id="leaf_cat_253"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-L-Series/">Bitsy L-Series</a></li>
+											<li id="leaf_cat_254"><a href="/Collections/Bitsy-Girls-Size-2-7/Itsy-Bitsy/">Itsy Bitsy</a></li>
+											<li id="leaf_cat_255"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-Active/">Bitsy Active</a></li>
+											<li id="leaf_cat_256"><a href="/Collections/Bitsy-Girls-Size-2-7/Layers/">Layers</a></li>
+											<li id="leaf_cat_257"><a href="/Collections/Bitsy-Girls-Size-2-7/Accessories/">Accessories</a></li>
+									</ul>
+								</li>
+								<li id="leaf_cat_"><a href="/Collections/Bags/">Bags</a></li>
+				</ul>	
+	        </li>
+	    </ul>
+	    <script type="text/javascript">show_tree('', '', '');</script>
+	</div><!--/.sidenav-->
+	<script type="text/javascript">
+		function shorten_leftnav(){
+			if(shorten_leftnav_var == 'true'){
+				document.getElementById("sidenav").style.height = '640px';
+			}
+		}
+	</script>
+			</div><!--/.contentwrap -->
+<div class="footer">
+	<p class="links"><a href="/">Home</a>/<a href="/Site-Map.html">Site Map</a>/<a href="/YourPrivacy.html">Your Privacy</a>/<a href="http://www.facebook.com/spyderactivesports" target="_blank">Facebook</a>/<a href="http://twitter.com/iamspyder" target="_blank">Twitter</a></p>
+	<p class="copyright">Copyright © 2009 Spyder Active Sports, Inc. All Rights Reserved.</p>
+</div><!--/.footer-->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4865642-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+		</div><!--/.container-->  
+	
 
 </body></html>
