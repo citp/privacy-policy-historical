@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the oilandgasjobsearch.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629074856id_/http%3A//www.oilandgasjobsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilandgasjobsearch.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220150938id_/http%3A//www.oilandgasjobsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Oil and Gas Jobs Search - How we work
 
 This site, oilandgasjobsearch.com, is owned and operated by Oilandgasjobsearch.com Limited. Oilandgasjobsearch.com Limited is the data controller for the purpose of the Data Protection Act 1998.
 
-This policy together with our [terms and conditions](http://www.oilandgasjobsearch.com/termsandconditions.aspx) and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
+This policy together with our [ terms and conditions](http://www.oilandgasjobsearch.com/termsandconditions.aspx) and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
 Please read the following carefully to understand our practices regarding your personal data and how we will treat it. If you do not agree to our processing of your data in the manner set out below, please do not submit any personal data to us.
 
- **INFORMATION WE MAY COLLECT FROM YOU**
+**INFORMATION WE MAY COLLECT FROM YOU**
 
 We may collect and process the following data about you:
 
@@ -24,7 +24,7 @@ We may collect and process the following data about you:
 
 You consent to us using the information provided by you (including, without limitation, sensitive personal data) in order to facilitate the recruitment process on your behalf and in accordance with the terms of this privacy policy. While we will not ordinarily seek any “sensitive personal data” (e.g. data relating to health/disabilities, race/ethnicity, trade union membership, criminal convictions) from candidates, if you choose to provide any such data to us, you are giving us your explicit consent to the processing of such data in accordance with this privacy policy.
 
- **USES MADE OF THE INFORMATION**
+**USES MADE OF THE INFORMATION**
 
 We use information held about you in the following ways:
 
@@ -40,7 +40,7 @@ We may also use your data, or permit selected third parties to use your data, to
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users.
 
- **DISCLOSURE OF YOUR INFORMATION**
+**DISCLOSURE OF YOUR INFORMATION**
 
 We make your personal information available to agencies and employers who subscribe with us or use our Website, who may then use that information to contact you by email, telephone, post, fax or SMS.
 
@@ -54,7 +54,7 @@ We may disclose your personal information to third parties:
 
 · If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions to and other agreements; or to protect the rights, property, or safety of Oilandgasjobsearch.com Limited, our customers, or others.
 
- **IP ADDRESSES AND COOKIES**
+**IP ADDRESSES AND COOKIES**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers or to agencies or employers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
@@ -62,7 +62,7 @@ For the same reason, we may obtain information about your general internet usage
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
- **WHERE WE STORE YOUR PERSONAL DATA**
+**WHERE WE STORE YOUR PERSONAL DATA**
 
 All information you provide to us is stored on our secure servers.    Where you have chosen a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -70,21 +70,21 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
- **YOUR RIGHTS**
+**YOUR RIGHTS**
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right at any time by contacting us at info@oilandgasjobsearch.com
 
 Our site may, from time to time, contain links to and from the websites of our partner agencies and employers, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
- **ACCESS TO INFORMATION**
+**ACCESS TO INFORMATION**
 
 The Data Protection Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
- **CHANGES TO OUR PRIVACY POLICY**
+**CHANGES TO OUR PRIVACY POLICY**
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
- **CONTACT**
+**CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@oilandgasjobsearch.com[  
 ](mailto:info@constructionjobsearch.co.uk)
