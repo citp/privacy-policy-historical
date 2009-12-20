@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618165212id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220051116id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Chords Tabs Lyrics | GuitarTutee | Guitar Tutorial Videos, Chords, Tabs, Lyrics. Sing With Us.
 
