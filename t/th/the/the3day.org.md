@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the the3day.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213545id_/http%3A//www.the3day.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the3day.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221004302id_/http%3A//www.the3day.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Welcome to the Breast Cancer 3-Day: Privacy Policy
-
-| 
+# Welcome to the Susan G. Komen 3-Day for the Cure: Privacy Policy
 
  
 
@@ -170,5 +168,4 @@ You can also send an email to: [coaches@the3day.org](mailto:coaches@the3day.org 
 POSTED: 04/10/2009
 
   
-|  |   
----|---|---|---
+
