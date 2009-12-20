@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthdaily.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200406id_/http%3A//www.wealthdaily.com/subscription/manage/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthdaily.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132926id_/http%3A//www.wealthdaily.com/subscription/manage/%23privacy) for the most accurate reproduction.*
 
 # Wealth Daily - Subscription Management
 
@@ -31,7 +31,7 @@ If you received a mailing from us, either a) your email address is listed with u
   * **What's your policy regarding sharing and usage?**   
 We will never share, sell, or rent individual personal information to/with anyone without your advance permission unless ordered by a court of law. Information submitted to us is only available a) to employees managing this information for the purpose of contacting you regarding your subscription or a request made by you for information, or b) to contracted service providers for the purpose of providing services relating to our communications with you. 
   * **Third-Party Web Beacons**   
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com). 
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm). 
   * **How do you protect my privacy?**   
 We employ security measures above and beyond industry standards to protect against the loss, misuse or alteration of your personal data. 
   * **How can I stop receiving email from you?**   
