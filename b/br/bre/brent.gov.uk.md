@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620054949id_/http%3A//www.brent.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221001740id_/http%3A//www.brent.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -6,7 +6,7 @@
 
 This site is owned, managed and run by Brent Council.
 
-Our privacy policy covers The London Borough of Brent and its website only.  Should you have any queries about the site, you can contact us by writing to The Web Manager at The London Borough of Brent, Town Hall, Forty Lane, Wembley, Middlesex, United Kingdom, HA9 9HD, or by email at [webmanager@brent.gov.uk](mailto:webmanager@brent.gov.uk)
+Our privacy policy covers The London Borough of Brent and its website only.  Should you have any queries about the site, you can contact us by writing to The Web Manager at The London Borough of Brent, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ, or by email at [webmanager@brent.gov.uk](mailto:webmanager@brent.gov.uk)
 
  **Accessing Brent's website**   
 You can access our website home page and browse our site without disclosing your personal data, obtaining information about Brent Council services and activities.  Our website enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect information about you.
@@ -46,7 +46,7 @@ We ensure that your personal data will not be disclosed to government institutio
 The use of Brent Council's email system may be monitored and communications read in order to secure effective operation of the system and for other lawful purposes.
 
  **Asking us for information we may hold about you**   
-You can ask us for information we may hold about you by sending postal mail to The Data Protection Officer, Room 103, The London Borough of Brent, Town Hall, Forty Lane, Wembley, Middlesex, United Kingdom, HA9 9HD.  We will inform you within 40 days if we store any personal information about you.
+You can ask us for information we may hold about you by sending postal mail to The Data Protection Officer, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ.  We will inform you within 40 days if we store any personal information about you.
 
 You may also write to the above address to request a copy of your information and we will provide you with a legible copy of the personal data which we keep about you and to which you are entitled.  This will be sent to you within 40 days of your request- although we may require proof of your identity and information to locate your personal data.
 
@@ -55,13 +55,13 @@ We will provide the information without any charge.
 **Privacy compliance**   
 We will treat any personal information by which you can be identified (i.e. name, address, email and the like) in accordance with the provisions of the Data Protection Act of 1998.If you have an enquiry or concern regarding the processing of personal data by Brent Council, please contact:
 
-The Data Protection Officer, Room 103, The London Borough of Brent, Town Hall, Forty Lane, Wembley, Middlesex, United Kingdom, HA9 9HD
+The Data Protection Officer, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ.
 
 Or you can send your request by email to: [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk)
 
 If you are not satisfied with our response to your concern: you may wish to contact [complaints online](https://web.archive.org/OSS.nsf/62b8de57600a6898802566140061dec8?OpenForm "Complaint online form") or at [The One Stop Service](https://web.archive.org/OneStop.nsf/Pages/LBB-12 "Information on the OneStop Service")
 
-Alternatively, you can contact the Information Commissioner, Wycliffe House, Water Lane, WILMSLOW, Cheshire, CK9 5AF or view the website <http://www.informationcommissioner.gov.uk/> 
+Alternatively, you can contact the Information Commissioner, Wycliffe House, Water Lane, WILMSLOW, Cheshire, CK9 5AF or view the website [www.informationcommissioner.gov.uk/](http://www.informationcommissioner.gov.uk/ "Information Commissioner - Link opens in a new window") 
 
   
 Further information can be found on: [July 2008 explanatory leaflet](https://web.archive.org/home.nsf/Files/LBBA-9/$FILE/DPL%20Final%20-%20July%202008.pdf "This document provides an update on how Brent Council works to comply with the Data Protection Act") (.pdf, 75Kb)
@@ -126,4 +126,4 @@ If you are connected to the Internet you have one, for example it may look somet
 **Web server**  
 Delivers (serves up) web pages to your computer.
 
-Updated 04/24/2009 05:31:23 PM
+Updated 04/24/2009 05:27:11 PM
