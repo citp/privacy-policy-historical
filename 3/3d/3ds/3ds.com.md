@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3ds.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085749id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ds.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132834id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dassault Systèmes
 
@@ -17,7 +17,7 @@ _The purpose of the Privacy Policy is to inform You about:_
 
 
 
-### 1\. SCOPE OF THIS PRIVACY POLICY
+**1\. SCOPE OF THIS PRIVACY POLICY**
 
 This Privacy Policy applies to Personal Data collected on or through the 3DS.COM website  concerning the Site's visitors and users, including customers ("User(s)", "You" or "Your"). 
 
@@ -27,7 +27,7 @@ Non-Personal Data means any information which does not result in the identificat
 
 The 3DS Terms of Use, which can be found at <http://www.3ds.com/terms-of-use>, are incorporated into this Privacy Policy. Your use of the Site and any Personal Data You provide on the Site are subject to the terms of this Privacy Policy and those 3DS Terms of Use 
 
-### 2\. DATA COLLECTED
+**2\. DATA COLLECTED**
 
 In order to use certain functions and features of the Site, such as subscription to one or more of DS programmes (e-mail service, creating an account or purchasing products), the following Personal Data is collected:
 
@@ -57,11 +57,11 @@ DS collects such personal information, as well as other information:
 
 You are free to decide whether or not to provide Your Personal Data. However, if You choose not to provide this Personal Data, some areas and functions of the Site may not function properly and/or You may be refused access to certain pages on the Site. In particular, You will not be authorised to purchase products via the Site. 
 
-### 3\. PROTECTION OF PERSONAL DATA CONCERNING CHILDREN
+**3\. PROTECTION OF PERSONAL DATA CONCERNING CHILDREN**
 
 DS affirms its commitment to the protection of the Personal Data of children. In this respect, DS does not knowingly collect, conserve or store Personal Data or Non-Personal Data of children under 18 years of age. Moreover, no part of the Site is directed to children under 18 years of age. 
 
-### 4\. METHODS AND AIMS OF COLLECTION, PROCESSING AND STORAGE OF PERSONAL DATA
+**4\. METHODS AND AIMS OF COLLECTION, PROCESSING AND STORAGE OF PERSONAL DATA**
 
 We As stated above, You provide your Personal Data on a voluntary basis. 
 
@@ -86,11 +86,11 @@ Cookies are text files stored by the Site User's browser software on the User's 
 
 DS uses cookies to: (a) remember information so that You will not have to re-enter it during Your visit or the next time You visit the Site; (b) monitor aggregate metrics as total number of visitors, pages viewed, etc. 
 
-### 5\. PERSONAL DATA STORAGE TERM
+**5\. PERSONAL DATA STORAGE TERM**
 
 The All Personal Data that has been collected will be stored for a limited duration that is relevant to the purpose of such collection and for so long as required by applicable law. 
 
-### 6\. LINKS TO WEBSITES NOT CONTROLLED BY DS
+**6\. LINKS TO WEBSITES NOT CONTROLLED BY DS**
 
 This Site offers links to third party Websites which may be of interest to You. 
 
@@ -102,7 +102,7 @@ DS does not exercise any control over the content of third party Websites or the
 
 DS invites You to inform yourself as to these third parties' privacy policies. 
 
-### 7\. TRANSFER OF PERSONAL DATA
+**7\. TRANSFER OF PERSONAL DATA**
 
 If You are accessing the Site from a location outside of the European Union, with laws or regulations governing data collection, use, and disclosure that differ from European Union, please note that through Your continued use of the Site, which is governed by French law, this Privacy Policy and the 3DS Terms of Use, You are transferring your Personal Data to the European Union and You consent to that transfer. 
 
@@ -114,17 +114,17 @@ Where DS has knowledge that a third party to which DS has provided personal date
 You will have the opportunity to decide whether You authorize DS to use Your Personal Data for a purpose differing from the purpose for which it was originally collected.  
 DS will also disclose Personal Data to third parties if DS determines that such disclosure is necessary for technical reasons (such as hosting services by a third party) or to protect DS’s legal interests (such as in the event of acquisition or merger by a third company or total or partial liquidation of DS).). These transfers may be transmitted over the internet, via mail, via facsimile, or by any other method which DS determines is appropriate and in accordance with applicable law. 
 
-### 8\. RIGHT OF ACCESS TO AND RECTIFICATION OF THE DATA
+**8\. RIGHT OF ACCESS TO AND RECTIFICATION OF THE DATA**
 
 DS will take reasonable steps to ensure that the Personal Data collected is used for the purposes stated in this Privacy Policy and that such Personal Data is correct and up to date.. 
 
 You have a right to access your Personal Data, as well as a right to request the rectification, completion, update or erasure of your Personal Data. You also have a right to obtain a copy of the Personal Data conserved by DS. 
 
-If You have an account, You can exercise your rights of access to and rectification of the Personal Data by logging on to your account. Otherwise, You may exercise your rights of access to and rectification of the data by sending an e-mail to the following address: DS.PrivacyPolicy@3ds.com. 
+If You have an account, You can exercise your rights of access to and rectification of the Personal Data by logging on to your account. Otherwise, You may exercise your rights of access to and rectification of the data by sending an e-mail to the following address: DS.PrivacyPolicy(at)3ds.com. 
 
 Depending on the scope of the request, DS reserves the right to charge a reasonable fee to cover any out-of-pocket costs incurred in connection with such access, modification and deletion of Personal Data.  DS may deny access to Personal Data in limited circumstances, defined by applicable laws and regulations. 
 
-### 9\. DATA SECURITY
+**9\. DATA SECURITY**
 
 DS undertakes to ensure the protection and security of Personal Data that You choose to communicate, in order to ensure the confidentiality of your Personal Data and prevent your Personal Data from being distorted, damaged, destroyed or disclosed to unauthorised parties. 
 
@@ -134,20 +134,20 @@ Since all Personal Data is confidential, access is limited to employees, contrac
 
 However, it is important for You to exercise caution to prevent unauthorised access to Your Personal Data.. You are responsible for the confidentiality of your password and information appearing on Your account. Consequently, You must ensure that You log out of your session in the event of shared use of a computer. 
 
-### 10\. DISPUTE RESOLUTION
+**10\. DISPUTE RESOLUTION**
 
 Although DS has put in place reasonable safeguards to protect Personal Data, we recognize that there is no method of transmitting or storing Personal Data that is completely secure.   
-However, DS is committed to ensure the privacy of Personal Data: if You have a reason to believe that the security of Your Personal Data has been compromised or misused, You should contact DS via the following address: DS.PrivacyPolicy@3ds.com.  
+However, DS is committed to ensure the privacy of Personal Data: if You have a reason to believe that the security of Your Personal Data has been compromised or misused, You should contact DS via the following address: DS.PrivacyPolicy(at)3ds.com.  
 DS will investigate and attempt to resolve complaints regarding use and disclosure of Personal Data in accordance with the principles contained in this Privacy Policy.  If the matter is not resolved through internal DS procedures, in applicable jurisdictions, you may then report directly to the local Data Protection Authority (e.g., in France: the C.N.I.L.) which has jurisdiction over the matter.  
 Unauthorised access to Personal Data or the improper use of Personal Data may constitute offences under local law and under the regulations in force within each company in the DS group. 
 
-### 11\. CONTACT
+**11\. CONTACT**
 
-For any additional question concerning this Privacy Policy, You may send an e-mail to the following address: DS.PrivacyPolicy@3ds.com. 
+For any additional question concerning this Privacy Policy, You may send an e-mail to the following address: DS.PrivacyPolicy(at)3ds.com. 
 
-### 12\. DATE OF ENTRY INTO FORCE OF THE PRIVACY POLICY AND CHANGES TO IT
+**12\. DATE OF ENTRY INTO FORCE OF THE PRIVACY POLICY AND CHANGES TO IT**
 
 This Privacy Policy is communicated to all users of the Site.  
 It may be updated according to DS' requirements and circumstances, or where required by law. 
 
-Last modification: This Privacy Policy was modified on January _2008._
+Last modification: _This Privacy Policy was modified on January 2008._
