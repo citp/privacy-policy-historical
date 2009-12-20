@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224051312id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220121604id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
 
 # Privacy Policy - Astrocenter.com
 
-   
-**Astrocenter Privacy Policy** | previous page   
-  
-   
-   
-  
 Astrocenter.com, Inc. ("we" or "Astrocenter") has created this privacy policy to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on our web site. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. This statement below outlines the privacy practices for Astrocenter.com and is incorporated into and subject to the terms and conditions of our Terms of Service. 
 
 **I. INFORMATION COLLECTED**  
