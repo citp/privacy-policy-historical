@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620075925id_/http%3A//www.globalenglish.com/m/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220051421id_/http%3A//www.globalenglish.com/m/privacy) for the most accurate reproduction.*
 
 # GlobalEnglish - Privacy Statement
 
