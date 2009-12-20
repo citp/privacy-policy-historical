@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604022458id_/http%3A//zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220222239id_/http%3A//zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
@@ -14,7 +14,7 @@ Zamzar is registered in England as a limited company (number 6463494).
 
 
   
-Zamzar is registered with the UK [Information Commissioner’s Office (ICO)](http://www.ico.gov.uk/) in the [Register of Data Controllers](http://www.ico.gov.uk/tools_and_resources/register_of_data_controllers.aspx) as required by the UK's 1998 Data Protection Act. The entry in the register is available for public inspection to help ensure transparency and openness in the processing of your data.
+Zamzar is registered with the UK [Information Commissioner’s Office (ICO)](http://www.ico.gov.uk/) in the [Register of Data Controllers](http://www.ico.gov.uk/tools_and_resources/register_of_datacontrollers.aspx) as required by the UK's 1998 Data Protection Act. The entry in the register is available for public inspection to help ensure transparency and openness in the processing of your data.
 
   
 For each visitor to our Web page, IP addresses are logged and used by Zamzar for measuring usage. 
