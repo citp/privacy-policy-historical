@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140102id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220042508id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Digest
 
@@ -9,7 +9,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 Server level tracking is performed. No user profiles are kept. Only aggregate data is collected. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some advertisers are part of the Network Advertising Initiative, which provides [opt-out](http://www.networkadvertising.org/managing/opt_out.asp) functionality to opt-out of behavioral advertising delivered bythese advertisers and agencies. 
 
 The usage of this web site optionally requires user accounts, which again optionally allows personal information to be entered and stored at the user's command. 
 
@@ -24,7 +24,6 @@ This site has security measures in place to protect the loss, misuse, and altera
 |   
   
 [About Digital Digest](http://www.digital-digest.com/page.php?file=about "About Digital
-Digest") | [Help](http://www.digital-digest.com/help.php "Help") | [Links](http://www.digital-digest.com/page.php?file=links "Links") | [Link to us](http://www.digital-digest.com/page.php?file=link-to-us "Link to
-us") | [Newsletter](http://www.digital-digest.com/newsletter/ "Newsletter") | [Privacy](http://www.digital-digest.com/page.php?file=policy "Privacy") | [Submissions](http://www.digital-digest.com/page.php?file=submit "Submissions") | [Sitemap](http://www.digital-digest.com/sitemap.php "Sitemap")
+Digest") | [Help](http://www.digital-digest.com/help.php "Help") | [Newsletter](http://www.digital-digest.com/newsletter/ "Newsletter") | [Privacy](http://www.digital-digest.com/page.php?file=policy "Privacy") | [Submissions](http://www.digital-digest.com/page.php?file=submit "Submissions") | [Sitemap](http://www.digital-digest.com/sitemap.php "Sitemap")
 
-© Copyright 1999-2008 Digital Digest. Duplication of links or content is strictly prohibited.
+© Copyright 1999-2009 Digital Digest. Duplication of links or content is strictly prohibited.
