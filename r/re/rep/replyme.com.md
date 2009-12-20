@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replyme.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034531id_/http%3A//replyme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replyme.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220094423id_/http%3A//replyme.com/privacy.php) for the most accurate reproduction.*
 
 # Replyme.com
 
@@ -23,25 +23,25 @@ Our commitment to the privacy protection of our clients, both online and offline
 
 ## [Holiday Out](https://web.archive.org/search.php?q=Holiday%20out)
 
-[Directories](https://web.archive.org/search.php?q=directories), [Clothing](https://web.archive.org/search.php?q=clothing), [Ethnic And Regional](https://web.archive.org/search.php?q=ethnic%20and%20regional), [Publications](https://web.archive.org/search.php?q=publications), [Vehicles](https://web.archive.org/search.php?q=vehicles)...   
+[By Region](https://web.archive.org/search.php?q=by%20region), [Home And Garden](https://web.archive.org/search.php?q=home%20and%20garden), [Sports](https://web.archive.org/search.php?q=sports), [Entertainment](https://web.archive.org/search.php?q=entertainment), [Toys And Games](https://web.archive.org/search.php?q=toys%20and%20games)...   
 
 
 ## [New Types Of Art](https://web.archive.org/search.php?q=New%20types%20of%20Art)
 
-[People](https://web.archive.org/search.php?q=people), [Awards](https://web.archive.org/search.php?q=awards), [Online Writing](https://web.archive.org/search.php?q=online%20writing), [Organizations](https://web.archive.org/search.php?q=organizations), [Writers Resources](https://web.archive.org/search.php?q=writers%20resources)...   
+[Periods And Movements](https://web.archive.org/search.php?q=periods%20and%20movements), [People](https://web.archive.org/search.php?q=people), [Comics](https://web.archive.org/search.php?q=comics), [Music](https://web.archive.org/search.php?q=music), [Entertainment](https://web.archive.org/search.php?q=entertainment)...   
 
 
 ## [Latest Inventions](https://web.archive.org/search.php?q=Latest%20Inventions)
 
-[Artificial Life](https://web.archive.org/search.php?q=artificial%20life), [Desktop Publishing](https://web.archive.org/search.php?q=desktop%20publishing), [Parallel Computing](https://web.archive.org/search.php?q=parallel%20computing)...   
+[Home Automation](https://web.archive.org/search.php?q=home%20automation), [Programming](https://web.archive.org/search.php?q=programming), [History](https://web.archive.org/search.php?q=history)...   
 
 
 ## [World Trading](https://web.archive.org/search.php?q=World%20Trading)
 
-[Healthcare](https://web.archive.org/search.php?q=healthcare), [Opportunities](https://web.archive.org/search.php?q=opportunities), [Automotive](https://web.archive.org/search.php?q=automotive), [Human Resources](https://web.archive.org/search.php?q=human%20resources), [Arts And Entertainment](https://web.archive.org/search.php?q=arts%20and%20entertainment)...   
+[Automotive](https://web.archive.org/search.php?q=automotive), [Information Technology](https://web.archive.org/search.php?q=information%20technology), [Real Estate](https://web.archive.org/search.php?q=real%20estate), [Resources](https://web.archive.org/search.php?q=resources), [Textiles And Nonwovens](https://web.archive.org/search.php?q=textiles%20and%20nonwovens)...   
 
 
 ## [Active Life](https://web.archive.org/search.php?q=Active%20life)
 
-[Senior Health](https://web.archive.org/search.php?q=senior%20health), [Services](https://web.archive.org/search.php?q=services), [Animal](https://web.archive.org/search.php?q=animal), [Pharmacy](https://web.archive.org/search.php?q=pharmacy), [Teen Health](https://web.archive.org/search.php?q=teen%20health), [Support Groups](https://web.archive.org/search.php?q=support%20groups)...   
+[Dentistry](https://web.archive.org/search.php?q=dentistry), [Professions](https://web.archive.org/search.php?q=professions), [Nutrition](https://web.archive.org/search.php?q=nutrition), [Search Engines](https://web.archive.org/search.php?q=search%20engines), [Fitness](https://web.archive.org/search.php?q=fitness), [Addictions](https://web.archive.org/search.php?q=addictions)...   
 
