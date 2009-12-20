@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230111524id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221004632id_/http%3A//info.hktdc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement TDC (tdctrade.com)
+# Privacy Policy Statement TDC (hktdc.com)
 
 We take individual privacy seriously. This Statement explains our policies and practices. 
 
@@ -31,11 +31,11 @@ We only retain personal data for so long as it is necessary. However a copy may 
 The purposes for which information may be used by us in and outside Hong Kong include:
 
   * processing applications
-  * providing services to facilitate trade between Hong Kong and overseas, and providing enquirers with contact and business information
+  * providing services to facilitate trade between Hong Kong and overseas (or otherwise), and providing enquirers with contact and business information
   * our operations, e.g., incorporation into our database, analysis, research and auditing
-  * notification of HKTDC trade fairs in Hong Kong and promotional events or trade fairs around the world
-  * distribution of HKTDC publications and research materials
-  * marketing HKTDC services or products
+  * notification of HKTDC trade fairs in Hong Kong and promotional events or trade fairs around the world (and similar events or trade fairs organized by our business partners and counterparts)
+  * distribution of HKTDC publications and research materials (and those of our business partners and counterparts)
+  * marketing HKTDC services or products (and those of our business partners and counterparts)
   * complying with laws in or outside Hong Kong 
   * legal proceedings, including collecting overdue amounts 
   * other related purposes.
@@ -85,7 +85,7 @@ Hyperlinks to other websites are provided for your convenience. You will leave o
   
 **7.** | **Changes**
 
-We may update this Statement. When we do, the changes will be posted on [www.tdctrade.com/privacy/index.htm](http://www.tdctrade.com/privacy/index.htm).  
+We may update this Statement. When we do, the changes will be posted on [info.hktdc.com/privacy/index.htm](http://info.hktdc.com/privacy/index.htm).  
   
 **8.** | **Your consent and rights**
 
