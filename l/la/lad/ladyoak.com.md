@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyoak.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191758id_/http%3A//ladyoak.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyoak.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220063234id_/http%3A//ladyoak.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -60,7 +60,7 @@ We may use your personal information to:
 
 [(j)       deal with enquiries and complaints made by or about you relating to the website;
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.[](http://ladyoak.com/privacy.html#_ftn10 "_ftnref10")
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.[](http://ladyoak.com/#_ftn10 "_ftnref10")
 
 ### (4)        Other disclosures
 
