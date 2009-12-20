@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420023037id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220071140id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
 
-# Crankyape.com Totaled motorcycles, snowmobiles, boats, cars, trucks, atvs, trailers, travel trailers, motorhomes, rvs, fifth wheels.
+# Crankyape.com Bank repo rvs, motorcycles, snowmobiles, atvs, boats, trucks, trailers, go karts, jet skis, sleds, fourwheelers, trailers, motorhomes, rvs.
 
 | 
 
@@ -46,7 +46,7 @@
   * [  Hours &  
   Directions](http://www.crankyape.com/default.asp?pg=hours-information)
   * [  Tour our facility](http://www.crankyape.com/default.asp?pg=Tour)
-  * [  Work for us](http://www.crankyape.com/default.asp?pg=Careers)
+  * [  Work for us](http://www.applicantstack.com/client/crankyape/x/openings)
   * [  News](http://www.crankyape.com/default.asp?pg=News)
 
   
