@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185732id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021622id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
 
 # BigBlueBall.com Privacy Policy | BigBlueBall
 
@@ -12,8 +12,8 @@ This is the web site of **BigBlueBall.com**.
 
 Our postal address is:
 
-> PO BOX 6924  
->  Laguna Niguel, CA 92677
+> 117 W Mariposa, #B  
+>  San Clemente, CA 92672
 
 We can be reached via e-mail at jeff.hester@bigblueball.com or you can reach us by telephone at (949) 374-3960.
 
@@ -38,7 +38,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, writing us at the above address.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, writing us at the above address, or visiting the NAI’s opt-out page at [http://www.networkadvertising.org/managing/opt_out.asp](http://news.valueclickmedia.com/rd4/ck/13205-82055-17336-8?m=4-366&e=hjb3fbbdea4).
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them, no information that we have collected and that we maintain about them.
 
