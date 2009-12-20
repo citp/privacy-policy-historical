@@ -1,0 +1,547 @@
+<!--The following is the downloaded HTML source of the homeqn.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220104325id_/http%3A//www.homeqn.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+	<title>Privacy Policy - Homeqn: Homeqn</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="title" content="Privacy Policy - Homeqn: Homeqn">
+	<meta name="subject" content="Lifestyle">
+	<meta name="language" content="en">
+	<meta name="keywords" content="bathroom, Bathroom Furnishing, Bedroom, furniture, Home Accessory, home decor, Home Design, Home Furnishing, Home Furnishings, home furniture, Home Interior, House design, housing, kitchen, lamp, Lifestyle, Lighting, lights, real estate, Table">
+	<meta name="description" content="Homeqn">
+	<link rel="alternate" href="http://www.homeqn.com/rss.xml" type="application/rss+xml" title="Homeqn's RSS Feed">
+	<link rel="alternate" href="http://www.instablogs.com/feed/blog=Homeqn" type="application/rss+xml" title="Homeqn's RSS Feed (Instablogs Community)">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	
+	<style type="text/css">
+	  @import url(/style.css);
+	</style>
+	
+	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
+	<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
+	<script type="text/javascript">
+
+
+		function on_blur()
+		{
+			if(document.getElementById('nav-search').value == "")
+			{
+			document.getElementById('nav-search').value = "search here...";
+			document.getElementById('nav-search').style.color = "#999";
+			}
+		}
+
+
+		function on_focus()
+		{
+			document.getElementById('nav-search').value = "";
+			document.getElementById('nav-search').style.color = "#444";
+		}
+
+		function network_down(network_head_id)
+		{
+			var	flag=$('blog_network-'+network_head_id);
+			var x;			
+			for (x = 0; x < 10; x++)
+			{
+				if(x == network_head_id && flag.style.display=="none")
+					Effect.BlindDown('blog_network-'+x,{duration:0.5});
+				else
+					Effect.BlindUp('blog_network-'+x,{duration:0.5});
+			}
+		}
+
+		function open_reply_comment(comment_id, comment_type)
+		{
+			var div = document.getElementById('reply-comment-' + comment_type+comment_id);
+			if(div.style.display=='block')
+			{
+				div.style.display='none';
+			}
+			else
+			{
+				div.style.display='block';
+			}
+		}
+
+		function show_comments(id)
+		{
+			var div = document.getElementById(id);
+			
+			if(id=='global-local-comments')
+			{
+				div.style.display='block';
+				document.getElementById('normal-comments').style.display='none';
+				YAHOO.util.Dom.addClass('g', 'head-current'); 
+				YAHOO.util.Dom.removeClass('n', 'head-current');
+			}
+			
+			if(id=='normal-comments')
+			{
+				div.style.display='block';
+				document.getElementById('global-local-comments').style.display='none';
+				YAHOO.util.Dom.addClass('n', 'head-current'); 
+				YAHOO.util.Dom.removeClass('g', 'head-current');
+			}
+		}
+
+		function lightboxImageOn(image_id, Image_title)
+		{
+			var comment_image = 'comment_image';
+			var Image_title = "Image uploaded by - " + Image_title;
+			var div = document.getElementById('lb-edit');
+			var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+		
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+			var black = document.getElementById('fade');
+			black.style.display = 'block';
+
+			div.style.display = 'block';
+			window.scrollTo(0,0);
+		}
+
+		function lightboxVideoOn(video_id, You_Tube_title)
+		{
+			var video='video';
+			var You_Tube_title = "Video uploaded by - " + You_Tube_title;
+			var div = document.getElementById('lb-edit');
+			var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+		
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+
+			var black = document.getElementById('fade');
+			black.style.display = 'block';
+
+			div.style.display = 'block';
+			window.scrollTo(0,0);
+		}
+
+		function lightboxoff1(id)
+		{
+			var light = document.getElementById(id);
+			light.style.display = 'none';
+		}
+	</script>
+
+</head>
+
+<body>
+	<script type="text/javascript" src="/js/prototype.js"></script>
+
+	<div id="container">
+	<div style="height:1px;"> </div>
+		
+						<div id="small-header">
+				<div class="small-logo"><img src="/css-img/header.jpg" border="0" alt=""></div><!-- EOF small-logo -->
+					<div class="small-ad-top">
+						<script type="text/javascript"><!--
+google_ad_client = "pub-9415440757655812";
+/* Homequotient, Header 728x90, created 5/26/09 */
+google_ad_slot = "2262516421";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+						<div style="padding:5px 0;text-align:center;padding-bottom:15px;">
+							<script type="text/javascript"><!--
+google_ad_client = "pub-9415440757655812";
+/* Homequotient, Header 728x15, created 5/28/09 */
+google_ad_slot = "2142619149";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>						</div>
+					</div><!-- EOF #ad-top --> 
+
+				<div class="logo"> <a href="/" title="Home"><h1>Homeqn</h1></a> </div>
+
+			</div><!-- EOF small-header --> 
+			<div class="clear"></div>
+			
+			<div class="extra-ads"></div>
+
+		
+		<div id="content">
+			<div id="content-box">
+				
+		
+				<div class="privacy-content-main">						
+					<div class="privacy-title">Privacy Policy</div> 
+
+					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
+
+					<div>Information Collection</div>
+
+					<p>Instablogs Network is the sole owner of the information collected on the Instablogs Sites. Instablogs Network may collect information from our users at several different points on the Instablogs Sites.</p>
+
+					<div>Comments</div>
+					<p>In order to enhance their use of the Instablogs Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
+
+					<div>Mailing List</div>
+
+					<p>Instablogs Network may launch a mailing list for some or all of the Instablogs Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.</p>
+
+					<div>Discussion Group and Cookies</div>
+					<p>In order to further enhance the user experience, Instablogs Network may launch a discussion board service on some or all of the Instablogs Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Instablogs Network will not pass this information to any other organization except in aggregate form.</p>
+
+					<p>The discussion board service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
+
+					<p>By setting a cookie on a Instablogs Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Instablogs Network products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Instablogs Network services require that you accept cookies.</p>
+
+					<div>Third Party Cookies</div>
+					<p>Some of our business partners may use cookies on our site (for example, advertisers). However, Instablogs Network has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Instablogs Network only and does not cover the use of cookies by any advertisers.</p>
+
+					<div>Third Party Advertising</div>
+					<p>The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.</p>
+
+					<div>Log Files
+					</div><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p>
+
+					<div>Legal Disclaimer</div>
+					<p>Though we make every effort to preserve user privacy, Instablogs Network may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Instablogs Sites.</p>
+
+					<div>Business Transitions</div>
+					<p>In the event Instablogs Network goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
+
+					<div>Links</div>
+
+					<p>The Instablogs Sites contain links to other sites. Please be aware that Instablogs Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Instablogs Network.</p>
+
+					<div>Notification of Changes</div>
+					<p>Whenever Instablogs Network changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+
+					<div>Contact Information</div>
+					<p>If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Instablogs Site in question, or send an email to info AT instablogs.com, or by mail to: 
+					<br>Instablogs, III Floor,
+					<br>STPI, Block No. 24, 
+					<br>SDA Complex, Kasumpati, 
+					<br>Shimla, India.
+					
+					</p>
+
+
+
+				</div><!-- EOF #content-main -->
+
+				
+			
+			</div><!-- EOF #content-box -->
+
+			<!--INFOLINKS_OFF--><div id="content-sidebar">
+	
+		
+<div class="clear"></div>
+<div class="border"></div>
+		
+<script>
+	function toggle_div(id)
+	{
+		var divid= document.getElementById(id);
+		if(divid.style.display == 'none')
+			divid.style.display = 'block';
+		else
+			divid.style.display = 'none';
+	}
+</script>
+
+	<div class="side-ads" style="margin-left:20px; padding-bottom:10px; margin-right:10px;"><!-- begin ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<iframe src="http://d2.zedo.com/jsc/d2/ff2.html?n=1140;c=26;s=35;d=9;w=300;h=250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe>
+<!-- end ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Medium Rectangle - 300 x 250 --></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+<div class="clear"></div>
+<div class="gd-banner"><a href="http://www.bornrich.org/entry/christmas-gift-guide-2009/"><img src="/css-img/banner_gizmowatch_all.gif"></a></div>
+
+<div class="inner-sidebars">
+	<div class="inner-sidebar1">
+
+<div class="side-ads" style="margin-bottom:10px"></div><div class="clear"></div>	
+	<div style="padding-bottom:10px;text-align:center;">
+		<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
+	</div>
+
+<div class="side-ads"></div><div class="clear"></div>
+<div class="market-place">
+	<h2>Instablogs Club</h2>
+	<div class="club-data">
+	<div class="club-top-title"><a href="http://www.nampblog.com/2009/12/improve-n97s-memory-with-nokias-memory.html">Improve N97's Memory with Nokia's Memory Reorganizer Application</a><span> (<a href="http://www.nampblog.com">NAMP Blog</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/glow-in-the-dark-odd-pods-cacti-pals/13592">Glow in the Dark Odd Pods Cacti Pals</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/vinturi-essential-wine-aerator/13589">Vinturi Essential Wine Aerator</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/m-6-speedster/13586">M-6 Speedster</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/closet-annex/13583">Closet Annex</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/sa-eng-t-1-day-4-stumps-hashim-uplifts-sa-to-power-even-as-storm-threat-remains/"><img src="http://www.instablogsimages.com/images/2009/12/19/hashim-amla-james-anderson_fLJdv_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/sa-eng-t-1-day-4-stumps-hashim-uplifts-sa-to-power-even-as-storm-threat-remains/">SA Eng T 1 Day 4 Stumps: Hashim Uplifts SA to Power even as Storm Threat Remains</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/aus-wi-t-3-day-4-stumps-aus-on-verge-of-series-win-over-feisty-caribbean-counterparts/"><img src="http://www.instablogsimages.com/images/2009/12/19/brendon-nash_Z9OqG_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/aus-wi-t-3-day-4-stumps-aus-on-verge-of-series-win-over-feisty-caribbean-counterparts/">Aus Wi T 3 Day 4 Stumps: Aus on Verge of Series Win Over Feisty Caribbean Counterparts</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div>	</div>
+	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
+</div><div class="side-ads"></div><div class="clear"></div><div class="clear"> </div>
+	<div class="border"></div>
+	<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div id="content-sidebar-inner">
+	
+	
+
+
+	<div class="clear"></div>
+
+	
+	<div class="clear"></div>
+		
+	
+</div><!-- EOF #content-sidebar-inner -->	<div class="border"></div>
+			<div id="archives">
+			<h2>Archives</h2>
+			
+			<div class="year" onclick="toggle_div('arch-open0')">2009</div><div id="arch-open0">				<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200912/">December 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200911/">November 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200910/">October 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200909/">September 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200908/">August 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200907/">July 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200906/">June 2009</a>
+				</div>
+							<div class="archive-data">
+					<a href="http://www.homeqn.com/archives/200905/">May 2009</a>
+				</div>
+						</div>
+		</div><!-- EOF archives -->
+		
+		<div class="border"></div>
+	<div class="border"></div>
+	<div class="side-ads"><!-- begin ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Wide Skyscraper - 160 x 600 -->
+<iframe src="http://d2.zedo.com/jsc/d2/ff2.html?n=1140;c=26;s=35;d=7;w=160;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>
+<!-- end ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Wide Skyscraper - 160 x 600 --></div><div class="clear"></div>	
+	</div><!-- EOF inner-sidebar1 -->
+
+		<div class="inner-sidebar2">
+
+		<div class="ext-links" style="padding:10px 0 0 15px;">
+		<span class="twit" style="padding:5px;"><a href="http://twitter.com/homeqn"><img src="/images/twitter.png" border="0" alt=""></a></span>
+		<span class="faceb" style="padding:5px;"><a href="http://www.facebook.com/pages/Home-Quotient/183472811753"><img src="/images/facebook.png" border="0" alt=""></a></span>
+		</div>
+		<div class="clear"></div>
+
+			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+			<div id="tags">
+				<h2>Tags</h2>
+				<div class="tag-content">
+					<a href="http://www.homeqn.com/tags/bathroom/" class="ibn_tag4">bathroom</a> <a href="http://www.homeqn.com/tags/bathroom-furnishing/" class="ibn_tag7">Bathroom Furnishing</a> <a href="http://www.homeqn.com/tags/bedroom/" class="ibn_tag2">Bedroom</a> <a href="http://www.homeqn.com/tags/furniture/" class="ibn_tag9">furniture</a> <a href="http://www.homeqn.com/tags/home-accessory/" class="ibn_tag3">Home Accessory</a> <a href="http://www.homeqn.com/tags/home-decor/" class="ibn_tag8">home decor</a> <a href="http://www.homeqn.com/tags/home-design/" class="ibn_tag4">Home Design</a> <a href="http://www.homeqn.com/tags/home-furnishing/" class="ibn_tag10">Home Furnishing</a> <a href="http://www.homeqn.com/tags/home-furnishings/" class="ibn_tag1">Home Furnishings</a> <a href="http://www.homeqn.com/tags/home-furniture/" class="ibn_tag6">home furniture</a> <a href="http://www.homeqn.com/tags/home-interior/" class="ibn_tag9">Home Interior</a> <a href="http://www.homeqn.com/tags/house-design/" class="ibn_tag6">House design</a> <a href="http://www.homeqn.com/tags/housing/" class="ibn_tag5">housing</a> <a href="http://www.homeqn.com/tags/kitchen/" class="ibn_tag5">kitchen</a> <a href="http://www.homeqn.com/tags/lamp/" class="ibn_tag2">lamp</a> <a href="http://www.homeqn.com/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.homeqn.com/tags/lighting/" class="ibn_tag8">Lighting</a> <a href="http://www.homeqn.com/tags/lights/" class="ibn_tag3">lights</a> <a href="http://www.homeqn.com/tags/real-estate/" class="ibn_tag7">real estate</a> <a href="http://www.homeqn.com/tags/table/" class="ibn_tag1">Table</a> 				</div>		
+			</div><!-- EOF  tags-->
+			
+				
+
+			<div class="clear"></div>
+			
+			<div class="border"></div>
+
+			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+			<div class="Comments">
+				<h2>Fresh Comments</h2>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_varologic.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+														<a href="http://varologic.instablogs.com/">Varologic Seo</a>
+														</div>
+							on <span><a href="http://www.homeqn.com/entry/green-a-sustainable-skin-for-the-buildings-of-the-future/#comment-637591">Green: A sustainable skin for...</a> Excellent idea and work has been done, by developing the vertical gardens, we will get... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_yam2_ever.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+														<a href="http://yam2_ever.instablogs.com/">Yaser Banjar</a>
+														</div>
+							on <span><a href="http://www.homeqn.com/entry/rock-in-a-stool/#comment-637046">Rock in a stool</a> i like it, i would like to have one :) </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_demonike.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+														<a href="http://demonike.instablogs.com/">Kutt Niinepuu-Kiik</a>
+														</div>
+							on <span><a href="http://www.homeqn.com/entry/amazing-transforming-furniture-concepts/#comment-635701">Amazing transforming...</a> IKEA style... :) </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_jessicag.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+														<a href="http://jessicag.instablogs.com/">Jessica Galsworthy</a>
+														</div>
+							on <span><a href="http://www.homeqn.com/entry/grow-your-own-dinner-vegetable-box-from-an-18-year-old-entrepreneur/#comment-631040">‘Grow your own dinner’...</a> Hi I am the Jessica in the picture! Thanks for this!!Shocked me to see I was on... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+									<div class="image-content">
+						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_naveen.jpg"></div>
+						<div class="comment-content">
+							<div class="author">
+														<a href="http://naveen.instablogs.com/">Naveen</a>
+														</div>
+							on <span><a href="http://www.homeqn.com/entry/dwell-hunting-students-reveal-futuristic-space-hotel-concept/#comment-628129">Dwell Hunting: Students...</a> With the space tourism industry heating up, we are sure to see some great things intended... </span>
+						</div>
+					</div>
+					<div class="clear"></div>
+							</div><!-- EOF Comments -->
+
+
+			<div class="clear"></div>
+
+			<div class="border"></div>
+
+				<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+				<div class="market-place">
+				
+					<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+					<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=137">Contact Us</a>.</div>
+				</div><!-- EOF market-place -->
+
+			<div class="border"></div>
+
+			<div class="side-ads"></div><div class="clear"></div>
+	</div><!-- EOF inner-sidebar2 -->
+
+</div><!-- EOF inner-sidebars -->
+
+<div class="clear"></div>
+
+</div><!-- EOF #content-sidebar -->
+		</div><!-- EOF #content -->
+
+		<!--INFOLINKS_OFF--><div class="clear"> </div>
+				
+		<div id="ad-footer">
+
+			<div class="side-ads"></div>
+
+			<div class="side-ads"></div>
+
+		</div><!-- EOF #ad-footer -->
+
+		<div id="footer">
+			
+			<div id="footer-main">
+				
+				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
+				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
+				<div class="footer-links">
+				<a href="http://www.instablogs.com/ad_solutions.php?b=137">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
+				</div>
+			</div><!-- EOF #footer-main -->
+
+				<div class="side-ads"></div>
+
+				<div class="side-ads"></div>
+
+		</div><!-- EOF #footer -->
+
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-601944-24");
+		pageTracker._trackPageview();
+		</script>
+
+		<!-- Start of StatCounter Code ===Homeqn.com=== -->
+			<script type="text/javascript">
+			var sc_project=4742329; 
+			var sc_invisible=1; 
+			var sc_partition=54; 
+			var sc_click_stat=1; 
+			var sc_security="6c7cce54"; 
+			</script>
+
+			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+			class="statcounter"><a title="blogger hit counter"
+			href="http://www.statcounter.com/blogger/"
+			target="_blank"><img class="statcounter"
+			src="http://c.statcounter.com/4742329/0/6c7cce54/1/"
+			alt="blogger hit counter" ></a></div></noscript>
+		<!-- End of StatCounter Code -->
+
+
+		<!-- Start of StatCounter Code Instablogs Network -->
+			<script type="text/javascript">
+			sc_project=2497465; 
+			sc_invisible=1; 
+			sc_partition=23; 
+			sc_security="77633a20"; 
+			</script>
+
+			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+			class="statcounter"><a title="hits counter"
+			href="http://www.statcounter.com/free_hit_counter.html"
+			target="_blank"><img class="statcounter"
+			src="http://c24.statcounter.com/2497465/0/77633a20/1/"
+			alt="hits counter" ></a></div></noscript>
+		<!-- End of StatCounter Code -->
+
+
+	</div> <!-- EOF #container -->
+	<script type="text/javascript" src="http://setup.hover.in/script?load=V0001AxA226" id="hi_client"></script>
+	
+
+		<!-- Homeqn Analytics Code -->
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-601944-92");
+			pageTracker._trackPageview();
+			} catch(err) {}
+			</script>
+
+
+		<!-- Lifestyle Google Analytics -->
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			var pageTracker = _gat._getTracker("UA-5515876-12");
+			pageTracker._trackPageview();
+			</script>
+
+		<!-- Instablogs Network Google Analytics -->
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			var pageTracker = _gat._getTracker("UA-601944-10");
+			pageTracker._trackPageview();
+			</script>
+
+<div class="side-ads">
+	</div>
+
+  
+
+</body></html>
