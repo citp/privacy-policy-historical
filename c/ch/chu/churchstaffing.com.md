@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022043id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220040819id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Church Jobs, Pastor Jobs, Listings, Ministry Employment, Church Ministries, Pastors Openings
 
@@ -214,4 +214,4 @@ Sermon Search Update
 Crosswalk Pastor’s Resources  
 Live It! Signup 
 
-[](http://www.christianjobs.com/) [](http://www.israeltoolkit.com/)
+[](http://www.christianjobs.com/) [](http://l.salemweb.net/IMOTfixedCS/)
