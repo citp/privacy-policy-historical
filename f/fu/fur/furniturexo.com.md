@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035408id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002029id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Privacy Statement - Furniture XO
 
