@@ -1,23 +1,104 @@
-<!--The following is the downloaded HTML source of the ochsner.org privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618142109id_/http%3A//www.ochsner.org/misc/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ochsner.org privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220054459id_/http%3A//www.ochsner.org/misc/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us" dir="ltr"><head profile="http://gmpg.org/xfn/11">
+<link rel="shortcut icon" href="/favicon.ico">
 
 	<title>Privacy Policy | Ochsner Health System | New Orleans, LA</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<meta name="author" content="Paramore | Redd Online Marketing, http://paramoreredd.com/">
+	<meta name="author" content="Ochsner Health System">
 	<meta name="copyright" content="2001-2009">
-
+        <meta name="google-site-verification" content="nuDeLNLDI58fnnwLIn8op29LQdq8KpCx9Mr-ZHPf1ME">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-
+                                        
 	<script type="text/javascript" src="/js/jquery.js"></script>
 	<script type="text/javascript" src="/js/jquery_plugins.js"></script>
 	<script type="text/javascript" src="/js/ochsner_global.js"></script>
+<script type="text/javascript" src="/js/greybox/greybox.js"></script>
+<link href="/js/greybox/greybox.css" rel="stylesheet" type="text/css" media="all">
 	
+<script type="text/javascript">
+function urlencode( str ) {
+    // http://kevin.vanzonneveld.net
+                                 
+    var hash_map = {}, unicodeStr='', hexEscStr='';
+    var ret = (str+'').toString();
+    
+    var replacer = function(search, replace, str) {
+        var tmp_arr = [];
+        tmp_arr = str.split(search);
+        return tmp_arr.join(replace);
+    };
+    
+    // The hash_map is identical to the one in urldecode.
+hash_map["'"]   = '+squot+';
+hash_map['(']   = '+sparen+';
+hash_map[')']   = '+eparen+';
+hash_map['*']   = '+ast+';
+    hash_map['~']   = '%7E';
+    hash_map['!']   = '%21';
+    hash_map['%20'] = '+';
+hash_map['%22'] = '+dquot+';
+hash_map['%2F'] = '+fslash+';
+hash_map['%5C'] = '+bslash+';
+    hash_map['\u00DC'] = '%DC';
+    hash_map['\u00FC'] = '%FC';
+    hash_map['\u00C4'] = '%D4';
+    hash_map['\u00E4'] = '%E4';
+    hash_map['\u00D6'] = '%D6';
+    hash_map['\u00F6'] = '%F6';
+    hash_map['\u00DF'] = '%DF';
+    hash_map['\u20AC'] = '%80';
+    hash_map['\u0081'] = '%81';
+    hash_map['\u201A'] = '%82';
+    hash_map['\u0192'] = '%83';
+    hash_map['\u201E'] = '%84';
+    hash_map['\u2026'] = '%85';
+    hash_map['\u2020'] = '%86';
+    hash_map['\u2021'] = '%87';
+    hash_map['\u02C6'] = '%88';
+    hash_map['\u2030'] = '%89';
+    hash_map['\u0160'] = '%8A';
+    hash_map['\u2039'] = '%8B';
+    hash_map['\u0152'] = '%8C';
+    hash_map['\u008D'] = '%8D';
+    hash_map['\u017D'] = '%8E';
+    hash_map['\u008F'] = '%8F';
+    hash_map['\u0090'] = '%90';
+    hash_map['\u2018'] = '%91';
+    hash_map['\u2019'] = '%92';
+    hash_map['\u201C'] = '%93';
+    hash_map['\u201D'] = '%94';
+    hash_map['\u2022'] = '%95';
+    hash_map['\u2013'] = '%96';
+    hash_map['\u2014'] = '%97';
+    hash_map['\u02DC'] = '%98';
+    hash_map['\u2122'] = '%99';
+    hash_map['\u0161'] = '%9A';
+    hash_map['\u203A'] = '%9B';
+    hash_map['\u0153'] = '%9C';
+    hash_map['\u009D'] = '%9D';
+    hash_map['\u017E'] = '%9E';
+    hash_map['\u0178'] = '%9F';
+    
+    // Begin with encodeURIComponent, which most resembles PHP's encoding functions
+    ret = encodeURIComponent(ret);
+ 
+    for (unicodeStr in hash_map) {
+        hexEscStr = hash_map[unicodeStr];
+        ret = replacer(unicodeStr, hexEscStr, ret); // Custom replace. No regexing
+    }
+    
+    // Uppercase for full PHP compatibility
+    return ret.replace(/(\%([a-z0-9]{2}))/g, function(full, m1, m2) {
+        return "%"+m2.toUpperCase();
+    });
+}
+</script>
 	
 
 	
@@ -48,30 +129,50 @@
 				<li class="video"><a href="http://www.ochsner.org/video/" title="">Video</a></li>
 				<li class="careers"><a href="http://www.ochsner.org/careers/" title="">Careers</a></li>
 				<li class="about"><a href="http://www.ochsner.org/about/" title="">About Ochsner</a></li>
+				<li class="healthinfo"><a href="http://www.ochsner.org/healthinformation/" title="">Health Information</a></li>
 				<li class="medical"><a href="http://www.ochsner.org/medical_professionals/" title="">Medical Professionals</a></li>
 			</ul><!-- /#menu -->
-
+<script type="text/javascript">
+GB_ANIMATION = false;
+						$(document).ready(function(){
+							$('#head-search-form').submit(function(){ 
+									var results_url = "/home/search_results/";
+									var query = ($('#q').val() == '') ? 'query' : $('#q').val();
+//alert(urlencode(query));
+									location.href = results_url + urlencode(query);
+									return false;
+							});
+$("a.greybox").click(function(e){ 
+window.scroll(0,0);
+this.href="/includes/enews_demographics/";
+          var t = this.title || $(this).text() || this.href;
+          GB_show(t,this.href,710,610);
+          return false;
+        });
+						});
+					</script>
 			<div id="header">
 				<h1><a href="http://www.ochsner.org/" title="Return to homepage">Ochsner.org</a></h1>
 				<!--form action="http://www.google.com/cse" method="GET" class="float-clear" id="head-search-form"-->
-				<form action="http://search.ochsner.org/search" method="GET" class="float-clear" id="head-search-form">
-
+				<!--<form action="http://search.ochsner.org/search" method="GET" class="float-clear" id="head-search-form">-->
+                                <form action="http://www.ochsner.org/home/search_results" method="POST" class="float-clear" id="head-search-form">
 					<div class="flex-field-wrap">
 						<div class="inner-left">
 							<div class="inner-right float-clear">
 
 								<div class="input-wrap">
-									<input type="text" name="q" id="q" value="Enter Keyword to Search Ochsner.org">
-									<p><a class="quick-links" href="#" title="">quick links</a></p>
+                                                                  									<input type="text" name="q" id="q" value="Enter Keyword to Search Ochsner.org">
+                                                                  									<p><a class="quick-links" href="#" title="">quick links</a></p>
 									<ul id="quick-links" style="display: none;">
 	<li><a href="http://academics.ochsner.org/library.aspx?ekmensel=c57dfa7b_600_638_btnlink" title="">Health Library</a></li>
 	<li class="alt"><a href="http://www.ochsner.org/research/" title="">Research</a></li>
 	<li><a href="http://www.ochsner.org/education/" title="">Education</a></li>
 	<li class="alt"><a href="http://www.ochsner.org/international/" title="">International Health</a></li>
 	<li><a href="http://www.ochsner.org/patients_visitors/patient_services_financial_billing/" title="">Financial Services</a></li>
-	<li class="alt"><a href="http://www.ochsner.org/outreach/" title="">Ochsner Outreach</a></li>
+	<li class="alt"><a href="http://www.ochsner.org/outreach/" title="">Outreach Magazine</a></li>
 	<li><a href="http://www.ochsner.org/hellohealth/" title="">Hello Health</a></li>
-	<li><a href="http://www.ochsner.org/programs/pollen_mold_reports/" title="">Pollen Counter</a></li>
+	<li class="alt"><a href="http://www.ochsner.org/programs/pollen_mold_reports/" title="">Pollen Counter</a></li>
+<li><a href="http://www.ochsner.org/community/" title="">Community Outreach</a></li>
 </ul>
 								</div>
 
@@ -80,6 +181,7 @@
 								</div>
 
 							</div>
+
 
 						</div><!-- /.inner-left -->
 					</div><!-- /.flex-field-wrap -->
@@ -99,7 +201,7 @@
 					
 				</form>
 				
-				<ul>
+				<ul id="top-quick-nav">
 					 <li class="appointment"><a href="http://www.ochsner.org/misc/appointments/" title="Find a Doctor to Make an Appointment">Appointments</a></li>
 					<li class="emergency"><a href="http://www.ochsner.org/emergency/" title="In case of Emergency">Emergency</a></li>
 					<li class="location"><a href="http://www.ochsner.org/locations/" title="Find Ochsner Locations">Locations</a></li>
@@ -451,28 +553,8 @@ In addition, these entities, sites and locations may share medical information w
 
 		
 	<div id="sidebar">
-		<div class="sidebox-wrap">
-	<h2 class="enews">Signup for Ochsner eNews</h2>
-	<form class="float-clear" id="enews" method="post" action="/process/enews_post.php">
-		 <input type="hidden" name="action" value="add">
-		<fieldset>
-			<legend></legend>
-			<input type="text" name="email" value="Email Address">
-		</fieldset>
-
-		<div class="flex-field-wrap liteffw sb">
-			<div class="inner-left">
-				<div class="inner-right float-clear">
-		
-					<div class="flex-button litefb">
-						<div class="inner"><input class="button" type="submit" value="submit"></div><!-- /.inner -->
-					</div><!-- /.flex-button -->
-		
-				</div><!-- /.inner-right -->
-			</div><!-- /.inner-left -->
-		</div><!-- /.flex-field-wrap -->
-	</form>
-</div><!-- /#sidebox-wrap -->
+		<a class="greybox" href="#" title="E-Newsletter Signup"><img src="/images/e-news/enews_button_big.jpg" alt="E-News Signup"></a>
+<a href="http://choose-healthy.org" target="_blank"><img src="/images/btn/CHbutton_Ochsner_278x166.jpg" width="278" height="166" border="0"></a>
 	</div><!-- /#sidebar -->
 
 </div><!-- /#content-wrap-top -->
@@ -493,6 +575,7 @@ In addition, these entities, sites and locations may share medical information w
 								<li><a href="http://www.ochsner.org/services/primary_care/" title="Primary Care">Primary Care</a></li>
 								<li><a href="http://www.ochsner.org/services/digestive_disorders/" title="Digestive Disorders Center">Digestive Disorders Center</a></li>
 								<li><a href="http://www.ochsner.org/services/womens/" title="Women's Services">Women's Services</a></li>
+                                                                <li><a href="http://www.ochsner.org/services/mens_health/" title="Men's Health">Men's Health</a></li>
 								<li><a href="http://www.ochsner.org/services/cancer/" title="Cancer Services">Cancer Services</a></li>
 								<li><a href="http://www.ochsner.org/services/multi_organ_transplant/" title="Multi-Organ Transplant Institute">Multi-Organ Transplant Institute</a></li>
 								<li class="view-more"><a href="http://www.ochsner.org/services/" title="View Services A–Z List">View Services A–Z List</a></li>
@@ -503,7 +586,7 @@ In addition, these entities, sites and locations may share medical information w
 								<li><a href="http://www.ochsner.org/patients_visitors/how_to_prepare/" title="How to Prepare">How to Prepare</a></li>
 								<li><a href="http://www.ochsner.org/patients_visitors/patient_services_admission_and_discharge/" title="Admission &amp; Discharge">Admission &amp; Discharge</a></li>
 								<li><a href="http://www.ochsner.org/patients_visitors/patient_services_patient_rights_and_responsibilities/" title="Patient Rights &amp; Responsibilities">Patient Rights &amp; Responsibilities</a></li>
-								<li><a href="http://www.peryourhealth.com/PYH/och.asp" title="Pay Your Bill">Pay Your Bill</a></li>
+								<li><a href="http://www.peryourhealth.com/PYH/och.asp" title="View Bills Online">View Bills Online</a></li>
 								<li class="view-more"><a href="http://www.ochsner.org/locations/" title="View all Locations">View all Locations</a></li>
 							</ul>
 							<ul class="left careers">
@@ -545,5 +628,6 @@ In addition, these entities, sites and locations may share medical information w
 		pageTracker._setDomainName(".ochsner.org");
 		pageTracker._trackPageview();
 		</script>
+<script>document.write("<scr"+"ipt src='http://bp.specificclick.net?pixid=99027351&u="+escape(parent.document.location)+"&r="+escape(parent.document.referrer)+"'></scri"+"pt>");</script><script src="http://bp.specificclick.net?pixid=99027351&amp;u=https%3A//web.archive.org/web/20091220054459id_/http%3A//www.ochsner.org/misc/privacy_policy/&amp;r="></script><noscript><IMG SRC="http://bp.specificclick.net?pixid=99027351" width=0 height=0 border=0></noscript>
 	
 </body></html>
