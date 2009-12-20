@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629064651id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220061451id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
 
 # Xerox Corporation Privacy Policy
 
@@ -133,7 +133,7 @@ Your California Privacy Rights
 ---  
 Under California law, California residents can now ask companies with whom they have an established business relationship to provide certain information about the companies' sharing of personal information with third parties for direct marketing purposes during the past year. 
 
-Xerox's policy is to share your personal information for direct marketing purposes only with your informed consent. With your consent, from time to time, Xerox may provide its partners with your personal information for purposes of marketing relevant services, products and programs to you. If you previously provided such consent but no longer wish your personal information to be shared, please [contact us](http://www.xerox.com/go/xrx/template/018u.jsp?Xcntry=USA&Xlang=en_US) and you can change your preference and opt out without charge. Our online Privacy Statement is available [here](http://www.xerox.com/go/xrx/template/009.jsp?view=Privacy&Xcntry=USA&Xlang=en_US). If you have further inquires regarding Xerox's Information Sharing Practices, please [contact us](http://www.xerox.com/go/xrx/xportal/forms/contactform.jsp?form_no=7300&formname=*&Xcntry=USA&Xlang=en_US).   
+Xerox's policy is to share your personal information for direct marketing purposes only with your informed consent. With your consent, from time to time, Xerox may provide its partners with your personal information for purposes of marketing relevant services, products and programs to you. If you previously provided such consent but no longer wish your personal information to be shared, please [contact us](http://www.xerox.com/go/xrx/template/018u.jsp?Xcntry=USA&Xlang=en_US) and you can change your preference and opt out without charge. Our online Privacy Statement is available [here](http://www.xerox.com/go/xrx/template/009.jsp?view=Privacy&Xcntry=USA&Xlang=en_US).   
   
 Contact Us  
 ---  
