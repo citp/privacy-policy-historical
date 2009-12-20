@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021553id_/http%3A//www.melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220131520id_/http%3A//www.melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.*
 
 # Melbourne Water : About Us : Policies : Privacy Statement
-
-### Privacy Statement
 
 #### Our commitment to privacy
 
@@ -35,7 +33,7 @@ Melbourne Water will only use or disclose information about you for the purpose 
 
 ##### Access
 
-To seek access to your personal information held by Melbourne Water, or to correct or update your personal information, contact Melbourne Water on 131 722 or [contact us on line](http://feedback.melbournewater.com.au/?feedbackcode=privacy "Give us feedback \(in new window\)").
+To seek access to your personal information held by Melbourne Water, or to correct or update your personal information, contact Melbourne Water on 131 722 or [contact us on line](http://feedback.melbournewater.com.au/?feedbackcode=privacy "Give us feedback").
 
 ##### Security
 
@@ -53,6 +51,6 @@ If you are a registered user with Melbourne Water’s business sub-site we may, 
 
 ##### Further information
 
-If you require further information regarding this privacy statement, please contact Melbourne Water on 131 722 or [contact us on line](http://feedback.melbournewater.com.au/?feedbackcode=privacy "Give us feedback \(in new window\)").
+If you require further information regarding this privacy statement, please contact Melbourne Water on 131 722 or [contact us on line](http://feedback.melbournewater.com.au/?feedbackcode=privacy "Give us feedback").
 
 * * *
