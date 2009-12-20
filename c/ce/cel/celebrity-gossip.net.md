@@ -1,42 +1,19 @@
-> *The following text is extracted and transformed from the celebrity-gossip.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210233215id_/http%3A//www.celebrity-gossip.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-gossip.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021246id_/http%3A//www.celebrity-gossip.net/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Celebrity Gossip
+# Policies | Celebrity-Gossip.net
 
-Celebrity Gossip has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.celebrity-gossip.net.  Celebrity Gossip is the sole owner of the information received from this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+Absolutely no information given to the GossipCenter Network via membership, feedback form or mailing list will be given, sold or distributed to any outside organization. Your contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings by contacting GossipCenter. Children under the age of 14 are not permitted to register at our site, nor are they permitted to submit personal information via feedback forms or through our mailing list. 
 
-**Contests and Sweepstakes**  
-When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you are eligible to receive the prize according to the Contest Rules.
+Placement of cookies and the collection of IP addresses is used for internal targeting purposes, and is never sold to third parties. If you wish to opt out of such use and placement of cookies and IP addresses please visit the link below:
 
-**Newsletters & Promotional E-mails**  
-We offer free newsletters and promotional e-mails as a service to our customers. We will send you newsletters and e-mails periodically listing current specials and deals. To stop receiving our newsletter, send an e-mail to us at [unsubscribe@celebrity-gossip.net](mailto:unsubscribe@celebrity-gossip.net).
+http://www.networkadvertising.org/managing/opt_out.asp
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Third Party Links: We offer affiliate links on our site. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those particular sites.
 
-**Children**  
-We do not intend to collect personal information from anyone under the age of 14. If you are under 14, you should not enter information on this web site and should ask a parent to do so for you.
+GossipCenter Management
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+## Comments Policy
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+We reserve the right to republish comments left on our website. Anonymous posting of comments is not allowed. We reserve the right to edit and delete any comments left on the Celebrity-Gossip.net website.
 
-  * You can send email to [unsubscribe@celebrity-gossip.net](mailto:unsubscribe@celebrity-gossip.net)
-
-
-
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [privacy@celebrity-gossip.net](mailto:privacy@celebrity-gossip.net)
-
-**Changes to This Online Privacy Policy**  
-We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this web site. We encourage you to review this privacy policy whenever you visit our web site to make sure you understand how we use the information we collect.
-
-Our Favorite Celebs: [Aaron Carter](http://www.celebrity-gossip.net/aaron_carter.php) | [Britney Spears](http://www.celebrity-gossip.net/britney-spears.php) | [Brittany Murphy](http://www.celebrity-gossip.net/brittany_murphy.php)  
-[Cameron Diaz](http://www.celebrity-gossip.net/cameron_diaz.php) | [Christina Aguilera](http://www.celebrity-gossip.net/christina_aguilera.php) | [Clay Aiken](http://www.celebrity-gossip.net/clay_aiken.php) | [Enrique Iglesias](http://www.celebrity-gossip.net/enrique_iglesias.php)  
-[Gwyneth Paltrow](http://www.celebrity-gossip.net/gwyneth_paltrow.php) | [Heath Ledger](http://www.celebrity-gossip.net/heath_ledger.php) | [Heidi Klum](http://www.celebrity-gossip.net/heidi_klum.php) | [Hilary Duff](http://www.celebrity-gossip.net/hilary-duff.php) | [Jake Gyllenhaal](http://www.celebrity-gossip.net/jake_gyllenhaal.php)  
-[Jamie Lynn Spears](http://www.celebrity-gossip.net/jamie_lynn_spears.php) | [Janet Jackson](http://www.celebrity-gossip.net/janet_jackson.php) | [Jennifer Lopez](http://www.celebrity-gossip.net/jennifer_lopez.php) | [Justin Timberlake](http://www.celebrity-gossip.net/justin_timberlake.php)  
-[Kate Hudson](http://www.celebrity-gossip.net/kate_hudson.php) | [Katie Holmes](http://www.celebrity-gossip.net/katie_holmes.php) | [Kelis](http://www.celebrity-gossip.net/kelis.php) | [Kelly Clarkson](http://www.celebrity-gossip.net/kelly_clarkson.php) | [Lindsay Lohan](http://www.celebrity-gossip.net/lindsay-lohan.php) | [Madonna](http://www.celebrity-gossip.net/madonna-news.php)  
-[Nick Carter](http://www.celebrity-gossip.net/nick_carter.php) | [Nick Lachey & Jessica Simpson](http://www.celebrity-gossip.net/nick_jessica.php) | [Orlando Bloom](http://www.celebrity-gossip.net/orlando_bloom.php)  
-[Paris Hilton](http://www.celebrity-gossip.net/paris_hilton.php) | [Tara Reid](http://www.celebrity-gossip.net/tara_reid.php) | [The Osbournes](http://www.celebrity-gossip.net/sharon_ozzy_osbourne.php) | [Viggo Mortensen](http://www.celebrity-gossip.net/viggo_mortensen.php) | [Vin Diesel](http://www.celebrity-gossip.net/vin_diesel.php)
-
-[Hot Gossip](https://web.archive.org/news.php) | [Movies](https://web.archive.org/movies.php) | [Music](https://web.archive.org/music.php) | [Television](https://web.archive.org/television.php) | [Reality TV](https://web.archive.org/reality-tv.php) | [The Royals](https://web.archive.org/royalty.php) | [Home](http://www.celebrity-gossip.net/)
+If you have any questions regarding these policies, please [contact us](http://www.celebrity-gossip.net/site/contact/).
