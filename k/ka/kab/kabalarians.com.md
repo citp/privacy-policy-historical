@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201123id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220133216id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
-# Looking for the Best Baby Name and Name Change Recommendations?
+# Looking for the Meaning of a Name, Best Baby Names, and Name Change Recommendations?
 
 ## Privacy Policy
 
