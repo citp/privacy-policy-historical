@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5vegas.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630042833id_/http%3A//www.fox5vegas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5vegas.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132047id_/http%3A//www.fox5vegas.com/privacy) for the most accurate reproduction.*
 
 # Fox5Vegas.com - Privacy
 
@@ -55,4 +55,4 @@ Aaint Paul, MN 55102
  **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-Last Revised 02/08
+Last Revised 02/08 
