@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621145938id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132754id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
-# Barrett-Jackson - Privacy Policy
+# Barrett-Jackson Auction Company - Privacy Policy
 
 Barrett-Jackson understands your concerns about privacy. We want you to understand what types of information we collect on this site and what may happen to that information. If you have questions or concerns regarding this Privacy Policy, you should contact us at:
 
