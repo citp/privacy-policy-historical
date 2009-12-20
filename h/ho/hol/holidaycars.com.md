@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620040655id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Ddisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220073536id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Ddisclaimer) for the most accurate reproduction.*
 
 # Holiday Cars Car Rental
 
@@ -8,9 +8,9 @@ Your privacy is important to us
 All personal information collected is used only for our purposes as outlined below to improve the services offered to you and similar clients.
 
 **Security of Information**  
-All sensitive information, including personal details as well as credit card information, is kept confidential through the use of our secure server software (SSL). This means that information can only be exchanged between you and Holiday Cars Car Rental®, and that no third party can access this data. The padlock symbol on your browser shows which pages are covered by this security system. Holiday Cars Car Rental® uses Thawte's SuperCert which will give you confidence to be able to exchange information in the most secure environment imaginable.
+All sensitive information, including personal details as well as credit card information, is kept confidential through the use of our secure server software (SSL). This means that information can only be exchanged between you and Holiday Cars Car Rental®, and that no third party can access this data. The padlock symbol on your browser shows which pages are covered by this security system. Holiday Cars Car Rental® uses VeriSign's SuperCert which will give you confidence to be able to exchange information in the most secure environment imaginable.
 
-With Thawte's SuperCert, based on SSL, the leading security protocol on the Internet, you can rest assured that all information exchanged between you and Holiday Cars Car Rental® will be secure during transmission.  
+With VeriSign's SuperCert, based on SSL, the leading security protocol on the Internet, you can rest assured that all information exchanged between you and Holiday Cars Car Rental® will be secure during transmission.  
 Please note that our site contains links to other sites. Holiday Cars Car Rental® is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
 
 Should you not wish to transmit specific information across the Internet; the contact details shown for Holiday Cars Car Rental® will provide alternative ways of providing information. For example, telephone numbers are listed, to enable you to make direct telephone contact with Holiday Cars Car Rental®.
