@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apparelnews.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619200620id_/http%3A//www.apparelnews.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelnews.net privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221001909id_/http%3A//www.apparelnews.net/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - ApparelNews.net
+# Privacy Policy | California Apparel News
 
 The following Privacy Policy summarizes the various ways that MnM Publishing (“Service Provider,” “we,” or “our”) treats the information you provide while using [www.ApparelNews.net](http://www.apparelnews.net/ "ApparelNews.net - Your Online Source for Fashion and Apparel Information") (“Website”). It is our goal to bring you information you need and, at the same time, protect your privacy.
 
