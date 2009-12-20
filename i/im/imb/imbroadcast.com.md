@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imbroadcast.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194946id_/http%3A//www.imbroadcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imbroadcast.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220152831id_/http%3A//www.imbroadcast.com/privacy) for the most accurate reproduction.*
 
 # Internet Marketing Videos | Online Marketing Videos - IMBroadcast.com
 
