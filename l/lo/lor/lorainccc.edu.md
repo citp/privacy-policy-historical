@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192657id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002356id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
@@ -50,4 +50,4 @@ In addition, the following information is always considered releasable: previous
 ** There is no requirement for you to provide any information at our website. However, the online services will not be available to you without proper login. Failure of your browser to provide nonessential technical information will not prevent your use of our website, but may prevent you from accessing online services. 
 
 **Visitor comments or review  
-** If you have questions about this privacy statement or the practices of this website or if you choose to review or correct any information, please contact us at [webmaster@lorainccc.edu](mailto:webmaster@lorainccc.edu), or call 800-366-5222. 
+** If you have questions about this privacy statement or the practices of this website or if you choose to review or correct any information, please contact us at [webmaster@lorainccc.edu](mailto:webmaster@lorainccc.edu), or call (800) 366-5222. 
