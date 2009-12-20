@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621092009id_/http%3A//www.conferenceplus.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220224012id_/http%3A//www.conferenceplus.com/privacy.html) for the most accurate reproduction.*
 
-# Contact Conference Plus - Company Information - Conference Plus.com
+# Our Privacy Policy | SMB Marketing | Webinars Software | Conferencing Services | ConferencePlus.com
 
 Conference Plus, Inc. ("ConferencePlus") wants you to know that it respects your right to privacy in connection with personal information you may provide to us as a visitor to or registered with the ConferencePlus.com web site (the "Site"). Your use of the Site implies your agreement with the provisions of this Privacy Statement. If you do not agree with the ConferencePlus Privacy Statement, please do not use the Site. Please note that your use of the Site and services provided on the Site is subject to ConferencePlus' Terms and Conditions of Use. 
 
