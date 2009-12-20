@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bestfriends.org privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617171646id_/http%3A//www.bestfriends.org/aboutus/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestfriends.org privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220104903id_/http%3A//www.bestfriends.org/aboutus/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Best Friends Animal Society - Privacy Policy</title>
@@ -402,292 +402,44 @@ var dhtmlgoodies_tooltip = false;
 	<div style="margin:0px;overflow:hidden;padding:0px;width:139px;">
 
 <!-- removed -->
-    <form name="form1" method="post" action="http://network.bestfriends.org/GlobalNav.aspx?url=http%3a%2f%2fwww.bestfriends.org%2faboutus%2fprivacy.cfm" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ2MTYzMjg1N2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFEdsb2JhbE5hdjEkVHJlZVZpZXcxV56tulunG2D2/CLmEOA01TrQsuM=">
+    <form name="form1" method="post" action="http://www.bestfriends.org/GlobalNav.aspx?url=http%3a%2f%2fwww.bestfriends.org%2faboutus%2fprivacy.cfm" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAzNzU2MDU0NGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFD2N0bDAyJFRyZWVWaWV3MdqhUWXsuhx3TbGZMoxsJqjlqPdm">
 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKrrJe8CgLfi7vaAQLrnuv7BwK8ubNGAoWvk5MCAoyzsPAOAvfdz8UDAvWfxNIIAp+UqscLAvSEkKwLN0G6ITGp96wZCYnUFeSjXCXAKJM=">
         <div>
-            <!--TAW, The cached time is 6/17/2009 1:16:54 PM-->
-            
-
-
-<!-- START -->
-
-
-<script language="javascript" type="text/javascript">
-
-function ss_gup( name )
-{
-  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-  var regexS = "[\\?&]"+name+"=([^&#]*)";
-  var regex = new RegExp( regexS );
-  var results = regex.exec( window.location.href );
-  if( results == null )
-    return "";
-  else
-    return results[1];
-}
-
-
-function ss_ConstructURL(url,removeterms,addterms) {
-	var params = ss_BuildURLArray(url);
-	var newurl = "";
-	for (var i=0; i<params.length; i++) {
-		val = ss_CheckArray(removeterms,params[i][0]);
-		if (val == -1)
-			newurl = newurl + "&" + params[i][0] + "=" + params[i][1];
-	}
-	for (var i=0; i<addterms.length; i++) {
-		newurl = newurl + "&" + addterms[i];
-	}
-	if (newurl.length > 0) {
-		newurl = newurl.substr(1);
-		newurl = "?"+newurl;
-	}
-	else {
-		newurl = "?N="+eneroot;
-	}
-	return newurl;
-}
-function ss_BuildURLArray(oldurl) {
-	var returnArray = new Array();
-	var url;
-	if (oldurl == "CURRENTURL")
-		url = location.search;
-	else if (oldurl == "BLANKURL") {
-
-	}
-	else {
-		var tokens = oldurl.split("?");
-		url = "?"+tokens[1];
-	}		
-	if (url) {
-		url = url.substr(1);
-		var params = url.split("&");
-		for (var i=0; i<params.length; i++) {
-			var param = params[i].split("=");
-			returnArray[i] = param;
-		}
-	}
-	return returnArray;
-}
-function ss_CheckArray(removeterms,checkterm) {
-	for (var i=0; i<removeterms.length; i++) {
-		if (removeterms[i] == checkterm)
-			return 1;
-	}
-	return -1;
-}
-function ss_GetValue(url, term) {
-	var params = ss_BuildURLArray(url);
-	for (var i=0; i<params.length; i++) {
-		if (params[i][0] == term) {
-			return params[i][1];
-		}
-	}
-	return -1;
-}
-
-function ss_Search() {
-
-        // Get search property and term values from form elements
-        var property    = theForm.ss_searchprop.value;
-        var terms       = encodeURIComponent(theForm.ss_searchterms.value);
-        var mode        = theForm.ss_searchmode.value;
-        var eneroot	    = theForm.ss_eneroot.value;
-
-        // Alert if only dimension search is being performed
-        if (property == "-1") {
-                
-                alert("Since no valid search property is available, only dimension search will be processed.");
-                
-                // Create new url with only dimension search
-                var removeterms = ["N","Ne","No","Nao","Nty","D","Dx","in_dym","in_dim_search","Ns","Address","Nf","g"];
-                var addterms = ["N="+eneroot,"D="+terms,"Dx=mode+"+mode];
-                var newurl = ss_ConstructURL("CURRENTURL", removeterms, addterms);
-                //location.search = newurl;
-                document.location.href = "/sitesearch/controller.aspx" + newurl;
-        }
-        else {
-                // Create new url with property search and dimension search
-                var removeterms = ["N","Ne","No","Nao","Ntk","Ntt","D","Nty","Ntx","Dx","in_dym","in_dim_search","Ns","Address","Nf","g"];
-                //var addterms = ["N="+eneroot,"Ntk="+property,"Ntt="+terms,"Nty=1","D="+terms,"Ntx=mode+"+mode,"Dx=mode+"+mode];
-                var addterms = ["N=0","Ntk="+property,"Ntt="+terms,"Nty=1","D="+terms,"Ntx=mode+"+mode,"Dx=mode+"+mode];
-                var newurl = ss_ConstructURL("CURRENTURL", removeterms, addterms);
-                //location.search = newurl;
-                //document.location.href = "http://network.bestfriends.org/sitesearch/Default.aspx" + newurl;
-                document.location.href = "http://network.bestfriends.org/sitesearch/Default.aspx" + newurl;
-        }
-}
-
-
-var ss_qsvNtt = ss_gup('Ntt');
-var ss_qsvN = ss_gup('N');
-if (ss_qsvN == "") {ss_qsvN = 0;}
-</script>
-
-<input name="ss_searchprop" type="hidden" value="All">
-<input name="ss_searchmode" type="hidden" value="matchall">
-<input name="ss_eneroot" type="hidden" value="0">
-
-<!-- <table border="0">
-    <tr>
-        <td align="left"><input type="text" size="12" name="ss_searchterms" maxlength="50" value="" 
-                        onkeypress="if(event.keyCode==13){ss_Search(); return false;}"/></td>
-        <td valign="bottom" align="left"><a href="javascript:ss_Search()">Search</a></td>
-  </tr>
-</table> -->
-<script language="javascript" type="text/javascript">
-var dhtmlgoodies_tooltip = false;
-	var dhtmlgoodies_tooltipShadow = false;
-	var dhtmlgoodies_shadowSize = 2;
-	var dhtmlgoodies_tooltipMaxWidth = 200;
-	var dhtmlgoodies_tooltipMinWidth = 100;
-	var dhtmlgoodies_iframe = false;
-	var tooltip_is_msie = (navigator.userAgent.indexOf('MSIE')>=0 && navigator.userAgent.indexOf('opera')==-1 && document.all)?true:false;
-	function showTooltip(e,tooltipTxt)
-	{
-		
-		var bodyWidth = Math.max(document.body.clientWidth,document.documentElement.clientWidth) - 20;
-	
-		if(!dhtmlgoodies_tooltip){
-			dhtmlgoodies_tooltip = document.createElement('DIV');
-			dhtmlgoodies_tooltip.id = 'dhtmlgoodies_tooltip';
-			dhtmlgoodies_tooltipShadow = document.createElement('DIV');
-			dhtmlgoodies_tooltipShadow.id = 'dhtmlgoodies_tooltipShadow';
-			
-			document.body.appendChild(dhtmlgoodies_tooltip);
-			document.body.appendChild(dhtmlgoodies_tooltipShadow);	
-			
-			if(tooltip_is_msie){
-				dhtmlgoodies_iframe = document.createElement('IFRAME');
-				dhtmlgoodies_iframe.frameborder='5';
-				dhtmlgoodies_iframe.style.backgroundColor='#FFFFFF';
-				dhtmlgoodies_iframe.src = '#'; 	
-				dhtmlgoodies_iframe.style.zIndex = 100;
-				dhtmlgoodies_iframe.style.position = 'absolute';
-				document.body.appendChild(dhtmlgoodies_iframe);
-			}
-			
-		}
-		
-		dhtmlgoodies_tooltip.style.display='block';
-		dhtmlgoodies_tooltipShadow.style.display='block';
-		if(tooltip_is_msie)dhtmlgoodies_iframe.style.display='block';
-		
-		var st = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
-		if(navigator.userAgent.toLowerCase().indexOf('safari')>=0)st=0; 
-		var leftPos = e.clientX + 10;
-		
-		dhtmlgoodies_tooltip.style.width = null;	// Reset style width if it's set 
-		dhtmlgoodies_tooltip.innerHTML = tooltipTxt;
-		dhtmlgoodies_tooltip.style.left = leftPos + 'px';
-		dhtmlgoodies_tooltip.style.top = e.clientY + 10 + st + 'px';
-
-		
-		dhtmlgoodies_tooltipShadow.style.left =  leftPos + dhtmlgoodies_shadowSize + 'px';
-		dhtmlgoodies_tooltipShadow.style.top = e.clientY + 10 + st + dhtmlgoodies_shadowSize + 'px';
-		
-		if(dhtmlgoodies_tooltip.offsetWidth>dhtmlgoodies_tooltipMaxWidth){	/* Exceeding max width of tooltip ? */
-			dhtmlgoodies_tooltip.style.width = dhtmlgoodies_tooltipMaxWidth + 'px';
-		}
-		
-		var tooltipWidth = dhtmlgoodies_tooltip.offsetWidth;		
-		if(tooltipWidth<dhtmlgoodies_tooltipMinWidth)tooltipWidth = dhtmlgoodies_tooltipMinWidth;
-		
-		
-		dhtmlgoodies_tooltip.style.width = tooltipWidth + 'px';
-		dhtmlgoodies_tooltipShadow.style.width = dhtmlgoodies_tooltip.offsetWidth + 'px';
-		dhtmlgoodies_tooltipShadow.style.height = dhtmlgoodies_tooltip.offsetHeight + 'px';		
-		
-		if((leftPos + tooltipWidth)>bodyWidth){
-			dhtmlgoodies_tooltip.style.left = (dhtmlgoodies_tooltipShadow.style.left.replace('px','') - ((leftPos + tooltipWidth)-bodyWidth)) + 'px';
-			dhtmlgoodies_tooltipShadow.style.left = (dhtmlgoodies_tooltipShadow.style.left.replace('px','') - ((leftPos + tooltipWidth)-bodyWidth) + dhtmlgoodies_shadowSize) + 'px';
-		}
-		
-		if(tooltip_is_msie){
-			dhtmlgoodies_iframe.style.left = dhtmlgoodies_tooltip.style.left;
-			dhtmlgoodies_iframe.style.top = dhtmlgoodies_tooltip.style.top;
-			dhtmlgoodies_iframe.style.width = dhtmlgoodies_tooltip.offsetWidth + 'px';
-			dhtmlgoodies_iframe.style.height = dhtmlgoodies_tooltip.offsetHeight + 'px';
-		
-		}
-				
-	}
-	
-	function hideTooltip()
-	{
-		dhtmlgoodies_tooltip.style.display='none';
-		dhtmlgoodies_tooltipShadow.style.display='none';		
-		if(tooltip_is_msie)dhtmlgoodies_iframe.style.display='none';		
-	}
-
-</script>
-
-<div style="padding: 0px 3px 0px 3px; font-size: 8px; font-family:Arial; background-color:#DCDCB2; " id="search">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-    <td><div align="center" style="margin:3px 0px 3px 3px;">
-          <input type="text" size="12" name="ss_searchterms" maxlength="50" style="border: 1px solid rgb(252, 222, 151); width: 100px; font-size: 10px;" value="Search Best Friends" onfocus="if(this.value=='Search Best Friends')this.value='';" onblur="if(this.value=='')this.value='Search Best Friends';" onkeypress="if(event.keyCode==13){ss_Search(); return false;}">
-        </div></td>
-    <td><div align="center" style="margin: 3px 3px 3px 2px;"><a href="javascript:ss_Search()" style="color:#FF6600; font-family:Arial; font-size:8px; font-weight:normal; font-stretch:extra-condensed; text-decoration:none;">
-        <img id="SiteSearch1_Image1" src="/assets/images/go_button.gif" border="0"></a></div></td>
-  </tr>
-</tbody></table>
-</div>
-<div style="height:3px;"></div>
-
-<script language="javascript" type="text/javascript">
-if (window.location.href.indexOf('/sitesearch/') > 0) {
-theForm.ss_searchterms.value = unescape(ss_qsvNtt);
-theForm.ss_eneroot.value = ss_qsvN;
-}
-</script>
-
-
-<!-- END -->
-
-
-
-            <div id="GlobalNav1_TreeView1">
+            <!--TAW, The cached time is 12/20/2009 5:49:06 AM-->
+            <div id="ctl02_TreeView1">
 	<table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><img src="http://network.bestfriends.org/assets/images/nav/arrow_none.gif" alt=""></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org" id="GlobalNav1_TreeView1t0">Home</a></td>
+			<td><img src="/images/arrow_none.gif" alt=""></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org" id="ctl02_TreeView1t0">Home</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tGiving to Best Friends')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand Giving to Best Friends" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/donate" id="GlobalNav1_TreeView1t1">Giving to Best Friends</a></td>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tGiving to Best Friends')"><img src="/images/arrow_off.gif" alt="Expand Giving to Best Friends" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/donate" id="ctl02_TreeView1t1">Giving to Best Friends</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><img src="http://network.bestfriends.org/assets/images/nav/arrow_none.gif" alt=""></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/donate/partnersaffiliates.cfm" id="GlobalNav1_TreeView1t8">Partners and Affiliates</a></td>
+			<td><img src="/images/arrow_none.gif" alt=""></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/donate/partnersaffiliates.cfm" id="ctl02_TreeView1t9">Partners and Affiliates</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tBest Friends Network')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand Best Friends Network" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://network.bestfriends.org/" id="GlobalNav1_TreeView1t9">Best Friends Network</a></td>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tAt the Sanctuary')"><img src="/images/arrow_off.gif" alt="Expand At the Sanctuary" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/atthesanctuary" id="ctl02_TreeView1t10">At the Sanctuary</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tBest Friends News')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand Best Friends News" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://news.bestfriends.org" id="GlobalNav1_TreeView1t21">Best Friends News</a></td>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tAdoptable Pets')"><img src="/images/arrow_off.gif" alt="Expand Adoptable Pets" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://adoptions.bestfriends.org/" id="ctl02_TreeView1t29">Adoptable Pets</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tAt the Sanctuary')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand At the Sanctuary" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/atthesanctuary" id="GlobalNav1_TreeView1t26">At the Sanctuary</a></td>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tBest Friends Outreach')"><img src="/images/arrow_off.gif" alt="Expand Best Friends Outreach" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/nomorehomelesspets" id="ctl02_TreeView1t33">Best Friends Outreach</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tAdoptable Pets')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand Adoptable Pets" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://adoptions.bestfriends.org/" id="GlobalNav1_TreeView1t43">Adoptable Pets</a></td>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tYou and Your Pets')"><img src="/images/arrow_off.gif" alt="Expand You and Your Pets" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/theanimals" id="ctl02_TreeView1t41">You and Your Pets</a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tBest Friends Outreach')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand Best Friends Outreach" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/nomorehomelesspets" id="GlobalNav1_TreeView1t47">Best Friends Outreach</a></td>
-		</tr>
-	</tbody></table><table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tYou and Your Pets')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand You and Your Pets" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/theanimals" id="GlobalNav1_TreeView1t54">You and Your Pets</a></td>
-		</tr>
-	</tbody></table><table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tAbout Best Friends')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_down.gif" alt="Collapse <font class=&quot;GlobalNavBreadcrumb&quot;>About Best Friends</font>" border="0"></a></td><td class="GlobalNavOn GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOn GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/aboutus" id="GlobalNav1_TreeView1t67"><font class="GlobalNavBreadcrumb">About Best Friends</font></a></td>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tAbout Best Friends')"><img src="/images/arrow_down.gif" alt="Collapse <font class=&quot;GlobalNavBreadcrumb&quot;>About Best Friends</font>" border="0"></a></td><td class="GlobalNavOn GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOn GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/aboutus" id="ctl02_TreeView1t54"><font class="GlobalNavBreadcrumb">About Best Friends</font></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -695,7 +447,7 @@ theForm.ss_eneroot.value = ss_qsvN;
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td><img src="http://network.bestfriends.org/assets/images/nav/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/faq.cfm" id="GlobalNav1_TreeView1t68"><font class="GlobalNavSection">F.A.Q.s</font></a></td>
+			</tbody></table></td><td><img src="/images/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/faq.cfm" id="ctl02_TreeView1t55"><font class="GlobalNavSection">F.A.Q.s</font></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -703,7 +455,7 @@ theForm.ss_eneroot.value = ss_qsvN;
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td><img src="http://network.bestfriends.org/assets/images/nav/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/admissionspolicy.cfm" id="GlobalNav1_TreeView1t69"><font class="GlobalNavSection">Admissions Policy</font></a></td>
+			</tbody></table></td><td><img src="/images/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/monthlymilestones.cfm" id="ctl02_TreeView1t56"><font class="GlobalNavSection">Monthly Milestones</font></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -711,7 +463,7 @@ theForm.ss_eneroot.value = ss_qsvN;
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tAbout Best Friends\\Contact Us')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand <font class=&quot;GlobalNavSection&quot;>Contact Us</font>" border="0"></a></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/staffdepartments" id="GlobalNav1_TreeView1t70"><font class="GlobalNavSection">Contact Us</font></a></td>
+			</tbody></table></td><td><img src="/images/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/admissionspolicy.cfm" id="ctl02_TreeView1t57"><font class="GlobalNavSection">Admissions Policy</font></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -719,7 +471,7 @@ theForm.ss_eneroot.value = ss_qsvN;
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tAbout Best Friends\\Employment')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand <font class=&quot;GlobalNavSection&quot;>Employment</font>" border="0"></a></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/employment" id="GlobalNav1_TreeView1t72"><font class="GlobalNavSection">Employment</font></a></td>
+			</tbody></table></td><td><a href="javascript:__doPostBack('ctl02$TreeView1','tAbout Best Friends\\Contact Us')"><img src="/images/arrow_off.gif" alt="Expand <font class=&quot;GlobalNavSection&quot;>Contact Us</font>" border="0"></a></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/staffdepartments" id="ctl02_TreeView1t58"><font class="GlobalNavSection">Contact Us</font></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -727,27 +479,36 @@ theForm.ss_eneroot.value = ss_qsvN;
 				<tbody><tr>
 					<td></td>
 				</tr>
-			</tbody></table></td><td><img src="http://network.bestfriends.org/assets/images/nav/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/media" id="GlobalNav1_TreeView1t74"><font class="GlobalNavSection">Newsroom</font></a></td>
+			</tbody></table></td><td><a href="javascript:__doPostBack('ctl02$TreeView1','tAbout Best Friends\\Employment')"><img src="/images/arrow_off.gif" alt="Expand <font class=&quot;GlobalNavSection&quot;>Employment</font>" border="0"></a></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/employment" id="ctl02_TreeView1t60"><font class="GlobalNavSection">Employment</font></a></td>
 		</tr>
 	</tbody></table><table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="javascript:__doPostBack('GlobalNav1$TreeView1','tBest Friends Magazine')"><img src="http://network.bestfriends.org/assets/images/nav/arrow_off.gif" alt="Expand Best Friends Magazine" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/allthegoodnews" id="GlobalNav1_TreeView1t75">Best Friends Magazine</a></td>
+			<td><table width="5">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table></td><td><img src="/images/arrow_none.gif" alt=""></td><td class="GlobalNavOff" nowrap="nowrap"><a class="GlobalNavOff" href="http://www.bestfriends.org/aboutus/media" id="ctl02_TreeView1t62"><font class="GlobalNavSection">Newsroom</font></a></td>
+		</tr>
+	</tbody></table><table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><a href="javascript:__doPostBack('ctl02$TreeView1','tBest Friends Magazine')"><img src="/images/arrow_off.gif" alt="Expand Best Friends Magazine" border="0"></a></td><td class="GlobalNavL1 GlobalNavOff" nowrap="nowrap"><a class="GlobalNavL1 GlobalNavOff" href="http://www.bestfriends.org/allthegoodnews" id="ctl02_TreeView1t63">Best Friends Magazine</a></td>
 		</tr>
 	</tbody></table>
 </div>
-
 
         </div>
     </form>
 <!-- removed -->
 </div>
 	
-	<div style="margin-left:8px; margin-top:-3px; width:127px; height:12px; background-image:url(../../resources/news/images/nav/dottedline.gif); background-repeat:no-repeat;"><img src="/images/clear.gif" style="margin:0px; padding:0px; height:0px; width:100px; border:none;"></div>
+	<div style="margin-left:8px; margin-top:-3px; width:127px; height:12px;"><img src="/images/clear.gif" style="margin:0px; padding:0px; height:0px; width:100px; border:none;"></div>
 	
-	
-	<div align="center" style="background-color:#DCDCB2;margin:0px;overflow:hidden;padding:0px;width:139px;">
-		<img src="/images/enewsSignup.jpg" width="139" height="27" style="margin:0px; padding:0px;">
-		<form name="FORM" style="margin:0px; padding:0px;" action="../news_TY.cfm?source=1" method="post">
+	<div align="center" height="140px" width="140px" style="background-image:url('/donate/images/enews_bird.jpg');height:90px;">
+		<br>
+		<br>
+		<br>
+		<br>
+		<form name="FORM" style="margin:0px; padding:0px;" action="/news_action.cfm?source=1" method="post">
 			<input name="FirstName" value="" type="hidden">
 			<input name="LastName" value="" type="hidden">
 			<input name="address1" value="" type="hidden">
@@ -756,14 +517,12 @@ theForm.ss_eneroot.value = ss_qsvN;
 			<input name="state" value="" type="hidden">
 			<input name="zip" value="" type="hidden">
 			<input name="zip4" value="" type="hidden">
-			<input name="org" value="" type="hidden">
-			<input name="email" value="Email Address" size="20" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address'" height="15" type="text" style="border: 1px solid rgb(252, 222, 151); width: 100px; font-size: 10px;"> &nbsp;
+			<input name="org" value="" type="hidden"> 
+			<input name="email" value="Enter e-mail address" size="20" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address'" height="15" type="text" style="border: 1px solid rgb(252, 222, 151); width: 100px; font-size: 10px;"> &nbsp;
 			<input name="Submit" type="image" value="Submit" src="/images/go.gif" align="absbottom">
-		</form>
-		<a href="http://www.bestfriends.org/news_signup.cfm" style="margin:0px; padding:0px;"><img src="http://www.bestfriends.org/images/moreInfo.jpg" width="138" height="22" border="0" style="margin:0px; padding:0px;"></a>
+		</form> 
 	</div>
-	
-	
+	 
 	
 	
 </div>
@@ -771,30 +530,17 @@ theForm.ss_eneroot.value = ss_qsvN;
         <tr><td valign="top">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#CCCC99; margin:9px 0px 0px 0px; padding:0px 0px 0px 0px; text-align:center; vertical-align:top; width:139px;">
 
-	<tbody><tr style="background-color:#CC6600;font-family: Arial, Helvetica, sans-serif;font-size:12px;font-weight:600;font-stretch:condensed;font-style:normal;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;text-align:center;vertical-align:top;width:139px;">
-		<td colspan="3" valign="top">
-			<p style="color:#000000;font-size:24px;font-weight:600;margin:0px 0px 0px 0px;padding:9px 0px 0px 0px;">MAKE</p>
-			<p style="color:#FFFFFF;font-size:18px;font-weight:200;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">NO MORE</p>
-			<p style="color:#FFFFFF;font-size:18px;font-weight:200;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">HOMELESS</p>
-			<p style="color:#FFFFFF;font-size:18px;font-weight:200;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">PETS</p>
-			<p style="color:#000000;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">a reality in</p>
-			<p style="color:#000000;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">our lifetimes.</p>
-			<div style="background-color:#FFFFFF;height:1px;margin:9px auto 9px auto;padding:0px 0px 0px 0px;width:72px;"></div>
-			<p style="color:#000000;font-size:24px;font-weight:600;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">GIVE</p>
-			<p style="color:#000000;margin:0px 0px 0px 0px;padding:0px 0px 3px 0px;">the gift of</p>
-			<p style="color:#FFFFFF;font-size:18px;font-weight:200;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">MEMBERSHIP</p>
-			<div style="background-color:#FFFFFF;height:1px;margin:9px auto 9px auto;padding:0px 0px 0px 0px;width:72px;"></div>
-			<p style="color:#000000;margin:0px 0px 0px 0px;padding:0px 0px 6px 0px;">Two Ways to Give:</p>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="3" style="background-color:#CC6600; margin:0px 0px 0px 0px; padding:0px 0px 9px 0px; text-align:center; vertical-align:top; width:139px;">
+	
+	<tbody><tr>
+		<td colspan="3" style="background-color:#CCCC99; margin:0px 0px 0px 0px; padding:0px 0px 9px 0px; text-align:center; vertical-align:top; width:139px;">
 			
 			
 			 
-				<div style="margin-top:5px"><a href="https://www.bestfriends.org/givethegift/Default.aspx" target="_blank"><img src="http://www.bestfriends.org/resources/org/images/ads/GTF_spring_left_button.jpg" border="0"></a></div>
+				<div style="margin-top:5px"><a href="http://video.bestfriends.org/media/p/1362.aspx" target="_blank"><img src="http://www.bestfriends.org/resources/org/rachelle-pap-button.jpg" border="0"></a></div>
 			 
-				<div style="margin-top:5px"><a href="https://www.bestfriends.org/gift/index.cfm" target="_blank"><img src="http://www.bestfriends.org/resources/org/dad_button_left_dog_052709.jpg" border="0"></a></div>
+				<div style="margin-top:5px"><a href="https://www.bestfriends.org/givethegift/Default.aspx?tc=WGTG09A" target="_blank"><img src="http://www.bestfriends.org/resources/org/images/ads/GTF_spring_left_button.jpg" border="0"></a></div>
+			 
+				<div style="margin-top:5px"><a href="https://www.bestfriends.org/gift/index.cfm?src=bf" target="_blank"><img src="http://www.bestfriends.org/resources/org/images/ads/ad_gift_generic_orange.jpg" border="0"></a></div>
 			
 		
 		</td>
@@ -804,8 +550,6 @@ theForm.ss_eneroot.value = ss_qsvN;
 		<td colspan="3" style="background-color:#CCCC99; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; text-align:center; vertical-align:top; width:139px;">
 			
 			
-			 
-				<div style="margin-top:5px"><a href="https://www.bestfriends.org/summerraffle/index.cfm?" target="_blank"><img src="http://www.bestfriends.org/resources/org/2009-summer-raffle-left-rail-button-127x141.jpg" border="0"></a></div>
 			 
 				<div style="margin-top:5px"><a href="http://www.bestfriendsstore.com/" target="_blank"><img src="http://www.bestfriends.org/resources/org/images/ads/store_left_127x86.jpg" border="0"></a></div>
 			
@@ -851,7 +595,7 @@ theForm.ss_eneroot.value = ss_qsvN;
 					<div style="padding-bottom:8px;"><img src="/images/rel_art_blue.gif" width="104" height="12"></div>
 					<div style="padding-bottom:8px;" class="caption">
 						
-						<a href="pdfs/Best_Friends_Annual_Report_2007.pdf">Annual Report</a><br> 
+						<a href="pdfs/BFAnnualReport08.pdf">Annual Report</a><br> 
 						
 					</div>
 					<div style="padding-bottom:8px;" class="caption">
@@ -911,15 +655,15 @@ var load = window.open('http://www.bestfriends.org/aboutus/TandC.cfm','','scroll
 <div class="footer" style="position:relative;margin-top:0px;background-color:#CCCC99;background-image:url(../images/rust_page_bg_b.jpg);background-repeat:repeat-y;">
 	<table style="margin-top:-6px;" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td><a href="http://www.change.org/nonprofits/view/7171" target="_blank"><img src="http://www.bestfriends.org/images/change_ftr.gif" border="0"></a></td>
+			<td><a href="http://www.change.org/nonprofits/view/7171" target="_blank"><img src="/images/change_ftr.gif" border="0"></a></td>
 			<td>&nbsp;</td>
-			<td><a href="http://www.facebook.com/pages/Best-Friends-Animal-Society/25372476424" target="_blank"><img src="http://www.bestfriends.org/images/facebook_ftr.gif" border="0"></a></td>
+			<td><a href="http://www.facebook.com/pages/Best-Friends-Animal-Society/25372476424" target="_blank"><img src="/images/facebook_ftr.gif" border="0"></a></td>
 			<td>&nbsp;</td>
-			<td><a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=89275949" target="_blank"><img src="http://www.bestfriends.org/images/myspace_ftr.gif" border="0"></a></td>
+			<td><a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=89275949" target="_blank"><img src="/images/myspace_ftr.gif" border="0"></a></td>
 			<td>&nbsp;</td>
-			<td><a href="http://www.youtube.com/user/BestFriendsVideos" target="_blank"><img src="http://www.bestfriends.org/images/Youtube_ftr.gif" border="0"></a></td>
+			<td><a href="http://www.youtube.com/user/BestFriendsVideos" target="_blank"><img src="/images/Youtube_ftr.gif" border="0"></a></td>
 			<td>&nbsp;</td>
-			<td><a href="http://twitter.com/bfas" target="_blank"><img src="http://www.bestfriends.org/images/twitter_ftr.gif" border="0"></a></td>
+			<td><a href="http://twitter.com/bfas" target="_blank"><img src="/images/twitter_ftr.gif" border="0"></a></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
