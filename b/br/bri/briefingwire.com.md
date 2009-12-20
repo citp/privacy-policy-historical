@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the briefingwire.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524224723id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefingwire.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220105218id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.*
 
-# BriefingWire.com - Free Press Release Distribution Website
+# BriefingWire - Free Press Release Submission
 
 **Privacy Policy (01/01/2009)**
 
