@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617073809id_/http%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132928id_/http%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Sri Lanka Cricket
-
-You are herePrivacy policy
 
 This is the web site of **Island Cricket**.  
 We can be reached via e-mail at [admin@islandcricket.lk](mailto:admin@islandcricket.lk)
@@ -35,7 +33,3 @@ If you feel that this site is not following its stated information policy, you m
   * [](http://www.addthis.com/bookmark.php)
 
 
-
-[](http://www.unconditionalcompassion.org/sub/20090202_sanga.htm)
-
-[](http://www.islandcricket.lk/advertise)
