@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaljewish.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618154439id_/http%3A//www.nationaljewish.org/about/websiteinfo/privacy-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaljewish.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220043031id_/http%3A//www.nationaljewish.org/about/websiteinfo/privacy-security.aspx) for the most accurate reproduction.*
 
 # Web Site Privacy and Security - National Jewish Health
 
