@@ -1,21 +1,19 @@
-<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626050843id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220041828id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <title>Privacy and Security Statement</title>
 <!-- ****************************************** Begin META TAGS ********************************************* -->
-
+	<!-- JQUERY -->
+	<script type="text/javascript" src="/javascripts/jquery.js"></script>
 	<!-- FLASH EMBED JS -->
 	<script type="text/javascript" src="/javascripts/swfobject.js"></script>
 	<!-- FONTSWITCHER JS -->
 	<script type="text/javascript" src="/javascripts/font-switcher.js"></script>
 	<!-- END TOP JS -->
-	<!-- BEGIN OSMR SURVEY -->
-	<script type="text/javascript" src="/javascripts/survey.js"></script>
-	<script type="text/javascript">
-		window.onload = show_survey;
-	</script>
-	<!-- END OSMR SURVEY -->
+	<!-- BEGIN FORSEE SURVEY -->
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+	<!-- END FORSEE SURVEY -->
 	<style type="text/css" media="all">
 	<!--
 	@import url("/stylesheets/bls_main.css");
@@ -50,7 +48,7 @@
 	<meta name="audience" content="general">
 <meta name="date" content="05/28/2004">
 <!-- ****************************************** End META TAGS *********************************************** -->
-</head>
+<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 <body>
 <!-- ****************************************** Begin HEADER ************************************************ -->
 	<!--no_index_start-->
@@ -296,9 +294,10 @@ BLS Information
 </div>
 <div class="secondary-nav">
 	<ul class="level1">
-		<li class="menuhead"><a href="/audience/home.htm">RESOURCES FOR:</a></li>
+		<li class="menuhead"><a href="/audience/home.htm">RESOURCES FOR</a></li>
 		<li><a href="/audience/business.htm">BUSINESS LEADERS</a></li>		
 		<li><a href="/audience/consumers.htm">CONSUMERS</a></li>	
+		<li><a href="/audience/economists.htm">ECONOMISTS</a></li>
 		<li><a href="/audience/investors.htm">INVESTORS</a></li>			
 		<li><a href="/audience/jobseekers.htm">JOBSEEKERS</a></li>
 		<li><a href="/newsroom/home.htm">MEDIA</a></li>
@@ -383,6 +382,12 @@ BLS Information
 								<li><a href="/bls/geography.htm">Geography Home</a></li>
 							</ul>
 					</li>
+              <li class="submenu"><a href="#">ERRATA</a>
+              <ul class="level2">
+              <li><a href="/bls/erratabydate.htm">Sorted by date added</a></li>
+				<li><a href="/bls/erratabysubject.htm">Sorted subject area</a></li>
+               </ul>
+               </li>     
 		<li class="submenu"><a href="/bls/other.htm">OTHER STATISTICAL SITES</a>
 			<ul class="level2">
 				<li><a href="/bls/other.htm#pricipal">Federal Statistical Agencies</a></li>
@@ -555,25 +560,6 @@ BLS Information
 		</tr>
 	</tbody></table>
 </div>
-<div id="basicModalContent" style="display: none;">
-	<img src="/images/survey/bls_survey_window_title.gif" alt="Bureau of Labor Statistics">
-	<h1>Sorry for the interruption.</h1>
-	<p>Please help us improve our website by participating in the survey that begins below!</p>
-	<p><strong>Our Pledge of Privacy</strong><br>
-		The answers you provide on this survey will be used by the Bureau of Labor Statistics (BLS) to improve the website.  Please note:</p>
-	<ul>
-		<li>Your participation is completely voluntary and anonymous.</li>
-		<li>We estimate that it will take an average of two minutes to complete this survey.</li>
-		<li><a href="javascript:;" onclick="window.open('http://www.bls.gov/bls/pss.htm','Privacy','width=640,height=480,location=yes,menubar=no,scrollbars=yes,status=no,titlebar=no,toolbar=no,resizable=yes');">Privacy Act Statement</a></li>
-	</ul>
-	<p>Click on the yes button below to take the survey after you have finished visiting our website. The survey will be available in the taskbar at the bottom of your screen when you are ready to take it.</p>
-	<p style="text-align:center;">
-		<input name="yes-button" type="image" value="yes-button" src="/images/survey/survey_yes_button.gif" alt="Yes, I would like to participate." onclick="take_osmr_survey();" class="modalClose">
-		&nbsp;
-		<input name="no-button" type="image" value="no-button" src="/images/survey/survey_no_button.gif" alt="No thanks." onclick="cancel_osmr_survey();" class="modalClose">
-	</p>
-	<img src="/images/survey/bls_survey_window_footer.gif" alt="Modal Box Footer">
-</div>
 
 <!-- QUICK LINKS END -->
 
@@ -594,8 +580,6 @@ BLS Information
 			<td id="dol-footer-left"><a href="#dol-banner"><img src="/images/dol/dol_footer_top_icon_white.gif" alt="Back to Top" width="23" height="23"></a> <a href="#dol-banner">Back to Top</a></td>
 			<td id="dol-footer-center">
 				<!-- JQUERY  FOR THICKBOX FOR POPUP BOXES AND JTIP FOR TOOLTIPS -->
-				<script type="text/javascript" src="/javascripts/jquery.js"></script>
-				<script type="text/javascript" src="/javascripts/jquery.simplemodal.js"></script>
 				<script type="text/javascript" src="/javascripts/thickbox-compressed.js"></script>
 				<script type="text/javascript" src="/javascripts/jtip.js"></script>
 				<!-- BEGIN WEBTRENDS ON DEMAND -->
@@ -604,10 +588,11 @@ BLS Information
 				<script type="text/javascript" src="/javascripts/webtrends-ondemand-files.js"></script>
 				<!-- END ALL JS -->
 				<noscript>
-					<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
+					<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/njs.gif?dcscfg=4&dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
 				</noscript>
 				<!-- END WEBTRENDS ON DEMAND -->
-				<p><img src="/images/layout/spacer.gif" alt="Spacer" width="1" height="23" border="0"><a href="/bls/blsfoia.htm">Freedom of Information Act</a> | <a href="http://www.dol.gov/feedback/FeedbackSurvey.asp">Customer Survey</a> | <a href="http://data.bls.gov/cgi-bin/forms/lab?/bls/pss.htm">Do you have a technical Web site question?</a></p></td>
+				<p><img src="/images/layout/spacer.gif" alt="Spacer" width="1" height="23" border="0"><a href="http://www.bls.gov/bls/blsfoia.htm">Freedom of Information Act</a> | <a href="http://www.dol.gov/feedback/FeedbackSurvey.asp">Customer Survey</a> | <a href="http://data.bls.gov/cgi-bin/forms/lab?/bls/pss.htm">Do you have a technical Web site question?</a></p>
+			</td>
 			<td id="dol-footer-right"><a href="http://www.bls.gov/">bls.gov</a> <a href="/"><img src="/images/dol/dol_footer_home_icon_white.gif" alt="Home" width="23" height="23"></a></td>
 		</tr>
 		<tr>
