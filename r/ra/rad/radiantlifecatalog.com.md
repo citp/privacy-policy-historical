@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612131406id_/http%3A//www.radiantlifecatalog.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220234532id_/http%3A//www.radiantlifecatalog.com/privacy_policy) for the most accurate reproduction.*
 
-# Radiant Life: Ancient Wisdom for Modern Health
+# Nourishing Traditions, Weston Price, Nutrient Dense Foods
 
 Protecting your privacy is important to us and we recognize that your information must be used responsibly. The following information will help you understand how Radiant Life Wellness Catalog collects, uses, and safeguards your personal information. If you have any questions that are not answered here, please contact us and we will answer them. 
 
