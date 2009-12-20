@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011221740id_/http%3A//www.bbr.com/US/shopping/privacy.lml%3FID%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220104303id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Berry Bros & Rudd - Privacy and Security
 
@@ -23,7 +23,7 @@ Questions
 * * *
 
 **What we use your personal information for**  
-Berry Bros. & Rudd collects and uses your information to administer, support, improve and obtain feedback on our services and to detect and prevent faults, breaches of our network security, the law or our contract terms. We will also use all this information to assess what products and services advertised by third parties on the Berry Bros. & Rudd website may be of interest to individuals and to personalise our service and marketing. If you are registered to use a service we may contact you to obtain feedback on that service and any improvements we could make to it.
+Berry Bros. & Rudd collects and uses your information to administer, support, improve and obtain feedback on our services and to detect and prevent faults, breaches of our network security, the law or our contract terms. If you are registered to use a service we may contact you to obtain feedback on that service and any improvements we could make to it.
 
 * * *
 
@@ -57,7 +57,7 @@ If you do receive unwanted email from us all our correspondence offers clear ins
 * * *
 
 **Storage methods and duration**  
-Deliveries should be signed for as `Not Examined' and you should inspect the goods as soon as possible and notify us immediately of breakages or wine shortages. We are unable to guarantee credit or replacements unless we are notified within 14 days of delivery of the order. Please be aware that multi-case orders can become separated. If you do not receive the balance of your order within 3 working days of the first delivery please contact us. Standard UK deliveries should always arrive within 6 working days of the date of order. If you will not be at the delivery address at the time of delivery and wish us to leave your order in a safe place, please advise us. We regret that neither we nor our carriers can accept responsibility for any subsequent loss or damage which occurs once the consignment has been left. Contact us on 0870 900 4300 or e-mail [bbr@bbr.com](mailto:bbr@bbr.com)
+Deliveries should be signed for as `Not Examined' and you should inspect the goods as soon as possible and notify us immediately of breakages or wine shortages. We are unable to guarantee credit or replacements unless we are notified within 14 days of delivery of the order. Please be aware that multi-case orders can become separated. If you do not receive the balance of your order within 3 working days of the first delivery please contact us. Standard UK deliveries should always arrive within 6 working days of the date of order. If you will not be at the delivery address at the time of delivery and wish us to leave your order in a safe place, please advise us. We regret that neither we nor our carriers can accept responsibility for any subsequent loss or damage which occurs once the consignment has been left. Contact us on +44 (0)800 280 2440 or e-mail [bbr@bbr.com](mailto:bbr@bbr.com)
 
 * * *
 
@@ -92,9 +92,12 @@ We use the finest **encryption** systems available to ensure your credit card de
 
 As an additional security precaution we do not store any credit card details on our website.
 
-To assure you of our attention to these issues we belong to the [ISIS](http://www.imrg.org/internet-shopping-is-safe) (Internet Shopping is Safe) scheme and the ["Wine by Mail Order Code of Practice"](http://www.wsa.org.uk/english2/services/ndb.htm).  
+To assure you of our attention to these issues we belong to the [ISIS](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6149351B-9088-4F70-BEEB-1832FA1E4AA4) (Internet Shopping is Safe) scheme and the ["Wine by Mail Order Code of Practice"](http://www.wsa.org.uk/english2/services/ndb.htm).  
 
 
+|  |   
+---|---|---  
+  
 * * *
 
 **Name of company**  
