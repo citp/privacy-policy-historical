@@ -1,31 +1,27 @@
-> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522134123id_/http%3A//administration.ucdenver.edu/privacystmt.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220152352id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# UC Denver Privacy Statement
+# Privacy Policy
 
-COMMITMENT TO INDIVIDUAL PRIVACY
+The University of Colorado supports the protection of individual privacy and is committed to ensuring the confidentiality of personally identifiable information provided by its employees, students, and visitors. However, because the university is a public institution, some personally identifiable information may be subject to disclosure pursuant to the Colorado Open Records Act (C.R.S. ¤ 24-72-101 et seq.). In addition, the university may disclose information to third parties when such disclosure is required or permitted by law. Please go to <http://www.uchsc.edu/hipaa/internal/docs/2.1.doc> for notice of privacy practices related to health care information.
 
-The University of Colorado supports the protection of individual privacy, and is committed to ensuring the confidentiality of personally identifiable information provided by its employees, students, and visitors. However, because the University of Colorado is a public institution, some personally identifiable information may be subject to disclosure pursuant to the Colorado Open Records Act (C.R.S. ¤ 24-72-101 et seq.). In addition, the University may disclose information to third parties when such disclosure is required or permitted by law. 
+If you have comments, questions or concerns about privacy at the university, contact [angela.wishon@uchsc.edu](mailto:angela.wishon@uchsc.edu) or 303-724-10110. When sending comments, please include a current mailing address and do not send attachments with the message.
 
-COLORADO OPEN RECORDS ACT  
+#### N/A COLORADO OPEN RECORDS ACT
+
 (C.R.S. ¤ 24-72-201 et seq.)
 
-The State of Colorado requires that all public records be open for public inspection by any person except as otherwise provided by law. "Public Records" are defined as all writings made or maintained by a state institution, such as the University of Colorado regardless of medium or format. Personal information provided to the University may be subject to public inspection and copying unless protected by state or federal law.
+The state of Colorado requires that all public records be open for public inspection by any person except as otherwise provided by law. "Public Records" are defined as all writings made or maintained by a state institution, such as the University of Colorado, regardless of medium or format. Personal information provided to the university may be subject to public inspection and copying unless protected by state or federal law.
 
-FAMILY EDUCATION RIGHTS AND PRIVACY ACT  
+#### FAMILY EDUCATION RIGHTS AND PRIVACY ACT
+
 (20 U.S.C. ¤ 1232g )
 
-In general, the Family Education Rights and Privacy Act ("FERPA") prohibits the release of students' educational records. However, the University of Colorado may release student directory information or student educational records if allowed or required by FERPA. For more information about FERPA contact your campus registrar's office.
+In general, the Family Education Rights and Privacy Act (FERPA) prohibits the release of students' educational records. However, the University of Colorado may release student directory information or student educational records if allowed or required by FERPA. For more information about FERPA contact the UC Denver campus registrar's office.
 
-INFORMATION COLLECTED
+#### INFORMATION COLLECTED
 
-It is the policy and practice of the University of Colorado to collect the least amount of personally identifiable information necessary to fulfill its required duties and responsibilities, complete a particular transaction, deliver services, or as required by law. This applies to the collection of all personally identifiable information regardless of source or medium. Information provided should only be shared with members of the University community who have a need to know in order to provide services or conduct University business. The University of Colorado may share personally identifiable information with other individuals or organizations that provide services to the University. The University requires these third parties to protect personally identifiable information it receives pursuant to this policy and applicable law. The University will take reasonable and appropriate measures to protect personally identifiable information from unauthorized access or disclosure.
+It is the policy and practice of the University of Colorado to collect the least amount of personally identifiable information necessary to fulfill its required duties and responsibilities, complete a particular transaction, deliver services or as required by law. This applies to the collection of all personally identifiable information regardless of source or medium. Information provided should only be shared with members of the university community who have a need to know to provide services or conduct university business. The University of Colorado may share personally identifiable information with other individuals or organizations that provide services to the university. The university requires these third parties to protect personally identifiable information it receives pursuant to this policy and applicable law. The university will take reasonable and appropriate measures to protect personally identifiable information from unauthorized access or disclosure.
 
-Individuals may choose whether or not to provide information to the University of Colorado via the Internet. Most University websites may be accessed without providing personally identifiable information, however some options or special services may require the submission of personally identifiable information.
+Individuals may choose whether or not to provide information to the University of Colorado via the internet. Most University websites may be accessed without providing personally identifiable information; however some options or special services may require the submission of personally identifiable information.
 
-Information other than personally identifiable information may be collected from the Internet for analysis and statistical purposes. Such information may include user visit logs, network traffic logs, and small text files known as "cookies" used to assess website activity. Information collected from the Internet is used to diagnose problems, assess what information is of most interest, determine technical design specifications, and identify system performance and/or problem areas.
-
-COMMENTS AND FEEDBACK
-
-Please send comments, questions, or concerns to [angela.wishon@uchsc.edu](mailto:Angela.Wischon@uchsc.edu) or 303-724-10110. When sending comments, please include a current mailing address. Please do not send attachments with the message.
-
-Please go to <http://www.uchsc.edu/hipaa/internal/docs/2.1.doc> for notice of Privacy Practices to HIPAA. 
+Information other than personally identifiable information may be collected from the Internet for analysis and statistical purposes. Such information may include user visit logs, network traffic logs, and small text files known as "cookies" used to assess website activity. Information collected from the Internet is used to diagnose problems, assess what information is of most interest, determine technical design specifications and identify system performance and/or problem areas.
