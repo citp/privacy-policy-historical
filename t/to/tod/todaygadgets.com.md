@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaygadgets.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194255id_/http%3A//todaygadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaygadgets.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220022006id_/http%3A//www.todaygadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.todaygadgets.com  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.todaygadgets.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 We has **no access** to or control over these cookies that are used by third-party advertisers.
 
