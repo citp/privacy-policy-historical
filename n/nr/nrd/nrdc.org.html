@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrdc.org privacy policy that was archived on 2009-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090613041225id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrdc.org privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220061236id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>NRDC Privacy Policy</title>
@@ -16,9 +16,11 @@
 
     	@import url(/stylesheets/main.css);
 
+		@import url(/stylesheets/lightwindow.css);
     </style>
-    <link rel="stylesheet" href="/stylesheets/print.css" type="text/css" media="print">
-    <link rel="stylesheet" href="/stylesheets/lightwindow.css" type="text/css" media="screen">
+    <style type="text/css" media="print">
+		@import url(/stylesheets/print.css);
+	</style>
 
 <div id="container">
 
@@ -58,7 +60,7 @@
     <li id="nav-pol"><a href="/policy/">Policy</a></li>
     <li id="nav-liv"><a href="/greenliving/">Green Living</a></li>
     <li id="nav-bus"><a href="/greenbusiness/">Green Business</a></li>
-    <li id="nav-mul"><a href="/multimedia/">Multimedia</a></li>
+    <li id="nav-mul"><a href="/tv/">Multimedia</a></li>
     <li id="nav-blo"><a href="/blogs">Blogs</a></li>
     <li id="nav-don"><a href="/joingive/">Donate</a></li>
     <li id="nav-act"><a href="/action/">Take Action</a></li>
@@ -90,7 +92,7 @@
 <p>NRDC does not collect any information from you without your knowledge and permission, and we do not ask that you enter any personal information to access or use most areas of the NRDC website. In order to use some of the tools and functions, however, such as the online action center, you must enter some identifying information. NRDC does not disclose this information to anyone except 1) to identify you, as described in the following three paragraphs, to those you contact through our website and 2) to manage our website and database with the help of service providers, who are subject to a non-disclosure agreement. Information you provide NRDC is stored in a secure location and is accessible only by designated staff.</p> 
 
 <p><b>Online Activism</b><br>
-To send a message from our online action center to government officials and other decision-makers you must identify yourself by name, address and email address. NRDC includes this information when we send your message. This is necessary for your message to be effective, and in the case of many government officials it is required.</p> 
+To send a message from our online action center to government officials and other decision-makers you must identify yourself by name, address, email address and in some cases, phone number. NRDC includes this information when we send your message. This is necessary for your message to be effective, and in the case of many government officials it is required.</p> 
 
 <p><b>Postcards and "Tell Your Friends" Pages</b><br>
 To forward an article, postcard or action alert you must enter your name, your email address and the email address(es) of anyone you are sending it to. NRDC includes your name and email address when we send your message.</p>
@@ -99,10 +101,10 @@ To forward an article, postcard or action alert you must enter your name, your e
 In addition to information you enter when sending messages to friends and decision-makers from NRDC's website, you may submit information directly to NRDC for purposes including donating, subscribing to an email bulletin or entering a contest. NRDC will not disclose this information to anyone except in accordance with any rules you agree to as a contestant and, as described above, to manage our website and database with the help of service providers, who are subject to a non-disclosure agreement.</p>
 
 <p><b>Reviewing and Updating Your Information</b><br>
-You can review and update the information we have on record for you by going to NRDC's <a href="http://www.nrdconline.org/nrdc/smp">Subscriber Profile Editor</a>. If it's your first time using the profile editor, you'll need to provide your email address on the log-in page so we can send you a password.</p>
+You can review and update the information we have on record for you by going to NRDC's <a href="https://secure.nrdconline.org/site/UserLogin?NEXTURL=https%3A%2F%2Fsecure.nrdconline.org%2Fsite%2FConsProfileUser">Subscriber Profile Editor</a>. If it's your first time using the profile editor, you'll need to provide your email address on the log-in page so we can send you a password.</p>
 
 <p><b>Communications from NRDC</b><br>
-If you have opted to receive any of our publications by email you are able at any time to unsubscribe by following the directions that appear <a href="http://www.nrdcaction.org/subscribe.html">here</a> and in the email publication itself or by contacting NRDC (a link to our contact information appears at the foot of this page).</p>
+If you have opted to receive any of our publications by email you are able at any time to unsubscribe by clicking a link that appears in the email publication itself or by visiting the Subscriber Profile Editor link in the previous paragraph.</p>
 
 <p>When you provide NRDC with your email address and mailing address we may contact you to ask you to become a member of NRDC. You can choose not to receive such requests by contacting our membership department at <a href="mailto:membership@nrdc.org">membership@nrdc.org</a>.</p>
 
@@ -131,22 +133,21 @@ When you donate to NRDC via our website your donation information is encrypted a
         }
         //-->
         </script>
-        <form action="http://www.nrdconline.org/offsite-join.tcl" method="post" onsubmit="popupform(this, 'join')" name="nrdcJoinEmailVal">
-        <input name="domain" value="nrdc" type="hidden">
-        <input name="return_url" value="http://www.nrdcaction.org/thankspop.html" type="hidden">
-        <input name="update" value="t" type="hidden">
-        <input name="source" value="nrdc_subscribeno" type="hidden">
-        <input name="group2" value="sub_newsletter" type="hidden">
-        <input name="group1" value="nrdconline" type="hidden">
-        <label>Email Address</label>
-        <input class="text" type="text" name="email" value="Email Address Here" onfocus="javascript:if(this.value=='Email Address Here')this.value='';">
-        
-        <input class="submit" type="image" src="/_images/bg-submit.gif" name="submit" value="Go">
-        </form>
+        <form action="http://www.nrdc.org/scripts/convio_api.asp" method="post" onsubmit="popupform(this, 'join')" name="nrdcJoinEmailVal">
+	<input name="return_url" value="http://www.nrdcaction.org/thankspop.html" type="hidden">
+	<input name="error_url" value="http://www.nrdcaction.org/thankspop.html" type="hidden"> 
+	<input name="source" value="nrdc_subscribeno" type="hidden">        
+	<input name="add_interest_ids" value="1481" type="hidden">
+	<label>Email Address</label>
+	<input class="text" name="primary_email" value="Email Address Here" onfocus="javascript:if(this.value=='Email Address Here')this.value='';" type="text">
+	<input class="submit" src="/_images/bg-submit.gif" name="submit" value="Go" type="image">
+	</form>
         </div>
         <p class="more"><a href="/newsletter/">See the latest issue &gt;</a></p>
         </div> <!-- end module -->
-<div class="module">
+		
+			<a target="_new" href="http://bit.ly/fbbook"><img border="0" alt="Clean Energy Common Sense - Buy Now" width="183" height="183" src="/commonsense/2FB-ad_183-183.gif"></a>
+		<div class="module">
 <a href="http://www.nrdc.org/joingive/"><img height="100" alt="Donate to NRDC" width="183" border="0" src="/_images/col-right/button-donate-wolves2.jpg"></a>
 </div>
 <div class="module action">
@@ -173,23 +174,19 @@ When you donate to NRDC via our website your donation information is encrypted a
 
     <div id="share">
     <p>
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=ae8c0ada-1e40-4a2a-9c5e-c92c96a8b82e&amp;type=website&amp;style=rotate&amp;post_services=facebook%2Cdigg%2Cdelicious%2Cybuzz%2Ctwitter%2Cstumbleupon%2Creddit%2Ctechnorati%2Cmixx%2Cblogger%2Ctypepad%2Cwordpress%2Cgoogle_bmarks%2Cwindows_live%2Cmyspace%2Cfark%2Cbus_exchange%2Cpropeller%2Cnewsvine%2Clinkedin"></script>: <span class="message">Email this page to your friends or share it on Facebook, Twitter or other social networks.</span>
+    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=ae8c0ada-1e40-4a2a-9c5e-c92c96a8b82e&amp;type=website&amp;style=rotate&amp;post_services=facebook%2Cdigg%2Cdelicious%2Cybuzz%2Ctwitter%2Cstumbleupon%2Creddit%2Ctechnorati%2Cmixx%2Cblogger%2Ctypepad%2Cwordpress%2Cgoogle_bmarks%2Cwindows_live%2Cmyspace%2Cfark%2Cbus_exchange%2Cpropeller%2Cnewsvine%2Clinkedin"></script><!--: <span class="message">Email this page to your friends or share it on Facebook, Twitter or other social networks.</span>-->
     </p>
     </div>
 
     <div id="nrdcsites">
     <h2>Find Your Favorite NRDC website</h2>
-    
-    <dl><dt>News &amp; Blogs:</dt><dd class="first"><a href="http://www.onearth.org">OnEarth/Greenlight</a></dd><dd><a href="http://switchboard.nrdc.org">Switchboard</a></dd><dd><a href="http://www.nrdc.org/naturesvoice/default.asp">Nature's Voice</a></dd><dt>Activism:</dt><dd class="first"><a href="http://www.savebiogems.org">BioGems</a></dd><dd><a href="http://www.polarbearsos.org">Polar Bear SOS</a></dd><dt>Ocean Protection:</dt><dd class="first"><a href="http://oceans.nrdc.org">Your Oceans</a></dd></dl>
-    
-    <dl><dt>Global Warming &amp; Energy:</dt><dd class="first"><a href="http://beattheheat.nrdc.org">Beat the Heat</a></dd><dd><a href="http://beyondoil.nrdc.org">Move America Beyond Oil</a></dd><dt>Health &amp; Green Living:</dt><dd class="first"><a href="http://www.simplesteps.org">Simple Steps</a></dd><dd><a href="http://www.nrdc.org/thisgreenlife/default.asp">This Green Life</a></dd><dd><a href="http://www.greenpaws.org">Green Paws</a></dd></dl>
-
-	<dl><dt>For Business:</dt><dd class="first"><a href="http://www.nrdc.org/buildinggreen/default.asp">Building Green</a></dd><dd><a href="http://www.marketinnovation.org">Market Innovation</a></dd><dd><a href="http://www.e2.org">Environmental Entrepreneurs (E2)</a></dd><dt>NRDC Cool Sites:</dt><dd class="first"><a href="http://www.itsyournature.org">It's Your Nature</a></dd><dd><a href="http://www.greendaynrdc.com">GreenDay+NRDC</a></dd><dt>For Kids:</dt><dd class="first"><a href="http://www.nrdc.org/greensquad/default.htm">Green Squad</a></dd></dl>
-    
+    <dl><dt>Global Warming &amp; Energy:</dt><dd class="first"><a href="http://beattheheat.nrdc.org">Beat the Heat</a></dd><dt>Activism:</dt><dd class="first"><a href="http://www.savebiogems.org">Save BioGems</a></dd><dd><a href="http://www.nrdcactionfund.org">NRDC Action Fund</a></dd><dt>Ocean Protection:</dt><dd class="first"><a href="http://oceans.nrdc.org">Your Oceans</a></dd></dl>
+	<dl><dt>Green, Healthy Living:</dt><dd class="first"><a href="http://www.simplesteps.org">Simple Steps</a></dd><dd><a href="http://smartercities.nrdc.org/">Smarter Cities</a></dd><dd><a href="http://www.nrdc.org/thisgreenlife/default.asp">This Green Life</a></dd><dd><a href="http://www.greenpaws.org">Green Paws</a></dd><dt>NRDC Cool Sites:</dt><dd class="first"><a href="http://www.itsyournature.org">It's Your Nature</a></dd><dd><a href="http://www.greendaynrdc.com">GreenDay+NRDC</a></dd><dt>For Kids:</dt><dd class="first"><a href="http://www.nrdc.org/greensquad/default.htm">Green Squad</a></dd></dl>
+	<dl><dt>News &amp; Blogs:</dt><dd class="first"><a href="http://www.onearth.org">OnEarth/Greenlight</a></dd><dd><a href="http://switchboard.nrdc.org">Switchboard</a></dd><dd><a href="http://www.nrdc.org/naturesvoice/default.asp">Nature's Voice</a></dd><dt>For Business:</dt><dd class="first"><a href="http://www.nrdc.org/buildinggreen/default.asp">Building Green</a></dd><dd><a href="http://www.marketinnovation.org">Market Innovation</a></dd><dd><a href="http://www.e2.org">Environmental Entrepreneurs (E2)</a></dd></dl>
     </div>
-    
+	    
     <div>
-    <dl id="social"><dt>Find NRDC on</dt><dd class="first"><a class="facebook" href="http://www.facebook.com/pages/NRDC-Natural-Resources-Defense-Council/11791104453">Facebook</a></dd><dd><a class="twitter" href="http://twitter.com/nrdc">Twitter</a></dd><dd><a class="youtube" href="http://www.youtube.com/NRDCFlix">YouTube</a></dd></dl>
+    <dl id="social"><dt>Find NRDC on</dt><dd class="first"><a class="facebook" href="http://www.facebook.com/nrdc.org">Facebook</a></dd><dd><a class="twitter" href="http://twitter.com/nrdc">Twitter</a></dd><dd><a class="youtube" href="http://www.youtube.com/NRDCFlix">YouTube</a></dd></dl>
     </div>
 
     </div> 
