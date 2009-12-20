@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619085809id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220153818id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -23,9 +23,11 @@
 	<link href="/wps/themes/html/ExternalVGAMain/css/font_sm.css" rel="styleSheet" type="text/css">
 	<link href="/wps/themes/html/ExternalVGAMain/css/themestyles.css" rel="styleSheet" type="text/css">
     <link href="/wps/themes/html/ExternalVGAMain/css/Styles.css" rel="styleSheet" type="text/css">
+    <link href="/wps/themes/html/ExternalVGAMain/css/dropdown_menu.css" rel="styleSheet" type="text/css">
 
 	<!-- Common JavaScript-->
 	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/common.js"></script>
+	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/dropdown.js"></script>
 
 	
 	
@@ -44,15 +46,19 @@
 		function replaceSpaces() {
 			var proceed = "yes";
 		
-			if(document.searchForm.queryText.value.replace(/\s/g,"") == "" || document.searchForm.queryText.value == "Search") {
+			if(document.searchForm.LMSG_Q.value.replace(/\s/g,"") == "" || document.searchForm.LMSG_Q.value == "Search") {
 				proceed = "no";
 				alert('You must enter a search term');
 			}
 			if (proceed == "yes") {
-				var boxString=document.searchForm.queryText.value;
+				var boxString=document.searchForm.LMSG_Q.value;
+				boxString = boxString.replace(/</g," ");
+				boxString = boxString.replace(/>/g," ");
+				boxString = boxString.replace(/'/g," ");
+
 				var nonChar = new RegExp("\\s","g");
 				boxString=boxString.replace(nonChar,"+");
-				document.searchForm.queryText.value=boxString;
+				document.searchForm.LMSG_Q.value=boxString;
                 //document.searchForm.action = document.searchForm.action + '&searchTerm=' + boxString + '&topnav=yes&kt=alcatel&root=' + 'All of Alcatel';
 				document.searchForm.submit()
 			}	
@@ -252,7 +258,7 @@ function changeLanguageLocale(actionURL,locale)
 	<div><span class="font58em">
 		
 		
-			 <form action="http://www1.alcatel-lucent.com/gsearch/search_null.jhtml" name="searchForm" class="lucentform" method="post" onsubmit="replaceSpaces();return false;">		
+			 <form action="/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3CXMFSYGYRq6m-pEoYgbxjgiRIH1vfV-P_NxU_QD9gtzQiHJHR0UAN0ZNRg!!/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X0FfSFYz" name="searchForm" class="lucentform" method="get" onsubmit="replaceSpaces();return false;">		
 		     
 		
 	
@@ -291,7 +297,7 @@ function changeLanguageLocale(actionURL,locale)
 		
 		<!-- Search form -->
 		   
-		       <span class="dropShadow1"><span class="dropShadow2"><span class="dropShadow3"><input type="text" name="queryText" class="searchField" onfocus="this.select();"></span></span></span>
+		       <span class="dropShadow1"><span class="dropShadow2"><span class="dropShadow3"><input type="text" name="LMSG_Q" class="searchField" onfocus="this.select();"></span></span></span>
 		       <span class="dropShadow1"><span class="dropShadow2"><span class="dropShadow3"><input type="submit" class="submit" value="Search" border="0"></span></span></span>
 		     
 		     </form>
@@ -326,10 +332,19 @@ function changeLanguageLocale(actionURL,locale)
 
 
 
+
+
+
+
+
+
 	
 		
 			
 				
+			
+			
+		
 			
 			
 		
@@ -424,6 +439,15 @@ function changeLanguageLocale(actionURL,locale)
 					
 					
 					
+					<td>
+					
+					</td>
+					
+
+					
+					
+					
+					
 					
 					
 
@@ -432,17 +456,13 @@ function changeLanguageLocale(actionURL,locale)
 					
 					
 					
-
-					
-						
-					
-					
 					
 					
 					
 
 					
-						
+					
+					
 					
 					
 					
@@ -450,19 +470,16 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
-								<td><a class="navItemFirst" href="/wps/portal/Solutions"> 
-									Solutions
-								</a></td>
-								
 					
 					
+							<td>
+								<div id="topMenu.lu.pub.cat.pg.solutions" class="topmenustyle">
+									<a class="navItemFirst" href="/wps/portal/Solutions" rel="dropmenu.lu.pub.cat.pg.solutions"> 
+										Solutions
+									</a>
+								</div>
+							</td>
 					
-					
-					
-
-					
-						
 					
 					
 					
@@ -470,15 +487,8 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
 					
 					
-					
-					
-					
-
-					
-						
 					
 					
 					
@@ -486,12 +496,8 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
-									<td>	<a class="navItem" href="/wps/portal/Products"> 
-											Products
-										</a>
-										</td>
-									
+					
+					
 					
 					
 					
@@ -499,20 +505,8 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
 					
 					
-					
-					
-					
-
-					
-						
-									<td>	<a class="navItem" href="/wps/portal/Services"> 
-											Services
-										</a>
-										</td>
-									
 					
 					
 					
@@ -520,25 +514,16 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
-									<td>	<a class="navItem" href="/wps/portal/innovation"> 
-											Innovation
-										</a>
-										</td>
-									
 					
 					
+							<td>
+								<div id="topMenu.lu.pub.cat.pg.prodcatalog" class="topmenustyle">
+									<a class="navItem" href="/wps/portal/Products" rel="dropmenu.lu.pub.cat.pg.prodcatalog"> 
+										Products
+									</a>
+								</div>
+							</td>
 					
-					
-					
-
-					
-						
-									<td>	<a class="navItem" href="/wps/portal/support"> 
-											Support
-										</a>
-										</td>
-									
 					
 					
 					
@@ -546,13 +531,8 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
-							
-						         
-								<td><a class="navItemEnd" href="/wps/portal/aboutus"> 
-									About Us
-								</a></td>
-								
+					
+					
 					
 					
 					
@@ -560,23 +540,16 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
 					
 					
+							<td>
+								<div id="topMenu.pub.corp.pg.services" class="topmenustyle">
+									<a class="navItem" href="/wps/portal/Services" rel="dropmenu.pub.corp.pg.services"> 
+										Services
+									</a>
+								</div>
+							</td>
 					
-					
-					
-
-					
-						
-					
-					
-					
-					
-					
-
-					
-						
 					
 					
 					
@@ -584,23 +557,16 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
 					
 					
+							<td>
+								<div id="topMenu.pub.corp.pg.innovation" class="topmenustyle">
+									<a class="navItem" href="/wps/portal/innovation" rel="dropmenu.pub.corp.pg.innovation"> 
+										Innovation
+									</a>
+								</div>
+							</td>
 					
-					
-					
-
-					
-						
-					
-					
-					
-					
-					
-
-					
-						
 					
 					
 					
@@ -608,14 +574,111 @@ function changeLanguageLocale(actionURL,locale)
 					
 
 					
-						
+					
+					
+							<td>
+								<div id="topMenu.pub.corp.pg.support" class="topmenustyle">
+									<a class="navItem" href="/wps/portal/support" rel="dropmenu.pub.corp.pg.support"> 
+										Support
+									</a>
+								</div>
+							</td>
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+							<td>
+								<div id="topMenu.lu.pub.corp.pg.aboutus" class="topmenustyle">
+									<a class="navItemEnd" href="/wps/portal/aboutus" rel="dropmenu.lu.pub.corp.pg.aboutus"> 
+										About Us
+									</a>
+								</div>
+							</td>
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+					
+					
 					
 					
 					
 					
 				</tr>
 			</tbody></table>
-
 
 
 
@@ -630,7 +693,10 @@ function changeLanguageLocale(actionURL,locale)
 			<table width="700" cellspacing="0" cellpadding="0" border="0">
 			
 			</table>
-			</td>
+			</td> 
+            
+
+
 			</tr>
 			</tbody></table>
 
@@ -898,7 +964,7 @@ http://www.omniture.com -->
 				         &nbsp;|&nbsp;
 				
 				
-				         <a href="/wps/portal/sitemap" target="_self" class="footItem" title="Site Map">
+				         <a href="/sitemap/sitemap.html" target="_self" class="footItem" title="Site Map">
 				              Site Map
 				         </a>
 				         &nbsp;|&nbsp;
