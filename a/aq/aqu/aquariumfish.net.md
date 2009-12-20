@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquariumfish.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618194419id_/http%3A//www.aquariumfish.net/pages/privacy_statement.htm%23top2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquariumfish.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220125207id_/http%3A//www.aquariumfish.net/pages/privacy_statement.htm%23top2) for the most accurate reproduction.*
 
 # AquarumFish.net - Terms of Business for our Retail Tropical Fish Store.
 
@@ -32,6 +32,6 @@
 |  |   |   
 |  |   
 ** We have a Newsletter.    
-** If you subscribe to our Newsletter, we will protect your name and email address, and we will not sell, trade, or give away any information to anyone. Click [here](https://web.archive.org/web/20090618194419id_/http%3A//www.aquariumfish.net/pages/newsletter.htm) for more information about our free weekly Newsletter. |  |   
+** If you subscribe to our Newsletter, we will protect your name and email address, and we will not sell, trade, or give away any information to anyone. Click [here](https://web.archive.org/web/20091220125207id_/http%3A//www.aquariumfish.net/pages/newsletter.htm) for more information about our free weekly Newsletter. |  |   
   |  |   
 |  |  
