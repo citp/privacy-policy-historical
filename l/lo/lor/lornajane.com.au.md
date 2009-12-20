@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531084217id_/http%3A//www.lornajane.com.au/content/cms/PrivacyPolicy/2408) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132459id_/http%3A//www.lornajane.com.au/content/cms/PrivacyPolicy/2408) for the most accurate reproduction.*
 
-# 
+# Lorna Jane - Shop Online
 
   
 This statement sets out Lorna Jane Pty Ltd's ('Lorna Jane') policies relating to the personal information you provide to us in the course of your customry. 
