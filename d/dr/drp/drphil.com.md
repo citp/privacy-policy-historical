@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200623id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005004id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
 
 # Dr. Phil.com - Privacy Policy
 
@@ -146,7 +146,7 @@ Company incorporates reasonable safeguards to help protect and secure your perso
 
 Return to Top **_A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY_**
 
-The Web Site is a general audience web site. We do not knowingly collect any personal information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13). 
+The Web Site is a general audience web site. We do not knowingly collect any personal information from children younger than the age of eighteen (18) on the Web Site and we will delete any information later determined to be from a user younger than eighteen (18). 
 
 Return to Top **_NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY_**
 
