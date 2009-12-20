@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rifftrax.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202402id_/http%3A//www.rifftrax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rifftrax.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220012805id_/http%3A//www.rifftrax.com/privacy) for the most accurate reproduction.*
 
 # RiffTrax Privacy Policy | RiffTrax
-
-This content requires the Adobe Flash Player.[Get Flash](http://www.macromedia.com/go/getflash/)
 
 **Privacy Policy**
 
