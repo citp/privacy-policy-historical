@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618100923id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220020019id_/http%3A//www.freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Free Traffic Tips
 
@@ -24,6 +24,6 @@ Please contact those vendors and others directly if you have any questions about
 
 For any other information send any blank email to at staff @ freetraffictip.com for instructions.
 
-How To Get Unstoppable Traffic? [Go Evergreen](http://www.trafficreality.com/evergreen/). Read the true story of how one of the site owners, ill and preparing to retire, created traffic so powerful that she couldn’t turn it off - and how you can do the same for your site.
+Popularity: unranked
 
-[convert this post to pdf.](http://www.freetraffictip.com/wp-content/plugins/post2pdf/generate.php?post=1642)
+[convert this post to pdf.](http://www.freetraffictip.com/wp-content/plugins/post2pdf/generate.php?post=j)
