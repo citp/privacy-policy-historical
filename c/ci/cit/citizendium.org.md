@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizendium.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062415id_/http%3A//en.citizendium.org/wiki/CZ%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizendium.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002421id_/http%3A//en.citizendium.org/wiki/CZ%3APrivacy_policy) for the most accurate reproduction.*
 
 # CZ:Privacy policy - Citizendium
 
@@ -18,7 +18,7 @@ It is impossible for the vast majority of contributors or readers to find out an
 
 [hide] _Citizendium_ [Organization](https://web.archive.org/wiki/CZ:Organization "CZ:Organization")  
 ---  
-[CZ:Home](https://web.archive.org/wiki/CZ:Home "CZ:Home") | [Workgroups](https://web.archive.org/wiki/CZ:Workgroups "CZ:Workgroups") | [Personnel](https://web.archive.org/wiki/CZ:Personnel "CZ:Personnel") | [Recruitment](https://web.archive.org/wiki/CZ:Recruitment "CZ:Recruitment") | [Contact](https://web.archive.org/wiki/CZ:Contact "CZ:Contact") | [Donate](https://web.archive.org/wiki/CZ:Donate "CZ:Donate") | [Other](https://web.archive.org/wiki/Category:Organization "Category:Organization")  
+[CZ:Home](https://web.archive.org/wiki/CZ:Home "CZ:Home") | [Workgroups](https://web.archive.org/wiki/CZ:Workgroups "CZ:Workgroups") | [Personnel](https://web.archive.org/wiki/CZ:Personnel "CZ:Personnel") | [Recruitment](https://web.archive.org/wiki/CZ:Recruitment "CZ:Recruitment") | [Contact](https://web.archive.org/wiki/CZ:Contact "CZ:Contact") | [Donate](https://web.archive.org/wiki/CZ:Donate "CZ:Donate") | [FAQ](https://web.archive.org/wiki/CZ:FAQ "CZ:FAQ") | [Sitemap](https://web.archive.org/wiki/CZ:Sitemap "CZ:Sitemap") | [Other](https://web.archive.org/wiki/Category:Organization "Category:Organization")  
 [Home](https://web.archive.org/wiki/CZ:Home "CZ:Home") |  | [Getting Started](https://web.archive.org/wiki/CZ:Getting_Started "CZ:Getting Started") | [Organization](https://web.archive.org/wiki/CZ:Organization "CZ:Organization") | [Technical Help](https://web.archive.org/wiki/CZ:Technical_Help "CZ:Technical Help") | [Content Policy](https://web.archive.org/wiki/CZ:Content_Policy "CZ:Content Policy") | [Article Lists](https://web.archive.org/wiki/CZ:Article_Lists "CZ:Article Lists")  
 ---|---|---|---|---  
 [Initiatives](https://web.archive.org/wiki/CZ:Initiatives "CZ:Initiatives") | [Communication](https://web.archive.org/wiki/CZ:Communication "CZ:Communication") | [Editor Policy](https://web.archive.org/wiki/CZ:Editor_Policy "CZ:Editor Policy") | [Editorial Council](https://web.archive.org/wiki/CZ:Editorial_Council "CZ:Editorial Council") | [Constabulary](https://web.archive.org/wiki/CZ:Constabulary "CZ:Constabulary")  
