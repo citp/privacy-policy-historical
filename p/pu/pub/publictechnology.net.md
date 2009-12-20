@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615183419id_/http%3A//www.publictechnology.net/modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002445id_/http%3A//www.publictechnology.net/modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
 
 # e-Government & public sector IT news + job vacancies: PublicTechnology.net
 
 | [](http://www.publictechnology.net/)|   
 ---|---  
-|   
   
----|---  
+[](http://www.publictechnology.net/modules.php?op=modload&name=News&file=article&sid=21812)
+
 | | 
 
 **  
@@ -58,10 +58,7 @@ You are entitled to be informed of the personally identifiable information PT ho
 
 | 
 
-[](http://www.publictechnology.net/advertise/contact.php)
-
-  
-  
+[](http://www.publictechnology.net/advertise/contact.php)  
   
 ---|---  
 | |   
