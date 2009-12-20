@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416232739id_/http%3A//newyork.joonbug.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220121829id_/http%3A//seattle.joonbug.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ SkyNet Media Group has implemented security policies, rules and technical measur
 
 **California Privacy Policy**
 
-SkyNet Media Group's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, SkyNet Media Group may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding SkyNet Media Group's information sharing practices, please let us know. Contact information can be found at [www.newyork.joonbug.com/contact](http://www.newyork.joonbug.com/contact). 
+SkyNet Media Group's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, SkyNet Media Group may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding SkyNet Media Group's information sharing practices, please let us know. Contact information can be found at [www.seattle.joonbug.com/contact](http://www.seattle.joonbug.com/contact). 
 
 **Special Note for Parents**
 
@@ -57,10 +57,10 @@ Protecting the privacy of young children is especially important. For that reaso
 **Modification and Deletion of Personally Identifiable Information**
 
 Deletion (Opt-Out).   
-In order to delete the personally identifiable information you submitted, notify us at [support@newyork.joonbug.com](mailto:support@newyork.joonbug.com) that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+In order to delete the personally identifiable information you submitted, notify us at [support@seattle.joonbug.com](mailto:support@seattle.joonbug.com) that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 Modification.  
-If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at [support@newyork.joonbug.com](mailto:support@newyork.joonbug.com)   
+If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at [support@seattle.joonbug.com](mailto:support@seattle.joonbug.com)   
 Please note that deletion of your personally identifiable information from SkyNet Media Group's database will not prevent SkyNet Media Group from using gathered anonymous information. 
 
 Third Parties' Practices.  
