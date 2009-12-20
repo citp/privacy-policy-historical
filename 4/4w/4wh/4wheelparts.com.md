@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429051852id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220092818id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
@@ -30,7 +30,7 @@ Should you have any questions, comments, or concerns about our site, please feel
   * **Personal Records**  
 We do not keep your private information recorded anywhere on our computers -- save for invoices -- and credit card or other such information is never distributed, revealed, or sold for any reason whatsoever. 
 
-While doing business with you, we may have to gather certain information, such as your name, vehicle, and home or email addresses. We will not sell, rent, trade or give away individual, personally identifiable information entered on this site to any third party. We collect such information so that we can process orders, personalize your shopping experience, or send you the latest product news and other useful material.
+While doing business with you, we may have to gather certain information, such as your name, vehicle, and home or email addresses. We occasionally make our mailing list available to carefully selected companies whose products or services might interest you. If you prefer to have your name withheld, please send your name, address, city, state and zip code with explanation to: 400 West Artesia Blvd, Compton CA 90220.
 
 If you do not wish to receive further material from 4 Wheel Parts, you can simply respond to our email or otherwise tell us that you do not want to receive future communications.
 
