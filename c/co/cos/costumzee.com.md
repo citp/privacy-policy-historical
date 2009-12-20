@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costumzee.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620180712id_/http%3A//www.costumzee.com/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumzee.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220125402id_/http%3A//www.costumzee.com/page/view/privacy) for the most accurate reproduction.*
 
-# privacy policy - Costumzee.com
+# privacy policy
 
 ## Privacy Policy
 
