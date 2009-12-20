@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animevice.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174419id_/http%3A//www.animevice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animevice.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220104900id_/http%3A//www.animevice.com/privacy) for the most accurate reproduction.*
 
-# AnimeVice.com - Anime and Manga, Encyclopedia and Community
+# Anime Vice Privacy Policy
 
 This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us at privacy@giantbomb.com or send us a note to:
 
@@ -36,7 +36,7 @@ It goes without saying that any personally identifiable information that you sub
 
 Private Messaging
 
-If you want to contact another AnimeVice registered user, you may send a private message (PM) through the site. You will be identified to that user only by your user name, and we will not disclose your email address to that member or theirs to you.
+If you want to contact another Anime Vice registered user, you may send a private message (PM) through the site. You will be identified to that user only by your user name, and we will not disclose your email address to that member or theirs to you.
 
 _Cookies, Web Beacons and Web Logs_
 
@@ -96,11 +96,11 @@ If we sell all or a portion of our business, we may transfer some or all of your
 
 Accessing and Changing Your Account Information.
 
-You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your AnimeVice account, send an email to account@giantbomb.com using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
+You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Anime Vice account, send an email to account@giantbomb.com using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
 
 Security.
 
-In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your AnimeVice account has been compromised, please email us at security@giantbomb.com.
+In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your Anime Vice account has been compromised, please email us at security@giantbomb.com.
 
 Changes to this Privacy Policy.
 
