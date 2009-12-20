@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumerismcommentary.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619063428id_/http%3A//www.consumerismcommentary.com/privacy-policy-for-consumerism-commentary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerismcommentary.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220120859id_/http%3A//www.consumerismcommentary.com/privacy-policy-for-consumerism-commentary) for the most accurate reproduction.*
 
-# Privacy Policy for Consumerism Commentary - Consumerism Commentary, personal finance since 2003
+# Privacy Policy for Consumerism Commentary - Consumerism Commentary
 
 The privacy of our visitors to Consumerism Commentary is important to us. 
 
