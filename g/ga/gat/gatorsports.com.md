@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213257id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221004111id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACYPOLICY | Gatorsports.com | The Gainesville Sun
 
@@ -57,6 +57,10 @@ We reserve the right to place a The Gainesville Sun Company cookie on your compu
 
 For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
+
 NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of Gatorsports.com is owned and used by The Gainesville Sun or NYTRMG. The Gainesville Sun reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
 
 We reserve the right to change the vendors who provide us with usage data.
@@ -97,9 +101,7 @@ If you choose to receive them, The Gainesville Sun will periodically send you e-
 
 ## What is our e-mail policy?
 
-The Gainesville Sun complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ ](mailto:)
-
-[
+The Gainesville Sun complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@gvillesun.com](mailto:online@gvillesun.com). 
 
 ### Account and Service-Related E-mail:
 
@@ -111,9 +113,7 @@ We offer e-mail newsletters. If you no longer wish to receive a specific newslet
 
 ### Promotional E-mail:
 
-](mailto:)
-
-[If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can ](mailto:)[opt-out](https://web.archive.org/section/manage/).
+If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
 
 From time to time, The Gainesville Sun may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
 
@@ -145,9 +145,7 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 Manage your Gatorsports.com account at Member Center: You may review and update your Gatorsports.com membership or account information and access your transaction history in the [Member Center](https://web.archive.org/section/manage/).
 
-There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at or [ ](mailto:)
-
-[
+There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at or [ online@gvillesun.com](mailto:online@gvillesun.com). 
 
 ## How do I opt-out from receiving promtional offers?
 
@@ -174,5 +172,3 @@ In accordance with the Children's Online Privacy Protection Act (COPPA), The Gai
 ## Other Information: Changes to This Policy
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect. Registered users will be notified via e-mail.
-
-](mailto:)
