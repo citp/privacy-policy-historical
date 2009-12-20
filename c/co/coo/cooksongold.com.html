@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cooksongold.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617194535id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksongold.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220022519id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Security &amp; Privacy - Cooksongold.com</title>
@@ -9,6 +9,7 @@
 <script src="/scripts/dynamiclayout.js" type="text/javascript"></script>
 <script type="text/javascript" src="/scripts/common.js"></script><style type="text/css">.closed ul{display:none;}.open ul{display:block;}</style>
 <script src="/scripts/x.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript" src="/scripts/ffsuggest.js"></script>
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 </head>
 
@@ -81,7 +82,7 @@ function bookmarksite(url){
 </div>
 <div class="floatLeft">
 <div><img src="/images/topleftImage.jpg" alt="cooksongold" width="190" height="105"></div>
-<div id="category"><div><div class="categoryHeader">category selection </div></div></div>
+<div id="category"><div><div class="categoryHeader" style="font-size: 1.4em;">search cooksongold </div></div></div>
 </div>
 <div class="floatLeft">
 <div id="logo" style="background:#64686D  url(/images/cooksongold_com.gif) left no-repeat;"></div>
@@ -124,19 +125,58 @@ welcome to the widest choice of precious metals on-line
 
 
 
+
+
+
+
+
+
  
-<div id="left" style="height: 1492px;"><div id="leftcontent">
+<div id="left" style="height: 1569px;"><div id="leftcontent">
+<div class="Sideboxes" style="margin-top:0">
+<form method="get" action="http://www.cooksongold.com/category_select.jsp" name="search_word_inc" onsubmit="verifyprd();">
+<p class="floatLeft"><input class="search" type="text" name="query" id="query" autocomplete="off" maxlength="50" value=""></p>
+<p class="floatRight"><input class="submit" name="submit" type="image" value="submit" src="/images/submit.gif" alt="submit" align="middle"></p>
+<div class="clearthis"></div>
+<div id="suggestLayer" class="suggestLayer" style="z-index:1001;"></div>
+
+<script language="JavaScript" type="text/javascript">
+var suggest			= new FFSuggest();
+
+var searchURL		= "http://www.cooksongold.com/suggestProxy.jsp";
+var formname		= "search_word_inc";
+var queryParamName	= "query";
+var channelParamName	= "channel";
+var channel		= "uk";
+var divLayername	= "suggestLayer";
+var instanceName	= "suggest";
+var debugMode		= false;
+suggest.init(searchURL, formname, queryParamName, divLayername, instanceName, debugMode, channelParamName, channel);
+
+document.onmousedown = suggest.hideLayerOutsideCall;
+document.forms["search_word_inc"]["query"].focus();
+document.forms["search_word_inc"]["query"].select();
+</script>
+</form>
+<div class="clearthis"></div>
+</div>
+ 
+<p class="Title"><label for="prod_search">category selection</label></p>
  
 <div id="menu">
 <div class="open" id="p1"><ul>
  
 <li><a class="current" href="http://www.cooksongold.com/Shop-Home/">Shop Home</a></li>
  
-<li><a href="http://www.cooksongold.com/Argentium-Silver/"><font color="red">New! </font>Argentium Silver</a></li>
+<li><a href="http://www.cooksongold.com/Argentium-Silver/">Argentium Silver</a></li>
  
 <li><a href="http://www.cooksongold.com/Books/">Books</a></li>
  
 <li><a href="http://www.cooksongold.com/Cast-Rings/">Cast Rings</a></li>
+ 
+<li><a href="http://www.cooksongold.com/Charm-Beads/"><font color="red">New! </font>Charm Beads</a></li>
+ 
+<li><a href="http://www.cooksongold.com/Enamelling/">Enamelling</a></li>
  
 <li><a href="http://www.cooksongold.com/Findings/">Findings</a></li>
  
@@ -151,6 +191,8 @@ welcome to the widest choice of precious metals on-line
 <li><a href="http://www.cooksongold.com/Grain-and-Casting-Pieces/">Grain and Casting Pieces</a></li>
  
 <li><a href="http://www.cooksongold.com/Loose-Chain/">Loose Chain</a></li>
+ 
+<li><a href="http://www.cooksongold.com/Napkin-Rings/">Napkin Rings</a></li>
  
 <li><a href="http://www.cooksongold.com/Packaging-and-Boxes/">Packaging and Boxes</a></li>
  
@@ -171,6 +213,8 @@ welcome to the widest choice of precious metals on-line
 <li><a href="http://www.cooksongold.com/Strip-Bezel-and-Gallery/">Strip Bezel and Gallery</a></li>
  
 <li><a href="http://www.cooksongold.com/Jewellery-Tools/">Jewellery Tools</a></li>
+ 
+<li><a href="http://www.cooksongold.com/Swarovski-Crystal-Beads/"><font color="red">New! </font>Swarovski Crystal Beads</a></li>
  
 <li><a href="http://www.cooksongold.com/Tube/">Tube</a></li>
  
@@ -204,7 +248,6 @@ welcome to the widest choice of precious metals on-line
 <form method="get" action="http://www.cooksongold.com/category_select.jsp" name="categories">
 <input type="hidden" name="category" value="Shop-Home">
  
- 
 <p class="showLeft"><label for="show">Show:</label></p>
 <p class="floatLeft" style="padding-top:4px"> <select name="show" id="show" class="selectShow">
  
@@ -212,7 +255,6 @@ welcome to the widest choice of precious metals on-line
   <option value="Y">In Stock</option>
   <option value="E">Sale Items</option>
   <option value="2">New Products</option>
-  <option value="D">Clearance</option>
   <option value="1">Best Sellers</option>
  
  </select>
@@ -225,16 +267,6 @@ welcome to the widest choice of precious metals on-line
 <input type="hidden" name="pagenum" value="0">
 <input type="hidden" name="orderby" value="numpicks">
 <input type="hidden" name="numperpage" value="10">
-</form>
-<div class="clearthis"></div>
-</div>
-<div class="Sideboxes">
-<form method="get" action="http://www.cooksongold.com/product_detail.jsp" name="prod" onsubmit="verifyprd();">
-<p class="Title"><label for="prod_search">Search</label></p>
- 
-<p class="floatLeft"><input class="search" type="text" name="prod_search" id="prod_search" maxlength="50" value="product code or keyword" onfocus="this.value='';"></p>
- 
-<p class="floatRight"><input class="submit" name="submit" type="image" value="submit" src="/images/submit.gif" alt="submit" align="middle"></p>
 </form>
 <div class="clearthis"></div>
 </div>
@@ -310,13 +342,13 @@ welcome to the widest choice of precious metals on-line
 <p class="Title">Best Sellers</p>
 <div style="text-align:left; padding:10px 8px 10px 3px;">
  
-<p><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Strip,-3.0mm-X-0.50mm,-600mm-Lengths,-Weight-Per-Strip-9g-prcode-CTB-500" title="Click for more details." style="font-weight: normal">
-1. Easy Silver Solder Strip, 3.0mm X 0.50mm, 600mm Lengths, Weight Per Strip 9g
+<p><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Round-Wire-0.50mm-prcode-HSA-050" title="Click for more details." style="font-weight: normal">
+1. Sterling Silver Round Wire 0.50mm
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
-<p><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Wire-0.50mm-prcode-HSA-050" title="Click for more details." style="font-weight: normal">
-2. Sterling Silver Wire 0.50mm
+<p><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Strip,-3.0mm-X-0.50mm,-600mm-Lengths,-Weight-Per-Strip-9g-prcode-CTB-500" title="Click for more details." style="font-weight: normal">
+2. Easy Silver Solder Strip, 3.0mm X 0.50mm, 600mm Lengths, Weight Per Strip 9g
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
@@ -325,18 +357,18 @@ welcome to the widest choice of precious metals on-line
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
-<p><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Paste,-30g-Syringe-prcode-PAT-020" title="Click for more details." style="font-weight: normal">
-4. Easy Silver Solder Paste, 30g Syringe
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
- 
-<p><a href="http://www.cooksongold.com/Wire/9ct-DF-Yellow-Round-Wire-1.00mm-Diameter-prcode-HAA-100" title="Click for more details." style="font-weight: normal">
-5. 9ct DF Yellow Round Wire 1.00mm Diameter
+<p><a href="http://www.cooksongold.com/Jewellery-Tools/3--Adjustable-Saw-Frame-prcode-999-735" title="Click for more details." style="font-weight: normal">
+4. 3" Adjustable Saw Frame
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
 <p><a href="http://www.cooksongold.com/Loose-Chain/Silver-Navette-Trace,-Loose-prcode-WVT-800" title="Click for more details." style="font-weight: normal">
-6. Silver Navette Trace, Loose
+5. Silver Navette Trace, Loose
+</a></p>
+<p style="line-height:0.5em;">&nbsp;</p>
+ 
+<p><a href="http://www.cooksongold.com/Wire/9ct-DF-Yellow-Round-Wire-1.00mm-Diameter-prcode-HAA-100" title="Click for more details." style="font-weight: normal">
+6. 9ct DF Yellow Round Wire 1.00mm Diameter
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
@@ -345,18 +377,18 @@ welcome to the widest choice of precious metals on-line
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
-<p><a href="http://www.cooksongold.com/Jewellery-Tools/Finger-Protection-Tape---90ft-Per-Roll-prcode-998-071" title="Click for more details." style="font-weight: normal">
-8. Finger Protection Tape - 90ft Per Roll
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
- 
-<p><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Square-Wire-1.00-MM-prcode-JSA-100" title="Click for more details." style="font-weight: normal">
-9. Sterling Silver Square Wire 1.00 MM
+<p><a href="http://www.cooksongold.com/Findings/Silver-Plain-Crimp-Tube,-Pack-Of-12,-1.3-Inside-Diameter-X-2mm-Long-prcode-NVO-108" title="Click for more details." style="font-weight: normal">
+8. Silver Plain Crimp Tube, Pack Of 12, 1.3 Inside Diameter X 2mm Long
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
 <p><a href="http://www.cooksongold.com/Grain-and-Casting-Pieces/Sterling-Silver-Grain-prcode-ASA-000" title="Click for more details." style="font-weight: normal">
-10. Sterling Silver Grain
+9. Sterling Silver Grain
+</a></p>
+<p style="line-height:0.5em;">&nbsp;</p>
+ 
+<p><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Square-Wire-1.00-MM-prcode-JSA-100" title="Click for more details." style="font-weight: normal">
+10. Sterling Silver Square Wire 1.00 MM
 </a></p>
 <p style="line-height:0.5em;">&nbsp;</p>
  
@@ -417,7 +449,7 @@ welcome to the widest choice of precious metals on-line
 <a href="/exit_shop.jsp"><b>home</b></a> &gt; <a href="help.jsp">help</a> &gt; security &amp; privacy</div>
 
 <div class="clearthis"></div>
-<div id="middle" style="height: 1492px;"><div id="contentcontent">
+<div id="middle" style="height: 1569px;"><div id="contentcontent">
 <div class="DetailContainer">
 <h1>Security &amp; Privacy</h1>
 <table width="90%" border="0" align="center">
@@ -499,11 +531,17 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
 
 
  
-<div id="right" style="height: 1492px;"><div id="rightcontent"> 
+<div id="right" style="height: 1569px;"><div id="rightcontent"> 
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/argentiumsilver.jsp"><img src="/images/banners/argentium_silver_range_large.jpg" width="189px" alt="NEW Argentium Silver"></a>
+<a href="http://www.cooksongold.com/home/xmas_post.jsp"><img src="/images/banners/delivery.jpg" width="189px" alt="Cooksongold Final Delivery Date"></a>
+ 
+</div>
+ 
+<div class="rightSideboxes" style="border: 0;">
+ 
+<a href="http://www.cooksongold.com/home/win_rollingmill.jsp"><img src="/images/banners/register.jpg" width="189px" alt="Register to WIN!"></a>
  
 </div>
  
@@ -515,73 +553,79 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=newsilverfindings"><img src="/images/banners/new findings_large.jpg" width="189px" alt="NEW Silver Findings"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=stockingfillers10"><img src="/images/banners/stocking-fillers.jpg" width="189px" alt="Stocking Fillers Under a Tenner"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=reducedfindings"><img src="/images/banners/reduced_large.jpg" width="189px" alt="Reduced Findings"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=giftsunder20"><img src="/images/banners/gifts.jpg" width="189px" alt="Gifts Under £20"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/deals.jsp?deal=jewellersessentials"><img src="/images/banners/everyday essentials_large.jpg" width="189px" alt="Everyday Essentials"></a>
+<a href="http://www.cooksongold.com/forum/"><img src="/images/banners/forum.jpg" width="189px" alt="NEW Jewellery Making Forum - Post and WIN!"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/blog/"><img src="/images/banners/blog.jpg" width="189px" alt="Jewellery Making Suppies Blog"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=christmaskits"><img src="/images/banners/kits.jpg" width="189px" alt="Christmas Kits"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/help/email_signup.jsp"><img src="/images/banners/email_sign_up_large.jpg" width="189px" alt="Sign Up for Great Offers from Cooksongold.com"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=creativexmas"><img src="/images/banners/creative-christmas.jpg" width="189px" alt="Have a Creative Christmas at Cooksongold"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/win_review.jsp"><img src="/images/banners/rate and review_large.jpg" width="189px" alt="Rate &amp; Review - Have Your Say"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=midastouch"><img src="/images/banners/midas.jpg" width="189px" alt="Midas Touch"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/britishsilverweek2009.jsp"><img src="/images/banners/british_silver_week_large.jpg" width="189px" alt="British Silver Week"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=sayitwithsilver"><img src="/images/banners/silver.jpg" width="189px" alt="Say it with Silver"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/category_select.jsp?category=Loose-Chain&amp;Alloy=Silver_Chain&amp;Style=0&amp;show="><img src="/images/banners/new silver chain_large.jpg" width="189px" alt="NEW Silver Chain"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=finishedjewellery"><img src="/images/banners/jewellery.jpg" width="189px" alt="Christmas Jewellery from a Fiver"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/Scrap/"><img src="/images/banners/scrap recovery_large.jpg" width="189px" alt="Scrap Recovery"></a>
+<a href="http://www.cooksongold.com/home/xmas-is-here-minicat.jsp"><img src="/images/banners/mini-cat-dec.jpg" width="189px" alt="NEW Mini Catalogue"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/win_rollingmill.jsp"><img src="/images/banners/reg_and_win_large.jpg" width="189px" alt="Register to WIN!"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=workshoptreats"><img src="/images/banners/workshop.jpg" width="189px" alt="Workshop Treats"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/home/celebratesilver.jsp"><img src="/images/banners/silver catalogue_large.jpg" width="189px" alt="Get Your Latest FREE Mini Catalogue"></a>
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=christmasreads"><img src="/images/banners/reads.jpg" width="189px" alt="Christmas Reads"></a>
  
 </div>
  
 <div class="rightSideboxes" style="border: 0;">
  
-<a href="http://www.cooksongold.com/technical/"><img src="/images/banners/knowledgebase_large.jpg" width="189px" alt="Knowledgebase"></a>
+<a href="http://www.cooksongold.com/help/email_signup.jsp"><img src="/images/banners/email.jpg" width="189px" alt="Sign Up for Great Offers from Cooksongold.com"></a>
+ 
+</div>
+ 
+<div class="rightSideboxes" style="border: 0;">
+ 
+<a href="http://www.cooksongold.com/home/deals.jsp?deal=top10presents"><img src="/images/banners/presents.jpg" width="189px" alt="Top 10 Presents"></a>
  
 </div>
  
@@ -612,7 +656,8 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
 <li><a href="http://www.cooksongold.com/employment/vacancies.jsp">Employment</a></li>
 <li><a href="http://www.cooksongold.com/about/press.jsp">Press Room</a></li>
 <li><a href="http://www.cooksongold.com/blog/" target="_blank">Jewellery Making Supplies Blog</a></li>
-</ul></div>
+<li><a href="http://www.cooksongold.com/forum/" target="_blank">Jewellery Making Supplies Forum</a></li>
+</ul><br></div>
 </div>
 <div class="footerbox">
 <p class="Title">Ordering</p>
@@ -663,18 +708,37 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
  
 </div>
 <div class="clearthis"></div>
-<!-- IndexTools Customization Code -->
-<!-- Remove leading // to activate custom variables -->
+<!-- Yahoo! Web Analytics - All rights reserved -->
+<script language="Javascript" type="text/javascript" src="http://d.yimg.com/mi/eu/ywa.js"></script>
 <script language="Javascript" type="text/javascript">
-//var DOCUMENTGROUP='';
-//var DOCUMENTNAME='';
-//var ACTION='';
+/*globals YWA*/
+var YWATracker = YWA.getTracker("1000712059143");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
 </script>
-<!-- End of Customization Code -->
-<!-- IndexTools Code v4.00 - All rights reserved -->
-<script language="javascript1.1" src="http://www.cooksongold.com/indextools.js" type="text/javascript"></script><noscript>
-<img src="http://stats.indextools.com/p.pl?a=1000712059143&amp;js=no" width="1" height="1" alt="indextools" /></noscript><!--//-->
-<!-- End of IndexTools Code -->
+<noscript>
+<div><img src="http://s.analytics.yahoo.com/p.pl?a=1000712059143&amp;js=no" width="1" height="1" alt="" /></div>
+</noscript>
+<!-- End of Yahoo! Web Analytics Code -->  
+<!-- Tracking code for Cookson Gold -->
+<script language="javascript" type="text/javascript">
+var str;
+var res;
+str = (document.location.href.indexOf("https") == 0) ? "https" : "http";
+res = "<s"+"cript language='javas"+"cript'>jsv=10;UserID=4187;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.1'>jsv=11;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.2'>jsv=12;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.3'>jsv=13;<\/s"+"cript>";
+res += "<s"+"cript language='javas"+"cript' src='" + str + ":\/\/tracker.roitesting.com\/roitracker2.js'><\/s"+"cript>";
+document.write(res);
+</script><script language="javascript">jsv=10;UserID=4187;</script><script language="JavaScript1.1">jsv=11;</script><script language="JavaScript1.2">jsv=12;</script><script language="JavaScript1.3">jsv=13;</script><script language="javascript" src="https://tracker.roitesting.com/roitracker2.js"></script>
+<script language="Javascript" type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script language="Javascript" type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9905386-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 </body></html>
