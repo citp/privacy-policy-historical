@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531205927id_/http%3A//www.greatnonprofits.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220221531id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
 
-# "Great Nonprofits - Find ratings and reviews of the best nonprofits, charities, and volunteer opportunities"
+# Our Privacy Policy | Great Nonprofits
 
 ### Our Commitment To Privacy
 
