@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045312id_/http%3A//www.arcadecabin.com/page-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005647id_/http%3A//www.arcadecabin.com/page-privacypolicy.html) for the most accurate reproduction.*
 
 # Free Games, Free Online Games
 
@@ -23,6 +23,8 @@ Cookies
 Cookies are used to tracked your activities here at ArcadeCabin.com (web poll voting, game chat, game ratings, ads tracking etc.), cookies will not be stored to gather any personal information from you and/or your system.
 
 Third Parties
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 ArcadeCabin.com are linked to other third party websites. This includes but not limited to advertising companies, link partners and private advertisers. ArcadeCabin.com is only associated with reputable third party websites however we will not be held responsible for any harm/damages that may result by visiting any of these particular third parties websites. Arcadecabin.com encourage you to review the particular third party web sites privacy policies.
 
