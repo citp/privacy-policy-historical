@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashoka.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185713id_/http%3A//www.ashoka.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashoka.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021547id_/http%3A//www.ashoka.org/privacy) for the most accurate reproduction.*
 
 # Ashoka's Privacy Policy | Ashoka.org
 
