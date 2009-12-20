@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashionmagazine.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619211019id_/http%3A//www.fashionmagazine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashionmagazine.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221005132id_/http%3A//www.fashionmagazine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>FASHION Magazine</title>
@@ -14,22 +14,70 @@
 <link rel="shortcut icon" href="http://media.fashionmagazine.com/global/FMico.ico" type="image/x-icon">
 <link href="/css/base.css" rel="stylesheet" type="text/css" media="screen,print">
 
-<script type="text/javascript" language="JavaScript" src="/js/jquery-1.2.6.pack.js"></script>
+<!--[if lt IE 7]>
+<link href="/css/IE6.css" rel="stylesheet" type="text/css" media="screen,print" />
+<![endif]-->
+<script type="text/javascript" src="/js/jquery-1.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery.url.packed.js"></script>
 <script type="text/javascript" src="/js/imageswap.js"></script>
 <script type="text/javascript" src="/js/newwindow.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+// onclick inputbox clear
+$(document).ready(function(){
+	$('#query').focus(function(){
+		if(this.value=='enter keyword search') {
+			this.value=''
+		}
+	});
+});
+// ]]>
+</script>
 
 
 
-    <script type="text/javascript">
-    <!--
-    var AD_PAGE = '';
-    var AD_SECTION = 'flatpage/privacy';
-    var AD_SITE = 'fashionmagazine.com';
-    var AD_POS = 'x02,x03,x04,x05,x06,x07,x10,x13';
-    var OAS_rns = new String (Math.random()).substring(2, 11);
-    
-    //-->
-    </script>
+<!-- OAS SETUP begin -->
+<script type="text/javascript">
+// <![CDATA[
+OAS_url = 'http://oascentral.fashionmagazine.com/RealMedia/ads/';
+OAS_site = 'fashionmagazine.com';
+OAS_section = 'flatpage/privacy';
+//OAS_sitepage = OAS_site + '/' + OAS_section;
+OAS_query = 'page=';
+OAS_rns = new String (Math.random()).substring(2, 11);
+OAS_listpos = 'x02,x03,x04,x05,x06,x07,x13';
+
+//var URL_PATH = jQuery.url.attr("path"); // get the path
+if(jQuery.url.segment(1)=='slideshowarticle') {
+	var URL_PATH = '/'+jQuery.url.segment(0)+'/'+jQuery.url.segment(1)+'/'+jQuery.url.segment(2)+'/'; // get the first 3 in the path
+} else {
+	var URL_PATH = jQuery.url.attr("path"); // get the path
+}
+
+// load the array with the URL's in the campaign. 
+var arr = ["/guides/fall/", "/fashion-file/regulararticle/709/", "/fashion-file/regulararticle/710/", "/fashion-file/regulararticle/711/", "/fashion-file/regulararticle/712/", "/fashion-file/regulararticle/713/", "/fashion-file/regulararticle/714/", "/fashion-file/slideshowarticle/993/", "/fashion-file/slideshowarticle/996/", "/fashion-file/slideshowarticle/997/", "/fashion-file/slideshowarticle/998/", "/fashion-file/slideshowarticle/999/", "/fashion-file/slideshowarticle/1000/", "/fashion-file/slideshowarticle/1001/", "/fashion-file/slideshowarticle/1002/", "/fashion-file/slideshowarticle/1003/", "/fashion-file/slideshowarticle/1004/", "/fashion-file/slideshowarticle/1008/", "/fashion-file/slideshowarticle/1014/", "/fashion-file/slideshowarticle/1015/", "/fashion-file/slideshowarticle/1016/", "/fashion-file/slideshowarticle/1017/", "/fashion-file/slideshowarticle/1018/", "/fashion-file/slideshowarticle/1019/", "/fashion-file/slideshowarticle/1020/", "/fashion-file/slideshowarticle/1021/", "/fashion-file/slideshowarticle/1022/", "/fashion-file/slideshowarticle/1023/", "/fashion-file/slideshowarticle/1024/", "/quiz/180/2/", "/videos/fashion/fall-2009-trend-report/"];
+
+// find and replace
+var URL_index = jQuery.inArray(URL_PATH, arr);
+if (URL_index != -1) {
+	OAS_section = 'fall-guide-2009';
+	//OAS_query = "page=/guides/fall-09";
+} else {
+	// load the array with the URL's in the campaign. 
+	var arr2 = ["/slfe/welcome/", "/slfe/maps/", "/slfe/editorspicks/", "/slfe/montreal/", "/slfe/map/montreal/downtown/", "/slfe/map/montreal/plateau/", "/slfe/toronto/", "/slfe/map/toronto/queenwest/", "/slfe/map/toronto/yorkville/", "/slfe/vancouver/", "/slfe/map/vancouver/downtown/", "/slfe/map/vancouver/kitsilano/", "/fashion-file/regulararticle/750/", "/fashion-file/regulararticle/751/", "/fashion-file/regulararticle/752/", "/fashion-file/regulararticle/749/", "/fashion-file/slideshowarticle/1105/", "/fashion-file/slideshowarticle/1106/", "/fashion-file/slideshowarticle/1107/", "/fashion-file/slideshowarticle/1108/", "/fashion-file/slideshowarticle/1102/", "/fashion-file/slideshowarticle/1103/", "/fashion-file/slideshowarticle/1104/", "/fashion-file/slideshowarticle/1095/", "/fashion-file/slideshowarticle/1096/", "/fashion-file/slideshowarticle/1097/", "/fashion-file/slideshowarticle/1098/", "/fashion-file/slideshowarticle/1099/", "/fashion-file/slideshowarticle/1100/", "/fashion-file/slideshowarticle/1101/", "/shops/bella-pella/", "/shops/aritmetik/", "/shops/covet-crave/", "/shops/due-west/", "/shops/show-room/", "/shops/tnt-blu/", "/shops/pir-cosmetics/", "/shops/noor/", "/shops/dutil/", "/shops/beautymark/", "/shops/wink-beauty-lounge-boutique/", "/shops/fab/", "/shops/ishara/", "/shops/wear-else/", "/shops/beauty-bar/", "/shops/divine-sybele/", "/shops/smashing-cosmetica/"];
+	var URL_index = jQuery.inArray(URL_PATH, arr2);
+	if (URL_index != -1) {
+		//OAS_section = 'fall-guide-2009';
+		OAS_query = "page=/SLFE/november-2009";
+	}
+}
+function OAS_AD(pos) {
+   document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + 'adstream_jx.ads/' + OAS_site + '/' + OAS_section + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '"><\/script>');
+}
+// ]]>
+</script>
+<!-- OAS SETUP end -->
+
 
  
 <script src="http://mint.fashionmagazine.com/?js" type="text/javascript"></script> 
@@ -37,95 +85,87 @@
 </head>
 <body id="page-privacy" onload="init(); externalLinks();">
 <a name="alpha"></a>
-
 <div id="uber">
-    
+	
 	<div id="header">
-        <div id="leaderboard"><script type="text/javascript">
+		<ul id="utility_nav">
+			<li><a title="Newsletter" href="/newsletter/">Newsletter Sign Up</a></li>
+			<li class="subscription_item"><a title="Subscribe" href="/subscribe/">Subscribe to <em>FASHION Magazine</em></a></li>
+			<li class="last_item">Follow Us:
+				<ul>
+					<li><a href="http://www.fashionmagazine.com/blogs/feed/" title="Subscribe to the FASHION Magazine's RSS feed">RSS</a></li>
+					<li><a href="http://www.facebook.com/home.php#/pages/FASHION-Magazine/14008828449" target="_blank" title="Follow us on Facebook">Facebook</a></li>
+					<li><a href="http://twitter.com/FashionCanada" target="_blank" title="Follow us on Twitter">Twitter</a></li>
+					<li class="last_item"><a title="FASHION Magazine's MySpace page" target="_blank" href="http://www.myspace.com/fashioncanada">Myspace</a></li>
+				</ul>
+			</li>
+		</ul>
+		<div>
+			<h1 id="site-title"><a href="/" title="Fashion Magazine - home"><img src="http://media.fashionmagazine.com/global/fm09FASHION.gif" alt="FASHION Magazine"></a></h1>
+			<form name="search" action="/search/" method="post" id="site_search">
+				<img width="7" height="31" alt="" src="http://media.fashionmagazine.com/global/fm09Search_left.gif">
+				<input type="text" name="search_str" id="query" value="enter keyword search">
+				<input type="image" src="http://media.fashionmagazine.com/global/fm09Search_go.gif" name="go" id="search-go" value="go">
+			</form>
+		</div>
+		<div id="header_ad">
+			<img width="76" height="5" alt="advertisment" src="http://media.fashionmagazine.com/global/fm09adv_earlug.gif" class="ad-marker-top">
+			<a href="http://www.fashionmagazine.com/earlug/coke/" title="Diet Coke - icoke.ca"><img src="http://media.fashionmagazine.com/global/COL368_M5_open_happiness_banner_v3.jpg" alt="Diet Coke - icoke.ca" class="rollover"></a>
+			
+		</div>
+		<div id="leaderboard">
+			<img width="13" height="90" alt="advertisment" src="http://media.fashionmagazine.com/global/fm09adv_lb.gif" class="ad-marker-left">
+			<div id="annoying_extra_ad_wrapper">
+				<script type="text/javascript">
 <!--
-document.write('<scr'+'ipt type="text/javascript" SRC="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/'+AD_SITE+'/'+AD_SECTION+'/1'+OAS_rns+'@'+AD_POS+'!x03?page='+AD_PAGE+'"></scr'+'ipt>');
-// -->
-</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1732976901@x02,x03,x04,x05,x06,x07,x10,x13!x03?page="></script></div>
-        <h1 id="site-title">FASHION Magazine</h1>
-        <a id="homelink" href="/" title="FASHION Magazine"></a>
-        <form name="search" id="search" action="/search/" method="post">
-            <label for="query"><img src="http://media.fashionmagazine.com/global/nav_search.gif" alt="search"></label>
-            <input type="text" name="search_str" id="query" value="">
-            <input type="image" src="http://media.fashionmagazine.com/global/nav_searchSubmit.gif" name="go" id="go" value="go">
-        </form>
-
-
-
-        <div id="sub-promo">
-            
-            <a href="/accounts/subs/" title="subscribe to FASHION MAGAZINE"><img id="cover" src="http://media.fashionmagazine.com/images/h_cover.jpg" alt="subscribe to FASHION MAGAZINE"></a>
-  <p class="sub-tools-first"><a href="/accounts/subs/" title="Subscribe to Fashion Magazine">Save 77%</a></p>
-  <p class="sub-tools"><a href="/accounts/subs/" title="Subscribe to Fashion Magazine">Subscribe Now</a></p>
-  <p class="sub-tools"><a href="/accounts/subs/manage/" title="Contact Us">Customer Service</a></p>
-
-
-  
-        </div>
-
-        <ul id="nav">
-            <li id="nav-home"><a href="/" title="Fashion Magazine - home"><img src="http://media.fashionmagazine.com/global/n1_home.gif" alt="Home" class="rollover"></a></li>
-            
-            
-            
-                <li id="nav-fashion-file"><a href="/fashion-file/" title="Fashion File"><img src="http://media.fashionmagazine.com/global/n1_fashion-file.gif" alt="Fashion File" class="rollover"></a></li>
-				<!-- images/n_fashion-file.gif -->
-            
-                <li id="nav-beauty"><a href="/beauty/" title="Beauty"><img src="http://media.fashionmagazine.com/global/n1_beauty.gif" alt="Beauty" class="rollover"></a></li>
-				<!-- images/n_beauty.gif -->
-            
-                <li id="nav-luxe-life"><a href="/luxe-life/" title="Luxe Life"><img src="http://media.fashionmagazine.com/global/n1_luxe-life.gif" alt="Luxe Life" class="rollover"></a></li>
-				<!-- images/n_luxe-life.gif -->
-            
-                <li id="nav-shops"><a href="/shops/" title="Shops"><img src="http://media.fashionmagazine.com/global/n1_shops.gif" alt="Shops" class="rollover"></a></li>
-				<!-- images/n_shops.gif -->
-            
-                <li id="nav-video"><a href="/video/" title="Video"><img src="http://media.fashionmagazine.com/global/n1_video.gif" alt="Video" class="rollover"></a></li>
-				<!-- images/n_video.gif -->
-            
-                <li id="nav-blog"><a href="/blog/" title="Blog"><img src="http://media.fashionmagazine.com/global/n1_blog.gif" alt="Blog" class="rollover"></a></li>
-				<!-- images/n_blog.gif -->
-            
-                <li id="nav-fashion-loves"><a href="/fashion-loves/" title="Fashion LOVES"><img src="http://media.fashionmagazine.com/global/n1_fashion-loves.gif" alt="Fashion LOVES" class="rollover"></a></li>
-				<!-- images/n_fashion-loves.gif -->
-            
-                <li id="nav-cover"><a href="/cover/" title="Cover"><img src="http://media.fashionmagazine.com/global/n1_cover.gif" alt="Cover" class="rollover"></a></li>
-				<!-- images/n_cover.gif -->
-            
-                <li id="nav-careerbuilder"><a href="/careerbuilder/" title="Careerbuilder"><img src="http://media.fashionmagazine.com/global/n1_careerbuilder.gif" alt="Careerbuilder" class="rollover"></a></li>
-				<!-- images/n1_careerbuilder.gif -->
-            
-            <li id="nav-win" class="last_item"><a href="/win/" title="Contests"><img src="http://media.fashionmagazine.com/global/n1_contests.gif" alt="Contests" class="rollover"></a></li>
-			<!-- 
-			<li id="nav-career" class="last_item"><a href="/careerbuilder/" title="Career Builder"><img src="http://media.fashionmagazine.com/global/n1_careerbuilder.gif" alt="Career Builder" class="rollover" /></a></li>
-			-->
-        </ul>
-
-        <script type="text/javascript">
-        <!--
-            var myPage = document.body.id;
-            var myID = (myPage.replace("page","nav"))
-            var myItem = document.getElementById(myID);
-            if (myItem) {
-            var myImg = myItem.getElementsByTagName("img");
-            var suffix = myImg[0].src.substring(myImg[0].src.lastIndexOf('.'));
-            myImg[0].src = myImg[0].src.substring(0,myImg[0].src.lastIndexOf('.')) + "_r" + suffix;
-            }
-        //-->
-        </script>
-    </div>
-
-    <div id="semi-uber">
-    <div id="content" class="">
-        
-
+OAS_AD('x03');
+//--> 
+</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1844539792@x02,x03,x04,x05,x06,x07,x13!x03?page="></script>
+			</div>
+			<a id="loves_signup" href="/hpromo/"><img width="224" height="90" border="0" alt="newsletter sign up" src="http://media.fashionmagazine.com/global/fm09hpromo.jpg"></a>
+		</div>
+		<ul id="nav">
+			<li id="nav-home"><a href="/" title="Fashion Magazine - home"><img src="http://media.fashionmagazine.com/global/n09_home.gif" alt="Home" class="rollover"></a></li>
+			
+			
+			
+			<li id="nav-fashion-file"><a href="/fashion-file/" title="Fashion File"><img src="http://media.fashionmagazine.com/global/n09_fashion-file.gif" alt="Fashion File" class="rollover"></a></li>
+			<!-- images/n_fashion-file.gif -->
+			
+			<li id="nav-beauty"><a href="/beauty/" title="Beauty"><img src="http://media.fashionmagazine.com/global/n09_beauty.gif" alt="Beauty" class="rollover"></a></li>
+			<!-- images/n_beauty.gif -->
+			
+			<li id="nav-luxe-life"><a href="/luxe-life/" title="Luxe Life"><img src="http://media.fashionmagazine.com/global/n09_luxe-life.gif" alt="Luxe Life" class="rollover"></a></li>
+			<!-- images/n_luxe-life.gif -->
+			
+			<li id="nav-shops"><a href="/shops/" title="Shops"><img src="http://media.fashionmagazine.com/global/n09_shops.gif" alt="Shops" class="rollover"></a></li>
+			<!-- images/n_shops.gif -->
+			
+			<li id="nav-video"><a href="/video/" title="Video"><img src="http://media.fashionmagazine.com/global/n09_video.gif" alt="Video" class="rollover"></a></li>
+			<!-- images/n_video.gif -->
+			
+			<li id="nav-blog"><a href="/blog/" title="Blog"><img src="http://media.fashionmagazine.com/global/n09_blog.gif" alt="Blog" class="rollover"></a></li>
+			<!-- images/n_blog.gif -->
+			
+			<li id="nav-fashion-loves"><a href="/fashion-loves/" title="Fashion LOVES"><img src="http://media.fashionmagazine.com/global/n09_fashion-loves.gif" alt="Fashion LOVES" class="rollover"></a></li>
+			<!-- images/n_fashion-loves.gif -->
+			
+			<li id="nav-cover"><a href="/cover/" title="Cover"><img src="http://media.fashionmagazine.com/global/n09_cover.gif" alt="Cover" class="rollover"></a></li>
+			<!-- images/n_cover.gif -->
+			
+			<li id="nav-careerbuilder"><a href="/careerbuilder/" title="Careerbuilder"><img src="http://media.fashionmagazine.com/global/n09_careerbuilder.gif" alt="Careerbuilder" class="rollover"></a></li>
+			<!-- images/n1_careerbuilder.gif -->
+			
+			<li id="nav-guides"><a href="/guides/" title="Guides"><img src="http://media.fashionmagazine.com/global/n09_guides.gif" alt="Guides" class="rollover"></a></li>
+			<li id="nav-win" class="last_item"><a href="/win/" title="Contests"><img src="http://media.fashionmagazine.com/global/n09_contests.gif" alt="Contests" class="rollover"></a></li>
+		</ul>
+	</div>
+	<div id="semi-uber">
+		
+		<div id="content" class="">
+			
 
 &nbsp;
-
 
 <div id="generic">
 <h2>Privacy. Plain and Simple</h2>
@@ -207,243 +247,279 @@ document.write('<scr'+'ipt type="text/javascript" SRC="http://oascentral.fashion
 <h3>I have other questions or concerns not answered in  this document. How do I contact you?</h3>
 <p> To access your personal information, inform us of changes  you believe need to be made to that information, request that we investigate a  concern you have about our personal information practices or obtain further  information about this policy, please contact:</p>
 <p>Privacy Officer<br>
-  privacy@stjosephmedia.com</p>
+<a href="mailto:privacy@stjosephmedia.com">privacy@stjosephmedia.com</a></p>
 <p>Addresses for brands:</p>
-<table cellpadding="10">
-<tbody><tr>
-<td valign="top">
-<p><u>Canadian Family</u><br>
-  PO Box   30023<br>
-  Station BRM B<br>
-  Toronto,   ON<br>
-  M7Y 2M8</p>
-<p><u>Fashion</u><br>
-  PO Box   825<br>
-  Station Main<br>
-  Markham,   ON<br>
-  L3P 8C8</p>
-<p><u>Fashion18</u><br>
-  PO Box   825<br>
-  Station Main<br>
-  Markham,   ON<br>
-  L3P 8C8</p>
-<p><u>Gardening Life</u><br>
-  PO Box   728<br>
-  Station Main<br>
-  Markham ON<br>
-  L3P 7Y2</p>
-<p><u>Quill &amp;  Quire</u><br>
-  PO Box   819<br>
-  Markham,   ON<br>
-  L3P 8L3</p>
-  </td>
-  <td valign="top">
-  <p><u>Toronto</u><u> Life</u><br>
-  PO Box   825<br>
-  Station Main<br>
-  Markham,   ON<br>
-  L3P 8C8</p>
-<p><u>WeddingBells</u><br>
-  111 Queen    Street East<br>
-  Suite   320<br>
-  Toronto,   ON<br>
-  M5C 1S2</p>
-<p><u>Where</u><br>
-  111 Queen    Street East<br>
-  Suite   320<br>
-  Toronto,   ON<br>
-  M5C 1S2</p>
-<p><u>Wish</u><br>
-  PO Box   825<br>
-  Station Main<br>
-  Markham,   ON<br>
-L3P 8C8</p>
-</td>
-</tr>
-</tbody></table>
-
+<address>
+<strong>Canadian Family</strong><br>
+PO Box   30023<br>
+Station BRM B<br>
+Toronto,   ON<br>
+M7Y 2M8
+</address>
+<address>
+<strong>Fashion</strong><br>
+PO Box   825<br>
+Station Main<br>
+Markham,   ON<br>
+L3P 8C8
+</address>
+<address><strong>Fashion18</strong><br>
+PO Box   825<br>
+Station Main<br>
+Markham,   ON<br>
+L3P 8C8
+</address>
+<address><strong>Gardening Life</strong><br>
+PO Box   728<br>
+Station Main<br>
+Markham ON<br>
+L3P 7Y2
+</address>
+<address><strong>Quill &amp;  Quire</strong><br>
+PO Box   819<br>
+Markham,   ON<br>
+L3P 8L3
+</address>
+<address>
+<strong>Toronto Life</strong><br>
+PO Box   825<br>
+Station Main<br>
+Markham,   ON<br>
+L3P 8C8
+</address>
+<address><strong>WeddingBells</strong><br>
+111 Queen    Street East<br>
+Suite   320<br>
+Toronto,   ON<br>
+M5C 1S2
+</address>
+<address><strong>Where</strong><br>
+111 Queen    Street East<br>
+Suite   320<br>
+Toronto,   ON<br>
+M5C 1S2
+</address>
+<address><strong>Wish</strong><br>
+PO Box   825<br>
+Station Main<br>
+Markham,   ON<br>
+L3P 8C8
+</address>
 </div>
 
-        
-            
-            
-            <div id="global-items">
-                <div id="global-fashion-loves"><p><a href="/accounts/newsletter/" title="FASHION Loves">Cheap and chic ways to get our favourite runway looks, straight to your inbox every Monday.&nbsp; <img class="arrow" src="http://media.fashionmagazine.com/global/arrow_r.gif" alt=""></a></p></div>
-                <span style="clear: right"></span>
-                <div id="global-poll">
-                    
-                        <a href="/vote/203/" title="vote"><img class="main" src="http://media.fashionmagazine.com/images/may09vFrag_80.jpg" alt="click to vote"></a>
-                        <p><a href="/vote/203/" title="vote">What is your summer scent?&nbsp;<img class="arrow" src="http://media.fashionmagazine.com/global/arrow_r.gif" alt=""></a></p>
-                    
-                    
-                </div>
-                <div id="global-findit"><a href="http://www.fashionmagazine.com/shops/shopfinder/" title="Shops"><img src="http://media.fashionmagazine.com/cimages/80x80_shopfinder2.jpg" alt="shopfinder" border="0" class="main"></a>
-<p><a href="http://www.fashionmagazine.com/shops/shopfinder/" title="Shops">Our guide to the best spas, boutiques and designers in the country.&nbsp;<img src="http://media.fashionmagazine.com/global/arrow_r.gif" alt="" border="0" class="arrow"></a></p>
-</div>
-                <hr>
-            </div>
-        
-    </div>
-    
-    <div id="rail">
-        
-            <div id="boxad">
-                <img class="ad-marker" src="http://media.fashionmagazine.com/global/ad-marker.gif" alt="advertisement">
-                <script type="text/javascript">
-<!--
-document.write('<scr'+'ipt type="text/javascript" SRC="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/'+AD_SITE+'/'+AD_SECTION+'/1'+OAS_rns+'@'+AD_POS+'!x05?page='+AD_PAGE+'"></scr'+'ipt>');
-// -->
-</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1732976901@x02,x03,x04,x05,x06,x07,x10,x13!x05?page="></script>
-            </div>
-        
-
-      <div id="rail-lead">
-        <div class="c1">
-          <h3>Newsletters</h3>
-          <form name="newsletter" id="newsletter" action="http://contests.fashionmagazine.com/insider/Register.jsp" method="get">
-            <fieldset>
-                <input class="check" type="checkbox" name="newsletter-check" value="y" id="newsletter-check">
-                <label for="newsletter-check">FASHION Preview: <span class="lead-body">Get the scoop on our latest issue</span></label>
-            </fieldset>
-            <fieldset>
-                <input class="check" type="checkbox" name="fashion-loves-check" value="y" id="fashion-loves-check">
-                <label for="fashion-loves-check">FASHION LOVES: <span class="lead-body">Our editors' weekly shopping picks</span></label>
-            </fieldset>
-            <input id="init_email" name="init_email" type="text" value="your e-mail" onclick="this.value=''">
-            <a id="newsletter-submit" href="javascript: document.forms.newsletter.submit()" title="submit"><img src="http://media.fashionmagazine.com/global/b_submitemail.gif" alt="submit" onmouseover="swap(this)" onmouseout="restore(this)"></a>
-          </form>
-        </div>
-
-        <div class="c2">
-        
-         
-         
-          <h3><a href="/win/" title="see all contests">Contests »</a></h3>          
-          <ul>
-          
-            
-                <li><a href="/win/113/">Enter to win a Jill Barber &amp; Envye Designer Boutique prize pack!</a></li>
-            
-          
-            
-                <li><a href="/win/115/">Enter for a chance to win 1 of 5 Elizabeth Arden mineral makeup &amp; brush sets!</a></li>
-            
-          
-          
-          </ul>
-          </div>
-
-		<div id="boxadX13">
-		    <img class="ad-marker" src="http://media.fashionmagazine.com/global/ad-marker.gif" alt="advertisement">
-		    <script type="text/javascript">
-<!--
-document.write('<scr'+'ipt type="text/javascript" SRC="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/'+AD_SITE+'/'+AD_SECTION+'/1'+OAS_rns+'@'+AD_POS+'!x13?page='+AD_PAGE+'"></scr'+'ipt>');
-// -->
-</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1732976901@x02,x03,x04,x05,x06,x07,x10,x13!x13?page="></script>
+			
+			
+			
+			
+			
+			
+			
 		</div>
-      </div>
-       
-        
-
-        
-            <div class="rail-col1 withad"><script type="text/javascript">
+		
+		
+		<div id="rail">
+			
+			
+			
+			<div class="boxad">
+				<img class="ad-marker" src="http://media.fashionmagazine.com/global/ad-marker.gif" alt="advertisement">
+				<script type="text/javascript">
 <!--
-document.write('<scr'+'ipt type="text/javascript" SRC="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/'+AD_SITE+'/'+AD_SECTION+'/1'+OAS_rns+'@'+AD_POS+'!x04?page='+AD_PAGE+'"></scr'+'ipt>');
-// -->
-</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1732976901@x02,x03,x04,x05,x06,x07,x10,x13!x04?page="></script>
+OAS_AD('x05');
+//--> 
+</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1844539792@x02,x03,x04,x05,x06,x07,x13!x05?page="></script>
+			</div>
+			
+			
+			<div id="web-exclusives">
+				<h3><img width="99" height="21" border="0" alt="Latest Blog Posts" src="http://media.fashionmagazine.com/global/rr09h_latestblogs.gif">Latest Blog Posts</h3>
+				
+				
+				
+				
+
+
+<!-- fashion_feed.html -->
+
+
+<div id="widget_xml_feed">
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/fashion/fashion-news/2009/12/18/balenciaga-sues-steve-madden-over-the-lego-shoe/" target="_blank">Balenciaga sues Steve Madden over the “Lego” shoe</a></h4>
+		
+		<p style="margin-bottom:10px;">Posted 2 days ago</p>
+	</div>
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/fashion/fashion-news/2009/12/18/fashion-news-lanvins-spring-campaign-looks-windy-gaultier-does-sailor-inspired-footwear-smell-like-beyonce-and-more/" target="_blank">Fashion news: Lanvin’s spring campaign looks windy, Gaultier does sailor-inspired footwear, smell like Beyoncé, and more</a></h4>
+		
+		<p style="margin-bottom:10px;">Posted 2 days ago</p>
+	</div>
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/fashion/fashion-news/2009/12/18/lara-stone-and-baptiste-giabiconi-are-partners-in-crime/" target="_blank">Lara Stone and Baptiste Giabiconi are partners in crime</a></h4>
+		
+		<p style="margin-bottom:10px;">Posted 2 days ago</p>
+	</div>
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/daily-steal/2009/12/18/the-daily-steal-pleated-flats-32/" target="_blank">The daily steal: Pleated flats, $32</a></h4>
+		
+		<p style="margin-bottom:10px;">Posted 2 days ago</p>
+	</div>
+
+	<div class="topic">
+		<h4><a href="http://www.fashionmagazine.com/blogs/feed/" title="Subscribe to the FASHION Magazine's RSS feed">Subscribe to the FASHION Magazine's RSS feed&nbsp;<img src="http://media.fashionmagazine.com/global/wpblog_irss.gif" alt="RSS Feed Icon" class="rss_ico"></a></h4>
+	</div>
 </div>
-            <div class="rail-col2 withex">
-                
-                
-                <div id="web-exclusives"><p><img src="http://media.fashionmagazine.com/global/h_webEx.gif" alt="web exclusives"><br>
-<a href="http://www.fashionmagazine.com/video/"><img src="http://media.fashionmagazine.com/global/h_webVideo.gif" alt="videos" border="0"></a><br>
-<a href="http://www.fashionmagazine.com/blogs/"><img src="http://media.fashionmagazine.com/global/h_webBlog.gif" alt="blogs" border="0"></a><br>
-<a href="http://www.fashionmagazine.com/daily/widget/"><img src="http://media.fashionmagazine.com/global/h_webWidget.gif" alt="widget" border="0"></a><br>
-</p>
-<p><a href="http://www.fashionmagazine.com/guides/summer/"><strong>SUMMER STYLE GUIDE </strong></a></p>
-<p><a href="http://www.fashionmagazine.com/blogs/category/fashion-lovelies/"><strong><em>FASHION</em> LOVELIES</strong></a></p>
-<p><a href="http://www.fashionmagazine.com/cntm/"><strong>CNTM COVERAGE</strong></a></p>
-<p><a href="http://www.fashionmagazine.com/attheshows/fall09/toronto/"><strong>FALL 2009 RUNWAY</strong></a> Check out our runway galleries, blogs and videos. </p>
-<p><a href="http://www.fashionmagazine.com/blogs/fashion-lovelies/2009/05/29/whos-the-loveliest-of-them-all/"><strong>Contest!</strong></a> Help us fill our <em>FASHION</em> Lovelies blog and you could win!</p>
-<p><a href="http://www.fashionmagazine.com/blogs/fashion-reporters/2009/06/09/halifax-east-coast-designers-take-the-runway-in-montreal/"><strong>Have fashion line, will travel </strong></a> A clutch of East Coast labels are ready to storm Montreal </p>
-<p><a href="http://www.fashionmagazine.com/blogs/beauty/2009/06/08/healthwinds-spa-offers-euro-inspired-pampering/"><strong>Spa break </strong></a> Toronto's Healthwinds offers Euro-inspired pampering. </p>
-<p><a href="http://www.fashionmagazine.com/blogs/beauty/beauty-buzz/2009/06/05/matter-companys-new-line-takes-it-outside/"><strong>Camper beauty </strong></a> Matter Company's new eco line for the outdoorsy set. </p>
-<p><a href="http://www.fashionmagazine.com/blogs/fashion-reporters/2009/06/04/charlottetown-the-north-lakes-of-the-east-coast/"><strong>Cute band alert! </strong></a> Meet Charlottetown's The North Lakes. </p>
-<p><a href="http://www.fashionmagazine.com/blogs/fashion-reporters/2009/06/05/guelph-what-this-old-thing/"><strong>What, this old thing? </strong></a> Heather Loney celebrates the opening of a seasonal vintage hot spot. </p>
-<p><a href="http://www.fashionmagazine.com/slfe/"><strong>SHOP LIKE A <em>FASHION</em> EDITOR</strong></a></p>
 
+			</div>
+			
+			<div id="special_messages">
+				<img class="msg-marker" src="http://media.fashionmagazine.com/global/ad-marker.gif" alt="special messages">
+				<a href="http://www.fashionmagazine.com/guides/holiday/"><img src="http://media.fashionmagazine.com/images2/features/FMholiday09_mini.jpg" alt="HOLIDAY GUIDE" width="300" height="60" vspace="2" border="0"></a><a href="http://www.fashionmagazine.com/hm_mb/"></a>
+<a href="http://www.fashionmagazine.com/slfe/"><img src="http://media.fashionmagazine.com/images2/features/FMSLFE09_mini.gif" alt="SHOP LIKE A FASHION EDITOR" width="300" height="60" vspace="2" border="0"></a>
+<a href="http://www.fashionmagazine.com/softlift/"><img src="http://media.fashionmagazine.com/ads/OBN_softlift_300x60.gif" alt="OBN photo gallery" width="300" height="60" vspace="2" border="0"></a>
+			</div>
+			
+			<div class="boxad">
+				<img class="ad-marker" src="http://media.fashionmagazine.com/global/ad-marker.gif" alt="advertisement">
+				<script type="text/javascript">
+<!--
+OAS_AD('x13');
+//--> 
+</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1844539792@x02,x03,x04,x05,x06,x07,x13!x13?page="></script>
+			</div>
+			
+			<div id="most-popular"><h3><img height="21" border="0" width="126" src="http://media.fashionmagazine.com/global/rr09h_webexclusives.gif" alt="Web Exclusives">Web Exclusives</h3>
+<div class="topic">
+   <h4><a href="http://www.fashionmagazine.com/blogs/parties-and-celebrities/2009/11/23/calgary-christina-hendricks-heather-marks-and-elisha-cuthbert-party-at-holt-renfrew-opening/ ">Star power:</a></h4>
+    <p><a href="http://www.fashionmagazine.com/blogs/parties-and-celebrities/2009/11/23/calgary-christina-hendricks-heather-marks-and-elisha-cuthbert-party-at-holt-renfrew-opening/">Christina Hendricks, Elisha Cuthbert and Heather Marks up the wattage at Holt Renfrew's Calgary opening.</a></p>
 </div>
-                <div id="shop-finder"><img src="http://media.fashionmagazine.com/global/h_guides.gif" alt="online guides">
-<p><a href="http://www.fashionmagazine.com/guides/springbeauty/" title="">THE SPRING BEAUTY GUIDE</a></p>
-<p><a href="http://www.fashionmagazine.com/guides/spring/" title="">THE SPRING TRENDS GUIDE</a></p>
-<p><a href="http://www.fashionmagazine.com/guides/loveandsex/" title="">THE LOVE &amp; SEX GUIDE</a></p>
-<p><a href="http://www.fashionmagazine.com/guides/holiday/" title="">THE HOLIDAY GUIDE</a></p>
-<p><a href="http://www.fashionmagazine.com/guides/fallbeauty/" title="">THE FALL BEAUTY GUIDE</a></p>
-<p><a href="http://www.fashionmagazine.com/guides/fall/" title="">THE FALL FASHION &amp; ACCESSORIES GUIDE</a></p>
-
-
-
-
-
-
-
-
-</div>
-                
-                
-                
-                
-            </div>
-         
-      
-      </div>
-    <hr>
-    <div id="footer">
-      <div id="footer-nav">
-        <p class="footer-text"> <a href="/subscribe/" title="Subscribe">Subscribe</a>&nbsp;|&nbsp;<a href="/accounts/newsletter/" title="Newsletter">Newsletter</a>&nbsp;|&nbsp;<a href="/privacy/" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/about/" title="About Us">About Us</a>&nbsp;|&nbsp;<a href="/inquiry/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;<a href="/advertisewithus/" title="Contact Us">Advertise</a> </p>
-        <p class="footer-text">© 2008 St. Joseph Media. All Rights Reserved.</p>
-      </div>
-      <div id="select-container">
-        <select onchange="gotosite(this.options[this.selectedIndex].value)">
-          <option value="" selected="selected">Sister sites</option>
-          <option value="http://www.canadianfamily.ca/">Canadian Family</option>
-          <option value="http://www.fashion18.com/">FASHION18</option>
-          <option value="http://www.gardeninglife.ca/">Gardening Life</option>
-          <option value="http://www.mariagequebec.com/">Mariage Quebec</option>
-          <option value="http://www.quillandquire.com/">Quill &amp; Quire</option>
-          <option value="http://www.torontolife.com/">Toronto Life</option>
-          <option value="http://www.weddingbells.ca/">Wedding Bells</option>
-          <option value="http://www.where.ca/">Where</option>
-          <option value="http://www.wish.ca/">Wish</option>
-        </select>
-      </div>
-      <div id="tagline-container"> <img id="sjm-tagline" src="http://media.fashionmagazine.com/global/bringtheworld.gif" alt="St. Joseph Media"> </div>
+<div class="topic">
+    <h4><a href="http://www.fashionmagazine.com/blogs/fashion-lovelies/2009/11/19/street-style-military-precision/ ">Street style: Military precision</a></h4>
+    <p><a href="http://www.fashionmagazine.com/blogs/fashion-lovelies/2009/11/19/street-style-military-precision/ ">This Lovely works military chic with laid-back layers.</a></p>
     </div>
-  </div>
-
+<div class="topic">
+    <h4><a href="http://www.fashionmagazine.com/blogs/fashion/fashion-news/2009/11/27/topshop-may-be-headed-to-the-bay/ ">The Bay is Tops</a></h4>
+    <p><a href="http://www.fashionmagazine.com/blogs/fashion/fashion-news/2009/11/27/topshop-may-be-headed-to-the-bay/">Topshop may be teaming up with the Canadian retailer this spring.</a></p>
+</div></div>
+			
+			<div id="contests">
+				
+				
+				
+				<h3><a href="/win/" title="see all contests"><img width="71" height="21" border="0" alt="Contests" src="http://media.fashionmagazine.com/global/rr09h_contests.gif">Contests</a></h3>
+				
+					<div class="topic">
+						<h4><a href="/win/134/" title="ENTER NOW for your chance to win the complete Lola fragrance collection!">&nbsp;</a></h4>
+						<p><a href="/win/134/">ENTER NOW for your chance to win the complete Lola fragrance collection!</a></p>
+					</div>
+				
+					<div class="topic">
+						<h4><a href="/win/135/" title="Enter now for your chance to win a basket full of hair treats from Aussie super stylist Kevin Murphy.">The Kevin Murphy Contest</a></h4>
+						<p><a href="/win/135/">Enter now for your chance to win a basket full of hair treats from Aussie super stylist Kevin Murphy.</a></p>
+					</div>
+				
+				
+			</div> 
+			
+			
+			
+<div id="text-ads">
+	<img alt="advertisement" src="http://media.fashionmagazine.com/global/ad-marker.gif" class="ad-marker"><br><br>
+    <p style="color:#9f9f9f; font-size:10px; line-height:10px; margin-bottom:20px;"><a href="http://www.tradekey.com/" target="_blank" style="color:#737373;">china wholesale.</a> <strong>directory of suppliers, wholesalers &amp; distributors.</strong></p><br>
+    <p style="color:#9f9f9f; font-size:10px; line-height:10px; margin-bottom:20px;"><strong>get the latest</strong> <a href="http://www.appareltrade.net/" target="_blank" style="color:#737373;">wholesale apparel</a> <strong>fashion suppliers!</strong></p><br>
+    <p style="color:#9f9f9f; font-size:10px; line-height:10px;"><strong>get</strong> <a href="http://www.textilezone.net/" target="_blank" style="color:#737373;">textile industry</a> <strong>related websites and news!</strong></p>
+	<h3><a href="http://www.fashionmagazine.com/tana_text/" target="_blank">Tana is giving away a $4000 prize pack! Simply enter the Shoe Fetish Video Contest between Sept. 8 and Oct. 27. No purchase necessary. Enter NOW!</a></h3>
+	<h3><a href="http://www.dpbolvw.net/gh116ox52x4KONONLUOKMLPUNLRN" target="_blank" onmouseover="window.status='http://www.ssense.com';return true;" onmouseout="window.status=' ';return true;">Designer brands on sale at ssense.com!</a>
+	<img src="http://www.tqlkg.com/8m65elpdjh265653C62437C5395" width="1" height="1" border="0" alt=""></h3>
+	<h3><a href="http://www.dpbolvw.net/rg105biroiq598986F9576C9ED9F" target="_blank" onmouseover="window.status='http://www.michaelstars.com';return true;" onmouseout="window.status=' ';return true;">Free Shipping On Any Order Over $150</a>
+	<img src="http://www.ftjcfx.com/of122bosgmk598986F9576C9ED9F" width="1" height="1" border="0" alt=""></h3>
+	<h3><a href="http://www.anrdoezrs.net/click-3232093-10380777" target="_blank" onmouseover="window.status='http://www.eharmony.com';return true;" onmouseout="window.status=' ';return true;">Click to receive a FREE Personality Profile</a>
+	<img src="http://www.lduhtrp.net/image-3232093-10380777" width="1" height="1" border="0" alt=""></h3>
 </div>
-
+			
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		<!-- temp remove before live -->
+		
+		
+		<!--googleoff: all -->
+<div id="button_ads">
+		
+	<a href="http://www.tkqlhce.com/click-3232093-10519141" target="_blank" onmouseover="window.status='http://www.tobi.com';return true;" onmouseout="window.status=' ';return true;">
+	<img src="http://www.lduhtrp.net/image-3232093-10519141" width="125" height="125" alt="Sale at Tobi!" border="0"></a>
+	<a href="http://www.tkqlhce.com/click-3232093-10524121" target="_blank" onmouseover="window.status='http://www.stevemadden.com';return true;" onmouseout="window.status=' ';return true;">
+	<img src="http://www.ftjcfx.com/image-3232093-10524121" width="125" height="125" alt="Steve Madden Pumps" border="0"></a>
+	<script type="text/javascript" language="javascript" src="http://www.kqzyfj.com/placeholder-3970377?target=_blank&amp;mouseover=Y"></script>
+	<script type="text/javascript" language="javascript" src="http://www.anrdoezrs.net/ej116m62suwz52vw8HLRPILPQ?target=_blank&amp;mouseover=Y"></script>
+	<script type="text/javascript" language="javascript" src="http://www.anrdoezrs.net/gh116u0xmoqt-xpq2BFLJCFKE?target=_blank&amp;mouseover=Y"></script>
+</div>
+<!--googleon: all --> 
+		
+		<div id="footer">
+			<img id="sjm-tagline" src="http://media.fashionmagazine.com/global/footer09h_tag.gif" alt="Bringing the world of fashion home.">
+			<a href="http://www.stjoseph.com" title="St. Joseph Media"><img id="corporatelogo" src="http://media.fashionmagazine.com/global/footer09h_sjm.gif" alt="St. Joseph Media"></a>
+			<ul id="footer-nav" class="footer_links">
+				<li><a href="/subscribe/" title="Subscribe">Subscribe</a></li>
+				<li><a href="/newsletter/" title="Newsletter">Newsletter</a></li>
+				<li><a href="/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+				<li><a href="/about/" title="About Us">About Us</a></li>
+				<li><a href="/inquiry/" title="Contact Us">Contact Us</a></li>
+				<li class="last_item"><a href="/advertisewithus/" title="Contact Us">Advertise</a></li>
+				<li class="last_item firm_name">© 2009 St. Joseph Media. All Rights Reserved.</li>
+			</ul>
+			<ul id="sister-sites" class="footer_links">
+				<li><a href="http://www.weddingbells.ca/" title="FASHION Magazine">Weddingbells</a></li>
+				<li><a href="http://www.mariagequebec.com/" title="Mariage Quebec">Mariage Quebec</a></li>
+				<li><a href="http://www.torontolife.com/" title="Toronto Life">Toronto Life</a></li>
+				<li><a href="http://www.canadianfamily.ca/" title="Canadian Family">Canadian Family</a></li>
+				<li><a href="http://www.where.ca/" title="Where">Where</a></li>
+				<li><a title="quill &amp; quire" href="http://www.quillandquire.com">Quill &amp; Quire</a></li>
+				<li><a title="Ottawa Magazine" href="http://www.ottawamagazine.com">Ottawa Magazine</a></li>
+				<li class="last_item"><a title="20 minute supper club" href="http://www.20minutesupperclub.com">20 Minute Supper Club</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+// <![CDATA[
+document.write("<img id='img1' height='1' width='1' src='' alt='' />");
+document.getElementById("img1").src=(("https:" == document.location.protocol) ? "https://" : "http://")+"beacon.securestudies.com/scripts/beacon.dll?C1=2&C2=6035671&C3=&C4="+escape(window.location.href.indexOf("?")>0 ? window.location.href.substring(0, window.location.href.indexOf("?")) : window.location.href)+"&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
+// ]]>
+</script><img id="img1" height="1" width="1" src="https://beacon.securestudies.com/scripts/beacon.dll?C1=2&amp;C2=6035671&amp;C3=&amp;C4=https%3A//web.archive.org/web/20091221005132id_/http%3A//www.fashionmagazine.com/privacy/&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20091221005132id_/http%3A//www.fashionmagazine.com/privacy/&amp;C8=FASHION%20Magazine&amp;C9=&amp;rn=43760217" alt="">
+<!-- End comScore Tag -->
 <!-- GOOGLE Analytics start -->
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-300475-5");
-pageTracker._setDomainName(".fashionmagazine.com");
+var pageTracker;
+setTimeout('startGA();', 500);
+function startGA()
+{
+pageTracker = _gat._getTracker("UA-300475-5");
 pageTracker._initData();
 pageTracker._trackPageview();
+}
 </script>
 <!-- GOOGLE Analytics end -->
 
 
   <script type="text/javascript">
 <!--
-document.write('<scr'+'ipt type="text/javascript" SRC="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/'+AD_SITE+'/'+AD_SECTION+'/1'+OAS_rns+'@'+AD_POS+'!x02?page='+AD_PAGE+'"></scr'+'ipt>');
-// -->
-</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1732976901@x02,x03,x04,x05,x06,x07,x10,x13!x02?page="></script>
-
+jQuery(document).ready(OAS_AD('x02'));
+//--> 
+</script><script type="text/javascript" src="http://oascentral.fashionmagazine.com/RealMedia/ads/adstream_jx.ads/fashionmagazine.com/flatpage/privacy/1844539792@x02,x03,x04,x05,x06,x07,x13!x02?page="></script>
 
 
 
