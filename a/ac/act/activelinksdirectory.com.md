@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activelinksdirectory.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619095850id_/http%3A//activelinksdirectory.com/page.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activelinksdirectory.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021626id_/http%3A//activelinksdirectory.com/page.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,8 @@ We have no intention of collecting any personal information from individuals und
 We will not collect your name, address, telephone number, or e-mail address unless you provide it to us voluntarily. Should you provide us with any of this information. However, we may attempt to collect such information if we believe your use of this website violates any laws or our terms of use. If you do not want this information collected, please do not submit it to us.
 
 If you have already submitted this information and would like for us to remove it from our records, please contact us. We will use reasonable efforts to delete your information from our existing files.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Tell a Friend**
 
@@ -33,7 +35,7 @@ In some cases, we may collect additional not personally identifiable information
 If you have any questions or suggestions regarding our privacy policy, please [ contact us.](http://activelinksdirectory.com/sendmail.php?u=admin)   
 
 
-Last update May, 2008
+Last update October, 2009
 
   
 
