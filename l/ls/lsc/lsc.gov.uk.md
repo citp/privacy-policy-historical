@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lsc.gov.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602094310id_/http%3A//www.lsc.gov.uk/DPA.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsc.gov.uk privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220092731id_/http%3A//www.lsc.gov.uk/DPA.htm) for the most accurate reproduction.*
 
-# Learning and Skills Council - Privacy and copyright statement
+# Privacy and copyright statement
 
 The LSC website, with the exception of the registration systems and the discussions facility does not capture or store personal information, but merely logs the user's IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. 
 
