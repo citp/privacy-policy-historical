@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627061654id_/http%3A//www.onrpg.com/MMO/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035148id_/http%3A//www.onrpg.com/MMO/privacy-policy) for the most accurate reproduction.*
 
 # Free MMORPG Online Games & Free MMO RPG Directory - Onrpg.com
-
-| 
 
 This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by us on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). SPIL GAMES B.V. (hereinafter referred to as "SPIL") with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.
 
@@ -46,5 +44,3 @@ If you wish to have access to the information that we collect about you, please 
 **6.3.** SPIL does not intentionally collect any personal data from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.  
 **6.4.** This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands.   
 
-
-| 
