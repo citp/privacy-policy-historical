@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621042627id_/http%3A//faro.com/contentv3.aspx%3Fct%3Ddi%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035210id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Ddi%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
 # FARO International - Privacy Policy
 
@@ -71,8 +71,7 @@ The inquiries should include the individual's name, address, and other relevant 
 |   | 
 
 FARO Swiss Holding GmbH, Wiesengasse 20, 8222 Beringen, Switzerland  
-Phone: +49 (0) 7150 - 97 97 0 · Fax: +49 (0) 7150 - 97 97 44  
-FREECALL 00800 - 3276 7253
+Phone: +49 (0) 7150 - 97 97 0 · Fax: +49 (0) 7150 - 97 97 44 
 
 | [  ](https://web.archive.org/contentv2.aspx?ct=di&content=misc&cat=Certificates)  
 ---|---|---  
