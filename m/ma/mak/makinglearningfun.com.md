@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makinglearningfun.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135757id_/http%3A//makinglearningfun.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinglearningfun.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220034506id_/http%3A//www.makinglearningfun.com/privacy.htm) for the most accurate reproduction.*
 
 # Making Learning Fun Privacy Policy
 
