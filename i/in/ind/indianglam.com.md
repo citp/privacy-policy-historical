@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianglam.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070549id_/http%3A//www.indianglam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianglam.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005859id_/http%3A//www.indianglam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
