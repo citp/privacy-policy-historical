@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105304id_/http%3A//www.wi-fi.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220065644id_/http%3A//www.wi-fi.org/privacy_policy.php) for the most accurate reproduction.*
 
-# Wi-Fi Alliance - Online Privacy Policy
+# Wi-Fi Alliance: Privacy Policy
 
 ## Wi-Fi Alliance Privacy Policy  
 
@@ -10,8 +10,6 @@ Your right to privacy is very important. We recognize that when you choose to pr
 **Automatic Collection of Information**
 
 The information we collect automatically is used to improve the content of our website, and any web browser cookies we deploy are only used to collect aggregate statistics that helps us measure the effectiveness of our web site content as well as our navigational design. These cookies do not track individual information not voluntarily provided, such as email addresses. 
-
-[](http://www.wi-fi.org/privacy_policy.php#top)
 
 **Collection of Voluntarily Submitted Information**
 
@@ -23,23 +21,17 @@ We will not provide any of your personal information to other companies or indiv
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site. 
 
-[](http://www.wi-fi.org/privacy_policy.php#top)
-
 **Security**
 
 We take appropriate steps to protect your privacy and implement reasonable security measures to protect your personal information in storage. We use secure transmission methods to collect personal data such as identifiers such credit card details and web site passwords. 
-
-[](http://www.wi-fi.org/privacy_policy.php#top)
 
 **Control of Your Information**
 
 You can help the Wi-Fi Alliance maintain the accuracy of your information by notifying us of any changes to your address, title, company name, phone number or email address. Wi-Fi Alliance Members may update their contact information on the Members Only web site or by contacting Wi-Fi Alliance staff. 
 
-Web site visitors may opt-in to receive updates regarding press releases, events and other information. We give you the opportunity to change your election to receive/not receive information from us. At any time, a user may opt-out of receiving event updates, press release announcements, and other information and updates from the Wi-Fi Alliance by updating your profile or by sending an email request to [ web@wi-fi.org](mailto:web@wi-fi.org). 
+Web site visitors may opt-in to receive updates regarding press releases, events and other information. We give you the opportunity to change your election to receive/not receive information from us. At any time, a user may opt-out of receiving event updates, press release announcements, and other information and updates from the Wi-Fi Alliance by updating your profile or by sending an email request to [web@wi-fi.org](mailto:web@wi-fi.org). 
 
 Our web site may provide links to third party sites. Since we do not control those web sites, we encourage you to review the privacy policies of these third party web sites. 
-
-[](http://www.wi-fi.org/privacy_policy.php#top)
 
 **Wi-Fi Alliance**  
 3925 West Braker Lane  
