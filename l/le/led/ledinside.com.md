@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ledinside.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211005id_/http%3A//www.ledinside.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledinside.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002218id_/http%3A//www.ledinside.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policies | LEDinside - Let There Be Light with LED
+# Privacy Policies | LEDinside - LED News, LED Price Trends and LED market intelligence
 
 _**Privacy policy**_
 
