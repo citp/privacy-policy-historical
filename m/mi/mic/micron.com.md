@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044721id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005109id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
 
 # Micron Privacy Policy
 
@@ -66,7 +66,7 @@ If you want to change or modify information you have previously provided to us, 
 
 
 **Compliance Hotline**  
-If you have questions or concerns regarding use of your privacy information, please contact us first using one of the methods above. If you are still dissatisfied, you may call our Compliance Hotline at (866) 294-5593 in the U.S., Canada, and Puerto Rico, for other international numbers [click here](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=8715&nav=page2). If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should contact BBBonline: Dispute Resolution (703) 247-9370 or 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203. BBB will then serve as a liaison with us to resolve your privacy concerns. 
+If you have questions or concerns regarding use of your privacy information, please contact us first using one of the methods above. If you are still dissatisfied, you may call our Compliance Hotline at (866) 294-5593 in the U.S., Canada, and Puerto Rico, for other international numbers [click here](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=8715&nav=page2). If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should contact BBB EU Safe Harbor: (703) 247-9370 or 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203. 
 
 **U.S.** **Commerce Department Safe Harbor Principles**  
 Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor. ](http://www.export.gov/safeharbor)
