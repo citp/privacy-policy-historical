@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181359id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221001307id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
 
 # FindGift.com Privacy Policy
-
-**FindGift.com Privacy Policy**
 
 At FindGift.com your privacy is important to us. This notice describes our privacy policy. **By visiting FindGift.com, you are accepting the practices described in our Privacy Policy**
 
@@ -20,7 +18,7 @@ The information that we learn from our visitors helps us personalize and continu
 
 **What About Cookies?**
 
-  * Cookies are alphanumeric identifiers that we transfer to your cmputer's hard drive through your web browser to enable our system to recognize your browser and to provide features such as our Gift Registry, Gift Idea Bookmarks, Advanced Gift Finder, and our email reminder service. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our system to recognize your browser and to provide features such as our Gift Registry, Gift Idea Bookmarks, Advanced Gift Finder, and our email reminder service. 
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies will allow you to take full advantage of some of FindGift.com's most useful features, and we recommend that you leave them on. 
 
 
@@ -51,24 +49,3 @@ FindGift.com does not offer services for use by children. We offer children's gi
 **Conditions of Use, Notices, and Revisions**
 
 If you choose to visit FindGift.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/), including limitations on damages, arbitration of disputes, and application of the law of the state of Georgia. If you have any concern about privacy at FindGift.com, please send us an a thorough description to [comments@findgift.com](mailto:comments@findgift.com), and we will try to resolve it. Our business changes constantly. This Notice and the [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. You should check our website frequently to see recent changes. 
-
- 
-
-| 
-
-4
-
-Days  
-Until...
-
-**Father's Day**
-
-June 21, 2009
-
-Upcoming Holidays 
-
-Find unique gift ideas with our 
-
-Find deals on Free Shipping, Discount Codes, Sale Items, Clearance and more.  
-  
-FindGift.com and its logo are trademarks of Registry Online, Inc. 
