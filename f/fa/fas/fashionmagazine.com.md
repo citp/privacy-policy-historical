@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211019id_/http%3A//www.fashionmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005132id_/http%3A//www.fashionmagazine.com/privacy) for the most accurate reproduction.*
 
 # FASHION Magazine
+
+ 
 
 ## Privacy. Plain and Simple
 
@@ -138,63 +140,43 @@ The St. Joseph Media Companies have organizational, physical and technological m
 To access your personal information, inform us of changes you believe need to be made to that information, request that we investigate a concern you have about our personal information practices or obtain further information about this policy, please contact:
 
 Privacy Officer  
-privacy@stjosephmedia.com
+[privacy@stjosephmedia.com](mailto:privacy@stjosephmedia.com)
 
 Addresses for brands:
 
-_Canadian Family_  
+**Canadian Family**  
 PO Box 30023  
 Station BRM B  
 Toronto, ON  
-M7Y 2M8
-
-_Fashion_  
+M7Y 2M8  **Fashion**  
 PO Box 825  
 Station Main  
 Markham, ON  
-L3P 8C8
-
-_Fashion18_  
+L3P 8C8  **Fashion18**  
 PO Box 825  
 Station Main  
 Markham, ON  
-L3P 8C8
-
-_Gardening Life_  
+L3P 8C8  **Gardening Life**  
 PO Box 728  
 Station Main  
 Markham ON  
-L3P 7Y2
-
-_Quill & Quire_  
+L3P 7Y2  **Quill & Quire**  
 PO Box 819  
 Markham, ON  
-L3P 8L3
-
-| 
-
-_Toronto_ _Life_  
+L3P 8L3  **Toronto Life**  
 PO Box 825  
 Station Main  
 Markham, ON  
-L3P 8C8
-
-_WeddingBells_  
+L3P 8C8  **WeddingBells**  
 111 Queen Street East  
 Suite 320  
 Toronto, ON  
-M5C 1S2
-
-_Where_  
+M5C 1S2  **Where**  
 111 Queen Street East  
 Suite 320  
 Toronto, ON  
-M5C 1S2
-
-_Wish_  
+M5C 1S2  **Wish**  
 PO Box 825  
 Station Main  
 Markham, ON  
-L3P 8C8  
-  
----|---
+L3P 8C8 
