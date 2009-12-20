@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629142000id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220135625id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # Australian Broadcasting Corporation: Privacy Policy
 
