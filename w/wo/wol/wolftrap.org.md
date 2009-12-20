@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044424id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221003023id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Wolf Trap Foundation for the Performing Arts | Privacy Policy
 
@@ -11,7 +11,7 @@ Thank you for visiting wolftrap.org. This Privacy Policy sets forth the online i
 
 
 
-**INFORMATION COLLECTION AND USE**  
+**INFORMATION COLLECTION AND USE**   
 Wolftrap.org collects two kinds of information from you: personal information that you choose to supply us and non-personal information such as your IP address. To learn how to opt-out of receiving further information about wolftrap.org, see the section marked "CHOICES" below. 
 
 **1\. Personal Information**
@@ -46,7 +46,7 @@ An IP Address is a number used by computers on a network to identify your comput
 
 We may share personally and non-personally identifiable information with third parties that help manage our Website and databases and with our third party affiliates, partners and sponsors. 
 
-**CHOICE**  
+**CHOICE**   
 Wolftrap.org provides you with the following choices regarding the use of your information: 
 
   * You may choose to not provide us with any contact information. However, if you do so, we will be unable to sign you up for either of our mailing lists, or enter any sweepstakes or contests. Additionally, your ability to navigate this Website may be impaired. 
@@ -60,11 +60,11 @@ Attn: Website Privacy Policy
 
 
 
-**NOTIFICATION OF CHANGES**  
+**NOTIFICATION OF CHANGES**   
 If we decide to change our privacy policy, we will post those changes on our homepage so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
-**SPECIAL POLICY WITH REGARD TO INFORMATION FROM CHILDREN UNDER THIRTEEN**  
+**SPECIAL POLICY WITH REGARD TO INFORMATION FROM CHILDREN UNDER THIRTEEN**   
 Wolftrap.org is not targeted to children under the age of 13, and we do not knowingly collect personally identifiable information from any child under the age of 13 without parental consent. When we do receive such information, we delete it as soon as we discover it and we do not use it or share it with third parties. 
 
-**SECURITY**  
+**SECURITY**   
 We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control. If you have any questions about the security of our Website, please contact [wolftrap@wolftrap.org](mailto:wolftrap@wolftrap.org).
