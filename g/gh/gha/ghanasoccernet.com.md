@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161124id_/http%3A//www.ghanasoccernet.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1633%26Itemid%3D110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220034342id_/http%3A//www.ghanasoccernet.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1633%26Itemid%3D110) for the most accurate reproduction.*
 
-# Ghanasoccernet.com The No.1 Site For Ghana Soccer - Privacy Policy
+# Privacy Policy
 
 Wednesday, 27 August 2008   
   
