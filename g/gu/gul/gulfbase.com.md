@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627151439id_/http%3A//www.gulfbase.com/site/Interface/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220014528id_/http%3A//www.gulfbase.com/site/Interface/Privacy.aspx) for the most accurate reproduction.*
 
 # GulfBase.com - Privacy
 
