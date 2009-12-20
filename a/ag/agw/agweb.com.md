@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619191359id_/http%3A//www.agweb.com/get_article.aspx%3Fpageid%3D138972) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220121847id_/http%3A//www.agweb.com/get_article.aspx%3Fpageid%3D138972) for the most accurate reproduction.*
 
 # Your Spot for Futures Trading, Commodities Info, Ag News, Successful Farming Tips & More
 
 [](http://mymachinery.com/ "MyMachinery.com")
 
+Agriculture Markets  
+  
+---  
+  
+Enter **Zip Code** below for **LIVE local results.**  
+  
+|   
+  
 ## AgWeb Privacy Policy
 
-12/21/2007
+12/21/2007  
+
 
 **Your Privacy**
 
@@ -75,7 +84,7 @@ By using our web site, you consent to the collection and use of information as s
 Our goal is to protect your privacy. To comment on or help us improve this privacy policy, please contact us by email at [feedback@agweb.com](mailto:feedback@agweb.com).   
 
 
-[ Printer-friendly version](https://web.archive.org/web/20090619191359id_/http%3A//www.agweb.com/news_printer.aspx?articleID=138972)
+[ Printer-friendly version](https://web.archive.org/web/20091220121847id_/http%3A//www.agweb.com/news_printer.aspx?articleID=138972)
 
 ### Email Article to a Friend
 
