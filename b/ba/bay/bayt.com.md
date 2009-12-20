@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612205629id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220033446id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
-# Bayt.com | jobs UAE, jobs Dubai, jobs Abu Dhabi, jobs Saudi, jobs Kuwait, jobs Bahrain, jobs Qatar, jobs Pakistan | Bayt.com
+# Privacy Statement | Bayt.com
 
 [Home](https://web.archive.org/en/home/) » Privacy Statement
 
