@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619083103id_/http%3A//www.expatwomen.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021026id_/http%3A//www.expatwomen.com/privacy.php) for the most accurate reproduction.*
 
 # Expat Women - Helping Expatriate Women Living Overseas - Expat Relocation Abroad - Expat Blogs
 
