@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lib.oh.us privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620003915id_/http%3A//www.oplin.org/content/oplin-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lib.oh.us privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220040411id_/http%3A//www.oplin.org/content/oplin-privacy-policy) for the most accurate reproduction.*
 
 # OPLIN Privacy Policy | OPLIN
 
