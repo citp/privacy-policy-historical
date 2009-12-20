@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yallstore.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110241id_/http%3A//www.yallstore.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallstore.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220194200id_/http%3A//www.yallstore.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : YallStore.com
+# Privacy Policy : YallStore.com
 
 At YallStore.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
