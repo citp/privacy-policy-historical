@@ -1,384 +1,1601 @@
-<!--The following is the downloaded HTML source of the dormitory.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dormitory.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220193546id_/http%3A//www.dormitory.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+        <meta http-equiv="Expires" content=" ">
+        <title>Dormitory.com</title>
+        <meta name="keywords" content="News, Articles, Videos, Celebrities, Fashion, Gossip, Travel, Health, Finance, Top Stories, World News, Top Videos, funny videos, dormitory.com">
+        <meta name="description" content="Dormitory.com is a place where visitors can discover all of the latest video and article content on the web.  We pull all of the top videos and articles from News, Celebrities, Gossip, Travel, Health, Pets, Finance channels, and many more and organize it into one central convenient location.">
+        <meta name="author" content="">
+        <meta name="ROBOTS" content="ALL">
 
-<title>dormitory.com</title>
-<meta http-equiv="Content-Language" content="English">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="../css/style.css" media="screen">
-<link rel="stylesheet" type="text/css" href="../css/ajaxtabs.css" media="screen">
-<link rel="stylesheet" type="text/css" href="../css/tabcontent.css" media="screen">
-<link rel="stylesheet" type="text/css" href="../css/sortabletable.css" media="screen">
-<script type="text/javascript" src="../js/ajaxtabs.js"></script>
-<script type="text/javascript" src="../js/tabcontent.js"></script>
-<script type="text/javascript" src="../js/sortabletable.js"></script>
+        
+        <meta name="verify-v1" content="8dRgfEcAmYIXRxwzyb0YX7bCCoAlcoNtAZWg5zVsqho=">
+        
 
+        
+
+        
+        <link rel="stylesheet" href="http://media.dormitory.com/media/default/css/blueprint/screen.css" type="text/css" media="screen, projection">
+        <link rel="stylesheet" href="http://media.dormitory.com/media/default/css/blueprint/print.css" type="text/css" media="print">
+        <!--[if IE]><link rel="stylesheet" href="http://media.dormitory.com/media/default/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+        <link rel="stylesheet" href="http://media.dormitory.com/media/default/css/base.css" type="text/css" media="screen, projection">
+
+        
+        <link rel="stylesheet" href="http://media.dormitory.com/www/site.css" type="text/css" media="screen, projection">
+        
+
+        
+
+        
+        <script src="http://media.dormitory.com/media/default/js/site_functions.js" type="text/javascript"></script>
+	
+<script src="http://cdn.jquerytools.org/1.1.2/jquery.tools.min.js"></script>
 <script type="text/javascript">
-<!--
-    _CF_checkCFForm_1 = function(_CF_this)
-    {
-        //reset on submit
-        _CF_error_exists = false;
-        _CF_error_messages = new Array();
-        _CF_error_fields = new Object();
-        _CF_FirstErrorField = null;
+    $(function() {
 
-
-        //display error messages and return success
-        if( _CF_error_exists )
-        {
-            if( _CF_error_messages.length > 0 )
-            {
-                // show alert() message
-                _CF_onErrorAlert(_CF_error_messages);
-                // set focus to first form error, if the field supports js focus().
-                if( _CF_this[_CF_FirstErrorField].type == "text" )
-                { _CF_this[_CF_FirstErrorField].focus(); }
-
-            }
-            return false;
-        }else {
-            return true;
-        }
-    }
-//-->
-</script>
-</head>
-<body topmargin="0" leftmargin="0" style=" margin-top:0px; margin-left:0px;">
-<div style="padding-left:0px; padding-top:0px; margin-top:0px; margin-left:0px;">
-
-
-  <table width="976" border="0" cellspacing="0" cellpadding="0">
-  
-    <tbody><tr>
-	
-	  <td width="976" colspan="3">
-	  <!-- Header Area -->
-	  <table width="976" border="0" cellspacing="0" cellpadding="0" style="height:25px">
-        <tbody><tr>
-        <td width="956" height="25" bgcolor="#99cc33" valign="bottom" align="left" background="../images/bg_grey.jpg">
+        $("li.showdiv").mouseover(function(){
+			var optionsId = "#" + $(this).attr("id") + "-options";
+			$(optionsId).fadeIn();
+		}).mouseout(function(){
+			var optionsId = "#" + $(this).attr("id") + "-options";
+			$(optionsId).hide();
+		});
 		
-		</td>
-         <td width="20">&nbsp;</td>
-        </tr>
-      </tbody></table>
-	  <!-- Header Area -->
-	  </td>
-    </tr>
-	
-    <tr>
-      <td width="150" valign="top">
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td bgcolor="#99cc33"><a href="http://www.dormitory.com"><img src="../images/logo1.gif" width="150" border="0"></a></td>
-        </tr>
-	
-        <tr>
-          <td bgcolor="#f5f5f5"><table border="0" cellpadding="5" width="100%" align="left">
-<tbody><tr><td align="left">
+		$("div.menu-options").mouseover(function(){
+			$(this).show();
+		}).mouseout(function(){
+			$(this).hide();
+		});
+		
+		
+		// initialize scrollable
+        $("div.scrollable").scrollable({
+            size: 3
+        });
+		
+
+    });
+</script>
+
+    </head>
+    <body>
+        
+
+
+<div id="header">
+    
+    <div id="logo">
+        <a href="/">
+            
+            <img src="http://media.dormitory.com/media/default//img/logo.jpg" alt="Dormitory">
+            
+        </a>
+    </div>
+    
+    
+    <div id="bookmark">
+        <a href="javascript:bookmarksite('Dormitory', 'http://www.dormitory.com')">Bookmark This Site!</a>
+        <!--[if IE]>
+         | <a href="#" onClick="this.setHomePage('http://www.dormitory.com');">Make This Site Your Homepage!</a>
+        <![endif]-->
+    </div>
+    
+    
+    
+    
+</div>
+<div id="nav">
+    <div id="menu" class="span-14">
+        <ul id="mainMenu">
+    
+    <li id="channels">
+        <a href="/topics/">Topics</a>
+    </li>
+    <li id="popular">
+        <a href="/video/most-popular/">Most Popular</a>
+    </li>
+    <li id="recent">
+        <a href="/video/recent/">Recently Added</a>
+    </li>
+    <li id="articles">
+        <a href="/articles/">Articles</a>
+    </li>
+    
+</ul>
+
+    </div>
+    <div id="search" class="span-10 last">
+        
+        <form action="/search/">
+            <input id="query" name="query" type="text" value="">
+            <input id="search" type="submit" value="Search">
+        </form>
+        
+    </div>
+</div>
+
+<div id="feature">
+    <div id="featureContainer" class="container">
+        <h2>Privacy Policy</h2>
+    </div>
+</div>
+<div id="content">
+    <div class="container">
+        
+
+<div class="span-24 last adbox">
+  <iframe src="http://optimized-by.rubiconproject.com/a/7675/12245/21756-2.html?" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90"></iframe>
+</div>
 
 
 
-
-
-
-
-<form id="userLogin" action="/app/privacy.cfm?" method="post" onsubmit="return _CF_checkCFForm_1(this)">
-
-
-<table border="0" cellspacing="1" bgcolor="#efefef"><tbody><tr><td>
-<table border="0" bgcolor="#ffffff">
-<tbody><tr><td><b>E-mail:</b> </td><td><input name="email" id="email" type="text" size="11"></td></tr>
-<tr><td><b>Password:</b> </td><td><input name="password" id="password" type="password" maxlength="12" size="11"> </td></tr>
-<tr><td><input name="SubmitLogin" id="SubmitLogin" type="submit" value="Login"></td><td><input name="Reset" id="Reset" type="reset" value="Reset"></td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-</form>
-
-<p><a href="index.cfm?action=forgot">Forgot password?</a> | <a href="index.cfm">Sign Up!</a></p> 
-
-
-
-
-
-
-<center>
-
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=334079"></iframe>
-
-</center>
-
-
-</td>
-</tr>
-</tbody></table></td>
-        </tr>
-      </tbody></table>
-	  </td>
-      <td width="626" valign="top">
-<!-- Content Area -->
-<table border="0" cellspacing="1" cellpadding="20" bgcolor="#cccccc" width="100%">
-<tbody><tr bgcolor="#ffffff"><td align="center" valign="top">
-	<table border="0" cellpadding="10" width="100%">	
-<tbody><tr>
-<td width="100%">
-<div class="greybox" style="width:560px; text-align:left;">
-<p><b>Privacy Policy</b><br><br>
-
-Dormitory.com, LLC<br><br>
-</p><p>
-Dormitory.com, LLC (hereinafter "Dormitory") shares your concern about personal privacy. Dormitory recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://Dormitory.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Dormitory provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.<br>
+<div class="span-12">
+    
+<p>
+    Dormitory.com, LLC (hereinafter "Dormitory") shares your concern about personal privacy. Dormitory recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://Dormitory.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Dormitory provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.<br>
 </p>
 <b>1. General</b><br>
 <p>
-By reference, this Privacy Policy is incorporated into and is subject to the Dormitory Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official Dormitory contact remains subject to this Privacy Policy, as well as the Dormitory Terms of Use, and/or other governing Dormitory policies.<br><br>
-You are informed that any photograph, image, graphic, video or other content posted by Users onto the Website becomes published news or informational content, or the like, and is not considered personally identifiable information subject to this Privacy Policy.</p>
+    By reference, this Privacy Policy is incorporated into and is subject to the Dormitory Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official Dormitory contact remains subject to this Privacy Policy, as well as the Dormitory Terms of Use, and/or other governing Dormitory policies.<br><br>
+    You are informed that any photograph, image, graphic, video or other content posted by Users onto the Website becomes published news or informational content, or the like, and is not considered personally identifiable information subject to this Privacy Policy.</p>
+
 <br>
 <b>2. Collected Information</b><br>
 <p>
-Dormitory may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information. Dormitory may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data.<br><br>
-Specifically, but not limited to, the following information is collected:<br>
-<b>a. User Provided Data:</b> Users may provide personally identifiable information (such as a name and an email address) to Dormitory when choosing to participate in the various services available on the Website, such as uploading videos and/or images or other content (collectively, the "Content") for public viewing interests, entering contests, accessing promotions, responding to surveys, accessing interactive forums, or other personalized services (collectively, the "Services").<br><br>
-<b>b. Cookies:</b> Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. Dormitory may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as 'reminders' as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer's settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled.<br><br>
-<b>c. Clear .GIFs:</b> Dormitory may choose to utilize "clear .GIFs" to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, Dormitory may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps Dormitory to determine active and inactive email addresses.<br><br>
-<b>d. Log File Data:</b> When Users log-in to their Dormitory account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User's authorization to access the account. Information, such as a Web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User's entry and activity on the Website.
+    Dormitory may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information. Dormitory may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data.<br><br>
+
+    Specifically, but not limited to, the following information is collected:<br>
+    <b>a. User Provided Data:</b> Users may provide personally identifiable information (such as a name and an email address) to Dormitory when choosing to participate in the various services available on the Website, such as uploading videos and/or images or other content (collectively, the "Content") for public viewing interests, entering contests, accessing promotions, responding to surveys, accessing interactive forums, or other personalized services (collectively, the "Services").<br><br>
+    <b>b. Cookies:</b> Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. Dormitory may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as 'reminders' as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer's settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled.<br><br>
+    <b>c. Clear .GIFs:</b> Dormitory may choose to utilize "clear .GIFs" to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, Dormitory may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps Dormitory to determine active and inactive email addresses.<br><br>
+
+    <b>d. Log File Data:</b> When Users log-in to their Dormitory account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User's authorization to access the account. Information, such as a Web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User's entry and activity on the Website.
+
 </p><br>
 <b>3. Information Uses</b><br>
 <p>
-a. Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User's use and pleasure.<br><br>
-b. All personal information, data, or content that you, the User, voluntarily disclose to the Website public areas become available to other Users and can be collected and used by others. Your account Username is displayed to other Users when you upload videos or other Content, or send messages through the Website and other Users can contact you through interactive messages and commenting. Any Content that you submit (the "User Submission") may be redistributed throughout the Internet and other media channels, and/or may be viewed by the general public through other means not controlled by Dormitory.<br><br>
-c. Dormitory does use your personally identifiable and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.<br><br>
-d. Dormitory uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) remember information necessary for logging in to your Website account so as to save you time in re-entering such information; (iii) monitor the impact and effectiveness of Dormitory marketing efforts; (iv) monitor aggregate metrics providing detailed data on User activities while on the Website; (v) track your submissions, entries, and status.
+    a. Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User's use and pleasure.<br><br>
+    b. All personal information, data, or content that you, the User, voluntarily disclose to the Website public areas become available to other Users and can be collected and used by others. Your account Username is displayed to other Users when you upload videos or other Content, or send messages through the Website and other Users can contact you through interactive messages and commenting. Any Content that you submit (the "User Submission") may be redistributed throughout the Internet and other media channels, and/or may be viewed by the general public through other means not controlled by Dormitory.<br><br>
+    c. Dormitory does use your personally identifiable and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.<br><br>
+    d. Dormitory uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) remember information necessary for logging in to your Website account so as to save you time in re-entering such information; (iii) monitor the impact and effectiveness of Dormitory marketing efforts; (iv) monitor aggregate metrics providing detailed data on User activities while on the Website; (v) track your submissions, entries, and status.
 </p><br>
 <b>4. Disclosure of Information</b><br>
+
 <p>a. Dormitory provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of Dormitory. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.<br><br>
-b. Dormitory reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Dormitory Terms of Service, or other governing Dormitory policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Dormitory against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Dormitory, Users of the Website, or others.<br><br>
-c. Dormitory does not share your personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out.<br><br>
-d. Dormitory does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.<br><br>
-e. Dormitory may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.
+
+    b. Dormitory reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Dormitory Terms of Service, or other governing Dormitory policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Dormitory against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Dormitory, Users of the Website, or others.<br><br>
+    c. Dormitory does not share your personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out.<br><br>
+    d. Dormitory does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.<br><br>
+    e. Dormitory may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.
 </p><br>
 <b>5. Decline to Accept</b><br>
 <p>
-You may, of course, decline to submit or allow the submission of personally identifiable information through the Website, in which case Dormitory may not be able to provide certain Services to you, if any at all. You may, at any time, update or edit your personal profile information and email preferences by visiting your Dormitory account profile page. You acknowledge and agree that any User Submission uploaded by you to the Website cannot be removed by arbitrary request and said Content remains subject to the Terms of Use.
+    You may, of course, decline to submit or allow the submission of personally identifiable information through the Website, in which case Dormitory may not be able to provide certain Services to you, if any at all. You may, at any time, update or edit your personal profile information and email preferences by visiting your Dormitory account profile page. You acknowledge and agree that any User Submission uploaded by you to the Website cannot be removed by arbitrary request and said Content remains subject to the Terms of Use.
 </p><br>
 <b>6. Links and Third Party Advertisers</b><br>
+
 <p>
-Dormitory allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the "Advertisers") to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website.<br><br>
-Dormitory does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, Dormitory highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. Dormitory's Privacy Policy does not apply to, nor can Dormitory control, the activities of other websites or Advertisers.<br><br>
+
+    Dormitory allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the "Advertisers") to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website.<br><br>
+    Dormitory does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, Dormitory highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. Dormitory's Privacy Policy does not apply to, nor can Dormitory control, the activities of other websites or Advertisers.<br><br>
 </p>
 <b>7. Data Security</b><br>
 <p>
-In an effort to provide maximum protection of User's privacy, Dormitory routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, Dormitory cannot ensure or warrant the security of any information you transmit to Dormitory or place upon the Website and you do so at your own risk. Once we receive said transmission of personal information, Dormitory engages commercially reasonable efforts to ensure the security of our systems and the personal information you provided to our custody. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br><br>
+    In an effort to provide maximum protection of User's privacy, Dormitory routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, Dormitory cannot ensure or warrant the security of any information you transmit to Dormitory or place upon the Website and you do so at your own risk. Once we receive said transmission of personal information, Dormitory engages commercially reasonable efforts to ensure the security of our systems and the personal information you provided to our custody. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br><br>
 </p>
 <b>8. Children's Privacy</b>
 <p>
-Dormitory complies with the Children's Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone's ability. For that reason, Dormitory does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and Dormitory has unknowingly collected said information, then Dormitory will take the appropriate steps to delete this information.<br><br>
+    Dormitory complies with the Children's Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone's ability. For that reason, Dormitory does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and Dormitory has unknowingly collected said information, then Dormitory will take the appropriate steps to delete this information.<br><br>
+
 </p>
 <b>9. Transfer of Rights</b><br>
 <p>
-Should Dormitory be acquired, merged, or endeavor to become closed for business, Dormitory reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status.<br><br>
-In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, Dormitory may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify Dormitory owner(s), officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses.<br><br>
+    Should Dormitory be acquired, merged, or endeavor to become closed for business, Dormitory reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status.<br><br>
+    In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, Dormitory may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify Dormitory owner(s), officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses.<br><br>
 </p>
 <b>11. Changes and Updates</b><br>
 <p>
-This Privacy Policy may be revised at will. Such changes, edits, revisions, and/or updates will be made available by posting updated Privacy Policies to the Website. All such changed and updated Privacy Policies can be identified by way of the Date of Modification. You are advised to frequently visit the Dormitory Privacy Policy to determine the last Date of Modification so as to afford you the opportunity to access the most current Privacy Policy. Regardless of your visitation habits to this Privacy Policy, your continued access and use of the Dormitory Website constitutes your agreement to this Privacy Policy, the Dormitory Terms of Use, and any other governing policies of Dormitory, as well as any future revisions of said legal documents and policies.<br><br>
+    This Privacy Policy may be revised at will. Such changes, edits, revisions, and/or updates will be made available by posting updated Privacy Policies to the Website. All such changed and updated Privacy Policies can be identified by way of the Date of Modification. You are advised to frequently visit the Dormitory Privacy Policy to determine the last Date of Modification so as to afford you the opportunity to access the most current Privacy Policy. Regardless of your visitation habits to this Privacy Policy, your continued access and use of the Dormitory Website constitutes your agreement to this Privacy Policy, the Dormitory Terms of Use, and any other governing policies of Dormitory, as well as any future revisions of said legal documents and policies.<br><br>
 </p>
 <b>12. Communications</b><br>
+
 <p>
-On occasion as deemed necessary by Dormitory (daily, weekly, monthly, etc.), Dormitory will send the User various communications, such as email newsletters or alerts, account updates, and special offers targeted to the interests of the User. as determined by Dormitory. Said communications shall originate from Dormitory only and shall be conducted in compliance to Section 4, entitled "Disclosure of Information", of this Privacy Policy. At any time, the User may modify or entirely opt-out of such communications by accessing the "Email Options" link as provided in the post-login Administration section of the User's personal Dormitory website.<br><br>
+    On occasion as deemed necessary by Dormitory (daily, weekly, monthly, etc.), Dormitory will send the User various communications, such as email newsletters or alerts, account updates, and special offers targeted to the interests of the User. as determined by Dormitory. Said communications shall originate from Dormitory only and shall be conducted in compliance to Section 4, entitled "Disclosure of Information", of this Privacy Policy. At any time, the User may modify or entirely opt-out of such communications by accessing the "Email Options" link as provided in the post-login Administration section of the User's personal Dormitory website.<br><br>
 </p>
 <b>13. Presiding Language</b><br>
 <p>
-This Agreement and all Dormitory policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document.
-<br><br><br>
-DATE OF MODIFICATION: February 4, 2008
+    This Agreement and all Dormitory policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document.
+    <br><br><br>
+    DATE OF MODIFICATION: February 4, 2008
 </p><br>
+
+
+
+
 </div>
-	</td></tr></tbody></table>
-	</td>
-	</tr>
-</tbody></table>
-<!-- Content Area -->
-</td>
 
-<td width="200" bgcolor="#f5f5f5" valign="top" align="left">
+<div class="span-12 last">
+      
+    
+    <div class="span-12 last adbox">
+      <iframe src="http://optimized-by.rubiconproject.com/a/7675/12245/21756-15.html?" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250"></iframe>
+
+    </div>
+
+    
+    <h3>Latest</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2190363109/katie-and-eboney-tv-sway-sway-katie-episode-5" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/dt6VUrVQ_Tw/0.jpg" alt="Katie and Eboney tv - Sway Sway Katie episode 5" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2190363109/katie-and-eboney-tv-sway-sway-katie-episode-5">Katie and Eboney tv - Sway Sway Katie episode 5</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (141s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2172027943/blue-sky-conduct" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/0bLzv4J3-Vk/0.jpg" alt="blue sky conduct" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2172027943/blue-sky-conduct">blue sky conduct</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (68s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2312686687/okamivs-yami-final-plus-playing-around-with-new-game" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/ykzS1XX4S7w/0.jpg" alt="Okamivs Yami Final plus playing around with new game" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2312686687/okamivs-yami-final-plus-playing-around-with-new-game">Okamivs Yami Final plus playing around with new game</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (501s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/115776801/the-bad-lieutenant-port-of-call-new-orleans-2009-full-movie-part-117" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/NzIlIV4OShE/0.jpg" alt="The Bad Lieutenant: Port of Call  New Orleans (2009) -Full Movie part 1/17" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/115776801/the-bad-lieutenant-port-of-call-new-orleans-2009-full-movie-part-117">The Bad Lieutenant: Port of Call  New Orleans (2009) -Full Movie part 1/17</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (115s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/546722480/fantasy-monday-night-preview-week-15" class="gallery-listing-result-imglink"><img src="http://l.yimg.com/a/p/i/bcst/yahoosports/12329/99084133.jpg" alt="Fantasy: Monday Night Preview,  Week 15" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/546722480/fantasy-monday-night-preview-week-15">Fantasy: Monday Night Preview,  Week 15</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (195s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/155108618/mov04647mpg" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a307de358:5f3592d400397956139450ebdcc14fe1/u/http%253A%252F%252Fi.ytimg.com%252Fvi%252FSD38LHxMOw4%252F0.jpg" alt="MOV04647.MPG" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/155108618/mov04647mpg">MOV04647.MPG</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (26s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/37976458/mario-and-sonic-at-the-olympic-winter-games-world-record" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/yOUu1AfYAKg/0.jpg" alt="mario and sonic at the olympic winter games world record" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/37976458/mario-and-sonic-at-the-olympic-winter-games-world-record">mario and sonic at the olympic winter games world record</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (187s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/7023312/park" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/4Lhqjz7yGos/0.jpg" alt="Park" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/7023312/park">Park</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (60s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2777155147/c-d-e-sub-episode-16" class="gallery-listing-result-imglink"><img src="http://i.ytimg.com/vi/k9-r_LPqopc/0.jpg" alt="C D E SUB Episode 1/6" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2777155147/c-d-e-sub-episode-16">C D E SUB Episode 1/6</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (440s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>Most Popular</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2855678685/tu-me-vuelves-loco" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0001/38/22/382221DEC7565D28876DD1.jpg" alt="Tu Me Vuelves Loco" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2855678685/tu-me-vuelves-loco">Tu Me Vuelves Loco</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (117s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2633876801/layla-live-from-broadband-rocks" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0003/DB/27/DB2775621868E67695E553.jpg" alt="Layla (Live from BroadBAND Rocks!)" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2633876801/layla-live-from-broadband-rocks">Layla (Live from BroadBAND Rocks!)</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (542s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3459144281/obama-speech-a-more-perfect-union" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0005/DE/72/DE726859C2EF15CB377B03.jpg" alt="Obama Speech: 'A More Perfect Union'" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3459144281/obama-speech-a-more-perfect-union">Obama Speech: 'A More Perfect Union'</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2259s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2783600126/2012-adam-lambert-music-teaser" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/AC/EF/ACEFD03A1A63ACFCFF3256.jpg" alt="2012 - Adam Lambert Music Teaser" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2783600126/2012-adam-lambert-music-teaser">2012 - Adam Lambert Music Teaser</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (86s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3292613555/growing-old-is-getting-old-interface" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a3c588d88:4872d8043c921f933e0bbf88dd3b32fc/p/0011/C0/83/C083DC2EFB840B5A870E07.jpg" alt="Growing Old Is Getting Old (Interface)" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3292613555/growing-old-is-getting-old-interface">Growing Old Is Getting Old (Interface)</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (382s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2029876580/julia-roberts-speech" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/2F/79/2F7967B6553A976D5BADF3.jpg" alt="Julia Roberts Speech" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2029876580/julia-roberts-speech">Julia Roberts Speech</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (211s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2586207512/its-alright-its-ok-lyric-video" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/16/43/1643E0B0E8536846BC4565.jpg" alt="It’s Alright It's OK (Lyric Video)" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2586207512/its-alright-its-ok-lyric-video">It’s Alright It's OK (Lyric Video)</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (192s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/4116890543/hard-to-see" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/A8/DA/A8DA89C806EEF2951B2C10.jpg" alt="Hard to See" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/4116890543/hard-to-see">Hard to See</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (210s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1315595059/heartless" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0001/0B/1E/0B1E3E966C9F73B703029F.jpg" alt="'Heartless'" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1315595059/heartless">'Heartless'</a></span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>Movies</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3444999395/whats-the-worst-that-could-happen" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/3B/8E/3B8E2536FFDEB3BA144826.jpg" alt="What’s The Worst That Could Happen?" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3444999395/whats-the-worst-that-could-happen">What’s The Worst That Could Happen?</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (5900s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/370661008/one-heavenly-night" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/40/CE/40CE8175B3FCBD03CE9964.jpg" alt="One Heavenly Night" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/370661008/one-heavenly-night">One Heavenly Night</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (4818s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/4240415016/ink" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a4628f0b04:39e51bb7d68f66abca94c58b9dd5e324/p/0006/42/12/4212E278606C9F4FBBD7D6.jpg" alt="Ink" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/4240415016/ink">Ink</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (6374s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3490127141/pharaohs-army" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/01/E5/01E52CE2D94B98613A9D84.jpg" alt="Pharaoh’s Army" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3490127141/pharaohs-army">Pharaoh’s Army</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (5389s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1675412210/the-westerner" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/9D/45/9D455E48B80893546392B3.jpg" alt="The Westerner" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1675412210/the-westerner">The Westerner</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (5995s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1729688902/a-charlie-brown-christmas" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/47/CC/47CCEE1123565A0E0461FB.jpg" alt="A Charlie Brown Christmas" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1729688902/a-charlie-brown-christmas">A Charlie Brown Christmas</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2570s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3064763269/bulandi" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/EB/FA/EBFAA05F6C371F84BFEDD6.jpg" alt="Bulandi" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3064763269/bulandi">Bulandi</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (10264s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3983000541/snow" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/32/97/3297DF8586273494535CCF.jpg" alt="Snow" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3983000541/snow">Snow</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (5356s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/466926970/dil" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/EF/A9/EFA96093577A28582FFF79.jpg" alt="Dil" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/466926970/dil">Dil</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (9898s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>News</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/243454964/girls-on-pop-this-week-in-nudes" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/4A/91/4A91DFCB2DB6370ED0DE96.jpg" alt="Girls on Pop: This Week in Nudes" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/243454964/girls-on-pop-this-week-in-nudes">Girls on Pop: This Week in Nudes</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2259s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3459144281/obama-speech-a-more-perfect-union" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0005/DE/72/DE726859C2EF15CB377B03.jpg" alt="Obama Speech: 'A More Perfect Union'" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3459144281/obama-speech-a-more-perfect-union">Obama Speech: 'A More Perfect Union'</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2259s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1702309193/will-tiger-woods-wife-leave" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/E7/E4/E7E411CCAF1823FF4823E2.jpg" alt="Will Tiger Woods' Wife Leave?" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1702309193/will-tiger-woods-wife-leave">Will Tiger Woods' Wife Leave?</a></span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/149000147/boeing-787-dreamliner-first-flight" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/29/C1/29C1EDD380A155FB91BD4C.jpg" alt="Boeing 787 Dreamliner first flight" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/149000147/boeing-787-dreamliner-first-flight">Boeing 787 Dreamliner first flight</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (97s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/102862683/mack-lessons" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/72/4D/724DE1BA1326B2A1EE380F.jpg" alt="'Mack' Lessons" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/102862683/mack-lessons">'Mack' Lessons</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1712s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/323689906/girls-on-pop-tweeting-while-famous" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a504c360f0:7511733b631e1409037a05fd3077b9d5/p/0010/53/D3/53D35D26313D2275A19AEC.jpg" alt="Girls on Pop: Tweeting While Famous" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/323689906/girls-on-pop-tweeting-while-famous">Girls on Pop: Tweeting While Famous</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2075s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1107745285/gadgets-and-games-1218" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/BE/CB/BECBC92A8A9A4C2FCFCADB.jpg" alt="Gadgets and Games: 12/18" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1107745285/gadgets-and-games-1218">Gadgets and Games: 12/18</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (3542s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/738114361/dreamliner-makes-first-flight" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/07/54/0754418F140ED30346FC97.jpg" alt="Dreamliner Makes First Flight" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/738114361/dreamliner-makes-first-flight">Dreamliner Makes First Flight</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (90s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1792820836/girls-on-pop-fall-pop-culture-christmas" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/5E/A4/5EA4469DD9B2DD4970DCE3.jpg" alt="Girls on Pop: Fall = Pop Culture Christmas" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1792820836/girls-on-pop-fall-pop-culture-christmas">Girls on Pop: Fall = Pop Culture Christmas</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2061s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>Politics</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1833549260/mon-dec-14-2009" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/2A/F8/2AF8247253CA752EBA25C6.jpg" alt="Mon,  Dec 14, 2009" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1833549260/mon-dec-14-2009">Mon,  Dec 14, 2009</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1302s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/4045316249/the-christmas-bailout" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a5b18b6c20:ba2b4ecc61300d91ff59095fa522880b/p/0010/D4/2A/D42A09D56846F8C145AD60.jpg" alt="The Christmas Bailout" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/4045316249/the-christmas-bailout">The Christmas Bailout</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1359s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/681356601/mon-dec-14-2009" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/B6/38/B63800BD6A16C6807837A2.jpg" alt="Mon,  Dec 14, 2009" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/681356601/mon-dec-14-2009">Mon,  Dec 14, 2009</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1302s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3148691647/obama-googles-jesus" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/92/89/92891AA94AAB115F514D5E.jpg" alt="Obama Googles Jesus" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3148691647/obama-googles-jesus">Obama Googles Jesus</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1352s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2343880736/wed-dec-16-2009" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/DC/62/DC62349F73EEEED04B401F.jpg" alt="Wed,  Dec 16, 2009" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2343880736/wed-dec-16-2009">Wed,  Dec 16, 2009</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1301s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/4095271083/is-obama-failing-blacks" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/75/F0/75F0E187CB80E8F6BD7C4F.jpg" alt="Is Obama failing Blacks?" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/4095271083/is-obama-failing-blacks">Is Obama failing Blacks?</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (545s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1306800009/thu-dec-10-2009" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/2E/91/2E91E786E1D7BEC129E2EB.jpg" alt="Thu,  Dec 10, 2009" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1306800009/thu-dec-10-2009">Thu,  Dec 10, 2009</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1300s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2938753802/obama-insulation-is-sexy" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/EB/51/EB51EB02398A94F552C9E6.jpg" alt="Obama: 'Insulation is sexy'" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2938753802/obama-insulation-is-sexy">Obama: 'Insulation is sexy'</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (131s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2712380465/tue-dec-15-2009" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/8C/C7/8CC7DAA475234392F36A44.jpg" alt="Tue,  Dec 15, 2009" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2712380465/tue-dec-15-2009">Tue,  Dec 15, 2009</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1302s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>Sports</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/84045298/boston-red-sox-live-press-conference-130-pm" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/CA/F9/CAF90046F8C807DA62A701.jpg" alt="Boston Red Sox Live Press Conference - 1:30 p.m." style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/84045298/boston-red-sox-live-press-conference-130-pm">Boston Red Sox Live Press Conference - 1:30 p.m.</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (4800s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1939891950/tiger-woods-vanishing-act" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/BC/F5/BCF50DB18B1FE109E4C96A.jpg" alt="Tiger Woods' vanishing act" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1939891950/tiger-woods-vanishing-act">Tiger Woods' vanishing act</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (295s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/79929060/a-vigilante-ripped-my-sports-coat" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/1A/D1/1AD1840D4F0E1223C7C4DC.jpg" alt="A Vigilante Ripped My Sports Coat" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/79929060/a-vigilante-ripped-my-sports-coat">A Vigilante Ripped My Sports Coat</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1519s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1925418852/the-kid-from-brooklyn" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/61/11/6111735425BC7099276738.jpg" alt="The Kid From Brooklyn" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1925418852/the-kid-from-brooklyn">The Kid From Brooklyn</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (6827s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/124669088/inside-the-nba" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a654c47008:20b5158be0933cddff6a72ce52dbe91a/p/0008/9C/19/9C19F40D7028E42FC9EC50.jpg" alt="Inside the NBA" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/124669088/inside-the-nba">Inside the NBA</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1681s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/300494073/girls-on-pop-in-which-we-do-the-macarena" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/0D/4C/0D4C9CA4D51D63EE056F32.jpg" alt="Girls on Pop: In Which We Do the Macarena" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/300494073/girls-on-pop-in-which-we-do-the-macarena">Girls on Pop: In Which We Do the Macarena</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1791s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1919425985/chris-henry-dead-at-26" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/AE/83/AE837B965A4A965B8BD608.jpg" alt="Chris Henry Dead at 26" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1919425985/chris-henry-dead-at-26">Chris Henry Dead at 26</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (149s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2130819630/mma-live-12-17-09" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/39/0A/390A2574CE299E3D2C9499.jpg" alt="MMA Live: 12-17-09" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2130819630/mma-live-12-17-09">MMA Live: 12-17-09</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1789s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/594401093/cubed-strip-teach" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/84/57/8457F844C05F542980D914.jpg" alt="Cubed: Strip Teach" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/594401093/cubed-strip-teach">Cubed: Strip Teach</a></span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>Technology</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2169619669/15-best-keyboard-shortcuts-ever" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/83/63/8363B5285CEDBB3BEF8376.jpg" alt="15 best keyboard shortcuts ever" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2169619669/15-best-keyboard-shortcuts-ever">15 best keyboard shortcuts ever</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (173s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3073550345/a-peek-into-apples-future" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a7098fa1c:cae1869c42e3e762ff1e6643196a40c3/p/0006/44/F0/44F06A9E4750C2251755F6.jpg" alt="A peek into Apple’s  future" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3073550345/a-peek-into-apples-future">A peek into Apple’s  future</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (248s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/149000147/boeing-787-dreamliner-first-flight" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0010/29/C1/29C1EDD380A155FB91BD4C.jpg" alt="Boeing 787 Dreamliner first flight" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/149000147/boeing-787-dreamliner-first-flight">Boeing 787 Dreamliner first flight</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (97s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2092718879/sonos-zoneplayer-s5" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/16/40/1640409B0268B48B48E9BB.jpg" alt="Sonos ZonePlayer S5" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2092718879/sonos-zoneplayer-s5">Sonos ZonePlayer S5</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (180s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1601483779/cricket-msgm8" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/0B/64/0B645E91D78C420D40896A.jpg" alt="Cricket MSGM8" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1601483779/cricket-msgm8">Cricket MSGM8</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (80s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2564394241/blackberry-blackout" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/EA/74/EA74513527A6516B7F687D.jpg" alt="BlackBerry Blackout" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2564394241/blackberry-blackout">BlackBerry Blackout</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (111s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3090717100/toshiba-32av502u" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/66/BE/66BEE698561BCD231D8858.jpg" alt="Toshiba 32AV502U" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3090717100/toshiba-32av502u">Toshiba 32AV502U</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (108s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2290086398/loaded-supersized-wi-fi" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/19/DD/19DD2229E48BE5D743FF24.jpg" alt="Loaded: Supersized Wi-Fi" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2290086398/loaded-supersized-wi-fi">Loaded: Supersized Wi-Fi</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (193s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/858429672/ces-vaporware" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/3B/4F/3B4F1B58B0EBBCFBEF14EB.jpg" alt="CES vaporware" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/858429672/ces-vaporware">CES vaporware</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (215s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>TV Episodes</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3118484709/business-guy" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/CE/A5/CEA578E48482E028FB847E.jpg" alt="Business Guy" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3118484709/business-guy">Business Guy</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1267s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3876997936/sectionals" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/7A/1D/7A1D1A476162772C13A46B.jpg" alt="Sectionals" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3876997936/sectionals">Sectionals</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2679s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2357994414/secret-santa" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/71/D4/71D45E585942E2E5D89389.jpg" alt="Secret Santa" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2357994414/secret-santa">Secret Santa</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1329s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/4213241748/meet-jane-doe-part-1" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/7C/15/7C15E502C67E74531EFEDD.jpg" alt="Meet Jane Doe,  Part 1" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/4213241748/meet-jane-doe-part-1">Meet Jane Doe,  Part 1</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2639s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2809904103/grey-matters" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/C6/B1/C6B1EB9E1566F2FBE02233.jpg" alt="Grey Matters" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2809904103/grey-matters">Grey Matters</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2643s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/2752654170/fashion-forward" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a7a2d1c188:8db2ecd155804630868b7776eb778bde/p/0007/A8/7B/A87B01BD4A9BA085EE6F23.jpg" alt="Fashion Forward" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/2752654170/fashion-forward">Fashion Forward</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2647s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/625972139/the-public-eye" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/84/EA/84EA9F97DE470929FD968D.jpg" alt="The Public Eye" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/625972139/the-public-eye">The Public Eye</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2597s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3408386920/mattress" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/9F/47/9F47D24965FE96E054F0CC.jpg" alt="Mattress" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3408386920/mattress">Mattress</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (2534s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3204064794/dealbreakers-talk-show-0001" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/D5/99/D5991AF14B2E73C7030837.jpg" alt="Dealbreakers Talk Show #0001" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3204064794/dealbreakers-talk-show-0001">Dealbreakers Talk Show #0001</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1278s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <h3>World News</h3>
+    
+    <div style="clear:right;">
+    <a class="prevPage browse left">PREV</a>
+    <div class="scrollable">
+        <div class="items">
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1314702725/trees-for-troops" class="gallery-listing-result-imglink"><img src="http://a.abcnews.com/images/WNT/abc_wn_trees_091219_fv.jpg" alt="Trees for Troops" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1314702725/trees-for-troops">Trees for Troops</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (114s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1904573119/international-custody-battle-gains-ally" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/7B/E7/7BE7804FFF8EDE0C82291B.jpg" alt="International Custody Battle Gains Ally" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1904573119/international-custody-battle-gains-ally">International Custody Battle Gains Ally</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (135s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/971772988/kendra-shows-off-baby" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0011/98/57/9857C876AF22BA814DE531.jpg" alt="Kendra Shows off Baby" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/971772988/kendra-shows-off-baby">Kendra Shows off Baby</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (69s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3155624490/sponsors-terminate-ties-with-tiger" class="gallery-listing-result-imglink"><img src="http://xml.truveo.com/th/h/4b2e7a845120a70:c2fa6cb4fa1225b6bd5c40ee8b2e0a2e/p/0007/53/DA/53DACE3C16C25FA88736E9.jpg" alt="Sponsors Terminate Ties With Tiger" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3155624490/sponsors-terminate-ties-with-tiger">Sponsors Terminate Ties With Tiger</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (132s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/3398037271/charlies-most-memorable-characters" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0008/67/8B/678B5A97C918ADE95C3E60.jpg" alt="Charlie’s Most Memorable Characters" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/3398037271/charlies-most-memorable-characters">Charlie’s Most Memorable Characters</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (231s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/1881629244/crestor-for-normal-cholesterol" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0007/E5/51/E5514D65D5923E7B5CC359.jpg" alt="Crestor for Normal Cholesterol?" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/1881629244/crestor-for-normal-cholesterol">Crestor for Normal Cholesterol?</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (112s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/620638120/mosaic-news-121509-world-news-from-the-middle-east" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0009/C8/80/C8806872863648AC5149FB.jpg" alt="Mosaic News - 12/15/09: World News From The Middle East" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/620638120/mosaic-news-121509-world-news-from-the-middle-east">Mosaic News - 12/15/09: World News From The Middle East</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1620s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/4124453706/is-avatar-making-people-sick" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/61/A6/61A6A4DBB502B8D7FEC090.jpg" alt="Is 'Avatar' Making People Sick?" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/4124453706/is-avatar-making-people-sick">Is 'Avatar' Making People Sick?</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (160s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+            
+            
+            
+            <div class="gallery-listing-result" style="height:175px;width:140px;">
+                <a href="/video/795361172/mosaic-news-121409-world-news-from-the-middle-east" class="gallery-listing-result-imglink"><img src="http://thumbnails.truveo.com/0006/76/DB/76DBC0735FFB413FAFD7D6.jpg" alt="Mosaic News - 12/14/09: World News From The Middle East" style="padding: 5px;width: 120px;"></a>
+                <p>
+                    <span class="gallery-listing-title"><a href="/video/795361172/mosaic-news-121409-world-news-from-the-middle-east">Mosaic News - 12/14/09: World News From The Middle East</a></span>
+                    
+                    <span class="gallery-listing-runtime">
+                        (1620s)
+                    </span>
+                    
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <a class="nextPage browse right">NEXT</a>
+</div>
+<br>
+    
+    <hr>
+<div class="gallery-listing-footer">
+	<div class="span-8">
+		<a href="http://www.truveo.com/" target="_blank">
+	        <img src="http://media.dormitory.com/media/default//img/truveo.gif" alt="Truveo">
+	    </a>
+	</div>
+	<div class="span-4 last" style="text-align:right;">
+		<a href="/video/most-popular/">More Videos</a>
+	</div>
+</div>
 
 
+    
+    
+</div>
+
+
+<div class="span-24 last adbox">
+  <iframe src="http://optimized-by.rubiconproject.com/a/7675/12245/21755-2.html?" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90"></iframe>
+</div>
+
+
+
+    </div>
+</div>
+
+<div id="footer">
+    <div class="container">
+        <p>© 2009, all rights reserved. <a href="/privacy/">Privacy Policy</a> - <a href="/contact/">Contact Us</a> - <a href="/articles/feed/submit/">Submit Your Feed</a></p> 
+    </div>
+</div>
+
+
+        
+        
 	
-	
-
-	
-	
-	
-
-	
-	
-	
-	
-	
-
-
-			
-		
-<center>
-<table border="0" width="200" align="center">
-
-
-<tbody><tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=10011">
-
-
-
-<img src="../photos/golu_100.jpg" alt="golu" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=10011">golu</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;20/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=10000">
-
-
-
-<img src="../photos/charlie_powder_100.jpg" alt="charlie_powder" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=10000">charlie_powder</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;19/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=9994">
-
-
-
-<img src="../photos/Chickster_100.jpg" alt="Chickster" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=9994">Chickster</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;18/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=9980">
-
-
-
-<img src="../photos/irmanz_78_100.jpg" alt="irmanz_78" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=9980">irmanz_78</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;17/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=9973">
-
-
-
-<img src="../photos/batmaan_100.jpg" alt="batmaan" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=9973">batmaan</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;16/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=9953">
-
-
-
-<img src="../photos/didou_100.jpg" alt="didou" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=9953">didou</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;14/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=9947">
-
-
-
-<img src="../photos/talha_100.jpg" alt="talha" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=9947">talha</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;14/12/08 </td>
-</tr>
-
-
-
-<tr>
-<td valign="top" align="center">
-<a href="page.cfm?id=9944">
-
-
-
-<img src="../photos/khoanam_100.jpg" alt="khoanam" width="100">
-
-</a></td></tr>
-<tr><td valign="top" align="center"><a href="page.cfm?id=9944">khoanam</a>&nbsp;&nbsp;&nbsp;
-<br><b>Joined:</b> &nbsp;13/12/08 </td>
-</tr>
-
-
-</tbody></table>
-<br><br>
-<div style="text-align:right;"><a href="people.cfm" style="text-align:right;">view more ...</a>&nbsp;&nbsp;</div>
-</center>
-
-    </td></tr>
-    <tr>
-      <td colspan="3">
-	  <center>
 <script type="text/javascript">
-	<!--
-	google_ad_client = "pub-9291756345264999";
-	/* 728x15, created 5/14/08 */
-	google_ad_slot = "1515982359";
-	google_ad_width = 728;
-	google_ad_height = 15;
-	//-->
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    try{
+        var pageTracker = _gat._getTracker("UA-8206752-1");
+        pageTracker._setDomainName(".dormitory.com");
+        pageTracker._trackPageview();
+    } catch(err) {}
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</center>
-	  <!-- Footer Table --><table border="0" cellpadding="5" width="100%"><tbody><tr><td align="left">© 2008 by <a href="http://www.dormitory.com">dormitory.com</a></td>
-	  <td align="right">
-	  <a href="http://www.dormitory.com">About us</a> |  
-	  <a href="privacy.cfm">Privacy</a> | 
-	  <a href="#">
-	  Contact
-	  
-	  </a>
-	  </td>
-	  </tr></tbody></table>
-	  <!-- Footer Table -->
-	  </td>
-    </tr>
-  </tbody></table>
-</div>
+
+
+        
+
+    
 
 </body></html>
