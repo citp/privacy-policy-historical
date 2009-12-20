@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apture.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061411id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apture.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220113551id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Apture.com
 
@@ -71,7 +71,9 @@ By choosing to visit this Site, use our services, or otherwise provide informati
 If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at [contact@apture.com](mailto:contact@apture.com), or by mail at:
 
 Apture, Inc.  
-217 S. B St, Suite #1  
-San Mateo, CA 94401 
+539 Bryant Street, Suite 401  
+San Francisco, CA 94107  
+
 
 _Last Updated: June 17, 2008_
+  *[Inc.]: Incorporated
