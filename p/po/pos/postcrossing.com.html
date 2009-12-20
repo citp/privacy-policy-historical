@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the postcrossing.com privacy policy that was archived on 2009-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090601163643id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postcrossing.com privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220085002id_/http%3A//postcrossing.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>Privacy Policy - Postcrossing</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="http://static1.postcrossing.com/css/main.css?v=1256289732">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="title" content="Privacy Policy - Postcrossing">
 <meta name="robots" content="index,follow">
 <meta name="description" content="A postcards exchange project that invites everyone to send and receive postcards from random places in the world. For free!">
 <meta name="keywords" content="postcards,postcard,exchange,swapping,mail,snail mail,stamps,deltiology">
 <meta name="language" content="en">
-    <title>Privacy Policy - Postcrossing</title>
-        
     
     <link rel="shortcut icon" href="http://static1.postcrossing.com/favicon.ico">
     <link rel="apple-touch-icon" href="http://static1.postcrossing.com/images/apple-touch-icon.png">
+
             <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
         </script>
         <script type="text/javascript">
@@ -23,19 +24,28 @@
             GA_googleAddSlot("ca-pub-0449640404979136", "120x240VerticalRectangle");
             GA_googleAddSlot("ca-pub-0449640404979136", "125x125SquareButton");
             GA_googleAddSlot("ca-pub-0449640404979136", "120x600Skyscrapper");
-        </script>
+                    </script>
         <script type="text/javascript">
             GA_googleFetchAds();
         </script>
-        
+    
     <link rel="canonical" href="http://www.postcrossing.com/privacy">
-        
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="http://static1.postcrossing.com/css/main.css?v=1240124004">
+        	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-88935-3']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script');
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    ga.setAttribute('async', 'true');
+	    document.documentElement.firstChild.appendChild(ga);
+	  })();
+	</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
 </head>
 <body id="page">
     <div id="header">
-        <img src="http://static1.postcrossing.com/images/blocks/banner_top3.png" border="0" alt="Postcrossing.com" usemap="#LogoMap">
+        <img src="http://static1.postcrossing.com/images/blocks/banner_top3.png" border="0" alt="Postcrossing.com" width="528" height="97" usemap="#LogoMap">
         <map id="LogoMap" name="LogoMap">
             <area shape="rect" coords="55,20,361,100" href="/" title="Postcrossing Home" alt="Postcrossing Home">
         </map>
@@ -67,9 +77,10 @@
     <span><a href="/blog">Blog</a></span>
     <span><a href="/help">F.A.Q.</a></span>
     <span><a href="/team">The Team</a></span>
+    <span><a href="/about/history">History</a></span>
 </div>
 <div id="exploreSubMenu" class="subMenu" style="display:none">
-    <span><a href="/gallery/1">Gallery</a></span>
+    <span><a href="/gallery">Gallery</a></span>
     <span><a href="/explore/countries">Countries</a></span>
     <span><a href="/stats">Stats</a></span>
     <span>Ranks: <a href="/stats/topusers/alltime">All Time</a> | <a href="/stats/topusers">60 days</a> | <a href="/stats/distance">Distance</a></span>
@@ -112,12 +123,12 @@ switchMenuTo();
 //<![CDATA[
 switchMenuTo('signupSubMenu');
 //]]>
-</script>                
+</script>        
         <br style="clear: both">
     </div>
 
     <div id="contentWrapper">
-    
+
         <!-- sideboxes -->
         <div id="sideboxesContainer">
             <div id="left_1_top" class="sidebarBorder"></div>
@@ -130,17 +141,15 @@ switchMenuTo('signupSubMenu');
     <div id="loginContainer">
         <!-- <h3><span>Login</span></h3>-->
 
-        <form name="login" id="login" method="post" action="/login">			<div id="usernameContainer">
-		        <label for="username">Username or email:</label><br>
-		        <input type="text" name="username" id="username" value="" class="username text">		        <div class="error" style="display:none;" id="error_for_username"><img src="http://static1.postcrossing.com/images/icons/exclamation.png" alt="Exclamation">&nbsp;</div>
-			</div>
-			<div id="passwordContainer">
-		        <label for="password">Password: </label><br>
-		        		        <input type="password" name="password" id="password" value="" class="password text">		        <div class="error" style="display:none;" id="error_for_password"><img src="http://static1.postcrossing.com/images/icons/exclamation.png" alt="Exclamation">&nbsp;</div>
-			</div>
-	        <p>
-		        <input type="checkbox" name="remember" id="remember" value="1" class="rememberMe" checked="checked">		        <label for="remember">Remember me</label>	        </p>
-
+                                
+        <form action="/login" method="post">
+            <div id="usernameContainer">
+                <label for="signin_username">Username or email:</label>                <input type="text" name="signin[username]" id="username" class="username text">            </div>
+            <div id="passwordContainer">
+                <label for="signin_password">Password:</label>                <input type="password" name="signin[password]" id="password" class="password text">            </div>
+            <p>
+                <input type="checkbox" name="signin[remember]" class="rememberMe" checked="checked" id="signin_remember">                <label for="signin_remember">Remember me</label>            </p>
+            
 	        <button type="submit" class="button">
 	      		<img src="http://static1.postcrossing.com/images/icons/tick.png" alt="Tick">Login
 	      	</button>
@@ -170,7 +179,7 @@ switchMenuTo('signupSubMenu');
         <a href="#" onclick="Element.show('loginContainer'); Element.hide('recoverPassword'); return false;">Back to Login</a>    </div>
 </div>
 <script type="text/javascript">
-    document.login.username.focus();
+    document.getElementById('username').focus();
 </script>
                 </div>
             </div>
@@ -182,7 +191,7 @@ switchMenuTo('signupSubMenu');
                     </script>
                 </div>
                     </div>
-    
+
         <!-- content begin -->
         <div id="rightMainContainer">
             <cite id="tagline" class="dquo">“send a postcard and receive a postcard back from a random person somewhere in the world!”</cite>
@@ -236,7 +245,7 @@ If you feel that this site is not following its privacy policy, you may contact 
             <div id="right_bottom"></div>
         </div>
         <!-- content end -->
-        
+
                     <div id="adsContainer">
                 <script type="text/javascript">
                    GA_googleFillSlot("125x125SquareButton");
@@ -246,9 +255,9 @@ If you feel that this site is not following its privacy policy, you may contact 
                   GA_googleFillSlot("120x600Skyscrapper");
                 </script>
             </div>
-                
+        
     </div>
-    
+
     <br style="clear:both">
     <div id="footerContainer">
 
@@ -267,7 +276,7 @@ If you feel that this site is not following its privacy policy, you may contact 
     <div class="col">
         <ul>
             <li class="main"><a href="/explore">Explore</a></li>
-            <li><a href="/gallery/1">Postcards Gallery</a></li>
+            <li><a href="/gallery">Postcards Gallery</a></li>
             <li><a href="/explore/countries">All Countries</a></li>
             <li><a href="http://www.flickr.com/groups/postcrossing/">Flickr Gallery</a></li>
             <li><a href="/more/links">Other Links</a></li>
@@ -311,35 +320,25 @@ If you feel that this site is not following its privacy policy, you may contact 
         <ul>
             <li class="main">Share</li>
             <li><a href="/invite">Invite Friends</a></li>
-            <li><a href="http://twitter.com/home?status=Checking+out+http%3A%2F%2Fwww.postcrossing.com" target="_blank">Twitter</a></li>
-            <li><script type="text/javascript">function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&amp;t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.postcrossing.com" onclick="return fbs_click()" target="_blank">Facebook</a></li>
-            <li><a href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.postcrossing.com&amp;title=Postcrossing+-+Postcards+Traveling+The+World', 'delicious','toolbar=no,width=550,height=550'); return false;"> Del.icio.us</a></li>
-            <li><a href="http://blinklist.com/index.php?Action=Blink/addblink.php&amp;url=http%3A%2F%2Fwww.postcrossing.com&amp;Title=Postcrossing+-+Postcards+Traveling+The+World" target="_blank">Blinklist</a></li>
-            <li><a href="http://furl.net/storeIt.jsp?t=Postcrossing+-+Postcards+Traveling+The+World&amp;u=http%3A%2F%2Fwww.postcrossing.com">Furl</a></li>
+            <li><a href="http://twitter.com/home?status=Checking+out+http%3A%2F%2Fwww.postcrossing.com" rel="nofollow" target="_blank">Twitter</a></li>
+            <li><script type="text/javascript">function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&amp;t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.postcrossing.com" rel="nofollow" onclick="return fbs_click()" target="_blank">Facebook</a></li>
+            <li><a rel="nofollow" href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.postcrossing.com&amp;title=Postcrossing+-+Postcards+Traveling+The+World', 'delicious','toolbar=no,width=550,height=550'); return false;">Del.icio.us</a></li>
+            <li><a rel="nofollow" href="http://blinklist.com/index.php?Action=Blink/addblink.php&amp;url=http%3A%2F%2Fwww.postcrossing.com&amp;Title=Postcrossing+-+Postcards+Traveling+The+World" target="_blank">Blinklist</a></li>
+            <li><a rel="nofollow" href="http://furl.net/storeIt.jsp?t=Postcrossing+-+Postcards+Traveling+The+World&amp;u=http%3A%2F%2Fwww.postcrossing.com">Furl</a></li>
         </ul>
     </div>
 
     <br style="clear: both">
-    &nbsp;        
+    &nbsp;
 </div>
-                <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            var pageTracker = _gat._getTracker("UA-88935-3");
-            pageTracker._initData();
-            pageTracker._setVar('logged-out');
-            pageTracker._trackPageview();
-        </script>
-        
-        <!-- Start Quantcast tag -->
-        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-        <script type="text/javascript">_qacct="p-4e0N3x6MtwSY-";quantserve();</script>
-        <noscript>
-        <a href="http://www.quantcast.com/p-4e0N3x6MtwSY-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-4e0N3x6MtwSY-.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast" /></a>
-        </noscript>
-        <!-- End Quantcast tag -->
     
+    <!-- Start Quantcast tag -->
+    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+    <script type="text/javascript">_qacct="p-4e0N3x6MtwSY-";quantserve();</script>
+    <noscript>
+    <a href="http://www.quantcast.com/p-4e0N3x6MtwSY-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-4e0N3x6MtwSY-.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast" /></a>
+    </noscript>
+	<!-- End Quantcast tag -->
+
     
 </body></html>
