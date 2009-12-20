@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biorust.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194121id_/http%3A//www.biorust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biorust.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220025134id_/http%3A//www.biorust.com/privacy) for the most accurate reproduction.*
 
 # BioRUST.com :: Your Source for Top Notch Photoshop Tutorials & Downloads!
 
