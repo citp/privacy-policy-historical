@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618102925id_/http%3A//www.bclc.com/cm/Footer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221001304id_/http%3A//www.bclc.com/cm/Footer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - BCLC
 
@@ -35,4 +35,4 @@ Our website contains links to other websites. Please be aware that privacy polic
 BCLC may revise this Privacy Statement from time to time to reflect changes to our website. As a result, you should visit this page periodically to review the contents.
 
 **Questions or Concerns?**  
-If you have any questions or concerns about our Privacy Statement, or about any information collected by BCLC on this website, please [contact us](https://web.archive.org/cm/aboutbclc/contactus.htm).
+If you have any questions or concerns about our Privacy Statement, or about any information collected by BCLC on this website, please [contact us](https://web.archive.org/cm/aboutbclc/corporateinfo/contactus.htm).
