@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9gag.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090036id_/http%3A//9gag.com/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9gag.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021859id_/http%3A//9gag.com/others/privacy) for the most accurate reproduction.*
 
 # 9GAG - What The Fun!
 
