@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041919id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035631id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # The Amateur Album - Privacy Statement
 
@@ -7,7 +7,7 @@
 
 AmateurAlbum.net allows you to visit the website without revealing any personal information about yourself. Your visit to this website is anonymous. We will only collect your contact information (first name, last name, billing address, phone number, email address and any other relevant information provided by you) as well as financial information (account or credit card numbers), with your permission and for the sole purpose of processing orders.
 
-The information you provide will not be used for any commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you, and then only with partners who adhere to AmateurAlbum.net's commitment to protecting your privacy and data. AmateurAlbum.net may provide your personal information if necessary, in AmateurAlbum.net’s good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of AmateurAlbum.net or others.
+The information you provide will not be used for any commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you, and then only with partners who adhere to AmateurAlbum.net's commitment to protecting your privacy and data. AmateurAlbum.net may provide your personal information if necessary, in AmateurAlbum.net�s good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of AmateurAlbum.net or others.
 
 **Security Procedures and Credit Cards**
 
@@ -27,4 +27,4 @@ By using the web site or any services provided through the web site, you express
 
 **Support**
 
-AmateurAlbum.net provides email support for users who purchase the software at our Helpdesk. AmateurAlbum.net does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact us](https://web.archive.org/web/20081217041919id_/http%3A//www.amateuralbum.net/contact.php) through email. We will do our best to respond to your inquiry within four business days.
+AmateurAlbum.net provides email support for users who purchase the software at our Helpdesk. AmateurAlbum.net does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact us](https://web.archive.org/web/20091220035631id_/http%3A//www.amateuralbum.net/contact.php) through email. We will do our best to respond to your inquiry within four business days.
