@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629125225id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035936id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
 
 # Coupons from FatWallet.Com save you money!
 
@@ -10,7 +10,7 @@ For questions or concerns relating to privacy, we can be contacted at:
 Rockton, IL 61072
 
 or through our [Online Support System](https://web.archive.org/support/)  
-or you can reach us by telephone at 815-877-8992, or fax 815-877-8994.
+or you can reach us by telephone at 815-624-8486, or fax 815-624-8395.
 
 **Collection of Personally Identifiable Information**  
 In order to use certain portions of the Service, you may be asked for, or you may choose to provide, certain personally identifiable information (PII) such as name, email address, postal address, PayPal account and similar information. We will not collect PII from you while you use the Service unless you voluntarily provide it to us or authorize us to collection such information.
