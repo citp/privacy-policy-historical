@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the jobs.co.za privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618135802id_/http%3A//www.jobs.co.za/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobs.co.za privacy policy that was archived on 2009-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220033755id_/http%3A//www.jobs.co.za/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 
 <title>Privacy Statement for JOBNAVIGATOR (PTY) LTD</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="">
 <meta name="keywords" content="">
 
 
 <meta http-equiv="cache-control" content="no-store">
-<meta http-equiv="expires" content="Thu, 18 Jun 2009 15:53:01 SAST">
+<meta http-equiv="expires" content="Sun, 20 Dec 2009 05:31:42 SAST">
 
-<meta name="verify-v1" content="UrBU2vZEsfLLsRKGb4J2uAC3mymQHo/bLErIErLjRdY="> 
+<meta name="verify-v1" content="UrBU2vZEsfLLsRKGb4J2uAC3mymQHo/bLErIErLjRdY=">
 
 <base href="http://www.jobs.co.za/">
 
@@ -27,8 +28,9 @@
 <style type="text/css" media="screen">
 @import url(/stylesheets/default-002.css);
 @import url(/stylesheets/jquery.cluetip.css);
-@import url(/stylesheets/dialogs.css);	
-@import url(/stylesheets/dialogs.resizable.css);	
+@import url(/stylesheets/dialogs.css);
+@import url(/stylesheets/dialogs.resizable.css);
+@import url(/stylesheets/boxy.css);
 </style>
 
 <!--[if IE 7]><style type="text/css" media="screen">@import url(/stylesheets/style-ie-7-002.css);</style><![endif]-->
@@ -42,8 +44,9 @@
 <script src="/packages/Search/JobAlerts.prototype" type="text/javascript"></script>
 <script src="/packages/FormCheck/Forgot.prototype" type="text/javascript"></script>
 
-<script src="/javascript/jquery.latest.js" type="text/javascript"></script>        
-<script src="/javascript/jquery.toggleElements.js" type="text/javascript"></script>        
+<script src="/javascript/jquery.latest.js" type="text/javascript"></script>
+<script src="/javascript/jquery.boxy.js" type="text/javascript"></script>
+<script src="/javascript/jquery.toggleElements.js" type="text/javascript"></script>
 <script src="/javascript/jquery.hoverIntent.js" type="text/javascript"></script>
 <script src="/javascript/jquery.cluetip.js" type="text/javascript"></script>
 <script src="/javascript/jquery.dimensions.js" type="text/javascript"></script>
@@ -84,7 +87,7 @@
 <li><a class="hideme" href="/privacy/#content">Skip to Content</a></li>
 </ul>
 <strong>Jobs in South Africa at South Africa's Job Portal</strong><br>
-350,192 Job Seekers<br>
+2900 Active Jobs<br>
 Welcome to <strong><a href="/job-seekers">Jobs.co.za</a></strong>
 <br>
 </div>
@@ -105,7 +108,7 @@ Welcome to <strong><a href="/job-seekers">Jobs.co.za</a></strong>
 
 <li class="selected"><a href="job-seekers/my-job-seeker">My Job Seeker<!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub"><li><a href="/job-seekers/registration" rel="nofollow">Job Seeker Registration</a></li><li><a href="/job-seekers/" rel="nofollow">Job Seeker Login</a></li><li><a href="/job-seekers/profile">Profile</a></li><li><a href="/job-seekers/cv">CVs</a></li></ul>
+<ul class="sub"><li><a href="/job-seekers/registration" rel="nofollow">Job Seeker Registration</a></li><li><a href="/job-seekers/" rel="nofollow">Job Seeker Login</a></li><li><a href="/job-seekers/profile">Profile</a></li></ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 
@@ -123,7 +126,7 @@ Welcome to <strong><a href="/job-seekers">Jobs.co.za</a></strong>
 
 <li class=""><a href="job-seekers/job-seeker-tools">Job Seeker Tools<!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub"><li><a href="/job-seekers/video-profile">Video Profile</a></li><li><a href="/job-seekers/salary-checker">Salary Checker</a></li><li><a href="/job-seekers/career-advice/favourites">Favourite Articles</a></li><li><a href="/job-seekers/cv-attachments">CV Attachments</a></li><li><a href="/job-seekers/career-assessment">Career Assessment</a></li></ul>
+<ul class="sub"><li><a href="/job-seekers/salary-checker">Salary Checker</a></li><li><a href="/job-seekers/career-advice/favourites">Favourite Articles</a></li><li><a href="/job-seekers/cv-attachments">CV Attachments</a></li><li><a href="/job-seekers/career-assessment">Career Assessment</a></li></ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 
@@ -289,16 +292,37 @@ pageTracker._trackPageview();
 <script type="text/javascript">forgot = new Forgot();</script>
 </div>
 
+<div id="jobseeker_forgot_dialog" class="flora" title="Forgot Your Password?" style="width:482px;">
+<p style="width:482px;">
+<label for="jsfp_email">Email Address:</label> <input name="jsfp_email" type="text" id="jsfp_email" class="small">
+<input id="requestQuestion" name="requestQuestion" type="button" value="Get Password" class="small" onclick="forgot.checkEmail();">
+<br>
+<span id="jsfp_display" style="display: none;"><br><br></span>
+<br><br>
+<input id="jsfp_close" name="jsfp_close" type="button" value="Close" class="small" onclick="closeDialog('jobseeker_forgot');">
+<span id="jsfp_error"></span>
+<input type="hidden" id="jobseeker_forgot" value="">
+</p>
+<br>
+<script type="text/javascript">forgot = new Forgot();</script>
+</div>
+
 <div id="login_dialog" class="flora" title="Job Seeker Login">
-<form method="post" action="/job-seekers/apply-now">
+<form method="post" action="/job-seekers/apply-now/" name="login_form" id="login_form">
 <p>
 <label for="username" style="width:100px;display:block;">Username:</label> <input name="js_username" type="text" id="js_username" style="width:300px !important"><br>
 <label for="password" style="width:100px;display:block;">Password:</label> <input name="js_password" type="password" id="js_password" style="width:300px !important"><br>
-<input type="submit" class="buttons" value="Login" style="float:right;"><br>
-<a href="/job-seekers/registration/" target="blank">Register Now!</a><br>
-<a href="javascript:openDialog('forgot', 'job-seeker');">Forgot Password?</a><br>
-</p>
+</p><p style="float: right;"><a href="javascript:submitJSLogin();" class="buttons"><span>Login</span></a></p>
+<div style="padding-top: 5px;"><strong>Not yet Registered?<br>Click to Register!!</strong></div>
+<br>
+<!--<p style="float: left;"><a href="/job-seekers/registration/" class="buttond"><span>Register</span></a></p>-->
+<p style="float: left;"><a href="javascript:submitJSRegister();" class="buttond"><span>Register</span></a></p>
+<p style="float: right;"><a href="javascript:openDialog('jobseeker_forgot', 'job-seeker');" class="buttone"><span>Forgot Password?</span></a></p>
+<br>
+<br>
+<p></p>
 <input type="hidden" value="" id="login" name="job_ad">
+<input type="hidden" value="" id="login_action" name="login_action">
 </form>
 </div>
 
