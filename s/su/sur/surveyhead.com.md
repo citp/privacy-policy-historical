@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227091146id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyhead.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220083646id_/http%3A//www.surveyhead.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Surveyhead! Take paid surveys online for cash rewards. Consumer panels for market research firms.
 
@@ -44,7 +44,7 @@ From time to time, you may be offered the opportunity to receive materials or sp
 
 Third Party Data & Data in the Aggregate: Under confidentiality agreements, Surveyhead may match user information with third party data. Also, Surveyhead discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
 
-Other: Surveyhead may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Surveyhead’s Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Surveyhead’s rights or property, other Surveyhead users, or anyone else that could be harmed by such activities. Surveyhead may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
+Other: Surveyhead may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Surveyhead's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Surveyhead's rights or property, other Surveyhead users, or anyone else that could be harmed by such activities. Surveyhead may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
 
 **What are my choices regarding collection, use, and distribution of my information?**
 
@@ -54,9 +54,9 @@ You also have choices with respect to cookies. By modifying your browser prefere
 
 Surveyhead does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
 
-**What is** **Surveyhead’s** **policy on allowing me to update, correct, or delete my personally identifiable information?**
+**What is** **Surveyhead's** **policy on allowing me to update, correct, or delete my personally identifiable information?**
 
-You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20090227091146id_/http%3A//www.surveyhead.com/forgot_password.php) . 
+You may edit your Surveyhead Account Information and your public Surveyhead Profile at any time by using your Surveyhead ID and password. If you have forgotten your password, please [ click here](https://web.archive.org/web/20091220083646id_/http%3A//www.surveyhead.com/forgot_password.php) . 
 
 Your Surveyhead account can be deleted or deactivated. Please contact [ support@surveyhead.com](mailto:support@surveyhead.com) for further instructions about deleting or deactivating your Surveyhead account. 
 
@@ -78,4 +78,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **Additional information**
 
-Questions regarding this statement should be directed to [ support@surveyhead.com](mailto:support@surveyhead.com) . 
+Questions regarding this statement should be directed to [ support@surveyhead.com](mailto:support@surveyhead.com).
