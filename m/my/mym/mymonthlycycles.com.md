@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymonthlycycles.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617015214id_/http%3A//www.mymonthlycycles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymonthlycycles.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220175642id_/http%3A//www.mymonthlycycles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MyMonthlyCycles Privacy Policy
 
@@ -7,7 +7,7 @@ We understand that you value your privacy, and Binfinity Web, Inc., the owner an
 Binfinity Web, Inc. may update its MyMonthlyCycles.com privacy policy at any time. If there is a significant change to how we handle personal information, we will send you a notice to the primary email account you have specified in your MyMonthlyCycles.com account. You should also check this policy periodically to see if there are any changes. If our Privacy Policy does change, your continued use of the site will be deemed your acceptance of our changed Privacy Policy. 
 
 **Terms of Service**  
-Your use of the MyMonthlyCycles.com site is governed by our [Terms of Service](https://web.archive.org/web/20090617015214id_/http%3A//www.mymonthlycycles.com/termsofservice.html). Please make sure that you read that document.
+Your use of the MyMonthlyCycles.com site is governed by our [Terms of Service](https://web.archive.org/web/20091220175642id_/http%3A//www.mymonthlycycles.com/termsofservice.html). Please make sure that you read that document.
 
 **What Personal Information we collect**  
 Information you provide to us: MyMonthlyCycles.com collects personal information about you when you register to become a site member, subsequently change your account information, or interact with our site to use the software services available on the site.
@@ -26,7 +26,9 @@ The browser cookie implementation only enables MyMonthlyCycles.com to write cook
 MyMonthlyCycles.com is not intended for those who are under the age of thirteen (13). On our registration page, we post a notice that the site is not intended for children under the age of 13, and that children under the age of 13 should not register to become members. This information also appears in our Terms of Service document. Hence, we do not knowingly collect information from children under the age of 13, as the site is not intended for the under 13 age audience.
 
 **Information we do not collect, but which others may**  
-MyMonthlyCycles.com allows other companies and organization that advertise on our pages to set and access cookies on your computer. These cookies are not set by MyMonthlyCycles.com, but via these advertisers' websites. MyMonthlyCycles.com does not have access to advertisers' cookies. The use of cookies by other companies is subject to those companies' privacy policies and not this policy. When interacting with an advertisers' ads, you should make sure to read the privacy policy of each advertiser. Advertisers do not have access to MyMonthlyCycles.com cookies.
+MyMonthlyCycles.com allows other companies and organization that advertise on our pages to set and access cookies on your computer to track the ads and for presentation purposes. These cookies are not set by MyMonthlyCycles.com, but via these advertisers' websites or by their third party ad serving technology. MyMonthlyCycles.com does not have access to advertisers' cookies. The use of cookies by other companies is subject to those companies' privacy policies and not this policy. When interacting with an advertisers' ads, you should make sure to read the privacy policy of each advertiser. Advertisers do not have access to MyMonthlyCycles.com cookies. 
+
+You can opt out of cookies for several advertising networks, some of which may be delivering ads on our site, by visiting Network Advertising Initiative at [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **How MyMonthlyCycles.com uses your Information and How it is Shared**  
 
