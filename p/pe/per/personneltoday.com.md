@@ -1,62 +1,39 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630130127id_/http%3A//www.personneltoday.com/staticpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220121521id_/http%3A//www.personneltoday.com/staticpages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-(26 January 2006 13:46)
+(24 July 2009 11:19)
 
-This website is owned and operated by Reed Business Information Limited [Reed Business Information Limited ('RBI')](http://www.personneltoday.com/staticpages/AboutUs.htm)  
-Information we collect from our customers and users of our websites may be used in the following ways. 
+Personnel Today is owned and operated by Reed Business Information Limited ('RBI').
 
-Subscription Services   
-Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service. 
+Information we collect from users of the site will be stored by us on computers in the UK and may be used in the following ways: 
 
- Payment details   
-Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.  If you do not wish us to store and use the information for future transactions, please contact us. 
+**Contact Details  
+** We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within RBI and its associated companies to provide you with information about other services and products and will also be disclosed to third party businesses and advertisers for the same purpose.
 
- Contact details   
-We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.   
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by clicking [here](http://www.personneltoday.com/MySettings/MySettings.aspx?Sect=details)
+If you do not wish to be contacted for this purpose, please express your preferences by emailing us at [marketing.email.dbase.queries@rbi.co.uk](mailto:marketing.email.dbase.queries@rbi.co.uk)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by registering your preference [here](http://www.personneltoday.com/MySettings/MySettings.aspx?Sect=details)
+To alter your details   
+If your contact details change you can alter the details we hold by emailing [marketing.email.dbase.queries@rbi.co.uk](mailto:marketing.email.dbase.queries@rbi.co.uk)
 
-If you wish to alter any of your registration details please click [here](http://www.personneltoday.com/MySettings/MySettings.aspx?Sect=details)
+**Voluntary Information  
+** We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service. It may also be disclosed to other companies who wish to tell you about services of interest to you.   
 
-Voluntary Information   
-We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.  
-Statistical information   
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information. 
 
- Security   
-Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls. 
+**Cookies  
+** We make use of cookies to gather valuable information about how users move around the site. This enables us to understand how the site is used and to make improvements. The information we gather by use of cookies does not include personally identifying information.
 
- Access to Data   
-Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request. 
+If you would like PersonnelToday to remember you next time you visit the site, leave the ‘remember me' box ticked.  This means you can access all the content you would normally, without having to log in every time you visit the site. This is done via a cookie which will automatically expire after 3 months.
 
-  
-Privacy information for job seekers
+In addition, the third party companies who sell and provide advertisements to the site make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of websites, please go to:   
 
-  
-Profile and CV information   
-Some of our websites offer you the ability to create a profile and upload a CV to our database.  Your profile and CV may be then made available for searching, viewing over the Internet and downloading by our customers. These may be direct recruiters, employment consultants or other organisations.  Customers who request CVs matching your profile to be sent to them may receive your CV and profile via e-mail or CD Rom.  Some of our customers may be located in countries outside the European Economic Area. 
 
-  
-Your CV can only be viewed by a customer if you have consented to this within the profile section. You can choose to prevent our customers from accessing your personal details, CV or profile. 
+<http://www.adtechus.com/privacy/>  
+<http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp>
 
-  
-You can also choose to make your personal details and your CV anonymous, while having your profile available to be searched by recruiters.  You can then choose to reveal yourself when you reply. 
+**Statistical information  
+** Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information. 
 
-  
-IMPORTANT: Your current employer may be one of our customers, or a client of one of our customers. We cannot restrict the customers who will access your CV or profile on our database and cannot be held responsible for any eventuality. 
-
-  
-If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. Once your profile and CV are on our database we will contact you every six months using your most recent contact details to ask whether you want it to remain there. If we do not hear from you, your profile and CV will be removed from our database. 
-
-  
-We reserve the right to remove from our database CVs or profiles which include any content that we consider illegal or offensive. 
-
-  
-We may use aggregated data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users. 
-
-  
-If you create a personalised account on any of our websites it will be protected by your password and may only be accessed by you.   It does not form part of our database available for searching or access by our customers. You can delete your account at any time.  
+**Access to Data  
+** You have the right to be told what personal information we hold about you on our databases. You should write to us, Reedbusiness.co.uk Update.net at Reed Business Information, Quadrant House, Sutton, Surrey, SM2 5AS, UK stating your full name, your address and all publications or services from RBI to which you know you subscribe. A small administrative charge will be made for fulfilling this request.   
 
