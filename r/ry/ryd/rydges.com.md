@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202709id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220022342id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.*
 
 # Enquire about holidays getaways and offers at Rydges Hotels and Resorts | Contact Us
 
@@ -34,9 +34,9 @@ We take the privacy of your information seriously and it is important that you u
 
 You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If AHL does not allow you to access your personal information we will provide you with the reasons for our decision.
 
- **AHL Group of Companies includes:**
+ **AHL operated brands include:**
 
-Greater Union, Birch Carroll & Coyle, Cinestar, Atlab, Rydges Hotels & Resorts, Thredbo Alpine Resort, Featherdale Wildlife Park Sydney and The State Theatre.
+Event Cinemas, Greater Union Cinemas, Birch Carroll & Coyle Cinemas, Beverly Hills and Cronulla Cinemas, Cinestar Germany & Middle East, Rydges Hotels & Resorts, Thredbo Alpine Resort, Gold Coast International Hotel, Capital Square Sydney, Capricorn Resort Yeppoon, Art Series Hotel Group, Film Lab Engineering, Featherdale Wildlife Park Sydney and The State Theatre.
 
  **AHL Companies adhere to the following Privacy Principles:**
 
