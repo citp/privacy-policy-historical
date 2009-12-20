@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b96hits.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192231id_/http%3A//www.b96hits.com/%7Eprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b96hits.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220131815id_/http%3A//www.b96hits.com/%7Eprivacy_policy) for the most accurate reproduction.*
 
 # B96: Privacy Policy on Chicago's #1 Hit Music Station [96.3 FM / WBBM-FM / 96.3 HD1 Chicago / B-96 / B96.COM]
 
