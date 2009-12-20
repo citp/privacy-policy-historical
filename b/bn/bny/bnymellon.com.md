@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618151830id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220194121id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,14 @@ If you do provide personal information about yourself, such as name, address or 
 ### Use of Cookies
 
 In order to provide better service, track usage of this website, and to address security hazards, we may occasionally use a "cookie." A cookie is a small piece of information which a website stores on your web browser on your PC and can later retrieve. We may use cookies for some administrative purposes; for example, to store your preferences for certain kinds of information or to store a password so that you do not have to input it every time you visit our site. None will contain information that will enable anyone to contact you via telephone, e-mail, or any other means.
+
+### Use of Action Tags
+
+When you utilize the Website, we may receive certain non-personally identifiable information about your use of the Website. Such information, which is collected passively using various technologies including, without limitation, action tags, cannot presently be used to specifically identify you.
+
+We use third party advertising companies to serve ads on our behalf across the Internet. These companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information may include: date/time of banner ad shown, their cookie, and a portion of the IP address. These technologies do not collect personally identifiable information ("PII"). In addition, the data collected is not linked with any PII, such as name, email address, or phone number. The anonymous information can also be used for online preference marketing purposes.
+
+We and our third party advertisers may use information about your visits to this and other websites in order to provide ads about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.atlassolutions.com/privacy.aspx).
 
 ### Coverage of This Policy
 
