@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinalovematch.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114707id_/http%3A//www.chinalovematch.net/help.aspx%3Fpkid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinalovematch.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220020411id_/http%3A//www.chinalovematch.net/help.aspx%3Fpkid%3D3) for the most accurate reproduction.*
 
-# Chinese women marriage| Meet Chinese women| Asian women marriage| Beautiful oriental women - chinalovematch.net
+# Chinese Personals| Chinese Relationships| Chinese Women| Chinese Matchmaking
 
 #### CLM.NET collects or may collect the following;
 
