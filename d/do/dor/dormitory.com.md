@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the dormitory.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dormitory.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220193546id_/http%3A//www.dormitory.com/privacy) for the most accurate reproduction.*
 
-# dormitory.com
-
----  
-| [](http://www.dormitory.com/)  
----  
-  
-**Privacy Policy**
-
-Dormitory.com, LLC
+# Dormitory.com
 
 Dormitory.com, LLC (hereinafter "Dormitory") shares your concern about personal privacy. Dormitory recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://Dormitory.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Dormitory provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.  
 
@@ -94,29 +86,3 @@ DATE OF MODIFICATION: February 4, 2008
 
   
 
-
-|  |  [ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=10011)  
----  
-[golu](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=10011)      
-**Joined:**  20/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=10000)  
-[charlie_powder](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=10000)      
-**Joined:**  19/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9994)  
-[Chickster](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9994)      
-**Joined:**  18/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9980)  
-[irmanz_78](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9980)      
-**Joined:**  17/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9973)  
-[batmaan](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9973)      
-**Joined:**  16/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9953)  
-[didou](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9953)      
-**Joined:**  14/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9947)  
-[talha](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9947)      
-**Joined:**  14/12/08   
-[ ](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9944)  
-[khoanam](https://web.archive.org/web/20081220074215id_/http%3A//www.dormitory.com/app/page.cfm?id=9944)      
-**Joined:**  13/12/08 
