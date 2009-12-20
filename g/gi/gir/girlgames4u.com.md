@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgames4u.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519032324id_/http%3A//www.girlgames4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames4u.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220192711id_/http%3A//www.girlgames4u.com/privacy.html) for the most accurate reproduction.*
 
 # girlGames4u.com - FREE ONLINE GAMES FOR GIRLS
 
@@ -16,7 +16,8 @@ From Cookies – the sole purpose of cookies is to enhance your online experienc
 GirlGames4u will not share your information with anyone. The only exception shall be in the event that disclosure of information is required by law enforcement or other government officials in connection with investigation of fraud, intellectual property infringements, or other activity that is illegal or that may expose you or us to legal liability. 
 
 **Collection of information and Third-Party sites and Sponsors  
-**It is important that you understand that advertisers or Web sites that link to a GirlGames4u site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them.   
+**It is important that you understand that advertisers or Web sites that link to a GirlGames4u site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites.   
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).   
 
 
 Google Adsense 
