@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531014519id_/http%3A//www.stamps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220060949id_/http%3A//www.stamps.com/privacy-policy) for the most accurate reproduction.*
 
 # Stamps.com - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.stamps.com&sealid=101)
 
-Last updated: July 23, 2007
+Last updated: October 27, 2009
 
 Stamps.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -29,7 +29,7 @@ Information Collection and Use
     * Track the number of entries in our promotions.
     * Customize the advertising and content you see.
   * If you are uncomfortable having a cookie placed on your system, you may elect to turn off the cookie or delete existing cookies in your browser. If you turn off or delete the Stamps.com cookie, you may not be able to receive special offers or personalized content from Stamps.com.
-  * We use a third party tracking utility service that uses cookies to track and analyze aggregate user movement. We also use clear gifs and JavaScript in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+  * We use a third party tracking utility service that uses cookies to track and analyze aggregate user movement. We use a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. We also use clear gifs and JavaScript in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. The clear gifs are not tied to any personally identifiable information by Stamps.com.
 
 
 
