@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619220346id_/http%3A//www.bia2.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002142id_/http%3A//www.bia2.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bia2.com
 
@@ -17,7 +17,13 @@ Bia2! will not otherwise use or disclose your personal information without your 
 ### Cookies
 
 Bia2! may set and access Bia2! cookies on your computer.   
-Bia2! lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Bia2!'s cookies.
+Bia2! lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Bia2!'s cookies. 
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+  
+
 
 ### Other sites
 
