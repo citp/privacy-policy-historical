@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the herbalife.com privacy policy that was archived on 2008-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080409234557id_/http%3A//www.herbalife.com/global/privacy_policy.jsp%3Bjsessionid%3D7C53A3C595D274026497428529306BB1.prd-hrb-01-app3%3Fjsessionid%3D7C53A3C595D274026497428529306BB1.prd-hrb-01-app3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalife.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221071709id_/http%3A//www.herbalife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Herbalife
+# Herbalife - United States - Privacy Policy
 
-[ ](http://www.herbalife.com/index.jsp?jsessionid=7C53A3C595D274026497428529306BB1.prd-hrb-01-app3) |  |   
-  
 Herbalife International, Inc. is committed to protecting your privacy. Herbalife certified to the EU - U.S. Safe Harbor Agreement as a sign of its commitment to provide a high level of protection for the personally-identifiable information it collects and uses. 
 
 The purpose of this Privacy Policy is to inform you as to what information may be collected from you when you visit our website (“the Site”) or when you become a Distributor or customer, how such information will be used by Herbalife and/or other persons or entities, with whom such information may be shared, your choices regarding the collection, use and distribution of such information, your ability to edit, update, correct or delete such information and the security procedures that we have implemented to protect your privacy.
@@ -75,8 +73,3 @@ This Privacy Policy is effective as of March 1, 2006. Herbalife reserves the rig
 
 **QUESTIONS OR COMMENTS OR TO CONTACT US**   
 If you have questions or comments about this Privacy Policy, or you wish to access or make changes to information we have about you, please call Distributor Relations at 866-866-4744 (only for Distributors) or contact us at: 1800 Century Park East, Los Angeles, CA 90067 or [privacy@herbalife.com](mailto:privacy@herbalife.com).
-
-© 2007 Herbalife International of America, Inc. | Herbalife is a proud member of the Direct Selling Association.   
-No reproduction in whole or in part without written permission. All Rights Reserved.   
-All trademarks and product images exhibited on this site, unless otherwise indicated,   
-are the property of Herbalife International, Inc.
