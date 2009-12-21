@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034822id_/http%3A//www.mynewsletterbuilder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221135217id_/http%3A//www.mynewsletterbuilder.com/privacy.php) for the most accurate reproduction.*
 
-# My Newsletter Builder | Privacy Policy for Our Online Email Marketing Solution and Email Newsletter Campaign Software
-
-  
-
-
-## Online Email Marketing Solution Privacy Policy
+# MyNewsletterBuilder | Privacy Policy
 
 At the JBA Network, we respect and protect the privacy of our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of JBA Network websites, products and services that are located in, but not limited to the jbanetwork.com and mynewsletterbuilder.com domains.
 
@@ -43,4 +38,4 @@ Some communications (e.g. important account notifications and billing informatio
 
 If we decide to change our privacy policy, we will post those changes on the MyNewsletterBuilder and other JBA Network websites. So our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-#### Published: 07 Dec 2007 - 19:00
+#### Published: 07 Dec 2007 - 19:00 GMT -0400
