@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beagleboard.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620063254id_/http%3A//beagleboard.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beagleboard.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221033131id_/http%3A//beagleboard.org/privacy) for the most accurate reproduction.*
 
 # BeagleBoard.org - privacy
 
@@ -28,8 +28,6 @@ You may opt out at any time. By way of example, when you are registered with Bea
 ## Cookies
 
 Cookies are small text files that our web sites ask to place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to authenticate your access to various areas of our web site, tailor its content to your preferences, to help us analyze web traffic in general and to track when site visitors complete surveys, so that we do not present a survey again for 90 days. Cookies may be used in interactions where you request something from BeagleBoard.org: literature, CD-ROMs, technical support, seminar registrations, personalized web pages, or when you participate in a survey. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies, or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data.
-
-We also use pixels, or transparent GIF files, provided by our service providers Amazon, Google, SilverPop, DoubleClick, WebSideStory or ForeSee Results, to report activity on our site, help manage our online advertising and measure its effectiveness. These files enable our service providers to recognize a cookie on your web browser, which in turn enables us to learn which advertisements are most effective. The cookie was placed either by us or by our service providers. The information that we collect by means of these technologies is anonymous and not personally identifiable. For more information about SilverPop, including information about how to opt out of SilverPop’s use of these technologies, click here For more information about DoubleClick, including information about how to opt out of DoubleClick's use of these technologies, click here. For more information about WebSideStory, including information about how to opt out of WebSideStory's use of these technologies, click here. For more information about ForeSee Results including information about how their survey works, click here.
 
 ## Accuracy and Access
 
@@ -61,4 +59,4 @@ The vast majority of BeagleBoard.org does not target and is not intended for chi
 
 We reserve the right to change this policy at any time. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using BeagleBoard.org's web site, see the Terms of Use.
 
-Last updated by blog.hangerhead.com on Tue Mar 25 2008 09:12:46 GMT-0500 (CDT).
+Last updated by blog.hangerhead.com on Tue Aug 11 2009 12:59:51 GMT-0500 (CDT).
