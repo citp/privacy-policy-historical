@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140749id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061739id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Flinders University
 
@@ -12,13 +12,11 @@ Subscriptions
 Cookies  
 Searches  
 Links to other sites  
-Contact details  
-
+Contact details
 
 ### Information logged
 
-When you visit this site, our server logs the following information which is provided by your browser for statistical purposes only:   
-
+When you visit this site, our server logs the following information which is provided by your browser for statistical purposes only: 
 
   * the type of browser and operating system you are using
   * your top level domain name (for example .com, .gov, .au, .uk etc)
@@ -34,8 +32,7 @@ In addition, our server logs the following information:
 
 
 
-All of this information we use only for statistical analysis or systems administration purposes. No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant.   
-
+All of this information we use only for statistical analysis or systems administration purposes. No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant. 
 
 ### Electronic mail addresses
 
@@ -47,8 +44,7 @@ Some pages of this internet site provide the facility for users to subscribe to 
 
 These email addresses will only be used for the purpose for which you have provided it and you will not be added to any other mailing lists unless you specifically request that this be done. 
 
-Email mailing list addresses are stored on a separate server and can only be accessed by authorised Flinders University staff. Your email address will not be disclosed without your consent.   
-
+Email mailing list addresses are stored on a separate server and can only be accessed by authorised Flinders University staff. Your email address will not be disclosed without your consent. 
 
 ### Cookies
 
@@ -64,13 +60,11 @@ Cookies are not used for any other purpose at this site. We do not use cookies t
 
 ### Searches
 
-Search terms that you enter when using our search engine are collected, but are not associated with any other information that we collect. We use these search terms to ascertain what people are looking for at our site, and to improve the services that we provide.   
-
+Search terms that you enter when using our search engine are collected, but are not associated with any other information that we collect. We use these search terms to ascertain what people are looking for at our site, and to improve the services that we provide. 
 
 ### Links to other sites
 
-This site contains links to other sites. Flinders University is not responsible for the privacy practices or the content of such web sites.   
-
+This site contains links to other sites. Flinders University is not responsible for the privacy practices or the content of such web sites. 
 
 ### Contact details
 
