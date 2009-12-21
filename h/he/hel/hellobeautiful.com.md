@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619063346id_/http%3A//hellobeautiful.blackplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221053547id_/http%3A//hellobeautiful.com/privacy) for the most accurate reproduction.*
 
-# Privacy | HelloBeautiful
+# Privacy | Hello Beautiful
 
 _**Last revised November 21, 2008**_
 
