@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181605id_/http%3A//www.iprimus.com.au/PrimusWeb/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221224816id_/http%3A//www.iprimus.com.au/PrimusWeb/Privacy) for the most accurate reproduction.*
 
 # Privacy - Primus Telecom
 
-Primus (means any company which is a member of the Primus group of companies) is committed to the protection of customer personal information. Primus is subject to the requirements of the Telecommunications Act 1997, the Privacy Act 1988, the Telecommunication Industry Ombudsman Scheme and the ACIF Code of Practice. This includes our Privacy Policy which has been designed to ensure that customer personal information is protected. 
+Primus (means any company which is a member of the Primus group of companies) is committed to the protection of customer personal information. Primus is subject to the requirements of the Telecommunications Act 1997, the Privacy Act 1988, the Telecommunication Industry Ombudsman Scheme and the ACIF Code of Practice. This includes our Privacy Policy which has been designed to ensure that customer personal information is protected.
 
 As a private sector company, Primus is bound by the Privacy Act. Under the Act, Primus can choose to develop and be bound by a Privacy Code or choose to comply with the National Privacy Principles in the Privacy Act. Primus has chosen to be bound by the National Privacy Principles.
 
@@ -23,11 +23,11 @@ Primus only collects personal information from you that is necessary to perform 
 
 
 
-## Use of your personal information 
+## Use of your personal information
 
 Primus recognises that any personal information is very important to you, and that you should have a right to control the use and dissemination of that information. The primary purpose for which we use your personal information is to provide you with telecommunications services, eg the provision of fixed line, mobile and Internet services. Related purposes for which your personal information also might be used include:
 
-  * providing you with customer service, including investigating and resolving of complaints in relation to your services; 
+  * providing you with customer service, including investigating and resolving of complaints in relation to your services;
   * provisioning or connecting your services;
   * network routing;
   * checks for credit-worthiness and for fraud;
@@ -38,7 +38,7 @@ Primus recognises that any personal information is very important to you, and th
 
 Primus may also use some of your personal information (for example, we would not disclose your password, credit card details or call charge records) to inform you about its other products and services or bundled offerings, provided by Primus or its business partners. We will provide you with a choice to opt out of our marketing activities, and will respect your request to decline to receive further direct marketing communications.
 
-## How Primus collects personal information 
+## How Primus collects personal information
 
 Primus collects your personal information in various ways, such as over the phone, over the Internet if you transact with us on-line, or when you complete an application form for one of the products or services that we offer or promote. Primus collects personal information directly from you at the time when you apply for telecommunications services. Primus may also collect personal information from third parties such as:
 
@@ -48,13 +48,13 @@ Primus collects your personal information in various ways, such as over the phon
 
 
 
-Exchange of telephone numbers between carriers and disclosure to internet and other carriage service providers 
+Exchange of telephone numbers between carriers and disclosure to internet and other carriage service providers
 
 The exchange of telephone numbers between carriers is integral to the operation of telecommunications networks, to enable calls to be connected efficiently and billed to the right customer. Carriers also disclose telephone numbers to internet and other carriage service providers for lawful use to prevent fraud, for billing, better call management and to provide secure credit control. These may include unlisted telephone numbers and numbers for which a customer or other person has blocked calling line display. Primus may disclose and receive such information for these purposes related to the supply of services, subject to any legal prohibitions.
 
-## Contracting out services and disclosures 
+## Contracting out services and disclosures
 
-The information Primus collects from you is strictly confidential. Primus will not reveal, disclose, sell, rent or pass that information on to any third parties unless they are contracted to Primus to keep the information confidential or are required to comply with all relevant laws including the Privacy Act 1988. Services that Primus contracts out include service provisioning, mailing of bills and other communications to customers, debt collection, and I.T. services. We impose security and confidentiality requirements on how contractors are to use your personal information. 
+The information Primus collects from you is strictly confidential. Primus will not reveal, disclose, sell, rent or pass that information on to any third parties unless they are contracted to Primus to keep the information confidential or are required to comply with all relevant laws including the Privacy Act 1988. Services that Primus contracts out include service provisioning, mailing of bills and other communications to customers, debt collection, and I.T. services. We impose security and confidentiality requirements on how contractors are to use your personal information.
 
 Primus may disclose personal information for the purpose specified to you at the time of collection or for another purpose if:
 
@@ -73,13 +73,13 @@ Exceptions to this include:
 
 
 
-## Security 
+## Security
 
-Primus will take reasonable steps to ensure that all information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons. 
+Primus will take reasonable steps to ensure that all information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons.
 
-## Access and correction of personal information 
+## Access and correction of personal information
 
-You have the right to access the personal information we hold about you. Primus will generally not charge you with a fee for access to your personal information, unless requests are considered unnecessarily numerous, extensive or otherwise vexatious. Also if you wish to have a copy of the personal information, charges that cover Primus’ administrative costs of providing the information to you might apply. To request access to your personal information, please contact Primus Customer Service on 1300 85 11 85 or e-mail [feedback@iprimus.com.au](mailto:feedback@iprimus.com.au). 
+You have the right to access the personal information we hold about you. Primus will generally not charge you with a fee for access to your personal information, unless requests are considered unnecessarily numerous, extensive or otherwise vexatious. Also if you wish to have a copy of the personal information, charges that cover Primus’ administrative costs of providing the information to you might apply. To request access to your personal information, please contact Primus Customer Service on 1300 85 11 85 or [email us](http://www.iprimus.com.au/PrimusWeb/ContactUs/ "email us").
 
 If for any reason Primus refuses to give you access to your personal information, we will provide you with the reasons for our decision. The circumstances in which access to personal information may be limited or denied include where giving you access:
 
@@ -90,18 +90,18 @@ If for any reason Primus refuses to give you access to your personal information
 
 
 
-If you believe that we hold personal information that you consider to be inaccurate, incomplete or not up-to-date, please contact our Customer Service on 1300 85 11 85. In most cases we will amend any inaccurate, incomplete or not up to date information. In the event of an unresolved disagreement, either you or Primus may append an explanatory note to the data in question. 
+If you believe that we hold personal information that you consider to be inaccurate, incomplete or not up-to-date, please contact our Customer Service on 1300 85 11 85. In most cases we will amend any inaccurate, incomplete or not up to date information. In the event of an unresolved disagreement, either you or Primus may append an explanatory note to the data in question.
 
-## Privacy Complaints and Organisational Details 
+## Privacy Complaints and Organisational Details
 
 You can complain about breaches of your Privacy in writing (e-mail, fax or letter) to:
 
 Primus Telecom Customer Service
 
-PO Box 631   
-Collins Street West   
+PO Box 631  
+Collins Street West  
 Melbourne VICTORIA 8007
 
 Fax: 1300 85 11 58
 
-E-mail address: [feedback@iprimus.com.au](mailto:feedback@iprimus.com.au)
+Or [email us](http://www.iprimus.com.au/PrimusWeb/ContactUs/ "email us").
