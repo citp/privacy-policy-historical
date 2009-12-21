@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chews4health.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172833id_/http%3A//www.chews4health.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chews4health.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063520id_/http%3A//www.chews4health.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Chews 4 Health
 
