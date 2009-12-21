@@ -1,507 +1,118 @@
-<!--The following is the downloaded HTML source of the rollcall.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618143808id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rollcall.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221024228id_/http%3A//www.economistgroup.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>Roll Call Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">   
- <meta name="description" content="Roll Call Newspaper Online -  Covering Capitol Hill Since 1955">
- <meta name="keywords" content="Congress, Politics, Government, House of Representatives, Senate, Elections, Legislation, Campaigns, Democrat, Republican, Policy, Lobbying, News, Capitol Hill, Opinion, Committees, White House, Polls, Consultants, Beltway, congress, politics, government, house of representatives, senate, elections, legislation, campaigns, democrat, republican, policy, lobbying, news, capitol hill, opinion, committees, white house, polls, consultants, beltway">
- <link rel="Shortcut Icon" href="/favicon.ico">
-	<link rel="alternate" type="application/rss+xml" href="/issues/index.xml" title="Roll Call Print Edition">
-	<link rel="alternate" type="application/rss+xml" href="/news/breakingnews.xml" title="Roll Call Breaking News">
-	<link rel="alternate" type="application/rss+xml" href="/news/index.xml" title="Roll Call Daily News">
-	<link rel="alternate" type="application/rss+xml" href="/opinion/index.xml" title="Roll Call Opinion">
-	<link rel="alternate" type="application/rss+xml" href="/politics/index.xml" title="Roll Call Politics">
-	<link rel="alternate" type="application/rss+xml" href="/vested/index.xml" title="Roll Call Vested Interests">
-	<link rel="alternate" type="application/rss+xml" href="/ath/index.xml" title="Roll Call At The Hill">
-	<link rel="alternate" type="application/rss+xml" href="/features/index.xml" title="Roll Call Special Features">
-	<link rel="alternate" type="application/rss+xml" href="/gallery/index.xml" title="Roll Call Photo Gallery">
-	<link rel="stylesheet" href="/css/styles.css" type="text/css">
- <script language="javascript" src="/custom/js/jquery-1.3.2.min.js"></script>
- <script>
- $(document).ready(function(){
- $("#slideshowNext").attr("src", "http://cdn.rollcall.com/media/ui/arrow_next_off.gif");
- $("#slideshowNext").click(function(){
- var leftPos = $("#slideshowSlider").css("left");
- var numItems = 0;
- var maxPos = (numItems - 3) * -84;
- maxPos = maxPos + "px";
- if (leftPos != maxPos) {
- $("#slideshowSlider").animate({"left": "-=84px"}, "slow");
- // if new position is last, disable next
- var leftPosValue = parseInt(leftPos.replace("px", ""));
- var leftPosNew = leftPosValue - 84;
- leftPosNew = leftPosNew + "px";
- $("#slideshowBack").attr("src", "http://cdn.rollcall.com/media/ui/arrow_back_on.gif");
- if (leftPosNew == maxPos) {
- $("#slideshowNext").attr("src", "http://cdn.rollcall.com/media/ui/arrow_next_off.gif");
- }
- }
- });
- $("#slideshowBack").click(function(){
- var leftPos = $("#slideshowSlider").css("left");
- if (leftPos != "0px") {
- $("#slideshowSlider").animate({"left": "+=84px"}, "slow");
- var leftPosValue = parseInt(leftPos.replace("px", ""));
- var leftPosNew = leftPosValue + 84;
- if (leftPosNew == 0) {
- $("#slideshowBack").attr("src", "http://cdn.rollcall.com/media/ui/arrow_back_off.gif");
- }
- }
- });
- $("#tabCI").click(function(){
- $("#panelTabCI").addClass("on");
- $("#panelTabPB").removeClass("on");
- $("#panelTabMA").removeClass("on");
- $("#panelTabTC").removeClass("on");
- $("#panelCI").css("display", "block");
- $("#panelPB").css("display", "none");
- $("#panelMA").css("display", "none");
- $("#panelTC").css("display", "none");
- });
- $("#tabPB").click(function(){
- $("#panelTabPB").addClass("on");
- $("#panelTabCI").removeClass("on");
- $("#panelTabMA").removeClass("on");
- $("#panelTabTC").removeClass("on");
- $("#panelPB").css("display", "block");
- $("#panelCI").css("display", "none");
- $("#panelMA").css("display", "none");
- $("#panelTC").css("display", "none");
- });
- $("#tabMA").click(function(){
- $("#panelTabMA").addClass("on");
- $("#panelTabCI").removeClass("on");
- $("#panelTabPB").removeClass("on");
- $("#panelTabTC").removeClass("on");
- $("#panelMA").css("display", "block");
- $("#panelCI").css("display", "none");
- $("#panelPB").css("display", "none");
- $("#panelTC").css("display", "none");
- });
- $("#tabTC").click(function(){
- $("#panelTabTC").addClass("on");
- $("#panelTabCI").removeClass("on");
- $("#panelTabPB").removeClass("on");
- $("#panelTabMA").removeClass("on");
- $("#panelTC").css("display", "block");
- $("#panelCI").css("display", "none");
- $("#panelPB").css("display", "none");
- $("#panelMA").css("display", "none");
- });
- $("#tabMP").click(function(){
- $("#panelTabMP").addClass("on");
- $("#panelTabMM").removeClass("on");
- $("#panelMP").css("display", "block");
- $("#panelMM").css("display", "none");
- });
- $("#tabMM").click(function(){
- $("#panelTabMM").addClass("on");
- $("#panelTabMP").removeClass("on");
- $("#panelMM").css("display", "block");
- $("#panelMP").css("display", "none");
- });
-	});
-	</script>
- <script type="text/javascript" src="/custom/js/flashembed.min.js"></script>
- <script type="text/javascript">
- var flowPlayer1;
- function flowPlayerInit() {
- if (document.getElementById) {
- flowPlayer1 = document.getElementById("FlowPlayer");
- }
- setFlowPlayerConfig();
- }
- // wait for the page to fully load before initializing
- window.onload = function() {
- flowPlayerInit();
- setTimeout("document.getElementById('ad-floater').style.display = 'none'", 12000); /* close the floater some seconds after page load is complete */
-	}
- // FlowPlayer configuration
- var fpConf = {
- // for FMS:
- //  streamingServerURL: 'rtmp://cyzy7r959.rtmphost.com/flowplayer',
- // for red5:
- //  streamingServerURL: 'rtmp://localhost:1935/oflaDemo',
- //  thumbsOnFLV: true,
- autoPlay: false,
- loop: false,
- showStopButton: false,
- autoBuffering: false,
- emailVideoLink: '33862',
- menuItems: [true, true, true, true, true, true, false],
- emailPostUrl: 'http://www.rollcall.com/apps/custom/flow_player_email.php',
- autoRewind: true,
- showPlayList: false,
- startingBufferLength: 5,
- bufferLength: 10,
- hideControls: false,
- initialScale: 'fit',
- useNativeFullScreen: true
- }
- function setFlowPlayerConfig() {
- if (flowPlayer1) flowPlayer1.setConfig(fpConf);
- }
- </script>
- <!--[if IE 6]>
-	<link rel="stylesheet" href="/css/cdn.styles-ie6.css" type="text/css" />
- <![endif]-->
- </head>
- <body><div id="page">
-	<div id="header">
- <div id="search">
- <form action="http://www.rollcall.com/cgi-bin/texis/scripts/rollcall-search/search.html">
- <label>SEARCH:</label>
- <input type="hidden" name="publication" value="rollcall_nodaybook">
- <input type="text" name="query">
- <input type="image" class="image" src="http://cdn.rollcall.com/media/ui/search_go.gif" width="24" height="24"><a href="http://www.rollcall.com/search/">Advanced Search</a></form>
- </div>
- <div class="navigationGlobal" style="width: 65%;">
- <ul>
- <li class="home"><a href="http://www.rollcall.com/">Home</a></li>
- <li><a href="http://www.congressnow.com/">CongressNow</a></li>
- <li><a href="http://briefingroom.rollcall.com">Briefing Room</a></li>
- <li><a href="http://www.gallerywatch.com">GalleryWatch</a></li>
- <li><a href="http://www.rollcallgroup.com/capitoladvantage">Capitol Advantage</a></li>
- <li><a href="http://www.rcjobs.com/">RCJobs</a></li>
- </ul>
- </div>
- <div id="branding">
- <div id="logo"><a href="http://www.rollcall.com/"><img src="http://cdn.rollcall.com/media/ui/branding-logo-small.gif" alt="Roll Call"></a></div>
- <style>
- #branding #tagline {
- color:#583917;
- float:left;
- font-family:Georgia;
- font-size:12px;
- font-size-adjust:none;
- font-stretch:normal;
- font-style:italic;
- font-variant:normal;
- font-weight:bold;
- line-height:normal;
- padding:16px 8px 0pt 0pt;
- text-align:center;
- width:318px;
- }
- #branding #tagline #date {
- font: normal normal 11px Georgia;
- color: #000;
- text-align:center;
- margin-top: 10px;
- margin-bottom: 0;
- }	
- </style>
- <div id="tagline">
- The Newspaper of Capitol Hill Since 1955
- <div id="date">Thursday, June 18, 2009</div>
- </div>
- <div id="login">
- <form action="/login/" method="post" name="login_form"><input type="hidden" name="client_id" value="rollcall"><input type="hidden" id="user_maintain_state" name="user_maintain_state" value="YES"><input onfocus="javascript:if(this.value=='Username')this.value='';" value="Username" name="login_id" type="text"> <input name="login_pwd" type="password"><input name="submit" type="submit" class="button" value="SIGN IN"></form>
- <a href="http://www.rollcall.com/profile/password.reminder.html">Forgot your password?</a> | <a href="/subscribe/order.html">Subscribe</a>
- </div>
- </div>
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/leaderboard;;sz=728x90;pos=top;tile=1;ord=12394999;?" name="frame1" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;tile=1;ord=12394999;?">
- </SCRIPT>
- </iframe> 
- <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;tile=1;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;tile=1;ord=12394999;?" border=0 width="728" height="90"></A>
- </noscript></div>
- </div>
- <div id="content">
- <div id="columnMain" class="clear">
-<h1>Roll Call’s Privacy Policy</h1>
- <p class="classads">Roll Call Group is committed to protecting the privacy of rollcall.com, rcjobs.com, gallerywatch.com, congressnow.com and briefingroom.rollcall.com subscribers. This statement outlines our privacy and data protection policy.<br>
- </p>
- <p class="classads"><br>
- </p>
- <center>
- <p class="linkshed"><b><a href="#collection">Collection of Data</a></b> | <b><a href="#security">Security</a></b> | <b><a href="#cookies">Cookies</a></b> | <b><a href="#updating">Updating Your Information</a></b></p>
- </center>
- <div align="left">
- <p class="classads">
- </p><hr>
- <p></p>
- </div>
- <div align="left">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en"><head>
+	<title>Privacy | Economist Group</title>
 
-<a name="collection"></a>
-<p class="sectionhed">Collection and Use of User Details</p>
- <p class="classads">Personal details of Users of rollcall.com will be collected and processed upon registration to our website.</p>
- <p class="classads">All personal information is collected with the knowledge of Roll Call Group customers via the website’s registration.</p>
- <p class="classads">This information is collected for the following purposes:</p>
- <p class="classads">• To notify customers when the newsletter has been updated and special news items are posted<br>
- • To notify customers of special features, new products and items of relevance<br>
- • To notify users of promotional activities both within Roll Call Group and across The Economist Group of companies.</p>
- <p class="sectionhed">User information is retained for in-house research to:</p>
- <p class="classads">• Improve our understanding of customer needs and product development<br>
- • Build marketing profiles<br>
- • Aid strategic development<br>
- • Manage our relationship with advertisers</p>
- <p class="classads">All results of such research and analysis will be anonymised or aggregated information and will not reveal any personal facts about individual customers.</p>
- <p class="classads">Roll Call Group is an Economist Group business. The Economist operates offices worldwide. Steps have been taken to ensure that consistently high standards of data protection are adhered to in all regional offices for all the forms of processing mentioned above.</p>
- <p class="sectionhed">User Choices</p>
- <p class="classads">All registration and order forms provide users with a series of choices as regards to further promotional activity, forms of communication and third-party processing.</p>
- <p class="classads">When filling out the registration form on rollcall.com, users should indicate whether they are receptive to the use of e-mail to inform them of news updates and further rollcall.com promotional literature. If you wish to be kept informed of further rollcall.com services as well as technical/functional developments related to our website and online services then you should check the e-mail opt-in box.</p>
- <p class="classads">You may also indicate whether you wish to receive such information from other Economist Group businesses.</p>
- <p class="classads">Roll Call Group will occasionally allow other similar but reputable organizations to contact you. If you do not wish to hear from these companies, please check the appropriate box on the order/registration form to opt-out of such activity.</p>
- <a name="cookies"></a>
-<p class="sectionhed">Cookies</p>
- <p class="classads">A cookie is a small file which is placed on the user’s hard drive following a visit to rollcall.com. This file subsequently allows the user to move quickly and easily around our site by keeping a record of your previous visit(s). The cookie retains the user name and IP address as well as anonymised statistics on users’ demographic profiles for general research and statistics about our site. We do not associate this information with any personal data about our visitors.</p>
- <p class="classads">Cookies can be deleted from a PC’s hard drive at any time by the user. Further information on the use of cookies can be found on cookiecentral.com.</p>
- <a name="security"></a>
-<p class="sectionhed">Security Policy or Security Guarantee</p>
- <p class="classads">Roll Call Group will maintain appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost or altered with the Roll Call Group server environment.</p>
- <p class="classads">Occasions will arise when customer information is passed outside Roll Call Group to other data processors i.e. fulfillment bureau, database consultants, etc. but they will only act upon instruction from Roll Call Group in order to perform the services required.</p>
- <p class="sectionhed">Transfer of Personal Data Overseas</p>
- <p class="classads">The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis,<b> both within and outside the European Economic Area.</b> Therefore, by browsing the rollcall.com sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.<b> By agreeing to our transfer of your data to third party organizations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to any transfer of your data to organizations based outside the European Economic Area.</b></p>
- <a name="updating"></a>
-<p class="sectionhed">Updating Customer Details</p>
- <p class="classads">It is important to Roll Call Group that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. You may make changes to your personal data at any time by using your name and password to log in to rollcall.com and changing your information.</p>
- <p class="classads">
- </p><hr>
- <p></p>
- </div>
- <center>
- <p class="classinfo">Should you have any questions or concerns, you may also call us at<br>
- 202/824-6800 or toll free 800/289-9331 or <a href="/cgi-bin/udt/fdc.collector?client_id=rollcall&amp;form_id=maileditform&amp;link_id=133">e-mail Circulation</a>.</p></center>
- </div>
- <div id="columnRight">
- <div class="panel clearfix" id="mostTabs">
- <div id="panelTabs" style="position: relative; top: 1px;">
- <ul>
- <li id="panelTabMP" class="on"><a href="javascript:void(0);" id="tabMP">Most Popular</a></li>
- <li id="panelTabMM"><a href="javascript:void(0);" id="tabMM">Most E-Mailed</a></li>
- </ul>
- </div>		
- <div id="panelMP" class="panelContent">
- <ul class="headlines">
- <li><a href="http://www.rollcall.com/features/Guide-to-Congress_2008/guide/28506-1.html">The 50 Richest Members of Congress</a></li>
- <li><a href="http://www.rollcall.com/news/35940-1.html">Republicans Unveil Health Plan but Are Thin on Details</a></li>
- <li><a href="http://www.rollcall.com/news/35938-1.html">Ensign Affair Complicates Recruiting Efforts Against Reid</a></li>
- </ul>
- </div>		
- <div id="panelMM" class="panelContent">
- <ul class="headlines">
- <li><a href="http://www.rollcall.com/news/35939-1.html">Congressional Baseball Teams Undaunted by Weather</a></li>
- <li><a href="http://www.rollcall.com/news/35937-1.html">Finance Delays Markup of Health Care Bill</a></li>
- <li><a href="http://www.rollcall.com/issues/54_147/vested/35925-1.html">Wellness Not Faring Well</a></li>
- </ul>
- </div>		
- </div>		
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/premium;;sz=336x280;pos=top;tile=4;ord=12394999;?" name="frame1" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/premium;abr=!ie;sz=336x280;pos=top;tile=4;ord=12394999;?">
- </SCRIPT>
- </iframe> 
- <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/premium;abr=!ie;sz=336x280;pos=top;tile=4;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/premium;abr=!ie;sz=336x280;pos=top;tile=4;ord=12394999;?" border=0 width="336" height="280"></A>
- </noscript></div>
- <p><a href="http://sports.rollcall.com/softball"><img src="http://cdn.rollcall.com/media/newspics/rcsports_box.gif" border="0"></a></p>
+<meta name="keywords" content="The Economist Group, The Economist, Economist Group, Economist, Economist newspaper and magazines, Economist newspaper, Economist magazines">
+<meta name="description" content="The Economist Group is the leading source analysis on international business and world affairs. We deliver our information through a range of formats, from newspaper and magazines to conferences and electronic services.">
 
-<!--<div class="panel emailSignup">
- <div class="panelContent clearfix">
- <div class="columnSub">
- <a href="/register/"><img src="http://cdn.rollcall.com/media/ui/email_signup_icon.gif" /></a>
- <h3><a href="/register/">Sign Up Today!</a></h3>
- </div>
- <div class="columnSub last">
- <h2>New! Roll Call 24/7</h2>
- <ul class="small">
- <li>Breaking News Alerts</li>
- <li>Heard on the Hill Update</li>
- <li>Daily Wrap-up</li>
- <li>Weekly Full-text Columns</li>
- </ul>
- </div>
- </div>
- </div>-->            
- <div class="panel" id="featureTabs">
- <div id="panelTabs" class="clearfix" style="position: relative; top: 1px;">
- <ul>
- <li id="panelTabCI"><a href="javascript:void(0);" id="tabCI">Commitee Insider</a></li>
- <li id="panelTabPB"><a href="javascript:void(0);" id="tabPB">Policy Briefings</a></li> 
- <li id="panelTabMA" class="on"><a href="javascript:void(0);" id="tabMA">Mission Ahead</a></li>
- <li id="panelTabTC"><a href="javascript:void(0);" id="tabTC">The Chief</a></li>
- </ul>
- </div>
- <div class="panelContent" id="panelCI" style="display: none;">
- <img src="http://cdn.rollcall.com/media/newspics/murkowskitease.jpg">					<h2><a href="/issues/54_137/ci_energy/35295-1.html">Murkowski Walks Delicate Line as Ranking Member</a></h2>
- <p class="date">June 1, 12 a.m.</p>
- <p class="snippet">In the summer of 2007, Sen. Lisa Murkowski (R-Alaska) joined a small group of Senators to sponsor a cap-and-trade bill that aimed to find middle ground in the increasingly heated debate over global warming. Spearheaded by Sen. Jeff Bingaman (D-N.M.) and then-Republican Sen. Arlen Specter (Pa.), the Low Carbon Economy Act represented a good-faith effort by moderates from both parties to reduce emissions without sacrificing economic growth. <a href="/issues/54_137/ci_energy/35295-1.html" class="more">Read Full Article</a></p>
- <ul>
- <li><a href="/issues/54_137/ci_energy/35294-1.html">Top Committee Staffer Knows Science, Politics</a></li>
- <li><a href="/issues/54_137/ci_energy/35296-1.html">Energy Bill on Track to Pass in Senate</a></li>
- <li><a href="/issues/54_137/ci_energy/35299-1.html">Lobbyists Adjusting to New Order</a></li>
- <li><a href="/issues/54_137/ci_energy/35293-1.html">Senate Energy and Natural Resources Committee Through the Ages</a></li>
- <li><a href="/committeeinsider/">Committee Insider Index</a></li>
- </ul>
- </div>
- <div class="panelContent" id="panelPB" style="display: none;">
- <img src="http://cdn.rollcall.com/media/newspics/wilsontease.jpg">					<h2><a href="/features/Defense-Aerospace_2009/defense_aerospace/34475-1.html">Wilson: Keep Troops Agile and Troop Levels Adequate</a></h2>
- <p class="date">May 4, 12 a.m.</p>
- <p class="snippet">Contentious debate over spending in Washington, D.C., is nothing new and is an important part of our nation’s dialogue. We must prioritize and focus our resources on those things necessary to move our country forward. <a href="/features/Defense-Aerospace_2009/defense_aerospace/34475-1.html" class="more">Read Full Article</a></p>
- <ul>
- <li><a href="/features/Defense-Aerospace_2009/defense_aerospace/34474-1.html">Davis: Don’t Forget the Military Families</a></li>
- <li><a href="/features/Defense-Aerospace_2009/defense_aerospace/34470-1.html">Thune: Obama Plan Shortchanges Military</a></li>
- <li><a href="/features/Defense-Aerospace_2009/defense_aerospace/34477-1.html">Abercrombie: Cost Overrun Reduction Needed</a></li>
- <li><a href="/policybriefings/">Policy Briefings Index</a></li>
- </ul>
- </div>
- <div class="panelContent" id="panelMA" style="display: block;">
- <img src="http://cdn.rollcall.com/media/newspics/issatease.jpg">					<h2><a href="/news/35892-1.html">Issa: Reform Is Needed, but Don’t Use Medicare Model</a></h2>
- <p class="date">June 16, 2:52 p.m.</p>
- <p class="snippet">Somewhere between the health care extremes — no government involvement and total government control — real reform is possible. And reforming America’s health care system is one of the most pressing challenges that we face.  <a href="/news/35892-1.html" class="more">Read Full Article</a></p>
- <ul>
- <li><a href="/news/35967-1.html">Layton: Don’t Impose Quotas on Chinese Tires</a></li>
- <li><a href="/news/35948-1.html">Wilson: Small Businesses Are Being Hurt by New Toy Safety Law</a></li>
- <li><a href="/news/35891-1.html">Williams: EPA Plan to Regulate Greenhouse Gas Emissions Could Ruin Economy</a></li>
- <li><a href="/missionahead/">The Mission Ahead Index</a></li>
- </ul>
- </div>
- <div class="panelContent" id="panelTC" style="display: none;">
- <img src="http://cdn.rollcall.com/media/newspics/cravenstease.jpg">					<h2><a href="/issues/54_135/the_chief/35133-1.html">The Newcomers: Spiritual Bonding</a></h2>
- <p class="date">May 21, 12 a.m.</p>
- <p class="snippet">Michael Cravens didn’t want to get involved in Republican Rep. Gregg Harper’s Congressional race. Content with the work he had done on Mississippi state Sen. Giles Ward’s campaign, Cravens was set to return to work at Eagle Communications, the communications and marketing firm he had opened about 10 years earlier. <a href="/issues/54_135/the_chief/35133-1.html" class="more">Read Full Article</a></p>
- <ul>
- <li><a href="/issues/54_135/the_chief/35130-1.html">A Hands-On Manager</a></li>
- <li><a href="/issues/54_135/the_chief/35131-1.html">Chief Counsel: How to Help Staffers Feel Part of a Great Team</a></li>
- <li><a href="/thechief">The Chief Index</a></li>
- </ul>
- </div>
- </div>
- <div class="panel rightnavVideo">
- <div class="panelHeader">
- <h3>Roll Call Video Channels</h3>
- <div class="panelHeaderMore"><a href="http://www.rollcall.com/multimedia/">More Video</a></div>
- </div>
- <div class="panelContent clearfix">
- <div class="center">
- <a href="/multimedia/"><img src="http://cdn.rollcall.com/media/ui/rightnav_video.jpg"></a>
- </div>
- </div>
- </div>
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/premium_two;;sz=336x280;pos=bottom;tile=5;ord=12394999;?" name="frame1" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=5;ord=12394999;?">
- </SCRIPT>
- </iframe> 
- <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=5;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=5;ord=12394999;?" border=0 width="336" height="280"></A>
- </noscript></div>
- <div class="panel slideshow">
- <div class="panelContent clearfix">
- <div class="arrowScroll">
- <input type="image" id="slideshowBack" src="http://cdn.rollcall.com/media/ui/arrow_back_off.gif">
- <input type="image" id="slideshowNext" src="http://cdn.rollcall.com/media/ui/arrow_next_off.gif">
- </div>
- <h3>Photo Slideshows</h3>
- <div class="clearfix"></div>
- <div style="width: 252px; margin: 0 auto; overflow: hidden; position: relative;">
- <div id="slideshowSlider">
- <div class="columnSub">
- <a href="#" onclick="window.open('/gallery/1_205/photos/35952-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/TEASER0617.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 18)</p>
- </div>
- <div class="columnSub">
- <a href="#" onclick="window.open('/gallery/1_204/photos/35900-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/TEASER0616.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 17)</p>
- </div>
- <div class="columnSub">
- <a href="#" onclick="window.open('/gallery/1_203/photos/35856-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/TEASER_market_06_061509.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 16)</p>
- </div>
- <div class="columnSub">
- <a href="#" onclick="window.open('/gallery/1_202/photos/35795-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/teaser615.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 15)</p>
- </div>
- <div class="columnSub">
- <a href="#" onclick="window.open('/gallery/1_201/photos/35736-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/teaser0611.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 11)</p>
- </div>
- <div class="columnSub">
- <a href="#" onclick="window.open('/gallery/1_200/photos/35674-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/teaser0610.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 10)</p>
- </div>
- </div>
- <div class="clearfix"></div>
- </div>
- </div>
- </div>
- </div>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="classification" content="">
+	<meta name="owner" content="Economist Group">
+	<meta name="author" content="">
+	<meta name="rating" content="General">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="30">
+	<meta name="copyright" content="© 2007 Economist Group">
+	<link rel="stylesheet" type="text/css" href="/css/global.css">
+	<link rel="stylesheet" type="text/css" href="/css/content.css">
+	<link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css" /><![endif]-->
+	<!--[if gte IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie7.css" /><![endif]-->
+	<script type="text/javascript" src="/js/include_rollover.js"></script>
+	
+
+	<script type="text/javascript" src="/js/browser-detect.js"></script>
+	<script type="text/javascript" src="/js/browser-style.js"></script>
+
+
+	
+
+</head>
+
+<body>
+
+
+
+<div id="wrapper">
+	<div id="logo">
+		<a href="/"><img src="/images/logo_the_economist_group.gif" alt="Logo: The Economist Group"></a>
 	</div>
+	
+	<div id="top-nav">
+		
+		<ul id="nav" class="clearfix">
+			<li class="first"><a href="/index.html">Home</a></li>
+			<li><a href="/what_we_do/our_mission.html" id="trigger-what-we-do">What we do</a></li>
+			<li class="open"><a href="/results_and_governance/annual_and_interim_reports.html" id="trigger-results-and-governance">Results and governance</a></li>
+			<li><a href="/our_news/press_releases/index.html" id="trigger-our-news">Media</a></li>
+			<li><a href="/contact/index.html">Contact</a></li>
+			<li class="last"><a href="/working_with_us/working_at_the_economist_group/index.html" id="trigger-working-with-us">Working with us</a></li>
+		</ul>
+		
+		<div id="what-we-do">
+			<ul><li><ul><li><a href="/what_we_do/our_mission.html" class="menu-item-2">Our mission</a></li><li><a href="/what_we_do/our_brands/index.html" class="menu-item-2">Our brands</a></li><li><ul><li><a href="/what_we_do/our_brands/the_economist_brand_family/index.html" class="menu-item-2">The Economist brand family</a></li><li><a href="/what_we_do/our_brands/cfo_brand_family/index.html" class="menu-item-2">CFO brand family</a></li><li><a href="/what_we_do/our_brands/government_brands/index.html" class="menu-item-2">Government brands</a></li></ul></li><li><a href="/what_we_do/editorial_philosophy.html" class="menu-item-2">Editorial philosophy</a></li><li><a href="/what_we_do/our_history.html" class="menu-item-2">Our history</a></li><li><a href="/what_we_do/management_team.html" class="menu-item-2">Management team</a></li></ul></li></ul>
+		</div>
+		
+		<div id="results-and-governance">
+			<ul><li><ul><li><a href="/results_and_governance/annual_and_interim_reports.html" class="menu-item-3">Annual and interim reports</a></li><li><a href="/results_and_governance/results_at_a_glance.html" class="menu-item-3">Results at a glance</a></li><li><a href="/results_and_governance/financial_calendar.html" class="menu-item-3">Financial calendar</a></li><li><a href="/results_and_governance/corporate_structure.html" class="menu-item-3">Corporate structure</a></li><li><a href="/results_and_governance/governance/index.html" class="menu-item-3">Governance</a></li><li><ul><li><a href="/results_and_governance/governance/guiding_principles.html" class="menu-item-3">Guiding principles</a></li><li class="hi"><a href="/results_and_governance/governance/Privacy" class="menu-item-3">Privacy</a></li></ul></li><li><a href="/results_and_governance/ownership.html" class="menu-item-3">Ownership</a></li><li><a href="/results_and_governance/board.html" class="menu-item-3">Board</a></li><li><a href="/results_and_governance/trustees.html" class="menu-item-3">Trustees</a></li></ul></li></ul>
+		</div>
+		
+		<div id="our-news">
+			<ul><li><ul><li><a href="/our_news/press_releases/index.html" class="menu-item-4">Press releases</a></li><li><a href="/our_news/contacts.html" class="menu-item-4">Contacts</a></li><li><a href="/our_news/media_directories.html" class="menu-item-4">Media directories</a></li></ul></li></ul>
+		</div>
+		
+		<div id="working-with-us">
+			<ul><li><ul><li><a href="/working_with_us/working_at_the_economist_group/index.html" class="menu-item"> Working at The Economist Group</a></li><li><ul><li><a href="/working_with_us/working_at_the_economist_group/benefits.html" class="menu-item">Benefits</a></li><li><a href="/working_with_us/working_at_the_economist_group/training_and_development.html" class="menu-item">Training and development</a></li></ul></li><li><a href="/working_with_us/job_opportunities/index.html" class="menu-item">Job opportunities</a></li><li><ul><li><a href="/working_with_us/job_opportunities/contacts.html" class="menu-item">Contacts</a></li></ul></li><li><a href="/working_with_us/internships/index.html" class="menu-item">Internships</a></li></ul></li></ul>
+		</div>
+		
+	</div>
+	
+	<div id="container" class="clearfix">
+		
+		<h1>
+			
+			The Economist Newspaper privacy statement
+		</h1>
+		
+		<div id="left">
+			
+			
+
+			
+		
+			
+				<ul id="sub-nav"><li><ul class="sub-nav"><li><a href="/results_and_governance/annual_and_interim_reports.html">Annual and interim reports</a></li><li><a href="/results_and_governance/results_at_a_glance.html">Results at a glance</a></li><li><a href="/results_and_governance/financial_calendar.html">Financial calendar</a></li><li><a href="/results_and_governance/corporate_structure.html">Corporate structure</a></li><li class="hi"><a href="/results_and_governance/governance/index.html">Governance</a></li><li><ul class="sub-nav"><li><a href="/results_and_governance/governance/guiding_principles.html">Guiding principles</a></li><li class="hi"><a href="/results_and_governance/governance/Privacy">Privacy</a></li></ul></li><li><a href="/results_and_governance/ownership.html">Ownership</a></li><li><a href="/results_and_governance/board.html">Board</a></li><li><a href="/results_and_governance/trustees.html">Trustees</a></li></ul></li></ul>
+			
+		
+			
+		
+	
+
+			
+			
+			<br>
+		</div>
+		
+		<div id="right" class="clearfix">
+			<div class="padding">
+				
+				<h2>The Economist Group's privacy policy</h2><p><a href="http://www.economistgroup.com" onclick="return !window.open(this.href);">The Economist Group</a> is committed to protecting the privacy of our customers. Because we operate from offices around the world, we have taken steps to ensure that high standards of data protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy.</p><h3><span style="font-weight: bold">Definitions</span></h3><p>"The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:</p><ul><li>The Economist</li><li>Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network</li><li>CFO</li><li>European Voice</li><li>EuroFinance Conferences</li><li>CQ-Roll Call Group (including Briefing Room, Capitol Advantage, Congressional Quarterly, congressNow, Congress.org, GalleryWatch, Knowlegis and Roll Call)</li></ul><p>A "customer" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Economist Group business.</p><h3><span style="font-weight: bold">Collection and use of customer information</span></h3><p>Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services.&nbsp; Information is collected by the companies of the Economist Group.&nbsp; For our businesses operated in the EU and EEA, the companies listed at the end of this policy statement are each registered with the United Kingdom's Information Commissioner's Office as a data controller in accordance with the Data Protection Act 1998.</p><p>When you visit any of our websites, we also collect website usage information, and information about your computer and internet connection. This includes your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.</p><p>This information is collected to help us:</p><ul><li>fulfil your order</li><li>manage your registration preferences</li><li>send you renewal notifications</li><li>personalise web content and advertising based on your personal characteristics or preferences</li><li>ensure, as far as is practical, that our websites are compatible with the browsers and operating systems used by most of our visitors</li><li>conduct customer satisfaction surveys</li></ul><p>And, if you allow us to*, we may also:</p><ul><li>tell you about additional products and services</li><li>tell you about other promotional activities across The Economist Group of companies or other companies with whom we have a business relationship </li><li>invite you to participate in market research and surveys</li></ul><p>* Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing.</p><p>We also use your information for in-house research and analysis. This helps us to:</p><ul><li>improve our understanding of customer needs</li><li>create marketing profiles</li><li>support strategic development</li><li>To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymised or aggregated information and will not reveal any personal details of individual customers.</li></ul><h3><span style="font-weight: bold">Cookies</span></h3><p>A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites.&nbsp; We use information from cookies for purposes which may include:</p><ul><li>identifying returning users, registrants and subscribers </li><li>eliminating the need for returning users to re-enter their login details </li><li>enabling you to move more easily around our sites </li><li>tracking your use of our sites to better develop our sites in accordance with your requirements </li><li>building up an anonymous profile based on your browsing patterns across our sites and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests</li></ul><p>You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.</p><p>You will be able to use our websites even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.</p><p>If you specifically do not wish us to collect cookie information for the purpose of content and behavioural targeted advertising, you can "opt out" by following the instructions at <a href="http://www.cookiecentral.com" onclick="return !window.open(this.href);">http://www.cookiecentral.com</a>.</p><p>Further information on the use of cookies can be found at: <a href="http://www.cookiecentral.com/faq" onclick="return !window.open(this.href);">www.cookiecentral.com/faq</a>.</p><h3><span style="font-weight: bold">E-mails</span></h3><p>The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.</p><p>To find out more about the technologies used in these e-mails sent on our behalf, please visit <a href="http://www.doubleclick.com/privacy/index.aspx" onclick="return !window.open(this.href);">http://www.doubleclick.com/privacy/index.aspx</a>. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.</p><h3><span style="font-weight: bold">Advertisements</span></h3><p>The Economist Group uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <a href="http://www.doubleclick.com/privacy/index.aspx" onclick="return !window.open(this.href);">http://www.doubleclick.com/privacy/index.aspx</a>.</p><h3><span style="font-weight: bold">External links</span></h3><p>Our websites may, from time to time, contain links to external sites. The Economist Group is not responsible for the privacy policies or the content of such sites and we recommend that you read the privacy policies on any external sites you use.</p><h3><span style="font-weight: bold">Security policy</span></h3><p>The Economist Group does its utmost to protect your privacy and ensure your personal details are not misused, accidentally destroyed, lost or altered within The Economist Group.</p><p>Occasionally we share your details with other companies who are managing data for us (eg fulfilment bureaux, database consultants etc.). They are only permitted to process your data with explicit permission from The Economist Group, enabling them to perform the services required.</p><h3><span style="font-weight: bold">Transfer of personal data overseas</span></h3><p>As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.</p><h3><span style="font-weight: bold">Children under 13</span></h3><p>The Economist Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.</p><h3><span style="font-weight: bold">Changes to this statement</span></h3><p>From time to time, we may make changes to the privacy policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here from time to time.</p><h3><span style="font-weight: bold">Companies </span></h3><p>In accordance with the UK Data Protection Act 1998, the following companies are registered with the United Kingdom's Information Commissioner's Office as a data controller to collect information:</p><p><br>Data controller: The Economist Newspaper Limited <br>Registered Office:&nbsp; 25 St James's Street, London SW1A 1HG, UK<br>ICO Registered Number: Z7134617 Data Protection Registration Number: 236383<br>Other names: The World In, The Economist, European Voice, Economist.com, Intelligent Life</p><p>Data controller:The Economist Intelligence Unit Limited<br>Registered Office: 25 St James's Street, London SW1A 1HG, UK<br>ICO Registered Number: Z6982453 <br>Data Protection Registration Number: 1762617<br>Other names: EIU, Economist Intelligence Unit, Economist Conferences, Economist Corporate Network</p><p>Data controller: EuroFinance Conferences Ltd<br>Registered Office: 25 St James's Street, London SW1A 1HG, UK<br>ICO Registered Number: Z4865712<br>Data Protection Registration Number: 3015764&nbsp; <br>Other names: EuroFinance Intelligence, EuroFinance Training</p>
+			</div>
+		</div>
+		
+	</div>
+	
 	<div id="footer">
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/leaderboard_two;;sz=728x90;pos=bottom;tile=6;ord=12394999;?" name="frame1" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/leaderboard_two;abr=!ie;sz=728x90;pos=bottom;tile=6;ord=12394999;?">
- </SCRIPT>
- </iframe> 
- <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/leaderboard_two;abr=!ie;sz=728x90;pos=bottom;tile=6;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/leaderboard_two;abr=!ie;sz=728x90;pos=bottom;tile=6;ord=12394999;?" border=0 width="728" height="90"></A>
- </noscript></div>
- <div class="navigationMain">
- <ul>
- <li class="first"><a href="http://www.rollcall.com/">HOME</a></li>
- <li><a href="http://www.rollcall.com/login/">LOG IN</a></li>
- <li><a href="http://www.rollcall.com/apps/custom/current_issue_pdf.php">LATEST PAPER (PDF)</a></li>
- <li><a href="http://briefingroom.rollcall.com">BRIEFING ROOM</a></li>
- <li><a href="http://www.rollcall.com/news/">NEWS</a></li>
- <li><a href="http://www.rollcall.com/opinion/">OPINION</a></li>
- <li><a href="http://www.rollcall.com/politics/">POLITICS</a></li>
- <li><a href="http://www.rollcall.com/vested/">LOBBYING</a></li>
- </ul>
- <ul>
- <li class="first"><a href="http://www.rollcall.com/ath/">AROUND THE HILL</a></li>
- <li><a href="http://www.rollcall.com/investigations/">INVESTIGATIONS</a></li>
- <li><a href="http://www.rollcall.com/features/">SPECIAL REPORTS</a></li>
- <li><a href="http://www.rcjobs.com/">RC JOBS</a></li>
- <li><a href="http://www.rollcall.com/classifieds/">CLASSIFIEDS</a></li>
- </ul>
- </div>
- <div class="navigationSub">
- <div id="columnSub1A">
- <a href="/"><img src="http://cdn.rollcall.com/media/ui/branding-logo-footer.gif" width="193" height="39" alt="Roll Call"></a>
- </div>
- <div id="columnSub1B">
- <ul>
- <li><a href="http://www.rollcall.com/about/">About Roll Call</a></li>
- <li><a href="http://www.rollcall.com/contactus/">Contact Us</a></li>
- <li><a href="http://www.rollcall.com/contactus/staff.html">The Staff</a></li>
- <li><a href="http://www.rollcall.com/pressreleases/">Press Releases</a></li>
- <li><a href="http://www.rollcall.com/contactus/internships.html">Working at Roll Call</a></li>
- </ul>
- </div>
- <div id="columnSub1C">
- <ul>
- <li><a href="http://www.congressnow.com">CongressNow</a></li>
- <li><a href="http://briefingroom.rollcall.com">Briefing Room</a></li>
- <li><a href="http://www.gallerywatch.com">GalleryWatch</a></li>
- <li><a href="http://www.rollcallgroup.com/capitoladvantage">Capitol Advantage</a></li>
- <li><a href="http://www.rcjobs.com/">RCjobs</a></li>
- <li><a href="http://www.economistgroup.com/">The Economist</a></li>
- <li><a href="http://www.europeanvoice.com/">European Voice</a></li>
- </ul>
- </div>
- <div id="columnSub1D">
- <ul>
- <li><a href="http://www.rollcall.com/subscribe/order.html">Subscribe</a></li>
- <li><a href="http://www.rollcall.com/adinfo/">Advertise</a></li>
- <li><a href="http://www.rollcall.com/classifieds/">Classifieds</a></li>
- <li><a href="http://www.rollcall.com/rss/">RSS Feeds</a> <a href="http://www.rollcall.com/rss/"><img src="http://cdn.rollcall.com/media/ui/rss2.gif"></a></li>
- </ul>
- </div>
- <div id="columnSub1E">
- <ul>
- <li><a href="http://www.rollcall.com/privacy/">Privacy</a></li>
- <li><a href="http://www.rollcall.com/privacy/legal.html">Legal</a></li>
- </ul>
- <p>An Economist Group Business<br>
- Copyright 2009 © Roll Call Inc. All rights reserved &nbsp;<a href="http://www.iproduction.com"><img style="margin-bottom: -3px;" src="http://cdn.rollcall.com/media/ui/ip_mini_logo.png" alt="iProduction Internet Publishing System" title="iProduction Internet Publishing System"></a></p>
- </div>
- </div>
+		<div class="disclaimer">
+			<p>The Economist Newspaper Limited Registered in England and Wales. No. 236383 | Registered office: 25 St James's Street, London, SW1A 1HG | VAT Reg No: GB 340 436 876</p>
+		</div>
 	</div>
 </div>
 
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var firstTracker = _gat._getTracker("UA-3429693-5");
-	firstTracker._initData();
- firstTracker._trackPageview();
-	</script>
- 
+
+
+
+
 </body></html>
