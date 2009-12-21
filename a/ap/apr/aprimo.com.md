@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220055746id_/http%3A//www.aprimo.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221095554id_/http%3A//www.aprimo.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Aprimo - Privacy
+# Aprimo Enterprise Marketing Management - Software for Marketing
 
 This document was last updated on September 25, 2003. Aprimo, Incorporated and its www.aprimo.com Web site ("Aprimo") abide by the European Union Safe Harbor established by the United States Department of Commerce relating to the collection, use and retention of personal identifying information from the European Union. This privacy statement covers the site www.aprimo.com. Because we wish to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. We have agreed to disclose: 
 
