@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617081436id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023343id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # CBOE - Privacy Statement
 
@@ -51,8 +51,6 @@ To remove yourself from any CBOE e-mail lists, please e-mail [remove@cboe.com](m
 CBOE reserves the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury or interference with (either intentionally or unintentionally) our rights or property, other Website users, or anyone else that could be harmed by such activities. We may also disclose personal information without notice to you in response to a subpoena, or when requested from a United States government regulatory body or law enforcement agency, when we believe in good faith that the law requires it or to respond to any emergency situation. 
 
 ### Services Providers
-
-CBOE has selected the Sonar Network, a business unit of DoubleClick, Inc., as an ad-serving/sales agent for the Website. Please review the [Sonar Network Privacy Statement](http://www.doubleclick.net/us/corporate/privacy/default.aspx) for information about the Sonar Network's data use policy and security measures as they relate to advertising. 
 
 CBOE has selected Trader's Library to provide certain web services for online seminar registration, fulfillment, credit card transactions and other services. Please review the Trader's Library Privacy Statement here for information about the Trader's Library data use policy and security measures 
 
