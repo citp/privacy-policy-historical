@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607042354id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221064455id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingCoach.com
-
-  * **Our Commitment To Privacy**
-
-  * **The Information We Collect**
-
-  * **Our Commitment To Data Security**
-
-  * **How To Contact Us**
-
 
   
   
@@ -60,6 +51,9 @@ We do not store any email addresses, and your email address will simply be gone 
   5. **Tracking and statistics**  
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
+  6. **Google AdSense and cookies**  
+We use Google AdSense to supply our visitors with relevant advertisements throughout our website. Google uses cookies in order to make these ads more relevant to our visitors. **[Learn more about cookies and how to opt-out of them](http://www.google.com/privacy_ads.html)**. 
+
 
   
 
@@ -74,4 +68,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please ******[send us an email by using our contact form](https://web.archive.org/web/20090607042354id_/http%3A//www.accountingcoach.com/contact.html)**.
+Should you have other questions or concerns about these privacy policies, please ******[send us an email by using our contact form](https://web.archive.org/web/20091221064455id_/http%3A//www.accountingcoach.com/contact.html)**.
