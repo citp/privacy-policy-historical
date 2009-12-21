@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604050320id_/http%3A//www.belleproperty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221092926id_/http%3A//www.belleproperty.com/privacy.asp) for the most accurate reproduction.*
 
 # Belle Property
 
