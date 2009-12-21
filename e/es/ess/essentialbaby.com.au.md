@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialbaby.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618102324id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialbaby.com.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221133752id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | essentialbaby.com.au
 
@@ -73,7 +73,7 @@ Fairfax Digital protects the personal information Fairfax Digital holds from mis
 
 ##  Updating personal information
 
-Fairfax Digital endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. Essential Baby members can access the membership information Fairfax Digital holds about them at any time via the [Personal Settings section](http://members.essentialbaby.com.au/index.php?act=UserCP&CODE=00) on Essential Baby. Where personal information is no longer required by Fairfax Digital, it will be destroyed or de-identified.
+Fairfax Digital endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. Essential Baby members can access the membership information Fairfax Digital holds about them at any time via the [Personal Settings section](http://www.essentialbaby.com.au/forums/index.php?act=UserCP&CODE=00) on Essential Baby. Where personal information is no longer required by Fairfax Digital, it will be destroyed or de-identified.
 
 ##  Seeking access to the personal information Fairfax Digital holds about you
 
@@ -81,7 +81,7 @@ You have the right to seek access the personal information held about you and to
 
 ##  Membership information
 
-Essential Baby members can access the membership information Fairfax Digital holds about them at any time via the "[Personal Settings section](http://members.essentialbaby.com.au/index.php?act=UserCP&CODE=00) on Essential Baby.
+Essential Baby members can access the membership information Fairfax Digital holds about them at any time via the "[Personal Settings section](http://www.essentialbaby.com.au/forums/index.php?act=UserCP&CODE=00) on Essential Baby.
 
 ##  How to contact Fairfax Digital
 
