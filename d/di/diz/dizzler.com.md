@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dizzler.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531070434id_/http%3A//www.dizzler.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dizzler.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221073734id_/http%3A//www.dizzler.com/public/privacy) for the most accurate reproduction.*
 
-# Free Music & Videos, Music Lyrics, Free music without download - Dizzler.com
+# Free Music & Videos, Music Lyrics, Free music without download
 
 Dizzler understands that privacy is extremely important to you and is committed to protecting the privacy of your personal information. This Privacy Policy explains how IDV8, Inc. ("Dizzler") collects and uses personally identifiable information about visitors to the site and users of the service. By visiting the Dizzler site or using its services, you are accepting the practices outline in this Privacy Policy. This policy does not apply to the practices of third parties that Dizzler does not own or control, or to individuals that Dizzler does not employ or manage. 
 
