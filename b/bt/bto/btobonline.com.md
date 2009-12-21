@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014910id_/http%3A//btobonline.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btobonline.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063054id_/http%3A//www.btobonline.com/apps/pbcs.dll/section%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
 # BtoB Magazine: Marketing News and Strategies for BtoB, Direct & Internet Marketing
 
