@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bike24.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219201337id_/http%3A//www.bike24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bike24.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023420id_/http%3A//www.bike24.com/privacy.html) for the most accurate reproduction.*
 
-# Bike24 - Online Shop - Bike parts for Racing Cycles, Triathlon, Mountainbike (MTB), Trekking / Bike Wear / Shimano Campagnolo Specialized Nalini
+# Bike24 - Privacy Policy
 
 Bike24 treats the protection of your personal data very seriously. We act strictly in accordance with the statutory provisions of the German Federal Data Protection Act (BSSG) as well as the German Teleservices Act (TMG). 
 
-Personal data is information, which can be used to determine your identity. This includes, for instance, your actual name, your address, telephone number. 
-
-**1\. Anonymous data collection**
+Personal data is information, which can be used to determine your identity. This includes, for instance, your actual name, your address, phone number. 
 
 In principle you can use our website(s) without revealing your identity. Data is saved for storage and protection purposes, when you access our website(s). The following data is stored: 
 
@@ -21,11 +19,9 @@ In principle you can use our website(s) without revealing your identity. Data is
 
 This data is only used anonymously for statistical purposes. The data is stored for security reasons to ensure the secure operation of our system. 
 
-**_The use of cookies_**
+## _The use of cookies_
 
 Cookies are small files with configuration information, which we use for technical control purposes. We do not record any personal data using cookies. It is also possible to use our websites without cookies. Most browsers are configured in such a way that they automatically accept cookies. You can deactivate the acceptance of cookies by the browser in the browser settings or configure your browser in such a way that it informs you as soon as cookies are sent. You can have the cookies that were accepted by the browser displayed in the browser settings and delete the cookies. 
-
-**2\. Collection of personal data**
 
 However, in certain cases we require personal data from you. This is the case: 
 
@@ -40,13 +36,11 @@ However, in certain cases we require personal data from you. This is the case:
 
 If you want to provide feedback via the Bike24 feedback form then you can optionally enter personal data. You can also use the feedback form if you waive the entry of personal data. It is only possible to respond to your feedback if you state your e-mail address. 
 
-**3\. Use and passing on of personal data**
-
 We use personal data to process your order, to deliver the goods, to inspect your creditworthiness, for the payment handling, to prevent the misuse of our website and to inform you about your orders, products and offers. 
 
-You will, of course, only receive advertising from Bike24 if you have expressly consented to the sending of advertising material. For instance you can register for the Bike24 Newsletter in the course of the ordering process or whilst expressly stating your email address via the separate newsletter page. Of you can, of course, cancel your consent to the sending of advertising material at any time. 
+You will, of course, only receive advertising from Bike24 if you have expressly consented to the sending of advertising material. For instance you can register for the Bike24 Newsletter in the course of the ordering process or whilst expressly stating your e-mail address via the separate newsletter page. Of you can, of course, cancel your consent to the sending of advertising material at any time. 
 
-**_Transfer to third parties_**
+## _Transfer to third parties_
 
 Bike24 shall not illicitly pass on personal data to third parties. In particular Bike24 shall not pass on any personal data to third parties for advertising purposes. 
 
@@ -56,18 +50,12 @@ In addition we transmit personal data to our service partners relating to the fi
 
 The extent to which data is transferred to third parties shall be limited to the necessary minimum levels. 
 
-**Feedback data**
+## _Feedback data_
 
-If you inform us of your email address via the feedback form then we will only use this to respond to your feedback. Feedback data is assessed anonymously and used to improve and optimise our website as well as our processes. No feedback data shall be passed onto third parties. 
-
-**4\. Protection of personal data**
+If you inform us of your e-mail address via the feedback form then we will only use this to respond to your feedback. Feedback data is assessed anonymously and used to improve and optimise our website as well as our processes. No feedback data shall be passed onto third parties. 
 
 If you submit an order to Bike24 or register for a personalised or password protected area, your personal data will be encrypted and protected from access by unauthorised parties when it is transmitted on the internet. Bike24 uses a secure transmission procedure - the so-called "Secure Socket Layer" (SSL) transmission. SSL is a protocol for the encryption of messages on the internet, which offers particularly high levels of security. 
 
-**5\. Links to other websites**
-
 You will find links to other websites on our websites to keep you really well informed. We do not have any influence upon the design and the content of these external websites. 
-
-**6\. Data protection contact**
 
 If you have any questions, suggestions or comment to make about the issue of data protection then please contact Bike24 GmbH's data protection officer: _datenschutz at bike24.net_
