@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161915id_/http%3A//www.cloudmade.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221185130id_/http%3A//www.cloudmade.com/privacy_policy) for the most accurate reproduction.*
 
 # CloudMade Privacy Policy
 
