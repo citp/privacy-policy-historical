@@ -1,0 +1,688 @@
+<!--The following is the downloaded HTML source of the titanbet.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221010924id_/http%3A//www.titanbet.com/security.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="imagetoolbar" content="no">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="security, secure, privacy, bets, web security, privacy policy, Titan Bet">
+    <meta name="description" content="
+	Titan Bet's Security &amp; Privacy page teaches you about the methods we put in place to provide the best web security and to ensure that you have a safe and secure bets environment.
+	">
+    <title>Security &amp; Privacy</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="icon" type="image/gif" href="animated_favicon1.gif">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/bets.1261065346.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/theme_6.1259682848.css" title="theme_6">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/bets_inner.1261065346.css">
+<!--[if IE]><style type="text/css" media="all">@import url('http://cachewww.titanbet.com/style/bets_ie.1261065346.css');	</style><![endif]-->
+    <script type="text/javascript">
+			var cThemes = '<link rel="alternate stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/theme_1.1260457137.css" title="theme_1" />';
+			cThemes = cThemes+'<link rel="alternate stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/theme_2.1260457137.css" title="theme_2" />';
+			cThemes = cThemes+'<link rel="alternate stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/theme_3.1259682848.css" title="theme_3" />';
+			cThemes = cThemes+'<link rel="alternate stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/theme_4.1259682848.css" title="theme_4" />';
+			cThemes = cThemes+'<link rel="alternate stylesheet" type="text/css" media="screen" href="http://cachewww.titanbet.com/style/theme_5.1259682848.css" title="theme_5" />';
+		</script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/bets.nogzip.1261326019.js"></script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/styleswitch.1259682845.js"></script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/jquery.tooltip.pack.1259682845.js"></script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/jquery.blockUI.1259682845.js"></script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/jquery.corners.min.1260457136.js"></script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/jquery_ajaxQueue_min.1259682845.js"></script>
+    <script type="text/javascript">
+			$(window).load(function(){
+				$.tAjax.preDo();
+			});
+		</script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/betslip.1261326019.js"></script>
+    <script type="text/javascript">
+			$(document).ready(function(){
+				$('td.graph').live('click', function(){
+					if($('a', this).length > 0){
+						useLink = $('a', this).attr('href');
+						useName = $(this).siblings('.description').children('a').val();
+						window.open (useLink, useName,"menubar=1,resizable=1,scrollbars=1, width=960,height=780");
+					}
+					return false;
+				});
+				$('img.graph').live('click', function(){
+					useLink = $(this).parent('a').attr('href');
+					window.open (useLink, 'graph',"menubar=1,resizable=1,scrollbars=1, width=960,height=780");
+					return false;
+				});
+			});
+
+			var aBetslip = new $.tAjax.add({
+				name: 'Betslip',
+				queue: 2,
+				url: 'betslip.html',
+				success:function(html){
+					$('#bets').html(html).removeClass('loading');
+					C.log(aBetslip.params.name+ ' done');
+				},
+				error: function(){
+					return true;
+				}
+			});
+			aBetslip.addQueue();
+
+			var aBetslipJson = new $.tAjax.add({
+				name: 'BetslipJson',
+				queue: 3,
+				url: '/services/betslip_loadslip.json',
+				success:function(data){
+					 if(data.length == 0){
+						BetSlip.functions.init();
+					}else{
+						BetSlip.functions.init();
+						BetSlip.functions.buildSlip(data);
+					};
+					C.log(aBetslipJson.params.name+ ' done');
+				},
+				error: function(){
+					return true;
+				},
+				dataType: 'json'
+			});
+			aBetslipJson.addQueue();
+		</script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/live.1261326019.js"></script>
+    <script type="text/javascript">
+				Live.variables.sportNames.push({ID: '6', name: 'Soccer'});
+			
+				Live.variables.sportNames.push({ID: '5', name: 'Basketball'});
+			
+				Live.variables.sportNames.push({ID: '2490', name: 'Tennis'});
+			
+				Live.variables.sportNames.push({ID: '2491', name: 'Baseball'});
+			
+				Live.variables.sportNames.push({ID: '2492', name: 'American Football'});
+			
+				Live.variables.sportNames.push({ID: '6638', name: 'Boxing'});
+			
+				Live.variables.sportNames.push({ID: '33946', name: 'Darts'});
+			
+				Live.variables.sportNames.push({ID: '33945', name: 'Handball'});
+			
+				Live.variables.sportNames.push({ID: '33948', name: 'Cricket'});
+			
+				Live.variables.sportNames.push({ID: '34008', name: 'Rugby League'});
+			
+				Live.variables.sportNames.push({ID: '34009', name: 'Rugby Union'});
+			
+				Live.variables.sportNames.push({ID: '33953', name: 'Volleyball'});
+			
+				Live.variables.sportNames.push({ID: '34045', name: 'Snooker'});
+			
+				Live.variables.sportNames.push({ID: '36726', name: 'Ice Hockey'});
+			
+				Live.variables.sportNames.push({ID: '33818', name: 'Golf'});
+			
+				Live.variables.sportNames.push({ID: '33947', name: 'Cycling'});
+			
+				Live.variables.sportNames.push({ID: '34010', name: 'Motor Sports'});
+			
+			Live.dictionary.noLiveEvents = 'No Live Events';
+			
+				var aLivePanel = new $.tAjax.add({
+					name: 'LivePanel',
+					queue: 5,
+					url: 'livepanel_ajax.html',
+					success:function(data){
+						$('#live_panel_data').append(data);
+						Live.panel.init();
+						BetSlip.functions.updateFromLive();
+						C.log(aLivePanel.params.name+ ' done');
+					},
+					error: function(){
+						return true;
+					}
+				});
+				aLivePanel.addQueue();
+		</script>
+    <script type="text/javascript">
+			$(document).ready( function(){
+				$('.rounded').corners();
+			});
+			$(document).ready( function(){
+				$('.b-rounded').corners("bottom");
+			});
+			
+			$(function(){
+
+				
+				var sF = $('#betsearch'); 
+				var dT = 'Find your bet'; 
+				var sB = $('button', sF).addClass('ia'); 
+				var sI = $('input', sF); 
+				$(sI)
+					.val(dT)
+					.focus(function(){
+						if($(this).val()=== dT){
+							$(this).val('');
+							sB.removeClass('ia');
+						}
+					})
+					.blur(function(){
+						if($(this).val()=== ''){
+							$(this).val(dT);
+							sB.addClass('ia');
+						}
+					});
+				sF.submit(function(){
+					if(sI.val()==dT || sI.val()==''){
+						return false;
+					} else {
+						return true;
+					}
+				});
+				
+				if($.browser.msie){
+					$('#live_panel')
+						.before('<'+'span class="ie_clear"/>');
+				}
+				
+			});
+		</script>
+    <script type="text/javascript" src="http://cachewww.titanbet.com/scripts/clock.1259682845.js"></script>
+    <script type="text/javascript">
+
+		var aClock = new $.tAjax.add({
+			name: 'Clock',
+			queue: 6,
+			url: Clock.apiService,
+			success:function(data){
+				Clock.start(data);
+				C.log(aClock.params.name+ ' done');
+			},
+			error: function(){
+				return true;
+			},
+			dataType: 'json'
+		});
+		aClock.addQueue();
+	</script>
+    <script type="text/javascript">
+
+		var aUserLogin = new $.tAjax.add({
+			name: 'UserLogin',
+			queue: 1,
+			url: 'userlogin.html',
+			success:function(data){
+				$('#user_block').append(data);
+				if($('.logout', data).length == 0) { 
+					$('.register').show();
+				} else {
+					$('.register').hide();
+				}
+				bindEventsAjax();
+				callCashier();
+				C.log(aUserLogin.params.name+ ' done');
+			},
+			error: function(){
+				return true;
+			}
+		});
+		aUserLogin.addQueue();
+		
+		function loadUserLoginBlock(){
+			$('#user_block').addClass('loading');
+	     $('#user_block').load('userlogin.html',
+				function(responseText, textStatus, XMLHttpRequest){
+					bindEventsAjax();
+					$('#user_block').removeClass('loading');
+				}
+			);
+		}
+	
+		function callCashier(){
+			$('#cashier').jqm({
+				//trigger: '.cashier',
+				toTop: true,
+				onShow: function() {
+					var _cashier = $('#cashier');
+					_cashier.show();
+					$('iframe', _cashier).attr('src', 'http://'+window.location.host+'/services/cashier.html');
+					if($(window).height() <= _cashier.height()) {
+						_cashier.css({
+							'top':'0',
+							'width':'790px',
+							'height': $(window).height(),
+							'overflow-y': 'scroll'
+						});
+						$('iframe', _cashier).css('height','580px');
+					} else {
+						var _top = ($(window).height() - _cashier.height()) / 2;
+						_cashier.css({
+							'width':'770px',
+							'height': '580px',
+							'top': _top
+						});
+					}
+				}
+			});
+		};
+
+        function bindEventsAjax(){
+		$('.logout').click(function(event) {
+			event.preventDefault();
+			$.post('/services/UserLogout.xml', function() {
+			location.reload(true);
+			});
+		});
+		
+		 $('#refresh_acc').live('click', function(event){
+			    loadUserLoginBlock();
+			    event.preventDefault();
+			});
+			
+		$('#cashier #toggler span').live('click', function(event){
+			    loadUserLoginBlock();
+				$('#cashier').jqmHide();
+				return false;
+			});
+			
+		$('.cashier').live('click', function(event){
+			callCashier();
+			$('#cashier').jqmShow();
+			return false;
+		});
+		
+	}
+
+
+        $(document).ready(function() {
+		
+		$(".toggle a").click(function() {
+			document.getElementById("langlist").className = document.getElementById("langlist").className == 'hidden' ? 'visible' : 'hidden';
+			return false;
+		});
+		//$("li.current").insertBefore("#langlist li:first");
+
+		$(".styletoggle a").click(function() {
+			document.getElementById("oddtypes").className = document.getElementById("oddtypes").className == 'hidden' ? 'visible' : 'hidden';
+			return false;
+		});
+		//$("li.current").insertBefore("#langlist li:first");
+
+		$("#allsports li:not('#sports_count')").hide();
+		$("#sports_count").addClass('hidden');
+		$("#sports_count a").click(function() {
+			$("#allsports li:not('#sports_count')").toggle();
+			$("#sports_count").toggleClass('visible');
+		});
+
+                
+	});
+      </script>
+  </head>
+  <body id="security">
+    <div class="decorate">
+      <div class="wrapper">
+        <div id="head">
+          <h4>
+            <a href="." title="Titan Bet" rel="home" accesskey="1">Titan Bet</a>
+          </h4>
+          <div id="user_block"></div>
+          <ul id="brandmenu">
+            <li>
+              <a href="." class="sports current" style="background-image: url(http://cachewww.titanbet.com/tpl/bets/en/images/menu_sprite.gif);">Sports</a>
+            </li>
+            <li>
+              <a href="http://www.titanpoker.com" class="poker" style="background-image: url(http://cachewww.titanbet.com/tpl/bets/en/images/menu_sprite.gif);">Poker</a>
+            </li>
+          </ul>
+          <p class="time_date" id="server_clock"></p>
+        </div>
+        <div id="options">
+          <dl id="theming">
+            <dt>Themes</dt>
+            <dd class="theme_1">
+              <a href="#?style=theme_1" rel="theme_1" class="styleswitch">2</a>
+            </dd>
+            <dd class="theme_2">
+              <a href="#?style=theme_2" rel="theme_2" class="styleswitch">1</a>
+            </dd>
+            <dd class="theme_4">
+              <a href="#?style=theme_3" rel="theme_3" class="styleswitch">3</a>
+            </dd>
+            <dd class="theme_3">
+              <a href="#?style=theme_4" rel="theme_4" class="styleswitch">4</a>
+            </dd>
+            <dd class="theme_5">
+              <a href="#?style=theme_5" rel="theme_5" class="styleswitch">5</a>
+            </dd>
+            <dd class="theme_6">
+              <a href="#?style=theme_6" rel="theme_6" class="styleswitch">6</a>
+            </dd>
+          </dl>
+          <ul id="secondarymenu">
+            <li>
+              <a href="." rel="">Home</a>
+            </li>
+            <li>
+              <a href="support.html" rel="">Support</a>
+            </li>
+            <li>
+              <a href="about.html" rel="">About Us</a>
+            </li>
+            <li>
+              <a href="getting-started.html" rel="">Getting Started</a>
+            </li>
+            <li>
+              <a href="payment-methods.html" rel="">Payment Methods</a>
+            </li>
+            <li class="last">
+              <a href="promotions.html" rel="">Promotions</a>
+            </li>
+          </ul>
+        </div>
+        <div id="container" class="clearfix">
+          <div id="wrapper">
+            <div id="content">
+              <ul id="breadcrumbs">
+                <li class="first">Where am I?:</li>
+                <li id="home">
+                  <a href="/">Home</a>
+                </li>
+                <li>
+                  <strong>Security &amp; Privacy</strong>
+                </li>
+              </ul>
+              <div id="context">
+                <h2>Our Security &amp; Privacy Policy</h2>
+                <h3>Security</h3>
+                <p>
+	At Titan Bet, we take security issues very seriously and aim to provide our players with the highest security standards possible. It is imperative 
+	to us that you feel your personal details are 100% secure before you start placing bets with us. If you have any questions regarding 
+	security issues, please contact our <a href="support.html">support team</a>.
+	</p>
+                <p><strong>Information Protection</strong><br>
+	Titan Bet has adopted the most sophisticated technology to guarantee the security and protection of your privacy. Your account 
+	information and deposits are fully protected by state-of-the-art security systems, software and services.
+	</p>
+                <p><strong>Fraud Control</strong><br>
+	The security measures implemented by Titan Bet ensure the validity of each transaction you make, while the latest fraud control 
+	systems are utilized to protect your credit card information.
+	</p>
+                <strong>Encryption</strong>
+                <br>
+                <img src="http://cachewww.titanbet.com/tpl/bets/shared/images/godaddyssl.gif" class="certlogo" alt="">
+                <p>
+	Titan Bet uses Secure Socket Layer (SSL) technology on all web pages that contain your personal information. SSL works by encrypting 
+	all the data by using complex mathematical algorithms, to ensure we maintain the highest possible level of web security and that all your 
+	information remains secure and private at all times.
+	</p>
+                <strong>Confidentiality</strong>
+                <p>
+	Any and all information received from players is held in the strictest of confidence by Titan Bet. Player information will never be 
+	forwarded to any organization for commercial or any other gain, save that required by law. 
+	</p>
+                <p>
+	The privacy and security of all our players is of the utmost importance to Titan Bet. When playing at Titan Bet you can
+	be assured that we will respect and protect your privacy - so that you are free to enjoy the best online gambling available.
+	Below is a summary of our Privacy Policy.</p>
+                <br>
+                <br>
+                <h3>Privacy Policy</h3>
+                <p>
+                  <strong>The following statements disclose the information gathered by Titan Bet.</strong>
+                </p>
+                <p><strong>Account Creation Process</strong><br>
+	When you register an account with Titan Bet, you are asked to provide certain personal information in order to verify that you 
+	are legally entitled to bet and to avoid the registration of duplicate accounts. This information is kept strictly confidential 
+	for our own purpose. We do NOT share this information with any third-party company and/or organization.
+	</p>
+                <p>
+	This information includes a customer's email address, home address and other personal information. If you supply us with your 
+	personal details, the information will only be used for its intended purpose.
+	</p>
+                <p><strong>Web Site and Advertising System</strong><br>
+	As part of this website's operation and for our own statistical analysis of site traffic, our website automatically logs Internet 
+	IP addresses accessing our site. We do NOT log any e-mail address of web site visitors.
+	</p>
+                <p>
+	Our advertising system logs IP addresses in order to supply more accurate advertising features, such as language specific banners. 
+	Again, it does NOT log any email addresses.
+	</p>
+                <p><strong>Winnings</strong><br>
+	Your winnings and cash-outs are kept strictly confidential, and winnings information is stored in secure operating 
+	environments. Titan Bet keeps your winnings information private and does not provide this information to any third-party 
+	unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority. 
+	</p>
+                <p><strong>Email Addresses</strong><br>
+	We collect email addresses of those who communicate with us via email.
+	</p>
+                <p>
+	Email Addresses are NOT shared with any other organization for commercial nor non-commercial purposes. Email addresses will only be 
+	used to provide our customers with information regarding new updates, promotional material, and miscellaneous operations, such as 
+	deposits and withdrawals.
+	</p>
+                <p>
+	We are guided by a strict mail policy as detailed below:
+	</p>
+                <h3>Mail policy</h3>
+                <p>
+		We do not tolerate spam. 
+		<br>We received your consent for communication via email. 
+		<br>We send you promotional emails and updates until such time as you inform us that you no longer wish to 
+		receive them. 
+		<br><br>You may notify us of your wish to unsubscribe at any time by:
+		</p><ul><li>Clicking on the unsubscribe link shown in all Titan Bet emails and following the instructions.</li><li>Contacting us through online chat</li><li>Emailing us at <span class="change">support(put the 'at' sign here)titanbet.com</span></li></ul>
+		Upon receiving your notice, we will immediately stop sending you such e-mails and updates.<br><br>
+		If you continue to receive promotional e-mails and updates or any other unsolicited 
+		communication from us after you have asked to unsubscribe, please report this to us at <span class="change">abuse(put the 'at' sign here)titanbet.com</span>.
+	<p></p>
+                <br>
+                <br>
+                <br>
+                <h3>Use of Information</h3>
+                <p>
+	Your personal information, together with other information we hold, may be used for the following purposes:
+	</p><ul><li>Managing new and existing accounts</li><li>Processing player transactions including, but not limited to, deposits, withdrawals and bets</li><li>Improving our services to players and providing more personal service to individuals</li><li>Complying with all of our requirements under applicable law and regulations</li><li>Providing you with marketing and promotional information by post, email, telephone and other means available to us</li></ul><p></p>
+              </div>
+            </div>
+          </div>
+          <div id="navigation">
+            <a href="register.html" class="register" id="join" style="display:none; background-image: url(http://cachewww.titanbet.com/tpl/bets/en/images/join_now.gif);"></a>
+            <a href="live.html" id="live_betting" style="background-image: url(http://cachewww.titanbet.com/tpl/bets/en/images/live_betting.gif);"></a>
+            <form action="search.html" method="get" id="betsearch">
+              <fieldset>
+                <legend></legend>
+                <input type="text" id="search" name="param">
+                <button type="submit" value=""></button>
+              </fieldset>
+            </form>
+            <ul id="sportsmenu" class="b-rounded">
+              <li class="soccer">
+                <a href="sports.html?param=6">Soccer</a>
+              </li>
+              <li class="basketball">
+                <a href="sports.html?param=5">Basketball</a>
+              </li>
+              <li class="tennis">
+                <a href="sports.html?param=2490">Tennis</a>
+              </li>
+              <li class="baseball">
+                <a href="sports.html?param=2491">Baseball</a>
+              </li>
+              <li class="football">
+                <a href="sports.html?param=2492">American Football</a>
+              </li>
+              <li class="boxing">
+                <a href="sports.html?param=6638">Boxing</a>
+              </li>
+              <li class="darts">
+                <a href="sports.html?param=33946">Darts</a>
+              </li>
+              <li class="handball">
+                <a href="sports.html?param=33945">Handball</a>
+              </li>
+              <li class="cricket">
+                <a href="sports.html?param=33948">Cricket</a>
+              </li>
+              <li class="rugby_league">
+                <a href="sports.html?param=34008">Rugby League</a>
+              </li>
+              <li class="rugby_union">
+                <a href="sports.html?param=34009">Rugby Union</a>
+              </li>
+              <li class="volleyball">
+                <a href="sports.html?param=33953">Volleyball</a>
+              </li>
+              <li class="snooker">
+                <a href="sports.html?param=34045">Snooker</a>
+              </li>
+              <li class="ice-hockey">
+                <a href="sports.html?param=36726">Ice Hockey</a>
+              </li>
+              <li class="golf">
+                <a href="sports.html?param=33818">Golf</a>
+              </li>
+              <li class="cycling">
+                <a href="sports.html?param=33947">Cycling</a>
+              </li>
+              <li class="motor_racing">
+                <a href="sports.html?param=34010">Motor Sports</a>
+              </li>
+            </ul>
+            <ul id="sidemenu" class="rounded">
+              <li>
+                <a href="http://livescore.betradar.com/?alias=titanbet&amp;layoutid=21" rel="statspopup">Live Score</a>
+              </li>
+              <li>
+                <a href="http://livescore.betradar.com/?alias=titanbet" rel="statspopup">Live Soccer Center</a>
+              </li>
+              <li>
+                <a href="http://livescore.betradar.com/statistics/titanbet" rel="statspopup">Statistics</a>
+              </li>
+              <li>
+                <a href="faqs.html" rel="">FAQs</a>
+              </li>
+              <li>
+                <a href="betting-glossary.html" rel="">Betting Glossary</a>
+              </li>
+              <li>
+                <a href="betting-rules.html" rel="">Betting Rules</a>
+              </li>
+              <li>
+                <a href="payment-methods.html" rel="">Payment Methods</a>
+              </li>
+              <li>
+                <a href="security.html" rel="">Security &amp; Privacy</a>
+              </li>
+              <li class="rounded {bottom} last">
+                <a href="sitemap.html" rel="">Sitemap</a>
+              </li>
+            </ul>
+            <a href="support.html" class="badge">
+              <img src="http://cachewww.titanbet.com/tpl/bets/en/images/support.gif" alt="">
+            </a>
+          </div>
+          <div id="right_sidebar">
+            <div id="betslip">
+              <h3 style="background-image: url('http://cachewww.titanbet.com/tpl/bets/en/images/betslip_heading.gif');">betslip</h3>
+              <span id="user_currency"></span>
+              <a href="#" id="betslip_help_icon" title="Bet Slip | Click on odds to add your bets here"></a>
+              <div class="top_controls">
+                <span class="include_multiples">Include in multiples</span>
+                <a class="clear_all" href="#">Clear Slip</a>
+              </div>
+              <div id="bets" class="clearfix loading"></div>
+              <div id="betslip_error_box">
+                <div class="betslip_error_box_wrapper">
+                  <h4>Attention! &nbsp;<span class="close"></span></h4>
+                  <div class="content"></div>
+                  <span class="arrow"></span>
+                </div>
+              </div>
+            </div>
+            <div id="live_panel">
+              <h3 style="background-image: url('http://cachewww.titanbet.com/tpl/bets/en/images/live_panel_heading_sprite.gif');">Live Bets</h3>
+              <a href="#" id="live_more" style="background-image: url('http://cachewww.titanbet.com/tpl/bets/en/images/live_panel_more_btn_sprite.gif');">
+		More
+	  </a>
+              <div id="live_panel_data" class="loading"></div>
+              <div id="live_panel_highlights" class="loading"></div>
+              <div id="live_panel_schedule" class="loading"></div>
+            </div>
+            <iframe id="live_diff" src="" height="0" width="0" frameborder="0" scrolling="no"></iframe>
+          </div>
+          <div id="footer">
+            <ul id="bottommenu">
+              <li>
+                <a href="http://www.titanpoker.com" rel="">Poker</a>
+              </li>
+              <li>
+                <a href="about.html" rel="">About Us</a>
+              </li>
+              <li>
+                <a href="register.html" rel="">Join Now</a>
+              </li>
+              <li>
+                <a href="support.html" rel="">Support</a>
+              </li>
+              <li>
+                <a href="faqs.html" rel="">FAQs</a>
+              </li>
+              <li>
+                <a href="security.html" rel="">Security &amp; Privacy</a>
+              </li>
+              <li>
+                <a href="responsible-gaming.html" rel="">Responsible Gaming</a>
+              </li>
+              <li>
+                <a href="http://www.europartners.com" rel="">Affiliates</a>
+              </li>
+              <li>
+                <a href="sitemap.html" rel="">Sitemap</a>
+              </li>
+              <li class="last">
+                <a href="terms.html" rel="">Terms</a>
+              </li>
+            </ul>
+            <ul id="symbols" class="en">
+              <li>
+                <a class="kahnawake" rel="external" href="http://www.kahnawake.com/gamingcommission/">Kahnawake</a>
+              </li>
+              <li>
+                <a class="playtech" rel="external" href="http://www.playtech.com">Playtech</a>
+              </li>
+              <li>
+                <a class="over_18" rel="nofollow" href="responsible-gaming.html#age18">Over 18</a>
+              </li>
+              <li>
+                <a class="resp_gaming" rel="nofollow" href="responsible-gaming.html">Responsible Gaming</a>
+              </li>
+              <li>
+                <a class="safe_secure" rel="nofollow" href="security.html">Safe and Secure</a>
+              </li>
+              <li class="last">
+                <a class="gambleaware" rel="external" href="http://www.gambleaware.co.uk">GambleAware</a>
+              </li>
+            </ul>
+            <p id="copy">
+	© 2009 <a title="Titan Bet" href="http://www.titanbet.com">Titan Bet</a>. All Rights Reserved. www.titanbet.com is a site of Fastengine Limited, Cyprus. 
+	Images on this site provided by Getty images.
+    </p>
+          </div>
+        </div>
+      </div>
+      <div id="cashier" class="jqmWindow">
+        <div class="csh-wraper">
+          <div id="toggler">
+            <span>X</span>
+          </div>
+          <iframe src="" width="100%" height="100%" frameborder="0"></iframe>
+        </div>
+      </div>
+      <script type="text/javascript">
+					_userv=0;
+					_udn="titanbet.com";
+					urchinTracker();
+					</script>
+    </div>
+  
+
+<!-- generated [81.2241] --></body></html>
