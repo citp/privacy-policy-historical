@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628184335id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222000630id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 Privacy Policy  
-_Last Updated: 11/19/2007_
+_Last Updated: 11/16/2009_
 
 **Your Privacy Is Not for Sale**  
 Simply put, we do not and will not sell your personally identifiable information to anyone, for any reason. 
@@ -26,7 +26,7 @@ Your contact and shipping information is given to the carriers providing your wi
 
 LetsTalk.com uses your information to follow-up on your order and to provide you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>.
+We use third-party advertising companies to serve ads when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>. If you would like more information about personalized advertising from Microsoft or would like to opt out, click here: <http://privacy.microsoft.com/en-us/fullnotice.mspx#display>.
 
 Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list or unsubscribe. Subscribers may also contact us [via email](https://web.archive.org/about/emailsubmit.htm?htId=6). We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
 
