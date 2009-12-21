@@ -1,62 +1,132 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213175904id_/http%3A//www.congress.org/congressorg/info/privacy.tt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221024228id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
-# Congress.org
+# Privacy | Economist Group
 
-Congress.org is run by [Capitol Advantage](http://capitoladvantage.com/), a Washington, DC area company that provides a service to organizations that allows visitors to their web sites to contact elected officials and stay current on important issues. This service is called [Capwiz™](http://www.capitoladvantage.com/capwiz/qt/intro.html) and is used by associations, advocacy groups, corporations and media web sites. It also powers Congress.org.
+## The Economist Group's privacy policy
 
-Subject to the privacy limitations inherit with email and non secure Web sites, Capitol Advantage is committed to protecting and respecting your privacy. This document sets out our privacy policy and explains what we do with the personal information that we collect from users of this site. Please read this statement to understand our views and practices regarding personal information, and how they pertain to you as you use our Capwiz™ service. 
+[The Economist Group](http://www.economistgroup.com/) is committed to protecting the privacy of our customers. Because we operate from offices around the world, we have taken steps to ensure that high standards of data protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy.
 
-This privacy policy may be updated from time to time. Changes to the privacy policy will be posted to the Web site. It is your obligation to review this privacy policy from time to time, and your continued use of the Web site after changes have been posted will be deemed your acceptance of the revised policy. If you have questions or concerns about this privacy policy, you may contact Capitol Advantage via email at [cs@capitoladvantage.com](mailto:cs@capitoladvantage.com).
+### Definitions
 
-**What information does Capitol Advantage gather about you and how do we use it?**
+"The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
 
-If you register with Capitol Advantage to use any of the special services available through the Web site, you will be asked to submit certain information, names and email addresses. This information will be used to permit you to receive any information you may have requested from Capitol Advantage and any additional communications the company may deem appropriate in relation to your request.
+  * The Economist
+  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
+  * CFO
+  * European Voice
+  * EuroFinance Conferences
+  * CQ-Roll Call Group (including Briefing Room, Capitol Advantage, Congressional Quarterly, congressNow, Congress.org, GalleryWatch, Knowlegis and Roll Call)
 
-When you send a message to a government official or a member of the media through Congress.org, we ask for your name, address and e-mail address. We also collect the full text of the message you send through our service, but only to send it. We use this information to deliver your message and to identify you to the recipient. If you choose to have your letter posted publicly in [Letters To Leaders](http://congress.org/congressorg/issuesaction/letters/), it is saved only as long as it is displayed.
 
-When the user clicks "YES" when asked "Would you like to submit your letter for possible inclusion in an upcoming book on voters' letters to elected officials?" on the message compose page, the user hereby authorizes Capitol Advantage LLC ("CA") to use and publish User's letter(s) transmitted through this enabling website in a book to be published in the future. CA agrees to delete all personal information from User's letter(s) prior to using or publishing such letter(s) and shall delete all names and addresses except for the initials of the sender and the city and state. User hereby releases CA from any liability or damages arising from the use or publication of any of User's letter(s) contained on Capitol Advantage's website.
 
-If you sign-up for [MegaVote](http://congress.org/congressorg/megavote/), a weekly e-mail report of key Congressional votes, we ask for your ZIP code and e-mail address in order to identify your members of Congress and send you a weekly message about how they voted on key legislation.
+A "customer" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Economist Group business.
 
-If you use our Tell-a-Friend feature to e-mail a link to Congress.org to a friend, you will need to provide us with both your email address as well as that of your friend. We will automatically send your message to this person, as well as invite them to visit the site. We use their information for the sole purpose of sending this e-mail.
+### Collection and use of customer information
 
-If you click the Remember Me option, we will place a cookie in your browser to remember your personal information. This cookie is a file that contains your name, address, and e-mail address information as you entered it on the message form. The next time you send a message, Capitol Advantage will retrieve that information from the cookie and automatically enter it on the message form for you. A couple of things to remember about cookies: Cookies are stored on your hard drive, not on our site. Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use the Remember Me feature.
+Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services.  Information is collected by the companies of the Economist Group.  For our businesses operated in the EU and EEA, the companies listed at the end of this policy statement are each registered with the United Kingdom's Information Commissioner's Office as a data controller in accordance with the Data Protection Act 1998.
 
-When you purchase our Extra Impact hand-delivery service, we will also ask for your telephone number, credit card number and expiration date only so that we may process your payment. We may also use your information to contact you regarding your delivery, should the need arise. The transmission of this information is encrypted, using Secure Socket Layers (SSL) technology.
+When you visit any of our websites, we also collect website usage information, and information about your computer and internet connection. This includes your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.
 
-We also collect IP addresses to help us understand how our visitors access our site, so we can make our site easier to find and to improve our users' overall experience when they visit Congress.org.
+This information is collected to help us:
 
-If you sign up for Pledge Your Vote, the information you provide may be shared with others. We may also use this information to contact you with periodic Pledge Your Vote updates.
+  * fulfil your order
+  * manage your registration preferences
+  * send you renewal notifications
+  * personalise web content and advertising based on your personal characteristics or preferences
+  * ensure, as far as is practical, that our websites are compatible with the browsers and operating systems used by most of our visitors
+  * conduct customer satisfaction surveys
 
-**Will Capitol Advantage disclose any of your personal information?**
 
-Capitol Advantage only discloses your name, address, and e-mail address to the recipient of the message you send through our service. This information is required because most government officials and media contacts will not accept messages they receive from unidentified correspondents.
 
-When you submit your message for inclusion in our online "Letters to Leaders" section, the text of your message and your city of residence will be displayed online. No personal information about you will be disclosed to the public as long as you do not include that information in the body of the message.
+And, if you allow us to*, we may also:
 
-Capitol Advantage will not disclose any information about individual users, except as described in this Privacy Statement, or to comply with applicable laws or valid legal process, or to protect the rights or property of Capitol Advantage.
+  * tell you about additional products and services
+  * tell you about other promotional activities across The Economist Group of companies or other companies with whom we have a business relationship 
+  * invite you to participate in market research and surveys
 
-We do not give, rent, lend, or sell individual information to any third parties other than as described above. We may occasionally disclose aggregate information in order to describe our service to prospective business partners and other third parties, and for other lawful purposes. For example, we might tell them that there are 100,000 people in Gotham City who wrote a message to Congress, but we won't tell them that Batman is one of them, and we certainly won't tell them that his email address is "bwayne@batcave.com" or what he wrote in his messages. In this process, third parties never have access to any personal information about you.
 
-**Will Capitol Advantage use your information for direct mailings?**
 
-You are using this Web site to engage in civic participation, which is the mission of the site. Occasionally Capitol Advantage may send you messages regarding products and services we offer that might be of interest to you for the same purpose. If you do not want to receive such messages, simply send an e-mail to [cs@capitoladvantage.com](mailto:cs@capitoladvantage.com) with "remove me from the Congress.org list" in the subject line.
+* Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing.
 
-In addition, Capitol Advantage will contact you via e-mail for the following reasons:
+We also use your information for in-house research and analysis. This helps us to:
 
-  * To send you a copy of a message you have sent through our service.
-  * To send you a weekly MegaVote report (only if you have signed up for this service).
+  * improve our understanding of customer needs
+  * create marketing profiles
+  * support strategic development
+  * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymised or aggregated information and will not reveal any personal details of individual customers.
 
-**How can I update my personal information for my MegaVote subscription?**
 
-Capitol Advantage permits you to change or correct your personal information at any time and for any reason, or to unsubscribe from MegaVote. Just fill in the e-mail address under which you subscribed, at <http://www.congress.org/congressorg/megavote/login/>.
 
-**If you send us a message about the site, is it private?**
+### Cookies
 
-Capitol Advantage has an area on the Web Site which permits you to submit feedback about the Web Site. Any feedback that is submitted becomes the property of Capitol Advantage; we may use your feedback to make improvements to the Web Site, for marketing purposes, or to contact you.
+A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites.  We use information from cookies for purposes which may include:
 
-**What else should you know about your privacy?**
+  * identifying returning users, registrants and subscribers 
+  * eliminating the need for returning users to re-enter their login details 
+  * enabling you to move more easily around our sites 
+  * tracking your use of our sites to better develop our sites in accordance with your requirements 
+  * building up an anonymous profile based on your browsing patterns across our sites and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
 
-Keep in mind that your name, address, and e-mail address, as well as any information about yourself that you include in the messages you send through Capitol Advantage, will be read by the recipient of your message and/or his or her staff. That's really the point of our service - to enable you to communicate with your elected officials, other government officials and those in the media. Remember that whenever you disclose personal information in your messages you send to others, that information can be collected and used by the recipients and may even be forwarded to other parties.
 
-Furthermore, while we do our best to protect your personal information, Capitol Advantage cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Please be careful and responsible whenever you are online.
+
+You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
+
+You will be able to use our websites even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
+
+If you specifically do not wish us to collect cookie information for the purpose of content and behavioural targeted advertising, you can "opt out" by following the instructions at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+
+Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
+
+### E-mails
+
+The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
+
+To find out more about the technologies used in these e-mails sent on our behalf, please visit <http://www.doubleclick.com/privacy/index.aspx>. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.
+
+### Advertisements
+
+The Economist Group uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.doubleclick.com/privacy/index.aspx>.
+
+### External links
+
+Our websites may, from time to time, contain links to external sites. The Economist Group is not responsible for the privacy policies or the content of such sites and we recommend that you read the privacy policies on any external sites you use.
+
+### Security policy
+
+The Economist Group does its utmost to protect your privacy and ensure your personal details are not misused, accidentally destroyed, lost or altered within The Economist Group.
+
+Occasionally we share your details with other companies who are managing data for us (eg fulfilment bureaux, database consultants etc.). They are only permitted to process your data with explicit permission from The Economist Group, enabling them to perform the services required.
+
+### Transfer of personal data overseas
+
+As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
+
+### Children under 13
+
+The Economist Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
+
+### Changes to this statement
+
+From time to time, we may make changes to the privacy policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here from time to time.
+
+### Companies 
+
+In accordance with the UK Data Protection Act 1998, the following companies are registered with the United Kingdom's Information Commissioner's Office as a data controller to collect information:
+
+  
+Data controller: The Economist Newspaper Limited   
+Registered Office:  25 St James's Street, London SW1A 1HG, UK  
+ICO Registered Number: Z7134617 Data Protection Registration Number: 236383  
+Other names: The World In, The Economist, European Voice, Economist.com, Intelligent Life
+
+Data controller:The Economist Intelligence Unit Limited  
+Registered Office: 25 St James's Street, London SW1A 1HG, UK  
+ICO Registered Number: Z6982453   
+Data Protection Registration Number: 1762617  
+Other names: EIU, Economist Intelligence Unit, Economist Conferences, Economist Corporate Network
+
+Data controller: EuroFinance Conferences Ltd  
+Registered Office: 25 St James's Street, London SW1A 1HG, UK  
+ICO Registered Number: Z4865712  
+Data Protection Registration Number: 3015764    
+Other names: EuroFinance Intelligence, EuroFinance Training
