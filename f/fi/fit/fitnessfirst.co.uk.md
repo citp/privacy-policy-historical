@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172648id_/http%3A//www.fitnessfirst.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221074311id_/http%3A//www.fitnessfirst.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy. Health Club. Gym. Fitness First. Free One 1 Day Pass. Gym Membership offers. Gym in London. Free Gym Membership One Day.
 
