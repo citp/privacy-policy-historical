@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191859id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221164830id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
 
 # Duke Basketball Report - Privacy Policy
 
 | 
 
-"Every March."  
-Kobe Bryant, when asked if he regrets not playing college ball.
+"As far as our motivation, we don't need North Carolina or Maryland or anybody else to motivate us."  
+Coach K
 
-[](http://www.amazon.com/exec/obidos/redirect-home/dukebasketbal-20) [](http://www.cafepress.com/juliovision/5912367) [](http://www.bluedevilphotos.com/) [](http://www.dukesportsmedicine.com/)
+[](http://www.cafepress.com/juliovision/5912367) [](http://www.bluedevilphotos.com/) [](http://www.dukesportsmedicine.com/)
 
 |  | 
 
