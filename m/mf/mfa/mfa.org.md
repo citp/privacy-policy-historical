@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014040id_/http%3A//www.mfa.org/about/index.asp%3Fkey%3D3149) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221175838id_/http%3A//www.mfa.org/about/index.asp%3Fkey%3D3149) for the most accurate reproduction.*
 
 # Museum of Fine Arts, Boston: Privacy Policy
 
-| [](https://web.archive.org/web/20090619014040id_/http%3A//www.mfa.org/about/index.asp)  
+| [](https://web.archive.org/web/20091221175838id_/http%3A//www.mfa.org/about/index.asp)  
 ---  
 [Message from the Director](https://web.archive.org/about/index.asp?key=4146)  
 [Building the New MFA](https://web.archive.org/about/index.asp?key=54)  
@@ -12,9 +12,10 @@
 [MFA Images](https://web.archive.org/about/index.asp?key=50)  
 [Libraries + Archives](https://web.archive.org/about/index.asp?key=49)  
 [Mission Statement](https://web.archive.org/about/index.asp?key=53)  
+[Annual Report](https://web.archive.org/annualreport2009)  
+[Museum School/SMFA](http://www.smfa.edu/)  
 [FAQs](https://web.archive.org/about/index.asp?key=46)  
 [RSS/XML Feed](https://web.archive.org/about/index.asp?key=2479)  
-[SMFA](http://www.smfa.edu/)  
 [NCAAA](http://www.ncaaa.org/)  
 |  |   
 ---  
