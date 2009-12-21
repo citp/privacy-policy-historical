@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523223844id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html%3FWT.mc_id%3Dhp_PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221054736id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html%3FWT.z_homepage_link%3Dhp_PrivacyStatement) for the most accurate reproduction.*
 
 # Digi-Key Privacy Statement
 
