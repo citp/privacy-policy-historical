@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the expedia.co.nz privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619084028id_/http%3A//www.expedia.co.nz/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.nz privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221020722id_/http%3A//www.expedia.co.nz/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia.co.nz Privacy Pledge
 
 **Expedia.co.nz Privacy Policy**
-
-Below you will find the Privacy Policy for Expedia.co.nz, effective October 2007. 
 
 This site is operated by Expedia, Inc of 3150 139th Avenue SE, Bellevue, Washington 98005 United States of America (“ **Expedia** ”, “ **us** ” or “ **we** ”). 
 
@@ -51,6 +49,8 @@ _Failure to provide information_ __. When making travel plans or a purchase usin
 
 **How we use your information**  
 Expedia.co.nz uses personal information to provide you with the opportunity to book or reserve numerous travel products and services. We also use information about you for the following related purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; __ to measure interest in and improve our products, services, and web site; to notify you about special offers and products or services that may be of interest to you; __ to otherwise customize your experience with Expedia.co.nz; _t_ o reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; __ to resolve disputes, collect fees, or troubleshoot problems; to prevent and/or identify potentially prohibited or illegal activities such as fraud; regulatory reporting and compliance; __ to enforce our Terms of Use; and as otherwise described to you at the point of collection. 
+
+We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by reviewing your purchasing and browsing behaviour to indentify and present e-mail messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our Web site and save this to your itinerary, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the e-mail, you may receive an email about New York hotel offers. We believe these e-mail messages will provide you with useful information about travel-related special offers available through our sites. Please note that you will have the opportunity to choose not to receive these e-mail messages in any such email we send. 
 
 When you register as a member on Expedia.co.nz, you will be given a choice as to whether you want to receive e-mail messages from Expedia.co.nz about special offers. As a registered Expedia.co.nz member, you can modify your choice at any time on the [My Account](http://www.expedia.co.nz/pub/agent.dll?qscr=info) page under the heading "E-mail settings." Whether registered as an Expedia.co.nz member or not, you also will be given the opportunity to unsubscribe from commercial messages in any such e-mail we send.
 
@@ -120,4 +120,4 @@ Expedia reserves the right to modify or amend this Privacy Policy at any time an
 **How you can contact us**  
 If you have questions about either Privacy Policy (or your travel planning or purchases), please e-mail us using our [support and feedback form](https://web.archive.org/pub/Agent.dll?qscr=fbak&itid=0). 
 
-This Privacy Policy is effective as of October 2007. 
+This Privacy Policy is effective as of 20 September 2009. 
