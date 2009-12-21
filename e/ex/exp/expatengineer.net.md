@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618102747id_/http%3A//www.expatengineer.net/jobs.nsf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221235913id_/http%3A//www.expatengineer.net/jobs.nsf/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Expat Engineering Jobs
-
-  | 
 
 This Privacy Policy applies to to all web sites owned and operated by ExpatJob.net Group, KCO Pty Ltd, (ABN 88 087 371 248) "KCO" is a private Australian company. KCO is bound by the National Privacy Principles of the Privacy Act, 1988 (Australia)
 
@@ -16,8 +14,7 @@ When you look at our web sites, our Internet Service Provider makes a record of 
 ¨ your top level domain name (for example .com, .gov, .au, .uk etc)  
 ¨ the pages you accessed and documents downloaded  
 ¨ the previous site you have visited  
-¨ The type of browser you are using.
-
+¨ The type of browser you are using.  
 Information collected may be used internally to create aggregate information about our users. This aggregate data may be provided to our advertisers and sponsors, without providing any personal user data.
 
 KCO, reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. KCO will provide only aggregated data from these analyses to third parties. Also, users should be aware that KCO may sometimes permit third parties to offer subscription and/or registration-based services through an KCO, site.
@@ -32,6 +29,4 @@ Upon request, KCO, will allow any user to "opt out" of further promotional conta
 
 The foregoing policies are effective as of Jan 1, 2002. KCO, reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-Any questions about this Privacy Statement can be directed to the KCO at info@expatjob.net.
-
-|  
+Any questions about this Privacy Statement can be directed to the KCO at info@expatjob.net. 
