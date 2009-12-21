@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e2save.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617182418id_/http%3A//www.e2save.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2save.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234038id_/http%3A//www.e2save.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - e2save.com - Mobile Phones
 
@@ -120,7 +120,7 @@ Belton Road West Extension
 Loughborough  
 LE11 5XH **
 
-or call customer services on **0845 655 55 22**
+or call customer services on **0871 522 3400**
 
 ## Contacting You
 
@@ -140,7 +140,7 @@ or email us at our Help Desk at <http://www.e2save.com/helpdesk/>
 
 ## MEND/SEND
 
-If you buy a handset from us, we will pass your information to the Mobile Equipment National Database ("MEND") and the Stolen Equipment National Database ("SEND") (organisations operated by Recipero Limited, a company registered in England and Wales under Company No. 3794898 and with its registered office at Lawrence House, Lower Bristol Road, Bath BA2 9ET) to enable MEND or SEND to contact you in the event that you lose your Mobile Phone or it is stolen from you. Please contact customer services on **0845 655 55 22**. if you do not want your information to be passed to MEND and/or SEND. PLEASE NOTE: Once you have been registered with MEND and SEND, it is your responsibility to ensure that you notify any change of mobile phone to MEND and SEND to ensure that there is no interruption of their service to you. 
+If you buy a handset from us, we will pass your information to the Mobile Equipment National Database ("MEND") and the Stolen Equipment National Database ("SEND") (organisations operated by Recipero Limited, a company registered in England and Wales under Company No. 3794898 and with its registered office at Lawrence House, Lower Bristol Road, Bath BA2 9ET) to enable MEND or SEND to contact you in the event that you lose your Mobile Phone or it is stolen from you. Please contact customer services on **0871 522 3400**. if you do not want your information to be passed to MEND and/or SEND. PLEASE NOTE: Once you have been registered with MEND and SEND, it is your responsibility to ensure that you notify any change of mobile phone to MEND and SEND to ensure that there is no interruption of their service to you. 
 
 ## Security
 
