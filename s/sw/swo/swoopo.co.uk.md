@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swoopo.co.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614134244id_/http%3A//www.swoopo.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoopo.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221233815id_/http%3A//www.swoopo.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Swoopo UK | Cheap Wii Fit Nintendo DS PS3 Auctions Swoopo | Swoopo.co.uk Auction
 
 ### 1\. General
 
-Swoopo is a service provided by Entertainment Shopping AG, Parkshot House, 5 Kew Road, Richmond-upon-Thames, TW9 2PR.
+Swoopo is a service provided by Entertainment Shopping AG, 77 Oxford Street, London, W1D 2ES.
 
 Your data is collected and processed by us exclusively according to statutory regulations, in particular, the UK's Data Protection Act and Privacy and Electronic Communications Regulations; and in Germany, the Federal Data Protection Act and Telemedia Act.
 
