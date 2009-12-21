@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619235340id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063056id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
-# Privacy | Victoria University | A New School of Thought
+# Privacy | Victoria University | A New School of Thought | Melbourne, Australia
 
-## Website Privacy Statement
+##  Website Privacy Statement
 
 As a user of the Victoria University websites, your privacy is protected by the Information Privacy Act 2000 (Vic) and the University's [Privacy Policy](http://wcf.vu.edu.au/GovernancePolicy/PDF/POU090123000.PDF).  This statement provides you with information on how the University handles your information when you access its websites.
 
@@ -42,8 +42,6 @@ As a user of the Victoria University websites, your privacy is protected by the 
 
 
 
-## Freedom of Information (FOI)
+##  Freedom of Information (FOI)
 
 Under the Victorian Freedom of Information Act (1982), you have general rights to request information held by Victoria University. Our [Freedom of Information](http://gpps.vu.edu.au/freedom/cid/8/parent/1/t/freedom) web page outlines the FOI Act, your entitlements and responsibilities, and how to apply for access to university documents.
-
-Page last updated: Tuesday 24 February 2009
