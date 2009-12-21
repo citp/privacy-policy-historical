@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160910id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023731id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
 
-# News on Japan - 3Yen - Privacy Policy
+# News on Japan – 3Yen – Privacy Policy
 
 PRIVACY POLICY
 
@@ -38,4 +38,4 @@ We will transfer information about you if 3Yen.com is acquired by or merged with
 
 At any time, you may review or update your personal information by contacting us via the contact form available online. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. Please do not hesitate to contact us if you have any questions or concerns about this privacy policy.
 
-3Yen.com may update this policy in the future. 
+3Yen.com may update this policy in the future.
