@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203214id_/http%3A//www.brctv.com/customer_care/customer_news/notifications.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221060055id_/http%3A//www.brctv.com/customer_care/customer_news/notifications.php) for the most accurate reproduction.*
 
 # Customer Notifications : Blue Ridge Communications
 
 |  |  |   
 ---|---|---  
-  
-[](https://ebill.brctv.com/wsc/Controller/Logon)
-
 | 
 
   * **You Are Here:**
@@ -59,30 +56,26 @@ Any changes to this policy will be listed on this page.
 |   
   
 **Notifications for Blue Ridge Communications**  
-As required by law, we are notifying our customers of their right to privacy, our complaint procedure, billing procedure, refund policy, converter/TV compatibility and subscriber service procedure. 
+As required by law, we are notifying our customers of their right to privacy, our complaint procedure, billing procedure, refund policy, converter/ TV compatibility and subscriber service procedure. 
 
 **Privacy Notice**  
-The notice is being provided in accordance with the Cable Television Consumer Protection and Competition Act of 1992, a Federal law which requires all cable operators to notify subscribers of the collection, use and disclosure of personally identifiable information regarding cable subscribers. Blue Ridge Communications collects and maintains certain information, concerning individual subscribers, which is necessary to provide cable television service to our subscribers and to detect unauthorized reception of our service. Such information includes billing records, service maintenance and repair records, premium service subscription, marketing and research survey information and subscriber complaints. 
+The notice is being provided in accordance with the Cable Television Consumer Protection and Competition Act of 1992, a Federal law which requires all cable operators to notify subscribers of the collection, use and disclosure of personally identifiable information regarding cable subscribers.
 
-We do not maintain this information any longer than is necessary for our business purposes. Information such as credit references, previous address, social security and driver license numbers are maintained, for purpose of identity regarding the applicants for our services, for a period of five (5) years. After such time, if the purpose for which such information was collected has been accomplished, Blue Ridge Communications will destroy the information. 
+Blue Ridge Communications collects and maintains certain information, concerning individual subscribers, which is necessary to provide cable television service to our subscribers and to detect unauthorized reception of our service. Such information includes billing records, service maintenance and repair records, premium service subscription, marketing and research survey information and subscriber complaints.
 
-As a subscriber, you may review (and correct if necessary) any personal information held by us which pertains to you. These records are available at the local Blue Ridge Communications office, serving you, during the hours of 9 AMto 5 PM, Monday through Friday. 
+We do not maintain this information any longer than is necessary for our business purposes. Information such as credit references, previous address, social security and driver license numbers are maintained, for purpose of identity regarding the applicants for our services, for a period of five (5) years. After such time, if the purpose for which such information was collected has been accomplished, Blue Ridge Communications will destroy the information.
 
-We request that you contact us beforehand by telephone or letter so that we may locate the information and set up an appointment for your review. 
+As a subscriber, you may review (and correct if necessary) any personal information held by us that pertains to you. These records are available at the local Blue Ridge Communications office, serving you, during the hours of 9 AM to 5 PM, Monday through Friday.
 
-Blue Ridge Communications may from time-to-time make your personal information available to our sales agents, research consultants, our accountants, programming services, representatives of franchising authorities, and collection agencies for the purpose of collecting money owed by a subscriber. 
+We request that you contact us beforehand by telephone or letter so that we may locate the information and set up an appointment for your review.
 
-Names and addresses of Blue Ridge Communications subscribers are provided to Program Guide distributors for the purpose of mailing; please notify our office by telephone or letter if you do not want to be included on the list. 
+Blue Ridge Communications may from time-to-time make your personal information available to our sales agents, research consultants, our accountants, programming services, representatives of franchising authorities, and collection agencies for the purpose of collecting money owed by a subscriber. Names and addresses of Blue Ridge Communications subscribers are provided to Program Guide distributors for the purpose of mailing; please notify our office by telephone or letter if you do not want to be included on the list.
 
-Any person who feels aggrieved by an action of Blue Ridge Communications in violation of Section 631 of the Cable Television Consumer Protection and Competition Act of 1992, may bring a civil action in a United States District Court. 
+Any person, who feels aggrieved by an action of Blue Ridge Communications in violation of Section 631 of the Cable Television Consumer Protection and Competition Act of 1992, may bring a civil action in a United States District Court. The Cable Act restricts the collection of subscriber information and the disclosure of personally identifiable information.
 
-The Cable Act restricts the collection of subscriber information and the disclosure of personally identifiable information. 
+If Blue Ridge Communications is served with a court order requiring disclosure of personally identifiable information concerning a subscriber, we will inform the subscriber before any such information is released. Under some circumstances, a governmental entity may seek a court order to obtain personally identifiable subscriber information from a cable system concerning one of its subscribers. The subscriber would then be given an opportunity to contest issuance of such an order.
 
-If Blue Ridge Communications is served with a court order requiring disclosure of personally identifiable information concerning a subscriber, we will inform the subscriber before any such information is released. Under some circumstances, a governmental entity may seek a court order to obtain personally identifiable subscriber information from a cable system concerning one of its subscribers. 
-
-The subscriber would then be given an opportunity to contest issuance of such an order. 
-
-In emergency situations, 911 Response Centers may contact us for directions to a subscriber�s home. We will release this information unless you contact us in advance. 
+In emergency situations, 911 Response Centers may contact us for directions to a subscriber's home. We will release this information unless you contact us in advance. 
 
 **Complaint Procedure**  
 Subscribers may call their local service office to register complaints about the quality of the television signals they receive. 
@@ -93,12 +86,17 @@ In most cases, any complaints about technical quality of signals will be investi
 
 If the local service office is unable to resolve the problem, you may direct correspondence to: 
 
-Ephrata, Duncannon, Newberry Areas:   
-Tom Acker, P.O. Box 150, Ephrata, PA 17522 or call 717-733-4111   
-All Other Areas:   
-Richard A. Semmel, P.O. Box 215, Palmerton, PA 18071 or call 610-826-2551. 
+Ephrata, Duncannon, Newberry Areas:  
+Tom Acker  
+P.O. Box 150, Ephrata, PA 17522  
+or call 717-733-4111
 
-We are committed to resolving your complaints promptly. If you feel the complaint was not handled or resolved properly, you may wish to register a complaint with the local franchising authority. Calls may be directed to the Secretary of the Borough or Township in which you reside. 
+All Other Areas:  
+Jeff Crandall  
+P.O. Box 215, Palmerton, PA 18071  
+or call 610-826-2551
+
+We are committed to resolving your complaints promptly. If you feel the complaint was not handled or resolved properly, you may wish to register a complaint with the local franchising authority. Calls may be directed to the Secretary of the Borough or Township in which you reside.
 
 **Billing Procedure**
 
@@ -107,7 +105,7 @@ We are committed to resolving your complaints promptly. If you feel the complain
   3. Your first bill will reflect charges from the date of installation.
   4. Installation fees will be billed.
   5. If you receive a delinquent notice, the balance is required to be paid in full.
-  6. A fee is charged for returned checks.
+  6. A fee of $20 will be charged for returned checks.
   7. All disconnected accounts are required to return converters and remotes to a Blue Ridge Communications office. Disconnected accounts will be charged if they do not return their converter(s) and remote(s). However, credit will be given upon reconnection or return of converter(s) and remote(s).
 
 
@@ -116,43 +114,111 @@ We are committed to resolving your complaints promptly. If you feel the complain
 From time-to-time we will be monitoring/or recording customer phone calls in order to ensure quality customer service. 
 
 **Internet Privacy**  
-For ProLog Express customers, personally identifiable information is collected in the course of furnishing Internet access. We adhere to the provisions of the ProLog Acceptable use policy, which is found at <http://www.ptd.net/POLICIES-RES.html>. We comply with the Electronic Communications Privacy Act and all copyright laws including the Digital Millennium Copyright Act. We will provide personally identifiable subscriber information to authorized requestors upon receipt of a subpoena, search warrant, or court order without first notifying the subscriber. We do not retain personally identifiable information related to Internet access longer than is necessary for business purposes. We will periodically email you information from Blue Ridge and Blue Ridge marketing partners. To unsubscribe, follow the instructions in the email. 
+For Blue Ridge High Speed Internet customers, personally identifiable information is collected in the course of furnishing Internet access. We adhere to the provisions of the PenTeleData Acceptable use policy, which is found at <http://www.ptd.net/POLICIES-RES.html>. We comply with the Electronic Communications Privacy Act and all copyright laws including the Digital Millennium Copyright Act. In case of an emergency, we will provide personally identifiable subscriber information to authorized requestors upon receipt of a subpoena, search warrant, or court order without first notifying the subscriber. We do not retain personally identifiable information related to Internet access longer than is necessary for business purposes. We will periodically email you information from Blue Ridge and Blue Ridge marketing partners. To unsubscribe, follow the instructions in the email. 
 
 **Service Procedure**  
 The following Service Procedure adopted by Blue Ridge Communications is in compliance with the FCC standards.  
 
 
-  1. Standard installations will be performed within seven business days after an order has been placed. ("Standard means any installation located within 125 feet of existing distribution system.")
-  2. Excluding any conditions beyond the control of the operator, work on "Service Interruptions" will begin within 24 hours after the interruption becomes evident.
-  3. Installations and other installation related activities will be scheduled within a four-hour time period during normal business hours. If the installer is running late and will be unable to keep the appointment, it shall be rescheduled at the convenience of the customer.
+  1. Standard installations will be performed within seven business days after an order has been placed. (“Standard means any installation located within 125 feet of existing distribution system.”)
+  2. Excluding any conditions beyond the control of the operator, work on “Service Interruptions” will begin within 24 hours after the interruption becomes evident.
+  3. Installations and other installation related activities will be scheduled within a four hour time period during normal business hours. If the installer is running late and will be unable to keep the appointment, it shall be rescheduled at the convenience of the customer.
+  4. Service is provided consistent with 47USC 76.309.
 
 
 
 **Refund Policy**  
-When you terminate cable service with us, depending on what day of the month you terminate, you may receive a credit for those days of service which you prepaid and did not use the service. If the amount of the refund is $1.99 or less, it is our policy not to refund this amount to you due to the cost of processing. Amounts of $2.00 or greater will be automatically sent to you at the last address indicated on your bill. If you want the check sent to a new address, you must notify your local office. 
+When you terminate cable service with us, depending on what day of the month you terminate, you may receive a credit for those days of service which you prepaid and did not use the service.   
+If the amount of the refund is $1.99 or less, it is our policy not to refund this amount to you due to the cost of processing. Amounts of $2.00 or greater will be automatically sent to you at the last address indicated on your bill. If you want the check sent to a new address, you must notify your local office. 
 
 **Consumer Education**  
-Some older TV sets and VCRs do not have enough channel capacity to provide all of the channels we make available. A converter may be necessary to view these channels. The converter does not need to have descrambling capabilities. When using any cable converter you may not be able to benefit from some of the special functions of your TV set and VCR. For example: to view one channel while recording another; to watch and record two different TV shows at the same time; to use advanced picture generation and display features such as "picture in picture." Converters are available from local retailers or directly from Blue Ridge Communications. 
+Some older TV sets and VCRs do not have enough channel capacity to provide all of the channels we make available. A converter may be necessary to view these channels. The converter does not need to have descrambling capabilities. When using any cable converter you may not be able to benefit from some of the special functions of your TV set and VCR. For example: to view one channel while recording another; to watch and record two different TV shows at the same time; to use advanced picture generation and display features such as “picture in picture.” Converters are available from local retailers or directly from Blue Ridge Communications.  
+If Blue Ridge Communications has provided you with a remote control for use with a converter or other device, please be advised that compatible remote controls are available from retail outlets. Many remotes designated as “universal remotes” will operate the converter boxes. You may contact your local Blue Ridge Communications office for advice prior to purchasing a remote control. Digital customers: Instructions for parental controls are located at[ http://www.brctv. com/customer_care/troubleshooting/pdf/using_parental_control.pdf](http://www.brctv.com/customer_care/troubleshooting/pdf/using_parental_control.pdf) and in your welcome packet. Analog customers can find parental control instructions in the remote control manual. 
 
-If Blue Ridge Communications has provided you with a remote control for use with a converter or other device, please be advised that compatible remote controls are available from retail outlets. Many remotes designated as �universal remotes� will operate the converter boxes. You may contact your local Blue Ridge Communications office for advice prior to purchasing a remote control. 
+**BLUE RIDGE DIGITAL PHONE COMPANY**  
+Digital Phone service is provided through Blue Ridge Digital Phone Company. Subscriber rights and obligations are found in the tariff on file with the Pennsylvania Public Utility Commission and at: [http://www.brctv.com/prodserv/digital_phone/index.php](http://www.brctv.com/prodserv/digital_phone/index.php.). 
 
-Main Office: P.O. Box 215, 613 Third Street, Palmerton, PA 18071 Phone: (610) 826-2551 
+**Main Office** : P.O. Box 215, 613 Third Street  
+Palmerton, PA 18071  
+Phone: (610) 826-2551
 
 Branch Offices:  
-200 North First St., Lehighton, PA 18235 (610)377-2250  
-20 W. Ridge St., Lansford, PA 18232 (570) 645-5511  
-920 Ehler St., Stroudsburg, PA 18360 (570) 421-0780  
-P.O. Box 100, Route 209, Gilbert, PA 18331 (610) 681-6100  
-HC 89, Box 115A, Route 940, Pocono Summit, PA 18346 (570) 839-3550  
-46 North Academy St., Mansfield, PA 16933 (570) 662-2369  
-112 Bennett Ave., Milford, PA 18337 (570) 296-8200  
-P.O. Box 141, Dymond Terrace, Tunkhannock, PA 18657 (570) 836-5422  
-HC6 Box 6035, Route 6, Hawley, PA 18428 (570) 226-4914  
-P.O. Box 150, 804 Academy Heights Ave., Ephrata, PA 17522 (717) 733-4111  
-2800 Lewisberry Rd., York Haven, PA 17370 (717) 938-6501  
-Water Street, Duncannon, PA 17020 (717) 834-5715  
-15 Crafton St., Wellsboro, PA 16901 (570) 724-4516   
+**Duncannon Office**  
+1 Water Street Duncannon, PA 17020   
+Phone: (717) 834-5715   
+**Hours Sat** : 8am-noon
+
+**Ephrata Office**  
+Ephrata Office P.O. Box 150 804 Academy Heights Ave. Ephrata, PA 17522   
+Phone:(717) 733-4111   
+**Hours Sat** : 8am-noon
+
+**Gilbert Office**  
+P.O. Box 100 Route 209 & Ye Olde Professional Building Gilbert, PA 18331   
+Phone:(610) 681-6100   
+**Hours Sat** : 9am-1pm
+
+**Hawley Office**  
+2569 Route 6 Hawley, PA 18428   
+Phone:(570) 226-4914   
+**Hours Sat** : 9am-1pm
+
+**Lansford Office**  
+Lansford Office 20 W. Ridge St. Lansford, PA 18232  
+Phone:(570) 645-5511   
+**Hours Sat** : 9am-1pm
+
+**Lehighton Office**  
+200 North First St. Lehighton, PA 18235  
+Phone:(610) 377-2250   
+**Hours Sat** : 9am-1pm
+
+**Mansfield Office**  
+46 North Academy St. Mansfield, PA 16933  
+Phone:(570) 662-2369   
+**Hours Sat** : 9am-1pm
+
+**Milford Office**  
+112 Bennett Ave. Milford, PA 18337  
+Phone:(570) 296-8200   
+**Hours Sat** : 9am-1pm
+
+**Newberry/York Haven Office**  
+2800 Lewisberry Rd. York Haven, PA 17370   
+Phone:(717) 938-6501   
+**Hours Sat** : 8am-noon
+
+**Pencor Super Store**  
+656 Delaware Avenue Palmerton, PA 18071   
+Phone:(610) 826-9311   
+**Hours Sat** : 9am-1pm
+
+**Pocono Summit Office**  
+115A Route 940 Pocono Summit, PA 18346   
+Phone:(570) 839-3550   
+**Hours Sat** : 9am-1pm
+
+**Stroudsburg Office**  
+920 Ehler St. Stroudsburg, PA 18360   
+Phone:(570) 421-0780   
+**Hours Sat** : 9am-1pm
+
+**Tunkhannock Office**  
+P.O. Box 141 Route 29 & Dymond Terrace Tunkhannock, PA 18657   
+Phone:(570) 836-5422   
+**Hours Sat** : 9am-1pm
+
+**Walnutport Office**  
+239 Lehigh Gap Street Walnutport, PA 18088   
+Phone:(610) 767-6383   
+**Hours Sat** : 9am-1pm
+
+**Wellsboro Office**  
+15 Crafton St. Wellsboro, PA 16901   
+Phone:(570) 724-4516   
+**Hours Sat** : 9am-1pm  
   
-  
+[](http://www.brctv.com/prodserv/digital_cable/)
+
 |  |   
 ---
