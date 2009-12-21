@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415182607id_/http%3A//www.wordstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221094236id_/http%3A//www.wordstream.com/privacy-policy) for the most accurate reproduction.*
 
-# WordStream Privacy Policy
+# WordStream Privacy Policy | WordStream
 
 _Last Updated: December 4, 2008_ We at WordStream, Inc. ("WordStream") are constantly striving to provide excellent service to you while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site. When you visit our Web sites, you may be providing WordStream with information about your visit on two levels:
 
@@ -86,3 +86,18 @@ If you have comments or questions about our privacy policy, please Contact Us. W
 ## Changes to Policy
 
 WordStream will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy.
+
+**See Our Next Generation Keyword Tools:**
+
+  * [Keyword Analyzer](http://www.wordstream.com/keyword-analyzer)
+  * [Keyword Discovery Tool](http://www.wordstream.com/keyword-discovery-tool)
+  * [Keywords Generator](http://www.wordstream.com/keyword-generator)
+  * [Keyword Grouper](http://www.wordstream.com/keyword-grouper)
+  * [Keyword Research Tool](http://www.wordstream.com/keyword-research-tool)
+  * [Keyword Software](http://www.wordstream.com/keyword-software)
+  * [Keyword Suggestion Tool](http://www.wordstream.com/keyword-suggestion-tool)
+  * [Long Tail Keyword Tool](http://www.wordstream.com/long-tail-keyword-tool)
+  * [Negative Keyword Tool](http://www.wordstream.com/negative-keyword-tool)
+  * [SEO Keyword Tool](http://www.wordstream.com/seo-keyword-tool)
+
+
