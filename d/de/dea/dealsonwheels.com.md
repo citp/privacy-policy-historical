@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140942id_/http%3A//www.dealsonwheels.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063258id_/http%3A//www.dealsonwheels.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
