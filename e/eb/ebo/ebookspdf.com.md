@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookspdf.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014137id_/http%3A//www.ebookspdf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookspdf.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061002id_/http%3A//www.ebookspdf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Download PDF Ebooks Files
 
