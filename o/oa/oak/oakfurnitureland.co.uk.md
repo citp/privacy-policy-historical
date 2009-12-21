@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakfurnitureland.co.uk privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420020404id_/http%3A//www.oakfurnitureland.co.uk/gbu0-display/storepolicies/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakfurnitureland.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222002120id_/http%3A//www.oakfurnitureland.co.uk/page/storepolicies.html) for the most accurate reproduction.*
 
 # Store policies: Shop with confidence at Oak Furniture Land
 
