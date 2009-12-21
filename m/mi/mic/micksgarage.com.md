@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617092219id_/http%3A//www.micksgarage.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221030425id_/http%3A//www.micksgarage.ie/privacy.aspx) for the most accurate reproduction.*
 
 # Ireland's largest Car Parts and Used Cars website
 
@@ -44,7 +44,7 @@ We will not disclose your Personal Data to third parties unless you have consent
 **Your Personal Data is held on secure servers hosted by Hosting365.ie. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your Personal Data.
 
 **Updating, Verifying and Deleting Personal Data**  
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us via eMail at [ info@MicksGarage.ie](mailto:info@MicksGarage.ie) or via phone on 01-2401392. 
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us via eMail at [ info@MicksGarage.ie](mailto:info@MicksGarage.ie) or via phone on 00353-1-4406603. 
 
 **Changes to the Web Site Privacy Policy  
 **Any changes to this Web Site Privacy Policy will be posted on this web site so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Web Site Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
