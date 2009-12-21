@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531110242id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221072605id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Stock Gumshoe Investigates: Privacy Policy
 
@@ -10,4 +10,5 @@ Third parties, including Google and other advertising partners, may also be plac
 
 ——————————————
 
-[ ](http://www.tkqlhce.com/click-2591717-10378894)
+  
+
