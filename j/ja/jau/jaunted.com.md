@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaunted.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171543id_/http%3A//www.jaunted.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunted.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221021609id_/http%3A//www.jaunted.com/special/privacy) for the most accurate reproduction.*
 
 # Jaunted Privacy Policy || Jaunted
 
