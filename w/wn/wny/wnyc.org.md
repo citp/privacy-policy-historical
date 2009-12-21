@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617033735id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234141id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
 
 # WNYC - About WNYC
 
