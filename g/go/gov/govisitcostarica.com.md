@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622081610id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221225713id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy for Go Visit Costa Rica
 
@@ -53,8 +53,7 @@ Should you have any further questions or concerns about this privacy policy plea
 
 GoVisitCostaRica.com  
 Delfina Travel Group Inc.  
-936 Diamond St, Suite 8  
+936 Diamond St, Suite 4  
 San Diego, CA 92109  
 USA  
-Phone: (858) 581-9209  
-Fax: (858) 764-0624
+Phone / Fax: (858) 581-9209
