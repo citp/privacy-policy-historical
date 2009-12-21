@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604141636id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221045746id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Journal: Your News Network
+# Privacy Policy - Digital Journal
 
 DigitalJournal.com Privacy Policy 
 
@@ -14,7 +14,7 @@ What personal information is collected on DigitalJournal.com?
 
 All information collected is intended for creating and maintaining an account on www.digitaljournal.com, therefore we only collect information relevant to enhancing the user experience. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), your operating system (such as Windows Vista or Mac OSX), the time you visited our site and which pages you visited throughout our site. 
 
 We also use third party advertisements on digitaljournal.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Toronto real estate ads to someone in Toronto, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
