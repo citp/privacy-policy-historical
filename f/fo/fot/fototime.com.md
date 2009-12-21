@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617183138id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222001637id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.*
 
 # FotoTime - Privacy Statement
 
@@ -35,4 +35,4 @@ FotoTime gives users the following option for changing and modifying information
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-Privacy Issues  FotoTime, Inc.  6711 Atlanta Drive  Colleyville, TX 76034  [privacy@fototime.com](mailto:privacy@fototime.com)
+Privacy Issues  FotoTime, Inc.  3803 Cibola Trail  Carrollton, TX 75007  [privacy@fototime.com](mailto:privacy@fototime.com)
