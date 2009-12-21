@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the juno.com privacy policy that was archived on 2009-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090622074749id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juno.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221022934id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Juno - Privacy and Security</title>
@@ -105,7 +105,12 @@
    </tr>
    <tr>
     <td background="/static/start/view/img/www/juno/left-nav.png" width="184" height="33" class="s2">
-    <a href="/start/landing.do?page=www/signup/cd">Order a CD</a>
+
+	
+	
+		<a href="/start/landing.do?page=www/signup/cd">Order a CD</a>
+	
+
     </td>
    </tr>
    <tr>
@@ -313,6 +318,13 @@ Privacy Statement for Juno Members
 
 
 
+
+
+ 
+
+
+
+
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td align="right" valign="bottom"><a href="http://www.unitedonline.net/"><img src="/static/start/view/images/homepage/uol_juno_tag.gif" border="0"><img src="/static/start/view/images/homepage/uol.gif" width="83" height="29" border="0" alt="United Online"></a></td>
@@ -374,8 +386,6 @@ td.globalfooter { background-color:#FFF; border:1px solid #CCCCCC; padding:0px; 
 <td><a class="footerLink" style="color:#004182" href="http://www.juno.com" target="_blank">Juno Home</a></td>
 <td width="8" style="color:cccccc">|</td>
 <td><a class="footerLink" style="color:#004182" href="http://my.juno.com/s/sp" target="_blank">My Juno</a></td>
-<td width="8" style="color:cccccc">|</td>
-<td><a class="footerLink" style="color:#004182" href="http://track.netzero.net/s/lc?s=140588&amp;u=http://my.juno.com/start/ch.do" target="_blank">Channels</a></td>
 <td width="8" style="color:cccccc">|</td>
 <td><a class="footerLink" style="color:#004182" href="http://help.juno.com/support" target="_blank">Help</a></td>    
 <td width="8" style="color:cccccc">|</td>
@@ -545,11 +555,11 @@ var context = '';
 
 
 if(servlet != 'sp'){
-	logPageView(servlet,pname,'0461E1B51620F7644EC27E7BC32E8D73.DCA-AS19','http://track.juno.com',context);	
+	logPageView(servlet,pname,'D1DB8D4CEB33B33A23D01931D9481C9F.DCA-AS01','http://track.juno.com',context);	
 }
 
 function debug_pv_values(){
-	alert('servlet='+servlet+'\npname='+pname+'\nsID=0461E1B51620F7644EC27E7BC32E8D73.DCA-AS19\ntrackServer=http://track.juno.com\ncontext='+context)
+	alert('servlet='+servlet+'\npname='+pname+'\nsID=D1DB8D4CEB33B33A23D01931D9481C9F.DCA-AS01\ntrackServer=http://track.juno.com\ncontext='+context)
 }
 </script>	
 	
@@ -562,6 +572,11 @@ function debug_pv_values(){
 </script>
 
 <!-- start: google analytics -->
+<!-- No need track mypoints and stocksEow pages -->
+
+	
+	
+	
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -578,10 +593,20 @@ pageTracker._setDomainName(".juno.com");
 	
 
 pageTracker._setAllowLinker(true);
+pageTracker._setCampNameKey("refcd");
+pageTracker._setCampMediumKey("refcd");
+pageTracker._setCampSourceKey("refcd");
+pageTracker._setCustomVar(1,"MemberType","NonMember",3);
+pageTracker._setCustomVar(2,"referral","default",3);
 pageTracker._trackPageview(servlet+":"+pname);
-pageTracker._setVar("NonMember");
-} catch(err) { }
+} catch(err) {
+	var excepImg = (Image ? new Image(1, 1) : undefined);
+	var excep_url = 'http://my.juno.com/start/javascript.do?message=GA_Error::' + err.name + "::" + err.message + " on Page::" + servlet + ":" + pname;
+    if (excepImg) excepImg.src = excep_url;
+}
 </script>
+	
+
 
 <!-- end: google analytics -->
 
