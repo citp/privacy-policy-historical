@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the whatthetech.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620144044id_/http%3A//www.whatthetech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatthetech.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063922id_/http%3A//www.whatthetech.com/privacy) for the most accurate reproduction.*
 
-# Privacy | What the Tech
+# Privacy Policy | What the Tech
 
 **WhatTheTech.com Privacy**  
 Your private information is not a commodity for this site or anyone else to buy, sell, or trade. WhatTheTech has no interest in who you are or trying to find out.
 
-If you have questions or concerns regarding this policy, [contact us](http://www.tomcoyote.org/contact "Contact Us").
+If you have questions or concerns regarding this policy, [contact us](http://www.whatthetech.com/contact "Contact Us").
 
 WhatTheTech is owned and operated by Geeks to Go, Inc. ([www.geekstogo.com](http://www.geekstogo.com/ "Geeks to Go"))
 
@@ -18,9 +18,14 @@ We use email links throughout the site to allow you to contact us directly with 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
 **Cookies**  
-Session cookies are used on this site in order to manage the registration and login process. Information used only relates to activity on WhatTheTech No additional data is captured or used for any other purpose other than what has been stated above.  
-Log Files
+Session cookies are used on this site in order to manage the registration and login process. Information used only relates to activity on WhatTheTech No additional data is captured or used for any other purpose other than what has been stated above.
 
+**Advertising Cookies**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+Google, as a third party vendor, [uses cookies](http://www.google.com/privacy_cookies.html) to serve ads.  Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+**Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **Links**  
@@ -33,15 +38,11 @@ Geeks to Go takes every precaution to protect our users’ information. When use
 
 The servers that store personally identifiable information are in a secure environment, behind a locked cage.
 
-If users have any questions about the security at our Web site, users can send an email using our [contact form](http://www.tomcoyote.org/contact "Contact Us").
+If users have any questions about the security at our Web site, users can send an email using our [contact form](http://www.whatthetech.com/contact "Contact Us").
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-If at any point, we change how we use a users’ personally identifiable information in a manner different from that stated at the time of collection, the user will be notified via email and they may opt out at that time.
-
-This policy only covers this website: www.WhatTheTech.org
+This policy only covers this website: www.WhatTheTech.com
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please [contact us](http://www.tomcoyote.org/contact "Contact Us").
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+If users have any questions or suggestions regarding our privacy policy, please [contact us](http://www.whatthetech.com/contact "Contact Us").
