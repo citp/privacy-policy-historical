@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leagueathletics.com privacy policy that was archived on 2009-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090622160404id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leagueathletics.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221172252id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -7,13 +7,13 @@
 <!-- Copyright (c) 2000-2009 by LeagueAthletics.com, LLC. Tel: (888) 932-6747, email: Info@LeagueAthletics.com -->
 <!-- No portion of this web site may be used without written permission -->
 
-
 <meta name="description" content="We provide high quality sports websites, templates, layouts as well as online registration for sports organizations, clubs, leagues &amp; teams of all kinds, including Baseball, Basketball, Football, Hockey, Lacrosse, Rugby, Soccer, Softball, Swimming.  Featu">
-<meta name="keywords" content="Sports Websites, LALLC, LeagueAthletics.com, LLC., , 0650, Sports Registration, athletic, league, association, team, sports, website, coach, schedule, scores, messages, player statistics">
+<meta name="keywords" content="Software, LA, LeagueAthletics.com, LLC., Tucson, AZ, 06850, , athletic, league, association, team, sports, website, coach, schedule, scores, messages, player statistics">
+
 <meta http-equiv="X-UA-Compatible" content="IE=7">
 
 <link rel="shortcut icon" type="image/ico" href="/images/Favicon/Favicon.ico">
-<!-- 7 -->
+<!-- 9 -->
 
 <style type="text/css">@import url("/CPanel/LAContent.css");</style>
 
@@ -64,6 +64,12 @@ a.menu, a.menu:visited {
 	color: #FFFFFF;	 
 	background-color: #003399;	
 	border-color: #5083E9 #000 #000 #5083E9;
+}
+
+a.menudown, a.menudown:visited { 
+	color: #FFFFFF;
+	background-color: #000033; 
+	border-color: #000 #5083E9#5083E9 #000; 
 }
 
 a.menu:hover { 
@@ -165,6 +171,9 @@ div#navlist ul ul {
 }
 
 
+#navlist h2, #navdropdown h2 {
+	background-color: #B6E9FF;
+}
 
 
 
@@ -306,13 +315,12 @@ h1 {
 	verticle-align: middle;
 	text-align: center;	
 	position: relative;
-	z-index: 0;
 	width: 90%;		
 	left: 5%;
 }
 
 
-table.TitleBar, td.TitleBar {
+table.TitleBar, td.TitleBar, div.TitleBar {
 
 	background-image: url('http://files.LeagueAthletics.com/Images/Buttons/Glass/1003399.jpg');
 	background-position: top left;	
@@ -393,10 +401,13 @@ td.NewsTopRightCut {
 } 
 
 .News-center-content { 
-	position: relative; 
+	position: relative;
+	z-index: 0; 
+	overflow: hidden;
 	background: url(/Images/NewsBorder/rightside.gif) repeat-y right top; 
 	padding: 4px 14px 1px 12px; 
-	margin: 0px 0 0px 0; 
+	margin: 0px 0 0px 0;
+	
 } 
 
 .News-bottom { 
@@ -406,13 +417,13 @@ td.NewsTopRightCut {
 
 .News-bottom span { 
 	display: block; 
-	position: relative; 
 	height: 9px; 
 	background: url(/Images/NewsBorder/bottom-right.gif) no-repeat right top; 
 } 
 
 tr.History		{ display: none; }
 tr.Future		{ display: table-row; }
+tr.HideTeams	{ display: none; }
 
 /*Example CSS for the two demo scrollers*/
 
@@ -440,6 +451,8 @@ tr.Future		{ display: table-row; }
 
 #LAImage {display: none;}
 #HoneyPotImage {display: none;}
+
+
 
 </style>
 
@@ -491,7 +504,12 @@ function menuOff(ctrl) {
 </script>
 
 
+
 <title>Privacy Policy</title></head>
+
+
+
+
 
 
 
@@ -504,14 +522,27 @@ function menuOff(ctrl) {
 	if (document.getElementById("oMissionStatement")) {
 		if (logedIn == 0) document.getElementById("oMissionStatement").style.display = "none"
 	}
+	
+function setCookie(cookieName, cookieValue, nDays) {
+	var today = new Date();
+	var expire = new Date();
+	if (nDays == null || nDays == 0) nDays = 1;
+
+	expire.setTime(today.getTime() + (3600000 * 24 * nDays));
+
+	document.cookie = cookieName + "=" + escape(cookieValue)
+					+ ";expires=" + expire.toGMTString()
+					+ ";path=/";
+}
 </script>
 <table id="Container" align="center" border="0" cellpadding="0" cellspacing="0" width="800"> <!--  style="height: 100%; float: none;"> -->
   <tbody><tr>
     <td valign="top">
 
-
 <script language="javascript" type="text/javascript">
 function searchFocus(obj) {
+	gTopBarHasFocus = true;
+	
 	if (obj.value == "Site Search") {
 		obj.value = "";
 		obj.style.color = "#000000";
@@ -541,28 +572,41 @@ function searchFocus(obj) {
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 
-
-
-
-
 <tbody><tr><td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-left: 1px solid #C0C0C0; border-right: 1px solid #000000; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #000000;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"> <!-- style="border-left: 1px solid #C0C0C0; border-right: 1px solid #000000; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #000000;"> -->
 	
+
+
   <tbody><tr>
-    <td id="oBanner" bgcolor="#000099" align="Center">
-      <img src="http://files.LeagueAthletics.com/Images/Logos/0_banner.jpg" border="0" alt="LeagueAthletics.com, LLC., Sports Websites, Sports Registration, Sports League Websites">
+    <td id="oBanner" bgcolor="#000099" align="Center" onmouseover="document.getElementById('oTopBar').style.visibility='visible'; return true;" onmouseout="if (!gTopBarHasFocus) document.getElementById('oTopBar').style.visibility='hidden';">
+      <div style="position: relative;">
+      <img src="http://files.LeagueAthletics.com/Images/Logos/0_banner.jpg" border="0" alt="LeagueAthletics.com, LLC., Software, , ">
+
+      <div id="oTopBar" style="float: left; position: absolute; bottom: 4px; left: 4px; height: 24px; visibility: hidden;">
+
+      </div>
+<script language="javascript" type="text/javascript">
+var gTopBarHasFocus = false;
+
+function loginFocus(obj) {
+	gTopBarHasFocus = true;
+	
+	if (obj.style.color != "#000000") {
+		obj.value = "";
+		obj.style.color = "#000000";
+	}
+}
+</script>  
+
+
+
+
+
+
+      
+      </div>
     </td>
   </tr>
-
-  <tr>
-    <td bgcolor="#003399" align="right">
-<form action="http://www.google.com/search" method="get" style="margin-bottom: 0px;"><input type="hidden" name="output" value="googleabout"><input type="hidden" name="sitesearch" value="leagueathletics.com"><table height="16" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="center"><input type="image" border="1" src="/images/Logo_16gry.jpg"></td><td valign="bottom"><input type="text" name="q" size="20" value="Site Search" onfocus="searchFocus(this)" style="height: 14px; font-size: 8pt; font-weight: 600; color: #666666; border: 1px inset;"></td></tr></tbody></table></form>
-    </td>
-  </tr>
-
-        
-    
-
 
   <tr>
     <td>
@@ -576,8 +620,8 @@ function searchFocus(obj) {
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
     <ul>
-      <li><a href="/Default.asp?org=leagueathletics.com">Home</a></li>
       <li class="seperator">&nbsp;</li>
+      <li><a href="/Default.asp?org=leagueathletics.com">Home</a></li>
 <li><a href="/Page.asp?n=21281&amp;org=leagueathletics.com" title="">
 Contact Us</a>
 </li>
@@ -611,6 +655,7 @@ Childrens Privacy Policy</a>
       </li>
 
 
+
   </ul>
   
         </li>
@@ -621,7 +666,7 @@ Childrens Privacy Policy</a>
         <li style="z-index: 999;">
           <a class="menutab" href="/Page.asp?n=19683&amp;org=LEAGUEATHLETICS.COM">
           &nbsp;&nbsp;&nbsp;&nbsp;About Us&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <ul><li><a href="/Page.asp?n=19683&amp;org=leagueathletics.com" title="">
+    <ul><li class="seperator">&nbsp;</li><li><a href="/Page.asp?n=19683&amp;org=leagueathletics.com" title="">
 About Us</a>
 </li>
 <li><a href="/Page.asp?n=20845&amp;org=leagueathletics.com" target="_blank" title="">
@@ -630,7 +675,7 @@ Product Overview</a>
 <li><a href="/Page.asp?n=19685&amp;org=leagueathletics.com" title="">
 Contact Us</a>
 </li>
-    </ul>        </li>
+</ul>        </li>
       </ul>
     </td>
     <td nowrap="">
@@ -638,7 +683,7 @@ Contact Us</a>
         <li style="z-index: 998;">
           <a class="menutab" href="/Page.asp?n=27070&amp;org=LEAGUEATHLETICS.COM">
           &nbsp;&nbsp;Product Information&nbsp;&nbsp;</a>
-    <ul><li><a href="/Page.asp?n=27070&amp;org=leagueathletics.com" title="">
+    <ul><li class="seperator">&nbsp;</li><li><a href="/Page.asp?n=27070&amp;org=leagueathletics.com" title="">
 Sports Websites</a>
 </li>
 <li><a href="/Page.asp?n=19672&amp;org=leagueathletics.com" title="">
@@ -656,7 +701,7 @@ Multi-Sport Websites</a>
 <li><a href="/Page.asp?n=19684&amp;org=leagueathletics.com" title="">
 <div class="MenuX">Pricing</div></a>
 <ul>
-<li><a href="/Page.asp?n=21245&amp;org=leagueathletics.com" title="">
+<li><a href="/Page.asp?n=27734&amp;org=leagueathletics.com" title="">
 Registration Savings</a>
 </li>
 
@@ -674,7 +719,7 @@ Terms of Use</a>
 <li><a href="/Page.asp?n=19688&amp;org=leagueathletics.com" title="">
 Cancellation</a>
 </li>
-    </ul>        </li>
+</ul>        </li>
       </ul>
     </td>
     <td nowrap="">
@@ -682,7 +727,7 @@ Cancellation</a>
         <li style="z-index: 997;">
           <a class="menutab" href="/Page.asp?n=23746&amp;org=LEAGUEATHLETICS.COM">
           &nbsp;&nbsp;Yearbook Builder&nbsp;&nbsp;</a>
-    <ul><li><a href="/Page.asp?n=23746&amp;org=leagueathletics.com" title="">
+    <ul><li class="seperator">&nbsp;</li><li><a href="/Page.asp?n=23746&amp;org=leagueathletics.com" title="">
 Overview</a>
 </li>
 <li><a href="/Page.asp?n=23808&amp;org=leagueathletics.com" title="">
@@ -697,7 +742,7 @@ Author Login</a>
 <li><a href="/Page.asp?n=23749&amp;org=leagueathletics.com" title="">
 Yearbook FAQs</a>
 </li>
-    </ul>        </li>
+</ul>        </li>
       </ul>
     </td>
     <td nowrap="">
@@ -705,16 +750,16 @@ Yearbook FAQs</a>
         <li style="z-index: 996;">
           <a class="menutab" href="/Page.asp?n=19691&amp;org=LEAGUEATHLETICS.COM">
           &nbsp;&nbsp;&nbsp;&nbsp;Support&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <ul><li><a href="/Page.asp?n=19691&amp;org=leagueathletics.com" title="">
+    <ul><li class="seperator">&nbsp;</li><li><a href="/Page.asp?n=19691&amp;org=leagueathletics.com" title="">
 Home</a>
 </li>
-      <li>        <a href="/CPanel/Instructions.asp?org=leagueathletics.com">        Website Manual</a>      </li>      <li>        <a href="/CPanel/Resources.asp?org=leagueathletics.com">        Other Resources</a>      </li>    </ul>        </li>
+      <li>        <a href="/CPanel/Instructions.asp?org=leagueathletics.com">        Website Manual</a>      </li>      <li>        <a href="/CPanel/Resources.asp?org=leagueathletics.com">        Other Resources</a>      </li></ul>        </li>
       </ul>
     </td>
     <td nowrap="">
       <ul>
         <li>
-          <a class="menutab" href="/CPanel/NewFeatures.asp?org=leagueathletics.com">&nbsp;&nbsp;&nbsp;&nbsp;
+          <a class="menutab" href="/CPanel/?org=leagueathletics.com">&nbsp;&nbsp;&nbsp;&nbsp;
           Admin&nbsp;<img border="0" src="/images/Lock.gif" align="top">&nbsp;&nbsp;&nbsp;&nbsp;</a>
         </li>
       </ul>
@@ -730,13 +775,10 @@ Home</a>
 </tbody></table>
 
 
-
-<!-- <table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#000000" style="height: 100%; border-style:solid; border-width:1px; border-collapse: collapse"> -->
-<!-- <table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#000033" style="height: 100%; border-collapse: collapse"> -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#000033" style="border-collapse: collapse">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#000033">
   <tbody><tr>
 
-    <td height="5" style="background: url('/images/ShadowBottom.gif') repeat-x top right;"></td>
+    <td bgcolor="#FFFFFF"></td>
         
   </tr>
   
@@ -762,14 +804,13 @@ Home</a>
 	
 </script>        
 
-
-    <td id="PageBody" valign="top" bordercolor="#FFFFFF" class="LAPageContent" style="background-color: #FFFFFF;">
+    <td id="PageBody" valign="top" bordercolor="#FFFFFF" class="LAPageContent" style="background-color: #FFFFFF; min-height: 500px; height: 500px;">
 
 
       <table id="Container" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="height: 100%;">
         <tbody><tr>
           <td width="100%" height="100%" valign="top" style="height: 100%; padding-left: 3px; padding-right: 3px; padding-top: 4px">
-<table cellspacing="2" cellpadding="2" width="90%" align="center" summary="" border="0">
+<table border="0" cellspacing="2" summary="" cellpadding="2" width="90%" align="center">
     <tbody>
         <tr align="center">
             <td class="titles">
@@ -838,7 +879,7 @@ Home</a>
                             <td class="content">Postal<br>
                             Address:</td>
                             <td class="content">LeagueAthletics.com. Inc. <br>
-                            75 Weed Avenue, Norwalk, CT 06850</td>
+                            P.O. Box 778, Norwalk, CT 06856</td>
                         </tr>
                         <tr>
                             <td class="content" colspan="2">Email Address:&nbsp;&nbsp;&nbsp;
@@ -876,85 +917,105 @@ Home</a>
   </tr>
 </tbody></table>
     </td>
-  </tr>  
-</tbody></table>
-
-
-
-<table align="center" border="0" cellpadding="6" cellspacing="0" width="800" style="float: none; border-top: 2px solid #FFFFFF; border-bottom: 2px solid #666666;">
-  <tbody><tr>
-    <td align="center" bgcolor="#CCCCCC">
-      <font face="Verdana Arial">
-
-      Visitor #:
-      <span style="font-family: Fixedsys; font-size: 12; color: #FFCC00; background-color: #000000; border-left: 1px solid #666666; border-top: 1px solid #666666; border-bottom: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF">
-      &nbsp;<b>2,174,125</b></span>
-
-
-      &nbsp;&nbsp;&nbsp;
-
-      Translate this site:
-      <a href="TranslateSite.asp?url=leagueathletics.com&amp;lp=en_fr" title="Traduisez au Français">
-      <img border="0" src="/images/French.gif" width="26" height="16"></a>
+  </tr>
+  
+  
+  <tr>
+    <td class="LAPageFooter"> <!-- align="center" valign=middle> -->
+      <div style="float: left;">
       
-      <a href="TranslateSite.asp?url=leagueathletics.com&amp;lp=en_de" title="Übersetzen Sie zum Deutschen">
-      <img border="0" src="/images/German.gif" width="25" height="16"></a>
-
-      <a href="TranslateSite.asp?url=leagueathletics.com&amp;lp=en_it" title="Traduca ad italiano">
-      <img border="0" src="/images/Italian.gif" width="26" height="16"></a>
-
-      <a href="TranslateSite.asp?url=leagueathletics.com&amp;lp=en_pt" title="Traduza a Portugese">
-      <img border="0" src="/images/Portugese.gif" width="26" height="16"></a>
+        &nbsp;
+      </div>
       
-      <a href="TranslateSite.asp?url=leagueathletics.com&amp;lp=en_es" title="Traduzca al español">
-      <img border="0" src="/images/Spanish.gif" width="26" height="16"></a>
-
-
-
-      <br><hr>   
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<font size="2"><a class="contents" href="http://LeagueAthletics.com" target="_blank">
-Powered by <img border="0" align="center" src="/images/LogoMed.gif" alt="Sports webhosting and online registration">
-Sports Websites</a>
-</font>
-
-		<br> <!--&nbsp;&nbsp;|&nbsp;&nbsp; -->
-		
-        <a class="contents" href="/Page.asp?n=19687&amp;org=LeagueAthletics.com" target="_blank">
+      <div style="float: left; width: 420px; margin-top: 6px; text-align: left;">
+      
+      <div style="font-size: 10px; font-weight: bold;">
+        
+        <div style="float: left; margin-top: 1px; font-size: 9px; font-weight: normal; line-height: 1em;">        
+        © 2009 LeagueAthletics.com, LLC.<br>All rights reserved.</div>
+        
+        &nbsp;|&nbsp;
+        
+        <a class="contents2" href="/Page.asp?n=19687&amp;org=LeagueAthletics.com" target="_blank">
         Privacy Policy</a>
         
-        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;|&nbsp;
       
-        <a class="contents" href="/Page.asp?n=19686&amp;org=LeagueAthletics.com" target="_blank">
+        <a class="contents2" href="/Page.asp?n=19686&amp;org=LeagueAthletics.com" target="_blank">
         Terms of Use</a>        
-
+        
+        &nbsp;|&nbsp;
+        
+        <a class="contents2" href="http://www.leagueathletics.com/Page.asp?n=19683" target="_blank">
+        About Us</a>        
+        &nbsp;|
 
 		
-      <a href="/Clubs.asp?id=0" target="_blank" id="ClientClubs">
-      <font color="#FFFFFF">Client Clubs</font></a><font color="#FFFFFF"><br>
+        <a id="ClientClubs" class="contents2" href="/Clubs.asp?id=0" target="_blank">
+        Client Clubs</a>
 
-      <a href="/SportsWebsites/?id=0" target="_blank" id="ClientClubsByState">
-      <font color="#FFFFFF">Other Sports Websites</font></a><font color="#FFFFFF"><br>
+        <a id="ClientClubsByState" class="contents2" href="/SportsWebsites/?id=0" target="_blank">
+        Other Sports Websites</a>
+      </div><br>
         
-		</font>
+      <div style="font-size: 10px; font-weight: bold;">
+      
+      Visitor #:
+      <span style="font-family: Fixedsys; font-size: 12; color: #FFCC00; background-color: #000000; border-left: 1px solid #666666; border-top: 1px solid #666666; border-bottom: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF">
+      &nbsp;<b>4,173,365</b></span>      
 
-    </font></font></td>
+
+      
+      </div>
+      </div>
+
+      <div style="float: right; font-size: 9px; font-weight: bold; text-align: right;">
+      Powered By:
+      <a href="http://LeagueAthletics.com" target="_blank">
+       
+      <img align="middle" src="/images/LALogo60.png" border="0" alt="LeagueAthletics.com, sports websites, hosting &amp; Software registration" width="100" height="52" style="margin-left: 6px;">
+      
+      </a>
+      
+      
+      </div><br>
+    </td>
   </tr>
+
+
+
+
 </tbody></table>
+<br>&nbsp;<br>
 
 
 <script type="text/javascript">
 	var logedIn = -1;
 	if (document.getElementById("ClientClubs")) {
-		if (logedIn == 0) document.getElementById("ClientClubs").style.display = "none"
+		if (logedIn == 0) document.getElementById("ClientClubs").style.display = "none";
 	}
 
 	if (document.getElementById("ClientClubsByState")) {
-		if (logedIn == 0) document.getElementById("ClientClubsByState").style.display = "none"
+		if (logedIn == 0) document.getElementById("ClientClubsByState").style.display = "none";
 	}
 </script>        
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2070627-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 
 
