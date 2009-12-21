@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603013049id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005505id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
 
 # India Travel Guide, India Tourism & Travel Tips, privacy:Must See India
 
