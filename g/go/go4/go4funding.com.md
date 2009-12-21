@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4funding.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203203id_/http%3A//www.go4funding.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4funding.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221010459id_/http%3A//www.go4funding.com/privacy.aspx) for the most accurate reproduction.*
 
 # Go4Funding - Privacy Policy
 
@@ -32,4 +32,4 @@ If you have any questions about our privacy policy or suggestions on how to impr
 > Go4Funding, LLC  
 >  ATTN: Privacy Policy Issues  
 >  1122 Kenilworth Drive, Suite 418  
->  Towson, MD 21204
+>  Towson, MD 21204 
