@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150927id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061744id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Fragrance Shop
+
+[](https://web.archive.org/c622/dr-nose-perfume-finder.html)
 
   * [](https://web.archive.org/c25/member-benefits-loyalty-discounts-from-the-fragrance-shop.html)
   * [](https://web.archive.org/store/app/Custquotesview.asp)
@@ -64,6 +66,6 @@ The Fragrance Shop makes a commitment to protecting your privacy and promises o
   
 
 
-  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20090618150927id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
+  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20091221061744id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
 
 
