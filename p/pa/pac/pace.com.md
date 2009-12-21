@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171031id_/http%3A//www.pace.com/corporate/content/webcontent.asp%3Fnav%3Dpolicies%26fullid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/corporate/content/webcontent.asp%3Fnav%3Dpolicies%26fullid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Pace
 
@@ -52,10 +52,10 @@ We may amend this Privacy Policy from time to time. If we make any substantial c
 
  ** _* Pace websites include:_**
 
-  * [Pace Corporate ](https://web.archive.org/web/20090617171031id_/http%3A//www.pace.com/corporate/ "Pace Corporate  \(this link opens in a new window\)")(Business-to-Business (B2B) web site) 
-  * [Pace Americas ](https://web.archive.org/web/20090617171031id_/http%3A//www.pace.com/americas "Pace Americas  \(this link opens in a new window\)")(B2B web site for the American market) 
-  * [Pace EMEA](https://web.archive.org/web/20090617171031id_/http%3A//www.pace.com/emea/ "Pace EMEA \(this link opens in a new window\)") (B2B web site for Europe, the Middle East and Africa) 
-  * [Pace APAC](https://web.archive.org/web/20090617171031id_/http%3A//www.pace.com/apac/ "Pace APAC \(this link opens in a new window\)") (B2B web site for the Asia Pacific region) 
-  * [Pace Deutschland ](https://web.archive.org/web/20090617171031id_/http%3A//www.pace.com/deutschland "Pace Deutschland  \(this link opens in a new window\)")(German language B2B web site) 
+  * [Pace Corporate ](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/corporate/ "Pace Corporate  \(this link opens in a new window\)")(Business-to-Business (B2B) web site) 
+  * [Pace Americas ](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/americas "Pace Americas  \(this link opens in a new window\)")(B2B web site for the American market) 
+  * [Pace EMEA](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/emea/ "Pace EMEA \(this link opens in a new window\)") (B2B web site for Europe, the Middle East and Africa) 
+  * [Pace APAC](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/apac/ "Pace APAC \(this link opens in a new window\)") (B2B web site for the Asia Pacific region) 
+  * [Pace Deutschland ](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/deutschland "Pace Deutschland  \(this link opens in a new window\)")(German language B2B web site) 
 
 
