@@ -1,41 +1,129 @@
-<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616183920id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221061933id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<title>Salon: Salon Policy</title>
-	<link rel="alternate" type="application/rss+xml" href="http://feeds.salon.com/salon/index" title="Salon's Main RSS feed">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/base.css?updated=20080225-2">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/premium_ads.css">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/advertisements.css?updated=20080504">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/article.css?updated=20081217">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/990.css">
-	<link rel="alternate stylesheet" type="text/css" title="S++" media="all" href="http://images.salon.com/lib/styles/article_xlarge.css">
-	<link rel="alternate stylesheet" type="text/css" title="S+" media="all" href="http://images.salon.com/lib/styles/article_large.css">
-<!--[if lte IE 6]>
-	<style type='text/css'>
-		body { word-wrap: break-word; }
-		.clearfix { height: 1%; }
-	</style>
-<![endif]-->
-	<script type="text/javascript" src="http://images.salon.com/lib/util.js"></script>
-	<script type="text/javascript" src="http://images.salon.com/lib/video_dog.js?updated=20080520"></script>
-	<link rel="P3Pv1" type="text/xml" href="http://images.salon.com/w3c/p3p.xml">
-	<meta http-equiv="P3P" content="policyref=&quot;http://images.salon.com/w3c/p3p.xml&quot;">
-	<meta name="Pragma" content="no-cache">
-	<meta name="robots" content="noarchive">
+	<title>Salon: Salon Policy</title>
+	
+	<link rel="stylesheet" type="text/css" href="/css/960.css?20091123">
+<link rel="stylesheet" type="text/css" href="/css/header_body_footer.css?20091220">
+<link rel="stylesheet" type="text/css" href="/css/static.css?20091123">
+<link rel="stylesheet" type="text/css" href="/css/topic_widgets.css?20091123">
+   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/prototype.js?20091123"></script>
+   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/scriptaculous.js?20091123"></script>
+   <script type="text/javascript" charset="utf-8" src="http://images.salon.com/js/effects.js?20091123"></script>
+
+	<script type="text/javascript">
+		var adArray = new Array();
+	</script>
+
+   <script>
+     var showSiteMap = true;
+     function toggleMenu() {
+       if (showSiteMap) {
+         Element.toggleClassName($('sitemap-button'), 'open');
+         Element.toggleClassName($('sitemap-button'), 'closed');
+         Effect.BlindDown('sitemap-top', {duration: 0.5});
+         showSiteMap = false;
+       } else {
+         Element.toggleClassName($('sitemap-button'), 'closed');
+         Element.toggleClassName($('sitemap-button'), 'open');
+         Effect.BlindUp('sitemap-top', {duration: 0.5});
+         showSiteMap = true;
+       }
+	return false;
+    }
+    
+function toggleMostTab(tab) {
+
+	/* this is sad, but couldn't make an optimized version work. This'll do. - CW */
+	/* this is also redundant to something in /mc/cover/html_head.mc */
+
+	if (tab == 'read') {
+		$('most_letters').hide();
+		$('most_letters_tab').className = '';
+		$('most_emailed').hide();
+		$('most_emailed_tab').className = '';
+		$('most_read').show();
+		$('most_read_tab').className = 'here';
+	}
+	else if (tab == 'letters') {
+		$('most_read').hide();
+		$('most_read_tab').className = '';
+		$('most_emailed').hide();
+		$('most_emailed_tab').className = '';
+		$('most_letters').show();
+		$('most_letters_tab').className = 'here';
+	}
+	else {
+		$('most_letters').hide();
+		$('most_letters_tab').className = '';
+		$('most_read').hide();
+		$('most_read_tab').className = '';
+		$('most_emailed').show();
+		$('most_emailed_tab').className = 'here';
+	}
+}
+
+function SalonScroller() { 
+     
+}  
+
+SalonScroller.ad_x10_top = null;
+SalonScroller.ad_x10_bottom = null;
+
+SalonScroller.prototype.adjust = function() { 
+  try {
+    if ($('ad_x10_anchor') == null) { 
+        try {
+            var x10a = new Element('div', {id:'ad_x10_anchor'});
+            x10a.insert(" ");
+            var x10 = $('ad_x10');
+            x10.insert({before: x10a});
+            x10.style.zIndex = 0;
+        } catch (e) { 
+            return false;
+        } 
+    } 
+    SalonScroller.ad_x10_top = $('ad_x10_anchor').cumulativeOffset()['top'] - 10;
+    SalonScroller.ad_x10_bottom = $('sitemap-bottom').cumulativeOffset()['top'] - ($('ad_x10').getHeight() + 30);
+    var x10a = $('ad_x10_anchor'); 
+    var x10 = $('ad_x10');
+    var slide = document.viewport.getScrollOffsets();
+    if (slide['top'] >= SalonScroller.ad_x10_top 
+        && slide['top'] <= SalonScroller.ad_x10_bottom ) {
+            x10.style.position = 'fixed';
+            x10.style.top = '10px';
+            x10.style.left = (x10a.cumulativeOffset()['left'] - slide['left']) + 'px';
+    } else if (slide['top'] < SalonScroller.ad_x10_top ) { 
+        x10.style.position = x10a.style.position;
+        x10.clonePosition(x10a, {setWidth: false, setHeight: false});
+    } else if (slide['top'] > SalonScroller.ad_x10_bottom ) { 
+        x10.style.position = x10a.style.position;
+        x10.clonePosition(x10a, {setWidth: false, setHeight: false, offsetTop: SalonScroller.ad_x10_bottom - SalonScroller.ad_x10_top});
+    }
+  } catch (e) { } 
+}
+
+ 
+var salonScroller = new SalonScroller();
+
+Event.observe(window, "scroll", salonScroller.adjust);
+Event.observe(window, "resize", salonScroller.adjust);
+document.observe("dom:loaded", function() { 
+	SalonScroller.ad_x10_left = $('ad_x10').positionedOffset()[0];
+	SalonScroller.ad_x10_top = $('ad_x10').positionedOffset()[1];
+	$('comicsImage').addClassName('storyImage');
+});
 
 
-		<meta name="MSSmartTagsPreventParsing" content="TRUE">
-		<meta http-equiv="Pragma" content="no-cache">
-	</head>
-	<body class="clearfix">
+   </script>
 
 	<script type="text/javascript">
 	<!--
 		//configuration
-		OAS_location = 'http://judo.salon.com/RealMedia/ads/';
-		OAS_sitepage = 'www.salonmagazine.com/cover.html';
-		OAS_listpos = 'Top,Frame2,x10,x15,x45,x50,x80,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2';
+		OAS_location = 'http://www.salon.com/RealMedia/ads/';
+		OAS_sitepage = 'www.salonmagazine.com/news/content/large.html';
+		OAS_listpos = 'Top,Frame1,x10,x45,Right,Bottom,Bottom1,Position1,Position2';
 		OAS_query = '';
 		OAS_target = '_top';
 		//end of configuration
@@ -43,29 +131,67 @@
 		OAS_rn = '001234567890'; OAS_rns = '1234567890';
 		OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
 
+
 		document.write('<div id="topleft" class="ad_content" style="height: 0">');
 	//-->
-	</script><div id="topleft" class="ad_content" style="height: 0">
+	</script></head><body id="static"><div id="topleft" class="ad_content" style="height: 0">
 	<script type="text/javascript">
 	<!--
 		document.write('<SCR' + 'IPT type="text/javascript" language="JavaScript" src="' 
 			+ OAS_location + 'adstream_jx.ads/' + OAS_sitepage 
 			+ '/1' + OAS_rns + '@TopLeft"><\/SCRIPT>');
 	//-->
-	</script><script type="text/javascript" language="JavaScript" src="http://judo.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/cover.html/1157265602@TopLeft"></script>
+	</script><script type="text/javascript" language="JavaScript" src="http://www.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/news/content/large.html/1848424233@TopLeft"></script>
 	<script type="text/javascript">
 	<!--
 		document.write('</div>');
 
-		function OAS_NORMAL(pos) {
-			document.write('<A HREF="' + OAS_location + 'click_nx.cgi/' + OAS_sitepage 
-				+ '/1' + OAS_rns 
-				+ '@' + OAS_listpos 
-				+ '!' + pos 
-				+ '?' + OAS_query + '" TARGET=' + OAS_target + '>');
-			document.write('<IMG SRC="' + OAS_location + 'adstream_nx.cgi/' + OAS_sitepage 
-				+ '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
-		}
+
+    function OAS_urlgen(pos) { 
+        return OAS_sitepage 
+            + '/1' + OAS_rns 
+            + '@' + (pos ? pos + '!' + pos : OAS_listpos ) 
+            + '?' + OAS_query
+            ;
+    }
+
+    var ad_replacers = {
+                        Top   : 'Top1',
+                        Right : 'Right1',
+                        x10   : 'x11',
+                        Position2 : 'Position2'
+                       };
+
+    function OAS_refresh(pos) { 
+        var newPos = ad_replacers[pos];
+        if (newPos == null) return false;
+        var newAd_url = '/RealMedia/ads/adstream_sx.ads/' + OAS_urlgen(newPos);
+        if (newPos == pos) {
+            var newAd = new Ajax.Updater('ad_' + newPos, newAd_url);
+        } else { 
+            var oldFrameAd = $('ad_' + newPos);
+            if (oldFrameAd != null) oldFrameAd.remove;
+            var newAd = new Element('IFRAME', {
+                src: newAd_url, 
+                id: 'ad_' + newPos, 
+                'class': 'ad_content',
+                scrolling: 'no',
+                frameborder: 'no',
+                marginheight: '0px',
+                marginwidth: '0px',
+                allowtransparency: 'true'
+                }); 
+            $('ad_' + pos).update(newAd);
+            $('ad_' + newPos).display = 'inline';
+        }
+        return(pos + ' refreshed');
+    }
+
+    function OAS_NORMAL(pos) {
+        document.write('<A HREF="' + OAS_location + 'click_nx.cgi/' + OAS_url(pos) + '" TARGET=' + OAS_target + '>');
+        document.write('<IMG SRC="' + OAS_location + 'adstream_nx.cgi/' + OAS_url(pos) + '" BORDER=0></A>');
+    }
+
 	//-->
 	</script></div>
 
@@ -76,10 +202,9 @@
 			OAS_version = 10;
 		if (OAS_version >= 11)
 			document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' 
-				+ OAS_location + 'adstream_mjx.ads/' + OAS_sitepage 
-				+ '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+				+ OAS_location + 'adstream_mjx.ads/' + OAS_urlgen('') + '"><\/SCRIPT>');
 	//-->
-	</script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/cover.html/1157265602@Top,Frame2,x10,x15,x45,x50,x80,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2?"></script>
+	</script><script language="JavaScript1.1" src="http://www.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/news/content/large.html/1848424233@Top,Frame1,x10,x45,Right,Bottom,Bottom1,Position1,Position2?"></script>
 
 	<script type="text/javascript">
 	<!--
@@ -98,74 +223,326 @@
 
 
 
-<div class="ad_content" id="x45">
-	<script type="text/javascript">
-		<!--
-		OAS_AD('x45');
-		//-->
-	</script>
-</div>
 
-
-<div class="ad_content" id="top">
-	<script type="text/javascript">
-		<!--
-		OAS_AD('Top');
-		//-->
-	</script>
-</div>
+	
 
 
 
+<div id="site_container">
+
+<div id="header" class="clearfix">
+	<div id="masthead" class="container_12 clearfix">
+			<h1 id="logo">
+				<a href="/" target="_blank"><img width="93" height="86" src="http://images.salon.com/img/new/s_beta.png" alt="Salon"></a>
+			</h1>
+
+		<div id="topbar" class="clearfix">
+		
+			<div id="leftlinks">
+				<ul class="dropdowns">
+					<li>
+						<a href="#" class="drops" id="link_one" onclick="return false;" target="_blank">Hot Topics</a>
+						<ul id="box_ongoing" class="scriptaculously" style="display:none;">
+							
+	<li><a href="/entertainment/movies/films_of_the_decade/index.html" target="_blank">Films of the Decade</a></li>
+	<li><a href="/life/sex/index.html" target="_blank">Sex</a></li>
+	<li><a href="/entertainment/movies/directors_of_the_decade/index.html" target="_blank">Directors of the Decade</a></li>
+	<li><a href="/news/healthcare_reform/index.html" target="_blank">Healthcare Reform</a></li>
+	<li><a href="/news/crime/index.html" target="_blank">Crime</a></li>
+	<li><a href="/entertainment/tv/men_of_a_certain_age/index.html" target="_blank">Men of a Certain Age</a></li>
+	<li><a href="/news/abortion/index.html" target="_blank">Abortion</a></li>
+	<li><a href="/news/politics/barack_obama/index.html" target="_blank">Barack Obama</a></li>
+	<li><a href="/news/politics/2010_elections/index.html" target="_blank">2010 elections</a></li>
+	<li><a href="/entertainment/movies/the_young_victoria/index.html" target="_blank">The Young Victoria</a></li>
 
 
 
-<div id="member_options" class="clearfix">
-	<div id="member_options_content"><a href="https://sub.salon.com/login/">Salon Member log in</a>  | <a href="http://www.salon.com/help/">Help</a></div>
-	<div><a href="https://sub.salon.com/registration/">Benefits of membership</a></div>
-</div>
 
- 
+						</ul>
+					</li>
+					<li>
+						<a href="#" class="drops" id="link_two" onclick="return false;" target="_blank">Most Read</a>
+						<ul id="box_popular" class="scriptaculously" style="display:none;">
+								<li><a href="&#10;/entertainment/tv/men_of_a_certain_age/index.html?story=/ent/tv/iltw/2009/12/19/men_of_a_certain_age_community&#10;&#10;&#10;" target="_blank">"Men of a Certain Age," "Community": The meek inherit your TV</a></li>
+	<li><a href="&#10;/life/feature/2009/12/18/botox&#10;&#10;&#10;" target="_blank">My visit to the skin-torture doctor</a></li>
+	<li><a href="&#10;/news/healthcare_reform/index.html?story=/opinion/greenwald/2009/12/18/corporatism&#10;&#10;&#10;" target="_blank">The underlying divisions in the healthcare debate</a></li>
+	<li><a href="&#10;/news/healthcare_reform/index.html?story=/politics/war_room/2009/12/19/reid_healthcare_bill&#10;&#10;&#10;" target="_blank">A first look at the new Senate healthcare bill</a></li>
+	<li><a href="&#10;/news/politics/barack_obama/index.html?story=/opinion/feature/2009/12/18/candidate_promises&#10;&#10;&#10;" target="_blank">Candidate flip, president flop</a></li>
 
 
-	<div id="site_header" class="clearfix">
-		<div id="logo"><a href="/"><img src="http://images.salon.com/src/salon_logo.png" alt="Salon.com"></a></div>
-		<div id="b_container" class="clearfix">
-			<div id="b_content" class="clearfix">
-				<div id="user_status_bar" class="clearfix">
-					<div class="sitepass">
-						<span class="hidden">Watch a brief ad and read all Salon articles now:</span>
-						<script type="text/javascript">
+
+						</ul>
+					</li>
+				</ul>
+			</div>
+		
+			<div id="login">
+			
+<script type="text/javascript">
 <!--
-OAS_AD('Frame1');
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+function checkCookie(c_name)
+{
+myCookie=getCookie(c_name);
+if (myCookie!=null && myCookie!="")
+  {
+    return true;
+  }
+return false;
+}
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+ ";domain=salon.com;path=/"+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+function showAlert(message,pos_x,pos_y)
+{
+  $('alert_box').style.top = pos_y;
+  $('alert_box').style.left = pos_x;
+  $('alert_message').innerHTML = message;
+  $('alert_box').toggle();
+  return true;
+} 
+setCookie('SALON_SERVER','betaweb01',-1);
+setCookie('SALON_BETA','true',-1);
 //-->
-						</script>
-						<noscript><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/$ADSETUP@Frame1"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/$ADSETUP@Frame1" alt="" /></a></noscript>
-					</div>
-				</div>
-				<form action="http://search.salon.com/salonsearch.php" method="get" onsubmit="if(this.search.value == this.search.defaultValue &amp;&amp; this.breadth[0].checked == this.breadth[0].defaultChecked) { this.search.focus(); return false; }"><div id="search_bar"><label class="hidden" for="search_top">Search: </label><input type="text" name="search" id="search_top" value="Search" onfocus="if (this.value == this.defaultValue) this.value=&quot;&quot;;" onblur="if (this.value == &quot;&quot;) this.value = this.defaultValue;">&nbsp;&nbsp;<input type="submit" value="Go!">&nbsp;<input type="radio" name="breadth" value="salon" id="salon_radio" checked="checked"><label for="salon_radio">Salon</label>&nbsp;<input type="radio" name="breadth" value="all" id="web_radio"><label for="web_radio">The Web</label>&nbsp;<img src="http://images.salon.com/src/yahoo_search.png" alt="Powered by Yahoo!" width="125" height="27" style="margin: 5px 0 -5px 20px;"></div></form>
-				<ul id="main_nav_bar" class="clearfix">
-				<li class="first"><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/arts_entertainment/" title="Arts &amp; Entertainment">A&amp;E</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/books/">Books</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/comics/">Comics</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://www.salon.com/env/">Environment &amp; Science</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/mwt/">Life</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://www.salon.com/ent/movies/">Movies</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/news/">News &amp; Politics</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/opinion/">Opinion</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://open.salon.com/">Open Salon</a></li>
-				<li><a name="&amp;lid=cover_topnav&amp;lpos=text" href="http://dir.salon.com/topics/technology_business/" title="Technology &amp; Business">Tech &amp; Business</a></li>
+</script>
+				<ul class="dropdowns">
+					<li><a id="welcome_link" href="/help/feedback.html" target="_blank">Welcome, Tell us what you think »</a></li>
+<!--					<li><a id="goto_link" href="#" onclick="setCookie('SALON_SERVER','prodweb01',365);window.location.replace('http://www.salon.com/')">Go to present Salon</a></li> //-->
+					<li><a id="login_link" href="/login/" target="_blank">Login</a></li>
+					<li><a href="https://sub.salon.com/registration/">Sign up</a></li>
 				</ul>
 			</div>
 		</div>
+		<div id="middlebar">
+			<div class="ad_content" id="site_sponsor">
+				<script type="text/javascript">
+				   OAS_AD('Frame1');
+				</script>
+			</div>
+            <div class="ad_content " id="ad_Position1">
+	<script type="text/javascript"> <!--
+		OAS_AD('Position1');
+		// -->
+	</script>
+</div>
 
 
- 	</div>
-	<div class="clearfix" id="outer_container">
-		<div class="clearfix" id="main_column">
-			<div id="main_content">
-				<div id="article_body">
-					<p><b><font size="+1">Salon.com Privacy Policy</font></b></p>
+
+			<div id="search">
+                <form onsubmit="if(document.getElementById('search_top').value == document.getElementById('search_top').defaultValue) { this.search.focus(); return false; }" method="get" action="http://search.salon.com/salonsearch.php" id="search_form" name="search_form">
+					<input type="hidden" id="salon_radio" value="salon" name="breadth">
+					<input type="search" class="text" onblur="if (this.value == &quot;&quot;) this.value = this.defaultValue;" onfocus="if (this.value == this.defaultValue) this.value=&quot;&quot;;" value="Search" id="search_top" name="search">
+					<input type="submit" class="submit" value="Go">
+		        </form>
+			</div>
+		</div>
+		<div id="navwrap">
+		
+
+<div id="nav" class="clearfix">
+	<ul id="nav1">
+		<li><a id="nav_home" class="home" href="/" target="_blank">Salon</a></li>
+		<li><a id="nav_news" class="news" href="/news/" target="_blank">News</a></li>
+		<!-- <li><a id="nav_ent" class="ent" href="/entertainment/">Entertainment</a></li> //-->
+		<li><a id="nav_tech" class="tech" href="/technology/" target="_blank">Tech &amp; Biz</a></li>
+		<li><a id="nav_mwt" class="mwt" href="/life/" target="_blank">Life</a></li>
+		<li><a id="nav_movies" class="movies" href="/movies/" target="_blank">Movies</a></li>
+		<li><a id="nav_tv" class="tv" href="/tv/" target="_blank">TV</a></li>
+		<li><a id="nav_books" class="books" href="/books/" target="_blank">Books</a></li>
+		<li><a id="nav_food" class="food" href="/food/" target="_blank">Food</a></li>
+		<li><a id="nav_comics" class="comics" href="/comics/" target="_blank">Comics</a></li>
+		<li><a id="nav_store" class="store" href="http://store.salon.com/">Store</a></li>
+		<li id="expand_tab"><a href="#" id="sitemap-button" class="closed" onclick="return toggleMenu();" target="_blank">Full Menu</a></li>
+		<li><a id="nav_open" class="opensalon" href="http://open.salon.com/">Open Salon</a></li>
+	</ul>
+	<ul id="nav2" class="clearfix">
+                <li class="top_features"><span>Top Features:</span></li> 
+		<li><a class="war_room" href="/news/politics/war_room/" target="_blank">War Room</a></li>
+		<li><a class="glenn_greenwald" href="/news/opinion/glenn_greenwald/" target="_blank">Glenn Greenwald</a></li>
+		<li><a class="broadhseet" href="/life/broadsheet/" target="_blank">Broadsheet</a></li>
+		<li><a class="joan_walsh" href="/news/opinion/joan_walsh/" target="_blank">Joan Walsh</a></li>
+		<li><a class="camille_paglia" href="/news/opinion/camille_paglia/" target="_blank">Camille Paglia</a></li>
+		<li><a class="since_you_asked" href="/life/since_you_asked/" target="_blank">Since You Asked</a></li>
+		<li class="follow"><span>Follow Salon:</span> 
+			<a href="http://twitter.com/salonmedia" class="follow_twitter" target="_blank"><img src="http://images.salon.com/img/ui/twitter_icon.png"></a> 
+			<a href="http://www.facebook.com/pages/Salon/120680396518" class="follow_facebook" target="_blank"><img src="http://images.salon.com/img/ui/facebook.gif"></a> 
+			<a href="#" class="follow_newsletter" target="_blank"><img src="http://images.salon.com/img/ui/email_icon.gif"></a>
+		</li>
+	</ul>
+
+
+</div>
+
+		</div>
+		  <div id="alert_box" style="background: transparent url(http://images.salon.com/img/ui/carat_up_39f.png) 50% 4px no-repeat; width: 160px; position: absolute; z-index: 999; display: none;" onclick="setCookie('SALON_TOOLTIP','true',3); $('alert_message').toggle();">
+          <div id="alert_message" style="cursor: pointer; margin: 10px 8px; background: #39f; color: #fff; font: bold 13px helvetica, sans-serif; letter-spacing: 0px; padding: 6px; text-align: left; -moz-border-radius: 6px; -webkit-border-radius: 6px;"></div>
+        </div>
+	</div>
+
+<script type="text/javascript">
+<!--
+/*
+if ( !checkCookie('SALON_TOOLTIP') ) {
+var left = 720;
+}
+*/
+//-->
+</script>
+</div>
+<div class="sitemap_wrap">
+<div class="clearfix sitemap" id="sitemap-top" style="display: none">
+	<ul class="site-map-sections clearfix container_12">
+		<li class="grid_2">
+			<h3><a href="/news/" target="_blank">News</a></h3>
+			<ul>
+				<li><a href="/news/politics/war_room/" target="_blank">War Room</a></li>
+				<li><a href="/news/opinion/joan_walsh/" target="_blank">Joan Walsh</a></li>
+				<li><a href="/news/opinion/glenn_greenwald/" target="_blank">Glenn Greenwald</a></li>
+				<li><a href="/news/opinion/camille_paglia" target="_blank">Camille Paglia</a></li>
+				<li><a href="/news/opinion/joe_conason/" target="_blank">Joe Conason</a></li>
+				<li><a href="/news/opinion/garrison_keillor/" target="_blank">Garrison Keillor</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="/technology/" target="_blank">Tech &amp; Biz</a></h3>
+			<ul>
+				<li><a href="/technology/the_gigaom_network/" target="_blank">The GigaOM Network</a></li>
+				<li><a href="/technology/how_the_world_works/" target="_blank">How the World Works</a></li>
+				<li><a href="/technology/ask_the_pilot/" target="_blank">Ask the Pilot</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="/life/" target="_blank">Life</a></h3>
+			<ul>
+				<li><a href="/life/broadsheet/" target="_blank">Broadsheet</a></li>
+				<li><a href="/life/since_you_asked/" target="_blank">Since You Asked</a></li>
+				<li><a href="/life/pinched/" target="_blank">Pinched</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="/movies/" target="_blank">Movies</a></h3>
+			<ul>
+				<li><a href="/entertainment/movies/film_salon/" target="_blank">Film Salon</a></li>
+				<li><a href="/entertainment/movies/andrew_ohehir/" target="_blank">Andrew O'Hehir</a></li>
+				<li><a href="/entertainment/movies/stephanie_zacharek/" target="_blank">Stephanie Zacharek</a></li>
+				<li><a href="/entertainment/movies/our_picks/" target="_blank">Our Picks</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="/tv/" target="_blank">TV</a></h3>
+			<ul>
+				<li><a href="/entertainment/tv/i_like_to_watch/" target="_blank">I Like to Watch</a></li>
+				<li><a href="/entertainment/tv/our_picks/" target="_blank">Our Picks</a></li>			
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="/books/" target="_blank">Books</a></h3>
+			<ul>
+				<li><a href="/books/laura_miller/" target="_blank">Laura Miller</a></li>
+				<li><a href="/books/our_picks/" target="_blank">Our Picks</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="/food/" target="_blank">Food</a></h3>
+			<ul>
+				<li><a href="/food/francis_lam/" target="_blank">Francis Lam</a></li>
+				<li><a href="/food/kitchen_challenge/" target="_blank">Kitchen Challenge</a></li>
+			</ul>
+		</li>	
+	</ul>
+	<ul class="site-map-misc container_12 clearfix">
+		<li class="grid_2">
+			<h3><a href="/comics/" target="_blank">Comics</a></h3>
+			<ul>
+				<li><a href="/entertainment/comics/this_modern_world/" target="_blank">This Modern World</a></li>
+				<li><a href="/entertainment/comics/tom_the_dancing_bug/" target="_blank">Tom the Dancing Bug</a></li>
+				<li><a href="/entertainment/comics/the_k_chronicles/" target="_blank">The K Chronicles</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a href="http://store.salon.com/">Salon Store</a></h3>
+			<ul>
+				<li><a href="http://store.salon.com/">Product Gallery</a></li>
+				<li><a href="/store/the_latest_thing" target="_blank">The Latest Thing</a></li>
+				<li><a href="http://store.salon.com/page/about/">About Salon Store</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+            <h3>Communities</h3>
+            <ul>
+                <li><a href="http://letters.salon.com ">Letters</a></li>
+                <li><a href="http://open.salon.com/">Open Salon</a></li>
+                <li><a href="http://well.com/" target="_blank">The Well</a></li>
+                <li><a href="http://tabletalk.salon.com/">Table Talk</a></li>
+            </ul>
+        </li>
+		<li class="grid_2">
+			<ul>
+				<li><a href="/about/inside_salon/" target="_blank">Inside Salon Blog</a></li>
+				<li><a href="/about/" target="_blank">About Salon</a></li>
+				<li><a href="/about/staff/" target="_blank">Salon's Staff</a></li>
+				<li><a href="/about/hiring/" target="_blank">Salon Jobs</a></li>
+				<li><a href="/adsales/" target="_blank">Advertise in Salon</a></li>
+				<li><a href="http://www.salon.com/press/">Press Information</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<ul>
+				<li><a href="http://sub.salon.com/">Salon Premium</a></li>
+				<li><a href="http://personals.salon.com/">Salon Personals</a></li>
+				<li><a href="http://letters.salon.com/">Salon Letters</a></li>
+				<li><a href="http://www.salon.com/plus/mobile/">Salon Mobile</a></li>
+				<li><a href="https://sub.salon.com/newsletter/">Salon Newsletter</a></li>
+				<li><a href="http://www.salon.com/plus/rss/">Salon RSS</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<ul>
+				<li><a href="/help/" target="_blank">Contact &amp; Help</a></li>
+				<li><a href="/letters/corrections/" target="_blank">Corrections</a></li>
+				<li><a href="/ir/" target="_blank">Investor Relations</a></li>
+				<li><a href="/about/policy/" target="_blank">Privacy Policy</a></li>
+				<li><a href="/about/tos/" target="_blank">Terms of Service</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+		
+
+
+</div>
+
+
+<script type="text/javascript">
+  adArray.push('Top');
+</script>
+<div id="ad_postload_Top" class="ad_content">
+</div> 
+
+
+<div id="cols" class="container_12 clearfix">
+	<div id="col12" class="grid_10">
+		<div id="col1" class="grid_6 alpha">
+			<div class="static_content">
+				<p><b><font size="+1">Salon.com Privacy Policy</font></b></p>
 
 
 <p>Salon.com respects your right to the privacy of the personal information
@@ -229,7 +606,7 @@ you provide us on our Web sites. To that end, unless you designate otherwise or 
 
 </p><p><b><a name="tt"></a>Table Talk</b></p>
 
-<p>Salon.com visitors who register for our Table Talk community area provide us with a name, password and a working e-mail address. We use this information to set up your account. We do not sell or redistribute the Table Talk membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Table Talk or as needed to resolve issues that may arise with your Table Talk account.  The e-mail address you register with Salon.com will be posted in Table Talk if and when you post comments there, but you are free at any time to substitute an alternate e-mail address if you wish to keep the one you initially registered private.  Participants in Table Talk are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum.  For related information see the <a target="new" href="http://tabletalk.salon.com/Helpfile/FAQ.html">Salon Table Talk FAQ page</a>.</p>
+<p>Salon.com visitors who register for our Table Talk community area provide us with a name, password and a working e-mail address. We use this information to set up your account. We do not sell or redistribute the Table Talk membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Table Talk or as needed to resolve issues that may arise with your Table Talk account.  The e-mail address you register with Salon.com will be posted in Table Talk if and when you post comments there, but you are free at any time to substitute an alternate e-mail address if you wish to keep the one you initially registered private.  Participants in Table Talk are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum.  For related information see the <a target="_blank" href="http://tabletalk.salon.com/Helpfile/FAQ.html">Salon Table Talk FAQ page</a>.</p>
 
 
 <p><b>Promotion</b></p>
@@ -285,53 +662,36 @@ without your consent except (i) as  described in this privacy policy, or
 
 
 
-				</div>
 			</div>
 		</div>
-		<div id="side_column">
-
-				<div id="x15" class="ad_content" style="text-align: center; margin: 0 auto; 1em">
-				<script type="text/javascript">
-<!--
-OAS_AD('x15');
-//-->
-				</script>
-				<noscript><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/cover.html@x15"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/cover.html@x15" alt="" /></a></noscript>
-			</div>
-
-
-
-	
-<ul id="lh_nav">
-
-	<li>
-		<a href="/about/" class="subhead first">About Salon</a>
+		<div id="col2" class="grid_4 omega">
+			<div class="static_content">
+				<div class="about_nav">
+	<h2><a class="subhead first" href="/about/" target="_blank">About Salon</a></h2>
 		<ul>
-			<li><a href="/about/staff/">Salon's staff</a></li>
-			<li><a href="/about/hiring/">Job openings</a></li>
-			<li><a href="/about/letters/">Send letters</a></li>
-			<li><a href="/about/submissions/">Submit articles</a></li>
-			<li><a href="/about/policy/">Privacy policy</a></li>
-			<li><a href="/about/problems/">Report problems</a></li>
-			<li><a href="/about/codeofconduct/">Code of Conduct</a></li>
+			<li><a href="/about/staff/" target="_blank">Salon's staff</a></li>
+			<li><a href="/about/hiring/" target="_blank">Job openings</a></li>
+			<li><a href="/about/letters/" target="_blank">Send letters</a></li>
+			<li><a href="/about/submissions/" target="_blank">Submit articles</a></li>
+			<li><a href="/about/policy/" target="_blank">Privacy policy</a></li>
+			<li><a href="/about/problems/" target="_blank">Report problems</a></li>
+			<li><a href="/about/codeofconduct/" target="_blank">Code of Conduct</a></li>
+			<li><a href="/about/ways/" target="_blank">Ways to get Salon</a></li>
+			<li><a href="/adsales/" target="_blank">Advertise in Salon</a></li>
+			<li><a href="/about/reprints/" target="_blank">Reprint information</a></li>
+			<li><a href="/ir/" target="_blank">Investor relations</a></li>
 		</ul>
-	</li>
-	<li><a href="/about/ways/">Ways to get Salon</a></li>
-	<li><a href="/adsales/">Advertise in Salon</a></li>
-	<li><a href="/about/reprints/">Reprint information</a></li>
-	<li><a href="/ir/">Investor relations</a></li>
-	<li>
-		<a href="/press/" class="subhead">Press Information</a>
+		<hr>
+	<h2><a href="/press/" target="_blank">Press Information</a></h2>
 		<ul>
-			<li><a href="/press/fact/">Salon fact sheet</a></li>
-			<li><a href="/press/releases/">Press releases</a></li>
-			<li><a href="/press/bios/">Staff bios</a></li>
-			<li><a href="/press/awards/">Awards</a></li>
-			<li><a href="/press/quotes/">Press quotes</a></li>
+			<li><a href="/press/fact/" target="_blank">Salon fact sheet</a></li>
+			<li><a href="/press/releases/" target="_blank">Press releases</a></li>
+			<li><a href="/press/bios/" target="_blank">Staff bios</a></li>
+			<li><a href="/press/awards/" target="_blank">Awards</a></li>
+			<li><a href="/press/quotes/" target="_blank">Press quotes</a></li>
 		</ul>
-	</li>
-	<li>
-		<a href="/" class="subhead">Salon</a>
+		<hr>
+	<h2><a href="/" target="_blank">Salon</a></h2>
 		<ul>
 			<li><a href="http://dir.salon.com/topics/news/">News &amp; Politics</a></li>
 			<li><a href="http://dir.salon.com/topics/opinion/">Opinion</a></li>
@@ -340,149 +700,178 @@ OAS_AD('x15');
 			<li><a href="http://dir.salon.com/topics/books/">Books</a></li>
 			<li><a href="http://dir.salon.com/topics/mwt/">Life</a></li>
 			<li><a href="http://dir.salon.com/topics/comics/">Comics</a></li>
-			<li><a href="/dialogue/">Dialogue</a></li>
+			<li><a href="http://letters.salon.com/">Letters</a></li>
+			<li><a href="/letters/corrections/index.html" target="_blank">Corrections</a></li>
 		</ul>
 		<hr>
-		<ul>
-			<li><a href="http://letters.salon.com/">Letters</a></li>
-			<li><a href="/letters/corrections/index.html">Corrections</a></li>
-		</ul>
-	</li>
-	<li>
-		<span class="subhead">Salon Services</span>
+	<h2>Salon Services</h2>
 		<ul>
 			<li><a href="http://personals.salon.com/">Personals</a></li>
 			<li><a href="https://sub.salon.com/newsletter/">Newsletter</a></li>
-			<li><a href="/plus/rss/">Salon's RSS Feeds</a></li>
+			<li><a href="/plus/rss/" target="_blank">Salon's RSS Feeds</a></li>
 			<li><a href="http://jump.salon.com/rlink/www.salon.com/plus/reads/index.html">Salon Publications</a></li>
 			<li><a href="http://jump.salon.com/rlink/www.cafeshops.com/cp/store.aspx?s=salonstore">Salon Store</a></li>
 		</ul>
-	</li>
-	<li>
-		<span class="subhead">Participate</span>
+		<hr>
+	<h2>Participate</h2>
 		<ul>
 			<li>
-				<a href="http://tabletalk.salon.com/webx?">Table Talk</a>: Spirited Salon forums
-				<ul>
-					<li><a href="/tt/post/">Posts of the week</a></li>
-				</ul>
+				<a href="http://tabletalk.salon.com/webx?">Table Talk</a>: Spirited Salon forums. <a href="/tt/post/" target="_blank">Posts of the week</a>
 			</li>
 			<li>
-				<a href="http://www.well.com/">The Well</a>: Pioneering members-only discussions
-				<ul>
-					<li><a href="http://www.well.com/inkwell.vue/">What is the media not telling you?</a></li>
-				</ul>
+				<a href="http://www.well.com/" target="_blank">The WELL</a>: Pioneering members-only discussions. <a href="http://www.well.com/inkwell.vue/" target="_blank">What is the media not telling you?</a>
 			</li>
-			<li>
-				Sound Off
-				<ul>
-					<li><a href="/about/letters/index.html">Letter to the Editor</a></li>
-					<li><a href="http://www.salon.com/blogs/index.html">Salon Blogs</a></li>
-				</ul>
-			</li>
+			<li>Sound Off: <a href="/about/letters/index.html" target="_blank">Letters to the Editor</a></li>
+
 		</ul>
-	</li>
-	<li>
-		<span class="subhead">Ways to Get Salon</span>
+		<hr>
+	<h2>Ways to Get Salon</h2>
 		<ul>
-			<li><a href="/plus/mobile/">Salon Mobile</a>: Get Salon on your smart phone or PDA</li>
+			<li><a href="/plus/mobile/" target="_blank">Salon Mobile</a>: Get Salon on your smart phone or PDA</li>
 		</ul>
-	</li>
-</ul>
 
-	<div class="ad_content">
-	<script type="text/javascript" language="JavaScript1.1">
-<!--
-OAS_AD('Right1');
-//-->
-	</script>
-	<noscript><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/cover.html@Right1"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/cover.html@Right1" border="0" alt="" /></a></noscript>
-</div>
-
-
-
-	<div class="ad_content">
-	<script type="text/javascript" language="JavaScript1.1">
-<!--
-OAS_AD('Right2');
-//-->
-	</script>
-	<noscript><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/cover.html@Right2"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/cover.html@Right2" border="0" alt="" /></a></noscript>
-</div>
-
-
-
-	<div class="ad_content">
-	<script type="text/javascript" language="JavaScript1.1">
-<!--
-OAS_AD('Right3');
-//-->
-	</script>
-	<noscript><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/cover.html@Right3"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/cover.html@Right3" border="0" alt="" /></a></noscript>
-</div>
-
-
-
-		<div id="x35" class="ad_content">
-		<script type="text/javascript">
-<!--
-OAS_AD('x35');
-//-->
-		</script>
-		<noscript><a href="http://judo.salon.com/RealMedia/ads/click_nx.cgi/www.salonmagazine.com/cover.html@x35"><img src="http://judo.salon.com/RealMedia/ads/adstream_nx.cgi/www.salonmagazine.com/cover.html@x35" alt="" /></a></noscript>
-	</div>
-
-
-
-	<div class="adsense sidebar_group ad_content">
-	<script type="text/javascript">
-<!--
-	OAS_AD('x50');
-//-->
-	</script>
-</div>
-
-
-
+</div>			</div>
 		</div>
 	</div>
+
+	<div id="col3" class="grid_2">
+		<div class="box clearfix" id="promo">
+    <h2>Currently in Salon</h2>
+    
+    <ul>
+        <li>
+            <div class="mc_image"><a href="/life/sex/index.html?story=/mwt/feature/2009/12/20/sex_addiction" target="_blank"><img src="http://images.salon.com/life/feature/2009/12/20/sex_addiction/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/life/sex/index.html?story=/mwt/feature/2009/12/20/sex_addiction" target="_blank">Is sex addiction real?</a>
+            </div>
+            <div class="deck">It's spawned a VH1 show and an excuse for Tiger Woods. But some experts balk at the idea of being hooked on nooky</div>
+            <div class="byline">By Tracy Clark-Flory</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/entertainment/movies/directors_of_the_decade/index.html?story=/ent/movies/film_salon/2009/12/20/steven_soderbergh" target="_blank"><img src="http://images.salon.com/entertainment/movies/film_salon/2009/12/20/steven_soderbergh/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/entertainment/movies/directors_of_the_decade/index.html?story=/ent/movies/film_salon/2009/12/20/steven_soderbergh" target="_blank">Directors of the decade: No. 7: Steven Soderbergh</a>
+            </div>
+            <div class="deck">He may be frustratingly opaque and comically prolific, but he isn't afraid to gamble -- or fail</div>
+            <div class="byline">By Matt Zoller Seitz</div>
+        </li>
+        <li>
+            <div class="ad_content ad_content_refresh" id="ad_Position2">
+	<script type="text/javascript"> <!--
+		OAS_AD('Position2');
+		// -->
+	</script>
+</div>
+
+
+
+        </li>
+        <li>
+            <div class="mc_image"><a href="/books/laura_miller/index.html?story=/books/laura_miller/2009/12/20/happy" target="_blank"><img src="http://images.salon.com/books/laura_miller/2009/12/20/happy/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/books/laura_miller/index.html?story=/books/laura_miller/2009/12/20/happy" target="_blank">The freshman had a stroke</a>
+            </div>
+            <div class="deck">An extraordinary new memoir by a college jock whose brain began to bleed</div>
+            <div class="byline">By Laura Miller</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/entertainment/tv/men_of_a_certain_age/index.html?story=/ent/tv/iltw/2009/12/19/men_of_a_certain_age_community" target="_blank"><img src="http://images.salon.com/entertainment/tv/i_like_to_watch/2009/12/19/men_of_a_certain_age_community/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/entertainment/tv/men_of_a_certain_age/index.html?story=/ent/tv/iltw/2009/12/19/men_of_a_certain_age_community" target="_blank">"Men of a Certain Age," "Community": The meek inherit your TV</a>
+            </div>
+            <div class="deck">Lovable losers make a prime-time comeback, thanks to Ray Romano and some community college misfits</div>
+            <div class="byline">By Heather Havrilesky</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/entertainment/movies/andrew_ohehir/index.html?story=/ent/movies/andrew_ohehir/2009/12/20/dvds" target="_blank"><img src="http://images.salon.com/entertainment/movies/andrew_ohehir/2009/12/20/dvds/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/entertainment/movies/andrew_ohehir/index.html?story=/ent/movies/andrew_ohehir/2009/12/20/dvds" target="_blank">DVDs you should have seen -- but didn't</a>
+            </div>
+            <div class="deck">Special ho-ho-ho-infused, not-quite-gift-guide edition: MST3K, Wenders, film noir, wine snobs and more</div>
+            <div class="byline">By Andrew O'Hehir</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/food/kitchen_cabinet/index.html?story=/food/feature/2009/12/20/steven_kolpan_tara_thomas_holiday_memories" target="_blank"><img src="http://images.salon.com/food/feature/2009/12/20/steven_kolpan_tara_thomas_holiday_memories/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/food/kitchen_cabinet/index.html?story=/food/feature/2009/12/20/steven_kolpan_tara_thomas_holiday_memories" target="_blank">Latke scandals and papaya salad battles</a>
+            </div>
+            <div class="deck">Two stories of the miracles of holiday cooking</div>
+            <div class="byline">By Steven Kolpan and Tara Q. Thomas</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/life/feature/2009/12/18/botox" target="_blank"><img src="http://images.salon.com/life/feature/2009/12/18/botox/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/life/feature/2009/12/18/botox" target="_blank">My visit to the skin-torture doctor</a>
+            </div>
+            <div class="deck">It was scary and expensive. It was probably an affront to feminism. But hallelujah, Botox made me look younger</div>
+            <div class="byline">By Mary T. Kelly</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/news/healthcare_reform/index.html?story=/politics/war_room/2009/12/18/healthcare_prescriptions" target="_blank"><img src="http://images.salon.com/news/politics/war_room/2009/12/18/healthcare_prescriptions/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/news/healthcare_reform/index.html?story=/politics/war_room/2009/12/18/healthcare_prescriptions" target="_blank">Salon's prescriptions for the healthcare bill</a>
+            </div>
+            <div class="deck">How to improve the reform legislation -- without scrapping it and starting over</div>
+            <div class="byline">Emily Holleman</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/news/healthcare_reform/index.html?story=/opinion/conason/2009/12/18/dean_and_healthcare" target="_blank"><img src="http://images.salon.com/news/opinion/joe_conason/2009/12/18/dean_and_healthcare/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/news/healthcare_reform/index.html?story=/opinion/conason/2009/12/18/dean_and_healthcare" target="_blank">"It's unfair"</a>
+            </div>
+            <div class="deck">Howard Dean on why he doesn't support the Senate bill, which he calls "hocus pocus" reform</div>
+            <div class="byline">By Joe Conason</div>
+        </li>
+        <li>
+            <div class="mc_image"><a href="/food/eyewitness_cook/index.html?story=/food/francis_lam/2009/12/18/dave_arnold_nils_noren_red_hot_ale" target="_blank"><img src="http://images.salon.com/food/francis_lam/2009/12/18/dave_arnold_nils_noren_red_hot_ale/mc.jpg"></a></div>
+            <div class="headline">
+                <a href="/food/eyewitness_cook/index.html?story=/food/francis_lam/2009/12/18/dave_arnold_nils_noren_red_hot_ale" target="_blank">Red hot ale</a>
+            </div>
+            <div class="deck">Put away that tired old cranberry hooch. Dave Arnold and Nils Noren are going to set you up right</div>
+            <div class="byline">By Francis Lam</div>
+        </li>
+	</ul>
+</div>
+
+
+
+	</div>
+
+</div>
+
 	
-	<div id="bottom_ads">
-		<div class="ad_content" id="bottom">
-	<script type="text/javascript">
-		<!--
+	<div id="bottom_ads" style="clear: both; text-align: center;">
+		<div class="ad_content " id="ad_Bottom">
+	<script type="text/javascript"> <!--
 		OAS_AD('Bottom');
-		//-->
+		// -->
 	</script>
 </div>
 
 
 
-		<div class="ad_content" id="bottom1">
-	<script type="text/javascript">
-		<!--
+		<div class="ad_content " id="ad_Bottom1">
+	<script type="text/javascript"> <!--
 		OAS_AD('Bottom1');
-		//-->
+		// -->
 	</script>
 </div>
 
 
 
-		<div class="ad_content" id="bottom2">
-	<script type="text/javascript">
-		<!--
+		<div class="ad_content " id="ad_Bottom2">
+	<script type="text/javascript"> <!--
 		OAS_AD('Bottom2');
-		//-->
+		// -->
 	</script>
 </div>
 
 
 
-		<div class="ad_content" id="bottom3">
-	<script type="text/javascript">
-		<!--
+		<div class="ad_content " id="ad_Bottom3">
+	<script type="text/javascript"> <!--
 		OAS_AD('Bottom3');
-		//-->
+		// -->
 	</script>
 </div>
 
@@ -492,134 +881,189 @@ OAS_AD('x35');
 
 
 
+<div class="sitemap_wrap">
+	<div class="otherNews">
+	<h3>Other News</h3>
+	<div class="content clearfix">
+				<dl id="politics_daily" class="loner">
+			<dt><a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com" target="_blank"><img src="http://images.salon.com/img/partners/ID_politicsDaily.gif"></a></dt>
+			<dd>
+							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2009/12/20/axelrod-says-health-reform-supporters-are-on-the-one-yard-line/" target="_blank">Axelrod Says Health Reform Supporters Are on the 'One Yard Line'</a>
+							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2009/12/20/the-risk-of-being-the-deadline-president/" target="_blank">The Risk of Being the 'Deadline President'</a>
+							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2009/12/19/latest-round-up-of-obama-poll-ratings-by-state/" target="_blank">Latest Round-Up Of Obama Poll Ratings by State</a>
+							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2009/12/19/obamas-copenhagen-climate-deal-real-or-not/" target="_blank">Obama's Copenhagen Climate Deal: Real or Not?</a>
+							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com/2009/12/19/the-new-senate-health-bill-explainer-changes-you-should-know-a/" target="_blank">The New Senate Health Bill Explainer:  Changes You Should Know About</a>
+							<a name="&amp;lid=footer&amp;lpos=text" href="http://www.politicsdaily.com" class="readMore" target="_blank">Read more stories »</a>
+			</dd>
+				</dl>
+	</div>
+</div>
 
+
+	<div class="clearfix sitemap" id="sitemap-bottom">
+	<ul class="site-map-sections clearfix container_12">
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/news/" target="_blank">News</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/politics/war_room/" target="_blank">War Room</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/joan_walsh/" target="_blank">Joan Walsh</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/glenn_greenwald/" target="_blank">Glenn Greenwald</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/camille_paglia" target="_blank">Camille Paglia</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/joe_conason/" target="_blank">Joe Conason</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/news/opinion/garrison_keillor/" target="_blank">Garrison Keillor</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/technology/" target="_blank">Tech &amp; Biz</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/the_gigaom_network/" target="_blank">The GigaOM Network</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/how_the_world_works/" target="_blank">How the World Works</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/technology/ask_the_pilot/" target="_blank">Ask the Pilot</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/life/" target="_blank">Life</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/broadsheet/" target="_blank">Broadsheet</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/since_you_asked/" target="_blank">Since You Asked</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/life/pinched/" target="_blank">Pinched</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/movies/" target="_blank">Movies</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/film_salon/" target="_blank">Film Salon</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/andrew_ohehir/" target="_blank">Andrew O'Hehir</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/stephanie_zacharek/" target="_blank">Stephanie Zacharek</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/movies/our_picks/" target="_blank">Our Picks</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/tv/" target="_blank">TV</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/tv/i_like_to_watch/" target="_blank">I Like to Watch</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/tv/our_picks/" target="_blank">Our Picks</a></li>			
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/books/" target="_blank">Books</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/books/laura_miller/" target="_blank">Laura Miller</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/books/our_picks/" target="_blank">Our Picks</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/food/" target="_blank">Food</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/food/francis_lam/" target="_blank">Francis Lam</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/food/kitchen_challenge/" target="_blank">Kitchen Challenge</a></li>
+			</ul>
+		</li>	
+	</ul>
+	<ul class="site-map-misc container_12 clearfix">
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="/comics/" target="_blank">Comics</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/comics/this_modern_world/" target="_blank">This Modern World</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/comics/tom_the_dancing_bug/" target="_blank">Tom the Dancing Bug</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/entertainment/comics/the_k_chronicles/" target="_blank">The K Chronicles</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<h3><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/">Salon Store</a></h3>
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/">Product Gallery</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/store/the_latest_thing" target="_blank">The Latest Thing</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://store.salon.com/page/about/">About Salon Store</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+            <h3>Communities</h3>
+            <ul>
+                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://letters.salon.com ">Letters</a></li>
+                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://open.salon.com/">Open Salon</a></li>
+                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://well.com/" target="_blank">The Well</a></li>
+                <li><a name="&amp;lid=footer&amp;lpos=text" href="http://tabletalk.salon.com/">Table Talk</a></li>
+            </ul>
+        </li>
+		<li class="grid_2">
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/inside_salon/" target="_blank">Inside Salon Blog</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/" target="_blank">About Salon</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/staff/" target="_blank">Salon's Staff</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/hiring/" target="_blank">Salon Jobs</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/adsales/" target="_blank">Advertise in Salon</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/press/">Press Information</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://sub.salon.com/">Salon Premium</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://personals.salon.com/">Salon Personals</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://letters.salon.com/">Salon Letters</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/plus/mobile/">Salon Mobile</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/newsletter/">Salon Newsletter</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="http://www.salon.com/plus/rss/">Salon RSS</a></li>
+			</ul>
+		</li>
+		<li class="grid_2">
+			<ul>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/help/" target="_blank">Contact &amp; Help</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/letters/corrections/" target="_blank">Corrections</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/ir/" target="_blank">Investor Relations</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/policy/" target="_blank">Privacy Policy</a></li>
+				<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/tos/" target="_blank">Terms of Service</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+		
+
+
+</div>
 <div id="footer" class="clearfix">
-	<div id="address">
-	</div>
-	<div id="fine_print">
-		<ul>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/">Salon</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/about/" rel="nofollow">About Salon</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/help/" rel="nofollow">Contact &amp; Help</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/letters/corrections/">Corrections</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/adsales/" rel="nofollow">Advertise in Salon</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://personals.salon.com/" rel="nofollow">Salon Personals</a></li>
-			<li><a name="&amp;lid=footer&amp;lpos=text" href="/about/hiring/">Salon Jobs</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/plus/mobile">Salon Mobile</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/newsletter/">Salon Newsletter</a></li>
-                        <li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="/plus/rss">RSS Feeds</a></li>
-		</ul>
-		<ul>
-		<li class="title">Salon Premium:</li>
-                        
-			<li><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/login/?loginfrom&amp;pos=footer" rel="nofollow">Premium log in</a></li>
-			<li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="https://sub.salon.com/?whatis&amp;pos=footer">What is Salon Premium?</a></li>
-		</ul>
-		<ul>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/arts_entertainment/" title="Arts &amp; Entertainment">A &amp; E</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/books/">Books</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/comics/">Comics</a></li>
-                        <li>Community: <a name="&amp;lid=footer&amp;lpos=text" href="http://tabletalk.salon.com/webx?" style="border-right: 0">Table Talk</a> &amp; <a name="&amp;lid=footer&amp;lpos=text" href="http://well.com/">The WELL</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/mwt/">Life</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/news/">News &amp; Politics</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/opinion/">Opinion</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/sports/">Sports</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="http://dir.salon.com/topics/technology_business/">Tech &amp; Business</a></li>
-                        <li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="http://letters.salon.com/">Letters</a></li>
-		</ul>
-		<ul>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/ir/" rel="nofollow">Investor Relations</a></li>
-                        <li><a name="&amp;lid=footer&amp;lpos=text" href="/about/policy/" rel="nofollow">Privacy Policy</a></li>
-                        <li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="/about/tos/" rel="nofollow">Terms of Service</a></li>
-		</ul>
-		<p id="copyright">Copyright ©2009 Salon Media Group, Inc.  Reproduction of material from any Salon pages without written permission is strictly prohibited. SALON® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.</p>
-
+	<div id="footer_inner">
+		<p>Copyright ©2009 Salon Media Group, Inc.  Reproduction of material from any Salon pages without written permission is strictly prohibited.</p>
+		<p>SALON® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.</p>
+		<p>Associated Press articles: Copyright ©2009 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</p>
 	</div>
 </div>
 
-<script type="text/javascript" language="javascript" src="http://images.salon.com/js/ad_check.js"></script>
+<script type="text/javascript" language="javascript" src="/js/ad_check.js"></script>
+<script type="text/javascript" language="javascript" src="/js/util.js?20091124"></script>
+<script type="text/javascript">
+    auditLinkTargets('site_container');
+</script>
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
 
-<script src="http://images.salon.com/lib/hide_blank_ads.js" type="text/javascript"></script>
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script type="text/javascript" language="javascript">
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:6662697,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6662697&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 
-// PARSE QUERY STRING
-var hbx_query_params = new Array;
-var hbx_query_string = window.location.search.substring(1).split("&");
-for (var i=0; i<hbx_query_string.length; i++) {
-	hbx_query_param  = hbx_query_string[i].split("=");
-	hbx_query_params[hbx_query_param[0]] = (hbx_query_param[1]) ? hbx_query_param[1] : '';
-}
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+        _qoptions={ qacct:"p-88O9JRUYuy_46" };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-88O9JRUYuy_46.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
 
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="a.salon.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM540506EPZE38EN3";//ACCOUNT NUMBER(S)
-var hbx_pn_source = hbx_query_params['source'];
-hbx_pn_source = (hbx_pn_source && hbx_pn_source == 'refresh') ? "-" + hbx_pn_source : '';
-hbx.pn="story" + hbx_pn_source + "";//PAGE NAME(S)
-hbx.mlc="/about/policy/";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="manual";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="-1,-6,-2,3";//POPULATION GROUP ( SITEPASS )
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1=(hbx_query_params['source']) ? hbx_query_params['source'] : "";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-hbx.media="video_player";
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-	</script>
-	<script type="text/javascript" language="javascript1.1" src="http://images.salon.com/lib/hbx.js"></script>
-	<script type="text/javascript" language="javascript1.1" src="http://images.salon.com/lib/hbxmedia.js"></script>
-
-<!--END WEBSIDESTORY CODE-->
-
-
-
-
+<script type="text/javascript" language="javascript" src="http://images.salon.com/lib/hide_blank_ads.js?updated=20080312"></script>
 <!-- Salon functions for Omniture tracking -->
 <script type="text/javascript">
 <!--
@@ -658,6 +1102,13 @@ hbx.media="video_player";
 		return user;
 	}
 
+	var s_account;
+//	if (document.cookie.match('SALON_SERVER=.*beta')) { 
+		s_account = 'salonprod';
+//	} else { 
+//		s_account = 'salondev';
+//	}
+	
 	var omni = new Object();
 
 	omni.premiumUser = getCookieUser("omniture_vars", "&");
@@ -671,35 +1122,45 @@ hbx.media="video_player";
 		omni.premiumUser.SHOW_ADS = omni.premiumUserOld.SALN_SHOW_ADS;
 	}
 
+    // omni.title 
 	// unescape urlencoded page title
 	omni.title = unescape('');
-	// if it's empty, attempt to fill with last <h1> tag or first <h2> tag
+
+	// if it's empty, attempt to fill
+    // first, look for the first H2 in something with class "shead"
+   	if (omni.title == '') {
+	    var stories = $$('.shead>h2')
+	    if (stories.length) { 
+	        omni.title = stories[0].innerHTML;
+	    } 
+	}
+
+	// next, try last h1 ...
 	if (omni.title == '') {
 		var h1s = document.getElementsByTagName('h1'); 
 		if (h1s.length) { 
 			for (var n = 0; n < h1s.length; n++) {
 				if (h1s[n].innerHTML != '') {
 					omni.title = h1s[n].innerHTML; 
-					if (/<img.+alt=/mi.test(omni.title)) { 
-						omni.title = omni.title.replace(/^.+alt=('(.+?)'|"(.+?)").+$/m, "$2$3"); 
-					} 
-					omni.title = omni.title.replace(/<.*?>/g, ''); 
-					omni.title = omni.title.replace(/\s/mg, ' '); 
-					omni.title = omni.title.replace(/(^\s+|\s+$)/, ''); 
 				}
 			}
-		} else {
+		} else {    // ... or first h2
 			var h2s = document.getElementsByTagName('h2'); 
 			if (h2s.length) { 
 				omni.title = h2s[0].innerHTML; 
-				if (/<img.+alt=/.test(omni.title)) { 
-					omni.title = omni.title.replace(/^.+alt=('(.+?)'|"(.+?)").+$/, "$2$3"); 
-				} 
-				omni.title = omni.title.replace(/<.*?>/g, ''); 
 			}
 		}
 	} 
 
+	// if it contains an image, replace the whole thing with the image's alt text
+	if (/<img.+alt=/mi.test(omni.title)) { 
+		omni.title = omni.title.replace(/^.+alt=('(.+?)'|"(.+?)").+$/m, "$2$3"); 
+	} 
+
+	// remove remaining tags, convert and trim whitespace
+	omni.title = omni.title.replace(/<.*?>/g, ''); 
+	omni.title = omni.title.replace(/\s/mg, ' ');  			
+	omni.title = omni.title.replace(/(^\s+|\s+$)/g, ''); 
 
 	// figure out ad positions
 	omni.products = (typeof OAS_listpos == 'string') ? OAS_listpos : '';
@@ -710,12 +1171,11 @@ hbx.media="video_player";
 
 
 
-	// beat on blog permalinks
 
-	// set the highly dubious prop29 filed: 'TITLE' by BYLINE
 	omni.title_w_byline = "'" + omni.title + "'";
 	if (omni.byline != '') omni.title_w_byline += " by " + omni.byline;
 
+	omni.title_w_byline = "";
 
 //-->
 </script>
@@ -723,11 +1183,12 @@ hbx.media="video_player";
 <!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://images.salon.com/js/omniture.js?updated=20090126"></script>
+<script language="JavaScript" type="text/javascript" src="http://images.salon.com/js/omniture.js?updated=20091124"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.pageName = "/www/about/policy"
+s.channel 	= "www"
+s.pageName 	= "/www/about/policy"
 s.hier1 ="www,about,policy"
 s.products = omni.products
 s.prop1=""
@@ -751,6 +1212,7 @@ s.prop24= (omni.premiumUser != null && omni.premiumUser.ACCOUNT_ID) ? omni.premi
 s.prop26= ""
 s.prop28= (omni.premiumUser != null && omni.premiumUser.SHOW_ADS) ? omni.premiumUser.SHOW_ADS : 'Y';
 s.prop29= omni.title_w_byline
+s.prop40="about/policy"
 
 // link tracking
 s.hbx_lt = "auto" // manual, auto
@@ -790,28 +1252,38 @@ urchinTracker();
 </script>
 
 
-<!-- Start Quantcast tag --> 
-<script type="text/javascript">  
-	_qoptions={ qacct:"p-88O9JRUYuy_46" };  
-</script> 
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>  
-<noscript><img src="http://pixel.quantserve.com/pixel/p-88O9JRUYuy_46.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>  
-<!-- End Quantcast tag -->
+
+ <script type="text/javascript">
+    i=0;
+    document.write('<div id="ad_container_' + adArray[i] + '">');	
+</script><div id="ad_container_Top">
+<script type="text/javascript">
+   i=0;
+   OAS_AD(adArray[i]);
+</script>
+<script type="text/javascript">
+  document.write('</div>'); 
+</script></div>
+
+<script type="text/javascript">
+	for (var i=0; i < adArray.length; i++) {
+	  $('ad_postload_'+adArray[i]).innerHTML = $('ad_container_'+adArray[i]).innerHTML;	
+	  $('ad_container_'+adArray[i]).innerHTML = '';	
+	} 
+</script>
+
+<script type="text/javascript" src="/lib/hide_blank_ads.js"></script>
+
+ </div>
 
 
 
 
 
-	
 
 
 
 
-
-
-
-
-	
 
 
 </body></html>
