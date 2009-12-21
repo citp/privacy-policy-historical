@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215201658id_/http%3A//www.freedback.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221073722id_/http%3A//freedback.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HTML forms can be as simple as "Copy and Paste"
 
