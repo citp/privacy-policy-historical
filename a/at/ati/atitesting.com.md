@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193424id_/http%3A//www.atitesting.com/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221183153id_/http%3A//www.atitesting.com/global/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ATITesting.com
 
