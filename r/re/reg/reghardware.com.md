@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622222531id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222004703id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
