@@ -1,117 +1,143 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609212040id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221193707id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
-# Keen: Privacy Policy
+# AT&T Privacy Policy
 
-  | 
+#### Privacy Commitments
 
-Last Revised December 15, 2008
+AT&T takes your privacy very seriously. Our customers told us they want to see clear, easy-to-read information about our privacy commitments and policy. We have made our privacy policy easier to find and easier to read. And we're listening. We welcome your questions and feedback on our privacy policy, and invite you to [contact us](https://web.archive.org/gen/privacy-policy?pid=13692#contact).
 
-This Privacy Policy forms part of the Member Agreement and is incorporated by reference therein. This Privacy Policy covers information you may provide to Keen through the Keen.com website. Capitalized terms not defined herein will have the meanings set forth in the Member Agreement and related policies.   
-Your privacy is very important to us at Keen. Keen is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site Keen.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with AT&T — including customers (wireless, Internet, digital TV, and telephone) and Web site visitors. 
 
-[ ](http://www.truste.org/ivalidate.php?url=www.keen.com&sealid=101)
-
-  * What personally identifiable information of yours is collected;
-  * What organization is collecting the information; 
-  * How the information is used;
-  * With whom the information may be shared;
-  * What choices are available to you regarding collection, use and distribution of the information; 
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and 
-  * How you can correct any inaccuracies in the information.
+  * We will protect your privacy and keep your personal information safe. We use powerful encryption and other security safeguards to protect customer data. 
+  * We will not sell your personal information to anyone, for any purpose. Period.
+  * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
+  * We will notify you of revisions to our privacy policy, in advance. No surprises.
+  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control. 
+  * We're listening. You can send us questions or feedback on our privacy policy.
 
 
 
-If you have questions or concerns regarding this statement, you should first contact Keen by sending an email to [privacy@keen.com](mailto:privacy@keen.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Keen to resolve your concerns.  
-This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we've prepared a detailed policy because we believe you should know as much as possible about Keen's practices so that you can make an informed decision. 
+#### Privacy Policy
 
-1\. A Special Note About Children  
-2\. Security  
-3\. Information Keen Collects  
-4\. Our Disclosure of Your Information  
-5\. Member Account Cancellation Procedures  
-6\. Notification of Changes to our Privacy Policy
+##### Privacy Policy Scope
 
-**1\. A Special Note About Children.**  
-Children are not eligible to use Keen and we ask that minors (under the age of eighteen (18)) do not submit any personal information to us. 
+This Privacy Policy identifies and describes the way AT&T uses and protects the information we collect about Customers and Users. All use of AT&T's products and services, as well as visits to our Web sites, are subject to this Privacy Policy. 
 
-**2\. Security.**  
-Keen has certain security measures in place to help protect against the loss, misuse and alteration of the information under our control. We use Secure Socket Layer (SSL), which digitally encrypts your information as it is transferred from your computer to Keen. We take the following measures to protect user information once it is received by the Site: 
+##### The Information We Collect, How We Collect It, And How We Use It
 
-  * Employees have limited and controlled access to Member information;
-  * Measures have been taken so that servers and the data stored thereon are in a secure physical location;
-  * Security software is used where Keen determines it to be both appropriate and cost effective;
-  * Employees are informed of all security protocol on a regular basis, and
-  * Web security procedures are quality-assured weekly.  
-Although we strive to keep your personal information secure, no security measures are absolute and fool-proof and there is always a possibility that a security breach could occur, resulting in the release of a Member's data or information.
+We collect different types of personal and other information based on your use of our products and services and our business relationship with you. Some examples include: 
+
+  * _Contact Information_ that allows us to communicate with you -- including your name, address, telephone number, and e-mail address; 
+  * _Billing information_ related to your financial relationship with us -- including your payment data, credit history, credit card number, Social Security numbers, security codes, and service history; 
+  * _Equipment, Performance, AT &T Web Site Usage, Viewing and other Technical Information_ about your use of our network, services, products or Web sites. 
 
 
 
-**3\. Information Keen Collects.**  
-Our primary goal in collecting personal information from you is to provide you with a smooth and efficient experience while you're using Keen's website services, and to keep you informed of opportunities available on those services. This allows us to provide services and features that are designed to meet your needs, and to customize our service to make your experience easier and quicker. To this end, we may share information you provide with Keen-related entities worldwide eg. its parents, affiliates and subsidiaries and their successors and assigns (collectively herein "Keen Entities"). 
+We collect information in three primary ways:
 
-When you join Keen using our online registration form or by registering over the phone, we may collect your email address, Member name, real name, password, phone number and other personal information listed in the registration form. Your Member name is used throughout Keen to identify you to other Members. Therefore, you should be aware that if you use your real name as your Member name, this information will be visible to others who visit the Site. You can also join Keen via co-branded pages or co-branded phone numbers using the co-branded registration forms available on such pages or phone numbers. Keen will only use the information you provide to Keen by joining Keen through co-branded online registration forms, phone registration and through Keen's online registration form in accordance with this Privacy Policy. If you register as a Member through any co-branded pages or phone numbers, Keen may share your information with the partnering entity listed on the co-branded page or phone number. Prior to completing the registration on any co-branded page or phone number, Keen will notify you if your information will be shared with the partnering entity listed on the co-branded page or phone number. By completing the registration on a co-branded page or phone number, you consent to Keen's disclosure of your information in accordance with the notices displayed during the co-branded registration process. In such event, the use of your information by the partnering entity will be subject to the terms and conditions of such partnering entity's privacy policy, which may be less restrictive than this Privacy Policy. 
+  * You give it to us when you purchase or interact with us about a product or service we offer or provide;
+  * We collect it automatically when you visit our Web sites or use our products and services; 
+  * We obtain it from other sources, such as from credit agencies. 
 
-Because we connect Members by telephone, we require you to enter a valid telephone number to connect with other Members through Keen. At no time will we share your telephone number with any other Members with whom you communicate. Because Keen initiates all calls, other Members cannot see your telephone number—not even with Caller ID. Although the Keen system maintains the connection between the two parties, we do not monitor or record the content of any calls unless mandated by law. 
 
-We may use your email, mailing address and phone number to contact you regarding account activities, new product offerings and communications relevant to your use of Keen and its affiliates. If you do not wish to receive such communications from Keen you have the ability to stop receiving these mail communications by providing your Member name and email address in a [Customer Support](https://web.archive.org/Help/Support.aspx) form or by unchecking the box on the [My Personal Info](https://web.archive.org/secure/registration/updateReg.asp?) Page, which asks if you wish to receive such mailings. 
 
-You will, however, always receive administrative emails from Keen that are related to the usage and functionality of Keen. You may not opt-out of these administrative emails unless you cancel your membership. 
+We use the information we collect in a variety of ways, including to: 
 
-If you have an Advisor listing and/or are earning money on Keen, we collect additional information from you so we can process and remit to you your Advisor fees and/or verify your personal and/or listing information. We collect your mailing address to remit payments, and we collect your Social Security number and/or Federal Tax ID number to prepare Form 1099s if necessary and to help us verify your identity. Members who are not United States taxpayers will not be asked for their Social Security numbers or Federal Tax ID numbers, though they may need to report income to their local tax authority and may be required to provide equivalent evidence of their identity. 
+  * Provide you with the best customer experience possible;
+  * Provide the services you purchase, and to respond to your questions;
+  * Communicate with you regarding service updates, offers, and promotions;
+  * Deliver customized content and advertising that may be of interest to you;
+  * Address network integrity and security issues; 
+  * Investigate, prevent or take action regarding illegal activities, violations of our Terms of Service or Acceptable Use Policies; and 
+  * For local directory and directory assistance purposes. 
 
-Keen may collect credit card information when you create an Advisor listing, add money to your Member account or use your credit card to take advantage of special promotions. Keen uses a third party to process credit cards for billing purposes. This third party may store or retain a Member's personally identifiable information. In certain cases, we will also use credit card information to help us verify your identity. We do not charge or bill the credit card when we collect credit card information for identity verification purposes. You can review, update and change some of your personally identifiable information—including your email address, telephone number, password and PIN number—by clicking on the Personal Info link on the [My Account](https://web.archive.org/myaccount/default.asp) page. You can review, update or change your address and credit card information by going to the [My Account](https://web.archive.org/myaccount/default.asp) page on the Site, clicking on the link to the Payment Info page, and then clicking on the Credit Card Information link. You may correct, update or delete any of your Keen listings by clicking on the My Listings link on the [My Account page](https://web.archive.org/myaccount/default.asp). You may also update or correct information by filling out an updated [Customer Support](https://web.archive.org/Help/Support.aspx) form at [http://www.keen.com/Help/Support.aspx](https://web.archive.org/Help/Support.aspx) or you may write to Keen at Customer Support, Keen, 182 Howard Street, #826, San Francisco, CA 94105. 
 
-You may also provide Keen with additional profile information (such as experience, affiliations, on-call schedule, etc.) that is displayed publicly on the Site, on your home page or in your listings. Other than the profile information submitted by our Members, and except as noted herein, Keen does not disclose any personally identifying information to other Members without your permission. If you choose to use Keen forums or Keen blogs know that any personally identifiable information that you post can be read, collected, or used by others, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you provide in these Keen forums and Keen blogs. 
 
-Keen's Tell a Friend Program allows Members to earn money by referring their friends to our Site. The third-party contact information you enter as part of Keen's Tell a Friend program will be used only to personalize a one-time referral email sent to your friends. 
+##### Use of Location Information 
 
-Keen's Send a Scope offer allows members to send a single horoscope email to a friend. The third-party contact information you enter as part of the Send a Scope offer will be used only to personalize a one-time horoscope email sent to your friend in which they may request to. 
+  * When your wireless device is on, it sends periodic signals to the nearest cell site. We use that information to provide your wireless services; 
+  * You can use your wireless device to obtain a wide array of services based on the approximate location of the device, referred to as Location Based Services, or LBS. The information you receive in connection with your use of LBS may include advertisements related to your request and your location;
+  * If you purchase LBS from AT&T, the approximate location of your wireless device location information will be used or shared only with prior notice and your consent. The form of consent will be suited to the type of LBS you utilize. 
 
-We use information we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, identify potential liabilities, troubleshoot problems and enforce our Member Agreement. At times, we may look at your Member account information and transaction history to identify problems or resolve disputes. Moreover, such information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, our Members' personally identifiable information may not be completely removed from our databases in response to Member requests. 
 
-We may from time to time run promotions in which we ask Members or visitors for demographic information (like their zip code, state/province or age). We may also run contests on Keen in which we ask Members or visitors for demographic information. We use this data to tailor your experience, showing content that we think you might be interested in and displaying the content according to your preferences. We also use demographic information to determine eligibility for certain promotions and contests. 
 
-From time to time Keen may ask Members to participate in surveys. Such surveys may ask Members for contact information (like their email address). We may use contact information from our surveys to send you information about our company. 
+##### Online Activity Tracking and Advertising
 
-Keen may contain links to other sites. Keen is not responsible for the privacy practices or the content of such websites. We encourage you to review the policies of these sites. 
+  * We collect information about your activity on AT&T Web sites for a number of purposes using technologies such as cookies, Web beacons, widgets and server log files. 
+  * We and our non-AT&T advertising partners use that information, as well as other information they have or we may have, to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites. 
+  * To opt-out of ad matching by Yahoo! click [here](https://web.archive.org/web/20100820014920/http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html "opt-out"). To opt-out of targeting advertising from many other ad networks, click [here](https://web.archive.org/web/20100820014920/http://www.networkadvertising.org/ "opt-out"). 
 
-Keen also facilitates communication among Members through our on-site Mail system. Messages sent via Mail are identified only by your Member name. 
 
-Keen may use certain information collected from our Members in aggregate form to tailor our Members' experience at the Site, showing you content that we think you might be interested in, and displaying the content according to your preferences. Keen may also supplement the information you provide by purchasing information relating to you from third-party data providers. Keen uses this information to improve its marketing and promotional efforts. 
 
-Keen uses cookies. Cookies are small amounts of data sent to a user's browser from the Keen Web servers and stored on a user's computer's hard drive. Keen uses cookies to track the pages on the Site that our users visit. This allows us to collect aggregate information about usage on the Site. Keen may also use cookies to deliver content specific to Members' interests, and to keep track of Members' Member names and passwords so that Members do not have to re-enter them during a session. If you choose not to accept cookies, you will be unable to use the Site. 
+#####  Information Sharing
 
-Keen uses your IP addresses to help diagnose problems with our server and to administer the Site. Generally, IP addresses tell us the location from which a person is connecting to us, what service provider the person is using and which parts of the Site the Site user is visiting. We do not link IP addresses to anything personally identifiable. This means that your session will be tracked, but you will remain anonymous. We reserve the right to track IP addresses for the purposes of fraud prevention, and we reserve the right to release IP addresses to legal authorities. 
+With AT&T Companies: Subject to applicable legal restrictions, such as those that exist for [Customer Proprietary Network Information (CPNI)](https://web.archive.org/gen/privacy-policy?pid=2566 "CPNI") , the AT&T companies may share your Personal Information with each other to make sure your experience is as seamless as possible, and to make sure you have the full benefit of what AT&T has to offer.
 
-If you send Keen email correspondence, or if other Members or other third parties send us email or other correspondence regarding a particular Member's activities or postings on the Site, Keen may collect such information. 
+With Non-AT&T Companies: We share your Personal Information only with non-AT&T companies that perform services on our behalf, and only as necessary for them to provide those services to you. 
 
-Keen strictly enforces and requires that all Members comply with its [Anti-Spam Policy](https://web.archive.org/documents/help/spampolicy.asp). 
+  * We require those non-AT&T companies to protect any Personal Information they may receive in a manner consistent with this policy.
+  * We do not provide Personal Information to non-AT&T companies for the marketing of their own products and services without your consent.
 
-**4\. Our Disclosure of Your Information.**  
-Except as explicitly stated herein, we do not sell, rent or trade any personally identifiable information to third parties. In addition to the other circumstances of disclosure described in this Privacy Policy, Keen may disclose your personally identifiable information to third parties if you opt-in to having your personally identifiable information disclosed to such parties. When you consent to disclosure to such third parties, such third parties may use your information in accordance with their privacy policies, which may be less restrictive than this Privacy Policy. Keen may also disclose your personal information to appropriate authorities and to banks associated with your Member account in order to prevent or report suspected fraud and illegal activities, in order to prevent harm to any persons or if Keen believes in good faith that the law requires it. In some cases, the government can compel the disclosure of information about you, and Keen will need to comply, in which case you authorize it to do so. You also consent to Keen disclosing information about you in connection with disputes involving other Members, and to actual or potential parties to a lawsuit or action that Keen is or may become involved in, (a) if Keen is required to do so, (b) if Keen reasonably believes that such disclosures will potentially mitigate its liability, or (c) for Keen to enforce its rights. Keen may disclose some personally identifiable information to vendors and third-party service providers in connection with communications and payments to Members and other aspects of operating and promoting Keen's Site and Advisory Services. For example, Keen uses a third-party company to deliver Keen promotions, and we share your email address with this company unless you opt-out of receiving Keen's promotions by unchecking the box on the My Personal Info Page [http://www.keen.com/secure/registration/updateReg.asp?](https://web.archive.org/secure/registration/updateReg.asp) which asks if you wish to receive such mailings. 
 
-Keen may also exchange personally identifiable information among Keen Entities worldwide. If you are registering on any sites controlled by Keen Entities located in the European Union, your personally identifiable information must be disclosed to Keen affiliates outside of the European Union in order to allow Members worldwide to contact and be contacted by you. Therefore, as a condition of your membership you hereby agree and consent to the sharing of your personally identifiable information with Keen and Keen-Entities worldwide. 
 
-**5\. Member Account Cancellation Procedures.**  
-If you decide you would like to cancel your Member account on Keen, you will need to do one of the following:   
-Send us an email — including your Member name and email address — by filling out an updated support form at [http://www.keen.com/Help/Support.aspx](https://web.archive.org/Help/Support.aspx) asking us to cancel If you can't remember your Member name, send us the email address you provided when you joined. 
+In Other Circumstances: We may provide Personal Information to non-AT&T companies or other third parties for purposes such as:
 
-Send us mail to the following address:  
-Keen Cancel  
-Keen  
-182 Howard Street #826  
-San Francisco, CA 94105 
+  * Responding to 911 calls and other emergencies;
+  * Complying with court orders and other legal process; 
+  * Enforcing our agreements and property rights; and 
+  * Obtaining payment for our products and services, including the transfer or sale of delinquent accounts to third parties for collection
 
-**6\. Notification of Changes.**  
-We will notify you by email if there is a material change in our privacy practices or policies. We will take commercially reasonable measures to obtain written or active email consent from you if Keen will use the information collected from you in a manner different from that stated at the time of collection. We will also notify you by email and/or post the changes in this Privacy Policy thirty (30) days prior to a change and at that time you will be given the opportunity to accept or not accept the changes, or cancel your membership in the manner set forth in Paragraph 5 above. 
 
-If you have any questions about this Privacy Policy, the practices of this Site or your dealings with Keen, please contact us. 
 
-Email: [privacy@keen.com](mailto:privacy@keen.com)
+Aggregate or Anonymous Information: We may share aggregate or anonymous information in various formats with trusted non-AT&T entities for purposes such as: 
 
-Mailing Address:   
-Keen  
-182 Howard Street #826  
-San Francisco, CA 94105 
+  * Retail, marketing and advertising companies that offer products and services that may be of interest to you;
+  * Universities, laboratories and other entities that conduct scientific research; and
+  * Media research companies and entities that may use the data for purposes such as municipal planning and coordinating disaster responses.
 
-|  
+
+
+##### Our Online Privacy Policy for Children
+
+  * Our Web sites are not designed to attract children under the age of 13.
+  * We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from that child's parent or legal guardian. 
+  * We provide AT&T Smart Limits parental control tools available [here](https://web.archive.org/gen/sites/smartlimits?pid=8950 "Smart Limits"). 
+
+
+
+##### Safeguarding Your Information: Our Policy on Data Protection and Security
+
+  * We do not sell your Personal Information to anyone for any purpose. Period.
+  * We maintain information about you in our business records while you are a customer, or until it is no longer needed for business, tax, or legal purposes.
+  * We have implemented encryption or other appropriate security controls to protect Personal Information when stored or transmitted by AT&T.
+  * We require non-AT&T companies acting on our behalf to protect any Personal Information they may receive in a manner consistent with this Policy. We do not allow them to use such information for any other purpose.
+
+
+
+##### Customer Privacy Controls and Choices,
+
+  * You can review and correct your Personal Information collected by us.
+  * You can limit certain types of solicitation communications from AT&T, including marketing contacts made via telephone, e-mail and text messaging.
+  * We will provide you with notice of changes to this policy. 
+
+
+
+Visit our [Privacy Policy FAQ](https://web.archive.org/gen/privacy-policy?pid=13692) for more information. The Privacy Policy FAQ is an essential part of our Privacy Policy. 
+
+  * [Definitions](https://web.archive.org/gen/privacy-policy?pid=13692#definitions "Definitions")
+  * [Policy Scope](https://web.archive.org/gen/privacy-policy?pid=13692#scope "Policy Scope")
+  * [Information We Collect](https://web.archive.org/gen/privacy-policy?pid=13692#collect "Information We Collect")
+  * [Location Information](https://web.archive.org/gen/privacy-policy?pid=13692#location "Location Information")
+  * [Online Activity Tracking and Advertising](https://web.archive.org/gen/privacy-policy?pid=13692#tracking "Online Activity Tracking and Advertising")
+  * [Information Sharing](https://web.archive.org/gen/privacy-policy?pid=13692#sharing "Information Sharing")
+  * [Our Online Privacy Policy for Children](https://web.archive.org/gen/privacy-policy?pid=13692#children "Our Online Privacy Policy for Children")
+  * [Data Protection and Security](https://web.archive.org/gen/privacy-policy?pid=13692#protection "Data Protection and Security")
+  * [Customer Control](https://web.archive.org/gen/privacy-policy?pid=13692#controls "Customer Control")
+  * [Changes to This Policy](https://web.archive.org/gen/privacy-policy?pid=13692#changes "Changes to This Policy")
+  * [Contact Us About This Policy](https://web.archive.org/gen/privacy-policy?pid=13692#contact "Contact Us About This Policy")
+
+
+
+##### Your California Privacy Rights
+
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. As stated in this Privacy Policy, AT&T will not sell or share your Personal Information with non-AT&T companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at [privacypolicy@ATT.com](mailto:%20privacypolicy@ATT.com), or write to us at AT&T Privacy Policy, 208 S. Akard, Room 1825, Dallas TX 75202.
