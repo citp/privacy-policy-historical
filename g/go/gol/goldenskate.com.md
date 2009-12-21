@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617053026id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221021506id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Golden Skate's Privacy Policy
 
@@ -19,8 +19,8 @@
   * **MARKETPLACE**
   * [Accessories](https://web.archive.org/marketplace/accessories.shtml)
   * [Apparel](https://web.archive.org/marketplace/apparel.shtml)
+  * [Art, Gifts & Memorabilia](https://web.archive.org/marketplace/gifts.shtml)
   * [Boots & Blades ](https://web.archive.org/marketplace/boots.shtml)
-  * [Gifts & Memorabilia](https://web.archive.org/marketplace/gifts.shtml)
   * [Magazines](https://web.archive.org/marketplace/magazines.shtml)
   * [Music & Video Services](https://web.archive.org/marketplace/musicediting.shtml)
   * [Production Companies](https://web.archive.org/marketplace/productions.shtml)
@@ -28,7 +28,7 @@
   * [Training/Fitness Aids](https://web.archive.org/marketplace/training.shtml)
   * **RESOURCES**
   * [Fun & Games](https://web.archive.org/resources/fun.shtml)
-  * [Graphics & Art](https://web.archive.org/resources/graphics.shtml)
+  * [Graphics](https://web.archive.org/resources/graphics.shtml)
   * [International Results](https://web.archive.org/resources/international.shtml)
   * [Music & Program Info](https://web.archive.org/resources/music.shtml)
   * [Photography](https://web.archive.org/resources/photography.shtml)
@@ -37,7 +37,7 @@
   * [Reviews](https://web.archive.org/resources/reviews.shtml)
   * [Tape Trading](https://web.archive.org/resources/tapes.shtml)
   * [Technical Resources](https://web.archive.org/resources/technical.shtml)
-  * [Webzines & Forums](https://web.archive.org/resources/webzines.shtml)
+  * [Webzines, Forums, & Blogs](https://web.archive.org/resources/webzines.shtml)
 
 |    
 
