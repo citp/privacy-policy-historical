@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmaza.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015840id_/http%3A//www.musicmaza.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmaza.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005536id_/http%3A//www.musicmaza.com/privacy.html) for the most accurate reproduction.*
 
 # Music Maza : Privacy Policy
 
@@ -20,10 +20,16 @@ Opt Out
 If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may click here.
 
 Industry Efforts to Protect Consumer Privacy   
-Music Maza is committed to protecting the [privacy](http://www.musicmaza.com/privacy.php) of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. To review information regarding privacy practices on our Music Maza Web site, please click here. If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at [contact us](http://www.musicmaza.com/contact.php) page. We recommend that you periodically review this[ Privacy Statement](http://www.musicmaza.com/privacy.php), as Music Maza may update it from time to time. 
+Music Maza is committed to protecting the [privacy](http://www.musicmaza.com/privacy.php) of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. To review information regarding privacy practices on our Music Maza Web site, please click here. If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at contact us page. We recommend that you periodically review this[ Privacy Statement](http://www.musicmaza.com/privacy.php), as Music Maza may update it from time to time. 
 
 **Third Party Advertising**  
 We use [**Music Maza**](http://www.musicmaza.com/) and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
