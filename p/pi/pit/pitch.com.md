@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620000419id_/http%3A//www.pitch.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221065635id_/http%3A//www.pitch.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Kansas City Privacy Policy
 
