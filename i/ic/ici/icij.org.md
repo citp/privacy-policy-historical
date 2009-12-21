@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041038id_/http%3A//www.publicintegrity.org/about/our_organization/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221150847id_/http%3A//www.publicintegrity.org/about/our_organization/privacy_policy) for the most accurate reproduction.*
 
 # About The Center for Public Integrity | Our Organization - Privacy Policy and Terms of Use
 
