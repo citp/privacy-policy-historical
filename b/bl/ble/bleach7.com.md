@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bleach7.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140126id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleach7.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221175829id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Bleach 7 :: The First Source for Bleach 225, Bleach 362, Bleach Anime, Manga, Media, Info & More!
+# Bleach 7 :: The First Source for Bleach 251, Bleach 387, Bleach Anime, Manga, Media, Info & More!
 
 **Bleach 7 > Privacy Policy** **Privacy Policy**
 
@@ -26,4 +26,4 @@ Third Party websites may collect information from users of Bleach7.com, this inf
 **Website Policy Changes**  
 Bleach7.com reserves the right to change this, and any other policy located on our website at any time without notifying our users. If you have any comments, questions, or concerns regaurding this policy, or any other policy you may send them to us at [webmaster@bleach7.com](mailto:webmaster@bleach7.com).
 
-By continuing to access Bleach7.com and any of its affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleach7.com, and are also in agreeance with our [[Legal Disclaimer](https://web.archive.org/web/20090618140126id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=legaldisclaimer)] and [[Terms of Use](https://web.archive.org/web/20090618140126id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=termsofuse)].
+By continuing to access Bleach7.com and any of its affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleach7.com, and are also in agreeance with our [[Legal Disclaimer](https://web.archive.org/web/20091221175829id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=legaldisclaimer)] and [[Terms of Use](https://web.archive.org/web/20091221175829id_/http%3A//www.bleach7.com/%3Fpage%3Dprivacypolicy?page=termsofuse)].
