@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fueledbyramen.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616220139id_/http%3A//www.fueledbyramen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fueledbyramen.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222004141id_/http%3A//www.fueledbyramen.com/privacy) for the most accurate reproduction.*
 
 # Fueled By Ramen - Privacy Policy
 
@@ -125,37 +125,37 @@ Please note that e-mail communications will not necessarily be secure; according
   
 © 2007 Copyright Fueled By Ramen LLC | [Privacy Policy](http://www.fueledbyramen.com/privacy) | [Terms of Use](http://www.fueledbyramen.com/terms) | [ParentalGuide.org](http://www.parentalguide.org/) |  | 
 
-[](https://web.archive.org/web/20090616220139id_/http://fueledbyramen.com/releases/index.php?id=114)
+[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=122)
 
-**The Friday Night Boys**  
-Off The Deep End  
-In Stores: 06/09/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=72764)
+**A Rocket To The Moon**  
+On Your Side  
+In Stores: 10/13/09  
+[ **BUY NOW**](http://store.fueledbyramen.com/store/show/JFWXP)
 
-[](https://web.archive.org/web/20090616220139id_/http://fueledbyramen.com/releases/index.php?id=113)
+[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=121)
 
- **This Providence**  
-Who Are You Now?  
-In Stores: 03/17/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=71446)
+ **Paramore**  
+brand new eyes  
+In Stores: 09/29/09  
+[ **BUY NOW**](http://store.fueledbyramen.com/store/show/T8RU9)
 
-[](https://web.archive.org/web/20090616220139id_/http://fueledbyramen.com/releases/index.php?id=112)
+[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=120)
 
- **Cobra Starship**  
-Kiss My Sass  
-In Stores: 02/10/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=71367)
+ **The Swellers**  
+Ups and Downsizing  
+In Stores: 09/29/09  
+[ **BUY NOW**](http://store.fueledbyramen.com/artists/50/store/show/O5118)
 
-[](https://web.archive.org/web/20090616220139id_/http://fueledbyramen.com/releases/index.php?id=111)
+[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=119)
 
- **VersaEmerge**  
-VersaEmerge  
-In Stores: 02/03/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=71449)
+ **The Academy Is...**  
+Lost In Pacific Time  
+In Stores: 09/22/09  
+[ **BUY NOW**](http://store.fueledbyramen.com/store/show/PAXEU)
 
-[](https://web.archive.org/web/20090616220139id_/http://fueledbyramen.com/releases/index.php?id=110)
+[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=118)
 
- **Panic At The Disco**  
-...Live In Chicago  
-In Stores: 12/02/08  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=68903) | 
+ **Various Artists**  
+Jennifer's Body  
+In Stores: 08/25/09  
+[ **BUY NOW**](http://store.fueledbyramen.com/store/show/75867) | 
