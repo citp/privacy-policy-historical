@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myemoticons.com privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628092435id_/http%3A//www.myemoticons.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myemoticons.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221021903id_/http%3A//www.myemoticons.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,6 +7,52 @@
 <meta name="description" content="Our privacy policy is designed to reassure you that interacting with My Emoticons is a safe and fun experience. It's our commitment not to share any personal info you tell us.">
 <meta name="keywords" content="emoticons">
 <meta name="verify-v1" content="GyRkWZ30SY//1sUS81CPo2TYMpiWYhoONHn7FKGx03k=">
+<!-- CUSTOM SALSA SCRIPT FOR FF2 MAC Fix STARTs-->
+<script language="javascript">
+function detectMacXFF2() {
+  var userAgent = navigator.userAgent.toLowerCase();
+  //alert (userAgent);
+  if (/firefox[\/\s](\d+\.\d+)/.test(userAgent)) {
+    var ffversion = new Number(RegExp.$1);
+    if (ffversion < 3 && userAgent.indexOf('mac') != -1) {
+      return true;
+    }
+  }
+}
+function startup() {
+var overlay = getElementsByClass('overlay',null,'div');
+var dd = detectMacXFF2(); //note new detectMacXFF2 script above
+  if (dd) {
+  	//alert ('you are running FF2 for mac');
+  	for (var i=0; i<overlay.length; i++) {
+       	//osx ff css opacity + flash wmode transparent doesn't work
+   	 	overlay[i].style.display="none";
+  	}
+  }
+}
+
+window.onload = startup();
+
+function getElementsByClass(searchClass,node,tag) {
+	var classElements = new Array();
+	if ( node == null )
+		node = document;
+	if ( tag == null )
+		tag = '*';
+	var els = node.getElementsByTagName(tag);
+	var elsLen = els.length;
+	var pattern = new RegExp("(^|\\\\s)"+searchClass+"(\\\\s|$)");
+	for (i = 0, j = 0; i < elsLen; i++) {
+		if ( pattern.test(els[i].className) ) {
+			classElements[j] = els[i];
+			j++;
+		}
+	}
+	return classElements;
+}
+
+</script>
+<!-- CUSTOM SALSA SCRIPT FOR FF2 MAC Fix ENDS-->
 
 <base href="http://www.myemoticons.com/">
 <link href="styles.css" rel="stylesheet" type="text/css">
@@ -14,25 +60,21 @@
 </head>
 <body topmargin="0">
 <table width="1024" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#D7D7FC">
-	<tbody><tr>
-		<td background="images/top_bg.gif" height="74px" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" height="74px">
-				<tbody><tr>
-					<td width="380px" style="padding: 22px 0px 0px 46px;"><a href="http://www.myemoticons.com/"><img src="images/me_logo.gif" border="0" alt="My Emoticons" title="My Emoticons"></a></td>
-					<td style="padding-top: 22px;" width="174px"><a href="http://www.myemoticons.com/download.asp?ref=animated_chick"><img src="images/download_top.gif" border="0" alt="Free Download" title="Free Download"></a></td>
-					<td style="padding-top: 5px;" width="50px"><a href="http://www.myemoticons.com/download.asp?ref=animated_chick"><img src="images/chicken_dance.gif" border="0" alt="Free Download" title="Free Download"></a></td>
-					<td style="padding-top: 24px;" align="right" class="arial14blue"><a href="default.asp" class="arial14blue" title="home">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="emoticons/our-favourite/" class="arial14blue" title="emoticons">emoticons</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="info/" class="arial14blue" title="info">info</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faqs/" class="arial14blue" title="faqs">faqs</a></td>
-					<td width="48px"><img src="images/spacer.gif" width="48px" height="1px"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="images/header_03.gif" width="1024" height="10"></td>
-	</tr>
-	<tr>
-		<td><img src="images/header_04.gif" width="1024" height="45"></td>
-	</tr>
+  <!--DWLayoutTable-->
+  <tbody><tr>
+    <td height="22" colspan="3" valign="top"><img src="images/header_01_01.gif" width="1024" height="22"></td>
+  </tr>
+  <tr>
+    <td width="558" height="52" valign="top"><a href="http://www.myemoticons.com"><img src="images/header_02a.gif" alt="MyEmoticons" width="558" height="52" border="0"></a></td>
+  <td width="415" align="right" valign="middle" bgcolor="#FFFFFF" class="arial14blue"><a href="" class="arial14blue" title="home">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/emoticons/" class="arial14blue" title="emoticons">emoticons</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="info/" class="arial14blue" title="info">info</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faqs/" class="arial14blue" title="faqs">faqs</a></td>
+  <td width="51" valign="top"><img src="images/header_02b.gif" width="51" height="52"></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="3" valign="top"><img src="images/header_03.gif" width="1024" height="10"></td>
+  </tr>
+  <tr>
+    <td height="45" colspan="3" valign="top"><img src="images/header_04.gif" alt="Animated Emoticons | Emoticons And Smileys" width="1024" height="45"></td>
+  </tr>
 </tbody></table>
 <table width="1024" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#D7D7FC">
 	<!--DWLayoutTable-->
@@ -57,9 +99,9 @@
 								<a href="http://www.myemoticons.com/download.asp?ref=smiley_day" style="text-decoration: underline; color: #ff0000;">click here to download</a><br>
 								<br>
 
-							<a href="http://www.myemoticons.com/download.asp?ref=smiley_day"><img src="emoticonday/reading.gif" border="0"></a><br>
+							<a href="http://www.myemoticons.com/download.asp?ref=smiley_day"><img src="emoticonday/heartsad.gif" border="0"></a><br>
 							<br>
-							I'm intrigued to know what smiley's reading. Mmm
+							Aw... poor smiley
 							<br><br>
 						</td>
 					</tr>
@@ -201,7 +243,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
 <table width="1024" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#D7D7FC">
   <!--DWLayoutTable-->
   <tbody><tr>
-    <td height="43" colspan="5" valign="top"><img src="images/footer_01.gif" width="1024" height="43"></td>
+    <td height="43" colspan="5" valign="top"><img src="images/footer_01.gif" alt="Emoticon | Animated Emoticons" width="1024" height="43"></td>
   </tr>
   <tr>
     <td height="25" colspan="5" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
@@ -219,7 +261,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
     <td width="183" rowspan="5" valign="top"><a href="subscribe/"><img src="images/juicy_news.gif" alt="The juicy news" width="142" height="74" border="0"></a></td>
     <td width="580" align="center" valign="top" class="verdana10black">
 <a href="emoticons/free/" class="verdana10black">free emoticons</a>&nbsp;|&nbsp;<a href="emoticons/msn/" class="verdana10black">msn emoticons</a>&nbsp;|&nbsp;<a href="emoticons/sex/" class="verdana10black">sex emoticons</a>&nbsp;|&nbsp;<a href="emoticons/adult/" class="verdana10black">adult emoticons</a>&nbsp;|&nbsp;<a href="info/emoticons-articles/article-1/" class="verdana10black">emoticons articles</a><br><br>
-<a href="about-us/" class="verdana10black">about us</a>&nbsp;|&nbsp;<a href="contact-us/" class="verdana10black">contact us</a>&nbsp;|&nbsp;<a href="privacy-policy/" class="verdana10black">privacy policy</a>&nbsp;|&nbsp;<a href="terms/" class="verdana10black">terms and conditions</a>&nbsp;|&nbsp;<a href="unsubscribe/" class="verdana10black">unsubscribe</a></td>
+<a href="about-us/" class="verdana10black">about us</a>&nbsp;|&nbsp;<a href="contact-us/" class="verdana10black">contact us</a>&nbsp;|&nbsp;<a href="privacy-policy/" class="verdana10black">privacy policy</a>&nbsp;|&nbsp;<a href="terms/" class="verdana10black">terms and conditions</a>&nbsp;|&nbsp;<a href="subscribe/" class="verdana10black">subscribe</a>&nbsp;|&nbsp;<a href="unsubscribe/" class="verdana10black">unsubscribe</a></td>
   <td width="183" rowspan="5" align="right" valign="top"><a href="http://www.kiva.org/" target="_blank"><img src="images/kiva.gif" alt="Kiva" width="142" height="74" border="0"></a></td>
   <td width="39"></td>
   </tr>
@@ -259,8 +301,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-553297-1");
 pageTracker._trackPageview();
-} catch(err) {}
-</script> 
+} catch(err) {}</script>
 
 
 
