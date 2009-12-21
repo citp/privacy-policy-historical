@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yupptv.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617042932id_/http%3A//www.yupptv.com/Forms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yupptv.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221185133id_/http%3A//www.yupptv.com/Forms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# YuppTV Privacy Policy
+# YUPPTV PRIVACY POLICY
 
 | 
 
