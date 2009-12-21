@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avclub.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610061532id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avclub.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005556id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
 
 # privacy | The Onion - America's Finest News Source
 
@@ -18,7 +18,7 @@ By shopping at store.theonion.com or subscribe.theonion.com, you accept the prac
 
 In order to ship products to you, we need to collect information about you, including your name, billing address, shipping address, e-mail address, home phone number and credit card information. We use your e-mail address as a login for the store, as well as a way to send you a confirmation of your order. If we have a question about your order, we may contact you by e-mail or by phone. For example, we may call you to verify your credit card information on a large purchase. We do this for your protection.
 
-You can change your personal information at any time by clicking the "my account" button and login with your e-mail address and password. There, you can modify your account information.
+There may be certain orders that we are unable to accept and must cancel. We reserve the right, at our sole discretion, to refuse or cancel any order for any reason. Even after your receipt of an order confirmation, your order, or any portion thereof, may be declined by The Onion. Some situations that may result in your order being canceled include limitations on quantities available for purchase, inaccuracies or errors in product or pricing information, or problems identified by our credit and fraud avoidance department. We may also require additional verifications or information before accepting any order. We will contact you if all or any portion of your order is canceled or if additional information is required to accept your order. If your order is canceled after your credit card has been charged, we will issue a credit to your credit card in the amount of the charge.
 
 ### Cookies
 
