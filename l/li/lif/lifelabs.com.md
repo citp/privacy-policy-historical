@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213451id_/http%3A//www.lifelabs.com/Lifelabs_ON/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022043id_/http%3A//www.lifelabs.com/Lifelabs_ON/Privacy.asp) for the most accurate reproduction.*
 
 # 
 
