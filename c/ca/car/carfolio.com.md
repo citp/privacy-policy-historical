@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194943id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221045943id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
 
 # Carfolio.com Privacy Policy - Carfolio.com car specifications pages
+
+## Performance issues resolved
+
+Carfolio.com has been struggling under the weight of massive amounts of spam over the last few days. Performance degraded to the point where it was almost unusable. 
+
+[More...](https://web.archive.org/article/?id=236 "Performance issues resolved")
+
+## New details about the Mercedes-Benz SLS AMG Gullwing
+
+The [Mercedes-Benz SLS AMG "Gullwing"](https://web.archive.org/specifications/models/car/?car=195998) is due to debut at the Frankfurt motor show on 15 September 2009. Having released some details about the new coupé some time back, today Mercedes-Benz have given us more details about the car, and a few new pictures too. 
+
+[More...](https://web.archive.org/article/?id=234 "New details about the Mercedes-Benz SLS AMG Gullwing")
+
+## A roundup of updates
+
+A bunch of new manufacturers make their appearance in the Carfolio.com database for the first time. Well, new to the database anyway. 
+
+[More...](https://web.archive.org/article/?id=233 "A roundup of updates")
+
+## Ferrari's new 458 Italia
+
+Ferrari have released some details about their [F430](http://www.carfolio.com/specifications/models/car/?car=121000) replacement, the [Ferrari 458 Italia](http://www.carfolio.com/specifications/models/car/?car=200442). The 458 Italia features direct petrol injection - the first such application in a mid-engined road car for Ferrari, and an enlarged 4499cc V8 that produces 570 PS (419 kW) at 9000 rpm and 540 Nm of torque at 6000 rpm, an impressive 127 PS/litre specific output. 
+
+[More...](https://web.archive.org/article/?id=232 "Ferrari's new 458 Italia")
 
 ## Porsche's 4 door Panamera specifications revealed
 
@@ -31,24 +55,6 @@ Pebble Beach saw the world premier of Bugatti's newest Veyron model, the [Bugatt
 The [Audi RS6 Avant](http://www.carfolio.com/specifications/models/car/?car=160644) was launched some time ago already, and Audi have now released some details about the forthcoming [Audi RS6](http://www.carfolio.com/specifications/models/car/?car=185911) saloon. The saloon shares the overall dimensions with the Avant - a 2846 mm wheelbase, 4928 mm length and 1889 mm width. 
 
 [More...](https://web.archive.org/article/?id=227 "Audi RS6 Saloon")
-
-## New Lotus Evora Preliminary Specs
-
-The details of the new [Lotus Evora](http://www.carfolio.com/specifications/models/car/?car=183139) have been released, albeit for the prototype version. Performance and consumption data are not yet known, although Lotus estimates a 257 km/h (160 mph) top speed and CO2 emissions of under 255 g/km. 
-
-[More...](https://web.archive.org/article/?id=226 "New Lotus Evora Preliminary Specs")
-
-## The Phenomenal Lancia Stratos 
-
-In the early seventies, Ferrari, Lancia and Bertone teamed up to create one of the greatest rally cars ever, the [Lancia Stratos](http://www.carfolio.com/specifications/models/car/?car=43285). The head of Lancia's competition division, Cesare Fiorio, was the driving force behind this project. 
-
-[More...](https://web.archive.org/article/?id=225 "The Phenomenal Lancia Stratos ")
-
-## 2010 Chevrolet Camaro details released
-
-Chevrolet have officially announced the specifications of their [2010 Chevrolet Camaro](http://www.carfolio.com/search/results/?terms=2008+chevrolet+camaro) models. Two engines are on offer initially, a 3.6 litre V6 with direct petrol injection and a pushrod overhead valve 6.2 litre V8. 
-
-[More...](https://web.archive.org/article/?id=223 "2010 Chevrolet Camaro details released")
 
 [See all articles](https://web.archive.org/article/ "List of all articles")
 
