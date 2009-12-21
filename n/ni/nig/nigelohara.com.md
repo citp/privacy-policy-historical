@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigelohara.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193545id_/http%3A//www.nigelohara.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigelohara.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221024253id_/http%3A//www.nigelohara.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Nigel O'Hara - Diamond Jeweller - Privacy
 
