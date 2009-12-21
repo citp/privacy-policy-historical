@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dzinearticles.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626044816id_/http%3A//www.dzinearticles.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzinearticles.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221052253id_/http%3A//www.dzinearticles.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dzine Articles | Privacy Policy
 
