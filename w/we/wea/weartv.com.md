@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622193659id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005546id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WEAR ABC 3 :: Privacy Policy
 
@@ -33,19 +33,12 @@ The Website allows certain advertisements/postings which include links to other 
 
 **Local Weather:**
 
-***An Excessive Heat Warning has been issued until 7pm Monday for the coastal section of the WEAR viewing area.***  
-***A Heat Advisory is in effect until 7pm for the rest of the WEAR viewing area Monday***
+Monday Night:  Clear and cool. Lows 35-40. 
 
-Monday:  Extremely hot and sunny with highs around 100 degrees.  Heat index values between 108 and 114.
+Tuesday:  Partly cloudy.  Highs in the 60s.
 
-Monday Night:  Mostly clear.  Lows around 80.
-
-Tuesday:  Mostly sunny.  Highs in the upper 90s.
-
- _The tropics are quiet.  
-_
+River Flood Warnings: [Click Here](http://forecast.weather.gov/wwamap/wwatxtget.php?cwa=mob&wwa=flood%20warning)
 
 [](http://www.weartv.com/newsroom/wx/)
 
-[](https://web.archive.org/sections/station/advertise/)  
----
+IE6 Float Fix
