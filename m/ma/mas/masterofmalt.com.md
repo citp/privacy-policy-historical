@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622073742id_/http%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022555id_/http%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
 
-# Master of Malt - Privacy Policy
+# Privacy Policy - Master of Malt
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the UK Data Protection Act 1998).
 
@@ -21,4 +21,4 @@ We will never collect sensitive information about you without your explicit cons
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law and the Which? Web Trader Code. If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. We may use technology to track how visitors use our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions/comments about privacy, please [get in touch](http://www.masterofmalt.com/contact-us).
+If you have any questions/comments about privacy, please [get in touch](http://www.masterofmalt.com/contact-us/).
