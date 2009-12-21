@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140512id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061908id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
-# INVALUABLE.COM : Art Market Intelligence at Your Fingertips
+# Invaluable: Online Live Auctions & Auction Price Results
 
 Invaluable
 
