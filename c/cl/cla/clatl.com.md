@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clatl.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170416id_/http%3A//atlanta.creativeloafing.com/gyrobase/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clatl.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221184506id_/http%3A//atlanta.creativeloafing.com/gyrobase/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Creative Loafing Atlanta
 
