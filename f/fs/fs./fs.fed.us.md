@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628085415id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221202337id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
 
 # USDA Forest Service - Caring for the land and serving people.
 
