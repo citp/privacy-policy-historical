@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articletap.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185435id_/http%3A//www.articletap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletap.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221020429id_/http%3A//www.articletap.com/privacy.php) for the most accurate reproduction.*
 
 # hacked By M0µ34d
 
