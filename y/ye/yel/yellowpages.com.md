@@ -1,104 +1,143 @@
-> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208193839id_/http%3A//www.yellowpages.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221193707id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - YELLOWPAGES.COM
+# AT&T Privacy Policy
 
-## Our Commitment: Respecting and Protecting Your Privacy
+#### Privacy Commitments
 
-Your privacy is important to us. YELLOWPAGES.COM respects and takes steps to protect the privacy of our customers. We strive to take reasonable care of information we may receive from you.
+AT&T takes your privacy very seriously. Our customers told us they want to see clear, easy-to-read information about our privacy commitments and policy. We have made our privacy policy easier to find and easier to read. And we're listening. We welcome your questions and feedback on our privacy policy, and invite you to [contact us](https://web.archive.org/gen/privacy-policy?pid=13692#contact).
 
-#### The Scope of This Privacy Policy
+Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with AT&T — including customers (wireless, Internet, digital TV, and telephone) and Web site visitors. 
 
-This Privacy Policy addresses the privacy of visitors to the YELLOWPAGES.COM Web sites. It identifies the type of data and information YELLOWPAGES.COM collects from visitors, how we use and disclose it, and the steps we take to protect privacy.
-
-#### What Information We Collect and How We Use It
-
-##### Information We Collect
-
-YELLOWPAGES.COM collects personal information when you register with YELLOWPAGES.COM, when you use YELLOWPAGES.COM products and services, when you visit YELLOWPAGES.COM pages or the pages of certain YELLOWPAGES.COM partners, and when you enter promotions or sweepstakes.
-
-We may, additionally, track non-personal information about your visit, including the domain name and the name of the Web page from which you entered our site, how much time you spend on each of our pages, and the IP address associated with your computer. We use this information to improve the performance and operation of our site.
-
-When you register, we ask for information such as your name, e-mail address, birth date, gender, ZIP code, occupation, industry, and personal interests. For the purchase of YELLOWPAGES.COM Advertising Products we may also ask for your address, Social Security number, and credit card information. Once you register with YELLOWPAGES.COM and sign in to our services, you are not anonymous to us and we protect your personal information (see Security below).
-
-YELLOWPAGES.COM collects information about your transactions with us and with some of our business partners, including information about your use of products and services that we offer.
-
-YELLOWPAGES.COM automatically receives and records information on our server logs from your browser, including your IP address, YELLOWPAGES.COM cookie information, and the page you request.
-
-YELLOWPAGES.COM uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide statistical reporting for internal and external clients.
-
-##### Your Ability to Edit Your Account Information and Preferences
-
-You can edit your YELLOWPAGES.COM Account Information, including your marketing preferences, at any time. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. We reserve the right to send you certain communications relating to the YELLOWPAGES.COM service, such as service announcements and administrative messages that are considered part of your YELLOWPAGES.COM account, without offering you the opportunity to opt-out of receiving them.
-
-##### Cookies and Related Technologies
-
-A cookie is a small file that is stored on the hard drive of your computer, ready for future access when you return to our site. We may use cookies to tailor and improve the content we deliver to you while you are on our site. The cookies do not contain or capture any personal information. You can configure your computer's browser to alert you when a site is attempting to send you a cookie, and then you can accept or refuse the cookie. Your decision to refuse cookies from YELLOWPAGES.COM will not prevent you from using our site, but may limit your ability to take advantage of some of our advanced features.
-
-On some of the pages on our site we may also use small bits of computer code called "one-pixel gifs," "clear gifs," or "Web beacons" embedded in Web pages to monitor the activity on our Web site. Again, the technology does not capture or contain any personal information.
-
-##### Children
-
-Protecting the privacy of the very young is especially important. The YELLOWPAGES.COM web site is not designed to attract children under the age of 13 and YELLOWPAGES.COM does not knowingly collect personal information from children on our Web site.
-
-##### Third Party Advertisers and External Links
-
-Some YELLOWPAGES.COM Web sites may accept advertisements from third-party advertisers or provide links to external Web sites. Please check the privacy policy of these advertisers and sites for information regarding their collection of information and use of cookies. We are not responsible for the content or privacy practices of other Web sites. Our partners or advertisers may use third parties to serve or present the ads that appear on our site. These third parties may place cookies on your browser when you visit our site. Any third party cookies are subject to the privacy policy of the company placing them.
-
-##### Information We Disclose To Third Parties
-
-We may use aggregated information concerning how visitors use our Web site and share such information with third parties in order to improve our Web site and to help us attract advertisers and listings. For example, we may share how many individuals visited our Web site and on average how long they stayed on each page. Such use and sharing of aggregated information will not reveal any of your personal information to third parties.
-
-YELLOWPAGES.COM does not rent, sell, disclose or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of YELLOWPAGES.COM's terms of use, or as otherwise required by law;
-  * We transfer information about you if YELLOWPAGES.COM is acquired by or merged with another company. In this event, YELLOWPAGES.COM will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * We will protect your privacy and keep your personal information safe. We use powerful encryption and other security safeguards to protect customer data. 
+  * We will not sell your personal information to anyone, for any purpose. Period.
+  * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
+  * We will notify you of revisions to our privacy policy, in advance. No surprises.
+  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control. 
+  * We're listening. You can send us questions or feedback on our privacy policy.
 
 
 
-YELLOWPAGES.COM does not provide any personal information to the advertiser when you interact with or view an ad.
+#### Privacy Policy
 
-##### Security
+##### Privacy Policy Scope
 
-YELLOWPAGES.COM takes your security seriously and takes reasonable steps to protect your information. No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any firewalls or secure server software we may employ. YELLOWPAGES.COM continues to evaluate and implement enhancements in security technology and practices, however we can only take steps to help reduce the risks of unauthorized access. YELLOWPAGES.COM has taken the following steps in this regard:
+This Privacy Policy identifies and describes the way AT&T uses and protects the information we collect about Customers and Users. All use of AT&T's products and services, as well as visits to our Web sites, are subject to this Privacy Policy. 
 
-  * ##### Secure Socket Layer (SSL)
+##### The Information We Collect, How We Collect It, And How We Use It
 
-YELLOWPAGES.COM uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as registration information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time YELLOWPAGES.COM asks you for a credit card number on YELLOWPAGES.COM for payment or for verification purposes, it will be SSL encrypted. The information you provide will be stored securely on our servers. Once you choose to store or enter your credit card number on YELLOWPAGES.COM, it will not be displayed back to you in its entirety when you retrieve or edit it in the future. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number.
+We collect different types of personal and other information based on your use of our products and services and our business relationship with you. Some examples include: 
 
-  * ##### Secure Storage
-
-YELLOWPAGES.COM maintains reasonable physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-
-  * ##### Vendors and Partners
-
-YELLOWPAGES.COM works with vendors and partners to protect the security and privacy of user information.
-
-  * ##### Employee and Contractor Access to Information
-
-YELLOWPAGES.COM limits access to personal information about you to those employees who we reasonably believe need to come into contact with that information to provide products or services to you or in order to do their jobs.
-
-  * ##### Education and Training for Employees
-
-YELLOWPAGES.COM has implemented a company-wide education and training program about security that is required of every YELLOWPAGES.COM employee.
+  * _Contact Information_ that allows us to communicate with you -- including your name, address, telephone number, and e-mail address; 
+  * _Billing information_ related to your financial relationship with us -- including your payment data, credit history, credit card number, Social Security numbers, security codes, and service history; 
+  * _Equipment, Performance, AT &T Web Site Usage, Viewing and other Technical Information_ about your use of our network, services, products or Web sites. 
 
 
 
+We collect information in three primary ways:
 
-If YELLOWPAGES.COM learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. YELLOWPAGES.COM may post a notice on our Web site if a security breach occurs. If this happens, you will need a Web browser enabling you to view the YELLOWPAGES.COM Web site. YELLOWPAGES.COM may also send an e-mail to you at the e-mail address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving an electronic notice) you should notify us at [privacy@yellowpages.com](mailto:privacy@yellowpages.com).
+  * You give it to us when you purchase or interact with us about a product or service we offer or provide;
+  * We collect it automatically when you visit our Web sites or use our products and services; 
+  * We obtain it from other sources, such as from credit agencies. 
 
-If you believe your YELLOWPAGES.COM account has been compromised, please report the incident using our [contact form](https://web.archive.org/contact_us/comments). In the event that you believe that your personal safety is at risk or if you believe that you may be the victim of identity theft or other illegal conduct, please contact the appropriate federal, state or local law enforcement agencies directly.
 
-#### Privacy Policy Updates
 
-This Privacy Policy supersedes and replaces all previously posted Privacy Policies.
+We use the information we collect in a variety of ways, including to: 
 
-Our Privacy Policy is regularly reviewed and revised to make sure we continue to serve the best interests of our customers. We reserve the right to update this Privacy Policy to reflect any changes. If we decide to change our Privacy Policy, we will post those changes to this Policy and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If the change would cause us to use or disclose personal information in a manner that is materially less restrictive from that stated at the time of collection, we will notify Web visitors before implementing the change.
+  * Provide you with the best customer experience possible;
+  * Provide the services you purchase, and to respond to your questions;
+  * Communicate with you regarding service updates, offers, and promotions;
+  * Deliver customized content and advertising that may be of interest to you;
+  * Address network integrity and security issues; 
+  * Investigate, prevent or take action regarding illegal activities, violations of our Terms of Service or Acceptable Use Policies; and 
+  * For local directory and directory assistance purposes. 
 
-#### Contacting Us: Questions, Comments, & Concerns:
 
-YELLOWPAGES.COM will happily address any concerns about its online privacy practices and policies; please e-mail us at [privacy@yellowpages.com](mailto:privacy@yellowpages.com).
 
-To be removed from future YELLOWPAGES.COM marketing e-mail campaigns, please e-mail [remove@yellowpages.com](mailto:remove@yellowpages.com).
+##### Use of Location Information 
 
-Effective: July 27, 2006
+  * When your wireless device is on, it sends periodic signals to the nearest cell site. We use that information to provide your wireless services; 
+  * You can use your wireless device to obtain a wide array of services based on the approximate location of the device, referred to as Location Based Services, or LBS. The information you receive in connection with your use of LBS may include advertisements related to your request and your location;
+  * If you purchase LBS from AT&T, the approximate location of your wireless device location information will be used or shared only with prior notice and your consent. The form of consent will be suited to the type of LBS you utilize. 
+
+
+
+##### Online Activity Tracking and Advertising
+
+  * We collect information about your activity on AT&T Web sites for a number of purposes using technologies such as cookies, Web beacons, widgets and server log files. 
+  * We and our non-AT&T advertising partners use that information, as well as other information they have or we may have, to help tailor the ads you see on our sites and to help make decisions about ads you see on other sites. 
+  * To opt-out of ad matching by Yahoo! click [here](https://web.archive.org/web/20100820014920/http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html "opt-out"). To opt-out of targeting advertising from many other ad networks, click [here](https://web.archive.org/web/20100820014920/http://www.networkadvertising.org/ "opt-out"). 
+
+
+
+#####  Information Sharing
+
+With AT&T Companies: Subject to applicable legal restrictions, such as those that exist for [Customer Proprietary Network Information (CPNI)](https://web.archive.org/gen/privacy-policy?pid=2566 "CPNI") , the AT&T companies may share your Personal Information with each other to make sure your experience is as seamless as possible, and to make sure you have the full benefit of what AT&T has to offer.
+
+With Non-AT&T Companies: We share your Personal Information only with non-AT&T companies that perform services on our behalf, and only as necessary for them to provide those services to you. 
+
+  * We require those non-AT&T companies to protect any Personal Information they may receive in a manner consistent with this policy.
+  * We do not provide Personal Information to non-AT&T companies for the marketing of their own products and services without your consent.
+
+
+
+In Other Circumstances: We may provide Personal Information to non-AT&T companies or other third parties for purposes such as:
+
+  * Responding to 911 calls and other emergencies;
+  * Complying with court orders and other legal process; 
+  * Enforcing our agreements and property rights; and 
+  * Obtaining payment for our products and services, including the transfer or sale of delinquent accounts to third parties for collection
+
+
+
+Aggregate or Anonymous Information: We may share aggregate or anonymous information in various formats with trusted non-AT&T entities for purposes such as: 
+
+  * Retail, marketing and advertising companies that offer products and services that may be of interest to you;
+  * Universities, laboratories and other entities that conduct scientific research; and
+  * Media research companies and entities that may use the data for purposes such as municipal planning and coordinating disaster responses.
+
+
+
+##### Our Online Privacy Policy for Children
+
+  * Our Web sites are not designed to attract children under the age of 13.
+  * We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from that child's parent or legal guardian. 
+  * We provide AT&T Smart Limits parental control tools available [here](https://web.archive.org/gen/sites/smartlimits?pid=8950 "Smart Limits"). 
+
+
+
+##### Safeguarding Your Information: Our Policy on Data Protection and Security
+
+  * We do not sell your Personal Information to anyone for any purpose. Period.
+  * We maintain information about you in our business records while you are a customer, or until it is no longer needed for business, tax, or legal purposes.
+  * We have implemented encryption or other appropriate security controls to protect Personal Information when stored or transmitted by AT&T.
+  * We require non-AT&T companies acting on our behalf to protect any Personal Information they may receive in a manner consistent with this Policy. We do not allow them to use such information for any other purpose.
+
+
+
+##### Customer Privacy Controls and Choices,
+
+  * You can review and correct your Personal Information collected by us.
+  * You can limit certain types of solicitation communications from AT&T, including marketing contacts made via telephone, e-mail and text messaging.
+  * We will provide you with notice of changes to this policy. 
+
+
+
+Visit our [Privacy Policy FAQ](https://web.archive.org/gen/privacy-policy?pid=13692) for more information. The Privacy Policy FAQ is an essential part of our Privacy Policy. 
+
+  * [Definitions](https://web.archive.org/gen/privacy-policy?pid=13692#definitions "Definitions")
+  * [Policy Scope](https://web.archive.org/gen/privacy-policy?pid=13692#scope "Policy Scope")
+  * [Information We Collect](https://web.archive.org/gen/privacy-policy?pid=13692#collect "Information We Collect")
+  * [Location Information](https://web.archive.org/gen/privacy-policy?pid=13692#location "Location Information")
+  * [Online Activity Tracking and Advertising](https://web.archive.org/gen/privacy-policy?pid=13692#tracking "Online Activity Tracking and Advertising")
+  * [Information Sharing](https://web.archive.org/gen/privacy-policy?pid=13692#sharing "Information Sharing")
+  * [Our Online Privacy Policy for Children](https://web.archive.org/gen/privacy-policy?pid=13692#children "Our Online Privacy Policy for Children")
+  * [Data Protection and Security](https://web.archive.org/gen/privacy-policy?pid=13692#protection "Data Protection and Security")
+  * [Customer Control](https://web.archive.org/gen/privacy-policy?pid=13692#controls "Customer Control")
+  * [Changes to This Policy](https://web.archive.org/gen/privacy-policy?pid=13692#changes "Changes to This Policy")
+  * [Contact Us About This Policy](https://web.archive.org/gen/privacy-policy?pid=13692#contact "Contact Us About This Policy")
+
+
+
+##### Your California Privacy Rights
+
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. As stated in this Privacy Policy, AT&T will not sell or share your Personal Information with non-AT&T companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at [privacypolicy@ATT.com](mailto:%20privacypolicy@ATT.com), or write to us at AT&T Privacy Policy, 208 S. Akard, Room 1825, Dallas TX 75202.
