@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeacartoonyou.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060735id_/http%3A//makeacartoonyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeacartoonyou.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221144609id_/http%3A//makeacartoonyou.com/privacy) for the most accurate reproduction.*
 
 # MakeACartoonYou.com Privacy Policy | Make A Cartoon
 
@@ -58,7 +58,7 @@ If your personal identifiable information changes, or if you do not wish us to p
 
 
 
-MakeACartoonYou.com follows accepted industry standards to protect any personal information you have provided to us. However, be aware that no method of electronic storage can ever be totally secure. Therefore – as is the case with any organization - we are not in a position to guarantee the total security of your information.
+MakeACartoonYou.com follows accepted industry standards to protect any personal information you have provided to us. However, be aware that no method of electronic storage can ever be totally secure. Therefore – as is the case with any organization – we are not in a position to guarantee the total security of your information.
 
 ### 
 
