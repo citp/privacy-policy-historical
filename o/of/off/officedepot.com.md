@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officedepot.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175807id_/http%3A//www.officedepot.com/specialLinks.do%3Ffile%3D/customerservice/Privacy.jsp%26template%3DcustomerService) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officedepot.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221185317id_/http%3A//www.officedepot.com/specialLinks.do%3Ffile%3D/customerservice/Privacy.jsp%26template%3DcustomerService) for the most accurate reproduction.*
 
 # Customer Service at Office Depot
 
