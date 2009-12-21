@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213108id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 You are here: [Home](https://web.archive.org/index.dai) | Privacy Policy 
 
-Privacy Policy 
-
 * * *
 
-We believe that consumers have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards: 
+We believe that consumers have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards:
 
   * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eg_main_018236.asp) as developed by the U.S. Department of Commerce in consultation with the European Commission. 
   
@@ -21,7 +19,7 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 **Who We Are**  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20090619213108id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20090619213108id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
 
 **Information We Collect From You**  
 We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and Stats™ Statistical Software. Tell me more.
@@ -33,7 +31,7 @@ We use the information you provide us to measure our advertising efforts and for
 We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone. Tell me more.
 
 **Use Of Internet Technology ("Cookies" and Log Files)**  
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20090619213108id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion� website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20090619213108id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion� website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
 
 **Links To Outside Sites**  
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -121,8 +119,8 @@ For more information, questions or concerns regarding our data-protection practi
 >  604 Avenue H East  
 >  Arlington, Texas 76011  
 >  Phone numbers:  
->  Toll-free, 1.800.262.5974  
->  International, 1.817.640.6166  
+>  Toll-free, 1-800-262-5974  
+>  International, 1-817-640-6166  
 >  Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?Subject=Question%20Regarding%20DAI%20Corporate%20Site%20Privacy%20Policy)
 
 For more information about Internet privacy and the privacy guidelines we follow: 
