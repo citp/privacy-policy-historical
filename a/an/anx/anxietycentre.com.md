@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anxietycentre.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620160230id_/http%3A//www.anxietycentre.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anxietycentre.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221173427id_/http%3A//www.anxietycentre.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy anxietycentre.com
 
@@ -42,3 +42,6 @@ We respect, and therefore, protect the privacy of our members and therapy client
 Testimonials presented online  
 Many of the pictures associated with the testimonials we present online are from stock photography in order to protect the identity of the individual. With the proliferation of identity theft, we don't recommend making personal information available online, including personal photographs. Some pictures, however, are from actual members or clients because they requested to have them posted.   
 
+
+Google Tracking  
+anxietycentre.com uses Google tracking to monitor website traffic flow. No personal information is collected, used, or stored during this process.
