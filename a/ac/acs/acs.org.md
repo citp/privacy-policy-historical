@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acs.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617080421id_/http%3A//portal.acs.org/portal/PublicWebSite/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221192255id_/http%3A//portal.acs.org/portal/PublicWebSite/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy
 
-acs.org recognizes that users may have concerns about privacy issues as they navigate the Internet. ACS is committed to providing users with a safe, secure environment in which to secure information. We recommend visiting the [Federal Trade Commission Website](http://www.ftc.gov/) for more information about general privacy issues and "[Site Seeing on the Internet](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec04.shtm)."
+acs.org recognizes that users may have concerns about privacy issues as they navigate the Internet. ACS is committed to providing users with a safe, secure environment in which to secure information. We recommend visiting the [Federal Trade Commission website](http://www.ftc.gov/) for more information about [general privacy issues](http://www.ftc.gov/privacy/privacyinitiatives/promises_educ.html).
 
 acs.org will use reasonable efforts to ensure that the information you provide remains private, and is used only for the purposes stated below. Please review the [Terms of Use](http://portal.acs.org/portal/PublicWebSite/terms/index.htm) for the definition of acs.org's relationship to its users.
 
