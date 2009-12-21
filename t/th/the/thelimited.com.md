@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411075349id_/http%3A//www.thelimited.com/customer_service/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221080056id_/http%3A//www.thelimited.com/customer-service/security/privacy) for the most accurate reproduction.*
 
-# Customer Service: The Limited
+# Security & Privacy: The Limited
 
 As you may have noted, as of September 2008 our site is a full e-commerce site, so many of the revisions that you see in this privacy policy are the result of this change to our site. 
 
@@ -14,35 +14,37 @@ TheLimited.com gathers navigational information about where visitors go on our W
 
   
 **2\. Collection of Personal Information:**   
-TheLimited.com may ask you to provide personal information when you establish or update an Account on this site, sign up to receive e-mails from The Limited or other marketing materials, make a purchase, create or update your My Favorites list, send items to a friend, view your order history, participate in contests, surveys or contact us. 
+TheLimited.com may ask you to provide personal information when you establish or update an Account on this site, sign up to receive e-mails or texts from The Limited or other marketing materials, make a purchase, create or update your My Favorites list, send items to a friend, view your order history, participate in contests, surveys or contact us. 
 
 HOW DOES THELIMITED.COM USE AND SHARE THE INFORMATION COLLECTED ONLINE?
 
 TheLimited.com uses the information you provide to:
 
   * deliver products that you have ordered, 
-  * to contact you or the product recipient(s) in the event of order delay or difficulty,
-  * to deliver information through the various communication channels you have provided to us about our products or website, including adding you to our email list or to our customer phone and mail marketing list when you register for an account or make a purchase
-  * to send information about events, surveys, promotions and possibly contests to you,
-  * to tailor your experience on our website to your interests, 
-  * if you have set up an Account at this site you may save personal information in that Account, such as name and shipping information, and we will access this saved information to make your shopping quicker and easier.  We require you to create and/or access your Account to use various services on the Website, such as your order history, and My Favorites.  Because you must create or access your Account prior to using these services, it is possible that we could associate you with the information you provide through these services,
-  * We will use the information you provide in a career profile, including in your resume, to assist in your goal of becoming an associate with The Limited and, if hired, we will use the information submitted for employment and business-related purposes,
-  * to develop our products, services, and Website, and 
-  * to respond to your inquiries. 
+  * contact you or the product recipient(s) in the event of order delay or difficulty,
+  * deliver information through the various communication channels you have provided to us about our products or website, including adding you to our email list or to our customer phone and mail marketing list when you register for an account or make a purchase
+  * send information about events, surveys, promotions and possibly contests to you,
+  * tailor your experience on our website to your interests, 
+  * develop our products, services, and Website, and 
+  * respond to your inquiries. 
 
 
 
-With respect to The Limited e-mail, you will receive exclusive information about special offers, media events, new products and much more. If at any time you would like to stop future delivery of The Limited e-mail, please follow the removal instructions located at the bottom of each message. Please note, however, that your request not to receive email information will not preclude us from contacting you by email or otherwise regarding questions we have about your purchase and other operational e-mails, such as shipping information.
+If you have set up an Account at this site you may save personal information in that Account, such as name and shipping information, and we will access this saved information to make your shopping quicker and easier. We require you to create and/or access your Account to use various services on the Website, such as your order history, and My Favorites. Because you must create or access your Account prior to using these services, it is possible that we could associate you with the information you provide through these services.
 
-WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
+We will use the information you provide in a career profile, including in your resume, to assist in your goal of becoming an associate with The Limited and, if hired, we will use the information submitted for employment and business-related purposes.
+
+With respect to The Limited e-mails and text messages, you will receive exclusive information about special offers, media events, new products and much more. If at any time you would like to stop future delivery of The Limited e-mails and text messages, please follow the removal instructions located at the end of each message. Please note, however, that your request not to receive email information will not preclude us from contacting you by email or otherwise regarding questions we have about your purchase and other operational e-mails, such as shipping information.
+
+WHAT INFORMATION DOES THELIMITED.COM SHARE WITH THIRD PARTIES?
 
 We may use third party vendors to help us provide services to you, such as monitoring site activity, hosting the Web site, processing orders, running promotions and events and surveys, maintaining our database, providing store locator services, processing employment applications, and administering and monitoring e-mails.
 
 We may make names and addresses collected online available to other companies. If you do not wish to have your name and address shared with other companies (other than third parties who provide services to TheLimited.com) please call us at 1-877-LTD-1963.
 
-The information you provide when you make a purchase at TheLimited.com (for example, name, address, credit card) will be added to a database and may be used to provide names and addresses to other companies. If you would prefer that we not share your name and mailing address with other companies (other than third parties who provide services to express.com) please call us at 1-877-LTD-1963. 
+The information you provide when you make a purchase at TheLimited.com (for example, name, address, credit card) will be added to a database and may be used to provide names and addresses to other companies. If you would prefer that we not share your name and mailing address with other companies (other than third parties who provide services to thelimited.com) please call us at 1-877-LTD-1963. 
 
-When you send an E-mail a Friend from TheLimited.com, we will send your selected recipient your e-mail address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from TheLimited.com.
+When you send an e-mail from TheLimited.com to a friend, we will send your selected recipient your e-mail address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from TheLimited.com.
 
 World Financial Network National Bank (WFNNB) issues and owns The Limited credit card accounts. If you apply online for a Limited credit card with WFNNB and, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB's privacy policies.  We also use a third party when you purchase our gift certificates online (giftcertificates.com).  If you purchase one of our gift certificates online, you will be providing your personal information directly to giftcertificates.com and that information would be subject to the giftcertificates.com privacy policy.
 
@@ -74,7 +76,7 @@ To ensure compliance with federal law, TheLimited.com does not knowingly collect
 
 LINKS TO OTHER WEB SITES AND SERVICES
 
-For your convenience, our Web site may contain links to other Web sites. TheLimited.com is not responsible for the privacy practices, advertising, products or the content of such Web sites. Links that appear on TheLimited.com should not necessarily be deemed to imply that TheLimited.com endorses or has any affiliation with the linked Web sites. We encourage you to review the separate privacy policies of each site you visit.
+For your convenience, our web site may contain links to other web sites. TheLimited.com is not responsible for the privacy practices, advertising, products or the content of such web sites. Links that appear on TheLimited.com should not necessarily be deemed to imply that TheLimited.com endorses or has any affiliation with the linked web sites. We encourage you to review the separate privacy policies of each site you visit.
 
 UPDATES TO PRIVACY POLICY
 
