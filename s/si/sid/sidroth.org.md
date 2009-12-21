@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609025501id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221071052id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Sid Roth's Messianic Vision: Privacy Policy
+# Sid Roth - It's Supernatural Messianic Vision: Privacy Policy
 
 **Privacy Policy**
 
@@ -21,14 +21,13 @@ In order to fully understand your rights we encourage you to read this Privacy P
 **Use of "Cookies" ("Remember Me")** :   
 Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
 
-Questions regarding this statement should be directed to Sid Roth's Messianic Vision by sending an email to [Enter E-mail Address Here]. Please reference this Privacy Policy in your subject line. 
+Questions regarding this statement should be directed to Sid Roth's Messianic Vision by sending an email to [info@SidRoth.org](mailto:info@SidRoth.org "E-mail info@SidRoth.org"). Please reference this Privacy Policy in your subject line. 
 
 **What Information We Collect and How We Use That Information** :   
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
 
 **Internet Protocol Address** :   
-We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server,   
-administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information. 
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information. 
 
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
