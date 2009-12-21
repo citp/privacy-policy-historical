@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the radioalice.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211453id_/http%3A//www.radioalice.com/pages/82773.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioalice.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234117id_/http%3A//www.radioalice.com/pages/82773.php) for the most accurate reproduction.*
 
 # Alice@97.3 San Francisco - privacy policy
 
-The following links have been inserted for your convenience to help you find key points in the policy. If, for some reason, they aren't working for you, please scroll down. Thanks! 
-
-**TABLE OF CONTENTS**
-
-* Your California Privacy Rights
-* General Privacy Guidelines
-* Website Collection, Use, and Disclosure of Personal Information
-* Disclosure to Advertisers
-* Cookies and Image Tags
-* Children's Privacy Policy
-* Email
-* Shopping & E-Commerce
-* Chat Rooms, Message Boards and Public Areas
-* Monitoring and Use of Aggregate Personal Information
-* Advertising and Other Third Party Content
-* Hyperlinks to Other Websites
-* Off-line Collection, Use, and Disclosure of Personal Information
-* Security Measures
-* Review, Update, Correct, and Delete Personal Information
+Review, Update, Correct, and Delete Personal Information
 
 This Privacy Policy does not cover the CBS Radio Inc./Monster.com micro-site or the Alice Everyday Rewards/Planet Jam multi-market Sweepstakes. Please see the separate privacy policy for the [Infinity/Monster.com Promotion](http://infinity.medianext.com/KLLC/monster_privacy_policy.php) or the [Alice Everyday Rewards Program](http://radioalice.listenernetwork.com/information/privacy.asp).
 
