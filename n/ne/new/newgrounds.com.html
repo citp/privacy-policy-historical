@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2009-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090428065642id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2009-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221020103id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
-	<script type="text/javascript" src="http://js.ngfiles.com/ng_publish.js?1240891201"></script>
+	<link rel="stylesheet" href="http://css.ngfiles.com/ng_publish.css?1261248083" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://css.ngfiles.com/iphone.css" type="text/css" media="only screen and (max-device-width: 480px)">
+	<link rel="stylesheet" href="http://css.ngfiles.com/print.css" type="text/css" media="print">
+	<!-- CSS -->
+
+	<script type="text/javascript" src="http://js.ngfiles.com/ng_publish.js?1261248083"></script>
 	<!-- JS -->
 
 	<script type="text/javascript">
 	// <![CDATA[
-
 		// ==================== Code for handling the AJAX login box ========================
 		// We're embedding this here, rather than in a .js, because we need to guarantee it's loaded just below
 
-		var u_cookie = "NG_GG_username";
-		var pm_count_cookie_name = "unread_PMs";
+		var u_cookie = 'NG_GG_username';
+		var pm_count_cookie_name = 'unread_PMs';
 		var unread_pm_count = null;
 		var page_is_dynamic = false;
 		var user_logged_in = false;
@@ -23,13 +27,12 @@
 			var parts = document.cookie.split(';');
 			var sub_parts;
 
-			for(var i=0; i<parts.length; i++)
-			{
+			for(var i=0; i<parts.length; i++) {
 				sub_parts = parts[i].split('=');
 
 				sub_parts[0] = sub_parts[0].replace(/\s/, '');
-				if(sub_parts[0] == this_name)
-				{
+
+				if(sub_parts[0] == this_name) {
 					return(unescape(sub_parts[1]));
 				}
 			}
@@ -41,18 +44,17 @@
 		// Set cookies from JavaScript using this - swiped from http://www.dustindiaz.com/top-ten-javascript/
 		function SetCookie(name, value, expires)
 		{
-			if(typeof expires == "undefined")
-			{
+			if(typeof expires == 'undefined') {
 				expires = 0;
 			}
 
 			var today = new Date();
 			today.setTime(today.getTime());
 
-			if(expires)
-			{
+			if(expires) {
 				expires = expires * 1000 * 60 * 60 * 24;
 			}
+
 			var expires_date = new Date(today.getTime() + expires);
 
 			document.cookie = name + '=' + escape(value) + ((expires) ? ';expires='+expires_date.toGMTString() : '' ) + ';path=/;domain=.newgrounds.com';
@@ -60,11 +62,10 @@
 
 		function DivSwap(old_div_id, new_div_id)
 		{
-			var old_div = document.getElementById(old_div_id);
-			var new_div = document.getElementById(new_div_id);
+			var old_div = $(old_div_id);
+			var new_div = $(new_div_id);
 
-			if((old_div) && (new_div))
-			{
+			if((old_div) && (new_div)) {
 				new_div.style.display = "block";
 				old_div.style.display = "none";
 			}
@@ -78,67 +79,61 @@
 		function LoadLoginBox()
 		{
 			// Let's make sure the browser isn't preserving some weird state
-			if(!(typeof request_in_progress == "undefined"))
-			{
+			if(!(typeof request_in_progress == 'undefined')) {
 				// This variable may not have been loaded yet, since it's coming from a .js file
 				request_in_progress = false;
 			}
 
 			// Always see if they've got a username cookie to put as a default value in the login box
 			var username = ReturnCookie(u_cookie);
-			if(username != null)
-			{
-				document.getElementById("lb_username").value = username;
+			if(username != null) {
+				$('lb_username').value = username;
 			}
 
 			// Also always check for a # of unread PMs, handed off from PHP
-			if(unread_pm_count != null)
-			{
+			if(unread_pm_count != null) {
 				// Got a value, set it and store it in a cookie
 				SetUnreadPMCount(unread_pm_count);
-			}
-			else
-			{
+			} else {
 				// Didn't get a value.  See if we've got anything stored from before, in a cookie
 				var unread_pm_count_cookie = ReturnCookie(pm_count_cookie_name);
-				if((unread_pm_count_cookie != null) && (unread_pm_count_cookie > 0))
-				{
+
+				if((unread_pm_count_cookie != null) && (unread_pm_count_cookie > 0)) {
 					SetUnreadPMCount(unread_pm_count_cookie);
 				}
 			}
 
 			// Now swap in the appropriate box
-			if(!(IsSoftLoggedIn()))		// They're not logged in, so show the login form
-			{
-				DivSwap("loginbox", "loginbox_notloggedin");
-			}
-			else						// They are logged in, so show their account options
-			{
+			if(!(IsSoftLoggedIn())) {
+				// They're not logged in, so show the login form
+				DivSwap('loginbox', 'loginbox_notloggedin');
+			} else {
+				// They are logged in, so show their account options
 				// Gotta do this here, so the username displays properly on page refreshes
 				SetLoggedInUsername(username);
 
-				DivSwap("loginbox", "loginbox_loggedin");
+				DivSwap('loginbox', 'loginbox_loggedin');
 			}
 		}
 
 		function SetUnreadPMCount(value)
 		{
-			var new_count = "";
-			if(value > 0)
-			{
-				new_count = " (" + FormatNumber(value) + ")";
+			var new_count = '';
+			if(value > 0) {
+				new_count = ' (' + FormatNumber(value) + ')';
 			}
 
-			document.getElementById("unread_pm_count_display").innerHTML = new_count;
+			$('unread_pm_count_display').innerHTML = new_count;
 			SetCookie(pm_count_cookie_name, value);
 		}
 
 		function SetLoggedInUsername(name)
 		{
-			document.getElementById("loginbox_username").innerHTML = "<a href=\"http://" + name.toLowerCase() + ".newgrounds.com/\">" + name + "</a>";
-			document.getElementById(username_fieldname).value = name;				// Also set the name in the login text field
+			$('loginbox_username').innerHTML = '<a href="http://' + name.toLowerCase() + '.newgrounds.com/">' + name + '</a>';
+			$(username_fieldname).value = name;				// Also set the name in the login text field
 		}
 
+		/* disabled for now
 		document.observe('dom:loaded', function() {
 			new Ajax.Autocompleter('topsearch_terms', 'searchhint', '/ajax/searchsuggestion.php', {
 				onShow: function(e, u) {
@@ -146,29 +141,30 @@
 					// Positioning is taken care of in CSS. Disregard the search element.
 					Effect.Appear(u,{duration:0.15});
 				},
+
 				onHide: function(e, u) {
 					$('topsuperbanner').style.visibility = 'visible';
 					new Effect.Fade(u,{duration:0.15});
 				},
+
 				minChars: 3,
 				frequency: 0.1,
+
 				callback: function(terms) {
 					return 'topsearch_terms=' + escape(terms.value) + '&topsearch_type=' + $F('topsearch_type');
 				}
 			});
 		});
+		*/
 
+		// assume ads are blocked until imported javascript tells us otherwise
 	// ]]>
 	</script>
-
-	<link rel="stylesheet" href="http://css.ngfiles.com/ng_publish.css?1240891201" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://css.ngfiles.com/iphone.css" type="text/css" media="only screen and (max-device-width: 480px)">
-	<link rel="stylesheet" href="http://css.ngfiles.com/print.css" type="text/css" media="print">
-	<!-- CSS -->
+	<script type="text/javascript" src="http://www.ngads.com/checkabp.js?thisistotrickabp=http://server.cpmstar.com/view.aspx"></script>
 
 	<link rel="shortcut icon" type="image/png" href="http://img.ngfiles.com/favicon.ico">
 
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="content-type" content="text/html; charset=windows-1252">
 	<meta name="viewport" content="width=780">
 </head>
 
@@ -176,17 +172,17 @@
 
 <div id="mainframe">
 	<div id="main">
-
+		<!-- SKINAD_OUTER -->
 		<div id="center">
 			<!-- SKINAD -->
 			<div id="banner">
 				<h1 class="ng"><a href="http://www.newgrounds.com/">Newgrounds.com — Everything, By Everyone.</a></h1>
 
 				<div id="wholeloginbox" class="loginbox">
-					<div id="loginbox" style="display: none;">
+					<div id="loginbox">
 						<strong class="status">Checking login status…</strong>
 					</div>
-					<div id="loginbox_notloggedin" class="hidecode" style="display: block;">
+					<div id="loginbox_notloggedin" class="hidecode">
 						<form method="post" action="http://www.newgrounds.com/account/" id="loginboxform" onsubmit="AttemptLogin();return(false);">
 
 						<ul>
@@ -239,6 +235,9 @@
 				</form>
 				<div class="linkcomplete" id="searchhint"></div>
 			</div>
+			<div id="skyplane">
+				<a href="http://www.newgrounds.com/art">New art portal!</a>
+			</div>
 
 			<div id="nav-sub">
 				<dl>
@@ -249,7 +248,6 @@
 					<dd><a href="http://www.newgrounds.com/lit/faq">Help / FAQ</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/lit/">Lit</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/mature/">Mature</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/ngmag/">NG Mag</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/network/">Network</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/rankings/">Rankings</a> |</dd>
 					<dd><a href="http://www.newgrounds.com/submit">Submit Content!</a></dd>
@@ -260,6 +258,7 @@
 				<dl>
 					<dd id="flashportal"><a href="http://www.newgrounds.com/portal/">Flash Portal</a></dd>
 					<dd id="audioportal"><a href="http://www.newgrounds.com/audio/">Audio Portal</a></dd>
+					<dd id="artportal"><a href="http://www.newgrounds.com/art/">Art Portal</a></dd>
 					<dd id="games"><a href="http://www.newgrounds.com/game/">Games</a></dd>
 					<dd id="movies"><a href="http://www.newgrounds.com/movies/">Movies</a></dd>
 					<dd id="collections"><a href="http://www.newgrounds.com/collection/">Collections</a></dd>
@@ -283,13 +282,16 @@
 					<div id="cont">
 
 						<!-- NOAD -->
-
-						<div class="box ad">
+						<div class="box adhead">
 							<div class="boxtop"><div></div></div>
 							<div class="boxl">
 								<div class="boxr">
-									<div class="boxm">
-										<iframe src="http://ads.newgrounds.com/ads.php?t=1&amp;s=et" frameborder="0" height="90" width="728" scrolling="no" class="horzad" id="topsuperbanner"></iframe>
+									<div class="boxm horzad">
+										<script type="text/javascript">
+// <![CDATA[ 
+addSwappableElement("<iframe src=\"http:\/\/ads.newgrounds.com\/ads.php?t=1&amp;s=et\" frameborder=\"0\" height=\"90\" width=\"728\" scrolling=\"no\" class=\"horzad\" id=\"topsuperbanner\"><\/iframe>", "wide", "bottomad");// ]]> 
+
+</script>
 									</div>
 								</div>
 							</div>
@@ -322,21 +324,21 @@
 											<p>Newgrounds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, <a href="/">Newgrounds.com</a>.</p>
 
 											<h4 class="white">Information Automatically Logged</h4>
-											<p>We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for on-line voting.</p>
+											<p>We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for online voting. If your account is linked to illegal activity or personal threats, your IP address will be made available to law enforcement personnel.</p>
 
 											<h4 class="white">Cookies</h4>
-											<p>Our site uses cookies to store your login information, if you choose to create an account and browse the site as a registered user.</p>
+											<p>Our site uses cookies to store your login information if you choose to create an account and browse the site as a registered user.</p>
 
 											<h4 class="white">Third Party Advertising</h4>
-											<p>Some ads appearing on this website are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">www.networkadvertising.org/optout_nonppii.asp</a>.</p>
-											<p>We use Gorilla Nation, Max WorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.</p>
+											<p>Ads appearing on this website are delivered to you by CPM Star, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.</p>
+											<p>CPM Star or other advertising companies we deal with may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.</p>
 
 											<h4 class="white"> Advertisers &amp; Third Party Cookies</h4>
-											<p>In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique cookie on your browser. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.</p>
+											<p>In the course of serving advertisements to this site, our third-party ad servers, their affiliates, or individual advertisers may place or recognize a unique cookie on your browser. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.</p>
 
 											<h4 class="white">Registration Forms</h4>
 											<p>Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (such as their zip code or age). Contact information from these forms is used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
-											<p>Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis.</p>
+											<p>Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. If your account is linked to illegal activity or personal threats, your registration info will be made available to law enforcement personnel.</p>
 
 											<h4 class="white">Order Forms</h4>
 											<p>Our site uses an order form for customers to request information, products, and services. We may collect contact information (such as their email address) from these forms to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the Choice/Opt-Out section below.</p>
@@ -375,13 +377,16 @@
 						</div>
 
 						<!-- Beginning of the bottom footer include -->
-
 						<div class="box adfoot">
 							<div class="boxtop"><div></div></div>
 							<div class="boxl">
 								<div class="boxr">
-									<div class="boxm">
-										<iframe src="http://www.newgrounds.com/includes/ad_bottom.php?id=2" scrolling="no" frameborder="0" height="90" width="728" id="bottomsuperbanner" class="horzad"></iframe>
+									<div class="boxm horzad">
+										<script type="text/javascript">
+// <![CDATA[ 
+addSwappableElement("<iframe src=\"http:\/\/www.newgrounds.com\/includes\/ad_bottom.php?id=2\" scrolling=\"no\" frameborder=\"0\" height=\"90\" width=\"728\" id=\"bottomsuperbanner\" class=\"horzad\"><\/iframe>", "wide", "bottomad");// ]]> 
+
+</script>
 									</div>
 								</div>
 							</div>
@@ -408,20 +413,20 @@
 
 		<h4>Movies of the Week</h4>
 		
-				<div><a href="http://www.newgrounds.com/portal/view/491580" class="feature">
-			<img src="http://picon.ngfiles.com/491000/portal_491580.gif" alt="Castle Repercussions - C">
+				<div><a href="http://www.newgrounds.com/portal/view/520604" class="feature">
+			<img src="http://picon.ngfiles.com/520000/portal_520604.gif" alt="the Last of the Dashkin">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Castle Repercussions - C</span>A Sergeant's Feud - Third part of Castle Repercussions. Hot action!			</span></span></span>
+				<span class="ftitle">the Last of the Dashkin</span>..but where did he come from, this fleck of spite in an abandoned paradise?			</span></span></span>
 		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/492207" class="feature">
-			<img src="http://picon.ngfiles.com/492000/portal_492207.gif" alt="MovieMakers">
+				<div><a href="http://www.newgrounds.com/portal/view/520848" class="feature">
+			<img src="http://picon.ngfiles.com/520000/portal_520848.gif" alt="Pencilmation 11">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">MovieMakers</span>Tom buys an expensive camera and the gang have to earn their money back!			</span></span></span>
+				<span class="ftitle">Pencilmation 11</span>Trouble is afoot when a hippie and a business man are drawn into the same cartoon.			</span></span></span>
 		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/492290" class="feature">
-			<img src="http://picon.ngfiles.com/492000/portal_492290.gif" alt="The Hard Way">
+				<div><a href="http://www.newgrounds.com/portal/view/520901" class="feature">
+			<img src="http://picon.ngfiles.com/520000/portal_520901.gif" alt="Thomas the elf">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">The Hard Way</span>Cyanide and Happiness hits Newgrounds the hard way.			</span></span></span>
+				<span class="ftitle">Thomas the elf</span>The number one fan of Santa Claus.			</span></span></span>
 		</a></div>
 		
 	</div>
@@ -430,20 +435,20 @@
 
 		<h4>Games of the Week</h4>
 		
-				<div><a href="http://www.newgrounds.com/portal/view/492477" class="feature">
-			<img src="http://picon.ngfiles.com/492000/portal_492477.gif" alt="Sonny 2">
+				<div><a href="http://www.newgrounds.com/portal/view/520768" class="feature">
+			<img src="http://picon.ngfiles.com/520000/portal_520768.gif" alt="Ching Chong Beautiful">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Sonny 2</span>Play as a Zombie in this second chapter of the Sonny RPG series! Abuse humans.			</span></span></span>
+				<span class="ftitle">Ching Chong Beautiful</span>Can you defeat Mr.Beautiful's Wicked Obstacle Course?			</span></span></span>
 		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/492046" class="feature">
-			<img src="http://picon.ngfiles.com/492000/portal_492046.gif" alt="Hero's Arms">
+				<div><a href="http://www.newgrounds.com/portal/view/520516" class="feature">
+			<img src="http://picon.ngfiles.com/520000/portal_520516.gif" alt="Goldilocks - Twisted">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Hero's Arms</span>Defeat the evil Gordzak in this retro-fashioned Zelda-like adventure game !			</span></span></span>
+				<span class="ftitle">Goldilocks - Twisted</span>Join Goldilocks as she loots a house that is not her own in this Twisted Fairytale.			</span></span></span>
 		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/491758" class="feature">
-			<img src="http://picon.ngfiles.com/491000/portal_491758.gif" alt="Oozing Forever">
+				<div><a href="http://www.newgrounds.com/portal/view/520898" class="feature">
+			<img src="http://picon.ngfiles.com/520000/portal_520898.gif" alt="Arcuz">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Oozing Forever</span>Bounce, bash, and ooze your way to freedom... while getting a little revenge on the side.			</span></span></span>
+				<span class="ftitle">Arcuz</span>Flash ARPG of the year! Help Village Arcuz! Play Arcuz while waiting for Diablo3!			</span></span></span>
 		</a></div>
 				
 	</div>
@@ -452,20 +457,20 @@
 
 		<h4>Today's Best</h4>
 		
-				<div><a href="http://www.newgrounds.com/portal/view/493215" class="feature">
-			<img src="http://picon.ngfiles.com/493000/portal_493215.gif" alt="Reincarnation: ROA">
+				<div><a href="http://www.newgrounds.com/portal/view/521708" class="feature">
+			<img src="http://picon.ngfiles.com/521000/portal_521708.gif" alt="Left 4 Speed 2">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Reincarnation: ROA</span>Help the demon send the reincarny Riley back to hell.			</span></span></span>
+				<span class="ftitle">Left 4 Speed 2</span>Oh Lordy			</span></span></span>
 		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/493189" class="feature">
-			<img src="http://picon.ngfiles.com/493000/portal_493189.gif" alt="ERROAR">
+				<div><a href="http://www.newgrounds.com/portal/view/521675" class="feature">
+			<img src="http://picon.ngfiles.com/521000/portal_521675.gif" alt="Damn Birds 2">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">ERROAR</span>Who are these kids and why are they fighting in a forest?			</span></span></span>
+				<span class="ftitle">Damn Birds 2</span>What do the statues of the past, present, and future have in common? Bird shit on them!			</span></span></span>
 		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/493248" class="feature">
-			<img src="http://picon.ngfiles.com/493000/portal_493248.gif" alt="F-Bombs and Potatoes">
+				<div><a href="http://www.newgrounds.com/portal/view/521672" class="feature">
+			<img src="http://picon.ngfiles.com/521000/portal_521672.gif" alt="Submarine Vs Aliens">
 			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">F-Bombs and Potatoes</span>A doubled sided rock anthem of f-bombs, potatoes and superheros.			</span></span></span>
+				<span class="ftitle">Submarine Vs Aliens</span>Crazy shooter with a lot of enemies, weapons and upgrades			</span></span></span>
 		</a></div>
 		
 	</div>
@@ -504,12 +509,19 @@
 	</div>
 </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-850825-1";
-urchinTracker();
-</script>
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	// <![CDATA[
+		_uacct = "UA-850825-1";
+		urchinTracker();
+	// ]]>
+	</script>
 
+<script type="text/javascript">
+	// <![CDATA[
+		fillSwappableElements();
+	// ]]>
+</script>
 
 
 </body></html>
