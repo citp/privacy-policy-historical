@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychiatryonline.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132039id_/http%3A//www.psychiatryonline.org/misc/PrivacyPolicy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiatryonline.org privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222000736id_/http%3A//www.psychiatryonline.org/misc/PrivacyPolicy.dtl) for the most accurate reproduction.*
 
 # Privacy Policy
 
