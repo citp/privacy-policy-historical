@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140906id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063239id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Jamaicans.com Privacy Policy, Copyright and Disclaimer (Jamaica)
 
@@ -18,7 +18,7 @@ Personal information will not be released to third parties except to further the
 
 Jamaicans.com works with a third party that serves ads to this site.
 
-If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20090618140906id_/http%3A//www.jamaicans.com/about/contact.shtml).
+If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20091221063239id_/http%3A//www.jamaicans.com/about/contact.shtml).
 
   
 ******Copyright******
@@ -28,10 +28,10 @@ No articles, content, audio, music, image, artwork, or graphic may be copied, do
 
 If you believe that your work has been copied and is accessible on this site in a way that constitutes copyright infringement, you may notify jamaicans.com. Click [here](http://www.jamaicans.com/about/CopyrightInfringement.shtml) for instructions.
 
-******Jamaicans.com Disclaimer******
-
- ** **Articles****  
+******Jamaicans.com Disclaimer******  
 The views and opinions expressed by contributors to Jamaicans.com are strictly those of the author. The views and opinions expressed within content stored on this site do not reflect the views and opinions of Jamaicans.com. We do not take responsibility for the personal opinions expressed.
+
+Articles
 
 **Jamaicans.com Community Bulletin Board**  
 Jamaicans.com accept no liability whatsoever for any contributions to the Bulletin Board. All are welcome to post messages to this informal service but usage is at the contributors own risk and liability.
@@ -51,3 +51,11 @@ Although this BB does not and cannot review the messages posted and is not respo
 We at this BB also reserve the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you.
 
 Please note that advertisements, chain letters, pyramid schemes, and solicitations are inappropriate on this BB.
+
+**Third Party Advertisers Privacy Policy**
+
+Jamaicans.com displays third party advertisements. Below are links to their Privacy Policy.
+
+  * [Value Click Media privacy policy](http://www.valueclickmedia.com/privacy.shtml)
+
+
