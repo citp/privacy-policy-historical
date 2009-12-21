@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitchrate.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041831id_/http%3A//www.pitchrate.com/content/content-article.asp%3FArticleID%3D4816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchrate.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023340id_/http%3A//www.pitchrate.com/content/content-article.asp%3FArticleID%3D4816) for the most accurate reproduction.*
 
-# PitchRate.com:Privacy Policy
+# Free Publicity:Privacy Policy
 
 PitchRate.com is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
