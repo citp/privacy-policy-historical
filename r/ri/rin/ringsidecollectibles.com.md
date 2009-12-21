@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621193902id_/http%3A//www.ringsidecollectibles.com/Merchant2/merchant.mv%3FScreen%3DCTGY%26Store_Code%3DR%26Category_Code%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022654id_/http%3A//www.ringsidecollectibles.com/Merchant2/merchant.mv%3FScreen%3DCTGY%26Store_Code%3DR%26Category_Code%3DPRV) for the most accurate reproduction.*
 
 # RINGSIDE COLLECTIBLES WWE Toy Wrestling Action Figures, Jakks Pacific, Classic Superstars Action Fig: Privacy Policy
 
