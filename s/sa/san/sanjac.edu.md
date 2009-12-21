@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617182430id_/http%3A//www.sanjac.edu/about_us_9156.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222003345id_/http%3A//www.sanjac.edu/about_us_9156.html) for the most accurate reproduction.*
 
 # San Jacinto College - Your Goals. Your College.
 
