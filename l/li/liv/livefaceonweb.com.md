@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the livefaceonweb.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621033656id_/http%3A//www.livefaceonweb.com/ps.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefaceonweb.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221054637id_/http%3A//www.livefaceonweb.com/ps.aspx) for the most accurate reproduction.*
 
 # LiveFaceOnWeb.com
 
-|  |  |  | [](http://www.livefaceonweb.com/default.aspx) | [](http://www.livefaceonweb.com/info.aspx) | [](http://www.livefaceonweb.com/faq.aspx) | [](http://www.livefaceonweb.com/samples.aspx) | [](https://www.livefaceonweb.com/order.aspx)  
+|  |  |  | [](http://www.livefaceonweb.com/default.aspx "Home") | [](http://www.livefaceonweb.com/info.aspx "Info") | [](http://www.livefaceonweb.com/faq.aspx "FAQ / Pricing") | [](http://www.livefaceonweb.com/samples.aspx "Samples") | [](https://www.livefaceonweb.com/order.aspx "Models / Order")  
 ---|---|---|---|---  
-[Home](http://www.livefaceonweb.com/default.aspx "Home Page") | [Info](http://www.livefaceonweb.com/info.aspx "Info Page") | [FAQ / Pricing](http://www.livefaceonweb.com/faq.aspx "FAQ / Pricing") | [Samples](http://www.livefaceonweb.com/samples.aspx "Samples Page") | [Models / Order](https://www.livefaceonweb.com/order.aspx "Models / Order")  
-|  |  Privacy Statement  
+[Home](http://www.livefaceonweb.com/default.aspx "Home") | [Info](http://www.livefaceonweb.com/info.aspx "Info") | [FAQ / Pricing](http://www.livefaceonweb.com/faq.aspx "FAQ / Pricing") | [Samples](http://www.livefaceonweb.com/samples.aspx "Samples") | [Models / Order](https://www.livefaceonweb.com/order.aspx "Models / Order")  
+|  | Privacy Statement  
 ---  
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.  
 INFORMATION COLLECTION AND USE  
@@ -39,13 +39,13 @@ We are committed to resolving disputes within 24-48 hours. If problems arise, us
 CONTACT INFORMATION   
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-LiveFaceOnWeb, LLC  
+Live Face On Web, LLC  
 1300 Industrial Boulevard, Suite 202  
 Southampton, PA 18966  
 U.S.A.  
 **Business Hours:** M-F 10:00AM - 7:00PM EST
 
-**Phone:** +1-800-353-1990  
+**Phone:** +1-215-355-3501  
 **Fax:** +1-215-396-2870
 
 **Email:** [privacy@livefaceonweb.com](mailto:privacy@livefaceonweb.com)  
