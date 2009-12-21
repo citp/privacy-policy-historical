@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedudes247.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183011id_/http%3A//www.collegedudes247.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedudes247.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022611id_/http%3A//www.collegedudes247.com/privacy.asp) for the most accurate reproduction.*
 
 # CollegeDudes247: Naked College Men, Amateur Hot Guys, Horny Boys, Big Cock, Hardcore Gay Sex
 
