@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202205id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022237id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # National Kidney Foundation: Our Privacy Policy
 
@@ -29,5 +29,7 @@ The National Kidney Foundation uses cookies to remember visitor preferences. For
 ## Advertising
 
 This Web site does not accept advertising 
+
+[Policy on Discontinuing Contact](https://web.archive.org/about/pdf/PolicyDiscontinuingContact.pdf)
 
 Revised 8/18/08
