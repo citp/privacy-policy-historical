@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsscan.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174631id_/http%3A//www.alsscan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsscan.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221174008id_/http%3A//www.alsscan.com/privacy.html) for the most accurate reproduction.*
 
 # ALS Scan Privacy Policy!
 
@@ -17,10 +17,6 @@ It is important for you to assist ALS in protecting against unauthorized access 
 ### Information Sharing
 
 All information submitted is held strictly confidential. ALS never has, nor will ALS ever, distribute **any** of its users' information.
-
-### Cookies
-
-ALS Scan does not use cookies.
 
 ### Credit Card Billing
 
