@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627081652id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221123724id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.*
 
 # Jazz - AllAboutJazz.com
 
