@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitar-chords.org.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192131id_/http%3A//www.guitar-chords.org.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar-chords.org.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221024210id_/http%3A//www.guitar-chords.org.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Guitar-Chords.org.uk - Privacy policy
 
