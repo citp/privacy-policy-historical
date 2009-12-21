@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507013017id_/http%3A//support.tigertech.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234137id_/http%3A//support.tigertech.net/privacy-policy) for the most accurate reproduction.*
 
 # Tiger Technologies: Privacy Policy
 
@@ -14,7 +14,7 @@ If you choose to sign up for a domain name, your contact information may be made
 
 We may provide your contact information to other parties for legal reasons. For example, we may provide it in response to a court order, or to a request from a law enforcement agency, or to other parties if necessary to resolve an apparent violation of our Terms of Service. 
 
-If you sign up for a Web hosting account and we issue a [Referral Reward](https://web.archive.org/referral) to an existing customer who referred you, the other customer will know your domain name and may be able to use the resulting accounting records to determine the basic cost of the plan you signed up for and the date you close your account. We do not provide any other information to the existing customer. 
+If you sign up for a Web hosting account and we issue a [Referral Reward](https://web.archive.org/referral) to an existing customer who referred you, the other customer will know your domain name and which hosting plan you sign up for. We do not provide any other information to the existing customer. 
 
 We will not share your contact information with third parties for other reasons. In particular, we never sell or trade customer information for marketing purposes. 
 
@@ -35,6 +35,10 @@ Our Web site (and its cookies) cannot reference any personal information unless 
 ### Encryption
 
 In order to further protect customer information, certain forms on our Web site are run on a secure server, utilizing encryption technology to safeguard all credit card transactions from unauthorized viewing. We use industry-standard SSL encryption. 
+
+### Spam Reports
+
+If you are a customer of our e-mail service and you report an incoming message to us as "spam", we may view the complete contents of that message and share it with our anti-spam technology partner companies to improve our spam filtering. 
 
 ### Summary
 
