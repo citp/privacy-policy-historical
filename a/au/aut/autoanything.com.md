@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627002131id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221092238id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
 # AutoAnything Privacy Policy
 
@@ -103,7 +103,7 @@ AutoAnything has Affiliate Programs which are operated by Performics and Commiss
 
 If you enter any of the above you may be asked to provide contact information which may be used for administration and promotional purposes. Your consent to such use is a condition of your participation. The awarding of any prize to you will be subject to the execution of liability, Publicity Releases and an Affidavit of Eligibility in compliance with the rules applicable to the relevant promotional activity.
 
-### Collecting Informantion on Children
+### Collecting Information on Children
 
 AutoAnything.com does not knowingly collect personal information from children under the age of 13. Children are not permitted to use the AutoAnything.com website or services, and AutoAnything.com requests that children under the age of 13 not submit any personal information to the website. Since information regarding children under the age of 13 is not collected, AutoAnything.com does not knowingly distribute personal information regarding children under the age of 13.
 
@@ -228,8 +228,10 @@ San Diego, CA 92123
 ---|---|---  
 **Phone Sales:** | Monday - Thursday | 5:30am - 8:00pm  
 (All times PST) | Friday | 5:30am - 5:00pm  
-(800) 874-8888 | Saturday | 6:00am - 6:00pm  
+(800) 874-8888 | Saturday | 6:00am - 5:00pm  
   | Sunday | 6:00am - 7:00pm  
+|  Closed on Friday, 12/25/2009.  
+Closed on Friday, 1/1/2010.  
   
 
 
