@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174513id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222224329id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.com - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
@@ -100,7 +100,7 @@ For customers who wish to opt-out and stop receiving Newegg.com special offers a
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
-If you have opted out of receiving communications from Newegg.com, you will still be able to view news of policy changes at [www.Newegg.com](http://www.newegg.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates. 
+If you have opted out of receiving communications from Newegg.com, you will still be able to view news of policy changes at [www.newegg.com](http://www.newegg.com/). Otherwise, you may e-mail us at [webmaster@newegg.com](mailto:webmaster@newegg.com) or call us toll free at (800) 390-1119 to ask our customer service department about changes and updates. 
 
 ##  Last Update
 
