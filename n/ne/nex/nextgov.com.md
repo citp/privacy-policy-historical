@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextgov.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621194919id_/http%3A//www.nextgov.com/site_services/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgov.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222035234id_/http%3A//www.nextgov.com/site_services/privacy_policy.php) for the most accurate reproduction.*
 
-# Nextgov - NextGov.com Privacy Policy
+# NextGov.com Privacy Policy - Site Services
 
 At Nextgov, we want you to enjoy and benefit from Nextgov content with the comfort and knowledge that we have taken steps to implement fair information practices designed to protect your privacy. The following explains what information we collect about you and how we use it.
 
