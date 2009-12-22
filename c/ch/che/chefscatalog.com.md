@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153113id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222072519id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
 
-# CHEFS: The Best Kitchen Starts Here -- Shop cookware, cutlery, kitchen electrics and tools for the cooking enthusiast and home chef
+# CHEFS: The Best Kitchen Starts Here
 
 **Secure ordering**  
 Your online credit card transactions are secure with chefscatalog.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
@@ -79,9 +79,17 @@ To make online shopping faster and easier, you may register with chefscatalog.co
 If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
 
 **E-mails**  
-You will receive promotional e-mails from us only if you have asked to receive them. Each time you receive an e-mail from CHEFS™, you will be given the opportunity to "opt-out" or stop receiving them.
+We use your email address to: 
 
-If you choose to "opt-out," we will stop sending you e-mails. Please note, however, that some e-mail promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request.
+  * keep you informed about the status of your orders
+  * notify you of new or additional products, services, and promotions that might be of interest to you
+  * notify you of product recalls or provide other information concerning products you have purchased
+
+
+
+Upon ordering or creating an account at chefscatalog.com, you will receive promotional e-mails from chefs™. You always have the ability to "opt-out" or stop receiving promotional e-mails from chefs™ by clicking the unsubscribe link in the email, logging into your account and managing your preferences, or contacting customer service at 800-338-3232.
+
+If you choose to "opt-out," we will stop sending you promotional e-mails, but will still send you order confirmations and shipping notice emails. Please note, however, that some e-mail promotions are prepared well in advance, so you may continue to receive offers after you have chosen to "opt-out." We appreciate your patience in giving us time to carry out your request.
 
 **Any questions?**  
 We'll be happy to provide additional information or answer any questions.  
