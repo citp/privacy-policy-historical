@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521205007id_/http%3A//www.cobragolf.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222091410id_/http%3A//www.cobragolf.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Cobra Golf
 
