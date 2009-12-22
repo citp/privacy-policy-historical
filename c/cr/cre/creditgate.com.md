@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditgate.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080923id_/http%3A//www.creditgate.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditgate.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222232238id_/http%3A//www.creditgate.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Business Reports and Information
 
