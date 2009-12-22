@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentandshowbiz.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203340id_/http%3A//www.entertainmentandshowbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentandshowbiz.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222223333id_/http%3A//www.entertainmentandshowbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment and Showbiz!
 
