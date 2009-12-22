@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205628id_/http%3A//www.geisinger.org/tc/npp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223004057id_/http%3A//www.geisinger.org/tc/npp.html) for the most accurate reproduction.*
 
 # Notice of Privacy Practice
 
@@ -195,16 +195,16 @@ Washington, D.C. 20201
 
 #### Footnote
 
-*Geisinger Health System is a registered trademark. Although Geisinger Health System Foundation does not provide medical care of any type or employ physicians, it is the corporate parent of Geisinger Medical Center, Geisinger Clinic, Geisinger Wyoming Valley Medical Center and Geisinger South Wilkes-Barre, each of which is an individual corporate entity legally separate and distinct from Geisinger Health System Foundation. The below listed separate corporate entities are among those that are participating in an organized health care arrangement. The legally separate corporate parent, Geisinger Health System Foundation, is also participating in such organized health care arrangement. These separate legal entities may share protected health information with each other as necessary to carry out treatment, payment or health care operations relating to the organized health care arrangement unless otherwise limited by law, rule or regulation.
+*Geisinger Health System is a registered trademark. Although Geisinger Health System Foundation does not provide medical care of any type or employ physicians, it is the corporate parent of Geisinger Medical Center, Geisinger Clinic and Geisinger Wyoming Valley Medical Center, each of which is an individual corporate entity legally separate and distinct from Geisinger Health System Foundation. The below listed separate corporate entities are among those that are participating in an organized health care arrangement. The legally separate corporate parent, Geisinger Health System Foundation, is also participating in such organized health care arrangement. These separate legal entities may share protected health information with each other as necessary to carry out treatment, payment or health care operations relating to the organized health care arrangement unless otherwise limited by law, rule or regulation.
 
 Geisinger Clinic (all sites)| International Shared Services, Inc.  
 ---|---  
 Geisinger Medical Center| Geisinger System Services  
-Geisinger South Wilkes-Barre| Geisinger Assurance Company, Ltd  
-Geisinger Wyoming Valley Medical Center| Geisinger Medical Management Corporation  
-Geisinger Community Health Services| Geisinger Health Plan  
-Marworth| Geisinger Indemnity Insurance Company  
-Geisinger Insurance Corporation - Risk Retention Group       | Geisinger Quality Options, Inc.  
+Geisinger Wyoming Valley Medical Center| Geisinger Assurance Company, Ltd  
+Geisinger Community Health Services| Geisinger Medical Management Corporation  
+Marworth| Geisinger Health Plan  
+Geisinger Insurance Corporation - Risk Retention Group | Geisinger Indemnity Insurance Company  
+      | Geisinger Quality Options, Inc.  
   
   
 This Notice of Privacy Practices applies to all entities except Marworth, Geisinger Health Plan, Geisinger Indemnity Insurance Company, and Geisinger  Quality Options, Inc. To request the Notice of Privacy Practices for Marworth, Geisinger Health Plan, or Geisinger Indemnity Insurance Company, please contact our Privacy Officer at (570) 271-7360.
