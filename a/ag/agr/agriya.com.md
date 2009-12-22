@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140918id_/http%3A//www.agriya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222194423id_/http%3A//www.agriya.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
 ## This is the Privacy Policy for Agriya Infoway Pvt Ltd. 
 
 **Our Contact Information is:**  
-16/3-A, Krishna Iyer Street,  
+No:16/3, Krishna Street,  
 Nungambakkam,  
 Chennai - 600 034.  
 Tamil Nadu.  
 India.  
-91-44-30284353  
+91-44-28207100  
 [info@agriya.com](mailto:info@agriya.com)
 
 We do not collect any information about our visitor's email or referring domain.
