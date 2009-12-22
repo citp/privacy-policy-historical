@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621122357id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222032118id_/http%3A//nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -62,4 +62,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"This is a fantastic site. I signed up for alert of Wii. I received notification that it was in stock at Sears, and placed my order! Im so happy to be laying in bed on this black Friday and not standing in some crazy freezing line waiting for the stores to open. Thanks for the rest!!!!" -randi
+"I want to say thank you! I was able to get my daughter a Zhu Zhu Pet gift set from Amazon because of Nowinstock.net! You guys have made her Christmas very special! I appreciate how simple the site is and the desktop notifier is the best!" -miller721
