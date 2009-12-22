@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seekingalpha.com privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628130040id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekingalpha.com privacy policy that was archived on 2009-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222070353id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy -- Seeking Alpha</title>
@@ -8,136 +8,149 @@
 <link rel="search" type="application/opensearchdescription+xml" href="/javascripts/seeking.xml" title="SeekingAlpha Search">
 
 
-<link href="http://static.seekingalpha.com/stylesheets/print.css?1244977718" media="print" rel="stylesheet" type="text/css">
+<link href="http://static.seekingalpha.com/stylesheets/print.css?1261314852" media="print" rel="stylesheet" type="text/css">
 
 <link rel="shortcut icon" type="image/ico" href="http://static.seekingalpha.com/favicon.ico">
-<link href="http://static.seekingalpha.com/stylesheets/performance_layout_bundle.css?1244978106" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.seekingalpha.com/stylesheets/second_performance_layout_bundle.css?1244978107" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.seekingalpha.com/stylesheets/performance_layout_bundle_20090609b.css?1261314903" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.seekingalpha.com/stylesheets/second_performance_layout_bundle_20090609b.css?1261314906" media="screen" rel="stylesheet" type="text/css">
 
-<script src="http://static.seekingalpha.com/javascripts/common_bundle.js?1244978129" type="text/javascript"></script>
+<script type="text/javascript">
+var user_cookie={};
+
+function readCookie(name) {
+    var cookie = document.cookie.match(new RegExp('(^|;)\\s*' + escape(name) + '=([^;\\s]*)'));
+    return (cookie ? unescape(cookie[2]) : null);
+}
+
+function addToCookie(key,value) {
+	var arr=user_cookie[key].split(',');
+	arr.push(value);
+
+	
+	user_cookie[key]=arr.join(',');
+}
+
+if (readCookie('user_cookie_key')) {
+  document.write('<scr'+'ipt src="http://static.seekingalpha.com/account/cookie/'+readCookie('user_cookie_key')+'"></scri'+'pt>');
+}
+else if (readCookie('user_id')) {
+  document.write('<scr'+'ipt src="http://seekingalpha.com/account/no_cookie_key"></scri'+'pt>');
+}
+</script>
+<script src="http://static.seekingalpha.com/javascripts/common_bundle_20090609b.js?1261314912" type="text/javascript"></script>
+
 
 
 
 <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
+<script src="http://cdn.gigya.com/JS/gigya.js?services=socialize" type="text/javascript"></script>
 
 
-<!-- ClickTale Top part -->
+
 <script type="text/javascript">
-  var WRInitTime=(new Date()).getTime();
+function user_picture(id,picture_size) {
+  string_id = id.rjust(9,"0");
+  return "http://staticorigin.seekingalpha.com/images/users_profile/" + string_id.substr(0,3)+"/"+string_id.substr(3,3)+"/"+string_id.substr(6,3) + "/" + picture_size + "_pic.png?rand=" + Math.random()
+}
+
+function pause(millis) {
+  var date = new Date();
+  var curDate = null;
+  do { curDate = new Date(); }
+  while(curDate-date < millis)
+}
+
+window.onbeforeunload = function() {
+  if ($('hiddenDiv')) pause(300);
+};
+
+if (is_users_cookie_exists()) {
+  eraseCookie("user_watchlist_slugs");
+  eraseCookie("user_non_watchlist_slugs");
+  eraseCookie("user_watchlist_authors");
+  eraseCookie("user_following_users");
+  eraseCookie("favorite_article_symbols");
+  eraseCookie("favorite_symbols_and_authors");
+}
+
+
+if (readCookie('user_author_slug')==null) {
+    createCookie('user_author_slug',readCookie('author_slug'),365);
+    eraseCookie('author_slug');
+}
+if (readCookie('user_author_slug') == 'null') createCookie('user_author_slug','');
+
+if (is_users_cookie_exists() && readCookie('user_email').indexOf('@gmail.com')!=-1) {
+    createCookie('user_email',(readCookie('user_email').replace('@gmail.com','').replace(/\./gi,'').replace(/\+(.*?)$/,''))+'@gmail.com',365)
+}
+
+var website_cookie = readCookie('user_mywebsite_url');
+if (is_users_cookie_exists() && (website_cookie != null) && website_cookie.indexOf("\r")!=-1) {
+  my_website = readCookie('user_mywebsite_url').replace(/\r|\n/g,"");
+  createCookie('user_mywebsite_url',my_website,365);
+}
+
+Mone.moneTrackerPost=function(str) {
+  new Ajax.Request('/mone', {
+  asynchronous:true,
+   method:'post',
+    postBody:"mone="+escape(str)
+  });
+}
+
+Authentication.Login=function () {
+	var oLoginForm=$('authentication_login_form'),
+		oError=$('authentication_login_notice'),
+		oResponse;
+	
+	if (bInProcees) return;
+	
+	if (!validate_email('authentication_login_email','authentication_login_notice') ||
+		!validate_password('authentication_login_password','authentication_login_notice','Please enter your password.',1,80)
+	) {
+		$('authentication_notices').setStyle({display:''});
+		
+		return;
+	}
+
+	urchinTracker('event/quickread/logged_out/try_to_login');
+
+	new Ajax.Request("/authentication/login", {
+		asynchronous:true,
+		parameters:Form.serialize(oLoginForm),
+        method:'post',
+		onLoading:function () {
+			bInProcees=true;
+			$('authentication_login_button').addClassName('disabled');
+			$('login_loader').setStyle({ display:'' });
+		},
+		onComplete:function(transport) {
+			if (transport.status==200) {
+
+				eval('oResponse='+transport.responseText);
+				if (oResponse.login) {
+				  if (mone_action) Mone.touch("log_reg_"+mone_action+"_logged");
+					Authentication.Extra=oResponse.extra;
+					setTimeout(function(){eval(oResponse['function']+'("'+oResponse.id+'")');}, 500);
+				}	else {
+					oError.innerHTML=Authentication.Messages[oResponse.message];
+					$('authentication_notices').setStyle({display:''});
+				}
+			}
+		
+			$('authentication_login_button').removeClassName('disabled');
+			$('login_loader').setStyle({ display:'none' });
+			bInProcees=false;
+		},
+		onError:function () {
+			$('authentication_login_button').removeClassName('disabled');
+			$('login_loader').setStyle({ display:'none' });
+			bInProcees=false;
+		}
+	});
+}
 </script>
-<!-- ClickTale end of Top part -->
 
-<script>
-//if ((!isRefresh) && (getURLParam('source')!='yahoo') && (readCookie('splashad')!='elsar') && (rand(1000)<25)) {
-//  createCookie('spreferrer',top.location.href);
-//  top.location.href='http://seekingalpha.com/splash.html';
-//}	      
-Watchlist.direct_to_edit_portfolio = function () {
-  window.location = "/account/portfolio";
-}
-
-</script>
-<style type="text/css">
-#author_info img {  padding:1px;}
-.user_stuff_navigation .img_bg_default img.width115.author_pic{padding:1px;}
-.my_seekingalpha_pages  .my_stuff_navigation img.width115.author{ padding:1px;}
-.instablog_main_content #article_body {
-    left:13px !important;
-    *left:-6px !important;
-    margin-left:-16px !important;
-  *margin-left:0px !important;
-    float:none !important;
-    clear:both !important;
-    width:483px !important;
-    padding-right:0 !important;
-}
-.latest_stocktalks_page .latest_stocktalks_page_message {
-  margin:24px 0 20px 0 !important;
-}
-.sector_dashboard .popular_dashboard_symbols td.yeat_last {
-  font-size:0.95em;
-}
-@media print {
-  #floating_bar,
-  .header_user_stuff,
-  .search_box_container_isolated,
-  .search_box_container_instablog,
-  .user_stuff_navigation,
-  .insablog_inside_note_wrapper {display:none;}
-  .small_font_size, #article_body.small_font_size * {font-size:14px;}
-  .medium_font_size, #article_body.medium_font_size * {font-size:17px;}
-  .large_font_size, #article_body.large_font_size * {font-size:20px;}
-}
-
-#sector_dashboard_page .side_bar_sector h6 {
-    font-size:1.02em;
-}
-
- #sector_dashboard_page .side_bar_sector a {
-    padding:2px 5px 3px 21px;
-    font-size:1.02em;
-    line-height:1.02em;
-
- }
-.sector_dashboard .popular_dashboard_symbols td.yeat_last{
-     font-size:0.95em;
- }
-
-.my_seekingalpha_pages .user_nav_list {
-   margin:0px 0 0;
-}
-.profile_navigation .pic_and_details_wrapper {
-    padding:0 0 25px;
-}
-
- .profile_navigation .pic_and_details {
-   background:transparent url("/images/user/user_img_header_bg_top.jpg") no-repeat top !important;
- }
-
- .profile_navigation .user_followers_following {
-  width:169px;
-
- }
-.author_page .author_navigation .colored {
-  padding:5px 0 25px;
-  border-right:1px solid #BFBFBF;
-  border-top:1px solid #BFBFBF;
- }
-.author_page .author_navigation .nav_one{
- width:156px;
- border-right:1px solid #E1E1E1;
-}
-
-.author_page .author_navigation .nav_one.first {
-  margin:0px 0 0 0 !important;
- }
-.front_most_pppular_articles {
-   border-bottom:1px dashed #dddddd;
-}
-.front_most_pppular_articles .more {
-  border-bottom:none;
-}
-.profile_navigation .pic_and_details {
- background-position:left top !important;
-}
-
-.my_empty_stocktalks{
-border-bottom:none !important;
-}
-
-#comments ul li .comment_information .commenter_details ul li a {
-font-size:12px;
-}
-#comments ul li .comment_information .commenter_stocktalk a{
-color:#B63914 !important;
-}
-#comments ul li .comment_information .commenter_name a {
-color:#024999;
-}
-#comments ul li .comment_information .commenter_no_comments a {
-color:#b63914 !important;
-}
-</style>
 
 
 <!-- GOOGLE ANALYTICS -->
@@ -157,39 +170,91 @@ color:#b63914 !important;
 
 <!--NAME:Privacy | SLUG:privacy-->
 
-</head><body><div id="floating_bar" style="left:1px;bottom:0px;">
-  <div class="floating_logged_in" id="floating_logged_in" style="display:none;">
-  </div>
-  
-  <div class="floating_logged_out" id="floating_logged_out">
-    <ul>
-      <li class="register"><a href="/account/login">Register</a></li>
-      <li class="log_in"><span onmouseout="link_out(this, '#FFF')" onmouseover="link_over(this, '#FFF')" onclick="open_header_log_in_popup_lightbox()" style="color:#FFF !important;">Log in</span></li>
-    </ul>
-    <span class="msg">(<strong>To comment and access your:</strong> Portfolio, Instablog, StockTalk and Settings)</span>
-  </div>
-  
-  <a href="http://www.seekingalpha.com" class="floating_logo"></a>
-</div>
+<script type="text/javascript" src="/javascripts/refaeli.js"></script>
+
+<script>
+function show_login_pop() {
+  var aHtml=[];
+
+  aHtml.push('<div class="header_log_in_popup">');
+    aHtml.push('<div class="close_quickread_stretchable" onclick="AlphaBox.Close()"><span class="close_left"></span><span class="close_text">Close</span><span class="close_right"></span></div>');
+    aHtml.push('<div class="header_log_in_popup_content">');
+      aHtml.push('<div class="header_log_in_popup_content_header"><span>Login</span> - for registered users</div>');
+			aHtml.push('<form onsubmit="submit_orthodox_login_form_ajax();return(false)" id="orthodox_login_pop" method="post" style="position:relative;" action="/account/orthodox_login">');
+        aHtml.push("<div id='login_generic_loader' class='generic_login_loader' style='display:none;'><img src='/images/loader.gif' /></div>");
+				aHtml.push('<input type="hidden" value="" name="slugs[]" id="slugs_input_login"/>');
+				aHtml.push('<fieldset>');
+					aHtml.push('<span>Email:</span>');
+					aHtml.push('<input type="text" class="text" id="login_user_email_pop" name="user[email]"/>');
+				aHtml.push('</fieldset>');
+				aHtml.push('<fieldset>');
+					aHtml.push('<span>Password:</span>');
+					aHtml.push('<input type="password" class="text" id="login_user_password_pop" name="user[password]"/>');
+				aHtml.push('</fieldset>');
+				aHtml.push('<div class="notice_message" id="notice_login_pop"></div>');
+				aHtml.push('<span class="header_log_in_popup_login_btn">');
+					aHtml.push('<span class="l"></span><input type="submit" class="c" value="Login"/><span class="r"></span>');
+				aHtml.push('</span>');
+			aHtml.push('</form>');
+			aHtml.push('<div id="forgot_password_area" class="">');
+				aHtml.push('<form id="orthodox_forgot_password" method="post" action="/account/orthodox_forgot_password">');
+					aHtml.push('<div class="header_log_in_popup_forgot_your_password_btn" onclick="$(\'forgot_password_area\').toggleClassName(\'open\');" onmouseover="link_over(this, \'#024999\')" onmouseout="link_out(this, \'#024999\')" style="text-decoration: none; color:#024999">Forgot your password</div>');
+					aHtml.push('<div class="open_or_close">');
+						aHtml.push('<div>Please enter your email address:</div>');
+						aHtml.push('<fieldset class="enter_your_email">');
+							aHtml.push('<input id="user_email" type="text" class="text forget" name="user[email]" />');
+							aHtml.push('<div class="header_log_in_popup_submit_btn">');
+								aHtml.push('<span class="l"></span><input type="button" value="Submit" class="c" onclick="submit_orthodox_forgot_password()" class="submit login" id="submit_btn_id"/><span class="r"></span>');
+							aHtml.push('</div>');
+						aHtml.push('</fieldset>');
+						aHtml.push('<div id="notice_forgot_password" class="notice_message"></div>');
+					aHtml.push('</div>');
+			  aHtml.push('</form>');
+			aHtml.push('</div>');
+		aHtml.push('</div>');	
+		aHtml.push('<div class="register_if_you_dont_have">');
+			aHtml.push('<div>If you don\'t have an account - <a href="/account/login">Register here &raquo;</a></div>');
+		aHtml.push('</div>');
+	aHtml.push('</div>');
+
+  AlphaBox.Loading();
+  AlphaBox.AddHtml(aHtml.join(""));
+
+  setTimeout(function () { $('login_user_email_pop').focus()},1000);
+}
+</script>
+
     
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-1420150919334552");
   GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
-      GA_googleAddSlot_sa("Common_728x90_leaderboard");
       GA_googleAddSlot_sa("Search_195x45_Dropdown");
-      GA_googleAddSlot_sa("Search_195x45_Quote_Dropdown");
-      GA_googleAddSlot_sa("Common_300x250_top");
   </script>
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
-  
-  
+  </head>
+  <body>
+    <div id="floating_bar" style="left:6px; bottom:-1px;">
+      <div class="floating_logged_in" id="floating_logged_in" style="display:none;"></div>
+      <div class="floating_logged_out" id="floating_logged_out">
+        <ul>
+          <li class="the_first_item"><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('login','')" style="color:#024999 !important;">Login</span></li>
+          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('portfolio','manage portfolio')" style="color:#024999 !important;">Manage Portfolio</span></li>
+          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('stocktalk','post a StockTalk')" style="color:#024999 !important;">Post a StockTalk</span></li>
+          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('write_post','write an instablog')" style="color:#024999 !important;">Write an Instablog</span></li>
+          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('email','get daily email alert');$('register_to_mail_cont').style.display='none';$('register_to_mail').checked=false;" style="color:#024999 !important;">Get Daily Email Alert</span></li>
+          <li class="last">&nbsp;</li>
+          <li class="floating_sa_logo_li"><a class="floating_sa_logo_a" href="http://seekingalpha.com"></a></li>
+        </ul>
+      </div>
+    </div>
     
     <div id="main_container" class="general_page">
-  <span class="seeking_alpha_site_title">Seeking Alpha</span>
+  <script>var ord = Math.floor(Math.random()*1000000000);</script>
+<span class="seeking_alpha_site_title">Seeking Alpha</span>
 
 <div id="header" class="not_logged_in">
   <div class="logo_and_primary_navigation">
@@ -199,20 +264,10 @@ color:#b63914 !important;
     <div id="inner_popup"></div>
   </div>
 </div>
-<script type="text/javascript">
-SeekingAlpha.Initializer.Add(
-  function () {
-    if (getURLParam('special')!='watchlist') {
-      ajax_refresh_comments_choose_password_after_authentication_popup(true);
-    } else {
-      Watchlist.choose_password_popup()
-    }
-  }
-);
-</script>
+
     <h1><a href="/" title="Seeking Alpha - Home Page"></a></h1>
     <div class="item banner728x90">
-      <script type="text/javascript">GA_googleFillSlot_sa("Common_728x90_leaderboard");</script>
+      <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/sek.common/general;sz=728x90;x=x;tile=1;d=common;t=general;'+dart_hp_referrer_and_my_vocation()+'ord='+ord+'?"></scr'+'ipt>');</script>
     </div>
     <ul id="primary_navigation">
       <li id="home" class="level_one ">
@@ -239,17 +294,9 @@ SeekingAlpha.Initializer.Add(
       <li id="transcript_centers" class="level_one">
         <a href="/tag/transcripts" sasource="headtabs">Transcripts</a>
       </li>
-<!--*-->
       <li id="business_intelligence" class="level_one">
         <a href="/searches/business_intelligence" sasource="headtabs">Business Intelligence</a>
       </li>
-<!--*-->
-
-      <!--
-      <li id="login_and_registration_header" class="level_one">
-    	  <a href="/account/login">Register </a> <span>|</span> <span class="link" onclick="$('pop_login').style.display='block'" onmouseover=this.style.textDecoration="underline" onmouseout=this.style.textDecoration="none">Login</span>
-      </li>
-      -->
     </ul>
   </div>
   <script type="text/javascript">
@@ -261,12 +308,12 @@ SeekingAlpha.Initializer.Add(
     <div class="page_top" style="margin-bottom:4px;">
       <div class="page_top_one">
         <div class="placeholder"></div>
-        <div class="search_box_container_widthwise">
+        <div class="search_box_container_isolated">
   <div class="search_box">
     <form id="search_box_sa_search" method="get" class="linktosym comp search" action="/search/" onsubmit="return false;">
       <fieldset>
-        <input id="autocomplete_sa_search" class="input_text text" type="text" title="Enter symbol or phrase" value="" size="25" autocomplete="off">
-        <input type="button" class="search_button" value="Search" onclick="AutoCompleteSAConfig.Packages.search.Find()">
+        <input id="autocomplete_sa_search" class="input_text text" type="text" value="Find quotes, people, expressions, transcripts" size="25" autocomplete="off" onblur="this.style.color=this.value=='' ? '#8D8D8D' : '#000000';handleInput(this,'blur')" onfocus="this.style.color='#000000';handleInput(this,'focus')" afteruploadvalue="eFind quotes, people, expressions, transcripts" title="Find quotes, people, expressions, transcripts">
+        <input type="button" class="search_button" value="Search" onclick="if ($('autocomplete_sa_search').value!=$('autocomplete_sa_search').title) AutoCompleteSAConfig.Packages.search.Find()">
       </fieldset>
       <input type="hidden" name="source" value="search_general">
       <input type="hidden" id="autocomplete_sa_hidden_search" name="q" value="">
@@ -277,30 +324,12 @@ SeekingAlpha.Initializer.Add(
     <xmp id="autocomplete_sa_ad_search" style="display:none;">
       <script type="text/javascript">GA_googleFillSlot_sa("Search_195x45_Dropdown");</script>
     </xmp>
-    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', {Ad:true, Symbols:false, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
+    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', {Ad:true, Symbols:true, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
 
-    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001514237567335583750%3Acdhc2yeo2ko&amp;lang=en"></script>
-  </div>
-
-  <div class="quick_links">
-    <form id="search_box_sa_header" method="get" class="linktosym autocomp search" action="/search/" onsubmit="return false;">
-      <fieldset>
-        <input id="autocomplete_sa_header" class="input_text text" type="text" title="Enter symbol or phrase" value="" size="25" autocomplete="off">
-        <input type="button" class="get_quote_button" value="Get Quote" onclick="AutoCompleteSAConfig.Packages.header.Find()">
-      </fieldset>
-      <input type="hidden" name="source" value="search_quote">
-      <input type="hidden" id="autocomplete_sa_hidden_header" name="q" value="">
-      <input type="hidden" name="cx" value="001514237567335583750:cdhc2yeo2ko">
-      <input type="hidden" name="cof" value="FORID:11;NB:1">
-    </form>
-    <xmp id="autocomplete_sa_ad_header" style="display:none;">
-      <script type="text/javascript">GA_googleFillSlot_sa("Search_195x45_Quote_Dropdown");</script>
-    </xmp>
-    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('header', {Ad:true, Authors:false, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
     <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001514237567335583750%3Acdhc2yeo2ko&amp;lang=en"></script>
   </div>
 </div>
-<br class="cleaner">
+
 
       </div>
       <div class="page_top_two">
@@ -424,14 +453,13 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
 
     <div id="ads_and_tools" class="utility">
       <div class="item banner300x250">
-        <script type="text/javascript">GA_googleFillSlot_sa("Common_300x250_top");</script>
+        <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/sek.common/general;sz=300x250,300x600;x=x;tile=2;d=common;t=general;'+dart_hp_referrer_and_my_vocation()+'ord='+ord+'?"></scr'+'ipt>');</script>
       </div>
     </div>
   </div>
   <div id="footer_break"><div></div></div>
 <div id="footer">
   
-
   <ul class="footer_ratings">
     <li class="the_seekingalpha_100 this_rating">
       <h5><a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/badge_link_to_page')">The Seeking Alpha 100</a></h5><div class="badge"><a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/badge_link_to_page')"></a></div><div class="text"><div>The top 100 stock<br>market authors<br> selected for publication</div></div>
@@ -439,32 +467,32 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
         
           <li>
             <span class="num">1</span>
-            <div class="pic"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?rand=1246193706"></a></div>
+            <div class="pic"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
             <a class="name" href="/author/david-fry/articles" title="David Fry" onclick="urchinTracker('event/leader_board/footer_top_authors/row_1')">David Fry</a>
           </li>
         
           <li>
             <span class="num">2</span>
-            <div class="pic"><a href="/author/peter-schiff" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_2')"><img src="/images/users_profile/000/301/713/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/peter-schiff/articles" title="Peter Schiff" onclick="urchinTracker('event/leader_board/footer_top_authors/row_2')">Peter Schiff</a>
+            <div class="pic"><a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_2')"><img src="/images/users_profile/000/006/284/small_pic.png?1236804118"></a></div>
+            <a class="name" href="/author/philip-davis/articles" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_top_authors/row_2')">Philip Davis</a>
           </li>
         
           <li>
             <span class="num">3</span>
-            <div class="pic"><a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_3')"><img src="/images/users_profile/000/006/284/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/philip-davis/articles" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_top_authors/row_3')">Philip Davis</a>
+            <div class="pic"><a href="/author/peter-schiff" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_3')"><img src="/images/users_profile/000/301/713/small_pic.png?1234098654"></a></div>
+            <a class="name" href="/author/peter-schiff/articles" title="Peter Schiff" onclick="urchinTracker('event/leader_board/footer_top_authors/row_3')">Peter Schiff</a>
           </li>
         
           <li>
             <span class="num">4</span>
-            <div class="pic"><a href="/author/don-dion" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_4')"><img src="/images/users_profile/000/114/885/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/don-dion/articles" title="Don Dion" onclick="urchinTracker('event/leader_board/footer_top_authors/row_4')">Don Dion</a>
+            <div class="pic"><a href="/author/tradermark" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_4')"><img src="/images/users_profile/000/104/018/small_pic.png?1244479457"></a></div>
+            <a class="name" href="/author/tradermark/articles" title="TraderMark" onclick="urchinTracker('event/leader_board/footer_top_authors/row_4')">TraderMark</a>
           </li>
         
           <li>
             <span class="num">5</span>
-            <div class="pic"><a href="/author/bespoke-investment-group" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_5')"><img src="/images/users_profile/000/078/933/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/bespoke-investment-group/articles" title="Bespoke Investment Group" onclick="urchinTracker('event/leader_board/footer_top_authors/row_5')">Bespoke Invest...</a>
+            <div class="pic"><a href="/author/bespoke-investment-group" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_5')"><img src="/images/users_profile/000/078/933/small_pic.png?1235566973"></a></div>
+            <a class="name" href="/author/bespoke-investment-group/articles" title="Bespoke Investment Group" onclick="urchinTracker('event/leader_board/footer_top_authors/row_5')">Bespoke Inves...</a>
           </li>
         
       </ul>
@@ -478,32 +506,32 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
         
           <li>
             <span class="num">1</span>
-            <div class="pic"><a href="/author/graham-summers" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_1')"><img src="/images/users_profile/000/174/885/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/graham-summers/articles" title="Graham Summers" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_1')">Graham Summers</a>
+            <div class="pic"><a href="/author/daryl-montgomery" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_1')"><img src="/images/users_profile/000/169/827/small_pic.png?1257603151"></a></div>
+            <a class="name" href="/author/daryl-montgomery/articles" title="Daryl Montgomery" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_1')">Daryl Montgomery</a>
           </li>
         
           <li>
             <span class="num">2</span>
-            <div class="pic"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_2')"><img src="/images/users_profile/000/000/290/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/david-fry/articles" title="David Fry" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_2')">David Fry</a>
+            <div class="pic"><a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_2')"><img src="/images/users_profile/000/006/284/small_pic.png?1236804118"></a></div>
+            <a class="name" href="/author/philip-davis/articles" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_2')">Philip Davis</a>
           </li>
         
           <li>
             <span class="num">3</span>
-            <div class="pic"><a href="/author/joseph-l-shaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_3')"><img src="/images/users_profile/000/142/982/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/joseph-l-shaefer/articles" title="Joseph L. Shaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_3')">Joseph L. Shaefer</a>
+            <div class="pic"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_3')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
+            <a class="name" href="/author/david-fry/articles" title="David Fry" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_3')">David Fry</a>
           </li>
         
           <li>
             <span class="num">4</span>
-            <div class="pic"><a href="/author/market-folly" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_4')"><img src="/images/users_profile/000/210/899/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/market-folly/articles" title="Market Folly" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_4')">Market Folly</a>
+            <div class="pic"><a href="/author/joseph-l-shaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_4')"><img src="/images/users_profile/000/142/982/small_pic.png?1249252775"></a></div>
+            <a class="name" href="/author/joseph-l-shaefer/articles" title="Joseph L. Shaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_4')">Joseph L. Sha...</a>
           </li>
         
           <li>
             <span class="num">5</span>
-            <div class="pic"><a href="/author/don-dion" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_5')"><img src="/images/users_profile/000/114/885/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/don-dion/articles" title="Don Dion" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_5')">Don Dion</a>
+            <div class="pic"><a href="/author/paco-ahlgren" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_5')"><img src="/images/users_profile/000/339/627/small_pic.png?1257789875"></a></div>
+            <a class="name" href="/author/paco-ahlgren/articles" title="Paco Ahlgren" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_5')">Paco Ahlgren</a>
           </li>
         
       </ul>
@@ -517,36 +545,46 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
           <li>
             <span class="num">1</span>
             
-            <div class="pic author"><a href="/author/market-sniper" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_1')"><img src="/images/users_profile/000/379/514/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/market-sniper/comments" title="Market Sniper" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_1')">Market Sniper</a>
+            <div class="pic ">
+              <a href="/user/269895/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_1')"><img src="/images/users_profile/000/269/895/small_pic.png?1238437200"></a>
+            </div>
+            <a class="name" href="/user/269895/comments" title="doubleguns" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_1')">doubleguns</a>
           </li>
         
           <li>
             <span class="num">2</span>
             
-            <div class="pic author"><a href="/author/john-lounsbury" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_2')"><img src="/images/users_profile/000/098/115/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/john-lounsbury/comments" title="John Lounsbury" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_2')">John Lounsbury</a>
+            <div class="pic author">
+              <a href="/author/moon-kil-woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_2')"><img src="/images/users_profile/000/265/539/small_pic.png?1238953396"></a>
+            </div>
+            <a class="name" href="/author/moon-kil-woong/comments" title="Moon Kil Woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_2')">Moon Kil Woong</a>
           </li>
         
           <li>
             <span class="num">3</span>
             
-            <div class="pic "><a href="/user/343824/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_3')"><img src="/images/users_profile/000/343/824/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/user/343824/comments" title="yellowhoard" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_3')">yellowhoard</a>
+            <div class="pic ">
+              <a href="/user/353732/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_3')"><img src="/images/users_profile/000/353/732/small_pic.png?1240510217"></a>
+            </div>
+            <a class="name" href="/user/353732/comments" title="User 353732" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_3')">User 353732</a>
           </li>
         
           <li>
             <span class="num">4</span>
             
-            <div class="pic author"><a href="/author/moon-kil-woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_4')"><img src="/images/users_profile/000/265/539/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/moon-kil-woong/comments" title="Moon Kil Woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_4')">Moon Kil Woong</a>
+            <div class="pic ">
+              <a href="/user/192595/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_4')"><img src="/images/users_profile/000/192/595/small_pic.png?1254853446"></a>
+            </div>
+            <a class="name" href="/user/192595/comments" title="optionsgirl" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_4')">optionsgirl</a>
           </li>
         
           <li>
             <span class="num">5</span>
             
-            <div class="pic "><a href="/user/317799/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_5')"><img src="/images/users_profile/000/317/799/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/user/317799/comments" title="CautiousInvestor" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_5')">CautiousInvestor</a>
+            <div class="pic ">
+              <a href="/user/343824/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_5')"><img src="/images/users_profile/000/343/824/small_pic.png?1237156321"></a>
+            </div>
+            <a class="name" href="/user/343824/comments" title="yellowhoard" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_5')">yellowhoard</a>
           </li>
         
       </ul>
@@ -560,36 +598,36 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
           <li>
             <span class="num">1</span>
             
-            <div class="pic author"><a href="/author/jack-haddad" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_1')"><img src="/images/users_profile/000/028/412/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/jack-haddad/instablog" title="Jack Haddad" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_1')">Jack Haddad</a>
+            <div class="pic author"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
+            <a class="name" href="/author/david-fry/instablog" title="David Fry" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_1')">David Fry</a>
           </li>
         
           <li>
             <span class="num">2</span>
             
-            <div class="pic author"><a href="/author/mad-hedge-fund-trader" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_2')"><img src="/images/users_profile/000/341/510/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/mad-hedge-fund-trader/instablog" title="Mad Hedge Fund Trader" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_2')">Mad Hedge Fund...</a>
+            <div class="pic author"><a href="/author/tradermark" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_2')"><img src="/images/users_profile/000/104/018/small_pic.png?1244479457"></a></div>
+            <a class="name" href="/author/tradermark/instablog" title="TraderMark" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_2')">TraderMark</a>
           </li>
         
           <li>
             <span class="num">3</span>
             
-            <div class="pic author"><a href="/author/lee-eugene-munson" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_3')"><img src="/images/users_profile/000/248/498/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/lee-eugene-munson/instablog" title="Lee Eugene Munson" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_3')">Lee Eugene Munson</a>
+            <div class="pic author"><a href="/author/don-dion" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_3')"><img src="/images/users_profile/000/114/885/small_pic.png?1236961604"></a></div>
+            <a class="name" href="/author/don-dion/instablog" title="Don Dion" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_3')">Don Dion</a>
           </li>
         
           <li>
             <span class="num">4</span>
             
-            <div class="pic "><a href="/user/402282/profile" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_4')"><img src="/images/users_profile/000/402/282/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/user/402282/instablog" title="Angelo Grigoropoulos - Swiss Hellenic Group" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_4')">Angelo Grigoro...</a>
+            <div class="pic author"><a href="/author/cliff-wachtel-cpa" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_4')"><img src="/images/users_profile/000/354/433/small_pic.png?1236510524"></a></div>
+            <a class="name" href="/author/cliff-wachtel-cpa/instablog" title="Cliff Wachtel" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_4')">Cliff Wachtel</a>
           </li>
         
           <li>
             <span class="num">5</span>
             
-            <div class="pic author"><a href="/author/living4dividends" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_5')"><img src="/images/users_profile/000/296/964/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/living4dividends/instablog" title="Living4Dividends" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_5')">Living4Dividends</a>
+            <div class="pic author"><a href="/author/joseph-l-shaefer" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_5')"><img src="/images/users_profile/000/142/982/small_pic.png?1249252775"></a></div>
+            <a class="name" href="/author/joseph-l-shaefer/instablog" title="Joseph L. Shaefer" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_5')">Joseph L. Sha...</a>
           </li>
         
       </ul>
@@ -603,36 +641,36 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
           <li>
             <span class="num">1</span>
             
-            <div class="pic "><a href="/user/104402/profile" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_1')"><img src="/images/users_profile/000/104/402/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/user/104402/stocktalk" title="Hedged In" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_1')">Hedged In</a>
+            <div class="pic author"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
+            <a class="name" href="/author/david-fry/stocktalk" title="David Fry" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_1')">David Fry</a>
           </li>
         
           <li>
             <span class="num">2</span>
             
-            <div class="pic author"><a href="/author/sovestor" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_2')"><img src="/images/users_profile/000/281/289/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/sovestor/stocktalk" title="Sovestor" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_2')">Sovestor</a>
+            <div class="pic author"><a href="/author/cliff-wachtel-cpa" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_2')"><img src="/images/users_profile/000/354/433/small_pic.png?1236510524"></a></div>
+            <a class="name" href="/author/cliff-wachtel-cpa/stocktalk" title="Cliff Wachtel" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_2')">Cliff Wachtel</a>
           </li>
         
           <li>
             <span class="num">3</span>
             
-            <div class="pic author"><a href="/author/steven-vincent" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_3')"><img src="/images/users_profile/000/339/850/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/steven-vincent/stocktalk" title="Steven Vincent" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_3')">Steven Vincent</a>
+            <div class="pic author"><a href="/author/mike-havrilla" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_3')"><img src="/images/users_profile/000/110/813/small_pic.png?1241305530"></a></div>
+            <a class="name" href="/author/mike-havrilla/stocktalk" title="Mike Havrilla" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_3')">Mike Havrilla</a>
           </li>
         
           <li>
             <span class="num">4</span>
             
-            <div class="pic author"><a href="/author/graham-and-dodd-investor" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_4')"><img src="/images/users_profile/000/399/221/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/author/graham-and-dodd-investor/stocktalk" title="Graham and Dodd Investor" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_4')">Graham and Dod...</a>
+            <div class="pic author"><a href="/author/paco-ahlgren" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_4')"><img src="/images/users_profile/000/339/627/small_pic.png?1257789875"></a></div>
+            <a class="name" href="/author/paco-ahlgren/stocktalk" title="Paco Ahlgren" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_4')">Paco Ahlgren</a>
           </li>
         
           <li>
             <span class="num">5</span>
             
-            <div class="pic "><a href="/user/431796/profile" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_5')"><img src="/images/users_profile/000/431/796/small_pic.png?rand=1246193706"></a></div>
-            <a class="name" href="/user/431796/stocktalk" title="Sergio Vieira" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_5')">Sergio Vieira</a>
+            <div class="pic author"><a href="/author/david-white" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_5')"><img src="/images/users_profile/000/022/392/small_pic.png?1239161181"></a></div>
+            <a class="name" href="/author/david-white/stocktalk" title="David White" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_5')">David White</a>
           </li>
         
       </ul>
@@ -641,9 +679,10 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
   </ul>
 
 
+
   <div id="footernav">
     <dl id="newsletters">
-      <dd>Free E-Newsletters</dd>
+      <dd class="free_enewsletters">Free E-Newsletters</dd>
 
 <dt id="footer_adverbox_wall_street_breakfast" style="display:none;">
   <input type="checkbox" value="wall-street-breakfast" class="footer_advertbox_cb">
@@ -718,7 +757,7 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
 </dt>
 
 <dt id="footer_adverbox_daily_dispatch" style="display:none;">
-  <input type="checkbox" value="article" class="footer_advertbox_cb">
+  <input type="checkbox" value="daily-dispatch" class="footer_advertbox_cb">
   <div class="newsletter">The Daily Dispatch - </div>
   <div class="sample">
     <span class="text" onmouseover="footer_advertbox_sample_over('daily_dispatch_footer_popup');" onmouseout="footer_advertbox_sample_out('daily_dispatch_footer_popup');">Sample</span>
@@ -736,27 +775,48 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
     </fieldset>
   </form>
 </dt>
+
+      <dd class="mid_title">Tools</dd>
+      <dt><a href="/page/feeds">Feeds</a></dt>
     </dl>
     <script type="text/javascript">init_footer_advert_box();</script>
-
-    <dl id="contributors"><dd>Contributors</dd>
-      <dt><a href="/page/submit-an-article">How to become a contributor</a></dt>
-      <dt><a href="/page/contributor-benefits">Contributor benefits</a></dt>
-      <dt><a href="/page/our_contributors">What is Seeking Alpha Certified?</a></dt>
-      <dt><a href="/page/feature-your-company-blog-book">Feature your company/blog/book</a></dt>
-      <dt><a href="/page/contributor-benefits#interview">Interview a contributor</a></dt>
-    </dl>
-    <dl id="tools"><dd>What's New?</dd>
-      <dt><a href="/tag/sa-site-news">What's new at Seeking Alpha?</a></dt>
-    </dl>
-
     <dl id="about"><dd>About Seeking Alpha</dd>
-      <dt><a href="/page/about_us">About us</a></dt>
-      <dt><a href="/article/70196-seeking-alpha-policy-for-disputing-an-article">How to dispute an article</a></dt>
-      <dt><a href="/article/69847-seeking-alpha-policy-on-anonymous-authorship">Anonymous contributions</a></dt>
-      <dt><a href="/page/contact">Contact us</a></dt>
-      <dt><a href="/page/advertise_with_us">Advertise with us</a></dt>
+      <dt><a href="/page/about_us">About Seeking Alpha</a></dt>
+      <dt><a href="/page/editorial_principles">Editorial principles</a></dt>
+      <dt><a href="/page/sa_transcripts">SA transcripts</a></dt>
+      <dt><a href="/page/the_sa_management">The SA management</a></dt>
+      <dt><a href="/listing/whats-new"><strong>What's New</strong></a></dt>
+      <dt><a href="/page/who_reads_sa"><strong>Who reads SA</strong></a></dt>
+      <dd class="mid_title">SA Team Instablogs</dd>
+      <dt><a href="/author/david-jackson/instablog">David (Founder)</a></dt>
+      <dt><a href="/author/mick-weinstein/instablog">Mick (Editor in Chief)</a></dt>
+      <dt><a href="/author/boaz-berkowitz/instablog">Boaz (Contributor Relations)</a></dt>
     </dl>
+    <dl id="tools">
+      <dd>Contact</dd>
+      <dt><a href="/page/contact">Contact us</a></dt>
+      <dt><a href="/page/dispute_an_article">Dispute an article</a></dt>
+      <dt><a href="/page/advertise_with_us">Advertise</a></dt>
+      <dd class="mid_title">SA Stats</dd>
+      <dt><a href="/listing/articles_stats">Article stats</a></dt>
+      <dt><a href="/listing/instablog_stats">Instablog stats</a></dt>
+      <dt><a href="/listing/stocktalk_stats">StockTalk stats</a></dt>
+      <dt><a href="/listing/comments_stats">Comment stats</a></dt>
+      <dt><a href="/listing/contributors_stats">Contributor stats</a></dt>
+    </dl>
+    <dl id="contributors">
+      <dd>For Contributors</dd>
+      <dt><a href="/page/submit-an-article">Become a contributor</a></dt>
+      <dt><a href="/page/contributor-benefits">Contributor benefits</a></dt>
+      <dt><a href="/page/sa_certified">Seeking Alpha Certified</a></dt>
+      <dt><a href="/page/feature-your-company-blog-book">Feature your  business / blog / book</a></dt>
+      <dt><a href="/page/policy_anonymous_contributors">Policy on anonymous contributors</a></dt>
+      <dd class="mid_title">For Journalists</dd>
+      <dt><a href="/page/sa_for_journalists">SA for journalists</a></dt>
+      <dt><a href="/page/interview_contributor">Interview a contributor</a></dt>
+      <dt><a href="/page/history_and_founder">History and founder</a></dt>
+    </dl>
+       
   </div>
 
   <div id="footer_credits">
@@ -767,16 +827,17 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
       <li><a href="/page/copyright">Copyright</a></li>
     </ul>
   </div>
+  <div class="cleaner"></div>
 </div>
 </div>
-    <script src="http://static.seekingalpha.com/javascripts/sa.js?1244977924" type="text/javascript"></script>
-<!--[if IE 6]>
-    <script src="/javascripts/floating_bar.js" type="text/javascript"></script>
-  <![endif]-->
+    <script src="http://static.seekingalpha.com/javascripts/sa.js?1261315077" type="text/javascript"></script>
+
 <script type="text/javascript">
   SeekingAlpha.Initializer.LogAndRun(InitSASource);
+  SeekingAlpha.Initializer.LogAndRun(LightBox.Init);
   SeekingAlpha.Initializer.Add(application_init);
-
+	SeekingAlpha.Initializer.AddAfterLoad(Mone.touch);
+	
   SeekingAlpha.Initializer.Run();
 </script>
 
@@ -792,27 +853,11 @@ qacct:"p-36Zq38JCUmc3w"
 </noscript>
 <!-- End Quantcast tag -->
 
+<!-- homepage event/user-guest/refresh-new checker starts -->
+<script>if (/.com\/(\?.+)?$/.test(location.href)) { urchinTracker("event/home_page/" + (is_users_cookie_exists() ? "user" : "guest") + "/" + (isRefresh ? "refresh" : "new")) }</script>
+<!-- homepage event/user-guest/refresh-new checker ends -->
 
-                                      
-                                                                     
-                                                                     
-                                             
-<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
-<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
-<script type="text/javascript">
-	var _rsCI="us-seekingalpha";
-	var _rsCG="0";
-	var _rsDN="//secure-us.imrworldwide.com/";
-	var _rsPLfl=0;
-	var _rsSE=1;
-	var _rsSM=1.0;
-</script>
-<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
-<noscript>
-	<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-seekingalpha&amp;cg=0&cc=1" alt=""/></div>
-</noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
+    <div class="cleaner"></div>
   
-
 </body></html>
