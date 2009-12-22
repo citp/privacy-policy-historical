@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150923id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222012900id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
 
 # Delmarva Power - Privacy Policy
 
