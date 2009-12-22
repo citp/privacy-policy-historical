@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140103id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222194528id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.asp) for the most accurate reproduction.*
 
 # Anne Arundel County Public Schools
 
