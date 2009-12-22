@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenlivingtips.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616221520id_/http%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenlivingtips.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222135811id_/http%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -12,9 +12,13 @@ An IP (Internet Protocol) address is a unique identifier for a computer on a par
 
 We use your IP address to help diagnose problems with our server, for security purposes and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
-Cookies 
+Cookies and advertising
 
-We use cookies to enable functionality of our message boards. Some of our content providers and advertisers do issue cookies, you will need to review their Privacy Statements for further information. 
+We use cookies to enable functionality of this site. 
+
+Some of our content providers and advertisers also issue cookies.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Links to other sites 
 
@@ -55,5 +59,6 @@ Contacting us
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we recommend you review our terms of service or you can submit your questions via our [Contact ](http://www.greenlivingtips.com/pages/Contact-Us.html) form; or via the following address: 
 
 Michael Bloch   
-Box 112 Seacliff Park   
-South Australia 5049 
+Box 2135  
+Hackham  
+South Australia 5163 
