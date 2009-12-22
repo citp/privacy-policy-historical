@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617182517id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222204734id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
 
 # GU Comics by: Woody Hearn
-
-[](http://www.gucomics.com/afs.php)  
-
 
 GU Comics makes every effort to safeguard the privacy of our users. And only collects information on an opt-in basis. That is to say, we collect information about our users only after they have been informaed as to what information we are collecting, how that information will be used, and they have agreed to submit the information we request. GU then only uses this information in the manner prescribed by the opt-in message. Where we do make every effort to link only those sites with similar privacy policy ideals, we can not control the activities of of sites not owned by GU Comics thus our Privacy Policy does not apply once you've followed a link away from our websites.  
 
@@ -25,6 +22,13 @@ We only provide personal information to third parties in those cases where we sp
 
  **Further Questions**  
 If you have additional questions about GU's privacy policy or how information is being collected, stored, or used for a specific giveaway, contest, auction, etc. please email:
+
+  
+
+
+The space requires iFrames.
+
+[](http://www.childsplaycharity.org/)
 
   
 
