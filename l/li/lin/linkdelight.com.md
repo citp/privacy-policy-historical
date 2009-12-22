@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623052304id_/http%3A//www.linkdelight.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D22%26Itemid%3D43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222131745id_/http%3A//www.linkdelight.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D22%26Itemid%3D43) for the most accurate reproduction.*
 
 # Linkdelight Photography Accessories - Security & Privacy
 
