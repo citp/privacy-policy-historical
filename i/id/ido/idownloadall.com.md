@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idownloadall.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615044848id_/http%3A//idownloadall.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadall.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222204632id_/http%3A//www.idownloadall.com/privacy.asp%3Fsw11%3D0%26PID%3D70e153cb-7c66-46d3-8a15-95a0154b3dfd) for the most accurate reproduction.*
 
 # Download the Latest Software, Games, DVD Movies, Music, TV Shows and ebooks! - iDownloadAll.com
 
@@ -25,4 +25,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20090615044848id_/http%3A//idownloadall.com/support.asp).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20091222204632id_/http%3A//www.idownloadall.com/support.asp).
