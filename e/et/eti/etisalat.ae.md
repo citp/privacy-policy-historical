@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etisalat.ae privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052214id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etisalat.ae privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222170703id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
 
 # Privacy Policy
 
