@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001952id_/http%3A//www.upnorthlive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222033001id_/http%3A//www.upnorthlive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # Privacy Policy : About : WPBN TV 7&4
 
@@ -6,7 +6,7 @@
 
 At Barrington Broadcasting Corporation, "Barrington," we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This privacy policy applies to those Web sites that are part of the Barrington Network.
 
-Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:dbuonfiglio@barringtontv.com).
+Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:sbernard@barringtontv.com).
 
 **Collection of Personal Information**
 
