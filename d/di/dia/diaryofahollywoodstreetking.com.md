@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621082336id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222231829id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Jacky Jasper's Diary of a Hollywood Street King
 
-[Tweet This Story!](http://twitter.com/home?status=Reading%20%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
+[Tweet This Story!](http://twitter.com/home?status=Peep%20This%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
 
 Last updated: January 31, 2009
 
