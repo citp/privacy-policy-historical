@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204505id_/http%3A//radio-electronics.com/privacy-policy/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222132949id_/http%3A//www.radio-electronics.com/privacy-policy/policy.php) for the most accurate reproduction.*
 
 # Radio-Electronics.com :: Privacy Policy
 
