@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsonianchannel.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195058id_/http%3A//www.smithsonianchannel.com/site/smithsonian/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianchannel.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222220645id_/http%3A//www.smithsonianchannel.com/site/smithsonian/privacy.do) for the most accurate reproduction.*
 
 # Smithsonian Channel: Original Programming in HD and On Demand: Privacy Policy
 
@@ -55,4 +55,4 @@ SMITHSONIANCHANNEL.COM is sensitive to parents' concerns about the collection of
 CONTACT INFORMATION  
 If you have any questions, comments or concerns regarding SMITHSONIANCHANNEL.COM's privacy policy and/or practices, please visit www.SMITHSONIANCHANNEL.COM/contact or write us at SNI/SI Networks L.L.C., 1633 Broadway, New York, NY 10019.
 
-Updated: September 13, 2006 
+Updated: September 13, 2006
