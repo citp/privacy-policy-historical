@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dzoic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070350id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzoic.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222181643id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.*
 
 # DZOIC :: Video Sharing Script and Social Networking Script - Youtube Clone - Myspace Clone - Youtube Script - Myspace Script
 
