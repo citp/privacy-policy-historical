@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphamom.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618155214id_/http%3A//alphamom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamom.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222081712id_/http%3A//www.alphamom.com/privacy) for the most accurate reproduction.*
 
 # Alpha Mom™ - Baby, Pregnancy, Toddler, Motherhood, Baby Names, and Baby Product Reviews
 
@@ -72,7 +72,7 @@ Our Site is hosted in the United States and is generally intended for United Sta
 
 **Opt-Out/Unsubscribe  
 **  
-To stop receiving future communications from Alpha Mom, please [">Click Here](https://web.archive.org/web/20090618155214id_/http://www.alphamom.com/privacy/%3Cform%20method=). To unsubscribe from all Alpha Mom e-mail lists, please [">Click Here](https://web.archive.org/web/20090618155214id_/http://www.alphamom.com/privacy/%3Cform%20method=). If you wish to end your e-mail subscription from a particular list, please follow the instructions at the end of the e-mail message to unsubscribe from that particular list. To opt-out of having your information shared with third-parties, please [">Click Here](https://web.archive.org/web/20090618155214id_/http://www.alphamom.com/privacy/%3Cform%20method=).
+To stop receiving future communications from Alpha Mom, please [">Click Here](https://web.archive.org/web/20091222081712id_/http://www.alphamom.com/privacy/%3Cform%20method=). To unsubscribe from all Alpha Mom e-mail lists, please [">Click Here](https://web.archive.org/web/20091222081712id_/http://www.alphamom.com/privacy/%3Cform%20method=). If you wish to end your e-mail subscription from a particular list, please follow the instructions at the end of the e-mail message to unsubscribe from that particular list. To opt-out of having your information shared with third-parties, please [">Click Here](https://web.archive.org/web/20091222081712id_/http://www.alphamom.com/privacy/%3Cform%20method=).
 
 **  
 Updates to this Policy**
