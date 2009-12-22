@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusinessbible.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616070423id_/http%3A//www.smallbusinessbible.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessbible.org privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222171908id_/http%3A//smallbusinessbible.org/privacy.html) for the most accurate reproduction.*
 
 # Getting the Money You Need to Succeed : Small Business Bible.org
 
@@ -29,4 +29,4 @@ There may be occasions on which Small Business Bible is required to provide info
 
 Internet-based commerce is dynamic and changing. We may revise our privacy policy in the future to adjust to such changes. We recommend that you check it frequently.
 
-If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/web/20090616070423id_/http%3A//www.smallbusinessbible.org/contact.html).
+If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/web/20091222171908id_/http%3A//smallbusinessbible.org/contact.html).
