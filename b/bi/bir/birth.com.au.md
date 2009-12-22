@@ -1,72 +1,79 @@
-> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416222456id_/http%3A//www.birth.com.au/about.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222225024id_/http%3A//birth.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-PRIVACY POLICY  
-Protecting your privacy is important to us at Birthnet Pty Ltd (ACN 089 827 878) and all our related companies (collectively known as "Birthnet"). As part of our commitment, we have developed the following policy in compliance with the voluntary National Privacy Principles developed by the Australian Federal Privacy Commissioner. 
+**Introduction**
 
-Our privacy policy will help you understand how Birthnet collects, uses and safeguards any personal information provided to us by you. This policy should be read in conjunction with the [terms and conditions](https://web.archive.org/about.asp?terms) governing use of this website.   
   
-1\.  | What you should know about your privacy  
-Whenever a Member voluntarily discloses personal information online - for example on message boards, through email, or in discussion areas - that information can be collected and used by others. If a member posts personal information online that is accessible to the public, they may receive unsolicited messages from other parties in return. Whilst we discourage the collection of emails for the purposes of unsolicited emails, Birthnet cannot be held responsible for any messages, advertising material, spam or other information sent to you by third parties that obtain your details in this way.   
-2\.  | What you can do to protect your privacy  
-You can also play an important role in keeping your personal information secure, by maintaining the secrecy of your password and/or any account information. Please also remember to logoff and close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place. You are responsible for the security of and access to your own computer. 
+Birth respects and upholds your rights to privacy protection under the _Privacy Act 1988_ and is required to comply with the National Privacy Principles in respect of the collection, use, disclosure and handling of personal information. This Policy details the practices we have adopted to protect your privacy, so that you can feel confident about how we manage the personal information you entrust to us. 
 
-Please notify us immediately if there is any unauthorised use of your membership account by any other Internet user or any other breach of security.   
-  
-3\.  | What personally identifiable information is collected from you through our website  
-When you become a Member or Recipient of birth.com.au, you will be provided with a unique user ID or password. You can change this password by going to your 'profile' page once logged on. You will be required to provide your username and email address. If you purchase a book, your residential address is also required. You may also be asked to provide additional information such as your gender and age group. Information of this type is optional and need only be provided if you wish to do so. 
+**When and how do we collect personal information?**
 
-To purchase a book online, proceed through the purchase steps and enter your name and address. When you click on the 'purchase' button, this will link you to the National Australia Bank, which will record your credit card and payment details. The NAB will then email us with confirmation of payment and email you with the receipt. We will not see any credit card details unless you elect to pay by fax, telephone or mail. If you do provide us with credit card details, we will hold them in the strictest confidence. 
+Personal information is any information that can be used to identify you. Birth may collect information from you including your personal information (such as name, e-mail, phone number, date of birth and postal address) in the following ways: 
 
-Birthnet uses "cookies" (text files containing information about your website preferences which is stored by your browser on your hard disk) as a requirement of the National Bank's Secure Internet Payment Service (N-SIPS). When paying by credit card via the internet you need to have your Web browser option 'on' to accept cookies to facilitate a one-off payment. Cookies are also used in the birthtalks discussion forums if you tick the 'Remember me' box when logging on. The cookie holds your username, password and viewing options. IP addresses can be viewed by Birthnet administrators in the birthtalks discussion forums, but are not used for tracking to retrieve personal information from your computer. 
+  1. through our website; 
 
-The only way Birthnet can know who each member is, is if the member logs on using their user name and password. When the member does this, it allows us to: 
+  2. if you voluntarily sign up for one of our three online newsletters;
 
-a) Provide access to each member's account information and the services available to them as members of birth.com.au; and 
+  3. if you join our Birth community forums;
 
-b) Track each member's progress through the site and the time they spend so that we can better understand how the site is used and make improvements to its functionality. 
+  4. when you contact our Customer Service in order to make a customer enquiry or complaint about Birth; and
 
-Birthnet may also ask members for personal information at other times, including (but not limited to) member surveys, contests or promotions sponsored by birth.com.au or when a member reports a problem with our site or services. If a member submits feedback about our site's features and content, we will keep a record of that correspondence. Wherever birth.com.au collects personal information we will include a link to our Privacy Policy on this page.   
-  
-4. | The organisation collecting the information  
-Birth.com.au is owned and operated by Birthnet Pty Limited (ACN 089 827 878). 
+  5. when you participate in Birth consumer promotions and market research.  
 
-If you choose to purchase a book online your [credit card and payment information](http://www.nab.com.au/Personal_Finance/0,,29254,00.html) will be collected and held by the National Australia Bank. All other information provided by you will be collected by employees, contractors, subcontractors or agents of Birthnet Pty Limited.   
-  
-5. | How the information is used  
-Our primary goal in collecting personal information is to build user profiles so that we can enhance the functionality of birth.com.au and provide our members with useful and relevant information on pregnancy, birth and related issues. 
 
-Birthnet will not share personally identifiable information about any visitor and/or member and/or subscriber with unrelated third parties without first obtaining the consent of that person. Birthnet will not sell or disclose your personal information to unrelated third parties without your consent. 
 
-We may share non-personal, aggregate information about our customers, sales, traffic patterns, and site usage with unrelated third parties, including sponsors and advertisers. We may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may by violating birth.com.au's Terms and Conditions of Use or may be causing injury to or interference with (either intentionally or unintentionally) birth.com.au, other birth.com.au users, or anyone else that could be harmed by such activities. Birthnet may disclose or access account information when we reasonably believe that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.   
-  
-6. | Receiving email from birth.com.au  
-Birthnet will contact you by email when you register as a Member for the forums or as a Recipient for the week by week pregnancy emails and/or monthly newsletters, and to respond to any questions or problems you may notify us of. We use the [contact us](http://www.birth.com.au/about.asp?contactus) page of our website to allow you to email us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to each one. 
 
-If you are interested, we can also send you email communications to provide information which we think you will find useful, including announcements about new products and services from Birthnet, sales alerts and newsletters on specific topics, as well as communications on behalf of third-party companies who offer products and services we think would be of value to you. It is our policy to send such email only to Members or Recipients who explicitly give us permission do so. In every such email message, we will also have instructions on how to unsubscribe so that you will not receive any such messages from Birthnet in the future if you do not wish to.   
-  
-7. | Updating or correcting member information  
-You may review, correct, update, or delete personal information that you provide to us at any time. All you have to do is to logon using your birth.com.au logon name and password, go to your 'My profile' on the navigation bar in the forums and edit your details.   
-8. | Security of your personal information  
-Birthnet endeavours to protect the quality and integrity of your personal information. Birthnet has implemented appropriate technical and managerial procedures to maintain information that is accurate, current, and complete, however, no data transmission over the Internet can be guaranteed to be 100% secure. 
+**What do we do with the personal information?**
 
-While we strive to protect your personal information, birth.com.au cannot ensure or warrant the security of any information you transmit to us or receive from our services. These activities are conducted at your own risk.   
-  
-9\.  | Chat rooms, bulletin boards and discussion forums  
-Birthnet provides public forums for our Guests and Members to read and share information with other individuals. Disclosing personally identifiable information online through chat rooms, forums, and message boards makes the information submitted public information. Please be careful, and use discretion when disclosing any information in such a public forum. 
+Birth’s primary goal in collecting personal information is so we can provide our customers with information they have requested, such as weekly emails on their individual pregnancy, and / or access to the Birth community forums. Or to ensure that our customers are satisfied with our products and to provide them with the best possible quality of customer service. Your personal information is never shared, sold, rented or otherwise disclosed outside the company (except as required for any statutory or legal requirements) in ways different from what is described in this Privacy Policy. We will take all reasonable steps to maintain the security and integrity of your personal information including the use of computer access passwords, lock-up cabinets, personnel policies and firewalls. 
 
-By posting comments to these public areas you grant birth.com.au the royalty-free, perpetual, irrevocable, non-exclusive, transferable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such any materials (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed.   
-  
-10. | Third party vendors, advertising and links to other sites  
-We may form relationships with third party vendors who may advertise products on our website. When you order products from these vendors, all information provided by you (such as credit card details) will be collected and held by that vendor. It is up to you to satisfy yourself that the vendor's privacy policy is acceptable to you. 
+**Information collected through our websites**
 
-Birthnet may also have arrangements with third parties who provide advertising banners or sponsored links. These linked sites are not under the control of birth.com.au, and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the privacy policies / terms and conditions of using their websites. If you have questions about the privacy policies of such third parties, we suggest contacting them directly or visiting their websites to review their posted privacy policies. Please note that this privacy policy does not apply to use of third party sites that are available through and/or hyper linked to the birth.com.au website.   
-  
-11. | Your Consent  
-By using the birth.com.au website and the services available to you on the Site, you consent to our collection and use of your personally identifiable information as described in this Privacy Policy. 
+We do not collect personally-identifiable information from you, unless you provide it to us voluntarily and knowingly. This means you are under no obligation to provide personal information when visiting our websites. However, if you specifically sign-up for our newsletters or ask to be put on our mailing list, we may require your personal information in order to contact you from time to time. 
 
-Our Privacy Policy will be reviewed and may be revised from time to time. Birthnet reserves the right to change our Policy at any time and notify you by posting an updated version of the Privacy Policy on this website. We encourage you to regularly review these policies.   
-  
-12. | Further information  
-If you are interested to know more about privacy issues and legislation in Australia we encourage you to visit the [Australian Federal Privacy Commissioner's website](http://www.privacy.gov.au/)
+There are some features of our websites that require you to sign up to use. If you do sign up, we use the information you supply for the purpose of providing products, product information or services you request. Because of the volume of requests we receive, we may have to give your name, e-mail and postal addresses to a fulfilment house or distributor of our products who assist us in carrying out your requests. 
+
+Our websites sometimes include notices of promotions we are conducting or we are conducting on behalf of our advertising clients, and we may permit you to enter electronically in some cases. If that occurs, we will use the information in accordance with the section below entitled “Consumer Promotions and Market Research”. 
+
+**Cookies**
+
+Like many companies, we sometimes use “cookie” technology on our websites. These cookies are stored on your computer by your browser. When you log in, the cookie tells us whether you've visited us before or you are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you and the cookie doesn't extract any information from your computer. We use the cookie to help us identify website features in which you have the greatest interest, so that we can provide more of what you want. 
+
+**Links**
+
+Birth may contain links to other sites operated by third parties. Birth makes no representations or warranties as to the privacy practices of any third-party site and is not responsible for the Privacy Policies of other sites. 
+
+**Information collected through Customer Service**
+
+Birth will use the details you provide to our Customer Service (whether by e-mail, telephone, letter or fax) in order to provide you with the information, services and products necessary to satisfy your consumer enquiry or complaint. This may involve sending information or a follow-up letter / or email, in relation to your enquiry or complaint or making a follow-up call. We may also use the information you provide to monitor repeat complaints about a particular Birth product or service. 
+
+Personal information collected from you by our Customer Service may also be used for internal product development and quality control purposes.  
+
+**Information collected through Consumer Promotions and Market Research**
+
+Birth will use the personal information consumers supply to us via online promotions, survey forms, and questionnaires for the purpose of providing you with incentives, prizes, samples and other promotional products, information and services. Any personal information you provide to us may be entered into a database, recorded in spreadsheets and kept in hard copy format. That information may be used for future promotional, marketing, market research, product development and publicity purposes. You may prevent such use of your personal information by opting-out at any time. 
+
+We may share your personal information between different departments of Birth and with third parties such as fulfilment houses and advertising agencies who assist us with our promotional, marketing and research activities. We impose obligations on any external organisations with which we share your personal information to maintain the integrity and security of that information.  
+
+**Can you access personal information that you have submitted to us?**
+
+If your personal information changes (such as your address), or if you no longer wish us to keep your personal information on file, we will endeavour to provide a way to correct, update or remove your records. If you believe for any reason that we are holding inaccurate or incomplete information about you, you may ask us to correct it. If you wish to access your personal information or if you have any questions about our Privacy Policy, or any complaint regarding treatment of your privacy by us, please contact: 
+
+Birth Pty Ltd
+
+The Privacy Officer   
+Level 5, 14 Queens Road 
+
+Melbourne
+
+VIC 3004   
+Australia 
+
+Phone Australia : 1300 724 575
+
+Fax Australia : +61 (03) 8640 0647
+
+**What if our Privacy Policy Changes?**
+
+We will use information in accordance with the Privacy Policy under which the information was collected. If we decide to change our Privacy Policy, we will post those changes on our websites so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
