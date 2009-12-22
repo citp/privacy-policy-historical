@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619134101id_/http%3A//www.magnetstreet.com/store/page/market/0/gloc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222065030id_/http%3A//www.magnetstreet.com/store/page/market/0/gloc/privacy.html) for the most accurate reproduction.*
 
 # 
 
