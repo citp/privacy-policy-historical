@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garmentmall.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622170802id_/http%3A//garmentmall.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmentmall.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222204845id_/http%3A//garmentmall.com/catalog/privacy.php) for the most accurate reproduction.*
 
-# GarmentMall.com
+# GarmentMall.com : Privacy Notice
 
 |  |  | Privacy Notice |   
 ---|---  
