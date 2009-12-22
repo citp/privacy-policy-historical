@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618104423id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222202947id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
 
-# Personalmba.com Privacy Policy (The Personal MBA)
+# Personalmba.com Privacy Policy - The Personal MBA ™
 
-This website is owned and operated by [Worldly Wisdom Ventures](http://worldlywisdomventures.com/).
+This website is owned and operated by [Worldly Wisdom Ventures LLC](http://worldlywisdomventures.com/).
 
 **Our postal address is:**  
 228 Park Avenue South #55472  
 New York, NY 10003
 
-We can be reached via e-mail at privacy [at] personalmba.com  
-or you can reach us by telephone at 917-456-0314.
+We can be reached via e-mail at privacy [at] personalmba.com or you can reach us by telephone at +1-646-402-5193.
 
 For each visitor to our web page, our web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
