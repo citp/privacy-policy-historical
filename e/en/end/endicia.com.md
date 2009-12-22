@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617185948id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222203846id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Endicia Privacy Policy
 
