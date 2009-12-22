@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214165042id_/http%3A//www.staples.co.uk/eng/static/wrapper.asp%3Fparam%3Dhelp_policie_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222132824id_/http%3A//www.staples.co.uk/wrapper.aspx%3Fparam%3Dhelp_policie_privacy) for the most accurate reproduction.*
 
 # Staples.co.uk Your business partner for Office Supplies, furniture and technology.
 
 Terms & Conditions and Legal Issues
 
-**STAPLES PRIVACY STATEMENT EUROPEAN UNION**
+ **STAPLES PRIVACY STATEMENT EUROPEAN UNION**
 
 At Staples, we value the trust of our customers. To earn your trust, we respect your privacy in handling personally-identifiable information relating to you and your transactions with us, whether at one of our Staples stores, through our Staples mail-order catalogue, or on our web sites located at www.staples.co.uk, www.staples.de, and other sites operated by Staples' affiliates located in the European Union and upon which this policy is posted. This Privacy Statement describes who controls the personally identifiable information we gather about you, what personally identifiable information we gather about you, what we do with it, the safeguards we have in place to protect it, and how you can control our use of it.
 
