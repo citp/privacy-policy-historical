@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trackvia.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330141015id_/http%3A//www.trackvia.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackvia.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222215221id_/http%3A//www.trackvia.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Online Database Privacy Policy | TrackVia
+# TrackVia's Privacy Policy
 
 [ ](http://www.truste.org/ivalidate.php?url=www.trackvia.com&sealid=102)
 
