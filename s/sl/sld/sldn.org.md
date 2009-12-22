@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sldn.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055703id_/http%3A//www.sldn.org/pages/sldn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sldn.org privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222220351id_/http%3A//www.sldn.org/pages/sldn-privacy-policy) for the most accurate reproduction.*
 
 # Servicemembers Legal Defense Network
 
@@ -93,7 +93,7 @@ We use reasonable security methods to protect the data that resides on our serve
 
 ## Contact Information
 
-If you have any questions about this Privacy Policy or the Site, please send an e-mail to [](mailto:sldn@sldn.org)[sldn@sldn.org](mailto:sldn@sldn.org) or a letter to "Privacy Policy Inquiries" at the following address: 
+If you have any questions about this Privacy Policy or the Site, please send an e-mail to [[sldn@sldn.org](mailto:sldn@sldn.org)](mailto:sldn@sldn.org) or a letter to "Privacy Policy Inquiries" at the following address: 
 
 SLDN  
 P.O. Box 65301  
