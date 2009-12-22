@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133514id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222174707id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
 
 # Your privacy : Directgov - Site information
 
@@ -50,6 +50,14 @@ You can disable JavaScript on your computer. If you would like advice on how to 
 
 
 
+### The Government Gateway
+
+Some government transactions and services such as Tax Self Assessment and the State Pensions Forecast will require you to register with the Government Gateway. This site provides secure and encrypted online services and it has its own privacy policy.
+
+  * [Government Gateway privacy policy Opens new window](http://www.gateway.gov.uk/Help/Help.aspx?content=help_privacy_policy.htm&languageid=0)
+
+
+
 ### What happens when I link to another site?
 
 We do not pass on any personal information you have given us to any other site 
@@ -66,7 +74,7 @@ Where you are directed to the Directgov site from another site (whether a third 
 
 If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by email.
 
-  * [Contact us](https://web.archive.org/en/Hl1/Help/ContactUs/ContactUsForm/DG_000714)
+  * [Contact Directgov form](https://web.archive.org/en/Hl1/Help/ContactUs/ContactUsForm/DG_179941)
 
 
 
