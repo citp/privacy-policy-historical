@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203424id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222223340id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Privacy Policy
 
