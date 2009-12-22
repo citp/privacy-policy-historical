@@ -1,0 +1,101 @@
+> *The following text is extracted and transformed from the koofers.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222070554id_/http%3A//www.koofers.com/PrivacyPolicy) for the most accurate reproduction.*
+
+# Privacy Policy - Koofers
+
+_Last Modified:  August 31, 2009_
+
+ __Koofers, Inc. (“Koofers”) recognizes that its visitors, members, users, and others who use the website at www.koofers.com (the “Koofers Website”) or who access, view or use Koofers content or services through emails, RSS feeds, third party advertisements, social networking sites, widgets, personal feeds, and mobile applications (collectively, the Koofers Website and all such access methods are referred to as the “Koofers Service”) value their privacy.  This Privacy Policy provides important information about the use and disclosure of user information ("Information") collected on the Koofers Service.  Koofers provides this Privacy Policy to help you understand what Information Koofers collects and how that Information will be used.  This Privacy Policy does not apply to the practices of companies that Koofers does not own or control or to people that Koofers does not employ or manage. 
+
+This Privacy Policy is incorporated into and is subject to the Koofers Terms of Use.  Your use of the Koofers Service and any Information you provide on the Koofers Service remains subject to the terms of this Privacy Policy and our Terms of Use at www.koofers.com.
+
+By participating, using or viewing the Koofers Service or any content thereof you are accepting the practices described in this Privacy Policy.  If you do not agree to any of these terms, then please do not use the Koofers Service or its content.  We reserve the right to modify or amend the terms of our Privacy Policy at any time without prior notice. Your continued use of the Koofers Service following the posting of changes to these terms means that you accept those changes. 
+
+If you have any questions or comments about this Privacy Policy or our use of your Information, please contact us at [privacy@Koofers.com](mailto:privacy@Koofers.com).
+
+**_Information Collected by Koofers  
+_**
+
+**__Information Collected Upon Registration:**  If you desire to have access to certain sections of the Koofers Service, you will be required to become a registered user, and to submit certain personally identifiable information to Koofers.  This happens in a number of instances, such as when you sign up for the Koofers Service, or if you desire to receive certain communications, updates, and information.  Personally identifiable information that we may collect in such instances may include your full name, password, email address, university attended, university major, expected graduation year and term, gender and other Information that you decide to provide us with, or that you decide to include in your account profile.  If you register with, or login to, the Koofers Service through Facebook Connect (or through any other third-party authentication system), you consent to the transfer of your personal Information from such system to Koofers and Koofer's retention and use of such Information pursuant to this Privacy Policy. 
+
+**Additional Information Provided by You:**  Once you have registered with the Koofers Service, you may provide Koofers with a variety of additional personal and non-personal information through your use of the Koofers Service, including but not limited to your class schedule, university instructors, grades, textbooks, student loans, reviews, ratings, comments, social network profile identifier social network contacts and friends, career objectives, etc.  Providing additional Information beyond what is required at registration is entirely optional.  If you contact us by phone, mail, email, instant message or through any other means, we may keep a record of your contact information and correspondence. 
+
+**Cookies:**  Use of "Cookies" is standard in the Internet industry.  Cookies are small text files containing a string of alphanumeric characters that are sent to your computer that uniquely identify your browser.  Cookies make web surfing easier by saving passwords and preferences while you're at a website.  When you use the Koofers Service, we may send one or more cookies to your computer. Some cookies are temporary ("session cookies") and will disappear after you close your browser, but others will stay on your computer ("persistent cookies" or "Flash cookies").  Koofers may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services.  Some of our advertisers may serve you cookies as well.  We do not have control over cookies placed by advertisers.  If you wish to remove persistent cookies from your hard drive, follow your web browser help file directions.  You can also reset your web browser to refuse all cookies or to indicate when a cookie is being sent.  If you wish to remove Flash cookies from your hard drive or wish to refuse all Flash cookies, please follow the instructions at: [www.macromedia.com/support/documentation/en/flashplayer/help/settingsmanager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settingsmanager07.html).  However, some features of the Koofers Service will not function properly if the ability to accept cookies is disabled. 
+
+**Traffic Data:**  When you use the Koofers Service, our servers automatically log certain information that your web browser sends whenever you visit any website.  This information may include information such as your Internet Protocol (“IP”) address, computer, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, related software and settings you are using, any search terms you have entered on the Koofers Services or a referral site, and other web usage activity. 
+
+**Tracking Usage Patterns:**  Koofers tracks usage patterns and collects other information about your use of the Koofers Service.  We may employ various tracking technology including "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users, and clear GIFs in HTML-based emails sent to you to track which emails are opened by recipients. Koofers may also contract with third parties to track online usage patterns on elements of the Koofers Service. 
+
+**_Use of Information by Koofers_**
+
+ __
+
+ _ ****_We use your Information to provide you with the product and services made available through the Koofers Service and to operate and maintain the Koofers Service.  By using the Koofers Service, you are consenting to our processing of your Information.  “Processing” means using or touching information in any way, including but not limited to, collecting, storing, deleting, using, combining and disclosing information.  Further, Information we collect from you may be stored and used in combination with other online or offline information we may possess or obtain about you. 
+
+Your full user name or alias (if you decide to use one) may be displayed to other users of the Koofers network to enable you to connect, collaborate and interact with them.  Any Information, text or other content that you voluntarily provide or post on the site in the course of your use of the Koofers Service, including but not limited to, information in your user profile, comments, questions, answers, ratings, reviews, etc., are publicly available and can be collected and used by others.  Any information that you post on the Koofers Service may be redistributed through the Internet and may be viewed by the general public. 
+
+We use cookies, clear GIF's, log file information, IP addresses, browser type, usage data and certain personally identifiable information to improve the quality and design of the Koofers Service and to create new features, functionality, and services by storing, tracking, and analyzing user preferences and trends as well as to (a) to assist with your use of the Koofers Service by “remembering” information so that you will not have to re-enter it during subsequent visits to the Koofers Website or any element of the Koofers Service; (b) provide customized, personalized content and information for you; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; (e) provide you with advertising targeted to your preferences; (f) track your entries, submissions, and status in any promotions (including contests or sweepstakes); and (g) help offer you other products, programs or services that may be of interest to you.  In addition, we may use your contact information (both online and offline information) and your other Information to market to you, and to provide you with information about, our products and services, and the products and services of our affiliates and third-party business partners.  We may also send you market research-related surveys and other commercial offers to you.  We may also use your contact information for non-marketing or administrative purposes (such as notifying you of major Koofers Service changes or for customer service purposes). 
+
+**_Sharing of Information with Third Parties_**
+
+We may share Information about you with other people or nonaffiliated companies or for particular purposes including, without limitation, the purposes described below.  In all cases, you may opt-out of sharing your Information with third parties. Please see “Offering You Choices - Opt-Out Procedure” below. 
+
+**Service Providers:**  We engage certain third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance customer relationship, database storage and management, and direct marketing campaigns.  We may share your Information, including your personally-identifiable information with these third parties, to the extent appropriate to perform these functions and provide such services. 
+
+**Products or Service Requests:**  If you submit a request for a product or service on the Koofers Service, we will share Information about you with our business partners to process and fulfill your request.  Our business partners may contact you by telephone (including, by autodialer, where applicable), email, or mail based on the Information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company.  If one of our business partners contacts you and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. 
+
+**Compliance with Laws and Law Enforcement:**  Koofers cooperates with government and law enforcement officials or private parties to enforce and comply with the law.  We may disclose any Information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to enforce our Terms of Use, protect the security or integrity of the Koofers Service, take precautions to avoid liability, investigate and defend against any third-party claims, respond to claims or legal process (including court orders, subpoenas and search warrants), protect the property and rights of Koofers or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law. 
+
+**Advertising Networks:**  In addition to ads that we serve you directly, we use third-party advertising companies to serve ads when you visit our websites.  Both we and our advertising companies use information about your visits to this website and other sites you may visit to serve ads to you.  In the course of serving advertisements to you, a unique third-party cookie may be placed or recognized on your browser.  In addition, we and our advertising companies may use Web beacons to help manage our online advertising.  These Web beacons enable us and our third-party ad serving companies to recognize a browser’s cookie when a browser visits this site and to learn which banner ads bring users to our website and to serve you ads that you may find of interest elsewhere on the internet.  Both Koofers and these companies may use information about your visits to these sites and other websites in order to provide advertisements about goods and services of interest to you.  Koofers may provide Information about you, including personally-identifiable information, to assist these third parties to personalize the advertising content you see.  Further, please note that if you respond to any advertisements, the advertiser or ad server may collect certain Information about you and, by responding, you are consenting to the possibility that the advertisers will make the assumption that you meet the targeting criteria used to display the ad.  You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices.  Koofer's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 
+
+**Traffic and Usage Information:**  We may share Information (such as traffic information and usage tracking information) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Koofers Service.  We may also share order information with third parties and business partners. 
+
+**Subsidiaries, Parent, or Sister Companies:**  We may share Information about you with our subsidiaries, sister companies, parent company, successors, and assigns. 
+
+**Non-Affiliated Companies and Organizations:**  From time to time, we may sell or share your Information, including your personally-identifiable Information, to non-affiliated third parties and organizations, including without limitation your college or university, other public and private institutions, and commercial entities.  For example, we may share your Information with another company that will use your Information to market to you, or to provide to you, a product or service that we feel may be of interest to you.  We may also sell your Information to a business partner that will use your Information for their own marketing purposes. 
+
+**Offering You Choices - Opt-Out Procedure:**  You have choices when it comes to protecting your Information.  If you do not wish us to share your Information with third parties, please send us an e-mail at [privacy@koofers.com](mailto:privacy@koofers.com).
+
+**_Accessing Your Profile_**
+
+ __
+
+ _ ****_If you are a registered user of the Koofers Service, you may access and update or correct the information you provided to us by updating your account information or emailing us at[privacy@koofers.com](mailto:privacy@koofers.com).  To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access, or making modifications, to your profile.  It is your responsibility to maintain the secrecy of your unique password and account information at all times. 
+
+**_Data Security_**
+
+ __
+
+ _ ****_Koofers uses commercially reasonable safeguards (physical, managerial, and technical) to preserve the integrity and security of your Information.  However, we cannot ensure or warrant the security of any Information you transmit to Koofers and you transmit any such Information at your own risk.  Once we receive your transmission of Information, Koofers makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such Information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+**_Links to Other Websites_**
+
+ __
+
+ _ ****_The Koofers Service may contain links to other websites.  The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party.  We do not exercise control over third party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit Information from you.  Other sites follow different rules regarding the use or disclosure of the Information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+**_Children’s Privacy_**
+
+ __
+
+ _ ****_Koofers seeks to protect the privacy of young children.  For that reason, Koofers does not knowingly collect (or maintain) personally identifiable information or non-personally-identifiable information from persons under 13 years of age, and no part of our website is directed to persons under 13.  If you are under 13 years of age, then please do not use or access the Koofers Service at any time or in any manner.  If Koofers learns that personally identifiable information of persons under 13 years of age has been collected on the Koofers Service without verified parental consent, then Koofers will take the appropriate steps to delete this information.  If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [privacy@koofers.com](mailto:privacy@koofers.com).
+
+**_International Users_**
+
+ __
+
+ _ ****_The Koofers Service is hosted in the United States.  If you are a User accessing the Koofers Service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Koofers Service, which is governed by U.S. law, this Privacy Policy, and our Terms of Use, you are transferring your Information to the United States and you consent to that transfer. 
+
+**_In the Event of Merger, Sale, or Bankruptcy_**
+
+ __
+
+ _ ****_In the event that Koofers is acquired by or merged with a third party entity, we reserve the right, to transfer or assign the Information we have collected from you as part of such merger, acquisition, sale, or other change of control.  In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal Information is treated, transferred, or used. 
+
+**_Changes to this Privacy Policy_**
+
+ __
+
+ _ ****_This Privacy Policy may be revised from time to time and this will be reflected by the “last modified” date above.  Please revisit this page to stay aware of any changes.  Your continued use of the Koofers Service constitutes your agreement to this Privacy Policy and any future revisions. 
+
+  
+
