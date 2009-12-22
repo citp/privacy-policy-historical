@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230035158id_/http%3A//www.nhtsa.gov/portal/site/nhtsa/menuitem.c80262b908ca7ee4ce83662ae0208a0c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222081542id_/http%3A//www.nhtsa.gov/portal/site/nhtsa/menuitem.c80262b908ca7ee4ce83662ae0208a0c) for the most accurate reproduction.*
 
 # Privacy Policy | National Highway Traffic Safety Administration(NHTSA) | U.S. Department of Transportation
 
