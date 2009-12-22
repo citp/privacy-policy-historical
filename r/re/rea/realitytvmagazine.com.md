@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the realitytvmagazine.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621141113id_/http%3A//www.sheknows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytvmagazine.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222205004id_/http%3A//www.sheknows.com/privacy) for the most accurate reproduction.*
 
 # SheKnows.com | Privacy policy
 
-This privacy policy was last modified on Friday, May 22, 2009 7:05 PM
+[](https://web.archive.org/about/) |   
+---|---  
+  
+
+
+* * *
+
+  
+
+
+This privacy policy was last modified on Friday, June 23, 2009 7:05 PM
 
 SheKnows, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use SheKnows.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
