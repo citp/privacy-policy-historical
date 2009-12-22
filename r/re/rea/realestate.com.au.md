@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175641id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222075056id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
 
 # Real Estate, Property, Land and Homes for Sale, lease and rent - realestate.com.au
 
@@ -6,7 +6,7 @@ www.realestate.com.au is a web site of REA Group Ltd ("We", "our" and "us" in th
 
 We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to our www.realestate.com.au web site. We do not make any representations about third party web sites that may be linked to the web site. This Internet Privacy Policy is also separate from the Privacy Policy of REA Group Ltd, which is available upon reasonable request to our Privacy Officer
 
-We recognise the importance of protecting the privacy of information collected about visitors to our sites, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and [feedback](http://www.realestate.com.au/cgi-bin/rsearch?a=feedback&to=info&t=res).
+We recognise the importance of protecting the privacy of information collected about visitors to our sites, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and [feedback](https://web.archive.org/cgi-bin/rsearch?a=feedback&to=info&t=res).
 
 ### Personal Information
 
@@ -63,7 +63,7 @@ We provide links to Web sites outside of our web sites, as well as to third part
 
 ### Problems or questions 
 
-If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](http://www.realestate.com.au/cgi-bin/rsearch?a=feedback&to=ccc&t=res).
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/cgi-bin/rsearch?a=feedback&to=ccc&t=res).
 
 ### Further Privacy Information 
 
