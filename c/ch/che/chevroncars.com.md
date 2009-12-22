@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevroncars.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620070409id_/http%3A//www.chevroncars.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevroncars.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222233844id_/http%3A//www.chevroncars.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,7 +109,7 @@ Back to Top
 
 IN NO EVENT WILL CHEVRON OR ISL CONSULTING BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE, INABILITY TO USE, OR ANY WEB SITES LINKED TO OUR SITE, THE MATERIALS OR INFORMATION CONTAINED AT ANY OR ALL SUCH SITES, OR THE MATERIALS, PRODUCTS OR SERVICES OFFERED ON THIS SITE OR SITES LINKED TO THIS SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY AND WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
 
-##### REVISIONS TO THESE TERMS OF USE
+##### REVISIONS TO THE PRIVACY POLICY
 
 Chevron may at any time revise this Privacy Policy by updating this posting. By using this website, you agree to be bound by any such revisions and should therefore periodically visit this page of the website to determine the then current Privacy Policy to which you are bound. Certain provisions of these Privacy Policy may be superseded by expressly designated legal notices or terms located on particular pages on this website. 
 
@@ -196,7 +196,7 @@ Back to Top
 
 IN NO EVENT WILL CHEVRON OR ISL CONSULTING BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE, INABILITY TO USE, OR ANY WEB SITES LINKED TO OUR SITE, THE MATERIALS OR INFORMATION CONTAINED AT ANY OR ALL SUCH SITES, OR THE MATERIALS, PRODUCTS OR SERVICES OFFERED ON THIS SITE OR SITES LINKED TO THIS SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY AND WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
 
-##### REVISIONS TO THESE TERMS OF USE
+##### REVISIONS TO THE PRIVACY POLICY
 
 Chevron may at any time revise this Privacy Policy by updating this posting. By using this website, you agree to be bound by any such revisions and should therefore periodically visit this page of the website to determine the then current Privacy Policy to which you are bound. Certain provisions of these Privacy Policy may be superseded by expressly designated legal notices or terms located on particular pages on this website. 
 
