@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segaarcade.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616211028id_/http%3A//www.segaarcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segaarcade.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222223819id_/http%3A//www.segaarcade.com/privacypolicy) for the most accurate reproduction.*
 
 # Sega Amusements USA - Online Privacy Policy
 
@@ -160,7 +160,7 @@ Sega Amusements U.S.A., Inc. ("Sega Amusements") is committed to protecting the 
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact us by email at [marketing@sau.sega.com](mailto:marketing@sau.sega.com), or by writing to us at Sega Amusements USA, Inc. 800 Arthur Ave. Elk Grove Village, IL 60007
 
 [Home](https://web.archive.org/) | [Corporate Info](https://web.archive.org/corporate/) | [Find a Distributor](https://web.archive.org/distributor/) | [Trade Shows](https://web.archive.org/shows/) | [F.A.Q.](https://web.archive.org/faq/) | [Contact Us](https://web.archive.org/contact/) | [Video Games](https://web.archive.org/video/)   
-[Redemption / Vending Games](https://web.archive.org/vending/) | [Archive Games](https://web.archive.org/archive/) | [Cabinet Conversion](https://web.archive.org/cabinet/) | [Merchandise / Prizes](https://web.archive.org/merchandise/)   
+[Redemption / Vending Games](https://web.archive.org/vending/) | [Archive Games](https://web.archive.org/archive/) | [Cabinet Conversion](https://web.archive.org/cabinet/)   
 [Policies and Procedures](https://web.archive.org/policy/) | [Privacy Policy](https://web.archive.org/privacypolicy/) | [Terms of Service](https://web.archive.org/terms/)
 
   
