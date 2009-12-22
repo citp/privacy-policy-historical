@@ -1,34 +1,31 @@
-> *The following text is extracted and transformed from the classifiedstheme.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608182024id_/http%3A//www.classifiedstheme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedstheme.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222061749id_/http%3A//www.classifiedstheme.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Classifieds Theme
+# Classifieds Theme - Privacy Policy
 
-Thank you for visiting ClassifiedsTheme.com (The Website) and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
-
-**Type of Information Collected**
-
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
-
-**Cookies and Web Beacons**
-
-Where necessary, ClassifiedsTheme.com uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
-
-#### Interest-based advertising
-
-Interest-based advertising will allow advertisers to show ads on our site based on a visitor’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. “sports enthusiast”). To develop interest categories, we will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, we will add them to the “sports enthusiast” interest category.
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this  
-information used by these companies, [click here](http://www.google.com/privacy_ads.html).
-
-**Google and the DoubleClick DART cookie:**
-
-  * Google, as a third party vendor, uses cookies to serve ads on our site.
-  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+  
 
 
+Your privacy is important to us. We want you to feel comfortable using ClassifiedsTheme services. Because we gather certain types of information about the users of ClassifiedsTheme services, we feel you should fully understand what information we gather and how we use that information. ClassifiedsTheme employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action. What information does ClassifiedsTheme gather? 
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+  
 
-**Controlling Your Privacy**
+  * What information does ClassifiedsTheme gather? 
+    * When you register for a account on this website, ClassifiedsTheme obtains contact information, such as your name, address, and phone number. When you use ClassifiedsTheme service, our systems record information about your session, such as the dates and times of use, and the specific Internet address assigned to you. ClassifiedsTheme also tracks requests you make for information on ClassifiedsTheme products and services, and responses you provide to ClassifiedsTheme surveys. Finally, ClassifiedsTheme keeps records of your payment history and communications you have with ClassifiedsTheme support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), ClassifiedsTheme does not keep track of what sites you visit when you are using the service.
+  * What does ClassifiedsTheme do with this information? 
+    * ClassifiedsTheme uses the information it gathers in order to provide you with the best online experience possible. As you might expect, contact information is used to contact you concerning your account and our company. Payment information is used to validate your identity and to bill you for the services and products you order. Information on your online sessions is used to allocate system resources and to ensure compliance with ClassifiedsTheme Service Level Agreements (SLA). Information on your communications with ClassifiedsTheme support team is used to address the issues raised by your communications. In addition, ClassifiedsTheme regularly sends out mailings regarding the operation of its service and other goods and services that it believes may be of interest to you. You may request that ClassifiedsTheme not send you mailings relating to other goods and services at the URLs listed in this section or send an e-mail to [privacy@ClassifiedsTheme.com](mailto:privacy@ClassifiedsTheme.com). ClassifiedsTheme reserves the right, however, to send bulletins and other important information regarding the service at its discretion.
+  * Does ClassifiedsTheme share subscriber information with third parties? 
+    * ClassifiedsTheme will not share or disclose information regarding its subscribers except (i) when we receive legal process such as a court order; (ii) when reasonably necessary to protect the company's rights or property; or (iii) in emergencies where someone's safety is at risk.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+You should be aware, however, that any information that you disclose in a public space such as a chat room, bulletin board, or personal Web site, ClassifiedsTheme DNR domain registration is freely available to anyone else visiting that space. ClassifiedsTheme cannot safeguard any personally identifiable information you disclose in these locations, nor can it ensure that information you voluntarily supply to third parties remains private. Please review the privacy policies of third party sites you frequent to ensure that your privacy preferences are respected.
+
+    * ClassifiedsTheme trial customer email addresses will be added to our newsletter database to help us provide you with the latest information about the products and/or services we offer.
+  * How can I correct or update the information? 
+    * To request a copy of the contact ClassifiedsTheme has on your account, send an e-mail request to [privacy@ClassifiedsTheme.com](mailto:privacy@ClassifiedsTheme.com). You may correct that information as appropriate by returning a message to the same address. Please keep in mind that under ClassifiedsTheme Service Level Agreements (SLA), subscribers are required to provide ClassifiedsTheme with current contact and billing information. ClassifiedsTheme may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account.
+  * What happens to the information if I leave ClassifiedsTheme? 
+    * If you ever leave ClassifiedsTheme, ClassifiedsTheme will normally delete your personally identifiable account information twelve months after the account is cancelled, unless we are under a legal obligation to retain it. We preserve account information for this short period of time in the event you wish to reactivate your account and retain your previous e-mail address. However, in the event of any accounting irregularities, ClassifiedsTheme reserves the right to retain your contact and billing information as necessary to resolve the matter.
+  * Changes to this policy and questions about privacy. 
+    * ClassifiedsTheme reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to: [mark@markfail.com](mailto:mark@markfail.com).
+
+
+
+[](http://messenger.providesupport.com/messenger/chatoperators.html)
