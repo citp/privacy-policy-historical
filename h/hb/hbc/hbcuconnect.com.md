@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219154237id_/http%3A//www.hbcuconnect.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222223455id_/http%3A//hbcuconnect.com/privacy.shtml) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ In addition to registration we may ask you for personal information at other tim
 We use all of the personal information that we collect for research purposes to improve the HBCUCONNECT.com service. In addition, we summarize information about our member’s that is provided to advertisers and partners. Our partners and advertisers use this summary information to provide more relevant information and offers to our members who choose to receive such offers and information. From time to time, we make our member e-mail list available to other reputable organizations whose products or services we think you might find interesting. We do not sell data about our users or provide any personally identifiable information about any individual member without their consent. Wherever HBCUCONNECT.com collects personal information we make an effort to include a link to this Privacy Policy on that page. 
 
 **Your Opt out choices  
-**If, at any time, you wish to stop receiving information from HBCUCONNECT.com, or to have your name and other personal information removed from our list, please let us know by sending us an e-mail request using our [ online contact form](https://web.archive.org/contact_us.cgi) or writing to us at 750-Q Cross Pointe Rd., Columbus, Ohio 43230. 
+**If, at any time, you wish to stop receiving information from HBCUCONNECT.com, or to have your name and other personal information removed from our list, please let us know by sending us an e-mail request using our [ online contact form](http://club.hbcuconnect.com/cgi-bin/contactUs.cgi) or writing to us at 750-Q Cross Pointe Rd., Columbus, Ohio 43230. 
 
 **Links to other Web sites  
 **Links from our Web site are provided for your convenience only. You should always investigate the privacy practices of all Web sites that you access, including those linking to or from our Web site. HBCUCONNECT.com does not endorse and is not responsible for the content of any third party Web site or the privacy practices of third parties. 
@@ -43,4 +43,4 @@ HBCU Privacy Inquiry
 750-Q Cross Pointe Rd. Columbus, Ohio 43230  
 
 
-Email: [THE STAFF](https://web.archive.org/contact_us.cgi)
+Email: [THE STAFF](http://club.hbcuconnect.com/cgi-bin/contactUs.cgi)
