@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocityguides.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626020211id_/http%3A//www.gocityguides.com/main/privacy_policy%2520.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocityguides.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222131216id_/http%3A//www.gocityguides.com/main/privacy_policy%2520.aspx) for the most accurate reproduction.*
 
 # privacy_policy
 
