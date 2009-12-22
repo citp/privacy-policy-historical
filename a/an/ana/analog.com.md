@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609205921id_/http%3A//www.analog.com/en/content/privacy_and_security_statement/fca.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222195124id_/http%3A//www.analog.com/en/content/privacy_and_security_statement/fca.html) for the most accurate reproduction.*
 
 # PRIVACY & SECURITY STATEMENT | Analog Devices
 
