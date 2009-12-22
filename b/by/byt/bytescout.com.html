@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619090037id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2009-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222041351id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>ByteScout.Com Privacy Statement</title>
@@ -163,6 +163,7 @@ function setLinkBehaviours()
 <!-- menu begin -->
 <div style="float: left; padding-left:5;" id="menu1" class="left_menu"> 
         <div> <span>Products</span> 
+		<a href="spreadsheettools.html">Spreadsheet Tools</a> 
 		<a href="watermarkingpro.html">Watermarking PRO (with EXIF macros)</a> 
 		<a href="watermarking.html">Watermarking</a> 
 		  <a href="graphdigitizerscout.html">Graph 
@@ -171,18 +172,21 @@ function setLinkBehaviours()
           To Video Scout PRO</a> 
 		  <a href="swftoscreensaverscout.html">SWF To Screensaver Scout</a> 		  
 		  <a href="ppttovideoscout.html">PPT To Video Scout</a> 
+		  <a href="ppttoswfscout.html">PPT To SWF Scout</a> 		  
         </div>
         <div class="collapsed"> 
 		<span>For Software Developers</span> 
-<a href="bytescoutbarcodesdk.html">Bytescout BarCode (generator) SDK for .NET</a>
-<a href="bytescoutbarcodereadersdk.html">Bytescout BarCode Reader SDK for .NET</a>
-<a href="bytescoutspreadsheetsdk.html">Bytescout Spreadsheet SDK for .NET <i>(former Bytescout.XLS)</i></a>
+<a href="screencapturingsdk.html">Screen Capturing SDK</a>		
+<a href="swftovideosdk.html">SWF To Video SDK</a>		
+<a href="bytescoutbarcodesdk.html">BarCode (generator) SDK for .NET</a>
+<a href="bytescoutbarcodereadersdk.html">BarCode Reader SDK for .NET</a>
+<a href="bytescoutspreadsheetsdk.html">Spreadsheet SDK for .NET <i>(former Bytescout.XLS)</i></a>
 <a href="watermarkingsdk.html">Watermarking SDK for .NET</a> 		  
 <a href="swfscout.html">SWF 
           Scout library</a> <a href="swfslideshowscout.html">SWF SlideShow Scout 
           library</a> 
 		  
-		  <a href="bytescoutscansdk.html">Bytescout Scan SDK for .NET</a> 		  
+		  <a href="bytescoutscansdk.html">Scan SDK for .NET</a> 		  
 		  
 		  <a href="rss2htmlpro.html">RSS2HTMLPro.ASP script</a> 
 
@@ -217,7 +221,9 @@ function setLinkBehaviours()
 <td valign="top">
 
 <div style="padding-left:5;"> 
+
 <!-- subscription form -->
+
 <style>
 .signupframe {
   border: 1px solid #cccccc;
@@ -226,18 +232,37 @@ function setLinkBehaviours()
   font-family: Arial, Helvetica, sans-serif;
 }
 </style>
-<form method="post" action="http://app.icontact.com/icp/signup.php" name="icpsignup" accept-charset="UTF-8" onsubmit="return verifyRequired();">
-<input type="hidden" name="redirect" value="http://bytescout.com/newsletter_subscription_confirmation.html">
-<input type="hidden" name="errorredirect" value="http://bytescout.com/newsletter_subscription_error.html">
+<form method="post" action="http://bytescout.com/mail/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);">
 <script type="text/javascript">
-function verifyRequired() {
-  if (document.icpsignup["fields_email"].value == "") {
-    document.icpsignup["fields_email"].focus();
-    alert("The Email field is required.");
-    return false;
-  }
-return true;
-}
+// <![CDATA[
+
+			function CheckMultiple1(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm1(f) {
+			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+			if (!email_re.test(f.email.value)) {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}		
+				return true;
+			}
+		
+// ]]>
 </script>
 <div id="SignUp">
 <table class="signupframe" border="0" cellspacing="0" cellpadding="5">
@@ -246,11 +271,16 @@ return true;
 </tr>
 	<tr>	  
       <td align="left">
-        <input type="text" name="fields_email" value="Enter Email" onclick="javascript:if (this.value == 'Enter Email') { this.value = ''; }">
+        <input type="text" name="email" value="Enter Email (required)" onclick="javascript:if (this.value == 'Enter Email (required)') { this.value = ''; }">
       </td>
+	</tr>
+	<tr>
+	 <td align="left">
+	<input type="text" name="CustomFields[2]" id="CustomFields_2_1" value="First Name" onclick="javascript:if (this.value == 'First Name') { this.value = ''; }">
+       </td>
     </tr>
     <input type="hidden" name="listid" value="75100">
-    <input type="hidden" name="specialid:75100" value="71GP">
+    <input type="hidden" name="format" value="h">
 
     <input type="hidden" name="clientid" value="484438">
     <input type="hidden" name="formid" value="4245">
@@ -263,14 +293,7 @@ return true;
 </div>
 </form>
 <!-- subscription form -->
-<!-- old form
-<form name="nwnavform" action="" method="POST">
-  <input name="email" type="text" class="email" value="Enter Email" onclick="javascript:if (this.value == 'Enter Email') { this.value = ''; }">
-  <input type="submit" name="Submit" value="Subscribe">
-  <input type="hidden" name="_m" value="news">
-  <input type="hidden" name="_a" value="subscribe">
-</form>
--->
+
 <font class="textblack"> 
 <a href="http://feeds2.feedburner.com/Bytescout" style="color:#4687B6;text-decoration:none "><img src="images/feed-icon16x16.png" width="16" height="16" border="0">&nbsp;Subscribe 
 in a reader</a> </font>
@@ -281,26 +304,18 @@ in a reader</a> </font>
     </td>
     <td width="99%" align="left" valign="top"> 
       <div style="padding-left: 4px; padding-top: 4px"> 
-<form action="http://bytescout.com/search_results.html" id="cse-search-box">
+<form action="/search/search.php" method="get">
  <font class="textblue1">
 
  &nbsp;<a href="/index.php" style="color:#4687B6;text-decoration:none ">PRODUCTS</a> 
  &nbsp;|&nbsp; <a href="/download.html" style="color:#4687B6;text-decoration:none ">DOWNLOAD</a> 
  &nbsp;|&nbsp; <a href="/purchase.html" style="color:#4687B6;text-decoration:none ">PURCHASE</a> 
  &nbsp;|&nbsp; <a href="/support.html" style="color:#4687B6;text-decoration:none ">SUPPORT</a> 
- &nbsp;|&nbsp; <a href="/contacts.html" style="color:#4687B6;text-decoration:none ">CONTACTS</a>
+<!--  |  <a href="/contacts.html" style="color:#4687B6;text-decoration:none ">CONTACTS</a> -->
  &nbsp;|&nbsp; <a href="/random_quote.php?all" style="color:#4687B6;text-decoration:none ">TESTIMONIALS</a>&nbsp; 
- &nbsp;|&nbsp; <a href="/support/index.php?_m=news&amp;_a=view" style="color:#4687B6;text-decoration:none ">NEWS</a>
-
- <!--
-    <input type="hidden" name="cx" value="011330914343353014936:ks1xvgmifuk" />
-    <input type="hidden" name="cof" value="FORID:11" />
-    <input type="hidden" name="ie" value="UTF-8" />
-    <input type="text" name="q" size="17" />
-    <input type="submit" name="sa" value="Search" />	
--->
- </font>
-</form>
+ &nbsp;|&nbsp; <a href="/support/index.php?_m=news&amp;_a=view" style="color:#4687B6;text-decoration:none ">NEWS</a> 
+ &nbsp;|&nbsp;  </font>
+ <input name="zoom_query" type="text" length="15"><input type="submit" name="Submit" value="Search"></form>
   <hr>
 <!-- special discount -->  
 <!-- 
@@ -370,15 +385,16 @@ in a reader</a> </font>
 <div style="padding-left:5; padding-top:5; ">
         <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td width="50%" align="left"> 
+          <td width="50%" align="center"> 
  <font class="textblue1">
-  <a href="/index.php" style="color:#4687B6;text-decoration:none ">PRODUCTS</a> 
- &nbsp;|&nbsp; <a href="/download.html" style="color:#4687B6;text-decoration:none ">DOWNLOAD</a> 
- &nbsp;|&nbsp; <a href="/purchase.html" style="color:#4687B6;text-decoration:none ">PURCHASE</a> 
- &nbsp;|&nbsp; <a href="/support.html" style="color:#4687B6;text-decoration:none ">SUPPORT</a> 
- &nbsp;|&nbsp; <a href="/contacts.html" style="color:#4687B6;text-decoration:none ">CONTACTS</a>
- &nbsp;|&nbsp; <a href="/random_quote.php?all" style="color:#4687B6;text-decoration:none ">TESTIMONIALS</a>
- &nbsp;|&nbsp; <a href="/support/index.php?_m=news&amp;_a=view" style="color:#4687B6;text-decoration:none ">NEWS</a>
+  <a href="/index.php" style="color:#4687B6;text-decoration:none ">HOME</a> 
+<!--  |  <a href="/download.html" style="color:#4687B6;text-decoration:none ">DOWNLOAD</a> 
+  |  <a href="/purchase.html" style="color:#4687B6;text-decoration:none ">PURCHASE</a> 
+  |  <a href="/support.html" style="color:#4687B6;text-decoration:none ">SUPPORT</a> 
+--> 
+ &nbsp;|&nbsp; <a href="/contacts.html" style="color:#4687B6;text-decoration:none ">CONTACT US</a>
+<!--  |  <a href="/random_quote.php?all" style="color:#4687B6;text-decoration:none ">TESTIMONIALS</a>
+  |  <a href="/support/index.php?_m=news&_a=view" style="color:#4687B6;text-decoration:none ">NEWS</a> -->
 
 
  </font>
