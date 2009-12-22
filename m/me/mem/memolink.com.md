@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620031653id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222131707id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.*
 
 # Memolink Privacy Policy
-
-Memolink » Privacy Policy
 
 Memolink.com Privacy Statement Highlights
 
@@ -24,6 +22,11 @@ Have you ever wondered what we do with the information you give us, but maybe yo
 
 
 How to Contact Us
+
+
+
+
+Consumer Protection Information
 
 
 
