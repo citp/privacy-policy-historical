@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621114647id_/http%3A//blog.grockit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222073843id_/http%3A//blog.grockit.com/about/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy Grockit Blog
+# Privacy Policy « Grockit Blog
 
 Effective: September 22, 2008
 
