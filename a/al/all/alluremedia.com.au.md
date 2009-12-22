@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618083116id_/http%3A//www.alluremedia.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222081025id_/http%3A//www.alluremedia.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Allure Media | Privacy Policy
 
 |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20090618083116id_/http%3A//www.alluremedia.com.au/index.html) |  | 
+[](https://web.archive.org/web/20091222081025id_/http%3A//www.alluremedia.com.au/index.html) |  | 
 
-[Advertise](https://web.archive.org/web/20090618083116id_/http%3A//www.alluremedia.com.au/index.html)
-
-|  | 
-
-[Write](https://web.archive.org/web/20090618083116id_/http%3A//www.alluremedia.com.au/Bloggers/index.html)
+[Advertise](https://web.archive.org/web/20091222081025id_/http%3A//www.alluremedia.com.au/index.html)
 
 |  | 
 
-[Read](https://web.archive.org/web/20090618083116id_/http%3A//www.alluremedia.com.au/Titles/index.html)  
+[Write](https://web.archive.org/web/20091222081025id_/http%3A//www.alluremedia.com.au/Bloggers/index.html)
+
+|  | 
+
+[Read](https://web.archive.org/web/20091222081025id_/http%3A//www.alluremedia.com.au/Titles/index.html)  
   
 Privacy Policy
 
