@@ -1,91 +1,136 @@
-> *The following text is extracted and transformed from the pinnaclesys.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419161405id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesys.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222014208id_/http%3A//www.avid.com/us/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Pinnacle Systems is the Leader in Digital Video
+# Avid Privacy Policy
 
-**Privacy Policy**
+##### Last Updated: March 20, 2009
 
-  
-Pinnacle Systems ("Pinnacle," "We," "Us" and/or "Our") has created this privacy policy in order to inform you of Pinnacle's commitment to privacy. The following discloses Pinnacle's information gathering and dissemination practices for this website. Pinnacle, its parent company, Avid Technology, Inc. and related subsidiaries, divisions, and affiliates (collectively, "Avid"), may have other websites which may contain their own applicable privacy policies. Your visits to those sites will be governed by the privacy policies, if any, that govern those sites. 
+Avid Technology, Inc. has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Avid when you visit our websites. In a few cases, Avid’s other websites may contain additional privacy policies. Your visits to those sites will be governed by the privacy policies, if any, that govern those sites. 
 
-PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS WEBSITE.
+PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS SITE. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, DO NOT USE THE SITE. BY SUBMITTING ANY PERSONAL INFORMATION TO THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY STATEMENT. 
 
-IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, DO NOT USE THE WEBSITE. THIS PRIVACY POLICY GOVERNS THE USE OF THE WEBSITE AND APPLIES TO ANY INFORMATION YOU MAY SUBMIT TO THIS WEBSITE. BY USING THE WEBSITE AND SUBMITTING ANY PERSONAL INFORMATION, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. 
+Your use of this site are also subject to the [Terms of Use](https://web.archive.org/us/legal/index.aspx). Please review those Terms of Use for additional detail regarding your use of this site. 
 
-Your use of this website and the terms of this privacy policy also are subject to the [Terms of Service](https://web.archive.org/PublicSite/us/About+Us/Company+Info/Terms+of+Service.htm). Please review those Terms of Service for additional detail regarding your use of this website. 
+#### GENERAL INFORMATION 
 
-This privacy policy was last Updated: **May 17, 2006**
+#### IP Addresses and Cookies 
 
-This privacy policy is effective as of: **May 17, 2006**
+Generally speaking, you may visit the site while remaining anonymous and not revealing any personal information. 
 
-This privacy policy contains information about:
+Our websites automatically log your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to compile statistics such as the number of visitors.
 
-  * The personally identifiable information we collect from you through our website ("Personally Identifiable Information")
-  * How we use such Personally Identifiable Information and with whom we share the Personally Identifiable Information
-  * Your options with regard to collection, use and distribution of the Personally Identifiable Information
-  * Your ability to correct any inaccuracies in your Personally Identifiable Information
+Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites (e.g. chat pages) will not work without cookies.
+
+It is not possible for a cookie stored by us to be read by any other company's website, nor can a cookie read information from your computer that you have not already provided us with.
+
+#### Submission of Personal Information 
+
+Certain portions of the site may require that you submit some personal information, such as your name and email address, before using those portions of the site. At minimum, you are typically required to register with the site and provide your name or email address before using any of the members only areas of the site. For some services, such as forums, customer support features, registering for events or contests, downloading softwareor uploading content, you may have to create an account, and submit additional personal information such as your mailing address. 
+
+#### Use of Personal Information 
+
+Avid uses information it collects to provide the services and information you select, to better understand its customers, to provide better products and services, and to assist with site administration, such as with troubleshooting any problems, detecting fraud, resolving disputes, and for any purposes deemed necessary or required by Avid to enforce the Terms of Use and other terms or conditions applicable to any portion of the site. 
+
+We also use this information to send you information about Avid, or other topics Avid thinks may be of interest to you, such as product information or updates. As part of its business, Avid works with authorized partners, such as authorized resellers, to provide you with the services and information. As part of those activities, Avid may share your information with those authorized entities so that they can directly provide the information or services to you. 
+
+#### Aggregation and Use of Anonymous Data 
+
+Avid aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps Avid to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally. 
+
+#### Third Parties 
+
+Avid does not sell to third parties information you have submitted to this site that identifies you personally. 
+
+On occasion, Avid may offer in conjunction with third parties certain services that may require you to share your personal information with that third party as a condition for receiving that service. While Avid will treat any information it receives in accordance with this Privacy Policy Statement, Avid will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service. 
+
+#### Declining Information 
+
+You can always change your mind; see the Accept/Decline section below. Please note that it may take us a reasonable amount of time to process your request, but once we do, we will no longer use your information. 
+
+Even if you decline to receive information or cancel your account, Avid reserves the right to use the information you previously provided to contact you about administrative matters relating to your use of any portion of the site, your account, or about any issues relating to the Terms of Use, this Privacy Policy, or any other policy then in-effect (for example, the [Copyright Complaint Policy](https://web.archive.org/us/legal/copyright.aspx)). 
+
+#### Public Forums for User Materials 
+
+Certain portions of the site are designed to offer you the opportunity to post information on the site, including but not limited to information about yourself ("User Materials"). You should always remember that publicly displayed information is public. For example, you may be permitted to post your resume information, a video you have created, or to post messages in any chat rooms, message boards, mailing lists, and/or news groups this site makes available to its users. If you use a forum, bulletin board or chat room on an Avid website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Avid is not responsible for the personally identifiable information you choose to submit in these forums. 
+
+Please see the [Terms of Use ](https://web.archive.org/us/legal/index.aspx)for additional terms related to Avid’s forums and posting of User Materials.
+
+#### Law Enforcement 
+
+As noted in the Terms of Use Avid intends to cooperate with any order or request from law enforcement officials or a court of competent jurisdiction for information as to the identity of individuals submitting or posting information to Avid or on this site. Such orders or requests supersede the terms of this Privacy Policy. Similarly, notifications of claimed copyright infringement, counter notifications or other information submitted to and necessary to process a notification under our Copyright Complaint Policy are also exempt from this Privacy Policy. 
+
+#### Avid Links to Other Sites and Advertising 
+
+This site may display advertisements and/or links to third parties. Avid is not responsible for the privacy practices or the content of those websites. Please refer to that company's privacy policy for further information. 
+
+#### Surveys 
+
+From time to time Avid may make online surveys available to users of the site. Participation in those surveys is voluntary. Some online surveys may ask participants for personal information, such as an email address, in addition to requesting answers to survey questions. Avid may use that personal information to contact the participant if necessary, or as otherwise described above. Avid may make the results of any survey publicly available, although Avid will not attribute any particular response to you without your permission. 
+
+#### Contests
+
+On occasion Avid may make available to users of the site contests, sweepstakes, or similar events in which they may qualify for participation. Participation is always voluntary and subject to the applicable rules. The rules may ask participants to provide personal information as a condition of participation. Avid may also make the winner's names public, as provided in the applicable rules, or as required by law. Avid may also use that information as described above. In some instances, the applicable rules may contain additional or different uses for the information you provide; please be sure to review those rules carefully before entering. 
+
+Avid may permit a third party to sponsor a survey, contest, sweepstakes, or other similar event ("third party event") with Avid, such as through posting it on the site. Such third party events are governed solely by any applicable rules, and may require you to provide information to that third party as a condition for participation. While Avid will treat any information it receives in accordance with this Privacy Policy, Avid is not responsible for the information gathered by that third party, and Avid reminds you to review the rules and privacy policies separately applicable to those third party events. 
+
+#### CHILDREN
+
+Some of Avid’s websites may appeal to or be intended for children; however, we do not wish to receive data from children. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, Avid’s website by visitors under 18 years of age without the consent of their parent or guardian. For sites that are intended for use by children we have put in place additional privacy practices which are described on those sites.
+
+#### SECURITY
+
+#### General Issues 
+
+Generally speaking, this site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Since the site under general usage does not collect financial information, Avid uses the standard internet connections for those general usage portions of the site, without secured sockets. 
+
+#### Specific Services 
+
+This site may provide certain additional, optional services that may use additional security measures to protect the information, such as financial information, provided by you to obtain the service. Those additional security measures may vary, depending upon the particular service offered. You will be informed of any specific security measures at the time you register for a particular service. Please review that information for further detail. 
+
+#### Site Registration 
+
+In some cases, you may be prompted to register with the site to undertake a particular site activity or obtain a particular service. As part of that registration, you may be asked to choose your own password. Avid reminds you to protect your password, and not provide it to others to use. Allowing others to access and use your account and password can compromise the security of your information. Avid disclaims any responsibility or obligation for your decision to provide your password to others. 
+
+#### CHANGES TO THIS POLICY 
+
+If and when Avid makes changes to this site, Avid may have to update this Privacy Policy Statement to better reflect those changes. But no update to this Privacy Policy Statement will, in itself, alter the choice you already made about how Avid can use your personal information. Because changes to this site or updates to this Privacy Policy Statement may occur, you should review this Privacy Policy Statement from time to time. Remember, your decision to continue using this site after this Privacy Policy Statement is updated will signify that you have agreed to any new terms. 
+
+#### ACCEPT/DECLINE 
+
+Typically you accept to receive communications when you submit information to the site. If you wish to remove your information from the site registration database and no longer receive future communications or use any services, you may do so through any of the methods described below. Please note that it may take us a reasonable amount of time to process your request. 
+
+  1. The Profile section of this site may permit you to change a previous selection and decline to receive further communications, or to delete your registration. 
+  2. A particular service may have an Administration section that allows you to change any previous selections for that service. 
+  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections. 
 
 
 
-Pinnacle may occasionally update or amend this privacy policy as needed or appropriate, and will post such revised privacy policy on this website so please review this statement periodically. Your continued use of this website will be subject to the then-current privacy policy.
+#### CORRECT/UPDATE 
 
-Pinnacle's websites may contain links to other websites. Pinnacle assumes no responsibility for the content or the privacy policies and practices of such websites. Such links do not constitute an endorsement by Pinnacle of those linked-to websites. You acknowledge that Pinnacle is providing these links to you only as a convenience. Pinnacle's websites contain a number of links to companies with whom we have a relationship. We encourage you to read their privacy statements and terms of use, as they may differ from ours, and your use of such linked-to websites is subject to the terms of use and privacy policies located on those websites. Pinnacle is not responsible for the privacy practices of any third party.
+This site gives users the following options for changing and modifying information previously provided. 
 
-We also may link to co-branded websites that are maintained by Pinnacle and one or more of our business partners. An example of a co-branded website is the [Pinnacle eStore](http://apps.pinnaclesys.com/estore/PinnacleStore.asp). When you submit information to one of our co-branded websites you may be submitting it to both Pinnacle and our business partners and the privacy policies of these co-branded websites may differ from this privacy policy. We encourage you to read the privacy policies on any co-branded website to which you link for information on the privacy practices that apply to that website.
+  1. The Profile section of this site may permit a registered user to change or modify information previously provided. 
+  2. A particular service may have an Administration section that allows you to change or modify information you previously provided for that service. 
+  3. You can send an email to [Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com) for assistance in deleting/changing your prior selections. 
 
-Questions or concerns about this privacy statement should be directed to: [privacy@pinnaclesys.com](mailto:privacy@pinnaclesys.com).
 
-If you have a support question, please submit it to: <http://www.pinnaclesys.com/selfhelp>
 
-What Personally Identifiable Information We Collect.
+#### CONTACTING THE WEB SITE 
 
-Pinnacle may ask to you to register or provide Personally Identifiable Information (such as your name, e-mail address and mailing address) when you visit certain areas of our website, register a product, download software, request information, or subscribe to a newsletter.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the Manager at the following address and email: 
 
-Pinnacle contracts with a third party to provide you with the eStore. That third party collects Personally Identifiable Information (including credit card information) when you make a purchase through the Pinnacle eStore, and shares some of that information with Pinnacle. Please review the [eStore privacy policy](http://buy.pinnaclesys.com/dr/v2/ec_MAIN.Entry11?SP=10345&PN=1&xid=51106) before using the eStore.
+#### Manager, Website Strategy & Operations 
 
-Pinnacle's technical and customer support representatives may collect information such as your name, email address and phone number, as well as technical information regarding your computer and software from you in order to assist problem resolution and tracking.
+Avid Technology, Inc.   
+Avid Technology Park   
+One Park West   
+Tewksbury, MA 01876   
+U.S.A   
+[Avid_Webmaster@avid.com](mailto:Avid_Webmaster@avid.com)
 
-Pinnacle may sponsor or participate in sweepstakes, contests, or promotions. Participation is voluntary, and you will be required to provide Personally Identifiable Information in order to submit an entry.
+#### NOTICE TO EUROPEAN USERS 
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use clear gifs and cookies provided by our marketing company on this site. The type of information we collect includes information regarding number of visitors, pages visited, product codes and prices of purchased merchandise, etc. This information is collected and reported in aggregated and non-personally identifiable form. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by setting your web browser not to accept cookies. Doing so may slow or limit your access to some features of the site.
+Please note that the information you enter on the site or otherwise provide to Avid Technology, or its subsidiaries or divisions, may be transferred outside of the European Economic Area, for purposes of processing, by Avid Technology, Inc. a company located in Tewksbury, Massachusetts, U.S.A., or its subsidiaries or Avid's subsidiaries or divisions, or authorized partners, located worldwide, in order to provide this site and its services to you. You are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. You are further advised that the Council of the European Union has found that this model does not provide "adequate" privacy protections as contemplated by Article 25 of the European Union's Data Directive. (Directive 95/46/EC, 1995 O.J. (L 281) 31) 
 
-How We Store Your Personally Identifiable Information.
+Article 26 of the European Union's Data Directive allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. 
 
-When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
-
-How We Use Your Personally Identifiable Information.
-
-Pinnacle Systems is a division of Avid Technology, Inc. ("Avid"), which is based in the United States. In order to manage the information you give to us, we may transfer your information for storage and processing purposes to Avid servers located in the United States -- but only to be used in accordance with the terms of [Avid's privacy policy](http://www.avid.com/legal/#privacy).
-
-Pinnacle does not rent or sell any user-provided Personally Identifiable Information to third parties. Except as expressly set forth in this privacy policy, if we plan to share Personally Identifiable Information with another company, we will inform you at the time we ask for the information. Pinnacle does not share user-provided Personally Identifiable Information with third parties if the user has opted not to receive information from other third parties or not to allow such disclosure. Pinnacle does not share any demographic information in a way that is personally identifiable. Information may be used in the aggregate (separate from your Personally Identifiable Information) for our research and marketing.
-
-Pinnacle may share your Personally Identifiable Information with its third party service providers. We require our third party service providers to use your Personally Identifiable Information in accordance with this privacy policy and to disclose your Personally Identifiable Information only to their service providers who are similarly bound to comply with this privacy policy.
-
-Pinnacle may disclose your Personally Identifiable Information if necessary, in Pinnacle's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant or order or to protect the rights of Pinnacle or others.
-
-Pinnacle protects users' Personally Identifiable Information by storing the information in a controlled, secure environment. Pinnacle occasionally hires other companies to provide services on our behalf, including order fulfillment, rebate administration and returns management. Pinnacle only provides those companies with the information they require to deliver the service and they are not permitted to use the information for any other purpose without your permission.
-
-Your Options.
-
-When you provide Personally Identifiable Information through My Pinnacle you are given the opportunity to opt in or opt out of receiving information from Pinnacle and its affiliates and third party service providers. If you do not opt out of receiving information from Pinnacle and its affiliates and third party service providers, Pinnacle and its affiliates and third party service providers may contact you to inform you of product updates and upgrades, special offers, new services and products, and other Pinnacle information. Our emails and newsletters contain instructions for unsubscribing or opting out. If you do not want Pinnacle or Pinnacle's affiliates and third party service providers to contact you, you may "opt out" at any time by following the instructions contained in the emails that you receive. You may also elect to "opt in" at a later point if you would like to have Pinnacle or its affiliates and third party service providers contact you. If you choose not to register or provide Personally Identifiable Information, you will still be able to view most Pinnacle websites, but you will not be able to access certain password protected and restricted areas that require registration.
-
-Forums
-
-If you participate in our web forums, please remember that you do so at your own risk. Any information you disclose in a forum posting will become public information. Please review the [Forums Terms of Use](http://webboard.pinnaclesys.com/disclaimer.asp?lng=1) before participation in a Forum.
-
-Children
-
-While Pinnacle's web site may be viewed by children, we do not wish to receive data from children. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, Pinnacle's web site by visitors under 18 years of age without the consent of their parent or guardian.
-
-Updating/Correcting Your Information
-
-To update your Personally Identifiable Information and/or change your contact preferences [click here](http://apps.pinnaclesys.com/cdb/register/updateProfile.aspx?memberid=0&langue_id=7).
-
-Notice to European Users
-
-Please note that the information you enter on this website or otherwise provide to Pinnacle, may be transferred outside of the European Economic Area, for purposes of processing, by Pinnacle, Avid Technology, Inc. its parent company located in Tewksbury, Massachusetts, U.S.A., or its subsidiaries or divisions, or authorized partners, located worldwide, including countries which may not offer an equivalent level of protection to that required in the European Union, in order to provide this website and its services to you. In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. You are further advised that the Council of the European Union has found that this model does not provide "adequate" privacy protections as contemplated by Article 25 of the European Union's Data Protection Directive. (Directive 95/46/EC, 1995 O.J. (L 281) 31)
-
-Article 26 of the European Union's Data Protection Directive allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection.
-
-By agreeing to the [Terms of Service](https://web.archive.org/PublicSite/us/About+Us/Company+Info/Terms+of+Service.htm) and this privacy policy, you consent to the transfer of all such information to the United States and other countries which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information as described in this privacy policy. 
-
-Helpful Links
+By agreeing to this Policy, you consent to the transfer of all such information to the United States and the processing of that information as described in this Policy. 
