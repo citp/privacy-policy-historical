@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210300id_/http%3A//www.bbc.co.uk/go/blq/foot/privacy/hp/-/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222015641id_/http%3A//www.bbc.co.uk/go/blq/foot/privacy/hp/-/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy and Cookies Policy
 
