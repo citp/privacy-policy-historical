@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621194838id_/http%3A//www.hws.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223184856id_/http%3A//www.hws.edu/privacy.aspx) for the most accurate reproduction.*
 
 # HWS: Privacy Policy
 
