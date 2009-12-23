@@ -1,65 +1,100 @@
-> *The following text is extracted and transformed from the insure.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626045318id_/http%3A//www.insure.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insure.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223183524id_/http%3A//www.insure.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Insure.com Car Insurance - Official site. Compare auto insurance quotes, 200 companies, instant term life insurance quotes, life insurance quotes, health insurance quotes, medical insurance quotes, dental insurance, long-term care insurance, renter's insurance.
 
-In recent years, nearly 250,000 Americans have voted their trust in us by purchasing insurance through Insure.com. We are dedicated to preserving your privacy and we have tough privacy standards. 
-
-We will never give, sell, rent, lease or otherwise transfer your name (or information about you) to any person or entity other than the insurance company you are applying to (which may include outside paramedical firms, investigative agencies which are used in the normal course of insurance underwriting) and those third party firms, including insurance agents and brokers, that we may contract with to perform quote delivery, quote follow-up and insurance fulfillment services for us. 
-
-When you provide us with personal information such as your name, address, e-mail and/or phone numbers, we will consider that action as being your express invitation that we, including any subscribing or affiliated customer of the Insure.com or NetQuote referral service, contact you about insurance via e-mail, telephone and fax, using the information you have supplied, even if you are registered on any state or federal "Do Not Call" list. When you provide us with personal information, you are also granting us your express permission to contact you using standard and public e-mail transmission facilities, which are not secure or private. Where permitted by law, some insurance companies may confirm your information through the use of outside consumer reports, which may include credit score and driving records as is standard practice in the insurance industry. 
-
-When you buy insurance from us, you will remain in control of your purchase decisions at all times. We're dedicated to making the insurance purchase process as private, fast, easy and secure as possible. 
-
-**OUR PRIVACY POLICY  
-Required by the federal Gramm-Leach-Bliley Act and state privacy law  
-(State law will apply if it provides more protection to you than federal law.)**
-
-We are committed to keeping the non-public personal information (“NPI”) we collect confidential and secure.  We want to let you know how we protect your privacy.  Our Privacy Policy applies to potential, current and former customers.
-
-**How do we protect your privacy?**
-
-  * We restrict access to NPI to our employees who need it for their jobs.
-  * We require anyone outside our corporate family (non affiliates) who perform services for us to conform to our privacy standards.  We also require them not to use your NPI for any other purpose.
-  * We verify that any person asking for your NPI is entitled to it before we give it.
-  * We collect your health information only with your written authorization.
-  * We disclose your NPI only as permitted or required by law.
-  * We do not disclose your NPI to others for their own marketing purposes.
-  * We do not reveal your health, character, personal habits or reputation to anyone for marketing purposes.
-  * We maintain physical, electronic, and procedural safeguards to protect your NPI.
+**QuinStreet, Inc.**  
 
 
+**Company Practices Regarding Your Privacy**  
+We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
-**What information do we collect?**
+QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
 
-We need some NPI to determine if you are eligible for our products.  Once a contract is issued, we typically only seek NPI when someone asks for more coverage or submits a claim.  Some examples of what we may collect:
+**Your California Privacy Rights**
 
-  * Data you provide on applications (name, address, date of birth, Social Security number, income, beneficiary).
-  * Medical information from health care providers obtained with your authorization.
-  * Information about your policies with us or our affiliates (policy number, coverage, premium, payment history).
-  * As you have authorized: credit reports from consumer reporting agencies; driving records from the Bureau of Motor Vehicles; medical records from the Medical Information Bureau.  (NPI obtained from insurance support organizations may be kept by them and disclosed to others.These organizations are outside of our control, and of this Privacy Notice.)
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
+If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at info@quinstreet.com or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
 
+**Information Collected by QuinStreet**
 
-**To whom do we disclose information?**
+**Non-Personally Identifiable Consumer Information**
 
-We may share your NPI when you ask or authorize us to do so. We also use public Internet networks to e-mail NPI information to you, the insurance company and authorized outside investigative service agencies such as paramedic examiners companies as needed.  Also, the law allows certain disclosures without your authorization.  We may share some or all of your NPI with affiliates or non affiliates, as permitted or required by law.  Examples of who we may share NPI with:
+QuinStreet collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the QuinStreet site, the pages of the site you visited and the URL of the page you visited upon leaving the site.
 
-  * Non affiliates under contract with us, such as paramedic examination, medical records facilities, and customer service vendors and other insurance agencies; affiliates that help us provide services or audit our operations.
-  * A consumer reporting agency to detect or prevent fraud.
-  * A regulatory, legal or government authority, for a compliance audit, information request or under a subpoena or court order.
-  * Affiliates or non affiliates that market our products.  The parties we may share NPI with include life and health insurers, insurance agents, and marketing firms.  The law does not allow you to opt out of these disclosures.  We may share your name, address, product purchased, and policy number for these purposes.
+QuinStreet may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information.
 
+**Personally Identifiable Consumer Information**
 
+In addition, at some of the QuinStreet web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
-**What are your rights?**
+**How Collected Information is Used**
 
-  * You have the right to know what NPI we have collected about you; this does not apply to NPI that relates to an actual or possible claim or civil or criminal action.  You may ask us in writing to correct any NPI you believe is not correct. 
-  * You may ask us in writing for a list of those to whom we have disclosed your medical records within the past two years.
-  * If we wish to disclose your NPI for reasons not normally allowed by law, we will ask for your written authorization.  If you give it to us, you may revoke it at any time.  Revocation is subject to the rights of anyone who acted in reliance of your authorization before it was revoked.
-  * We may change our Privacy Policy from time to time.  If we do, we will provide you with all the legal rights you are entitled to.  This privacy notice supersedes all prior notices we may have provided to you.
+The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
 
+If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts.
 
+**Sharing Information with Third Parties**
 
-**How do you contact us?**
+All personally identifiable information you provide is maintained in confidence by QuinStreet. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
 
-You may write to us at the following address:  Insure.com, 8205 S. Cass Avenue, Suite 102, Darien, IL  60561
+Your non-personally identifiable data may be shared with third-party partners of QuinStreet on an anonymous basis.
+
+When you request information from QuinStreet or one or more of our clients, we may transfer that information within QuinStreet or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.
+
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that QuinStreet is very careful in selecting companies with whom it does business.
+
+In addition to the above situations where your information may be shared with others, there is also the possibility that QuinStreet, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
+
+Finally, QuinStreet may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
+
+**Security**
+
+Wherever your personally identifiable information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while QuinStreet will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
+
+**Choice**
+
+**Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out**
+
+Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting QuinStreet web sites.
+
+**Personally Identifiable Consumer Information - Opting-Out**
+
+You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at info@quinstreet.com and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+
+**Access/Accuracy**
+
+To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to info@quinstreet.com and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
+
+**Children's Privacy**
+
+In compliance with the Children's Online Privacy Protection Act (COPPA), QuinStreet.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
+
+**Refer a Friend**
+
+Some of QuinStreet's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a QuinStreet site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. QuinStreet stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at info@quinstreet.com to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
+
+**Commitment**
+
+Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands.
+
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at info@quinstreet.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
+
+**Your Consent**
+
+By using this web site, you consent to the terms of our Online Privacy Policy and to QuinStreet's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.
+
+**Contacting Us**
+
+For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at info@quinstreet.com or you can send correspondence to the following address:
+
+              
+            Privacy   
+            QuinStreet  
+            1051 E. Hillsdale Blvd, 8th Floor  
+            Foster City, CA 94404  
+            Date:  July 20, 2009
