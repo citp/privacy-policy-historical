@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgethacks.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508043050id_/http%3A//www.gadgethacks.com/info.asp%3FinfoID%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgethacks.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223175152id_/http%3A//www.gadgethacks.com/info.asp%3FinfoID%3D45) for the most accurate reproduction.*
 
 # Gadget Hacks: Privacy Policy
 
