@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603172419id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223015647id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# AXILL - The Publisher Network | Weekly Payouts
+# Affiliate Network - CPA CPM Publishers Advertisers
 
 Axill's privacy policy
 
