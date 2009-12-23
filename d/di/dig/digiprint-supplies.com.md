@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the digiprint-supplies.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615061425id_/http%3A//www.digiprint-supplies.com/Privacy-Policy-i3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiprint-supplies.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223073235id_/http%3A//www.digiprint-supplies.com/Privacy-Policy-i3.html) for the most accurate reproduction.*
 
-# DigiPrintSupplies
+# DigiPrintSupplies™
 
    
  **IMPORTANT LEGAL NOTICE**
 
-Digiprint Supplies is committed to preserving the privacy of all visitors to http://www.digiprint-supplies.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us
+Digiprint Supplies™ is committed to preserving the privacy of all visitors to http://www.digiprint-supplies.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us
 
 **By using, registering or placing an order on this site, you consent to the collection, use and transfer of your information under the terms of this policy.**
 
