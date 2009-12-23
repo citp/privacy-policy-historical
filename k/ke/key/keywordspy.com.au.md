@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the keywordspy.com.au privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412004415id_/http%3A//www.keywordspy.com.au/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordspy.com.au privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223033533id_/http%3A//www.keywordspy.com.au/policy.aspx) for the most accurate reproduction.*
 
-# KeywordSpy
-
-  
-
+# 
 
 KeywordSpy is committed to safeguarding your privacy on-line. The following statement sets our privacy policy. For the purpose of this Privacy Statement "KeywordSpy" shall mean KeywordSpy.com. This policy may change from time to time so please re-read this policy periodically. 
 
