@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620030939id_/http%3A//www.teamworkpm.net/index.cfm/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223233545id_/http%3A//www.teamworkpm.net/index.cfm/page/privacypolicy) for the most accurate reproduction.*
 
 # Teamwork Project Manager - Privacy Policy
 
