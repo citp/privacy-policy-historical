@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ariba.com privacy policy that was archived on 2009-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090607042618id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ariba.com privacy policy that was archived on 2009-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223045906id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -33,6 +33,7 @@
 <script type="text/javascript" src="/javascript/dev_ariba.js"></script>
 <script type="text/javascript" src="/jquery/stepcarousel.js"></script>
 <script type="text/javascript" src="/jquery/jquery.imagePreview.min.js"></script>
+<script type="text/javascript" src="/jquery/easyTooltip.js"></script>
 
 
 
@@ -153,7 +154,12 @@
 				<li><a href="/solutions/">Spend Management Solutions</a>
 					<ul>
 						<li><a href="/solutions/spendvisibility.cfm">Spend Analysis</a></li>
-						<li><a href="/solutions/sourcing.cfm">Sourcing</a></li>
+						<li><a href="/solutions/sourcing.cfm">Sourcing</a>
+							<ul>
+								<li><a href="/solutions/sourcing/category-playbooks.cfm">Category Playbooks</a></li>
+								<li><a href="/solutions/sourcing/savings-tracking.cfm">Savings Tracking</a></li>
+							</ul>
+						</li>
 						<li><a href="/solutions/contractmanagement.cfm">Contract Management</a>
 							<ul>
 								<li><a href="/solutions/contractmanagement/sales_contracts.cfm">Sales Contracts</a></li>
@@ -172,8 +178,7 @@
 						</li>
 						<li><a href="/solutions/invoiceandpayment.cfm">Invoice &amp; Payment</a>
 							<ul>
-								<li><a href="/solutions/invoiceandpayment.cfm">Invoice Management</a></li>
-								<li><a href="/solutions/invoiceandpayment.cfm">Payment Management</a></li>
+					
 								<li><a href="/solutions/workingcapital.cfm">Working Capital Management</a></li>
 							</ul>
 						</li>
@@ -190,10 +195,10 @@
 						</li><li><a href="/solutions/contractmanagement/electronic_signatures.cfm">Electronic Signatures</a>
 					</li></ul>
 				</li>
-				<li><a href="javascript:void(0);">Financial Solutions</a>
+				<li><a href="/solutions/financialsolutions.cfm">Financial Solutions</a>
 					<ul>
 						<li><a href="/solutions/invoiceandpayment.cfm">Invoice Management</a>
-						</li><li><a href="/solutions/invoiceandpayment.cfm">Payment Management</a>
+						</li><li><a href="/solutions/paymentmanagement.cfm">Payment Management</a>
 						</li><li><a href="/solutions/workingcapital.cfm">Working Capital Management</a>
 					</li></ul>
 				</li>				
@@ -215,11 +220,10 @@
 				</li>
 				<li><a href="/services/index.cfm">Services</a>
 					<ul>
-						<li><a href="/services/strategicconsulting.cfm">Strategic Consulting</a></li>
-						<li><a href="/services/categoryexpertise.cfm">Category Expertise</a></li>
-						<li><a href="/services/solutiondeployment.cfm">Solution Deployment</a></li>
-						<li><a href="/services/sourcingservices.cfm">Sourcing Services</a></li>
-						<li><a href="/services/education.cfm">Education &amp; Change Management</a></li>
+						
+						<li><a href="/services/expertise/index.cfm">Expertise</a></li>
+						<li><a href="/services/execution/index.cfm">Execution</a></li>
+						<li><a href="/services/adoption/index.cfm">Adoption</a></li>
 						<li><a href="/services/support.cfm">Ongoing Support</a></li>
 						<li><a href="/services/supplierconsulting/">Supplier Consulting Services</a></li>
 						<li><a href="javascript:void(0);">Supplier Support</a>
@@ -254,14 +258,16 @@
 				<li><a href="/resourcelibrary/">Resources</a>
 					<ul>
 						 
-						<li><a href="/resourcelibrary/videos.cfm?asset_type=16">Videos</a></li>
+						<li><a href="/resourcelibrary/asktheexpert.cfm">Ask the Expert</a></li>
+						<li><a href="/resourcelibrary/#collection">Collections</a></li>
+						<li><a href="/resourcelibrary/industryresearch.cfm">Industry Research</a></li>
+						<li><a href="/programs/emails/subscribe.cfm">Newsletters</a></li>
 						<li><a href="/resourcelibrary/podcast.cfm">Podcasts</a></li>
 						<li><a href="/resourcelibrary/supplywatch.cfm">SupplyWatch</a></li>
-						<li><a href="/resourcelibrary/whitepaper.cfm">White Papers </a></li>
+						<li><a href="/resourcelibrary/videos.cfm?asset_type=16">Videos</a></li>
 						<li><a href="/resourcelibrary/webinar.cfm">Webinars</a></li>
-						<li><a href="/resourcelibrary/industryresearch.cfm">Industry Research</a></li>
-						<li><a href="/resourcelibrary/#collection">Collections</a></li>
-					    <li><a href="/resourcelibrary/asktheexpert.cfm">Ask the Expert</a></li>
+						<li><a href="/resourcelibrary/whitepaper.cfm">White Papers</a></li>
+								   
 	 				</ul>
 				</li>
 	    <!-- END ARIBA NAV MENU -->
@@ -311,13 +317,13 @@
 		<div id="aribaLoginMenu">
 			<table id="aribaLoginTable" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td class="aribaLoginMenu"><a href="http://buyer.ariba.com">Buyer</a></td>
+					<td class="aribaLoginMenu"><a href="http://buyer.ariba.com" onclick="setUserType('Buyer');">Buyer</a></td>
 				</tr>
 				<tr>
-					<td class="aribaLoginMenu"><a href="http://supplier.ariba.com">Supplier</a></td>
+					<td class="aribaLoginMenu"><a href="http://supplier.ariba.com" onclick="setUserType('Supplier');">Supplier</a></td>
 				</tr>
 				<tr>
-					<td class="aribaLoginMenu"><a href="https://connect.ariba.com">Support</a></td>
+					<td class="aribaLoginMenu"><a href="https://connect.ariba.com" onclick="setUserType('Support');">Support</a></td>
 				</tr>
 			</tbody></table>
 		</div>
@@ -339,7 +345,12 @@
 		
       </div>
 </div>
-		<div id="headerTransparentImage"><a href="/aribalive/2009/overview_wt.cfm"><img src="/images/promo_event_13_509x100.jpg" width="509" height="100" border="0"></a></div>
+		
+		
+			<div id="headerTransparentImage">
+
+			</div>
+		 
 </div>
 
 <script>
@@ -352,95 +363,247 @@
 		 $("#headerQuickLinks").fadeIn("slow");
 		}
 </script> 
-	
-<script language="JavaScript" type="text/javascript" src="/omniture/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="/legal/privacy.cfm"
+		<script language="JavaScript" type="text/javascript" src="/omniture/s_code_omni_sf.js"></script>
+		<script language="JavaScript" type="text/javascript">
 
-s.channel="legal"
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://ariba.112.2o7.net/b/ss/ariba-dev/1/H.16--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.16. -->
-
-<script type="text/javascript">
-//Omniture js functions for ariba
-function recordForOmniture (name) {
-	name = name.toString();
-	var oldPageName = s.pageName;
-	s.pageName = oldPageName + name;
-
-	if (name.indexOf(":email-submitted") >= 0) {	
-		s.linkTrackVars="prop8";
-		s.prop8 = document.location.href; 
-	} else if (name.indexOf(":contactme-submitted") >= 0) {
-		s.linkTrackVars="events";
-		s.linkTrackEvent="event6";
-		s.events = "event6"; //event code	
-	}
+			
+			
+			s.eVar20 = s.setCookieParam(external_campaign_param,s.getQueryParam(external_campaign_param),1,365);
+			
+			s.eVar22 = s.setCookieParam(internal_campaign_param,s.getQueryParam(internal_campaign_param),1,365);
+			
+			s.eVar23 = s.setCookieParam(retouch_campaign_param,s.getQueryParam(retouch_campaign_param),1,365);
+						
+			
 		
-	s.t();
-	s.pageName = oldPageName;	
-}
-
-function recordInternalSearchOmniture(){
-	var s = s_gi(s_account);
-	s.linkTrackVars="prop1";
-	s.prop1 = $("input[name='q']").val(); //pull search term from search text box
-	s.tl(document.location.href,'o');
-	//s.t();
-	s.linkTrackVars="";
-}
-function recordAssetDownload(linkClicked,asset){
-	var s = s_gi(s_account);
-	s.linkTrackVars="prop5";
-	s.prop5 = asset; //put in asset id	
-	s.tl(linkClicked,'d');
-	//s.t();
-	s.linkTrackVars="";
-}
-
-function recordConversion(eventCode){
-	var s = s_gi(s_account);
-	s.linkTrackVars="events";
-	s.linkTrackEvent=eventCode;
-	s.events = eventCode; //event code
-	s.tl(document.location.href,'o');
-	//s.t();
-	s.linkTrackEvent="";
-	s.linkTrackVars="";
-}
-</script>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3171918-3");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-<!-- Marketo Test code -->
-<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
-<script>mktoMunchkin("767-RAD-642");</script> 
-
+			s.hier1 = "legal";
+		
+		<!--
+		/* You may give each page an identifying name, server, and channel on
+		the next lines. */
+		s.pageName="/legal/privacy.cfm";
+		
+			s.channel="legal";
+		
+		s.prop12 = "English";
+		s.prop13 = "";
+		s.prop14 = s.prop13 + " : " + s.pageName;
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+		//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+		src="http://ariba.112.2o7.net/b/ss/ariba-dev/1/H.16--NS/0"
+		height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+		<!-- End SiteCatalyst code version: H.16. -->
+		
+		<script type="text/javascript">
+			//Omniture js functions for ariba
+			
 	
-<!--
-Server Info
-www.ariba.com/legal/privacy.cfm 216.109.96.135 
+			
+			function omniRecordEvents (eventName) {	
+				var s = s_gi(s_account);
+				var oldPageName = s.pageName;
+				s.linkTrackVars="events";
+				s.linkTrackEvent=eventName;
+				s.events=eventName;
+				var tempValue = '/legal/privacy.cfm';
+				s.pageName = tempValue;
+				s.t();
+				s.linkTrackVars="";
+				tempValue="";
+				s.pageName = oldPageName;	
+				s.events="";
+			}
+						
+			function recordInternalSearchOmniture(){
+				var s = s_gi(s_account);
+				s.linkTrackVars="prop1";
+				s.prop1 = s.pageName;//pull search term from search text box
+				s.tl(document.location.href,'o','InternalSearch');
+				s.linkTrackVars="";
+			}
+			
+			function omniAssetDownload(linkClicked,asset){}
 
-Remote IP
-67.202.41.3
--->
+			function omniRecordProductView(category,product){
+				//alert(category + ' ' + product);
+				var s = s_gi(s_account);
+				s.events="prodView";
+				s.products=''+category+';'+product+'';
+				//	alert(s.products);
+				s.t();
+				s.events="";
+			}
+			
+			function omniRecordProductDownload(category,product){
+				//alert(category + ' tr:  ' + product);
+				var s = s_gi(s_account);
+				s.events="event1";
+				s.products=''+category+';'+product+'';
+			//	alert(s.products);
+				s.t();
+				s.events="";
+			}
+			
+
+			function omniSearchResultClicked(propTitle,hrefVal){
+				//alert(category + ' ' + product);
+				var s = s_gi(s_account);
+				s.linkTrackVars="prop1";
+				s.prop1 = hrefVal;//pull search term from search text box
+				s.tl(document.location.href,'o',propTitle);
+				//s.t();
+				s.linkTrackVars="";
+			}
+			
+			function omniRecordCollateralDownload(category,product){
+				//alert(category + ' ' + product);
+				var s = s_gi(s_account);
+				s.events="event3";
+				s.products=''+category+';'+product+'';
+			//	alert(s.products);
+				s.t();
+				s.events="";
+			}	
+
+			function omniRecordSolutionLogin(type){
+				//alert(type);
+				var s = s_gi(s_account);
+				s.linkTrackVars="events,prop13";
+				s.linkTrackEvent=event35;
+				s.prop13 = type;
+				s.events="event35";
+				s.tl(document.location.href,'o','User Segment: ' + type);
+				//s.t();
+				s.linkTrackEvent="";
+				s.linkTrackVars="";
+				s.events="";
+			}	
+		
+			function omniRecordDemoRegistration(category,product){
+				var s = s_gi(s_account);
+				s.events="event5";
+				s.products=''+category+';'+product+'';
+				s.t();
+				s.events="";
+			}
+			
+			function recordConversion(eventCode){
+				var s = s_gi(s_account);
+				s.linkTrackVars="events";
+				s.linkTrackEvent=eventCode;
+				s.events = eventCode; //event code
+				s.tl(document.location.href,'o');
+				//s.t();
+				s.linkTrackEvent="";
+				s.linkTrackVars="";
+				s.events="";
+			}
+			
+			
+			function omniSolutionNav(propCode){
+				//alert(propCode);
+				var s = s_gi(s_account);
+				s.linkTrackVars="prop6";
+				s.prop6 =propCode;
+				//s.t();
+				s.tl(document.location.href,'o',propCode);
+				s.linkTrackVars="";
+				s.prop6 ="";
+			}
+			
+			function omniTrackTabs(propCode){
+				//alert(propCode);
+				var s = s_gi(s_account);
+				s.linkTrackVars="prop7";
+				s.prop7 =propCode; // 
+				s.tl(document.location.href,'o',propCode);
+				s.linkTrackVars="";
+				s.prop7 ="";
+			}
+			
+			function omniFormEvents(formName,actionType){ 
+				var s = s_gi(s_account);
+				s.linkTrackVars="prop9";
+				var tempValue = 'Form: '+formName+' - Action: '+actionType+' ';
+				s.prop9=tempValue;
+				//s.t();
+				s.tl(document.location.href,'o',tempValue);
+				s.linkTrackVars="";
+				tempValue = "";
+				s.prop9 ="";
+			}
+		
+			function omniInitMediaTracking(mediaName,mediaLength,playerName) {
+				s.Media.autoTrack=false;
+				s.Media.trackWhilePlaying=true;
+				s.Media.trackMilestones="25,50,75,100";
+		    	s.Media.open(mediaName,mediaLength,playerName);
+				s.Media.play(mediaName,0);
+			}
+
+			function omniInitWindowsMediaTracking(mediaName,mediaLength,playerName) {
+				s.Media.autoTrack=true;
+				s.Media.trackWhilePlaying=true;
+				s.Media.trackMilestones="25,50,75,100";
+		    //	s.Media.open(mediaName,mediaLength,playerName);
+			//	s.Media.play(mediaName,0);
+			}
+
+			function omniInitMediaAutoTracking(mediaName,mediaLength,playerName) {
+				s.Media.autoTrack=true;
+				s.Media.trackWhilePlaying=true;
+				s.Media.trackMilestones="25,50,75,100";
+		    	s.Media.open(mediaName,mediaLength,playerName);
+				s.Media.play(mediaName,0);
+			}
+
+			function omniInitYouTubeEmbededTracking(mediaName,mediaLength,playerName) {
+				s.Media.autoTrack=true;
+				s.Media.trackWhilePlaying=true;
+		    //	s.Media.open(mediaName,mediaLength,playerName);
+			//	s.Media.play(mediaName,0);
+			}
+
+			function omniMediaTrackingStop(mediaName,mediaPosition) {
+				s.Media.stop(mediaName,mediaPosition);
+				s.t();
+			}
+
+			function omniMediaTrackingResume(mediaName,mediaPosition) {
+				s.Media.play(mediaName,mediaPosition);
+				s.t();
+			}
+
+			function omniMediaTrackingDone(mediaName) {
+				s.Media.stop(mediaName,mediaPosition);
+				s.Media.close(mediaName);
+				s.t();
+			}
+	
+		</script>
+		
+		
+				<script type="text/javascript">
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+					document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+				<script type="text/javascript">
+					var pageTracker = _gat._getTracker("UA-3171918-3");
+					pageTracker._initData();
+					pageTracker._trackPageview();
+				</script>
+
+		
+	<!--
+		Server Info
+		www.ariba.com/legal/privacy.cfm 216.109.96.135 
+		
+		Remote IP
+		67.202.15.176
+	-->
 
 
 
