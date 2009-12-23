@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpfox.org privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223072916id_/http%3A//www.phpfox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfox.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223214359id_/http%3A//www.phpfox.com/privacy) for the most accurate reproduction.*
 
-# phpFoX » Privacy » Trusted Social Network Solutions
+# phpFoX » Privacy » Social Networking Script
 
 Effective: October 1, 2005
 
