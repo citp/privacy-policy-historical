@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dumb.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215252id_/http%3A//dumb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumb.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223055047id_/http%3A//dumb.com/privacy) for the most accurate reproduction.*
 
-# Dumb.com - Funny Videos, Photos, and Jokes
+# Dumb.com - Funny Videos, Funny Jokes, Dumb Pictures, Online Games
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
