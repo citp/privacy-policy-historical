@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617053746id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223195556id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
 
 # MoMA | Privacy and Security
 
@@ -8,7 +8,7 @@
 
 MoMA is committed to protecting your privacy when you visit our website, shop at the MoMA Online Store, or use the website to purchase a MoMA membership or make an online donation. MoMA does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the MoMA Website or Online Store (collectively referred to as the "MoMA Website") knowingly provides it. By using the MoMA Website, you agree to be bound by the terms and conditions of MoMA's Privacy Policy. The MoMA Privacy Policy is outlined below.
 
-## MoMA's policy on collecting information on the MoMA Website
+## MoMA's policy on collecting information on the MoMA website
 
 ### Online Purchases
 
@@ -48,7 +48,7 @@ MoMA uses the personal information you provide to us for internal purposes, such
 
 We may share the names and postal addresses we receive from members and donors with other nonprofit organizations. If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [membership@moma.org](mailto:membership@moma.org).
 
-After you make a purchase on the MoMA Online Store, we may share your name and postal address with other organizations or companies whose products might be of interest to you. If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [donotshare@moma.org](mailto:donotshare@moma.org). MoMA may release account information when such release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of MoMA, the users of its site, or others.
+After you make a purchase on the MoMA Online Store, we may share your name and postal address—but not your e-mail address—with other organizations or companies whose products might be of interest to you. If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [donotshare@moma.org](mailto:donotshare@moma.org). MoMA may release account information when such release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of MoMA, the users of its site, or others.
 
 If you have provided us with your e-mail address, we may send you e-mails in order to inform you of events or activities at or related to MoMA that we believe may be of interest to you, or to alert you about sales or other promotional events at the MoMA Online Store. If you do not want us to use your e-mail address to contact you for these purposes, you may send an e-mail message containing your name and postal address to [donotcontact@moma.org](mailto:donotcontact@moma.org).
 
