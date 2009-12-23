@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezine.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623040932id_/http%3A//www.gamezine.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezine.co.uk privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223184937id_/http%3A//www.gamezine.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # gamezine.co.uk - privacy policy
 
