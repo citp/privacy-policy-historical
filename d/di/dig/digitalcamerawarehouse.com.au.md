@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203525id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Camera Warehouse
 
-|  |  |  | 
+| 
+
+[Home](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/index.htm) | [Visit us](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm) | [Delivery](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent98.htm) | [Duty Free](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent32.htm) | [FAQs](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent42.htm) | [Feedback](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent31.htm) | [Gov't/Schools](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent79.htm) | [Contact us](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent83.htm) | [View Cart](https://web.archive.org/web/20091223031133id_/http%3A//www.digitalcamerawarehouse.com.au/viewcart.htm)
 
 ****All DCW cameras come with Genuine Australian Warranties. Cheap Prices and Fast Delivery!****
 
@@ -45,6 +47,11 @@ Inquiries relating to our Privacy Policy, or any problems or complaints may be d
 Digital Camera Warehouse delivers cheap discount digital cameras Australia wide.     
 Delivery to Sydney, Brisbane, Adelaide, Melbourne, Perth, Hobart, Darwin, Canberra is usually 1-3 days if in stock.   
 Delivery to regional areas is usually 2-5 days for items in stock. Let us know if we can help you.  
-For our best price buy online or [ **visit a DCW  camera shop in Sydney** **or Melbourne**.](http://www.digitalcamerawarehouse.com.au/webcontent36.htm)  
+For our best price buy online or [ **visit a DCW  camera shop in Sydney** **or Melbourne**.](http://www.digitalcamerawarehouse.com.au/webcontent36.htm)
+
+**[ Canon](http://www.digitalcamerawarehouse.com.au/category8_1.htm) | [ Elmo](http://www.digitalcamerawarehouse.com.au/category566_1.htm) |  [ Fujifilm](http://www.digitalcamerawarehouse.com.au/category37_1.htm) |  [ Nikon](http://www.digitalcamerawarehouse.com.au/category116_1.htm) |  [ Olympus](http://www.digitalcamerawarehouse.com.au/category65_1.htm)|  [ Panasonic](http://www.digitalcamerawarehouse.com.au/category223_1.htm) |  [ Pentax](http://www.digitalcamerawarehouse.com.au/category124_1.htm) |  [ Ricoh](http://www.digitalcamerawarehouse.com.au/category139_1.htm) |  [ Sanyo](http://www.digitalcamerawarehouse.com.au/category893_1.htm) | [Sigma](http://www.digitalcamerawarehouse.com.au/category781_1.htm) | [Sony](http://www.digitalcamerawarehouse.com.au/category26_1.htm) |  [ SLR](http://www.digitalcamerawarehouse.com.au/category147_1.htm) |  [ Video](http://www.digitalcamerawarehouse.com.au/category142_1.htm)**  
+**[ About us](http://www.digitalcamerawarehouse.com.au/webcontent43.htm)** **|** [ Delivery charges](http://www.digitalcamerawarehouse.com.au/webcontent98.htm) **|  **[Duty Free](http://www.digitalcamerawarehouse.com.au/webcontent32.htm) **  | [ FAQs](http://www.digitalcamerawarehouse.com.au/webcontent42.htm) |**[Terms of use](http://www.digitalcamerawarehouse.com.au/webcontent58.htm) **  | ** [ Warranty](http://www.digitalcamerawarehouse.com.au/webcontent45.htm) **  | ** [ Returns](http://www.digitalcamerawarehouse.com.au/webcontent64.htm) **  | ** [ Privacy Policy](http://www.digitalcamerawarehouse.com.au/webcontent65.htm) **  | [ Reviews](http://www.digitalcamerawarehouse.com.au/category197_1.htm) | ** [ Testimonials](http://www.digitalcamerawarehouse.com.au/webcontent31.htm) **  | ** [ Tech Support](http://www.digitalcamerawarehouse.com.au/webcontent74.htm) **** **Copyright  © 2001- 2008 Digital Camera Warehouse Pty Ltd. **** ABN:96 244 920 534. All rights reserved.   
+****All brands, logos, images  and names are trademarks of their respective companies.  
+Images used are for illustrative purposes only and may not be identical to the product supplied.**  
   
 ---|---
