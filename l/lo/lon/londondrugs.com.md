@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620032210id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223014856id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # London Drugs
 
@@ -114,12 +114,6 @@ We collect, use and disclose your personal health information in the following s
 **Call centre**
 
 London Drugs operates a call centre to respond to customer's questions, concerns, complaints and suggestions for service improvement.  These suggestions and complaints are important to us as it enables us to provide better service to you our customers.  As part of this process we collect callers name, phone number and other information that they choose to give us, however we will only ever collect personal information that you choose to voluntarily provide to us when connected with our call centre.  Customers are always free to ask questions, voice concerns, make complaints and provide suggestions without giving us any personal information.  We value all such suggestions.
-
-**The London Drugs Personal Credit Plan** When you apply for a London Drugs Personal Credit Plan account, certain personal and financial information is collected from you by London Drugs and disclosed to our credit provider, HSBC Retail Services.  They use this information to approve your account and to manage your account on an ongoing basis. Subsequent transactions as submitted for approval will also be approved by that same credit provider. 
-
-London Drugs retains information provided by you on your initial credit application and subsequent sales slips to allow for audit, quality control and maintenance of your accounts.
-
-HSBC Retail Services has its own privacy policy and we encourage you to read their privacy statement provided on your credit application and on their web site.
 
  **Newsletters or publications**
 
