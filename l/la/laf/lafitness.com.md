@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lafitness.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614201230id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafitness.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223224253id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # LA Fitness
 
