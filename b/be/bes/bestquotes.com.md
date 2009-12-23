@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2009-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090116095718id_/http%3A//www.bestquotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223174435id_/http%3A//www.bestquotes.com/privacy.htm) for the most accurate reproduction.*
 
 # Best Quotes privacy policy
 
-**_[](https://web.archive.org/web/20090116095718id_/http%3A//www.bestquotes.com/contact.htm)PRIVACY POLICY_**
+**_[](https://web.archive.org/web/20091223174435id_/http%3A//www.bestquotes.com/contact.htm)PRIVACY POLICY_**
 
 Best Quotes Corporation ("Best Quotes") is committed to protecting the privacy of personal information collected from visitors to our web site.
 
