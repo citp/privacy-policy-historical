@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044502id_/http%3A//www.itnews.com.au/AboutUs/SiteInfo.aspx%3FInfoID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031708id_/http%3A//www.itnews.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement - iTnews Australia
+# Privacy Policy - iTnews.com.au
 
 Haymarket Media Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 
@@ -55,7 +55,7 @@ At times we may send you promotional email offers we think you will be intereste
 
 
 
-If at any time you wish to withdraw your consent to receive any such promotional material from any Haymarket Media Pty Limited product, simply visit our preference centre [ click here](http://secure2.authoritynetwork.com/managelogin.aspx) and you can up date your options instantly. Please note if you are a customer of any Haymarket Media Pty Limited products you will have a unique Subscriber ID number which enables you to access this system. If you dont know your number, you can provide your email and surname details and we will do our best to locate you in our database.
+If at any time you wish to withdraw your consent to receive any such promotional material from any Haymarket Media Pty Limited product, simply email [members@haymarketmedia.com.au](mailto:members@haymarketmedia.com.au) with the following details; email and full name and we will do our best to locate you in our database.
 
 **Data Quality**   
 We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date.
