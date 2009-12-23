@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inthego.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621170132id_/http%3A//www.inthego.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthego.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223035119id_/http%3A//www.inthego.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : InTheGo,Inc., Free Shipping And Customs,Super Sale Off Retailing,With 1Week Delivery
+# Privacy Notice : Shoes,Bags,Electronics,InTheGo,Inc,Free Shipping,Sale With 1Week Delivery, InTheGo,Inc.
 
 Agent Policy
 
