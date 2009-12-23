@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608192018id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223223849id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
 
 # TDA - TDA privacy statement
 
@@ -80,12 +80,19 @@ We maintain strict security measures in order to protect personal information. T
     4. Move the slider to the top to block cookies from all web sites. 
     5. Following these instructions will stop your computer from accepting cookies in future. You may reconfigure your computer to accept cookies again by following these instructions, but by selecting 'Enable', and the 'OK' button on the bottom of the menu box (Internet Explorer 5.0); or by selecting on 'Default' button (Internet Explorer 6.0). 
 7.3 
+    Internet Explorer 7.0 
+    1. Click on 'Tools' and then 'Internet Options'. 
+    2. Click the 'Privacy' tab. 
+    3. Click on 'Advanced'. 
+    4. Tick 'Override automatic cookie handling' 
+    5. Tick 'Always allow session cookies'
+7.4 
     Netscape 4.7 
     1. First, on your top menu, select 'Edit', and then 'Preferences'. This will bring up the 'Preferences' menu box. 
     2. From the options on the left-hand side, select 'Advanced' which will bring up another menu. 
     3. Halfway down, you will see a section on cookies, and if you wish to turn cookies off, you should select 'Disable', and then the 'OK' button on the bottom of the menu box. 
     4. You may reconfigure your computer to accept cookies again by following these instructions, but by selecting 'Accept All Cookies', and then selecting the 'OK' button on the bottom of the menu box. 
-7.4 
+7.5 
     Netscape 6.0 
     1. First, on your top menu, select 'Tasks', and then 'Privacy & Security'. 
     2. From here you have the option to 'block cookies from this site', 'unblock cookies from this site' or view and remove and prevent cookies from being reaccepted from selected sites. 
