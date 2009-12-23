@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624000026id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223044854id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
 
 # The Tech Museum of Innovation | About Us | Privacy Policy
 
@@ -13,6 +13,14 @@ In order to use certain features of our website, a user may be required to first
 ## Order
 
 We request information from the user on our order forms. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+
+## Account Information and Email Usage
+
+You can edit your The Tech Museum account information including your email newsletter preferences at any time by visiting the [My Account](http://account.thetech.org/login.aspx) section of our website. 
+
+New categories of email newsletters might be added to the [My Account](http://account.thetech.org/login.aspx) preferences page from time to time. Users who visit this page can opt out of receiving future newsletters from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+
+We reserve the right to send you certain communications relating to The Tech Museum, such as service announcements, administrative messages and our email newsletters, that are considered part of you're the Tech Museum account, while offering you the opportunity to opt out of receiving them by following instructions contained in the messages you receive. 
 
 ## Cookies
 
