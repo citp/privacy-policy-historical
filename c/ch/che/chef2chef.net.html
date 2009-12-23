@@ -1,35 +1,253 @@
-<!--The following is the downloaded HTML source of the chef2chef.net privacy policy that was archived on 2009-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416215256id_/http%3A//www.chef2chef.net/contacts/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chef2chef.net privacy policy that was archived on 2009-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223033456id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Statement and Terms of Service at Chef2chef</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Chef resource for Chefs. Jobs Foodservice Hospitality Recipes Cooking Food Wine Restaurants Culinary Careers News Forums and more. FREE Employment listings. If it's not here, it doesn't belong in a kitchen...">
 <meta name="keywords" content="chef chefs foodservice hospitality jobs recipes cooking food service wine restaurants culinary careers news forums directory employment kitchen privacy terms service">
-<meta name="Robots" content="index,follow">
-<meta name="description" content="">
-<link rel="stylesheet" type="text/css" href="">
+<meta name="robots" content="index, nofollow">
+<link rel="stylesheet" type="text/css" href="http://www.chef2chef.net/includes/_common.css">
+<link rel="stylesheet" href="http://www.chef2chef.net/includes/css/lightbox.css" type="text/css" media="screen">
+<script type="text/javascript" language="javascript" src="http://www.chef2chef.net/includes/_common.js"></script>
+<script src="http://www.chef2chef.net/includes/js/prototype.js" type="text/javascript"></script>
+<script src="http://www.chef2chef.net/includes/js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="http://www.chef2chef.net/includes/js/lightbox.js" type="text/javascript"></script>
+<script src="http://www.chef2chef.net/includes/js/ajax.js" type="text/javascript"></script>
+</head>
+<body onload="drawMenu()">
 
-</head><body>
-<div class="container">
+<div id="shadowTop"></div>
 
-<link rel="stylesheet" href="http://www.chef2chef.net/inc/main_style.css" type="text/css">
-	<!-- top shadow body -->
-<div style="background:url(http://www.chef2chef.net/images/body_top.gif) no-repeat; width:998px;"><img src="http://www.chef2chef.net/images/spacer.gif" width="998" height="17"></div>
-			<div style="background:url(http://www.chef2chef.net/images/body.gif) repeat-y; width:998px;">
-			<!-- end top shadow body -->
+<div id="container">
 
+	<div id="branding">
 
-			<div id="banner_content">
-				<a href="http://www.chef2chef.net/" title="Chef2Chef Home">
-					<img src="http://www.chef2chef.net/images/logo.gif" height="90" width="199" border="0" style="float:left;"></a>
+		<span id="logo">
+			<a href="http://www.chef2chef.net/" title="Chef2Chef Home"><img src="http://www.chef2chef.net/images/logo.gif" height="90" width="199"></a>
+		</span>
 
-				<span id="banner_ad">
-					<script language="JavaScript" defer="true">var zflag_nid='203'; var zflag_cid='342162/243503/243502/243501/16'; var zflag_sid='1483'; var zflag_width='728'; var zflag_height='90'; var zflag_sz='14'; </script><script language="JavaScript" src="http://e1.cdn.qnsr.com/jsc/e1/fl.js"></script><noscript> <a href='http://o1.qnsr.com/cgi/r?;n=203;c=342162/243503/243502/243501/16;s=1483;x=3584;f=200712111313090;u=j;z=TIMESTAMP' target='_blank'><img border='0' width='728' height='90' src='http://o1.qnsr.com/cgi/x?;n=203;c=342162/243503/243502/243501/16;s=1483;x=3584;u=j;z=TIMESTAMP' alt='Click here'></a> </noscript>
-<!-- !home/contacts/privacy.htm -->				</span>
+		<span id="bannerAd">
+			<script language="JavaScript" defer="true">var zflag_nid='203'; var zflag_cid='342162/243503/243502/243501/16'; var zflag_sid='1483'; var zflag_width='728'; var zflag_height='90'; var zflag_sz='14'; </script><script language="JavaScript" src="http://e1.cdn.qnsr.com/jsc/e1/fl.js"></script><noscript> <a href='http://o1.qnsr.com/cgi/r?;n=203;c=342162/243503/243502/243501/16;s=1483;x=3584;f=200712111313090;u=j;z=TIMESTAMP' target='_blank'><img border='0' width='728' height='90' src='http://o1.qnsr.com/cgi/x?;n=203;c=342162/243503/243502/243501/16;s=1483;x=3584;u=j;z=TIMESTAMP' alt='Click here'></a> </noscript>
+<!-- !home/about/privacy-policy.html -->		</span>
+
+	</div>	<!-- / #branding -->
+
+	
+<script type="text/javascript">
+
+	var t = '';
+	var currentMenuId = 'home';
+	
+	var menuItems = new Array('home', 'recipes', 'forums', 'schools', 'jobs', 'news', 'services');
+	
+	// set background image for menu tabs
+	function drawMenu() {
+		
+		/*
+        var a;
+		for (a in menuItems)
+            document.getElementById('tab_' + menuItems[a]).style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+
+        // A major bug occurs when Lightbox files are included.  The array menuItems mysteriously
+        // will receive more than just the 7 elements above in Firefox.  In Internet Explorer 7,
+        // it will become an array of just one element.  The culprit is the prototype.js file.
+        // This file is needed, and the workaround is the 7 style calls below.  Please leave as is.
+        */
+
+        document.getElementById("tab_home").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+        document.getElementById("tab_recipes").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+        document.getElementById("tab_forums").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+        document.getElementById("tab_schools").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+        document.getElementById("tab_jobs").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+        document.getElementById("tab_news").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+        document.getElementById("tab_services").style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";
+}
+	
+	function resetMenu() {
+		document.getElementById('tab_' + currentMenuId).style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_off.gif') repeat-x";	
+		document.getElementById('tab_' + currentMenuId).style.color = "black";			
+		document.getElementById('menu_sub').style.display = 'none';
+	}
+
+	function toggle_mainMenu(id) {
+		// reset background image and text color on tabs
+		resetMenu();	
+		currentMenuId = id;
+		// set background image and text color on current tab
+		document.getElementById('tab_' + id).style.background = "url('http://www.chef2chef.net/img/nav_main/menuMain_on.gif') repeat-x";
+		document.getElementById('tab_' + id).style.color = "white";
+		// reset submenu items to not display
+        
+		/*
+         *var x;
+         for (x in menuItems)
+            document.getElementById(menuItems[x]).style.display = "none";
+
+        // A major bug occurs when Lightbox files are included.  The array menuItems mysteriously
+        // will receive more than just the 7 elements above in Firefox.  In Internet Explorer 7,
+        // it will become an array of just one element.  The culprit is the prototype.js file.
+        // This file is needed, and the workaround is the 7 style calls below.  Please leave as is.
+        */
+        document.getElementById("home").style.display = "none";
+        document.getElementById("recipes").style.display = "none";
+        document.getElementById("forums").style.display = "none";
+        document.getElementById("schools").style.display = "none";
+        document.getElementById("jobs").style.display = "none";
+        document.getElementById("news").style.display = "none";
+        document.getElementById("services").style.display = "none";
+		// show submenu
+		toggle_subMenu('on');
+	}
+
+	function toggle_subMenu(status) {
+		var obj = document.getElementById('menu_sub');
+		if (status == 'on') {
+			obj.style.display = 'block';
+			document.getElementById(currentMenuId).style.display = "block";
+		}
+		else {
+			clearTimeout(t);
+			t = setTimeout("resetMenu();", 3000);
+		}
+	}
+
+</script>
+
+<!-- NAVIGATION MENU -->
+<div id="nav_main">
+
+	<!-- MAIN MENU -->
+	<div id="menu_main">
+		<ul>
+			<li class="first"><a id="tab_home" href="http://www.chef2chef.net" title="Home" onmouseover="javascript:toggle_mainMenu('home')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">HOME</a></li><li><a id="tab_recipes" href="http://www.chef2chef.net/recipes/recipe_index.php" title="Recipes" onmouseover="javascript:toggle_mainMenu('recipes')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">RECIPES</a></li><li><a id="tab_forums" href="http://forums.chef2chef.net/" title="Forums &amp; Blogs" onmouseover="javascript:toggle_mainMenu('forums')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">FORUMS &amp; BLOGS</a></li><li><a id="tab_schools" href="http://www.chef2chef.net/culinary-institute/" title="Culinary Schools" onmouseover="javascript:toggle_mainMenu('schools')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">SCHOOLS</a></li><li><a id="tab_jobs" href="http://jobs.chef2chef.net/" title="Chef Jobs" onmouseover="javascript:toggle_mainMenu('jobs')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">JOBS</a></li><li><a id="tab_news" href="http://www.chef2chef.net/news/" title="Chef News" onmouseover="javascript:toggle_mainMenu('news')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">NEWS</a></li><li><a id="tab_services" href="http://www.chef2chef.net/marketplace/" title="Services" onmouseover="javascript:toggle_mainMenu('services')" onmouseout="javascript:toggle_subMenu('off')" style="background: url(&quot;http://www.chef2chef.net/img/nav_main/menuMain_off.gif&quot;) repeat-x;">SERVICES</a></li>		</ul>
+	</div>	<!-- / #menu_main -->
+
+	<!-- FEATURED SCHOOLS -->
+	<div id="fs">
+		<ul onmouseover="javascript:toggle_subMenu('off')">
+			<li class="label">FEATURED SCHOOLS: </li>
+			<li class="first"><a href="http://www.chef2chef.net/culinary-institute/lcb/">Le Cordon Bleu</a></li><li><a href="http://www.chef2chef.net/culinary-institute/the-art-institutes/">The Art Institutes</a></li>		</ul>
+	</div>	<!-- / #fs -->
+
+	<!-- SUB MENU -->
+	<div id="menu_sub">
+		<ul id="home" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"></ul><ul id="recipes" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"><li><a href="http://www.chef2chef.net/recipes/recipe_index.php" title="All Recipes">All Recipes</a></li><li><a href="http://chef2chef.net/recipes/section/beef/page1.php" title="Beef Recipes">Beef Recipes</a></li><li><a href="http://chef2chef.net/recipes/section/poultry/page1.php" title="Poultry Recipes">Poultry Recipes</a></li><li><a href="http://chef2chef.net/recipes/section/seafood/page1.php" title="Seafood Recipes">Seafood Recipes</a></li><li><a href="http://www.chef2chef.net/recipes/section/pork/page1.php" title="Pork Recipes">Pork Recipes</a></li><li><a href="http://chef2chef.net/recipes/section/vegetarian/page1.php" title="Vegetarian Recipes">Vegetarian Recipes</a></li></ul><ul id="forums" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"><li><a href="http://forums.chef2chef.net/" title="All Forums">All Forums</a></li><li><a href="http://forums.chef2chef.net/search.php?search_id=active_topics" title="Active Forum Topics">Active Forum Topics</a></li><li><a href="http://forums.chef2chef.net/chef-blog/" title="Community Blogs">Community Blogs</a></li><li><a href="http://www.chef2chef.net/culinary-student-blogs/" title="The Dish: Student Blog">The Dish: Student Blog</a></li></ul><ul id="schools" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"><li><a href="http://www.chef2chef.net/culinary-institute/" title="Culinary Schools">Culinary Schools</a></li><li><a href="http://www.chef2chef.net/culinary-institute/hospitality_restaurant_management.php" title="Hospitality &amp; Restaurant Management Schools">Hospitality &amp; Restaurant Management Schools</a></li><li><a href="http://www.chef2chef.net/culinary-institute/finance-loans" title="Financial Aid Guide">Financial Aid Guide</a></li></ul><ul id="jobs" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"><li><a href="http://jobs.chef2chef.net/jobdata/" title="Find Chef &amp; Restaurant Jobs">Find Chef &amp; Restaurant Jobs</a></li><li><a href="http://jobs.chef2chef.net/jobdata/company.php?action=new" title="Post a Chef or Restaurant Job">Post a Chef or Restaurant Job</a></li></ul><ul id="news" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"><li><a href="http://www.chef2chef.net/news/club/index.htm" title="Foodservice Daily Archive">Foodservice Daily Archive</a></li><li><a href="http://www.chef2chef.net/news/index-archive-2007.htm" title="Culinary Sunday Times Archives">Culinary Sunday Times Archives</a></li><li><a href="http://www.chef2chef.net/articles/featured-chef/" title="Featured Chef">Featured Chef</a></li><li><a href="http://www.chef2chef.net/articles/in-the-pantry/" title="In the Pantry">In the Pantry</a></li><li><a href="http://www.chef2chef.net/articles/in-the-fire/" title="In the Fire">In the Fire</a></li><li><a href="http://www.chef2chef.net/rank/" title="Top 100">Top 100</a></li></ul><ul id="services" onmouseover="javascript:toggle_subMenu('on')" onmouseout="javascript:toggle_subMenu('off')"><li><a href="http://www.chef2chef.net/marketplace/" title="Marketplace">Marketplace</a></li><li><a href="http://chef2chef.net/topchefs/personal-celebrity-chefs.php" title="Hire a Celebrity Chef">Hire a Celebrity Chef</a></li><li><a href="http://www.chef2chef.net/events/" title="Festivals &amp; Events">Festivals &amp; Events</a></li><li><a href="http://www.chef2chef.net/marketplace/farmer-markets/" title="Farmers Markets">Farmers Markets</a></li><li><a href="http://www.chef2chef.net/marketplace/" title="Foodservice Directory">Foodservice Directory</a></li></ul>	</div>	<!-- / #menu_sub -->
+	
+</div>	<!-- / #nav_main -->
+
+<div id="preloaded_img">
+	<img src="http://www.chef2chef.net/img/nav_main/menuMain_off.gif" width="1" height="23" alt="">
+	<img src="http://www.chef2chef.net/img/nav_main/menuMain_on.gif" width="1" height="23" alt="">
+	<img src="http://www.chef2chef.net/img/nav_main/menuSub_divider.gif" width="2" height="23" alt="">
+	<img src="http://www.chef2chef.net/img/nav_main/fs_off.gif" width="1" height="23" alt="">
+	<img src="http://www.chef2chef.net/img/nav_main/fs_on.gif" width="1" height="23" alt="">
+	<img src="http://www.chef2chef.net/img/nav_main/fs_divider.gif" width="2" height="23" alt="">
+	<img src="http://www.chef2chef.net/img/nav_main/menuSub_bg.png" width="1" height="1" alt="">
+</div>
+
+	<!-- Main Content -->
+	<div id="mainContent">
+	
+		<!-- Center Column -->
+		<div id="columns_3">
+		
+			<div class="box">
+				<div class="content">
+
+					<h1>Chef2Chef.net Privacy Policy</h1>
+					
+					<p class="mTop_10">We at Chef2Chef.net and our affiliated companies worldwide ("Chef2Chef.net") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our websites. This policy describes the overall privacy practices of Chef2Chef.net and our affiliated companies regarding information we collect on <a href="http://www.chef2chef.net/">www.chef2chef.net</a> and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that Chef2Chef.net or its affiliated companies does not own or control, or to people that Chef2Chef.net does not employ.</p>
+					
+					<h3>Information Collected by Chef2Chef.net</h3>
+										
+					<p class="mTop_10"><em>Browser Data and Cookies</em></p>
+										
+					<p>Chef2Chef.net collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to <a href="http://www.chef2chef.net/">www.chef2chef.net</a>, the pages of the site you visited and the URL of the page you visited upon leaving the site. Chef2Chef.net may serve ads and or contract with reputable third-party advertising companies to serve ads on our behalf. Either Chef2Chef.net or these companies may use cookies or other measures to track user trends and user interaction with advertising on the site.</p>
+
+					<p><em>Personally Identifiable Consumer Information</em></p>
+
+					<p>You may post your resume on our Site. If you choose to do this, you are providing personally identifiable information to us.  You may choose to allow your resume to be searchable by employers and staffing companies.  While we intend that only employers or staffing companies will gain access to our database of resumes, we cannot guarantee that others will not gain access. In addition, we are not responsible for the privacy and data use policies of third parties who access your resume.</p>
+					<p>In addition, at Chef2Chef.net, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later  elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
+					
+					</p><h3>How Collected Information is Used</h3>
+
+					<p>The resume information you may elect to provide is used as part of our job board services and will be made available to third parties if you so elect.  The browser data and cookie data that Chef2Chef.net collects is also used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. In addition, personally identifiable information you provide may be combined with information collected from other sources to assist us with targeting ads to your preferences and behaviors, and for other Chef2Chef.net sales and marketing efforts.</p>
+					<p>If you elect to provide Chef2Chef.net with personally identifiable information when requesting additional information from us or one or more of our clients, we may utilize such information for marketing purposes, and this use may result in follow-up communications from Chef2Chef.net and from our clients.</p>
+					
+					<h3>Sharing Information with Third Parties</h3>
+
+					<p>All personally identifiable information you provide is maintained in confidence by Chef2Chef.net. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.</p>
+					<p>If you post your resume on the Site and elect to permit it to be searched by employers and staffing agencies, your resume and the personally identifiable information it contains will be accessible to them.  While it is our goal that only employers or staffing agencies will gain access to resume data, we cannot guarantee that no other persons or entities will gain such access</p>
+					<p>When you request information from Chef2Chef.net or one or more of our clients, we may transfer that information within Chef2Chef.net or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested. We may also disclose information to an affiliate or third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. In addition to the above situations where your information may be shared with others, there is also the possibility that Chef2Chef.net, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information. Finally, Chef2Chef.net may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials. </p>
+					<h3>Security</h3>
+
+					<p>Wherever your personally identifiable information may be held within Chef2Chef.net or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while Chef2Chef.net will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.</p>
+
+					<h3>Choice</h3>
+
+					<p class="mTop_10"><em>Use of Cookies &amp; Opting-Out</em></p>
+
+					<p>Chef2Chef.net uses cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting Chef2Chef.net.</p>
+
+					<p><em>Personally Identifiable Consumer Information - Opting-Out</em></p>
+
+					<p>You may choose whether or not to provide personally identifiable information to Chef2Chef.net. If you choose to provide such information to Chef2Chef.net, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out without charge by writing to <a href="mailto:info@quinstreet.com">info@QuinStreet.com</a>.  If you wish to cease receiving other services or to have your personal information completely removed from our databases without charge, simply contact us at <a href="mailto:info@quinstreet.com">info@QuinStreet.com</a> and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.</p>
+
+					<h3>Access/Accuracy</h3>
+
+					<p>To the extent that you do provide us with personally identifiable information, Chef2Chef.net wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Internet, our goal is to provide a means of contacting Chef2Chef.net should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to <a href="mailto:info@quinstreet.com">info@QuinStreet.com</a> and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.</p>
+
+					<h3>Children's Privacy</h3>
+					<p>In compliance with the Children's Online Privacy Protection Act (COPPA), Chef2Chef.net is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.   Users under the applicable legal minimum age to work may not submit their resumes to the site.</p>
+
+					<h3>Refer a Friend</h3>
+
+					<p>Some of Chef2Chef.net's websites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a Chef2Chef.net site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Chef2Chef.net stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.</p>
+					<p>Your friend may contact us at <a href="mailto:info@quinstreet.com">info@QuinStreet.com</a> to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.</p>
+
+					<h3>Your California Privacy Rights</h3>
+
+					<p>California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information from Chef2Chef.net or any of its affiliates by writing to Chef2Chef.net, c/o Chef2Chef.net, Inc., 1051 E. Hillsdale Boulevard, 8th Floor, Foster City, CA 94404 Attn: California Privacy Rights or by sending an e-mail to <a href="mailto:info@quinstreet.com">info@QuinStreet.com</a>. Chef2Chef.net is not obligated to respond to more than one such request from you per calendar year.</p>
+
+					<h3>Commitment</h3>
+
+					<p>Protecting your privacy online is an evolving area, and Chef2Chef.net is constantly changing to meet these demands. If you have any comments or questions regarding our online privacy policy, please contact us at <a href="mailto:info@quinstreet.com">info@QuinStreet.com</a>. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.</p>
+
+					<h3>Your Consent</h3>
+
+					<p class="last">By using this website, you consent to the terms of our online privacy policy and to Chef2Chef.net's processing of personally identifiable information for the purposes given above. Should the online privacy policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our website for a reasonable period of time and by amending this privacy policy.</p>
+
+				</div>
 			</div>
-	<script type="text/javascript" src="/inc/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/inc/xmenu/nav.js"></script>
+
+		</div>	<!-- / #columnCtr -->
+
+	</div>	<!-- / #mainContent -->
+	
+	<!-- Footer -->
+	<div id="footer">
+		<div id="links">
+			<a href="http://www.chef2chef.net/search/navigationmap.htm" title="Site Map">Site Map</a> |
+			<a href="http://www.chef2chef.net/admin/about/" title="Advertise With Us">Advertise with Us</a> |
+			<a href="http://www.chef2chef.net/about/privacy-policy.html" title="Privacy Policy">Privacy Policy</a> |
+			<a href="http://www.chef2chef.net/about/terms-of-service.html" title="Terms of Service">Terms of Service</a> |
+			<a href="http://www.chef2chef.net/about/contact-us.html" title="Contact Us">Contact Us</a>
+		</div>
+		<div id="info">
+			Copyright © 1999-2009 QuinStreet, Inc. All rights reserved.
+			Chef2Chef® and ChefToChef® are registered trademarks of QuinStreet, Inc.<br>
+			All brand names and product names used on this Web site are trade names, service marks, registered trademarks of their respective holders.
+		</div>
+	</div>	<!-- / #footer -->
+
+</div>	<!-- / #container -->
+
+<script language="JavaScript">var tcdacmd="dt";</script>
+<script src="http://an.tacoda.net/an/17008/slf.js" language="JavaScript"></script>
+
+<div id="shadowBtm"></div>
+
 <!-- webtrend -->
 <script type="text/javascript" src="http://www.chef2chef.net/wt/wtadv.js"></script>
 <script type="text/javascript">
@@ -45,294 +263,7 @@
 <noscript>
 <img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://www.chef2chef.net/wt/wt.php?dcsuri=/nojavascript&WT.js=No&WT.tv=8.0.2" />
 </noscript>
-<!-- end webtrend --><script type="text/javascript" src="/inc/xmenu/inc/menu.js"></script>
-
-<img src="http://www.chef2chef.net/images/1-ask-a-chef.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-ask-a-chef_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-featured-chef.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-featured-chef_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-in-the-fire.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-in-the-fire_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-in-the-pantry.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-in-the-pantry_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-top-100.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/1-top-100_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-all-recipes.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-all-recipes_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-beef-recipes.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-beef-recipes_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-pork-recipes.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-pork-recipes_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-poultry-recipes.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-poultry-recipes_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-seafood-recipes.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-seafood-recipes_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-vegetable-recipes.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/3-vegetable-recipes_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-chat-and-support.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-chat-and-support_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-cooking.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-cooking_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-event-and-restaurants.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-event-and-restaurants_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-news.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-news_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-professional-comm.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/4-professional-comm_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/5-culinary-schools.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/5-culinary-schools_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/5-grants.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/5-grants_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/5-hosp-schools.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/5-hosp-schools_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/6-hire-a-chef.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/6-hire-a-chef_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/6-jobs.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/6-jobs_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/6-marketplace.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/6-marketplace_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-farmer.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-farmer_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-festivals.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-festivals_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-foodservice.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-foodservice_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-foodservice_archive_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-foodservice_archive.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-culinary_archive_off.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/7-culinary_archive.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/nav_fs_ai_on.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/nav_fs_ai.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/nav_fs_lcb_on.gif" class="preload" alt="">
-<img src="http://www.chef2chef.net/images/nav_fs_lcb.gif" class="preload" alt="">
+<!-- end webtrend -->
 
 
-<!-- kS39 -->
-
-
-<div id="menu">
-
-<ul id="nav">
-	<li class="tab1_off" id="tab1" height="27" width="60">
-		<a href="http://www.chef2chef.net/"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Home" border="0" height="27" width="60"></a>
-	</li>
-	
-	<li id="nav_div" class="menu" height="27" width="2"><img src="http://www.chef2chef.net/images/spacer.gif" width="2"></li>
-	
-	<li class="tab2_off" id="tab2" height="27" width="82">
-	<a href="http://www.chef2chef.net/features/features_index.php"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Features" border="0" height="27" width="82"></a>
-		<ul id="sec1">
-			<li class="askachef_on" id="askachef">
-				<a href="http://www.chef2chef.net/ask_a_chef/index.php" title="Ask A Chef"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Ask A Chef" border="0" height="22" width="139"></a>
-			</li>
-			<li class="inthepantry_on" id="inthepantry">
-				<a href="http://www.chef2chef.net/in_the_pantry/index.php" title="In The Pantry"><img src="http://www.chef2chef.net/images/spacer.gif" alt="In The Pantry" border="0" height="22" width="139"></a>
-			</li>
-			<li class="featuredchef_on" id="featuredchef">
-				<a href="http://topchefs.chef2chef.net/" title="Featured Chef"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Featured Chef" border="0" height="22" width="139"></a>
-			</li>
-			<li class="inthefire_on" id="inthefire">
-				<a href="http://www.chef2chef.net/article/index.php" title="In The Fire"><img src="http://www.chef2chef.net/images/spacer.gif" alt="In The Fire" border="0" height="22" width="139"></a>
-			</li>
-			<li class="top100_on" id="top100">
-				<a href="http://www.chef2chef.net/rank/" title="Top 100"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Top 100" border="0" height="22" width="139"></a>
-			</li>
-		</ul>
-	</li>
-	
-	<li id="nav_div" class="menu" height="27" width="2"><img src="http://www.chef2chef.net/images/spacer.gif" width="2"></li>
-	 
-	<li id="tab3" class="tab3_off" height="27" width="72">
-		<a href="http://recipes.chef2chef.net/index-3.htm"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Recipes" border="0" height="27" width="72"></a>
-			<ul id="sec2">
-				<li class="allrecipes_on" id="allrecipes">
-					<a href="http://recipes.chef2chef.net/" title="All Recipes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="All Recipes" border="0" height="22" width="160"></a>
-				</li>
-				<li class="beefrecipe_on" id="beefrecipe">
-					<a href="http://beef-recipes.chef2chef.net/" title="Beef Recipes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Beef Recipes" border="0" height="22" width="160"></a>
-				</li>
-				<li class="poultryrecipe_on" id="poultryrecipe">
-					<a href="http://chef2chef.net/recipes/section/poultry/page1.php" title="Poultry Recipes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Poultry Recipes" border="0" height="22" width="160"></a>
-				</li>
-				<li class="seafoodrecipe_on" id="seafoodrecipe">
-					<a href="http://seafood-recipes.chef2chef.net/" title="Seafood Recipes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Seafood Recipes" border="0" height="22" width="160"></a>
-				</li>
-				<li class="porkrecipe_on" id="porkrecipe">
-					<a href="http://www.chef2chef.net/recipes/section/pork/page1.php" title="Pork Recipes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Pork Recipes" border="0" height="22" width="160"></a>
-				</li>
-				<li class="vegetraianrecipe_on" id="vegetraianrecipe">
-					<a href="http://recipes.chef2chef.net/recipe-index/recipese.htm" title="Vegetarian Recipes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Vegetarian Recipes" border="0" height="22" width="160"></a>
-				</li>
-			</ul>
-	</li>   
-	
-	<li id="nav_div" class="menu" height="27" width="2"><img src="http://www.chef2chef.net/images/spacer.gif" width="2"></li>
-	
-	<li class="tab4_off" id="tab4" height="27" width="135">
-		<a href="http://forums.chef2chef.net/"><img src="http://www.chef2chef.net/images/spacer.gif" border="0" height="27" width="73"></a>
-			<ul id="sec3">
-				<li class="cooking_on" id="cooking">
-					<a href="http://forums.chef2chef.net/" title="Chef2chef Forums"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Forums" border="0" height="22" width="177"></a>
-				</li>
-				<li class="professionalcommunity_on" id="professionalcommunity">
-					<a href="http://forums.chef2chef.net/search.php?search_id=active_topics" title="Active Forums Topics"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Active Forums Topics" border="0" height="22" width="177"></a>
-				</li>
-				<li class="eventrestaurants_on" id="eventrestaurants">
-					<a href="http://forums.chef2chef.net/chef-blog/" title="Chef Blog"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Chef Blog" border="0" height="22" width="177"></a>
-				</li>
-				<li class="news_on" id="news">
-					<a href="http://www.chef2chef.net/culinary-student-blogs/" title="Culinary Student Blog"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Culinary Student Blog" border="0" height="22" width="177"></a>
-				</li>
-				
-			</ul>
-	</li>   
-	
-	<li id="nav_div" class="menu" height="27" width="2"><img src="http://www.chef2chef.net/images/spacer.gif" width="2"></li>
-	
-	<li class="tab5_off" id="tab5" height="27" width="123">
-		<a href="http://chef2chef.net/culinary-institute/"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Become A Chef" border="0" height="27" width="123"></a>
-			<ul id="sec4">
-				<li class="culinaryschool_on" id="culinaryschool">
-					<a href="http://chef2chef.net/culinary-institute/" title="Culinary Schools"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Culinary Schools" border="0" height="22" width="190"></a>
-				</li>
-				<li class="hospschool_on" id="hospschool">
-					<a href="http://chef2chef.net/culinary-institute/hospitality_restaurant_management.php" title="Hospitality &amp; Restaurant Management Schools"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Hospitality &amp; Restaurant Management Schools" border="0" height="36" width="190"></a>
-				</li>
-				<li class="cs_hub_on" id="cs_hub">
-					<a href="http://www.chef2chef.net/student_section.php" title="Culinary Student Hub"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Culinary Student Hub" border="0" height="22" width="190"></a>
-				</li>
-				<li class="the_dish_on" id="the_dish">
-					<a href="http://www.chef2chef.net/culinary-student-blogs/" title="Culinary Student Blogs"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Culinary Student Blogs" border="0" height="22" width="190"></a>
-				</li>
-				<li class="grant_on" id="grant">
-					<a href="http://www.chef2chef.net/financial_aid/culinary-financial-aid.php" title="Financial Aid Guide"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Financial Aid Guide" border="0" height="22" width="190"></a>
-				</li>
-			</ul>
-	</li>   
-	
-	<li id="nav_div" class="menu" height="27" width="2"><img src="http://www.chef2chef.net/images/spacer.gif" width="2"></li>
-	
-	<li class="tab6_off" id="tab6" height="27" width="80">
-		<a href="http://marketplace.chef2chef.net/"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Services" border="0" height="27" width="80"></a>
-			<ul id="sec5">
-				<li class="marketplace_on" id="marketplace">
-					<a href="http://marketplace.chef2chef.net/" title="Marketplace"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Marketplace" border="0" height="22" width="168"></a>
-				</li>
-				<li class="jobs_on" id="jobs">
-					<a href="http://jobs.chef2chef.net/" title="Jobs"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Culinary Jobs" border="0" height="22" width="168"></a>
-				</li>
-				<li class="celechef_on" id="celechef">
-					<a href="http://topchefs.chef2chef.net/personal-celebrity-chefs.htm" title="Hire a Celebrity Chef"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Hire a Celebrity Chef" border="0" height="22" width="168"></a>
-				</li>
-			</ul>
-	</li>  
-	
-	<li id="nav_div" class="menu" height="27" width="2"><img src="http://www.chef2chef.net/images/spacer.gif" width="2"></li>
-	
-	<li class="tab7_off" id="tab7" height="27" width="99">
-		<a href="http://www.chef2chef.net/events/"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Resources" border="0" height="27" width="99"></a>
-			<ul id="sec6">
-				<li class="foodservice_archive_on" id="foodservice_archive">
-					<a href="http://www.chef2chef.net/news/club/index.htm" title="Foodservice Archive"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Foodservice Archive" border="0" height="36" width="180"></a>
-				</li>
-				
-				<li class="culinary_archive_on" id="culinary_archive">
-					<a href="http://www.chef2chef.net/news/index-archive-2007.htm" title="Culinary Archive"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Culinary Archive" border="0" height="36" width="180"></a>
-				</li>
-				
-				
-				<li class="event_on" id="event">
-					<a href="http://www.chef2chef.net/events/" title="Festivals &amp; Events"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Festivals &amp; Events" border="0" height="22" width="180"></a>
-				</li>
-				<li class="farmersmkt_on" id="farmersmkt">
-					<a href="http://marketplace.chef2chef.net/farmer-markets/" title="Farmers Markets"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Farmers Markets" border="0" height="22" width="180"></a>
-				</li>
-				<li class="foodservicedir_on" id="foodservicedir">
-					<a href="http://foodservice.chef2chef.net/directory/" title="Foodservice Directory"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Foodservice Directory" border="0" height="22" width="180"></a>
-				</li>
-			</ul>
-	</li>	  
-
-	<li id="nav_filler" height="27">
-	<img src="http://www.chef2chef.net/images/spacer.gif" border="0" height="27" width="40"></li>  
-	
-	<li class="tab8" height="27" width="109">
-	<img src="http://www.chef2chef.net/images/spacer.gif" alt="Featured School" border="0" height="27" width="109"></li>
-	
-	<li class="tab9_off" height="27" width="76" id="tab9">
-	<a href="http://chef2chef.net/culinary-institute/gbl-le-cordon-bleu-culinary-institute.htm" title="Featured Schools - Le Cordon Bleu"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Featured School - Le Coron Bleu" border="0" height="27" width="76"></a></li>
-	
-	<li class="tab10_off" height="27" width="91" id="tab10">
-	<a href="http://chef2chef.net/culinary-institute/school/the-art-institutes/" title="Featured Schools - The Art Institutes"><img src="http://www.chef2chef.net/images/spacer.gif" alt="Featured School - The Art Inttitutes" border="0" height="27" width="91"></a></li>  
-	</ul>
-</div>
-<span id="cushion" style="display:none;"></span>	<div style="width:970px; margin:auto;"><div id="body"><h1>Privacy Policy for Chef2chef.net </h1>
-<h2>Introduction</h2>
-We at Quinstreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
-<br><br>
-Quinstreet, Inc. has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.
-<br>
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit Quinstreet, Inc. Web pages without telling us who you are or revealing any Personal Information about yourself.
-<br><br>
-If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Quinstreet, Inc. or to Quinstreet, Inc. third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
-<br><br>
-Quinstreet, Inc. strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Quinstreet, Inc. intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
-
-<h2>Cookies and Other Tracking Technologies</h2>
-
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
-<br><br>
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
-<br><br>
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. To protect your privacy, we have adopted the following principles:
-<ul>
-<li>Notice</li>
-<li>Choice</li>
-<li>Security</li>
-<li>Access/Accuracy</li>
-<li>Notice</li>
-</ul>
-
-Where Quinstreet, Inc. collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Quinstreet, Inc. or those working on behalf of Quinstreet, Inc.. Quinstreet, Inc. does not intend to transfer Personal Information without your consent to third parties who are not bound to act on behalf of Quinstreet, Inc. unless such transfer is legally required. Sometimes the purpose statement for our web pages are set forth in privacy policies specifically set forth or linked to from that page.
-
-<h2>Choice</h2>
-You may choose whether or not to provide Personal Information to Quinstreet, Inc.. The notice we intend to provide where Quinstreet, Inc. collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most Quinstreet, Inc. Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
-<br><br>
-If you chose to have a relationship with Quinstreet, Inc., such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
-
-<h2>Security</h2>
-Wherever your Personal Information may be held within Quinstreet, Inc. or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
-
-<h2>Access/Accuracy</h2>
-To the extent that you do provide us with Personal Information, Quinstreet, Inc. wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Quinstreet, Inc. should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to <a href="http://www.hef2chef.net/contacts/" id="article_link">us</a> and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
-
-<h2>Third Party Services</h2>
-
-Third parties may provide certain services available on Chef2chef.net  or its affiliate sites on behalf of Quinstreet, Inc.. Quinstreet, Inc. may provide information, including Personal Information, that Quinstreet, Inc. collects on the Web to third-party service providers and our clients to help us deliver programs, products, information, and services. Quinstreet, Inc. will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on behalf of Quinstreet, Inc..
-<br><br>
-Quinstreet, Inc. does not intend to transfer Personal Information without your consent to third parties who are not bound to act on behalf of Quinstreet, Inc. unless such transfer is legally required. Similarly, it is against Quinstreet, Inc. policy to sell Personal Information collected online without consent.
-
-<h2>Children's Privacy</h2>
-Chef2chef.net  and its affiliate sites are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
-
-<h2>Commitment</h2>
-Protecting your privacy online is an evolving area, and Quinstreet, Inc. Web sites are constantly evolving to meet these demands.
-<br><br>
-If you have any comments or questions regarding our Online PRIVACY POLICY, please contact <a href="http://www.chef2chef.net/contacts/" id="article_link">us</a>. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
-
-<h2>Your Consent</h2>
-By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to Quinstreet, Inc. processing of Personal Information for the purposes given above as well as those explained where Quinstreet, Inc. collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.</div>
-
-</div>
-<div class="footer">
-<hr><div style="text-align:center;">
-<a href="http://chef2chef.net/search/navigationmap.htm">Site Map</a> | <a href="http://www.chef2chef.net/admin/about/">Advertise with Us</a> | <a href="http://chef2chef.net/contacts/">Contact Us</a></div>
-Copyright © 1999-2009 QuinStreet, Inc. All rights reserved. Chef2Chef® and ChefToChef® are registered trademarks of QuinStreet, Inc. All brand names and product names used on this Web site are trade names, service marks, registered trademarks of their respective holders.  Click <a href="http://chef2chef.net/contacts/privacy.htm" title="Privacy Policy">here</a> to review Our Privacy Policy and Terms of Service - To report Problems, provide Comments or Suggestions, please Click <a href="http://chef2chef.net/contacts/">Here</a>
-<br>
-</div><script language="JavaScript">var tcdacmd="dt";</script><script src="http://an.tacoda.net/an/17008/slf.js" language="JavaScript"></script>
-	<div style="clear:both;"></div>
-<div style="background:url(http://www.chef2chef.net/images/body_bottom.gif) no-repeat; width:998px;"><img src="http://www.chef2chef.net/images/spacer.gif" width="998" height="17"></div>
-
-</div>
-
-</div></body></html>
+</body></html>
