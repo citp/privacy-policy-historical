@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200112id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223215244id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RAINN | Rape, Abuse & Incest National Network
+# Privacy Policy | RAINN | Rape, Abuse and Incest National Network
 
 ## Privacy Policy
 
-[Printer-friendly version](http://www.rainn.org/print/299 "Display a printer-friendly version of this page.")
+[Printer-friendly version](http://www.rainn.org/print/299 "Display a printer-friendly version of this page.")[Send to friend](http://www.rainn.org/printmail/299 "Send this page by e-mail.")
 
 #### Online Privacy Policy Effective Date: April 16, 2008
 
