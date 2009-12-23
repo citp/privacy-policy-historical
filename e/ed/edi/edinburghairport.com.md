@@ -1,49 +1,69 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003101901id_/http%3A//www.edinburghairport.com/portal/page/EDI%255EMisc%255EPrivacy%2BStatement/9ca16d35771a2010VgnVCM100000147e120a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223105150id_/http%3A//www.edinburghairport.com/portal/page/Edinburgh%255EGeneral%255EMisc%255EPrivacy%2Bstatement/a9adc76fe356c110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
-# BAA Edinburgh: Privacy statement
+# BAA Edinburgh: Privacy policy
 
+Updated February 2009  
+  
 Please read carefully
 
-1.Introduction  
-BAA Limited and its group companies ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
+1\. Introduction  
+BAA Airports Limited and its group companies ("BAA") each take their obligations with regard to your personal information seriously. For a list of BAA group companies, please click here. This Privacy policy sets out the ways BAA handles your personal information collected via our websites (our “Websites") and through your participation and contribution in BAA related activities. BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
 
-2\. The information we collect through the Website and the way we use it  
-If you give us your personal details when you use the Website, we will inform you of the uses we make of that information at the time we collect it from you.
+2\. The information we collect about you and the way we use it  
+You may be asked to give us personal details when purchasing, registering or subscribing to an Airport service or product, taking part in customer research and surveys, service or product trials, entering competitions or providing feedback on various issues relating to BAA. If you give us your personal details we will inform you of the uses we make of that information at the time we collect it from you.
 
-You may be asked to give us personal details when subscribing to a service, taking part in customer surveys or providing feedback on various issues relating to BAA.
+If you are giving us your personal details in the course of purchasing, registering or subscribing for a service, then we will of course use it in order to provide you with that service. We will use your information to communicate with you and to personalise our service. We may contact you by post, email, or telephone (including mobile SMS).
 
-If you are giving us your personal details in the course of subscribing for a service (for example a newsletter), then we will of course use it in order to provide you with that service.
+We may use your information to send you offers and news about our airport services or products or those of other carefully selected companies which we think may be of interest to you. Your confirmation emails (which may include details of bookings, airport services, product registration or subscription made through our Websites) may also include marketing material which we think may  be of interest to you. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
-If you purchase a travel service from us (such as car parking or lounge spaces), we will, unless you object, use that information to send you a limited number of communications each year relating to similar products and services. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, immigration and customs control, safety and security, administrative and legal purposes, statistical and marketing analysis with a view to improving our products and services, the Websites and the user experience, systems testing, maintenance  and development, customer research and surveys,  customer relations and to help us in future dealings with you. If we use your information for the purposes of statistical or marketing analysis, your information will be anonymised so you cannot be personally identified from it.
 
-We would also like, with our partners, to be able to communicate with you relating to other offers relating to travel, travel services, duty free and airport shopping. We always choose our partners carefully to ensure that you will find those communications of interest. However we recognise that not all of our passengers like to receive this kind of communication and therefore we will not do so unless you have specifically chosen to receive it.
-
-We do also, with a view to improving the Website and the user experience, use some information for the purposes of statistical analysis. However when we do this we anonymise the information so you cannot be personally identified from it.
-
-We may disclose your personal information to others where we are required or permitted to do so by law or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so.
-
+We may disclose your personal information to others where we are required or permitted to do so by law, or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so.  
 If you are under 16 you must obtain consent from a parent or guardian before providing us with any personal information.
 
-All personal information is held in a secure environment.
+All personal information is held in a secure environment. All personal data that BAA collects is used in accordance with the Data Protection Act 1998.
 
-We shall hold your personal information for as long as necessary in order to provide the relevant service, monitor the service over a reasonable period of time or for as long as may be reasonable given the circumstances in which the information is provided.
+BAA may use third party processors to handle personal data collected, these processors may be located in the UK or abroad. When using processors, we ensure that appropriate contractual safeguards, as dictated by the Data Protection Act 1998, are put in place.
 
-3\. Order forms for car parking, lounges and travel services  
-If you buy car parking, travel services or lounge spaces through the BAA Advance part of the Website, BAAE (the division of BAA which fulfils such orders) will ask you to complete an order form, which will ask for your name, address, email address and a telephone number. Ordinarily BAAE will contact you by email only but if we encounter a problem with your order, we may need to telephone you to resolve it in the most effective way.
+3\. Cookies  
+BAA collects information about your use of the Websites from cookies.
 
-4.WorldPoints  
-WorldPoints is BAA's airport shopping loyalty programme. You can sign up by visiting [www.baa.com/worldpoints](http://www.baa.com/worldpoints). A separate Privacy Policy is applicable to those passengers who join the WorldPoints programme, details of which are available on the Website.
+When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
 
-5.Cookies  
-BAA collects information about your use of the Website from cookies.
+BAA cookies record those areas of the Websites that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Websites, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
 
-When you enter the Website your computer will automatically be issued with a 'cookie'. A 'cookie' is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
+In addition, we would also like to make you aware that, although external to BAA, third party cookies are served on the Websites and can be used to track internet activity after a user has left the Website. Third party cookies usually have a long lifetime as they are ‘harvested’ and ‘refreshed’ whenever a user visits a page where the same or a similar cookie is being used.
 
-BAA 'cookies' record those areas of the Website that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Website, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
+You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
 
-In addition, we would also like to make you aware that, although external to BAA, 'third party' cookies are served on the Website and can be used to track internet activity after a user has left the Website. 'Third party' cookies usually have a long lifetime as they are 'harvested' and 'refreshed' whenever a user visits a page where the same or a similar cookie is being used.
+4\. Your rights under the Data Protection Act  
+Under the Data Protection Act, you have the right to ask us what information we hold about you, the source of that information, and the uses to which it has been put. Such a request must be in writing and should be directed to the address below.
 
-You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Website may be impaired as we will be unable to personalise aspects of your use of the Website.
+5\. Contact us  
+If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from BAA in the future, you can contact:
 
-6\. Links to Third Party Websites  
-This Privacy Policy applies solely to the Website and does not apply to any third party websites you may access from the Website.
+Data Protection Manager  
+BAA Airports Limited  
+The Compass Centre  
+Nelson Road  
+London Heathrow Airport  
+Hounslow  
+TW6 2GW
+
+6\. Links to third party websites  
+This Privacy policy applies solely to the Websites and does not apply to any third party websites you may access from the Websites.
+
+7\. Updates to the Privacy policy  
+BAA may amend this Privacy policy from time to time in order to meet change in the regulatory environment, business needs, or to satisfy the needs of our customers, properties, strategic marketing partners, and service providers. Updated versions will be posted to our Websites and date stamped so that you are aware of when the Privacy policy was last updated.
+
+List of  BAA group companies
+
+Aberdeen Airport Limited  
+BAA Airports Limited  
+BAA Enterprises Limited  
+Edinburgh Airport Limited  
+Glasgow Airport Limited  
+Heathrow Airport Limited  
+Heathrow Express Operating Company Limited  
+Southampton International Airport Limited  
+Stansted Airport Limited
