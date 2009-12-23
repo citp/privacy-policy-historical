@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103955id_/http%3A//www.mnscu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223043852id_/http%3A//www.mnscu.edu/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement: Minnesota State Colleges & Universities
+# Minnesota State Colleges and Universities
 
 Minnesota State Colleges and Universities is firmly committed to maintaining appropriate data privacy; our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](http://www.revisor.leg.state.mn.us/stats/13/). The following discloses our data practices policy for all Minnesota State Colleges and Universities, Office of the Chancellor Web sites.
 
