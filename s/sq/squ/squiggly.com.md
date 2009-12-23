@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the squiggly.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302000934id_/http%3A//www.squiggly.com/au/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiggly.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223124042id_/http%3A//www.squiggly.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Squiggly Swatch Watches and Straps - Online Watch Store || Swatch Originals / Skin / Irony / Flik Flak
 
- | 
-
->  **This is the Web site of Squiggly Trading B.V.**  
+> **This is the Web site of Squiggly Trading B.V.**  
 >  Our Address is: Willebrordusstraat 16 3037TR Rotterdam, The Netherlands  
 > Our Postal Address is: Willebrordusstraat 16 3037TR Rotterdam, The Netherlands  
 > Our number at the Chamber of Commerce of Rotterdam is: 24350434  
@@ -42,5 +40,3 @@
 > 
 > * by phone: ..31-10-2330690
 > * by letter to this address: Squiggly Swatch watches, Willebrordusstraat 16, 3037TR Rotterdam, The Netherlands
-
-|  
