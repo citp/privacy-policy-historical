@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423184750id_/http%3A//www.mioot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223045402id_/http%3A//www.mioot.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Live Chat, Live Chat Software, Live Help, Live support, live chat with tickets
+# Live chat software security and privacy policies
 
+  
 miOOt is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customer's data. 
 
-**What information do we collect?**
+  
 
-When you visit our web site, our web server collects basic user information about you that includes your ISP's domain, the time you accessed our web site, and the pages from within our web site that you visit. 
 
+**What information do we collect?**   
+When you visit our web site, our web server collects basic user information about you that includes your ISP's domain, the time you accessed our web site, and the pages from within our web site that you visit.   
 When you sign up for mioot's services, you provide us with both contact and payment information. Contact information typically includes your name, address and phone number. Payment information typically includes your credit card number.
 
-Onbehalf of customer we may collect first name , last name email and other contact details and it vary customer to customer. Also we will collect and store the chat messages for our customer's future reference and analatical purpose. 
+Onbehalf of customer we may collect first name , last name email and other contact details and it vary customer to customer. Also we will collect and store the chat messages for our customer's future reference and analatical purpose.
 
-**How do we use this information?**
-
+**How do we use this information?**  
 The basic user information collected is used to help us analyze web traffic and to improve the content of our web site. 
 
 The data collected from the customer will be used only for mioot's internal purpose to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services and customer logs in the normal course of providing a service. miOOt may share customer information with selected partners/third parties to provide you with information about products that might be of interest to you or to enable you to take advantage of special partner programs. 
 
-All the data collected on behalf the customer is used only for the that perticular customer and we process this data to genearte the reports for the benifit of the customer . 
+All the data collected on behalf the customer is used only for the that perticular customer and we process this data to genearte the reports for the benifit of the customer. 
 
 **Cookies**
 
@@ -38,4 +39,4 @@ miOOt is committed to protecting the security of your personal information. We u
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
 
-If you have any questions or suggestions regarding our privacy policy, please[ contact us](https://web.archive.org/web/20090423184750id_/http%3A//www.mioot.com/contact_us.php) online or by mail at [privacy@mioot.com](mailto:privacy@mioot.com)
+If you have any questions or suggestions regarding our privacy policy, please[ contact us](http://mioot.com/contact_us.php) online or by mail at [privacy@mioot.com](mailto:privacy@mioot.com)
