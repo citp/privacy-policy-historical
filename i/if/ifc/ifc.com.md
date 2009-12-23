@@ -1,106 +1,90 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620194101id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223163043id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IFC.com
 
-**Click below for specific information about:** We take seriously the collection of personally identifiable information from our visitors and work to protect each visitor's privacy in accordance with the terms of this policy. We use the terms "visitors" and "you" to include any person who accesses this website for any amount of time. Please carefully review our privacy practices below. 
+**THE INDEPENDENT FILM CHANNEL LLC**  
+**Privacy Policy**  
+Updated October 5, 2009
 
- **I. How To Reach Us**
+Thank you for visiting this website (the "Website"). Your patronage means a lot to us. At The Independent Film Channel LLC ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us. This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it.
 
-This website is owned and operated by the Independent Film Channel LLC (referred to herein as "IFC," "We," "Us," or "Our"), a subsidiary of Rainbow Media Holdings, LLC ("Rainbow"). You may contact us directly if you have any questions about this Privacy Policy. Please contact us at [webmaster@ifc.com](mailto:webmaster@ifc.com).
+Your use of any part of the Website indicates your acceptance of this Policy and of the collection, use and disclosure of your personal information in accordance with this Policy. Please note that this Policy applies only to personal information collected on the Website. It does not apply to any other information collected or obtained by any other means by Company, its parents, affiliates, or subsidiaries.
 
- **II. Collection of Personal Information by IFC**
+As we update and expand our services, we reserve the right to modify this Privacy Policy at any time. Any changes will be posted here so that you are always aware of what information is collected, how it is used and when, if ever, it is disclosed. Please check this page periodically for changes. Your continued use of this site after changes to the Privacy Policy indicates your acceptance of the terms of any revisions to this Policy.
 
-We provide various informative, educational, and/or entertaining features as part of this website. To operate these features and allow website interaction or participation, we may request and collect certain personally identifiable information from our visitors, including, but not limited to, name, home and email addresses, telephone numbers and birth date (referred to herein as "personal information"). For example, to participate in contests, we may ask you to complete an online entry form that requires the submission of your personal information. We use the personal information on the entry form for contest registration, to contact the winners of the contest or as otherwise described below.
+**INFORMATION COLLECTION**
 
-We may use collected personal information to allow site membership or online subscription submissions; distribute our newsletter; respond to visitor inquiries or requests; improve our services, including our website; allow participation in public or interactive areas; protect the security of our visitors, system and/or website; for future marketing and/or promotional use about our program or website services; and to survey visitors about various topics, including their television viewing, information or other entertainment preferences and how we can improve our programming and website.
+When you register for an account or visit certain portions of the Website, you may be prompted to provide, on a voluntary basis, certain information about yourself such as: (i) name; (ii) email address; (iii) date of birth; (iv) mailing address; (v) telephone numbers; and (vi) interests and hobbies. You are not required to provide any information to use our Website, although certain areas may require registration.
 
-We use contract and/or third party service providers to collect visitor personal information over our website on our behalf. These providers disclose personal information to us and/or may assist us with the features provided above.
+Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events. By submitting personal information in conjunction with these joint activities, you are providing that information to both parties simultaneously. The co-sponsor or partner may maintain a separate privacy policy governing the collection, use, and disclosure of your personal information, and this Policy does not cover their collection, use, and/or disclosure. For example, during your visit to our Website, you may link to or view as part of a frame on a page of this Website, certain content that is actually created or hosted by a third party. Also, through this Website you may be introduced to, or be able to access, information, websites, advertisements, features, contests or sweepstakes offered by other parties. Company is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature page or page operated by a third party.
 
-The personal information collected through this website may be combined and maintained with information we collect offline.
+The Website may link to certain third parties who offer services on our behalf. Information collected on those sites is subject to the third party's own privacy policy. However, in some circumstances, those third parties may provide us with the information you provide to the third party. If so, we will treat that information in accordance with this Policy.
 
- **III. Collection of Personal Information by Site Partners or Co-Sponsors**
+We may also use cookies and other technologies to learn about how you interact with our site to provide you with better service, to improve your customer experience, and for internal research and reporting purposes. We also may collect anonymous data on Website activity, such as how many people visit the site, what pages they visit, where they come from, how long they stay, what items they purchase, etc. Such data is collected on an aggregate, anonymous basis, through the use of Internet server logs and cookies. We may also take non-anonymous data and de-identify it so that it becomes anonymous either by itself or when aggregated. We may use any anonymous or aggregated data for any purpose, including for research and marketing purposes, and may also share such data with any third parties, such as advertisers.
 
-Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events. For joint website activities, the co-sponsor or partner of the activity may request and collect your personal information. If you submit personal information in joint activities, the co-sponsor or partner may share personal information submitted for the activity with us and/or we may share such information with them. The co-sponsor or partner may also maintain separate privacy policies governing the collection, use and disclosure of your personal information. IFC and/or the third party partner or co-sponsor may also use the personal information collected in conjunction with such activities for the marketing of additional services, promotions or events. Depending on the activity, visitors will be able to either grant approval on the types of additional offers or services they want to receive before personal information is collected ("opt-in"), or choose to deny use of their personal information for additional purposes ("opt-out"). 
+**INFORMATION USE**
 
-IFC, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of third parties.
+By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes. For a current list of Company's affiliates, please [click here](http://www.cablevision.com/about/index.jsp).
 
- **IV. Collection of Non-Personal Information and Use of Tracking Devices**
+From time to time, we may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services. We may also provide access to third parties who assist us in providing targeted advertising. Third parties who have such access may not use the information for any other purpose, including their own marketing.
 
-We may collect non-personal information about visitors through use of cookies or other tracking devices, such as gifs.
+**INFORMATION DISCLOSURE**
 
- **Cookies.**  A cookie is a small data file that contains a unique identification number that a website places on your hard drive. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site and selections chosen.
+We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy. You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
- **Gifs.**  A clear gif [Graphics Interchange Format] (also known as pixel tags, web beacons or web bugs) is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many hits a site link receives or to retrieve certain cookies or track visitor preferences.
+Finally, we also reserve the right to disclose and transfer all of the information collected at our sites, including personally identifiable information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
 
+**INTERNATIONAL VISITORS**
 
-These and other tracking devices collect aggregate "hits" data, including Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a visitor enters our site, web pages visited, and duration of visit and domain type. This aggregate information may also include demographic or geographic data and visitor usage patterns.
+This Website is controlled, operated and administered entirely within the United States. If you visit one of our sites from a location outside the United States, please be advised that any information you provide may be processed in and transferred to the United States, where privacy protections may not be as comprehensive as those in the European Union or other locations. By using this Website, you consent to this transfer and to the use of the personal identifiable data as described herein.
 
-We may use these devices and information gathered to gauge the effectiveness of our website and site features; to tailor our website to your specific interests, requests or participation; to simplify site navigation; or to deliver a more personalized website service by recognizing certain choices you have made on our site so you do not need to re-enter these choices when you return to our site. For example, we may use cookies to simplify access to member-only features or to track contest entries. We may also use tracking devices to conduct research, for auditing purposes, or to estimate our audience size.
+**YOUR CHOICES REGARDING MARKETING AND OPTING OUT**
 
-We do not use tracking devices to independently collect personal information. However, the aggregate "hits" data collected by these tracking devices may electronically link to some personal information that you have voluntarily provided over our website. We do not disclose this combined information (personal information linked to our cookie and gif collection practices) to nonaffiliated third parties.
+If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at webmaster@ifc.com; or (iii) writing us at The Independent Film Channel LLC, 11 Penn Plaza, New York, NY 10001. Attention: Webmaster.
 
-To prevent the automatic recording of data by cookies, you can configure your browser to either reject all cookies or notify you when a cookie is sent. You do not need to have cookies turned on to browse most of our website. You may find, however, that some areas on the website will be slower, may not function at all, and/or you may not be able to participate in activities on our website that require you to log-in or register.
+**UPDATING YOUR INFORMATION**
 
- **V. Collections by Advertisers**
+To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email webmaster@ifc.com. If a member name and password were required to access the feature, you will need to provide such information to update your registration information.
 
-We may permit advertising on our website by third parties and/or link to the websites of third parties that are not owned or operated by IFC, its parents, affiliates or subsidiaries or that do not participate in joint activities with us. These third parties may independently solicit and collect personal information, send their own cookies to our visitors, or link visitors away from our site. They may also use collected data differently than IFC. Please be advised that when you click on an advertisement or link to or visit another website you will be subject to the privacy policy and [terms of usage agreement](http://www.ifc.com/ifc/article/bottom/0,,AID-2-CLR-white-BCLR-FFFFFF-,00.html) of that advertiser/website operator. Programs or other applications on your computer may cause advertisements not affiliated with our website to appear on top of our webpages. IFC, its parents, affiliates or subsidiaries will not be responsible for advertiser ads, links and/or "pop-ups" or the content, activities, information collection, use and disclosure practices of other third party advertisers.
+**LINKS**
 
- **VI. Disclosure of Personal Information by IFC**
+You should note that the Website has business relationships with (and may provide hyperlinks to) unaffiliated third parties (e.g. sites that offer discounts for certain products, sell tickets, sell branded merchandise, etc.) ("Partners") and may provide links to the websites of such Partners so that they can offer you products and services. If you visit a third party site by clicking on such hyperlink found on our webpage, any information you provide is subject to that third party site's privacy policy; and we encourage you to review that website's privacy policy before providing any personally identifiable information. The entities controlling these third party websites are responsible for ensuring compliance with all applicable laws, regulations and rules.
 
-We may disclose your personal information with other parties when you consent to the disclosure; it is required or permitted by law; it is necessary to operate our website or our website services; to protect the safety of our visitors, employees or property; to investigate or help prevent unlawful activity or activity that threatens our network or website; to provide or enhance our website features or operations; to enable participation in contests or sweepstakes; to allow receipt of membership or newsletter information; or when disclosure is consistent with IFC's practices for services that are similarly provided offline, such as magazine or program subscription services.
+**COOKIES**
 
-The third parties with whom we disclose personal information include our parents, affiliates or subsidiaries; website sponsors or partners; agents; consultants; content or service providers, including fulfillment services and maintenance and technical service providers; entities that provide website operational support; attorneys; accountants; auditors; authorized government entities or other lawfully authorized parties. We may disclose personal information with other third parties in conjunction with entering into an agreement for the sale of our stock or assets or if we are involved in bankruptcy proceedings.
+Data is gathered through the use of Internet server logs and cookies. A web server log is a file where website activity is stored. A cookie is a small piece of information that a website sends to a visitor's computer, which is stored on his or her hard drive. Company uses cookies to track repeat visits to our website. These cookies do not store personally identifiable information, although information in cookies may be combined with other identifiable information that we maintain. You can disable cookies within your browser, although some portions of the Website may not function properly if you do so.
 
-IFC uses third party service providers to fulfill newsletter requests. If a visitor submits a newsletter request online, IFC and/or the service provider may collect the personal information in the request and we may share such information with each other to process and deliver the newsletter. Our service providers may also combine personal information gathered from online subscriptions with information gathered offline for similar subscriptions. IFC may also disclose personal information to providers that perform other services on its behalf, such as for sending membership or promotional emails.
+Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information. For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or [click here](http://www.doubleclick.com/privacy/index.aspx) to link to Network Advertising Initiative.
 
-IFC may further disclose the names of visitors on its website for certain events, such as the winners of contests. If possible, IFC will either notify visitors of this possibility when personal information is collected online or when the information is posted. 
+**CHILDREN'S PRIVACY POLICY**
 
-We may disclose aggregate, non-personal information to other parties for other purposes, such as marketing or promotional activities.
+Company does not target this Website to children under the age of thirteen and we do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of thirteen except as permitted by law. If we discover we have received any information from a child under the age of thirteen in violation of this Policy, we will delete that information immediately. If you believe Company has any information from or about anyone under the age of thirteen, please contact us at the address listed below.
 
- **VII. Content of Electronic Communications**
+**CALIFORNIA PRIVACY RIGHTS**
 
-When visitors send an email or other electronic information to us, we will protect the privacy of the visitor's email address and other personal information consistent with this policy. However, we may disclose the content or portion of the email or electronic message that does not contain personal information to other third parties not identified in this policy.
+Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable information to third parties for their direct marketing purposes. To make such a request, please send an email to the contact information below.
 
- **VIII. Message Boards and Chats (e.g., IFC Rants)**
+**CONTACTING US ABOUT THIS POLICY**
 
-Please remember that message boards and chat rooms are public areas on our website and any information posted in these areas can be viewed by other visitors or Internet users. Thus, you should not post personal information in these areas. Visitors using message boards or chat rooms must also follow our Interactive Area Code of Conduct. See our [Terms of Usage Agreement.](http://www.ifc.com/ifc/article/bottom/0,,AID-2-CLR-white-BCLR-FFFFFF-,00.html)
+Please do not hesitate to contact us with any questions, concerns, requests or comments:
 
- **IX. How to Discontinue Online Memberships or Registrations**
+Write to us at:  
+The Independent Film Channel LLC  
+11 Penn Plaza  
+New York, NY 10001  
+Attention: Webmaster
 
-Online membership, newsletter and schedule features are voluntary offerings. If at any time you choose to discontinue receipt of such electronic communications, please follow the opt-out or unsubscribe instructions contained in the applicable email or electronic communication or go to the "Subscribe/Unsubscribe" area of our website. We will take reasonable efforts to efficiently process your request.
+Or, by email us at: webmaster@ifc.com
 
- **X. How to Change Personal Information  **
+**SECURITY**
 
-You may request that we change or delete certain personal information that we collect about you by contacting us via email at [webmaster@ifc.com](mailto:webmaster@ifc.com). Certain information that we collect cannot be deleted for security purposes, in accordance with various laws or per our business retention practices. We retain the right to refuse to change or delete certain personal information.
+We use reasonable commercial efforts to protect the security of personal information that we collect online and store. However, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure.
 
- **XI. Retention of Personal Information**
+Please be careful and responsible whenever you are on line. Should you choose to voluntarily disclose personally identifiable information on our Website, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Company and this Policy.
 
-We retain personal information for as long as it is needed to maintain our business records in the ordinary course, preserve our database and website records, to comply with laws governing our business, or if there are authorized requests for retention and/or disclosure from government, law enforcement or the courts. This means that we may retain personal information for years after the initial collection of the information.
+**GOVERNING LAW**
 
- **XII. Security of the Personal Information We Collect**
+This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.
 
-We use reasonable commercial efforts to protect the security of personal information transmitted to us through our website and stored by us. We require our employees to protect the privacy of visitors' personal information. Only employees and contractors/vendors with specific authorization have access to our databases containing visitors' personal information.
-
-Please remember that despite our security measures, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure. Parties not under the control of IFC, its parents, affiliates or subsidiaries may intercept or access electronic transmissions or other data without authorization. Thus, we cannot ensure or warrant the security of information you send to or receive from us. Any electronic transmissions that you submit or accept are at your own risk.
-
- **XIII. Changes to Our Privacy Policy**
-
-If we update or change the terms of this Policy, we will post changes in a revised Privacy Policy available on this website. To keep informed about the information we collect, how we use it and our disclosures, you must review our Privacy Policy on a regular basis.
-
- **XIV. Children's Privacy Policy**
-
-We do not target this website to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen. If upon notification by a parent or guardian, or discovery by other means, that a child under thirteen has improperly registered on our website, we will immediately cancel the child's membership and/or participation and delete the child's personal information from our records.
-
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen years of age, except in circumstances allowed by law.
-
- **XV. Third Party Advertising**
-
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here. <<http://www.doubleclick.net/us/corporate/privacy>>
-
- **XVI. Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-
-Please contact us if you have any questions about this Privacy Policy.
-
-Thank You for Visiting!
+**Copyright © 2009 The Independent Film Channel LLC  
+Version: October 2009**
