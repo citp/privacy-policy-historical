@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622114030id_/http%3A//www.ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223093257id_/http%3A//www.ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
 
 # eCopy, Inc. - Document Imaging Software - Privacy Policy
 
@@ -34,7 +34,7 @@ Additionally, we may allow other companies to present advertisements on some pag
 Our Web site may contain links to third party Web sites. Our privacy policy does not apply with respect to those third party Web sites. We encourage you to review the privacy policies of any of those sites that you visit. 
 
 **Questions**  
-If you have any questions about our privacy policy or the practices of our Web site [contact](http://www.ecopy.com/contact.htm):
+If you have any questions about our privacy policy or the practices of our Web site [contact](http://ecopy.com/contact.htm):
 
 eCopy, Inc.   
 One Oracle Drive,  
@@ -44,6 +44,6 @@ Attention: Marketing Department
 Last Updated: July 1, 2006  
 
 
-[Back to Top](https://web.archive.org/web/20090622114030id_/http%3A//www.ecopy.com/company_privacy_policy.asp#top)
+[Back to Top](https://web.archive.org/web/20091223093257id_/http%3A//www.ecopy.com/company_privacy_policy.asp#top)
 
 Back to Top
