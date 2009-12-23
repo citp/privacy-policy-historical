@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618170147id_/http%3A//www.mcdonalds.com.sg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223042802id_/http%3A//www.mcdonalds.com.sg/privacy.html) for the most accurate reproduction.*
 
 # Welcome | McDonald's Singapore
 
-[Home](https://web.archive.org/web/20090618170147id_/http%3A//www.mcdonalds.com.sg/index.html) » McDonald's Internet Site Terms and Conditions
+[Home](https://web.archive.org/web/20091223042802id_/http%3A//www.mcdonalds.com.sg/index.html) » McDonald's Internet Site Terms and Conditions
 
 McDonald's Internet Privacy Policy
 
