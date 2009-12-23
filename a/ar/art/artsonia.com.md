@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517014322id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223043339id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia - Privacy Policy
 
@@ -10,7 +10,7 @@ At Artsonia, we are committed to protecting every User's privacy. We use the inf
 
 **1\. Information Provided By All Users of the Website**
 
-The information Users (as defined in the Terms and Conditions of Use) provide to Artsonia through Artsonia.com (the "Website") is used to process orders, to provide enhanced and more personalized service, and to properly index and display artwork, lesson plans, and other materials. The data in Artsonia's databases is protected against unauthorized access through state-of-the-art security procedures and software.
+The information Users (as defined in the Terms and Conditions of Use) provide to Artsonia through Artsonia.com (the "Website") is used to process orders, to provide enhanced and more personalized service, and to properly index and display artwork, lesson plans / lesson plan starters, and other materials. The data in Artsonia's databases is protected against unauthorized access through state-of-the-art security procedures and software.
 
 The information Users provide to Artsonia is solely for Artsonia's internal business use. We do not sell this information to anyone.
 
@@ -20,13 +20,13 @@ Artsonia may disclose personal information if we believe, in good faith, that su
 
 **2\. Information Provided By Teachers**
 
-Any Teacher (as defined in the Terms and Conditions of Use) who wishes to display their students' artwork or their lesson plans on Artsonia is required to register as a member. The information provided during the registration process is used to communicate with the Teacher as well as to create a school gallery on Artsonia, which will list the Teacher name and the name of the school. Teachers should be aware that, because personal information about themselves (i.e., their name and school) is posted on the Website and is publicly accessible to all users of the Website, that information could be collected, used, and disclosed by others. Artsonia is not responsible for the collection, use, or disclosure of such information. Artsonia does, however, keep all Teachers' email addresses completely private (emails are never posted on the Website) and does not sell this list to anyone.
+Any Teacher (as defined in the Terms and Conditions of Use) who wishes to display their students' artwork or their lesson plan starters on Artsonia is required to register as a member. The information provided during the registration process is used to communicate with the Teacher as well as to create a school gallery on Artsonia, which will list the Teacher name and the name of the school. Teachers should be aware that, because personal information about themselves (i.e., their name and school) is posted on the Website and is publicly accessible to all users of the Website, that information could be collected, used, and disclosed by others. Artsonia is not responsible for the collection, use, or disclosure of such information. Artsonia does, however, keep all Teachers' email addresses completely private (emails are not posted on the Website) and does not sell this list to anyone.
 
 The following conditions also apply to Teachers that choose to upload class artwork:
 
   * To organize artwork, Teachers input first and (optionally) last names of students in a secured Teacher roster. The first and last names are entered in separate fields, and unique screen names are then generated for each student, based on the entry in the first name field.
   * It is the Teacher's responsibility to ensure that only the first names are added in the first name field. Artsonia is not responsible if a Teacher types last names or any other personally identifiable information about a child into the first name field.
-  * The information typed into the last name field is never posted publicly on the Website (as defined in the Terms and Conditions of Use), and will never be divulged to any third party. It is used as a means to organize the roster for the teacher's benefit only, and can only be accessed within the secure teacher section. Artsonia does not sell or barter any personally identifiable information about students to any third parties.
+  * The information typed into the last name field is not posted publicly on the Website (as defined in the Terms and Conditions of Use). It is used as a means to organize the roster for the teacher's benefit only, and can only be accessed within the secure teacher section.
 
 
 
@@ -36,7 +36,7 @@ Parents who are interested in displaying their child's artwork on Artsonia are r
 
   * To create an Artist gallery, Parents type the first and last name of their child into the appropriate textboxes. The first and last names are entered in separate fields, and a unique screen name is then generated for the child Artist, based on the text typed into the first name field. 
   * It is the Parent's responsibility to ensure that only the first name is typed into the first name field. Artsonia is not responsible if a Parent types a last name or any other personally identifiable information about their child into the first name field.
-  * The information in the last name field is never posted publicly on the Website, and will never be divulged to any third party. Artsonia does not sell or barter any personally identifiable information about children to any third parties.
+  * The information in the last name field is not posted publicly on the Website.
 
 
 
