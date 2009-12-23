@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the img98.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071538id_/http%3A//img98.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the img98.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223215414id_/http%3A//www.img98.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # img98.com Image Upload Center » More Information » Privacy Policy
 
