@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623012629id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223083611id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
 
 # International Academy of Design & Technology - Tampa | Privacy
 
