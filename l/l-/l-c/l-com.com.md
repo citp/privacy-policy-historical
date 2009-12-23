@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619165958id_/http%3A//www.l-com.com/content/FAQ.aspx%3FType%3DFAQ%26ID%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223050506id_/http%3A//www.l-com.com/content/FAQ.aspx%3FType%3DFAQ%26ID%3D13) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
