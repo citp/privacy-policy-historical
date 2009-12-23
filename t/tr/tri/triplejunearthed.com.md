@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629172947id_/http%3A//www.triplejunearthed.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223022324id_/http%3A//www.triplejunearthed.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # triple j Unearthed
 
