@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idebate.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052947id_/http%3A//www.idebate.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idebate.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223064810id_/http%3A//www.idebate.org/privacy.php) for the most accurate reproduction.*
 
 # IDEA: International Debate Education Association - Debate Resources & Debate Tools
 
