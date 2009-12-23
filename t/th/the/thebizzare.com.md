@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebizzare.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625012438id_/http%3A//thebizzare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebizzare.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223032147id_/http%3A//thebizzare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Bizarre
+# Privacy Policy | Bizarre stuff, Photos, News and More...
+
+You are here: [Home](http://thebizzare.com/) / Privacy Policy
 
 thebizzare.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -17,4 +19,4 @@ External Links
 This site contains links to other sites. thebizzare.com is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://thebizzare.com/contact-us/ "contact us").
