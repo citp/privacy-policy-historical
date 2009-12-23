@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604124122id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223092751id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ConsumerAffairs.com Privacy Policy
 
@@ -8,7 +8,7 @@ This is the web site of **ConsumerAffairs.com Inc.** Our postal address is:
 >  11400 West Olympic Boulevard, Suite 200  
 >  Los Angeles, CA 90064
 
-We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20090604124122id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
+We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20091223092751id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
