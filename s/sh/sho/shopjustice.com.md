@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608034630id_/http%3A//www.shopjustice.com/customerService/Safety_Security_and_Privacy%23content_2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223025824id_/http%3A//www.shopjustice.com/customerService/Safety_Security_and_Privacy%23content_2) for the most accurate reproduction.*
 
-# Girls Fashion and Preteen Clothing - Justice Clothing for Girls Privacy Policy
+# Girls Clothing and Preteen Fashion | Privacy Policy | ShopJustice.com
 
 Safety, Security and Privacy 
 
