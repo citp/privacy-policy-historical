@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513064222id_/http%3A//www.weddingpaperdivas.com/about-us/privacy-security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223073018id_/http%3A//www.weddingpaperdivas.com/about-us/privacy-security.htm) for the most accurate reproduction.*
 
 # Wedding Paper Divas Privacy and Security
 
-[home](http://www.weddingpaperdivas.com/ "Wedding Paper Divas") » privacy and security
+[home](http://www.weddingpaperdivas.com/ "home") › privacy and security
 
 Last Updated: October 20, 2007
 
