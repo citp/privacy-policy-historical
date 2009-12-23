@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011703id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223165951id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
