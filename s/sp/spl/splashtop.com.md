@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223185501id_/http%3A//www.splashtop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Splashtop Instant-On Desktop from DeviceVM
 
-|  | [](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/index.php) |   
+|  | [](https://web.archive.org/web/20091223185501id_/http%3A//www.splashtop.com/index.php) |   
 ---|---  
-|  > [Home](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/index.php) > Privacy Policy and Terms of Use  
+|  > [Home](https://web.archive.org/web/20091223185501id_/http%3A//www.splashtop.com/index.php) > Privacy Policy and Terms of Use  
 ---  
 |  |  |   
 ---|---|---  
-|  | [](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/privacy/DeviceVM_Inc_Terms_of_Use.pdf)  
+|  | [](https://web.archive.org/web/20091223185501id_/http%3A//www.splashtop.com/privacy/DeviceVM_Inc_Terms_of_Use.pdf)  
 ---  
   
 ### DeviceVM, Inc. Privacy Policy  
