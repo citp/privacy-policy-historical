@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154417id_/http%3A//www.lr.org/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223044813id_/http%3A//www.lr.org/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Lloyd's Register - Privacy Policy - Privacy Policy
 
@@ -49,7 +49,7 @@ Our web site may contain links to other web sites which are outside our control 
 
 The operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-### Notification of changes to the Privacy Statement
+### Notification of changes to the privacy statement
 
 We may change the content or service found on our site at anytime without notice and consequently our privacy policy may change at any time in the future.
 
@@ -57,8 +57,8 @@ We may change the content or service found on our site at anytime without notice
 
 You have the right to access personal data that is held about you. To obtain a copy of the personal information we hold about you please write to the address given below.
 
-**The Data Protection officer,**  
+**The Data Protection Officer,**  
 Lloyd's Register,  
 71 Fenchurch Street, London EC3M 4BS, UK  
-**E** [michelle.mullins@lr.org](mailto:michelle.mullins@lr.org?subject=Privacy%20policy)  
-**T** +44 (0)20 7423 2089
+**E** [chad.colby-blake@lr.org](mailto:chad.colby-blake@lr.org)  
+**T** +44 (0)20 7423 1724
