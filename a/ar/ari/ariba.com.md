@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607042618id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223045906id_/http%3A//www.ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Ariba.com Privacy Statement
 
