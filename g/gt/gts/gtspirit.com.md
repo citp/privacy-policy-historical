@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622154318id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031037id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTSPIRIT.COM
 
-**GTspirit.com Privacy Policy**
+Welcome to the GTspirit.com Privacy Policy page. On this page you will find the full privacy and policy information.
+
+**Privacy Policy**
 
 At GTspirit.com, your privacy is important to us. This Privacy Policy applies to all of the products, services, and websites offered by GTspirit.com and its subsidiaries or affiliated companies (collectively, “GTspirit”).
 
 To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by GTspirit.
 
-If you have any questions about this Privacy Policy, please [contact us](http://www.gtspirit.com/contact).
+If you have any questions about this Privacy Policy, please send us a message via the contact link in the menu bar.
 
 **An overview of the information that GTspirit may collect**
 
-You are able to take advantage of many GTspirit products, services, and websites without providing any information that personally identifies you. We only collect personally-identifying information when you voluntarily submit it to us.
+You are able to take advantage of many GTspirit products, services and websites without providing any information that personally identifies you. We only collect personally-identifying information when you voluntarily submit it to us.
 
-Sometimes, we need personally-identifying information in order to provide you with the products and services that you request. Depending upon the product or service, we may ask you for a variety of personally-identifying information. This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date. We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level. We consider certain identifying information “sensitive.” This includes your credit card number, income level, or any other information that would normally be considered confidential.
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request. Depending upon the product or service, we may ask you for a variety of personally-identifying information. This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date. We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level. We consider certain identifying information “sensitive”. This includes your credit card number, income level or any other information that would normally be considered confidential.
 
-You may choose not to provide us with any personally-identifying information. In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any GTspirit website that require your personal information. 
+You may choose not to provide us with any personally-identifying information. In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any GTspirit website that require your personal information.
 
 Many GTspirit websites include community features, such as online forums and message boards. Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control. You should exercise caution before disclosing any personally-identifying information in these public venues. If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
 
@@ -76,7 +78,7 @@ GTspirit employees who have access to personally-identifying information are req
 
 GTspirit only collects personal information that is relevant to the purposes for which it will be used. Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
 
-You may correct or delete any or all of the personal information you have provided to us at any time. Many of our websites provide means to review and update the personal information that you have provided on that website. To inquire about personally identifiable information that GTspirit has collected about you, or about other ways to correct factual errors in that information, please e-mail us at privacy@GTspiritcorp.com. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. We will decline to process requests where we cannot verify the identity of the requester. We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+You may correct or delete any or all of the personal information you have provided to us at any time. Many of our websites provide means to review and update the personal information that you have provided on that website. To inquire about personally identifiable information that GTspirit has collected about you, or about other ways to correct factual errors in that information, please send us a message via the contact link in the menu bar. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. We will decline to process requests where we cannot verify the identity of the requester. We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
@@ -84,8 +86,12 @@ We only use the information we collect for purposes consistent with this policy.
 
 **Enforcement and Compliance with this Privacy Policy**
 
-We take our Privacy Policy seriously and we regularly review our own compliance with this Policy. If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please [contact us](http://www.gtspirit.com/contact/). 
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy. If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please send us a message via the contact link in the menu bar. 
 
 If we receive a complaint from you, we will contact you in an attempt to address your concerns. If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
 
-_This policy was last updated on June 28, 2008._
+_This policy was last updated on November 09, 2009._
+
+  
+  
+
