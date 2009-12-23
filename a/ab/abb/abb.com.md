@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605195715id_/http%3A//www.abb.com/Copyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223051702id_/http%3A//www.abb.com/Copyright.aspx) for the most accurate reproduction.*
 
 # The ABB Group
 
