@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630000647id_/http%3A//www.internations.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223022215id_/http%3A//www.internations.org/about/privacy) for the most accurate reproduction.*
 
 # InterNations - the Community for Expatriates and Global Minds
 
