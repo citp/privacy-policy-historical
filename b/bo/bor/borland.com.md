@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603090404id_/http%3A//www.borland.com/us/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223132003id_/http%3A//www.borland.com/us/website/privacy.html) for the most accurate reproduction.*
 
 # Borland Privacy Policy
 
-## (Effective Date: March 1, 2007)
+## (Effective Date: November 24, 2009)
 
 The following statement discloses the consumer privacy practices of Borland Software Corporation ("Borland") for Borland’s Web Sites (the "Site"). This Privacy Policy governs all use of this Site. By using this Site, you are deemed to consent to our privacy practices. If you do not consent to these privacy practices, do not use this Site or download any materials from it, and you should immediately discontinue use of the Site and the products and services enabled by the Site (the "Products" and "Services," respectively) and follow the procedure described in the section entitled "Your choices with respect to personal information". This privacy policy does not govern privacy practices associated with offline activities, websites other than the Site, or Products and Services not available or enabled via the Site, except as expressly set forth in this Privacy Policy. Notwithstanding the foregoing, to the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and Borland regarding the use of specific areas of the Site or specific Products and Services (including Product- and Service-specific licenses, terms of use, or privacy disclosures) (collectively, “Product Agreements”), the terms of the Product Agreements shall govern.
 
-Borland adheres to the Safe Harbor Principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information consistent with the European Union Directive on Data Protection (<http://export.gov/safeharbor/>).
-
-Borland complies with the California Online Privacy Protection Act of 2003 ([http://www.leginfo.ca.gov/cgi-bin/displaycode?section=bpc&group=22001-23000&file=22575-22579](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=bpc&group=22001-23000&file=22575-22579)). 
+Borland complies with the California Online Privacy Protection Act of 2003 ([http://www.leginfo.ca.gov/cgi-bin/displaycode?section=bpc&group=22001-23000&file=22575-22579](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=bpc&group=22001-23000&file=22575-22579)).
 
 The Site and the Products and Services are intended for adult audiences, and Borland does not knowingly collect any personal information from anyone under 13 years of age.
 
@@ -16,25 +14,21 @@ We do revise and update our privacy practices from time to time. In general, we 
 
 _Entities collecting personal information_
 
-Personal information on this Site is collected by Borland Software Corporation, who is responsible for this site. Borland Software Corporation’s address is 8303 N. Mopac Expressway, Austin, TX 78759USA, and its telephone number is 512-340-2200.
+Personal information on this Site is collected by Borland Software Corporation, who is responsible for this site. Borland Software Corporation’s address is 9420 Key West Avenue, Rockville, Maryland 20850 USA, and its telephone number is 301-838-5000.
 
 The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
 
 _Updating your personal information and privacy preferences_
 
-You have the right to correct your personal information and privacy preferences at any time. You may access and correct most of your personal information and all of your privacy preferences (such as whether you wish to receive promotional communications) by writing Borland at the address provided below.Please include your name, address, and/or e-mail address when you contact us. No specific form is required to notify Borland of changes to your address or privacy preferences.
+You have the right to correct your personal information and privacy preferences at any time. You may access and correct most of your personal information and all of your privacy preferences (such as whether you wish to receive promotional communications) by writing Borland at the address provided below. Please include your name, address, and/or e-mail address when you contact us. No specific form is required to notify Borland of changes to your address or privacy preferences.
 
-Personal information submitted through this Site or in connection with the Products and Services other than communication preferences, is not accessible online. To update or correct such information and privacy preferences (such as whether you wish to receive promotional communications), you may write Borland at:
+Personal information submitted through this Site or in connection with the Products and Services is not accessible online. To update or correct such information and privacy preferences (such as whether you wish to receive promotional communications), you may write Borland at:
 
 Borland Software Corporation  
 Privacy Officer/Customer Information  
-8303 N. Mopac Expressway, Suite A-300  
-Austin, TX 78759  
-USA 
-
-All users may also email: [privacy-officer@borland.com](mailto:privacy-officer@borland.com)
-
-In your correspondence, please indicate with as much detail as possible the location on this Site or otherwise where you provided your personal information. For information submitted in connection with Products and Services, you may also follow instructions included or referenced within such Product and Service to access or correct the information.
+9420 Key West Avenue  
+Rockville, Maryland 20850  
+USA
 
 ### Your Privacy
 
@@ -54,7 +48,7 @@ In order to reduce errors in our database, authenticate our users, prevent abuse
 
 _How your personal information is used_
 
-Borland collects your information in order to record, support and facilitate your participation in the activities you select. If you subscribe to or register for Products and Services, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As a condition to being allowed to download trial or evaluation software from this Site, you may be asked for your consent to be contacted from time to time by us and/or one of our affiliates, representatives or partners, by either email, postal mail, and/or telephone, to provide you with the information about other products and/or services offered by Borland or its affiliates or partners that we or they think may be of interest to you. As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Borland and selected third parties unless you have opted not to receive such communications or such communications are prohibited by law.
+Borland collects your information in order to record, support and facilitate your participation in the activities you select. If you subscribe to or register for Products and Services, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As a condition to being allowed to download trial or evaluation software from this Site, you may be asked for your consent to be contacted from time to time by us and/or one of our affiliates, representatives or partners, by either email, postal mail, and/or telephone, to provide you with the information about other products and/or services offered by Borland or its affiliates or partners that we or they think may be of interest to you. As another example, if you request information from Borland, information is collected to help facilitate response to your request. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Borland and selected third parties unless you have opted not to receive such communications or such communications are prohibited by law.
 
 Borland may collect information about the use of the Products and Services and the Site, such as the number of downloads, types of Services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually.
 
@@ -66,23 +60,15 @@ _Protection of your personal information_
 
 The personal information that you provide in connection with registering yourself as a user of the Site or of the Products and Services is classified as Customer Information. Customer Information is protected in several ways. Information resides on secure servers that only selected Borland personnel and contractors have access to via password. Personal information that you provide that does not constitute Customer Information also resides on secure servers and is accessible only to selected Borland personnel and contractors via password. Since some of this information is not accessible online by you, you may not be asked to access it in order to view or modify such information.
 
-Please note that any information you post to a public bulletin board or chat room is available to all persons accessing that location, and your e-mail address may also be posted on these venues. The information you share, including your email address, would then be available to all persons accessing these venues, and such information may be read, collected or used by others for any purpose, including sending you unsolicited messages. Borland is not responsible for any information you elect to submit in these venues or the use of such information. 
+Please note that any information you post to a public bulletin board or chat room is available to all persons accessing that location, and your e-mail address may also be posted on these venues. The information you share, including your email address, would then be available to all persons accessing these venues, and such information may be read, collected or used by others for any purpose, including sending you unsolicited messages. Borland is not responsible for any information you elect to submit in these venues or the use of such information.
 
 _Your choices with respect to personal information_
 
-Borland recognizes and appreciates the importance of responsible use of information collected on the Site and in connection with the Products and Services. Borland will respect your legal rights regarding access to and correction of your personal information. Borland may communicate information to you regarding products, services, and special offers available from Borland or selected third parties unless you have opted not to receive such communications, although we may find it necessary to continue to communicate with you regarding your use of the Site and the Products and Services. Except in the particular circumstances described in this Privacy Policy, Borland will not provide your name to other companies or organizations without your consent.
+Borland may communicate information to you regarding products, services, and special offers available from Borland or selected third parties unless you have opted not to receive such communications, although we may find it necessary to continue to communicate with you regarding your use of the Site and the Products and Services. Except in the particular circumstances described in this Privacy Policy, Borland will not provide your name to other companies or organizations without your consent.
 
 There are other instances in which Borland may divulge your personal information, such as when required or permitted by law, such as in response to a subpoena, or if disclosure is needed to avoid serious injury to a party.
 
-Borland provides a number of ways for you to "opt-out" of receiving certain additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information. However, the availability of certain offers and services such as downloading trial or evaluation software may be conditioned upon your agreement to permit Borland or our business partners to contact you, in which case, notice of any such condition will appear on this Site. Since Borland is a global company, we provide company information to our worldwide offices. The personal information that you have provided to us may be transferred to other Borland offices around the world. For example, when European customers register Borland products, their personal information may be transferred to servers in the United States then transferred to servers in one or more of Borland's European offices. Also, in certain countries our trusted outside contractors and partners might undertake the collection, transferring, storage and processing of your information. 
-
-There are three ways to contact Borland:
-
-The borland.com Site - for email communication preferences and updates (only): <http://myinfo.borland.com/forms/subscription2>
-
-By email: [privacy-officer@borland.com](mailto:privacy-officer@borland.com)
-
-By postal mail at the address provided above.
+Borland provides a number of ways for you to "opt-out" of receiving certain additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information. However, the availability of certain offers and services such as downloading trial or evaluation software may be conditioned upon your agreement to permit Borland or our business partners to contact you, in which case, notice of any such condition will appear on this Site. Since Borland is a global company, we may provide company information (including your personal information) to our worldwide offices and/or affiliates. The personal information that you have provided to us may be transferred to other Borland offices around the world. For example, when European customers register Borland products, their personal information may be transferred to servers in the United States then transferred to servers in one or more of Borland's European offices. Also, in certain countries our trusted outside contractors and partners might undertake the collection, transferring, storage and processing of your information.
 
 _Use of Cookies_
 
@@ -92,7 +78,7 @@ Some Products and Services allow the tracking of access to or use of Products an
 
 You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies or similar devices will probably not be able to access those pages or the related Products and Services.) Information about non-cookie tracking devices and their features, including disabling options, are contained in the information materials provided with such Products and Services or on Site pages relating to such Products and Services. If you have any questions about the data collection practice of any of these service providers, please contact those companies directly.
 
-Borland also hires other companies to place our banner ads on other websites and where they are permitted to perform tracking and reporting activities ("third-party advertisement servers"). Aside from IP addresses, they do not collect personally identifiable information in doing this work for us, and we do not give any personally identifiable information to them. Third-party advertisement servers are subject to their own privacy policies. Borland may also allow other companies to display advertisements on certain pages of the Site or within the Products and Services. If you click on these advertisements these companies may place a persistent cookie on your computer which will allow them to contact you directly. It is our policy to require these companies to provide accessible methods for you to disable these cookies. 
+Borland also may hire other companies to place our banner ads on other websites and where they are permitted to perform tracking and reporting activities ("third-party advertisement servers"). Aside from IP addresses, they do not collect personally identifiable information in doing this work for us, and we do not give any personally identifiable information to them. Third-party advertisement servers are subject to their own privacy policies. Borland may also allow other companies to display advertisements on certain pages of the Site or within the Products and Services. If you click on these advertisements these companies may place a persistent cookie on your computer which will allow them to contact you directly. It is our policy to require these companies to provide accessible methods for you to disable these cookies.
 
 _Links to Third Party Web Sites_
 
@@ -106,6 +92,6 @@ _Privacy complaints_
 
 Borland takes its users' privacy concerns seriously. If you believe that Borland has not complied with this Privacy Policy with respect to your personal information, you may write to the Borland Privacy Officer at the address provided above, or by email at: [privacy-officer@borland.com](mailto:privacy-officer@borland.com).
 
-In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly.
+If you contact for this reason, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly.
 
 If you provide Borland with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Borland will endeavor to update your privacy preferences in a timely and accurate manner. Also, please note that Borland is not responsible for the content or privacy practices of non-Borland websites to which this Site or any other Borland website may link. You should review the privacy policy of such sites before using the sites.
