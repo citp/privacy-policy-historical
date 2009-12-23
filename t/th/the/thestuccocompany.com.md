@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestuccocompany.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035444id_/http%3A//www.thestuccocompany.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestuccocompany.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031132id_/http%3A//www.thestuccocompany.com/privacy.php) for the most accurate reproduction.*
 
 # TheStuccoCompany.com Privacy Policy
 
