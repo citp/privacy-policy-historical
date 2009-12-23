@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mt4stats.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604032815id_/http%3A//www.mt4stats.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mt4stats.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223041725id_/http%3A//www.mt4stats.com/privacy.php) for the most accurate reproduction.*
 
 # MT4 Stats - Share your MetaTrader 4 Statements with the world
 
