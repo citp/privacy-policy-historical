@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601152700id_/http%3A//www.balsamiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223042206id_/http%3A//www.balsamiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Balsamiq
 
@@ -24,7 +24,7 @@ Credit/Debit Card Information
 
 ## How We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
 We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
