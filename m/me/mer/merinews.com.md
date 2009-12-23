@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merinews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082726id_/http%3A//www.merinews.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merinews.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223044105id_/http%3A//www.merinews.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # merinews.com-Privacy Policy
 
@@ -39,6 +39,12 @@ We may aggregate the information we collect from our users and use this anonymou
 
 Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties on our site – for example, in a post, or on other areas of our site – that information can be seen, collected and used by anyone who visits the site. We cannot control and therefore cannot be responsible for any unauthorized third-party use of such information. Please respect the privacy of others by not posting their personal information on our site without their permission.  
   
+   
+Google, as a third party vendor, uses cookies to serve ads on our site.   
+   
+Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy ](http://www.google.com/privacy_ads.html).   
+   
+We also use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here ](http://www.google.com/privacy_ads.html)  
    
 **Disclosure of Information**  
    
@@ -81,12 +87,12 @@ Because the web is an evolving medium, we may need to change our Privacy Policy 
    
 **Getting in Touch With Us**  
    
-For more information, or if you have questions about this Privacy Policy, please [Contact us ](https://web.archive.org/web/20081217082726id_/http%3A//www.merinews.com/contact.jsp)  
+For more information, or if you have questions about this Privacy Policy, please [Contact us ](https://web.archive.org/web/20091223044105id_/http%3A//www.merinews.com/contact.jsp)  
    
 **Report Misconduct**  
    
 If you see something on merinews that you consider inappropriate or abusive, please let us know immediately. Click on feedback and fill the form. We will review the content to see if it meets our guidelines.   
    
 **Contact Us**  
-For more information about merinews, [Contact us](https://web.archive.org/web/20081217082726id_/http%3A//www.merinews.com/contact.jsp)  
+For more information about merinews, [Contact us](https://web.archive.org/web/20091223044105id_/http%3A//www.merinews.com/contact.jsp)  
  
