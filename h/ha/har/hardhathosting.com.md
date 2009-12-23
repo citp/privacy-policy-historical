@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622215722id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223222018id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement : Hard Hat Hosting
 
