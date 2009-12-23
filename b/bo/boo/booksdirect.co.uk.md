@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525025527id_/http%3A//www.booksdirect.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223212947id_/http%3A//www.booksdirect.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Books Direct - Privacy Policy
 
@@ -26,7 +26,7 @@ All subscribers have the option to opt-out of receiving marketing emails from us
 **Do you trade under any other names?**
 
 BCA, also known as Books Direct operates a variety of brands. For a listing of our book club and other brands, please see [www.bca.co.uk](http://www.bca.co.uk/). BCA may also from time to time launch new brands. Upon launch this listing of our brands will be updated. If you have any queries regarding this privacy statement please go to the Contact Us page where you can find several ways of submitting your questions. Alternatively, please e-mail [privacypolicy@bca.co.uk](mailto:privacypolicy@bca.co.uk).  
-BCA is registered under the Data Protection Act (Reg no Z6100513) and this shows the purpose, source and disclosure terms of the data held.  
+BCA is registered under the Data Protection Act (Reg no Z1987082) and this shows the purpose, source and disclosure terms of the data held.  
 BCA is a full member of the Direct Marketing Association (DMA). Should you have any observations or concerns you would like to bring to our attention to help us improve our service, then please let us know.
 
 Email address: [departmentdma@bca.co.uk](mailto:departmentdma@bca.co.uk "mailto:departmentdma@bca.co.uk")[](mailto:DMA@bca.co.uk)
@@ -40,19 +40,12 @@ Company Details
 **Company Name**
 
   
-Your book club is owned by BCA, a partnership of:
+Your book club is owned by Book Club Associates Limited, registered in England number 6997902. 
 
-Book Club Associates Limited, registration 2094795
+England registered office: Hargreaves Road, Swindon, Wiltshire SN25 5BG.  
 
-and
-
-Book Club Trading Limited 
-
-registration number: 3528183 
-
-England registered office: 1 Fleet Place, London EC4 7 WS for both Book Club Associates Ltd and Book Club Trading Ltd.
 
 **Address**
 
   
-BCA, Hargreaves Road, Groundwell, Swindon, SN99 9XX, England
+BCA, Hargreaves Road, Groundwell, Swindon, SN99 9XX, England.
