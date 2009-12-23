@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ahajournals.org privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620203405id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ahajournals.org privacy policy that was archived on 2009-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223033330id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -24,9 +24,8 @@
 	
 
 <link rel="shortcut icon" href="images/heart/favicon.ico">
-<script language="javascript">
-</script>
-<script language="javascript" src="/includes/sitecatalyst/sitecatalyst_util.js;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ"></script>
+
+<script language="javascript" src="/includes/sitecatalyst/sitecatalyst_util.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ"></script>
 <script language="javascript">
 function createBookmark(){
 	var params = read_querystring();
@@ -82,11 +81,12 @@ function read_querystring()
    return a_out;
    }
 </script>
-<script language="javascript" src="includes/global_functions.js;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ"></script>
+<script language="javascript" src="includes/global_functions.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ"></script>
 <!--Delicious Decisions css -->
 <link rel="stylesheet" href="includes/dd.css" type="text/css">
 <!--alert message css-->
 <link rel="stylesheet" href="includes/alertcss.css" type="text/css">
+
 
 
 
@@ -110,11 +110,11 @@ function read_querystring()
 
 <!--nashk.en-->
     <link rel="stylesheet" href="includes/heart/fonts.css" type="text/css">
-    <script language="javascript" src="includes/heart/standard.js;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ"></script>
+    <script language="javascript" src="includes/heart/standard.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ"></script>
     
-    <script language="javascript" src="includes/heart/primary_menu_builder.js;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ"></script>
+    <script language="javascript" src="includes/heart/primary_menu_builder.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ"></script>
     
-    <script language="javascript" src="includes/heart/secondary_menu_builder.js;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ"></script>
+    <script language="javascript" src="includes/heart/secondary_menu_builder.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ"></script>
 
 
 
@@ -232,9 +232,81 @@ function setgoSite()
 }
 </script>
 
+<!--START:Lightbox code:24Nov09 -->
+		
+	<link rel="stylesheet" type="text/css" href="includes/lightbox/thickbox.css">	
+	<script src="includes/lightbox/jquery-latest.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ" type="text/javascript"></script>
+	<script src="includes/lightbox/thickbox.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ" type="text/javascript"></script>
+					        
+	<script type="text/javascript"> 
+		
+	   var startDate = new Date("12/01/2009");
+	   var endDate = new Date("12/21/2009");
+	   var finalEndDate = new Date("01/01/2010"); 
+	   var today = new Date();	   
+	    
+	   function SetCookie (name,value,expires) {
+		  document.cookie = name + "=" + escape (value) +
+		    ((expires) ? "; expires=" + expires.toGMTString() : "");
+	  }	   
+
+	function showLightBox(){
+	var qryStr = read_querystring();
+	var identifier = qryStr["identifier"];
+	if(identifier == '1200000' || identifier=='1200037'){	
+		  
+		  if (today >= startDate  && today <= endDate){
+		
+			if (GetCookie('firstHit') == null) {
+			  SetCookie('firstHit', 'true', endDate);
+			  createLightBox(identifier);
+			  }
+		  }else if(today > endDate  && today<= finalEndDate){
+			createLightBox(identifier);
+		   }  
+		   else{
+		   	}
+	    }
+	}
+	   
+	function createLightBox(idString){
+		
+		if(idString == '1200000'){  
+			var lightBoxWin = "jsp/lightBox.jsp?site=Heart&keepThis=true&TB_iframe=true&height=555&width=755";
+		} else if(idString=='1200037'){
+			var lightBoxWin = "jsp/lightBox.jsp?site=Stroke&keepThis=true&TB_iframe=true&height=555&width=755";
+		}
+		tb_show(lightBoxWin); 
+	}
+
+	function getCookieVal (offset) {
+	  var endstr = document.cookie.indexOf (";", offset);
+	  if (endstr == -1) { endstr = document.cookie.length; }
+	  return unescape(document.cookie.substring(offset, endstr));
+	}
+	function GetCookie (name) {
+	  var arg = name + "=";
+	  var alen = arg.length;
+	  var clen = document.cookie.length;
+	  var i = 0;
+	  while (i < clen) {
+	    var j = i + alen;
+	    if (document.cookie.substring(i, j) == arg) {
+	      return getCookieVal (j);
+	      }
+	    i = document.cookie.indexOf(" ", i) + 1;
+	    if (i == 0) break; 
+	    }
+	  return null;
+	 }
+	 
+	</script> 
+<!--END:Lightbox code:24Nov09 -->
+
+
 </head>
 
-<body bgcolor="FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="visibility('primarymenu',1);loaded=1;">
+<body bgcolor="FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="visibility('primarymenu',1);loaded=1;showLightBox()">
 
 <!--------- BEGIN TEST CODE --------------------------------------------------------->
   
@@ -294,7 +366,7 @@ function setgoSite()
 
 <div id="searchbox_wrap">
 
-<form id="form1" name="form1" method="get" action="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ">
+<form id="form1" name="form1" method="get" action="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ">
 
 
   <input type="text" id="searchbox" size="13" value="" name="q">
@@ -319,7 +391,7 @@ function setgoSite()
 <div id="topnav">
   <ul>
 <li>
-<a href="https://donate.americanheart.org/ecommerce/aha/aha_index.jsp" onmouseover="document.donate.src='images/heart/over_donate.png'" onmouseout="document.donate.src='images/heart/normal_donate.png'">
+<a href="https://donate.americanheart.org/ecommerce/donation/donation_info.jsp;?campaignId=101&amp;site=Heart&amp;itemId=prod20008" onmouseover="document.donate.src='images/heart/over_donate.png'" onmouseout="document.donate.src='images/heart/normal_donate.png'">
 <img src="images/heart/normal_donate.png" width="70" height="24" border="0" alt="Donate" name="donate"></a></li>
 <li>
 
@@ -383,6 +455,7 @@ document.write(monthNames[now.getMonth()] + " " + now.getDate() + ", " + year);
 <script>var s_account="heartamericanheartprod";</script>
 
 <!-- SITECATALYST - END -->
+
 		
 	<!--end the header-->
 <table border="0" cellpadding="0" cellspacing="0" width="770">
@@ -400,7 +473,7 @@ document.write(monthNames[now.getMonth()] + " " + now.getDate() + ", " + year);
 						<div id="alertclosebox"><a href="#" onclick="javascript:setAlertDivCookie()"><img src="images/alert/alert_close.gif" width="11" height="11" border="0" title="Close this message"></a></div>
 						<div id="alertwrap">
 							<div id="alerttype">Alert</div>
-							<div id="TICKER" style="overflow:hidden;width:380px;" onmouseover="TICKER_PAUSED=true" onmouseout="TICKER_PAUSED=false"><a href="http://americanheart.mediaroom.com/index.php?s=43&amp;item=758">Comment from AHA's President on ADHD medications and heart risk.</a></div>
+							<div id="TICKER" style="overflow:hidden;width:380px;" onmouseover="TICKER_PAUSED=true" onmouseout="TICKER_PAUSED=false"><a href="https://donate.americanheart.org/ecommerce/donation/donation_info.jsp?campaignId=177&amp;site=Heart&amp;itemId=prod20008">Make your tax-deductible gift by December 31st!</a></div>
 						</div>
 						</div>
 						<script language="javascript">
@@ -524,7 +597,7 @@ document.write(monthNames[now.getMonth()] + " " + now.getDate() + ", " + year);
 					<table width="100" border="0" cellspacing="0" cellpadding="1">
 					  <tbody><tr valign="middle">
 					    <td width="0" align="right"><img src="/images/interface/print_icon.gif" width="17" height="17"></td>
-					    <td width="50%" class="content"><a href="/print_presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=11405" target="_print">Print</a></td>
+					    <td width="50%" class="content"><a href="/print_presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=11405" target="_print">Print</a></td>
 					    <td width="50%" class="content">&nbsp;</td>
 					    <td width="0" align="right"><img src="/images/interface/email_icon.gif" width="17" height="17"></td>
 					    <td width="50%" nowrap="" class="content">
@@ -616,11 +689,11 @@ document.write(monthNames[now.getMonth()] + " " + now.getDate() + ", " + year);
 <tbody><tr><td><img src="images/interface/spacer.gif" width="163" height="11" border="0"></td>
 <td colspan="2"><br><br>
 <table>
-<tbody><tr><td><div style="MARGIN-TOP: 50px"><font class="comment"><a class="content" href="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=11404">Privacy Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=11406">Copyright</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=3023721">Ethics Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=3023759">Conflict of Interest Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=6894">Linking Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ?identifier=3011143">Diversity</a><br>
+<tbody><tr><td><div style="MARGIN-TOP: 50px"><font class="comment"><a class="content" href="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=11404">Privacy Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=11406">Copyright</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=3071024">Ethics Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=3023759">Conflict of Interest Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=6894">Linking Policy</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ?identifier=3011143">Diversity</a><br>
 <font color="999999">© 2009 American Heart Association, Inc. All rights reserved. Unauthorized use prohibited.
 </font></font>
 </div></td><td>&nbsp;&nbsp;
-<a href="http://charityreports.bbb.org/public/seal.aspx?ID=379302003" target="_blank"><img height="105" alt="BBB" src="https://donate.americanheart.org/ecommerce/aha/images/bbb_logo.jpg" width="60" border="0"></a><br>
+<a href="http://charityreports.bbb.org/public/seal.aspx?ID=379302003" target="_blank"><img height="105" alt="BBB" src="images/heart/bbb_logo.jpg" width="60" border="0"></a><br>
 </td></tr>
 </tbody></table>
 </td></tr>
@@ -628,7 +701,7 @@ document.write(monthNames[now.getMonth()] + " " + now.getDate() + ", " + year);
 </tbody></table>
 <!-- SITECATALYST - BEGIN -->
 <script language="JavaScript" type="text/javascript">var s_account = 'heartamericanheartprod';</script>
-<script language="JavaScript" type="text/javascript" src="/includes/sitecatalyst/s_code.js;jsessionid=I3MXCBCKAYS10CQFCXQCCZQ"></script>
+<script language="JavaScript" type="text/javascript" src="/includes/sitecatalyst/s_code.js;jsessionid=2YYZMBMVS0YDACQFCXQCDSQ"></script>
 <!-- SITECATALYST - END -->
 
 
@@ -749,7 +822,7 @@ writeitem("section7menu","1","/presenter.jhtml?identifier=3047638","Cardiac Reha
 writeitem("section7menu","1","/presenter.jhtml?identifier=1516","Cholesterol","3");
 
 
-writeitem("section7menu","1","/presenter.jhtml?identifier=3058143","Congenital Heart Disease","4");
+writeitem("section7menu","1","/presenter.jhtml?identifier=3058143","Congenital Heart Defects","4");
 
 
 writeitem("section7menu","1","/presenter.jhtml?identifier=3044745","Diabetes","5");
@@ -800,7 +873,7 @@ writeitem("section8menu","1","/presenter.jhtml?identifier=3030527","Alliance for
 writeitem("section8menu","1","/presenter.jhtml?identifier=3028660","Children's Exercise &amp; Nutrition Resources","4");
 
 
-writeitem("section8menu","1","/presenter.jhtml?identifier=3061814","What Moves U","5");
+writeitem("section8menu","1","/presenter.jhtml?identifier=3061814","NFL Play 60 Challenge","5");
 
 
 writeitem("section8menu","1","/presenter.jhtml?identifier=3028667","Diseases, Conditions &amp; Treatments","6");
@@ -899,22 +972,25 @@ menubegin(11);
 writeitem("section11menu","1","http://www.capitolconnect.com/yourethecure/index.aspx","Enroll in You're the Cure Today","2");
 
 
-writeitem("section11menu","1","http://www.researchsaveslives.org","Research Saves Lives","3");
+writeitem("section11menu","1","/presenter.jhtml?identifier=3064689","Healthcare Reform","3");
 
 
-writeitem("section11menu","1","http://www.heartforwomen.org","HEART for Women","4");
+writeitem("section11menu","1","http://www.researchsaveslives.org","Research Saves Lives","4");
 
 
-writeitem("section11menu","1","/presenter.jhtml?identifier=3028706","Resource Center for Advocates","5");
+writeitem("section11menu","1","/presenter.jhtml?identifier=3068641","Obesity and Nutrition Health Policy","5");
 
 
-writeitem("section11menu","1","/presenter.jhtml?identifier=3028707","Resource Center for Policymakers","6");
+writeitem("section11menu","1","http://www.heartforwomen.org","HEART for Women","6");
 
 
-writeitem("section11menu","1","http://www.strokeassociation.org/presenter.jhtml?identifier=3042600","Stroke Advocacy Opportunities","7");
+writeitem("section11menu","1","/presenter.jhtml?identifier=3028706","Resource Center for Advocates","7");
 
 
-writeitem("section11menu","1","/presenter.jhtml?identifier=3010863","Tobacco Control Initiatives","8");
+writeitem("section11menu","1","/presenter.jhtml?identifier=3028707","Resource Center for Policymakers","8");
+
+
+writeitem("section11menu","1","http://www.strokeassociation.org/presenter.jhtml?identifier=3042600","Stroke Advocacy Opportunities","9");
 
 
 
@@ -980,7 +1056,7 @@ writeitem("section15menu","1","/presenter.jhtml?identifier=3053031","Start!","2"
 writeitem("section15menu","1","http://www.americanheart.org/presenter.jhtml?identifier=3030527","Alliance For A Healthier Generation","3");
 
 
-writeitem("section15menu","1","http://www.americanheart.org/presenter.jhtml?identifier=3030549","Power To End Stroke","4");
+writeitem("section15menu","1"," http://www.powertoendstroke.org/index.html","Power To End Stroke","4");
 
 
 
@@ -1133,7 +1209,10 @@ document.write("</div>");
      ................................................... --->
 
 
-<script>s.pageName=siteCatalystStrip(document.title+"_11405");</script>
+<script language="JavaScript" type="text/javascript">
+s.pageName=siteCatalystStrip(document.title+"_11405");
+s.prop34=s.eVar30="11405";
+</script>
 
 <!-- SiteCatalyst code version: H.17.
 Copyright 1997-2008 Omniture, Inc. More info available at
