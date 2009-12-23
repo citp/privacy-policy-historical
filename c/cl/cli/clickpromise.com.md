@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpromise.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123061856id_/http%3A//clickpromise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpromise.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223200532id_/http%3A//www.clickpromise.com/privacy.html) for the most accurate reproduction.*
 
 # ClickPromise.com - Email Marketing * List Management
 
