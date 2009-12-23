@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwardkhoo.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610052556id_/http%3A//edwardkhoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwardkhoo.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223051948id_/http%3A//edwardkhoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Your IP (that is to say, your computer’s individual identification number) wil
 
 If you choose to leave comments in the comments section then, at your option, ‘cookie’ is used to recognise you. A ‘cookie’ is a small amount of data which is send to your computer. The data is then stored on your browser or hard disk. The cookie is only activated at your request and if you wish to activate it, you may do so by indicating ‘Yes’ in the ‘Remember Me’ function which you will find in each Comments Window. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser.
 
-If you choose to leave your email address in your comments it will be viewable to other readers - you do so at your own risk of others using it for their own purposes. Leaving your email address in comments is completely optional.
+If you choose to leave your email address in your comments it will be viewable to other readers – you do so at your own risk of others using it for their own purposes. Leaving your email address in comments is completely optional.
 
 If you choose to subscribe to my Mailing List then your name and e-mail address will be stored in which information will only be used to provide you with our e-mail newsletter and similar updates and bulletins.
 
@@ -22,4 +22,4 @@ If you choose to subscribe to my Mailing List then your name and e-mail address 
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
