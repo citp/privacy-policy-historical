@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426113140id_/http%3A//www.getreading.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224220628id_/http%3A//www.getreading.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# getreading - Reading Evening Post
+# getreading - Reading Post
 
-At getreading - Reading Evening Post we collect information about our users for two main reasons:
+At getreading - Reading Post we collect information about our users for two main reasons:
 
 1\. To help us continually improve the service we offer.
 
@@ -14,7 +14,7 @@ We are absolutely committed to protecting your privacy. Our policy can be summar
 
 1\. We will continue to invest in the best quality security available and do our utmost to protect user privacy.
 
-2\. We will respect your e-mail privacy, and will send you unsolicited mail from getreading - Reading Evening Post only if you have agreed to this.
+2\. We will respect your e-mail privacy, and will send you unsolicited mail from getreading - Reading Post only if you have agreed to this.
 
 3\. We will not pass on any individual user details (including your e-mail address) unless we have your prior consent.
 
@@ -30,17 +30,17 @@ When you enter a competition or other promotional feature, we may ask for person
 
 FAQs
 
-How does getreading - Reading Evening Post protect customer information?
+How does getreading - Reading Post protect customer information?
 
 We invest in market leading security and do our upmost to protect user privacy. UK Data Protection Legislation means we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
 
-Why does getreading - Reading Evening Post use "cookies"?
+Why does getreading - Reading Post use "cookies"?
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to identify registered users without needing to ask for registration details every time you access one of our sites.
 
-Will getreading - Reading Evening Post disclose the information it collects to outside parties?
+Will getreading - Reading Post disclose the information it collects to outside parties?
 
-getreading - Reading Evening Post will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, getreading - Reading Evening Post may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. getreading - Reading Evening Post follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.
+getreading - Reading Post will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, getreading - Reading Post may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. getreading - Reading Post follow the relevant legal requirements and use all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.
 
 What if you change your policy in future?
 
@@ -48,4 +48,4 @@ Any changes to our policy will be posted here.
 
 Tell us what you think.
 
-getreading - Reading Evening Post welcomes your questions and comments. Please email [tom.canning@sabnews.co.uk](mailto:tom.canning@sabnews.co.uk)
+getreading - Reading Post welcomes your questions and comments. Please email [tom.canning@sabnews.co.uk](mailto:tom.canning@sabnews.co.uk)
