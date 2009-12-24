@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bustersports.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415065610id_/http%3A//www.bustersports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustersports.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224071413id_/http%3A//bustersports.com/privacy.html) for the most accurate reproduction.*
 
-# Buster Sports - Privacy Policy
+# Privacy Policy > Buster Sports
 
 This is the Privacy Policy for the United States of America. 
 
