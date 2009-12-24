@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspacetv.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624031525id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacetv.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224012218id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
 
 # Privacy - MySpace.com
 
