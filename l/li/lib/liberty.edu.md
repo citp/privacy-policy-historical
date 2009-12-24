@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622041414id_/http%3A//www.liberty.edu/index.cfm%3Fpid%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224113858id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
 # University Offices - Privacy Policy - Liberty University
 
@@ -30,7 +30,7 @@ We also collect information that you provide to us when using sections of our si
 Our University Web sites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. We utilize industry standard SSL encryption when accepting your credit card information during the online ordering process, as well as whenever we ask you to login to any of the University's online student and faculty services.
 
 **How We Use This Information**  
-Release of personal information is governed by FERPA (Family Educational Rights and Privacy Act of 1974). Detailed information about FERPA and the University’s disclosure of personal information can be found online in the [Liberty Way](http://www.liberty.edu/StudentAffairs/index.cfm?PID=1332).
+Release of personal information is governed by FERPA (Family Educational Rights and Privacy Act of 1974).
 
 **How To Update Your Information**  
 Our student and faculty services sites, including Admissions Gateway and ASIST, provide you with the option of changing and modifying information you have previously provided to us.
