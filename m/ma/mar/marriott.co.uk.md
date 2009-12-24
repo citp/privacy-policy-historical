@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235049id_/http%3A//www.marriott.co.uk/Channels/globalSites/privacyPolicy/default.mi%3Fcountry%3DUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224231709id_/http%3A//www.marriott.co.uk/Channels/globalSites/privacyPolicy/default.mi%3Fcountry%3DUK) for the most accurate reproduction.*
 
 # Marriott Hotels UK & Ireland: Marriott Internet Privacy Statement
 
-| Marriott has a strong commitment to providing excellent service to all of our customers and visitors of this website, including respecting your concerns about privacy. We understand that you may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern Marriott.com and other Marriott sites included within Marriott.com, which are listed in this privacy statement ("Statement").
+Marriott has a strong commitment to providing excellent service to all of our customers and visitors of this website, including respecting your concerns about privacy. We understand that you may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern Marriott.com and other Marriott sites included within Marriott.com, which are listed in this privacy statement ("Statement").
 
 This Statement contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organized this statement by major processes and areas so that you can quickly link to the information of most interest to you.
 
 At Marriott, meeting your needs and expectations form the foundation of everything we do -- including protecting your privacy.
 
-  If after reviewing this Statement you have any questions or privacy concerns please send an e-mail to [privacy@marriott.com](mailto:privacy@marriott.com) or send a letter to:
+ If after reviewing this Statement you have any questions or privacy concerns please send an e-mail to [privacy@marriott.com](mailto:privacy@marriott.com) or send a letter to:
 
   Marriott International, Inc  
 Att: Information Protection, Dept. 52.923.26  
 10400 Fernwood Road  
 Bethesda, MD 20817  
-United States of America
-
-Marriott also participates in the BBBOnLine Privacy Program. Further information about their oversight program is available at www.bbbonline.org.  
+United States of America  
   
 ---  
 | Information We Collect and How We Use It  
@@ -110,5 +108,4 @@ Marriott and its third party service providers use pixel tags (also known as “
 ---  
 Within Marriott.com are numerous other Marriott websites that are accessible from links within Marriott.com or via separate URLs. Namely, these websites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, newworldhotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplacesuites.com, conferencecenters.com, execustay.com, marriottfoundation.org, careers.marriott.com, marriottnewsroom.com, marriott.com/investor and executiveresidences.com  
   
- Back To Top  
-| 
+ Back To Top
