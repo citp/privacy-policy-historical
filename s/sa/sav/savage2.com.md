@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savage2.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622152627id_/http%3A//www.savage2.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savage2.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224143606id_/http%3A//www.savage2.com/en/privacy.html) for the most accurate reproduction.*
 
 # Savage 2 - A Tortured Soul
 
