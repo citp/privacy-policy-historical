@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bni.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152210id_/http%3A//www.bni.com/default.aspx%3Ftabid%3D749) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bni.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224130249id_/http%3A//www.bni.com/default.aspx%3Ftabid%3D749) for the most accurate reproduction.*
 
 # BNI Privacy Statement
 
