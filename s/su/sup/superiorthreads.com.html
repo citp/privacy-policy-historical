@@ -1,64 +1,87 @@
-<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619043807id_/http%3A//superiorthreads.com/private-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2009-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224134721id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en_US" xmlns="http://www.w3.org/1999/xhtml" lang="en_US"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Private Policy | Superior Threads</title>
-	<link href="/media/styles/default.css" rel="stylesheet" type="text/css">
-	<link href="/media/styles/dropmenu.css" rel="stylesheet" type="text/css"> 
-	<!-- <link href="/media/styles/superfish.css" rel="stylesheet" type="text/css" /> -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Private Policy | Superior Threads</title>
+    <link href="/media/styles/default.css" rel="stylesheet" type="text/css">
+    <link href="/media/styles/dropmenu.css" rel="stylesheet" type="text/css">
+    <!-- <link href="/media/styles/superfish.css" rel="stylesheet" type="text/css" /> -->
 
-	<!--[if gte IE 5.5000]>
-		<link href="/media/styles/ie.css" rel="stylesheet" type="text/css"></link>
-	<![endif]-->
-	<!--[if gte IE 7.0000]>
-		<link href="/media/styles/ie7.css" rel="stylesheet" type="text/css"></link>
-	<![endif]-->
-	<link rel="shortcut icon" href="/media/images/favicon.ico">
+    <!--[if gte IE 5.5000]>
+        <link href="/media/styles/ie.css" rel="stylesheet" type="text/css"></link>
+    <![endif]-->
+    <!--[if gte IE 7.0000]>
+        <link href="/media/styles/ie7.css" rel="stylesheet" type="text/css"></link>
+    <![endif]-->
+    <link rel="shortcut icon" href="/media/images/favicon.ico">
 
-	<script type="text/javascript" src="/media/scripts/jquery.js"></script>
-  	<script type="text/javascript" src="/media/scripts/jquery.cycle.all.js"></script>
-	
-	<script type="text/javascript" src="/media/scripts/jquery.cookie.js"></script>
-	<script type="text/javascript" src="/media/scripts/superfish.js"></script>
-	<!-- <script type="text/javascript" src="/media/scripts/jquery.hoverIntent.minified.js"></script> -->
-	
-	<script type="text/javascript">
-		// initialise plugins
-		jQuery(function(){
-			jQuery('ul.sf-menu').superfish({
-				autoArrows: false		
-			});
-		});
-	</script>
+    <script type="text/javascript" src="/media/global/js/jquery.js"></script>
+    <!-- <script type="text/javascript" src="/media/scripts/jquery.js"></script> -->
+    <script type="text/javascript" src="/media/scripts/jquery.cycle.all.js"></script>
+
+    <script type="text/javascript" src="/media/scripts/jquery.cookie.js"></script>
+    <!--[if lte IE 7.0000]>
+    <script type="text/javascript" src="/media/scripts/superfish.js"></script>
+    <script type="text/javascript" src="/media/scripts/jquery.hoverIntent.minified.js"></script>
+
+    <script type="text/javascript">
+        // initialise plugins
+        $(function(){
+            $('ul.sf-menu').superfish({
+                autoArrows: false
+            });
+        });
+    </script>
+    <![endif]-->
     
-	
+    
+
+<script type="text/javascript">
+    function show_hide( id )
+    {
+        var div_elm = $("#"+id+"_div")
+        var pm_elm = $("#"+id+"_plus_minus")
+
+        if ( ! div_elm.is(":visible"))
+        {
+            div_elm.show("slow")
+            pm_elm.html("-")
+        }
+        else
+        {
+            div_elm.hide("slow")
+            pm_elm.html("+")
+        }
+    }
+</script>
+
 </head>
 
 <body>
    <div id="page">
       <div id="title">
             <div id="login_container">
-				
-				
-				
-				
+                
+                
+                
+                
 
-					
-		           	<a href="/accounts/login/">Login</a> | 
-					<a href="/accounts/wizard/">Create Account</a>       
-				
-				|
-              	
-				<a href="/shop/cart/">My Cart (Empty)</a> |
-				
+                
+                       <a href="/accounts/login/">Login</a> |
+                    <a href="/accounts/wizard/">Create Account</a>
+                
+                |
+                  
+                <a href="/shop/cart/">My Cart (Empty)</a> |
+                
 
-				
-				
+                
+                
 
-               	<a href="/instructions/">Website Instructions</a>
-				
-				<br>
+                   <a href="/instructions/">Website Instructions</a>
+                
+                <br>
 
                 Language:
                 <select onchange="top.location = $(this).val()" style="line-height: 7pt; font-size: 8pt; background: #EEF; padding: 0; margin: 0; border: 1px solid darkblue;">
@@ -69,168 +92,190 @@
                     <option value="http://translate.google.com/translate?u=http://www.superiorthreads.com/private-policy/&amp;hl=en&amp;ie=UTF-8&amp;sl=en&amp;tl=de">Deutsch</option>
                 </select>
 
-				<span id="font-sizes">Font size:
-					<span id="font-normal">normal</span> 
-					<span id="font-big">big</span> 
-					<span id="font-huge">huge</span>
-					<script type="text/javascript"><!--
-					
-					$("#font-sizes span").click(function() {
-							$("#font-sizes span").attr("class", "")
-							$(this).attr("class", "selected-font")
-					})
-					setFontSize = function(size, speed) {
-						if (! size) {
-							size = 0
-						}
-						if (speed == null) {
-							speed = "fast"
-						}
-						$("#content, #full-content, #content *, #full-content *").each(function() {										
-							if (! $(this).data("original-size")) {
-								$(this).data("original-size", 
-									$(this).css("font-size"))
-							}
-							if (! size) {
-								cursize = $(this).data("original-size")
-								cursize = cursize.substring(0, cursize.length-2)
-								cursize = parseInt(cursize)
-							}
-							else {
-								cursize = size
-								oldsize = $(this).data("original-size")
-								oldsize = oldsize.substring(0, oldsize.length-2)
-								cursize += parseInt(oldsize)
-							}
-							csssize = $(this).css("font-size")
-							csssize = csssize.substring(0, csssize.length-2)
-							csssize = parseInt(csssize)
+                <span id="font-sizes">Font size:
+                    <select id="font-size">
+                        <option value="">normal</option>
+                        <option value="5">big</option>
+                        <option value="12">huge</option>
+                    </select>
+                    <!--<span id="font-normal">normal</span>
+                    <span id="font-big">big</span>
+                    <span id="font-huge">huge</span>-->
+                    <script type="text/javascript"><!--
 
-							cursize -= csssize
-							//console.log($(this).get()+": "+csssize+" => "+cursize)
-							if (cursize < 0) {
-								cursize = -cursize;
-								$(this).animate({
-									fontSize: "-="+cursize+"px"
-								}, speed)
-							} else if (cursize > 0) {
-								$(this).animate({
-									fontSize: "+="+cursize+"px"
-								}, speed )
-							}							
-						})
-						$.cookie("st-font-size", size);
-					}
-					$(function() {
-						if ($.cookie("st-font-size")) {
-							setFontSize(parseInt($.cookie("st-font-size")), 1)
-						}
-					})
+//                     $("#font-sizes span").click(function() {
+//                             $("#font-sizes span").attr("class", "")
+//                             $(this).attr("class", "selected-font")
+//                     })
 
-					$("#font-normal").click(function() {
-						setFontSize()
-					})
-					$("#font-big").click(function() {
-						setFontSize(5)
-					})
-					$("#font-huge").click(function() {
-						setFontSize(12)
-					})
+                    setFontSize = function(size, speed) {
+                        if (! size) {
+                            size = 0
+                        }
+                        if (speed == null) {
+                            speed = "fast"
+                        }
+                        $("#content, #full-content, #content *, #full-content *").each(function() {
+                            if (! $(this).data("original-size")) {
+                                $(this).data("original-size",
+                                    $(this).css("font-size"))
+                            }
+                            if (! size) {
+                                cursize = $(this).data("original-size")
+                                cursize = cursize.substring(0, cursize.length-2)
+                                cursize = parseInt(cursize)
+                            }
+                            else {
+                                cursize = size
+                                oldsize = $(this).data("original-size")
+                                oldsize = oldsize.substring(0, oldsize.length-2)
+                                cursize += parseInt(oldsize)
+                            }
+                            csssize = $(this).css("font-size")
+                            csssize = csssize.substring(0, csssize.length-2)
+                            csssize = parseInt(csssize)
 
-					//--></script>
-				</span>
-			</div><!-- login container -->
+                            cursize -= csssize
+                            //console.log($(this).get()+": "+csssize+" => "+cursize)
+                            if (cursize < 0) {
+                                cursize = -cursize;
+                                $(this).animate({
+                                    fontSize: "-="+cursize+"px"
+                                }, speed)
+                            } else if (cursize > 0) {
+                                $(this).animate({
+                                    fontSize: "+="+cursize+"px"
+                                }, speed )
+                            }
+                        })
+                        $.cookie("st-font-size", size);
+                    }
+                    $(function() {
+                        if ($.cookie("st-font-size")) {
+                            var font_size = parseInt($.cookie("st-font-size"));
+
+                            setFontSize(font_size, 1)
+
+                            $("#font-size option[value='"+ font_size +"']").attr("selected", true);
+                        }
+                    })
+
+                    $("#font-size").change(function()
+                        {
+                            var selected_font = $("#font-size option:selected").val();
+                            setFontSize(parseInt(selected_font));
+                        }
+                    )
+//                     $("#font-normal").click(function() {
+//                         setFontSize()
+//                     })
+//                     $("#font-big").click(function() {
+//                         setFontSize(5)
+//                     })
+//                     $("#font-huge").click(function() {
+//                         setFontSize(12)
+//                     })
+
+                    //--></script>
+                </span>
+            
+            </div><!-- login container -->
          <div id="homeLink">
             <a href="/">&nbsp;</a>
          </div>
          <div class="name">
-			 <h1>Superior Threads</h1>
+             <h1>Superior Threads</h1>
             <h5>(800) 499-1777</h5>
-		</div><!-- class:name -->
-	</div><!-- title -->
+        </div><!-- class:name -->
+    </div><!-- title -->
 
 
 <div id="nav">
-	<div class="menu">
-		<ul class="sf-menu sf-js-enabled sf-shadow">
-			<li class="top">
-				<a href="/shop/">Products</a>
-				<ul style="display: none; visibility: hidden;">
-					<li><a href="/shop/">All Products</a></li>
-					<li><a href="/page/331/">Product Index</a></li>
-					
-					<li><a href="/retail-price-list/">Price List</a></li>
-					
-					<li><a href="/shop/">Shipping Information</a></li>
-					<li><a href="/">Search</a></li>
-					<li><a href="/">Home</a></li>
-					<li><a href="/page/308/">Order Form</a></li>
-					<li><a href="/page/383/">About Us</a></li>
-					<li><a href="/media/docs/inventoryList.pdf">Inventory List</a></li>
-					<li><a href="/shop/cart/">Quick Order</a></li>
-					<li><a href="javascript:void(0)" onclick="window.open('/how-to-order/', null, 'location=no,menubar=no,scrollbars=no,status=no,resizable=no,width=400,height=300' )">How to Order</a></li>
+    <div class="menu">
+        <ul class="sf-menu">
+            <li class="top">
+                <a href="/shop/">Products</a>
+                <ul>
+                    <li><a href="/shop/">All Products</a></li>
+                    <li><a href="/page/331/">Product Index</a></li>
+                    
+                    <li><a href="/retail-price-list/">Price List</a></li>
+                    
+                    <li><a href="/shop/">Shipping Information</a></li>
+                    <li><a href="/">Search</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/page/308/">Order Form</a></li>
+                    <li><a href="/page/383/">About Us</a></li>
+                    <li><a href="/media/docs/inventoryList.pdf">Inventory List</a></li>
+                    <li><a href="/shop/cart/">Quick Order</a></li>
+                    <li><a href="javascript:void(0)" onclick="window.open('/how-to-order/', null, 'location=no,menubar=no,scrollbars=no,status=no,resizable=no,width=400,height=300' )">How to Order</a></li>
                <li><a href="http://flash-view.com/pub/effce75f9a/view_book.html" target="_blank">eBook Catalog</a></li>
-				</ul>
-			</li>
-			<li class="top">
-				<a href="/locate/">Store Locator&nbsp;&nbsp;</a>
-			</li>
-			<li class="top">
-				<a href="/education/">Education</a>
-				
-				<ul id="educationDown" style="display: none; visibility: hidden;">
+                </ul>
+            </li>
+            <li class="top">
+                <a href="/locate/">Store Locator&nbsp;&nbsp;</a>
+                
+            </li>
+            <li class="top">
+                <a href="/education/">Education</a>
+                
+                <ul id="educationDown">
 <li><a href="/education/search/">Search Education Topics</a></li>
 <li><a href="/education/">Education Topics</a></li>
 <li><a href="/page/389/">Seminars &amp; Workshops</a></li>
 <li><a href="/what-professionals-say/">What the Pros Say</a></li>
 <li><a href="/page/330/">Reference Guides</a></li>
-<li><a href="/education/threadology/">Superior School of Threadology</a></li>
-<li><a href="http://flash-view.com/pub/effce75f9a/view_book.html" target="_blank">eBook Catalog</a></li>
+<li><a href="/school-of-threadology/">School of Threadology</a></li>
 </ul>
-			</li>
-			<li class="top">
-				<a href="/page/205/" title="Contact Us">Contact Us</a>
-			</li>
-			<li class="top">
-				<a href="/gallery/intro/">Gallery</a>
-				<!-- <ul id="galleryDown">
+            </li>
+            <li class="top">
+                <a href="/page/205/" title="Contact Us">Contact Us</a>
+            </li>
+            <li class="top">
+                <a href="/gallery/intro/">Gallery</a>
+                <!-- <ul id="galleryDown">
 <li><a href="/gallery/">Submitted Quilts</a></li>
 <li><a href="/gallery/">Featured Artists</a></li>
 <li><a href="/gallery/">Booth Quilts</a></li>
 </ul> -->
-			</li>
-			<li class="top">
-				<a href="/newsletters/">Newsletter</a>
-			</li>
-			<li class="top">
-				<a href="#" title="Other">Other</a>
-				<ul id="otherDown" style="display: none; visibility: hidden;">
-					<li><a href="/jokes/">Bob's Superior Jokes</a></li>
-					<li><a href="/testimonials/">Customer Comments</a></li>
-					<li><a href="/page/309/">For Teachers</a></li>
-					<li><a href="/page/310/">Contests</a></li>
-					<li><a href="/page/205/">Contact us</a></li>
-					<li><a href="/page/383/">About Us</a></li>
-					<li><a href="/events/">Shows and Events</a></li>
-					<li><a href="/promote/">Link To Us</a></li>
-					<li><a href="/music/quilt-stash-song/">Quilt Stash Song</a></li>
-				</ul>
-			</li>
-			<li class="top multi-line">
-				<a href="http://superiorthreads.blogspot.com/"><span>Mother Superior's<br>BLOG</span></a>
-			</li>
-		</ul>
-	</div>
+            </li>
+            <li class="top">
+                <a href="/newsletters/">Newsletter</a>
+            </li>
+            <li class="top">
+                <a href="#" title="Other">Other</a>
+                <ul id="otherDown">
+                    <li><a href="/jokes/">Bob's Superior Jokes</a></li>
+                    <li><a href="/testimonials/">Customer Comments</a></li>
+                    <li><a href="/page/309/">For Teachers</a></li>
+                    <li><a href="/page/310/">Contests</a></li>
+                    <li><a href="/page/383/">About Us</a></li>
+                    <li><a href="/events/">Shows and Events</a></li>
+                    <li><a href="/promote/">Link To Us</a></li>
+                    <li><a href="/music/quilt-stash-song/">Quilt Stash Song</a></li>
+                    <li><a href="/forums/">Forums</a></li>
+                </ul>
+            </li>
+            <li class="top multi-line">
+                <a href="http://superiorthreads.blogspot.com/"><span>Mother Superior's<br>BLOG</span></a>
+            </li>
+        </ul>
+    </div>
 </div>
 
 
 
 <div id="full-content">
-	<ul id="breadcrumb">
-		
-	</ul>
+    <ul id="breadcrumb">
         
-	  
+    </ul>
+        
+      
+
+<div class="breadcrumbs">
+    <a href="/">Home</a> ›  Private Policy
+</div>
+
 <h2>Private Policy</h2>
 <h1>Superior Threads Privacy Policy</h1>
 <p class="MsoNormal"><span style="font-size:12.0pt;font-family:">Effective
@@ -326,11 +371,11 @@ us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p
 
 
 
-   <div id="copyright">Copyright © 2008 <a href="/">Superior Threads</a>. 
-		All Rights Reserved. 
-		<a href="http://www.websitesforquilters.com/">
-				  Web Site designed by Websites For Quilters</a>.
-		<br>
+   <div id="copyright">Copyright © 2008 <a href="/">Superior Threads</a>.
+        All Rights Reserved.
+        <a href="http://www.websitesforquilters.com/">
+                  Web Site designed by Websites For Quilters</a>.
+        <br>
       <a href="/private-policy/">Privacy Policy</a>
    </div>
 
