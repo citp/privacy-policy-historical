@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefreak.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050548id_/http%3A//www.filefreak.com/help.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefreak.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224011145id_/http%3A//www.filefreak.com/help.php%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # FileFreak.com - Free MP3 Hosting, Upload MP3s, Host Your MP3s
 
@@ -20,6 +20,10 @@ or demographic information not connected to an identified individual.
 **What Personally Identifiable Information is collected?**  
 We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
+* Notice as to the nature and scope of the collection and use of information gathered by you and any of your business partners, including third party ad networks on any of your web sites; and
+
+* Choice to an Internet user of any of your web sites to opt-out from such information collection and use, including a clear link to the NAI's opt-out page at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
 **What organizations are collecting the information?**  
 In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
@@ -30,7 +34,7 @@ We use Personally Identifiable Information to customize the Site, to make approp
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
 **How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by FileFreak.com is securely stored and is not accessible to third parties or employees of FileFreak.com except for use as indicated above.
+Personally Identifiable Information collected by FileFreak.com is securely stored and is not accessible to third parties or employees of FileFreak.com except for use as indicated above. 
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [admin@filefreak.com](mailto:admin@filefreak.com)
@@ -59,8 +63,15 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 **What happens if the Privacy Policy Changes?**  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
+**Advertising:**  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>
+
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© 2007 **FileFreak.com** , All rights reserved.  
+© 2009 **FileFreak.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
