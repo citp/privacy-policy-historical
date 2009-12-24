@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513052436id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224093332id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **  
   
   
-| **   FREE News Flashes**  
+| **   FREE News Alerts**  
 ---  
-    
+  
+  
   
   
   
@@ -124,7 +125,4 @@ Washington, DC 20006
 
 * * *
 
-|  |   
-  
-  
-
+|  | 
