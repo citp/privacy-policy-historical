@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014657id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224231614id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  |   
----|---|---  
-|  **17 October 2008**  
+  |  **22 July 2009**  
 
 
   1. **About FatSecret.com**
 
 FatSecret.com is an online diet, nutrition and weight loss community service that allows members to set up unique user profiles, create their own and follow diets and to contribute information and content to help people achieve their diet, nutrition and weight goals.  FatSecret members can view each others' profiles, communicate with other members on the service, share information, post comments and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and view performance outcomes and other activities. FatSecret members can change their profile information at any time and can control how other members and the service communicates with them. 
 
-FatSecret.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at [ privacy@fatsecret.com](mailto:privacy@fatsecret.com).
+FatSecret.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at [ privacy@fatsecret.com](mailto:privacy@fatsecret.com). 
 
   2. **Information Collection and Use by FatSecret.com**
 
@@ -19,9 +17,9 @@ FatSecret.com collects user submitted information such as name, email address, a
 
 FatSecret.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
 
-  User Profile information including members' pictures, user names and weight are displayed to people in order to facilitate user interaction in the FatSecret.com community. Email addresses are used for the purposes of inviting new friends to join FatSecret, to add users to members' interested members networks, and to send notifications related to the service. With the exception of inviting friends, adding interested members, and notifications, a user's email address is not shared or displayed to people within a user's personal network. Users within a personal network communicate on FatSecret.com with each other through the FatSecret.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, FatSecret.com allows users to search for other members using first and last name and email address.
+  User Profile information including members' pictures, user names and weight are displayed to people in order to facilitate user interaction in the FatSecret.com community. Email addresses are used for the purposes of inviting new friends to join FatSecret, to add users to members' interested members networks, and to send notifications related to the service. With the exception of inviting friends, adding interested members, and notifications, a user's email address is not shared or displayed to people within a user's personal network. Users within a personal network communicate on FatSecret.com with each other through the FatSecret.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, FatSecret.com allows users to search for other members using first and last name and email address. 
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive certain email of this type by changing their "notification" setting in the user "Account" page.
+We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive certain email of this type by changing their "notification" setting in the user "Account" page. 
 
 From time to time, FatSecret.com or a partner, may sponsor a promotion, sweepstake or contest on FatSecret.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
 
@@ -73,5 +71,4 @@ If you have any questions about this privacy statement, the practices of this si
  
 
 
-|   
-|  | 
+|  
