@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620023239id_/http%3A//dealzon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealzon.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224232121id_/http%3A//dealzon.com/privacy) for the most accurate reproduction.*
 
-# Dealzon - Coupons, deals, and more. Find the lowest prices. Updated continuously.
+# Privacy Policy - Deals and Coupons
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). Private information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -40,7 +40,3 @@ Dealzon may periodically update this policy. We will notify you about significan
 ## QUESTIONS
 
 Any questions about this Privacy Policy should be addressed to support at Dealzon.com or by mail at: Dealzon, 93 S. Jackson Street #6940, Seattle Washington 98104-2818. 
-
-**Dealzon is the deals finding robot.** He works tirelessly, endlessly, continuously, and other thingsally to find you the best deals and coupons in the universe! 
-
-[](http://twitter.com/dealzon "Dealzon on Twitter") [](http://www.facebook.com/pages/Dealzon/77156752249 "Dealzon on Facebook") [](http://dealzon.com/feed "Dealzon's Reader Feed")
