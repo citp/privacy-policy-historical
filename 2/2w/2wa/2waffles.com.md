@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 2waffles.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612063252id_/http%3A//www.2waffles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2waffles.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224085803id_/http%3A//2waffles.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
-# 2Waffles // Privacy Policy
-
-How we use the info
+# 2Waffles // Blah Blah Blah
 
 This document details important information regarding the use and disclosure of User Data collected on 2Waffles   
 The security of your Data is very important to 2Waffles and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.  
@@ -61,7 +59,7 @@ Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.fairyshare.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.fairyshare.com has no access to or control over these cookies that are used by third-party advertisers. 
+2Waffles has no access to or control over these cookies that are used by third-party advertisers. 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.fairyshare.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
