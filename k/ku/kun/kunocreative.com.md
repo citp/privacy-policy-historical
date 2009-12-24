@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626115737id_/http%3A//www.kunocreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224064941id_/http%3A//www.kunocreative.com/about/privacy) for the most accurate reproduction.*
 
-# Kuno Creative | Strategic Marketing | Privacy Policy
+# Inbound Marketing Company | Brand Marketing Firm | Privacy Policy
 
-## We recognize that privacy and confidentiality are important to our clients. This page describes in detail the privacy practices that apply for all of our Strategic Marketing services.
+### We recognize that privacy and confidentiality are important to our clients. This page describes in detail the privacy practices that apply for all of our Strategic Marketing services.
 
 Confidentiality  
 All of all clients records are considered confidential. Strategies, documents, graphic concepts, proposals and related materials are not considered public information. Design work for completed project may be displayed only as examples of work either on our web site or in printed form.
