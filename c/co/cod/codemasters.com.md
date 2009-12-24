@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemasters.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522192440id_/http%3A//www.codemasters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemasters.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224011752id_/http%3A//www.codemasters.com/privacy-policy) for the most accurate reproduction.*
 
 # Codemasters
 
@@ -30,7 +30,7 @@ By submitting your information you consent to the use of that information as set
 
 From time to time, this Site may include links to other web sites. We may not be operating the linked sites and we do not endorse the contents, views or products of the linked sites. We do not accept any responsibility for use of the linked sites. You are advised to use linked sites with caution and with due regard to any terms of use on those sites. If you transfer to other sites by using a link from our Site to theirs we may receive aggregate or otherwise anonymous statistical information about your trip and any purchases you may make on those sites. We are not responsible for the privacy policies or content of other web sites and your visit to those sites is not protected by our privacy policy.   
 WE TAKE PRECAUTIONS WITH CUSTOMER INFORMATION AND PERSONAL DATA, HOWEVER, EXCEPT IN THE CASE OF DEATH OR PERSONAL INJURY RESULTING FROM OUR NEGLIGENCE, WE DO NOT ACCEPT RESPONSIBILITY FOR ANY LOSS OR DAMAGE RESULTING FROM ANY SECURITY BREACHES THAT MAY OCCUR.   
-It is important for you to let us know if you think that the data we have about you is inaccurate or incomplete. You may remove, change or modify information from our database by emailing: 
+It is important for you to let us know if you think that the data we have about you is inaccurate or incomplete. You may change or modify information from our database by either logging in to the account at the following URL: www.codemasters.com/codem/ and selecting “update profile” from the top-right corner of the screen, or by emailing: 
 
 custservice@codemasters.com 
 
