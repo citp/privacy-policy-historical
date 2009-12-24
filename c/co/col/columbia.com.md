@@ -1,68 +1,63 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401061128id_/http%3A//www.columbia.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224081808id_/http%3A//www.columbia.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Columbia Sportswear: Privacy Policy
+# Columbia Sportswear | Privacy Policy
 
-**PRIVACY POLICY  
-Last Updated: February 2005 **
+**COLUMBIA SPORTSWEAR PRIVACY POLICY**
 
-Columbia Sportswear Company understands that its customers and web site visitors care about how personal information is gathered and used. We appreciate that you trust us to act carefully and responsibly with your personal information. 
+**Last Updated: July 1, 2009**
 
-**Policy.** This Privacy Policy describes Columbia Sportswear's privacy practices with respect to individuals, and explains the choices you have about the way your information is collected and used. It also explains the security measures taken by Columbia Sportswear to protect your personally identifiable information, and how you may contact us with any questions or concerns regarding this Privacy Policy. Please review this Privacy Policy periodically for current information, as it may be updated from time to time. 
+This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Columbia Sportswear Company and its subsidiaries and affiliated companies, including Mountain Hardwear and Sorel ("Columbia" or "We"). Unless we otherwise indicate, this Policy applies to all personal information collected by Columbia from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy. 
 
-**Links.** The Columbia Sportswear web site may contain links to other sites. Please read each site's privacy policy carefully, since it may differ significantly from this Privacy Policy. Columbia Sportswear is not responsible for the privacy policies, content or practices of other sites.
+**PERSONAL INFORMATION COLLECTED**
 
-**Personal Information.** Columbia Sportswear does not collect personally identifiable information from you unless you voluntarily provide it to us. Columbia Sportswear may ask you to provide personally identifiable information such as your name, address, and date of birth when:
+We collect information from you in various ways. We collect personal information you directly provide to us online, in our stores and through your other interactions with us. For example, we collect your name, email address, postal address, phone number, fax number, demographics and other information you provide us or allow us to collect from you. We also collect credit card numbers if you purchase our products and services.We may also obtain information from other sources and combine that with information we collect from you. 
 
-· you register to receive information from Columbia Sportswear and its affiliates;  
-· you send questions, comments, or other messages to Columbia Sportswear;  
-· you request specific information, materials, or warranty service; or  
-· you participate in surveys, promotions, premiums, or contests.   
+When you visit our Sites, some information is automatically collected. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses are logged automatically. We also collect information about your usage and activity on our Sites. 
 
+Cookies. We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a Web site. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. If you set your browser not to accept cookies or if you reject a cookie, it may affect certain features or services of our Sites. 
 
-Columbia Sportswear may use your personally identifiable information to:
+Web Beacons. We may collect information using Web beacons. Web beacons, or "gifs," are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. 
 
-· register you in programs;   
-· create and maintain accounts;   
-· provide you with information related to your account and your purchases;   
-· respond to your messages, questions and requests;   
-· better understand your needs and interests;   
-· improve our products and services; or  
-· otherwise fulfill the purpose for which you provided the information.   
+We use third party cookies and web beacons to help us compile aggregated statistics about our Sites. We receive assurances from those third parties that they will not collect or access your personal information on our Sites. 
 
+**USE OF PERSONAL INFORMATION WE COLLECT**
 
-Columbia Sportswear and its licensees and affiliates may also use your personally identifiable information to send you (via regular or electronic mail) special offers and product information that may be of interest to you. You will have an opportunity to "opt out" of receiving such promotional messages when you provide personal information to us online and when we send promotional messages addressed directly to you.
+We use personal information we collect for purposes described in this Policy or as disclosed to you in other ways including on our Sites, in our stores, or in connection with our services. For example, we may use your information to:  
+• provide and deliver products and services;  
+• send you information related to products and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;  
+• communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Columbia and our selected partners;  
+• operate and improve our Sites and services;  
+• process and deliver contest entries and rewards;  
+• manage and administer our community features and member programs and services;  
+• respond to your comments and questions and provide customer service;  
+• link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service. 
 
-**Children's Personal Information**. The Columbia Sportswear website is not targeted at children. Columbia Sportswear does not knowingly collect information from individuals under the age of 13. If we determine that we have unintentionally collected personally identifiable information from an individual under the age of 13, we will delete it from our databases and will not use or share the information.
+Columbia may store and process personal information in the United States and other countries. 
 
-**Disclosure of Personal Information.** The personally identifiable information that you provide to Columbia Sportswear will not be sold or shared with others outside of Columbia Sportswear except under the following limited circumstances:
+**SHARING OF PERSONAL INFORMATION**
 
-· The information is shared in aggregate, non-personal form (such as a collection of visitor demographic statistics).   
-· The third party assists Columbia Sportswear in the processing of orders and the delivery of products or services to you.   
-· The information is shared with a company that is more than 50% owned by Columbia Sportswear, or is licensed to provide Columbia Sportswear branded products and services. We require these companies to use shared information only for the same purposes permitted by Columbia Sportswear under this Privacy Policy.   
-· You specifically authorize Columbia Sportswear to share your personal information with the third party.   
-· It is necessary or advisable to verify information that you provide to Columbia Sportswear.   
-· It is in connection with an audit of Columbia Sportswear.   
-· Columbia Sportswear believes that it is required to do so by applicable law or regulation, or that it is otherwise necessary or advisable to ensure the safety, health, or life of people or property.   
-· It is to assist Columbia Sportswear in sending messages regarding products and services that it or a third party offers that may be of interest to you.   
-· If Columbia Sportswear goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, your personal information will usually be part of the assets transferred. Thirty (30) days advance notice of such a transfer will be posted on the Columbia Sportswear Web site, and any transferee will be subject to the terms of this Privacy Policy.   
+Certain sections of our Sites are designed as open and public community areas for connecting and sharing with other people. When you sign up for or participate in these areas you will be asked to provide certain information that may be displayed publicly along with photos, stories, posts, and other information you choose to provide. We may also post or publish your information when you submit comments, stories, photos, and videos in connection with surveys, contests, sweepstakes, or promotions offered on the Sites. 
 
+We do not otherwise share your personal information with third parties except as follows:  
+• in an aggregated or anonymized form that does not directly identify you;  
+• with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;   
+• with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;  
+• to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of Columbia our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and  
+• in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company. 
 
-Non-Personal Information. Columbia Sportswear automatically collects and stores certain non-personally identifiable information about you when you visit its web site. This information may include your number of login attempts, the domain name from which you access the Internet, your browser type, the date and time that you accessed this site, the length of site visits, the Internet address of any website from which you linked directly to this site, and the particular items or pages that you viewed or downloaded during your visit. From time to time, Columbia Sportswear may also ask you to provide other anonymous demographic information, such as your age, gender, and interests. 
+**SECURITY OF YOUR PERSONAL INFORMATION**
 
-Columbia Sportswear uses non-personally identifiable information in any way that it determines is useful to it, including to maintain and improve the quality of its products and services and to offer information and promotions.
+Columbia takes reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-**Cookies.** A "cookie" is a small text file containing a unique identification number that is transferred from a site like the Columbia Sportswear web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the site. If your browser accepts "cookies," Columbia Sportswear may use both persistent and session ID cookies to determine if you are a repeat or new visitor; to understand how many different visitors come to this site; to personalize your information on future visits; to offer you information that is appropriate to your demographics interests, and preferences; to monitor and improve its services to you; and to facilitate your shopping session. You can usually modify your browser to decline cookies at your preference, however, declining cookies may limit your ability to receive the benefit of all of the features of this site.
+**YOUR INFORMATION CHOICES AND CHANGES**
 
-**Change to Use of Information**. If any material change is made in the way in which we use the personally identifiable information that you previously provided to us, Columbia Sportswear will notify you of the change and provide you with an opportunity to "opt out" of having your information used for a different purpose. We will also update this Privacy Policy as changes are made going forward by posting the change on the Columbia Sportswear website.
-
-**Security.** Your personally identifiable information is stored on computer servers in a controlled environment, reasonably protected from unauthorized access, misuse, alteration or disclosure. Although Columbia Sportswear strives to secure your personally identifiable information with the same degree of care that it secures its own confidential information, there can be no assurances that your information will remain confidential. Storage and processing may take place in the United States or in any other country where Columbia Sportswear or its affiliates maintain facilities. By using the Columbia Sportswear web site or otherwise providing information to us, you consent to any such transfer of information outside of your country.
-
-**No Liability.** As explained in the Terms and Conditions of Use, IN NO EVENT WILL COLUMBIA SPORTSWEAR BE LIABLE TO YOU FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY OR SPECIAL DAMAGES RESULTING FROM YOUR USE OF THIS SITE OR PROVISION OF INFORMATION TO COLUMBIA, INCLUDING ANY FAILURE BY COLUMBIA OR AN AFFILIATE TO COMPLY WITH THIS PRIVACY POLICY, EVEN IF COLUMBIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. APPLICABLE LAW MAY NOT ALLOW THE ABOVE LIMITATION OR EXCLUSION OF LIABILITY, SO THIS SECTION MAY NOT APPLY TO YOU.
-
-**For More Information.** To review or update your personally identifiable information, to obtain information regarding the personally identifiable information that we shared, if any, with other businesses for their own marketing purposes during the prior calendar year, to opt out of receiving future marketing messages, or if you have any other questions or comments regarding Columbia Sportswear, please write to us at:
+You may opt out of receiving promotional emails from Columbia by following the instructions in those emails. If you choose to opt out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information or our Policy or privacy practices by writing us at: 
 
 **Columbia Sportswear Company  
-Attn: Webmaster  
+Attn: Ecommerce  
 14375 N.W. Science Park Dr.  
-Portland, OR 97229  
-**
+Portland, OR 97229**
+
+**CHANGES TO THIS POLICY**
+
+Columbia may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above.
