@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625115842id_/http%3A//www.internetbrands.com/ib/privacy/employment-database%3Fsite%3Dwww.groovejob.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224110101id_/http%3A//www.internetbrands.com/ib/privacy/employment-database%3Fsite%3Dwww.groovejob.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
 www.groovejob.com ("Site")
 
-Privacy Statement
+Privacy Statement test
 
 We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
@@ -24,7 +24,7 @@ If you choose to transmit, submit or post information through the Forums, we wil
 
 Your Profile
 
-The Site collects personally identifiable information from users when you create a profile or account, when you use certain products or services, and when you enter promotions or contests. Personal information is collected by specifically requesting it from you. We use this personal information only for the specific purpose specified at the time you input such information. For example, by using various features of the Site, we may need to collect your name, address, social security number, and telephone numbers. Email addresses, licensure, certifications, education, and/or employment history, dates available to travel, eligibility to work in the United States, legal history, other occupations and any comments related to this data.
+The Site collects personally identifiable information from users when you create a profile or account, when you use certain products or services, and when you enter promotions or contests. Personal information is collected by specifically requesting it from you. We use this personal information only for the specific purpose specified at the time you input such information. For example, by using various features of the Site, we may need to collect your name, address, social security number, and telephone numbers. Email addresses, licensure, certifications, education, and/or employment history, dates available to travel, eligibility to work in the United States, legal history, other occupations and any comments related to this data. test
 
 Since the Site is a career site, we give you the option of creating a profile and storing it in our database. You may use this profile to apply for a job online. Please note that once you submit your resume/profile to a potential employer, we and our affiliates disclaim all liability for distribution of your resume/profile data. Please refer to the Terms of Use for additional information on this topic.
 
