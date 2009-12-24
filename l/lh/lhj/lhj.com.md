@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhj.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604191749id_/http%3A//www.lhj.com/lhj/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhj.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224210453id_/http%3A//www.lhj.com/lhj/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # 
 
