@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193247id_/http%3A//www.goodprint.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224143156id_/http%3A//www.goodprint.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Business Cards | Business Card Templates | Online Business Cards
 
