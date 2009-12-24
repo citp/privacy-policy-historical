@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415003803id_/http%3A//www.huntonprivacyblog.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224233241id_/http%3A//www.huntonprivacyblog.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice : Privacy & Information Security Law Blog
+# Privacy Policy : Privacy & Information Security Law Blog
 
 Effective Date: January 6, 2008
 
