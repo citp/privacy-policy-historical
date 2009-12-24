@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angellearning.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080929id_/http%3A//www.angellearning.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angellearning.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224201618id_/http%3A//www.angellearning.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ANGEL Learning -- Privacy Policy
 
@@ -49,4 +49,4 @@ ANGEL Learning will occasionally update this Privacy Policy. When we do, we will
 
 ANGEL Learning welcomes your comments regarding this Statement of Privacy, please contact us by em-mail at [info@angellearning.com](mailto:info@angellearning.com), or postal mail.
 
-Copyright © 2009 ANGEL Learning. All rights reserved.
+Copyright © 2009 ANGEL Learning. All rights reserved. U.S. Patent Numbers: 6,988,138; 7,493,396, 7,558,853.
