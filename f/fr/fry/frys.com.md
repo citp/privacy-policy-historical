@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620153058id_/http%3A//shop2.frys.com/regular.jsp%3F/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224053500id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.*
 
 # FRYS.com
 
-|  |  ****Shopping Assistance****  
+|  ****Shopping Assistance****  
   
 ---  
 [](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts) | [**Finding Products**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts)  
@@ -50,27 +50,24 @@ If you use Frys.com's "Tell a Friend" feature, we will use the email address per
 
 
 **Promotional Emails**  
-If you no longer wish to receive promotional emails, please follow the unsubscribe instructions located at the bottom of the email or send an email to [remove@outpost.com](mailto:remove@outpost.com) You will continue to receive service emails related to your order status.
+If you no longer wish to receive promotional emails, please follow the unsubscribe instructions located at the bottom of the email or  [click here](http://www.frys.com/email/unsubscribe.jsp) You will continue to receive service emails related to your order status.
 
 **Our Partners**  
-If you do not wish to be contacted directly in the future by any of our partners, send a blank email to
+If you do not wish to be contacted directly in the future by any of our partners, send an email to
 
-[onlyoutpost@outpost.com](mailto:onlyoutpost@outpost.com). Be sure to send an email from all email addresses on file with Frys.com. If you use more than one email address to shop with Frys.com, be sure to send an email from each address.
+[service@cs.frys.com](mailto:service@cs.frys.com). If you use more than one email address to shop with Frys.com, be sure to send an email from each address.
 
  **Third Parties  
-** Frys.com does not sell, trade or rent your personal information to others. In the future we may choose to do so with trustworthy third parties. If you do not want your information shared in this manner, please send a blank email to [never@outpost.com](mailto:never@outpost.com).  If you use more than one email address to shop with Frys.com, be sure to send an email from each address.
+** Frys.com does not sell, trade or rent your personal information to others. In the future we may choose to do so with trustworthy third parties. If you do not want your information shared in this manner, please send an email to [service@cs.frys.com](mailto:service@cs.frys.com).  If you use more than one email address to shop with Frys.com, be sure to send an email from each address.
 
   
 By creating an Express Account, you will have immediate access to your billing and contact information, allowing you to update that information whenever necessary.
 
 If you choose not to create an Express Account, you will be able to change information by contacting our Customer Service department by phone: 1.877.688.7678, or by email:
 
-[service@cs.frys.com/a>.](mailto:service@outpost.com)
+[service@cs.frys.com](mailto:service@cs.frys.com).
 
-[ ](mailto:service@outpost.com)
-
-  
-If at some point in the future there is a change to our information practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of that message, you will be able to opt-out of this information usage by sending an email message to [ never@outpost.com](mailto:never@outpost.com) . You should also check this posted privacy statement for changes. This Privacy Policy is effective April 1st, 2005. If you have any questions regarding this policy, please contact us: [policy@outpost.com](mailto:policy@outpost.com).
+If at some point in the future there is a change to our information practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of that message, you will be able to opt-out of this information usage by sending an email message to [ service@cs.frys.com](mailto:service@cs.frys.com) . You should also check this posted privacy statement for changes. This Privacy Policy is effective April 1st, 2005. If you have any questions regarding this policy, please contact us: [service@cs.frys.com](mailto:service@cs.frys.com).
 
 As an AOL Certified Merchant, we have agreed to abide by AOL's privacy policy. To read the policy, click here. In addition, Frys.com complies with COPPA.
 
