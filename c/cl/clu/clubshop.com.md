@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubshop.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611145111id_/http%3A//www.clubshop.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubshop.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224031407id_/http%3A//www.clubshop.com/privacy.xml) for the most accurate reproduction.*
 
 # ClubShop Online Shopping Mall - Trust the ClubShop Online Shopping Mall with your information because your privacy and personal information is completed protected and secure
 
@@ -19,7 +19,7 @@ Therefore, as a visitor to Clubshop.com you have the right to understand our inf
 ClubShop.com collects PI that you voluntarily provide to us as well as certain technical information from your computer each time you request a page at Clubshop.com sites. This technical information is collected from your computer's web browser and may include your IP address, operating system, web browser software (i.e. Netscape Navigator or Internet Explorer), screen resolution and referrer web site.
 
  **Who we share your information with**  
-ClubShop.com will only share your contact information with your Membership Coordinators and Team Coaches and with our authorized product and service providers as necessary, in order to complete a transaction that you specifically request. We do not share or sell any of your PI with anyone else - your privacy is completed protected. 
+The DHS Club may share your contact information with your originating sponsor or a sponsor assigned to you (name, ID number, email address, mailing address, and phone number) and your upline and/or downline Team for communications (name, ID number and e-mail address) and our authorized product and service providers as necessary in order to complete a transaction that you specifically request. 
 
 **Other Web sites**  
 There are places throughout ClubShop.com websites that may link you to other web sites that do not operate under ClubShop.com's information privacy practices. When you click through to these web sites, ClubShop.com's information privacy practices no longer apply. We recommend that you examine the privacy statements for all third party Web sites to understand their procedures for collecting, using, and disclosing your information. These third party websites include, but are not limited to ClubShop.com Mall Stores, Service Providers and Vendors.
