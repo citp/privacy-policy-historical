@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215124436id_/http%3A//www.newstatesman.com/nsprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224084427id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
 
 # New Statesman - Privacy Policy
 
