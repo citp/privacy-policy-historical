@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626022741id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drlam.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224230513id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -92,7 +92,7 @@ Ask me for FREE!
 Free Newsletter
 
   
-Sign up for my period newsletters: 
+Sign up for my newsletters: 
 
 You can also [CALL ME FOR FREE](http://www.drlam.com/askme.asp)  
   
