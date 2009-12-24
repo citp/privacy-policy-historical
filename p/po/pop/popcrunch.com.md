@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513000138id_/http%3A//sea-waves.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224034010id_/http%3A//sea-waves.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
