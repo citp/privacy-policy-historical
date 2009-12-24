@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626022128id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224223052id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
 
 # Principal.com - Online Privacy Policies - Information Privacy
 
-_Effective October 2008_
+_Effective November 2009_
 
-[ ](http://smpconsole.cybertrust.com/certinfo/certified.do?CERTID=042301300)
+[ ](https://smp-01.verizonbusiness.com/certinfo/certified.do?CERTID=042301300)
 
 The Principal Financial Group® understands that Visitors to this Web site are concerned about the privacy of information. The following summarizes our privacy policies with respect to personally identifiable information that we collect through this Web site about individuals who use or visit this Web site. It also identifies the categories of third party persons or entities with which we share the collected personally identifiable information. More detailed policy and security statements can be found by following the links on the left and within the summaries below. 
 
@@ -38,7 +38,11 @@ For individuals that login as representatives of a business or corporate account
 
 #### Safeguarding of Personally Identifiable Information
 
-The Principal Financial Group understands the importance of appropriately safeguarding the personally identifiable information we obtain in the course of business operations. It is our practice to protect the confidentiality of this information, limit access to this information to those with a business need, and to not disclose Social Security numbers unless required or permitted by law. 
+The Principal Financial Group understands the importance of appropriately safeguarding the personally identifiable information we obtain in the course of business operations. The Principal Financial Group may collect Social Security numbers in the course of its business activities. It is our practice to protect the confidentiality of this information, limit access to this information to those with a business need, and to not disclose Social Security numbers unless required or permitted by law. 
+
+#### Children's Online Privacy Protection 
+
+The Principal Financial Group Web sites are not directed toward children. We do not knowingly collect or post information from children under the age of 13. You can learn more about children's privacy and the Children's Online Privacy Protection Act (COPPA) at the Federal Trade Commission's website.
 
 Return to top
 
@@ -68,7 +72,7 @@ Return to top
 
 ## Do-Not-Call Requests
 
-The Principal® complies with all Federal regulations related to Do-Not-Call or Do-Not-E-mail requests by customers. We will not call customers for the purpose of product sales who have specifically asked to be put on the our Do-Not-Call list. We retain the right to contact any customer for service-related issues. If you do not wish to be contacted by phone, you can indicate this on the [Do Not Contact form](https://web.archive.org/https.secure02/forms/corporate/donotcontact.htm).
+The Principal® complies with all Federal regulations related to Do-Not-Call or Do-Not-E-mail requests by customers. We will not call customers for the purpose of product sales who have specifically asked to be put on the Do-Not-Call list. We retain the right to contact any customer for service-related issues. If you do not wish to be contacted by phone, you can indicate this on the [Do Not Contact form](https://web.archive.org/https.secure02/forms/corporate/donotcontact.htm).
 
 Return to top
 
