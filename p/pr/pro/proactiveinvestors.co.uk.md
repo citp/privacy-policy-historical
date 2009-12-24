@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191824id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224095450id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy
+# Proactive Investors - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy
 
 ## Proactiveinvestors.co.uk
 
