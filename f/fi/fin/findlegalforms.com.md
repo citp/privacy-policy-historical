@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618014721id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224041033id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # - FindLegalForms.com
 
