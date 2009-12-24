@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basecamphq.com privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225085208id_/http%3A//www.basecamphq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basecamphq.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224045544id_/http%3A//basecamphq.com/privacy) for the most accurate reproduction.*
 
 # Basecamp Privacy Policy
 
