@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622031438id_/http%3A//www.thecloud.net/more-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224214728id_/http%3A//www.thecloud.net/more-information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • The Cloud
 
@@ -24,14 +24,16 @@ If the reason you have given us personal information is to receive e-mail inform
 
 If you decide at any time that you no longer wish to receive marketing e-mails from us, please contact:  
 Data Protection Compliance Officer  
-54-58 Bartholomew Close  
-London EC1A 7HP  
+Third Floor,   
+Victoria Square,   
+St. Albans AL1 3TF  
 or: webmaster@thecloud.net
 
 What if you think we have incorrect information or you would like a copy of the information we hold about you? We will provide details of any personal information held about you upon request. A small fee will be payable. If you would like a copy of the information held on you please write to:  
 Data Protection Compliance Officer  
-54-58 Bartholomew Close  
-London EC1A 7HP  
+Third Floor,   
+Victoria Square,   
+St. Albans AL1 3TF  
 or: webmaster@thecloud.net
 
 If you believe that any information we are holding on you is incorrect or incomplete, please e-mail us as soon as possible at webmaster@thecloud.net. We will correct or update any information which is found to be incorrect as soon as possible.
