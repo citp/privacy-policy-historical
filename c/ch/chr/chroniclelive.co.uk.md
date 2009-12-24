@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621163108id_/http%3A//www.chroniclelive.co.uk/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224072921id_/http%3A//www.chroniclelive.co.uk/sitemap/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChronicleLive
-
-PRIVACY POLICY 
 
 ## IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WEST & NORTH WALES LIMITED HERE ON THIS WEB SITE
 
