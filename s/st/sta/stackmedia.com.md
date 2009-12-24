@@ -1,64 +1,75 @@
-> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512040341id_/http%3A//www.stackmedia.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224220651id_/http%3A//www.stackmedia.com/privacy.html) for the most accurate reproduction.*
 
-# StackPhone - Bridging you to the rest of the world.
-
-## Privacy policy 
-
-Information we collect
-    StackPhone may collect information, including your name, address, telephone number, email address and credit card information. We collect all or some of this information when you: 
-
-  * Place an order online or by phone
-  * Participate in a survey or contest.
-  * Request to receive email updates or promotions
-  * Create an account and/or save your information with us online
-  * Are referred to us through a marketing promotion
-
-In the course of any sales transaction with StackPhone, we will transfer your information to your credit card company for confirmation and completion of your purchase. In some cases, your shipping address might be transferred to a third-party fulfillment center solely for the purpose of shipping your order. 
-What we do with your information
-     When you place an order through StackPhone, we use your personal information to process your order, and contact you with any questions via phone, email, or postal mail.  
-Additionally, when you create an account with StackPhone and/or make a purchase with us, we will send you information regarding our promotions, products, and services. If you enter your information in response to any of our contests or promotions we will use your personal information (email, phone number, or postal address) to send you information regarding our other promotions, products, services, and contests, unless you opt-out within your Account Preferences. On occasion, we might use your information to contact you to learn about your experiences with StackPhone and to conduct our own market research.
-Information we share with others and your privacy rights
-    If you opt-in to receiving information from selected third-parties, StackPhone may share your personal information with a third-party organization. You would only be contacted by this third-party organization in order to inform you about offers and promotions that might be of interest to you.  
-In the event that StackPhone is sold, in part or in total, we will disclose your personal information to the purchaser, pending adherence to the terms and conditions of this privacy policy.  
-As required by law, StackPhone has the right to disclose information about you in response to law enforcement requests or the legal process. Additionally, we retain these rights in order to protect the interest and assets of StackPhone.
-Your choices
-    At any point, you may review, change or delete parts of your personal information by accessing your account online. Simply log-in via the "My Account" section on StackPhone's site and you will be able to edit your information. If you prefer, you may contact our Customer Service Team via phone to update your information at any time.   
-If you choose at any time to no longer receive communications from StackPhone, either by email, telephone, or postal mail, simply contact us at the address below or unsubscribe by clicking on the link provided in each email communication provided by us or simply email [unsubscribe@StackPhone.com](mailto:unsubscribe@StackPhone.com).
-
-StackPhone Customer Service Department
-
-Phone: 1-866-460-9565  
-Fax: 1-866-460-9566 
-
-Email: [CustomerCare@StackPhone.com](mailto:CustomerCare@StackPhone.com)
-
-How we use email
-    When you provide StackPhone with your email address, expect to receive emails from us responding to your request or with information necessary to process your order. After placing your order with us, you will receive an email confirmation.  
-StackPhone sends promotional emails, on occasion, to those individuals who have agreed to receive it. If you choose at any time to no longer receive email communications from StackPhone, simply unsubscribe by clicking on the link provided in each email communication provided by us. 
-Links to other sites
-    From time to time, StackPhone may choose to provide links to relevant third-party websites. These websites work independently from StackPhone and have their own established privacy and security policies. We encourage you to research these policies before providing your personal information. StackPhone is not responsible for the content or practices of any linked websites, and provides links only for the convenience and information of our visitors.
-Updating or reviewing your information
-    To update your personal information you may access your account online. Simply log-in via the "My Account" section on StackPhone's site and you will be able to edit your information. In an effort to keep your information private, we will validate your identity prior to you updating or reviewing your information.
-Security
-    StackPhone is committed to keeping your personal information secure, and makes every effort to protect against its loss, misusage, or alteration. To protect your data, we use a variety of technologies and processes. Additionally, StackPhone provides only the information necessary to our outside companies, in order for them to fulfill their responsibilities.  
-StackPhone protects & encrypts your order information using Secure Sockets Layer (SSL) technology as it is transmitted over the Internet. If your browser or firewall does not support SSL, you will not be able to place an order online at StackPhone. If you are not able to access our secure server for any reason, our customer service team would be happy to assist you via phone.
-Privacy of children on our website
-    Children should always ask their parents for permission before providing any personal information online (such as their names, email addresses, and phone numbers) to us or to anyone else. No information should be submitted or posted on this site by any Minor (a guest under 18 years of age).  
-Minors are not allowed to participate in any of our contests or promotions.
-Policy changes
-    On occasion, we will change our privacy policy to reflect modifications in our use of your information. Any changes will be posted to this privacy policy on our website. We encourage you to check back occasionally for updates to our policies.
-Questions or comments?
-    If you have any questions regarding this privacy policy, please contact StackPhone's customer service team at [CustomerCare@StackPhone.com](mailto:CustomerCare@StackPhone.com) or 1-866-460-9690.
-
-## international Rates
-
-Rate/Min.
-
-* Rates are subject to change without notice.
-
-[](https://web.archive.org/web/20090512040341id_/http%3A//www.stackmedia.com/softphone.exe "Download Softphone")
-
-[](https://web.archive.org/web/20090512040341id_/http%3A//www.stackmedia.com/local_access_number.php "Local Access Number Search")
+# ..:: STACKMEDIA TV ::..
 
   
+Privacy Policy
 
+Thank you for visiting stackmedia.com. Your privacy rights are important to us. To allow you to make an informed decision concerning your privacy, we are providing this privacy policy as a means of explaining our online information practices and any choices you can make about the way your information is collected and handled.
+
+You Are Giving Your Consent…  
+By accessing our site, you consent to our right to collect and use the information described in this Privacy Policy. Any changes to this Privacy Policy will be reflected on this page.
+
+Data Protection and Privacy Policy for stackmedia.com
+
+Please find below our privacy policy for stackmedia.com which shall be deemed to be incorporated into these terms and conditions. We are StackMedia and our registered address is 17011 Beach Blvd. Suite 1440 Huntington Beach, CA 92647. stackmedia.com takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of one of our distribution feeds. Those distribution feeds will include our website, our WAP, PDA and digital TV services and other feeds as they evolve. If this policy changes then we will let you know via stackmedia.com homepage.
+
+When do we collect data?
+
+We can collect data on you from a variety of different sources these include.
+
+1\. When you purchase products or services from the site or via any of our other distribution feeds.  
+2\. When you become a subscriber;  
+3\. When you speak to our customer services personnel;  
+4\. Via explicit data capture measures, for example by entering competitions and completing surveys;  
+5\. Via implicit data capture measures such as studying which pages you read the most and the use of cookies.
+
+In any of the above cases the data we collect could be personal data.
+
+What do we do with your personal information?
+
+When you buy anything via the site or give us any personal data as indicated above, we may need to collect information about you to process the transaction, fulfill your order and provide you with the services you expect then and in the future. This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details.
+
+Unless we have your express consent we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us. This is of course subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data.
+
+By becoming a subscriber you consent to receive from us by e-mail our e-newsletter and details of other special offers which we may think may be of interest to you.
+
+stackmedia.com retains and uses your personal information to provide you with the best remote commerce (including electronic and mobile commerce) experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. We may also use the information to process any transactions you undertake with us and for internal administration and analysis. For quality assurance and training reasons we record most of the calls you make to us.
+
+We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent.
+
+For any of the above purposes we may send your information internationally including to countries outside the USA. Some of these jurisdictions offer differing levels of protection of personal information, not all of which may be as high as the USA.
+
+The personal information that you submit to us will be collected, stored and processed at our third party service provider's data centre in the United States.
+
+By becoming a stackmedia.com customer you consent to the collection, storage and processing of your personal information in the United States.
+
+Cookies
+
+Each web site and service owned and operated by stackmedia.com uses cookies. A cookie is a small text file of which there are three types:  
+Session cookies: These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a movie or service to your basket, next time you click on the basket it is still there). These are required for the site to function but are not used in any way to identify you personally.
+
+Permanent cookies: These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us.
+
+Third Party Cookies: You may have noticed that we carry advertising from third parties on our site. Occasionally they may send you a cookie. We have no control over these.
+
+Although you cannot block "session" cookies as they are required for our site to function correctly you can configure your internet browser so that it can reject both "permanent" and "third party" cookies. How you do this will depend upon the internet browser you use (for example, Internet Explorer 5, Netscape 4 or Opera etc) and it is therefore impractical for us to detail here how you can reject those cookies. Please refer to the relevant internet browser creator's website where you should be able to receive all the information you need."
+
+Third Party Advertising  
+Ads that may appear on this Web site or other services are delivered to you, on our behalf, by us or our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or any other personal information), is used to serve ads.
+
+Data  
+In the USA we operate in accordance with applicable data protection legislation.
+
+Consent  
+By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by stackmedia.com in the manner set out in this Privacy Policy. Some information and e-mails sent to stackmedia.com may be used as testimonials but no e-mail address or contact details will be displayed.
+
+Opt-Out Policy  
+Send an email to help@stackmedia.com or click on the unsubscribe button on the email that you receive to opt out of any newsletters or email that you may receive from us. 
+
+Change/Modify Details  
+To change your e-mail address details, send an e-mail with your correct details to: help@stackmedia.com  
+If you need to Modify or Change your personal details after you have made a purchase on the site please contact us as soon as possible.
+
+Contact  
+If you have any questions or concerns about the information we hold about you, you can contact us at help@stackmedia.com. We reserve the right to seek verification of your identity before giving out information.
