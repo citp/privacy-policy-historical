@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcentral.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502134315id_/http%3A//www.healthcentral.com/contents/408/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcentral.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224181956id_/http%3A//www.healthcentral.com/contents/408/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,18 +10,18 @@
   2. **The Information We Collect and How We Use It**
     1. **Information Supplied by Visitors**
     2. **Other Information We Collect**
+  3. **Data Collected in Connection with Ad Serving and Targeting**
 
 
-  3. **Use of Your Contact Information and Other Information by Other Websites in the Network**
-  4. **Our Disclosure of Your Contact Information and Other Information**
+  4. **Use of Your Contact Information and Other Information by Other Websites in the Network**
+  5. **Our Disclosure of Your Contact Information and Other Information**
     1. **Business Transfers**
     2. **Vendors**
     3. **Other Disclosures**
 
 
-  5. **Updating Our Records**
-  6. **External Links**
-  7. **Data Collected in Connection with Ad Serving and Targeting**
+  6. **Updating Our Records**
+  7. **External Links**
   8. **Public Postings**
   9. **Security**
   10. **Choice/Opt-Out**
