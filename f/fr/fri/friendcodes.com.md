@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendcodes.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626015441id_/http%3A//www.friendcodes.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendcodes.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224064914id_/http%3A//www.friendcodes.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Nintendo WiFi Community
 
@@ -24,7 +24,7 @@ Privacy Policy
   * You have a legal right for the personal information held at The Nintendo WiFi Community to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
   * The Nintendo WiFi Community will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
   * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on The Nintendo WiFi Community
-  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/web/20090626015441id_/http%3A//www.friendcodes.com/forums/sendmessage.php)
+  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/web/20091224064914id_/http%3A//www.friendcodes.com/forums/sendmessage.php)
 
   
   
