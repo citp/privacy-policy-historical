@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jscfcu.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621074135id_/http%3A//www.jscfcu.org/about/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jscfcu.org privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224234446id_/http%3A//www.jscfcu.org/about/legal.php) for the most accurate reproduction.*
 
 # JSC Federal Credit Union | About | Legal
 
