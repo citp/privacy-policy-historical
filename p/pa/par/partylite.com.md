@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616135620id_/http%3A//www.partylite.com/en-us/Pages/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224073830id_/http%3A//www.partylite.com/en-us/Pages/Company/Privacy.aspx) for the most accurate reproduction.*
 
 # PartyLite | Privacy Policy
 
@@ -10,7 +10,7 @@ PartyLite is the owner of all information collected at this site. We will not sh
 
 At certain points in interactive communication with us, you might provide us with personal information such as your name, address, telephone number, and email address. Demographic personal information such as income level, gender, and other personal information of yours may be provided by you on an optional basis.
 
-Personal information that you provide to PartyLite will be used primarily by us for the purposes of enabling a PartyLite Consultant or Leader to contact you at your request for the purposes of you becoming a PartyLite Consultant or PartyLite Hostess. PartyLite may also use your personal information to contact you to keep you informed of developments or opportunities in relation to PartyLite, or any of its products or services. If you do not wish to receive this information in the future, please inform us by using the "opt-out" option provided on our communication or by writing to us at the address shown below.
+Personal information that you provide to PartyLite will be used primarily by us for the purposes of enabling a PartyLite Consultant or Leader to contact you at your request for the purposes of you becoming a PartyLite Consultant or PartyLite Host. PartyLite may also use your personal information to contact you to keep you informed of developments or opportunities in relation to PartyLite, or any of its products or services. If you do not wish to receive this information in the future, please inform us by using the "opt-out" option provided on our communication or by writing to us at the address shown below.
 
 Personal information will be held for no longer than required by law or for the purposes for which it was collected as described in this policy. Personal information that is obsolete will be deleted from PartyLite’s systems.
 
