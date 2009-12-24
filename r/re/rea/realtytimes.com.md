@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603043348id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224031653id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
@@ -74,7 +74,7 @@ The Privacy Notice posted on this site was updated on or about August 1, 2006.
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\WebcastCity_Banner_C1&LINK=http://WebcastCity.com/)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Banner_C29&LINK=http://info.marketleader.com/form/3291)
 
 |    
 
@@ -84,25 +84,25 @@ Real Estate News Network
 [ ](http://www.adobe.com/go/getflashplayer)
 
 **Mortgage Rates**  
-30 Year Fixed: 4.91%  
-15 Year Fixed: 4.53%  
-1 Year Adj: 4.69%  
+30 Year Fixed: 4.94%  
+15 Year Fixed: 5.19%  
+1 Year Adj: 4.34%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines  
 
 
-  * [Market Conditions](https://web.archive.org/rtpages/20090602_mrktconditions.htm)
-  * [Emphasis on Social Norms Will Help Brokerages in the Long Run](https://web.archive.org/rtpages/20090602_socialnorms.htm)
-  * [Real Estate Outlook: Consumer Confidence Rising](https://web.archive.org/rtpages/20090602_realestateoutlook.htm)
-  * [G8 Meets "Cottage Country"](https://web.archive.org/rtpages/20090602_cottage.htm)
-  * [Condo Trends: Come Home to the Mall](https://web.archive.org/rtpages/20090601_condotrends.htm)
-  * [Helping Clients Estimate Their Affordability Range](https://web.archive.org/rtpages/20090601_helpafford.htm)
-  * [Washington Report: HUD Raises Expectations](https://web.archive.org/rtpages/20090601_washingtonreport.htm)
-  * [Market Conditions](https://web.archive.org/rtpages/20090529_mrktconditions.htm)
-  * [Convey Your Competitive Advantage in Prospect Presentations](https://web.archive.org/rtpages/20090529_convey.htm)
-  * [Investor Report: Gorilla Housing](https://web.archive.org/rtpages/20090529_investorreport.htm)
+  * [Nation's Largest Historic Residential Restoration](https://web.archive.org/rtpages/20091223_historic.htm)
+  * [HOA Newsletter Baker's Dozen](https://web.archive.org/rtpages/20091223_dozen.htm)
+  * [Auctions, Internet Marketing, and Forbearance Facilitators Will Dominate New Homes Services in 2010](https://web.archive.org/rtpages/20091223_auctions.htm)
+  * [Move-Down Buyers Can Be Eligible For Tax Credit Too](https://web.archive.org/rtpages/20091222_movedown.htm)
+  * [Real Estate Outlook: Economic Forecasting](https://web.archive.org/rtpages/20091222_realestateoutlook.htm)
+  * [Looking Ahead: Canada's Housing Demand to 2036](https://web.archive.org/rtpages/20091222_immig.htm)
+  * [Maximizing a Flawed Property's Chances of Sale](https://web.archive.org/rtpages/20091221_maximize.htm)
+  * [Washington Report: New Consumer Financial Protection Agency](https://web.archive.org/rtpages/20091221_washingtonreport.htm)
+  * [Home Price Expectations—Will They Rise?](https://web.archive.org/rtpages/20091218_homeprice.htm)
+  * [Mortgage Rates up But Still Below 5 Percent](https://web.archive.org/rtpages/20091218_rates.htm)
 
   
 
@@ -112,5 +112,5 @@ Today's Headlines
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\WebcastCity_Spotlight_C1&LINK=http://WebcastCity.com/)   
-
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\CraigProctorProductions_Sponsor_C&LINK=http://www.hypertracker.com/go/cp/rtsb040601/)   
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\WebcastCity_Sponsor_C1&LINK=http://WebcastCity.com/)
