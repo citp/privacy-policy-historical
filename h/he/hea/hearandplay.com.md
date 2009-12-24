@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621065309id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224124408id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hear and Play Music Learning Center
 
@@ -51,6 +51,6 @@ If you feel that this site is not following its stated information policy, you m
 
 [](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
 Welcome back! It looks like you're a regular! Thanks for your support and keep coming! ([Getting updates yet?](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2290008))
