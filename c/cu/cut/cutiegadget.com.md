@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182855id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224220817id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutie Gadget
 
-.
+[Home](http://www.cutiegadget.com/) » Privacy Policy
 
->  **Cutie Gadget Privacy Statement**
+## Privacy Policy
+
+> **Cutie Gadget Privacy Statement**
 > 
 > What written under this is the Privacy Statement for all Cutie Gadget blog including all the websites run under the www.cutiegadget.com domain.
 > 
@@ -44,7 +46,7 @@
 > 
 > **Links**
 > 
-> CutieGadget.com websites/blog frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by CutieGadget
+> CutieGadget.com websites/blog frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site�s privacy policy. This privacy statement applies solely to information collected by CutieGadget
 > 
 > **Notification of Changes**
 > 
@@ -53,3 +55,5 @@
 > **Contact Information**
 > 
 > If you have any questions regarding our privacy policy, please contact us.
+
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
