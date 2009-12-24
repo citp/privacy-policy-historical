@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509211547id_/http%3A//www.confirmit.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224170446id_/http%3A//www.confirmit.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Confirmit - Software for Customer Feedback, Employee Feedback, Market Research Applications
 
