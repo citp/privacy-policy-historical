@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621225140id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224110421id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ We may place a cookie on your computer that will allow us to greet you by name w
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
 
-Ralph DeBoard, Professor of Computer Science, learned to love OC as a student when he served as president of the Student Government Association, and now teaches here for three reasons: "The opportunity to integrate faith and learning, the desire to help OC build an excellent computer science program, and the opportunity to pass on the greatness of our school to new generations of students." 
+Richard Miller is an Associate Professor of Electrical Engineering. He is a member of the Institute of Electrical and Electronics Engineers and is interested in electromagnetics, radar, antennas, and low observable technology. 
 
-[Read More](http://blogs.oc.edu/ocpeople/individual/ralph_deboard/)
+[Read More](http://blogs.oc.edu/ocpeople/individual/dr_richard_miller/)
