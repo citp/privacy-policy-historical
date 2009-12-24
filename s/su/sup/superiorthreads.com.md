@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043807id_/http%3A//superiorthreads.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224134721id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.*
 
 # Private Policy | Superior Threads
 
