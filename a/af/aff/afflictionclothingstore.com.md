@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afflictionclothingstore.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416222150id_/http%3A//www.afflictionclothingstore.com/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afflictionclothingstore.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224025138id_/http%3A//www.afflictionclothingstore.com/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Affliction Clothing, Official Online Store
 
