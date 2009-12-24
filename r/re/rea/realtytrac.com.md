@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytrac.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063804id_/http%3A//www.realtytrac.com/pub/privacy.html%3Fa%3Db) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytrac.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224140030id_/http%3A//www.realtytrac.com/pub/privacy.html) for the most accurate reproduction.*
 
 # RealtyTrac - Privacy Policy
 
@@ -30,6 +30,8 @@ We do not sell or rent your personal information to other companies, entities or
 
 
 Your personal information is encrypted and appropriate measures are taken to protect against unauthorized or inappropriate use of your personal information.
+
+RealtyTrac Community Content. The RealtyTrac Community portion of the RealtyTrac.com website contains sections (aka forums or message boards) where readers and users can submit and publish comments, questions, and answers. We do not actively monitor these sections, and RealtyTrac, its affiliates, and content licensors assume no liability for any content therein, or for any actions taken in reliance thereon. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use login validation for most of our Community in order to reduce "comment spam." While your email address will not be published, the actual content of the any comments, questions, and answers you submit are considered public property. Do not offer any personal information in any content you submit, unless you want that information displayed publically to the online world. We will remove "comment spam" from our Community sections at our discretion.
 
 You may contact our customer service department to update or correct your personal information at anytime. If you wish to opt out of receiving further communication from us regarding future promotions or other goods and services, please contact our customer service department. Please know that depending on what opt-out choices you select, your ability to maintain your membership and continue to obtain goods and services may be affected. Our customer service department can be reached by e-mail at [support@realtytrac.com](mailto:support@realtytrac.com); by telephone at 877.888.8722; and by facsimile transmission at 949.305.0803. The effective date of any opt-out action will be ten (10) business days following the date your opt-out request is received by RealtyTrac, after which your e-mail address will be added to the suppression files associated with this site.
 
