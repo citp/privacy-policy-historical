@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619032031id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224010135id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ Privacy is very important to us. We also understand that privacy is very importa
 
 This Privacy Statement was last revised on April 20, 2009. We may change this Privacy Statement at any time and for any reason. Significant changes to the Privacy Statement are discussed below in the Section called "Changes to the Privacy Statement." We encourage you to review this Privacy Statement each time you visit the web site.
 
-By using this web site, you agree to the terms of the most recent version of this Privacy Statement. Please read our [Terms of Use](https://web.archive.org/web/20090619032031id_/http%3A//www.medtronic.com/statements/terms/index.htm) to understand the general rules about your use of this web site. Except as written in any other disclaimers, policies, terms of use, or other notices on this web site, this Privacy Statement and the Terms of Use are the complete agreement between you and Medtronic with respect to your use of this web site. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
+By using this web site, you agree to the terms of the most recent version of this Privacy Statement. Please read our [Terms of Use](https://web.archive.org/web/20091224010135id_/http%3A//www.medtronic.com/statements/terms/index.htm) to understand the general rules about your use of this web site. Except as written in any other disclaimers, policies, terms of use, or other notices on this web site, this Privacy Statement and the Terms of Use are the complete agreement between you and Medtronic with respect to your use of this web site. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 ## Introduction
 
@@ -101,7 +101,7 @@ If we decide to make a significant change to our Privacy Statement, we will post
 
 Recent revisions to the Privacy Statement:
 
-Our Privacy Statement was significantly expanded on October 31, 2001. [You can read the previous version of our Privacy Statement here](https://web.archive.org/web/20090619032031id_/http%3A//www.medtronic.com/statements/PREVIOUS-PRIVACY-POLICIES.htm). In addition, we made minor revisions to the Privacy Statement in July 2008 and April 2009, but these revisions did not change the privacy principles.
+Our Privacy Statement was significantly expanded on October 31, 2001. [You can read the previous version of our Privacy Statement here](https://web.archive.org/web/20091224010135id_/http%3A//www.medtronic.com/statements/PREVIOUS-PRIVACY-POLICIES.htm). In addition, we made minor revisions to the Privacy Statement in July 2008 and April 2009, but these revisions did not change the privacy principles.
 
 ## What about privacy on other web sites?
 
