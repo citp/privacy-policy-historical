@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cubestat.com privacy policy that was archived on 2009-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416043503id_/http%3A//www.cubestat.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cubestat.com privacy policy that was archived on 2009-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224060521id_/http%3A//www.cubestat.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta name="verify-v1" content="E0z/PUIq2CRdkpbk96SyarCXZ6zc8q/tf7gjh4q+Z/Q=">
@@ -51,7 +51,7 @@ window.google_analytics_uacct = "UA-2128403-18";
 </ul>
     <div id="header-input-wrap">
     	<div id="header-input" align="center">
-    <form action="/index1.php" onsubmit="this.elements['submitbutton'].value='Busy...'; setLoadingIndicator();">
+    <form id="searchform" action="/index1.php" onsubmit="this.elements['submitbutton'].value='Busy...'; setTimeout(setLoadingIndicator,2000);  submitDirect(this.elements['url'].value); return false;">
     <div class="text">Enter URL:</div>
     <div id="inputmy2"><input class="inputmy" name="url" id="inputmy" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" value="Search a term or website"></div>
 	<input type="submit" value="Check" style="font-size:19px; float:left; margin-left:10px; height:32px; padding-bottom:3px;" id="submitbutton" name="submitbutton">
@@ -95,6 +95,27 @@ visit to our sites and other sites on the Internet.
 
 <script type="text/javascript">
 
+function submitDirect(v){
+v=v.replace(new RegExp(/^\s+/),""); // START
+v=v.replace(new RegExp(/\s+$/),""); // END
+v=v.replace(new RegExp(/\\/g),"/");
+v=v.replace(new RegExp(/^http\:\/\/|^https\:\/\/|^ftp\:\/\//i),"");
+v=v.replace(new RegExp(/\/(.*)/),"");
+
+  if(v.match(/[a-z0-9][a-z0-9\.]+\.[a-z][a-z]+/i)){
+
+    if(!v.match(/^www\./i)){
+      v = 'www.'+v;
+    }
+
+    location.href = '/'+encodeURIComponent(v);
+
+  }else{
+    location.href = '/tag/'+encodeURIComponent(v.replace(' ','-'));
+  }
+  return false;
+}
+
 function setLoadingIndicator(){
        document.getElementById("loadingin").style.display="";
 	document.getElementById("loadingmsg").innerHTML = 'Please stand by while we compute all statistics...<br /><br /><img src="/images/ajax-loader.gif" height="43" width="214" alt="Loading..."  />';
@@ -121,6 +142,5 @@ pageTracker._trackPageview();
 
 
 
-
-<!-- rendered in 0.0399260520935 -->
+<!-- Served from cache -->
 </div></body></html>
