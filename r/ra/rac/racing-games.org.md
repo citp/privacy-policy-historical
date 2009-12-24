@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the racing-games.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120302id_/http%3A//racing-games.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racing-games.org privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224124345id_/http%3A//racing-games.org/privacy) for the most accurate reproduction.*
 
-# Racing games Privacy Policy
+# Privacy Policy
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
@@ -28,7 +28,7 @@ For reasons such as improving member experience and providing customized communi
 
 We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this privacy policy. As stated, and whether or not you have opted-in, we may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on our behalf. In addition, if you opt-out, we may share that information with third parties who send e-mails on our behalf so that they do not e-mail you. 
 
-However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone�s safety. 
+However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someoneï¿½s safety. 
 
 We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
 
@@ -54,6 +54,6 @@ We maintain archives of our web logs, database, and other systems and informatio
 
 You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from us, sign in and then select "update your profile" to change your newsletter preferences. 
 
-Please address comments or questions regarding this Privacy Policy to us by e-mail at [support@Racing-games.org](mailto:support@Racing-games.org). 
+Please address comments or questions regarding this Privacy Policy to us by e-mail at [support@Arcadelots.com](mailto:support@Arcadelots.com). 
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 08/01/06
