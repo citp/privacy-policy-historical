@@ -1,0 +1,694 @@
+<!--The following is the downloaded HTML source of the aemelectronics.com privacy policy that was archived on 2009-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224134910id_/http%3A//www.aemelectronics.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
+<base href="http://www.aemelectronics.com/">
+<!-- RCI [BOM] -headertags-addswitch : includes/runtime/headertags/CDS_headertags_addswitch.php -->
+<!-- RCI [EOM] -headertags-addswitch : includes/runtime/headertags/CDS_headertags_addswitch.php -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <title>AEM Electronics</title>
+ <meta name="Description" content="AEM Electronics">
+ <meta name="Keywords" content="AEM Electronics, UEGO, EMS, Water/Methanol">
+ <meta name="robots" content="index, follow">
+ <meta name="revisit-after" content="30 days">
+ <!-- EOF: Generated Meta Tags -->
+<meta name="verify-v1" content="oz1dg5eafCWJjzG8OTRw0OCNHFeRxXJ9kFH7U/9nKDo=">
+<link rel="stylesheet" type="text/css" href="templates/Original1/stylesheet.css">
+
+
+<link rel="stylesheet" type="text/css" href="includes/runtime/stylesheet/CDS stylesheet original.css">
+
+<script src="clienthint.js"></script> 
+<script src="select_vehicle.js"></script> 
+<!-- <script src="toggle.js"></script> --> 
+<link href="screen.css" type="text/css" rel="stylesheet" media="screen,projection">
+<script src="jquery.js" type="text/javascript"></script>
+<script src="submitform.js" type="text/javascript"></script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+-->
+</style>
+
+
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { 
+
+var pageTracker = _gat._getTracker("UA-7250195-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+      
+
+<script type="text/javascript">
+function getElementsByClass (searchClass) {
+  // This function returns an array of all HTML objects with the
+  // specified className.  Tag is optional   
+  var returnArray = [];
+  var els = document.getElementsByTagName('*');
+  var pattern = new RegExp('(^|\\s)'+searchClass+'(\\s|$)');
+  for (var i = 0; i < els.length; i++) {
+    if ( pattern.test(els[i].className) ) { returnArray.push(els[i]); }
+  }
+  return returnArray;
+}
+
+function popVideo(vid, darken) {
+  // This function accepts a division ID (vid), either a string or the actual
+  // object itself.   vid is mandatory.   darken is optional, if it's true
+  // the page will be greyed out under the video.
+  var videos = getElementsByClass('video');     // Get all the videos on the page.
+  var isplaying=null;
+  for(i=0; i<videos.length; i++) {              // Loop through all the videos
+    if (videos[i].style.display=='block') {     // This video is playing 
+      isplaying=videos[i].id;                   // remember its name
+      var tmp=videos[i].innerHTML;              // Get the division contents
+      videos[i].innerHTML='';                   // destroy the contents
+      videos[i].style.display='none';           // Terminate the video.
+      videos[i].innerHTML=tmp;                  // rebuild the contents.
+    }
+  }
+  // This handles the darkening of the background while a video is playing.
+  // First we see if the dark layer exists.
+  var dark=document.getElementById('darkenScreenObject');
+  if (!dark) {
+    // The dark layer doesn't exist, it's never been created.  So we'll
+    // create it here and apply some basic styles.
+    var tbody = document.getElementsByTagName("body")[0];
+    var tnode = document.createElement('div');          // Create the layer.
+        tnode.style.backgroundColor='rgb(0, 0, 0)';     // Make it black.
+        tnode.style.opacity='0.7';                      // Set the opacity (firefox/Opera)
+        tnode.style.MozOpacity='0.70';                  // Firefox 1.5
+        tnode.style.filter='alpha(opacity=70)';         // IE.
+        tnode.style.zIndex='1';                         // Zindex of 50 so it "floats"
+        tnode.style.position='absolute';                // Position absolutely
+        tnode.style.top='0px';                          // In the top
+        tnode.style.left='0px';                         // Left corner of the page
+        tnode.style.overflow='hidden';                  // Try to avoid making scroll bars            
+        tnode.style.display='none';                     // Start out Hidden
+        tnode.id='darkenScreenObject';                  // Name it so we can find it later
+    tbody.appendChild(tnode);                           // Add it to the web page
+    dark=document.getElementById('darkenScreenObject'); // Get the object.
+  }
+  dark.style.display='none';
+  if ((isplaying==vid)||(/^close$/i.test(vid))) { return false; }
+  if (typeof(vid)=="string") { vid=document.getElementById(vid); }
+  if (vid&&typeof(vid)=="object") {
+    if (darken) {
+      // Calculate the page width and height 
+      if( window.innerHeight && window.scrollMaxY )  { 
+        var pageWidth = window.innerWidth + window.scrollMaxX;
+        var pageHeight = window.innerHeight + window.scrollMaxY;
+      } else if( document.body.scrollHeight > document.body.offsetHeight ) {
+        var pageWidth = document.body.scrollWidth;
+        var pageHeight = document.body.scrollHeight;
+      } else { 
+        var pageWidth = document.body.offsetWidth + document.body.offsetLeft; 
+        var pageHeight = document.body.offsetHeight + document.body.offsetTop; 
+      }
+      //set the shader to cover the entire page and make it visible. 
+      dark.style.width= pageWidth+'px';
+      dark.style.height= pageHeight+'px';
+      dark.style.display='block';                                
+    }
+    // Make the video visible and set the zindex so its on top of everything else
+    vid.style.zIndex='100';    
+    vid.style.display='block';
+    var scrollTop = 0;
+    if (document.documentElement && document.documentElement.scrollTop)
+      scrollTop = document.documentElement.scrollTop;
+    else if (document.body)
+      scrollTop = document.body.scrollTop;
+
+    // set the starting x and y position of the video
+//    vid.style.top=scrollTop+Math.floor((document.documentElement.clientHeight/2)-(vid.offsetHeight/2))+'px';
+//   vid.style.left=Math.floor((document.documentElement.clientWidth/2)-(vid.offsetWidth/2))+'px';
+		vid.style.top='200px';
+		vid.style.right='200px';
+
+
+  }
+  return false;
+}
+</script>
+
+
+  </head>
+<body><!-- warnings //-->
+<!-- warning_eof //-->
+
+<!-- header //-->
+    <table width="100%" cellpadding="10" cellspacing="0" border="0">
+      <tbody><tr><td background="images/bg-1.jpg">
+        <table bordercolor="e6e6e6" cellspacing="0" cellpadding="0" border="0" width="778" align="center" bgcolor="FFFFFF">
+          <tbody><tr><td bordercolor="e6e6e6">
+            <table border="0" width="100%"><tbody><tr><td>
+<table border="0" width="778" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+  	<td background="/images/header.jpg" height="53">
+    	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+        	<tbody><tr>
+    			<td width="199"><a href="/"><img src="images/22a2f9c3-fc12-4b6d-b6b2-316bfd02c214.jpg" border="0"></a></td>
+				<td width="100%">
+                	<table width="579" border="0" height="22">
+                    	<tbody><tr height="22">
+                        	<td width="65" align="center" class="boxText2" height="22">
+                            	<a href="/">Home</a><a>
+                            </a></td>
+                           	<td width="104" align="center" class="boxText2" height="22">
+                            	<a href="information.php?info_id=4">About AEM</a>
+                            </td>
+                        	<td width="75" align="center" class="boxText2" height="22">
+                            	<a href="faq.php">AEM's FAQs</a>
+                            </td>
+                        	<td width="123" align="center" class="boxText2" height="22">
+                            	<a href="articles.php?tPath=1">Racing &amp; Projects</a>
+                            </td>
+                        	<td width="90" align="center" class="boxText2" height="22">
+                            	<a href="http://forum.aempower.com/forum/index.php">AEM's Forums</a>
+                            </td>
+	                        	<td width="122" align="center" class="boxText2" height="22">
+                            	<a href="information.php?info_id=5">Find a Dealer</a>
+                            </td>
+							
+                            
+                            <!-- <td width="190" align="center" class="boxText2" height="22"><form name="quick_find" method="get" action="http://aemelectronics.chainreactionweb.com/advanced_search_result.php" method="get">
+<input type="text" name="keywords" size="21" maxlength="30" value="Search AEM Eletronics" onfocus="this.value='';">
+<button type="submit" id="submit">Go!</button><input type="hidden" name="submitted" id="submitted" value="true">
+</form>
+                            </td> -->
+						</tr>
+					</tbody></table>    
+ 	            </td>
+			</tr>
+		</tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+
+<!--    
+<table width="100%" class="headerBreadCrumb">
+ 	<tr>
+ 		<td align="left" class="headerBreadCrumb">&nbsp;&nbsp;<a href="http://www.aemelectronics.com/index.php" class="headerBreadCrumb">HOME</a> &raquo; <a href="http://www.aemelectronics.com/information.php?info_id=3" class="headerBreadCrumb">Privacy</a></td>
+    </tr> 
+  </table>
+//-->
+</td>
+
+
+<!-- header_eof //-->
+<!-- header_eof //-->
+<!-- body //-->
+</tr></tbody></table><table border="0" width="100%" cellspacing="3" cellpadding="1">
+  <tbody><tr>
+    <td width="200" valign="top"><table border="0" width="200" cellspacing="0" cellpadding="1">
+<!-- left_navigation //-->
+
+    <!-- RCI [BOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
+<!-- RCI [EOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
+    
+<!-- vehicle_search //-->
+    <tbody><tr>
+      <td>
+
+
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+  		<tbody><tr>
+    		<td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    		<td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Search by Vehicle</font></td>
+			<td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  		</tr>
+	</tbody></table>
+	<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox_vehicle">
+  		<tbody><tr>
+			<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;">
+				<img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1">
+			</td>
+			<td valign="top">
+				<table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents_vehicle" height="150" valign="top">
+			  		<tbody><tr>
+						<td align="left" class="boxText" valign="top">
+						<br>
+								<form> 
+									<select name="car_years" onchange="showVehicle(this.value)">
+										<option value="2008">Select Year&nbsp;&nbsp;</option>
+										<option value="2009">2009</option>
+										<option value="2008">2008</option>
+										<option value="2007">2007</option>
+										<option value="2006">2006</option>
+										<option value="2005">2005</option>
+										<option value="2004">2004</option>
+										<option value="2003">2003</option>
+										<option value="2002">2002</option>
+										<option value="2001">2001</option>
+										<option value="2000">2000</option>
+										<option value="1999">1999</option>
+										<option value="1998">1998</option>
+										<option value="1997">1997</option>
+										<option value="1996">1996</option>
+										<option value="1995">1995</option>
+										<option value="1994">1994</option>
+										<option value="1993">1993</option>
+										<option value="1992">1992</option>
+										<option value="1991">1991</option>
+										<option value="1990">1990</option>
+										<option value="1989">1989</option>
+										<option value="1988">1988</option>
+										<option value="1987">1987</option>
+										<option value="1986">1986</option>
+										<option value="1985">1985</option>
+										<option value="1984">1984</option>
+									</select>
+								</form>
+								<div id="txtHint3">
+									<select name="car_models" disabled="">
+										<option value="">Select Make&nbsp;</option>
+									</select>
+									&nbsp;
+								</div>
+								<div id="txtHint4">
+									<select name="car_models" disabled="">
+										<option value="">Select Model</option>
+									</select>
+									&nbsp;
+								</div>
+								<div id="txtHint5">
+									<input type="submit" value="Search" disabled="">
+									
+								</div><br>
+</td></tr>
+<tr>
+<td bgcolor="#cc0000">
+<img src="images/caption_200x68.gif">
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;">
+				<img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1">
+			</td>
+		</tr>
+	</tbody></table>	
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+	    <td class="infoBoxFooter">
+	    	<img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="">
+	    </td>
+	    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;">
+	    	<img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1">
+	    </td>
+	    <td class="infoBoxFooter">
+	    	<img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="">	    
+	    </td>
+	  </tr>
+	</tbody></table>
+
+            </td>
+          </tr>
+<!-- vehicle_search_eof //-->
+<!-- categories4 //-->
+<tr>
+  <td>
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Categories</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" class="boxText"><hr><a href="http://www.aemelectronics.com/index.php?cPath=35"><b>X-WiFi</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=9"><b>Engine Management</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=23"><b>Water / Methanol Injection Kits</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=26"><b>Gauges</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=15"><b>Wideband Air / Fuel Systems</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=28"><b>Boost Controllers</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=14"><b>Sensors and Connectors</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=18"><b>Ignition Components</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=22"><b>ECU Patch/Extension Harness</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=1"><b>Tru-Time Adjustable Cam Gears</b></a><br><hr><a href="http://www.aemelectronics.com/index.php?cPath=2"><b>Fuel Delivery Components</b></a><br><br>
+</td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+   </td>
+ </tr>
+<!-- categories4_eof //--><!--D search //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Search</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><form name="quick_find" action="http://www.aemelectronics.com/advanced_search_result.php" method="get"><input maxlength="30" type="text" name="keywords" size="10">&nbsp;<input type="image" src="templates/Original1/images/buttons/english/go_btn2.gif" alt="Search" style="border:0;" title=" Search "><br>Use vehicle names, part names or part numbers to find your parts.<br><a href="http://www.aemelectronics.com/advanced_search.php"><b>Advanced Search</b></a></form></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+<!--D search_eof //-->
+<!--D information //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Information</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><a href="http://www.aemelectronics.com/information.php?info_id=1">Terms and Conditions</a><br><a href="http://www.aemelectronics.com/information.php?info_id=3">Privacy</a><br><a href="http://www.aemelectronics.com/information.php?info_id=4">About AEM</a><br><a href="http://www.aemelectronics.com/information.php?info_id=5">Dealer Locator</a><br><a href="http://www.aemelectronics.com/information.php?info_id=6">Dealer Application</a><br><a href="https://aemelectronics.authsecure.com/contact_us.php">Contact Us</a></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+<!--D information_eof //-->          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">FAQ's</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><a href="http://www.aemelectronics.com/faq.php?cID=1">AEM Fuel Delivery Components</a><br><a href="http://www.aemelectronics.com/faq.php?cID=2">AEM Ignition Systems</a><br><a href="http://www.aemelectronics.com/faq.php?cID=3">AEM Wideband UEGO Controller</a><br><a href="http://www.aemelectronics.com/faq.php?cID=4">AEM TRU-BOOST Gauge Controllers</a><br><a href="http://www.aemelectronics.com/faq.php?cID=5">AEM Digital Gauges</a><br><a href="http://www.aemelectronics.com/faq.php?cID=6">AEM Sensors and Connectors</a><br><a href="http://www.aemelectronics.com/faq.php?cID=7">AEM TRU-TIME Adjustable Cam Gear</a><br><a href="http://www.aemelectronics.com/faq.php?cID=8">Independent Product Reviews</a><br></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+<!-- articles //-->
+<tr>
+  <td>
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Articles</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><a href="http://www.aemelectronics.com/articles_new.php">New Articles</a> (1)<br><a href="http://www.aemelectronics.com/articles.php">All Articles</a> (68)<br><a href="http://www.aemelectronics.com/articles.php?tPath=12">AEM Product Info</a>&nbsp;(1)<br><a href="http://www.aemelectronics.com/articles.php?tPath=11">AEM Software Downloads</a>&nbsp;(1)<br><a href="http://www.aemelectronics.com/articles.php?tPath=3">AEM Videos -&gt;</a>&nbsp;(27)<br><a href="http://www.aemelectronics.com/articles.php?tPath=13">New Products</a>&nbsp;(8)<br><a href="http://www.aemelectronics.com/articles.php?tPath=2">News</a>&nbsp;(26)<br><a href="http://www.aemelectronics.com/articles.php?tPath=1">Racing &amp; Projects</a>&nbsp;(5)<br></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+  </td>
+</tr>
+<!-- articles_eof //--><!-- shopping_cart //-->
+    <tr>
+      <td>
+            <script type="text/javascript"><!--
+function couponpopupWindow(url) {
+  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=450,height=280,screenX=150,screenY=150,top=150,left=150')
+}
+//--></script>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Shopping Cart</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText">&nbsp;&nbsp;0 items</td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><img src="images/cards/cards2.gif" border="0" alt="BOX_INFORMATION_CARD" title=" BOX_INFORMATION_CARD " width="123" height="30"><br>
+<!-- (c) 2005, 2008. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="86968521-7e9a-4b99-ba71-2a1224b1ee3e";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payment Service</a> </div> </td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+<!-- shopping_cart_eof //--><!--D loginbox //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="20" class="infoBoxHeading"><img src="templates/Original1/images/infobox/corner_left.gif" border="0" alt="" width="11" height="20"></td>
+    <td width="100%" height="20" class="infoBoxHeadingImage"><font color="#FFFFFF">Your Account</font></td>
+    <td height="20" class="infoBoxHeading" nowrap=""><img src="templates/Original1/images/infobox/corner_right.gif" border="0" alt="" width="11" height="20"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" class="templateinfoBox">
+  <tbody><tr>
+<td align="left" width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_l.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_l.gif" alt="box" width="1" height="1"></td><td><table border="0" width="100%" cellspacing="0" cellpadding="6" class="infoBoxContents">
+  <tbody><tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText">
+       <form name="login" method="post" action="https://aemelectronics.authsecure.com/login.php?action=process">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+               <tbody><tr>
+                <td align="left" class="infoboxContents">
+                  Your Email Address
+                </td>
+              </tr>
+              <tr>
+                <td align="left" class="infoboxContents">
+                  <input type="text" name="email_address" maxlength="96" size="15" value="">
+                </td>
+              </tr>
+              <tr>
+                <td align="left" class="infoboxContents">
+                  Your Password
+                </td>
+              </tr>
+              <tr>
+                <td align="left" class="infoboxContents">
+                  <input type="password" name="password" maxlength="40" size="15" value="">
+                </td>
+              </tr>
+        <tr>
+            <td align="center">
+      <img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="5">
+      </td>
+            </tr>
+              <tr>
+                <td class="infoboxContents" align="center">
+                  <input type="image" src="templates/Original1/images/buttons/english/button_login.gif" alt="Sign In" style="border:0;" title=" Sign In ">
+                </td>
+              </tr>
+              <tr>
+                <td class="infoboxContents" align="center">
+                  <hr>Don't have an account yet? Create one! <br><a href="https://aemelectronics.authsecure.com/create_account.php"><img src="templates/Original1/images/buttons/english/button_create_account.gif" border="0" alt="Create Account" title=" Create Account " width="116" height="24">
+                </a></td>
+              </tr>
+
+             </tbody></table>
+           </form>
+              </td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</tbody></table>
+</td><td width="1" style="background-image: url(templates/Original1/images/infobox/box_bg_r.gif);background-repeat: repeat-y;"><img src="templates/Original1/images/infobox/box_bg_r.gif" alt="box" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+    <td width="100%" style="background-image: url(templates/Original1/images/infobox/backgroundfb.gif); background-repeat: repeat-x;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td class="infoBoxFooter"><img src="templates/Original1/images/infobox/corner_right_left_flip.gif" border="0" alt="" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+            </td>
+          </tr>
+<!--D loginbox_eof //-->
+<!-- left_navigation_eof //-->
+    </tbody></table></td>
+<!-- content //-->
+    <td width="100%" valign="top">
+    <!-- RCI [BOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
+<!-- RCI [EOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
+    
+    <table border="0" width="100%" cellspacing="0" cellpadding="1">
+
+      <tbody><tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+          <tbody><tr>
+            <td class="main">    <table border="0" cellpadding="0" cellspacing="10" width="100%"> 	    <tbody><tr> 		    <td> 			    <p><font size="1">AEM respects the privacy of our customers. Any and all information captured on this web site is for internal use by AEM only. AEM does not sell mailing lists, email lists, or give out any of your personal information in any way.</font></p> 			    <p><font size="1">You can be confident that the information you provide AEM will be kept internally and in strict confidentiality.</font></p> 			    <p><font size="1">On occasion, AEM may send you emails to give you advanced notice of special offers and discounts. AEM will only send email to site users who elect to sign up for AEM's Email Alerts. By signing up for AEM's Email Alerts, you hereby give permission to AEM to send emails to your email address.</font></p>  			    <div class="red"><font size="1"><strong>What information does AEM collect?</strong></font></div> 			    <p style="margin-top: 5px"><font size="1">AEM collects just enough information to process your request, and contacts you if there are any problems. AEM uses your email address as your personal identifier so we can send you information regarding the status of your group/organization and any updates, if you so request.</font></p> 			    <div class="red"><font size="1"><strong>Does AEM use Cookies? If so, how?</strong></font></div> 			    <p style="margin-top: 5px"><font size="1">Cookies are small amounts of information that are stored on your hard drive from your browser. Also, cookies are used to let us know that you are logged into the system. We do not use them to extract marketing information from existing cookies. Cookies are widely used for this purpose on many sites, including Yahoo!, Dell, and Amazon.com.</font></p>                 <p><font size="1">At AEM, we use cookies to track whether or not you're logged in and are a registered member of AEM's Electronics Forum.</font></p> 		    </td>  	    </tr>     </tbody></table>             </td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="1" cellpadding="2" class="infoBox">
+          <tbody><tr class="infoBoxContents">
+            <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+              <tbody><tr>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+                <td align="right"><a href="http://www.aemelectronics.com/index.php"><img src="templates/Original1/images/buttons/english/button_continue.gif" border="0" alt="Continue" title=" Continue " width="96" height="27"></a></td>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+    <!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
+<!-- RCI [EOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
+<!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_navigation_global_bottom.php -->
+<!-- RCI [EOM] -global-bottom : includes/runtime/global/CDS_navigation_global_bottom.php -->
+    </td>
+<!-- content_eof //-->
+  </tr>
+</tbody></table>
+<!-- body_eof //-->
+
+<!-- footer //-->
+<hr color="c0c0c0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+	            <td height="33"><p align="center" class="smallTextFooter">Copyright © 2009 Advanced Engine Management, Inc. All Rights Reserved.<br>Best viewed with Internet Explorer 5.0+ at 800x600 resolution or higher.</p></td>
+            </tr>
+
+</tbody></table>
+
+<!--<table border="0" width="100%" cellspacing="0" cellpadding="1">
+  <tr class="footer">
+    <td class="footer">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="right" class="footer">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</table> -->
+
+<hr color="c0c0c0">
+
+<table border="0" width="100%" cellspacing="0" cellpadding="10">
+  <tbody><tr>
+    <td align="center" class="smallTextFooter">
+
+
+
+    </td>
+  </tr>
+</tbody></table>
+         </td></tr></tbody></table>
+       </td></tr>
+     </tbody></table>
+   
+  
+
+<!-- footer_eof //-->
+<!-- footer_eof //-->
+<br>
+
+
+</body></html>
