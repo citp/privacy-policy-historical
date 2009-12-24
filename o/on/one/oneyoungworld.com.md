@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneyoungworld.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626042417id_/http%3A//www.oneyoungworld.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneyoungworld.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224201609id_/http%3A//www.oneyoungworld.com/footer/privacy.html) for the most accurate reproduction.*
 
 # One Young World: Privacy Policy
 
