@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barilla.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215044927id_/http%3A//www.barillaus.com/Home/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barilla.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224114536id_/http%3A//www.barillaus.com/Home/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Barilla: Italian Pasta Recipes and Information
 
@@ -35,4 +35,4 @@ Please [click here](https://web.archive.org/Pages/newsletterregistration.aspx) 
 ** Barilla reserves the right to change this Statement of Privacy at any time by notifying Barilla Website users of the existence of a new Privacy Policy or any updates by posting a notice at this location or by e-mail or by any other reasonable means.
 
 **CONTACT INFORMATION**  
-Barilla welcomes your comments regarding this Statement of Privacy.  If you believe that Barilla has not adhered to this Statement of Privacy, please contact Barilla via e-mail at [privacy@barilla-usa.com](mailto:privacy@barilla-usa.com) or by telephone at **_1-800-922-7455_**.
+Barilla welcomes your comments regarding this Statement of Privacy.  If you believe that Barilla has not adhered to this Statement of Privacy, please [click here ](https://web.archive.org/Home/Pages/BarillaUSContactUS.aspx)to contact us.
