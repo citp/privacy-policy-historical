@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625212904id_/http%3A//www.superoffice.com/Settings/Content/Privcay-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225173754id_/http%3A//www.superoffice.com/Settings/Content/Privcay-Statement) for the most accurate reproduction.*
 
 # Privacy Statement - SuperOffice CRM
 
