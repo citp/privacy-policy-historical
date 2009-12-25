@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the berr.gov.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626111117id_/http%3A//www.berr.gov.uk/administration/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berr.gov.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225124629id_/http%3A//www.berr.gov.uk/administration/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Statement - BERR
+# Privacy Statement - BIS
 
 The privacy statement contained in these pages covers the services provided by the Department for Business, Innovation & Skills website.
 
