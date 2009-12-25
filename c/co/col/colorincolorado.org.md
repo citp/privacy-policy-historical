@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622182751id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225193416id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
 
 # Colorín Colorado :: Privacy Policy
 
 Teachers who work with English as a Second Language learners will find ESL/ESOL/ELL/EFL reading/writing skill-building children's books, stories, activities, ideas, strategies to help PreK-3, 4-8, and 9-12 students learn to read.
+
+[](http://www.facebook.com/ColorinColorado.org "Become a fan of Colorín Colorado on Facebook!")
+
+  
+
+
+[](https://twitter.com/colorincolorado "Follow Colorín Colorado on Twitter!")
 
 A bilingual site for families and educators of English language learners
 
@@ -64,13 +71,13 @@ To make our site more valuable to our visitors, we offer some features in conjun
 
 By using this site, you signify your agreement to the terms and conditions of this Colorín Colorado Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of Colorín Colorado following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us.
 
-As our ENL team is planning a parent night we love the Reading Tip Sheets! We were so excited to see that they are available in 11 languages. Thank you!   
-~ Franklin Township ENL Team 
+[](http://www.colorincolorado.org/about/by#aft "Major support for Colorín Colorado is provided by the American Federation of Teachers, AFL-CIO.")
+
+I bumped into your website a couple of months ago and I just wanted to let you know that I love it! You have a vast amount of information on English Language Learners that has been very helpful to me. Thanks for the website!   
+~ Elizabeth V.
 
 [](http://www.colorincolorado.org/guides/readingtips)
 
-[](http://www.colorincolorado.org/about/by#aft)
+[](http://www.ldonline.org/)
 
-[](http://www.colorincolorado.org/newsletters/tellegram)
-
-[](http://www.readingrockets.org/)
+[](http://www.colorincolorado.org/about/by#doe "Additional funding for Colorín Colorado comes from the United States Department of Education, Office of Special Education Programs.")
