@@ -1,21 +1,31 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001946id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225073801id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Adult Dating Services Online - SexInTheUK
 
-SexInTheUK is a trading name of EasyDate Ltd. 
+**Privacy Policy**
 
-SexInTheUK is committed to protecting your privacy. Our aim is to ensure that you can spend your time on the site looking for and making contact with other members. Our privacy policy is intended to ensure that you can do that without having to worry about confidentiality. 
+This website is owned and operated by Easy Date Limited (Company Number 4473833) trading as SexInTheUK. Our privacy policy relates only to information that we obtain from you and not to information obtained by third parties or via linked websites.
 
-1\. All acceptable information you publish or post on your Profile will be displayed on your Profile. We will remove any bad language or obscenities in the interests of a pleasant environment for all members. We will only post pictures and images which meet the guidelines set out in our membership terms and conditions. 
+**What information will be collected?**
 
-2\. Information you give us that is not for display on your Profile, such as your name, email address or date of birth, will be kept strictly private. Whenever we ask for such information we make it clear that it is not for display. 
+The type of information we will collect about you includes:- 
 
-3\. We will never sell, rent or otherwise share your name, email address, or other personal information with any other business or for any marketing campaign other than by SexInTheUK without your permission. 
+  1. your name, address, occupation, phone number and e-mail address 
+  2. the information included in your membership profile and that you provide via our client surveys, your interests and details about the services you specifically request.
 
-4\. We are required to give information to legal authorities if they have the proper authorisation such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the SexInTheUK web site. We are registered under the Data Protection Act (Reg No PZ7031016) to hold information about our members. 
 
-5\. We reserve the right to use the pictures you upload to your Profile for marketing purposes, advertising campaigns and on the pages available for non-registered visitors and members of the site. The digital images uploaded by you may be used for forming the layout of the site pages, promotional emails and banner animation.
 
-6\. Your individual use of SexInTheUK and your interaction with others through SexInTheUK will be kept strictly private. 
+We will never collect sensitive information about you without your explicit written consent. 
 
-We take our PRIVACY POLICY very seriously. We want you to have confidence whenever you use SexInTheUK. If you have questions or concerns, please email us at [admin@sexintheuk.com](mailto:admin@sexintheuk.com)
+**How will the information be used?**
+
+The information you provide to us when using this website will be used to administer your user account with us (including notifying you of any updates or services, should you consent to this), customise the site according to your interests, ensure that you are complying with the terms and conditions of use and to comply with our statutory and regulatory obligations. By registering a profile you consent to the wider dissemination of the information you provide in that profile to the other users of the site, some of whom may be outside the EEA to achieve your joint objectives. We will keep your personal information confidential except where you have posted it for publication or display, to the extent that we are compelled to disclose it by law or to comply with an instruction of a regulatory body of competent jurisdiction. We adhere to strict security procedures and your personal information will be held securely to ensure no unauthorised disclosure or access. 
+
+**Your Rights**
+
+Should you wish to obtain a copy of the personal data that we hold on you, please send an e-mail to admin@sexintheuk.com. If you believe that the information we hold about you is inaccurate or if you wish us to cease processing your data for any particular purpose or purposes, write to us at the above address or e-mail admin@sexintheuk.com. If you have a complaint regarding any breach of this privacy policy, contact us at admin@sexintheuk.com   
+**Tracking**
+
+When visiting our web pages, we generally use tracking technologies which record information about you automatically. This information does not identify you personally and is used to ensure that our Web pages stay compatible with a selection of browsers and systems. 
+
+Please click [here](https://web.archive.org/helptandc.asp?s=s) to access our full privacy policy.
