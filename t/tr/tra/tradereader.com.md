@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035942id_/http%3A//www.tradereader.com/Visitor/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225060235id_/http%3A//www.tradereader.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Trade Tender b2b auction information daily
+# Tradereader.com - Privacy Policy for Tender information Daily
 
+  
 **TradeReader.com** and its PROMOTORS **Anmol Infra Soft Inc** is committed to protecting your privacy and security.
 
-**Use of Personal & Business Information**
-
-We may require your personal information from time to time in order for us to provide you with our services such as Tender Alerts on Email, Tender Via Web Search, Trial services, Business listing services, Business promotion services like advertising, newsletters etc.
+**Use of Personal & Business Information** We may require your personal information from time to time in order for us to provide you with our services such as Tender Alerts on Email, Tender Via Web Search, Trial services, Business listing services, Business promotion services like advertising, newsletters etc.
 
 **TradeReader.com's** primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalization services, interactive communications and many other types of services. Business information may be used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user. 
 
@@ -17,8 +16,7 @@ In order to deliver such services, we will have to process and store your person
 **Links**  
 This web site contains links to other sites. Please be aware that **TradeReader.com** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-**Monitoring, Logs & Cookies**  
-We at **TradeReader.com** use IP address cookies etc. to analyze trends, administer the site, track site use, and gather broad demographic information for aggregate use. We also gather usage statistics such as pages viewed, number of unique visitors, browser software, screen resolution etc. for analysis that helps us provide you improved user experience and services.
+**Monitoring, Logs & Cookies** We at **TradeReader.com** use IP address cookies etc. to analyze trends, administer the site, track site use, and gather broad demographic information for aggregate use. We also gather usage statistics such as pages viewed, number of unique visitors, browser software, screen resolution etc. for analysis that helps us provide you improved user experience and services.
 
 If you have any comments or concerns regarding our Privacy Policy or want copy of information we hold about you, feel free to contact us.
 
