@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveyourtits.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621022835id_/http%3A//www.loveyourtits.com/MCE/lyt/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveyourtits.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225183810id_/http%3A//www.loveyourtits.com/MCE/lyt/0/privacy) for the most accurate reproduction.*
 
 # LoveYourTits.com :: Privacy Policy
 
@@ -7,3 +7,5 @@ Your privacy is important to us. To better protect your privacy we provide this 
 This notice applies to all information collected or submitted on LoveYourTits.com or any of the sites in our Network. On some pages you will be able to submit your e-mail address. This information will be used strictly for advertising news of special offers to our members or promotional purposes. This information is not subject to resale.
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [support@members-services.com](mailto:support@members-services.com)
+
+[Website Security](http://www.websitesecure.org/)
