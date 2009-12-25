@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219133643id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225104058id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
 
 # SuccessFactors Privacy Policy
 
@@ -37,6 +37,3 @@ If you receive marketing or similar e-mail messages from us and wish to opt out 
 ### Contacting Us
 
 If you have any questions about this Privacy Policy or this Web site, please contact us directly at: info@successfactors.com.
-
-[(800) 809-9920](https://web.archive.org/company/global-offices/) | [CONTACT](https://web.archive.org/company/contact/) | [SUPPORT](https://web.archive.org/support/)  
-
