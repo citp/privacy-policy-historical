@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelchannel.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422205819id_/http%3A//www.travelchannel.com/About/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelchannel.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225184730id_/http%3A//www.travelchannel.com/About/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy : About
 
