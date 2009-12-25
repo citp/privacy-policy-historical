@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cruises.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618140038id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruises.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225191219id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -59,225 +59,31 @@
 			//alert(event_name);
 		return true;
     }
+    function CallTracker(cat, cat2, value)
+    {
+    		pageTracker._trackEvent(cat, cat2, value);
+			//alert(event_name);
+		return true;
+    }
     
-// this function gets the destination name the user changes to in the widget on the results page and sends it to GA
-function getValueDropdown(formName)
-{
-	
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.places.options[formDOM.places.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Destination/" + dropValue);
-	
-}
-
-
-// this function gets the amount of days out the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown2(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.month.options[formDOM.month.selectedIndex].value;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-	
-var day1, day2;
-var month1, month2;
-var year1, year2;
-var value1, value2;
-var date1, date2;
-var firstDate, secondDate;
-var msPerDay, dbd;
-
-value1 = dropValue;
-value2 = new Date();
-
-day1 = value1.substring (0, value1.indexOf ("/"));
-month1 = value1.substring (value1.indexOf ("/")+1, value1.lastIndexOf ("/"));
-year1 = value1.substring (value1.lastIndexOf ("/")+1, value1.length);
-
-day2 = value2.getUTCDate();
-month2 = value2.getUTCMonth() + 1;
-year2 = value2.getUTCFullYear();
-
-date1 = year1+"/"+day1+"/"+month1;
-date2 = year2+"/"+month2+"/"+day2;
-
-firstDate = Date.parse(date1);
-secondDate= Date.parse(date2);
-
-msPerDay = 24 * 60 * 60 * 1000;
-dbd = Math.round((firstDate.valueOf()-secondDate.valueOf())/ msPerDay);
-
-CallUrchin("/UserEvents/SearchResults/" + refineName + "/DepartureWindowDays/" + dbd);
-
-}
-
-// this function gets the cruiseline the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown3(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.c.options[formDOM.c.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/CruiseLine/" + dropValue);
-}
-
-// this function gets the vessel the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown4(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.v.options[formDOM.v.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Vessel/" + dropValue);
-}
-
-// this function gets the cruise length the user chooses in the main widget on the results page and sends it to GA
-function getValueDropdown5(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.days.options[formDOM.days.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Length/" + dropValue);
-}
-
-
-// this function gets the port the user free types in the chaser widget on the results page and sends it to GA
-
-function getValueDropdown6(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.port.value;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Port/" + dropValue);
-}
-
-// this function gets the senior choice the user chooses in the chaser widget on the results page and sends it to GA
-
-function getValueDropdown7(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.IncludeSeniorRates.options[formDOM.IncludeSeniorRates.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Senior/" + dropValue);
-}
-
-// this function gets the alumni choice (yes or no, not the values) the user chooses in the chaser widget on the results page and sends it to GA
-
-function getValueDropdown8(formName)
-{
-	var dropValue;
-	var formDOM;
-	var refineName;
-	formDOM = document.getElementById(formName);
-	dropValue = formDOM.IncludeAlumniRates.options[formDOM.IncludeAlumniRates.selectedIndex].text;
-	if (formName = "AdvancedForm")
-	{
-	refineName = "Refine";
-	}
-	else
-	{
-	refineName = "Chaser_Refine";
-	}
-
-	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Alumni/" + dropValue);
-}
-
-</script>
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
     
+ </script>  
 
 
 
-        
-             
+
+
+
+
+
+
+
+
+
+
+	
+
+
 
 
 
@@ -296,7 +102,7 @@ function getValueDropdown8(formName)
 
 
 <!--
-	server and timestamp info:blweb07:Thu Jun 18 09:28:24 EDT 2009
+	server and timestamp info:blweb17:Fri Dec 25 14:11:52 EST 2009
   -->
 	
 
@@ -307,11 +113,76 @@ function getValueDropdown8(formName)
 
 
 
-
-
 <script language="javascript" src="/lib/JavaScript/general/cookies.js"></script>
 
-<script language="javascript">
+<style>
+#USfl {width:35px; height:17px; margin-top:0; margin-left:0; margin-right:1px; float:left;}
+#Canadafl {width:36px; height:17px; margin-top:0; margin-left:0; margin-right:1px; float:left;}
+#UKfl {width:28px; height:17px; margin-top:0; margin-left:0; margin-right:1px; float:left;}
+#Scotlandfl {width:28px; height:17px; margin-top:0; margin-left:0; margin-right:1px; float:left;}
+#Australiafl {width:35px; height:17px; margin-top:0; margin-left:0; margin-right:1px; float:left;}
+</style>
+
+<script type="text/javascript">
+var myCookie = getCookie("iphone");
+var cruPhone = null;
+var intlCruPhone = "1-800-288-6006";
+var iflagUS = "/images_unique/crudotcom/header/US_Off.gif";
+var iflagAustralia = "/images_unique/crudotcom/header/Australia_Off.gif";
+var iflagCanada = "/images_unique/crudotcom/header/Canada_Off.gif";
+var iflagUK = "/images_unique/crudotcom/header/UK_Off.gif";
+var iflagScotland = "/images_unique/crudotcom/header/Scotland_Off.gif";
+var iflagSelectedUS = false;
+var iflagSelectedAustralia = false;
+var iflagSelectedCanada = false;
+var iflagSelectedUK = false;
+var iflagSelectedScotland = false;
+
+if (myCookie == null ||  myCookie.length == 0)
+{
+	cruPhone = "<span id='headerphonetext'>1-800-288-6006</span>";
+	iflagUS = "/images_unique/crudotcom/header/US_On.gif";
+	iflagSelectedUS = true;
+
+}
+else if (myCookie == "US")
+{
+	cruPhone = "<span id='headerphonetext'>1-800-288-6006</span>";
+	intlCruPhone="1-800-288-6006";
+	iflagUS = "/images_unique/crudotcom/header/US_On.gif";
+	iflagSelectedUS = true;
+}
+
+else if (myCookie == "Australia")
+{
+	cruPhone = "<span id='headerphonetext'>1-800-02-0360</span>";
+	intlCruPhone="1-800-02-0360";
+	iflagAustralia = "/images_unique/crudotcom/header/Australia_On.gif";
+	iflagSelectedAustralia = true;
+}
+else if (myCookie == "Canada")
+{
+	cruPhone = "<span id='headerphonetext'>1-800-288-6006</span>";
+	intlCruPhone="1-800-288-6006";
+	iflagCanada = "/images_unique/crudotcom/header/Canada_On.gif";
+	iflagSelectedCanada = true;
+}
+else if (myCookie == "UK")
+{
+	cruPhone = "<span id='headerphonetext'>0808-234-4890</span>";
+	intlCruPhone="0808-234-4890";
+	iflagUK = "/images_unique/crudotcom/header/UK_On.gif";
+	iflagSelectedUK = true;
+}
+else if (myCookie == "Scotland")
+{
+	cruPhone = "<span id='headerphonetext'>0808-234-5211</span>";
+	intlCruPhone="0808-234-5211";
+	iflagScotland = "/images_unique/crudotcom/header/Scotland_On.gif";
+	iflagSelectedScotland = true;
+
+}
+
 
 
   function flagHighlight(name) {
@@ -350,37 +221,39 @@ function getValueDropdown8(formName)
 
 <iframe id="DivShim" src="b.gif" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;"></iframe>
  <script language="javascript" src="/lib/JavaScript/general/msgbox.js"></script>
- <div align="center">
 
 
-               
+
+             
                <div id="header_container_short" style="height:100px;">
-	<div id="header_logo_container_short" style="margin:0 155px 0 0;"><a href="http://www.cruises.com"><img src="/images_unique/crudotcom/logo.gif" width="216" height="52" border="0"></a></div>
+	<div id="header_logo_container_short" style="margin:17px 155px 0px 0px;"><a href="http://www.cruises.com"><img src="/images_unique/crudotcom/logo.gif" width="216" height="52" border="0"></a></div>
 	<div id="header_phone_container" style="width:400px;">
 	
-	<span id="header_phone_text"><span id="headerphonetext">1-800-288-6006</span></span>
+	<span id="header_phone_text"><script type="text/javascript">document.write(cruPhone);</script><span id="headerphonetext">1-800-288-6006</span></span>
 	<br>
-  
-        <img style="margin-left:5px;" id="iphoneUS" onmouseover="flagHighlight('US');" onmouseout="flagBlur('US',false);" onclick="changeFlag('US');" src="/images_unique/crudotcom/header/US_On.gif">
+  <div style="float:right">
+        <div id="USfl"><img style="margin-left:5px;" id="iphoneUS" onmouseover="flagHighlight('US');" onmouseout="flagBlur('US',iflagSelectedUS);" onclick="changeFlag('US');" src="/images_unique/crudotcom/header/US_On.gif"></div>
 
-        <img style="margin-left:5px;" id="iphoneCanada" onmouseover="flagHighlight('Canada');" onmouseout="flagBlur('Canada',false);" onclick="changeFlag('Canada');" src="/images_unique/crudotcom/header/Canada_Off.gif">
+        <div id="Canadafl"><img style="margin-left:5px;" id="iphoneCanada" onmouseover="flagHighlight('Canada');" onmouseout="flagBlur('Canada',iflagSelectedCanada);" onclick="changeFlag('Canada');" src="/images_unique/crudotcom/header/Canada_Off.gif"></div>
 
-        <img style="margin-left:5px;" id="iphoneUK" onmouseover="flagHighlight('UK');" onmouseout="flagBlur('UK',false);" onclick="changeFlag('UK');" src="/images_unique/crudotcom/header/UK_Off.gif">
+        <div id="UKfl"><img style="margin-left:5px;" id="iphoneUK" onmouseover="flagHighlight('UK');" onmouseout="flagBlur('UK',iflagSelectedUK);" onclick="changeFlag('UK');" src="/images_unique/crudotcom/header/UK_Off.gif"></div>
 
-        <img style="margin-left:5px;" id="iphoneScotland" onmouseover="flagHighlight('Scotland');" onmouseout="flagBlur('Scotland',false);" onclick="changeFlag('Scotland');" src="/images_unique/crudotcom/header/Scotland_Off.gif">
+        <div id="Scotlandfl"><img style="margin-left:5px;" id="iphoneScotland" onmouseover="flagHighlight('Scotland');" onmouseout="flagBlur('Scotland',iflagSelectedScotland);" onclick="changeFlag('Scotland');" src="/images_unique/crudotcom/header/Scotland_Off.gif"></div>
 
-        <img style="margin-left:5px;" id="iphoneAustralia" onmouseover="flagHighlight('Australia');" onmouseout="flagBlur('Australia',false);" onclick="changeFlag('Australia');" src="/images_unique/crudotcom/header/Australia_Off.gif">
-
+        <div id="Australiafl"><img style="margin-left:5px;" id="iphoneAustralia" onmouseover="flagHighlight('Australia');" onmouseout="flagBlur('Australia',iflagSelectedAustralia);" onclick="changeFlag('Australia');" src="/images_unique/crudotcom/header/Australia_Off.gif"></div>
+</div>
   <br>
   <script type="text/javascript">
 
  var aboutIphonehead = "About International Customers";
- var aboutIphonebody = "All prices appearing on our website are in U.S. dollars. Prices are subject to change at any time and without prior notice.<br /><br />International customers that wish to pay for a cruise using an international credit card must contact our cruise specialists by calling one of the following phone numbers to complete their purchase:<br /><br /><table width='300'><tr><td>USA</td><td>1-800-288-6006</td></tr><tr><td>Canada</td><td>1-800-288-6006</td></tr><tr><td>UK</td><td>0808-234-4890</td></tr><tr><td>Scotland</td><td>0808-234-5211</td></tr><tr><td>Australia</td><td>1-800-02-0360</td></tr></table><br /><br />If your country is not listed above, you may reach our cruise specialists by calling 1-617-587-6801. You may also contact us via <a href='mailto:customerservice@cruises.com' class='smlink'>email</a>.<br /><br />Cruises.com accepts most major international credit cards issued by banks worldwide. Your credit card company will normally convert your payment(s) from U.S. dollars to your local currency at the time of processing. International currency rates vary from day to day; Cruises.com has no control over the final conversion rate. We will provide confirmation of your booking via email or FAX. Upon review of the details of your booking, you will be asked to acknowledge receipt and acceptance of the information provided in the confirmation of your booking.<br /><br />All passengers must present specific documentation before boarding their cruise ship and visa requirements vary from country to country. International customers are encouraged to confirm their proof of citizenship requirements with the appropriate consulate. Citizens of Visa Waiver Program Countries who present valid, machine-readable passports may enter the U.S. without a visa. Citizens of these countries who travel without a machine-readable passport will be required to have a U.S. visa and a passport to enter the U.S. (for cruises departing the U.S.) or a valid multiple-entry visa (for cruises that depart and return to the U.S.). Visa Waiver Program Countries include Andorra, Australia, Austria, Belgium, Brunei, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Monaco, Netherlands, New Zealand, Norway, Portugal, San Marino, Singapore, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.<br /><br />Please note that international customers may be required to pre-pay gratuities when booking sailings aboard certain cruise lines. Your cruise specialist will communicate this requirement at the time of booking when applicable.";
+ var aboutIphonebody = "All prices appearing on our website are in U.S. dollars. Prices are subject to change at any time and without prior notice.<br /><br />International customers that wish to pay for a cruise using an international credit card must contact our cruise specialists by calling one of the following phone numbers to complete their purchase:<br /><br /><table width='300'><tr><td>USA</td><td>1-800-288-6006</td></tr><tr><td>Canada</td><td>1-800-288-6006</td></tr><tr><td>UK</td><td>0808-234-4890</td></tr><tr><td>Scotland</td><td>0808-234-5211</td></tr><tr><td>Australia</td><td>1-800-02-0360</td></tr></table><br /><br />If your country is not listed above, you may reach our cruise specialists by calling 1-617-587-6801. You may also contact us via <a href='mailto:customerservice@cruises.com' class='smlink'>email</a>.<br /><br />Cruises.com accepts most major international credit cards issued by banks worldwide. Your credit card company will normally convert your payment(s) from U.S. dollars to your local currency at the time of processing. International currency rates vary from day to day; Cruises.com has no control over the final conversion rate. We will provide confirmation of your booking via email or FAX. Upon review of the details of your booking, you will be asked to acknowledge receipt and acceptance of the information provided in the confirmation of your booking.<br /><br />All passengers must present specific documentation before boarding their cruise ship and visa requirements vary from country to country. International customers are encouraged to confirm their proof of citizenship requirements with the appropriate consulate. Citizens of Visa Waiver Program Countries who present valid, machine-readable passports may enter the U.S. without a visa. Citizens of these countries who travel without a machine-readable passport will be required to have a U.S. visa and a passport to enter the U.S. (for cruises departing the U.S.) or a valid multiple-entry visa (for cruises that depart and return to the U.S.). Visa Waiver Program Countries include Andorra, Australia, Austria, Belgium, Brunei, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Monaco, Netherlands, New Zealand, Norway, Portugal, San Marino, Singapore, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.<br /><br />Please note that international customers may be required to pre-pay gratuities when booking sailings aboard certain cruise lines. Your cruise specialist will communicate this requirement at the time of booking when applicable.<br /><br />Note: Azamara Cruises, Celebrity Cruises, Costa Cruises, Holland America Line, Oceania Cruises, Princess Cruises, and Royal Caribbean International now prohibit U.S. travel agencies (including Cruises.com) from selling cruises to customers who do not have a residence in the U.S. or Canada.";
 </script> 
-  <span class="home_column_text" style="font-weight:bold;">Click any flag to see our phone number for that country.</span><br>
+  
     <a style="font-size:0.7em;cursor:help;" onclick="po_Window.Show(event, aboutIphonehead, aboutIphonebody, 400);">About International Customers &amp; Cruise Pricing</a>
-
-<span id="header_offercode_text"><br></span></div>
+<div class="customer_block">
+			<a href="/cs/default.asp" class="whitelink">&gt;&gt;click here for customer service</a>
+		</div>
+</div>
 </div>
 
     <div id="navigationWrapper_short">
@@ -396,7 +269,7 @@ function getValueDropdown8(formName)
                         </li>
                         <li id="navSeparator"><img src="/images_unique/crudotcom/nav_separator-2x17.gif" width="2" height="17" border="0"></li>
                         <li id="navArr"><span id="darr">↓</span></li>
-                        <li id="navCruiseDeals"><a id="ctl00_Deals">cruise deals</a>
+                        <li id="navCruiseDeals"><a href="http://www.cruises.com/promotion/crudotcom/deals/cruise-deals.asp" id="ctl00_Deals">cruise deals</a>
                             <ul>
                                 <li><a id="ctl00_LastMinute" href="http://www.cruises.com/promotion/lastminutecruises/lastminutecruises.asp">
                                     Last Minute Deals</a></li>
@@ -406,12 +279,14 @@ function getValueDropdown8(formName)
                                     Balcony &amp; Suite Deals</a></li>
                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/family/family-cruises.asp">
                                     Family Cruises</a></li>
+                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/holiday/holiday-cruises.asp">
+                                    Holiday Cruises</a></li>
                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/weekend/weekend-cruises.asp">
                                     Weekend Cruises</a></li>
                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/luxury/luxury-cruises.asp">
                                     Luxury Cruises</a></li>
-                                <!--<li><a id="ctl00_CustomerHeader_existingreservations" href="">
-                                    &gt;&gt;See All Deals</a></li>-->
+                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/deals/cruise-deals.asp">
+                                    &gt;&gt;See All Cruise Deals</a></li>
                                 
                                 
                             </ul>
@@ -492,15 +367,23 @@ function getValueDropdown8(formName)
 
 				//-->
 			</script>
-    
-
-
-
-
-
-<div><script language="javascript">
+			
+			<script type="text/javascript">
+document.getElementById("iphoneUS").src = iflagUS;
+document.getElementById("iphoneCanada").src = iflagCanada;
+document.getElementById("iphoneUK").src = iflagUK;
+document.getElementById("iphoneScotland").src = iflagScotland;
+document.getElementById("iphoneAustralia").src = iflagAustralia;
 
 </script>
+
+   
+
+
+
+
+
+<div>
 
 <table width="780" cellspacing="0" cellpadding="0" border="0" align="center" class="bodybgcolor">
 	<tbody>
@@ -660,7 +543,7 @@ function getValueDropdown8(formName)
 	</tbody>
 </table>
 </div>
-</div>
+
 <div class="clearfloats">
 
 
@@ -673,7 +556,7 @@ function getValueDropdown8(formName)
 
 
 
-<div class="clear"></div>
+<div style="clear:both"></div>
 
 <div id="footerdiv_short"><img src="/images_unique/crudotcom/footerdiv_short.gif" width="780" height="2" border="0"></div>
 
@@ -713,7 +596,10 @@ Cruises.com offers unbeatable cruise deals on 18 top cruise lines - you'll get t
 
 
 
-<div id="crosslinks"><br>
+<div align="center">
+<div style="text-align:center;">
+
+<div id="crosslinks" style="width:100% !important;"><br>
 <a href="http://www.worldtravelholdings.com/" target="blank" class="smlink">World Travel Holdings</a> Brand Sites <br>
 <!--<a href="http://www.creativeleisure.com" target="blank" class="smlink">CreativeLeisure.com</a> | -->
 	
@@ -732,9 +618,10 @@ Cruises.com offers unbeatable cruise deals on 18 top cruise lines - you'll get t
 <br>
 
 </div>
+</div>
+</div>
 
 
-<iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
 <div style="visibility:hidden">
 <table>
