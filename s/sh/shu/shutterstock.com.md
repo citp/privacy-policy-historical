@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302163421id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225082528id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
-# Shutterstock: Privacy Statement for Shutterstock Images
+# Shutterstock: シャッターストック個人情報保護方針
 
-[](http://www.truste.org/ivalidate.php?url=www.shutterstock.com&sealid=101) **Privacy Statement for Shutterstock Images LLC.**
+現在、日本語サイトご利用ユーザーの皆様への翻訳文書作成をしています。完成次第このページに掲載されます。ユーザーとしての権利や義務に関して不明点がある場合、必ず英語版の規約を参照してください。 
+
+**Privacy Statement for Shutterstock Images LLC.**
 
 Last updated on 12/07/07. 
 
@@ -18,7 +20,7 @@ All personal information ("personal information" is defined as any information t
 
 **Entities collecting personal information**
 
-Personal information on this Site is collected by Shutterstock whose address is Shutterstock, 60 Broad Street, 30th Floor, New York, NY 10004, USA and its telephone number is 1-866-663-3954.
+Personal information on this Site is collected by Shutterstock whose address is Shutterstock Images LLC, 60 Broad Street, 30th Floor, New York, NY 10004, USA and its telephone number is 1-866-663-3954.
 
 **Service Providers / Agents**
 
@@ -82,14 +84,15 @@ IP addresses are tied to personally identifiable information to identify the cou
 
 **Privacy complaints**
 
-Shutterstock takes its users' privacy concerns seriously. If you believe that Shutterstock has not complied with this Privacy Policy with respect to your personal information, you may contact Privacy Officer at Shutterstock, 60 Broad Street, 30th Floor, New York, NY 10004, USA. In your letter please describe in as much detail as possible the ways in which you believe that the Shutterstock Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison with this Site to resolve your concerns.
+Shutterstock takes its users' privacy concerns seriously. If you believe that Shutterstock has not complied with this Privacy Policy with respect to your personal information, you may contact Privacy Officer at Shutterstock Images LLC, 60 Broad Street, 30th Floor, New York, NY 10004, USA. In your letter please describe in as much detail as possible the ways in which you believe that the Shutterstock Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison with this Site to resolve your concerns.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
  Privacy Officer at [privacy@shutterstock.com](mailto:privacy@shutterstock.com)  
 
 
-Shutterstock  
+Shutterstock Images LLC  
 60 Broad Street, 30th Floor  
 New York, NY 10004  
-USA 1-866-663-3954
+USA  
+1-866-663-3954
