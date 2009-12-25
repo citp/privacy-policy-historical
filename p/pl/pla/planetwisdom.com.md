@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619173511id_/http%3A//planetwisdom.com/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225175904id_/http%3A//www.planetwisdom.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - PlanetWisdom.com
+# Privacy Policy | PlanetWisdom.com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -47,4 +47,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 1-877-947-3660 or [contact us online](https://web.archive.org/contact).
+Should you have other questions or concerns about these privacy policies, please call us at 1-877-947-3660 or [contact us online](http://www.planetwisdom.com/contact).
