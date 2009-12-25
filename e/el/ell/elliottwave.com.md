@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626000855id_/http%3A//www.elliottwave.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225101553id_/http%3A//www.elliottwave.com/info/privacy.htm) for the most accurate reproduction.*
 
 # EWI Privacy Policy
 
