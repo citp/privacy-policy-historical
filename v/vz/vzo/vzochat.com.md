@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626060114id_/http%3A//vzochat.com/en/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225182815id_/http%3A//vzochat.com/en/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# VZOchat.com - Privacy Statement
+# Privacy Statement / Free Video Chat VZOchat
 
 [VZOCHAT.COM](http://vzochat.com/en/Default.aspx) is a service of Visicron Systems, Inc.('VISICRON').
 
-VISICRON is committed to protecting your privacy at all times. We do not sell, rent or lease any of the information collected to third parties without your prior permission. This Statement of Privacy governs data collection and usage at all VISICRON sites and services, including VZOchat. 
+VISICRON is committed to protecting your privacy at all times. We do not sell, rent or lease any of the information collected to third parties without your prior permission. This Statement of Privacy governs data collection and usage at all VISICRON sites and services, including VZOchat.
 
 ## Collection of Personal Information
 
