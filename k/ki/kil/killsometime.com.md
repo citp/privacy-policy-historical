@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626100530id_/http%3A//www.killsometime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225100508id_/http%3A//www.killsometime.com/privacy.asp) for the most accurate reproduction.*
 
 # KillSomeTime.com - Privacy Policy
 
 [Home](http://www.killsometime.com/ "KillSomeTime.com Homepage")    KillSomeTime.com Privacy Policy 
+
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1440501&afsid=1)
 
 KillSomeTime.com Privacy Policy 
 
@@ -18,42 +20,42 @@ Your use of the KillSomeTime.com website signifies your acceptance of this Priva
 
 Random Funny Pictures 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=966 "Squirrel having a Drink")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=836 "FAIL")
 
-**Hits:** 25,840   |    **Rating:** (9.7) 
+**Hits:** 68,148   |    **Rating:** (7.0) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=246 "Rough Night")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=270 "Puked in his sleep")
 
-**Hits:** 408,987   |    **Rating:** (6.0) 
+**Hits:** 263,421   |    **Rating:** (4.8) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=78 "Now thats a Beer Belly")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=946 "Ice Van")
 
-**Hits:** 292,520   |    **Rating:** (4.9) 
+**Hits:** 39,844   |    **Rating:** (6.0) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=414 "Batman to the Rescue")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=97 "She can be my mechanic any day")
 
-**Hits:** 602,891   |    **Rating:** (5.0) 
+**Hits:** 413,450   |    **Rating:** (7.5) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=744 "Dykes!")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=912 "Cool Lightning Strike")
 
-**Hits:** 101,359   |    **Rating:** (7.5) 
+**Hits:** 62,758   |    **Rating:** (8.3) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=11 "Homemade Air Bags")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=1238 "Nice Giraffe Statue")
 
-**Hits:** 317,185   |    **Rating:** (5.7) 
+**Hits:** 12,633   |    **Rating:** (7.8) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=531 "Foot Finger")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=823 "Bear Banging")
 
-**Hits:** 149,364   |    **Rating:** (6.2) 
+**Hits:** 99,796   |    **Rating:** (7.2) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=951 "Huge Sink Hole")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=2 "Cat looks pissed off")
 
-**Hits:** 25,762   |    **Rating:** (7.3) 
+**Hits:** 205,871   |    **Rating:** (7.4) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=758 "Balloon Porn")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=748 "Awesome Ass")
 
-**Hits:** 97,670   |    **Rating:** (7.2) 
+**Hits:** 140,606   |    **Rating:** (6.0) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=782 "Masturbating in the Showers")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=298 "Motorcycle Thong")
 
-**Hits:** 109,892   |    **Rating:** (8.3) 
+**Hits:** 665,799   |    **Rating:** (7.9) 
