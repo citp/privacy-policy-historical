@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingtoxic.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427013359id_/http%3A//www.nothingtoxic.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingtoxic.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225114607id_/http%3A//www.nothingtoxic.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NothingToxic.com
 
