@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522122610id_/http%3A//usa.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225193856id_/http%3A//usa.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy United States
 
 ## Kaspersky Lab Privacy Policy — United States and Canada
 
