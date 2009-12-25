@@ -1,335 +1,170 @@
-<!--The following is the downloaded HTML source of the familylink.com privacy policy that was archived on 2007-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071026092033id_/http%3A//www.familylink.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familylink.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225095022id_/http%3A//www.familylink.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="content-language" content="en">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="verify-v1" content="vFWeuszpo6N8yyIppRQaSmtWq0huuxWYacZjphIoHFY=">
-<title>FamilyLink.com :: Privacy</title>
-<link rel="stylesheet" type="text/css" href="themes/css/gfx/fl.css">
-<link rel="stylesheet" type="text/css" href="themes/css/gfx/fl_2.css">
-<style type="text/css">
-<!--	
-	#BLIND {
-		position: absolute; 
-		visibility: hidden; 
-		top: 0; 
-		left: 0; 
-		width: 180px;
-		height: 115px;
-		z-index: 1;
-		opacity: 0;
-		-moz-opacity: 0;
-		-khtml-opacity: 0;
-		filter: alpha(opacity=0);
-	}
-	#blinds_panel {
-		position: absolute;
-		top: 0;
-		left: 0;
-		z-index: 1;
-	}
-	#body{
-		position: relative;
-		z-index: 2;
-	}
-	.blind{
-		width: 180;
-		height: 115;
-		opacity: 0;
-		-moz-opacity: 0;
-		-khtml-opacity: 0;
-		filter: alpha(opacity=0);
-	}
-//-->
-</style>
-<script language="JavaScript">
-<!--
-	var NotiTimer = new Array;
-	var BlindIDCount = 0;	
-	function MM_preloadImages() { //v3.0
-		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-	}//MM_preloadImages
-	function HS_LaunchIM(){
-		url = MainURL+"modules/instant_messenger.php?action=launch";   
-		imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
-		imwin.focus();
-	}//HS_LaunchIM
-	function HS_LaunchChat(per_id){
-		url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
-		var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
-		newwin.focus();
-	}//HS_LaunchChat
-	function HS_BuildBlind(){		
-		BlindIDCount++;
-		var BlindID = "BLIND_"+BlindIDCount;
-		var BlindTemplate = document.getElementById("BLIND").innerHTML;
-		var Temp = new Array;
-		Temp = BlindTemplate.split("BLIND");
-		BlindTemplate = Temp.join(BlindID);
-		var BlindContent = "<div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div>";
-		var BlindsHandler = document.getElementById("blinds_panel");
-		if(BlindsHandler.offsetHeight >= 117){
-			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
-		}//if
-		else{
-			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
-		}//else
-		BlindsHandler.innerHTML+= BlindContent;
-		return BlindID;
-	}//HS_BuildBlind
-	/*
-	function HS_BuildNotification(NotiType,NotiMessage){
-		BlindID = HS_BuildBlind();
-		switch(NotiType){
-			case 'im':
-				var Link = "<a href="javascript:HS_LaunchIM();">"+NotiMessage+"</a>";
-				break;
-			case 'calendar':
-				var Link = "<a href="index.php?page=calendar" target="_blank">"+NotiMessage+"</a>";
-				break;
-			case 'mailbox':
-				var Link = "<a href="index.php?page=mailbox&section=inbox" target="_blank">"+NotiMessage+"</a>";
-				break;
-			case 'view':
-				var Link = "<a href="index.php?page=views" target="_blank">"+NotiMessage+"</a>";
-				break;
-		}//switch
-		var MessageHandler = document.getElementById("notification_message_"+BlindID);
-		MessageHandler.innerHTML = Link;
-		HS_FadeBlind(BlindID,"in");
-		NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
-	}//HS_BuildNotification
-	*/
-	function HS_FadeBlind(BlindID,Direction){		
-		var Timer = 0;
-		var Speed = 50;		
-		if(Direction == "in"){
-			HS_ChangeAlign('blinds_panel',3);
-			for(var i=10;i<=100;i=i+10){
-				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 
-            	Timer++;
-			}//for
-		}//if
-		else if(Direction == "out"){			
-			for(var i=90;i>=0;i=i-10){
-				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 				
-            	Timer++;
-			}//for
-			setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
-			setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
-		}//else if
-	}//HS_FadeBlind
-	function HS_ChangeOpacity(OpacityValue,BlindID){		
-		var BlindObjStyle = document.getElementById(BlindID).style;
-    	BlindObjStyle.opacity = (OpacityValue / 100); 
-    	BlindObjStyle.MozOpacity = (OpacityValue / 100); 
-    	BlindObjStyle.KhtmlOpacity = (OpacityValue / 100); 
-    	BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")"; 
-	}//HS_ChangeOpacity
-	function HS_PosBlinds(){
-		var ns = (document.layers)?1:0;
-		var Position = new Array;		
-		if(ns){
-			Position['Left'] = window.innerWidth + window.pageXOffset - 5;
-			Position['Top']  = window.innerHeight + window.pageYOffset - 5;
-		}//if
-		else{
-			Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
-			Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
-		}//else
-		var BlindsPanel = document.getElementById("blinds_panel");
-		BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
-		BlindsPanel.style.left = Position['Left'] - 180;
-		setTimeout("HS_PosBlinds()",500);
-	}//HS_PosBlinds
-	function HS_ChangeAlign(BlindID,Pos){	
-		var BlindObjStyle = document.getElementById(BlindID).style;
-		BlindObjStyle.zIndex = Pos;
-	}//HS_ChangeAlign
-	function HS_RemoveBlind(BlindID){
-		var BlindObj = document.getElementById(BlindID);
-		BlindObj.innerHTML = "";
-	}//HS_RemoveBlind
-	function HS_CloseNotification(BlindID){
-		clearTimeout(NotiTimer[BlindID]);
-		HS_FadeBlind(BlindID,'out');
-	}//HS_CloseNotification
-//-->
-</script>
-<script src="http://www.familylink.com/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="http://www.familylink.com/jscript/AC_ActiveX.js" type="text/javascript"></script>
-<script src="http://www.familylink.com/jscript/ajax_functions.js" type="text/javascript"></script>
-<script src="http://www.familylink.com/jscript/3rdparty/prototype.js" type="text/javascript"></script>
-<script src="http://www.familylink.com/jscript/3rdparty/scriptaculous.js" type="text/javascript"></script>
-<script src="/jscript/helper_functions.js" type="text/javascript"></script>
-<script src="/jscript/tree-ajax-handler.js" type="text/javascript"></script> 
-<script language="Javascript" src="/jscript/homepage-ajax-handler.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+  <title>FamilyLink.com</title>
+  <script type="text/javascript">var Server = {"server_path":"","server_url":"http:\/\/www.familylink.com","server_url_ssl":"https:\/\/www.familylink.com","site_url":"http:\/\/www.familylink.com","site_url_ssl":"https:\/\/www.familylink.com","static_url":"http:\/\/www.familylink.com\/www","static_url_ssl":"https:\/\/www.familylink.com\/www","ads":true,"ad_rand":1049351050,"next_page":"","page":"privacypolicy","session_id":""};</script>
+  <link rel="shortcut icon" href="http://www.familylink.com/www/favicon.ico">
 
-<script language="JavaScript">
-<!--
-    var MainURL = "{$url}/";
--->
-</script>
+  <link rel="stylesheet" type="text/css" charset="utf-8" href="http://www.familylink.com/www/css/jquery-theme/jquery-ui-1.7.1.custom.css?200912231411">
+<link rel="stylesheet" type="text/css" charset="utf-8" href="http://www.familylink.com/www/css/flcom.interface.common.css?200912231411">
+<link rel="stylesheet" type="text/css" charset="utf-8" href="http://www.familylink.com/www/css/ads.css?200912231411">
+<link rel="stylesheet" type="text/css" charset="utf-8" href="http://www.familylink.com/www/css/connect.facebook.com.css?200912231411">
+
+  
+
 
 </head>
-<!--body onLoad="/*HS_PosBlinds();*/;">
-<div class="handler">
-    <div class="page family_group_page">
-                -->
-<body onload="/*HS_PosBlinds();*/;" class="profile">
-    <div id="familylink">
-   		<div class="clearfix" id="wide_column">
-			<div id="logo_left" class="clearfix">
-				<a href="http://www.familylink.com"><h2><img src="/images/spacer.gif" class="logo_left" height="75"></h2></a>
-			</div><!--logo_left-->
-			<div id="wide_top_nav">
-													<ul class="right_nav" id="wide_top_nav_2">
-					<li class="inner_right_nav">
-						<a href="">What is FamilyLink.com?</a> |
-						<a href="/index.php?page=join">Join FamilyLink.com</a> |
-						( Already a member? <a href="/index.php?page=login">Login</a>)
-					</li>
-               </ul>
-			   			</div><!-- #wide_top_nav -->
+
+<body><!-- CUSTOM HEADER BEGIN -->
+
+<div class="header clearfix">
+     <h1>
+         <a class="home fl_logo left" href="http://www.familylink.com"></a>
+     </h1>
+     <h2 class="tagline">
+        Find, keep in touch, and grow closer to your relatives online.
+     </h2>
+     <span class="secure">
+         Secure
+     </span>
+</div>
+
+<!-- CUSTOM HEADER END --><div id="page_content_container" class="clearfix">
+	<table width="960" border="0" align="center" cellpadding="0" cellspacing="0" class="round_corners_lg disableSelection" id="page_content_container_table">
+		<tbody><tr>
+			<td class="top_left">&nbsp;</td>
+			<td class="middle">&nbsp;</td>
+			<td class="top_right">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="middle"></td>
+			<td class="content disableSelection">
+				<div id="page_column_left">
+					<h2 id="page_header">Privacy Policy</h2>
 					
-						</div><!--wide_column-->
+     <p>This policy is effective as of February 19, 2009 and has been updated as of September 29, 2009.</p>
+     <p>FamilyLink.com, Inc. has created online services, including the services found at FamilyLink.com, to enable family members to make connections and share information through social networking. The purpose of these applications is to provide family-based functionality within the context of more open social networking. We understand that you may not wish to share all of your personal information, especially information related to family, with everyone who is connected to you on FamilyLink or even within the services provided by FamilyLink.com. Our privacy settings require you to explicitly add your personal information or provide us with explicit permission to access your personal profile information found on Facebook or other third-party services.</p>
+     <p>FamilyLink.com, Inc. agrees with the two core principles established by Facebook:</p>
+     <ol>
+<li>You should have control over your personal information.</li>
+<li> You should have access to the information others want to share.</li>
+     </ol>
+     <h2>FamilyLink.com's Privacy Policy</h2>
+     <p>This Privacy Policy provides information on how we collect and use personal information within FamilyLink.com services and applications, including FamilyLink.com and the My Family and We’re Related applications on Facebook. This policy allows you to understand the purpose of collecting and sharing information, so you can make informed decisions on which personal information you want to share. For the purpose of this privacy policy, the use of "FamilyLink.com," "FamilyLink," "we," or "our" includes any social networking service, website, platform, or application developed or managed by FamilyLink.com, Inc.</p>
+     <p>By using or accessing our services, you are accepting the practices described in this Privacy Policy.</p>
+     <h2>Information We Use</h2>
+     <p>When you visit FamilyLink you are prompted to share information with us in two ways: by entering personal information to share with others using forms or by selecting options to share specific information with individuals you have identified as family members. Additionally, general behavioral information, such as login frequency and the number of postings, is also collected in order to improve the product over time. FamilyLink does not collect any additional personally identifiable information about you, including the specific information you post on FamilyLink properties, beyond the information you knowingly share.</p>
+     <p>FamilyLink allows you to enter personal information to create a shared profile. This information includes your name, your email address, your telephone number, your address, your gender, and other information that may be useful to share with other family members. Your profile information will be visible to other individuals you identify as family through our applications.</p>
+     <p>We collect the browser type and IP address of all FamilyLink.com visitors when they are using FamilyLink. We also use cookies to store certain information. A cookie is a small string of text stored on a user's computer by a web browser. To confirm that FamilyLink users are logged in to our site, we use session ID cookies that expire once the users close the browser. When you opt to allow us to access your information on another service, such as Facebook, we store your login ID (but not your password) in a persistent cookie to enable ongoing account access in the future without re-authentication to multiple services. If you do not want this feature, you can remove or block the cookie by using the settings in your browser.</p>
+     <p>When you use FamilyLink services, you may identify family members, create your personal profile, post messages, create or share a family tree, share family photos, view status updates, and receive notifications about other possible relationships based on the relationships you define. All of this activity results in user- generated content that is a key element of the personalized service we provide. This information only becomes a part of FamilyLink upon your action or approval as described above. This information becomes shared with other family members on FamilyLink and provides context for future family interactions.</p>
+     <p>You add information to FamilyLink at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are comprehensive and without fault. We do not have control over the actions of other users with whom you may share your information. As a result, we cannot ensure that content you post on FamilyLink will not be viewed by unauthorized persons.
+We are not responsible for evasion of any privacy settings or security measures implemented on FamilyLink or other sites or services that provide information to FamilyLink. </p>
+     <p>You may remove your content at any time; however, you understand and acknowledge that, once your information has been shared, your user content may still be accessible through cached or archived copies or may have been copied or stored by other members with whom you have relationships through FamilyLink.
+If you see any improper collection or misuse of information found on FamilyLink, please report it using the links available on the site, as it is a violation of the FamilyLink Terms of Service.</p>
+     <p>If you choose to invite others to join you on FamilyLink through our invitation feature, you will be asked to provide some information, such as your relative’s email address. We will use this contact information about your relative to send an invitation in your name. Once the invitation has been sent, a record of your invitation may be stored in our database and updated when the invitation is accepted. The contact information of those whom you invite to the service will not be used in any other manner beyond the purpose of the invitation.</p>
+     <p>To personalize your experience on FamilyLink, we may collect incidental information through your interactions on the service, such as advertising, according to your behavior and preferences. This incidental information may be collected through search interfaces, blogs, or other features. This information is used to personalize your experience on FamilyLink only and will not be shared with any third parties.</p>
+     <h2>Children Up to Age 18</h2>
+     <p>FamilyLink does not knowingly collect, solicit personal information, or allow anyone under the age of 13 to register on FamilyLink.  No one under age 13 may provide any personal information to or on FamilyLink. We will delete any information we discover from anyone under the age of 13. If you believe that we might have any information from or about a child under 13, please contact us at info@familylink.com. Further, individuals between the ages of 13 and 18 should consult with their parents and receive permission before sending personal information across the Internet. </p>
+     <h2>FamilyLink's Use of Your Information</h2>
+     <p>Once you register for an account on FamilyLink, you will have the opportunity to create your own profile and privacy settings.  Information, such as your name, email, and photo, that are included in your profile are shown to people in the networks you have specified. We may use your name and email address to send you notifications regarding new services offered by FamilyLink that we think you may find useful.</p>
+     <p>Profile information is used by FamilyLink primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (such as publishing your profile to a shared area), other FamilyLink users may be allowed to add information to your profile.</p>
+     <p>Profile information you submit to FamilyLink will be available to FamilyLink users who have been added as your relatives. Your name and profile picture thumbnail will be available in search results across the FamilyLink network through the possible relatives feature. Those limited pieces of information may also be incorporated into publicly viewable directories and services with your permission. This is primarily so your relatives (near and distant) can find you through relationships and learn how you may be related. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you and receive permission from you to establish a relationship. Access to your profile is then allowed based on your privacy settings.</p>
+     <p>FamilyLink may send you service-related announcements from time to time through the general operation of the service. For instance, if a relative shares a photo or family tree, or suggests a new relative connection, you may receive an email informing you of this information. </p>
+     <p>You may choose not to receive emails by adjusting your settings on the Notifications page; however, FamilyLink reserves the right to send you notices about your account even if you opt out of all voluntary email notifications. FamilyLink may use information in your profile without identifying you as an individual to third parties to personalize your experience and aggregate audience profile data, such as the number of relationships identified, age, and other pieces of data. This personalization is designed as a benefit to you. When aggregated data is published, you can learn more about the FamilyLink service. Additionally, the advertisements you see as part of FamilyLink are more likely to be interesting to you. For example, if you indicate you are interested in family history in your profile, you may receive advertisements from genealogy-related services. We do not inform the advertiser who you are or provide any personal data to the advertiser beyond aggregated data utilized for targeting purposes.</p>
+     <p>We may use information about you that we collect from other sources, such as newspapers, genealogy databases, other Internet sources such as blogs, and information provided by other members of FamilyLink. In these instances, we generally allow you to specify in your privacy settings whether you consent to the transfer of this information or to take other actions that limit the connection of this information to your profile (such as removing a link to your personal blog or family tree).</p>
+     <h2>Family Tree Data</h2>
+     <p>Family Tree Data is useful on FamilyLink to help identify possible relatives and to share ancestral data with other family members. Family trees by nature also include information about your relatives.
+You have the ability to choose those you want to view your family tree. You are responsible to know what information is included in your family tree and to obtain permission from living relatives if their personal information is included in your family tree.</p>
+     <p>If you choose to submit your family tree to a third-party service, you are solely responsible for the data that is included and shared through your family tree.</p>
+     <p>FamilyLink respects your privacy and the privacy of others. Family trees will never be shared, even within the FamilyLink community, without your explicit permission. You can also determine who has access to your family tree by limiting access to specific individuals who request to access your family tree.</p>
+     <p><strong>FamilyLink is not the publisher of your individual family tree and takes no responsibility for the information included in your family tree.</strong></p>
+	 <h2>Information Shared with Third Parties</h2>
+     <p>The FamilyLink service is designed specifically for connecting and sharing information with your relatives. This is achieved while still allowing you to set privacy settings that restrict other users from accessing your information. You can choose the information you share through FamilyLink. Our applications and services allow you to make informed choices about who has access to your information. We never provide contact information to third parties, including third party marketers, without your permission. We only share this information when we feel it is necessary to offer the service, it is legally required, or you have requested that the information be shared. For instance,</p>
+     <ul>
+<li> Your status updates, and family postings may aggregate over time and make them available to your relatives using FamilyLink.</li>
+<li> FamilyLink also limits access to site information by third party search engine "crawlers" (such as Google, Yahoo, MSN, Ask). FamilyLink takes action to block access by these engines to personal information beyond your name, profile picture, and limited aggregated data about your profile (such as number of relative connections, and so forth).</li>
+<li> We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties for the daily maintenance of our business, such as to host the service at a co-location facility for servers, to send out email updates about FamilyLink, to process payments for products or services, to conduct or aggregate survey data, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we incorporate protections limiting the use of that information to the FamilyLink-specified purposes.</li>
+<li> We may allow you to opt-in to share your contributed photos, family trees, or other user content with other web sites. These opportunities to share information beyond FamilyLink 1) will always be clearly identified and explained, and 2) will require specific action on your part to participate.</li>
+<li> FamilyLink uses the Facebook Platform. Using this platform, we may share certain information about you with others, based on your privacy settings. You may opt-out of any sharing of certain or all information through Platform Applications on the Privacy Settings page on Facebook. You can report any suspected misuse of information to FamilyLink.</li>
+<li> We may be required to disclose user information, as it may be necessary by law, to companies, lawyers, agents, or government agencies. We will not share this information until we are sure that the request meets applicable legal standards.</li>
+<li> You choose to share information with marketers or electronic commerce providers through offers found on FamilyLink.</li>
+<li> FamilyLink may also provide joint services with other companies. We will make it clear when another company is offering a service. If you use that service, we may share your information with the respected company.</li>
+<li> Using FamilyLink, you have the opportunity to make a purchase or post a review that your family members may view. To provide you with an awareness of what is being collected and shared with other third parties, we collect certain information and present it to you after you have completed a certain action. You can then determine whether this information should be discarded or shared with your friends.</li>
+<li> Similar to many other companies that interact with third party sites, we may receive some information even if you are logged out from FamilyLink, or that pertains to non-FamilyLink users, from those sites in conjunction with the technical operation of the system. In cases where FamilyLink receives information on users that are not logged in, or on non-FamilyLink users, we do not attempt to associate it with individual FamilyLink accounts and will discard it.</li>
+<li> If the ownership of all or substantially all of the FamilyLink business, or individual business units owned by FamilyLink, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In all circumstances, this transfer of information would be made in accordance with any pre-existing Privacy Policy.</li>
+     </ul>
+     <h2>Links</h2>
+     <p>FamilyLink is not responsible for privacy practices from other companies who may have links on our site. If you leave FamilyLink, please inform yourself of the privacy policies that exist on the current site you are visiting. This Privacy Policy applies only to information collected by FamilyLink.</p>
+     <h2>Third Party Advertising</h2>
+     <p>Advertisements found on FamilyLink are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address and may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize content. They may also collect information based on if and where you clicked on the advertisement. FamilyLink does not have access to or control of the cookies that may be placed by these advertisers. Third party advertisers have no access to your contact information stored on FamilyLink unless you share it with them. This privacy policy covers only the use of cookies by FamilyLink.</p>
+     <h2>Modifying or Deleting Information</h2>
+     <p>You can access and control your personal information using FamilyLink settings. At any time, FamilyLink users may modify or delete any of their profile information by logging into their accounts. Information will be updated immediately. Individuals may also deactivate their FamilyLink accounts. If you remove your account, some information may be available as a backup copy for a limited time. However, this information will not be shared with your family members on FamilyLink. If you have sent personal messages or other private information to family members on FamilyLink, this information can generally not be removed.</p>
+     <h2>Security</h2>
+     <p>FamilyLink takes appropriate precautions to protect the information of its users. Your account information is located on a secured server behind a firewall. If you have any questions about the security of the FamilyLink Web Site, please send an email to info@familylink.com.</p>
+     <h2>Terms of Use, Notices and Revisions</h2>
+     <p>Your use of FamilyLink, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. If we make changes to this policy, we will post them and will indicate at the top of this page the policy's new effective date. Please refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</p>
+     <h2>Contacting the Web Site</h2>
+     <p>If you have any questions about this privacy policy, please send an email to info@familylink.com. You may also contact us by mail at 4778 N 300 W, Suite 230, Provo, UT 84604.</p>
+			 </div>
 
-		<!--..submenu..-->
-								<div class="web_link" id="submenu">
-								 <!--PROFILE-->
-																	</div>
-				<!--web_link-->
-				
-		<div style="clear:both;"></div>
-        <!---->
-  
-		<div id="page_col" class="pagecol profile">
-	
-                        <div>
-
-<div>
-
-	<div class="blue-header">Terms of Use</div>
-<div class="sub-header"></div>
-<div class="blue-body">	
-	
-<h1 class="blue">FamilyLink.com Privacy Policy </h1>
-<div class="padded">
-  <p>This privacy statement("Privacy Statement") covers the Web site:   http://www.familylink.com, owned by WorldVitalRecords.com, and all   FamilyLink.com (“FamilyLink” “the Site”) services provided on the Site ("the   Service"). By visiting the Site, submitting information or using the Service,   you are accepting the practices outlined in this Privacy Statement.</p>
-  <p>Online privacy is important to FamilyLink. If you have any questions about   this privacy policy, please contact FamilyLink at <a href="mailto:customerservice@familylink.com">feedback@familylink.com.</a></p>
-  <p><strong>About FamilyLink</strong> </p>
-  <p>FamilyLink is a social network Web site that provides an innovative platform   to connect with individuals, research family history, and preserve memories<strong>. </strong>At FamilyLink, users set up a unique personal profile that can be viewed by   individuals throughout the world. </p>
-  <p>FamilyLink users can view the profiles of other individuals, communicate with   individuals who have researched or are currently researching in their area of   interest, meet new individuals who also participate in the service, share   photos, genealogical information, post comments, and also provide personal   information about themselves in their profile.</p>
-  <p>FamilyLink displays some personal information of members to members and   visitors to allow individuals to connect with each other and to find and   preserve their heritage.</p>
-  <br>
-  <p><strong>Information Collected by FamilyLink</strong> </p>
-  <p>FamilyLink collects user-generated information, such as name and email   address, which is used to identify users and also send notification related to   the user of the Service, such as a system-generated email that allows users to   opt in to the Service. </p>
-  <p><strong>Information Members Submit to FamilyLink </strong></p>
-  <p>Profile information including (but not limited to) name, gender, status,   location, connection, years of experience doing family history, family history   software, willingness to do local record research, as well as Internet research   for people, languages spoken and read, phone number, and Google Talk address can   be posted by the member at FamilyLink. You may choose not to submit this   information listed in the Profile and various sections on the Site., but then   you may be at a disadvantage for connecting with individuals and participating   in the Site features. This information is displayed according to whether the   member classifies his or her posting on the site as (1) visible for all to see;   (2) limited profile – only my connections can view. Photos uploaded to the site   will be visible for all who visit the site.</p>
-  <p>Members may also create AncestorPages, which allows the member to display   information about their ancestors, such as name, birth date, death dates,   historical information, as well as photos. Members who create a MyAncestor Page   have the following options for displaying the information (a) Visible to   everyone; (b) limited profile – only my connections can view; (c) private – for   personal use only. </p>
-  <p><strong>Information Collection and Use</strong> </p>
-  <p>FamilyLink will not rent, sell, trade, share, or give away any of your   personal information, unless your consent is provided.</p>
-  <p>FamilyLink automatically receives and records information on its server from   your browser, including information such as your Internet Protocol address, and   browser type information, such as cookies, and the pages you request. This   information assists FamilyLink in understanding the information that is valuable   to you, helps in managing the Web site, and also provides FamilyLink with   information to make any necessary site changes to give you the best user   experience possible.</p>
-  <p>FamilyLink may use a member’s email address to send news updates, or   promotional material. Members who does not wish to receive this information of   this type may unsubscribe by clicking on the <em>Unsubscribe or change subscriber   options</em> link located at the bottom of every email.<br>
-  </p>
-  <p>Updating/Removing Personal Information </p>
-  <p>FamilyLink members have the capability to change their profile information at   any time and can control how other members and visitors communicate with them,   as well as the personal information that is displayed.</p>
-  <p>Members may terminate their account by sending an email to   unsubscribe@familylink.com.</p>
-  <p><strong>Invitations to Non-Members</strong> </p>
-  <p>FamilyLink members can invite friends and family members to join the service   by sending them invitation emails through our automated FamilyLink system. These   individuals will participate in the same setup process by providing their name   and email address.</p>
-  <p>FamilyLink members may also store email addresses in their MyConnections   page. Invitations to join FamilyLink can be sent to individuals listed in this   location.</p>
-  <br>
-  <p><strong>Use of Cookies</strong><br>
-  </p>
-  FamilyLink uses   cookies to prepare customized Web pages for its members. Cookies are used to   store information such as preferences, and also allows the FamilyLink system to   recognize its members whenever they use their Web browser. You may be able to   configure your Web browser to accept or reject some or all of the cookies.   Cookies must be enabled on FamilyLink to access some of the features on the   site. <br>
-  <p><strong>Links</strong><br>
-      <br>
-    FamilyLink members   may post links to various sites. FamilyLink is not responsible for any content,   privacy policies or practices located on other Web sites. Members and visitors   should read and understand the privacy policies of these sites when they access   them from FamilyLink. <br>
-  </p>
-  <p><strong>Privacy Policy Changes</strong> </p>
-  <p>FamilyLink reserves the right to update this policy from time to time.   Members are bound to any minor changes in the Privacy Policy upon using the   site, once the changes have been made. Members will be notified of any   significant changes to this policy by email. <br>
-  </p>
-  <p><strong>Questions and Suggestions. </strong></p>
-  <p>If you have questions or suggestions regarding this Privacy Policy, please   send an email to <a href="mailto:feedback@familylink.com">feedback@familylink.com</a>.</p>
-  <p>You may also contact us at:</p>
-  <p>FamilyLink<br>
-    1234 North 900 East, Suite 201<br>
-    Provo, UT 84606 </p>
-</div>
-	<div style="clear:both;"></div>
-</div>	
-</div>
-
-</div></div><!-- #page_body -->
-
-<div style="clear:both;height:5px;"><img src="themes/css/gfx/spacer.gif" alt="" border="0" width="1" height="1"></div>
-
-
-<div class="footer"> FamilyLink.com, a service of <a href="http://www.worldvitalrecords.com/?cpn=familylink" class="wvr">WorldVitalRecords.com</a> | <a href="/index.php?page=terms">Terms</a> | <a href="/index.php?page=privacy">Privacy</a></div>
-
-</div><!-- #sidebar -->
-
-<!-- #book -->
-
- 
-<!-- SiteCatalyst code version: H.9.
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="/s_code.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+				<div id="page_column_right" class="disableSelection">
+					<div class="panel sidebar tan">
+						<div class="panel_header" onclick="window.location.href='faq';">Frequently Asked Questions</div>
+						<div class="panel_body"><img src="http://www.familylink.com/www/images/question_icon.png">&nbsp; <a href="faq">Questions? Read our FAQ »</a></div>
+					</div>
+				</div>			</td>
+		 <td class="middle">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="bottom_left">&nbsp;</td>
+			<td class="middle">&nbsp;</td>
+			<td class="bottom_right">&nbsp;</td>
+		</tr>
+	</tbody></table>
+</div><div class="footer">
+  <div class="right">FamilyLink.com Property 2009 ©</div>
+  <div class="left"> 
+    <a href="http://www.familylink.com/privacypolicy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://corporate.familylink.com/tos.htm">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://www.familylink.com/contactus">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://www.familylink.com/faq">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://corporate.familylink.com/">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://familylink.uservoice.com/" target="_blank">Give Feedback</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://corporate.familylink.com/advertise/">Advertise With Us</a>
+  </div>
+  <div class="clearfix"><!-- --></div>
+</div><script type="text/javascript" src="http://www.familylink.com/www/js/lib/jquery/jquery.min.js?200912231411"></script>
+<script type="text/javascript" src="http://www.familylink.com/www/js/lib/jquery/jquery-ui.min.js?200912231411"></script>
+<script type="text/javascript" src="http://www.familylink.com/www/js/lib/jquery/jquery.ui.overrides.js?200912231411"></script>
+<script type="text/javascript" src="http://www.familylink.com/www/js/lib/jquery/jquery.FLloading.js?200912231411"></script>
+<script type="text/javascript" src="http://www.familylink.com/www/js/lib/jquery/jquery.form.js?200912231411"></script>
+<script type="text/javascript" src="http://www.familylink.com/www/js/common.js?200912231411"></script>
+<script type="text/javascript" src="http://www.familylink.com/www/js/lib/jquery/jquery.confirm.js?200912231411"></script>
 
 
 
 
-s.pageName=""
-s.server=""
-s.channel=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-/* E-commerce Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://plabfamilylink.112.2O7.net/b/ss/plabfamilylink/1/H.9--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.9. -->
+
+<!-- Google Analytics Tracking code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2772564-19");
+pageTracker._trackPageview('privacypolicy');
+} catch(err) {}
+</script>
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-_qacct="p-acpqa6Vva0516";quantserve();</script>
+<script type="text/javascript">_qacct="p-86YkM5oSeBMSE";quantserve();</script>
 <noscript>
-<img src="http://pixel.quantserve.com/pixel/p-acpqa6Vva0516.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<a href="http://www.quantcast.com/p-86YkM5oSeBMSE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-86YkM5oSeBMSE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
 <!-- End Quantcast tag -->
-
-
 
 
 
