@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624163947id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225085541id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
 
 # John Deere - Privacy and Legal
 
