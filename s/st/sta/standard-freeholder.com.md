@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072552id_/http%3A//www.standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225190017id_/http%3A//standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## Osprey Media.
+## Sun Media.
 
 ### WEB-SITE PRIVACY POLICY
 
@@ -93,7 +93,7 @@ Links:
 
 _Contacting the Privacy Manager_  
 The Privacy Manager  
-Osprey Media  
+Sun Media  
 100 Renfrew Drive, Suite 110  
 Markham,Ontario  
 L3R 9R6  
