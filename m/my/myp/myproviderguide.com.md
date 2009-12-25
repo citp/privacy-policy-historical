@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425034245id_/http%3A//myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225121037id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | MyProviderGuide
+# Privacy Policy | My Provider Guide
 
 Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and how the information is collected and used on myproviderguide.com.
 
