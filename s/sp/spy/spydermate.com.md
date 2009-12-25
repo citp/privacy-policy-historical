@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spydermate.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605160334id_/http%3A//spydermate.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydermate.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225072036id_/http%3A//spydermate.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpyderMate™
 
 [](https://web.archive.org/)
 
-You have 7 free SpyderMate uses remaining! For more free uses each month, [register](https://web.archive.org/register.php). 
+You have 3 free SpyderMate uses remaining! For more free uses each month, [register](https://web.archive.org/register.php). 
 
 ## What do you do with the information you collect?
 
