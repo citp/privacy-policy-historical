@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the personalcreations.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142937id_/http%3A//www.personalcreations.com/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcreations.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225085554id_/http%3A//www.personalcreations.com/security_and_privacy.html) for the most accurate reproduction.*
 
 # Personalized Gifts from Personal Creations
 
-**Security & Privacy**  
+**Security & Privacy**   
 |  | We would like your shopping experience to be pleasant and safe. After you click the Checkout button, you'll see that the prefix in the URL is "https:" and the "s" means that the site is secure. To protect the information you send with your order, we use Secure Sockets Layer (SSL) technology. SSL encrypts the information you send over the Internet so only Personal Creations can decode it. If your browser doesn't allow communication through secure servers, please place your order by phone at 1-800-326-6626. Please do not email your credit card information, because email is not encrypted.   
 ---|---  
 **Collection of Information**  
@@ -33,4 +33,4 @@ Please supply us with your correct telephone numbers and email address so we can
 **Fair Credit Billing Act:**  
 We guarantee that every online transaction you make will be 100% safe. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-If you would like more information about privacy or security, please [Contact Us](https://web.archive.org/web/20090618142937id_/http%3A//www.personalcreations.com/contact_us.asp) with your question.
+If you would like more information about privacy or security, please [Contact Us](https://web.archive.org/web/20091225085554id_/http%3A//www.personalcreations.com/contact_us.asp) with your question.
