@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522083145id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225103757id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.*
 
 # Free Porn | Sex | Porno > Tnaflix - Privacy Policy
+
+## TnaFlix Privacy Policy
 
 Tnaflix.com recognizes that its customers, visitors, users, and others who use Tnaflix value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Tnaflix web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
