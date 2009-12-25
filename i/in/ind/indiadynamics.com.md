@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiadynamics.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626222725id_/http%3A//classifieds.indiadynamics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiadynamics.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225074055id_/http%3A//classifieds.indiadynamics.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -47,4 +47,4 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 Your most reliable resource for Jobs, Cars, plots, ads, Houses, Flats, Builders, India Real Estate, Services...
 
-**IndiaDynamics - Free India Classifieds - The Number 1 India Classified Ads Portal**
+**India Classifieds - The Number 1 India Classified Ads Portal**
