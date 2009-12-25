@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622001518id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225015952id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
 
 # AOL.ca - Privacy Policy
 
@@ -18,6 +18,9 @@ In general, our service automatically gathers certain "ratings" information when
 
 **Information About You**  
 Sometimes, we may specifically ask for information about you when you sign up to use a service, like AOL Instant Messenger, or when you order a product. We will need certain information in order to provide that service or product to you and may also use that information to offer you additional products and services about which you might be interested. We may ask you for interest information so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not. Additionally, we may provide you with an opportunity to be listed in a directory on one of our AOL-branded services — these listings are also optional and you can make changes to or eliminate this information when you want to. 
+
+**Third-party Advertising/Networks**  
+We use third-party advertising companies and networks to serve ads. These third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: <http://networkadvertising.org/consumer/opt_out.asp>
 
 **Disclosure**  
 We do not use or disclose information about your individual visits to AOL.CA or information that you may give us, such as your name, address, E-mail address or telephone number, to any outside companies. But as we mention above, we may share with our Web site partners aggregated statistical "ratings" information about the use of AOL.CA. 
