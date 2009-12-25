@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 100buckschallenge.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626222043id_/http%3A//100buckschallenge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100buckschallenge.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225084321id_/http%3A//100buckschallenge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The $100 Challenge
+# Privacy Policy | The Internet Marketing Challenge Blog
 
 **Our Commitment To Your Privacy**
 
@@ -27,9 +27,3 @@ We have included links on this site for your reference. We are not responsible f
 The content of this statement may be altered at any time.
 
 Have a question? Just contact me at support@100buckschallenge.com!
-
- Mail this post
-
-Popularity: 3% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-Technorati Tags: [privacy](http://technorati.com/tag/privacy)
