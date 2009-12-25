@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624072409id_/http%3A//store.businessmonitor.com/pages/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225074630id_/http%3A//store.businessmonitor.com/pages/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
