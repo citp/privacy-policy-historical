@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913044301id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225044508id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
 
-# AllWords.com - Dictionary, Guide, Community and More
+# Allwords Privacy Policy
 
 |   
 ---  
 [Home                   ](http://www.allwords.com/)  
 [Word of the Week](http://www.allwords.com/wow.php)  
-[Links for Word Lovers](http://www.allwords.com/wlinks.php)  
+[Links for Word Lovers](http://www.allwords.com/word-lovers.php "Word Lovers links")  
 [Crossword Solver](http://www.allwords.com/solver.php)  
-[AllWords Forums   ](http://www.allguides.com/)  
-[AllWords Blog     ](http://blog.allwords.com/)  
-[Help                      ](http://www.allwords.com/genpage.php?page=text/queryhelp.txt)  
-[Bookstore            ](http://www.mystery-book-store.com/)  
-[Advertise             ](http://www.allwords.com/genpage.php?page=text/contact.php)  
+[Help                      ](http://www.allwords.com/allwords-help.php)  
 [Copyrights           ](http://www.allwords.com/copyright.php)  
 [Privacy                 ](http://www.allwords.com/privacy.php)  
-[AllWords Search Box](http://www.allwords.com/allwords-search-box.php)  
-[Contact Us           ](https://web.archive.org/web/20080913044301id_/http%3A//www.allwords.com/13gtfagt.php)  
+[Webmasters](http://www.allwords.com/allwords-search-box.php)  
+[Link to Us](http://www.allwords.com/link-to-allwords.php "Link to Allwords")  
+[Contact Us           ](https://web.archive.org/web/20091225044508id_/http%3A//www.allwords.com/13gtfagt.php)  
+[Bookstore            ](http://www.alittlegreenbook.com/)  
   
+
+
 [](http://www.4offsets.com/certificate.php?cr=511899776 "Website CO2 Offsets at www.4offsets.com")
 
-  
   | 
 
-_[](http://www.allwords.com/) _   
-English Dictionary - With Multi-Lingual Search 
+_[](http://www.allwords.com/) _
 
 Privacy on the internet has been a front page story in the USA for the last few months and we think it's an important issue. Here at AllWords.com and other sites created by AllSites LLC, we take your privacy very seriously. We offer you the details of our policy: 
 
@@ -38,7 +36,7 @@ So, feel free to sign our guest book, or register for our products, we value you
 
 Please note that many advertiser networks use cookies to help track the effectiveness of advertisements and to better match ads with visitors to our site. These cookies will not contain personal information, unless you have provided that information. If you are concerned, you can set your browser to refuse cookies, or to give you the option to refuse a cookie that is being sent to you. 
 
-If you have any questions or comments, [contact us](https://web.archive.org/web/20080913044301id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
+If you have any questions or comments, [contact us](https://web.archive.org/web/20091225044508id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
 
-|   [](http://www.bookmasters.com/marktplc/02229.htm)  
-  [](http://www.bookmasters.com/marktplc/02229.htm)
+|      
+  [](http://www.shareresults.com/t/url.php/cid/12540/sid/9286)
