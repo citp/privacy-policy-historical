@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietclub.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219171613id_/http%3A//www.calorieking.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietclub.com.au privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225182318id_/http%3A//www.calorieking.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
