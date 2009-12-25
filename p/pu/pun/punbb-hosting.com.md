@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punbb-hosting.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422164320id_/http%3A//www.punbb-hosting.com/terms.php%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punbb-hosting.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225164824id_/http%3A//www.punbb-hosting.com/terms.php%23privacy_policy) for the most accurate reproduction.*
 
 # Free PunBB Forum Hosting / Terms of Service
 
