@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the flychina.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619210720id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flychina.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225192206id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>FlyChina Privacy Statement</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="description" content="Fly China Information">
@@ -26,6 +26,15 @@
 <body>
 <script type="text/JavaScript" src="http://rt.trafficfacts.com/tf.php?k=8368gc2a1ea5bfd98551f1c363a6aa6cb0c5ea7ce2712h8&amp;c=s">
 </script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2885339-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 <table width="768" cellpadding="0" cellspacing="0"><tbody><tr><td>
 <table width="768" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -78,6 +87,300 @@
 </a><br><br><a class="left_menu" href="/links.asp">Travel Information
 </a><br><br><a class="left_menu" href="/news.asp">Travel News
 </a><br><br>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Ctrip Hotel and Flight Search</title>
+<script language="JavaScript" type="text/javascript" src="http://cdn1.ctrip.com/js/JSDateFunction.js"></script>
+<script language="javascript" src="Calendar/calendar.js"></script><iframe id="CalFrame" name="CalFrame" frameborder="0" src="Calendar/calendar.htm" style="display:none;position:absolute;z-index:100"></iframe>
+<script language="javascript">
+function setCheckInDate(d)
+	{
+		document.getElementById("starttime").value=d;
+		//if(document.getElementById("deptime").value.length==0)
+		//{
+			showCalendar('deptime',false,'deptime','starttime');
+		//}
+	}
+function setDepartDate(d)
+	{
+		document.getElementById("DDatePeriod1").value=d;
+		showCalendar('ADatePeriod1',false,'ADatePeriod1','DDatePeriod1');
+	}
+function searchsubmit()
+{var fH=document.hotel;
+if (fH.starttime.value.length==0){alert("Please input check-in date");
+fH.starttime.focus();return false;}
+if(!isDateString(fH.starttime.value)){alert("Please input valid date as YYYY-MM-DD");
+fH.starttime.focus();return false;}
+if (stringToDate(fH.starttime.value,true)<stringToDate(fH.perdate.value,true))
+{alert("Check-in date can not be earlier than "+fH.perdate.value+"!");
+fH.starttime.focus();return false;}
+if (stringToDate(fH.starttime.value,true)>=stringToDate(fH.postdate.value,true))
+{alert("This page does not support online booking later than "+fH.postdate.value+". Please call 400-619-9999 to book!");}
+if (fH.deptime.value.length==0)
+{alert("Please input check-out date");fH.deptime.focus();return false;}	
+if(!isDateString(fH.deptime.value))
+{alert("Please input valid date as YYYY-MM-DD");
+fH.deptime.focus();return false;}
+if (stringToDate(fH.deptime.value,true)<=stringToDate(fH.starttime.value,true))
+{alert("Check-out date can not be earlier than check-in date "+fH.starttime.value+"!");
+fH.deptime.focus();return false;}
+if (stringToDate(fH.deptime.value,true)>stringToDate(fH.postdate.value,true))
+{alert("This page does not support online booking later than "+fH.postdate.value+". Please call 400-619-9999 to book!");}
+if (fH.htln.value=="ÖÐÎÄ»òÆ´ÒôÊ××ÖÄ¸")fH.htln.value="";
+return true;
+} 
+function openwindowguide(){window.open('http://cds.ctrip.com/html/home/homepage/quicksearch.htm','','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,height=340,width=400');}
+</script>
+<style type="text/css">
+<!--
+.text1 {
+	font-size: 11px;
+	font-family: "Arial";
+}
+.text2 {
+	font-size: 11px;
+	font-family: "Arial";
+	font-weight: bold;
+	color: #003399;
+}
+.input {
+	width: 90px;
+	height: 16px;
+	font-family: "Arial";
+	font-size: 11px;
+}
+body {
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.txt {
+	font-family: "Arial";
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+}
+.orange {
+	font-family: "Arial";
+	font-size: 11px;
+	color: #FF6600;
+	text-decoration: underline;
+}
+.style7 {color: #FF0000}
+.style9 {color: #FF0000; font-size: 10px; }
+.black {font-family: "Arial"; color: #000000; font-size: 11px; }
+.black2 {font-family: "Arial"; color: #000000; font-size: 12px; }
+.black12 {font-family: "Arial"; color: #000000; font-size: 11px; }
+.red01{color: #ff6500; font-size: 11px; font-weight:bold; }
+.red01 a:link,.red01 a:visited,.red01 a:hover{color: #ff6500; font-size: 11px; font-weight:bold; text-decoration:none;}
+.white {color: #ffffff; font-size: 11px; font-weight:bold; }
+.white a:link,.white a:visited,.white a:hover{color: #ffffff; font-size: 11px; font-weight:bold; text-decoration:none;}
+.pubGlobal_queryBtn04 {	PADDING-RIGHT: 0px;	PADDING-LEFT: 13px;	FONT-WEIGHT: bold;	BACKGROUND: url(http://pic.english.ctrip.com/engCommon/btn_query02.gif) no-repeat;PADDING-BOTTOM: 0px;OVERFLOW: hidden;WIDTH: 80px;CURSOR: pointer;COLOR: #0467cd;	BORDER-TOP-STYLE: none;	PADDING-TOP: 0px;BORDER-RIGHT-STYLE: none;BORDER-LEFT-STYLE: none;HEIGHT: 20px;	BORDER-BOTTOM-STYLE: none}
+-->
+</style>
+
+
+
+
+	<!-- hotel start-->
+<table style="border-style:solid; border-color:#666666; border-width:2px;" cellspacing="0" cellpadding="5">
+
+<form name="hotel" method="post" action="http://english.ctrip.com/copsiteredirect.asp" onsubmit="return searchsubmit();" target="_blank"></form>
+		<input type="hidden" name="sDown" value="http://hotels.english.ctrip.com/Domestic/ShowHotelList.aspx">
+		<input type="hidden" name="source" value="haUbaIwbCbYghvbaeXbafzlaujh">
+		<input type="hidden" name="StarAll" value="all"><input type="hidden" name="PriceAll" value="all">
+		<input type="hidden" name="perdate" value="2020-2-2">
+		<input type="hidden" name="postdate" value="2021-0-4">
+
+		<input type="hidden" name="channel" value="1">
+  <tbody><tr>
+
+    <td>
+        	<table width="100" height="97" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td class="black">
+<div align="center"><b>China's Hotels</b>
+<hr>
+</div>
+
+City<br>
+<select name="cityname1" class="black12" id="cityname1">
+<option selected="" value="Beijing">Select a city</option>
+<option>Anqing</option>
+<option>Anshan</option>
+<option>Baotou</option>
+<option>Beidaihe</option>
+<option>Beihai</option>
+<option>Beijing</option>
+<option>Changchun</option>
+<option>Changde</option>
+<option>Changsha</option>
+<option>Changzhi</option>
+<option>Changzhou</option>
+<option>Chaoyang</option>
+<option>Chengde</option>
+<option>Chengdu</option>
+<option>Chifeng</option>
+<option>Chongqing</option>
+<option>Dali</option>
+<option>Dalian</option>
+<option>Dandong</option>
+<option>Datong</option>
+<option>Diqing</option>
+<option>Dongguan</option>
+<option>Dunhuang</option>
+<option>Fuzhou</option>
+<option>Ganzhou</option>
+<option>Guangzhou</option>
+<option>Guilin</option>
+<option>Guiyang</option>
+<option>Haikou</option>
+<option>Hangzhou</option>
+<option>Harbin</option>
+<option>Hefei</option>
+<option>Heihe</option>
+<option>Hengyang</option>
+<option>Hohhot</option>
+<option>Hong Kong</option>
+<option>Huangshan</option>
+<option>Huangyan</option>
+<option>Jiamusi</option>
+<option>Jiayuguan</option>
+<option>Jilin</option>
+<option>Jinan</option>
+<option>Jingdezhen</option>
+<option>Jinghong</option>
+<option>Jinjiang</option>
+<option>Jinzhou</option>
+<option>Jiujiang</option>
+<option>Jiuzhaigou</option>
+<option value="Kashgar">Kashgar/Kashi</option>
+<option>Kunming</option>
+<option>Lanzhou</option>
+<option>Lhasa</option>
+<option>Liangping</option>
+<option>Lianyungang</option>
+<option>Lijiang</option>
+<option>Linyi</option>
+<option>Liuzhou</option>
+<option>Luoyang</option>
+<option>Lu Shan</option>
+<option>Luzhou</option>
+<option>Macau</option>
+<option>Manzhouli</option>
+<option>Meixian</option>
+<option>Mianyang</option>
+<option>Mudanjiang</option>
+<option>Nanchang</option>
+<option>Nanchong</option>
+<option>Nanjing</option>
+<option>Nanning</option>
+<option>Nantong</option>
+<option>Nanyang</option>
+<option>Ningbo</option>
+<option>Panzhihua</option>
+<option>Qingdao</option>
+<option>Qingyang</option>
+<option>Qinhuangdao</option>
+<option>Qiqihaer</option>
+<option>Qufu</option>
+<option>Sanya</option>
+<option>Shanghai</option>
+<option>Shantou</option>
+<option>Shenyang</option>
+<option>Shenzhen</option>
+<option>Shijiazhuang</option>
+<option>Simao</option>
+<option>Suzhou</option>
+<option>Taiyuan</option>
+<option>Tangshan</option>
+<option>Tianjin</option>
+<option>Tongren</option>
+<option>Ulanhot</option>
+<option>Urumqi</option>
+<option>Weifang</option>
+<option>Weihai</option>
+<option>Wenzhou</option>
+<option>Wuhan</option>
+<option>Wuhu</option>
+<option>Wuxi</option>
+<option>Wuyishan</option>
+<option>Wuzhou</option>
+<option>Xiamen</option>
+<option>Xi'an</option>
+<option>Xiangfan</option>
+<option>Xilinhot</option>
+<option>Xingning</option>
+<option>Xining</option>
+<option>Xuzhou</option>
+<option>Yan'an</option>
+<option>Yancheng</option>
+<option>Yanji</option>
+<option>Yantai</option>
+<option>Yibin</option>
+<option>Yichang</option>
+<option>Yinchuan</option>
+<option>Yining</option>
+<option>Yiwu</option>
+<option>Yulin</option>
+<option>Yuncheng</option>
+<option>Zhangjiagang</option>
+<option>Zhangjiajie</option>
+<option>Zhanjiang</option>
+<option>Zhengzhou</option>
+<option>Zhoushan</option>
+<option>Zhuhai</option>
+</select>
+<br>
+Check-in<br><input name="starttime" id="starttime" type="text" size="10" class="black12" onclick="javascript:event.cancelBubble=true;showCalendar('starttime',false,'starttime',null,'setCheckInDate')"><br>
+Check-out<br>
+<input name="deptime" id="deptime" type="text" size="10" class="black12" onclick="javascript:event.cancelBubble=true;showCalendar('deptime',false,'deptime','starttime')"><br>
+Price Range<br>
+<select name="Price" class="black12">
+                  <option value="">All</option>
+				  <option value=",300">&lt; US$ 45</option>
+
+				  <option value="300,600">US$ 45-90</option>
+				  <option value="600,1000">US$ 90-150</option>
+				  <option value="1000,1500">US$ 150-220</option>
+
+				  <option value="1500,">&gt; US$ 220</option>
+				 </select><br>
+Hotel Name (Opt)<br>
+<input name="htln" value="" onfocus="this.select();" type="text" size="13" class="black12">
+<div align="right" style="margin-top:7px"><input type="submit" value="Search" class="pubGlobal_queryBtn04"></div>
+<div align="center" style="margin-top:7px">
+Powered by Ctrip
+</div>
+</td>
+            </tr>
+        </tbody></table>
+
+</td>
+  </tr>
+</tbody></table>
+<script language="javascript">
+	var today=new Date();
+	today.setDate(today.getDate()+1);
+	today.setMonth(today.getMonth()+1);
+	document.hotel.perdate.value=today.getFullYear()+"-"+today.getMonth()+"-"+today.getDate();
+	today.setDate(today.getDate()+7);
+	document.hotel.starttime.value=today.getFullYear()+"-"+today.getMonth()+"-"+today.getDate();
+	today.setDate(today.getDate()+1);
+	document.hotel.deptime.value=today.getFullYear()+"-"+today.getMonth()+"-"+today.getDate();
+	today.setDate(today.getDate()+300);
+	document.hotel.postdate.value=today.getFullYear()+"-"+today.getMonth()+"-"+today.getDate();
+</script>
+<!-- hotel end-->
+<br>
+<br>
+
+
 </div>
 </td>
 <td background="/images/shadow.gif"><img src="/images/spacer.gif" width="4" height="1" alt="" border=""></td>
