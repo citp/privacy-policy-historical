@@ -1,0 +1,464 @@
+<!--The following is the downloaded HTML source of the icrave.in privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225071140id_/http%3A//icrave.in/PrivacyPolicy.php%3FIndex%3D-1) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="http://static.icrave.in/images/icrave_favicon.gif">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="\&quot;keyword\&quot;" content="\&quot;iCrave," pune,="" restaurants,="" shopping,="" clubs,="" hotels,="" recreation,="" aundh="" baner,="" chandni="" chowk="" hinjewadi,f.c.="" road="" law="" college="" road,bund="" garden="" d.p.="" road,camp="" m.g.="" road,="" kothrud="" karve="" nagar,="" model="" colony="" s.b.="" shivaji="" nagar="" j.m.="" koregaon="" park="" kalyani="" viman="" kharadi,="" wanowrie="" kondhwa="" nibm\"="">
+<title>Welcome to iCrave - Restaurants | Shopping | Clubs | Hotels | Recreation</title><script src="http://static.icrave.in/scripts/jquery/jquery-latest.js"></script>
+<script src="http://static.icrave.in/scripts/jquery/jquery.blockUI.js"></script>
+<link href="http://static.icrave.in/css/ThickBox.css" rel="stylesheet" type="text/css">
+<script src="http://static.icrave.in/scripts/thickbox.js" type="text/javascript"></script>
+<script src="http://static.icrave.in/scripts/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="http://static.icrave.in/scripts/blockUI.js"></script>
+<script type="text/javascript" src="http://static.icrave.in/scripts/jquery.easing.1.1.1.js"></script>
+<script type="text/javascript" src="http://static.icrave.in/scripts/jquery.cycle.all.js"></script>
+<link href="http://static.icrave.in/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://static.icrave.in/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="http://static.icrave.in/scripts/jquery.autocomplete.css">
+<style type="text/css">
+<!--
+a:link {
+	color: #2B829E;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #2B829E;
+}
+a:hover {
+	text-decoration: none;
+	color: #A9C733;
+}
+a:active {
+	text-decoration: none;
+	color: #A9C733;
+}
+-->
+</style>
+    <script type="text/javascript">
+    $(function() {
+        $('#gallery a').lightBox();
+    });
+    </script>
+   	<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	</style>
+<script type="text/javascript" src="/includes/CommonFunctions.js"></script>
+<!-- Photo Gallery -->
+<link rel="stylesheet" href="http://static.icrave.in/css/PhotoGallery_styles.css" type="text/css">
+<script type="text/javascript" src="http://static.icrave.in/scripts/photogallery/jquery.galleriffic.min.js"></script>
+<script type="text/javascript">
+	document.write("<style type='text/css'>div.navigation{width:300px;float: left;}div.content{display:block;}</style>");
+</script><style type="text/css">div.navigation{width:300px;float: left;}div.content{display:block;}</style>
+<!-- End Photo Gallery -->
+<script>
+
+function CheckandSubmitForm()
+{
+	/*alert(document.getElementByName('LocationName').value);
+	if(document.getElementByName('LocationName').value=="" )
+	{
+		document.getElementByName('LocationName').value=document.getElementById('CityLocal').value;
+	}
+	//alert(document.getElementById('LocationName').value+":"+document.getElementById('CityLocal').value);*/
+	document.frmSearch.submit();
+}
+
+</script>
+<script type="text/javascript"> 
+
+function Populate(ele1,cont)
+{
+	for(i=1;i<=5;i++)
+	{
+		//alert(i+":"+cont);
+		if(i!=parseInt(cont))
+		{
+			//alert(document.getElementById('Div'+cont).style.display);
+			//document.getElementById('Div'+i).style.display='none';
+			id='#Div'+i;
+			//$(id).hide("slow");
+			$(id).fadeOut();
+		}
+	}
+	//alert('Hello World');
+	el=document.getElementById(ele1);
+	menu = document.getElementById('Div'+cont);
+	var pos = $(el).offset();
+	var eWidth = $(el).outerWidth();
+	var eHeight = $(el).height();
+	var mWidth = $(menu).outerWidth();
+	var left = (pos.left+1) + "px";
+	var top = 2+pos.top+eHeight + "px";
+	//alert(eHeight);
+	$(menu).css( {
+		position: 'absolute',
+		zIndex: 5000,
+		left: left,
+		top: top
+	} );
+	$(menu).hide().fadeIn();
+}
+
+function PopulateHide(divele)
+{
+	menu1 = document.getElementById(divele);
+	//alert(menu1.innerHTML);
+	//$(menu1).hide().fadeOut();
+}
+
+function HideAllMenu()
+{
+	for(i=1;i<=5;i++)
+	{
+		//document.getElementById('Div'+i).style.display='none';
+		id='#Div'+i;
+		//$(id).hide("slow");
+		$(id).fadeOut();
+	}	
+}
+
+</script>
+<script type="text/javascript">
+	var GaleryCheck = 0;
+	var GaleryLastActiveImage = 0;
+	var BannerImages = new Array("images/banners/Image10.jpg","images/banners/Image13.jpg","images/banners/Image98.jpg","images/banners/Image52.jpg","images/banners/Image53.jpg","images/banners/Image47.jpg","images/banners/Image48.jpg","images/banners/Image104.jpg","images/banners/Image105.jpg","images/banners/Image94.jpg","images/banners/Image10.jpg");
+	function slideSwitch() 
+	{
+		GaleryCheck = 100;
+		//alert(GaleryCheck);
+		var $active = $('#slideshow_index IMG.active');
+	
+		if ( $active.length == 0 ) $active = $('#slideshow_index IMG:last');
+	
+		var $next =  $active.next().length ? $active.next()
+			: $('#slideshow_index IMG:first');
+	
+		$active.addClass('last-active');
+	
+		$next.css({opacity: 0.0})
+			.addClass('active')
+			.animate({opacity: 1.0}, 1000, function() {
+				$active.removeClass('active last-active');
+			});
+	}
+
+
+	if(GaleryCheck>0)
+	{
+		//alert(GaleryCheck);
+		ClearRunninTime  = setInterval("ClearTime()", 20000);
+	}
+	
+	$(function() {
+		playSlideshow = setInterval( "slideSwitch()", 4000 );
+	});
+
+	function StartShow(img_id)
+	{
+		clearInterval(playSlideshow);
+		//var tmphtml = '<img src="'+BannerImages[1]+'" border="0"  height="250px" class="active"/>';
+		var tmphtml = '';
+		var rand_no = Math.ceil(10*Math.random())
+		//alert(img_id);
+		//document.getElementById('testdata').innerHTML = img_id;
+		img_id = img_id-1;		
+		for(i=0;i<=10;i++)
+		{
+			if(img_id==i)
+			{
+				tmphtml += '<img src="'+BannerImages[i]+'" border="0" height="250px" class="active"/>';
+			}
+			else
+			{
+				tmphtml += '<img src="'+BannerImages[i]+'" border="0" height="250px" />';
+			}
+		}
+		//tmphtml += '<img src="'+BannerImages[11]+'" border="0" height="250px" />';
+		document.getElementById('slideshow_index').innerHTML = tmphtml;
+		//alert(tmphtml);
+		playSlideshow =  setInterval( "slideSwitch()", 4000 );
+	}
+	
+	function StopShow(ssrc)
+	{
+		//alert(ssrc+":"+BannerImages[ssrc-1]);
+		clearInterval(playSlideshow);
+		playSlideshow=0;
+		document.getElementById('slideshow_index').innerHTML = '<img src="'+BannerImages[ssrc-1]+'" border="0" height="250px" width="547px"/>';
+	}
+	
+	function ClearTime()
+	{
+		alert('Time Clearing');
+		clearInterval(playSlideshow);
+		playSlideshow=0;
+		clearInterval(ClearRunninTime);
+		ClearRunninTime=0;
+		playSlideshow =  setInterval( "slideSwitch()", 4000 );
+	}
+</script>
+</head>
+
+<body>
+	<!--<div style="position:absolute;top:10px;left:100px;background:#FFFFFF;" id="testdata" ></div>
+  <div id="Div1" class="Container"  > 
+		<table cellpadding="3" cellspacing="0" border="0" ><tr><td class="MenuHeading" colspan="4">Cuisines</td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Index=1" style="color:#fff;">All</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Sizzlers&Index=1&LocationID=" style="color:#fff;">Sizzlers</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Indian&Index=1&LocationID=" style="color:#fff;">Indian</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Italian&Index=1&LocationID=" style="color:#fff;">Italian</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Chinese&Index=1&LocationID=" style="color:#fff;">Chinese</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Mexican&Index=1&LocationID=" style="color:#fff;">Mexican</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Coffees+%26+Desserts&Index=1&LocationID=" style="color:#fff;">Coffees & Desserts</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Continental&Index=1&LocationID=" style="color:#fff;">Continental</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Fast+Food&Index=1&LocationID=" style="color:#fff;">Fast Food</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=South+Indian&Index=1&LocationID=" style="color:#fff;">South Indian</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Thai&Index=1&LocationID=" style="color:#fff;">Thai</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Thalis&Index=1&LocationID=" style="color:#fff;">Thalis</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Multi+Cuisine&Index=1&LocationID=" style="color:#fff;">Multi Cuisine</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-res.php?Cuisine=Maharashtrian&Index=1&LocationID=" style="color:#fff;">Maharashtrian</a></td></tr><tr></table>         
+  </div>
+  <div id="Div2" class="Container"  > 
+		<table cellpadding="3" cellspacing="0" border="0" ><tr><td class="MenuHeading" colspan="4">Products</td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-shop.php?Index=2" style="color:#fff;">All</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-shop.php?Product=Apparel&Index=2&LocationID=" style="color:#fff;">Apparel</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-shop.php?Product=Footwear&Index=2&LocationID=" style="color:#fff;">Footwear</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-shop.php?Product=Electronics&Index=2&LocationID=" style="color:#fff;">Electronics</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-shop.php?Product=Accessories&Index=2&LocationID=" style="color:#fff;">Accessories</a></td></tr><tr></table>         
+  </div>
+  <div id="Div3" class="Container"  > 
+		<table cellpadding="3" cellspacing="0" border="0" ><tr><td class="MenuHeading" colspan="4">Music</td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Index=3" style="color:#fff;">All</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Rock&Index=3&LocationID=" style="color:#fff;">Rock</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=House&Index=3&LocationID=" style="color:#fff;">House</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Hip Hop&Index=3&LocationID=" style="color:#fff;">Hip Hop</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Retro&Index=3&LocationID=" style="color:#fff;">Retro</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Jazz&Index=3&LocationID=" style="color:#fff;">Jazz</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Bollywood&Index=3&LocationID=" style="color:#fff;">Bollywood</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Karaoke&Index=3&LocationID=" style="color:#fff;">Karaoke</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Trance&Index=3&LocationID=" style="color:#fff;">Trance</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Live Bands&Index=3&LocationID=" style="color:#fff;">Live Bands</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Club&Index=3&LocationID=" style="color:#fff;">Club</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-clubs.php?Music=Others&Index=3&LocationID=" style="color:#fff;">Others</a></td></tr><tr></table>         
+  </div>
+  <div id="Div4" class="Container"  > 
+		<table cellpadding="3" cellspacing="0" border="0" ><tr><td class="MenuHeading" colspan="4">Categories</td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-hotel.php?Index=4" style="color:#fff;">All</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-hotel.php?Cat=Budget Hotels&Index=4&LocationID=" style="color:#fff;">Budget Hotels</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-hotel.php?Cat=3 Star&Index=4&LocationID=" style="color:#fff;">3 Star</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-hotel.php?Cat=4 Star&Index=4&LocationID=" style="color:#fff;">4 Star</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-hotel.php?Cat=5 Star&Index=4&LocationID=" style="color:#fff;">5 Star</a></td></tr><tr></table>         
+  </div>
+  <div id="Div5" class="Container"  > 
+		<table cellpadding="3" cellspacing="0" border="0" ><tr><td class="MenuHeading" colspan="4">Categories</td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?Index=5" style="color:#fff;">All</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Dance&Index=5&LocationID=" style="color:#fff;">Dance</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Music&Index=5&LocationID=" style="color:#fff;">Music</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Gymnasiums&Index=5&LocationID=" style="color:#fff;">Gymnasiums</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Adventure Sports&Index=5&LocationID=" style="color:#fff;">Adventure Sports</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Playing Courts&Index=5&LocationID=" style="color:#fff;">Playing Courts</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=NGOs&Index=5&LocationID=" style="color:#fff;">NGOs</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Cyber Cafe&Index=5&LocationID=" style="color:#fff;">Cyber Cafe</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Salons & Spas&Index=5&LocationID=" style="color:#fff;">Salons & Spas</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Gaming Zone&Index=5&LocationID=" style="color:#fff;">Gaming Zone</a></td></tr><tr><td class="DropMenuItem"><a href="http://www.icrave.in/colarge-rec.php?RecCat=Tattoo Parlour&Index=5&LocationID=" style="color:#fff;">Tattoo Parlour</a></td></tr><tr></table>         
+  </div> -->      
+<table width="1000px" border="0" align="center" cellpadding="0" cellspacing="0" style="background:#717d8c url(http://static.icrave.in/images/body_bg.gif) repeat-x;">
+<tbody><tr><td>
+<table width="898" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="120" valign="bottom" class="top-bg"><table width="895" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="9px">&nbsp;</td>
+        <td width="151"><a href="/index.php"><img src="http://static.icrave.in/images/logo.jpg" width="100" height="99" border="0"></a></td>
+	<td style="vertical-align: center; text-align: center;">
+<q style="padding: 0px; margin: 0px; color: rgb(144, 202, 0);"> <i>i wear my thoughts,<br>i live my food,<br>i breathe my music,<br>And for all that <span style="color: rgb(44, 102, 0); font-weight: bold;">iCrave</span> !</i> </q>
+	</td>
+        <td width="160" valign="bottom"><!--<div style="float:right;border:0px solid red;height:100px;position:absolute;top:5px;left:81%;font-family:verdana;font-size:11px;color:#000033;white-space:pre;">949 Users</div>--><img src="http://static.icrave.in/images/icrave.jpg" width="138" height="48"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="22" background="http://static.icrave.in/images/link-bg.jpg" bgcolor="#9BC12E">
+    <table border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+			<td width="60" align="center"><a href="/" onmouseout="RestoreImage('Image1','home.jpg')" onmouseover="SwapImage('Image1','home-roll.jpg');"><img src="http://static.icrave.in/images/home.jpg" name="Image1" height="22px" border="0" id="Image1"></a></td> 
+			<td align="center"><a id="rest" href="/pune/restaurants/" onmouseout="RestoreImage('Image2','res.jpg')" onmouseover="SwapImage('Image2','res-roll.jpg');"><img src="http://static.icrave.in/images/res.jpg" name="Image2" height="22px" border="0" id="Image2"></a></td> 
+			<td width="60" align="center"><a href="/pune/shopping/" onmouseout="RestoreImage('Image3','shopping.jpg')" onmouseover="SwapImage('Image3','shopping-roll.jpg');"><img src="http://static.icrave.in/images/shopping.jpg" name="Image3" height="22px" border="0" id="Image3"></a></td>
+			<td width="60" align="center"><a href="/pune/clubs/" onmouseout="RestoreImage('Image4','clubs.jpg')" onmouseover="SwapImage('Image4','clubs-roll.jpg');"><img src="http://static.icrave.in/images/clubs.jpg" name="Image4" height="22px" border="0" id="Image4"></a></td> 
+			<td width="60" align="center"><a href="/pune/hotels/" onmouseout="RestoreImage('Image5','hotel.jpg')" onmouseover="SwapImage('Image5','hotel-roll.jpg');"><img src="http://static.icrave.in/images/hotel.jpg" name="Image5" height="22px" border="0" id="Image5"></a></td> 
+			<td align="center"><a href="/pune/recreation/" onmouseout="RestoreImage('Image6','recreation.jpg')" onmouseover="SwapImage('Image6','recreation-roll.jpg');"><img src="http://static.icrave.in/images/recreation.jpg" name="Image6" height="22px" border="0" id="Image6"></a></td> 
+			<td align="center"><a href="http://forum.icrave.in/" onmouseout="RestoreImage('Image7','forum.jpg')" onmouseover="SwapImage('Image7','forum-roll.jpg');"><img src="http://static.icrave.in/images/forum.jpg" name="Image7" height="22px" border="0" id="Image7"></a></td>         
+      </tr>
+    </tbody></table></td>
+  </tr>
+  
+  <tr height="2">
+    <td bgcolor="#b0db55" valign="top"></td>
+  </tr>
+  <tr>
+    <td height="113" class="search-bg"><table width="890" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="7" class="link-txt">&nbsp;</td>
+        <td width="200" align="left">
+		
+			<!--<a href="#" id="RegistrationPopup" onclick="RegistrationBlockUI()"><img src="images/sign-up.jpg" width="167" height="98" border="0" /></a>-->
+            <a href="/register" id="RegistrationPopup"><img src="http://static.icrave.in/images/sign-up.jpg" width="167" height="98" border="0"></a>
+				
+		</td>
+        <td width="422" valign="top" class="link-txt">
+			<form name="frmSearch" action="/search-result.php" method="post" style="margin:0px;">
+				<table width="391" border="0" cellspacing="3" cellpadding="0">
+            <!--<tr>
+              <td width="270" colspan="2" style="font-weight:bold;font-size:13px;">Search &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locations</td>
+            </tr>-->
+            <tbody><tr>
+              <td>
+              	<table cellpadding="0" cellspacing="0" border="0">
+                	<tbody><tr>
+                    	<td style="font-weight:bold;font-size:13px;padding:3px 5px 3px 0px;">Search</td>
+                        <td style="font-weight:bold;font-size:13px;padding:3px 5px 3px 12px;">Locations</td>
+                    </tr>
+                	<tr>
+                    	<td><select name="SearchCriteria" id="SearchCriteria" style="border:1px solid #00B9CA;font-size:17px;*font-size:17px;font-weight:normal;font-smooth:always;width:115px;padding:0px 0px 0px 0px;*padding:0px 0px 0px 0px;color:#4D4D4D;">
+				<option value="restaurants">Restaurant</option>
+				<option value="shops">Shopping</option>
+				<option value="clubs">Clubs</option>
+				<option value="hotels">Hotels</option>
+				<option value="recreation">Recreation</option>
+              </select></td>
+              <td>&nbsp;&nbsp;&nbsp;<select name="LocationID" id="LocationID" style="border:1px solid #00B9CA;font-size:17px;width:169px;*width:175px;color:#4D4D4D;padding:2px;"><option value="">All Locations</option><option value="15020">Across Pune</option><option value="8050">Aundh/Baner</option><option value="14984">Bund Garden Rd/D.P.Rd</option><option value="8108">Camp/M.G.Road</option><option value="14990">Chandni Chowk/Hinjewadi</option><option value="14986">F.C. Rd/Law College Rd</option><option value="15006">Hadapsar</option><option value="8102">Koregaon Park/Kalyani Nagar</option><option value="8103">Kothrud/Karve Nagar</option><option value="14983">Model Colony/S.B.Rd</option><option value="8116">Mukund Nagar/Katraj/Bibwewadi</option><option value="15021">Pimpri/Akurdi/Chinchwad</option><option value="14997">Shivaji Nagar/J.M.Rd</option><option value="14993">Sinhgad Road</option><option value="14988">Tilak Rd/Laxmi Rd/City Area</option><option value="8189">Viman Nagar/Kharadi</option><option value="15017">Wagholi</option><option value="8101">Wanowrie/Kondhwa/NIBM</option></select><!--<input type="text" id="CityLocal" name="LocationName" value="" style="border:1px solid #00B9CA;font-size:17px;width:169px;*width:175px;color:#4D4D4D;padding:2px;"/>--></td></tr></tbody></table></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td width="270" colspan="2" style="font-weight:bold;font-size:14px;">Keywords</td>
+            </tr>             
+			<input type="hidden" name="Index" id="Index" value="-1">
+            <tr>
+              <td style=""><input name="SearchString" type="text" id="SearchString" size="45" style="border:1px solid #00B9CA;border-top:1px solid #00B9CA;*border-top:0px solid #00B9CA;padding:5px 5px 5px 5px;color:#4D4D4D;" value=""><br><span class="ErrorText" id="ErrSearchString"></span><span style="font-weight:normal;font-size:11px;">(Example: Pizza, shoes, dvd)</span></td>
+              <!--<td valign="top"><a href="#" onclick="if(document.getElementById('SearchString').value!=''){document.frmSearch.submit();}else{document.getElementById('ErrSearchString').innerHTML='Enter Search String';}"><img src="images/search1.jpg" width="81" height="27" border="0" /></a></td>-->
+              <td valign="top"><input type="submit" name="SearchForm" class="SearchButton" value=""><!--<a href="#" onclick="CheckandSubmitForm();"><img src="images/search1.jpg" width="81" height="27" border="0" /></a>--></td>
+            </tr>
+          </tbody></table></form></td>
+        
+		
+		<td width="249" valign="top">
+			<form name="FrmLogin" id="FrmLogin" action="" method="post" onsubmit=" if(LoginValidated(document.getElementById('Email').value,document.getElementById('Password').value)== null){return false};">
+			<table width="243" border="0" cellspacing="2" cellpadding="2">
+				  <tbody><tr>
+					<td colspan="2" class="link-txt" style="padding-top:4px;"><div style="float:left;">Members Login</div><div style="float:right;" id="ErrCont"><img id="imgWait" src="http://static.icrave.in/images/loading.gif" border="0" alt="Wait..." style="display:none;"></div></td>
+					</tr>
+				  <tr>
+					<td width="121" class="link-txt">Email ID:</td>
+					<td width="108"><input name="Email" id="Email" type="text" style="width:130px;"></td>
+				  </tr>
+				  <tr>
+					<td class="link-txt">Password:</td>
+					<td width="108"><input name="Password" type="password" id="Password" style="width:130px;"></td>
+				  </tr>
+				  <tr>
+					<td><a href="javascript:ForgotPassword();"><span class="ForgotPassword">Forgot Password</span></a></td>
+					<td align="right"><input type="submit" name="Login" class="LoginButton" value=""><!--<img src="http://static.icrave.in/images/cin.jpg" style="cursor:pointer;" onclick="if(LoginValidated()){Login(document.getElementById('Email').value,document.getElementById('Password').value);}" />--></td>
+				  </tr>
+			</tbody></table>
+            <input type="hidden" name="targetURL" id="targetURL" value="/PrivacyPolicy.php?Index=-1">
+			</form>
+		</td>
+		
+      </tr>
+    </tbody></table></td>
+  </tr>
+<!--
+  <tr>
+    <td height="30px" bgcolor="#FFFFFF" align="center" style="vertical-align: middle; ">
+<q style="padding: 0px; margin: 0px; color: #0070C0;"> <i>I wear my thoughts, I live my food, I breathe my music, And for all that <span style="color: rgb(144, 202, 0); font-weight: bold;">iCrave</span> !</i> </q>
+    </td>
+  </tr>
+-->
+	
+  <tr>
+    <td bgcolor="#FFFFFF"><table width="867" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="28" height="15"></td>
+        <td width="839"></td>
+      </tr>
+        <tr>
+        <td width="28" height="15"></td>
+        <td width="839" class="main-txt"><strong class="main-txt-tit">Privacy Policy</strong></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td valign="top" class="main-txt"><p>Icrave is an online application that helps people entertainment listings and local services they can trust by accessing information, soliciting and aggregating reviews. To accomplish this, our users add listings and write reviews about entertainment listings and local services that are posted to the Icrave Site. These listings and reviews can then be accessed and read by other Icrave users. For the purposes of this Privacy Policy, a "user" is defined as someone using the Icrave Site, and a "friend" is defined as someone you have explicitly invited to share reviews with you. To fulfill the purpose of our site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular review. By using Icrave you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy.</p>
+<p><strong>1. Information We Collect</strong></p>
+<p>Icrave collects user submitted account information such as name and email address to identify you and send you notifications related to the use of the service. Icrave also collects user submitted location information such as city, state or zip. Icrave also collects user submitted photos, reviews, and ratings of entertainment listings, local businesses and service providers. Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. </p>
+<p><strong>2. How We Use Your Information </strong></p>
+<p>Information such as your full name, profile photo and any personally identifiable information you have included in your reviews may be shown to friends or other users primarily in conjunction with reviews you have contributed. If a person is a friend they can also see your name or email address in their list of friends. In addition, we may sell your reviews to third parties, in which case your first name and last initial and any personally identifiable information you have included in your reviews may be shown to users of such third party web sites. Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, recommending a show or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the "Account" tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message). Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Icrave, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. </p>
+<p><strong>3. Transfer of Information </strong></p>
+<p>We may sell your reviews to third parties. Your first name and last initial, profile photo and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their websites in connection with such third parties publication of your reviews. Except as set forth in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. Icrave will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, Icrave may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. We reserve the right to transfer your personal information in the event of a transfer of ownership of Icrave, such as an acquisition by or merger with another company. In such an event, Icrave will notify you before information about you is transferred and becomes subject to a different privacy policy. Icrave will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing. </p>
+<p><strong>4. Links </strong></p>
+<p>Our website may contain links to third party websites to which we have no affiliation. Icrave does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy polices on these third party websites. </p>
+
+<p><strong>5. Use of Cookies </strong></p>
+<p>Like most websites, Icrave requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Icrave cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Icrave site. </p>
+
+
+<p><strong>6. Controlling Your Personal Information </strong></p>
+<p>You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via reviews, messages, forums, postings, or in other areas of the Icrave site, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Icrave. Please do not post any personal information on the Icrave site or in other areas that you expect to keep private. As a registered Icrave user, you can modify your personal information at any time by accessing the "Account" section of the site. Also, upon your request, Icrave will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Icrave. Registered users who wish to close their account should contact admin@icrave.in. </p>
+
+<p><strong>7. Security </strong></p>
+<p>Your Icrave account is password-protected. Icrave tries very hard to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. You hereby acknowledge that Icrave is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.</p>
+
+<p><strong>8. Emails and Opt-out </strong></p>
+<p>At this time, registered members cannot opt-out of personal messages initiated by friends and users, however they may opt-out of receiving notifications initiated by Icrave (note: notification settings can be found under the " Account" tab). Unregistered users that do not wish to receive emails may opt-out of receiving any communications by following the instructions contained in all emails. </p>
+
+<p><strong>9. Terms and Modifications to this Privacy Statement </strong></p>
+<p>By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. Icrave may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users   personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. </p>
+
+<p><strong>10. Contacting the Web Site </strong></p>
+<p>If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: Icrave. 318, Connaught Palace. Bund Garden Road. Pune -411001.Tel:+912040170000. www.icrave.in</p></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td valign="top">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="6" bgcolor="#FFFFFF"></td>
+  </tr>
+  </tbody></table>
+  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="">
+  <tbody><tr>
+  	<td style="background:#8fc400 url('http://static.icrave.in/images/footer_bg_left.gif') top left repeat-x;">&nbsp;</td>
+  	<td height="45" bgcolor="" align="center" style="background: url('http://static.icrave.in/images/b-s-foot-middle.gif') top left repeat-x;" width="898px"><table width="880" border="0" cellspacing="0" cellpadding="0" style="margin:0px auto;">
+      <tbody><tr>
+        <td width="20">&nbsp;</td>
+        <td width="711" class="bott1" align="left">©2009 Icrave.in - <a href="/policies/terms"><span class="bott">Terms of Service</span></a> | <a href="/policies/privacy"><span class="bott">Privacy Policy</span></a> | <a href="/company/about"><span class="bott">About us</span></a> | <a href="/company/contact"><span class="bott">Contact us</span></a></td>
+<!--
+        <td  align="right"><div align="right"><a href="http://www.webwingz.com" target="_blank"><img src="http://static.icrave.in/images/poweredByWebwingz.gif" border="0" /></a></div></td>		
+-->
+		</tr>
+    </tbody></table></td>
+	<td style="background:#8fc400 url('http://static.icrave.in/images/footer_bg_left.gif') top left repeat-x;">&nbsp;</td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8966383-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--Registration Container starts here -->
+<div id="RegdisplayBox" style="display:none;width:650px;height:375px;background-color:#B0DB55;">
+	<iframe src="" id="frmRegdisplayBox" scrolling="no" align="center" frameborder="0" width="650px" height="375px" allowtransparency="true"></iframe>
+</div>
+<!--Registeer webwsite Container Ends here -->
+
+<!--Wait Image starts here -->
+<div id="WaitdisplayBox" width="43px" height="11px" style="display:none;overflow: hidden;border:0px;">
+	<img src="images/wait.gif">
+</div>
+<!--Wait Image Ends here -->
+
+<!--Frame for  Event Details starts here -->
+<div id="Manage" width="285px" height="240px" style="display:none;overflow: hidden;border:0px solid #009900;">
+	<iframe id="frmManage" src="" scrolling="no" align="center" frameborder="0" width="285px" height="240px" style="border:0px;overflow: hidden;" allowtransparency="true"></iframe>
+</div>
+<!--Frame for  Event Details Ends here -->
+
+<!--Registration Container starts here -->
+<div id="RegSuccess" style="display:none;width:479px;height:95px;">
+	<img src="images/thankyou.jpg" border="0" onclick="parent.location.href='index.php';" title="Click here to continue" style="cursor:pointer;">
+</div>
+<!--Registeer webwsite Container Ends here -->
+
+<!--Forgot Password  Container starts here -->
+<div id="ForPwd" style="display:none;width:335px;height:130px;_height:130px;background-color:#B0DB55;">
+	<iframe src="" id="frmForPwd" scrolling="no" align="center" frameborder="0" style="width:335px;height:130px;_height:130px;" allowtransparency="true"></iframe>
+</div>
+<!--Forgot Password  Container Ends here -->
+
+<!--Send Mail  Container starts here -->
+<div id="SendMail" style="display:none;width:355px;height:438px;_height:440px;background-color:#FFFFFF;">
+	<iframe src="" id="frmSendMail" scrolling="no" align="center" frameborder="0" style="width:355px;height:438px;_height:438px;" allowtransparency="true"></iframe>
+</div>
+<!--Send Mail Container Ends here -->
+
+<!--Send SMS  Container starts here -->
+<div id="SendSMS" style="display:none;width:300px;height:420px;_height:420px;background-color:#FFFFFF;">
+	<iframe src="" id="frmSendSMS" scrolling="no" align="center" frameborder="0" style="width:300px;height:420px;_height:420px;" allowtransparency="true"></iframe>
+</div>
+<!--Send SMS Container Ends here -->
+
+<!--Display Profile  Container starts here -->
+<div id="DisplayProfile" style="display:none;width:600px;height:372px;background-color:#B0DB55;">
+	<iframe src="" id="frmDisplayProfile" scrolling="no" align="center" frameborder="0" style="width:600px;height:364px;" allowtransparency="true"></iframe>
+</div>
+<!--Display Profile Container Ends here -->
+</body></html>
