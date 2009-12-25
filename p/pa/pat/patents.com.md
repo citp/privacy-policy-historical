@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patents.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417222913id_/http%3A//www.patents.com/Utility/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patents.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225032932id_/http%3A//www.patents.com/Utility/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Patents.com
 
@@ -8,7 +8,7 @@ Patents.com collects and saves the default information customarily logged by the
 
 We are sensitive to privacy and confidentiality concerns regarding inventive ideas and intellectual property. No individual user search on this site is saved by patents.com nor is it traceable by another user of patents.com. No patent or other search information will be shared with others. 
 
-If users have questions or concerns regarding this statement, you should contact patents.com by email at [privacypolicy@patents.com](https://web.archive.org/web/20090417222913id_/http%3A//www.patents.com/Utility/=). 
+If users have questions or concerns regarding this statement, you should contact patents.com by email at [privacypolicy@patents.com](https://web.archive.org/web/20091225032932id_/http%3A//www.patents.com/Utility/=). 
 
 ## Information you post
 
