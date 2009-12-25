@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofreelance.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611143316id_/http%3A//www.gofreelance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreelance.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225050131id_/http%3A//www.gofreelance.com/privacy.html) for the most accurate reproduction.*
 
 # Go Freelance: Privacy Statement
 
@@ -27,8 +27,6 @@ We agree to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should contact Rob Palmer by sending an email to [rob@gofreelance.com](mailto:rob@gofreelance.com). We will ensure that the issue is addressed promptly.
-
 **Information Collection and Use**  
 Go Freelance is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way. We collect names and email addresses only from visitors who ask to request our newsletter, free report and course of market tips. The information is used to send our newsletter, project updates, a free report and course of market tips.
 
@@ -45,22 +43,6 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 We use IP addresses to analyze visitor trends and administer the site only. IP addresses are not linked to personally identifiable information. 
 
 **Sharing** We do not collect or share demographic or personal information with anyone.
-
-We use CCBill, iBill and Verotel, established payment processing companies, to administer payments and control access to our password-protected members' area:
-
-<http://www.ccbill.com/>
-
-[http://www.ibill.com](http://www.ibill.com/)
-
-[http://www.verotel.com](http://www.verotel.com/)
-
-We also use Clickbank and Digibuy to administer other product and service purchases. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
-
-[http://www.clickbank.com](http://www.clickbank.com/)
-
-[http://www.digibuy.com](http://www.digibuy.com/)
-
-Go Freelance may release personally identifiable information when required to by law.
 
 **Links** This web site contains links to other sites. Please be aware that Go Freelance is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
@@ -79,8 +61,6 @@ Go Freelance does not hold any information except for the name and email address
 
 If you have any questions about the security at our website, you can send an email to security@gofreelance.com. 
 
-**Correction/Updating Personal Information:** Subscribers can update their personal information at any time by sending an email to [support@gofreelance.com](mailto:support@gofreelance.com)
-
 **Communications**  
 If visitors wish to subscribe to our newsletter, we ask for their name and email address only as contact information. Subscribers will also receive Project Updates and Job of the Week information by email.
 
@@ -89,20 +69,3 @@ We enforce a strict 'opt-in' only policy, where all our subscribers have specifi
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-**Inquiries**  
-If users have questions or concerns regarding this statement, they should first contact Rob Palmer using the contact information below. 
-
-**Contact Information**  
-Go Freelance can be contacted as follows:  
-Email: [support@gofreelance.com](mailto:support@gofreelance.com)  
-Tel: 718-249-4822 
-
-Go Freelance  
-45 Main Street  
-Ste 309   
-#178  
-Brooklyn  
-New York   
-NY11201  
-USA
