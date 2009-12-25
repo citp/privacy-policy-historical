@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adify.com privacy policy that was archived on 2009-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090410062938id_/http%3A//www.adify.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adify.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225171519id_/http%3A//www.adify.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<base href="http://www.adify.com/">
@@ -8,14 +8,16 @@
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
 
-	<script type="text/javascript" src="mysite/javascript/jquery.js"></script>
+	<link rel="SHORTCUT ICON" href="http://www.adify.com/favicon.ico">
+	<script type="text/javascript" src="mysite/javascript/utils.js"></script>
+<script type="text/javascript" src="mysite/javascript/jquery.js"></script>
 <script type="text/javascript" src="mysite/javascript/jquery.carousel.js"></script>
 <script type="text/javascript" src="mysite/javascript/jquery.hoverIntent.js"></script>
 <script type="text/javascript" src="mysite/javascript/jquery.slider.js"></script>
 <script type="text/javascript" src="mysite/javascript/jquery.easing.js"></script>
 <script type="text/javascript" src="mysite/javascript/jquery.modal.js"></script>
-<script type="text/javascript" src="mysite/javascript/utils.js"></script>
 <script type="text/javascript" src="mysite/javascript/jquery.validate.js"></script>
+<script type="text/javascript" src="mysite/javascript/jquery.blogiPagiNav.pack.js"></script>
 <script type="text/javascript" src="mysite/javascript/global.js"></script>
 <link rel="stylesheet" type="text/css" href="themes/adify/css/style_screen.css">
 </head>
@@ -34,15 +36,23 @@
 				<div id="nav">
 	<ul>
 	
+		<li><a class="link" href="//" title=""></a></li>
+	
 		<li><a class="link" href="/advertisers/" title="Advertisers">Advertisers</a></li>
 	
 		<li><a class="link" href="/publishers/" title="Publishers">Publishers</a></li>
 	
 		<li><a class="link" href="/network-builders/" title="Network Builders">Network Builders</a></li>
 	
+		<li><a class="link" href="/solutions/" title="Solutions">Solutions</a></li>
+	
 		<li><a class="link" href="/networks/" title="Networks">Networks</a></li>
 	
-		<li><a class="link" href="/about-adify/" title="The Adify Story">About Adify</a></li>
+		<li><a class="link" href="/about-adify/" title="The Adify Story">About Us</a></li>
+	
+		<li><a class="link" href="http://www.adifymedia.com" title="Adify Media">Adify Media</a></li>
+	
+		<li><a class="link" href="/careers/" title="Jobs">Careers</a></li>
 	
 	</ul>
 </div>
@@ -56,10 +66,28 @@
 	<input class="hidden" type="hidden" id="SearchForm_SearchForm_executeForm" name="executeForm" value="SearchForm">
 
 
-	<input class="action  nolabel" id="SearchForm_SearchForm_action_results" type="submit" name="action_results" value="">
+	<input class="action " id="SearchForm_SearchForm_action_results" type="submit" name="action_results" value="SEARCH">
 
 
 </form>
+	<form name="select-region" id="select-region" action="" enctype="application/x-www-form-urlencoded" method="post">
+		<select name="region" onchange="if(this.selectedIndex > 0) {top.location=this.options[this.selectedIndex].value;}">
+			<option value="">Select Region</option>
+			
+			<option value="adify-asia-pacific">Asia</option>
+			
+			<option value="adify-australia">Australia</option>
+			
+			<option value="adify-germany">Germany</option>
+			
+			<option value="adify-united-kingdom">United Kingdom</option>
+			
+			<option value="home">United States</option>
+			
+			<option value="adify-world-wide">Worldwide</option>
+			
+		</select>
+	</form>
 	<ul>
 	
 		
@@ -93,13 +121,15 @@
 				
 <h2>Customer Testimonial</h2>
 
+<img src="/assets/Uploads/testimonial-headshot-1.png" alt="testimonial headshot 1">
+
 <blockquote>
-	"Vertical networks are emerging as one of the most important advertising innovations in online publishing. Pairing established media brands with high-quality long-tail content is the first thing I recommend to publishers as part of an overall ad revenue strategy and Adify is the go-to solutions provider in this rapidly growing market."
-	<cite>Greg Stuart<br>Author and former CEO<br>Interactive Advertising Bureau (IAB)</cite>
+	"We chose Adify as our technology and services provider for their Combination of good technology and proper account management. A high standard of both is difficult to find... Adify provides Guardian Publisher Network with scaleable technology and friendly, professional, innovative account management."
+	<cite>Matt Gilbert<br>Business Development Manager<br>Guardian News &amp; Media Limited</cite>
 </blockquote>
 
 				</div><!-- #testimonial -->
-				<a class="livechat" href="javascript:void(0);"><img src="themes/adify/images/btn-live-chat.png" alt="Live Chat: contact one of our reps 24/7"></a>
+				<!-- <a class="livechat" href="javascript:void(0);"><img src="themes/adify/images/btn-live-chat.png" alt="Live Chat: contact one of our reps 24/7"></a> -->
 			</div><!-- #sidebar -->
 			<div class="clear"></div>
 		</div><!-- #container -->
@@ -123,10 +153,20 @@
 			</div>
 		</div><!-- #footer -->
 		<!-- Begin Google Analytics code-->
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 		<script type="text/javascript">
-		_uacct = "UA-244511-5";
-		urchinTracker();
+	   	var gaJsHost = (("https:" == document.location.protocol) ?  "https://ssl." : "http://www.");
+	   	document.write(unescape("%3Cscript src='" + gaJsHost +  "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+	   	try {
+		 	var pageTracker = _gat._getTracker("UA-244511-5");
+		   	pageTracker._trackPageview();
+	   	} catch(err) {}
+		</script>
+		<script language="JavaScript" type="text/javascript">
+		document.title = "Adify";
+		
+		document.title += " > Privacy Policy";
 		</script>
 		<!-- End Google Analytics code-->
 	
