@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeotv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054334id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotv.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225101739id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy
 
