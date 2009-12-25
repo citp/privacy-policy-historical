@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609223814id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225233038id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
 
 # Timetoast timelines - Privacy
+
+* * *
 
 ## Website Visitors
 
@@ -24,8 +26,12 @@ Timetoast discloses potentially personally-identifying and personally-identifyin
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Timetoast uses cookies to help Timetoast identify and track visitors, their usage of Timetoast website, and their website access preferences. Timetoast visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Timetoast’s websites, with the drawback that certain features of Timetoast’s websites may not function properly without the aid of cookies.
 
+## Advertising
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
 ## Privacy Policy Changes
 
 Although most changes are likely to be minor, Timetoast may change its Privacy Policy from time to time, and in Timetoast’s sole discretion. Timetoast encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Timetoast.com account, you should also check the 'your timelines' dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Last updated: 8th July, 2008
+Last updated: 15th July, 2009
