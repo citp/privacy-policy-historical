@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 123glitter.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410053424id_/http%3A//www.123glitter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123glitter.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225125203id_/http%3A//123glitter.com/privacy.php) for the most accurate reproduction.*
 
 # 123glitter.com User Agreement - Privacy Policy and Terms of Use
 
-**[Love Comments](http://123glitter.com/comments-graphics/Love/)      [Birthday Comments](http://www.123glitter.com/comments-graphics/Birthday/)       [Happy Friday](http://www.123glitter.com/comments-graphics/Happy_Friday/)**
+**[Love Comments](http://123glitter.com/comments-graphics/Love/)        [Birthday Comments](http://123glitter.com/comments-graphics/Birthday/)        [Happy Friday](http://123glitter.com/comments-graphics/Happy_Friday/) **
 
-123glitter.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site 123glitter.com.
+123glitter.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site 123glitter.com. 
 
 **INFORMATION COLLECTED**
 
@@ -12,11 +12,11 @@
 
 **CLIENT SIDE COOKIES**
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. 
+A cookie is a piece of data stored on the userï¿½s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. 
 
 **SERVER LOG FILES**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We use IP addresses to analyze trends, administer the site, track userï¿½s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 **SHARING OF INFORMATION**
 
@@ -39,6 +39,10 @@ All content and services provided by 123glitter.COM are for personal use only. Y
 123glitter © 2005 and NETAXIS IT SOLUTIONS (P) LTD. All rights are reserved. All content, unless otherwise stated, is owned by MySpace-C123glitter.com.
 
 If you feel that this site 123glitter.com is not following its stated information policy, you may contact us: netaxis@gmail.com
+
+**THIRD PARTY ADVERTISING**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
 
   
 
