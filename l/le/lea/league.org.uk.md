@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614001613id_/http%3A//www.league.org.uk/content.asp%3FCategoryID%3D1621) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225174003id_/http%3A//www.league.org.uk/content.asp%3FCategoryID%3D1621) for the most accurate reproduction.*
 
 # League Against Cruel Sports : Privacy policy
 
