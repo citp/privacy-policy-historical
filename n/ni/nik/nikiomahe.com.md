@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nikiomahe.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521205733id_/http%3A//www.nikiomahe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikiomahe.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225144957id_/http%3A//www.nikiomahe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Architecture and Design News - Nikiomahe.com - Architecture, Design News, Interior Design, House Design, Furniture, Construction Project, and Residential
+# Privacy Policy - Architecture and Design News – Nikiomahe.com - Architecture, Design News, Interior Design, House Design, Furniture, Construction Project, and Residential
 
 [www.nikiomahe.com](http://www.nikiomahe.com/) respect your privacy and committed to safeguarding your privacy while online at http://www.nikiomahe.com. The following discloses the information gathering and dissemination practices for this blog/site.
 
