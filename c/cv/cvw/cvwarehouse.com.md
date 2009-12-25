@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085824id_/http%3A//candidate.cvwarehouse.com/Default.aspx%3Ftabid%3D331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvwarehouse.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225031755id_/http%3A//candidate.cvwarehouse.com/Default.aspx%3Ftabid%3D331) for the most accurate reproduction.*
 
 # Privacy
 
@@ -57,3 +57,5 @@ To access private data, companies as well as candidates need to login explicitly
 ### Privacy commitment changes
 
 To make sure that any changes to our privacy commitment are known to you, please visit these privacy statement pages regularly, as we will keep them up to date. We commit ourselves to proactively inform you of prominent changes, which will be the only exception to our direct mailing commitment above. Should you have any questions or concerns about our privacy commitment, please send a mail to [privacy@cvwarehouse.com](mailto:privacy@cvwarehouse.com) or a letter to our offices at Duboisstraat 50, B-2060 Antwerpen to the attention of Inge Geerdens, CVWarehouse NV, referencing our privacy statement.
+
+CVWarehouse is registered with the Belgian Commission to protect the Individual Privacy under ID VT005012144.
