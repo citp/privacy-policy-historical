@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ruba.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619095328id_/http%3A//www.ruba.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruba.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225161921id_/http%3A//www.ruba.com/us/privacy) for the most accurate reproduction.*
 
-# Ruba.com
+# Privacy Policy - Ruba.com
 
 This Privacy Policy covers the website www.ruba.com (the "Site"), which is owned by Ruba ("Ruba", "we" or "us"). Ruba will maintain your data as described in this Privacy Policy.
 
@@ -53,7 +53,7 @@ Users who no longer wish to receive our newsletter and promotional communication
 
 > Ruba, Inc.
 > 
-> PO Box 51823
+> PO Box 50907
 > 
 > Palo Alto, CA, 94303
 
