@@ -1,13 +1,17 @@
-<!--The following is the downloaded HTML source of the satmetrix.com privacy policy that was archived on 2009-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090428062006id_/http%3A//www.satmetrix.com/satmetrix/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the satmetrix.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225160209id_/http%3A//www.satmetrix.com/satmetrix/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Satmetrix</title>
 <link href="./css/satmetrix.css" rel="stylesheet" type="text/css">
 <link href="./css/menu.css" rel="stylesheet" type="text/css">
+<link href="./css/demo.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <script src="./js/tooltip.js" type="text/javascript"></script></head><body onload="MM_preloadImages('./images/new1.jpg','./images/new3.gif','./images/new4.gif')" alink="red" vlink="red" link="red"><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="./images/arrow2.gif">
+<!--<script src="./js/demo.js" type="text/javascript"></script>-->
+<script src="./js/mootools.js" type="text/javascript"></script>
+<!--<script src="./js/dropdown.js" type="text/javascript"></script>-->
 <script src="./js/image_tooltip.js" type="text/javascript"></script><div id="dhtmltooltip_second"></div><img id="dhtmlpointer_second" src="./images/arrow2.gif">
 <script type="text/JavaScript">
 <!--
@@ -18,6 +22,33 @@ function MM_preloadImages() { //v3.0
 }
 //-->
 </script>
+	<script type="text/javascript">
+		window.addEvent( 'domready', function(){
+			$$( '.moreInfoWrapper' ).each(function(item){
+				var thisSlider = new Fx.Slide( item.getElement( '.moreInfo' ), { duration: 500 } );
+				thisSlider.hide();
+				item.getElement( '.divToggle' ).addEvent( 'click', function(){ thisSlider.toggle(); } );  // you might want to stop events here with e.stop if the toggle element is a link or button
+			} );
+		} );
+	</script>
+	<style type="text/css">
+
+.divToggle
+{
+
+	padding: 8px;
+}
+.moreInfoWrapper
+{
+	float: left;
+	width: 500px;
+	padding: 0px;
+}
+.moreInfo
+{
+	padding: 2px;
+}
+</style>
 
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
     <tbody><tr>
@@ -33,9 +64,9 @@ function MM_preloadImages() { //v3.0
 						<input type="text" name="q" size="31">
 						<input type="image" name="sa" value="Search" src="images/button-search.gif" style="vertical-align:bottom;">
 					  </div>
-					</form>
+					</form><font face="arial" size="1">International: <a href="../fr/index.php">Français</a>
 					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-				</td>
+				</font></td>
 			  </tr>
     	    </tbody></table>
 	    </td>
@@ -58,7 +89,7 @@ function MM_preloadImages() { //v3.0
 							<li><a href="./solutions.php?page=8">Contact Center Experience</a></li>
 							<!--<li><a href="./solutions.php?page=10">Win/Loss</a></li>-->
 							<li><a href="./solutions.php?page=7">Service Delivery Experience</a></li>
-							<li><a href="./solutions.php?page=5">Customer Engagement</a></li>							
+					
 						</ul>
 						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 					</li>
@@ -67,7 +98,7 @@ function MM_preloadImages() { //v3.0
 						<!--[if lte IE 6]><table><tr><td><![endif]-->
 						<ul>
 							<li><a href="./technology.php?page=1">Enterprise Platform</a></li>
-							<li><a href="./technology.php?page=2">Engagement Platform</a></li>
+
 							<!--<li><a href="./technology.php?page=4">Net Promoter<sup>&reg;</sup> Technology</a></li>-->
 							<!--<li><a href="./technology.php?page=5">Adaptive Conversation</a></li>-->
 						</ul>
@@ -91,7 +122,7 @@ function MM_preloadImages() { //v3.0
 							<li><a href="./news_events.php?page=3">Events</a></li>
 							<li><a href="./news_events.php?page=10">Press Releases</a></li>
 <li><a href="./news_events.php?page=212">Press Resources</a></li>	
-<li><a href="spring-2k9-webinars.php">Upcoming Webinars</a></li>							
+						
 						</ul>
 						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 					</li>
@@ -99,10 +130,9 @@ function MM_preloadImages() { //v3.0
 					<li><a class="drop" href="./customers.php?page=0">customers<!--[if IE 7]><!--></a><!--<![endif]-->
 						<!--[if lte IE 6]><table><tr><td><![endif]-->
 							<ul>
-							<li><a href="./customers.php?page=2">Blog</a></li>
-							<li><a href="./customers.php?page=3">Case Study</a></li>	
-							<li><a href="./customers.php?page=4">Press</a></li>
+							<li><a href="./customers.php?page=3">Case Studies</a></li>	
 							<li><a href="./customers.php?page=5">Videos</a></li>
+							<li><a href="./customers.php?page=2">Blogs</a></li>
 						</ul>
 						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 					</li>
@@ -110,12 +140,12 @@ function MM_preloadImages() { //v3.0
 					<li><a class="drop" href="./resources.php?page=1">resources<!--[if IE 7]><!--></a><!--<![endif]-->
 						<!--[if lte IE 6]><table><tr><td><![endif]-->
 						<ul>							
-							<!--<li><a href="./blog/index.php">Blogs</a></li>-->
+							<li><a href="./blog/index.php">Blogs</a></li>
 							<li><a href="./resources.php?page=6">Podcasts</a></li>
 							<li><a href="./resources.php?page=3">Webinar Archive</a></li>	
 							<li><a href="./resources.php?page=4">White Papers</a></li>
 							<li><a href="./resources.php?page=5">Support</a></li>
-							<li><a href="./resources.php?page=7">Benchmark Reports</a></li>
+							<li><a href="./resources.php?page=215">Benchmark Reports</a></li>
 						</ul>
 						<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 					</li>
@@ -163,10 +193,11 @@ function MM_preloadImages() { //v3.0
 					  <td colspan="4" class="content_inner">
 					  	<p>
 						</p><h2>The Satmetrix Privacy Policy</h2>
-					    <h3>Effective Date: August 26, 2005</h3>
+					  
 					    <p>This  Privacy Statement explains the data practices of Satmetrix Systems,  Inc. ("Satmetrix" or "Us"). This privacy statement covers the sites <a href="./index.php">www.satmetrix.com</a> and <a href="http://www.ccsurvey.com">www.ccsurvey.com</a>. <a href="./privacy.php#part1">Part I</a> describes our data practices with respect to Personal Data (as defined  below) that Satmetrix processes on behalf of its clients; and <a href="./privacy.php#part2">Part II</a> describes our data practices with respect to information we collect  about our business contacts and other visitors to the Satmetrix  website. The general provisions in <a href="./privacy.php#part3">Part III</a> apply to our data practices in both <a href="./privacy.php#part1">Part I</a> and <a href="./privacy.php#part2">Part II</a>.</p>
 					    <p><a href="http://www.truste.org/ivalidate.php?url=www.satmetrix.com&amp;sealid=103" target="out" title="Open this link in a new window"><img src="http://www.satmetrix.com/company/images/truste_seal_ctv.gif" alt="" width="68" height="95" border="0" align="right"></a>Satmetrix  is a licensee of the TRUSTe Privacy Program and the TRUSTe EU Safe  Harbor Program. TRUSTe is an independent, non-profit organization whose  mission is to enable individuals and organizations to establish  trusting relationships based on respect for personal identity and  information by promoting the use of fair information practices.  Satmetrix has agreed to disclose its information practices in this  Privacy Statement and have its privacy practices reviewed for  compliance by TRUSTe. We participate in the EU Safe Harbor Privacy  Framework as set forth by the United States Department of Commerce. As  part of our participation in the safe harbor, we have agreed to TRUSTe  dispute resolution for disputes relating to our compliance with the  Safe Harbor Privacy Framework.</p>
-					    <p>If you have any complaints regarding our compliance with the Safe  Harbor you should first <a href="./contact_us.php">contact us</a>. If  contacting us does not resolve your complaint, you may raise your  complaint with TRUSTe by Internet at... <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="out" title="Open this link in a new window">http://www.truste.org/consumers/watchdog_complaint.php</a>,  fax at 415-618-3421, or mail at Watchdog Complaints, TRUSTe, 685 Market  Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or  mailing TRUSTe to lodge a complaint, you must include the following  information: our name, the alleged privacy violation, your contact  information, and whether you would like the particulars of your  complaint to be shared with us. For information about TRUSTe or the  operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="out" title="Open this link in a new window">http://www.truste.org/consumers/watchdog_complaint.php</a> or request this information from TRUSTe at any of the addresses listed  above. The TRUSTe dispute resolution process shall be conducted in  English.</p>
+						
+					    <p>If you have any complaints regarding our compliance with the Safe Harbor you should first <a href="contact_us.php">contact us</a>. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at... <a href="http://www.truste.com/consumers/watchdog_complaint.php" target="trust">http://www.truste.com/consumers/watchdog_complaint.php</a>, fax at 415-618-3421, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint to be shared with us. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.com/consumers/watchdog_complaint.php" target="trust">http://www.truste.com/consumers/watchdog_complaint.php</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
 					    <h3 id="part1">PART I: PERSONAL DATA PROCESSED ON BEHALF OF SATMETRIX CLIENTS</h3>
 					    <p>As  a general description of our data processing services, Satmetrix  collects (and analyzes) survey responses from our clients' customers  who consent to be contacted or who have pre-existing relationships with  the Satmetrix client for which Satmetrix is conducting a survey. As  described in this Part I, Satmetrix does not own the Personal Data that  we process.</p>
 					    <h4 id="part1-1">1. SATMETRIX IS A DATA PROCESSOR</h4>
@@ -229,7 +260,7 @@ function MM_preloadImages() { //v3.0
     <td colspan="2" background="images/bg-footer.jpg">
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		  <tbody><tr>
-			<td class="content7"><span class="content-footer">©</span> 2000-2008, All Rights Reserved - Satmetrix, Inc. </td>
+			<td class="content7"><span class="content-footer"></span> </td>
 			<td>
 				<table border="0" align="right" cellpadding="0" cellspacing="0">
 				  <tbody><tr>
@@ -251,7 +282,7 @@ function MM_preloadImages() { //v3.0
 	</td>
   </tr>
 </tbody></table>
-<center><table border="0" width="1000" cellpadding="5" cellspacing="0"><tbody><tr><td align="left"><font face="arial" size="1">International: <a href="../fr/index.php">Français</a></font></td></tr></tbody></table></center>
+<center><table border="0" width="1000" cellpadding="5" cellspacing="0"><tbody><tr><td align="center"><font face="arial" size="1" color="black">© 2000-2009, All Rights Reserved - Satmetrix, Systems, Inc. Net Promoter, Net Promoter Score, and NPS are trademarks of Satmetrix Systems, Inc., Bain &amp; Company, Inc., and Fred Reichheld.</font></td></tr></tbody></table></center>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
