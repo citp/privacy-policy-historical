@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627055703id_/http%3A//www.bunnings.com.au/default_privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225100406id_/http%3A//www.bunnings.com.au/default_privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bunnings Warehouse
 
@@ -24,13 +24,13 @@ We will remove personal information from our systems where it is no longer requi
 
 If you wish to view the personal information you have provided or, comment on or obtain further information about our privacy policy, Please contact our privacy officer: 
 
-Mr. Dominic Antenucci  
-Company Secretary/Compliance Manager  
-126 Pilbara Street  
-Welshpool WA 6106
+Mr David Beards   
+Company Secretary,   
+16- 18 Cato St,   
+Hawthorn East,   
+Victoria 3123. 
 
-Telephone (08) 9365 1501  
-Facsimile (08) 9356 6460  
+Telephone (03) 88319740  
 E-mail [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au/)
 
 #### BUNNINGS PRIVACY POLICY 
@@ -87,13 +87,13 @@ In this policy we explain how and why we collect your personal information, how 
 
 17\. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer: 
 
-Mr Dominic Antenucci  
-Company Secretary/Compliance Manager  
-126 Pilbara Street  
-Welshpool WA 6000
+Mr David Beards   
+Company Secretary,   
+16- 18 Cato St,   
+Hawthorn East,   
+Victoria 3123 
 
-Telephone (08) 9365 0501  
-Facsimile (08) 9356 6460   
+Telephone (03) 88319740   
 E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
 18\. Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. 
@@ -122,7 +122,7 @@ E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
 **Acceptance** 28\. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use. 
 
-All information ©2002 Bunnings Group Limited
+All information ©September 2009 Bunnings Group Limited
 
 |   
 ---|---|---
