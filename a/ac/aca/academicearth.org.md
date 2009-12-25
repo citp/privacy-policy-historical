@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410072251id_/http%3A//www.academicearth.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225221959id_/http%3A//www.academicearth.org/pages/privacy) for the most accurate reproduction.*
 
-# Academic Earth - Privacy
+# Privacy | Academic Earth
 
 The following describes privacy practices of Academic Earth.
 
