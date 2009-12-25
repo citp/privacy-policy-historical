@@ -1,103 +1,116 @@
-> *The following text is extracted and transformed from the leaguehq.com.au privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626000324id_/http%3A//www.f2.com.au/core/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguehq.com.au privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225190042id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
 
-# f2 Membership - f2 Network Privacy Policy
+# Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
-This policy sets out how f2 uses your personal information and explains:
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
 
-  * What kind of personal information f2 collects and how it is collected
-  * How f2 uses the information you provide
-  * Disclosure
-  * How f2 treats sensitive information
-  * Management and security of personal information
-  * Updating personal information
-  * Seeking access to the personal information f2 holds about you
-  * How to contact f2
+This policy sets out: 
 
-
-
-The f2 Network is the online subsidiary of John Fairfax Holdings and includes leading news and classified sites such as smh.com.au, theage.com.au, drive.com.au, domain.com.au, mycareer.com.au and afr.com. 
-
-This policy applies to f2 Limited, f2 Australia & New Zealand Pty Limited and Personal Investment Direct Access Pty Limited ("f2"). The policy explains how f2 uses personal information collected through the f2 Network. For more information on the sites that comprise the f2 Network, visit www.f2.com.au. 
-
-f2 is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. f2 is exempt from complying with the Privacy Act in relation to its journalism activities. f2 has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
-
-f2 may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to f2's operations. All personal information held by f2 will be governed by f2's most recent policy, posted on the f2 Network. 
-
-**What kind of personal information f2 collects and how it is collected**  
-f2 collects personal information from a variety of sources, including from members of the public, advertisers, prospective employees, mailing lists, recruitment agencies, contractors and business partners. 
-
-In general, the personal information f2 collects includes (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information. 
-
-_Personal Information you provide_ : We store the personal information you enter on the f2 Network or give to f2 in other ways. We obtain most personal information through the f2 Network membership registration process and updates to membership details. You may provide information when you request or acquire a product or service from f2 or its related companies, provide a product or service to f2, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with f2 by e-mail, telephone or in writing (for example if you contact customer service or provide feedback). 
-
-_Automatic collection_ : Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which f2 can identify you. They identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. f2 may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising which f2 believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser. 
-
-_Indirect collection_ : f2 endeavours to collect personal information about an individual only from that individual. In some circumstances f2 may obtain personal information from a third party. If you provide personal information about another person to f2, f2 requires that you inform that person you have done so and provide them with a copy of this policy. 
-
-**How f2 uses the information you provide**  
-f2 may use information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. 
-
-f2 generally uses personal information to: 
-
-  * provide you with products or services you have requested
-  * personalise and customise your experiences on the f2 Network;
-  * help f2 manage and enhance its services;
-  * communicate with you; 
-  * provide you with ongoing information about opportunities on the f2 Network in which f2 believes you may be interested;
-  * give you the opportunity from time to time to receive e-mail and 'e-newsletters' from f2.
+  * what kind of information we collect;
+  * how we collect it;
+  * why we collect it;
+  * how we use it;
+  * how we disclose it;
+  * opting in and out;
+  * management and security;
+  * how to seek access to and update your personal information; and
+  * how to contact us.
 
 
 
-In most cases where f2 asks you to provide information about yourself, if you do not provide f2 with that information, f2 will not be able to provide you with the requested product or service. 
+We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act). 
 
-**Disclosure**  
-f2 may disclose personal information to other companies in the Fairfax Group which may only use it as set out above. 
+We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
 
-f2 may also provide your information to: 
+This policy was last updated on 31 March 2009. 
 
-  * third parties engaged by f2 to perform functions on its behalf, such as processing credit card information, mailouts, debt collection, marketing, research and advertising;
-  * third parties authorised by you to receive information held by Fairfax;
-  * NGA.NET Pty Ltd but only for the purpose of NGA.NET hosting job applications and resumes that you submit via the MyCareer site.
+## What information we collect
+
+In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information. 
+
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
+
+We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs ( **Non-Confidential Information** ). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever. 
+
+## How we collect it
+
+We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners. 
+
+We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our radio programs, blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback). 
+
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified. 
+
+## Why we collect it
+
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below. 
+
+We may state a more specific purpose at the point we collect your information. 
+
+If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only. 
+
+## How we use it
+
+In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:   
+
+
+  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in;
+  * for purposes necessary or incidental to the provision of goods and services to you;
+  * to personalise and customise your experiences;
+  * to manage and enhance our products and services;
+  * to communicate with you, including by email, mail or telephone;
+  * to conduct competitions or promotions;
+  * to verify your identity;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * as required or permitted by any law (including the Privacy Act).
 
 
 
-f2 uses DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive. DoubleClick International generally sends this data to the United States and Canada, but may transfer it to other countries where appropriate. By requesting an e-mail or e-newsletter from f2, you agree that Doubleclick may use your personal information in this way. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, visit:http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&
+## How we disclose it
 
-f2 shares web site usage information about visitors to the f2 Network who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, f2 and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the f2 Network through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit www.privacychoices.org. To opt out of the targeting program, please visit www.privacychoices.org/optout.htm
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Fairfax Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy). 
 
-If f2 sells part of its business, personal information may be part of the assets transferred to the purchaser. 
+We may also disclose personal information, and you consent to us disclosing your personal information, to third parties: 
 
-The f2 Network contains features where you are invited to send personal information to organisations other than f2. The choice to send such information to these organisations is entirely yours. You should be aware that any such information you choose to send will not be bound by this policy. 
+  * engaged by us to perform functions or provide products and services on our behalf, such as newsagents, processing credit card information, mailouts, debt collection, marketing, research and advertising; 
+  * that are our agents, business partners or joint venture entities or partners; 
+  * that sponsor or promote any competition that we conduct or promote via our services; 
+  * authorised by you to receive information held by us; 
+  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator; 
+  * as part of a sale (or proposed sale) of all or part of our business; and/or 
+  * as required or permitted by any law (including the Privacy Act). 
 
-**OfferWatch**  
-OfferWatch is a service which provides access to special offers about products or services you have opted-in to receive. In order to gain access to Offerwatch, you must be a member of f2 and must supply f2 with personal information, including your name, e-mail address, gender, date of birth, postcode, country of residence and annual income. f2 will treat your personal information in accordance with this privacy policy. f2 may disclose aggregated statistical information which does not identify you personally to advertisers and other third parties for marketing, promotional, and other purposes. You can correct or change the information collected during subscription to OfferWatch at any time by following the instructions in our "My Member Details" area. If you experience problems or have questions about OfferWatch, email f2 at privacy@f2network.com.au. 
 
-**Cracker**  
-f2 is not responsible for any disclosure of email addresses between two parties using the anonymize email service on [cracker.com.au](http://cracker.com.au/)
 
-**How f2 treats sensitive information**  
-**"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health. 
+## Opting in or out
 
-f2 may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise. 
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters. 
 
-**Management and security of personal information**  
-f2 has appointed a Privacy Officer to oversee f2's management of personal information in accordance with this policy and the Commonwealth Privacy Act. 
+You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to e-newsletters sent by us. 
 
-f2 protects the personal information f2 holds from misuse, loss, unauthorised access, modification or disclosure by various means including firewalls, pass word access, secure servers and encryption of credit card transactions. 
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at the address set out below. 
 
-**Updating personal information**  
-f2 endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can update your f2 membership information via the 'Update your details' section on any of the sites within the f2 Network. 
+## Management and security
 
-You can generally update personal information that is not membership information on the website of the f2 Network where you submitted that information. Otherwise, please contact f2 on privacy@f2network.com.au. Where personal information is no longer required by f2, it will be destroyed or de-identified. 
+We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act. 
 
-**Seeking access to the personal information f2 holds about you**  
-You have the right to seek access the personal information held about you and to advise f2 of any inaccuracy. There are some exceptions to this right set out in the Privacy Act. 
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions. 
 
-If you make an access request, f2 will ask you to verify your identity and specify what information you require. f2 may charge a fee to cover the costs of meeting your request. 
+However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control. 
 
-_Membership information:_ f2 Network Members can access the membership information f2 holds about them at any time via the 'Update your details' section on any of the sites within the f2 Network. 
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies. 
 
-**How to contact f2**  
-If you have enquiries or wish to provide feedback about this policy, please e-mail [privacy@f2network.com.au](mailto:privacy@f2network.com.au). 
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
 
-To make an access request, please write to the Privacy Officer at GPO Box 506 Sydney, 2001 or fax 02 9282.3521. 
+## Accessing and updating your information and how to contact us
+
+Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request. 
+
+Members of our websites will generally be able to access and update their membership details online. 
+
+We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
+
+Privacy Officer   
+GPO Box 506   
+Sydney NSW 2001 
