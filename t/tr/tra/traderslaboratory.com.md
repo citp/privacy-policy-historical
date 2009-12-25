@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206170810id_/http%3A//www.traderslaboratory.com/index.php%3Fpage%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderslaboratory.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225151219id_/http%3A//www.traderslaboratory.com/forums/privacy) for the most accurate reproduction.*
 
-# Traders Laboratory - Website Privacy Statement
+# Privacy Policy
 
-This document was last updated on July 15th, 2006. 
+This document was last updated on April 7, 2009. 
 
-1\. Acknowledgement and acceptance of terms 
+1\. Acknowledgment and acceptance of terms 
 
 Your privacy is important to us. Traders Laboratory is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TradersLaboratory.com, you acknowledge and fully understand Traders Laboratory's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
 
@@ -45,7 +45,7 @@ To fulfill your service requests for services. To protect ourselves from liabili
 
 5\. Use of Web Beacons or GIF files 
 
-TradersLaboratory.com Web pages may contain electronic images known as Web beacons ? sometimes also called single-pixel gifs ? that allow Traders Laboratory to count users who have visited those pages and to deliver co-branded services. Traders Laboratory may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
+TradersLaboratory.com Web pages may contain electronic images known as Web beacons sometimes also called single-pixel gifs that allow Traders Laboratory to count users who have visited those pages and to deliver co-branded services. Traders Laboratory may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Traders Laboratory prohibits Web beacons from being used to collect or access your personal information. 
 
@@ -55,7 +55,7 @@ We will provide you with the means to ensure that personally identifiable inform
 
 7\. Changes to this Statement 
 
-Traders Laboratory has the discretion to occasionally update this privacy statement. When we do, we will also revise the ?updated? date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+Traders Laboratory has the discretion to occasionally update this privacy statement. When we do, we will also revise the updated date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
 8\. Contacting Us 
 
