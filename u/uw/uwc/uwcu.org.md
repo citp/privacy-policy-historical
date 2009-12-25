@@ -1,18 +1,70 @@
-> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208224200id_/http%3A//www.uwcu.org/legal/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
 
-# Internet Privacy Policy - UW Credit Union (UWCU) - Madison, Milwaukee, Green Bay, Glendale, Whitewater (Wisconsin) - Checking, Savings, Loans, Mortgages, Online Banking, Rates, Student Loans - Financial, Banking, Credit Union
+# Your Privacy Is Important to Us - UW Credit Union (UWCU, University of Wisconsin Credit Union)
 
-Welcome to UW Credit Union's Web site. This section explains our policy regarding any personal information shared with us when you visit this site. Our goal is to protect your information on the Internet in the same way that we protect it when you use our branches, ATMs, or phone center.
+Thank you for choosing UW Credit Union to assist you with your financial needs. It is our mission to provide you with excellent solutions and service, as well as to protect your personal financial information.
 
-UW Credit Union's Internet Privacy Policy
+We are committed to maintaining the highest level of integrity in the protection and use of private member information. In fact, we follow strict business practices that exceed what is legally required.
 
-Protecting the personal information of our members is a high priority for everyone at UW Credit Union. Visitors to our Web site remain anonymous. We do not collect identifying information about visitors to our site. We may use standard software to collect non-identifying information about our visitors, such as:
+> **Selling member information** —we never do it.
+> 
+> **Outside partnerships** —any outside vendor we do business with is required to keep your information private. Any joint marketing partner must keep your information confidential.
 
-  
-This information is used to create summary statistics and determine the level of interest in information available on our site, and to make improvements. We cannot identify specific visitors from this data. 
+This notice details our practices in the collection and use of private information. We’ve also used this opportunity to share with you some helpful tips on protecting your identity.
 
-Web site visitors may elect to provide us with personal information via e-mail, online forms, or applications. If you choose to provide personal information, refer to the document ["Your Privacy is Important to Us."](https://web.archive.org/web/20041208224200id_/http%3A//www.uwcu.org/legal/PrivacyIsImportant.asp)
+We appreciate your confidence and the opportunity to serve you.
 
-UW Credit Union may use "cookies" to provide certain functionality on our Web sites. A "cookie" is a small text file stored on the visitor's computer by a Web site to remind that site about the visitor when they return or as they move through different pages within a site. Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie.
+## Information Collected
 
-If you use Web Branch, this product has designed-in security features that safeguard your account, and ensure that all of your transactions are protected. Web Branch takes advantage of the powerful encryption technology available through Secure Sockets Layer (SSL) as enabled from the web server. This advanced technology prevents unauthorized monitoring of your account.
+We collect nonpublic personal information about you from the following sources:
+
+  * UW Credit Union applications and forms you’ve submitted to receive a service;
+  * Your transactions with UW Credit Union; and
+  * A consumer reporting agency
+
+
+
+## Disclosure of Information Collected
+
+As permitted by law, we may disclose the nonpublic personal information about you to the following types of third parties:
+
+  * Financial service providers, such as insurance companies and securities broker-dealers.
+  * Non-Financial companies, such as consumer reporting agencies, data processors, check/share draft printers, financial statement publishers/printers, plastic card processors, direct marketers, government agencies and mailhouses.
+  * Financial institutions with whom we have joint marketing agreements, and other companies that perform marketing services on our behalf.
+  * Non-affiliated third parties for the purposes of processing and servicing transactions that you request or authorize.
+
+
+
+## Confidentiality and Security
+
+To protect our members’ privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell this information to other third parties.
+
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+
+If you leave UW Credit Union, we will not share any collected information about you, except as may be permitted or required by law.
+
+## Protect Your Identity
+
+Protect your account numbers, plastic card numbers, personal identification numbers (PINs) and passwords. Never keep your PIN with your card. The PIN can provide free access to your accounts if your card is lost or stolen.
+
+Use caution when disclosing your account numbers, social security numbers, etc. Beware if someone calls you requesting information about your UW Credit Union account. Official credit union staff will have access to your information and will not need to ask for it.
+
+Keep your information with us current. If you change your address or phone number, please let us know. It is important we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately.  
+[Update your contact information in Web Branch »](https://webbranch.uwcu.org/wb/profileservices/addresschange.aspx)
+
+## Report Fraud
+
+  1. File a police report.
+  2. Contact the companies that may be referenced in the material stolen (credit card companies, health insurance companies, U.S. Social Security Office, etc.).
+  3. Contact national credit reporting agencies: 
+    * **Equifax:** [www.equifax.com](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=58)
+    * **Experian:** [www.experian.com](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=59)
+    * **Trans Union:** [www.transunion.com](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=60)
+    * **U.S. Social Security Fraud Hotline:** 800-269-0271
+    * **Federal Trade Commission Fraud Hotline:** 877-438-4338
+    * For more information, visit [www.ftc.gov/idtheft](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=193).
+
+Learn more about [credit reports](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/MemberServices/CreditReports.aspx).
+
+
+
