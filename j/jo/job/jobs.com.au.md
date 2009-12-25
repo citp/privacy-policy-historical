@@ -1,75 +1,116 @@
-> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308185153id_/http%3A//careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225190042id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
 
-# CareerOne - Privacy Policy
+# Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
-News Interactive ( ** _News_** ) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word _customers_ includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
 
-We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act. 
+This policy sets out: 
 
-Personal Information 
+  * what kind of information we collect;
+  * how we collect it;
+  * why we collect it;
+  * how we use it;
+  * how we disclose it;
+  * opting in and out;
+  * management and security;
+  * how to seek access to and update your personal information; and
+  * how to contact us.
 
-We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
 
-Use of Information 
+We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act). 
 
-We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
+We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
 
-We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication. 
+This policy was last updated on 31 March 2009. 
 
-We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
+## What information we collect
 
-Use by Third Parties 
+In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information. 
 
-News may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do. 
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
 
-Use of Aggregate Data 
+We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs ( **Non-Confidential Information** ). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever. 
 
-We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+## How we collect it
 
-News may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes. 
+We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners. 
 
-Security 
+We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our radio programs, blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback). 
 
-News strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure. 
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified. 
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
+## Why we collect it
 
-Access to Personal Information 
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below. 
 
-You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. 
+We may state a more specific purpose at the point we collect your information. 
 
-To request access, please contact our privacy officer as set out at the end of this document. 
+If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only. 
 
-Public Information 
+## How we use it
 
-Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
+In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:   
 
-Cookies 
 
-Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
+  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in;
+  * for purposes necessary or incidental to the provision of goods and services to you;
+  * to personalise and customise your experiences;
+  * to manage and enhance our products and services;
+  * to communicate with you, including by email, mail or telephone;
+  * to conduct competitions or promotions;
+  * to verify your identity;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * as required or permitted by any law (including the Privacy Act).
 
-Online Links to Third Party and Co-Branded Sites 
 
-News may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner. 
 
-News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
+## How we disclose it
 
-What else you should know about privacy on the Internet 
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Fairfax Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy). 
 
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer. 
+We may also disclose personal information, and you consent to us disclosing your personal information, to third parties: 
 
-Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet. 
+  * engaged by us to perform functions or provide products and services on our behalf, such as newsagents, processing credit card information, mailouts, debt collection, marketing, research and advertising; 
+  * that are our agents, business partners or joint venture entities or partners; 
+  * that sponsor or promote any competition that we conduct or promote via our services; 
+  * authorised by you to receive information held by us; 
+  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator; 
+  * as part of a sale (or proposed sale) of all or part of our business; and/or 
+  * as required or permitted by any law (including the Privacy Act). 
 
-For further information 
 
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
+
+## Opting in or out
+
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters. 
+
+You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to e-newsletters sent by us. 
+
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at the address set out below. 
+
+## Management and security
+
+We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act. 
+
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions. 
+
+However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control. 
+
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies. 
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
+
+## Accessing and updating your information and how to contact us
+
+Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request. 
+
+Members of our websites will generally be able to access and update their membership details online. 
+
+We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
 
 Privacy Officer   
-News Interactive   
-[privacy@news.com.au](mailto:privacy@news.com.au)   
-02 9288 3000   
-Level 3   
-2 Holt Street   
-Surry Hills 2010 
+GPO Box 506   
+Sydney NSW 2001 
