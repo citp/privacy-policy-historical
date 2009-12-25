@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the walyou.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428044756id_/http%3A//www.walyou.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walyou.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225162930id_/http%3A//www.walyou.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Walyou
 
 Walyou Policy  
-As of March 24, 2009
+As of November 14, 2009
 
-At Walyou, your privacy is important to us and all information collected is voluntary. Comments on our posts are entirely optional and will be posted automatically on the website and may also be removed if deemed offensive, abusive, interruptive, or for other requirements seemed necessary for the well being of the community and its members. We do not collect personal information on our website for the use with third party affiliations.
+At Walyou, your privacy is important to us and all information collected is voluntary. Comments on our posts are entirely optional and will be posted automatically on our site or may also be displayed on a collaborating site (during Giveaways, Contests, or Campaigns) without providing any personal email. and may also be removed if deemed offensive, abusive, interruptive, or for other requirements seemed necessary for the well being of the community and its members. Comments may also be posted  e do not collect personal information on our website for the use with third party affiliations.
 
 **Cookies  
 **
