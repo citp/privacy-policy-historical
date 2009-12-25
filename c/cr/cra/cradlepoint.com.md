@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626200317id_/http%3A//cradlepoint.com/content/legalprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cradlepoint.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225201412id_/http%3A//www.cradlepoint.com/content/legalprivacy-statement) for the most accurate reproduction.*
 
 # Legal/Privacy Statement | Cradlepoint Technology
 
 ### Privacy Policy
 
-This Privacy Policy describes our practices regarding information we gather from you while you visit the CradlePoint, Inc U.S. Web site, [www.cradlepoint.com](http://www.cradlepoint.com/). 
+This Privacy Policy describes our practices regarding information we gather from you while you visit the CradlePoint, Inc U.S. Web site, [www.cradlepoint.com](https://web.archive.org/). 
 
 ### The Information We Collect
 
-For all visitors to [www.cradlepoint.com](http://www.cradlepoint.com/), CradlePoint collects general data pertaining to each Web site visitor, such as the visitor's IP address, operating system, browser type and version number and the Web pages viewed. This information is aggregated with all other visitor information. 
+For all visitors to [www.cradlepoint.com](https://web.archive.org/), CradlePoint collects general data pertaining to each Web site visitor, such as the visitor's IP address, operating system, browser type and version number and the Web pages viewed. This information is aggregated with all other visitor information. 
 
 ### Use of the Information Collected
 
@@ -16,7 +16,7 @@ While the information that we collect enables us to offer better service, we may
 
 ### Entity Collecting Personal Information
 
-Personal information on this site is collected by CradlePoint Incorporated. The company's address is 223 N. 6th Street, Suite 400, Boise, ID 83702 USA, and its telephone number is (208) 424-5054. 
+Personal information on this site is collected by CradlePoint Incorporated. The company's address is 1199 Shoreline Lane, Suite 301, Boise, ID 83702 USA, and its telephone number is (208) 424-5054. 
 
 When you submit personal information to CradlePoint through this site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which CradlePoint and its affiliates and subsidiaries maintain offices including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by trusted vendors of CradlePoint. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties. 
 
