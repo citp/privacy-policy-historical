@@ -1,52 +1,39 @@
-> *The following text is extracted and transformed from the woodstock.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050739id_/http%3A//www.woodstock.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodstock.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225071920id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Woodstock.com User Privacy Policy
+# 
 
-* * *
+Your privacy is important to us. That is why we want you to be informed about how we protect the privacy of visitors to our site. Please take a moment to read the following policy, which describes our practices for the collection and use of personally identifiable information on this site. Sites that are linked to our site may have different policies, please review the privacy policy notices on those sites for details. 
 
-**Privacy Statement for Woodstock.com**
+We do not collect personally identifiable information about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your email address, name, mailing address, cell phone number and carrier service provider or other information about you in order to participate in contests, chat rooms, blogs, or on bulletin boards; to be added to the list to receive email or SMS (text message) updates on particular artists or types of music; to send so-called "postcards" or to conduct transactions elsewhere on the site. You are not required to provide us with this information, but if you choose not to, you may not be able to participate in some of the activities on this site. 
 
-FirstLook.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Woodstock.com. You can reach us with questions regarding this statement via email at [info@FirstLook.com](mailto:info@FirstLook.com). 
+We use the information we collect from you to allow you to participate in the site activities for which the information is collected. For example, when you give us your email address in order to receive updates on a particular artist or type of music, that address is added to the email list for that artist or type of music. On each email you receive, you are given the opportunity to unsubscribe; once you unsubscribe, you will no longer receive such emails. 
 
-We use your IP address to help diagnose problems with our server and to administer our Website. Your IP address is also used to gather broad demographic information, such as country of origin. 
+A cell phone number and carrier service provider is only required if you want to receive updates on a particular artist or type of music via SMS (text messages) sent to your mobile phone. There are usually costs associated with receiving SMS (text) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply. 
 
-Our site uses cookies to deliver content specific to your interests and for other purposes. These cookies are used solely for the site, and the content contained is not distributed to third parties. 
+For contests conducted on this site, we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use contact information contained in contest entries to create mailing lists or for any other purpose, unless you have simultaneously subscribed to a mailing list. For further information about how we handle entries to a particular contest, please consult the contest rules. 
 
-Our site has an opt-in mailing list for users who choose to provide their email address. We use these email addresses to send users information related to Woodstock.com, including updates on new content and special offers. Once subscribed, users may opt-out/unsubscribe from these mailings; see the choice/opt-out section below. Your email address will never be given or sold to a third party without your permission. 
+We may share the personal information we collect from you with our affiliates or send you email promotions and special offers from reputable third parties in whose products or services we think you may have an interest. We may also share your information with reputable third parties who may contact you directly and/or supplement the information you provide with information received from third parties. Such third parties may include representatives of our current or former recording artists. 
 
-This site contains links to other sites. FirstLook.com, Inc. is not responsible for the privacy practices or the content of such Web sites. 
+Personal information collected on this site may be shared with service providers such as those with whom we contract to operate this site (for example, to send you a promotional item that you have requested on the site). These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations. To the extent required or permitted by law, we may also collect, use and disclose personal information in connection with security-related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements. We may also use your information as permitted by law to perform credit checks, report or collect debts owed, or protect our rights or property, our website, or its users. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Some information may automatically be collected as you browse our site. Our web server automatically collects information known as "clickstream data," such as the domain name of the service providing you with Internet access, the Internet protocol (IP) address used to connect your computer to the Internet, your browser type and version, operating system and platform, the average time spent on our site, pages viewed, information searched for, access times and other relevant statistics. We also may use cookies or web beacons on our site. Cookies are pieces of information that a web site transfers to the hard drive of a visitor's computer for record-keeping purposes. We use cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor and to help us understand what areas of the website are of greatest interest to you. Cookies also may enhance your online experience by saving your preferences and password so you do not have to re-enter this information each time you visit our website. Certain pages on our site may contain “web beacons” (also known as Internet tags, pixel tags or clear GIFs). Web beacons may allow third parties to obtain non-personally identifiable information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons. 
 
-Please note that our Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond the control of FirstLook.com, Inc. Furthermore, please note that FirstLook.com, Inc.'s Privacy Policy will not be applied in a manner that is contrary to applicable law or governmental regulation. 
+We use clickstream data, web beacons and cookies only in the aggregate to measure the use of our site and to administer and improve our site. Any sharing of such data with unrelated third parties is on an anonymous basis. When we collect personal information, we may extract some of the information, such as demographic information and combine it with other information, such as clickstream data. This combined information is used and analyzed only at an aggregate level to help us or third parties understand trends and patterns. 
 
-**Public Forums**
+We try to keep the information we collect from you as current as possible, and we take reasonable steps to maintain the security of your personal information and to prevent unauthorized access to it by those who do not have a legitimate need for it. To that end, we periodically review our security measures. It is our policy not to post your email address or other identifying information you have provided on our site without your consent. Your consent is assumed if you post such information to a publicly viewable interactive site application such as a blog, bulletin board or chat room. 
 
-This site may contain chat rooms, forums, and message boards, available free to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+If you are under 13 years of age, you should not provide any personally identifiable information on this site without the knowledge and permission of your parent or guardian. There are certain web pages within our website that require users to be at least 13 years of age; these pages require you to enter your date of birth, and anyone under the age of 13 will be restricted from participating in such web page activities. We use cookies and/or web beacons to assure that this restriction persists. This may mean that you will be unable to participate in some activities on the site. 
 
-**Security**
+**Visit[www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/socialnetworking.html) and [youth](http://www.onguardonline.gov/socialnetworking_youth.html).**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users. Staff overlook server access daily to ensure the above holds true. 
+  All contests that are held on this site are limited to persons above a certain age. Accordingly, we ask each contestant to provide year of birth, as well as name, address, and email address. Please refer to the specific age requirements for each contest as rules may vary from contest to contest. 
 
-**Choice/Opt-Out**
+We ask each visitor who wishes to participate in blogs, chat rooms and bulletin boards on this site to provide an email address along with the visitor's screen name to access these functions. Each visitor who wishes to send a so-called "postcard" is asked to provide the visitor's screen name and email address, the recipient's name and email address, and a message selected by the visitor. Except for the uses described in the paragraphs above, all such email addresses are used only to protect the security and integrity of the site, such as to take action against visitors who post inappropriate material or harass other visitors. You are responsible and are deemed to have consented to disclosure if you post your email address or other identifying information to a publicly viewable interactive site application such as a blog, chat room or bulletin board. 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets, or in the event of insolvency, bankruptcy or receivership. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+The operator of this site is Sony Music Entertainment, 550 Madison Avenue, New York, New York 10022. 
 
-  1. You can send email to info@FirstLook.com 
-  2. You can follow the ìunsubscribeî link listed at the bottom of all subscription-based email messages sent to you by Woodstock.com or FirstLook.com 
+By using our site you consent to our collection and use of your personal information as described in this policy. We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site, and your continued use constitutes acceptance of those changes. Thank you for visiting our site, and for taking the time to read this policy. 
 
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-Email us at [info@FirstLook.com](mailto:info@FirstLook.com) to change your mailing preferences or user information. 
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact info@FirstLook.com. 
-
-**Our Policy Can Change**
-
-FirstLook.com, Inc. must reserve all of our rights to modify this Privacy Policy. For this reason, you should regularly check our policy to ensure that it continues to meet your needs. 
+(Click here to print this page)
