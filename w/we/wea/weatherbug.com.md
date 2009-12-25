@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622022419id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225084134id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # USA weather and forecast information on WeatherBug.com
 
