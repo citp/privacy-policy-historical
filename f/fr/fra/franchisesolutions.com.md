@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629234933id_/http%3A//franchisesolutions.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225032605id_/http%3A//www.franchisesolutions.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Franchise Information, Franchises for Sale & Business Opportunities
 
