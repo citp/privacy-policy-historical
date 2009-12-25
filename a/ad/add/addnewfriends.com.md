@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addnewfriends.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603012540id_/http%3A//www.addnewfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addnewfriends.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225224211id_/http%3A//www.addnewfriends.com/privacy) for the most accurate reproduction.*
 
 # MySpace Bot, Friend Adder Bot, Friend Blaster Pro - Start growing your MySpace Friends with the #1 MySpace Friend Adder Bot! | Addnewfriends
 
