@@ -1,27 +1,17 @@
-<!--The following is the downloaded HTML source of the uptake.com privacy policy that was archived on 2009-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604090029id_/http%3A//www.uptake.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uptake.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225025522id_/http%3A//www.uptake.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>Privacy Policy</title>
-<link rel="shortcut icon" href="http://www.uptake.com/images/uptake/favicon.ico">
-<link href="http://www.uptake.com/stylesheets/uptake/global.css?1224652338" media="screen" rel="Stylesheet" type="text/css">
-		<link href="http://www.uptake.com/stylesheets/uptake/widget.css?1224652338" media="screen" rel="Stylesheet" type="text/css">
-
-	     <link href="http://www.uptake.com/stylesheets/uptake/static.css?1224652338" media="screen" rel="Stylesheet" type="text/css">
-<link href="http://www.uptake.com/stylesheets/uptake/category.css?1224652338" media="screen" rel="Stylesheet" type="text/css">
 
 
+<link rel="stylesheet" href="http://cms.uptake.com/wp-content/themes/uptake_minihomepage_sep0109/style.css" type="text/css" media="screen">
 
-<link rel="stylesheet" href="http://cms.uptake.com/wp-content/themes/uptake_minihomepage/style.css" type="text/css" media="screen">
- 
 
-<script src="http://www.uptake.com/javascripts/kango/global.js?1214367214" type="text/javascript"></script>
 
 <meta name="verify-v1" content="Riw9Mv3xPah45fyyFPus+Na+XfdxK/DVIYbY5ScOu54=">
-
-<script src="http://www.uptake.com/javascripts/kango/button_accessor.js" type="text/javascript"></script>
 
 <meta name="generator" content="WordPress 2.5.1">
 
@@ -35,6 +25,7 @@
 <div id="header" class="clearfix">
 			<div id="Logo" class="col_lft">
 				<a href="http://www.uptake.com/" class="border:none;"><img alt="www.uptake.com" src="http://www.uptake.com/images/blank.gif" class="logo"></a>
+<p class="tagline">We search 5,000 travel sites so you don't have to</p>
 			</div>
 			<div id="NameChange" class="col_lft"></div>
 			
@@ -79,9 +70,9 @@
 <div id="contentStaticPages">
 	<div id="SCt">
 <div class="StaticLeftCol"><div class="sMn">
-		<div class="lbl">
+		<h4>
 				UpTake
-			</div>
+			</h4>
 		<ul>
 			
 				<li><a href="/about">About</a></li>
@@ -99,6 +90,8 @@
 				<li class="current"><a href="/privacy_policy">Privacy Policy</a></li>
 			
 				<li><a href="/uptake-bloggers">UpTake's Bloggers</a></li>
+			
+				<li><a href="/travel-gems-for-bloggers-how-it-works">Travel Gems for Bloggers,<br>How it Works</a></li>
 			
 				<li><a href="/site_map">Sitemap</a></li>
 			
@@ -188,7 +181,8 @@
 					<li><a href="http://attractions.uptake.com/">Things to Do</a></li>
 					<li><a href="http://beaches.uptake.com/">Beaches</a></li>
 					<li><a href="http://restaurants.uptake.com/">Restaurants</a></li>			
-					<li class="last"><a href="http://www.uptake.com/deals.html" rel="nofollow">Deals</a></li>
+					<li><a href="http://www.uptake.com/deals.html" rel="nofollow">Deals</a></li>
+                                        <li class="last"><a href="http://www.uptake.com/travel-gems-for-bloggers-how-it-works.html" rel="nofollow">Travel Gems</a></li>
 
 				</ul>
 				<br>
@@ -216,399 +210,21 @@
     
     	
     <!-- end .wDim -->
-    <script src="http://www.uptake.com/javascripts/lib/prototype/1.6.js?1214367214" type="text/javascript"></script>
-     <script src="http://www.uptake.com/javascripts/lib/scriptaculous/effects.js?1227590712" type="text/javascript"></script>
 
-<script src="http://www.uptake.com/javascripts/kango/widget.js?1214367214" type="text/javascript"></script>
+
 <script type="text/javascript">
-	var whereComplete, whatComplete;
-var input = $("DQ");
-var whatInput = $("WQ");
-var form = $$("#SBox form")[0];
 
-if (input && whatInput) {
-  whereComplete = Kango.Controls.AutoComplete.create(input, "http://www.uptake.com/autocomplete/where?context=doublebox&callback=whereComplete.update", function(){
-    window.setTimeout(function(){ // will not submit the form for the first time , but it will
-      whereComplete.entered = true; // do for the second time
-    }, 1);
-  },'where');
-  whatComplete = Kango.Controls.AutoComplete.create(whatInput, "http://www.uptake.com/autocomplete/what?callback=whatComplete.update", function(){
-    window.setTimeout(function(){ // will not submit the form for the first time , but it will
-      whatComplete.entered = true; // do for the second time
-    }, 1);
-  },'what');
-  
-  var sBtn = $('BtnSERP');
-  input.observe('keypress', function(e){
-    if (!e) 
-      var e = window.event;
-    if (e.keyCode) 
-      code = e.keyCode;
-    else 
-      if (e.which) 
-        code = e.which;
-    if (code == 13) {
-      if (input.value == '' && whatInput.value == '') {
-        whatInput.focus();
-      }
-      else {
-        window.setTimeout(function(){
-          form.submit()
-        }, 1);
-      }
-      Event.stop(e);
-    }
-  });
-  whatInput.observe('keypress', function(e){
-    if (!e) 
-      var e = window.event;
-    if (e.keyCode) 
-      code = e.keyCode;
-    else 
-      if (e.which) 
-        code = e.which;
-    if (code == 13) {
-      if (input.value == '' || input.value == 'Any US Destination') {
-        input.value = '';
-        input.focus();
-      }
-      else {
-        window.setTimeout(function(){
-          form.submit()
-        }, 1);
-      }
-      Event.stop(e);
-    }
-  });
-  sBtn.observe('click', function(){
-    if (input.value == '' && whatInput.value == '') {
-      whatInput.focus();
-    }
-    else {
-      form.submit();
-    }
-  });
-
-}	
-
-	
-	 
 </script>
+<script src="http://www.uptake.com/javascripts/analytics.js" type="text/javascript"></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1370092-6");
-pageTracker._setDomainName(".uptake.com");
-pageTracker._trackPageview();
-</script> 
-<!-- Omniture -->
- <!-- SiteCatalyst code version: H.14. 
- Copyright 1997-2007 Omniture, Inc. More info available at 
- http://www.omniture.com --> 
- <script language="JavaScript" type="text/javascript" src="http://www.uptake.com/javascripts/omniture/s_code.js"></script> 
- <script language="JavaScript" type="text/javascript"><!-- 
- /* You may give each page an identifying name, server, and channel on 
- the next lines. */ 
- s.pageName='' 
- s.server=window.location.hostname 
- s.channel='CMS' 
- s.pageType='' 
- s.prop1='' 
- s.prop2='' 
- s.prop3='' 
- s.prop4='' 
- s.prop5='' 
- s.prop6='' 
- s.prop7='n/a' 
- s.prop8='' 
- s.prop9='Generic' 
- s.prop10='' 
- s.prop11='' 
- s.prop12='Mini Home Page' 
- s.prop13='n/a' 
- s.prop14= s.prop7 + '-' + s.prop12
- s.prop15= s.prop13 + '-' + s.prop12 + '-' + s.prop9 
- /* Conversion Variables */ 
- s.campaign='' 
- s.state='' 
- s.zip='' 
- s.events=''
- s.products='' 
- s.purchaseID='' 
- s.eVar1='http://cms.uptake.com/left-navigation-box' 
- s.eVar2=s.prop1 
- s.eVar3=s.prop2 
- s.eVar4=s.prop4 
- s.eVar5='' 
- s.eVar7=s.prop12
- s.eVar8=s.prop7
- s.eVar9=s.prop13
- s.eVar10=s.prop9
- s.eVar11=s.prop14
- s.eVar12=s.prop15
- /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ 
- var s_code=s.t();if(s_code)document.write(s_code)//--></script> 
- <!-- End SiteCatalyst code version: H.14. --> 
-
-    <script type="text/javascript">
-/*
-	scroll widget
-	lwang@uptake.com
-*/
-var scrollWidget = {
-	elements: {
-		'sources': $('display-source-group'),
-		'dataKey': $('display-data-key'),
-		'dataValue': $('display-data-value'),
-		'reviewQuote': $('display-review-quotes'),
-		'photos': $('display-photo-group')
-	},
-	createValueEle: function(html){
-		var div = document.createElement('div');
-		div.innerHTML = html;
-		div.className = 'scroll-widget-value';
-		return div;
-	},
-	createPhotoEle: function(photo){
-		var photoLink = document.createElement('a');
-		var image     = document.createElement('img');
-		photoLink.href = photo['product_url'];
-		image.src = photo['product_photo_url'];
-		image.width = image.height = 60;
-		photoLink.appendChild(image);
-		return photoLink;
-
-	},
-	config: {
-		fps: 24,
-		delay: 3
-	},
-	pickRandom: function( eList, current, current1, current2, current3 ){
-		var selected = 'ele';
-		while( selected ){
-			selected = eList[ Math.floor( Math.random()*eList.length ) ]
-			if( selected != current && selected != current1 && selected != current2 && selected != current3  ) return selected
-		}
-	},
-	scrollAnimation: function(data, containter){
-		var sources = [],
-			width = 0;
-		data.each(function( str, i ){
-			sources.push( scrollWidget.createValueEle(str) );
-		});
-		containter.appendChild(sources[0]);
-		containter.appendChild(sources[1]);
-		containter.appendChild(sources[2]);
-		containter.appendChild(sources[3]);
-		containter.appendChild(sources[4]);
-		(function(){
-		var offset = 0
-		window.setInterval(function(){
-			if( offset != containter.select('div')[ 0 ].getWidth() + 15 ){
-				containter.style.left = 0 - offset + 'px';
-				offset +=1;
-			}else{
-				containter.select('div')[ 0 ].remove();
-				offset = 0;
-				containter.appendChild(
-					scrollWidget.pickRandom(
-						sources,
-						containter.select('div')[ 0 ],
-						containter.select('div')[ 1 ],
-						containter.select('div')[ 2 ],
-						containter.select('div')[ 3 ]
-					)
-				);
-				containter.style.left = 0;
-			}
-
-		},50)})();
-
-
-
-	},
-	blindUpAnimation: function(data,containter,smoothly ){
-		var smoothly = smoothly ? smoothly : false;
-		var sources = [];
-		var delay = smoothly ? 0 : scrollWidget.config.delay;
-		data.each(function( str, i ){
-			var e = scrollWidget.createValueEle(str);
-			e.style.overflow = 'hidden';
-			sources.push( e );
-		});
-		containter.appendChild( scrollWidget.pickRandom(sources) );
-		containter.appendChild( scrollWidget.pickRandom(sources, containter.firstDescendant()) );
-		var height = containter.getHeight();
-		var play = true;
-		(function(){
-			var offset = 0;
-			window.setInterval(function(){
-				if( !play ) return;
-				if( offset <= height ){
-					containter.firstDescendant().style.height = height - offset + 'px';
-					offset +=1;
-				}else{
-					offset = 0;
-					containter.firstDescendant().style.height = height + 'px';
-					containter.firstDescendant().remove();
-					containter.appendChild( scrollWidget.pickRandom(sources, containter.firstDescendant()) );
-					play = false;
-					window.setTimeout(function(){
-						play = true;
-					},1200);
-				}
-
-		},60)})();
-	},
-	blindUpPaireAnimation: function(datas,containters,smoothly){
-		var smoothly = smoothly ? smoothly : false;
-		var sources = [];
-		var delay = smoothly ? 0 : scrollWidget.config.delay;
-		datas.each(function( data, i ){
-			var k = scrollWidget.createValueEle(data.key),
-				v = scrollWidget.createValueEle(data.value);
-			k.style.overflow = 'hidden';
-			v.style.overflow = 'hidden';
-			sources.push( {key: k, value:v } );
-		});
-		var height = containters.key.getHeight();
-		var init_current = scrollWidget.pickRandom(sources),
-			current = scrollWidget.pickRandom(sources, init_current);
-		var ready = 2;
-		for( t in containters){
-			containters[t].appendChild( init_current[t] );
-			containters[t].appendChild( current[t] );
-			(function(){
-				var type = t;
-				var	play = true;
-				var offset = 0; 
-				window.setInterval(function(){
-					if( !play ) return;
-					if( offset <= height ){
-						containters[type].firstDescendant().style.height = height - offset + 'px';
-						offset +=1;
-					}else{
-						offset = 0;
-						containters[type].firstDescendant().style.height = height + 'px';
-						containters[type].firstDescendant().remove();
-						//console.log(ready);
-						if( ready == 2 ) {
-							current = scrollWidget.pickRandom(sources, current);
-							ready = 0;
-						}
-						containters[type].appendChild( current[type] );
-						ready += 1;
-						play = false;
-						window.setTimeout(function(){
-							play = true;
-						},600);
-					}
-
-			},60)})();
-			
-		}
-	},
-	animations : {
-		sources : {
-			runWithData : function( aData ){
-				scrollWidget.scrollAnimation(aData, scrollWidget.elements.sources);
-			}
-		},
-		data : {
-			runWithData : function( aDatas ){
-				var containers = {key: scrollWidget.elements.dataKey, 
-				value: scrollWidget.elements.dataValue };
-
-				aDatas.each(function(data){
-
-						data.value = data.value.truncate(30);
-				});
-
-				scrollWidget.blindUpPaireAnimation(aDatas, containers);
-			}
-		},
-		reviewQuotes : {
-			runWithData : function( aData ){
-				var truncated_data = [];
-				aData.each(function(data){
-					var parts = data.split('|');
-					parts[0] = parts[1] && parts[0].length > 105 - parts[1].length ? parts[0].truncate(105 - parts[1].length) : parts[0] 
-					truncated_data.push( parts.join(' | ') );
-				});
-				scrollWidget.blindUpAnimation(truncated_data, scrollWidget.elements.reviewQuote);
-			}
-		},
-		photos : {
-			runWithData : function( aDatas ){
-
-				var photoContainer = $(scrollWidget.createValueEle(''));
-				var photos = [];
-				aDatas.each(function( data, i ){
-					var photo = scrollWidget.createPhotoEle(data);
-					photos.push( photo );
-				});
-				photoContainer.appendChild(photos[0]);
-				photoContainer.appendChild(photos[1]);
-				photoContainer.appendChild(photos[2]);
-				photoContainer.appendChild(photos[3]);
-				photoContainer.appendChild(photos[4]);
-				photoContainer.style.width = 5 * 72 + 'px';
-				scrollWidget.elements.photos.appendChild(photoContainer);
-
-				(function(){
-				var offset = 0
-				window.setInterval(function(){
-					if( offset < 72 ){
-						photoContainer.select('a')[ 0 ].style.marginLeft = 0 - offset + 'px';
-						offset +=1;
-					}else{
-
-						var t = photoContainer.select('a')[ 0 ].remove();
-						offset = 0;
-						photoContainer.appendChild(
-							scrollWidget.pickRandom(
-								photos,
-								photoContainer.select('a')[ 0 ],
-								photoContainer.select('a')[ 1 ],
-								photoContainer.select('a')[ 2 ],
-								photoContainer.select('a')[ 3 ]
-							)
-						);
-						t.style.marginLeft = 0;
-					}
-
-				},50)})();
-			}
-		}
-	},
-	initWithData : function( data ){
-		if( $('scroll-widget') && data ){
-						Effect.BlindDown('scroll-widget', {
-						  afterFinish: function(){
-							 for ( name in data ){
-				if ( scrollWidget.animations[ name ] ){
-					scrollWidget.animations[ name ].runWithData( data[name] );
-				}
-				  }
-						  }
-						});
-		}
-	}
-};
-
-window.onload = function(){
-(function(path){
-	var scriptTag = document.createElement('script');
-		var host = window.location.host.match(/staging/) ? 'staging.uptake.com' :  'www.uptake.com';
-
-	scriptTag.src = 'http://' + host + path;
-	document.body.appendChild( scriptTag );
-})('/ajax/scroll_widget?type=beachBackground&callback=scrollWidget.initWithData');
-};
+setAnalytics("UA-1370092-6");
 </script>
+<script src="http://uptake-assets.s3.amazonaws.com/javascripts/all.js" type="text/javascript"></script>
+ 
+<script language="JavaScript" type="text/javascript">
+  setTrackingCode('CMS','','','',' ','','','attraction','','Generic','Mini Home Page','','','','','www');
+</script>
+
     
 
 
