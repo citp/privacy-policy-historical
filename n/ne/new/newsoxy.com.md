@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616140511id_/http%3A//www.newsoxy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225052137id_/http%3A//www.newsoxy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NewsOXY.com
+# Privacy Policy
 
 NewsOXY has created this privacy policy in order to demonstrate our firm commitment to privacy.
 
@@ -15,6 +15,10 @@ Our site's registration form requires users to give us contact information (like
 This site contains links to other sites. NewsOXY.com is not responsible for the privacy practices or the content of such Web sites.
 
 Our online surveys ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). The customer's contact information is only used to contact the visitor when necessary. Users may opt-out of receiving mailings they have signed up for; see the choice/opt-out section below. Demographic and profile data is also collected on our sites. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
+
+### Newsletter
+
+When you opt-in to receive our official newsletter (http://www.newsoxy.com/newsletter), your email address is only used to receive the Newsletter. We do not distribute or sell your email address to other third-parties. Your email address will remain confidential. You have the option to receive our Newsletter on a daily, weekly, or per monthly basis. You can change these settings at anytime. In addition, we provide you with a link to unsubscribe from our Newsletter at anytime.
 
 ### Third Party Advertising
 
