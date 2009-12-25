@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the businessmonitor.com privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624072409id_/http%3A//store.businessmonitor.com/pages/%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businessmonitor.com privacy policy that was archived on 2009-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225074630id_/http%3A//store.businessmonitor.com/pages/%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -7,12 +7,17 @@
 
         <!-- Styles -->
         <link href="/styles/default/main.css" rel="stylesheet" type="text/css">
-		<link href="/styles/default/store.css" rel="stylesheet" type="text/css">
-        <link href="/styles/default/bmi_own.css" rel="stylesheet" type="text/css">
+	<link href="/styles/default/store.css" rel="stylesheet" type="text/css">
+	<link href="/styles/default/storestyles2.css" rel="stylesheet" type="text/css">
+	<link href="/styles/default/bmi_own.css" rel="stylesheet" type="text/css">
+
         <!-- Scripts -->
         <script type="text/javascript" src="/scripts/jquery.js"></script>
         <script type="text/javascript" src="/scripts/application.js"></script>
+	<script type="text/javascript" src="/scripts/md5.js"></script>
+		
 
+	
 
         <script type="text/javascript">
                 function show(id) {
@@ -43,13 +48,35 @@
 
 <body>
         <div id="pagecontainer">
-                 
+                
 
 
-<div id="mast"><a href="http://www.businessmonitor.com"></a></div>
+<script type="text/javascript">
+    function Clear() {
+	var keyword = document.getElementById('keyword');
+	if ( keyword.value == 'Search the Store' ){
+	    document.search.keyword.value='';
+	    document.search.keyword.style.color='black';
+	}
+    }
+</script>
 
-<div id="navbar">
-        
+<div id="mast">
+	<div id="logo"><a href="http://www.businessmonitor.com" style="float:left;"></a></div>
+	<div id="search">
+	<form name="search" id="search" method="get" action="/products/?action=search&amp;page=1">
+		<input type="hidden" name="action" id="action" value="search">
+		<input type="hidden" name="page" id="page" value="1">
+		<input type="text" name="keyword" id="keyword" value="Search the Store" maxlength="40" style="width: 190px; color: grey;" onclick="Clear();">
+		<a href="javascript:void(0)" onclick="Clear();document.search.submit();" style="color:white;font-size:12px">
+		    <img width="23" height="23" border="0" align="top" alt="Search" src="/images/default/eye.jpg">
+		</a>
+	</form></div>
+
+</div>
+
+<div id="navbar">		
+		
 	    
 
 		<ul>
@@ -390,6 +417,9 @@
 
 		<ul>
             <li>
+			<a href="/countries/albania/">Albania</a>
+			</li>
+            <li>
 			<a href="/countries/armenia/">Armenia</a>
 			</li>
             <li>
@@ -470,11 +500,11 @@
             <li>
 			<a href="/countries/moldova/">Moldova</a>
 			</li>
+		</ul>
+		<ul>
             <li>
 			<a href="/countries/mongolia/">Mongolia</a>
 			</li>
-		</ul>
-		<ul>
             <li>
 			<a href="/countries/montenegro/">Montenegro</a>
 			</li>
@@ -516,6 +546,9 @@
 			</li>
             <li>
 			<a href="/countries/tajikistan/">Tajikistan</a>
+			</li>
+            <li>
+			<a href="/countries/turkey/">Turkey</a>
 			</li>
             <li>
 			<a href="/countries/turkmenistan/">Turkmenistan</a>
@@ -636,9 +669,6 @@
 			</li>
             <li>
 			<a href="/countries/syria/">Syria</a>
-			</li>
-            <li>
-			<a href="/countries/turkey/">Turkey</a>
 			</li>
             <li>
 			<a href="/countries/united_arab_emirates/">United Arab Emirates</a>
@@ -774,12 +804,23 @@
 
 
 
+	
         
         <div id="extranav">
-                <a href="https://businessmonitor.silkroad.com" target="_blank">Careers</a>
-                <a href="/pages/?action=contact" style="border:none;">Contact Us</a>
+                <a href="http://www.businessmonitor.com/aboutus.html" target="_blank">About Us</a>
+		 <a href="https://businessmonitor.silkroad.com" style="border:none;" target="_blank">Careers</a>
         </div>
 </div>
+
+<script language="javascript" type="text/javascript">
+    window.onload = function() {
+	if ( keyword.value == 'Search the Store' ){
+	    document.search.keyword.style.color='grey';
+	} else {
+	    document.search.keyword.style.color='black';
+	}
+    }
+</script>
 
                 
 
@@ -801,14 +842,13 @@
 			<h2 style="background-color:#636563; width:100%; padding-top: 0px"><b>Business Monitor Store</b></h2>
 			<div style="padding: 8px;">
 				<ul>
-					<li><a href="/customers/?action=new&amp;show_extra=1&amp;url=/pages/?action=privacy"><b>Store Login &gt;&gt; </b></a></li>
+					<li><a href="/customers/?action=new&amp;show_extra=1&amp;url=%2Fpages%2F%3Faction%3Dprivacy"><b>Store Login &gt;&gt; </b></a></li>
 					<li><a href="/authentication/?action=forgot"><b>Forgotten Password</b></a></li>
-					<li><a href="/customers/?action=new&amp;url=/pages/?action=privacy"><b>Register</b></a></li>
+					<li><a href="/registration/?action=contact_details&amp;url=%2Fpages%2F%3Faction%3Dprivacy"><b>Register</b></a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
-
 
 	<div class="rm_BMO" style="width: 100%; margin-top: 0px; float: right;">
 		<h2><a href="http://www.businessmonitor.com/bmo" title="BMO"><b>Business Monitor Online</b></a></h2>
@@ -819,114 +859,116 @@
 			</ul>
 		</div>
 	</div>
-
+	
 	<p>&nbsp;</p>
 
 	
-
-<div id="right_navbar">
-	<ul>
-		<li>
-			<a href="/countries/africa/">  Africa</a>
-		</li>
-		<li>
-			<a href="/countries/asia/">  Asia</a>
-		</li>
-		<li>
-			<a href="/countries/caribbean/">  Caribbean</a>
-		</li>
-		<li>
-			<a href="/countries/europe/">  Europe</a>
-		</li>
-		<li>
-			<a href="/countries/latin_america/">  Latin America</a>
-		</li>
-		<li>
-			<a href="/countries/middle_east/">  Middle East</a>
-		</li>
-		<li>
-			<a href="/countries/north_america/">  North America</a>
-		</li>
-	</ul>
-		
-	<br>
+	<div id="right_navbar">
+		<ul>
+			<li>
+				<a href="/countries/africa/">  Africa</a>
+			</li>
+			<li>
+				<a href="/countries/asia/">  Asia</a>
+			</li>
+			<li>
+				<a href="/countries/caribbean/">  Caribbean</a>
+			</li>
+			<li>
+				<a href="/countries/europe/">  Europe</a>
+			</li>
+			<li>
+				<a href="/countries/latin_america/">  Latin America</a>
+			</li>
+			<li>
+				<a href="/countries/middle_east/">  Middle East</a>
+			</li>
+			<li>
+				<a href="/countries/north_america/">  North America</a>
+			</li>
+		</ul>
 			
-	<ul>
-		<li>
-			<a href="/industries/agribusiness/">Agribusiness</a>
-		</li>
-		<li>
-			<a href="/industries/autos/">Autos</a>
-		</li>
-		<li>
-			<a href="/industries/chemicals/">Chemicals</a>
-		</li>
-		<li>
-			<a href="/industries/banking/">Commercial Banking</a>
-		</li>
-		<li>
-			<a href="/industries/electro/">Consumer Electronics</a>
-		</li>
-		<li>
-			<a href="/industries/defence/">Defence &amp; Security</a>
-		</li>
-		<li>
-			<a href="/industries/food/">Food &amp; Drink</a>
-		</li>
-		<li>
-			<a href="/industries/freight/">Freight Transport</a>
-		</li>
-		<li>
-			<a href="/industries/it/">Information Technology</a>
-		</li>
-		<li>
-			<a href="/industries/infra/">Infrastructure</a>
-		</li>
-		<li>
-			<a href="/industries/insurance/">Insurance</a>
-		</li>
-		<li>
-			<a href="/industries/metals/">Metals</a>
-		</li>
-		<li>
-			<a href="/industries/mining/">Mining</a>
-		</li>
-		<li>
-			<a href="/industries/oilgas/">Oil &amp; Gas</a>
-		</li>
-		<li>
-			<a href="/industries/petro/">Petrochemicals</a>
-		</li>
-		<li>
-			<a href="/industries/pharma/">Pharmaceuticals &amp; Healthcare</a>
-		</li>
-		<li>
-			<a href="/industries/power/">Power</a>
-		</li>
-		<li>
-			<a href="/industries/realestate/">Real Estate</a>
-		</li>
-		<li>
-			<a href="/industries/retail/">Retail</a>
-		</li>
-		<li>
-			<a href="/industries/shipping/">Shipping</a>
-		</li>
-		<li>
-			<a href="/industries/telecommunications/">Telecommunications</a>
-		</li>
-		<li>
-			<a href="/industries/textiles/">Textiles &amp; Clothing</a>
-		</li>
-		<li>
-			<a href="/industries/tourism/">Tourism</a>
-		</li>
-		<li>
-			<a href="/industries/water/">Water</a>
-		</li>
-	</ul>		
-	<br>
-</div>
+		<br>
+				
+		<ul>
+			<li>
+				<a href="/industries/agribusiness/">Agribusiness</a>
+			</li>
+			<li>
+				<a href="/industries/autos/">Autos</a>
+			</li>
+			<li>
+				<a href="/industries/chemicals/">Chemicals</a>
+			</li>
+			<li>
+				<a href="/industries/banking/">Commercial Banking</a>
+			</li>
+			<li>
+				<a href="/industries/electro/">Consumer Electronics</a>
+			</li>
+			<li>
+				<a href="/industries/defence/">Defence &amp; Security</a>
+			</li>
+			<li>
+				<a href="/industries/food/">Food &amp; Drink</a>
+			</li>
+			<li>
+				<a href="/industries/freight/">Freight Transport</a>
+			</li>
+			<li>
+				<a href="/industries/it/">Information Technology</a>
+			</li>
+			<li>
+				<a href="/industries/infra/">Infrastructure</a>
+			</li>
+			<li>
+				<a href="/industries/insurance/">Insurance</a>
+			</li>
+			<li>
+				<a href="/industries/metals/">Metals</a>
+			</li>
+			<li>
+				<a href="/industries/mining/">Mining</a>
+			</li>
+			<li>
+				<a href="/industries/oilgas/">Oil &amp; Gas</a>
+			</li>
+			<li>
+				<a href="/industries/petro/">Petrochemicals</a>
+			</li>
+			<li>
+				<a href="/industries/pharma/">Pharmaceuticals &amp; Healthcare</a>
+			</li>
+			<li>
+				<a href="/industries/power/">Power</a>
+			</li>
+			<li>
+				<a href="/industries/realestate/">Real Estate</a>
+			</li>
+			<li>
+				<a href="/industries/retail/">Retail</a>
+			</li>
+			<li>
+				<a href="/industries/shipping/">Shipping</a>
+			</li>
+			<li>
+				<a href="/industries/telecommunications/">Telecommunications</a>
+			</li>
+			<li>
+				<a href="/industries/textiles/">Textiles &amp; Clothing</a>
+			</li>
+			<li>
+				<a href="/industries/tourism/">Tourism</a>
+			</li>
+			<li>
+				<a href="/industries/water/">Water</a>
+			</li>
+		</ul>		
+		<br>
+	</div>
+
+
+
 
 	<div class="rm_BMO" style="width: 100%; margin-top: 0px; float: right;background-color:#993366">
 		<h2 style="background-color:#993366;"><b>BLOG: Risk Watchdog</b></h2>
@@ -999,7 +1041,7 @@
 
                 <div class="spacer"></div>
 <div class="divider_hm_solid" style="margin-top:10px">
-	<a href="/pages/?action=about">About Us</a> | 
+	<a href="http://www.businessmonitor.com/aboutus.html">About Us</a> | 
 	<a href="/pages/?action=contact">Contact us</a> | 
 	<a href="https://businessmonitor.silkroad.com" target="_blank">Careers</a> | 
 	<a href="/pages/?action=privacy">Privacy Policy</a> | 
@@ -1017,6 +1059,7 @@
 </p>
         </div>
 
+		
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1027,8 +1070,10 @@ var pageTracker = _gat._getTracker("UA-1062955-46");
 pageTracker._setDomainName(".businessmonitor.com");
 pageTracker._setAllowHash(false);
 pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
+pageTracker._trackPageview();	
 </script>
+		
+
 
 
 
