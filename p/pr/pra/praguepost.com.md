@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120508id_/http%3A//www.praguepost.com/services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226150841id_/http%3A//www.praguepost.com/services/privacy-policy.html) for the most accurate reproduction.*
 
 # The Prague Post - Services - Privacy Policy
 
@@ -23,11 +23,9 @@ Information we collect is used only to enhance our services, to perform research
 Personal information you provide is used only according to this Privacy Policy. You can decide not to provide the information, but we may not be able to provide our services.   
 This information may be processed by a trusted third party, but we do not disclose this information unless it is required or enforced by law. 
 
-18°C Prague, Light thunderstorm rain
+3°C Prague, Clear skies
 
 Partner services
-
-[](http://www.praguepost.com/e-shop/ "TPP")
 
 ## Reservations
 
@@ -37,6 +35,8 @@ Book a room in one of the 600 hotels in the Czech Republic.
 
 [Go](https://web.archive.org/reservations/hotels.html "Reservations - Hotels")
 
+[](http://www.praguepost.com/e-shop/#print-edition "TPP")
+
 ## Business Listings
 
 Companies
@@ -44,3 +44,5 @@ Companies
 Directory of more than 3,000 companies and organizations on the Czech market.
 
 [Go](http://bol.praguepost.com/english/ "Business Listings - Companies")
+
+[](https://web.archive.org/services/employment-week-2010.html)
