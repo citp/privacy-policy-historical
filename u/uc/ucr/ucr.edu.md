@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001255id_/http%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226072837id_/http%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
 
 # UC Riverside: Privacy Policy
 
@@ -37,5 +37,3 @@ Questions regarding users' rights to review, modify or delete their previously p
 ### Main Campus Site
 
 The main campus site (i.e. www.ucr.edu) in addition to general logs, also collects usage information the links on its pages. This information is only used in an aggregate form to determine how resources are used. 
-
-* * *
