@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dressupchallenge.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416182800id_/http%3A//www.lifetimetv.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupchallenge.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226062958id_/http%3A//www.mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myLifetime.com
 
-_Updated on February 3, 2009_
+_Updated on September 23, 2009_
 
  ** _Our Commitment to Privacy_**
 
-Lifetime Entertainment Services, and its subsidiaries and affiliated entities (collectively, "Lifetime", "we", or "us"), realize the importance of feeling safe online and are committed to respecting and protecting your privacy. This Lifetime Privacy Policy (“Privacy Policy”) discloses what information we gather on the network of Web sites that we own and/or operate (collectively, the "Lifetime Sites" or our "Sites"), as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The Lifetime Sites include [www.mylifetime.com](http://www.mylifetime.com/), [www.lmn.tv](http://www.lmn.tv/), [www.mothersclick.com](http://www.mothersclick.com/), [www.dressupchallenge.com](http://www.dressupchallenge.com/), [www.momblognetwork.com](http://www.momblognetwork.com/), and [www.roiworld.com](http://www.roiworld.com/). Except where otherwise expressly indicated herein or on a Lifetime Site, this Privacy Policy applies only to information collected on the Lifetime Sites and does not apply to information collected outside of the Lifetime Sites. 
+Lifetime Entertainment Services, LLC, and its subsidiaries and affiliated entities (collectively, "Lifetime", "we", or "us"), realize the importance of feeling safe online and are committed to respecting and protecting your privacy. This Lifetime Privacy Policy (“Privacy Policy”) discloses what information we gather on the network of Web sites that we own and/or operate (collectively, the "Lifetime Sites" or our "Sites"), as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The Lifetime Sites include [www.mylifetime.com](http://www.mylifetime.com/), [www.lmn.tv](http://www.lmn.tv/), [www.mothersclick.com](http://www.mothersclick.com/), [www.dressupchallenge.com](http://www.dressupchallenge.com/), [www.momblognetwork.com](http://www.momblognetwork.com/), [www.lifetimemoms.com](http://www.lifetimemoms.com/), and [www.roiworld.com](http://www.roiworld.com/). Except where otherwise expressly indicated herein or on a Lifetime Site, this Privacy Policy applies only to information collected on the Lifetime Sites and does not apply to information collected outside of the Lifetime Sites. 
 
 Before submitting information to any Lifetime Site, please read the following to learn more about our Privacy Policy. By visiting the Lifetime Sites, submitting information or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and consent to having your data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use the Lifetime Sites. 
 
@@ -172,9 +172,9 @@ The Lifetime Sites are hosted in the United States. The Lifetime Sites are gover
 
 This Privacy Policy does not create rights enforceable by third parties. 
 
-**Lifetime Entertainment Services**   
-309 West 49th Street   
-New York, NY 10019   
+**Lifetime Entertainment Services, LLC**   
+111 8th Avenue   
+New York, NY 10011   
 [www.mylifetime.com](http://www.mylifetime.com/)   
 Phone: (212) 424-7122   
 E-mail: viewerrelations@lifetimetv.com 
