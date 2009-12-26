@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501213950id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226235220id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
-# Start Local - Your Local Australian Business Directory: Privacy
+# Privacy: Start Local - Your Local Australian Business Directory
 
-YOU ARE HERE: [Home](http://www.startlocal.com.au/) > Privacy
+You are here: [Home](http://www.startlocal.com.au/) > Privacy Policy
 
 ## Privacy
 
@@ -27,9 +27,7 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 **Part II.   Information Usage.   
 **The information collected by Start Local Pty Ltd will be used for providing users with information.  Users who provide information may receive list products, services, email announcements or advertisements. 
 
-  1. We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours. 
-
-
+We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours. 
 
 If our policy on information collection or uses changes, we will update this notice. We have the right to change this notice at any time. 
 
