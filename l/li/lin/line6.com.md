@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162948id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226191458id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
@@ -9,8 +9,8 @@ PRIVACY POLICY**
 **OVERVIEW**  
 The Line 6 web pages (the " **Website** ") are owned and operated by Line 6, Inc. (hereinafter " **Line 6** "). The following privacy statement describes the practice of Line 6 with respect to the collection, maintenance and disclosure of personally identifiable information (" **Personal Information** ") and non-personally identifiable information you may voluntarily submit to Line 6 in connection with the Website. As part of the normal operation of the Website, we collect and, in some cases, disclose Personal Information about you. This privacy policy describes the Personal Information we collect about you and what may happen to that Personal Information (the " **Privacy Policy** ").
 
-**COMPLIANCE WITH LAWS**  
-It is the policy of Line 6 to adhere to all applicable laws and principles affecting the collection, processing and maintenance of Personal Information. 
+**COMPLIANCE WITH LAWS AND SAFE HARBOR PRINCIPLES**  
+It is the policy of Line 6 to adhere to all applicable laws and principles affecting the collection, processing and maintenance of Personal Information. Line 6 adheres to the Safe Harbor Privacy Principles, issued by the US Department of Commerce and approved by the European Commission, when transferring Personal Information from within the European Union to the US. For more information about the Safe Harbor program, please visit the U.S. Department of commerce’s website at <http://www.export.gov/safeharbor/>.
 
 **USE OF THIS WEBSITE BY CHILDREN**  
 The Website is not intended for use by children under the age of thirteen (13). In order to access the Website, you represent that you are thirteen (13) years of age or older. If you are under thirteen (13) years of age, you are not authorized to use the Website and should immediately discontinue use of the Website.
@@ -83,4 +83,4 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 [](http://www.etrust.org/cert/875564.html)
 
 COPYRIGHT © 2009 LINE 6, INC. ALL RIGHTS RESERVED.  
-LAST DATE OF MODIFICATION: May 29, 2009. 
+LAST DATE OF MODIFICATION: September 18, 2009. 
