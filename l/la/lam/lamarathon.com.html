@@ -1,438 +1,315 @@
-<!--The following is the downloaded HTML source of the lamarathon.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619050005id_/http%3A//www.lamarathon.com/page.php%3Fid%3D52) for the most accurate reproduction.-->
-
-<html><head>
-
-<title>Official Site of the Los Angeles Marathon</title>
-
-<meta name="description" content="Welcome to the Los Angeles Marathon Website">
-
-<meta name="keywords" content="Los Angeles Marathon, LA Marathon">
-
-<link rel="stylesheet" type="text/css" href="main.css">
-
-<style>
-
-#container {
-
-	width: 100%;
-
-	min-width: 1317px;
-
-	background: url('images/lam_backgrounds_lam.jpg');
-
-	background-repeat: no-repeat;
-
-}
-
-
-
-</style>
-
-<!--[if lt IE 7]>
-
-<script language="JavaScript">
-
-function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
-
-{
-
-   var arVersion = navigator.appVersion.split("MSIE")
-
-   var version = parseFloat(arVersion[1])
-
-   if ((version >= 5.5) && (document.body.filters)) 
-
-   {
-
-      for(var i=0; i<document.images.length; i++)
-
-      {
-
-         var img = document.images[i]
-
-         var imgName = img.src.toUpperCase()
-
-         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
-
-         {
-
-            var imgID = (img.id) ? "id='" + img.id + "' " : ""
-
-            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
-
-            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
-
-            var imgStyle = "display:inline-block;" + img.style.cssText 
-
-            if (img.align == "left") imgStyle = "float:left;" + imgStyle
-
-            if (img.align == "right") imgStyle = "float:right;" + imgStyle
-
-            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
-
-            var strNewHTML = "<span " + imgID + imgClass + imgTitle
-
-            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
-
-            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
-
-            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
-
-            img.outerHTML = strNewHTML
-
-            i = i-1
-
-         }
-
-      }
-
-   }    
-
-}
-
-window.attachEvent("onload", correctPNG);
-
-</script>
-
-<![endif]--> 
-
-<script> 
-
-function showLayer( whichLayer) {
-
-  var elem, vis;
-
-  if( document.getElementById ) // this is the way the standards work
-
-    elem = document.getElementById( whichLayer );
-
-  else if( document.all ) // this is the way old msie versions work
-
-      elem = document.all[whichLayer];
-
-  else if( document.layers ) // this is the way nn4 works
-
-    elem = document.layers[whichLayer];
-
-  vis = elem.style;
-
-  vis.display = 'block';
-
-}
-
-function hideLayer( whichLayer) {
-
-  var elem, vis;
-
-  if( document.getElementById ) // this is the way the standards work
-
-    elem = document.getElementById( whichLayer );
-
-  else if( document.all ) // this is the way old msie versions work
-
-      elem = document.all[whichLayer];
-
-  else if( document.layers ) // this is the way nn4 works
-
-    elem = document.layers[whichLayer];
-
-  vis = elem.style;
-
-  vis.display = 'none';
-
-}
-
-function toggleLayer( whichLayer )
-
-{
-
-  var elem, vis;
-
-  if( document.getElementById ) // this is the way the standards work
-
-    elem = document.getElementById( whichLayer );
-
-  else if( document.all ) // this is the way old msie versions work
-
-      elem = document.all[whichLayer];
-
-  else if( document.layers ) // this is the way nn4 works
-
-    elem = document.layers[whichLayer];
-
-  vis = elem.style;
-
-  // if the style.display value is blank we try to figure it out here
-
-  if(vis.display==''&&elem.offsetWidth!=undefined&&elem.offsetHeight!=undefined)
-
-    vis.display = (elem.offsetWidth!=0&&elem.offsetHeight!=0)?'block':'none';
-
-  vis.display = (vis.display==''||vis.display=='block')?'none':'block';
-
-}
-
-
-
-function popWin(url, w, h) {
-
-	w = window.open(url, "w", "location=1,status=1,scrollbars=1,width=" + w + ", height=" + h);
-
-	if (window.focus) {
-
-		w.focus();
-
+<!--The following is the downloaded HTML source of the lamarathon.com privacy policy that was archived on 2009-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226183216id_/http%3A//www.lamarathon.com/about-us/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="distribution" content="global">
+<meta name="language" content="en">
+
+<title>  Privacy Policy : LA Marathon</title>
+<link rel="Shortcut Icon" href="http://www.lamarathon.com/wp-content/themes/marathon_10/images/favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" href="http://www.lamarathon.com/wp-content/themes/marathon_10/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="LA Marathon RSS Feed" href="http://www.lamarathon.com/feed/">
+<link rel="alternate" type="application/atom+xml" title="LA Marathon Atom Feed" href="http://www.lamarathon.com/feed/atom/">
+<link rel="pingback" href="http://www.lamarathon.com/xmlrpc.php">
+
+<link rel="alternate" type="application/rss+xml" title="LA Marathon » Privacy Policy Comments Feed" href="http://www.lamarathon.com/about-us/privacy-policy/feed/">
+<script type="text/javascript" src="http://www.lamarathon.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.lamarathon.com/shop/?shopp_lookup=settings.js&amp;ver=2.9"></script>
+<script type="text/javascript" src="http://www.lamarathon.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="index" title="LA Marathon" href="http://www.lamarathon.com">
+<link rel="up" title="About Us" href="http://www.lamarathon.com/about-us/">
+<meta name="generator" content="WordPress 2.9">
+<link rel="canonical" href="http://www.lamarathon.com/about-us/privacy-policy/">
+<meta name="wassup-version" content="1.7.2.1">
+<script type="text/javascript">
+//<![CDATA[
+	var screen_res = "";
+	function writeCookie(name,value,hours) {
+		var the_cookie = name+"="+value+"; expires=";
+		var expires = "";
+		hours=hours+0; //convert to number
+		if (hours > 0) { //0==expires on browser close
+			var date = new Date();
+			date.setTime(date.getTime()+(hours*60*60*1000));
+			expires = expires+date.toGMTString();
+		} 
+		document.cookie = the_cookie+expires+"; path=/; domain=";
 	}
-
-	return false;
-
-}
-
+	screen_res = window.screen.width+"x"+window.screen.height;
+	writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+//]]>
 </script>
+	<link rel="alternate" type="application/rss+xml" title="LA Marathon New Products RSS Feed" href="http://www.lamarathon.com/shop/feed/">
+	<link rel="stylesheet" href="http://www.lamarathon.com/shop/?shopp_lookup=catalog.css&amp;ver=1.0.6" type="text/css">
+		<link rel="stylesheet" href="http://www.lamarathon.com/wp-content/plugins/shopp/templates/shopp.css?ver=1.0.6" type="text/css">
+		<link rel="stylesheet" href="http://www.lamarathon.com/wp-content/plugins/shopp/core/ui/styles/thickbox.css?ver=1.0.6" type="text/css">
+		
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+sfHover = function() {
+	if (!document.getElementsByTagName) return false;
+	var sfEls = document.getElementById("nav").getElementsByTagName("li");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+//--><!]]></script>
 
 </head>
 
 <body>
 
-<div id="container">
+<div id="wrap">
 
- <div id="leftcolumn"><a href="page.php"><img src="images/trans.gif" style="width: 208px; height: 24px; position: absolute; left: 40px; top: 118px; border: 0px;"></a>
-
-  <div id="welcome">
-
-   <span class="white">Welcome<br>
-
-   to the Official Site of the LA Marathon </span>
-
-  </div>
-
-  &nbsp;
-
- </div>
-
- <div id="racedaylinks">
-
-
-
- </div>
-
- <div id="centercolumn">
-
-   <!-- END HEADER -->  <div id="contentheader">&nbsp;
-
-   <div id="topnav"> 
-
+<div id="top">
+	
+	<div class="topleft">
+		<a href="event/volunteer/">Volunteer</a> | 
+		<a href="about-us/press-room/">Press Room</a> | 
+		<a href="event/faqs/">FAQ's</a> | 
+		<a href="event/5k-run/">NPN LA Marathon 5k</a> |
+        <a href="http://www.usacg.us/lamarathon/">Chinese</a> |
+        <a href="http://www.lamarathon.com/images/2010_Event_Fact_Sheet_Japanese.pdf" target="_blank">Japanese</a> |
+		<a href="http://www.lamarathon.com/wp-content/uploads/2009/10/Korean-Fact-Sheet-2010.pdf" target="_blank">Korean</a> |
+        <a href="http://www.lamarathon.com/wp-content/uploads/2009/10/2010_Event_Fact-Sheet_Spanish.pdf" target="_blank">Spanish</a>
+	</div>
     
-    <a href="page.php?id=30">5K RUN</a>
+	<div class="topright">
+		<a href="http://www.active.com/framed/event_detail.cfm?CHECKSSO=0&amp;EVENT_ID=1764637" target="_blank"><img src="http://www.lamarathon.com/wp-content/themes/marathon_10/images/register_top.gif" alt="Register Now" width="192" height="27"></a>
+	</div>
+	
+</div>
 
-    <a href="page.php?id=34">ACURA LA BIKE TOUR</a>
+<div id="header">
 
-    <a href="page.php?id=53">ABOUT US</a>
-
-    <a href="page.php?id=19">VOLUNTEER</a>
-
-    <a href="http://lamarathonstore.com" target="_blank">STORE</a>
-
-    <a href="page.php?id=65">PRESS ROOM</a>
-
-    <a href="page.php?id=57">FAQs</a>
-
-
-   </div> 
-
-   <div id="date">May 25 2009/<b>7:20am</b></div> 
-
-   <div id="rightnav">
-
-    <a href="page.php?id=26"><img src="images/btn_community-off.gif" onmouseover="this.src='images/btn_community-on.gif';" onmouseout="this.src='images/btn_community-off.gif';" style="margin-right: 1px; border: 0px;"></a><a href="http://lamarathonnews.blogspot.com/" target="_blank"><img src="images/btn_officialnews-off.gif" onmouseover="this.src='images/btn_officialnews-on.gif';" onmouseout="this.src='images/btn_officialnews-off.gif';" style="margin-right: 1px; border: 0px;"></a><a href="http://www.active.com/page/Event_Details.htm?event_id=1572317&amp;assetid=72425596-dde8-4aec-b3c1-c289eccd9040" target="_blank"><img src="images/btn_register-off.gif" onmouseover="this.src='images/btn_register-on.gif';" onmouseout="this.src='images/btn_register-off.gif';" style="margin-right: 1px; border: 0px;"></a> 
-   </div>
-
-  </div> 
-
-  <div id="contentleft">
-
-
-   <div id="mainnav"> 
-
-    <a href="page.php?id=2"><img src="images/btn_train-off.gif" onmouseover="this.src='images/btn_train-on.gif';" onmouseout="this.src='images/btn_train-off.gif';" style="border: 0px;"></a><br>
-<a href="page.php?id=8"><img src="images/btn_travel-off.gif" onmouseover="this.src='images/btn_travel-on.gif';" onmouseout="this.src='images/btn_travel-off.gif';" style="border: 0px;"></a><br>
-<a href="page.php?id=14"><img src="images/btn_race-off.gif" onmouseover="this.src='images/btn_race-on.gif';" onmouseout="this.src='images/btn_race-off.gif';" style="border: 0px;"></a><br>
-<a href="page.php?id=22"><img src="images/btn_remember-off.gif" onmouseover="this.src='images/btn_remember-on.gif';" onmouseout="this.src='images/btn_remember-off.gif';" style="border: 0px;"></a><br>
-
-   </div> 
-
-   <div id="subnav"> 
-
-        <img src="images/navseperator.gif" style="width: 152px; height: 5px;">
- <a href="page.php?id=53">About Us</a>
-<img src="images/navseperator.gif" style="width: 152px; height: 5px;">
-<a href="page.php?id=51">Contact Us</a>
-<img src="images/navseperator.gif" style="width: 152px; height: 5px;">
-<a href="page.php?id=52" class="on">Privacy Policy</a>
-<img src="images/navseperator.gif" style="width: 152px; height: 5px;">
-<a href="page.php?id=57">FAQs</a>
-<img src="images/navseperator.gif" style="width: 152px; height: 5px;">
-<a href="page.php?id=65">Press Room</a>
-<img src="images/navseperator.gif" style="width: 152px; height: 5px;">
-
-   </div> 
-
-   &nbsp;
-
-  </div>
-
-  <div id="contentright">
-
-   <div id="header">Privacy Policy</div>
-
-  <div id="content"> 
-
-   <div id="copy"> 
-
+	<div class="headerleft">
+		<a href="http://www.lamarathon.com/"><img src="http://www.lamarathon.com/wp-content/themes/marathon_10/images/logo.gif" alt="LA Marathon"></a>
+	</div>
     
-    <b>What information do we collect?</b><br>
-We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.<br>
-<br>
-<b>What do we use your information for?</b><br>
+	<div class="headerright">
+	
+		<img src="http://www.lamarathon.com/wp-content/themes/marathon_10/images/25-yrs2.gif" alt="LA Marathon">
+		
+	</div>
+
+</div>
+
+<div id="navbar">
+
+	<ul id="nav">
+		
+		<li><a href="http://www.lamarathon.com/">Home</a></li>
+		<li class="page_item page-item-43"><a href="http://www.lamarathon.com/event/" title="Event">Event</a>
+<ul>
+	<li class="page_item page-item-44"><a href="http://www.lamarathon.com/event/course-video/" title="Course Video">Course Video</a></li>
+	<li class="page_item page-item-857"><a href="http://www.lamarathon.com/event/course-map/" title="Course Map">Course Map</a></li>
+	<li class="page_item page-item-1050"><a href="http://www.lamarathon.com/event/course-video-2/" title="Course Video">Course Video</a></li>
+	<li class="page_item page-item-18"><a href="http://www.lamarathon.com/event/course-support/" title="Course Support">Course Support</a></li>
+	<li class="page_item page-item-23"><a href="http://www.lamarathon.com/event/volunteer/" title="Volunteer">Volunteer</a></li>
+	<li class="page_item page-item-25"><a href="http://www.lamarathon.com/event/course-entertainment/" title="Course Entertainment">Course Entertainment</a></li>
+	<li class="page_item page-item-27"><a href="http://www.lamarathon.com/event/spectator-guide/" title="Spectator Guide">Spectator Guide</a></li>
+	<li class="page_item page-item-29"><a href="http://www.lamarathon.com/event/the-expo/" title="The Expo">The Expo</a>
+	<ul>
+		<li class="page_item page-item-425"><a href="http://www.lamarathon.com/event/the-expo/exhibitor-info/" title="Exhibitor Info">Exhibitor Info</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-31"><a href="http://www.lamarathon.com/event/run-green/" title="Run Green">Run Green</a></li>
+	<li class="page_item page-item-34"><a href="http://www.lamarathon.com/event/finish-line-festival/" title="Finish Line Beach Party">Finish Line Beach Party</a></li>
+	<li class="page_item page-item-36"><a href="http://www.lamarathon.com/event/media/" title="Media">Media</a></li>
+	<li class="page_item page-item-38"><a href="http://www.lamarathon.com/event/5k-run/" title="NPN LA Marathon 5K Run">NPN LA Marathon 5K Run</a></li>
+	<li class="page_item page-item-46"><a href="http://www.lamarathon.com/event/faqs/" title="FAQ’s">FAQ’s</a></li>
+</ul>
+</li>
+<li class="page_item page-item-55"><a href="http://www.lamarathon.com/runner-info/" title="Runner Info">Runner Info</a>
+<ul>
+	<li class="page_item page-item-63"><a href="http://www.lamarathon.com/runner-info/register/" title="Register">Register</a></li>
+	<li class="page_item page-item-1153"><a href="http://www.lamarathon.com/runner-info/legacy-runners/" title="Legacy Runners">Legacy Runners</a></li>
+	<li class="page_item page-item-77"><a href="http://www.lamarathon.com/runner-info/travel/" title="Hotels">Hotels</a></li>
+	<li class="page_item page-item-80"><a href="http://www.lamarathon.com/runner-info/parking/" title="Parking &amp; Shuttles">Parking &amp; Shuttles</a></li>
+	<li class="page_item page-item-82"><a href="http://www.lamarathon.com/runner-info/rideshare/" title="Rideshare">Rideshare</a></li>
+	<li class="page_item page-item-85"><a href="http://www.lamarathon.com/runner-info/race-day-tracking/" title="Race Day Tracking">Race Day Tracking</a></li>
+	<li class="page_item page-item-87"><a href="http://www.lamarathon.com/runner-info/thingstodoinla/" title="Things to do in LA">Things to do in LA</a></li>
+	<li class="page_item page-item-90"><a href="http://www.lamarathon.com/runner-info/results/" title="Results">Results</a></li>
+	<li class="page_item page-item-92"><a href="http://www.lamarathon.com/runner-info/race-photos/" title="Race Photos">Race Photos</a></li>
+</ul>
+</li>
+<li class="page_item page-item-94"><a href="http://www.lamarathon.com/training-info/" title="Training Info">Training Info</a>
+<ul>
+	<li class="page_item page-item-99"><a href="http://www.lamarathon.com/training-info/training-plans/" title="Training Advice">Training Advice</a></li>
+	<li class="page_item page-item-102"><a href="http://www.lamarathon.com/training-info/nutrition/" title="Nutrition">Nutrition</a></li>
+	<li class="page_item page-item-104"><a href="http://www.lamarathon.com/training-info/training-videos/" title="Training Videos">Training Videos</a></li>
+	<li class="page_item page-item-106"><a href="http://www.lamarathon.com/training-info/imix/" title="iMixes">iMixes</a></li>
+	<li class="page_item page-item-110"><a href="http://www.lamarathon.com/training-info/win-forever/" title="Win Forever">Win Forever</a></li>
+	<li class="page_item page-item-112"><a href="http://www.lamarathon.com/training-info/pace-chart/" title="Pace Chart">Pace Chart</a></li>
+</ul>
+</li>
+<li class="page_item page-item-114"><a href="http://www.lamarathon.com/community/" title="Community">Community</a>
+<ul>
+	<li class="page_item page-item-117"><a href="http://www.lamarathon.com/community/message-board/" title="Message Board">Message Board</a></li>
+	<li class="page_item page-item-340"><a href="http://www.lamarathon.com/community/blog/" title="Blog">Blog</a></li>
+	<li class="page_item page-item-665"><a href="http://www.lamarathon.com/community/social-media/" title="Social Media">Social Media</a></li>
+</ul>
+</li>
+<li class="page_item page-item-347"><a href="http://www.lamarathon.com/charities/" title="Charities">Charities</a></li>
+<li class="page_item page-item-349"><a href="http://www.lamarathon.com/partners/" title="Partners">Partners</a></li>
+<li class="page_item page-item-352 current_page_ancestor current_page_parent"><a href="http://www.lamarathon.com/about-us/" title="About Us">About Us</a>
+<ul>
+	<li class="page_item page-item-391"><a href="http://www.lamarathon.com/about-us/about-us-page/" title="About Us">About Us</a></li>
+	<li class="page_item page-item-394"><a href="http://www.lamarathon.com/about-us/press-room/" title="Press Room">Press Room</a></li>
+	<li class="page_item page-item-396"><a href="http://www.lamarathon.com/about-us/contact-us/" title="Contact Us">Contact Us</a></li>
+	<li class="page_item page-item-667 current_page_item"><a href="http://www.lamarathon.com/about-us/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+</ul>
+</li>
+<li class="page_item page-item-354"><a href="http://www.lamarathon.com/roadrunners/" title="Roadrunners">Roadrunners</a>
+<ul>
+	<li class="page_item page-item-401"><a href="http://www.lamarathon.com/roadrunners/coaching-staff/" title="Coaching Staff">Coaching Staff</a></li>
+	<li class="page_item page-item-1175"><a href="http://www.lamarathon.com/roadrunners/rideshare/" title="Rideshare">Rideshare</a></li>
+	<li class="page_item page-item-403"><a href="http://www.lamarathon.com/roadrunners/maps-directions/" title="Maps &amp; Directions">Maps &amp; Directions</a></li>
+	<li class="page_item page-item-405"><a href="http://www.lamarathon.com/roadrunners/registration/" title="Registration">Registration</a></li>
+	<li class="page_item page-item-407"><a href="http://www.lamarathon.com/roadrunners/contact-us/" title="Contact Us">Contact Us</a></li>
+	<li class="page_item page-item-409"><a href="http://www.lamarathon.com/roadrunners/pace-group/" title="Pace Group Info">Pace Group Info</a></li>
+	<li class="page_item page-item-411"><a href="http://www.lamarathon.com/roadrunners/upcoming-events/" title="Upcoming Events">Upcoming Events</a></li>
+	<li class="page_item page-item-413"><a href="http://www.lamarathon.com/roadrunners/photo-gallery/" title="Photo Gallery">Photo Gallery</a></li>
+	<li class="page_item page-item-415"><a href="http://www.lamarathon.com/roadrunners/training-tips/" title="Training Tips &amp; Videos">Training Tips &amp; Videos</a></li>
+	<li class="page_item page-item-417"><a href="http://www.lamarathon.com/roadrunners/training-guide/" title="Training Guide">Training Guide</a></li>
+</ul>
+</li>
+<li class="page_item page-item-1113"><a href="http://www.lamarathon.com/shop/" title="Shop">Shop</a>
+<ul>
+	<li class="page_item page-item-1114"><a href="http://www.lamarathon.com/shop/cart/" title="Cart">Cart</a></li>
+	<li class="page_item page-item-1115"><a href="http://www.lamarathon.com/shop/cart/" title="Checkout">Checkout</a></li>
+	<li class="page_item page-item-1116"><a href="http://www.lamarathon.com/shop/account/" title="Your Orders">Your Orders</a></li>
+</ul>
+</li>
+
+    </ul>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div id="content">
+
+<!-- begin sidebar -->
+
+<div id="sidebarpage">
+
+<img src="http://www.lamarathon.com/wp-content/themes/marathon_10/images/spacer.gif" width="193" height="127"><br>
+
+<h2>In this Section:</h2>
+<img src="http://www.lamarathon.com/wp-content/themes/marathon_10/images/sidebarorangebar.gif" width="193" height="7">
+<ul>
+  <li class="page_item page-item-391"><a href="http://www.lamarathon.com/about-us/about-us-page/" title="About Us">About Us</a></li>
+<li class="page_item page-item-394"><a href="http://www.lamarathon.com/about-us/press-room/" title="Press Room">Press Room</a></li>
+<li class="page_item page-item-396"><a href="http://www.lamarathon.com/about-us/contact-us/" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-667 current_page_item"><a href="http://www.lamarathon.com/about-us/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+</ul>
+			
+<img src="http://www.lamarathon.com/wp-content/themes/marathon_10/images/sidebarorangebar.gif" width="193" height="7">
+</div>
+
+<!-- end sidebar -->
+	<div id="headerEvent">
+        
+    	<ul id="event">      
+        	<!-- IMAGE?
+             -->	
+     	</ul>
+            
+	</div>
+		
+	<div id="contentmain">
+    
+			<!-- PAGE TITLE -->
+        <div class="title">
+
+        	<h1>About Us/</h1>
+        	<h2>Privacy Policy</h2>
+
+		</div>
+		
+        <div class="postarea">
+			
+                        
+            <p><strong>What information do we collect?</strong><br>
+We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.</p>
+<p><strong>What do we use your information for?</strong><br>
 Any of the information we collect from you may be used in one of the following ways:<br>
 To send periodic emails<br>
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br>
-<br>
-<b>Do we use cookies?</b><br>
-We use cookies to customize Web page content on visitors’ browser type or other information that the visitor sends.<br>
-<br>
-<b>Do we disclose any information to outside parties?</b><br>
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br>
-<br>
-<b>California Online Privacy Protection Act Compliance</b><br>
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br>
-<br>
-<b>Childrens Online Privacy Protection Act Compliance</b><br>
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br>
-<br>
-<b>Online Privacy Policy Only</b><br>
-This online privacy policy applies only to information collected through our website and not to information collected offline.<br>
-<br>
-<b>Your Consent</b><br>
-By using our site, you consent to our privacy policy.<br>
-<br>
-<b>Changes to our Privacy Policy</b><br>
-If we decide to change our privacy policy, we will post those changes on this page.
-   </div> 
-
-  </div> 
-
-  </div>
-
-  <div style="clear: both;"></div>
-
-
- </div>
-
- <div id="rightcolumn">
-
-  <div id="rightcontent">
-
-   <div id="languages">
-
-    <a href="pdfs/Event Fact Sheet 2009-LA Marathon Spanish.pdf" target="_blank">ESPANOL</a>
-
-    <a href="pdfs/Event_Fact_Sheet_2009-LA_Marathon-5_german.pdf" target="_blank">DEUTSCHE</a>
-
-    <a href="pdfs/Event_Fact_Sheet_2009-LA_Marathon-5_(Korean).pdf" target="_blank"><img src="images/trans.gif" style="position: absolute; left: 150px; top: 0px; width: 41px; height: 14px; border: 0px;"></a>
-
-    <a href="pdfs/Event_Fact_Sheet_2009-LA_Marathon-5_(Japanese).pdf" target="_blank"><img src="images/trans.gif" style="position: absolute; left: 213px; top: 0px; width: 37px; height: 13px; border: 0px;"></a>
-
-   </div>
-
-   <div id="days">
-
-    <!--0-->Thank<br>You LA
-
-   </div>
-
-   <div id="news">
-
-    <span class="white">Breaking News:</span><br>
-
-    <br>
-
-    <a href="http://www.flickr.com/photos/lamarathon/sets/72157618827824582/show/" target="_blank">Race Day Slide Show</a><br>
-
-    <br>
-
-
-    <a href="http://www.marathonfoto.com/start_cobrand.cfm?RaceOID=13542009S1&amp;Language=en&amp;BFI=5157pv8z7w&amp;Frames=true&amp;Flash=true&amp;FlashVersion=9&amp;Height=800&amp;Width=1280&amp;Index2Home=true" target="_blank">Click here for Race Day photos</a><br>
-
-    <br>
-
-
-    <a href="http://lamarathon.com/page.php?id=25" target="_blank">Results now posted</a><br>
-
-    <br>
-
-
-    <a href="" target="_blank"></a><br>
-
-    <br>
-
-
-    <a href="" target="_blank"></a><br>
-
-    <br>
-
-
-    <a href="" target="_blank"></a><br>
-
-    <br>
-
-
-   </div>
-  </div>
-
- </div>
-
- <div style="clear: both;"></div>
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
+<p><strong>Do we use cookies?</strong><br>
+We use cookies to customize Web page content on visitors’ browser type or other information that the visitor sends.</p>
+<p><strong>Do we disclose any information to outside parties?</strong><br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>California Online Privacy Protection Act Compliance</strong><br>
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+<p><strong>Childrens Online Privacy Protection Act Compliance</strong><br>
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<p><strong>Online Privacy Policy Only</strong><br>
+This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Your Consent</strong><br>
+By using our site, you consent to our privacy policy.</p>
+<p><strong>Changes to our Privacy Policy</strong><br>
+If we decide to change our privacy policy, we will post those changes on this page. v</p>
+<div style="clear:both;"></div>            <br><br>
+            
+                        
+        </div>
+		
+	</div>
 
 </div>
 
+<!-- The main column ends  -->
+
+<!-- begin footer -->
+<div style="clear:both;"></div>
 <div id="footer">
-
- <div id="leftfooter">&nbsp;</div>
-
- <div id="centerfooter">
-
-  <div id="footerlinks"><a href="page.php?id=51">Contact Us</a> | <a href="page.php?id=52">Privacy Policy</a> | <a href="page.php?id=57">FAQs</a> | © 2009 LAMarathon</div> 
-
-  <div id="credit"><a href="http://collectivela.com" target="_blank">Site by Collective</a></div>
-
- <div id="rightfooter"></div>
-
- <div style="clear: both;"></div>
-
+	<div class="footerleft">
+		<p><a href="about-us/contact-us/">Contact Us</a> | 
+		<a href="event/faqs/">FAQ's</a> | 
+		<a href="about-us/privacy-policy/">Privacy Policy</a> | 
+		© 2009 <a href="http://www.lamarathon.com/">LA Marathon</a> &nbsp;&nbsp; <font color="#939993"><i>Los Angeles Marathon</i> and <i>LA Marathon</i> are registered trademarks of the City of Los Angeles. Use Permitted.</font></p>
+	</div>
+	<div class="footerright">
+		<p><a href="http://www.lamarathon.com/credits.html" rel="shadowbox;width=200;height=200;">site credits</a></p>
+	</div>
 </div>
-
+<script type="text/javascript" src="http://www.lamarathon.com/wp-content/plugins/shopp/core/ui/behaviors/thickbox.js?ver=1.0.6"></script>
+<script type="text/javascript" src="http://www.lamarathon.com/wp-content/plugins/shopp/core/ui/behaviors/shopp.js?ver=1.0.6"></script>
+<!--
+<p class="small"> WassUp 1.7.2.1 timestamp: 2009-12-26 06:32:15PM UTC (06:32PM)<br />
+If above timestamp is not current time, this page is cached.</p> -->
+</div>
+<!-- TWITTER WIDGET -->
 <script type="text/javascript">
-
+	var rpnetTwitAttrs = {
+		usernames: "LAMarathon",
+		count: 7,
+		title: "",
+    showImages: false,
+    imageHeight: '35px',
+    imageWidth: '35px'
+	};
+</script>
+<script type="text/javascript" src="http://lamarathon.com/javascript/TwitterWidget.js">
+</script>
+<!-- GOOGLE ANALYTICS -->
+<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript">
-
 try {
-
 var pageTracker = _gat._getTracker("UA-6742841-1");
-
 pageTracker._trackPageview();
-
 } catch(err) {}</script>
 
-
-
-
-
-</div></body></html>
+</body></html>
