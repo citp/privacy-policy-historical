@@ -1,17 +1,36 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412055041id_/http%3A//phanfare.com/staticpages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226234518id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
 
-# phanfare
+# Phanfare Privacy Policy
 
-[ ](https://web.archive.org/home.aspx)
-
-This policy is effective as of November 30, 2007.
+This policy is effective as of November 16, 2009.
 
 ## Phanfare Privacy Policy
 
   
 
 
-## The Information We Collect
+## Introduction
+
+Phanfare’s purpose is to enable its customers to archive and share photos and videos. We consider the photos, videos and other meta data to be the private information of our customers. We provide tools and the Phanfare service to enable our customers to share and archive photos, videos and other meta data on Phanfare websites.
+
+Our primary responsiblity is to our customers, who in turn have relationships with their viewers. This privacy policy covers both our customers and the viewers of our customer’s photos, videos and other information.
+
+### Information for Phanfare Customers
+
+You are in control of your Phanfare website and control how much security to impose. You decide which albums to publish and what photos and videos to include. You decide whether your Phanfare site is open to the public or locked down with a password. Phanfare’s role is to enable you to publish your photos and videos, store your photos and videos reliably and securely, and enable you to collect comments and other data from your viewers.
+
+Phanfare will not solicit your viewers or attempt to contact your viewers unless your viewers independently sign up for the Phanfare service. Some Phanfare pages do include links leading back to Phanfare’s corporate pages and hence a viewer may become a Phanfare customer by following a link found on your page.
+
+### Information for Viewers
+
+If you view a Phanfare website controlled by one of our customers, we may collect certain information from you as described below in this privacy policy. Each Phanfare customer also has access to some data we collect. For example, Phanfare customers have access to visitor reports and logs of comments left by viewers.
+
+Phanfare does not control what its customers do with the data we share. Phanfare expects and requires its customers to abide by Phanfare’s terms of service and if we become aware that a Phanfare customer is violating our terms of service than we will terminate the customer’s account.
+
+  
+
+
+## The Information We Collect From Customers and Viewers
 
 When you visit Phanfare you provide us with four types of information: personal information you knowingly choose to disclose that is collected by us, system usage information regarding your photo and video albums, technical support information and Web Site use information collected by us as you interact with our Web Site. 
 
@@ -27,7 +46,7 @@ When you use Phanfare, you may set up your personal profile, form relationships,
 
 You post User Content (as defined in the Phanfare Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content. 
 
-Any improper collection or misuse of information provided on Phanfare is a violation of the Phanfare Terms of Use and should be reported to support@phanfare.com. If you choose to use our invitation feature to tell a friend or family member about our site, we will ask you for information needed to send the invitation, such as your friend or family member’s name and email address. We will automatically send your friend or family member a one-time email inviting him or her to visit the site. Phanfare stores this information to send this one-time invitation, to register a friend or family member connection if your invitation is accepted, and to track the success sharing invitations. Your friend may contact us at support@phanfare.com to request that we remove this information from our database. 
+Any improper collection or misuse of information provided on Phanfare is a violation of the Phanfare Terms of Use and should be reported to support@phanfare.com. If you choose to use our invitation feature to connect to a friend or family member about your site, we will ask you for information needed to send the invitation, such as your friend or family member’s name and email address. We will automatically send your friend or family member a one-time email inviting him or her to visit the site and inviting them to join Phanfare. Phanfare stores this information to send this one-time invitation, to register a friend or family member connection if your invitation is accepted, and to track the success sharing invitations. Your friend may contact us at support@phanfare.com to request that we remove this information from our database. 
 
 By using Phanfare, you are consenting to have your personal data transferred to and processed in the United States. 
 
@@ -69,10 +88,10 @@ To provide aggregate statistics to album owners on the use of their albums.
 
 ## Sharing Your Information with Third Parties
 
-Phanfare enables sharing photos and videos with friends and family members, while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and family relationships through Phanfare. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example: 
+Phanfare enables sharing photos and videos with both authenticated and anonymous viewers over the Internet, while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and family relationships through Phanfare. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We do not share, sell, or rent your email address to third parties. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example: 
 
   * Your news feed may aggregate the information you provide and make it available to your friends and network members according to your privacy settings. You may set your preferences for your news feed in your Phanfare privacy settings off your Phanfare home page.
-  * Unlike most sites on the Web, Phanfare limits access to site information by third party search engine "crawlers" (e.g. Google, Yahoo, etc.). Phanfare takes action to block access by these engines to personal information beyond your name and profile picture 
+  * Phanfare offers user controls to block access to open site information by third party search engine "crawlers" (e.g. Google, Yahoo, etc.). Generally, search engines respect markup on pages that directs search engines to exclude the site content, but respecting such conventions is voluntary on the part of the search engines.
   * We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location or other facility for servers, to send out email updates about Phanfare, to process and fulfill print and photo merchandise orders, to remove repetitive information from our user lists or to process payments for products or services. In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Phanfare-specified purposes. 
   * We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Phanfare service or using the Phanfare name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies. 
   * If the ownership of all or substantially all of the Phanfare business were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
@@ -105,4 +124,4 @@ Your use of Phanfare, and any disputes arising from it, is subject to this Priva
 
 If you have any questions about this privacy policy, please contact us at privacy-matters@Phanfare.com. You may also contact us by mail at 84 Nassau Street, Suite 26, Princeton, NJ 08542. 
 
-Phanfare © 2008 
+Phanfare © 2009 
