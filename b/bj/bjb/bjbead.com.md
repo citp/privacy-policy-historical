@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bjbead.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622171917id_/http%3A//www.bjbead.com/help/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjbead.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226181300id_/http%3A//www.bjbead.com/help/Privacy.html) for the most accurate reproduction.*
 
-# discount jewelry,cheap jewelry,handmade jewelry,discount fashion jewelry,china jewelry
+# Discount Jewelry,Cheap Jewelry,Handmade Jewelry,Wholesale Jewelry,Discount Fashion Jewelry,China Jewelry
 
-## Privacy Policy
+##### Privacy Policy
 
 At bjbead.com, we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
 
