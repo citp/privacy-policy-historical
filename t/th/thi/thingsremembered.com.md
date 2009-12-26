@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071803id_/http%3A//www.thingsremembered.com/webapp/wcs/stores/servlet/ContentPageView%3FstoreId%3D10001%26catalogId%3D9951%26linkContent%3DPRIVACY%2520POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226014257id_/http%3A//www.thingsremembered.com/webapp/wcs/stores/servlet/ContentPageView%3FstoreId%3D10001%26catalogId%3D9951%26linkContent%3DPRIVACY%2520POLICY) for the most accurate reproduction.*
 
-# Things Remembered - PRIVACY POLICY
+# Things Remembered Privacy Policy
 
 Your privacy and security are our foremost concern, so we have established best-in-class protection policies to keep your personal and transactional information secure and private.
 
