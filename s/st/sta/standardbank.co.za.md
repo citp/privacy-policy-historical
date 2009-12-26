@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardbank.co.za privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626091854id_/http%3A//www.standardbank.co.za/SBIC/Frontdoor_02_01/0%2C2354%2C3447_74081_0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbank.co.za privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226114906id_/http%3A//www.standardbank.co.za/SBIC/Frontdoor_02_01/0%2C2354%2C3447_74081_0%2C00.html) for the most accurate reproduction.*
 
 # Standard Bank > Privacy and security statement
 
@@ -13,6 +13,7 @@ When we will disclose personal Information without consent
 Storing personal information  
 Our security practices  
 Privacy and security statements applying to specific online services  
+Personal use of emails and notice regarding the monitoring of emails   
 Right to amend this privacy and security statement **How we use the personal information we collect**  
 We need to collect personal or other information if we are to meet our obligations to you, to follow your instructions, to inform you of new services and to ensure that our business is geared towards your needs.
 
@@ -65,6 +66,11 @@ Return to the top of the page
 
 **Privacy and security statements applying to specific online services**  
 Different online services and Standard Bank entities may have their own privacy and security policies because the nature of their service or products demand a deviation from our general policy. These specific policies will apply to and exclusively govern your use of the particular online service.
+
+Return to the top of the page
+
+**Personal use of emails and notice regarding the monitoring of emails**  
+Our communication facilities and information exchanges are intended for business-related communications. However, we are mindful that our employees may make use of our facilities for personal use from time to time. "Personal use" includes usage of our facilities to send or receive personal emails within the bank or external to the bank. We do not accept liability for the contents of personal emails sent by our employees using our facilities. Please note that we may intercept, monitor and delete all communications created, stored, transmitted or received on or via our communication facilities in accordance with applicable laws. 
 
 Return to the top of the page
 
