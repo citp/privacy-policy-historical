@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415011706id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226231025id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
 
 # WorldLingo Translations LLC Privacy Policy
 
 Effective from 17th October 2008.
 
-[](https://www.truste.org/ivalidate.php?url=www.worldlingo.com&sealid=102) _Worldlingo Translation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.worldlingo.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+[](https://www.truste.org/ivalidate.php?url=www.worldlingo.com&sealid=102) _Worldlingo Translation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.worldlingo.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
 _If you have questions or concerns regarding this statement, you should firs contact Victoria Pratt at[privacy@worldlingo.com](mailto:privacy@worldlingo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns._
 
@@ -29,11 +29,11 @@ Notice of any changes that may affect your personal data or how it is used or sh
 
 If you choose to continue to use WorldLingo Translations LLC services after notice of changes have been sent to you or published on our site, you thereby opt into the new Privacy Policy and accept the changed practices.
 
-Translations LLCs’ Privacy Policy is designed to help you understand how we collect and use the personal data you provide. Helping you make informed decisions when using WorldLingo products and services located at www.worldlingo.com and its directly associated domains (collectively, "WorldLingo" or "Website").
+WorldLingo Translations LLCs' Privacy Policy is designed to help you understand how we collect and use the personal data you provide. Helping you make informed decisions when using WorldLingo products and services located at www.worldlingo.com and its directly associated domains (collectively, "WorldLingo" or "Website").
 
 By using or accessing WorldLingo, you are accepting the practices described in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20090415011706id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
+If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20091226231025id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
 
 * * *
 
@@ -45,6 +45,8 @@ You may choose to give us personal information in a variety of situations. For e
 
 You may also provide us with your credit card details to purchase a service from us or a description of your education and work experience in connection with a vacancy at WorldLingo that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.
 
+When you use any Machine Translation service provided by WorldLingo, whether it's via this website, Microsoft Office, a customer website or imbedded within a service, WorldLingo guarantees that it will never make nor keep a copy of your original text submitted for translation, neither will it make nor keep a copy of your translation results. 
+
 ## We collect your personal information by the following methods:
 
 ## 1.1 Registration
@@ -53,7 +55,7 @@ In order to become a WorldLingo user or future customer, you can create an accou
 
 You have the option to provide us with demographic information such as preferred currency and gender; we encourage you to submit this information so we can provide you a more personalized experience on our site.
 
-WorldLingo Translations LLC is the sole owner of the information collected on WorldLingo’s Web site.
+WorldLingo Translations LLC is the sole owner of the information collected on WorldLingo's Web site.
 
 ## 1.2 Profile Information
 
@@ -67,21 +69,21 @@ If you purchase a service from us, we request certain personal data from you on 
 
 We gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personal data.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personal data.
 
 We use a third-party tracking service, Google Analytics that uses cookies to track non-personal data about visitors to our site to be able to gain demographic data about the location of our visitors and total number of users.
 
 ## 1.5 Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the site. We do not link the information we store in cookies to any personal data you submit while on the site.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on the site. We do not link the information we store in cookies to any personal data you submit while on the site.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for the user to navigate our site. A session ID cookie expires when the browser is closed. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for the user to navigate our site. A session ID cookie expires when the browser is closed. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use the site, but your ability to use some areas of the site will be limited.
 
-Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
+Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to or control over these cookies. See "Third Party Advertisers."
 
 * * *
 
@@ -89,17 +91,17 @@ Some of our business partners (e.g. advertisers) use cookies on our site. We hav
 
 ## 1.6 Clear Gifs (Web Beacons/Web Bugs)
 
-Our third party advertising partners may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of one pixel. We do not link any information gathered by clear gifs to our customers’ personally identifiable information.
+Our third party advertising partners may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of one pixel. We do not link any information gathered by clear gifs to our customers' personally identifiable information.
 
 ## 1.7 Uses of Information
 
-The personal data you choose to provide on this site is used solely to enhance your experience of this site. Additional information, that does not personally identify you as an individual, “patterns of utilization” data is collected by the site, this information may be used by WorldLingo to identify market opportunities and to make service improvements as WorldLingo deems appropriate. Additionally “patterns of utilization” data may be shared with trusted third parties.
+The personal data you choose to provide on this site is used solely to enhance your experience of this site. Additional information, that does not personally identify you as an individual, "patterns of utilization" data is collected by the site, this information may be used by WorldLingo to identify market opportunities and to make service improvements as WorldLingo deems appropriate. Additionally "patterns of utilization" data may be shared with trusted third parties.
 
 ## 2\. Communications from WorldLingo
 
 ## 2.1 Special Offers and Updates
 
-We may occasionally send you information about products and services, special deals, and promotions. Out of respect for your privacy, when you created your account you may opt out of these communications, additionally please see the “Choice and Opt-out” section.
+We may occasionally send you information about products and services, special deals, and promotions. Out of respect for your privacy, when you created your account you may opt out of these communications, additionally please see the "Choice and Opt-out" section.
 
 ## 2.2 Service-related Announcements
 
@@ -137,7 +139,7 @@ We reserve the right to disclose your personal data as required by law and when 
 
 ## 3.6 Choice/Opt-out
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
+We provide you the opportunity to ‘opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
 
