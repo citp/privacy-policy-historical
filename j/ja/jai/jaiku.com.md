@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the jaiku.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412062008id_/http%3A//www.jaiku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaiku.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226223219id_/http%3A//www.jaiku.com/privacy) for the most accurate reproduction.*
 
 # Jaiku | Privacy Statement
 
-## August 26, 2008
+## August 31, 2009
 
 The [Google Privacy Policy](http://www.google.com/intl/en/privacy.html) describes how we treat personal information when you use Google's products and services, including Jaiku. The [Mobile Privacy Policy](http://www.google.com/mobile/privacy.html) generally describes how we treat mobile-related information, including mobile-related information sent to Jaiku. In addition, the following describes our privacy practices specific to Jaiku. 
 
 ## Information we collect
 
-  * When you sign up for Jaiku, we collect personal information, including your name and email address (if you signed up via the website), and your phone number (if you signed up via text message). You choose a user account name, and if you use the website, you may add certain information to your profile, including information about your mobile devices, information about your instant messaging accounts, photos, and web feed information. In the future, you will be able to add other optional information to your profile, such as your address, home town, birth date, gender, biographical information, and personal interests.
-  * You may access Jaiku in a number of ways, including via the website, via mobile device software clients, via text message, or via instant message. When you access Jaiku, we may associate your activity with your IP address, phone number, or instant messaging user name. These associations will be kept only for a limited period of time.
+  * When you sign up for Jaiku, we collect personal information, including your name and email address (if you signed up via the website), and your phone number (if you signed up via text message). You choose a user account name, and if you use the website, you may add certain information to your profile, including information about your mobile devices, information about your instant messaging accounts, photos, and web feed information. In the future, you may be able to add other optional information to your profile, such as your address, home town, birth date, gender, biographical information, and personal interests.
+  * You may access Jaiku in a number of ways, including via the website, via mobile device software clients, or via instant message. When you access Jaiku, we may associate your activity with your IP address, phone number, or instant messaging user name. These associations will be kept only for a limited period of time.
   * On Jaiku, you may take a number of actions, including posting messages, receiving messages, commenting on messages, adding friends and contacts, calendaring events, subscribing to channels, and posting photos. You may also import certain information from other websites and set your service settings.
-  * If you use a mobile device client, we collect, in addition to your phone number, your presence information (including location information, such as cell id), your Bluetooth mac address, Bluetooth mac addresses of nearby users, your mobile device status (including whether you are using the device, whether the phone is idle, and the phone's ring profile), mobile device usage statistics, the duration and description of current/previous/next calendar event, and an indication of whether a call is currently in progress (3G only).
-  * If you use our text messaging service, we collect, in addition to your phone number, the contents of your text messages.
+  * If you connect using a mobile device client, we collect, in addition to your phone number, your presence information (including location information, such as cell id), your Bluetooth mac address, Bluetooth mac addresses of nearby users, your mobile device status (including whether you are using the device, whether the phone is idle, and the phone's ring profile), mobile device usage statistics, the duration and description of current/previous/next calendar event, and an indication of whether a call is currently in progress (3G only).
   * If you access Jaiku via instant messaging, we collect, in addition to your instant messaging user name, the contents of your messages and your instant messaging status. The status is used to send you messages only when you are online and is only retained for a limited period of time.
 
 
@@ -26,7 +25,7 @@ The [Google Privacy Policy](http://www.google.com/intl/en/privacy.html) describe
 ## Information sharing and onward transfer
 
     * Jaiku allows you to interact and share your information with others. Some information you send to the service is publicly accessible. Please consider carefully before disclosing any personal information or data that might be accessible to others.
-    * We use certain third parties to perform certain functions, such as text message delivery. We also allow third parties' developers to develop products that access information from Jaiku. For more information about these third parties' privacy practices, please consult their privacy policies.
+    * We allow third parties' developers to develop products that access information from Jaiku. For more information about these third parties' privacy practices, please consult their privacy policies.
 
 ## Your choices
 
