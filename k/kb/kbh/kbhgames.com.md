@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425234913id_/http%3A//kbhgames.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226222342id_/http%3A//kbhgames.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Play Privacy Policy Flash Game
+# KBH Games » Free Games » Online Games » New Games Daily
 
-  
 We get asked a lot what our policy is on the games we put up. It's really very simple. We put up games that we find fun and we don't alter them in anyway and we always try to give credit to their creators. That's really important to us. 
 
 If you are a creator and you have a problem with anything, let us know and we will fix it immediately. If that means altering the page to give you more credit or simply taking the game down, we will immediately make this happen for you. We get so many games submitted to us that it's impossible for us to see which ones we can and cannot put up, so please, let us know if you notice a problem. 
@@ -23,4 +22,4 @@ Your profile information will be available to anyone who chooses to view it. Do 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of these sites. 
 
 **CONTACT US**  
-If you have any comments or questions about this privacy statement, don't hesitate to contact us using the [contact form](http://forums.kaboohoo.com/sendmessage.php)
+If you have any comments or questions about this privacy statement, don't hesitate to contact us using the [contact form](http://watchmovie247.com/contact-us/)
