@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babygotballs.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192357id_/http%3A//babygotballs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygotballs.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226152641id_/http%3A//babygotballs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
