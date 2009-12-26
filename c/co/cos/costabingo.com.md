@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195039id_/http%3A//www.costabingo.com/skin/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226180409id_/http%3A//www.costabingo.com/skin/about/privacypolicy.php) for the most accurate reproduction.*
 
-# Our Free Bingo Privacy Policy - Costa Bingo
+# Our Online Bingo Privacy Policy - Costa Bingo
 
 ## Privacy Policy
 
