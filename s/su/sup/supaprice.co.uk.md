@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supaprice.co.uk privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624142355id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supaprice.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226113623id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
 
 # SupaPrice.co.uk - Privacy Policy
 
-### Privacy Policy
+**Privacy Policy**
 
 This privacy policy sets out how SupaPrice.co.uk uses and protects any information that you give SupaPrice.co.uk when you use this website.
 
