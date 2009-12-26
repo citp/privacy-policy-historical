@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the desiterminal.org privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413230751id_/http%3A//www.desiterminal.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiterminal.org privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226225526id_/http%3A//www.desiterminal.org/privacy.php) for the most accurate reproduction.*
 
 # aiyoo.org - Privacy
 
  
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=389662&afsid=1)
 
 ##### aiyoo.org Privacy Policy 
 
@@ -25,8 +23,6 @@ aiyoo.org and its advertisers may use single-pixel gif images, sometimes referre
 ##### What information do you collect when I register for something? 
 
 aiyoo.org offers access to some services that require registration. We may use your registration contact information to send notification to you of aiyoo.org products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See Will you disclose the information that you collect to outside third parties? 
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=389662&afsid=1)
 
 ##### What other information do you request? 
 
@@ -53,8 +49,6 @@ aiyoo.org will disclose personal information and/or an IP address, when required
 
 aiyoo.org uses reasonable precautions to keep the information disclosed to us secure. aiyoo.org reserves the right to transfer all such information in connection with the sale of all or part of aiyoo.org's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users See below, What else should I know about my privacy when online? See What information do you collect when I register for something. 
 
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=389662&afsid=1)
-
 ##### What else should I know about my privacy when online? 
 
 The aiyoo.org contains many hyperlinks to third party Web sites. The aiyoo.org also contains advertisements of third parties. aiyoo.org is not responsible for the privacy practices or the content of such third party Web sites or advertisers. aiyoo.org does not share any of the individual personal information you provide aiyoo.org with the third parties to which aiyoo.org links, except as stated elsewhere within this Privacy Policy, although aiyoo.org may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
@@ -65,9 +59,5 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 ##### Your Consent To This Agreement
 
-By using the aiyoo.org , you consent to the collection and use of information by aiyoo.org as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Please send any questions about aiyoo.org Privacy Policy to: webmaster@aiyoo.org Please note that your use of the aiyoo.org of Web sites is governed by our Legal Notice. Copyright 2007 aiyoo.org All Rights Reserved. 
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=389662&afsid=1)
-
-  
+By using the aiyoo.org , you consent to the collection and use of information by aiyoo.org as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Please send any questions about aiyoo.org Privacy Policy to: webmaster@aiyoo.org Please note that your use of the aiyoo.org of Web sites is governed by our Legal Notice. Copyright 2007 aiyoo.org All Rights Reserved.   
 
