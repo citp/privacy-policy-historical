@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421104513id_/http%3A//purpletrail.com/pt2/cons/mkt/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226232841id_/http%3A//www.purpletrail.com/pt2/cons/mkt/privacypolicy) for the most accurate reproduction.*
 
-# PurpleTrail Free Online Invitations Privacy Policy
+# Free Online Invitations, Free eCards, Holiday Invitations and Photo Cards by PurpleTrail
 
 At PurpleTrail we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use PurpleTrail's services, as well as some of the steps we take to safeguard information. To adhere to the highest standard of privacy, we have based our policy on that of [Google's](http://www.google.com/privacy.html)
 
