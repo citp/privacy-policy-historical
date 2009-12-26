@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626015420id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226045126id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
 
 # Guitar Noise Privacy Policy
+
+**Updated on: September 5, 2009**
 
 We at Guitar Noise respect and are committed to protecting your privacy. This **Privacy Statement** outlines the information that Guitar Noise gathers and how it is used.
 
@@ -22,9 +24,15 @@ Guitar Noise shall not transfer your personal data to third parties, unless we c
 
 ### Information about computer tracking and cookies
 
-Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A cookie is an element of data that a Website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie.
+Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A cookie is an element of data that a website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie.
 
-Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use third-party ad serving solutions.
+Cookies on this site are used by ourselves, our ad management system, and advertisers who use third-party ad serving solutions, such as Google and the DoubleClick DART cookie:
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to our users based on visits to this site and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 ### Third-party Ads
 
