@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lamarathon.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050005id_/http%3A//www.lamarathon.com/page.php%3Fid%3D52) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamarathon.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226183216id_/http%3A//www.lamarathon.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Official Site of the Los Angeles Marathon
+# Privacy Policy : LA Marathon
 
 **What information do we collect?**  
 We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
@@ -29,4 +29,4 @@ This online privacy policy applies only to information collected through our web
 By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page. v
