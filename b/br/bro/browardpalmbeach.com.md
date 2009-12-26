@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173825id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226034343id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Broward/Palm Beach Privacy Policy
 
 [](https://web.archive.org/)
 
 Privacy Policy
-
-[](http://polls.browardpalmbeach.com/polls/bpb/ripriderockit/index.php)
 
 ## Village Voice Media
 
@@ -70,6 +68,6 @@ In the event of a sale of Broward-Palm Beach New Times or a sale of substantiall
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@newtimes.com](mailto:web@newtimes.com). 
 
-[ ](http://www.browardpalmbeach.com/microsites/food-bytes)
+[ ](http://www.jointherevolution.net/ab/flyers/events_football.html)
 
-[](http://www.browardpalmbeach.com/microsites/soundboardjams/)
+[ ](http://www.browardpalmbeach.com/microsites/beerfest-2010)
