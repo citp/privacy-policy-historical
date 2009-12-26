@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218152930id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226095902id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
 # Jobsite Privacy Statement
 
@@ -16,7 +16,7 @@ We use our best efforts to limit access to our CV services to recruiters who agr
 
 You may remove your CV from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use, or privacy of your CV by recruiters in these instances. 
 
-### Jobs by E Mail Service
+### Jobs by Email Service
 
 The Jobs by Email service matches a job seekers requirements for employment with the profile of vacancies advertised on any one of our Sites. For job seekers who subscribe to this service you receive an email listing those jobs that we believe you should be interested in. Your requirements are defined by you using "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time. 
 
@@ -48,7 +48,9 @@ If you have any concerns over any application form, please contact us for advice
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information. 
 
-Our site uses cookies to keep track of your searches in any single visit. These cookies expire half an hour after you leave the site, and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of MyJobsite or close down the browser before leaving the computer for the next user. 
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/). 
+
+If you are using a shared computer, please ensure that you log out of MyJobsite or close down the browser before leaving the computer for the next user. 
 
 Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only. 
 
