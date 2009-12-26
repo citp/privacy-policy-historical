@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kauaiworld.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174528id_/http%3A//www.kauaiworld.com/our_newspaper/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kauaiworld.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226235931id_/http%3A//www.kauaiworld.com/our_newspaper/security) for the most accurate reproduction.*
 
 # TheGardenIsland.com > Our Newspaper > Security
 
 | 
 
-Tuesday, June 16, 2009
+Saturday, December 26, 2009
 
 ## Our Newspaper > Security
 
@@ -78,7 +78,5 @@ Last updated on 05/12/08
 | 
 
 [](https://web.archive.org/the_garden_island_video/)
-
-[](http://advault.kauaiworld.com/SS/Tiles.aspx)
 
 ## Online Poll
