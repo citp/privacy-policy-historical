@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123orkut.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422204742id_/http%3A//www.123orkut.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123orkut.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226221231id_/http%3A//www.123orkut.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 123orkut.com - Orkut Scraps | Orkut Images | Orkut Mp3 | Orkut Graphics
 
