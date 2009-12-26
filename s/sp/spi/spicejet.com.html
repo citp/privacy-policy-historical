@@ -1,394 +1,487 @@
-<!--The following is the downloaded HTML source of the spicejet.com privacy policy that was archived on 2009-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090609122708id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spicejet.com privacy policy that was archived on 2009-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226085212id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>SpiceJet - Privacy Policy</title>
-<meta name="robots" content="follow,index">
+	<title>SpiceJet's Fleet - Flying on Boeings was never this cheap.</title>
+	<meta name="description" content="SpiceJet; The Low cost Indian airlines offering air travel services throughout India. Visit SpiceJet.com for more information on budget airlines travel in India.">
+	<meta name="keywords" content="indian airlines, flight bookings india, india travel, indian airlines, cheap airline tickets, airline tickets india, domestic travel">
+	<meta name="robots" content="follow,index">
+</head>
+<body>
+	<form name="frmAboutUS" id="frmAboutUS">
+		<!--header start-->
+		
+
+
+
+<link rel="shortcut icon" href="images/favicon.ico">
+<link href="styles/spicejet.css" rel="stylesheet" type="text/css">
+<link href="styles/anylink.css" rel="stylesheet" type="text/css">
+<link href="styles/LoginAccordion.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascript" src="scripts/LoginAccordion.js"></script>
+<script type="text/javascript" language="JavaScript" src="scripts/anylink.js"></script>
+
+
+    <script type="text/javascript">
+function CloseLoginDiv()
+{
+	if(document.getElementById("Logindropdown").style.display != "none")
+	document.getElementById("Logindropdown").style.display="none";	
+
+}
+
+function GuestLogin(LoginTyp)
+{
+	var lstrUserName,lstrPassword
+	
+
+	if (LoginTyp == "guest")
+	{
+		lstrUserName = document.getElementById("guestloginid").value.toUpperCase();
+		lstrPassword = document.getElementById("guestpassword").value.toUpperCase();
+	}
+	if (LoginTyp == "agency")
+	{
+	lstrUserName = document.getElementById("agencyloginid").value.toUpperCase();
+	lstrPassword = document.getElementById("agencypassword").value.toUpperCase(); 
+	}
+	
+	if (LoginTyp == "corporate")
+	{
+	lstrUserName = document.getElementById("corporateloginid").value.toUpperCase();
+	lstrPassword = document.getElementById("corporatepassword").value.toUpperCase(); 
+	}
+
+	if (isEmptySpace(lstrUserName) && isEmptySpace(lstrPassword))
+	{
+		var alertMsg		
+		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id \n - password"
+		alert(alertMsg)
+		return false;
+	}
+	var regExpLoginid=/^[^A-Za-z0-9]*$/;	
+	if (regExpLoginid.test(lstrUserName))
+	{
+		var alertMsg		
+		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id"
+		alert(alertMsg)
+		return false;
+	}
+	
+	if (isEmptySpace(lstrUserName))
+	{
+		var alertMsg
+		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - " + LoginTyp + " id "
+		alert(alertMsg)
+		return false;
+	}
+	
+	if (isEmptySpace(lstrPassword))
+	{
+		var alertMsg
+		alertMsg = "Please enter the valid data for \n the following mandatory field(s): \n\n - password"
+		alert(alertMsg)
+		return false;
+	}
+	
+	if (LoginTyp == "guest")
+	{
+		document.frmGuestLogin.action= "http://book.spicejet.com/skylights/cgi-bin/skylights.cgi";
+		document.getElementById('module').value = "MP";
+		document.getElementById('uid').value = lstrUserName;
+		document.getElementById('pw').value = lstrPassword;
+		document.frmGuestLogin.submit();
+	}
+	
+	if (LoginTyp == "agency")
+	{
+		document.frmAgencyLogin.action="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi" + "?module=AG";
+		//document.getElementById('module').value = "AG";
+		document.getElementById('iata').value = lstrUserName;
+		document.getElementById('password').value = lstrPassword;
+		document.frmAgencyLogin.submit();
+	}
+	if (LoginTyp == "corporate")
+	{
+		document.frmAgencyLogin.action="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi" + "?module=AG";
+		//document.getElementById('module').value = "AG";
+		document.getElementById('iata').value = lstrUserName;
+		document.getElementById('password').value = lstrPassword;
+		document.frmAgencyLogin.submit();	
+	}
+	
+	
+}
+function isEmptySpace(chkstr) 
+{
+		//check if field contains empty spaces only
+		var CHAR_FOR_SPACE=32;
+		var len=chkstr.length;
+		var k=0;
+		var blisSpaces=true;
+		if(len>0)
+		{
+			for (k=0; k<len; k++)
+			{				
+				if (chkstr.charCodeAt(k)!=CHAR_FOR_SPACE)
+				{
+					blisSpaces=false;	
+					break;
+				}
+			} 	
+		}
+		return blisSpaces;
+}	
+
+</script>
+
 
 <style>
-.link {FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none}
-.link:hover {COLOR: #B50128; TEXT-DECORATION: none}
-.carr {FONT-SIZE: 12px; COLOR: #5C5B5B; FONT-FAMILY: verdana;}
-.top {FONT-SIZE: 11px; COLOR: #B50128; FONT-FAMILY: verdana; TEXT-DECORATION: none}
-.top:hover {COLOR: #B50128; TEXT-DECORATION: underline}
-.privacy {FONT-SIZE: 10px; COLOR: #F85800; FONT-FAMILY: verdana; TEXT-DECORATION: underline}
-.privacy:hover {COLOR: #F85800; TEXT-DECORATION: none}
-
-.link2 {FONT-SIZE: 12px; COLOR: #F85800; FONT-FAMILY: verdana; TEXT-DECORATION: none}
-.link2:hover {COLOR: #FF6713; TEXT-DECORATION: none}
-
-.link1 {FONT-SIZE: 11px; COLOR: #B50128; FONT-FAMILY: verdana; TEXT-DECORATION: none}
-
-.carr1 {FONT-SIZE: 13px; COLOR: #5C5B5B; FONT-FAMILY: verdana;}
-.uid {font-family: verdana; color: #000000; font-size: 11px; line-height: 14px}
-.uid1 {font-family: verdana; color: #000000; font-size: 10px; line-height: 14px}
-.uid2 {font-family: verdana; color: #000000; font-size: 11px;}
-.uidw {font-family: verdana; color: #FFFFFF; font-size: 11px; line-height: 14px}
-.inputfield{BORDER-RIGHT: #9C9999 1px solid; BORDER-TOP: #9C9999 1px solid; BORDER-LEFT: #9C9999 1px solid; BORDER-BOTTOM: #9C9999 1px solid;}
-.copy {font-family: verdana; color: #F85800; font-size: 10px;}
+li{
+text-align:left;
+}
 </style>
 
 
-<link href="styles/spicejet.css" rel="stylesheet" type="text/css">
-<link href="styles/anylink.css" rel="stylesheet" type="text/css">
-<script language="javascript" src="styles/showDiv.js" type="text/javascript"></script>
-<script type="text/javascript" src="styles/anylink.js"></script>
-
-</head>
-
-<body bgcolor="#D7D7D7" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<div align="center">
-
-	<table cellpadding="0" cellspacing="0" border="0" width="780" bgcolor="#FFFFFF">
-	  <tbody><tr valign="top" bgcolor="#b40228">
-      <td colspan="3"><!--header start-->
 
 
 
 
-<div id="Travel" style="Z-INDEX: 1; LEFT: 195px; VISIBILITY: hidden; WIDTH: 148px; POSITION: absolute; HEIGHT: 23px">
-      <table class="font2" cellspacing="0" cellpadding="0" width="75" border="0">
-        <tbody>
-        <tr>
-          <td>
-            <table class="line" cellspacing="0" cellpadding="0" width="149" border="0">
-              <tbody>
-              <tr id="Travel1">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width="149"><a class="dropdown" href="general-air-travel-faq.asp" "="">&nbsp;&nbsp;faqs</a></td>
-<!-- <TD onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width=149><A class=dropdown 
-                  href="faqs.asp"">&nbsp;&nbsp;faqs</A></TD>--></tr>
-              <tr id="Travel2">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="charter.asp">&nbsp;&nbsp;citizen's charter</a></td></tr>
-              <tr id="Travel3">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tnc.asp" "="">&nbsp;&nbsp;terms of carriage</a></td></tr>
-
-	<tr id="Travel4">
-
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="IAFpersonnel.asp" style="height:30px; line-height:15px">&nbsp;&nbsp;indian armed forces &nbsp;&nbsp;personnel</a></td></tr>	
-	      <tr id="Travel4">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="specialassistance.asp" "="">&nbsp;&nbsp;special assistance</a></td></tr>
-              </tbody></table></td></tr></tbody></table></div>
-
+<!-- dropdown menu-->
+<div id="Travel" name="Travel" style="z-index:999999;">
+  <ul>
+    <li id="Travel1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width="149"><a class="dropdown" href="general-air-travel-faq.asp" "="">&nbsp;&nbsp;faqs</a> </li>
+    <li id="Travel2" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="charter.asp">&nbsp;&nbsp;citizen's charter</a></li>
+    <li id="Travel3" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tnc.asp" "="">&nbsp;&nbsp;terms of carriage</a></li>
+    <li id="Travel4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="IAFpersonnel.asp" style="height:34px; line-height:18px">&nbsp;&nbsp;Indian armed forces &nbsp;&nbsp;personnel</a></li>
+    <li id="Travel5" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="specialassistance.asp">&nbsp;&nbsp;special assistance</a> </li>
+  </ul>
+</div>
 
 
 <!--menu Special-->
-<div id="Special" style="Z-INDEX: 1; LEFT: 195px; VISIBILITY: hidden; WIDTH: 148px; POSITION: absolute; HEIGHT: 23px">
-      <table class="font2" cellspacing="0" cellpadding="0" width="75" border="0">
-        <tbody>
-        <tr>
-          <td>
-            <table class="line" cellspacing="0" cellpadding="0" width="149" border="0">
-              <tbody>
-              <tr id="Special1">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width="149"><a class="dropdown" href="ads.asp">&nbsp;&nbsp;spice sbi card</a></td></tr>
-             
-              <!--<TR id=Special3>
-                <TD onmouseover="menuOver('rollimg2')" 
+<div id="Special" name="Special" style="z-index:999999">
+<ul>
+<li id="Special1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" width="149">
+
+<a class="dropdown" href="http://www.sbicard.com/sbi/spicejet_creditcard.jsp" target="_blank">&nbsp;&nbsp;spicejet sbi card</a>
+
+</li>
+<li id="Special4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tata_aig_productdescription.asp">&nbsp;&nbsp;domestic travinsure</a></li>
+<!--<li id=Special7  onmouseover="menuOver('rollimg2')" 
                 onmouseout="menuOut('rollimg2')"><A class=dropdown 
-href="http://hotels.spicejet.com/">&nbsp;&nbsp;spiceJethotels</A></TD></TR>-->
-				 <tr id="Special4">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="tata_aig_productdescription.asp">&nbsp;&nbsp;domestic travInsure</a></td></tr>
-				 <tr id="Special7">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="homeaway_tata_aig_productdescription.asp">&nbsp;&nbsp;home away insurance</a></td></tr>
-	 <tr id="Special8">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></td></tr>
-		<!-- <TR id=Special5>
-                <TD onmouseover="menuOver('rollimg2')" 
-                onmouseout="menuOut('rollimg2')"><A class=dropdown 
-href="cargo.asp">&nbsp;&nbsp;SpiceJet cargo</A></TD></TR>-->
+href="homeaway_tata_aig_productdescription.asp">&nbsp;&nbsp;home away insurance</A></li>-->
+<li id="Special8" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="flightVoucherRedemption.asp">&nbsp;&nbsp;4th anniversary offer</a></li>
 
-<!-- <TR id=Special5>
-                <TD onmouseover="menuOver('rollimg2')" 
-                onmouseout="menuOut('rollimg2')"><A class=dropdown 
-href="buyfourgetonefree.asp">&nbsp;&nbsp;Fly4 Get1 Free</A></TD></TR>-->
-
-<!--<TR id=Special5>
-                <TD onmouseover="menuOver('rollimg2')" 
-                onmouseout="menuOut('rollimg2')"><A class=dropdown 
-href="assuredgifts-conditions.asp">&nbsp;&nbsp;Scratch & Win</A></TD></TR>-->
-              </tbody></table></td></tr></tbody></table></div>
+</ul>
+</div>
 
 
 
-  <div id="Ser" style="Z-INDEX: 1; VISIBILITY: hidden; WIDTH: 140px; POSITION: absolute; HEIGHT: 130px">
-    <table class="line" cellspacing="0" cellpadding="0" width="140" border="0">
-      <tbody>
-     <tr id="sr1" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="careers.asp">&nbsp;&nbsp;careers</a></td>
-        </tr>
-        <tr id="sr6" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="CorporateOverview.asp">&nbsp;&nbsp;corporate overview</a></td>
-        </tr>
-        <tr id="sr5" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide');MM_showHideLayers('Ser','','hide')">
-          <td valign="center"><a class="dropdown" href="fleet.asp">&nbsp;&nbsp;fleet</a></td>
-        </tr>
-        <tr id="sr4" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="airports.asp">&nbsp;&nbsp;our airports</a></td>
-        </tr>
-		
-		  <tr id="sr3" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="SpiceJetShops.asp">&nbsp;&nbsp;spiceJet shops</a></td>
-        </tr>
-		
-		 <tr id="sr2" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','show')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td align="left"><a class="dropdown" href="#">&nbsp;&nbsp;investors&nbsp;<img src="images/downarrow.gif" width="6" hight="6" border="0"></a></td>
-        </tr>
-		  <tr id="sr7" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="contactus.asp">&nbsp;&nbsp;contact us</a></td>
-        </tr>
 
-<tr id="sr8" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="spaces.asp">&nbsp;&nbsp;advertise with us</a></td>
-        </tr>
+<div id="Ser" name="Ser" style="z-index:999999">
+  <ul>
+    <li id="sr1" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="careers.asp">&nbsp;&nbsp;careers</a> </li>
+    <li id="sr6" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="CorporateOverview.asp">&nbsp;&nbsp;corporate overview</a> </li>
+    <li id="sr5" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide');MM_showHideLayers('Ser','','hide')" valign="center"><a class="dropdown" href="fleet.asp">&nbsp;&nbsp;fleet</a> </li>
+    <li id="sr4" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="airports.asp">&nbsp;&nbsp;our airports</a> </li>
+    <li id="sr3" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="SpiceJetShops.asp">&nbsp;&nbsp;spiceJet shops</a> </li>
+    <li id="sr2" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','show')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="#">&nbsp;&nbsp;investors&nbsp;</a></li>
+    <li id="sr7" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="contactus.asp">&nbsp;&nbsp;contact us</a> </li>
+    <li id="sr8" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="spaces.asp">&nbsp;&nbsp;advertise with us</a> </li>
+    <li id="sr9" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')" valign="center"><a class="dropdown" href="http://www.spiceroutemag.com/" target="_blank">&nbsp;&nbsp;spiceroute emag</a> </li>
+  </ul>
+</div>
 
-<tr id="sr9" onmouseover="shLayer('Sublay');menuOver('rollimg2');MM_showHideLayers('Ser','','show','Sublay','','hide')" onmouseout="menuOut('rollimg2');MM_showHideLayers('Ser','','hide');MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-          <td valign="center"><a class="dropdown" href="http://www.spiceroutemag.com/" target="_blank">&nbsp;&nbsp;spiceroute emag</a></td>
-        </tr>
 
-      </tbody>
-    </table>
+
+<div id="Sublay" name="Sublay" onmouseover="MM_showHideLayers('Ser','','show','Sublay','','show')" onmouseout="MM_showHideLayers('Ser','','hide','Sublay','','hide')" style="z-index:999999">
+  <ul>
+    <li id="sum1" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="sharePattern.asp">&nbsp;&nbsp;shareholding pattern</a> </li>
+    <li id="sum2" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="code-of-conduct.asp">&nbsp;&nbsp;code of conduct</a> </li>
+    <li id="sum3" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="contactus.asp">&nbsp;&nbsp;contact information</a> </li>
+    <li id="sum4" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/23rd_Annual_Report.pdf">&nbsp;&nbsp;annual report</a> </li>
+
+<li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE Results - Q2 FY10.pdf">&nbsp;&nbsp;BSE - Q2-10</a> </li>
+<li id="sum6" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q1 FY10.pdf">&nbsp;&nbsp;BSE - Q1-10</a> </li>
+<li id="sum6" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q4 FY09.pdf">&nbsp;&nbsp;BSE - Q4-09</a> </li>
+ <li id="sum6" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q3 FY09.pdf">&nbsp;&nbsp;BSE - Q3-09</a> </li>
+ <li id="sum6" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q2 FY09.pdf">&nbsp;&nbsp;BSE - Q2-09</a> </li>
+ <li id="sum6" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q1 FY09.pdf">&nbsp;&nbsp;BSE - Q1-09</a> </li>
+
+
+    <li id="sum6" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q4 FY08.pdf">&nbsp;&nbsp;BSE - Q4-08</a> </li>
+
+    <li id="sum5" align="left" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q3 FY08.pdf">&nbsp;&nbsp;BSE - Q3-08</a> </li>
+
+
+    <li id="sum7" nowrap="" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/Results - Q4 FY07.pdf">&nbsp;&nbsp;BSE - Q4-07</a> </li>
+
+    
+  </ul>
+</div>
+
+<!--- Login --->
+
+<div id="Logindropdown" name="Logindropdown" style="visibility:hidden;" onmouseover="shLayer('Logindropdown');menuOver('Logindropdown');MM_showHideLayers('Logindropdown','','show')" onmouseout="menuOut('Logindropdown','hide');">
+
+    	
+  
+    
+  <div class="AccordionPanel2 AccordionPanelOpen2">
+    <div class="AccordionPanelTab2">guest</div>
+    <div class="AccordionPanelContent2">
+    	<div class="guestdiv">
+
+<table class="logintable">
+	<tbody><tr>
+		<td class="guestlabel">guest id:</td>
+		<td><input name="guestloginid" id="guestloginid" type="text" class="userid"></td>
+	</tr>
+	<tr>
+		<td class="guestlabel">password:</td>
+		<td algin="left"><input name="guestpassword" id="guestpassword" type="password" class="userpwd"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td> <input type="button" class="signinbtn" name="Button" value="" id="Button" onclick="javascript:GuestLogin('guest')"></td>
+	</tr>
+</tbody></table>
+
+            <div style="padding-bottom:5px;">
+			<div class="forgotpwd"><a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=MP&amp;page=PASSWORD_FORGOTTEN" title="Click to look up your password" class="linksred">forgot password?</a></div>
+            <div><span class="guestregister">new guest?</span> <span><a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=MP&amp;page=LOGIN_ENTRY" class="linksred">register here</a></span></div>
+			</div>
+              <input type="hidden" name="module" id="module" value="0">
+           <input type="hidden" name="uid" id="uid" value="0">
+			<input type="hidden" name="pw" id="pw" value="0">
+
+        </div>
+    </div>
+ </div>
+
+
+  <div class="AccordionPanel2 AccordionPanelClosed2">
+    <div class="AccordionPanelTab2">agency</div>
+    <div class="AccordionPanelContent2" style="height: 0px; display: none;">
+    
+    <div class="agencydiv">
+<form name="frmAgencyLogin" id="frmAgencyLogin" method="post">
+
+<table class="logintable">
+	<tbody><tr>
+		<td class="guestlabel">agency id:</td>
+		<td><input name="agencyloginid" id="agencyloginid" type="text" class="userid"></td>
+	</tr>
+	<tr>
+	<td class="guestlabel">password:</td>
+	<td><input name="agencypassword" id="agencypassword" type="password" class="userpwd"></td>
+	</tr>
+	<tr><td></td>
+	<td><input type="button" class="signinbtn" name="Button" value="" onclick="javascript:GuestLogin('agency')"></td>
+	</tr></tbody></table>
+           
+
+          
+            <div>new agency? <span><a href="AgencyRegistration.asp" class="linksred">register here</a></span></div>
+           <input type="hidden" name="iata" id="iata" value="0">
+			<input type="hidden" name="password" id="password" value="0">
+			<input type="hidden" name="event" id="event" value="login">
+</form>
+    </div>
+    </div>
   </div>
 
-  <div id="Sublay" onmouseover="MM_showHideLayers('Ser','','show','Sublay','','show')" style="Z-INDEX: 1; VISIBILITY: hidden; WIDTH: 160px; POSITION: absolute; HEIGHT: 20px" onmouseout="MM_showHideLayers('Ser','','hide','Sublay','','hide')">
-      <table cellspacing="0" cellpadding="0" border="0">
-        <tbody>
-        <tr>
-          <td>
-            <table class="line" cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody>
-              <tr id="sum1">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="sharePattern.asp">&nbsp;&nbsp;shareholding pattern</a></td>
-              </tr>
 
-              <tr id="sum2">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="code-of-conduct.asp">&nbsp;&nbsp;code of conduct</a></td>
-              </tr>
+  <div class="AccordionPanel2 AccordionPanelClosed2">
+    <div class="AccordionPanelTab2">corporate</div>
+    <div class="AccordionPanelContent2" style="height: 0px; display: none;">
+    
+    <div class="corporatediv">
+<form name="frmCorporateLogin" id="frmCorporateLogin" method="post">
+<table class="logintable">
+	<tbody><tr>
+		<td class="guestlabel">corporate id:</td>
+		<td><input name="corporateloginid" id="corporateloginid" type="text" class="userid"></td>
+	</tr>
+	<tr>
+		<td class="guestlabel">password:</td>
+		<td><input name="corporatepassword" id="corporatepassword" type="password" class="userpwd"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td><input type="button" name="corpLogin" class="signinbtn" id="corpLogin" value="" onclick="GuestLogin('corporate')"></td>
+	</tr>
+</tbody></table>
+            <div class="agency">corporate benefit program <a href="CorporateQueries.asp" class="linksred">click here for details</a></div>
+             <input type="hidden" name="hdnCorporateID" id="hdnCorporateID" value="0">
+			<input type="hidden" name="hdnCorporatePswd" id="hdnCorporatePswd" value="0">
+</form>
+    </div>
 
-              <tr id="sum3">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="contactus.asp">&nbsp;&nbsp;contact information</a></td>
-              </tr>
+    </div>
 
-	    
-	       <tr id="sum4">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/23rd_Annual_Report.pdf">&nbsp;&nbsp;annual report</a></td>
-              </tr>
-	                
+  </div>
 
-		<tr id="sum6">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="pdf/BSE_Q2FY08_Results.pdf">&nbsp;&nbsp;BSE – Q2-07</a></td>
-              </tr> 
+    	
+</div></form>
+<!--Login End-->
 
-<tr id="sum5">
-            <td align="left" onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')"><a class="dropdown" href="BSE - Q1 - Results.pdf">&nbsp;&nbsp;BSE - Q1-07</a></td>
-              </tr>  
-	
-		<tr id="sum7">
-                <td onmouseover="menuOver('rollimg2')" onmouseout="menuOut('rollimg2')" nowrap=""><a class="dropdown" href="pdf/Spicejet_Limited_Review_Q2_07_ BSE.pdf">&nbsp;&nbsp;BSE - Q1-07-clarification</a>&nbsp;&nbsp;</td>
-              </tr>    
-
-	      </tbody></table></td></tr></tbody></table></div>
-
-
-<table style="bgcolor: #B50128" cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
-          <tbody><tr>
-            <td colspan="19" valign="top"><img src="images/sj_header.gif" width="780" height="64" id="imgTabs" name="imgTabs"></td>
-             
-          </tr>
-           <tr>
-            <td height="21" width="10">&nbsp;</td>
-            <td align="center" nowrap=""><a class="headermenu" href="http://www.spicejet.com">home</a></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap=""><a class="headermenu" href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=SB">book a flight</a></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap=""><a class="headermenu" href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=C3">pnr lookup</a></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap=""><a class="headermenu" href="web-checkin-india.asp">online check-in</a></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap=""><a class="headermenu" href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=FL">flight status</a></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap=""><a class="headermenu" href="tourism.asp">spice destinations</a></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap="" style="vertical-align:top;padding-bottom:4px;"><a class="headermenu" onmouseover="shLayer('Travel')" onmouseout="menuOut('Travel')" href="#">travel tips</a>&nbsp;<img src="images/downarrow.gif" width="6" hight="6"></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap="" style="vertical-align:top;padding-bottom:4px;"><a class="headermenu" onmouseover="shLayer('Special')" onmouseout="menuOut('Special')" href="#">spice offers</a>&nbsp;<img src="images/downarrow.gif" width="6" hight="6"></td>
-            <td align="center" class="div2">|</td>
-            <td align="center" nowrap="" style="vertical-align:top;padding-bottom:4px;"><a class="headermenu" onmouseover="shLayer('Ser')" onmouseout="btnTimer()" href="#">about us</a>&nbsp;<img src="images/downarrow.gif" width="6" hight="6"></td>
-            <td bgcolor="#B40228" style="WIDTH: 10px;">&nbsp;</td>
-          </tr>
-          <tr>
-            <td height="21" colspan="19" class="sjmenushadowbg"><img src="images/spacer.gif" width="1" height="4"></td>
-          </tr>
-        </tbody></table>
-  </td>
-    </tr>
-    <tr>
-      <td height="12" colspan="3">&nbsp;</td>
-    </tr>	
-    <tr>
-    <td colspan="3" algin="top">
-    <table width="96%" cellpadding="0" cellspacing="0" align="center" border="0" class="innerborder">
-		<tbody><tr>
-			<td valign="top">
-
-<!--header end-->
-      </td></tr><tr><th>&nbsp;&nbsp;&nbsp;spicejet privacy policy</th></tr>
-		<tr>
-			<!--<td width=5 background="images/mid-bg.gif"><img src="images/spacer.gif" width="5" height="1"></td>-->
-			<td width="627" align="center" valign="top">
-				<table cellpadding="0" cellspacing="0" border="0" width="517">
-					<!--<tr><td><img src="images/spacer.gif" width="1" height="30"></td></tr>-->
-					<tbody><tr>
-						<td>
-							<table cellpadding="0" cellspacing="0" border="0" width="517">
-								<!--<tr><td><img src="images/privacy.gif" width="151" height="16"></td></tr>-->
-								<!--<tr><td bgcolor="#F85800"><img src="images/spacer.gif" width="1" height="1"></td></tr>-->
-								<tbody><tr>
-									<td width="517">
-										<table cellpadding="0" cellspacing="0" border="0" width="517">
-											<tbody><tr><td><img src="images/spacer.gif" width="1" height="15"></td></tr>
-											<tr>
-												<td class="uid">We, at SpiceJet, value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site.</td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="12"></td></tr>
-											<tr><td class="uid"><b>Notice of Information Practices</b></td></tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
-											<tr>
-												<td class="uid">SpiceJet collects two types of information about visitors to its sites: (1) personally-identifiable information and (2) aggregate information that can’t be used to identify a particular visitor (see “Cookies” section below).</td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
-											<tr>
-												<td class="uid">SpiceJet collects personally identifiable information only when you specifically give it to us; for example, if you make a booking or create a guest profile. We do not disclose this information to third parties except as necessary to provide service(s) or carry out the transaction(s) you have requested and to operate SpiceJet sites.</td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="15"></td></tr>
-											<tr>
-												<td class="uid"><b>Protecting Your Personal Information</b></td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
-											<tr>
-												<td class="uid">We recognize industry standards and employ security safeguards to protect personally identifiable information from unauthorized access and misuse. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. We do not disclose the personally identifiable information that you provide us to third parties, except as necessary to provide the product or service you have specifically requested.</td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="15"></td></tr>
-											<tr>
-												<td class="uid"><b>Common Web Technologies</b></td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
-											<tr>
-												<td class="uid">We employ common web technologies that help to manage our web site, among them:</td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
-											<tr>
-												<td>
-													<table cellpadding="0" cellspacing="0" border="0">
-														<tbody><tr>
-															<td width="20" valign="top" align="center"><img src="images/bullfare2.gif" width="4" height="10"></td>
-															<td class="uid"><b>Cookies</b> – A "cookie" is a name for tokens of information that our web site may provide to your browser, which is used only by our web sites while you are at those web sites. SpiceJet.com uses cookies for a variety of purposes. We use cookies to help us better understand web site usage in the aggregate so that we know what areas of our site users prefer. We also use cookies to simplify your data entry for some of our online forms. If you simply want to browse, you do not have to accept cookies from our site. Should you decide, however, that you would like to register and login to special areas of the web site, and you have modified your browser settings not to accept cookies, you will need to re-set your browser to accept the cookies that we send it. Otherwise, you may not be able to participate in certain areas of the web site. Most browsers are defaulted to accept and maintain cookies.</td>
-														</tr>
-														<tr><td><img src="images/spacer.gif" width="1" height="8"></td></tr>
-														<tr>
-															<td width="20" valign="top" align="center"><img src="images/bullfare2.gif" width="4" height="10"></td>
-															<td class="uid"><b>Web Site Usage Data</b> – With or without cookies, our web site keeps track of usage data, such as the source address that a page request is coming from (i.e., your IP address, domain name), date and time of the page request, the referring web site (if any), and other parameters in the URL (e.g., search criteria). We use this data to better understand web site usage in the aggregate so that we know what areas our web site users prefer (e.g., based on the number of visits to those areas). This information is stored in log files and used for aggregated and statistical reporting. It is not attributed to you as an individual.</td>
-														</tr>
-														<tr><td><img src="images/spacer.gif" width="1" height="8"></td></tr>
-														<tr>
-															<td width="20" valign="top" align="center"><img src="images/bullfare2.gif" width="4" height="10"></td>
-															<td class="uid"><b>Links to Third Party Sites</b> – Our web sites often provide links to third party web sites, such as those of our business partners and online advertisers. You should review their privacy policies to learn more about what, why, and how they collect and use personally identifiable information.</td>
-														</tr>
-														<tr><td><img src="images/spacer.gif" width="1" height="8"></td></tr>
-														<tr>
-															<td width="20" valign="top" align="center"><img src="images/bullfare2.gif" width="4" height="10"></td>
-															<td class="uid"><b>Links to External Sites</b> – Our privacy policy only applies to the SpiceJet.com network. It does not apply to non-network sites that you connect to from our site. We recommend that you read their privacy policy to understand how they manage personal information. We choose our partners and sponsors carefully. However, we are not responsible for the content or practices of web sites operated by third parties that are linked to our sites. These links are provided as a service to our users. Unless otherwise stated, they do not constitute our endorsement, sponsorship or approval of their content, policies or practices.</td>
-														</tr>
-													</tbody></table>
-												</td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="15"></td></tr>
-											<tr>
-												<td class="uid"><b>General</b></td>
-											</tr>
-											<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
-											<tr>
-												<td class="uid">If we change our information handling practices or other privacy aspects, we will give you as much notice as possible prior to implementation.  In rare cases, just like with any company or person, we may need to disclose certain information to comply with a valid legal process, such as a court order, subpoena or search. We also may choose to establish or exercise our legal rights or defend against legal claims.</td>
-											</tr>
-											
-											<tr><td><img src="images/spacer.gif" width="1" height="15"></td></tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
+<!-- dropdown menu end -->
+<div align="center">
+<div id="mainwrapper">
+	  <div id="header">
+		<div class="logo"> <img src="images/logo1.gif" id="imgTabs" name="imgTabs"> </div>
+		<div class="headerbg">
+		<img src="images/header_sales1.gif">
+		</div>
+		<div id="menu">
+		<ul>
+		  <li><a href="home.asp">home</a></li>
+		  <li class="separator"></li>
+		  <li><a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=SB&amp;sid=">book a flight</a></li>
+		  <li class="separator"></li>
+		  <li><a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=C3&amp;sid=">pnr lookup</a></li>
+		  <li class="separator"></li>
+		  <li><a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=FL&amp;sid=">flight status</a></li>
+		  <li class="separator"></li>
+		  <li><a href="tourism.asp">spice destinations </a></li>
+		  <li class="separator"></li>
+		  <li class="dmenu"><a style="height: 18px;" href="#" onmouseout="menuOut('Travel')" onmouseover="shLayer('Travel')">travel tips</a><img src="images/dropdown_icon.gif" class="dropdownicon"></li>
+		  <li class="separator"></li>
+		  <li class="dmenu"><a href="#" onmouseout="menuOut('Special')" onmouseover="shLayer('Special')">spice offers</a><img src="images/dropdown_icon.gif" class="dropdownicon"></li>
+		  <li class="separator"></li>
+		  <li class="dmenu"><a href="#" onmouseout="btnTimer()" onmouseover="shLayer('Ser')">about us</a><img src="images/dropdown_icon.gif" class="dropdownicon"></li>
 		
-		<tr><td bgcolor="white" colspan="3">		</td>
-    
-		</tr>
-    
-    </tbody></table>
-    </td>
-   </tr>
-   <tr>
-   <td>
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+		  
+			<li class="login"><img src="images/menu_login1.gif" onmouseout="menuOut('Logindropdown')" onmouseover="shLayer('Logindropdown')" style="cursor:pointer;"></li>
+		  
+	
+		</ul>
+ 	 </div>
 
-          <tbody><tr>
-            
-            <td><table width="96%" cellpadding="0" cellspacing="0" border="0" align="center">
-	         <tbody><tr>
-                  <td height="20">&nbsp;</td>
-                </tr>
-	    <tr>
-                  <td bgcolor="#F66118"><img src="images/spacer.gif" height="1" width="1"></td>
-                </tr>
-		 <tr>
-                  <td height="20">&nbsp;</td>
-                </tr>
-
-                 <tr>
-                  <td width="100%" colspan="7" align="center" class="link" style="text-align:center"><a class="privacy" href="http://www.spicejet.com">home</a> <img src="images/bot-divider.gif"> <a class="privacy" href="privacy.asp">privacy policy</a> <img src="images/bot-divider.gif" width="12" height="12"> <a class="privacy" href="tnc.asp">terms &amp; conditions</a>
-                    <!--		<img src="images/bot-divider.gif" width="12" height="12"> 
-		<a href="charter.asp" class=privacy>citizen's charter</a>-->
-                    <img src="images/bot-divider.gif"> <a class="privacy" href="contactus.asp">contact us</a> 
-                          <img src="images/bot-divider.gif"> <a class="privacy" href="spaces.asp">advertise with us</a>  <img src="images/bot-divider.gif">
+		 
+	 </div>
       
-<a class="privacy" href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=AG">travel agencies</a>
-<img src="images/bot-divider.gif"> 	
-<!--<A class=privacy 
-      href="http://hotels.spicejet.com">spiceJethotels</A>
-<IMG src="images/bot-divider.gif">-->
-<!--<A class=privacy 
-      href="http://www.spicesoup.com" target=_blank>spiceSoup</A>
-<IMG src="images/bot-divider.gif">-->
-<a class="privacy" href="careers.asp">careers</a>
-<img src="images/bot-divider.gif">
-<a class="privacy" href="feedback.asp">feedback</a> <img src="images/bot-divider.gif"> 
-<a class="privacy" href="sitemap.asp">sitemap</a>
-                    <!--img src="images/bot-divider.gif" width="12" height="12"> 
-		<a href="javascript:goLive();" class=privacy><b>LiveChat</b></a--></td>
-                </tr>
-                  <tr>
-                  <td height="15">&nbsp;</td>
-                </tr>
-                <tr>
-                  <td class="copy" align="middle" colspan="7" style="color:#000000">This site is best viewed with Internet Explorer 5.5 or higher.&nbsp;LINKING, FRAMING, MIRRORING, SCRAPING OR DATA-MINING <br>STRICTLY PROHIBITED.</td>
-                </tr>
-           
-                <tr>
-                  <td class="copyred" align="middle" colspan="7" style="color:#000000"><b><span style="color:#FF9A00;">Notification:</span> We log the IP addresses of the visitors on our website
-                    for security reasons.Your IP is :<span style="color:#FF9A00;"> 67.202.41.3</span>  </b></td>
-                </tr>
-                <tr>
-                  <td class="copy" align="middle" colspan="7" style="color:#000000; padding-bottom:8px">© Copyright SpiceJet 2007.<br>
-© 2004 Navitaire Inc. All Rights Reserved. </td>
-                </tr>
- 
-					</tbody></table>
 
+
+		<!--header end-->
+		<div id="middleInnerContent">
+			<h2>
+				spiceJet privacy policy</h2>
+			<div class="defaultPage">
+				<p>
+					We, at SpiceJet, value the relationship we have with our customers and web site
+					visitors, and are committed to responsible information handling practices. We take
+					the privacy of our customers very seriously and want you to feel comfortable whenever
+					you visit our web site.
+				</p>
+				<p>
+					<b>Notice of Information Practices</b><br><br>
+					SpiceJet collects two types of information about visitors to its sites: (1) personally-identifiable
+					information and (2) aggregate information that can’t be used to identify a particular
+					visitor (see "Cookies" section below). SpiceJet collects personally identifiable
+					information only when you specifically give it to us; for example, if you make a
+					booking or create a guest profile. We do not disclose this information to third
+					parties except as necessary to provide service(s) or carry out the transaction(s)
+					you have requested and to operate SpiceJet sites.
+				</p>
+				<p>
+					<b>Protecting Your Personal Information</b><br><br>
+					We recognize industry standards and employ security safeguards to protect personally
+					identifiable information from unauthorized access and misuse. You should understand
+					that the open nature of the Internet is such that data may flow over networks without
+					security measures and may be accessed and used by people other than those for whom
+					the data is intended. We do not disclose the personally identifiable information
+					that you provide us to third parties, except as necessary to provide the product
+					or service you have specifically requested.</p>
+				<p>
+					<b>Common Web Technologies</b><br><br>
+					We employ common web technologies that help to manage our web site, among them:
+					</p><ul class="ulBullets">
+						<li><b>Cookies –</b> A "cookie" is a name for tokens of information that our web site
+							may provide to your browser, which is used only by our web sites while you are at
+							those web sites. SpiceJet.com uses cookies for a variety of purposes. We use cookies
+							to help us better understand web site usage in the aggregate so that we know what
+							areas of our site users prefer. We also use cookies to simplify your data entry
+							for some of our online forms. If you simply want to browse, you do not have to accept
+							cookies from our site. Should you decide, however, that you would like to register
+							and login to special areas of the web site, and you have modified your browser settings
+							not to accept cookies, you will need to re-set your browser to accept the cookies
+							that we send it. Otherwise, you may not be able to participate in certain areas
+							of the web site. Most browsers are defaulted to accept and maintain cookies. </li>
+						<li><b>Web Site Usage Data –</b> With or without cookies, our web site keeps track of
+							usage data, such as the source address that a page request is coming from (i.e.,
+							your IP address, domain name), date and time of the page request, the referring
+							web site (if any), and other parameters in the URL (e.g., search criteria). We use
+							this data to better understand web site usage in the aggregate so that we know what
+							areas our web site users prefer (e.g., based on the number of visits to those areas).
+							This information is stored in log files and used for aggregated and statistical
+							reporting. It is not attributed to you as an individual. </li>
+						<li><b>Links to Third Party Sites –</b> Our web sites often provide links to third party
+							web sites, such as those of our business partners and online advertisers. You should
+							review their privacy policies to learn more about what, why, and how they collect
+							and use personally identifiable information.</li>
+						<li><b>Links to External Sites –</b> Our privacy policy only applies to the SpiceJet.com
+							network. It does not apply to non-network sites that you connect to from our site.
+							We recommend that you read their privacy policy to understand how they manage personal
+							information. We choose our partners and sponsors carefully. However, we are not
+							responsible for the content or practices of web sites operated by third parties
+							that are linked to our sites. These links are provided as a service to our users.
+							Unless otherwise stated, they do not constitute our endorsement, sponsorship or
+							approval of their content, policies or practices.</li>
+					</ul>
+				<p></p>
+				<p>
+					<b>General</b><br><br>
+					If we change our information handling practices or other privacy
+					aspects, we will give you as much notice as possible prior to implementation. In
+					rare cases, just like with any company or person, we may need to disclose certain
+					information to comply with a valid legal process, such as a court order, subpoena
+					or search. We also may choose to establish or exercise our legal rights or defend
+					against legal claims.</p>
+			</div>
+				<!-- footer-->
+  <div id="footer" align="center">
+<div class="links">
+      <a href="home.asp">home</a> 
+      |
+      <a href="privacy.asp">privacy policy</a> 
+       |
+      <a href="tnc.asp">terms &amp; conditions</a> 
+       |
+      <a href="contactus.asp">contact us</a> 
+       |
+      <a href="spaces.asp">advertise with us</a> 
+       |
+      <a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=AG">travel agencies</a> 
+       |
+      <a href="careers.asp">careers</a> 
+       |
+      <a href="feedback.asp">feedback</a> 
+       |
+      <a href="sitemap.asp">sitemap</a> 
+	<a href="JavaScript:Verifysite()"><img align="right" alt="VeriSign" id="verisign" src="images/verisign.gif" class="verisign" style="float: right;margin-top:-20px; *margin-top:-40px"></a>
+</div>
+
+<div> This site is best viewed with Internet Explorer 5.5 or higher. LINKING, FRAMING, MIRRORING, SCRAPING OR DATA-MINING STRICTLY PROHIBITED. </div>
+<div> <b><span style="color: rgb(255, 154, 0);">Notification:</span> We log the IP addresses of the visitors on our website
+      for security reasons.Your IP is :<span style="color:#FF9A00;"> 67.202.15.176</span> </b> </div>
+<div>© Copyright SpiceJet 2007.</div>
+</div>
+</div>
+</div>
+
+  <script type="text/javascript">
+
+var Logindropdown = new Spry.Widget.Accordion("Logindropdown");
+
+</script>
 <script type="text/javascript">
+
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :"http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try{
@@ -399,11 +492,16 @@ pageTracker._setAllowHash(false);
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
-		</td></tr>
-		
-	</tbody></table>
+
+<script language="javascript">
+ function Verifysite()
+{
+window.open("https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=book.spicejet.com&lang=en","Info","height=435,width=540,scrollbars=1,resizable=yes,left=0,top=0,toolbar=no,menubar=no,location=yes")
+}
+</script>
+
+		</div>
+	
 
 
-
-
-</td></tr></tbody></table></div></body></html>
+</body></html>
