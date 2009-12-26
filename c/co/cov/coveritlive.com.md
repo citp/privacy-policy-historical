@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626235023id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226181808id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
 
 # COVERITLIVE.COM - Privacy Policy
+
+From time to time we may revise this Privacy Policy. If we make revisions that change the way we collect or use your information, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Privacy Policy. Therefore, you should review our Privacy Policy periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your personally identifiable information, your information will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, such changes.
 
 This is the Privacy Policy of Altcaster Inc. for its website Coveritlive.com. 
 
