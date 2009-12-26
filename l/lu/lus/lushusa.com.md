@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202434id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226233905id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.*
 
 # LUSH Cosmetics: Customer Care > Privacy Policy
 
@@ -81,3 +81,8 @@ This page will be updated if information about the collection and use of your pe
 ## Changes to this Privacy Policy
 
 LUSH may update this privacy policy in the future. We will notify you about material changes to this privacy policy by placing a prominent notice on our website. All changes will remain in compliance with federal and provincial privacy legislation.
+
+*From 6am (PST) December 26, 2009, buy any holiday item or soap and get two products of equal or lesser value free and/or buy a holiday pre-wrapped gift or a year round pre-wrapped gift and get one of equal or lesser value free. Offer applies only to holiday items, holiday retro products, soap, holiday pre-wrapped gifts, pre-wrapped year round gifts (made before December 1, 2009): all other products, Retro soaps, gift cards, and gift wrapping services are excluded. Offer limited to available inventory while supplies last. No promo code required. Customers will automatically be prompted to select free product (s) during the check out process. Maximum of 10 free items per order. We reserve the right to make substitutions for free products. No rainchecks. Product availability may vary over the course of the promotion. Offer limited to the web and phone orders only. Not valid for purchases in LUSH shops or prior purchases. All products eligible for the boxing day promotion will not be available for shipping until January 5, 2010. Only Standard shipping is available. 
+
+  
+
