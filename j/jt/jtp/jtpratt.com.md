@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the jtpratt.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602042546id_/http%3A//www.jtpratt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtpratt.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226185907id_/http%3A//www.jtpratt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JTPRATT's Blogging Mistakes
-
-### **[Home](http://www.jtpratt.com/) » Privacy Policy**
-
-  
- 
-
-1,460 views  author: admin  
-
-
-  
-
 
 **JTPRATT's Blogging Mistakes** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
