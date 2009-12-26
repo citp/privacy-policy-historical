@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyarcade.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627201327id_/http%3A//www.dailyarcade.net/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyarcade.net privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226154010id_/http%3A//www.dailyarcade.net/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
-# Free Flash Games! - DailyArcade.net - Privacy Policy
+# Privacy Policy // DailyArcade.net
 
 CREATIVE ENTERTAINMENT SOLUTIONS, LLC. PRIVACY POLICY
 
