@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petsociety.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626101356id_/http%3A//www.playfish.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsociety.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226024710id_/http%3A//www.playfish.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Playfish - Social Games
+# Playfish: Play Social games with your friends on Facebook and more
 
 ### 1\. SCOPE
 
