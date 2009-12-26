@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tombola.co.uk privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908015556id_/http%3A//www.tombola.co.uk/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226120040id_/http%3A//www.tombola.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
-# tombola - Privacy Policy
+# tombola – Privacy Policy
 
 **Privacy Policy** The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information.
 
