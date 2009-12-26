@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
@@ -24,11 +24,11 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
   * A link from DesertUSA to your existing Web site 
   * Your own DesertUSA Web Page
-  * A [Banner Ad ](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
+  * A [Banner Ad ](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -57,11 +57,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
-If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
 
-If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20090422211413id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20091226030855id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
@@ -89,6 +89,8 @@ What are cookies and why do we use them? A cookie is a unique number that is pro
 While "cookies" are required by DesertUSA.com to make an online purchase in our store, they are not required for DesertUSA.com to deliver you content on all Web pages outside of the store (Trading Post).
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](mailto:dusa_feedback@desertusa.com?subject=DesertUSA) to email us.
 
 **Surveys and Order Forms  
 **  
