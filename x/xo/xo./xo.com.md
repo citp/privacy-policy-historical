@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185729id_/http%3A//xo.com/about/policy/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226082755id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # XO Communications - XO| Privacy Policy
 
@@ -28,19 +28,19 @@ Information disclosed in a public space, including on any bulletin board, chat r
 
 ### B.      Information Collected from Customers
 
-      _1.       Customer Information Collected by XO_
+#### 1.      Customer Information Collected by XO 
 
 When enrolling for or purchasing services from XO, or participating in a business referral program, Customers may be required to provide some or all of the following information in order to establish an account and order services: Name; Service Delivery Location/Address; Billing Address; Account Number; Credit card number; Phone or Fax Number; and Email Address. For account security, verification or tax purposes, XO may also request: Date of birth, Social Security Number or Driver's license number of the person placing the order or making a service request. For corporate accounts, XO may also request the Company/Customer name, Federal Tax ID, and other information a company Customer/employer may ask XO to collect, such as purchase order number, employee number and job title of the individual responsible for business account administration.
 
-      _2\. How XO Uses Customer Information_
+#### 2\. How XO Uses Customer Information
 
 XO needs the Customer information it collects from telephony and data Customers to process orders, provide and bill for services. XO may also share necessary information with outside parties, such as third party vendors or shipping companies, to complete an order.
 
 In the normal course of providing local and long distance telephone services, XO collects and maintains this information which, when matched with detailed Customer call activity, calling patterns, class or type of service, technical characteristics, long distance and local service billing records, directory assistance charges, and other information is known under Federal Communication Commission ("FCC") regulations as Customer Proprietary Network Information ("CPNI").
 
-Absent any restrictions on our use of CPNI or instructions from you otherwise, XO may use Customer information and/or CPNI to provide information about additional services and products offered by the XO family of companies, XO authorized agents, and other goods and services providers with whom XO has relationships and whose offerings might be of interest to Customers. XO will not, however, sell or trade CPNI or other contact information unless we are authorized by a Customer or legally required to do so. You may update your contact information and/or request that XO refrain from using your CPNI or other contact information for commercial purposes by contacting your Customer Care representative (information on contacting Care can be found at [http://www.xo.com/forms/Campaign/Care/ContactCustomerCare/ContactCustomerCare.aspx](https://web.archive.org/forms/Campaign/Care/ContactCustomerCare/ContactCustomerCare.aspx). Restricting use of CPNI or opting out of receiving commercial communications from XO will not eliminate all XO marketing or other contacts about the Services provided to a Customer. Additionally, XO and its agents can and will use Customer contact information to get in touch with Customers if XO has trouble processing an order or needs to contact a Customer about a service or billing related matter. XO may also, where permitted by law or authorized by a Customer, provide this information to credit bureaus, or provide information and/or sell receivables to collection agencies, to obtain payment for XO-offered products and services. 
+Absent any restrictions on our use of CPNI or instructions from you otherwise, XO may use Customer information and/or CPNI to provide information about additional services and products offered by the XO family of companies, XO authorized agents, and other goods and services providers with whom XO has relationships and whose offerings might be of interest to Customers. XO will not, however, sell or trade CPNI or other contact information unless we are authorized by a Customer or legally required to do so. You may update your contact information and/or request that XO refrain from using your CPNI or other contact information for commercial purposes by contacting your Customer Care representative (information on contacting Care can be found by  [clicking here](http://www.xo.com/forms/Campaign/Care/ContactCustomerCare/ContactCustomerCare.aspx). Restricting use of CPNI or opting out of receiving commercial communications from XO will not eliminate all XO marketing or other contacts about the Services provided to a Customer. Additionally, XO and its agents can and will use Customer contact information to get in touch with Customers if XO has trouble processing an order or needs to contact a Customer about a service or billing related matter. XO may also, where permitted by law or authorized by a Customer, provide this information to credit bureaus, or provide information and/or sell receivables to collection agencies, to obtain payment for XO-offered products and services. 
 
-      _3\. Directory Information and Caller ID_
+#### 3\. Directory Information and Caller ID
 
 Customers that subscribe to XO local telephone service are given the opportunity to request that their name, number and address be or not be published in directories, be made available through directory assistance or appear in "Yellow Pages" or other similar business directories. Such requests may require payment of additional fees. Please contact your local XO service representative for more information. Telephone service Customer's name and number may be, where available, transmitted and displayed on a Caller ID device unless caller has elected to block such information. Please note that Caller ID Blocking does not prevent the display of your number when dialing certain business numbers, 911, 900 numbers, or toll-free 800, 888, 877.
 
@@ -64,7 +64,6 @@ Protecting the privacy of the very young is uniquely important, particularly on 
 
 **rev. 09/28/05      **
 
-Should you have any questions about this policy or your information held by XO, please contact the appropriate Customer Care representative. Information on contacting Care can be found at [http://www.xo.com/forms/Campaign/Care/ContactCustomerCare/ContactCustomerCare.aspx](https://web.archive.org/forms/Campaign/Care/ContactCustomerCare/ContactCustomerCare.aspx). We will gladly address any questions you may have.   
-XO Customer Care  
+Should you have any questions about this policy or your information held by XO, please contact the appropriate Customer Care representative. Information on contacting Care can be found by [clicking here](https://web.archive.org/forms/Campaign/Care/ContactCustomerCare/ContactCustomerCare.aspx). We will gladly address any questions you may have.  
   
 ---|---
