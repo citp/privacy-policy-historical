@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624145057id_/http%3A//stockezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226155221id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
 
 # Stockezy | Bullwise. Bearaware. | India's 1st Social Investing Community.
 
