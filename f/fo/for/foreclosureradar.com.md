@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625045122id_/http%3A//www.foreclosureradar.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226023757id_/http%3A//www.foreclosureradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ForeclosureRadar.com
+# Privacy Policy | ForeclosureRadar
 
 ## Privacy Policy
 
-ForeclosureRadar understands that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by ForeclosureRadar.
+ForeclosureRadar understands that privacy is important. This Privacy Policy applies to all of the  
+products, services and websites offered by ForeclosureRadar.
 
 ## Information Collection and Use
 
@@ -62,7 +63,7 @@ This Privacy Policy applies to any web sites and services that are owned and ope
 
 ## Information Security
 
-The security of your information is important to us. When you enter sensitive information (such as a credit card number) we encrypt that information using secure socket layer technology (SSL). We follow commercially accepted industry standards to protect the personal information submitted to us. Nonetheless, no method of transmission over the internet, or electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website please email us at info@foreclosureradar.com.
+The security of your information is important to us. When you enter sensitive information (such as a credit card number) we encrypt that information using secure socket layer technology (SSL). We follow commercially accepted industry standards to protect the personal information submitted to us. Nonetheless, no method of transmission over the internet, or electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website please email us at [info@foreclosureradar.com](mailto:info@foreclosureradar.com).
 
 ## Accessing and Updating Personal Information
 
@@ -70,22 +71,26 @@ ForeclosureRadar will make good faith efforts to provide you with access to your
 
 Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address:
 
-ForeclosureRadar  
-14850 Hwy 4, #290  
+ForeclosureRadar
+
+14850 Hwy 4, #290
+
 Discovery Bay, CA 94514
 
 This request may be made only once per calendar year. ForeclosureRadar reserves the right not to respond to requests submitted other than to the address specified in this paragraph.
 
 ## Changes to This Policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without providing you an opportunity to opt-out, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without providing you an opportunity to opt-out, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant,we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
 
 ## Contact Us
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or by mail at:
 
-ForeclosureRadar  
-14850 Hwy 4, #290  
+ForeclosureRadar
+
+14850 Hwy 4, #290
+
 Discovery Bay, CA 94514
 
 Privacy policy effective from 4/5/2008.
