@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net-games.biz privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604095422id_/http%3A//www.net-games.biz/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-games.biz privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226143210id_/http%3A//www.net-games.biz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
