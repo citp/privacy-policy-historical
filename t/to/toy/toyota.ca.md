@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205826id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226153646id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
 
 # TOYOTA CANADA : Privacy Policy
 
