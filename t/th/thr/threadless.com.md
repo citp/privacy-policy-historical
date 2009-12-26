@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528072154id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226091759id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
 
 # Threadless graphic t-shirt designs; cool & funny t-shirts weekly! Tees designed by the community.
 
