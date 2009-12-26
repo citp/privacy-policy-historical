@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416042930id_/http%3A//www.classmarker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226231209id_/http%3A//www.classmarker.com/privacy.php) for the most accurate reproduction.*
 
 # Online testing Privacy. Online testing ClassMarker
 
@@ -54,3 +54,5 @@ New versions will be posted on this web site, so please check back periodically 
 If you have any queries on our privacy policy please send your query via our [contacts page](https://web.archive.org/contactus.php "contacts page"). 
 
 [Go to homepage](https://web.archive.org/ "Go to homepage")
+
+[](http://www.globalsign.com/ssl/ "SSL")
