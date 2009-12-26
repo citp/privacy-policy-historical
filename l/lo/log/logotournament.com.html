@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the logotournament.com privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624043659id_/http%3A//www.logotournament.com/help/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logotournament.com privacy policy that was archived on 2009-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226150832id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://logotournament.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="style/power.css" type="text/css">
-<script src="javascript/utils.js" type="text/javascript" language="javascript"></script>
+<link rel="stylesheet" href="style/power.css?v=10" type="text/css">
+<script src="javascript/utils.js?v=2" type="text/javascript" language="javascript"></script>
 <script src="javascript/xml_http_request.js" type="text/javascript" language="javascript"></script>
 <script src="javascript/power.js" type="text/javascript" language="javascript"></script>
 
@@ -38,7 +38,7 @@
 </div>
 <div class="header">
 <div class="content_header">
-<span>Help &amp; Frequently Asked Questions</span><span class="subtitle"></span>
+<span id="content_title">Help &amp; Frequently Asked Questions</span><span class="subtitle" id="content_subtitle"></span>
 </div>
 <div class="header_ajax_indicator"><img id="ajax_indicator" src="images/ajax_indicator.gif" alt="AJAX" style="width: 43px; height: 11px;visibility: hidden;"></div>
 </div>
@@ -85,7 +85,7 @@
 
 <p><strong>What we do with it</strong></p>
 <ul>
-<li>We will use your email address to update you on site events such as new contests, or receiving a private message from another user.  We will never share your email with any third parties.  Passwords are MD5 encrypted and not even site admins can view them.</li>
+<li>We will use your email address to update you on site events such as new contests, or receiving a private message from another user.  We will never share your email with any third parties.  Passwords are MD5 encrypted and not even LogoTournament Staff can view them.</li>
 <li>We will never share your business or real name, we use this to generate a basic contract to transfer the ownership rights of the logo from designer to contest holder when the contest prize is paid.</li>
 <li>Your location, profile information, and contest information is viewable publically on the site.</li>
 <li>We use information generated form Google Analytics to learn more about site visitors, and to improve the site based on these findings.</li>
@@ -127,24 +127,29 @@ preload_images(
 'images/header/my_account_on.gif',
 'images/header/help_on.gif'
 );
+help_init();
+https.indicator = document.getElementById("ajax_indicator");
 
-
-YAHOO.namespace("tooltips");
+}
+var tooltips=new Array();
+function help_init(){
+for (var i=0;i<tooltips.length;i++){
+tooltips[i].destroy();
+}
+tooltips=new Array();
 var helps = document.getElementsByTagName("img");
 for (var i=0;i<helps.length;i=i+1) {
         if (helps[i].src.indexOf("help_icon.gif")!=-1) {
         if (helps[i].id=="") helps[i].id="help"+i;
-new YAHOO.widget.Tooltip("tooltip"+i, { context: helps[i].id });
+tooltips.push(new YAHOO.widget.Tooltip("tooltip"+i, { context: helps[i].id }));
         }
 }
-https.indicator = document.getElementById("ajax_indicator");
-
 }
 
 /*]]>*/</script>
 
 <!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->
-<div id="citisM" style="z-index:100;position:absolute"></div><div id="sdtisM" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/logotournament/safe-monitor.js?ps_h=tisM&amp;ps_t=1580438603145"></script></div><script type="text/javascript">var setisM=document.createElement("script");setisM.type="text/javascript";var setisMs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/logotournament/safe-monitor.js?ps_h=tisM\u0026ps_t="+new Date().getTime();setTimeout("setisM.src=setisMs;document.getElementById('sdtisM').appendChild(setisM)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=logotournament"><img src="http://image.providesupport.com/image/logotournament.gif" border="0" alt=""/></a></div></noscript>
+<div id="citisM" style="z-index:100;position:absolute"></div><div id="sdtisM" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/logotournament/safe-monitor.js?ps_h=tisM&amp;ps_t=1580438601642"></script></div><script type="text/javascript">var setisM=document.createElement("script");setisM.type="text/javascript";var setisMs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/logotournament/safe-monitor.js?ps_h=tisM\u0026ps_t="+new Date().getTime();setTimeout("setisM.src=setisMs;document.getElementById('sdtisM').appendChild(setisM)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=logotournament"><img src="http://image.providesupport.com/image/logotournament.gif" border="0" alt=""/></a></div></noscript>
 <!-- END ProvideSupport.com Visitor Monitoring Code -->
 
 <script type="text/javascript">
