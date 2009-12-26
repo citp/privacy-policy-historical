@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625122825id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226152718id_/http%3A//www.machinefinder.com/ww/en-US/privacy) for the most accurate reproduction.*
 
 # John Deere - Privacy and Legal
 
