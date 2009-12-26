@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422002819id_/http%3A//www.americanmusical.com/content--id-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226215640id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
 
 # American Musical Supply-Musical Instruments, Guitars, Amps, Mics, Cables & Recording Studio Gear
 
@@ -7,25 +7,25 @@ At American Musical Supply, we are committed to protecting your privacy. We use 
 
 **What information do we collect? And how do we use it?**
 
-  * When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and notify you of your order status.
-  * If you apply for financing, we may gather additional information, such as your social security number, for processing the application and complying with applicable laws and regulations.
-  * When you enter a contest or other promotion, we ask for your name, address, and e-mail address so we can enter you in the contest and notify the winners.
-  * We personalize your shopping experience by using your purchases to formulate our recommendations about the products and merchandise that may interest you. We also monitor customer traffic patterns and site usage to assist in the design and layout of our website.
-  * We can also use the information collected to notify you about important changes to the web site, new services, and special offers we think you'll find valuable.
-  * Your IP address is used to help identify you and your shopping cart. We may also use your IP address to help diagnose problems with our server, and to administer our web site.
+  * When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and notify you of your order status. 
+  * If you apply for financing, we may gather additional information, such as your social security number, for processing the application and complying with applicable laws and regulations. 
+  * When you enter a contest or other promotion, we ask for your name, address, and e-mail address so we can enter you in the contest and notify the winners. 
+  * We personalize your shopping experience by using your purchases to formulate our recommendations about the products and merchandise that may interest you. We also monitor customer traffic patterns and site usage to assist in the design and layout of our website. 
+  * We can also use the information collected to notify you about important changes to the web site, new services, and special offers we think you'll find valuable. 
+  * Your IP address is used to help identify you and your shopping cart. We may also use your IP address to help diagnose problems with our server, and to administer our web site. 
 
 **How does AMS protect customer information?**  
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
 
 **We also follow these additional principles of Privacy:**
 
-  1. We do not use any information about pages you visit on our site or the Web, and we do not give it out to others.
-  2. We do not give out your telephone number, credit card information, or screen names, unless you authorize us to do so. And we give you the opportunity to correct your personal contact and billing information at any time.
-  3. We may use information about the types of products you buy from us to make other marketing offers to you, unless you tell us not to. We do not give out this purchase data to others.
-  4. We give you choices about how AMS uses your personal information.
-  5. We take extra steps to protect the safety and privacy of children.
-  6. We use secure technology, privacy protection controls and restrictions on employee access in order to safeguard your personal information.
-  7. We keep you informed on this page about our privacy policies.
+  1. We do not use any information about pages you visit on our site or the Web, and we do not give it out to others. 
+  2. We do not give out your telephone number, credit card information, or screen names, unless you authorize us to do so. And we give you the opportunity to correct your personal contact and billing information at any time. 
+  3. We may use information about the types of products you buy from us to make other marketing offers to you, unless you tell us not to. We do not give out this purchase data to others. 
+  4. We give you choices about how AMS uses your personal information. 
+  5. We take extra steps to protect the safety and privacy of children. 
+  6. We use secure technology, privacy protection controls and restrictions on employee access in order to safeguard your personal information. 
+  7. We keep you informed on this page about our privacy policies. 
 
 **What about "cookies"?**  
 "Cookies" are small pieces of information stored by your browser on your computer's hard drive. Our cookies contain NO personally identifying information, but they do enable us to provide personalized features such as "My Account" and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them.
