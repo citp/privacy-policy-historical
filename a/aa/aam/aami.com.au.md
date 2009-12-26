@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aami.com.au privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518013452id_/http%3A//www.aami.com.au/customer-service/privacy-terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aami.com.au privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226051054id_/http%3A//www.aami.com.au/customer-service/privacy-terms.aspx) for the most accurate reproduction.*
 
 # AAMI - Security and Privacy Policy
 
