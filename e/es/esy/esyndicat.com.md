@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623141621id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227003643id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script
 
@@ -30,4 +30,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-www.submit-space.com is an awesome success thanks to your software. Clients are getting excellent link backs.
+After having a few trouble's installing eSyndiCat, I visited the Support Forum. I was so impressed how well it was all handled. They had me up and running in no time. Good job guys keep up the good work. 
