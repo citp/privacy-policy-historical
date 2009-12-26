@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunlife.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627203947id_/http%3A//www.sunlife.com/global/v/index.jsp%3Fvgnextoid%3Dca0156e4674bc110VgnVCM1000009b80d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226160416id_/http%3A//www.sunlife.com/global/v/index.jsp%3Fvgnextoid%3Dca0156e4674bc110VgnVCM1000009b80d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
 
 # Sun Life Financial - Privacy
 
@@ -26,7 +26,7 @@ We are in the business of maintaining long-term relationships with our customers
 Members of the Sun Life Financial group of companies may have adopted a Privacy Policy or a Privacy Code applicable to your jurisdiction or to the product or service in which you have an interest. In order to access the Privacy Policy or Privacy Code applicable to you, select one of the following links:
 
   * [Canada](http://www.sunlife.ca/)
-  * [USA](http://www.sunlife-usa.com/)
+  * [USA](http://www.sunlife.com/us/)
   * [Hong Kong](http://www.sunlife.com.hk/)
 
 
