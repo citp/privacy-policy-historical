@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketdock.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417192501id_/http%3A//rocketdock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketdock.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226055512id_/http%3A//rocketdock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RocketDock.com
 
