@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624043659id_/http%3A//www.logotournament.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226150832id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Help & Frequently Asked Questions
 
@@ -14,7 +14,7 @@ We take your privacy seriously.
 
 **What we do with it**
 
-  * We will use your email address to update you on site events such as new contests, or receiving a private message from another user. We will never share your email with any third parties. Passwords are MD5 encrypted and not even site admins can view them.
+  * We will use your email address to update you on site events such as new contests, or receiving a private message from another user. We will never share your email with any third parties. Passwords are MD5 encrypted and not even LogoTournament Staff can view them.
   * We will never share your business or real name, we use this to generate a basic contract to transfer the ownership rights of the logo from designer to contest holder when the contest prize is paid.
   * Your location, profile information, and contest information is viewable publically on the site.
   * We use information generated form Google Analytics to learn more about site visitors, and to improve the site based on these findings.
