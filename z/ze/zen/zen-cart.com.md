@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zen-cart.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226155604id_/http%3A//www.zen-cart.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen-cart.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226033545id_/http%3A//www.zen-cart.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice, shopping cart software | Zen Cart Ecommerce Solution
+# Privacy Notice, ecommerce shopping cart software by Zen Cart ecommerce solution
 
 ## The Zen Cart™ Commitment To Privacy
 
