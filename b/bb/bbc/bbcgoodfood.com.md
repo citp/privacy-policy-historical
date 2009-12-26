@@ -1,69 +1,150 @@
-> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820112300id_/http%3A//www.bbcgoodfood.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226132927id_/http%3A//www.bbcworldwide.com/bbcmagswebsites-privacypolicy.html) for the most accurate reproduction.*
 
-# BBC Good Food | Privacy policy
+# bbcworldwidewebsites-privacypolicy - BBC Worldwide
 
-## BBC Good Food Privacy Policy
+## Privacy Policy & Cookies
 
-We are committed to protecting your personal information and will keep the information you entrust to us safely and securely. BBC Worldwide is registered under the Data Protection Act 1998 and will comply with that Act's provisions.
+### 1\. Introduction and General Terms
 
-  * ### How we collect and use information
+BBC Worldwide Limited ('BBCW') is committed to protecting your personal information when you are using BBCW services. We want our services to be safe and enjoyable environments for you to use. This Privacy Policy relates to our use of any personal information you provide to us.
 
-We collect personal information on our customers in various ways, including: magazine subscriptions; orders for products by telephone, post, the internet or e-mail; readers' offers; competition entry forms; or feedback, research or request forms. 
+In order to provide you with the full range of BBCW services, we are sometimes required to collect information about you.
 
-From time to time, we may use your personal details for these main purposes:- 
+This privacy policy explains the following:
 
-    1. to meet product orders or requests for services or information; to process payments; and to keep our records up-to-date;
-    2. to tell you by telephone, post or e-mail about special offers and current or new products that you may be interested in;
-    3. to enable other people or businesses to carry out our work on our behalf;
-    4. where you have given us your permission, to pass your information to carefully selected organisations to allow them to tell you about their special offers or products and services that may be of interest to you; and
-    5. to manage our competitions and contact the winners.
+  * what information BBCW may collect about you;
+  * how BBCW will use information we collect about you;
+  * whether BBCW will disclose your details to anyone else;
+  * when BBCW may use your details to contact you;
+  * your choices regarding the personal information you have provided to us;
+  * the use of cookies on BBCW websites and how you can reject these cookies.
 
-We may group together statistical information to understand more about our customers in order to improve our range of products and services and help manage our relationships with advertisers. When this is done, we only provide anonymous information and do not disclose personal details about any individuals. 
 
-To fulfil some of the above processes we may have to pass your information to other parts of the BBC group of companies which occasionally may be outside the European Union. They will, of course, treat your information with the same respect that we do. 
 
-  * ### How we apply our policy
+As set out above, BBCW is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
 
-In order to put our policy into practice, we follow seven guidelines:- 
+Our websites may contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information which you submit or which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-    1. We will ensure our systems are secure to protect your personal information from misuse;
-    2. We will respect your privacy in the way that we contact you, whether by post, telephone, e-mail or text message;
-    3. We will not hold your personal information for longer than is necessary;
-    4. We will not sell, trade or rent your personal information to other people or businesses unless we have your consent. With your consent, we will only share your information with carefully chosen, reputable and trustworthy third parties. 
-    5. We will comply promptly with any instructions from you to update your information or requests from you to see the information that we hold on you;
-    6. We will comply with lawful requests to disclose personal information to certain authorities (e.g. the police);
-    7. We may monitor and record any telephone calls to ensure we follow your instructions correctly and to improve our service.
-  * ### Children
+### 2\. What information will BBCW collect about me?
 
-If you are under 18, you must have your parent or guardian's permission before you provide personal information to us. We do not wish to collect any personal information without this permission. 
+When you sign up to participate in or receive a service from BBCW, such as newsletters, competitions, magazine subscriptions, ordering products, readers' offers, live chats, message boards, surveys or online registration we may ask for personal information about you. This can consist of information such as your name, e-mail address, postal address, telephone or mobile number or date of birth. Different services or webpages may ask for different personal information.
 
-We do not wish to collect any personal information from children under 13. Where we find that a person is under 13, then we will immediately tell them not to provide any personal information to us. 
+By entering your details in the fields requested, you enable BBCW and its service providers to provide you with the services you select.
 
-  * ### Our websites
+Please note that sometimes on particular services (e.g. chat forums) you may be asked to provide or you may volunteer additional personal information and sometimes sensitive personal information (e.g. your political opinions, religious beliefs, sex life or health).
 
-We may gather personal information from our own websites for use under this policy. We will comply with the BBC's Online Editorial Guidelines, available online at [www.bbc.co.uk/guidelines](http://www.bbc.co.uk/guidelines). 
+We may also use your IP address for some of our website services (see **section 3: How will BBCW use the information they collect about me?** and **section 12: Cookies Policy below** ).
 
-    * Cookies - during the course of your visit to our websites your computer may be issued with a cookie. A cookie is a text file which identifies your computer to our server. Cookies do not in themselves identify the individual user, just the computer used. We will not collect and store personal information using the cookie, although we may use a cookie to monitor your visit and ensure that you are presented with appropriate information. If you wish, you can prevent acceptance of cookies by your internet browser, although this will impair your use of our site. Further information on cookies is available online at: [www.aboutcookies.org](http://www.aboutcookies.org/).
-    * Links to other websites - our websites may include links to other non-BBC web sites. These are outside our control and not covered by this policy. If you access those sites via the links, use of those sites will be in accordance with the privacy policy of those site operators, which may differ from ours. 
-  * ### Accuracy and access to your personal information 
+### 3\. How will BBCW use the information they collect about me?
 
-    * You can always change the personal information that we hold and it is free to do so. If you wish to change any details then please write to us at the address below; or if you are an internet customer through your online account.
-    * You can request a copy of the personal information that we may hold by writing to us at the address below. Under the Data Protection Act, we may ask you to pay a £10 administration charge for this request).
-  * ### Changes to this statement
+BBCW will use your personal information for a number of purposes including the following:
 
-We may change this policy to keep up to date with changes in legislation and best practice. 
+  * for service administration purposes, which means that BBCW may contact you for reasons related to the service you have signed up for, as set out in **section 5: When will BBCW contact me?** below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
+  * to notify you of changes to our service;
+  * to contact you about a submission you have made to our websites or magazines, including any content you provide (follow the link to our Code of Conduct at the bottom of the main pages of our websites for more details about making online submissions);
+  * to personalise or improve the way BBCW content and advertising is presented to you online: 
+    * BBCW may collect your IP address (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) and place cookies (see **section 12: Cookies Policy** below) for the purpose of improving our sites and enhancing your user experience, sometimes including the display of selected ads which are appropriate to your browsing pattern. This information is not used to develop a personal profile of you;
+    * IP addresses may also be used to identify the location of users, the number of visits from different countries and also to block disruptive use;
+    * to analyse and improve the services offered by a BBCW website, e.g. to provide you with the most user-friendly navigation experience;
+  * See **section 12: Cookies Policy** below for further details of this activity by BBCW.
 
-  * ### Further information
-
-Further information about data protection is available online at the Information Commissioner's website: [www.ico.gov.uk](http://www.ico.gov.uk/). 
+  * to manage our competitions and contact the winners;
+  * to meet product orders or requests for services or information; to process payments; and to keep our records up to date;
+  * where you have specifically consented to be contacted for these purposes, to send you direct marketing by telephone, post or email about special offers and current or new products that you may be interested in;
+  * to enable other people or businesses to carry out work on our behalf; and
+  * where you have given us your permission, to pass your information to carefully selected organisations to allow them to tell you about their special offers or products and services that may be of interest to you.
+  * Where BBCW proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above.
 
 
 
 
-If you wish to contact us about this policy, please write to:-  
-the Company Secretary, BBC Worldwide Limited, Woodlands,   
-80 Wood Lane, London, W12 0TT 
+### 4\. Will BBCW share my personal information with anyone else?
 
+Generally, we will only use your information within the BBC Worldwide Group of companies (including BBC Worldwide Group companies which are situated outside the European Economic Area ("EEA"), such as Lonely Planet, which is based in Australia) in order to provide the service/product you have requested. We will not pass your information to other members of the BBC Worldwide Group for marketing purposes unless you have consented to this.
+
+We will only disclose your data to third party data processors with your consent or where we need to do so in order to provide a service. The data processors to whom we may pass your data will be BBC Worldwide Group companies and appropriately contracted third parties. Otherwise, we will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in **section 7: Offensive or inappropriate content on BBCW's websites** below.
+
+BBCW will require all third party data processors to whom your information is disclosed to comply strictly with its instructions and BBCW will require that they do not use your personal information for their own business purposes.
+
+Where we share your information with BBC Worldwide Group and third party companies which are situated outside the EEA we will ensure they treat your information with the same protection we do.
+
+### 5\. When will BBCW contact me?
+
+BBCW may contact you:
+
+  * in relation to the functioning of any service you have signed up for in order to ensure that BBCW can deliver the services to you;
+  * in relation to any contribution you have made to any BBCW website, message board or other service;
+  * where you have opted to receive newsletters or other correspondence;
+  * to invite you to participate in surveys about BBCW services (participation is always voluntary);
+  * to carry out obligations arising from any contracts entered into between you and BBCW; and
+  * for marketing purposes where you have specifically agreed to this (see **section 6: Will I be contacted for marketing purposes?** below).
+
+
+
+Our magazines or websites will give you detailed information about how BBCW will contact you in relation to specific services.
+
+### 6\. Will I be contacted for marketing purposes?
+
+BBCW won't contact you for marketing purposes, or promote new services to you unless you agree to be contacted for these purposes.
+
+### 7\. Offensive or inappropriate content on BBCW's websites
+
+If you post or send offensive, inappropriate or objectionable content anywhere on a BBCW website, or otherwise engage in any disruptive behaviour, BBCW may use your personal information to stop such behaviour.
+
+Where BBCW reasonably believes that you are or may be in breach of the law (e.g. because content you have posted may be defamatory), BBCW may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+
+### 8\. What if I am a user aged 16 or under?
+
+If you are aged 16 or under, please get your parent/guardian's permission before you provide personal information to BBCW. Users without this consent are not allowed to provide us with personal information.
+
+### 9\. How long will BBCW keep my personal information?
+
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with BBCW or BBCW's corporate retention schedule. If you wish to cancel your registration with any of BBCW's websites, you may do so by following the "unsubscribe" instructions on the relevant website. If you change your profile to opt-out of receiving communications, your record may stay on the system so we can ensure that we do not contact you in the future.
+
+Where you contribute to a BBCW service or website, BBCW will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+
+### 10\. Can I find out what personal information BBCW holds about me?
+
+Under the Data Protection Act you have the right to request a copy of the personal information BBCW holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+
+If you have any requests or questions about this or any other question about this Privacy Policy please see **section 13: Contacting BBCW about this Privacy Policy** at the bottom of this document.
+
+### 11\. Changes to BBCW's Privacy Policy
+
+This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any BBCW service. The date of the most recent revisions will appear at the bottom of this page.
+
+### 12\. Cookies Policy
+
+_a. What is a cookie?_
+
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website or third party service provider used by the website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website or third party service provider to access the cookies it has already sent to you, not the cookies sent to you by other sites or other third party service providers.
+
+Cookies record information about your online preferences and allow us to tailor the websites to your interests. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the BBCW features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
+
+_b. How does BBCW use cookies?_
+
+Information supplied by cookies can help us to analyse your profile when you visit and help us to provide you with a better user experience. For example: if on a previous visit to gardenersworld.com you requested the weather report for your area, then the next time you visited our cookie could enable us to recognise your machine and offer you the latest weather for your area without you having to re-enter your details.
+
+BBCW also uses a number of independent measurement, advertising and research companies. They gather information regarding the visitors to BBCW sites on our behalf using cookies, log file data and code which is embedded on our website. BBCW uses this type of information to help improve the services it provides to its users. BBCW strictly requires that third parties do not use any of this type of information for their own business or other purposes (see **section 4: Will BBCW share my personal information with anyone else?** above). Certain other areas of BBCW websites may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+
+_c. BBCW cookies and how to reject cookies?_
+
+A list of the main cookies that BBCW sets (and what each is used for) together with ways to minimise the number of cookies you receive can be found at:
+
+<http://www.bbcworldwide.com/bbcworldwideandmagswebsites-cookieslist.aspx>
+
+### 13\. Contacting BBCW about this Privacy Policy
+
+If you have any questions or comments about this Privacy Policy please contact:
+
+The Company Secretary  
+MC2 A6  
 BBC Worldwide Limited  
-Registered in England, no. 1420028  
-Registered office: Woodlands, 80 Wood Lane, London, W12 0TT 
+Media Centre  
+201 Wood Lane  
+London  
+W12 7TQ  
+United Kingdom  
+Email: [dataprotection@bbc.com](mailto:dataprotection@bbc.com)
+
+Last updated: 19th March 2009
