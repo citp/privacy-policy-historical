@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erevenueselect.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414003037id_/http%3A//erevenueselect.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erevenueselect.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227002332id_/http%3A//erevenueselect.com/disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -26,7 +26,7 @@ The author and publisher do not warrant the performance, effectiveness or applic
 
 All links are for information purposes only and are not warranted for content, accuracy or any other implied or explicit purpose.
 
-This electronic product is © copyrighted by Jason Parker. No part of this may be copied, or changed in any format, sold, or used in any way other than what is outlined within this ebook under any circumstances.
+This electronic product is © copyrighted by ES3 Marketing LLC. No part of this may be copied, or changed in any format, sold, or used in any way other than what is outlined within this ebook under any circumstances.
 
  **TERMS OF USE**
 
@@ -102,7 +102,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Viewer, visitor, member, subscriber or customer agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. **Florence, Florence County, South Carolina** In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Viewer, visitor, member, subscriber or customer agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. **Snellville, Gwinett County, Georgia** In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
@@ -112,11 +112,13 @@ Viewer, visitor, member, subscriber or customer agrees that the applicable law t
 
 _[**jason@printsalesman.com**](mailto:support@thiswebsite.com)_
 
-Jason Parker
+ES3 Marketing LLC  
 
-doing business as _[erevenueselect.com](http://www.thiswebsite.com/)_
 
-P.O. Box 7213, Florence SC, 29502
+doing business as ES3 Marketing LLC _[](http://www.thiswebsite.com/)_
+
+P.O. Box 393051, Snellville GA, 30039  
+
 
 **COPYRIGHT AND LICENSE**
 
@@ -220,7 +222,7 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on: **July 8** **th** **, 2008**
+This Privacy Policy was last updated on: **June 20** **th** **, 2009**
 
 **COPYRIGHT**
 
@@ -238,7 +240,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. P.O. Box 7213, Florence SC, 29502 In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. P.O. Box 393051, Snellville GA, 30039 In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
