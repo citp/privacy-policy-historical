@@ -1,50 +1,63 @@
-> *The following text is extracted and transformed from the wholesaledir.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614230346id_/http%3A//www.wholesaledir.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledir.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226085959id_/http%3A//www.wholesaledir.com/privacy_policy.html) for the most accurate reproduction.*
 
-# WHOLESALE DIRECTORY
+# 
 
-** » Why we gather information**  
-Since our inception, **WWW.WHOLESALEDIR.COM** has consistently provided our customers with quality goods and excellent customer service. We gather personal information to allow us to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of special offers and discounts.
+## Wholesale Directory - wwww.wholesaledir.com - Privacy Policy...
 
-** » What information we gather**  
-When you order from our Web site, we collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), category type (Software, Apparel , etc.), listing purchased, any relevant information. Information you enter is collected even if you cancel or do not complete an order.
+**Privacy Policy for** **The Wholesale Directory - www.wholesaledir.com** ****
 
-** » How we use the information we collect about you**  
-We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from **WWW.WHOLESALEDIR.COM** or other sites and companies that we own. In addition, we periodically make such information, including aggregated information, available to selected third parties including but not limited to, those who trade or rent information for direct marketing purposes. However, we do not make your email addresses available to third parties (except for subsidiaries, subcontractors or agencies acting on our behalf in compliance with this privacy policy), although we may do so in the future. If we do, we will first amend this policy. If you would like us to email you a notice when our privacy policy or terms of use change, please follow the instructions below. You may instruct us not to share information with third parties by following the instructions provided below.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us with the information provided at the bottom of this Privacy Policy. 
 
-** » How to limit the use of your information**  
-If you prefer not to have us provide information about you to third parties, please let us know by either:
+At www.wholesaledir.com, the privacy of our visitors is of extreme importance to us. Our Privacy Policy is Reviewed and Verified for Accuracy via Regular Basis. 
 
-  1. Writing us at:  
- **WWW.WHOLESALEDIR.COM**   
-P.O. Box 491950  
-Fort Lauderdale, FL 33349-1950
+We have outlined below what types of personal information are received and collected by www.wholesaledir.com and how it is used. ******_What Information We May Collect from Web Log Files_ -**
 
-  2. **[ Contact us online](http://www.wholesaledir.com/contact_us.html) **
+Like many other Web sites, our Wholesale Directory - www.wholesaledir.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
+Newsletters and Subscriptions of Services - "Opt-In" - Newsletters & Special Offers -   
+If a new or returning user to www.wholesaledir.com wishes to subscribe to our Newsletter or Special Email Product/Service Offers from our "Affiliated Content Network," we may additionally request and collect "A Visitor's" First/Last Name & Email Address. Out of respect for our users privacy, we always provide a way to opt-out of these communications. Additionally, we do not share, abuse or compromise any personal information "Opt-in" Email Newsletter/Special-Offer(s) Subscribers List(s).
 
+**_Paid Subscriptions, Memberships and Services_** -
 
+With respect to Online Payments and Billing Information: We have appropriate, up-to date and Tested Security measures in place via online secure payment gateway, as well as in our physical office facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. If you feel that this site is not following its stated information policy, you may contact us at the following email Address: Contact [at] wholesaledir.com. _**Cookies and Web Beacons**_ \-   
+www.wholesaledir.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-In addition, if you also prefer not to receive further product information and promotional mailings/emails from **WWW.WHOLESALEDIR.COM** and sites and companies we own based on information you provided to **WWW.WHOLESALEDIR.COM** , please indicate this in your instructions to us and please include your mailing address. Unless you indicate otherwise in the email or letter you send us, we will continue to provide you with information that we believe will interest you about our own products and promotions and those of other sites and companies we own.
+Additionally, several of the companies who may have "Products and Service(s) + Company Listings/Advertisements placed with in our extensive Wholesalers Directory - www.wholesaledir.com, may also use "Cookies" in order to gauge their sales promotions, market share and overall demographics of the visitors preferred or sent to their Web site.
 
-Your instructions will apply to information collected by **WWW.WHOLESALEDIR.COM** , not to information collected on other Web sites or companies owned by **WWW.WHOLESALEDIR.COM** If you are a user of any of those Web sites and wish to opt-out in a similar manner with respect to those sites, please go to those sites, click on the privacy policy link or banner and follow the instructions.
+You should know that third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served from this site. 
 
-Your instructions to limit the use of your information will be processed as soon as reasonably practicable.
+Google, as a third party vendor, uses cookies to serve contextual ads to the user  on our site. Google's use of the DART cookie enables it to serve contextual ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html). 
 
-** » How we use "cookies"**  
-A cookie is a small file stored on your computer by a Web site which gives you a numeric user ID and stores certain information about your activity on the site. We may use cookies to let us know that you are a prior customer and to provide certain features to you, for example to store information on your product selections as you shop on our site, but we do not store any personal information (except your name) or financial information about you using cookies.
+.:: Google, as a third party vendor, uses cookies to serve ads on www.wholesaledir.com.   
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.wholesaledir.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature, certain aspects of **WWW.WHOLESALEDIR.COM** , such as the shopping basket, will not function properly.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include such companies as....   
+Google Adsense   
+Commission Junction   
+Clickbank 
 
-** » Security**  
-Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.wholesalerc.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us.
+www.wholesaledir.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-** » Links**  
- **WWW.WHOLESALEDIR.COM** wants you to be aware that when you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.wholesalerc.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-** » Your consent and changes to this policy**  
-Subject to the above provisions, by using our Web site, you consent to the collection and use of information by us and the terms of this privacy policy. We may change our privacy policy from time to time and we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like notice of changes to the privacy policy or terms of use, contact us online.
+**  
+**
 
-** » Your comments**  
- **WWW.WHOLESALEDIR.COM** Welcomes feedback concerning its privacy policy. To send us your comments and questions, **[ Contact us online](https://web.archive.org/web/20090614230346id_/http%3A//www.wholesaledir.com/contact_us.html).**
+**
+
+Please feel free to contact us Directly with any additional questions, concerns and/or observations with respect to the Previously Mentioned Privacy Policy for The Wholesale Resource Center - www.wholesalerc.com. 
+
+**The Online Wholesale Directory - www.wholesaledir.com**
+
+**Contact [at] Wholesaledir.com**
+
+**7491 N. Federal Hwy. C-5 Suite 298**
+
+**Boca Raton, FL 33487**
+
+**561-498-5275 (Phone) - & \- 561-498-5905 (Fax)**
+
+**
