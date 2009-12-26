@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the sixdayweekend.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519084402id_/http%3A//www.sixdayweekend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixdayweekend.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227005702id_/http%3A//www.sixdayweekend.com/page-privacy-policy-3.html) for the most accurate reproduction.*
 
-# The Six Day Weekend - Escape the Rat Race and Start Living The Life You Want!
+# 6 Day Weekend by Sean Morrissy » The Six Day Weekend Privacy Policy
 
-## The Six Day Weekend Privacy Policy 
+## The Six Day Weekend Privacy Policy
 
-This is the web site of Triumvirate Media Pty Ltd 
+This is the web site of Triumvirate Media Pty Ltd
 
-We can be reached via e-mail at support@thesixdayweekend.com  
-
+ We can be reached via e-mail at support@thesixdayweekend.com
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
+ We collect the domain name and e-mail address (where possible) of visitors to our Web page, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
@@ -31,7 +30,6 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by , writing to us at the above address.
 
-  
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
