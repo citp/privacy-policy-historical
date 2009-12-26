@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602021426id_/http%3A//www.classcreator.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226192846id_/http%3A//www.classcreator.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Class Creator Privacy Policy
 
