@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626201107id_/http%3A//www.pmo.gov.sg/PrivacyStatement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226151230id_/http%3A//www.pmo.gov.sg/PrivacyStatement/index.htm) for the most accurate reproduction.*
 
 # Prime Minister's Office - Privacy Statement
 
