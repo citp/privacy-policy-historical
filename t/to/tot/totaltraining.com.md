@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417173022id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226044211id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
