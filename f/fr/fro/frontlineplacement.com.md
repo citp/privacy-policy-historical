@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627192222id_/http%3A//www.frontlineplacement.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226154627id_/http%3A//www.frontlineplacement.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Frontline Placement Technologies | Privacy Policy
 
