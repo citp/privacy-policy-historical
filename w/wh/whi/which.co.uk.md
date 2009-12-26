@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112401id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226162832id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Which? Utilities
 
