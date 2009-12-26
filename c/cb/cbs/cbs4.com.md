@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs4.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429042924id_/http%3A//cbs4.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs4.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226230446id_/http%3A//cbs4.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - cbs4.com
 
