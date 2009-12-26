@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627192222id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226145637id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,7 +25,7 @@ We use personal information collected via fastrology.co.uk to:
   * pass on to selected companies to provide you with other offers and promotions 
   * help other companies profile and extend their databases 
   * facilitate communication between yourself and others 
-  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData, Financial Connexions Ltd. (FSA 441723) and the Heart Research Institute. 
+  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData, Marketing Craze Ltd. and the Heart Research Institute. 
 
 
 
@@ -33,7 +33,7 @@ We currently only keep "sensitive data", as defined by the Data Protection Act 1
 
 ### Use of cookies
 
-We use "cookies" to identify you when you visit the fastrology.co.uk site and to build up a profile of our regular users. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Our use of cookies also allows members to be presented with a personalised version of the site. We will only read cookies from your cookie file placed there through your web browser's interaction with the fastrology.co.uk site. 
+We use "cookies" to identify you when you visit the fastrology.co.uk site and to build up a profile of our regular users. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Our use of cookies also allows members to be presented with a personalised version of the site. We will only read cookies from your cookie file placed there through your web browser's interaction with the fastrology.co.uk site. [ aboutcookies.org ](http://www.aboutcookies.org/)
 
 ### Use of session files
 
@@ -52,7 +52,11 @@ All personal, cookie and session ID information are made available to fastrology
 
 You have complete control over the use of your personal information by fastrology.co.uk. 
 
-We want the opportunity to make you offers and unless you are willing to agree to this you can't complete the surveys. However this permission can be revoked at any time. If you do decide to revoke it, then survey entries already made will remain in force. 
+We want the opportunity to make you offers and unless you are willing to agree to this you can't complete the surveys. However this permission can be revoked at any time through your account page or via an email unsubscribe link. If you do decide to revoke it, then survey entries already made will remain in force. 
+
+Consent to the transfer of your personal data to service providers acting for DMR who may be based outside the EEA and that DMR will take all reasonable required steps to ensure that your data and privacy rights continue to be protected 
+
+No data will be retained through the use of the "refer a friend" mechanism other than to notify the friend until that friend then decides to join and register with the site 
 
 Our site links to other web sites and we are not responsible for their data policies and procedures. 
 
@@ -62,4 +66,4 @@ We use 128 bit encryption technology for the transmission from you to us of fina
 
 ### Data Protection
 
-fastrology.co.uk is wholly owned by Data Media and Research Limited, which is registered under the 1998 Data Protection Act, ref Z4579096 and is a licensed credit broker (no. 437820) 
+fastrology.co.uk is wholly owned by Data Media and Research Limited, which is registered under the 1998 Data Protection Act, ref Z4579096 
