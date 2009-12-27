@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flylady.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620012403id_/http%3A//www.flylady.net/pages/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flylady.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227191829id_/http%3A//www.flylady.net/pages/Privacy.asp) for the most accurate reproduction.*
 
 # FlyLady.net: Privacy Policy
 
@@ -14,7 +14,7 @@
 > 
 >   4. **Children Under 18:** No children under the age of 18 should submit or post to FlyLady.net without their parent’s approval
 > 
->   5. **Yahoo! Groups:** Since we currently uses Yahoo! Groups' email system, please refer to [Yahoo Groups Privacy Statement](http://privacy.yahoo.com/privacy/us/) for their Privacy policy. 
+>   5. **BigTent:** Since we currently use the BigTent email system, please refer to [BigTent Privacy Statement](https://www.bigtent.com/privacy) for their Privacy policy. 
 > 
 >   6. **E-mail Lists are Opt-In:** Subscriptions to our e-mail list are opt-in and subscribers can opt-out at any time. Every e-mail sent to subscribers contains instructions on how to unsubscribe.
 > 
