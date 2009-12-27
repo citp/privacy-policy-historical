@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429153822id_/http%3A//www.wbresearch.com//PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227010237id_/http%3A//www.wbresearch.com//PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Worldwide Business Research - Privacy Policy
 
@@ -33,8 +33,8 @@ When you visit our site, a cookie (a very small text file) is placed on your mac
 
 This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of WBR's web sites. Cookies are also used in connection with the membership of our site and to view/access event presentations. If you choose to not have your browser accept cookies, you will be able to view the majority of our site, however you will not you be able to view restricted material you may be entitled to. 
 
-**Information Sharing: Who We Intend to Share Information With and Why**  
-We do not share, rent or sell our customer e-mail lists. We may share other contact information with other professional organisations (including our event sponsors/exhibitors) to promote similar products and services. If you do not want to make your details available please email [info@wbresearch.com](mailto:info@wbresearch.com) indicating either or both of the statements below: 
+**Information Sharing:**  
+We may share your email and other contact information with other professional organisations (including our event sponsors/exhibitors) to promote similar products and services. If you do not want to make your details available please email [info@wbresearch.com](mailto:info@wbresearch.com) indicating either or both of the statements below: 
 
   * **• "I do not wish to have my details made available to other organisations."**
   *  **• "I do not wish to receive information about WBR events or services."**
