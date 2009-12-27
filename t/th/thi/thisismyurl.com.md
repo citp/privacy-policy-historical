@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thisismyurl.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625122617id_/http%3A//www.thisismyurl.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisismyurl.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227140420id_/http%3A//www.thisismyurl.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Christopher Ross
+# Privacy Policy « Christopher Ross
 
-## Christopher Ross respects your privacy and security.
+## I respect your privacy and security.
 
 The web site is protected to ensure that your information is not lost, misused, or abused.
 
