@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tvlesson.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628081856id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlesson.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227180935id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.*
 
 # How to Videos on TVLesson | Instructions, Tutorials
 
-Updated as of February 1, 2007  
-To understand how we treat the information you give us as you use TVLesson, you should read this policy.
-
+Updated as of November 22, 2009  
+To understand how we treat the information you give us as you use TVLesson, you should read this policy.  
+  
 **Personal Information**  
 • Non-Account Activity. You can watch videos on TVLesson without having a TVLesson Account. You can also contact us about a particular video without having a TVLesson Account.  
 • Account-Related Activity. Certain other activities on TVLesson—like uploading videos, posting comments, flagging videos, or watching restricted videos—require you to have a TVLesson. We ask for some personal information when you create a TVLesson Account, including your email address and a password, which is used to protect your account from unauthorized access.   
@@ -31,14 +31,30 @@ TVLesson allows other companies, called third-party ad servers or ad networks, t
 TVLesson does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks TVLesson to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the TVLesson Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.  
 You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. TVLesson's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
+### Modifying Your Personal Information
+
+If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.
+
+### Our Policy Towards Children
+
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@twitter.com](mailto:privacy@twitter.com) [privacy@tvlesson.com](mailto:privacy@twitter.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+
+### Changes to this Policy
+
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [ http://tvlesson.com/privacy.php](http://twitter.com/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an  e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+  
 **More Information  
 **For more information about our privacy practices write to us at:
 
-[privacy@tvlesson.com  
-](mailto:privacy@tvlesson.com)11900 W. Olympic Boulevard, Suite 800  
-Los Angeles, CA 90064
+[ tshin@tvlesson.com](mailto:service@tvlesson.com)
 
-[service@tvlesson.com](mailto:service@tvlesson.com)  
-10 Pointe Drive Suite 150  
-Brea, CA 92821  
- 
+330 Pointe Dr. #250  
+Brea, CA 92821
+
+or
+
+[ privacy@tvlesson.com](mailto:privacy@tvlesson.com)
+
+11900 W. Olympic Boulevard, Suite 800  
+Los Angeles, CA 90064
