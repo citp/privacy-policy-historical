@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627105418id_/http%3A//worksheetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227175544id_/http%3A//www.worksheetworks.com/privacy.html) for the most accurate reproduction.*
 
 # WorksheetWorks.com
 
@@ -42,12 +42,12 @@ The worksheets on this site are created in PDF format. To view and print PDF fil
 
 [](http://www.adobe.com/products/acrobat/readstep2.html)
 
-**Public Beta Preview**
-
-This website is currently in the late stages of its development, a state referred to as _beta_. As with all beta software, it has some quirks and many parts are not yet available. We are working hard to finalize the system's structure, and roughly once every two weeks we roll out new functionality towards this goal. Until then you may notice that some resources move or even disappear for a while.
-
 Find more great educational websites at these two major content portals.
 
-[](http://www.sitesforteachers.com/cgi-bin/in.cgi?id=wworks) [](http://www.sitesforparents.com/cgi-bin/in.cgi?id=wworks)  
+[](http://www.sitesforteachers.com/cgi-bin/in.cgi?id=wworks) [](http://www.sitesforparents.com/cgi-bin/in.cgi?id=wworks)
+
+**Public Beta Preview**
+
+This website is currently in the late stages of its development, a state referred to as _beta_. As with all beta software, it has some quirks and many parts are not yet available. We are working hard to finalize the system's structure, and roughly once every two weeks we roll out new functionality towards this goal. Until then you may notice that some resources move or even disappear for a while.  
   
 ---|---|---
