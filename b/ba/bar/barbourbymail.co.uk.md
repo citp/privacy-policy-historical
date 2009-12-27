@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the barbourbymail.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618055034id_/http%3A//www.barbourbymail.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbourbymail.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227231229id_/http%3A//www.barbourbymail.co.uk/privacy.aspx) for the most accurate reproduction.*
 
-# Barbour at The Outdoor & Country Store
+# Privacy - Barbour at The Outdoor & Country Store
 
 We are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](https://web.archive.org/returnspolicy.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Terms of Use](https://web.archive.org/web/20091227231229id_/http%3A//www.barbourbymail.co.uk/returnspolicy.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Smith and Morris (Corn Merchants) Limited T/A The Outdoor and Country Store of The Old School, Stone Road, Blackbrook, Newcastle-under-Lyme, Staffordshire, ST5 5EG.
 
@@ -103,7 +103,7 @@ We may disclose your personal information to third parties:
 
 
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/returnspolicy.aspx) or [Terms and Conditions of Supply](https://web.archive.org/returnspolicy.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris (Corn Merchants) T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20091227231229id_/http%3A//www.barbourbymail.co.uk/returnspolicy.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20091227231229id_/http%3A//www.barbourbymail.co.uk/returnspolicy.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris (Corn Merchants) T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
@@ -145,4 +145,4 @@ Newcastle-under-Lyme
 Staffordshire  
 ST5 5EG 
 
-Or telephone: 0870 40 30 236
+Or telephone: 08456 53 20 53
