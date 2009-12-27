@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unilagspgs.edu.ng privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623070850id_/http%3A//unilagspgs.edu.ng/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilagspgs.edu.ng privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227212919id_/http%3A//www.unilagspgs.edu.ng/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
