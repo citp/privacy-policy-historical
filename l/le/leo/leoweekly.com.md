@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106114723id_/http%3A//www.leoweekly.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227023313id_/http%3A//leoweekly.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Statement | LEO Weekly
+# Privacy Statement | Louisville's Alt-Weekly | LEO Weekly
 
 When accessing our website, LEO Weekly will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. LEO Weekly will not collect the email addresses of those who communicate with us via e-mail other than for the purpose of responding to requests.
 
