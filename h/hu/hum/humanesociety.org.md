@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193200id_/http%3A//www.hsus.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227183315id_/http%3A//www.hsus.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Humane Society of the United States
 
