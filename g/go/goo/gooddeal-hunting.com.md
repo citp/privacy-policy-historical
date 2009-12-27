@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooddeal-hunting.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612063526id_/http%3A//www.gooddeal-hunting.com/cls/footer/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooddeal-hunting.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227132726id_/http%3A//www.gooddeal-hunting.com/cls/footer/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy (GDH)
 
