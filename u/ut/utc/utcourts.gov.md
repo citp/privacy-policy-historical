@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utcourts.gov privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625132844id_/http%3A//www.utcourts.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utcourts.gov privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227131826id_/http%3A//www.utcourts.gov/privacy) for the most accurate reproduction.*
 
 # Utah State Courts - Privacy Policy and Disclaimer
 
