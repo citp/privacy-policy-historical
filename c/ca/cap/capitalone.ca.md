@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526062238id_/http%3A//www.capitalone.ca/canada/caprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227112730id_/http%3A//www.capitalone.ca/canada/caprivacy.php) for the most accurate reproduction.*
 
 # Capital One Privacy Policy
 
@@ -12,17 +12,22 @@ We respect your privacy. Not only do we respect it, but we also protect it. The 
 
 We will not add your name to third-party marketing campaigns for the first 30 days after the opening of your account to give you an opportunity to make your privacy choice known to us.
 
- _Mail._ You can tell us your privacy preferences or contact our Privacy Officer by mail at P.O. Box 511, Scarborough Stn D, Toronto, ON MIR 0A4; Attention: Canada Privacy Officer. 
+ **Mail:** You can tell us your privacy preferences by mail at P.O. Box 503, Scarborough Stn D, Toronto, ON M1R 5L1; Attention: Canada Privacy Officer. 
 
- _Phone._ You can tell us your privacy preferences by calling (888) 817-3887.  If you have a sensory disability such as blindness or a hearing impairment, you may call our toll-free number at (800) 219-1009.
+ **Phone:** You can tell us your privacy preferences by calling (888) 817-3887.  If you have a sensory disability such as blindness or a hearing impairment, you may call our toll-free number at (800) 219-1009.
 
 If you have general questions about Capital One or your account, please call one of our Customer Relations representatives at 1-800-481-3239.
 
- _Web._ You can visit our "Contact Us" page on our Web site at [www.capitalone.ca](http://www.capitalone.ca/). If you are not a customer with us and would like to be removed from our marketing list, click on the following link and fill in the form: <https://www.capitaloneprivacy.ca/>
+ **Web:** You can visit our "Contact Us" page on our Web site at [www.capitalone.ca](http://www.capitalone.ca/). If you are not a customer with us and would like to be removed from our marketing list, click on the following link and fill in the form: <https://www.capitaloneprivacy.ca/>
 
-**What is Personal Information?**
+To contact our Privacy officer for any other reason, please write to:  
+ **Privacy Officer - Capital One Canada  
+** P.O. Box 508  
+Scarborough Stn D  
+Scarborough ON  
+M1R 5L6
 
-Personal information is information about an identifiable individual, but does not include the name, title, business address or business telephone number of an employee of an organization.
+ **What is Personal Information?** Personal information is information about an identifiable individual, but does not include the name, title, business address or business telephone number of an employee of an organization.
 
  **Information Quality**
 
@@ -30,7 +35,7 @@ If you believe that the information we have about you is not as accurate or comp
 
  **Access to Personal Information about You**
 
-You may request access to the personal information we collect about you.  We will answer your inquiry and/or provide you with access to this information, subject to certain considerations specified by law. To request access to your personal information in our possession, write to us at P.O. Box 511, Scarborough Stn D, Toronto, ON MIR 0A4, Attention: Canada Privacy Officer. 
+You may request access to the personal information we collect about you.  We will answer your inquiry and/or provide you with access to this information, subject to certain considerations specified by law. To request access to your personal information in our possession, write to us at P.O. Box 508, Scarborough Stn D, Toronto, ON M1R 5L6, Attention: Canada Privacy Officer. 
 
  **Confidentiality and Security**
 
