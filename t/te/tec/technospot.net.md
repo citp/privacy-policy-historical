@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112310id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030405id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,3 +34,7 @@ We are open to all kinds of comment a reader want to make till he is not dis-res
 
 
 “My advice to those commenting on blogs (not just mine) is that in a sense you are visiting someone else’s home when you leave a comment. Comments have the ability to build up our tear down your reputation. They are a permanent record of who you are and what you stand for – so take care – be gracious – make sure they add value (not only to the blog you are visiting but also to your own online profile). “
+
+**About Technospot.Net**
+
+An impressive and easy to understand website which brings you productive applications, online tools, Windows and helps you better understand how you can use your computer, mobile and internet in a right way. 
