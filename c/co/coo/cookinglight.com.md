@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110644id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/cookinglight%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025653id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/cookinglight%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Cooking Light Privacy Policy
 
