@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120525id_/http%3A//www.rockyou.com/events/track.php%3Fevent%3Drockyou-ffoot-privacy%26value%3Den%26url%3Dhttp%253A%252F%252Fwww.rockyou.com%252Fprivacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyou.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227230137id_/http%3A//www.rockyou.com/events/track.php%3Fevent%3Drockyou-ffoot-privacy%26value%3Den%26url%3Dhttp%253A%252F%252Fwww.rockyou.com%252Fprivacypolicy.php) for the most accurate reproduction.*
 
 # RockYou.com - Photo sharing, MySpace slideshows, MySpace codes, MySpace music
 
