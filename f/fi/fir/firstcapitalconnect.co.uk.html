@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstcapitalconnect.co.uk privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617195114id_/http%3A//www.firstcapitalconnect.co.uk/Main.php%3FiCmsPageId%3D155) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstcapitalconnect.co.uk privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227131925id_/http%3A//www.firstcapitalconnect.co.uk/Main.php%3FiCmsPageId%3D155) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -16,7 +16,7 @@
 <script language="JavaScript1.1" type="text/javascript">ns_loadingtime1=(new Date()).getTime()</script>
 <script type="text/Javascript" src="js/scriptaculous/lib/prototype.js"></script> 
 <script type="text/Javascript" src="js/scriptaculous/src/scriptaculous.js"></script> 
-
+<script src="video/player/flowplayer-3.1.4.min.js" type="text/javascript"></script>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 <!-- Calendar includes moved to header to ensure validation -->
@@ -50,19 +50,40 @@ function ValidateForm(oForm)
 <body>
 <a id="Top"></a>
 <script type="text/javascript" language="JavaScript">
-function sitestat(ns_l)
-{
-	ns_l+='&amp;ns__t='+(new Date()).getTime();ns_pixelUrl=ns_l;
-	ns_0=document.referrer;
-	ns_0=(ns_0.lastIndexOf('/')==ns_0.length-1)? ns_0.substring(ns_0.lastIndexOf('/'),0):ns_0;
-	if(ns_0.length>0)
-		ns_l+='&amp;ns_referrer='+escape(ns_0);
-	if(document.images) {
-		ns_1=new Image();ns_1.src=ns_l;
-	}else {
-		document.write('<img src="'+ns_l+'" width="1" height="1" alt=""/>');
-	}
-}
+function sitestat(ns_l){// FromUrl v1.5 Copyright (c) 2001-2007 Nedstat B.V. All rights reserved.
+var ns_type='' // leave empty for normal/ppc measurement, fill in for clickin, clickout or pdf
+var r='' // yes=only parse url when there is a real document.referrer,
+// no=only parse url when there is no real document.referrer, empty=always parse url
+var t='?' // tag in url where parameters follow; default '?' could be replaced by "#"
+var p=new Array();var w='';var l='';var d=document;var n=navigator;var ns_0=''
+;if(top!=self){if('\u0041'=='A'){var u=n.userAgent;if(u.indexOf('Safari')==-1)
+{var b=u.indexOf('Opera');if(b==-1||(u.charAt(b+6)+0)>5){b=u.indexOf('Mozilla'
+);var xb=b!=-1?u.charAt(b+8)>4:1;if(u.indexOf('compatible')!=-1||xb){var c=
+'try{ns_0=top.document.referrer}catch(e){}';eval(c);c=
+'try{l=top.document.location.href}catch(e){}';eval(c);}}}}}else{ns_0=
+d.referrer;l=d.location.href;}if(ns_0.lastIndexOf('/')==ns_0.length-1){ns_0=
+ns_0.substring(ns_0.lastIndexOf('/'),0);}var f=ns_l.indexOf('?');if(f!=-1){
+var q=ns_l.substring(f+1);ns_l=ns_l.substring(0,f);if(q){var m=q.indexOf('&');
+w=q.substring(0,m==-1?q.length:m);if(w.indexOf('=')!=-1){w='';}if(w){q=
+q.substring(m==-1?q.length:m+1);q+=(q?'&':'')+'ns_name='+w;}if(ns_0.length>0){
+q+=(q?'&':'')+'ns_referrer='+escape(ns_0);}var s=0;var e=0;while(q.length){e=
+q.indexOf('&');if(e==-1){e=q.length;}var o=q.substring(s,e);if(o.substring(0,4
+)=='amp;'){o=o.substring(4);}if(o)p[p.length]=o;q=q.substring(e+1);}}}var a=
+l.indexOf(t);a=a==-1?0:l.substring(a+1);var j;if(r=='yes')j=ns_0.length;else
+if(r=='no')j=!ns_0.length;else if(r=='')j=1;if(a&&j){while(a.length){var e=
+a.indexOf('&');if(e==-1){e=a.length;}var k=a.substring(0,a.substring(0,e)
+.indexOf('='));var v=a.substring(a.substring(0,e).indexOf('=')+1,e);if(
+k.substring(0,4)=='amp;'){k=k.substring(4);}while(v.substring(0,1)=='='){v=
+v.substring(1);}if(k=='ns_name'){w=v;}else if(k=='ns_or'){var g='ns_referrer='
+;for(var z=0;z<p.length;z++){if(p[z].substring(0,g.length)==g){p[z]=
+'ns_referrer='+v;}}}else{if(k.substring(0,3)=='ns_'&&v&&k){var h=0;for(var x=0
+;x<p.length;x++){if(p[x].substring(0,p[x].indexOf('='))==k){p[x]=k+"="+v;h=1}}
+if(!h){p[p.length]=k+"="+v;}}}a=a.substring(e+1);}}if(!w){return;}var s='';
+var y='';for(var i=0;i<p.length;i++)if(p[i].substring(0,8)!='ns_name='){if(p[i
+].substring(0,12)!='ns_referrer='){s+='&'+p[i];}else{y='&'+p[i];}}s+=ns_type?
+'&ns_type='+ns_type+'&ns_action=view':'';ns_pixelUrl=ns_l+'?'+w+"&ns__t="+(
+new Date()).getTime();ns_l=ns_pixelUrl+s+y;if(d.images){ns_1=new Image();
+ns_1.src=ns_l;}else{d.write('<img src='+ns_l+' width="1" height="1">');}}
 		sitestat("https://uk.sitestat.com/firstgroup/fcc/s?fcc.home.Privacy");
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -110,6 +131,7 @@ function sitestat(ns_l)
 <li><a href="Main.php?iCmsPageId=19" title="Customer care"><span>Customer care</span></a></li>
 <li><a href="Main.php?iCmsPageId=89" title="About us"><span>About us</span></a></li>
 <li><a href="Main.php?iCmsPageId=257" title="Thameslink Programme"><span>Thameslink Programme</span></a></li>
+<li><a href="Main.php?iCmsPageId=340" title="King" s="" cross="" redevelopment'=""><span>King's Cross redevelopment</span></a></li>
 </ul>
 
 </div>
@@ -204,10 +226,10 @@ document.form3.IsJavaScriptEnabled.value = "true";
 				  <br>
 						<div id="buyticketsincident">
 						<script language="javascript">
-						document.write('<strong><a href="#" onclick="popUp(\'buyticketsincident.php\', 350, 350)">Please check live train updates for any incidents affecting services today</a></strong>');
-						</script><strong><a href="#" onclick="popUp('buyticketsincident.php', 350, 350)">Please check live train updates for any incidents affecting services today</a></strong>
+						document.write('<strong><a href="#" onclick="popUp(\'buyticketsincident.php\', 350, 350)">IMPORTANT: Customers wishing to travel on the Thameslink route on Mon-Fri should click here to see the revised timetable</a></strong>');
+						</script><strong><a href="#" onclick="popUp('buyticketsincident.php', 350, 350)">IMPORTANT: Customers wishing to travel on the Thameslink route on Mon-Fri should click here to see the revised timetable</a></strong>
 						<noscript>
-						<strong><a href="buyticketsincident.php" target="_blank">Please check live train updates for any incidents affecting services today</a></strong>
+						<strong><a href="buyticketsincident.php" target="_blank">IMPORTANT: Customers wishing to travel on the Thameslink route on Mon-Fri should click here to see the revised timetable</a></strong>
 						</noscript>
 						</div>
 						<br>
@@ -236,22 +258,22 @@ new Ajax.Autocompleter("goingto","autocomp_arriving","bookings_stationlist.php",
 			<script type="text/javascript" src="js/epoch_classes.js"></script>
 			<!--<link rel="stylesheet" href="css/PopUpCalendar.css" type="text/css" />-->
 							<div class="rowfield" id="leavingdate">
-								<input type="text" name="OUTBOUND_DATE" id="leave_date" value="17/06" class="selectnarrow">
-						<select name="OUTBOUND_HOUR" class="selectnarrow" id="OUTBOUND_HOUR"><option value="00">00</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20" selected="selected">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option></select>						<select name="OUTBOUND_MIN" class="selectnarrow" id="OUTBOUND_MIN"><option value="00">00</option><option value="15">15</option><option value="30">30</option><option value="45" selected="selected">45</option></select>						
+								<input type="text" name="OUTBOUND_DATE" id="leave_date" value="27/12/2009" class="selectnarrowQttDate">
+						<select name="OUTBOUND_HOUR" class="selectnarrowQttTime" id="OUTBOUND_HOUR"><option value="00">00</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13" selected="selected">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option></select>						<select name="OUTBOUND_MIN" class="selectnarrowQttTime" id="OUTBOUND_MIN"><option value="00">00</option><option value="15" selected="selected">15</option><option value="30">30</option><option value="45">45</option></select>						
 					</div>
 				</div>
 				<div class="row">
 					<label for="returndate">
 					Returning on</label>
 					<div class="rowfield" id="returndate">
-								<input type="text" name="INBOUND_DATE" id="return_date" value="" class="selectnarrow">
-						<select name="INBOUND_HOUR" class="selectnarrow" onchange="javascript: defaultRetMinute();" id="INBOUND_HOUR"><option value=""> </option><option value="00">00</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option></select>						<select name="INBOUND_MIN" class="selectnarrow" id="INBOUND_MIN"><option value=""> </option><option value="00">00</option><option value="15">15</option><option value="30">30</option><option value="45">45</option></select>					</div>
+								<input type="text" name="INBOUND_DATE" id="return_date" value="" class="selectnarrowQttDate">
+						<select name="INBOUND_HOUR" class="selectnarrowQttTime" onchange="javascript: defaultRetMinute();" id="INBOUND_HOUR"><option value=""> </option><option value="00">00</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option></select>						<select name="INBOUND_MIN" class="selectnarrowQttTime" id="INBOUND_MIN"><option value=""> </option><option value="00">00</option><option value="15">15</option><option value="30">30</option><option value="45">45</option></select>					</div>
 				</div>
 					<script type="text/javascript">
 		window.onload = function () {
-			var leave_date_cal = new Epoch('leave_date_cal','popup',document.getElementById('leave_date'),'', 'd/m', 'off');
+			var leave_date_cal = new Epoch('leave_date_cal','popup',document.getElementById('leave_date'),'', 'd/m/Y', 'off');
 
-var return_date_cal = new Epoch('return_date_cal','popup',document.getElementById('return_date'),'', 'd/m', 'off');
+var return_date_cal = new Epoch('return_date_cal','popup',document.getElementById('return_date'),'', 'd/m/Y', 'off');
 
 		//to intend from left
 		};
@@ -306,7 +328,7 @@ var return_date_cal = new Epoch('return_date_cal','popup',document.getElementByI
 <div id="datestrip">
 
 <div class="content" style="padding: 0px; margin: 0px;"></div>
-<div id="date"><div id="dateleft">Wednesday, 17th June 2009, 20:51<a href="#content" accesskey="s"><img src="img/spacer.gif" alt="" width="1" height="20"></a></div>
+<div id="date"><div id="dateleft">Sunday, 27th December 2009, 13:19<a href="#content" accesskey="s"><img src="img/spacer.gif" alt="" width="1" height="20"></a></div>
 <div id="dateright"><span class="print"><img src="img/spacer.gif" alt="" width="1" height="20"><img src="img/icon_print.gif" alt="Icon - print this page" width="14" height="17">&nbsp;<a href="#" onclick="window.print()" title="This link will allow you to print this page">Print this page</a></span>
 
 <span class="textsize">
@@ -347,6 +369,8 @@ if (typeof(_gat) == 'object') {
     pageTracker._trackPageview();
 }
 </script>
+  
+<!-- DEBUG: [cmsPageId: 155 | trackerId: ] -->
 
 
-<table id="leave_date_cal_calendar" class="calendar" classname="calendar" style="position: absolute; top: 540px; left: 484px; display: none;"><tbody><tr><td><div id="leave_date_cal_mainheading" class="mainheading" classname="mainheading"><input type="button" value="<" title="Go to the previous month"><select><option value="0" selected="selected">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><input type="button" value=">" title="Go to the next month"></div></td></tr><tr><td><table id="leave_date_cal_caldayheading" class="caldayheading" classname="caldayheading"><tbody><tr><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td id="leave_date_cal_cell_td"><table id="leave_date_cal_calcells" class="calcells" classname="calcells"><tbody><tr><td class="notmnth" classname="notmnth">29</td><td class="notmnth" classname="notmnth">30</td><td class="notmnth" classname="notmnth">31</td><td class="wkday" classname="wkday">1</td><td class="wkday" classname="wkday">2</td><td class="wkday" classname="wkday">3</td><td class="wkend" classname="wkend">4</td></tr><tr><td class="wkend" classname="wkend">5</td><td class="wkday" classname="wkday">6</td><td class="wkday" classname="wkday">7</td><td class="wkday" classname="wkday">8</td><td class="wkday" classname="wkday">9</td><td class="wkday" classname="wkday">10</td><td class="wkend" classname="wkend">11</td></tr><tr><td class="wkend" classname="wkend">12</td><td class="wkday" classname="wkday">13</td><td class="wkday" classname="wkday">14</td><td class="wkday" classname="wkday">15</td><td class="wkday" classname="wkday">16</td><td class="wkday" classname="wkday">17</td><td class="wkend" classname="wkend">18</td></tr><tr><td class="wkend" classname="wkend">19</td><td class="wkday" classname="wkday">20</td><td class="wkday" classname="wkday">21</td><td class="wkday" classname="wkday">22</td><td class="wkday" classname="wkday">23</td><td class="wkday" classname="wkday">24</td><td class="wkend" classname="wkend">25</td></tr><tr><td class="wkend" classname="wkend">26</td><td class="wkday" classname="wkday">27</td><td class="wkday" classname="wkday">28</td><td class="wkday" classname="wkday">29</td><td class="wkday curdate" classname="wkday curdate">30</td><td class="wkday" classname="wkday">31</td><td class="notmnth" classname="notmnth">1</td></tr><tr><td class="notmnth" classname="notmnth">2</td><td class="notmnth" classname="notmnth">3</td><td class="notmnth" classname="notmnth">4</td><td class="notmnth" classname="notmnth">5</td><td class="notmnth" classname="notmnth">6</td><td class="notmnth" classname="notmnth">7</td><td class="notmnth" classname="notmnth">8</td></tr></tbody></table></td></tr><tr><td><div><input type="button" value="Clear" title="Clears any dates selected on the calendar"></div></td></tr></tbody></table><table id="return_date_cal_calendar" class="calendar" classname="calendar" style="position: absolute; top: 580px; left: 484px; display: none;"><tbody><tr><td><div id="return_date_cal_mainheading" class="mainheading" classname="mainheading"><input type="button" value="<" title="Go to the previous month"><select><option value="0" selected="selected">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><input type="button" value=">" title="Go to the next month"></div></td></tr><tr><td><table id="return_date_cal_caldayheading" class="caldayheading" classname="caldayheading"><tbody><tr><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td id="return_date_cal_cell_td"><table id="return_date_cal_calcells" class="calcells" classname="calcells"><tbody><tr><td class="notmnth" classname="notmnth">29</td><td class="notmnth" classname="notmnth">30</td><td class="notmnth" classname="notmnth">31</td><td class="wkday" classname="wkday">1</td><td class="wkday" classname="wkday">2</td><td class="wkday" classname="wkday">3</td><td class="wkend" classname="wkend">4</td></tr><tr><td class="wkend" classname="wkend">5</td><td class="wkday" classname="wkday">6</td><td class="wkday" classname="wkday">7</td><td class="wkday" classname="wkday">8</td><td class="wkday" classname="wkday">9</td><td class="wkday" classname="wkday">10</td><td class="wkend" classname="wkend">11</td></tr><tr><td class="wkend" classname="wkend">12</td><td class="wkday" classname="wkday">13</td><td class="wkday" classname="wkday">14</td><td class="wkday" classname="wkday">15</td><td class="wkday" classname="wkday">16</td><td class="wkday" classname="wkday">17</td><td class="wkend" classname="wkend">18</td></tr><tr><td class="wkend" classname="wkend">19</td><td class="wkday" classname="wkday">20</td><td class="wkday" classname="wkday">21</td><td class="wkday" classname="wkday">22</td><td class="wkday" classname="wkday">23</td><td class="wkday" classname="wkday">24</td><td class="wkend" classname="wkend">25</td></tr><tr><td class="wkend" classname="wkend">26</td><td class="wkday" classname="wkday">27</td><td class="wkday" classname="wkday">28</td><td class="wkday" classname="wkday">29</td><td class="wkday curdate" classname="wkday curdate">30</td><td class="wkday" classname="wkday">31</td><td class="notmnth" classname="notmnth">1</td></tr><tr><td class="notmnth" classname="notmnth">2</td><td class="notmnth" classname="notmnth">3</td><td class="notmnth" classname="notmnth">4</td><td class="notmnth" classname="notmnth">5</td><td class="notmnth" classname="notmnth">6</td><td class="notmnth" classname="notmnth">7</td><td class="notmnth" classname="notmnth">8</td></tr></tbody></table></td></tr><tr><td><div><input type="button" value="Clear" title="Clears any dates selected on the calendar"></div></td></tr></tbody></table></body></html>
+<table id="leave_date_cal_calendar" class="calendar" classname="calendar" style="position: absolute; top: 603px; left: 484px; display: none;"><tbody><tr><td><div id="leave_date_cal_mainheading" class="mainheading" classname="mainheading"><input type="button" value="<" title="Go to the previous month"><select><option value="0" selected="selected">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><input type="button" value=">" title="Go to the next month"></div></td></tr><tr><td><table id="leave_date_cal_caldayheading" class="caldayheading" classname="caldayheading"><tbody><tr><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td id="leave_date_cal_cell_td"><table id="leave_date_cal_calcells" class="calcells" classname="calcells"><tbody><tr><td class="notmnth" classname="notmnth">29</td><td class="notmnth" classname="notmnth">30</td><td class="notmnth" classname="notmnth">31</td><td class="wkday" classname="wkday">1</td><td class="wkday" classname="wkday">2</td><td class="wkday" classname="wkday">3</td><td class="wkend" classname="wkend">4</td></tr><tr><td class="wkend" classname="wkend">5</td><td class="wkday" classname="wkday">6</td><td class="wkday" classname="wkday">7</td><td class="wkday" classname="wkday">8</td><td class="wkday" classname="wkday">9</td><td class="wkday" classname="wkday">10</td><td class="wkend" classname="wkend">11</td></tr><tr><td class="wkend" classname="wkend">12</td><td class="wkday" classname="wkday">13</td><td class="wkday" classname="wkday">14</td><td class="wkday" classname="wkday">15</td><td class="wkday" classname="wkday">16</td><td class="wkday" classname="wkday">17</td><td class="wkend" classname="wkend">18</td></tr><tr><td class="wkend" classname="wkend">19</td><td class="wkday" classname="wkday">20</td><td class="wkday" classname="wkday">21</td><td class="wkday" classname="wkday">22</td><td class="wkday" classname="wkday">23</td><td class="wkday" classname="wkday">24</td><td class="wkend" classname="wkend">25</td></tr><tr><td class="wkend" classname="wkend">26</td><td class="wkday" classname="wkday">27</td><td class="wkday" classname="wkday">28</td><td class="wkday" classname="wkday">29</td><td class="wkday curdate" classname="wkday curdate">30</td><td class="wkday" classname="wkday">31</td><td class="notmnth" classname="notmnth">1</td></tr><tr><td class="notmnth" classname="notmnth">2</td><td class="notmnth" classname="notmnth">3</td><td class="notmnth" classname="notmnth">4</td><td class="notmnth" classname="notmnth">5</td><td class="notmnth" classname="notmnth">6</td><td class="notmnth" classname="notmnth">7</td><td class="notmnth" classname="notmnth">8</td></tr></tbody></table></td></tr><tr><td><div><input type="button" value="Clear" title="Clears any dates selected on the calendar"></div></td></tr></tbody></table><table id="return_date_cal_calendar" class="calendar" classname="calendar" style="position: absolute; top: 661px; left: 484px; display: none;"><tbody><tr><td><div id="return_date_cal_mainheading" class="mainheading" classname="mainheading"><input type="button" value="<" title="Go to the previous month"><select><option value="0" selected="selected">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><input type="button" value=">" title="Go to the next month"></div></td></tr><tr><td><table id="return_date_cal_caldayheading" class="caldayheading" classname="caldayheading"><tbody><tr><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>Sa</td></tr></tbody></table></td></tr><tr><td id="return_date_cal_cell_td"><table id="return_date_cal_calcells" class="calcells" classname="calcells"><tbody><tr><td class="notmnth" classname="notmnth">29</td><td class="notmnth" classname="notmnth">30</td><td class="notmnth" classname="notmnth">31</td><td class="wkday" classname="wkday">1</td><td class="wkday" classname="wkday">2</td><td class="wkday" classname="wkday">3</td><td class="wkend" classname="wkend">4</td></tr><tr><td class="wkend" classname="wkend">5</td><td class="wkday" classname="wkday">6</td><td class="wkday" classname="wkday">7</td><td class="wkday" classname="wkday">8</td><td class="wkday" classname="wkday">9</td><td class="wkday" classname="wkday">10</td><td class="wkend" classname="wkend">11</td></tr><tr><td class="wkend" classname="wkend">12</td><td class="wkday" classname="wkday">13</td><td class="wkday" classname="wkday">14</td><td class="wkday" classname="wkday">15</td><td class="wkday" classname="wkday">16</td><td class="wkday" classname="wkday">17</td><td class="wkend" classname="wkend">18</td></tr><tr><td class="wkend" classname="wkend">19</td><td class="wkday" classname="wkday">20</td><td class="wkday" classname="wkday">21</td><td class="wkday" classname="wkday">22</td><td class="wkday" classname="wkday">23</td><td class="wkday" classname="wkday">24</td><td class="wkend" classname="wkend">25</td></tr><tr><td class="wkend" classname="wkend">26</td><td class="wkday" classname="wkday">27</td><td class="wkday" classname="wkday">28</td><td class="wkday" classname="wkday">29</td><td class="wkday curdate" classname="wkday curdate">30</td><td class="wkday" classname="wkday">31</td><td class="notmnth" classname="notmnth">1</td></tr><tr><td class="notmnth" classname="notmnth">2</td><td class="notmnth" classname="notmnth">3</td><td class="notmnth" classname="notmnth">4</td><td class="notmnth" classname="notmnth">5</td><td class="notmnth" classname="notmnth">6</td><td class="notmnth" classname="notmnth">7</td><td class="notmnth" classname="notmnth">8</td></tr></tbody></table></td></tr><tr><td><div><input type="button" value="Clear" title="Clears any dates selected on the calendar"></div></td></tr></tbody></table></body></html>
