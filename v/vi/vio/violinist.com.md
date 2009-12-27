@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626061446id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063146id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -24,50 +24,50 @@ Information collected by Violinist.com becomes the property of Violinist.com, an
 
 ## New Members
 
-[SAJID MEERANI](http://www.violinist.com/directory/bio.cfm?member=sajidmeerani)  
-JERSEY SHORE, Pennsylvania
+[Amy Kitay](http://www.violinist.com/directory/bio.cfm?member=ViolinII)  
+Farmingdale, New York
 
-[Eugen Kim](http://www.violinist.com/directory/bio.cfm?member=neoviolin)  
-Philadelphia, Pennsylvania
+[Anna Stafford](http://www.violinist.com/directory/bio.cfm?member=AnnaStafford)  
+Hollywood, California
 
-[Nina Bishop Nunn](http://www.violinist.com/directory/bio.cfm?member=nina940)  
-Brookline, Massachusetts
+[Mia Baskerville](http://www.violinist.com/directory/bio.cfm?member=ViolinMystic)  
+Seattle, Washington
 
-[Kathlyn Stevens](http://www.violinist.com/directory/bio.cfm?member=kateinalmonte)  
-Almonte, Canada
+[Sam Heredia](http://www.violinist.com/directory/bio.cfm?member=Itzhakperlman)  
+Tampico, Mexico
 
 ## Audio/Video
 
-[Tchaikovsky Violin Concerto](http://www.violinist.com/media/1197/)  
-From Nkem Nwosu
+[Ivry Gitlis rehearsel at the the Martha agerich festival in Lugano](http://www.violinist.com/media/1283/)  
+From friedjan vandeneerenbeemt
 
-[In a Hole](http://www.violinist.com/media/1196/)  
-From Mazz Swift-Camlet
+[Ivry Gitlis talks about his stradivarius](http://www.violinist.com/media/1282/)  
+From friedjan vandeneerenbeemt
 
-[Ballade for Violine and Strings Orchestra](http://www.violinist.com/media/1194/)  
-From Ion Scripcaru
+[Jesu Joy of Man's Desiring](http://www.violinist.com/media/1281/)  
+From Mendy Smith
 
-[Ballade for Violine and Strings Orchestra](http://www.violinist.com/media/1193/)  
-From Ion Scripcaru
+[J. Brahms, Concerto for Violin, Cello and Orchestra, Andante](http://www.violinist.com/media/1280/)  
+From Emanuel Salvador
 
 [More performance clips...](http://www.violinist.com/media/)
 
 ## [Concert Calendar](http://www.violinist.com/calendar/)
 
-**June 26, 2009**  
-[Nafplion Festival](http://www.violinist.com/calendar/violin.cfm?event=922)  
-Nafplion, Greece
+**January 10, 2010**  
+[The Fortnightly Music Club of the San Francisco Bay Area Presents ------------- THE JANUARY FORMAL CONCERT of 2010](http://www.violinist.com/calendar/violin.cfm?event=1075)  
+Palo Alto, California
 
-**June 27, 2009**  
-[Jiafeng with Chester Philharmonic](http://www.violinist.com/calendar/violin.cfm?event=142)  
-Chester, United Kingdom
+**January 20, 2010**  
+[Artemis Quartet @ Santa Cecilia Camber Music Season 2009 - 2010](http://www.violinist.com/calendar/violin.cfm?event=1051)  
+Rome, Italy
 
-**June 28, 2009**  
-["Concerts Ysaÿe" Series with violinist Eric Grossman, pianist Susan Kagan and cellist Gerald Kagan](http://www.violinist.com/calendar/violin.cfm?event=939)  
-New York, New York
+**January 22, 2010**  
+[Artemis Quartet @ Santa Cecilia Chamber Music Season 2009 - 2010](http://www.violinist.com/calendar/violin.cfm?event=1052)  
+Rome, Italy
 
-**June 29, 2009**  
-["Strad for Lunch" Series at WMP Concert Hall](http://www.violinist.com/calendar/violin.cfm?event=940)  
-New York, New York
+**January 30, 2010**  
+[The Chamber Music Society of Colombo at the Galle Lit Fest 2010](http://www.violinist.com/calendar/violin.cfm?event=1077)  
+Galle, Sri Lanka
 
 [More concert listings...](http://www.violinist.com/calendar/)
