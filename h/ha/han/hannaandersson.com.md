@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224050318id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022236id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
 
 # Security & Privacy Bar
 
-|  At Hanna Andersson (“Hanna”) we are committed to your security and privacy. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this we collect customer information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.
+| 
+
+Security & Privacy Bar
+
+At Hanna Andersson (“Hanna”) we are committed to your security and privacy. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this we collect customer information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.
 
 **Frequently Asked Questions**  
 What information is collected?  
@@ -32,7 +36,7 @@ Hanna does not sell, rent or trade our customer email addresses with third parti
 
 Occasionally Hanna provides your name and postal address (not your email address) to other unaffiliated, reputable companies who may send you mailings. If you do not wish for us to share this information with these companies, you can add your name to our “Do Not Rent” list by sending us an email or calling 800-222-0544. If you send an email, please be sure to provide your name and mailing address in the message.
 
-Hanna has partnered with Coremetrics, a company that helps us better understand our customers’ use of hannaandersson.com. Coremetrics uses cookies to collect and analyze information, such as how customers navigate our website and which products they browse and purchase, so that we may make improvements to our site. Coremetrics is not allowed to collect credit card, username, or password information. In addition, Coremetrics is contractually prohibited from using Hanna data for any other purposes, or to match it against any other information in its possession, and is required to maintain all information collected in the strictest confidence. As a visitor to www.hannaandersson.com you may “opt out” of this Coremetrics data collection. To learn more about your Coremetrics’ tracking options [click here](https://web.archive.org/web/20081224050318id_/http%3A//www.hannaandersson.com/%7Bhref,optout,main%7D). 
+Hanna has partnered with Coremetrics, a company that helps us better understand our customers’ use of hannaandersson.com. Coremetrics uses cookies to collect and analyze information, such as how customers navigate our website and which products they browse and purchase, so that we may make improvements to our site. Coremetrics is not allowed to collect credit card, username, or password information. In addition, Coremetrics is contractually prohibited from using Hanna data for any other purposes, or to match it against any other information in its possession, and is required to maintain all information collected in the strictest confidence. As a visitor to www.hannaandersson.com you may “opt out” of this Coremetrics data collection. To learn more about your Coremetrics’ tracking options [click here](http://www.hannaandersson.com/optOut.asp). 
 
 Hanna uses the Hotjobs.com service to help job applicants in their job search on our website. Hotjobs.com maintains separate information policies. Should you have questions about Hotjobs.com, or its privacy and security policies, you may contact them at hotjobs.com.
 
@@ -75,5 +79,4 @@ Notwithstanding the foregoing, Hanna Andersson hereby authorizes you only to cop
 **How does this policy apply to sites linked with the Hanna website?**  
 In the event this website contains hypertext links to websites that are not created or maintained by Hanna Andersson, this privacy policy applies only to Hanna Andersson’s website and not to any of these third party websites. Hanna Andersson is not responsible for the accuracy, relevance, timeliness, or completeness of those third party websites. The inclusion of any link to such websites does not imply endorsement, sponsorship, or recommendation by Hanna Andersson of the third party websites. Hanna Andersson disclaims any liability for links (1) from another website to this website, and (2) to another website from this website.  Hanna Andersson cannot guarantee the standards of any website to which links are provided on Hanna Andersson’s website, nor shall Hanna Andersson be held responsible for the contents of those websites, or any subsequent links. For this reason, Hanna Andersson does not represent or warrant that the contents of any third party website is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws. Hanna Andersson does not endorse the contents of these third party websites in any way. Also, Hanna Andersson is not responsible for web casting or any other form of transmission received from any linked website. Any reliance on the contents of a third party website is done at your own risk, and you assume all responsibilities and consequences resulting from such reliance.
 
-  
 | 
