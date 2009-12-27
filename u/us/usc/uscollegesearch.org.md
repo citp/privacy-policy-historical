@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604091121id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227154123id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
 
 # Colleges and Universities at U.S. College Search
-
-### U.S. College Search Privacy Policy & Terms of Use
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity. It is designed to assist you in understanding how we collect, use and safeguard the personal information you provide and to help you in making informed decisions when using our site, products and services. This Privacy Policy will be continually assessed against new technologies, business practices and our customers' needs.
 
