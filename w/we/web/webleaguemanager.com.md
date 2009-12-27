@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webleaguemanager.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620051436id_/http%3A//www.fantasyinsights.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webleaguemanager.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227114423id_/http%3A//www.fantasyinsights.com/privacy.html) for the most accurate reproduction.*
 
 # Fantasy Insights <:> Pricacy Policy
 
@@ -41,6 +41,8 @@ We use return email addresses to answer the email we receive. Such addresses are
 You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that _X_ number of individuals visited a certain area on our website, or that _Y_ number of men and _Z_ number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
