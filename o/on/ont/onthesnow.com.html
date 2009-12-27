@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onthesnow.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217034614id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onthesnow.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227080126id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us"><head>
 	<title></title>
@@ -21,16 +21,26 @@
 		var OAS_sitepage = 'www.onthesnow.com/index.html';
 		
 		/**/
-		var OAS_listpos = 'Middle,Top,Right1,Bottom';
+		var OAS_listpos = 'Top,Right1,Bottom';
 
-		var OAS_query = '';
+		var OTS_c = OTS.getCookie('localization');
+		var OAS_geo = '';
+		if (OTS_c && OTS_c != '') {
+			var OTS_zip = OTS_c.match('zip&([^&]*)');
+			OTS_zip = (OTS_zip && OTS_zip[1] != '') ? OTS_zip[1] : '';
+			var OTS_country = OTS_c.match('cnty&([^&]*)');
+			OTS_country = (OTS_country && OTS_country[1] != '') ? OTS_country[1] : '';
+			OAS_geo = (OTS_country != '' && OTS_zip != '') ? '&_OAS_GEO_OVERRIDE_=' + OTS_country + ':' + OTS_zip : '';
+		}
+		var OAS_taxonomy = "&Section=&Lang=EN&UID=";
+		var OAS_keywords = "";
+		var OAS_query = 'XE' + OAS_taxonomy + '&XE' + OAS_geo + OAS_keywords + OAS_taxonomy;
 		var OAS_target = '_Top';
 		var OAS_version = 10;
-		var RN = new String (Math.random());
-		var RNS = RN.substring (2, 11);
-		/* For the iad inline ads. */
-		var OTSUrl = OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@' + OAS_listpos;
-		OTSAds = new Object();
+		var RN = new String(Math.random());
+		var RNS = RN.substring(2, 11);
+		var OTSUrl = OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@' + OAS_listpos + '?' + OAS_query;
+		OTSAds = {};
 		OTSAds.OAS_url = OAS_url;
 		OTSAds.OAS_sitepage = OAS_sitepage;
 		OTSAds.OAS_RNS = RNS;
@@ -38,70 +48,63 @@
 		OTSAds.OAS_query = OAS_query;
 		OTSAds.OAS_target = OAS_target;
 		OTSAds.OAS_version = OAS_version;
-		OTSAds.OTSUrl = OTSUrl; 
+		OTSAds.OTSUrl = OTSUrl;
 	</script>
-	
-	<script type="text/javascript">
-		var if_Site_ID = 'onthesnow';
-		var if_sid = '3';
-		var if_tag = '<scr' + 'ipt type="text/javascript" defer="defer" src="http://a248.e.akamai.net/7/836/1132/102403/' + if_Site_ID + '.247realmedia.com/scripts/' + if_Site_ID + '_if.js"><\/scr' + 'ipt>';
-		var mep1 = "&Section=&Lang=EN&UID=";
-		document.write(if_tag);
-	</script><script type="text/javascript" defer="defer" src="http://a248.e.akamai.net/7/836/1132/102403/onthesnow.247realmedia.com/scripts/onthesnow_if.js"></script>
 
+	
 </head>
 
 <body class="en-us">
 
 
 
-<script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-        var pageTracker = _gat._getTracker("UA-3821806-1");
-        pageTracker._initData();
-        pageTracker._trackPageview();
-</script>
-
-
-
 
 <div id="empty"></div>
 
-<div id="wrapper_pos">
-<div id="wrapper_bg">
-
+<div id="topHdr" class="topHdr">
 <div id="topAd"><div class="ad_guts">
 	<script type="text/javascript">    
-		document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@' + OAS_listpos + '!Top"><\/scr' + 'ipt>');
-	</script><script src="http://oascentral.onthesnow.com/RealMedia/ads/adstream_jx.ads/www.onthesnow.com/index.html/1735893718@Middle,Top,Right1,Bottom!Top"></script>
+		document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@' + OAS_listpos + '!Top?' + OAS_query + '"><\/scr' + 'ipt>');
+	</script><script src="http://oascentral.onthesnow.com/RealMedia/ads/adstream_jx.ads/www.onthesnow.com/index.html/1undefined@Top,Right1,Bottom!Top?undefined"></script>
 </div></div>
+<div id="topPromo">
+<div class="promo_newsletter"><h4><a href="http://www.onthesnow.com/newsletter" title="Newsletter">Newsletter</a></h4><p>Get news and deals in your inbox.</p></div>
+<div class="promo_mobile"><h4><a href="http://www.onthesnow.com/mobile" title="Mobile OnTheSnow">Mobile OnTheSnow</a></h4><p>OnTheSnow with you on the go.</p></div>
+
+</div>
+</div>
+
+<div id="wrapper_top"><div id="wrapper_top_in"></div></div>
+<div id="wrapper_pos">
+<div id="wrapper_bg">
+<div id="wrapper_con">
 
 <div id="header">
-	<p id="logo"><a href="http://www.onthesnow.com" title="OnTheSnow"><img src="http://images.onthesnow.com/ots/images/logo_image/en/snow-report.gif" alt="OnTheSnow" border="0"></a></p>
-	<div id="language"><a href="http://www.onthesnow.com/language" title="English (US)"><img src="http://images.onthesnow.com/ots/images/lang_map.gif" alt="" border="0" align="absmiddle"></a> English (US) <small>[<a href="http://www.onthesnow.com/language" title="Change">Change</a>]</small></div>
-	<p id="membersTease">
+	<p id="logo"><a href="http://www.onthesnow.com" onclick="OTS.gaTrkEvt('Navigation', 'OTSLogo', location.href);" title="Go to Home Page"><img src="http://images.onthesnow.com/ots/images/logo_image/en/snow-report.gif" alt="OnTheSnow" border="0"><span id="logo_icon"></span></a></p>
+	<div id="language"><a href="http://www.onthesnow.com/language" title="English (US)"><img src="http://images.onthesnow.com/ots/images/lang_map.gif" alt="" border="0" align="absmiddle"></a> English (US) <small>(<a href="http://www.onthesnow.com/language" title="Change">Change</a>)</small></div>
+	<div id="membersTease">
 		
 <a href="http://www.onthesnow.com/community/login?redir=/privacy" title="Log In" class="signin">Log In</a> or <a href="http://www.onthesnow.com/community/login?redir=/privacy" title="Register" class="signin">Register</a> for <strong>FREE</strong><br>and start earning <a href="http://www.onthesnow.com/community/benefits/">rewards</a>.
 
 
 
-	</p>
+		<b class="memberTease_angl"></b>
+	</div>
 	<div id="globalNav">
 		<ul class="navSpan">
-			<li id="nav_home" class=""><a href="http://www.onthesnow.com" title="Find A Resort">Find A Resort</a></li>
+			<li id="nav_home" class=""><a href="http://www.onthesnow.com" title="Find A Resort" onclick="OTS.navmap.toggleMap(); return false;">Find A Resort</a></li>
 			<li id="nav_news" class=""><a href="http://www.onthesnow.com/news" title="News">News</a></li>
 			<li id="nav_community" class=""><a href="http://www.onthesnow.com/community" title="Community">Community</a></li>
-
-			<li id="nav_newsletter" class=""><a href="http://www.onthesnow.com/newsletter" title="Newsletter" rel="nofollow">Newsletter</a></li>
+			<!-- <li id="nav_newsletter" class=""><a href="http://www.onthesnow.com/newsletter" title="Newsletter" rel="nofollow">Newsletter</a></li> -->
 			<li id="nav_prizes" class=""><a href="http://www.onthesnow.com/prizes" title="Prizes">Prizes</a></li>
 			<li id="nav_gear" class=""><a href="http://www.onthesnow.com/news/6/" title="Gear Guide">Gear Guide</a></li>
 			<li id="nav_search">
+				<!--
+				<form id="gsearch" action="http://www.onthesnow.com/sitesearch" method="get">
+					<input type="text" id="v_name" name="search" class="recall" value="Postal, Locations, Resorts, etc" title="Postal, Locations, Resorts, etc" onclick="OTS.noValue(this);" onblur="OTS.reValue(this);" autocomplete="off" onkeyup="Suggesting(this, event, this.value, this.id, 'd_results', '/ajax/resortsearch?search=');" onkeydown="clearMadSuggest();"/> <input type="submit" id="gq_btn" value="Search Results" title="Search Results" />
+					value="Postal, Locations, Resorts, etc" title="Postal, Locations, Resorts, etc" onclick="OTS.noValue(this);" onblur="OTS.reValue(this);"
+				-->
 				<form action="http://www.onthesnow.com/sitesearch" method="get">
-					<!--<span>Search for a Resort</span>-->
 					<input type="text" name="search" id="v_name" class="searchField" value="" autocomplete="off" onkeyup="Suggesting(this, event, this.value, this.id, 'd_results', '/ajax/resortsearch?search=');" onkeydown="clearMadSuggest();"><input type="image" src="http://images.onthesnow.com/ots/images/search_button_EN.gif" alt="Search Results" title="Search Results" align="absmiddle" class="searchButton">
 					<input type="hidden" name="do" value="1">
 					<input type="hidden" name="suggest" id="suggest" value="y">
@@ -109,7 +112,6 @@
 			</li>
 		</ul>
 	</div>
-	<div id="d_results"></div>
 	<div id="titleArea">
 		
 		<h1 id="headline">Privacy Policy</h1>
@@ -118,15 +120,23 @@
 	</div>
 </div>
 
-<style type="text/css">
-	#mobile { background:transparent url(http://images.onthesnow.com/ots/images/btn_m_lt.gif) no-repeat 0 0; margin:0; padding:0 0 0 7px; float:right; position:relative; top:-3px; right:10px; }
-	#mobile a { font-size:11px; font-weight:normal; color:#fff; text-decoration:none; background:transparent url(http://images.onthesnow.com/ots/images/btn_m_rt.gif) no-repeat 100% 0; padding:6px 10px 8px 3px; display:block; }
-	#mobile a span { background:transparent url(http://images.onthesnow.com/ots/images/icon_mobile1.gif) no-repeat 0 0; padding:0 0 0 15px; }
-</style>
-<div id="mobile"><a href="/mobile"><span>Mobile OnTheSnow</span></a></div>
+<!-- <div id="mobile"><a href="/mobile"><span>Mobile OnTheSnow</span></a></div> -->
+
+
+<div id="rnav">
+<div id="rnav_canvas_marker"></div>
+<div id="rnav_canvas">
+	<div id="rnav_canvas_top"></div>
+	<div id="rnav_canvas_mid"><div id="rnav_canvas_loader"></div></div>
+	<div id="rnav_canvas_bot"></div>
+</div>
+</div>
+<script type="text/javascript">
+	OTS.navmap.initMap();
+</script>
 
 <p id="breadcrumbs">
- <a href="http://www.onthesnow.com" title="Go to Home Page" class="home">Find A Resort</a>
+ <a href="http://www.onthesnow.com" title="Go to Home Page" class="home">&nbsp;</a>
 </p>
 
 
@@ -138,6 +148,9 @@
 
 <!-- CONTENT BEGINS HERE -->
 
+
+
+
 <div id="content_pos">
 
 
@@ -148,14 +161,9 @@
 
 
 
-
-
+ 
 
 <div class="leftCol">
-
-
-<div class="spacer"></div>
-
 
 
 
@@ -322,23 +330,13 @@ Updated October 15, 2007
 
 
 
+
+
   
-<p>Sponsored by:</p>
+<div class="adTxt">Sponsored by:</div>
 <script type="text/javascript">
-	document.write('<iframe id="i_Right1" name="i_Right1" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right1' + '&cbstr=' + (Math.random()) + '" width="300" height="250" border="0" frameBorder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>');
-</script><iframe id="i_Right1" name="i_Right1" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right1&amp;cbstr=0.8173926141776557" width="300" height="250" border="0" frameborder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>
-
-<p>Sponsored by:</p>
-<script type="text/javascript">
-	document.write('<iframe id="i_Right2" name="i_Right2" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right2' + '&cbstr=' + (Math.random()) + '" width="300" height="250" border="0" frameBorder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>');
-</script><iframe id="i_Right2" name="i_Right2" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right2&amp;cbstr=0.9248052551634314" width="300" height="250" border="0" frameborder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>
-
-<p>Sponsored by:</p>
-<script type="text/javascript">
-	document.write('<iframe id="i_Right3" name="i_Right3" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right3' + '&cbstr=' + (Math.random()) + '" width="300" height="250" border="0" frameBorder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>');
-</script><iframe id="i_Right3" name="i_Right3" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right3&amp;cbstr=0.48725728643414623" width="300" height="250" border="0" frameborder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>
-
-
+	document.write('<iframe id="i_Right1" name="i_Right1" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right1' + '&cbstr=' + (Math.random() * 10) + '" width="300" height="250" border="0" frameBorder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>');
+</script><iframe id="i_Right1" name="i_Right1" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Right1&amp;cbstr=9.364380911736268" width="300" height="250" border="0" frameborder="0" scrolling="no" allowtransparency="true" class="adpos_300"></iframe>
 
 
 
@@ -357,19 +355,17 @@ Updated October 15, 2007
 
 
 </div>
-
+ 
 <!-- CONTENT ENDS HERE -->
 
 <div id="bottomAd"><div class="ad_guts">
 	<script type="text/javascript">
-		document.write('<iframe name="i_Bottom" id="i_Bottom" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Bottom' + '&cbstr=' + (Math.random()) + '" width="728" height="90" border="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>');
-	</script><iframe name="i_Bottom" id="i_Bottom" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Bottom&amp;cbstr=0.07333046338161364" width="728" height="90" border="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+		document.write('<iframe name="i_Bottom" id="i_Bottom" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Bottom' + '&cbstr=' + (Math.random() * 10) + '" width="728" height="90" border="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>');
+	</script><iframe name="i_Bottom" id="i_Bottom" src="http://www.onthesnow.com/ots/ots_iad.html?pos=Bottom&amp;cbstr=4.537037908778421" width="728" height="90" border="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 </div></div>
 
 <div id="footer">
-  	<p id="ftr_nav"><a href="http://www.onthesnow.com/contact" rel="nofollow">Contact OnTheSnow</a> | <a href="http://www.onthesnow.com/privacy" rel="nofollow">Privacy Policy</a> | <a href="http://www.onthesnow.com/site_map.html">Site Map</a> | <a href="http://www.onthesnow.com/site_map_rss.html">RSS</a> |<a href="http://www.onthesnow.com/terms" rel="nofollow">Terms &amp; Conditions</a> | <a href="http://www.mountainnews.com/advertising/onthesnow.html" rel="nofollow">Advertising Info</a></p>
-	<p></p>
-	<p>Copyright ©  1968-2008 Mountain News Corp. All Rights Reserved.</p>
+  	<p id="ftr_nav"><a href="http://www.onthesnow.com/contact" rel="nofollow">Contact OnTheSnow</a> | <a href="http://www.onthesnow.com/privacy" rel="nofollow">Privacy Policy</a> | <a href="http://www.onthesnow.com/site_map.html">Site Map</a> | <a href="http://www.onthesnow.com/site_map_rss.html">RSS</a> | <a href="http://www.onthesnow.com/terms" rel="nofollow">Terms and Conditions</a> | <a href="http://www.mountainnews.com/advertising/onthesnow.html" rel="nofollow">Advertising Info</a></p>
   	<p>
 <a href="http://www.mountaingetaway.com" target="_blank">MountainGetaway.com</a>
 </p>
@@ -377,15 +373,24 @@ Updated October 15, 2007
 
 </div>
 </div>
+</div>
+<div id="wrapper_bot"><div id="wrapper_bot_in"></div></div>
+
+<div id="copyright">Copyright © 1968-2009 Mountain News Corp. All Rights Reserved.</div>
 
 <script type="text/javascript">
+	OTS.zipperOptions = {
+		enter : "Enter A Zip Code:",
+		save : "Save",
+		notfound : "No Results Found."
+	}
 	OTS.favoritesTxtObj = {
-		t1 : "Add to favorites",
-		t2 : "Remove from favorites"
+		t1 : "Add To Favorites",
+		t2 : "Remove From Favorites"
 	}
 	OTS.flagOptions = {
 		reportas : "Report Item As",
-		choose : "Choose one",
+		choose : "Choose One",
 		additional : "Additional Comments?",
 		comments : "Comments",
 		report : "Report",
@@ -408,12 +413,26 @@ Updated October 15, 2007
 		't1' : "Username or E-mail",
 		't2' : "Password"
 	}
+	OTS.loginMsgTxtObj = {
+		'generic' : "",
+		'login' : "",
+		'register' : "",
+		'favorites' : "Adding this resort to your Favorites is a members only feature.<br />Please Log In or Register below. Click Here to learn the benefits of being a member",
+		'helpful' : "Marking this item with Helpful/UnHelpful is a members only feature.<br />Please Log In or Register below. Click Here to learn the benefits of being a member",
+		'abuse' : "Reporting this item for Abuse is a members only feature.<br />Please Log In or Register below. Click Here to learn the benefits of being a member",
+		'review' : "Adding a Review is a members only feature.<br />Please Log In or Register below. Click Here to learn the benefits of being a member",
+		'comment' : "Adding a Comment is a members only feature.<br />Please Log In or Register below. Click Here to learn the benefits of being a member",
+		'blog' : "Adding a Blog Post is a members only feature.<br />Please Log In or Register below. Click Here to learn the benefits of being a member"
+	}
 </script>
+
+<div id="login_msgr"></div>
+
 <div id="login_form" class="login_form">
-	<div class="login_logo"></div>
+	<div class="login_logo" style="background-image:url(http://images.onthesnow.com/ots/images/logo_image/en/snow-report_sm.gif);"></div>
 	<form id="user_login" name="user_login" action="/community/login" method="post" onsubmit="OTS.validateLogin(); return false;">
 	<input type="hidden" name="go" value="Login_add">
-	<input type="hidden" name="redir" value="/privacy">
+	<input type="hidden" name="redir" value="/privacy?">
 	<p class="hd"><strong>Existing Member</strong> <small>(Login Here)</small></p>
 	<div id="login_errors"></div>
 	<table cellpadding="5" cellspacing="0" border="0">
@@ -442,14 +461,14 @@ Updated October 15, 2007
 	OTS.registerTxtObj = {
 		't1' : "Username",
 		't2' : "E-mail Address",
-		't3' : "Passord",
+		't3' : "Password",
 		't4' : "Retype Password"
 	}
 </script>
 <div id="reg_form" class="login_form">
 	<form id="user_register" name="user_register" action="/community/register" method="post" onsubmit="OTS.validateReg(); return false;">
 	<input type="hidden" name="go" value="QuickRegistration_add">
-	<input type="hidden" name="redir" value="/privacy">
+	<input type="hidden" name="redir" value="/privacy?">
 	<p class="hd"><strong>New Members</strong> <small>(Register Here)</small></p>
 	<p>Quickly create a user account below and you will receive prize entries and other perks for each review.</p>
 	<div id="reg_errors"></div>
@@ -468,7 +487,7 @@ Updated October 15, 2007
 		</tr>
 		<tr>
 			<td valign="top">
-				<label>Passord: <em>Required</em></label>
+				<label>Password: <em>Required</em></label>
 				<input type="password" name="password" class="fInp">
 				<small>Between 4-20 characters</small>
 			</td>
@@ -499,14 +518,33 @@ Updated October 15, 2007
 	OTS.loginReg.load();
 </script>
 
+<script type="text/javascript">
+	OTS.infoBubbleTxtObj = {
+		p : '_',
+		skireport_MetaRegion : [
+			{ html : "<strong>Favorites</strong><br />You can save each resort to your favorites and create a custom snow report in your profile area.", id : 'resort_grid', x : 55, y : -20 },
+			{ html : "<strong>Sorting</strong><br />Each column can be sorted ascending and decending", id : 'resort_grid', x : 198, y :-57 }
+		],
+		skireport_Client : [
+			{ html : "<strong>Favorites</strong><br />You can save each resort to your favorites and create a custom snow report in your profile area.", id : 'content_pos', x : 79, y : -50 }
+		]
+	}
+</script>
+<script type="text/javascript" src="http://images.onthesnow.com/ots/js/info_bubble.js"></script>
+
 
 
 <script type="text/javascript">    
-	document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@' + OAS_listpos + '!Middle"><\/scr' + 'ipt>');
-</script><script src="http://oascentral.onthesnow.com/RealMedia/ads/adstream_jx.ads/www.onthesnow.com/index.html/1735893718@Middle,Top,Right1,Bottom!Middle"></script>
+	document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@Middle"><\/scr' + 'ipt>');
+</script><script src="http://oascentral.onthesnow.com/RealMedia/ads/adstream_jx.ads/www.onthesnow.com/index.html/1undefined@Middle"></script>	
 
-<script type="text/javascript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/15346/slf.js"></script>
+<!-- 
+<script type="text/javascript">   
+	document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + RNS + '@Left1"><\/scr' + 'ipt>');
+</script>
+ -->
+
+<script type="text/javascript" src="http://images.onthesnow.com/ots/js/survey.js"></script>
 
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
 <!-- COPYRIGHT 2007 Nielsen//NetRatings -->
@@ -522,6 +560,38 @@ Updated October 15, 2007
 <script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
 <noscript><div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-onthesnow&amp;cg=0&cc=1" alt=""/></div></noscript>
 <!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+
+<script type="text/javascript">var tcdacmd="dt";</script>
+<script type="text/javascript" src="http://an.tacoda.net/an/15346/slf.js"></script>
+
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-3821806-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	var pageTracker2 = _gat._getTracker("UA-3821806-19");
+	pageTracker2._initData();
+	pageTracker2._trackPageview();
+</script>
+
+
+<script type="text/javascript">
+	OTS.doXEData = function() {
+		var c = OTS.getCookie('XESTUFF');
+		if (!c || c == '') return;
+		var aff = OTS.getQuery('XE_AFF', c, ':');
+		var lnk = OTS.getQuery('XE_LNK', c, ':');
+		OTS.gaTrkEvt('Affiliate', 'XE', aff + ' + ' + lnk + ' + ' + location.href);
+		OTS.setCookie('XESTUFF', '');
+	}
+	OTS.doXEData();
+</script>
+
+
 
 
 
