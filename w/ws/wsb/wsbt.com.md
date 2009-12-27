@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsbt.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111043id_/http%3A//www.wsbt.com/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbt.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025737id_/http%3A//www.wsbt.com/inside/privacy) for the most accurate reproduction.*
 
-# WSBT South Bend - Your Local News Leader | WSBT Privacy Policy
+# WSBT - News, Weather, Sports South Bend | WSBT Privacy Policy
 
 At WSBT Television, Inc., we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of the WSBT Television, Inc.
 
