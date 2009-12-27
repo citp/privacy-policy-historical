@@ -1,77 +1,55 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924183156id_/http%3A//www.platts.com/Privacy%2520Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - The McGraw-Hill Companies
 
-|   
+_Date revised and posted: 7/29/2008_  
+**THE McGRAW-HILL COMPANIES CUSTOMER PRIVACY POLICY STATEMENT**
+
+| [English](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy.html) |  |  | [Español](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_spanish.html) |  |  | [Français](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_french.html) |  |  | [Deutsch](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_german.html) |  |  | [](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_chinese.html) |  |  | [Nederlands](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_dutch.html) |  |  | [Italiano](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_italian.html) |  |  | [](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_japanese.html) |  |  | [](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_russian.html)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
-|  Privacy
+The McGraw-Hill Companies' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs. 
 
-|   
----  
+The McGraw-Hill Companies may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location. 
+
+Please note that privacy notices advising customers and prospects as to the specific uses that are being made of their Personally-Identifiable Information by specific business units within The McGraw-Hill Companies may also be modified from time to time to reflect changes in business practices. In this event, those changes will appear in the relevant privacy notices. 
+
+The McGraw-Hill Companies will also comply with applicable non-U.S. laws that impose additional responsibilities on The McGraw-Hill Companies beyond those stated in this Policy in connection with the treatment of Personally-Identifiable Information about its customers and prospects. 
+
+Our Policy recognizes two kinds of personal data that deserve varying levels of protection. **Personally-Identifiable Information** includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks user activity on a Web site or online service. A subset of that category, **Sensitive Data** , deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions. 
+
+The McGraw-Hill Companies is committed to using all reasonable efforts to abide by the following Policy statement:
+
+****
+  1. **Collection.** Personally-Identifiable Information will only be collected to the extent that The McGraw-Hill Companies deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of The McGraw-Hill Companies.
+  2. **Notification.** Customers and prospects will be notified (usually at the point where Personally-Identifiable Information is collected) as to the uses the business unit may make of the Personally-Identifiable Information collected from them.
+  3. **Choice: Opt Out for External Distribution of Personally-Identifiable Information.** Customers and prospects will be given the opportunity to refuse permission for External Distribution of their name, address or other Personally-Identifiable Information through an Opt Out mechanism. (External Distribution does not include certain limited distributions such as sharing Personally-Identifiable Information with an entity working on behalf of The McGraw-Hill Companies to serve our customers; transfer of Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit; or the disclosure of Personally-Identifiable Information in connection with legal proceedings, investigations of crimes or other wrongdoing. However, sharing Personally-Identifiable Information with an entity working on behalf of The McGraw-Hill Companies or transferring Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit is considered an Onward Transfer and will be handled as described below.)
+  4. **Security.** Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally-Identifiable Information about our customers and prospects.
+  5. **Access: Review and correction.** Procedures have been developed through which customers and prospects can, upon request, review and correct the Personally-Identifiable Information that has been collected from them by The McGraw-Hill Companies. These procedures may not, however, compromise the security, integrity and privacy of either The McGraw-Hill Companies' own proprietary databases or databases licensed from third party companies.
+  6. **Sensitive Data.** The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be rented or otherwise made available for External Distribution outside The McGraw-Hill Companies (although it may be made available through Onward Transfer as described below). Customers and prospects will be given the opportunity to refuse permission for their Sensitive Data to be distributed outside of the business unit that collected the Sensitive Data through use of an Opt Out mechanism for Internal Distribution within The McGraw-Hill Companies.
+  7. **Onward Transfer.** Whenever The McGraw-Hill Companies permits a third party outside of The McGraw-Hill Companies to access Personally-Identifiable Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorized purposes and by authorized persons in a manner consistent with the choices customers and prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained. Please note that our Web sites may contain links to other Web Sites that have their own privacy policies and practices. While The McGraw-Hill Companies will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, The McGraw-Hill Companies cannot make any guarantees with respect to the actions or policies of such third parties.
+
+**Children:** Collection and use of information from children in the U.S. under the age of thirteen will be made in compliance with the Children's Online Privacy Act of 1998. Specifically, The McGraw-Hill Companies will:
+
+    1. provide parents or guardians with Notice of our information practices;
+    2. obtain prior verifiable parental or guardian consent for the collection, use, and/or disclosure of Personally-Identifiable Information from children;
+    3. provide a parent or guardian, upon request, with the means to review the Personally-Identifiable Information collected from his or her child;
+    4. provide a parent or guardian with the opportunity to prevent the further use of Personally-Identifiable Information that has already been collected, or the future collection of Personally-Identifiable Information, from that child;
+    5. limit collection of Personally-Identifiable Information for a child's online participation in a game, prize offer or other activities to Personally-Identifiable Information that is reasonably necessary to participate in the activity; and
+    6. establish procedures to protect the confidentiality, security and integrity of the Personally-Identifiable Information collected from children.
+
+**Questions and comments?** The McGraw-Hill Companies Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our customers and prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each business unit within The McGraw-Hill Companies has designated a Privacy Official to implement our Customer Privacy Policy for its respective customers and prospects. You should find contact information on each of our business unit's Web sites that collect data from you. 
+
+The Corporation also has established a standing Privacy Steering Committee consisting of senior corporate executives and managers from our major business segments. This Committee will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and customer expectations. 
+
+The co-chairs of the Committee are also charged with handling unresolved customer concerns. You can reach them by sending an e-mail message to either [Cindy Braddon](mailto:privacy@mcgraw-hill.com) or [Katherine Roome](mailto:privacy@mcgraw-hill.com). The Corporation publicly issues a Customer Privacy Policy Report annually. 
+
+To ensure that we follow our stated Policy, we also conduct periodic and random reviews of our Web sites and other products and services. The results of our reviews are shared with senior management. A [report](https://web.archive.org/privacy_report2003.shtml) of our experience will be available annually. 
+
+[English](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy.html) |  |  | [Español](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_spanish.html) |  |  | [Français](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_french.html) |  |  | [Deutsch](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_german.html) |  |  | [](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_chinese.html) |  |  | [Nederlands](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_dutch.html) |  |  | [Italiano](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_italian.html) |  |  | [](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_japanese.html) |  |  | [](https://web.archive.org/web/20091227010542id_/http%3A//www.mcgraw-hill.com/privacy_russian.html)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
-General information   
-Cookies   
-Use of your details by other McGraw-Hill Companies   
-Sharing Platts.com site information    
-Change your privacy options
+**< BACK**
 
-Contacting us via email or by registering with Platts under our free email alerts, subscribe and checkout areas, reveals your email address and any other contact information (such as phone number or postal address) you provide through this site. We will use your contact information (just the contact information not information collected through cookies) to help us process your order, service your account and respond to your inquiries.
 
-Our site uses cookies to customize your experience on this site. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer's hard disk so that the Web site can remember who you are and your preferences. There are different types of cookies. A “session” cookie is a cookie that is erased from memory when a visitor’s browser closes. A “persistent” cookie is a cookie that expires based on a time set by the Web server. “Persistent” cookies help to identify the visitor and his/her preferences upon returning to a Web site. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our Web site. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique persistent or session cookie on your browser. These third-party ad servers may also collect and use personally identifiable information about your visits to this and other web sites in order to present advertisements that may be of interest to you.
 
-In order to change these cookie preferences, you must change your browser’s preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser’s specific company for more information. Some examples of how to change your browser’s preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to 
-
-_Block All Cookies;_
-
-In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The 
-
-_Disable Cookies_
-
-button should be checked. 
-
-Occasionally, and subject to applicable laws, Platts also makes our customers’ names and e-mail addresses and other similar contact information available to other businesses within The McGraw-Hill Companies, as well as to other reputable information companies, so that they can inform you about other products and services that may interest you. If at any time you would like your name removed from lists that are shared for these purposes, simply click the easy-to-use External Distribution Opt-Out button at the bottom of this screen for prompt removal of your name. 
-
-Throughout the site we offer you the chance to send a colleague an article or a note telling them about the site. Feel free to take advantage of these opportunities knowing that we will protect your colleague's privacy. We will only use your colleague's email address in order to send the message you asked us to send. We do not hold this information in any database for any subsequent use by Platts.
-
-Change your privacy options  
-  
-If you do not want your contact information used as stated above, simply click the appropriate box(es) below and submit the completed form.  
-Your Privacy options  
-|   
-|   
----  
-| Check here if you do not wish Platts to send you further promotional material via direct mail.  
-| Check here if you do not wish Platts to send you further promotional material via e-mail.  
-| Please do not share my contact information with other parts of The McGraw-Hill Companies.  
-| Please do not share my contact information with companies outside of The McGraw-Hill Companies.  
-****  
-Your Personal Details  
-|   
-To opt-out **YOUR** email address from future promotional emails please enter your email address below. If you have multiple email addresses that are associated to you, then please enter those emails below.   
-Your Email Details|   
-|   
----  
-Email Address:*|   
-Email Address 2:|   
-Email Address 3:|   
-To confirm your submission, we will send an e-mail to each e-mail address you have submitted. Your opt-out request will be honored within 10 business days. Until the request has been processed, you may still receive promotional E-mail messages.   
-Company Details  
-Your Address  
-|   
----  
-Country:*|   
-Street Address:*|   
-City:*|   
-| State/Province (For US and Canada):*|                    
----|---  
-Zip/Postal Code:*|   
-Contact Details  
-|   
----  
-Telephone number (please include country and area codes):*|   
-  
-From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. If you have questions about our privacy practices or if you would like to exercise your right to access and correct the accuracy of your information, please send a request to Platts Privacy Official, Platts, 3333 Walnut Street, Boulder, CO 80301, USA, or to [**unsubscribe@platts.com**](mailto:unsubscribe@platts.com) or call +1 720-548-5546. This information will be maintained in a secure database in the United States and accessed only by authorized employees.
-
-For more information about The McGraw-Hill Companies' Customer Privacy Policy, visit our Web site at **<http://www.mcgraw-hill.com/privacy.html>**.  
-  
-| 
