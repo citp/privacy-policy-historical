@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecafe.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621204906id_/http%3A//www.articlecafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecafe.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227180806id_/http%3A//www.articlecafe.com/privacy.php) for the most accurate reproduction.*
 
 # SEO Friendly Article Directory | Submit Articles | Read Articles
 
