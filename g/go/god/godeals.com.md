@@ -1,9 +1,22 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623180245id_/http%3A//www.godeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227014125id_/http%3A//www.godeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+|   
+---  
+[](http://www.godeals.com/more.htm)  
+[ ](http://www.anrdoezrs.net/click-1404829-10473491)  
+[ ](http://www.tkqlhce.com/click-1404829-10388150%22)  
+[](http://www.godeals.com/more1.htm)  
+[ ](http://click.linksynergy.com/fs-bin/click?id=4coKEZGhqq0&offerid=57189.10001167&type=4&subid=0)  
+[ ](http://click.linksynergy.com/fs-bin/click?id=4coKEZGhqq0&offerid=81180.10000037&subid=0&type=4)  
+[ ](http://www.kqzyfj.com/click-1404829-10478691)  
+[ ](http://click.linksynergy.com/fs-bin/click?id=4coKEZGhqq0&offerid=125089&subid=0)  
+---  
+|  |   
+---|---  
   
-GoDeals.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting any of the sites offered by GoDeals.com, you are accepting the practices described in this Privacy Notice. For question on the Privacy Notice please contact [http://www.godeals.com/contact.html](https://web.archive.org/web/20090623180245id_/http%3A//www.godeals.com/contact.html).What Personal Information About Me Does GoDeals.com Gather?  
+GoDeals.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting any of the sites offered by GoDeals.com, you are accepting the practices described in this Privacy Notice. For question on the Privacy Notice please contact [http://www.godeals.com/contact.html](https://web.archive.org/web/20091227014125id_/http%3A//www.godeals.com/contact.html).What Personal Information About Me Does GoDeals.com Gather?  
 **Information You Give Us:**  
 We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services, and communicating with you.  
 **Automatic Information:**  
@@ -20,4 +33,33 @@ We are committed to protecting the security of your Personal Information .We use
 **What about Children’s Privacy?**  
 Children under the age of 14 are not allowed to use the Site. GoDeals.com does not knowingly collect Personal Information about children under the age of 14 or allow them to use the Site. If GoDeals.com learns that a child under the age of 14 is using the Site, GoDeals.com will close the child's account and delete all information collected about the child. Notwithstanding the foregoing, GoDeals.com may choose to retain the child's e-mail address as a means to prevent the child from re-registering with GoDeals.com.Links  
 Sites provided by GoDeals.com contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.Conditions of Use, Notices, and Revisions  
-If you choose to visit GoDeals.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Deals.com, please send us a thorough description at [http://www.godeals.com/contact.html](https://web.archive.org/web/20090623180245id_/http%3A//www.godeals.com/contact.html), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit GoDeals.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Deals.com, please send us a thorough description at [http://www.godeals.com/contact.html](https://web.archive.org/web/20091227014125id_/http%3A//www.godeals.com/contact.html), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.  
+  
+|  |  |   
+---|---|---  
+|  |  | 
+
+[](http://feeds.feedburner.com/godeals)  
+  
+---  
+  
+[ ](http://www.godeals.com/rss.aspx) [ ](http://www.godeals.com/rss.aspx)  
+  
+[ ](http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://www.godeals.com/rss.aspx)  
+  
+[ ](http://fusion.google.com/add?feedurl=http://www.godeals.com/rss.aspx)  
+  
+[ ](http://www.bloglines.com/sub/http://www.godeals.com/rss.aspx)  
+  
+[ ](http://feeds.my.aol.com/add.jsp?url=http://www.godeals.com/rss.aspx)  
+  
+[ ](http://technorati.com/faves?add=http://www.godeals.com/rss.aspx)  
+  
+[ ](http://my.msn.com/addtomymsn.armx?id=rss&ut=http://www.godeals.com/rss.aspx&ru=http://www.godeals.com/)  
+  
+[ ](http://us.rd.yahoo.com/my/atm/Go%20Deals/New%20Deals/*http://add.my.yahoo.com/rss?url=http://www.godeals.com/rss.aspx)  
+  
+Subscribe for new deals and coupons alerts by entering your email below:  
+|  |   
+  
+---
