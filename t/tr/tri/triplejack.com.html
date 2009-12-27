@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the triplejack.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617173319id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triplejack.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227194821id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="keywords" content="free poker,play poker,online poker,poker,texas hold 'em,texas poker,flash poker game,play poker online,triplejack,triplejack.com,poker online,play poker for fun, win prizes,tournaments,freeroll,free roll,play for prizes,holdem,omaha,win,prize,cash prize,poker for prizes">
@@ -140,7 +140,24 @@ function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 </script>
 <!--/\-- FLASH PLAYER DETECTION FUNCTIONS -->
 <script type="text/javascript" language="JavaScript" src="http://eas.apm.emediate.eu/EAS_tag.1.0.js"></script>
-<script language="JavaScript1.1" src="/tj.js?r=1238990852"></script>
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+ GS_googleAddAdSenseService("ca-pub-8695165319286683");
+ GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+ GA_googleAddSlot("ca-pub-8695165319286683", "300x250");
+ GA_googleAddSlot("ca-pub-8695165319286683", "468x60");
+ GA_googleAddSlot("ca-pub-8695165319286683", "728x90");
+ GA_googleAddSlot("ca-pub-8695165319286683", "Skyscraper");
+</script>
+<script type="text/javascript">
+ GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION --><script language="JavaScript1.1" src="/tj.js?r=1256926172"></script>
 <script language="JavaScript1.1">
 <!--
 
@@ -311,6 +328,27 @@ function handle_admin_actions(){
       }
 }
 //--/\-- admin_actions AJAX --
+
+
+//--\/-- twitter AJAX --
+var http_twitter = getHTTPObject();
+function delay_twitter(login){
+      setTimeout("request_twitter('"+login+"')", 284000);
+}
+function request_twitter(login){
+	if (login==null) login='';
+	var url = 'ajax_twitter.php?login='+login+'&link_target=';
+      http_twitter.open('get', url);
+      http_twitter.onreadystatechange = handle_twitter;
+      http_twitter.send(null);
+      delay_twitter(login);
+}
+function handle_twitter(){
+      if(http_twitter.readyState == 4){
+            document.getElementById('twitter').innerHTML = http_twitter.responseText;
+      }
+}
+//--/\-- twitter AJAX --
 function start_ajax(){
       if (document.getElementById('recent_posts')){
             delay_recent_posts('');
@@ -336,6 +374,9 @@ function start_ajax(){
       if (document.getElementById('admin_actions')){
             delay_admin_actions('');
       }
+      if (document.getElementById('twitter')){
+            delay_twitter('');
+      }
 }
 //-->
 </script>
@@ -356,7 +397,7 @@ a.reflect{
 	font-size:11px;
 }
 </style>
-<table bgcolor="#224466" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a href="./"><img border="0" alt="Triplejack Poker" src="tjtop3-title.gif"></a></td></tr><tr><td align="center" style="background-image:url(tjtop3-reflect.jpg); background-repeat:no-repeat; background-position:top center;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img class="pngfix" src="/tjtop3-menuleft.png"></td><td valign="middle" align="center" class="pngfix" style="font-size:11px; background-image:url(/tjtop3-menubg.png); background-repeat:repeat-x; white-space:nowrap;"><a class="reflect" href="./">Home</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="/info/">Game Info</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="register.php">Register Free</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="/forum/">Forum</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="profile.php">Community</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="prizes.php">Prizes</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="contact.php">Contact</a></td><td valign="top"><img class="pngfix" src="/tjtop3-menuright.png"></td></tr></tbody></table></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><table bgcolor="#224466" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a href="./"><img border="0" alt="Triplejack Poker" src="tjtop3-title.gif"></a></td></tr><tr><td align="center" style="background-image:url(tjtop3-reflect.jpg); background-repeat:no-repeat; background-position:top center;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img class="pngfix" src="/tjtop3-menuleft.png"></td><td valign="middle" align="center" class="pngfix" style="font-size:11px; background-image:url(/tjtop3-menubg.png); background-repeat:repeat-x; white-space:nowrap;"><a class="reflect" href="./">Home</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="/info/">Game Info</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="register.php">Register Free</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="/forum/">Forum</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="profile.php">Community</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="prizes.php">Prizes</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="contact.php">Contact</a></td><td valign="top"><img class="pngfix" src="/tjtop3-menuright.png"></td></tr></tbody></table></td></tr></tbody></table></td><td valign="top"><a href="http://www.twitter.com/Triplejack" target="_blank"><img border="0" width="100" height="50" src="twitter-button.jpg" alt="Follow Triplejack on Twitter!"></a></td></tr></tbody></table>
 
 
 </center>
@@ -486,11 +527,20 @@ what circumstances we disclose it.</span> </p>
 
 </center></td></tr></tbody></table>
 
-<center><table border="0" cellspacing="0" cellpadding="0" style="padding:0px;"><tbody><tr><td class="yellow-tl"></td><td class="yellow-t"></td><td class="yellow-tr"></td></tr><tr><td class="yellow-l"></td><td class="yellow"><b>Not a member yet?</b> <a href="register.php" target="_self">Register Now!</a> — It's free and tons of fun!</td><td class="yellow-r"></td></tr><tr><td class="yellow-bl"></td><td class="yellow-b"></td><td class="yellow-br"></td></tr></tbody></table><br><br><table width="100%" cellpadding="10" cellspacing="0" bgcolor="#264C72" class="taillink"><tbody><tr><td align="center"><table width="500" cellpadding="0" cellspacing="0" bgcolor="#264C72"><tbody><tr><td align="center"><a href="/">Home / Play</a></td><td align="center"><a href="/info/">Game Info</a></td><td align="center"><a href="/register.php">Register Free!</a></td></tr><tr><td align="center"><a href="/stats.php" target="_self">Scores &amp; Stats</a></td><td align="center"><a href="/forum/" target="_blank">Forum</a></td><td align="center"><a href="password.php" target="_self">Change Password</a></td></tr><tr><td align="center"><a href="contact.php" target="_self">Contact Us</a></td><td align="center"><a href="/daily_stats.php" target="_self">Daily Stats</a></td><td align="center"><a href="password.php" target="_self">Forgotten Login?</a></td></tr></tbody></table></td></tr></tbody></table>
+<center>
+
+<!-- yellow promo box vars: 
+id=1
+network_id=1
+page_title=Triplejack Privacy Policy
+
+ -->
+
+<table border="0" cellspacing="0" cellpadding="0" style="padding:0px;"><tbody><tr><td class="yellow-tl"></td><td class="yellow-t"></td><td class="yellow-tr"></td></tr><tr><td class="yellow-l"></td><td class="yellow"><b>Not a member yet?</b> <a href="register.php" target="_self">Register Now!</a> — It's free and tons of fun!</td><td class="yellow-r"></td></tr><tr><td class="yellow-bl"></td><td class="yellow-b"></td><td class="yellow-br"></td></tr></tbody></table><br><br><table width="100%" cellpadding="10" cellspacing="0" bgcolor="#264C72" class="taillink"><tbody><tr><td align="center"><table width="500" cellpadding="0" cellspacing="0" bgcolor="#264C72"><tbody><tr><td align="center"><a href="/">Home / Play</a></td><td align="center"><a href="/info/">Game Info</a></td><td align="center"><a href="/register.php">Register Free!</a></td></tr><tr><td align="center"><a href="/stats.php" target="">Scores &amp; Stats</a></td><td align="center"><a href="/forum/" target="_blank">Forum</a></td><td align="center"><a href="password.php" target="">Change Password</a></td></tr><tr><td align="center"><a href="contact.php" target="">Contact Us</a></td><td align="center"><a href="/daily_stats.php" target="">Daily Stats</a></td><td align="center"><a href="password.php" target="">Forgotten Login?</a></td></tr></tbody></table></td></tr></tbody></table>
 <table width="100%" cellpadding="2" cellspacing="0" bgcolor="#224466">
 <tbody><tr><td align="right"><span class="sm"><font color="#99CCFF">
-<span class="taillink"><a href="terms.php" target="_self">Terms &amp; Conditions</a></span>&nbsp;&nbsp;&nbsp;
-<span class="taillink"><a href="privacy.php" target="_self">Privacy Policy</a></span>&nbsp;&nbsp;&nbsp;
+<span class="taillink"><a href="terms.php" target="">Terms &amp; Conditions</a></span>&nbsp;&nbsp;&nbsp;
+<span class="taillink"><a href="privacy.php" target="">Privacy Policy</a></span>&nbsp;&nbsp;&nbsp;
 ©2009 Triplejack, LLC. All Rights Reserved.</font></span>
 </td></tr></tbody></table>
 
