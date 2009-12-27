@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110959id_/http%3A//www.startups.co.uk/6678842908907216170) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025717id_/http%3A//www.startups.co.uk/6678842908907216170) for the most accurate reproduction.*
 
 # Startups | Privacy policy
 
