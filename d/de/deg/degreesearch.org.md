@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618110714id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227165348id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -53,10 +53,13 @@ Some of our sites may contain links to other sites external to our sites. Degree
 ## Definitions
 
 Cookies
-    Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk.   
-The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. 
+    
 
-You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. 
+Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk.
+
+The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session.
+
+You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
 
 IP (Internet Protocol) Address
     This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2.
