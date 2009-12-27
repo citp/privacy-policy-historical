@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627131408id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227032317id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.*
 
 # Yoga Journal
 
