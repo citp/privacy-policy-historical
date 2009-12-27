@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629003903id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227175417id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
-# : Privacy Policy - The AA
+# Privacy Policy - The AA
 
 Saga and AA Group data protection privacy policy
 
@@ -10,7 +10,7 @@ Last updated: January 2008
 
 'Saga' means the Saga Group of companies and all companies within the Saga Group resident anywhere in the world.
 
-'AA' means the AA Group of companies and Automobile Association Personal Finance Limited (a joint venture company with Halifax Bank of Scotland). A list of the companies within the AA Group can be obtained from the AA address below.
+'AA' means the AA Group of companies and Automobile Association Personal Finance Limited (a joint venture company with Lloyds Banking Group). A list of the companies within the AA Group can be obtained from the AA address below.
 
 Saga and AA (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
 
