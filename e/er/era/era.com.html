@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the era.com privacy policy that was archived on 2009-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504071738id_/http%3A//www.era.com/eraresources/aboutera/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the era.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227154518id_/http%3A//www.era.com/eraresources/aboutera/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    
@@ -8,15 +8,16 @@
          <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       
    
-   <title>Privacy Policy - ERA Real Estate</title> 
-   <meta name="description" content="">
-   <meta name="keywords" content="">
-   <link href="/css/global.compressed.css" rel="stylesheet" type="text/css">
-   <link href="/css/layout.compressed.css" rel="stylesheet" type="text/css">
-   <link href="/css/shared.compressed.css" rel="stylesheet" type="text/css">
-   <link href="/css/sidebar.compressed.css" rel="stylesheet" type="text/css">
-   <link href="/css/calloutboxes.compressed.css" rel="stylesheet" type="text/css">
-   <link href="/css/forms.compressed.css" rel="stylesheet" type="text/css">
+    <title>Privacy Policy - ERA Real Estate</title> 
+
+
+    <link href="/css/global.compressed.css" rel="stylesheet" type="text/css">
+    <link href="/css/layout.compressed.css" rel="stylesheet" type="text/css">
+    <link href="/css/shared.compressed.css" rel="stylesheet" type="text/css">
+    <link href="/css/sidebar.compressed.css" rel="stylesheet" type="text/css">
+    <link href="/css/sfl/ERASlider.compressed.css" rel="stylesheet" type="text/css"> 
+    <link href="/css/calloutboxes.compressed.css" rel="stylesheet" type="text/css"> 
+    <link href="/css/forms.compressed.css" rel="stylesheet" type="text/css">
 
    <link href="/css/content.compressed.css" rel="stylesheet" type="text/css">
 
@@ -35,6 +36,8 @@
    <link rel="SHORTCUT ICON" href="/favicon.ico">
    <script src="/RfgClientSupportFiles/rfgmapappliance_ve.compressed.js"></script>
    <script src="/js/global.compressed.js"></script>
+	<script src="/js/sfl/ERASlider.compressed.js"></script>
+	<script src="/js/CyberAjaxQueue.compressed.js"></script>
    <script src="/js/SmoothMovement.compressed.js"></script>
    <script src="/js/topnavigation.compressed.js"></script>
 
@@ -42,6 +45,7 @@
    <script src="/__utm.js" type="text/javascript"></script>
    <meta name="WT.z_brandid" content="ERA">
    <meta name="WT.z_site_id" content="www.era.com">
+
 
 
 
@@ -77,14 +81,78 @@
    <!-- Start Main Page Seperator -->
    <div id="page_seperator"></div>
    <!-- End Main Page Seperator -->
-<!-- Start Body Text Area -->
-<div class="graycalloutcontainer" id="page_logocontainer">
-    <a href="/" title="ERA Real Estate Home"><img src="/images/logos/era_crown.jpg" border="0"></a>
-    <div class="tl"></div>
-    <div class="tr"></div>
-    <div class="bl"></div>
-    <div class="br"></div>
-</div>
+    <!-- Start Body Text Area -->
+    
+	
+	<div id="logolist" class="crowncontainer">
+		<div class="grabbercontainer">
+			<div id="grabber" onclick="ERASlider.slideOut(this)"></div>
+		</div>
+		<div class="logocontainer">
+			<div class="tl">
+				<div></div>
+			</div>
+			<div class="t"></div>
+			<div class="tr">
+				<div></div>
+			</div>
+			<div class="main">
+				<div>
+					<a href="/" title="ERA Real Estate Home"><img src="/images/logos/era_crown.jpg" border="0"></a>
+				</div>
+			</div>
+			<div class="bl"></div>
+			<div class="b"></div>
+			<div class="br"></div>
+		</div>
+	</div>
+	<div id="ERASlider" style="display:none;">
+		
+			
+				
+			
+			
+		
+		<div class="grab" onclick="ERASlider.slideIn(this)" title="Site for Left Helper"></div>
+		<div class="data">
+			<div class="block">
+				<form id="sconLoginForm" onsubmit="return ERASlider.frmLoginSubmit(this)">
+					<div id="Msg">
+						<a href="/sfl/join/" title="Register For Site for Life Now">Not a member? Register now!</a>
+					</div>
+					<div class="r1">
+						<div>Email:</div>
+						<input name="email" type="text">
+					</div>
+					<div class="r2">
+						<div>Password:</div>
+						<input type="password" name="password">
+					</div>
+					<div class="r3">
+   						<div class="dataentrybuttoncontainer">
+							<input type="submit" value="Login" class="dataentrybutton">
+							<div class="tl"></div>
+							<div class="tr"></div>
+							<div class="bl"></div>
+							<div class="br"></div>
+						</div>
+                        <div>
+                            <button style="width:25px" type="button" onclick="window.location='/sfl/'">?</button>
+                        </div>
+					</div>
+				</form>
+				<div id="sconLogin" style="display:none">
+					<div>Welcome, you are now logged in to Site For Life. You 
+                        can now save property pages, agent profile pages, create 
+                        a driving tour, and more! </div>
+					<div class="footer" style="margin-top: 10px;">
+						<a href="/sfl/">Click Here to Go to Site For Life</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+    
 
 
 
@@ -255,32 +323,6 @@
                   <a href="/eraresources/aboutera/sponsorship.jsp">ERA Muscular Dystrophy Association Partnership</a>
                </div>
             </div>
-			<div class="contenttopiccontainer">
-               <div class="label">
-                  ERA Columns
-               </div>
-               <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/powercolumn.jsp">The Power of One: Singles Opt for the Advantages of Homeownership</a>
-               </div>
-               <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/goldcolumn.jsp">Mining Silver, Striking Gold</a>
-               </div>
-			   <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/sensitivitycolumn.jsp">Sensitivity to Diversity Spells Success</a>
-               </div>
-			   <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/schoolcolumn.jsp">For Realtors®, School is Never Out</a>
-               </div>
-			   <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/nichecolumn.jsp">Finding Your Niche</a>
-               </div>
-			   <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/familycolumn.jsp">Feeding A Growing Family</a>
-               </div>
-			   <div class="contentsubtopic">
-                  <a href="/eraresources/aboutera/dreamcolumn.jsp">Achieving the Dream</a>
-               </div>
-            </div>
          </div>
       </div>
    </div>
@@ -401,6 +443,7 @@
   </div>
 </div>
 <!-- End Main Page Content -->
+
 <!-- End Body Text Area -->
    <div class="clearfloat"></div>
    <!-- Start Bottom Links -->
@@ -413,29 +456,36 @@
    </div>
    <!-- End Bottom Links -->
    <div id="page_footer">
+      
    </div>
    <!-- End Main Page Footer -->
 
 
    <div id="ipc_subnavigation" class="hide">
       
+
+
       <div id="subpage_tab_buy">
          <a href="/erabuy/">Property Search</a>
          <a href="/erabuy/mapsearch.jsp">Map Search</a>
          <!--<a href="/rental/">Rental</a>-->
          <a href="/erabuy/officeagentsearch.jsp">Office &amp; Agent Search</a>
          <a href="/eraresources/buyingadvice/">Buyer Resources</a>
+         <a href="/eraresources/featuredservices/goldstarproperty.jsp">Gold Star Property</a>
       </div>
       <div id="subpage_tab_sell">
          <a href="/eraresources/sellingadvice/sellersecurityplan.jsp">Sellers Security Plan</a>
          <a href="/erasell/specialist.jsp">Specialists</a> 
          <a href="/eraresources/sellingadvice/">Seller Resources</a> 
          <a href="/erabuy/officeagentsearch.jsp">Office &amp; Agent Search</a> 
-         <a href="/eraresources/featuredservices/goldstarproperty.jsp">Gold Star Property</a>
+         <a href="/eraresources/featuredservices/goldstarsellers.jsp">Gold Star Property</a>
       </div>
       <div id="subpage_tab_specialmarkets">
          <a href="http://www.eradistinctiveproperties.com/">International Collection</a>
          <a href="/commercial/">Commercial</a>
+
+
+
          <a href="/resort/">Resort</a>
          <a href="http://espanol.era.com/">Español.ERA.com</a>
          <a href="/military/">Military</a>
