@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultadworld.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618172817id_/http%3A//www.adultadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultadworld.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227223049id_/http%3A//www.adultadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Adult AdWorld : Adult Advertising Network : Privacy Statement
 
