@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601171228id_/http%3A//www6.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227115531id_/http%3A//www6.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
