@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsenseaddict.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627203200id_/http%3A//adsenseaddict.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsenseaddict.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004515id_/http%3A//adsenseaddict.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adsense Addict
+# Privacy Policy « Adsense Addict
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.adsenseaddict.com . The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -25,11 +25,3 @@ We use cookies on this website. We use Google, as a third party advertising comp
 
 Contact Information  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: adsenseaddict[at]yahoo[dot]com
-
-[ ](http://del.icio.us/post?url=http://adsenseaddict.com/privacy-policy&title=Privacy%20Policy) |  [ ](http://adsenseaddict.com/feed/rss) |  [ ](http://technorati.com/faves?add=http://adsenseaddict.com/privacy-policy) |  [ ](http://www.stumbleupon.com/submit?url=http://adsenseaddict.com/privacy-policy&title=Privacy%20Policy) |  [ ](http://digg.com/submit?phase=2&url=http://adsenseaddict.com/privacy-policy)  
----|---|---|---|---  
- |  |  |  | [](http://www.sajithmr.com/)  
-  
-If you're new here, you may want to subscribe to my [RSS feed](http://adsenseaddict.com/feed/). Thanks for visiting!
-
-[](http://www.thewidgeteers.com/?VIP=3597)
