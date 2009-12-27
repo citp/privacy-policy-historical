@@ -1,0 +1,808 @@
+<!--The following is the downloaded HTML source of the eliteeducationgroup.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227122351id_/http%3A//www.eliteeducationgroup.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Elite Education Group - Privacy Policy
+</title><link rel="SHORTCUT ICON" href="/images/app/app_icon.ico"><link type="text/css" rel="stylesheet" href="/css/dev/auxiliar.css"><link href="/css/dev/main.css" rel="stylesheet" type="text/css">
+    <!--[if lte IE 6]>	
+	<link href="/css/dev/ie6_override.css" rel="stylesheet" type="text/css" />
+    <![endif]-->    
+    <meta http-equiv="X-UA-Compatible" content="IE=7"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="keywords" content="elite education group, elite, education, group, eeg, careeer, school, program, major, education, American education system, USA education, US education, American education, US education system, USA education system, study in the us, study in the Canada, study in america, study usa, study canada, study us, study ca"><meta name="description" content="Elite Education Group provides the information necessary to make the best decision concerning your degree program, career, and school preference. ">       
+    <style type="text/css">
+    
+    .tooltip {        
+        position:absolute;
+        top: 0px;
+        left:0px;
+        z-index:3;
+        display:none;
+        font-size:8pt;
+        background-color:Transparent;
+    }        
+    
+    .tooltip .tooltipTable {
+        width:102%;
+        background-color:Transparent;
+    }
+    
+    .tooltip .contentBox span {
+        color:#666666;
+    }
+    
+    .tooltip .campusBox {
+        color:#666666;
+        background-color:#f6f3ed;
+        padding:5px 10px 5px 10px;
+        margin-top:3px;
+        text-align:left;
+    }
+    
+    .tooltip .tblCampus {
+        color:#666666;         
+        margin:0px 0px 0px 0px;  
+        text-align:left;                             
+    }
+    
+    .tooltip .tblCampus td {
+        text-align:left;
+        padding-left: 10px;	    
+	    background: url(/images/app/img_tt_bullet.png) no-repeat center left;
+        line-height:1.2em;
+        margin: 0px 0px 0px 0px;        
+            
+    }       
+    
+    .tooltip .button {
+        background-image:url(/images/app/tooltip_btn_apply.png);
+        border:solid 1px #87adc2;
+        cursor:pointer;
+        height:20px;
+        width:75px;
+        font-family:Arial Narrow;
+        font-weight:bold;
+        color:#ffffff;        
+        text-align:center;        
+        vertical-align:middle;
+        padding-bottom:7px;
+    }
+    
+    .tooltip .buttonApply {
+        background-image:url(/images/app/tooltip_btn_apply.png);
+    }
+    
+    .tooltip .buttonLearn {
+        background-image:url(/images/app/tooltip_btn_learn.png);
+    }
+    
+    </style>
+        
+    <script type="text/javascript" language="javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" language="javascript" src="/scripts/jquery.simpletip-1.3.1.min.js"></script>
+
+    <script type="text/javascript" language="javascript">        
+    
+    function window_onload() {
+        var pageName = "privacy";
+        var item = null;        
+        switch(pageName) {        
+            case "home" : item = document.getElementById("lnkHome");break;
+            case "degrees" : item = document.getElementById("lnkDegrees");break;
+            case "programs" : item = document.getElementById("lnkPrograms");break;
+            case "schools" : var type = getQueryParam("t");                             
+                             if(type == "c" || type == "m") {
+                                item = document.getElementById("lnkSchoolsC");
+                             }                             
+                             else {
+                                item = document.getElementById("lnkSchoolsO");
+                             }
+                             break;
+            case "faq" : item = document.getElementById("lnkFAQ");break;
+            case "about_us" : item = document.getElementById("lnkAboutUs");break;
+            case "contact_us" : item = document.getElementById("lnkContactUs");break;
+            case "international" : item = document.getElementById("lnkInter");break;
+        }
+        if(item != null) {            
+            item.className = "itemActive";
+        }
+        configBanners();
+    }
+    
+    function changeClass(pCtrlID, pClass){ 
+        var ctrl = document.getElementById(pCtrlID);
+        if(ctrl != null) {
+            ctrl.className = pClass;
+        }
+    }           
+    
+    function getQueryParam(id) {
+        var query = window.location.search.substr(1);        
+        if(query != "") {
+            var params = query.split("&");
+            for(var i=0;i<params.length;i++) {
+                var param = params[0].split("=");
+                if(param[0] == id) {
+                    return param[1] || "";                    
+                }
+            }
+        }
+        return "";
+    }        
+    
+    function onsubmitMain() {       
+        return ("privacy" == "contact_us");
+    }
+    
+    /* Banners */
+    
+    var __banner_Ids = new Array()
+    
+    function configBanners() {        
+        var isOpera = (navigator.appName == "Opera");
+        if(__banner_Ids != null && __banner_Ids.length > 0) {            
+            for(var i=0;i<__banner_Ids.length;i++) {                
+                var elements = document.getElementsByName(__banner_Ids[i]);                                
+                if(elements == null || elements.length == 0) {
+                    var name = __banner_Ids[i];
+                    var temp = document.getElementsByTagName("table");                    
+                    var matches = [];
+                    for(var i=0;i<temp.length;i++) {
+                        if(temp[i].name == name){
+                            matches.push(temp[i]);
+                        }
+                    }
+                    elements = matches;
+                }     
+                                
+                if(elements != null) {
+                    for(var j=0;j<elements.length;j++) {                                             
+                        var pos = ["100", "-30"];
+                        if(isOpera) {
+                            pos[0] = ((j%3) != 0) ? "0" : "100";                         
+                        }
+                        $("#" + elements[j].id.replace("_table", "")).simpletip({                             
+                            content: getBannerTooltipContent(elements[j].id.replace("_table", "_content")),
+                            position: pos,                           
+                            fixed:true,
+                            showEffect:"none",
+                            hideEffect:"none"                            
+                        });
+                    }                    
+                }
+            }
+        }                
+    }
+    
+    function getBannerTooltipContent(contentElId) {        
+        var html="";
+        html = "<div class='ttBanners'><table cellpadding='0' cellspacing='0'><tr><td class='ttTopLeft'></td><td class='ttTopMid'></td><td class='ttTopRight'></td></tr>";        
+        html += "<tr><td class='ttMid'></td><td class='ttContent'>" + document.getElementById(contentElId).innerHTML + "</td><td class='ttMid'></td></tr>";
+        html += "<tr><td class='ttBottomLeft'></td><td class='ttTopMid'></td><td class='ttBottomRight'></td></tr></table><div class='ttArrow'></div></div>";
+        return html;        
+    }
+                    
+    </script>   
+</head>
+<body onload="window_onload();">
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" onsubmit="return onsubmitMain();">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWAgIDD2QWAgIBD2QWAmYPZBYCZg8QFgYeDURhdGFUZXh0RmllbGQFC1Byb2dyYW1OYW1lHg5EYXRhVmFsdWVGaWVsZAUJUHJvZ3JhbUlEHgtfIURhdGFCb3VuZGcQFTEKU2VsZWN0IG9uZQpBY2NvdW50aW5nDkFkbWluaXN0cmF0aW9uDkFkbWluaXN0cmF0aW9uHkFkbWluaXN0cmF0aW9uIGFuZCBTdXBlcnZpc2lvbhxBZHVsdCBFZHVjYXRpb24gYW5kIFRyYWluaW5nCUFuaW1hdGlvbhlCdXNpbmVzcyBTeXN0ZW1zIEFuYWx5c2lzDUNvbW11bmljYXRpb24OQ29tbXVuaWNhdGlvbnMSQ29tcHV0ZXIgRWR1Y2F0aW9uLENvbXB1dGVyLUFpZGVkIERlc2lnbi9BcmNoaXRlY3R1cmFsIERyYWZ0aW5nGkN1cnJpY3VsdW0gYW5kIEluc3RydWN0aW9uCmUtQnVzaW5lc3MZRWFybHkgQ2hpbGRob29kIEVkdWNhdGlvbhRFbGVtZW50YXJ5IEVkdWNhdGlvbiNFbmdsaXNoIGFuZCBMYW5ndWFnZSBBcnRzIEVkdWNhdGlvbhpGYW1pbHkgTnVyc2UgUHJhY3RpdGlvbmVycwdGaW5hbmNlCEdhbWUgQXJ0EUdhbWUgQXJ0ICYgRGVzaWduG0dyYXBoaWMgRGVzaWduICYgTXVsdGltZWRpYRVIZWFsdGggQWRtaW5pc3RyYXRpb24WSG9zcGl0YWxpdHkgTWFuYWdlbWVudBhIdW1hbiBSZXNvdXJjZSBNYW5nYW1lbnQTSW5mb3JtYXRpb24gU3lzdGVtcxxJbmZvcm1hdGlvbiBTeXN0ZW1zIFNlY3VyaXR5FkluZm9ybWF0aW9uIFRlY2hub2xvZ3kPSW50ZXJpb3IgRGVzaWduFkludGVybmF0aW9uYWwgLyBHbG9iYWwKSVQgU3VwcG9ydApNYW5hZ2VtZW50Ck1hbmFnZW1lbnQJTWFya2V0aW5nI011bHRpbWVkaWEgYW5kIFZpc3VhbCBDb21tdW5pY2F0aW9uIU5ldHdvcmtpbmcgYW5kIFRlbGVjb21tdW5pY2F0aW9ucwdOdXJzaW5nGU9yZ2FuaXphdGlvbmFsIElubm92YXRpb24JUGFyYWxlZ2FsClBzeWNob2xvZ3kRUmV0YWlsIE1hbmFnZW1lbnQkU21hbGwgQnVzaW5lc3MgTWd0LyBFbnRyZXByZW5ldXJzaGlwFFNvZnR3YXJlIEVuZ2luZWVyaW5nElRlYWNoZXIgTGVhZGVyc2hpcBBUaWVtcG8gRGV2ZWxvcGVyFFZpc3VhbCBDb21tdW5pY2F0aW9uF1dlYiBEZXNpZ24gJiBNdWx0aW1lZGlhD1dlYiBEZXZlbG9wbWVudANYWVoVMQABMQIxNwIyMAIzNQIzNgI1NgIyMgEzAjE2AjM4AjU3AjM3ATQCNDICMTkCMzkCNDkBNQI1MQI1MAI1MgI0OAE2ATcBOAIyMwIyNAI1MwE5AjI1AjEwAjIxAjExAjI2AjI3AjMwAjEyAjU4AjMxAjE0AjE1AjI4AjQ2AjU5AjU0AjU1AjI5AjYwFCsDMWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZGTZ29csglWBScno9a+r8J+0qFuw9A==">
+
+    <div>
+    <table align="center" class="mainContainer" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+            <td>
+                <div class="mainHeader">
+                    <div class="logo" onclick="location.href='home.aspx'" style="cursor:pointer;"></div>
+                    <div id="divSearchExtended" onclick="javascript:swapSearch();" style="cursor:pointer;" class="searchLink"><a href="javascript:swapSearch();" onclick="javascript:swapSearch();" class="extendLink"><span class="option">School Finder:</span>&nbsp;<span id="lblSearchDynamicText">Find the right school for you</span></a></div>
+                </div>                
+            </td>
+        </tr>
+        <tr>
+            <td class="mainHeader2">
+                    <div id="divSearchersExtended" class="gen_SearcherBox" style="display:block;width:95%;margin-bottom:15px; *margin-bottom:0px; text-align:center;">
+                        
+<table cellpadding="0" cellspacing="0" width="95%" align="center" style="display:inline;width:95%;margin-bottom:15px;">
+    <tbody><tr>
+        <td class="sf_Header"><span class="sf_HeaderLabel">Your Education Starts Here!</span>&nbsp;&nbsp;<span class="sf_HeaderLabel2">Begin with the School Finder Tools</span></td>
+    </tr>
+    <tr>
+        <td>
+            <table cellpadding="0" cellspacing="0" width="900" align="center">
+                <tbody><tr>
+                    <td align="center" style="width:25%;">
+                        <table cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td><img src="/images/app/us_icon.png" alt=""></td>
+                                <td class="ext_info_text">
+                                    Find a Campus<br>near you
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="content">
+                                   <select id="cboFindState" style="width:150px;">
+                                    <option value="">Select a State</option>
+                                    <option value="AL">Alabama</option>
+                                    <option value="AK">Alaska</option>
+                                    <option value="AZ">Arizona</option>
+                                    <option value="AR">Arkansas</option>
+                                    <option value="CA">California</option>
+                                    <option value="CO">Colorado</option>
+                                    <option value="CT">Connecticut</option>
+                                    <option value="DE">Delaware</option>
+                                    <option value="DC">District of Columbia</option>
+                                    <option value="FL">Florida</option>
+                                    <option value="GA">Georgia</option>
+                                    <option value="HI">Hawaii</option>
+                                    <option value="ID">Idaho</option>
+                                    <option value="IL">Illinois</option>
+                                    <option value="IN">Indiana</option>
+                                    <option value="IA">Iowa</option>
+                                    <option value="KS">Kansas</option>
+                                    <option value="KY">Kentucky</option>
+                                    <option value="LA">Louisiana</option>
+                                    <option value="ME">Maine</option>
+                                    <option value="MD">Maryland</option>
+                                    <option value="MA">Massachusetts</option>
+                                    <option value="MI">Michigan</option>
+                                    <option value="MN">Minnesota</option>
+                                    <option value="MS">Mississippi</option>
+                                    <option value="MO">Missouri</option>
+                                    <option value="MT">Montana</option>
+                                    <option value="NE">Nebraska</option>
+                                    <option value="NV">Nevada</option>
+                                    <option value="NH">New Hampshire</option>
+                                    <option value="NJ">New Jersey</option>
+                                    <option value="NM">New Mexico</option>
+                                    <option value="NY">New York</option>
+                                    <option value="NC">North Carolina</option>
+                                    <option value="ND">North Dakota</option>
+                                    <option value="OH">Ohio</option>
+                                    <option value="OK">Oklahoma</option>
+                                    <option value="OR">Oregon</option>
+                                    <option value="PA">Pennsylvania</option>
+                                    <option value="RI">Rhode Island</option>
+                                    <option value="SC">South Carolina</option>
+                                    <option value="SD">South Dakota</option>
+                                    <option value="TN">Tennessee</option>
+                                    <option value="TX">Texas</option>
+                                    <option value="UT">Utah</option>
+                                    <option value="VT">Vermont</option>
+                                    <option value="VA">Virginia</option>
+                                    <option value="WA">Washington</option>
+                                    <option value="WV">West Virginia</option>
+                                    <option value="WI">Wisconsin</option>
+                                    <option value="WY">Wyoming</option>
+                                   </select> 
+                                </td>
+                                <td style="padding-left:3px;">
+                                    <input type="image" src="/images/app/btn_go_bg.png" id="btnGoFindState" title="Go" value="Go" onclick="return doSearch(1);">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td>
+                        <img src="/images/app/header_item_separator.png" alt="">
+                    </td>
+                    <td align="center" style="width:25%;">
+                        <table cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td><img src="/images/app/degree_icon.png" alt=""></td>
+                                <td class="ext_info_text">
+                                    Choose a<br>Degree
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="content">
+                                   <select id="cboFindDegree" style="width:150px;">
+                                    <option value="" selected="selected">Select one</option>
+                                    <option value="1">Associate</option>
+                                    <option value="2">Bachelor</option>
+                                    <option value="3">Master</option>
+                                    <option value="4">Doctorate</option>
+                                    <option value="5">Certificate</option>
+                                   </select> 
+                                </td>
+                                <td style="padding-left:3px;">
+                                    <input type="image" src="/images/app/btn_go_bg.png" id="Image1" title="Go" value="Go" onclick="return doSearch(2);">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td>
+                        <img src="/images/app/header_item_separator.png" alt="">
+                    </td>
+                    <td align="center" style="width:25%;">
+                        <table cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td><img src="/images/app/program_icon.png" alt=""></td>
+                                <td class="ext_info_text">
+                                    Choose a<br>Program
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="content">
+                                   <select name="ctl00$ctl00$ctrlSearchTools$cboFindProgram" id="ctl00_ctl00_ctrlSearchTools_cboFindProgram" style="width:150px;">
+	<option value="">Select one</option>
+	<option value="1">Accounting</option>
+	<option value="17">Administration</option>
+	<option value="20">Administration</option>
+	<option value="35">Administration and Supervision</option>
+	<option value="36">Adult Education and Training</option>
+	<option value="56">Animation</option>
+	<option value="22">Business Systems Analysis</option>
+	<option value="3">Communication</option>
+	<option value="16">Communications</option>
+	<option value="38">Computer Education</option>
+	<option value="57">Computer-Aided Design/Architectural Drafting</option>
+	<option value="37">Curriculum and Instruction</option>
+	<option value="4">e-Business</option>
+	<option value="42">Early Childhood Education</option>
+	<option value="19">Elementary Education</option>
+	<option value="39">English and Language Arts Education</option>
+	<option value="49">Family Nurse Practitioners</option>
+	<option value="5">Finance</option>
+	<option value="51">Game Art</option>
+	<option value="50">Game Art &amp; Design</option>
+	<option value="52">Graphic Design &amp; Multimedia</option>
+	<option value="48">Health Administration</option>
+	<option value="6">Hospitality Management</option>
+	<option value="7">Human Resource Mangament</option>
+	<option value="8">Information Systems</option>
+	<option value="23">Information Systems Security</option>
+	<option value="24">Information Technology</option>
+	<option value="53">Interior Design</option>
+	<option value="9">International / Global</option>
+	<option value="25">IT Support</option>
+	<option value="10">Management</option>
+	<option value="21">Management</option>
+	<option value="11">Marketing</option>
+	<option value="26">Multimedia and Visual Communication</option>
+	<option value="27">Networking and Telecommunications</option>
+	<option value="30">Nursing</option>
+	<option value="12">Organizational Innovation</option>
+	<option value="58">Paralegal</option>
+	<option value="31">Psychology</option>
+	<option value="14">Retail Management</option>
+	<option value="15">Small Business Mgt/ Entrepreneurship</option>
+	<option value="28">Software Engineering</option>
+	<option value="46">Teacher Leadership</option>
+	<option value="59">Tiempo Developer</option>
+	<option value="54">Visual Communication</option>
+	<option value="55">Web Design &amp; Multimedia</option>
+	<option value="29">Web Development</option>
+	<option value="60">XYZ</option>
+</select> 
+                                </td>
+                                <td style="padding-left:3px;">
+                                    <input type="image" src="/images/app/btn_go_bg.png" id="Image2" title="Go" value="Go" onclick="return doSearch(3);">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td>
+                        <img src="/images/app/header_item_separator.png" alt="">
+                    </td>
+                    <td align="center" style="width:25%;">
+                        <table cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td><img src="/images/app/find_icon.png" alt=""></td>
+                                <td class="ext_info_text">
+                                    Find a<br>Local School
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="content">
+                                   <input type="text" id="txtFindZipCode" value="Enter Zip Code" maxlength="15" class="inputSearch" onfocus="onfocusZip();" onblur="onblurZip();" onkeypress="return onkeypressZip(event);">
+                                </td>
+                                <td style="padding-left:3px;">
+                                    <input type="image" src="/images/app/btn_go_bg.png" id="Image3" title="Go" value="Go" onclick="return doSearchZip();">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>                    
+</tbody></table>
+<script type="text/javascript" language="javascript">        
+                   
+    function onfocusZip() { 
+        var elementId = "txtFindZipCode";
+        var defaultText = "Enter Zip Code";
+        if (document.getElementById(elementId).value == defaultText) {
+            document.getElementById(elementId).className = "inputSearchNormal";
+            document.getElementById(elementId).value = "";
+            document.getElementById(elementId).maxLength = 5;
+        }
+    }
+    
+    function onblurZip(elementId, defaultText) {
+        var elementId = "txtFindZipCode";
+        var defaultText = "Enter Zip Code";
+        var textValue = document.getElementById(elementId).value;
+        if (textValue == defaultText || textValue.length == 0) {
+            document.getElementById(elementId).maxLength = 15;
+            document.getElementById(elementId).className = "inputSearch";
+            document.getElementById(elementId).value = defaultText;            
+        }
+        else {
+            document.getElementById(elementId).className = "inputSearchNormal";
+            document.getElementById(elementId).maxLength = 5;
+        }
+    }
+    
+    function doSearchZip() {
+        var zip = document.getElementById("txtFindZipCode");
+        if(zip != null) {
+            if(zip.value == "" || zip.value.length != 5 || !isNumber(zip.value)) {
+                alert("You must enter a valid 5 digit zip code.");
+                zip.focus();
+            }
+            else {
+                window.open("schools.aspx?t=z&k=" + zip.value, "_self");
+            }
+        }
+        return false;
+    }
+    
+    function isNumber(value) {
+          var check = true;          
+          //check that all characters are digits, ., -, or ""
+          for(var i=0;i < value.length;i++) {
+               var new_key = value.charAt(i); //cycle through characters               
+               if(((new_key < "0") || (new_key > "9")) && !(new_key == "")) {
+                    check = false;
+                    break;
+               }
+          }          
+          return check;
+     }
+     
+    function onkeypressZip(e) {   
+        var keynum;
+        if(window.event) {
+            keynum = window.event.keyCode;           
+        } 
+        else if(e.which) {
+            keynum = e.which;                        
+        }
+        if(keynum == 13) {       
+            doSearchZip();
+            return false;
+        }
+        return true;
+    }        
+    
+    function doSearch(type) {
+        var cboName = "";
+        var typeName = "";
+        var typeCode = "";        
+        if(type == 1) {
+            cboName = "cboFindState";
+            typeName = "State";
+            typeCode = "m";            
+        }
+        else if(type == 2) {
+            cboName = "cboFindDegree";
+            typeName = "Degree";
+            typeCode = "d";            
+        }
+        else if(type == 3) {
+            cboName = "ctl00_ctl00_ctrlSearchTools_cboFindProgram";
+            typeName = "Program";
+            typeCode = "p";            
+        }
+        else if(type == 5) {
+            cboName = "cboFindState_School";
+            typeName = "State";
+            typeCode = "m";            
+        }
+        
+        var combo = document.getElementById(cboName);
+        if(combo == null) {
+            alert("Invalid operation.");
+            return false;
+        }
+        else if(combo.value == "") {
+            alert("You must select a " + typeName);                        
+            return false;
+        }
+        else {
+            window.open("schools.aspx?t=" + typeCode + "&k=" + combo.value, "_self");
+        }    
+        return false
+    }
+    
+    
+                    
+    </script>                           
+                    </div>
+                    <div id="menu" class="menu Helvetica">
+                    <ul class="Helvetica"> 
+                        <li><div class="firstSeparator" style="background-color:Green;"></div></li>
+                        <li><a href="home.aspx" id="lnkHome" class="item">Home</a></li> 
+                        <li><div class="separator"></div></li>
+	                    <li><a href="degrees.aspx" id="lnkDegrees" class="item">Degrees</a></li> 
+	                    <li><div class="separator"></div></li>
+	                    <li><a href="programs.aspx" id="lnkPrograms" class="item">Programs</a></li> 
+	                    <li><div class="separator"></div></li>
+	                    <li class="menuSchools"><a href="schools.aspx?t=c" id="lnkSchoolsC" class="item">Campus<br> Schools</a></li> 
+	                    <li><div class="separator"></div></li>
+	                    <li class="menuSchools"><a href="schools.aspx?t=o" id="lnkSchoolsO" class="item">Online<br> Schools</a></li> 
+	                    <li><div class="separator"></div></li>
+	                    <li><a href="faq.aspx" id="lnkFAQ" class="item">FAQ</a></li> 
+	                    <li><div class="separator"></div></li>
+	                    <li><a href="about_us.aspx" id="lnkAboutUs" class="item">About Us</a></li> 
+	                    <li><div class="separator"></div></li>
+	                    <li><a href="contact_us.aspx" id="lnkContactUs" class="item">Contact Us</a></li> 	                    
+	                    <li><div class="separator"></div></li>
+	                    <li><a href="international.aspx" id="lnkInter" class="item">International</a></li>	                    
+	                    <li><div class="separator" style="overflow:hidden;"></div></li>
+                    </ul> 
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div class="mainHeaderSeparator">
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="mainContent">
+                <table cellpadding="0" cellspacing="0" width="900" style=" border-left:solid 1px #B3BFCB; border-right:solid 1px #B6BFC8;"><tbody><tr><td>
+                    
+<table cellpadding="0" cellspacing="0" width="95%" align="center" class="info_Container">    
+        <tbody><tr>
+            <td valign="top">
+                
+<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="cellInfo">
+<table class="gen_InfoBox" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+        <td class="gen_Header"><span class="gen_HeaderLabel">Privacy Policy</span></td>
+    </tr>
+    <tr>
+        <td class="cellContent">
+
+<strong>EliteEducationGroup.com Web Privacy Statement</strong>
+<br><br>
+EliteEducationGroup is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
+<br><br>
+<strong>Information We Collect</strong>
+<br><br>
+We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services or when you request information from one of our partners. 
+<br><br>
+<strong>Information Collected Automatically</strong>
+<br><br>
+The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes:
+<ol>
+	<li>Your browser, e.g., Internet Explorer, Netscape Navigator.</li>
+	<li>Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.</li>
+	<li>You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux.</li>
+	<li>Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave.</li>
+	<li>Your IP address. </li>
+</ol>
+<br>
+This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful. 
+<br><br>
+<strong>Information You Provide to Us</strong>
+<br><br>
+In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program. 
+<br><br>
+Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, etc.) We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent. OFFLINE data can be merged with online data.
+<br><br>
+<strong>How We Use This Information</strong>
+<br><br>
+We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
+<br><br>
+EliteEducationGroup may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+<br><br>
+<strong>Your Rights Our Obligations</strong>
+<br><br>
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by using the form below. 
+<br><br>
+Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only.
+<br><br>
+<strong>Our Security Measures</strong>
+<br><br>
+Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
+<br><br>
+<strong>Why We Use "Cookies"</strong>
+<br><br>
+When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another.
+<br><br>
+<strong>Links From Our Site To Other Sites</strong>
+<br><br>
+Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. EliteEducationGroup is not responsible for the privacy practices or the content of any Websites which we do not directly control. 
+<br><br>
+<strong>Definitions</strong>
+<br><br>
+<u>Cookies</u>
+<br><br>
+Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk. 
+<br><br>
+The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. 
+<br><br>
+You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. 
+<br><br>
+<u>IP (Internet Protocol) Address</u>
+<br><br>
+This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2.
+<br><br>
+<u>Browser Session</u>
+<br><br>
+A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session.
+<br><br>
+<u>SSL Encryption (Secure Sockets Layer)</u>
+<br><br>
+The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+<br><br>
+<u>URL (Uniform Resource Locator)</u>
+<br><br>
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for EliteEducationGroup is <a href="http://www.eliteeducationgroup.com">www.EliteEducationGroup.com</a>.
+
+        </td>
+    </tr>                    
+</tbody></table>
+
+</td></tr></tbody></table>
+
+
+            </td>
+            <td class="cellExtras" valign="top">
+                <table class="extrasBox" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td align="center" class="cellBannerAbout">
+                            <table class="bannerBox" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                    <td class="gen_Header"><span class="gen_HeaderLabel">Discover Education</span>                                    
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div style="z-index:8; text-align:right;">
+                                            <div class="buttonAbout" onclick="location.href='../programs.aspx'">View<br>All Programs</div>
+                                            <!--<input type="button" value="View<br />All Programs"  />-->
+                                        </div>
+                                    </td>
+                                </tr>                                
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cellLinks">
+                            <table class="linksBox" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                    <td class="gen_Header2"><span class="gen_HeaderLabel">Quick Links</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_LinksHeader">Search Tools:</td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="schools.aspx?t=m">Campus by Map Search</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="schools.aspx?t=o">Online School Search</a></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_LinksHeader">Learn More About:</td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="degree_associate.aspx">Associate's Degree</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="degree_bachelor.aspx">Bachelor's Degree</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="degree_master.aspx">Masters' Degree</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="degree_doctorate.aspx">Doctorate's Degree</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="gen_Link"><a href="degree_certificate.aspx">Certificate Programs</a></td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+                <br><br>
+            </td>
+        </tr>
+    </tbody></table>    
+        
+                </td></tr></tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">
+                <div class="footerSeparator"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <table cellpadding="0" cellspacing="0" width="900px" align="center">
+                <tbody><tr>
+                    <td class="mainFooterPadd">
+                        <table cellpadding="0" class="mainFooter" cellspacing="0" width="100%" align="center">
+                    <tbody><tr>
+                        <td class="barPattern"></td>
+                    </tr>
+                    <tr>
+                        <td class="dottedBorderFooter logo">
+                            <img src="images/app/eeg_logo_small.png">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border-bottom:solid 0px transparent;">
+                            <table cellpadding="0" cellspacing="0" width="90%" align="center">
+                                <tbody><tr valign="top">
+                                    <td class="linksLeft">
+                                        <a href="home.aspx">Home</a><br>
+                                        <a href="degrees.aspx">Degrees</a><br>
+                                        <a href="programs.aspx">Programs</a><br>
+                                        <a href="schools.aspx?t=c">Campus Schools</a><br>
+                                        <a href="schools.aspx?t=o">Online Schools</a><br>
+                                    </td>
+                                    <td class="linksMiddle">
+                                        <a href="home.aspx#sf">School Finder Tool</a><br>
+                                        <a href="home.aspx#fs">Featured Schools</a><br>
+                                    </td>
+                                    <td class="linksRight">
+                                        <a href="faq.aspx">FAQ</a><br>
+                                        <a href="about_us.aspx">About Us</a><br>
+                                        <a href="contact_us.aspx">Contact Us</a><br>
+                                        <a href="international.aspx">International</a><br>
+                                        <a href="privacy.aspx">Privacy Policy</a><br>
+                                        <a href="terms.aspx">Terms &amp; Conditions</a><br><br>
+                                        <span>Copyright 2009 EliteEducationGroup.com</span>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>    
+                    </td>
+                </tr>
+            </tbody></table>
+                
+                <br><br>
+            </td>
+        </tr>
+    </tbody></table>
+        
+    </div>
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLp1p+yAQLJ7MyAAWEANd9maTSpIfc+IcGnmQQUmMpE"></form>
+    
+    <script language="javascript" type="text/javascript">
+    
+    var _visibleSearch = true;
+    function swapSearch() {
+        _visibleSearch = !_visibleSearch;
+        var panel = document.getElementById("divSearchersExtended");
+        if(panel != null) {
+            panel.style.display = (_visibleSearch) ? "" : "none";            
+        }
+        var lbl = document.getElementById("lblSearchDynamicText");
+        if(lbl != null) {
+            //lbl.innerHTML = (_visibleSearch) ? "Minimize Panel" : "Find the right school for you";            
+            //lbl.innerHTML = "Find the right school for you";
+            lbl.title = (_visibleSearch) ? "Minimize Panel" : "Expand Panel";
+        }        
+    }
+    
+    //if(window.location.hash == "#sf") {
+    //    swapSearch();
+    //}
+    
+    </script>    
+    <!--[if lte IE 6]>
+	<script type="text/javascript" src="/scripts/supersleight.js"></script>	
+    <![endif]-->
+
+
+</body></html>
