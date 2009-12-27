@@ -1,204 +1,7 @@
-<!--The following is the downloaded HTML source of the funmin.com privacy policy that was archived on 2009-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090220014415id_/http%3A//www.funmin.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funmin.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227123953id_/http%3A//www.funmin.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head><style>
-.tab{font-family: arial, verdana, san-serif; font-size: 14px;}
-.asd{text-decoration: none; cursor: pointer; font-family: arial, verdana, san-serif; font-size: 13px; color: #4234ff;}
-.row1{background-color: #ffffff;}
-.row2{background-color: #ffffff;}
-</style>
-
-<script language="javascript">
-var color1 = "#ffffff";
-var color2 = "#ffffff";
-var mouseocolor = "#EFEEFE";
-var sitename = "funmin.com";
-
-window.onerror = null;
-var bName = navigator.appName;
-var bVer = parseInt(navigator.appVersion);
-var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
-var menuActive = 0;
-var menuOn = 0;
-var onLayer;
-var timeOn = null;
-var url = window.location;
-var title = document.title;
-var colnow = color1;
-
-function bookmark(title,url){
-	if(window.sidebar) 
-          window.sidebar.addPanel(title,url,"");
-	else if(window.opera && window.print){
-          var elem = document.createElement('a');
-          elem.setAttribute('href',url);
-          elem.setAttribute('title',title);
-          elem.setAttribute('rel','sidebar');
-          elem.click();
-	}
-	else if(window.external)
-          window.external.AddFavorite(url,title);
-}
-
-function showLayer(layerName,aa){
-	var x =document.getElementById(aa);
-	var tt =findPosX(x);
-	var ww =findPosY(x)+15;
-	
-	//alert(tt+"---"+ww);
-
-	if (timeOn != null) {
-	clearTimeout(timeOn);
-	hideLayer(onLayer);
-	}
-	if (IE4) {
-	var layers = eval('document.all["'+layerName+'"].style');
-	layers.left = tt;
-	layers.top = ww;
-	eval('document.all["'+layerName+'"].style.visibility="visible"');
-	}
-	else {
-		if(document.getElementById){
-		var elementRef = document.getElementById(layerName);
-		if((elementRef.style)&& (elementRef.style.visibility!=null)){
-		elementRef.style.visibility = 'visible';
-		elementRef.style.left = tt;
-		elementRef.style.top = ww;
-		}
-		}
-	}
-	onLayer = layerName
-}
-
-function hideLayer(layerName){
-	if (menuActive == 0)
-	{
-		if (IE4){
-		eval('document.all["'+layerName+'"].style.visibility="hidden"');
-		}
-		else{
-			if(document.getElementById){
-				var elementRef = document.getElementById(layerName);
-				if((elementRef.style)&& (elementRef.style.visibility!=null)){
-					elementRef.style.visibility = 'hidden';
-				}
-			}
-		}
-	}
-}
-
-function btnTimer() {
-	timeOn = setTimeout("btnOut()",600)
-}
-
-function btnOut(layerName){
-	if (menuActive == 0){
-	hideLayer(onLayer)
-	}
-}
-
-var item;
-function menuOver(itemName){
-	item=itemName;
-	itemName.style.backgroundColor = mouseocolor; //background color change on mouse over
-	clearTimeout(timeOn);
-	menuActive = 1
-}
-
-function menuOut(itemName,iid){
-	if(iid == 1)
-		colnow = color1;
-	else
-		colnow = color2;
-
-	if(item)
-		itemName.style.backgroundColor = colnow;
-	menuActive = 0
-	timeOn = setTimeout("hideLayer(onLayer)", 100)
-}
-
-function findPosX(obj)
-{
-var curleft = 0;
-if (obj.offsetParent)
-{
-while (obj.offsetParent)
-{
-curleft += obj.offsetLeft
-obj = obj.offsetParent;
-}
-}
-else if (obj.x)
-curleft += obj.x;
-return curleft;
-}
-
-function findPosY(obj)
-{
-var curtop = 0;
-if (obj.offsetParent)
-{
-while (obj.offsetParent)
-{
-curtop += obj.offsetTop
-obj = obj.offsetParent;
-}
-}
-else if (obj.y)
-curtop += obj.y;
-return curtop;
-}
-
-function wopmove(id)
-{
-	if(id == "stumbleupon")
-		window.location = "http://www.stumbleupon.com/submit?url="+url+"&title="+title;
-	if(id == "delicious")
-		window.location = "http://del.icio.us/post?url="+url+"&title="+title+"&notes="+title;
-	if(id == "digg")
-		window.location = "http://digg.com/submit?phase=2&url="+encodeURI(url)+"&title="+encodeURI(title);
-	if(id == "google")
-		window.location = "http://www.google.com/bookmarks/mark?op=add&bkmk="+url+"&title="+title+"&labels="+sitename;
-	if(id == "yahoo")
-		window.location = "http://myweb2.search.yahoo.com/myresults/bookmarklet?u="+url+"&t="+title;
-	if(id == "techno")
-		window.location = "http://technorati.com/faves?add="+url;
-}
-</script>
-
-</head><body class="bodyc"><div id="menu250" style="position: absolute; border: 1px solid #000000; visibility:hidden; z-index: 1">
-<table cellspacing="0" cellpadding="0" style="filter: alpha(opacity=80); -moz-opacity:.80; opacity:.80; border-collapse: collapse;">
-
-<tbody><tr class="row1" valign="bottom" height="20" onmouseout="menuOut(this,1)" onmouseover="menuOver(this)">
-<td align="left">&nbsp;&nbsp; 
-  <script language="javascript">
-	document.write('<a class=asd href=\"javascript:bookmark(title, url)\">');
-  </script><a class="asd" href="javascript:bookmark(title, url)">
-  Add to Favorites&nbsp;</a> &nbsp; &nbsp;</td></tr>
-
-<tr class="row2" height="25" onmouseout="menuOut(this,2)" onmouseover="menuOver(this)">
-<td align="left">
-&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;stumbleupon&quot;)"> Stumble Upon </a> &nbsp;&nbsp;</td></tr>
-
-<tr class="row1" height="25" onmouseout="menuOut(this,1)" onmouseover="menuOver(this)">
-<td align="left">
-&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;delicious&quot;)"> Del.icio.us </a> &nbsp;&nbsp;</td></tr>
-
-<tr class="row2" height="25" onmouseout="menuOut(this,2)" onmouseover="menuOver(this)">
-<td align="left">
-&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;digg&quot;)"> Digg </a> &nbsp;&nbsp;</td></tr>
-
-<tr class="row1" height="25" onmouseout="menuOut(this,1)" onmouseover="menuOver(this)">
-<td align="left">
-&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;google&quot;)"> Google Bookmarks </a> &nbsp;&nbsp;</td></tr>
-
-<tr class="row2" height="25" onmouseout="menuOut(this,2)" onmouseover="menuOver(this)">
-<td align="left">
-&nbsp;&nbsp; <a class="asd" onclick="wopmove(&quot;yahoo&quot;)"> Yahoo Bookmarks </a> &nbsp;&nbsp;</td></tr>
-
-</tbody></table></div>
-
-
+<html><head><script type="text/javascript" src="bookmark/bookmark.js"></script></head><body class="bodyc"><div id="ddd" style="z-index: 1000; position: fixed; visibility: visible; padding: 2px; left: 1086px; top: 698px; border: 0px solid green;"><img src="http://funmin.com/images/share.gif" border="0" usemap="#Map" style="border: 0px solid gray;"><map name="Map" id="Map"><area shape="circle" coords="15,10,9" href="http://hscripts.com"></map><br><div style="background-color: #d3d3d3;"><a onclick="wopmove(&quot;twitter&quot;)" style="font-size:14px; padding-left: 3px; text-decoration: none; cursor: pointer;" title="Twitter" target="_blank"><img src="http://funmin.com/images/twitter.gif" alt="twitter" border="0&quot;"></a><a style="font-size:14px; padding-left: 3px; text-decoration: none; cursor: pointer;" onclick="wopmove(&quot;facebook&quot;)" title="facebook" target="_blank"><img src="http://funmin.com/images/facebook.gif" alt="Bookmark" border="0&quot;"></a><a style="font-size:14px; text-decoration: none; cursor: pointer; padding-left: 3px; cursor: pointer;" onclick="wopmove(&quot;google&quot;)" title="google" target="_blank"><img src="http://funmin.com/images/bookmark-google.gif"></a><a style="font-size:14px; padding-left: 3px; text-decoration: none; cursor: pointer;" onclick="wopmove(&quot;delicious&quot;)" title="delicious" target="_blank"><img src="http://funmin.com/images/delicious.gif" alt="Bookmark" border="0&quot;"></a><a style="font-size:14px; cursor: pointer; padding-left: 3px; text-decoration: none;" onclick="wopmove(&quot;digg&quot;)" title="Digg" target="_blank"><img src="http://funmin.com/images/digg.gif" alt="Bookmark" border="0&quot;"></a><a style="font-size:14px; padding-left: 3px; text-decoration: none; cursor: pointer;" onclick="wopmove(&quot;stumbleupon&quot;)" title="Stumble upon" target="_blank"><img src="http://funmin.com/images/stumble-upon.gif" alt="stumble upon" border="0&quot;"></a></div></div><form method="post" id="login" name="xx"></form>
 <script language="javascript">var present;present="no";</script><link rel="STYLESHEET" type="text/css" href="http://www.funmin.com/directory/dirstyles.css">
 <style>
   .cntbg{ width: 400px; height: 25px; padding: 0px; margin: 0px; background-color: #5E7240;}
@@ -241,8 +44,8 @@ font-weight: bold;
 
 .rightmenu{
 	background-image: url('http://www.funmin.com/images/side-7.gif');
-	width: 14px;
-	}
+	width: 13px;
+       }
 
 .boardtop{
 	background-image: url('http://www.funmin.com/images/top-n.gif');
@@ -315,6 +118,9 @@ padding-right: 0px;
 }
 
 </style>
+<link rel="shortcut icon" href="/images/favicon.gif">
+<link rel="meta" href="http://www.funmin.com/labels.rdf" type="application/rdf+xml" title="ICRA labels">
+
 
 <script type="text/javascript">
 <!--
@@ -337,10 +143,10 @@ image09.src="http://www.funmin.com/images/newimg/invite-friends.gif"
 image10= new Image()
 image10.src="http://www.funmin.com/images/newimg/invite-friends1.gif"
 
-image11= new Image()
-image11.src="http://www.funmin.com/images/newimg/bookmark-us.gif"
-image12= new Image()
-image12.src="http://www.funmin.com/images/newimg/bookmark-us1.gif"
+image11=new Image()
+image11.src="http://www.funmin.com/images/newimg/register-us.gif"
+image12=new Image()
+image12.src="http://www.funmin.com/images/newimg/register-us1.gif"
 function rollover(imagename, newsrc){
 document.images[imagename].src=newsrc.src
 }
@@ -354,11 +160,6 @@ document.images[imagename].src=newsrc.src
 	<table background="http://www.funmin.com/images/3-t.gif" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr align="center">
 	<td height="120" colspan="3" style=" padding-top:55px;"><br><br><b>&nbsp;&nbsp;&nbsp;</b>
-<a class="footlink" href="http://www.withfriendship.com" target="_blank">Jokes and Pictures</a>&nbsp;&nbsp;&nbsp;
-<a class="footlink" href="http://www.tofocus.info" target="_blank">Internet Stats</a>&nbsp;&nbsp;&nbsp;
-<a class="footlink" href="http://www.easycalculation.com" target="_blank">Easy Calculation</a>&nbsp;&nbsp;&nbsp;
-<a class="footlink" href="http://www.hioxindia.com" target="_blank">Web Hosting</a>&nbsp;&nbsp;&nbsp;
-<a class="footlink" href="http://www.hscripts.com" target="_blank">Free Scripts &amp; Tutorials</a>
 	</td>
 </tr>
 	<tr><td background="http://www.funmin.com/images/t-l.jpg" width="111" height="79" cellpadding="0" cellspacing="0"></td> 
@@ -375,14 +176,14 @@ document.images[imagename].src=newsrc.src
 
 			<a href="http://www.funmin.com/directory/index.php" onmouseover="rollover('example3', image08)" onmouseout="rollover('example3', image07)">
 			<img src="http://www.funmin.com/images/newimg/flash-games.gif" name="example3" border="0"></a>
+<a href="http://www.funmin.com/directory/index.php" onmouseover="rollover('example3', image08)" onmouseout="rollover('example3', image07)">
+                        </a><a href="http://www.funmin.com/DBMAD/register.php" onmouseover="rollover('example4', image12)" onmouseout="rollover('example4', image11)">
+                        <img src="http://www.funmin.com/images/newimg/register-us.gif" name="example4" border="0"></a>
 
-			<a href="http://www.funmin.com/directory/refer.php" onmouseover="rollover('example4', image10)" onmouseout="rollover('example4', image09)">
-			<img src="http://www.funmin.com/images/newimg/invite-friends.gif" name="example4" border="0"></a>
+			<a href="http://www.funmin.com/directory/invite.php" onmouseover="rollover('example5', image10)" onmouseout="rollover('example5', image09)">
+			<img src="http://www.funmin.com/images/newimg/invite-friends.gif" name="example5" border="0"></a>
 
-			<a id="250" class="subheading" onmouseout="btnTimer()" onmouseover="showLayer(&quot;menu250&quot;,'250')">
-			<img src="http://www.funmin.com/images/newimg/bookmark-us.gif" name="example5" border="0"></a>
 <br>
-
 <div id="submen" style="background-color: rgb(255, 255, 242); visibility: hidden;">
  <a style="padding-left:100px;" href="http://www.funmin.com/directory/search.php" class="subheading"><strong>Search</strong></a> 
  <a style="padding-left:20px;" href="http://www.funmin.com/directory/mostplayed.php?sub=visited" class="subheading"><strong>Most Played</strong></a>
@@ -421,7 +222,6 @@ google_ui_features = "rc:10";
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
 <br>
 <table align="center" width="80%"><tbody><tr><td align="justify" class="heading1">
 <br>
