@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235019id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227071249id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Dublin City Council: Privacy Statement
 
