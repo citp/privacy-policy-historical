@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotsvideos.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603051506id_/http%3A//www.hotsvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsvideos.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227131227id_/http%3A//www.hotsvideos.com/privacy) for the most accurate reproduction.*
 
 # Hot Videos - Sexy Clips Funny Ads Prank Stupid Girls Crazy Celebs Short Vids
 
