@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podcast.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626012344id_/http%3A//podcast.com/home.php%3Fpage%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podcast.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025515id_/http%3A//podcast.com/home.php%3Fpage%3Dprivacy.php) for the most accurate reproduction.*
 
 # Podcast.com is the ultimate podcast collection.
 
