@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the ycharts.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227190841id_/http%3A//ycharts.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+### YCHARTS is committed to your right to privacy. Use of YCHARTS.com requires no personal data submission.
+
+Your privacy is our priority. In this document we explain how we use information you supply us via the YCHARTS web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our web sites. YCHARTS is not responsible for the content or the privacy policies of any web sites to which it may link. 
+
+### What personal information do we collect?
+
+When you register to use one of our services, we may ask for information about you, including name, age, address, phone number, and demographic information. Premium Services: Some parts of our web site may use an order form for you to request optional services. We collect a visitor's credit card information to bill the user for these optional services. All other areas of our web site are free. 
+
+### What should I know about "cookies"?
+
+"Cookies" are small amounts of data that a Web site can send to your Web browser and store on your computer. Cookies do not contain personal information about you (unless you knowingly provide it). Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date. We use cookies to enhance navigation and the functionality of our Web site, to securely verify your identity, and to personalize aspects of your experience on our site. We also use cookies to let us know how visitors are using our Web site so that we can improve our site and your experience on it. We permit certain third-party ad servers to set cookies and use related technology (such as Web beacons) through our Web site to track performance of advertisements and to collect aggregate data on Web page viewing. You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. You can set most browsers to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information on working with cookies, consult the user manual, FAQ, or Help function of your specific browser and operating system software. 
+
+### How do we use the information we collect?
+
+YCHARTS may perform statistical analyses of user behavior in order to measure interest in the various areas of our site, for development purposes, and to inform advertisers and partners about consumers clicking on their advertising or other messages. In these analyses, we will disclose information to third parties only in aggregate form. E-mail: Using the e-mail addresses provided by registrants, YCHARTS, its advertisers, affiliates, partners, or third parties may periodically send promotional e-mail. In any case where we might use an email address for this purpose, you will be able to indicate at registration that you do not wish to receive such promotional e-mails from YCHARTS, its advertisers, affiliates, partners or third parties. However, by registering, you agree that YCHARTS may contact you by e-mail regarding account status, changes to the registrant agreement, and to confirm registration. In addition, if you provide your email address or other contact data in connection with a request for product information, YCHARTS, an advertiser, affiliate, partner or third parties, as applicable, will use that information to contact you. Data Security: To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate procedures to protect the information we collect online, including reasonable and appropriate security for credit card submissions. 
+
+### With whom do we share the information we collect?
+
+In the future, YCHARTS may share your personally identifiable information with third parties for direct marketing purposes, but only if you have authorized YCHARTS to do so. At the present time, YCHARTS will only share personally identifiable information with third parties as is necessary for those third parties to provide information or perform services specifically requested by you. Additionally, if you entered the YCHARTS web site through a site maintained by one of our affiliates or business partners, then your personally identifiable information may be shared with that affiliate or business partner, provided that use of the information does not violate this privacy policy. This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites. If you have any questions about this privacy statement, please contact us. 
+
+©2009 YCHARTS. All rights reserved. Last Updated June 16, 2009. 
