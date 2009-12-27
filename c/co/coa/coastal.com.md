@@ -1,100 +1,65 @@
-> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527085556id_/http%3A//www.coastal.com/site/security-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227232137id_/http%3A//www.coastal.com/site/website-privacy-statement.html) for the most accurate reproduction.*
 
-# Security and Privacy Policy
+# Website Privacy Statement
 
-Security and Privacy Policy   
+Website Privacy Statement   
   
-**Privacy Policy for Coastal Training Technologies Corp.**
+Coastal commits to comply with the [Coastal Information Privacy Policy](http://www.coastal.com/site/coastal-information-privacy-policy-2.html), this privacy statement and applicable law to protect your personal information collected at this website. We encourage you to carefully read this privacy statement 
 
-This is the web site of _Coastal Training Technologies Corporation_. Our physical / mailing address is: 
+**The Information We Collect**
 
-_500 Studio Drive,_  
-_Virginia Beach, VA 23452_
+Coastal may collect the following types of information from you at this website: 
 
-We can be reached via e-mail at 
+**Transaction Information**
 
-_[info@coastal.com](mailto:info@coastal.com)_
+If you enter into a transaction (i.e. a purchase) at this website, you will be required to provide information that is needed to complete the transaction, including your name, shipping address, product selection, and your payment information. We do not keep any credit card or other payment information longer than is necessary in order to comply with legal, tax, and auditing requirements. 
 
-or you can reach us by telephone at 
+**Non-Personal Information collected from Cookies and Action Tags**
 
-_757-498-9014 or 1-800-725-3418_
+Coastal collects non-personal and aggregate information when you visit our website. We use this type of information to identify the web pages you visit at our website. We can then develop statistics that help us understand how our visitors use our website in order to improve your experience with Coastal online. 
 
-Coastal Training Technologies Corp. values you – our customer – and we are committed to delivering you a useful and satisfying experience, while protecting your privacy and data security. 
+Coastal uses cookies to collect non-personal and aggregate information. Browser cookies are bits of text placed on your computer’s hard drive when you visit certain web sites. The cookies enable us to know aspects of your visit to our site such as whether you are a new or recurring visitor on the website your previous choices or preferences and when you returned to our website. Some websites will allow you to visit without accepting cookies, but some features of our websites may not work properly if you choose to reject cookies. Your web browser settings dictate the amount of information transmitted. 
 
-Coastal.com is a site from which you can order and preview products, obtain information about our products and services, or pay for access to online materials. To facilitate that process, a certain amount of data must be collected from you. 
+**How Information is Used and Shared**
 
-We welcome you to our website and ask that you review the following privacy policy information presented below. By using the coastal.com website and the related Coastal Training Technologies Corp. websites, you express your agreement with the practices of collecting and maintaining user information described herein. 
+Coastal may use any of the information gathered at this website in order to provide you with answers to your questions, to analyze your visit on this website, for direct marketing and e mail marketing purposes, to fulfill requests for goods and services, and to improve the ways we provide you with information about our company. Your information may also be combined with information you have provided to Coastal through other sources such as product registrations, inquiries, or marketing events to give us a better understanding of your existing and future needs for our goods and services. 
 
-**The information we collect  
-**  
-You will be prompted to create a user account (or register) at various points throughout the website, and related sites, in circumstances when you: 
+In the course of any of these activities, we may transmit the information we have collected to another country or share it with Coastal affiliates or third parties including contractors and distributors. Whenever personal information is transferred to an affiliate or third party, that party will be contractually bound to abide by our privacy statement and policy. In addition, we may have collected similar information from you in the past, before our Coastal Information Privacy Policy and this privacy statement took effect. By using this website you agree to the terms of this privacy statement and consent to our continued use of previously collected information under these terms. 
 
-  * Purchase products - either for shipment, download, or online access 
-  * Register for seminars, webcasts, etc. 
-  * Access online streaming preview programs 
-  * Request catalogs or other print items 
-  * Request technical support 
-  * Etc. 
+Coastal may disclose and transfer your personal information during a merger or during the divestiture of company assets. However, we will require the acquiring organization to agree to protect the privacy of your personal information consistent with this privacy statement and policy. 
 
+Consistent with our Information Privacy Policy, Coastal uses commercially reasonable methods consistent with industry practice to protect personal information, including Social Security numbers ("SSNs"). Among other information security controls, Coastal has established controls, consistent with applicable law, designed to: (1) limit access to SSNs; (2) protect the confidentiality of SSNs; and (3) prohibit unlawful disclosure of data containing SSNs. 
 
+**Direct Marketing**
 
-You are free to not register, but you may not be able to partake of all aspects of coastal.com or related sites. Any request for purchase will require all requested information. 
+Coastal will obtain your opt in or opt out consent as required by applicable law for direct marketing and e-mail marketing. 
 
-Part of the information we collect may include first and last name, contact information, and an email address. We also collect the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas (when provided), and information volunteered by the consumer, such as survey information. Where necessary, we also collect information related to payment processing. We collect email addresses as the means by which we confirm orders and provide access to online courses. In these cases, email addresses are required. 
+**Links to Other Sites**
 
-In addition to the data you supply to us yourself, our sites also collect certain data automatically which helps us better understand our users. This is information that is typically compiled in reports about our website traffic and does not contain data that identifies you personally. 
+For your convenience, this page may contain certain hyperlinks to other Coastal websites as well as to third party non-Coastal sites. While Coastal websites are subject to this privacy statement, we can make no promises or guarantees regarding data collection on the hyperlinked pages and sites that are not owned by Coastal. We therefore recommend that you read the privacy statement for each third party site you visit. 
 
-Examples of such data include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time. Typically our reporting software collects session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+**Children's Information**
 
-The information we collect is used to fulfill orders, help improve the content of our website, to notify consumers about updates to our website, to contact our consumers for marketing purposes. 
+Coastal is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities. Coastal does not target its websites to children less than 13 years of age or knowingly collect information from children for the purpose of selling products or services. 
 
-  
+**Information Security**
 
+Coastal uses commercially reasonable methods consistent with industry practice to prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure appropriate use of your personal information. 
 
-**The use of ‘cookies’**
+**Access to Information**
 
-As part of the method we use to communicate with you, Coastal's websites set ‘cookies.’  
-Cookies are small text files that are stored on your hard drive. Cookies store information such as passwords, and settings on a particular website. Your browser and our computer don’t have any way of knowing who you are and that is why cookies are very helpful. Your browser looks at cookies and determines what your settings are on a particular website. We utilize cookies to help create a better experience for our users, and allow us to gather data on who is finding our site useful. 
+You may request access to the information Coastal has gathered about you at this website by contacting us at [ ](http://www.coastal.com/site/%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy68288%20=%20'info'%20+%20'@';%20addy68288%20=%20addy68288%20+%20'coastal'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20':'%20+%20addy68288%20+%20'/'%3E'%20\);%20document.write\(%20addy68288%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E/n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@coastal.com](mailto:info@coastal.com). 
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, customize web page content based on visitors' browser type or other information that the visitor sends and prevent content abuse. 
+**Governing Law**
 
-If you do not like the use of cookies, it is up to you to adjust the setting on your computer to disallow cookies being set. You will still be able to access the courses and services of these sites, though you may lose some of the functionality we have designed into different parts of the site, or certain functionality in our online courseware. For a more detailed explanation of cookies, consult your browser's help files. 
+People from almost anywhere in the world can access our websites. We comply with the law of the country where our websites are located or directed. You should be aware, however, that when you submit your Personal Information to a Coastal website: (a) that information may go to a country that has different privacy laws than your home country and (b) it will be handled in accordance with the laws of the country where the site is located, but not necessarily with the law of your country. 
 
-  
+**Opt Out**
 
+If you do not want us to use your personal information as described in this statement, please contact us at [ ](http://www.coastal.com/site/%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy68288%20=%20'info'%20+%20'@';%20addy68288%20=%20addy68288%20+%20'coastal'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20':'%20+%20addy68288%20+%20'/'%3E'%20\);%20document.write\(%20addy68288%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E/n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@coastal.com](mailto:info@coastal.com). 
 
-**Security of the information you provide**
+**Contact Us**
 
-Coastal Training Technologies will not sell, rent or give your personal information to any entity outside of Coastal. Coastal will use the information you provide to offer you updates, announce new products, etc., which we believe will be of interest to you. Any information you provide will be for the exclusive use of Coastal. When you are contacted by Coastal for marketing purposes you will be given the chance to ‘opt out.’ 
+If you have any questions, comments, suggestions on how we can make this website more useful, please contact us at [ ](http://www.coastal.com/site/%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy68288%20=%20'info'%20+%20'@';%20addy68288%20=%20addy68288%20+%20'coastal'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20':'%20+%20addy68288%20+%20'/'%3E'%20\);%20document.write\(%20addy68288%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E/n%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@coastal.com](mailto:info@coastal.com). 
 
-Coastal works to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-When confirming your order onscreen or via email, we will reveal only the first or last 4 or 5 digits of your credit card number. 
-
-It is important for you to protect against unauthorized access to your password, your computer and therefore websites with whom you are registered. To protect yourself properly, be sure to sign off or log off when finishing a transaction on any website or if you have logged in to a website which has collected personal data. ****
-
-  
-
-
-**Providing Notification**
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address, calling us at the above telephone number, writing to us at the above address or following the "unsubscribe" policies included in marketing email material and newsletters. 
-
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, or writing to us at the above address. 
-
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. They may also receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. 
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, and communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-**  
-****Contact Information**
-
-We enjoy hearing from you. If you have any comments on this or other issues concerning Coastal, [visit this page for contact information](http://www.coastal.com/site/contactus.html). 
+_Effective: August 24, 2009_
