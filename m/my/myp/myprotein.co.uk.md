@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprotein.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626043326id_/http%3A//www.myprotein.co.uk%3Fpage%3Dprivacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprotein.co.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003623id_/http%3A//www.myprotein.co.uk%3Fpage%3Dprivacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security
 
