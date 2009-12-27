@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectlore.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235535id_/http%3A//projectlore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectlore.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063043id_/http%3A//projectlore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Project Lore: World of Warcraft Videos and Guides
 
