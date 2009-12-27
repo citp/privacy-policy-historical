@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dripbook.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626234537id_/http%3A//www.dripbook.com/top/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dripbook.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004030id_/http%3A//www.dripbook.com/top/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dripbook
 
