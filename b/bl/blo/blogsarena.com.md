@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the blogsarena.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227155540id_/http%3A//seeklocate.com/pp.php) for the most accurate reproduction.*
+
+# None
+
+## Website Visitors
+
+Seeklocate, like most website owners, collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Seeklocate's purpose in collecting non-personally identifying information is to better understand how Seeklocate's visitors use its websites. From time to time, Seeklocate may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Seeklocate also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Seeklocate does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+
+## Collection of Identifying Information
+
+Certain visitors to Seeklocate's websites choose to interact with Seeklocate in ways that require Seeklocate to gather identifying information. The amount and type of information that Seeklocate gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [Blogsarena.com](http://blogsarena.com/ "Create a Blog") to provide a username and email address. Those who engage in transactions with Seeklocate by purchasing website enhancements, for example - are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Seeklocate collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Seeklocate. Seeklocate does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+## Aggregated Statistics
+
+Seeklocate may collect statistics about the behavior of visitors to its websites. For instance, Seeklocate may monitor the most popular blogs on the BlogsArena.com site or use spam screened by to help identify spam. Seeklocate may display this information publicly or provide it to others. However, Seeklocate does not disclose identifying information other than as described below.
+
+## Protection of Certain Personally-Identifying Information
+
+Seeklocate discloses potentially identifying and identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Seeklocate's behalf or to provide services available at Seeklocate websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Seeklocate's websites, you consent to the transfer of such information to them. Seeklocate will not rent or sell potentially identifying and identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Seeklocate discloses potentially identifying and identifying information only when required to do so by law, or when Seeklocate believes in good faith that disclosure is reasonably necessary to protect the property or rights of Seeklocate, third parties or the public at large. If you are a registered user of a Seeklocate website and have supplied your email address, Seeklocate may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what is going on with Seeklocate and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Seeklocate takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially identifying and identifying information.
+
+## Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Seeklocate uses cookies to help Seeklocate identify and track visitors, their usage of Seeklocate website, and their website access preferences. Seeklocate visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Seeklocate websites, with the drawback that certain features of Seeklocate's websites may not function properly without the aid of cookies.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, Seeklocate may change its Privacy Policy from time to time, and the decision to make such chagnes will be at Seeklocate's sole discretion. Seeklocate encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a blogsarena.com account, you should also check your blogs dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
