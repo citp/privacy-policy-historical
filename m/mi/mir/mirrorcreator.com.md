@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308014441id_/http%3A//mirrorcreator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227090954id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Mirrorcreator.com - Upload Your files to multiple hosts
+
+**Google Advertising Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to the users based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
 **Logging IP Addresses**
 
