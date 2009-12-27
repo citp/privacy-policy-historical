@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501233502id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phixr.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227070149id_/http%3A//www.phixr.com/about/terms) for the most accurate reproduction.*
 
 # Phixr - Online Photo Editor
 
@@ -112,7 +112,6 @@ Trademarks and Acknowledgements
 Phixr and the Phixr logo are trademarks of Flock55 and Dr. Thomas Winischhofer, Vienna, Austria. No material from this site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way without prior written consent of Dr. Thomas Winischhofer or a representative of Flock55.
 
 Buzznet and the Buzznet logo are (registered) trademarks of Buzznet Inc. Used by express permission.  
-Costco and the Costco logo are (registered) trademarks of Costco Wholesale Corporation. Permission request pending.  
 Dropshots and the dropshots logo are (registered) trademarks of DropShots, Inc. Used by express permission.  
 Facebook and the Facebook logo are (registered) trademarks of Facebook. Used by permission (in accordance to the general permission stated [here](http://developers.facebook.com/documentation.php?doc=login_web) and to Section 6 of Facebook's "Developmer Terms of Service" dated July 25, 2007).  
 Flickr and the flickr logo are (registered) trademarks of Yahoo! Inc. Used by express permission.  
@@ -123,6 +122,7 @@ LiveJournal and the Livejournal logo are (registered) trademarks of LiveJournal,
 Picasa and the Picasa logo are (registered) trademarks of Google Inc. Used by permission.  
 Photobucket and the photobucket logo are (registered) trademarks of Photobucket, Inc. Used by express permission.  
 SmugMug and the SmugMug logo are (registered) trademarks of SmugMug, Inc. Used by express permission.  
+Twitter and the Twitter logo are (registered) trademarks of Twitter Inc. Permission request pending.  
 Webshots and the Webshots logo are (registered) trademarks of CNET Networks, Inc. Used by express permission.  
 
 
