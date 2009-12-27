@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628233008id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227091107id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for TrafficWave.net LLC.
 
