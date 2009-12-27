@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skypoker.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040148id_/http%3A//help.skybet.com/article.aspx%3Farticle%3D1157%26p%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skypoker.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003419id_/http%3A//help.skybet.com/article.aspx%3Farticle%3D1157%26p%3D5) for the most accurate reproduction.*
 
 # Help & Support
 
@@ -44,7 +44,7 @@ You may notify us of any updates, amendments and corrections to previously colle
 
 **Law Enforcement Reporting**
 
-We and our regulators are entitled to share the information we hold on you (which includes personal data and betting history) with regulatory bodies, sporting bodies and other bodies, including the police, in order to investigate suspected fraud, money laundering or sports integrity issues and to comply with our regulatory duties under the UK Gambling Commission or the Alderney Gambling Control Commission. 
+We and our regulators are entitled to share the information we hold on you (which includes personal data and betting history) with regulatory bodies, sporting bodies and other bodies, including the police, in order to investigate suspected fraud, money laundering or sports integrity issues and to comply with our regulatory duties under the the Alderney Gambling Control Commission. 
 
 **Privacy Queries**
 
