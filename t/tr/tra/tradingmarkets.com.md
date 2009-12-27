@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627113410id_/http%3A//www.tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm%26hcode%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030832id_/http%3A//www.tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm%26hcode%3Dfooter) for the most accurate reproduction.*
 
 # 
 
@@ -105,8 +105,8 @@ It should not be assumed that the methods, techniques, or indicators presented i
 HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN INHERENT LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING AND MAY NOT BE IMPACTED BY BROKERAGE AND OTHER SLIPPAGE FEES. ALSO, SINCE THE TRADES HAVE NOT ACTUALLY BEEN EXECUTED, THE RESULTS MAY HAVE UNDER- OR OVER-COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN.
 
 The Connors Group, Inc.  
-15260 Ventura Blvd., Ste. 2200  
-Sherman Oaks, CA 91403
+10 Exchange Place, Suite 1800  
+Jersey City, NJ 07302
 
 © Copyright 2009 The Connors Group, Inc.
 
