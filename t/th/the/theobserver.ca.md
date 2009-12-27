@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627184756id_/http%3A//www.theobserver.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227091145id_/http%3A//www.theobserver.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## Osprey Media.
+## Sun Media.
 
 ### WEB-SITE PRIVACY POLICY
 
@@ -93,7 +93,7 @@ Links:
 
 _Contacting the Privacy Manager_  
 The Privacy Manager  
-Osprey Media  
+Sun Media  
 100 Renfrew Drive, Suite 110  
 Markham,Ontario  
 L3R 9R6  
