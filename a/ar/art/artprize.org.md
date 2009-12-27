@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artprize.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627025936id_/http%3A//artprize.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artprize.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227040047id_/http%3A//www.artprize.org/privacy-policy) for the most accurate reproduction.*
 
 # ArtPrize - An open art contest based in Grand Rapids Michigan, the world's largest Art Prize.
 
