@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617030749id_/http%3A//smud.org/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003825id_/http%3A//www.smud.org/en/legal/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
-# SMUD.org | Legal | Privacy Policy Statement
+# SMUD.org | English | Legal
+
+ 
 
   
 
@@ -45,7 +47,7 @@ Sacramento Municipal Utility District
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830  
 916-732-5681  
-_[rfrattu@smud.org](mailto:rfrattu@smud.org)_
+ _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
 
   
 
@@ -83,7 +85,7 @@ Information may be used by SMUD to insure successful participation in the activi
 
 Collected information is not stored on the Web server. All student information is maintained by:
 
-**Alan Sulieman**  
+ **Alan Sulieman**  
 SMUD Energy & Technology Center  
 6301 S Street, MS A226  
 Sacramento, CA 95817   
@@ -98,10 +100,10 @@ Sacramento Municipal Utility District
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830   
 916-732-5681  
-_[rfrattu@smud.org](mailto:rfrattu@smud.org)_
+ _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
 
 Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter. Cookies may be used for remembering user input on interactive pages, such as games.  
-SMUD [Children's Online Privacy Policy.](http://www.smud.org/legal/childrens-privacy-policy.html)
+SMUD [Children's Online Privacy Policy.](https://web.archive.org/en/Legal/Pages/childrens-privacy-policy.aspx)
 
 ## Security statement
 
@@ -116,13 +118,13 @@ A protocol is a set of rules or procedures.
   
 SSL technology takes a message and runs it through a set of steps that "scramble" the message. This is done so that the message cannot be read while it is being transferred. This "scrambling" is called Encryption. When the message is received by the intended recipient, SSL unscrambles the message, checks that it came from the correct sender ["Server Authentication"] and then verifies that it has not been tampered with ["Message Integrity"]. Your browser will give an indication that SSL security is being used by showing some sort of icon in the status bar area (e.g., a blue key or a closed lock icon) of your screen. See your browser's documentation for more information. If you have any questions about this security statement or the practices of this site, you can contact:
 
-**Ralph Frattura**
+ **Ralph Frattura**
 
 Sacramento Municipal Utility District  
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830   
 916-732-5681  
-_[rfrattu@smud.org](mailto:rfrattu@smud.org)_
+ _[rfrattu@smud.org](mailto:rfrattu@smud.org)_
 
   
 
