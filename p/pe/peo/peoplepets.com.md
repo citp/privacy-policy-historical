@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepets.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211320id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/pets%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepets.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025709id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/pets%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # People Pets Privacy Policy
 
