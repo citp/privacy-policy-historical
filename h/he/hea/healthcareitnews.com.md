@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627191839id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227023524id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
 
 To receive _Healthcare IT News_ and its email newsletters, or to register an online username, you must first complete a registration form. During registration for newsletters and print issues you may be required to give contact information such as name, email address and telephone number. We use this information to contact you about the services and newsletters on our site in which you have expressed interest.
 
-The information helps us provide you with access to a wide variety of content on our site and better serve you through customized newsletters and other products. _Healthcare IT News_ shares aggregate, non-personally identifying data with our partners and advertisers. We disclose Web site usage information to third parties only in aggregate. 
+The information helps us provide you with access to a wide variety of content on our site and better serve you through customized newsletters and other products. _Healthcare IT News_ shares aggregate, non-personally identifying data with our partners and advertisers. We disclose Web site usage information to third parties only in aggregate.
 
-We may make email and mailing addresses of registrants available to carefully screened businesses that provide products or services that we think may be of interest. If you do not want to receive email or USPS-mailed offers from our advertising or conference partners please send an email stating this preference and including your full name and address to cs-hitn@e-circ.net. Or, please call 978-671-0449. 
+We may make email and mailing addresses of registrants available to carefully screened businesses that provide products or services that we think may be of interest. If you do not want to receive email or USPS-mailed offers from our advertising or conference partners please send an email stating this preference and including your full name and address to cs-hitn@e-circ.net. Or, please call 978-671-0449.
 
 _Healthcare IT News_ will NEVER share your phone or fax number with ANY third party. You may receive email, telephone or fax communications from _Healthcare IT News_ regarding your subscription or for research purposes. Please see our registration page ([https://www.b2bmediaportal.com/hinregister/login.aspx?action=register&return2url=/](https://www.b2bmediaportal.com/hinregister/login.aspx?action=register&return2url=/)) for further details.
 
@@ -24,9 +24,29 @@ We may provide you the opportunity to participate in contests or surveys on our 
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. _Healthcare IT News_ stores this information to send one-time communications from the site. Your friend may contact us at cs-hitn@e-circ.net to request that we remove this information from our database.
 
-**Commenting**
+**Commenting Policy**
 
-Registered site users are encouraged to post comments on _Healthcare IT  News_ content including stories and blogs. However, these comments should be editorial in nature, and should not be promoting or otherwise linking to 3rd party products or websites. Site administrators reserve the right to delete comments.
+Registered site users are encouraged to post comments on _Healthcare Finance News_ content including stories and blogs. Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or Web sites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
+
+Comments may not:
+
+  * Insult, antagonize or otherwise offend other site users or editors
+  * Contain obscene, racist, sexist, defamatory, hateful, distasteful or otherwise inappropriate language
+  * Contain libelous statements
+  * Contain promotional materials, advertisements or press announcements
+  * Contain any other material that inhibits the ability of other users to enjoy our site.
+
+
+
+Provided that all efforts are made by site users to self-edit and employ respectful language that does not antagonize other site users, comments may:
+
+  * Actively engage other readers and our editors in thoughtful discussion
+  * Give constructive feedback on article accuracy or informed commentary on article content
+  * Ask questions of other readers and editors.
+
+
+
+Site administrators reserve the right to delete comments and/or block users who fail to adhere to the commenting policy.
 
 **Promotions**
 
