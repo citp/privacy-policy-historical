@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetinsider.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111151id_/http%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetinsider.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025830id_/http%3A//www.streetinsider.com/privacy.php) for the most accurate reproduction.*
 
 # StreetInsider.com
 
