@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416010046id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227082701id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
 
 # The Campaign Monitor Privacy Policy - Campaign Monitor
 
