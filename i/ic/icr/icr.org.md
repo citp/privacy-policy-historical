@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625033300id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025609id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,4 +12,4 @@ This site is informational and educational in nature. It is not offering profess
 
 If you have any questions about our privacy policy, please [contact us](mailto:webmaster@icr.org?subject=Privacy%20Policy%20Question&body=Regarding%20your%20privacy%20policy%20at%20http%3A//icr.org/home/privacy%2C%20...).
 
-Return to our [free subscription sign up form](https://web.archive.org/signup).
+Return to our [subscription form](https://web.archive.org/subscriptions).
