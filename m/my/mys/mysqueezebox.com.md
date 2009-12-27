@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603131015id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004558id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
 
-# Logitech > YOUR PRIVACY & SECURITY
+# YOUR PRIVACY & SECURITY
 
 #### YOUR PRIVACY & SECURITY
 
@@ -34,7 +34,7 @@ Logitech automatically collects on our server logs certain information about you
 
 _Web Site Usage Information_
 
-Logitech tracks information about how you use our website through cookies, globally unique identifiers, Internet tags or web beacons, and tracks navigational data (log files, server logs, click stream). These allow us to track how you interact with Logitech online, and, with your permission, we can tie this information to your personal information to help us tailor communication to you. We also collect information such as the URL of the Web site you previously visited, and when you use our Web site. Logitech also keeps track of the pages you visit within our Web site and any transaction details (downloads, orders, requests, or referrals). You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of our Web site might not work. 
+Logitech and its third party service providers track non-personally identifiable information about how you use our website through cookies, globally unique identifiers, Internet tags or web beacons in the aggregate, and track navigational data (log files, server logs, click stream). These allow us to track how you interact with Logitech online, and, with your permission, we can tie this information to your personal information to help us tailor communication to you. We also collect information such as the URL of the Web site you previously visited, and when you use our Web site. Logitech also keeps track of the pages you visit within our Web site and any transaction details (downloads, orders, requests, or referrals). You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of our Web site might not work.
 
 _Information for Using Harmony Remote Controls:_
 
@@ -122,5 +122,5 @@ Logitech Inc.
 Fremont, California 94555 USA  
 
 
-Revised September 9, 2008  
+Revised September 9, 2009  
 
