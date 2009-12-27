@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623105307id_/http%3A//www.cheapflights.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227122833id_/http%3A//www.cheapflights.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,8 @@ Cheapflights uses cookies which tell us about how users navigate the site. We us
  **Purchases  
 ** Cheapflights does not sell you travel products, but directs you to sites that do. These sites may store information such as your name and address and credit card details. They may operate their own privacy policies.
 
-Last updated: April 2008
+ **Widgets**
+
+We use the sharethis widget on this site to allow our users to tell their friends about the site, by allowing them to send a onetime email within the widget, inviting their friend to visit site.  We do not have access to any of the Personal Information collected within this widget.  We also use the sharethis widget to allow users to log into their third party social networking accounts and share a link to cheapflights with their friends.
+
+Last updated: September 2009
