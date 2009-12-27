@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootoday.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205903id_/http%3A//www.zootoday.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootoday.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227174658id_/http%3A//www.zootoday.com/legal/privacy) for the most accurate reproduction.*
 
 # ZOO TODAY: Lads’ Mag – Girls, Sport, Videos and Funny Stuff
 
@@ -16,4 +16,4 @@ In order to protect your privacy, We are registered in accordance with and seek 
 
 If you have any queries about Our privacy policy or any queries about the protection of personal information We hold about you, please do not hesitate to e-mail Us or write to us at ZOOTODAY.COM, Level 4 Mappin House, 4 Winsley Street, London, W1W 8HF
 
-If you do not agree with this privacy policy you should not submit your personal information on this web-site. 
+If you do not agree with this privacy policy you should not submit your personal information on this web-site.
