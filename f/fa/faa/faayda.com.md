@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627143552id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063804id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Your Job Search Engine!
 
@@ -29,8 +29,8 @@ Disclosure of Personal Information. Although we may disclose aggregated informat
 Faayda.com has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. However, no internet site can fully eliminate security risks. 
 
 **Links to Third Party Sites**  
-The Site may provide links to other Web sites or resources over which Faayda.com does not have control (”External Web Sites”). Such links do not constitute an endorsement by Faayda.com of those External Web Sites. You acknowledge that Faayda.com is providing these links to you only as a convenience, and further agree that Faayda.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. If you have questions about this Privacy Policy, please contact us
+The Site may provide links to other Web sites or resources over which Faayda.com does not have control (“External Web Sites”). Such links do not constitute an endorsement by Faayda.com of those External Web Sites. You acknowledge that Faayda.com is providing these links to you only as a convenience, and further agree that Faayda.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. If you have questions about this Privacy Policy, please contact us
 
   
 
-  *[August 11, 2008 – 5:26 pm]: 2008-08-11T17:26:32-0500
+  *[August 11, 2008 – 5:26 pm]: 2008-08-11T17:26:32+0000
