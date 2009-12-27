@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626110539id_/http%3A//www.optionetics.com/about/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025816id_/http%3A//www.optionetics.com/about/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics - Legal
 
@@ -29,11 +29,11 @@ If an error is made and a product is listed at an incorrect price, Optionetics s
 
 **PRIVACY POLICY**
 
-Revised and posted as of: October 23, 2000 
+Revised and posted as of: May 11, 2006 
 
 Optionetics.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Optionetics.com Web site. The Optionetics.com Web site is owned and operated by Optionetics, Inc. 
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@optionetics.com](mailto:privacy@optionetics.com).
+Your privacy is important to us. We do not share your information with non-affiliated companies. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@optionetics.com](mailto:privacy@optionetics.com).
 
 **Gathering of Information**
 
@@ -59,7 +59,7 @@ Optionetics.com is a free Web site and we derive revenues from advertising. In o
 
 Optionetics.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. 
 
-When you are on an area of Optionetics.com and are asked for personal information, you are sharing that information with Optionetics.com as well as business partners and vendors providing hosting and other services for Optionetics.com. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies. 
+When you are on an area of Optionetics.com and are asked for personal information, you are sharing that information with Optionetics.com as well as its affiliates, business partners and vendors providing hosting and other services for Optionetics.com. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies. 
 
 In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers.
 
