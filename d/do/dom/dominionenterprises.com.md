@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominionenterprises.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529020845id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominionenterprises.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227161942id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
 
 # Dominion Enterprises | Privacy Policy
 
@@ -12,7 +12,7 @@ You do not have to give us personally identifiable information in order to visit
 
 We also may collect, store and use certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). In addition, we aggregate data from multiple users in a manner that is not personally identifiable and use such data as we deem appropriate.
 
-****How We Use the Information** ******
+**How We Use the Information**
 
 Information about our customers is an important part of our business, and we are not in the business of selling personally identifiable information to unaffiliated third parties for their commercial use. We share personally identifiable customer information with unaffiliated third parties only as described herein.
 
@@ -35,7 +35,10 @@ We may on occasion combine information we receive online with outside records to
 
 Finally, this Web site will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-****Cookies and Web Beacons****
+**Third Party Online Advertising**  
+We use third-party advertising companies to serve advertisements when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to show you advertisements tailored to your interests on this and other Web sites and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to Opt-Out of having this information used by these companies, please visit the Network Advertising Initiative here: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**Cookies and Web Beacons**
 
 To enhance your experience with our Web site, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our Web site. However, once you choose to furnish our Web site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
@@ -43,7 +46,11 @@ We use cookies to understand site usage and to improve the content and offerings
 
 "Web beacons" or clear .gifs are small pieces of code placed on a Web page to monitor the behavior and collect data about the visitors viewing a Web page. For example, Web beacons or similar technology can be used to count the users who visit a Web page or to deliver a cookie to the browser of a visitor viewing that page. We may use Web beacons or similar technology on this Web site from time to time for this and other purposes. 
 
-****Collection of Information by Third-Party Sites, Ad Servers and Sponsors****
+In addition, when you visit our Web sites, third party vendors and advertisers also place or read cookies on your Internet browser. This is a common practice on the Internet; these cookies may be used to determine whether you have visited other Web sites, to measure the effectiveness of advertising and links on other Web sites, and to provide you with information of potential interest to you, among other purposes. This is not an exhaustive list of all uses of cookies on our Web sites.
+
+Most Web browsers are set up to accept cookies. You can, however, set your browser to refuse all cookies or to indicate when a cookie is being sent. In addition, cookies can be easily and safely deleted from your system. See your browser's help section for instructions. To Opt-Out of this practice, or to obtain more information on cookies, visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) for more information.
+
+**Collection of Information by Third-Party Sites, Ad Servers and Sponsors**
 
 Our Web Site may contain links to other Web sites whose information practices may be different than ours. While visiting this Web site, you may link to another Web site via a window opened within (or on top of) our Web site. Our privacy policies and procedures may or may not be consistent with the policies and procedures of other Web sites you visit while here. Users should consult, read and understand any other Web site’s privacy notices before choosing to provide personally identifiable data on such linked Web site as our privacy policies and treatment of your data does not apply and we have no control over information that is submitted to, or collected by, these third parties.
 
