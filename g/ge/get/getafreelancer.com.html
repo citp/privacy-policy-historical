@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the getafreelancer.com privacy policy that was archived on 2009-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611165633id_/http%3A//www.getafreelancer.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getafreelancer.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227115536id_/http%3A//www.getafreelancer.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>
-Custom Web Design and Programming. Freelance Programmers. Outsource Web Development Outsourcing
+Freelancer.com | Online Freelance Jobs | Employment | Design | Outsourcing | Programmers | Web Design | Freelancers 
 </title>
- <meta name="description" content="Freelance programmers and web designers. Get custom web design. Freelancers bid on outsourced projects. Outsourcing to India, Romania, Ukraine and many other countries. Outsource your project and let web developers bid on it."> 
-<meta name="keywords" content="freelance programmer, custom web design, outsource projects, outsource to india, outsourcing india, freelancing, freelancers, programmers, web designers, freelance work, outsource work, contract jobs, freelance programming, contract programming, contract work, php, asp, website design, SEO, search engine optimization, web promotion, javascript, webmaster, webmasters, cgi, perl, java, python, xml, flash, visual basic, banner design, system admin, logo design, website security, offshore web development, buy, purchase, web, services, company, web services, companies">
+ <meta name="description" content="Freelancer.com is the ultimate freelance jobs website. We have thousands of freelance jobs for freelance programmers, web designers, graphic designers, writers and more. We have hundreds of thousands of professional freelancers ready to bid on your outsourced projects."> 
+<!-- <meta name="keywords" content="freelance programmer, custom web design, outsource projects, outsource to india, outsourcing india, freelancing, freelancers, programmers, web designers, freelance work, outsource work, contract jobs, freelance programming, contract programming, contract work, php, asp, website design, SEO, search engine optimization, web promotion, javascript, webmaster, webmasters, cgi, perl, java, python, xml, flash, visual basic, banner design, system admin, logo design, website security, offshore web development, buy, purchase, web, services, company, web services, companies"> -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
  <meta name="robots" content="index,follow">  
 
@@ -15,725 +15,245 @@ Custom Web Design and Programming. Freelance Programmers. Outsource Web Developm
 <link href="http://www.getafreelancer.com/rss.xml" rel="alternate" type="application/rss+xml" title="Latest projects">
 
 
-<link rel="icon" type="image/ico" href="./favicon.ico">
-<link rel="shortcut icon" href="./favicon.ico">
-<style type="text/css">
+<meta name="verify-v1" content="9ejzgFxg7wuxHdyyiqmdTe3JQgBUfIVvdJiXlVRHkEw=">
+<meta name="google-site-verification" content="Os01EUjriD5LgZ5VHZqf23SGdeCX-7g7dsi-8ekNBdk">
+<meta name="y_key" content="145378928393bc8d">
+<meta name="msvalidate.01" content="756854B52F963132E377E441F92F1136">
+
+<meta name="robots" content="noodp">
+<link rel="icon" type="image/ico" href="http://www.getafreelancer.com/favicon.ico">
+<link rel="shortcut icon" href="http://www.getafreelancer.com/favicon.ico">
+
+<link href="/gaf_style.css" rel="stylesheet" type="text/css">
+<script src="/functions.js" type="text/javascript"></script>
+<script src="/showhide.js" type="text/javascript"></script>
+<script src="./prototype/prototype.js"></script>
+<script>
+function getUserIdfromCookie()
+{
+	var cookie_base = "GETAFREE";
+	var cookie_user_id = cookie_base + "_USER_ID";
+	var cookieName= encodeURIComponent(cookie_user_id) + "=",
+	    cookieStart = document.cookie.indexOf(cookieName),
+	    cookieValue = null;
+
+	if(document.cookie.length>0){
+		var cookieEnd = document.cookie.indexOf(";",cookieStart)
+			if (cookieEnd ==-1){
+				cookieEnd = document.cookie.length;
+			}
+		cookieValue = decodeURIComponent(document.cookie.substring(cookieStart + cookieName.length, cookieEnd));
+	return cookieValue;
+				}
+}
+
+function updateStatus()
+{
+	var updateOnlinePeriod = 60; //60 secs in all
+	var url = "./users/onUpdateOnlineStatus.php";
+	var userId = getUserIdfromCookie();
+	if(userId!=""){
+		new Ajax.Updater('', url,
+			{
+				method     : "post",
+				onLoading  : function(){  },
+				parameters : "user="+userId+"&cachetimeout="+updateOnlinePeriod,
+				}
+			);
+	}
+	setTimeout('updateStatus()',updateOnlinePeriod*1000);
+	}
+
+</script>
+
 <!--
-BODY, TD {
-	font-family : arial, sans-serif;
-	font-size : 13px;
-	color : #000000;
-	font-weight: normal;
-}
-TH {
-	font-family : arial, sans-serif;
-	font-size : 12px;
-	color : #000000;
-	font-weight : bold;
-	background-color : #DFDFDF;
-	text-align : center;
-}
-
-
-.horlinestable {
-	border-top: 1px solid #999999;
-}
-
-.horlinestable th {
-	background: none;
-	border-top: 1px solid #999999;
-	border-bottom: 2px solid #999999;
-}
-
-.horlinestable td {
-	border-bottom: 1px solid #999999;
-}
-
-.horlinestableth {
-	background: none;
-	border-top: 2px solid #999999;
-	border-bottom: 2px solid #999999;
-}
-
-.horlinestabletd {
-	border-bottom: 1px solid #999999;
-}
-
-.bordertable {
-	border: 1px #999999 solid;
-}
-
-.bordertable td {
-	border: 0 0 0 0;
-}
-
-.bordertable th {
-	background-color : #DFDFDF;
-	border: 0 0 0 0;
-}
-
-.outbordertable {
-	border: 1px #999999 solid;
-}
-
-.outbordertd {
-	border: 0 0 0 0;
-}
-
-.outborderth {
-	background-color : #DFDFDF;
-	border: 0 0 0 0;
-}
-
-
-.oddbg {
-	background-color: #ffffff;
-}
-
-.evenbg {
-	background-color: #f7f7f7;
-}
-
-.mainbg {
-	background-color: #FFFF99;
-}
-
-#celldiv  {
-	display: block; float: left; padding: 5px;
-}
-
-#cellbr {
-	clear: both;
-}
-
-#budiv {
-	padding: 0 4px 4px 0;
-}
-
-.mainbutton {
-	font-weight: bold;
-}
-
-a {
-	text-decoration: underline;
-}
-a:hover {
-	text-decoration: underline;
-	color: #666699;
-}
-a:visited {
-	color: #777777;
-	text-decoration: underline;
-}
-.quote {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	color: #ffffff;
-	text-decoration: none;
-	padding-left: 6px;
-	padding-right: 6px;
-}
-.quote a {
-	color: #ffffff;
-	text-decoration: underline;
-}
-.quote a:hover {
-	color: #ffffff;
-	text-decoration: underline;
-}
-.quote a:visited {
-	color: #ffffff;
-	text-decoration: underline;
-}
-
-
-.textad {
-	font-family: arial, sans-serif;
-	font-weight: normal;
-	color: #404095;
-	text-decoration: none;
-}
-.textad:hover {
-	font-family: arial, sans-serif;
-	font-weight: normal;
-	color: #404095;
-	text-decoration: underline;
-}
-.textad:visited {
-	color: #404095;
-}
-
-strong, b{
-	font-weight : bold;
-}
-small {
-	font-size : 12px;
-}
-.smtext {
-	font-size : 11px;
-}
-big {
-	font-size: 14px;
-	font-weight : bold;
-	}
-h3 {  font-size: 14px;
-	font-weight : bold;
-	}
-.footer {
-	color : #333333;
-	font-weight : bold;
-	text-decoration: none;
-}
-.footer:hover {
-	color : #333333;
-	font-weight : bold;
-}
-.footer:visited {
-	color : #333333;
-}
-.downtopmenu {
-	color : #000000;
-	font-size: 12px;
-	font-weight : bold;
-	text-decoration: none;
-}
-.downmenu {
-	color : #000000;
-	font-size: 12px;
-	font-weight : normal;
-	text-decoration: none;
-}
-.downmenu:hover {
-	color : #000000;
-	font-size: 12px;
-	font-weight : normal;
-}
-.downmenu:visited {
-	color : #000000;
-}
-.upmenu {
-	color : #ffffff;
-	font-size: 12px;
-	font-weight : bold;
-	text-decoration: none;
-}
-.upmenu a:hover {
-	color : #ffffff;
-	text-decoration: underline !important;
-}
-.upmenu a:visited {
-	color : #ffffff;
-	text-decoration: none;
-}
-.searchedit {
-	border: 1px #000000 solid;
-	width: 90
-}
-.job {
-	font-weight : normal;
-	font-size: 10;
-	text-decoration: none;
-}
-.job:hover {
-	text-decoration: underline !important;
-}
-.job:visited {
-	text-decoration: none;
-}
-.pj_count {
-	color : #9B9B9B;
-	font-weight : normal;
-	font-size: 10;
-	text-decoration: none;
-}
-.newstopic {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: normal;
-	padding-top: 8px;
-	padding-bottom: 2px;
-}
-a.newstopic {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: normal;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	text-decoration: underline;
-}
-.newscont {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: normal;
-}
-.newstime {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #FFFFFF;
-	font-size: 10px;
-	background-color: #C4C0CC;
-	font-weight: normal;
-	padding-left: 8px; padding-top: 1px;
-	padding-right: 2px; padding-bottom: 1px;
-}
-.newstitle {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: bold;
-	text-transform: none;
-	color: #666699;
-	padding-top: 5px;
-	padding-bottom: 3px;
-	padding-left: 10px;
-}
-A.newstitle{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: bold;
-	text-transform: none;
-	color: #666699;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	text-decoration: underline;
-}
-A.newstitle:hover {
-	color: #666699;
-	text-decoration: underline;
-}
-A.newstitle:visited {
-	color: #666699;
-	text-decoration: underline;
-}
-.articlecont {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: normal;
-}
-.articletitle {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: bold;
-	text-transform: none;
-	color: #666699;
-	padding-top: 5px;
-	padding-bottom: 3px;
-	padding-left: 10px;
-}
-A.articletitle{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: bold;
-	text-transform: none;
-	color: #666699;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	text-decoration: underline;
-}
-
-A.articletitle:hover {
-	color: #666699;
-	text-decoration: underline;
-}
-
-A.articletitle:visited {
-	color: #666699;
-	text-decoration: underline;
-}
-
-#lightbox {
-	border: 1px solid #ACADCA; background: #FBFBFD;
-	padding: 5px; margin: 10px 0px 10px 0px;
-}
-
-#lightbox ul {
-	list-style: circle;
-	padding-left: 20px;
-	margin-left: 0px;	
-}
-
-#lightbox li {
-	padding-top: 5px;
-}
-
-#grouptitle
-{
-	font-size: 13px;
-	font-weight : bold;
-	border-bottom: 1px dashed #666699;
-	color: #666699;
-	padding-bottom: 5px;
-	margin-bottom: 10px;
-	margin-top: 12px
-}
-#groupline
-{
-	font-weight : bold;
-	border-bottom: 1px dashed #666699;
-	color: #666699;
-	padding-bottom: 0px;
-	padding-top: 0px;
-	margin-bottom: 0px;
-	margin-top: 0px
-}
-.notebox { font-size: 12px; width: 80%; margin-top:2px; margin: 4px; padding: 5px; }
-.notehead { padding-right: 10px; float: left; color: #008000; font-weight: bold; }
-.warnhead { padding-right: 10px; float: left; color: #FF0000; font-weight: bold; }
-
-.errbox { font-size: 12px; width: 80%; margin-top:2px; margin: 4px; padding: 5px; border: 2px #FF0000 solid }
-.successbox { font-size: 12px; width: 80%; margin-top:2px; margin: 4px; padding: 5px; border: 2px #00AF00 solid }
-.notebox form {margin-top:0px;margin-bottom:0px;}
-.errbox form {margin-top:0px;margin-bottom:0px;}
-.successbox form {margin-top:0px;margin-bottom:0px;}
-
-.summary_cell {
-	background-color: #eeeeee;
-	font-weight: bold;
-	padding: 0.7em;
-}
-
-/* statuses */
-.project_status_A {
-	color:green;
-	font-weight: bold;
-}
-
-.project_status_C {
-	font-weight:normal;
-	color:red;
-}
-
-.project_status_F {
-	font-weight:normal;
-	color:#666666;
-}
-.project_status_P {
-	font-weight:normal;
-	color:gray;
-}
-.project_status_R {
-	font-weight:normal;
-	color:brown;
-}
-
-.disabled_lnk {
-	color: #ADB3C2;
-}
-
-.bold_text {
-	font-weight: bold;
-}
-.bold_text a {
-	font-weight: bold;
-}
-
-
-.proj1 {
-	border-left:1px solid grey;
-	border-right:1px solid grey;
-	border-top:1px solid grey;
-	background-color:#fff;
-	padding-left:15px;
-}
-
-.proj1a {
-	border-left:1px solid grey;
-	border-top:1px solid grey;
-	background-color:#fff;
-}
-
-.proj1b {
-	border-right:1px solid grey;
-	border-top:1px solid grey;
-	background-color:#fff;
-}
-
-.proj1c {
-	border-right:1px solid grey;
-	background-color:#fff;
-}
-
-.proj2 {
-	border-left:1px solid grey;
-	border-right:1px solid grey;
-	border-bottom:1px solid grey;
-	padding:15px;
-}
-
-.proj2a {
-	border-left:1px solid grey;
-	border-right:1px solid grey;
-	border-bottom:1px solid grey;
-}
-
-.proj3 {
-	border-bottom:1px solid grey;
-}
-
-.lable2{
-	font-size:10px;
-	color:4d4d4d;
-}
-
-
-.tags {
-	font-size:12px;
-	line-height: 160%;
-}
-
-a.tag {
-	text-decoration: none;
-	padding-bottom:0px;
-	border-bottom: 1px dotted #666699;
-}
-
-a.tag:hover {
-}
-
-a.tag:visited {
-}
-
-.project_tag {
-
-}
-
-.project_big_tag {
-	font-size:16px;
-	padding-top:10px;
-	padding-bottom:10px;
-	display: block;
-}
-
-.category_active{
-	font-weight: bold;
-	padding-top: 0.4em;
-	padding-bottom: 0.2em;
-}
-
-.category_active {
-	list-style-type: disc;
-}
-
-.pager{
-	font-size:11px;
-	padding:0 5px 0 5px;
-	text-decoration:none;
-	background-color:#f4f0fC;
-	border-bottom:1px solid #33313f;
-	border-right:1px solid #4d4e42;
-	border-top:1px solid #c2cac4;
-	border-left:1px solid #959292;
-}
-
-.pager:hover{
-	border-bottom:1px solid #33313f;
-	border-right:1px solid #4d4e42;
-	border-top:1px solid #c2cac4;
-	border-left:1px solid #959292;
-}
-
-
-.pager:visited {
-	text-decoration:none;
-}
-
-.pager_active{
-	font-size:11px;
-	padding:0 5px 0 5px;
-	border:1px solid #33313f;
-	text-decoration:none;
-	background-color:fff;
-}
+<link href="./multibox/multibox.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="./js/mootools.js"></script> 
+<script type="text/javascript" src="./multibox/overlay.js"></script> 
+<script type="text/javascript" src="./multibox/multibox.js"></script> 
 
 -->
-</style>
 
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#333333" alink="#666666" style="margin:8px">
+<body>
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td valign="top">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-		  <td width="339"><a href="./"><img border="0" src="./img/logo.gif" width="339" height="66" alt="GetAFreelancer.com"></a></td>
-          <td width="100%">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr valign="middle">
-                <td width="100%">
-                &nbsp;
-                </td>
-		<td align="right" nowrap="">
-				<script language="javascript">
-					function searchSubmit(form) {
-						if (form.keyword.value=='Search term') form.keyword.value='';
-						form.submit();
-						return true;
-					}
-				</script>
-                <form style="padding:0px; margin:0px;" method="get" name="sf" action="./projects/search.php" onsubmit="searchSubmit(this)"><img src="./img/findprojects.gif" alt="Find projects" width="80" height="13" border="0"><input type="text" class="searchedit" style="width:120px" name="keyword" value="Search term" onclick="if (this.value=='Search term') this.value=''"><a href="javascript:searchSubmit(document.forms.sf)"><img src="./img/search.gif" width="18" height="15" border="0" alt="Search"></a></form></td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                		<tbody><tr><td height="2" bgcolor="#ffffff"></td></tr>
-                		<tr><td bgcolor="#A8A8A8">
-                			<table width="100%" border="0" cellspacing="2" cellpadding="0">
-                				<tbody><tr><td align="center">
-                					<span class="upmenu">
-	<a class="upmenu" href="./users/signup.php">Sign Up</a> |
-        <a class="upmenu" href="./users/manage.php">Log in</a> |
-	<a class="upmenu" href="https://www.getafreelancer.com/buyers/create.php">Post Project</a> |
-        <a class="upmenu" href="./sellers/">Browse projects</a> |
-        <a class="upmenu" href="./users/top_users.php">Top Rated Users</a> |
-	<a class="upmenu" href="./info/rssfeeds.html">RSS feeds</a> |
-	<a class="upmenu" href="./news/articles.html">FAQ</a>
-</span>
+        <div id="internalOuterContainer">
 
-                				</td></tr>
-                			</tbody></table>
-                		</td></tr>
-                		<tr><td height="1" bgcolor="#ffffff"></td></tr>
-                		<tr><td height="2" bgcolor="#3C3A3F"></td></tr>
-                	</tbody></table>
-                </td>
-              </tr>
-		        <tr>
-		        	<td colspan="2" align="left">
+        <div id="internalHeaderExtension">
 
-		        	</td>
-		        </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-      </td>
-    </tr>
-    <tr align="center">
-      <td valign="top" align="center" height="5"></td>
-    </tr>
-    <tr align="center">
-      <td valign="top" bgcolor="#5D5E91" align="center" height="3"></td>
-    </tr>
-    <tr align="center">
-      <td valign="top" align="center">&nbsp;</td>
-</tr>
-<tr><td>
-<div>
-<h2>
-Privacy Statement for GetAFreelancer.com
-</h2>
-<p>
-<b>
-GetAFreelancer.com
+            <div id="siteContainer">
+<div id="topHeader">
+	<ul id="mainMenu"> 
+		<li><a href="https://www.getafreelancer.com/buyers/create.php" alt="Outsource a Project" title="Post Project">Post Project</a></li> 
+		<li><a href="./sellers/" alt="Browse Freelancer Projects" title="Browse Projects">Browse Projects</a></li> 
+                <li><a href="./affiliates/" title="Affiliates">Affiliates</a></li>
+		<li><a href="./users/top_users.php" alt="Join Freelancer.com" title="Sign Up">Users</a></li> 
+		<li><a href="./faq/view.php" alt="Frequently Asked Questions" title="FAQ" class="last">FAQ</a></li> 
+		<li><a href="./users/signup.php" class="alt" title="SIGN UP">Sign Up</a></li> 
+		<li><a href="./users/manage.php" class="alt" title="LOGIN">Login</a></li> 
+	</ul>
+	<a href="/"><img src="./img/newlogo2.jpg" width="249" height="49" alt="Business Outsourcing Services and Online Freelancing Jobs" border="0"></a>
+</div>
 
-</b>
+
+            <div id="homeHeader">
+
+
+                <div class="headerText">
+                  <h1>Privacy Statement</h1>
+                </div>
+
+                <img src="./img/spacer.gif" alt="" width="1" height="120" class="homeHeaderSizer">
+
+            </div>
+
+            <div id="siteContent">
+
+                    <div id="internalPageHeader">
+
+                        <div id="subTitle">
+                                <h2>Our Policy</h2>
+<p>Freelancer.com
  has created this privacy
       statement in order to demonstrate our firm commitment to privacy.
       The following discloses the information gathering and
       dissemination practices for this Web site:
       
 <a href="http://www.getafreelancer.com">
-GetAFreelancer.com
-</a>
-</p>
+Freelancer.com
+</a></p>
+                        </div>
 
-For each visitor to GetAFreelancer.com web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. GetAFreelancer.com collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes.
-<p>
-When you participate on the GetAFreelancer.com web site, we request certain information. GetAFreelancer.com does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data except for those with whom you have transactions.
-</p><p>
-If you supply GetAFreelancer.com with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.</p><p>
-Personally Identifiable Information-When visiting GetAFreelancer.com's or any Client's Web site and signing up for or using GetAFreelancer.com services through any Service Page, you may choose to supply GetAFreelancer.com with information that identifies users personally. For End-Users (Suppliers of Service), this information may include name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information.</p><p> 
-From time to time, GetAFreelancer.com may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the GetAFreelancer.com web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically.</p><p>
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us <a href="./report/contact.php">here</a>. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.</p><p>
-Aggregate Information--GetAFreelancer.com collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: GetAFreelancer.com uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site.</p><p>
+                      <div id="searchInternal">
 
-</p><h2>
-Contacting the Web Site
-</h2>
-<p>
+                        <script language="javascript">
+                        function searchSubmit(form) {
+                                if (form.keyword.value=='Search term') form.keyword.value='';
+                                form.submit();
+                                return true;
+                        }
+                        </script>
 
-      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please use:       
+                     <form name="sf" method="get" action="./projects/search.php" onsubmit="searchSubmit(this)">
+                          <label for="searchString">Search Projects:</label>
+                          <input type="text" name="keyword" value="Search term" onclick="if (this.value=='Search term') this.value=''">
+                          <a href="javascript:searchSubmit(document.forms.sf)" title="Search"><img src="./img/buttons/btn_search.gif" width="97" height="34" alt="Search"></a>
+                     </form>
+
+
+                        </div>
+
+
+
+                        <div class="clearBoth">&nbsp;</div>
+
+                    </div>
+
+
+                    <div id="internalContent">
+                        <img src="./img/internal/internal_content_top.gif" alt="" width="902" height="12">
+
+<p></p>
+
+
+<table cellspacing="20" cellpadding="10">
+<tbody><tr><td>
+<h3>Details</h3>
 <br>
-<a href="./report/contact.php">Contact us</a>
-</p>
+For each visitor to Freelancer.com web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. Freelancer.com collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes.
+<br>
+<br>
+When you participate on the Freelancer.com web site, we request certain information. Freelancer.com does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data except for those with whom you have transactions.
+<br>
+<br>
+If you supply Freelancer.com with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+<br>
+<br>
+Personally Identifiable Information-When visiting Freelancer.com's or any Client's Web site and signing up for or using Freelancer.com services through any Service Page, you may choose to supply Freelancer.com with information that identifies users personally. For End-Users (Suppliers of Service), this information may include name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information.
+<br>
+<br>
+From time to time, Freelancer.com may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Freelancer.com web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically.
+<br>
+<br>
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us <a href="./report/contact.php">here</a>. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+<br>
+<br>
+Aggregate Information--Freelancer.com collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Freelancer.com uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site.
+<br>
+<br>
+
+<h3>Contacting the Web Site</h3>
+<br>
+
+      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please <a href="./report/contact.php">Contact us</a>.
+</td></tr></tbody></table>
+<img src="./img/internal/internal_content_bottom.gif" alt="" width="902" height="12">
+
 </div>
-</td></tr>
-<tr align="center">
-      <td valign="top" align="center">&nbsp;</td>
-</tr>
-    <tr align="center">
-      <td valign="top" align="center">
-      
-      <p></p><p> [ <a href="http://www.getafreelancer.com/projects/all.php">View All Projects</a> ] 
- [ <a href="http://www.eufreelance.com">EU Freelance</a> ] 
- [ <a href="http://www.getafreelancer.com/buyers/create.php">Post Project Free</a> ] 
- [ <a href="http://www.getafreelancer.com/users/signup.php">Join GAF Free</a> ] 
-</p><p>
-      </p></td>
-    </tr>
-    <tr align="center">
-    	<td valign="middle" align="center">
-		<table cellspacing="3" cellpadding="3" class="bordertable" width="100%">
-			<tbody><tr><td valign="top" align="left">
-			<p>
-			<b>What is GetAFreelancer.com?</b> <b>( <a href="./info/about.php"><b>Read about the company</b></a> )</b>
-			</p><p>Would you like to <b>outsource your next project</b>? Would you like to make money as a <b>freelancer</b>? Click <a href="http://www.getafreelancer.com/users/signup.php">Sign Up</a> to start!
-Our mission is to find the best possible <b><a href="http://www.getafreelancer.com">freelance</a> workers</b> at the best possible price.
-Buy services and get paid as deliverables are done with our Milestone Payments feature.
-<b>Web Development</b> doesn't  have to be expensive. <b>Outsourcing</b> will cut your expenses by more than 50%.
-A freelancer is an independent worker, not on salary, hired instead on a project basis. 
-<b><a href="http://www.getafreelancer.com">Outsource</a> projects</b> and save a lot of money. Getting affordable <b>freelance work</b>, <b>freelance programming</b> and <b>custom web design</b> done for your website has never been easier.
-</p><p>Outsourcing is hiring an outside organization to perform services such as information processing and applications development.
-<a href="http://www.getafreelancer.com/">GetAFreelancer.com</a> helps webmasters, web designers, programmers, software developers and business owners to develop <a href="http://www.getafreelancer.com/projects/all.php">their projects</a>.
-It's easy, fun and very affordable to outsource your project with our site.
-Find <b><a href="http://www.getafreelancer.com/users/all.php">freelance programmers</a></b>, <b><a href="http://www.getafreelancer.com/users/all.php">web designers</a></b>, <b><a href="http://www.getafreelancer.com/users/all.php">copywriters</a></b> and <b><a href="http://www.getafreelancer.com/users/all.php">translators</a></b>.
-Bookmark our <a href="http://www.getafreelancer.com/">homepage</a> to make sure you don't forget about our website next time you need to develop an IT project for yourself or your company.
+</div>
+</div>
+
+
+<div id="siteFooterContainer">
+<div id="footer">
+
+	<h3>WHAT IS FREELANCER.COM?</h3>
+<p>Freelancer.com is a global outsourcing solution and freelance jobs website. Here you can find freelance coders, writers, programmers, designers, marketers and more. You can also outsource projects and save a lot of money in the process. Getting the best web design, professional programming, custom writing or affordable marketing has never been easier!<br><br>
+We have thousands of satisfied clients from every corner of the world. Would you like to outsource your next project? Would you like to find freelance jobs and make money online? Just sign up to get started!
+Outsourcing jobs is the process of hiring an outside company or individual to complete your projects. We have created a safe environment for both service buyers and service providers via our secure payment system. You outsource the project and don't release any money until you're satisfied! Try outsourcing for free today! Don't forget to bookmark our homepage for your next project or job.</p>
+	<a href="./info/about.php" class="readMoreLink">READ MORE ABOUT THE COMPANY</a><br><br>
+	<ul>
+	<li><strong>Plendo Sweden AB © 2004-2009</strong></li>
+	<li><a href="./page.php?p=info/privacy" title="PRIVACY POLICY">PRIVACY POLICY</a></li>
+	<li><a href="./page.php?p=info/terms" title="TERMS">TERMS</a></li>
+	<li><a href="./affiliates/" title="AFFILIATES">AFFILIATES</a></li>
+	<li><a href="http://apidocs.getafreelancer.com/" target="_blank" title="API">API</a></li>
+	<li><a href="./quotes/" target="_blank" title="QUOTES">QUOTES</a></li>
+	<li><a class="last" href="./report/contact.php" title="CONTACT">CONTACT</a></li>
+	</ul>
+	<p>Freelancer™ is a trademark of Ignition Networks Pty Limited (ACN 134 845 748)<br><br>
+	Newly Outsourced Projects fed by <a href="http://www.getafreelancer.com/rss.xml" title="RSS"><img src="/img/gbtn_rss.gif" alt="RSS" class="footerRSS"></a>&nbsp; &nbsp; Follow our Freelance Jobs on Twitter <a href="http://www.twitter.com/getafreelancer" title="Follow me on Twitter"><img src="/img/gicon_twitter.gif" alt="Twitter" class="footerRSS"></a> 
+Add to your 
+
+<a href="http://www.google.com/coop/trust/add?user=017293852443800877047&amp;sig=__bsH1R9i0c-Ik5F7PHhcH5-Lat0w=">Google search results</a>
+
+<img src="./img/dadada.gif" alt=" " width="5" height="1" class="horizontalLine">
+
 </p>
-			</td></tr>
-		</tbody></table>
-		<p>
-	Find <a href="http://www.bigwebmaster.com" target="_new">Webmaster Resources</a> and
-	<a href="http://www.ozzu.com" target="_new">Webmaster Forum</a>.
-	Take a look at <a href="http://www.addme.com" target="_new">Search Engine Submission</a>.
+<p>
+ <a href="http://www.software.com/mac-creative/" title="Creative Software for Mac">Creative Software for Mac</a> 
 
+&nbsp; &nbsp; * &nbsp; &nbsp; <a href="http://www.bigwebmaster.com" target="_new">Webmaster Resources</a> &nbsp;&nbsp; * &nbsp;&nbsp; <a href="http://www.ozzu.com" target="_new">Webmaster Forum</a></p>
+</div>
+</div>
+<!--
+<script type="text/javascript"> 
+	var box = {};
+	window.addEvent('domready', function(){
+		box = new MultiBox('mb', {descClassName: 'multiBoxDesc', useOverlay: true});
+	});
+</script> 
 
-		<!-- { {<links>} } -->
-		<br>
-		</p><p>
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td bgcolor="#C5C5C5" class="footer" valign="middle" align="center" height="25">
-				<div style="float:right"><font size="-3" color="#C5C5C5">0.0581&nbsp;</font></div>
-				GetAFreelancer © 2004-2009 &nbsp;
-				<a class="footer" href="./page.php?p=info/privacy">PRIVACY POLICY</a>&nbsp;&nbsp;-&nbsp;&nbsp;
-				<a class="footer" href="./page.php?p=info/terms">TERMS</a>&nbsp;&nbsp;-&nbsp;&nbsp;
-				<a class="footer" href="./affiliates/">AFFILIATES</a>&nbsp;&nbsp;-&nbsp;&nbsp;
-				<a href="http://apidocs.getafreelancer.com/" target="_blank">API</a>&nbsp;&nbsp;-&nbsp;&nbsp;
-			
-				<a class="footer" href="./report/contact.php">CONTACT</a>&nbsp;&nbsp;-&nbsp;&nbsp;
-				<a class="footer" href="./faq/view.php">FAQ</a>
-				&nbsp;&nbsp;<a href="http://www.getafreelancer.com/rss.xml"><img border="0" src="./img/rss.gif" alt="New projects feed by RSS 2.0"></a>				&nbsp;&nbsp;Follow me on <a border="1" href="http://www.twitter.com/getafreelancer"><img src="./img/twitter-small.png" alt="Follow me on Twitter" border="1"></a>
-			</td>
-		</tr>
-		</tbody></table>
-    	</p></td>
-    </tr>
-    <tr align="center">
-      <td valign="top" align="center" height="5"></td>
-    </tr>
-</tbody></table>
+-->
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-223765-6";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-223765-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+<script>
+updateStatus();
 </script>
 
 
 
-
-</body></html>
+</div></div></body></html>
