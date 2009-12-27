@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627082611id_/http%3A//www.examiner.ie/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227023157id_/http%3A//www.examiner.ie/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACYPOLICY | Irish Examiner
 
-|  **  
-Privacy Policy** Irish Examiner has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.irishexaminer.com](http://www.examiner.ie/). 
+## Privacy Policy
+
+Irish Examiner has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.irishexaminer.com](http://www.examiner.ie/). 
 
 * * *
 
-  
 **IP address**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may also be used to help identify you and to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
 * * *
 
-  
 **Other Sites**
 
 This site contains links to other sites. 
@@ -89,7 +88,6 @@ Webmaster, TCM, 97 South Mall, Cork, Ireland
 
 * * *
 
-  
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
@@ -99,6 +97,3 @@ TCM,
 97 South Mall,  
 Cork, Ireland.  
 [ webmaster@examiner.ie](mailto:webmaster@examiner.ie)
-
-|   
----|---|---
