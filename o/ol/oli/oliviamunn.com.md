@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliviamunn.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626000553id_/http%3A//www.oliviamunn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliviamunn.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022636id_/http%3A//www.oliviamunn.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
