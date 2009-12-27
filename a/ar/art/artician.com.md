@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623175629id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227023223id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
 
 # Artician Privacy Policy
+
+  
+
+
+**Last updated:** December 07 2009
 
 The Artician Network is owned and operated by Artician LLC, and Artician Web Development Studios.  
 We can be reached via e-mail at  | [View Terms of Use](https://web.archive.org/terms/). 
@@ -21,7 +26,7 @@ We collect e-mail addresses and information of visitors and users of Artician. T
 
 We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-We do not make the e-mail addresses of those who access our site available to other reputable organizations. If you would like more information about how we use your email address, please let us know e-mailing us at 
+We do not make the e-mail addresses of those who access our site available to any organizations. If you would like more information about how we use your email address, please let us know e-mailing us at 
 
 ## With respect to Ad Servers:
 
