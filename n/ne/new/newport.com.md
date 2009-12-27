@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628112029id_/http%3A//www.newport.com/store/help.aspx%3Fid%3D215%26lang%3D1033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063101id_/http%3A//www.newport.com/store/help.aspx%3Fid%3D215%26lang%3D1033) for the most accurate reproduction.*
 
 # Newport Corporation | store | help
 
@@ -70,10 +70,10 @@ This Privacy Policy may be revised over time as new features are added to the Si
 If for some reason you believe Newport has not adhered to this Privacy Policy, or if you have questions regarding this Privacy Policy, please contact Newport at:
 
 > Newport Corporation  
-> 1791 Deere Avenue  
-> Irvine, California 92606  
-> Attention: Legal Department  
-> (949) 863-3144  
+>  1791 Deere Avenue  
+>  Irvine, California 92606  
+>  Attention: Legal Department  
+>  (949) 863-3144  
 > [legal@newport.com](mailto:legal@newport.com)  
 > 
 
