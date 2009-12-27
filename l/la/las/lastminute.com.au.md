@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617085226id_/http%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227134135id_/https%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Newsletter**
+**  
+Newsletter**
 
   
 lastminute.com.au sends each of our subscribers a weekly newsletter which has been requested by them by adding their e-mail address in the subscribe box that appears throughout the lastminute.com.au website. The newsletters contain information and offers as well as some paid advertising material. In addition to the weekly newsletters, lastminute.com.au may occasionally send out a “stop press” or “one-off” emails which are deemed to be valuable to our customers. In accordance with the Spam Act 2003, No. 129, 2003, An Act about spam, and for related purposes.
@@ -31,11 +32,8 @@ When you look at our website we will collect the following information for stati
 • The previous site you have visited   
 • The type of web browser you are using 
 
-We use third-party advertising companies (such as Sensis MediaSmart) to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. 
 
-To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Sensis MediaSmart, please click here: **[Sensis MediaSmart Privacy Policy](http://www.sensismediasmart.com.au/index.cfm?pid=1&pageid=284)**
-
-  
 When you process a booking though us at lastminute.com.au we need to collect information from you in order to fulfil this. All information collected will remain with lastminute.com.au. The only circumstance in which we would pass on information to a third party is for the specific purpose of fulfilment of your order. For example passing on a delivery address to a courier. 
 
 **Why we collect personal profiles**
