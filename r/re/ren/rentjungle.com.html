@@ -1,0 +1,404 @@
+<!--The following is the downloaded HTML source of the rentjungle.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227213913id_/http%3A//www.rentjungle.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>Privacy Policy - Rent Jungle</title>
+    <meta name="title" content="Privacy Policy - Rent Jungle">
+	<meta name="description" content="">
+	<link rel="image_src" href="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/logosmall.jpg">
+	<meta name="keywords" content="apartments, rentals, apartments for rent, condos for rent, rent, houses for rent">
+ 	<link href="http://www.rentjungle.com/cdn/v2-4/includes/style.css" rel="stylesheet" type="text/css">
+ 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+ 	
+ 	<script language="javascript">
+		function showSelects(){
+			if (typeof document.addEventListener != 'function') {
+			var elements = document.getElementsByTagName("select");
+			for (i=0;i< elements.length;i++){
+			elements[i].style.visibility='visible';
+			}}}
+		function hideSelects(){
+			if (typeof document.addEventListener != 'function') {
+			var elements = document.getElementsByTagName("select");
+			for (i=0;i< elements.length;i++){
+			elements[i].style.visibility='hidden';
+			}}}
+	</script>
+
+		
+	<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js?load=effects,controls"></script>
+
+	
+    <script type="text/javascript">
+    
+	    
+    function enterlisten(e)
+	{ 	
+	
+		var characterCode 
+		
+		if(e && e.which){ //if which property of event object is supported (NN4)
+		e = e
+		characterCode = e.which //character code is contained in NN4's which property
+		}
+		else{
+		e = event
+		characterCode = e.keyCode //character code is contained in IE's keyCode property
+		}
+		
+		if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
+		GeoCode(1) //submit the form
+		return false
+		}
+		else{
+		return true
+		}
+
+	}
+ 	
+
+	function GeoCode(IsNew){
+    	    
+			var address;	
+	    	address = document.getElementById('qu').value;
+	    	// Variables to hold the values for Price, Beds, Bath, and Distance.
+	    	
+	    	if (!address) {
+	    		if (document.getElementById('qu2') != null) {address = document.getElementById('qu2').value;}	
+	    	}
+	   			
+			showAddress(address);
+	
+			function showAddress(address) {
+				var params;
+		    	var price;
+		    	var beds;
+		    	var bath;
+		    	var distance;
+		    	var srt;
+		    	var err;
+		    	var house;
+		
+				beds ='';
+				beds = parsebeds(address);
+
+		    	if (document.getElementById('r') != null) {price = document.getElementById('r').value;} else {price ='';}
+		    	if (document.getElementById('b') != null && beds=='') {beds = document.getElementById('b').value;} 
+		    	if (document.getElementById('a') != null) {bath = document.getElementById('a').value;} else {bath ='';}
+		    	if (document.getElementById('d') != null) {distance = document.getElementById('d').value;} else {distance ='';}
+		    	if (document.getElementById('srt') != null) {srt = document.getElementById('srt').value;} else {srt='';}
+		    	if (document.getElementById('h') != null){
+		   		if (document.getElementById('h').checked) {house = document.getElementById('h').value;} else {house='';}}
+		    	 
+				address = parsequery(address);   	
+				address = urlencode(address);  
+		    	lat='';
+		    	lng='';
+		    	
+		    			    	
+				if (!IsNew) { 
+					window.location="/mapapartments/?lat="+lat+"&long="+lng+"&q="+address+"&r="+price+"&b="+beds+"&a="+bath+"&d="+distance+"&srt="+srt+"&h="+house;
+				} else {
+			 		window.location="http://www.rentjungle.com/searchdirect.php?pb=%2Fmapapartments%2F&q="+address+"&r="+price+"&b="+beds+"&a="+bath+"&d="+distance+"&srt="+srt+"&h="+house;
+			 	}
+			}
+			
+		}
+          
+ 	        
+	function urlencode( str ) {	                             
+		    var histogram = {}, tmp_arr = [];
+		    var ret = str.toString();
+		   
+		    var replacer = function(search, replace, str) {
+		        var tmp_arr = [];
+		        tmp_arr = str.split(search);
+		        return tmp_arr.join(replace);
+		    };
+		
+		    // The histogram is identical to the one in urldecode.
+		    histogram["'"]   = '%27';
+		    histogram['(']   = '%28';
+		    histogram[')']   = '%29';
+		    histogram['*']   = '%2A';
+		    histogram['~']   = '%7E';
+		    histogram['!']   = '%21';
+		    histogram['%20'] = '+';
+		      
+		    // Begin with encodeURIComponent, which most resembles PHP's encoding functions
+		    ret = encodeURIComponent(ret);
+		   	
+		    for (searchs in histogram) {
+		     
+		        replace = histogram[searchs];
+		        ret = replacer(searchs, replace, ret) // Custom replace. No regexing
+		    }
+		  
+		    // Uppercase for full PHP compatibility
+		    return ret.replace(/(\%([a-z0-9]{2}))/g, function(full, m1, m2) {
+		        return "%"+m2.toUpperCase();
+		    });
+
+          }
+          
+    function parsebeds(qstring) {
+		beds = '';
+		rstring = '(.*?)(([1-9]*)[\\s]*?(bedrooms|bedroom|beds|bed)|studios|studio)(.*)';
+		myregexp = new RegExp(rstring, "i");
+		if (myregexp.test(qstring)){
+			groups = myregexp.exec(qstring);
+			if (groups[2].toLowerCase()=='studio'||groups[2].toLowerCase()=='studios') {
+				beds=1;
+			} else {
+				beds=parseInt(groups[3])+1;
+			}
+		}
+		//alert(beds);
+		return beds;
+	}
+	
+	function parsequery(qstring) {
+		rstring = '(.*?)(([1-9]*)[\\s]*?(bedrooms|bedroom|beds|bed)|studios|studio)(.*)';
+		myregexp = new RegExp(rstring, "i");
+		if (myregexp.test(qstring)){
+			groups = myregexp.exec(qstring);	
+			qstring=groups[5];
+			if (qstring=='') {qstring=groups[1]; }
+		}
+		rstring = '( near | by | in | nearby | around | next to | close to )';
+		myregexp = RegExp(rstring, "ig");
+		qstring = qstring.replace(myregexp, "")
+		qstring = qstring.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+		//alert(qstring);
+		return qstring;	
+	}
+	    		
+
+
+    </script>
+    	
+   	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript">
+	  GS_googleAddAdSenseService("ca-pub-3353818831202624");
+	  GS_googleEnableAllServices();
+	</script>
+	<script type="text/javascript">
+	  GA_googleAddSlot("ca-pub-3353818831202624", "Footer_Leaderboard_728_90");
+	  //GA_googleAddSlot("ca-pub-3353818831202624", "Header_Button_120_60");
+	  //GA_googleAddSlot("ca-pub-3353818831202624", "Header_Leaderboard_728_90");
+	  GA_googleAddSlot("ca-pub-3353818831202624", "Left_Square_300_250");
+	</script>
+	<script type="text/javascript">
+	  GA_googleFetchAds();	  
+	</script>
+</head>
+
+<body>
+
+
+<!-- Start outerWrapper -->
+<div id="outerWrapper">
+	<!-- Start content -->
+	<div id="content">
+		<!-- Start header -->
+		<div class="header">
+			<span class="login">
+								You are not logged in.<a href="http://www.rentjungle.com/login.php" class="signIn">Click here to sign in.</a>			</span>
+			<a href="http://www.rentjungle.com/" class="logo	"><img src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/logo.jpg" alt="Rent Jungle Apartment Search"></a>
+			<span class="searchSection">
+				<form name="form1" onsubmit="return false;">
+				<input type="text" id="qu" name="q" value="" maxlength="58" onkeypress="enterlisten(event)" autocomplete="off">
+				<input type="submit" class="submit" value="Search" onclick="GeoCode(1)">			
+				<b>Example: "Chicago, IL" or "60610" or "700 N Clark St, Chicago, IL"</b>
+				<div id="ac" style="display:none;border:1px solid black;background-color:white;margin-left:0px;margin-top:3px;font-size:16px;"></div>
+				<script type="text/javascript" language="javascript">var myAutoCompleter = new Ajax.Autocompleter('qu', 'ac', '/ajaxcities.php', {frequency: .1});</script>
+				</form>
+			</span>
+			<span class="link">
+				<script type="text/javascript">//GA_googleFillSlot("Header_Button_120_60");</script>
+				<script type="text/javascript">var addthis_pub="rentjungle";addthis_hide_embed = true;</script><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="hideSelects(); return addthis_sendto();"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>&nbsp;&nbsp;<a href="http://www.addthis.com/bookmark.php" style="text-decoration:none;" onclick="hideSelects(); return addthis_open(this, 'email', '[URL]', '[TITLE]');"><img src="http://s7.addthis.com/button1-email.gif" width="54" height="16" border="0" alt="Email"></a>
+			</span>
+			<ul>
+				<li><a href="http://www.rentjungle.com/" class="" title="Home"><span>home</span></a></li>
+				<li><a href="http://www.rentjungle.com/apartments/" class="" title="Search apartments"><span>Browse Rentals</span></a></li>
+				<li><a href="http://www.rentjungle.com/apartments/?&amp;f=y" class="" title="My Favorites"><span>Favorites</span></a></li>
+				<li><a href="http://www.rentjungle.com/articles/" title="Articles and Tips" class=""><span>Articles</span></a></li>
+				<li><a href="http://www.rentjungle.com/resources/" title="Resources"><span>Resources</span></a></li>
+				<li><a href="http://www.rentjungle.com/rentdata/" title="Market trends" class=""><span>market trends</span></a></li>
+				<li><a href="http://www.rentjungle.com/comparerent/" class="" title="Compare your rent"><span>compare your rent</span></a></li>
+				<li><a href="http://www.rentjungle.com/facebook/" class="" title="Facebook apartments"><span>Facebook App</span></a></li>
+			</ul>
+			
+				<a href="http://www.rentjungle.com/freerent/"><img id="longtopad" class="headerad" src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/headerbanner.gif"></a>
+		</div>
+		<!-- End header -->
+		<!-- Start mainBody -->
+	
+		<div id="mb" class="mainBody">
+						<!--<div class="banner">
+				<script type="text/javascript">//GA_googleFillSlot("Header_Leaderboard_728_90");</script>		
+			</div>-->
+						
+			<!-- Start left -->						
+			<div id="textpage"><h2>RentJungle Privacy Policy</h2>
+
+
+<h4>Introduction</h4>
+			
+<p>We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
+
+<ul>
+<li>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.</li>
+<li>RentJungle is acquired by or merged with another company. In this event, RentJungle will notify you before information about you is transferred.</li>
+</ul>
+
+<h4>Information Gathering and Usage</h4>
+<ul>
+<li>When you register for RentJungle we may ask for information such as your name, company name, email address, billing address, credit card information. Those who sign up for a free account are not required to enter a credit card, billing address or company name.</li>
+<li>RentJungle uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</li>
+</ul>
+
+<h4>Cookies</h4>
+<ul>
+<li>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.</li>
+<li>Cookies are required to use the RentJungle site.</li>
+<li>We use permanent cookies to store your login information so that you do not have to login with your username and password each time you visit the site. </li>
+<li>Permanent cookies are only used if you opt in by selecting "Remember login?" during account creation or while logging in. If you do not opt in, then cookies are only stored for the duration of your current session.</li>
+</ul>
+
+<h4>Data Storage</h4>
+
+<p>RentJungle uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run RentJungle. Although RentJungle owns the code, databases, and all rights to the RentJungle application, you retain all rights to your data.</p>
+
+<h4>Disclosure</h4>
+
+<p>RentJungle may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.</p>
+
+<h4>Changes</h4>
+
+<p>RentJungle may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your RentJungle account or by placing a prominent notice on our site.</p>
+
+<h4>Questions</h4>
+
+<p>Any questions about this Privacy Policy should be addressed to customercare at rentjungle.com or by mail at: RentJungle LLC, 417 S Dallas Ave, Pittsburgh, PA 15208</p>
+
+
+	</div>
+</div>
+<!-- End mainBody -->
+		<div class="socialLinksArea">
+			<ul>
+				<li>
+					<a href="http://www.facebook.com/apartmentsearch"><img src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/facebook.png" alt="Become a Fan Of Facebook Apartments"></a>
+					<a href="http://www.facebook.com/apartmentsearch">Become a Fan on Facebook</a>
+				</li>
+				<li>
+					<script language="JavaScript">
+						function submitemailform()
+						{
+						  window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=500' ); 
+						  document.emailsignup.submit();
+						}
+					</script> 
+					<form name="emailsignup" method="post" action="http://oi.vresp.com?fid=bffae68686" target="vr_optin_popup">
+						<a href="javascript: submitemailform()"><img src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/email.png" alt="Join Our Mailing List"></a>
+						<a href="javascript: submitemailform()">Join Our Email List</a>
+					</form>
+				</li>
+				<li>
+					<a href="http://twitter.com/apartmentsite"><img src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/twitter.png" alt="Follow Us On Twitter"></a>
+					<a href="http://twitter.com/apartmentsite">Follow Us On Twitter</a>
+				</li>
+				<li>
+					<a href="http://blog.rentjungle.com"><img src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/blogger.png" alt="Follow Us On Twitter"></a>
+					<a href="http://blog.rentjungle.com">Read Our Blog</a>
+				</li>
+			</ul>
+
+		
+		</div>
+		<!-- Start footerArea -->
+		<div class="footerArea">
+		
+			<img src="http://c0123041.cdn.cloudfiles.rackspacecloud.com/images/footer-logo2.jpg" alt="Footer Logo">
+			<p><a href="http://www.rentjungle.com/about.php">About Us</a>  -  <a href="http://www.rentjungle.com/advertise.php">Advertise Your Listings</a>  -  <a href="http://www.rentjungle.com/contact.php">Contact Us</a> -  <a href="http://apps.facebook.com/rentjungle/">Facebook Apartment Search App</a> -  
+<strong><a href="http://www.rentjungle.com/privacypolicy.php">Your Privacy</a>  -  <a href="http://www.rentjungle.com/terms.php">Terms of Use</a>  -  <a href="http://www.rentjungle.com/refundpolicy.php">Refund Policy</a>  -  <a href="http://www.rentjungle.com/equalhousingopportunity.php">Equal Housing Opportunity</a>  -  <a href="http://www.rentjungle.com/sitemap.php">Site Map</a></strong> 
+
+<span>© 2009 RentJungle.com. All rights reserved.</span></p>			
+		</div>
+		<!-- End footerArea -->
+	</div>
+	<!-- End wrapper -->
+</div>
+<!-- End outerWrapper -->
+
+
+
+<!-- Start of Google Stats Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8249646-1");
+pageTracker._setDomainName(".rentjungle.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End of Google Stats Code -->
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4558817; 
+var sc_invisible=1; 
+var sc_partition=34; 
+var sc_click_stat=1; 
+var sc_security="58b2440c"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="visit counter for blogspot"
+href="http://www.statcounter.com/blogger/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4558817/0/58b2440c/1/"
+alt="visit counter for blogspot" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-75C4GOEv8B9Hc"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-75C4GOEv8B9Hc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<script type="text/javascript" charset="utf-8">
+  var is_ssl = ("https:" == document.location.protocol);
+  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+
+<script type="text/javascript" charset="utf-8">
+  var feedback_widget_options = {};
+
+  feedback_widget_options.display = "overlay";  
+  feedback_widget_options.company = "rentjungle";
+  feedback_widget_options.placement = "right";
+  feedback_widget_options.color = "#566D51";
+  feedback_widget_options.style = "idea";
+  
+  
+  
+  
+
+  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
+<style>a#fdbk_tab {top:40%;}</style>
+					
+
+	</body></html>
