@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowzio.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609230239id_/http%3A//www.wowzio.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowzio.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227065338id_/http%3A//www.wowzio.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wowzio
 
