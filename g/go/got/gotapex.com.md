@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# GotApex? Deals & Coupon Codes - Privacy Policy
+# dell coupons, dell deals, computer coupons, laptop deals, Bargains - GotApex? - Privacy Policy
 
 ## Privacy Policy Statement
 
@@ -76,41 +76,17 @@ Coupon codes and discounts to top online stores
   
 | Quick Lists  
 ---  
-[List All Stores (One Page)](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantlistall/)  
-[List All Stores (Multiple Pages)](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantlist/1/)  
-[List All Coupons (Multiple Pages)](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-Z.htm)  
-[Expiring Coupons](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/expiring/1/)  
+[List All Stores (One Page)](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantlistall/)  
+[List All Stores (Multiple Pages)](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantlist/1/)  
+[List All Coupons (Multiple Pages)](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-Z.htm)  
+[Expiring Coupons](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/expiring/1/)  
 Stores By Range  
-[Stores 0-9](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-9.htm)  
-[Stores A-F](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/A-F.htm)  
-[Stores G-L](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/G-L.htm)  
-[Stores M-R](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/M-R.htm)  
-[Stores S-Z](https://web.archive.org/web/20081220021226id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/S-Z.htm)  
+[Stores 0-9](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-9.htm)  
+[Stores A-F](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/A-F.htm)  
+[Stores G-L](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/G-L.htm)  
+[Stores M-R](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/M-R.htm)  
+[Stores S-Z](https://web.archive.org/web/20091228005412id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/S-Z.htm)  
   
-Expiring Coupons  
+Advertisement Advertisement [](http://www.buy.com/)  
   
----  
-  
-[Dell Home](http://www.gotapex.com/coupons/merchant/427.htm)
-
-[Get 25% off Inspiron desktop purchases of $1099+ or more. This coupon excludes evalue codes: DDDOFA2, DDDODG4, DDDOOB1, DDDAOG4. The Home & Home Office site and offers contained herein valid only for end users and not for resellers and/or online auctions. Offers subject to change, not combinable with...](http://www.gotapex.com/coupons/page/14533.htm)
-
-[Dell Home](http://www.gotapex.com/coupons/merchant/427.htm)
-
-[Get 20% off select Studio XPS desktops priced $1699+ or more. Valid on evalue code: DDDWMB4, DXDAZZ1 & DXCWZY4. The Home & Home Office site and offers contained herein valid only for end users and not for resellers and/or online auctions. Offers subject to change, not combinable with...](http://www.gotapex.com/coupons/page/14555.htm)
-
-[Dell Home](http://www.gotapex.com/coupons/merchant/427.htm)
-
-[Get $15 off Far Cry 2 for the PS3, making it $44.99. Valid on sku: A1983048. The Home & Home Office site and offers contained herein valid only for end users and not for resellers and/or online auctions. Offers subject to change, not combinable with all other offers....](http://www.gotapex.com/coupons/page/14551.htm)
-
-[Target](http://www.gotapex.com/coupons/merchant/1372.htm)
-
-[Get free shipping on select stationery items.](http://www.gotapex.com/coupons/page/14367.htm)
-
-[Shoes.com](http://www.gotapex.com/coupons/merchant/1266.htm)
-
-[Get 20% off athletic shoes. Brand exclusions apply so see site for details.](http://www.gotapex.com/coupons/page/14309.htm)  
-  
-Advertisement [ ](http://www.tkqlhce.com/click-268435-10599899?sid=1000&afsrc=1) Advertisement [ ](http://www.dpbolvw.net/click-268435-9997443?sid=1000&afsrc=1)  
-  
-All times are GMT -7. The time now is 07:12 PM.
+All times are GMT -7. The time now is 05:54 PM.
