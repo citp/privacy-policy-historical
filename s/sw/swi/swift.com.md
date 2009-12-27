@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622072800id_/http%3A//www.swift.com/about_swift/legal/43832/privacy_statement.page%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227062551id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
 
 # SWIFT - Privacy statement
 
@@ -10,7 +10,7 @@ This Statement explains how we use personal data collected from you on our websi
 
   * [www.swift.com](http://www.swift.com/home/index.page?)
   * [www.swiftcommunity.net](http://www.swiftcommunity.net/) (with its own [Terms of Use](https://www.swiftcommunity.net/termsofuse.cfm) confirming this Statement)
-  * our annual Sibos website, available at www.sibos[year].com (currently [www.sibos2008.com](http://www.sibos2008.com/)), and
+  * our annual Sibos website, available at www.sibos[year].com (currently <http://www.sibos2009.com/>), and
   * other URLs that redirect to [www.swift.com](http://www.swift.com/home/index.page?).
 
 We invite you to carefully read this Statement to understand our data processing practices. 
