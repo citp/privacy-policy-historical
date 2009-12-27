@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtexfits.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628111810id_/http%3A//www.playtexfits.com/privacypolicy.html%3Fheight%3D400%26width%3D615) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtexfits.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227153219id_/http%3A//www.playtexfits.com/privacypolicy.html%3Fheight%3D400%26width%3D615) for the most accurate reproduction.*
 
 # 
 
