@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625180145id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004029id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Policy as of 6/25/2009
+Policy as of 12/27/2009
 
 The Fright Catalog values its customers and respects their privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. When you visit any website, your computer exchanges information with other computers. The Fright Catalog recognizes that it must maintain and use customer information responsibly. Therefore, we support your right to decide what information you share and how it is used. If you ever have a question about your privacy please email us at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs).
 
@@ -19,8 +19,8 @@ Credit / Debit Card Information
 
 ## How do we use this information?
 
-We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can signup online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names in conjunction with an address to send notices and to rent to qualified third parties for their use. Anyone may remove themselves from receiving Fright Catalog and third party advertisements in the mail simply by emailing [service@frightcatalog.com](mailto:service@frightcatalog.com), fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) or by calling 1-888-437-4448.
+We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can signup online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names in conjunction with an address to send notices and to rent to qualified third parties for their use. Anyone may remove themselves from receiving Fright Catalog and third party advertisements in the mail simply by emailing [service@frightcatalog.com](mailto:service@frightcatalog.com), fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) or by calling 508-970-4575.
 
 ## Corrections and Removal
 
-Please contact our customer service representatives at 1-888-437-4448 or email at [service@frightcatalog.com](https://web.archive.org/web/20090625180145id_/http://www.frightcatalog.com/Site/PrivacyPolicy/service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) if corrections are necessary or you wish not to receive advertisements in the mail. If you have subscribed to our email newsletter and would like to be removed, please go to our [unsubscribe page](https://web.archive.org/Assistance/Unsubscribe?emsrc=mm).
+Please contact our customer service representatives at 508-970-4575 or email at [service@frightcatalog.com](https://web.archive.org/web/20091228004029id_/http://www.frightcatalog.com/Site/PrivacyPolicy/service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) if corrections are necessary or you wish not to receive advertisements in the mail. If you have subscribed to our email newsletter and would like to be removed, please go to our [unsubscribe page](https://web.archive.org/Assistance/Unsubscribe?emsrc=mm).
