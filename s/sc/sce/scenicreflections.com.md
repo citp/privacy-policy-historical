@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625121946id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227232137id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy - ScenicReflections.com
+# Privacy
 
 END USER LICENSE TERMS AND PRIVACY POLICY FOR  
 SCENICREFLECTIONS.COM 
