@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theledger.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015211730id_/http%3A//www.theledger.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theledger.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022316id_/http%3A//www.theledger.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | theledger.com | The Ledger | Lakeland, FL
+# PRIVACYPOLICY | TheLedger.com | The Lakeland Ledger
 
 This Privacy Policy discloses the privacy practices for The Lakeland Ledger newspaper and TheLedger.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Lakeland Ledger” include TheLedger.com and The Lakeland Ledger newspaper. The Lakeland Ledger is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
@@ -57,6 +57,8 @@ We reserve the right to place a The Lakeland Ledger Company cookie on your compu
 
 For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
 
+Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
+
 NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of TheLedger.com is owned and used by The Lakeland Ledger or NYTRMG. The Lakeland Ledger reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
 
 We reserve the right to change the vendors who provide us with usage data.
@@ -81,7 +83,7 @@ The Lakeland Ledger may perform statistical, demographic and marketing analyses 
 
 ### Products and Service Message from The Lakeland Ledger
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by The Lakeland Ledger, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by The Lakeland Ledger, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/LKL_DNM.html).
 
 ### Banner Advertising
 
