@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104203id_/http%3A//www.tumi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumi.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024641id_/http%3A//www.tumi.com/privacy) for the most accurate reproduction.*
 
 # TUMI Official Site: Luxury Luggage, Briefcases and Lifestyle Accessories
 
