@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516052813id_/http%3A//www.yatra.com/YT/YT_common/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024345id_/http%3A//www.yatra.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Yatra : Online Travel Services Company in India
+
+Privacy Policy
 
 Yatra respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
@@ -16,4 +18,8 @@ Yatra will take appropriate steps to protect the information you share with us. 
 
 If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Yatra will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
-Thank you for using Yatra! 
+When you register with Yatra.com, we or any of our partners/affiliate/group companies may contact you from time to time to provide the offers/information of such products/services that we believe may benefit you.
+
+Thank you for using Yatra!
+
+[Cheap Flights](http://www.yatra.com/) | [AirDeccan](https://web.archive.org/YT/airlines/air-deccan.html) | [Paramount Airline](https://web.archive.org/YT/airlines/paramount-airways.html) | [Spicejet Airline](https://web.archive.org/YT/airlines/spicejet-airline.html) | [Indian Airlines](https://web.archive.org/YT/airlines/indian-airline.html) | [Indigo Airline](https://web.archive.org/YT/airlines/indigo-airline.html) | [Kingfisher Airline](https://web.archive.org/YT/airlines/kingfisher-airline.html) | [Jet Airways](https://web.archive.org/YT/airlines/jet-airways.html) | [GoAir Airlines](https://web.archive.org/YT/airlines/goair-airline.html) | [Air India Airlines](https://web.archive.org/YT/airlines/air-india.html) [Bangalore Hotel ](http://www.yatra.com/HOTEL/hotel/bangaloreHotel.html) | [Jaipur Hotel](http://www.yatra.com/HOTEL/hotel/googlejaipurHotel.html) | [Chennai Hotel](http://www.yatra.com/HOTEL/hotel/googlechennaiHotel.html) | [Goa Hotel](http://www.yatra.com/HOTEL/hotel/googlegoaHotel.html) | [Delhi Hotel](http://www.yatra.com/HOTEL/hotel/googledelhiHotel.html) | [Hyderabad Hotel](http://www.yatra.com/HOTEL/hotel/googlehyderabadHotel.html) | [Mumbai Hotel](http://www.yatra.com/HOTEL/hotel/googlemumbaiHotel.html)
