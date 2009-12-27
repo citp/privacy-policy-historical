@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcgp.org.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626091420id_/http%3A//www.rcgp.org.uk/systempages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcgp.org.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227132017id_/http%3A//www.rcgp.org.uk/systempages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Royal College of General Practitioners - Privacy Policy
 
