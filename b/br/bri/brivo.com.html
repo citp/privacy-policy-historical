@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brivo.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626032001id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brivo.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227035139id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,6 +12,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.brivo.com/app/static_data/css/modules.css">
 <link rel="stylesheet" type="text/css" href="http://www.brivo.com/app/static_data/css/content.css">
 <link rel="stylesheet" type="text/css" href="http://www.brivo.com/app/static_data/css/subpage.css">
+<link rel="stylesheet" type="text/css" href="http://www.brivo.com/app/static_data/css/validationEngine.jquery.css" media="screen" title="no title" charset="utf-8">
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="http://www.brivo.com/app/static_data/css/ie6.css" />
 <![endif]-->
@@ -31,7 +32,14 @@
 				<button>search</button>
 			</form>
 		</li-->
-	</ul>	
+</ul>
+<div id="languages"> 
+		<ul id="flags">
+				<li class="label">Languages:</li>
+				<li class="english selected"><a href="http://www.brivo.com/"><img src="http://www.brivo.com/app/static_data/images/flag-us.png"></a></li>
+				<li class="french"><a href="http://www.brivo.com/french"><img src="http://www.brivo.com/app/static_data/images/flag-fr.png"></a></li>
+		</ul>
+</div>	
 	
 	<div id="header">
 		<div class="row">
@@ -71,7 +79,9 @@
 <div id="subpage-container">
 	<div class="subpage-mast products">
 		<div class="row">
-			<p class="page-title"> <span>Brivo® Online Access Control Systems</span></p>
+		
+				
+			<p class="page-title"> <span class="no-page-title">&nbsp;</span> <span>Brivo® Online Access Control Systems</span></p>
 			<h1>Privacy &amp; Security Policy</h1>
 			<ul class="breadcrumbs clearfix">
 	<li class="first"><a href="http://www.brivo.com">Home</a></li>
@@ -98,7 +108,7 @@
 				<div class="column-two">
 				  															<div class="content">
 												
-												<p>At Brivo Systems, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of your business and personal information. When you access our Web site as a visitor, we want you to know that your personal information (name, address, phone number and email address) is safe. When you access our Web site as a Brivo(r) Access Control System (ACS) customer, your personal and business Information (product identification information, internet access information such as Web browser, connection speed, domain and IP address, user access data, etc.) is safe and confidential. This Privacy and Security Statement will answer your questions about the kind of information we collect in order to properly serve you, how we use that information, and how it is protected.</p>
+												<p>At Brivo Systems, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of your business and personal information. When you access our Web site as a visitor, we want you to know that your personal information (name, address, phone number and email address) is safe. When you access our Web site as a Brivo® Access Control System (ACS) customer, your personal and business Information (product identification information, internet access information such as Web browser, connection speed, domain and IP address, user access data, etc.) is safe and confidential. This Privacy and Security Statement will answer your questions about the kind of information we collect in order to properly serve you, how we use that information, and how it is protected.</p>
 <p>If you have questions or comments about Brivo's Privacy and Security Statement, please feel free to contact us at <a href="mailto:customercare@brivo.com">customercare@brivo.com</a>.</p>
 <h2>What Information is Collected and How Will it Be Used?</h2>
 <p>From visitors, Brivo collects only the personal information necessary to enable us to respond to your requests for our products and services. When you visit our Web site, you may be asked to identify your product needs or the business category of your company, as well as your e-mail address, company name, business address and phone number, information that will better inable us to respond to your requests.</p>
@@ -139,26 +149,35 @@
 </div>
 <div id="footer-container" class="clearfix">
 	<div class="footer-content clearfix">
-		<div class="sponsor-image clearfix">
-			<img src="http://www.brivo.com/app/static_data/images/sponsors.gif" width="690" height="58" align="right">
+		<div id="sponsors">
+			<a id="s1"></a>
+			<a id="s2"></a>
+			<a id="s3"></a>
+			<a id="s4"></a>
+			<a id="s5"></a>
+			<a id="s6"></a>
+			<a id="s7"></a>
+			<a id="s8"></a>
 		</div>
+
 		<div id="demo-form" class="demo-form">
 			<h3>Request a demo today and see for yourself.</h3>
 			<p>Our brief online demo is the best way to learn about the benefits of the Brivo Access Control System.</p>
 						<form class="clearfix" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 				<input type="hidden" name="oid" value="00D80000000ZS6W">
 				<input type="hidden" name="retURL" value="http://www.brivo.com/demo-thank-you">
+				<input type="hidden" id="recordType" name="recordType" value="0128000000031sR">
 				<input type="hidden" name="00N80000003cHEk" value="http://www.brivo.com/privacy">
 				<table cellpadding="0" cellspacing="0" border="0">
 					<tbody>
 						<tr>
 							<td>
 								<label for="first_name">First Name</label>
-								<input id="first_name" maxlength="40" name="first_name" size="20" type="text">
+								<input id="first_name" maxlength="40" name="first_name" size="20" type="text" class="validate[required] text-input">
 							</td>
 							<td>
 								<label for="last_name">Last Name</label>
-								<input id="last_name" maxlength="80" name="last_name" size="20" type="text">
+								<input id="last_name" maxlength="80" name="last_name" size="20" type="text" class="validate[required] text-input">
 							</td>
 							<td colspan="2">
 								<label for="company">Company</label>
@@ -168,7 +187,7 @@
 						<tr>
 							<td>
 								<label for="email">Email</label>
-								<input id="email" maxlength="80" name="email" size="20" type="text">
+								<input id="email" maxlength="80" name="email" size="20" type="text" class="validate[required] text-input">
 							</td>
 							<td>
 								<label for="phone">Phone</label>
@@ -220,9 +239,9 @@
 					<li><a href="http://www.brivo.com/solutions/property-management">Property Management</a></li>
 					<li><a href="http://www.brivo.com/solutions/multi-site-commercial-offices">Multi-Site Commercial Offices</a></li>
 					<li><a href="http://www.brivo.com/solutions/federal">Federal Government</a></li>
-					<li><a href="http://www.brivo.com/solutions/general_aviation_airports">General Aviation Airports</a></li>
+					<li><a href="http://www.brivo.com/solutions/general-aviation-airports">General Aviation Airports</a></li>
 					<li><a href="http://www.brivo.com/solutions/education">Education</a></li>
-					<li><a href="http://www.brivo.com/solutions/municipalities_utilities">Municipalities and Utilities</a></li>
+					<li><a href="http://www.brivo.com/solutions/municipalities-utilities">Municipalities and Utilities</a></li>
 					<li><a href="http://www.brivo.com/solutions/religious-institutions">Religious Institutions</a></li>
 					<li><a href="http://www.brivo.com/solutions/small-business">Small Business</a></li>
 				</ul>
@@ -308,6 +327,7 @@ oMenuButton2.on("appendTo", function () {
 </script>
 <script type="text/javascript" src="http://www.brivo.com/app/static_data/js/jwplayer/swfobject.js"></script>
 <script type="text/javascript" src="http://www.brivo.com/app/static_data/js/jquery-1-3-2.js"></script>
+<script type="text/javascript" src="http://www.brivo.com/app/static_data/js/jquery.validationEngine.js"></script>
 <script type="text/javascript" src="http://www.brivo.com/app/static_data/js/shadowbox/adapter/shadowbox-jquery.js"></script>
 <script type="text/javascript" src="http://www.brivo.com/app/static_data/js/shadowbox/shadowbox.js"></script>
 <script>
@@ -316,12 +336,19 @@ Shadowbox.loadLanguage('en', "http://www.brivo.com/app/static_data/js/shadowbox/
 Shadowbox.loadPlayer(['flv', 'qt', 'swf', 'wmp'], "http://www.brivo.com/app/static_data/js/shadowbox/player");
 
 $('document').ready(function() {
+	$('a').each(
+		function(i) {
+			if(this.href.indexOf("f4v") >= 0 && this.href.indexOf("shadowbox") == -1) {
+				this.rel="shadowbox;width=700;height=500;";
+			}
+		}
+	);
     Shadowbox.init({
-			//autoDimensions: false,
+			autoDimensions: true,
 			language: "en",
 			players: ["qt","flv","img","swf"],
-			flashParams: {width: 400, height: 500, autostart: 'false', bufferlength: '10'},
-			flashVars: {autostart: 'false', bufferlength: '10'}
+			flashParams: {width: 400, height: 500, autostart: 'true', bufferlength: '15'},
+			flashVars: {autostart: 'true', bufferlength: '15'}
     });
 });
     /**
