@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-arena.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626020756id_/http%3A//soul-arena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-arena.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227032023id_/http%3A//www.soul-arena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Soul-Arena
 
@@ -30,6 +30,6 @@ Third Party websites may collect information from users of Soul-Arena, this info
 
 ##### Website Policy Changes
 
-Soul-Arena reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, [questions](https://web.archive.org/faq/ "questions"), or concerns regaurding this policy, or any other policy you may send them to us at policy@Soul-Arena. 
+Soul-Arena reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, [questions](https://web.archive.org/faq/ "questions"), or concerns regarding this policy, or any other policy you may send them to us at policy@Soul-Arena. 
 
 By continuing to access Soul-Arena and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the [terms](https://web.archive.org/terms-of-use/ "terms") as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Soul-Arena, and are also in agreement with our [disclaimer](https://web.archive.org/legal-disclaimer/ "disclaimer") and [terms of use](https://web.archive.org/terms-of-use/ "terms of use"). 
