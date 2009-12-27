@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504071738id_/http%3A//www.era.com/eraresources/aboutera/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227154518id_/http%3A//www.era.com/eraresources/aboutera/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ERA Real Estate
 
