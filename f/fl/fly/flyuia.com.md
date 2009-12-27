@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523234241id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227042648id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
 
-# Ukraine International Airlines
+# Privacy policy - Ukraine International Airlines
 
 As a valued Ukraine International Airlines customer, your personal privacy is very important to us. This page outlines our policy concerning personal information. By using the Ukraine International Airlines website, you accept the practices described in this Privacy Policy. We may update our Privacy Policy from time to time to take account of changing requirements such as changes in technology or legislation, and request that you refer back to this Policy frequently to become aware of any such revisions. In addition, we recommend that you review the privacy policy of any website accessed through the Ukraine International Airlines website as these sites may be subject to different privacy practices. Ukraine International Airlines is not responsible for these websites or for the information made available thereon. 
 
@@ -10,7 +10,7 @@ To ensure the security of your credit card information when you book flights thr
 
 If your browser does not support SSL, we recommend that you upgrade to the latest version of any browser to enhance the security of further transactions, otherwise the transmission of your personal data may not be protected and Ukraine International Airlines disclaims any responsibility in this regard 
 
-Credit card sales are processed by BIBIT Payment Systems, part of the Royal Bank of Scotland Group. 
+Credit card sales are processed by RBS WorldPay Payment Systems, part of the Royal Bank of Scotland Group. 
 
 **2\. What personal information does Ukraine International Airlines collect when I visit the Ukraine International Airlines website?**
 
