@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maricopa.gov privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140105id_/http%3A//www.maricopa.gov/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maricopa.gov privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227231144id_/http%3A//www.maricopa.gov/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Disclaimers/Statements
 
@@ -6,7 +6,7 @@
 The Maricopa County Web site is maintained by:
 
 _eGovernment Web Solutions_  
-Office of the CIO  
+Office of Enterprise Technology  
 Maricopa County   
 301 S. 4th Ave., Suite 200  
 Phoenix, AZ 85003
