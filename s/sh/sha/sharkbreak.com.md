@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharkbreak.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618082506id_/http%3A//www.sharkbreak.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkbreak.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227091221id_/http%3A//www.sharkbreak.com/privacypolicy.php) for the most accurate reproduction.*
 
 # SharkBreak™ Relax. Take a Shark Break!™ Online Aquarium
 
