@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626064205id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227231015id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * #### General Information
 
 VMware respects the privacy of our customers, business partners and employees. We recognize the need for appropriate protections and management of your personal information that you provide to us. VMware has therefore established this Privacy Statement to assist you to understand what information we collect and how that information is used. This Privacy Statement applies to VMware Inc. including its Divisions and Subsidiaries.
-
-
-
-
-To top
-
-  * #### Safe Harbor Compliance
-
-VMware's privacy practices are in compliance with the U.S. and E.U. Safe Harbor principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at <http://www.export.gov/safeharbor/>.
 
 
 
