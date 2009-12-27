@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smutvibes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160408id_/http%3A//www.smutvibes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smutvibes.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227060353id_/http%3A//www.smutvibes.com/privacy.html) for the most accurate reproduction.*
 
 # SmutVibes.com Privacy Policy
 
