@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616150938id_/http%3A//www.basementsystems.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227051208id_/http%3A//www.basementsystems.com/company/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement by Basement Systems, Inc.
+# Privacy Statement by Basement Systems for Customers and Site Visitors
 
 Basement Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
-The following discloses our information gathering and dissemination practices for this website: [www.basementsystems.com](https://web.archive.org/). 
+The following discloses our information gathering and dissemination practices for this website: [www.basementsystems.com](http://www.basementsystems.com/). 
 
 When you visit our site, you can expect to be notified of: what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and how you can correct any inaccuracies in the information. 
 
-The information gathered by the Basement Systems, Inc. on [www.basementsystems.com](https://web.archive.org/) falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information gathered as visitors navigate through our sites. 
+The information gathered by the Basement Systems, Inc. on [www.basementsystems.com](http://www.basementsystems.com/) falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information gathered as visitors navigate through our sites. 
 
 **Email Addresses and Personal Information**   
 E-mail Addresses and personal information: When you fill out any of our Web forms for free inspections or any other inquiries, you generally may have to submit your phone number, address, e-mail address and other personal information. **This information collected from you WILL NOT be distributed or shared with any third parties other than the assigned local Basement Systems or CleanSpace Dealer in your area.** The information you provide us will be kept confidential within Basement Systems database and your local dealer. 
@@ -28,3 +28,5 @@ Our site may use forms that require users to give us contact information (like t
 This site contains links to other sites. Basement Systems Inc. is not responsible for the privacy practices or the content of such Web sites. 
 
 To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers through cooperative arrangements with providers that specialize in operating such services. And, of course, our sites include links to plenty of other websites whose privacy policies we don't control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
+
+Back to previous page 
