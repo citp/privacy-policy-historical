@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktoplinux.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212147id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktoplinux.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030750id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Ziff Davis Enterprise - Where Tech Buyers Get Results
 
@@ -12,38 +12,31 @@ We collect personally identifiable information when you provide it to us, such a
 
 **_Information You Volunteer and How it Is Displayed to Others Online_**
 
-Ziff Davis Enterprise is not responsible for the information you volunteer about yourself in the course of discussions in our forums, chat rooms, or other forms of publicly accessible interaction, or information that you choose to make public in your member profile. As a member, you can view, correct or change your publicly available information at any time via your member profile page. To view or change your profile, please follow the link for the site from which you registered:
+Ziff Davis Enterprise may at times offer you the ability to post content to a discussion forum or other online space (“Forum”).  In order to do so, you may be required to register and create the Member Profile.  You should be aware that any visitor to the Forum may read your postings on the Forum.  Furthermore, any Materials which you may post to a Forum will be disclosed and available to all visitors and users of that Forum, and is therefore no longer private.  Certain information, such as your user name, certain Member Profile information and other information may also be automatically displayed in connection with Materials you post to the Forum.  In some cases, you may be able to choose what information will be displayed based on settings in your Member Profile.  Ziff Davis Enterprise cannot guarantee the security of information and content that is disclosed or communicated online in public areas such as Forums, and you provide such information at your own risk. To view or change your profile, please follow the link for the site from which you registered:
 
-  * Baseline
-  * CIO Insight 
-  * The Channel Insider 
-  * DevSource 
-  * eWEEK 
-  * eWEEK Strategic Partner
-  * IT Link
-  * Microsoft Watch 
-  * Linux Watch
-  * DesktopLinux.com
-  * Web Buyers Guide
-  * LinuxDevices
-  * WindowsForDevices
-  * DeviceForge
-  * Security IT Hub
-  * Publish
-  * PDFzone
-  * igrep
-  * Dev Shed 
-  * ASP Free
-  * Dev Articles 
-  * Dev Archives
-  * Scripts.com
-  * Dev Hardware
-  * SEO Chat
-  * Dev Mechanic
-  * Web Hosters
-  * IT Marketplace
-  * Tutorialized 
-  * Codewalkers
+  * [Baseline](http://www.baselinemag.com/)
+  * [CIO Insight](http://www.cioinsight.com/)
+  * [DevShed](http://www.devshed.com/)
+  * [eWEEK](http://www.eweek.com/)
+  * [Channel Insider](http://www.channelinsider.com/)
+  * [Microsoft Watch](http://www.microsoft-watch.com/)
+  * [DesktopLinux](http://www.desktoplinux.com/)
+  * [Web Buyers Guide](http://www.webbuyersguide.com/)
+  * [LinuxDevices](http://www.linuxfordevices.com/)
+  * [WindowsForDevices](http://www.windowsfordevices.com/)
+  * [Publish](http://www.publish.com/)
+  * [PDFzone](http://www.pdfzone.com/)
+  * [igrep](http://www.developershed.com/igrep.php)
+  * [ASP Free](http://www.aspfree.com/)
+  * [Dev Articles](http://www.devarticles.com/)
+  * [Dev Archives](http://archives.devshed.com/)
+  * [Scripts.com](http://www.scripts.com/)
+  * [Dev Hardware](http://www.devhardware.com/)
+  * [SEO Chat](http://www.seochat.com/)
+  * [Dev Mechanic](http://tools.devshed.com/)
+  * [Web Hosters](http://webhosting.devshed.com/)
+  * [Tutorialized](http://www.tutorialized.com/)
+  * [Codewalkers](http://www.codewalkers.com/)
 
 
 
@@ -95,6 +88,8 @@ As a Ziff Davis Enterprise customer you can also expect to receive relevant emai
 **Change of Ownership of Ziff Davis Enterprise Properties**
 
 The mailing list(s) associated with Ziff Davis Enterprise properties may also be subject to transfer to another company in the event of a change of ownership. In this event, Ziff Davis Enterprise or the new owner of the affected properties will use commercially reasonable efforts to notify you and provide the opportunity to remove your name from the associated mailing list(s).
+
+In any event, Ziff Davis Enterprise may disclose personally identifiable Member information pursuant to a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the public or to prevent the violation of the rights of Ziff Davis Enterprise, our other Members or any third party. 
 
 **_Anonymous Information We Collect_**
 
