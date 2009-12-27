@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010152id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227134755id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Cleveland.com
 
@@ -61,5 +61,4 @@ Privacy Policy Coordinator
 **Cleveland, OH 44113**  
 **[Contact Us](https://web.archive.org/contactus)**
 
-  
-
+cleveland.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 25 newspapers affiliated with [Advance Internet.](http://www.advance.net/)
