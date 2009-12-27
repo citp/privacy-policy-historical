@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111705id_/http%3A//www.usq.edu.au/aboutsite/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030106id_/https%3A//www.usq.edu.au/aboutsite/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,3 +32,6 @@ The USQ website provides links to other websites outside of this domain. The USQ
 
 
 *This file is in Portable Document Format (PDF) which requires the use of Adobe Acrobat Reader. A free copy of Acrobat Reader may be obtained from [ _Adobe_](http://www.adobe.com/products/acrobat/readstep2.html). Users who are unable to access information in PDF should contact [webmaster@usq.edu.au](mailto:webmaster@usq.edu.au) to obtain this information in an alternative format.
+
+  
+
