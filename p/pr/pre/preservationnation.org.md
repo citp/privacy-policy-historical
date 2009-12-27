@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626021543id_/http%3A//preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227194823id_/http%3A//preservationnation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of the National Trust for Historic Preservation
 
@@ -82,6 +82,10 @@ From time to time, the National Trust may offer certain promotions or activitie
 **Licensees**
 
 We may share your personally identifiable information, e.g. name and address, with third parties that offer products or services under or in association with brand names of the National Trust.  A licensee is one whose products or services are offered to you with our name.  These licensees are restricted by contract to use your information solely for purposes of marketing or promotional materials related to National Trust products or services.  You are entitled to opt-outfrom receiving this information as set forth in this Policy.  If you choose to access purchases through one of our licensees, they may in some cases collect your personal information subject to their own privacy policies.  We do not control the privacy practices of our licensees; therefore, you should review their practices before you choose to access their products or services.
+
+**Third Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### SECURITY OF YOUR CREDIT CARD INFORMATION
 
