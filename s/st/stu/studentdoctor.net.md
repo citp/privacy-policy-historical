@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111211id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025855id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Student Doctor Network | Privacy Statement
 
@@ -161,14 +161,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Student Doctor Network  
-PO Box 1160  
-Sunset Beach, CA 90742
-
-Physical Address
-
-Student Doctor Network  
-26922 Oso Parkway #380  
-Mission Viejo, CA 92691
+16835 Algonquin Street #380  
+Huntington Beach, CA 92649
 
 Or use our contact form at: [  
 http://studentdoctor.net/contact-us/](http://studentdoctor.net/contact-us/)
