@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621223712id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227160040id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search millions of jobs now | Monster.com
 
