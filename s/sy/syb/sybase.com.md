@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626023552id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003330id_/http%3A//www.sybase.com/detail%3Fid%3D1003649%26rel%3Dnofollow) for the most accurate reproduction.*
 
 # Sybase Inc. Privacy Policy Policy Statement: - Sybase Inc
 
-**Effective August 21, 2008**
+**Effective August 3, 2009**
 
 This statement discloses the privacy practices that apply to the online collection of data obtained on [www.sybase.com](https://web.archive.org/), owned and operated by Sybase, Inc.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -113,6 +113,7 @@ You can also opt-out of e-mail based marketing campaigns via the unsubscribe opt
 **However, there are a few circumstances where you will receive email information from us relating to a product or service you requested. You will not be able to choose to opt out of these mailings since they are an essential part of the service you have chosen. These include:**
 
   * confirmation upon registration of a MySybase account (as well as replies to specific requests by you for edit/forgot password) 
+  * notification of changes to your partner account (if your company is a Sybase partner and you are set up as a primary contact) 
   * specific requests initiated by you using online feedback 
   * event, seminar, teleseminar and/or training registrations 
   * critical product information (End of Life notices, EBF or defects) 
