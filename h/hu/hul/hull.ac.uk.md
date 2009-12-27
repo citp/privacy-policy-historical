@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626234304id_/http%3A//www.hull.ac.uk/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003526id_/http%3A//www.hull.ac.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # The University of Hull
 
@@ -17,7 +17,7 @@ Reproduced courtesy of the Information Commissioner's Office and the National Co
 
 **2\. Subscription**
 
-In some areas of our website, we ask you to provide information that will enable us to enhance your site visit or reply to you after your visit. This would include where you subscribe to our online newsletters or provide feedback to us through contact form or when you complete any online survey we may offer from time to time. When you do, so we ask you to give us your name, email address and other personal information that will be needed to supply the services to you. In relation to online newsletters you can ‘unsubscribe' at any time. We may use your personal data for future email mailings, support, notification of new products or new versions, general correspondence regarding the products and correspondence which may relate to you. If you would rather not receive future marketing emails from us please inform us by [email](https://web.archive.org/web/20090626234304id_/http%3A//www.hull.ac.uk/legal/marketing@hull.ac.uk). Such use is strictly in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. Every email from us comes with an easy to use unsubscribe instruction and you can be removed from our lists at any time, although this can take up to 30 days to effect. Your details will never be sent to any third party or group company of ours and we will only market to you the same kind of goods and services you purchased from us or made an enquiry to us about. 
+In some areas of our website, we ask you to provide information that will enable us to enhance your site visit or reply to you after your visit. This would include where you subscribe to our online newsletters or provide feedback to us through contact form or when you complete any online survey we may offer from time to time. When you do, so we ask you to give us your name, email address and other personal information that will be needed to supply the services to you. In relation to online newsletters you can ‘unsubscribe' at any time. We may use your personal data for future email mailings, support, notification of new products or new versions, general correspondence regarding the products and correspondence which may relate to you. If you would rather not receive future marketing emails from us please inform us by [email](https://web.archive.org/web/20091228003526id_/http%3A//www.hull.ac.uk/legal/marketing@hull.ac.uk). Such use is strictly in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. Every email from us comes with an easy to use unsubscribe instruction and you can be removed from our lists at any time, although this can take up to 30 days to effect. Your details will never be sent to any third party or group company of ours and we will only market to you the same kind of goods and services you purchased from us or made an enquiry to us about. 
 
 The information you provide will be kept confidential and will be used only to support your relationship with us. We do not disclose or sell your information outside the University except if we sell the whole or part of our business. 
 
@@ -41,7 +41,7 @@ The Data Protection Officer, the University of Hull, Cottingham Road, Hull HU6 7
 
 Information on the Data Protection Act 1998 is also on the Information Commissioner's website at <http://www.ico.gov.uk/>
 
-Use of this Site is subject to our [Terms and Conditions](https://web.archive.org/web/20090626234304id_/http%3A//www.hull.ac.uk/legal/termsandconditions.html). 
+Use of this Site is subject to our [Terms and Conditions](https://web.archive.org/web/20091228003526id_/http%3A//www.hull.ac.uk/legal/termsandconditions.html). 
 
 **Warning**
 
