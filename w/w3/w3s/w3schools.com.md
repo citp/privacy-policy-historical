@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227211735id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
-
-|  [](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/default.asp)
 
 * * *
 
@@ -56,31 +54,35 @@ W3Schools contains links to other sites. We are not responsible for the privacy 
 
 For any questions about this privacy statement, please contact:
 
-* * *
-
-[](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20090421201533id_/http%3A//w3schools.com/about/default.asp)   
+  
 
 
 * * *
 
 * * *
 
-|   
----  
-| **[Ektron CMS400.NET Ver 7.6](http://www.ektron.com/campaign.aspx?cpid=BAC-3183&campaignid=3183)**   
-is a **content management solution** which delivers all of the flexibility and features you need to deploy the Web site you want, quickly and efficiently.   
----  
-[**learn more...**](http://www.ektron.com/campaign.aspx?cpid=BAC-3183&campaignid=3183)  
-|  | **Decrease time-to-live** and **increase functionality** with PageBuilder  
----|---  
-| eSync: the next generation in advanced **Web synchronization technology**.  
-| Utilize the extensive out-of-the box features or take advantage of the **open architecture**  
-| Easily build and offer **wikis** , **blogs** , **forums** and the latest in **social networking**  
-| Provide top tier results with our new enterprise **search**  
-| Easily offer RSS, secure **subscriptions** and **web alerts**  
-| **More than just software:** In addition to a thriving online developer community, Ektron can provide support, training, development, hosting and much, much more  
-|  See why there are 20,000+ Ektron integrations worldwide.  
-Request an [**INSTANT DEMO**](http://www.ektron.com/instant_demo.cfm?cpid=BAC-4131&campaignid=4131) or download a [**FREE TRIAL**](http://www.ektron.com/download.cfm?product_id=380&purchase=0&cpid=BAC-4131&campaignid=4131) today. |  [](http://www.ektron.com/instant_demo.cfm?cpid=BAC-4131&campaignid=4131)  
----|---  
+## [ Altova® XMLSpy® - The industry-leading XML editor!](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)
+
+[ ](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)
+
+Whether you're new to XML or already an advanced user, the user-friendly views and powerful entry helpers, wizards, and debuggers in XMLSpy are designed to meet your XML and Web development needs from start to finish. [**New features in Version 2010!**](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)
+
+  * XML editor 
+  * Graphical XML Schema / DTD editors 
+  * XSLT 1.0/2.0 editor, debugger, profiler 
+  * XQuery editor, debugger, profiler 
+  * XBRL validator, taxonomy editor, taxonomy wizard
+  * Support for Office Open XML (OOXML) 
+  * Graphical WSDL 1.1/2.0 editor & SOAP debugger
+  * JSON editing & conversion
+  * Java, C#, C++ code generation
+  * And much more! 
+
+
+
+**[Download a free trial today!](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)**
+
+|   |  [ ](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)  
+---|---|---  
   
 * * *
