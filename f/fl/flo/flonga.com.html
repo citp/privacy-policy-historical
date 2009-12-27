@@ -1,0 +1,267 @@
+<!--The following is the downloaded HTML source of the flonga.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227055756id_/http%3A//www.flonga.com/pages/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html lang="en"><head><title>Flonga Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="http://cdn.flonga.com/static/css/main_16_min.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://cdn.flonga.com/static/css/mainie6_1.css" /><![endif]-->
+
+<meta name="description" content="Flonga Privacy Policy. You can play all free online games at flonga.com">
+<meta name="keywords" content="Flonga Privacy Policy,flash,online,games,free,flonga">
+<meta name="copyright" content="Copyright 2009 Flonga">
+
+<link rel="canonical" href="http://www.flonga.com/pages/privacy.htm">
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<script type="text/javascript">
+    var BASE_PATH='';
+    var HOST='http://www.flonga.com';
+    var IMG_PATH='http://cdn.flonga.com/static/img';
+
+    var M_SUC=1;
+    var M_INVINP=-1003;
+    var M_SYSERR=-1002;
+    var M_NOAUTH=-1001;
+    var M_INVCMD=-1005;
+    var M_DUPENT=-1006;
+
+    var M_TOOMUCHREV=-2202;
+
+    var __waitLoadMsg = 'Please wait while page is loading!';
+    var __userLoginMsg = '<a href="/login.htm">Login</a> or <a href="/signup.htm">register</a> to use this feature!';
+    var __errMsg= 'Oops! An error occured.';
+    var __loadingMsg = '<img height="16" width="16" src="'+IMG_PATH+'/loading.gif"/>';
+
+    var __userlogin = false;
+    __pageLoaded = false;
+
+    function $g(e){if(typeof e=='string') e=document.getElementById(e);return e};
+    function isFuncExists(fnc){return eval("typeof "+fnc+" == \"function\"");}
+
+    function searchGame(formObj){
+                return true;
+    }
+
+    //focus and blur on login input objects
+    function gosfo(fobj, str, fstat){var fval = fobj.value;if(fstat==1 && fval==str) fobj.value='';else if(fstat==-1 && fval=='') fobj.value=str;}
+
+    //quickmessage at obj
+    function gosqIn(_obj, _msg, _duration){
+       if(isFuncExists(GosQMsg)) qmsg.showAtObj(_obj, _msg, _duration);
+       else alert(_msg);
+    }
+
+    //quick message at obj. dont show message until user logged in
+    function gosqInLogin(_obj, _msg, _duration){
+        if(!__userlogin) _msg = userLoginMsg;
+        gosqIn(_obj, _msg, _duration)
+    }
+
+    function initPage(){
+        __pageLoaded=true;
+        gpage.init();
+            }
+
+    //http://www.thefutureoftheweb.com/blog/adddomloadevent
+    addDOMLoadEvent=(function(){var e=[],t,s,n,i,o,d=document,w=window,r='readyState',c='onreadystatechange',x=function(){n=1;clearInterval(t);while(i=e.shift())i();if(s)s[c]=''};return function(f){if(n)return f();if(!e[0]){d.addEventListener&&d.addEventListener("DOMContentLoaded",x,false);/*@cc_on@*//*@if(@_win32)d.write("<script id=__ie_onload defer src=//0><\/scr"+"ipt>");s=d.getElementById("__ie_onload");s[c]=function(){s[r]=="complete"&&x()};/*@end@*/if(/WebKit/i.test(navigator.userAgent))t=setInterval(function(){/loaded|complete/.test(d[r])&&x()},10);o=w.onload;w.onload=function(){x();o&&o()}}e.push(f)}})();
+    addDOMLoadEvent(initPage);
+</script>
+<script type="text/javascript" src="http://cdn.flonga.com/static/js/main_6_min.js"></script>
+
+
+</head>
+<body id="static">
+
+    <a name="top">
+    </a><div id="spage-wrp"><a name="top"></a><div id="spage"><a name="top">
+
+    <!-- header -->
+        </a><div id="shead-wrp"><a name="top"></a><div id="shead"><a name="top">
+            </a><a href="http://www.flonga.com/" title="Flonga Games Homepage" id="logoa">
+                <img src="http://cdn.flonga.com/static/img/flonga-logo_1.png" id="logo" alt="Flonga Games logo">
+                </a>
+            <div id="shead-nav">
+                          <!--ub:s-->
+                  <div class="shead-navu notlogin">
+                    <span class="it"><a href="/signup.htm" rel="nofollow">Join Free</a></span>
+                    <span class="sep">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+                    <span class="it"><a href="/login.htm" rel="nofollow">Login</a></span>
+                  </div>
+              <!--ub:e-->
+            
+
+            </div>
+            <div class="clear"><span>&nbsp;</span></div>
+        </div></div>
+    <!-- end of shead-wrp -->
+
+
+    <!-- navbar -->
+        <div id="snav-wrp"><div id="snav">
+            <div class="snav-tabs">
+                <ul>
+                    <li id="snav-thome"><a href="http://www.flonga.com/" title="Flonga Homepage"><span>Home</span></a></li>
+                    <li id="snav-taction"><a href="http://www.flonga.com/games/action.htm"><span>Action</span></a></li>
+                    <li id="snav-tlife"><a href="http://www.flonga.com/games/life.htm"><span>Life</span></a></li>
+                    <li id="snav-tpuzzle"><a href="http://www.flonga.com/games/puzzle.htm"><span>Puzzle</span></a></li>
+                    <li id="snav-tskill"><a href="http://www.flonga.com/games/skill.htm"><span>Skill</span></a></li>
+                    <li id="snav-tsports"><a href="http://www.flonga.com/games/sports.htm"><span>Sports</span></a></li>
+                                        <li id="snav-thot"><a href="http://www.flonga.com/top40.htm"><span style="font-size:14px;">TOP 40</span></a></li>
+                </ul>
+            </div>
+            <div class="snav-srch">
+                <form name="topSearchForm" action="http://www.flonga.com/search" onsubmit="return searchGame(this)">
+                <table><tbody><tr>
+                    <td class="td-srctext"><input type="text" id="topSearch" name="k" class="tb" value=""></td>
+                    <td class="td-srcbutton"><input type="submit" id="topSearchSubmit" name="topSearchSubmit" value="Search" class="btn"></td>
+                </tr></tbody></table>
+                </form>
+            </div>
+        </div></div> <!-- end of snav-wrp -->
+
+
+
+    <div id="stit-wrp-ptag"><div id="stit">
+        <div class="ti" id="homeTitle"><h1>Flonga Privacy Policy</h1></div>
+    </div></div>
+    
+    <!-- scols starts -->
+    <div class="scols aboutpg">
+        <!-- scol-le starts-->
+        <div class="scol-le">
+                    <!-- bsm starts -->
+        <div class="bsm">
+                        <div class="bsm-co">
+                    <ul>
+                    <li><a href="/pages/help.htm" rel="nofollow">Help</a></li><li><a href="/pages/developers.htm">Game Developers</a></li><li><a href="/contact.htm" rel="nofollow"><span>Contact Us</span></a></li><li><a href="/pages/terms.htm" rel="nofollow"><span>Terms of Use</span></a></li><li><a href="/pages/privacy.htm" rel="nofollow"><span>Privacy Policy</span></a></li><li><a href="/exclusives.htm"><span>Games for your websites</span></a></li>
+                </ul>
+                        </div>
+            <div class="bsm-fo"><span>&nbsp;</span></div>
+        </div> <!-- end of bsm-->
+                
+                    </div>
+        <!-- end of scol-le -->
+
+        <!-- end of scols-ri starts-->
+        <div class="scol-ri">
+            <!-- cont starts -->
+            <div class="cont-wrp"><div class="cont">
+            
+<h3>Personal Information</h3>
+<p>Flonga.com is committed to protecting your privacy online. Flonga.com does not collect any personal information.</p>
+
+<h3>IP address and logging</h3>
+<p>Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).</p>
+
+<h3>Third Party Advertising</h3>
+<p>We use third-party advertising companies to serve ads when you visit Flonga.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.</p>
+
+<h3>Third Party Cookies</h3>
+<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
+
+<h3>Liability</h3>
+<p>It is Flonga.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, Flonga.com will immediately disable and remove games in question.</p>
+
+<h3>External Links</h3>
+<p>Flonga.com site contains links to other sites. Flonga.com is not responsible for the privacy practices or the content of such Web sites.</p>
+            </div></div>
+            <!-- end of cont-wrp -->
+        </div>
+        <!-- end of scols-ri-->
+          <div class="clear"><span>&nbsp;</span></div>
+        </div> <!-- end of scols-->
+
+
+
+
+<!-- footer -->
+    <div id="foot-wrp"><div id="foot">
+
+        <div class="foot-tools-wrp"><div class="foot-tools">
+            <div class="foot-search">
+                <form name="bottomSearchForm" action="/search" onsubmit="return searchGame(this)">
+                    <table><tbody><tr><td><input type="text" id="btmSearch" name="k" class="textfield" value=""></td>
+                    <td style="padding-left:2px;"><input type="submit" id="btmSearchSubmit" name="btmSearchSubmit" value="Search" class="button"></td>
+                    </tr></tbody></table>
+                </form>
+            </div>
+            <div class="clear"><span>&nbsp;</span></div>
+        </div></div>
+
+        <div class="foot-sitemap-wrp"><div class="foot-sitemap">
+            <div class="foot-info">
+                <p><strong>Welcome to Flonga Games!</strong></p>
+                <p>All the games on our site are FREE to play and we launch new games every day.</p>
+                <p>You can play thousands of free online games including action, life, puzzle, skill and sports games.
+                Also there are a lot of interesting tags you can browse like
+                tower defense games, room escape games or cooking games.</p>
+                <br>
+                <p>
+                <a href="http://www.flonga.com/">Flonga Homepage</a>&nbsp;&nbsp;|&nbsp;
+                <a href="/new-games.rss">RSS: New Games</a>&nbsp;&nbsp;|&nbsp;
+                <a href="#top" rel="nofollow">Top of the page</a></p>
+            </div>
+
+            <div class="foot-menu">
+                <h3>About</h3>
+                <ul>
+                    <li><a href="/pages/help.htm" rel="nofollow"><span>Help</span></a></li>
+                    <li><a href="/pages/developers.htm"><span>Game Developers</span></a></li>
+                    <li><a href="/contact.htm" rel="nofollow"><span>Contact Us</span></a></li>
+                    <li><a href="/pages/terms.htm" rel="nofollow"><span>Terms of Use</span></a></li>
+                    <li><a href="/pages/privacy.htm" rel="nofollow"><span>Privacy Policy</span></a></li>
+                    <li><a href="/exclusives.htm"><span>Games for your websites</span></a></li>
+                </ul>
+            </div>
+
+            <div class="foot-menu">
+                <h3>Main Categories</h3>
+                <ul>
+                    <li><a href="http://www.flonga.com/games/action.htm"><span>Action Games</span></a></li>
+                    <li><a href="http://www.flonga.com/games/life.htm"><span>Life Games</span></a></li>
+                    <li><a href="http://www.flonga.com/games/skill.htm"><span>Skill Games</span></a></li>
+                    <li><a href="http://www.flonga.com/games/puzzle.htm"><span>Puzzle Games</span></a></li>
+                    <li><a href="http://www.flonga.com/games/sports.htm"><span>Sports Games</span></a></li>
+                    <li><a href="/games.htm"><span>Top Categories</span></a></li>
+                </ul>
+            </div>
+
+          <div id="flongabot" class="foot-menu">
+                <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="121" height="133" id="flongabot_obj" align="middle">
+                <param name="allowScriptAccess" value="sameDomain">
+                <param name="allowFullScreen" value="false">
+                <param name="movie" value="http://cdn.flonga.com/static/swf/flobot_anim.swf">
+                <param name="quality" value="high">
+                <param name="wmode" value="transparent">
+                <param name="bgcolor" value="#e0e0e0">
+                <embed src="http://cdn.flonga.com/static/swf/flobot_anim.swf" quality="high" wmode="transparent" bgcolor="#e0e0e0" width="121" height="133" name="flongabot_obj" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
+                </object>
+              </div>
+            <div class="clear"><span>&nbsp;</span></div>
+        </div></div>
+
+        <div class="foot-bottom-wrp"><div class="foot-bottom">
+            <div class="foot-copyright">Copyright © 2009 Flonga All rights reserved.</div>
+            <div style="text-indent:-1000em"><img src="http://cdn.flonga.com/static/img/loading.gif" width="1" height="1"></div>
+            <div class="clear"><span>&nbsp;</span></div>
+
+        </div></div>
+        <div class="clear"><span>&nbsp;</span></div>
+    </div></div>
+
+
+</div></div> <!-- end of page-->
+
+
+<!-- google analytics BEGIN -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+try {_uacct = "UA-824683-6"; urchinTracker();} catch(err) {}
+</script>
+<!-- end google -->
+
+
+
+
+</body></html>
