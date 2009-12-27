@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtylilly.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193641id_/http%3A//www.dirtylilly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtylilly.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227015751id_/http%3A//www.dirtylilly.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
