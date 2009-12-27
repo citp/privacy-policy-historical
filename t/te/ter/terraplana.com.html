@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the terraplana.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627214046id_/http%3A//www.terraplana.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the terraplana.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227025405id_/http%3A//www.terraplana.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -86,6 +86,39 @@ var form = "";
 var submitted = false;
 var error = false;
 var error_message = "";
+
+function check_dob(year_field_name, month_field_name, day_field_name, field_size, message, valid_empty) {
+  var exists_flags = 0;
+  if (form.elements[year_field_name] && (form.elements[year_field_name].type != "hidden")) {
+    var year_field_value = form.elements[year_field_name].value;
+    if (year_field_value.length > 0) {
+      exists_flags += 100;
+    }
+  }
+  if (form.elements[month_field_name] && (form.elements[month_field_name].type != "hidden")) {
+    var month_field_value = form.elements[month_field_name].value;
+    if (month_field_value.length > 0) {
+      exists_flags += 10;
+    }
+  }
+  if (form.elements[day_field_name] && (form.elements[day_field_name].type != "hidden")) {
+    var day_field_value = form.elements[day_field_name].value;
+    if (day_field_value.length > 0) {
+      exists_flags += 1;
+    }
+  }
+  //user must set no fields or all fields
+  if ( exists_flags != 0 && exists_flags != 111 ) {
+    error_message = error_message + "* " + message + "\n";
+    error = true;
+  }
+  
+  // exception if it's valid to be empty
+  if (!valid_empty && exists_flags == 0) {
+    error_message = error_message + "* " + message + "\n";
+    error = true;
+  }
+}
 
 function check_input(field_name, field_size, message) {
   if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
@@ -236,11 +269,13 @@ function check_form(form_name) {
   check_select("title_id", "", "You must select a title from the Titles pull down menu.");
   check_input("firstname", 2, "Your First Name must contain a minimum of 2 characters.");
   check_input("lastname", 2, "Your Last Name must contain a minimum of 2 characters.");
-
+  
 
   check_input("email_address", 6, "Your E-Mail Address must contain a minimum of 6 characters.");
   //check_input("email_address_confirm", 1 "You must fill in the Confirm Email Address field.");
   check_email_confirm('email_address','email_address_confirm');
+  
+  check_dob("year", "month", "day", 1, "A complete date of birth or leave blank", true);
   
   check_address_parts = true;
   if (document.getElementById('addresstype')) {
@@ -284,11 +319,37 @@ function check_form(form_name) {
 
 
 </head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../../Desktop/chinese_trans/menstrans2.gif')">
 <div align="center">
   <table width="978" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
     <tbody><tr>
-      <td align="center"> 
+      <td align="center"><script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+ 
 <table width="1005" border="0" cellspacing="0" cellpadding="0" bgcolor="white" onload="MM_preloadImages('tpimages/mens2.jpg','tpimages/womens2.jpg','tpimages/accessories2.jpg','tpimages/tpbrand2.jpg','tpimages/vivobrand2.jpg','tpimages/dopbrand2.jpg')">
     <tbody><tr>
       <td height="16" colspan="2">&nbsp;</td>
@@ -355,7 +416,7 @@ function check_form(form_name) {
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td align="left" class="boxText"><a href="http://www.terraplana.com/privacy.php?currency=GBP"><img src="images/icons/currency-gbp.gif" border="0" alt="Pound (£)" title=" Pound (£) " width="18" height="14"></a><a href="http://www.terraplana.com/privacy.php?currency=EUR"><img src="images/icons/currency-eur-off.gif" border="0" alt="Euro (€)" title=" Euro (€) " width="18" height="14"></a><a href="http://www.terraplana.com/privacy.php?currency=USD"><img src="images/icons/currency-usd-off.gif" border="0" alt="US Dollar ($)" title=" US Dollar ($) " width="18" height="14"></a></td>
+    <td align="left" class="boxText"><a href="http://www.terraplana.com/privacy.php?currency=GBP"><img src="images/icons/currency-gbp.gif" border="0" alt="Pound (£)" title=" Pound (£) " width="18" height="14"></a><a href="http://www.terraplana.com/privacy.php?currency=EUR"><img src="images/icons/currency-eur-off.gif" border="0" alt="Euro (€)" title=" Euro (€) " width="18" height="14"></a><a href="http://www.terraplana.com/privacy.php?currency=USD"><img src="images/icons/currency-usd-off.gif" border="0" alt="US Dollar ($)" title=" US Dollar ($) " width="18" height="14"></a><a href="http://china.terraplana.com/" target="_blank"><img src="images/icons/currency-cn-off.gif" border="0" alt="RMB (�)" title=" RMB (�) " width="18" height="14"></a></td>
   </tr>
   <tr>
     <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -393,7 +454,7 @@ function check_form(form_name) {
               <td height="1"><img src="images/spacer.gif" width="1" height="1"></td>
             </tr>
             <tr>
-              <td>                <a class="hcare" href="http://www.terraplana.com/mens-c-153.html"><img src="tpimages/mens1.jpg" alt="Mens" name="mens1" width="36" height="14" border="0" id="mens" onmouseover="MM_swapImage('mens1','','tpimages/mens2.jpg',1)" onmouseout="MM_swapImgRestore()"></a>                </td>
+              <td>                <a class="hcare" href="http://www.terraplana.com/mens-c-153.html"><img src="tpimages/mens1.jpg" alt="Mens" name="mens" width="36" height="14" border="0" id="mens" onmouseover="MM_swapImage('mens','','tpimages/mens2.jpg',1)" onmouseout="MM_swapImgRestore()"></a>                </td>
             </tr>
           </tbody></table></td>
          
@@ -541,50 +602,9 @@ function clearDefault(el) {
   
                 
   
-  								<table width="235" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td height="13"><img src="images/spacer.gif" width="1" height="13"></td>
-                  </tr>
-                  <tr>
-                    <td height="3"><img src="tpimages/helpboxtop.gif" width="235" height="3"></td>
-                  </tr>
-                  <tr>
-                    <td height="122" valign="top" bgcolor="#F0F0F0"><img src="images/spacer.gif" width="1" height="3"><img src="tpimages/needsomehelp.gif" alt="Need some help?" width="150" height="31">
-                        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tpmodel">
-                        
-                        
-                          <tbody><tr>
-                            <td width="12">&nbsp;</td>
-                            <td height="22"><img src="tpimages/barrow.gif" width="7" height="10"> <a href="help.php" class="tpmodel">Visit
-                                our help centre</a></td>
-                          </tr>
-                          <tr>
-                            <td>&nbsp;</td>
-                            <td height="22"><img src="tpimages/barrow.gif" width="7" height="10"> <a href="faq.php" class="tpmodel">Frequently
-                                asked questions</a></td>
-                          </tr>
-                          <tr>
-                            <td>&nbsp;</td>
-                            <td height="22"><img src="tpimages/barrow.gif" width="7" height="10"> <a href="delivery.php" class="tpmodel">See
-                                our shipping rates</a></td>
-                          </tr>
-                          <tr>
-                            <td>&nbsp;</td>
-                            <td height="22"><img src="tpimages/barrow.gif" width="7" height="10"> <a href="delivery.php#returns" class="tpmodel">See
-                                our returns policy</a></td>
-                          </tr>
-                          
-                          <tr>
-                            <td>&nbsp;</td>
-                            <td height="35">                              <img src="tpimages/teluk.gif" alt="To order by phone or for support call us on 01458 449 081" width="188" height="19">                                                          </td>
-                          </tr>
-                        </tbody></table>                        
-                    </td>
-                  </tr>
-                  <tr>
-                    <td height="3"><img src="tpimages/helpboxbot.gif" width="235" height="3"></td>
-                  </tr>
-                </tbody></table>							</td>
+  								
+
+							</td>
 							<td width="14" valign="top">&nbsp;</td>
 							<td valign="top">
                 
@@ -739,7 +759,8 @@ addthis_options         = 'favorites, email, digg, delicious, myspace, facebook,
           <td width="8"><img src="tpimages/spacer.gif" width="8" height="1"></td>
           <td height="11" class="tpfooter"><a href="about_tp.php" class="tpfooter">About
               Terra Plana</a><span class="tpfooter">|</span><a href="/presscentre" class="tpfooter">Press</a><span class="tpfooter">|</span><a href="contact_us.php" class="tpfooter">Contact
-              us</a><span class="tpfooter">|</span><a href="help.php" class="tpfooter">Help</a><span class="tpfooter">|</span><a href="downloads.php" class="tpfooter">Downloads</a><span class="tpfooter">|</span><a href="privacy.php" class="tpfooter">Privacy
+              us</a><span class="tpfooter">|</span><a href="help.php" class="tpfooter">Help</a><span class="tpfooter">|</span><a href="affiliates.php" class="tpfooter">Affiliates</a>
+<span class="tpfooter">|</span><a href="privacy.php" class="tpfooter">Privacy
               policy</a><span class="tpfooter">|</span><a href="conditions" class="tpfooter">Terms and conditions</a>
 <span class="tpfooter">|</span><a href="sitemap.php" class="tpfooter">Site
               map</a><span class="tpfooter">|</span><a href="delivery.php" class="tpfooter">Delivery
