@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spintop-games.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602210129id_/http%3A//www.spintop-games.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spintop-games.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227020417id_/http%3A//www.spintop-games.com/privacy.html) for the most accurate reproduction.*
 
 # SpinTop Games - Download Free Games
 
