@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brusheezy.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627042917id_/http%3A//www.brusheezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brusheezy.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227145202id_/http%3A//www.brusheezy.com/privacy) for the most accurate reproduction.*
 
 # Free Photoshop Brushes at Brusheezy!
 
