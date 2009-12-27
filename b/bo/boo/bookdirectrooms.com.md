@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010510id_/http%3A//www.bookdirectrooms.com/Privacy-And-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025620id_/http%3A//www.bookdirectrooms.com/Privacy-And-Security) for the most accurate reproduction.*
 
-# UK Hotels - Cheap Hotels, Bed and Breakfasts and Guest Houses in the UK at BookDirectRooms.com
+# Privacy And Security - BookDirectRooms.com
 
 Booking over the internet is actually safer in many ways than buying in a shop or restaurant. We make sure that we take approriate measures to make booking online as safe as it can be including encrypting your credit card details when they're sent to us. Our security procedures are verified by Verisign.
 
