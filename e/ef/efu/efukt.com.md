@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235347id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227062329id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
 
-# eFukt.com - porn you wish you never saw
+# eFukt.com - porn you wish you never saw -
 
 THIS SITE IS STRICTLY FOR ADULTS. IF YOU ARE NOT 18 THEN GET THE FUCK OUT!
 
