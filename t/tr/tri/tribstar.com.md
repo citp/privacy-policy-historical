@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235958id_/http%3A//www.tribstar.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribstar.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063202id_/http%3A//www.tribstar.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Terre Haute News, Terre Haute, Indiana- TribStar.com - Homepage
 
