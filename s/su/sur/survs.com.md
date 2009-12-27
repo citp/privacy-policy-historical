@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625181928id_/http%3A//www.survs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227072118id_/http%3A//www.survs.com/privacy) for the most accurate reproduction.*
 
-# Survs
-
-## Privacy Policy
-
-Survs is property of Enough Pepper, LDA.
-
-You can contact us at . 
+# Survs - Private Policy
 
 ### What is Survs?
 
-Survs is a collaborative tool that allows you to build, deploy and analyze online surveys.
+Survs is a collaborative tool that allows you to build, deploy and analyze online surveys. Survs is property of Enough Pepper, LDA. You can contact us at .
 
 ### Your privacy is important to us
 
@@ -18,7 +12,7 @@ Because your privacy is important to us, we have created this Privacy Policy to 
 
 In respect to personal information submitted to us, we follow generally accepted industry-standard security measures to protect your information, such as the use of firewalls and secure socket layer technology (SSL). 
 
-Note, however, that we acknowledge that no security system is perfectly safe. We cannot guarantee the security of our databases, nor can we guarantee that any information submitted to us over the Internet will not be intercepted. 
+Note, however, that we acknowledge that no security system is perfectly safe. We cannot guarantee the security of our databases, nor can we guarantee that any information submitted to us over the Internet will not be intercepted.
 
 ### What information do we collect and how do we use it?
 
@@ -30,7 +24,7 @@ Like in most Web sites, each time you, or the respondents of your surveys, visit
 
 The information that you collect with your surveys will not be used in any way. All other data provided by you will be held in the strictest confidence.
 
-A cookie is a string of information that a Web site stores on a visitor's computer, and that the visitor's browser provides to the Web site each time the visitor returns. Survs uses cookies to help identify and track visitors, their usage of Survs Web site, and their Web site access preferences. Survs visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Web site, with the drawback that certain Survs's features may not function properly without the aid of cookies. 
+A cookie is a string of information that a Web site stores on a visitor's computer, and that the visitor's browser provides to the Web site each time the visitor returns. Survs uses cookies to help identify and track visitors, their usage of Survs Web site, and their Web site access preferences. Survs visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Web site, with the drawback that certain Survs's features may not function properly without the aid of cookies.
 
 ### Data storage and opting out
 
