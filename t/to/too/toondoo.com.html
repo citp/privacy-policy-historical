@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toondoo.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627212214id_/http%3A//www.toondoo.com/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toondoo.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227181111id_/http%3A//www.toondoo.com/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy policy for ToonDoo - The Cartoon Strip Creator - Create, Publish, Share, Discuss!</title>
@@ -58,6 +58,70 @@ function MM_swapImage() { //v3.0
 <script language="JavaScript" type="text/javascript" src="dialog_files/Utils.js"></script>
 <script language="JavaScript" type="text/javascript" src="dialog_files/Dialog.js"></script>
 <script>
+/* added by bharathi */
+var div = jQuery('<div align="center"><div id="panel" style="display:none; width:950px; height:23px;  background: #fff662;"><div id="announ" style="float:left; width:927px; font-size:14px; color:#000; font-weight:bold; text-align:center"></div><div style=" float: right; padding:2px;margin-top:-20px;"><a href="javascript:void(0);" onClick=\'closeAnnounDiv();\'>Close</a></div></div></div>');
+div.prependTo(document.body);
+
+$(document).ready(function(){
+
+showFileContent();
+//$("#panel").slideToggle("slow");
+//$(this).toggleClass("active"); return false;
+});
+
+function showFileContent()
+{
+	$.ajax
+	(
+		{
+			type: "POST",
+			url: "site_announcement.txt",
+			data: "",
+			success: function(data,status)
+			{
+				if(data.error=="1")
+					$("#show_img").html("<b>There was a problem! Please try again, and if the problem persists, report it to admin@toondoospaces.com<b>");
+				else
+				{
+					if(data == "")
+					{
+						$("#panel").css("display","none");
+					}
+					else
+					{
+						if(get_cookie("announ_closed") == "yes")
+						{
+							$("#panel").css("display","none");
+						}
+						else
+						{
+							$("#panel").css("display","block");
+							$("#announ").html(data);
+						}
+						
+					}
+				}
+			}
+		}
+	);
+	//setInterval ("showFileContent()",10000);
+}
+function closeAnnounDiv()
+{
+	$("#panel").css("display","none");
+	createCookie("announ_closed","yes",0);
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
 function get_cookie( cookie_name )
 {
   var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
@@ -67,6 +131,11 @@ function get_cookie( cookie_name )
   else
     return null;
 }
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+/* added by bharathi - ends here */
 
 function publicView(num)
 {
@@ -137,16 +206,16 @@ document.cookie='tooner=null;path=/;'</script>
 
 <form name="searchForm" action="Search.toon" onsubmit="return validateSearchText();">
 <div id="slidemenu">
-<!-- changed by jensu class="slidetabsmenu" style="width:750px; & class="submenu" style="margin-left: 110px;" -->
+<!-- changed by jensu class="slidetabsmenu" style="width:750px; & class="submenu" style="margin-left: 110px;" --> 
 <ul class="slidetabsmenu" style="width:750px; margin-top:11px;_margin-top:7px;">
 <li><a style="margin-left: 0px;" href="Home.toon" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','images/toon_home_h.gif',1)"><img src="images/toon_home.gif" alt="home" name="home" width="15" height="14" vspace="5" align="left" border="0"></a><a href="Latestw.toon" title="toondoos" rel="dropmenu1_c" class="toondoos"><span style="cursor:pointer">&nbsp;</span></a></li>
 <li><a style="margin-left: 0px;" href="LatestBooks.toon" title="toonbooks" rel="dropmenu2_c" class="toonbooks"><span style="cursor:pointer">&nbsp;</span></a></li>
-<!--<li><a style="margin-left: 0px;" href="LatestBooks.toon" title="dooers" rel="dropmenu3_c" class="dooers"><span style='cursor:pointer'>&nbsp;</span></a></li>-->
+<li><a style="margin-left: 0px;" href="LatestDooersw.toon" title="dooers" rel="dropmenu3_c" class="dooers"><span style="cursor:pointer">&nbsp;</span></a></li>
 <li><a style="margin-left: 0px;" href="javascript:void(0)" onclick="fullScreenMode('createToon.jsp','2')" title="tools" rel="dropmenu5_c" class="tools"><span style="cursor:pointer">&nbsp;</span></a></li>
 <li><a style="margin-left: 0px;" href="Contest.toon?param=contest-id-redoo&amp;now=1" title="contests" rel="dropmenu4_c" class="contests"><span style="cursor:pointer">&nbsp;</span></a></li>
 <li><a style="margin-left: 0px;" href="UserFavorites.do" title="galleries" rel="dropmenu6_c" class="galleries"><span style="cursor:pointer">&nbsp;</span></a></li>
 <li><a style="margin-left: 0px;" href="http://forums.toondoo.com/" title="etc" rel="dropmenu7_c" class="help"><span style="cursor:pointer">&nbsp;</span></a></li>
-<li><span class="submenu" style="margin-left: 110px;">
+<li><span class="submenu" style="margin-left: 40px;">
 <input type="text" size="12" name="searchfield" id="searchText" value="Search" onfocus="if (this.value==this.defaultValue) this.value='';" onblur="if (this.value=='') this.value=this.defaultValue;" class="searchbox">
 <input type="image" src="images/search.gif" align="absbottom">
 </span></li>
@@ -155,19 +224,21 @@ document.cookie='tooner=null;path=/;'</script>
 </form>
 <!--1st drop down menu -->
 <div id="dropmenu1_c" class="toondoos_c"> <a href="MyToondoo.do">My Toondoos</a> <a href="Latestw.toon">Latest</a> <a href="CheeredToonw.toon">Most Popular</a> <a href="Viewedw.toon">Most Viewed</a> <a href="Featured.toon">Editor's Pick</a> <a href="MostCommentedw.toon">Most Argued</a> <a href="MostFavoriteToonw.toon">Most Fav'ed</a> 
-<a href="Redoos.toon">Most Redone</a><a href="RandomToon.toon">Random '12'</a>
+<a href="Redoosw.toon">Most Redone</a><a href="RandomToon.toon">Random '12'</a>
 <div><img src="dropdowntabfiles/media/toondoo_topmenu_toons-bottom.gif" border="0"></div>
 </div>
 <!--2nd drop down menu -->
 <div id="dropmenu2_c" class="toonbooks_c"> <a href="myBooks.do">My ToonBooks</a> <a href="LatestBooks.toon">Latest</a> <a href="CheeredBook.toon">Most Popular</a> <a href="ViewedBooks.toon">Most Viewed</a> <a href="BookFeatured.toon">Editor's Pick</a> <a href="MostCommentedBooks.toon">Most Argued</a> <a href="MostFavoriteBooks.toon">Most Fav'ed</a>
 <div><img src="dropdowntabfiles/media/toondoo_topmenu_books-bottom.gif" border="0"></div>
 </div>
-<!--
-<div id="dropmenu3_c" class="dooers_c"> <a href="LatestDooers.toon">Latest Dooers</a> <a href="PopularDooers.toon">Popular Dooers</a> <a href="FavedDooers.toon">Faved Dooers</a> <a href="ViewedDooers.toon">Viewed Dooers</a> <a href="EditorPickDooers.toon">Editor pick</a> <a href="UserFavorites.do">My Favorites</a> <a href="commentsGallery.toon">Comments </a> <a href="LatestTsw.toon">Tag Clouds</a>
 
-<div><img src="dropdowntabfiles/media/toondoo_topmenu_tools-bottom.gif" border="0"></div>
+<div id="dropmenu3_c" class="dooers_c">
+<a href="EditProfile.do">Edit Profile</a>  
+<a href="LatestDooersw.toon">Latest</a>
+<a href="EditorPickedDooers.toon">Editor's Pick</a> 
+<div><img src="dropdowntabfiles/media/toondoo_topmenu_dooers-bottom.gif" border="0"></div>
 </div>
--->
+
 <div id="dropmenu4_c" class="contests_c"><a href="Compleetoon.toon">Compleetoons</a>  <a href="Contest.toon?param=contest-id-redoo&amp;now=1">Monthlies</a> <a href="hallOfFame.toon">Hall Of Fame</a> <a href="contestArchives.toon">Archives</a> <a href="suggestContest.toon">Got an Idea?</a>
 <div><img src="dropdowntabfiles/media/toondoo_topmenu_contest-bottom.gif" border="0"></div>
 </div>
@@ -184,15 +255,13 @@ document.cookie='tooner=null;path=/;'</script>
 <div><img src="dropdowntabfiles/media/toondoo_topmenu_tools-bottom.gif" border="0"></div>
 </div>
 
-<div id="dropmenu6_c" class="galleries_c"> <!--<a href="LatestDooers.toon">User Gallery</a>--> <a href="UserFavorites.do">My Favorites</a> <a href="commentsGallery.toon">Comments </a> <a href="LatestTsw.toon">Tag Clouds</a>
+<div id="dropmenu6_c" class="galleries_c"> <a href="UserFavorites.do">My Favorites</a> <a href="commentsGallery.toon">Comments </a> <a href="LatestTsw.toon">Tag Clouds</a>
 <div><img src="dropdowntabfiles/media/toondoo_topmenu_galleries-bottom.gif" border="0"></div>
 </div>
 <div id="dropmenu7_c" class="help_c"> 
 <a href="http://toondoo.wiki.zoho.com/">Help Wiki</a>
 <a href="http://forums.toondoo.com">Forums</a>
 <a href="http://blogs.toondoo.com">Blogs</a>
-<a href="http://www.toondoo.com/user/">My Profile</a> 
-<a href="EditProfile.do">Edit Profile</a>  
 <a href="Bauble.do">BubbleBauble</a> 
 <a href="ToonFeed.do">FellowFollow</a> 
 <div><img src="dropdowntabfiles/media/toondoo_topmenu_help-bottom.gif" border="0"></div>
@@ -202,7 +271,6 @@ document.cookie='tooner=null;path=/;'</script>
 tabdropdown.init("slidemenu")
 </script>
 <!-- Ends Here -->
-
 
             
             </td>
@@ -333,7 +401,7 @@ body {
 	<tr>
 	  <td height="20" colspan="3" class="noolslinkBG"><table width="950" border="0" align="center" cellspacing="0" cellpadding="0">
   <tbody><tr background="images/noolz_07.gif">
-    <td width="78%"> <span class="submenu">&nbsp;&nbsp;© 2008, <a class="submenu" href="http://adventnet.com/">AdventNet</a>, Inc. All rights reserved. | <a class="submenu" href="aboutus.jsp">About us</a> | <a class="submenu" href="contactus.jsp">Contact us</a> | <a class="submenu" href="termsofuse.jsp">Terms of use</a> | <span class="footer-text"><a href="ipr_complaints.jsp" class="submenu">IPR Complaints</a></span> | <a class="submenu" href="privacypolicy.jsp">Privacy Policy</a>
+    <td width="78%"> <span class="submenu">&nbsp;&nbsp;© 2008, <a class="submenu" href="http://www.zohocorp.com/">ZOHO Corp</a>, Inc. All rights reserved. | <a class="submenu" href="aboutus.jsp">About us</a> | <a class="submenu" href="contactus.jsp">Contact us</a> | <a class="submenu" href="termsofuse.jsp">Terms of use</a> | <span class="footer-text"><a href="ipr_complaints.jsp" class="submenu">IPR Complaints</a></span> | <a class="submenu" href="privacypolicy.jsp">Privacy Policy</a>
 
 <!--| <a href="FeedLatest.xml" target="_blank" class="submenu"><img src="images/rss.png" height=10 width=10 alt="RSS Feed Latest" border=0 style="margin-right:5px; border:0;" /><span class="submenu">Latest</a></span>--></span></td>
     <td width="22%" align="right"><a class="submenu">Powered by&nbsp;</a><a class="submenu" href="http://www.jambav.com">Jambav</a></td>
