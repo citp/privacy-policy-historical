@@ -1,94 +1,782 @@
-<!--The following is the downloaded HTML source of the gyach.com privacy policy that was archived on 2009-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426052525id_/http%3A//www.gyach.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gyach.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227132138id_/http%3A//www.gyach.com/static/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
+	
+	
 
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="expires" content="0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
-	<link rel="alternate" type="application/rss+xml" title="All Stories" href="/rss/all">
-		
-	<meta name="description" content="Gyach SB : The Social Bookmarking site, Share your favourite links with world.">
 
-	<meta name="keywords" content="Gyach SB: The Social Bookmarking Site">
+	<meta name="description" content="Gyach.com is a web application that allows you to submit an article that will be reviewed by all and will be promoted, based on popularity, to the main page.">
+
+	<meta name="keywords" content="News,Stories,Articles,Vote,Publish,Social,Networking,Groups,Submit,Upcoming,Comments,Tags,Live">
+  
+
 	<meta name="Language" content="en-us">
 	<meta name="Robots" content="All">
 		
-
-		<link rel="stylesheet" type="text/css" href="/templates/gyachsilv/css/s_green.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/templates/silverbullet/css/s_green.css" media="screen">
 
 		
-		
-		<!--[if lte IE 6]>
-			<script type="text/javascript">
-				if (typeof blankImg == 'undefined') var blankImg = '/templates/gyachsilv/images/blank.gif';
-			</script>
-			<style type="text/css" media="screen">
-				body {behavior:url(/templates/gyachsilv/css/iehfix.htc); }
-				img {behavior:url(/templates/gyachsilv/css/iepngfix.htc); }
-			</style>	
-		<![endif]-->
 
-			
-				<script src="/modules/scriptaculous/js/pligg_effects-min.js" type="text/javascript"></script>		
-	
-		
-								
-				<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
-						
 
-<title>Gyach SB</title>
+	    
+<!--[if lte IE 6]>
 
-		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.gyach.com/rss.php">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">	
-              	</head>
+	<script src="/templates/silverbullet/js/sfhover.js" type="text/javascript"></script>	
 
-	<body>
-	
-		<div id="wrap">
-		
+
+<![endif]-->
+
 				
-<div class="head">
-<a href="http://www.gyach.com"><img src="/templates/gyachsilv/images/logo.jpg" alt="logo"></a>
-<ul class="tabs">
-<li><a href="http://www.gyach.com"><b>Published News</b></a></li>
-<li><a href="/upcoming"><b>Upcoming News</b></a></li>
-<li><a href="/submit"><b>Submit New Story</b></a></li>
-</ul>
-</div>
-<div class="topbar"><ul><li>
-	<a href="http://www.gyach.com">Gyach Home</a> 
-	 <a href="/live"> Live</a> 	<a href="/topusers"> Top users</a> 
-	<a href="/tagcloud">Tag cloud</a> 		<a href="/login.php?return=/static/privacy" class="color">Login</a> 
-	<a href="/register" class="color">Register</a> 
+
+	
+				
+
+
+	
+
+
+		<title> Gyach SB | privacy</title>
+
+
+
+	
+
+
+	
+
+
+
+<link rel="alternate" type="application/rss+xml" title="All Popular Stories" href="http://feeds.gyach.com/Gyach-All-Published">
+
+
+
+
+
+
+
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" type="text/css" href="/modules/spam_trigger/templates/spam_trigger.css" media="screen">
+
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+
+    <script type="text/javascript">
+
+      google.load('friendconnect', '0.8');
+
+    </script>
+
+
+
+   <script src="http://www.gyach.com/js/google_friend.js" type="text/javascript"></script>
+
+   <script src="/templates/silverbullet/js/pligg_effects-min.js" type="text/javascript"></script>	
+
+</head>
+
+
+
+<body dir="ltr">
+
+
+
+	
+	
+	<script type="text/javascript">
+		google.friendconnect.container.initOpenSocialApi({
+		  site: '13199707753924500679',
+		  onload: function(securityToken) { initAllData(); }
+		});
+	
+		function initAllData() {
+			var req = opensocial.newDataRequest();
+			req.add(req.newFetchPersonRequest("OWNER"), "owner_data");
+			req.add(req.newFetchPersonRequest("VIEWER"), "viewer_data");
+			var idspec = new opensocial.IdSpec({
+				'userId' : 'OWNER',
+				'groupId' : 'FRIENDS'
+			});
+			req.add(req.newFetchPeopleRequest(idspec), 'site_friends');
+			req.send(onData);
+		};
+      
+		function onData(data) {
+			if (!data.get("owner_data").hadError()) {
+				var owner_data = data.get("owner_data").getData();
+				//document.getElementById("site-name").innerHTML = owner_data.getDisplayName();
+        }
+
+        var viewer_info = document.getElementById("viewer-info");
+        if (data.get("viewer_data").hadError()) {
+         // viewer_info.innerHTML = "<a href='#' onclick='google.friendconnect.requestSignIn()'>Sign in</a>";
+        } else {
+          var viewer = data.get("viewer_data").getData();
+         //viewer_info.innerHTML = "<a href='#' onclick='google.friendconnect.requestSignOut()'>Sign out</a>";
+		// var name = viewer.getDisplayName();
+		
 			
-		<a href="/rss" target="_blank" class="rss"><img src="/templates/gyachsilv/images/rss.gif" alt="RSS"></a>
-	</li></ul>
+						
+				googleConnect(viewer.getDisplayName(), 'http://www.gyach.com');
+				
+								
+        }
+
+       /* if (!data.get("site_friends").hadError()) {
+          var site_friends = data.get("site_friends").getData();
+          var list = document.getElementById("friends-list");
+          list.innerHTML = "";
+          site_friends.each(function(friend) {
+            list.innerHTML += "<li>" + friend.getDisplayName() + "</li>";
+          });
+        }*/
+      };
+    </script>
+
+
+
+
+<!-- Include the Google Friend Connect javascript library. -->
+<script type="text/javascript" src="http://www.google.com/friendconnect/script/friendconnect.js"></script>
+<!-- Define the div tag where the gadget will be inserted. -->
+<div id="div-8967229319393289378"></div>
+<!-- Render the gadget into a div. -->
+<script type="text/javascript">
+var skin = {};
+skin['BORDER_COLOR'] = '#cccccc';
+skin['ENDCAP_BG_COLOR'] = '#e0ecff';
+skin['ENDCAP_TEXT_COLOR'] = '#333333';
+skin['ENDCAP_LINK_COLOR'] = '#0000cc';
+skin['ALTERNATE_BG_COLOR'] = '#ffffff';
+skin['CONTENT_BG_COLOR'] = '#ffffff';
+skin['CONTENT_LINK_COLOR'] = '#0000cc';
+skin['CONTENT_TEXT_COLOR'] = '#333333';
+skin['CONTENT_SECONDARY_LINK_COLOR'] = '#7777cc';
+skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#666666';
+skin['CONTENT_HEADLINE_COLOR'] = '#333333';
+skin['POSITION'] = 'bottom';
+skin['DEFAULT_COMMENT_TEXT'] = '- add your comment here -';
+skin['HEADER_TEXT'] = 'Comments';
+google.friendconnect.container.setParentUrl('/' /* location of rpc_relay.html and canvas.html */);
+google.friendconnect.container.renderSocialBar(
+ { id: 'div-8967229319393289378',
+   site: '13199707753924500679',
+   'view-params':{"scope":"SITE","features":"video,comment","showWall":"true"}
+ },
+  skin);
+</script>
+
+
+
+
+	
+
+
+
+<!-- START CONTENT --> 
+
+
+
+	<div id="wrap-width">
+
+
+
+		
+
+
+
+			<script type="text/javascript" language="JavaScript">
+
+
+
+			function checkForm() {
+
+
+
+			answer = true;
+
+
+
+			//if (siw &amp;&amp; siw.selectingSomething)answer = false;
+
+
+			return answer;
+
+
+			}//
+
+
+
+			</script>
+
+
+
+		
+
+
+
+		
+		<!-- START HEADER.TPL -->
+
+
+
+<div class="head">
+
+
+
+
+
+
+
+<a href="/"><img src="/templates/silverbullet/images/logo.jpg" alt="Gyach SB"></a>
+
+
+
+
+
+
+
+<div class="regs">
+
+
+
+		
+
+    <div id="viewer-info"></div>
+
+   
+
+
+	<a href="/login.php?return=/static/privacy">Login</a>
+
+
+
+	<a href="/register">Register</a> 
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+<ul class="tabs">
+
+
+
+	<li><a href="/published"><b>Published News</b></a></li>
+
+
+
+	<li><a href="/upcoming"><b>Upcoming News</b></a></li>
+
+
+
+	<li><a href="/submit"><b>Submit a New Story</b></a></li>
+
+
+
+</ul>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!-- START NAVBAR -->
+
+
+
+
+
+
+
+<div class="topbar">
+
+
+
+<ul>
+
+
+
+		
+
+
+
+
+
+
+	
+
+
+
+	<li><a href="/">Gyach Main</a> </li>
+
+
+
+	
+
+
+
+	<li><a href="/topusers"> Top Users</a></li>
+
+
+
+	<li><a href="/tagcloud">Tag cloud</a></li>
+
+
+	
+
+
+
+	<li> <a href="/live"> Live</a></li>
+
+
+	
+
+
+
+		
+
+
+
+	<li><a href="/groups/"><span>Groups</span></a></li>
+
+
+
+		
+
+
+
+	
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+
+
+
+</div>
+
+
+
+
+
+
+
+<!-- END NAVBAR -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- START SEARCH -->
+
+
+
+
+
+
 
 <div class="topsearch">
+
+
+
 <div class="right_float">
 
 
-						
+
+
+
+
+
+
+
+
+
+	
+
+
+					
+
+
+
+	
+
+
+
+
+
+
+	<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.gyach.com/search/&quot;+encodeURIComponent(this.search.value); return false;">
+
+
+
+
+
+
+
+		<input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+
+
+
+		<input type="submit" value="" class="go">
+
+
+
+	</form>
+
+
+
+
+
+
+
 			
-					<form action="/search.php" method="get" name="thisform-search" id="thisform-search">
-				<input type="text" size="15" name="search" class="searchfield" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
-				<input type="submit" value="" class="go">
-			</form>
-		
+
+
+
+
+
+
+
 </div>
-</div>			
-			<div id="content-wrap2">  
+
+
+
+</div>	
+
+
+
+
+
+
+
+
+
+
+
+<!-- END SEARCH -->
+
+
+
+
+
+
+
+	
+
+	<ul id="drop-down">
+																					<li>			
+			<a class="dir" href="/entertainment">Entertainment</a>
+			<ul>						
+															<li>			
+			<a href="/movies">Movies</a>
+			</li>						
+															<li>			
+			<a href="/television">Television</a>
+			</li>						
+															<li>			
+			<a href="/celebrities">Celebrities</a>
+			</li>						
+															<li>			
+			<a href="/music">Music</a>
+			</li>						
+															<li>			
+			<a href="/gaming">Gaming</a>
+			</li>						
+															<li>			
+			<a href="/humor">Humor</a>
+			</li>						
+												</ul></li>			<li>			
+			<a class="dir" href="/general">General</a>
+			<ul>						
+															<li>			
+			<a href="/science">Science</a>
+			</li>						
+															<li>			
+			<a href="/weird-stuff">Weird Stuff</a>
+			</li>						
+															<li>			
+			<a href="/pets-animals">Pets &amp; Animals</a>
+			</li>						
+															<li>			
+			<a href="/other-misc-">Other Misc.</a>
+			</li>						
+												</ul></li>			<li>			
+			<a class="dir" href="/sports">Sports</a>
+			<ul>						
+															<li>			
+			<a href="/motorsports">Motorsports</a>
+			</li>						
+															<li>			
+			<a href="/other-sports">Other Sports</a>
+			</li>						
+															<li>			
+			<a href="/tennis">Tennis</a>
+			</li>						
+															<li>			
+			<a href="/soccer">Soccer</a>
+			</li>						
+															<li>			
+			<a href="/cricket">Cricket</a>
+			</li>						
+												</ul></li>			<li>			
+			<a class="dir" href="/lifestyle">Lifestyle</a>
+			<ul>						
+															<li>			
+			<a href="/arts-literature">Arts &amp; Literature</a>
+			</li>						
+															<li>			
+			<a href="/health-fitness">Health &amp; Fitness</a>
+			</li>						
+															<li>			
+			<a href="/meditation-spirituality">Meditation &amp; Spirituality</a>
+			</li>						
+															<li>			
+			<a href="/beauty-fashion">Beauty &amp; Fashion</a>
+			</li>						
+															<li>			
+			<a href="/education-career">Education &amp; Career</a>
+			</li>						
+															<li>			
+			<a href="/travelling-places">Travelling &amp; Places</a>
+			</li>						
+															<li>			
+			<a href="/misc-">Misc.</a>
+			</li>						
+												</ul></li>			<li>			
+			<a class="dir" href="/technology">Technology</a>
+			<ul>						
+															<li>			
+			<a href="/gadgets-hardware">Gadgets &amp; Hardware</a>
+			</li>						
+															<li>			
+			<a href="/software">Software</a>
+			</li>						
+															<li>			
+			<a href="/internet">Internet</a>
+			</li>						
+															<li>			
+			<a href="/linuxunix">Linux/Unix</a>
+			</li>						
+															<li>			
+			<a href="/automobiles">Automobiles</a>
+			</li>						
+															<li>			
+			<a href="/security">Security</a>
+			</li>						
+												</ul></li>			<li>			
+			<a class="dir" href="/news">News</a>
+			<ul>						
+															<li>			
+			<a href="/business-finance">Business &amp; Finance</a>
+			</li>						
+															<li>			
+			<a href="/political-news">Political News</a>
+			</li>						
+															<li>			
+			<a href="/other-news">Other News</a>
+			</li>						
+						</ul>
+</li></ul>
+
+
+
+
+
+
+<!-- END HEADER.TPL -->
+
+<!-- START LEFT COLUMN -->
+
+
+		<div class="main-content">
+
+
+<span style="text-decoration:underline; margin-bottom:-60px; margin-left:70px">Advertisements</span>
+<div class="l_border" style="margin-left:88px; margin-bottom:30px">
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-4900474393457170";
+/* 300x250, created 6/7/09 */
+google_ad_slot = "6563291273";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+  
+	<!-- START BREADCRUMBS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+	
+	
+	
+
+
+
+<!-- END BREADCRUMBS -->
+
+	
+
+	
+		
+		
+		
 			
-				<div id="contentbox">			
-					
-						
-					
-					                    					
-<h2>Pricacy Policy Statement</h2>
+	
+	
+
+	
+
+
+		
+	
+	
+	
+	
+		
+	
+
+	
+		
+
+
+
+
+			
+    		<h2>Pricacy Policy Statement</h2>
 <p> Privacy Policy for <strong>www.gyach.com</strong> which is also referred as <b>Gyach SB</b> or <b>Gyach Social Bookmarking:It here to share</b> or <b>gyach.com</b>. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support[at]gyach.com</p>
 <p style="color:red">Warning: Any of your submission or view  which you have posted on GyachSB in this public Social Bookmarking Site will become public domain. Your text will be available to anyone with an internet connection.</p>
 <p> At www.gyach.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.gyach.com and how it is used. </p>
@@ -113,9 +801,11 @@ If you wish to disable cookies, you may do so through your individual browser op
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Kontera. These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gyach.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. www.gyach.com has no access to or control over these cookies that are used by third-party advertisers.<br>
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites<br>
 <br>
+However for google if you would like to get more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" target="_blank">click here</a>.
+<br>
 </li>
 <li><b>Log Files</b><br> 
-Like many other Web sites, www.gyach.com makes use of log files. We store standard information which is necessary for proper functioning of a website. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.<br>
+Like many other Web sites, www.gyach.com makes use of log files. We store standard information which is necessary for proper functioning of a website. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâs movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.<br>
 We use Google Analytics service. You can find their privacy policy <a href="http://www.google.com/intl/en/privacy.html" target="_blank">here</a> .You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gyach.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. <br>
 <br>
 </li><li>
@@ -135,790 +825,328 @@ If you wish to contact us for the concern of dealing privacy policy or personal 
 </li>
 <li><strong>Updates in this Policy<br>
 </strong>We "GyachSB" or gyach.com or www.gyach.com reserves full right to modify, update this privacy policy at any time. Its your / user's responsibility to regularly check and the privacy policy. However if there is any big / major change then we will provide information by suitable means to the user about the changes in policy. Still if you have any concern regarding the working of policy then you can contact us at support[at]gyach.com</li></ol>
-									</div>
-				
-				<div id="sidebar">
-					
- 
+
+
+
+
+			
+
+
+		
+
+
+		
+
+
+		</div>
+
+
+
+<!-- END LEFT COLUMN -->
+
+
+<!-- START RIGHT COLUMN -->
+
+		<div id="side-bar">
+
+		
+
 	
-<div class="featurebox">
+<div class="side-box1"><!-- START ABOUT -->
+        	<div class="headline">
+            	<div class="sectiontitle">Know Gyach SB!</div>
+            </div>
+                        <div id="aboutcontent">
+                Gyach.com is a web application that allows you to submit an article that will be reviewed by all and will be promoted, based on popularity, to the main page.
+                            </div>
+<!-- END ABOUT --></div>
 	
-
-
-
-<h2>What is Gyach?</h2>
-
-
-Gyach.com is a Social Bookmarking site where you can share what you like and you can keep record of your favourite links ONLINE
 	
-	
-	<a href="/about/en">read more</a>
+		 <center> <a href="http://www.mgcspace.com" title="MGCSpace.com - Professional Webhosting" target="_blank"><img src="http://s1.smsnshayari.com/gen/mgc-pro-250x130b.gif" alt="Professional Unlimited Webhosting"></a><br><br><a href="http://www.linuxsolved.com/linux-forums/register.html"><img src="http://www.gyach.com/img1/small-linux.gif" title="Linux Community for Linux Suporters"></a></center>
 
+<br>
+
+
+	
+<script type="text/javascript" language="JavaScript">
+function Expand2(){
+	if(document.getElementById('expand-t').src == "http://www.gyach.com/templates/silverbullet/images/expand_up.png") 
+		document.getElementById('expand-t').src="http://www.gyach.com/templates/silverbullet/images/expand_down.png"; 
+	else
+		document.getElementById('expand-t').src="http://www.gyach.com/templates/silverbullet/images/expand_up.png"; 	
+}
+</script>
+
+	<div class="side-box1">
+<div class="headline">
+	<div class="sectiontitle"><a onclick="new Effect.toggle('top-content','blind', {queue: 'end'});Expand2();">Top Today<span><img id="expand-t" src="http://www.gyach.com/templates/silverbullet/images/expand_up.png" alt=""><span></span></span></a></div>
 </div>
- 
- <center><a href="http://www.linuxsolved.com/linux-forums/register.html"><img src="http://www.gyach.com/img1/small-linux.gif" title="Linux Community for Linux Suporters"></a></center>
- 
-<div class="featurebox">
-	
-<div id="maintab" class="tlb2">
-	<span><a href="#" rel="register" style="text-decoration:none">Register</a></span> <strong> OR </strong>
-	<span class="selected"><a href="#" rel="login" style="text-decoration:none">Login</a></span>
-</div>
-
-<div id="login" class="featurebox" style="display:none">
-	<div class="tlb">
-		<span><a onclick="new Effect.toggle('s1','blind', {queue: 'end'});"></a></span><a onclick="new Effect.toggle('s1','blind', {queue: 'end'});">
-
-		</a><a href="/login.php?return=/static/privacy">Login</a>
-	</div>
-	
-	<div id="s3">
-		<form action="/login.php?return=/static/privacy" method="post"> 
-			Username:<br><input type="text" name="username" class="login" value="" tabindex="40"><br>
-			Password:<br><input type="password" name="password" class="login" tabindex="41"><br>
-			<input type="hidden" name="processlogin" value="1">
-			<input type="hidden" name="return" value="">
-			Remember: <input type="checkbox" name="persistent" tabindex="42">
-			<input type="submit" value="Login" class="submit-s" tabindex="43">
-		</form>
-		<ul><li class="rmore"><a href="/login.php?return=/static/privacy">read more</a></li></ul>
-	</div>
-</div>
-
-
-
-<div id="register" class="featurebox" style="display:none">	
-	<div class="tlb">
-		<span><a onclick="new Effect.toggle('s1','blind', {queue: 'end'});"> </a></span>
-
-		<a href="/register">Register</a>
-	</div>
-
-	<div id="s4">	
-		<form action="/register" method="post" id="thisform-register">				
-			Username:<br><input type="text" name="username" id="name" value="" size="20" tabindex="50">
-			<span id="checkit-username"><input type="button" name="checkbutton1" id="checkbutton1" value="Verify" onclick="checkfield('username', this.form, this.form.username)" class="submit-s" tabindex="51"></span>
-			<span id="usernamecheckitvalue"></span>
-			<br>Email:<br><input type="text" id="email" name="email" value="" size="20" tabindex="52">
-			<span id="checkit-password"><input type="button" name="checkbutton2" id="checkbutton2" value="Verify" onclick="checkfield('email', this.form, this.form.email)" class="submit-s" tabindex="53"></span>
-			<span id="emailcheckitvalue"></span>
-			<br>Password:<br><input type="password" id="password" name="password" size="20" tabindex="54">
-			<br>Verify password:<br><input type="password" id="verify" name="password2" size="20" tabindex="55">
-			<br><input type="submit" name="submit" value="Create user" class="log2" tabindex="56">
-			<input type="hidden" name="regfrom" value="sidebar">
-			<input type="hidden" name="process" value="1">		
-		</form>	
-		<ul><li class="rmore"><a href="/register">read more</a></li></ul>
-	 </div>
-</div> 
-
-
-	<script type="text/javascript">
-		initializetabcontent("maintab")
-	</script>
-
-</div> 
-
-<div class="featurebox">
+<div class="boxcontent" id="top-content">
+	<ul class="sidebar-stories">
+			
+	<li><a href="/technology/how-to-add-snow-fall-effect-to-wordpress-blogs/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.quickonlinetips.com" border="0" alt="website thumbnails"></a>	<a href="/technology/how-to-add-snow-fall-effect-to-wordpress-blogs/" class="switchurl">How to Add Snow Fall Effec...</a><br clear="all"></li>
 	
 
-	<h2>Categories</h2>
+	
+	<li><a href="/software/temporarily-disable-sleep-mode-in-windows-with-insomnia/"><img src="http://www.gyach.com/images/uploaded_images/thumbnail_104099_insomnia1_thumb.png"></a>	<a href="/software/temporarily-disable-sleep-mode-in-windows-with-insomnia/" class="switchurl">Temporarily Disable Sleep ...</a><br clear="all"></li>
+	
+
+	
+	<li><a href="/technology/kim-kardashian-earns-10000-per-tweet/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.quickonlinetips.com" border="0" alt="website thumbnails"></a>	<a href="/technology/kim-kardashian-earns-10000-per-tweet/" class="switchurl">Kim Kardashian Earns $1000...</a><br clear="all"></li>
+	
+
+	
+	<li><a href="/news/governor-of-andhra-pradesh-n-d-tiwari%E2%80%99s-sex-video-causes-uproar/"><img src="http://www.gyach.com/images/uploaded_images/thumbnail_104111_nd-tiwari-150x136.jpg"></a>	<a href="/news/governor-of-andhra-pradesh-n-d-tiwari%E2%80%99s-sex-video-causes-uproar/" class="switchurl">Governor of Andhra Pradesh...</a><br clear="all"></li>
+	
+
+	
+	<li><a href="/news/after-christmas-sales-2009-high-street-giants-john-lewis-and-ms-begin-sales-later/"><img src="http://www.gyach.com/images/uploaded_images/thumbnail_104112_After-Christmas-Sales-2009-150x150.jpg"></a>	<a href="/news/after-christmas-sales-2009-high-street-giants-john-lewis-and-ms-begin-sales-later/" class="switchurl">After Christmas Sales 2009...</a><br clear="all"></li>
+	
 
 
-	<ul class="lists">
-		
-																
-								
-		
-																		<li>
-						<a href="/rss/category/7" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Entertainment">Entertainment</a>
-						</li>
-												
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/24" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Movies">— Movies</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/29" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Television">— Television</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/25" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Celebrities">— Celebrities</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/26" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Music">— Music</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/27" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Gaming">— Gaming</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/28" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Humor">— Humor</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-																		<li>
-						<a href="/rss/category/8" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/General">General</a>
-						</li>
-												
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/21" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Science">— Science</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/22" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/WeirdStuff">— Weird Stuff</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/23" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Pets_Animals">— Pets &amp; Animals</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/42" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/OtherMisc.">— Other Misc.</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-																		<li>
-						<a href="/rss/category/10" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Sports">Sports</a>
-						</li>
-												
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/20" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Motorsports">— Motorsports</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/16" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/OtherSports">— Other Sports</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/17" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Tennis">— Tennis</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/18" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Soccer">— Soccer</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/19" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Cricket">— Cricket</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-																		<li>
-						<a href="/rss/category/9" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Lifestyle">Lifestyle</a>
-						</li>
-												
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/43" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Arts_Literature">— Arts &amp; Literature</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/36" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Health_Fitness">— Health &amp; Fitness</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/37" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Meditation_Spirituality">— Meditation &amp; Spirituality</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/38" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Beauty_Fashion">— Beauty &amp; Fashion</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/39" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Education_Career">— Education &amp; Career</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/40" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Travelling_Places">— Travelling &amp; Places</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/41" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Misc.">— Misc.</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-																		<li>
-						<a href="/rss/category/11" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Technology">Technology</a>
-						</li>
-												
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/30" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Gadgets_Hardware">— Gadgets &amp; Hardware</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/31" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Software">— Software</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/32" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Internet">— Internet</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/33" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Linux_Unix">— Linux/Unix</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/34" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Automobiles">— Automobiles</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/35" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Security">— Security</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-																		<li>
-						<a href="/rss/category/12" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/News">News</a>
-						</li>
-												
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/14" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/Business_Finance">— Business &amp; Finance</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/13" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/PoliticalNews">— Political News</a>
-						</li>
-								
-				
-				
-								
-				
-											
-								
-		
-						
-										<li>
-						<a href="/rss/category/15" target="_blank"> 	
-						<img src="/templates/gyachsilv/images/rss.gif" border="0" alt="RSS"></a>
-						<a href="/upcoming/category/OtherNews">— Other News</a>
-						</li>
-								
-				
-				
-								
-				
-								
 	</ul>
 </div>
+	</div>		
+<script type="text/javascript" language="JavaScript">
+function Expand(){
+	if(document.getElementById('expand-p').src == "http://www.gyach.com/templates/silverbullet/images/expand_up.png") 
+		document.getElementById('expand-p').src="http://www.gyach.com/templates/silverbullet/images/expand_down.png"; 
+	else
+		document.getElementById('expand-p').src="http://www.gyach.com/templates/silverbullet/images/expand_up.png"; 	
+}
+</script>
 
-<div class="featurebox">
+	<div class="side-box1">
+
+<div class="headline">
+
+	<div class="sectiontitle"><a onclick="new Effect.toggle('p-content','blind', {queue: 'end'});Expand();">Published News<span><img id="expand-p" src="http://www.gyach.com/templates/silverbullet/images/expand_up.png" alt=""><span></span></span></a></div>
+
+</div>
+
+<div class="boxcontent" id="p-content">
+
+	<ul class="sidebar-stories">
+
+			<li><a href="/technology/kim-kardashian-earns-10000-per-tweet/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.quickonlinetips.com" border="0" alt="website thumbnails"></a>	<a href="/technology/kim-kardashian-earns-10000-per-tweet/" class="switchurl">Kim Kardashian Earns $1000...</a><br clear="all"></li>
+
+
+	<li><a href="/lifestyle/emerald-bowl-2009-att-park-usc/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://mixxnews.com" border="0" alt="website thumbnails"></a>	<a href="/lifestyle/emerald-bowl-2009-att-park-usc/" class="switchurl">Emerald Bowl 2009 AT&amp;T Par...</a><br clear="all"></li>
+
+
+	<li><a href="/political-news/police-use-tear-gas-to-disperse-protests-in-tehran/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.thaindian.com" border="0" alt="website thumbnails"></a>	<a href="/political-news/police-use-tear-gas-to-disperse-protests-in-tehran/" class="switchurl">Police use tear gas to dis...</a><br clear="all"></li>
+
+
+	<li><a href="/other-news/graphic-designer-job-openings-hyderabad-%E2%80%93-ellaa-hotels/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.fresherstimes.com" border="0" alt="website thumbnails"></a>	<a href="/other-news/graphic-designer-job-openings-hyderabad-%E2%80%93-ellaa-hotels/" class="switchurl">Graphic Designer Job Openi...</a><br clear="all"></li>
+
+
+	<li><a href="/motorsports/world%E2%80%99s-most-expensive-chopper-%E2%80%93-but-it-comes-with-a-free-yacht/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.motorcyclenews.com" border="0" alt="website thumbnails"></a>	<a href="/motorsports/world%E2%80%99s-most-expensive-chopper-%E2%80%93-but-it-comes-with-a-free-yacht/" class="switchurl">World’s most expensive cho...</a><br clear="all"></li>
+
+
+
+
+	</ul>
+
+</div>
+
+	</div>	
 	
+<script type="text/javascript" language="JavaScript">
+function Expand1(){
+	if(document.getElementById('expand-u').src == "http://www.gyach.com/templates/silverbullet/images/expand_up.png") 
+		document.getElementById('expand-u').src="http://www.gyach.com/templates/silverbullet/images/expand_down.png"; 
+	else
+		document.getElementById('expand-u').src="http://www.gyach.com/templates/silverbullet/images/expand_up.png"; 	
+}
+</script>
 
+	<div class="side-box1">
+
+<div class="headline">
+	<div class="sectiontitle"><a onclick="new Effect.toggle('u-content','blind', {queue: 'end'});Expand1();">Upcoming News<span><img id="expand-u" src="http://www.gyach.com/templates/silverbullet/images/expand_up.png" alt=""><span></span></span></a></div>
+</div>
+<div class="boxcontent" id="u-content">
+	<ul class="sidebar-stories">
+			
+	<li><a href="/lifestyle/gift-baskets-have-been-growing-in-popularity-over-the-last-few-years/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.ribbonsbaskets.com" border="0" alt="website thumbnails"></a>	<a href="/lifestyle/gift-baskets-have-been-growing-in-popularity-over-the-last-few-years/" class="switchurl">Gift baskets have been gro...</a><br clear="all"></li>
 	
-<h2>Top Today</h2>
-	<ul class="lists">
-
+	<li><a href="/beauty-fashion/easy-and-effective-hair-loss-remedy/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://hairlosseffects.com" border="0" alt="website thumbnails"></a>	<a href="/beauty-fashion/easy-and-effective-hair-loss-remedy/" class="switchurl">Easy and Effective Hair Lo...</a><br clear="all"></li>
 	
-
-
-</ul></div>
-
-<div class="featurebox">
+	<li><a href="/business-finance/sports-betting-resources/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.susaneller.com" border="0" alt="website thumbnails"></a>	<a href="/business-finance/sports-betting-resources/" class="switchurl">Sports Betting Resources</a><br clear="all"></li>
 	
-
+	<li><a href="/science/-netbook-reviews/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.kogan.com.au" border="0" alt="website thumbnails"></a>	<a href="/science/-netbook-reviews/" class="switchurl"> netbook reviews</a><br clear="all"></li>
 	
+	<li><a href="/pets-animals/lcd-tv-reviews-2/"><img src="http://www.shrinktheweb.com/xino.php?embed=1&amp;STWAccessKeyId=6134b72bfd0886e&amp;stwsize=sm&amp;stwUrl=http://www.kogan.com.au" border="0" alt="website thumbnails"></a>	<a href="/pets-animals/lcd-tv-reviews-2/" class="switchurl">lcd tv reviews</a><br clear="all"></li>
 
-<h2>Published News</h2>
-	<ul class="lists">
-
-	
-
-<li><a href="/Movies/heath-ledgers-last-film-screening-in-cannes-film-festival/">Heath Ledger`s last film scree...</a></li>
-
-
-<li><a href="/Movies/exclusiveamitabh-bachchans-amazing-shooting-the-ad/">Exclusive:Amitabh Bachchan's a...</a></li>
-
-
-<li><a href="/PoliticalNews/with-gurgaonrsquos-rich-shying-away-from-poll-parties-woo-rural-voters/">With Gurgaon’s rich shying awa...</a></li>
-
-
-<li><a href="/PoliticalNews/discussions-about-alliance-with-left-after-polls-rahul-gandhi/">Discussions about alliance wit...</a></li>
+	</ul>
+</div></div>		 <div class="side-box1">
+<script type="text/javascript" language="JavaScript">
+function Expand4(){
+	if(document.getElementById('expand-tg').src == "http://www.gyach.com/templates/silverbullet/images/expand_up.png") 
+		document.getElementById('expand-tg').src="http://www.gyach.com/templates/silverbullet/images/expand_down.png"; 
+	else
+		document.getElementById('expand-tg').src="http://www.gyach.com/templates/silverbullet/images/expand_up.png"; 	
+}
+</script>
 
 
-<li><a href="/PoliticalNews/mango-and-bel-sherbet-keep-lalu-prasad-cool-while-campaigning/">Mango and bel sherbet keep Lal...</a></li>
-
-
-
-</ul></div>
- 
-<div class="featurebox">
-	
-
-
-
-	<h2>Most Used Tags<a href="/tagcloud" class="more">more</a></h2>
-
-
-
-<div id="tag_c" style="margin: 5px 0 0 0; line-height: 15pt;">
-		
-		
-			<span style="font-size: 13.7257462687pt">
-				<a href="/tag/biography">biography</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 11.4085820896pt">
-				<a href="/tag/foreclosures">foreclosures</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 11.8115671642pt">
-				<a href="/tag/hotels">hotels</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 16.328358209pt">
-				<a href="/tag/india">india</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 17pt">
-				<a href="/tag/movie">movie</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 10.8880597015pt">
-				<a href="/tag/photos">photos</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 11.4757462687pt">
-				<a href="/tag/quiz">quiz</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 11.3582089552pt">
-				<a href="/tag/resorts">resorts</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 11.1231343284pt">
-				<a href="/tag/reviews">reviews</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 10.25pt">
-				<a href="/tag/seo">seo</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 10.7873134328pt">
-				<a href="/tag/tourism">tourism</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 11.828358209pt">
-				<a href="/tag/travel">travel</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 16.0764925373pt">
-				<a href="/tag/videos">videos</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 10.5690298507pt">
-				<a href="/tag/wallpapers">wallpapers</a>
-			</span>
-		
-		
-		
-		
-			<span style="font-size: 10.3339552239pt">
-				<a href="/tag/www.chakpak.com">www.chakpak.com</a>
-			</span>
-		
-		
-	</div>
-
-</div> 				</div>
-
-			</div>
-		       	
-		
-
-		
-<br clear="all">
-
-<div class="footer">
-<span style="float:right; text-align:left; margin-right:15px"><a href="http://www.gyach.com/static/terms">Terms of use</a><br>
-<a href="http://www.gyach.com/static/privacy">Privacy Policy</a><br>
-<a href="http://gyach.com/about/en">Faq</a> | <a href="mailto:support@gyach.com">Contact us</a><br>
-<a href="http://www.gyach.com/api/tools">Tools &amp; Bookmarklets</a><br>
-</span>
-Copyright © 2008 Gyach SB. <br>
-All trademarks &amp; logos belongs to their respective owners.<br>
-User-posted content is licensed under<br>
-<a href="http://creativecommons.org/licenses/publicdomain/" rel="nofollow">Creative Commons Public Domain license</a>
+<div class="headline">
+	<div class="sectiontitle"><a onclick="new Effect.toggle('tag-content','blind', {queue: 'end'});Expand4();">Top Tags<span><img id="expand-tg" src="http://www.gyach.com/templates/silverbullet/images/expand_up.png" alt=""><span></span></span></a></div>
 </div>
 
 
+<div class="boxcontent tagformat" id="tag-content">
+			
+		<span style="font-size: 12.1302027748pt">
+			<a href="/tag/biography">biography</a>
+		</span>
+		
+			
+		<span style="font-size: 11.0928495197pt">
+			<a href="/tag/business">business</a>
+		</span>
+		
+			
+		<span style="font-size: 11.3906083244pt">
+			<a href="/tag/free">free</a>
+		</span>
+		
+			
+		<span style="font-size: 11.4674493063pt">
+			<a href="/tag/health">health</a>
+		</span>
+		
+			
+		<span style="font-size: 16.3564567769pt">
+			<a href="/tag/india">india</a>
+		</span>
+		
+			
+		<span style="font-size: 17pt">
+			<a href="/tag/movie">movie</a>
+		</span>
+		
+			
+		<span style="font-size: 11.3810032017pt">
+			<a href="/tag/news">news</a>
+		</span>
+		
+			
+		<span style="font-size: 13.0330843116pt">
+			<a href="/tag/online">online</a>
+		</span>
+		
+			
+		<span style="font-size: 12.1205976521pt">
+			<a href="/tag/photos">photos</a>
+		</span>
+		
+			
+		<span style="font-size: 10.8815368196pt">
+			<a href="/tag/review">review</a>
+		</span>
+		
+			
+		<span style="font-size: 10.8623265742pt">
+			<a href="/tag/reviews">reviews</a>
+		</span>
+		
+			
+		<span style="font-size: 12.2838847385pt">
+			<a href="/tag/seo">seo</a>
+		</span>
+		
+			
+		<span style="font-size: 10.9487726788pt">
+			<a href="/tag/travel">travel</a>
+		</span>
+		
+			
+		<span style="font-size: 12.1686232657pt">
+			<a href="/tag/video">video</a>
+		</span>
+		
+			
+		<span style="font-size: 14.742796158pt">
+			<a href="/tag/videos">videos</a>
+		</span>
+		
+		</div></div> 
 
-<div class="footer" style="display:none">Template By <a href="http://www.qkin.com/" rel="nofollow">Qkin</a></div>
+
+
+		</div>
+<!-- END RIGHT COLUMN -->
+
+	
+	<br clear="all">
+
+<!-- START FOOTER -->
+
+
+
+<div class="footer">
+
+<span style="float:right; text-align:left; margin-right:15px"><a href="http://www.gyach.com/static/terms">Terms of use</a><br>
+
+<a href="http://www.gyach.com/static/privacy">Privacy Policy</a><br>
+
+<a href="http://gyach.com/about/en">Faq</a> | <a href="mailto:support@gyach.com">Contact us</a><br>
+
+<a href="http://www.gyach.com/api/tools">Tools &amp; Bookmarklets</a><br>
+
+
+</span>
+©  2009
+Gyach SB All trademarks &amp; logos belongs to their respective owners.<br>
+
+User-posted content is licensed under<br>
+<a href="http://creativecommons.org/licenses/publicdomain/" rel="nofollow">Creative Commons Public Domain license</a>
+<br>
+
+<br clear="all"><br>
+</div>
+
+<!-- END FOOTER --> 
+
+
 
         <script type="text/javascript">
+
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
+
 try {
+
 var pageTracker = _gat._getTracker("UA-1210632-6");
+
 pageTracker._trackPageview();
+
 } catch(err) {}</script>
-      </div>
-		<script src="/js/xmlhttp.php" type="text/javascript"></script> 
-			
+
+      
+	</div>
+<!-- END CONTENT --> 
+
+	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
+
+
+
 	
+
+
+
+
+
+
+
+
+
+
 
 </body></html>
