@@ -1,109 +1,101 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625002446id_/http%3A//www.mailchimp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227123153id_/http%3A//www.mailchimp.com/page/privacy) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy | MailChimp.com
 
-We take your privacy, and the privacy of your subscribers, very seriously at MailChimp. If you have any questions about our privacy policy, [contact us.](http://www.mailchimp.com/page/contact/)
+**I. Some Definitions:**
 
-### A. Our Pledge to You
+The terms "we," "us" and "Company" refer to The Rocket Science Group, LLC d/b/a MailChimp, a limited liability company organized and existing under the laws of the State of Georgia, or any successor or assignee of the Company.  The terms "you" and "user" refer to the particular "Member," as defined in the "Terms of Use."  The term "Website" refers to the website with the domain name [http://www.mailchimp.com. ](http://www.mailchimp.com.%20/)
 
-  1. When you sign up for a free trial, you will not be automatically subscribed to any promotional emails. 
-  2. Your personal information (and your customer information) will be kept strictly confidential. It is never sold, given away, or shared with anyone, unless we're required to by law. 
-  3. We do not send promotional messages to you unless you explicitly request to receive them. 
-  4. We may send you automated emails asking you if you'd like to activate, or de-activate your free trial (if you don't use it after a reasonable time period). We like to remove dormant accounts from our system, to keep our database clean. 
-  5. In order to use MailChimp, you must first complete the "Free Trial" registration form and create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to send you a confirmation link, which is used to activate your account. You have the option to provide demographic information (such as income level and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
+**II. Categories of Information We Collect:**
 
+A. _Information You Provide to Us_ :  When you register to use MailChimp on a trial or other basis, communicate with customer service, or send us an email, you provide us with information that we collect.  Such information may include your IP address, name, physical address, email address, phone number, cellphone number, credit card information, and other information such as gender, occupation and other demographic information to help us improve your experience.  By providing us with this information, you consent to your information being collected, used and stored by us in accordance with this Privacy Policy.
 
+B. _Lists and Campaigns_ :  When you put together a campaign, you create a distribution list, or create a campaign using the tools on our Website we have access to the data on your list and the information in your campaign. 
 
-### B. We _NEVER_ Touch Your Customer Lists
+C. _Other Information We Receive and Store_.  When you register to use MailChimp, we store "cookies," which are strings of code, on your computer.  With those cookies, we are aware of and collect information concerning when you visit our Website, when you use MailChimp, your browser type and version, your operating system and platform and other similar information.  You may turn off all cookies that have been placed on your computer by following the instructions on your browser on how to block cookies that have been placed on your computer.  However, if you block our cookies it will be more difficult, and maybe impossible, to use the Services as defined in the Terms of Use. 
 
-  1. Your recipient lists are stored on a secure MailChimp server. We do not, under any circumstances, steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law. Your recipient list is kept strictly confidential. 
-  2. Only carefully selected, authorized personnel have access (for customer service and abuse-monitoring purposes) to view system accounts and campaigns. 
-  3. We do not hold your lists hostage, and we do not make it difficult to reclaim them. You may export (download) your lists from MailChimp at any time. They are your property. 
+When we send emails to our own registered MailChimp customers, we'll sometimes track who opened the emails and who went so far as to click on any of the hyperlinks.  We do this to measure the performance of our email campaigns, and to improve our offerings to specific customer segments. 
 
+We use other third parties to handle secure credit card transaction processing from our site.  When you make purchases on MailChimp, we send your billing information as necessary for the third party to process your order.
 
+We sometimes review campaigns of our subscribers to verify compliance with our agreements.
 
-### C. Transactional and Mandatory Emails That We'll Be Sending You
+Our customers who elect to receive AIM Reports, can also determine who has opened or not opened emails or clicked on links. 
 
-These are the types of emails you can expect to receive from MailChimp if you sign up for our services. 
+We operate in accordance with relevant data protection legislation. 
 
-  1. Email Receipts - When you use your credit card to place an order with MailChimp, you will naturally be receiving an email receipt for your purchase. 
-  2. Terminate your account - If you have not logged into MailChimp's system for 6 months, your account is considered "dormant." To keep our system clean, we periodically send followup emails to dormant accounts with a link allowing them to permanently shut down their accounts. 
-  3. System Alerts - All registered, active (non-dormant), MailChimp user accounts may receive mandatory "System Alert" messages which usually consist of: planned outages, system improvements (that may directly affect your account), version updates, point releases, abuse warnings, and important customer service information. Our "System Alert" messages are brief and non-promotional in nature. We promise to keep them as boring as possible. 
-  4. Free trial reminders - If you sign up for a free trial, but never activate your account or log in, we may send an automatic followup email within a few weeks (in case you never got your login instructions the first time). 
-  5. Automated responses - If you submit a help ticket to MailChimp, our system might automatically send you a brief survey email, requesting your feedback on how your issue was resolved. We use this information to improve our customer service. Submitting a help ticket does not add you to any mailing list. 
+**III. Use and Disclosure of Information We Collect:**
 
+We will use and disclose your information only as follows:
 
+(1) If you leave your personal information when you visit our Website, we may send you an email asking whether you wish to activate or deactivate your free trial (if you do not use it after a reasonable time).  We like to remove dormant accounts from our system, to keep our database clean. 
 
-### D. Promotional Emails That We Send
+(2) We may use your information to send you emails to collect invoices, receipts, notice of delinquency in payment, changes of credit card numbers, try to collect money owed, to encourage renewal and other subscription related information.  
 
-We do not send promotional emails unless you have requested them. 
+(3) We may send you "System Alert Messages" warning you of events such as planned outages, system improvements (that may directly affect your account), version updates, point releases, abuse warnings and customer service information. 
 
-  1. From time to time, we send a "MailChimp News" email newsletter to registered users who affirmatively select the "opt-in" checkbox in their account settings for "Yes, send me MailChimp News." We do **not** automatically send this newsletter to all users. If you opt-in, then later change your mind, there are 2 ways to opt-out: 1) Click the "unsubscribe link" that we include in every newsletter, or 2) Log in to MailChimp, and un-check the box. 
+(4) If you sign up for a free trial, but never activate your account or log in, we send an automatic follow-up email within a few weeks (in case you never got your login instructions the first time).
 
+(5) If you submit a help ticket to MailChimp, our system might automatically send you a brief survey email, requesting your feedback on how your issue was resolved.  We use this information to improve our customer services.  Submitting a help ticket does not add you to any mailing list.
 
+(6) We may use your information to protect the rights and safety of us, our members, officers, employees and customers;
 
-### E. Personally Identifiable Information, and Our Use of Cookies
+(7) We may use your information to notify you of termination of the Term as defined in the Terms of Use, or changes to the Privacy Policy, the Terms of Use, or the Website; 
 
-  1. We do not share your personally identifiable information with any 3rd parties. 
-  2. When you visit our website, we don't automatically collect any personally identifiable information about you. 
-  3. The cookies we place do not personally identify visitors on our website, unless the visitor is a registered user of MailChimp. 
-  4. We temporarily store session information, so that registered users do not have to login every time they visit the site. 
-  5. We place temporary cookies on web pages so that we can see how visitors use our website, but they do not personally identify users (we use this information to improve our website experience) 
-  6. We place a transparent tracking bug on certain web pages to track the performance of online ads placed on other websites. The trackers do not personally identify any visitors to our website. They simply tell us about the performance of our online advertising 
-  7. We do not partner with or have special relationships with any ad server companies. 
-  8. When we send emails to our own registered MailChimp customers, we'll sometimes track who opened and who clicked. We do this to measure the performance of our email campaigns, and to improve our offerings to specific customer segments. 
-  9. MailChimp customers: if your personally identifiable information changes, or if you no longer desire our service, you may update your account or deactivate it in the "Account Settings" area in MailChimp, or by contacting us by telephone or postal mail at the [contact information posted on this page.](https://web.archive.org/contact.phtml)
-  10. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
-  11. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
-  12. We use other third parties to handle secure credit card transaction processing from our site. When you make purchases on MailChimp, we send your billing information as necessary for the third party to process your order. 
+(8) We may use your information to meet any legal requirements such as complying with legal process or otherwise as required by law.
 
+(9) We may disclose your information to third parties, such as credit card processors and law enforcement agencies, as reasonably required to meet the objectives for which we may use your information as set forth above.  We may also disclose your information to our attorneys, accountants and other advisors as reasonably required in connection with our business operations.
 
+(10) We may transfer your information in the event of the sale of substantially all of the assets of our business to a third-party or in the event of a merger, consolidation or acquisition.  However, in such event, any acquirer will be subject to the provisions of our commitments to you.
 
-### F. Collection and Distribution of Information in Aggregate Formats
+(11) We will send you other information and promotional messages only if you opt-in to receive them.
 
-  1. We also collect information concerning non-personal email marketing stats from our customers' campaigns (such as open-rates, click-rates, bounce-rates, and ROI), and assemble reports that you, and other customers, can use to compare your performance against others in and/or outside your and their industries. No personally identifiable information is provided with these reports. 
-  2. Likewise, we reserve the right to collect and disclose any other information relating to the use of our website to any third party provided we do not disclose information in a form that can be linked to a particular customer. 
+(12) From time to time, we send a "MailChimp News" email newsletter to registered users who affirmatively select the "opt-in" checkbox in their accounts settings for "Yes, send me MailChimp News."  We do **not** automatically send this newsletter to all users.  If you opt-in, then later change your mind, there are 2 ways to opt-out:  1) Click the "unsubscribe link" that we include in every newsletter, or 2) Log in to MailChimp, and un-check the box.
 
+**IV. We _NEVER_ Touch Your Customer Lists:**
 
+(1) Your recipient lists are stored on a secure MailChimp server.  We do not, under any circumstances, steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law.  Your recipient list is kept strictly confidential.
 
-### G. Sale of Business
+(2) Only carefully selected, authorized personnel have access (for customer service and abuse-monitoring purposes) to view system accounts and campaigns.
 
-  1. Notwithstanding any other term of this Privacy Policy, we may transfer your information in the event of the sale of substantially all of the assets of the business to a third-party or in the event of a merger, consolidation or acquisition. However, in any such event, any acquirer will be subject to the provisions of our commitments to you set forth hereunder. 
+(3) We do not hold your lists hostage, we do not make it difficult to reclaim them.  You may export (download) your lists from MailChimp at any time. 
 
+**V. Safeguarding Your Information:**
 
+(1) To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions.  In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC).
 
-### H. Safeguarding Your Information
+(2) MailChimp accounts require username and password to log in.  When you're finished using MailChimp, please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account.  You must keep your username and password secure and not disclose it to a third party.
 
-  1. To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC). 
-  2. MailChimp accounts require username and password to log in. When you're finished using MailChimp, please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account 
-  3. Due to the sensitive nature of your recipient lists, we do not re-send forgotten passwords. Users must follow online instructions to reset their passwords if they forget them. 
-  4. Account passwords are encrypted from our own system admins. We cannot see your passwords. We can only reset them. 
+(3) Due to the sensitive nature of your recipient lists, we do not re-send forgotten passwords.  Users must follow online instructions to reset their passwords if they forget them.
 
+(4) Account passwords are encrypted.  We cannot see your passwords.  We can only reset them.
 
+**VI. Breach of Security Policy:**
 
-### I. Breach of Security Policy
+(1) Nobody is safe from hackers these days.  MailChimp will notify you as soon as possible if a breach in security results in an unauthorized intrusion into our system which directly or materially affects you or your subscribers, and will subsequently report the corrective action taken in response to the intrusion.
 
-  1. Nobody is safe from hackers these days. MailChimp will notify you as soon as possible if a breach in security results in an unauthorized intrusion into our system which directly or materially affects you or your subscribers, and will subsequently report the corrective action taken in response to the intrusion. 
-  2. It should be noted however, that when you send a campaign, it bounces around the Internet from server to server, and can theoretically be read by prying eyes and nosy techies and government officials. We have no control over the security and privacy of your emails and subscribers after you hit the "Send" button from MailChimp. So if you're sending extremely private information to your recipients, and require absolute secrecy, email is not the way to go. 
+(2) it should be noted however, that when you send a campaign, it bounces around the Internet from server to server, and can theoretically be read by prying eyes and nosy techies and government officials.  We have no control over the security and privacy of your emails and Members after you hit the "Send" button from MailChimp.  So if you're sending extremely private information to your recipients, and require absolute secrecy, email is not the way to go.
 
+**VII. Notification of Changes:**
 
+Any changes to this Privacy Policy will be posted to this Website and emailed to the last email address you have given to us, and will become effective as of the later of the date we post on the Website or send the email.  If such changes are overall disadvantageous to you, you may object to them within 20 days after their being posted on our website or delivered to you, in which case none of the proposed changes will be effective with respect to information that we have then already collected; but only to information we collect in the future.
 
-### J. Children under 13
+**VIII. Accuracy of Data and rights:**
 
-  1. We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our [terms](http://www.mailchimp.com/terms.phtml) stipulate you must be 18 years or older to use the MailChimp system. 
+(1) We do our best to keep your data accurate and up-to-date to the extent that you provide us with the information we require to do that.  If your data changes (including, but not limited to, a change in your email address) then you are responsible for notifying us of those changes so that we can keep your records up-to-date. 
 
+(2) We retain the data about you only so long as reasonably required.
 
+(3) We will give you access to any of your personal information that we hold about you within 30 days of any request you make for such information.  We may charge you for providing this information to you, as permitted by applicable law.
 
-### EU SafeHarbor:
+**IX. UK data protection notification:**
 
-Upon request, Mailchimp will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program. View our [EU Safe Harbor Privacy Policy](http://www.mailchimp.com/page/eu-mailchimp-safe-harbor-privacy-policy/ "EU Safe Harbor Privacy Policy").
+We are notified as a ‘data controller’ in respect of personal data about UK clients whom we collect personal data from in accordance with this Privacy Policy.  Under UK law, we are a ‘data controller’ in respect of the personal data about our UK clients, but not in respect of personal data about your customers (where we act as a ‘data processor’). We are notified with the UK Information Commissioner’s Office as a data controller in accordance with this Privacy Policy and our Registration Number is Z1907965.
 
-### Truste Privacy Program
+**X. Effective Date:**
 
-[](http://www.truste.org/ivalidate.php?url=www.mailchimp.com&sealid=101)MailChimp is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.mailchimp.com](http://www.mailchimp.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+This Privacy Policy is effective with respect to all data that we have collected about you, both prior to your registration as a Member and/or during the Term in accordance with the Terms of Use.
 
-If you have questions or concerns regarding this statement, you should first contact MailChimp [ using this form.](http://www.mailchimp.com/contact/) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [ contact TRUSTe here.](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
+**XI. Questions:**
 
-### BBB Online Reliability
-
-MailChimp's parent company, The Rocket Science Group, is a member of the [BBB Online Reliability](http://www.bbbonline.org/cks.asp?id=105113010411) program.
+If you have any questions about our Privacy Policy, feel free to contact us by sending an email to:  _________@______.com.
