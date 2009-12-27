@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfirst.lk privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612081236id_/http%3A//www.newsfirst.lk/index.php%3Foption%3Dcom_content%26view%3Dsection%26layout%3Dblog%26id%3D22%26Itemid%3D496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfirst.lk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227231113id_/http%3A//www.newsfirst.lk/index.php%3Foption%3Dcom_content%26view%3Dsection%26layout%3Dblog%26id%3D22%26Itemid%3D496) for the most accurate reproduction.*
 
 # Privacy
 
