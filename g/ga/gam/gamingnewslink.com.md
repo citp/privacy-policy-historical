@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617094521id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227195904id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaming News Link
 
@@ -29,16 +29,13 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Related posts: 
 
-  1. [Glinkster website facelift](http://www.gamingnewslink.com/2008/07/14/glinkster-website-facelift/ "Permanent Link: Glinkster website facelift") Whenever i publish a new article here in Gamingnewslink, I...
+No related posts.
 
 Related posts brought to you by [Yet Another Related Posts Plugin](http://mitcho.com/code/yarpp/).
 
 
   
-
-
-\-->
-
+  
   
 
 
