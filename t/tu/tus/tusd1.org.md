@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tusd1.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusd1.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/privacy.html) for the most accurate reproduction.*
 
 # Tucson Unified School District
 
-[Home](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/index.htm) > Privacy Statement
+[Home](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/index.htm) > Privacy Statement
 
 ### Privacy Statement
 
-TUSD respects the privacy of all visitors to the district web site at [www.tusd.k12.az.us](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/index.htm) (also known as [www.tusd1.org](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/index.htm)) and protects your privacy to the extent permitted by law. 
+TUSD respects the privacy of all visitors to the district web site at [www.tusd.k12.az.us](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/index.htm) (also known as [www.tusd1.org](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/index.htm)) and protects your privacy to the extent permitted by law. 
 
 You can read and download information at the TUSD web site without identifying yourself or providing any personal information.
 
@@ -33,7 +33,7 @@ The following types of information may be requested by online forms:
 
 
 
-**Note:** The [web site feedback form](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/feedback.html) may be filled out anonymously. Unless you choose to provide it, your email address will not be collected by completing this form. This form submits your responses through an anonymous account on our web server. 
+**Note:** The [web site feedback form](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/feedback.html) may be filled out anonymously. Unless you choose to provide it, your email address will not be collected by completing this form. This form submits your responses through an anonymous account on our web server. 
 
 Your responses to an online survey will be used to fulfill the purpose of that survey. 
 
@@ -83,5 +83,5 @@ Send comments about this web site or the district privacy statement to
 
 
 
-##### [Home](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/index.htm) | [District Information](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/distinfo/distinfo.html) | [Governing Board](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/govboard/govboard.html) | [Student Guidelines](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/stuguidelines/stuguidelines.html) |  
-[Departments](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/depart/depart.html) | [Schools](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/schools/schools.asp) | [Employment](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/employment/employment.html) | [News and Events](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/news/news.html) | [Contents](https://web.archive.org/web/20090626011920id_/http%3A//www.tusd1.org/contents/contents.html)
+##### [Home](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/index.htm) | [District Information](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/distinfo/distinfo.html) | [Governing Board](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/govboard/govboard.html) | [Student Guidelines](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/stuguidelines/stuguidelines.html) |  
+[Departments](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/depart/depart.html) | [Schools](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/schools/schools.asp) | [Employment](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/employment/employment.html) | [News and Events](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/news/news.html) | [Contents](https://web.archive.org/web/20091227025119id_/http%3A//www.tusd1.org/contents/contents.html)
