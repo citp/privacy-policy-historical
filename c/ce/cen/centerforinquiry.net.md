@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001113id_/http%3A//www.centerforinquiry.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227064555id_/http%3A//www.centerforinquiry.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Inquiry
 
@@ -27,4 +27,4 @@ We may provide a small data file called a "cookie" which is stored on your compu
 
 ### Questions
 
-If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please direct your questions by mail to: 3965 Rensch Rd. Amherst, NY 14228. You may also send an email to [info [at] centerforinquiry.net](mailto:info@centerforinquiry.net) ; please reference this Privacy Policy in your subject line. 
+If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please direct your questions by mail to: 3965 Rensch Rd. Amherst, NY 14228. You may also send an email to [info [at] centerforinquiry.net](mailto:info@centerforinquiry.net); please reference this Privacy Policy in your subject line. 
