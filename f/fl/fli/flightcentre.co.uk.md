@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218163417id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227151718id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
 
 # Cheap flights, holiday packages, hotels, car hire, touring and travel insurance | Flight Centre
 
@@ -86,16 +86,19 @@ Further correspondence regarding your request should only be made in writing to 
 We may recover from you any additional reasonable costs of supplying you with access to this information.
 
 **Opt-out**  
-Should you no longer wish to receive information on promotions and services we think may be of interest to you or participate in market research, kindly advise our Customer Service Department via our Email Enquiry Form.
+Should you no longer wish to receive information on direct mail promotions and services we think may be of interest to you or participate in market research, kindly advise our [Customer Service Department](https://web.archive.org/contactus/feedback/?feedback=5). If you would like to unsubscribe from the email newsletter please [click here](https://web.archive.org/newsletter-maintain).
 
 **Use of Cookies**  
 A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. We use cookies to enhance your interaction and convenience with our website and do not use cookies to record any personal information.
 
 **Linked Sites**  
-Our website may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy statements of any linked sites as their privacy policy may differ from ours.
+Flight Centre has partnered with reputable third parties to offer our site visitors a variety of products and services. This means that our website may contain links to, or framing of, external web sites. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than us. We are not responsible for the privacy practices or the content of such sites and therefore, make no warranties and accept no liability in relation to material contained on these. We encourage you to read the privacy statements of any linked or framed web site before submitting any personal information.
 
 **Feedback / Complaints**  
-We welcome your inquiries or comments about our Policy. Should you have any comments or complaints please contact our Customer Service Department via our Email Enquiry Form.
+We welcome your inquiries or comments about our Policy. Should you have any comments or complaints please contact our [Customer Service Department](https://web.archive.org/contactus/feedback/?feedback=1).
+
+**Phone Enquiries**  
+Calls may be recorded for training purposes.
 
 **Changes to our Policy**  
 From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time, should this occur the amendment would be posted on our website.
