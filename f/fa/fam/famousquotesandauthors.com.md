@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530222658id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227160010id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,9 +30,11 @@ If you have any comments or questions on the above privacy statement, please fee
 
 *This Privacy Statement was last updated on February 22, 2009.
 
-| 
-
-| Top 10 Authors  
+|  | Quote of the Day  
+---  
+The magic of first love is our ignorance that it can ever end.   
+  
+Top 10 Authors  
 ---  
 [](https://web.archive.org/authors/oscar_wilde_quotes.html)  
 [](https://web.archive.org/authors/john_f__kennedy_quotes.html)  
