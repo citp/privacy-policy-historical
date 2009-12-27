@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scidev.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626215659id_/http%3A//www.scidev.net/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scidev.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024614id_/http%3A//www.scidev.net/en/content/privacy-policy) for the most accurate reproduction.*
 
 # SciDev.Net
 
@@ -18,14 +18,14 @@ Another key benefit offered by registration is free access to our notices servic
 
 When signing-up on the SciDev.Net website, we require some personal information, including your name, profession, country and email address. We also ask some further questions in order to gain a clearer understanding of our users as a whole. These relate to your profession and place of work.
 
-Your personal information is password protected for security, and you can access and change your details and requirements at any time. Signing up with SciDev.Net is free and you can unsubscribe online or by emailing [support@scidev.net](https://web.archive.org/web/20090626215659id_/http://www.scidev.net/en/content/privacy-policy/support@scidev.net) with your details. We reserve the right to contact you by email from time to time about our activities, or to invite you to participate in surveys to help improve our services.
+Your personal information is password protected for security, and you can access and change your details and requirements at any time. Signing up with SciDev.Net is free and you can unsubscribe online or by emailing [support@scidev.net](https://web.archive.org/web/20091227024614id_/http://www.scidev.net/en/content/privacy-policy/support@scidev.net) with your details. We reserve the right to contact you by email from time to time about our activities, or to invite you to participate in surveys to help improve our services.
 
 As this data is stored in the United Kingdom, you have certain rights in British law under the Data Protection Acts 1984 and 1988. In particular, you have the right to be told what personal information we hold about you on our databases. If you require further information, you should write to us, at:
 
   
 SciDev.Net   
-97-99 Dean Street   
-London W1D 3TE   
+9–11 Richmond Buildings   
+London W1D 3HF  
 United Kingdom
 
 If you are concerned about how your information is used, we recommend that you review this privacy statement periodically, as SciDev.Net may update it from time to time.
@@ -34,7 +34,7 @@ If you feel that this site is not following its stated information policy, you m
 
 [back to top](http://web.scidev.net/en/content/privacy-policy/#top)
 
-###  **Cookies**
+### **Cookies**
 
 A cookie is a small file that contains a unique alphanumeric code selected randomly. This cookie is stored on your computer. Cookies are used, for example, to count the total number of unique users who are accessing a website over a particular period of time, or to see which pages are most frequently viewed.
 
