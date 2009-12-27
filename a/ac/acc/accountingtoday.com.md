@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219144038id_/http%3A//www.webcpa.com/share/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004629id_/http%3A//www.webcpa.com/global/privacy-policy.html) for the most accurate reproduction.*
 
-# WebCPA - Privacy Policy
+# Privacy Policy
 
-#### PRIVACY POLICY
+### Free WebCPA Site Registration
+
+**Sign-up today** and take advantage of member-only content—the kind of timely, cutting-edge industry insight that only WebCPA.com can deliver.
+
+**Free site registration entitles you to:**
+
+  * Exclusive online-only content
+  * Newsletters
+  * Online seminars...and much more!
+
+
+
+### Privacy Policy
 
 This Privacy Policy covers WebCPA's treatment of personally identifiable information we collect when you are on the WebCPA (AMG) site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies AMG does not own or control, or to individuals AMG does not employ or manage, including operators of sites to which you may link from the AMG Web site. 
 
