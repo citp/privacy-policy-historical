@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625115443id_/http%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227175538id_/http%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
 
 # Front Sight Firearms Training Institute
 
