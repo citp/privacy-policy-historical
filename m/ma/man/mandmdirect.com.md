@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525090544id_/http%3A//www.mandmdirect.com/Security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227145244id_/http%3A//www.mandmdirect.com/Security.asp) for the most accurate reproduction.*
 
-# Security details for M and M Direct. adidas , Ben Sherman, Diesel, Nike and loads more.
+# Security details for MandMDirect.com. adidas , Ben Sherman, Diesel, Nike and loads more.
 
 **Ordering and paying for online orders with M and M Direct is both safe and secure.** Security is one of the greatest fears when placing online orders and we as a company have invested in a totally secure and safe site for you to shop. Once you checkout, we encrypt all your details using Internet standard encryption technology (SSL).
 
@@ -13,7 +13,7 @@ We are committed to ensuring that your privacy is protected. This Privacy Policy
 **The information we collect and how we use it**  
 When you register with our website we need to know your name, e-mail address, correspondence address, contact telephone numbers and payment/credit card details.  
 We gather this information to allow us to process your orders and provide you with the information/goods requested.  
-From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We or our agents and sub-contractors may contact you by post, e-mail or telephone to ask you for your feedback and comments on our services. In addition we may use and share the information (which we will keep for a reasonable period) for marketing, host mailing, list rental and profiling your preferences and occasionally as a service to our customers make our customer lists available to carefully screened companies whose products or services we feel may be of interest to you, unless you have signified to us that you do not wish us to make your details available to third parties.
+From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We or our agents and sub-contractors may contact you by post, e-mail, SMS or telephone to ask you for your feedback and comments on our services. In addition we may use and share the information (which we will keep for a reasonable period) for marketing, host mailing, list rental and profiling your preferences and occasionally as a service to our customers make our customer lists available to carefully screened companies whose products or services we feel may be of interest to you, unless you have signified to us that you do not wish us to make your details available to third parties.
 
 **How we protect your information**  
 The Internet is not a secure medium. However we have put in place various security procedures as set out in this policy, including firewall security and password protection.  
@@ -23,7 +23,7 @@ You should be aware that information and data may be automatically collected thr
 In the event that this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchaser and their advisers and will be passed on to the new owners of the business.
 
 **Updating your details**  
-If any of the information that you have provided to us changes, for example if you change your e-mail address, name or payment details, please let us know the correct details by sending an e-mail to cservices@mandmdirect.com, or by sending a letter to M and M Direct Limited, Clinton Road, Leominster, Herefordshire, HR6 0SJ.
+If any of the information that you have provided to us changes, for example if you change your e-mail address, name or payment details, please let us know the correct details by sending an e-mail to [customerservices@mandmdirect.com](mailto:customerservices@mandmdirect.com), or by sending a letter to M and M Direct Limited, Clinton Road, Leominster, Herefordshire, HR6 0SJ.
 
 **Disclosure of information**  
 We comply with and are registered under the Data Protection laws in the United Kingdom. We take all reasonable care to prevent any unauthorised access to and use of your personal data.  
