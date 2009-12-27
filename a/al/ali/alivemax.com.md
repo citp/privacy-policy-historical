@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alivemax.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521210900id_/http%3A//www.alivemax.com/cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivemax.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227220658id_/http%3A//alivemax.com/cprivacy) for the most accurate reproduction.*
 
-# AliveMax - Privacy Policy
+# Privacy Policy
 
 AliveMax is committed to customer service and we intend to uphold this by providing a private and secure browsing experience. The following policy will help you to understand how we will treat your personal information. As we continue to improve our site and as we take advantage of developments in technology, this policy may change from time to time so please check this policy on an ongoing basis for revisions and updates.
 
