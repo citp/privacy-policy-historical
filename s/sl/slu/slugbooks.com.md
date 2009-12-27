@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411030114id_/http%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227192848id_/http%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SlugBooks.com - Privacy Policy
-
-Privacy Policy
 
 **SlugBooks.com**
 
@@ -33,8 +31,3 @@ Your access to some services, such as the ability to put books up for sale, is p
 **7\. Changes to Privacy Policy.** If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective 30 days from the time such new policies are posted, unless otherwise stated in the change.
 
 **8\. Effective Date.** This Privacy Policy is effective as of December 25, 2008.
-
-[« Go back home](http://www.slugbooks.com/index.php)
-
-  
-
