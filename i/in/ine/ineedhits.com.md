@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608031919id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227202906id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Free Search Engine Submission Information - ineedhits
 
@@ -28,6 +28,8 @@ If users have questions or concerns regarding this statement, they should first 
 This Privacy Policy covers [www.ineedhits.com](http://www.ineedhits.com/) treatment of personally identifiable information that is collected by our company when a customer is visiting our site and using our services. This policy also covers ineedhits.com's treatment of any personally identifiable information that business partner’s share with our company and added to our Web site database. This policy does not apply to the practices of companies that ineedhits.com does not own or control, or to people that ineedhits.com does not employ or manage.
 
 To place an order on our Web site, a user must first complete an order form. Whilst placing an order, a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have shown as an interest.
+
+If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
 Top
 
@@ -71,6 +73,8 @@ Second, we keep track of your IP address to help diagnose problems with our serv
 Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Except as otherwise stated in this Privacy Policy, we do not provide this information to third parties, except in combined form.
 
 Fourth, we post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+
+Fifth, We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
 Top
 
@@ -121,8 +125,8 @@ Top
 Contact us now using the Live Chat button in the top right corner of this page! Alternatively, visit the [Contact Us](https://web.archive.org/about/contact.aspx) for other options of getting in touch with ineedhits. 
 
 ineedhits.com Pty Ltd   
-Unit 5/166 Stirling Highway  
-Nedlands, W.A. 6009  
+Level 1 / 229 Stirling Highway  
+Claremont, W.A. 6010  
 Australia  
 [query@ineedhits.com](mailto:query@ineedhits.com)
 
