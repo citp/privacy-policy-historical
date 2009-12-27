@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627103650id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024029id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,6 +90,8 @@ Et Cetera
   
   
   
+  
+  
   |  |    
 
 
@@ -142,6 +144,6 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
   
   
 |    
-|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20090627103650id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
+|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20091227024029id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
 ---  
-Saturday, June 27, 2009 | • | Copyright © 1999-2009 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
+Saturday, December 26, 2009 | • | Copyright © 1999-2009 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
