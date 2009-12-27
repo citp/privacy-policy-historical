@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the govdelivery.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621222153id_/http%3A//www.govdelivery.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govdelivery.com privacy policy that was archived on 2009-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227074543id_/http%3A//www.govdelivery.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy Policy | GovDelivery: eMail &amp; Digital Subscription Management for Government</title>
 
 <link rel="stylesheet" href="css/style.css" type="text/css">
 
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/jquery.validate.js"></script>
-<script type="text/javascript" src="js/hoverIntent.js"></script>
-<script type="text/javascript" src="js/superfish.js"></script>
-<script type="text/javascript" src="js/fancyzoom.min.js"></script>
-
+<script type="text/javascript" src="http://www.govdelivery.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.govdelivery.com/js/hoverIntent.js"></script>
+<script type="text/javascript" src="http://www.govdelivery.com/js/superfish.js"></script>
 <script type="text/javascript" charset="utf-8">
 	$(document).ready(function() {
-		$('div.photo a').fancyZoom({scaleImg: true, closeOnClick: true});
 		$('ul.sf-menu').superfish({ 
             autoArrows:  false,                           // disable generation of arrow mark-up 
             dropShadows: false                            // disable drop shadows 
         }); 
+	});
+
+	$(function() {
+		$(".external").attr("target","_blank");
+		$(".news_link").attr("target","_blank");
 	});
 </script>
 
@@ -54,9 +55,11 @@ function preload(img, on)
 
 <link rel="stylesheet" href="css/nav.css" type="text/css">
 
-</head>
-
-<body bgcolor="EFEFEF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!--[if IE]>
+<LINK REL="stylesheet" HREF="css/nav_ie.css" type="text/css">
+<![endif]--></head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
 <td width="100%" align="center">
 	<!-- header -->
@@ -65,7 +68,7 @@ function preload(img, on)
 	<td width="11"><img src="images/clear.gif" width="11" height="72" alt="" border="0"></td>
 	<td width="179" valign="top"><img src="images/clear.gif" width="1" height="29" alt="" border="0"><br><a href="index.php"><img src="images/header_logo.gif" width="179" height="35" alt="" border="0"></a></td>
 	<td width="724" valign="top" align="right" class="headerText"><img src="images/clear.gif" width="1" height="17" alt="" border="0"><br>
-	<strong>(866) 276-5583</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://service.govdelivery.com/service/edit/" class="headerlink" target="_blank">Client Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../cust_support.php" class="headerlink">Client Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="site_map.php" class="headerlink">Site Map</a></td>
+	<strong>(866) 276-5583</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://service.govdelivery.com/service/edit/" class="headerlink">Client Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../cust_support.php" class="headerlink">Client Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="site_map.php" class="headerlink">Site Map</a></td>
 	</tr>
 	</tbody></table>	<!-- end header -->
 	
@@ -85,13 +88,13 @@ function preload(img, on)
 		<td width="90" height="32"><img src="images/nav_left.gif" width="90" height="32" alt="" border="0"></td>
 	    	<td width="804" height="32">
 <div id="nav">
-      <ul class="sf-menu sf-js-enabled">
-         <li class="">
+      <ul class="sf-menu">
+         <li>
             <a href="solutions.php" class="toplink">SOLUTIONS</a>
-            <ul style="display: none; visibility: hidden;">
-               <li class="">
+            <ul>
+               <li>
                   <a href="benefits.php">GovDelivery Benefits<span class="sf-sub-indicator">»</span></a>
-					<ul style="display: none; visibility: hidden;">
+					<ul>
 						<li>
 							<a href="sign_up.php">Subscription Sign-Up</a>
 						</li>
@@ -103,39 +106,46 @@ function preload(img, on)
                        </li>
 					</ul>
 				</li>
-               <li class="">
+               <li>
                   <span class="lessPadding"><a href="solutions.php">Email &amp; Digital Subscription Management<span class="sf-sub-indicator">»</span></a></span>
-					<ul style="display: none; visibility: hidden;">
+					<ul>
                            <li>
-                              <a href="personalization.php">Personalization Engine</a>
+                              <a href="personalization.php">Personalization</a>
                            </li>
                            <li>
-                              <a href="automation.php">Automation Engine</a>
+                              <a href="automation.php">Automation</a>
                            </li>
                            <li>
-                              <a href="deliverability.php">Delivery Engine</a>
+                              <a href="deliverability.php">Delivery</a>
                            </li>
 					</ul>
                </li>
-               <li class="">
+               <li>
                   <a href="web20.php">Web 2.0 &amp; Social Media<span class="sf-sub-indicator">»</span></a>
-                  <ul style="display: none; visibility: hidden;">
+                  <ul>
                      <li>
-                        <a href="collab_network.php">Web 2.0 Collaboration</a>                     
+                        <a href="discuss_this_email.php">Discuss This Email Blog</a>
+					</li>
+					<li>
+						<a href="govloop.php">GovLoop</a>
+					</li>
+                     <li>
+                     <a href="info_sharing_widget.php">Information Sharing Widgets</a>
+					</li>
+                     <li>
+                        <a href="sharethis.php">Share This Email</a>
 					</li>
                      <li>
 						<a href="socialmedia.php">Social Media Integration</a>
 					</li>
+
                      <li>
-                        <a href="discuss_this_email.php">Discuss This Email Blog</a>                     </li>
-                     <li>
-                        <a href="sharethis.php">Share This Email</a>                     </li>
-                     <li>
-                     <a href="info_sharing_widget.php">Information Sharing Widgets</a></li>
+                        <a href="collab_network.php">Web 2.0 Collaboration</a>                     
+					</li>
                   </ul>
               </li>
 				<li>
-					<a href="mobile.php">GovDelivery Mobile<!-- <span class="sf-sub-indicator">&#187;</span> --></a>
+					<a href="mobile.php">GovDelivery Text Messaging<!-- <span class="sf-sub-indicator">&#187;</span> --></a>
 					<!-- <ul>
 						<li>
 							<a href="text_messaging.php">Text Messaging</a>
@@ -161,9 +171,9 @@ function preload(img, on)
 				</li>					
             </ul>
          </li>
-         <li class="">
+         <li>
             <a href="clients.php" class="toplink">CLIENTS</a>
-            <ul style="display: none; visibility: hidden;">
+            <ul>
                <li>
                   <a href="clients.php">Client Overview</a>
                </li>
@@ -183,6 +193,9 @@ function preload(img, on)
                   <a href="transit.php">Transit Authorities</a>
                </li>
                <li>
+                  <a href="health.php">Health &amp; Human Services</a>
+               </li>
+               <li>
                   <a href="international.php">United Kingdom</a>
                </li>
                <li>
@@ -191,14 +204,11 @@ function preload(img, on)
                <li>
                   <a href="testimonials.php">Testimonials</a>
                </li>
-               <li>
-                  <a href="health.php">Health &amp; Human Services</a>
-               </li>
             </ul>
          </li>
-         <li class="">
+         <li>
             <a href="resources.php" class="toplink">RESOURCES</a>
-            <ul style="display: none; visibility: hidden;">
+            <ul>
                <li>
                   <a href="resources.php">Resources Overview</a>
                </li>
@@ -209,9 +219,8 @@ function preload(img, on)
                   <a href="webinar_req.php">Webinars</a>
                </li>
                <li>
-                  <a href="i_sheets_and_whitepapers.php">Fact Sheets / Whitepapers</a>
-               </li>
-               <li>
+                  <a href="i_sheets_and_whitepapers.php">Brochures &amp; Whitepapers</a>               </li>
+            <li>
                   <a href="multimedia_presentations.php">Presentations</a>
                </li>
                <li>
@@ -222,40 +231,37 @@ function preload(img, on)
                </li>
             </ul>
          </li>
-         <li class="">
+         <li>
             <a href="news.php" class="toplink">NEWS &amp; EVENTS</a>
-            <ul style="display: none; visibility: hidden;">
+            <ul>
                <li>
-                  <a href="news.php">Latest News</a>
+                  <a href="news.php">News</a>
                </li>
                <li>
-                  <a href="events.php">Upcoming Events</a>
+                  <a href="events.php">Events</a>
                </li>
                <li>
                   <a href="newsletters.php">Newsletters</a>
                </li>
             </ul>
          </li>
-         <li class="">
+         <li>
             <a href="company_overview.php" class="toplink">COMPANY</a>
-            <ul style="display: none; visibility: hidden;">
+            <ul>
                <li>
-                  <a href="company_overview.php">Company Overview</a>
-               </li>
+                  <a href="company_overview.php">Company Overview</a>               </li>
                <li>
-                  <a href="partners.php">Partners</a>
-               </li>
+                  <a href="partners.php">Partners</a>               </li>
                <li>
-                  <a href="management.php">Management Team</a>
-               </li>
+                  <a href="management.php">Management Team</a>               </li>
                <li>
-                  <a href="careers.php">Career Opportunities</a>
-               </li>
+                  <a href="careers.php">Career Opportunities</a>               </li>
+               <li><a href="govloop.php">GovLoop</a></li>
             </ul>
          </li>
-         <li class="toplink">
+         <li>
             <a href="contact.php" class="toplink">CONTACT US</a>
-            <ul style="display: none; visibility: hidden;">
+            <ul>
                <li>
                   <a href="contact.php">Contact Overview</a>
                </li>
@@ -444,7 +450,7 @@ function preload(img, on)
 	<tr>
 	<td colspan="3" width="914" align="center" class="headerText"><img src="images/clear.gif" width="1" height="10" alt="" border="0"><br>
 	Copyright © 2009 GovDelivery, Inc.  All rights reserved.  |  GovDelivery, the email and digital subscription management for government company.<br>
-	— <span class="text">408 St. Peter Street, Suite 600</span>, Saint Paul, MN 55102  |  (866) 276-5583  |  <a href="mailto:info@govdelivery.com" class="headerlink">info@govdelivery.com</a> —<br>
+	— 408 St. Peter Street, Suite 600, Saint Paul, MN 55102  |  (866) 276-5583  |  <a href="mailto:info@govdelivery.com" class="headerlink">info@govdelivery.com</a> —<br>
 
 	 <a href="solutions.php" class="footer">Solutions</a>  |   <a href="clients.php" class="footer">Clients</a>  |   <a href="resources.php" class="footer">Resources</a>  |   <a href="news.php" class="footer">News &amp; Events</a>  |   <a href="company_overview.php" class="footer">Company</a>  |   <a href="careers.php" class="footer">Careers</a>  |   <a href="contact.php" class="footer">Contact Us</a> — <a href="site_map.php" class="footer">Site Map</a>  |  <a href="privacy_policy.php" class="footer">Privacy Policy</a><br>
 	 <img src="images/clear.gif" width="1" height="10" alt="" border="0">
@@ -476,4 +482,4 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 <!-- End of HubSpot Logging Code -->
 
 
-<div id="zoom" style="display:none;">                   <table id="zoom_table" style="border-collapse:collapse; width:100%; height:100%;">                     <tbody>                       <tr>                         <td class="tl" style="background:url(images/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="tm" style="background:url(images/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;"></td>                         <td class="tr" style="background:url(images/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="ml" style="background:url(images/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;"></td>                         <td class="mm" style="background:#fff; vertical-align:top; padding:10px;">                           <div id="zoom_content">                           </div>                         </td>                         <td class="mr" style="background:url(images/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="bl" style="background:url(images/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="bm" style="background:url(images/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;"></td>                         <td class="br" style="background:url(images/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                     </tbody>                   </table>                   <a href="#" title="Close" id="zoom_close" style="position:absolute; top:0; left:0;">                     <img src="images/closebox.png" alt="Close" style="border:none; margin:0; padding:0;">                   </a>                 </div></body></html>
+</body></html>
