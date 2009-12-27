@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622234213id_/http%3A//www.naag.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227100309id_/http%3A//www.naag.org/privacy_policy.php) for the most accurate reproduction.*
 
 # NAAG | Privacy Policy
 
@@ -55,11 +55,11 @@ NAAG's "Send this story to a friend" service: A reader can choose to electronica
 
 **Surveys:** Occasionally NAAG conducts user surveys to better target our content to our audience. For public surveys we sometimes share the aggregated demographic information in these surveys. We never share any of this information about specific individuals with any third party. 
 
-**Educational Activities:** NAAG may offer from time-to-time educational activities in which we request certain personal information. At a minimum, the required information includes name and email address; in some cases, the user must answer mandatory survey questions about a range of other data. The information gathered in the activity form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact you if follow-up is requested or necessary. There are two situations in which NAAG will divulge this information to a third-party–provided the user gives express consent: 
+**Educational Activities:** NAAG may offer from time-to-time educational activities in which we request certain personal information. At a minimum, the required information includes name and email address; in some cases, the user must answer mandatory survey questions about a range of other data. The information gathered in the activity form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact you if follow-up is requested or necessary. There are two situations in which NAAG will divulge this information to a third-party?provided the user gives express consent: 
 
-> •A user may expressly choose to receive additional information from a educational activity partner, in which case the user's personally identifiable information is divulged to the partner;
+> ?A user may expressly choose to receive additional information from a educational activity partner, in which case the user's personally identifiable information is divulged to the partner;
 > 
-> •Some of the activities may be hosted on the NAAG site but administered by a partner; in such cases, the information a user provides is passed on to the third party.
+> ?Some of the activities may be hosted on the NAAG site but administered by a partner; in such cases, the information a user provides is passed on to the third party.
 
 Because the rules and terms of each educational activity can vary, information about each activity is clearly posted during the event.
 
