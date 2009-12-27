@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the articopia.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090104id_/http%3A//www.articopia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articopia.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227230323id_/http%3A//www.articopia.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Articopia.com
+# Privacy Policy - Articopia
 
-## Privacy Policy
-
-  
-**Registration Forms**  
-
+**Registration Forms**
 
 Our site's registration form and account management form require users to give us contact information (like their name and email address) and demographic information (like their birthdate). Contact information from the registration forms is used to send information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Pictures/Avatars uploaded by users are used purely to personalize the website and the articles. They are not shared with any outside party.
 
@@ -38,6 +34,5 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: admin[at]articopia.com.
 
-  
   
 
