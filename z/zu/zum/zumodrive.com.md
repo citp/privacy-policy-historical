@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumodrive.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327121400id_/http%3A//zumodrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumodrive.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227111403id_/http%3A//www.zumodrive.com/privacy) for the most accurate reproduction.*
 
 # ZumoDrive - Privacy Policy
 
