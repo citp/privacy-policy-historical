@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kensavage.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154544id_/http%3A//www.kensavage.com/contact-ken-savage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensavage.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227183009id_/http%3A//www.kensavage.com/contact-ken-savage/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,3 +37,5 @@ If you have submitted personal information to KenSavage.com electronically and w
 KenSavage.com reserves the right to modify this privacy policy at any time. KenSavage.com will promptly reflect any such modifications in these web pages.
 
 If you have any questions or concerns regarding this statement, you should email us by using this form:
+
+[privacy](http://www.kensavage.com/contact-ken-savage/privacy-policy/ "privacy") (1)
