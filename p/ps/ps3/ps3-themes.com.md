@@ -1,25 +1,21 @@
-> *The following text is extracted and transformed from the ps3-themes.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626181521id_/http%3A//www.ps3-themes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3-themes.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022509id_/http%3A//www.ps3-themes.com/privacy-policy) for the most accurate reproduction.*
 
-# PS3 Themes - #1 Site for PS3 Themes » Privacy Policy
+# PS3 Themes – #1 Site for PS3 Themes » Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit.
+Privacy has become a major concern on the Internet. PS3-Themes.com knows that you care how information about you is used and shared. This privacy statement describes how PS3-Themes.com deals with your information. By visiting PS3-Themes.com, you are accepting the practices described in this privacy statement. 
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+### Personal Information
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads.
+PS3-Themes.com does not require you to disclose personal information anywhere on the site. However, PS3-Themes.com may offer additional features which require you to fill out forms requiring your personal information. We ask for your name, email address, city, country and birth date. The email address is used to send you a registration confirmation including activation link to active your account. The other personal details are used for display on your profile. Your IP address is used to gather broad demographic information and to track your general visiting patterns. Your IP address is also used to help diagnose technical problems. PS3-Themes.com does not sell, rent, or trade your personal information with any third parties.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+### Cookies
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. PS3-Themes.com uses cookies in parts of the website. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-<http://www.google.com/privacy.html>  
-<http://www.fastclick.com/about/privacy.html>[  
-](http://www.exponential.com/who-we-are/privacy-policy.jsp)
+### Advertisers
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The advertisements may contain cookies. The advertisements are necessary to finance the costs of keeping this site online.
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
+### Contact
 
-Consumers can access this information by e-mailing us from the contact form.With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you are welcome to contact us.
