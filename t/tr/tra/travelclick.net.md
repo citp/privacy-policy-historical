@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelclick.net privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625020039id_/http%3A//www.travelclick.net/privacy-policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelclick.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227132444id_/http%3A//www.travelclick.net/privacy-policy/index.cfm) for the most accurate reproduction.*
 
 # TravelCLICK | Privacy Policy
 
