@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alighthouse.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022827id_/http%3A//www.alighthouse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alighthouse.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227081654id_/http%3A//www.alighthouse.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-alighthouse.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others. 
+Alighthouse.com is the sole owner of the information collected on this site. We will "NOT" sell, share, or rent this information to others. 
 
 We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout alighthouse.com's Web site. Such information is not correlated with any personal information. 
 
