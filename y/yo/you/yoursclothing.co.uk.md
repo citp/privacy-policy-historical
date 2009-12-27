@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104219id_/http%3A//www.yoursclothing.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024420id_/http%3A//www.yoursclothing.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,6 @@ A cookie is a small information file that is sent to your computer and is stored
 
 We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement please do not hesitate to contact a customer service representative of the Yours Clothing team, who will be delighted to answer any questions you may have.
 
-You can contact customer service via email - [customerservice@yoursclothing.co.uk](mailto:customerservice@yoursclothing.co.uk)
+You can contact customer service via email - [Please use our contact form.](https://web.archive.org/ContactUs.aspx)
 
 [www.yoursclothing.co.uk](http://www.yoursclothing.co.uk/) | [www.sizeup.co.uk](http://www.sizeup.co.uk/)
