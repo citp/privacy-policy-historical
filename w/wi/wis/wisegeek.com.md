@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisegeek.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315063622id_/http%3A//www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisegeek.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227133643id_/http%3A//www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
 
 # What is the wiseGEEK Privacy Policy?
 
@@ -30,11 +30,15 @@ You can disable cookies in your web browser so that cookies are not set without 
 
 ### Other Sites
 
-wiseGEEK’s Privacy Policy only applies to wiseGEEK content. Other websites, including those that advertise on wiseGEEK or that wiseGEEK links to, may have their own policies.
+wiseGEEK’s Privacy Policy only applies to wiseGEEK content. Other websites, including those that advertise on wiseGEEK, link to wiseGEEK, or that wiseGEEK links to, may have their own policies.
 
 When you click on these ads or links, these third party advertisers or sites automatically receive your IP address. Other technologies, like cookies, JavaScript, or web beacons, may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
 wiseGEEK has no control over, and is not responsible for, the ways these other websites collect or use your information. You should consult the respective privacy policies of these third-party ad servers for more information on their practices as well as for instructions on how to opt-out of certain practices.
+
+### Google's DoubleClick DART Cookies
+
+As a third party advertising vendor, Google will place a DART cookie on your computer when you visit a site using DoubleClick or Google AdSense advertising. Google uses this cookie to serve ads specific to you and your interests. The ads shown may be targeted based on your previous browsing history. DART cookies only use non-personally identifiable information. They _do not_ track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You may prevent Google from using DART cookies on your computer by visiting the [Google ad and content network privacy policy](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
 
 ### Policy Changes
 
@@ -50,4 +54,4 @@ PO Box 2130
 Sparks, NV 89432  
 U.S.A.
 
-_This page was last updated in May 2008._
+_This page was last updated in April 2009._
