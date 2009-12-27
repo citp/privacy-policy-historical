@@ -1,68 +1,94 @@
-> *The following text is extracted and transformed from the bagfull.net privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420150604id_/http%3A//www.bagfull.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagfull.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227120942id_/http%3A//www.bagfull.net/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Details of how customer's information is protected | Bagfull
 
-  
-**Information Collection and Use**  
-Bagfull is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
+Bagfull knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagfull Help Desk](https://www.bagfull.net/supporttickets.php).  
+.
 
-Bagfull collects information from our users at several different points on our Web site. 
+* * *
 
-**Registration**  
-In order to buy services at several parts of this Web site, a user must first complete a registration form. 
+### What personal information about customers does Bagfull gather?
 
-During registration a user is required to give their contact information (such as name and e-mail address). This information is used only to contact the user about the services on our site for which they have expressed interest. 
+  * **Information You Give Us:**
 
-**Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. 
+We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting), and communicating with you.
 
-For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. 
+  * **Automatic Information:**
 
-If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. 
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locater (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
-These parties are not allowed to use personally identifiable information gathered from our visitors. 
 
-**Links**  
-This web site may contain links to other sites. Please be aware that we, Bagfull Interweb Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. 
+### What about cookies?
 
-This privacy statement applies solely to information collected by this web site. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, Bagfull utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. This information is used only for the delivery of our publication. 
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests.  
-Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. 
 
-Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-**Suggest this site**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's email address. 
 
-Bagfull Solutions will automatically send the friend a one-time email inviting them to visit the site. Bagfull Solutions does not store this information but uses it only for the sole purpose of sending this one-time email. 
+### Does Bagfull share the information it receives?
 
-**Security**  
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, your information is protected both online and off-line. 
+Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent.
 
-**Welcome Emails**  
-We send all new customers a welcoming email with the order details and other specifications of their order. Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. 
+  * **WHOIS:**
 
-**Site and Service Updates**  
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+We are required by the Internet Corporation for Assigned Names and Numbers (“ICANN”), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a “port 43″ WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your “WHOIS Information.” Please note that we may not be able to control how members of the public may use the WHOIS Information.
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. 
 
-Users who no longer wish to receive our newsletter or promotional from us may opt-out of receiving these communications by using the link provided at the bottom of each email. 
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  
-If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. 
+  * **Advertisers:**
 
-Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+
+
+
+  * **Business Transfer:**
+
+As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Bagfull or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.
+
+
+
+  * **Compliance:**
+
+We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Bagfull, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+
+
+
+### How secure is information about me?
+
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents.
+
+  * Bagfull has gone to great lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program. For example, we redirect you to the payment gateway to make the credit card payments and do not store your credit card information with us.
+
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+
+
+
+
+### What information can I access?
+
+  * Bagfull gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
+
+
+
+### Links
+
+  * Sites provided by Bagfull contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+
+
+### Children
+
+  * Bagfull does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.
+
+
+
+### Conditions of use, notices and revisions
+
+  * If you choose to visit Bagfull, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+
+
