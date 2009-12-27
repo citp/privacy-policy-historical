@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617182412id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003424id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
 
 # Adam4Adam A club for gay men
 
@@ -13,9 +13,9 @@ Except as otherwise expressly discussed in this Privacy Policy, this document on
 **ADAM4ADAM GATHERS THE FOLLOWING INFORMATION:**
 
 **Cookies**  
-Our Web site sets cookies to administer our site, to gather broad demographic information, to deliver content requested by you or specific to your interests, to customize our Web site for you, and to save your member name and city so that you don't have to enter it each time you visit. 
+Our Web site sets cookies to administer our site, to gather broad demographic information, to deliver content requested by you or specific to your interests, to customize our Web site for you, and to save your username and city so that you don't have to enter it each time you visit. 
 
-A cookie is a small line of data that is stored on your hard drive. Some cookies are only stored for the duration of a single browser session; others persist across sessions. We only save your password and member name if you tell us to do so; your password is encrypted, stored on your computer and transferred over the Internet in an encrypted format. Keep in mind that anyone using your Web browser would be able to access the Adam4Adam Site as you if you choose to store your member name and password. Adam4Adam's Web servers also set session ID cookies that are used to allow our servers to deliver information you request (e.g., search results). Members who do not want to receive cookies can instruct their Web browsers to refuse them; however, doing so may prevent certain parts of Adam4Adam's site from working (e.g., anything that requires login, including member chat, etc). While cookies set by Adam4Adam may be used to collect personally identifiable information and can be traced to an individual user, this personally identifiable information is used only for internal purposes., 
+A cookie is a small line of data that is stored on your hard drive. Some cookies are only stored for the duration of a single browser session; others persist across sessions. We only save your password and member name if you tell us to do so; your password is encrypted, stored on your computer and transferred over the Internet in an encrypted format. Keep in mind that anyone using your Web browser would be able to access the Adam4Adam Site as you if you choose to store your member name and password. Adam4Adam's Web servers also set session ID cookies that are used to allow our servers to deliver information you request (e.g., search results). Members who do not want to receive cookies can instruct their Web browsers to refuse them; however, doing so may prevent most parts of Adam4Adam's site from working (e.g., anything that requires login, including member chat, etc). While cookies set by Adam4Adam may be used to collect personally identifiable information and can be traced to an individual user, this personally identifiable information is used only for internal purposes. 
 
 **Registration Form**  
 Membership on the Adam4Adam Site is completely optional. Adam4Adam's registration form requires users to give their email address. On our join form, required fields are marked. Adam4Adam will never share e-mail addresses with third party organizations without your express permission. 
@@ -50,11 +50,8 @@ Adam4Adam reserves the right to share some or all of your personal information w
 **OFF-SITE LINKS**  
 Adam4Adam provides links to other sites. Adam4Adam is not responsible for the privacy practices or contents of these other sites. 
 
-**SYNDICATED ADAM4ADAM CONTENT**  
-Adam4Adam may syndicate its content to and distribute its content through other sites on the Internet. Although you may see the Adam4Adam logo on such other sites, your activity on such other sites is governed by the privacy statement on the site you are visiting. 
-
 **OPT-OUT**  
-Our site provides users the opportunity upon registration to opt out of receiving communications from us and from our partners, affiliates, and advertisers. These options are available during registration, and through the notification setting on the [MY ACCOUNT](http://www.adam4adam.com/?section=35) page. You may further opt out of certain information uses when providing information on forms such as the Premium Personals profile forms. Please note that even if you have chosen to opt out of receiving communications from us, we reserve the right to contact you by e-mail about material changes to this privacy policy or the Adam4Adam User Agreement. 
+Our site provides users the opportunity upon registration to opt out of receiving communications from us and from our partners, affiliates, and advertisers. These options are available during registration, and through the notification setting on the [MY ACCOUNT](http://www.adam4adam.com/?section=35) page. Please note that even if you have chosen to opt out of receiving communications from us, we reserve the right to contact you by e-mail about material changes to this privacy policy or the Adam4Adam User Agreement. 
 
 **DELETE/DEACTIVATE INFORMATION**  
 Adam4Adam gives users the following options for removing their information from our database: 1. Towards the bottom of the MY ACCOUNT page click on the [Delete Account](http://www.adam4adam.com/?section=35&action=delete_account) link and follow the instruction provided. 2. You can send e-mail to support@Adam4Adam.com. Please be sure to include your name, username, and e-mail address. 
