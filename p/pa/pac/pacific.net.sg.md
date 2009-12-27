@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pacific.net.sg privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045031id_/http%3A//www.pacific.net.sg/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.net.sg privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024840id_/http%3A//www.pacific.net.sg/terms/privacy.htm) for the most accurate reproduction.*
 
 # Pacnet - Privacy Policy
 
-  * [Legal Notice](https://web.archive.org/web/20090617045031id_/http%3A//www.pacific.net.sg/terms/legal.htm)
+  * [Legal Notice](https://web.archive.org/web/20091227024840id_/http%3A//www.pacific.net.sg/terms/legal.htm)
   * Privacy Policy
-  * [Terms & Conditions](https://web.archive.org/web/20090617045031id_/http%3A//www.pacific.net.sg/terms/t&c_general.htm)
-  * [Acceptable Use Policy](https://web.archive.org/web/20090617045031id_/http%3A//www.pacific.net.sg/terms/aup.htm)
-  * [Copyright Act Notification](https://web.archive.org/web/20090617045031id_/http%3A//www.pacific.net.sg/terms/copyright.htm)
+  * [Terms & Conditions](https://web.archive.org/web/20091227024840id_/http%3A//www.pacific.net.sg/terms/t&c_general.htm)
+  * [Acceptable Use Policy](https://web.archive.org/web/20091227024840id_/http%3A//www.pacific.net.sg/terms/aup.htm)
+  * [Copyright Act Notification](https://web.archive.org/web/20091227024840id_/http%3A//www.pacific.net.sg/terms/copyright.htm)
 
 | 
 
