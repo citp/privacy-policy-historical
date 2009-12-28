@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valdosta.edu privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627115853id_/http%3A//www.valdosta.edu/it/security/policies/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valdosta.edu privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228092655id_/http%3A//www.valdosta.edu/it/security/policies/privacypolicy.shtml) for the most accurate reproduction.*
 
 # VSU Privacy Policy
 
