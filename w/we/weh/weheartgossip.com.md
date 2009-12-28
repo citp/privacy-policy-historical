@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weheartgossip.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627215335id_/http%3A//reddit.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weheartgossip.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228093442id_/http%3A//reddit.com/help/privacypolicy) for the most accurate reproduction.*
 
 # reddit.com: help
 
