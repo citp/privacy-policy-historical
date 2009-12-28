@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627020027id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228164133id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
 
 # ACDSee Photo Software
 
@@ -54,7 +54,7 @@ Information submitted to ACD may be transferred across national boundaries to or
 
 At any time you may review, alter or remove any personal information, including the permitted uses of your personal information, by contacting ACD at:
 
-ACD Systems Ltd.  
+ACD Systems.  
 Privacy/Customer Service  
 200 - 1312 Blanshard Street  
 Victoria,  
@@ -76,7 +76,3 @@ This information is used to present you with relevant content through the InTouc
 The client IP is necessary to establish the connection with ACD's server and is known to the server the moment you connect. The application ID is constructed from a Globally Unique Identifier (GUID). A GUID is an alphanumeric identifier used to indicate a unique installation of a product and is used in many popular software applications. An application's GUID is randomly generated the first time an ACD application is run. The application ID is generated via operating system functions, and is stored by your host application for logging.
 
 When connecting with the ACDInTouch server, your application ID is used to uniquely identify your connection. This ID does not contain any personally identifiable information.
-
-Copyright © 2004 - 2006 by ACD Systems Ltd. All rights reserved.
-
-ACD, ACD Systems, ACDIntouch, and ACDSee are trademarks of ACD Systems Ltd. registered in Canada, the United States, and in other countries.
