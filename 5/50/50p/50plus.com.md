@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619062548id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085643id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
 
 # 50Plus.com Privacy Policy
 
