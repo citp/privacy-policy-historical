@@ -1,159 +1,125 @@
-> *The following text is extracted and transformed from the floridahospital.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629152130id_/http%3A//www.floridahospital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridahospital.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228095114id_/http%3A//www.floridahospital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Florida Hospital | Orlando's Most Preferred Hospital | Privacy Policy
 
-**Notice of Patient Privacy Practices** Florida Hospital believes your health information is personal and should be kept confidential. We are committed to keeping your health information private and we are legally required to respect your confidentiality.
+Our Privacy Policy / Terms & Conditions of Use  
+Last Revised:  June 3, 2008
 
-Effective Date: April 14, 2003
+Thanks for visiting our website. Adventist Health System appreciates your interest in our company and health care facilities.  We urge you to read our Privacy Policy / Terms and Conditions of Use (“Privacy Policy”) so that you will know how we maintain and protect any information that you may give us through our website. 
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED UNDER FEDERAL AND FLORIDA LAW AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+Please also remember that your use of our website means that you have agreed to abide by all of the terms and conditions of this Privacy Policy. 
 
-What type of medical information is covered by this notice?
+Information We Receive
 
-Medical information covered by this Notice is information that identifies you or could be used to identify you that is collected from you or created or received by Florida Hospital and that relates to your past, present or future physical or mental health condition, including healthcare services provided to you and payment for such healthcare services.
+We receive information in different ways through our website.  The information we receive from users of our website can be categorized as being either anonymous, personally identifiable, or protected health information.
 
-If you have any questions about this notice, please contact Florida Hospital Office of Regulatory Administration, 407.303.9659.
+Anonymous Information; Log Files
 
-Section A: Who Will Follow This Notice?
+Anonymous information refers to information that cannot be tied to a specific individual. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. Many persons who access our website do not use the personalization features or member services that are available to them through our website, and therefore these individuals are anonymous to us and the data we collect from them does not enable us to identify them in any personal way.  For example, we may know that 5,000 users visit our website every day and that 3,000 of them reside in Florida, but we may not know their names or where they live.  All anonymous information we collect through our website is collected when your web browser accesses our website. When you surf the Internet, your web browser automatically transmits information about your preferences to our server every time you visit our website.  The anonymous information collected by us through your web browser helps us to monitor audience size, measure traffic patterns and identify popular services and information within our website.  We use this information to improve our services to you and to help develop improved services based on user interests, behavior and demographics. We do not link this automatically-collected data to personally identifiable or protected health information.  
 
-This notice describes Florida Hospital’s practices regarding the use and disclosure of your medical information, including use and disclosure by:
+Personally Identifiable Information
 
-•    Any healthcare professional authorized to enter information into your medical chart maintained by Florida Hospital.  
-•    All departments and units of Florida Hospital.  
-•    Any member of a volunteer group we allow to help you while you are receiving healthcare services from Florida Hospital.  
-•    All employees, staff and other members of the Florida Hospital workforce.
+Personally identifiable information refers to information that can be used to identify you, such as your name, address, age, etc.  In many cases, we ask for this information to provide the personalization feature or member service you wish to use.  The amount of personally identifiable information that we know about you is entirely up to you.  We will only know personally identifiable information if you choose to share this information about yourself; however, some features or services may not be available unless we obtain a certain amount of personally identifiable information.
 
-This document will be used for the Florida Hospital entities as follows: Hospital Facilities, Long Term Acute Care Facilities, Ambulatory Surgical Centers, Walk-In Care Facilities, Staff and Contracted Physicians, Emergency Care Facilities, Family Health Physician Centers, Emergency Medical/Ambulance Services, and Home Care Services. All these entities, sites and locations follow the terms of this notice.
+We collect personally identifiable information when you voluntarily provide it when, for example, requesting a newsletter that we produce, indicating that you would like to receive certain targeted information on topics that interest you, applying for classes or donating money through our on-line foundation. 
 
-Section B: Our Pledge Regarding Medical Information.
+Protected Health Information
 
-We understand that medical information about you and your health is personal. We are committed to protecting medical information about you. We create a record of the care and services you receive at the hospital. We need this record to provide you with quality care and to comply with certain legal requirements. This notice applies to all of the records of your care generated or maintained by Florida Hospital, whether made by Florida Hospital personnel or your personal doctor. Your personal doctor may have different policies or notices regarding the doctor’s use and disclosure of your medical information created in the doctor’s office or clinic.
+Protected health information, for purposes of this website, refers to the information you provide when, for example, you pay your health care bills online, make an appointment, or pre-register for a health care service, and is further explained under our Notice of Patient Privacy Practices [ADD LINK]. 
 
-This notice will tell you about the ways in which we may use and disclose medical information about you. We also describe your rights and certain obligations we have regarding the use and disclosure of medical information.
+Cookies
 
- We are required by law to:
+In addition, we may also collect information through the use of "cookies".  When you visit our website for the first time, our server sends a cookie to your computer's hard drive through your web browser.  A cookie is a small text file that contains a unique identification number that is sent from us and stored on your computer.  Cookies enable us to recognize your web browser whenever you visit our website through the unique identification number assigned to the cookie, and this information is stored to help facilitate your use of the website the next time you visit.
 
-•    Use our best efforts to keep medical information that identifies you private;  
-•    Give you this notice of our legal duties and privacy practices with respect to medical information about you; and  
-•    Follow the terms of the notice that is currently in effect.
+If you wish to find out how to prevent your browser from accepting new cookies, how to disable cookies altogether and how to monitor when you receive a new cookie, check the "help" feature of your web browser.  However, not accepting or disabling cookies from our website may prevent you from accessing certain parts of our website.
 
-Section C: How We May Use and Disclose Medical Information About You.
+Disclosure of and Access to Information 
 
-The following categories describe different ways in which Florida Hospital is permitted to use and disclose medical information. For each category of uses or disclosures we will explain what we mean and will provide you with one or more examples. Not every use or disclosure in a category will be listed. However, all of the ways we are permitted to use and disclose information will fall within one of the categories.
+Anonymous and Personally Identifiable Information
 
-Within one or more of the categories identified in Section C and Section D of this form, state and/or federal law may place restrictions on the manner in which specific types of medical information (e.g., substance abuse treatment, psychiatric treatment, human immunodeficiency virus status, etc.) may be used and/or to whom such medical information may be disclosed. In those instances where use and/or disclosure of specific medical information is restricted, we will seek appropriate authorization from you, your legal representative or a court of law/administrative tribunal before using or disclosing the restricted medical information.
+We may share anonymous information with third parties.  For example, we may match our user information, such as gender and age preferences and usage, with data of these third parties to help develop additional products and services to offer through our website. 
 
-•    Treatment. We may use medical information about you to provide you with medical treatment or services. We may disclose medical information about you to doctors, nurses, technicians, medical students, and/or other members of the Florida Hospital workforce who are involved in taking care of you at the hospital. For example, a doctor treating you for a broken leg may need to know if you have diabetes because diabetes may slow the healing process. In addition, the doctor may need to tell the dietitian if you have diabetes so that we can arrange for appropriate meals. Different departments of Florida Hospital also may share medical information about you in order to coordinate the different things you need, such as prescriptions, lab work and x-rays. We also may disclose medical information about you to individuals outside of Florida Hospital, such as family members, clergy or other healthcare providers, and other healthcare facilities, such as assisted living facilities, nursing homes, home health agencies, who may be involved in your medical care after you are discharged from Florida Hospital.
+As a general rule, we will not disclose your personally identifiable information to any unaffiliated third party, except when we have your permission or under special circumstances, such as when we need to treat the information collected through this website as an asset in the event of the merger or sale of Adventist Health System, or a portion of our business.  Your personally identifiable information may be accessed by our management information services team or an affiliated third party providing technical support or maintenance for us. 
 
-•    Payment. We may use and disclose medical information about you so that the treatment and services you receive at Florida Hospital may be billed to and payment may be collected from you, an insurance company or a third party. For example, we may need to give your health plan information about surgery you received at Florida Hospital so your health plan will pay us or reimburse you for the surgery. We may also tell your health plan about a treatment you are going to receive to obtain prior approval or to determine whether your plan will cover the treatment.
+If we offer services using or in conjunction with an unaffiliated third party, we may need to share some or all of your personally identifiable information with that unaffiliated third party for purposes of providing the services to you.  If you do not want your personally identifiable information to be shared, you can choose not to use that particular feature or service.
 
-•    Healthcare Operations. We may use and disclose medical information about you for Florida Hospital’s operations. These uses and disclosures are necessary to operate Florida Hospital and make sure that all of our patients receive appropriate care. For example, we may use medical information to review our treatment and services and to evaluate the performance of our workforce in caring for you. We may also combine medical information about many patients to decide what additional services Florida Hospital should offer, what services are not needed, and whether certain new treatments are effective. We may also disclose information to doctors, nurses, technicians, medical students, and other members of the workforce of Florida Hospital for review and learning purposes. We may also combine the medical information we have with medical information from other entities to compare how we are doing and see where we can make improvements in the care and services we offer. We may remove information that identifies you from this set of medical information so others may use it to study healthcare and healthcare delivery without learning who the specific patients are.
+In some circumstances we may be required by law to disclose personally identifiable information.  We will do so, in good faith, only to the extent we believe to be required by law.  We may also disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against a third party who may be violating our terms and conditions governing the use of our website, or who may be (intentionally or unintentionally) causing injury to or interference with your or our rights or property or those of a third party.
 
-•    Appointment Reminders. We may use and disclose medical information to contact you as a reminder that you have an appointment for treatment or medical care at Florida Hospital or another entity/healthcare provider for whom we schedule services. For example, if you are a patient of a medical clinic operated by Florida Hospital, you may be notified by a hospital representative of an appointment made on your behalf to facilitate your medical treatment and physical wellbeing (e.g., scheduled appointment for X-ray, etc.).
+We reserve the right to treat anonymous and personally identifiable information collected through this website as an asset which may be transferred to a third party in connection with the merger or sale of Adventist Health System, or a portion of our business.
 
-•    Treatment Alternatives. We may use and disclose medical information to tell you about or recommend possible treatment options or alternatives that may be of interest to you. For example, if you have been diagnosed with heart disease, you may receive information regarding treatment options that may be of interest to you.
+Protected Health Information
 
-•    Health-Related Benefits and Services. We may use and disclose medical information to tell you about health-related benefits or services that may be of interest to you. For example, if you have undergone open-heart surgery at Florida Hospital, you may receive information regarding services that may be of benefit to you in recovering from or dealing with your illness such as structured rehabilitation exercise classes and stress management training.
+The use and disclosure of protected health information is governed by the terms and conditions of our Notice of Patient Privacy Practices.[ADD LINK] With respect to use of this website, protected health information may be accessed by our management information services team or an affiliated third party providing technical support or maintenance for us. We reserve the right to treat protected health information collected through this website as an asset which may be transferred to a third party in connection with the merger or sale of Adventist Health System, or a portion of our business.
 
-•    Fundraising Activities. We may use information about you to contact you in an effort to raise money for Florida Hospital and its operations. We may disclose information to a business associate of Florida Hospital, or the Florida Hospital Foundation, a foundation related to Florida Hospital, so that they may contact you to raise money for Florida Hospital. We would release only contact information, such as your name, address and phone number and the dates you received treatment or services at Florida Hospital. If you do not want Florida Hospital to use or disclose your contact information for fundraising efforts that will benefit Florida Hospital, you must notify us in writing.
+Membership
 
-•    Patient Directory. We may include certain limited information about you in Florida Hospital’s patient-directory while you are a patient at Florida Hospital. Directory information may include your name, location in Florida Hospital, your general condition (e.g., fair, stable, etc.) and your religious affiliation. Unless you are admitted to Florida Hospital as a non-published patient, the directory information, except for your religious affiliation, may also be released to people who ask for you by name. Unless the patient is non-published, your religious affiliation may be given to a member of the clergy, such as a priest or rabbi, even if they don’t ask for a patient by name. This is so your family, friends and clergy can visit you in Florida Hospital and generally know how you are doing. Non-publish status may be elected by a patient (i.e., by requesting in writing that his/her presence at the Hospital not be acknowledged to family, friends, clergy, media or others not involved in the care and treatment of the patient) or it may be conferred by law based on the nature of the treatment sought by the patient (e.g., mental health treatment).
+To use the password-protected member services available on this website, you may choose to become a “member” by registering as a member. Upon registration you will be assigned a unique member username and a password for access to the password-protected member services. Your member username and password should be kept strictly confidential to prevent unauthorized use. You are responsible for safeguarding and maintaining the secrecy of your member username and password at all times. You agree to notify Adventist Health System promptly of any unauthorized use of your member username and password. You will remain liable for any use of the member services unless and until you notify Adventist Health System of the unauthorized use of your member username and password. Adventist Health System may suspend your membership without notice to you in the event that you do not use the website for an extended period of time.
 
-•    Individuals Involved in Your Care or Payment for Your Care. Unless specifically precluded by state or federal law or unless you otherwise object, we may release medical information about you to a friend or family member who is involved in your medical care, and may also give information to someone who helps pay for your care. We may also tell your family or friends your condition and that you are in Florida Hospital. In addition, if you are admitted to Florida Hospital as a result of a natural or man-made disaster, or if subsequent to your admission a natural or man-made disaster occurs, we may disclose medical information about you to an entity assisting in a disaster relief effort so that your family can be notified about your condition, status and location.
+In consideration of your membership, you agree to: (a) voluntarily provide true, accurate and current information about yourself; and (b) to maintain and update this personally identifiable or protected health information to keep it true, accurate and current. Adventist Health System reserves the right to approve any member before the member may use the password-protected member services.
 
-•    Research. Under certain circumstances, we may use and disclose medical information about you for research purposes. For example, a research project may involve comparing the health and recovery of all patients who received one medication to those who received another, for the same condition. All research projects, however, are subject to a special approval process. This process evaluates a proposed research project and its use of medical information, trying to balance the research needs with the patient’s need for privacy of their medical information. Before we use or disclose medical information for research, the project will have been approved through this research approval process, but we may, however, disclose medical information about you to people preparing to conduct a research project, for example, to help them look for patients with specific medical needs, so long as the medical information they review does not leave the hospital. We will generally ask for your specific permission if the researcher will have access to your name, address or other information that reveals who you are, or will be involved in your care at Florida Hospital.
+If any information provided by you is untrue or inaccurate, Adventist Health System has the right to terminate your membership and refuse to provide you with use of the password-protected member services, without benefit of refund. You understand that Adventist Health System does not routinely perform background checks on members, and assumes no liability for the accuracy of the personally identifiable or protected health information provided.
 
-•    As Required By Law. We will disclose medical information about you when required to do so by federal, state or local law.
+Security Measures
 
-•    To Avert a Serious Threat to Health or Safety. We may use and disclose medical information about you when necessary to prevent a serious threat to your health and safety or the health and safety of the public or another person. Any disclosure, however, would only be to someone able to help prevent the threat.
+Adventist Health System has taken reasonable steps and has employed industry-standard practices and technology to ensure the integrity and confidentiality of personally identifiable and protected health information; but because even the most secure computer system can be violated, Adventist Health System cannot guarantee absolute security.
 
- Section D: Special Situations 
+IMPORTANT: Please keep in mind that whenever you voluntarily disclose information about yourself in the public domain, for example, through bulletin boards, chat rooms, e-mails, it is likely to be collected and used by third parties.  These third parties may use your information to contact you or for unauthorized purposes.  Also, please remember that no one can guarantee the absolute security of information transmitted electronically.
 
-•    Organ and Tissue Donation. If you are an organ donor, we may release medical information to organizations that handle organ procurement or organ, eye or tissue transplantation, or to an organ donation bank, as necessary to facilitate organ or tissue donation and transplantation.
+Updating, Correcting and Deleting Personally Identifiable or Protected Health Information
 
-•    Military and Veterans. If you are a member of the armed forces, we may release medical information about you as required by military command authorities. We may also release medical information about foreign military personnel to the appropriate foreign military authority.
+We strongly believe in providing you with the ability to access, edit, or opt-out of providing personally identifiable or protected health information to us.  Accordingly, at any time, you may amend, update or delete the information about you (or your child(ren)) contained in any registration profile you have completed with us, including any and all personally identifiable or protected health information, or stop receipt of a newsletter, by mailing your request to:
 
-•    Workers’ Compensation. Pursuant to Florida Law, we may release medical information about you for workers’ compensation or similar programs. These programs provide benefits for work-related injuries or illness.
+Adventist Health System  
+111 North Orlando Avenue  
+Winter Park, Florida 32789  
+Attn: Data Security Officer
 
-•    Public Health Risks. We may disclose medical information about you for public health activities. These activities generally include the following:
+Links
 
-o    To prevent or control disease, injury or disability;  
-o    To report births and deaths;  
-o    To report reactions to medications or problems with products;  
-o    To notify people of recalls of products they may be using;  
-o    To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition;  
-o    To notify the appropriate government authority if we believe a patient has been the victim of abuse (e.g., child abuse, elder abuse, etc.), neglect or domestic violence. We will only make this disclosure if you agree or when required or authorized by law.
+Our website may contain links to other sites.  These links are for your convenience only, and Adventist Health System makes no representations or endorsements whatsoever regarding such other sites. You should review the privacy policies of other sites carefully before providing any information to such website. Adventist Health System is not responsible for the privacy policies or procedures or the content of any other website.
 
-•    Health Oversight Activities. We may disclose medical information to a health oversight agency for activities authorized by law. These oversight activities include, for example, audits, investigations, inspections, and licensure. These activities are necessary for the government to monitor the healthcare system, government programs, and compliance with civil rights laws.
+Children
 
-•    Lawsuits and Disputes. If you are involved in a lawsuit or a dispute, and your medical condition is at issue in the lawsuit or dispute, we may disclose medical information about you if we are a party to the lawsuit or dispute and in those instances where we are not a party to the lawsuit or dispute, in response to a subpoena duces tecum or court or administrative order.
+Our website is not intended for use by children.  Children under the age of 13 may only use our website under the supervision of a parent or guardian.  The website is not directed at children under the age of 13.  Adventist Health System complies with the Children's Online Privacy Protection Act (COPPA) and does not knowingly permit registration or submission of personally identifiable or protected health  information by anyone under 13 years of age.  This age requirement is posted each time we request personally identifiable or protected health information.
 
-•    Law Enforcement. We may release medical information to law enforcement officials:
+Adventist Health System's Limited Warranties; Disclaimer of Liability; Indemnity by You
 
-o    In response to a court order, subpoena, warrant, summons or similar process;  
-o    To identify or locate a suspect, fugitive, material witness, or missing person unless the medical information pertains to a non-published patient;  
-o    About an individual who seeks or receives medical treatment for a gunshot wound or life-threatening injury which indicates an act of violence;  
-o    About a death we believe may be the result of criminal conduct at Florida Hospital; and  
-o    About criminal conduct at Florida Hospital; and  
-o    In emergency circumstances to report a crime; the location of the crime or victims; or the identity, description or location of the person who committed the crime.
+ADVENTIST HEALTH SYSTEM DOES NOT MAKE ANY EXPRESS OR IMPLIED WARRANTIES, REPRESENTATIONS OR ENDORSEMENTS WHATSOEVER (INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE OR NONINFRINGEMENT, OR THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE) REGARDING INFORMATION, CONTENT OR ITEMS APPEARING ON THIS WEBSITE. ADVENTIST HEALTH SYSTEM DOES NOT WARRANT THAT DOWNLOADS FROM THE WEBSITE WILL BE FREE OF ANY VIRUS, WORM, TROJAN HORSE OR OTHER DATA ALTERING OR CONTAMINATING COMPONENTS.  YOU ARE RESPONSIBLE FOR ENSURING THAT YOU HAVE IMPLEMENTED PROCEDURES TO PREVENT SUCH CONTAMINATING COMPONENTS FROM INFECTING YOUR COMPUTER AND ITS DATA. 
 
-•    Coroners, Medical Examiners and Funeral Directors. We may release medical information to a coroner or a medical examiner. This may be necessary, for example, to identify a deceased person or determine the cause of death. We may also release medical information about patients of Florida Hospital to funeral directors as necessary to carry out their duties.
+WHILE ADVENTIST HEALTH SYSTEM TRIES TO KEEP THE INFORMATION ON THIS WEBSITE BOTH ACCURATE AND UP-TO-DATE, ADVENTIST HEALTH SYSTEM DOES NOT WARRANT THE ACCURACY, COMPLETENESS, CORRECTNESS, USEFULNESS, OR APPLICABILITY OF ANY INFORMATION, OR OTHER DATA OR ITEMS APPEARING ON THIS WEBSITE.  ADVENTIST HEALTH SYSTEM WILL NOT BE LIABLE IN ANY EVENT TO ANY USER OF THIS SERVICE FOR ANY DECISION MADE OR ACTION TAKEN IN RELIANCE UPON THE INFORMATION, CONTENT, OR OTHER ITEMS PRESENTED ON THIS WEBSITE. 
 
-•    National Security and Intelligence Activities. We may release medical information about you to authorized federal officials for intelligence, counterintelligence, and other national security activities authorized by law.
+IN NO EVENT SHALL ADVENTIST HEALTH SYSTEM BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, PUNITIVE, OR ANY OTHER MONETARY OR OTHER DAMAGES, FEES, FINES, PENALTIES, OR LIABILITIES ARISING OUT OF OR RELATING IN ANY WAY TO THIS WEBSITE, OR WEBSITES ACCESSED THROUGH THIS WEBSITE, AND/OR THEIR CONTENT OR INFORMATION. A USER'S SOLE AND EXCLUSIVE REMEDY FOR DISSATISFACTION WITH THE WEBSITE IS TO STOP USING THE WEBSITE. 
 
-•    Protective Services for the President and Others. We may disclose medical information about you to authorized federal officials so they may provide protection to the President, other authorized persons or foreign heads of state or conduct special investigations.
+ADVENTIST HEALTH SYSTEM DOES NOT GUARANTEE CONTINUOUS OR UNINTERRUPTED ACCESS TO THIS WEBSITE, AND OPERATION OF THIS WEBSITE MAY BE INTERFERED WITH BY FACTORS BEYOND ADVENTIST HEALTH SYSTEM'S CONTROL. 
 
-•    Inmates. Inmates of a correctional institution or under the custody of a law enforcement official are not required to receive notice of Florida Hospital’s practices regarding the use and disclosure of medical information. Florida Hospital may release medical information about an inmate to the correctional institutional or law enforcement official. This release would be necessary (1) for the institution to provide healthcare to the inmate; (2) protect the inmate’s health and safety or the health and safety of others; or (3) for the safety and security of the correctional institution.
+YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD ADVENTIST HEALTH SYSTEM HARMLESS, AS WELL AS ADVENTIST HEALTH SYSTEM'S OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, INFORMATION PROVIDERS AND SUPPLIERS FROM AND AGAINST ALL LOSSES, EXPENSES, DAMAGES AND COSTS, INCLUDING REASONABLE ATTORNEY'S FEES, RESULTING FROM YOUR VIOLATION OF THESE CONDITIONS OF USE OR THE USE OF THIS SERVICE. 
 
-Section E: Your Rights Regarding Medical Information About You
+Use of This Website Creates an Agreement
 
-You have the following rights regarding medical information we maintain about you:
+Your continued use of this website constitutes your agreement to this Privacy Policy. This Privacy Policy forms an agreement that is entered into and is subject to the laws of the State of Florida.  Those laws will apply, except the choice of law statutes, in construing and interpreting this agreement.  If any provision of this agreement is held to be unenforceable, invalid, void or voidable, by a court or other tribunal of competent jurisdiction, then such provision shall be given a limited effect or shall be eliminated to the extent necessary so that the remaining provisions of this agreement remain in full force and effect. 
 
-•    Right to Inspect and Copy. You have the right to inspect and copy some of the medical information that may be used to make decisions about your care. Usually, this includes medical and billing records, but does not include psychotherapy notes. If you request a copy of the information, we may charge a fee for the costs of copying, mailing or other supplies associated with your request.
+Prohibited Use of This Website
 
-We may deny your request to inspect and copy medical information in certain circumstances. If you are denied access to medical information, in some cases, you may request that the denial be reviewed. Another licensed healthcare professional chosen by the hospital will review your request and the denial. The person conducting the review will not be the person who denied your request. We will comply with the outcome of the review. 
+If you live in a state or country that has laws that would either (1) void or alter these terms and conditions or (2) make illegal the access or use of this website, then your use of this website is unauthorized; it cannot be sanctioned by Adventist Health System, and you use the website at your own risk. 
 
-•    Right to Amend. If you feel that medical information we have about you is incorrect or incomplete, you may ask us to amend the information. You have the right to request an amendment for as long as the information is kept by or for Florida Hospital. In addition, you must provide a reason that supports your request.
+Disclaimer
 
-We may deny your request for an amendment if it is not in writing or you do not include a reason to support your request. In addition, we may deny your request if you ask us to amend information that:
+This Privacy Policy only applies to information collected through this website. This Privacy Policy does not apply to personally identifiable information received or created by Adventist Health System from any of the following:  
+•    Online search and application for employment opportunities at Adventist Health System, other than physician career opportunities. These employment search activities are provided by a third-party website operator and subject to a separate privacy policy. If you wish to review the privacy policy which applies to online employment search and application, please [see this webpage.](http://www.floridahospitalcareers.com/Privacystatement.aspx)  
+•    FHHS Member Services. If you wish to review the privacy policy which applies to FHHS Member Services, please [see this webpage](https://www.tpabenefits.com/fhhstpa/privacy.asp)   
+. •    Florida Physicians Medical Group.  If you wish to review the privacy policy which applies to Florida Physicians Medical Group, please [see this webpage](http://www.fpmg.com/Privacy-Policy/default.aspx)  
+•    Adventist Health System nursing homes.
 
-o    Was not created by us, unless the person or entity that created the formation is no longer available to make the amendment;  
-o    Is not part of the medical information kept by or for Florida Hospital;  
-o    Is not part of the information which you would be permitted to inspect and copy; or  
-o    Is accurate and complete.
+Contacting Us Regarding this Privacy Policy or the Website
 
-•    Right to an Accounting of Disclosures. You have the right to request an "accounting of disclosures." This is a list of the disclosures Florida Hospital made of medical information about you. Your request must state a time period which may not be longer than six years and may not include dates before April 14, 2003. Your request should indicate in what form you want the list (for example, on paper, electronically). The first list you request within a 12 month period will be free. For additional lists, we may charge you for the costs of providing the list. We will notify you of the cost involved and you may choose to withdraw or modify your request at that time before any costs are incurred.
+If you have questions about this Privacy Policy or any other questions concerning the website, please contact:
 
-•    Right to Request Restrictions. You have the right to request a restriction or limitation on the medical information we use or disclose about you for treatment, payment or healthcare operations. You also have the right to request a limit on the medical information we disclose about you to someone who is involved in your care or the payment for your care, like a family member or friend. For example, you could ask that we not use or disclose information about a surgery you had.
+Adventist Health System  
+111 North Orlando Avenue  
+Winter Park, FL 32789  
+Attn: Data Security Officer  
+Phone: (407) 975-1400
 
-In your request, you must tell us (1) what information you want to limit; (2) whether you want to limit our use, disclosure or both; and (3) to whom you want the limits to apply, for example, disclosures to your spouse.
+Changes to Privacy Policy
 
-We are not required to agree to your request. If we do agree, we will comply with your request unless the information is needed to provide you emergency treatment.
-
-•    Right to Request Confidential Communications. You have the right to request that we communicate with you about medical matters in a certain way or at a certain location. For example, you can ask that we only contact you at work or by mail. We will not ask you the reason for your request. We will accommodate all reasonable requests. Your request must specify how or where you wish to be contacted.
-
-•    Right to a Paper Copy of This Notice. You have the right to a paper copy of this notice. You may ask us to give you a copy of this notice at any time. Even if you have agreed to receive this notice electronically, you are still entitled to a paper copy of this notice. You may obtain a copy of this notice at our website, www.FloridaHospital.com.
-
-•    To exercise the above rights, please contact the following individual to obtain a copy of the relevant form you will need to complete to make your request: Please contact Florida Hospital Office of Regulatory Administration, 407.303.9659.
-
-Section F: Changes To This Notice.
-
-We reserve the right to change this notice. We reserve the right to make the revised or changed notice effective for medical information we already have about you as well as any information we receive in the future. We will post a copy of the current notice in Florida Hospital. The notice will contain the effective date.
-
-In addition, each time you register at or are admitted to the hospital for treatment or healthcare services as an inpatient or outpatient, we will offer you a copy of the current notice in effect.
-
-Section G: Complaints
-
-If you believe your privacy rights have been violated, you may file a complaint with the hospital or with the Secretary of the Department of Health and Human Services, Atlanta Federal Center, Suite 3B70, 61 Forsyth Street, SW., Atlanta, GA 30303-8909. 
-
-To file a complaint with Florida Hospital, you may contact Risk Management at 407.303.7377. All complaints must be submitted in writing to Risk Management, 601 East Rollins Street, Orlando, FL 32803. For Centra Care patients who feel their rights are violated, contact 407.660.8118 ext. 237.
-
-You will not be penalized for filing a complaint.
-
-Section H: Other Uses of Medical Information
-
-Other uses and disclosures of medical information not covered by this notice or the laws that apply to us will be made only with your written permission. If you provide us permission to use or disclose medical information about you, you may revoke that permission, in writing, at any time. If you revoke your permission, we will no longer use or disclose medical information about you for the reasons covered by your written authorization. You understand that we are unable to take back any disclosures we have already made with your permission, and that we are required to retain our records of the care that we provided to you.
-
-Section I: Organized Healthcare Arrangement
-
-Florida Hospital, the independent contractor members of its Medical Staff (including your physician), and other healthcare providers affiliated with Florida Hospital have agreed, as permitted by law, to share your health information among themselves for purposes of your treatment, payment or healthcare operations. This enables us to better address your healthcare needs.
+Adventist Health System may modify or change this Privacy Policy at any time. Such modifications or changes become effective immediately when they are posted to this website. You agree to review this Privacy Policy frequently so that you will be familiar with the terms.  You further agree that each time you use this website that you are, by such use, consenting to the terms of this Privacy Policy that are applicable at your time of use.
