@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the medscape.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309063447id_/http%3A//www.medscape.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medscape.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228183939id_/http%3A//www.medscape.com/public/privacy) for the most accurate reproduction.*
 
-# Medscape's Privacy Policy
+# Medscape from WebMD Privacy Policy
 
-## The Medscape Privacy Policy
-
-Medscape understands how important the privacy of personal information is to you. Medscape is committed to honoring your privacy. The document you are reading is our Privacy Policy for our Web sites that are accessible by physicians, nurses and healthcare professionals, and it describes what information we may collect about you, what uses we may make of it, how you can tell us what to do with your information, and what precautions we take against unauthorized access or use of your information.
+WebMD understands how important the privacy of personal information is to you. WebMD is committed to honoring your privacy. The document you are reading is our Privacy Policy for our Web sites that are accessible by physicians, nurses and healthcare professionals, and it describes what information we may collect about you, what uses we may make of it, how you can tell us what to do with your information, and what precautions we take against unauthorized access or use of your information.
 
 ### About This Privacy Policy
 
 #### Web Sites Covered
 
-Reference to "Medscape" or "We" means Medscape, LLC, including any company that we control (for example a subsidiary that we own). Medscape's Web sites include any site that Medscape owns or controls, unless the Web site states expressly that it is subject to a different policy. We may share information among the subsidiaries of WebMD Health Corp. (our parent company) and Web sites that we own or control, but it is always protected under the terms of this Privacy Policy.
+Reference to "WebMD" or "We" means WebMD LLC, including any company that we control (for example a subsidiary that we own). WebMD's Web sites include any site that WebMD owns or controls, unless the Web site states expressly that it is subject to a different policy. We may share information among the subsidiaries of WebMD Health Corp. (our parent company) and Web sites that we own or control, but it is always protected under the terms of this Privacy Policy.
 
 We have a [corporate site](http://www.wbmd.com/) where you can read more about our company, obtain investor information, and find out how to contact us at www.wbmd.com.
 
-This Privacy Policy applies to Medscape's Web sites. You should read the privacy policy at each Web site that you visit after you leave one of our sites. We are not responsible for how other Web sites treat your privacy, once you leave Medscape's Web site.
+This Privacy Policy applies to the Medscape site. You should read the privacy policy at each Web site that you visit after you leave this site. We are not responsible for how other Web sites treat your privacy, once you leave the Medscape Web site.
 
 #### Privacy Policy Changes
 
@@ -47,18 +45,6 @@ We may also collect information about persons who register on our Web sites from
 
 In addition, we gather information about you that is automatically collected by our Web server, such as your IP address and domain name. We will use this information to personalize its offerings and presentations to you, facilitate your movements throughout our Web sites, provide personalized services, and to communicate with you individually.
 
-#### Continuing Medical Education
-
-When you register for a Continuing Medical Education (CME) or a Continuing Education (CE) activity through one of our Web sites, we collect certain personally identifiable information from you such as your name, email address and mailing address. If you are a nurse or a pharmacist and wish to receive CE credit, you are also required to provide the state in which you are licensed and your license number. In addition to personally identifiable information, we collect aggregated non-personally identifiable information about the activities undertaken by our users. We use the information that we collect through CME/CE activities in several ways:
-
-  1. We are accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide continuing medical education for physicians. As an ACCME accredited entity, we are required periodically to submit aggregated data about CME participants and the CME activities we certify. We also provide personally identifiable information to other accredited CME/CE providers who certify CME/CE activities posted on our Web sites, as required by the ACCME and other accrediting bodies. These reports may include personally identifiable information about you and credits issued to you, for the purpose of maintaining records that you can request from the accredited provider for up to six (6) years;
-  2. Commercial supporters of CME/CE activities on our Web site will receive only aggregated data about CME/CE activities that are relevant to their interests and/or the courses they support;
-  3. Our Editorial and Customer Support Staff will have internal access to files containing personally identifiable information, including evaluation forms and aggregated CME /CE participant information. These files can be accessed in order to respond to your questions or comments. Our staff may also use personally identifiable information, including registration information and evaluation data, in assessing educational needs and planning marketing activities.
-
-
-
-We may use the information we collect as otherwise permitted in this Privacy Policy.
-
 #### Use of Cookies and Web Beacons
 
 Cookies are a technology we use to keep track of users as they move through our Web sites. Your browser allows us to place some information on your computer's hard drive that is associated with the computer you are using. We use cookies to personalize our Web sites and to track your usage across all of our Web sites.
@@ -71,7 +57,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 We also may use Web beacons to collect non-personally identifiable information about your use of our Web sites and the Web sites of selected sponsors and advertisers, as well as your use of special promotions or newsletters. Web beacons are tiny graphic image files, embedded in a Web page in GIF, JPG, or HTML format, that provide a presence on the Web page and send back to its home server (which can belong to the host site, a network advertiser, or some other third party) information from a user's browser, such as the IP address, the URL of the page on which the beacon is located, the type of browser that is accessing the site, and the ID number of any cookies on the user's computer that were previously placed by that server. Web beacons can also be used to place a cookie on the user's browser. The information collected by Web beacons allows us to statistically monitor (i) how many people are using our Web sites and selected sponsors' and advertisers' sites, (ii) how many people open our emails, and (iii) for what purposes these actions are being taken. Our Web beacons are not used to track your activity outside of our Web sites or those of our sponsors. We do not link non-personally identifiable information from Web beacons to personally identifiable information without your permission; we do not use Web beacons to collect or store personal health information about you.
 
-Third parties under contract with us may use cookies or Web beacons to collect non-personally identifiable information about your usage of our sites, and this information may used by us to tailor the advertising you may see on sites within the networks of these third parties. This non-personally identifiable information is anonymous and does not contain any personal information about you. These third parties may collect this information, on our behalf, to help us target our advertising on these third party sites. These third parties have agreed not to use this non-personal cookie or Web beacon information except to help us target our advertising on these sites and have agreed to not link any non-personal cookie or Web beacon information collected by them on our sites to personally identifiable information they or others collect from other sites. If your browser is set to reject cookies, this non-personally identifiable information will not be sent to these third parties.
+Third parties under contract with us may use cookies or Web beacons to collect non-personally identifiable information about your usage of our site and this information may be used to tailor the advertising you may see on sites within the networks of these third parties. This non-personally identifiable information is anonymous and does not contain any personal information about you. These third parties may collect this information, on our behalf, to help us target our advertising on these third party sites. These third parties have agreed not to use this non-personal cookie or Web beacon information except to help us target our advertising on these sites and have agreed to not link any non-personal cookie or Web beacon information collected by them on our sites to personally identifiable information they or others collect from other sites. If your browser is set to reject cookies, this non-personally identifiable information will not be sent to these third parties.
 
 #### Children's Privacy
 
@@ -146,7 +132,7 @@ For privacy questions or concerns about one of our Web sites, please contact [Me
 
 #### Advertising and Editorial Policy
 
-Our editorial policy for our Web sites can be found [here](https://web.archive.org/pjsp/public/edpolicy.html). Our advertising policy for our Web sites can be found [here](https://web.archive.org/pjsp/public/adpolicy.html). 
+Our editorial policy for our Web sites can be found [here](https://web.archive.org/public/edpolicy). Our advertising policy for our Web sites can be found [here](https://web.archive.org/public/adpolicy). 
 
 #### Ownership and Financial Interests in Our Company
 
@@ -154,6 +140,6 @@ Details regarding ownership of WebMD Health Corp, and those with a financial int
 
 #### Terms of Use
 
-Our terms of use agreements can be found [here](https://web.archive.org/web/20090309063447id_/http%3A//www.medscape.com/public/termsofuse.html).
+Our terms of use agreements can be found [here](https://web.archive.org/public/termsofuse).
 
-_**Effective date:** September 5, 2008_
+_**Effective date:** November 20, 2009_
