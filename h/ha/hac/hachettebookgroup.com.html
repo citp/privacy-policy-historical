@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the hachettebookgroup.com privacy policy that was archived on 2009-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629224757id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hachettebookgroup.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228154639id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><!-- PageID 953 - published by RedDot 7.5 - 7.5.1.91 - 27004 -->
    
     <title>
-	Copyright, Trademark &amp; Privacy Policy - Hachette Book Group
-</title>
+	Copyright, Trademark &amp; Privacy Policy Hachette Book Group 
+</title>  
     
     <!-- START META TAGS -->
     <meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type"><meta name="keywords" content="hachette privacy policy, hachette legal, website security, copyright issues, trademark infringement, copyright, Trademark"><meta name="description" content="Legal privacy policy and use of personal information for the Hachette Book Group USA website.  Also includes details about children’s privacy policy, website security policy, copyright issues, and trademark infringement.">
     <!-- END META TAGS -->
-
     <!-- START HEAD LINKS -->
     <link href="/_includes/css/lightwindow.css" rel="stylesheet" type="text/css" media="screen,tv,projection"><link href="/_includes/css/main.css" rel="stylesheet" type="text/css" media="screen,tv,projection">
 <!--[if IE 6]>
@@ -45,57 +44,87 @@ if (location.href.toString().match(/^https/)) {
 </script><script language="JavaScript" type="text/javascript" src="https://ssl.google-analytics.com/urchin.js"></script>
 <script src="/_includes/js/popanalytics.js" type="text/javascript"></script>
 <!-- END Google Analytics Code -->
-    <!-- END HEAD LINKS -->
 
-    
-    
-    
+<!-- ADDED 18.09.2009 - Global Main Site JS Code -->
     <script language="javascript">
         function formatLstAuthorDiv()
         {
-            var strAuthors = $$('h4.divAuthors');              
+            var strAuthors = $$('dd.divAuthors');   
+            clearLastComma(strAuthors);
+            strAuthors = $$('h4.divAuthors');
+            clearLastComma(strAuthors);
+            strAuthors = $$('p.divAuthors');   
+            clearLastComma(strAuthors);
+        } 
+        function clearLastComma(strAuthors)
+        {
             for ( var i = 0; i < strAuthors.length; i++ ) {
                 var lastPos = strAuthors[i].innerHTML.lastIndexOf(',')
                 if(lastPos > 0)
                     strAuthors[i].update(strAuthors[i].innerHTML.substring ( 0, lastPos) );
             }
-        }    
+
+        }
+    </script>
+    <!-- END HEAD LINKS -->
+    
+    
+    
+
+    <script language="javascript">
+        function formatLstAuthorDiv()
+        {
+            var strAuthors = $$('dd.divAuthors');   
+            clearLastComma(strAuthors);
+            strAuthors = $$('h4.divAuthors');
+            clearLastComma(strAuthors);   
+           
+        } 
+        function clearLastComma(strAuthors)
+        {
+            for ( var i = 0; i < strAuthors.length; i++ ) {
+                var lastPos = strAuthors[i].innerHTML.lastIndexOf(',')
+                if(lastPos > 0)
+                    strAuthors[i].update(strAuthors[i].innerHTML.substring ( 0, lastPos) );
+            }
+
+
+        }
     </script>
 </head>
 <body onload="formatLstAuthorDiv()"> 
-      
- 
+    
     <!-- START WRAPPER -->
     <div id="wrapper">
 
         <!-- START HEADER -->
         <div id="header">
-            <a class="logo" href="/index.aspx"><span>Hachette Book Group USA</span></a>
+            <a class="logo" href="/index.aspx"><span>Hachette Book Group</span></a>
             <div id="utility_nav">
     <ul id="rotators">
         <li class="on"><a class="search" href="#" rel="search">Search</a></li>
         <li class=" off"><a class="author_tours" href="#" rel="author_tours">Author Tours</a></li>
     </ul>
+
     <ul>
         <li><a class="contests" href="/contests_index.aspx">Contests</a></li>
         <li class="last"><a class="newsletters" href="https://secure.ztfsb.net/hbgsubs/php/newsletter.php">Newsletters &amp; Alerts</a></li>
     </ul>        
     <div class="clear"></div>
+
     <div class="body">
         <div class="rotator_forms search" style="position: static; top: -50001px;">
-            <form method="GET" action="http://search.hachettebookgroup.com/search">
+            <form method="GET" action="simple_search_results.aspx">
     <fieldset id="sitewide_search">
         <label for="search_field"><span>Search</span></label>
-        <input id="search_field" type="text" name="q">
-        
-        <input class="search_button" type="image" name="search_button" value="Search" src="/_images/main/header_search_btn.gif">
-        <input type="hidden" name="site" value="default_collection">
-        <input type="hidden" name="client" value="default_frontend">
-        <input type="hidden" name="output" value="xml_no_dtd">
-        <input type="hidden" name="proxystylesheet" value="default_frontend">
+        <input id="search_field" type="text" name="datafield">
+        <input class="search_button" type="image" name="search_button" value="Search" src="/_images/main/circle_arrow.gif">
+        <input type="hidden" name="agegroup" value="ADULT">
     </fieldset>
 </form>
             <a class="more" href="/search_index.aspx">Advanced Search</a>
+            <a class="shopping_cart" href="http://hachette.vitalbook.com/api/v1/cart?return_url=javascript:window.close();" border="0" target="cart_page"><img src="/_images/main/shoppingCart.gif"></a>
+
         </div>
         <div class="rotator_forms author_tours" style="position: absolute; top: -50001px;">
            <form method="get" action="/authors_tours-and-appearances.aspx">
@@ -110,9 +139,10 @@ if (location.href.toString().match(/^https/)) {
                         <option value="6">West</option>
                     </select>        
                     <input type="hidden" name="search" value="search">
-                    <input type="image" src="/_images/main/go_btn.gif" alt="Go" class="go_btn" value="Go">
+                    <input type="image" src="/_images/main/circle_arrow.gif" class="search_btn" alt="" value="Go">
                 </fieldset>
                 <a class="more" href="/authors_tours-and-appearances.aspx">Advanced Search</a>
+                <a class="shopping_cart" href="http://hachette.vitalbook.com/api/v1/cart?return_url=javascript:window.close();" border="0" target="cart_page"><img src="/_images/main/shoppingCart.gif"></a>
             </form>            
         </div>
     </div>
@@ -154,11 +184,16 @@ if (location.href.toString().match(/^https/)) {
 
 
 </ul>
+
+
 <div class="clear"></div>
         </div>
         <!-- END PRIMARY NAV -->
         
-        <!-- START MASTHEAD -->
+        
+        
+        
+        <!-- START SECONDARY NAV -->
         <div id="masthead">
             <div id="nav_indicator" class="privacy_policy"></div>
     <h3 class="privacy_policy"><span>Privacy Policy</span></h3>
@@ -171,11 +206,15 @@ if (location.href.toString().match(/^https/)) {
 
     </ul>
         </div>
-        <!-- END MASTHEAD -->
+        <!-- END SECONDARY NAV -->
+        
+        
+        
 
         <!-- START MAIN CONTENT -->
         <form name="form1" method="post" action="privacy-policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMDU5NjE0NDNkZLu0vLA3l9mOWqWBRE1CorzGf4/l">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMDU5NjE0NDNkZB3kRNdu7VTRQUd7FMH5llY22air">
+
 
             <div id="content" class="two_col">  
       
@@ -196,10 +235,14 @@ if (location.href.toString().match(/^https/)) {
 
 
 
+
+
 <div class="content single_col">
     
 
-<div class="content_segment">
+
+
+ <div class="content_segment">
     <h1>Privacy Policy &amp; Legal Information</h1>
     <div class="hr"></div>
     <div class="content_segment">
@@ -388,9 +431,13 @@ if (location.href.toString().match(/^https/)) {
 <p>Little, Brown and Company (Inc.); Back Bay Books; Bulfinch; Little, Brown Books for Young Readers, and their respective logos are registered trademarks owned by Little, Brown and Company (Inc.). </p>
 <div></div>
 <p></p>
+    <ul class="circle_arrow ">
+        
+        
+    </ul>
+ </div>
 </div>
-</div>
-                    <!--  -->
+                    
                 </div>
                 <!-- END PRIMARY COL -->
         
@@ -407,6 +454,7 @@ if (location.href.toString().match(/^https/)) {
                 
             </div>
         </form>            
+
         <!-- END MAIN CONTENT -->
  
         <div class="clear"></div>
@@ -416,17 +464,45 @@ if (location.href.toString().match(/^https/)) {
         <div id="footer">
             <div class="round_l">
                 <div class="round_r">
-                    <p>© 2009 Hachette Book Group</p>
+                    <p class="copyright">© 2009 Hachette Book Group</p>
 <ul>      
-    <li class="first"><a href="/customer_faqs.aspx">FAQs</a></li>
+    <li class="shopping_cart"><a href="/shopping_faqs.aspx">Shopping FAQs</a></li>
+    <li><a href="/customer_faqs.aspx">FAQs</a></li>
     <li><a href="/about_index.aspx">About Us</a></li>
     <li><a href="/about_careers.aspx">Careers</a></li>
     <li><a href="/customer_index.aspx">Customer Service</a></li>
     <li><a href="/terms-of-use.aspx">Terms of Use</a></li>
     <li><a href="/privacy-policy.aspx">Privacy Policy</a></li>
+    <li><a href="/PiracyLink.aspx">Report Piracy</a></li>
+
     <!-- <li><a href="when time to restore CPSIA use anc_Certificates Placeholder tag here"?CPSIACert=Checked">CPSIA Certificates</a></li>  -->
     <li><a href="/site-map.aspx">Site Map</a></li>
 </ul>
+ 
+<script language="javascript">
+   if(window.location.href.indexOf("?") >= 0)
+   {
+     var qryStr = window.location.search.substring(1);
+     if(qryStr.indexOf("canada=Y") >= 0)
+     {
+       var shopCart = document.getElementsByClassName("shopping_cart");
+       for(var i=0;i<shopCart.length;i++)
+          shopCart[i].className = "shopping_cart_hide";
+
+       var hmlogo = document.getElementsByClassName("logo");
+       if(hmlogo.length > 0)
+       {
+          hmlogo[0].className = "canadalogo"
+          hmlogo[0].href = "/index.aspx"
+       }
+       var hmNav = document.getElementsByClassName("home_nav");
+       if(hmNav.length > 0)
+       {
+          hmNav[0].href = "/index.aspx"
+       }
+     }
+   }
+ </script>
                  </div>
             </div>
         <div id="bottom_shadow" style="bottom: 52px; right: 260px;"></div></div>
@@ -436,4 +512,4 @@ if (location.href.toString().match(/^https/)) {
     <!-- END WRAPPER -->
 
 
-<div id="lightwindow_overlay" style="opacity: 0.7; background-image: url(&quot;/_images/main/black.png&quot;); background-repeat: repeat; height: 15058px;"></div><div id="lightwindow" style="top: 384px; left: 683px;"><div id="lightwindow_container" style="height: 250px; width: 250px; left: -125px; top: -125px;"><div id="lightwindow_title_bar"><div id="lightwindow_title_bar_inner"><span id="lightwindow_title_bar_title"></span><a id="lightwindow_title_bar_close_link">close</a></div></div><div id="lightwindow_stage"><div id="lightwindow_contents" style="height: 250px; width: 250px;"></div><div id="lightwindow_navigation"><a href="#" id="lightwindow_previous"><span id="lightwindow_previous_title"></span></a><a href="#" id="lightwindow_next"><span id="lightwindow_next_title"></span></a><iframe name="lightwindow_navigation_shim" id="lightwindow_navigation_shim" src="javascript:false;" frameborder="0" scrolling="no"></iframe></div><div id="lightwindow_galleries"><div id="lightwindow_galleries_tab_container"><a href="#" id="lightwindow_galleries_tab"><span id="lightwindow_galleries_tab_span" class="up">Galleries</span></a></div><div id="lightwindow_galleries_list"></div></div></div><div id="lightwindow_data_slide"><div id="lightwindow_data_slide_inner"><div id="lightwindow_data_details"><div id="lightwindow_data_gallery_container"><span id="lightwindow_data_gallery_current"></span> of <span id="lightwindow_data_gallery_total"></span></div><div id="lightwindow_data_author_container">by <span id="lightwindow_data_author"></span></div></div><div id="lightwindow_data_caption"></div></div></div></div></div></body></html>
+<div id="lightwindow_overlay" style="opacity: 0.7; background-image: url(&quot;/_images/main/black.png&quot;); background-repeat: repeat; height: 15098px;"></div><div id="lightwindow" style="top: 384px; left: 683px;"><div id="lightwindow_container" style="height: 250px; width: 250px; left: -125px; top: -125px;"><div id="lightwindow_title_bar"><div id="lightwindow_title_bar_inner"><span id="lightwindow_title_bar_title"></span><a id="lightwindow_title_bar_close_link">close</a></div></div><div id="lightwindow_stage"><div id="lightwindow_contents" style="height: 250px; width: 250px;"></div><div id="lightwindow_navigation"><a href="#" id="lightwindow_previous"><span id="lightwindow_previous_title"></span></a><a href="#" id="lightwindow_next"><span id="lightwindow_next_title"></span></a><iframe name="lightwindow_navigation_shim" id="lightwindow_navigation_shim" src="javascript:false;" frameborder="0" scrolling="no"></iframe></div><div id="lightwindow_galleries"><div id="lightwindow_galleries_tab_container"><a href="#" id="lightwindow_galleries_tab"><span id="lightwindow_galleries_tab_span" class="up">Galleries</span></a></div><div id="lightwindow_galleries_list"></div></div></div><div id="lightwindow_data_slide"><div id="lightwindow_data_slide_inner"><div id="lightwindow_data_details"><div id="lightwindow_data_gallery_container"><span id="lightwindow_data_gallery_current"></span> of <span id="lightwindow_data_gallery_total"></span></div><div id="lightwindow_data_author_container">by <span id="lightwindow_data_author"></span></div></div><div id="lightwindow_data_caption"></div></div></div></div></div></body></html>
