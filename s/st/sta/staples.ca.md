@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staples.ca privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427234719id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp%255Fterms%255Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.ca privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228080633id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp_terms_privacy) for the most accurate reproduction.*
 
 # STAPLES | BUREAU EN GROS
 
@@ -44,7 +44,7 @@ Richmond Hill, Ontario, L4B 4W3
 Attn: Customer Privacy Department 
 
 **E-Mail:**  
-[privacy@staples.ca](mailto:privacy@staples.ca?MSCSProfile=3C79F0C7EA3162B289A6F3317CC124D8708873413275AAB1B69C4389ED275E0D72C3F6940F8CD384D1A8117144A9F4DEA938B62BD8655F62572239E3E59CD3FE05930CA3647499E681885AA4BC41AAD14A6C2F501B73CD920E5CC055FD155D7070EFF09C7A2D18B5EB97A6BDDF0B5E6A42EA01A732354869CB335CBE65A009A4EBB9BAB808754781)
+[privacy@staples.ca](mailto:privacy@staples.ca)
 
  **Phone:**  
 1-866-782-7537 
