@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianexporters.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619072306id_/http%3A//www.indianexporters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianexporters.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228094145id_/http%3A//www.indianexporters.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy : Indian Exporters, Importers, Suppliers, Manufactures
+# Privacy Policy
 
 [](http://www.indianexporters.com/how_to_sell.php) [](http://www.indianexporters.com/how_to_buy.php)
 
