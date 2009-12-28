@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629175308id_/http%3A//www.uleth.ca/it/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229000512id_/http%3A//www.uleth.ca/it/privacystatement.html) for the most accurate reproduction.*
 
 # U of L Web Privacy Statement
 
@@ -18,9 +18,9 @@ Where personal information is collected and then stored within University of Let
 
 ### Web Logs and Cookies
 
-When visiting the University’s website, data collected will not be used to identify individuals but the data collected will be used by the University to track behavior on our web site. These data are used only to provide statistical analysis of web site use for the purpose of improving the usefulness of the website. These data are available only to authorized individuals within the organization and are not given to a third party.
+When visiting the University�s website, data collected will not be used to identify individuals but the data collected will be used by the University to track behavior on our web site. These data are used only to provide statistical analysis of web site use for the purpose of improving the usefulness of the website. These data are available only to authorized individuals within the organization and are not given to a third party.
 
-When required, the website will send small bits of data known as Cookies that will help track users’ behavior as well as facilitate certain functions and behaviors on the website. Cookies do not contain personal information and are used only to enhance the user experience of the website.
+When required, the website will send small bits of data known as Cookies that will help track users� behavior as well as facilitate certain functions and behaviors on the website. Cookies do not contain personal information and are used only to enhance the user experience of the website.
 
 ### Linking to Other Sites
 
