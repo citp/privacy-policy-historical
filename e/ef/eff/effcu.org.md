@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052241id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228075847id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
 
-# Privacy Policy :: Eastern Financial Florida Credit Union
+# Privacy Policy :: Eastern Financial Florida Credit Union a Division of Space Coast Credit Union
 
 **Privacy Statement**  
-Eastern Financial Florida Credit Union (hereafter referred to as “EFFCU,” “we,” “us,” or “our”) respects the privacy and confidentiality of our members’ personal information. The terms “you” or “your” refers to our members or visitors to our web site. When you trust us with your personal information, you can be certain it will be used only in an appropriate manner. Information communicated electronically is safe, and is kept as secure as information obtained in person or by mail.
+Eastern Financial Florida Credit Union, a division of Space Coast Credit Union (hereafter referred to as "EFFCU", "we", "us", or "our") respects the privacy and confidentiality of our members’ personal information. The terms “you” or “your” refers to our members or visitors to our web site. When you trust us with your personal information, you can be certain it will be used only in an appropriate manner. Information communicated electronically is safe, and is kept as secure as information obtained in person or by mail.
 
 The purpose of this policy statement is to explain what type of information EFFCU collects, how it is used, and with whom or under what circumstances it will be shared.
 
