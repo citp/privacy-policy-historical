@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the tattoodesign.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526204644id_/http%3A//www.tattoodesign.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoodesign.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228021139id_/http%3A//www.tattoodesign.com/privacy) for the most accurate reproduction.*
 
-# TattooDesign.com - Privacy Policy
+# Privacy Policy - TattooDesign.com
 
-|   
----  
-  
+Date of Last Revision: January 8, 2009
+
   
 | What information do we collect?  
 ---  
@@ -86,7 +85,7 @@ Online Privacy Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline.   
 Terms and Conditions  
 ---  
-Please also visit our [Terms and Conditions](http://www.tattoodesign.com/disclaimer.php) section establishing the use, disclaimers, and limitations of liability governing the use of our website.   
+Please also visit our [Terms and Conditions](http://www.tattoodesign.com/terms_and_conditions/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.   
 Your Consent  
 ---  
 By using our site, you consent to our privacy policy.   
@@ -97,4 +96,7 @@ Contacting Us
 ---  
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[TattooDesign.com](http://www.tattoodesign.com/contact_us.php)
+[TattooDesign.com](http://www.tattoodesign.com/contact_tattoodesign/)  
+2442 Cerrillos Rd. #146  
+Santa Fe, NM 87505  
+United States 
