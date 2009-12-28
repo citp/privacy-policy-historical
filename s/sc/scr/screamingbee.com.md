@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the screamingbee.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303094544id_/http%3A//www.screamingbee.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamingbee.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228083021id_/http%3A//www.screamingbee.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Voice Changing Software - Screaming Bee
 
 |  |  |   
 ---  
-|  |  |   
----|---|---  
-|  | 
+|  |  | 
 
 **Privacy Statement**  
   
@@ -52,5 +50,4 @@ Screaming Bee LLC may use personal information that it has collected to:
 |  Survey you (and others) in an attempt to improve our Website, our products, or our business.   
 |  Improve the quality of our Website. Screaming Bee LLC does not collect information about individual users without their knowledge.  
 |  Help us analyze general traffic patterns throughout our site.  
-Privacy Statement Copyright 2008, Screaming Bee LLC.  
-|  | 
+Privacy Statement Copyright 2008, Screaming Bee LLC.
