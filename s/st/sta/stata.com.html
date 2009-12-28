@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the stata.com privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628090408id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stata.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228093459id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy policy</title>
-<link rel="stylesheet" href="/includes/css/stata.css" type="text/css">
+<meta name="description" content="Data Analysis and Statistical Software for Professionals">
+<meta name="keywords" content="statistics software, applied statistics software, statistics, data analysis, analysis, data analysis software, graphs, graphing">
+<link rel="stylesheet" href="/includes/css/stata2009blue.css" type="text/css">
 <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/headlines.rss"> -->
 <script type="text/javascript" language="javascript" src="/includes/js/sniffer.js"></script>
-<script type="text/javascript" language="javascript1.2" src="/includes/js/custom_triggers_relative-2006.js"></script> 
-<script type="text/javascript" language="javascript1.2" src="/includes/js/style.js"></script><style type="text/css"><!--.mTD,.mTD A:Link,.mTD A:Visited {color:#000066}.mTD,.mTD A {white-space:nowrap;color:#000066;font-weight:normal;}.mTD,.mTD A:Active,.mTD A:Link,.mTD A:Visited,.mTD A:Hover{font-weight:normal;font-size:7px;font-family:arial,helvetica,helv,sans-serif;text-decoration:none;position:relative;}.SUBmTD,.SUBmTD A {white-space:nowrap;color:#000066;font-weight:normal;}.SUBmTD,.SUBmTD A:Link,.SUBmTD A:Visited {color:#000066}.SUBmTD,.SUBmTD A:Active,.SUBmTD A:Link,.SUBmTD A:Visited,.SUBmTD A:Hover{font-weight:normal;font-size:7px;font-family:arial,helvetica,helv,sans-serif;text-decoration:none;}//--></style> 
+<script type="text/javascript" language="javascript1.2" src="/includes/js/custom_triggers_relative-2009nov.js"></script> 
+<script type="text/javascript" language="javascript1.2" src="/includes/js/style.js"></script><style type="text/css"><!--.mTD,.mTD A:Link,.mTD A:Visited {color:#07385F}.mTD,.mTD A {white-space:nowrap;color:#07385F;font-weight:normal;}.mTD,.mTD A:Active,.mTD A:Link,.mTD A:Visited,.mTD A:Hover{font-weight:normal;font-size:7px;font-family:arial,helvetica,helv,sans-serif;text-decoration:none;position:relative;}.SUBmTD,.SUBmTD A {white-space:nowrap;color:#07385F;font-weight:normal;}.SUBmTD,.SUBmTD A:Link,.SUBmTD A:Visited {color:#07385F}.SUBmTD,.SUBmTD A:Active,.SUBmTD A:Link,.SUBmTD A:Visited,.SUBmTD A:Hover{font-weight:normal;font-size:7px;font-family:arial,helvetica,helv,sans-serif;text-decoration:none;}//--></style> 
 <script language="javascript1.2" src="/includes/js/little_window.js"></script>
 
 <script type="text/javascript" language="JavaScript">
 
 <!--
+$("img").lazyload();
 
 var imgObj;
 function over(imgNum) {
@@ -59,9 +62,13 @@ function locateImage(name) {
 	return (false);
 }
 
-function show2(elem)
+function showbak(elem)
 {
-	document.getElementById(elem).style.display = "table" ;
+	if (elem == 'headlineitem1') {
+		hide('headlineitem2') ;
+		hide('headlineitem3') ;
+	}
+	document.getElementById(elem).style.display = "block" ;
 }
 
 function show(elem)
@@ -76,7 +83,7 @@ function hide(elem)
 
 function swapLink(A,B) 
 {
-document.getElementById('changeme').innerHTML="<img src=\"" + A + "\" border=0 alt=\"\" id=\"beast\">"
+document.getElementById('changeme').innerHTML="<img src=\"" + A + "\" border=\"0\" alt=\"\" id=\"beast\" \/>"
 document.getElementById('changeme').href=B
 // document.getElementById('changeme').target="_blank"
 }
@@ -95,50 +102,63 @@ document.getElementById('changeme').href=B
 <body>
 
 
-<table id="outterbound" cellspacing="0" border="0">
-
-<tbody><tr><td class="main1">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" height="61px">
-      <tbody><tr>
-        <td rowspan="2" width="512px" height="61px"><a href="/"><img src="/includes/images/head_datahome.jpg" alt="Stata" border="0" height="61"></a></td> 
-        <td align="right" valign="top" height="25">
-           <table border="0" cellpadding="0" cellspacing="0" height="25">
-             <tbody><tr>
+<table class="header" cellpadding="0" cellspacing="0">
+ <tbody><tr><td class="main1">
+     <table style="border: 0px; margin: 0px; border: 0px;" cellpadding="0" cellspacing="0">
+     <tbody><tr><td style="text-align: left; width: 100%;padding: 0; margin: 0;"><a href="/"><img src="/includes/i/home10v1_title.jpg" alt="Stata: Data Analysis and Statistical Software" style="padding: 0px; margin: 0px;"></a></td>
+     </tr>
+     </tbody></table>
+ </td></tr>
+ <tr><td class="main2">
+ <table style="width: 100%; height: 20px;" cellpadding="0" cellspacing="0">
+ <tbody><tr><td style="text-align: left;">
+   <table style="height; 20px; width: 172px;" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+     <td style="text-align: right; width: 80px; padding: 0; margin: 0;"><a href="/order/" onmouseover="swapImg('order','/includes/i/home10v1a_order_on.jpg');return true" onmouseout="swapImg('order','/includes/i/home10v1a_order_off.jpg');return true;"><img src="/includes/i/home10v1a_order_off.jpg" id="order" alt="Order Stata"></a></td>
+     <td style="height: 20px; width: 2px;"><img src="/includes/i/home10v1a_divider.jpg"></td>
+     <td style="text-align: right; width: 90px; padding: 0; margin: 0;"><a href="/order/upgrade.html" onmouseover="swapImg('upgrade','/includes/i/home10v1a_upgrade_on.jpg');return true" onmouseout="swapImg('upgrade','/includes/i/home10v1a_upgrade_off.jpg');return true;"><img src="/includes/i/home10v1a_upgrade_off.jpg" id="upgrade" alt="Upgrade now"></a></td>        
+   </tr>
+  </tbody></table>
+ </td>
+ <td style="text-align: right;">
+    <table style="height: 20px; padding: 0px; margin: 0px; float: right;" cellspacing="0" cellpadding="0">
+       <tbody><tr>
                <td><a href="/products/" onmouseover="over(0)" onmouseout="deactivateMenus(false)">
-<img src="/includes/images/products_off.jpg" id="products" alt="Products" border="0" name="b0"></a></td>
+<img src="/includes/i/home10v1_products.gif" id="products" alt="Products" border="0" name="b0"></a></td>
                <td><a href="/order/" onmouseover="over(1)" onmouseout="deactivateMenus(false)">
-<img src="/includes/images/purchase_off.jpg" id="purchase" name="b1" alt="Purchase" border="0"></a></td>
+<img src="/includes/i/home10v1_purchase.gif" id="purchase" name="b1" alt="Purchase" border="0"></a></td>
                <td><a href="/support/" onmouseover="over(2)" onmouseout="deactivateMenus(false)">
-<img src="/includes/images/support_off.jpg" id="support" alt="Support" border="0" name="b2"></a></td>
+<img src="/includes/i/home10v1_support.gif" id="support" alt="Support" border="0" name="b2"></a></td>
                <td><a href="/company/" onmouseover="over(3)" onmouseout="deactivateMenus(false)">
-<img src="/includes/images/company_off.jpg" id="company" alt="Company" border="0" name="b3"></a></td>
-<td style="text-align: right;">
-<form action="http://www.stata.com/gsearch.php" method="GET" style="padding: 0; margin: 0; height: 25px;vertical-align: bottom;">
-  <table border="0" cellspacing="0" style="padding: 0;margin: 0;height:25px">
-  <tbody><tr><td style="padding:0;height:25px;"><img src="/includes/images/search_edge.jpg" alt="" border="0" height="25"><a href="http://www.stata.com/search/" onmouseover="over(4)" onmouseout="deactivateMenus(false)"><img src="/includes/images/search_txt.jpg" id="search" alt="Search" border="0" name="b4" height="25"></a></td>
-      <td style="height: 25px; background-image: url('/includes/images/search_fill.jpg');vertical-align: top;">
-	<input type="text" name="q" size="10" height="20" maxlength="255" value="" style="font-size: 75%;padding:0;margin-left: 2; margin-right:0;margin-top:0;margin-bottom:0;vertical-align: top;">
+<img src="/includes/i/home10v1_company.gif" id="company" alt="Company" border="0" name="b3"></a></td>
+<td style="text-align: right; vertical-align: middle;">
+<form action="http://www.stata.com/gsearch.php" method="GET" style="padding: 0; margin: 0; height: 21px;vertical-align: bottom;">
+  <table border="0" cellspacing="0" cellpadding="0" style="padding: 0;margin: 0;">
+  <tbody><tr><td style="padding:0; vertical-align: middle;"><a href="http://www.stata.com/gsearch.php" onmouseover="over(4)" onmouseout="deactivateMenus(false)"><img src="/includes/i/home10v1_search.gif" id="search" alt="Search" border="0" name="b4"></a></td>
+      <td style="height: 20px; vertical-align: middle;">
+	<input type="text" name="q" size="15" height="18" maxlength="255" value="" style="font-size: 75%;padding:0;margin-left: 2; margin-right:0;margin-top:0;margin-bottom:0;vertical-align: middle;">
 	<input type="hidden" name="site" value="stata">
 	<input type="hidden" name="client" value="stata">
 	<input type="hidden" name="proxystylesheet" value="stata">
 	<input type="hidden" name="output" value="xml_no_dtd">
-      </td><td style="background-image: url('/includes/images/search_fill.jpg');vertical-align: top;height:25">
-<input type="submit" value="Go" height="20" width="15" style="font-size: 75%;padding:0px;margin-top: 0;">
+<input type="submit" value="Go" height="15" width="15" style="font-size: 75%;padding:0px;margin-top: 0; margin-left: 0px;">
   </td>
   </tr>
   </tbody></table>
 </form>
 </td>
-             </tr>
-           </tbody></table>
-    </td></tr>
-    <tr><td style="height: 36px; vertical-align: top; background-image: url('/includes/images/fillspace.jpg');"><img src="/includes/images/fillspace.jpg" alt=""></td></tr>
+          
+       </tr>
     </tbody></table>
-</td></tr>
-<!--<tr><td style="font-size:75%;background-color:#FFFFFF;padding:0;margin:0;">
-&nbsp;&nbsp; &#62;&#62; <a href="/" style="text-decoration:none">Home</a> &#62;&#62; <font color="#6B0505">Privacy policy</font></td></tr> -->
+ 
+ </td></tr>
+</tbody></table>
+ 
+ </td></tr>
+</tbody></table>
+
 <!-- END DROPDOWNS -->
-    <tr>
+<table style="width: 100%;" class="centerit">    <tbody><tr>
     <td style="vertical-align: top; text-align: left;">
 	<table width="100%" border="0" cellpadding="5" cellspacing="0">
 <tbody><tr><td colspan="2" style="font-size:75%;background-color:#FFFFFF;padding:1;margin:0;">
@@ -208,9 +228,8 @@ self.name = "mainWin";
 
 <!-- CONTENT ENDS -->
 	</td>
-
-</tr>
-<tr bgcolor="#EFEFEF">
+</tr></tbody></table><table style="width: 100%;">
+<tbody><tr>
   <td id="main5" width="100%" height="100%" align="center" valign="top" style="border-top: solid 1px #AFAFAF;font-size: 70%;padding-top: 10px; width: 100%;">
 
       © Copyright 1996–2009 StataCorp LP
@@ -229,7 +248,7 @@ self.name = "mainWin";
 <!-- End Menu ----------------------------------------------- -->
 
 
-<script language="javascript1.2" src="/includes/js/menu.js"></script><script language="javascript1.2" type="text/javascript" src="/includes/js/menu_moz.js"></script><div id="u40" class="printhide" style="position:absolute;left:0px;top:0px;"><div id="udm-u42" onmouseover="if(typeof gridClearMenus=='function'){gridClearMenus()}" style=";cursor:default;visibility:hidden;position:absolute;top:0px;left:0px;z-index:1010;width:760px;height:500px;">&nbsp;</div><div id="manch" style="position:absolute;top:0px;left:0px;z-index:1040;"></div><div id="canch" style="position:absolute;top:0px;left:0px;z-index:1060;"></div><div id="udm-navbar" style="display:none;background-color:#AFAFAF;position:absolute;z-index:1002;left:0px;top:0;width:56px;height:21px;" class="mTD"></div><div class="linkspan" title="" onfocus="mainCell(0)" onmouseover="u52=document.getElementById('submenu-0');if(!u52){opT(0,1,'x',openTIMER)}else{partialMainCell(0)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[0][0],mI[0][4],[0])" id="maincell-0" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:1px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#000066" align=""><span onmouseover="u52=document.getElementById('submenu-0');if(!u52){opT(0,1,'x',openTIMER)}else{partialMainCell(0)}" id="maintext-0" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(1)" onmouseover="u52=document.getElementById('submenu-1');if(!u52){opT(1,1,'x',openTIMER)}else{partialMainCell(1)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[1][0],mI[1][4],[1])" id="maincell-1" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:12px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#000066" align=""><span onmouseover="u52=document.getElementById('submenu-1');if(!u52){opT(1,1,'x',openTIMER)}else{partialMainCell(1)}" id="maintext-1" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(2)" onmouseover="u52=document.getElementById('submenu-2');if(!u52){opT(2,1,'x',openTIMER)}else{partialMainCell(2)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[2][0],mI[2][4],[2])" id="maincell-2" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:23px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#000066" align=""><span onmouseover="u52=document.getElementById('submenu-2');if(!u52){opT(2,1,'x',openTIMER)}else{partialMainCell(2)}" id="maintext-2" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(3)" onmouseover="u52=document.getElementById('submenu-3');if(!u52){opT(3,1,'x',openTIMER)}else{partialMainCell(3)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[3][0],mI[3][4],[3])" id="maincell-3" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:34px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#000066" align=""><span onmouseover="u52=document.getElementById('submenu-3');if(!u52){opT(3,1,'x',openTIMER)}else{partialMainCell(3)}" id="maintext-3" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(4)" onmouseover="u52=document.getElementById('submenu-4');if(!u52){opT(4,1,'x',openTIMER)}else{partialMainCell(4)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[4][0],mI[4][4],[4])" id="maincell-4" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:45px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#000066" align=""><span onmouseover="u52=document.getElementById('submenu-4');if(!u52){opT(4,1,'x',openTIMER)}else{partialMainCell(4)}" id="maintext-4" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div></div>
+<script language="javascript1.2" src="/includes/js/menu.js"></script><script language="javascript1.2" type="text/javascript" src="/includes/js/menu_moz.js"></script><div id="u40" class="printhide" style="position:absolute;left:0px;top:0px;"><div id="udm-u42" onmouseover="if(typeof gridClearMenus=='function'){gridClearMenus()}" style=";cursor:default;visibility:hidden;position:absolute;top:0px;left:0px;z-index:1010;width:760px;height:500px;">&nbsp;</div><div id="manch" style="position:absolute;top:0px;left:0px;z-index:1040;"></div><div id="canch" style="position:absolute;top:0px;left:0px;z-index:1060;"></div><div id="udm-navbar" style="display:none;background-color:#AFAFAF;position:absolute;z-index:1002;left:0px;top:0;width:56px;height:21px;" class="mTD"></div><div class="linkspan" title="" onfocus="mainCell(0)" onmouseover="u52=document.getElementById('submenu-0');if(!u52){opT(0,1,'x',openTIMER)}else{partialMainCell(0)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[0][0],mI[0][4],[0])" id="maincell-0" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:1px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#07385F" align=""><span onmouseover="u52=document.getElementById('submenu-0');if(!u52){opT(0,1,'x',openTIMER)}else{partialMainCell(0)}" id="maintext-0" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(1)" onmouseover="u52=document.getElementById('submenu-1');if(!u52){opT(1,1,'x',openTIMER)}else{partialMainCell(1)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[1][0],mI[1][4],[1])" id="maincell-1" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:12px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#07385F" align=""><span onmouseover="u52=document.getElementById('submenu-1');if(!u52){opT(1,1,'x',openTIMER)}else{partialMainCell(1)}" id="maintext-1" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(2)" onmouseover="u52=document.getElementById('submenu-2');if(!u52){opT(2,1,'x',openTIMER)}else{partialMainCell(2)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[2][0],mI[2][4],[2])" id="maincell-2" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:23px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#07385F" align=""><span onmouseover="u52=document.getElementById('submenu-2');if(!u52){opT(2,1,'x',openTIMER)}else{partialMainCell(2)}" id="maintext-2" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(3)" onmouseover="u52=document.getElementById('submenu-3');if(!u52){opT(3,1,'x',openTIMER)}else{partialMainCell(3)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[3][0],mI[3][4],[3])" id="maincell-3" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:34px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#07385F" align=""><span onmouseover="u52=document.getElementById('submenu-3');if(!u52){opT(3,1,'x',openTIMER)}else{partialMainCell(3)}" id="maintext-3" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div><div class="linkspan" title="" onfocus="mainCell(4)" onmouseover="u52=document.getElementById('submenu-4');if(!u52){opT(4,1,'x',openTIMER)}else{partialMainCell(4)}" onmouseout="if(event.clientX<5||event.clientY<5){if(typeof gridClearMenus=='function'){gridClearMenus()}}" onclick="goToUrl(mI[4][0],mI[4][4],[4])" id="maincell-4" style="display:none;z-index:1003;visibility:hidden;position:absolute;top:1px;left:45px;background-color:#EFEFEF;width:10px;height:19px;overflow:hidden"><table class="linkspan" cellpadding="0" cellspacing="0" border="0" style="width:10px;height:19px" onmouseout="copT();event.stopPropagation()"><tbody><tr class="linkspan"><td class="mTD" style="color:#07385F" align=""><span onmouseover="u52=document.getElementById('submenu-4');if(!u52){opT(4,1,'x',openTIMER)}else{partialMainCell(4)}" id="maintext-4" style=" cursor:default;position:relative;left:0px;top:0px">&nbsp;</span></td></tr></tbody></table></div></div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -239,6 +258,7 @@ try {
 var pageTracker = _gat._getTracker("UA-9407990-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
 
 
 </td></tr></tbody></table></body></html>
