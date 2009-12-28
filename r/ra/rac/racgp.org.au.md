@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107035344id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228092929id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
 
 # RACGP | Privacy Statement
 
@@ -40,7 +40,7 @@ We will send you "spam" (advertising information) unless you have indicated that
 
 The College will endeavour to take all reasonable steps to keep secure any personal information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers or is protected in controlled facilities.
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by the College. However, the College will not be held responsible for events arising from unauthorised access to your personal information. You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the College website. You should regular change your web site password and in setting a password you should use a combination of letters (upper and lower case), numbers and special characters (!, @ etc). Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by the College. However, the College will not be held responsible for events arising from unauthorised access to your personal information. You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the College website. You should regularly change your web site password and in setting a password you should use a combination of letters (upper and lower case), numbers and special characters (!, @ etc). Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
 ## You can access the information we keep about you
 
