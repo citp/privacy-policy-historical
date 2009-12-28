@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxclub.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621192823id_/http%3A//www.fxclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxclub.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228015120id_/http%3A//www.fxclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
