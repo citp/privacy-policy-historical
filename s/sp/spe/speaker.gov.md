@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625205858id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228043332id_/http%3A//speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
 
 # Speaker Nancy Pelosi
 
@@ -7,11 +7,11 @@ Get the latest news and info from the Speaker
 
 [](http://www.kintera.org/autogen/home/default.asp?ievent=239010)
 
+[](http://www.speaker.gov/newsroom/factcheck?id=0088)
+
 [](http://www.speaker.gov/blog)
 
 [](http://www.speaker.gov/issues?id=0075)
-
-[](http://www.speaker.gov/blog/?p=1821)
 
   
 We are committed to protecting your privacy.  No personal information about you is collected when you visit our web site unless you choose to provide that information. 
