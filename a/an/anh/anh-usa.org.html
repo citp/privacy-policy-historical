@@ -1,0 +1,425 @@
+<!--The following is the downloaded HTML source of the anh-usa.org privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228062654id_/http%3A//www.anh-usa.org/new_site/%3Fpage_id%3D1242) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Privacy Policy «  Alliance for Natural Health – US</title>
+
+<link rel="stylesheet" href="http://www.anh-usa.org/new_site/wp-content/themes/anhus/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/new_site/wp-content/themes/anhus/anhus.css" type="text/css" media="screen">
+<link rel="pingback" href="http://www.anh-usa.org/new_site/xmlrpc.php">
+
+<script src="/new_site/includes/jquery.js" type="text/javascript"></script>
+<script src="/new_site/includes/jquery.innerfade.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-12127933-1");
+pageTracker._trackPageview();
+var secondTracker = _gat._getTracker("UA-8534738-9");
+secondTracker._setDomainName("none");
+secondTracker._setAllowLinker(true);
+secondTracker._initData();
+secondTracker._trackPageview();
+} catch(err) {}</script>
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAZ6YTIfpce8vA-AgONbQXiRRasg3QDJL-yc4nS5rSEGanv5jSuhQQ_NCy03sI200EvNPG__lT-9lpaw" type="text/javascript"></script>
+
+<script type="text/javascript">
+    //<![CDATA[
+    var map;
+    var geocoder;
+
+    function load() {
+      if (GBrowserIsCompatible()) {
+        geocoder = new GClientGeocoder();
+        map = new GMap2(document.getElementById('map'));
+        map.addControl(new GSmallMapControl());
+        map.addControl(new GMapTypeControl());
+        map.setCenter(new GLatLng(40, -100), 4);
+      }
+	  searchLocations();
+    }
+
+   function searchLocations() {
+     var address = document.getElementById('addressInput').value;
+     geocoder.getLatLng(address, function(latlng) {
+       if (!latlng) {
+         if (address != ''){
+			 alert(address + ' not found');
+		 }
+       } else {
+         searchLocationsNear(latlng);
+       }
+     });
+   }
+
+   function searchLocationsNear(center) {
+     var radius = document.getElementById('radiusSelect').value;
+     var searchUrl = 'map.php?lat=' + center.lat() + '&lng=' + center.lng() + '&radius=' + radius;
+     GDownloadUrl(searchUrl, function(data) {
+       var xml = GXml.parse(data);
+       var markers = xml.documentElement.getElementsByTagName('marker');
+       map.clearOverlays();
+
+       var sidebar = document.getElementById('map_sidebar');
+       sidebar.innerHTML = '';
+       if (markers.length == 0) {
+         sidebar.innerHTML = 'No results found.';
+         map.setCenter(new GLatLng(40, -100), 4);
+         return;
+       }
+
+       var bounds = new GLatLngBounds();
+       for (var i = 0; i < markers.length; i++) {
+         var name = markers[i].getAttribute('practicename');
+         var address = markers[i].getAttribute('address');
+		 var member = markers[i].getAttribute('memberid');
+         var distance = parseFloat(markers[i].getAttribute('distance'));
+         var point = new GLatLng(parseFloat(markers[i].getAttribute('bg_lat')),
+                                 parseFloat(markers[i].getAttribute('bg_long')));
+         
+         var marker = createMarker(point, name, address, member);
+         map.addOverlay(marker);
+         var sidebarEntry = createSidebarEntry(marker, name, address, distance);
+         sidebar.appendChild(sidebarEntry);
+         bounds.extend(point);
+       }
+       map.setCenter(bounds.getCenter(), map.getBoundsZoomLevel(bounds));
+     });
+   }
+
+    function createMarker(point, name, address, member) {
+      var marker = new GMarker(point);
+      var html = '<a href="?page_id=1247&member='+member+'"><b>' + name + '</b></a> <br/>' + address;
+      GEvent.addListener(marker, 'click', function() {
+        marker.openInfoWindowHtml(html);
+      });
+      return marker;
+    }
+
+    function createSidebarEntry(marker, name, address, distance) {
+      var div = document.createElement('div');
+      var html = '<b>' + name + '</b> (' + distance.toFixed(1) + ')<br/>' + address;
+      div.innerHTML = html;
+      div.style.cursor = 'pointer';
+      div.style.marginBottom = '5px'; 
+      GEvent.addDomListener(div, 'click', function() {
+        GEvent.trigger(marker, 'click');
+      });
+      GEvent.addDomListener(div, 'mouseover', function() {
+        div.style.backgroundColor = '#eee';
+      });
+      GEvent.addDomListener(div, 'mouseout', function() {
+        div.style.backgroundColor = '#fff';
+      });
+      return div;
+    }
+    //]]>
+
+  </script>
+
+
+<meta name="CMS" content="Pods 1.7.8">
+
+        <!-- wp_css_menu_dropdown dynamic menu widths -->
+        <style type="text/css" media="screen">
+            .menu {width: px}
+            * html .menu {width:px; w\idth:px;}
+            .menu li {width:-0.0178571428571px; }
+            .menu a, .menu a:visited {width:-10.0178571429px; }
+            * html .menu a, * html .menu a:visited {width:-10.0178571429px; w\idth:-12.0178571429px;}
+            .menu ul ul a, .menu ul ul a:visited {width:128px;}
+            * html .menu ul ul a, * html .menu ul ul a:visited {width:150px;w\idth:128px;}       
+            .menu ul ul ul {width:-0.0178571428571px; left:-0.0178571428571px}
+            .menu ul ul {width:-0.0178571428571px;}                     
+        </style>
+        <!-- /dynamic menu widths -->
+        
+        <link rel="alternate" type="application/rss+xml" title="Alliance for Natural Health - US » Feed" href="http://www.anh-usa.org/new_site/?feed=rss2">
+<link rel="alternate" type="application/rss+xml" title="Alliance for Natural Health - US » Comments Feed" href="http://www.anh-usa.org/new_site/?feed=comments-rss2">
+<link rel="alternate" type="application/rss+xml" title="Alliance for Natural Health - US » Privacy Policy Comments Feed" href="http://www.anh-usa.org/new_site/?feed=rss2&amp;page_id=1242">
+<script type="text/javascript" src="http://www.anh-usa.org/new_site/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/new_site/wp-includes/js/swfupload/swfupload.js?ver=2201"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/new_site/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.anh-usa.org/new_site/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.anh-usa.org/new_site/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Alliance for Natural Health - US" href="http://www.anh-usa.org/new_site">
+<meta name="generator" content="WordPress 2.8.4">
+<script type="text/javascript" charset="utf-8" src="http://w.sharethis.com/button/sharethis.js#publisher=79065177-5047-4d49-b43b-1f70d867d14b&amp;type=wordpress&amp;post_services=email%2Cfacebook%2Ctwitter%2Cdigg%2Cdelicious%2Cstumbleupon%2Creddit%2Cwordpress%2Cnewsvine&amp;wp=2.8.4"></script></head>
+<body class="page page-id-1242 page-template page-template-default">
+<div id="page">
+
+
+<div id="header" role="banner">
+	<div id="header_logo">
+		<a href="../new_site/index.php"><img src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/logo.jpg" border="0"></a>
+	</div>
+	
+	<div id="header_login">
+						<div style="margin:5px;"><a href="http://www.anh-usa.org/new_site/wp-login.php">Sign in</a> or <a href="https://secure3.convio.net/aahf/site/Donation2?1461.donation=form1&amp;df_id=1461">become a member</a> »</div>
+			<form name="login" action="http://www.anh-usa.org/new_site/wp-login.php" method="post">
+				<div class="item"><input class="input" type="text" name="log" value="Username" onfocus="if(this.value=='Username'){this.value=''}" onblur="if(this.value==''){this.value='Username'}"></div>
+				<div class="item"><input class="input" type="password" name="pwd" value="Password" onfocus="if(this.value=='Password'){this.value=''}" onblur="if(this.value==''){this.value='Password'}"></div>
+				<div class="item"><input type="button" class="go" onclick="document.login.submit();"></div>
+			</form>
+			</div>
+	
+	<div id="header_search">
+		<div style="margin:5px;"><a href="http://www.anh-usa.org/new_site/index.php?s=anhusa">ADVANCED SEARCH »</a></div>
+		<form name="searchform" action="index.php" method="get">
+			<div class="item"><input class="input" type="text" name="s" value="Search this Site" onclick="this.value=''" onblur="if(this.value==''){this.value='Search this Site'}"></div>
+			<div class="item"><input type="button" class="go" onclick="document.searchform.submit();"></div>
+		</form>
+	</div>
+	
+		
+	<div id="banner">
+		<object width="650" height="80"><param name="movie" value="http://www.anh-usa.org/wp-content/uploads/2009/12/merger1.swf"><embed src="http://www.anh-usa.org/wp-content/uploads/2009/12/merger1.swf" width="650" height="80"></object>	</div>
+	
+	<div id="menu">
+		<ul>
+			<li><a href="index.php">HOME</a></li>
+			
+		<li class="menu_item menu_item_2 parent"><a href="http://www.anh-usa.org/new_site/?page_id=2" class="menu_item_link menu_item_link_2 parent" rel="bookmark" title="ABOUT US">ABOUT US<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li class="menu_item menu_item_116 "><a href="http://www.anh-usa.org/new_site/?page_id=116" class="menu_item_link menu_item_link_116 " rel="bookmark" title="Overview">Overview</a></li>
+		<li class="menu_item menu_item_120 "><a href="http://www.anh-usa.org/new_site/?page_id=120" class="menu_item_link menu_item_link_120 " rel="bookmark" title="Accomplishments">Accomplishments</a></li>
+		<li class="menu_item menu_item_125 "><a href="http://www.anh-usa.org/new_site/?page_id=125" class="menu_item_link menu_item_link_125 " rel="bookmark" title="Our Approach">Our Approach</a></li>
+		<li class="menu_item menu_item_134 "><a href="http://www.anh-usa.org/new_site/?page_id=134" class="menu_item_link menu_item_link_134 " rel="bookmark" title="ANH-USA Leadership">ANH-USA Leadership</a></li>
+		<li class="menu_item menu_item_136 "><a href="http://www.anh-usa.org/new_site/?page_id=136" class="menu_item_link menu_item_link_136 " rel="bookmark" title="Contact Us">Contact Us</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+		<li class="menu_item menu_item_61 parent"><a href="http://www.anh-usa.org/new_site/?page_id=61" class="menu_item_link menu_item_link_61 parent" rel="bookmark" title="CAMPAIGNS">CAMPAIGNS<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li class="menu_item menu_item_140 "><a href="http://www.anh-usa.org/new_site/?page_id=140" class="menu_item_link menu_item_link_140 " rel="bookmark" title="Healthcare Reform">Healthcare Reform</a></li>
+		<li class="menu_item menu_item_142 "><a href="http://www.anh-usa.org/new_site/?page_id=142" class="menu_item_link menu_item_link_142 " rel="bookmark" title="Free Speech About Science Act (FSAS)">Free Speech About Science Act (FSAS)</a></li>
+		<li class="menu_item menu_item_654 "><a href="http://www.anh-usa.org/new_site/?page_id=654" class="menu_item_link menu_item_link_654 " rel="bookmark" title="Monopoly Over Nutritional Therapy">Monopoly Over Nutritional Therapy</a></li>
+		<li class="menu_item menu_item_146 "><a href="http://www.anh-usa.org/new_site/?page_id=146" class="menu_item_link menu_item_link_146 " rel="bookmark" title="Protect Individualized Medicine">Protect Individualized Medicine</a></li>
+		<li class="menu_item menu_item_147 "><a href="http://www.anh-usa.org/new_site/?page_id=147" class="menu_item_link menu_item_link_147 " rel="bookmark" title="Codex Alimentarius">Codex Alimentarius</a></li>
+		<li class="menu_item menu_item_150 "><a href="http://www.anh-usa.org/new_site/?page_id=150" class="menu_item_link menu_item_link_150 " rel="bookmark" title="Dietary Supplement Health and Education Act (DSHEA)">Dietary Supplement Health and Education Act (DSHEA)</a></li>
+		<li class="menu_item menu_item_663 "><a href="http://www.anh-usa.org/new_site/?page_id=663" class="menu_item_link menu_item_link_663 " rel="bookmark" title="State Medical Board Reform">State Medical Board Reform</a></li>
+		<li class="menu_item menu_item_1019 "><a href="http://www.anh-usa.org/new_site/?page_id=1019" class="menu_item_link menu_item_link_1019 " rel="bookmark" title="Children’s Wellness">Children’s Wellness</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+		<li class="menu_item menu_item_16 parent"><a href="http://www.anh-usa.org/new_site/?page_id=16" class="menu_item_link menu_item_link_16 parent" rel="bookmark" title="POSITION PAPERS">POSITION PAPERS<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li class="menu_item menu_item_862 "><a href="http://www.anh-usa.org/new_site/?page_id=862" class="menu_item_link menu_item_link_862 " rel="bookmark" title="Vaccinations">Vaccinations</a></li>
+		<li class="menu_item menu_item_657 "><a href="http://www.anh-usa.org/new_site/?page_id=657" class="menu_item_link menu_item_link_657 " rel="bookmark" title="Medical Records Privacy">Medical Records Privacy</a></li>
+		<li class="menu_item menu_item_659 "><a href="http://www.anh-usa.org/new_site/?page_id=659" class="menu_item_link menu_item_link_659 " rel="bookmark" title="P5P/Vitamin B6">P5P/Vitamin B6</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+		<li class="menu_item menu_item_18 parent"><a href="http://www.anh-usa.org/new_site/?page_id=18" class="menu_item_link menu_item_link_18 parent" rel="bookmark" title="MEDIA CENTER">MEDIA CENTER<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li class="menu_item menu_item_879 "><a href="http://www.anh-usa.org/new_site/?page_id=879" class="menu_item_link menu_item_link_879 " rel="bookmark" title="Press Releases">Press Releases</a></li>
+		<li class="menu_item menu_item_903 "><a href="http://www.anh-usa.org/new_site/?page_id=903" class="menu_item_link menu_item_link_903 " rel="bookmark" title="Letters to the Editor">Letters to the Editor</a></li>
+		<li class="menu_item menu_item_909 "><a href="http://www.anh-usa.org/new_site/?page_id=909" class="menu_item_link menu_item_link_909 " rel="bookmark" title="ANH-USA In The News">ANH-USA In The News</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+		<li class="menu_item menu_item_22 "><a href="http://www.anh-usa.org/new_site/?page_id=22" class="menu_item_link menu_item_link_22 " rel="bookmark" title="EVENTS">EVENTS</a></li>
+		<li class="menu_item menu_item_75 parent"><a href="http://www.anh-usa.org/new_site/?page_id=75" class="menu_item_link menu_item_link_75 parent" rel="bookmark" title="RESOURCES">RESOURCES<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li class="menu_item menu_item_1118 "><a href="http://www.anh-usa.org/new_site/?page_id=1118" class="menu_item_link menu_item_link_1118 " rel="bookmark" title="Advocate Tool Kit">Advocate Tool Kit</a></li>
+		<li class="menu_item menu_item_1181 "><a href="http://www.anh-usa.org/new_site/?page_id=1181" class="menu_item_link menu_item_link_1181 " rel="bookmark" title="Legislative Scorecard">Legislative Scorecard</a></li>
+		<li class="menu_item menu_item_1151 "><a href="http://www.anh-usa.org/new_site/?page_id=1151" class="menu_item_link menu_item_link_1151 " rel="bookmark" title="Links">Links</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>			<li style="float:right;"><a>ANH REGIONS<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul style="left:-85px; background-color:#FFFFFF;">
+					<li><a href="http://www.anh-europe.org"><img src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/europe.jpg" border="0"></a></li>
+					<li><a href="http://www.anhinternational.org/"><img src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/international.jpg" border="0"></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div>
+
+</div>
+
+
+
+	<div id="page_content">
+
+										<div class="post" id="post-1242">
+		<h2>Privacy Policy</h2>
+			<div class="entry">
+				<p><strong>Privacy Policy</strong></p>
+<p><strong>We respect your privacy.</strong></p>
+<p>This privacy statement was created in order to demonstrate our commitment to you, our supporter. This statement discloses the privacy practices for this site.</p>
+<p>We do not rent or sell our Member list to 3rd parties.</p>
+<p>We only send email to those who have elected to receive it from us.</p>
+<p>You can opt-out of receiving electronic communications by clicking the opt-out button (or sending an email with the subject: unsubscribe) at any time.</p>
+<p>The American Association for Health Freedom ( AAHF) is committed to protecting health freedom. We are also committed to protecting the personal information that you entrust to us when using AAHF’s websites. This online privacy statement (the “Privacy Statement”) describes how we treat all user data collected by AAHF during your visit to the reformFDA.org website or www.anh-usa.org. It covers both technical data that is automatically collected and data that you voluntarily provide.</p>
+<p>AAHF may occasionally update this Statement. We will post any changes on this web page, so be sure to check back periodically. If we do make material changes, we will post a notice on our home page that the Privacy Statement has been modified and provide a link to the revised Privacy Statement.</p>
+<p><strong>User Data We Collect</strong></p>
+<p>We collect two types of user data: (1) technical data that is automatically collected from all visitors to the AAHF Site (”Automatically Collected Data”); and (2) data that you voluntarily submit to us (described below under “Voluntarily Submitted Data”).</p>
+<p>Automatically Collected Data. We automatically collect Internet Protocol (”IP”) addresses and domain names of the originating visitor’s computer on our server and may have some information you have previously provided through cookies. (See the section on Cookies below for more information.) We also track the number and frequency of hits per page by IP addresses, but we do not associate any individual IP address with any other personal identifying information except to detect security intrusions or certain unlawful activity.</p>
+<p>In addition, if you come to an AAHF website from a hyperlink (email or website), we may also identify the source of that link.</p>
+<p>Voluntarily Submitted Data. We may collect Voluntarily Submitted Data, including personal data, that you provide, including your name and postal address, phone number, e-mail address, and similar information. For example when you:</p>
+<p>join or renew your membership to AAHF;</p>
+<p>make an additional contribution to support AAHF;</p>
+<p>sign up for our e-mail network;</p>
+<p>send correspondence to your government representative, to a friend or to other targeted representatives through the AAHF Site;</p>
+<p>participate in one of our online petitions or surveys; or</p>
+<p>participate in any activity that requires your Voluntarily Submitted Data.</p>
+<p><strong>How We Use the Data We Collect</strong></p>
+<p>In addition to the uses described above, we use Automatically Collected Data to identify the source of user traffic (i.e., aol.com), but we do not tie this information to individual users in our database. We use data on which sections of the AAHF site are most visited, so that we can evaluate the popularity of our different web pages and continue to improve the AAHF Site. We do not link any Automatically Collected Data with the Voluntarily Submitted Data you provide to us except to detect security intrusions or certain unlawful activity.</p>
+<p><strong>We use your Voluntarily Submitted Data for various purposes:</strong></p>
+<p>To fulfill the request for which you specifically provided the data, including sharing the data with its intended recipient (e.g., delivering a petition you sign or a letter you wish to send to the recipient of the petition or letter);</p>
+<p>To periodically communicate with you concerning health freedom matters, such as delivering to you information and updates on our activities and action alerts, if you have not opted out of receiving such information and updates;</p>
+<p>To indicate you as the author of any comment you post, including on any AAHF Site blog or forum, when you opt to identify yourself as the author or when posting such comment requires such identification, and to display any personally identifying or other information you voluntarily include in such comments.</p>
+<p>To personalize the content that you see based on the activities and products that you have selected on the AAHF Site;</p>
+<p>To allow you to set and change user preferences;</p>
+<p>To allow you to renew your membership in the AAHF;</p>
+<p>To offer you other ways to support the AAHF, including solicitations for additional contributions if you have not opted out of receiving such communications;</p>
+<p>To confirm your contribution to AAHF;</p>
+<p>To confirm your registration to an AAHF event;</p>
+<p>To follow up with you with an email specific to an activity you have participated in or intend to participate in.</p>
+<p>If your Voluntarily Submitted Data includes a U.S. zip code or state and you are a member, donor or subscriber to AAHF information, we may also share your Voluntarily Submitted Data with our state chapter if you have checked that you want to support our state efforts and have given us permission to do so.  They may use that information to:</p>
+<p>Periodically communicate with you concerning local chapter matters, such as delivering information and updates on the chapter’s activities, action alerts concerning local matters and invitations to local events, if you have not opted out of receiving that information;</p>
+<p>Confirm your registration to an event;</p>
+<p>Follow up with you with an email specific to an activity you have participated in or intend to participate in; and</p>
+<p>Offer you other ways to support AAHF and chapter, including solicitations for additional contributions, if you have not opted out of receiving such communications.</p>
+<p>The AAHF Sites are hosted by servers in the United States. Accordingly, if you are located outside of the United States, the Voluntarily Submitted Data you provide to us will be transferred to the United States. By submitting your Voluntarily Submitted Data, you consent to its transfer and storage in the United States and its use in accordance with the purposes for which it was originally collected (see below regarding third-party sharing of Voluntarily Submitted Data from non-U.S. residents).</p>
+<p>If you are a U.S. resident, we may also from time to time combine your Voluntarily Submitted Data with some publicly available data collected from third parties to improve our services to you and for our own internal marketing, communications, and fundraising purposes.</p>
+<p><strong>Third Parties</strong></p>
+<p><strong>Third Party Sharing</strong></p>
+<p>We share your Voluntarily Submitted Data with third-party service providers who fulfill your orders or transactions, contact you on our behalf, or facilitate some other aspect of the AAHF Site activities, services or products, including any third-party service providers who assist us in our own fundraising and communications efforts and that collect Voluntarily Submitted Data on behalf of the AAHF for the AAHF to use as described above. These service providers have access to your Voluntarily Submitted Data solely for the purpose of providing these services to us on our behalf, and they are contractually prohibited from sharing your Voluntarily Submitted Data with any third parties (other than subcontractors assisting them in their providing these services to us and who also are contractually prohibited from sharing our Voluntarily Submitted Data with any other third parties). Please note that we do not share data from non-U.S. residents with any other third parties (except where required by law, see below), even if a non-U.S. resident has subsequently authorized such use, for example, by checking an opt-in request.</p>
+<p>We never sell your Voluntarily Submitted Data to any third-party (company, publication, or organization).  We do not share your Voluntarily Submitted Data with any third-party (company, publication, or organization) unless you have specifically authorized us to do so.</p>
+<p>Except as described in this Privacy Statement, we will not share your Voluntarily Submitted Data with any third party unless we first notify you and offer you an appropriate choice to consent to such further use, for example, through an opt-out or opt-in request.</p>
+<p><strong>Third-Party Functionality</strong></p>
+<p>As discussed in the preceding section, to support certain functions carried out on the AAHF Site, the AAHF uses third-party service providers. In limited instances with respect to specific optional functions on the AAHF Site, those third parties may have data collection, use or security procedures that differ from the practices outlined in this Privacy Statement and that may impact users of those optional functions. For example, a third-party service provider may support a specific web tool on the AAHF site, such as a video, that appears within the AAHF Site, even though that tool is actually on the website of the third-party service provider. Any time a third-party service provider’s data collection, use, or security practices differ from the data collection/use/security  practices described in this Statement in a manner that would impact users of the AAHF Site, we will either describe on the pages of the AAHF Site where such optional functions appear, describe the  service provider policies  that would apply if you elect to use those optional functions or we will provide a link to that third-party service provider’s privacy policy.</p>
+<p><strong>Coalitions</strong></p>
+<p>In furtherance of its mission, the AAHF forms, works with, and joins Coalitions of organizations and individuals collectively working on issues related to our mission of protecting natural health and preserving health freedom (”Coalitions”). AAHF does not share Voluntarily Submitted Data with those Coalitions unless you have agreed to our doing so.</p>
+<p>Once you have agreed to do so (or have voluntarily submitted information to a Coalition in any manner other than through the AAHF Site), that information is information you are submitting to the Coalition itself. Unless specifically stated otherwise on the AAHF Site with respect to a Coalition action or a collection mechanism for a Coalition, this Privacy Statement does not address the treatment of personal information, including Voluntarily Submitted Data, that is submitted to a Coalition member. Please contact the Coalition member directly or review the privacy statement on the Coalition member’s website, if it has one, to learn about the treatment of the information you provide to a Coalition member.</p>
+<p><strong>Your Ability to Choose</strong></p>
+<p>When you provide us with your Voluntarily Submitted Data on an AAHF Site, you can let us know that you do not wish to receive our email communications by un-checking or not checking the subscription request box on the form you are completing, by un-checking or not checking the subscription request box on our User Preference Page, by unsubscribing from further email communications of a specific type following receipt of an email of that type, or by contacting us via postal mail sent to AAHF Webmaster, 1350 Connecticut Ave NW, 5th Floor, Washington, DC 20036.</p>
+<p><strong>Children</strong></p>
+<p>We do not knowingly collect information from children under the age of 13.</p>
+<p><strong>Security</strong></p>
+<p>The Voluntarily Submitted Data we collect about you is stored on a secure, password protected server. Only authorized personnel have access to your information. We use industry-standard encryption technologies with respect to the receipt and transfer of Voluntarily Submitted Data you submit to us on the AAHF Site and related sites and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet and no data storage method can be guaranteed to be 100% secure.</p>
+<p><strong>Updating Your Data</strong></p>
+<p>To update your Voluntarily Submitted Data or to make corrections, you can do so by using your User Preference Page, or by sending us the update via postal mail sent to AAHF Membership Department, 1350 Connecticut Ave NW, 5th Floor, Washington, DC 20036.</p>
+<p><strong>Comments and Questions</strong></p>
+<p>If you have any questions, comments or concerns about this Privacy Statement or our data collection practices or to request that we delete your Voluntarily Submitted Data, you can email us at office@anh-usa.org, or send us your questions or comments via postal mail sent to AAHF Webmaster, 1350 Connecticut Ave NW, 5th Floor, Washington, DC 20036</p>
+
+				
+			</div>
+		</div>
+				</div>
+	
+	<div id="page_sidebar">
+		<div id="take_action">
+			<h1>Take Action!</h1>
+			<h2>YOU CAN MAKE A DIFFERENCE.</h2>
+			<div class="text">Members of Congress listen to what you say. Each time they are contacted it represents 1,000 voices. Are you concerned with healthcare in this country? Make your voice heard and create change!</div>
+			<input type="button" class="button" onclick="javascript:window.location = 'http://www.anh-usa.org/new_site/?page_id=32';" style="cursor:pointer;">
+		</div>
+		<div id="sub_campaigns">
+			<div id="sub_campaign_header">
+				<h1>Our Campaigns</h1>
+			</div>
+			<form name="campaigns" action="">
+					<select name="campaign_dropdown" id="campaign_dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> 
+					 <option value="">
+					Select Campaign</option> 
+					 <option value="http://www.anh-usa.org/new_site/?page_id=140">Healthcare Reform</option><option value="http://www.anh-usa.org/new_site/?page_id=142">Free Speech About Science Act (FSAS)</option><option value="http://www.anh-usa.org/new_site/?page_id=147">Codex Alimentarius </option><option value="http://www.anh-usa.org/new_site/?page_id=150">Dietary Supplement Health and Education Act (DSHEA)</option><option value="http://www.anh-usa.org/new_site/?page_id=146">Protect Individualized Medicine</option><option value="http://www.anh-usa.org/new_site/?page_id=654">Monopoly Over Nutritional Therapy </option><option value="http://www.anh-usa.org/new_site/?page_id=663">State Medical Board Reform</option><option value="http://www.anh-usa.org/new_site/?page_id=1019">Children’s Wellness</option>					</select>
+			</form>
+		</div>
+				<div id="related">
+			<div id="related_header">
+				<h1>Related Articles</h1>
+			</div>
+									<div class="related_post">
+			<h2><a href="http://www.anh-usa.org/new_site/?p=546">The Power of the Placebo — Is Healing All in Our Mind?</a></h2>
+			<p>A recent survey of doctors from the U.S. finds that nearly two out of three believe it is permissible to use placebos, and one out of two U.S. doctors prescribe placebos to their patients. Surveys of physicians in Israel, Denmark, and Great Britain reveal similar findings. This research, published in the British Medical Journal (BMJ), [...]</p>
+			<div class="read_more"><a href="http://www.anh-usa.org/new_site/?p=546">Click here to learn more »</a></div>
+			</div>
+										<div class="divider"></div>
+						<div class="related_post">
+			<h2><a href="http://www.anh-usa.org/new_site/?p=483">Federal Activities</a></h2>
+			<p>Medical Information and Treatment Access Act<br>
+Many of us have been waiting for this legislation for years.&nbsp; Within next month or so, Congressman Chris Cannon (R-UT) and other members of Congress plan to introduce Medical Information and Treatment Access Act (MITA) legislation.&nbsp; It is currently undergoing the last language revisions before it is introduced.&nbsp;<br>
+Had this bill [...]</p>
+			<div class="read_more"><a href="http://www.anh-usa.org/new_site/?p=483">Click here to learn more »</a></div>
+			</div>
+										<div class="divider"></div>
+						<div class="related_post">
+			<h2><a href="http://www.anh-usa.org/new_site/?p=1466">ANH Press Release: ‘United we are stronger’—ANH announces merger</a></h2>
+			<p>Two leading natural health campaign organisations are formally merging as of today. The Alliance for Natural Health (ANH), based in Dorking, UK, and the American Association for Health Freedom (AAHF), of Washington DC, have merged to form the Alliance for Natural Health International (ANH International).</p>
+			<div class="read_more"><a href="http://www.anh-usa.org/new_site/?p=1466">Click here to learn more »</a></div>
+			</div>
+										<div class="divider"></div>
+						<div class="related_post">
+			<h2><a href="http://www.anh-usa.org/new_site/?p=1488">Are Mothers-To-Be Unwittingly Passing BPH and other chemicals to their Unborn babies? And When Will the FDA Wake Up To These Dangers?</a></h2>
+			<p>All children deserve the best protection we can provide, but the government is failing to shield our most vulnerable population — the unborn — from chemicals in the environment.</p>
+			<div class="read_more"><a href="http://www.anh-usa.org/new_site/?p=1488">Click here to learn more »</a></div>
+			</div>
+					</div>
+				<div id="donate">
+			<h2>DONATE TODAY OR BECOME A MEMBER »</h2>
+			<div id="buttons">
+				<div class="button">
+					<h3><a href="http://www.anh-usa.org/new_site/?page_id=35">PRACTITIONER</a></h3>
+					<a href="http://www.anh-usa.org/new_site/?page_id=35">More Info »</a>
+				</div>
+				<div class="divider"></div>
+				<div class="button">
+					<h3><a href="http://www.anh-usa.org/new_site/?page_id=37">INDUSTRY</a></h3>
+					<a href="http://www.anh-usa.org/new_site/?page_id=37">More Info »</a>
+				</div>
+				<div class="divider"></div>
+				<div class="button">
+					<h3><a href="http://www.anh-usa.org/new_site/?page_id=39">CONSUMER</a></h3>
+					<a href="http://www.anh-usa.org/new_site/?page_id=39">More Info »</a>
+				</div>
+			</div>
+		</div>
+		<div id="newsletter">
+			<h2><a href="">SUBSCRIBE TO OUR NEWSLETTER »</a></h2>
+		</div>
+	</div>
+
+
+
+
+	<div id="resources">
+		<div id="titles">
+			<div class="title">OTHER RESOURCES</div>
+			<div class="title">ONLINE COMMUNITY</div>
+			<div class="title">OUR PARTNERS</div>
+		</div>
+		<div id="content">
+			<div class="section">
+				<ul sizcache="67" sizset="81">
+<li><a title="" href="http://www.healthfreedom.net/new_site/?page_id=109" target="">» Find a Practitioner </a><br></li>
+<li><a title="" href="http://www.healthfreedom.net/new_site/?page_id=109" target="">» Find a Natural Health Retailer</a><br></li>
+<li><a title="" href="http://www.healthfreedom.net/new_site/?page_id=1118" target="">» Advocate Tool Kit</a><br></li>
+<li><a title="" href="http://www.healthfreedom.net/new_site/?page_id=18" target="">» Media Center</a></li>
+<li><a title="" href="http://www.healthfreedom.net/new_site/?page_id=22" target="">» Upcoming Events</a></li>
+<li><a title="" href="http://www.healthfreedom.net/new_site/?page_id=32" target="">» Action Alerts</a></li>
+<li><a title="" href="http://aahf.convio.net/site/VoteCenter?page=voteList" target="">» Legislative Scorecard</a><br></li></ul>			</div>
+			<div class="divider"></div>
+			<div class="section">
+				<ul sizcache="67" sizset="87">
+<li><a title="ANH-USA Blog" href="http://thehealthfreedom.blogspot.com/" target="_blank">» ANH-US Blog</a></li>
+<li>» Sustainable Healthcare Forum</li>
+<li>» Ask a Practitioner</li></ul>				<h1>Follow us on...</h1>
+				<div id="social">
+					<a href="http://twitter.com/anhusa"><img class="button" src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/twitter.png" border="0"></a>
+					<a href="http://www.facebook.com/pages/Alliance-for-Natural-Health-USA/243777274534?v=wall"><img class="button" src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/facebook.png" border="0"></a>
+					<a href="?feed=rss2"><img class="button" src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/rss.png" border="0"></a>
+					<a href=""><img class="button" src="http://www.anh-usa.org/new_site/wp-content/themes/anhus/images/youtube.png" border="0"></a>
+				</div>
+			</div>
+			<div class="divider"></div>
+			<div class="section">
+				<a href="http://www.designsforhealth.com/home.htm"><img class="partner" src="http://www.anh-usa.org/wp-content/uploads/2009/12/DFH_Logo_.jpg" width="275"></a>
+			</div>
+		</div>
+	</div>
+<div id="footer"></div>
+</div>
+<div class="footer">
+	<div id="copyright">Copyright 2009 © ANH-USA. All rights Reserved.</div>
+	<div id="links"><a href="http://www.anh-usa.org/new_site/?page_id=1242">Privacy Policy</a> | Site Map | <a href="http://www.anh-usa.org/new_site/?page_id=1240">Tems of Use</a></div>
+	<div style="float:right; font-size:11px; text-align:right;">Funding for the educational aspects and only the educational<br>aspects of this website are provided by the Integrative Medicine Fund.</div>
+</div>
+
+
+
+
+</body></html>
