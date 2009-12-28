@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133243id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228162044id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.psdgraphics.com | psdGraphics
 
@@ -20,6 +20,8 @@ Informations about Google and the [DoubleClick DART cookie](http://www.doublecli
 \- Google, as a third party vendor, uses cookies to serve ads on this site.  
 \- Google’s use of the DART cookie enables it to serve ads to www.psdgraphics.com users based on their visit to www.psdgraphics.com site and other sites on the Internet.  
 \- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+[2Checkout.com](http://www.2checkout.com/), Inc. is an authorized retailer of goods and services provided by PSDGraphics.com.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
