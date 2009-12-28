@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeli.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630235740id_/http%3A//www.youbeli.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeli.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228042913id_/http%3A//www.youbeli.com/privacy.php) for the most accurate reproduction.*
 
 # YouBeli.com - Online Shopping Malaysia
 
