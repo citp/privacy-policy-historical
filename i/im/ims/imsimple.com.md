@@ -1,96 +1,86 @@
-> *The following text is extracted and transformed from the imsimple.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsimple.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228120617id_/http%3A//imsimple.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement :: Namesco Limited Domain Names, Hosting, Dedicated Server Solutions and Broadband
+# Privacy Policy | Make Money Online With Internet Marketing
 
-  * [> Customer Login](https://web.archive.org/controlpanel.html)
-  * [Domain Names](https://web.archive.org/domains.html)
-  * [Email Packages](https://web.archive.org/email.html)
-  * [Web Hosting](https://web.archive.org/hosting.html)
-  * [Dedicated Servers](https://web.archive.org/servers.html)
-  * [Search Engine Submit](https://web.archive.org/search_engines.html)
-  * [Web Development](https://web.archive.org/phase8.html)
-  * [Internet Access](https://web.archive.org/adsl.html)
-  * [Help and Support](https://web.archive.org/support.html)
-  * [Latest News](https://web.archive.org/news.html)
-  * [About Us](https://web.archive.org/profile.html)
-  * [Contact Us](https://web.archive.org/contact.html)
-  * [Price List](https://web.archive.org/prices.html)
+What information do we collect?
 
-  
-| [](https://web.archive.org/news.html)  
----  
-| 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
 
-This privacy statement discloses the privacy practices for Namesco Limited.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-This web site agrees to notify you of: 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Namesco Limited control 
-  7. How you can correct any inaccuracies in the information. 
+What do we use your information for?
 
+Any of the information we collect from you may be used in one of the following ways:
 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/contact.html)
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Information Collection and Use 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Namesco Limited is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Namesco Limited collects information from our users at several different points on our website. 
+• To process transactions
 
-Order 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+• To administer a contest, promotion, survey or other site feature
 
-Cookies 
+• To send periodic emails
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site and is encrypted so cannot be read by any other website. Once the user closes their browser, the cookie simply terminates. It will also terminate once a period of time has elapsed since first using the site. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-We only use cookies for your convenience; for instance, to prevent the user from having to re-enter shopping cart information. If a user rejects the cookie, ordering functionality for the user will be affected. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Log Files 
+How do we protect your information?
 
-We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-Sharing 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-We use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+Do we use cookies?
 
-Links 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-This web site may contain links to other sites. Please be aware that we [Namesco Limited] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Security 
+Do we disclose any information to outside parties?
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
+Third party links
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer service representative) are granted access to personally identifiable information. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Correction/Updating Personal Information: 
+Childrens Online Privacy Protection Act Compliance
 
-If a user's personally identifiable information changes (such as your post code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Choice/Opt-out 
+Terms and Conditions
 
-If you use this site to purchase services you may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications on our order form. 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://IMsimple.com/terms-and-conditions/
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly. 
+Your Consent
 
-Users of our site are notified when their information is being collected or used by any third parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an third party, or not. 
+By using our site, you consent to our websites privacy policy.
 
-Notification of Changes 
+Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-|  | 
+This policy was last modified on May 15th, 2009
 
-[](https://web.archive.org/adsl.html)
+Contacting Us
 
-[ ](https://web.archive.org/competition.html)
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://IMsimple.com  
+P.O. Box 304  
+Owego, NY 13827  
+USA  
+rhodesbrothers@gmail.com
