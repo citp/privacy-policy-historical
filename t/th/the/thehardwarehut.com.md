@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628074228id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228235118id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
 
 # The Hardware Hut - Online and Privacy Policy
 
 | 
 
-**You are here:** [Main Menu](https://web.archive.org/) > Online Policies
+You are here:  [Main Menu](https://web.archive.org/) > Online Policies
 
 Protecting your privacy is very important to www.thehardwarehut.com and The Hardware Hut. This document will help you to understand our policies regarding your personal information. 
 
@@ -22,10 +22,10 @@ We also ask that you allow us to share your information in aggregate form for ou
 
 | 
 
-Sun  June 28, 2009 
+Mon  December 28, 2009 
 
-[](https://www.thehardwarehut.com/cart/cart.php) [](https://www.thehardwarehut.com/portfolio.php) [](https://web.archive.org/search-site.php) [](http://trade.thehardwarehut.com/trade-login.php)
+[](https://www.thehardwarehut.com/cart/cart.php) [](https://www.thehardwarehut.com/portfolio.php) [](https://web.archive.org/search-site.php) [](http://www.thehardwarehut.com/trade-login.php)
 
-[](https://web.archive.org/new-items.php)
+[](https://web.archive.org/special_offers.php)
 
 [](http://www.lightstore.net/)
