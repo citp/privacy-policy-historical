@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133127id_/http%3A//www.artinstitutes.edu/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228061645id_/http%3A//www.artinstitutes.edu/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Art Institutes: Privacy Policy
+# Privacy Policy - The Art Institutes
 
 This policy was last updated on February 1, 2008.
 
@@ -54,6 +54,6 @@ Privacy Administrator
 The Art Institutes  
 210 Sixth Avenue  
 Pittsburgh, PA 15222  
-Fax: (412) 995-7295  
+Fax: 1.412.995.7295  
 Email: [webadmin@edmc.edu](mailto:webadmin@edmc.edu)  
 This policy was last updated on February 1, 2008.
