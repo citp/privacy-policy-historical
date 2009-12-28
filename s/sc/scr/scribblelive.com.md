@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribblelive.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626060117id_/http%3A//www.scribblelive.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribblelive.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228083308id_/http%3A//www.scribblelive.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This is the Privacy Policy of the Scribble Technologies Inc. website (together with our affiliates and subsidiaries, “Scribble Technologies Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [**Terms of Use**](https://web.archive.org/web/20090626060117id_/http%3A//www.scribblelive.com/termsofuse.aspx).
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [**Terms of Use**](https://web.archive.org/web/20091228083308id_/http%3A//www.scribblelive.com/termsofuse.aspx).
 
 ##### How We Use Your Information
 
