@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623182221id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228221851id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy.ph - Privacy Policy - KCET Online
 
