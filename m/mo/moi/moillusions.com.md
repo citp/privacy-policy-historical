@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the moillusions.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228042258id_/http%3A//www.moillusions.com/2006/05/a7.html) for the most accurate reproduction.*
+
+# Privacy Policy | Mighty Optical Illusions
+
+Online privacy is a top concern at Moillusions.com. For further information or questions about privacy, email us at vurdlak@gmail.com. Your use is based on your acceptance of how Moillusions.com operates, as indicated in this Privacy Policy.
+
+Moillusions.com DOES NOT gather user information such as name, email address, age or any other to authenticate who you are. Moillusions.com collects data regarding personal interests and other demographic information. We also gather information on how you use this service, which helps us, in part, to improve the site for your use.
+
+Your User Profile Information, from comments to your written entries, is shared with other people using the site (to the degree that you wish and indicate in comment settings) in order to encourage interaction among users. Communication among users takes place through the Moillusions.com service, which doesn’t reveal your email address. However, your email address is used by Moillusions.com so that we can send you updates and newsletters, if you wish.
+
+Occasionally, Moillusions.com or a sponsor may underwrite a promotion or sweepstakes on the site. Moillusions.com will share your information with a sponsor if you have agreed to allow us to by “opting in” during the registration process. Moillusions.com will indicate which company or sponsor is requesting the information. Moillusions.com users who have received an invitation to participate in such a contest may opt to not be included and ask that the sponsor purge their personal information from their data base.
+
+Moillusions.com sends out email newsletters, invitations and messages of various kinds to users, who reserve the right to block reception of such notices. Moillusions.com does, however, invite third-party advertisers on our site to set and access their cookies on your computer. Their use of cookies is covered under their privacy policy, not that of Moillusions.com.
+
+Third-party advertisers may come from users of Moillusions.com or an advertising partner, who can set cookies, allowing the ad server to recognize your computer each time you are sent an advertisement. Ad servers gather information about how you saw their advertisements and which ones you responded to. Advertisers then send the advertising message of most interest to you. Moillusions.com will occasionally share users’ information, but not by name or any other identifying criteria, so that third-party users can learn, for example, what soft drinks are most popular at a particular school.
+
+Members can indicate when they no longer want to receive solicitations from Moillusions.com, such as email newsletters, by adjusting their Account Settings.
+
+Moillusions.com will not disclose personal information to any third party unless it is deemed necessary, as in the cases of: responding to legal demands or subpoenas; enforcing Moillusions.com Terms of Use Agreement; protecting the safety of users. Moillusions.com reserves the right to transfer personal information in the event that ownership of the site changes hands. Because email correspondence and instant-messaging is not a secure means of communication, Moillusions.com asks that you refrain from sending us personal information in this manner. If you have any questions about your privacy while using Moillusions.com, please contact us at vurdlak@gmail.com.
