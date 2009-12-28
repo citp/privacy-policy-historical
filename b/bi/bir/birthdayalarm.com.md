@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309073639id_/http%3A//www.birthdayalarm.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228062008id_/http%3A//www.birthdayalarm.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
