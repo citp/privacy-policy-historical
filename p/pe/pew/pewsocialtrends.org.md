@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewsocialtrends.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622001313id_/http%3A//pewsocialtrends.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewsocialtrends.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228134311id_/http%3A//pewsocialtrends.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pew Social & Demographic Trends
 
