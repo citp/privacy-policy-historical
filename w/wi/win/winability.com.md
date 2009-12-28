@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211609id_/http%3A//www.winability.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085701id_/http%3A//www.winability.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of WinAbility Software Corporation
 
@@ -14,32 +14,28 @@ WinAbility Software Corporation collects your personal information when you:
 
   
 Our web site collects information about your billing and shipping addresses, email address, telephone number, as well as other information necessary to perform the transaction, such as the credit card information. We use such information to process your order and deliver the goods you have purchased to you, to determine whether you are exempt from the sales tax, and to confirm the validity of your order. It may also be stored in a cookie, on your computer (see below). We may use your email address to send you the order confirmation notices. We may also use your email address and telephone number to contact you to verify the information you have provided us with, for both your and our protection against credit card fraud. We will **not** use your email address to send you any other messages that you have not requested. We will **not** use your telephone number to call you for any other reason. We will **not** share any of your personal information with any third party, unless we are required to do so by law, or we have your express consent to do so. However, we reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may release certain personal information when we believe that such release is reasonably necessary to protect the rights, property, and safety of others and ourselves. 
-  * ##  Subscribe to receive the update notices 
+  * ##  Subscribe to receive a newsletter or update notices 
 
   
-If you opt-in to receive the notifications about the new releases of our products, we will use your email address to send you such notices. We will **not** use your email address to send you any other messages that you have not requested, nor will we share your email address with any third party, unless we are required to do so by law, or we have your express consent to do so. 
-  * ##  Request customer support, check your license for validity, or inquire about the available upgrades 
+If you opt-in to receive our email newsletters and/or the notifications about the new releases of our products, we will use your email address to send you the materials you've subscribed to. We will **not** use your email address to send you any other messages that you have not requested, nor will we share your email address with any third party, unless we are required to do so by law, or we have your express consent to do so. 
+  * ##  Request customer support, check your license for validity, check for available software updates, report an error with our software, or use links or commands in our software to visit our web sites 
 
   
-Our web site may collect your name and email address, the registered name on your current license, the number of copies included in the license, the license key, and/or the order number that you have previously placed with us, as well as any comments you may enter into the contact form. We may use such information to determine your eligibility to receive customer support and product upgrades, to check the validity of your current license to use our software, and to improve the quality of our products and web sites. It may also be stored in a cookie, on your computer (see below). 
+Our web sites may collect your name, email address, the order number that you have previously placed with us, any comments you may enter into the contact form, the registered name on your current license for our software, the number of copies included in the license, the license key, the name and version information of the product of ours that you are using, the general technical information about the operating system and the web browser that you use, the network name and/or IP address of your computer, as well as other technical data that is normally used in the Internet connections. We may use such information to determine your eligibility to receive customer support and product upgrades, to check the validity of your current license to use our software, and to improve the quality of our products and web sites. It may also be stored in a cookie, on your computer (see below). 
 
 
-  * ##  Web site and FTP site visits 
 
-  
-Our web sites collect general usage information about visitors coming to our web and FTP sites. This information (sometimes referred to as "non-personally identifiable information") may include the address of the web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site. This technical data is aggregated and used to measure and improve the effectiveness of our web sites. It may also be stored in a cookie, on your computer (see below). 
-  * ##  Web site visits through links and commands from within our software products 
-
-  
-If you use a command or link offered by our software product to visit our web site, such a link or command may include technical information, such as the title and version number of the software product you have chosen the command from, the licensing information your copy of the product is registered with, as well as an identifier of the source of the link. We may use this information to customize the target web page specifically for you, to determine your eligibility to receive customer support and discounted upgrades, and to improve quality of our products and web sites. It may also be stored in a cookie, on your computer (see below). 
-
-
+Our web sites collect general usage information about visitors coming to our web and FTP sites. This information (sometimes referred to as "non-personally identifiable information") may include the address of the web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site, and other similar technical information. This technical data is aggregated and used to measure and improve the effectiveness of our web sites. It may also be stored in a cookie, on your computer (see below). 
 
 A "cookie" is a small data file that a web site may send to your web browser and that your browser may then store on your computer. We may use cookies to "remember" your previous visits to our web sites and information that you have previously entered into the forms, which would allow you to visit our web site without reentering such information over and over again. The cookies may also be used to keep track of what you have selected to purchase as you click through our site. We may also use cookies to allow you to access areas of our web site that are limited to registered users. However, we do NOT allow other companies (third parties) to set cookies via our web sites. 
 
 Most web browsers allow you to automatically or selectively accept or regect cookies, by adjusting the preferences in your browser. If you turn cookies off, there may be some features of our site that will not be available to you and some web pages may not display properly. 
 
-We use a variety of safeguards to protect your information from loss, misuse, alteration or destruction. For example, we use Secure Sockets Layer (SSL) technology supporting up to 128-bit encryption to prevent unauthorized parties from viewing any personal information transmitted to or from our Online Store. We only provide access to your personal information to our employees and other authorized parties on a "need to know" basis. Your personal information is stored at our secure server only long enough to process your order; after that, the record of your transaction is deleted from the server. If we store your personal information offline, we use "strong" encryption (at least 128-bit) to protect your data from misuse by unauthorized parties. 
+We use a variety of safeguards to protect your information from loss, misuse, alteration or destruction. For example, we use Secure Sockets Layer (SSL) technology supporting up to 128-bit encryption to prevent unauthorized parties from viewing any personal information transmitted to or from our Online Store. We only provide access to your personal information to our employees and other authorized parties on a "need to know" basis. If we store your personal information offline, we use "strong" encryption (at least 128-bit) to protect your data from misuse by unauthorized parties. 
+
+Information that is collected by or sent to us may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, or agents maintain facilities. We may disclose this information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us or the site; (b) protect or defend the rights or property of WinAbility Software Corporation and its family of websites, or (c) act in urgent circumstances to protect the personal safety of our employees, users of our software or services, or members of the public. 
+
+WinAbility Software Corporation occasionally hires other companies to provide limited services on its behalf, such as providing customer support, processing transactions, or performing statistical analysis of reports. We will provide these companies only the information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
 
 We will **NOT** use or share the personal information we collect in ways unrelated to the purpose for which you provided the information without first obtaining your consent (opt-in). If you do opt-in to receive communications from us, you can opt-out at any time. All e-mail communications from us, such as newsletters, tell you how to stop receiving them. 
 
@@ -54,7 +50,7 @@ You may use the same contact information above to send us a request that we dele
 
 If there are changes or additions to this Privacy Policy, we will post those changes here. Regardless of any changes we make to our Privacy Policy, we will only use your personal information in accordance with the version of the Privacy Policy in place at the time you provided your information, unless you later give your express consent for us to do otherwise. 
 
-Last revision date: July 30, 2004 
+Last revision date: June 25, 2009 
 
 Please [contact us](https://web.archive.org/support/) if you have questions regarding this Privacy Policy. 
 
