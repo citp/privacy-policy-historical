@@ -1,27 +1,30 @@
-> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618233636id_/http%3A//www.statisticsauthority.gov.uk/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228215446id_/http%3A//www.statistics.gov.uk/hub/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy policy: UK Statistics Authority
+# Privacy: UK National Statistics Publication Hub
 
-The UK Statistics Authority has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website:
+National Statistics has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
-###### Provision of email addresses
+## Provision of E-mail Addresses
 
-The UK Statistics Authority uses email addresses for the following reasons:
+National Statistics uses email addresses for the following reasons:
 
-1\. to provide a customised view of the website for each customer, and
+   1\. To provide a customised view of the Web Site for each customer and,   
+   2\. To gather statistical information regarding the use of the Web Site for internal use only
 
-2\. to gather statistical information regarding the use of the website for internal use only
+National Statistics will not disclose your e-mail address to any third parties without first obtaining your permission.
 
-The UK Statistics Authority will not disclose your email address to any third parties without first obtaining your permission.
-
-###### User information
+## User information
 
 This website uses cookies, 'web bugs' and Javascript tracking code to gather anonymous information about visitors' usage patterns, in order to improve the navigation of the site, the presentation of its content, and the quality of its services. The information collected does not include personal details such as your name, age, phone number, postal address or email address, nor does it allow personal identification of a user.
 
-###### External Links
+## External Links
 
-This site contains links to other sites. The UK Statistics Authority is not responsible for the privacy practices or the content of such websites.
+This site contains links to other sites. National Statistics is not responsible for the privacy practices or the content of such Web sites.
 
-**Security**
+## Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+
+## Contacting the Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/hub/help/index.html "Help") .
