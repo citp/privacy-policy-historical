@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unionpluscard.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618041439id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionpluscard.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228023146id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
-Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions
+Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions | Notice of Error Resolution Procedures
 
 HSBC Bank Nevada, N.A., ("HSBC Bank Nevada") is the proud issuer of the Union Plus® Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly. 
 
@@ -107,11 +107,11 @@ Privacy | Privacy Statement |  Your Choices to Limit Sharing |  Your Choic
   
 
 
-How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont) | How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont) | IHow to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont) | Your Choices to Limit Marketing | Spanish
+How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont) | How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont) | How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont) | Your Choices to Limit Marketing | Spanish
 
 How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont)
 
-IIf you do not want us to share your credit report information with our Affiliates (unless we are permitted or required by law to do so), please let us know by completing the opt-out reply form. If you have previously informed us of your preference, you do not need to do so again. This request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history). This request will only apply to the Union Plus Credit Card account that you designate in your request.
+If you do not want us to share your credit report information with our Affiliates (unless we are permitted or required by law to do so), please let us know by completing the opt-out reply form. If you have previously informed us of your preference, you do not need to do so again. This request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history). This request will only apply to the Union Plus Credit Card account that you designate in your request.
 
 Top of Your Choices to Limit Sharing  
 Back to Top
@@ -194,6 +194,8 @@ Copyright and Other Intellectual Property
 HSBC Bank Nevada, N.A., or its corporate parents, affiliated companies, or subsidiaries (collectively "HSBC Bank Nevada" and/or its Affiliates") is the owner or the authorized user of this website and certain other websites linked to the site, as well as all text, images, graphics, photos, animation, music, sounds and other materials contained within these websites.
 
 The materials contained within these websites, including, without limitation, any copyrights, trademarks, service marks, and all other proprietary materials, are protected by the U.S. and international copyright laws and treaty provisions, trademark laws, and other proprietary rights laws. The material contained within these websites is provided by HSBC Bank Nevada and/or its Affiliates only for lawful uses by customers, employees, and members of the general public. The material may not be copied, republished, incorporated into another website or reproduced (whether by linking, framing, or any other method), transmitted, distributed, uploaded, posted, used to create a derivative work or exploited in any other way without the express written consent of HSBC Bank Nevada.
+
+HSBC holds a license to practice U.S. Patent Nos. 6,405,181; 6,567, 181; and 7,143,063.
 
 Top of Website Terms and Conditions  
 Back to Top
@@ -278,5 +280,42 @@ Updates: These Terms and Conditions were last updated May 1, 2009. Please check 
 Top of Website Terms and Conditions  
 Back to Top
 
+The following annual notice is being provided to you, because you are enrolled in HSBC Card Services’ Online Bill Payment Service for your general purpose credit card. This notice provides important information regarding the procedures for notification on any errors or questions about your online bill payments.
+
+ **This is not a notification of an error on your account.**
+
+Please read the notice below and retain it for your records.
+
+====================================================== 
+
+**Notice of Error Resolution Procedures**
+
+In Cases of Errors or Questions About Your Electronic Transfers 
+
+  * Telephone us at the number on the back of your credit card, or
+  * Write us at HSBC Bank Nevada, N.A. / HSBC Bank USA, N.A., 1441 Schilling Place, Salinas, CA 93912
+
+
+
+as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after we sent the FIRST statement on which the problem or error appeared. 
+
+  1. Tell us your name and account number (if any).
+  2. Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.
+  3. Tell us the dollar amount of the suspected error.
+
+
+
+If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. 
+
+We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. If we need more time, however, we may take up to 45 days to investigate your complaint or question. If we decide to do this, we will credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the time it takes us to complete our investigation. If we ask you to put your complaint or question in writing and we do not receive it within 10 business days, we may not credit your account. 
+
+For errors involving new accounts, point-of-sale, or foreign-initiated transactions, we may take up to 90 days to investigate your complaint or question. For new accounts, we may take up to 20 business days to credit your account for the amount you think is in error. 
+
+We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation. 
+
+Top of Notice of Error Resolution Procedures  
+Back to Top
+
 Privacy  |   Privacy Statement  |   Your Choice to Limit Sharing  |   
-Your Choice to Limit Marketing  | Security Information  |   Website Terms and Conditions
+Your Choice to Limit Marketing  | Security Information  |   Website Terms and Conditions  |     
+Notice of Error Resolution Procedures
