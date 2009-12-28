@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edurg.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501003725id_/http%3A//www.edurg.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edurg.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228200043id_/http%3A//www.edurg.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # EDU Research Group
 
@@ -6,9 +6,9 @@
 
 Privacy Policy
 
-**EDUrg.com, LLC**
+**EduRG.com, LLC**
 
-EDUrg.com, LLC (hereinafter "EDU Research Group") shares your concern about personal privacy. EDU Research Group recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://EDUrg.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. EDU Research Group provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website. 
+EduRG.com, LLC (hereinafter "EDU Research Group") shares your concern about personal privacy. EDU Research Group recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://EduRG.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. EDU Research Group provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website. 
 
 **1\. General**
 
@@ -73,13 +73,13 @@ In the unlikely event of a bankruptcy, assignment for the benefit of creditors, 
 
 You may contact EDU Research Group Customer Service at: 
 
-EDUrg.com, LLC   
+EduRG.com, LLC   
 Attention: Customer Service   
 4800 N. Scottsdale Rd, Suite 4500   
 Scottsdale, Arizona 85251 USA   
-Email: support@EDUrg.com   
-Toll Free (USA): 1-888-311-PERF 7373   
-Direct Dial (International): (1)602-273-3758 
+Email: support@EduRG.com   
+Toll Free (USA): 1-866-553-5621   
+Direct Dial (International): (1)602-273-3247 
 
 **11\. Changes and Updates**
 
