@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbgraph.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426072553id_/http%3A//www.cbgraph.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbgraph.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229000446id_/http%3A//www.cbgraph.com/privacy-policy) for the most accurate reproduction.*
 
-# CBGraph - Privacy Policy
+# Privacy Policy | CBGraph
 
 **Our Commitment To Privacy**
 
@@ -14,7 +14,7 @@ Web Site Usage Information: We automatically collect IP addresses and Web site u
 
 **The Way We Use Information**
 
-We may use information in the following ways: 
+We may use information in the following ways:
 
   * To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you.
   * To enhance existing features or develop new features, products and services, or other internal business purposes.
