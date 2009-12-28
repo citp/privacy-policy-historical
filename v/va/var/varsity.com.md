@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531012021id_/http%3A//www.varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228024002id_/http%3A//www.varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Cheerleading & Dance Uniforms & Events - Varsity.com
-
-To view this site, you need to have Flash Player 9.0 or later installed. Click [here](http://www.macromedia.com/go/getflashplayer/) to get the latest Flash player. 
 
 Safeguarding Our Members' Privacy  
 Collection of Information   
