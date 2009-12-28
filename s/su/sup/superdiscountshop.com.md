@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the superdiscountshop.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629094759id_/http%3A//www.superdiscountshop.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdiscountshop.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228071618id_/http%3A//www.superdiscountshop.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Super Discount Shop
-
-Shop By Categories  
-
-
-Shop By Stores  
-
-
-Shop By Categories  
-
 
 [SuperDiscountShop](http://www.superdiscountshop.com/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.
 
