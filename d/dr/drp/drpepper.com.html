@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drpepper.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627082114id_/http%3A//www.drpepper.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drpepper.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228163541id_/http%3A//www.drpepper.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -13,8 +13,6 @@
 	</script>
 	
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta http-equiv="keywords" content="">
-	<meta http-equiv="description" content="">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
 	<link type="text/css" href="/style/global.css" rel="stylesheet">
@@ -47,7 +45,7 @@
 	
 		var g_bRunPNGFix;
 		
-		if (swfobject.hasFlashPlayerVersion("9.0.124")) {
+		if (swfobject.hasFlashPlayerVersion("9.0.124") || g_sSite == "text") {
 			//
 			// Required Flash version available?
 			//
@@ -58,7 +56,7 @@
 				
 								
 				setTimeout(function() {
-					if (init) init();
+					if (typeof init !== "undefined") init();
 						DrPepper.Tracking.initClickHandlers();
 				}, 100);		
 			});
@@ -90,7 +88,15 @@
 		{
 		}
 	</script>
+
+	
 	<title>Dr Pepper - Privacy Policy</title>
+	<meta name="title" content="Dr Pepper - Privacy Policy">
+	<meta name="description" content="DrPepper.com">
+	<meta http-equiv="description" content="DrPepper.com">
+	<meta http-equiv="keywords" content="">
+	<link rel="image_src" href="http://www.drpepper.com/image/logo_dp.png">
+	
 </head>
 
 <body>
@@ -109,6 +115,7 @@
 		<div class="caption">
 			This Web site requires Adobe Flash Player 9.0.124 or higher to display properly.<br>
 			Please <a href="http://get.adobe.com/flashplayer/" target="_blank">download and install it here</a>. Then refresh this page to try again.
+            Or visit our <a href="/text/">Text Site</a>.
 		</div>
 	</div>
 
@@ -123,7 +130,8 @@
 			<a class="item entertainment " href="/entertainment/" title="Entertainment"></a>
 			<a class="item about " href="/about/" title="About"></a>
 			<a class="item video " href="/video/" title="Video"></a>
-			<a class="item store " href="/store/" title="Store"></a>
+			<a class="item store " href="http://dp.pac-inc.com" title="Store" onclick="var s=s_gi(s_account);s.tl(this,'o','Dr Pepper Store');"></a>
+			<a class="item community " href="/community/" title="Community"></a>
 			<a id="main-menu-item-my-account" style="display: none;" class="item my-account " href="/myaccount/" target="_blank" title="My Account"></a>
 			<a id="main-menu-item-sign-in" style="display: block;" class="item sign-in " href="/signin/" title="Register"></a>
 		</div>
