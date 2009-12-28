@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505015142id_/http%3A//www.netapplications.com/privacy.aspx%3Faffid%3D2478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229005106id_/http%3A//www.netapplications.com/privacy.aspx) for the most accurate reproduction.*
 
 # website statistics, hit counter, search engine submission
 
@@ -28,7 +28,7 @@ Net Applications
 Aliso Viejo, CA 92656
 
 [privacy@netapplications.com](mailto:privacy@netapplications.com)  
-888-802-8390
+866-784-5180
 
 For more information about Safe Harbor, visit <http://www.export.gov/safeharbor/sh_overview.html>
 
