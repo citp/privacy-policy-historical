@@ -1,120 +1,105 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104036id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228065924id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy policy at Typically Spanish
+# Privacy Policy - Typically Spanish
 
-[](http://www.typicallyspanish.com/) More than 1.54 million unique visits in 2008 - Source Google Analytics
+###  Typically Spanish - PRIVACY POLICY 
 
-[ RSS ](http://www.typicallyspanish.com/rss.shtml)| Make us your Homepage | bookmark page | [mobile/PDA](http://www.typicallyspanish.mobi/) | Last Updated: Jun 27, 2009 - 9:24 AM | [Spain Forum](http://www.absolutespainforum.com/)
+www.typicallyspanish.com website does not collect any personal information without your knowledge or transfer it to third parties. 
 
-OUR NEW REAL ESTATE PORTAL COMES ONLINE EARLY 2009   
-Real estate companies are invited to ask for details - urgent@typicallyspanish.com
+We can, however, disclose personal data to comply with legal requirements, demand the enforcement of our policies, respond to claims relating to infringement by advertisements or other content of third party rights, or to protect the rights of any person or property or their safety. 
 
-  
-  
+###  Contact email 
 
+The contact email urgent@typicallyspanish.com is designed as where citizens can access our services and aims, in accordance with Article 37.e) of Law 15/1999 of 13 December on the Protection of Personal Data, to provide information to people about their rights regarding treatment of personal data. 
 
-  
-Check out our latest car hire deals [HERE](http://www.typicallyspanish.com/carhire.shtml)
+The personal data you provide by e-mail is recorded in the **database owned by Howard Brereton, NIE X0892424R and address C /Los Huertos, 83, Edificio Coronado, Entrance 1, Apartment 62, 29780 Nerja (Málaga),** who aims to answer any of your questions and who also may obtain statistical data from them.   
+This email is purely informative, and does not in any case, provide answers of binding legal effect. 
 
-  
-  
-  
+###  Right of access, opposition, rectification and cancellation 
 
+**The registered user can manage their communications and exercise rights of access, rectification, cancellation and opposition, attaching a copy of the NIF, NIE, CIF, by writing, in the same terms, Howard J. Brereton with address at C / Los Huertos, 83, Edificio Coronado, Entrance 1, Apartment 62, 29780 Nerja (Málaga)**
 
-[](http://www.typicallyspanish.com/business/)
+###  Links 
 
-[](http://affilate.mikkelsenmedia.dk/partnersystem/tilmeld.php?camID=1689&partnerID=1032&csize=6&aux_something=\[ID_PARTER\]&partner_userid=\[ID2_PARTER\] "Extrafilm.es  100 Copias Digitales para 7€!")
+This privacy policy applies only to the website www.typicallyspanish.com, and does not cover access via links to this site, or links from this site to other websites. 
 
-###  Typically Spanish Privacy Policy 
+###  Automatically logged information 
 
-* * *
+We use your IP address to help diagnose problems with our server and to administer our Web site. 
 
-##  Privacy Statement for typicallyspanish.com 
+###  Cookies 
 
-**typicallyspanish.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [typicallyspanish.com]()
+Our site uses cookies to keep track of your classified ads and your logins. We can also use cookies to ensure you do not see the same ad repeatedly. 
 
-####  Information Automatically Logged 
+###  Advertisers 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. 
+We use a third party advertising company to display ads on our site. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertising company and we have no access to this information. 
 
-####  Cookies 
+###  Google 
 
-Our Site uses cookies to keep track of your classifieds and log ins. We also use cookies to make sure you don't see the same ad repeatedly. 
+We use third-party advertising companies to place ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other sites, in order to provide advertisements targeted to your preferences in goods and services. For more information about this practice and inform you of your options if you do not want these companies to use this information, [click here](http://translate.google.com/translate?hl=es&sl=es&tl=en&prev=hp&u=http://www.google.es/privacypolicy.html) . 
 
-####  Advertisers 
+###  Direct Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+In order to issue an official invoice, we ask everyone who purchases banner ads or any other advertising or sponsorship on our site, to provide the full corporate name, address and CIF. We charge 16% VAT on all invoices to companies located in Spain. The VAT is not charged to firms located outside Spain. The information collected in this manner is maintained by us and never made available to third parties. 
 
-####  Google 
+###  Payments and Credit Cards 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
+###  Collection of Statistical Data 
 
-####  Registration Forms 
+This site does not collect or store personal data of its visitors. 
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+Only, in order to provide the best service through this page, and in order to facilitate its use, we analyze the number of pages viewed, the number of visits, and the activity of visitors to the web, and their frequency of use. 
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the customer when necessary. 
+For this purpose, we use the statistical data compiled by the Internet Service Provider of www.typicallyspanish.com and also Google.inc and Feedjit. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+The Privacy Policy of Google is in the <http://www.google.es/privacypolicy.html>
 
-Demographic and profile data is also collected at our site.    
-This information is shared with advertisers on an aggregate basis. 
+The Privacy Policy for Feedjit is at <https://feedjit.com/static/TOS.html>
 
-####  Order Forms 
+With this information we can analyse the visitor numbers of www.typicallyspanish.com from the connection data and determine the most visited sections and pages. 
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+###  Email Communications and Tools 
 
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary. 
+You consent to receive commercial communications from us in your email or any other similar means, unless you notify us that prefer not to receive such communications. If you do not want to receive commercial communications, simply follow the instructions provided in each communication. 
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact urgent@typicallyspanish.com to report the spam made by other users. 
 
-Financial information that is collected is used to bill the user for products and services. 
+###  Feedback from users of Typically Spanish 
 
-Demographic and profile data is also collected at our site.    
-This information is shared with advertisers on an aggregate basis. 
+www.typicallyspanish.com is not responsible for the opinions of third parties that have been published in the media, and can be disseminated through the section 'comments' on news pages, as well as the opinions published in the section of directory 'reviews'. Please remember that any information disclosed in these areas becomes public information and must exercise caution when deciding to disclose your personal information. 
 
-####  External Links 
+###  Email Communications and Tools 
 
-This site contains links to other sites. **typicallyspanish.com** is not responsible for the privacy practices or the content of such Web sites. 
+You consent to receive commercial communications from us in your email or any other similar means, unless you notify us that prefer not to receive such communications. If you do not want to receive commercial communications, simply follow the instructions provided in each communication. 
 
-####  Public Forums 
+You may not use www.typicallyspanish.com as a communication tool to collect addresses, send spam or violate any of our Terms and Conditions or our Privacy Policy. We may revise or filter your messages automatically or manually to monitor malicious activity or prohibited content but we do not store messages permanently. If the user uses our tools to send content to friends, we do not permanently store the addresses or use or disclose this data for sending commercial communications. Please contact urgent@typicallyspanish.com to report the spam made by other users. 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+###  Opting Out 
 
-####  Children's Guidelines 
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
-
-  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
-  2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent 
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
-    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes. 
-    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. 
-    3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity. 
-  4. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service. 
-  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
-  6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. 
-  7. We will NOT provide any links to Web sites that are unsuitable for children. 
-  8. We will encourage children to get their parent's permission before sharing personal information online. 
+Our site provides users the opportunity to opt out of receiving promotional information from us or marketing.   
+1\. By email to urgent@typicallyspanish.com   
+2\. By telephone (+34) 656474892   
 
 
+###  Security 
 
-####  Choice/Opt-Out 
+We use many tools (encryption, passwords, physical security) to protect our users' personal information against unauthorized access and disclosure, without prejudice to the Internet security measures which may not be infallible, and therefore we cannot guarantee anything in this area. 
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
+###  General and Updates 
 
-  1. You can send email to [info@typicallyspanish.com](mailto:urgent@typicallyspanish.com)
+We may update this policy at any time. The updates take effect IN one of the following two circumstances: when the user uses the website, or once 30 days have elapsed since the update.   
+If we are involved in a merger or acquisition, we may share personal data about our users with another company, but this policy will continue to apply.   
+Please send questions about this policy to urgent@typicallyspanish.com. 
 
+###  Data Quality and Access 
 
+This site gives users the following options for changing and modifying information previously provided. You can use the same contact if not satisfied with any comments about your company in our comments section.   
+1\. By email to urgent@typicallyspanish.com   
+2\. By telephone (+34) 656474892 
 
-####  Data Quality/Access 
+###  Contacting the Website 
 
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can send email to [webmaster@typicallyspanish.com](mailto:urgent@typicallyspanish.com)
-
-
-
-##  Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  [ info@typicallyspanish.com](mailto:urgent@typicallyspanish.com)
+This site gives users the following options for changing and modifying information previously provided. You can use the same contact if not satisfied with any comments about your company in our comments section.   
+1\. By email to urgent@typicallyspanish.com   
+2\. By telephone (+34) 656474892 
