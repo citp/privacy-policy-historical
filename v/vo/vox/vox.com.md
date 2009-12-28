@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vox.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628103045id_/http%3A//www.vox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vox.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085437id_/http%3A//www.vox.com/privacy) for the most accurate reproduction.*
 
 # VOX - Privacy Policy
 
