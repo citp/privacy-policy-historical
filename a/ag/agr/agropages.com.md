@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agropages.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623064735id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agropages.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228114734id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.*
 
-# Agrochemicals, Formulations, Intermediates, Insecticide, Herbicide, Pesticides
+# Agropages.com, agrochemical online B2B marketplace!
 
   |  |  |  | 
 
