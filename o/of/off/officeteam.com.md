@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617080237id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228132001id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# OfficeTeam - Privacy Policy
 
 Officeteam Website Privacy Policy  
 ---  
@@ -17,9 +17,9 @@ We use Personal Information and other data collected through the Site to registe
 
 As described in Section 4 of the Terms of Use, RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
-  1. We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.
-  2. We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
-  3. We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.
+  * We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.
+  * We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
+  * We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.
 
 
 
