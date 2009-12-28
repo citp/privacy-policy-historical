@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomgreen.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627103652id_/http%3A//www.tomgreen.com/estore/privacy.php%3Fheight%3D600%26width%3D600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomgreen.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228094731id_/http%3A//www.tomgreen.com/estore/privacy.php%3Fheight%3D600%26width%3D600) for the most accurate reproduction.*
 
 # TomGreen.com - The Channel
 
