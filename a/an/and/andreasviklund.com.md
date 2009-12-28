@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andreasviklund.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626092153id_/http%3A//andreasviklund.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andreasviklund.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090448id_/http%3A//andreasviklund.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy policy - andreasviklund.com
+# Privacy policy – andreasviklund.com
 
 This site uses browser-based cookies to store information for the comment functionality for blog posts. These cookies are harmless, and of exactly the same kind as millions of other blogs and websites use. The information you write in the comments will be available to other visitors of the website, with the exception of your e-mail address which will not be visible. Comments are moderated, and I reserve the right to edit or delete comments that are not relevant to the original post or that contains sensitive information that should not be available to the public. If you have posted a comment by mistake, just let me know and I will delete it for you. E-mail addresses are not collected, sold (or shared) with any third part or used for any commercial purposes. They are only used to contact the comment author if needed.
 
