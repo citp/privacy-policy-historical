@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611092914id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werelate.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229005515id_/http%3A//www.werelate.org/wiki/WeRelate%3APrivacy_policy) for the most accurate reproduction.*
 
 # WeRelate:Privacy policy - Genealogy
 
@@ -14,13 +14,14 @@
   * 4 Cookies
   * 5 Passwords
   * 6 Private logging
-  * 7 Policy on release of data derived from page logs
-  * 8 Sharing information with third parties
-  * 9 Security of information
-  * 10 E-mail
-  * 11 User Data
-  * 12 Removal of User Accounts
-  * 13 Deletion of Content
+  * 7 Third Party Advertising
+  * 8 Policy on release of data derived from page logs
+  * 9 Sharing information with third parties
+  * 10 Security of information
+  * 11 E-mail
+  * 12 User Data
+  * 13 Removal of User Accounts
+  * 14 Deletion of Content
 
 
 
@@ -38,11 +39,9 @@ When you edit any page in the wiki, you are publishing a document. This is a pub
 
 ## Identification of an Author
 
-When you publish a page in the wiki, you may be logged in or not. 
+You cannot edit any WeRelate wiki pages unless you are logged in. 
 
 If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
-
-If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting the wiki. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals. 
 
 It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. 
 
@@ -68,6 +67,16 @@ These logs are used to produce the site statistics pages; the raw log data is no
 
 Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database are frequently used to correlate usernames and network addresses of edits in investigating abuse of the wiki, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the wiki. 
 
+## Third Party Advertising
+
+WeRelate uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/adsense/support/bin/answer.py?answer=94149 "http://www.google.com/adsense/support/bin/answer.py?answer=94149"). 
+
+WeRelate only allows third party advertisers to serve ads that are certified by the Network Advertising Initiative(NAI). This means that these advertisers have agreed allow you to [opt out](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp") of targeted advertising and provide a simple way for you to disable their "cookies." We realize that some users may want to know more about how use information is used. The Network Advertising Initiative has made consumer education its top priority, please see [Network Advertising webpage](http://www.networkadvertising.org/ "http://www.networkadvertising.org/"). 
+
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers (PDF)](http://www.networkadvertising.org/pdfs/NAI_principles.pdf "http://www.networkadvertising.org/pdfs/NAI_principles.pdf"). 
+
+Please note that the links in this section link to other websites not owned or operated by WeRelate. These websites may alter their pages at anytime without notice to WeRelate. WeRelate takes no responsibility for the content of these pages or their representations. Please notify [Solveig](https://web.archive.org/wiki/User_talk:Solveig "User talk:Solveig") regarding dead links or questions about these pages. 
+
 ## Policy on release of data derived from page logs
 
 It is the policy of WeRelate that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, may be released by the system administrators or users with CheckUser access, in the following situations: 
@@ -85,7 +94,7 @@ WeRelate policy does not permit public distribution of such information under an
 
 ## Sharing information with third parties
 
-Except where otherwise specified, all text added to WeRelate projects is available for reuse under the terms of the GFDL. 
+Except where otherwise specified, all text added to WeRelate projects is available for reuse under the terms of the [Creative Commons Attribution/Share-Alike license](http://creativecommons.org/licenses/by-sa/3.0/ "http://creativecommons.org/licenses/by-sa/3.0/"). 
 
 The Foundation for On-Line Genealogy, Inc. will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. 
 
