@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171147id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228192452id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viewpoints
 
@@ -60,9 +60,9 @@ If you have any questions about this Privacy Policy, our information-handling pr
 
 Viewpoints Privacy   
 Viewpoints Network, LLC.  
-444 North Wells  
-Suite 406  
-Chicago, IL 60610  
+222 W. Hubbard St.  
+Suite 310  
+Chicago, IL 60654  
 privacy@viewpoints.com
 
 Last updated: January 12, 2007
