@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620202658id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228105751id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -15,6 +15,7 @@
 
    <body onload="prdInit()">
 
+<!-- %OUI% -->
       <table width="100%" height="100%" class="clsBorder">
          <tbody><tr>
             <td class="clsBorder">
@@ -62,7 +63,12 @@
                                  <table background="/img/bsk_refresh.gif" class="clsLayout" cellpadding="2" bordercolor="#000000" border="1">
                                     <tbody><tr>
                                        <td>
-                                          <script>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=BSK&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 330, 45 );</script>
+                                          <!--
+                                          <SCRIPT>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=BSK&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 330, 45 );</SCRIPT>
+-->
+                                          <script>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Page=minibasket&Frame=none&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 330, 45 );</script>
+
+                                          <!--%INCLUDE(html/inc/minibasket.oui)%-->
                                        </td>
                                     </tr>
                                  </tbody></table>
@@ -73,7 +79,7 @@
                               <td colspan="3" height="100%" align="right" nowrap="nowrap">
                                  <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=LOGN&amp;Store_Code=AV"><img src="/img/nav_btn_account.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'ACC_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>&nbsp;&nbsp;&nbsp;
                                  <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=MYWISH&amp;Store_Code=AV"><img src="/img/nav_btn_wishlist.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
-                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_basket.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
+                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_cart.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
                                  <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=OINF&amp;Store_Code=AV"><img src="/img/nav_btn_checkout.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'CHK_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>
                               </td>
                            </tr>
@@ -99,7 +105,8 @@
          </tr>
          <tr valign="top">
             <td height="100%" class="clsLayout">
-
+<!--
+ -->
                <table width="100%" height="100%" class="clsLayout">
                   <tbody><tr>
                      <td class="clsLayout"><img src="/img/pge_spc.gif" width="1" height="1"></td>
@@ -271,11 +278,8 @@ If you have questions or suggestions please contact us.<p></p>
                         <!--<A href="http://www.flyingmule.com/links/"><FONT size="-1">Links</FONT></A>&nbsp;-->
                      </td>
                      <td align="right">
-                        <font size="-2">
-                           
-                           Stock status: Jun 20, 2009
-                        </font>
-                     </td>
+                        <p class="clsCopyright">© All Text and Images Copyright The Flying Mule, Inc.
+                     </p></td>
                   </tr>
                </tbody></table>
                <!-- END: Bottom Nav Bar -->
@@ -283,8 +287,27 @@ If you have questions or suggestions please contact us.<p></p>
          </tr>
       </tbody></table>
       <script>
-         document.SimpleSearchForm.CAT_USR.focus();
-         document.SimpleSearchForm.CAT_USR.style.width = document.SimpleSearchForm.CAT_DPT.offsetWidth - 71;
+         if (document.SimpleSearchForm != null)
+         {
+            document.SimpleSearchForm.CAT_USR.focus();
+            document.SimpleSearchForm.CAT_USR.style.width = document.SimpleSearchForm.CAT_DPT.offsetWidth - 71;
+         }
+
+         if (document.PowerSearchForm != null)
+         {
+            /*
+             * Force input fields to have matching widths
+             */
+            cx = utlSetFieldWidths( -1
+                                  , document.PowerSearchForm.CAT_TYP
+                                  , document.PowerSearchForm.CAT_OPR
+                                  , document.PowerSearchForm.CAT_RNG
+                                  , document.PowerSearchForm.CAT_SCL
+                                  , document.PowerSearchForm.CAT_DPT
+                                  );
+            
+            document.PowerSearchForm.CAT_USR.style.width = cx - 71;
+         }
       </script>
 
 
