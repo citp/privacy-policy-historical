@@ -1,107 +1,120 @@
-> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628171919id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228151215id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
 
 # FreeSerifSoftware.com - Privacy Statement
 
-Last Updated: 18th May 2009 
+Last Updated: 11th Dec 2009 
 
-**FreeSerifSoftware.com** knows how much you care about the way your personal information is used. We are committed to protecting the integrity and confidentiality of your information and appreciate the trust you place in us. We have drawn up this privacy policy to inform you how we collect and use your information in a careful, sensible manner in compliance with the Data Protection Act 1998. By visiting **FreeSerifSoftware.com** , you are consenting to the procedures outlined in this statement.
+## Introduction
 
-  
+**FreeSerifSoftware.com** is owned and operated by the Serif group of companies. FreeSerifSoftware is a brand and trading name of the Serif group of companies which includes Serif (Europe) Ltd and Serif Inc.  
+Customers in the UK or Europe should be conducting business with Serif (Europe) Ltd. The privacy of personal data you supply in conducting any business with Serif (Europe) will be governed by this _Privacy Policy_.   
+Customers in North America and non-European countries should be conducting business with Serif Inc. The privacy of personal data you supply in conducting any business with Serif Inc will be governed by this _Privacy Policy._
 
+FreeSerifSoftware is a trading name of Serif (Europe) Ltd (“we”, “our” or “us”) registered in England number 2117968 with registered offices at: The Software Centre, 12 Wilford Ind Est, Nottingham NG11 7EP, UK. Telephone: UK - 0845 6740484 Intl.- +44 115 9145472
+
+This Privacy Policy, and any documents it references, inform you how we collect and use the personal information (“Personal Data”) you provide in doing business with FreeSerifSoftware including use of the FreeSerifSoftware.com website and its services (the “Web Site”). FreeSerifSoftware knows how much you care about the way your Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and act in a careful, sensible manner in [UK Start]compliance with the Data Protection Act 1998.[UK End] We appreciate the trust you place in us.
+
+Personal Data does not include information such as data, messages, text, graphics, images, photos, video, sounds, profiles, works of authorship and any other materials that has been posted on to the FreeSerifSoftware.com web site. The use of this information is detailed in our _Terms and Conditions_.
+
+We may modify this Privacy Policy from time to time without notice. When we do we will update the “Last Updated” date and for material changes we will notify you by placing a notice on the home page of our Web Site for a minimum of seven days. It is therefore important that you regularly review this privacy policy to ensure you are updated as to any changes.
+
+Who controls the Personal Data that is collected?  
+How do we collect Personal Data?  
+What Is Personal Data used for?  
+Do we share Personal Data?  
+What is a Cookie?  
+How can you gain access to your Personal Data?  
+How secure is your Personal Data?  
+Do we transfer Personal Data overseas?  
+Do we monitor and/or record communications?  
+Contact Information
 
 ## Who Controls The Personal Information Collected? 
 
-All personal information collected is in the control of **FreeSerifSoftware.com** which is a registered trading name of Serif ( Europe ) Ltd of 12 Wilford Industrial Estate, Nottingham , NG11 7EP .
+All Personal Data collected is in the control of FreeSerifSoftware. In the event that FreeSerifSoftware, its parent company or trading names and brands were subject to a change of ownership, the control and permissions that you have granted us with regard to your Personal Data will be transferred to the new owner.
 
 ## How Do We Collect Your Personal Information?
 
-The information we gain from you is essential in helping us continually improve the download experience of **FreeSerifSoftware.com** There are 5 types of visitor information we collect:
+The Personal Data we collect is essential in helping us to provide an excellent overall experience for our customers when working with FreeSerifSoftware and for helping us to continually improve that experience.
 
-  * When you visit the site, we use cookies to collect Website usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at **FreeSerifSoftware.com** via a link from another Website, the referring URL. 
-  * During the registration process we will request your name and email address in order to send you your software registration key. By using this key to register your free software you opt-in to receive special Serif email offers. You will also be given the option to supply information to us which may be used to provide carefully targeted offline offers for registered users. On completing the registration process Serif will be automatically be sent confirmation of your registration success. 
-  * When you subscribe to receive Serif special email offers, we will request your name and email address. 
-  * When you place an order from FreeSerifSoftware.com, we will request all the personal information required to complete the sale and deliver the item(s) purchased. This information will include: name, address, email address, telephone number, credit card details and shipping information. 
-  * We will receive confirmation of you opening Serif HTML special offer emails by the use of special image tracking. This information is used as an indication of the popularity of the offer. If you wish to unsubscribe from receiving email offers please use the opt-out links provided within the emails and change your account details accordingly. 
+There are several types of personal information we collect:
+
+  * When you visit our Web Site, we use cookies (see below) to collect usage information and information about your computer and internet connection, including your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at our Web Site via a link from another website, the referring URL.  
+
+  * When you become a member of our Web Site, a profile is created which will include Personal Data and preferences such as your desire to receive marketing communications from us.  
+
+  * When you place an order with us, we will request all the Personal Data required to process the order including personal contact information and preferences such as your desire to receive marketing communications from us.   
+
+  * Assuming you have consented to receiving marketing communications, we will use “image tracking” to ascertain whether you do or do not read our emailed marketing messages. It is worth remembering that all our marketing messages include full information on how to unsubscribe (stop receiving) future messages.   
 
 
+In addition to the above, Google, as a third party vendor we work with, uses cookies to serve ads on our web site. Google’s use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the _Google ad and content network privacy policy_. 
 
 ## What Is Your Personal Information Used For? 
 
-We use your personal information for three primary purposes: 
+We use Personal Data in four main ways: 
 
-  * To help us create and deliver Website content most relevant to you. 
-  * To alert you to software support, product upgrades, special offers, updated information and other new services from FreeSerifSoftware.com. 
-  * To support the download process through email delivery of the registration key. 
+  * To allow log-in and full access to our Web Site in order for you to keep the Personal Data in your profile up to date and to personalise your Web Site experience.  
 
+  * Assuming you have consented to receiving marketing communications, to notify you of new products, special offers, updated information and news.   
 
+  * To enhance our order processing system with tools such order confirmation emails, product despatch notification and to make contact in the case of any difficulty.   
 
-## We also use the information for internal analysis to:
-
-  * Identify areas of the Website in need of improvement. 
-  * Build visitor profiles to improve the relevancy of the Website. 
+  * To generally help us improve the FreeSerifSoftware experience for you and others. 
 
 
 
-## Do We Share Your Information? 
+## **Do we share Personal Data?**
 
-**FreeSerifSoftware.com** will not share personal information with third parties without your permission, other than for the limited exceptions listed below.
+We will not share your Personal Data with third parties without having obtained your permission. We will only disclose your personal information, without your permission or notice, if required to do so by law or in the good faith belief that such action is necessary to: 
 
-**FreeSerifSoftware.com** will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on **FreeSerifSoftware.com** ; (b) protect and defend the rights or property of **FreeSerifSoftware.com** , and, (c) act in urgent circumstances to protect the personal safety of the users of **FreeSerifSoftware.com** , or the public.
-
-**FreeSerifSoftware.com** will not share personal information with third parties without your permission, other than for the limited exceptions listed above. Occasionally, we will send email offers in association with other businesses to specially selected customers of FreeSerifSoftware.com. In these instances, we do not share any details with the associated business. 
-
-## How Do We Use Cookies? 
-
-We place a cookie, which is a small text file, on to your computer’s hard drive through your web browser. This file enables us to enhance your future visits to the site through personalized greetings, the showing of relevant content and the storage of previously found items of interest. All we can do to the cookie is write data to it. We can’t make anything run on your PC. 
-
-It is also a tool we can use to aggregate usage statistics about the site. This information enables us to recognize popular site features and further develop new ones, adding to the overall shopping experience of the site. We never share any of this information outside the company.
-
-If you choose to delete FreeSerifSoftware.com cookies or do not have your browser set to accept cookies from FreeSerifSoftware.com, you will still be able to view the site, however you will not experience a personalized visit nor will you be able to benefit from other personalized site offerings.
-
-For further information about cookies please click here.
-
-Google, as a third party vendor, uses cookies to serve ads on the Serif site, Google’s use of the DART cookie enables it to serve ads to you based on your visit to the Serif site and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-## How Can You Gain Access To Your Personal Information? 
-
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by writing to us. You can: 
-
-  * Tell us whether you want **FreeSerifSoftware.com** to send you marketing information. Subscribe or cancel subscriptions to special service and product offers. 
+  * Conform to the edicts of the law or comply with legal process served on us.
+  * Protect and defend our lawful rights and property.
+  * Act in urgent circumstances to protect the personal safety of our customers and the public.
 
 
 
-You can write to us at any time to obtain details of the personal information we may hold about you. Please write to: Data Protection Manager, **FreeSerifSoftware.com** , 12 Wilford Industrial Estate, Nottingham NG11 7EP. 
+## **What is a Cookie?**
 
-Please quote your name and address together with your Product Serial Number. We would be grateful if you could also provide brief details of the information required as this will help us to accurately deliver your data requirements. 
+A cookie is a small text file which is placed on to your computer via your web browser when you visit websites. Cookies are used to save certain information that you have entered into your computer, such as your name, as well as recording information such as the last time you visited a website or how you browsed to a website. Our use of cookies enables us to enhance your future visits with things such as personalised greetings, showing you content that you have shown interest in previously or for gathering statistical information such as what browser users are using. Cookies are only used by us to store data. They are not used to do anything harmful including things such as starting a process or programs on your computer or infecting your computer in any way.
 
-For the protection of all our customers, we will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. 
+If you choose to delete our cookies or set your internet browser to not accept cookies from us, you will still be able to view our Web Site. However you will not experience a personalised visit or be able to benefit from other personalised features.
 
-We will respond to such requests within 20 working days. 
+## How Can You Gain Access To Personal Data? 
 
-## How Secure Is Your Personal Information?
+You can access your user information by accessing your profile through the log-in process of our Web Site. You can use your profile to access your orders information, keep your personal information up to date and to set what marketing communications you wish to receive.   
+You can request and obtain details of the Personal Data we may hold about you by writing to:
 
-**FreeSerifSoftware.com** recognizes that you are increasingly concerned about the protection of personal information from misuse and abuse, and about privacy in general. We constantly review and enhance our technical, physical and managerial procedures in connection with the collection, storage and disclosure personal data in order to protect it from unauthorized access, accidental loss and/or destruction.
+Data Protection Manager  
+FreeSerifSoftware  
+12 Wilford Ind Est  
+Nottingham  
+NG11 7EP
+
+Please quote your name and address together with your Customer ID. We would be grateful if you could also provide brief details of the information required as this will help us to accurately respond to your request. 
+
+For the protection of all our customers, we will take all reasonable steps to confirm your identity before providing you with details of any Personal Data we may hold about you and we will aim to respond to such requests within 20 working days. 
+
+## How Secure Is Your Personal Data?
+
+We recognise that people are increasingly concerned about the protection of Personal Data from misuse and abuse, and about privacy in general. We constantly review and enhance our technical, physical and managerial procedures in connection with the collection, storage and disclosure of Personal Data in order to protect it from unauthorised access, accidental loss and/or destruction.
 
 We use industry standard 128 bit secure sockets layer (SSL) technology to encrypt sensitive information such as your credit card and other financial information.
 
-It is important to remember to protect yourself against unauthorized access to your password if you use a shared PC. Make sure you sign off or close your browser when you have finished using it.
+It is important for you to remember to protect yourself against unauthorised access by guarding your password. For example, if you use a shared PC, make sure you logout or close your browser whenever you leave the PC.
 
 ## Do We Transfer Personal Data Overseas?
 
-The Internet is a global environment. Using the Internet to collect and process personal data involves the transmission of data on an international basis. By browsing **FreeSerifSoftware.com** and communicating electronically with us, you acknowledge and agree to our processing your personal data in this way. 
+The Internet is a global environment. Using the Internet to collect and process Personal Data involves the transmission of data on an international basis. By browsing our Web Site and communicating with us you acknowledge and agree that your Personal Data may be transferred overseas but only to the minimum extent necessary and only in accordance with the other terms of this privacy policy. 
 
-## What Happens If We Change This Statement? 
+## **Do we monitor and/or record communications?**
 
-**FreeSerifSoftware.com** will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, **FreeSerifSoftware.com** will notify you by placing a notice on the site’s home page for at least 7 days.
+Monitoring or recording of phone calls, e-mails, and other communications may take place in accordance with applicable law, and in particular for business purposes, such as for quality control and training, and in order to prevent or detect crime. Please visit the following websites for further information:  
+[www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)  
+[www.dti.gov.uk](http://www.dti.gov.uk/)
 
 ## Contact Information 
 
-**FreeSerifSoftware.com** welcomes your comments regarding this Statement of Privacy, please [contact us](https://web.archive.org/info/contact_us.asp) or send your request by postal mail.
-
-Data Protection Manager, **FreeSerifSoftware.com** , 12 Wilford Industrial Estate, Nottingham, NG11 7EP 
-
-Thank you for your trust.
+FreeSerifSoftware welcomes your comments regarding this Privacy policy. Please contact us via our [Contact Us](http://support.serif.com/) page.
 
 **FreeSerifSoftware.com**
