@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619155407id_/http%3A//www.evliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228060955id_/http%3A//www.evliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phoenix Arizona Real Estate Local News and Business Directory
 
@@ -48,7 +48,7 @@ We believe it is necessary to share information in order to investigate, prevent
 
 We transfer information about you if EVLiving.com is acquired by or merged with another company. In this event, EVLiving.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-EVLiving.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
+EVLiving.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria – for example, women ages 18-24 from a particular geographic area.
 
 EVLiving.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
@@ -64,7 +64,7 @@ New categories of marketing communications may be added to the Marketing Prefere
 
 Certain communications from EVLiving.com, such as service announcements, administrative messages and the EVLiving.com Newsletter, are considered part of EVLiving.com membership and you may not opt out of receiving them.
 
-You can delete your EVLiving.com account by sending us a please delete my account email. 
+You can delete your EVLiving.com account by sending us a please delete my account email.
 
 Children
 
@@ -91,3 +91,7 @@ EVLiving.com may update this policy. We will notify you about significant change
 If you have questions or suggestions, please let us know by sending an email to **[Business Office](mailto:info@evliving.com)**.
 
 Please enjoy the site.
+
+**Addendum for Interest Based Advertising**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
