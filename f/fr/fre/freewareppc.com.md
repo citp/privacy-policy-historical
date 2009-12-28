@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413092525id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228175911id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewarePPC.com - Freeware Pocket PC / Freeware Windows Mobile: Privacy Statement
 
@@ -18,7 +18,9 @@ FreewarePPC.com has security measures in place to protect the loss, misuse and a
 
 FreewarePPC.com site contains links to other sites and file downloads from other sites. We are not responsible for the privacy practices or the content of such websites. 
 
-FreewarePPC.com works with some third party that serves ads to the site. To find out more about how they manages the privacy of information in conjunction with serving ads on this site, please go to their sites: [Google.com](https://www.google.com/adsense/policies?hl=en_US). 
+FreewarePPC.com works with some third party that serves ads to the site. To find out more about how they manages the privacy of information in conjunction with serving ads on this site, please go to their sites: [Google](https://www.google.com/adsense/policies?hl=en_US), [ValueClick](http://valueclickmedia.com/member_privacy.shtml). 
+
+FreewarePPC.com also partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>.
 
 By using our Website, you consent to the collection and use of your personal information by FreewarePPC.com as outlined in this Privacy Policy. 
 
