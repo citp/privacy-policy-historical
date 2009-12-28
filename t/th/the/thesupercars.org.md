@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesupercars.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625230056id_/http%3A//www.thesupercars.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesupercars.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228175303id_/http%3A//www.thesupercars.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Supercar
+# Privacy Policy
 
 By using **Thesupercars.org** , you are agreeing to abide by its Privacy Policy and its Terms of Use. **Thesupercars.org** may collect some personal information about you, such as an email address, mailing address, username and password. You knowingly give us this information when you comment and by doing so, you are allowing us to track your use of this web site and relate it to the information that you have provided. If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.
 
