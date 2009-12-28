@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.co.uk privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309094944id_/http%3A//my.monster.co.uk/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.co.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228045650id_/http%3A//my.monster.co.uk/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search thousands of jobs now | Monster.co.uk
 
@@ -44,7 +44,7 @@ For more information on how to protect yourself online, click [here](https://web
 
 ## How to Contact Us
 
-You may contact us at [privacystatement@monster.co.uk](mailto:privacystatement@monster.co.uk) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 0800 169 5015, or write to us at: 
+You may contact us at [userservices@monster.co.uk](mailto:userservices@monster.co.uk) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 0800 169 5015, or write to us at: 
 
 Privacy Office  
 Monster Worldwide, Inc.  
