@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194002id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228080351id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
 
 # ALC: Legal Information
 
@@ -77,7 +77,8 @@ The privacy and security of your personal information is very important to ALC. 
 E-mail address   
 Name   
 Address  
-Phone number   
+IP address  
+Phone number  
 Credit card information (optional)  
 Date of birth   
 Security question   
@@ -92,8 +93,8 @@ Survey responses
 **E-mail Address  
 **Your e-mail address is used to identify you as an “individual” on the database and is used to distribute e-mail services to which you have subscribed. 
 
-**Name, Address, Phone Number, Credit Card Information (optional) and Date of Birth  
-** This information will be used to identify you on ALC.ca, to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island and that you are at least 19 years of age or older in the province in which you reside and/or as contact information if this is required. 
+**Name, Address, IP address, Phone Number, Credit Card Information (optional) and Date of Birth  
+** This information will be used to identify you on ALC.ca, to confirm your physical location, to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island and that you are at least 19 years of age or older in the province in which you reside and/or as contact information if this is required. 
 
 **Security Question  
 ** Your security question is used to confirm your identity when communicating with ALC.
