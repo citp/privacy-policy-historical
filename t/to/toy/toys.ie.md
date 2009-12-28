@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211132id_/http%3A//www.toys.ie/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228100301id_/http%3A//www.toys.ie/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Top Toy Store in UK & Ireland, for Games, Outdoor & Toys Online from Smyths Superstores
 
