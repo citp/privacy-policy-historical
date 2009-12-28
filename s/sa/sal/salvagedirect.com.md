@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvagedirect.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002113id_/http%3A//www.salvagedirect.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvagedirect.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228093650id_/http%3A//www.salvagedirect.com/privacypolicy) for the most accurate reproduction.*
 
 # 
 
