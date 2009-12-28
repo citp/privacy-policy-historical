@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editgrid.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625061008id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editgrid.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228170631id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Spreadsheets - EditGrid
 
@@ -48,6 +48,6 @@ If you have any enquiries about this policy, or would like to have a copy of a p
 
 Limitations
 
-This policy covers only the online spreadsheet service and any external services directly connected for such purpose. It does not, without limitation, cover [EditGrid Blog](http://blog.editgrid.com/ "http://blog.editgrid.com/"), [EditGrid Forum](http://forum.editgrid.com/ "http://forum.editgrid.com/"), [EditGrid Wiki](http://wiki.editgrid.com/ "http://wiki.editgrid.com/") and any other subsidiary but separate services. 
+This policy covers only the online spreadsheet service and any external services directly connected for such purpose. It does not, without limitation, cover [EditGrid Blog](http://blog.editgrid.com/ "http://blog.editgrid.com/"), EditGrid Forum, [EditGrid Wiki](http://wiki.editgrid.com/ "http://wiki.editgrid.com/") and any other subsidiary but separate services. 
 
 This policy or any part thereof may be overridden by a separate Privacy Policy for Subscribers for subscription service users. 
