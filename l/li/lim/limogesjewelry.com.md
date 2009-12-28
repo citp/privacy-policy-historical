@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623104518id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228065950id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Limoges Jewelry Privacy Policy
 
@@ -10,6 +10,6 @@ Limoges Jewelry collects information that you volunteer in order to process your
 
 | 
 
-From time to time, we use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. Absolutely no personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+From time to time, we use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. Absolutely no personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click here:[ www.networkadvertising.org/managing/opt_out.asp. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 You can read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by [clicking here](http://www.networkadvertising.org/)
