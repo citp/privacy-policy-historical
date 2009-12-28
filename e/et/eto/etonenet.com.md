@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the etonenet.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228045028id_/http%3A//www.etonenet.com/en/pravite.html) for the most accurate reproduction.*
+
+# ETONENET
+
+###### Section 1. Information Collection, Sharing and Disclosure. 
+
+It is Etonenet's policy to respect the privacy of its users. When you sign up as a registered member of Etonenet ("Etonenet "), Etonenet will require your name, email address, gender, date and place of birth, education, occupation, yearly household income and zip code ("Registration Data"). In addition to the Registration Data provided by you , Etonenet may also collect and store certain personally identifiable information about you in Etonenet 's secure database, when you visit Etonenet's web site, when you use some of Etonenet's services or products, or when you enter promotions or sweepstakes on Etonenet's web site. Etonenet also automatically receives and records information from your browser including but not limited to your IP address, the pages you requested and the time of request. Etonenet may use the information it obtains relating to you, for its internal business and marketing purposes, including but not limited to (i) fulfilling your requests for certain products and services; (ii) customizing the marketing materials and the content you see on Etonenet 's web pages; and (iii) contacting you about special and new products. Etonenet may disclose your information to third parties and share your information, including both the personally identifiable and the aggregated information, with Etonenet's partners and/or alliances, when (i) Etonenet gets your consent to share the information; (ii) Etonenet needs to share your information to provide the product or service you have requested; (iii) Etonenet needs to send your information to companies who work on behalf of Etonenet to provide a product or service to you; (iv) required by subpoenas, court orders or legal process; or when (v) your actions on Etonenet's web site violate Etonenet's TOU or any of Etonenet's usage guidelines for specific products or services on any applicable web page.
+
+###### Section 2. Cookies.
+
+ETONENET may set and access its cookies on your computer. The general purposes of using such cookies include but not limited to (I) authenticating users for services provided by ETONENET to them; (ii) counting the number of users accessing the Web Site; (iii) providing users with relevant information according to the preference specified by the users; and (iv) for ETONENET's own convenience to indicate whether a specific user has paid for the subscribed service or not. For your information and notification, as certain companies serve the advertisements within ETONENET's web site, ETONENET allows such companies, so-called third-party ad servers or ad networks to set and access their cookies on your computer. Such companies' use of their cookies is subject to their own privacy policies, not this one. Such companies do not have access to ETONENET's cookies.
+
+###### Section 3. You may edit and delete your ETONENET account information and preferences.
+
+You may access to http://members.Etonenet.com/edit/index.html to edit your ETONENET account information. You may also delete your ETONENET account information and preferences by emailing such request to [support@staff.Etonenet.com](mailto:support@staff.Etonenet.com)
+
+###### Section 4. Advertisements.
+
+ETONENET may, on behalf of its advertisers, display or send targeted advertisements to you based upon nonpublic personal information about you, provided however that in the process of doing so, ETONENET will not disclose any nonpublic personal information about you to the advertisers. Such advertisers include both financial service providers and non-financial service providers. If you feel interested in such advertisement and respond accordingly, any personal information you give to the advertisers may give the advertisers a clue about the characteristics used by them to select the audience for further advertisement. If you do not want to disclose any information about yourself to the advertisers, do not respond to such advertisements. ETONENET will not share your personally identifiable information with any third party when you click on these advertisements.
+
+###### Section 5. Changes to this Privacy Policy.
+
+ETONENET may amend its privacy policy at any time and from time to time. If ETONENET makes any substantial changes regarding how ETONENET uses your personal information, ETONENET will notify you by posting a prominent announcement on ETONENET's web site.
