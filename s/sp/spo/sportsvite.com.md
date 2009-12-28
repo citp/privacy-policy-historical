@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsvite.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625015132id_/http%3A//sportsvite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsvite.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090703id_/http%3A//sportsvite.com/privacy) for the most accurate reproduction.*
 
-# Sportsvite - Sportsvite.com
+# Sportsvite
 
 Sportsvite is committed to protecting the privacy of Sportsvite users. Following is the Sportsvite privacy statement outlining our policies governing the collection and use of registered user information. If you have any questions regarding this policy, please contact Sportsvite at support@sportsvite.com.
 
