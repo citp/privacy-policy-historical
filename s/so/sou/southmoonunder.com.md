@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063135id_/http%3A//www.southmoonunder.com/bvc/privacy-security_275.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228083508id_/http%3A//www.southmoonunder.com/bvc/privacy-security_275.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - South Moon Under
 
 ****Thank you for visiting South Moon Under online.   This privacy policy tells you how we use personal information collected at this site.  Please read this privacy policy before using the site or submitting any personal information.  By using the site you are accepting the practices described in this privacy policy.  These practices may be changed, but any changes will be posted and changes will not apply to activities and information on a going forward, not retroactive basis.  
 
