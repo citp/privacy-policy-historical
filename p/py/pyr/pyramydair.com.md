@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620081315id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228012226id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -16,13 +16,18 @@ We will NOT sell your email address to anybody!
   
   
   
+[](http://www.pyramydgear.com/)
 
-
-So, are you looking for a fresh take on airguns? Some new information, perhaps? [**Check out our daily report!**](https://web.archive.org/blog/) Monday thru Friday find new topics about air guns and airsoft. Ask your questions by clicking on the comments link at the bottom of each post.
+So, are you looking for a fresh take on airguns? Some new information, perhaps? [**Check out our daily report!**](https://web.archive.org/blog/) Monday thru Friday find new topics about air guns, BB guns and airsoft guns. Ask your questions by clicking on the comments link at the bottom of each post.
 
 [**Pyramyd Air Waves**](https://web.archive.org/podcast/) is on the air! [**Tune in now!**](https://web.archive.org/podcast/)
 
   
+  
+[](https://www.ebillme.com/index.php/learnmore2/pyramydair/footer4)  
+---  
+**$25 eBillme Rebate!** Receive $25 by mail on orders of $100 and over when you checkout with eBillme. Valid for first use of eBillme only. Offer valid from **October 9, 2009, to January 5, 2010**.   
+[Download the rebate form here.](http://www.ebillme.com/rebates/eBillme_rebate_200910_pyramydair.pdf "eBillme Rebate Form")  
   
 
 
