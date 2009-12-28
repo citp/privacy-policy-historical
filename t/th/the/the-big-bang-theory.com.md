@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-big-bang-theory.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622082359id_/http%3A//the-big-bang-theory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-big-bang-theory.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090647id_/http%3A//the-big-bang-theory.com/privacy) for the most accurate reproduction.*
 
 # The Big Bang Theory Privacy Policy
 
@@ -28,7 +28,9 @@ Personal information, such as your e-mail address, is not shared with anybody ou
 
 Who we share it with:
 
-We share the anonymous data with Google Analytics, Google Adsense & Quantcast. Google Adsense may use non-personal information related to your visits to other participating sites to target advertising based on your generic interests. Google provide a way for you to opt-out of this targeted advertising on their website.
+We share the anonymous data with ValueClick Media, Google Analytics, Google Adsense & Quantcast. They may use non-personal information related to your visits to other participating sites to target advertising based on your generic interests ("behavioral advertising").
+
+You can [**opt-out of behavioral advertising at the Network Advertising Initiative website**](http://www.networkadvertising.org/managing/opt_out.asp). This will stop behavioral advertisement targeting by Google, ValueClick Media, Quantcast & other publishers. You may also [opt-out of Google's program on their website](http://www.google.com/ads/preferences/view).
 
 We do not share personal information with anybody outside of this website, except when required to by law.
 
