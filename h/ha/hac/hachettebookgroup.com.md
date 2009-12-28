@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629224757id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228154639id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Copyright, Trademark & Privacy Policy - Hachette Book Group
+# Copyright, Trademark & Privacy Policy Hachette Book Group
 
 ## Hachette Book Group Privacy Policy
 
@@ -283,3 +283,6 @@ back to index
 Grand Central Publishing, Faith Words, Center Street and Hachette Audio and their respective logos are registered trademarks owned by HBG Books, Inc. 
 
 Little, Brown and Company (Inc.); Back Bay Books; Bulfinch; Little, Brown Books for Young Readers, and their respective logos are registered trademarks owned by Little, Brown and Company (Inc.). 
+
+
+
