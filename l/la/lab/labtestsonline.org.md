@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625180220id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-| 
+* * *
 
-AACC and its collaborating partners are committed to honoring the privacy of our visitors. We have designed the site to minimize the gathering of personal data; we will not do so without first alerting you to the fact. Further, we do not 
+**[Code of Conduct](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/pb_honcode.html "Code of Conduct") | [Terms of Use](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/terms.html "Terms of Use") | [Privacy](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/privacy.html "Privacy")**
+
+AACC and its collaborating partners are committed to honoring the privacy of our visitors. We have designed the site to minimize the gathering of personal data; we will not do so without first alerting you to the fact. Further, we do not
 
   * require users to register on the site 
   * use cookies to track user movements 
@@ -23,7 +25,4 @@ This site contains links to other sites. AACC and our collaborating partners are
 **Removing Your Email Address**  
 If you would no longer like to receive email updates from us, please complete our [Contact Us form](https://web.archive.org/contact/?gc=20) using "unsubscribe" as the Subject. We will delete your name from our mailing list upon receipt of such an email. 
 
-You may also use this same form to send us any questions you may have about our privacy policy. It will be helpful if you would include "privacy" as your subject. [Click here](https://web.archive.org/contact/?gc=33).
-
-  
-
+You may also [use this same form](https://web.archive.org/contact/?gc=33) to send us any questions you may have about our privacy policy. It will be helpful if you would select "privacy" as your subject.
