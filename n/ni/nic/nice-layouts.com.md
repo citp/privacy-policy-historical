@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nice-layouts.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204738id_/http%3A//www.nice-layouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nice-layouts.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228023659id_/http%3A//www.nice-layouts.com/privacy-policy) for the most accurate reproduction.*
 
 # Nice Layouts | Professional Web & Flash Templates | Privacy Policy
 
@@ -37,6 +37,10 @@ Nice Layouts may also disclose your personal information when:
 * We need to protect the personal safety of the users of our websites or defend the rights or property of Nice Layouts; 
 
 * We find that your actions on our websites violate the Nice Layouts Terms of Use document or any of our usage guidelines for specific products or services. 
+
+Third Party Collection and Use of Information
+
+Google.com, as a third party vendor, uses cookies to serve ads to our users based on their activity on our site and/or other websites. Google does not collect or use personal information (your name, address, email address, or telephone number); if you would like more information about this practice and to know your choices about not having this information used by third party companies, click here: http://www.google.com/privacy_ads.html 
 
 **Your Consent**
 
