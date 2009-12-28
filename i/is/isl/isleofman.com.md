@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isleofman.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204313id_/http%3A//isleofman.com/Community/About_us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isleofman.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228102920id_/http%3A//www.isleofman.com/Community/About_us/Privacy.aspx) for the most accurate reproduction.*
 
 # isleofman.com - About Us -
 
