@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbuttmovieclub.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002429id_/http%3A//bigbuttmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbuttmovieclub.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090849id_/http%3A//bigbuttmovieclub.com/info/privacy) for the most accurate reproduction.*
 
 # Big Butt Movie Club - Internet's biggest Big Butt DVD site
 
