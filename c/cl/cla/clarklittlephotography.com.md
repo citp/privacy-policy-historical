@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarklittlephotography.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505150958id_/http%3A//www.clarklittlephotography.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarklittlephotography.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228022614id_/http%3A//www.clarklittlephotography.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Clark Little Photography - Privacy Policy
 
@@ -60,7 +60,7 @@ You may make a purchase from ClarkLittlePhotography.com through a link from anot
 
 **_Whom do I contact with questions?_**
 
-If you have any questions or comments about this Privacy Policy, call us at 1-808-227-3387 or write an email by clicking [here](https://web.archive.org/web/20090505150958id_/http%3A//www.clarklittlephotography.com/contact.php#email).
+If you have any questions or comments about this Privacy Policy, call us at 1-808-227-3387 or write an email by clicking [here](https://web.archive.org/web/20091228022614id_/http%3A//www.clarklittlephotography.com/contact.php#email).
 
 **_Privacy Policy changes_**
 
