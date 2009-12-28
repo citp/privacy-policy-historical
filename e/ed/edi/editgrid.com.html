@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the editgrid.com privacy policy that was archived on 2009-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625061008id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the editgrid.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228170631id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Online Spreadsheets - EditGrid</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="EditGrid-Revision" content="25058">
-<meta name="EditGrid-Last-Changed-Date" content="2009-02-16 15:52:20 +0800 (Mon, 16 Feb 2009)">
+<meta name="EditGrid-Revision" content="25230">
+<meta name="EditGrid-Last-Changed-Date" content="2009-09-24 15:04:50 +0800 (Thu, 24 Sep 2009)">
 <meta name="description" content="EditGrid is a free web-based online spreadsheet which allows you to create and share spreadsheets documents. You can collaborate with your team, publish your spreadsheets and even power them with external data.">
 <meta name="keywords" content="spreadsheet, online, web-based, real-time, collaboration">
 <link rel="shortcut icon" type="image/ico" href="http://www.editgrid.com/site/static/img/iconEditGrid.ico">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.editgrid.com/site/rev/25058/static/style/default.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.editgrid.com/site/rev/25230/static/style/default.css">
 <script type="text/javascript">var std = {}</script>
-<script type="text/javascript" src="http://www.editgrid.com/site/rev/25058/static/js/std.js"></script>
-<script type="text/javascript" src="http://www.editgrid.com/site/rev/25058/static/js/Auth.js"></script>
-<script type="text/javascript" src="http://www.editgrid.com/site/rev/25058/static/js/ui.js"></script>
-<script type="text/javascript" src="http://www.editgrid.com/site/rev/25058/static/js/default.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/25230/static/js/std.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/25230/static/js/Auth.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/25230/static/js/ui.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/25230/static/js/default.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/25230/static/js/ui/notice.js"></script>
 </head>
 
 
@@ -31,6 +32,10 @@
 
 	<div class="RightHolder">
 		<table class="LinkMenu"><tbody><tr><td>
+			<div id="HeaderLinks_Notice" style="font-weight: bold; font-size: 21px; margin-bottom: 4px; ">
+				<a href="http://www.editgrid.com/site/notice" target="_blank" onclick="getNotice().start(); return false;" title="Important Notice!" style="color: #FFA900">» Important Notice!</a>
+			</div>
+
 			<div id="HeaderLinks_iPhone_SafariMobile" style="display: none; font-weight: bold; font-size: 21px; margin-bottom: 4px">
 				<a href="http://iphone.editgrid.com/" title="Open EditGrid iPhone Edition">» Launch the iPhone Edition <em>beta</em> now!</a>
 			</div>
@@ -73,6 +78,12 @@
 			</div>
 		</td></tr></tbody></table>
 
+		<!-- Notice Player -->
+		<div id="NoticeScreen"></div>
+		<div id="NoticePlayer">
+			<div id="NMainPanel"><iframe id="NPlayer" scrolling="auto" frameborder="0" marginwidth="0" marginheight="0"></iframe></div>
+		</div>
+
 		<script type="text/javascript">
 		//<![CDATA[
 			if (isSafariMobile()){
@@ -82,6 +93,14 @@
 			}
 			// do not display promotional header since mid-December 2007
 			// std.css.bulkset('display', ['block', 'HeaderLinks_Others']); 
+
+			var path_prefix = 'http://www.editgrid.com/site/';
+
+			var notice = new ui.notice.Notice(path_prefix, 899, 600);
+
+			function getNotice() {
+				return notice;
+			}
 		//]]>
 		</script>
 	</div>
@@ -233,7 +252,7 @@
 		<div class="Text">
 			<p>
 				This policy covers only the online spreadsheet service and any external services directly connected for such purpose. 
-				It does not, without limitation, cover <a href="http://blog.editgrid.com/" title="http://blog.editgrid.com/" target="_blank">EditGrid Blog</a>, <a href="http://forum.editgrid.com/" title="http://forum.editgrid.com/" target="_blank">EditGrid Forum</a>, <a href="http://wiki.editgrid.com/" title="http://wiki.editgrid.com/" target="_blank">EditGrid Wiki</a> and any other subsidiary but separate services.
+				It does not, without limitation, cover <a href="http://blog.editgrid.com/" title="http://blog.editgrid.com/" target="_blank">EditGrid Blog</a>, EditGrid Forum, <a href="http://wiki.editgrid.com/" title="http://wiki.editgrid.com/" target="_blank">EditGrid Wiki</a> and any other subsidiary but separate services.
 			</p>
 			<p>
 				This policy or any part thereof may be overridden by a separate Privacy Policy for Subscribers for subscription service users.
@@ -286,11 +305,11 @@
 				<p></p>
 			</td>
 			<td>
-				<p>EditGrid is FREE for personal users. If you want to buy our product / services, see <a href="http://www.editgrid.com/site/purchase/service" title="EditGrid Subscription and licensing plan">SUBSCRIPTION AND LICENSING PLAN</a>. </p>
-				<p>Check out our <a href="https://wiki.editgrid.com/" target="_blank" title="EditGrid Documentation, User Manual">DOCUMENTATION</a>. Support is available in our <a href="http://forum.editgrid.com" target="_blank" title="EditGrid User Forum">USER FORUM</a> or through <a href="mailto:cs@editgrid.com" title="Email EditGrid Customer Support">EMAIL</a>. We also publish our <a href="http://status.editgrid.com/" target="_blank" title="EditGrid System Status">SYSTEM STATUS</a> and <a href="http://www.editgrid.com/changelog" target="_blank" title="EditGrid Change Log">CHANGE LOG</a>. </p>
+				<p>EditGrid is FREE for personal users and organisation users. <a href="http://www.editgrid.com/site/purchase/service" title="EditGrid Services">COMPARE OUR SERVICE OFFERINGS HERE</a>. </p>
+				<p>Check out our <a href="https://wiki.editgrid.com/" target="_blank" title="EditGrid Documentation, User Manual">DOCUMENTATION</a>, <a href="http://status.editgrid.com/" target="_blank" title="EditGrid System Status">SYSTEM STATUS</a> and <a href="http://www.editgrid.com/changelog" target="_blank" title="EditGrid Change Log">CHANGE LOG</a>. </p>
 			</td>
 			<td>
-				<p>EditGrid provides a <a href="https://wiki.editgrid.com/display/devdoc/Web+API" title="EditGrid WEB API" target="_blank">WEB API</a> and a <a href="https://wiki.editgrid.com/display/devdoc/Grid+API" title="EditGrid GRID API" target="_blank">GRID API</a> for programmatic access to EditGrid features. Check out the <a href="http://www.editgrid.com/site/learn/api" title="EditGrid API Showcases">SHOWCASES</a> here and visit <a href="http://lab.editgrid.com" title="EditGrid Labs for developers" target="_blank">EDITGRID LABS</a> for more demos.</p>	
+				<p>EditGrid provides a <a href="https://wiki.editgrid.com/display/devdoc/Web+API" title="EditGrid WEB API" target="_blank">WEB API</a> and a <a href="https://wiki.editgrid.com/display/devdoc/Grid+API" title="EditGrid GRID API" target="_blank">GRID API</a> for programmatic access to EditGrid features. Check out the <a href="http://www.editgrid.com/site/learn/api" title="EditGrid API Showcases">SHOWCASES</a> here.</p>	
 				<p>Full documentation is available on the <a href="https://wiki.editgrid.com/display/dev/Developers+Wiki" title="EditGrid Developer Wiki" target="_blank">DEVELOPER WIKI</a> </p>
 			</td>
 			<td>
@@ -302,7 +321,7 @@
 					<tr><td><a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.editgrid.com" title="Bookmark EditGrid to Google" target="_blank">GOOGLE</a></td></tr>
 				</tbody></table>
 				
-				<p>You can track EditGrid's updates through our <a href="http://blog.editgrid.com" title="EditGrid Blog" target="_blank">BLOG</a> and <a href="http://twitter.com/EditGrid" title="Twittering" target="_blank">TWITTER</a>
+				<p>You can track EditGrid's updates through our <a href="http://blog.editgrid.com" title="EditGrid Blog" target="_blank">BLOG</a>.
 			</p></td>
 		</tr>
 	</tbody></table>
@@ -311,7 +330,7 @@
 
 	<div class="FootNote">
 		<div class="LeftHolder NoWrap" style="color: #666666">A Web 2.0 Online Spreadsheet.</div>
-		<div class="RightHolder NoWrap" style="color: #666666">Copyright © 2006-2008 Team and Concepts Limited</div>
+		<div class="RightHolder NoWrap" style="color: #666666">Copyright © 2006-2009 Team and Concepts Limited</div>.
 	</div>
 	<br><br>
 </div>
@@ -340,6 +359,6 @@
 
 
 
-<!-- ca03.editgrid.com, 0.012500 secs -->
+<!-- ca03.editgrid.com, 0.007942 secs -->
 
 </body></html>
