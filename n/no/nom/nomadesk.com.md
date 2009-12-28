@@ -1,75 +1,43 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034406id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228023718id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
 
-# Telecommuting software | Collaboration Software | Remote Area Desktop File Sharing
+# Nomadesk: Telecommuting software | Collaboration Software | Remote Area Desktop File Sharing
 
-## General
+**Nomadesk is developed by Nomadesk  NV (Ltd.), with headquarters at Xavier De Cocklaan 66-5, B-9830 Sint-Martens-Latem, Belgium.**
 
-**NomaDesk is developed by NomaDesk  ** **NV (Ltd.), with EU office at Xavier De Cocklaan 66-5, B-9830  Sint-Martens-Latem, Belgium and US office at 6123 Abercorn Avenue, Atlanta GA 30346.**
+Thank you for visiting our web site nomadesk.com (the Site). This privacy policy tells you how we use personal information collected at this Site. Please read this privacy policy before using the site or submitting any personal information. By using the Site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the Site to make sure that you understand how any personal information you provide will be used. 
 
-When you visit <http://www.nomadesk.com/>, our web server automatically recognizes your IP address but not your email address.  With each visit to our web site we store your email address (if you have communicated this to us), as well as any information you have voluntarily provided to us (e.g., contact information, research information and/or site registration), to: 
+**Note** : the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites. 
 
-  * inform you of any site updates 
-  * contact you at a later date for marketing purposes 
-  * grant access to our application services
+## Collection of Information
 
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner. 
 
+## Cookie and Tracking Technology
 
-The information is used internally and can be disclosed to any other organisation for marketing purposes. 
+The Site uses cookie and tracking technology. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. 
 
-This website uses cookies.  A cookie is a small file written to your computer that helps us identify you. This cookie contains information about the Internet site visited plus certain data relating to the visit itself. 
+## Distribution of Information
 
-All important data is transmitted securely by SSL using 128 bit encryption, certified by [Thawte](http://www.thawte.com/). 
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
 
-We have taken the necessary security measures to prevent the loss or unlawful use of information received on our site, and to prevent changes being made to this information after it has been received. 
+## Commitment to Data Security
 
-If you would like further information on our privacy policy, you can contact us at **Xavier De Cocklaan 66-5, B-9830 Sint-Martens-Latem, Belgium or via**[ **privacy@nomadesk.com**](mailto:privacy@nomadesk). 
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this Site allow you to opt out of further mailings. 
 
-## About communication by email
+## Privacy Contact Information
 
-If you wish to stop receiving email messages from our company, please contact us at above address. 
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-We may pass the email addresses of our customers on to related organisations which offer products or services that may be of interest to you.  If you do not wish your email address to be passed on to other businesses or organisations, please contact us at the above address. 
-
-## About communication by post
-
-If you have disclosed your postal address to us over the web, we may periodically mail you information about our products, services and upcoming events.  If you do not want us to contact you by post, please inform us at the above address. 
-
-## About communication by telephone
-
-If you have disclosed your telephone number to us over the web, we may contact you by telephone with information on our products and services or upcoming events.  If you do not want us to contact you by telephone, please inform us at the above address. 
-
-  * by telephone
-    * +32 9 240 10 31 in Belgium (office hours are 08.30-18.00, CET M-F)
-    * +1 800 409 3830 in the United States (office hours are 07.00-19.00 EST, M-F)
-  * by post: BDMV, Robinson list, Buro & Design Center, Heizel Esplanade, B46, 1020 Brussels 
-  * online: [http://www.robinsonlist.be](http://www.robinsonlist.be/)
+  * By e-mail: [privacy@nomadesk.com](mailto:privacy@nomadesk.com)
+  * By Phone: +32 9 233 68 86
 
 
 
-Our company may use the information it has gathered for purposes not yet addressed in our "privacy policy".  In this event we will inform you of the changes in our rules and regulations for the protection of personal data before using your data, allowing you the opportunity to refuse to participate further. 
-
-Visitors to our site can request access to any of their personal data that we have on file. If you wish to access this information, please contact us at the above address. 
-
-Visitors can also request that any incorrect personal information we have on file is changed. If you wish to correct your personal data, please contact us at the above address. 
-
-If you feel that our site is inconsistent with our privacy policy, please contact:
-
-  * NomaDesk NV, at Xavier De Cocklaan 66-5, B-9830 Sint-Martens-Latem, Belgium, Tel. +32 9 233 68 86
-  * _"Commissie voor de Bescherming van de Persoonlijke Levenssfeer"_ , at Waterloolaan 115, B-1000 Brussel - Belgium
-
-
-
-### 
-
-### 
-
-### 
-
-### 
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
 
 ## How do we improve our software?
 
-At NomaDesk, we strive to continuously improve the quality of our software. In addition to our development process, we also monitor the quality of our products by collecting information about errors and problems. The information helps us to diagnose problems so we can further improve our software and service(s).
+At Nomadesk, we strive to continuously improve the quality of our software. In addition to our development process, we also monitor the quality of our products by collecting information about errors and problems. The information helps us to diagnose problems so we can further improve our software and service(s).
 
 ## How do we collect information?
 
@@ -77,29 +45,29 @@ If a problem occurs in our software program, a report is automatically sent to o
 
 ## What types of information do we collect?
 
-The reporting service collects information about problems that occur behind the scenes while you work with NomaDesk. It is important to diagnose errors that occur behind the scenes because these problems, if left unsolved, may cause additional problems such as performance or program failures. 
+The reporting service collects information about problems that occur behind the scenes while you work with Nomadesk. It is important to diagnose errors that occur behind the scenes because these problems, if left unsolved, may cause additional problems such as performance or program failures.
 
-Reports contain information that is most useful for diagnosing and solving the problem that has occurred, such as: 
+Reports contain information that is most useful for diagnosing and solving the problem that has occurred, such as:
 
   * In what part of the software the problem occurred
   * Type of the problem
 
 
 
-Your Internet Protocol (IP) address is also collected because you are connecting to our servers and to allow you to theftguard your files. 
+Your Internet Protocol (IP) address is also collected because you are connecting to our servers and to allow you to Theftguard your files.
 
-Reports might unintentionally contain personal information, but this information is not used to identify you. 
+Reports might unintentionally contain personal information, but this information is not used to identify you.
 
-## Who can use the information and how can it be used? 
+## Who can use the information and how can it be used?
 
-NomaDesk uses information about errors and problems to improve the software and services. NomaDesk employees may be provided access to information collected by the reporting service. However, they may use the information only to diagnose and repair issues or improve the NomaDesk products. 
+Nomadesk uses information about errors and problems to improve the software and services. Nomadesk employees may be provided access to information collected by the reporting service. However, they may use the information only to diagnose and repair issues or improve the Nomadesk products.
 
-## Information storage, processing, and release 
+## Information storage, processing, and release
 
-Information that we collect may be stored and processed in the United States or Belgium. NomaDesk abides to the policy regarding the collection, use, and retention of data from the European Union. NomaDesk may disclose this information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on NomaDesk; (b) protect or defend the rights or property of NomaDesk, or (c) act in urgent circumstances to protect the personal safety of NomaDesk employees, users of NomaDesk software or services, or members of the public. 
+Information that we collect may be stored and processed in the United States or Belgium. Nomadesk abides to the policy regarding the collection, use, and retention of data from the European Union. Nomadesk may disclose this information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Nomadesk; (b) protect or defend the rights or property of Nomadesk, or (c) act in urgent circumstances to protect the personal safety of Nomadesk employees, users of Nomadesk software or services, or members of the public.
 
-NomaDesk occasionally hires other companies to provide limited services on its behalf, such as providing customer support, processing transactions. NomaDesk will provide these companies only the information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
+Nomadesk occasionally hires other companies to provide limited services on its behalf, such as providing customer support, processing transactions. Nomadesk will provide these companies only the information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-## Security practices 
+## Security practices
 
-NomaDesk is committed to helping protect the security of the information we collect. The Error Reporting Service uses multiple security technologies and procedures to help protect information from unauthorized access, use, or disclosure. For example, reports are sent to Microsoft from your computer using encryption technology. The information is then stored on computer servers with controlled access. 
+Nomadesk is committed to helping protect the security of the information we collect. The Error Reporting Service uses multiple security technologies and procedures to help protect information from unauthorized access, use, or disclosure. For example, reports are sent to Microsoft from your computer using encryption technology. The information is then stored on computer servers with controlled access.
