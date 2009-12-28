@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the vincedelmontefitness.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618041408id_/http%3A//www.vincedelmontefitness.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincedelmontefitness.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228041441id_/http%3A//www.vincedelmontefitness.com/privacy_policy.php) for the most accurate reproduction.*
 
-# How To Build Muscle And Gain Weight Quickly For Hardgainers And Skinny Guys...
+# Privacy Policy
+
+**
+
+Privacy Policy
+
+**  
+
 
 This privacy notice discloses the privacy practices for **www.vincedelmontefitness.com.**
 
@@ -41,3 +48,5 @@ We take precautions to protect your information. When you submit sensitive infor
 You can verify this by looking for "https" at the beginning of the address of the Web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. 
 
 Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.vincedelmontefitness.com)
