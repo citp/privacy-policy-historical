@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the evri.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430054950id_/http%3A//www.evri.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evri.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228045704id_/http%3A//www.evri.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Evri
 
-Last Revised: January 16, 2009
+Last Revised: July 29, 2009
 
 **EVRI.COM PRIVACY POLICY**
 
 **Introduction**
 
-Evri, Inc. (together with its corporate affiliates, collectively, **“Evri”** , **“we”** , or **“us”** ) respects our users’ privacy rights. This policy explains how we may use personal information that you provide to us through and in connection with our web site located at http://www.evri.com and related services (the **“Service”** ). We may amend this privacy policy from time to time. If we do so, we will post a revised privacy policy on the Service, together with a notice of the date it was amended. 
+Evri, Inc. (together with its corporate affiliates, collectively, **“Evri”** , **“we”** , or **“us”** ) respects our users’ privacy rights. This policy explains how we may use personal information that you provide to us through and in connection with our websites (including the websites located at http://www.evri.com and http://www.thesummarizer.com) and related services (collectively, the **“Service”** ). We may amend this privacy policy from time to time, including as to specific web sites. If we do so, we will post a revised privacy policy on the Service (or, if only certain site(s) included in the Service are affected, on the affected site(s)), together with a notice of the date it was amended. 
 
 **Part I. Information Collection**
 
@@ -44,7 +44,7 @@ We will only disclose Personally Identifiable Information about you to third par
 
 (F) We may let you choose to share Personally Identifiable Information with marketers or electronic commerce providers through on-site offers. 
 
-(G) Certain features or services available through the Service may be provided jointly with other companies. You can tell when another company is involved in any feature or service provided on the Service, and we may share Personally Identifiable Information with that company in connection with your use of that feature or service service.
+(G) Certain features or services available through the Service may be provided jointly with other companies. You can tell when another company is involved in any feature or service provided on the Service, and we may share Personally Identifiable Information with that company in connection with your use of that feature or service.
 
 (H) If the ownership of all or substantially all of the Evri business, or individual business units owned by Evri, were to change, your Personally Identifiable Information may be transferred to the new owner so the Service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
 
