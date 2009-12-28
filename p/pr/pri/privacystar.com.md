@@ -1,71 +1,92 @@
-> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2003-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030820110653id_/http%3A//www.names123.com/index.php%3Flink%3Dprivacy.html%26%26source%3D45035) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228105051id_/http%3A//www.privacystar.com/companyInfo.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Statement :: Names 123
+# PrivacyStar
 
-This privacy statement discloses the privacy practices for Names.co Internet plc.
+First Orion’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by First Orion anytime you visit our PrivacyStar™ website located at www
 
-This web site agrees to notify you of: 
+## Privacy Policy for www.privacystar.com
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Names.co Internet's control 
-  7. How you can correct any inaccuracies in the information. 
+First Orion’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by First Orion when you visit our PrivacyStar™ website located at www.privacystar.com. Please take a moment to read the following to learn more about our website information practices. Your privacy is a priority at First Orion, and we go to great lengths to protect it.
 
+This privacy policy does not cover the collection, use, and disclosure of personal information collected by or through customers or users use of or subscription to First Orion products or services, including without limitation the PrivacyStar™ service and the MyPrivacyStar™ area of the www.privacystar. com site. First Orion’s obligations, if any, with regard to its products and services are governed solely by the agreements pursuant to which they are provided, and nothing within this privacy policy should be construed to alter such agreements.  Any terms and conditions governing the collection, use, and disclosure of personal information for customers and users of First Orion products and services, including any portion of the www.privacystar.com website related to such products or services, shall be set forth within the terms of service agreement or terms and conditions posted for or applicable to the products and services. 
 
+## Why we collect personal information
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20030810220233id_/http://www.names123.com/contact.html)
+We collect your personal information via the website because it helps us deliver a superior level of user experience. It enables us to give you convenient access to our products and services and your personal information may help us keep you posted on the latest product announcements, software or service updates, special offers, and events that you might like to hear about.
 
-Information Collection and Use 
+## What information we collect and how we may use it
 
-Names.co Internet is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Names.co Internet collects information from our users at several different points on our website. 
+There are a number of situations in which your personal information may be collected help us give you better products and services or a better user experience. For example:
 
-Order 
+When you interact with First Orion, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information; and information relating to an inquiry or support issue. 
 
-We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+We also may collect information for market research purposes — such as your occupation and where you use your computer — to gain a better understanding of our website users and thus provide more valuable user experience. 
 
-Cookies 
+We may collect information regarding user activities on our website. This helps us to determine how best to provide useful information to website users and to understand which parts of our websites and services are of most interest to them. 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site and is encrypted so cannot be read by any other website. Once the user closes their browser, the cookie simply terminates. It will also terminate once a period of time has elapsed since first using the site. 
+We may use personal information to provide products or services that you have requested as well as for auditing, research, and analysis to improve First Orion’s products and services. 
 
-We only use cookies for your convenience; for instance, to prevent the user from having to re-enter shopping cart information. If a user rejects the cookie, ordering functionality for the user will be affected. 
+### Publicly displayed information is public
 
-Log Files 
+If you use a bulletin board or chat room on a First Orion website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. First Orion is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by enabling certain user features, First Orion will collect that information from your interaction and the information will become publicly available.
 
-We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+## When we disclose your information
 
-Sharing 
+To help us provide superior service, your personal information may be shared with legal entities within the First Orion group globally who will take steps to safeguard it in accordance with First Orion’s privacy policy.
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+### With our service providers, vendors, and strategic partners
 
-We use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+There are also times when it may be advantageous for First Orion to make certain personal information about you available to companies that First Orion has a strategic relationship with or that perform work for First Orion to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill orders, deliver products to you, manage and enhance data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. 
 
-Links 
+At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
-This web site may contain links to other sites. Please be aware that we [Names.co Internet plc] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+## How we protect your personal information
 
-Security 
+First Orion takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.
 
-When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
+## Kids
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer service representative) are granted access to personally identifiable information. 
+We do not knowingly collect personal information from children under 13 for marketing purposes. If a child under 13 submits personal information to First Orion via the website and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
 
-Correction/Updating Personal Information: 
+## Cookies and other technologies
 
-If a user's personally identifiable information changes (such as your post code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. 
+As is standard practice on many corporate websites, First Orion’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also may use cookies and other technologies to make sure that our online advertising is bringing website users to our products and services, such as iTunes. We may use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our website user communications. And we may use cookies to customize your experience and provide greater convenience each time you interact with us.
 
-Choice/Opt-out 
+If you prefer not to enable cookies certain features of the First Orion website may not be available once cookies are disabled.
 
-If you use this site to purchase services you may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications on our order form. 
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
-Users of our site are notified when their information is being collected or used by any third parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an third party, or not. 
+In some of our email messages we may use a “click-through URL” linked to content on the First Orion website. When website users click one of these URLs, they pass through our web server before arriving at the destination web page. We may track this click-through data to help us determine interest in particular topics and measure the effectiveness of our communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
 
-Notification of Changes 
+In addition we may use pixel tags — tiny graphic images — to tell us what parts of our website users have visited or to measure the effectiveness of searches website users perform on our site.
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+Pixel tags also enable us to send email messages in a format website users can read. And they tell us whether emails have been opened to ensure that we’re sending only messages that are of interest to our website users. 
+
+## Links 
+
+First Orion’s website has links to the sites of other companies. First Orion is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+## Updates 
+
+First Orion reserves the right, at its sole discretion, to change, modify, add or remove portions of its privacy policy from time to time by posting the updated privacy policy and effective date. It is your responsibility to check this privacy policy periodically for changes.
+
+## Privacy questions
+
+If you have questions or concerns about First Orion’s privacy policy for www.privacystar.com or its information practices please contact us by sending us paper mail to:
+
+       First Orion, Corp.
+
+       Attention: First Orion Legal Team
+
+       1052 Harrison Street, Suite 6
+
+       Conway, AR 72032 
+
+**_©_** ** _2009 First Orion Corp. All rights reserved.  
+First Orion Corp., 1052 Harrison Street, Suite 6, Conway, Arkansas 72032, USA._**
+
+Updated by the First Orion Legal Team on 11/30/09
