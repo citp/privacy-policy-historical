@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601003306id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228155358id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy: Hunter Douglas Window Fashions
+# Privacy Policy: Hunter Douglas Window Treatments
 
 Our policy on privacy is straightforward. In short, any information that you submit to us will remain absolutely private. Also, hunterdouglas.com is a private, copyrighted site and intended solely for personal use. If you're interested in the lawyerly details, read on. 
 
