@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020004624id_/http%3A//edressme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228202611id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Cocktail, Evening Dresses, by eDressMe Info
+# Privacy Policy
 
 eDressme is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others.
 
@@ -11,6 +11,10 @@ We request information from the user on our order form. Here a user must provide
 Cookies:
 
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.
+
+Third-Party Web Beacons:
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
 Log Files:
 
@@ -34,7 +38,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.
 
-If you have any questions about the security at our website, you can send an email to edressme@yahoo.com.
+If you have any questions about the security at our website, you can send an email to help@edressme.com.
 
 Notification of Changes:
 
