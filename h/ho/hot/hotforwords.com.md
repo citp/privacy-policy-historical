@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090356id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228182710id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
 
-# HotForWords : Privacy Policy
-
-Browse >
-
-[Home](http://www.hotforwords.com/ "Browse to: Home") / Privacy Policy 
-
-  
-
+# Privacy Policy
 
 ### **Ownership of Information**
 
@@ -25,7 +18,7 @@ Some of our advertisers may use cookies on our site, such as Google Adwords, etc
 
 ### **Third Party Advertising**
 
-The ads appearing on the HotForWords website are primarily delivered to users by third party advertisers including Google, among others. These companies may use information (which DOES NOT include your email address or name) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use third-party advertising companies to serve ads when you visit the HotForWords website. These companies may use information (which DOES NOT include your name or email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 ### **Log Files**
 
@@ -50,3 +43,5 @@ Whenever the HotForWords website changes its privacy policy, the changes will be
 ### **Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.hotforwords.com/support "contact us").
+
+[](http://www.hotforwords.com/privacy-policy/?administer_redirect_21=http://www.drinkneuro.com)
