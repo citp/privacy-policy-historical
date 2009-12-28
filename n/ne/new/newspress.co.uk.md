@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newspress.co.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416045804id_/http%3A//www.newspress.co.uk/terms_privacy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspress.co.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228052245id_/http%3A//www.newspress.co.uk/terms_privacy.php%23privacy) for the most accurate reproduction.*
 
 # Welcome to Newspress.co.uk
 
