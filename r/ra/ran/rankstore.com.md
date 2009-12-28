@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankstore.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429212429id_/http%3A//www.rankstore.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankstore.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228055958id_/http%3A//www.rankstore.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Shopping Directory : Rankstore.com
 
@@ -21,4 +21,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: staff@rankstore.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 
