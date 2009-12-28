@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whichwebdesigncompany.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623120743id_/http%3A//www.whichwebdesigncompany.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichwebdesigncompany.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228143458id_/http%3A//www.whichwebdesigncompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Which Web Design Company
 
@@ -8,7 +8,7 @@ Our postal address is
 **5, Montague House, 109-113 Whitfield Street  
 London, W1T 4HJ**
 
-We can be reached via e-mail at [wwdc@whichwebdesigncompany.com](mailto:wwdc@whichwebdesigncompany.com).
+We can be reached via e-mail at [nasrin@whichwebdesigncompany.com](mailto:nasrin@whichwebdesigncompany.com).
 
 This privacy policy sets out how Which Web Design Company uses and protects any information that you give Which Web Design Company when you use this website.
 
