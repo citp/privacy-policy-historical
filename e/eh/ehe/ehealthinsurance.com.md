@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513142557id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicyPopup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228053112id_/http%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eHealthInsurance
 
@@ -16,7 +16,7 @@ You can find out more about our commitment to privacy and how your personal info
 
 **eHealthInsurance's Privacy Policy**
 
-This eHealthInsurance Privacy Policy discloses the information privacy practices for the website (with the URL of either [www.ehealthinsurance.com](https://web.archive.org/) or [www.ehealth.com](http://www.ehealth.com/)) that you are currently visiting.
+This eHealthInsurance Privacy Policy discloses the information privacy practices for the website (with the URL of either [www.ehealthinsurance.com](http://www.ehealthinsurance.com/) or [www.ehealth.com](http://www.ehealth.com/)) you are currently visiting.
 
 Throughout the policy, we refer to information that can identify you as a specific individual, such as your name, phone number, email address, Social Security number or credit card number, as "personal information." Further, personal information includes any information involving your health or medical history.
 
@@ -56,10 +56,6 @@ We may use your personal information to get in touch with you when necessary to 
     * **Customer satisfaction, referrals and other products.**
 
 We or our wholly-owned subsidiaries may contact you to survey your satisfaction of our service, refer our products and services to other people, and/or to inform you of additional products and services. You may opt out of receiving these additional communications from us by following the opt-out procedures below.
-
-    * **Email this Quote.**
-
-eHealthInsurance has a Email this Quote service that allows you to inform a friend about plans that you've found on our site. In this process you enter the e-mail address of your friend and possibly your own e-mail address, together with a short message. eHealthInsurance will include certain personal information from you, such as your name, into the e-mail sent to be sent to your friend. After we send your email, we will not retain your friend's email address or send further emails to your friend unless your friend creates an account with us.
 
   4. **We gather anonymous information about you for our internal purposes, and we may share this anonymous information with third parties.**
 
