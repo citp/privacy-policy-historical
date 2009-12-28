@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmath.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141005id_/http%3A//hotmath.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmath.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228084312id_/http%3A//hotmath.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Hotmath Privacy Policy
 
