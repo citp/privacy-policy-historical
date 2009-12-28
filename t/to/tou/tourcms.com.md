@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourcms.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628162012id_/http%3A//www.tourcms.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourcms.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090730id_/http%3A//www.tourcms.com/company/privacy.php) for the most accurate reproduction.*
 
 # Travel UCD privacy policy
 
