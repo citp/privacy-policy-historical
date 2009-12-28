@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mousebreaker.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614062013id_/http%3A//www.mousebreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mousebreaker.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228021726id_/http%3A//www.mousebreaker.com/privacy) for the most accurate reproduction.*
 
 # privacy - Mousebreaker
 
