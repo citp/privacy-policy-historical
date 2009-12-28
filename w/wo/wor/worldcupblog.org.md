@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcupblog.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152835id_/http%3A//www.worldcupblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcupblog.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228132626id_/http%3A//www.worldcupblog.org/privacy-policy) for the most accurate reproduction.*
 
 # World Cup Blog
 
@@ -10,7 +10,7 @@ BTN does not require an end-user to provide a name and address or any other pers
 
 BTN, its affiliates, partners, third parties, and sponsors offer various activities, products and services in which you are under no obligation to participate but if you do we (BTN) may need to ask for certain personally identifiable or demographic information about you or someone you know.
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+Please keep in mind that whenever you voluntarily disclose personal information online – for example on message boards, through e-mail, or in chat areas – that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
 The types of personally identifiable information that we may collect include but is not limited to: your user profile as a whole, including first name, last name, email address, password. Non personally identifiable information that we collect includes but is not limited to: gender, date of birth, and information about your interests, hobbies, preferences and your opinions, as well as other information that may or may not be application specific.
 
