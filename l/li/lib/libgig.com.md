@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626181739id_/http%3A//www.libgig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228084253id_/http%3A//www.libgig.com/privacy) for the most accurate reproduction.*
 
 # LibGig Privacy Policy | Library Jobs, careers, placement, recruiting | LibGig
 
@@ -68,4 +68,4 @@ Use of the Site signifies your consent, as well as the consent of the company fo
 
 Policy Modifications & Contacting LibGig
 
-LibGig reserves the right to change this Privacy Policy at any time; notice of changes will be published on this page. Changes will always be prospective, not retroactive. If you have questions about our policies, please [contact Larry Honig](mailto:l@hdex.com).
+LibGig reserves the right to change this Privacy Policy at any time; notice of changes will be published on this page. Changes will always be prospective, not retroactive. If you have questions about our policies, please [contact us at theteam@libgig.com](mailto:theteam@libgig.com), with the words "Privacy Policy" in the subject line.
