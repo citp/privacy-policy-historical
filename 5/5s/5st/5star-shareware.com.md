@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5star-shareware.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619101759id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5star-shareware.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228082528id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | 5 Star Shareware
 
@@ -12,7 +12,8 @@
 
 
 
-Shop for [DVD Duplicators](http://www.cd-writer.com/ "DVD Duplicators") at cd-writer.com
+[New Norton AntiVirus 2010](http://www.dpbolvw.net/click-2436642-10563526)  
+[Adobe Photoshop CS3 Free Download](https://web.archive.org/Windows/Graphics/Image-Editors/adobe_photoshop.html)
 
 | 
 
@@ -35,9 +36,13 @@ From time to time, we may ask users to provide an e-mail or mailing address for 
 
 ### Email-Newsletter List Privacy Policy
 
-5 Star Network Limited maintains a strict **no-spam** policy. If you sign up for our [free newsletter](https://web.archive.org/web/20090619101759id_/http%3A//www.5star-shareware.com/newsletter/subscribe.mis), your e-mail address will **not** be sold or given to any third party.
+5 Star Network Limited maintains a strict **no-spam** policy. If you sign up for our [free newsletter](https://web.archive.org/web/20091228082528id_/http%3A//www.5star-shareware.com/newsletter/subscribe.mis), your e-mail address will **not** be sold or given to any third party.
 
 If you have any questions or concerns, please [contact us](https://web.archive.org/docs/contact.html).
+
+### Third Party Ads
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.co.uk/privacy_ads.html).
 
 | 
 
