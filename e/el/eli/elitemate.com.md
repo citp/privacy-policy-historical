@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419191142id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228035237id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # EliteMate.com's Privacy Policy, Online Dating, Picture Personals, Hottest Singles, Local Dating, Find Love, Friends, Pens Pals, Romance, Free Membership,
 
@@ -7,9 +7,9 @@
 
 By using our services or submitting information that we use in providing our services, you are accepting the practices described in this Privacy Policy and expressly agreeing to accept offers from us, our customers, and/or any third party to whom we sell, license, transfer and/or share your email address or other personal information. The 3rd parties to whom we sell, license, transfer, and/or share this information include individuals and companies engaged in the sales, marketing, advertising, and publishing industries for various products and services. 
 
-The information we collect includes name, address, age, date of birth, e-mail address, telephone number, hair color, eye color, number of children, height, weight, race, religion, occupation, education, the type of service you purchase, your payment history, and, if applicable, the status of your relationship with us as either a guest, paying member, model, and/or affiliate. Additionally, our site has areas in which you may post text, images, and video. Any information posted in these areas is routinely archived. You can “opt out” of providing this additional information by not entering it when asked, or if you have already provided your information, you can change it by logging into your member account. 
+The information we collect includes name, address, age, date of birth, e-mail address, telephone and cell number, hair color, eye color, number of children, height, weight, race, religion, occupation, education, the type of service you purchase, your payment history, and, if applicable, the status of your relationship with us as either a guest, paying member, model, and/or affiliate. Additionally, our site has areas in which you may post text, images, and video. Any information posted in these areas is routinely archived. You can “opt out” of providing this additional information by not entering it when asked, or if you have already provided your information, you can change it by logging into your member account. 
 
-We use the information that we collect to provide our services, to contact you regarding new offers, and for advertising purposes. We also use the information to contact customers to further discuss customer interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. The information we collect is also sold, licensed, transferred, and/or shared with individuals and companies engaged in the sales, marketing, advertising, and publishing industries for various products and services in which you may be interested.
+We use the information that we collect to provide our services, to contact you regarding new offers, and for advertising purposes. We also use the information to contact customers to further discuss customer interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. The information we collect is also sold, licensed, transferred, rebranded, updated, appended and/or shared with individuals and companies engaged in the sales, marketing, advertising, and publishing industries for various products and services in which you may be interested.
 
 We use a third party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
 
@@ -57,7 +57,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 [ click here](http://www.google.com/privacy_ads.html).  
 
-This privacy policy is effective as of march 12, 2009   
+This privacy policy is effective as of November 11, 2009   
  
 
 Opt Out Here  [ http://www.elitemate.com/myJsp/optout.jsp](http://www.elitemate.com/myJsp/optout.jsp "http://www.elitemate.com/myJsp/optout.jsp").  Please note that unsubscribing from this email list does not automatically unsubscribe you from any other email list on which you may be.  Please read the email carefully to find out which list from which you are unsubscribing.
