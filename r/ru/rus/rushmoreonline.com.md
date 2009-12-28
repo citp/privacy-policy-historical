@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517034858id_/http%3A//www.rushmoreonline.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushmoreonline.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228024554id_/http%3A//www.rushmoreonline.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Rushmore Online Casino • $888 Free Bonus • Privacy Policy
 
@@ -22,7 +22,7 @@ E-mail Addresses are NOT shared with any other organization for commercial or no
 
 We collect e-mail addresses of those who communicate with us via e-mail.
 
-If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to support@rushmorecasino.com.
+If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to support@rushmoreonline.com.
 
 Winnings
 
