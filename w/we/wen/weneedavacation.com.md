@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106192902id_/http%3A//www.weneedavacation.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228093405id_/http%3A//www.weneedavacation.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy of WeNeedaVacation.com, All Seasons Vacation Rentals, LLC
 
