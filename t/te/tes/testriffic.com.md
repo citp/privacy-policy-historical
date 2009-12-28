@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testriffic.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207075114id_/http%3A//www.testriffic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testriffic.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228011310id_/http%3A//www.testriffic.com/info/privacy.php) for the most accurate reproduction.*
 
 # Testriffic | Info | Privacy Policy
 
@@ -14,7 +14,7 @@ After you access your very own Profile ("Profile") , you have the choice to ente
 
 In addition to your own profile you have the ability to create custom content including but not limited to, poems , jokes , tests, pictures. By submitting content to our site you agree that it will be visible to all users. 
 
-When you access Testriffic, we use a Tracker ("Tracker") that reports how you use Testriffic. This program collects information such as but not limited to your IP address, browser type, and files you have accessed. This information is for Testriffic's private use only and is collected to improve our services. 
+When you access Testriffic, we use a Tracker ("Tracker") that reports how you use Testriffic. This program collects information such as but not limited to your IP address, browser type, and files you have accessed. This information is for Testriffic's private use only and is collected to improve our services and ensure the terms and conditions are followed. 
 
 ##### Your Information and Third Parties
 
