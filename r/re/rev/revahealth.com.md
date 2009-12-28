@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the revahealth.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516235122id_/http%3A//www.revahealth.com/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revahealth.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228164636id_/http%3A//www.revahealth.com/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # RevaHealth.com
 
-PRIVACY STATEMENT 
+**PRIVACY STATEMENT**
 
 Global Medical Treatment Limited, trading as RevaHealth.com ("Reva", "we" or “us”) respects and protects your right to privacy in relation to your interactions with this website. We have adopted the following policies to safeguard your personal information and to protect its confidentiality. Any information which is provided by you to RevaHealth.com via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts 1988 and 2003 (the “Acts”) and/or such amending or replacement legislation as may be adopted in Ireland from time to time.  You should read this Privacy Statement carefully before using this website. If you do not read or if you disagree with any aspect of the Privacy Statement, you should not use this website. Your use of this website signifies your agreement to be bound by the terms of this Privacy Statement. 
 
