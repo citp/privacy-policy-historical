@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwt-logi.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421043731id_/http%3A//fwt-logi.com/subpages/private_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwt-logi.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228015523id_/http%3A//fwt-logi.com/subpages/private_policy.php) for the most accurate reproduction.*
 
 # FWT Logistics Japan - Shipping and Booking Agent
 
