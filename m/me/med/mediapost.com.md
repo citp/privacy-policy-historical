@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081948id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228091856id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
 
 # MediaPost - news and directories for media, marketing and online advertising professionals
 
@@ -16,7 +16,7 @@ MediaPost Communications may also automatically collect information such as your
 
 #### Updating or Opting Out
 
-If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2010. We will delete you from our database. 
+If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, choose the 'End your MediaPost Membership' option at the bottom of your profile page and click 'Save'. You will be automatically deleted from our database. If you wish to remain a MediaPost member but still want to opt-out of all email communications from us, choose the 'No Newsletters or Email Notices' option instead. If you have any questions regarding our opt-out policies, send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2010. 
 
   
 
