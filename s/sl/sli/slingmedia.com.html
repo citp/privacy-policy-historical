@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the slingmedia.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616205418id_/http%3A//www.slingmedia.com/get/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slingmedia.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228082038id_/http%3A//www.slingmedia.com/get/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:comem3="xalan://com.em3" xmlns:em3="http://www.em3.com/2002/widget"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="Privacy Policy" name="shorttitle"><title>Sling Media - Privacy Policy</title><link xmlns="" type="text/css" rel="stylesheet" media="screen" href="/js/jquery/nyroModal/styles/nyroModal.css"><style type="text/css">
 
@@ -450,13 +450,13 @@ if (window.location.host.indexOf("slingbox") != -1 && window.location.host.index
 
 // ---------------------------- redirection for locale ----------------------
 
-function goSMLocale() {
+function goSMLocale(oLoc) {
 
     var favorite = GetCookie("sm_locale");
 
     if (favorite != null) {
     switch (favorite) {
-        case 'us' : url = 'http://www.slingmedia.com/'; 
+        case 'us' : url = 'http://www.slingbox.com/?us'; 
         break;
         case 'au' : url = 'http://www.slingmedia.com/go/australia'; 
         break;
@@ -492,7 +492,9 @@ function goSMLocale() {
         break;
         case 'fi' : url = 'http://uk.slingmedia.com/';
         break;
-        case 'ic' : url = 'http://uk.slingmedia.com/';
+        case 'tr' : url = 'http://uk.slingmedia.com/';
+        break;
+        case 'is' : url = 'http://uk.slingmedia.com/';
         break;
         case 'fr' : url = 'http://fr.slingmedia.com/';
         break;
@@ -502,9 +504,31 @@ function goSMLocale() {
         break;
         case 'es' : url = 'http://es.slingmedia.com/';
         break;
+        case 'ad' : url = 'http://es.slingmedia.com/';
+        break;
+        case 'sm' : url = 'http://it.slingmedia.com/';
+        break;
+        case 'va' : url = 'http://it.slingmedia.com/';
+        break;
+        case 'chit' : url = 'http://it.slingmedia.com/';
+        break;
+        case 'at' : url = 'http://de.slingmedia.com/';
+        break;
+        case 'li' : url = 'http://de.slingmedia.com/';
+        break;
+        case 'chde' : url = 'http://de.slingmedia.com/';
+        break;
+        case 'be' : url = 'http://fr.slingmedia.com/';
+        break;
+        case 'lu' : url = 'http://fr.slingmedia.com/';
+        break;
+        case 'mc' : url = 'http://fr.slingmedia.com/';
+        break;
+        case 'chfr' : url = 'http://fr.slingmedia.com/';
+        break;
     }
     // only redirect if you are not on the current site
-      if (window.location.href.toLowerCase().indexOf(url) == -1) window.location.href= url;
+      if (window.location.href.toLowerCase().indexOf(url) == -1 || favorite != oLoc) window.location.href= url;
 
     }
 
@@ -513,8 +537,9 @@ function goSMLocale() {
 
 function setLocale(sLoc) {
     if (sLoc != '') {
+var  oLoc = GetCookie("sm_locale");
         SetCookie("sm_locale", sLoc);
-        goSMLocale();
+        goSMLocale(oLoc);
     }
 }
 
@@ -583,70 +608,64 @@ $(".a").corner();
       
     var _gSuggestFocus = false;
     var _gCurrentSearchNumber = 0;
-    function _keyUpHandler(e, search)
-    {
+
+    function viewSug(suggestion){
+       $('#sp-searchtext').val(suggestion);
+       _gCurrentSearchNumber++;
+       setTimeout("_gSuggest('" + escape(suggestion) + "', " + _gCurrentSearchNumber + ");", 500);
+   }
+
+    function _keyUpHandler(e, search){
         var keycode;
-        if(window.event)
-        {
+        if(window.event){
             keycode = window.event.keyCode;
         }
-        else if(e)
-        {
+        else if(e){
             keycode = e.which;
         }
-
-        if(search.value.length > 1)
-        {
-            if(keycode != 9 && keycode != 13 && keycode != 37 && keycode != 38 && keycode != 39 && keycode != 40 && keycode != 16)
-            {
+        if(search.value.length > 1){
+            if(keycode != 9 && keycode != 13 && keycode != 37 && keycode != 38 && keycode != 39 && keycode != 40 && keycode != 16){
                 _gCurrentSearchNumber++;
                 setTimeout("_gSuggest('" + escape(search.value) + "', " + _gCurrentSearchNumber + ");", 500);
             }
-            else if(keycode == 13)
-            {
+            else if(keycode == 13){
                 document.gs.submit();
             }
         }
-        else
-        {
+        else{
             _gCurrentSearchNumber++;
             $("#gSuggestionsContainer").hide(500);
         }
     }
-    function _gSuggest(query, current)
-    {
-        if(current == _gCurrentSearchNumber)
-        {
+
+    function _gSuggest(query, current){
+        if(current == _gCurrentSearchNumber){
             $("#gSuggestions").load("/go/gSuggest?q=" + query);
             $("#gSuggestionsContainer").show(500);
             _gCurrentSearchNumber=0;
         }
     }
 
-    function _gSuggestFocusHandler(focusIn)
-    {
+    function _gSuggestFocusHandler(focusIn){
         _gSuggestFocus = focusIn;
     }
 
-
-    $(function() {
-        
+    $(function(){  
         $('#gSuggestionsContainer').hover(
             function () {
                 _gSuggestFocusHandler(true);
             },
-            function () {
+            function (){
                 _gSuggestFocusHandler(false);
             }
         );
 
-        $(document).click(function () {
+        $(document).click(function (){
             if(!_gSuggestFocus)
             {
                 $("#gSuggestionsContainer").hide(500);
             }
         });
-
     });
 
 
@@ -683,50 +702,13 @@ $(".a").corner();
 <p>During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL (“Secure Sockets Layer”), and other security technology. This guards against interception of the information while it is on the Internet. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, however, there is no such thing as “perfect security” on the Internet. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Please contact us if you have any information regarding unauthorized use of the Sling Products.</p>
 <p><span style="FONT-WEIGHT: bold">Changes to this Privacy Statement: </span><br></p>
 <p>We may make changes to this Privacy Statement from time to time for any reason. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used (though you always have the option to delete your account as described above). If we make changes in the way we use Personally Identifiable Information, we will notify you via e-mail or by posting an announcement on our website. The latest version will be available at http://www.slingmedia.com/get/privacy-policy. You will be bound by any changes to the Privacy Statement when you use Sling Products after receiving notice of such changes.</p>
-<p><span style="FONT-WEIGHT: bold">Effective Date:&nbsp;</span> The Effective Date of this Privacy Statement is December 17, 2007<br></p></div></td></tr></tbody></table></td><td width="19"></td><td width="200" valign="top"></td><td width="21"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="/docs/TEMPLATE/257/support_2column_bottom.gif"></td></tr><tr><td align="center" colspan="2"><div xmlns="" style="margin-top:10px;" class="footer"><img vspace="0" hspace="0" src="/docs/IO/1487/img1487.gif"><div><a href="/go/buy">Where to Buy</a> | <a href="/go/media">News &amp; Media</a> | <a href="/go/about">About</a> | <a href="/go/jobs">Job Opportunities</a> <form style="margin-top:3px; margin-bottom:2px; margin-left:3px; display:inline;"><select onchange="setLocale(this.options[this.selectedIndex].value)" style="font-size:11px; color:gray;"><option>Select your country...</option><option value="us">United States</option><option value="uk">United Kingdom</option><option value="au">Australia</option><option value="ca">Canada</option><option value="cn">China</option><option value="dk">Denmark</option><option value="fi">Finland</option><option value="fr">France</option><option value="de">Germany</option><option value="hk">Hong Kong</option><option value="ic">Iceland</option><option value="ie">Ireland</option><option value="jp">Japan</option><option value="kr">Korea</option><option value="nl">Netherlands</option><option value="no">Norway</option><option value="se">Sweden</option><option value="tw">Taiwan</option></select></form></div></div><div class="footerLight"><img vspace="0" hspace="0" src="/docs/IO/1487/img1487.gif"><div>© 2005-2009 Sling Media.  All rights reserved.
+<p><span style="FONT-WEIGHT: bold">Effective Date:&nbsp;</span> The Effective Date of this Privacy Statement is December 17, 2007<br></p></div></td></tr></tbody></table></td><td width="19"></td><td width="200" valign="top"></td><td width="21"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td colspan="2"><img src="/docs/TEMPLATE/257/support_2column_bottom.gif"></td></tr><tr><td align="center" colspan="2"><div xmlns="" style="margin-top:10px;" class="footer"><img vspace="0" hspace="0" src="/docs/IO/1487/img1487.gif"><div><a href="/go/buy">Where to Buy</a> | <a href="/go/media">News &amp; Media</a> | <a href="/go/about">About</a> | <a href="/go/jobs">Job Opportunities</a> <form style="margin-top:3px; margin-bottom:2px; margin-left:3px; display:inline;"><select onchange="setLocale(this.options[this.selectedIndex].value)" style="font-size:11px; color:gray;"><option>select your country...</option><option value="us">United States</option><option value="uk">United Kingdom</option><option value="ad">Andorra</option><option value="au">Australia</option><option value="at">Austria</option><option value="be">Belgium</option><option value="ca">Canada</option><option value="cn">China</option><option value="dk">Denmark</option><option value="fi">Finland</option><option value="fr">France</option><option value="de">Germany</option><option value="hk">Hong Kong</option><option value="is">Iceland</option><option value="ie">Ireland</option><option value="il">Israel</option><option value="it">Italy</option><option value="kr">Korea</option><option value="li">Liechtenstein</option><option value="lu">Luxembourg</option><option value="mc">Monaco</option><option value="nl">Netherlands</option><option value="no">Norway</option><option value="sm">San Marino</option><option value="es">Spain</option><option value="se">Sweden</option><option value="chde">Switzerland (DE)</option><option value="chfr">Switzerland (FR)</option><option value="chit">Switzerland (IT)</option><option value="tw">Taiwan</option><option value="tr">Turkey</option><option value="va">Vatican City</option></select></form></div></div><div class="footerLight"><img vspace="0" hspace="0" src="/docs/IO/1487/img1487.gif"><div>© 2005-2009 Sling Media.  All rights reserved.
         
          | 
                         
         
         <a href="/get/terms-of-use">Terms of Use</a> | <a href="/get/privacy-policy">Privacy Policy</a></div></div></td></tr></tbody></table>
 
-
-<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://www.slingmedia.com/sc/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=""
-s.server=""
-s.channel=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://slmslingmediaus.112.2O7.net/b/ss/slmslingmediaus/1/H.17--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. -->
 
 <!-- google tracking code -->
 <script type="text/javascript">
@@ -741,9 +723,5 @@ pageTracker._trackPageview();
 pageTracker._trackEvent();
 </script>
 
-<!-- AD CAMPAIGN TRACKING -->
-
-<!-- True Tag -->
-<script src="http://cts.channelintelligence.com/17070566_landing.js"></script>
 
 </body></html>
