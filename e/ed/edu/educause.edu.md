@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428012701id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228105710id_/http%3A//www.educause.edu/PrivacyPolicy/1440) for the most accurate reproduction.*
 
 # Privacy Policy | EDUCAUSE
 
