@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the azsos.gov privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621182946id_/http%3A//www.azsos.gov/legal/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azsos.gov privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228122928id_/https%3A//www.azsos.gov/legal/policy.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Statement
-
-| 
 
 ## Online Customer Service and Alternatives
 
@@ -23,6 +21,3 @@ The Department of State, State of Arizona have taken several steps to safeguard 
 To better serve our customer's we may use "cookies" to customize your browsing experience with the services. Cookies are simple text files stored on your computer by your web browser. Cookies identify your domain name or Internet Protocol address, as a method of distinguishing among visitors to the web site. You can refuse the cookie or delete the cookie file from your computer system by selecting various options on your computer's operating system. 
 
 Last modified: Wednesday, August 24, 2005 
-
-|     
----|---
