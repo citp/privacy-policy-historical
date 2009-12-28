@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061637id_/http%3A//www.metacrawler.com/metacrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228091855id_/http%3A//www.metacrawler.com/metacrawler_spy/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - MetaCrawler
 
@@ -29,7 +29,7 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 Mergers; Business Transitions  
 In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.   
 Choice/Opt-out  
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact Us](http://www.metacrawler.com/metacrawler/ws/ContactUs/_iceUrlFlag=11?_IceUrl=true)  
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact Us](http://www.metacrawler.com/metacrawler_spy/ws/ContactUs/_iceUrlFlag=11?_IceUrl=true)  
 Notification of Changes  
 If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days   
 Special Notification with respect to Children's Privacy (Users under the age of 13)  
@@ -44,6 +44,6 @@ InfoSpace, Inc.
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
-E-mail: [Contact Us](http://www.metacrawler.com/metacrawler/ws/ContactUs/_iceUrlFlag=11?_IceUrl=true)
+E-mail: [Contact Us](http://www.metacrawler.com/metacrawler_spy/ws/ContactUs/_iceUrlFlag=11?_IceUrl=true)
 
 Policy effective Oct 11, 2007 
