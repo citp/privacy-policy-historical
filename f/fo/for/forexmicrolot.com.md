@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexmicrolot.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616032837id_/http%3A//www.forexmicrolot.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmicrolot.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228145535id_/http%3A//www.forexmicrolot.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # 
 
