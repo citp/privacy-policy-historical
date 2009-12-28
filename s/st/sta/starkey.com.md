@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608040932id_/http%3A//www.starkey.com/corporate/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228094607id_/http%3A//www.starkey.com/corporate/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Starkey - Careers
+# Starkey - Privacy Policy
 
 This site is owned and operated by Starkey Laboratories. Your privacy on the Internet is of the utmost importance to us. At Starkey, we want to make your experience online satisfying and safe.
 
@@ -47,4 +47,4 @@ Starkey approaches Internet communications with a strong commitment to individua
 
 #### Contact Us
 
-If you have questions about the Privacy Policy or your experience with any of our sites, please [contact us](https://web.archive.org/corporate/contact_us.jsp).
+If you have questions about the Privacy Policy or your experience with any of our sites, please [contact us](https://web.archive.org/corporate/contact-us/contact-us.jsp).
