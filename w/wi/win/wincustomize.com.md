@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wincustomize.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609150331id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincustomize.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228042751id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock.com - Your Edge In Software
 
@@ -63,7 +63,7 @@ Stardock scans the text of e-mail messages in order to filter spam and detect vi
 
 Assessments (Hardware)
 
-Stardock's TweakVista product, at the request of the user, sends generic information about the computer hardware under analysis to Stardock. This data will not be provided to any third parties and will only be used to provide anonymous high level reports to other customers of TweakVista. 
+Stardock's TweakVista and Tweak7 products, at the request of the user, send generic information about the computer hardware under analysis to Stardock. This data will not be provided to any third parties and will only be used to provide anonymous high level reports to other customers of TweakVista and Tweak7. 
 
 External Links
 
