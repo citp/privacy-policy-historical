@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619063117id_/http%3A//www.astrogaming.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090138id_/http%3A//www.astrogaming.com/support/privacy) for the most accurate reproduction.*
 
-# Astro Gaming | Professional Gaming Equipment | Support | Privacy Policy
+# Astro Gaming | Professional Gaming Equipment
 
 **Welcome to the Privacy Policy for Astro Gaming, Inc.**
 
