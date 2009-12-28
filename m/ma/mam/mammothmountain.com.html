@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mammothmountain.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627155903id_/http%3A//www.mammothmountain.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mammothmountain.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228104739id_/http%3A//www.mammothmountain.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- internal --><head>
 
@@ -15,35 +15,36 @@
 
     
 
-   	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-   	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script> 
-
-	
-
 	
 	<script type="text/javascript">
 		var ecomm = {},
 			cachedCartTemplate,
 			_ajaxLocation		= 'http' + ( document.location.protocol.toString().indexOf('https') >= 0 ? 's' : '' ) + '://www.mammothmountain.com/_API/',
-			currDate			= new Date('06/27/2009'),
-			advDate				= new Date( ( new Date('06/27/2009') ).setDate( (new Date('06/27/2009')).getDate() + 1 ) ),
+			currDate			= new Date('12/28/2009'),
+			advDate				= new Date( ( new Date('12/28/2009') ).setDate( (new Date('12/28/2009')).getDate() + 1 ) ),
 			onCartLoad			= null,
 			__throbber			= '<embed width="60" height="60" wmode="transparent" type="application/x-shockwave-flash" src="/_ecomm/images/throbber.swf" pluginspage="" flashvars="" />',
 			cartReady			= [];
 	</script>
+	
+	
 
+	
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+   	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script> 
+	
+	
 	
 		<script type="text/javascript" src="http://mammoth.s3.amazonaws.com/ui/js/mergedyui.js.gz"></script>
 		<script type="text/javascript" src="http://mammoth.s3.amazonaws.com/_ecomm/js/mergedecomyui.js.gz"></script> 
-		
 		<style type="text/css" media="all">
 			<!--
 			@import url("http://mammoth.s3.amazonaws.com/ui/css/merged.css.gz");
+			
 			@import url("http://mammoth.s3.amazonaws.com/_ecomm/css/mergedecomyui.css.gz"); 
 			-->
-		</style>		
-
+		</style>
  		<style type="text/css" media="print">
 			<!--		
 			@import url("http://mammoth.s3.amazonaws.com/ui/css/printyui.css.gz");		
@@ -51,11 +52,11 @@
 		</style>
 		<link rel="shortcut icon" href="http://mammoth.s3.amazonaws.com/ui/images/favicon.ico">      
 	
+	
 
 
 
-
-
+	<script type="text/javascript" src="/_ecomm/js/jquery-jtemplates.js"></script> <!--jquery plugin for ecomm-->
 
 
 
@@ -64,13 +65,12 @@
 	
 
 
-
-	<script type="text/javascript" src="/_ecomm/js/mmsaGAUserEventTracking.js"> </script>
 	<script type="text/javascript">
 	var pageTracker; // google analytics tracker
 	var mmsaTracker;
-
-
+	var isIE6 = false;
+	
+	
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
@@ -122,6 +122,12 @@
 					// reinstate cart
 					if ( typeof result.products != 'undefined' )
 						_cart = result;
+					
+					
+					if(typeof _cart != 'undefined' && _cart.products.length == cartInfo.maxProducts)
+						cartInfo.isFull = true;
+					
+						
 					recalculate();
 					$.autoSave.object = $.extend( $.autoSave.object, {'_cart':'/_ecomm/saveHandler.cfm'});
 					initCartSave();
@@ -207,23 +213,6 @@
 		function initLinks () {
 
 			// reformat all buttons
-			$('input[type=button]:').each(
-				function () {
-					if ( !$(this).hasClass('inputImage') ) {
-						var origParent = $(this).parent(),
-							origClick = $(this).attr('onclick');
-						$(this).replaceWith(
-							'<span class="btn" ' + 
-								( $(this).attr('id') ? ' id="' + $(this).attr('id') + '"' : '' ) +
-								( $(this).attr('onclick1') ? ' onclick="' + $(this).attr('onclick') + '"' : '' ) +
-							'><div class="s" /><div class="m"><div class="c">' +
-								( $(this).attr('value') || '' ) +
-							'</div></div><div class="s" /></span>' +
-							'<div style="clear:both;"/>');
-						$(origParent).find('.btn').bind('click', origClick);
-					}
-				}
-			);
 
 			// rebranded links <span class="gLink"> with rollovers
 			$('.gLink').bind('mouseover mouseout', function () { $(this).toggleClass('gLink').toggleClass('gLinkOver'); });
@@ -258,8 +247,8 @@
 					"arg2":( (typeof(url) != 'undefined') ? url : ''),
 					"arg3":( (typeof(line) != 'undefined') ? line : ''),
 					"arguments":arguments,
-					"arguments.caller":(typeof(arguments.caller) != 'undefined') ? arguments.caller : null,
-					"arguments.callee":(typeof(arguments.callee) != 'undefined') ? arguments.callee : null,
+					"logException.caller":(typeof(logException.caller) != 'undefined') ? logException.caller : null,
+					"logException.callee":(typeof(logException.callee) != 'undefined') ? logException.callee : null,
 					"window.onerror.arguments":(typeof(window.onerror.arguments) != 'undefined') ? window.onerror.arguments : null,
 					"window.onerror.caller":(typeof(window.onerror.caller) != 'undefined') ? window.onerror.caller : null
 					});
@@ -322,26 +311,28 @@
 	
 	
 
-	  
-     	
 	<style type="text/css">
-		.esmimgright {
-			margin: 0 0 15px 15px;
-		}
-		body.home {
-			background:#ffffff url(http://mammoth.s3.amazonaws.com/ui/images/summerhomebg.jpg) top no-repeat;
-		}
-		body.home div.container {
-			background:url(http://mammoth.s3.amazonaws.com/ui/images/summerhomebgcenter.jpg) top no-repeat;
-		}
-		body {
-			background:#ffffff url(/ui/images/summerinternalbg.jpg) top no-repeat;
-		}
-		div.container {
-			background:url(/ui/images/summerinternalbgcenter.jpg) top no-repeat;
-		}
+		.hidden { display:none; }
+	  
+	     	
+			.esmimgright {
+				margin: 0 0 15px 15px;
+			}
+			body.home {
+				background:#ffffff url(http://mammoth.s3.amazonaws.com/ui/images/winterhomebg.jpg) top no-repeat;
+			}
+			body.home div.container {
+				background:url(http://mammoth.s3.amazonaws.com/ui/images/winterhomebgcenter.jpg) top no-repeat;
+			}
+			body {
+				background:#ffffff url(/ui/images/winterinternalbg.jpg) top no-repeat;
+			}
+			div.container {
+				background:url(/ui/images/winterinternalbgcenter.jpg) top no-repeat;
+			}
+	    
 	</style>
-    	
+	
 
 
 </head>
@@ -367,12 +358,12 @@
 	</ul>
 	</div>
 	
-	<div id="siteSearch">
-		<input type="text" id="searchBox" name="search" onfocus="if (this.value == '') this.className = 'selected';" onblur="if (this.value == '') this.className = '';">
-        <input type="image" id="searchImage" src="http://mammoth.s3.amazonaws.com/ui/images/siteSearchButton.gif">
-	</div>    
-	</form>
-    
+			<div id="siteSearch">
+				<input type="text" id="searchBox" name="search" onfocus="if (this.value == '') this.className = 'selected';" onblur="if (this.value == '') this.className = '';">
+		        <input type="image" id="searchImage" src="http://mammoth.s3.amazonaws.com/ui/images/siteSearchButton.gif">
+			</div>    
+			</form>
+	    
 		</div>
 		<div class="content">
 			
@@ -380,17 +371,18 @@
 			<div id="flashMenu">
 				  
 					
-                    <img src="http://mammoth.s3.amazonaws.com/ui/images/menupresubsummer.jpg" width="969" usemap="#Map" alt="">
+                    <img src="http://mammoth.s3.amazonaws.com/ui/images/menupresubwinter.jpg" width="969" usemap="#Map" alt="">
                                       
 				<map name="Map" id="Map">
 
 				
-				<area shape="rect" coords="55,58,147,116" href="/" title="Home" alt="Home">
-				<area shape="rect" coords="170,57,302,99" href="/VacationPlanning/" title="Vacation Planning" alt="Vacation Planning">
-				<area shape="rect" coords="317,57,443,99" href="/MountainActivities/" alt="Mountain Activities">
-				<area shape="rect" coords="456,58,578,96" href="/ResortActivities/" title="Resort Activities" alt="Resort Activities">
-				<area shape="rect" coords="592,59,648,93" href="/Lodging/" title="Lodging" alt="Lodging">
-				<area shape="rect" coords="664,57,801,94" href="/GroupsandMeetings/" title="Groups and Meetings" alt="Groups and Meetings">
+				<area shape="rect" coords="40,48,155,120" href="/" title="Home" alt="Home">
+				<area shape="rect" coords="168,48,306,120" href="/VacationPlanning/" title="Vacation Planning" alt="Vacation Planning">
+				<area shape="rect" coords="312,48,450,120" href="/MountainActivities/" alt="Mountain Activities">
+				<area shape="rect" coords="454,49,581,120" href="/ResortActivities/" title="Resort Activities" alt="Resort Activities">
+				<area shape="rect" coords="588,49,661,120" href="/Lodging/" title="Lodging" alt="Lodging">
+				<area shape="rect" coords="668,49,802,120" href="/GroupsandMeetings/" title="Groups and Meetings" alt="Groups and Meetings">
+				<area shape="rect" coords="806,50,898,120" href="/RealEstate/" title="Real Estate" alt="RealEstate">
 				</map>
 			</div>
 			
@@ -401,7 +393,7 @@
 				
 				var flashvars = {};
 				
-				flashvars.backgroundimgs = "/docs/summerbgimages/default/1.jpg,/docs/summerbgimages/default/2.jpg";
+				flashvars.backgroundimgs = "/docs/winterbgimages/default/4.jpg,/docs/winterbgimages/default/5.jpg";
 				
 				flashvars.imagetime = 10;
 				var params = {};
@@ -465,147 +457,91 @@
 
         	<div class="ticketForm">
 				<div>
-					<div class="tfLine">
-						<label for="arrive">arrive</label>
-						<input id="arrDate" style="text" size="10" maxlength="10" jval="{valid:function (val) { 
-								if (val.length == 0) 
-									return 'Invalid Date'; 
-								else if ((new Date(val)).getTime() < ((currDate).getTime() - 86400000)) 
-									return 'arrival date already past'; 
-								else if ((new Date(val)).getFullYear() > ((currDate).getFullYear() + 1)) 
-									return 'arrival date too far in advance'; 
-								else 
-									return ''; }, styleType:'cover', target:$('#arrDate, #arrDatePicker'), autoHide:true}" jvalkey="{valid:/[0-9\/]/, message:'&quot;%c&quot; invalid character - only mm/dd/yyyy allowed', cFunc:'$(\'#ticketFormGO\').click()', styleType:'cover', target:$('#arrDate, #arrDatePicker')}"><span class="pickerIcon" id="arrDatePicker" onclick="showCalPicker($('#arrDate')[0], 'arriveCal');"></span>
-						<div id="arriveCal" class="calPickerContainer"></div>
-					</div>
+					
+<script type="text/javascript" src="/_ecomm/js/jquery.ecommwidget.js"></script>
+<script type="text/javascript" src="/_ecomm/js/jquery.json-2.2.js"></script>
+<script type="text/javascript" src="/ui/js/hashmap.js"></script>
+<script type="text/javascript" src="/_ecomm/js/filterSettings.js"></script>
 
-					<div class="tfLine">
-						<label for="depart">depart</label>
-						<input id="depDate" style="text" size="10" maxlength="10" jval="{valid:function (val) { 
-								if (val.length == 0) 
-									return 'Invalid Date'; 
-								else if ((new Date(val)).getTime() < ((currDate).getTime() - 86400000)) 
-									return 'arrival date already past'; 
-								else if ((new Date(val)).getFullYear() > ((currDate).getFullYear() + 1)) 
-									return 'arrival date too far in advance'; 
-								else 
-									return ''; }, styleType:'cover', target:$('#depDate, #depDatePicker'), autoHide:true}" jvalkey="{valid:/[0-9\/]/, message:'&quot;%c&quot; invalid character - only mm/dd/yyyy allowed', cFunc:'$(\'#ticketFormGO\').click()', styleType:'cover', target:$('#depDate, #depDatePicker')}"><span class="pickerIcon" id="depDatePicker" onclick="showCalPicker($('#depDate')[0], 'departCal');"></span>
-						<div id="departCal" class="calPickerContainer"></div>
-					</div>
+<div id="widgetDiv">
 
-					<label for="guests">guests</label>
-					<select id="guests" name="guests">
-						
-							<option value="1" selected="">1</option>
-						
-							<option value="2">2</option>
-						
-							<option value="3">3</option>
-						
-							<option value="4">4</option>
-						
-							<option value="5">5</option>
-						
-							<option value="6">6</option>
-						
-							<option value="7">7</option>
-						
-							<option value="8">8</option>
-						
-							<option value="9">9</option>
-						
-							<option value="10">10</option>
-						
-					</select>
-					<span class="inptImg" id="ticketFormGO" onclick="if ( $('.ticketForm').jVal() ) ticketFormSubmit();">
-                       
-                       
-                       <img src="http://mammoth.s3.amazonaws.com/ui/images/goBtn.gif">
-                         
-                     </span>
+</div>
+
+<script type="text/javascript">
+
+
+$(document).ready(function () {
 	
-				</div>
-            </div>
+	var okay = false; // don't search on ecomm widget init.
 
-<script>
-
-	function ticketFormSubmit () {
-
-		try {
-			$.blockUI({ message:'please wait...' });
-
-			var aD = new Date( $('.ticketForm #arrDate').val() );
-			var dD = new Date( $('.ticketForm #depDate').val() );
-
-			_cart._it.arrDate = ( aD.getMonth() + 1 ) + '/' + aD.getDate() + '/' + aD.getFullYear();
-			_cart._it.depDate = ( dD.getMonth() + 1 ) + '/' + dD.getDate() + '/' + dD.getFullYear();
-			_cart._it.guests = parseInt( $('.ticketForm #guests').val() ) || 0;
-			recalculate();
-
-			// detect if different which will trigger autosave
-			if ( $.autoSave.object._cart && $.toJSON( _cart ) != $.autoSave._oldObjString._cart ) {
- 				// send to specific location by invoking window.location after autosave takes place
-				$.autoSave.callback = function () {
-					$.autoSave.callback = null;
-					window.location = '/VacationPlanning/TripPlanner/';
+	var searchFunc = function(){
+			if ( okay ) {
+				// set the startDate to date chosen for all products
+				for ( var i=0, sec=['AIRFARE','LODGING','TICKETS','RENTALS','LESSONS','DEAL','PACKAGE'], iE=sec.length; i < iE; i++ ) {
+					var secSet = filterSettings.getSettings(sec[i]);
+					secSet.put('#daysSelection', $('#daysSelection').val());
+					secSet.put('#startDate', $('#startDate').val());
+					filterSettings.setSettings(sec[i], secSet)
 				}
-			} else {
-				window.location = '/VacationPlanning/TripPlanner/';
+				// old for radio buttons
+				// var action = $('[name=action]:checked').val();
+				var action = $('#link').val();
+				switch(action.toUpperCase()){
+					case 'AIRFARE':
+						window.location = '/VacationPlanning/TripPlanner/Airfare';
+						break;
+					case 'LODGING':
+						window.location = '/VacationPlanning/TripPlanner/Lodging';
+						break;
+					case 'TICKETS':
+						window.location = '/VacationPlanning/TripPlanner/Tickets';
+						break;
+					case 'RENTALS':
+						window.location = '/VacationPlanning/TripPlanner/Rentals';
+						break;
+					case 'LESSONS':
+						window.location = '/VacationPlanning/TripPlanner/Lessons';
+						break;
+					case 'PACKAGES':
+						window.location = '/VacationPlanning/Deals';
+						break;
+				}
 			}
-		} catch(e) {
-			window.location = '/VacationPlanning/TripPlanner/';
-		}
+			okay = true;
+		},
+		entranceOptions = {
+			type: 'entrance',
+			template: '/_ecomm/ecommentrance.widget.template.cfm',
+			search: searchFunc,
+			filter: null,
+			postrender: function () {
+				if ( new Date($('#startDate').val()) < new Date(currDate) )
+					$('#startDate').val((currDate.getMonth() + 1 ) + '/' + currDate.getDate() + '/' + currDate.getFullYear());
+				$('#startDate').click(function () {
+					$('#arriveCal').data('day', ( new Date($('#startDate').val()) || new Date() ));
+					$('#arriveCal').data('days', $('#daysSelection').val());
+					showCalPickerX($(this), 'arriveCal', {
+							day: $('#arriveCal').data('day'),
+							dCheck: function (day) {
+									if ( day < new Date(currDate) )
+										return 'invday';
+									else
+										return 'day';
+								}
+						});
+				});
+				$('#searchButton').click(searchFunc);
+			}
+		};
+	$('#widgetDiv').ecommwidget(entranceOptions);
 		
-	}
-		
-	$('head:first').append('<link rel="stylesheet" type="text/css" href="/_ecomm/css/jCal.ticketForm.css">');
+});
 
-	var setITDates = function () {
-		try {
-			// arrival date
-			if ( _cart._it.arrDate && $('.ticketForm input#arrDate').length > 0 ) {
-				var aDate = new Date( _cart._it.arrDate );
-				$('.ticketForm input#arrDate').val( ( aDate.getMonth() + 1 ) + '/' + aDate.getDate() + '/' + aDate.getFullYear() );
-				$('#arriveCal').data('day');
-			}
-			// departure date
-			if ( _cart._it.depDate && $('.ticketForm input#depDate').length > 0 ) {
-				var dDate = new Date( _cart._it.depDate );
-				$('.ticketForm input#depDate').val( ( dDate.getMonth() + 1 ) + '/' + dDate.getDate() + '/' + dDate.getFullYear() );
-				$('#departCal').data('day')
-			}
-			// guests
-			if ( $('.ticketForm select#guests').length > 0 )
-				$('.ticketForm select#guests').val( ( _cart._it.guests || 1 ) );
-		} catch(e) {
-			// do nothing
-		}
-	};
-	
-	cartReady.push(setITDates);
-
-	$(document).ready(
-		function () {
-
-			// attach the onClick events
-			$('#arrDate').bind( "click",
-				function () {
-					showCalPicker(this, 'arriveCal');
-				}
-			);
-			$('#depDate').bind( "click",
-				function () {
-					showCalPicker(this, 'departCal');
-				}
-			);
-
-			// re-initialize the jVal validation
-			$('.ticketForm').jVal.init();
-
-		}
-	);
 
 </script>
+
+</div>
+</div>
 
         
 					</div>
@@ -796,15 +732,24 @@ regarding your use of this site:</p>
             <li><a href="/CorporateHome/">Corporate Home</a></li>
             <li><a href="http://jobs.mammothmountain.com/" rel="external">Employment</a></li>
             <li><a href="/Privacy/">Privacy</a></li>
-            <li id="gc" style="cursor:pointer; text-decoration:underline;">Gift Card &amp; PassCash Balance</li>
+            <li id="gc" style="cursor:pointer; text-decoration:underline;">Check PassCash Balance</li>
             <li>In Partnership with <a href="http://www.fs.fed.us/r5/inyo/" rel="external">Inyo National Forest</a></li>
         </ul>
+        <ul class="line3" style="text-align: right;">
+            <li class="first">Follow us on...</li>
+            <li><a href="http://www.facebook.com/MammothMTN" target="_blank" id="fb_icon"><span>Facebook</span></a></li>
+            <li><a href="http://twitter.com/MammothMountain" target="_blank" id="twit_icon"><span>Twitter</span></a></li>
+            <li><a href="http://www.youtube.com/themammothmountain" target="_blank" id="yt_icon"><span>YouTube</span></a></li>
+            <li><a href="http://livevibe.mammothmountain.com/?feed=rss2" target="_blank" id="blog_icon"><span>RSS Feed</span></a></li>
+        </ul>
+		<!--
+		
+		-->
     </div>
 
 	</div>
     <div id="doneLoading"></div>
 
 
-<!--*path=/Privacy&*-->
-
+<!--*path=/Privacy/&*-->
  </body></html>
