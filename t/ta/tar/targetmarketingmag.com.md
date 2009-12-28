@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetmarketingmag.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627002001id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetmarketingmag.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228012601id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : NAPCO
 
@@ -7,7 +7,7 @@ Privacy Policy
 This is a Web site of North American Publishing Company, publisher of business-to-business and consumer trade magazines, newsletters, directories and related products. 
 
 Our postal address is:  
-1500 Spring Garden Street, Suite 1200  
+1500 Spring Garden Street, 12th Floor  
 Philadelphia, PA 19130 USA
 
 General inquiries can be directed to [customerservice@napco.com](mailto:customerservice@napco.com). Or you can reach us by telephone at (215) 238-5482 or toll free at (800) 777-8074.
@@ -24,12 +24,21 @@ If you supply us with your postal address you may receive periodic mailings from
 
 Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not want to receive such telephone calls, please let us know by sending email to us at the above address or writing to us at the above address. Please provide us with your exact name, company name, address and phone number. We will be sure your name is removed from the list we use internally which may on a limited basis be shared with other organizations.
 
+We collect the mobile phone numbers of those who voluntarily provide them to us. Although any mobile program is complimentary and requires no purchase or fee for participation, standard messaging and data fees may apply. Check your mobile plan for more details. 
+
 Questions & comments about this Web site? E-mail: ryoegel@napco.com.
 
-_Updated: January 20, 2006_
-  * Added information regarding access to NAPCO digital publications.
+_  
+_
+  * Updated June 30, 2009  
+Added information regarding the collection of mobile telephone numbers.
 
-_Updated: September 12, 2005_
-  * Modified part of Privacy Policy further explaining the types of e-mails subscribers/customers may receive.
+
+  * _Updated: January 20, 2006  
+_ Added information regarding access to NAPCO digital publications.
+
+
+  * _Updated: September 12, 2005:_  
+Modified part of Privacy Policy further explaining the types of e-mails subscribers/customers may receive.
 
 
