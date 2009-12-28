@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601230745id_/http%3A//www.allhealthcarejobs.com/aspx/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228070129id_/http%3A//www.allhealthcarejobs.com/aspx/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ If you register as a job seeker
 
 
 
-The information that the AllHealthcareJobs Website collects is protected and available only to AllHealthcareJobs , our parent company Intravision Software, Inc. and our staff.
+The information that the AllHealthcareJobs Website collects is protected and available only to AllHealthcareJobs , our parent company Dice Holdings Inc. and our staff.
 
 Any traffic, demographic, or marketing information collected is done with the express purpose of further understanding the marketplace and enhancing our site.
 
