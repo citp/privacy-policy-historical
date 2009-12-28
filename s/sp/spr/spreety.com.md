@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427124222id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228070955id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
 
-# About Spreety
+# About Spreety TV Online Copyright / Privacy Policy
 
-Spreety is a free guide to watch TV shows, movies, news, sports, and more online. The core focus of Spreety is on high production quality U.S. video and audio content that is presented with a positive Internet experience. 
-
-Spreety links to ABC for ABC shows, CBS for CBS shows, etc., for the highest quality, legal experience. While Spreety is free, some of the links are marked to indicate pay-for sevices. 
-
-For most, Spreety is a useful way to catch a missed TV episode or revisit an old favorite. For some, Spreety may replace the DVR and/or cable TV. 
-
-As a preferred directory, some Internet content does not appear, such as promotional clips or incomplete storylines. The goal with such editing is to provide a concise, quality experience for our members. 
-
-For advertisers, Spreety accepts ad placements via direct contact. For details, contact us at [Spreety@spreety.com](mailto:spreety@spreety.com). 
-
-Thank you for visiting Spreety! 
-
-### Spreety Privacy / Copyright Policy
+### Spreety Copyright / Privacy Policy
 
 **Usage of Materials with Copyrights**
 
