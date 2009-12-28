@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the agropages.com privacy policy that was archived on 2009-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623064735id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the agropages.com privacy policy that was archived on 2009-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228114734id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	Agrochemicals, Formulations, Intermediates, Insecticide, Herbicide, Pesticides
-</title><meta name="keywords" content="Fungicide, Insecticide, Fertilizer, Pest control, Fumigant, Seed treatment, Plant growth regulator, Agrochemicals, Herbicide, Crop Protection, Nitrogen Fertilizer, Organic Insecticides, Plant Growth Regulators, Foliar Fertilizers, Spraying, Mancozeb, Biopesticide, Imidacloprid, Rodenticide, Pesticides, Intermediates, Formulations, Glyphosate"><meta name="description" content="Agrochemical at agropages.com. Fungicide, Insecticide, Fertilizer, Fumigant, Seed treatment, Plant Growth Regulators, Herbicide, Crop Protection, Nitrogen Fertilizer."><meta name="robots" content="all"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta name="author" content="Zhang Xin | cmalaya@163.com"><link type="text/css" rel="stylesheet" href="/css/main.css"><script language="javascript" type="text/javascript" src="/js/main.js"></script>  
+	 Agropages.com, agrochemical online B2B  marketplace! 
+</title><meta name="keywords" content="Agrochemical Buy, Sell, Agrochemical Supplier, Trade, Manufacture, Importor,Exportor, Business, Product, China Export,agrochemical News, Features, Articles,Events, Links"><meta name="description" content="Agropages is the only global online B2B platform for agrochemcial business, providing information of industry news, database,directory, business leads, suppliers, manufactures,importors, exportors, distributors, buyers, sellers covering world market, especially ermerging market like latin america,east europe, china, india ,brazil!"><meta name="robots" content="all"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta name="author" content="Zhang | cmalaya@163.com"><link type="text/css" rel="stylesheet" href="/css/main.css"><script language="javascript" type="text/javascript" src="/js/main.js"></script>  
     <style type="text/css">
 	#dvAboutBody{margin-top:5px;}
     #dvAboutBody table tr td{text-align:left;}
@@ -14,18 +14,18 @@
 
 <body>
 <form name="form1" method="post" action="aboutus/policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY2OTcyNDk2NGRkKRmvWXp7quspuuwQQ5Oz58fu4qw=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY2OTcyNDk2NGRksO1WuU6zNUsji/B/TC+1LH0EgXY=">
 
 
 <!-- %@ OutputCache Duration="72000" VaryByParam="none" Shared="true" % //-->
 
 
-<div id="dvTop">
+<div id="dvTop"><div style=" float:right;"><a href="http://news.agropages.com">AgroNews</a> | <a href="http://cn.agropages.com">中文网</a></div>
  <a href="/login.htm" title="sign in agropages">Sign</a> | 
  <a href="/regist.htm" title="Join agropages">Join NOW!</a>
-
 </div>
 
+<script language="javascript" type="text/javascript" src="/js/object.js"></script>
 
 <script language="javascript">
 function changeSch(n,lnk){
@@ -37,9 +37,9 @@ function changeSch(n,lnk){
 	SetValue("schKey","");
 	
 	switch(n){
-		case 5 : HiddenE("schArea"); ShowE("schTime"); HiddenE("schDate");  break;
-		case 6 : ShowE("schArea"); HiddenE("schTime"); ShowE("schDate");  break;
-		default : ShowE("schArea"); HiddenE("schTime"); HiddenE("schDate");  break;
+		case 5 : HiddenE("schArea");  break;
+		case 6 : HiddenE("schArea");  break;
+		default : ShowE("schArea");   break;
 	};
 	
 	var txt= "Search Products";
@@ -58,8 +58,8 @@ function changeSch(n,lnk){
 function gotoSearch(){
    var sKey = val("schKey").replace(/[\'\@\?\;\=\!\<\>]/g,"");
    var sArea = val("schArea"); 
-   var sTime = val("schTime"); sTime = sTime.substring(0,sTime.lastIndexOf(" "));
-   var sDate = val("schDate"); sDate = sDate.substring(0,sDate.lastIndexOf(" "));
+//   var sTime = val("schTime"); sTime = sTime.substring(0,sTime.lastIndexOf(" "));
+//   var sDate = val("schDate"); sDate = sDate.substring(0,sDate.lastIndexOf(" "));
    
    var sUrl = config.BasePath;
    var iType = val("hidSchType");
@@ -69,8 +69,8 @@ function gotoSearch(){
 	   case "2" : sUrl += "/directory/--" + escape(sKey) + "," +sArea + "-1.htm"; break;
 	   case "3" : sUrl += "/buy/--" + escape(sKey) + "," +sArea + "-1.htm"; break;
 	   case "4" : sUrl += "/sell/--" + escape(sKey) + "," +sArea + "-1.htm"; break;
-	   case "5" : sUrl += "/news/------------"+ sTime +"----"+ sKey +"----1.htm";  break;
-	   case "6" : sUrl += "/events/search/" + sKey + "----" + sDate + "----" +  sArea + "----1.htm";  break;
+	   case "5" : sUrl = "Http://News.agropages.com/News/NewsList---0------"+sKey+"---0---News.htm";  break;
+	   case "6" : sUrl = "http://news.agropages.com/Events/EventsList---0---Events---"+sKey+"---0.htm";  break;
    }
    //alert(sUrl);
    window.location.href = sUrl; 
@@ -113,77 +113,9 @@ function gotoSearch(){
           	</optgroup>
          </select> 
          
-         <select id="schTime" name="schTime" style="display:none;">
-			<option value="2009-6-23 13:50:13">June&gt;&gt;2009</option>
-			<option value="2009-5-23 13:50:13">May&gt;&gt;2009</option>
-			<option value="2009-4-23 13:50:13">April&gt;&gt;2009</option>
-            <option value="all " selected="selected">All</option>
-         </select>
+        
          
-         <select id="schDate" name="schDate" style="display:none;">
-            <option value="all " selected="selected">All Months</option>
-			
-            	<option value="2009-6-23 13:50:13">
-				  June  
-				  &gt;&gt;2009
-              	</option>
-           	
-            	<option value="2009-7-23 13:50:13">
-				  July  
-				  
-              	</option>
-           	
-            	<option value="2009-8-23 13:50:13">
-				  August  
-				  
-              	</option>
-           	
-            	<option value="2009-9-23 13:50:13">
-				  September  
-				  
-              	</option>
-           	
-            	<option value="2009-10-23 13:50:13">
-				  October  
-				  
-              	</option>
-           	
-            	<option value="2009-11-23 13:50:13">
-				  November  
-				  
-              	</option>
-           	
-            	<option value="2009-12-23 13:50:13">
-				  December  
-				  
-              	</option>
-           	
-            	<option value="2010-1-23 13:50:13">
-				  January  
-				  &gt;&gt;2010
-              	</option>
-           	
-            	<option value="2010-2-23 13:50:13">
-				  February  
-				  
-              	</option>
-           	
-            	<option value="2010-3-23 13:50:13">
-				  March  
-				  
-              	</option>
-           	
-            	<option value="2010-4-23 13:50:13">
-				  April  
-				  
-              	</option>
-           	
-            	<option value="2010-5-23 13:50:13">
-				  May  
-				  
-              	</option>
-           	
-         </select>
+        
          
          <input id="schBtn" name="schBtn" class="schBt" type="button" value="Search Products" onclick="gotoSearch()">
          
@@ -205,15 +137,17 @@ function gotoSearch(){
       <tbody><tr>
         <td width="4" align="left" valign="top"><img src="/Images/bar/navBT_L.gif" width="4" height="37"></td>
         <td width="60" align="center" valign="middle" class="Main"><a href="/index.htm" title="Agrochemical">Home</a></td>
-        <td width="80" align="center" valign="middle" class="ln"><a href="/directory.htm" title="Directory">Directory</a></td>
-        <td width="70" align="center" valign="middle" class="ln"><a href="/product.htm" title="Herbicide Product">Product</a></td>
-        <td width="50" align="center" valign="middle" class="ln"><a href="/buy.htm" title="Buy Products -Nitrogen Fertilizer">Buy</a></td>
-        <td width="50" align="center" valign="middle" class="ln"><a href="/sell.htm" title="Sell Agrochemical Products">Sell</a></td>
-        <td width="80" align="center" valign="middle" class="ln red"><a href="/database.htm" title="Crop Protection Database">DataBase</a></td>
-        <td width="60" align="center" valign="middle" class="ln"><a href="/news.htm" title="Agropages News">News</a></td>
-        <td width="110" align="center" valign="middle" class="ln"><a href="/feature.htm" title="Feature Articles">Feature Articles</a></td>
-        <td width="70" align="center" valign="middle" class="ln"><a href="/events.htm" title="Events">Events</a></td>
-        <td width="90" align="center" valign="middle" class="ln"><a href="/link.htm" title="Resources">Industry Link</a></td>
+        <td width="75" align="center" valign="middle" class="ln"><a href="/directory.htm" title="Directory">Directory</a></td>
+        <td width="65" align="center" valign="middle" class="ln"><a href="/product.htm" title="Herbicide Product">Product</a></td>
+        <td width="45" align="center" valign="middle" class="ln"><a href="/buy.htm" title="Buy Products -Nitrogen Fertilizer">Buy</a></td>
+        <td width="45" align="center" valign="middle" class="ln"><a href="/sell.htm" title="Sell Agrochemical Products">Sell</a></td>
+        <td width="70" align="center" valign="middle" class="ln red"><a href="/database.htm" title="Crop Protection Database">DataBase</a></td>
+        <td width="50" align="center" valign="middle" class="ln"><a href="http://news.agropages.com/News" title="Agropages News" target="_blank">News</a></td>
+        <td width="60" align="center" valign="middle" class="ln"><a href="http://news.agropages.com/Feature" title="Feature Articles" target="_blank">Feature</a></td>
+        <td width="60" align="center" valign="middle" class="ln"><a href="http://news.agropages.com/Report" title="Report" target="_blank">Report</a></td>
+        <td width="60" align="center" valign="middle" class="ln"><a href="http://news.agropages.com/Events" title="Events" target="_blank">Events</a></td>
+        <td width="70" align="center" valign="middle" class="ln"><a href="http://news.agropages.com/WiKi" title="Resource" target="_blank">AgroWiki</a></td>
+        <td width="90" align="center" valign="middle" class="ln"><a href="http://www.agropages.com/Marketing" title="Adv.Promote" target="_blank">Adv&amp;Prom</a></td>
         <td align="center" valign="middle" class="Right"><a href="/office.htm" title="My Agropages">My AgroPages</a></td>
       </tr>
     </tbody></table>    </td>
@@ -486,27 +420,19 @@ function gotoSearch(){
 
 
 <div id="dvCopyRight" style="text-align:center;">
- <p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.agropages.com" title="Agrochemical">Formulations</a> | 
-   <a href="/directory.htm" title="Directory">Directory</a> | 
-   <a href="/product.htm" title="Herbicide Product">Product</a> |
-   <a href="/buy.htm" title="Buy Products -Nitrogen Fertilizer">Buy</a> | 
-   <a href="/sell.htm" title="Sell Agrochemical Products">Sell</a> | 
-   <a href="/database.htm" title="Crop Protection Database">DataBase</a> | 
-   <a href="/news.htm" title="Agropages News">News</a> | 
-   <a href="/feature.htm" title="Feature Articles">Feature Articles</a> | 
-   <a href="/events.htm" title="Events">Events</a> | 
-   <a href="/link.htm" title="Resources">Industry Link</a> | 
-   <a href="/policy.htm" title="agropages policy">Privacy Policy</a> | 
-   <a href="/service.htm" title="agropages service">Marketing Solution</a> | 
-   <a href="/contact.htm" title="Contact Us">Contact Us</a> | 
-   <a href="/sitemap.htm" title="Site map">Site Map</a></p>
- 
-   <p class="memo" style="text-align:center;">
-   Copyright Notice © 2006-2008 Stanley Alliance International Co., Ltd. All Rights Reserved.</p>
-   
-   <p class="beian" style="text-align:center; display:none;"><a href="http://www.miibeian.gov.cn/" target="_blank">浙ICP备07035772号</a></p>
-<br>
+<p class="fttx01"> <span>Agropages :</span>  <a href="http://www.agropages.com/directory.htm">Directory</a> | <a href="http://www.agropages.com/product.htm">Products</a> | <a href="http://www.agropages.com/buy.htm">Buy</a> | <a href="http://www.agropages.com/sell.htm">Sell</a> | <a href="http://www.agropages.com/database.htm">Database</a> | <a href="http://www.agropages.com/Marketing">Adv.&amp;Promote</a> |<span>AgroNews: </span> <a href="http://news.agropages.com/News">News</a> | <a href="http://news.agropages.com/Feature">Features</a> | <a href="">E-newsletter</a> | <a href="http://news.agropages.com/Report">Report</a> | <a href="http://news.agropages.com/Events">Events</a> | <a href="http://news.agropages.com/WiKi">AgroWiki</a> | <a href="http://cn.agropages.com">中文网</a>      </p>
+<p class="fttx03">  <a href="http://www.agropages.com/sitemap.htm">Site Map</a> | <a href="http://www.agropages.com/policy.htm">Privacy Policy</a> | <a href="http://www.agropages.com/aboutus/contactus.aspx">Contact Us</a>  </p>
+<p class="fttx02">Copyright Notice © 2006-2009  Stanley Alliance International Co., Ltd.  All Rights Reserved. </p>
 </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10454821-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 </form>
 
 
