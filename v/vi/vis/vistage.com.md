@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317213223id_/http%3A//www.vistage.com/en/about-us/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228082542id_/http%3A//www.vistage.com/about-us/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Executive leadership development, leadership training, executive and CEO coaching - Vistage Intl.
+# Executive Coaching and Business Leadership Coaching - Vistage
 
 | 
-
-## Privacy Policy
 
 **What This Privacy Policy Covers**
 
