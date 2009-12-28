@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620053705id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228114216id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
 
 # Online classifieds with photos. For sale classifieds. Free text ads. Sell it with pictures.
 
