@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616110002id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229033335id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy: Gardener's Supply
 
@@ -38,7 +38,7 @@ Gardener's Supply Company has contracted with Demandware Inc. ("Demandware"), to
 ##   
 How do we use the information we collect about you?
 
-We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from Gardener’s Supply. Gardener's Supply shares its customer information with its vendor partners and with members of the America's Gardening Resource (AGR) family of wholly-owned affiliates, including Dutch Gardens and Flower Power Fundraising. When you subscribe to Gardener's Supply e-mail, you may also receive occasional e-mails from other members of the AGR family of wholly-owned affiliates. In addition, we periodically make such information, including aggregated information, available to selected third parties.
+We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from Gardener’s Supply. Gardener's Supply shares its customer information with its vendor partners and with members of the America's Gardening Resource (AGR) family of wholly-owned affiliates, including Flower Power Fundraising. When you subscribe to Gardener's Supply e-mail, you may also receive occasional e-mails from other members of the AGR family of wholly-owned affiliates. In addition, we periodically make such information, including aggregated information, available to selected third parties.
 
 Gardener’s Supply uses an e-mail service provider to send targeted promotional e-mails and our Gardener’s News e-mail newsletter to our subscriber list. We share with our provider usage information about visitors to our site who have received these e-mails. This service provider does not sell this information. This information is used to help deliver and target future e-mail campaigns and upgrade visitor information used in reporting statistics. To collect usage information, we note some of the pages you visit on our web site through pixel tags (also called clear gifs). The information collected through the use of these pixel tags is personally identifiable. For more information about our third-party advertising company, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&). If you would like to be removed from our e-mail list, please follow the instructions at the bottom of each promotional e-mail, or just [e-mail us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/Link-Contactus?a=b) with your request. 
 
@@ -54,9 +54,9 @@ Gardener’s Supply wants you to be aware that when you click on links and/or ad
 
 ## Your Security
 
-Our web site encrypts your credit card number prior to transmission over the Internet using industry standard secure socket layer (SSL) encryption technology. For SSL to work you must use an SSL enabled browser. Most available browsers; version 3.0 and later, support SSL. 
+We understand that the safety of your personal information is extremely important to you. We take great care in protecting your privacy and ensuring a safe online shopping experience at www.gardeners.com. Our site uses Secure Sockets Layer (SSL) encryption technology to ensure the secure transmission of any personal information you provide while using our website. We also comply with Payment Card indsutry requirements and our site is regularly scanned and validated by Trustwave. 
 
-However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
+The Fair Credit Act specifies that your credit card company can hold you liable for no more that $50 in fraudulent charges to your account. If you feel you've incurred a fraudulent charge with us or any retailer, promptly notify your credit card company and follow the procedures outlined in your credit card agreement. 
 
 ## Your Consent and Changes to this Policy
 
