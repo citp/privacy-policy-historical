@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the availabledomainnames.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185237id_/http%3A//availabledomainnames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availabledomainnames.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229154557id_/http%3A//availabledomainnames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Available Domain Names
 
