@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627142805id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229182257id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
 # Inspire Me Today - Daily Inspiration, Interviews, Videos & More!
 
+  
   
 
 
@@ -139,7 +140,7 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 |   | 
 
-[](https://web.archive.org/web/20090627142805id_/http%3A//www.inspiremetoday.com/globalhugtour/index.php)
+[](https://web.archive.org/web/20091229182257id_/http%3A//www.inspiremetoday.com/globalhugtour/index.php)
 
 * * *
 
