@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gustavus.edu privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003320id_/http%3A//gustavus.edu/policy/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gustavus.edu privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229062157id_/http%3A//gustavus.edu/policy/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Gustavus Adolphus College
+# Privacy Policy Statement | Policies - Gustavus Adolphus College
 
 This is the website of Gustavus Adolphus College.
 
@@ -30,4 +30,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 With respect to security: when we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
