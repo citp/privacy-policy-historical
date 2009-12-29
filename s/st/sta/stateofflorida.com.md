@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629032240id_/http%3A//www.stateofflorida.com/privin1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229120828id_/http%3A//www.stateofflorida.com/privin1.html) for the most accurate reproduction.*
 
 # State of Florida.com - Privacy Policy
 
