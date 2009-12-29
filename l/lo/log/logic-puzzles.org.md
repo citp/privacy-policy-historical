@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620022136id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229183554id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
 
 # Logic Puzzles - Solve Online or Print Your Own for Free!
 
@@ -21,5 +21,9 @@ Some cookies may be used on Logic-Puzzles.org to store and record session data, 
 **Privacy of our email lists:**
 
 We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized staff. 
+
+**Opt out:**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 * * *
