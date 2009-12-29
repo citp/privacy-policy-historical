@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brisnet.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626110703id_/http%3A//www.brisnet.com/cgi-bin/static.cgi%3Fpage%3Dbrisnet_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisnet.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229231914id_/http%3A//www.brisnet.com/cgi-bin/static.cgi%3Fpage%3Dbrisnet_privacy_policy) for the most accurate reproduction.*
 
 # Brisnet Privacy Policy
 
@@ -110,7 +110,7 @@ This Privacy Policy is effective as of August 4, 2008.  BRISNET reserves the ri
 
 * * *
 
-[ [FREE Sign-up](http://www.brisnet.com/cgi-bin/static.cgi?page=register) ] [ [Products & Prices](http://www.brisnet.com/cgi-bin/HTML/products.html) ] [ [Bookstore](http://www.brisnet.com/cgi-bin/static.cgi?page=market) ] [ [Track Info](http://www.brisnet.com/cgi-bin/bris_tracks.cgi) ]   
+[ [Sign-up](http://www.brisnet.com/cgi-bin/static.cgi?page=register) ] [ [Products & Prices](http://www.brisnet.com/cgi-bin/HTML/products.html) ] [ [Bookstore](http://www.brisnet.com/cgi-bin/static.cgi?page=market) ] [ [Track Info](http://www.brisnet.com/cgi-bin/bris_tracks.cgi) ]   
 [ [Library](http://www.brisnet.com/cgi-bin/static.cgi?page=library) ] [ [Tech Support](http://www.brisnet.com/cgi-bin/help.cgi) ] [ [F.A.Q.](http://www.brisnet.com/cgi-bin/static.cgi?page=brisfaq) ] [ [Member Services](http://www.brisnet.com/cgi-bin/static.cgi?page=memberservices) ] [ [Contact Us](http://www.brisnet.com/cgi-bin/static.cgi?page=service) ] 
 
 * * *
