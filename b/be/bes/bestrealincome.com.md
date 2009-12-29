@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624144821id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230003718id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Based Business Opportunity
 
@@ -50,6 +50,11 @@ BestRealIncome.com sometimes tracks and catalogs the search terms that users ent
 We may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. BestRealIncome.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
 Third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of their ads being served on this website.
+
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.bestrealincome.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.bestrealincome.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
 
 You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
