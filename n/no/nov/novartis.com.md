@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628132550id_/http%3A//www.novartis.com/util/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229025640id_/http%3A//www.novartis.com/util/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy policy
 
