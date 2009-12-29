@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104601id_/http%3A//www.gohawaii.com/about_hawaii/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229221231id_/http%3A//www.gohawaii.com/about_hawaii/Privacy_Policy) for the most accurate reproduction.*
 
 # Hawaii's Official Tourism Site -- Travel info for your Hawaii vacation
 
 The Hawaii Visitors & Convention Bureau ("HVCB") knows that you value your privacy. That's why we want to make certain that you understand our policies and practices regarding your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy. 
 
-**I. Who Does This Privacy Policy Apply To?**  
+## I. Who Does This Privacy Policy Apply To?
+
 This Privacy Policy applies to the conduct of HVCB, and those independent contractors who operate portions of this website on HVCB's behalf, as their conduct relates to this website. When we use the terms website or this website, we mean those webpages and website described and defined in the Terms and Conditions of Use. 
 
 This Privacy Policy does not apply to the practices of companies that HVCB does not own or control, or to people that HVCB does not employ or manage. Third party websites that you connect to through this website are not under HVCB's control and are subject to their own privacy policies rather than this Privacy Policy. For more information about linking to third party websites through this website, please see the Terms and Conditions of Use. 
 
-**II. What Information Does HVCB Collect?**  
+## II. What Information Does HVCB Collect?
+
 In order to serve you better, it is necessary for HVCB to collect certain information. The type of information that HVCB collects depends on what you do when you visit our website.
 
-## A. Information That You Provide to Us  
-
+## A. Information That You Provide to Us
 
 In order for us to create your personalized "My Hawaii" website and/or to send you a vacation planner in response to your "Info Request", you will need to provide us with some personal information about yourself. The information that we collect includes: (1) your name; (2) your postal address; (3) your telephone number; (4) your e-mail address; (5) how you heard about our website; (6) how many times you have visited Hawaii; (7) when you plan to visit Hawaii next; (8) your reason for visiting Hawaii; (9) the islands you plan to visit; (10) the activities that interest you; (11) your age; (12) who will be traveling with you; (13) whether you have made reservations for your trip to Hawaii; and (14) whether you would like to receive destination updates and information about Hawaii via e-mail.
 
@@ -25,15 +26,22 @@ We also collect certain types of information automatically whenever you access a
 
 Cookies are pieces of information that we transfer to your computer's hard drive through your Web browser for record-keeping purposes. We use cookies to store some information that enables us to improve your experience at our website in a number of ways. Cookies also help us to learn about how and when people use our website so that we can determine which parts of our website are popular and which need to be modified to be more useful. Although cookies do identify a website user's computer, cookies alone cannot personally identify a user.
 
-Your Web browser only allows us to access the cookies we have already sent to your computer, not the cookies that other websites have sent. We do not and cannot use cookies to retrieve any information from your computer that we did not put there in the first place.
+Your Web browser only allows us to access the cookies we have already sent to your computer, not the cookies that other websites have sent. We do not and cannot use cookies to retrieve any information from your computer that we did not put there in the first place.  
+You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Most web browsers also offer users the ability to control the placement and duration of cookies.  Search for "cookies" under the web browser's Help menu for more information on cookie management features available  Please note, however, that many parts of our website will not function properly if you do not allow cookies.
 
-You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Please note, however, that many parts of our website will not function properly if you do not allow cookies.
-
-## D. Action Tags 
+## D. Action Tags
 
 Action tags, which are also known as Web beacons or pixel tags, are small invisible images that are placed in certain areas of our website.  When an action tag is triggered by someone using our website, that information is logged in an external vendor system and is linked to that user’s anonymous cookie ID.  We use action tags to gather information about our website and to improve our website so that it can better meet your needs.
 
-## E. Collection of Personal Information from Children
+## E. Collection of Information by Third Parties
+
+We work with third parties to serve advertisements about HVCB and the State of Hawai‘i across the web.  These third parties may use tracking technologies to collect anonymous data about users who view or interact with advertisements or our website.  We do not provide any personal information about users to these third parties.  However, when you interact with, view, or click on an advertisement or visit our website, the third party might collect non-personally identifiable information about you, such as an anonymous cookie ID, the specific advertisement that you clicked on, and the time and place of delivery.  
+
+Third parties may use tracking technologies, such as cookies and action tags, when serving advertisements.  These common technologies are used for auditing, research, and reporting purposes.  Third party cookies and action tags are subject to the privacy policy of the company placing them.  For information about opting out of third party cookies, you may visit the Network Advertising Initiative at www.networkadvertising.org. 
+
+You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely.  Most web browsers also offer users the ability to control the placement and duration of third party cookies.  Search for "cookies" under the web browser's Help menu for more information on cookie management features available.  
+
+## F. Collection of Personal Information from Children
 
 HVCB believes that it is extremely important to protect children's personal information. As such, HVCB does not collect any personal information that can be identified with anyone under the age of 16. In fact, as discussed in our Terms and Conditions of Use, no one under the age of 16 is allowed to use any features of this website that result in our actively collecting personal information, such as the personalized "My Hawaii" website feature.
 
@@ -47,11 +55,12 @@ While we believe that the more information you have about Hawaii the more likely
 
 Please be advised, however, that we reserve the right to disclose any personal information about you without your prior consent if we have a good faith belief that such disclosure is necessary to: (1) conform to legal requirements or comply with valid legal process, such as a search warrant, subpoena, or court order; (2) protect our rights or property; (3) enforce the provisions of the Terms and Conditions of Use; or (4) prevent harm to you or others.
 
-HVCB sometimes shares with third parties certain nonpersonal, summary information about the people who use our website. This information is not personally identifiable in any way and consists of facts such as the average numbers of visitors to our website per day and the most popular sections of our website.  Also, as discussed in more detail above, information resulting from action tags being triggered is logged in an external vendor system and is linked to that user’s anonymous cookie ID.  None of this information is personally identifiable information. 
+HVCB sometimes shares with third parties certain nonpersonal, summary information about the people who use our website. This information is not personally identifiable in any way and consists of facts such as the average numbers of visitors to our website per day and the most popular sections of our website.  Also, as discussed in more detail above, information resulting from action tags being triggered is logged in an external vendor system and is linked to that user’s anonymous cookie ID.  None of this information is personally identifiable information.  
 
 ## IV. What Kind of Security Does HVCB Use to Protect Your Privacy?
 
-We know that when you provide us with any type of information, you're trusting us to keep it safe from unauthorized intrusion. We take all reasonable steps, through the use of updated security software and protocols, to ensure that your personal information is safe.
+We know that when you provide us with any type of information, you're trusting us to keep it safe from unauthorized intrusion. We take all reasonable steps, through the use of updated security software and protocols, to ensure that your personal information is safe.  
+ 
 
 ## V. What Do You Need to Do to Protect Your Personal Information?
 
@@ -63,22 +72,26 @@ The Federal Trade Commission's website also offers useful information about how 
 
 ## VI. How Can You Find Out What Personal Information Is on Record?
 
-We believe that it's important for you to be able to find out what personal information you have provided to us through our website. If you have completed an on-line Personal Information Form, you can contact us by telephone at 808.923.1811 and ask us what information we have on record about you. If you haven't completed an on-line Personal Information Form, then we don't have any personally identifiable information about you.
+We believe that it's important for you to be able to find out what personal information you have provided to us through our website. If you have completed an on-line Personal Information Form, you can contact us by telephone at 808.923.1811 and ask us what information we have on record about you. If you haven't completed an on-line Personal Information Form, then we don't have any personally identifiable information about you.  
+ 
 
 ## VII. How Can You Correct the Personal Information on Record with Us?
 
-We know that you want the information we have on record about you to be as complete and accurate as possible. We feel the same way, since maintaining accurate information is essential to our efforts to give you the best possible experience when you visit our website. That's why we encourage you to correct any information that might be outdated or otherwise invalid. It's easy to make changes. Simply contact us by telephone at 808.923.1811
+We know that you want the information we have on record about you to be as complete and accurate as possible. We feel the same way, since maintaining accurate information is essential to our efforts to give you the best possible experience when you visit our website. That's why we encourage you to correct any information that might be outdated or otherwise invalid. It's easy to make changes. Simply contact us by telephone at 808.923.1811.  
+ 
 
 ## VIII. How Can You Get Additional Information About HVCB's Privacy Policy?
 
-For additional information about our Privacy Policy, please e-mail us your question or request at info@hvcb.org. You can also contact us by telephone at 808.923.1811 or by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.
+For additional information about our Privacy Policy, please e-mail us your question or request at info@hvcb.org. You can also contact us by telephone at 808.923.1811 or by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.  
+ 
 
 ## IX. What Can You Do About Violations of This Privacy Policy?
 
-If at any time you believe HVCB has not adhered to the principles set forth in this Privacy Policy, please notify us and we will make all commercially reasonable efforts to promptly correct the problem. We can be contacted by e-mail at info@hvcb.org, by telephone at 808.923.1811, and by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.
+If at any time you believe HVCB has not adhered to the principles set forth in this Privacy Policy, please notify us and we will make all commercially reasonable efforts to promptly correct the problem. We can be contacted by e-mail at info@hvcb.org, by telephone at 808.923.1811, and by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.  
+ 
 
 ## X. Amendments to HVCB's Privacy Policy
 
 From time to time, it may be necessary for HVCB to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.
 
-Background pattern provided by BarkclothHawaii.com 
+ Background pattern provided by BarkclothHawaii.com 
