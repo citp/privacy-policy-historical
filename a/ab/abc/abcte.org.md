@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621222354id_/http%3A//www.abcte.org/about-abcte/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229105056id_/http%3A//www.abcte.org/about-abcte/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | American Board for Certification of Teacher Excellence
+# Privacy Policy | ABCTE
 
 ABCTE is committed to respecting the privacy of all candidates. The personal information collected by ABCTE will be used to operate and provide services or to carry out transactions you have requested or authorized. This information is collected, stored, and processed on servers located in the United States. Your payment information is processed on secure servers and encrypted. Access to candidate records is reserved for only those employees who require it to complete job duties related to the delivery of customer service.
 
