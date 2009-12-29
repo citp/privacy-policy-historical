@@ -1,206 +1,160 @@
-<!--The following is the downloaded HTML source of the ugotfile.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626002739id_/http%3A//ugotfile.com/doc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ugotfile.com privacy policy that was archived on 2009-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229162621id_/http%3A//ugotfile.com/doc/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Free File Hosting - uGotFile</title>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
-<script type="text/javascript" src="http://ugotfile.com/scripts/jquery/validate/jquery.validate.js"></script>
-<script type="text/javascript" src="http://ugotfile.com/scripts/jquery/corners/corners.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><meta http-equiv="X-UA-Compatible" content="IE=7">
+    
+    	<title>Free File Hosting - uGotFile</title>        <link rel="stylesheet" href="/styles/smoothness/jquery-ui-1.7.2.custom.css" type="text/css" media="all">
+        <link rel="stylesheet" href="/styles/ugf.css" type="text/css" media="all">
+
+		<script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/scripts/jquery-ui-1.7.2.custom.min.js"></script>
+		<script type="text/javascript" src="/scripts/cookie.js"></script>
+		<script type="text/javascript">
+			ugfUserName = "";
+			ugfUserId = "";
+			ugfPremium = "";
+			uiUgfActiveTab = false;
+
+			ugfButtonClick = function(){};
 
 
-		<script type="text/javascript"></script>
-<style type="text/css">
-		.odd { background-color: #ddd; }
-	.even { background-color: #fff; }
-</style>
+			ugfPageLoaded = function(){
+                if(!$.cookie('ugfNotification')){
+                    $('.ugfNotification').removeClass('hidden');
+                }
 
-<link rel="stylesheet" type="text/css" href="http://ugotfile.com/styles/ugotfile.css?v=0.31">
-<link rel="stylesheet" type="text/css" href="http://ugotfile.com/styles/commonForm.css?v=0.31">
+    					$('.ui-ugf-link').hover(
+					function() { uiUgfButtonMouseIn(this); },
+					function() { uiUgfButtonMouseOut(this); }
+				);
 
-<script type="text/javascript">
-$(document).ready(function(){
-    $('.rounded').corners();
-});
+				$('.ui-ugf-link').focus(
+					function() { uiUgfButtonMouseIn(this); }
+				);
+
+				$('.ui-ugf-link').blur(
+						function() { uiUgfButtonMouseOut(this); }
+				);
+
+				uiUgfButtonMouseIn = function(dom){
+					$(dom).addClass('ui-state-hover');
+				}
+
+				uiUgfButtonMouseOut = function(dom){
+					$(dom).removeClass('ui-state-hover');
+				}
+
+				$('div.ui-ugf-tab').tabs();
+/*
+				$('div.ui-ugf-tab').tabs({load: function(event, ui) {
+					ugfPageLoaded();
+				}});
+*/
+				if(uiUgfActiveTab){
+					$('#'+uiUgfActiveTab).addClass('active');
+				}
+
+				if(ugfUserName){
+					$('#headerProfile').html(ugfUserName+'&nbsp;(Profile)');
+					$('#headerProfile,#headerLogout').removeClass('hidden');
+					$('#headerRegister,#headerLogin').addClass('hidden');
+					if(!ugfPremium){
+						$('#headerUpgrade').removeClass('hidden');
+					} else {
+						$('#headerTraffic').removeClass('hidden');
+					}
+				}
+							}
+
+			$(function(){
+				ugfPageLoaded();
+			});
+
+		</script>
+
+		
+    </head>
+
+
+    <body>
+        <div class="ugfBody">
+        	<table class="ugfBody" cellpadding="0" cellspacing="0">
+        		<tbody><tr class="ugfContent">
+	        		<td style="vertical-align: top">
+
+
+			        	<div style="height: 60px; position: relative;" class="headerBackGround">
+				        	<div style="height: 1px; width:100%; overflow: hidden; position: absolute; top: 0px; left: 0px;background: white;"></div>
+				        	<div style="height: 1px; width:100%; overflow: hidden; position: absolute; bottom: 1px; left: 0px;background: white;"></div>
+				        	<div style="height: 58px; width: 960px; margin: auto" class="">
+
+			        			<table style="height:100%; width:100% " cellpadding="0" cellspacing="0">
+			        				<tbody><tr>
+			        					<td class="ugfLogo" style="width:140px">
+			        						<a href="http://ugotfile.com/" style="display: block;height: 100%; width: 100%"></a>
+			        					</td>
+
+			        					<td class="ugfMenu ugfMenu-HeaderMain left">
+			        						<a id="headerHome" href="/" class="start">Home</a><a id="headerRemoteUpload" href="/upload/remote">Remote&nbsp;Upload</a><a id="headerFileManager" href="/my/files">File&nbsp;Manager</a><a id="headerLinkChecks" href="/tools/check-links" class="end">Check&nbsp;Links</a>
+			        					</td>
+
+			        					<td class="ugfMenu ugfMenu-HeaderStatus">
+			        						<a id="headerProfile" href="/my/profile" class="start hidden">Profile</a><a id="headerTraffic" href="/traffic" class="hidden">Traffic</a><a id="headerRegister" href="/user/register" class="start">Register</a><a id="headerUpgrade" href="/user/upgrade" class="hidden red">Get&nbsp;Premium</a><a id="headerLogin" href="/user/login" class="end">Login</a><a id="headerLogout" href="/user/logout" class="end hidden">Logout</a>
+			        					</td>
+			        				</tr>
+			        			</tbody></table>
+
+			    	    	</div>
+			        	</div>
+
+
+	        			<div class="ugfContent">
+<!-- ++++++++++++++++++++ Content ++++++++++++++++++++ -->
+
+<div class="content" style="padding: 10px 0px">
+
+
+
+
+
+
+
+
+<div class="ui-state-highlight ui-corner-all ugfPadding ugfNotification">
+
+    <table style="width:100%" cellpadding="0px" cellspacing="0px" border="0px">
+        <tbody>
+            <tr>
+                <td style="width: 30px;"><span class="ui-icon ui-icon-lightbulb"></span></td>
+                <td>
+                    <p style="padding:0px; margin: 0px;">
+                        Maintenance has been completed.
+                        <br>Thanks for your patience.
+                    </p>
+                </td>
+                <td style="text-align: right; vertical-align: top">
+                    <div style="position: relative;">
+                        <div style="position: absolute; right:12px; top:-1px;">
+                            <a href="javascript:void(0)" onclick="$('.ugfNotification').addClass('hidden');$.cookie('ugfNotification',true,{path: '/', domain: '.ugotfile.com'});" style="top:0px; position: inherit; auto: 0px; padding:0px; margin:0px; height: 19px; width: 19px;" class="ui-corner-all ui-ugf-link plainBorder">
+                                <span class="ui-icon ui-icon-closethick" style="-moz-user-select: none; top:10px; position: inherit; left: 1px;"></span>
+                            </a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
+
+<div class="padding ugfNotification"></div>
+
+
+	<script>
+uiUgfActiveTab = 'footerPrivacyPolicy';
 </script>
 
-
-</head>
-
-
-<body>
-<div id="ugotfile">
-
-
-<div class="center" style="position: relative;">
-<div class="header">
-<table cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-        <td style="width: 100%;">
-            <div class="empty"></div>
-        </td>
-        <td>
-        <table id="headerMenu" cellpadding="0" cellspacing="0" border="0" style="padding: 0; margin: 0">
-            <tbody><tr>
-                <td>
-                <div class="HMU-button">
-                    <div class="left">
-                    	<div style="position:relative;margin-left:2px">
-                        	<div class="headerCurve" style="position:absolute; top:0px; left:-2px"></div>
-                        	<div class="headerContent">
-                        		<div class="headerFont">
-                        			<a href="/user/login/" onclick="window.location = this.href">Login</a>
-                        		</div>
-	                        </div>
-	                    </div>
-	                </div>
-				</div></td><td>
-                <div class="HMU-button">
-                    <div class="middle">
-		                <div class="headerContent">
-		                	<div class="headerFont">
-                    			<a href="/user/recover-password/" onclick="window.location = this.href">Forgot&nbsp;Password</a>
-                    		</div>
-                    	</div>
-                    </div>
-                </div></td><td>
-                <div class="HMU-button">
-                	<div class="right">
-                    	<div style="position:relative;margin-right:2px">
-                    		<div class="headerContent">
-                        		<div class="headerFont">
-                					<a href="/user/register/" onclick="window.location = this.href">Register</a>
-                        		</div>
-                    		</div>
-                    		<div class="headerCurve" style="position:absolute; top:0px; right:-2px"></div>
-                    	</div>
-                	</div>
-				</div></td>
-            </tr>
-        </tbody></table></td>
-    </tr>
-</tbody></table>
-</div>
-
-
-
-<div class="top">
-<table cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-        <td style="width: 100%">
-        <div class="empty"></div>
-        </td>
-
-        <td>
-        <table id="mainMenu" cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr>
-            <td>
-    <div class="MMU-button " style="position:relative;margin-left:5px;margin-right:5px">
-            <div class="buttonLeft" style="position:absolute;top:0px;left:-5px">
-                <a href="/" onclick="window.location=this.href">
-                    <div class="icon home"></div>
-                </a>
-            </div>
-            <div class="buttonMiddle">
-                <div class="buttonFont" style="margin-left:49px;margin-right:5px">
-                    <a href="/" onclick="window.location=this.href">
-                        Home                    </a>
-                </div>
-            </div>
-        <div class="buttonRight" style="position:absolute;top:0px;right:-5px"></div>
-    </div>
-</td>
-<td>
-    <div class="MMU-button " style="position:relative;margin-left:5px;margin-right:5px">
-            <div class="buttonLeft" style="position:absolute;top:0px;left:-5px">
-                <a href="/upload/remote/" onclick="window.location=this.href">
-                    <div class="icon remote"></div>
-                </a>
-            </div>
-            <div class="buttonMiddle">
-                <div class="buttonFont" style="margin-left:49px;margin-right:5px">
-                    <a href="/upload/remote/" onclick="window.location=this.href">
-                        Remote&nbsp;Upload                    </a>
-                </div>
-            </div>
-        <div class="buttonRight" style="position:absolute;top:0px;right:-5px"></div>
-    </div>
-</td>
-<td>
-    <div class="MMU-button " style="position:relative;margin-left:5px;margin-right:5px">
-            <div class="buttonLeft" style="position:absolute;top:0px;left:-5px">
-                <a href="/my/files/" onclick="window.location=this.href">
-                    <div class="icon files"></div>
-                </a>
-            </div>
-            <div class="buttonMiddle">
-                <div class="buttonFont" style="margin-left:49px;margin-right:5px">
-                    <a href="/my/files/" onclick="window.location=this.href">
-                        My&nbsp;Files                    </a>
-                </div>
-            </div>
-        <div class="buttonRight" style="position:absolute;top:0px;right:-5px"></div>
-    </div>
-</td>
-<td>
-    <div class="MMU-button " style="position:relative;margin-left:5px;margin-right:5px">
-            <div class="buttonLeft" style="position:absolute;top:0px;left:-5px">
-                <a href="/cookie/" onclick="window.location=this.href">
-                    <div class="icon cookie"></div>
-                </a>
-            </div>
-            <div class="buttonMiddle">
-                <div class="buttonFont" style="margin-left:49px;margin-right:5px">
-                    <a href="/cookie/" onclick="window.location=this.href">
-                        Cookie                    </a>
-                </div>
-            </div>
-        <div class="buttonRight" style="position:absolute;top:0px;right:-5px"></div>
-    </div>
-</td>
-<td>
-    <div class="MMU-button " style="position:relative;margin-left:5px;margin-right:5px">
-            <div class="buttonLeft" style="position:absolute;top:0px;left:-5px">
-                <a href="/affiliate/" onclick="window.location=this.href">
-                    <div class="icon affiliate"></div>
-                </a>
-            </div>
-            <div class="buttonMiddle">
-                <div class="buttonFont" style="margin-left:49px;margin-right:5px">
-                    <a href="/affiliate/" onclick="window.location=this.href">
-                        Affiliate                    </a>
-                </div>
-            </div>
-        <div class="buttonRight" style="position:absolute;top:0px;right:-5px"></div>
-    </div>
-</td>
-<td>
-    <div class="MMU-button " style="position:relative;margin-left:5px;margin-right:5px">
-            <div class="buttonLeft" style="position:absolute;top:0px;left:-5px">
-                <a href="/my/profile/" onclick="window.location=this.href">
-                    <div class="icon profile"></div>
-                </a>
-            </div>
-            <div class="buttonMiddle">
-                <div class="buttonFont" style="margin-left:49px;margin-right:5px">
-                    <a href="/my/profile/" onclick="window.location=this.href">
-                        Profile                    </a>
-                </div>
-            </div>
-        <div class="buttonRight" style="position:absolute;top:0px;right:-5px"></div>
-    </div>
-</td>
-            </tr>
-        </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
-</div>
-
-
-
-<div class="content" style="padding: 10px 20px">
-	<h1>Privacy Policy</h1>
+<h1>Privacy Policy</h1>
 
 <h2>Logging IP Addresses</h2>
 
@@ -247,27 +201,48 @@ other sites about goods and services that may be of interest to you.
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-    <table class="service-menu">
-        <tbody><tr>
-            <td style="text-align: left; width: 30%;">Copyright © uGotFile 2009. All rights reserved.</td>
-            <td style="text-align: right; width: 70%;">
-            	<a href="/doc/abuse/">Report Abuse</a>
-            	| <a href="/doc/contact/">Contact Us</a>
-            	| <a href="/doc/faq/">FAQ</a>
-            	| <a href="/doc/privacy/">Privacy Policy</a>
-            	| <a href="/doc/terms/">Terms of Service</a>
-            </td>
-        </tr>
-    </tbody></table>
 </div>
 
-<div class="bottom"></div>
-<div style="height: 20px; width: 100%; display: block;"></div>
-<div style="top: 0; left: 0; position: absolute; background-image: url('http://ugotfile.com/images/cliparts/logoUGotFile2.jpg'); background-repeat: no-repeat; height: 143px; width: 155px"></div>
-<div style="left: 135px; top: 0; position: absolute; background-image: url('http://ugotfile.com/images/cliparts/logoUGotFile1.jpg'); background-repeat: no-repeat; height: 80px; width: 222px"></div>
+<!-- -------------------- Content -------------------- -->
+	        			</div>
+	        		</td>
+        		</tr>
 
-</div>
-</div>
+
+
+        		<tr style="vertical-align: bottom">
+	        		<td>
+
+
+	        			<div style="height: 35px; position: relative; overflow: hidden; " class="footerBackGround">
+		        			<div style="height: 1px; width:100%; overflow: hidden; position: absolute; top: 1px; left: 0px;background: white;"></div>
+
+		        			<div style="height: 32px;width: 960px; ; margin:auto; overflow: hidden; padding-top: 2px;">
+
+				       			<table cellpadding="0" cellspacing="0" style="width:100%; height:100%;">
+				       				<tbody><tr>
+				       					<td class="ugfMenu ugfMenu-FooterMenu">
+				       						<a id="footerCookie" href="/cookie" class="start">Cookie</a><a id="footerAffiliate" href="/affiliate" class="end">Affiliate</a>
+				       					</td>
+				       					<td style="width:100%;">
+				       					</td>
+				       					<td class="ugfMenu ugfMenu-FooterMenu">
+				       						<a id="footerFaq" href="/doc/faq/" class="start">FAQ</a><a id="footerReportAbuse" href="/doc/abuse/">Report&nbsp;Abuse</a><a id="footerContactUs" href="/doc/contact/">Contact&nbsp;Us</a><a id="footerPrivacyPolicy" href="/doc/privacy/" class="active">Privacy&nbsp;Policy</a><a id="footerTermsOfService" href="/doc/terms/" class="end">Terms&nbsp;of&nbsp;Service</a>
+				       					</td>
+				       				</tr>
+				       			</tbody></table>
+
+		        			</div>
+
+		        			<div style="height: 1px; width:100%; overflow: hidden; position: absolute; bottom: 0px; left: 0px;background: white;"></div>
+	        			</div>
+
+
+	        		</td>
+        		</tr>
+
+        	</tbody></table>
+        </div>
 
 
     <script type="text/javascript">
@@ -280,10 +255,7 @@ In the course of serving advertisements to this site, our third-party advertiser
     pageTracker._trackPageview();
     } catch(err) {}</script>
     
-
-
-
-
+    
 
 
 
