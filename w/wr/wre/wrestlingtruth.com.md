@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the wrestlingtruth.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628080951id_/http%3A//wrestlingtruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingtruth.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229230520id_/http%3A//wrestlingtruth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
-## [Privacy](http://wrestlingtruth.com/privacy-policy/ "Privacy")
+Browse: [Home](http://wrestlingtruth.com/ "• Wrestling News & Wrestling Rumors – WWE & TNA") / Privacy 
+
+##  [Privacy](http://wrestlingtruth.com/privacy-policy/ "Privacy")
 
 The Wrestling Truth prides itself on being for the fans and readers, so we take our users privacy very serious.
 
 **What Personal Information Might We Collect?**  
-During a visit to wrestlingtruth.com we may in various instances ask you for personal information about yourself, this may include but is not limited to: Name, Email Address and Interests. This may be taken during a competition, newsletter signup or similar. We will never pass on this information to third parties and will only use it internally in the context explained when disclosing said information.
+During a visit to wrestlingtruth.com we may in various instances ask you for personal information about yourself, this may include but is not limited to: Name, Email Address and Interests. This may be taken during a competition, [newsletter](http://wrestlingtruth.com/newsletter/) signup or similar. We will never pass on this information to third parties and will only use it internally in the context explained when disclosing said information.
 
 In addition to any information you disclose to us, we use standard website tracking services that may collect certain non-personally identifiable information such as your Web Browser software, Operating System, Screen Resolution and Country of Origin. This information may be used internally to make your visit to our website easier. For example, if a lot of users have a certain screen resolution then we will optimize the site to reflect this.
 
