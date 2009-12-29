@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531210610id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229033405id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chapter 7 - Solutions for a Financial Crisis
+# Privacy Policy | Chapter 7 Bankruptcy
 
 ## Last Updated: February 2008
 
