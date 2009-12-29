@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the ugotfile.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002739id_/http%3A//ugotfile.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugotfile.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229162621id_/http%3A//ugotfile.com/doc/privacy) for the most accurate reproduction.*
 
 # Free File Hosting - uGotFile
 
+| 
+
+Maintenance has been completed.   
+Thanks for your patience. 
+
+|   
+---|---|---  
+  
 ## Logging IP Addresses
 
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by uGotFile for measuring usage. 
