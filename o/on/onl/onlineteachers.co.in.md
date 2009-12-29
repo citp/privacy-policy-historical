@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineteachers.co.in privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619195721id_/http%3A//onlineteachers.co.in/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineteachers.co.in privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229153919id_/http%3A//onlineteachers.co.in/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D3) for the most accurate reproduction.*
 
 # CBSE Board - Syllabus, Sample Papers, Guess Papers, CBSE Datesheet, Result, Notes
 
@@ -38,6 +38,15 @@ Like most Internet sites, we use your IP address to help diagnose problems with 
  **Advertising and Third Party Links**
 
 Some onlineteachers.co.in advertisers and affiliate partners may request information directly from users, or link to sites that do so. Onlineteachers.co.in has no control over its advertisers' privacy policies, and encourages users to review such policies prior to submitting any personal information to them. Onlineteachers.co.in  contains non-advertising links to a variety of third party sites to enhance the member experience onlineteachers.co.in  has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners   
+to serve ads to our users based on their visit to your sites and/or other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the[ Google ad and content   
+network privacy policy](http://www.google.co.uk/privacy_ads.html). We use third-party advertising companies to serve ads when you visit our website. These companies may use   
+information (not including your name, address, email address or telephone number) about your visits to this and other websites in   
+order to provide advertisements about goods and services of interest to you. If you would like more information about this practice   
+and to know your choices about not having this information used by these companies,   
+[click here](http://www.google.co.uk/privacy_ads.html).
 
   
 
