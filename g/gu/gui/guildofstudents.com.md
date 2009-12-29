@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildofstudents.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628065853id_/http%3A//www.guildofstudents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildofstudents.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230004458id_/http%3A//www.guildofstudents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Birmingham Guild of Students - The Home for Birmingham Guild Students
 
