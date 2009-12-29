@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingfisherworld.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182036id_/http%3A//www.kingfisherworld.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingfisherworld.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229142043id_/http%3A//www.kingfisherworld.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # KINGFISHER World
 
@@ -33,7 +33,7 @@ companies or people when:
     * We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);
     * We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web sites violate the [KINGFISHER World Terms of Service](https://web.archive.org/web/20090616182036id_/http%3A//www.kingfisherworld.com/terms_of_use.htm) or any of our usage guidelines for specific products or services.
+    * We find that your actions on our web sites violate the [KINGFISHER World Terms of Service](https://web.archive.org/web/20091229142043id_/http%3A//www.kingfisherworld.com/terms_of_use.htm) or any of our usage guidelines for specific products or services.
 
   
 **Cookies**  
@@ -64,4 +64,4 @@ companies or people when:
 If you have questions or suggestions complete a [feedback form](http://kingfisherworld.com/privacy/cgi_feedback) .  
    
   
-[**Download PDF**](https://web.archive.org/web/20090616182036id_/http%3A//www.kingfisherworld.com/KINGFISHER%20World%20PRIVACY%20POLICY_new.pdf)
+[**Download PDF**](https://web.archive.org/web/20091229142043id_/http%3A//www.kingfisherworld.com/KINGFISHER%20World%20PRIVACY%20POLICY_new.pdf)
