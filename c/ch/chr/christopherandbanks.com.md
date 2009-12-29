@@ -1,74 +1,115 @@
-> *The following text is extracted and transformed from the christopherandbanks.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213148id_/http%3A//www.christopherandbanks.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christopherandbanks.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229160042id_/http%3A//www.christopherandbanks.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Christopher & Banks
 
 PRIVACY POLICY
 
-Thank you for visiting the Website Privacy Policy for the Christopher & Banks family of companies. We post our Privacy Policy, because we want our customer to know that privacy issues are important to us. We pledge to only use your information as permitted by this Privacy Policy and as permitted by law.
+This Privacy Policy was last updated on September 22, 2009 ("Effective Date").
 
-The specific purpose of our Privacy Policy is to tell you what information we gather on our Websites, which include the websites promoting our Christopher & Banks (www.christopherandbanks.com), C.J. Banks (www.cjbanks.com), and Acorn (www.acornstores.com) stores and how we use that information. This Privacy Policy also describes how we use contact and similar information you may choose to give us when you visit one of our stores.
+Thank you for visiting the Privacy Policy for the Christopher & Banks family of companies. We want you to know that privacy issues are important to us. We will only use your information as permitted by this Privacy Policy.
 
-By using this Website you agree to the terms of and practices described in this Privacy Policy, as well as the terms set forth in our Terms of Use. Click here to view the Terms of Use.
+We want you to know: (i) what information we gather; (ii) the steps we take to protect the information that you provide us; (iii) how we use that information; and (iv) when we share it with others. 
 
-This Privacy Policy applies to this Website, which is controlled by the Christopher & Banks family of companies, including Christopher & Banks Corporation and all our current and future subsidiaries, affiliates, successors and assigns and is operated with the assistance of certain third parties (collectively referred to as "we," "us," the "Company" or similar terms). This Privacy Policy does not apply to any other websites, and we make no representations as to the privacy practices of other websites. Also, this Privacy Policy does not apply to information we collect through methods other than through this Website.
+**By using our Web sites or giving us personal information you agree to this Privacy Policy.**
 
-**WHAT INFORMATION DO WE COLLECT?**  
-In order to process and track orders, improve your overall experience with us, provide you with information about special offers, maintain our Website, operate our business, and respond to requests, we collect a variety of information about our customers and Website visitors. This section describes both the Non-Personal Information and Personal Information we collect.
+By doing business with us, including via our Web sites at [www.christopherandbanks.com](http://www.christopherandbanks.com/) and [www.cjbanks.com](http://www.cjbanks.com/) (the "Web sites") or interacting with Christopher & Banks in the manner described in this Privacy Policy at any time after the Effective Date, you are accepting the practices described in this Privacy Policy. You expressly consent to the application of this Privacy Policy and to the collection, storage, use and disclosure of your personal and non-personal information as described in this Policy. You also acknowledge and agree that we may change or add to this Policy from time-to-time. You also agree to the terms of and practices described in this Privacy Policy, as well as the terms set forth in our Terms of Use. [Click here](https://web.archive.org/helpdesk/index.jsp?display=privacy&subdisplay=terms) to view the Terms of Use.
 
-_Non-Personal Information._ Each time a computer visits this Website we may collect certain information from that computer. This information is automatically collected from the computer's web browser and may include information such as the following, all of which we refer to as "Non-Personal Information":
+This Privacy Policy applies to the Christopher & Banks family of companies, which is comprised of Christopher & Banks Corporation and all our current and future subsidiaries (collectively referred to as "we", "us" and "our") and to include our Web sites which are operated with the assistance of certain third parties. This Privacy Policy does not apply to any other companies or web sites, and we are not responsible for the privacy policies or practices of web sites operated by others, even if they are linked to our Web sites. This Privacy Policy specifically does not apply to businesses that we may refer to as "Affiliates" (in the marketing, not legal, sense) or to "marketing partners" or "vendors", which are all unrelated companies.
 
--the type of web browser software the computer uses (for example, Internet Explorer)  
--the name of the domain from which the computer accessed the Internet  
--the Internet address of the website from which the computer linked directly to the Website  
--the date and time the computer accessed the Website
+**WHAT INFORMATION DO WE COLLECT?**
 
-Non-Personal Information does not tell us who you are.
+We collect a variety of information about our customers and Web site visitors. This section describes both the Non-Personal Information and Personal Information we collect.
 
-Also, we may place a text file called a "cookie" in the browser files of computers that visit this Website. Cookies are pieces of information issued by a website that, among other things, allow your computer to use all the features on our Website. If and when your computer accepts a cookie, the cookie may be stored on the computer's hard drive. US Government Information Bulletin (I-034) contains a good description of cookie technology at: http://www.ciac.org/ciac/bulletins/i-034.shtml. You are always free to decline our cookies if your browser permits, but some parts of the Website may not work properly for you if you decline the use of a "cookie".
+_Non-Personal Information Collected Automatically._ Each time a computer visits our Web site, we may automatically collect certain information from that computer. This information may include information such as the following, all of which we refer to as "Non-Personal Information":
 
-We also collect and track aggregate information such as which pages or features of this Website are used, when, and how often.
+  * the type of web browser and operating system the computer uses
+  * the name of the domain and host from which the computer accessed the Internet
+  * the Internet address of any web site from which the computer linked
+  * the Internet Protocol (IP) address of the computer you are using
+  * the date and time the computer accessed the Web sites
 
-Personal Information. If you place an order, register, or create a user profile through this Website, provide requested information through the Website, request information from us through the Internet, send us an e-mail address, send us your name or other information, or fill out certain forms that may appear on this Website, you may provide us with information such as your name, address, telephone number, purchase information and history, e-mail address, credit card number, or similar information. All of these items and similar information that specifically identifies who you are constitute "Personal Information". Although you are not required to provide us with any Personal Information, if you decline to do so you will not be able to perform certain actions, such as completing an order.
 
-**HOW DO WE SHARE AND USE INFORMATION?**  
-The ways we share, use, and protect information collected over this Website depends upon the type of information involved.
 
-_Non-Personal Information._ We may use non-personal information to help us make the Website more useful to you and for other business purposes. For example, we may tell certain outside vendors or businesses with whom we do business or are considering doing business ("Trusted Companies") how many computers visited this Website or what pages were most popular. We may prepare reports and other materials using non-personal information. Because Non-Personal Information does not reveal your identity, we do not limit the way we share or use Non-Personal Information, including sharing such information with third parties.
+Non-Personal Information does not tell us who you are, although it may identify the computer that you are using and how you are using it.
 
-_Personal Information._ If you provide us with Personal Information, you agree that we may keep a record of the Personal Information and use the Personal Information in order to provide goods and services to you. For example, we may keep a record of your name, address, and credit card number in order to process payment for your orders and in order to ship orders. We may use Personal Information to help us in our business, including but not limited to improving this Website and analyzing what items you may be most interested in. We may use Personal Information in order to communicate with you and send you information we think may be of interest to you including marketing information from ourselves or third parties. We also may in the future market our mailing list to selected third parties who may in turn contact you.
+Also, we may place a file called a "cookie" or a "pixel" on computers that visit our Web sites. Cookies are small data files for record-keeping, administration or to customize your experience. They may be used by us and our marketing partners to allow your computer to use all the features on our Web sites. While cookies are not required to shop our site, we recommend allowing their use. For example, with cookies enabled you can take advantage of express checkout when you make a purchase. This means you may not have to retype your billing and shipping information each time you shop. As another example, we may use cookies to populate information for returning visitors who have logged into our site to give them access to personalized features and settings. We also may use cookies to recognize customer traffic patterns and site use on an anonymous basis. This information helps us improve the site's layout and design. You may enable, disable, block or remove cookies on your computer by following the instructions on your Web browser.
 
-We may hire Trusted Companies to assist us with some of these activities or perform them on our behalf, in which case the Trusted Companies will receive access to Personal Information. For example, we may hire a Trusted Company to operate this Website, receive and fulfill orders and provide customer support, send mailings or catalogs for us, or perform similar functions. In such cases, we require the Trusted Company to use the Personal Information only as permitted by us. You agree that we may share Personal Information with these Trusted Companies. Also, we may and in fact do share Personal Information among the Christopher & Banks family of companies, who may use the Personal Information in the same ways as Christopher & Banks, Inc. may as permitted by this Privacy Policy. In the event of a sale, merger, corporate reorganization or similar transaction of some or all of our business we may share your Personal Information with the successor entity, and the successor entity may or may not use and protect Personal Information in the same ways described in this Privacy Policy.
+On our Web sites, we also collect and track aggregate information, such as which pages or features of our Web sites are used, when and how often. On occasion, we may combine information you provide or that we track with other demographic information available to us.
 
-We may engage in joint or collaborative marketing campaigns with other businesses or not-for-profit organizations. However, in such cases, although you may receive a joint message, we will either send the message our self or through a Trusted Company acting on our behalf. As noted above, third parties to whom we provide our mailing list may contact you in the future.
+We use a third-party service to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site and your interaction with our products and services, as well as web sites generally. They may also use information about your visits to this and other web sites to target advertisements for goods and services. They also enable us to collect the following types of information: pages visited, products viewed and/or purchased, search term usage and other common website metrics. This information helps us to learn things like what pages are most attractive to our customers, which of our products most interest our customers and what kinds of offers our customers like to see. This information is collected through the use of a pixel tag, which is industry standard technology used by many web sites. No personally identifiable information is collected or used in the process. They do not know your name, phone number, address, e-mail address or any personally identifying information about you, the user.
 
-We may share Personal Information if required to comply with a law, regulation, court order, or other legal process, or if we believe it is necessary or desirable to share such information with a government entity. We may share Personal Information to protect our rights or property or if the rights of any third party are jeopardized.
+_Personal Information that You Choose to Provide Us._ You may provide us information about yourself through one of our Web sites, in person, in a store, by our store personnel using point of sale systems, by phone or mail, at social networking and similar web sites, by e-mail or text messages, and in other ways. For example, you will give us information if you place an order; create a user profile, provide requested information as part of a loyalty program, gift card application or employment application, or a registration; request information from us; send us an e-mail or text address; send us your name or other information; or fill out certain forms. You may provide us with information such as your name, address, telephone number, purchase information and history, e-mail or text address, credit card number, and other information. All of these items and similar information that help identify you are referred to in this Privacy Policy as "Personal Information". Although you are not required to provide us any Personal Information, if you decline to do so you will not be able to perform certain actions, such as completing an order, ordering a gift card, or joining any loyalty or reward program that we might offer.
 
-**OPT-IN FOR ADVERTISING AND OTHER COMMUNICATIONS**  
-You agree that the Christopher & Banks family of companies and our Trusted Companies who help us operate this Website and conduct business, may contact you for advertising or any other purposes through any and all contact information you provide to us, such as e-mail, telephone, fax, or mail. Our copy of all Personal Information and Nonpersonal Information is an asset of and belongs to us.
+In this Privacy Policy, we refer collectively to Non-Personal Information, Personal Information, and combined information as "information."
 
-**SECURITY**  
-Your information is stored on servers located in the United States. We and the Trusted Companies who help us with hosting and security use a number of physical, electronic, and procedural safeguards to help protect your information. However, there is no such thing as perfect security. You agree that we are not responsible for the unlawful actions of third parties or the consequences of such actions.
+**HOW DO WE SHARE AND USE INFORMATION?**
 
-**HOW DO I VIEW OR REVISE MY CONTACT INFORMATION**  
-This Website permits you to view and change portions of your contact information. Click here to view, change, or delete this contact information. You understand and acknowledge that even if you delete or change Personal Information, due to the nature of electronic information storage, we may continue to preserve a copy of your old information.
+_Non-Personal Information._ As stated above, we and third parties may use Non-Personal Information to help us make the Web sites more useful to you and for other business purposes. For example, we or our independent vendors may learn how many computers visited our Web site or what pages were most popular. We or our vendors may prepare reports and analyses using such Non-Personal Information.
 
-**WHAT ABOUT PRIVACY ON OTHER SITES?**  
-This Website may contain links to other websites. We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of websites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other websites is subject to the terms and conditions of those websites, including the privacy policies of those websites.
+We may combine this Non-Personal Information with Personal Information and use and share the combined information in the ways described in this Privacy Policy.
 
-**WHAT HAPPENS IF THE PRIVACY POLICY CHANGES?**  
-We may change this Privacy Policy at any time and for any reason. If we change this Privacy Policy we will [at a minimum] post the change on this page of the Website. You agree to any such changes as we may post in the future.
+_Personal Information._ If you provide us with Personal Information, we may keep a record of the Personal Information and use the Personal Information in order to provide goods and services to you. For example, we may keep a record of your name, address and credit card number in order to process payment for your orders and in order to ship orders and to answer questions about the status of your order. We may also use Personal Information to improve our Web site and to analyze what items you may be most interested in. We may use Personal Information in order to communicate with you, and to send you information we think may be of interest to you, including marketing information from ourselves or third parties.
 
-**VISITORS FROM OUTSIDE THE UNITED STATES**  
-You understand and agree that your Non-Personal Information and Personal Information are being sent to a business located in the United States and may pass through servers located in the United States. You consent to this transfer of your information as well as the processing, use, and sharing of your information as described in this Privacy Policy.
+We may share your information with selected third parties as described in this Privacy Policy. For example, we may share your information with independent vendors that we hire to operate our Web sites, receive and fulfill orders and provide customer support or other support services, send mailings or catalogs for us, or market our products or services. In such cases, we will attempt to require the vendor to use the information consistent with this Privacy Policy. As stated above, the term "we" includes the Christopher & Banks family of companies, each member of which may therefore use and share the information as permitted by this Privacy Policy.
 
-**SPECIAL RULES ABOUT CHILDREN'S PRIVACY**  
+When Christopher & Banks conducts contests, sweepstakes, promotions and surveys, or joins with other companies to do so, if you choose to participate you may be asked to provide Personal Information. Christopher & Banks and the other participating companies may use this information for such purposes as notifying winners and fulfilling promotional obligations, and may also cross reference customer databases to identify common customers. Information from these activities may be used to explore future promotional opportunities or fulfill contractual obligations. Even if you have chosen not to receive communications from Christopher & Banks prior to your participation in a contest, sweepstakes, promotion or survey, you may still receive information from Christopher & Banks in connection with such activity if you register for or participate in it. You may choose not to participate in contests, sweepstakes, promotions or surveys if you do not wish to receive information from Christopher & Banks or share your information with Christopher & Banks and the other companies sponsoring such activities.
+
+We may share your information with selected marketing partners that may jointly with us or independently contact you or market to you. We also may utilize service providers to assist us in aggregating customer information. We may then share such aggregated information with prospective marketing partners and advertisers.
+
+We may share your information if required to comply with a law, regulation, court order or legal process, or if we believe it is necessary to share such information with a government entity. We may share information to protect our rights or property or if the rights of any third party are jeopardized.
+
+**OPT-IN FOR ADVERTISING AND OTHER COMMUNICATIONS; LIMITED OPTION TO OPT OUT**
+
+As stated above, we and third parties may contact you and market to you, including by e-mail, Internet connection, text, telephone, fax or mail, consistent with this Privacy Policy. However, in each of our e-mail and texting marketing communications, we will allow you to opt out of future e-mail and texting marketing communications. We will attempt to require third parties with whom we share your information to also allow you to opt out of future e-mail and texting marketing communications. Participation in certain of our programs, including any loyalty program, will require you to accept e-mail communications regarding the program itself. We will also attempt to prohibit our vendors and marketing partners from using your information in a manner inconsistent with this Privacy Policy and, if you do not want us to share any Personal Information with third parties, please contact us at CRM Department, Christopher & Banks, Inc., 2400 Xenium Lane North, Plymouth, Minnesota 55441. You may opt-out of receiving e-mail and texting communications by clicking the "Unsubscribe" link at the bottom of the e-mail received or [Click Here](https://www.christopherandbanks.com/coreg/index.jsp?step=register) to unsubscribe from future e-mails. It may take us up to ten days to complete this process, as permitted by law. You may also opt-out of mailings or phone calls by contacting us as described in "Our Contact Information" below.
+
+**EMPLOYMENT INFORMATION**
+
+If you are interested in working for us, you may send us your information requested on the Employment Opportunities page that may be located on our Web sites. If you send such information to us, we will not share such pre-employment information with any other third party. We will attempt to require our vendors to also agree not to share such information.
+
+**OUR OWNERSHIP OF INFORMATION**
+
+Our copy of all your information is an asset of ours and belongs to us. In the event of a sale, merger, corporate reorganization or similar transaction involving some or all of our business, we may share with or transfer your information to the buyer or successor entity. We may also retain a copy of that information.
+
+**SECURITY**
+
+Your information is stored on servers located in the United States and Canada. We and the vendors who help us with hosting and security use a number of physical, electronic and procedural safeguards to help protect your information. However, there is no such thing as perfect security. You agree that we are not responsible for the unlawful actions of third parties or the consequences of such actions. You should take your own steps to protect your own computer systems and data from viruses, hackers, identity thieves and other problems.
+
+_Secure Shopping Limited Guarantee._ We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. Secure Shopping Limited Guarantee has been established for every transaction made with our Web sites.
+
+If any unauthorized charges were to appear on your credit card as a result of shopping with our Web sites, you must immediately notify your credit card provider in accordance with its reporting rules and procedures. You must also immediately notify us and we will cover the liability of purchases made through our Web sites, not covered by your credit card company, but only if the unauthorized use of your credit card resulted through no fault of your own. If your bank holds you responsible for fraudulent charges, we will cover your liability up to $50.00.
+
+**HOW DO I VIEW OR REVISE MY INFORMATION**
+
+Our Web sites may permit you to view and change portions of your information. If applicable, [Click Here](https://www.christopherandbanks.com/coreg/index.jsp?step=register) to view, change or delete this contact information. You may also contact us in the ways described below in the Section on Our Contact Information. Even if you delete or change Personal Information, we may continue to preserve a copy of your old information.
+
+**WHAT ABOUT PRIVACY ON OTHER SITES?**
+
+Our Web site may contain links to other web sites. We provide these links for your convenience, but we do not review, control or monitor the privacy practices of web sites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other web sites is subject to the terms and conditions of those web sites, including the privacy policies of those web sites.
+
+If you are visiting our Web site through a link from another web site or search engine, information about your visit to us may be collected by the provider of the other web site or search engine. We encourage you to review the privacy policies of these other web sites or search engines.
+
+**PRIVACY POLICY CHANGES**
+
+We may change this Privacy Policy at any time. If we change this Privacy Policy, we will post the updated Policy on our Web site. You may wish to check this section of our Web site from time to time, because by visiting our Web site, you agree to accept any such changes to this Privacy Policy.
+
+**VISITORS FROM OUTSIDE THE UNITED STATES**
+
+Your information is being sent to and used by us in the United States and Canada and may pass through servers located in the United States and Canada.
+
+**SPECIAL RULES ABOUT CHILDREN'S PRIVACY**
+
 We will not intentionally collect online any personal information from children under the age of 13. If you think that we have collected personal information from a child under the age of 13, please contact us as described below.
 
-**LAST UPDATE**  
-This Privacy Policy was last updated on August 24, 2007.
+**LAST UPDATE**
 
-**OUR CONTACT INFORMATION**  
-If you have questions or comments about this Privacy Policy, please contact us in any of three ways:  
-1\. Send us an e-mail: [info@christopherandbanks.com](mailto:info@christopherandbanks.com)  
-2\. Call us at (763) 551-5000  
-3\. Write to us at: Christopher & Banks, Inc., 2400 Xenium Lane North, Plymouth, Minnesota 55441
+This Privacy Policy was last updated on September 10, 2009.
+
+**OUR CONTACT INFORMATION**
+
+If you have questions or comments about this Privacy Policy, please contact us in any of three ways:
+
+  1. Send us an e-mail: [info@christopherandbanks.com](mailto:info@christopherandbanks.com)
+  2. Call us at (763) 551-5000
+  3. Write to us at: Christopher & Banks, Inc., 2400 Xenium Lane North, Plymouth, Minnesota 55441
+
+
