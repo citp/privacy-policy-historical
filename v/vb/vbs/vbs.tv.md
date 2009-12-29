@@ -1,80 +1,121 @@
-> *The following text is extracted and transformed from the vbs.tv privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234416id_/http%3A//hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbs.tv privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229024029id_/http%3A//www.vbs.tv/statics/privacypolicy) for the most accurate reproduction.*
 
-# Hostway's Privacy Statement
+# Privacy Policy | VBS.TV
 
-| [Home](https://web.archive.org/index.html) > [Legal](https://web.archive.org/legal/index.html) > Privacy Statement  |  SALES **1-866-467-8929**  
----|---  
-  
-| 
+The Effective Date of this Privacy Policy is June 08, 2009.
 
-|   
----  
-Updated June 2, 2005
+This Privacy Policy applies only to information collected on the [http://vbs.tv](http://vbs.tv/) web site, which is owned by VBS IPTV LLC (“VBS,” “we” or “us”), and other interactive features or protocols (including, without limitation, mobile sites and widgets) that link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected via the Site and does not cover any information collected at any other web site or offline by VBS (unless specifically stated at the time of collection). This Privacy Policy explains VBS’s information collection practices at the Site, such as the types of information VBS collects regarding visitors to the Site and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Site’s [Terms of Use](https://web.archive.org/statics/terms), which governs your use of the Site.
 
-Hostway Corporation (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors.  This Privacy Policy covers the site 
+#### TABLE OF CONTENTS
 
-_[www.hostway.com](http://www.hostway.com/)_.  We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy.  This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at _[www.hostway.com/legal/terms_of_use.html](https://web.archive.org/legal/terms_of_use.html)_. 
+  * The Information The Site Collects And How We Use It
+    * Information You Provide Us
+    * Information In Your Public Profile
+    * Your Disclosure Of Personal Information
+    * Information You Provide About A Third Party
+    * Information Third Parties Provide About You ****
+    * Information We Collect As You Access And Use The Site
+      * Cookies
+      * Web Beacons
+      * Embedded Scripts
+  * How And When We Disclose Information To Third Parties
+    * When You Agree To Receive Information From Third Parties
+    * Third Parties Providing Services On Our Behalf
+    * Sweepstakes, Contests And Promotions
+    * Administrative And Legal Reasons
+    * Business Transfers
+  * Third-Party Ad Serving & Audience And Traffic Measurement Services
+  * General Audience Web Site
+  * Changing Your Information And Subscriptions And Questions
+  * Third Party Content And Links To Third Party Sites
+  * Consent To Transfer Information To The United States
+  * Security
+  * Changes To The Privacy Policy
 
-This Policy describes our general principles for the collection and use of information from customers and visitors to our Web sites.  We want to ensure that you understand how we will and will not use the information you entrust to us.  In order to fully understand your rights we encourage you to read this Policy.
 
-For visitors, we've structured our Web sites so that, in general, you can visit us on Web without identifying yourself or revealing any personal information. 
 
-For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Hostway. 
+#### THE INFORMATION THE SITE COLLECTS AND HOW WE USE IT
 
-| What type of information does Hostway collect?  
----  
-When you visit our Web site, our Web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system.  
-When you sign up for Hostway's services, you provide us with both contact and payment information.  Contact information typically includes your name, address, and phone number.  Payment information typically includes your credit card number.
+##### Information You Provide Us
 
-While you are a Hostway customer, we manage information with regard to your account status, choice of services, and customer logs.  In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.  
-  
-How do we use this information?  
-Hostway does not trade, rent or sell your personal information to any other organization or third party. 
+The Site may ask you to provide personally identifiable information, which is information that could be used to contact you or identify you personally, such as your name or e-mail address (“Personal Information”) and other information about you, such as demographic information (your gender, ZIP code or similar information) or certain information about your preferences and interests. The Site may collect Personal Information and other information about you at various places and forms on the Site, including registration forms, when you submit a question to us, or when you otherwise communicate or interact with us. If we combine demographic or similar information with the Personal Information we collect, we will treat it as Personal Information under this Privacy Policy.
 
-We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only.  We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service.  By pressing the “submit” button, each visitor constitutes consent to use the information for purposes stated in this Policy.
+VBS may use your Personal Information: (1) to provide you with information or services that you have requested or agreed to receive; (2) to process your registration with the Site, including verifying that your e-mail address is active and valid; (3) to improve the Site or our services, to customize your experience on the Site, or to serve you specific content that is most relevant to you; (3) to contact you with regard to your use of the Site and, in our discretion, changes to the Site policies; (4) for internal business purposes; and (5) for purposes disclosed at the time you provide your Personal Information.
 
-Hostway may share customer information with selected partners/third parties, for example, to provide you with information about products which might be of interest to you or to enable you to take advantage of special partner programs.  Hostway may also use customer information to provide customers with system information or information about new or upgraded products if you have chosen to receive such offers.  Customers may opt out of receiving information about partner/third party promotional emails from Hostway by sending a request to 
+You may be able to submit comments, ideas, reviews and suggestions about specific VBS shows, episodes, entries on the VBS blog, in response to other users’ comments on the Site and other areas of the Site where you are invited to do so (“User Content”). You may also mark certain videos as favorites and subscribe to particular shows, and this favorite list and list of subscribed shows are publicly displayed on the Site unless you choose not to publicly display them when you register or by modifying your account settings. You may also be able to create and share playlists and other similar information and your account setting options associated with those lists will be disclosed on the Site.
 
-_[partnerprograms-unsubscribe@hostway.com](mailto:partnerprograms-unsubscribe@hostway.com)_.
+VBS may publish User Content online or offline in any media or format (currently existing or later developed), except for Personal Information submitted through the registration form that VBS has designated as “private” on the Site (unless that same Personal Information is included in User Content, in which case, VBS may publish all of the User Content including any Personal Information contained in that User Content). For example, if you include your name in User Content, VBS may publish all of the User Content including your name as included in the User Content, even if your name is included in the “private” portion of your account registration.
 
-Our trusted affiliates are responsible for processing or handling some of the information we receive, such as order fulfillment for phone services.  Those affiliates are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+Please note that information submitted to the Site via a "contact us” or other similar function may not receive a response. We will not use the information provided via these functions to contact you for marketing purposes unrelated to your request unless you agree otherwise.
 
-We may disclose contact information with your permission when gathering and posting testimonials.
+##### Information In Your Public Profile
 
-We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Hostway, our customers, or others.  We may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws or where Hostway has a good faith belief that the law requires such disclosure. 
+If you register as a member of the Site, you may create a public profile that includes your screen name, your personal photo, as well as other information that you choose to post about yourself in the portion of your profile designated as public (“Public Profile”). Your Public Profile also includes the list of videos that you mark as your favorites and the list of shows to which you are subscribed (unless you choose, at the time of registration or by later modifying your account, to not make that information publicly available).
 
-Hostway also will not disclose to third parties the contents of any electronic mail or other electronic communications that Hostway stores or transmits for its customers except where: (a) it is a matter or public safety or policy; (b) it is in connection with the transfer of other business assets; (c) it is required to cooperate with orders, warrants, or other legal process that Hostway determines in its sole discretion to be valid and enforceable; and (d) it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Hostway and appear to pertain to the commission of a crime
+Information in your Public Profile, such as your screen name and personal photo, may be posted on the Site along with and associated with your User Content or your User Video Preferences. Additionally, others, including members of the public, that view your User Content can choose to view your full Public Profile and any information, including Personal Information, that you choose to disclose in it.
 
-Hostway disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others.  Hostway will, however, review, delete, or block access to communications that may harm Hostway, its customers or third parties.  The grounds on which Hostway may take such action include, but are not limited to, actual or potential violations of the TOU. 
+You may edit the information in your Public Profile by logging in and going into “My Account.” You may terminate your account by using the “Contact Us” feature and sending us your username, password and e-mail address. Please specify “REMOVE” as the subject and include a note asking us to terminate your account.
 
-Please note that Hostway may use this information collected to direct notices as well as provide you with other general information that may be of interest to you and information about our services or product offerings or the offerings of our business affiliates, as well as other important information regarding your account or services at our discretion. 
+##### Your Disclosure Of Personal Information
 
-Customers may opt out of receiving newsletters and/or promotional emails from Hostway by sending a request to 
+If you post Personal Information through comment posting areas or in other User Content or in your Public Profile, that Personal Information will be publicly available and you may receive unsolicited messages from third parties. VBS cannot ensure the security of any information you choose to make public in User Content or your Public Profile and cannot ensure that third parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding what information to include in your User Content and Public Profile and when deciding to disclose Personal Information in any public areas of the Site.
 
-_[newsletter-unsubscribe@hostway.com](mailto:newsletter-unsubscribe@hostway.com)_.  In this request, customers must identify their domain name and contact information.  Customers may not opt out of receiving information from Hostway which is essential for maintaining or updating customers account or system information.   
-Third Party Advertising and Cookies  
-The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site. 
+##### Information You Provide About A Third Party
 
-We do not trade, rent or sell your personal information to others, except as detailed in this Policy.  We currently contract with several online partners who use the data only on our behalf to help manage and optimize our Internet business and communications.  We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information collected by the marketing company through the use of Action Tags and cookies is not personally identifiable.  The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see.  Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. 
+If you send someone else a communication from the Site, such as sending a video to a friend, the information you provide (names, e-mail addresses, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person.
 
-We may at times also use cookies, which are small pieces of information that a Web site can store in a designated file on your computer.  Cookies allow a Web application to respond to you as an individual. By gathering and remembering information about your preferences, the Web application can tailor its operation to your needs, likes, and dislikes.  Most web browsers allow you to control this use of cookies.  Please take a look at your particular browser for instructions on this function.  If you elect to disable cookies, please keep in mind that you will not be able to take full advantage of a personalized experience on our Web site.  It is possible that some portions of the site will not function properly or may perform more slowly if you choose to reject cookies.
+##### Information We Collect As You Access And Use The Site
 
-Our Web site may allow for a chat function.  Chat functions allow you to participate in “live” online conversations with us on our Web site.  Although the transcripts from the chats may be stored internally on in-house servers for our records only, we collect no personally identifiable information about you when you participate unless you choose to provide that information to us.   
-  
-How Can I access my personal information?  
-You can access your personal information, such as your address and contact information, at anytime to correct or change any of the data shared with us when you became a customer of Hostway.  As a customer of Hostway you can access your personal information by clicking on the “Customer Login” link at the top of any Web page.  Your account information is secure and is accessible by using a password that you select.  If you need assistance or have questions about correcting information you can contact us via email at [support@hostway.com](mailto:support@hostway.com).   
-Security   
-Hostway has security measures in place to help prevent the loss, misuse and alteration of the information under our control.  When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology.  This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information.   
-Links  
-Our Web site provides links to other Web sites, sites that may be maintained by companies that are not affiliates of ours.  We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution.  In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you.  This Policy applies solely to information collected by this Web site.   
-Children’s Privacy  
-Hostway does not sell products or services for purchase by children.  Customers must be at least 18 years of age.  Any individual under the age of 18 (“Minor”) must have a parent or guardian accept the TOU in order for the Minor to become a Customer.  If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian.   
-Changes to our Policy  
-Hostway reserves the right to change this Policy simply by posting such changes on our site.  We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change.  The operative and effective version of this Policy will be the latest version available on the site. 
+In addition to any Personal Information or other information that you provide to us on the Site, we and our third-party service providers may use a variety of technologies that automatically collect certain Site usage information whenever you visit or interact with the Site. This information may include browser type, operating system, the web page served, the time, and the preceding web page viewed, among other information. We may use this Site usage information for a variety of purposes, including to enhance or otherwise improve the Site. In addition, your IP address or some other unique identifier for the particular device you use to access the Site, as applicable (each, a “Device Identifier”) may be collected. A Device Identifier is a number that is automatically assigned to your computer, your mobile phone, or other device used to access the Internet (each, a “Device”), and our computers identify your Device by its Device Identifier. We may associate your Device Identifier with your Personal Information. We may use cookies, web beacons, embedded scripts and other technologies to collect Site usage information.
 
-You may opt out of any posted changes to our collection, use or disclosure of your personal information by sending an email to [privacy@hostway.com](mailto:privacy@hostway.com).   
-  
-Contact Us  
-If you have questions or concerns regarding this Policy, you should contact us by email at [privacy@hostway.com](mailto:privacy@netnation.com).  
-  
- 
+_Cookies_. A cookie is a data file placed on a Device when it is used to access the Site. Cookies may be used for many purposes including, without limitation, tracking user preferences and web pages visited while using the Site. You may disable cookies using your Device's preferences, but some features of the Site may not function properly if you disable cookies.
+
+_Web Beacons_. Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in the Site's web pages and e-mail messages. Web beacons may be invisible to you, but any image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails sent were actually opened or to count how many particular videos or links were actually viewed.
+
+_Embedded Scripts_. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as which links you click on. The code is temporarily downloaded onto your Device from our Web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
+
+We may combine automatically collected Site usage information with your Personal Information. In those cases, we will apply this Privacy Policy to the combined information.
+
+#### HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
+
+VBS may share non-personally identifiable information, such as aggregated user statistics, with third parties. We do not share your Personal Information with third parties for those third parties’ marketing purposes unless you consent to such sharing at the time you provide your Personal Information. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
+
+_When You Agree To Receive Information From Third Parties_. You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your Personal Information shared, your Personal Information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly. 
+
+_Third Parties Providing Services On Our Behalf_. We may use third party vendors to perform certain services on behalf of the Site, such as hosting the Site, designing and/or operating the Site's features, analyzing users' interactions with the Site, enabling VBS to send you e-mail, or performing other administrative services. We may provide these vendors with access to user information, including Personal Information, to carry out the services they are performing for you or for VBS. 
+
+_Sweepstakes, Contests And Promotions_. We may offer sweepstakes, contests, and other promotions (any, a "Promotion") through the Site that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list. 
+
+_Administrative And Legal Reasons_. We may also transfer and disclose user information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to protect and/or defend the Site's Terms of Use or other policies applicable to the Site or to protect the personal safety, rights, property or security of any individual. We may also use Device Identifiers (e.g., IP addresses) to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you. 
+
+_Business Transfers_. VBS may share Personal Information with its subsidiaries and affiliates for internal business reasons. VBS also reserves the right to disclose and transfer all information related to the Site, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or component of the Site, such as a database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of VBS's assets or other corporate change, including, without limitation, during the course of any due diligence process. 
+
+#### THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES
+
+The Site uses [DoubleClick](http://www.doubleclick.com/), a third party advertising provider, to serve advertisements on the Site. Advertising providers are third parties that display advertisements based on your visits to the Site and other web sites you have visited, allowing targeted advertisements to be delivered to you for products and services in which you might be interested. The Site also uses a third party traffic measurement service to analyze how visitors use the Site. Third party advertising providers, advertisers (whose ads are displayed via the advertising provider) and the traffic measurement services used on the Site may use cookies, web beacons or embedded scripts (described above) or other similar mechanisms to automatically collect web site usage information. Third party advertising providers and the advertisers may use this web site usage information for, among other purposes, helping deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Traffic measurement services used on the Site may use the collected web site usage information for, among other purposes, gathering information about users’ interactions with the Site, such as which links are clicked on. Cookies, web beacons and embedded scripts and other similar mechanisms used to collect web site usage information from advertising providers, advertisers and traffic measurement services are governed by their respective privacy policies and not this Privacy Policy. However, we do not share any Personal Information with these third parties in connection with their performing these services on the Web Site.
+
+For more information about DoubleClick, including instructions on how to opt out of DoubleClick’s targeted advertising, please see <http://www.doubleclick.com/privacy/index.aspx> . For additional information about how to opt out of targeted advertising from DoubleClick and other members of the Network Advertising Initiative, please see <http://www.networkadvertising.org/> .
+
+#### GENERAL AUDIENCE WEB SITE
+
+The Site is a general audience web site and we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from an individual younger than the age of thirteen (13). If you are a parent of a child younger than age thirteen (13) and you have a concern about information that may have been provided by your child to us, please contact us at [info@vbs.tv](mailto:info@vbs.tv) .
+
+#### CHANGING YOUR INFORMATION AND SUBSCRIPTIONS AND QUESTIONS
+
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. You can change much of the information associated with your account by visiting the “My Account” section of the Site. You may cancel or modify your subscriptions to e-mails you have elected to receive from the Site by following the instructions contained within an e-mail you receive from the Site.
+
+#### THIRD PARTY CONTENT AND LINKS TO THIRD PARTY SITES
+
+The Site may contain content that is supplied by a third party, and those third parties may collect Site usage information and your Device Identifier when web pages from the Site are served to your Device. In addition, the Site may contain links to other third party web sites that VBS does not control. VBS is not responsible for the privacy practices employed by any third party web site. For example, if you follow a link from a VBS partner, you may leave the Site and proceed to a different web site. This includes links from sponsors and partners that may reference the Site or display the Site’s logo as part of a co-branding agreement. In addition, VBS Site widgets may be included on web pages and web sites that are not associated with VBS and over which we have no control. These other web sites may send their own cookies to your Device, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. VBS encourages you to note when you leave our Site or are viewing a VBS Site widget on a third-party web site and, in those instances, to read the privacy statements of those third party web sites before submitting any Personal Information to those sites.
+
+#### CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES
+
+The Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information collected on the Site will be transferred to and processed in the United States. By using this Site or providing us with any information, you consent to this transfer and to the processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+#### SECURITY
+
+VBS takes commercially reasonable steps to help protect and secure Personal Information. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be completely secure. Please note that we cannot ensure or warrant the security of any information we collect, and that you use our Site and provide us with your information at your own risk.
+
+#### CHANGES TO THE PRIVACY POLICY
+
+VBS reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, VBS will not, without your consent, use your Personal Information in a manner materially different than what was stated at the time it was collected.
