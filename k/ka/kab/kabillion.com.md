@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabillion.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623062754id_/http%3A//www.kabillion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabillion.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229201514id_/http%3A//www.kabillion.com/legal/privacy) for the most accurate reproduction.*
 
 # Kabillion.com - Kabillion.com Privacy Policy - Free Online Games, Online Cartoons, Kids Contests, Prizes, Spiderman and Tranformers
 
@@ -21,7 +21,11 @@ Kabillion, and its affiliated company’s, are an active production companys’ 
 Occasionally, Kabillion provides kids the opportunity to send, through Kabillion.com electronic artwork featuring Kabillion’ characters or other original artwork. In connection with the submission of such original artwork, participants must print out a release form from the site. The child and his or her parent or guardian must sign and return the form to Kabillion with any such submission as a condition of our considering the content. We do not require kids to submit personally identifiable information about themselves (other than their names and ages in some cases) in order to send electronic artwork.  
 All information collected for electronic artwork is used only to identify the person who created and/or sent the artwork to Kabillion.com, and such information is deleted from our system once the electronic artwork is removed from the site.
 
- **Use of Information**
+ **Third Parties**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+**Use of Information**
 
 Kabillion uses or may use personally identifiable information that kids provide in order to identify their artwork. Kabillion may also share information with consultants and affiliates for internal business purposes. Except for the purpose of announcing contest winners or identification of artwork from children, Kabillion currently does not disclose to third parties personally identifiable information that kids provide. From time to time however, we may share such information with third parties who may be engaged by us specifically to administer certain online activities such as contests and sweepstakes. Such third parties have access to personal information needed to perform their functions, but may not use it for any other purposes. 
 
@@ -35,7 +39,7 @@ Log data is collected on web servers both within Kabillion’ control and under 
 
  **Parental Access**
 
-Kabillion wants to help parents make sure that their children have a safe and fun experience online. That's why Kabillion established a means for parents to review identifiable information collected about their child and to communicate directly with us have any such information deleted or to request that we cease collecting or using their child's information. [You can link to the form from here](https://web.archive.org/web/20090623062754id_/http%3A//signup/consent.en.php). Kabillion takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+Kabillion wants to help parents make sure that their children have a safe and fun experience online. That's why Kabillion established a means for parents to review identifiable information collected about their child and to communicate directly with us have any such information deleted or to request that we cease collecting or using their child's information. [You can link to the form from here](https://web.archive.org/web/20091229201514id_/http%3A//signup/consent.en.php). Kabillion takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
 
  **Security**
 
@@ -65,4 +69,4 @@ Or email us at:
 The Kabillion.com website is primarily intended for domestic viewers and is consequently directed towards residents of the United States.  
 This privacy policy is effective as of May 11, 2005.
 
-[Submission Release](https://web.archive.org/web/20090623062754id_/http%3A//www.kabillion.com/forms/submission_release_form.php)
+[Submission Release](https://web.archive.org/web/20091229201514id_/http%3A//www.kabillion.com/forms/submission_release_form.php)
