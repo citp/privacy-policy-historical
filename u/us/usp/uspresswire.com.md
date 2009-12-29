@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225144849id_/http%3A//uspresswire.com/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230002423id_/http%3A//uspresswire.com/pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # US PRESSWIRE :: Privacy Policy
 
@@ -78,7 +78,7 @@ By using the Website, you signify your agreement to the terms of this Privacy Po
 
 #### 9\. CORRECTING / UPDATING PERSONALLY IDENTIFIABLE INFORMATION
 
-If your personally identifiable information changes or if you no longer desire to access the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by sending an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 13102 SW 19th Street, Davie, FL 33325, Attn: Internet Dept. 
+If your personally identifiable information changes or if you no longer desire to access the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by sending an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 1230 Peachtree Street NE, Suite 1900, Atlanta, GA 30309, Attn: Internet Dept. 
 
 #### 10\. YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -88,10 +88,10 @@ As explained in this Privacy Policy, whenever you agree to let us collect person
 
 Because the Website has a comprehensive Privacy Policy and provides you with details on how you may opt-out of the use of your personally identifiable information by third parties for direct marketing purposes, we are not required to provide you with this information. 
 
-If you are a California resident and have questions about our compliance with this law, please send an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 13102 SW 19th Street, Davie, FL 33325, Attn.: Internet Dept. - California Privacy Rights. 
+If you are a California resident and have questions about our compliance with this law, please send an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 1230 Peachtree Street NE, Suite 1900, Atlanta, GA 30309, Attn.: Internet Dept. - California Privacy Rights. 
 
 #### 11\. QUESTIONS ABOUT THIS PRIVACY POLICY
 
-If you have any questions about this Privacy Policy or the privacy practices of the Website, please send an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 13102 SW 19th Street, Davie, FL 33325, Attn: Internet Dept. - Privacy Policy. 
+If you have any questions about this Privacy Policy or the privacy practices of the Website, please send an email to [picturedesk@uspresswire.com](mailto:picturedesk@uspresswire.com) or you may write us at US Presswire, 1230 Peachtree Street NE, Suite 1900, Atlanta, GA 30309, Attn: Internet Dept. - Privacy Policy. 
 
 Last Modified: September, 2006. Copyright 2006 US Presswire, LLC 
