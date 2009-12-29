@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626111156id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229233723id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Compare car leasing, new cars, insurance & car finance quotes. FREE QUOTES TODAY
+# Privacy Policy : askaprice.com
 
 **Organisation Name:** Askaprice.com  
 **Statement Number:** [36790](http://www2.oecd.org/pwv3/)  
