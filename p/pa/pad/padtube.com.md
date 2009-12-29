@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417113514id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229233654id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
 
-# About Us » Free Software Downloads and Software Reviews » PADTube.com
+# Privacy Policy » Free Software Downloads and Software Reviews » PADTube.com
 
 ## Privacy Statement
 
