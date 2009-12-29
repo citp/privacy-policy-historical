@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040556id_/http%3A//www.tarot.com/about-us/privacy%3Fcode%3Ddailyhoroscope) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229210413id_/http%3A//www.tarot.com/about-us/privacy%3Fcode%3Ddailyhoroscope) for the most accurate reproduction.*
 
 # Tarot.com :: Tarot, Astrology, Numerology & I-Ching
 
