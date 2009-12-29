@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilighted.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619033800id_/http%3A//www.twilighted.net/viewpage.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilighted.net privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229035819id_/http%3A//www.twilighted.net/viewpage.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Twilighted :: All-Inclusive, High-Quality Twilight Fan Fiction
 
