@@ -1,55 +1,73 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628213903id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229065149id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dusprivacy) for the most accurate reproduction.*
 
 # moneybookers.com
 
-### Privacy Statement
+### 1\. Scope
 
- **Overview**  
-By accepting the Privacy Policy and Terms and Conditions in registration, you expressly consent to our use and disclosure of your personal informationin the manner described in this Privacy Policy. This Privacy Policy took effect on April 1, 2002. This Privacy Policy was last updated on October 21, 2005.
+1.1 This Privacy policy governs how we collect, use and disclose personal information. It applies to the use of our website and the services we offer on our website. It also applies to any agreement that incorporates this policy by reference.
 
- **Data Protection**  
-Any information you provide us with will only be disclosed in accordance with the [Data Protection Act of 1998.](http://www.legislation.hmso.gov.uk/acts/acts1998/19980029.htm)
+1.2 This Privacy Policy was last updated on December 29, 2009.
 
-**TRUSTe Certification**   
-Moneybookers Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This covers the site www.moneybookers.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Moneybookers has agreed to notify you of: 
+### 2\. When and how we collect information
 
-  * What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.
-  * The organization collecting the information.
-  * How the information is used.
-  * With whom the information may be shared.
-  * What choices are available to you regarding collection, use and distribution of the information.
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Moneybookers' control.
-  * How you can correct any inaccuracies in the information.
+We may collect the following information about you:
 
-| [](http://www.truste.org/ivalidate.php?url=www.moneybookers.com&sealid=101)  
----|---  
-  
-If you have questions or concerns regarding this statement, you should first contact [info@moneybookers.com](mailto:info@moneybookers.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+  * Any information you disclose to us in or in connection with your Application, such as (but not limited to) your name, previous names, Social Security Number, trade name, current and previous home addresses, current and previous business address, date of birth, telephone numbers, fax numbers, email addresses, bank account details, information on your financial status and creditworthiness and other financial information;
+  * Information we may gather about you during our business relationship, such as transaction data, data collected from you during the any credit Review Procedure or from third party providers such as credit rating agencies or fraud prevention and detection service providers;
+  * Information we may receive about you or in relation to your transactions from any auction website, vending website or web portal on or through which you offer and sell your goods or services;
+  * Information we may receive from card associations or their members in relation to you or your transactions;
+  * Information we receive from you for the purpose of executing a transaction;
+  * Information we may gather about you when opening and using a User Profile;
+  * Information we gather about you when visiting our website generally (usually through the use of Cookies, see section 5 below, and/or by recording your IP address, domain name and browser type).
 
-**Collection of Personal Information**  
-To open your Moneybookers account, we must obtain certain personal information, such as name, address, email or phone number as well as demographic information like age. For certain optional transactions, we also collect selected financial information such as credit/debit card details. For certain high amount transactions, we are legally required to report some personally identifiable information to the authorities. For verification purposes we reserve the right to request proof of identification in an offline format. Your IP address and access times are tracked against your user id for the dual purposes of preventing fraud and creating an audit trail when sending a payment, or logging onto our secure server. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site and do link the information we store in cookies to any personally identifiable information you submit while on our site. When sending money to a non-registered user, we will store the recipient's email address until either the recipient registers for a Moneybookers account or 14 days elapes. If the recipient does not register for an account, the email address will no longer be used by Moneybookers.
 
- **Use of Personal Information**  
-We only use your personal information to service your account and to improve our services to you. However, we do share some financial information as part of normal business operations with banks or credit/debit card processing and verification services. These entities may not use your information for secondary purposes, unless required by law. Furthermore, when sending money to another Moneybookers account holder we will always pass on your email address to the recipient. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. Otherwise, UNDER NO CIRCUMSTANCES will information you provide to Moneybookers be transmitted in any way to a third party.
 
- **Control of Personal Information**  
-If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct and update that user's personally identifiable information provided to us. This can usually be done by logging into your account and clicking on the "profile" link or by contacting our [Customer Service Department](http://www.moneybookers.com/app/faqmessaging.pl). Your zip code, phone and postal address can only be changed once in any 3 month period. In order to deactivate your account your will need to contact our [Customer Service Department](http://www.moneybookers.com/app/faqmessaging.pl). However, please understand we cannot completely delete user information because of legal/regulatory and technical back up requirements.
+### 3\. How we protect your information
 
- **Communication**  
-Upon registration every user will receive an email confirming his successful registration. Established members will occasionally receive information on products, services and special deals via newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. This can usually be done by logging into your account and clicking on the "profile" link.
+3.1 We will use reasonable efforts to store information securely and protect it against unauthorised access and disclosure.  We maintain physical, electronic and procedural safeguards that comply with federal requirements to guard your personal information.
 
- **Links**  
-This web site contains links to other sites. Please be aware that Moneybookers is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+3.2 All your transactions are processed using secure communication standards such as Secure Socket Layer (SSL) with 128-bit encryption. You should always make sure that your browser is compatible with SSL encryption and the appropriate browser functions are set. When starting an SSL session, your browser should indicate this by displaying a lock or similar security icon.
 
-**Security**  
-Moneybookers secures your account information from unauthorised access, use or disclosure. You must enter your email and password each time you want to access your account information or make transactions. Never share your account details with anyone. If you are concerned that your password has been compromised, you can change it any time you like once you are logged on. Your account login, personal details and all money transactions are secured using Secure Socket Layer (SSL) technology with high security 128bit encryption, certified by _thawte_. 
+3.3 We use reasonable efforts not to disclose information to any third party except for the reasons set forth in below or with your consent.
 
-**Notification of Changes**  
-Changes to this privacy statement are posted here so you know what use is made of your information. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice whether to use your information in this new manner. However, if you have opted out of all communication with the site, or deactivated your account, then you will not be contacted, nor will your information be used in this new manner.
+3.4 We will only disclose information to our employees who have a need to know such information for the fulfilment of their duties. Employees are regularly trained to comply with this privacy policy.
 
-**Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Customer support: [Messaging Centre](https://www.moneybookers.com/app/faqmessaging.pl)  
-Telephone: +44 870 383 0232  
-Fax: 0709 204 2001  
-Postal Address: C3 Cairngorm House, Meridian Gate, 203 Marsh Wall, London E14 9YT, UK
+3.5 Where we disclose information to a third party for operational reasons, we require such third party to adhere to privacy principles similar to those set forth in this policy.
+
+###  When and to whom we disclose your information
+
+4.1 We may disclose all or part of your information to
+
+  * our affiliates for operational reasons
+  * service providers that we use to provide services to you
+  * card associations and their members and members' agents and service providers
+  * credit reference agencies and ID verification agencies 
+  * fraud prevention and detection agencies
+  * Debt collection agencies for the purposes of collecting outstanding balances owed to us or any other debt owed to us 
+  * selected marketing agencies or other third parties that use your information for marketing purposes, unless you have opted out of receiving communications from such third parties (see next section) or if the laws of the state in which you reside prevents us from doing so.
+
+
+
+4.2 If you do not want us to share your information with selected marketing agencies or other third parties for marketing purposes you may opt out of those disclosures at any time by checking the appropriate box in your User Profile which you can access on our website or by contacting Customer Services.
+
+### 5\. Cookies
+
+When you visit our website, we may place little data files ("cookies") on your computer's hard drive. Most cookies are short-lived session cookies which we use to enhance user experience when visiting our website, for example to spare you from having to provide your login details every time you click on a new page. After the session is closed, this type of cookie expires and is deleted from your hard drive. Other cookies may last longer and help us to identify you when you visit our site again. You can always choose not to accept cookies by disabling this function in your browser option, however, you may not be able to use all services or features provided on our website.
+
+### 6\. Protection of your User Profile
+
+Your User Profile is protected through a unique login and password. You should never disclose your login and password to anyone. You should not record your login details and password anywhere in writing or otherwise. If you think your login details and/or password have been lost, stolen, disclosed to any third party or otherwise compromised, you must inform us immediately (see contact details in clause 9)
+
+### 7\. Keeping data up to date
+
+We will use reasonable efforts to keep your information accurate and up to date. You should check the information we hold on you regularly by logging into your User Profile and update your information when necessary.  If you otherwise spot any error or omission in the information we hold, please contact us so we can correct it.
+
+### 8\. General
+
+8.1 We may change this Privacy Policy at any time by posting the changed terms or the changed policy on this site. Any changes take effect 30 days from posting.
+
+8.2 This Privacy Policy is governed by the laws of New York, and you irrevocably submit to the exclusive jurisdiction of the courts of New York.
+
+### 9\. Contact Us
+
+You may contact us anytime by calling +1 888 444 1107
