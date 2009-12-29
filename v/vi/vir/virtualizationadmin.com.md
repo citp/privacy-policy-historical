@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualizationadmin.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621042737id_/http%3A//www.virtualizationadmin.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualizationadmin.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230005413id_/http%3A//www.virtualizationadmin.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
