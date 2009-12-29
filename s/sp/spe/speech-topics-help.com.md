@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628023600id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229174001id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Speech Topics Help
 
@@ -92,6 +92,8 @@ What's This?
 | | | |   
 ---|---|---|---|---  
 | | |   
+  
+Did this page help you? Happiness is helping others! Here's how..  
   
 [](http://www.speech-topics-help.com/copyright-notice-for-speech-topics-help.html)  
 
