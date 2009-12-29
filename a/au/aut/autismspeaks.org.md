@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080623id_/http%3A//www.autismspeaks.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229204216id_/http%3A//www.autismspeaks.org/info/privacy.php) for the most accurate reproduction.*
 
 # Autism Speaks, Info, Privacy Policy
 
@@ -80,5 +80,3 @@ Autism Speaks
 New York, NY 10016
 
 This privacy policy is effective as of March 17, 2005. 
-
-[](http://www.kintera.org/site/lookup.asp?c=ifKRKYNtGkH&b=3510079)
