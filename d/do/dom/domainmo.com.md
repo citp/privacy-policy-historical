@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainmo.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626090806id_/http%3A//domainmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmo.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229072334id_/http%3A//domainmo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Domainmo
+# Privacy Policy « Domainmo
 
 **Privacy Policy for domainmo.com**
 
