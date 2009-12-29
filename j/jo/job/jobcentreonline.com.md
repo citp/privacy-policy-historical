@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcentreonline.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623044529id_/http%3A//www.jobcentreonline.com/JCOLFront/Template.aspx%3Farticlename%3DPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentreonline.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229234845id_/http%3A//www.jobcentreonline.com/JCOLFront/Template.aspx%3Farticlename%3DPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
