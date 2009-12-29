@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609074938id_/http%3A//www.playfire.com/a/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229214530id_/http%3A//www.playfire.com/a/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Playfire
 
@@ -11,8 +11,11 @@ Playfire is the global community for gamers. Get a killer profile, track news & 
 This is the web site of **UUMC Ltd**.
 
 **Our postal address is:**  
-19 Greek Street, Soho  
-London, W1D 4DT 
+Floor 15  
+Centre Point  
+103 New Oxford Street  
+London WC1A 1DD  
+
 
 We can be reached via e-mail at [privacy@playfire.com](mailto:privacy@playfire.com)  
 or you can reach us by telephone at +44 (0) 7919535523 
