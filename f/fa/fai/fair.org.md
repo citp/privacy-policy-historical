@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626020008id_/http%3A//www.fair.org/index.php%3Fpage%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229033541id_/http%3A//www.fair.org/index.php%3Fpage%3D145) for the most accurate reproduction.*
 
 # FAIR Privacy Policy
+
+[](http://salsa.democracyinaction.org/o/592/t/9039/thankYou.jsp?key=2654)
 
 ### FAIR Privacy Policy
 
