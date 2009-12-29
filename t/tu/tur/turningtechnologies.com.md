@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224142030id_/http%3A//www.turningtechnologies.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229065754id_/http%3A//www.turningtechnologies.com/privacy) for the most accurate reproduction.*
 
-# TurningTechnologies.com | Privacy Policy
+# Privacy
 
-Turning Technologies, LLC has created this privacy statement to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for Turning Technologies' website: [www.turningtechnologies.com.](http://www.turningtechnologies.com/)
+Turning Technologies, LLC has created this privacy statement to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for Turning Technologies' website: [www.TurningTechnologies.com.](http://www.turningtechnologies.com/)
 
 ### Information Collected by Turning Technologies
 
@@ -26,26 +26,26 @@ This website may supplement the information that you provide with information th
 
 ### Choice/Opt-Out
 
-Our emails provide users the opportunity to opt-out of receiving Turning Technologies' communications. We will implement requested changes within ten days of the receipt of a request. In addition, visitors may contact us at anytime by: 
+Our emails provide users the opportunity to opt-out of receiving Turning Technologies' communications. We will implement requested changes within ten days of the receipt of a request. In addition, visitors may contact us at anytime by:
 
   * Sending an email to: [info@turningtechnologies.com](mailto:info@turningtechnologies.com)
-  * Calling us toll-free at 1-866-746-3015. 
+  * Calling us toll-free at 1 (866) 746-3015.
 
 
 
-If you contact us directly, please let us know which kind of information you would no longer like to receive: 
+If you contact us directly, please let us know which kind of information you would no longer like to receive:
 
   * Product news, enhancements, and updates
-  * Product promotions 
+  * Product promotions
 
 
 
 ### Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this website, or your experience with this website, you can contact
+If you have any questions about this privacy statement, the practices of this website, or your experience with this website, you can contact:
 
 Turning Technologies, LLC  
-241 Federal Plaza West  
+255 Federal Plaza West  
 Youngstown, OH 44503
 
 Toll Free Phone: 1 (866) 746-3015  
