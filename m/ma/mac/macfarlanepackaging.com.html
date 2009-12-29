@@ -1,0 +1,559 @@
+<!--The following is the downloaded HTML source of the macfarlanepackaging.com privacy policy that was archived on 2009-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229213057id_/http%3A//www.macfarlanepackaging.com/privacy) for the most accurate reproduction.-->
+
+<html><head>
+<title> - Macfarlane Packaging</title>
+
+<meta name="verify-v1" content="/Ff+lqk/ooY9BMuAFJZOD2L7oZz6ulFOTiwO5VdnTh8=">
+<link rel="stylesheet" type="text/css" href="../UserMods/_INCstyles_.css" media="all">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #fff;
+	
+	margin-left: 0px;
+	margin-right: 0px;
+}
+form {
+  margin: 0px;
+}
+.style1 {color: #000000}
+.style2 {
+	font-size: 16px;
+	color: #000000;
+}
+.style3 {font-size: 18px}
+.style4 {font-size: 16px}
+.style5 {font-size: 14px}
+.smallte {font-size: 9px}
+
+H1 {	font-size: 16px;
+display:inline;}
+
+
+h2 {	font-size: 12px;
+	display:inline;}
+
+a {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+.addresschoice {
+	background-color: #FFFFCC;
+	border: 1px solid #804000;
+	width: 450px;
+}
+
+-->
+</style>
+
+<style type="text/css">
+
+.suckertreemenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+z-index:2000;
+}
+
+/*Top level list items*/
+.suckertreemenu ul li{
+position: relative;
+display: inline;
+float: left;
+background: white url(media/blockdefault2.gif) center center repeat-x; /*overall menu background color*/
+}
+
+/*Top level menu link items style*/
+.suckertreemenu ul li a{
+display: block;
+/*width: 10px; Width of top level menu link items*/
+
+padding: 6px 7px;
+border: 1px solid #cccccc;
+border-left-width: 0;
+border-top-width: 0;
+border-bottom-width: 0;
+text-decoration: none;
+color: navy;
+}
+	
+/*1st sub level menu*/
+.suckertreemenu ul li ul{
+left: 0;
+position: absolute;
+
+top: 1em; /* no need to change, as true value set by script */
+display: block;
+visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.suckertreemenu ul li ul li{
+display: list-item;
+background: transparent url(media/blockdefault2.gif) center center repeat-x;
+float: none;
+
+}
+
+/*All subsequent sub menu levels offset after 1st level sub menu */
+.suckertreemenu ul li ul li ul{ 
+left: 159px; /* no need to change, as true value set by script */
+top: 0;
+}
+
+/* Sub level menu links style */
+.suckertreemenu ul li ul li a{
+display: block;
+width: 210px; /*width of sub menu levels*/
+color: navy;
+padding: 4px 8px;
+text-decoration: none;
+border: 0px solid white;
+z-index: 2999;
+
+}
+
+.suckertreemenu ul li a:hover{
+background: transparent url(media/blockactive2.gif) center center repeat-x;text-decoration: none;
+color: navy;
+
+}
+
+.suckertreemenu ul li ul li a:hover{
+/*background: transparent url(media/blockactive2.gif) center center repeat-x;text-decoration: none;*/
+color: navy;
+}
+
+/*Background image for top level menu list links */
+.suckertreemenu .mainfoldericon{
+background: transparent url(media/blockdefault2.gif) center center repeat-x;
+z-index: 2999;
+}
+
+/*Background image for subsequent level menu list links */
+.suckertreemenu .subfoldericon{
+background: transparent url(media/subdefault2.gif) center center repeat-x;
+border-left: 1px solid #cccccc;
+z-index: 2999;
+}
+
+* html p#iepara{ /*For a paragraph (if any) that immediately follows suckertree menu, add 1em top spacing between the two in IE*/
+padding-top: 1em;
+}
+	
+/* Holly Hack for IE \*/
+* html .suckertreemenu ul li { float: left; height: 1%;}
+* html .suckertreemenu ul li a { height: 1%; width: 10px;}
+* html .suckertreemenu ul li ul li { float: left;}
+/* End */
+
+</style>
+<script type="text/javascript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<script type="text/javascript">
+
+//SuckerTree Horizontal Menu (Sept 14th, 06)
+//By Dynamic Drive: http://www.dynamicdrive.com/style/
+
+var menuids=["treemenu1","treemenu2","treemenu4","treemenu5","treemenu6"] //Enter id(s) of SuckerTree UL menus, separated by commas
+
+function buildsubmenus_horizontal(){
+for (var i=0; i<menuids.length; i++){
+  var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
+    for (var t=0; t<ultags.length; t++){
+		if (ultags[t].parentNode.parentNode.id==menuids[i]){ //if this is a first level submenu
+			ultags[t].style.top="25px" //dynamically position first level submenus to be height of main menu item (ultags[t].parentNode.offsetHeight+)
+			ultags[t].parentNode.getElementsByTagName("a")[0].className="mainfoldericon"
+		}
+		else{ //else if this is a sub level menu (ul)
+		  ultags[t].style.left=ultags[t-1].getElementsByTagName("a")[0].offsetWidth+"px" //position menu to the right of menu item that activated it
+    	ultags[t].parentNode.getElementsByTagName("a")[0].className="subfoldericon"
+		}
+    ultags[t].parentNode.onmouseover=function(){
+    this.getElementsByTagName("ul")[0].style.visibility="visible"
+    }
+    ultags[t].parentNode.onmouseout=function(){
+    this.getElementsByTagName("ul")[0].style.visibility="hidden"
+    }
+    }
+  }
+}
+
+if (window.addEventListener)
+window.addEventListener("load", buildsubmenus_horizontal, false)
+else if (window.attachEvent)
+window.attachEvent("onload", buildsubmenus_horizontal)
+
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Sitemap" href="sitemap.xml">
+<script language="JavaScript" type="text/javascript" src="js/mxm_roi_library.js"></script>
+<link rel="shortcut icon" href="http://www.macfarlanepackaging.com/favicon.ico">
+
+
+<script language="JavaScript">
+<!--
+function showHide(elementid){
+if (document.getElementById(elementid).style.display == 'none'){
+document.getElementById(elementid).style.display = '';
+} else {
+document.getElementById(elementid).style.display = 'none';
+}
+} 
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+function showHide2(elementid){
+if (document.getElementById(elementid).style.display == 'none'){
+document.getElementById(elementid).style.display = '';
+} else {
+document.getElementById(elementid).style.display = '';
+}
+setCheckedValue(document.forms['orderform'].elements['delAddr'], '0');
+} 
+
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function showHide3(elementid){
+if (document.getElementById(elementid).style.display == ''){
+document.getElementById(elementid).style.display = 'none';
+} else {
+document.getElementById(elementid).style.display = 'none';
+}
+} 
+
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function showHide4(elementid){
+if (document.getElementById(elementid).style.display == 'none'){
+document.getElementById(elementid).style.display = '';
+} else {
+document.getElementById(elementid).style.display = '';
+}
+setCheckedValue(document.forms['orderform'].elements['billAddr'], '0');
+} 
+
+//-->
+</script>
+<script type="text/javascript" src="SPL_AJAX_Full.js"></script>
+<script type="text/javascript" src="fav.js"></script>
+
+<script language="JavaScript">
+function check()
+{
+if(document.shippingform.shipDetails[0].checked)
+{
+document.shippingform.deldate.selectedIndex=0
+
+}
+if(document.shippingform.shipDetails[1].checked)
+{
+document.shippingform.deldate.selectedIndex=0
+
+}
+if(document.shippingform.shipDetails[2].checked)
+{
+document.shippingform.deldate.selectedIndex=2
+
+}
+if(document.shippingform.shipDetails[3].checked)
+{
+document.shippingform.deldate.selectedIndex=0
+
+}
+if(document.shippingform.shipDetails[4].checked)
+{
+document.shippingform.deldate.selectedIndex=0
+
+}
+
+if(document.shippingform.shipDetails[5].checked)
+{
+document.shippingform.deldate.add(new Option("Saturday (Jan 2 2010)","20100102"));
+
+document.shippingform.deldate.selectedIndex=7
+}
+}
+</script>
+
+<script type="text/javascript" src="ddtabmenufiles/ddtabmenu.js">
+</script>
+<link rel="stylesheet" type="text/css" href="ddtabmenufiles/ddcolortabs.css">
+
+<script type="text/javascript">
+//SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
+
+ddtabmenu.definemenu("ddtabs4", 2) //initialize Tab Menu #4 with 3rd tab selected
+
+
+</script>
+
+<script language="javascript" type="text/javascript" src="http://www.websitealive5.com/4394/Visitor/vTracker_v2.asp?websiteid=0&amp;groupid=4394"></script></head>
+
+<body bgcolor="#fefefe" style="background: url(backg.jpg) center repeat-y;">
+
+
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+
+<tbody><tr style="border-bottom:2px solid orange;">
+<td bgcolor="white" style="" background="headersmbg.gif">
+
+</td></tr>
+
+</tbody></table><table width="935" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="width:927px;border-left:8px solid #fff;border-right:8px solid #fff;">
+
+<tbody><tr bgcolor="white">
+    <td colspan="4"><table width="935" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td background="http://www.macfarlanepackaging.com/prodimages/200912105197.xmasp2u.jpg" height="90" align="right">
+        
+               <!--<a href="http://www.macfarlanepackaging.com/myaccount" style="color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; "><img src="http://www.macfarlanepackaging.com/scripts/media/hw_account.gif" border=0 align=absmiddle>My Account</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+               <table><tbody><tr><td><form name="NewRecord1" action="../search" method="post">
+     <input id="NewRecord1searcher" value="" name="searcher" autocomplete="off" size="20">
+     <input name="SubSearch" type="image" src="../UserMods/bino.gif" align="absmiddle" alt="Click to search">
+    </form></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.websitealive5.com/4394/Visitor/vButton_v3.asp?groupid=4394&amp;departmentid=4989&amp;w=450&amp;h=400&amp;icon_online=http%3A%2F%2Fwww%2Emacfarlanepackaging%2Ecom%2Fusermods%2FlivehelpON%2Ejpg&amp;icon_offline=http%3A%2F%2Fwww%2Emacfarlanepackaging%2Ecom%2Fusermods%2FlivehelpOFF%2Ejpg" border="0" onclick="window.open('http://www.websitealive5.com/4394/rRouter.asp?groupid=4394&amp;websiteid=0&amp;departmentid=4989&amp;dl='+escape(document.location.href),'','width=450,height=400');" style="cursor:pointer;" align="absmiddle"><a href="cart"><img src="../Usermods/checkoutcart.jpg" border="0"></a>
+</td><td width="150">&nbsp;</td></tr></tbody></table>
+              
+              </td>
+      </tr>
+      <!--<tr>
+      
+      <td background="reversebar6.jpg" height=36 valign=middle>
+      
+      <table width="100%"><tr><td width=200>
+      
+      <a href="http://www.macfarlanepackaging.com/offeremail"  style="color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; ">Click for FREE P2U Offers!</a>
+      
+      </td><td width=350 align=center> 
+    <form name="NewRecord1" action="prodlist.asp" method="post">
+     <input id="NewRecord1searcher" value="" name="searcher" autocomplete="off" size=20 />
+     <input name="SubSearch" type="image" src="../UserMods/bino.gif" align="absmiddle"   alt="Click to search">
+    </form></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Items: 0 Total: &pound;0.00</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macfarlanepackaging.com/cart" style="color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; ">View Cart</a> | <a href="http://www.macfarlanepackaging.com/checkout" style="color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; ">Checkout</a>
+    </td></tr></table></td></tr>-->
+   
+<tr colspan="4" bgcolor="white" background="media/blockdefault2.gif"><td background="media/blockdefault2.gif">    
+<div id="ddtabs4" class="ddcolortabs">
+<ul>
+<li><a href="http://www.macfarlanepackaging.com" rel="ct1" class=""><span>Home</span></a></li>
+
+<li><a href="/distribution" rel="ct3" class=""><span>Our Services</span></a></li>
+<li><a href="/howtoorder" rel="ct2" class="current"><span>Ordering From Us</span></a></li>
+<li><a href="/macfpackaging" rel="ct5" class=""><span>About Us</span></a></li>
+<li><a rel="ct6" class=""><span>Our Locations</span></a></li>
+<li><a href="/contact" rel="ct7" class=""><span>Contact Us</span></a></li>
+
+</ul>
+</div>
+
+<div class="tabcontainer">
+
+<div id="ct1" class="tabcontent" style="display: none;">
+<div class="suckertreemenu" style="z-index: 2000;"><ul id="treemenu1" style="z-index: 2000;"><li><a href="#" class="mainfoldericon">Boxes</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/singlewallcardboardboxes">Single&nbsp;Wall&nbsp;Boxes&nbsp;</a></li><li style="z-index: 2000;"><a href="/varidepthboxes">Vari-Depth&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/doublewallcardboardboxes">Double&nbsp;Wall&nbsp;Boxes&nbsp;</a></li><li style="z-index: 2000;"><a href="/palletboxes">Pallet&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/exportboxes">Export&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/whitecardboxes">White&nbsp;Card&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/printersreamboxes">Printers&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/archiveboxes">Archive&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/recyclebin">Office&nbsp;Recyling&nbsp;Bin</a></li><li style="z-index: 2000;"><a href="/bdcmboxes">BDCM&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/pictureboxes">Telescopic&nbsp;Picture&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/unlinedpostalboxes">Postal&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/korrvususpensionboxes">Korrvu&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/cardboardbottleboxes">Bottle&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/mugboxes">Mug&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/palletcontainers">Palletised&nbsp;Containers</a></li><li style="z-index: 2000;"><a href="/ecopalpallets">Pallets</a></li><li style="z-index: 2000;"><a href="/celtahandles">Box&nbsp;Handles&nbsp;&amp;&nbsp;Feet</a></li><li style="z-index: 2000;"><a href="/impactindicators">Tip&nbsp;&amp;&nbsp;Impact&nbsp;Indicators</a></li><li style="z-index: 2000;"><a href="/movingkits">Removal&nbsp;Boxes</a></li></ul></li><li><a href="#" class="mainfoldericon">Sealing&nbsp;</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/standardpackingtapes">Packing&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/colouredtapes">Packing&nbsp;Tapes&nbsp;-&nbsp;Special</a></li><li style="z-index: 2000;"><a href="/tapedispensers">Packing&nbsp;Tape&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/machineappliedtapes">Machine&nbsp;Tapes&nbsp;&amp;&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/filamenttapes">Filament&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/maskingtapes">Masking&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/gaffertapes">Gaffer&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/tampertape">Tamper&nbsp;Evident&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/doublesidedtapes">Double&nbsp;Sided&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/3matgtapes">3M™&nbsp;ATG&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/3mvhbbtapes">3M™&nbsp;VHB™&nbsp;Foam&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/3mdoublesidedtapes">3M™&nbsp;Double&nbsp;Sided&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/floortapes">3M™&nbsp;Marking&nbsp;Tapes</a></li><li style="z-index: 2000;"><a href="/3madhesives">3M™&nbsp;Adhesives</a></li><li style="z-index: 2000;"><a href="/3mduallockfasteners">3M™&nbsp;Dual&nbsp;Lock™&nbsp;Fasteners</a></li><li style="z-index: 2000;"><a href="/gluesticks">Glue&nbsp;Sticks&nbsp;&amp;&nbsp;Guns</a></li><li style="z-index: 2000;"><a href="/staples">Staples&nbsp;&amp;&nbsp;Staplers</a></li><li style="z-index: 2000;"><a href="/wireties">Wire&nbsp;Ties</a></li><li style="z-index: 2000;"><a href="/clipbands">Clip&nbsp;Bands</a></li><li style="z-index: 2000;"><a href="/twistties">Twist&nbsp;Ties</a></li><li style="z-index: 2000;"><a href="/twines">Twines</a></li></ul></li><li><a href="#" class="mainfoldericon">Labelling</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/plainlabels">Plain&nbsp;Labels</a></li><li style="z-index: 2000;"><a href="/plainrecycledlabels">Plain&nbsp;Recycled&nbsp;Labels</a></li><li style="z-index: 2000;"><a href="/warninglabels">Printed&nbsp;Warning&nbsp;Labels</a></li><li style="z-index: 2000;"><a href="/labeldispenser">Label&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/shelflabels">Shelf&nbsp;Labels</a></li><li style="z-index: 2000;"><a href="/tallyclips">Tally&nbsp;Clips</a></li></ul></li><li><a href="#" class="mainfoldericon">Protection</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/bubblewraprolls">Bubble&nbsp;Wrap&nbsp;Rolls</a></li><li style="z-index: 2000;"><a href="/bubblemaskbubblewrap">Bubble&nbsp;Mask™&nbsp;&nbsp;</a></li><li style="z-index: 2000;"><a href="/bubbleguardbubblewrap">BubbleGuard®</a></li><li style="z-index: 2000;"><a href="/furniguardbubblewrap">Furniguard®</a></li><li style="z-index: 2000;"><a href="/bubblewrapbags">Bubble&nbsp;Bags</a></li><li style="z-index: 2000;"><a href="/foamwrap07">Foam&nbsp;Wrap&nbsp;Rolls</a></li><li style="z-index: 2000;"><a href="/loosefill">Loosefill&nbsp;Chips&nbsp;&amp;&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/voidfillpapers">Voidfill&nbsp;Papers&nbsp;&amp;&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/aircushions">Air&nbsp;Cushions&nbsp;&amp;&nbsp;Machines</a></li><li style="z-index: 2000;"><a href="/papercushions">Paper&nbsp;Cushions&nbsp;&amp;&nbsp;Machines</a></li><li style="z-index: 2000;"><a href="/instapakfoam">InstaPak&nbsp;Quick&nbsp;Bags&nbsp;&amp;&nbsp;Machines</a></li><li style="z-index: 2000;"><a href="/woodwool">Woodwool&nbsp;</a></li><li style="z-index: 2000;"><a href="/vermiculite">Vermiculite</a></li><li style="z-index: 2000;"><a href="/shredders">Waste&nbsp;Shredders</a></li><li style="z-index: 2000;"><a href="/wasteconverters">Waste&nbsp;Converters</a></li><li style="z-index: 2000;"><a href="/meshsleevingld">Mesh&nbsp;Sleeving</a></li><li style="z-index: 2000;"><a href="/foamedgeprotection">Edge&nbsp;Protection</a></li><li style="z-index: 2000;"><a href="/3mprotectors">3M™&nbsp;Bumpon™&nbsp;Protectors</a></li><li style="z-index: 2000;"><a href="/silicagel">Silica&nbsp;Gel&nbsp;Sachets</a></li></ul></li><li><a href="#" class="mainfoldericon">Papers</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/officepaper">Office&nbsp;Copier&nbsp;Paper</a></li><li style="z-index: 2000;"><a href="/packpapers">Papers&nbsp;-&nbsp;Wrapping&nbsp;&amp;&nbsp;Filla</a></li><li style="z-index: 2000;"><a href="/tissuepapers">Papers&nbsp;-&nbsp;Tissue</a></li><li style="z-index: 2000;"><a href="/shreddedpaper">Papers&nbsp;-&nbsp;Shredded</a></li><li style="z-index: 2000;"><a href="/kraftpapers">Kraft&nbsp;Paper&nbsp;-&nbsp;Pure</a></li><li style="z-index: 2000;"><a href="/imitationkraftpapers">Kraft&nbsp;Paper&nbsp;-&nbsp;Imitation</a></li><li style="z-index: 2000;"><a href="/coatedkraftpapers">Kraft&nbsp;Paper&nbsp;-&nbsp;Coated</a></li><li style="z-index: 2000;"><a href="/kraftunionpapers">Kraft&nbsp;Paper&nbsp;-&nbsp;Union</a></li><li style="z-index: 2000;"><a href="/paperrolldispensers">Kraft&nbsp;Paper&nbsp;-&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/corrugatedpaperrolls">Corrugated&nbsp;Paper&nbsp;Rolls</a></li><li style="z-index: 2000;"><a href="/corrugatedpapers">Corrugated&nbsp;Papers&nbsp;-&nbsp;Sticky</a></li><li style="z-index: 2000;"><a href="/singlewallcardboardsheets">Cardboard&nbsp;Sheets&nbsp;-&nbsp;Single&nbsp;Wall</a></li><li style="z-index: 2000;"><a href="/doublewallcardboardsheets">Cardboard&nbsp;Sheets&nbsp;-&nbsp;Double&nbsp;Wall</a></li></ul></li><li><a href="#" class="mainfoldericon">Postal</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/envelopes">Office&nbsp;Envelopes</a></li><li style="z-index: 2000;"><a href="/boardenvelopes">Solid&nbsp;Board&nbsp;Envelopes</a></li><li style="z-index: 2000;"><a href="/whitebubbleenvelopes">Bubble&nbsp;Envelopes&nbsp;-&nbsp;White&nbsp;</a></li><li style="z-index: 2000;"><a href="/goldbubbleenvelopes">Bubble&nbsp;Envelopes&nbsp;-&nbsp;Gold&nbsp;</a></li><li style="z-index: 2000;"><a href="/bubbleenvelopespack">Bubble&nbsp;Envelopes&nbsp;-&nbsp;Mixed&nbsp;Packs</a></li><li style="z-index: 2000;"><a href="/strongbubbleenvelopes">Bubble&nbsp;Envelopes&nbsp;-&nbsp;Extra&nbsp;Strong</a></li><li style="z-index: 2000;"><a href="/waterproofbubbleenvelopes">Bubble&nbsp;Envelopes&nbsp;-&nbsp;Waterproof&nbsp;</a></li><li style="z-index: 2000;"><a href="/colourbubbleenvelopes">Bubble&nbsp;Envelopes&nbsp;-&nbsp;Colour</a></li><li style="z-index: 2000;"><a href="/metallicbubbleenvelopes">Bubble&nbsp;Envelopes&nbsp;-&nbsp;Metallic&nbsp;</a></li><li style="z-index: 2000;"><a href="/paddedenvelopes">Padded&nbsp;Envelopes</a></li><li style="z-index: 2000;"><a href="/whitemailingsacks">Mailing&nbsp;Sacks&nbsp;-&nbsp;White</a></li><li style="z-index: 2000;"><a href="/bluemailingsacks">Mailing&nbsp;Sacks&nbsp;-&nbsp;Blue</a></li><li style="z-index: 2000;"><a href="/mailtuffmailingsacks">Mailing&nbsp;Sacks&nbsp;-&nbsp;Tuff™</a></li><li style="z-index: 2000;"><a href="/postaltubes">Postal&nbsp;Tubes</a></li><li style="z-index: 2000;"><a href="/bookpacks">Book&nbsp;Packs</a></li><li style="z-index: 2000;"><a href="/cdpacks">CD&nbsp;Packs</a></li><li style="z-index: 2000;"><a href="/unlinedpostalboxes">Postal&nbsp;Boxes&nbsp;-&nbsp;Unlined</a></li><li style="z-index: 2000;"><a href="/foampostalboxes">Postal&nbsp;Boxes&nbsp;-&nbsp;Foam&nbsp;Lined</a></li><li style="z-index: 2000;"><a href="/foamlinedpostalsleeves">Postal&nbsp;Sleeves&nbsp;-&nbsp;Foam&nbsp;Lined</a></li><li style="z-index: 2000;"><a href="/mugboxes">Mug&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/documentwallets">Document&nbsp;Wallets</a></li></ul></li><li><a href="#" class="mainfoldericon">Stretch&nbsp;Film</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/caststretchfilmsc">Hand&nbsp;-&nbsp;Cast&nbsp;Std&nbsp;Core</a></li><li style="z-index: 2000;"><a href="/caststretchfilmec">Hand&nbsp;-&nbsp;Cast&nbsp;Ext&nbsp;Core</a></li><li style="z-index: 2000;"><a href="/blownstretchfilmsc">Hand&nbsp;-&nbsp;Blown&nbsp;Std&nbsp;Core</a></li><li style="z-index: 2000;"><a href="/blownstretchfilmec">Hand&nbsp;-&nbsp;Blown&nbsp;Ext&nbsp;Core</a></li><li style="z-index: 2000;"><a href="/blownprestretchfilmsc">Hand&nbsp;-&nbsp;Blown&nbsp;Pre&nbsp;Std&nbsp;Core</a></li><li style="z-index: 2000;"><a href="/blownprestretchfilmec">Hand&nbsp;-&nbsp;Blown&nbsp;Pre&nbsp;Ext&nbsp;Core</a></li><li style="z-index: 2000;"><a href="/handstretchfilmdispensers">Handheld&nbsp;Stretch&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/minirollstretchfilm">Mini&nbsp;Roll&nbsp;Stretch&nbsp;Films</a></li><li style="z-index: 2000;"><a href="/speediwrapcaststretchfilm">Speediwrap&nbsp;Cast&nbsp;Stretch</a></li><li style="z-index: 2000;"><a href="/machinecaststretchfilm">Machine&nbsp;-&nbsp;Cast&nbsp;</a></li><li style="z-index: 2000;"><a href="/powerprecaststretchfilm">Machine&nbsp;-&nbsp;Cast&nbsp;Power&nbsp;Pre</a></li><li style="z-index: 2000;"><a href="/machineprestretchblown">Machine&nbsp;-&nbsp;Blown&nbsp;Pre</a></li><li style="z-index: 2000;"><a href="/stretchmachines">Stretch&nbsp;Machines</a></li></ul></li><li><a href="#" class="mainfoldericon">Polythene</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/polythenebagsld">Poly&nbsp;Bags&nbsp;-&nbsp;Light&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/polythenebagsmd">Poly&nbsp;Bags&nbsp;-&nbsp;Med&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/polythenebagshd">Poly&nbsp;Bags&nbsp;-&nbsp;Heavy&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/gripsealbagsmd">Grip&nbsp;Seal&nbsp;Bags&nbsp;-&nbsp;Med&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/gripsealbagshd">Grip&nbsp;Seal&nbsp;Bags&nbsp;-&nbsp;Heavy&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/gripsealbagswo">Grip&nbsp;Seal&nbsp;Bags&nbsp;-&nbsp;Write&nbsp;On&nbsp;</a></li><li style="z-index: 2000;"><a href="/polythenecarrierbags">Carrier&nbsp;Bags</a></li><li style="z-index: 2000;"><a href="/refusesacks">Bin&nbsp;Liners&nbsp;&amp;&nbsp;Refuse&nbsp;Sacks</a></li><li style="z-index: 2000;"><a href="/pvcshrinkwrap">Shrink&nbsp;Wrap&nbsp;Films&nbsp;-&nbsp;PVC</a></li><li style="z-index: 2000;"><a href="/ldpeshrinkwrap">Shrink&nbsp;Wrap&nbsp;Films&nbsp;-&nbsp;LDPE</a></li><li style="z-index: 2000;"><a href="/palletcovers">Shrink&nbsp;Wrap&nbsp;Pallet&nbsp;Covers</a></li><li style="z-index: 2000;"><a href="/polythenesheets">Centrefolded&nbsp;Poly&nbsp;Sheets</a></li><li style="z-index: 2000;"><a href="/palletsheets">Pallet&nbsp;Top&nbsp;Sheets</a></li><li style="z-index: 2000;"><a href="/shrinkwrappingsystems">Shrink&nbsp;Wrapping&nbsp;Systems</a></li><li style="z-index: 2000;"><a href="/polythenetubingmd">Layflat&nbsp;Tubing&nbsp;-&nbsp;Med&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/polythenetubinghd">Layflat&nbsp;Tubing&nbsp;-&nbsp;Heavy&nbsp;Duty</a></li><li style="z-index: 2000;"><a href="/heatsealers">Heat&nbsp;Sealers</a></li></ul></li><li><a href="#" class="mainfoldericon">Strapping</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/handstrapping">Hand&nbsp;-&nbsp;Polypropylene</a></li><li style="z-index: 2000;"><a href="/cordedpolystrapping">Hand&nbsp;-&nbsp;Corded&nbsp;Polyester</a></li><li style="z-index: 2000;"><a href="/steelstrapping">Hand&nbsp;-&nbsp;Steel</a></li><li style="z-index: 2000;"><a href="/strappingsealsbuckles">Hand&nbsp;-&nbsp;&nbsp;Seals&nbsp;&amp;&nbsp;Buckles</a></li><li style="z-index: 2000;"><a href="/strappingkits">Hand&nbsp;-&nbsp;Strapping&nbsp;Kits</a></li><li style="z-index: 2000;"><a href="/strappingtools">Strapping&nbsp;Tools</a></li><li style="z-index: 2000;"><a href="/strapdispensers">Strapping&nbsp;Dispensers</a></li><li style="z-index: 2000;"><a href="/polypropylenestrapping">Machine&nbsp;-&nbsp;Polypropylene</a></li><li style="z-index: 2000;"><a href="/polyesterstrapping">Machine&nbsp;-&nbsp;Polyester&nbsp;</a></li><li style="z-index: 2000;"><a href="/strappingmachines">Strapping&nbsp;Machines</a></li><li style="z-index: 2000;"><a href="/strappingedgeprotectors">Plastic&nbsp;Edge&nbsp;Protectors</a></li><li style="z-index: 2000;"><a href="/straplockseals">Straplock&nbsp;Security&nbsp;Seals</a></li></ul></li><li><a href="#" class="mainfoldericon">Tools</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/packingtools">Packing&nbsp;Tools</a></li><li style="z-index: 2000;"><a href="/liftmates">Lift&nbsp;Mates</a></li><li style="z-index: 2000;"><a href="/packingstations">Packing&nbsp;Stations</a></li><li style="z-index: 2000;"><a href="/workbenches">Work&nbsp;Benches</a></li><li style="z-index: 2000;"><a href="/shelving">Industrial&nbsp;Shelving</a></li><li style="z-index: 2000;"><a href="/chromeshelving">Chrome&nbsp;Shelving</a></li><li style="z-index: 2000;"><a href="/storagebays">Storage&nbsp;Bays</a></li><li style="z-index: 2000;"><a href="/partsbins">Plastic&nbsp;Parts&nbsp;Bins</a></li><li style="z-index: 2000;"><a href="/plasticstorageboxes">Plastic&nbsp;Storage&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/trolleys">Load&nbsp;Carriers</a></li><li style="z-index: 2000;"><a href="/packingmachines">Packing&nbsp;Machines</a></li></ul></li><li><a href="#" class="mainfoldericon">Gift&nbsp;&amp;&nbsp;Retail</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/bottlegiftboxes">Bottle&nbsp;Boxes&nbsp;-&nbsp;Gift</a></li><li style="z-index: 2000;"><a href="/polystyrenebottleboxes">Bottle&nbsp;Boxes&nbsp;-&nbsp;Polystyrene</a></li><li style="z-index: 2000;"><a href="/cardboardbottleboxes">Bottle&nbsp;Boxes&nbsp;-&nbsp;Cardboard</a></li><li style="z-index: 2000;"><a href="/smallsquaregiftboxes">Gift&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/smallgiftbags">Gift&nbsp;Bags</a></li><li style="z-index: 2000;"><a href="/bottlegiftbags">Gift&nbsp;Bags&nbsp;-&nbsp;Bottle</a></li><li style="z-index: 2000;"><a href="/kraftbags">Gift&nbsp;Bags&nbsp;-&nbsp;Plain&nbsp;Kraft</a></li><li style="z-index: 2000;"><a href="/smallpapergiftbags">Paper&nbsp;Gift&nbsp;Bags&nbsp;-&nbsp;Small</a></li><li style="z-index: 2000;"><a href="/mediumpapergiftbags">Paper&nbsp;Gift&nbsp;Bags&nbsp;-&nbsp;Medium</a></li><li style="z-index: 2000;"><a href="/largepapergiftbags">Paper&nbsp;Gift&nbsp;Bags&nbsp;-&nbsp;Large</a></li><li style="z-index: 2000;"><a href="/counterpaperbags">Paper&nbsp;Bags&nbsp;-&nbsp;Counter</a></li><li style="z-index: 2000;"><a href="/retailpaperbags">Paper&nbsp;Bags&nbsp;-&nbsp;Coloured</a></li><li style="z-index: 2000;"><a href="/gussetedpaperbags">Paper&nbsp;Bags&nbsp;-&nbsp;Gusseted&nbsp;</a></li><li style="z-index: 2000;"><a href="/polythenecarrierbags">Carrier&nbsp;Bags&nbsp;-&nbsp;Polythene</a></li><li style="z-index: 2000;"><a href="/nonwovenbags">Carrier&nbsp;Bags&nbsp;-&nbsp;Non&nbsp;Woven</a></li><li style="z-index: 2000;"><a href="/ecobags">Carrier&nbsp;Bags&nbsp;-&nbsp;&nbsp;Eco&nbsp;Bags</a></li><li style="z-index: 2000;"><a href="/papercarrierbags">Carrier&nbsp;Bags&nbsp;-&nbsp;Paper&nbsp;</a></li><li style="z-index: 2000;"><a href="/giftbows">Gift&nbsp;Bows</a></li><li style="z-index: 2000;"><a href="/ribbons">Ribbons</a></li></ul></li><li><a href="#" class="mainfoldericon">Catering</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/plates">Paper&nbsp;Plates</a></li><li style="z-index: 2000;"><a href="/cutlery">Cutlery</a></li><li style="z-index: 2000;"><a href="/food">Food&nbsp;Containers</a></li><li style="z-index: 2000;"><a href="/cups">Cups</a></li><li style="z-index: 2000;"><a href="/napkins">Napkins</a></li><li style="z-index: 2000;"><a href="/filmpaperbags">Film&nbsp;Front&nbsp;Paper&nbsp;Bags</a></li><li style="z-index: 2000;"><a href="/counterpaperbags">Counter&nbsp;Paper&nbsp;Bags</a></li></ul></li><li><a href="#" class="mainfoldericon">Janitorial&nbsp;</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/handtowels">Paper&nbsp;Hand&nbsp;Towels</a></li><li style="z-index: 2000;"><a href="/rolls">Toilet&nbsp;Rolls&nbsp;&amp;&nbsp;Wiper&nbsp;Rolls</a></li><li style="z-index: 2000;"><a href="/refusesacks">Bin&nbsp;Liners&nbsp;&amp;&nbsp;Refuse&nbsp;Sacks</a></li><li style="z-index: 2000;"><a href="/gloves">Hygiene&nbsp;Gloves</a></li><li style="z-index: 2000;"><a href="/hygieneclothing">Hygiene&nbsp;Clothing</a></li></ul></li><li><a href="#" class="mainfoldericon">Moving&nbsp;House</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/movingkits">Moving&nbsp;Kits</a></li><li style="z-index: 2000;"><a href="/singlewallmovingboxes">Single&nbsp;Wall&nbsp;Moving&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/doublewallmovingboxes">Double&nbsp;Wall&nbsp;Moving&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/varidepthmovingboxes">Vari-Depth&nbsp;Moving&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/tallmovingboxes">Tall&nbsp;Moving&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/longmovingboxes">Long&nbsp;Moving&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/wardrobemovingboxes">Wardrobe&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/movingstorageboxes">Plastic&nbsp;Storage&nbsp;Boxes</a></li><li style="z-index: 2000;"><a href="/movingbubble">Bubble&nbsp;Wrapping</a></li><li style="z-index: 2000;"><a href="/movingfoam">Foam&nbsp;Wrapping</a></li><li style="z-index: 2000;"><a href="/movingcardboardsheets">Cardboard&nbsp;Packing&nbsp;Sheets</a></li><li style="z-index: 2000;"><a href="/platedividers">Plate&nbsp;Dividers</a></li><li style="z-index: 2000;"><a href="/chaircovers">Chair&nbsp;Covers</a></li><li style="z-index: 2000;"><a href="/mattresscovers">Mattress&nbsp;Covers</a></li><li style="z-index: 2000;"><a href="/furnitureblankets">Furniture&nbsp;Blankets</a></li><li style="z-index: 2000;"><a href="/movingfoamedge">Foam&nbsp;Edge&nbsp;Protection</a></li><li style="z-index: 2000;"><a href="/movingcardboardedge">Cardboard&nbsp;Edge&nbsp;Protection</a></li></ul></li></ul></div>
+</div>
+
+<div id="ct2" class="tabcontent" style="display: block;">
+<div class="suckertreemenu" style="z-index: 2000;"><ul id="treemenu2" style="z-index: 2000;"><li><a href="/howtoorder">How&nbsp;To&nbsp;Order</a></li><li><a href="/delivery">Deliveries</a></li><li><a href="/pricepromise">Price&nbsp;Promise</a></li><li><a href="/payment">Payment&nbsp;Options</a></li><li><a href="/returns">Returns</a></li><li><a href="/vat">VAT&nbsp;&amp;&nbsp;Duty</a></li><li><a href="/security">Security</a></li><li><a href="/privacy">Privacy</a></li><li><a href="/trackorder">Track&nbsp;Your&nbsp;Order</a></li><li><a href="/faq">FAQ's</a></li><li><a href="/terms">Terms&nbsp;&amp;&nbsp;Conditions</a></li></ul></div>
+</div>
+<div id="ct3" class="tabcontent" style="display: none;">
+<div class="suckertreemenu" style="z-index: 2000;"><ul id="treemenu4" style="z-index: 2000;"><li><a href="/distribution">Distribution</a></li><li><a href="/designmanufacture">Design&nbsp;&amp;&nbsp;Manufacture</a></li><li><a href="/analysis">Analysis&nbsp;&amp;&nbsp;Consultancy</a></li><li><a href="/nationalaccounts">National&nbsp;Accounts</a></li><li><a href="/casestudies">Case&nbsp;Studies</a></li></ul></div>
+</div>
+
+<div id="ct5" class="tabcontent">
+<div class="suckertreemenu" style="z-index: 2000;"><ul id="treemenu5" style="z-index: 2000;"><li><a href="/macfgroup">Macfarlane&nbsp;Group</a></li><li><a href="/macfpackaging">Macfarlane&nbsp;Packaging</a></li><li><a href="/aboutp2u">Packaging2u.co.uk</a></li><li><a href="/environment">The&nbsp;Environment</a></li><li><a href="/quality">Quality&nbsp;Management</a></li><li><a href="/cr">Corporate&nbsp;Responsibility</a></li><li><a href="/packaging_supplier_news">News</a></li><li><a href="/careers">Careers</a></li></ul></div>
+</div>
+<div id="ct6" class="tabcontent">
+<div class="suckertreemenu" style="z-index: 2000;"><ul id="treemenu6" style="z-index: 2000;"><li><a href="#" class="mainfoldericon">Scotland</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdcglasgow">Glasgow</a></li></ul></li><li><a href="#" class="mainfoldericon">North</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdcmanchester">Manchester</a></li><li style="z-index: 2000;"><a href="/rdcnewcastle">Newcastle</a></li><li style="z-index: 2000;"><a href="/rdcwakefield">Wakefield</a></li><li style="z-index: 2000;"><a href="/rdcwigan">Wigan</a></li></ul></li><li><a href="#" class="mainfoldericon">East</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdcgrantham">Grantham</a></li><li style="z-index: 2000;"><a href="/rdcgranthammanu">Grantham Manufacturing</a></li><li style="z-index: 2000;"><a href="/rdcsudbury">Sudbury</a></li></ul></li><li><a href="#" class="mainfoldericon">Midlands</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdccoventry">Coventry</a></li><li style="z-index: 2000;"><a href="/rdcmiltonkeynes">Milton Keynes</a></li><li style="z-index: 2000;"><a href="/rdctelford">Telford</a></li></ul></li><li><a href="#" class="mainfoldericon">South</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdcenfield">Enfield</a></li><li style="z-index: 2000;"><a href="/rdcfareham">Fareham</a></li><li style="z-index: 2000;"><a href="/rdchorsham">Horsham</a></li></ul></li><li><a href="#" class="mainfoldericon">West</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdcbristol">Bristol</a></li><li style="z-index: 2000;"><a href="/rdcexeter">Exeter</a></li><li style="z-index: 2000;"><a href="/rdcwestburymanu">Westbury Manufacturing</a></li></ul></li><li><a href="#" class="mainfoldericon">All&nbsp;Locations</a><ul style="top: 25px;"><li style="z-index: 2000;"><a href="/rdcglasgow">Glasgow</a></li><li style="z-index: 2000;"><a href="/rdcmanchester">Manchester</a></li><li style="z-index: 2000;"><a href="/rdcnewcastle">Newcastle</a></li><li style="z-index: 2000;"><a href="/rdcwakefield">Wakefield</a></li><li style="z-index: 2000;"><a href="/rdcwigan">Wigan</a></li><li style="z-index: 2000;"><a href="/rdcgrantham">Grantham</a></li><li style="z-index: 2000;"><a href="/rdcgranthammanu">Grantham Manufacturing</a></li><li style="z-index: 2000;"><a href="/rdcsudbury">Sudbury</a></li><li style="z-index: 2000;"><a href="/rdccoventry">Coventry</a></li><li style="z-index: 2000;"><a href="/rdcmiltonkeynes">Milton Keynes</a></li><li style="z-index: 2000;"><a href="/rdctelford">Telford</a></li><li style="z-index: 2000;"><a href="/rdcenfield">Enfield</a></li><li style="z-index: 2000;"><a href="/rdcfareham">Fareham</a></li><li style="z-index: 2000;"><a href="/rdchorsham">Horsham</a></li><li style="z-index: 2000;"><a href="/rdcbristol">Bristol</a></li><li style="z-index: 2000;"><a href="/rdcexeter">Exeter</a></li><li style="z-index: 2000;"><a href="/rdcwestburymanu">Westbury Manufacturing</a></li></ul></li></ul></div>
+</div>
+<div id="ct7" class="tabcontent">
+
+</div>
+
+<div id="ct8" class="tabcontent">
+<!--<form METHOD="POST" name="LogonForm" action="http://www.macfarlanepackaging.com/scripts/10_Logon.asp">&nbsp;&nbsp;Username&nbsp;or&nbsp;Email:&nbsp;<input type=text name=email size=10 maxlength=50 value="">&nbsp;Password:&nbsp;<input type=password name=password size=10 maxlength=10 value="">&nbsp;<input type="submit" name="Submit" value="Login"><input type="hidden" name="action" value="logon"><input type="hidden" name="formID" value="00"></form>-->
+  
+</div>
+
+</div></td></tr>
+   
+    
+  
+  
+  
+    
+  </tbody></table></td>
+  </tr>
+ 
+<!-- <tr>
+        <td colspan="4" bgcolor="#ffffff" valign=top height=4><!--<a href="movinghouse"><img src="newMoveButt.jpg" border=0 alt="moving house?"></a><a href="cataloguedownload/"><img src="new-ButtsPDF.jpg" border=0 alt="download our catalogue"></a></td><td  bgcolor="#ffffff" colspan=2 align=right><img src="deloptions.gif" width=295><img src="paybar.gif" width=300></td>
+
+  </tr>-->
+  <tr>
+   <td colspan="4" bgcolor="#ffffff" valign="top" height="142"><table width="935" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td border="0" cellpadding="0" cellspacing="0" width="650" align="left" valign="top" style="border-right:1px solid navy;border-bottom:0px solid #ececec;background-color:#fcfcfc;border-top:1px solid navy;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" id="Movie4" width="650" height="142">
+        <param name="movie" value="snowfall.swf">
+        <param name="bgcolor" value="#FFFFFF">
+        <param name="quality" value="high">
+        <param name="wmode" value="opaque">
+        <param name="allowscriptaccess" value="samedomain">
+        <embed type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" name="Movie4" width="650" height="142" src="snowfall.swf" bgcolor="#FFFFFF" quality="high" wmode="opaque" allowscriptaccess="samedomain">
+          <noembed>
+          </noembed>
+        
+      </object></td><td valign="top" style="background-color:#7176a4;background: url(../scripts/homepix/bgtrpanel.jpg);;border-top:1px solid navy;height:142px;">
+   
+   
+   <form method="POST" name="LogonForm" action="http://www.macfarlanepackaging.com/scripts/10_Logon.asp" style="margin:0px;">
+   <table cellspacing="0" cellpadding="3" border="0" align="center" style="border:1px solid #c5d7ea;width:275px;margin-top:3px;height:80px;">
+   <tbody><tr><td colspan="2" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:navy;">
+   		<strong>&nbsp;My Macfarlane Packaging Account:</strong>
+   	</td></tr>
+   <tr><td style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:navy;">
+   		&nbsp;Username&nbsp;or&nbsp;Email:
+   	</td><td>
+   	<input type="text" name="email" size="10" maxlength="50" style="font-size:14px; height:20px;width:90px;">
+   	</td></tr>
+    <tr><td style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:navy;">
+    	&nbsp;Password:
+    </td><td style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:navy;">
+    	<input type="password" name="password" size="10" maxlength="10" value="" style="font-size:14px; height:20px; width:90px;">
+    	<input type="submit" name="Submit" value="Login" valign="middle" style="height:20px;border:1px solid #cecece;background-color:#fcfcfc;font-size:12px;">
+    	<input type="hidden" name="action" value="logon"><input type="hidden" name="formID" value="00">
+    </td></tr>
+    
+    
+    
+    
+    </tbody></table><table cellspacing="0" cellpadding="3" border="0" align="center" style="width:275px;margin-top:3px;">
+    <tbody><tr><td style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:navy;">
+    	<center><b><a href="http://www.macfarlanepackaging.com/cart" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:navy;text-decoration:none; ">&nbsp;Cart&nbsp;Items: 0 Total: £0.00&nbsp;<img src="../scripts/homepix/minicheckout.gif" border="0" align="absmiddle" style="margin-bottom:1px;"></a></b></center>
+    </td></tr>
+    </tbody></table>
+    
+    
+    <table cellspacing="0" cellpadding="3" border="0" align="center" style="border:1px solid #6f90b4;background: url(../scripts/transbg.png);width:275px;margin-top:3px;">
+    <tbody><tr><td style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:white;">
+	<center><a href="http://www.macfarlanepackaging.com/myaccount" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:white;">My Account</a> | <a href="http://www.macfarlanepackaging.com/myfavourites" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:white;">My Favourites</a> | <a href="http://www.macfarlanepackaging.com/myaccount" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:white;">Track Orders</a></center></td></tr>
+    </tbody></table>
+    
+   
+    
+    
+   
+   </form></td></tr></tbody></table></td></tr>
+  
+  <tr>
+        <td colspan="4" bgcolor="#fbfbfb" valign="top">
+<br><center>
+<table width="800" cellpadding="6" cellspacing="0" style="border: 1px solid #cecece">
+<tbody><tr><td bgcolor="white"><b>Privacy &amp; Data Protection</b></td></tr>
+<tr><td bgcolor="white"><p><strong>Your Information and How We Use It <br>
+<br>
+</strong>To process your order we will require the following details:</p>
+<ul>
+    <li>Name</li>
+    <li>E-mail Address</li>
+    <li>Telephone Number</li>
+    <li>Order Delivery Address</li>
+    <li>Credit/Debit Card Details (or Macfarlane Packaging credit account details)</li>
+    <li>Credit/Debit Card Billing Address (or Macfarlane Packaging credit account details)</li>
+</ul>
+<p>The above information enables us to process your request and notify you of acceptance of your order. <br>
+<br>
+Telephone numbers are used to make urgent contact regarding any issues with your order. Unless otherwise advised, telephone numbers may be passed to couriers to arrange for the convenient delivery of your order. <br>
+<br>
+When you register with us, you can select whether you would like to receive information about new products, promotions and discounts from us via e-mail. If in the past, you have chosen to be notified, and no longer wish to receive information, please click on the unsubscribe link found at the&nbsp;bottom of all promotional emails sent, or email <a href="mailto:unsubscribe@macfarlanepackaging.com">unsubscribe@macfarlanepackaging.com</a> and we will remove your details. <br>
+<br>
+<strong>Safety and Security of Your Information <br>
+<br>
+</strong>Our site uses secure server software to protect your information whenever an order is placed. All customer information is encrypted before being sent to minimise the risk of interception. <br>
+<br>
+We follow strict security procedures as required under UK Data Protection Legislation (the Data Protection Act 1998) to protect information stored about our customers.</p>
+<p align="justify"><strong>Macfarlane Packaging's Internal Confidentiality</strong></p>
+<p>We protect your privacy in four ways:</p>
+<ul>
+    <li>Access to customer account information is limited to those who need access for the performance of their job.</li>
+    <li>All systems operate through full login and password controls.&nbsp;</li>
+    <li>All employees are required to sign a confidentiality clause as part of their terms of employment.</li>
+    <li>Confidentiality and database access controls are reviewed periodically and updated as required to further protect your personal data.</li>
+</ul>
+<p><strong>Third Party Access <br>
+<br>
+</strong>We do <u>not</u> disclose customer information to third parties other than when order details are processed as part of the order fulfillment process. In these instances third parties are supplied with the necessary customer information to complete their activities, and are not in any way permitted to disclose customer details to additional third parties.</p>
+<p align="justify"><strong>Customer Rights </strong></p>
+<p align="justify">For any reason, customers can contact <a href="mailto:customerservices@macfarlanepackaging.com">customerservices@macfarlanepackaging.com</a> and request details of all personal and&nbsp;account information held by us. Alternatively customers can&nbsp;view all personal and account information held by us, through their online account. &nbsp;</p>
+<p align="justify"><strong>Use of 'Cookies' </strong></p>
+<p align="justify">Our web site uses session cookies. They&nbsp;do not contain any personally identifiable information.&nbsp;If you prefer your browser software should enable you not to accept cookies. This will not affect your use of our web site.</p>
+<p align="justify"><strong>Consent </strong></p>
+<p align="justify">Your use of our web site signifies consent to the collection, processing and use of personal information by us for the purposes of administering and dealing with orders, reference checking including fraud detection, processing payments, market research and marketing purposes as outlined above.&nbsp;&nbsp;</p>
+<p>&nbsp;</p></td></tr></tbody></table></center><br>
+
+<table width="100%" style="border-top:1px dashed #cecece;" border="0" cellspacing="0" cellpadding="5">
+<tbody><tr><td colspan="3" style="border-bottom:1px dashed #cecece;background-color:#fbfbfb"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><center><a href="/Credit_Application_P2U-Revised_Sept_07_v2.pdf"><img src="http://www.macfarlanepackaging.com/rightside/20098201457360.bacc.jpg" border="0" alt="Credit Account Application"></a></center></td><td></td><td><center><a href="/quotationrequest"><img src="http://www.macfarlanepackaging.com/rightside/20098201458330.bcustom.jpg" border="0" alt="Custom Made Packaging"></a></center></td><td></td><td><center><a href="/delivery"><img src="http://www.macfarlanepackaging.com/rightside/20098201456390.b3pm.jpg" border="0" alt="Next Business Day Delivery "></a></center></td><td></td><td><center><a href="/delivery"><img src="http://www.macfarlanepackaging.com/rightside/20098201456390.bdel.jpg" border="0" alt="£3.99 charge for orders under £50"></a></center></td><td></td><td><center><a href="/delivery"><img src="http://www.macfarlanepackaging.com/rightside/20098201456390.bfree.jpg" border="0" alt="Free Delivery on Orders over £50"></a></center></td><td></td><td><center><a href="/feedback"><img src="http://www.macfarlanepackaging.com/rightside/20098201456390.bfeed.jpg" border="0" alt="Customer Feedback"></a></center></td><td></td></tr><tr></tr></tbody></table></td></tr>
+<!--<tr><td colspan=3 style="border-bottom:1px dashed #cecece;background-color:#eeeeee">supplier logos go here</td></tr>-->
+<tr><td colspan="3" style="border-bottom:1px dashed #cecece;background-color:#eeeeee"><table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr><td valign="top"><b>Product&nbsp;Help&nbsp;&amp;&nbsp;Advice&nbsp;</b><br><img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/fefco" target="_self">FEFCO&nbsp;Box&nbsp;Design&nbsp;Guide</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/measureboxes" target="_self">How&nbsp;To&nbsp;Measure&nbsp;Boxes</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/howtosealbox" target="_self">How&nbsp;To&nbsp;Seal&nbsp;A&nbsp;Box</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/howtousehandtapedispenser" target="_self">How&nbsp;To&nbsp;Use&nbsp;A&nbsp;Hand&nbsp;Tape&nbsp;Dispenser</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/packingtapeinfo" target="_self">Understanding&nbsp;Packing&nbsp;Tapes</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/pip" target="_self">Pricing&nbsp;In&nbsp;Proportion</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/howtouseinstapakquick" target="_self">How&nbsp;To&nbsp;Use&nbsp;Instapak&nbsp;Quick&nbsp;Bags</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/stretchfilmadvice" target="_self">Using&nbsp;Stretch&nbsp;Film</a><br> </td><td valign="top"><b>Moving&nbsp;House&nbsp;Guides&nbsp;</b><br><img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/guidetomovinghouse" target="_self">Moving&nbsp;House&nbsp;Guide</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/packingguidemovinghouse" target="_self">Moving&nbsp;House&nbsp;Packing&nbsp;Guide</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="http://www.macfarlanepackaging.com/scripts/openExtra.asp?extra=25" target="_self">Moving&nbsp;House:&nbsp;Planning</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="http://www.macfarlanepackaging.com/scripts/openExtra.asp?extra=24" target="_self">Moving&nbsp;House:&nbsp;Packing&nbsp;</a><br> </td><td valign="top"><b>Packaging&nbsp;&amp;&nbsp;The&nbsp;Environment&nbsp;</b><br><img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/reducereuserecycle" target="_self">Reduce,&nbsp;Reuse,&nbsp;Recycle</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/cardboardpackaging" target="_self">Corrugated&nbsp;Cardboard&nbsp;Packaging</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/biodegradablepolythene" target="_self">Polythene&nbsp;Packaging</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/biobubbleprotection" target="_self">Biodegradable&nbsp;Bubble&nbsp;Wrap&nbsp;</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/ecocarrierbags" target="_self">Eco-Friendly&nbsp;Carrier&nbsp;Bags</a><br> </td><td valign="top"><b>Resources&nbsp;</b><br><img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/resources" target="_self">Informative&nbsp;Resources</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/feedback" target="_self">Customer&nbsp;Feedback</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/links" target="_self">Links</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/affiliatescheme" target="_self">Our&nbsp;Affiliate&nbsp;Scheme</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/sitemap2" target="_self">Site&nbsp;Map</a><br> <img src="rightarrow.gif" align="absmiddle">&nbsp;<a href="/unitconversiontool" target="_self">Unit&nbsp;Conversion&nbsp;Tool</a><br> </td></tr></tbody></table></td></tr>
+<tr>
+<td width="30%" style="background-color:#fbfbfb" valign="top"><img src="pay.gif"></td>
+
+<td width="30%" style="background-color:#fbfbfb" valign="top"><img src="site-ISO-logos.gif" alt="ISO 9001: Quality Management &amp; ISO 14001: Environmental Management (at selected sites)"></td>
+<td width="30%" style="background-color:#fbfbfb">Macfarlane Packaging<br>Kingston Gateway<br>Whitehall Avenue<br>Milton Keynes<br>Buckinghamshire<br>MK10 0BU<br>UK<br><br>
+			   </td>
+</tr>
+</tbody></table>
+
+</td>
+
+  </tr>
+  <tr>
+    <td width="" height="22" bgcolor="#041E86" style="color: white; ">&nbsp;&nbsp;©2009 macfarlanepackaging.com</td>
+    <td height="22" bgcolor="#041E86" style="color: white; " colspan="2"></td>
+    <td height="22" bgcolor="#041E86" style="color: white; ">VAT Registration: 262-3752-62<br>Registered in England and Wales:&nbsp;1630389</td>
+    <td width="180" height="22" bgcolor="#041E86" align="right"></td>
+  </tr>
+</tbody></table>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-485801-4");
+pageTracker._trackPageview();
+</script>
+<script language="JavaScript" type="text/javascript">
+mxm_roi_tracking();
+</script>
+
+
+<!-- Start AliveChat Live Site Monitor Code -->
+<script language="javascript">
+	function wsa_include_js(){
+		var js = document.createElement('script');
+		js.setAttribute('language', 'javascript');
+		js.setAttribute('type', 'text/javascript');
+		js.setAttribute('src','http://www.websitealive5.com/4394/Visitor/vTracker_v2.asp?websiteid=0&groupid=4394');
+		document.getElementsByTagName('head').item(0).appendChild(js);
+	}
+	window.onload = wsa_include_js;
+</script>
+<!-- End AliveChat Live Site Monitor Code -->
+
+
+</body></html>
