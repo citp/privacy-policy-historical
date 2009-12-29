@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629035720id_/http%3A//www.thedailybell.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229013128id_/http%3A//www.thedailybell.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # The Daily Bell
+
+The Daily Bell Newswire - It's FREE!    
 
 Privacy Policy
 
@@ -21,6 +23,8 @@ Appenzeller Business Press AG reserves the right to modify this Privacy Policy.
   
 
 
+The Daily Bell Newswire - It's FREE!    
+
 | 
 
 **Guarding Your Privacy
@@ -38,5 +42,5 @@ It also reflects our reverence for personal responsibility and free-market princ
 
 Sincerely,  
   
-Albert Kessler,  
+Meinrad Mueller,  
 Chairman, ARBP 
