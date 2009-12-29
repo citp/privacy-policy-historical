@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090451id_/http%3A//www.ketknbc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229040532id_/http%3A//www.ketknbc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KETKnbc.com | The News Station
 
