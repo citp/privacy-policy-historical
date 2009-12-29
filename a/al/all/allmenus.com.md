@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allmenus.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627075232id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmenus.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220408id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Rights
-
-#### Privacy Policy
 
 _Effective September 1, 2008_
 
