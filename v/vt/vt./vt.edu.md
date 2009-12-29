@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628081625id_/http%3A//www.vt.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229013641id_/http%3A//www.vt.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Virginia Tech
 
