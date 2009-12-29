@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616172343id_/http%3A//www.contexteditor.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229121840id_/http%3A//www.contexteditor.org/privacy) for the most accurate reproduction.*
 
-# Text Editor for Windows : Privacy Policy
+# Freeware Text Editor Privacy Policy
 
 We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. If you think our policy falls short of your expectations or that we are failing to abide by our policy, do please tell us. 
 
