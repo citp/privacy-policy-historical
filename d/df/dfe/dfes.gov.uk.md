@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dfes.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618071039id_/http%3A//www.dcsf.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfes.gov.uk privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229140553id_/http%3A//www.dcsf.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
 
-# Department for Children, Schools and Families : Copyright statement
+# Policy statements : Department for Children, Schools and Families
 
 Under the Data Protection Act 1998, the Department and its contractors have legal obligations towards you in the way that we deal with data collected from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or government department unless you give us permission to do so, or we are obliged or permitted by law to disclose it.
 
@@ -12,4 +12,4 @@ If you register to receive updates your information will be held on a secure ser
 
 This site is taking part in a pilot project sharing campaign material across government. The pilot uses cookies to avoid you seeing the same campaign repeatedly, over and over, and to gauge the number of people viewing a campaign or particular web page. These cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are restored in the cookie directory of your hard drive, and do not expire at the end of your session.
 
-[Download the DCSF Information Charter in PDF Format.](https://web.archive.org/web/20090618071039id_/http%3A//www.dcsf.gov.uk/copyright/pdf/DCSFInformationCharter-revised0908.pdf)
+[Download the DCSF Information Charter](https://web.archive.org/web/20091229140553id_/http%3A//www.dcsf.gov.uk/copyright/downloads/DCSFInformationCharter-revised0908.pdf) [pdf, 53kb]
