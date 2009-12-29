@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tothepc.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181400id_/http%3A//www.tothepc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tothepc.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229154506id_/http%3A//www.tothepc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techno Life @ tothepc.com
 
