@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629061739id_/http%3A//www.axparis.co.uk/index.php%3F_a%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axparis.co.uk privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229183041id_/http%3A//axparis.co.uk/index.php%3F_a%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
 
 # Privacy Policy - AX Paris - Fashion Dresses | Black Dresses | Going out & Party Dresses | Cheap Dresses
 
