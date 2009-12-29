@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002819id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229014858id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
 
-# AVADirect - Privacy and Security
+# AVADirect Custom Computers - Privacy and Security
 
 |  Customer Login  
 ---  
@@ -11,8 +11,9 @@ We highly recommend to login into your Customer Account when you place orders on
 [ CREATE ACCOUNT ](https://www.avadirect.com/account_create.asp) [**Tell me more ...** ]()  
   
   
-  
 
+
+[](https://www.bbb.org/online/consumer/cks.aspx?id=1090717141758 "Click to verify BBB accreditation and to see a BBB report.")
 
 | 
 
