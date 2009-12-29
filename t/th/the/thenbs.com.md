@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630153938id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230002744id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
 
 # NBS | National Building Specification | Privacy Policy
 
@@ -21,7 +21,8 @@ In particular:
   * Where appropriate we may record the name and version of your software to ensure compatibility with the particular product or service being supplied
   * Where appropriate we may download a file to your system containing new web addresses accessed by the product or services being supplied which will allow you uninterrupted use of the relevant web services
   * If you subscribe to NBS software products, optional online access to other data will be provided and we will track usage to provide statistics for the purposes of validating and improving the service
-  * All NBS software products contain support for automated error reporting via the internet to RIBA Enterprises and this report may be sent to third parties where relevant to help us resolve your issue. 
+  * All NBS software products contain support for automated error reporting via the internet to RIBA Enterprises and this report may be sent to third parties where relevant to help us resolve your issue
+  * Please note, telephone calls to NBS may be monitored for training purposes.
 
 
 
