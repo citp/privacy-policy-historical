@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629020417id_/http%3A//www.thirdage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229042030id_/http%3A//www.thirdage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThirdAge
 
@@ -8,7 +8,7 @@ ThirdAge Inc. (hereinafter "ThirdAge") respects the privacy of every individual 
 **2\. Personally-Identifiable Information**  
 There are cases where ThirdAge may ask you for personally-identifiable information such as your name, mailing address and e-mail address. For example, we request personally-identifiable information when you register for an account on the Web Site, for online shopping or transactions, or for other services that require registration or subscription. ThirdAge will not collect any personally-identifiable information about you unless you provide it to us voluntarily.
 
-When you do provide us with personally-identifiable information, ThirdAge may: 
+When you do provide us with personally-identifiable information, ThirdAge may:
 
   * Store and process that information to better understand your needs and how we can improve our products and services;
   * Use that information to contact you for informational, marketing and promotional purposes; 
@@ -30,13 +30,13 @@ This Web Site may make discussion boards, groups and/or other public forums avai
 
 **4\. Children**  
 This Web Site is not directed at individuals under 18 years of age, and ThirdAge does not intend to collect any personally-identifiable information from such individuals. Where appropriate, ThirdAge will specifically instruct children not to submit such information on the Web Site. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the mailing address or e-mail address listed at the bottom of this Policy if he would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.  
-**  
+ **  
 5\. Non-Personally-Identifiable Information**  
 ThirdAge may also collect information about you that is not personally-identifiable. Examples of this type of information may include your age, gender, interests and preferences, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the web site from which you linked to the Web Site. ThirdAge may share this information with advertisers, business partners, sponsors and other third parties. For example, ThirdAge may inform a sponsor that the membership of the Web Site is x percent females and y percent males. This data is used to customize the Web Site's content and advertising, and to deliver a better experience for our members and users.  
-**  
+ **  
 6\. Information We May Place Automatically on Your Computer's Hard Drive**  
-When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, ThirdAge can recognize you. For example, Cookies are used to allow us to track clickstream data and tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.  
-**  
+When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, ThirdAge can recognize you. For example, Cookies are used to allow us to track clickstream data and tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.  In addition, we use cookies and IP addresses for our analytics systems.  Please click here [http://www.nielsen-netratings.com/privacy/sitecensus.htm](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web site.  
+ **  
 7\. Links to Other Web Sites**  
 The Web Site allows links to various other web sites as stated in ThirdAge's [Terms of Service](https://web.archive.org/terms). ThirdAge assumes no responsibility for the information practices of sites you are able to access through the Web Site. These links to other sites do not imply affiliation or endorsement of a linked site in any way.
 
@@ -52,14 +52,14 @@ As we continue to develop our business, we might sell or buy stores or assets, o
 
 **10\. Your Acceptance of These Terms**  
 By using the Web Site, you signify your assent to the ThirdAge Privacy Policy and the Web Site's Terms of Service. If you do not agree to this Policy or the Terms of Service, please do not use the Web Site. Your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes.  
-**  
+ **  
 11\. Whom to Contact**  
 If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: 
 
 ThirdAge Inc.,  
 25 Stillman Street, Suite 102,  
 San Francisco, CA 94107-1309; or through our [contact form](https://web.archive.org/feedback).  
-**  
+ **  
 12\. Ad Serving**  
 The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please [click here](http://www.doubleclick.com/privacy/index.aspx).
 
