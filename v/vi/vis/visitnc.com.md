@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212751id_/http%3A//www.visitnc.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229040308id_/http%3A//www.visitnc.com/pages/privacy) for the most accurate reproduction.*
 
 # Explore North Carolina
 
@@ -50,6 +50,10 @@ To enhance your experience on our site, many of our web pages use cookies. Cooki
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience on our web pages (e.g., to recognize you by name when you return to our site). We also may use cookies to provide you tailored offers of products and services. Cookies are essential to the proper functioning of VisitNC.com.
 
 If you want to control which cookies you accept, you can configure your browser to accept all cookies or to alert you every time a website’s server offers a cookie. Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser.
+
+### Video Privacy
+
+The videos produced by VisitNC are designed to display some of the wonderful places, events, and scenery of North Carolina. People shown in the video features were filmed enjoying NC’s public places or filmed on private property with the full permission of the property owner. Their appearance in the video does not constitute actual or implied endorsement of North Carolina or The North Carolina Division of Tourism, Film and Sports Development.
 
 ### Disclaimer
 
