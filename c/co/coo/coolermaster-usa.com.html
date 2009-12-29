@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the coolermaster-usa.com privacy policy that was archived on 2009-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623155729id_/http%3A//www.coolermaster-usa.com/contact.php%3Fpage_id%3D5) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolermaster-usa.com privacy policy that was archived on 2009-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229035116id_/http%3A//www.coolermaster-usa.com/contact.php%3Fpage_id%3D5) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
 <link rel="icon" href="/animated_favicon1.gif" type="image/gif">
 <title>Privacy - Cooler Master</title>	
 
@@ -9,6 +10,20 @@
 function clearText()
 {
 	document.getElementById('searchfield').value = '';
+}
+function rollOverButton(image)
+{
+	if(image == 'choiix')
+		document.getElementById('choiix').src = 'http://www.coolermaster-usa.com/templates/images/choiix2.png';
+	else if(image == 'storm')
+		document.getElementById('storm').src = 'http://www.coolermaster-usa.com/templates/images/storm2.gif';
+}
+function rollOutButton(image)
+{
+	if(image == 'choiix')
+		document.getElementById('choiix').src = 'http://www.coolermaster-usa.com/templates/images/choiix.png';
+	else if(image == 'storm')
+		document.getElementById('storm').src = 'http://www.coolermaster-usa.com/templates/images/storm.png';
 }
 </script>
 
@@ -18,26 +33,44 @@ function clearText()
 <link type="text/css" rel="stylesheet" href="/templates/css/ajax.css">
 <link type="text/css" rel="stylesheet" href="/templates/css/tab_content.css">
 <link type="text/css" rel="stylesheet" href="/templates/css/coolermaster.css">
+<link type="text/css" rel="stylesheet" href="/templates/css/jqueryslidemenu.css">
 <script type="text/javascript" src="/templates/js/yahoo-dom-event.js"></script>
-<script type="text/javascript" src="/templates/js/prototype.js"></script>
-<script type="text/javascript" src="/templates/js/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/templates/js/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/templates/js/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/templates/js/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/templates/js/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/templates/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="/templates/js/prototype_test.js"></script>
 <script type="text/javascript" src="/templates/js/swfobject.js"></script>
 <script type="text/javascript" src="/templates/js/global.js"></script>
 <script type="text/javascript" src="/templates/js/rollover.js"></script>
 <script type="text/javascript" src="/templates/js/ajax.js"></script>
+<script type="text/javascript" src="/templates/js/jquery.min.js"></script>
+<script type="text/javascript" src="/templates/js/jqueryslidemenu.js"></script>
+
+
+
+<!--   drop down menu -->
+
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+
+<!----------------->
+
+
 </head>
 <body>
 <div id="wrapper">
 <div id="container">	
 	<div id="top">
-		<div id="logo"><a href="index.php"><img src="/templates/images/logo.gif" width="176" height="152" alt="Cooler Master" border="0"></a></div>
+		<div id="logo"><a href="index.php"><img src="/templates/images/logo.jpg" width="157" height="116" alt="Cooler Master" border="0"></a></div>
 		<div id="search-bar">
 			<form name="global_search" action="product_search.php" method="get">
-			<p>( North America [ English ] )</p>
-			<p><img src="/templates/images/worldwide.gif" width="78" height="21" alt=""></p>
+			<!--<p>( North America [ English ] )</p>
+			<p><img src="/templates/images/worldwide.gif" width="78" height="21" alt="" /></p>
 			<p class="cart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-			<p class="searchfield"><input id="searchfield" name="keywords" type="text" value="Use Quotes for model #" style="width:200px;" class="form_obj" onclick="clearText()"></p>
-			<p class="search"><input type="image" name="go" src="/templates/images/btn_search.gif" width="55" height="36" alt="Search" border="0"></p>			
+			<a href="http://www.choiix.com" target="_blank"><img id="choiix" border="0" src="/templates/images/choiix.png" onmouseover="rollOverButton('choiix')" onmouseout="rollOutButton('choiix')" /></a>&nbsp;&nbsp;
+            <a href="http://www.cmstorm.com" target="_blank"><img id="storm" border="0" src="/templates/images/storm.png" onmouseover="rollOverButton('storm')" onmouseout="rollOutButton('storm')" /></a>-->
+			<p style="position:relative; left:182px; top:19px;"><input id="searchfield" name="keywords" type="text" value="Use Quotes for model #" style="width:200px;" class="form_obj" onclick="clearText()"></p>
+			<p style="position:relative; left:185px; top:-6px;"><input type="image" name="go" src="/templates/images/btn_search.gif" width="75" height="30" alt="Search" border="0"></p>			
 			</form>
 		</div>
 		<!--<div id="toplinks">
@@ -52,15 +85,71 @@ function clearText()
 				<li><a href="http://cmstore.coolermaster-usa.com/" target="_blank" onmouseover="imageon('parts');" onmouseout="imageoff('parts');"><img src="/templates/images/btn_parts-off.gif" width="103" height="25" alt="CM Store" border="0" name="parts" /></a></li>
 			</ul>
 		</div>-->
-        <div id="toplinks1">&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php" onmouseover="imageon('home');" onmouseout="imageoff('home');"><img src="/templates/images/btn_home-off.gif" width="46" height="25" alt="Home" border="0" name="home"></a></div>
-        <div id="toplinks2"><a href="category.php" onmouseover="imageon('products');" onmouseout="imageoff('products');"><img src="/templates/images/btn_products-off.gif" width="84" height="25" alt="Products" border="0" name="products"></a></div>
-        <div id="toplinks3"><a href="news.php" onmouseover="imageon('news');" onmouseout="imageoff('news');"><img src="/templates/images/btn_news-off.gif" width="45" height="25" alt="News" border="0" name="news"></a></div>
-        <div id="toplinks4"><a href="faq.php" onmouseover="imageon('support');" onmouseout="imageoff('support');"><img src="/templates/images/btn_support-off.gif" width="72" height="25" alt="Support" border="0" name="support"></a></div>
-        <div id="toplinks5"><a href="contact.php" onmouseover="imageon('contact');" onmouseout="imageoff('contact');"><img src="/templates/images/btn_contact-off.gif" width="72" height="25" alt="Contact" border="0" name="contact"></a></div>
-        <div id="toplinks6"><a href="where.php" onmouseover="imageon('where');" onmouseout="imageoff('where');"><img src="/templates/images/btn_where-off.gif" width="117" height="25" alt="Where to Buy" border="0" name="where"></a></div>
-        <div id="toplinks7"><a href="http://www.coolermaster.com/cm_club/login.php" target="_blank" onmouseover="imageon('club');" onmouseout="imageoff('club');"><img src="/templates/images/btn_club-off.gif" width="70" height="25" alt="CM Club" border="0" name="club"></a></div>
-        <div id="toplinks8"><a href="http://cmstore.coolermaster-usa.com/" target="_blank" onmouseover="imageon('parts');" onmouseout="imageoff('parts');"><img src="/templates/images/btn_parts-off.gif" width="103" height="25" alt="CM Store" border="0" name="parts"></a></div>
-	</div><div id="left-wrapper">
+        
+        
+      <!--  <div id="toplinks1">&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php"><img src="/templates/images/btn_home-off_test.png" width="62" height="15" alt="Home" border="0" name="home" /></a></div>
+        <div id="toplinks2"><a href="category.php"><img src="/templates/images/btn_products-off_test.png" width="102" height="15" alt="Products" border="0" name="products" /></a></div >
+        <div id="toplinks3"><a href="news.php"><img src="/templates/images/btn_news-off_test.png" width="59" height="15" alt="News" border="0" name="news" /></a></div>
+        <div id="toplinks4"><a href="faq.php"><img src="/templates/images/btn_support-off_test.png" width="93" height="15" alt="Support" border="0" name="support" /></a></div>
+        <div id="toplinks5"><a href="contact.php"><img src="/templates/images/btn_contact-off_test.png" width="99" height="15" alt="Contact" border="0" name="contact" /></a></div>
+        <div id="toplinks6"><a href="where.php"><img src="/templates/images/btn_where-off_test.png" width="156" height="15" alt="Where to Buy" border="0" name="where" /></a></div>
+	</div>-->
+    
+    
+        
+<div id="myslidemenu" class="jqueryslidemenu" style="position:relative; left:0px; top:0px;">
+<ul>
+<li id="toplinks1" style="width:79px; height:39px;"><a href="index.php"><img src="/templates/images/btn_home-off.png" width="79" height="39" alt="Home" border="0" name="home"></a></li>
+<li id="toplinks2" style="width:120px; height:39px;"><a href="category.php" style="padding-right: 23px;"><img src="/templates/images/btn_products-off.png" width="120" height="39" alt="Products" border="0" name="products"><img src="templates/images/down.png" class="downarrowclass" style="border:0;"></a>
+	<ul id="submenu" style="top: 39px; display: none; visibility: visible;">
+	<li><a href="category.php?category_id=17">Chassis<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=18">Full Tower</a></li><li><a href="category.php?category_id=19">Mid Tower</a></li><li><a href="category.php?category_id=20">Mini Tower</a></li><li><a href="category.php?category_id=1625">Chassis w/ Power Supply</a></li><li><a href="category.php?category_id=1671">M-ITX</a></li><li><a href="category.php?category_id=1626">NVIDIA Edition</a></li></ul></li><li><a href="category.php?category_id=1">Cooler<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=2">CPU Cooler<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1624">Liquid Cooling</a></li><li><a href="category.php?category_id=1623">Air Cooling</a></li></ul></li><li><a href="category.php?category_id=14">Chipset Cooling</a></li><li><a href="category.php?category_id=1627">Standard Cooler</a></li></ul></li><li><a href="category.php?category_id=22">Power Supply<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1622">UCP (Ultimate Circuit Protection)</a></li><li><a href="category.php?category_id=1651">Silent Pro M</a></li><li><a href="category.php?category_id=23">Real Power</a></li><li><a href="category.php?category_id=1657">Extreme Power Plus</a></li><li><a href="category.php?category_id=27">eXtreme Power</a></li><li><a href="category.php?category_id=1670">Elite Power</a></li><li><a href="category.php?category_id=1669">Notebook Adapter</a></li></ul></li><li><a href="category.php?category_id=1652">CM Storm<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1665">Chassis</a></li><li><a href="category.php?category_id=1673">Peripherals</a></li><li><a href="category.php?category_id=1674">Mouse Surfaces</a></li><li><a href="category.php?category_id=1664">Accessories</a></li></ul></li><li><a href="category.php?category_id=1659">Choiix<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1660">Notebook Cooling</a></li><li><a href="category.php?category_id=1662">Notebook Stand</a></li><li><a href="category.php?category_id=1661">Notebook Sleeve</a></li><li><a href="category.php?category_id=1668">Mouse</a></li><li><a href="category.php?category_id=1663">Mouse Pad</a></li></ul></li><li><a href="category.php?category_id=1666">Notebook Cooling<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1667">NotePal</a></li></ul></li><li><a href="category.php?category_id=65">Accessories<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=69">Side Panel</a></li><li><a href="category.php?category_id=1637">Thermal Interface</a></li><li><a href="category.php?category_id=70">Miscellaneous</a></li></ul></li><li><a href="category.php?category_id=1653">Fans<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1654">80mm Fan</a></li><li><a href="category.php?category_id=1675">140mm</a></li><li><a href="category.php?category_id=1655">120mm Fan</a></li><li><a href="category.php?category_id=1672">92mm fan</a></li><li><a href="category.php?category_id=1656">200mm fan</a></li></ul></li><li><a href="category.php?category_id=1658">Limited Edition</a></li><li><a href="category.php?category_id=1639">Server / Embedded Cooler<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1641">AMD</a></li><li><a href="category.php?category_id=1640">Intel<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a><ul style="top: 0px; display: none; visibility: visible;"><li><a href="category.php?category_id=1642">Intel Pentium 3</a></li><li><a href="category.php?category_id=1643">Intel Pentium 4, 478</a></li><li><a href="category.php?category_id=1644">Intel Socket 604</a></li><li><a href="category.php?category_id=1645">Intel LGA 771</a></li><li><a href="category.php?category_id=1646">Intel LGA775</a></li><li><a href="category.php?category_id=1647">Pentium M 478</a></li><li><a href="category.php?category_id=1648">Pentium M 479</a></li></ul></li></ul></li>    </ul>
+</li>
+<li id="toplinks3" style="width:86px; height:39px;"><a href="news.php" style="padding-right: 23px;"><img src="/templates/images/btn_news-off.png" width="86" height="39" alt="News" border="0" name="news"><img src="templates/images/down.png" class="downarrowclass" style="border:0;"></a>
+	<ul id="submenu" style="top: 39px; display: none; visibility: visible;">
+    <li><a href="news.php">Hot News</a></li>
+    <li><a href="awards.php">Awards</a></li>
+    <li><a href="reviews.php">Reviews</a></li>
+    <li><a href="events.php">Events</a></li>
+    </ul>
+</li>
+<li id="toplinks4" style="width:108px; height:39px;"><a href="marketing.php" style="padding-right: 23px;"><img src="/templates/images/btn_support-off.png" width="108" height="39" alt="Support" border="0" name="support"><img src="templates/images/down.png" class="downarrowclass" style="border:0;"></a>
+	<ul id="submenu" style="top: 39px; display: none; visibility: visible;">
+    <li><a href="marketing.php">Marketing<img src="templates/images/right.png" class="rightarrowclass" style="border:0;"></a>
+    	<ul style="top: 0px; display: none; visibility: visible;">
+        <li><a href="http://twitter.com/coolermasterUSA" target="_blank">CM Twitter</a></li>
+        <li><a href="http://www.youtube.com/user/CoolerMasterNA" target="_blank">CM YouTube</a></li>
+        <li><a href="http://www.facebook.com/coolermaster?ref=ts" target="_blank">CM Facebook</a></li>
+        <li><a href="http://www.myspace.com/coolermasterusa" target="_blank">CM MySpace</a></li>
+        <li><a href="request_review.php">Review Request Form</a></li>
+        <li><a href="request_sponsorship.php">Sponsorship Request Form</a></li>
+        <li><a href="print_gallery.php?page=1">Print Gallery</a></li>
+        <li><a href="wallpaper.php">Wallpapers</a></li>
+        <li><a href="http://www.coolermaster.outervision.com/index.jsp" target="_blank">PSU Wattage Calculator</a></li>
+        <li><a href="event_gallery.php">Event Gallery</a></li>
+        </ul>
+    </li>
+    <li><a href="faq.php">FAQ</a></li>
+    <li><a href="download.php">Download</a></li>
+    <li><a href="erma.php">eRMA/Part Request</a></li>
+    <li><a href="livehelp.php">Customer/Tech Support</a></li>
+    <li><a href="recommended_product.php">Recommended Product</a></li>
+    <li><a href="product_comparison.php">Product Comparison</a></li>
+    <li><a href="glossary.php">Glossary</a></li>
+    <li><a href="tutorial.php">Tutorial</a></li>
+    <li><a href="legacy_product.php">Legacy Product</a></li>
+    </ul>
+</li>
+<li id="toplinks5" style="width:112px; height:39px;"><a href="contact.php" style="padding-right: 23px;"><img src="/templates/images/btn_contact-off.png" width="112" height="39" alt="Contact" border="0" name="contact"><img src="templates/images/down.png" class="downarrowclass" style="border:0;"></a>
+	<ul id="submenu" style="top: 39px; display: none; visibility: visible;">
+    <li><a href="contact.php?page_id=2">About Us</a></li><li><a href="contact.php?page_id=4">Terms of Use</a></li><li><a href="contact.php?page_id=5">Privacy</a></li><li><a href="contact.php?page_id=6">Contact Us</a></li><li><a href="contact.php?page_id=7">Site Map</a></li><li><a href="contact.php?page_id=8">RSS Feeds</a></li><li><a href="contact.php?page_id=9">Warranty</a></li>    </ul>
+</li>
+<li id="toplinks6" style="width:137px; height:39px;"><a href="where.php"><img src="/templates/images/btn_where-off.png" width="139" height="39" alt="Where to Buy" border="0" name="where"></a></li>
+<li id="toplinks7" style="width:137px; height:39px;"><a href="http://cmstore.coolermaster-usa.com" target="_blank"><img src="/templates/images/btn_store-off.png" width="108" height="39" alt="CM Store" border="0" name="store"></a></li>
+</ul>
+<br style="clear: left">
+</div>
+
+</div><div id="left-wrapper">
 				<span class="msubnav"><a href="contact.php?page_id=2">» About Us</a></span>
 						<span class="msubnav"><a href="contact.php?page_id=4">» Terms of Use</a></span>
 						<span class="msubnav"><a href="contact.php?page_id=5">» Privacy</a></span>
@@ -68,7 +157,13 @@ function clearText()
 						<span class="msubnav"><a href="contact.php?page_id=7">» Site Map</a></span>
 						<span class="msubnav"><a href="contact.php?page_id=8">» RSS Feeds</a></span>
 						<span class="msubnav"><a href="contact.php?page_id=9">» Warranty</a></span>
-				<img src="/templates/images/right-detail.gif" width="278" height="310" alt=""><br>
+				<!--<img src="/templates/images/right-detail.gif" width="278" height="310" alt="" /><br />-->
+    
+    <br>&nbsp;<br>
+    <p><a href="livechat/choosedepartment.php" target="_blank"><img src="/templates/images/livechat.jpg" border="0"></a></p>
+    <p><a href="http://www.cmstorm.com" target="_blank"><img src="/templates/images/storm.jpg" border="0"></a></p>
+    <p><a href="http://www.choiix.com" target="_blank"><img src="/templates/images/choiix.jpg" border="0"></a></p>
+    
 </div>
 <script type="text/javascript">
 <!--
@@ -92,23 +187,40 @@ key.style.fontWeight = 'bold';
 </script>
 
 <div id="right-wrapper">
-	<div id="sub-flash">
+	<!--<div id="sub-flash">
 	<script type="text/javascript">
         // <![CDATA[
         var so = new SWFObject("/templates/swf/cooler_master_contact.swf", "contact", "703", "194", "9", "#FFFFFF");
         so.write("sub-flash");
         // ]]>
-    </script></div>
+    </script></div>-->
 
 		<div id="sub-cnt">
-
-			<div id="breadcrumbs">
+        
+        	<script type="text/javascript">
+			var current_tab = 'livehelp';
+			function switchContent(name){
+				document.getElementById('tab_'+ current_tab).className = '';
+				document.getElementById('tab_'+ name).className = 'selected';
+				document.getElementById('tab_'+ name).style.color = '#7b0175';
+				document.getElementById('tab_'+ current_tab).style.color = 'white';
+				document.getElementById('contact_'+ current_tab).style.display = 'none';
+				document.getElementById('contact_'+ name).style.display = 'block';
+			
+				current_tab = name;
+			}
+			</script>
+            
+            <img src="/templates/images/contact_us_topbanner.png" border="0" width="692" height="118" style="margin-top:5px; margin-left:8px;">
+            <div id="breadcrumbs">
 				<a href="index.php">Home</a>
 			 / 			<b>Privacy</b>
-			</div>
-			<a name="top"></a>
-
-			<div class="sub-txt">
+			</div><div style="height:50px;"></div>            &nbsp;
+			<table style="margin-left:5px; margin-top:-27px; width:692px;" cellpadding="0" cellspacing="0">
+			                <tbody><tr><td style="background:url(/templates/images/prod-nav_bg.png) no-repeat; margin-left:5px; width:692px;" height="40" align="center">
+                </td></tr><tr><td style="background:url(/templates/images/prod-bg.png) repeat-y; margin-left:5px;" align="left">
+                <div style="width:650px;">
+                <div class="sub-txt">
 			<b>Cooler Master Privacy Policy</b><br><br>
 			Cooler Master takes your privacy seriously.<br>
 			Please read the following to learn more about our privacy policy.<br><br>
@@ -168,7 +280,15 @@ key.style.fontWeight = 'bold';
 			</ul>
 			It's not neccessary to come in person, please contact us with above information, thank you.<br><br>
 			Effective Date: January 1, 2007
-		</div>			
+		</div>                </div>
+                </td></tr><tr><td style="margin-left:5px;"><img src="/templates/images/prod_bot.png" border="0"></td></tr>
+                <tr><td height="10"></td></tr>
+                </tbody></table>
+                            
+            
+            
+			
+			
 		</div>
 	</div>	<div id="footer">
 		<div id="footer-nav">
