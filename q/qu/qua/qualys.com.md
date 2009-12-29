@@ -1,33 +1,47 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621092515id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229190709id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Qualys
 
-Qualys® respects your online privacy. We understand and appreciate your need to control your personal data that you share with us.
+This Privacy Statement Highlights provides a high-level summary of Qualys' entire [Privacy Statement](https://web.archive.org/company/privacy/statement/). Qualys provides these highlights as a convenience to you but should not be considered the fully Privacy Statement of Qualys.
 
-### Notice and Disclosure
+### Overview
 
-Qualys has established this Online Privacy Policy to make you aware of how we intend to treat your personal information.
+Qualys® is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. [Click here](https://web.archive.org/company/privacy/statement/#Safe%20Harbor) to read about Qualys' participation in Safe Harbor.
 
-Qualys collects individual information including but not limited to a first name, last name, physical address, an e-mail address or other contact information. In general, you can visit Qualys' web pages without telling us who you are or revealing any personal information about yourself.
+### Web Sites Covered
 
-If you choose to provide us with your personal information on the web, we may transfer that information within Qualys or to business partners for marketing purposes.
+This Privacy Statement applies to Qualys Web sites that link to this Privacy Statement:  
+[http://www.qualys.com](https://web.archive.org/);  
+[https://qualysguard.qualys.com](https://qualysguard.qualys.com/);  
+[https://pci.qualys.com](https://pci.qualys.com/);  
+[https://freescan.qualys.com](https://freescan.qualys.com/);  
+[https://sans20.qualys.com](https://sans20.qualys.com/); and  
+[https://freemap.qualys.com](https://freemap.qualys.com/) (collectively referred to as "Qualys Web sites").
 
-### Choice
+Qualys Web sites may contain links to other Web sites. Qualys is not responsible for the information practices or the content of such other Web sites. Qualys encourages you to review the privacy statements of other Web sites to understand their information practices.
 
-You may choose whether or not to provide personal information to Qualys. You have the choice to opt-out of receiving information from Qualys. If you choose not to provide the personal information we request, you can still visit most of Qualys' web sites, but you may be unable to access certain options, offers and services that involve our interaction with you.
+### Statistical Information About Your Visit
 
-If you chose to have a relationship with Qualys, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+When you visit Qualys Web sites, our systems collect personal information (in the manner described above) and statistical or non-personally identifiable information about your visit to our sites (e.g. IP address, pages visited, origin of visitor domains, and types of browsers used). However, unless you actively submit personal information, we do not typically identify you via the non-personally identifiable information. Notwithstanding the foregoing, to the extent permitted by applicable law, we reserve the right to combine non-personally information with personal information that you have actively submitted.
 
-### Data Security
+### Qualys Supported Blogs and Forums
 
-Wherever your personal information may be held within Qualys or on its behalf, we intend to take reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure.
+If you use a blog or forum, or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Qualys is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the applicable Terms of Use or other terms and conditions set forth on the relevant forum site.
 
-### Data Accuracy
+### Your Ability to Opt-Out of Further Notifications
 
-It is important to Qualys to maintain accurate data. We are working on ways to make it easier for you to correct the information that we obtain about you. If ever you'd like to change your information, please visit us at [https://www.qualys.com/company/compref](https://web.archive.org/company/compref).
+From time-to-time, we notify visitors of our Sites of new products, announcements, upgrades and updates unless you have opted out of these notices. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
 
-### Use of Cookies
+If you would like to change your preferences online, please visit [http://www.qualys.com/company/compref/](https://web.archive.org/company/compref/). Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our products or services.
 
-A cookie is a small data structure that allows a web site to store information on your web browser. Cookies help identify returning users so that we don't ask your contact information with every visit. A cookie will contain the information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites.
+### Our Security Procedures
 
-You can reject or accept cookies when your browser alerts you of its presence.
+We consider the protection of all personal information we receive from our Web site visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
+
+### EU Safe Harbor
+
+Qualys self-certifies in compliance with the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to personal data about individuals in the EEA that subsidiaries, customers, suppliers and other businesses in the EEA send to Qualys. [Click here](https://web.archive.org/company/privacy/statement/#Safe%20Harbor) to to read about Qualys' participation in EU Safe Harbor.
+
+### How to Contact Qualys
+
+If you have questions or would like additional information about Qualys' Privacy Statement, please contact Qualys at **_1600 Bridge Parkway, Suite 201, Redwood Shores, CA 94065_** , telephone: **_650.801.6100_** , or fax: **_650.801.6101_**.
