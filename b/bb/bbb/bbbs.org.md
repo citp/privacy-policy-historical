@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2006-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060608135000id_/http%3A//www.bbbsa.org/site/pp.asp%3Fc%3DiuJ3JgO2F%26b%3D14614) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229172658id_/http%3A//www.bbbs.org/privacy) for the most accurate reproduction.*
 
-# privacy notice - Big Brothers Big Sisters
+# Privacy
 
 We at Big Brothers Big Sisters of America (“BBBS”) respect your concerns about privacy and value the trust you have placed in us.   This Privacy Notice describes the types of personal information we collect, how we may use that information, and with whom we may share it.  Our Privacy Notice also describes the measures we take to protect the security of the information.  In addition, we describe the choices you can make about how we use the information you provide to us.  We tell you how you can update your contact information, remove your name from our mailing list, or answer any questions you may have about our privacy practices.
 
-We collect and use information about you to communicate with you about our products, services, promotions, programs and events.   We also collect information to improve your website experience, enroll Big Brothers and Big Sisters and children and youth; enable you to make donations to BBBS, enable you to keep in touch with BBBS alumni, and enable you to stay informed on legislative issues important to BBBS.  Here are the ways we obtain information about you and the types of information we obtain.  We also tell you how we use the information.
+We collect and use information about you to communicate with you about our products, services, promotions, programs and events, and to customize our communications in those areas. We also collect information to improve your website experience, enroll Big Brothers and Big Sisters and children and youth; enable you to make donations to BBBS, enable contact with BBBS alumni, and enable you to stay informed on legislative issues important to BBBS. Here are the ways we obtain information about you and the types of information we obtain. We also tell you how we use the information.
 
-**_Register for Our Newsletter._**     When you ask us to send you our newsletter, you provide us with your email address and/or postal address so we can fulfill your request.
+**_Register for Our Newsletter._**     When you ask us to send you our newsletter, you provide us with your email address so we can fulfill your request.
 
 **_Purchases._**     When you order or purchase a BBBS product, you may choose to give us contact and payment information (such as credit card information) so we may process your order.  When you pay for a BBBS product using a credit card, we use your credit card information only to fulfill your order and for other internal purposes.
 
-**_Contact Us Link._**     If you contact us via our website, we may   ask you for information such as your name, address and email address so we can respond to your questions or comments.  Unless you consent, we do not retain this information except to respond to your inquiries.
+**_Contact Us Link._**     If you contact us via our website, we may  ask you for information such as your name, address and email address so we can respond to your questions or comments.  Unless you consent, we do not retain this information except to respond to your inquiries.
 
 **_Website._**    Like many organizations, we use cookies and log files on our website. Cookies are small text files that websites often store on the computer hard drives of visitors to their sites. A cookie contains a unique code, which is used to recognize your computer when a user of your computer returns to a website that was visited previously. Log files are small text files that websites automatically create when a user visits a site. We use cookies and log files to enhance the online experience of our visitors and to better understand how our site is used. Cookies and log files may tell us, for example, whether you have visited our site before or whether you are a new visitor.
 
@@ -22,11 +22,9 @@ We collect and use information about you to communicate with you about our produ
 
 **_eCards._**     You may ask us to send an eCard on your behalf.  We do not use any personal information you provide in connection with sending an eCard except to send the eCard.
 
-**_Alumni Reconnect._**     You may ask us to help you reconnect with a former Big or Little.  We collect certain information to help us make the connection, such as dates and location of service.  We use the information you provide to contact the person you are seeking to request that person’s permission to share his or her contact information with you.
-
 **_Participate in Contests and Sweepstakes._**     When you sign up to participate in one of our contests or sweepstakes, you may provide us with information such as your name or email address.    We may use the information to enter you in the contest or sweepstakes and contact you if you win.  Also, unless you previously asked us not to send you our newsletter, we will add your email address to our newsletter list.   If you do not want to receive information about BBBS, you may choose not to participate in our contests and sweepstakes.
 
-**_Donations._**     You also give us contact information and credit card or checking information so we can process your donation.  We use this information only for that purpose.
+**_Donations._**     You also give us contact information and credit card or checking information so we can process your donation. We use this information for that purpose and to customize our communication with you.
 
 **_Other Ways We May Use Information to Provide Services._**     You may provide us with survey information to help us learn more about your preferences.  We maintain information you provide to us in our database to provide you with the information, goods or services you have requested.
 
@@ -38,19 +36,18 @@ BBBS’s products, services, promotions and programs will change over time.   
 
 The BBBS website may contain links to other websites that operate independently of BBBS and are not under our control.   We provide links to those sites solely for your convenience and information.  Those sites have their own privacy notices, which we suggest you review if you visit any linked sites.  BBBS is not responsible for information that is provided by those sites or for any other use of the sites.
 
-[Click here](http://www.bbbsa.org/site/lookup.asp?c=iuJ3JgO2F&b=14848) to update the contact information you have given us.
+Please email us to indicate that you would want to change the contact information we have for you.  Please email us from the email address we would have on file so we can verify ownership.
+
+Email us at [bigbrothersbigsisters@bbbs.org](mailto:bigbrothersbigsisters@bbbs.org).
 
 We will send you email only if you have provided us with your email address and have asked us to communicate with you this way.
 
-If you prefer not to receive information from us, please update your preference by [clicking here](http://www.bbbsa.org/site/lookup.asp?c=iuJ3JgO2F&b=14848).
+Please email us to indicate that you would like to unsubscribe from our mailings.  Please email us from the email address we would have on file so we can verify ownership.
 
-If you have any questions about BBBS’s privacy practices,  [click here](http://www.bbbsa.org/site/lookup.asp?c=iuJ3JgO2F&b=14604).
+Email us at [bigbrothersbigsisters@bbbs.org](mailto:bigbrothersbigsisters@bbbs.org).
+
+If you have any questions about BBBS’s privacy practices,  [click here](http://www.bbbs.org/contactus).
 
 99997.026302 NEW_YORK 177259v2
 
-  DATED:   January 8, 2004
-
-Hunton and Williams  
-Center for Information Policy Leadership  
-New York, NY  
-<http://www.hunton.com/>
+  DATED:   May 1, 2006
