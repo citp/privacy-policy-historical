@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 24seventalent.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204248id_/http%3A//www.24seventalent.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24seventalent.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229194639id_/http%3A//www.24seventalent.com/about/privacy) for the most accurate reproduction.*
 
-# 24Seven Talent
+# 24 Seven Talent
 
 #### Effective Date: 09/08/2004
 
