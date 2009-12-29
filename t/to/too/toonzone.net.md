@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toonzone.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629033126id_/http%3A//www.toonzone.net/tos.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonzone.net privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229015526id_/http%3A//www.toonzone.net/tos.php) for the most accurate reproduction.*
 
-# Toon Zone - Terms of Service and Privacy Policy
+# Toon Zone - Terms of Service Privacy Policy
 
 **Terms of Use**
 
