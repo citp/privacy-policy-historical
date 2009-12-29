@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625134825id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229103559id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - United States House of Representatives, 111th Congress, 1st Session
 
