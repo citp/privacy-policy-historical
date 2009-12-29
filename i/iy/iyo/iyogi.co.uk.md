@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181419id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229013618id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# iYogi Technical Support
+# iYogi: Privacy Policy
 
 This privacy policy discloses the practices for iYogi Inc (“iYogi”) to protect privacy for users of its “Toolbar” beta users. From herein, the "Service" is defined as the user support services owned and operated by iYogi and the “iYogi Toolbar” or “Toolbar” is defined as the desktop toolbar supplied by iYogi to identified users during the Beta Testing phase. Submitting your information on our website or through the toolbar constitutes acceptance of this Privacy Policy.
 
