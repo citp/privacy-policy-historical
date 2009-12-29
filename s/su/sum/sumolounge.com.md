@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627115638id_/http%3A//www.sumolounge.com/privacy.php%3Fre%3Dna) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229034819id_/http%3A//www.sumolounge.com/privacy.php%3Fre%3Dna) for the most accurate reproduction.*
 
-# Sumolounge: Urban Lounge Gear - Privacy Policy
+# Sumo Lounge Bean Bag Store | Privacy Policy
 
 Sumolounge also makes protecting your privacy a top priority:
 
