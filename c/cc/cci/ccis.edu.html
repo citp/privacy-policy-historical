@@ -1,95 +1,176 @@
-<!--The following is the downloaded HTML source of the ccis.edu privacy policy that was archived on 2008-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080412052232id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccis.edu privacy policy that was archived on 2009-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229051318id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Columbia College Privacy Policy</title>
-<meta name="description" content="Columbia College Columbia College, providing adult education, distance learning, online degrees and education at more than 30 campuses across the country. Get an associate, bachelor, or master degree at Columbia College. With day and evening courses available in Columbia, MO, online degree programs, and 33 extended campuses across the United States, Columbia College has a degree program to meet your needs.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Columbia College Privacy Policy</title>
+<meta name="description" content="Columbia College Columbia College, providing adult education, distance learning, online degrees and education at more than 30 campuses across the country. Get an associate, bachelor, or master degree at Columbia College. With day and evening courses available in Columbia, MO, online degree programs, and over 30 Nationwide Campuses across the United States, Columbia College has a degree program to meet your needs.">
 <meta name="keywords" content="columbia college policies,policies,copyright,privacy,equal opportunity,affirmative action,ada,policy">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript" src="/jsfunctions.js" language="Javascript"></script>
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="stylesheet" href="/css/interior.css" type="text/css">
+<script type="text/javascript" src="/includes/jquery.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/ui/ui.core.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/ui/ui.tabs.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/ui/ui.dialog.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/bgiframe/jquery.bgiframe.pack.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/ui/effects.core.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/ui/effects.blind.js"></script>
 
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link href="/css/bodyandsoul.css" rel="stylesheet" type="text/css">
+<!--[if (lte IE 7)]> <link rel="stylesheet" type="text/css" href="/css/ie-interior.css" media="screen" /> <![endif]-->
+<!--[if IE 6]> <link rel="stylesheet" type="text/css" href="/css/ie6-interior.css" media="screen" /> <![endif]-->
 
 
-  
+<style type="text/css">
+<!--
+	#banner-campuses h1 a, #banner-campuses h1 {background-image:url(/img/collegewidelogo.png);}
+
+-->
+</style>
+<!--[if IE 6]>
+<style>
+	#banner-campuses h1 a, #banner-campuses h1 {background-image:url(/img/banners/collegewidelogo.gif);}
+</style>
+<![endif]-->
 
 
 
-<!-- start extras -->
 
-<!-- end extras -->
+
+
+<script type="text/javascript">
+	var calendarLoaded = 0;
+
+	$(document).ready(function(){
+		// show the Calendar when the Calendar link is clicked.
+		$("#calendar_link").click(function(event){
+			$("#calendar").dialog('open');
+			event.preventDefault();
+
+			// load the calendar events
+			if (calendarLoaded == 0)
+			{
+				$.ajax({
+					type:"POST",
+					url:"/calendar_feeder.asp",
+					data:"eventType=Academic&numberRequested=5&campusType=Main",
+					dataType:"html",
+					async:false,
+					success: function(msg){ if (msg != "") {$("#academic_calendar_links").html(msg);}}
+				});
+				$.ajax({
+					type:"POST",
+					url:"/calendar_feeder.asp",
+					data:"eventType=Event&numberRequested=4&campusType=Main",
+					dataType:"html",
+					async:false,
+					success: function(msg){ if (msg != "") {$("#event_calendar_links").html(msg);}}
+				});
+				calendarLoaded = 1;
+			}
+		});
+
+		// create the Calendar dialog (pop-up) and keep it hidden for now.
+		$("#calendar").dialog({autoOpen: false, bgiframe:true, resizable:true, position:['center', 'top'], width:900, height:452, show:'blind', hide:'blind'});
+
+		// Blank out the word 'Search' when the user clicks inside the textbox.
+		$("#search_box").focus(function(event){
+			this.value = "";
+		});
+
+		// Put the word 'Search' when the user clicks off the textbox if and there is no text.
+		$("#search_box").blur(function(event){
+			if (this.value == "") {this.value = "Search"};
+		});
+
+		$("#close_calendar").click(function(event){
+			event.preventDefault();
+			$("#calendar").dialog('close');
+		});
+	});
+</script>
 </head>
-<body id="bodyshort" link="#FFFFFF" vlink="#CCCCCC" alink="#99CC99" onload="MM_preloadImages('/images/menu4/aboutonline_hi.gif','/images/menu4/admissions_hi.gif','/images/menu4/academics_hi.gif','/images/menu4/newsroom_hi.gif','/images/icons/day_icon3.gif','/images/icons/evening_icon3.gif','/images/icons/nationwide_icon3.gif','/images/icons/online_icon3.gif','/images/icons/graduate_icon3.gif')">	
-<a name="top"></a>
-<div id="menuwrapper2"> <!-- use div menuwrapper2 for pages with short-style header because header height is different -->
-<table id="CCbanner" width="753" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr> 
-    <td class="white" width="99" id="triangletoptd">&nbsp;</td>
-    <td colspan="2" id="utilities">
-	 <a href="/" title="CC Home">CC HOME</a>
-	  &nbsp; &nbsp; &nbsp;<a href="https://www.ccis.edu/eServices/" title="eServices">eSERVICES</a>
-	  &nbsp; &nbsp; &nbsp;<a href="https://epayment.ccis.edu/c20609_tsa/web" title="ePayment">ePAYMENT</a>
-	  &nbsp; &nbsp; &nbsp;<a href="http://www.ccis.edu/directory/siteindex.asp" title="Site Map">SITE INDEX</a>
-	  &nbsp; &nbsp; &nbsp;<a href="http://www.ccis.edu/contact/" title="Contact Us">CONTACT</a> 
-      &nbsp; &nbsp; &nbsp;<a href="http://www.ccis.edu/help/" title="Help">HELP</a></td>
-  </tr>
-  <tr valign="top"> 
-    <td height="2" class="green"><img name="trianglemiddle" src="/images/header/trianglemiddle.gif" width="99" height="2" border="0" alt=""></td>
-    <td height="2" class="green"><img src="/images/spacer.gif" width="1" height="2" border="0" alt=""></td>
-  </tr>
-  <tr valign="top"> 
-    <td rowspan="3" class="navy" height="57"><a href="http://www.ccis.edu" title="CC home"><img name="trainglebtm" src="/images/header/trainglebtm.gif" width="99" height="57" border="0" alt="Columbia College logo"></a></td>
-    <td class="bgheaderfade-new" align="center" height="35"><img src="/images/header/logo-columbia.gif" alt="Columbia College" name="logocolumbia" border="0"></td>    
-    <td valign="middle" align="right" class="bgheader-new"><form action="http://www.ccis.edu/sitesearch.asp" id="searchbox_000278345938292922905:6h6wwg7gcse">
-        <table width="200" border="0" cellspacing="0" cellpadding="0" align="right">
-          <tbody><tr> 
-            <td class="searchfont"><label>SEARCH</label></td>
-            <td><input name="q" type="text" class="searchbox" size="10" maxlength="255" value="">
-				<input type="hidden" name="cx" value="000278345938292922905:6h6wwg7gcse">
-				<input type="hidden" name="cof" value="FORID:11">
-            </td>
-            <td><input type="image" name="sa" value="Google Search" src="/images/header/go_btn.gif"></td>
-          </tr>
-        </tbody></table></form> 
-    </td>
-  </tr>
-  <tr valign="top"><!-- begin cute icons -->
-    <td height="1" width="225" bgcolor="white"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-    <td height="1" class="navy"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-  </tr>
-  <tr> 
-    <td height="15" align="center" valign="top" nowrap="" class="navy"><a href="http://www.ccis.edu/"><img src="/images/header/logo-college.gif" alt="Columbia College" name="logocollege" border="0"></a></td>
-    <td class="navy" align="right" colspan="2"><a href="http://www.ccis.edu/day/" class="iconlink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('day_icon','','/images/icons/day_icon3.gif',1)">
-              <img src="/images/icons/day_icon1.gif" alt="Day Campus" name="day_icon" width="22" height="22" border="1"></a>
-			  <a href="http://www.ccis.edu/evening/" class="iconlink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('evening_icon','','/images/icons/evening_icon3.gif',1)">
-              <img src="/images/icons/evening_icon1.gif" alt="Evening Campus" name="evening_icon" width="22" height="22" border="1"></a>
-			  <a href="http://www.ccis.edu/nationwide/" class="iconlink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nationwide_icon','','/images/icons/nationwide_icon3.gif',1)">
-              <img src="/images/icons/nationwide_icon1.gif" alt="Nationwide Campuses" name="nationwide_icon" width="22" height="22" border="1"></a>
-			  <a href="http://www.ccis.edu/online/" class="iconlink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('online_icon','','/images/icons/online_icon3.gif',1)">
-              <img src="/images/icons/online_icon1.gif" alt="Online Campus" name="online_icon" width="22" height="22" border="1"></a>
-			  <a href="http://www.ccis.edu/graduate/" class="iconlink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('graduate_icon','','/images/icons/graduate_icon3.gif',1)">
-            <img src="/images/icons/graduate_icon1.gif" alt="Graduate Studies" name="graduate_icon" width="22" height="22" border="1"></a></td> <!-- end cute icons -->
-  </tr>
-</tbody></table>
+<body>
+<div id="container" class="clearfix">
+<ul id="topNav_interior" class="clearfix">
+<li id="eServices"><a href="/eServices" title="eServices" name="top">eServices</a></li>
+<li id="cougarMail"><a href="https://mail.google.com/a/cougars.ccis.edu" title="CougarMail">CougarMail</a></li>
+<li id="calender"><a id="calendar_link" href="/newsroom/academic.asp" title="Calender">Calendar</a></li>
+</ul>
+
+<div id="banner-campuses">
+	<h1><a href="/" title="Columbia College">Columbia College</a></h1>
+    
+</div>
+<!--end banner-->
+
+<ul id="search-links">
+<li><a href="/directory/siteindex.asp" title="Site Index">A-Z Index</a>&nbsp;|</li>
+<li><a href="/directory" title="Directories">Directories</a>&nbsp;|</li>
+<li><a href="/contact/" title="Contact">Contact</a></li>
+</ul>
+<!--end search links-->
+
+<div id="searchform">
+<form method="get" action="/sitesearch.asp">
+<input id="search_box" class="box" type="text" name="q" value="Search">
+<input type="hidden" name="cx" value="000278345938292922905:6h6wwg7gcse">
+<input type="hidden" name="cof" value="FORID:11">
+<input class="btn" type="image" name="sa" value="" title="Search" src="/img/search-box-btn.jpg">
+</form>
 </div>
 
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-	</script>
-	<script type="text/javascript">
-	_uacct = "UA-31636-32";
-	urchinTracker();
-	</script>
-	
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-	</script>
-	<script type="text/javascript">
-	_uff=0; 
-	_uacct = "UA-1746444-1";
-	urchinTracker();
-	</script>
-<!-- End  header section -->	
+<ul id="iconNav" class="clearfix">
+<li class="day"><a href="/day" title="Day">Day</a></li>
+<li class="evening"><a href="/evening" title="Evening">Evening</a></li>
+<li class="online"><a href="/online" title="Online">Online</a></li>
+<li class="nation"><a href="/nationwide" title="Nationwide">Nationwide</a></li>
+</ul>
 
+<div id="calendar" style="display:none;">
+<h2>Calendars</h2>
+<a href="/" class="close" id="close_calendar"></a>
+
+<div class="shell" id="events">
+<h3>Events</h3>
+
+<ul id="event_calendar_links" class="calendar-links">No events scheduled.</ul>
+
+<div class="rule"><hr></div>
+
+<ul class="calendar-links">
+<li><a href="http://www.columbiacougars.com/">Cougar athletics schedule</a></li>
+<li><a name="Activities Calendar" id="Activities Calendar" href="/cougarlink" target="_blank">CougarLink</a></li>
+</ul>
+</div><!--end events shell-->
+
+
+<div class="shell" id="academics">
+<h3>Academic Calendar</h3>
+
+<ul id="academic_calendar_links" class="calendar-links">Nothing on the academic calendar at this time.</ul>
+
+<div class="rule"><hr></div>
+
+<ul class="calendar-links">
+<li><a href="/day/newsroom/academic.asp">Day Campus calendar</a></li>
+<li><a href="/evening/newsroom/academic.asp">Evening Campus calendar</a></li>
+<li><a href="/nationwide/ESDnewsroom/academic.asp">Nationwide Campus calendar</a></li>
+<li><a href="/online/newsroom/academic.asp">Online Campus calendar</a></li>
+</ul>
+
+</div><!--end events shell-->
+</div><!--end calender-->
+
+<!--begin google analytics tracking code-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1746444-1");
+pageTracker._trackPageview();
+</script>
+<!--end google analytics tracking code-->
 
 <div id="topwrapper_inner">
 
@@ -100,11 +181,20 @@
 	<a href="/policies/index.asp" class="menu">Policies Home</a>    
 	<a href="/policies/privacy.asp" class="menu">Privacy Policy</a>
 	<a href="/policies/copyright.asp" class="menu">Copyright Information</a>
-	<a href="/policies/eoaa.asp" class="menu">Equal Opportunity &amp; Affirmative Action</a>
-	<a href="/policies/ada.asp" class="menu">ADA Policy</a>
-	<a href="/policies/studentconduct.asp" class="menu">Student Conduct Policy</a>
+    
+   	<div class="menusubhead">Conduct</div>
+	<a href="/policies/studentconduct.asp" class="menu">Student Conduct Policy</a>    
+        
+   	<div class="menusubhead">Computer and E-mail</div>
+    <a href="/policies/computer_use_policy.asp">Computer Use Policy</a>
 	<a href="/policies/ethicscode.asp" class="menu">Computer Ethics Code</a>
-	<a href="/policies/facultyemailpolicy.asp" class="menu">Faculty Email Policy</a>
+	<a href="/policies/facultyemailpolicy.asp" class="menu">Faculty E-mail Policy</a>
+	<a href="/policies/student_email_policies.asp" class="menu">Student E-mail Policy</a>
+	<a href="/policies/alumni_email_policies.asp" class="menu">Alumni E-mail Policy</a>
+    
+    <div class="menusubhead">Nondiscrimination</div> 
+<a href="/policies/eoaa.asp" class="menu">Equal Opportunity &amp; Affirmative Action</a>
+	<a href="/policies/ada.asp" class="menu">ADA Policy</a>
 </div>
 <!-- end Menu -->
 <a name="maincontent"></a>
@@ -172,35 +262,41 @@
 	</div> <!-- end #maincontent -->
 </div> <!-- end #topwrapper -->
 
-<!-- start footer section-->
-<p style="clear:both">&nbsp;</p>
-<div id="footer">	
-<div id="ftop">&nbsp;</div>
-<div class="innerpadding">
-<a href="#top" class="footer" title="Jump to top of page"><img src="/images/interface/arrow-top_white.gif" alt="top" border="0"> TOP</a>&nbsp;&nbsp;|&nbsp; 
-<a href="http://www.ccis.edu/day/" class="footer" title="Day Campus">DAY&nbsp;CAMPUS</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/evening/" class="footer" title="Evening Campus">EVENING&nbsp;CAMPUS</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/nationwide/" class="footer" title="Nationwide/Extended Campuses">NATIONWIDE&nbsp;CAMPUS</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/online/" class="footer" title="Online Campus">ONLINE&nbsp;CAMPUS</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/graduate/" class="footer" title="Graduate Studies">GRADUATE&nbsp;STUDIES</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/about/" class="footer" title="About Columbia College">ABOUT&nbsp;CC</a>&nbsp;&nbsp;|&nbsp;  		
-	<a href="http://www.ccis.edu/newsroom/" class="footer" title="News room">NEWSROOM</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/offices/humanresources/vacancies.asp" class="footer" title="Jobs">JOBS</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.columbiacougars.com/" class="footer" title="Cougar Sports">COUGAR&nbsp;SPORTS</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="https://www.ccis.edu/eServices/" class="footer" title="eServices">eSERVICES</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/directory/siteindex.asp" class="footer" title="Site Index">SITE INDEX</a>&nbsp;&nbsp;|&nbsp; 
-	<a href="http://www.ccis.edu/directory/" class="footer" title="Faculty and Staff Directory">DIRECTORY</a> 
-		 
-	<p class="copyright"> 
-	Columbia College of Missouri • Main Campus: 1001 Rogers Street • Columbia Missouri 65216 • (573) 875-8700 or (800) 231-2391<br>
-	<a href="http://www.ccis.edu/online/contact/" class="footer">Contact Us</a> | 
-	©1999-2008 <a href="http://www.ccis.edu/policies/copyright.asp" class="footer">Copyright information</a> | 
-	<a href="http://www.ccis.edu/policies/" class="footer">Policies</a> |   
-	Columbia College is an <a href="http://www.ccis.edu/policies/eoaa.asp" class="footer">AA/EO employer</a>.
+<div id="bottom"></div>
+</div>
 
-		 </p> 
-</div> 
-</div> <!-- end div footer -->
+<div id="footer">
+<div id="footer-wrap">
+
+<div class="license">
+<ul>
+<li><a href="/">Home</a></li> |
+<li><a href="/offices/development/giving.asp">Give To CC</a></li> |
+<li><a href="/offices/humanresources/vacancies.asp">Employment</a></li> |
+<li><a href="/apply/requestcampus.asp">Request Admissions Info</a></li> |
+<li><a href="/newsroom">Newsroom</a></li> |
+<li><a href="/emergency/">Emergency Info</a></li> |
+<li><a href="/help">Help</a></li>
+</ul>
+</div>
+
+<p>
+Main campus: 1001 Rogers Street • Columbia MO 65216
+</p>
+<!--end section-->
+
+<p>
+Tel: (573) 875-8700 or (800) 231-2391
+</p>
+
+<p>
+<a href="/policies/copyright.asp">©1999-2009 Copyright information</a> • <a href="/policies/privacy.asp">Privacy Policy</a>
+</p>
+<!--end section-->
+
+</div><!--end footer-wrap-->
+</div><!--end footer-->
+
 
 
 <!-- end footer section -->
