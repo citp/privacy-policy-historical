@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scooterdepot.us privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615171927id_/http%3A//www.scooterdepot.us/Privacy-Policy-sp-9.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scooterdepot.us privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229142634id_/http%3A//www.scooterdepot.us/Privacy-Policy-sp-9.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Sunny Sports Inc. ScooterDepot for Sale
 
@@ -10,5 +10,3 @@ While an order is placed, information including your name, e-mail address, conta
 
 We are committed to data security with respect to information collected on our site. Our industry standard online security order system SSL is here to ensure your information is protected both online and off-line; and ensure you a positive online shopping experience.   
 If you have any questions about our privacy policy, please feel free to contact our customer service department during our normal business hour at 1-888-839-7088 Monday through Friday from 9:00am to 5:00pm Pacific Standard Time. 
-
- 
