@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630142004id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229042724id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
