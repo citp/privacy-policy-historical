@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the linerider.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602212908id_/http%3A//linerider.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linerider.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229203354id_/http%3A//www.linerider.com/terms.aspx) for the most accurate reproduction.*
 
-# Privacy Policy, Terms & Conditions | Line Rider
-
-**Privacy Policy, Terms & Conditions**
+# Line Rider
 
 (last updated 1/14/09)
 
