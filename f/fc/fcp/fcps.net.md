@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001547id_/http%3A//fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229033655id_/http%3A//fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
