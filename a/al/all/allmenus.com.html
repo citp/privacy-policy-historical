@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allmenus.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627075232id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allmenus.com privacy policy that was archived on 2009-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229220408id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
  <title>Your Privacy Rights</title>
@@ -15,128 +15,293 @@
   GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-4097627658675326", "am_leaderboard_home");</script>
+GA_googleAddSlot("ca-pub-4097627658675326", "am_box_results");GA_googleAddSlot("ca-pub-4097627658675326", "am_box_results_b");</script>
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#330066" alink="#FF0000">
+<div id="mgBox" class="mgBox" style="visibility:hidden;"></div>
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+<!-- ClickTale Top part -->
 <script type="text/javascript">
-try {
-_uacct = "UA-1071671-1";
-urchinTracker();
-} catch(err) {}</script>
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript"> _qoptions={qacct:"p-b00GdNNKkB9Fg"};</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript><a href="http://www.quantcast.com/p-b00GdNNKkB9Fg" target="_blank">
-<img src="http://pixel.quantserve.com/pixel/p-b00GdNNKkB9Fg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-
-
-<div class="toplevel" id="header">
-	<div id="ad730">
-		<script type="text/javascript">
-			GA_googleFillSlot("am_leaderboard_home")
-		</script>
-	</div>
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+<a name="top"></a>
 	
-	<div id="topnavigation" class="generic">
-		<div id="placephoto" style="background: url('/img/places/default_wrap2.gif') no-repeat top right;"><!-- --></div>
-		<a id="linkhome" href="/">&nbsp;</a>
-	</div>
+    <!-- Google Analytics -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+	<script type="text/javascript" src="/js/jqueryfull.js"></script>
+
+	<script type="text/javascript">
+	function changeRegistrationFocus(loseFocus,gainFocus,switchFocus) {
+		if (switchFocus == true && document.getElementById(gainFocus).value.length == 0) {
+			document.getElementById(gainFocus).style.display='none'; 
+			document.getElementById(loseFocus).style.display='inline';
+		}
+		else if (switchFocus != true) {
+			document.getElementById(loseFocus).style.display='none'; 
+			document.getElementById(gainFocus).style.display='inline';
+			document.getElementById(gainFocus).focus();
+		}
+		
+	}
+	function loadRegistration(requestURI) {
+		var xmlhttp;
+		if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
+		else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+	
+		xmlhttp.onreadystatechange=function()
+		{
+			if(xmlhttp.readyState==4)
+			{
+				document.getElementById("account_container").innerHTML = xmlhttp.responseText
+			}
+		}
+		xmlhttp.open("GET","/register/?ref="+requestURI,true);
+		xmlhttp.send(null);
+	}
+
+	function facebook_invite_users() {
+		 FB.ensureInit(function() {
+			 var fbml = "<fb:request-form action='http://www.allmenus.com/your-privacy-rights/' method='POST' invite='true' type='Allmenus' content='Eating out? Stop by Allmenus.com, the most complete online source for restaurant menus and reviews. Search by neighborhood, cuisine, and price, and always know what to expect before you step out and sit down... Staying in? Order Online from local restaurants with Allmenus.com – access exclusive deals, save your favorites meals, and say goodbye to mixed up orders and busy signals.";
+			 fbml = fbml + '<fb:req-choice url="http://www.allmenus.com" label="View Online Menus Near Me">';
+			 fbml = fbml + "'<fb:multi-friend-selector exclude_ids=''  bypass='cancel' showborder='false' actiontext='Tell your friends about Allmenus'></fb:request-form>";
+			 var dialog = new FB.UI.FBMLPopupDialog('Tell your friends about Allmenus', fbml, true, true);
+			 dialog.setContentWidth(760);
+			 dialog.setContentHeight(540);
+			 dialog.set_placement(FB.UI.PopupPlacement.center);
+			 dialog.show();
+		 });
+	   }
+	   
+	 function facebook_post_to_feed_general() {
+		FB.Connect.showFeedDialog('107175114921','','','', null, FB.RequireConnect.require,null, "What do you think of Allmenus?", '');
+	   }
+	           	
+	function likeItRemove(id,isRestaurant,isList,numVotes){
+		if (isRestaurant)
+			document.getElementById("like_menu").innerHTML = "<div align=\"center\" style=\"padding:5px; color:#cc0000;\">Your vote has been removed!</div>";
+			
+		if (isList) {
+			document.getElementById("likeIt"+id).innerHTML = "<img src=\"/img/results-divider.gif\"  alt=\"\" title=\"\" /><div class=\"like_count\">  "+numVotes+" </div><img src=\"/img/like_off.jpg\" /></div>";
+		}
+
+		if (document.getElementById("likeit_"+id)) {
+			document.getElementById("likeit_"+id).style.display = "none";
+		}
+		
+		var xmlhttp;
+		if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
+		else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+		xmlhttp.open("GET","http://www.allmenus.com/likeit/?likeItRemoveFbId=&likeItRemoveId="+id,true);
+		xmlhttp.send(null);
+	}
+	function addressRemove(id){
+		document.getElementById("address_"+id).style.display = "none";
+		
+		var xmlhttp;
+		if (window.XMLHttpRequest) {xmlhttp=new XMLHttpRequest();}
+		else if (window.ActiveXObject) {xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}
+		xmlhttp.open("GET","http://www.allmenus.com/address/?addressRemoveId="+id,true);
+		xmlhttp.send(null);
+	}
+	function collapse(element) {
+		var divElement = document.getElementById(element);
+		if (divElement.style.display == "block")
+			divElement.style.display = "none";
+		else if (divElement.style.display == "none")
+			divElement.style.display = "block";
+		else
+			divElement.style.display = "none";
+	}
+
+	</script>
+
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript"> _qoptions={qacct:"p-b00GdNNKkB9Fg"};</script>
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+		<noscript><a href="http://www.quantcast.com/p-b00GdNNKkB9Fg" target="_blank">
+			<img src="http://pixel.quantserve.com/pixel/p-b00GdNNKkB9Fg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+		</noscript>
+	<!-- End Quantcast tag -->
+
+
+<script type="text/javascript">
+// <![CDATA[
+$(document).ready( function() {
+	$('a').each(function() {
+		var theHref = this;
+		if (theHref.hostname && theHref.hostname !== location.hostname && theHref.hostname !== 'orders.allmenus.com' && theHref.hostname !== 'dev95.allmenus.com') {
+			$(theHref).not(".noAutoLink").attr('target','_blank').bind('click keypress', function(event) {
+				var code=event.charCode || event.keyCode;
+				if (!code || (code && code == 13)) {
+					if(pageTracker){
+						var fixedLink = this.href;
+						fixedLink = fixedLink.replace(/https?:\/\/(.*)/,"$1");
+						fixedLink = '/outgoing/' + fixedLink;
+						pageTracker._trackPageview(fixedLink);
+					};
+				};
+			});
+		};
+	});
+});
+  // ]]>
+  
+
+
+</script>
+
+
+<div id="header">
+	 <div align="center">
+            <form method="get" id="search">
+                <div id="simple_search">
+                    <div><a href="/"><img src="/img/icons/blank.gif" width="400px" height="65px"></a></div>
+                    <input autocomplete="off" class="quick_search_simple off" id="pre_cityname" value="Hungry?" onfocus="document.getElementById('pre_cityname').style.display='none'; document.getElementById('cityname').style.display='inline';document.getElementById('cityname').focus();">
+                    <input autocomplete="off" class="quick_search_simple on" id="cityname" maxlength="100" mgbox="yes" style="display:none;" value="">
+                </div>			
+                <input id="isquicksearch" name="isquicksearch" type="hidden" value="yes">
+    
+    
+                  <script src="/js/mgbox/mgbox.js" type="text/javascript"></script>
+        			<script language="JavaScript">
+						<!--
+        				//document.getElementById("restname").focus();   
+     			   //-->
+      			  </script>
+            </form>
+        </div>
+        <br clear="all">
+		
 </div>
+   
 
-<div class="toplevel" id="content">
-	<div id="main" class="round">
 
-		<div id="left600">
-	      	<h4>Privacy Policy</h4>
-            <p class="info"><em>Effective September 1, 2008</em></p>
-            <p class="info">Dotmenu and its Campusfood.com and Allmenus.com Web sites are committed to protecting the privacy of their users.  The following statement sets forth the privacy policy of the Campusfood.com and Allmenus.com sites and the manner in which information about you might be used by us.</p>
-            <p class="info">From time to time, we may use information that we collect for new uses not currently or previously disclosed in our privacy notice.  If our information practices do change, we will notify you of these policy changes on our Web sites.  If you are concerned about how your information is used, you should periodically check the Privacy Notice on our Web sites.</p>
-            <p class="info">Please note that this notice does not apply to partners, advertisers, vendors or other third parties who appear on our Web sites or who link to or from our sites.  You should review the privacy policies of those third parties before providing personal information to them.  We do not take any responsibility for the privacy policies, privacy practices or content of such third parties.  If you choose to do business with or provide personal information to such third parties, you do so entirely at your own risk.</p>
-            <p class="info">This Privacy Policy is incorporated by reference in our Web site's Terms of Use, which are binding on all site users.  If you do not agree with this Privacy Policy, please do not participate in the site's features and services that require you to provide personal information. </p> 
+<div id="container">
+
+    <div id="std_header">
+    	<div id="city_info">
+   	        <h1>Privacy Policy</h1>
+			<address>The protection of your personal information and privacy is important to us.</address>				
+			<p>Last updated June 20th, 2009</p>
+        </div>
+   </div>
+	<!-- main city content -->
+	<div id="std_left">
+		<div id="content">
+            <p><em>Effective September 1, 2008</em></p>
+            <p>Dotmenu and its Campusfood.com and Allmenus.com Web sites are committed to protecting the privacy of their users. The following statement sets forth the privacy policy of the Campusfood.com and Allmenus.com sites and the manner in which information about you might be used by us.</p>
+            <p>From time to time, we may use information that we collect for new uses not currently or previously disclosed in our privacy notice.  If our information practices do change, we will notify you of these policy changes on our Web sites.  If you are concerned about how your information is used, you should periodically check the Privacy Notice on our Web sites.</p>
+            <p>Please note that this notice does not apply to partners, advertisers, vendors or other third parties who appear on our Web sites or who link to or from our sites.  You should review the privacy policies of those third parties before providing personal information to them.  We do not take any responsibility for the privacy policies, privacy practices or content of such third parties.  If you choose to do business with or provide personal information to such third parties, you do so entirely at your own risk.</p>
+            <p>This Privacy Policy is incorporated by reference in our Web site's Terms of Use, which are binding on all site users.  If you do not agree with this Privacy Policy, please do not participate in the site's features and services that require you to provide personal information. </p> 
             <h5>Information Collection</h5>
-            <p class="info">We collect personal, demographic and ordering information provided by users when they register with and/or place orders on our Web sites.  This information may include, among other things, names, addresses and other personally identifiable information, email addresses, mobile and other telephone numbers, instant messaging ("IM") addresses, age and date of birth, and product and restaurant preferences.</p>
-            <p class="info">We also collect information provided by users in response to market research surveys or polls. Participation by our customers in such market research is entirely optional and at their discretion.</p>
-            <p class="info">The information that we collect is used by us to provide services on our Web sites, to enhance the services that we provide and to offer you additional products and services in which you might be interested.  In addition, we may from time to time share certain information with third party vendors and advertisers as described below.  </p>
-            <p class="info">In addition, we store information such as page views, computer IP addresses and other statistics in the form of logs.  These logs are used solely to enhance the technical performance of our Web sites.  We also collect information via "cookies," as discussed in detail below.</p>
-            <p class="info">Upon request, we provide Web site visitors with access to transaction information (e.g., dates on which customers made purchases or amounts and types of purchases) and contact information (e.g., name, address and phone number) we maintain about them.</p>
+            <p>We collect personal, demographic and ordering information provided by users when they register with and/or place orders on our Web sites.  This information may include, among other things, names, addresses and other personally identifiable information, email addresses, mobile and other telephone numbers, instant messaging ("IM") addresses, age and date of birth, and product and restaurant preferences.</p>
+            <p>We also collect information provided by users in response to market research surveys or polls. Participation by our customers in such market research is entirely optional and at their discretion.</p>
+            <p>The information that we collect is used by us to provide services on our Web sites, to enhance the services that we provide and to offer you additional products and services in which you might be interested.  In addition, we may from time to time share certain information with third party vendors and advertisers as described below.  </p>
+            <p>In addition, we store information such as page views, computer IP addresses and other statistics in the form of logs.  These logs are used solely to enhance the technical performance of our Web sites.  We also collect information via "cookies," as discussed in detail below.</p>
+            <p>Upon request, we provide Web site visitors with access to transaction information (e.g., dates on which customers made purchases or amounts and types of purchases) and contact information (e.g., name, address and phone number) we maintain about them.</p>
             <h5>Information Sharing</h5>
-            <p class="info">In order to process your food order, we must share the following information every time you place an order with a restaurant: your name, delivery address, food order and credit card information (if applicable).  This information will be provided to the restaurant vendor from who you have ordered as well as any delivery service providers as necessary.  We may also share with such vendors other information that you provide, including telephone numbers, email addresses, IM addresses and other information relating to your order.</p>
-            <p class="info">Occasionally, we may share, sell or rent aggregated (non-personal) market research data with third party partners and vendors.  </p>
-            <p class="info">We may also from time to time share, sell or rent to third party partners or vendors personal information including your name, delivery address and/or billing address, and demographic and ordering information, to enable these partners and vendors to provide you with other offers of potential interest.</p>
-            <p class="info">In addition, we or third party partners or vendors sometimes will provide you with the opportunity to elect to receive email newsletters or other benefits from us or third parties.  When you opt-in with respect to such offers, we may provide the third party partner or vendor with your email address and/or other personal information.</p>
-            <p class="info">From time to time, we may use the information collected to send special offers on behalf of third party partners or vendors (including restaurants), via email, IM or other means. If you accept an offer, we may share your name, address and credit card information with this third party.</p>
-            <p class="info">We sometimes engage third party companies and individuals to perform functions on behalf of Dotmenu, including but not limited to fulfillment and delivery of purchases, credit card payment authorizations, site usage analysis, marketing and promotions.  In such circumstances, we will share information about you or provided by you so that those parties can perform those functions on our behalf.</p>
-            <p class="info">When we share your information with third parties, we require that they take reasonable steps to maintain the security of that information, and to use the information only as we have expressly permitted.</p>
-            <p class="info">We may also disclose your personal information to comply with legal obligations, law enforcement inquiries or where reasonably necessary to protect life, health or property.</p>
-            <p class="info">In the event that Dotmenu or one or more of its Web sites or businesses is sold, merged into or otherwise transferred to or acquired by another entity, your information that we have collected may be transferred to and used by that other entity.</p>
+            <p>In order to process your food order, we must share the following information every time you place an order with a restaurant: your name, delivery address, food order and credit card information (if applicable).  This information will be provided to the restaurant vendor from who you have ordered as well as any delivery service providers as necessary.  We may also share with such vendors other information that you provide, including telephone numbers, email addresses, IM addresses and other information relating to your order.</p>
+            <p>Occasionally, we may share, sell or rent aggregated (non-personal) market research data with third party partners and vendors.  </p>
+            <p>We may also from time to time share, sell or rent to third party partners or vendors personal information including your name, delivery address and/or billing address, and demographic and ordering information, to enable these partners and vendors to provide you with other offers of potential interest.</p>
+            <p>In addition, we or third party partners or vendors sometimes will provide you with the opportunity to elect to receive email newsletters or other benefits from us or third parties.  When you opt-in with respect to such offers, we may provide the third party partner or vendor with your email address and/or other personal information.</p>
+            <p>From time to time, we may use the information collected to send special offers on behalf of third party partners or vendors (including restaurants), via email, IM or other means. If you accept an offer, we may share your name, address and credit card information with this third party.</p>
+            <p>We sometimes engage third party companies and individuals to perform functions on behalf of Dotmenu, including but not limited to fulfillment and delivery of purchases, credit card payment authorizations, site usage analysis, marketing and promotions.  In such circumstances, we will share information about you or provided by you so that those parties can perform those functions on our behalf.</p>
+            <p>When we share your information with third parties, we require that they take reasonable steps to maintain the security of that information, and to use the information only as we have expressly permitted.</p>
+            <p>We may also disclose your personal information to comply with legal obligations, law enforcement inquiries or where reasonably necessary to protect life, health or property.</p>
+            <p>In the event that Dotmenu or one or more of its Web sites or businesses is sold, merged into or otherwise transferred to or acquired by another entity, your information that we have collected may be transferred to and used by that other entity.</p>
             <h5>Customer Communication</h5>
-            <p class="info">Our customer service representatives may use your telephone numbers, e-mail addresses and IM addresses to notify you of the status of your order and for other purposes, such as quality assurance, product safety and customer service matters. </p>
-            <p class="info">In addition, from time to time, we may use the information collected to send special offers on behalf of our Web sites and on behalf of third party partners or vendors (including restaurants), via email, postal mail, IM or other means.  Third party partners and vendors may also send you offers of potential interest. </p>
+            <p>Our customer service representatives may use your telephone numbers, e-mail addresses and IM addresses to notify you of the status of your order and for other purposes, such as quality assurance, product safety and customer service matters. </p>
+            <p>In addition, from time to time, we may use the information collected to send special offers on behalf of our Web sites and on behalf of third party partners or vendors (including restaurants), via email, postal mail, IM or other means.  Third party partners and vendors may also send you offers of potential interest. </p>
             <h5>E-mail / Anti-Spam</h5>
-            <p class="info">Although, as noted above, we may sometimes send offers by email on behalf restaurants or other third parties, and send you emails about our services, we do not currently purchase bulk e-mail addresses, use the services of bulk e-mail companies or share your email addresses with third parties for their own use. We may in the future decide that it is appropriate to distribute, sell or rent users' e-mail addresses to select third party partners; if we do so, we will revise this Policy accordingly.</p>
+            <p>Although, as noted above, we may sometimes send offers by email on behalf restaurants or other third parties, and send you emails about our services, we do not currently purchase bulk e-mail addresses, use the services of bulk e-mail companies or share your email addresses with third parties for their own use. We may in the future decide that it is appropriate to distribute, sell or rent users' e-mail addresses to select third party partners; if we do so, we will revise this Policy accordingly.</p>
             <h5>Third Party Online Advertising</h5>
-            <p class="info">We use third-party advertising companies such as AlmondNet and others to serve advertisements when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you on this site and other sites and other interactive media and/or to keep track of your response to each advertisement.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx">AlmondNet</a> or <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
+            <p>We use third-party advertising companies such as AlmondNet and others to serve advertisements when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you on this site and other sites and other interactive media and/or to keep track of your response to each advertisement.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx" target="_blank">AlmondNet</a> or <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
             <h5>Cookies</h5>
-            <p class="info">We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. 
+            <p>We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. 
             Cookies are capable of storing many types of data and may be placed on your browser by us or by a third party.  
             Cookies allow our users to order faster and more efficiently by storing information such as your location, order information and personal preferences, and by permitting you to avoid having to log in more than once during a Web site visit.  
             We may also use and read cookies for other purposes, including to collect information on how our Web sites are used, to determine whether you have registered on or visited any of our Web sites or our partners' Web sites, to improve performance for our users, to measure the effectiveness of our advertising and links on other Web sites, and to provide you with information of potential interest to you. This may include using information about your use of our Web sites in conjunction with personally identifiable information that you have volunteered to us on one of our sites.  Other technologies, such as image tags, may be used in conjunction with cookies.  Image tags (also called clear GIFs or single-pixel GIFs) are small image files that may be located on pages of our Web sites, or with-in web-based emails that we may send, to track your usage and access to features on the Web sites.   </p>
-            <p class="info">In addition, when you visit our Web sites, third party vendors and advertisers also place or read cookies on your internet browser.  This is a common practice on the internet; these cookies may be used to determine whether you have visited other Web sites, to measure the effectiveness of advertising and links on other Web sites, and to provide you with information of potential interest to you, among other purposes.  This is not an exhaustive list of all uses of cookies on our websites.</p>
-            <p class="info">Most web browsers are set up to accept cookies.  You can, however, set your browser to refuse all cookies or to indicate when a cookie is being sent.  Note, however, that some portions of our sites may not work properly if you refuse cookies. In addition, cookies can be easily and safely deleted from your system.  See you browser's help section for instructions.</p>
+            <p>In addition, when you visit our Web sites, third party vendors and advertisers also place or read cookies on your internet browser.  This is a common practice on the internet; these cookies may be used to determine whether you have visited other Web sites, to measure the effectiveness of advertising and links on other Web sites, and to provide you with information of potential interest to you, among other purposes.  This is not an exhaustive list of all uses of cookies on our websites.</p>
+            <p>Most web browsers are set up to accept cookies.  You can, however, set your browser to refuse all cookies or to indicate when a cookie is being sent.  Note, however, that some portions of our sites may not work properly if you refuse cookies. In addition, cookies can be easily and safely deleted from your system.  See you browser's help section for instructions.</p>
             <h5>Security Information</h5>
-            <p class="info">We always use industry standard encryption technologies, such as 128 bit SSL encryption, when transferring and receiving private consumer data on our site. This information can only be translated once it's received by our secure servers. These secure servers help to protect against the loss, misuse or alteration of information that we have collected from you through our Web site.</p>
+            <p>We always use industry standard encryption technologies, such as 128 bit SSL encryption, when transferring and receiving private consumer data on our site. This information can only be translated once it's received by our secure servers. These secure servers help to protect against the loss, misuse or alteration of information that we have collected from you through our Web site.</p>
             <h5>Questions or Comments</h5>
-            <p class="info">Under the law of certain states, including California Civil Code Â§ 1798.83, you are entitled to obtain information from us about who your personal information has been shared with.  In order to obtain this information, or for other questions or comments regarding our privacy policies, you may contact us at:</p>
-            <p class="info">Privacy<br>
+            <p>Under the law of certain states, including California Civil Code Â§ 1798.83, you are entitled to obtain information from us about who your personal information has been shared with.  In order to obtain this information, or for other questions or comments regarding our privacy policies, you may contact us at:</p>
+            <p>Privacy<br>
             Dotmenu, Inc.<br>
             39 West 19th Street<br>
             7th Floor<br>
             New York, NY  10011</p>
 		</div>
-			
-		<div id="right360">
-			
-				<!-- <div class="add300 round">
-					<img src="/img/mock/300x250.jpg" width="300" height="250" alt="">
-				</div>
-				<div class="add300 round">
-					<img src="/img/mock/300x250.jpg" width="300" height="250" alt="">
-				</div>
-				-->
-		</div>
+    
+    <br clear="all">
+
+	<div id="std_left-bot"></div>        
+	</div>  
+    <div id="std_right-top"></div>  
+    <div id="std_right">
+	    <div id="account_container">
+	    	<div id="salutation">Welcome!</div><div id="account"><div id="account_box_profile">					<div class="account_fb" align="center"><a href="#" onclick="FB.ensureInit(function () {FB.Connect.requireSession(FB.Facebook.get_sessionWaitable().waitUntilReady(function(){ FB.Connect.ifUserConnected(reloadAccount(true))}))});return false;"><img id="fb_login_image" src="/img/Connect_white_large_long.gif" alt="Connect" border="0"></a></div>
+					<div class="account_divider" align="center"><img src="/img/account_divider.gif"></div>
+			</div>
+	 
 	</div>
+        </div>
+    </div>      	
+	<div id="std_right-bot"></div>
+    
+
+<br clear="all">
 </div>
 
 
-<div class="toplevel" id="footer">
-		<a href="http://www.dotmenu.com" target="_blank">About Us</a> · <a href="http://www.dotmenu.com/local-advertising.asp" target="_blank">Advertisers</a> · <a href="http://www.dotmenu.com/menu-center.asp" target="_blank">List Your Restaurant</a> 
-	<br clear="all">
-	<div id="zillow">
-		<a href="http://www.zillow.com/webtools/labs/neighborhood-boundaries.htm" target="_blank"><img src="/img/zillow_logo.gif" width="112" height="24" border="0" alt=""></a>
-	</div>
-	<br clear="all">
-	<div id="copyright">
-		<div class="giant left">[</div>
-		<div class="giant right">]</div>
-		<br>© 2009 Allmenus.com<br>
-		<a href="/your-privacy-rights/">Privacy Policy</a> | <a href="/legal-notices/">Legal Notices</a> | <a href="/terms-conditions/">Terms &amp; Conditions</a>
-	</div>
+
+<div id="footer" align="center">
+	
+        <p>&nbsp;</p>
+        <p><strong>© 2009 <a href="http://www.allmenus.com" target="_blank">Allmenus.com</a></strong></p>
+        <p><a href="/your-privacy-rights/">Privacy Policy</a> | <a href="/legal-notices/">Legal Notices</a> | <a href="/terms-conditions/">Terms &amp; Conditions</a></p>
+        <p><a href="http://www.dotmenu.com" target="_blank">About Us</a> · <a href="http://www.dotmenu.com/local-advertising.asp" target="_blank">Advertisers</a> · <a href="http://www.allmenus.com/menucenter/" target="_blank">List Your Restaurant</a> </p>
+	
+    <br clear="all">
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    
 </div>
-<script type="text/JavaScript" src="/js/cornersrules.js"></script>
+
+	<script type="text/javascript">
+        FB.init("36d644a19acafd7c4e577cb74dbe316c","/connect/xd_receiver.htm",{"doNotUseCachedConnectState":true});
+ 		
+    </script>
+    
 
 <!-- List Id = 15926 and List Name = CM_All Menus --> 
 <!-- Begin ad tag --> 
 <img src="http://ad.doubleclick.net/activity;src=1270268;dcnet=4155;boom=15926;sz=1x1;ord=1?" width="1" height="1" border="0">
-<!-- End ad tag --> 
+<!-- End ad tag -->
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script src="/WRb.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(9891,0.01,"www02");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+
+
+
 
 
 
