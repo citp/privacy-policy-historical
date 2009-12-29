@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissotel.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201234id_/http%3A//www.swissotel.com/swissotel.com/EN/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissotel.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229122015id_/http%3A//www.swissotel.com/Swissotel.com/EN/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -209,7 +209,7 @@ this Swissôtel Website.
        of maintenance or disruption of our servers, or a Force Majeure Event.
 10. General Information
     a. You may contact Swissôtel Hotels & Resorts at the following email address:
-       Ask-us@swissotel.com
+       ask.us@swissotel.com
     b. Swissôtel Hotels & Resorts may change, amend, delete or add to the
        Purposes for Processing at any time and in its sole discretion, and shall
        notify you of the updated Purposes where required to do so, as soon as
