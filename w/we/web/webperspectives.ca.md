@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630115357id_/http%3A//www.webperspectives.ca/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229025858id_/http%3A//www.webperspectives.ca/index.php%3Fid%3D10) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Web Perspectives / Research Now PLC (“Research Now”), company number 03975073, whose registered office is at 8th floor, Elizabeth House 39 York Road, London SE1 7NQ, United Kingdom ("Research Now") owns and operates this website, www.webperspectives.ca.  This website privacy statement outlines how Research Now collects, uses, and discloses personal information through this website. 
+Web Perspectives / Research Now Ltd (“Research Now”), company number 03975073, whose registered office is at 8th floor, Elizabeth House 39 York Road, London SE1 7NQ, United Kingdom ("Research Now") owns and operates this website, www.webperspectives.ca.  This website privacy statement outlines how Research Now collects, uses, and discloses personal information through this website. 
 
 Research Now is a provider of Internet-based market research services to professional market research organizations and their clients. The objective of this research is to better understand respondents' opinions. We aggregate and de-identify such research before analyzing and sending the results to our clients.  The information gathered helps our clients develop and design products and services for consumers. In addition, certain survey findings might be published on our websites (in a non-identifiable form) so that our survey respondents can be among the first to hear about the concerns and interests of people around the world.  We are committed to maintaining the privacy of our online respondents and panel members. Our contact information appears below. 
 
@@ -48,7 +48,7 @@ You have the right to access, update, and correct inaccuracies in the personal i
 
 You may request access to your personal information by emailing our Research Manager at  [jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca), or by contacting us by postal mail at the contact information listed below.
 
-If your personal information changes, you may update your information through our website by loging into your account by clicking on [the member login page.](https://web.archive.org/web/20090630115357id_/http%3A//www.webperspectives.ca/index.php?id=15)
+If your personal information changes, you may update your information through our website by loging into your account by clicking on [the member login page.](https://web.archive.org/web/20091229025858id_/http%3A//www.webperspectives.ca/index.php?id=15)
 
  **5.     Opting-out of Receiving Future Survey Invitations**
 
@@ -88,4 +88,4 @@ M4N 3N1
 
 If you have questions or concerns regarding this statement, you should first contact our Research Manager, Jennifer White at [ jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca), or 1-800-599-7938 (ext 499). 
 
-**For more about BBB please[ click here](https://www.bbb.org/online/consumer/cks.aspx?ID=1081202142727). **
+**For more about BBB please[click here](https://www.bbb.org/online/consumer/cks.aspx?ID=1081202142727). **
