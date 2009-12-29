@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624145546id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229155946id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Keep it Unique Keepsakes**](http://www.aussiepages.com.au/Keep-it-Unique-Keepsakes.html)  
-Unique keepsakes and personalised, custom made gifts honouring mothers, children and babies. Products include ultrasound keepsakes, baby announcements, daily sunrise photography, and sterling silver jewellery. We also feature a child/baby loss section.  
+[**Swing Dancing**](http://www.aussiepages.com.au/Swing-Dancing.html)  
+Swing dance group. Swing dancing was born out of the Big Band Jazz tradition in 1930s and 40's. It is a relaxed, fun and energetic dance style. Also known as Lindy-hop and the Jitterbug.  
   
   
 ---  
   
-[**!!FREE DELIVERY!!**](http://www.aussiepages.com.au/--FREE-DELIVERY--.html)  
-STOPPP!!!ATTENTION PLEASE :=)FREE DELIVERY TIL JUNE 28!DO NOT MISS OUT!ALL PRODUCTS MUST GO!  
+[**Boutique Bikini's**](http://www.aussiepages.com.au/Boutique-Bikinis.html)  
+True limited edition designer bikini's. Made in Australia and Brazil. Italian fabric. Very limited designs means you can be sure you won't see anyone else wearing the same bikini.  
   
   
-[**Epona Yoga Sydney**](http://www.aussiepages.com.au/Epona-Yoga-Sydney.html)  
-Specialising in yoga, meditation and stretching for children in a fun and creative environment.  
+[**MTB Carpentry and Construction**](http://www.aussiepages.com.au/MTB-Carpentry-and-Construction.html)  
+FREE QUOTES. Quality Work and a friendly helpful service. The best Carpenter on the Gold Coast  
   
   
-[**baby gifts by babycupcakes**](http://www.aussiepages.com.au/baby-gifts-by-babycupcakes.html)  
-Multi award-winning Australian online baby gift business, specialising in bouquets of baby clothing, nappy cakes, personalised baby gifts & more. See why Babycupcakes was voted Australia's "Best Gift Retailer" in 2008, and what sets our amazing baby gift service apart from the res  
+[**Great Barrier Reef Hotels**](http://www.aussiepages.com.au/Great-Barrier-Reef-Hotels.html)  
+The Great Barrier Reef Hotels in Australia, features terrific island together with many snorkeling and diving tours.  
   
   
-[**Accommodation Cairns | The Sebel Cairns Hotel**](http://www.aussiepages.com.au/Accommodation-Cairns--7C-The-Sebel-Cairns-Hotel.html)  
-Luxury Cairns hotel accommodation, all with balconies overlooking Cairns & the Harbour; day spa & award winning restaurants. Official The Sebel Cairns website - best online deals.  
+[**MyOzSite**](http://www.aussiepages.com.au/MyOzSite.html)  
+Website development, management and site rental.  
   
   
-[**Helicopter Flight Training**](http://www.aussiepages.com.au/Helicopter-Flight-Training.html)  
-With over 20 years experience, Bankstown Helicopters is one of Australia's largest Helicopter flight training and charter organisations.  
+[**DoggieMart**](http://www.aussiepages.com.au/DoggieMart.html)  
+Australian, American and UK dog products from DoggieMart including health, toys and clothes.  
   
   
-[**The Essence of Grace: Grace Cosmetics and Designer Jewellery**](http://www.aussiepages.com.au/The-Essence-of-Grace-3A-Grace-Cosmetics-and-Designer-Jewellery.html)  
-The Essence of Grace is an independent stockist of Grace Cosmetics and Grace Designer Jewellery. Pamper yourself and experience this Australian Owned, Australian Grown, aloe vera based skin care range  
+[**Childish Portrait Photography Studio with Photographer Kylie Biltris**](http://www.aussiepages.com.au/Childish-Portrait-Photography-Studio-with-Photographer-Kylie-Biltris.html)  
+Specializing in black and white photography of children and young families. Photographer Kylie Biltris' aim is to capture portraits that preserve the true personality and essence of your little   
   
   
-[**The Greenroom Internet Cafe**](http://www.aussiepages.com.au/The-Greenroom-Internet-Cafe.html)  
-The Greenroom Internet Cafe's has a wide range of products & services, is an accredited discounter, open 7 days a week and only minutes from Manly Beach!  
+[**FITXCHANGE**](http://www.aussiepages.com.au/FITXCHANGE.html)  
+FITXCHANGE provides creative, fun, functional, intense outdoor style training sessions to suit your goals whilst enjoying scenery and fresh air.  
   
   
-[**1Earth1U**](http://www.aussiepages.com.au/1Earth1U.html)  
-Organic Beauty Care. Love yourself love your planet. Australian owned and made.  
+[**Tennis Coaching**](http://www.aussiepages.com.au/Tennis-Coaching.html)  
+Direct Tennis has been offering quality programs in Melbourne for the past 22 years. Currently we have extensive programs at Carrum Downs Tennis Club as well as numerous school based programs.  
   
   
-[**Canvas Prints - Your Photos on Canvas - Canvas Prints by ROC**](http://www.aussiepages.com.au/Canvas-Prints---Your-Photos-on-Canvas---Canvas-Prints-by-ROC.html)  
-Your canvas printing specialists-Print your photos on canvas with us. ROC Canvas Prints are Australia's premier canvas printers. Supplying canvas prints to the corporate, commercial & domesti  
+[**ebrandity Online Marketing Specialists**](http://www.aussiepages.com.au/ebrandity-Online-Marketing-Specialists.html)  
+eBrandity provides electronic brand identity marketing solutions to clients across all business sectors from SMEs to large corporations.  
   
   
    
