@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621202228id_/http%3A//gottman.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229160950id_/http%3A//www.gottman.com/contact/privacy) for the most accurate reproduction.*
 
 # The Gottman Institute - Contact Us- Privacy Policy
+
+[](http://www.facebook.com/pages/The-Gottman-Institute/149200885864) [](http://www.youtube.com/user/TheGottmanInstitute) [](http://twitter.com/GottmanInst)
+
+  [](http://www.addthis.com/bookmark.php?v=250&pub=xa-4aea4759632ca94f)
 
 |  | 
 
