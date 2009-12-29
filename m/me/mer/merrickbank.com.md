@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618194605id_/http%3A//www.merrickbank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229233748id_/http%3A//www.merrickbank.com/privacy.aspx) for the most accurate reproduction.*
 
 # Merrick Bank
 
@@ -88,7 +88,7 @@ Merrick Bank is responsible for ensuring that your questions are handled in acco
 
 If you have any questions regarding this Pledge of our privacy-related practices, please contact us by e-mail at privacy officer or you can write to us at: Merrick Bank, Attn: Privacy Officer, P.O. Box 5000, Draper, UT 84020-5000. You may also call the Customer Service number at (800) 253-2322.
 
-**For information on Merrick Bank, please visit our Web site at[ www.merrickbank.com](https://web.archive.org/web/20090618194605id_/http%3A//www.merrickbank.com/default.aspx).**
+**For information on Merrick Bank, please visit our Web site at[ www.merrickbank.com](https://web.archive.org/web/20091229233748id_/http%3A//www.merrickbank.com/default.aspx).**
 
 **Special Notice for Vermont Residents**
 
