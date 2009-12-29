@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the short-funny-jokes.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609102747id_/http%3A//short-funny-jokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny-jokes.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229035059id_/http%3A//short-funny-jokes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Short Funny Jokes
+# Privacy Policy
 
 ## [Privacy Policy](http://short-funny-jokes.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
@@ -23,5 +23,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to info@short-funny-jokes.com for further clarification.
-
-[](http://www.stumbleupon.com/submit?url=http://short-funny-jokes.com/privacy-policy/&title=Privacy+Policy "StumbleUpon It!")
