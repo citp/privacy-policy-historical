@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629033723id_/http%3A//yikers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229034008id_/http%3A//yikers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
