@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollolife.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627133622id_/http%3A//www.apollolife.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollolife.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229185947id_/http%3A//www.apollolife.com/Privacypolicy) for the most accurate reproduction.*
 
 # Apollolife - Live Healthy, Experience Life
 
