@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616222636id_/http%3A//www.netregistry.com.au/support/kb/questions.php%3Fquestionid%3D155) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229164906id_/http%3A//www.netregistry.com.au/support/kb/questions.php%3Fquestionid%3D155) for the most accurate reproduction.*
 
 # Netregistry Support :: Privacy Policy
 
