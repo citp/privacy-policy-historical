@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616032441id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229175740id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Etsy :: Privacy Policy
 
 **Etsy Privacy Policy**
 
-**What This Privacy Policy Covers[](http://www.truste.org/ivalidate.php?url=www.etsy.com&sealid=102)**
+**What This Privacy Policy Covers[ ](http://www.truste.org/ivalidate.php?url=www.etsy.com&sealid=102)**
 
 This privacy policy covers the use of the web site located at [http://www.etsy.com](http://www.etsy.com/) and the services provided by Etsy, Inc. ("Etsy"), including how Etsy treats personal information that Etsy collects and receives. Pursuant to Etsy's Terms of Use, you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Etsy does not own or control, or individuals that Etsy does not employ or manage.
 
@@ -18,12 +18,16 @@ Etsy, Inc. complies with the EU Safe Harbor framework set forth by the Departmen
 
 **Information Collection and How it is Used**
 
-General Information:   
-• Etsy will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this privacy policy.   
-• Etsy collects personal information when you register to use Etsy services or to post content on Etsy. At registration you are asked for your email address and certain other optional information.   
-• If you would like to obtain a Seller account, Etsy will ask for your billing address, phone number, and credit card information.   
-• Etsy automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. This data is only used in the aggregate.   
-• Etsy uses information for the following general purposes: products and services provisioning, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in Etsy's user registration databases when you register with Etsy. IP addresses may be used for various research purposes. 
+General Information:
+
+  * Etsy will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this privacy policy.
+  * Your username, Etsy ID or alias is displayed throughout Etsy (and so available to the public) and is connected to all of your Etsy activity. Other people can see your purchases, items for sale, store, feedback, ratings and associated comments. 
+  * Etsy collects personal information when you register to use Etsy services or to post content on Etsy. At registration you are asked for your email address and certain other optional information. 
+  * If you would like to obtain a Seller account, Etsy will ask for your billing address, phone number, and credit card information. 
+  * Etsy automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. This data is only used in the aggregate. 
+  * Etsy uses information for the following general purposes: products and services provisioning, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in Etsy's user registration databases when you register with Etsy. IP addresses may be used for various research purposes. 
+
+
 
 **Service-related Announcements**
 
@@ -39,7 +43,7 @@ Etsy may periodically email you with administrative messages. Etsy will not sell
 
 **Newsletter Emails**
 
-Etsy offers subscriptions to Etsy email newsletters. To opt-in, Etsy will ask for your email address and the newsletter(s) you wish to receive. This email address will only be used for this feature. You may change your subscription or unsubscribe at anytime by following the instructions contained in the email. 
+Etsy offers subscriptions to Etsy email newsletters. To opt-in, Etsy will ask for your email address and the newsletter(s) you wish to receive. This email address will only be used for this feature. You may change your subscription or unsubscribe at anytime by following the instructions contained in the email.
 
 **Friend Features**
 
@@ -55,11 +59,15 @@ If you no longer wish to receive administrative messages, you may opt-out by ema
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Etsy products or services that require you to "sign in," and you may not be able to take full advantage of the Etsy service. Etsy uses its own cookies for a number of purposes, including to: Access your information when you "sign in"; keep track of preferences you specify while you are using Etsy's services; display the most appropriate advertising banners, based on your interests and activity on Etsy; estimate and report Etsy's total audience size and traffic; conduct research to improve Etsy's content and services. Etsy cookies do not collect personal information, and Etsy does not combine information collected through cookies with other personal information to tell us who you are or what your username or email address is. 
 
+**Tracking Technologies**
+
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to your personally identifiable information. The use of cookies by our third party tracking partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies to support our site functionality such as web analytics reporting.
+
 **Information Sharing and Disclosure**
 
 When you post a message, your Etsy ID or alias is visible to other users. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Etsy may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Etsy Terms of Use. Etsy may disclose personally identifiable information to parties in compliance with Etsy's Copyright and Intellectual Property Policy, as Etsy in Etsy's sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, Etsy may disclose name, street address, city, state, zip code, country, phone number, email address and company name. Etsy may share aggregated demographic information with business partners.
 
-Etsy is affiliated with a variety of businesses and works closely with them. These businesses may operate stores on the Etsy website or sell items to you from the Etsy website. Etsy may also provide services or sell products jointly with affiliated businesses. Due to the nature of Etsy's business model, when an affiliated business is associated with your transaction, you will share customer information that is related to such transaction with that affiliated business. 
+Etsy is affiliated with a variety of businesses and works closely with them. These businesses may operate stores on the Etsy website or sell items to you from the Etsy website. Etsy may also provide services or sell products jointly with affiliated businesses. Due to the nature of Etsy's business model, when an affiliated business is associated with your transaction, you will share customer information that is related to such transaction with that affiliated business.
 
 Etsy employs other companies and people to perform tasks on our behalf and needs to share your information with them to provide products and services to you. Examples include but are not limited to fulfilling orders, handling billing disputes and collections, analyzing data, providing marketing assistance and providing customer service.
 
@@ -79,7 +87,7 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 **Editing and Deleting Account Information**
 
-You can change your Etsy Account Information (except your username), at any time. Etsy may send you certain communications relating to the Etsy service, such as service-related announcements and administrative messages that are considered part of your Etsy account. You can delete your Etsy account by emailing support@etsy.com. Please note that your identification, billing and contact information may remain in Etsy's records for some period. 
+You can change your Etsy Account Information (except your username), at any time. Etsy may send you certain communications relating to the Etsy service, such as service-related announcements and administrative messages that are considered part of your Etsy account. You can delete your Etsy account by emailing support@etsy.com. Please note that your identification, billing and contact information may remain in Etsy's records for some period.
 
 Etsy limits access to personal information about you to employees who Etsy believes reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Your Etsy Account Information is password-protected.
 
