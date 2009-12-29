@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qualys.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621092515id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qualys.com privacy policy that was archived on 2009-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229190709id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta content="Qualys, Inc. provides on demand vulnerability management solutions to identify and fix network security vulnerabilities and ensure security compliance." name="description">
@@ -8,39 +8,54 @@
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-ico">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <title>Privacy Policy - Qualys</title>
-    <link href="/css/corp.css?h=2" rel="stylesheet" type="text/css">
-    <link href="/css/corp_common.css?h=2" rel="stylesheet" type="text/css">
-    <link href="/css/top_nav.css?h=2" rel="stylesheet" type="text/css">
-    <link href="/css/prototip.css" rel="stylesheet" type="text/css">
+    <link href="/css/corp.css?h=11" rel="stylesheet" type="text/css">
+    <link href="/css/corp_common.css?h=11" rel="stylesheet" type="text/css">
+    <link href="/css/top_nav.css?h=11" rel="stylesheet" type="text/css">
     <link href="/css/nyroModal.css" rel="stylesheet" type="text/css">
-    <link href="/css/corp_menu.css?h=2" rel="stylesheet" type="text/css">
-    <link href="/css/corp_ros.css?h=2" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="/js/core.js"></script>
-    <script type="text/javascript" src="/js/top_nav.js"></script>
+    <link href="/css/jquery.cluetip.css" rel="stylesheet" type="text/css">
+    <link href="/css/corp_menu.css?h=11" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="/js/jquery-1.2.6.pack.js"></script>
     <script type="text/javascript" src="/js/jquery.nyroModal-1.2.8.pack.js"></script>
-    <script type="text/javascript" src="/js/prototype.js"></script>
-    <script type="text/javascript" src="/js/effects.js"></script>
-    <script type="text/javascript" src="/js/scriptaculous.js"></script>
-    <script type="text/javascript" src="/js/prototip.js"></script>
-    <script type="text/javascript" src="/js/menu.js"></script>
-    <script type="text/javascript">
-      function topSearch() {
-      //<![CDATA[
-          var supportClone = $('top_search_box').cloneNode(true);
-          new Tip('top_search', supportClone, { showOn: 'click',  hideOn: { element: 'tip', event: 'mouseout'}, hideAfter: 1.5, effect: 'appear', hook: { tip: 'topRight', target: 'bottomRight'}, offset: { x: 0, y: 4 }, className: 'noclass'});
-      //]]>
+    <script type="text/javascript" src="/js/jquery.cluetip.js"></script>
+    <script type="text/javascript" src="/js/core.js"></script>
+    <style type="text/css">
+      .two_columns .one .inner {
+          border-right: 1px solid #ccc;
+          padding: 0 20px 0 0;
       }
-      document.observe('dom:loaded', topSearch);
+      
+      .two_columns .two .inner {
+          padding: 0 0 0 20px;
+      }
+    </style>
+    <script type="text/javascript">
+                  jQuery(document).ready(function() {
+                      jQuery('a.search_box').cluetip({
+                          local: true,
+      //                    hideLocal: true,
+                          positionBy: 'auto',
+                          topOffset: 12,
+                          leftOffset: -40,
+                          attribute: 'href',
+                          activation: 'click',
+                          dropShadow: false,
+                          showTitle: false,
+                          sticky: 'true',
+                          closeText: 'close',
+                          cluetipClass: 'search_box'
+                      });
+                  });
     </script>
-  </head>
+  <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=86246201"></script></head>
    
   <body>
     <div id="wrapper">
       <div id="top">
         <div id="logo">
-          <a href="/"><img src="/images/home/qualys_logo.gif" border="0" alt="Qualys, Inc." height="83" width="226" title="Qualys, Inc." id="qualys_logo"></a>
-          <img src="/images/ods_logo.gif" border="0" alt="On Demand Security" height="83" width="186" title="On Demand Security" id="ods_logo">
+          <a href="/"><div id="qualys_logo"><img src="/images/spacer.gif" class="qualys_logo" alt="Qualys, Inc." title="Qualys, Inc."></div></a>
+          <div id="ods_logo">
+            <img src="/images/spacer.gif" class="ods_logo" alt="On Demand Security" title="On Demand Security">
+          </div>
           <div id="top_mini_nav">
             <a href="/">Home</a>
             &nbsp;|&nbsp;
@@ -48,23 +63,21 @@
             &nbsp;|&nbsp;
             <a href="http://laws.qualys.com" target="_blank">laws.qualys.com</a>
             &nbsp;|&nbsp;
-            <a href="http://www.qualys.jp/"><img src="/images/jp_flag.gif" border="0" alt="JP Flag" height="11" width="16" title="JP Flag"></a>
+            <a href="http://www.qualys.jp/"><img src="/images/spacer.gif" class="japanese_flag" alt="Japanese" title="Japanese"></a>
             <a href="http://www.qualys.jp/">Qualys.jp</a>
             &nbsp;|&nbsp;
             <a href="/company/contacts/">Contact Us</a>
             &nbsp;|&nbsp;
-            <a href="javascript:void(0)" id="top_search">Search</a>
+            <a href="#top_search_box" class="search_box">Search</a>
           </div>
-          <div style="display: none;">
-            <div id="top_search_box">
-              <form name="" action="http://www.google.com/custom" method="get" target="_blank">
-                <input type="text" name="q" value="" style="font-size:9px;width:210px">
-                <input type="image" name="sa" value="Search" width="15" height="15" src="/images/btn_arrow.gif" align="absmiddle">
-                <input type="hidden" name="cof" value="GALT:#C0000;S:http://www.qualys.com/;GL:0;VLC:#777777;AH:center;LH:119;LC:#666666;GFNT:#99999;L:http://www.qualys.com/images/logos/logo_qualys_pr.gif;ALC:#C0000;LW:98;GIMP:#22222;AWFID:70ed898b00ab18e7;">
-                <input type="hidden" name="domains" value="qualys.com">
-                <input type="hidden" name="sitesearch" value="qualys.com">
-              </form>
-            </div>
+          <div id="top_search_box" style="display: none;">
+            <form name="" action="http://www.google.com/custom" method="get" target="_blank">
+              <input type="text" name="q" value="" style="font-size:9px;width:190px">
+              <input type="image" name="sa" value="Search" width="15" height="15" src="/images/btn_arrow.gif" align="absmiddle">
+              <input type="hidden" name="cof" value="GALT:#C0000;S:http://www.qualys.com/;GL:0;VLC:#777777;AH:center;LH:119;LC:#666666;GFNT:#99999;L:http://www.qualys.com/images/logos/logo_qualys_pr.gif;ALC:#C0000;LW:98;GIMP:#22222;AWFID:70ed898b00ab18e7;">
+              <input type="hidden" name="domains" value="qualys.com">
+              <input type="hidden" name="sitesearch" value="qualys.com">
+            </form>
           </div>
         </div>
 <ul id="top_nav">
@@ -119,10 +132,13 @@
     </ul>
   </li>
   <li id="customers">
-    <a href="/customers/" class="main_nav_customers"><img src="/images/spacer.gif" border="0" alt="Customers" height="25" width="158" title="Customers"></a>
+    <a href="/customers/" class="main_nav_customers"><img src="/images/spacer.gif" border="0" alt="Customers &amp; Awards" height="25" width="158" title="Customers &amp; Awards"></a>
     <ul>
       <li>
         <a href="/customers/">Overview</a>
+      </li>
+      <li>
+        <a href="/customers/customers/">Customers</a>
       </li>
       <li>
         <a href="/customers/testimonials/">Video Testimonials</a>
@@ -273,12 +289,6 @@
         <a href="/company/board_of_directors/">Board of Directors</a>
       </li>
       <li>
-        <a href="/company/csoboard/">CSO Advisory Board</a>
-      </li>
-      <li>
-        <a href="/company/advisors/">Technical Advisory Board</a>
-      </li>
-      <li>
         <a href="/company/investors/">Investors</a>
       </li>
       <li>
@@ -354,12 +364,6 @@
   </li>
   <li>
     <a href="/company/board_of_directors/">Board of Directors</a>
-  </li>
-  <li>
-    <a href="/company/csoboard/">CSO Advisory Board</a>
-  </li>
-  <li>
-    <a href="/company/advisors/">Technical Advisory Board</a>
   </li>
   <li>
     <a href="/company/investors/">Investors</a>
@@ -442,78 +446,37 @@
         <div id="banner">
           <img src="/images/banners/cb-oracle.png" border="0" alt="Banner" title="QualysGuard helps us to make sure that our network is secure and that our systems, and those of our customers, are hardened as well.">
         </div>
-        <div id="right">
-          <div class="section">
-            <h2>Contact</h2>
-            <div class="sec-content">
-              <ul>
-                <li>
-                  <b>1 800 745 4355</b>
-                  <img src="/images/phone.gif" border="0" alt="Phone" height="13" width="12" title="Phone">
-                </li>
-                <li>
-                  <a href="/company/contacts/contact_form/">Sales Inquiry Form&nbsp;&gt;</a>
-                </li>
-                <li>
-                  <a href="/company/contacts/">Global Contacts&nbsp;&gt;</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="section">
-            <h2>Trials</h2>
-            <div class="sec-content">
-              <dl>
-                <dt>
-                  <a href="/forms/trials/qualysguard_trial/">Free 14-Day Trial</a>
-                </dt>
-                <dd>
-                  Risk free, no commitment.
-                  <br>
-                  No software to download.
-                </dd>
-              </dl>
-              <dl>
-                <dt>
-                  <a href="/forms/trials/qualysguard_free_scan/">Free One Time Scan</a>
-                </dt>
-                <dd>
-                  Scan 1 publicly facing IP.
-                  <br>
-                  Identify network assets.
-                  <br>
-                  Scan systems for vulnerabilities.
-                </dd>
-              </dl>
-            </div>
-          </div>
-        </div>
         <div id="content">
-          <img src="/images/middle_titles/title_privacy.gif" border="0" alt="Privacy" height="46" width="433" title="Privacy">
-          <p>Qualys<sup>®</sup> respects your online privacy. We understand and appreciate your need to control your personal data that you share with us.</p>
-
-<h3>Notice and Disclosure</h3>
-<p>Qualys has established this Online Privacy Policy to make you aware of how we intend to treat your personal information.</p>
-
-<p>Qualys collects individual information including but not limited to a first name, last name, physical address, an e-mail address or other contact information. In general, you can visit Qualys' web pages without telling us who you are or revealing any personal information about yourself.</p>
-
-<p>If you choose to provide us with your personal information on the web, we may transfer that information within Qualys or to business partners for marketing purposes.</p>
-
-<h3>Choice</h3>
-<p>You may choose whether or not to provide personal information to Qualys. You have the choice to opt-out of receiving information from Qualys. If you choose not to provide the personal information we request, you can still visit most of Qualys' web sites, but you may be unable to access certain options, offers and services that involve our interaction with you.</p>
-
-<p>If you chose to have a relationship with Qualys, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.</p>
-
-<h3>Data Security</h3>
-<p>Wherever your personal information may be held within Qualys or on its behalf, we intend to take reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure.</p>
-
-<h3>Data Accuracy</h3>
-<p>It is important to Qualys to maintain accurate data. We are working on ways to make it easier for you to correct the information that we obtain about you. If ever you'd like to change your information, please visit us at <a href="/company/compref">https://www.qualys.com/company/compref</a>.</p>
-
-<h3>Use of Cookies</h3>
-<p>A cookie is a small data structure that allows a web site to store information on your web browser. Cookies help identify returning users so that we don't ask your contact information with every visit. A cookie will contain the information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites.</p>
-
-<p>You can reject or accept cookies when your browser alerts you of its presence.</p>
+          <h1 class="page_header">Qualys Privacy Statement Highlights</h1>
+          <p>This Privacy Statement Highlights provides a high-level summary of Qualys' entire <a href="/company/privacy/statement/">Privacy Statement</a>.  Qualys provides these highlights as a convenience to you but should not be considered the fully Privacy Statement of Qualys.</p>
+          <div class="two_columns">
+            <div class="one">
+              <div class="inner">
+                <h3>Overview</h3>
+                <p>Qualys® is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. <a href="/company/privacy/statement/#Safe Harbor">Click here</a> to read about Qualys' participation in Safe Harbor.</p>
+                <h3>Web Sites Covered</h3>
+                <p>This Privacy Statement applies to Qualys Web sites that link to this Privacy Statement:<br><a href="/" "="">http://www.qualys.com</a>;<br><a href="https://qualysguard.qualys.com/" target="_blank">https://qualysguard.qualys.com</a>;<br><a href="https://pci.qualys.com/" target="_blank">https://pci.qualys.com</a>;<br><a href="https://freescan.qualys.com/" target="_blank">https://freescan.qualys.com</a>;<br><a href="https://sans20.qualys.com/" target="_blank">https://sans20.qualys.com</a>; and<br><a href="https://freemap.qualys.com/" target="_blank">https://freemap.qualys.com</a> (collectively referred to as "Qualys Web sites").</p>
+                <p>Qualys Web sites may contain links to other Web sites. Qualys is not responsible for the information practices or the content of such other Web sites. Qualys encourages you to review the privacy statements of other Web sites to understand their information practices.</p>
+                <h3>Statistical Information About Your Visit</h3>
+                <p>When you visit Qualys Web sites, our systems collect personal information (in the manner described above) and statistical or non-personally identifiable information about your visit to our sites (e.g. IP address, pages visited, origin of visitor domains, and types of browsers used). However, unless you actively submit personal information, we do not typically identify you via the non-personally identifiable information.  Notwithstanding the foregoing, to the extent permitted by applicable law, we reserve the right to combine non-personally information with personal information that you have actively submitted.</p>
+                <h3>Qualys Supported Blogs and Forums</h3>
+                <p>If you use a blog or forum, or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  Qualys is not responsible for the personally identifiable information you choose to submit in these forums.  You are also responsible for using these forums in a manner consistent with the applicable Terms of Use or other terms and conditions set forth on the relevant forum site.</p>
+              </div>
+            </div>
+            <div class="two">
+              <div class="inner">
+                <h3>Your Ability to Opt-Out of Further Notifications</h3>
+                <p>From time-to-time, we notify visitors of our Sites of new products, announcements, upgrades and updates unless you have opted out of these notices. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.</p>
+                <p>If you would like to change your preferences online, please visit <a href="/company/compref/" "="">http://www.qualys.com/company/compref/</a>.  Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our products or services.</p>
+                <h3>Our Security Procedures</h3>
+                <p>We consider the protection of all personal information we receive from our Web site visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.</p>
+                <h3>EU Safe Harbor</h3>
+                <p>Qualys self-certifies in compliance with the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to personal data about individuals in the EEA that subsidiaries, customers, suppliers and other businesses in the EEA send to Qualys. <a href="/company/privacy/statement/#Safe Harbor">Click here</a> to to read about Qualys' participation in EU Safe Harbor.</p>
+                <h3>How to Contact Qualys</h3>
+                <p>If you have questions or would like additional information about Qualys' Privacy Statement, please contact Qualys at <strong><em>1600 Bridge Parkway, Suite 201, Redwood Shores, CA 94065</em></strong>, telephone: <strong><em>650.801.6100</em></strong>, or fax: <strong><em>650.801.6101</em></strong>.</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div id="bottom">
@@ -524,9 +487,9 @@
             |
             <a href="http://laws.qualys.com/" target="_blank">Laws.Qualys.com</a>
             |
-            <a href="http://twitter.com/qualys/" target="_blank">Qualys Twitter <img src="/images/twitter_logo.png"></a>
+            <a href="http://twitter.com/qualys/" target="_blank">Qualys Twitter <img src="/images/spacer.gif" class="twitter_icon" alt="Qualys Twitter" title="Qualys Twitter"></a>
             |
-            <a href="http://www.youtube.com/user/QualysGuard" target="_blank">Qualys YouTube <img src="/images/youtube_logo.png"></a>
+            <a href="http://www.youtube.com/user/QualysGuard" target="_blank">Qualys YouTube <img src="/images/spacer.gif" class="youtube_icon" alt="Qualys YouTube" title="Qualys YouTube"></a>
           </div>
           <div>
             <b>Quick Links: </b>
@@ -564,6 +527,7 @@
         </div>
       </div>
     </div>
+    <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "86246201",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -573,9 +537,9 @@
         pageTracker._trackPageview();
     </script>
     <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-    <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2651&amp;ref2=elqNone&amp;tzo=0&amp;ms=280" border="0" width="1" height="1"></layer>
+    <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2651&amp;ref2=elqNone&amp;tzo=0&amp;ms=857" border="0" width="1" height="1"></layer>
     
   
    
 
-</body></html>
+<div id="cluetip-waitimage" style="position: absolute; z-index: 95; display: none;"></div><div id="cluetip" style="z-index: 96; display: none; position: absolute;"><div id="cluetip-outer" style="position: relative; z-index: 97;"><h3 id="cluetip-title"></h3><div id="cluetip-inner"></div></div><div id="cluetip-extra"></div><div id="cluetip-arrows" class="cluetip-arrows" style="z-index: 97;"></div></div></body></html>
