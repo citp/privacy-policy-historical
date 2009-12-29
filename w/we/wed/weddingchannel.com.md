@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203559id_/http%3A//www.weddingchannel.com/ui/buildArticle.action%3FassetUID%3D42591) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229153810id_/http%3A//www.weddingchannel.com/ui/buildArticle.action%3FassetUID%3D42591) for the most accurate reproduction.*
 
-# 
+# - -
 
 ** WeddingChannel.com Privacy Policy  
 **
@@ -16,27 +16,31 @@ So, to understand how any information collected may be used, you should review b
 The following are links to the privacy policies of some of the retailers and companies featured on this website that may receive your personal information:
 
 [Privacy Policy - Amazon.com](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)  
+[Privacy Policy - BabySuperMall](http://www.babysupermall.com/Help/Privacy.html?close=1)  
 [Privacy Policy - Barneys New York](http://wedding.weddingchannel.com/help/privacy_policy_barneys.asp)  
-[Privacy Policy - Bloomingdale's  
-](http://bloomingdales.weddingchannel.com/catalog/fds/blm/content.action?key=help/blmPrivacyPolicy)[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Borsheims-Content.aspx)[Privacy Policy - Borsheims](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=91584&t=12&p=42591&l=149807)  
+[Privacy Policy - Bloomingdale's](http://bloomingdales.weddingchannel.com/catalog/fds/blm/content.action?key=help/blmPrivacyPolicy)  
+[Privacy Policy - Borsheims](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=91584&t=12&p=42591&l=149807)  
 [Privacy Policy - Bottlenotes](http://www.bottlenotes.com/wine-clubs/easypage.aspx?topic=privacy_policy)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Cloud-9-Content.aspx)[Privacy Policy - Cloud 9](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=93377&t=12&p=42591&l=178371)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Crate-and-Barrel-Content.aspx)[Privacy Policy - Crate and Barrel](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79958&t=12&p=42591&l=75500)  
+[Privacy Policy - buybuy BABY](http://www.buybuybaby.com/policyPrivacy.asp?order_num=-1&)  
+[Privacy Policy - Cloud 9](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=93377&t=12&p=42591&l=178371)  
+[Privacy Policy - Crate and Barrel](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79958&t=12&p=42591&l=75500)  
+[Privacy Policy - giggle](http://www.giggle.com/help_privacy.aspx)  
 [Privacy Policy - Gump's](http://hosting.giftregistryworks.com/marcoleweb/html/gumps/policytext.html)  
 [Privacy Policy - JCPenney](http://www2.jcpenney.com/jcp/CustomerServiceSub.aspx?DeptID=12476&CatTyp=CSR&CatID=12490)  
 [Privacy Policy - The Land of Nod](http://www.landofnod.com/helpdesk/privacyPolicy.aspx)  
-[Privacy Policy - Macys](http://wedding.weddingchannel.com/help/privacy_policy_fed.asp)  
-[Privacy Policy - Michael C. Fina  
-](http://www.michaelcfina.com/ic/mcfina/sections/customer_service/privacy.html?id=nqe3u5Cr)[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Neiman-Marcus-Content.aspx)[Privacy Policy - Neiman Marcus](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79956&t=12&p=42591&l=75503)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Pottery-Barn-Content.aspx)[Privacy Policy - Pottery Barn](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79960&t=12&p=42591&l=75504)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Pottery-Barn-Content.aspx)[Privacy Policy - Pottery Barn Kids](http://www.potterybarnkids.com/cs/index.cfm?src=hme&s%45ct=privacy&ftest=1&flash=on)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-REI-Content.aspx)[Privacy Policy - REI](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79961&t=12&p=42591&l=108124)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Restoration-Hardware-Content.aspx)[Privacy Policy - Restoration Hardware](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79962&t=12&p=42591&l=75506)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Sandals-Content.aspx)[Privacy Policy - Sandals](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79963&t=12&p=42591&l=75507)  
+[Privacy Policy - Macy's](http://wedding.weddingchannel.com/help/privacy_policy_fed.asp)  
+[Privacy Policy - Michael C. Fina](http://www.michaelcfina.com/customer-service/privacy-policy.html?id=nqe3u5Cr)  
+[Privacy Policy - Pottery Barn](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79960&t=12&p=42591&l=75504)  
+[Privacy Policy - Pottery Barn Kids](http://www.potterybarnkids.com/cs/index.cfm?src=hme&s%45ct=privacy&ftest=1&flash=on)  
+[Privacy Policy - REI](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79961&t=12&p=42591&l=108124)  
+[Privacy Policy - Restoration Hardware](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79962&t=12&p=42591&l=75506)  
+[Privacy Policy - Restoration Hardware Baby & Child](http://www.rhbabyandchild.com/rhbc/info/privacy_policy.jsp?link=privacy_policy)  
+[Privacy Policy - Sandals](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79963&t=12&p=42591&l=75507)  
 [Privacy Policy - Starwood Hotels and Resorts Worldwide, Inc.](http://www.starwoodhotels.com/corporate/privacy_policy.html)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Tiffany-Co-Content.aspx)[Privacy Policy - Tiffany](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79947&t=12&p=42591&l=75508)  
+[Privacy Policy - Target](http://sites.target.com/site/en/spot/page.jsp?title=privacy_policy)  
+[Privacy Policy - Tiffany & Co.](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79947&t=12&p=42591&l=75508)  
 [Privacy Policy - Traveler's Joy](http://www.weddingchannel.com/jump.action?t=12&p=42591&l=189444&linkUID=300095005&fu=http%3A%2F%2Fwww.travelersjoy.com%2Fpopup.php%3Ftpl%3Dabout_us_privacy)  
-[](http://scmedia.theknot.com/Common/Articles/WeddingChannel/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy-Williams-Sonoma-Content.aspx)[Privacy Policy - Williams-Sonoma](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79964&t=12&p=42591&l=75509)  
+[Privacy Policy - Williams-Sonoma](http://www.weddingchannel.com/ui/buildArticle.action?assetUID=79964&t=12&p=42591&l=75509)  
 
 
 We encourage you to read the WeddingChannel.com privacy policy, as well as those of the retailers you register with or purchase from, and of the other companies featured on our website, so you understand what types of personal information are collected and how this information may be used. WeddingChannel.com and the retailers and other companies participating in this website are committed to collecting and using your information only in accordance with their respective privacy policies.  
