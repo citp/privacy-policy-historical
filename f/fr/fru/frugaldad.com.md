@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugaldad.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226200711id_/http%3A//frugaldad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugaldad.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233550id_/http%3A//frugaldad.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Frugal Dad
 
@@ -6,20 +6,21 @@
 
 If you require additional information, or have any questions about our privacy policy, please feel free to contact me via email at [**jason@frugaldad.com**](mailto:jason@frugaldad.com).
 
-At [**FrugalDad.com**](http://www.frugaldad.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by [**FrugalDad.com**](http://www.frugaldad.com/), and how it is used.
+The privacy of our visitors to FrugalDad.com is important to us. At Frugal Dad, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Frugal Dad, and how we safeguard your information. We never sell your personal information to third parties.
 
-**Log Files**  
-Like many other Web sites, [**Frugaldad.com**](http://www.frugaldad.com/) makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+### Log Files
 
-**Cookies and Web Beacons**  
-Some of our advertising partners may use cookies on our site.  Other technologies (such as JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content delivered.  [**FrugalDad.com**](http://www.frugaldad.com/) has no access to, or control over, the technologies that are used by third-party advertisers.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.  FrugalDad.com’s privacy policy does not apply to, and we cannot control the activities of, other advertisers or web sites.
+### Cookies and Web Beacons
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-**Email  **  
-Emails sent to FrugalDad.com are considered property of the site. It is our policy to contact you and attempt to obtain consent before using any part of your email in a future posting.
+  * Google’s use of the DART cookie
+  * Users may opt out of the use of the DART cookie by visiting the **[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)**.
 
-**Comments**  
-Comments submitted to FrugalDad.com are the responsibility of the commenter. FrugalDad.com reserves the right to remove comments, or edit them because of grammatical errors.  This is not an effort to censor comments, however any comment identified as spam will be removed immediately.
+
+
+We also use third party advertisements on Frugal Dad to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the **[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)**.
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
