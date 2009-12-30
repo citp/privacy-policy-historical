@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the paperkraft.blogspot.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131062151id_/http%3A//paperkraft.blogspot.com/2008/07/paperkraftnet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperkraft.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230081641id_/http%3A//paperkraft.blogspot.com/2008/07/paperkraftnet-privacy-policy.html) for the most accurate reproduction.*
 
 # Paperkraft.net Privacy Policy | Paperkraft.net
-
-  
-
 
 ##  [Paperkraft.net Privacy Policy](http://paperkraft.blogspot.com/2008/07/paperkraftnet-privacy-policy.html)
 
