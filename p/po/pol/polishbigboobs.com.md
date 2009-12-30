@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polishbigboobs.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622153920id_/http%3A//polishbigboobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polishbigboobs.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231000227id_/http%3A//polishbigboobs.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
