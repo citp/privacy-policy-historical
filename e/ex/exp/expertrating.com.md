@@ -1,68 +1,26 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604232241id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230155443id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
+**Last Updated: August. 13th.2009**
 
-This privacy notice has been provided for you to understand how we use information and the choices that you can exercise for the collection and use of the information. Below, you can go through some of the important privacy practices adhered to by ExpertRating. 
+Expert Rating Solutions is committed to protecting your privacy. We have established this privacy statement to communicate our [ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.expertrating.com&sealid=101) information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy statement applies exclusively to the Website [www.expertrating.com](https://web.archive.org/web/20091230155443id_/http%3A//www.expertrating.com/privacy/www.expertrating.com). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
+
+ExpertRating Solutions is a licensee of the TRUSTe privacy program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. ExpertRating Solutions has elected to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe as a testament to our commitment to protect your personal information. 
+
+Please [Contact Us](https://web.archive.org/web/20091230155443id_/http%3A//www.expertrating.com/privacy/www.expertrating.com/contact.asp) with all inquiries pertaining to this statement, or use of the service. If your inquiry goes unaddressed within a reasonable time expectation, or hasn’t been addressed to your satisfaction, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=) who shall then work as a liaison with us to resolve your concerns. 
 
 **What type of user related information do we collect?**
 
-This notice applies to all information collected or submitted on the ExpertRating.com website. User related information is only collected on the registration page. The personal information collected is: 
+ExpertRating collects personal information from users of the Website at different points of registration. Whether registering as affiliate partner, for an employer account or as an individual user, we collect personal information to facilitate your requested service. This collected personal information includes name, email and physical address, phone number, and PayPal i.d where applicable. Where users’ register for a ‘Live Proctored’ exam, we may also collect during the proctored session information such as a web cam photo i.d, a list of applications running on your system and geographical location are collected as well to maintain the integrity of the proctored session. When a user elects to tell a friend about our Website and service, or in emailing test results, we require third party personal information including name and email to send this one time email. This third party personal information is not used for any secondary or unsolicited purposes, nor is it stored within our database. 
 
-Name 
+We also collect sensitive data through a third party payment processor including credit card number and expiration date when processing payments for services purchased from ExpertRating. These third party agents do not share your sensitive information with any third parties and have no authorization to use your personal information for any unsolicited purposes. 
 
-Address 
-
-Phone number (optional) 
-
-Email address 
-
-Name of employer (optional) 
-
-Location of employer (optional) 
-
-Credit card or PayPal account information (only collected at the time of purchase) 
-
-A. Information collection while recommending ExpertRating - When you recommend ExpertRating to anyone using the 'Suggest a Friend' page at [www.expertrating.com/suggestmore.asp](https://web.archive.org/suggestmore.asp) , the website collects the following information from you: 
-
-Suggestor's name
-
-Suggestor's email
-
-Name and email of first friend
-
-Name and email of second friend
-
-Name and email of third friend
-
-The Suggestor may furnish information on one, two or three friends. ExpertRating does not retain the suggestor's name or email, or any of the friends' names or email addresses on file for future use. Only a one time email from the suggestor is sent to the friend/s and the information gathered is not used for any other purpose.
-
-ExpertRating also collects technical information related to your user session such as your IP address, browser type and operating system. This information is essential in giving you a personalized and user friendly interaction with the site. 
-
-B. Information collection while using the LiveProctor feature on ExpertRating - When you take a proctored test using the Liveproctor feature on ExpertRating, the website collects the following information about your computer and you: 
-
-IP address
-
-Photo id (using a webcam)
-
-Your photo (captured at periodic intervals during the test)
-
-Screenshots (captured at periodic intervals to display what appears on the screen while the test is running)
-
-List of applications running on your computer while the test is running
-
-Your geographical location
-
-The information collected through the LiveProctor feature is solely utilized for the purpose of verifying whether any unfair means were used during the testing process. The information gathered by the LiveProctor is destroyed once the verification has been established.
-
-C. Information collection during re-certification on ExpertRating - When you apply for re-certification, the website collects information related to your current employment. This information is solely used for determining whether you are eligible for re-certification without re-taking the test.
+Information collection during re-certification on ExpertRating - When you apply for re-certification, the website collects information related to your previous and current employment. You will be asked for your previous employer's address and current employer's address. This information is solely used for determining whether you are eligible for re-certification without re-taking the test. 
 
 **How does ExpertRating use my information?**
 
-The personal information collected by ExpertRating is only used to complete that order and no information is shared with outside parties. Personal information is not used for any marketing or commercial sale or exchange with third parties. We may use the information you supply us to contact you with matters related to your registration, purchase of exams, about your account status or to inform you about new ExpertRating offers. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+ExpertRating does not send registered users’ of the Website any unsolicited messages. We use your collected information to register accounts, provide access to the services requested, process payments and provide customer service. ExpertRating reserves the right to send users’ notification, administrative and service emails which are a part of the service. Consequently, you cannot opt-out of these communications. 
 
 **Our commitment to data security**
 
@@ -74,20 +32,30 @@ ExpertRating services can be purchased online through a secure credit card trans
 
 **How you can access or correct your personal information**
 
-You can access and change the personal information that we collect and maintain by logging in at your user account with the username and passwords assigned to your account. The login page is at: 
+You can access and change the personal information that we collect and maintain by logging in at your user account with the username and passwords assigned to your account. 
 
-<http://www.expertrating.com/login.asp>
+The login page is at: <http://www.expertrating.com/login.asp>
 
 The users Name cannot be directly changed by you from within the login so as to prevent unauthorized use of our testing services. You must request us for a change of Name by clicking on the "request name change" link within your login area. 
 
+**Automatically Collected Information**
+
+We collect certain information from every user visiting our site automatically. This information includes referring URL, browser type and IP address. This non-personal information is not associated with any personal information we collect. We also employ the use of cookies and web beacons to gather statistical data on site traffic and user preferences. A cookie is a text file set on a computer hard drive by a browser containing a unique identifier that allows the browser to recognize the user preferences upon return visits. Cookies are tied to your personal information to make log in and navigation through the Website during your session a streamlined experience. We use web beacons – one by one pixel images embedded in web pages- for the purpose of tracking individual page views and understanding our site traffic. Web beacons are not tied to your personal information. 
+
+From time to time, we may employ the services of a third party agent to assist us in understanding our site traffic by collecting non personal aggregated statistical data about our user base. This third party may use cookies and web beacons to this end, which we have no access to, nor are we responsible for these cookies. 
+
+**Information Sharing and Disclosure**
+
+ExpertRating may be required by law to disclose information to law enforcement, or other government agencies under certain circumstances such as where a formal request has been made in a civil suit, court order, or subpoena served on the Website. We reserve the right to disclose information in our sole and absolute discretion, where deemed necessary to protecting the safety of our staff, users, the general public, or in protecting our intellectual property. 
+
 **What is our policy if there is a change in our Privacy practices?**
 
-ExpertRating strives to improve the company's privacy policy from time to time. In such an eventuality, emails will automatically be sent out to all users describing the changes in the privacy policy and how they can opt out from the effects of the new privacy policy. Users will clearly be given an opportunity to prohibit any use of information that was not described at the time the initial user information was collected. Moreover, the link to the updated privacy policy will be clearly notified on the home page of the site. 
+ExpertRating strives to improve the company's privacy policy from time to time. In the event of a material change, emails will automatically be sent out to all users describing the changes in the privacy policy and how they can opt out from the effects of the new privacy policy. Users will clearly be given an opportunity to prohibit any use of information that was not described at the time the initial user information was collected. Moreover, the link to the updated privacy policy will be clearly noted on the home page of the site. 
 
 **What is ExpertRating's policy if the site is sold or merged with another company?**
 
-ExpertRating will do its utmost to ensure that the successor adheres to the same privacy policy. However the privacy practices of the successor company cannot be ascertained before the eventuality of such a takeover occurs. ExpertRating will do its best to inform all registered users about the changes in the privacy practices as soon as the information about the new policy is made available. 
+ExpertRating will do its utmost to ensure that the successor adheres to the same privacy policy. However the privacy practices of the successor company cannot be ascertained before the eventuality of such a takeover occurs. ExpertRating will do its best to inform all registered users about the changes in the privacy practices as soon as the information about the new policy is made available by posting a notice on the Website, or by sending users’ an email to this end. 
 
 **Who should I contact if I have a Privacy related concern?**
 
-If you have any doubts or require clarifications related to the privacy of your information with us, please use our [ contact form](http://www.expertrating.com/contact.asp) to get in touch with us. 
+If you have any doubts or require clarifications related to the privacy of your information with us, please use our [ contact form](http://www.expertrating.com/contact.asp) to get in touch with us.
