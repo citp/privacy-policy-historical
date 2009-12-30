@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615165105id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221945id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -76,8 +76,6 @@ Remember that by opting out of receiving marketing information you'll not be tol
 
 Unless you have given us your consent, we'll not provide information about you to companies outside our group to use for their own marketing purposes. We disclose information about our customers only with their consent, or if we are required to do so by law. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes these companies may be located abroad in countries that don't have data protection laws. In these circumstances we always ensure that the information is safe and secure. Your information may also be shared by other members of our group to keep their records up to date and administer your relationship with them. 
 
-Occasionally, the Banking Code Standards Board who monitor compliance with the Banking Code, audit a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed.
-
 Under the Data Protection Act you've the right to have access to information we hold about you on our records. The act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. 
 
 If you don't want to receive unsolicited mail from other companies, you can prevent this by registering with the Mailing Preference Service. In addition the Telephone and Fax Preference Services enable you to object to receiving unsolicited marketing phone calls or faxes from other companies. To register, simply telephone the appropriate number below: 
@@ -99,7 +97,7 @@ Occasionally we search credit reference and fraud prevention agency files as wel
 
 You've the right to apply to the credit reference agencies for a copy of your credit file. You can write to them at any time, enclosing a non-returnable fee of £2.00. Please give your name, address, postcode, date of birth and any other address you've lived at in the last six years to help them find your information. If there's anything incorrect on your credit file, you've the right to ask the agency to add a Notice of Correction. 
 
-We use Equifax plc, whilst other members of the HBOS Group also use Experian Limited. A third credit reference agency (Call Credit) has recently started up in the UK. Their addresses are as follows:
+We use Equifax plc, whilst other members of the Lloyds Banking Group also use Experian Limited. A third credit reference agency (Call Credit) has recently started up in the UK. Their addresses are as follows:
 
 **Equifax plc, PO Box 1140, Bradford, BD1 5US ([www.equifax.co.uk](http://www.equifax.co.uk/ "Link opens in a new window - www.equifax.co.uk"))**
 
@@ -145,7 +143,7 @@ The Data Protection Act defines information about the following as 'sensitive': 
 
 If you apply for insurance or life assurance through us, we may ask you for some 'sensitive' details. We'll only use this information to provide the service you require and we will ask for your explicit consent. 
 
-The Intelligent Finance website contains links to sites operated by persons outside the HBOS Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
+The Intelligent Finance website contains links to sites operated by persons outside the Lloyds Banking Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
 
 ² Daytime calls Monday to Friday from BT landlines to 0870 numbers will cost no more than 6p a minute plus an 8p connection fee. The price of calls through other phone companies and from mobile phones will be different. The call price we have quoted was correct in March 2009.
 
