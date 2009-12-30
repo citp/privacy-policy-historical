@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifanimations.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610024415id_/http%3A//www.gifanimations.com/GA/animation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifanimations.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222434id_/http%3A//www.gifanimations.com/GA/animation/PrivacyPolicy) for the most accurate reproduction.*
 
 # Free Animated . We have many more animations of
 
