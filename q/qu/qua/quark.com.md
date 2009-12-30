@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411055919id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221957id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Quark: Privacy Policy
 
