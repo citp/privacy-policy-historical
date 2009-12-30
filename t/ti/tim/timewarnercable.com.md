@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timewarnercable.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615225546id_/http%3A//www.timewarnercable.com/Corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timewarnercable.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040200id_/http%3A//www.timewarnercable.com/Corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Time Warner Cable | Corporate
 
