@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nakedfunny.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503122039id_/http%3A//nakedfunny.com/content/en-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedfunny.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230833id_/http%3A//nakedfunny.com/content/en-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Naked and Funny NakedFunny.Com
 
 **Privacy Policy**
 
-**Last Updated: ____________**
+**Last Updated: 24.08.09  **
 
 At AFL Productions, LLC ("AFL"), we respect your right to privacy and we understand that members and visitors to AFL need to control the uses of their personal information. The privacy policy below details the measures taken by AFL to protect your privacy in connection with your use of _[www.nakedfunny.com](http://www.nakedfunny.com/)_ or any successor(s) thereto and/or assigns thereof (AFL Site(s)). However, AFL's service is designed to allow users to post photographs and information about themselves. Accordingly, by submitting your photograph and/or any personal information, you thereby waive any privacy expectations you have with respect to our use of your likeness or personal information provided to us. If you do not wish to have your picture or information about yourself viewed by or disclosed to others, do not use our service.
 
@@ -62,8 +62,8 @@ This Privacy Policy is subject to change by AFL from time to time. If we make ch
 
 **Contacting the Web Site**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this AFL Site(s), please send us a message via the _Contact_ page (or via mail: AFL Productions, LLC, Attn: __________, __________________).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this AFL Site(s), please send us a message via the _Contact_ page (or via mail: AFL Productions, LLC, Attn: [volax@netwiz.net](mailto:volax@netwiz.net) ).
 
 **California Privacy Rights**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of AFL who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us a message via the _Contact_ page or write us at: AFL Productions, LLC, Attn: __________, __________________.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of AFL who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send us a message via the _Contact_ page or write us at: AFL Productions, LLC, Attn: nakedfunny@gmail.com .
