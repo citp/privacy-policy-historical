@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626072559id_/http%3A//www.tictacti.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230103410id_/http%3A//www.tictacti.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # TicTacTi - Broadband Video Commercials
 
