@@ -1,38 +1,74 @@
-<!--The following is the downloaded HTML source of the gamevance.com privacy policy that was archived on 2009-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090526073628id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamevance.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Gamevance - Privacy Policy</title>
 <meta name="description" content="This Policy explains what information Gamevance collects about Members on the Site.">
 <meta name="keywords" content="Gamevance, free online flash games, play online games, online games, free games, free games online, arcade games, play flash games, flash games, computer games, games, games to play, games play, games for free, internet games, free download, flash arcade game">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
+<link rel="shortcut icon" href="http://aa.gv.facdn.com/gv/images/favicon.ico">
 
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
+var QueImages = new Object();
+var QueTimers = new Object();
+function fixImg(obj, height){
+	obj.id=obj.src+microtime();
+	QueImages[obj.id] = obj;
+	setT(obj.id, 0);
+	// set dimensions
+	obj.style.height = 'auto';
+	if(obj.height > height){
+		obj.style.height = height+'px';
+		obj.removeAttribute('width');
+	}
+
+	showObject(obj.id, 2);
+}
+
+function showObject(id, l){
+	QueTimers[id] = setTimeout("setT('"+id+"', "+l+")", 50);
+}
+function setT(elid, lvl){
+	el = QueImages[elid]
+	if(!lvl){
+		el.style.opacity = 0;
+		el.style.filter = 'alpha(opacity=0)';
+	}else{
+		el.style.opacity = lvl/10;
+		el.style.filter = 'alpha(opacity=' + lvl*10 + ')';
+		if(lvl == 10)
+			QueTimers[elid] = null;
+		else
+			showObject(elid, lvl+2);
+	}
+}
+function microtime(get_as_float) {
+    var now = new Date().getTime() / 1000;
+    var s = parseInt(now, 10);
+    return (get_as_float) ? now : (Math.round((now - s) * 1000) / 1000) + ' ' + s;
+}
+
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;
 }
-//-->
-</script>
 
-<script type="text/JavaScript">
-<!--
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+  var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+  if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
   if(!x && d.getElementById) x=d.getElementById(n); return x;
@@ -40,46 +76,8 @@ function MM_findObj(n, d) { //v4.01
 
 function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+  if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-//-->
-</script>
-
-<script src="flash_go_2.js" type="text/javascript"></script>
-<script src="flash_go_1.js" type="text/javascript"></script>
-
-<link type="text/css" rel="stylesheet" href="gv_styles.css?5">
-
-<!--[if IE 7]>
-<STYLE>
-   textarea {
-      font-family: Tahoma, Verdana, Arial, Sans-serif !important;
-      background-image:url('/images/textarea_lines_ie7.gif') !important;
-      background-position: 0px 1px !important;
-      background-color: #FDFDFD !important;
-      color: #525542 !important;
-      font-size: 11px !important;
-      border:  solid 1px #999999 !important;
-   }
-</STYLE>
-<![endif]-->
-
-
-   <!-- Result Links HEADER TEXT ADS CODE START -->
-   <script type="text/javascript"><!--
-   var RLGroupId = "10001";
-   var RLMaxPerPage = "6";
-   var RLOpenInNewWindow = "1";
-   var RLRepeatKeywords = "0";
-   var RLRepeatAdvertisers = "0";
-   var RLActiveLinkColor = "#55CB19";
-   var RLFontWeight = "normal";
-   var RLUnderlineStyle = "US_double";
-   //--></script>
-   <script type="text/javascript" src="http://data.resultlinks.com/javascript/loader.php"></script>
-   <!-- Result Links HEADER TEXT ADS CODE END -->
-   
-<script>
 function LOGclearInput1() {
    var form = this.document.login_form;
    if (form.mem_u.value == "Username")
@@ -115,20 +113,47 @@ function LOGcheckInput1() {
    if (form.mem_u.value == "")
       form.mem_u.value = "Username";
 }
+//-->
 </script>
 
-<!--[if lte IE 6]>
-<script type="text/javascript" src="jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="jquery.pngFix.js"></script>
-<script type="text/javascript">
-   $(document).ready(function(){
-      $('div.logo').pngFix( );
-   });
-</script>
+<script src="http://af.gv.facdn.com/gv/javascript/flash_go_1.js" type="text/javascript"></script>
+
+<link type="text/css" rel="stylesheet" href="http://af.gv.facdn.com/gv/style/gv_styles.css?5">
+
+<!--[if IE 7]>
+<STYLE>
+   textarea {
+      font-family: Tahoma, Verdana, Arial, Sans-serif !important;
+      background-image:url('http://aa.gv.facdn.com/gv/images/textarea_lines_ie7.gif') !important;
+      background-position: 0px 1px !important;
+      background-color: #FDFDFD !important;
+      color: #525542 !important;
+      font-size: 11px !important;
+      border:  solid 1px #999999 !important;
+   }
+</STYLE>
+<![endif]-->
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="http://af.gv.facdn.com/gv/javascript/pngfix.js"></script>
 <![endif]-->
 
 </head>
-<body style="BACKGROUND-IMAGE:url(images/top.gif); BACKGROUND-REPEAT:repeat-x;" bgcolor="#FFFFFF" marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" onload="MM_preloadImages('images/menu_02.gif','images/menu_03.gif','images/menu_04.gif','images/menu_05.gif','images/menu_06.gif','images/menu_07.gif')">
+<body style="BACKGROUND-IMAGE:url(http://aa.gv.facdn.com/gv/images/top.gif); BACKGROUND-REPEAT:repeat-x;" bgcolor="#FFFFFF" marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" onload="MM_preloadImages('http://aa.gv.facdn.com/gv/images/menu_02.gif','http://aa.gv.facdn.com/gv/images/menu_03.gif','http://aa.gv.facdn.com/gv/images/menu_04.gif','http://aa.gv.facdn.com/gv/images/menu_05.gif','http://aa.gv.facdn.com/gv/images/menu_06.gif','http://aa.gv.facdn.com/gv/images/menu_07.gif')">
+<script>
+	var Meebo = {exec:function(){Meebo._.push(arguments)},_:[]};
+	window.onload = function onLoad(){
+		var imgs = document.getElementsByTagName('IMG');
+		for(var x=0; x<imgs.length; x++){
+			if(imgs[x].parentNode.tagName == 'A'){
+				imgs[x].setAttribute('meebo:title', imgs[x].parentNode.title);
+				imgs[x].setAttribute('meebo:url', imgs[x].parentNode.href);
+				//Meebo.exec('makeSharable', imgs[x]);
+			}
+		}	
+		Meebo.exec('makeAllSharable', {minImageHeight:80});
+	}
+</script>
+<div id="meebo" style="display:none"><iframe id="meebo-iframe" src="/meebo.v8.html?network=gamevance"></iframe></div>
 <table width="966" cellspacing="0" cellpadding="0" align="center" border="0">
   <tbody><tr>
     <td width="0"></td>
@@ -139,41 +164,41 @@ function LOGcheckInput1() {
           <table cellspacing="0" cellpadding="0" width="964" border="0">
             <tbody>
              <tr>
-              <td valign="top" align="left" width="5" background="images/menubg.gif" height="25">
-                <img height="25" src="images/menu1_01.jpg" width="5"></td>
-              <td valign="top" align="left" width="94" background="images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('homebtn','','images/menu_02.gif',1)" onmouseout="MM_swapImgRestore()" href="index.php">
-                <img id="homebtn" height="25" alt="Home" src="images/menu1_02.gif" width="94" border="0" name="homebtn"></a></td>
-              <td valign="top" align="left" width="160" background="images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image3','','images/menu_03.gif',1)" onmouseout="MM_swapImgRestore()" href="tournament_games.php">
-                <img id="Image3" height="25" alt="Tournament Games" src="images/menu1_03.gif" width="160" border="0" name="Image3"></a></td>
-              <td valign="top" align="left" width="160" background="images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image4','','images/menu_04.gif',1)" onmouseout="MM_swapImgRestore()" href="free_gamevance_games.php">
-                <img id="Image4" height="25" alt="Free Online Games" src="images/menu1_04.gif" width="160" border="0" name="Image4"></a></td>
-              <td valign="top" align="left" width="118" background="images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image5','','images/menu_05.gif',1)" onmouseout="MM_swapImgRestore()" href="leaderboard_daily_tournament.php">
-                <img id="Image5" height="25" alt="High Scores" src="images/menu1_05.gif" width="118" border="0" name="Image5"></a></td>
-              <td valign="top" align="left" width="118" background="images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image6','','images/menu_06.gif',1)" onmouseout="MM_swapImgRestore()" href="winners_1.php">
-                <img id="Image6" height="25" alt="Hall of Fame" src="images/menu1_06.gif" width="118" border="0" name="Image6"></a></td>
-              <td valign="top" align="left" width="94" background="images/menubg.gif" height="25">
-                <a onmouseover="MM_swapImage('Image7','','images/menu_07.gif',1)" onmouseout="MM_swapImgRestore()" href="browse_player_profiles.php">
-                <img id="Image7" height="25" alt="Profiles" src="images/menu1_07.gif" width="94" border="0" name="Image7"></a></td>
-              <td valign="top" align="left" width="964" background="images/menubg.gif">
+              <td valign="top" align="left" width="5" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <img height="25" src="http://aa.gv.facdn.com/gv/images/menu1_01.jpg" width="5"></td>
+              <td valign="top" align="left" width="94" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <a onmouseover="MM_swapImage('homebtn','','http://aa.gv.facdn.com/gv/images/menu_02.gif',1)" onmouseout="MM_swapImgRestore()" href="index.php">
+                <img id="homebtn" height="25" title="Home" src="http://aa.gv.facdn.com/gv/images/menu1_02.gif" width="94" border="0" name="homebtn" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/index.php"></a></td>
+              <td valign="top" align="left" width="160" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <a onmouseover="MM_swapImage('Image3','','http://aa.gv.facdn.com/gv/images/menu_03.gif',1)" onmouseout="MM_swapImgRestore()" href="tournament_games.php">
+                <img id="Image3" height="25" title="Tournament Games" src="http://aa.gv.facdn.com/gv/images/menu1_03.gif" width="160" border="0" name="Image3" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/tournament_games.php"></a></td>
+              <td valign="top" align="left" width="160" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <a onmouseover="MM_swapImage('Image4','','http://aa.gv.facdn.com/gv/images/menu_04.gif',1)" onmouseout="MM_swapImgRestore()" href="free_gamevance_games.php">
+                <img id="Image4" height="25" title="Free Online Games" src="http://aa.gv.facdn.com/gv/images/menu1_04.gif" width="160" border="0" name="Image4" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/free_gamevance_games.php"></a></td>
+              <td valign="top" align="left" width="118" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <a onmouseover="MM_swapImage('Image5','','http://aa.gv.facdn.com/gv/images/menu_05.gif',1)" onmouseout="MM_swapImgRestore()" href="leaderboard_daily_tournament.php">
+                <img id="Image5" height="25" title="High Scores" src="http://aa.gv.facdn.com/gv/images/menu1_05.gif" width="118" border="0" name="Image5" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/leaderboard_daily_tournament.php"></a></td>
+              <td valign="top" align="left" width="118" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <a onmouseover="MM_swapImage('Image6','','http://aa.gv.facdn.com/gv/images/menu_06.gif',1)" onmouseout="MM_swapImgRestore()" href="winners_1.php">
+                <img id="Image6" height="25" title="Hall of Fame" src="http://aa.gv.facdn.com/gv/images/menu1_06.gif" width="118" border="0" name="Image6" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/winners_1.php"></a></td>
+              <td valign="top" align="left" width="94" background="http://aa.gv.facdn.com/gv/images/menubg.gif" height="25">
+                <a onmouseover="MM_swapImage('Image7','','http://aa.gv.facdn.com/gv/images/menu_07.gif',1)" onmouseout="MM_swapImgRestore()" href="browse_player_profiles.php">
+                <img id="Image7" height="25" title="Profiles" src="http://aa.gv.facdn.com/gv/images/menu1_07.gif" width="94" border="0" name="Image7" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/browse_player_profiles.php"></a></td>
+              <td valign="top" align="left" width="964" background="http://aa.gv.facdn.com/gv/images/menubg.gif">
                 <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.gamevance.com');">
-                <img height="25" alt="" src="images/menu_08.gif" width="213" border="0"></a></td>
+                <img height="25" title="" src="http://aa.gv.facdn.com/gv/images/menu_08.gif" width="213" border="0" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/privacy_policy.php#"></a></td>
              </tr>
             </tbody>
           </table>
           <table cellspacing="0" cellpadding="0" width="964" border="0">
             <tbody>
             <tr>
-              <td valign="top" align="left" width="964" background="images/headerblubg.gif" height="112">
+              <td valign="top" align="left" width="964" background="http://aa.gv.facdn.com/gv/images/headerblubg.gif" height="112">
                 <table cellspacing="0" cellpadding="0" width="964" border="0">
                   <tbody>
                   <tr>
                     <td valign="top" align="left" width="5">&nbsp;</td>
-                    <td width="219"><div id="logo"><a href="index.php"><img src="images/logo.png" width="219" height="112" border="0"></a></div></td>
+                    <td width="219"><div id="logo"><a href="index.php" title="Gamevance :: Play free games and win prizes"><img src="http://aa.gv.facdn.com/gv/images/logo.png" width="219" height="112" border="0" meebo:title="Gamevance :: Play free games and win prizes" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/index.php"></a></div></td>
                     <td valign="top" align="left">&nbsp;</td>
                     <td valign="top" align="left" width="728">
                       <table cellspacing="0" cellpadding="0" width="728" border="0">
@@ -188,7 +213,7 @@ function LOGcheckInput1() {
                         <tbody>
                         <tr>
                            <td valign="top" align="left" width="728" bgcolor="#ffffff" height="90">
-                              <iframe src="http://www.gamevance.com/banner.php?p=R&amp;w=728&amp;h=90" width="728" height="90" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+                              <iframe src="http://gamevance.com/banner.php?p=R&amp;w=728&amp;h=90" width="728" height="90" align="middle" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
                            </td>
                         </tr>
                         </tbody>
@@ -209,10 +234,10 @@ function LOGcheckInput1() {
               <td valign="top" align="left" width="20" height="30">&nbsp;</td>
               <td valign="bottom" align="left" width="382" height="25">
                 <a href="member_register.php">
-                <img height="25" src="images/signupslogan.gif" width="382" border="0"></a></td>
+                <img title="Sign Up" height="25" src="http://aa.gv.facdn.com/gv/images/signupslogan.gif" width="382" border="0" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/member_register.php"></a></td>
               <td valign="bottom" align="left" width="93" height="25">
                 <a href="member_register.php">
-                <img height="25" src="images/signup.gif" width="93" border="0"></a></td>
+                <img title="Sign Up" height="25" src="http://aa.gv.facdn.com/gv/images/signup.gif" width="93" border="0" meebo:title="" meebo:url="https://web.archive.org/web/20091230034855id_/http%3A//www.gamevance.com/member_register.php"></a></td>
               <td valign="middle" align="right"><table cellspacing="0" cellpadding="0" border="0">
                    <tbody><tr>
                       <td valign="top" align="right" nowrap=""><span class="style3"><a class="style3" href="member_forgot_password.php">Forgot Password?</a></span>&nbsp;&nbsp;&nbsp;</td>
@@ -224,12 +249,12 @@ function LOGcheckInput1() {
                       <td width="5"></td>
                   </tr>
                 </tbody></table></td>
-              <td><input type="image" tabindex="3" src="images/signin.gif" name="mem_submit"></td>
+              <td><input type="image" tabindex="3" src="http://aa.gv.facdn.com/gv/images/signin.gif" name="mem_submit" title="Sign In"></td>
               <td width="20">&nbsp;</td>
             </tr>
             <tr colspan="7" height="5"><td></td></tr>
             <input type="hidden" name="a" value="">
-            
+				            
             </tbody>
           </table>
           
@@ -287,7 +312,7 @@ function LOGcheckInput1() {
                      <tbody><tr>
                         <td align="center" valign="top" class="modWide_top">
 
-   <p align="left" class="BigType">We Respect your Privacy</p>
+   <div align="left" class="BigType">We Respect your Privacy</div><br>
 
 <div align="left"><table align="center" width="560" class="copy">
 <tbody><tr><td>
@@ -393,7 +418,7 @@ function LOGcheckInput1() {
 <p align="justify">
    <strong>QUESTIONS AND CONCERNS</strong><br>
    <br>
-   If you have any questions or concerns about this Policy or its implementation, please email us at <a href="mailto:privacy@gamevance.com">privacy@gamevance.com</a>.  For general questions about the Site, please email us at <a href="mailto:support@gamevance.com">support@gamevance.com</a>.  Alternatively, you may call our Customer Service number, 1-866-719-9965.<br>
+   If you have any questions or concerns about this Policy or its implementation, please email us at <a href="mailto:privacy@gamevance.com">privacy@gamevance.com</a>.  For general questions about the Site, please email us at <a href="mailto:support@gamevance.com">support@gamevance.com</a>.  Alternatively, you may call our Customer Service number, 1-866-638-4441.<br>
    <br>
    <br>
    Effective: July 21, 2008<br>
@@ -434,21 +459,19 @@ function LOGcheckInput1() {
 <table width="966" cellspacing="0" cellpadding="0" align="center" border="0">
    <tbody>
    <tr>
-      <td width="198"></td>
-      <td valign="top" align="left" width="9" height="30"><img height="30" src="images/Footer_lt.gif" width="9"></td>
-      <td valign="middle" align="left" background="images/Footer_mid.gif">
+      <td width="191"></td>
+      <td valign="top" align="left" width="9" height="30"><img height="30" src="http://aa.gv.facdn.com/gv/images/Footer_lt.gif" width="9"></td>
+      <td valign="middle" align="left" background="http://aa.gv.facdn.com/gv/images/Footer_mid.gif">
          <table cellspacing="0" cellpadding="0" width="948" border="0">
             <tbody>
             <tr>
                <td class="GameMenu" valign="middle" align="left" width="300">© Gamevance 2007 - 2009. All Rights Reserved.</td>
                <td width="5">&nbsp;</td>
                <td class="style7" valign="middle" align="right">
-                  <a href="about_gamevance.php">About Us</a> |
-                  <a href="tournament_rules.php">Tournament Rules</a> |
+						<a href="about_gamevance.php">About Us</a> |
+                  <a href="http://support.gamevance.com/ics/support/default.asp?deptID=5688" target="_blank">Gamevance Support Center</a> |
                   <a href="privacy_policy.php">Privacy Policy</a> |
-                  <a href="faq.php">FAQ</a> |
                   <a href="terms_of_use.php">Terms of Use</a> |
-                  <a href="contact_game_vance.php">Contact Us</a> |
                   <a href="deactivate.php">Uninstall Gamevance</a> |
                   <a href="advertisers.php">Advertisers</a>
                </td>
@@ -456,8 +479,8 @@ function LOGcheckInput1() {
             </tbody>
          </table>
       </td>
-      <td valign="top" align="left" width="9" height="30"><img height="30" src="images/Footer_rt.gif" width="9"></td>
-      <td width="198"></td>
+      <td valign="top" align="left" width="9" height="30"><img height="30" src="http://aa.gv.facdn.com/gv/images/Footer_rt.gif" width="9"></td>
+      <td width="191"></td>
    </tr>
    </tbody>
 </table>
@@ -480,11 +503,28 @@ function LOGcheckInput1() {
    //--></script>
    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
    <!-- Google Text Ads Code END -->
+   
 </div>
 
+   <!-- Result Links HEADER TEXT ADS CODE START -->
+   <script type="text/javascript"><!--
+   var RLGroupId = "10001";
+   var RLMaxPerPage = "6";
+   var RLOpenInNewWindow = "1";
+   var RLRepeatKeywords = "0";
+   var RLRepeatAdvertisers = "0";
+   var RLActiveLinkColor = "#55CB19";
+   var RLFontWeight = "normal";
+   var RLUnderlineStyle = "US_double";
+   //--></script>
+   <script type="text/javascript" src="http://data.resultlinks.com/javascript/loader.php"></script>
+   <!-- Result Links HEADER TEXT ADS CODE END -->
+   
    <!-- Result Links FOOTER TEXT ADS CODE START -->
    <script type="text/javascript">RLInit();</script>
    <!-- Result Links FOOTER TEXT ADS CODE END -->
    
+
+
 
 </body></html>
