@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626031140id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230070354id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
 
 # 48HourPrint.com Privacy Statement
 
