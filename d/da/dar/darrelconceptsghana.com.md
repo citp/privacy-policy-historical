@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the darrelconceptsghana.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624035036id_/http%3A//www.darrelconceptsghana.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darrelconceptsghana.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231005946id_/http%3A//www.darrelconceptsghana.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Darrel Technologies Ghana- www.darrelconceptsghana.com
+
+**Our Commitment To Your Privacy**
 
 At Darrel Technologies your privacy is important to us. We therefor adopt effective measures to ensure the privacy of all visitors to our [website](http://www.darrelconceptsghana.com/). The following represents the policy governing collection and use of information on this site. A link to this page is available on all pages on our site.
 
@@ -24,16 +26,19 @@ We use non-identifying information to improve our [website](http://www.darrelcon
 
 If at any point we would use personally identifiable information in anyway other than those stated, we will always give users a way to opt-out, or otherwise prohibit the use of such information. 
 
-## Exteral Links 
+## External Links 
 
 Our website currently displays a number of links to companies with whom we have a relationship. Darrel Technologies is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
-**For questions regarding our privacy policy, do not hesitate to call or email us. You can also contact the[support team](http://www.darrelconceptsghana.com/support "Customer Support"). **
+**Feel free to contact the[support team](http://www.darrelconceptsghana.com/support "Customer Support") if you require additional information about our privacy policy.**
+
+## Darrel Technologies Ltd,
 
   
-Darrel Technologies,  
-Plot 4, Block 6, Asokwa,   
-Kumasi, Ghana   
-+233 24 4528251  
+Plot BA 137, High Street,   
+Bantama, Kumasi, Ghana   
+**+233 51 44387  
++233 51 42958   
++233 24 4528251**  
 [info@darrelconceptsghana.com](mailto:info@darrelconceptsghana.com "Email Customer Support")  
 
