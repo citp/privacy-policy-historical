@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the bsesdelhi.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsesdelhi.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232733id_/http%3A//www.bsesdelhi.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::BSES Delhi::
 
 |  |   
 ---|---  
    
-  |  |  | [](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)[FAQs](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/FAQMain.asp)[](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)  
-  |  |   | [Feedback](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/feedback.asp)  
-  |  |   | [High Power Theft Prone Areas](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/high_loss_dt.asp)[](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/FAQMain.asp)  
-  |  |   | [Meter replacement ](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/Vendor.asp)  
+  |  |  | [FAQs](https://web.archive.org/web/20091230232733id_/http%3A//FAQMain.asp)[](https://web.archive.org/web/20091230232733id_/http%3A//FAQMain.asp)  
+  |  |   | [Feedback](https://web.archive.org/web/20091230232733id_/http%3A//feedback.asp)  
+  |  |   | [High Power Theft Prone Areas](https://web.archive.org/web/20091230232733id_/http%3A//high_loss_dt.asp)  
+  |  |   | [Meter replacement ](https://web.archive.org/web/20091230232733id_/http%3A//Vendor.asp)  
+  |  |   | [Contracts & Materials Information](https://web.archive.org/web/20091230232733id_/http%3A//pdf/Annexure-II.pdf)  
   |  |   |    
-  |  |   | [Applause](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/applause.asp)  
-  |  |   | [Initiative to Train Electricians](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/TrainingElectrician/TrainingElectricians.asp)  
-  |  |   | [Print Duplicate Bill ](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/Duplicate_Bill.asp)  
-  |   |   |    
+  |  |   | [Applause](https://web.archive.org/web/20091230232733id_/http%3A//applause.asp)  
+  |  |   | [Initiative to Train Electricians](https://web.archive.org/web/20091230232733id_/http%3A//TrainingElectrician/TrainingElectricians.asp)  
+  |  |   | [Print Duplicate Bill ](https://web.archive.org/web/20091230232733id_/http%3A//Duplicate_Bill.asp)  
+  |  |   | [Amnesty Scheme](https://web.archive.org/web/20091230232733id_/http%3A//BSES_AD.pdf)  
   |  |   |    
-  |  |   | [Regulatory](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/regulatory/regulatory.asp)  
-  |  |   | [Delhi subsidy scheme](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/PublicAwareness/Delhi_subsidy_scheme.asp)  
-  |  |   | [Power Procurement Tender ](https://web.archive.org/web/20090417034833id_/http%3A//www.bsesdelhi.com/power-tender.asp)  
+  |  |   | [Regulatory](https://web.archive.org/web/20091230232733id_/http%3A//regulatory/regulatory.asp)  
+  |  |   | [Delhi subsidy scheme](https://web.archive.org/web/20091230232733id_/http%3A//PublicAwareness/Delhi_subsidy_scheme.asp)  
+  |  |   | [Power Procurement Tender ](https://web.archive.org/web/20091230232733id_/http%3A//power-tender.asp)  
   |   |  |    
-  |  | Privancy Policy   
+  |  | Privacy Policy   
 ---  
 | 
 
@@ -52,7 +53,7 @@ Personal Information
   |    
 6. | We may also remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes.   
   |    
-7. | f you e-mail us, you are voluntarily releasing information to us. Your e-mail address will be used by BSES Rajdhani / Yamuna Power Ltd. to respond to you. We will not use the information that can identify you, such as your e-mail address, for direct marketing purposes.  
+7. | If you e-mail us, you are voluntarily releasing information to us. Your e-mail address will be used by BSES Rajdhani / Yamuna Power Ltd. to respond to you. We will not use the information that can identify you, such as your e-mail address, for direct marketing purposes.  
   |    
 8. | In addition, we may have collected similar information from you in the past. By entering this website you are consenting to the terms of our information privacy policy and to our continued use of previously collected information. By submitting your personal information to us, you will be treated as having given your permission for the processing of your personal data as set out in this policy.  
   
