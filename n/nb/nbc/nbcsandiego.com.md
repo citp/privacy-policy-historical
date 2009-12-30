@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114244id_/http%3A//www.nbcsandiego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230050432id_/http%3A//www.nbcsandiego.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC San Diego
+
+## Privacy Policy
 
 _This Privacy Policy was last updated on September 25, 2008._
 
