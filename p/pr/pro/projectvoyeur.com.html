@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the projectvoyeur.com privacy policy that was archived on 2009-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523223733id_/http%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the projectvoyeur.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230224248id_/http%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" type="text/css" href="http://content.projectvoyeur.com/templates/default/styles/pv.css">
@@ -8,7 +8,7 @@
 <!--[if lte IE 6]>
 <link rel="stylesheet" media="all" type="text/css" href="/templates/default/styles/dropdown_ie.css" />
 <![endif]-->
-<title>The FREE Project Voyeur, Free Nude Amateur &amp; Voyeur Wife Photos, Daily Privacy</title>
+<title>FREE Project Voyeur - Privacy</title>
 <meta content="Privacy" name="description">
 <meta content="" name="keywords">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,6 +24,9 @@
 <script type="text/javascript" src="http://content.projectvoyeur.com/js/jquery.form.js"></script>
 <script type="text/javascript" src="http://content.projectvoyeur.com/js/jquery.simplemodal.pack.js"></script>
 <script type="text/javascript" src="http://content.projectvoyeur.com/js/checkMessages.js"></script>
+<script type="text/javascript" src="http://content.projectvoyeur.com/templates/default/styles/input-placeholder-text.js"></script>
+<script type="text/javascript" src="http://content.projectvoyeur.com/js/login.js"></script>
+
 </head>
 
 <body>
@@ -51,6 +54,16 @@
 
 
 <div id="header">
+
+<div class="registerfloatright">
+   
+   
+
+  
+  <a class="floatleft" href="/register/">Register Free </a> | <a href="/forgotpass/">Forgot password?</a>  
+  
+  
+  </div>
  <!--Alert popup message-->
 	<div class="alert"><div class="popup" id="popup" style="display: none">
 	<div class="warning" id="warning" style="display: none">
@@ -69,21 +82,7 @@
    
   
    
-   <div class="registerfloatright">
-   
-   
-
-  
-  <a class="floatleft" href="/register/">Register Free</a> | <a href="/forgotpass/">Forgot password?</a>  
-  
-  
-  
-   
-   
-   </div>
-   
-  
-  <div class="menu">
+   <div class="menu">
 
   <ul class="level-0" id="cssmw0">
 
@@ -100,11 +99,7 @@
 <li><span><a href="/category/milf/" title="MILF PHOTOS" target="_self">MILF PICS</a></span></li>
 
 <li><span><a href="/category/videos/" title="SOFTCORE VIDEOS" target="_self">SOFTCORE VIDEOS</a></span></li>
-
-<li><span><a href="/category/pro/" title="PRO SHOW PHOTOS" target="_self">PRO-SHOW PICS</a></span></li>
-
- <li><span><a href="/allstars/viewAll/id/1" title="ALL STARS" target="_self"> ALL STARS</a></span> </li>
-
+<li><span><a href="/register" title="ALL STARS" target="_self"> ALL STARS</a></span> </li>
 </ul>
 
 </li>
@@ -115,11 +110,11 @@
 
 
 <ul class="level-1">
-	  
-	        <li><span><a href="/subscribe" title="UPGRADE TODAY" target="_self">UPGRADE</a></span></li>
+	    <li><span><a href="/subscribe" title="HARDCORE" target="_self">Upgrade </a> </span>  </li>
 
-
-</ul>
+   <li></li>
+	   
+	     </ul>
 
 </li>
 
@@ -131,7 +126,7 @@
         
 		 <li><span><a href="/contests/index/" title="OUR WINNERS" target="_self">OUR WINNERS</a></span> </li>
 
-		 <li><span><a href="http://shop.projectvoyeur.com/" title="ADULT STORE" target="_self">ADULT STORE</a></span> </li>
+		 <li><span><a href="http://shop.projectvoyeur.com/" title="ADULT STORE" target="_blank">ADULT STORE</a></span> </li>
 		 <li><span><a href="/forum/index/" title="FORUMS" target="_self">FORUMS</a></span> </li>
 		 <li><span><a href="/search/index/" title="SEARCH" target="_self">SEARCH</a></span> </li>
 		
@@ -154,39 +149,47 @@
 
  
 
-
-  
-  
-<script type="text/javascript">
-	function checkAuth()
-	{
-		var login = jQuery('input[@name=login]');
-		var password = jQuery('input[@name=password]');
-		
-		if (login.val() == '') {
-			alert('Please enter Username');
-			login.focus();
-			
-			return false;
-		}
-		if (password.val() == '') {
-			alert('Please enter Password');
-			password.focus();
-			
-			return false;
-		}
-		
-		return true;
-	}
-</script>
+<div class="registerlogin">
 
 
-    <form action="/auth/login/" method="post" onsubmit="return checkAuth()">
-	 <input type="text" id="login" value="" name="login" size="12" style="font-size: 10px; ">
-	 <input type="hidden" name="next" value="">
-	 <input type="password" name="password" size="12" style="font-size: 10px;">&nbsp;<input type="submit" value="LOG IN" style="font-size: 10px; background-color:#003399; color:#FFFFFF">
-	</form>  
   
+     
+   
+   
+   
+    <form action="/auth/login/" method="post" id="header_login_form">
+	
+	
+	
+	
+	
+	<table class="signin">
+  <tbody><tr>
+    <td> 
+      <label for="text-clear"><input class="auto-clear" type="text" id="login" value="" name="login" title="Username" tabindex="1" size="12" style="font-size: 10px; "></label>
+      <input type="hidden" name="next" value="">
+    </td>
+    <td>  
+      <input type="checkbox" value="1" tabindex="4" name="remember"> 
+      Remember me</td>
+  </tr>
+  <tr>
+    <td>
+      <label for="text-clear"><input class="auto-clear" type="text" name="password" title="Password" tabindex="2" size="12" style="font-size: 10px;"></label>
+
+   </td>
+    <td>
+      <input type="submit" value="LOG IN" style="font-size: 10px;" tabindex="3">
+    </td>
+  </tr>
+</tbody></table>
+
+	 
+	</form>
+	  
+  
+
+</div>
   
 
  
@@ -280,17 +283,19 @@ Detailed information about you is only collected when you are advised explicitly
 
 <script type="text/javascript"> _uacct = "UA-2290027-1"; urchinTracker(); </script>
 
-  <p><a href="/pages/terms.php" title="Project Voyeur Terms &amp; Conditions">Terms &amp; Conditions</a>&nbsp; | 
+  <p><a href="/pages/terms.php" title="Project Voyeur Terms &amp; Conditions" rel="nofollow">Terms &amp; Conditions</a>&nbsp; | 
 
-  <a href="/pages/privacy.php" title="Project Voyeur Privacy Statement">Privacy Statement</a>&nbsp; | 
+  <a href="/pages/privacy.php" title="Project Voyeur Privacy Statement" rel="nofollow">Privacy Statement</a>&nbsp; | 
+  
+    <a href="/pages/besafe.php" title="Project Voyeur Be Safe" rel="nofollow">Be Safe</a>&nbsp; | 
 
-  <a href="http://support.projectvoyeur.com" title="Project Voyeur Support">Help &amp; Support</a>&nbsp; | 
+  <a href="http://support.projectvoyeur.com" title="Project Voyeur Support" rel="nofollow">Help &amp; Support</a>&nbsp; | 
 
-  <a href="/pages/contact.php" title="Project Voyeur Contact Us">Contact Us</a>&nbsp; | 
+  <a href="/pages/contact.php" title="Project Voyeur Contact Us" rel="nofollow">Contact Us</a>&nbsp; | 
 
-  <a href="/pages/about.php">About Us </a>| 
+  <a href="/pages/about.php" rel="nofollow">About Us </a>| 
 
-  <a href="/pages/billing.php" title="Project voyeur billing">Billing</a> |<br>
+  <a href="/pages/billing.php" title="Project voyeur billing" rel="nofollow">Billing</a> |<br>
 
     <br>
 
@@ -300,10 +305,10 @@ Detailed information about you is only collected when you are advised explicitly
 
   SharpeDezine BV, The Netherlands. legal(at)sharpedezine(dot)com<br>
 
-Hosting by <a href="http://www.muntinternet.net">MuntInternet Hosting</a>.</p>
+Hosting by <a href="http://www.muntinternet.net" rel="nofollow">MuntInternet Hosting</a>.</p>
 
 
-<p><a href="/pages/2257.php">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement.</a></p>
+<p><a href="/pages/2257.php" rel="nofollow">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement.</a></p>
 
  
 </div>
