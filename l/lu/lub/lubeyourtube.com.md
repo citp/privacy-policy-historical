@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubeyourtube.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302082923id_/http%3A//www.lubeyourtube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubeyourtube.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230044037id_/http%3A//lubeyourtube.com/privacy.html) for the most accurate reproduction.*
 
 # LubeYourTube
 
