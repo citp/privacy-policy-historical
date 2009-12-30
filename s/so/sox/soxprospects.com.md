@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603041848id_/http%3A//soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | SoxProspects.com
 
-| [](https://web.archive.org/web/20090603041848id_/http%3A//soxprospects.com/index.html) |    
+| [](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/index.html) |    
 ---|---  
   
   |   |   |    
@@ -29,7 +29,7 @@ We do not use cookies or web beacons to store information. We also use third par
 SoxProspects.com uses third-parties to hosts the [online forum](http://forum-soxprospects.com/directory), the [news blog](http://news.soxprospects.com/), and the [ wiki](http://wiki.soxprospects.com/). SoxProspects.com is not responsible for information collected by those third parties. Those third parties' respective Privacy Policies can be found below:
 
 Online Forum - **[ Yuku](http://www.yuku.com/homepage/privacy/t/Yuku-Privacy.html)**  
-News Blog - **[Google Blogger](http://www.blogger.com/privacy)**  
+SoxProspects News - **[Google Blogger](http://www.blogger.com/privacy)**  
 Wiki - **[ Wikispaces](http://www.wikispaces.com/Privacy+Notice)**
 
 **Contact Us**  
@@ -39,16 +39,10 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Sponsored By  
    
-[ ](http://www.betus.com/)  
+[ ](http://www.betus.com/ats/15659/?camp=tiger)  
    
   
 ---  
-  
-   
-Purchase [ cheap tickets](http://www.bestshowticketslasvegas.com/) to the [ Red Sox](http://www.bestshowticketslasvegas.com/buy-boston-red-sox-tickets.asp), [ Yankees](http://www.bestshowticketslasvegas.com/ResultsGeneral.asp?stype=0&kwds=New%20York%20Yankees), [ New England Patriots](http://www.clickitticket.com/nfl-tickets/New-England-Patriots.htm), and [ World Series tickets](http://www.oakwebworks.com/tickets/MLB-tickets/World-Series.htm), too. Also find [ Celine Dion tickets](http://www.bestshowticketslasvegas.com/celine-dion-concert-tickets.asp), [ cheap Young Frankenstein tickets](http://www.clickitticket.com/broadway-theatre/Young-Frankenstein-Tickets.htm),   
-[ Bruce Springsteen tickets](http://www.bestshowticketslasvegas.com/bruce-springsteen-concert-tickets.asp), and   
-[ San Diego Chargers tickets](http://www.bestshowticketslasvegas.com/san-diego-chargers-tickets.asp)  
-   
   
    
 Buy your [ MLB baseball tickets](http://www.coasttocoasttickets.com/mlb_baseball/) today.  Get [ Boston Red Sox tickets](http://www.coasttocoasttickets.com/mlb_baseball/redsox_tickets.shtml), [ Cubs tickets](http://www.coasttocoasttickets.com/mlb_baseball/cubs_tickets.shtml),   
@@ -72,6 +66,10 @@ and [ Athletics tickets](http://www.coasttocoasttickets.com/mlb_baseball/athleti
    
   
    
+Need football tickets? Visit [ SecureYourSeat.com](http://secureyourseat.com/)!  They have [ Tottenham Hotspur tickets](http://www.secureyourseat.com/tottenham-hotspur-tickets-c-574.html), [ Aston Villa tickets](http://www.secureyourseat.com/aston-villa-tickets-c-628.html), & [ Fulham tickets](http://www.secureyourseat.com/fulham-tickets-c-633.html). They also offer [ Premier League tickets](http://www.secureyourseat.com/premier-league-tickets-c-585.html) and [ Champions League tickets](http://www.secureyourseat.com/champions-league-tickets-c-656.html).  
+   
+  
+   
 [ Red Sox Tickets](http://events.ticketsplus.com/boston_red_sox_tickets.htm), [ Yankees tickets](http://www.ticketliquidator.com/tix/new-york-yankees-tickets.aspx), [ Mets Tickets](http://www.ticketliquidator.com/tix/new-york-mets-tickets.aspx), and other [ Baseball Tickets](http://www.ticketliquidator.com/MLB.aspx). Premium [ NFL Tickets](http://www.ticketliquidator.com/NFL.aspx): [ Steelers Tickets](http://www.ticketliquidator.com/tix/pittsburgh-steelers-tickets.aspx), [ Cowboys Tickets](http://www.ticketliquidator.com/tix/dallas-cowboys-tickets.aspx), and [ Patriots Tickets](http://www.ticketliquidator.com/tix/new-england-patriots-tickets.aspx).   
    
   
@@ -79,32 +77,29 @@ and [ Athletics tickets](http://www.coasttocoasttickets.com/mlb_baseball/athleti
 [ Red Sox Schedule](http://www.gotickets.com/sports/mlb/al/boston_red_sox.php), [ Yankees Schedule](http://www.gotickets.com/sports/mlb/al/new_york_yankees.php), [ White Sox Schedule](http://www.gotickets.com/sports/mlb/al/chicago_white_sox.php), [ World Series Tickets](http://www.gotickets.com/sports/mlb/world_series.php), [ Baltimore Orioles Schedule](http://www.gotickets.com/sports/mlb/al/baltimore_orioles.php), [ Rose Bowl Tickets](http://www.gotickets.com/sports/college_football/bowl_games/rose_bowl.php), [ Orange Bowl Tickets](http://www.gotickets.com/sports/college_football/bowl_games/orange_bowl.php)  
    
   
-[ ](http://www.cafepress.com/soxprospects)  
+   
+Order [ F](http://www.livefootballtickets.com/)[ootball tickets](http://www.livefootballtickets.com/)[ in Europe](http://www.livefootballtickets.com/), such as [ Carling Cup tickets](http://www.livefootballtickets.com/carling-cup-tickets.html),   
+[ Champions League tickets](http://www.livefootballtickets.com/champions-league-tickets.html), [ Community Shield tickets](http://www.livefootballtickets.com/community-shield-tickets.html), [ English FA Cup tickets](http://www.livefootballtickets.com/fa-cup-tickets.html), [ Liverpool tickets](http://www.livefootballtickets.com/english-premiership/liverpool-tickets.html), and [ Chelsea tickets](http://www.livefootballtickets.com/english-premiership/fc-chelsea-tickets.html)   
+   
+  
+   
 Rankings updated every Friday  
 during the season  
-[** Prospect Grading Legend**](https://web.archive.org/web/20090603041848id_/http%3A//soxprospects.com/about.htm#Grades)  
-  
-  **SoxProspects Search     
-**   
    
+[** Prospect Grading Legend**](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/about.htm#Grades)  
+   
+  
+   
+**SoxProspects Search**  
+  
   
    
 [ ](http://www.jimmyfund.org/)  
 [ The Jimmy Fund](http://www.jimmyfund.org/)  
    
-   
-[ ](http://www.redsoxfoundation.org/)  
-[ Red Sox Foundation](http://www.redsoxfoundation.org/)   
-   
   
-  |  |   |   |    
----|---|---  
-|    | 
-
-  
-[ ](http://www.bostondirtdogs.com/)  
-   
-  
+  |   
+---|---  
   |  |   |   |   |   |   |    
 ---|---|---|---|---|---  
 **   
@@ -123,15 +118,15 @@ during the season
   |   |   |   |   |    
   |  |  **Copyright © 2003-2009 SoxProspects.com**  
 All Rights Reserved.  
-**Last Updated** : Friday, May 08, 2009 11:16 AM   
+**Last Updated** : Tuesday, December 08, 2009 08:50 AM   
 **email** : [ info@soxprospects.com](mailto:info@soxprospects.com) | 
 
    
-[Site Map](https://web.archive.org/web/20090603041848id_/http%3A//soxprospects.com/sitemap.htm)  
+[Site Map](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/sitemap.htm)  
     
 [ RSS Feed](http://www.blogger.com/feeds/13579837/posts/default)  
     
-[Privacy Policy](https://web.archive.org/web/20090603041848id_/http%3A//soxprospects.com/privacypolicy.htm)  
+[Privacy Policy](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/privacypolicy.htm)  
  
 
 |  SoxProspects.com is in no way affiliated with the Boston Red Sox, Pawtucket Red Sox, Portland Sea Dogs, Salem Red Sox, Greenville Drive, Lowell Spinners, Gulf Coast League Red Sox, Major League Baseball, the International League, Eastern League, Carolina League, South Atlantic League, New York-Penn League, Gulf Coast League, or Minor League Baseball.    
