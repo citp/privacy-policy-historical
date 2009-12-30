@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611105618id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230084642id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Established Men
+# Privacy Policy — Established Men
 
 ## Privacy Statement
 
-218121 Ontario Inc. (“we,” “us” or “Established Men”) is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the “Website”) and use of our service (“Service”). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: December 28, 2008.
+Established Men Ontario Inc. ("we," "us" or "Established Men") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 26, 2009. 
 
 The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information.
 
 ### What Information is collected?
 
-We collect two types of information: personally identifiable information (“PII”) and non-personally identifiable information (“Non-PII”), which is also referred to as aggregate and anonymous data.
+We collect two types of information: personally identifiable information ("PII") and non-personally identifiable information ("Non-PII"), which is also referred to as aggregate and anonymous data.
 
 ### What information do you gather automatically from visitors?
 
@@ -32,7 +32,7 @@ Your Non-PII is used to personalize your experience, allow other members to find
 
 #### PII
 
-The PII we collect from you is used in the course of providing our service to you and to improve the content and functionality of our Website or customize the layout of our pages for each individual member. We may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. We may also use your PII to send electronic mail to you, for the purpose of informing you of changes or additions to the Service, or of any Established Men products and services.
+The PII we collect from you is used in the course of providing our service to you and to improve the content and functionality of our Website or customize the layout of our pages for each individual member. We may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. We may also use your PII to send electronic mail to you, for the purpose of informing you of changes or additions to the Service, or of any Established Men products and services. 
 
 The PII we collect is not released to any non-affiliated third party without your prior consent except as provided below:
 
@@ -42,7 +42,7 @@ Under some circumstances we may require certain additional information, includin
 
 ### Trusted Third-Parties
 
-Unless you opt out, we may share PII about our users sometimes in connection with Non-PII with service providers that may be associated with us to perform functions on our behalf. In addition, unless you opt out, from time to time we may share and/or sell PII about our users (such as your mailing or email addresses) with selected third parties, so they can offer goods and services that we believe may be of interest or benefit to our users. If you prefer not to receive messages from these third parties you may notify us by opting out at any time by going to the “Manage Profile” or “Message Center” sections of your Ad Profile as described more fully below.
+Unless you opt out, we may share PII about our users sometimes in connection with Non-PII with service providers that may be associated with us to perform functions on our behalf. In addition, unless you opt out, from time to time we may share and/or sell PII about our users (such as your mailing or email addresses) with selected third parties, so they can offer goods and services that we believe may be of interest or benefit to our users. If you prefer not to receive messages from these third parties you may notify us by opting out at any time by going to the "Manage Profile" or "Message Center" sections of your Ad Profile as described more fully below.
 
 ### Legal Request
 
@@ -68,7 +68,7 @@ Please be aware that it may take several hours for any custom changes you make t
 
 ### Unsolicited Contact (SPAM)
 
-Established Men, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time.
+Established Men, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time. 
 
 ### Do you monitor online behavior?
 
@@ -88,17 +88,17 @@ We treat data as an asset that must be protected against loss and unauthorized a
 
 ### Canada's Personal Information Protection and Electronic Documents Act
 
-The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully adhere to it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below or at the mailing address referred to below (you may also change your personal information usage profile by accessing the “Manage Profile” or “Message Center” sections of your Ad Profile).
+The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully adhere to it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below or at the mailing address referred to below (you may also change your personal information usage profile by accessing the "Manage Profile" or "Message Center" sections of your Ad Profile).
 
 ### California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Established Men for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Established Men for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice. 
 
 To contact us concerning Privacy issues, please use the [Contact Form](https://web.archive.org/contact_us "Contact Form"). All other inquiries should be sent using our [Contact Us](https://web.archive.org/contact_us "Contact Us") section.
 
 **Attn:** Privacy Officer   
-218121 Ontario Inc. 
+Established Men Inc. 
 
 (DBA Established Men)   
-2300 Yonge Street, Suite 1906, P.O. Box 2313   
-Toronto, ON Canada M4P 1E4 
+20 Eglinton Ave West, Suite 1200   
+Toronto, ON Canada M4R 1K8 
