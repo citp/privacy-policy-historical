@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603054935id_/http%3A//www.firestonecompleteautocare.com/privacy_statement/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230172903id_/http%3A//www.firestonecompleteautocare.com/privacy_statement/index.jsp) for the most accurate reproduction.*
 
-# Firestone Complete Auto Care - Privacy Statement
+# Privacy Statement - Firestone Complete Auto Care
 
 Firestone Complete Auto Care thanks you for accessing or using this web site (the "Site"). Firestone Complete Auto Care wants to assure you that Firestone Complete Auto Care respects your privacy. Firestone Complete Auto Care knows that trust is the key to any successful business relationship. The following Privacy Policy describes Firestone Complete Auto Care's commitment to protect your personal information.
 
