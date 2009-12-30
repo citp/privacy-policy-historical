@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniusa.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509185047id_/http%3A//www.miniusa.com/footer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniusa.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223918id_/http%3A//www.miniusa.com/footer-privacy-policy.html) for the most accurate reproduction.*
 
 # MINI USA Privacy Policy at MINIUSA.com
 
@@ -74,5 +74,6 @@ Westwood NJ 07675-1227
 
   * **MINI USA**
   * [MINI Financial Services](https://web.archive.org/footer-privacy-policy-fs.html)
+  * [Product Info](https://web.archive.org/footer-privacy-policy-product-info.html)
 
 
