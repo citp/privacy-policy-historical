@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302085745id_/http%3A//www.docusign.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230180532id_/http%3A//www.docusign.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Signatures & Electronic Document Management by DocuSign
+# DocuSign Privacy Policy
 
 [](http://web.ita.doc.gov/safeharbor/shlist.nsf/%20webPages/safe+harbor+list)The privacy practices of this statement apply to our services available under the domain and sub domains of www.docusign.com (the "Site") (including docusign.net, docusignexpress.com, and docusign-inc.com). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site or products. 
 
