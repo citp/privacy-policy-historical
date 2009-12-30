@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pornaccess.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213141538id_/http%3A//pornaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornaccess.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034954id_/http%3A//www.pornaccess.com/privacy.php) for the most accurate reproduction.*
 
-# PornAccess : One password... Infinite Porn !
-
-## Privacy Policy
+# Privacy Policy - PornAccess
 
 This policy explains what kind of information we may gather from any user and/or members on our sites. This site is an adult site and its purposes should only be used by persons that are 18 or older. All persons under that age are not allowed to view the content of this site and should leave immediately.
 
@@ -23,3 +21,5 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 ### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [support@pornaccess.com](mailto:support@pornaccess.com) or write us at 3300 Cote-Vertu, Suite 406, Montreal, Quebec, H4R 2B7, Canada.
+
+[One Password = Unlimited Access ! With only one membership you can get unlimited access to all sites !](https://secure.pornaccess.com/join.php)
