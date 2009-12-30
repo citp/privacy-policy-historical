@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paretologic.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624014429id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paretologic.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031031id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # ParetoLogic - Company - Privacy Policy
 
