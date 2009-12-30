@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yellowpages.travel privacy policy that was archived on 2009-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090610152409id_/http%3A//www.yellowpages.travel/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowpages.travel privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230071926id_/http%3A//www.yellowpages.travel/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy policy - Yellow Pages Travel Directory - YELLOWPAGES.travel</title>
@@ -7,7 +7,7 @@
 <meta name="description" content="Are you tired of opening multiple browsers and entering your itinerary over and over again? We offer a tool to search all of the leading travel sites at the same time!">
 <meta name="rating" content="directory">
 <meta name="distribution" content="Global">
-<meta http-equiv="Expires" content="Fri, 12 Jun 2009 08:24:09 PDT">
+<meta http-equiv="Expires" content="Thu, 31 Dec 2009 23:19:30 PST">
 <meta name="revisit-after" content="2 days">
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <meta name="robots" content="FOLLOW,INDEX">
@@ -15,7 +15,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en">
 <meta name="verify-v1" content="VZ0zKC+Cft/Jh7DuENj/RRoedOAZiHbD1wLeWCV/vnI=">
-<script type="text/javascript" src="/js/include.js.php?type=main"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/prototype.js.php"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/effects.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/controls.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/balloontip.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/overlib.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/main.js"></script><script type="text/javascript" src="https://web.archive.org/web/20080527024419/http://www.yellowpages.travel/js/otbookingbox.js"></script>
+<script type="text/javascript" src="/js/protoaculous.1.8.2.min.js"></script>
 <link href="/includes/main.css" rel="stylesheet" type="text/css">
 <link href="/style.yellowpages.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -142,12 +142,15 @@ var email="";
 var logintype="";
 var user_city="";
 var site = "YELLOWPAGES.travel";
+var codeFrom = '';
+var codeTo = '';
+
 function __window_login(login)
 {
-		if (email != "") return(true);
+	if (email != "") return(true);
 	OpenWindow('login', {noclose:true});
 	
-	if ($('user_city_in')) $('user_city_in').value = codeFrom; //#searcheaders
+	if ($('user_city_in')) $('user_city_in').value = YPS.codeFrom||codeFrom; //#searcheaders
 	if ($('departing_city')&&$('from_flight'))$('departing_city').value = $('from_flight').value;
 	if ($('wfp')) $('wfp').style.display='none';
 	if ($('wfl')) $('wfl').style.display='inline';
@@ -174,16 +177,24 @@ window.onload = function()
   <div class="bottom_right">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><table border="0" align="center" cellpadding="0" cellspacing="0">
+    <td>
+    	<table width="965" border="0" align="center" cellpadding="0" cellspacing="0">
         <tbody><tr>
-          <td width="434" height="90" align="right"><a href="/index.php" target="_top"><img src="/images/YellowPages.gif" alt="YELLOWPAGES.travel" vspace="0" border="0" style="padding-left: 10px;"></a></td>
-          <td width="650" align="center">
+          <td><div style="position:relative">
+    <div style="font-size: 10pt; position:absolute; left: 10px; top: 63px; text-align:center;">"YP.travel is not sponsored by or affiliated with AT&amp;T or YP.com. All services, products and prizes offered by YP.travel are the sole responsibility of YP.travel"</div>
+    
+    <table width="965" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="76" height="90" align="left"><a href="/index.php" target="_top"><img src="/images/YellowPagesLogo.gif" alt="YELLOWPAGES.travel" vspace="0" border="0" style="padding-right: 30px;"></a></td>
+          <td width="669" align="center">
           <div id="heading_object">
-                    <h3>Search the travel sites at the same time with a click!</h3>
+                    <div style="margin-top: 15px;">
+          <h3>Search the travel sites at the same time with a click!</h3>
+          </div>
                     </div>
           </td>
                   </tr>
-    </tbody></table></td>
+    </tbody></table></div></td></tr></tbody></table></td>
   </tr>
   <tr>
     <td align="left" valign="top" id="content">
@@ -237,8 +248,8 @@ window.onload = function()
                               <tbody><tr>
                                 <td align="left" valign="top"><a href="http://directory.yellowpages.travel/select/motels/"><img src="/images/search/simplemotelson.gif" width="65" height="26" border="0"></a></td>
                                 <td align="left" valign="top"><a href="http://directory.yellowpages.travel/select/private-jet/"><img src="/images/search/simpleprivatejeton.gif" width="94" height="26" border="0"></a></td>
-                                <td align="left" valign="top"><a href="http://directory.yellowpages.travel/travel-clothing/"><img src="/images/search/simpletravelgearclothingon.gif" width="167" height="26" border="0"></a></td>
-                                <td align="left" valign="top"><a href="http://directory.yellowpages.travel/travel-luggage/"><img src="/images/search/simpleluggageon.gif" width="75" height="26" border="0"></a></td>
+                                <td align="left" valign="top"><a href="http://directory.yellowpages.travel/select/travel-clothing/"><img src="/images/search/simpletravelgearclothingon.gif" width="167" height="26" border="0"></a></td>
+                                <td align="left" valign="top"><a href="http://directory.yellowpages.travel/select/travel-luggage/"><img src="/images/search/simpleluggageon.gif" width="75" height="26" border="0"></a></td>
                                 <td align="left" valign="top"><a href="http://directory.yellowpages.travel/select/travel-insurance/"><img src="/images/search/simpletravelinsuranceon.gif" border="0"></a></td>
                                 <td align="left" valign="top"><a href="http://directory.yellowpages.travel/select/golf-resorts/"><img src="/images/search/simplegolfresortson.gif" border="0"></a></td>
                               </tr>
@@ -259,7 +270,7 @@ window.onload = function()
                           <td align="center" style="line-height: 20px; font-size: 14px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody><tr>
                                 <td valign="bottom">
-                                                              <input name="sendQuestion" type="text" class="pinputQ" id="sendQuestion" value="When does Marti Gras start in Rio?" style="width: 100%;" onclick="if (this.value=='When does Marti Gras start in Rio?') this.value='';" onblur="if (this.value=='') this.value='When does Marti Gras start in Rio?';"></td>
+                                                              <input name="sendQuestion" type="text" class="pinputQ" id="sendQuestion" value="Is Puerto Rico cold in March?" style="width: 100%;" onclick="if (this.value=='Is Puerto Rico cold in March?') this.value='';" onblur="if (this.value=='') this.value='Is Puerto Rico cold in March?';"></td>
                                 <td width="44" align="right" valign="bottom"><a href="javascript:void(0);" onclick="popwin();"><img src="http://www.comparison.travel/images/logos/simple/ask.gif" width="42" height="22" border="0"></a></td>
                               </tr>
                           </tbody></table></td>
@@ -398,9 +409,7 @@ window.onload = function()
       <p>In  the course of serving advertisements to this site, our third-party  advertiser may place or recognize a unique cookie on your browser. </p>
       <p><strong>Correcting/Update  Policy</strong></p>
       <p>If  you would like to correct and/or update your Preferred Listing  information, please contact our Customer Service Department.</p>
-      <p><br>
-      </p>
-      <p>For  questions or concerns please contact YELLOWPAGES.travel at  <img src="http://www.yellowpages.travel/includes/text.php?string=MS04NjYtWUVMTE9XLTE=" align="texttop">.</p>
+      <p>&nbsp;</p>
       <p> </p>
     </td>
   </tr>
@@ -421,25 +430,18 @@ window.onload = function()
     	<div id="foot" style="padding: 10px;">
         <p>
         	          
-        </p><p><a href="http://www.yellowpages.travel/aboutus/">About YELLOWPAGES.travel </a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/contactus/">Contact Us</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/sitemap/">Site Map</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/advertise/">Advertise With Us</a> &nbsp;|&nbsp;<a href="http://www.yellowpages.travel/investors/">Investors</a>&nbsp;|&nbsp;<a href="http://www.yellowpages.travel/complaints/">Complaints</a>&nbsp;|&nbsp;<a href="http://www.yellowpages.travel/tools/"><strong>TOOLS</strong></a>&nbsp;|&nbsp;<a href="http://www.yellowpages.travel/emailpartners/">Email Partners</a>&nbsp;  |&nbsp; <a href="http://www.YellowPagesAffiliate.com">Affiliate</a>&nbsp;  |&nbsp; <a href="http://www.yellowpages.travel/complaints/">Complaints</a><br>
-          <a href="http://www.yellowbook.com/recyclinginformation/" target="_blank">Phone  Book Recycling</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/privacypolicy/">Privacy Policy</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/engine/">Disclosures</a> &nbsp;|&nbsp; <a href="http://www.yellowpages.travel/engine/">Partners</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/getcertified/">Get Certified</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/reportaproblem/">Report a problem</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/IP/">IP</a>&nbsp;|&nbsp;&nbsp;<u><a href="/ip/">Holdings</a></u> |&nbsp; <a href="http://www.yellowpages.travel/traffic/">Traffic Stats</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/ads/">Ads</a> &nbsp;|&nbsp; <a href="http://www.yellowpages.travel/contest/">Contest</a> &nbsp;|&nbsp; <a href="http://www.yellowpages.travel/news/">News</a><br>
-          <a href="http://www.yellowpages.travel/iphone/">AT&amp;T iPhone </a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/blackberry">AT&amp;T&nbsp;BlackBerry&nbsp;</a>&nbsp;|&nbsp; <u><a href="/aircard">AT&amp;T&nbsp;AirCard</a></u>&nbsp;|&nbsp;<a href="http://www.yellowpages.travel/dsl">AT&amp;T&nbsp;DSL&nbsp;</a>
-          &nbsp;|&nbsp;<a href="http://www.HomePhoneDelivered.com/">AT&amp;T&nbsp;Home Phone</a>
-          &nbsp;|&nbsp;<a href="http://www.uVerseDelivered.com/">AT&amp;T&nbsp;UVerse</a>
-          &nbsp;|&nbsp;<a href="http://www.DirecTVDelivered.com/">AT&amp;T&nbsp;DirecTV</a>
-          &nbsp;|&nbsp;<a href="http://www.AdvancedTVDelivered.com/">AT&amp;T&nbsp;Advanced TV</a>
-          &nbsp;|&nbsp;<a href="http://www.YellowPagesDelivered.com">YP.com Ads</a>
+        </p><p><a href="http://www.yellowpages.travel/aboutus/">About YELLOWPAGES.travel </a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/contactus/">Contact Us</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/sitemap/">Site Map</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/advertise/">Advertise With Us</a> &nbsp;|&nbsp;<a href="http://www.yellowpages.travel/investors/">Investors</a>&nbsp;|&nbsp;&nbsp;<a href="http://www.yellowpages.travel/tools/"><strong>TOOLS</strong></a>&nbsp; |&nbsp; <a href="http://www.yellowpages.travel/emailpartners/">Email Partners</a>&nbsp;  |&nbsp; <a href="http://www.YellowPagesAffiliate.com">Affiliate</a>&nbsp;  |&nbsp; <a href="http://www.yellowpages.travel/complaints/">Complaints</a><br>
+          <a href="http://www.yellowbook.com/recyclinginformation/" target="_blank">Phone  Book Recycling</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/privacypolicy/">Privacy Policy</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/engine/">Disclosures</a> &nbsp;|&nbsp; <a href="http://www.yellowpages.travel/engine/">Partners</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/getcertified/">Get Certified</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/reportaproblem/">Report a problem</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/IP/">IP</a>&nbsp;|&nbsp;&nbsp;<u><a href="/ip/">Holdings</a></u> |&nbsp; <a href="http://www.yellowpages.travel/traffic/">Traffic Stats</a>&nbsp;|&nbsp; <a href="http://www.yellowpages.travel/ads/">Ads</a> &nbsp;|&nbsp; <a href="http://www.yellowpages.travel/contest/">Contest</a><br>
           <br>
-          <br>
-        <a href="http://www.yellowprotection.com/">YP Protection</a>&nbsp;  |&nbsp; <a href="http://www.yellowwarranty.com/">YP Warranty</a>&nbsp;  |&nbsp; <a href="http://www.yellowpages.travel/guaranteed">YP Guaranteed</a>&nbsp;  |&nbsp; <a href="http://www.yellowassurance.com/">YP Assurance</a>&nbsp;  |&nbsp; <a href="http://www.yellowpagesoutsourcing.com/">YP Outsourcing</a>&nbsp;  |&nbsp; <a href="http://www.yellowsecured.com/">YP Secured</a>&nbsp;  |&nbsp; <a href="http://www.yellowpageshosting.com/">YP Hosting</a>&nbsp;  |&nbsp; <a href="http://www.yellowpagesprinting.com/">YP Printing</a>&nbsp;  |&nbsp; <a href="http://yellowpagesfinancial.com/">YP Financial</a>&nbsp;  |&nbsp; <a href="http://yellowpagescredit.com/">YP Credit</a>&nbsp;  |&nbsp; <a href="http://yellowpagesloans.com/">YP Loans</a>
-        </p><p>
-        	<a rel="nofollow" href="/charity/">15% of our profits are donated</a>&nbsp;|&nbsp; <a rel="nofollow" href="/firefox/">Best used with FireFox</a>
-        </p>
+        <a href="http://www.yellowprotection.com/">YP Protection</a>&nbsp;  |&nbsp; <a href="http://www.yellowwarranty.com/">YP Warranty</a>&nbsp;&nbsp;  |&nbsp; <a href="http://www.yellowpageshosting.com/">YP Hosting</a>&nbsp;  |&nbsp; <a href="http://www.yellowpagesprinting.com/">YP Printing</a>&nbsp;  |&nbsp; <a href="http://yellowpagesfinancial.com/">YP Financial</a>&nbsp;  |&nbsp; <a href="http://yellowpagescredit.com/">YP Credit</a>&nbsp;  |&nbsp; <a href="http://yellowpagesloans.com/">YP Loans</a>
+        | <a href="/directads">Yellow Direct Ads</a>
+        </p><p><a rel="nofollow" href="/charity/">15% of our profits are donated</a>&nbsp;|&nbsp; <a rel="nofollow" href="/firefox/">Best used with FireFox</a>        </p>
         <p>
         	<strong>Join YellowPages on:</strong>  <a href="http://www.facebook.com/group.php?gid=18227652793#/group.php?gid=18227652793" target="_blank">FaceBook</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.twitter.com/yptravel" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/yellowpagestravel" target="_blank">YouTube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.linkedin.com/groups?gid=1868045" target="_blank">LinkedIn</a> </p>
-        <p>©  2009 YELLOWPAGES.travel LLC. All rights reserved.<br>
-© 2009&nbsp;YellowPages Intellectual Property. All rights  reserved.&nbsp;YellowPages logo and all other marks contained herein are  trademarks of&nbsp;YellowPages. </p>
-				<div align="right" class="escape"><a href="http://www.EscapeWizard.com/">http://www.EscapeWizard.com</a></div>
+        <p><br>
+          ©  2009&nbsp;YP Intellectual Property. All rights reserved.&nbsp;All logo's and  all other marks contained herein are trademarks of&nbsp;YP Intellectual  Property.<br>
+Not affiliated or sponsored by AT&amp;T </p>
+				<div align="right" class="escape"><a href="http://www.cancunandrivieramaya.com/">http://www.cancunandrivieramaya.com</a><a href="http://www.EscapeWizard.com/">http://www.EscapeWizard.com</a></div>
         <div id="loginpanel" style="margin-top: 10px; line-height: 30px;"> <a href="#login" onclick="OpenWindow('login');">Login</a></div>      </div></td>
   </tr>
 </tbody></table>
@@ -635,6 +637,10 @@ window.onload = function()
 
 
 <iframe name="aframe" id="aframe" src="about:blank" style="display: none"></iframe>
+<a href="http://www.SweepStakes.ca" style="color: #FFFFFF;">www.SweepStakes.ca</a>
+<a href="http://www.CompareBookings.com" style="color: #FFFFFF;">www.CompareBookings.com</a>
+<a href="http://www.onemoretickets.com" style="color: #FFFFFF;">www.onemoretickets.com</a>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
