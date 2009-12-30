@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppcsummit.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201155613id_/http%3A//ppcsummit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcsummit.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230215940id_/http%3A//www.ppcsummit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pay Per Click: PPC Summit, Search Engine Marketing (SEM) Conference
 
