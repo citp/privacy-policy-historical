@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064031id_/http%3A//www.hdfcsec.com/Common/Content.aspx%3FArticleID%3D43202b24-b4bd-4b4f-8514-039d59fa7021) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232319id_/http%3A//www.hdfcsec.com/Common/Content.aspx%3FArticleID%3D43202b24-b4bd-4b4f-8514-039d59fa7021) for the most accurate reproduction.*
 
 # HDFC Securities
 
+|  [ ](https://web.archive.org/Investor.aspx) |   
+---|---  
+|  Did You Know ?  
+---  
+[Line Studies](https://web.archive.org/KnowledgeCenter/Story.aspx?ArticleID=1472b509-1511-493c-8b3a-33b3da391da5)  
+Over the past few sections, we have done with identification of a trend and...  
+ [More](https://web.archive.org/KnowledgeCenter/IntKCGrid.aspx?SubReportID=be477177-012f-4f98-95ee-414247941bdd)  
   
-|  | 
+| 
 
 | Statement on privacy and security
 
@@ -25,5 +32,17 @@ Please note that this privacy policy does not create any contractual or other le
   
 |  |   
 ---|---  
+   
+---  
+|  Copyright © 2007. All rights Reserved. HDFC Securities Limited.  
+Designed & Developed by [Idealake Information Technologies Pvt. Ltd.](http://www.idealake.com/)  
+Content provided by [Capital Market](http://www.capitalmarket.com/).  
+Site best viewed in IE 5.0+, Netscape 8.1 and Mozila Firefox 1.5+ at 800 x 600 pixels resolution.  
+All rights reserved. NSE: CM: INB 231109431 FO: INF 231109431 CURRENCY DERIVATIVES: TM & CM - INE 231109431 BSE: CM: INB 011109437 FO: INF 011109437 PMS: INP000000928 AMFI ARN NO. 13549 IRDA - CORPORATE AGENT .LICENCE NO. 2806925 COMPANY REGISTRATION NO. U67120MH2000PLC152193  HDFC Securities Limited | AMFI ARN No.13549   
   
- 
+  
+  
+[ ](https://web.archive.org/Research/SaveTax.aspx) [ ](https://web.archive.org/Research/MahindraFixedDeposit.aspx) [ ](https://web.archive.org/Research/CAPortfolio.aspx) [ ](https://web.archive.org/MutualFunds/BuySellMF.aspx?Heading=BuySellMF&ArticleID=4DDB398D-C218-48CE-8692-4EC7CDC77949)  
+  
+  
+
