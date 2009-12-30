@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626081355id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032444id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
-# The Insider's Guide to Business and IT Agility
+# An SOA, BPM, Decision Management and Cloud Computing Guide for the Enterprise Community.
 
 ebizQ manages the [ebizQ.net](https://web.archive.org/) Web site and the [ebizQ Conference](https://web.archive.org/events). ebizQ is committed to maximizing your experience and respecting your privacy while using these information resources.
 
@@ -43,7 +43,7 @@ Please note that we review our privacy practices from time to time, and that suc
 
 
 
-ebizQ is very interested in what you have to say. To contribute an article, an opinion, or to become a blogger, please contact [Peter Schooff](https://web.archive.org/company/feedback_form.html).
+ebizQ is very interested in what you have to say. To contribute an article, an opinion, or to become a blogger, please contact [Jessica Ann Mola](https://web.archive.org/company/feedback_form.html).
 
   * Virtual Conferences
   * Webinars
@@ -51,41 +51,42 @@ ebizQ is very interested in what you have to say. To contribute an article, an o
 
 
 
-### SOA Cloud Qcamp
+### SOA in Action
 
-June 3, 2009
+Oct 28-29, 2009
 
-One of the most compelling trends in the enterprise business technology space over the past year has been the emergence of cloud computing. In ebizQ’s upcoming Qcamp virtual un-conference, leading industry experts and practitioners will explore the role of service-oriented architecture (SOA) and business process management (BPM) in supporting cloud-computing initiatives. Additionally, the new skills that developers and IT managers need for successful cloud development will be discussed.[Register](https://web.archive.org/eventsv2/cloudqcamp.html)
+**SOA is ready for the business. But is the business ready for SOA?**  
+Welcome to Service-Oriented Architecture, phase two. Six years after SOA first hit the mainstream, many organizations have achieved strong value, while some are struggling to realize business results from this increasingly popular approach to technology deployment. Some challenging hurdles remain in the "Increase SOA value to the business" journey[Register](https://web.archive.org/eventsv2/soainaction.html?homebox)
 
 [View All Virtual Conferences](https://web.archive.org/eventsv2/conferences.html)
 
-### Insurance Roundtable: Discovering the Missing Link of Business Architecture
+### Understanding and Estimating the Business Value of Data Virtualization
 
-Date: **Aug 26, 2009**   
-Time: **12:00 PM ET- (16:00 GMT) **
+Date: **Nov 18, 2009**   
+Time: **12:00 PM ET- (17:00 GMT) **
 
-[REGISTER TODAY!](http://www.ebizq.net/webinars/10091.html#register)
+[REGISTER TODAY!](http://www.ebizq.net/webinars/11816.html#register)
 
-### ROUNDTABLE: Open Source Market Update
+### Oracle SOA Suite 11g: Enabling the Foundation for Next Generation Business Applications
 
-Date: **Sep 30, 2009**   
-Time: **12:00 PM ET- (16:00 GMT) **
+Date: **Nov 11, 2009**   
+Time: **11:00 AM ET- (16:00 GMT) **
 
-[REGISTER TODAY!](http://www.ebizq.net/webinars/10784.html#register)
+[REGISTER TODAY!](http://www.ebizq.net/webinars/11807.html#register)
 
 [View All Roundtables](https://web.archive.org/series/34.html)
 
   * White Papers 
   * Podcasts 
-  * Blogs 
+  * News 
 
 
 
-### [Hurwitz SOA Whitepaper](http://www.ebizq.net/white_papers/11327.html?related)
+### [Archiving as a Means to Better CRM Application Growth](http://www.ebizq.net/white_papers/11012.html?related)
 
-Adopting an open source SOA allows better allocation of IT resources, away from solving internal infrastructure and systems issues, to solving...
+Business-critical CRM applications, such as Siebel® CRM, represent an ongoing corporate investment, empowering new business initiatives, supporting...
 
-[Download Now](http://www.ebizq.net/white_papers/11327.html?related)
+[Download Now](http://www.ebizq.net/white_papers/11012.html?related)
 
 ### Joe McKendrick: Part II of II: Designing Evolve-ability into SOA and IT Systems
 
@@ -119,43 +120,11 @@ Deepak Singh, President and CTO of Adeptia, joins ebizQ's Dennis Byron in a podc
 
 [More Podcasts](https://web.archive.org/podcasts)
 
-  * Most Read 
+  * Most Popular
   * Quick Guide 
   * Most Discussed 
 
 
-
-### BPM VIEWPOINT: How Do You Look at BPM?
-
-From Dennis Byron: For BPM to fit at the top of the stack, it can't merely support workflow or integration. It needs to integrate the BI aspects of the stack, too. [Learn More](http://www.ebizq.net/topics/bpm/features/11185.html)
-
-### How ACORD Can Be Used As A Best Practice For Data Integration
-
-In the insurance industry, companies have accepted that systems, strategies and data all developed in silos are making it difficult for them to grow and adjust to today’s market demands. The obstacles imposed by siloed approaches are painfully obvious to companies as they try to gain a better understanding of their customers and meet the growing constraints imposed by compliance and regulatory requirements. Leveraging industry standards with full data integration is one was to tackle this challenge. [Learn More](http://www.ebizq.net/topics/insurance/features/11036.html)
-
-### When It Comes to BPM Type, It All Depends on You
-
-From Dennis Byron: Is it better to choose one strain of BPM over another? The answer is unique to your organization. [Learn More](http://www.ebizq.net/topics/bpm/features/11157.html)
-
-### Maximizing Your Business Rules Investment
-
-Can decision management really deliver costs savings, agility and happy customers on a consistent basis? [Learn More](http://www.ebizq.net/topics/edm/features/11119.html)
-
-### BPM VIEWPOINT: Does Case Management Fill in the Gaps in the BPM Spectrum?
-
-From Dennis Byron: BPM products optimized for case management might be the products that bridge the extremes in my view of the BPM spectrum. [Learn More](http://www.ebizq.net/topics/bpm/features/11094.html)
-
-### Building The Instantly Responsive Enterprise
-
-Integrating BPM and CEP gives you intelligent business processes that can react to rapidly changing business conditions with continuous visibility. [Learn More](http://www.ebizq.net/topics/cep/features/10479.html)
-
-### Enterprise Linkage: New Change Management
-
-Insurers need to think about creating "true linkage," which means linking business strategy to process to IT investments and thereby setting the foundation for true change. [Learn More](http://www.ebizq.net/topics/real_time_enterprise/features/10444.html)
-
-### The Invisible Hand of BI
-
-To be effective, business intelligence technology must work behind the scenes to deliver relevant information when, where, and how it's needed. [Learn More](http://www.ebizq.net/topics/operational_bi/features/10400.html)
 
 ### Quick Guide: What is Enterprise 2.0?
 
