@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505205306id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224434id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy policy | For A Beautiful Web
 
@@ -32,3 +32,24 @@ When we collect your contact and personal information, we will never share it ou
 ### Contact information
 
 If you have any questions or suggestions regarding our privacy policy, please contact us by email at [2009@forabeautifulweb.com](mailto:2009@forabeautifulweb.com), telephone us on +44 (0)1745 851848, or write to: For A Beautiful Web. [Stuff and Nonsense Ltd.](http://www.stuffandnonsense.co.uk/), The Cow Shed Studio, Eversleigh, Gwaenysgor, Flintshire, North Wales, LL18 6EJ, UK.
+
+### Looking for fantastic   
+web site design?
+
+[Stuff and Nonsense](http://stuffandnonsense.co.uk/) is a small, but popular, web design studio, founded and led by designer and author Andy Clarke. [Use this form](http://stuffandnonsense.co.uk/company/contact) you are looking for fantastic web site design or call us on (01745) 851–848
+
+If you need to send us something, our postal address is:
+
+The Cow Shed Studio, Eversleigh
+
+Gwaenysgor
+
+Flintshire, North Wales
+
+LL18 6EJ
+
+[Download our vCard](http://suda.co.uk/projects/microformats/hcard/get-contact.php?uri=http://www.stuffandnonsense.co.uk/company/contact/)
+
+Registered in England & Wales   
+Company No. 03687563   
+VAT No. 728 7958 71.
