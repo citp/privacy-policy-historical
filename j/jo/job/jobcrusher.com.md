@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcrusher.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219172953id_/http%3A//jobcrusher.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcrusher.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032931id_/http%3A//jobcrusher.com/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
