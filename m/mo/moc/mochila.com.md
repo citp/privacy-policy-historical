@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochila.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309093952id_/http%3A//mochila.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochila.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230212826id_/http%3A//www.mochila.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Mochila - The Media Marketplace : Policy
 
@@ -72,3 +72,7 @@ In each event, you must clearly indicate the information that you wish to have c
 **             g.         Assignment.  **We reserve the right to transfer any and all PII that we collect from users of the Site to a third party in the event of any sale, transfer or other disposition of all or any portion of Mochila's business.  
   ** **  
 **             h.         Contacting Us.  **If you have any questions regarding this Policy, please contact us either by e-mail at **[members@mochila.com](mailto:members@mochila.com)** , or by regular mail at **225 Broadway Suite 1805, New York, NY 10007**.  Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+
+Third Party Privacy Policy
+
+We use a third-party advertising company to serve ads. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.doubleclick.net/us/corporate/privacy).
