@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakerinfo.blogspot.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235417id_/http%3A//moneymakerinfo.blogspot.com/2008/03/privacy-policy-for-moneymakerinfoblogsp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakerinfo.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032401id_/http%3A//moneymakerinfo.blogspot.com/2008/03/privacy-policy-for-moneymakerinfoblogsp.html) for the most accurate reproduction.*
 
 # Make Money Online: Privacy Policy for MoneyMakerInfo.Blogspot.com
 
