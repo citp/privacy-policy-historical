@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081006id_/http%3A//www.sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034035id_/http%3A//www.sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Site Meter - Counter and Statistics Tracker
 
