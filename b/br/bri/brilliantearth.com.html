@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brilliantearth.com privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605051925id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brilliantearth.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230082530id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Brilliant Earth: Security Policy &amp; Privacy Policy</title>
@@ -9,11 +9,13 @@
 	
 
 
+	 
 	<meta name="verify-v1" content="TmCKnCEalT7vIakqjsybZcH2Mrg+aTLG6pq9W6uMo7w=">
 	<link rel="shortcut icon" href="http://www.brilliantearth.com/favicon.ico">
 	<link rel="Bookmark" href="http://www.brilliantearth.com/favicon.ico">
 	
 	<link href="/media/style/bearth/global.css" rel="stylesheet" type="text/css">
+    <link href="/media/style/bearth/holiday.css" rel="stylesheet" type="text/css">
 	<!--[if IE 6]><link href="/media/style/bearth/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 		
 		
@@ -22,6 +24,9 @@
 	<script src="/media/js/jquery/jquery.js" type="text/javascript"></script>
 	<script src="/media/js/diamond/email.js" type="text/javascript"></script>
 	<script src="/media/js/diamond/popup.js" type="text/javascript"></script>
+	<script src="/media/js/jquery/ui.core.js" type="text/javascript"></script>
+	<script src="/media/js/jquery/ui.draggable.js" type="text/javascript"></script>
+	<script src="/media/js/diamond/runOnDomReady.js" type="text/javascript"></script>
 		
 <script src="/media/js/jquery/jquery.equalizecols.js" type="text/javascript"></script>
 <script src="/media/js/diamond/runOnLoad.js" type="text/javascript"></script>
@@ -45,8 +50,8 @@ runOnLoad.funcs = [equalize_col];
 			}
 			// Initial search box
 			$("#Search").click(function(){
-				if($("#search_text").val() == 'Enter Style or Stock Number'){
-					alert('Please enter a valid style or stock number.');
+				if($("#search_text").val() == 'Enter Keyword or Item #'){
+					alert('Please enter a valid Keyword or Item #.');
 					return false;
 				}
 				return true;
@@ -62,85 +67,56 @@ runOnLoad.funcs = [equalize_col];
 			name = 'popup';
 			window.open(url, name, features);
 		}
+
+        Santa = {//@author Chaobin Tang 11/19/2009
+	        startingDay: new Date("11/23/2009"),
+	        christmas: new Date("12/25/2009"),
+	        endingDay: new Date("01/03/2010"),
+	        count: function(elementId){
+	            var _today = new Date();
+	            if(_today>Santa.christmas&&_today<Santa.endingDay){
+	                 $("#happy_holiday").show();
+                     return false;
+	            }else if(_today>Santa.startingDay&&_today<Santa.christmas){
+                    var t_mili = _today.getTime();
+                    var e_mili = Santa.christmas.getTime();
+                    var shoppingDays = Math.floor((e_mili - t_mili)/(1000*60*60*24));
+                    if(shoppingDays<=0){
+                        $("#happy_holiday").show();
+                        return false;
+                    }
+                    if(shoppingDays==1){
+                        $("#"+elementId).removeClass('count_down');
+                        $("#"+elementId).addClass('count_down_one');
+                    }
+                    $("#"+elementId+" strong").text(shoppingDays);
+                    $("#"+elementId).show();
+	            }else{
+	                return false;
+	            }
+	        }
+        }
+        $(function(){
+            Santa.count('santa');
+        });
 	</script>
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=28108963"></script></head>
 <body id="home">
 
 	<!-- Used for top anchor -->
 	<a href="#" name="top"></a>
+
+	<div class="standar h700" style="display:none;z-index:3008;border-width:2px;position:absolute;width:auto;height:auto;top:100px;left:230px;" id="refer_form">
+		<div style="display:none;" id="loading_refer" class="loading_preview">
+			<img src="/media/images/ico/ajax-loader.gif">
+		</div>
+		<div id="loading_content"></div>
+	</div>
+
 	<!-- Overlay section -->
-	<div class="standar h700" style="display:none;z-index:3008;border-width:2px;position:absolute;width:792px;height:800px;top:100px;left:230px;" id="refer_form">
-	<div style="display:none;" id="loading_refer" class="loading_preview">
-		<img src="/media/images/ico/ajax-loader.gif">
-	</div>
-	<div class="standarMain">
-		<div class="standarHead">
-			<img src="/media/images/logoStandard.jpg" alt="logo" class="head">
-			<div class="standarHeadMenu">
-				<div><img src="/media/images/title/RBT_ReferAF.gif" alt="Refer a friend"><span><img src="/media/images/ico/lineStandard.gif" alt="line"></span></div>
-			</div>
-		</div>
-		<div class="standarMin">
-			<div id="refer_friend_form">
-If you share our belief that beautiful jewelry need not come at great human or environmental cost, then please help us spread the word. It is our goal to gather enough support and attention to truly change the way the jewelry industry operates. 
-
-Please fill in your friend's name and email address below and we will send them a brief message about Brilliant Earth and how they can be a part of our mission.
-				<form class="pt26">
-					<h1>Fields shown in <strong>bold</strong> are required.</h1>
-					<div id="non_field" class="error"></div>
-					<div><strong>
-						<label>Email address of first friend</label>
-						</strong>
-						<input type="text" name="first_email" class="required"><div id="refer_first_email" class="error"></div>
-					</div>
-					<div>
-						<label>Email address of second friend</label>
-						<input type="text" name="second_email"><div id="refer_second_email" class="error"></div>
-					</div>
-					<div>
-						<label>Your Message</label>
-						<textarea class="h80" name="message"></textarea><div id="refer_message" class="error"></div>
-					</div>
-					<div><strong>
-						<label>Your name</label></strong>
-						<input type="text" name="name"><div id="refer_name" class="error"></div>
-					</div>
-					<div><strong>
-						<label>Your email address</label>
-						</strong>
-						<input type="text" name="sender_email" class="required"><div id="refer_sender_email" class="error"></div>
-					</div>
-					<span>Your email address will only be used to inform your friend who sent this email,
-					unless you choose to receive offers and news from Brilliant Earth. View our <a href="/security-and-privacy-policies/" target="_blank">privacy policy</a>. </span>
-					<ul>
-						<li>
-							<b>Send me a copy of this email</b>
-							<input type="checkbox" name="copy">
-						</li>
-						<li>
-							<b>Send me Brilliant Earth news updates and offers</b>
-							<input type="checkbox" name="update">
-						</li>
-						<li>
-							<div>
-								<input type="button" id="cancel" value="Cancel">
-								<input type="button" id="submit" value="Submit">
-							</div>
-						</li>
-					</ul>
-				</form>
-			</div>
-			<div id="refer_success">
-				<p>Email sent successfully.</p>
-				<p><img src="/media/images/btn/icoClose.gif" alt="Close" onclick="javascript:close_refer_form(this);"></p>
-			</div>
-		</div>
-	</div>
-</div>
-
 	
 	
-	<div id="overlay" style="display:none; width:100%; height:1400px; position: absolute; z-index: 2008; background-color:#82838E; FILTER: alpha(opacity=60); opacity: 0.6; moz-opacity: 0.6;">
+	<div id="overlay" style="display:none; width:100%; height:100%; position: absolute; z-index: 2008; background-color:#82838E; FILTER: alpha(opacity=60); opacity: 0.6; moz-opacity: 0.6;">
 		<!--
 		<iframe height="100%" width="100%" style="FILTER: alpha(opacity=10); opacity: 0.1; moz-opacity: 0; z-index:2008;" frameborder="no" ></iframe>
 		-->
@@ -155,8 +131,10 @@ Please fill in your friend's name and email address below and we will send them 
 		<!--START: Header -->
 		<div id="header">
 			<h1><a href="/"></a></h1>
+			<div class="count_down" id="santa" style="display: none;"><strong></strong></div>
+			<div id="happy_holiday" style="display:none;"></div>
 			<div id="communication">
-				<div class="tel"><img src="/media/images/home/tel.gif" alt="tel:800 691 0952">
+				<div class="tel"><img src="/media/images/home/tel.gif" alt="tel: 800 691 0952">
 </div>
 				<div class="user_box">
 					<ul>
@@ -169,7 +147,7 @@ Please fill in your friend's name and email address below and we will send them 
 					</ul>
 				</div>
 				<form action="/main/actions/find/" method="post" id="search_box">
-					<input name="keyword" type="text" id="search_text" class="search_text" value="Enter Style or Stock Number" onfocus="if (value =='Enter Style or Stock Number'){value =''}" onblur="if (value ==''){value='Enter Style or Stock Number'}" maxlength="65">
+					<input name="keyword" type="text" id="search_text" class="search_text" value="Enter Keyword or Item #" onfocus="if (value =='Enter Keyword or Item #'){value =''}" onblur="if (value ==''){value='Enter Keyword or Item #'}" maxlength="65">
 					<input name="Search" type="submit" id="Search" value="Search" class="search_btn_input">
 				</form>
 			</div>
@@ -186,12 +164,13 @@ Please fill in your friend's name and email address below and we will send them 
 	<li><a href="/rings/cyorings/search_setting/?first=setting">Engagement Ring Settings</a></li>
 	<li><a href="/rings/wedding-anniversary/womens-wedding-rings/">Women's Wedding Rings</a></li>
 	<li><a href="/rings/wedding-anniversary/mens-wedding-bands/">Men's Wedding Rings</a></li>
-	<li><a href="/rings/wedding-anniversary/anniversary-rings/">Anniversary Rings</a></li>
+	<li><a href="/rings/wedding-anniversary/anniversary-rings/">Women's Diamond Rings</a></li>
 	<li><a href="/rings/blue-sapphire/engagement-rings/">Sapphire Engagement Rings</a></li>
-	<li><a href="/rings/blue-sapphire/womens-sapphire-rings/">Women's Sapphire Bands</a></li>
+	<li><a href="/rings/blue-sapphire/womens-sapphire-rings/">Women's Sapphire Rings</a></li>
 	<li><a href="/rings/cyorings/search_setting/?selected_style=has3stone&amp;first=setting">Three Stone Rings</a></li>
-	<li><a href="/custom-engagement-rings/">Custom Rings</a></li>
+	<li><a href="/custom-engagement-rings/">Custom Designed Rings</a></li>
 	<li><a href="/rings/engagement-rings-pre-set/">Pre-Set Engagement Rings</a></li>
+    <li><a href="/rings/lab-created-diamond-rings/">Lab Created Diamond Rings</a></li>
 	<li class="bottom"></li>
 </ul>
 
@@ -217,8 +196,10 @@ Please fill in your friend's name and email address below and we will send them 
 	<li><a href="/eco-friendly/pendants/">Pendants</a></li>
 	<li><a href="/diamond-jewelry/">Diamond Jewelry</a></li>
 	<li><a href="/blue-sapphire-jewelry/">Sapphire Jewelry</a></li>
+	<li><a href="/pearl-jewelry/">Pearl Jewelry</a></li>
 	<li><a href="/diamond-earrings/design-your-own/setting/">Create Your Own<br>Diamond Earrings</a></li>
 	<li><a href="/diamond-pendants/design-your-own/setting/">Create Your Own<br>Diamond Pendant</a></li>
+    <li><a href="/personalized-jewelry-collection/">Personalized Jewelry Collection</a></li>
 	<li><a href="/custom-engagement-rings/">Custom Designed Jewelry</a></li>
 	<li class="bottom"></li>
 </ul>
@@ -231,12 +212,9 @@ Please fill in your friend's name and email address below and we will send them 
 	<li><a href="/jewelry-gifts/gifts-250-1000/">Gifts $250-$1000</a></li>
 	<li><a href="/jewelry-gifts/gifts-1000/">Gifts Over $1000</a></li>
 	<li><a href="/jewelry-gifts/top-ten-gifts/">Top Ten Gifts</a></li>
-	<li><a href="/diamond-earrings/design-your-own/setting/">Create Your Own<br>Diamond Earrings</a></li>
-	<li><a href="/diamond-pendants/design-your-own/setting/">Create Your Own<br>Diamond Pendant</a></li>
-	<li><a href="/diamond-jewelry/">Diamond Jewelry</a></li>
-	<li><a href="/blue-sapphire-jewelry/">Sapphire Jewelry</a></li>
-	<li><a href="/eco-friendly-jewelry/pendants/preset-pendants/?metal=Silver">Silver Pendants</a></li>
-	<li><a href="/eco-friendly-jewelry/earrings/preset-earrings/?metal=Silver">Silver Earrings</a></li>
+	<li><a href="/gift-certificate-BEGC">Gift Certificates</a></li>
+    <li><a href="/personalized-jewelry-collection/">Personalized Jewelry Collection</a></li>
+	<li><a href="/reflections_collection/">Reflections Collection</a></li>
 	<li class="bottom"></li>
 </ul>
 
@@ -271,6 +249,7 @@ Please fill in your friend's name and email address below and we will send them 
 	<li><a href="/media-mentions/">Media Mentions</a></li>
 	<li><a href="/press-release/">Press Releases</a></li>
 	<li><a href="/stop-blood-diamonds/">Get Involved</a></li>
+    <li><a href="/packaging/">Packaging With A Purpose</a></li>
 	<li class="bottom"></li>
 </ul>
 
@@ -307,9 +286,12 @@ Please fill in your friend's name and email address below and we will send them 
 	</dl>
 
 
+
+
+
 <!-- BEGIN LivePerson Button Code -->
 <div class="liveChat">
-<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;byhref=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat" target="chat28108963" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat28108963','width=475,height=400,resizable=yes');return false;"><img name="hcIcon" src="https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&amp;site=28108963&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;d=1580425474396" style="border: 0px;"></a>
+<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;byhref=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat" target="chat28108963" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat28108963','width=475,height=400,resizable=yes');return false;"><img name="hcIcon" src="https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&amp;site=28108963&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;d=1580425478313" style="border: 0px;"></a>
 				<script type="text/javascript"> var img=new Image();img.style.border='0';img.name='hcIcon';img.src='https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&site=28108963&channel=web&&ver=1&imageUrl=https://www.brilliantearth.com/media/images/livechat'+'&d='+((new Date()).getTime());var par=document.getElementById('_lpChatBtn');if(par!=null){par.appendChild(img);}</script>
 </div>
 <!-- END LivePerson Button code -->
@@ -319,10 +301,10 @@ Please fill in your friend's name and email address below and we will send them 
 		</div>
 		<!--END: Left Column -->
 		<div id="right">
-<div class="sappCon" style="background: transparent none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+<div style="background: transparent none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" class="sappCon">
 <div>
 <div class="breadcrumb mS-1"><a href="/">home</a> » <a href="/contact/">Customer Service</a> » Our Privacy &amp; Security Policy</div>
-<h2 class="bBor nonav"><img alt="Our Privacy &amp; Security Policy" src="/media/images/title/RGT_OurP&amp;SP.gif"></h2>
+<h2 class="bBor nonav"><img src="/media/images/title/RGT_OurP&amp;SP.gif" alt="Our Privacy &amp; Security Policy"></h2>
 <div class="sappHtmlCon">
 <div class="sappDiv">
 <p><a href="#secure">Secure Shopping</a><br>
@@ -330,67 +312,93 @@ Please fill in your friend's name and email address below and we will send them 
 <a href="#terms">Terms and Conditions</a></p>
 </div>
 <div class="sappDiv">
-<div class="sappTitle"><a id="secure" name="secure"></a>Secure Shopping</div>
+<div class="sappTitle"><a name="secure" id="secure"></a>Secure Shopping</div>
 <p>At Brilliant Earth, complete security for customer transactions is our primary concern. With these measures in place, you can be confident in the security of the Brilliant Earth website.</p>
+<p>&nbsp;</p>
 <p><strong> SSL Encryption</strong></p>
 <p>When we transfer sensitive personal information such as credit card information over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology, the industry standard method for computers to communicate securely without risk of manipulation or recipient impersonation. We utilize this encryption during the online checkout process, including the acceptance of your credit card information.</p>
 <p>We are registered with Verisign, the leader in digital authentication services and products for electronic commerce and other forms of secure communications. With Verisign, you can be assured that you have a secure communication with Brilliant Earth.</p>
+<p>&nbsp;</p>
 <p><strong> Payment Options</strong></p>
 <p>To give you flexibility and help you feel comfortable, we offer you a choice of options for payment of your purchases.</p>
+<p>&nbsp;</p>
 <p><strong> Credit Card</strong></p>
 <p>We are able to process approval of your credit card within 24 hours, which expedites the transfer of funds and minimizes the delay of shipment. We obtain credit card authorization from the card-issuing bank and employ other verification techniques before completing any transaction. We will not store your credit card or payment information after your transaction with Brilliant Earth is completed.</p>
+<p>&nbsp;</p>
 <p><strong>Telephone</strong></p>
 <p>If you prefer not to use your credit card over the Internet, you can give us a call at 800-691-0952 to place your order, or follow the instructions from Your Shopping Bag to complete your order via Telephone. It is our pleasure to have one of our experienced representatives assist you.</p>
+<p>&nbsp;</p>
 <p><strong> Signature Requirements for Delivery</strong></p>
 <p>For your protection, Brilliant Earth insures and registers all items for their full value. Brilliant Earth requires that all deliveries must be made to a physical business or home address only - we do not ship to P.O. Box addresses. We also require an adult to sign for the delivery.</p>
 </div>
 <div class="sappDiv">
-<div class="sappTitle"><a id="privacy" name="privacy"></a>Brilliant Earth Privacy Guarantee</div>
+<div class="sappTitle"><a name="privacy" id="privacy"></a>Brilliant Earth Privacy Guarantee</div>
 <p>Your privacy is very important to us. This privacy policy explains what information Brilliant Earth collects, why we collect this information and how we use the information we collect.</p>
+<p>&nbsp;</p>
 <p>Brilliant Earth encourages you to periodically review this policy to learn how we are protecting your information.  If you have questions or concerns about our privacy policy, please contact the Brilliant Earth customer service department at <a href="mailto:info@brilliantearth.com?subject=Question%20about%20privacy%20policy">info@brilliantearth.com</a> or 800-691-0952.</p>
+<p>&nbsp;</p>
 <p><strong>How we collect and use information</strong></p>
 <p>You can browse our Web Site without providing any personally identifiable information about yourself.  Personally identifiable information means any information that may be used to identify an individual, including, but not limited to, a first and last name; home, billing or other physical address; an email address; phone number or other contact information; or a credit card number and expiration date. When you submit your personally identifiable information to us, you are giving us your consent to the collection, use and disclosure of your personally identifiable information as set forth in this privacy policy.</p>
 <p>As a policy, Brilliant Earth does not sell, trade or rent your personally identifiable information to third-parties, unless you have granted us permission to do so.</p>
+<p>&nbsp;</p>
 <p><strong>Communications:</strong> If you provide Brilliant Earth with personally identifiable information, this information may be used to provide you with information regarding Brilliant Earth and its products and services. For example, we may communicate to you information regarding promotions, surveys, contests, sweepstakes or product or service updates. Your personally identifiable information may also be used to improve and customize our Web Site's content, layout and services. These uses improve and customize our interactions with you.</p>
 <p>If you contact a customer service representative or jewelry consultant and provide personally identifiable information to the consultant or submit a request through our Web Site, we will use your information to respond to your request and to provide you with additional information that we believe may be helpful to you.</p>
 <p>In addition to the uses set forth above, if you place an order with Brilliant Earth, we will use your personally identifiable information to confirm your order, prevent and detect fraud or abuse, respond to your requests or inquiries, provide you with other administrative information regarding your order and provide you with any other information we believe may be helpful to you.</p>
 <p>If you do not want to receive certain communications from Brilliant Earth you may elect to opt-out of receiving such communications; please see the "Choice/Opt-Out" section below for more information.</p>
+<p>&nbsp;</p>
 <p><strong>Internal Use:</strong> We may compare and review your personally identifiable information for errors, omissions and accuracy. We may also use your personally identifiable information internally to improve our marketing and promotional efforts, Web Site content and product offerings. Your personally identifiable information may also be used internally to conduct internal research on our users' demographics, interests, behavior and generally to better understand and improve the usability, performance and effectiveness of our Web Site and our marketing programs.</p>
+<p>&nbsp;</p>
 <p><strong>Compliance with Law and Fraud Protection:</strong> We may collect and disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may collect and possibly share personally identifiable information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, including suspected fraud, or as otherwise required by law. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction.</p>
+<p>&nbsp;</p>
 <p><strong>Partners, Affiliates, and Service Providers:</strong> We may share your personally identifiable information with authorized third party partners, agents and contractors. For example, if we need to ship something to you, we must share your name and address with a shipping company. Examples of other third parties that we may share your personal information with include: webhosting companies, fulfillment companies (e.g., companies that fulfill product orders), loose diamond suppliers, jewelers, assemblers, data analysis firms, affiliates, third party consulting or marketing firms and e-mail service providers. Additionally, if you use a credit card or other financing alternative to place an order with Brilliant Earth, to confirm and process your order we will share your personally identifiable information with the credit card company or financing company. These third parties only receive personally identifiable information if such information is needed to perform their function(s), and they are not authorized to use any personally identifiable information for any other purpose(s) other than the purpose(s) set forth by Brilliant Earth. We only provide third-parties with the minimum amount of personally identifiable information necessary to complete the requested service, product or transaction.</p>
+<p>&nbsp;</p>
 <p><strong>Feedback and Testimonials:</strong> If you provide feedback or testimonials on the Web Site or on Brilliant Earth products or services, we may post this feedback or testimonial, including personally identifiable information, on the Web Site or in marketing and promotional materials. We may, by our sole discretion, edit feedback or testimonials for length and content.</p>
+<p>&nbsp;</p>
 <p><strong>Special Events:</strong> If you choose to participate in a special event (for example, a promotion, contest or sweepstake), Brilliant Earth may share your personally identifiable information with those organizations participating in the applicable event. Typically, these third parties do not use your information for any other purpose other than to manage the event. In some cases these third-party partners may send you promotional materials regarding their products and services. In these cases, you will be given the opportunity to opt-out, and not have your personally identifiable information shared with that third-party partner.</p>
+<p>&nbsp;</p>
 <p><strong>Send an item to a Friend / Refer a Friend:</strong>  When you e-mail a product to a friend or refer a friend, we request that you provide names and e-mail addresses for you and your friend. This ensures that your friend will know that you have requested that Brilliant Earth send them an e-mail.  You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.</p>
+<p>&nbsp;</p>
 <p><strong>Business Transfer:</strong> Your personally identifiable information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personally identifiable information would be transferred as one of the business assets of the Company.</p>
+<p>&nbsp;</p>
 <p><strong>International Transfer:</strong>  Your personally identifiable information may be stored and processed in the United States or any other country in which Brilliant Earth or its partners, affiliates, service providers, subsidiaries or agents maintain facilities and by using this Web Site, you consent to any such transfer of information outside of your country.</p>
+<p>&nbsp;</p>
 <p><strong>IP Address:</strong> When you visit our Web Site, Brilliant Earth collects your IP address to assess, diagnose problems, and improve functioning of our Web Site, servers, and hosting providers as well as to analyze trends and traffic patterns, gather demographic information, and track the date, time, and duration of each session within our Web Site. Your IP address may also be used in combination with your personally identifiable information for credit fraud protection and risk reduction.</p>
 <p>Data Collection Devices, such as Cookies and Web Beacons: In some instances, Brilliant Earth may collect non-personally identifiable data through the use of cookies, web logs, web beacons and other monitoring technologies.  Where authorized by us, third parties may use cookies, Brilliant Earth's web log files, web beacons and other monitoring technologies to compile aggregate statistics on Brilliant Earth's behalf to improve the usability, performance and effectiveness of our Web Site and marketing programs. We may share or transfer non-personally identifiable information with or to our affiliates, licensees and partners.</p>
 <p>"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies on certain pages of our Web Site to, among other things, analyze our web page flow, measure promotional effectiveness, deliver you a more customized shopping experience, track visits from our affiliates and partners and allow the use of our shopping cart. Brilliant Earth does not use cookies to store or collect any personally identifiable information. You are always free to decline our cookies if your browser permits; although, by declining the use of cookies you may not be able to use certain features on the Web Site.</p>
 <p>Brilliant Earth Web pages may also contain electronic images know as Web beacons. These Web beacons allow Brilliant Earth to count users who have visited certain Web pages or to deliver co-branded services. Brilliant Earth may also include Web beacons in its email messages in order to determine whether the message has been opened or acted upon.</p>
 <p>Additionally, Brilliant Earth may use third-party advertising or content delivery companies to serve ads or images on our Web Site or on other web sites on the World Wide Web. These companies may use web beacons to place a persistent cookie on your computer. Doing this allows the third party to recognize your computer each time you visit certain pages or emails and compiles anonymous information. Information collected through these third-party advertising companies is anonymous.</p>
+<p>&nbsp;</p>
 <p><strong>Links to Other Websites:</strong> Our Web Site may provide links to other third-party Web Sites which are outside our control and not covered by this privacy policy. We encourage you to review the privacy policies posted on these (and all) Web Sites.</p>
+<p>&nbsp;</p>
 <p><strong>Updating Your Information:</strong> If you would like to update or revise your personally identifiable information, please contact us at <a href="mailto:info@brilliantearth.com">info@brilliantearth.com</a> or contact one of our customer representatives at 800-691-0952.</p>
+<p>&nbsp;</p>
 <p><strong>Choice/Opt Out:</strong> To opt-out of receiving communications from Brilliant Earth, contact us at <a href="mailto:info@brilliantearth.com">info@brilliantearth.com</a>.</p>
+<p>&nbsp;</p>
 <p><strong>Your Consent to Brilliant Earth's Privacy Policy:</strong> By using this Web Site, you agree to Brilliant Earth's privacy policy. This is our entire and exclusive privacy policy and it supersedes any earlier version.  We may occasionally update this privacy policy. When a revision is made we will revise the "last updated" date on this page.  Brilliant Earth encourages you to periodically review this policy to learn how we are protecting your information.  Your continued use of this Web Site constitutes your consent to this privacy policy and any updates.</p>
+<p>&nbsp;</p>
 <p><strong>Questions or Comments:</strong> If you have questions about this privacy policy, please contact the Brilliant Earth customer service department at <a href="mailto:info@brilliantearth.com">info@brilliantearth.com</a> or 800-691-0952.</p>
 <p>Last Updated June 10, 2006</p>
 </div>
 <div class="sappDiv">
-<div class="sappTitle"><a name="terms" id="terms"></a>Terms and Conditions</div>
+<div class="sappTitle"><a id="terms" name="terms"></a>Terms and Conditions</div>
 <p>Brilliant Earth offers this site to you under the following conditions. By visiting and/or using this site in any way, such as browsing products or placing an order, you agree to these conditions. These terms and conditions may change with or without notice and are effective immediately upon being posted.</p>
-<p>We reserve the right to cancel products or services to any customer for any reason at any time. The customer's sole remedy in such cases will be the full refund of any funds that we have collected in reference to the cancelled products and/or services.</p>
-<p>We attempt to provide current and accurate information on our web sites, email and telephone communications. We do not, however, warrant that this information is correct, accurate or complete.</p>
-<p>Information that we communicate is not a contract, and should not be treated as such. The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. Please review our <a href="/shop-online/#Returns">Return Policies</a>.</p>
-<p>Please review our <a href="#privacy">Privacy Policy</a>, which also governs your visit to this site. All content on our site, including text, icons, graphics, logos, images and software is the property of our company or its affiliates and protected by United States and international copyright laws.</p>
-<p>While we make commercially accepted best efforts to maintain the security of customer transactions, its liability in cases of third party theft or misuse is limited to the funds which we have already collected in reference to the customer's most recent order.</p>
-<p>THIS SITE IS PROVIDED ON AN 'AS IS' AND 'AS AVAILABLE' BASIS. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON IT. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK, BY YOUR OWN FREE WILL, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY CONSEQUENCES ARISING FROM THIS USE. WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THIS SITE, ITS SERVERS, OR ITS ELECTRONIC COMMUNCATION ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. WE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.</p>
+<p>Brilliant Earth reserves the right to cancel products or services to any customer for any reason at any time. The customer's sole remedy in such cases will be the full refund of any funds that we have collected in reference to the canceled products and/or services.</p>
+<p>Brilliant Earth is committed to providing current and accurate information on our web sites, email, chat, and telephone communications. We do not, however, warrant that this information is always correct, accurate or complete. In rare circumstances, system and typographical errors may occur. We reserve the right to correct any and all errors when they do occur. We do not honor prices listed in error.  If an order is placed with a lower product’s listed price than the actual price, we will advise the customer before shipping or cancel the order and notify the customer.</p>
+<p>Information that we communicate is not a contract, and should not be treated as such. The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. If an order has been shipped, the customer agrees to return the product for full credit or pay the difference between the actual and charged prices. Please review our Return Policies.</p>
+<p>Brilliant Earth holds a dynamic and high volume inventory. The stock availability on our website is listed “as is” and is subject to change. If a product in an order is out of stock, we will advise the customer immediately with possible options. Products may appear on the Brilliant Earth website larger or smaller than their actual size. Given the variation in computer monitor settings, color and size may vary slightly when viewing product photography. In compliance with industry standards and FTC regulations, carat total weight may vary 0.05 carats from stated weight. Brilliant Earth retains the full unrestricted rights to all jewelry designs, whether custom or standard, and may choose to market or sell jewelry based on such designs.</p>
+<p>Product details and prices are subject to change without notice. All of our prices are final and non-negotiable. If you have any questions regarding our policy, please contact our Customer Service line at 1-800-691-0952.</p>
+<p>Please review our Privacy Policy, which also governs your visit to this site.</p>
+<p>All content on our site, including text, icons, graphics, logos, images and software is the property of Brilliant Earth or its affiliates and protected by United States and international copyright laws.</p>
+<p>While we make commercially accepted best efforts to maintain the security of customer transactions, our liability in cases of third party theft or misuse is limited to the funds which we have already collected in reference to the customer's most recent order.</p>
+<p>THIS SITE IS PROVIDED ON AN 'AS IS' AND 'AS AVAILABLE' BASIS. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON IT. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK, BY YOUR OWN FREE WILL, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY CONSEQUENCES ARISING FROM THIS USE. WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THIS SITE, ITS SERVERS, OR ITS ELECTRONIC COMMUNCATION ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.<br>
+IN NO EVENT SHALL BRILLIANT EARTH, ITS DIRECTORS, MEMBERS, EMPLOYEES, OR AGENTS BE LIABLE FOR DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.</p>
 <p>You agree that the laws of the state of California, without regard to principles of conflict of laws, will govern these and any dispute of any sort that might arise between you and us or our affiliates.</p>
-<p>Brilliant Earth retains the full unrestricted rights to all jewelry designs, whether custom or standard, and may choose to market or sell jewelry based on such designs.</p>
 </div>
 </div>
 </div>
 </div>
 </div>
+<p>&nbsp;</p>
 		<div class="cb">
 		</div>
 	</div>
@@ -412,6 +420,9 @@ Please fill in your friend's name and email address below and we will send them 
 				</div>
 				<div class="links"><a href="/contact/" rel="nofollow">Contact Us</a> | <a href="http://blog.brilliantearth.com">Our Blog</a> | <a href="javascript:void(0);" id="refer_friend" rel="nofollow">Refer A Friend</a> | <a href="/customer-testimonials/">Testimonials</a> | <a href="/media-mentions/">Press</a> | <a href="/giving-back/">Giving Back</a> | <a href="/shop-online/#FedEx">Free Shipping</a> | <a href="/shop-online/#Returns">30 Day Returns</a> | <a href="/security-and-privacy-policies/#privacy" rel="nofollow">Privacy Policy</a></div>
 			</div>
+			<div class="liveChathome">
+            
+            </div>
 		</div>
 		<script type="text/javascript">
 			init_refer_friend_link('#refer_friend');
@@ -422,21 +433,24 @@ Please fill in your friend's name and email address below and we will send them 
 		<div id="footer">
 			<div class="friend_links">
 				<div class="fL mR20">
-					<!-- Start Seal Online -->
-					<a target="_blank" href="https://www.coopamerica.org/go/sealofapproval"><img src="/media/images/home/logo04.gif" alt="" width="53" height="58"></a>
-					<!-- End Seal Online -->
-					<!-- Start JVC -->
-					<a target="_blank" href="https://www.jvclegal.org/"><img src="/media/images/home/jvc_logo.gif" alt="" width="73" height="45"></a>
-					<!-- End JVC -->
+					<!-- Start facebook link -->
+					<a target="_blank" href="http://www.facebook.com/brilliantearth"><img src="/media/images/home/logo06.jpg" alt="Fan us on Facebook" width="81" height="28"></a>
+					<!-- End facebook link -->
 					<!--Start BBB Online -->
-					<a target="_blank" href="https://www.bbbonline.org/cks.asp?id=1070228141548350"><img class="logo_l3" src="/media/images/home/logo03.gif" alt="BBB Online"></a>
+					<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?ID=1070228141548350"><img class="logo_l3" src="/media/images/home/logo03.gif" alt="BBB Online"></a>
 					<!-- End BBB Online -->
 					<!-- Start Verisign -->
 					<a target="VRSN_Splash" onmousedown="return v_mDown();" tabindex="-1" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.BRILLIANTEARTH.COM&amp;lang=en"><img class="logo_l4" border="true" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security" oncontextmenu="return false;" src="/media/images/home/footer_verisign.gif" name="seal"></a>
 					<!-- ENd Verisign -->
 					<!-- Start MAC Scan -->
-					<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.brilliantearth.com"><img class="logo_l5" width="115" height="30" border="0" src="//images.scanalert.com/meter/www.brilliantearth.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+					<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.brilliantearth.com"><img class="logo_l5" width="115" height="30" border="0" src="//images.scanalert.com/meter/www.brilliantearth.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 					<!-- End MAC Scan -->
+					<!-- Start Seal Online -->
+					<a target="_blank" href="https://www.coopamerica.org/greenbusiness/sealofapproval.cfm"><img src="/media/images/home/logo04.gif" alt="" width="53" height="58"></a>
+					<!-- End Seal Online -->
+					<!-- Start JVC -->
+					<a target="_blank" href="https://www.jvclegal.org/"><img src="/media/images/home/jvc_logo.gif" alt="" width="73" height="45"></a>
+					<!-- End JVC -->
 				</div>
 				<p id="copyright" style="cursor: default;"> © 2005-2009 Brilliant Earth, Inc</p>
 				<!-- BEGIN Invitation Positioning  -->
