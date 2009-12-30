@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170619id_/http%3A//asbhawaii.com/lhc/8_1_8.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230234451id_/http%3A//www.asbhawaii.com/lhc/8_1_8.php) for the most accurate reproduction.*
 
 # ASB > About Us > Privacy Policy
 
