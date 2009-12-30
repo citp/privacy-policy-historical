@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213135447id_/http%3A//www.careerenabler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225839id_/http%3A//careerenabler.com/privacy.html) for the most accurate reproduction.*
 
 # ::: welcome to classstarttoday.com :::
 
