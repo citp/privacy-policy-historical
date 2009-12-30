@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asstitans.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417041446id_/http%3A//www.asstitans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asstitans.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230318id_/http%3A//www.asstitans.com/privacy.html) for the most accurate reproduction.*
 
 # CGBilling.com Support
 
