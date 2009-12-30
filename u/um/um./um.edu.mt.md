@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629064518id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230114315id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Malta
 
@@ -39,5 +39,5 @@ Queries about the Privacy Policy statement should be directed [here](mailto:webm
   
 
 
-29 June 2009  
+30 December 2009  
 http://www.um.edu.mt/privacy 
