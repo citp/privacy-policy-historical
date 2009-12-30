@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515181443id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230022043id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CFNC - Privacy of Information
 
-|  |  |    
+   
 ---  
    
   
@@ -25,7 +25,7 @@ The Privacy Policy for each entity maintaining the College Foundation of North C
 
 #### Privacy Policy of College Foundation, Inc.
 
-Effective as of June 2007 
+Effective as of June 2009 
 
 College Foundation, Inc., (the "Foundation"), on its own behalf and on behalf of the entities for which the Foundation services education loans and administers education assistance programs, is committed to protecting the confidential nature of all "nonpublic personal information" that the Foundation collects from individuals, including borrowers and other student assistance program participants, in order to provide services to you. Such "nonpublic personal information" includes, but is not limited to, the following:
 
@@ -52,7 +52,7 @@ State Employees' Credit Union
 Mechanics and Farmers Bank  
 SunTrust Bank  
 Wachovia Bank, N.A.  
-First Charter National Bank  
+Fifth Third Bank  
 Branch Banking and Trust Company  
 First National Bank and Trust Co.  
 Bank of America, N.A.  
@@ -63,7 +63,6 @@ First Bank
 Four Oaks Bank & Trust  
 NewBridge Bancorp  
 Randolph Bank & Trust  
-United Community Bank  
 Bank of Stanly  
   
 #### Information Policy of College Foundation, Inc.
@@ -240,15 +239,17 @@ This Privacy Policy may be updated periodically, and in the event of any such up
 Return to top  
    
   
-## North Carolina College Savings Program
+## North Carolina's National College Savings Program
+
+#### PRIVACY
 
 #### Authority Policies and Procedures for the Use and Disclosure of Nonpublic Personal Information
 
 Effective as of March 2008 
 
-The North Carolina State Education Assistance Authority, through the Program Administrator and other service providers for the Program, obtains certain nonpublic personal information from Participants through various sources. For example, from a Participant's Enrollment Agreement, the Authority knows the Participant's name, address and Social Security number, and the corresponding information for the Beneficiary of the Account established by the Participant. By the very nature of the Program, the Authority also knows how each Account is invested, each Account balance, the frequency and amount of the Contributions of each Account, and the nature of all Account withdrawals. The nonpublic personal information the Authority has is protected by physical, electronic and procedural safeguards. The Authority also limits access to all the nonpublic information to persons who need to know that information to perform their Program services.
+The North Carolina State Education Assistance Authority, through the Program Administrator and other service providers for the Program, obtains certain nonpublic personal information from Participants through various sources. For example, from a Participant's Enrollment Agreement, the Authority knows the Participant's name, address and Social Security number, and the corresponding information for the Beneficiary of the Account established by the Participant. The Authority also knows how each Account is invested or allocated, each Account balance, the frequency and amount of the Contributions of each Account, and the nature of all Withdrawals. The nonpublic personal information obtained by the Authority is protected by physical, electronic and procedural safeguards. The Authority also limits access to this nonpublic information to persons who need to know that information to perform Program services.
 
-The nonpublic personal information the Authority has is used to initiate and maintain Accounts and otherwise to operate the Program. The Authority may disclose the information collected, as described above, to third parties in order to market jointly and to administer the programs and services that the Program Administrator administers on behalf of the Authority. However, under these circumstances, the Authority will require that the third party, as a condition of its contract with the Authority or the Program Administrator, protect the confidentiality of all nonpublic personal information to the extent required by law and limit the usage of such nonpublic personal information to the extent necessary to perform services in connection with the Program. The Authority requires all of these persons to protect the confidentiality of nonpublic personal information. The Authority may also share Account information with the Participant's consent. The Authority does not otherwise provide nonpublic personal information to third parties, except to the attorneys, accountants, or auditors who represent the Authority or service providers thereto, and as otherwise permitted or required by law.
+The nonpublic personal information obtained by the Authority is used to initiate and maintain Accounts and otherwise to operate the Program. The Authority may disclose the information collected, as described above, to third parties in order to market jointly and to administer the programs and services that the Program Administrator administers on behalf of the Authority. However, under these circumstances, the Authority will require that the third party, as a condition of its contract with the Authority or the Program Administrator, protect the confidentiality of all nonpublic personal information to the extent required by law and limit the usage of such nonpublic personal information to the extent necessary to perform services in connection with the Program. The Authority requires all of these persons to protect the confidentiality of nonpublic personal information. The Authority may also share Account information with the Participant's consent. The Authority does not otherwise provide nonpublic personal information to third parties, except to the attorneys, accountants, or auditors who represent the Authority or service providers thereto, and as otherwise permitted or required by law.
 
 Capitalized terms appearing in this statement have the meanings assigned to them in the Program Description for North Carolina's National College Savings Program.  
   
@@ -257,13 +258,12 @@ Capitalized terms appearing in this statement have the meanings assigned to them
 Contact us:
 
 NC 529 Plan  
-P.O. Box 41930  
-Raleigh, NC 27629-1930  
+P.O. Box 40877  
+Raleigh, NC 27629-0877  
 
 
 Toll-free: 800-600-3453  
-Fax: 919-835-2304  
-  
+Fax: 919-835-2304   
   
 [www.CFNC.org/NC529](https://web.archive.org/nc529/main/index.jsp)  
   
