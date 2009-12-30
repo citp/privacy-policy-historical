@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the psd2cssonline.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152001id_/http%3A//www.psd2cssonline.com/node/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2cssonline.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230120054id_/http%3A//psd2cssonline.com/node/13) for the most accurate reproduction.*
 
 # Privacy Policy | psd 2 CSS Online
-
-Submitted by shaun on Wed, 04/16/2008 - 20:44.
 
 This is the web site of psd2cssonline.com.
 
 Our physical address is in  
 Encinitas, CA 92024
 
-We can be reached via e-mail at [support@psd2cssonline.com](mailto:support@psd2cssonline.com)
+We can be reached via e-mail at support@psd2cssonline.com
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -33,4 +31,4 @@ Consumers can access this information by e-mail us at the above address.
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers, communications that the consumer/visitor has directed to the site.  
 Consumers can have this information corrected by sending us e-mail at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
