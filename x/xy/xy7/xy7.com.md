@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430220643id_/http%3A//xy7.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032014id_/http%3A//xy7.com/privacy.html) for the most accurate reproduction.*
 
 # Xy7.com - The Affiliate Authority.
 
