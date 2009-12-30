@@ -1,55 +1,142 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328040812id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230011707id_/http%3A//www.rubiconproject.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Ad Network Optimization - the Rubicon Project
+# Privacy Policy - Rubicon Project
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
+Our Privacy Policy is designed to assist you in understanding how we collect and use any information you provide to us and to assist you in making informed decisions when using our site and our products and services.    
+ **  
+Only 22% of Internet Users** regularly review privacy policies for the sites they visit.  That is why this page may not look like other privacy policies you may have seen.  Unlike the average privacy policy which is approximately 2,500 words, the Rubicon Project offers this simple **300 word summary**.  
 
-**What Information Do We Collect?**  
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and, Web site use information collected on an aggregate basis as you and others browse our Web site. 
+Like any summary, however, the Privacy Dashboard is not an exhaustive description of our privacy practices and should not be construed to define or limit the scope or extent of our Privacy Policy which is set forth in full below.
 
-1\. Personal Information You Choose to Provide 
+## PRIVACY DASHBOARD
 
-**Registration Information.**   
-You will provide us information about yourself, your firm or company, and your practices when you register to become a member of the Rubicon Project, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see the Rubicon Project servicing your needs and interests. 
+#### Data We Collect
 
-**Email Information.**   
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+the Rubicon Project does not collect personally identifiable information (“PII”) except where users voluntarily provide such information via email or via registration for certain services or newsletters. We do collect non-PII such as your IP address, domain names, referring website addresses, and some online Web browsing activity.  (More Info)
 
-2\. Web Site Use Information 
+#### How We Use Data
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them. 
+We use any PII data collected to contact you, and use any non-PII collected to enable our clients to deliver targeted advertisements that they believe will be of most interest to you.   (More Info)
 
-How Do We Use the Information That You Provide to Us? Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [ care@rubiconproject.com ](mailto:care@rubiconproject.com)
+#### Data Sharing
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies. 
+We do not rent, sell or disseminate PII to third parties for promotional purposes without your consent.  We only share data with trusted third parties who are under obligation use the data in a responsible manner. (More Info)
 
-**How Do We Use Information We Collect from Cookies?**  
-As you use our Web site, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies. 
+#### You are in Control!
 
-**Sharing Information with Third Parties**  
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. 
+Within our [Transparency and Control page](https://web.archive.org/transparency), you can see the data we have stored about you, elect to discontinue further data collection by the Rubicon Project, or opt-out of targeted ads using this data.  You may also use the NAI’s consumer opt-out link below to opt-out of targeted ads from participating members.
 
-We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. 
+[](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Notice of New Services and Changes**  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [ care@rubiconproject.com ](mailto:care@rubiconproject.com) . 
+#### Changes
 
-**How We Protect Your Information**
+We may change the Privacy Policy at any time by posting the revised Privacy Policy on the Website and if such changes are material, a notice of the changes will also be posted along with the revised Privacy Policy.
 
-**How Do We Secure Information Transmissions?**  
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [ care@rubiconproject.com ](mailto:care@rubiconproject.com) if you have any questions or concerns. 
+#### Security
 
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [ care@rubiconproject.com ](mailto:care@rubiconproject.com) . 
+We use reasonable and appropriate security measures to protect your data.  (More Info)
 
-**Certain Disclosures**  
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties. 
+#### Information & Questions
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+For a more detailed explanation of our privacy practices please read the full policy below. Any questions you may have should be directed to Marketing team at (310) 207-0272.
 
-Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+#### Certifications
 
-**Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
+Our Privacy Policy and practices have been certified by or are in compliance with TRUSTe, the Network Advertising Initiative and the cross-industry Self-Regulatory Principles for Online Behavioral Advertising.  See Policy for details.
+
+## PRIVACY POLICY
+
+Last Updated: November 12, 2009
+
+  
+The Rubicon Project is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site rubiconproject.com and any information we may collect through our customers’ Web sites.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+           
+| 
+
+If you have questions or concerns regarding this statement, you should first contact Marketing at (310) 207-0272.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concern  
+  
+---|---  
+  
+To really understand any one company’s privacy practices, it helps to understand their business.  There likely are similarities between this policy and the policy on the website for your church, your school, your local coffee shop or your favorite online store but we all perform different services.  
+
+the Rubicon Project offers premium website publishers a technology platform that gives them complete control and visibility over their advertising inventory, and matches every impression with the highest paying demand source. Almost all of the information we collect is from or through the web publishers and advertisers who utilize our service and not directly from consumers.
+
+### Data We Collect
+
+When you visit our Web site you may provide us with personally identifiable information you knowingly choose to disclose that is collected on an individual basis. When you visit our customers’ Web sites, you may provide us with non-personally identifiable information collected on an aggregate basis.
+
+#### Personally identifiable Information (“PII”)
+
+Our customers are asked to provide the following:  Name, Company Name, Mailing Address, Email Address, Phone Number, Basic Site Information (URL, Channel, Impression Traffic), Username, Tax I.D. Number and Password.
+
+In addition, if you choose to correspond with us through email or blog postings, we may retain the content of your email messages together with your email address and our responses.
+
+#### Non-Personally identifiable Information (“Non-PII”)
+
+Similar to other commercial Web sites, we collect information about how customers’ Web sites are used and to determine user response to advertisements and promotions.  
+
+Non-PII collected includes the following: IP address, domain, browser type and language, referring Web site addresses, date/time of visits, page view data, and search keywords.  Non-PII is collected using the following standard web technologies:
+
+  * “Cookies” are data files, which often include an anonymous unique identifier, sent to your browser from a web site. Cookies can only be read by the party placing the cookie, they cannot erase or alter any of your data and they do not include personal data.  For more information about cookies visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+  * “Log files” track actions occurring on Sites and collect data including your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. 
+  * "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior.
+
+
+
+Collectively these technologies enable us to better understand and segment our customers’ audiences on an aggregate basis. Cookies do not allow us to gather any personal information about you and we do not store any personal information that you provided to us in your cookies.
+
+### How We Use The Information
+
+Broadly speaking, while we may collect and use personal information such as email address, name and phone number for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers; our core business services rely on non-PII collected to match advertisers and website publishers. This benefits web users by enabling advertisers to deliver ad content that is relevant to interests or to respect a user’s preference to not receive certain advertisements.
+
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special opportunities we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [care@rubiconproject.com](mailto:care@rubiconproject.com).
+
+### Sharing Your Information
+
+As indicated above, we do not collect PII except when provided voluntarily by visitors to our Web site.  We do not rent, sell or disseminate PII to third parties for promotional purposes without consent.   We will only share this voluntarily-provided PII
+
+  * to enable third party service providers to assist or facilitate in the services we provide; 
+  * to comply with applicable laws and regulations or to respond to a subpoena, search warrant or other lawful request for information we receive, whether or not a response is required by applicable law; 
+  * to enforce an agreement or to protect our rights; with any parent, affiliated or successor entity;
+  * in connection with any asset sale, transfer, divestiture or liquidation; 
+  * in connection with strategic alliances, partnerships or other business arrangements to permit the offering of products or services we think may be of interest to you or where we have determined that the information will be used in a responsible manner by the third party; or
+  * as permitted under any agreement with you. 
+
+
+
+### Your Choices
+
+On this site’s [Transparency and Control page](https://web.archive.org/transparency), you can see all the non-PII we have collected and which may be used for targeted advertising.  To discontinue our collection of non-PII click [here](https://web.archive.org/transparency) and then select “Please discontinue all affinity profiling. Maybe I'll come back later and opt-in”.
+
+To opt-out of behavioral advertising programs of members participating in the Network Advertising Initiatives opt-out program click [here](http://www.networkadvertising.org/managing/opt_out.asp) or use the consumer opt-out above.
+
+You may request access to all your voluntarily-provided PII that we collected online and maintain in our database by emailing [globalsupport@rubiconproject.com](mailto:globalsupport@rubiconproject.com). To discontinue receiving updates or newsletters from us, or the sharing of any of your information with third parties (other than as may be necessary for compliance purposes or to protect our rights) contact [globalsupport@rubiconproject.com](mailto:globalsupport@rubiconproject.com).
+
+### Security
+
+We use appropriate measures to ensure the security of all Information, including the use of passwords, firewalls, encryption and remote servers, and routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
+
+### Changes
+
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+### Third Party Websites
+
+We are not responsible for the practices employed by Web sites or applications (including widgets) linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  Please remember that your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site’s own rules and policies.
+
+### Certifications
+
+In addition to TRUSTe, our Privacy Policy and practices have been certified by or are in compliance with:
+
+  * Self-Regulatory Principles for Online Behavioral Advertising
+  * EU Safe Harbor
+
+
+
+  
+1925 S Bundy Drive, Los Angeles Ca. 90025 To contact the site please email us at [care@rubiconproject.com](mailto:care@rubiconproject.com)
+
+[](http://www.truste.org/ivalidate.php?companyName=The%20Rubicon%20Project&sealid=101)
