@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroll.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312091821id_/http%3A//www.slideroll.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroll.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230102204id_/http%3A//www.slideroll.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Flash Slideshow Creator, Photo Slideshows for MySpace, YouTube, and Everywhere!
 
@@ -23,6 +23,12 @@ Clients can change most account information online. Information that cannot be c
 #### Cookies
 
 The system uses cookies to record session information, so that the client's data files and content remain accessible accross multiple page-views in the site.
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to users based on visits to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 #### E-mail Communication
 
