@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501000756id_/http%3A//eurostemcell.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230021601id_/http%3A//www.eurostemcell.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EuroStemCell
 
@@ -19,7 +19,6 @@ We collect information about you:
 We use your information: 
 
   * to enable us to supply you with the goods, services and information which you have requested; 
-  * to ensure that content from the Site is presented in the most effective manner for you and for your computer;
   * to analyse the information we collect so that we can administer, support and improve and develop the Site
   * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
   * to notify you about changes to our service. 
@@ -30,12 +29,12 @@ We use your information:
 **Storage Of Your Information**  
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will use our reasonable endeavours to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
 **Disclosure Of Your Information**  
 The information you provide to us will be treated as confidential. However, we may disclose your information to other third parties who act for us for the purposes set out in the policy or for purposes approved by you. 
 
-Please note that countries outside the European Economic Area do not always have the same strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with the terms of this Privacy Policy. 
+Please note that countries outside the European Economic Area do not always have the same strong data protection laws. However, we will always use our reasonable endeavours to ensure that your information is used by third parties in accordance with the terms of this Privacy Policy. 
 
 Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent. 
 
@@ -49,7 +48,7 @@ We use persistent cookies if you have registered with us on-line. These cookies 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 
 **Security**  
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage. 
+We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage, (although no warranties can be given in such regard). 
 
 Please help us keep our records updated by informing us of any changes to your email address and other contact details. 
 
