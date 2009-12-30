@@ -1,96 +1,78 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201190028id_/http%3A//www.fantasyleague.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230172943id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
 
-# Fantasy League
+# Privacy Policy - Fantasy League
 
-  
-**This privacy statement discloses the privacy practices for http://www.fantasyleague.com**
+This document refers to privacy and personal information relating to www.fantasyleague.com and associated properties and services. At Fantasy League we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
 
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. We agree to notify you of: 
+This Privacy Policy, together with our Terms of Use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. We do update this Policy from time to time so please do review this Policy regularly. For the purpose of the Data Protection Act 1998 our data controller is Fantasy League Limited.
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Fantasy League Limited's control 
-  7. How you can correct any inaccuracies in the information. 
+#### Information We Collect
 
-If you feel that we are not abiding by its posted privacy policy, you should contact Tom Lehane at the Fantasy League offices by sending an email to privacy@fantasyleague.com or writing to Fantasy League Limited, 5-12 Mandela Street, London NW1 0DU, England. 
+In using our website and associated services, we may collect and process the following data about you:
 
-**Information Collection and Use**
+  * i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
+  * ii. Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase. 
+  * iii. Information provided to us when you communicate with us for any reason.
 
-If you have come to this site directly from an advertising banner, search engine or by entering the URL in your browser Fantasy League is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Fantasy League collects information from our users at several different points on our website. Should you enter this site having come from an Affiliate Site (one promoting our game with their own content) then the data you enter may be shared with that affiliate but only if they have clearly indicated this on the referring page that you have come from. 
 
-**Registration**
 
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. 
+#### Use Of Cookies
 
-**Order**
+On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
 
-**Cookies**
+All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Contests or monthly Draws that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+#### Use of Your Information
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
-**Log Files**
+  * i. To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
+  * ii. To meet our contractual commitments to you.
+  * iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service. If you are an existing user, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you. 
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-**Sharing**
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+Further, we may use your data so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
 
-We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+If you do not want us to use your data you will have the opportunity to withhold your consent to this by logging in to your account and amending your communication preferences.
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
+Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+#### Storing Your Personal Data
 
-**Links**
+By submitting your personal data, you agree to Fantasy League transferring, storing or processing this data. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy. Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will securely stored; we do not store payment card details.
 
-This web site contains links to other sites. Please be aware that we Fantasy League Limited are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-**Surveys & Contests**
+#### Disclosing Your Information
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as post code, age). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
 
-**Tell-A-Friend (Challenge a Mate)**
+We may only disclose your personal information to third parties:
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Fantasy League Limited will automatically send the friend a one-time email inviting them to visit the site. Fantasy League Limited stores this information for the sole purpose of sending this one-time email. The friend may contact Fantasy League at remove@fantasyleague.com to request the removal of this information from their database. 
+  * i. Where we are legally required to disclose your information.
+  * ii. To assist fraud protection and minimise credit risk.
 
-**Security**
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
+#### Third Party Links
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. 
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-**Special Offers**
+#### Access To Information
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £5, which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-**Site and Service Updates**
+#### Contacting Us
 
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us by writing to or emailing us at:
 
-**Correction/Updating Personal Information:**
+Privacy Manager  
+Fantasy League Limited  
+1 Lawfords Wharf  
+Lyme Street  
+London NW1 0SF
 
-If a user's personally identifiable information changes (such as your postal address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by emailing our Customer Support. 
-
-**Choice/Opt-out**
-
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by emailing us at remove@fantasyleague.com 
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
-
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-|  | 
+Email: info@fantasyleague.com
