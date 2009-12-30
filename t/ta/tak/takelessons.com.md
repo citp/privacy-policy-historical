@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614015350id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230055011id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Music Lessons | TakeLessons
+
+[](https://web.archive.org/)
+
+Local Music & Singing Lessons
 
 Last revised: November 2008 
 
@@ -28,7 +32,7 @@ ClickFor may also generate non-identifying and aggregate profiles from personal 
 
 We are committed to handling your customer information with high standards of information security. Your credit card information is stored only in encrypted form and processed using a secured order server with Secure Socket Layer (SSL) technology. We restrict access to your personally identifiable information only to employees with proper clearance who need to know that information in order to provide products or services to you. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
 
-If you to prefer to place your order by telephone, you can call us during normal business hours at 619-231-8505 with your credit card and billing information. 
+If you to prefer to place your order by telephone, you can call us during normal business hours at 619-858-2200 with your credit card and billing information. 
 
 ###  What is your Credit Card Fraud Policy? 
 
@@ -58,7 +62,7 @@ In addition, from time to time, ClickFor sends, on behalf of third parties, prom
 
 We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if a third party conducts the survey. Participation in our customer surveys is voluntary. 
 
-We take the information we receive from individuals responding to our Customer Surveys and aggregate it with the responses from other customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated; non-personally-identifying information may be shared with third parties. 
+We take the information we receive from individuals responding to our Customer Surveys and aggregate it with the responses from other customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally-identifying information may be shared with third parties. 
 
 ###  Special Cases 
 
