@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312064900id_/http%3A//crazyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230051938id_/http%3A//crazyegg.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Crazy Egg
+# Crazy Egg - build heatmaps and track clicks
 
 At Crazy Egg we recognize that your privacy is important. We value your trust and confidence and are firmly committed to protecting the privacy of our clients and visitors to our website. Crazy Egg is equally committed to protecting the privacy of the information that it gathers. In particular, we want you to know that Crazy Egg is not in the business of selling or renting individuals' personal data to other companies for marketing purposes.
 
