@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050448id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230205613id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy : Queensland Government
 
@@ -37,7 +37,7 @@ The transactional services available from this site may use cookies to track bus
 
 ## Email
 
-Email correspondence sent to [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) will be treated as a public record and will be retained as required by the _Public Records Act 2002_ and other relevant regulations.
+Emails sent to [_Government.Gateway@qld.gov.au_](mailto:Government.Gateway@qld.gov.au) will be treated as correspondence and respect the privacy of the sender.
 
 We will not add any details from your email to a mailing list, and we will not disclose these details to third parties without your consent, unless required by law. We will disclose your email details to the relevant authorities if necessary to protect the safety of the public or to protect the rights and property of the State of Queensland.
 
@@ -53,4 +53,4 @@ This site does not provide facilities for securely transmitting information acro
 
 This site contains links to non-Queensland Government websites. The Queensland Government is not responsible for the privacy or security practices or the content of such websites.
 
-Last updated 28 January 2009
+Last updated 29 September 2009
