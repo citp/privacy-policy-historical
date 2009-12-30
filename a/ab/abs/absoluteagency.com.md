@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412032622id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223428id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
 
-# ABsoluteAgency Dating Service
+# Онлайн болзоо – интернэт болзоо
 
 ### CONFIDENTIAL DATA NON-DISTRIBUTION AGREEMENT
 
