@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 247webdirectory.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427040138id_/http%3A//www.247webdirectory.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247webdirectory.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223332id_/http%3A//247webdirectory.com/privacy.htm) for the most accurate reproduction.*
 
-# 247 Web Directory - Privacy Policy
+# 247WebDirectory.com - Privacy Policy
 
 ## 1 **. Personal Information**
 
