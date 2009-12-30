@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexmeta.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619023111id_/http%3A//www.forexmeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmeta.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230064205id_/http%3A//www.forexmeta.com/privacy.html) for the most accurate reproduction.*
 
-# ForexMeta - Privacy
+# ForexMeta
 
 Privacy Policy  
 
