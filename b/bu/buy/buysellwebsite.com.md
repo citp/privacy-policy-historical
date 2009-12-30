@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the buysellwebsite.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416105526id_/http%3A//www.buysellwebsite.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellwebsite.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225733id_/http%3A//www.buysellwebsite.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for BuySellWebsite a Web Business Properties Inc Company
 
 **Privacy Policy for BuySellWebsite.com** sm ****   
 a Web Business Properties, Inc. company
 
-> [ ](http://www.truste.org/ivalidate.php?url=www.buysellwebsite.com&sealid=101)**  
-> Privacy Policy**   
+> Privacy Policy   
 >  Effective on: 7/24/04   
->  Last Revision: 03/10/07
+>  Last Revision: 04/26/09
 > 
 > Welcome to BuySellWebsitetm! BuySellWebsite.com®  provides its service to you, subject to the following Privacy Policy. 
 > 
-> BuySellWebsite.com®  is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.BUYSELLWEBSITE.COM. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+> BuySellWebsite.com® strives to follow fair and ethical business principles and our goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.BUYSELLWEBSITE.COM. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
 > 
-> If you have questions or concerns regarding this statement, you should first contact JC Phillippon at  [ jc@buysellwebsite.com](mailto:jc@buysellwebsite.com) or by mail at 2301 IL Route 26 N Freeport, IL 61032  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+> If you have questions or concerns regarding this statement, you should first contact JC Phillippon at  [ jc@buysellwebsite.com](mailto:jc@buysellwebsite.com) or by mail at 2301 IL Route 26 N Freeport, IL 61032.
 > 
 > ** Information Collection & Use  
 >   **
