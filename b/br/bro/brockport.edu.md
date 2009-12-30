@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195154id_/http%3A//www.brockport.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230044502id_/http%3A//www.brockport.edu/privacy) for the most accurate reproduction.*
 
-# SUNY Brockport Privacy Policy
-
-## **Web Privacy Policy**
+# Privacy Policy: The College at Brockport
 
 ### Our Commitment to Privacy
 
@@ -15,7 +13,7 @@ We do not collect any _personal information_ about you unless you provide that i
 When visiting our Web site, we automatically collect and store the following information about your visit:
 
   * The names of files the _user_ attempts to access from our Web site, including Web pages, graphics included in Web pages, PDF files, etc.
-  * Any errors encountered in completing the _user’s_ request
+  * Any errors encountered in completing the _user's_ request
   * The date and time of the _user's_ request
   * The Web page from which the _user_ accessed the current Web page
   * The Internet Protocol address of the computer that accessed our Web site
@@ -51,7 +49,7 @@ Any _user_ may submit a request to our privacy compliance officer to determine w
 
 The privacy compliance officer shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
 
-In the event that we have collected _personal information_ pertaining to a _user_ through our Web site and that information is to be provided to the _user_ pursuant to the _user’s_ request, the privacy compliance officer shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law.](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.html)
+In the event that we have collected _personal information_ pertaining to a _user_ through our Web site and that information is to be provided to the _user_ pursuant to the _user's_ request, the privacy compliance officer shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law.](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.html)
 
 ### Confidentiality and Integrity of _Personal Information_ Collected Through Our Web Site
 
@@ -63,19 +61,27 @@ For Web site security purposes and to maintain the availability of our Web site 
 
 ### Cookies
 
-Cookies are small pieces of information that are stored by the _user's_ browser on the hard drive of the _user’s_ computer.  At present, we use cookies as tokens to identify a _user_ during the _user’s_ visit to our Campus Information System (Banner) and to the Angel course management system to help ensure only authorized access is made to the _personal information_ located therein.  Use of the Campus Information System is a great convenience to our _users_ , but is not required for ordinary interaction with us.  Use of Angel may be required of our students for some courses.
+Cookies are small pieces of information that are stored by the _user's_ browser on the hard drive of the _user's_ computer.  We may use cookies in the following ways:
+
+  * to verify authorized access to Web systems that contain _personal information_ ( _e.g. Angel, Banner)_
+  * to enhance or customize a _user's_ visit to our Web site ( _e.g._ to remember _user_ preferences)
+  * to better understand the use of our Web site so we can better serve _users_ in the future
+
+
+
+To protect _personal information_ , we may require _users_ to accept cookies to access certain online services.  However, we do not require the use of cookies to access any public areas of our Web site.
 
 ### Definitions
 
 The following definitions apply to terms used in this policy.
 
-Terms such as “us,” “we,” and “our” refer to the State University of New York College at Brockport.
+Terms such as "us," "we," and "our" refer to The College at Brockport, State University of New York.
 
-“Our Web site” refers to all Web pages officially maintained by us within the brockport.edu domain for our marketing efforts or to conduct our day-to-day business with our students, alumni, faculty and staff.  This term does not apply to personal or other unofficial pages unrelated to our marketing efforts or our day-to-day business.
+"Our Web site" refers to all Web pages officially maintained by us within the brockport.edu domain for our marketing efforts or to conduct our day-to-day business with our students, alumni, faculty and staff.  This term does not apply to personal or other unofficial pages unrelated to our marketing efforts or our day-to-day business.
 
 The following terms appear in _italics_ throughout this policy:
 
-_Personal information_ : For purposes of this policy, “ _personal information_ ” means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
+_Personal information_ : For purposes of this policy, " _personal information_ " means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
 
 _User_ : shall have the meaning set forth in subdivision 8 of section 202 of the State Technology Law.
 
@@ -85,11 +91,12 @@ The information provided in this privacy policy should not be construed as givin
 
 ### Contact Information 
 
-For questions regarding this Internet privacy policy, please contact our privacy officer via e-mail at privacy@brockport.edu or by regular mail at:
+For questions regarding this Internet privacy policy, please contact our privacy officer via e-mail at [privacy@brockport.edu](mailto:privacy@brockport.edu) or by regular mail at:
 
 Privacy Compliance Officer  
 SUNY Brockport ITS  
 350 New Campus Dr.  
 Brockport, NY  14420
 
-Policy effective June 16, 2002.
+Policy effective June 16, 2002.  
+Amended June 10, 2009.
