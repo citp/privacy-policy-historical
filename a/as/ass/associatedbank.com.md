@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601231421id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031737id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
 
 # Associated Bank : Privacy
 
@@ -14,7 +14,7 @@ This information is provided to keep you informed about the privacy policies of 
 
 Our commitment to protecting your privacy 
 
-You may be familiar with federal legislation that requires financial institutions to follow some specific guidelines in insuring the privacy of your financial records and nonpublic personal information. This is a practice that Associated Banc-Corp and its affiliates have always taken very seriously. We understand the sensitivity of your financial information and records and have always maintained strict controls on the sharing of your nonpublic personal information between our affiliates and nonaffiliated third parties. We would like to take this opportunity to clearly outline the guidelines we will follow to protect your nonpublic personal information, including the privacy provisions in Title V of the Gramm-Leach-Bliley Act. After reviewing this information, please contact us if you have additional questions. Thank you for choosing Associated. We appreciate your business. 
+You may be familiar with federal legislation that requires financial institutions to follow some specific guidelines in ensuring the privacy of your financial records and nonpublic personal information. This is a practice that Associated Banc-Corp and its affiliates have always taken very seriously. We understand the sensitivity of your financial information and records and have always maintained strict controls on the sharing of your nonpublic personal information between our affiliates and nonaffiliated third parties. We would like to take this opportunity to clearly outline the guidelines we will follow to protect your nonpublic personal information, including the privacy provisions in Title V of the Gramm-Leach-Bliley Act. After reviewing this information, please contact us if you have additional questions. Thank you for choosing Associated. We appreciate your business. 
 
 Benefits of Sharing Information 
 
@@ -41,7 +41,7 @@ Throughout this communication we may use terms you are not familiar with, so ple
 
 **Nonaffiliated third party** – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship. 
 
-**Opt out** – A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and by us to nonaffiliated third parties. 
+**Opt out** – A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and by us to nonaffiliated third parties, and to prevent the use of your personal information by Associated Banc-Corp affiliates to market to you. 
 
 Protecting Your Privacy and Confidentiality is a Job We Take Seriously 
 
@@ -51,7 +51,7 @@ Nonpublic Personal Information We Collect
 
 The type of nonpublic personal information we may collect comes from: 
 
-  * Information we receive from you, on applications or other forms, such as your name, address, social security number, assets and income; and
+  * Information we receive from you, on applications or other forms, such as your name, address, Social Security number, assets and income; and
   * Information regarding your transaction history with us, such as account balance, payment history, parties to transactions and credit usage; and
   * Information provided by others about your transactions with nonaffiliated third parties such as credit bureaus and consumer reporting agencies, regarding your creditworthiness and payment history.
 
@@ -59,7 +59,7 @@ The type of nonpublic personal information we may collect comes from:
 
 Information Shared With Affiliates and Nonaffiliated Third Parties 
 
-We use and share nonpublic personal information about your account history or experiences with us within the Associated family of banks and companies as permitted by law. We may also share your nonpublic personal information such as: name, address, social security number, account balances, account activity, assets, payment history, and parties to the transaction. This information may be shared among affiliates, those nonaffiliated third parties with whom we have entered into joint marketing agreements, and parties contracted with to provide services on our behalf, such as: mortgage bankers, investment firms, insurance agents and/or companies and other lending or financial services institutions. 
+We use and share nonpublic personal information about your account history or experiences with us within the Associated family of banks and companies as permitted by law. We may also share your nonpublic personal information such as: name, address, Social Security number, account balances, account activity, assets, payment history, and parties to the transaction. This information may be shared among affiliates, those nonaffiliated third parties with whom we have entered into joint marketing agreements, and parties contracted with to provide services on our behalf, such as: mortgage bankers, investment firms, insurance agents and/or companies and other lending or financial services institutions. 
 
 We may also provide such information as permitted or required by law to credit bureaus and to various government entities in response to subpoenas and other legal processes, as well as to those with whom you have requested or authorized us to share nonpublic personal information. 
 
@@ -76,6 +76,7 @@ Associated Investment Management, LLC
 Associated Investment Services, Inc.   
 Associated Mortgage, LLC   
 Associated Trust Company, N.A.   
+Kellogg Asset Management, LLC  
 Riverside Finance, Inc.   
 
 
@@ -83,7 +84,7 @@ Understanding your choice about information sharing
 
 Associated Banc-Corp and its affiliates (“the Associated companies”) listed prior are providing this notice. Federal law gives you the right to limit some but not all marketing from the Associated companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the Associated companies. 
 
-You may limit the Associated companies, such as the Associated banking, loan, insurance, brokerage and wealth management affiliates, from marketing their products or services to you based on your personal information that they receive from other Associated companies. This information includes your income, your account history, and your credit score. Your choice to limit marketing offers from the Associated companies by opting-out will apply until you tell us to change your choice. By opting out, you are indicating to us to not allow any of the Associated companies to use your personal information to market to you. 
+You may limit the Associated companies, such as the Associated banking, loan, insurance, brokerage and wealth management affiliates, from marketing their products or services to you based on your personal information that they receive from other Associated companies. This information includes your income, your account history, and your credit score. Your choice to limit marketing offers from the Associated companies by opting out will apply until you tell us to change your choice. By opting out, you are indicating to us to not allow any of the Associated companies to use your personal information to market to you. 
 
 You have the choice regarding whether or not you would like your personal nonpublic information shared with Associated Banc-Corp affiliates and nonaffiliated third parties except under those circumstances permitted by law. You may notify us of your decision at any point in time. This is referred to as "opting out." By opting out you will be excluded from receiving information regarding beneficial products and services, discounts and other financial services for which you may be eligible. 
 
@@ -99,10 +100,10 @@ OR
 
 Mail your request to: 
 
-**Associated Banc-Corp**  
-Attn: Opt Out - MS 7710  
-1305 Main Street   
-Stevens Point, WI 54481  
+**Associated Bank**  
+Attn: CIF - Opt Out MS 7012  
+2870 Holmgren Way  
+Green Bay, WI 54304  
 
 
 Questions regarding this information should be directed to our Customer Care Center which is open 24 hours a day, seven days a week at 1-800-236-8866. 
