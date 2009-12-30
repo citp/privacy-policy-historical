@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masalacity.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626013754id_/http%3A//www.masalacity.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalacity.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230070943id_/http%3A//www.masalacity.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacy policy
 
