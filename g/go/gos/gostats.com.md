@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511052658id_/http%3A//gostats.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222320id_/http%3A//gostats.com/privacy.xml) for the most accurate reproduction.*
 
-# GoStats.com | Privacy Statement
+# GoStats Privacy Statement
 
 ## GoStats Web Reporting Corp. Privacy Statement
 
