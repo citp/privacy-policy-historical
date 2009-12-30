@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mortgagenewsdaily.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613061916id_/http%3A//www.mortgagenewsdaily.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagenewsdaily.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230131615id_/http%3A//www.mortgagenewsdaily.com/privacy.asp) for the most accurate reproduction.*
 
-# MORTGAGENEWSDAILY.COM PRIVACY DISCLOSURES - Mortgage News Daily
+# Mortgage News Daily Privacy Statement
+
+Privacy Statement
 
 **Introduction**
 
@@ -19,7 +21,7 @@ Signup for our News Alerts Service includes an email verification process. No ne
 
 Upon verification we will use your email address to send you an email notification each time a news story is published on MortgageNewsDaily.com. We will not share your email address with third parties other than a service provider that mails the News Alerts for us.
 
-Out of respect for your privacy, we provide you a way to [unsubscribe](http://www.mortgagenewsdaily.com/newsalerts/newsalertsunsubscribe.asp). You can simply click the 'unsubscribe' link at the bottom of each email or contact [customer service](http://www.mortgagenewsdaily.com/contact.asp) directly to have your email address removed from our system.
+Out of respect for your privacy, we provide you a way to [unsubscribe](https://web.archive.org/newsalerts/newsalertsunsubscribe.asp). You can simply click the 'unsubscribe' link at the bottom of each email or contact [customer service](https://web.archive.org/contact.asp) directly to have your email address removed from our system.
 
 **Comments**  
 If you post a comment on one of our pages that accepts user comments, we do request certain personally identifiable information from you. The information we collect during this process includes name, email address and your URL. Your email address is not required and will only be used if we wish to respond to your comment or suggestion. We may make public any information that you provide including your name, URL and e-mail address. 
@@ -38,7 +40,7 @@ Occasionally we may provide you the opportunity to participate in surveys on our
 **Tell-A-Friend**  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Brown House Media, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may [contact us](http://www.mortgagenewsdaily.com/contact.asp) to request that we remove this information from our database.
+Your friend may [contact us](https://web.archive.org/contact.asp) to request that we remove this information from our database.
 
 **Contact Us**  
 If you submit personal information, such as your email address, to us by following the "Contact Us" link located throughout our Site, we will use that information to respond to your question or request for information. This information will not be shared with third parties without your explicit permission. 
@@ -47,7 +49,7 @@ If you submit personal information, such as your email address, to us by followi
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You may not opt-out of these non-promotional communications. If you do not wish to receive them, you have the option to deactivate the service related to the service announcement. 
 
 **Choice/Opt-out**  
-If you no longer wish to utilize services such as our News Alerts, you may opt-out of receiving them by clicking the unsubscribe link included in each News Alert. You can also opt out of any communications by [contacting](http://www.mortgagenewsdaily.com/contact.asp) us directly. 
+If you no longer wish to utilize services such as our News Alerts, you may opt-out of receiving them by clicking the unsubscribe link included in each News Alert. You can also opt out of any communications by [contacting](https://web.archive.org/contact.asp) us directly. 
 
 **Log Files**  
 As is true of most Web sites, we gather certain non-personally identifiable information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
@@ -82,14 +84,14 @@ This privacy statement applies only to information collected by this Web site.
 
   
 **Access to Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate this information by contacting [Customer Support](http://www.mortgagenewsdaily.com/contact.asp).
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate this information by contacting [Customer Support](https://web.archive.org/contact.asp).
 
 **Security**  
 The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email by [clicking here](http://www.mortgagenewsdaily.com/contact.asp).
+If you have any questions about security on our Web site, you can send email by [clicking here](https://web.archive.org/contact.asp).
 
 **Business Transitions**  
 In the event BROWN HOUSE MEDIA, INC. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. 
@@ -106,4 +108,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We reserve the right to modify this privacy statement at any time, so please review it frequently. It is your responsibility to review this document for changes.
 
 **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.mortgagenewsdaily.com/contact.asp).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact.asp).
