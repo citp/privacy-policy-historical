@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googleconquest.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223183943id_/http%3A//googleconquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleconquest.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221953id_/http%3A//googleconquest.com/privacy) for the most accurate reproduction.*
 
 # Google Conquest: Privacy
 
@@ -64,4 +64,4 @@ USA
 
 This policy was last updated on 11-20-2008.
 
-Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at GoogleConquest.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
+Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at googleconquest.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
