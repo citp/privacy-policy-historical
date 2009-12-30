@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130032527id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticmp.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230051454id_/http%3A//www.eroticmp.com/PP.htm) for the most accurate reproduction.*
 
 # Privacy Policy for EroticMp.com
 
+| Privacy Policy  
+---  
+  
 |    |     
 ---|---  
   
@@ -63,7 +66,7 @@ Last Updated: **Sep 1, 2008
 
 ### VIII. Public Forums.
 
-> At the time of the institution of this Policy, the Site offers a public forum for Users. The Company reserves the right to offer offer other services, such as blogging in the future. 
+> At the time of the institution of this Policy, the Site offers a public forum for Users. The Company reserves the right to offer other services, such as blogging in the future. 
 > 
 > **IX.** **Our Commitment to Data Security.**
 > 
