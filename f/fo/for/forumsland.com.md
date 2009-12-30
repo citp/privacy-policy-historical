@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumsland.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623075213id_/http%3A//www.forumsland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumsland.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231001202id_/http%3A//forumsland.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy - forumsland.com
 
