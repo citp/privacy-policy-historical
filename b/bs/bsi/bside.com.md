@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bside.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626233035id_/http%3A//www.bside.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bside.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230043022id_/http%3A//www.bside.com/about/privacy) for the most accurate reproduction.*
 
-# B-Side - The audience is never wrong » Privacy Policy
+# B-Side – The audience is never wrong » Privacy Policy
 
 ## Introduction
 
