@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523223711id_/http%3A//www.flashbay.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230045242id_/http%3A//www.flashbay.com/privacy_notice.html) for the most accurate reproduction.*
 
 # Promotional USB Flash Drives and Custom Memory Sticks
 
@@ -28,7 +28,7 @@ Business Transfers: As we continue to develop our business, we might sell or buy
 
 Protection of FlashBay and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of FlashBay, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-With Your Consent: Other than as set out above, you will receive notice when information about youmight go to third parties, and you will have an opportunity to choose not to share the information. 
+With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
 How Secure Is Information About Me? We do not collect credit card information or other payment methods via this website. All transactions are completed offline so as to avoid the risk of fraud. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
