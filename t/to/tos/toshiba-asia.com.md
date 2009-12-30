@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the toshiba-asia.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218111836id_/http%3A//www.toshiba-asia.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba-asia.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230104645id_/http%3A//www.toshiba-asia.com/portal/public/show.action%3Fa%3DprivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Toshiba Privacy Policy| Toshiba Leading Innovation - Asia
 
 Toshiba advocates online privacy. This policy will explain the following:
 
-  * What information do we collect online and how do we use it?
-  * Which security mechanisms does Toshiba use to secure data transfers?
-  * Who will your data be shared with?
-  * Some best practice to increase your level of security
+  * » What information do we collect online and how do we use it?
+  * » Which security mechanisms does Toshiba use to secure data transfers?
+  * » Who will your data be shared with?
+  * » Some best practice to increase your level of security
 
 
 
@@ -33,8 +33,8 @@ Toshiba will not sell or rent your personally identifiable information to anyone
 
 Toshiba will send personally identifiable information about you to other companies or people when:
 
-  * We need to share your information to provide the product or service you have requested;
-  * We need to send the information to companies who work on behalf of Toshiba to provide a product or service to you.  
+  * » We need to share your information to provide the product or service you have requested;
+  * » We need to send the information to companies who work on behalf of Toshiba to provide a product or service to you.  
 
 
 
