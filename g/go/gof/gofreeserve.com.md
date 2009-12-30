@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gofreeserve.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603070616id_/http%3A//gofreeserve.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreeserve.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222305id_/http%3A//gofreeserve.com/privacy.php) for the most accurate reproduction.*
 
-# GoFreeServe - Your Reliable Free Hosting Service - Privacy Policy
+# GoFreeServe - Privacy Policy
 
 ## GoFreeServe.com Privacy Policy
 
