@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialtoo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619122632id_/http%3A//www.socialtoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtoo.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032828id_/http%3A//socialtoo.com/privacy) for the most accurate reproduction.*
 
 # SocialToo - Your Companion to the Social Web!
 
