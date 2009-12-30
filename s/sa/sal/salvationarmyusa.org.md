@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040852id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230045451id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.*
 
 # The Salvation Army: Privacy Policy
 
