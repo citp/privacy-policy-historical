@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the trustedsource.org privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301101732id_/http%3A//www.mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedsource.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233231id_/http%3A//www.mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
 
 # McAfee® - about - Privacy policy
 
 ### Privacy policy
+
+﻿ 
 
 #### Our mailing address:
 
@@ -10,10 +12,6 @@
 Attn: Privacy Officer - 3rd Floor  
 3965 Freedom Circle  
 Santa Clara, CA 95054**
-
-#### Reach us by:
-
-**E-mail:  ** [**privacy@mcafee.com**](mailto:privacy@mcafee.com)
 
 **This statement discloses the privacy practices for McAfee, Inc.** ® **Please note that because we are very sensitive to the privacy concerns of our home users, we have additional precautions in place to protect the personal information that consumers provide.  If you are a home user, please review our Consumer Privacy Policy.**
 
@@ -30,9 +28,7 @@ McAfee asks you for information when you register as a customer, purchase one o
 
 In addition, we may use your information to improve the content of our Web site, products, and services; to alert you to product upgrades, updates, and renewal information regarding your product; and to share special offers, product announcements, and other new services from McAfee, Inc. When you register or make a purchase, we offer you the opportunity to opt into or out of these uses of your information. If you do not choose to opt out initially, you may still block future contact of this type by simply following the unsubscribe instructions that accompany all such communications, or by contacting us at the above address.
 
-We e-mail service notifications inform you about the status of your service orders or accounts, and to provide updates and technical notices. These messages are essential to maintain your subscription and the functionality of our services, so there is no opt-out available for service notifications, and these messages cannot be blocked.
-
-We follow strict best practices for e-mail marketing and customer contact, and we urge our business partners to do so as well. For more information on our practices, [please click here](http://us.mcafee.com/root/marketerTips.asp)
+We e-mail service notifications to inform you about the status of your service orders or accounts, and to provide updates and technical notices. These messages are essential to maintain your subscription and the functionality of our services, so there is no opt-out available for service notifications, and these messages cannot be blocked.
 
 #### Who we share it with
 
