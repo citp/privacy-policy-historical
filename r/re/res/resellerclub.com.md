@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602154558id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230125909id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ResellerClub
+# Privacy Policy | ResellerClub
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, ResellerClub may become privy to the personal information of its clients including information that is of a confidential nature.
 
@@ -24,22 +24,3 @@ Our Site may contain advertisements, references and links to other web sites and
 The client authorizes ResellerClub to exchange, share, part with all information related to the details and transaction history of the clients to its Affiliates / banks / financial institutions / credit bureaus / agencies/ participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management and shall not hold ResellerClub liable for use or disclosure of this information.
 
 ResellerClub will occasionally update this Privacy Statement to reflect company and client feedback. When ResellerClub posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of ResellerClub. If there are material changes to this Statement or in how ResellerClub will use your personal information, ResellerClub will prominently post such changes prior to implementing the change. ResellerClub encourages you to periodically review this Statement to be informed of how we are protecting your information.
-
-|  [ ](https://web.archive.org/products/free-services/)   
-  
-  
-[ ](https://web.archive.org/contact)   
-[ ](https://web.archive.org/promos/#mobi)   
-[ ](https://web.archive.org/promos/#us)   
-[ ](https://web.archive.org/promos/#org)   
-[ ](https://web.archive.org/promos/#in)   
-
-
-**__**
-
-****
-
-  
-  
-[ ](https://web.archive.org/signup/reseller-signup/)  
----|---
