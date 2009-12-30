@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owdir.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103944id_/http%3A//www.owdir.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owdir.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230029id_/http%3A//www.owdir.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Open Web Directory
 
