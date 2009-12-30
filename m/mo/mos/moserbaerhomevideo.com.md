@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moserbaerhomevideo.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215405id_/http%3A//www.moserbaerhomevideo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moserbaerhomevideo.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232043id_/http%3A//www.moserbaerhomevideo.com/privacy.htm) for the most accurate reproduction.*
 
-# Now Own the Movies you Love | Buy Moser Baer | Moser Baer DVD | Shop Moser Baer
+# Buy Devotional Films | Rare Classic Movies Online | Buy Hindi TV Serials | Online Movie Store for All
 
 We, namely **Moser Baer Entertainment Limited (MBEL)** respect your privacy. This Privacy Policy provides the manner your data is collected and used by MBEL. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. You are advised to please read the Privacy Policy carefully. By accessing this web site you agree to be bound by the terms and conditions of this Privacy Policy. Further by accepting the Privacy Policy, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy.
 
