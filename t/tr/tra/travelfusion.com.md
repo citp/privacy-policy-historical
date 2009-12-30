@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the travelfusion.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112092137id_/http%3A//www.travelfusion.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfusion.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230234812id_/http%3A//travelfusion.com/site/privacy.jsp) for the most accurate reproduction.*
 
-# TravelFusion
+# Travelfusion Privacy Policy
 
-TRAVELfusion takes the privacy of its customers very seriously. Please read this Privacy Statement, which sets out our Privacy Policy. The Privacy Policy sets out the terms which govern the collection, retention and processing of your personal information which we receive when you use www.TRAVELfusion.com, localised TRAVELfusion web sites and the TRAVELfusion white labels (collectively, 'Site'). If our Privacy Policy changes, we will let you know the date of the latest update at the bottom of this page. 
+**Travelfusion Privacy Policy**
+
+Travelfusion takes the privacy of its customers very seriously. Please read this Privacy Statement, which sets out our Privacy Policy. The Privacy Policy sets out the terms which govern the collection, retention and processing of your personal information which we receive when you use www.Travelfusion.com, localised Travelfusion web sites and the Travelfusion white labels (collectively, 'Site'). If our Privacy Policy changes, we will let you know the date of the latest update at the bottom of this page. 
 
 By disclosing your personal information to us using this Site, you consent to the terms of this Privacy Statement. 
 
-If you have any requests concerning your personal information or any queries with regard to these practices or if at any time you believe that we have not adhered to the principles outlined below, please notify us by email to help@TRAVELfusion.com or use the feedback form so that we can deal promptly with any problem. 
+If you have any requests concerning your personal information or any queries with regard to these practices or if at any time you believe that we have not adhered to the principles outlined below, please notify us by email to help@Travelfusion.com or use the feedback form so that we can deal promptly with any problem. 
 
 **Information collected**
 
-TRAVELfusion primary goal in collecting personal information is to provide you with a highly personalised and interactive service that meets your needs and make your experience more relevant. 
+Travelfusion primary goal in collecting personal information is to provide you with a highly personalised and interactive service that meets your needs and make your experience more relevant. 
 
 To fully participate in our services, you will need to register using our online registration form, where you will be required to provide us with your name, email, User ID and other optional personal information. 
 
@@ -18,9 +20,9 @@ We also collect information automatically about your visit to the Site and any i
 
 We automatically track certain information based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand and serve you and our community 
 
-We may sometimes ask you for additional information by way of surveys so that we can better understand the needs of our users to help us improve our features. TRAVELfusion sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party without user's express consent. 
+We may sometimes ask you for additional information by way of surveys so that we can better understand the needs of our users to help us improve our features. Travelfusion sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party without user's express consent. 
 
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information TRAVELfusion collects from you. To the extent that you disclose your information to other parties, different rules may apply. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information Travelfusion collects from you. To the extent that you disclose your information to other parties, different rules may apply. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
 **Use of personal information**
 
@@ -38,7 +40,7 @@ We may also use cookies to keep track of your browsing patterns and build up a d
 
 **Disclosures**
 
-We will only disclose your personal information to other companies in the TRAVELfusion Limited group of companies, purchasers of our business and suppliers we engage to process data on our behalf. We may also disclose information to a Licensed Credit Reference Agency. 
+We will only disclose your personal information to other companies in the Travelfusion Limited group of companies, purchasers of our business and suppliers we engage to process data on our behalf. We may also disclose information to a Licensed Credit Reference Agency. 
 
 **Internet-based transfers**
 
