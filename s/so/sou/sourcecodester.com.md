@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528202231id_/http%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230070817id_/http%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Free source code - Visual Basic, .NET, ASP, Java/Javascript, C/C++, PHP
+# Privacy Statement | Free source code, tutorials and articles
 
 Sourcecodester.com has created this privacy statement in order to demonstrate my firm commitment to privacy. The following discloses my information gathering and dissemination practices for this website: Sourcecodester.com.
 
