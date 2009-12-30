@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the funorb.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620092824id_/http%3A//www.funorb.com/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funorb.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224050id_/http%3A//www.funorb.com/privacy/privacy.ws) for the most accurate reproduction.*
 
-# FunOrb - Free Online Games
+# FunOrb - Free Online Games by Jagex Games Studio
 
-Effective Date: 23rd April, 2009
+Effective Date: 19th August, 2009
 
 **Privacy Policy**
+
+**Jump to info on safeguarding children’s personally identifiable information**
 
 **Introduction**  
 This is the privacy policy of Jagex Limited and any companies within our group (referred to collectively as "Jagex"). It applies to all of our websites / services (referred to collectively as "our websites") on which it appears. 
@@ -17,7 +19,7 @@ We may change this policy at any time. Please check it whenever you return to th
 
 If you have any questions about this privacy policy, please contact us by emailing  and do not use our websites until you are satisfied and can accept this policy in its entirety. 
 
-In this privacy policy, "Jagex Products" is used as shorthand for all versions of "RuneScape®", "FunOrb®"and any other online games released by Jagex from time to time including all Jagex websites used to play those games. 
+In this privacy policy, "Jagex Products" is used as shorthand for all versions of "RuneScape®", "FunOrb®" and any other online games released by Jagex from time to time including all Jagex websites used to play those games. 
 
 References to "Terminating" an account include all or any of: locking / suspending, temporarily banning or permanently banning the account. 
 
@@ -55,25 +57,18 @@ We store 'save game' and 'game settings' information to enable us to provide a b
 **What happens to the information provided/collected?**  
 The information we collect may be used: 
 
-a) To process your payment for membership subscriptions or other goods or services ordered on our site or to fulfil such orders. 
+  1. To process your payment for membership subscriptions or other goods or services ordered on our site or to fulfil such orders.
+  2. To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.
+  3. To enforce our [terms and conditions](https://web.archive.org/web/20091230224050id_/http%3A//www.funorb.com/terms/terms.ws), and prevent or detect hacking activities, security breaches or safety risks in connection with our websites.
+  4. To send service announcements and messages (for example, a reminder sent to the members' Message Centre if a subscription payment is due or if member credit has expired).
+  5. To aggregate information to generate anonymous statistics regarding use of our websites. We may share this anonymous information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+  6. For our own internal marketing and demographic studies and to help us improve our websites.
+  7. In the event of an actual or proposed (including as part of negotiations for any) merger, or business combination or sale of substantially all of our assets or a business operation to which such information relates, or as provided under bankruptcy or applicable insolvency laws or by the enforcement of equitable rights.
+  8. To disclose information to the extent required by law, court order, as requested by other government, regulatory or law enforcement authority, to protect or assist in protecting our users, systems or the public, or to otherwise enforce legal rights as determined in our sole and absolute discretion.
+  9. If you have agreed on our websites, to send you email newsletters about our games, including new game features and special offers.
+  10. As set out elsewhere in our privacy policy.
 
-b) To provide our customer support service, and to verify any claims or requests you make if you use our customer support service. 
 
-c) To enforce our [terms and conditions](http://www.funorb.com/terms/terms.ws), and prevent or detect hacking activities, security breaches or safety risks in connection with our websites. 
-
-d) To send service announcements and messages (for example, a reminder sent to the members' Message Centre if a subscription payment is due or if member credit has expired). 
-
-e) To aggregate information to generate anonymous statistics regarding use of our websites. We may share this anonymous information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
-
-f) For our own internal marketing and demographic studies and to help us improve our websites. 
-
-g) In the event of an actual or proposed (including as part of negotiations for any) merger, or business combination or sale of substantially all of our assets or a business operation to which such information relates, or as provided under bankruptcy or applicable insolvency laws or by the enforcement of equitable rights. 
-
-h) To disclose information to the extent required by law, court order, as requested by other government, regulatory or law enforcement authority, to protect or assist in protecting our users, systems or the public, or to otherwise enforce legal rights as determined in our sole and absolute discretion. 
-
-i) If you have agreed on our websites, to send you email newsletters about our games, including new game features and special offers. 
-
-j) As set out elsewhere in our privacy policy. 
 
 We care about protecting your privacy, and with the exception of the uses specified above, we will not sell, transfer, rent out, share or disclose your personally identifiable information to other companies. 
 
@@ -112,5 +107,37 @@ We will only collect personally identifiable information to the extent we believ
 
 Note that while we strive to protect all our personally identifiable information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will inform you of any material data breaches that we discover that may compromise your personally identifiable information. 
 
+**Safeguarding children’s personally identifiable information**  
+On top of what we state in the section directly above, ‘Safeguarding your personally identifiable information’, we also have a number of provisions regarding the personally identifiable information (PII) of children. These are that a parent/guardian has the right to review the information the site has collected from their child, have their child’s PII deleted from the site and also request us to stop collecting further PII from their child in the future. This can be done through either faxing or posting us an affidavit, along with a copy of your passport or driving license, to the fax number or address below: 
+
+  * UK: 0844 588 6690
+  * USA, Canada: 01144 844 588 6690
+  * Australia: 001144 844 588 6690
+  * Rest of the world: 0044 844 588 6690
+
+
+
+Jagex Ltd  
+ICU  
+St. John’s Innovation Centre  
+Cowley Road  
+Cambridge  
+CB4 0WS  
+UK 
+
+Phone number: 0844 588 8880 
+
+The affidavit has to be signed by and in the presence of ‘notary public’. This is someone who is qualified and has the legal authority, to administer oaths. Upon receipt of this, we will be able to action your request. Specifically, the affidavit must state: 
+
+  * You are the custodial parent;
+  * Your e-mail address;
+  * Confirmation that your child is under the age of 18;
+  * The correct spelling of your child’s RuneScape or FunOrb username;
+  * Whether you wish to have the right to review the information the site has collected from your child, have you child’s PII deleted from the site and/or request us to stop collecting further PII from your child in the future.
+
+
+
+If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information, this includes their full name, home address, email address or telephone number. 
+
 **Review, correction and deletion of information from our records**  
-If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](http://www.funorb.com/privacy/dataprotect.ws) (Its terms are incorporated into this document by reference.) 
+If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20091230224050id_/http%3A//www.funorb.com/privacy/dataprotect.ws). (Its terms are incorporated into this document by reference.) 
