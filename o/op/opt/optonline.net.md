@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608184745id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optonline.net privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231004826id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.*
 
 # Optimum Online - Privacy Policy - Customer
 
