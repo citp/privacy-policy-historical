@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topeducationsearch.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419173819id_/http%3A//www.topeducationsearch.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topeducationsearch.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230100id_/http%3A//topeducationsearch.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
