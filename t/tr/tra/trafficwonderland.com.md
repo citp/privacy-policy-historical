@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficwonderland.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606135310id_/http%3A//www.trafficwonderland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwonderland.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230060954id_/http%3A//www.trafficwonderland.com/privacy.php) for the most accurate reproduction.*
 
 # TrafficWonderland Manual Traffic Exchange | Free Traffic - Free Advertising | Can Your Site Handle The Bandwidth
 
