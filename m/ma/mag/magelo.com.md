@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620053556id_/http%3A//www.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230075844id_/http%3A//www.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
 
-# Magelo - Privacy policy
+# Privacy policy - Magelo
 
 The intent of this privacy policy is to detail: 
 
@@ -39,3 +39,7 @@ We collect credit card information for the purpose of conducting financial trans
  Credit card statement
 
 Should you conduct a credit card transaction with us, "Magelo" will appear on your credit card statement. 
+
+Magelo does not sell, rent, lease or allow any third parties to view or use the information collected.  
+Magelo takes reasonable measures to keep the information disclosed secure.  
+However, Magelo assumes no responsibility for any breach of security to this data. 
