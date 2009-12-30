@@ -1,217 +1,14 @@
-<!--The following is the downloaded HTML source of the nicetranslator.com privacy policy that was archived on 2009-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426180017id_/http%3A//www.nicetranslator.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nicetranslator.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230222241id_/http%3A//nicetranslator.com/blog/about/nice-translator-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Nice Translator - The fast, easy to use online translator</title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta name="description" content="NiceTranslator is a fast, easy to use online translator that allows a user to translate into multiple languages as they type. Nice Translator was designed with simplicity and functionality in mind.">
-<meta name="keywords" content="translator, online translator, fast translator, ajax translator, english translator, multiple language translator">
-<meta name="title" content="Nice Translator - The fast, easy to use online translator">
-<meta name="ROBOTS" content="INDEX,FOLLOW">
-<meta name="abstract" content="NiceTranslator is a fast, easy to use online translator designed with simplicity and functionality in mind.">
-<meta name="author" content="Nicky Hajal and Mike Cobelli">
-<meta name="publisher" content="Tumble Design">
-<meta name="copyright" content="All code copyright 2008, Content is in released under the Creative Commons.">
-<meta http-equiv="Reply-to" content="websites@tumbledesign.com">
-<meta name="creation_Date" content="">
-<meta name="expires" content="">
-<meta name="revisit-after" content="4 days">
-<meta name="verify-v1" content="PBKLCgTB/no+AotBeRD1eyqSZNtJWBxDEyL4QL+xA+c=">
-<link rel="Shortcut Icon" href="favicon.ico">
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="styles/main_site/structure.css.php">
-<link rel="stylesheet" type="text/css" href="styles/main_site/elements.css.php">
-<link rel="stylesheet" type="text/css" href="styles/main_site/links.css.php">
-<link rel="stylesheet" type="text/css" href="styles/main_site/forms.css.php">
-<!--[if IE]>
-<link rel="stylesheet" type="text/css" href="styles/main_site/stylesIE.css.php" />
-<![endif]-->
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="styles/main_site/stylesIE6.css.php" />
-<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<script src="resources/prototype.js" type="text/javascript"></script>
-<script src="resources/effects.js" type="text/javascript"></script>
-<script src="scripts/global.js" type="text/javascript"></script>
-<script src="scripts/form.js" type="text/javascript"></script>
-<script src="scripts/Translator.class.js" type="text/javascript"></script>
-<script src="scripts/pngfix.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var langProf={"Comments":"Comments","Contact":"Contact","About":"About","Privacy_Policy":"Privacy Policy","Thank_You":"Thank You","Add":"Add","Remove":"Remove","Translators":"Translators","Valid":"Valid","nice":"Nice","translator":"Translator","auto_detect":"auto-detect","mission":"NiceTranslator is a fast, easy to use online translator<br\/> designed with simplicity and functionality in mind.","addTransSent":"Add a translator below then start typing here. Nicetranslator will do the rest.","startTypingSent":"Just start typing here. Nicetranslator will do the rest.","addTransAlert":"Add one or more translators","defSentence":"We&#39;ve added this translator because you&#39;re from %Country%. You may add or remove translators above."};
-var value="";
-var setSource = "";
-var srcLang="";
-var srcLCode="";
-var translatorList = [];
-var translations = [];
-var logTimeouts = {};
-var isMobile=false;
-var userIP = "67.202.41.3"; // For broad Geo-location
-var url_src="";
-var url_trs="";
-var url_txt="";
-var url_nws="";
-function translate() {
-  value = tSource.value;
-  if(setSource=="auto"){
-	  google.language.detect(value, detectResult);
-	  return false;
-  }
-  else{
-	  srcLCode=setSource;
-	  doTranslations();
-	  return false;
-  }
-}
-google.load("language", "1");
-function detectResult(result) {
-	var resultBody = document.getElementById("results_body");
-	if (result.language) {
-		var language = 'unnamed';
-		for (l in google.language.Languages) {
-			if (google.language.Languages[l] == result.language) {
-				language = l;
-				break;
-			}
-		}
-		srcLang =  language.toLowerCase();
-		srcLCode = result.language;
-		$('sourceLanguage').innerHTML = langProf.auto_detect+"("+srcLang+")";
-		doTranslations();
-	}
-}
-function doATranslation(lang){
-	google.language.translate(value, srcLCode, lang,
-				function(result){
-					if (result.translation) {
-						$(lang+'-transtxt').innerHTML = result.translation;					 
-						clearTimeout(logTimeouts[lang]);
-						logTimeouts[lang]=(setTimeout("logTranslation('"+lang+"', '"+addSlashes(result.translation)+"', '"+addSlashes(tSource.value)+"')", 1500));
-					}
-				}
-			);
-}
-function logTranslation(resLang, result, source){
-	if(!clear){
-		if(source==tSource.value){
-			var duplicate=false;
-			var t = translations.length;
-			if(t){
-				do{
-					if(translations[--t]==result){
-						duplicate=true;
-					}
-				}while(t);
-			}
-			if(!duplicate){
-				translations.push(result);
-				srcLang = srcLCode;
-				new Ajax.Request('ajax/logTranslation.ajax.php', {
-				 method: 'get',
-				 parameters: {ip:userIP , srcLang:srcLang, resLang:resLang, source:source, result:result},
-				 onSuccess: function(transport){},
-				 onFailure: function(transport){}
-				});
-			}
-		}
-	}
-}
-function init(){
-	loadTranslateSource();
-	loadDefaultTranslators(); 
-	setDefaultSource(); 
-	fixDrop(); 
-	alreadyRated();
-	seenNews();
-	if(url_txt){
-		if(translatorList.length<1){
-			toggleTranslator('en');
-		}
-		tSource.value = stripSlashes(url_txt);
-		clear=0;
-		translate();
-	}
-	if(url_nws=='no' || url_nws=='n' || url_nws=='0'){
-		if($('newsShell')){
-			makeInvisible($('newsShell'));
-		}
-	}
-}
-function seenNews(){
-	if(readCookie(newsTitle.replace(/ /g, "-"))=="1"){
-		$('newsContent').style.display="none";
-		$('newsVisibility').innerHTML = "Show";
-		newsOn=false;
-	}
-}
-function loadDefaultTranslators(){
-	var translators = readCookie('translators');
-	if(url_trs){
-		url_trs = url_trs.replace(/ /g, '').replace(/%20/g, '');
-		translators = url_trs.split(',');
-	}
-	if(translators){
-		if(translators.length){
-			for(var t=0; t<translators.length; t++){
-				toggleTranslator(translators[t]);
-			}
-		}
-		if(translatorList.length>0){
-			tSource.focus();
-		}
-	}
-}
-function setDefaultSource(){
-	var code='auto'; var out=langProf.auto_detect;
-	if(url_src){
-		code = url_src; out = getLangName(code);
-	}
-	changeSrc(code, out);
-}
-function alreadyRated(){
-	if(readCookie('upd-10')){
-				$('thnksUpd-10').style.opacity='1.0';
-				$('thnksUpd-10').style.filter='alpha(opacity=100)';
-				$('rateUpd-10').style.opacity='0.0';
-				$('rateUpd-10').style.filter='alpha(opacity=0)';
-				}
-			if(readCookie('upd-9')){
-				$('thnksUpd-9').style.opacity='1.0';
-				$('thnksUpd-9').style.filter='alpha(opacity=100)';
-				$('rateUpd-9').style.opacity='0.0';
-				$('rateUpd-9').style.filter='alpha(opacity=0)';
-				}
-			if(readCookie('upd-8')){
-				$('thnksUpd-8').style.opacity='1.0';
-				$('thnksUpd-8').style.filter='alpha(opacity=100)';
-				$('rateUpd-8').style.opacity='0.0';
-				$('rateUpd-8').style.filter='alpha(opacity=0)';
-				}
-			}
-function rateUpdate(updateID, rating){
-	new Effect.Opacity('rateUpd-'+updateID, {from:1.0, to:0.0});
-	new Effect.Opacity('thnksUpd-'+updateID, {from:0.0, to:1.0, afterFinish:
-			function(){
-				$('thnksUpd-'+updateID).style.opacity='1.0';
-				$('thnksUpd-'+updateID).style.filter='alpha(opacity=100)';
-				$('thnksUpd-'+updateID).display='block';
-				$('rateUpd-'+updateID).display='block !important';
-			}
-	});
-	new Ajax.Request('ajax/rateUpdate.ajax.php', {
-				 method: 'get',
-				 parameters: {updateID:updateID, rating:rating},
-				 onSuccess: function(transport){
-					createCookie('upd-'+updateID, 1,100);
-				},
-				 onFailure: function(transport){}
-	});
-}
-/* ]]> */
-</script>
+<title>Nice Translator Blog   » Nice Translator Privacy Policy</title>
 
+<link rel="stylesheet" href="http://nicetranslator.com/blog/wp-content/themes/lightweight/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="Nice Translator Blog RSS Feed" href="http://nicetranslator.com/blog/feed">
+<link rel="pingback" href="http://nicetranslator.com/blog/xmlrpc.php">
 <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -220,164 +17,119 @@ function rateUpdate(updateID, rating){
 	var pageTracker = _gat._getTracker("UA-6497966-1");
 	pageTracker._trackPageview();
 </script>
-
-<script type="text/javascript">
-	function setMinWidth(id) {
-				return false;
-	}
-</script> 
+<link rel="alternate" type="application/rss+xml" title="Nice Translator Blog » Nice Translator Privacy Policy Comments Feed" href="http://nicetranslator.com/blog/about/nice-translator-privacy-policy/feed">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nicetranslator.com/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nicetranslator.com/blog/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Nice Translator Blog" href="http://nicetranslator.com/blog">
+<link rel="up" title="About Nice Translator" href="http://nicetranslator.com/blog/about">
+<meta name="generator" content="WordPress 2.8.4">
 </head>
+<body>
 
-<body onload="init(); setMinWidth('mission');">
-	<div id="tumblar" class=""></div>
-	<div id="bodyPosition">
-		<div id="masthead">
-			<a href="http://www.nicetranslator.com"><img src="images/logo.gif" id="logo" alt="Nice translator logo"></a>
-			<div id="missionShell">
-				<div id="mission">
-					<div class="topCorners">
-						<img src="images/miss_rc_top_left.png" class="rc rc_top_left_15" alt="Nice Translator - Online Translator - Roundcorner Image">
-						<img src="images/miss_rc_top_right.png" class="rc rc_top_right_15" alt="Nice Translator - Online Translator - Roundcorner Image">
-					</div>
-					NiceTranslator is a fast, easy to use online translator<br> designed with simplicity and functionality in mind.					<div class="botCorners">
-						<img src="images/miss_rc_bot_left.png" class="rc rc_bot_left_15" alt="Nice Translator - Online Translator - Roundcorner Image">
-						<img src="images/miss_rc_bot_right.png" class="rc rc_bot_right_15" alt="Nice Translator - Online Translator - Roundcorner Image">
-					</div>
-				</div>
-			</div>
-		</div>
+<div id="top">
+	<div id="navigation">
+		<div id="navigation-wrap">
+			<div id="menu">
+				<ul>
+					<li class="page_item page-item-16"><a style="font-weight:bold" title="Back" href="http://www.nicetranslator.com">Back to Nice Translator</a></li>
+					<li class="page_item page-item-16"><a href="http://nicetranslator.com/blog/help" title="Help">Help</a></li>
+<li class="page_item page-item-17"><a href="http://nicetranslator.com/blog/tips-n-tricks" title="Tips ‘N Tricks">Tips ‘N Tricks</a></li>
+<li class="page_item page-item-67"><a href="http://nicetranslator.com/blog/tools" title="Tools">Tools</a></li>
+<li class="page_item page-item-18"><a href="http://nicetranslator.com/blog/write-about-nt" title="Write About NT">Write About NT</a></li>
+<li class="page_item page-item-20"><a href="http://nicetranslator.com/blog/thank-you" title="Thank You!">Thank You!</a></li>
+<li class="page_item page-item-2 current_page_ancestor current_page_parent"><a href="http://nicetranslator.com/blog/about" title="About Nice Translator">About Nice Translator</a></li>
+				</ul>
+			</div><!-- END menu -->
+		</div><!-- END navigation-wrap -->
+	</div><!-- END navigation -->
 
-		<div id="theCrux">
-		<!-- Main Site Content Start -->
-
-
-
-
-	<div id="rcGreenContent">
-		<div class="topCorners">
-			<img src="images/rc_1.gif" class="rc rc_top_left_15" alt="Nice Translator - Roundcorner Image">
-			<img src="images/rc_2.gif" class="rc rc_top_right_15" alt="Nice Translator - Roundcorner Image">
-		</div>
-		
-		<div id="contentArea"><div>
-		Effective <strong>December 1st, 2008</strong>
-					<h3 class="content">Privacy Notice Table Of Contents</h3>
-					
-					
-					<ul>
-						<li><a href="#1">Our Commitment To Privacy</a></li>
-						<li><a href="#2">The Information We Collect</a></li>
-						<li><a href="#3">How We Use Information</a></li>
-						<li><a href="#4">Our Commitment To Data Security</a></li>
-						<li><a href="#5">Our Commitment To Children's Privacy</a></li>
-						<li><a href="#6">How To Access Or Correct Your Information</a></li>
-						<li><a href="#7">How To Contact Us</a></li>
-					</ul>
-							
-					<a name="1"></a><h3 class="content">Our Commitment To Privacy</h3>
-					<p>Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-		
-					<a name="2"></a><h3 class="content">The Information We Collect</h3>
-					<p>This notice applies to all information collected or submitted on the <em>NiceTranslator</em> website. On some pages, you can make requests and send data.  The types of personal information collected at these pages are:</p>
-						<ul>
-							<li>Name</li>
-							<li>E-Mail Address</li>
-							<li>Content Submission (public comments, etc)</li>
-						</ul>
-		
-					<a name="3"></a><h3 class="content">The Way We Use Information</h3>
-					<p>We use return email addresses to answer the email we receive and to privately associate submitted content with its author. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
-					<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.</p> 
-					<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-		
-					<a name="4"></a><h3 class="content">Our Commitment To Data Security</h3>
-
-					<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
-		
-					<a name="5"></a><h3 class="content">Our Commitment To Children's Privacy</h3>
-					<p>Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
-		
-					<!--<p><a name="6"></a><h3 class="content">How You Can Access Or Correct Your Information</h3>
-					<p>You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information.
-					<p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-					<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.-->
-		
-					<a name="7"></a><h3 class="content">How To Contact Us</h3>
-					<p>Should you have other questions or concerns about these privacy policies, please call us at (914)844-5913 or send us an email at privacy[at]tumbledesign[dot]com.</p>
-		</div></div>
-
-		<div class="botCorners">
-			<img src="images/rc_4.gif" class="rc rc_bot_left_15" alt="Nice Translator - Roundcorner Image">
-			<img src="images/rc_3.gif" class="rc rc_bot_right_15" alt="Nice Translator - Roundcorner Image">
-		</div>
+	<div id="header">
+		<div id="header-wrap">
+			<div id="title">
+				<h1><a href="http://nicetranslator.com/blog/">Nice Translator Blog</a></h1>
+				<div id="tagline">
+					Nice Translator Information and Updates				</div>
+			</div><!-- END title -->
+		</div><!-- END header-wrap -->
+	</div><!-- END header -->
+</div><!-- END top --> <div id="container-top"> <div id="container-top-wrap"> <h2>Nice Translator Privacy Policy</h2> <form method="get" id="searchform" action="http://nicetranslator.com/blog/">
+	<div id="searchfield">
+		<input type="text" value="Search" name="s" id="s" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">
 	</div>
+	<div><input type="submit" id="searchsubmit" value=""></div>
+</form> </div><!-- END container-top-wrap --> </div><!-- END container-top -->  <div id="container"> <div id="container-wrap"> <div id="content"> <div class="col-700">  <div class="entry"> <p>Effective <strong>December 1st, 2008</strong></p>
+<h3 class="content">Privacy Notice Table Of Contents</h3>
+<ul>
+<li><a href="#1">Our Commitment To Privacy</a></li>
+<li><a href="#2">The Information We Collect</a></li>
+<li><a href="#3">How We Use Information</a></li>
+<li><a href="#4">Our Commitment To Data Security</a></li>
+<li><a href="#5">Our Commitment To Children’s Privacy</a></li>
+<li><a href="#7">How To Contact Us</a></li>
+</ul>
+<p><a name="1"></a></p>
+<h3 class="content">Our Commitment To Privacy</h3>
+<p>Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+<p><a name="2"></a></p>
+<h3 class="content">The Information We Collect</h3>
+<p>This notice applies to all information collected or submitted on the <em>NiceTranslator</em> website. On some pages, you can make requests and send data.  The types of personal information collected at these pages are:</p>
+<ul>
+<li>Name</li>
+<li>E-Mail Address</li>
+<li>Content Submission (public comments, etc)</li>
+</ul>
+<p><a name="3"></a></p>
+<h3 class="content">The Way We Use Information</h3>
+<p>We use return email addresses to answer the email we receive and to privately associate submitted content with its author. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
+<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.</p>
+<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+<p><a name="4"></a></p>
+<h3 class="content">Our Commitment To Data Security</h3>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+<p><a name="5"></a></p>
+<h3 class="content">Our Commitment To Children’s Privacy</h3>
+<p>Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p>
+<p><a name="7"></a></p>
+<h3 class="content">How To Contact Us</h3>
+<p>Should you have other questions or concerns about these privacy policies, please call us at (518) 867-6346 or send us an email at privacy[at]tumbledesign[dot]com.</p>
+<script type="text/javascript">ntww_width="400px";</script><script src="http://ntww.nicetranslator.com/" text="text/javascript"></script><noscript>Please enable Javascript to use <a href="www.nicetranslator.com">Nice Translator - The fast, easy to use online translator</a>.</noscript> </div><!-- END entry --> 
+<!-- You can start editing here. -->
 
-	<div id="translators">
 
-	</div>
-	<div id="message">
-	</div>
-</div>
-<div id="footer">
-	<div id="innerFooter">
-		<div id="footer_rc_left"></div>
-		<!--<a href="http://validator.w3.org/check?uri=referer" id="xhtmlValidate">[ Valid XHTML Strict ]</a>-->
-		<div id="google"> </div>
-		<script type="text/javascript">
-			google.setOnLoadCallback(initialize);
-			function initialize() {
-				google.language.getBranding('google');
-			}
-		</script>
+			<!-- If comments are open, but there are no comments. -->
 
-		<div id="footerLinks">
-			<ul>
-				<li id="tumbleLogo"><a href="http://www.tumbledesign.com"><img src="images/tumbleLogo.png" alt="Nice Translator - Contact Tumble Design" id="tumbleLogoImg"></a></li>
-				<li>
-					Nice Translator
-					<ul>
-						<li><a href="comments.php">Comments <span dir="ltr"> (425) </span></a></li>
-						<li><a href="http://www.nicetranslator.com/blog/about">About</a></li>
-						<li><a href="http://www.nicetranslator.com/blog/help">Help</a></li>
-						<li><a href="privacypolicy.php">Privacy Policy</a></li>
-					</ul>
-				</li>
-				<li>
-					NT Tools
-					<ul>
-						<li><a href="http://www.nicetranslator.com/getntww">Web Widget</a></li>
-						<li><a href="http://www.nicetranslator.com/wordpress">WordPress Plugin</a></li>
-						<li><a href="http://www.google.com/ig/directory?url=nicetranslator.com%2Fgadget%2Findex.html">iGoogle Gadget</a></li>
-						<li><a href="http://www.nicetranslator.com/blog/tips-n-tricks">Tips 'N Tricks</a></li>
-					</ul>
-				</li>
-				<li>
-					NT in Your Language
-					<ul>
-						<li>
-							<select id="selectLangProf" onchange="location.href='http://'+this.value + '.nicetranslator.com'">
-							<option>Select Language</option>
-							<option value="albanian">Albanian</option><option value="arabic">Arabic</option><option value="bulgarian">Bulgarian</option><option value="catalan">Catalan</option><option value="croatian">Croatian</option><option value="czech">Czech</option><option value="danish">Danish</option><option value="dutch">Dutch</option><option value="english">English</option><option value="estonian">Estonian</option><option value="farsi">Farsi</option><option value="finnish">Finnish</option><option value="french">French</option><option value="german">German</option><option value="greek">Greek</option><option value="hebrew">Hebrew</option><option value="hungarian">Hungarian</option><option value="indonesian">Indonesian</option><option value="italian">Italian</option><option value="kyrgyz">Kyrgyz</option><option value="latvian">Latvian</option><option value="lithuanian">Lithuanian</option><option value="macedonian">Macedonian</option><option value="norwegian">Norwegian</option><option value="polish">Polish</option><option value="portuguese">Portuguese</option><option value="romanian">Romanian</option><option value="russian">Russian</option><option value="serbian">Serbian</option><option value="slovak">Slovak</option><option value="slovenian">Slovenian</option><option value="spanish">Spanish</option><option value="swedish">Swedish</option><option value="turkish">Turkish</option><option value="ukrainian">Ukrainian</option>							</select>	
-						</li>
-						<li></li>
-						<!--<li><a href="getwpww.php">Submit Corrections</a></li>-->
-						<li><a href="countryProfile.php">Add a New Language</a></li>
-					</ul>
-				</li>
-				<li>
-					Contribute
-					<ul>
-						<li id="donateLi"><form style="display:inline;" action="https://www.paypal.com/cgi-bin/webscr" method="post"> 								<input type="hidden" name="cmd" value="_s-xclick"> 								<input type="hidden" name="hosted_button_id" value="2611777"> 								<input type="image" style="width:auto; background:none; margin-left:-5px;border-width:0px; margin-top:-3px;" src="https://www.paypal.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""></form>
-						</li>
-						<li><a href="http://www.nicetranslator.com/blog/write-about-nt">Write about NT</a></li>
-						<li><a href="http://www.nicetranslator.com/blog/thank-you">Thank You</a></li>
-					</ul>
-				</li>
-				
-			</ul>
-		</div>
-		<div id="footer_rc_right"></div>
-	</div>
-</div></div>
+	 
 
-</body></html>
+
+<h3 id="respond">Leave a Reply</h3>
+
+
+<form action="http://nicetranslator.com/blog/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required="true">
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required="true">
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3">
+<label for="url"><small>Website</small></label></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><textarea name="comment" id="comment" cols="90" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit">
+<input type="hidden" name="comment_post_ID" value="120">
+</p>
+
+</form>
+
+
+   </div><!-- END col-700 --> <div id="sidebar">
+	<div class="column-220-last">
+	
+		</div><!-- END column -->
+</div><!-- END sidebar --> </div><!-- END content --> </div><!-- END container-wrap --> </div><!-- END container --> <div id="footer-wrap"> <div id="footer"> <ul> <li>© 2009 <a href="http://nicetranslator.com/blog">Nice Translator Blog</a> — Design by <a href="http://awakening.ch/">awakening.</a> <!-- Please do not remove this line! -->   <a href="http://nicetranslator.com/blog/wp-login">Log In</a></li> <!-- END log in --> </ul> </div><!-- END footer --> </div><!-- END footer-wrap -->    </body></html>
