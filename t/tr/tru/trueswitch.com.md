@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417234346id_/http%3A//www.trueswitch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032445id_/http%3A//www.trueswitch.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to TrueSwitch. Support Center
 
@@ -54,7 +54,7 @@ As part of the Services, an “Update Contact Information Notification” is e-m
   This feature is enabled by default in the “Custom Switching” option but disabled by default in the “Express Switching” option of the TrueSwitch Wizard. It can be disabled in the “Custom Switching” mode by de-selecting the "Update Your Contact Information" options. The information sent in the "Update Contact Information Notification” message can be customized by editing the text in each of the “Personal” and “Business” fields in the screen window following the selection of the "Update Your Contact Information" option.
 
 **7\. SHARING OF INFORMATION**  
-We will use your personally identifiable information only to provide the Services, notify you of technical or billing information, or inform you of changes in our service. We also use the information collected to contact users to further discuss interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. You may opt-out of receiving any such communications by selecting the “Custom Switching” mode in the TrueSwitch Wizard then by de-selecting the "Receive Updates from TrueSwitch" option. You may also opt-out of receiving any such communications at any time by e-mailing [opt-out@trueswitch.com](mailto:opt-out@trueswitch.com).
+We will use your personally identifiable information only to provide the Services, notify you of technical or billing information, or inform you of changes in our service. We also use the information collected to contact users to further discuss interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. 
 
   TrueSwitch will send you e-mails relating to the status of your TrueSwitch and informing you of technical service or security issues related to the Services you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
 
@@ -63,15 +63,11 @@ We will use your personally identifiable information only to provide the Service
   If an ISP partner is sponsoring TrueSwitch, Esaya will disclose your User ID / e-mail address to that ISP partner. Please refer to the privacy policy of the sponsoring ISP if you have any concerns.  
 Esaya also may share non-personalized, aggregate data with ISP partners who sponsor the Services, advertisers, investors and other selected business partners.
 
-**8\. OPT-OUT POLICY**  
-Esaya offers its users a means to choose how we may use information provided. If, at any time after signing-up for Services, you change your mind about receiving information from us or about sharing your information with third parties, send us a request by e-mailing [opt-out@trueswitch. com](mailto:opt-out@trueswitch.com).  
-
-
-**9\. SECURITY**  
+**8\. SECURITY**  
 The Website has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When the Website is accessed using Netscape Navigator, or Microsoft Internet Explorer versions 4. 0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. TrueSwitch also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Website in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.  
 
 
-**10\. ADDITIONAL INFORMATION**  
-Questions regarding this Privacy Policy or the practices of this Website should be directed to Esaya’s Security Administrator by e-mailing such questions to [security@esaya.com](mailto:security@trueswitch.com).
+**9\. ADDITIONAL INFORMATION**  
+Questions regarding this Privacy Policy or the practices of this Website should be directed to Esaya’s Security Administrator by e-mailing such questions to [security@trueswitch.com](mailto:security@trueswitch.com).
 
 |   | 
