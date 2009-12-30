@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209053654id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230235126id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | isoHunt - P2P search engine
+# Privacy Policy › isoHunt › the BitTorrent & P2P search engine
 
 Privacy Policy
 
@@ -14,9 +14,9 @@ We use various third-party advertising companies to serve ads when you visit our
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
-| 
+| [](http://isohunt.com/a/adclick.php?bannerid=350&zoneid=13&source=&dest=http%3A%2F%2Fwww.blucigs.com%2Findex.php%3Fref%3D543%26affiliate_banner_id%3D19)
 
-[](https://web.archive.org/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
+[](http://isohunt.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
 
   
 | Shout Box  
@@ -31,7 +31,5 @@ READ! | [Smileys](https://web.archive.org/privacy.php?smiley)
   
   
 [or chat with others **live** on IRC](irc://irc.isohunt.com/isoHunt "#isoHunt on P2P-NET, SSL on port 7000. You need a client like mIRC")  
-  
-  
   
 
