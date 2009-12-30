@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625030150id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230092038id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
 
 # Privacy and security - Medicare Australia
 
@@ -24,7 +24,13 @@ With respect to the collection, use and disclosure of personal information*, Med
 
 ## Your privacy
 
-As a general rule, we do not collect personal information* about you when you visit our site. You can generally visit our site without telling us who you are or revealing other personal information*, unless you choose to provide such information to us. The information we receive depends on what you do when visiting our site. If you visit our site to read or download information, we record the following:
+As a general rule, we do not collect personal information* about you when you visit our site. You can generally visit our site without telling us who you are or revealing other personal information*, unless you choose to provide such information to us. 
+
+No attempt will be made to identify you or your browsing activities except where we are required to do so by law.
+
+## Collection of your personal information*
+
+The information we receive depends on what you do when visiting our site. If you visit our site to read or download information, we record the following:
 
   * Your server's address.
   * The name of the top level domain from which you access the Internet (for example, .gov, .com, .edu, .org, .au, .nz etc).
@@ -38,32 +44,29 @@ As a general rule, we do not collect personal information* about you when you vi
 
 The above information is used to create summary statistics which allow us to assess the number of visitors to the different sections of our site, discover what information is most and least used, determine technical design specifications, and help us make our site more useful.
 
-No attempt will be made to identify you or your browsing activities except where we are required to do so by law.
-
-## Collection of your personal information*
-
 Where we ask you for any personal information* we will tell you how we intend to use that information should you choose to give it to us. All personal information* provided through this site will remain confidential and will not be used or disclosed without your consent unless we are required to do so by law.
 
 Your email address will only be recorded if you send us a message. It will be used for the purpose for which you have provided it, and will not be added to a mailing list or disclosed to a third party.
 
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please notify us using the feedback link at the top of this page.
 
-## Security of your personal information*
+## Use of your personal information*
 
-The information you send to us as part of your online request is kept confidential. All your information is encrypted and transmitted using a secure socket layer (SSL) connection.
+Your personal information* will not be used for any purpose other than that for which it was collected. We will not share your information with other government agencies or other organisations without your permission unless:
 
-You will know that you are using a secure connection when:
-
-  * a security alert window tells you that you are about to use a secure connection and/or
-  * an SSL icon shows you are in a secure connection with one of the following: 
-    * the website's address changes to one which reads 'https', or
-    * an open padlock symbol changes to a closed padlock symbol, or
-    * a broken key icon is replaced by an unbroken key, or
-    * a blue line runs across the top of the content window.
+  * it is necessary to provide you with a service which you have requested
+  * it is required or authorised by law
+  * it will prevent or lessen a serious and imminent threat to somebody’s health
 
 
 
-Medicare Australia is using available technology to protect the security and confidentiality of your transmissions over the internet. However, if you do not wish to send personal details online, you can contact us by phone, in person, or in writing (see [contact us](https://web.archive.org/about/contact.jsp) for details).
+If personal information* is collected, you will be advised of it’s intended use at the point of collection. At this time you will also be notified of any parties to whom your information may be disclosed.
+
+## Accessing your personal information*
+
+If you wish to gain access to your personal information* held by Medicare Australia, such as your Medicare and/or PBS claims histories, you may request access to this information at any time through Medicare Australia’s Information Release Team.
+
+If upon gaining access to your records, you believe your personal information* to have been recorded inaccurately, you may also request that the information be amended.
 
 ## Protecting your information
 
@@ -74,6 +77,10 @@ The legislation that protects your information includes:
 We can only divulge personal information* when you give us permission, or when it is authorised (or required) by law.
 
 Medicare Australia staff can only access your information in order for them to perform their duties. We take the privacy and confidentiality of your information, very seriously.
+
+## Health Professionals
+
+Medicare Australia’s Health Professional Online Services portal includes certain services for which the collection of bank details and other personal information may be required. The collection of this information is governed by the same regulations that cover the collection of any other personal information* throughout this website or on Medicare Australia forms in general.
 
 ## Statistical data
 
@@ -97,6 +104,23 @@ PO Box 1001
 Tuggeranong ACT 2901
 
 [Statistical data is available online](https://web.archive.org/about/stats/index.jsp) or contact the Information Services Branch on **1800 101 099** for more information.
+
+## Contact our privacy area
+
+If you would like to know more about **privacy** and how Medicare Australia protects your personal information*, call **02 6124 6333** and ask for the Privacy Policy Section, write to:
+
+Manager, Privacy Policy and Information Release Section  
+Medicare Australia  
+Legal, Privacy and Information Services Branch  
+PO Box 1001  
+Tuggeranong DC ACT 2901
+
+Or email:  
+[co.privacy@medicareaustralia.gov.au](mailto:co.privacy@medicareaustralia.gov.au)
+
+## Useful links
+
+* The use of the term "personal information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained.
 
 ## General security advice
 
@@ -144,30 +168,4 @@ While Medicare Australia endeavours to make this site secure, users should be aw
 
 Despite its best efforts, Medicare Australia does not warrant that the information in its site is free from infection by computer viruses or other contamination.
 
-## Contact our privacy area
-
-If you would like to know more about **privacy** and how Medicare Australia protects your personal information*, call **02 6124 6333** and ask for the Privacy Policy Section, write to:
-
-Manager, Privacy Policy and Information Release Section  
-Medicare Australia  
-Legal, Privacy and Information Services Branch  
-PO Box 1001  
-Tuggeranong DC ACT 2901
-
-Or email: [co.privacy.policy@medicareaustralia.gov.au](mailto:co.privacy.policy@medicareaustralia.gov.au)
-
-If you would like to know more about **information release** , call **02 6124 6333**  and ask for the Information Release team or write to:
-
-Manager, Privacy and Information Release Section  
-Medicare Australia  
-Legal, Privacy and Information Service Branch  
-PO Box 1001  
-Tuggeranong DC ACT 2901
-
-Or email: [co.information.release@medicareaustralia.gov.au](mailto:co.information.release@medicareaustralia.gov.au)
-
-### Useful links
-
-* The use of the term "personal information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained.
-
-Last updated: 22 January, 2009
+Last updated: 1 October, 2009
