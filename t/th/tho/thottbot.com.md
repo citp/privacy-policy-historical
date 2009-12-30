@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thottbot.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618121329id_/http%3A//thottbot.com/%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thottbot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040208id_/http%3A//thottbot.com/%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - Thottbot: World of Warcraft
 
