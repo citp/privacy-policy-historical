@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406030831id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223642id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
-# SquishyCash | Get Paid to Complete Offers, Paid Surveys, Sample Products, & Refer Friends!
+# SquishyCash - privacy_policy
+
+| 
 
 Privacy Policy
 
@@ -20,6 +22,7 @@ Information Sharing
 We will not sell, disclose or lease our member's personal information to any other entity, unless this information is required by a Law Enforcement Agency. 
 
 Changes to this Policy  
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to 
+Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to their squishycash.com inbox.
 
-their squishycash.com inbox.
+|   
+---|---|---
