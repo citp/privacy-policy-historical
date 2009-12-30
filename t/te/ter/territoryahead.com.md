@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211608id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230015002id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
 
 # Your Privacy Rights - Customer Service - The Territory Ahead
 
