@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oriflame.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520031523id_/http%3A//www.oriflame.com/standalone/PRIVACY-STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oriflame.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031416id_/http%3A//www.oriflame.com/standalone/PRIVACY-STATEMENT) for the most accurate reproduction.*
 
 # Oriflame Cosmetics - PRIVACY STATEMENT
 
