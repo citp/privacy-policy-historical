@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105150632id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230107id_/http%3A//ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -57,12 +57,10 @@ You may opt out of any eWedding.com e-mails containg newly added features, news 
 
 If you have any questions, comments or concerns with the privacy of your information collected by Launchpad Web Development, please contact us with the info at the top of this page.
 
-> The ewedding website has assisted us with so many options for preparation of our wedding on May 31, 2008. The information that was provided made making our own website to share with family and friends so easy and understanding. This was the most effective way to share our wedding information with all of our guests on a daily basis, if needed which many of them are many miles away. After the completion of each step, you can ensure that everything has been taken care of and it will help you enjoy your special day.
+> I love how easy this website is to work with. It is great for keeping our guests informed of wedding plans. We have heard nothing but great comments from everyone who has visited our site. 
 > 
-> Thank you very much!
-> 
-> Denise and Scott  
-> NC, USA
+> Tanya & Alain  
+> Cambridge, Ontario
 
   
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
