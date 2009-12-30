@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623173909id_/http%3A//rephunter.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230021147id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
 
 # RepHunter Privacy Notice, Manufacturers Reps, Independent Sales Rep, Pharmaceutical Sales Reps, Sales Agency, Sales Force, Manufacturer Agent, Sales Job, Sales Careers
 
 ## What this Privacy Policy Covers
+
+Member #28533"I have so many reps I'm trying to set up from just a one month subscription that I need to catch up before looking for more! I am very pleased with RepHunter.net!" 
 
 This Privacy Policy covers RepHunter treatment of personally identifiable information that RepHunter collects when you are on the RepHunter site, and when you use RepHunter services. This policy also covers RepHunter treatment of any personally identifiable information that business partners of RepHunter share with RepHunter or that RepHunter may collect on a partner's site. This policy does not apply to the practices of companies that RepHunter does not own or control, or to people that RepHunter does not employ or manage.
 
