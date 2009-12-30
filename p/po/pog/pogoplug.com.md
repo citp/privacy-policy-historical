@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pogoplug.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318145606id_/http%3A//www.pogoplug.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogoplug.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230200540id_/http%3A//www.pogoplug.com/privacy.html) for the most accurate reproduction.*
 
-# Pogoplug — Privacy
+# Pogoplug - Privacy
 
 Last revised: December 22, 2008 
 
