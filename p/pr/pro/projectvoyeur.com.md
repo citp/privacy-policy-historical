@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projectvoyeur.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523223733id_/http%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectvoyeur.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224248id_/http%3A//www.projectvoyeur.com/pages/privacy.php) for the most accurate reproduction.*
 
-# The FREE Project Voyeur, Free Nude Amateur & Voyeur Wife Photos, Daily Privacy
+# FREE Project Voyeur - Privacy
 
 ProjectVoyeur.Com("website services )
 
