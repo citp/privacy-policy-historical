@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629003522id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232417id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,6 +46,6 @@
   
 
 
-**[Looking for Job? Upload your resume here for MAXIMUM Exposure!](http://www.vyoms.com/dgm.asp)**
+**[**Looking for Job? Upload your resume here for MAXIMUM Exposure!**](http://www.vyoms.com/dgm.asp)**
 
 | 
