@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilisoft.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602225143id_/http%3A//www.xilisoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilisoft.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230080827id_/http%3A//www.xilisoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Xilisoft Corporation - Privacy Policy
 
@@ -58,6 +58,10 @@ As is true of most websites, we gather certain information automatically and sto
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Xilisoft will not use the information collected to market directly to that person.
 
+## Anti-malware statement 
+
+Xilisoft STRONGLY OPPPOSES all forms of malware. Xilisoft applications will never intentionally jeopardize our customers' privacy or security. All applications are designed to be easily removable from the computer through an uninstall utility. Xilisoft does not employ the use of reinstallers and avoids all features that may be found in any type of malware. No Xilisoft application is designed to collect any personally identifiable information from any user. Xilisoft applications do not contain, nor are they bundled with, any third party applications (spyware, adware, malware, etc.) that would jeopardize our customers' security or their privacy. All Xilisoft applications pass both Kaspersky and Rising vigorous anti-virus/malware tests before public release.
+
 ## Our companywide commitment to your privacy
 
 This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Xilisoft employees and strictly enforce privacy safeguards within the company. 
@@ -68,4 +72,4 @@ Xilisoft abides by the safe harbor framework set forth by the U.S. Department of
 
 Xilisoft's website has links to the sites of other companies. Xilisoft is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
-_Last updated February 5, 2009_
+_Last updated September 27, 2009_
