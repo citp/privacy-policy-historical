@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezer.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216211630id_/http%3A//gamezer.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezer.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224621id_/http%3A//gamezer.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Online Multiplayer Games | Privacy Policy
 
