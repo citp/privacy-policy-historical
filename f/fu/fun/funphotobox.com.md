@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217151709id_/http%3A//www.funphotobox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232134id_/http%3A//www.funphotobox.com/privacy.aspx) for the most accurate reproduction.*
 
-# FunPhotoBox - funny pictures, funny photo effects. Make fun with your photos online.
+# FunPhotoBox - Best Photo Effects and Gif Animations. Photo Fun online. Create funny pictures.
 
 FunPhotoBox.com ("us", "we", "our") has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following outlines our information gathering and dissemination practices for this site (the "Site"): 
 
@@ -15,6 +15,15 @@ Cookies are pieces of information that a website creates for record-keeping purp
 ### Information Collected on Third Party Sites
 
 Our Site periodically contains links to sites which have been independently developed by third parties. We are not responsible for the privacy practices or the information, materials and other content forming part of such third party sites. This Privacy Policy extends only to data collected on our Site. 
+
+### Third-party Advertisers
+
+FunPhotoBox allows other companies, called third-party ad servers or ad networks, to serve advertisements within the FunPhotoBox Sites. Currently, FunPhotobox has relationship with Google as the third-party ad server.  
+Google uses cookies to serve the most relevant ads on our website. For example if you visit automobile websites, ads on FunPhotoBox.com may be related to cars. Also Google may place the DoubleClick DART cookie in your browser to understand the types of pages you visited or content you viewed. Based on collected information, Google associates your browser with relevant interest categories and use this information to show interest-based ads. Users may stand back of the use of the DoubleClick DART cookie by visiting the Google ad and content network privacy policy.   
+You should consult the respective privacy policies of these third-party ad servers or ad networks:   
+Google, Inc. (<http://www.google.com/privacy_ads.html>).   
+The FunPhotobox privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.   
+FunPhotobox does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. 
 
 ### Security
 
