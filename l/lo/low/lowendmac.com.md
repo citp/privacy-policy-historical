@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418054950id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223703id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -27,31 +27,14 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
   
 
-
-### Low End Mac Reader Specials
-
-[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/967/clickHTML?ajkey=A67A2477CF3A96D643CA3B8D00000C84000026FB00000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFF964466C4) MacPro 8 Core 8GB kit $232 / 4GB kit $116 / 2GB kit $72. New Macbook 2GB DDR3-$65. HARD DRIVES available -- Free shipping / LIfetime warranty. 
-
-[**Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/659/clickHTML?ajkey=C9C29E97CF3A96D643CA3B8D00001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF8DAAD435) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/659/clickHTML?ajkey=C9C29E97CF3A96D643CA3B8D00001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF8DAAD435)
-
-[ ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/160/clickHTML?ajkey=EE68835BCF3A96D643CA3B8D000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF8442736A) **[LA Computer Company:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/160/clickHTML?ajkey=EE68835BCF3A96D643CA3B8D000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF8442736A)** Specials on AppleCare, iMac's, Apple Batteries and Apple A/C Adapters. Also Great prices on Used Apple Computers. Call 1-800-941-7654[ Click Here. ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/160/clickHTML?ajkey=EE68835BCF3A96D643CA3B8D000021150000288200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF8442736A)
-
-[**OWC:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/129/clickHTML?ajkey=43E21202CF3A96D643CA3B8D000017D4000041D400001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF6F20F193) Big Drives, High Performance - Not High Prices! SATA 3.5" up to 1.5TB. Notebook up to 500GB. FW up to 6.0TB. 1.0TB Drive Models from as low as $97.99 [www.MacSales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/129/clickHTML?ajkey=43E21202CF3A96D643CA3B8D000017D4000041D400001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF6F20F193)
-
-[](http://www.macpokeronline.com/) Don't install Parallels to play poker online! [Poker Mac](http://www.imaconlinepoker.com/ "Poker Mac") will show you how to download and install a native Mac poker application such as [Full Tilt Poker Mac](http://www.macpokeronline.com/poker-rooms/full-tilt-poker/ "Full Tilt Poker Mac").
-
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/944/clickHTML?ajkey=A81CF6BBCF3A96D643CA3B8D000035DF000035DC00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF95DECCDD) Laptop Hardware Provided by [TechRestore](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/944/clickHTML?ajkey=A81CF6BBCF3A96D643CA3B8D000035DF000035DC00001EC800001B6AFFFFFF91FFFFFF91FFFFFFFF95DECCDD) \- Overnight Mac & iPod Repairs.
-
-Compare products like [desktop computers](http://www.ciao.com/Desktops_10000034_2 "Desktop Reviews"), [laptops](http://www.ciao.com/Laptops_10000035_2 "Laptop reviews"), [iMac](http://www.ciao.com/Desktops_10000034_2-apple "Apple iMac Reviews"), and [LCD Monitors](http://www.ciao.com/LCD_Monitors_10000037_2 "LCD Monitor comparison") side by side! All the information and reviews to make the best purchasing decision for new cell phones, [GPS Systems](http://www.ciao.com/GPS_Systems_10000169_2 "GPS Reviews and Price Comparison"), or [MP3 players](http://www.ciao.com/MP3_Players_10000127_3 "Compare MP3 Player"). [The Ciao online shopping community](http://www.ciao.com/ "For reviews and price comparison") makes searching products easy for you.
-
 Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©1997-2009 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/index.html), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
   Access our RSS news feed at [http://lowendmac.com/feed.xml](https://web.archive.org/feed.xml).  
   Email may be published at our discretion; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. If you prefer your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)  
   [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, iPhone, PowerBook, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  | 
-* Mac of the Day: [Macintosh 128K](https://web.archive.org/compact/original-macintosh-128k.html), Jan. 1984 - 1984 wasn't going to be anything like _1984_ thanks to the original Macintosh.
-* List of the Day: [Mac OS 9 List](http://lowendmac.com/lists/macos9.html) covers Mac OS 9 as both a freestanding OS and as Classic mode in OS X.  
+* Mac of the Day: [Centris 650](https://web.archive.org/quadra/centris-650.html), Feb. 1993 - The replacement for the Quadra 700 has room for an internal CD-ROM.
+* List of the Day: [MacBooks](http://lowendmac.com/lists/macbooklist.html) covers Apple's new Intel-based 'Books such as the MacBook Pro.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
@@ -99,7 +82,7 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©19
 [MacMall](http://www.kqzyfj.com/click-272632-53427)  
 [iResQ](http://www.myaffiliateprogram.com/u/macresq/b.asp?id=1046)  
 [ ExperCom](http://www.expercom.com/browse_by_category.html?CATEGORY_ID=264&AD=LOEM)  
-[eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=1&campid=5336172247&toolid=10001&customid=LowEndMac)  
+[eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=1&pub=5574719130&toolid=10001&campid=5336443318&customid=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)  
 [ Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/lowendmac00-20)  
 [PayPal](https://secure.paypal.com/refer/pal=webmaster%40lowendmac.com)  
 [PCMall](http://www.tkqlhce.com/click-272632-54502)  
