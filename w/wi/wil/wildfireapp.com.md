@@ -1,25 +1,58 @@
-> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174059id_/http%3A//www.wildfireapp.com/buzz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040158id_/http%3A//www.wildfireapp.com/buzz/privacy_policy) for the most accurate reproduction.*
 
 # Interactive Promotions for Brand Marketing by Wildfire Promotion Builder | Wildfire Interactive, Inc.
 
-**** Wildfire Interactive, Inc Privacy Policy (December 7, 2008) 
+Last Updated: November 4, 2009
 
-Wildfire Interactive, Inc ("Wildfire") is a technology company that provides businesses and other organizations ("Organizations") with a technology that enables them to create and publish interactive promotions ("Promotions") on websites and within social networks (e.g. Facebook). The kind of Promotions that Organizations may choose to publish using our technology include:sweepstakes, contests, give-aways, ecoupons and surveys. Organizations may use such Promotions to gather personally identifiable information from those individuals who choose to enter a particular Promotion. Additionally, anonymous data may be collected. 
+Your privacy is important to Wildfire Interactive, Inc. ("Wildfire"). This privacy policy ("Policy") applies to the Wildfire Web sites ("Sites") and Wildfire applications such as those built on popular social networking sites ("Applications"). This Policy explains how your personal information is collected, used, and disclosed by Wildfire.
 
-This privacy policy outlines our treatment of personally identifiable information that our clients collect using our technology. 
+**PERSONAL INFORMATION COLLECTED**  
+We collect information from you in various ways when you use our Sites and Applications. We may collect personal information you directly provide on our Sites. In addition, we may collect personal information from you as a user of our Applications. Information we may collect includes name and email address, demographic information such as gender, education, birth date, preferences, and interests, and any other information requested from you. We may supplement this information with information collected from other companies.
 
-**Personally identifiable information collected via our Promotions Technology:** Wildfire provides technology and hosting services that enable companies to run online promotions (including sweepstakes and contests) that may be published within social networks and/or on websites. Organizations may use these promotions to collect personally identifiable information from those people who choose to enter the promotion. Personally identifiable information will only be collected from those individuals who actively provide it by filling out an entry form or a survey associated with the promotion. The Wildfire technology collects personally identifiable information solely for the use of Wildfire clients. Personally identifiable information is stored on Wildfire servers so that clients may access it via a secure account. Wildfire does not access or use any of the personally identifiable data for its own purposes. Wildfire may, however, use anonymous, aggregated data to evaluate the performance of promotions run using its technology. Personally identifiable information that is collected by a particular promotion is only shared with the organization(s) sponsoring that promotion. Personally identifiable information collected by the Wildfire technology on behalf of a client belongs solely to that client and will be used in accordance with that client's privacy policy. Individuals who choose to interact with a promotion running via the Wildfire technology are encouraged to review the promotion sponsor's privacy policy prior to providing any personally identifiable information. Organizations that sign up to use the Wildfire technology are required to agree that they will use generally accepted privacy standards when collecting and handling personally identifiable information. Ultimately, however, Wildfire is not responsible for data collected by Organizations using the Wildfire technology. 
+In addition, when you visit our Sites some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. That information includes your computer's Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses. We may also collect information about your computer's operating system and information about your usage and activity on our Sites.
 
-**Minors:** Wildfire Promotions are not available to anyone under the age of thirteen (13). All individuals wishing to participate in promotions run via the Wildfire Technology must indicate that they are 13 years or older (in the case of many of our promotions they must be 18 years or older) before they are able to enter the promotion. 
+Cookies.  
+We may automatically collect certain information through the use of "cookies." Cookies are small data files that are stored on your hard drive by a Web site. Among other things, the use of cookies helps us to improve our Sites and your experience. We use cookies to see which areas and features are most popular, to count the number of computers accessing our Sites, to personalize your experience, and to remember your preferences. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features or services of our Sites.
 
-**California Privacy Rights (As provided by California Civil Code Section 1798.83):** A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. 
+Web Beacons.  
+Web beacons, also known as gifs, are electronic images that may be used on our Sites or in our emails. A Web beacon may be used on our Web pages to collect information, deliver cookies, count visits, understand usage and campaign effectiveness, or in our emails to tell if an email has been opened and acted upon.
 
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. 
+**USE OF PERSONAL INFORMATION WE COLLECT**  
+We use your personal information to provide you with services, to operate and improve our Sites and Applications, to send you messages, and for other purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use the information we collect from you on our Sites and Applications:  
+• to personalize and improve your experience on our Sites and with our Applications;  
+• to respond to comments and questions and provide customer service;  
+• to deliver service messages and other services and content you request and to send information related to accounts and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;  
+• to send you information about new promotions, products, and services offered by Wildfire and our selected partners; and  
+• to conduct an aggregated analysis of the performance of promotions.
 
-**Contact Wildfire:** If you wish to contact Wildfire about privacy related issues, you may do so in one of two ways: 
+Personal information you provide may be linked or combined with other personal information we collect or obtain from third parties. We match your information, in part, to help understand your needs and provide you with better service.
 
-1\. Mail to: Wildfire Interactive, Inc. 922 Florence Lane, # 4 Menlo Park, CA 94025; or 
+Wildfire may store and process personal information in the United States and other countries.
 
-2\. Email to: privacy@WildfireApp.com
+**SHARING OF PERSONAL INFORMATION**  
+Some promotions and features of our Sites and Applications are presented jointly with other companies. If you choose to participate in those promotions or use those features, your information may be collected and used by Wildfire and those other companies. Use of your information by those other companies for their own purposes is not controlled by Wildfire and is subject to their own terms and privacy policies. Please review each sponsor's promotion rules and privacy policy for details.
 
-**Material Changes to Policy:** From time to time, Wildfire may make changes to this Privacy Policy. Therefore, you should periodically visit this page to view the current Privacy Policy. 
+We do not share your personal information with third parties other than as described above and as follows:  
+• with your consent, for example, when you agree to our sharing your information with other third party partners for their own marketing and other purposes subject to their separate privacy policies;  
+• with third party vendors, consultants and other service providers ("Service Providers") who are working on our behalf and need access to your information to carry out their work for us;  
+• to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of Wildfire, our agents, members, and others including to enforce our agreements, policies and terms of use, or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and  
+• in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. In any such event, we will provide notice if your data is transferred and becomes subject to a different privacy policy. 
+
+**SECURITY OF YOUR PERSONAL INFORMATION**  
+Wildfire takes reasonable security measures to protect your personal information to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are impenetrable.
+
+If you use a password on our Site, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please advise us immediately.
+
+**CHOICES ABOUT USE OF YOUR INFORMATION**  
+You may "opt-out" of receiving promotional emails from Wildfire by following the instructions in those emails. You may also send requests relating to promotional messages and your permission for sharing information with third parties for their marketing purposes by emailing [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com). Opt-out requests will not apply to transactional service messages, including messages about your current Wildfire account and services.
+
+You may also choose to remove the Application from your Facebook account by clicking on "Settings" in the toolbar and selecting "Application Settings" from the drop-down menu. Click the "x" next to the Application's name, then click "remove" again to confirm the deletion.
+
+**UPDATING AND ACCESSING YOUR PERSONAL INFORMATION**  
+If your personal information changes, we invite you to correct or update your information as soon as possible. You can request changes or access to your information by emailing [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com).
+
+**CHANGES TO THIS POLICY**  
+Wildfire may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If there are material changes to this policy, we will notify you more directly. We encourage you to review this Policy whenever you visit our Sites or use our Applications to understand how your personal information is used.
+
+**QUESTIONS ABOUT THIS POLICY**  
+If you have any questions about this Policy, please contact us at [privacy@WildfireApp.com](mailto:privacy@WildfireApp.com).
