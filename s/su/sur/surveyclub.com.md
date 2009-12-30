@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323061605id_/http%3A//surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032516id_/http%3A//surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Survey Club - Take Paid Surveys Online and Get Paid!
 
@@ -22,7 +22,7 @@ While both of these activities depend on the use of a "cookie," visitors to this
 
 **Information Gathering**
 
-This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary.
+This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. Emails may come from SurveyClub.com, SurveyClubMarketing.com, and/or SurveyClubOffers.com.
 
 Users may opt-out of receiving future mailings; see the opt-out/modify section below.
 
@@ -58,4 +58,4 @@ If you're a SurveyClub member and you simply wish to cancel your account, you ar
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-This Privacy Policy was last updated December 29, 2008.
+This Privacy Policy was last updated November 9, 2009.
