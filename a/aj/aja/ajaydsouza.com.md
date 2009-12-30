@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajaydsouza.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154433id_/http%3A//ajaydsouza.com/rules/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajaydsouza.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224048id_/http%3A//ajaydsouza.com/rules/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Anti-Spam Policy | Ajay - On the Road called Life
 
