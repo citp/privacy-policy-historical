@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624022537id_/http%3A//edublogs.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230074047id_/http%3A//edublogs.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Edublogs - teacher and student blogs
 
