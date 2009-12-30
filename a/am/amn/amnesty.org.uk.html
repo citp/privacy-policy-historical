@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amnesty.org.uk privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619063046id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amnesty.org.uk privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230122332id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB"><head>
 <title>AIUK : Privacy Policy</title>
@@ -29,11 +29,33 @@ function MM_findObj(n, d) { //v4.01
 //-->
 </script>
 
+<!--
 <script type="text/javascript" src="javascript/jquery.ui-1.5.3/jquery-1.2.6.min.js"></script>
 <script type="text/javascript" src="javascript/jquery.ui-1.5.3/ui/ui.core.js"></script>
 <script type="text/javascript" src="javascript/jquery.ui-1.5.3/ui/minified/ui.accordion.min.js"></script>
 <script type="text/javascript" src="javascript/myamnesty-panel.js"></script>
+-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/javascript/sso.js"></script>
 
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+		// Track links to the shop
+		$("a[rel*='shop']").click(function(){
+			pageTracker._link(this.href);
+			return false;
+		});    
+	   
+		// Track buttons pointing to the shop
+		$("form[class*='shop']").submit(function(){
+			pageTracker._linkByPost(this);
+		});
+
+});
+</script>
 <link href="/styles/amnesty_print.css" type="text/css" rel="stylesheet" media="print">
 <link href="/styles/amnesty_basic.css" type="text/css" rel="stylesheet" media="screen">
 <style type="text/css" media="screen">
@@ -46,7 +68,7 @@ function MM_findObj(n, d) { //v4.01
 
 <div id="page">
 <p id="skipnavlink"><strong>[ <a href="#content">skip navigation</a> | <a href="/text.asp?ref=%2Fcontent%2Easp%3FCategoryID%3D345">graphics version</a> ]</strong></p>
-<p id="address" class="hdn"><strong>Amnesty International UK</strong> / www.amnesty.org.uk</p><div id="logo"><a title="Home" href="index.asp" accesskey="1"><img src="images/ai_logo.gif" alt="Amnesty International Logo" width="234" height="78"></a></div><div id="sitelinks" class="sitelinks"><ul id="sitelinks-promo"><li><a href="/content.asp?CategoryID=2064">Donate</a></li><li><a href="/content.asp?CategoryID=73">Join us</a></li><li class="last"><a href="/content.asp?CategoryID=10100">Jobs</a></li></ul><ul id="sitelinks-misc"><li><a href="/content.asp?CategoryID=314">N Ireland</a></li><li><a href="/content.asp?CategoryID=325">Scotland</a></li><li class="last"><a href="/content.asp?CategoryID=10458">Wales</a></li></ul></div><div id="quicksearch"><form action="/search.asp" method="get"><div><label for="quicksearch-query" class="hdn">Search site</label><input id="quicksearch-query" type="text" title="search" name="q" value=" ">&nbsp;<input type="submit" class="mybutton" value="Go!"><input type="hidden" name="submitted" value="-1"></div></form></div><div id="sitelinks2" class="sitelinks"><ul><li><a href="/sitemap.asp">Site map</a></li><li><a href="/faq.asp"><abbr title="Frequently Asked Questions"><span class="abbr" title="Frequently Asked Questions">FAQ</span></abbr></a></li><li><a href="http://www.amnesty.org/en/research" target="_blank">Library</a></li><li><a href="/search.asp">Search</a></li><li class="last" id="textonly-link"><a href="/text.asp?ref=%2Fcontent%2Easp%3FCategoryID%3D345">Text only</a></li></ul></div><div class="clr"></div><div id="masternav"><ul><li id="mastsernav-home"><a href="/index.asp" accesskey="1">Home</a></li><li id="mastsernav-10010"><a href="/content.asp?CategoryID=10010" class="current" accesskey="2  ">Our Work</a></li><li id="mastsernav-10009"><a href="/content.asp?CategoryID=10009" class="" accesskey="3  ">Take Action</a></li><li id="mastsernav-10011"><a href="/content.asp?CategoryID=10011" class="" accesskey="4  ">News &amp; events</a></li><li id="mastsernav-11468"><a href="/content.asp?CategoryID=11468" class="" accesskey="">Blogs &amp; Community</a></li></ul></div><div class="clr"></div><div id="crumbtrail">
+<p id="address" class="hdn"><strong>Amnesty International UK</strong> / www.amnesty.org.uk</p><div id="logo"><a title="Home" href="index.asp" accesskey="1"><img src="images/ai_logo.gif" alt="Amnesty International Logo" width="234" height="78"></a></div><div id="sitelinks" class="sitelinks"><ul id="sitelinks-promo"><li><a href="/content.asp?CategoryID=2064">Donate</a></li><li><a href="/content.asp?CategoryID=73">Join us</a></li><li class="last"><a href="/content.asp?CategoryID=10100">Jobs</a></li></ul><ul id="sitelinks-misc"><li><a href="/content.asp?CategoryID=314">N Ireland</a></li><li><a href="/content.asp?CategoryID=325">Scotland</a></li><li><a href="/content.asp?CategoryID=10458">Wales</a></li><li class="last"><a href="/content.asp?CategoryID=10564">Cymru</a></li></ul></div><div id="quicksearch"><form action="/search.asp" method="get"><div><label for="quicksearch-query" class="hdn">Search site</label><input id="quicksearch-query" type="text" title="search" name="q" value=" ">&nbsp;<input type="submit" class="mybutton" value="Go!"><input type="hidden" name="submitted" value="-1"></div></form></div><div id="sitelinks2" class="sitelinks"><ul><li><a href="/sitemap.asp">Site map</a></li><li><a href="/faq.asp"><abbr title="Frequently Asked Questions"><span class="abbr" title="Frequently Asked Questions">FAQ</span></abbr></a></li><li><a href="http://www.amnesty.org/en/research" target="_blank">Library</a></li><li><a href="/search.asp">Search</a></li><li class="last" id="textonly-link"><a href="/text.asp?ref=%2Fcontent%2Easp%3FCategoryID%3D345">Text only</a></li></ul></div><div class="clr"></div><div id="masternav"><ul><li id="mastsernav-home"><a href="/index.asp" accesskey="1">Home</a></li><li id="mastsernav-10010"><a href="/content.asp?CategoryID=10010" class="current" accesskey="2  ">Our Work</a></li><li id="mastsernav-10009"><a href="/content.asp?CategoryID=10009" class="" accesskey="3  ">Take Action</a></li><li id="mastsernav-10011"><a href="/content.asp?CategoryID=10011" class="" accesskey="4  ">News &amp; events</a></li><li id="mastsernav-11468"><a href="/content.asp?CategoryID=11468" class="" accesskey="">Blogs &amp; Community</a></li></ul></div><div class="clr"></div><div id="crumbtrail">
 	<p class="s1">
 		<strong>You are here:</strong>
 		<a href="/index.asp">Home</a> &gt; <a href="/content.asp?CategoryID=10010">Our Work</a> &gt; <a href="/content.asp?CategoryID=77">About this site</a> &gt; Privacy Policy
@@ -55,13 +77,12 @@ function MM_findObj(n, d) { //v4.01
 <div id="sideleft">
 
 <div class="s1">
-	<div class="subnav"><h3><span><a href="/content.asp?CategoryID=10010">Our Work</a></span></h3><ul><li class="d1"><span class="d1" id="first"><a href="/content.asp?CategoryID=74"><span>About us</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=313"><span>UK offices</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=21"><span>Campaigns</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=10679"><span>Education</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=1996"><span>World regions</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=77"><span>About this site</span></a></span><ul><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=10667"><span>Site accessibility</span></a></span></li><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=10275"><span>Website Terms and Conditions</span></a></span></li><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=11499"><span>Competition Terms and Conditions</span></a></span></li><li class="d0"><span class="d0"><span class="current"><span>Privacy Policy</span></span></span></li><li class="d0"><span class="d0"><a href="/form.asp?FormID=8&amp;CategoryID=10273"><span>Feedback</span></a></span></li><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=10472"><span>Amnesty Community Rules</span></a></span></li></ul></li></ul></div>
+	<div class="subnav"><h3><span><a href="/content.asp?CategoryID=10010">Our Work</a></span></h3><ul><li class="d1"><span class="d1" id="first"><a href="/content.asp?CategoryID=74"><span>About us</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=313"><span>UK offices</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=21"><span>Campaigns</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=10679"><span>Education</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=1996"><span>World regions</span></a></span></li><li class="d1"><span class="d1"><a href="/content.asp?CategoryID=77"><span>About this site</span></a></span><ul><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=10667"><span>Site accessibility</span></a></span></li><li class="d0"><span class="d0"><a href="/form.asp?FormID=128&amp;CategoryID=11727"><span>Start a Blog</span></a></span></li><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=10275"><span>Website Terms and Conditions</span></a></span></li><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=11499"><span>Competition Terms and Conditions</span></a></span></li><li class="d0"><span class="d0"><span class="current"><span>Privacy Policy</span></span></span></li><li class="d0"><span class="d0"><a href="/form.asp?FormID=8&amp;CategoryID=10273"><span>Feedback</span></a></span></li><li class="d0"><span class="d0"><a href="/content.asp?CategoryID=10472"><span>Amnesty Community Rules</span></a></span></li></ul></li></ul></div>
 </div>
 
 &nbsp;
 </div><div id="sideright">
-<div id="myspace-off" class="sideright-box"><h3>My Amnesty</h3><div id="myspace-off-links" class="sideright-box-in" style="width:auto;margin:0;"><form method="post" name="loginprocess" action="/loginprocess.asp"><table border="0" cellpadding="1" cellspacing="0" style="width: 100%"><tbody><tr><td class="s1 left"><strong>Email</strong></td><td class="right"><input type="text" name="UserEmail" style="font-size:9px;width:115px;" size="20" value=""></td></tr><tr><td class="s1 left"><strong>Password</strong></td><td class="right"><input type="password" name="UserPassword" style="font-size:9px;width:115px;" size="20" value=""></td></tr><tr><td colspan="2" class="s1 right"><a href="/reminder.asp">Forgotten your password?</a></td></tr></tbody></table><ul class="s1"><li id="myspace-off-links-login"><button type="submit" class="submit">Log in</button><input type="hidden" class="hidden" name="ref" value="/content.asp?CategoryID=345"></li><li id="myspace-off-links-joinus"><a href="/registration.asp">Register</a></li></ul></form></div></div><a href="/form.asp?FormID=31&amp;CategoryID=10710" id="newsletter-button" class="s1"><span>Sign up to our e-newsletter</span></a><br><div class="sideright-banners"><p><a href="/goto.asp?BannerID=49" onclick="" onkeypress=""><img src="/uploads/banners/49.gif" alt=""><span style="padding-top:2px;">
-<strong>Take action</strong> online </span></a></p></div>
+<div class="myamnesty_login sideright-box"><h3>My <strong>Amnesty</strong></h3><p>Stay up-to-date with the issues that matter to you</p><div class="buttons"><a href="/login.asp">Login</a><a href="/registration.asp">Register</a></div></div><a href="/form.asp?FormID=31&amp;CategoryID=10710" id="newsletter-button" class="s1"><span>Sign up to our e-newsletter</span></a><div class="communities-banner" id="pth-button" style="display: none"><a href="http://www.protectthehuman.com/" class="s1"><span><strong>Want to make a difference?</strong><br>Join Protect The Human</span></a></div><br><div class="sideright-banners"><p><a href="/goto.asp?BannerID=49" onclick="" onkeypress=""><img src="/uploads/banners/49.gif" alt=""><span style="padding-top:2px;"><strong>Take action</strong> online </span></a></p></div>
 </div>
 
 <div id="content">
@@ -269,6 +290,7 @@ will be published on the Site.
 					This page was last updated on <strong>19th May, 2009</strong></p></div><div class="clr"></div>
 </div>
 
+<!--Google analytics-->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -276,12 +298,13 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-5223188-4");
+pageTracker._setDomainName("none"); 
+pageTracker._setAllowLinker(true); 
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}
+</script>
 
 
-
-    
 
 
 </body></html>
