@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154508id_/http%3A//flightaware.com/about/privacy.rvt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221755id_/http%3A//flightaware.com/about/privacy.rvt) for the most accurate reproduction.*
 
-# FlightAware > About FlightAware > Privacy Policy
+# FlightAware > Privacy Policy
 
 Thank you for visiting FlightAware. FlightAware is committed to honoring the privacy of our members and visitors. 
 
@@ -44,4 +44,4 @@ For that question, see [the privacy section of our FAQ.](https://web.archive.org
 
 ### Who can I contact if I have any questions regarding my privacy?
 
-Please contact us [contact us via e-mail](mailto:contact-privacy-1245426307@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
+Please contact us [contact us via e-mail](mailto:contact-privacy-1262211475@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
