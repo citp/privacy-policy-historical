@@ -1,67 +1,87 @@
-> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630223039id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230024844id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WEtv.com
 
-This site is owned and operated by Women's Entertainment LLC (Referred to herein as "Company," We," "Us," or "Our"). Because we gather certain types of information about the visitors of our site, we believe you should understand the terms and conditions surrounding the retention and use of that information. This privacy statement discloses what information we gather and how we use it. 
+Thank you for visiting this website (the "Website"). Your patronage means a lot to us.   At WE: Women's Entertainment LLC  ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us.  This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it.  
 
-**Collection of Personal Information**
+Your use of any part of the Website indicates your acceptance of this Policy and of the collection, use and disclosure of your personal information in accordance with this Policy.  Please note that this Policy applies only to personal information collected on the Website. It does not apply to any other information collected or obtained by any other means by Company, its parents, affiliates, or subsidiaries.
 
-We obtain a visitor's personal information when such information is supplied voluntarily by the visitor. This means that you can visit our website without telling us who you are or revealing any information about yourself. You can choose to provide individually-identifiable information to Company in a number of ways through our websites: by ordering a service from us, sending us e-mail, registering to receive news or public policy information, applying for a job or a grant, or entering a contest. When visitors supply information about themselves for a specific purpose, we use the information for that purpose (such as to provide the information the visitor has requested or to consider a visitor for a particular job). In addition, when visitors use our websites to order services, or to request information about our services, we may use the individually-identifiable information as we would use the same information obtained off-line, for example, to evaluate your service needs and contact you regarding additional services you may find useful. You have the right to choose not to receive this information by notifying us of your preference. 
+As we update and expand our services, we reserve the right to modify this Privacy Policy at any time. Any changes will be posted here so that you are always aware of what information is collected, how it is used and when, if ever, it is disclosed.  Please check this page periodically for changes.  Your continued use of this site after changes to the Privacy Policy indicates your acceptance of the terms of any revisions to this Policy.
 
-We do not sell or disclose individually-identifiable information obtained on-line about our visitors, to parties outside of the Company and its Affiliates unless you specifically authorize it, it is required or authorized by law, or disclosure is necessary to protect the safety of customers, employees or property. If you provide individually-identifiable information to us in the context of an event we sponsor with a partner, such as a contest, or if you register on a co-sponsored site or feature, you may also be providing the individually-identifiable information to the co-sponsor. 
+ **INFORMATION COLLECTION**
 
-**Collection of Non-Personal Information**
+When you register for an account or visit certain portions of the Website, you may be prompted to provide, on a voluntary basis, certain information about yourself such as: (i) name; (ii) email address; (iii) date of birth; (iv) mailing address; (v) telephone numbers; and (vi) interests and hobbies.  You are not required to provide any information to use our Website, although certain areas may require registration.
 
-To gauge the effectiveness of our website, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name (such as .com, .edu, etc.), the web page from which a visitor enters our site, which pages a visitor visits on our site, and how much time a visitor spends on each page. This information does not reveal a visitor's identity. We collect and review this information and use it to evaluate and improve the content and functionality of our website. 
+Certain third parties may join with us to offer website activities, features or promotions, such as contests or special events.  By submitting personal information in conjunction with these joint activities, you are providing that information to both parties simultaneously.  The co-sponsor or partner may maintain a separate privacy policy governing the collection, use, and disclosure of your personal information, and this Policy does not cover their collection, use, and/or disclosure.  For example, during your visit to our Website, you may link to or view as part of a frame on a page of this Website, certain content that is actually created or hosted by a third party.  Also, through this Website you may be introduced to, or be able to access, information, websites, advertisements, features, contests or sweepstakes offered by other parties. Company is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature page or page operated by a third party.   
 
-We reserve the right to utilize cookies technology. A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. We may use cookies to track user traffic patterns (as described above), and when you click an ad. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use this site, but may find that certain pages may operate slower than if you have enabled the use of cookies. 
+The Website may link to certain third parties who offer services on our behalf.  Information collected on those sites is subject to the third party's own privacy policy.  However, in some circumstances, those third parties may provide us with the information you provide to the third party. If so, we will treat that information in accordance with this Policy.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+We may also use cookies and other technologies to learn about how you interact with our site to provide you with better service, to improve your customer experience, and for internal research and reporting purposes. We also may collect anonymous data on Website activity, such as how many people visit the site, what pages they visit, where they come from, how long they stay, what items they purchase, etc.   Such data is collected on an aggregate, anonymous basis, through the use of Internet server logs and cookies.  We may also take non-anonymous data and de-identify it so that it becomes anonymous either by itself or when aggregated.  We may use any anonymous or aggregated data for any purpose, including for research and marketing purposes, and may also share such data with any third parties, such as advertisers.
 
-**E-Mail**
+ **INFORMATION USE**
 
-Email is an important communication channel for our online visitors. We may use email to communicate with our customers, to respond to visitors' emails, to confirm orders placed online, and to send information that a visitor has requested. All e-mail sent to us should be generated by the person in whose name the e-mail account is registered. Any information provided to us by e-mail, including but not limited to feedback, data, answers, questions, comments, suggestions, plans, ideas or the like, shall be deemed to be non-confidential, and Company assumes no obligation to protect such information from disclosure. The submission of such information to Company shall in no way prevent the purchase, manufacture or use of similar products, services, plans and ideas by Company for any purpose whatever, and we shall be free to reproduce, use, disclose and distribute such information. On occasion, we may use your e-mail address to send you communications with information about service and product information that we believe may be of interest to you. If you do not want to receive such unsolicited communications from us, simply contact us through the email provided in our electronic communication. 
+By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes.  For a current list of Company's affiliates, please [click here](http://www.cablevision.com/about/index.jsp). 
 
-**Protection of Personal Information**
+From time to time, we may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services.  We may also provide access to third parties who assist us in providing targeted advertising. Third parties who have such access may not use the information for any other purpose, including their own marketing.
 
-We require our employees to protect the privacy of information about our visitors and expect our partners and subsidiaries to do so as well. Your individually-identifiable information will be protected when you access your account or order services from us over the Internet. We employ security measures to safeguard your transactions with us. 
+ **INFORMATION DISCLOSURE**
 
-**Updates to Privacy Policy**
+We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent.  We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy.
 
-To improve the services we can offer you, we may opt to expand our capabilities for obtaining information about users in the future. To ensure that you are aware of developments in this area, we will update this privacy statement continually. 
+You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
-**Third Party Advertising**
+Finally, we also reserve the right to disclose and transfer all of the information collected at our sites, including personally identifiable information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
 
-The ads appearing on this Web site may be delivered to you via a third party Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), may be used to serve ads to you. 
+ **INTERNATIONAL VISITORS**
 
-**Policy With Regard to Chat Venues and Bulletin Board Postings**
+This Website is controlled, operated and administered entirely within the United States. If you visit one of our sites from a location outside the United States, please be advised that any information you provide may be processed in and transferred to the United States, where privacy protections may not be as comprehensive as those in the European Union or other locations. By using this Website, you consent to this transfer and to the use of the personal identifiable data as described herein.
 
-_**Chat Venues Do Not Tolerate Harassment.**_
+ **YOUR CHOICES REGARDING MARKETING AND OPTING OUT**
 
-Our chat venues welcome people of all ages, races, religions, genders, national origins, sexual orientations and points of view. We don't tolerate expressions of bigotry, hatred, harassment or abuse, nor will we tolerate threats of harm to anyone. 
+If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at CONTACTWE@wetv.com; or (iii) writing us at WE: WOMEN'S ENTERTAINMENT, 11 Penn Plaza, 19th Floor, New York, NY 10001. 
 
-Because we encourage discussion and exchange of ideas, we don't allow defamatory, abusive, tasteless or indecorous content or statements. For the same reason, we don't allow sexually explicit material on our web pages, nor links to such material. Topics dealing with human sexuality and other similar subjects can be discussed, but in an educational, structured and monitored environment. 
+**UPDATING YOUR INFORMATION**
 
-We reserve the right to hold chat events for which the participation and entry is limited to a pre-determined group or groups of participants. 
+To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email CONTACTWE@wetv.com. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. 
 
-**Rules for Online Conduct: Message Boards, Chatrooms, and Auditoriums**
+**LINKS**
 
-By participating in any of the aforementioned services, the visitor agrees to follow our Terms of Usage in these venues. 
+You should note that the Website has business relationships with (and may provide hyperlinks to) unaffiliated third parties (e.g. sites that offer discounts for certain products, sell tickets, sell branded merchandise, etc.) ("Partners") and may provide links to the websites of such Partners so that they can offer you products and services.  If you visit a third party site by clicking on such hyperlink found on our webpage, any information you provide is subject to that third party site's privacy policy; and we encourage you to review that website's privacy policy before providing any personally identifiable information. The entities controlling these third party websites are responsible for ensuring compliance with all applicable laws, regulations and rules. 
 
-Postings to Message Boards, and communication in chat rooms and auditoriums may not be reviewed prior to appearing on this site. We reserve the right to edit, delete, or move any postings to message boards and to terminate or suspend access to our chats for conduct that we believe interferes with other peoples' enjoyment. 
+**COOKIES**
 
-We also discourage disruptive statements that incite others to violate our standards. We encourage your participation in upholding our standards. When in doubt about appropriate behavior here, please remember that, although the venue is electronic, those participating in it are real people. We ask that you treat others with respect and with care.
+Data is gathered through the use of Internet server logs and cookies. A web server log is a file where website activity is stored. A cookie is a small piece of information that a website sends to a visitor's computer, which is stored on his or her hard drive. Company uses cookies to track repeat visits to our website.  These cookies do not store personally identifiable information, although information in cookies may be combined with other identifiable information that we maintain.  You can disable cookies within your browser, although some portions of the Website may not function properly if you do so.
 
- **Disclaimer**
+Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information.  For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or click here to link to [Network Advertising Initiative](http://www.networkadvertising.org/). 
 
-Please be advised that once you leave this site, your usage of the Internet will be governed by the privacy policies, if any, of the particular site that you are accessing. We will not be responsible for any loss or damage that could result from interception by third parties of any information made available to you via this site.
+  **CHILDREN'S PRIVACY POLICY**
 
-Neither Women's Entertainment LLC, nor any of its affiliates, directors, officers or employees, or any third party vendor will be liable or have any responsibility of any kind for any loss or damage that you incur in the event of any failure or interruption of this site, or resulting from the act or omission of any other party involved in making this site or the data contained therein available to you, or from any other cause relating to your access to, inability to access, or use of the site or site Content, whether or not the circumstances giving rise to such cause may have been within the control of Company or of any vendor providing software or services support. In no event will Company, or its affiliates be liable to you for any direct, special, indirect, consequential, incidental damages or any other damages of any kind even if Company, or its affiliates or any other party have been advised of the possibility thereof.
+Company does not target this Website to children under the age of thirteen and we do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of thirteen except as permitted by law.  If we discover we have received any information from a child under the age of thirteen in violation of this Policy, we will delete that information immediately. If you believe Company has any information from or about anyone under the age of thirteen, please contact us at the address listed below.
 
-Comments on any aspect of this statement may be addressed to the webmaster.
+ **  
+CALIFORNIA PRIVACY RIGHTS**
 
- **WE: WOMEN'S ENTERTAINMENT  
-11 Penn Plaza, 19th Floor  
-New York, NY 10001**
+Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable information to third parties for their direct marketing purposes. To make such a request, please send an email to the contact information below. 
 
-**(212) 324-1300**
+**CONTACTING US ABOUT THIS POLICY**
+
+Please do not hesitate to contact us with any questions, concerns, requests or comments by:
+
+Writing to us at:  
+WE: Women's Entertainment LLC  
+11 Penn Plaza  
+New York, NY 10001
+
+ Or, emailing us at: CONTACTWE@wetv.com.
+
+ **SECURITY**
+
+We use reasonable commercial efforts to protect the security of personal information that we collect online and store.  However, the transmission of data over the Internet and our storage of data are not guaranteed to be completely secure.  
+
+Please be careful and responsible whenever you are on line.  Should you choose to voluntarily disclose personally identifiable information on our Website, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Company and this Policy.
+
+  **GOVERNING LAW**
+
+This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.   
+
+Copyright © 2009 WE: Women's Entertainment LLC   
