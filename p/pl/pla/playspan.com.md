@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010655id_/http%3A//www.playspan.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230123350id_/http%3A//corp.playspan.com/privacypolicy) for the most accurate reproduction.*
 
 # PlaySpan
 
-This Privacy Policy describes how we handle your personal information collected (1) through the Playspan website, at corp.Playspan.com (the "Website"), and (2) through our Services and Client software. Capitalized terms not defined in this Privacy Policy, are defined in the Playspan Marketplace Agreement [corp.playspan.com/marketplaceagreement](https://web.archive.org/web/20081217010655id_/http://www.playspan.com/marketplaceagreement), into which this Privacy Policy is incorporated.
+This Privacy Policy describes how we handle your personal information collected (1) through the Playspan website, at corp.Playspan.com (the "Website"), and (2) through our Services and Client software. Capitalized terms not defined in this Privacy Policy, are defined in the Playspan Marketplace Agreement [corp.playspan.com/marketplaceagreement](https://web.archive.org/web/20091230123350id_/http%3A//marketplaceagreement), into which this Privacy Policy is incorporated.
 
 "Personal Information" is non-public information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect, use, and disclose Personal Information and Anonymous Information as described in this Privacy Policy.
 
