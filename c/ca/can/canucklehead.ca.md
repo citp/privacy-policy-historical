@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the canucklehead.ca privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619093834id_/http%3A//www.canucklehead.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucklehead.ca privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230140651id_/http%3A//www.canucklehead.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Canucklehead.ca | Canucklehead
 
 ****Privacy Policy for www.canucklehead.ca****    
- If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at lincoln.mccardle@sympatico.ca.   
+ If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@canucklehead.ca   
 At www.canucklehead.ca, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.canucklehead.ca and how it is used.   
 ****Log Files****  
 Like many other Web sites, www.canucklehead.ca makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
