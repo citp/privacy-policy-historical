@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nicetranslator.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426180017id_/http%3A//www.nicetranslator.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicetranslator.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222241id_/http%3A//nicetranslator.com/blog/about/nice-translator-privacy-policy) for the most accurate reproduction.*
 
-# Nice Translator - The fast, easy to use online translator
+# Nice Translator Blog » Nice Translator Privacy Policy
 
 Effective **December 1st, 2008**
 
@@ -10,8 +10,7 @@ Effective **December 1st, 2008**
   * The Information We Collect
   * How We Use Information
   * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy
-  * How To Access Or Correct Your Information
+  * Our Commitment To Children’s Privacy
   * How To Contact Us
 
 
@@ -42,10 +41,12 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment To Children's Privacy
+### Our Commitment To Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at (914)844-5913 or send us an email at privacy[at]tumbledesign[dot]com.
+Should you have other questions or concerns about these privacy policies, please call us at (518) 867-6346 or send us an email at privacy[at]tumbledesign[dot]com.
+
+### Leave a Reply
