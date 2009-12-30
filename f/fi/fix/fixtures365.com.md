@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fixtures365.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062951id_/http%3A//www.fixtures365.com/infomation/privacy_agreement/0%2C23562%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixtures365.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230200436id_/http%3A//www.fixtures365.com/infomation/privacy_agreement/0%2C23562%2C%2C00.html) for the most accurate reproduction.*
 
 # Fixtures365.com - Football Fixtures, Premier League, Scottish Premiership, Championship, League One, League Two, Champions League, UEFA Cup, Serie A, Bundesliga, La Liga, Le Championnat
 
 ## Fixtures365 Privacy Policy
 
-We at 365 Media Group plc, (incorporating this site and all of the sites within our network - as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
+We at 365 Media Group Ltd, (incorporating this site and all of the sites within our network - as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
 
 **Why We Need to Know About You**  
 
@@ -99,4 +99,4 @@ Our site contains links to other sites outside of our control. We are not respon
 
 Thank you for reading our privacy policy and thank you for choosing our network of sites as your reliable source of news and views on the Internet. If you have any questions about anything contained in this policy, you can contact our Customer Relations Team at: 365 Media Group, 3rd Floor, Apsley House, 78 Wellington Street, Leeds, LS1 2EQ, United Kingdom or e-mail us at [customerrelations@365mediagroup.co.uk](mailto:customerrelations@365mediagroup.co.uk). 
 
-The foregoing policies are effective as of 1 May 2008. 365 Media Group plc reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+The foregoing policies are effective as of 1 May 2008. 365 Media Group Ltd reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
