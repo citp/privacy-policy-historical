@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the korg.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627005134id_/http%3A//www.korg.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korg.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230210959id_/http%3A//www.korg.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Korg - Privacy Policy
 
