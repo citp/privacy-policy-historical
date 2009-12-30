@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pdf-express.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501123408id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-express.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230205310id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
 
 # IEEE - About your Security and Privacy
 
 |  | 
 
-[](https://web.archive.org/portal/site/iportals)
+[](https://web.archive.org/portal/site/iportals?WT.mc_id=hplogo_upleft)
 
 The world's leading professional association  
 for the advancement of technology   
@@ -38,6 +38,12 @@ Reprints, Rights & Permissions
 | | 
 
 Publications Board 
+
+|   
+---|---|---  
+| | 
+
+Author Resources
 
 |   
 ---|---|---  
