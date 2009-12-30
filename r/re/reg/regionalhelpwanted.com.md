@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526204326id_/http%3A//regionalhelpwanted.com/corporate/privacy_corporate.cfm%3FSN%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032445id_/http%3A//regionalhelpwanted.com/corporate/privacy_corporate.cfm%3FSN%3D0) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -149,8 +149,9 @@ If at any point we decide to use personally identifiable information in a manner
 If you have any questions about this Privacy Statement, the practices of RegionalHelpWanted.com, Inc., or your dealings with RegionalHelpWanted.com, you can contact:
 
 RegionalHelpWanted.com, Inc.  
-One Civic Center Plaza, Suite 506  
-Poughkeepsie, NY 12601  
+9100 East Panorama Drive  
+Suite 250   
+Englewood, CO 80112  
 
 
 Effective Date: October 27, 2006
