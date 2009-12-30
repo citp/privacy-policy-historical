@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primaryads.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132822id_/http%3A//www.primaryads.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primaryads.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221758id_/http%3A//primaryads.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PrimaryAds - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We respect you and we hold your personal information private.
 
-Kowabunga! has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: PrimaryAds.com
+Inuvo has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: PrimaryAds.com
 
 We never disclose your personal information to any third party.
 
@@ -32,19 +32,19 @@ This site has security measures in place to protect the loss, misuse and alterat
   
 We do not provide your personal information, including email address, to any third party.
 
-You will only receive communications from Kowabunga!
+You will only receive communications from Inuvo
 
 This site gives users the following options for changing and modifying information previously provided:
 
-You can send email to Aleks.Jagiella@kowabunga.com  
+You can send email to Aleks.Jagiella@inuvo.com  
   
 **Contacting the Web Site**  
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
 Aleks Jagiella  
-Kowabunga!  
+Inuvo  
 15550 Lightwave Drive  
 Suite 300  
 Clearwater, FL 33760  
-Aleks.Jagiella@kowabunga.com
+Aleks.Jagiella@inuvo.com
