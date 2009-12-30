@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cfnc.org privacy policy that was archived on 2009-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090515181443id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cfnc.org privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230022043id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>CFNC - Privacy of Information</title><meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"><meta content="text/css" http-equiv="Content-Style-Type"><link href="/static/css/cfnc_styles.css" rel="stylesheet" type="text/css"><link href="/static/css/modalbox.css" media="screen" rel="stylesheet" type="text/css"><script language="JavaScript" type="text/javascript">
 	//
@@ -50,11 +50,45 @@ function openEpinSite()
 function openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
+
+function readrights_mpn()
+{
+	document.loanForm.rightsClicked.value = "y";
+	window.open('/static/pdf/paying/pubs/pdf/mpnrr.pdf','rights','width=550,height=550,toolbar=no,location=no,scrollbars=yes');
+}
+
+
+function readrights_plusmpn()
+{
+	document.loanForm.rightsClicked.value = "y";
+	window.open('/static/pdf/paying/pubs/pdf/plusmpnrr.pdf','rights','width=550,height=550,toolbar=no,location=no,scrollbars=yes');
+}
+
+function readrights_plusgradmpn()
+{
+	document.loanForm.rightsClicked.value = "y";
+	window.open('/static/pdf/paying/pubs/pdf/PLUSGRADMPNapp.pdf','rights','width=550,height=550,toolbar=no,location=no,scrollbars=yes');
+}
+
+function readrights_extra()
+{
+	document.loanForm.rightsClicked.value = "y";
+	window.open('/static/pdf/paying/pubs/pdf/EXTRArr.pdf','rights','width=550,height=550,toolbar=no,location=no,scrollbars=yes');
+}
+
+function readprivacy()
+{
+	document.loanForm.privacyClicked.value = "y"; 
+	window.open('/global/privacy_policy.jsp','policy','width=550,height=550,toolbar=no,location=no,scrollbars=yes');
+}
 //-->
 //]]></script><script language="JavaScript" type="text/javascript"> //<![CDATA[
 // global/email_javascript.html - xhtml
     function send_mail(toAddr, subj){
-        window.open('/global/email_form.jsp?address=' + toAddr + '&subject=' + subj, 'cfnc', 'width=517, height=730, toolbar=no,location=no, scrollbars=yes');
+       if(toAddr == "13")
+        window.open('/global/email_form_repay.jsp?address=' + toAddr + '&subject=' + subj, 'cfnc', 'width=517, height=730, toolbar=no,location=no ,scrollbars=1');
+       else
+         window.open('/global/email_form.jsp?address=' + toAddr + '&subject=' + subj, 'cfnc', 'width=517, height=600, toolbar=no,location=no ,scrollbars=1');
 	} //]]></script>
 
 </head><body background="/static/images/sidestripe_index.gif" onload="MM_preloadImages('/static/images/mycfnc_tab_r.gif',
@@ -143,7 +177,7 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 	</tr>
 </tbody></table>
 </td></tr></tbody></table></td></tr></tbody></table></td><td width="21"><img src="/static/images/spacer.gif" width="21" alt=""></td>
-<td valign="top">
+<td valign="top"><table border="0" cellpadding="0" cellspacing="0" width="517"><tbody><tr><td>
 
 
 		<table width="517" border="0" cellspacing="0" cellpadding="0">
@@ -187,7 +221,7 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 				<p></p>
 				<h2><a name="cfi">College Foundation, Inc.</a></h2>
 				<h4>Privacy Policy of College Foundation, Inc.</h4>
-				Effective as of June 2007
+				Effective as of June 2009
 				
 				<p>College Foundation, Inc., (the "Foundation"), on its own
 				behalf and on behalf of the entities for which the Foundation
@@ -262,7 +296,7 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 				Mechanics and Farmers Bank<br>
 				SunTrust Bank<br>
 				Wachovia Bank, N.A.<br>
-				First Charter National Bank<br>
+				Fifth Third Bank<br>
 				Branch Banking and Trust Company<br>
 				First National Bank and Trust Co.<br>
 				Bank of America, N.A.<br>
@@ -273,7 +307,6 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 				Four Oaks Bank &amp; Trust<br>
 				NewBridge Bancorp<br>
 				Randolph Bank &amp; Trust<br>
-				United Community Bank<br>
 				Bank of Stanly<br>
 				<br>
 				</p>
@@ -568,7 +601,8 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 				<td class="bodyText" valign="top">
 				<p><br>
 				</p>
-				<h2><a name="ncncsp">North Carolina College Savings Program</a></h2>
+				<h2><a name="ncncsp">North Carolina's National College Savings Program</a></h2>
+				<h4>PRIVACY</h4>
 				<h4>Authority Policies and Procedures for the Use and Disclosure
 				of Nonpublic Personal Information</h4>
 				Effective as of March 2008
@@ -579,16 +613,15 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 		sources. For example, from a Participant's Enrollment Agreement, the
 		Authority knows the Participant's name, address and Social Security
 		number, and the corresponding information for the Beneficiary of the
-		Account established by the Participant. By the very nature of the
-		Program, the Authority also knows how each Account is invested, each
-		Account balance, the frequency and amount of the Contributions of each
-		Account, and the nature of all Account withdrawals. The nonpublic
-		personal information the Authority has is protected by physical,
+		Account established by the Participant. The Authority also knows how each Account is invested
+		or allocated, each Account balance, the frequency and amount of the Contributions of each
+		Account, and the nature of all Withdrawals. The nonpublic
+		personal information obtained by the Authority is protected by physical,
 		electronic and procedural safeguards. The Authority also limits access
-		to all the nonpublic information to persons who need to know that
-		information to perform their Program services.</p>
+		to this nonpublic information to persons who need to know that
+		information to perform Program services.</p>
 		
-		<p>The nonpublic personal information the Authority has is used to
+		<p>The nonpublic personal information obtained by the Authority is used to
 		initiate and maintain Accounts and otherwise to operate the
 		Program. The Authority may disclose the information collected, as
 		described above, to third parties in order to market jointly and to administer the
@@ -602,7 +635,7 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 		these persons to protect the confidentiality of nonpublic personal
 		information.  The Authority may also share Account information with the
 		Participant's consent.  The Authority does not otherwise provide nonpublic
-		personal information to third parties,  except to the attorneys, accountants,
+		personal information to third parties, except to the attorneys, accountants,
 		or auditors who represent the Authority or service providers thereto, and as 
 		otherwise permitted or required by law.</p>
 		
@@ -620,12 +653,12 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 			<p>Contact us:</p>
 
 			<p>NC 529 Plan<br>
-			P.O. Box 41930<br>
-			Raleigh, NC 27629-1930<br>
+			P.O. Box 40877<br>
+			Raleigh, NC 27629-0877<br>
 			</p>
 
 			<p>Toll-free: 800-600-3453<br>
-			Fax: 919-835-2304<br>
+			Fax: 919-835-2304
 			</p>
 		</td>	
 	</tr>
@@ -655,7 +688,7 @@ MM_showHideLayers('ro_blank','','show','ro_mycfnc','','hide','ro_career','','hid
 
 	</tbody></table>
 
-	</td></tr></tbody></table>
+	</td></tr></tbody></table></td></tr></tbody></table>
 <!-- footer -->
 <table width="705" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -694,4 +727,5 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 	height="1"
 	src="http://stats.cfnc.org/dcss6d8ylrc2ozzm04ya5r8az_7h3u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"/>
 </noscript>
-<!-- END OF SmartSource Data Collector TAG -->	</body></html>
+<!-- END OF SmartSource Data Collector TAG -->
+	</body></html>
