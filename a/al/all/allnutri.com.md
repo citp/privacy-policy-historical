@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501143830id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224924id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Allnutri.com - Privacy Policy of AllNutri's User Agreement
 
@@ -43,4 +43,4 @@ Email Tools. If you send emails through our site, your email will include your e
 **Registered members may update or edit personal information or delete their membership account by accessing their Member Profile or Account information. We try to implement changes to our databases as quickly as possible. However, not all databases may be updated immediately, and some old data may remain in our archives and records. Also, we may be unable to send changes you make to partners, vendors or third party service providers who have already received your data or content. If your account or membership is being terminated or suspended, we may maintain some data to prevent re-registration. 
 
 **Security  
-**AllNutri uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, designed to protect the security of data. We restrict access to your personally identifying information to employees that need to know that information in order to operate, develop or improve our services.
+**Allnutri.com uses a RapidSSL 128 bit SSL Certificate to offer secure communications by encrypting all data to and from the site.
