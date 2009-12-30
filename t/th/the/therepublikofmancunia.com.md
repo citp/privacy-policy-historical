@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therepublikofmancunia.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203750id_/http%3A//therepublikofmancunia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therepublikofmancunia.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230235104id_/http%3A//therepublikofmancunia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
