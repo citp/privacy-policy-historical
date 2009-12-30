@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065332id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230152617id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
 
 # Privacy Policy for Idol-Mania.com | American Idol Fan Site | Who got voted off American Idol
 
 Privacy Policy for idol-mania.com
+
+**This website is compensated for it’s views and opinions by the Advertisement networks and affiliate products displayed through out the site. This statement is for compliance to the FCC regulations on paid endorsements.**
+
+Disclaimer: Posts on this blog are sometimes provided by paid writers. In some cases writers are compensated financially by the company for a review or mention of the company or the company’s product. 
 
 The privacy of our visitors to idol-mania.com is important to us.
 
@@ -38,7 +42,9 @@ _
 
 _
 
-To Purchase any [American Idol](http://www.idol-mania.com/american-idol-fan) I-Tunes Singles and Help Support Idol-Mania Blog - Click on any of the I-Tunes Banner Or Link Below  
+#### Link to Us!
+
+To Purchase any [American Idol](http://www.idol-mania.com/american-idol-fan) I-Tunes Singles and Help Support Idol-Mania Blog – Click on any of the I-Tunes Banner Or Link Below  
 [](http://click.linksynergy.com/fs-bin/click?id=DnbLdVMRPg0&offerid=146261.10004108&type=4&subid=0)
 
 [ Get Your American Idol CD’s, DVD’s and Merchandise ](http://astore.amazon.com/idol-store-20)
@@ -47,4 +53,4 @@ _
 
 _[American Idol](http://idol-mania.com/)  
 [American Idol News](http://idol-mania.com/american-idol-fan/)  
-_
+—-_
