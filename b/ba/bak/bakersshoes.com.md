@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the bakersshoes.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506051720id_/http%3A//www.bakersshoes.com/privacy_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersshoes.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230114440id_/http%3A//www.bakersshoes.com/privacy_security.aspx) for the most accurate reproduction.*
 
 # Bakers Shoes - Fashion Shoes for Women - Sandals, Boots, Dress Shoes, Pumps, Platforms, Flats, Handbags, Accessories
-
-|  |    
-
-
-###  Privacy & Security
 
 **Bakers Privacy/Policy Statement  
 Most Recently Revised: July 31, 2008
@@ -39,8 +34,9 @@ Registration Information.
 * Zip Code  
 
     
-* Area of interest
+* Area of interest  
 
+  
 If you choose to register, we will place your name in our mailing list. Once you have registered, we will send you an e-mail confirming your registration on our website, and in the event you forget your password, we will send it to your e-mail address at your request.
 
  ** _If you registered on our website prior to January 19, 2006 the following terms regarding use of Registration Information apply:_  
@@ -137,9 +133,6 @@ We are committed to providing a secure, friendly site where customers can shop w
 **  
 In order to register on or order products from our website, your browser must be set to accept cookies. A cookie is just an entry in a text file or folder on your hard drive. We use cookies when you register on our website so that on subsequent visits to the website we can remember your specified area of interest and any other information you have saved. Cookie Technology allows you to save products to your wish list or how-tos to your favorites. We also use cookies to track the items you place in your shopping basket and continue browsing through other products you select. The only personal information our cookie can contain is information you supply yourself. Our cookies cannot read data off your hard disk. If you would like more technical information about how cookies work, take a look at 
 
-[_http://www.cookiecentral.com._](http://www.cookiecentral.com/)
-**  
-We respect the privacy of our customers. This privacy policy statement is designed to help you understand what information we gather online and what we do with that information. Because we will continue to implement new technologies on our website to improve the services and features we provide, this policy is subject to change without prior notice. For that reason, we encourage you to review the privacy policy periodically and to make note of the date our policy has most recently been revised. If you have provided personally identifiable information to us by purchasing products online, registering on our site, or becoming a Preferred Customer B Card Member prior to the date above, the terms of the privacy policy in effect on the date you provided that information will apply. Any new personally identifiable information that you provide to us on or after the date above will be subject to the terms of this privacy policy. If you have provided us with your e-mail address when registering or purchasing product online or through your Preferred Customer B Card application, you will be notified by e-mail of any material changes in either the scope of the privacy seal, the language of the privacy notice, or our information practices. If you disagree with the manner in which we intend to use the information you provide to us, you may opt-out of some or all of these uses by following the instructions below. By using our website, you agree to the terms of the privacy policy in effect, at that time. 
+[_http://www.cookiecentral.com._](http://www.cookiecentral.com./)**
 
-  
-| 
+We respect the privacy of our customers. This privacy policy statement is designed to help you understand what information we gather online and what we do with that information. Because we will continue to implement new technologies on our website to improve the services and features we provide, this policy is subject to change without prior notice. For that reason, we encourage you to review the privacy policy periodically and to make note of the date our policy has most recently been revised. If you have provided personally identifiable information to us by purchasing products online, registering on our site, or becoming a Preferred Customer B Card Member prior to the date above, the terms of the privacy policy in effect on the date you provided that information will apply. Any new personally identifiable information that you provide to us on or after the date above will be subject to the terms of this privacy policy. If you have provided us with your e-mail address when registering or purchasing product online or through your Preferred Customer B Card application, you will be notified by e-mail of any material changes in either the scope of the privacy seal, the language of the privacy notice, or our information practices. If you disagree with the manner in which we intend to use the information you provide to us, you may opt-out of some or all of these uses by following the instructions below. By using our website, you agree to the terms of the privacy policy in effect, at that time. 
