@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysitemyway.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501183401id_/http%3A//mysitemyway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysitemyway.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222127id_/http%3A//mysitemyway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | My Site My Way
 
@@ -24,7 +24,7 @@ We may from time to time enter into business arrangements whereby a third party 
 
 5\. Disclosure of Information. My Site My Way may also disclose anonymous data based on information collected from you and other visitors to our website to investors and potential partners. My Site My Way may from time to time hire third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by My Site My Way from its clients. In all such cases, third party service providers will be required to treat all such data with the same degree of care as does My Site My Way, and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for herein.
 
-6\. Special Offers and Updates. We would like to send you and any other client of ours announcements regarding special offers or more general information on what we are doing in the fields of web design, content, hosting, and maintenance. If you do not wish to receive any of the above communications – unless they directly relate to an ongoing service relationship with us - you may opt out of receiving them by sending us an email to that effect using the “contact us” form on our website.
+6\. Special Offers and Updates. We would like to send you and any other client of ours announcements regarding special offers or more general information on what we are doing in the fields of web design, content, hosting, and maintenance. If you do not wish to receive any of the above communications – unless they directly relate to an ongoing service relationship with us – you may opt out of receiving them by sending us an email to that effect using the “contact us” form on our website.
 
 On some occasions, it may be necessary to send out service-related announcements. In our opinion, opting out of such communications could be detrimental to you or to us. If you do not wish to receive them, you have the option of not having us perform ongoing services for you, such as website hosting, that could require such communications.
 
