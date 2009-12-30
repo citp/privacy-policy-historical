@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeinternetmarketingcourses.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413014714id_/http%3A//www.freeinternetmarketingcourses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeinternetmarketingcourses.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231000951id_/http%3A//www.freeinternetmarketingcourses.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
