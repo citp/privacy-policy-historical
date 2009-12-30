@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfopera.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625121520id_/http%3A//sfopera.com/p%3FmID%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfopera.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230220855id_/http%3A//sfopera.com/p%3FmID%3D125) for the most accurate reproduction.*
 
 # San Francisco Opera :: San Francisco Opera Policies
 
