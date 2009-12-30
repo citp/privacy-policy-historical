@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iium.edu.my privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619153220id_/http%3A//www.iium.edu.my/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iium.edu.my privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230114356id_/http%3A//www.iium.edu.my/privacy.shtml) for the most accurate reproduction.*
 
 # About the University
 
