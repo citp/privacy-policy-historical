@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsubmitter.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629221815id_/http%3A//www.brandsubmitter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsubmitter.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230073139id_/http%3A//www.brandsubmitter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Manual Directory submissions, Link Building
 
@@ -27,6 +27,6 @@ The personal information which we hold will be held securely in accordance with 
 
 If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. 
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
+We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
 
 If you have any questions/comments about privacy, you should contact us.
