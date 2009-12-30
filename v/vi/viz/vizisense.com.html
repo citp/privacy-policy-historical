@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vizisense.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626234004id_/http%3A//www.vizisense.com/basic/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vizisense.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230230138id_/http%3A//www.vizisense.com/basic/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,11 +9,142 @@
 	<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
     <script language="javascript" src="/javascript/validator.js"></script>
+     <script type="text/javascript" src="/javascript/jquery.js"></script>
+    <!--[if IE 6]>
+    <link rel="stylesheet" href="/css/ie6.css" type="text/css"/>
+    <script type="text/javascript" src="/javascript/pngfix.js"></script>
+	<script type="text/javascript"> 
+	    $(document).ready(function(){ 
+	    	$("#logo").pngFix();
+	        $(".compareSiteHeaderContent").parent().css({'width':'550px'});
+		       $(".compareSiteHeaderContent:eq(0)").css({'padding-bottom':'5px'});
+		       $(".compareSiteHeaderContent:eq(0) input").css({'width':'454px'});
+		       $(".compareSiteHeader").css('visibility','visible');
+	    }); 
+	</script>
+	<![endif]-->
+	<!--[if IE 7]>
+    	<link rel="stylesheet" href="/css/ie7.css" type="text/css"/>
+    	<script type="text/javascript"> 
+	    $(document).ready(function(){ 
+	       $(".compareSiteHeaderContent").parent().css({'width':'550px'});
+	       $(".compareSiteHeaderContent:eq(0)").css({'padding-bottom':'5px'});
+	       $(".compareSiteHeaderContent:eq(0) input").css({'width':'454px'});
+	      $(".compareSiteHeader").css('visibility','visible');
+	    }); 
+	</script>
+    <![endif]-->
   </head>
   <!--end of the page header -->
 
   
   <body class="trafficpage">
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.compareSiteHeaderNav .tab').click(function(){
+		var index = $('.compareSiteHeaderNav .tab').index(this); 
+		$('.compareSiteHeaderNav .tab').removeClass('active');
+		$('.compareSiteHeaderNav .tab:eq('+index+')').addClass('active');
+		$('.compareSiteHeaderContent').hide();
+		$('.compareSiteHeaderContent:eq('+index+')').show();
+	})
+	$(".compareSiteHeaderContent:eq(0) .btn").click(function(){
+    	var url = "/sites/",count=0;
+    	var temp = $(".compareSiteHeaderContent:eq(0) input:eq(0)").attr('value');
+    	temp = trim(temp);
+		if(temp != "")
+			count++;
+		url = url + temp;
+    	if(count > 0)
+        	window.location = url;
+        else
+        	alert('Please enter a site to search.');	
+    });
+    $(".compareSiteHeaderContent:eq(0) input").keypress(function (e) {
+		if(e.which == 13)
+	    {
+	    	$(".compareSiteHeaderContent:eq(0) .btn").click();
+	    }
+	});
+    $(".compareSiteHeaderContent:eq(1) .btn").click(function(){
+    	var url = "/compare/";
+    	for(i=0,count=0; i<4; i++){
+    		var temp = $("form[name='compareSitesHeaderForm'] input:eq("+i+")").attr('value');
+    		temp = trim(temp);
+    		if((temp != "") && (temp != "Site Name") ){
+    			count++;
+    			url = url + temp + "+";
+			}
+    	}
+    	if( url.charAt(url.length-1) == "+" ){
+    		url = url.substring(0,url.length-1);
+    	}
+    	if(count > 1)
+        	window.location = url;
+        else
+        	alert('Please enter at least two sites to compare.');
+    });
+    $(".compareSiteHeaderContent:eq(1) input").keypress(function (e) {
+		if(e.which == 13)
+	    {
+	    	$(".compareSiteHeaderContent:eq(1) .btn").click();
+	    }
+	});
+	$(".compareSiteHeaderContent:eq(0) input").focus(function () {
+		if ($(this).attr('value')=="Lookup data for any website (e.g. rediff.com)") 
+			$(this).attr('value',"");
+	});
+	$(".compareSiteHeaderContent:eq(0) input").blur(function () {
+		if ($(this).attr('value')=="") 
+			$(this).attr('value',"Lookup data for any website (e.g. rediff.com)");
+	});
+	$(".compareSiteHeaderContent:eq(1) input").each(function(){
+		var input = $(this);
+		input.focus(function () {
+			if (input.attr('value')=="Site Name") 
+				input.attr('value',"");
+		});
+		input.blur(function () {
+			if (input.attr('value')=="") 
+				input.attr('value',"Site Name");
+		});
+	});
+	$(".btn").mousedown(function(){
+		$(this).addClass("click");
+	}).mouseup(function(){
+		$(this).removeClass("click");
+	});
+	$(".btn").hover(function(){
+		$(this).addClass("hover");
+	}, function(){
+		$(this).removeClass("hover");
+	});
+	
+});
+function startsWith(currStr, matchStr) {
+  return (currStr.match("^" + matchStr)==matchStr)
+}
+function trim(str)
+{
+	return((""+str).replace(/^\s*([\s\S]*\S+)\s*$|^\s*$/,'$1') );
+}
+function submitUrl() {
+  var url = document.getElementById("url").value;
+  url = url.toLowerCase();
+  
+  if (startsWith(url, "http://")) {
+    url = url.substring(7);
+  }
+  if (startsWith(url, "www.")) {
+    url = url.substring(4);
+  }
+  if (url && url != "Enter a website") {
+    window.location="/sites/"+url;
+  }
+  return false;
+}
+
+</script>
 <div class="pageheadertop">
 <table width="100%" cellpadding="0" cellspacing="0">
   <tbody><tr>
@@ -25,7 +156,7 @@
 	  <div class="topnav">
 		<a href="/">Sign In</a>  
 		|
-		<a href="/dashboard">Top 100 Domains</a>  
+		<a href="/dashboard">Top Sites</a>
 		|
 		<a href="/basic/FEEDBACK">Give us Feedback</a>  
 		| 
@@ -38,39 +169,47 @@
 </tbody></table>
 </div>
 
-<div class="pageheader">
-<table>
-  <tbody><tr>
-	<td width="300">
-	  <div id="logo">
+<div class="pageheader clearfix">
+	  <div id="logo" style="float:left;">
 	    <a href="/">
 	      <img src="/images/logo.png" border="0">
 	    </a>
       </div>
-	</td>
-	
-	
-	<td width="700">	
-	  <div id="search-small">
-	    <form onsubmit="return submitUrlSmall();" method="get" action="/sites">
-  		  
-  		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  			<tbody><tr>
-			  <td width="80%">
-    			<input type="text" id="url" value="Lookup data for any website (e.g. rediff.com)" class="searchsmall-box" onfocus="if (this.value==&quot;Lookup data for any website (e.g. rediff.com)&quot;) this.value=&quot;&quot;" onblur="if (this.value==&quot;&quot;) this.value=&quot;Lookup data for any website (e.g. rediff.com)&quot;">
-			  </td>
-			  <td>&nbsp;&nbsp;</td>
-			  <td width="20%">
-				<input type="image" src="/images/btn-search-small.png" alt="Get Statistics" name="">
-			  </td>
-			</tr>
-		  </tbody></table>
-		  
+	  <div style="float:right;" class="compareSiteHeader">
+	    <div class="compareSiteHeaderNav clearfix">
+			<div class="tab active" id="compareSiteSearch">
+				<div class="tabL"> </div>
+				<div class="tabC"><div>Search</div></div>
+				<div class="tabR"> </div>
+			</div>
+			<div class="tab" id="compareSiteCompare">
+				<div class="tabL"> </div>
+				<div class="tabC"><div>Compare</div></div>
+				<div class="tabR"> </div>
+			</div>
+		</div>
+		<div class="compareSiteHeaderContent clearfix" style="display:block;padding-top:1px;padding-right:5px;">
+			<input type="text" class="searchSite" style="width:455px;color:#807E7E;" value="Lookup data for any website (e.g. rediff.com)">
+			<div class="btn" style="background:none;float:left;position:relative;top:5px;width:68px;">
+				<div class="btnL"> </div>
+				<div class="btnC"><div>Get Data</div></div>
+				<div class="btnR"> </div>
+			</div>
+		</div>
+		<div class="compareSiteHeaderContent compareSite clearfix" style="display:none;padding-right:5px;">
+		<form method="GET" name="compareSitesHeaderForm">
+			<input type="text" name="site1" value="Site Name"> <div style="position:relative;top:4px;">vs </div>
+			<input type="text" name="site2" value="Site Name"> <div style="position:relative;top:4px;">vs </div>
+			<input type="text" name="site3" value="Site Name"> <div style="position:relative;top:4px;">vs </div>
+			<input type="text" name="site4" value="Site Name">
+			<div class="btn" style="background:none;width:68px;">
+				<div class="btnL"> </div>
+				<div class="btnC"><div>Get Data</div></div>
+				<div class="btnR"> </div>
+			</div>
 		</form>
+		</div>
 	  </div>
-	</td>
-  </tr>
-</tbody></table>
 </div>	<center>	  	  
 	  <div class="wrapper">
 	    <div id="page">
@@ -215,7 +354,7 @@
 		  
 		  
 		  <div><img src="/images/bg-bottom.png" width="846" height="15"></div>
-<table width="846" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
   <tbody><tr>
 	<td>
 	  <div class="footer">
