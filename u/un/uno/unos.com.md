@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113064745id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230123336id_/http%3A//unos.com/privacy.html) for the most accurate reproduction.*
 
-# Uno Chicago Grill
+# Uno Chicago Grill - Privacy Policy
 
 Uno Restaurant Holdings Corporation   
 Website Privacy Policy  
-Last Revised: December 2, 2004   
+Last Revised: July 10, 2008   
 
 
 General 
@@ -23,7 +23,7 @@ On-line Surveys. The Company conducts on-line surveys and other activities that 
 
 "Contact Us" and Comment Features. The Company encourages visitors to its websites to contact us with questions and comments. Email addresses and other information of persons using these features may be collected in order to facilitate our responses to those inquiries.
 
-Purchases of Company Products. The unotogo.com and other Company websites may offer individuals the opportunity to purchase products online. In connection with those purchases, customers may be asked to submit personal information, name, address, telephone number and email address, that is required to complete the transaction. 
+Purchases of Company Products. The unotogo.com website and other Company websites may offer individuals the opportunity to purchase products online. In connection with those purchases, customers may be asked to submit personal information, name, address, telephone number and email address, that is required to complete the transaction. 
 
 Special Promotions and Product Information. The Company also may offer you the opportunity to provide you with email updates and announcements concerning our products and special promotions. Personal information you have provided to the Company may be used to facilitate those communications.
 
@@ -73,7 +73,7 @@ This Policy applies solely to the Company's information-gathering and disseminat
 
 Changes to this Policy
 
-This Policy is the sole authorized statement of the Company's practices with respect to the collection of personal information through the Company's websites and the subsequent use and disclosure of such information. Certain third party websites may be linked to the Company website (such as unicru.com for job applications, and giftcertificates.com for the purchase of Gift Cards). These third party websites include their own privacy policies. Please refer to these policies when using one of the linked websites.
+This Policy is the sole authorized statement of the Company's practices with respect to the collection of personal information through the Company's websites and the subsequent use and disclosure of such information. Certain third party websites may be linked to the Company website. These third party websites include their own privacy policies. Please refer to these policies when using one of the linked websites.
 
 The Company may revise this Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Policy. You can determine when this Policy was last revised by checking the "Last Revised" legend at the top of the Policy.
 
