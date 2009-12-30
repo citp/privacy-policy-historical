@@ -1,8 +1,25 @@
-> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114035id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230065847id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
 
 # SuperKids Privacy Policy.
 
-[home](https://web.archive.org/) > > > privacy policy  Our privacy policy is simple: SuperKids does not collect personal information from visitors to our site without their knowledge and consent. 
+[**software**](https://web.archive.org/aweb/pages/reviews/reviews.shtml)  
+  [reviews](https://web.archive.org/aweb/pages/reviews/reviews.shtml)   
+  [bestseller list](https://web.archive.org/aweb/pages/bestsell/bestsel1.shtml)   
+  [price survey](https://web.archive.org/aweb/pages/guide/guide.shtml)   
+  [what's new](https://web.archive.org/aweb/pages/whatsnew/)   
+  [product support](https://web.archive.org/aweb/pages/support/)   
+  [search](https://web.archive.org/aweb/pages/reviews/search.shtml) [**educational tools**](https://web.archive.org/aweb/tools/)   
+  [math worksheets](https://web.archive.org/aweb/tools/math/)   
+  [vocabulary builders](https://web.archive.org/aweb/tools/words/)   
+  [hangman](https://web.archive.org/aweb/tools/words/hangman/)   
+  [checkers, etc.](https://web.archive.org/aweb/tools/logic/) [**feature articles**](https://web.archive.org/aweb/pages/features/feature1.html) [**marketplace**](https://web.archive.org/store/amazon/books/)  
+  [reading corner](https://web.archive.org/store/amazon/books/)  
+  [movie corner](https://web.archive.org/store/amazon/video/) [**SuperKids**](https://web.archive.org/)  
+  [about SuperKids](https://web.archive.org/aweb/pages/aboutsks.html)  
+  [advertise!](https://web.archive.org/aweb/pages/sponsors/mediakit.htm)   
+  [humor](https://web.archive.org/aweb/pages/humor/humor1.shtml)  
+  [links](https://web.archive.org/aweb/pages/surfer/surfer.shtml)  
+  [help](https://web.archive.org/aweb/pages/help.html) |  |  [home](https://web.archive.org/) > > > privacy policy  Our privacy policy is simple: SuperKids does not collect personal information from visitors to our site without their knowledge and consent. 
 
 The only place where any individual user information is collected, is through optional participation in certain contests and sweepstakes. That information may be used to create aggregated demographic profiles of our visitors -- but it is never revealed on an individual basis to anyone outside of the SuperKids organization. Aggregated information like this allows us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because SuperKids derives some of it's revenue from advertising, providing such aggregated demographic data is essential to keeping our service free to users. 
 
@@ -14,7 +31,7 @@ A cookie is a small message that may be written to your hard drive by some Web s
 
 SuperKids does not use any cookies to track or identify visitors to our site. Cookies appear in only two places on SuperKids: 
 
-  * Advertisers. Some advertisers on SuperKids use cookies to limit the number of times they show a particular ad banner to each computer. These cookies are associated with the ad banners only, and are never transmitted back to SuperKids. 
+  * Advertisers. Some advertisers on SuperKids use cookies to limit the number of times they show a particular ad banner to each computer. These cookies are associated with the ad banners only, and are never transmitted back to SuperKids. We use third-party advertising companies to serve some of the ads you see when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
   * Several of the Logic Games on SuperKids' site use cookies to keep track of where a user is in a game. For example, in the [Hangman Game for The United States](https://web.archive.org/aweb/tools/words/hangman/states.sht), the page uses cookies to keep track of which games and letters have been played, to avoid premature repetition. No user information is transmitted back to SuperKids. 
 
 
