@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arshtcenter.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629063753id_/http%3A//www.arshtcenter.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arshtcenter.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040112id_/http%3A//www.arshtcenter.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Adrienne Arsht Center for the Performing Arts of Miami-Dade County
 
@@ -71,3 +71,5 @@ The Adrienne Arsht Center for the Performing Arts of Miami-Dade County
 Telephone: 305.949.6722
 
 E-mail: [info@arshtcenter.org](mailto:info@carnivalcenter.org)
+
+[ ](mailto:info@carnivalcenter.org)
