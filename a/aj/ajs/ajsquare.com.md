@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617081339id_/http%3A//www.ajsquare.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222437id_/http%3A//www.ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
 
 # Privacy Policy | About AJ Square
 
-| | AJ Square Inc., takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+|  | AJ Square Inc., takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
 AJ Square, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.ajsquare.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
   
@@ -11,7 +11,7 @@ AJ Square, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is 
 [](http://www.truste.org/ivalidate.php?url=www.ajsquare.com&sealid=101)  
    
   
-If you have any questions or concerns regarding this statement, you should first contact support person at [ ](maillto: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy79845 = 'support' + '@'; addy79845 = addy79845 + 'ajsquare' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy79845 + '\\'>' \); document.write\( addy79845 \); document.write\( '<\\/a>' \); //-->\\n </script> <script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[support@ajsquare.com](mailto:support@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
+If you have any questions or concerns regarding this statement, you should first contact support person at [ ](maillto: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy81355 = 'support' + '@'; addy81355 = addy81355 + 'ajsquare' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy81355 + '\\'>' \); document.write\( addy81355 \); document.write\( '<\\/a>' \); //-->\\n </script> <script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[support@ajsquare.com](mailto:support@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
   
    
 **What This Privacy Policy Covers**  
@@ -73,7 +73,7 @@ If you use a blog on this Web site, you should be aware that any personally iden
   * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. You can also opt out of marketing preferences by sending an email to [ ](mailto:)[feedback@ajsquare.com](mailto:feedback@ajsquare.com) .
   * We reserve the right to send you certain communications relating to the AJ Square Inc service, such as service announcements, administrative messages and the AJ Square Inc Newsletter, that are considered part of your AJ Square Inc account, without offering you the opportunity to opt-out of receiving them. 
   * You can delete your AJ Square Inc account by sending a mail to [feedback@ajsquare.com](mailto:feedback@ajsquare.com) or post the feedback. Please click here to read about information that might possibly remain in our archived records after your account has been deleted. 
-  * From time to time, we post customer testimonials on our Web site which may contain personally identifiable information such as the customer's name.  In this case, we obtain the customer's consent prior to to posting the testimonial. 
+  * From time to time, we post customer testimonials on our Web site which may contain personally identifiable information such as the customer's name. In this case, we obtain the customer's consent prior to to posting the testimonial. 
 
 
 
@@ -104,15 +104,16 @@ AJ Square Inc., may update this policy. We will notify you about significant cha
   
    
    
-**REGISTERED OFFICE**  
+**MARKETING OFFICE**  
+**AJ Square Inc**  
 3422, Old capitol trial,   
 Suite 700, Wilmington 19808  
 Delaware, United States of America,   
 Ph: (302) 804 1400 Fax:(302) 397 0990  
    
-**MARKETING OFFICE**  
+****  
    
-**AJ Square Inc**  
+**AJ Square Incorporation**  
 500 Esplande Dr site,  
 1130 Oxnard 93030, California,  
 United States of America,   
