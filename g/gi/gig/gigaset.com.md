@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gigaset.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624041055id_/http%3A//gigaset.com/shc/0%2C1935%2Chq_en_0_119430_rArNrNrNrN%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaset.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031156id_/http%3A//gigaset.com/shc/0%2C1935%2Chq_en_0_119430_rArNrNrNrN%2C00.html) for the most accurate reproduction.*
 
-# Gigaset Communications - cordless dect phones, voip phone, isdn telephones, wireless broadband and home media receiver
+# Gigaset Communications - cordless dect phones, voip phone, isdn telephones and home media receiver
 
 ### Privacy Policy
 
