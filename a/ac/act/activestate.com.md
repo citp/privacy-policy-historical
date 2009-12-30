@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050223id_/http%3A//www.activestate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230210109id_/http%3A//www.activestate.com/privacy_policy) for the most accurate reproduction.*
 
 # ActiveState Privacy Policy
 
@@ -22,15 +22,15 @@ Our website servers generate standard traffic log files. We use these files to p
 
 ## Requested Services and Product Evaluations
 
-We communicate with our users to provide requested services, and in regard to issues relating to their account via email or phone. Three expiration reminder notices are sent by email for all Pro Studio bundle subscriptions. Two expiration reminder notices are sent by email to users who have obtained at trial license for any of our products.
+We communicate with our users to provide requested services, and in regard to issues relating to their account via email or phone. Expiration reminder notices are sent by email for all Pro Studio bundle subscriptions. Expiration reminder notices are sent by email to users who have obtained at trial license for any of our products.
 
-## Language Downloads
+## Downloads
 
-When a user downloads one of the free ActiveState language distributions, they will be given the option of opting in to receive marketing material and information on free programming resources via email.
+When a user downloads our software, they will be given the option of opting in to receive marketing material and information via email.
 
-## ASPN Membership
+## Community Sites
 
-When a user enrolls for free membership in ASPN Open, they will be asked to provide certain personal information in order for us to create their online account. The user will also be given the option of opting in to receive marketing material via email.
+When a user enrolls on one of our community sites, they will be asked to provide certain personal information in order for us to create their online account. The user will also be given the option of opting in to receive marketing material via email.
 
 ## Ordering
 
@@ -48,7 +48,7 @@ From time to time, our site requests information from users via surveys or conte
 
 ## Security
 
-Our Web site takes every precaution to protect our users' information. When a user submits sensitive information, it is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of Web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open.
+Our website takes every precaution to protect our users' information. When a user submits sensitive information, it is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open.
 
 ## Suppliers
 
@@ -56,7 +56,7 @@ We outsource shipping and credit card processing. The companies that perform the
 
 ## Links
 
-This Web site contains links to other sites. Please be aware that ActiveState is not responsible for the privacy practices of other sites. We encourage our users to be aware of when they leave our site, and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the ActiveState Web site.
+This website contains links to other sites. Please be aware that ActiveState is not responsible for the privacy practices of other sites. We encourage our users to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the ActiveState website.
 
 ## Public Forums
 
@@ -72,7 +72,8 @@ Users of our site are always notified when their information is being collected 
 
 Periodically, ActiveState notifies our users of new products, announcements, upgrades, and updates.
 
-If you would prefer not to receive these notifications, please update your preferences at:[ ](http://www.activestate.com/cgibin/ns.plex)[http://www.ActiveState.com/cgibin/ns.plex](http://www.activestate.com/cgibin/ns.plex)[.](http://www.activestate.com/cgibin/ns.plex)
+To unsubscribe from ActiveState email updates, click opt out at the bottom of the next email you receive from us.  
+[](http://www.activestate.com/cgibin/ns.plex)
 
 Please be aware that you may not opt out of receiving information regarding the initial use, evaluation, or expiration of our products or services.
 
