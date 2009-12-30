@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manycam.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529032519id_/http%3A//www.manycam.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manycam.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222156id_/http%3A//manycam.com/privacy_policy) for the most accurate reproduction.*
 
 # ManyCam Privacy Policy
 
