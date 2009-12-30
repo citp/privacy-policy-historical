@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203150id_/http%3A//www.ksrevenue.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230045822id_/http%3A//www.ksrevenue.org/privacy.htm) for the most accurate reproduction.*
 
 # Kansas Department of Revenue - Privacy Statement
 
-[Home](https://web.archive.org/web/20090619203150id_/http%3A//www.ksrevenue.org/index.htm) > Privacy Statement
+[Home](https://web.archive.org/web/20091230045822id_/http%3A//www.ksrevenue.org/index.htm) > Privacy Statement
 
 The Department of Revenue is dedicated to protecting your privacy online. The following policy statement outlines how your information will be handled by the department while using our services. 
 
