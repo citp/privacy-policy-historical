@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621021416id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230160049id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy at WorstPreviews™
+# Privacy Policy | WorstPreviews.com
 
-  
+PRIVACY POLICY:
 
-
-**Overview**
+ **Overview:**
 
 WorstPreviews.com considers the protection of personal privacy to be one of our most important values. This privacy policy ("Policy") gives you specific information on how we protect your privacy, how we treat personal information, and the choices you have.
 
@@ -19,9 +18,7 @@ Children
 
 WorstPreviews.com is not directed to children under the age of 13. WorstPreviews.com will not knowingly collect personally identifiable information from anyone under 13.
 
-**NOTE TO PARENTS:** If you have any concerns about WorstPreview.com or the services we offer, please contact us via our online form available at 
-
-[http://www.worstpreviews.com/contact_us.php](http://www.worstpreviews.com/contact_us.php). WorstPreviews.com encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
+**NOTE TO PARENTS:** If you have any concerns about WorstPreview.com or the services we offer, please contact us via our online form available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20091230160049id_/http%3A//www.worstpreviews.com/contact_us.php). WorstPreviews.com encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
 
 Information Collection, Storage and Use
 
@@ -51,9 +48,7 @@ We may contact you regarding account status, changes to this Policy, our User Ag
 
 A cookie may also be placed on your computer if you check the "Remember Me" Function when logging in to WorstPreviews.com. This cookie is voluntary and only is saved if you check the "Remember Me" function allowing the site to remember your log-in information the next time you visit WorstPreviews.com.
 
-You may configure your browser to reject cookies, but this may interfere with some functionality of WorstPreviews.com. To find out more about ccookies, we suggest the All About Cookies Site located at 
-
-[http://www.allaboutcookies.com](http://www.allaboutcookies.com/).
+You may configure your browser to reject cookies, but this may interfere with some functionality of WorstPreviews.com. To find out more about ccookies, we suggest the All About Cookies Site located at [http://www.allaboutcookies.com](http://www.allaboutcookies.com/).
 
 **G. Sites You Visit.** As you access and browse around WorstPreviews.com, WorstPreviews.com may store information about which pages you visit and other information presented in your browser's URL address line. WorstPreviews.com will use this information to help determine what our users are most interested in.
 
@@ -75,9 +70,7 @@ Notwithstanding these security measures, please be aware that when you submit Pe
 
 Accessing, Correcting and Updating Your Information
 
-If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at 
-
-[http://www.worstpreviews.com/contact_us.php](http://www.worstpreviews.com/contact_us.php) or email us at: [support@worstpreviews.com](mailto:support@worstpreviews.com).
+If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20091230160049id_/http%3A//www.worstpreviews.com/contact_us.php) or email us at: [support@worstpreviews.com](mailto:support@worstpreviews.com).
 
 **Newsletters.** You may unsubscribe to email newsletters by following the instructions at the bottom of each newsletter.
 
