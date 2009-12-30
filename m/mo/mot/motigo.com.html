@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the motigo.com privacy policy that was archived on 2009-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090606132407id_/http%3A//motigo.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motigo.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230031450id_/http%3A//motigo.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="EN" xml:lang="EN"><!-- 86 --><head>
     	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <title>free tools for your website | Motigo</title>
         <meta name="description" content="Free tools for your website. Get free counters, forums, guestbooks, online calendars and URL Redirect.">
         <meta name="keywords" content="Free tools, website tools, webmaster tools, online tools, free counter, hit counter, webstats, web stats, free calendar, free forum, free guestbook, free URL redirect, online counter, online calendar, online forum, online guestbook">
-                <link rel="stylesheet" type="text/css" href="/css/global.css?v=3" media="screen">
-        <link rel="stylesheet" type="text/css" href="/css/motigo.css?v=3" media="screen">
+                <link rel="stylesheet" type="text/css" href="/css/global.css?v=4" media="screen">
+        <link rel="stylesheet" type="text/css" href="/css/motigo.css?v=5" media="screen">
 
         <script type="text/javascript" src="/js/functions.js?v=2"></script>
 
@@ -23,12 +23,13 @@
         <meta http-equiv="imagetoolbar" content="no">
         <link rel="shortcut icon" href="/images/favicon.ico">
 
+        
                                             
     </head>
 
     <body class="privacy">
         <div id="m_main">
-            <!-- Header for motigo in EN, Sat, 06 Jun 2009 13:24:07 +0000 by 86 -->            <div id="m_top">
+            <!-- Header for motigo in EN, Wed, 30 Dec 2009 03:14:50 +0000 by 86 -->            <div id="m_top">
 				<div class="m_round_corner_f5f6f1">
 				<div id="m_top_content" class="m_round_corner_content">
 					<div id="m_top_links">
@@ -45,6 +46,7 @@
     							<option value="NL">Nederlands</option>
     							<option value="DE">Deutsch</option>
     							<option value="FR">Français</option>
+    							<option value="IT">Italiano</option>                                                        
 							</select>
 						</span>
 					</div>
@@ -120,7 +122,7 @@
                           function submit_search_form(prefix) {
                             var prefix = prefix != undefined ? prefix : '';
                             var form = $(prefix+'search_form');
-                            var buttons = form.getInputs('radio', prefix+'search_type');
+                            var buttons = form.getElementsByTagName('input');
                             var search_type = 'web';
                             for (i = 0; i < buttons.length; i++) {if (buttons[i].checked) {search_type = buttons[i].value;}}
                             var searchstring = $F(prefix+'searchstring');
@@ -360,15 +362,27 @@
 <!-- google tags start-->
 <script type="text/javascript"> 
 
+if (typeof(_gat) === 'undefined' || !_gat) {
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+}
 
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+
+
 <script type="text/javascript"> 
 
-   var pageTracker = _gat._getTracker("UA-2560791-1"); 
-   pageTracker._setDomainName(".motigo.com");
-   pageTracker._trackPageview(); 
+  try {
+    var pageTracker = _gat._getTracker("UA-2560791-1"); 
+    pageTracker._setDomainName(".motigo.com");
+    var utmx = motigo_read_cookie('__utmx');
+    if (utmx) { // GWO + GA
+      var date = new Date();
+      var str = Math.round(date.getTime()/1000) + ';utmx:' + utmx;
+      pageTracker._setVar(str);
+    }    
+    pageTracker._trackPageview(); 
+  } catch (err) {}
 
 </script>
 <!-- google tags end-->
