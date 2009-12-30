@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auslogics.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424091056id_/http%3A//auslogics.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auslogics.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222600id_/http%3A//auslogics.com/en/privacy) for the most accurate reproduction.*
 
 # Auslogics - Privacy Policy
 
