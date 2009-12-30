@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423021607id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225913id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Pays You - Privacy Statement
 
-**Welcome to AdPaid.com:** **The online advertising and rewards company providing highly cost effective targeted marketing solutions.**
+**Welcome to AdPaid.com:** **Earn Money Online, Paid Reading Email, Earn Cash for Paid Online Surveys and Offers. Highly cost effective targeted advertising solutions.**
 
 ## **AdPaid.com Respects Your Privacy**
 
@@ -16,7 +16,7 @@ Members may opt-out of receiving future mailings; see the choice/opt-out section
 AdPaid.com, in the future, may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Security:**  
-AdPaid.com has security measures in place to protect the loss, misuse and alteration of the information under our control.
+AdPaid.com has security measures in place to protect against the loss, misuse and alteration of the information under our control.
 
 **Children's Guidelines:**  
 We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable off-line contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
@@ -29,4 +29,5 @@ AdPaid.com gives users the following options for changing and modifying informat
 
 ## **Sponsor Ads**
 
-[](http://www.hypervre.com/?affiliate=106790)
+[](http://adpaid.com/scripts/runner.php?BA=2683&hash=b004afd6eb2dc48cd2b36e6a97b09f62&url=http%3A%2F%2Fwww.gotsafelist.com%2Fuser%2F38622)  
+
