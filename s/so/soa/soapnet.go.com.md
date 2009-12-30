@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapnet.go.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616070439id_/http%3A//transfer.go.com/cgi/transfer.dll%3Fsrvc%3Ddis%26goto%3Dhttp%3A//disney.go.com/corporate/privacy/pp_wdig.html%26name%3Dg_legalFooter_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapnet.go.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221732id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
 
 # Privacy Policy for Walt Disney Internet Group | Legal | WDIG | Disney.com
 
@@ -8,7 +8,7 @@ Walt Disney Internet Group
 [](http://disney.go.com/corporate/privacy/kids.html?ppLink=pp_wdig)  
 [](http://disney.go.com/corporate/privacy/safety.html?ppLink=pp_wdig)  
 [](http://disney.go.com/corporate/legal/terms.html?ppLink=pp_wdig)  
-[](https://web.archive.org/web/20090615035437id_/http://disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
+[](https://web.archive.org/web/20091230221732id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
 |  |  |   
 ---  
 Privacy Policy/Your California Privacy Rights  
