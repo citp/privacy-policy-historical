@@ -1,0 +1,516 @@
+<!--The following is the downloaded HTML source of the artofmanliness.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230223212id_/http%3A//artofmanliness.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+<title>Legal | The Art of Manliness</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="alternate" type="application/rss+xml" title="The Art of Manliness » Legal Comments Feed" href="http://artofmanliness.com/privacy-policy/feed/">
+<link rel="stylesheet" id="wp-email-css" href="http://artofmanliness.com/wp-content/plugins/wp-email/email-css.css?ver=2.50" type="text/css" media="all">
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php?ver=0.4"></script>
+<script type="text/javascript" src="http://artofmanliness.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://artofmanliness.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://artofmanliness.com/wp-includes/wlwmanifest.xml"> 
+<link rel="canonical" href="http://artofmanliness.com/privacy-policy/">
+
+	<!-- add prototype scripts -->
+	<script language="JavaScript" type="text/javascript" src="http://artofmanliness.com/wp-includes/js/scriptaculous/prototype.js"></script>
+	<!-- add scriptaculous scripts -->
+	<script language="JavaScript" type="text/javascript" src="http://artofmanliness.com/wp-includes/js/scriptaculous/scriptaculous.js"></script>
+
+<link rel="stylesheet" href="http://artofmanliness.com/wp-content/plugins/dd-formmailer/dd-formmailer.css" type="text/css" media="screen">
+<script src="http://su.pr/hosted_js" type="text/javascript"></script><script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script> 
+<script type="text/javascript"> 
+/***************************************/
+// jQuery Tabber
+// By Jordan Boesch
+// www.boedesign.com
+// Dec 25, 2007 (Merry Christmas!)
+/***************************************/
+ 
+(function($){
+ 
+		$.jtabber = function(params){
+				
+				// parameters
+				var navDiv = params.mainLinkTag;
+				var selectedClass = params.activeLinkClass;
+				var hiddenContentDiv = params.hiddenContentClass;
+				var showDefaultTab = params.showDefaultTab;
+				var showErrors = params.showErrors;
+				var effect = params.effect;
+				var effectSpeed = params.effectSpeed;
+				
+				// If error checking is enabled
+				if(showErrors){
+					if(!$(navDiv).attr('title')){
+						alert("ERROR: The elements in your mainLinkTag paramater need a 'title' attribute.\n ("+navDiv+")");	
+						return false;
+					}
+					else if(!$("."+hiddenContentDiv).attr('id')){
+						alert("ERROR: The elements in your hiddenContentClass paramater need to have an id.\n (."+hiddenContentDiv+")");	
+						return false;
+					}
+				}
+				
+				// If we want to show the first block of content when the page loads
+				if(!isNaN(showDefaultTab)){
+					showDefaultTab--;
+					$("."+hiddenContentDiv+":eq("+showDefaultTab+")").css('display','block');
+					$(navDiv+":eq("+showDefaultTab+")").addClass(selectedClass);	
+				}
+				
+				// each anchor
+				$(navDiv).each(function(){
+										
+					$(this).click(function(){
+						// once clicked, remove all classes
+						$(navDiv).each(function(){
+							$(this).removeClass();
+						})
+						// hide all content
+						$("."+hiddenContentDiv).css('display','none');
+						
+						// now lets show the desired information
+						$(this).addClass(selectedClass);
+						var contentDivId = $(this).attr('title');
+						
+						if(effect != null){
+							
+							switch(effect){
+								
+								case 'slide':
+								$("#"+contentDivId).slideDown(effectSpeed);
+								break;
+								case 'fade':
+								$("#"+contentDivId).fadeIn(effectSpeed);
+								break;
+								
+							}
+								
+						}
+						else {
+							$("#"+contentDivId).css('display','block');
+						}
+						return false;
+					})
+				})
+			
+			}
+	
+})(jQuery);	
+</script> 
+<script type="text/javascript"> 
+jQuery(document).ready(function(){
+		jQuery.jtabber({
+			mainLinkTag: "#nav2 a", // much like a css selector, you must have a 'title' attribute that links to the div id name
+			activeLinkClass: "selected", // class that is applied to the tab once it's clicked
+			hiddenContentClass: "hiddencontent", // the class of the content you are hiding until the tab is clicked
+			showDefaultTab: 1, // 1 will open the first tab, 2 will open the second etc.  null will open nothing by default
+			showErrors: false, // true/false - if you want errors to be alerted to you
+			effect: null, // null, 'slide' or 'fade' - do you want your content to fade in or slide in?
+			effectSpeed: 'fast' // 'slow', 'medium' or 'fast' - the speed of the effect
+		});
+});
+</script> 
+
+<!-- tweet this -->
+<!-- End tweet this -->
+
+<link rel="”shortcut" icon”="" href="”http://artofmanliness.com/favicon.ico”">
+<meta name="verify-v1" content="4RSETFIMUwgS0VJ1XssuMNE1blUbrfpZHAb6qTSZde0=">		<style type="text/css">
+						ol.footnotes li {list-style-type:decimal;}
+						ol.footnotes{font-size:0.8em; color:#666666;}		</style>
+		
+<link rel="canonical" href="http://artofmanliness.com/privacy-policy/">
+<meta name="wp_theme" content="Thesis 1.5.1">
+
+<link rel="stylesheet" href="http://artofmanliness.com/wp-content/themes/thesis_151/style.css?091809-110951" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://artofmanliness.com/wp-content/themes/thesis_151/layout.css?123009-51256" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://artofmanliness.com/wp-content/themes/thesis_151/lib/css/ie.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://artofmanliness.com/wp-content/themes/thesis_151/custom/custom.css?123009-51214" type="text/css" media="screen, projection">
+
+<link rel="alternate" type="application/rss+xml" title="The Art of Manliness RSS Feed" href="http://feeds2.feedburner.com/TheArtOfManliness">
+<link rel="pingback" href="http://artofmanliness.com/xmlrpc.php">
+
+<script language="Javascript">
+<!--
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
+//-->
+</script>
+
+
+
+
+<meta name="verify-v1" content="dESv/igWp0camwwYVSyFUkgCLONbOHSo1Jp4XfsVmRI=">
+
+</head>
+
+<body class="custom privacy-policy">
+
+<div id="header_area" class="full_width">
+<div class="page">
+<div id="topad">
+<script type="text/javascript">
+//<![CDATA[
+ord = window.ord || Math.floor(Math.random()*1E16);
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;tile=1;dcopt=ist;sz=728x90;ord=193001981570255500?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+</div>	<div id="header">
+		<p id="logo"><a href="http://artofmanliness.com">The Art of Manliness</a></p>
+		<p id="tagline">Men's Interests and Lifestyle</p>
+	</div>
+<ul id="tabs">
+<li class="home-item"><a href="http://artofmanliness.com" title="Home" rel="nofollow">Home</a></li>
+	<li class="cat-item cat-item-3"><a href="http://artofmanliness.com/category/a-mans-life/" title="View all posts filed under A Man's Life">A Man's Life</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://artofmanliness.com/category/dress-grooming/" title="View all posts filed under Dress &amp; Grooming">Dress &amp; Grooming</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://artofmanliness.com/category/health-sports/" title="View all posts filed under Health &amp; Sports">Health &amp; Sports</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://artofmanliness.com/category/manly-skills/" title="View all posts filed under Manly Skills">Manly Skills</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://artofmanliness.com/category/money-career/" title="View all posts filed under Money &amp; Career">Money &amp; Career</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://artofmanliness.com/category/relationships-family/" title="View all posts filed under Relationships &amp; Family">Relationships &amp; Family</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="content_area" class="full_width">
+<div class="page">
+	<div id="content_box">
+		<div id="content">
+
+			<div class="post_box top" id="post-2487">
+				<div class="headline_area">
+					<h1>Legal</h1>
+				</div>
+				<div class="format_text">
+<h3>Disclaimer</h3>
+<p><strong>Warranty. </strong>This site is for entertainment purposes only.&nbsp;While every caution has been taken to provide&nbsp;readers with the most accurate information,&nbsp; readers are using the information on this site at their own risk.&nbsp;Any reliance you place on such information is therefore strictly at your own risk. Art of Manliness will not compensate you in any way whatsoever if you ever happen to suffer a loss/inconvenience/damage because of/while making use of information in this blog. Please seek professional advice.</p>
+<p><strong>Updating. </strong>Art of Manliness may keep updating old posts on a regular basis and is not bound to explicitly state all corrections made.</p>
+<p><strong>Comments. </strong>Comments on this website are the sole responsibility of their writers and the writer will take full responsibility, liability, and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment. The accuracy, completeness, veracity, honesty, exactitude, factuality and politeness of comments are not guaranteed.</p>
+<h3>Privacy Policy</h3>
+<p>This is just a standard, boring, boilerplate privacy policy, virtually identical to any other website on the planet. Legal agreements require me to have such wonderfully exciting legalese, so just bear with me here.</p>
+<p>At <a href="http://artofmanliness.com">artofmanliness.com</a>, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit <a href="http://artofmanliness.com">artofmanliness.com</a>, and how we safeguard your information.&nbsp; We never sell your personal information to third parties.</p>
+<h3>Log Files</h3>
+<p>As with most other websites, we collect and use the data contained in log files.&nbsp; The information in the log files include&nbsp; your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.</p>
+<h3>Cookies and Web Beacons</h3>
+<p>We do use cookies to store information, such as your personal preferences when you visit our site.&nbsp; This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.</p>
+<p>We also use third party advertisements on <a href="http://artofmanliness.com">artofmanliness.com</a> to support our site.&nbsp; Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.&nbsp; This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
+<h3>DoubleClick DART cookies</h3>
+<p>We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).&nbsp; This cookie is used to serve ads specific to you and your interests (”interest based targeting”).&nbsp; The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).&nbsp; DART uses “non personally identifiable information”.&nbsp; It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.&nbsp; You can opt-out of this ad serving on all sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx</a></p>
+<p>You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.&nbsp; However, this can affect how you are able to interact with our site as well as other websites.&nbsp; This could include the inability to login to services or programs, such as logging into forums or accounts.</p>
+<p>Deleting cookies does not mean you are permanently opted out of any advertising program.&nbsp; Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.</p>
+<h3>FTC Disclosures and Relationships</h3>
+<p>The Art of Manliness does not receive money for paid reviews of products. We will however include affiliate links where we make money if a visitor decides to purchase a product from our link. We provide the following list of sources of income for The Art of Manliness</p>
+<ul>
+<li>Art of Manliness is an affiliate of <a href="http://saddlebackleather.com">Saddleback Leather Company</a>.</li>
+<li>Art of Manliness is an <a href="http://amazon.com">Amazon</a> affiliate and we include links from time to time to Amazon products.</li>
+<li>Art of Manliness includes Google Adsense ads on the site. The links displayed are whatever Google thought was relevant</li>
+<li>Art of Manliness is a part of the Natural Path Media ad netowork</li>
+<li>Art of Manliness is a party of the Tribal Fusion ad network</li>
+</ul>
+<div class="relatedBox">
+   <h2>Related Manly Posts:</h2>
+<p></p><ul><ul>
+<a href="http://artofmanliness.com/2008/03/15/the-art-of-manliness-weekly-roundup-share-your-links-edition/" rel="bookmark" title="March 15, 2008">The Art of Manliness Weekly Roundup: Share Your Links Edition</a>
+</ul>
+
+<ul>
+<a href="http://artofmanliness.com/2008/06/22/art-of-manliness-and-diggcom/" rel="bookmark" title="June 22, 2008">Art of Manliness and Digg.com</a>
+</ul>
+
+<ul>
+<a href="http://artofmanliness.com/2008/06/01/the-best-of-art-of-manliness-may-2008/" rel="bookmark" title="June 1, 2008">The Best of Art of Manliness: May 2008</a>
+</ul>
+
+<ul>
+<a href="http://artofmanliness.com/2009/06/21/review-of-the-art-of-manliness-comment-policy/" rel="bookmark" title="June 21, 2009">Review of the Art of Manliness Comment Policy</a>
+</ul>
+
+<ul>
+<a href="http://artofmanliness.com/2009/04/13/how-to-find-your-first-apartment/" rel="bookmark" title="April 13, 2009">How to Find Your First Apartment</a>
+</ul>
+</ul><!-- Similar Posts took 27.999 ms --><p></p>
+</div>	
+<br>
+
+       <div class="sharingBox">
+	
+		<div class="sharingAd">
+
+<center><a href="http://www.tankfarmclothing.com/store/category/art-of-manliness/114_151.oa"><img src="http://content.artofmanliness.com/uploads/images/aomt-shirts.jpg"></a></center><a href="http://www.tankfarmclothing.com/store/category/art-of-manliness/114_151.oa">
+
+		</a></div><a href="http://www.tankfarmclothing.com/store/category/art-of-manliness/114_151.oa">
+		
+		</a><div class="sharingIcons"><a href="http://www.tankfarmclothing.com/store/category/art-of-manliness/114_151.oa">
+		
+			</a><ul><a href="http://www.tankfarmclothing.com/store/category/art-of-manliness/114_151.oa">
+				<li>
+					<h2>Share:</h2>
+				</li>
+			
+				</a><li><a href="http://www.tankfarmclothing.com/store/category/art-of-manliness/114_151.oa">
+					</a><a href="http://feeds.feedburner.com/artofmanliness">
+
+						<img src="http://content.artofmanliness.com/uploads/images/Feed_24x24.png" border="0" alt="Subscribe">
+						<span>Subscribe</span>
+					</a>
+				</li>
+                                <li>
+                                        <a href="http://artofmanliness.com/privacy-policy/emailpopup" onclick="email_popup(this.href); return false;">
+						<img src="http://content.artofmanliness.com/uploads/images/email_friend.png" border="0" alt="Email to a Friend">
+						<span>Email Story to a Friend</span>
+					</a>
+				</li>
+                                <li>
+                                        <a href="http://artofmanliness.com/privacy-policy/print">
+                                                <img src="http://content.artofmanliness.com/uploads/images/print.gif" border="0" alt="Print">
+                                                <span>Print</span></a>
+                                        
+                                </li>
+				<li>
+					<a href="#" onclick="return TweetAndTrack.open(this, 'http://artofmanliness.com/privacy-policy/');"><span style="display:none;">Reading: Legal</span><img src="http://content.artofmanliness.com/uploads/images/Twitter_24x24.png" border="0" alt="Twitter"><span>Twitter</span>
+					</a>
+				</li>
+
+				<li>
+					<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=http://artofmanliness.com/privacy-policy/" onclick="return fbs_click()" target="_blank"><img src="http://content.artofmanliness.com/uploads/images/FaceBook_24x24.png" <span="">Facebook
+					</a>
+				</li>
+				
+			</ul>
+
+		</div>
+	
+	</div>				</div>
+			</div>
+
+		</div>
+
+		<div id="sidebars">
+			<div id="sidebar_1" class="sidebar">
+				<ul class="sidebar_list">
+<form method="get" id="search_form" class="search_form" action="index.html" onsubmit="lijitSearchInit(this);return false">
+	<p>
+		<input type="text" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" id="s" name="s" value="To search, type and hit enter" class="text_input">
+		<input type="hidden" id="searchsubmit" value="Search">
+	</p>
+</form>
+<link rel="stylesheet" type="text/css" href="http://www.lijit.com/files/branding-images/lwp_hide.css">
+<script type="text/javascript" src="http://www.lijit.com/wijitinit?uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2FWeezer1223&amp;js=1"></script>
+<script type="text/javascript" src="http://www.lijit.com/files/branding-images/lwp_hide.js"></script>
+
+<p><img src="http://content.artofmanliness.com/uploads/images/subscribe_header.gif"></p>
+<h2><a href="http://artofmanliness.com/free-ebook-guide-to-being-a-gentleman-in-2008/">Sign up for Email Updates and Get the FREE Guide to Being a Gentleman</a></h2>
+<img src="http://content.artofmanliness.com/uploads/images/rss.gif" align="right">
+<div class="feedcountdiv"><p><a href="http://feeds2.feedburner.com/TheArtOfManliness"><span class="feedcount">
+ <span class="before">Join</span>
+<span class="subscribers">55791</span>
+ <span class="after">Subscribers</span>
+</span></a></p></div><p><a href="http://feeds2.feedburner.com/TheArtOfManliness"><img class="icon" src="http://content.artofmanliness.com/uploads/images/rss_icon.gif" align="left"></a><br>
+<a href="http://feedburner.google.com/fb/a/mailverify?uri=TheArtofManliness&amp;loc=en_US"><img class="icon" src="http://content.artofmanliness.com/uploads/images/email.gif" align="left"></a><br>
+<a href="http://www.twitter.com/artofmanliness"><img class="icon" src="http://content.artofmanliness.com/uploads/images/twitter.gif" align="left"></a></p>
+<img src="http://content.artofmanliness.com/uploads/images/300rule.gif">
+<a href="http://artofmanliness.com/2009/11/09/a-beginners-guide-to-the-art-of-manliness-a-guided-tour/"><img src="http://content.artofmanliness.com/uploads/starthere.jpg"></a>
+<img src="http://content.artofmanliness.com/uploads/images/300rule.gif">
+
+<p></p><div class="tabber_box"> <div id="jtabber">
+	<div id="nav2" class="clearfix"><!--The tab links-->
+		<a href="#" title="tab1" class="selected">Popular Posts</a>
+		<a href="#" title="tab2">Categories</a>
+                <a href="#" title="tab3">Most Emailed Stories</a>
+	</div>
+
+	<div id="tab1" class="hiddencontent" style="display: block;">
+		<ul><li><a href="http://artofmanliness.com/2009/06/02/the-essential-man%e2%80%99s-library-adventure-edition-part-one-fiction/" rel="bookmark" title="June 2, 2009">The Essential Man’s Library: 50 Fictional Adventure Books Edition</a></li>
+
+<li><a href="http://artofmanliness.com/2009/07/13/100-must-see-movies/" rel="bookmark" title="July 13, 2009">100 Must See Movies: The Essential Men’s Movie Library</a></li>
+
+<li><a href="http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/" rel="bookmark" title="May 14, 2008">100 Must-Read Books: The Essential Man’s Library</a></li>
+
+<li><a href="http://artofmanliness.com/2009/06/29/50-non-fiction-adventure-books/" rel="bookmark" title="June 29, 2009">The Essential Adventure Library: 50 Non-fiction Adventure Books</a></li>
+
+<li><a href="http://artofmanliness.com/2008/08/01/the-35-greatest-speeches-in-history/" rel="bookmark" title="August 1, 2008">The 35 Greatest Speeches in History</a></li>
+</ul><!-- popular Posts took 39.997 ms -->	</div><!--tab 1 end -->
+	<div id="tab2" class="hiddencontent">
+		<ul>
+			<li class="cat-item cat-item-3"><a href="http://artofmanliness.com/category/a-mans-life/" title="View all posts filed under A Man's Life">A Man's Life</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://artofmanliness.com/category/dress-grooming/" title="View all posts filed under Dress &amp; Grooming">Dress &amp; Grooming</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://artofmanliness.com/category/health-sports/" title="View all posts filed under Health &amp; Sports">Health &amp; Sports</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://artofmanliness.com/category/manly-skills/" title="View all posts filed under Manly Skills">Manly Skills</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://artofmanliness.com/category/money-career/" title="View all posts filed under Money &amp; Career">Money &amp; Career</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://artofmanliness.com/category/relationships-family/" title="View all posts filed under Relationships &amp; Family">Relationships &amp; Family</a>
+</li>
+</ul>
+	</div><!--tab 2 end -->
+	<div id="tab3" class="hiddencontent">
+ <li><a href="http://artofmanliness.com/2009/09/21/a-good-boot-the-wolverine-1000-mile-boot-giveaway/">A Good Boot: The Wolverine 1,000 Mile Boot Giveaway</a> - 1,330 emails</li>
+<li><a href="http://artofmanliness.com/2009/11/23/a-manly-bag-for-your-manly-book-the-saddleback-leather-company-contestgiveaway/">A Manly Bag For Your Manly Book: The Saddleback Leather Company Contest/Giveaway</a> - 630 emails</li>
+<li><a href="http://artofmanliness.com/2009/07/20/briefcase-essentials-the-saddleback-leather-company-giveaway/">Briefcase Essentials: The Saddleback Leather Company Giveaway</a> - 48 emails</li>
+<li><a href="http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/">100 Must-Read Books: The Essential Man’s Library</a> - 45 emails</li>
+<li><a href="http://artofmanliness.com/2009/12/07/forging-habits-of-steel-7-tips-on-making-and-breaking-habits/">Forging Habits of Steel: 7 Tips on Making and Breaking Habits</a> - 45 emails</li>
+<li><a href="http://artofmanliness.com/2009/08/23/how-to-apologize-like-a-man/">How to Apologize Like a Man</a> - 40 emails</li>
+<li><a href="http://artofmanliness.com/2009/11/15/50-best-books-for-boys-and-young-men/">50 Best Books for Boys and Young Men</a> - 40 emails</li>
+<li><a href="http://artofmanliness.com/2009/09/30/motivational-posters-winston-churchill-edition-part-i/">Motivational Posters: Winston Churchill Edition (Part I)</a> - 37 emails</li>
+<li><a href="http://artofmanliness.com/2009/10/18/how-to-speed-read-like-theodore-roosevelt/">How to Speed Read Like Theodore Roosevelt</a> - 37 emails</li>
+<li><a href="http://artofmanliness.com/2009/11/17/how-to-run-a-meeting/">How to Run a Meeting</a> - 33 emails</li>
+	</div><!--tab 3 end -->
+</div></div><!--jtabber end--><p></p>
+<br><script type="text/javascript">
+//<![CDATA[
+ord = window.ord || Math.floor(Math.random()*1E16);
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;col=r;tile=2;sz=300x250;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;col=r;tile=2;sz=300x250;ord=193001981570255500?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;col=r;tile=2;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/npm.artofmanliness/;kw=;gen=m;age=3;pos=atf;col=r;tile=2;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript><li class="widget widget_text" id="text-7">			<div class="textwidget"><a href="http://www.saddlebackleather.com/124-art-of-manliness?icc=aom0714"><img src="http://content.artofmanliness.com/uploads/images/SBL-061509-01-300x250-v03.jpg"></a></div>
+		</li><li class="widget widget_text" id="text-3">			<div class="textwidget"><a href="http://community.artofmanliness.com"><img src="http://content.artofmanliness.com/uploads/images/community.gif" alt="visit the art of manliness community"></a></div>
+		</li><li class="widget widget_text" id="text-4">			<div class="textwidget"><a href="http://artofmanliness.com/barbershop-locato/"><img src="http://content.artofmanliness.com/uploads/images/barber.gif" alt="find a barber shop"></a></div>
+		</li><li class="widget widget_text" id="text-22">			<div class="textwidget"><a href="http://artofmanliness.com/shop/"><img src="http://content.artofmanliness.com/uploads/images/store.jpg" alt="visit our store"></a></div>
+		</li><li class="widget widget_text" id="text-5">			<div class="textwidget"><img src="http://content.artofmanliness.com/uploads/images/video_header.gif" width="300/">
+
+<object width="300" height="245"><param name="movie" value="http://www.youtube.com/v/tS-4odyaeOg&amp;hl=en&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/tS-4odyaeOg&amp;hl=en&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="300" height="245"></object></div>
+		</li><li class="widget widget_text" id="text-24">			<div class="textwidget"><a href="http://www.schottnyc.com/?partner=artofmanliness"><img src="http://content.artofmanliness.com/uploads/ads/banner-square-shape.jpg"></a></div>
+		</li><li class="widget widget_text" id="text-21">			<div class="textwidget"><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("d2130ce8615a03816bd65b283341ebc5");</script><fb:fan profile_id="9041660987" stream="" connections="10" width="300"></fb:fan></div>
+		</li><li class="widget widget_text" id="text-6">			<div class="textwidget"><script type="text/javascript">
+//<![CDATA[
+ord = window.ord || Math.floor(Math.random()*1E16);
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.artofmanliness/;kw=;gen=m;age=3;pos=btf;col=r;tile=3;sz=160x600;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/npm.artofmanliness/;kw=;gen=m;age=3;pos=btf;col=r;tile=3;sz=160x600;ord=193001981570255500?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/npm.artofmanliness/;kw=;gen=m;age=3;pos=btf;col=r;tile=3;sz=160x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/npm.artofmanliness/;kw=;gen=m;age=3;pos=btf;col=r;tile=3;sz=160x600;ord=123456789?" border="0" alt="" /></a></noscript>
+</div>
+		</li><li class="widget widget_text" id="text-23">			<div class="textwidget"><div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    includedLanguages: 'zh-CN,fr,de,it,ja,pt,ru,es'
+  }, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+		</li><li class="widget widget_links" id="linkcat-2"><h3>Blogroll</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://rulesformyunbornson.tumblr.com/">1001 Rules for My Unborn Son</a></li>
+<li><a href="http://acontinuouslean.com">A Continuous Lean</a></li>
+<li><a href="http://www.atailoredsuit.com/">A Tailored Suit</a></li>
+<li><a href="http://www.bettermen.org" title="Better Men">Better Men</a></li>
+<li><a href="http://burbia.com/">Burbia</a></li>
+<li><a href="http://darkroastedblend.com">Dark Roasted Blend</a></li>
+<li><a href="http://esquire.com" title="Esquire">Esquire</a></li>
+<li><a href="http://www.justaguything.com/">Just A Guy Thing</a></li>
+<li><a href="http://mentalfloss.com">Mental Floss</a></li>
+<li><a href="http://neatorama.com">Neatorama</a></li>
+<li><a href="http://www.petermanseye.com">Peterman’s Eye</a></li>
+<li><a href="http://08.tankfarmclothing.com/">Tankfarm</a></li>
+<li><a href="http://webecoist.com/">WebEcoist</a></li>
+<li><a href="http://weburbanist.com">WebUrbanist</a></li>
+
+	</ul>
+</li>
+<li class="widget widget_text" id="text-9"><h3>Donate to the Art of Manliness</h3>			<div class="textwidget"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="8334850">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+		</li>				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div id="footer_area" class="full_width">
+<div class="page">
+	<div id="footer">
+<ul>
+<li class="page_item page-item-14"><a href="http://artofmanliness.com/about-2/" title="About">About</a></li>
+<li class="page_item page-item-2699"><a href="http://artofmanliness.com/advertise-on-the-art-of-manliness/" title="Advertise">Advertise</a></li>
+<li class="page_item page-item-17"><a href="http://artofmanliness.com/archives/" title="Archives">Archives</a></li>
+<li class="page_item page-item-732"><a href="http://artofmanliness.com/comment-policy/" title="Comment Policy">Comment Policy</a></li>
+<li class="page_item page-item-15"><a href="http://artofmanliness.com/contact/" title="Contact">Contact</a></li>
+<li class="page_item page-item-2487 current_page_item"><a href="http://artofmanliness.com/privacy-policy/" title="Legal">Legal</a></li>
+</ul>
+<script type="text/javascript">
+/* <![CDATA[ */
+var emailL10n = {
+	ajax_url: "http://artofmanliness.com/wp-content/plugins/wp-email/wp-email.php",
+	max_allowed: "10",
+	text_error: "The Following Error Occurs:",
+	text_name_invalid: "- Your Name is empty/invalid",
+	text_email_invalid: "- Your Email is empty/invalid",
+	text_remarks_invalid: "- Your Remarks is invalid",
+	text_friend_names_empty: "- Friend Name(s) is empty",
+	text_friend_name_invalid: "- Friend Name is empty/invalid: ",
+	text_max_friend_names_allowed: "- Maximum 10 Friend Names allowed",
+	text_friend_emails_empty: "- Friend Email(s) is empty",
+	text_friend_email_invalid: "- Friend Email is invalid: ",
+	text_max_friend_emails_allowed: "- Maximum 10 Friend Emails allowed",
+	text_friends_tally: "- Friend Name(s) count does not tally with Friend Email(s) count",
+	text_image_verify_empty: "- Image Verification is empty"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://artofmanliness.com/wp-content/plugins/wp-email/email-js.js?ver=2.50"></script>
+<script type="text/javascript">
+FB_RequireFeatures(["XFBML"], function() {
+  	FB.init("d2130ce8615a03816bd65b283341ebc5", "http://artofmanliness.com/?xd_receiver=1");
+});
+</script>
+	</div>
+<div id="cred_footer">
+Copyright © 2009 The Art of Manliness | <a href="http://diythemes.com/?a_aid=artofmanliness">Thesis theme by DIYthemes.com</a> | Customized by <a href="http://www.ericgranata.com">Eric Granata</a>
+</div>
+</div>
+</div>
+<!--[if lte IE 7]>
+<div id="ie_clear"></div>
+<![endif]-->
+
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s34.sitemeter.com/js/counter.js?site=s34artofmanliness">
+</script>
+<noscript>
+<a href="http://s34.sitemeter.com/stats.asp?site=s34artofmanliness" target="_top">
+<img src="http://s34.sitemeter.com/meter.asp?site=s34artofmanliness" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+
+<script src="http://static.crowdscience.com/start.js?id=238c924864"></script>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1066823-4";
+urchinTracker();
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-efcgTzORGkamM"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-efcgTzORGkamM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<!--?php echo get_num_queries(); ?--> queries in <!--?php timer_stop(1); ?--> seconds.
+
+
+
+<!-- Dynamic page generated in 0.992 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2009-12-30 17:12:34 -->
+<!-- super cache --></body></html>
