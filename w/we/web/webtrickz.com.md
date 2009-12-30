@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411005207id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrickz.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034241id_/http%3A//webtrickz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ The views expressed in this blog are entirely my views and are **NOT** endorsed 
 
 **Cookies** – We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. We store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-**Google Advertising DoubleClick DART cookie -**
+**Google Advertising DoubleClick DART cookie –**
 
 We use third party advertisements to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site.
 
