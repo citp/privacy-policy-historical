@@ -1,63 +1,80 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617074254id_/http%3A//www.nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230072046id_/http%3A//www.nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
 
-# NuVox :: Legal Notices :: Privacy Policy
+# Privacy Policy | Legal | NuVox
 
-NuVox is committed to your privacy. This Privacy Policy demonstrates our commitment to privacy and security, and informs you of the type of information we may gather about you, either as a visitor to NuVox’s website, or when you order NuVox services. This Privacy Policy also explains how NuVox may use that information, whether we disclose it to anyone, and your ability to control the use of that information. NuVox’s privacy policy governs data collection and usage for all NuVox services. NuVox requests that you read this Policy carefully.
+**Effective Date: October 22, 2009**
 
-**CUSTOMER PROPRIETARY NETWORK INFORMATION**  
-“Customer Proprietary Network Information,” or “CPNI” is a broad term that encompasses two main categories of information which carriers like NuVox collect and use in order to conduct business and offer telephone and data services. First, CPNI includes, among other things, individually identifiable information indicating to whom, where, and when a customer places a call, as well as the types of service offerings to which a customer subscribes and how much any particular service is used. Second, “aggregate customer” information, is collective data that relates to a group or category of service or customers from which individual customer characteristics have been removed. ****
+NuVox is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you, either as a visitor to NuVox's websites, [www.nuvox.com](http://www.nuvox.com/), [https://my.nuvox.net](https://my.nuvox.net/), or [http://dealer.nuvox.net](http://dealer.nuvox.net/) (each a “Site”), or when you order NuVox services. This Privacy Policy also explains how NuVox may use and disclose such information, as well as your ability to control certain uses of it.
 
-**COLLECTION, USE AND DISCLOSURE OF YOUR CPNI**  
-Typically, companies like NuVox collect the data described above through the ordinary course of the customer-carrier relationship. When necessary, NuVox uses such information to fulfill orders, provide service, bill, and communicate with customers. We may also use such data to develop new products or services tailored to fit customers’ specific needs.
+**INFORMATION COLLECTION**
 
-NuVox protects all CPNI in the control of NuVox, and treats such information in a manner consistent and in compliance with Federal Communications Commission (FCC) requirements.
+**Personal Information**
 
-**“Individually Identifiable” CPNI**  
-NuVox will not sell, trade, or disclose to unaffiliated third parties any individually identifiable customer information without the consent of the customer. As used in this Privacy Policy, “unaffiliated third parties” do not include NuVox’s agents or affiliates that sell or provide communications-related services, its joint venture partners, or independent contractors. 
+  * NuVox collects personal information from you only when you: (1) order services from us; or (2) request information from us or otherwise contact us.  The personal information we collect may include your name, address, telephone number, email address, company name, and, if you are a NuVox customer, credit card number.
+  * We, or a third party service provider acting on our behalf (“Service Provider”), may periodically conduct customer surveys.  If you agree to participate in a survey, your personal information and responses will remain confidential, even if the survey is conducted by a Service Provider.  We use the survey responses to help improve the quality of our services to you, as well as to develop new services and products.  We may also share this survey information in an aggregated, non-personally identifiable form with third parties.
 
-However, NuVox, its agents and affiliates that provide communications-related services, its joint venture partners or independent contractors may use, disclose, or permit unaffiliated third parties to access customers’ individually identifiable CPNI in order to (1) initiate, render, bill, and collect for telecommunications service; (2) protect NuVox’s rights or property, or to protect customers and other carriers from the fraudulent, abusive, or unlawful use of, or subscription to, such service; or (3) to provide any inbound telemarketing, referral, or administrative service to the customer for the duration of the call, if such call was initiated by the customer and the customer approves of the use of such information to provide such service. 
 
-In instances where NuVox and a partner jointly promote service, NuVox may provide the partner with certain personal information (such as the name, address, and username of persons who subscribed to the service as a result of the joint promotion) for the exclusive purpose of implementing the promotion and allowing NuVox and its partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose.
 
-**“Aggregate Customer” Information**  
-NuVox also gathers a variety of aggregate customer information, including, but not limited to, the number and frequency of calls into our Customer Care Department and visits to NuVox’s website and its different pages. Web visits are monitored through the use of “cookies.” A cookie is a small data file that can be placed on your hard drive when you visit certain websites. NuVox may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and service we provide and to manage our telecommunications networks.As explained in more detail below, NuVox may share with unaffiliated third parties such aggregate information.
+**Customer Proprietary Network Information (“CPNI”)**
 
-Non-NuVox websites may require you to accept cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+  * "Customer Proprietary Network Information," or "CPNI" is personally identifiable information indicating to whom, where, and when a customer places a call, as well as the types of service offerings to which a customer subscribes and how much any particular service is used. We collect CPNI through the ordinary course of our customer-carrier relationship with you.
 
-**ONLINE SHOPPING**  
-Though NuVox may provide Internet services to an unaffiliated third party from whom you then purchase services online, NuVox has no control over the unaffiliated third party’s use of any personal information you provide when placing such an order with the unaffiliated third party. Please exercise care when doing so.
 
-**RESPONSES TO EMAIL INQUIRIES**  
-When visitors or customers send email inquiries to NuVox, the return email address is used to answer the email inquiry we receive. NuVox does not use the return email address for any other purpose and does not share the return email address with any unaffiliated third party.
 
-**VOLUNTARY CUSTOMER SURVEYS**  
-We may periodically conduct customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by an unaffiliated third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our customer surveys and combine (or aggregate) it with the responses of other NuVox customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-individually identifying information may be shared with unaffiliated third parties.
+**Non-Personal Information**
 
-**NUVOX'S COMMITMENT TO CHILDREN’S PRIVACY**  
-Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Websitescan be fun for our younger audience; however, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly websites and how to report online trouble, please visit [www.ftc.gov](http://www.ftc.gov/). Finally, NuVox recommends that children ask a parent for permission before sending personal information to NuVox, or to anyone else online.
+  * As part of the standard operation of the Site, we or our Service Providers may collect certain non-personal information from you, including but not limited to your browser type, operating system, Internet Protocol (“IP”) address and the domain name from which you accessed the Site.  In addition, we or our Service Providers may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site, and other click-stream or site usage data.
+  * NuVox may share aggregate, non-personal information with third parties.
+
+
+
+**Cookies and Web Beacons**
+
+  * We, or our Service Providers, may use cookies or web beacons to collect the non-personal information described above.  A cookie is a small data file that is placed on your hard drive when you access the Site.  A web beacon is a a small graphic image embedded in a webpage or email.  We or our Service Providers or business partners may also use cookies or web beacons to:  (1) monitor Site usage; (2) conduct research to improve our Site content, products and services; (3) manage our telecommunications networks; (4) deliver customized Site content; and (5) provide marketing message for NuVox’s services that may be of interest to you.
+  * You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings.  Check the “Help” menu of your browser to learn how to change your cookie preferences. 
+
+
+
+**INFORMATION USE**
+
+  * Subject to any legal restrictions on our use of CPNI and your instructions to us, NuVox or its Service Providers may use the information we collect from and about you for any of the following purposes:  (1) to fulfill orders, provide service and communicate with customers; (2) to develop new products or services; (3) to respond to your inquiries; (4) to provide you with targeted offers and advertising on the Site; (5) to contact you with information and promotional materials from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (6) to contact you when necessary; (7) to review the usage and operations of our Site and services; (8) to address problems with the Site, our business or our products and services; and (9) to protect the security or integrity of the Site and our business.  We may also use your information as described to you at the point of collection, with your opt-in or opt-out consent.  If you would like to restrict the use of your personal information for marketing purposes, you may the unsubscribe function included in every marketing email.
+  * We use and disclose your credit card information only to process payments and prevent fraud.
+  * NuVox may use your CPNI to offer you additional services of the type you already purchase from NuVox.  We may also use your CPNI to offer you other NuVox products and services, packages, discounts and promotions, which may be different from the types of services you already purchase.  If you would like to restrict the use of your CPNI for the marketing of certain products and services, you may contact us my phone or in writing.  Our contact information is available at <http://www.nuvox.com/Support/index.php>.  When making such a request, please be sure to reference the customer name as shown in the billing invoice, the account number(s) you wish restricted and the billing address(es) associated with the account(s) in question.  Restricting use will not eliminate all NuVox marketing contacts.
+
+
+
+**INFORMATION DISCLOSURE**
+
+  * Subject to any legal restrictions on our use of CPNI and your instructions to us, NuVox may disclose the information we collect from and about you as follows:  (1) to our affiliates, business partners, agents and Service Providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the NuVox Acceptable Use Policy, Site Terms of Use or of our rights or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) as described to you at the point of collection, with your opt-in or opt-out consent.  In addition, in the event that NuVox or substantially all of its assets are acquired, your information may be one of the transferred assets.  We will provide notice before personal information is transferred and becomes subject to a different privacy policy.   
+  * NuVox does not disclose CPNI to third parties without customer econsent except as required or allowed by law.  When NuVox uses Service Providers that require the use of CPNI, NuVox requires that such Service Providers protect CPNI consistent with this privacy policy.  NuVox does not sell CPNI to unaffiliated third parties.
+
+
 
 **PUBLIC FORUMS**  
-Please remember that any information you may disclose in our Member Directory, or other public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+Any information you may disclose in our Member Directory, or other public areas of the Site, becomes public information.  Please exercise caution when disclosing personal information in these public areas.
 
-**NUVOX'S COMMITMENT TO DATA SECURITY**  
-Services and websites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+**JOINT MARKETING**  
+From time to time, NuVox and a partner may jointly promote services.  In these situations, NuVox may provide the partner with certain personal information (such as the name, address and user name of customers who subscribed to the service as a result of the joint promotion), for the exclusive purpose of implementing the promotion and allowing NuVox and its partner to assess the results of the promotion.  The partner may not use the information for any other purpose.
 
-**HOW TO MODIFY YOUR INFORMATION**  
-NuVox customers can modify information provided during registration. To modify such information, contact our Customer Care Department at **800-600-5050.**
+**GOOGLE GMAIL**  
+If NuVox is your Internet service provider, then your email may be provided by Google.  Your use of the Google GMail service is subject to both this Privacy Policy and the GMail privacy policy, available at <http://mail.google.com/mail/help/intl/en/privacy.html>.  
 
-**YOUR RIGHTS**  
-In accordance with federal law, customers have the right to restrict the use and/or disclosure of their individually identifiable CPNI. If you would like to restrict NuVox from using your individually identifiable CPNI to market communications-related service, call us at 877-331-7808. Your election will be valid until you affirmatively revoke or limit it. Please note that, while restricting NuVox’s use of CPNI will not affect the provision of any service to which you currently subscribe, NuVox will be restricted in its ability to offer you products and services tailored to meet your specific needs.
+**LINKS TO OTHER WEBSITES**  
+The Site may have links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the practices of such sites.
 
-Customers also have the right to require NuVox to disclose their CPNI to any person or entity upon a written request. 
+**OUR COMMITMENT TO CHILDREN'S PRIVACY**  
+Protecting children’s privacy is important to us. We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen.
 
-**WHERE TO DIRECT QUESTIONS ABOUT NUVOX’S PRIVACY POLICY**  
+**OUR COMMITMENT TO DATA SECURITY**  
+We have taken certain physical, electronic, contractual and managerial steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+
+**IF YOU HAVE QUESTIONS**  
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:   
 NuVox   
 Attn: Customer Care   
-877-331-7808
+Telephone:  877-331-7808  
+Email:  [customercare@nuvox.com](mailto:customercare@nuvox.com)
 
+  
 **REVISIONS TO THIS POLICY**  
-NuVox reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. We therefore encourage you to review this Policy from time to time.
-
-**LIMITATION OF LIABILITY**  
-NuVox assumes no liability, whether in contract or tort, for any direct indirect special, consequential or punitive damages, including (without limitation) damages for loss of anticipated profits or revenue or other economic loss in connection with or arising from any act or omission by NuVox, its agents, affiliates, joint venture partners, independent contractors, or unaffiliated third parties as a result of any act or omission in fulfillment of or in breach of this Policy.
+NuVox reserves the right to revise this policy at any time. When we do, we will post the change(s) on the Site.  If we change the policy in a material way, we will provide appropriate online notice to you.
