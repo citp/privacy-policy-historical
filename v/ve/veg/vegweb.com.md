@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213152706id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230114051id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 VegWeb Privacy Policy 
 
-This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](http://vegweb.com/index.php?action=contact) to contact us. 
+This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb, LLC Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb, LLC web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](http://vegweb.com/index.php?action=contact) to contact us. 
 
 You must be at least 18 years of age in order to participate in any interactives areas of VegWeb. In otherwords, if you are younger than 18, we cannot allow you to use such utilities as VegWeb.com's VegFriends, Chat, Polls, etc.
 
@@ -52,7 +52,7 @@ Your non-personally identifying information is used to personalize your experien
 
 In the event that you decide to become a VegWeb.com's VegFriends Subscriber, you will be asked for your financial information (like credit card number) through PayPal's secured system. You financial information cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon - located at the bottom of your browser - appears "locked". 
 
-The personally identifiable information we collect from you is used for internet review and to improve the content and functionality of our web server or customize the layout of our pages for each individual member. We will never release your personally identifiable information to an external organization without your prior consent except for the purposes of validating credit information and collecting debts. We may disclose your personally identifiable information if we reasonably believe we are required to do so by operation of law, which may include, but is not limited to a judicial proceeding, court order, or legal process served on VegWeb.com, Inc. 
+The personally identifiable information we collect from you is used for internet review and to improve the content and functionality of our web server or customize the layout of our pages for each individual member. We will never release your personally identifiable information to an external organization without your prior consent except for the purposes of validating credit information and collecting debts. We may disclose your personally identifiable information if we reasonably believe we are required to do so by operation of law, which may include, but is not limited to a judicial proceeding, court order, or legal process served on VegWeb, LLC 
 
 **How long do you keep the information I've given you?**
 
@@ -112,15 +112,15 @@ In addition, you may notify us if you wish to cease the use of any of your infor
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
 
 **Our policies may change.**  
-By using our web sites, you consent to the collection and use of your information, as described above, by VegWeb.com, Inc. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will extend to any and all information we may collect or may have collected, regardless of whether the policy was different at the time the information was collected.
+By using our web sites, you consent to the collection and use of your information, as described above, by VegWeb, LLC If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will extend to any and all information we may collect or may have collected, regardless of whether the policy was different at the time the information was collected.
 
 **Please contact us with any questions or comments**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with VegWeb, please contact us by email [with this form](http://vegweb.com/index.php?action=contact) or use the following address: 
 
   
-**VegWeb.com, Inc.**  
-P.O. Box 1577  
-Surprise, AZ 85378  
+**VegWeb, LLC**  
+PO Box 320601  
+San Francisco, CA 94132  
 USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
