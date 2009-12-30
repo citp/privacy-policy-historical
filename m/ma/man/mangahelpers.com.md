@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mangahelpers.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220150202id_/http%3A//mangahelpers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangahelpers.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230124044id_/http%3A//mangahelpers.com/privacy-policy) for the most accurate reproduction.*
 
-# MangaHelpers.com - Manga Scanlations, Translations, Downloads, Forums and Community Website
+# Privacy Policy
 
 * * *
 
@@ -56,11 +56,13 @@ Your Personal Information is stored on MangaHelpers computer servers (or those o
 
 Notwithstanding these security measures, please be aware that when you submit Personal Information to the MangaHelpers Sites over the Internet, the information may travel over many systems that are not under the MangaHelpers's control. We take the protection of user data very seriously and to that end take reasonable safeguards to prevent interception of any Personal Information. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 ## Accessing, Correcting and Updating Your Information
 
 You have the ability to review, change and correct the personally identifiable information you provide us. If you are a registered user, you can access, correct or update your account or other Personal Information such as your city or interests, by clicking the "Control panel" link on the MangaHelpers Site on which you are registered. If you are a registered user, you may also request that we remove from our databases the information you provided when you registered with a MangaHelpers Site by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us") If you are not a registered user, but have provided personally identifiable information to us, you may make changes to your personally identifiable information by e-mailing us at [admin@MangaHelpers.com](mailto:admin@MangaHelpers.com "Mail us").
 
-If you have any other questions, comments or complaints about this Policy, write to us at: [admin@MangaHelpers.com](https://web.archive.org/web/20090220150202id_/http%3A//mangahelpers.com/admin@MangaHelpers.com "Mail us").
+If you have any other questions, comments or complaints about this Policy, write to us at: [admin@MangaHelpers.com](https://web.archive.org/web/20091230124044id_/http%3A//mangahelpers.com/admin@MangaHelpers.com "Mail us").
 
 ## Unsubscribe
 
