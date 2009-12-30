@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130043324id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230231502id_/http%3A//performics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
   
 **Scope and Effective Date**  
-This policy is effective 10/15/2007 and covers data collected by the DoubleClick Performics website located at www.performics.com.  It does not cover data collected by Performics’s Connect Commerce website, by other products or services by any client of Google, DoubleClick, Publicis Groupe or Performics.  This site is intended to provide information on the products and services offered by Performics.
+This policy is effective 10/15/2007 and covers data collected by the Performics website located at www.performics.com.  It does not cover data collected by Performics’s Connect Commerce website, by other products or services by any client of Google, DoubleClick, Publicis Groupe or Performics.  This site is intended to provide information on the products and services offered by Performics.
 
 ##  No Personal Data Collected at This Site
 
