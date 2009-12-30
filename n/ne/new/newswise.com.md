@@ -1,114 +1,74 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132029id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232425id_/http%3A//www.newswise.com/privacy) for the most accurate reproduction.*
 
-# Newswise
+# Newswise | Privacy Statement
 
-| 
+Newswise is committed to providing its online users with services and information in an efficient and secure manner. This privacy policy explains what personal information is collected on newswise.com (the “Newswise website”) from users of Newswise’s various online services, how that information is used and what measures Newswise takes to safeguard its users’ privacy.
 
-* * *
+  
+**What personal information is collected on the Newswise website?**
 
-#### Contents:
+When you register, we collect information as needed to provide you with particular services depending on your account type. We may request or require some or all of the following information: name, e-mail address, telephone, media affiliation, organization profile, beat (for journalists) and categories of interest.
 
-  * [History](http://www.newswise.com/about/policy/#history)
-  * [Vision](http://www.newswise.com/about/policy/#vision)
-  * [Business](http://www.newswise.com/about/policy/#business)
-  * [Who is a Journalist?](http://www.newswise.com/about/policy/#journalist)
-  * [Embargoed news](http://www.newswise.com/about/policy/#embargoes)
-  * [Privacy](http://www.newswise.com/about/policy/#privacy)
-  * [Advertising](http://www.newswise.com/about/policy/#advertising)
-  * [Copyright](http://www.newswise.com/about/policy/#copyright)
+In addition, Newswise may provide a secure payment gateway for clients, where billing data may be requested and encrypted. This information is used solely for the processing of the specific purchase and is not used for any other purpose. Newswise’s method of collecting and processing credit card information is PCI-DSS compliant.We do not store credit card information.
 
+  
+**How does Newswise use the information collected on the Newswise website?**
 
+Information about individual users collected on the Newswise websites is used for internal business purposes, including customizing services, contacting members regarding submissions, and responding to requests for information. On occasion, Newswise may use this information to inform you of news, service upgrades or new services or products that may be of particular interest to you.
 
-### History
+Newswise tracks aggregate statistics regarding usage of the website and provides this anonymous information to members, clients, advertisers and for other lawful purposes. We do not provide data on the behavior of specific users.
 
-Newswise was the first online news service for universities and research institutions for knowledge-based news. It was created in 1991 by Roger Johnson, Ph.D., a biochemist who became a science writer and freelance reporter in the Washington, DC, area in 1978. 
+Newswise will not send you unsolicited email. You may subscribe to email Newswires when you register or by editing your account preferences. You may unsubscribe by clicking the “unsubscribe” link at the bottom of any newsletter.
 
-Newswise is the most innovative service of its kind. It introduced the online research-news service concept and first implemented a central resource for high-caliber news, plus provided access to a one-stop, searchable news archive. Newswise was the first to provide reports to its clients on the activity of its releases. It introduced the concepts of Breaking News, Meetings Advance, and other tools for journalists and public information professionals to improve their delivery and management of information. 
+  
+**Does Newswise provide personal information collected on the Newswise website to third parties?**
 
-Newswise expanded to the web in 1996. It is the most comprehensive site for research, or knowledge-based news, with more than 500 leading research institutions participating. 
+Newswise does not sell, trade or rent personal information collected online and will not knowingly disclose any individual personal information to third parties except as follows:
 
-Newswise moved to Charlottesville, Virginia, in 2001. 
+(1) In order to provide you with requested services, Newswise may provide contact or other necessary information to affiliated companies. For example, if you are a journalist and you use the Expert Query service, Newswise may provide your email address and/or phone number to the identified expert in order to facilitate initial contact between you and the expert;
 
-[](http://www.newswise.com/about/policy/#top)
+(2) When disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with the rights (including property rights) or safety of other users or third parties or of Newswise; and
 
-### Vision
+(3) When Newswise reasonably believes that disclosure is required by law or to comply with legal process served on Newswise.
 
-The Newswise vision is to improve the relationship between journalists and public relations professionals by creating online communications and information management tools that decrease the stress of information overload. We believe new online technology provides the opportunity to change the paradigm of media relations by decreasing the invasiveness of information while increasing access. Paradoxically, online technology benefits this relationship-building by improving information management and allowing a noninvasive way of initiating relationships. 
+  
+**How can I change or update the information I provide at the Newswise website?**
 
-Newswise maintains a comprehensive online database of knowledge-based news. It is a one-stop site for reporters to manage information within focused domains. Newswise currently comprises scientific, medical, liberal arts, and business research news, with plans to grow in additional sectors. 
+Newswise offers you the opportunity to change or update your profile information at any time by visiting [http://www.newswise.com](http://www.newswise.com/), logging in, and clicking on “My Account”.
 
-Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 75,000 high-caliber news stories, and each is full-text searchable. 
+For our Newswise newswire digest services, you may unsubscribe at any time by clicking on the “unsubscribe” link on any email received.
 
-Newswise also maintains a complement of other tools for journalists, including online calendars of science and medical meetings, and a database of awards, grants, and fellowships. We also broker and amplify reporters' searches for experts with an Expert Query service; this allows journalists to access experts in science, medicine, liberal arts, and business in a simple way. A variety of new online tools will continue to be added to this kit. 
+  
+**Do the Newswise website use cookies?**
 
-Our goal is to add value to information by creating context and the best delivery system — gathering the information into one location, organizing it, categorizing it by both topic and type, making it searchable, updating it regularly, and providing an email delivery system suited to reporters' desires. This adds value to the information and decreases reporters' need to "browse" or "surf" the web, or to use web-wide search engines that provide too much unselected information, most of which is not news. Newswise puts reporters in the information loop, while allowing them to manage the information. 
+Newswise sends a “cookie” to your computer that contains an identification number that is unique to the computer you are using. We use this cookie to provide you with a continuous experience, and for us to record how our service is being used.
 
-[](http://www.newswise.com/about/policy/#top)
+As is done with most web sites, we log each visit to each web page. A log entry can contain information typically found in the “header” of your web browser’s request such as the browser type you used, your Internet Protocol address, and the date and time of day. We may also log your cookie’s identification number and the URL of the last site you visited. If you are a journalist, your journal affiliations will be noted in the record of hits for an article, and shared with our clients as an aggregated statistic. Statistics for individual journalists’ visits are not shared. Log information is important for security, audit, quality improvement, as well as for monitoring the health and use of our service.
 
-### Business
+Please note that if you click on a link to a third-party website from the Newswise website, the linked-to site may have different policies and practices with regard to cookies and Newswise has no control over and is not responsible for such policies or practices. You should always consult the privacy policy governing any website you visit on the Internet for complete information about their policies and practices.
 
-Newswise is an entrepreneurial business. Reporters receive the service free, and the institutions that provide the information pay a fee far less expensive than mailing or faxing news releases. Newswise develops policies based on suggestions by reporters and participating institutions, and welcomes new ideas. 
+  
+**What security measures does Newswise take to safeguard its online users’ privacy?**
 
-We also serve the public as a comprehensive news resource, providing information directly from the institutions producing the news. This is a public service, and our primary focus is on reporters and the institutions providing the news. 
+Information you submit at a Newswise website upon registration for specific services is password protected so that the only parties who have access to the information besides Newswise and its agents are the member entity and its employees.
 
-[](http://www.newswise.com/about/policy/#top)
+In addition, individual employees of members will receive individual accounts and passwords to use when they log on to submit press releases online.
 
-### Who is a Journalist?
+In order to protect the integrity of the password system, members should refrain from disclosing passwords and immediately change any passwords that may have been compromised.
 
-To have access to certain privileged information on Newswise, a user must provide credentials documenting that he or she is a full-time, professional journalist (not a student, e.g.). 
+Newswise will never ask you for your password by email, so members and their employees should not respond to unsolicited e-mail requests asking for password information even if such requests appear to be from Newswise.
 
-  1. The applicant must: 
-    1. be on the staff of a media outlet (newspaper, magazine, newsletter, television, radio, etc.), which must be a journalism organization. It cannot, for example, be a publication representing a commercial interest, single-source advertising, an advocacy group, or an organization with an agenda that is not transparent when reviewing the publication, **or**
-    2. be a full-time freelancer. The person cannot have a full-time job representing any organization other than a journalism organization. The freelancer cannot represent a group (either on retainer or as a major percentage of his or her income) that creates a conflict of interest. 
+Please be advised that no data transmission over the Internet is 100% secured. Newswise is committed to protecting users’ personal information, but cannot guarantee or warrant the security of this information when it is sent to or through the Newswise website. Transmission of such information is therefore at the risk of the user.
+
+  
+**Usernames and Passwords**
+
+Users may register with [http://www.newswise.com](http://www.newswise.com/). Once usernames and passwords (the “Login Information”) are issued to users (the “Authorized Users”), the Authorized Users accept full responsibility for the use of the Login Information. The Authorized User may not, under any circumstances, release their Login Information to any other person for any reason, and is required to keep the Login Information strictly confidential. If any breach of security, theft or loss, or unauthorized disclosure of the Login Information occurs, the Authorized User must immediately notify Newswise of such security breach.
+
+  
+**Privacy policy updates**
+
+This policy will be updated from time to time as necessary to add new services and functions. Newswise will provide you with notice of any changes or updates to this policy.
+
   
 
-  2. This definition precludes: 
-    1. journalism students, professors, etc.; they are employed by a university or are not full-time, professional journalists. 
-    2. those who work for an advocacy group, even if they write for publications produced by these groups. There are a few exceptions to this exclusion, such as reporters for the news sections of _Science_ magazine and _JAMA_. We will evaluate publications from associations such as these on a case-by-case basis to determine if they meet our criteria of bias-free journalism. 
-  
-
-  3. If an applicant provides false credentials or misleading or misrepresentative information, or does not provide complete or accurate information, and we discover undisclosed conflicts of interest, we will ban that person's participation. 
-
-
-
-[](http://www.newswise.com/about/policy/#top)
-
-### Embargoed News
-
-Journalists are provided an exclusive review of embargoed news as a courtesy to allow them to prepare an article for publication after the embargo date and time. Embargoes should only be used for research results news to be published in an upcoming journal or to be presented at a meeting. In general, the embargo date is the day before the journal publication date or the day and time of the meeting presentation, but there are exceptions, and the embargo date and time should be honored. If there are questions about a printed embargo date, check with the source contact. 
-
-Journalists agree explicitly, when applying for a PressPass, to honor all embargoed news. That is, they agree not to publish or release the information to the public prior to the embargo date and time. 
-
-In return, Newswise and the source agree to make the information available only to journalists under password protection during the embargo period. 
-
-[](http://www.newswise.com/about/policy/#top)
-
-### Privacy
-
-Newswise respects the privacy of its users and is committed to protecting users' personal information. Any information you provide to us is kept in strict confidence and will not be used in ways to which you have not consented. 
-
-We require certain information in order to credential users as members of the news media. Media are granted special privileges — access to the free services we offer, such as wires, PressPasses, and the use of our query service. We verify that all users with privileged access are members of the news media. This requires information and sometimes corroborative evidence, such as clips. We do not sell, rent, loan, give, or trade your name, email address, or any other personally identifiable information to others. 
-
-If you have registered through our online registration system and have subscribed to one or more of Newswise's email wires but do not want to continue receiving such email wire(s) or wish to suspend delivery during a vacation break, you may revise your digest preferences online. After logging in, choose "Edit My Preferences" at the top left of the navigation column, and visit the "Digest Subscriptions" section, where you may make the appropriate selection(s). Press "Submit" to store your changes. 
-
-If at any time you wish to delete your Newswise registration and discontinue receiving services from us, please send an email to [info@newswise.com](mailto:info@newswise.com?subject=Request%20Unsubscribe). 
-
-Newswise employs "cookies" for your convenience and security when logging into our site. A cookie is a small data file that contains a session identification number stored in your browser. This number enables our server to verify that you are an authenticated user and allows you to visit various members-only parts of our site. It also remembers your preferences from page to page, to ensure you the most efficient browsing experience. Cookies do not store any personal data about you and are deleted at the end of each session. 
-
-If you have deactivated "cookies" on your computer, you will **not** be able to log in and will have access only to public areas. 
-
-[](http://www.newswise.com/about/policy/#top)
-
-### Advertising and Style
-
-Newswise does not solicit or accept advertising. We do this to improve your experience. We are committed to a simple, uncluttered, user-friendly, and intuitive design. 
-
-[](http://www.newswise.com/about/policy/#top)
-
-### Copyright
-
-Newswise copyrights the information and format of information on this site. Newswise also protects the copyright of the source of each article. 
-
-Journalists are granted permission to use the information for background and/or as the source for an article. Other re-purposing or redistribution of content on this site is not permitted without prior authorization from Newswise. 
-
-| 
