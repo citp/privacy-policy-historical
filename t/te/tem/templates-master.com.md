@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043721id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230731id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
 
 # * Privacy :: #1 Source for Magento Themes & Magento Templates *
 
 #### You're currently on:
+
+  *     * Natural Grunge Universal Magento Template was successfully added to your shopping cart.
+
+
 
 This privacy statement discloses our practices for the gathering and use of information from visitors to our own Web sites, from people who register for services that we offer online, and from visitors to other sites where we collect information pursuant to our customer contracts.
 
