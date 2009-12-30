@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626064154id_/http%3A//www.brw.com.au/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230135330id_/http%3A//brw.com.au/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - BRW.com.au
 
