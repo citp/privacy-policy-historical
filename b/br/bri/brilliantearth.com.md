@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605051925id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230082530id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
 
 # Brilliant Earth: Security Policy & Privacy Policy
 
@@ -90,18 +90,23 @@ Terms and Conditions
 
 Brilliant Earth offers this site to you under the following conditions. By visiting and/or using this site in any way, such as browsing products or placing an order, you agree to these conditions. These terms and conditions may change with or without notice and are effective immediately upon being posted.
 
-We reserve the right to cancel products or services to any customer for any reason at any time. The customer's sole remedy in such cases will be the full refund of any funds that we have collected in reference to the cancelled products and/or services.
+Brilliant Earth reserves the right to cancel products or services to any customer for any reason at any time. The customer's sole remedy in such cases will be the full refund of any funds that we have collected in reference to the canceled products and/or services.
 
-We attempt to provide current and accurate information on our web sites, email and telephone communications. We do not, however, warrant that this information is correct, accurate or complete.
+Brilliant Earth is committed to providing current and accurate information on our web sites, email, chat, and telephone communications. We do not, however, warrant that this information is always correct, accurate or complete. In rare circumstances, system and typographical errors may occur. We reserve the right to correct any and all errors when they do occur. We do not honor prices listed in error. If an order is placed with a lower product’s listed price than the actual price, we will advise the customer before shipping or cancel the order and notify the customer.
 
-Information that we communicate is not a contract, and should not be treated as such. The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. Please review our [Return Policies](https://web.archive.org/shop-online/#Returns).
+Information that we communicate is not a contract, and should not be treated as such. The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. If an order has been shipped, the customer agrees to return the product for full credit or pay the difference between the actual and charged prices. Please review our Return Policies.
 
-Please review our Privacy Policy, which also governs your visit to this site. All content on our site, including text, icons, graphics, logos, images and software is the property of our company or its affiliates and protected by United States and international copyright laws.
+Brilliant Earth holds a dynamic and high volume inventory. The stock availability on our website is listed “as is” and is subject to change. If a product in an order is out of stock, we will advise the customer immediately with possible options. Products may appear on the Brilliant Earth website larger or smaller than their actual size. Given the variation in computer monitor settings, color and size may vary slightly when viewing product photography. In compliance with industry standards and FTC regulations, carat total weight may vary 0.05 carats from stated weight. Brilliant Earth retains the full unrestricted rights to all jewelry designs, whether custom or standard, and may choose to market or sell jewelry based on such designs.
 
-While we make commercially accepted best efforts to maintain the security of customer transactions, its liability in cases of third party theft or misuse is limited to the funds which we have already collected in reference to the customer's most recent order.
+Product details and prices are subject to change without notice. All of our prices are final and non-negotiable. If you have any questions regarding our policy, please contact our Customer Service line at 1-800-691-0952.
 
-THIS SITE IS PROVIDED ON AN 'AS IS' AND 'AS AVAILABLE' BASIS. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON IT. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK, BY YOUR OWN FREE WILL, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY CONSEQUENCES ARISING FROM THIS USE. WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THIS SITE, ITS SERVERS, OR ITS ELECTRONIC COMMUNCATION ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. WE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.
+Please review our Privacy Policy, which also governs your visit to this site.
+
+All content on our site, including text, icons, graphics, logos, images and software is the property of Brilliant Earth or its affiliates and protected by United States and international copyright laws.
+
+While we make commercially accepted best efforts to maintain the security of customer transactions, our liability in cases of third party theft or misuse is limited to the funds which we have already collected in reference to the customer's most recent order.
+
+THIS SITE IS PROVIDED ON AN 'AS IS' AND 'AS AVAILABLE' BASIS. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON IT. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK, BY YOUR OWN FREE WILL, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY CONSEQUENCES ARISING FROM THIS USE. WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THIS SITE, ITS SERVERS, OR ITS ELECTRONIC COMMUNCATION ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.  
+IN NO EVENT SHALL BRILLIANT EARTH, ITS DIRECTORS, MEMBERS, EMPLOYEES, OR AGENTS BE LIABLE FOR DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.
 
 You agree that the laws of the state of California, without regard to principles of conflict of laws, will govern these and any dispute of any sort that might arise between you and us or our affiliates.
-
-Brilliant Earth retains the full unrestricted rights to all jewelry designs, whether custom or standard, and may choose to market or sell jewelry based on such designs.
