@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listquik.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211104809id_/http%3A//listquik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listquik.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230239id_/http%3A//listquik.com/privacy.php%3FSet4Life) for the most accurate reproduction.*
 
 # ListQUIK - premier list building - instant email list marketing!
 
