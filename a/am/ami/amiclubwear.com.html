@@ -1,41 +1,101 @@
-<!--The following is the downloaded HTML source of the amiclubwear.com privacy policy that was archived on 2009-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531165045id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amiclubwear.com privacy policy that was archived on 2009-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230232155id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script type="text/javascript"> 
- <!-- 
- (new Image).src="http://store.yahoo.net/cgi-bin/refsd?e=http://www.amiclubwear.com/privacypolicy.html&h=www.amiclubwear.com&v=1.0&dr=" + escape(document.referrer); 
- --> 
- </script>
-<title>PRIVACY POLICY at Amiclubwear.com</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>PRIVACY POLICY at Amiclubwear.com</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="y_key" content="26cc9707ef8cdbe9">
 <meta name="revisit-after" content="2 days">
 <meta name="ROBOTS" content="FOLLOW,INDEX">
-<link rel="shortcut icon" href="http://98.129.37.252/stores/Amiclubwear/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://lib.store.yahoo.net/lib/yhst-50958542405417/favicon.ico" type="image/x-icon">
 <link href="http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml" rel="alternate" title="Official Amiclubwear.com RSS Feed" type="application/rss+xml">
-<link href="http://98.129.37.252/stores/Amiclubwear/style.css" type="text/css" rel="stylesheet">
-
-<script src="http://98.129.37.252/stores/Amiclubwear/scripts/bookmark.js" language="javascript1.2" type="text/javascript"></script>
-
-<script type="text/javascript" language="javascript1.2" src="http://98.129.37.252/stores/Amiclubwear/scripts/coockie.js"></script>
+<link href="http://lib.store.yahoo.net/lib/yhst-50958542405417/yd-style.css" type="text/css" rel="stylesheet">
 
 
-<link href="http://98.129.37.252/stores/Amiclubwear/scripts/lightbox.css" rel="stylesheet" type="text/css">
+<script src="http://lib.store.yahoo.net/lib/yhst-50958542405417/bookmark.js" language="javascript1.2" type="text/javascript"></script>
 
-<script type="text/javascript" language="javascript1.2" src="http://98.129.37.252/stores/Amiclubwear/scripts/lightbox.js"></script>
+<script type="text/javascript" language="javascript1.2" src="http://lib.store.yahoo.net/lib/yhst-50958542405417/coockie.js"></script>
 
-<script type="text/javascript" language="javascript1.2" src="http://98.129.37.252/stores/Amiclubwear/scripts/next-prev.js"></script>
 
-</head><body class="index_bg"><div id="fade" class="black_overlay"></div><div id="doc_width"><div id="header"> <a href="index.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/logo.jpg" alt="" class="logo"></a>
+<link href="http://lib.store.yahoo.net/lib/yhst-50958542405417/lightbox.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" language="javascript1.2" src="http://lib.store.yahoo.net/lib/yhst-50958542405417/lightbox.js"></script>
+
+<script type="text/javascript" language="javascript1.2" src="http://lib.store.yahoo.net/lib/yhst-50958542405417/next-prev.js"></script>
+
+<script src="http://lib.store.yahoo.net/lib/yhst-50958542405417/pdMyAccountGlobalScript.js"></script>
+<script type="text/javascript" language="javascript">
+//**********************************************************
+//**************** ADD TO FAVORITES BUTTON *****************
+//**********************************************************
+function addToFavorites(orderForm) {
+	var optionString = '';
+	var optionList = new Array();
+	for(var i=0;i<orderForm.elements.length;i++) {
+		if(orderForm.elements[i].type == "select-one" || String(orderForm.elements[i].name).indexOf("vw-inscription-") > -1) {
+			var option = new Object();
+			option.name = orderForm.elements[i].name;
+			option.value = orderForm.elements[i].value;
+			optionList.push(option);
+		}
+	}
+	for (i = 0; i <= optionList.length - 1; i++) optionString += encodeOptions(optionList[i].name) + "=" + encodeOptions(optionList[i].value) + "&";
+	optionString = optionString.substring(0, optionString.length - 1);	//*** TRIM TRAILING "&"
+	popIt(394,400,0);
+	var myInput = document.createElement("INPUT");
+	myInput.type = "hidden";
+	myInput.name = "product-option-list";
+	myInput.value = optionString;
+	orderForm.appendChild(myInput);
+	var tempAction = orderForm.action;
+	var copiedQueryString = "";
+	var queryStringPosition = tempAction.indexOf("?");
+	if(queryStringPosition > -1) copiedQueryString = tempAction.substring(queryStringPosition, tempAction.length);
+	var tempTarget = orderForm.target;
+	orderForm.action="http://myaccount.amiclubwear.com/favoritesAddItem.php" + copiedQueryString;
+	orderForm.target="popIt";
+	orderForm.submit();
+	orderForm.action = tempAction;
+	orderForm.target = tempTarget;
+	orderForm.removeChild(myInput);
+	return false;
+}
+</script>
+</head><body class="index_bg"><div id="fade" class="black_overlay"></div><div id="doc_width"><div id="header"> <a href="index.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/logo.jpg" alt="" class="logo"></a>
   <div class="header_links">
-    <div class="header_links_row1"> <a href="storepolicy.html">Help</a> <a href="javascript:bookmark();">Bookmark</a> </div>
-    <div class="shopping_cart"> <a href="http://order.store.yahoo.net/cgi-bin/wg-order?yhst-50958542405417">Shopping Cart <span><iframe src="http://lib.store.yahoo.net/lib/yhst-50958542405417/cookieget.html" frameborder="0" height="12" width="30" align="top"></iframe></span></a> </div>
-    <div class="header_links_row2"> Toll Free: <span>(888) 908-1288</span> </div>
+    <table><tbody><tr>
+	<td>
+	<div class="header_links_row1">
+	<a href="storepolicy.html">Help</a> 
+	<a href="javascript:bookmark();">Bookmark</a> 
+	<a href="http://myaccount.amiclubwear.com"><b>My Account</b></a> 
+	</div>
+    </td><td>
+	<div class="shopping_cart"> 
+	<a href="http://order.store.yahoo.net/cgi-bin/wg-order?yhst-50958542405417">Shopping Cart 
+	<span><iframe src="https://lib.store.yahoo.net/lib/yhst-50958542405417/cookieget.html" frameborder="0" height="12" width="30" align="top"></iframe></span>
+	</a> 
+	</div>
+    	</td>
+	</tr></tbody></table>
+
+	<div class="header_links_row2"> 
+	  <table width="302" border="0">
+        <tbody><tr>
+          <td width="296"><div align="right">Toll Free: <span>(888) 908-1288</span></div></td>
+        </tr>
+      </tbody></table>
+    </div>
     <form method="GET" action="http://search.store.yahoo.com/cgi-bin/nsearch">
       <input name="catalog" type="hidden" value="yhst-50958542405417">
       <input name=".autodone" type="hidden" value="http://search.store.yahoo.com/cgi-bin/nsearch?catalog=yhst-50958542405417">
-      <div class="header_links_row3"> Search :
-        <input name="query" type="text" class="search_box">
-        <input type="image" src="http://98.129.37.252/stores/Amiclubwear/images/button_go.jpg" alt="Search" class="go_button">
+      <div class="header_links_row3"> 
+        <table width="303" border="0">
+          <tbody><tr>
+            <td width="297"><div align="right">Search :
+                <input name="query" type="text" class="search_box">
+                <input name="image" type="image" class="go_button" src="http://lib.store.yahoo.net/lib/yhst-50958542405417/button-go.jpg" alt="Search">
+            </div></td>
+          </tr>
+        </tbody></table>
       </div>
     </form>
   </div>
@@ -44,33 +104,35 @@
   <ul>
     <li><a href="index.html">HOME</a></li>
     <li><a href="newproduct.html">JUST IN</a></li>
-    <li><a href="hot.html">WHAT’S HOT</a></li>
+    <li><a href="hot.html">WHAT'S HOT</a></li>
     <li><a href="shoes.html">SHOES</a></li>
     <li><a href="clothing.html">CLOTHING</a></li>
     <li><a href="swimsuit.html">SWIMSUIT</a></li>
     <li><a href="women-accessories.html">ACCESSORY</a></li>
     <li><a href="clothing-intimates.html">INTIMATE</a></li>
     <li><a href="cosmetics.html">COSMETICS</a></li>
-    <li><a href="clothing-dress.html">DRESS</a></li>
-    <li><a href="men.html">MEN</a></li>
+    <li><a href="amiclubwear-gifts-central.html">GIFTS</a></li>
+    <li><a href="costume.html">COSTUME</a></li>
     <li><a href="sale.html">CLEARANCE</a></li>
   </ul>
-</div>
-<div id="content"><div class="top_link_img">
+</div><div id="content"><div class="top_link_img">
         	<div class="fashon_blog">
-            	<a href="celebrity-trend.html"> <img src="http://98.129.37.252/stores/Amiclubwear/images/fashion_blog.jpg" class="img_left"></a>
+            	<a href="hair-products.html"> <img src="http://72.167.41.109/images/hair-pro.jpg" class="img_left"></a>
             </div>
             <div class="free_shipping">
-<a href="amiclubwear-coupon.html">            	<img src="http://98.129.37.252/stores/Amiclubwear/images/free_shipping.jpg" class="img_right"></a>
+<a href="amiclubwear-coupon.html">            	<img src="http://72.167.41.109/images/topbanner-freeshipping2.gif" class="img_right"></a>
             </div>
-        </div><div id="menu_left"><div class="menu_left_title">SELECT CATEGORIES</div><ul>
+        </div>
+
+
+<div id="menu_left"><div class="menu_left_title">SELECT CATEGORIES</div><ul>
   <li><a href="index.html" class="main_category">HOME</a></li>
-  <li> <a href="cheap-flats-shoes-under-10.html"> Flats under $10</a></li>
+  <li> <a href="sweater-dress.html"> Sweater Dress</a></li>
   <li> <a href="cheap-heels-under-15.html"> Heels Under $15</a></li>
-  <li> <a href="cheap-gladiator-sandals.html"> Gladiator Sandals</a></li>
-  <li> <a href="fashion-style-clothing.html"> Sublimation Style</a></li>
-  <li> <a href="bandage-dress.html"> Bandage Dress</a></li>
-  <li> <a href="tattoo-dress.html"> Tattoo Dress</a></li>
+  <li> <a href="bling-bling.html"> Bling Bling Clothing</a></li>
+  <li> <a href="fashion-cheap-boots.html"> Boots Under $19.99</a></li>
+  <li> <a href="sexy-leather-jackets.html"> Leather Jackets</a></li>
+  <li> <a href="fashion-suede-shoes.html"> Suede Shoes</a></li>
 </ul><ul><li><a href="shoes.html" class="main_category">SHOES</a></li>
 <li> <a href="shoes-boots.html" class="leftnav">Boots</a></li>
 <li> <a href="shoes-heels.html" class="leftnav">Heels</a></li>
@@ -90,12 +152,13 @@
 <li> <a href="c-skirt.html" class="leftnav"> Skirt</a></li>
 <li> <a href="clothing-shorts.html" class="leftnav"> Shorts</a></li>
 </ul><ul>
-<li><a href="cosmetics.html" class="main_category">COSMETICS</a></li>
+<li><a href="cosmetics.html" class="main_category">BEAUTY&amp;COSMETICS</a></li>
 <li> <a href="cosmetics-eyelashes.html" class="leftnav"> Eyelashes</a></li>
 <li> <a href="cosmetics-makeup.html" class="leftnav"> Make up</a></li>
+<li> <a href="hair-products.html" class="leftnav"> Hair products</a></li>
+<li> <a href="fashion-wigs.html" class="leftnav"> Wigs</a></li>
 <li> <a href="cosmetics-tools.html" class="leftnav"> Cosmetic tools</a></li>
 
-</ul><ul>
   <li><a href="swimsuit.html" class="main_category">SWIMSUIT</a></li>
   <li> <a href="one-piece-swimsuits.html" class="leftnav">One-Piece</a></li>
   <li> <a href="two-piece-swimsuits.html" class="leftnav">Two-Piece</a></li>
@@ -119,10 +182,9 @@
 <ul><li><a href="women-accessories.html" class="main_category">ACCESSORIES</a> </li>
 <li> <a href="hat.html" class="leftnav"> Hat</a></li>
 <li> <a href="belt.html" class="leftnav"> Belt</a></li>
-<li> <a href="earrings.html" class="leftnav"> Earrings</a></li>
-<li> <a href="braces.html" class="leftnav"> Suspenders</a></li>
-<li> <a href="scarves.html" class="leftnav"> Scarves</a></li>
 <li> <a href="sunglasses.html" class="leftnav"> Sunglasses</a></li>
+<li> <a href="earrings.html" class="leftnav"> Earrings</a></li>
+<li> <a href="scarves.html" class="leftnav"> Scarves</a></li>
 <li> <a href="watch.html" class="leftnav"> Watch</a></li>
 <li> <a href="necklace.html" class="leftnav"> Necklace</a></li>
 <li> <a href="ring.html" class="leftnav"> Ring</a></li>
@@ -130,9 +192,6 @@
 <li> <a href="tiara.html" class="leftnav"> Tiara</a></li>
 <li> <a href="hair.html" class="leftnav"> Hair</a></li>
 <li> <a href="handbags.html" class="leftnav"> Handbags</a></li>
-<li> <a href="gloves.html" class="leftnav"> Gloves</a></li>
-<li> <a href="slippers.html" class="leftnav"> Slippers</a></li>
-<li> <a href="cell-phones.html" class="leftnav"> Cell Phone</a></li>
 <li> <a href="accessory-set.html" class="leftnav"> Accessory set</a></li>
 </ul><ul>
   <li><a href="sale.html" class="main_category">CLEARANCE</a></li>
@@ -140,27 +199,27 @@
   <li> <a href="shoes-sale.html" class="leftnav">Shoes</a></li>
   <li> <a href="accessories-sale.html" class="leftnav">Accessories</a></li>
 </ul>
-<div class="menu_left_title">SELECT BRAND</div><ul><li><a href="anne-michelle.html">Anne Michelle</a></li><li><a href="delicious.html">Delicious</a></li><li><a href="gomax.html">G.O Max</a></li><li><a href="leg-avenue.html">Leg Avenue</a></li><li><a href="michael-antonio.html">Michael Antonio</a></li><li><a href="qupid.html">Qupid</a></li><li><a href="soda-shoes.html">Soda</a></li><li><a href="wild-rose-shoes.html">Wild Rose</a></li><li><a href="wild-diva.html">Wild Diva</a></li><li><a href="envy-fashion.html">Envy</a></li><li><a href="splash-shoes.html">Splash</a></li><li><a href="bamboo-shoes.html">Bamboo</a></li><li><a href="spot-on.html">Spot On</a></li><li><a href="miss-me.html">Miss Me</a></li><li><a href="celeste-shoes.html">Celeste</a></li><li><a href="bumper.html">Bumper</a></li><li><a href="breckelles.html">Breckelle's</a></li></ul><div class="menu_left_title">CHOOSE COLOR</div><div class="color_box_display"><ul class="color">
-                	<li><a href="black-style.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/black.jpg" alt=""></a></li>
-                    <li><a href="white.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/white.jpg" alt=""></a></li>
-                    <li><a href="yellow.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/yellow.jpg" alt=""></a></li>
-                    <li><a href="pink.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/pink.jpg" alt=""></a></li>
-                    <li><a href="red.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/red.jpg" alt=""></a></li>
-                    <li><a href="blue.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/blue.jpg" alt=""></a></li>
-                    <li><a href="green-style.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/green.jpg" alt=""></a></li>
-                    <li><a href="silver.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/sliver.jpg" alt=""></a></li>
-                    <li><a href="gold.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/g_yellow.jpg" alt=""></a></li>
-                    <li><a href="gray.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/d_sliver.jpg" alt=""></a></li>
-                    <li><a href="brown.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/brown.jpg" alt=""></a></li>
-                    <li><a href="tan.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/l_brown.jpg" alt=""></a></li>
+<div class="menu_left_title">SELECT BRAND</div><ul><li><a href="anne-michelle.html">Anne Michelle</a></li><li><a href="delicious.html">Delicious</a></li><li><a href="gomax.html">G.O Max</a></li><li><a href="ymi-jeanswear.html">YMI Jeanswear</a></li><li><a href="seven-til-midnight.html">Seven 'til Midnight</a></li><li><a href="leg-avenue.html">Leg Avenue</a></li><li><a href="playboy-clothing.html">Playboy</a></li><li><a href="michael-antonio.html">Michael Antonio</a></li><li><a href="qupid.html">Qupid</a></li><li><a href="soda-shoes.html">Soda</a></li><li><a href="wild-rose-shoes.html">Wild Rose</a></li><li><a href="wild-diva.html">Wild Diva</a></li><li><a href="envy-fashion.html">Envy</a></li><li><a href="splash-shoes.html">Splash</a></li><li><a href="bamboo-shoes.html">Bamboo</a></li><li><a href="spot-on.html">Spot On</a></li><li><a href="miss-me.html">Miss Me</a></li><li><a href="celeste-shoes.html">Celeste</a></li><li><a href="bumper.html">Bumper</a></li><li><a href="breckelles.html">Breckelle's</a></li></ul><div class="menu_left_title">CHOOSE COLOR</div><div class="color_box_display"><ul class="color">
+                	<li><a href="black-style.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/black.jpg" alt=""></a></li>
+                    <li><a href="white.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/white.jpg" alt=""></a></li>
+                    <li><a href="yellow.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/yellow.jpg" alt=""></a></li>
+                    <li><a href="pink.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/pink.jpg" alt=""></a></li>
+                    <li><a href="red.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/red.jpg" alt=""></a></li>
+                    <li><a href="blue.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/blue.jpg" alt=""></a></li>
+                    <li><a href="green-style.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/green.jpg" alt=""></a></li>
+                    <li><a href="silver.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/sliver.jpg" alt=""></a></li>
+                    <li><a href="gold.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/g-yellow.jpg" alt=""></a></li>
+                    <li><a href="gray.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/d-sliver.jpg" alt=""></a></li>
+                    <li><a href="brown.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/brown.jpg" alt=""></a></li>
+                    <li><a href="tan.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/l-brown.jpg" alt=""></a></li>
 
-                    <li><a href="purple.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/purple.jpg" alt=""></a></li>
-                    <li><a href="orange.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/orange.jpg" alt=""></a></li>
-                    <li><a href="beige.html"><img src="http://98.129.37.252/stores/Amiclubwear/images/l_green.jpg" alt=""></a></li>
+                    <li><a href="purple.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/purple.jpg" alt=""></a></li>
+                    <li><a href="orange.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/orange.jpg" alt=""></a></li>
+                    <li><a href="beige.html"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/l-green.jpg" alt=""></a></li>
 
 
                     	
-                </ul></div></div><div class="content_body"><div class="featured_product"><div class="featured_product_title">PRIVACY POLICY</div></div><div class="static_text"><div class="static_text">
+                </ul></div></div><div class="content_body"><div class="featured_product"><div class="featured_product_title">PRIVACY POLICY</div></div><div class="static_text">
                   	<p>This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.</p>
                     <p><span>Your privacy is important to us.</span></p>
                     <p>To better protect your privacy, we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage.</p>
@@ -177,7 +236,7 @@
                     <p>Except as otherwise stated in this Policy, at present Amiclubwear.com does not disclose its customers' Personally Identifiable Information to other merchants.</p>
                     <p>Occasionally Amiclubwear.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. Amiclubwear.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.</p>
                     <p>At Amiclubwear.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect the information using advanced firewall technology.</p>
-                 </div></div></div><div class="bottom_box"><div class="bottom_box_title"><div class="bottom_pt1_title">SELECT CELEBRITY</div><div class="bottom_pt2_title">SELECT STYLE</div><div class="newsletter_title"><img src="http://98.129.37.252/stores/Amiclubwear/images/newsletter.jpg" alt="Newsletter" class="img_left">&nbsp;FREE NEWSLETTER</div></div><div class="bottom_box_bg"><div class="bottom_pt1">
+                 </div></div><div class="bottom_box"><div class="bottom_box_title"><div class="bottom_pt1_title">SELECT CELEBRITY</div><div class="bottom_pt2_title">SELECT STYLE</div><div class="newsletter_title"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/newsletter.jpg" alt="Newsletter" class="img_left">&nbsp;FREE NEWSLETTER</div></div><div class="bottom_box_bg"><div class="bottom_pt1">
 <ul>
 <li> <a href="ashley-olsen-fashion.html" class="bottomnav">Ashley Olsen</a> </li>
 <li> <a href="ashlee-simpson.html" class="bottomnav">Ashlee Simpson</a></li>
@@ -210,14 +269,18 @@
 <li> <a href="victoria-beckham.html" class="bottomnav">Victoria Beckham</a> </li>
 </ul>
 </div><div class="bottom_pt2"><ul><li><a href="shoes-boots.html">Boots</a></li><li><a href="shoes-heels.html">Heels</a></li><li><a href="shoes-casual-flats.html">Flats</a></li><li><a href="shoes-sandals.html">Sandals</a></li><li><a href="shoes-wedges.html">Wedges shoes</a></li><li><a href="clothing-dress.html">Dress</a></li></ul><ul><li><a href="clothing-shirts.html">Shirts</a></li><li><a href="c-outerwear.html">Outerwear</a></li><li><a href="clothing-outfit.html">Outfit</a></li><li><a href="clothing-pants.html">Pants</a></li><li><a href="c-skirt.html">Skirt</a></li><li><a href="c-sweater.html">Sweater</a></li></ul><ul><li><a href="cosmetics.html">Cosmetics</a></li><li><a href="swimsuit.html">Swimsuit</a></li><li><a href="costume.html">Costume</a></li><li><a href="clothing-hosiery.html">Hosiery</a></li><li><a href="women-accessories.html">Women's Accessories</a></li></ul></div><div class="newsletter">
- <form action="http://service.amiclubwear.com/newsletter/register.asp?register=Yes" method="post" name="register" id="register">
+<form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post">
+    
+                Email address: <br>
 
-                	<p><input type="text" name="emailname" class="newsletter_text" onclick="value=('');"></p>
-                    <div class="newsletter_button">
-                      <input name="imageField" alt="Newsletter" type="image" src="http://98.129.37.252/stores/Amiclubwear/images/subscribe.jpg" class="img_right">                    </div>
-                  <span>*We never share your E-mail address with anyone!</span>
-			</form>	  
-                </div><div class="bottom_pt3"><a href="amiclubwear-coupon.html">Follow us On<img src="http://98.129.37.252/stores/Amiclubwear/images/twitter.jpg" alt="Twitter"><br>&amp; <img src="http://98.129.37.252/stores/Amiclubwear/images/myspace.jpg" alt="Myspace"></a></div></div></div></div><div class="footer">
+                <input type="text" name="ea" size="10" value="" class="newsletter_text">
+<div class="newsletter_button"><input type="image" title="subscribe" alt="subscribe" src="http://lib.store.yahoo.net/lib/yhst-50958542405417/subscribe.jpg" class="img_right" name="go" align="left"></div>
+<input type="hidden" name="m" value="1102381865884">
+<input type="hidden" name="p" value="oi">
+</form>
+<br>
+<span>*Sign up to be one of our email subscribers and enjoy Exclusive deals, new arrival info and much more! We never share your E-mail address with anyone! </span>
+</div><div class="bottom_pt3"><a href="amiclubwear-coupon.html">Follow us On<img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/twitter.jpg" alt="Twitter"><br>&amp; <img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/myspace.jpg" alt="Myspace"></a></div></div></div></div><div class="footer">
   <ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="aboutami.html">About us</a></li>
@@ -229,42 +292,44 @@
     <li><a href="privacypolicy.html">Privacy Policy</a></li>
     <li><a href="storepolicy.html">Store Policy</a></li>
     <li><a href="partner-links.html">Partner Links</a></li>
+    <li><a href="joinmail.html">Join Us</a></li>
     <li><a href="press.html">Press</a></li>
     <li style="border:none;"><a href="chart-size.html">Size Chart</a></li>
   </ul>
 </div>
 <div class="footer_row1"><a href="http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml">Everyday Hot Deals and Just In</a>
 
-<a href="http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://98.129.37.252/stores/Amiclubwear/images/xml.jpg" alt="XML"></a> 
+<a href="http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/xml.jpg" alt="XML"></a> 
 
-<a href="http://fusion.google.com/add?feedurl=http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://98.129.37.252/stores/Amiclubwear/images/google.jpg" alt="Google"></a>
+<a href="http://fusion.google.com/add?feedurl=http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/google.jpg" alt="Google"></a>
 
-<a href="http://add.my.yahoo.com/rss?url=http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://98.129.37.252/stores/Amiclubwear/images/yahoo.jpg" alt="Yahoo"></a>
+<a href="http://add.my.yahoo.com/rss?url=http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/yahoo.jpg" alt="Yahoo"></a>
 
-<a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://98.129.37.252/stores/Amiclubwear/images/msn.jpg" alt="My MSN"></a>
+<a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/msn.jpg" alt="My MSN"></a>
 
-<a href="http://del.icio.us/post?url=http://www.amiclubwear.com&amp;title=Amiclubwear.com:%20Shoes,%20Clothing,%20Sexy%20Dresses,%20Swimsuit,%20Costume,%20and%20Women%27s%20Accessories"><img src="http://98.129.37.252/stores/Amiclubwear/images/del.jpg" alt="delicious"></a> 
+<a href="http://del.icio.us/post?url=http://www.amiclubwear.com&amp;title=Amiclubwear.com:%20Shoes,%20Clothing,%20Sexy%20Dresses,%20Swimsuit,%20Costume,%20and%20Women%27s%20Accessories"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/del.jpg" alt="delicious"></a> 
  
-<a href="http://www.bloglines.com/sub/http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://98.129.37.252/stores/Amiclubwear/images/sub.jpg" alt="blogline"></a> </div>
+<a href="http://www.bloglines.com/sub/http://lib.store.yahoo.net/lib/yhst-50958542405417/Amiclubwear.xml"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/sub.jpg" alt="blogline"></a> </div>
 <div class="footer_row2"> 
 
-<img src="http://98.129.37.252/stores/Amiclubwear/images/visa.jpg" alt="Visa"> <img src="http://98.129.37.252/stores/Amiclubwear/images/master_card.jpg" alt="Mastercard">
+<img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/visa.jpg" alt="Visa"> <img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/master-card.jpg" alt="Mastercard">
 
-<img src="http://98.129.37.252/stores/Amiclubwear/images/card3.jpg" alt="cart">
+<img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/card3.jpg" alt="cart">
 
-<img src="http://98.129.37.252/stores/Amiclubwear/images/card4.jpg" alt="American"><img src="http://98.129.37.252/stores/Amiclubwear/images/paypal.jpg" alt="paypal">
+<img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/card4.jpg" alt="American"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/paypal.jpg" alt="paypal">
+
+<a href="http://www.la.bbb.org/BusinessReport.aspx?CompanyID=100041237"><img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/logo-BBB.gif" alt="BBB Reliability Sale" border="0"></a>
  
-<img src="http://98.129.37.252/stores/Amiclubwear/images/secure_shopping.jpg" alt="Secure-shopping"> </div>
+<img src="http://lib.store.yahoo.net/lib/yhst-50958542405417/secure-shopping.jpg" alt="Secure-shopping"></div>
 <div class="footer_row3">
-  <p>Copyright 2009. AMI clubwear All right reserved.</p>
-  <span>Yahoo Store Designed and Developed by <a href="http://www.ydeveloper.com" target="_blank">Ydeveloper.com</a> <a href="http://www.kaushalam.com" target="_blank"> (A Kaushalam Company) </a></span> </div>
+     Copyright 2009. AMI clubwear All right reserved.    
+</div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-2800893-1";
 urchinTracker();
-</script>
-</div>
+</script></div>
 <script type="text/javascript">
 csell_env = 'mud';
 </script>
@@ -284,7 +349,7 @@ function analytics_BEACON() {  YWATracker.submit(); }
 analytics_BEACON(); </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
- </script><script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/ult/ylc_1.9.js"></script><script type="text/javascript" src="http://us.js2.yimg.com/us.yimg.com/lib/smbiz/store/csell/js/beacon-1.3.6.4.js">
+ </script><script type="text/javascript" src="http://l.yimg.com/a/ult/ylc_1.9.js"></script><script type="text/javascript" src="http://l.yimg.com/a/lib/smbiz/store/csell/js/beacon-1.3.6.4.js">
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
@@ -300,18 +365,6 @@ function csell_REC_VIEW_TAG() {  var env = (typeof csell_env == 'string')?csell_
 </script>
 <script type="text/javascript">
 // Begin Y! Store Generated Code
-var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_WS_URL'] = ''; csell_token_map['TOK_SHOW_CS_RECS'] = 'false'; csell_token_map['TOK_CURR_SYM'] = '$';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS'];</script><script type="text/javascript" src="http://l.yimg.com/a/lib/smbiz/store/csell/js/recs-1.3.2.2.js"></script><script type="text/javascript">
+var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_WS_URL'] = 'http://yhst-50958542405417.csell.store.yahoo.net/cs/recommend?itemids=privacypolicy&location=p'; csell_token_map['TOK_SHOW_CS_RECS'] = 'true'; csell_token_map['TOK_CURR_SYM'] = '$';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS'];</script><script type="text/javascript" src="http://l.yimg.com/a/lib/smbiz/store/csell/js/recs-1.3.2.2.js"></script><script type="text/javascript">
 </script>
-<script type="text/javascript"> 
- <!-- 
- if (document.referrer && (document.referrer!='') && window.Image) 
- { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4a22b691&catalog=yhst-50958542405417&r=" + escape(document.referrer) + "&v=1"; }
- // --> 
- </script><script type="text/javascript"> 
- <!-- 
- if (document.referrer && (document.referrer!='') && window.Image) 
- { 
- (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=4a22b691&catalog=yhst-50958542405417&r=" + escape(document.referrer) + "&v=3"; }
- // --> 
- </script></body></html>
+</body></html>
