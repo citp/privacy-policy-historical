@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsplayground.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010201758id_/http%3A//www.lyricsplayground.com/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsplayground.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232141id_/http%3A//lyricsplayground.com/notice.html) for the most accurate reproduction.*
 
 # NOTICES, INFORMATION and AGREEMENTS
 
@@ -25,6 +25,12 @@ Our web servers automatically collect limited information about your computer co
 _Information Collected By Third Parties_
 
 We may use a third-party advertising company to serve ads when you visit our website. Advertiser does not use your name, address, email address, or phone number to deliver Internet ads. Advertiser does use information about your browser and Web surfing to determine which ads to show you. 
+
+_Google Advertising Cookie and Privacy Policies_
+
+What is the DoubleClick DART cookie? 
+
+The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on International Lyrics Playground displaying AdSense for content ads. When users visit International Lyrics Playground and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers (International Lyrics Playground) better serve and manage the ads on their site(s) and across the web. Users / viewers may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 * * *
 
