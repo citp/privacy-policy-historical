@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the cardboardfish.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601074051id_/http%3A//www.cardboardfish.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboardfish.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230042712id_/http%3A//www.cardboardfish.com/privacypolicy.html) for the most accurate reproduction.*
 
 # CardBoardFish SMS Text Messaging Solutions: Privacy Policy
 
-CardBoardFish Privacy Statement
-
-In this privacy statement, CardBoardFish has disclosed how it uses and treats all data on the following websites:
-
-  
-  
-
+[www.cardboardfish.com (CardBoardFish)](http://www.cardboardfish.com/)  
+[www.cbfsms.com (CBFSMS)](http://www.cbfsms.com/)  
+[www.cbfmail.com (CBFMail)](http://www.cbfmail.com/)  
+[www.cbfserver.com (CBFServer)](http://www.cbfserver.com/)
 
 You can find contact information for CardBoardFish at the end of this document. Please use it if you are unsure about any of the items contained herein, we will be more than happy to help resolve your query. CardBoardFish is registered with and complies with the Data Protection Act of 1998. 
 
@@ -169,6 +166,8 @@ Contact Information
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 CardBoardFish, First Floor, Saxon House, John Roberts Business Park, Whitstable CT5 3BJ.
+
+[http://www.cardboardfish.com/contact](http://www.cardboardfish.com/contact/index.html)
 
 Your query will be dealt with quickly. If sending a letter please include a return address, contact telephone number, and CBFMail account name/alternative email address.
 
