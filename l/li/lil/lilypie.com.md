@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175742id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222824id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie - Privacy Policy
 
 **OVERVIEW**  
-In this Privacy Policy, "us", "we" or "our" means Lilypie.com (ABN 72 866 880 115). Lilypie.com allows you to receive newsletters, email link to a friend, send feedback and use the Lilypie Pet ticker. We use the information that we collect about you to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. 
+In this Privacy Policy, "us", "we" or "our" means Lilypie.com (ABN 85 889 855 062). Lilypie.com allows you to receive newsletters, send feedback and use the Lilypie tickers. We use the information that we collect about you to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. 
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. We encourage you to ask questions and to be very cautious before you disclose your personal information to others. 
 
@@ -30,7 +30,7 @@ We review the actions of the Lilypie.com visitors on an aggregate basis to deter
 We gather information in the following ways: 
 
     1. **Lilypie account**  
-If you decide to create a Lilypie account through our site we will collect and use your email address and password. This information is subject to the terms of this Privacy Policy except as explained here.
+If you decide to create a 'My Lilypie' account through our site we will collect and use your email address and password. This information is subject to the terms of this Privacy Policy except as explained here.
     2. **Newsletter**  
 If you sign up for the free newsletter, we will send you newsletters periodically to let you know what is new on the site.
     3. **Contact Information**  
