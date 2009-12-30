@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623111150id_/http%3A//www.yesmail.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230190043id_/http%3A//www.yesmail.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Yesmail - Permission-Based Email Marketing
 
@@ -24,6 +24,10 @@ Cookies do not identify you personally. Unless you elect to identify yourself to
 
 The Site may contain links to other websites for which the Provider is not responsible and has no control. Customers and visitors are advised to read the privacy statements of all websites they visit. It is the responsibility of the User or customer to keep personal information private and confidential.
 
+### Safe Harbor Privacy Notice
+
+Yesmail adheres to the U.S. Department of Commerce Safe Harbor Privacy Framework Agreement with the European Union. This participation was made possible through the safe harbor self-certification process. Yesmail’s adherences to this agreement allow our European customers to safely transmit data between the European Union and the United States.
+
 ### Security Policy & User Responsibilities
 
 All data and information on this Site and delivered through this Site is the sole property of the Provider. UNDER NO CONDITION DOES ANY USER OR CUSTOMER GAIN TITLE TO THE DATA AND INFORMATION PROVIDED THROUGH THIS SITE. NO CUSTOMER OR USER MAY TRANSFER, DISTRIBUTE, SUBLICENSE, SELL, DISSEMINATE OR MAKE AVAILABLE ANY OF THE DATA OR INFORMATION FROM THIS SITE WITHOUT THE EXPRESS CONSENT OF THE PROVIDER.
@@ -40,4 +44,4 @@ All information, data and additional Service provided through this Site is provi
 
 We want our customers and Users to choose how their information may be used. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to [product.support@infousa.com](mailto:product.support@infousa.com). Those customers and Users that wish to update their personal information may do so by contacting [product.support@infousa.com](mailto:product.support@infousa.com). By keeping your information current, we will be able to extend future offers and services and we will be able to facilitate offers from preferred parties. Questions regarding this Statement or the practices of this Site should be directed to [product.support@infousa.com](mailto:product.support@infousa.com) or by regular mail addressed to infoUSA, inc., Attn: Product Support, 5711 South 86th Circle, Omaha, NE 68127.
 
-Last Updated: June 22, 2007
+Last Updated: September 17, 2009
