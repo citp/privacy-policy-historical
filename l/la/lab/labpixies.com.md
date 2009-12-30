@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labpixies.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629034034id_/http%3A//www.labpixies.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labpixies.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230122528id_/http%3A//www.labpixies.com/site/privacy_policy) for the most accurate reproduction.*
 
 # LabPixies - Privacy Policy
 
@@ -6,7 +6,7 @@ This site is owned and operated by LabPixies LTD. Your privacy on the Internet i
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-**INFORMATION LabPixies GATHERS AND TRACKS**
+INFORMATION LabPixies GATHERS AND TRACKS
 
 **LabPixies gathers two types of information about users:**
 
