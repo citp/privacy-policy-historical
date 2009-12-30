@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joined.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192522id_/http%3A//www.joined.com/index.php/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joined.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230115304id_/http%3A//www.joined.com/index.php/about/privacy_policy) for the most accurate reproduction.*
 
-# Professional Profile, Professional Networking | Joined.com
+# Professional Profile | Joined.com
 
 **Joined Software Solutions Inc.’s Privacy Policy**
 
