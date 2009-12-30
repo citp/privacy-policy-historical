@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312065751id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230052615id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
 
 # Privacy at theKidzpage.com
 
   
-**[_Navigation_](https://web.archive.org/web/20090312065751id_/http%3A//www.thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20090312065751id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
+**Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20091230052615id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
 **[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
 
 Security | Removing/Changing Information | Children's Guidelines | Contacting the Site | Copyright Information
@@ -22,7 +22,15 @@ This site contains advertising links to other sites. **theKidzpage™** is not r
 
 Our online surveys request a visitor's demographic information (like their age-group). We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://media.valueclick.com/privacy_consumer.shtml>
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+The third-party advertising technology that Doubleclick uses on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, Doubleclick advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, Doubleclick uses Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable Doubleclick to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please click here. http://www.doubleclick.com/privacy/index.aspx.
+
+We have also contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://media.valueclick.com/privacy_consumer.shtml>
 
 back to top
 
@@ -79,7 +87,7 @@ back to top
 
 ## Copyright
 
-Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users_ **ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. (c)1998-2006, **theKidzpage™** and **divaDzine**.
+Although we may provide certain graphics, which _may_ be copied by our users, (i.e. The Kidz Page banners), materials which are _not specifically identified as available to users_ **ARE NOT** available to anyone without our permission. All of the graphical and written content on **theKidzpage™** site are original pieces of artwork and writing, developed (under copyright) by our webmaster. ©1998-2009, **theKidzpage™** and **divaDzine**.
 
 We hope that our contribution to kids' Internet experiences is a valuable one, and that you and your family enjoy this site.
 
