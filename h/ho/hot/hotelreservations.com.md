@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelreservations.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622111214id_/http%3A//www.hotelreservations.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelreservations.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222630id_/http%3A//www.hotelreservations.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Hotel Reservations - User Agreement
 
