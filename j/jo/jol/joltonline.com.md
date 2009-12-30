@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the joltonline.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227115940id_/http%3A//www.joltonline.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joltonline.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230122309id_/http%3A//www.joltonline.com/privacy_policy) for the most accurate reproduction.*
 
-# Jolt Online
+# Jolt
 
-Jolt Online Gaming has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for websites owned by our parent company, OMAC Global Media Limited ("OMAC Industries", more information available at www.omacindustries.com). 
+## LATEST NEWS FROM  
+JOLT ONLINE BLOG
+
+## Jolt Online Gaming has created this privacy statement in order to demonstrate our commitment to privacy.
+
+The following discloses our information gathering and dissemination practices for websites owned by our parent company, OMAC Global Media Limited ("OMAC Industries", more information available at www.omacindustries.com).
 
 **Information Collected**  
 In general, you can visit the our websites without providing personal information, but there are times when we will request personal information (such as contact information). In some situations, you may be required to provide personal information in order to participate in our site's activities and offerings. Information is typically requested when you wish to subscribe to online services or participate in one of our online communities. You may not provide false registration information about yourself.
@@ -19,12 +24,12 @@ Our sites make forums, message boards and/or newsgroups available to its users. 
 When you provide us with your contact information, you may opt-out of receiving communications from us. You may also be removed from receiving email information about OMAC Industries at any time by sending an email with your name and email address to goaway [at] omacindustries.com.
 
 **Privacy of Other Sites**  
-OMAC Industries’s web site may contain links to other sites whose privacy and information practices may be different than ours. You should consult the other sites' privacy notices. OMAC Industries is not responsible for the content or privacy policies of other sites.
+OMAC Industries?s web site may contain links to other sites whose privacy and information practices may be different than ours. You should consult the other sites' privacy notices. OMAC Industries is not responsible for the content or privacy policies of other sites.
 
 **Security**  
 We use physical, electronic, and managerial procedures to help safeguard the information we collect from you online. We urge you to take precautions to protect your personal data when you are on the Internet. Change your passwords often and make sure you use a secure browser.
 
-**Correcting Information/ Contacting the Web Site**  
+**Correcting Information/Contacting the Web Site**  
 If you wish to correct any information you have provided to us or if you have any questions about this privacy statement, the practices of this site, or your dealings with our web site, you can contact info [at] omacindustries.com.
 
 This privacy policy is subject to change without notice. Last edited Dec 23rd 2008
