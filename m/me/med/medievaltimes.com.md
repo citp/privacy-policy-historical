@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medievaltimes.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228135151id_/http%3A//www.medievaltimes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medievaltimes.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233751id_/http%3A//www.medievaltimes.com/privacy.php) for the most accurate reproduction.*
 
 # Medieval Times - Privacy Policy
 
