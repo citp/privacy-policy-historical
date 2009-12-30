@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usingmac.com privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508180151id_/http%3A//www.usingmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingmac.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040922id_/http%3A//usingmac.com/privacy-policy) for the most accurate reproduction.*
 
-# UsingMac - Privacy Policy
+# UsingMac.com - Mac Tricks and Tips, Wallpapers and Applications for Mac Users
+
+## [Privacy Policy](https://web.archive.org/2008/3/24/privacy-policy)
 
 The privacy of our visitors to **usingmac.com** is important to us. 
 
@@ -19,3 +21,8 @@ We also use third party advertisements on **usingmac.com** to support our site. 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 usingmac.com 
+
+Categories: [Privacy Policy](https://web.archive.org/privacy-policy)   
+Tags: 
+
+[Read More](https://web.archive.org/2008/3/24/privacy-policy) [Leave a Comment (0)](https://web.archive.org/2008/3/24/privacy-policy#comment)
