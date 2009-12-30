@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefilter.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420121241id_/http%3A//www.thefilter.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilter.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233336id_/http%3A//thefilter.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | The Filter
 
