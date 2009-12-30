@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202023733id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223609id_/http%3A//www.wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Wyoming Webdesign Privacy Policy
 
@@ -7,12 +7,12 @@ Wyoming Webdesign Privacy Policy
 This website is a division of **Kweb Media Services**.
 
 Our postal address is:   
-**3339 SE Girard Street  
-Topeka, KS, 66605**
+**723 SW Clay Street  
+Topeka, KS, 66606**
 
 We can be reached via e-mail at: [info@kwebmedia.com](mailto:info@kwebmedia.com). 
 
-You can reach us by telephone at: **(785) 266-4014** or **(785) 608-5603**.   
+You can reach us by telephone at: **(785) 266-2129** or **(785) 608-5603**.   
 
 
 For each visitor to our website, our server automatically recognizes only the consumer's domain name, but not their e-mail address.
@@ -32,7 +32,6 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
 [google.com](http://www.google.com/intl/en/privacy.html)  
-[boxedart.com](http://www.boxedart.com/cgi-bin/affiliates/clickthru.cgi?id=wyweb)  
 [templatemonster.com](http://store.templatemonster.com/?aff=wyweb)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
