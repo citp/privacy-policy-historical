@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrobix.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626070231id_/http%3A//astrobix.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrobix.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230234938id_/http%3A//astrobix.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
 # Astrobix.com | Privacy Policy
 
