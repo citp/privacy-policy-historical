@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529050209id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223524id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ For modifying or removing user information from our database, PoliceAuctions.com
 
 2\. Users can send email to [support@PoliceAuctions.com](mailto:support@policeauctions.com)
 
-3\. Users can send mail to the following postal address:10061 Talbert Ave. #204, Fountain Valley, CA 92708
+3\. Users can send mail to the following postal address: 3182 Pullman St., Costa Mesa, CA 92626
 
 **What about changes in PoliceAuctions.com's Privacy Policy?**
 
@@ -74,6 +74,6 @@ For any questions about this privacy statement, the practices of this site, or y
 
 1\. By e-mail [support@PoliceAuctions.com](mailto:support@policeauctions.com)
 
-2\. By Phone 1-714-963-4900
+2\. By Phone 877-677-3040
 
-3\. By snail mail: 10061 Talbert Ave., #204, Fountain Valley, CA 92708 
+3\. By snail mail: 3182 Pullman St., Costa Mesa, CA 92626 
