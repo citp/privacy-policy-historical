@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191737id_/http%3A//pinpointe.com/product-details/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230122418id_/http%3A//www.pinpointe.com/product-details/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pinpointe Email Marketing
 
@@ -24,13 +24,13 @@ We do not hold your lists hostage. You may export (download) your lists from Pin
 
 These are the types of emails you can expect to receive from Pinpointe if you sign up for our services.
 
-Email Receipts - When you use your credit card to place an order with Pinpointe, you will naturally be receiving an email receipt for your purchase.
+Email Receipts – When you use your credit card to place an order with Pinpointe, you will naturally be receiving an email receipt for your purchase.
 
-Terminating your account - If you have not logged into Pinpointe’s system for 6 months, your account is considered “dormant.” To keep our system clean, we periodically send follow-up emails to dormant accounts with a link allowing them to permanently shut down their accounts.
+Terminating your account – If you have not logged into Pinpointe’s system for 6 months, your account is considered “dormant.” To keep our system clean, we periodically send follow-up emails to dormant accounts with a link allowing them to permanently shut down their accounts.
 
-System Alerts - All registered, active (non-dormant), Pinpointe user accounts may receive mandatory “System Alert” messages which usually consist of: planned outages, system improvements (that may directly affect your account), version updates, point releases, abuse warnings, and important customer service information. Our “System Alert” messages are brief and non-promotional in nature. We promise to keep them as boring as possible.
+System Alerts – All registered, active (non-dormant), Pinpointe user accounts may receive mandatory “System Alert” messages which usually consist of: planned outages, system improvements (that may directly affect your account), version updates, point releases, abuse warnings, and important customer service information. Our “System Alert” messages are brief and non-promotional in nature. We promise to keep them as boring as possible.
 
-Automated responses - If you submit a help ticket to Pinpointe, our system might automatically send you a brief survey email, requesting your feedback on how your issue was resolved. We use this information to improve our customer service. Submitting a help ticket does not add you to any mailing list.
+Automated responses – If you submit a help ticket to Pinpointe, our system might automatically send you a brief survey email, requesting your feedback on how your issue was resolved. We use this information to improve our customer service. Submitting a help ticket does not add you to any mailing list.
 
 ### Promotional Emails That We Send
 
@@ -60,11 +60,9 @@ We use other third parties to handle secure credit card transaction processing f
 
 ### Safeguarding Your Information
 
-To protect your information, we use PayPal as our credit processing vendor. Paypal uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC).
+To protect your information, we use a credit processing vendor – we do not retain your credit card information.  Our vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC).
 
 Pinpointe accounts require a username (in the form of an email address, such as “user@company.com”) and password to log in. When you’re finished using Pinpointe, please click the “log out” link in the top right corner of your screen, to prevent someone from using your computer to access your account
-
-Account passwords are encrypted from our own system administrators. We cannot see your passwords. We can only reset them.
 
 ### Breach of Security Policy
 
