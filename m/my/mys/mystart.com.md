@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystart.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622032058id_/http%3A//mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystart.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225750id_/http%3A//www.mystart.com/privacy-policy.php%3Fpr%3Dmystart) for the most accurate reproduction.*
 
 # MyStart - Privacy Policy
 
@@ -35,8 +35,9 @@ From time to time, we may use an outside advertising provider to display ads on 
 
 ## External Links
 
-By its very nature, our Site contains links to third-party Web sites. Please be aware that we cannot control and are not responsible for the information collection practices of third-party Web sites. We encourage you to review and understand the privacy policies of these Web sites before visiting them or providing any information to them.   
-Confidentiality and Security
+By its very nature, our Site contains links to third-party Web sites. Please be aware that we cannot control and are not responsible for the information collection practices of third-party Web sites. We encourage you to review and understand the privacy policies of these Web sites before visiting them or providing any information to them. 
+
+## Confidentiality and Security
 
 Subject to the foregoing, we limit access to your personal information to employees of MyStart.com who we reasonably believe need to come into contact with such information either in order to do their jobs or to allow us to provide requested products and services to you. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect and restrict access to personal information about the users of our Site. 
 
