@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slipstick.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526085802id_/http%3A//www.slipstick.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipstick.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225357id_/http%3A//www.slipstick.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Slipstick Systems Outlook and Exchange Solutions Center
 
@@ -10,13 +10,13 @@ Our privacy policy at the Slipstick Systems Outlook & Exchange Solutions Center 
 
 ### Information We Collect Directly from You
 
-On the [Slipstick Systems Outlook and Exchange Solutions Center Feedback](https://web.archive.org/web/20090526085802id_/http%3A//www.slipstick.com/feedback.htm) page and other pages that ask you to fill out a form, you may give as much or as little information as you choose. The more information you provide, the better we can serve you. For example, we cannot respond directly to your feedback form comments unless you provide an email address.
+On the [Slipstick Systems Outlook and Exchange Solutions Center Feedback](https://web.archive.org/web/20091230225357id_/http%3A//www.slipstick.com/feedback.htm) page and other pages that ask you to fill out a form, you may give as much or as little information as you choose. The more information you provide, the better we can serve you. For example, we cannot respond directly to your feedback form comments unless you provide an email address.
 
 Any such personally identifying information is kept in strictest confidence by CDOLive LLC, the parent company of Slipstick Systems Outlook & Exchange Solutions Center. We will not provide it to any other party and will use it only for the specific purpose explained on the page where you submit your information. 
 
 ### Exchange Messaging Outlook Mailing List
 
-The mailing list for our [Exchange Messaging Outlook newsletter](https://web.archive.org/web/20090526085802id_/http%3A//www.slipstick.com/emo/index.htm) is hosted at [LSoft.com](http://peach.ease.lsoft.com/scripts/wa.exe?A0=emo-newsletter). Click [ here](mailto:emo-newsletter-subscribe-request@peach.ease.lsoft.com) to subscribe. We do not rent that mailing list to third parties. 
+The mailing list for our [Exchange Messaging Outlook newsletter](https://web.archive.org/web/20091230225357id_/http%3A//www.slipstick.com/emo/index.htm) is hosted at [LSoft.com](http://peach.ease.lsoft.com/scripts/wa.exe?A0=emo-newsletter). Click [ here](mailto:emo-newsletter-subscribe-request@peach.ease.lsoft.com) to subscribe. We do not rent that mailing list to third parties. 
 
 ### Information Collected in the Aggregate
 
@@ -26,4 +26,4 @@ Banner ads and clicks on certain links are monitored for our sponsors by the AdR
 
 ### Affiliate Programs
 
-In addition, we participate in several affiliate programs that track clicks on specific links so that any purchases you make at affiliated sites may be credited to us, thus producing a modest (very modest) revenue stream that helps us maintain the site. We do not have any control over the privacy policy at those sites or at any of the hundreds of other third-party sites that you can reach through the links on our pages. However, as far as we know, they collect no personal data other than information you provide when you make a purchase. 
+In addition, we participate in several affiliate programs that track clicks on specific links so that any purchases you make at affiliated sites may be credited to us, thus producing a modest (very modest) revenue stream that helps us maintain the site. We do not have any control over the privacy policy at those sites or at any of the hundreds of other third-party sites that you can reach through the links on our pages. However, as far as we know, they collect no personal data other than information you provide when you make a purchase[.](http://www.slipstick.com/bmp/a.aspx?ZoneID=0&BannerID=224&AdvertiserID=55&CampaignID=328&Task=Click&SiteID=1&RandomNumber=256118)
