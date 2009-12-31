@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wyndhamrewards.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627054954id_/http%3A//www.wyndhamrewards.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamrewards.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231085340id_/http%3A//www.wyndhamrewards.com/services/privacy) for the most accurate reproduction.*
 
 # Wyndham Rewards
 
 | 
 
-Swap points for faster rewards. 
+Work hard. Relax harder. 
 
-Need a few extra points or miles for the reward you want? With Points.com, you can exchange points from other loyalty programs into your Wyndham Rewards account.   
+Redeem your points for the vacation of a lifetime - in Mexico, Hawaii, Europe, or even Australia!   
   
 ---  
   
