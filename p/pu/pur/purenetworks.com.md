@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426015053id_/http%3A//www.purenetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231050346id_/http%3A//www.purenetworks.com/privacy.php) for the most accurate reproduction.*
 
 # Cisco - Pure Networks - Network Magic - Privacy Policy
 
