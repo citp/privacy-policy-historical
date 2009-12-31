@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425060341id_/http%3A//www.directoryofezines.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231063211id_/http%3A//www.directoryofezines.com/privacy.html) for the most accurate reproduction.*
 
-# Directory of Ezines-Privacy
+# Directory of Ezines Privacy Policy
 
-   
 OUR PRIVACY POLICY
 
 DirectoryOfEzines.com is committed to protecting the privacy of our online visitors.
@@ -45,9 +44,9 @@ DirectoryOfEzines.com
 
 No Spam Policy
 
-We do not promote any form of SPAM or sending of email to ANYONE who has not requested information from you.
+We do not promote any form of SPAM or sending of email to ANYONE who has not requested information from you.  
 
-  
+
 We do not suggest BUYING MAILING LISTS or performing BULK EMAILING
 
 The bottom line is simple, if you are not mailing to an opt-in list (people who expressly ask to receive your information) you are sending spam.
