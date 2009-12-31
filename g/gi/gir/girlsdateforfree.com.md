@@ -1,91 +1,91 @@
-> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010130656id_/http%3A//www.girlsdateforfree.com/index.cfm%3Fcr_p%3D%26cr_u%3D%26cr_cb%3DB19C8F59-770F-4778-BEA1E52701C8EB86%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231162535id_/http%3A//www.girlsdateforfree.com/privacy.cfm) for the most accurate reproduction.*
 
-# GirlsDateForFree - Chat with 1000s of interesting people.
+# Online Dating Community UK - Free Registration Girls Date For Free - GDFF
 
-|  | 
+## Privacy Policy
 
-| 
+This website GirlsDateForFree is operated by Allegran Limited. We are registered in England and Wales under company number 04363830 and have our registered office at Northcliffe House, 2 Derry Street, London W8 5TT. Our VAT number is GB 243 571 174
 
-  
-We want you to know that we value your privacy, accordingly we have set out in this Privacy Policy how we use and store personal information.   
+We are committed to protecting and respecting your privacy and this policy sets out the basis on which any personal data we collect from you through the Site, or that you provide to us via the Site, will be processed by us. Please read this statement carefully.
 
+##### Information We May Collect From You
 
-  1. COMPLIANCE
-  2. PRIVACY
-  3. WEBSITE DATA COLLECTION
-  4. YOUR PERSONAL DATA
-  5. DISCLOSURE OF INFORMATION ABOUT YOU
-  6. DATA ACCESS & CORRECTIONS
-  7. SECURITY
-  8. TRANS-BORDER DATA TRANSFERS
-  9. LINKS TO OTHER WEBSITES
-  10. GOVERNING LAW AND DISPUTES
-  11. PRIVACY RELATED COMMENTS
+We may collect and process the following information about you:
+
+  * information that you provide to us when registering or completing forms on the Site (including your personal details, contact details and other profile information you may submit); 
+  * if you contact us, we may keep a record of that correspondence;
+  * details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site; and
+  * details of your visits to the Site and the resources that you access. 
 
 
 
-IMPORTANT: PLEASE READ THIS PRIVACY POLICY CAREFULLY AND READ IT IN CONJUNCTION WITH OUR TERMS AND CONDITIONS OF WHICH IT FORMS PART. ONCE YOU HAVE REGISTERED ON THIS WEBSITE YOU WILL BE DEEMED TO HAVE READ AND ACCEPTED THIS PRIVACY POLICY AND TO HAVE GIVEN YOUR CONSENT FOR PERSONAL DATA SUBMITTED BY YOU TO BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW. YOU MUST NOT USE THIS WEBSITE OR OUR SERVICES IF YOU DO NOT ACCEPT THIS PRIVACY POLICY AND/OR OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20061010130656id_/http%3A//www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=terms "Terms & conditions").
+##### Uses Made Of The Information
 
-If we change this Privacy Policy, we will notify you of the changed document on the website.
+We use information held about you in the following ways:
 
-  1. **COMPLIANCE**   
-We, Allegran Limited, comply with the United Kingdom Data Protection Act 1998. To access current Data Protection legislation materials click [here](http://www.dpr.gov.uk/). 
-  2. **PRIVACY**   
-We take care to protect the privacy of our customers. This Privacy Policy explains how we process information about website visitors and those registered with GirlsDateForFree. 
-  3. **WEBSITE DATA COLLECTION**   
-Personal information is collated and stored primarily during the registration process, but is also monitored when there is activity on your account and when you use the website. As with many other websites, we may use software known as 'cookies' to store information relating to your preferences to enable us to improve our service to you. 
-    * A cookie is a very small text file placed on your computer by a web browser, which has been sent by a web server. It is essentially an "identification card" relating to you. The main purpose of our cookies is to identify you when you visit our website. Each time your browser requests a web page from our server, the browser sends the information in the text file back to the server and lets the server know that you have returned to that web page. We use cookies to provide you with a better service tailored to suit you. Cookies help you to save time. For example, if you register for our services, a cookie helps us to remember who you are and what your preferences are. The more you tell us about yourself, the more we can help to find the information you want.
-    * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Please note that each browser is different so check the "Help" menu of your browser for further information as to how you can change your individual cookie preferences. However, please be aware that if you do not accept incoming cookies then the performance of our website on your system will not be to full standard or our website may not serve at all.
-  4. **YOUR PERSONAL DATA**   
-We collect information about you, our users, so that you are able to use our services effectively as appropriate. We will only collect and retain personal data to the extent that it is strictly necessary for our purposes. Personal data submitted by you to this website may be used by us for the following purposes only– 
-    * To assist us in setting up and managing your account;
-    * To personalise aspects of our overall service to you by building an accurate customer profile of you;
-    * To communicate with you about (a) profiles of other users who we believe will be of interest to you; (b) new users who have registered with the website; and (c) users who wish to communicate with you; and
-    * In order to make available to you promotional or relevant information from Allegran relating to Allegran's products and services and those of third parties which may be of interest to you.
-If you have registered with this website and do not wish to receive promotional or relevant information then please [Login](https://web.archive.org/web/20061010130656id_/http%3A//www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=login "Login") and "Update your details" to opt out. You may also have your information removed at any time. If you remove your details, your access rights to the restricted parts of our website and your ability to benefit from certain aspects of our services will cease to exist as you will no longer be considered a registered user. 
-  5. **DISCLOSURE OF INFORMATION ABOUT YOU**   
-We will only disclose information obtained from you to other third parties to enable us to perform services requested by you, or with your prior consent. The more we know about you, the more value we can offer by way of a personalised service. We may store certain personal information and use this to offer you personalised services, information and offers through our services. Once you have given consent you can of course ask us to stop providing such service to you at any time, which we will do. In addition by accepting this Privacy Policy you will be regarded as having given your consent to us disclosing your information to the following types of persons – 
-    * Any company or other entity to whom we may sell all or part of our business;
-    * Any competent legal, regulatory or law enforcement authority. In the latter case, you will not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure; and
-    * Our professional advisers or other appropriate third parties, if your use of our service or this website is in breach of these terms and conditions.
-We will always let you have a copy of all information we have about you should you request it. 
-  6. **DATA ACCESS & CORRECTIONS**   
-Upon receipt of your written request which should be addressed to The Data Protection Officer at Allegran Limited, First Floor East, 3-5 Bleeding Heart Yard, London, EC1N 8SJ , we will disclose to you your personal data held by us, we shall correct or delete inaccurate details. Changes to certain parts of your account information can also be made by accessing "[Login](https://web.archive.org/web/20061010130656id_/http%3A//www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=login "Login")" and checking "Update your details". We regularly delete data which is no longer required. 
-  7. **SECURITY**   
-Keeping information about you secure is very important to us. We will take appropriate up-to-date measures to protect your personal data including using password protection, data encryption, firewalls and virus checking. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, which we strive to protect your personal information, we cannot ensure or warrant the security of any information which you can send to us, and you do so at your own risk. 
-  8. **TRANS-BORDER DATA TRANSFERS**   
-Information submitted by you to us via this website will only be transferred abroad if necessary for the purpose of performing the contractual obligations owed by us to you under our [TERMS AND CONDITIONS](https://web.archive.org/web/20061010130656id_/http%3A//www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=terms "Terms & conditions") or when you have given your prior consent to such a transfer. 
-  9. **LINKS TO OTHER WEBSITES**   
-Our website may from time to time contain links to other websites. We are not responsible for the privacy practices of any site besides our own. Please check the privacy statements of those sites if you have any concerns about their policies. 
-  10. **GOVERNING LAW AND DISPUTES**   
-This Privacy Policy forms part of our [TERMS AND CONDITIONS](https://web.archive.org/web/20061010130656id_/http%3A//www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=terms "Terms & conditions") and is therefore governed by and construed in accordance with the laws of England and Wales. 
-  11. **PRIVACY RELATED COMMENTS**   
-Allegran Limited (company number:04363830) is the data controller in relation to the services available on this website and your personal data. Our registered address is First Floor East, 3-5 Bleeding Heart Yard, London, EC1N 8SJ.  
-If you believe that Allegran Limited has not complied with this Privacy Policy with respect to your personal information, you may write to our Privacy Officer at Allegran Limited, First Floor East, 3-5 Bleeding Heart Yard, London, EC1N 8SJ.  
-In your letter, please describe in as much detail as possible the ways in which you believe that our Privacy Policy has not been complied with. We will investigate your complaint and respond accordingly.  
-Alternatively or if you have any questions or comments about our Privacy Policy, please contact us through the feedback link on the website. 
+  * to provide services that you order from us and to otherwise fulfill any obligations arising under any contracts between us;
+  * to help us improve the structure, layout and usability of the Site;
+  * to allow you to participate in any interactive features of the Site;
+  * to answer any questions you may raise or respond to any comments you may send to us; and
+  * to carry out market analysis and research. 
 
-If you have any questions or comments about our privacy policy, please send [feedback](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=feedback). 
 
-| 
 
-|  |   
----  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=offensive&offensiveuuid=7A0A1D64-E600-458F-941C0AE513BFC27C&content=picture&contentid=553581&lookedatplayeruuid=B58EF9C3-F1FF-934F-2E4FF7750C3A0E23&lookedatplayerid=1048426)  
-[CHAZ82](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=offensive&offensiveuuid=7A0A1D64-E600-458F-941C0AE513BFC27C&content=picture&contentid=705306&lookedatplayeruuid=5BC3DB7D-833C-4C0A-B8362A2463F5CE19&lookedatplayerid=1204224)  
-[SMOOVEMOOVER](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=offensive&offensiveuuid=7A0A1D64-E600-458F-941C0AE513BFC27C&content=picture&contentid=399182&lookedatplayeruuid=B7BA55E6-F1FF-934F-2A04CE3CE5C67277&lookedatplayerid=860612)  
-[ASHGROVE1978](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-[](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=offensive&offensiveuuid=7A0A1D64-E600-458F-941C0AE513BFC27C&content=picture&contentid=184220&lookedatplayeruuid=F47FB255-F1FF-934F-2190067B4261FF88&lookedatplayerid=546535)  
-[BOMPAGO](http://www.girlsdateforfree.com/index.cfm?cr_p=&cr_u=&cr_cb=E5B64A52-4283-4324-A8CE7035F0C21D65&action=register)  
-  
-|    |  **GirlsDateForFree ™ ©[Allegran Limited](http://www.allegran.com/), 2004**
+We may share information about you with:
 
-Allegran Limited cannot accept responsibility for the accuracy of views or information provided by users of this website. All views and information expressed in users communications and profiles represent the opinions of the users concerned and do not represent the views of Allegran Limited.  
-  
----|---
+  * other companies in the same corporate group as us;
+  * a buyer or prospective buyer of our business;
+  * our professional advisers, such as our lawyers, where it is necessary for them to advise us; and
+  * other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation.
+
+
+
+We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
+
+We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
+
+##### Direct Marketing
+
+We may contact you to send you information about the services that you have ordered from us. We may also contact you to send you information about other similar products or services that we offer. If you do not want to receive this type of information, please let us know by contacting us.
+
+If you agree, we shall pass on your information to other companies in the same corporate group as us and/or third parties so that they may offer you their products and services. If you have consented but no longer want us to pass your information to third parties, please let us know by contacting us. 
+
+##### Ip Addresses And Cookies
+
+Apart from the information mentioned above, we may also collect:
+
+  * information about your computer, including your IP address and the type of operating system and browser software that you use; and
+  * information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.
+
+
+
+We use this information in order to:
+
+  * help us recognize you as a unique visitor to the Site so that, when you return, we are able to customize the Site to reflect your individual interests and preferences; and
+  * compile anonymous, aggregated statistics that allow us to understand how you and other users use the Site and to help us improve the structure, layout and usability of the Site. We may share this aggregated information with our advertisers. This aggregated information will not identify you as an individual.
+
+
+
+You can accept or decline cookies by changing the applicable settings in your browser software. However, if you do this, you may be unable to use certain features of the Site. If you have not configured your browser software to refuse cookies, our system will issue a cookie to you when you log onto the Site.
+
+##### Where We Store Your Personal Data
+
+The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (�EEA�). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+##### Security
+
+We have implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat the measures we have taken or use your personal information for improper purposes.
+
+From time to time, we may restrict access to some parts of the Site, or the entire Site. If we provide you with a user ID code or other password that allows you to access a restricted part of the Site, you must keep that information secret and ensure that the password is not used without your authority. 
+
+##### Links
+
+The Site contains links to other websites over which we have no control. We are not responsible for the privacy policies or practices of other websites that you choose to link to from the Site. We encourage you to review the privacy policies of any other websites that you visit so that you can understand how they collect, use and share your information.
+
+##### Your Rights
+
+You are entitled to see the information that we hold about you. If you want a copy of this information or if you want to correct, update or change the information we hold about you at any time, please contact us. Before we tell you what information we hold, we may need you to verify your identity and pay us a small administration fee in order to cover the cost of providing the information. Please note that in certain circumstances we may need to withhold information in order to comply with relevant data protection legislation.
+
+##### Changes To Our Privacy Policy
+
+If we change this Privacy Policy in any way, we will place an updated version on the Site. Please regularly review our Privacy Policy to make sure that you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties.
