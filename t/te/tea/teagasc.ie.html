@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619083544id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231071900id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "../Templates/sub_page_template.dwt" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -32,6 +32,18 @@
 <![endif]-->
 
 <script language="JavaScript" type="text/javascript" src="/includes/browse_topic.js"></script>
+
+<script language="javascript">	
+	function submit_search() {
+		var searchWord;
+		if(document.dtSearchForm.request.value=='Enter Keyword(s)' )
+			searchWord='';
+		else
+			searchWord = document.dtSearchForm.request.value;
+		document.dtSearchForm.action = "/search/Default.aspx?searchVal=" + searchWord;
+		document.dtSearchForm.submit();
+	}
+</script>
 
 </head>
 
@@ -81,26 +93,10 @@
 			
 			<!-- start site search -->
 			<div class="col_319">
-				<form id="SearchForm" name="SearchForm" action="/quicksearch.asp" method="POST" class="frmHome">
+				<form id="dtSearchForm" name="dtSearchForm" action="/search/Default.aspx" method="POST" class="frmHome" onsubmit="javascript:submit_search()">
 					<label for="SearchRequest">SITE SEARCH:</label>
-					<input id="SearchRequest" class="SearchControl" type="edit" name="request" size="30" maxlength="200" align="middle" value="Enter Keyword(s)" onfocus="if(this.value=='Enter Keyword(s)')this.value='';" onblur="if(this.value=='')this.value='Enter Keyword(s)';">
-					<input type="submit" value="GO" class="btn" onclick="doSearch()">
-					<input type="hidden" name="startingpt" value="homepage">					
-					<input type="hidden" id="SearchType" name="searchType" value="allwords">
-					<input type="hidden" name="stemming" value="Yes">
-					<input type="hidden" name="fuzzy" value="Yes">
-					<input type="hidden" name="phonic">
-					<input type="hidden" name="sort" value="Hits">					
-					<input type="hidden" name="cmd" value="search">
-					<input type="hidden" name="SearchForm" value="%%SearchForm%%">
-					<input type="hidden" name="OrigSearchForm" value="quicksearch_form.asp">
-					<input type="hidden" name="fuzziness" value="3">
-					<input type="hidden" name="autoStopLimit" value="5000">
-					<input type="hidden" name="pageSize" value="10">
-					<input type="hidden" name="autoTermWeight" value="1">
-					<input type="hidden" name="fileConditions" value="">
-					<input type="hidden" name="booleanConditions" value="">
-					<input type="hidden" name="index" value="*{4c508b23bc155f64351039fad25ee70b} Search Corporate">
+					<input id="SearchRequest" class="SearchControl" type="edit" name="request" size="40" maxlength="200" align="middle" value="Enter Keyword(s)" onfocus="if(this.value=='Enter Keyword(s)')this.value='';" onblur="if(this.value=='')this.value='Enter Keyword(s)';">
+					<input type="submit" value="GO" class="btn" onclick="javascript:submit_search()">
 				</form>			
 			</div>
 			<!-- stop site search -->			
