@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181201id_/http%3A//www.apics.org/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154102id_/http%3A//www.apics.org/About/privacy.htm) for the most accurate reproduction.*
 
 # APICS - Online Privacy Policy
 
