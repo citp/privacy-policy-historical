@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymarketingcoach.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418113932id_/http%3A//www.mymarketingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymarketingcoach.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231162801id_/http%3A//mymarketingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,9 +36,9 @@ Contacting Us.
 
 We can be reached by contacting:
 
-Website: [Please use this contact form ](http://www.mymarketingcoach.com/contact.html)
+Website: [Please use this contact form ](http://www.mymarketingcoach.com/support)
 
-Mail: MyMarketingCoach, LLC., 2747 South County Road 600 East, New Castle, IN 47362
+Mail: MyMarketingCoach, LLC., 20390 SW 57th Street, Dunnellon, FL 34431 
 
 Changes to this Policy
 
