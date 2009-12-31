@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161920id_/http%3A//www.luxury-insider.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031328id_/http%3A//www.luxury-insider.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Luxury Insider - The Online Luxury Magazine | Trusted Luxury Reviews & Daily News Updates
 
