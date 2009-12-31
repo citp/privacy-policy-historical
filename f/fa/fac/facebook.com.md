@@ -1,130 +1,241 @@
-> *The following text is extracted and transformed from the facebook.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120093836id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebook.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231191646id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Facebook
 
-## Facebook Principles
+**Facebook’s Privacy Policy  
+**
 
-We built Facebook to make it easy to share information with your friends and people around you. We understand you may not want everyone in the world to have the information you share on Facebook; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about.
+Date of last revision: December 9, 2009.
 
-Facebook follows two core principles:
+We want to earn your trust by being transparent about how Facebook works. You should read this policy in its entirety, but should pay particular attention to these four highlights: 
 
-**1\. You should have control over your personal information.**   
-Facebook helps you share information with your friends and people around you. You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings on the [Privacy](https://web.archive.org/privacy/) page.
+  * **Facebook is designed to make it easy for you to share your information with anyone you want. You decide how much information you feel comfortable sharing on Facebook and you control how it is distributed through your[privacy settings](http://www.facebook.com/privacy/). You should review the default [privacy settings](http://www.facebook.com/privacy/) and change them if necessary to reflect your preferences. You should also consider your settings whenever you share information.   
+**
 
-**2\. You should have access to the information others want to share.**   
-There is an increasing amount of information available out there, and you may want to know what relates to you, your friends, and people around you. We want to help you easily get that information.
+  
 
-[privacy@facebook.com](mailto:privacy@facebook.com) .
+  * **Facebook is not just a website. It is also a service for sharing your information on Facebook-enhanced applications and websites. You can control how you share information with those third-party applications and websites through your[application settings](http://www.facebook.com/editapps.php) and you can learn more about how information is shared with them on our [About Platform](http://developers.facebook.com/about_platform.php) page. You can also limit how your friends share your information with applications through your [privacy settings](http://www.facebook.com/privacy/).**
 
-## Safe Use of Facebook
+  
 
-For information for users and parents about staying safe on Facebook, [click here](https://web.archive.org/help.php?safety).
 
-## Facebook's Privacy Policy
+  *  **Certain categories of information such as your name, profile photo, list of friends and pages you are a fan of, gender, geographic region, and networks you belong to are considered publicly available to everyone, including Facebook-enhanced applications, and therefore do not have[privacy settings](https://web.archive.org/privacy/). You can, however, limit the ability of others to find this information through search using your search [privacy settings](https://web.archive.org/privacy/).**
 
-[](http://www.truste.org/ivalidate.php?url=www.facebook.com&sealid=101)
+  
 
-Facebook's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Facebook, located at www.facebook.com and its directly associated domains (collectively, "Facebook" or "Website")
 
-By using or accessing Facebook, you are accepting the practices described in this Privacy Policy.
-
-Facebook is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.facebook.com and its directly associated domains. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-[privacy@facebook.com](mailto:privacy@facebook.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe Watchdog at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-## EU Safe Harbor Participation
-
-[privacy@facebook.com](mailto:privacy@facebook.com) . If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe at <http://www.truste.org/users/users_watchdog_intro.html>.
-
-## The Information We Collect
-
-When you visit Facebook you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
-
-When you register with Facebook, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, schools attended and any other personal or preference information that you provide to us.
-
-When you enter Facebook, we collect your browser type and IP address. This information is gathered for all Facebook visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Facebook. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.
-
-When you use Facebook, you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
-
-You post User Content (as defined in the Facebook [Terms of Use](https://web.archive.org/terms.php)) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
-
-[privacy@facebook.com](mailto:privacy@facebook.com) .
-
-[privacy@facebook.com](mailto:privacy@facebook.com) to request that we remove this information from our database.
-
-Facebook may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Facebook service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
-
-By using Facebook, you are consenting to have your personal data transferred to and processed in the United States.
-
-## Children Under Age 13
-
-[privacy@facebook.com](mailto:privacy@facebook.com) .
-
-## Children Between the Ages of 13 and 18
-
-We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
-
-## Use of Information Obtained by Facebook
-
-When you register with Facebook, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on Facebook. We may occasionally use your name and email address to send you notifications regarding new services offered by Facebook that we think you may find valuable.
-
-Profile information is used by Facebook primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (e.g., posting to your wall), other Facebook users may be able to supplement your profile.
-
-Profile information you submit to Facebook will be available to users of Facebook who belong to at least one of the networks you allow to access the information through your privacy settings (e.g., school, geography, friends of friends). Your name, network names, and profile picture thumbnail will be available in search results across the Facebook network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you (friend, friend of friend, member of your networks, etc.) that allows such access based on your privacy settings.
-
-Facebook may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message or poke, or someone posts on your wall, you may receive an email alerting you to that fact.
-
-Generally, you may opt out of such emails from the [Notifications](https://web.archive.org/editaccount.php?notifications) page, though Facebook reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
-
-Facebook may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you Facebook. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar one in your town. But we don't tell the movie company who you are.
-
-We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, Facebook Platform developers and other users of Facebook, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile (e.g., removing photo tag links).
-
-## Sharing Your Information with Third Parties
-
-Facebook is about sharing information with others — friends and people in your networks — while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and networks through Facebook. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:
-
-  * Your News Feed and Wall may aggregate the information you provide and make it available to your friends and network members according to your privacy settings. You may set your preferences for your News Feed and Wall on your [Privacy](https://web.archive.org/privacy/?view=feeds) page.
-  * Unlike most sites on the Web, Facebook limits access to site information by third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask). Facebook takes action to block access by these engines to personal information beyond your name, profile picture, and limited aggregated data about your profile (e.g. number of wall postings).
-  * We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Facebook, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Facebook-specified purposes.
-  * If you, your friends, or members of your network use any third-party applications developed using the Facebook Platform ("Platform Applications"), those Platform Applications may access and share certain information about you with others in accordance with your privacy settings. You may opt-out of any sharing of certain or all information through Platform Applications on the [Privacy Settings](https://web.archive.org/privacy/) page. In addition, third party developers who have created and operate Platform Applications ("Platform Developers"), may also have access to your personal information (excluding your contact information) if you permit Platform Applications to access your data. Before allowing any Platform Developer to make any Platform Application available to you, Facebook requires the Platform Developer to enter into an agreement which, among other things, requires them to respect your privacy settings and strictly limits their collection, use, and storage of your information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Platform Developers, we of course cannot and do not guarantee that all Platform Developers will abide by such agreements. Please note that Facebook does not screen or approve Platform Developers and cannot control how such Platform Developers use any personal information that they may obtain in connection with Platform Applications. In addition, Platform Developers may require you to sign up to their own terms of service, privacy policies or other policies, which may give them additional rights or impose additional obligations on you, so please make sure to review these terms and policies carefully before using any Platform Application. You can report any suspected misuse of information through the Facebook Platform and we will investigate any such claim and take appropriate action against the Platform Developer up to and including terminating their participation in the Facebook Platform and/or other formal legal action.
-  * We occasionally provide demonstration accounts that allow non-users a glimpse into the Facebook world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse.
-  * We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Facebook service or using the Facebook name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
-  * We let you choose to share information with marketers or electronic commerce providers through on-site offers.
-  * We may offer stores or provide services jointly with other companies on Facebook. You can tell when another company is involved in any store or service provided on Facebook, and we may share customer information with that company in connection with your use of that store or service.
-  * Facebook Beacon is a means of sharing actions you have taken on third party sites, such as when you make a purchase or post a review, with your friends on Facebook. In order to provide you as a Facebook user with clear disclosure of the activity information being collected on third party sites and potentially shared with your friends on Facebook, we collect certain information from that site and present it to you after you have completed an action on that site. You have the choice to have Facebook discard that information, or to share it with your friends.  
-To learn more about the operation of the service, we encourage you to [read the tutorial here](https://web.archive.org/beacon/faq.php). To opt out of the service altogether, [click here](https://web.archive.org/privacy/?view=feeds&tab=external).  
-Like many other websites that interact with third party sites, we may receive some information even if you are logged out from Facebook, or that pertains to non-Facebook users, from those sites in conjunction with the technical operation of the system. In cases where Facebook receives information on users that are not logged in, or on non-Facebook users, we do not attempt to associate it with individual Facebook accounts and will discard it.
-  * If the ownership of all or substantially all of the Facebook business, or individual business units owned by Facebook, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
+  *  **Facebook is a free service supported primarily by advertising. We will not share your information with advertisers without your consent. We allow advertisers to select characteristics of users they want to show their advertisements to and we use the information we have collected to serve those advertisements.**
 
 
 
-When you use Facebook, certain information you post or share with third parties (e.g., a friend or someone in your network), such as personal information, comments, messages, photos, videos, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, Marketplace listings or other items , this information may become publicly available.
+ ****  
+This policy contains eight sections, and you can jump to each by selecting the links below:
 
-## Links
+ **1.Introduction  
+** **2.Information We Receive   
+****3.Information You Share With Third Parties  
+** **4.How We Use Your Information  
+** **5.How We Share Information  
+** **6.How You Can View, Change, or Remove Information  
+** **7.How We Protect Information  
+** **8.Other Terms  
+**  
+ **1\. Introduction  
+**  
+ **Questions.** If you have any questions or concerns about our privacy policy, contact our privacy team through this [help page](http://www.facebook.com/help/contact.php?show_form=privacy_policy_general). You may also contact us by mail at 1601 S. California Avenue, Palo Alto, CA 94304.
 
-Facebook may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Facebook.
+ **TRUSTe Program.** Facebook is a certified licensee of the TRUSTe Privacy Seal Program. This means that our privacy policy and practices have been reviewed by TRUSTe, an independent organization focused on reviewing privacy and security policies and practices, for compliance with its strict program requirements. This privacy policy covers the website [www.facebook.com](http://www.facebook.com/). The TRUSTe program covers only information that is collected through this Web site, and does not cover other information, such as information that may be collected through software downloaded from Facebook.
 
-## Third Party Advertising
+If you have any complaints about our policy or practices please let us know through this [help page](http://www.facebook.com/help/contact.php?show_form=privacy_policy_general) . If you are not satisfied with our response, you can contact [TRUSTe](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102).
 
-Advertisements that appear on Facebook are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Facebook does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Facebook unless you choose to share it with them.
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102)
 
-This privacy policy covers the use of cookies by Facebook and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102)
 
-## Changing or Removing Information
+ **Safe Harbor.** Facebook also adheres to the Safe Harbor framework developed by the U.S. Department of Commerce and the European Union. As part of our participation in the Safe Harbor, we agree to resolve all disputes you have with us in connection with our policies and practices through TRUSTe. To view our certification, visit the U.S. Department of Commerce's Safe Harbor [Web site](https://www.export.gov/safehrbr/list.aspx).
 
-Access and control over most personal information on Facebook is readily available through the profile editing tools. Facebook users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Facebook account may do so on the [My Account](https://web.archive.org/editaccount.php) page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Facebook.
+ **Scope.** This privacy policy covers all of Facebook. It does not, however, apply to entities that Facebook does not own or control, such as Facebook-enhanced applications and websites. By using or accessing Facebook, you agree to our privacy practices outlined [here](http://www.facebook.com/policy.php).
 
-Where you make use of the communication features of the service to share information with other individuals on Facebook, however, (e.g., sending a personal message to another Facebook user) you generally cannot remove such communications.
+ **No information from children under age 13.** If you are under age 13, please do not attempt to register for Facebook or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us through this [help page](http://www.facebook.com/help/contact.php?show_form=underage).
 
-## Security
+ **Parental participation.** We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices. Materials to help parents talk to their children about safe internet use can be found on this [help page](http://www.facebook.com/help.php?page=937).
 
-Facebook takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to <http://en.wikipedia.org/wiki/Secure_Sockets_Layer>[privacy@facebook.com](mailto:privacy@facebook.com)
+ **2\. Information We Receive  
+**  
+ **Information you provide to us:  
+**  
+ **Personal information.** When you sign up for Facebook you provide us with your name, email, gender, and birth date. During the registration process we give you the opportunity to provide additional profile information, such as where you went to school and where you work, and to add a picture of yourself, to help your friends connect with you. In some cases we may ask for additional information for security reasons or to provide specific services to you. Once you register you can visit your profile at any time to add or remove personal information about yourself. You can add basic information about yourself, such as information about your hometown, family, relationships, and your political and religious views. You can also add other information about yourself including your activities, interests, contact information, as well as more information about your education and job history. 
 
-## Terms of Use, Notices and Revisions
+**Content.** One of the primary reasons people use Facebook is to share content with others. Examples include when you update your status, upload or take a photo, upload or record a video, share a link, create an event or a group, make a comment, write something on someone’s Wall, write a note, or send someone a message. If you do not want us to store metadata associated with content you share on Facebook (such as photos), please remove the metadata before uploading the content. 
 
-Your use of Facebook, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+**Transactional Information.** We may retain the details of transactions or payments you make on Facebook. However, we will only keep your payment source account number with your consent.
 
-## Contacting the Web Site
+ **Friend Information.** We offer contact importer tools to help you upload your friends’ addresses so that you can find your friends on Facebook, and invite your contacts who do not have Facebook accounts to join. If you do not want us to store this information, visit this [help page](http://www.facebook.com/contact_importer/remove_uploads.php). If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts’ information.
 
-[privacy@facebook.com](mailto:privacy@facebook.com) . You may also contact us by mail at 156 University Avenue, Palo Alto, CA 94301. 
+ **Location Information.** When you share your location with others or add a location to something you post, we treat that like any other content you post (for example, it is subject to your [privacy settings](http://www.facebook.com/privacy/)). If we offer a service that supports this type of location sharing we will present you with an opt-in choice of whether you want to participate.
+
+ **Information we collect when you interact with Facebook:  
+**  
+ **Site activity information.** We keep track of the actions you take on Facebook, such as adding a friend, becoming a fan of a Facebook Page, joining a group or an event, creating a photo album, sending a gift, poking another user, indicating you “like” a post, attending an event, or authorizing an application. In some cases you are also taking an action when you provide information or content to us. For example, if you share a video, in addition to storing the actual content you uploaded, we might log the fact you shared it. 
+
+**Access Device and Browser Information.** When you access Facebook from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, as well as the pages you visit.
+
+ **Cookie Information.** We use "cookies" (small pieces of data we store for an extended period of time on your computer, mobile phone, or other device) to make Facebook easier to use, to make our advertising better, and to protect both you and Facebook. For example, we use them to store your login ID (but never your password) to make it easier for you to login whenever you come back to Facebook. We also use them to confirm that you are logged into Facebook, and to know when you are interacting with Facebook Platform applications and websites, our widgets and Share buttons, and our advertisements. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use Facebook. 
+
+**Information we receive from third parties:  
+**  
+ **Facebook Platform and Facebook Connect.** We do not own or operate the applications that you use through Facebook Platform (such as games and utilities) or the websites that you interact with through Facebook Connect. We refer to them as “Facebook-enhanced” applications and websites because they use our Platform to provide you with social features. Whenever you authorize a Facebook-enhanced application or website, we will receive information from them, including information about actions you take. In some cases, in order to personalize the process of connecting, we may receive a limited amount of information even before you authorize the application or website. 
+
+**Information from other websites.** We may institute programs with advertising partners and other websites in which they share information with us: 
+
+\- We may ask advertisers to tell us how our users responded to the ads we showed them (and for comparison purposes, how other users who didn’t see the ads acted on their site). This data sharing, commonly known as “conversion tracking,” helps us measure our advertising effectiveness and improve the quality of the advertisements you see.
+
+\- We may receive information about whether or not you’ve seen or interacted with certain ads on other sites in order to measure the effectiveness of those ads. 
+
+If in any of these cases we receive data that we do not already have, we will “anonymize” it within 180 days, meaning we will stop associating the information with any particular user. If we institute these programs, we will only use the information in the ways we explain in the “How We Use Your Information” section below.
+
+ **Information from other users.** We may collect information about you from other Facebook users, such as when a friend tags you in a photo or video, provides friend details, or indicates a relationship with you. You can limit who can see that you have been tagged in a photo or video – which we refer to as photos or videos “of me” – in your [privacy settings](http://www.facebook.com/privacy/).
+
+ **3\. Information You Share With Third Parties  
+**  
+We take steps to ensure that others use information that you share on Facebook in a manner consistent with your [privacy settings](http://www.facebook.com/privacy/), but we cannot guarantee that they will follow our rules. Read the following section to learn more about how you can protect yourself when you share information with third parties.
+
+ **Sharing information on Facebook.** We designed our [privacy settings](http://www.facebook.com/privacy/) to enable you to control how you share your information on Facebook. You should review the default [privacy settings](http://www.facebook.com/privacy/) to make sure they reflect your preferences. Here are some specific things to remember:
+
+\- You can control the visibility of most of the information you share on Facebook through the [privacy settings](http://www.facebook.com/privacy/) you select. 
+
+\- Certain categories of information such as your name, profile photo, list of friends and pages you are a fan of, gender, geographic region, and networks you belong to are considered publicly available, and therefore do not have privacy settings. You can limit the ability of others to find this information on third party search engines through your search [privacy settings](https://register.facebook.com/privacy/?view=search). 
+
+\- Some of the content you share and the actions you take will show up on your friends’ home pages and other pages they visit.
+
+\- Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your [privacy settings](http://www.facebook.com/privacy/), or it was copied or stored by other users.
+
+\- You understand that information might be re-shared or copied by other users.
+
+\- Certain types of communications that you send to other users cannot be removed, such as messages.
+
+\- When you post information on another user’s profile or comment on another user’s post, that information will be subject to the other user’s [privacy settings](http://www.facebook.com/privacy/). 
+
+\- If you use an external source to publish information to Facebook (such as a mobile application or a Connect site), you should check the privacy setting for that post, as it is set by that external source.
+
+ **“Everyone” Privacy Setting.** Information set to “everyone” is publicly available information, may be accessed by everyone on the Internet (including people not logged into Facebook), is subject to indexing by third party search engines, may be associated with you outside of Facebook (such as when you visit other sites on the internet), and may be imported and exported by us and others without privacy limitations. The default privacy setting for certain types of information you post on Facebook is set to “everyone.” You can review and change the default settings in your [privacy settings](http://www.facebook.com/privacy/). If you delete “everyone” content that you posted on Facebook, we will remove it from your Facebook profile, but have no control over its use outside of Facebook.
+
+ **Facebook Platform.** As mentioned above, we do not own or operate Facebook-enhanced applications or websites. That means that when you visit Facebook-enhanced applications and websites you are making your Facebook information available to someone other than Facebook. To help those applications and sites operate, they receive publicly available information automatically when you visit them, and additional information when you formally authorize or connect your Facebook account with them. You can learn more details about which information the operators of those applications and websites can access on our [About Platform](http://developers.facebook.com/about_platform.php) page. Prior to allowing them to access any information about you, we require them to agree to terms that limit their use of your information (which you can read about in Section 9 of our [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php)) and we use technical measures to ensure that they only obtain authorized information. We also give you tools to control how your information is shared with them:
+
+\- You can choose to opt-out of Facebook Platform and Facebook Connect altogether through your [privacy settings](http://www.facebook.com/privacy/)
+
+\- You can block specific applications from accessing your information by visiting your [application settings](http://www.facebook.com/editapps.php) or the application’s “About” page
+
+\- You can use your [privacy settings](http://www.facebook.com/privacy/) to limit which of your information is available to “everyone” (by default, every application and website, including those you have not connected with, can access “everyone” and other publicly available content) 
+
+\- You can use your [application settings](http://www.facebook.com/editapps.php) to limit which of your information your friends can make available to applications and websites
+
+\- We may make information about the location of your computer or access device and your age available to Facebook –enhanced applications and websites in order to help them implement appropriate security measures and control the distribution of age-appropriate content. 
+
+You should always review the policies of third party applications and websites to make sure you are comfortable with the ways in which they use information you share with them. We do not guarantee that they will follow our rules. If you find an application or website that violates our rules, you should report the violation to us on this [help page](http://www.facebook.com/help.php?page=420) and we will take action as necessary.
+
+ **Exporting Information.** You (and those you make your information available to) may use tools like RSS feeds, mobile phone address books, or copy and paste functions, to capture and export information from Facebook, including your information and information about you.
+
+ **Advertisements.** Sometimes the advertisers who present ads on Facebook use technological methods to measure the effectiveness of their ads and to personalize advertising content. You may opt-out of the placement of cookies by many of these advertisers [here](http://www.networkadvertising.org/managing/opt_out.asp). You may also use your browser cookie settings to limit or prevent the placement of cookies by advertising networks. 
+
+**Links.** When you click on links on Facebook you may leave our site. We are not responsible for the privacy practices of other sites, and we encourage you to read their privacy statements.
+
+ **4\. How We Use Your Information  
+**  
+We use the information we collect to try to provide a safe, efficient, and customized experience. Here are some of the details on how we do that:
+
+ **To manage the service.** We use the information we collect to provide our services and features to you, to measure and improve those services and features, and to provide you with customer support. We use the information to prevent potentially illegal activities, and to enforce our [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). For example, we ask for your date of birth to verify that you are over age 13 and so that we can better limit your access to content and advertisements that are not age appropriate. We also use a variety of technological systems to detect and address anomalous activity and screen content to prevent abuse such as spam. These efforts may on occasion result in a temporary or permanent suspension or termination of some functions for some users.
+
+ **To contact you.** We may contact you with service-related announcements from time to time. You may opt out of all communications except essential updates on your [account notifications](http://www.facebook.com/editaccount.php?notifications) page. We may include content you see on Facebook in the emails we send to you.
+
+ **To serve personalized advertising to you.** We don’t share your information with advertisers without your consent. (An example of consent would be if you asked us to provide your shipping address to an advertiser to receive a free sample.) We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-personally identifiable attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. For example, we might use your interest in soccer to show you ads for soccer equipment, but we do not tell the soccer equipment company who you are. You can see the criteria advertisers may select by visiting our advertising [page](http://www.facebook.com/advertising). Even though we do not share your information with advertisers without your consent, when you click on or otherwise interact with an advertisement there is a possibility that the advertiser may place a cookie in your browser and note that it meets the criteria they selected. 
+
+**To serve social ads.** We occasionally pair advertisements we serve with relevant information we have about you and your friends to make advertisements more interesting and more tailored to you and your friends. For example, if you become a fan of a Page, we may display your name and profile photo next to an advertisement for that Page that is displayed to your friends. We only share the personally identifiable information visible in the social ad with the friend who can see the ad. You can opt out of having your information used in social ads on this [help page](http://www.facebook.com/privacy/?view=feeds&tab=ads).
+
+ **To supplement your profile.** We may use information about you that we collect from other Facebook users to supplement your profile (such as when you are tagged in a photo or mentioned in a status update). In such cases we generally allow you to direct how that information is shared in your [privacy settings](http://www.facebook.com/privacy/) or give you the ability to remove the content (such as allowing you to remove a photo tag of you) or limit its visibility on Facebook.
+
+ **To make Suggestions.** We use your profile information, the addresses you import through our contact importers, and other relevant information, to help you connect with your friends, including making suggestions to you and other users that you connect with on Facebook. If you want to limit your visibility in suggestions we make to other people, you can adjust your search visibility [privacy setting](http://www.facebook.com/privacy/?view=search), as you will only be visible in our suggestions to the extent you choose to be visible in public search listings. You may also block specific individual users from being suggested to you and you from being suggested to them.
+
+ **Downloadable Software.** Certain downloadable software applications and applets that we offer, such as our browser toolbars and photo uploaders, transmit data to us. We may not make a formal disclosure if we believe our collection of and use of the information is the obvious purpose of the application, such as the fact that we receive photos when you use our photo uploader. If we believe it is not obvious that we are collecting or using such information, we will make a disclosure to you the first time you provide the information to us so that you can decide whether you want to use that feature.
+
+ **Memorializing Accounts.** If we are [notified](http://www.facebook.com/help/contact.php?show_form=deceased) that a user is deceased, we may memorialize the user’s account. In such cases we restrict profile access to confirmed friends, and allow friends and family to write on the user’s Wall in remembrance. We may close an account if we receive a formal request from the user’s next of kin or other proper legal request to do so.
+
+ **5\. How We Share Information  
+**  
+Facebook is about sharing information with others — friends and people in your networks — while providing you with [privacy settings](http://www.facebook.com/privacy/) that you can use to restrict other users from accessing your information. We share your information with third parties when we believe the sharing is permitted by you, reasonably necessary to offer our services, or when legally required to do so. For example:
+
+ **When you make a payment.** When you enter into transactions with others or make payments on Facebook, we will only share transaction information with those third parties necessary to complete the transaction and will require those third parties to agree to respect the privacy of your information. 
+
+**When you invite a friend to join.** When you ask us to invite a friend to join Facebook, we will send your friend a message on your behalf using your name. We may also send up to two reminders to them in your name. If your friend does not want us to keep their information, we will remove it at their request on this [help page](http://www.facebook.com/help/contact.php?show_form=database_removal).
+
+ **When you choose to share your information with marketers.** You may choose to share information with marketers or electronic commerce providers that are not associated with Facebook through on-site offers. This is entirely at your discretion and we will not provide your information to these marketers without your consent.
+
+ **To help your friends find you.** By default, we make certain information you have posted to your profile available in search results on Facebook to help your friends find you. However, you can control who has access to this information, as well as who can find you in searches, through your [privacy settings](http://www.facebook.com/privacy/). We also partner with email and instant messaging providers to help their users identify which of their contacts are Facebook users, so that we can promote Facebook to those users. 
+
+**To give search engines access to publicly available information.** We generally limit search engines’ access to our site. We may allow them to access information set to the “everyone” setting and your public search listing (but you can turn off your public search listing in your [privacy settings](http://www.facebook.com/privacy/)). 
+
+**To help improve or promote our service.** Sometimes we share aggregated information with third parties to help improve or promote our service. But we only do so in such a way that no individual user can be identified or linked to any specific action or information.
+
+ **To provide you with services.** We may provide information to service providers that help us bring you the services we offer. For example, we may use third parties to help host our website, send out email updates about Facebook, remove repetitive information from our user lists, process payments, or provide search results or links (including sponsored links). These service providers may have access to your personal information for use for a limited time, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.
+
+ **To advertise our services.** We may ask advertisers outside of Facebook to display ads promoting our services. We may ask them to deliver those ads based on the presence of a cookie, but in doing so will not share any other information with the advertiser.
+
+ **To offer joint services.** We may provide services jointly with other companies, such as the classifieds service in the Facebook Marketplace. If you use these services, we may share your information to facilitate that service. However, we will identify the partner and present the joint service provider’s privacy policy to you before you use that service.
+
+ **To respond to legal requests and prevent harm.** We may disclose information pursuant to subpoenas, court orders, or other requests (including criminal and civil matters) if we have a good faith belief that the response is required by law. This may include respecting requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law under the local laws in that jurisdiction, apply to users from that jurisdiction, and are consistent with generally accepted international standards. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). This may include sharing information with other companies, lawyers, courts or other government entities.
+
+ **Facebook Beacon.** [We have announced a settlement of a lawsuit related to the Beacon product: the Beacon product will be discontinued and this language removed from the privacy policy upon approval of a settlement by the court.] Facebook Beacon is a means of sharing actions you have taken on third party sites, such as when you make a purchase or post a review, with your friends on Facebook. In order to provide you as a Facebook user with clear disclosure of the activity information being collected on third party sites and potentially shared with your friends on Facebook, we collect certain information from that site and present it to you after you have completed an action on that site. You have the choice to have us discard that information, or to share it with your friends. To learn more about the operation of the service, we encourage you to read the tutorial [here](http://www.facebook.com/beacon/faq.php). To opt out of the service altogether, click [here](http://www.facebook.com/privacy/?view=platform&tab=other). Like many other websites that interact with third party sites, we may receive some information even if you are logged out from Facebook, or that pertains to non-Facebook users, from those sites in conjunction with the technical operation of the system. In cases where we receive information from Beacon sites on users that are not logged in, or on non-Facebook users, we do not attempt to associate it with individual Facebook accounts and will discard it.
+
+ **Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
+
+ **6\. How You Can View, Change, or Remove Information  
+**  
+ **Viewing and editing your profile.** You may change or delete your profile information at any time by going to your profile page and clicking “Edit My Profile.” Information will be updated immediately. While you cannot delete your date of birth, you can use the setting on the info tab of your profile information page to hide all or part of it from other users.
+
+ **Delete uploaded contacts.** If you use our contact importer to upload addresses, you can later delete the list on this [help page](http://www.facebook.com/contact_importer/remove_uploads.php).
+
+ **Deactivating or deleting your account.** If you want to stop using your account you may deactivate it or delete it. When you deactivate an account, no user will be able to see it, but it will not be deleted. We save your profile information (friends, photos, interests, etc.) in case you later decide to reactivate your account. Many users deactivate their accounts for temporary reasons and in doing so are asking us to maintain their information until they return to Facebook. You will still have the ability to reactivate your account and restore your profile in its entirety. When you delete an account, it is permanently deleted. You should only delete your account if you are certain you never want to reactivate it. You may deactivate your account on your [account settings](http://www.facebook.com/editaccount.php) page or delete your account on this [help page](http://www.facebook.com/help/contact.php?show_form=delete_account).
+
+ **Limitations on removal.** Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your [privacy settings](http://www.facebook.com/privacy/), or it was copied or stored by other users. However, your name will no longer be associated with that information on Facebook. (For example, if you post something to another user’s profile, and then you delete your account, that post may remain, but be attributed to an “Anonymous Facebook User.”) Additionally, we may retain certain information to prevent identity theft and other misconduct even if deletion has been requested.
+
+ **Backup copies.** Removed and deleted information may persist in backup copies for up to 90 days, but will not be available to others. 
+
+**Non-user contact information.** If a user provides your email address to us, and you are not a Facebook user but you want us to delete your address, you can do so on this [help page](http://www.facebook.com/help/contact.php?show_form=database_removal). However, that request will only apply to addresses we have at the time of the request and not to any addresses that users provide to us later. 
+
+**7\. How We Protect Information**
+
+We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on Facebook, visit the Facebook [Security Page](http://www.facebook.com/security).
+
+ **S** **teps we take to keep your information secure.** We keep your account information on a secured server behind a firewall. When you enter sensitive information (such as credit card numbers and passwords), we encrypt that information using secure socket layer technology (SSL). We also use automated and social measures to enhance security, such as analyzing account behavior for fraudulent or otherwise anomalous behavior, may limit use of site features in response to possible signs of abuse, may remove inappropriate content or links to illegal content, and may suspend or disable accounts for violations of our [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php).
+
+ **Risks inherent in sharing information.** Although we allow you to set privacy options that limit access to your information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on Facebook will not become publicly available. We are not responsible for third party circumvention of any [privacy settings](http://www.facebook.com/privacy/) or security measures on Facebook. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software. 
+
+**Report Violations.** You should report any security violations to us on this [help page](http://www.facebook.com/help.php?page=420). 
+
+**8\. Other Terms**
+
+ **Changes**. We may change this Privacy Policy pursuant to the procedures outlined in the Facebook [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here and on the [Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance). You can make sure that you receive notice directly by becoming a fan of the [Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance).
+
+ **Consent to Collection and Processing in the United States.** By using Facebook, you consent to having your personal data transferred to and processed in the United States.
+
+ **Defined Terms.** "Us," "we," "our," "Platform" and "Facebook" mean the same as they do in the [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). “Information” and “content” are used more generally and interchangeably here than in the [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php) unless otherwise limited by the context. 
+
+**Helpful links**
+
+[Statement of Rights and Responsibilities](http://www.facebook.com/terms.php)  
+[Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance)  
+[application settings](http://www.facebook.com/editapps.php)  
+[privacy settings](http://www.facebook.com/privacy/)  
+[account notifications page](http://www.facebook.com/editaccount.php?notifications)   
+[help page](http://www.facebook.com/help/contact.php?show_form=privacy_policy_general) for complaints about our privacy policies or practices  
+[help page](http://www.facebook.com/help/contact.php?show_form=underage) to report use by a child under age 13  
+[help page](http://www.facebook.com/help.php?page=937) with info to help parents talk to children about safe internet use  
+[deleting an account](https://ssl.facebook.com/help/contact.php?show_form=delete_account&__a=1&_fb_iframe_path=%2Fhelp%2Fcontact.php)   
+[reporting a deceased user](http://www.facebook.com/help/contact.php?show_form=deceased)   
+[reporting an impostor](http://www.facebook.com/help.php?page=798)   
+[reporting abusive content](http://www.facebook.com/help.php?page=798)   
+[reporting a compromised account](http://www.facebook.com/help.php?page=797)   
+[requesting deletion of data for non-user](http://www.facebook.com/help/contact.php?show_form=database_removal)   
+[removing Friend Finder contacts](http://www.facebook.com/contact_importer/remove_uploads.php)   
+[reporting and blocking third-party applications](http://www.facebook.com/help.php?page=967)   
+[general explanation of third-party applications and how they access data](http://www.facebook.com/help.php?page=967)
