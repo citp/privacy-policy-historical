@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ospreypacks.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622075115id_/http%3A//ospreypacks.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ospreypacks.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231033226id_/http%3A//www.ospreypacks.com//PrivacyPolicy) for the most accurate reproduction.*
 
 # Osprey Packs, Inc. Website Privacy Statement : : Osprey Packs, Inc.
 
