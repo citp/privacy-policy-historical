@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellforleathermagazine.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142144id_/http%3A//hellforleathermagazine.com/privacy.html%3Fwidth%3D550%26height%3D500) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellforleathermagazine.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231041955id_/http%3A//hellforleathermagazine.com/privacy.html%3Fwidth%3D550%26height%3D500) for the most accurate reproduction.*
 
 # : Standard Issue :
 
