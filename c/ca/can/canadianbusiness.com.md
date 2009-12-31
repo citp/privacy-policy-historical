@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianbusiness.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusiness.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231163422id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
 
 # Rogers Media Privacy Policy
 
@@ -42,7 +42,7 @@ _What happens to information I provide on a contest entry?_
 **General FAQs**
 
 **_What is Rogers Media?_**  
-Rogers Media Inc. is one of Canada's largest media enterprises, including radio stations, "The Shopping Channel", "Rogers Sportsnet", two multicultural television stations in Toronto, and some of Canada's best-known consumer magazines, business periodicals, directories and information products. It is part of Rogers Communications Inc, which also includes Rogers Wireless, Canada's largest wireless voice and data communications services provider, and Rogers Cable, Canada's largest cable television provider offering cable television, high-speed Internet access and video retailing. [Click here](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) to see a list of all Rogers Media Web sites.  
+Rogers Media Inc. is one of Canada's largest media enterprises, including radio stations, "Citytv", "The Shopping Channel", "Rogers Sportsnet", two multicultural television stations in Toronto, and some of Canada's best-known consumer magazines, business periodicals, directories and information products. It is part of Rogers Communications Inc, which also includes Rogers Wireless, Canada's largest wireless voice and data communications services provider, and Rogers Cable, Canada's largest cable television provider offering cable television, high-speed Internet access and video retailing. [Click here](https://web.archive.org/web/20091231163422id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) to see a list of all Rogers Media Web sites.  
 Back to top
 
 _**How can I learn more about your official privacy policy?**_  
@@ -63,7 +63,7 @@ Back to top
 
 **_Might I be contacted by organizations outside Rogers?_**  
 Advertisers who use direct mail may ask Rogers Publishing to be able to send through the mail material of interest to subscribers of some of our publications, but in such cases the list is only released to a reputable third party service bureau for the purpose of sending the specific mailing. E-mail lists might be used for similar communications. All such advertising material is reviewed and subject to approval for acceptable advertising content.  
-If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
+If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20091231163422id_/http%3A//www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
 Back to top
 
 **_What are marketing preferences?_**  
@@ -129,7 +129,7 @@ If you registered with a password-protected profile at one of our web sites, log
 Back to top
 
 _**I'm registering on one of your sites for the first time, but my name is here already. How?**_  
-Virtually all [Rogers Media Web sites](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.  
+Virtually all [Rogers Media Web sites](https://web.archive.org/web/20091231163422id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.  
 Back to top
 
 **_Do Rogers web sites use cookies?_**  
