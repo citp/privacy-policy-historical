@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628171829id_/http%3A//www.acronis.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154215id_/http%3A//www.acronis.com/company/privacy.html) for the most accurate reproduction.*
 
-# Acronis very respects your privacy, exactly as it declared in company privacy statements
+# Acronis really respects your privacy, exactly as it is declared in company privacy statements
 
 Being a solid organization, Acronis greatly respects your privacy. We take care of all information submitted by customers and visitors of acronis.com, and guarantee that all such information is obtained voluntarily.
 
