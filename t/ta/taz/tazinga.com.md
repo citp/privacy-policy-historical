@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605231418id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231021606id_/http%3A//www.tazinga.com/privacy) for the most accurate reproduction.*
 
 # Tazinga!
 
-This PRIVACY POLICY (this "Policy") relates to the use of Adverplex's website, TAZINGA™.COM, (the "Site") and is applicable to all information collected about you through the Site.
+This PRIVACY POLICY (this "Policy") relates to the use of this website, TAZINGA™.COM, (the "Site") and is applicable to all information collected about you through the Site.
 
-Adverplex, Inc. ("Adverplex", "we", "us" or "our") discloses the information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that we collect from you on this Site and the other people who may also visit the Site (the "Users") and how we may use that information. By providing any information, you agree to our use of that information consistent with this Policy.
+We ("we", "us" or "our") disclose the information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that we collect from you on this Site and the other people who may also visit the Site (the "Users") and how we may use that information. By providing any information, you agree to our use of that information consistent with this Policy.
 
 Please read this Policy carefully before providing us with any information. If you have questions about this Policy, e-mail us at [Contact Us](mailto:%69%6e%66%6f@%74%61%7a%69%6e%67%61.%63%6f%6d).
 
@@ -24,7 +24,7 @@ We also employ a software technology called "clear gifs," which helps us better 
 
 If you visit this Site by "clicking through" from another website, and you have registered with that other website, then certain information about you that you provided to that other website, such as the terms you were searching on that led you to the Site, may be transmitted to us and we may use it. You should carefully review the privacy policy of any website from which you reached the Site in order to determine what information was collected by that website and for what purpose(s) you agreed that website could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with this Policy.
 
-## Adverplex's Policy Regarding Children Under the Age of 13
+## Policy Regarding Children Under the Age of 13
 
 The Site is not intended for children under the age of 13, and we do not knowingly collect or use any information from children under the age of 13.
 
@@ -57,7 +57,7 @@ Please be aware that our promotional partners, advertisers, sponsors, and other 
 
 As you might expect, we must cooperate with legal authorities, and may in some circumstances be required to disclose the information you provided (whether or not personally identifiable information) in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We don't expect this to happen, but if it does, we will provide only the information required. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this Policy, you consent to our right to do so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we believe we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights.
 
-At some point, Adverplex may establish subsidiaries, divisions, or other related companies. When that happens, then we may disclose your information to those related companies, in which case we will request those related companies to abide by this Policy or their own company policy, if appropriate and applicable. We may also disclose some information to a potential acquirer, although such disclosure would be subject to normal and customary confidentiality requirements.
+At some point we may establish subsidiaries, divisions, or other related companies. When that happens, then we may disclose your information to those related companies, in which case we will request those related companies to abide by this Policy or their own company policy, if appropriate and applicable. We may also disclose some information to a potential acquirer, although such disclosure would be subject to normal and customary confidentiality requirements.
 
 ## Notice
 
@@ -75,4 +75,4 @@ E-mail: [Contact Us](mailto:%69%6e%66%6f@%74%61%7a%69%6e%67%61.%63%6f%6d)
 
 Effective Date: 12/01/08
 
-Copyright © 2008 Adverplex, Inc. All rights reserved.
+Copyright © 2008-2009 Tazinga. All rights reserved.
