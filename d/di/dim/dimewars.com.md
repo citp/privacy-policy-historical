@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimewars.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312064052id_/http%3A//www.dimewars.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimewars.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231085948id_/http%3A//www.dimewars.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Dime Wars Privacy Policy
 
