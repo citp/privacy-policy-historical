@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003304id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231010450id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
 # www.usacycling.org -- CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
-[](http://www.usacycling.org/openx/www/delivery/ck.php?oaparams=2__bannerid=20__zoneid=10__cb=069446f5a1__oadest=http://www.velowear.com/usacdf.aspx)
+[](http://www.usacycling.org/openx/www/delivery/ck.php?oaparams=2__bannerid=20__zoneid=10__cb=e60a33f130__oadest=http://www.velowear.com/usacdf.aspx)
 
 CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
@@ -45,11 +45,11 @@ The purposes for which USAC collects and retains personal information regarding 
 
 Parents may opt to delete or remove personal information obtained on-line relating to their child. Parents also have the option to consent to the collection and use of their child's information without consenting to the disclosure of the information to third parties. To exercise these options, parents may: 
 
-1. Contact USAC's Membership Department at (719) 866-4581  specifying what information pertaining to their child the parent wishes deleted or removed.
+1. Contact USAC's Membership Department at (719) 434-4200  specifying what information pertaining to his/her child the parent wishes deleted or removed.
 
-2. Send an e-mail to USAC at membership@usacycling.org specifying what information pertaining to their child the parent wishes removed or deleted.
+2. Send an e-mail to USAC at membership@usacycling.org specifying what information pertaining to his/her child the parent wishes removed or deleted.
 
-3. Write to USAC at 1 Olympic Plaza, Colorado Springs, Colorado 80909 Attention: Membership specifying what information pertaining to their child the parent wishes deleted or removed . 
+3. Write to USAC at 210 USA Cycling Point, Suite 100, Colorado Springs, Colorado, 80919-2215, Attention: Membership, specifying what information pertaining to his/her child the parent wishes deleted or removed . 
 
 Parents are advised that should they opt to delete or remove personal information obtained on-line pertaining to their child, all licenses held by the child may be expired as personal information is integral to USA Cycling's licensing program. In addition, information relating to your child will be removed from all e-mail or mailing lists including, but not limited to, lists relating to racing opportunities, your child's ranking in the Results and Ranking program, and Member Benefits available to your child.
 
