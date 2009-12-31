@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itempad.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618194843id_/http%3A//www.itempad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itempad.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231213135id_/http%3A//www.itempad.com/privacy.php) for the most accurate reproduction.*
 
 # itempad article site publishing community
 
