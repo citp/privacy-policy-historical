@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621043137id_/http%3A//www.platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231223036id_/http%3A//www.platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
 
 # PlatinumLive
 
@@ -44,7 +44,11 @@ The primary use for your information is to provide you with services you have re
 
 We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for market research purposes – in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
 
-**VI.** **Special Cases**.
+**VI.** **Personal Information**
+
+No personal information will be shared with any third parties without the customer's permission.
+
+**VII.** **Special Cases**.
 
 It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
 
@@ -58,13 +62,13 @@ It is our policy not to use or share the personal information about Visitors or 
 
 5\.  We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
-**VI.** **Transmittals from Us**
+**VIII.** **Transmittals from Us**
 
 We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [support@platinumlive.com](mailto:support@platinumlive.com) or by clicking the link at the bottom of these emails.  If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
 
 If you provide your information to us, use the Website, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.
 
-**VII.** **Public Forums, Member Directories, and Internal Messaging:**
+**IX.** **Public Forums, Member Directories, and Internal Messaging:**
 
 A. **Public Forums** – at the time of the instatement of this Policy, we offer public forums, which provide services that allow members to post messages to the public and the membership at large. In order to participate in a public forum, we may require information from our users such as a user name and password. Any information posted to a Forum should immediately be considered to be public information.
 
@@ -72,15 +76,15 @@ B. **Member Directories** – Any information provided in a user profile, member
 
 C. **Internal Messaging** – We provide an internal messaging system for use between members of our Website. Any information that you send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
 
-**VIII.** **Our Commitment to Data Security.**
+**X.** **Our Commitment to Data Security.**
 
 We take measures, including data encryption, firewall, and the use of other in-house technologies to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
 
-**IX.** **How to Access or Modify Your Information**. 
+**XI.** **How to Access or Modify Your Information**. 
 
 We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [support@platinumlive.com](mailto:support@platinumlive.com).
 
-**X.** **Where to Direct Questions About Our Privacy Policy**.
+**XII.** **Where to Direct Questions About Our Privacy Policy**.
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [support@platinumlive.com](mailto:support@platinumlive.com).
 
