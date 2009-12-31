@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529035441id_/http%3A//www.eoem.cc/article.php%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231170250id_/http%3A//www.eoem.cc/about%2C22-Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy_Detail Info_Information_Wholesale - China Wholesale - Buy Wholesale Products from Chinese Wholesaler
 
