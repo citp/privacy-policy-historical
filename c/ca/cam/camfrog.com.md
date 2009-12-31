@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626235325id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025517id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
 
 # Camfrog - Privacy Policy
 
-March 19, 2009
+December 26, 2009
 
 Your privacy is important to Camfrog. Camfrog makes it a priority to respect your privacy and to protect your personal information.
 
@@ -57,9 +57,28 @@ Camfrog has a toolbar that is available for Internet Explorer and Firefox. Camfr
 
 You may uninstall Camfrog using the Windows Add/Remove programs function.
 
+### Children's Privacy Statement
+
+Camfrog has created this children's privacy statement to explain our practices with respect to the online collection and use of personal information from children under the age of thirteen.  
+1\. We do NOT knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of thirteen, we will delete such information from our records.  
+2\. Because we do not collect any personally-identifiable information from children under the age of thirteen, we also do NOT knowingly distribute such information to third parties.   
+3\. We do NOT knowingly allow children to participate in online activities by requiring or collecting personally-identifiable information.
+
 ### Advertising
 
-We sometimes use third-party advertising companies to serve ads when you visit our website and use our software. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We sometimes use third-party advertising companies to serve ads when you visit our website and use our software. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
+Camfrog may contain links to other web sites on the Internet that are owned and operated by third parties. Camshare LC and our websites do not endorse and are not responsible for the operation of or content located on or through any such third party web site. We do not have control over the personal information collection and use practices of third parties and such third party practices may differ from this privacy policy. You should review the privacy policy of every web site you visit to ensure that you are comfortable with the practices of that particular web site. 
+
+### Third Party Sharing
+
+In certain instances we may also share your non personally identifiable information with third party vendors performing functions on our behalf (or on behalf of our affiliated companies) which may include but are not limited to the following:   
+1\. deliver our merchandise   
+2\. administer our promotions  
+3\. provide us marketing or promotional assistance  
+4\. analyze our data  
+5\. send marketing communications in the form of email or direct mail on our behalf.
+
+Our vendors agree to use this information, and we share information with them, only to carry out our requests. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
 ### Policy Privacy Updates
 
