@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acelayouts.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181813id_/http%3A//www.acelayouts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acelayouts.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231122658id_/http%3A//www.acelayouts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
