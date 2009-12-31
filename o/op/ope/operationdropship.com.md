@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationdropship.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602233844id_/http%3A//operationdropship.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationdropship.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231130733id_/http%3A//operationdropship.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ _Last updated February, 2008._
 
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY FOR UPDATES.
 
-The information collection, use, and dissemination practices of Operation Drop Ship (the "Company") are discussed in this policy. This policy applies to Company's information collection (a) on Company's websites, (b) on various third party websites, and (c) to Company's other information collection, including the purchase of customer lists from third parties.
+The information collection, use, and dissemination practices of Operation Dropship (the "Company") are discussed in this policy. This policy applies to Company's information collection (a) on Company's websites, (b) on various third party websites, and (c) to Company's other information collection, including the purchase of customer lists from third parties.
 
 1\. Collection of Information.
 
@@ -46,7 +46,7 @@ The information collection, use, and dissemination practices of Operation Drop S
 
 2.3 Targeted Advertising. The Company uses Individual Information to target advertising to an individual. When an individual is using the Internet, the Company uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and the Company attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. The Company may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
 
-2.4 Direct Mail and Telemarketing. The Company uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. Monitoring and Recording. You hereby give permission and consent to Operation Drop Ship or its affiliates to contact you via phone or email and agree to allow Operation Drop Ship or its affiliates to monitor or record your phone conversations. Verbal notice may not be provided of monitoring or recording.
+2.4 Direct Mail and Telemarketing. The Company uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. Monitoring and Recording. You hereby give permission and consent to Operation Dropship or its affiliates to contact you via phone or email and agree to allow Operation Dropship or its affiliates to monitor or record your phone conversations. Verbal notice may not be provided of monitoring or recording.
 
 2.5 Use of Technology Information. The Company uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Company's web sites are most frequently visited. This information helps the Company to better understand the online habits of individuals so that the Company can target advertising and promotions to them.
 
