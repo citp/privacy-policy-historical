@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415123959id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231015617id_/http%3A//multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
