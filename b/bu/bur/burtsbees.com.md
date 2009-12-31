@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193304id_/http%3A//www.burtsbees.com/webapp/wcs/stores/servlet/UtilityView%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D10051%26contentPageId%3D79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231055932id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Burt's Bees
 
@@ -50,7 +50,7 @@ By using this Site, you agree to the terms of this Privacy Policy. Whenever you 
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [Learn more about SSL. >](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.BURTSBEES.COM&lang=en)
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [Learn more about SSL. >](https://seal.verisign.com/splash?lang=en&form_file=fdf/splash.fdf&dn=WWW.BURTSBEES.COM)
 
 We implement various security measures in accordance with industry standards to protect the security of your personal information both online and offline. This Site takes reasonable steps to protect personally identifiable information as you transmit it to our Site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration, or destruction. You should always keep in mind that no Internet transmission is ever completely secure or error-free. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -82,7 +82,7 @@ This Site may contain links or references to other websites to which this Privac
 
 ## Choice/Opt-Out
 
-You may opt-out of receiving future Opt-In Communications from Burt's Bees when you register at the Site or otherwise provide your contact information to the Site. You may change your preferences at any time by revising your profile by [clicking here](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?catalogId=10051&storeId=10001&langId=-1), clicking the "unsubscribe" link at the bottom of any email Opt-In Communication you receive from us and following the instructions provided therein.
+You may opt-out of receiving future Opt-In Communications from Burt's Bees when you register at the Site or otherwise provide your contact information to the Site. You may change your preferences at any time by revising your profile by [clicking here](https://web.archive.org/LogonForm?langId=-1&storeId=10001&catalogId=10051), clicking the "unsubscribe" link at the bottom of any email Opt-In Communication you receive from us and following the instructions provided therein.
 
 ## How to Contact Us
 
