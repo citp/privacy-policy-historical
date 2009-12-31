@@ -1,0 +1,300 @@
+<!--The following is the downloaded HTML source of the goalunited.org privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231232754id_/http%3A//www.goalunited.org/index/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>    
+	  <meta name="keywords" lang="de" content="online, football, manager, Fussball, Fußball, kostenlos,
+	  Verein, Manager, Game, Games, Spiel, Spiele, Managergame, Managerspiel, Fussballmanager, Fußballmanager">
+	  <meta name="keywords" lang="en-us" content="online, soccer, manager, fantasy soccer">
+	  <meta name="keywords" lang="en" content="online, football, manager, fantasy football">
+	  <meta name="description" lang="de" content="goalunited ist der Online-Fußballmanager einer neuer Generation von Browserspielen.
+	  Das &quot;look &amp; feel&quot; kann sich mit ähnlichen Vollpreistitel aus dem Konsolen- und PC-Bereich messen lassen und das
+	  für &quot;lau&quot;!">
+	  <meta name="description" lang="en" content="goalunited is the award-winning online football manager browsergame. Play against 700.000 manager around the world.">  
+	  <meta name="description" lang="en-us" content="goalunited is the award-winning online soccer manager browsergame. Play against 700.000 manager around the world.">
+	  
+	    	
+   
+   
+   
+<title>goalunited - The online football manager game!</title><link href="http://webmedia.goalunited.org/css/nyroModal.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/resources/css/base.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://www.goalunited.org/privacy" rel="canonical"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="http://webmedia.goalunited.org/js/jquery.js"></script>
+<script type="text/javascript" src="http://webmedia.goalunited.org/js/jquery-highlight.js"></script>
+<script type="text/javascript" src="http://webmedia.goalunited.org/js/nyroModal.js"></script>
+<script type="text/javascript" src="http://webmedia.goalunited.org/js/supersleight .plugin.js"></script>
+<script type="text/javascript">
+    //<!--
+    
+   	$(document).ready(function(){
+   		$.fn.nyroModal.settings.zIndexStart= 10002;
+       	$.fn.nyroModal.settings.addImageDivTitle = false;
+       	$.fn.nyroModal.settings.padding = 0;
+       	$.fn.nyroModal.settings.resizable = false;
+       	$.fn.nyroModal.settings.overflow = 'hidden';
+	   	$("#nyroModal").nyroModal();
+	   	$("#box_screenshots a").nyroModal();
+       	$(".button").mouseover(function() {
+			$(this).find(".button_links").css({ 'background-position' : '0px -22px' });
+			$(this).find(".button_mitte").css({ 'background-position' : '0px -22px' });
+			$(this).find(".button_rechts").css({ 'background-position' : '0px -22px' });
+			
+			if ( this.id == 'game') {
+            	$("#game .button_text").css({ 'color' : '#FFF' });
+            }
+		});
+		$(".button").mouseout(function() {
+			$(this).find(".button_links").css({ 'background-position' : '0px 0px' });
+			$(this).find(".button_mitte").css({ 'background-position' : '0px 0px' });
+			$(this).find(".button_rechts").css({ 'background-position' : '0px 0px' });
+			
+			if ( this.id == 'game') {
+            	$("#game .button_text").css({ 'color' : '#C00' });
+            }
+		});
+		$(".fa_question").click(function(){
+            var old_id = $('.fa_answer:visible').attr('id');
+            if (old_id) {
+                old_id = old_id.match(/answer_(.*)/);
+                $('.fa_question[id=question_'+old_id[1]+']').css({'background-color': '#333'});
+            }
+            $('.fa_answer:visible').slideUp('fast');
+            var id_num = this.id.match(/question_(.*)/);
+            if ( !old_id || old_id[1] != id_num[1] ) {
+                $('.fa_answer[id=answer_'+id_num[1]+']').slideDown('fast');
+                $('.fa_question[id=question_'+id_num[1]+']').css({'background-color': '#4D4D4D'});
+            }
+        });
+        $(".fa_question").hover(function(){
+            $(this).css({'background-color': '#4D4D4D'});
+            },function(){
+                var id_num = this.id.match(/question_(.*)/);
+                if (!$('.fa_answer[id=answer_'+id_num[1]+']:visible').length){
+	                $(this).css({'background-color': '#333'});
+	            };
+                    
+            });
+        $.ajax({
+          dataType: 'jsonp',
+          jsonp: 'jsonp_callback',
+		  url: "http://www.goalunited.org/toolbar",
+		  success: function(response){
+		    $("#toolbar").html(response.html[0]);
+		  }
+        });
+        if ( $("#carousel").length ) {
+	        if ( jQuery.browser.msie && jQuery.browser.version < 7.00){   //Carousel Weiche fuer IE 6
+	            var $kids = $(".award");
+	            var rand = Math.floor(Math.random()*$kids.length);
+	            var el = $kids[rand];
+	            $("#carousel").replaceWith(el);
+	        } else {
+	            $("#carousel").jCarouselLite({
+	                visible:1,
+	                auto: 8000
+	            });
+	        }
+	    }
+	    
+	    
+	    $("body").supersleight();
+	});
+    //-->
+</script><link rel="shortcut icon" href="/resources/images/favicon.ico" type="image/x-icon"> 
+</head>
+<body background="http://webmedia.goalunited.org/images/bg.jpg" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+     <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+    <div id="toolbar"></div>
+    <div align="center" style="margin-top:0px; width:100%;z-index:1">
+        <div align="center" style="margin-top:0; width:995px;">
+        	<a href="http://www.goalunited.org/privacy">
+        		<div class="gu_logo">
+        			<script language="JavaScript" type="text/javascript">
+		<!--
+		// Version check based upon the values entered above in "Globals"
+		var hasReqestedVersion = DetectFlashVer(8, 0, 0);
+		// Check to see if the version meets the requirements for playback
+		if (hasReqestedVersion) {
+		    // embed the Flash Content SWF when all tests are passed
+		    AC_FL_RunContent(
+		                "src", "/resources/images//logo",
+		                "align", "middle",
+		                "width","260",
+		                "height","130",
+		                "id", "registerMovie",
+		                "quality", "high",
+		                "bgcolor", "#FFFFFF",
+		                "name", "/resources/images//logo.swf",
+		                "allowScriptAccess","sameDomain",
+		                "type", "application/x-shockwave-flash",
+		                "codebase", "http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab",
+		                "pluginspage", "http://www.adobe.com/go/getflashplayer",
+		                "wmode", "transparent"
+		    );
+		}
+		// -->
+		</script>        		</div>
+        	</a>
+        	<h1 id="subtitle">goalunited - the football manager</h1>
+            
+    
+<div align="center" style="margin-top:0; width:995px;">
+    <div class="menue">
+        <div class="menue_links"></div>
+        <div class="menue_mitte">
+                        <a href="/index">
+            <div class="button" id="active">
+                <div class="button_links" id="imgLeft"></div>
+                    <div class="button_mitte">
+                        <span class="button_text">
+                            Home                        </span>
+                    </div>
+                <div class="button_rechts" id="imgRight"></div>
+            </div>
+            </a>
+                        <a href="http://wiki.goalunited.org">
+            <div class="button">
+                <div class="button_links" id="imgLeft"></div>
+                    <div class="button_mitte">
+                        <span class="button_text">
+                            Manual                        </span>
+                    </div>
+                <div class="button_rechts" id="imgRight"></div>
+            </div>
+            </a>
+                        <a href="/forum">
+            <div class="button">
+                <div class="button_links" id="imgLeft"></div>
+                    <div class="button_mitte">
+                        <span class="button_text">
+                            Forum                        </span>
+                    </div>
+                <div class="button_rechts" id="imgRight"></div>
+            </div>
+            </a>
+                        <a href="/features">
+            <div class="button">
+                <div class="button_links" id="imgLeft"></div>
+                    <div class="button_mitte">
+                        <span class="button_text">
+                            Features                        </span>
+                    </div>
+                <div class="button_rechts" id="imgRight"></div>
+            </div>
+            </a>
+                        <a href="/support">
+            <div class="button">
+                <div class="button_links" id="imgLeft"></div>
+                    <div class="button_mitte">
+                        <span class="button_text">
+                            Support                        </span>
+                    </div>
+                <div class="button_rechts" id="imgRight"></div>
+            </div>
+            </a>
+                        <a href="http://game.goalunited.org">
+            <div class="button" id="game">
+                <div class="button_links" id="imgLeft"></div>
+                    <div class="button_mitte">
+                        <span class="button_text">
+                            Login                        </span>
+                    </div>
+                <div class="button_rechts" id="imgRight"></div>
+            </div>
+            </a>
+                    
+       </div>
+       <div class="menue_rechts"></div>
+    </div>
+</div>            <div class="main_container">
+                <div class="header"></div>
+                <div class="dynamic">
+                    <div class="content">
+                         <div class="box box_large">
+        <img src="/resources/images/lo_corner.gif" alt="" class="lo"><img src="/resources/images/ro_corner.gif" alt="" class="ro">
+        <img src="/resources/images/lu_corner.gif" alt="" class="lu"><img src="/resources/images/ru_corner.gif" alt="" class="ru">
+        <h2 class="headline">Privacy Policy</h2>
+        <p>Privacy policy<br><br>of northworks Software GmbH, Stahltwiete 23, 22761 Hamburg, commercial register section B 96406 Hamburg local court (in the following referred to as "NORTHWORKS")<br><br>NORTHWORKS takes concerns of privacy very seriously and would like to provide assurance that the privacy of the users of its services (in the following referred to as "users") will be protected in the context of the applications provided. How users' personal data is handled is explained in the following privacy policy. The content of the privacy policy will be adapted occasionally, which NORTHWORKS will clearly indicate. NORTHWORKS asks the user to download the privacy policy and to read it in any event.<br><br><br>General<br><br>In principle, NORTHWORKS websites can be visited without the need to provide personal data. However, in order to be able to use the services of NORTHWORKS, a user account and one or more gaming accounts must be opened, and access data must be shared for this purpose. This requires that certain personal data be disclosed to NORTHWORKS. NORTHWORKS must always be in possession of certain current personal data of the user in order to be able to communicate with the user; otherwise, the user account and the gaming account(s) must be blocked. Furthermore, to buy premium packages, GIC and/or other features in the online shop, it is necessary that the user disclose additional personal data so that payments can be processed.<br><br>In doing so, NORTHWORKS always adheres to the statutory requirements for privacy, in particular the provisions of the German Data Protection Act ("BDSG") and of the German Telemedia Act ("TMG"). <br><br>NORTHWORKS collects, processes and uses the data from users only if they grant their consent, or if a provision of the law permits the processing or use. In doing so, only such data as are necessary for performing and making use of the services, or which are provided voluntarily, are collected, processed and used.<br><br><br>1.    Personal data<br><br>All data that contain information about the personal or material circumstances of a certain or determinable person, and thus in particular name, e-mail address, age, gender, date of birth, residential address and bank account data, etc., among other things, are personal.<br><br><br> <br>2.    What data are collected and what are they used for?<br><br>The following data are collected for the following purposes and on the following occasions:<br><br>a)    The user name, a password and the e-mail address are collected when registering at NORTHWORKS. The e-mail address is collected in order to be able to contact the user in the context of rendering services, to be able to confirm the application, to be able to send a replacement password if the password is lost, and to inform the user, for instance, about new rules, offers, products or the like. The reason the user name is collected is to be able to assign a user account to the user. <br>b)    When the user makes use of the service, the IP addresses of the computer with which the user has logged on are recorded along with the time and type of use. These data are collected in order to be able to determine the perpetrator of rule violations, and among other things in order to prevent a user from maintaining multiple accounts in contravention to the rules and thus manipulating the applications offered by NORTHWORKS. <br>c)    In the context of ordering premium packages, GIC or other features, credit card information or account data for the user, for instance, will be collected depending on the selected payment method in order to be able to process the corresponding payments. The data entered into the forms by the user are recorded in each case.<br><br><br>3.    Will the data be conveyed to third parties?<br><br>When processing payments in the context of orders for premium packages, GIC or other features, it is necessary to convey personal data such as the name and the account number or credit card information to third parties who process the payments as contractual partners of NORTHWORKS. NORTHWORKS affirms that care will be exercised that the data conveyed to third parties will be processed and used only for the intended purposes.<br><br><br>4.    How long will the data be stored and when will they be deleted?<br><br>The collected data will be stored only as long as necessary for the performance of the services by NORTHWORKS, or as a result of provisions of the law. The user name, the password, the e-mail address, the IP address of the computer used as well as the data about usage time and type will be stored as long as the user account of the user exists. If a user closes any of its gaming accounts, the data related to it will be deleted. The data will be deleted within a period of a few days after termination.<br><br>The user can demand the deletion of some or all collected data at any time. If the user demands the deletion of the e-mail address, the user name, the IP address of the computer used as well as the data about usage time and type, then the user account and gaming accounts will be deleted as a consequence, because the required communication with the user and/or the security of the games can no longer be sustained.<br><br><br>5.    Are cookies used?<br><br>Cookies are text files that a web server sends to a browser, or which are otherwise created. The user's computer sends information to the server when NORTHWORKS pages are subsequently accessed. Cookies make it possible to save information on the user's computer and facilitate the use of web sites by allowing them to be optimally customized to the respective user and by making it possible to save personal settings. NORTHWORKS uses cookies in order to recognize users without authentication, and to display the web pages and games in the language they selected most recently. In addition, cookies are used for fraud detection. If the user allows no cookies in his browser settings, the functionalities of the NORTHWORKS services are severely limited, or the services do not function at all.<br><br><br>6.    Tracking services<br><br>NORTHWORKS commissions third-party firms to analyse the use of the web pages by the respective users with the help of cookies . The information generated using cookies is transmitted to a server abroad belonging to the service provider and stored there. The service provider will use this information in order to analyze the use of the web site in order to report to NORTHWORKS about web site activities and in order to provide other services associated with web site use and internet use. The service provider may also transmit this information to third parties if required by law or to the extent that third parties process this data on behalf of the service provider. In no case will the service provider bring together the IP address of the user with other of the service provider's data .<br><br><br>7.    How will the data be protected?<br><br>In order to ensure safe data transmission, NORTHWORKS uses Secure Sockets Layer software (SSL) in order to encrypt the transmitted information. In addition, NORTHWORKS maintains physical, electronic and procedural safety measures in connection with the collection, the storage and the disclosure of the personal data of users. Access to the user account is secured with individual passwords.<br><br><br>8.    Information<br><br>At any time, the user has the right to demand information about the type and scope of its data stored by NORTHWORKS and about the data itself. No fees will be charged for the provision of information. <br><br><br> <br>Consent to data collection and processing<br><br>I agree that the personal data provided by me, as well as the data collected as a result of my use of the services of NORTHWORKS, in particular my IP address as well as times and type of use as described above under 2), will be recorded and stored.<br><br>I am aware that if my consent is withheld no user account and no gaming account can be established, and that I will not be able to use the services of NORTHWORKS in this case.<br><br>The consent to collect, store and use the personal user data can be revoked at any time, effective for the future, by sending an e-mail to the address: cancel (at) matchground (dot) com. In this case, user account and gaming account will be deleted, because the collection, storage and use of the personal user data by NORTHWORKS in order to control compliance with the rules for the applications is no longer necessary.<br><br><br>Contact: <br>Questions about how the data are handled are to be directed to Mr. Klaus Klattenberg; E-mail: k (dot) klattenberg (at) northworks (dot) de<br><br>Hamburg, January 19, 2009<br><br>northworks Software GmbH<br>Stahltwiete 23<br>22761 Hamburg<br>Fax: +49 (0) 40 – 78 10 70 74<br><br><br>Executives authorized to represent the company:<br>Sascha Kaddatz, Thomas Lehr and Axel Würthele<br>Court of registration: Hamburg local court<br>Registration number: Commercial register section B 96406<br>Value-added tax identification number: DE246495817        </p>
+</div>                    </div>  
+                </div>
+                
+                <div class="footer">
+                    <div class="sitemap">
+                        <img id="footer_image" src="http://webmedia.goalunited.org/images/footer_gu.gif">
+                        
+                        <div class="link_column">
+                            <h3>goalunited</h3>
+                            <a href="http://www.goalunited.org/de">german</a><br><a href="http://www.goalunited.org">english</a><br><a href="http://www.goalunited.org/es">español</a><br><a href="http://www.goalunited.org/pt">português</a><br><a href="http://www.goalunited.org/it">italiano</a><br><a href="http://www.goalunited.org/pl">polski</a><br><a href="http://www.goalunited.org/tr">türkçe</a><br><a href="http://www.goalunited.org/fr">français</a><br><a href="http://www.goalunited.org/nl">nederlands</a><br><a href="http://www.goalunited.org/ru">pусский язык</a><br><a href="http://www.goalunited.org/fi">suomi</a><br>                        </div>
+                        
+                        <div class="link_column">
+                            <h3>ballersunited</h3>             
+                            <a href="http://www.ballersunited.org?lang=de">german</a><br><a href="http://www.ballersunited.org?lang=en">english</a><br><a href="http://www.ballersunited.org?lang=es">español</a><br><a href="http://www.ballersunited.org?lang=tr">türkçe</a><br>                        </div>
+                        
+                        <div class="link_column">
+                            <h3>goalunited.org</h3>
+                                                            <a href="/index">Home</a>
+                                <br>
+                                                            <a href="http://wiki.goalunited.org">Manual</a>
+                                <br>
+                                                            <a href="/forum">Forum</a>
+                                <br>
+                                                            <a href="/features">Features</a>
+                                <br>
+                                                            <a href="/support">Support</a>
+                                <br>
+                                                            <a href="http://game.goalunited.org">Login</a>
+                                <br>
+                                                    </div>
+                        
+                        <div class="link_column">
+                            <h3>Share</h3>
+                            <div class="icon_link">
+                                <img src="http://webmedia.goalunited.org/images/Twitter-16x16.gif" alt="Follow us on Twitter">
+                                <a href="http://twitter.com/goalunited">
+                                    &nbsp;Follow us on Twitter                                </a>
+                            </div>
+                            
+                            <div class="icon_link">
+                                <img src="http://webmedia.goalunited.org/images/FaceBook-16x16.gif" alt="Facebook Fan-Website">
+                                <a href="http://www.facebook.com/pages/goalunited/37827576360">
+                                    &nbsp;Facebook Fan-Website                                </a>
+                            </div>
+                            
+                            <div class="icon_link">
+                                <img src="http://webmedia.goalunited.org/images/Digg-16x16.gif" alt="Digg this!">
+                                <a href="http://digg.com/submit?url=www.goalunited.org&amp;title=goalunited&amp;bodytext=The%20next%20generation%20online%20Football%20Manager%20Game" target="_blank">
+                                    &nbsp;Digg this!                                </a>
+                            </div>
+                            
+                            <div class="icon_link">
+                                <img src="http://webmedia.goalunited.org/images/delicious-16x16.gif" alt="Bookmark this on Delicious">
+                                <a href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;">
+                                    &nbsp;Bookmark this on Delicious                                </a>
+                            </div>                              
+                        </div>
+                        
+                        <div class="link_column">
+                            <h3>northworks</h3>
+                            <a href="http://www.northworks.de">northworks</a><br>
+                            <a href="/index/impressum">Imprint</a><br>
+                            <a href="/index/tc">GTC</a><br>
+                            <a href="/index/privacy">Privacy Policy</a>
+                        </div>
+                        
+                    </div>
+                    <div class="footer_copyright">
+                        <a href="http://www.northworks.de">©2005-2009 northworks Software GmbH</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1168329-13");
+pageTracker._setDomainName("www.goalunited.org");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script><script src="http://media.goalunited.org/inc/js/track.js?v=1" type="text/javascript"></script><!-- njin crm --><iframe src="http://farm.plista.com/activity;itemid:485692;event:1" width="1" height="1" style="display:none">    
+</body>
+</html>
+</iframe></body></html>
