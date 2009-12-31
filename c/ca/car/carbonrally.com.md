@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the carbonrally.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623182349id_/http%3A//www.carbonrally.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonrally.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231212152id_/http%3A//www.carbonrally.com/pages/privacy) for the most accurate reproduction.*
 
 # Carbonrally – climate change community focused on fun, social, and competitive challenges
-
-###### Search Carbonrally
-
-Have an idea to improve the Rally? Please provide [feedback](mailto:feedback@carbonrally.com)
 
   
 Carbonrally.com recognizes the importance of protecting information collected from you through our web site. **We will not knowingly share your email address or any other personally identifiable information with any marketing companies under any circumstances.** Further, we have adopted a privacy policy described below. Carbonrally.com will comply with this policy, and any applicable privacy-related law, when we gather information from users of the site. This policy is current as of October 15, 2007. This policy may change, and you should check this area of the site from time to time to obtain the most current version of this policy.
