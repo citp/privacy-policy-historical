@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmginteractive.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621020421id_/http%3A//www.tmginteractive.com/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmginteractive.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231114527id_/http%3A//tmginteractive.com/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Welcome to Tiburon Media Group
 
