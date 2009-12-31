@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522111705id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231141034id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
 
-# Vopium Privacy Policy
+# Vopium privacy policy
 
 Your privacy is important to Vopium, and Vopium is committed to respecting your privacy and the confidentiality of your personal data, traffic data, and communications content. This Privacy Statement is designed to assist you in understanding how Vopium uses and safeguards the information you provide for using Vopium Software and/or Vopium Service.
 
@@ -115,7 +115,7 @@ Vopium shall take appropriate organisational and technical measures to protect t
 Vopium shall take appropriate technical measures to protect the confidentiality of the Communications Content via its Vopium Software and Vopium Service, with due observance of the applicable obligations and exceptions under the relevant legislation.
 
 **7\. Can this Privacy Statement be modified?**   
-Vopium reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform you of these changes by publishing the revised Privacy Statement at [www.vopium.com/privacy-policy](https://web.archive.org/web/20090522111705id_/http%3A//vopium.com/privacy-policy). The revised Privacy Statement shall come into effect within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking ACCEPT You agree that the express acceptance by you, or your continued use of the Vopium Software or Vopium Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Statement.
+Vopium reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform you of these changes by publishing the revised Privacy Statement at [www.vopium.com/privacy-policy](https://web.archive.org/web/20091231141034id_/http%3A//vopium.com/privacy-policy). The revised Privacy Statement shall come into effect within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking ACCEPT You agree that the express acceptance by you, or your continued use of the Vopium Software or Vopium Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Statement.
 
 **8\. What rights do you have and how can you contact Vopium?**   
 If you would like to exercise your right to view, correct, complete or remove your Personal Data, please contact Vopium at [delete@vopium.com](mailto:%20delete@vopium.com). This e-mail address is being protected from spam bots, you need JavaScript enabled to view it Vopium will fulfil your request within a reasonable period of time and upon verification of your identity, provided that Vopium will not contravene any applicable legislation by fulfilling your request.
@@ -124,9 +124,9 @@ If you would like to exercise your right to view, correct, complete or remove yo
 Vopium will retain your information for as long as is necessary to: **(1)** perform the Vopium Service; **(2)** invoice you for your use of the Vopium Service and until invoicing for the Vopium Service cannot be lawfully challenged and legal proceedings may no longer be pursued; **(3)** carry out Vopium marketing activities; **(4)** comply with applicable legislation, regulatory requests and relevant orders from competent courts; **(5)** enforce our Terms of Service; or **(6)** fulfil any of the other purposes detailed in this Privacy Statement. 
 
 © Vopium A/S  
-Frederiksborggade 12, 2  
-1360 København K  
-Phone: +45 70 20 07 55  
+Rådhusstræde 6, 2  
+DK-1466 Copenhagen K  
+Phone: + 45 72 72 72 27  
 CVR: 29 52 19 80  
 Email: [support@vopium.com](mailto:%20support@vopium.com) This e-mail address is being protected from spam bots, you need JavaScript enabled to view it  
 Last revised: 15 January 2007 
