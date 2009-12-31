@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritional-supplements-health-guide.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422213258id_/http%3A//www.nutritional-supplements-health-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritional-supplements-health-guide.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231054710id_/http%3A//www.nutritional-supplements-health-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nutritional-Supplements-Health-Guide.com
 
