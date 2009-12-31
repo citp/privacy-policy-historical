@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverbellecasino.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628074243id_/http%3A//www.riverbelle.com/casino/security-privacy.asp%3FEventId%3D25899) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverbellecasino.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231020900id_/http%3A//www.riverbelle.com/casino/security-privacy.asp%3FEventId%3D25899) for the most accurate reproduction.*
 
 # River Belle Online Casino - Security and Privacy
 
