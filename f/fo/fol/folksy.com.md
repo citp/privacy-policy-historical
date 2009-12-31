@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615180427id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231170505id_/http%3A//folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Folksy :: Sew, sketch, cut, mould, carve, cast, go!
+# Welcome to Folksy :: Mould, sew, cut, carve, knit, solder, go!
 
 ## Privacy Policy
 
@@ -26,21 +26,17 @@ Our website uses "cookies" to track use and allow customers to purchase from our
 
 We've tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/). If you have any questions relating to our Privacy Policy please email us at get@folksy.co.uk
 
-#### Featured Seller: [treaclezoo](https://web.archive.org/users/treaclezoo)
+#### Featured Seller: [Fee ](https://web.archive.org/users/niche)
 
-[](https://web.archive.org/shops/treaclezoo)
+[](https://web.archive.org/shops/niche)
 
-Plushes that look good enough to eat ! Whether it's a biscuit box or an ice lolly that you need, treaclezoo has the plush for you. [[more]](https://web.archive.org/users/treaclezoo)
+Charming handmade necklaces, dolls and gifts from Fee in Scotland. [[more]](https://web.archive.org/users/niche)
 
-##### Rated **positive** by **29** out of **29** people
+##### Rated **positive** by **13** out of **13** people
 
-[Visit Treaclezoo.](https://web.archive.org/shops/treaclezoo)
+[Visit Niche Handmade.](https://web.archive.org/shops/niche)
 
 #### Your Basket
 
 You have **0 items** in your basket, totalling **£0.00**.   
 [Checkout Now →](https://web.archive.org/cart)
-
-### Recently viewed items
-
-No items viewed
