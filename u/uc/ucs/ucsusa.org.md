@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624214954id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231084655id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
 
 # UCS Privacy Statement | Union of Concerned Scientists
 
@@ -20,6 +20,8 @@ UCS also collects aggregate website browsing information including (but not limi
 If you become a financial contributor to UCS, your postal mailing address may be exchanged with other organizations. We do not sell or exchange email addresses. Exchanging membership lists with other like-minded groups extends the reach of our work by helping us recruit new members. Members may opt out of such list exchanges at any time by sending an email including your full name and address to our membership department([member@ucsusa.org](mailto:member@ucsusa.org)).
 
 UCS stores member information on secure servers. We accept credit card donations via a secure server only.
+
+If you use the UCS action center to submit comments to a government agency your comments, name, mailing and email address _may_ be posted on the agency's web site in accordance with agency public records policies.
 
 **Privacy Policy Changes  
 ** UCS continually examines the best options for maintaining a high level of privacy on our site. From time to time, therefore, this privacy policy may be changed. Your use of the UCS website after the date specified below constitutes your agreement to our terms.
