@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgurulive.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607195527id_/http%3A//techgurulive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgurulive.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231042308id_/http%3A//techgurulive.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
