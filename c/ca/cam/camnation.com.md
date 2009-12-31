@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camnation.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425022839id_/http%3A//www.camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camnation.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231023937id_/http%3A//www.camnation.com%3Fp%3Dprivacy%26d%3D2) for the most accurate reproduction.*
 
 # CamNation.com
 
@@ -14,7 +14,7 @@ Visitors can access our Web site home page and browse our Web site without discl
 
 Whitelands receives and stores all information that you enter in our Web site and billing pages. In addition, Whitelands collects information about you during your visit, such as your IP Address, and Whitelands employs its software in order to ascertain your physical location when making a purchase. However, we do not collect information from other sources, such as public records or bodies, or private organizations. You are required to provide Whitelands with accurate and up-to-date information, and failure to provide Whitelands with such information could result in voiding your Agreement with Whitelands.
 
-You can inquire about your personal data by sending an e-mail to customerservice@camnation.com. Within a week, Whitelands shall provide you with a readable copy of the personal data which Whitelands keeps about you. Whitelands charges a $25 processing fee for the request. Prior to completing your request, Whitelands may require that you provide Whitelands with proof of your identity. Whitelands reserves the right to refuse any request for information though Whitelands will communicate the reason for its decision.
+You can inquire about your personal data by sending an e-mail to feedback@camnation.com. Within a week, Whitelands shall provide you with a readable copy of the personal data which Whitelands keeps about you. Whitelands charges a $25 processing fee for the request. Prior to completing your request, Whitelands may require that you provide Whitelands with proof of your identity. Whitelands reserves the right to refuse any request for information though Whitelands will communicate the reason for its decision.
 
 ### 2) Information Use:
 
@@ -56,7 +56,7 @@ Whitelands s.r.o
 Pobrezni 370/4  
 18600 Praha 8  
 Czech Republic  
-or e-mail: customerservice@camnation.com.**
+or e-mail: feedback@camnation.com.**
 
 If you have an inquiry or concern about our privacy policy, please contact us at the above address.
 
