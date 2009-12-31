@@ -1,282 +1,912 @@
-<!--The following is the downloaded HTML source of the miramax.com privacy policy that was archived on 2002-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020407205600id_/http%3A//www.miramax.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miramax.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231122040id_/http%3A//www.miramax.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 3.0//EN"><html><head>
-        <title>Miramax Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>Privacy Policy</title>
+	<link rel="shortcut icon" href="http://media.miramax.com/managed/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" src="http://media.miramax.com/managed/swfobject.js"></script>
+	<meta name="author" content="Miramax">
+	<meta http-equiv="CACHE-CONTROL" content="no-cache">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<meta http-equiv="content-language" content="en, us">
+	<meta name="robots" content="all">
 
-</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" text="#000000">
 
-<!-- BEGIN WEBSIDESTORY CODE v6.5 (no 1.0)-->
-<!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy 
-notice at: http://websidestory.com/privacy -->
-<script language="javascript" id="_hbc">
-var _pn="privacy_policy"; 	//page name(s)
-var _mlc="/Miramax/Miramax.com/Home";		//multi-level content category
-var _cp="null"; 		//campaign
-var _acct="DM510925K6FB38EN3;DM5109250IBW38EN3;DM51030813MR38EN3;DM5103083LCA38EN3"; 	//account number(s)
-var _pndef="PrivacyPolicy"; 		//default page name
-var _ctdef="full"; 		//default content category
-var _dlf="n";			//download filter
-var _elf="n";			//exit link filter
-var _epg="n"; 			//event page identifier
-var _hcv=65;			//code version
-var _mn="localagg";			//machine name
-var _gn="ehg-dig.hitbox.com";			//gateway name
+	<meta name="pageName" content="Privacy Policy">
+	
+<script type="text/javascript">
+//<![CDATA[
+
+var prog = 3;
+var progBlur = 4;
+var suggestResult = "";
+
+var currentIdSuggestion = -1;
+var suggestResponses = 0;
+var tempStyle = "";
+var ssTitles = new Array();
+		  
+
+function navStyle(val){
+	if(currentIdSuggestion ==-1){
+		currentIdSuggestion = 0;
+		tempStyle = "";
+	}else if(currentIdSuggestion >= suggestResponses-1 && val > 0){
+		currentIdSuggestion = currentIdSuggestion;
+	}else{
+		$("#sR"+currentIdSuggestion).css("background","");
+		currentIdSuggestion = currentIdSuggestion + (val);
+		tempStyle = "";
+	}
+	$("#sR"+currentIdSuggestion).css("background","#036AC7");
+}
+
+function overSSLink(isOver, cId){
+	if(currentIdSuggestion != -1){
+		$("#sR"+currentIdSuggestion).css("background","");		
+	}
+	if(isOver == 1)
+		tempStyle = "";
+		$("#sR"+cId).css("background","#036AC7");
+	if(isOver == 0)
+		$("#sR"+cId).css("background","");
+}
+
+function resetCount(){
+	prog = 0;
+	currentIdSuggestion = -1;
+	suggestResponses = 0;
+}
+
+function resetCountBlur(){
+	progBlur =0;
+}
+
+function countProgress(){
+	prog ++;
+	progBlur++;
+	search();
+}
+
+function search(){
+	var valSearchBox = $("#Mfinder").val();
+
+	if(valSearchBox == " ") return false;	
+	if(valSearchBox == "Search for Films and More...") return false;	
+	var suggestResults = "";
+	if (prog == 1 && valSearchBox!=""){		
+	valSearchBox = jQuery.trim(valSearchBox);
+	if(valSearchBox.substring(0,1) == "?" ||  valSearchBox.substring(0,1) == "*" || valSearchBox.substring(0,1) == " "){
+		valSearchBox = valSearchBox.substring(1);		
+	}
+	$("#suggestResultsDiv").html("<ul><li>searching for suggestions...</li></ul>");
+	$.Tache.Get({
+		type: "GET",
+		url:"/ajax/searchSuggest.action?searchText="+valSearchBox+"&fieldList=name,uriName",
+		dataType:"json",
+		success: function(responseObject){
+					suggestResults += "<ul>";
+					suggestResponses = responseObject.response.docs.length;
+					currentIdSuggestion = -1;
+					if(suggestResponses > 0){
+						for(i=0; i<responseObject.response.docs.length; i++){
+							ssTitles[i] = responseObject.response.docs[i].uriName;
+							suggestResults += "<a href=\"/"+responseObject.response.docs[i].uriName.replace(/-/g, '')+"/\"><div id='suggestion"+i+"' onclick=\"topHide('suggestBox');\" style='cursor:pointer;'>";					
+							if(i%2==0){
+								suggestResults +="<li class='odd' id='sR"+i+"' onmouseover='overSSLink(1,"+i+")' onmouseout='overSSLink(0,"+i+")'>";
+							}else{
+								suggestResults += "<li id='sR"+i+"' onmouseover='overSSLink(1,"+i+")' onmouseout='overSSLink(0,"+i+")'>";
+							}
+							suggestResults +="";
+							suggestResults += "<div style='width:90%;' id='suggestionR"+i+"'>"+responseObject.response.docs[i].name + "</div></li></div></a>";	
+						}
+				}else{
+					suggestResults += "<li>Click GO to perform your search!</li>";
+				}
+				suggestResults += "</ul>";
+				$("#suggestResultsDiv").html(suggestResults);
+				//alert(suggestResults);
+				return responseObject;
+   		     }
+		});
+	//topShow("suggestBox");
+	$("#suggestBox").slideDown("slow");
+
+	}
+	if(progBlur == 1){
+		$("#suggestBox").slideUp("slow");
+	}
+}
+
+function goToSearchPage(isEnter){
+	if(currentIdSuggestion != -1 && isEnter == 1 ){
+		window.location = "/"+ssTitles[currentIdSuggestion]+".html";	
+	}else{
+		var valSearchBox = $("#Mfinder").val();
+		if(valSearchBox != "" && valSearchBox != " " && valSearchBox != "Search for Films and More...") {
+			window.location = "/search.html?q="+valSearchBox+"&rows=10&start=0&sort=closest";
+		} else {
+			return false;
+		}
+	}
+}
+//]]>
 </script>
-<script language="javascript" defer="" src="http://a1604.g.akamai.net/f/1604/2007/1h/stats.hitbox.com/js/hbe-v65-no10-dig.js">
-</script>
-<script language="javascript">document.write("<\!--");
-</script><!--
-<noscript>
-<img src="http://ehg-dig.hitbox.com/HG?hc=localagg&cd=1&hv=6&ce=u&hb=DM510925K6FB38EN3;DM5109250IBW38EN3;DM51030813MR38EN3;DM5103083LCA38EN3&n=privacy_policy&vcon=/Miramax/Miramax.com/Home" border='0' width='1' height='1'>
-</noscript>
-<!--//-->
-<!-- END WEBSIDESTORY CODE  -->
 
 
-<!-- CHROME NONE -->
-<a name="top"></a>
+
+</head>
+
+<body id="dvdbluray">
+<!-- page name dvdbluray -->
+
+<div id="container">
+
+                <div id="bg-top"></div>
+	<div class="bg-grad" id="grad">
+
+               </div>		
+
+			   <div class="searchMXBox">
+				<form action="">
+					<input type="text" class="findTextbox" id="Mfinder" name="Mfinder" value="Search for Films and More..." onblur="resetCountBlur();" autocomplete="off" onfocus="if(this.value =='Search for Films and More...')this.value ='';this.style.color='#FFFFFF'">
+					<input type="image" class="findButton" src="http://media.miramax.com/managed/searchButton.jpg" name="op" value="Go" onclick="goToSearchPage(0);return false;">   
+				</form>
+         	</div>
+			<!-- Search Suggest Overlay -->
+			<div id="suggestBox" class="search_suggest_overlay" style="display:none;">
+				<div class="hdr">Movie Title Matches:</div>
+				<div id="suggestResultsDiv"></div>
+				<div class="ftr">&nbsp;</div>
+			</div>
+			<!-- #content : start -->
+			<div id="content">
+			
+				<ul id="nav">
+	<li class="logo"><a name="lid=header_decorator/top/home_page/080929" class="navbtn" style="cursor:pointer" title="Miramax Films" href="/index.html">Miramax Films</a></li>
+	<li class="home"><a name="lid=header_decorator/top/home_page/080929" class="navbtn" href="/index.html" title="Home">Home</a></li>
+	<li class="current"><a name="lid=header_decorator/top/Current_page/080929" class="navbtn" href="/current.html" title="In Theaters &amp; Coming soon">In Theaters &amp; Coming soon</a>
 
 
-<table width="640" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td width="55"><img src="http://a1964.g.akamai.net/7/1964/24/94fb0c3ed8a8f9/disney.go.com/corporate/legal/images/spacer.gif" width="55" height="1" alt="" border="0"></td>
-    <td width="530" valign="TOP">
-        <table cellspacing="0" cellpadding="5" border="0">
-<tbody><tr>
-    <td><font face="arial,helvetica" size="3">
+<!-- this function returns the different vendor names for products inside a title    -->
 
-<br clear="all">
-        <br clear="all">
-        </font><center><font face="arial,helvetica" size="3">
-        <b>MIRAMAX CAFE - PRIVACY POLICY</b><br></font>
-        </center>
-        <font face="arial,helvetica" size="2">
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+     
+
+
+
+
+
+     
+
+
+
+
+
+     
+
+
+
+
+
+     
+
+
+
+
+
+<div class="flyoutCurrent">
+			<a class="tabCurrent" href="/current.html"></a>
+			<div class="inTheatersFly">
+				<h3>In Theaters:</h3>
+				<ul>
+
+
+
+      <li><a href="/everybodysfine/">Everybody's Fine</a></li>
+
+
+				</ul>
+
+			</div>
+			
+			<div class="commingFly">
+				<h3>Coming soon:</h3>
+				<ul>
+
+       <li><a href="/dontbeafraidofthedark/">Don't Be Afraid Of The Dark</a></li>
+       <li><a href="/lastnight/">Last Night</a></li>
+       <li><a href="/thedebt/">The Debt</a></li>
+
+				</ul>
+
+			</div>
+
+
+
+			<div class="bottomlink clear">
+				<a href="/current.html" class="b-link">View all Miramax movies in theaters and coming soon</a>
+			</div>
+		</div>
+
+</li>
+	<li class="dvdbluray">
+		<a name="lid=header_decorator/top/Shop_page/080929" class="navbtn" href="/shop.html" title="On Blu-ray™ Hi-Def &amp; DVD">On BLU-Ray™ HI-DEF &amp; DVD</a>
+
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+<div class="flyout"> 
+ 
+<!--[if lte IE 6.5]>
+<a href="" style="cursor:pointer">
+<IFRAME style="
+               display:block;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:-1;
+	filter:mask();
+	width:500px;
+	height:300px;"
+ frameborder=0 scrolling=no marginwidth=0 src="" marginheight=0>
+</iframe>
+
+<![endif]-->
+	<a class="tab" href="/shop.html"></a>
+
+
+
+	<div class="releases">
+
+		<h3>New Releases:</h3>
+		<ul>
+		
+
+			<li><a name="lid=header_module/top/EXTRACT/080929" href="/extract/">
+				EXTRACT
+			
+			</a> - 
+				Blu-ray &amp; DVD
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/CHERI/080929" href="/cheri/">
+				Cheri
+			
+			</a> - 
+DVD
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/ADVENTURELAND/080929" href="/adventureland/">
+				Adventureland
+			
+			</a> - 
+				Blu-ray &amp; DVD
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/ZATOICHI/080929" href="/zatoichi/">
+				Zatoichi
+			
+			</a> - 
+Blu-ray
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/AMERICAN SON/080929" href="/americanson/">
+				American Son
+			
+			</a> - 
+				Blu-ray &amp; DVD
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/SLING BLADE/080929" href="/slingbladebluraytm/">
+				Sling Blade
+			
+			</a> - 
+Blu-ray
+			</li>
+
+
+		
+
+			<li><a name="lid=header_module/top/ENCHANTED APRIL/080929" href="/enchantedapril/">
+				Enchanted April
+			
+			</a> - 
+DVD
+			</li>
+
+		</ul>
+	</div>
+
+	<div class="coming">
+
+		<h3>Coming soon:</h3>
+		<ul>	
+			<li><a name="lid=header_module/top/THE BOYS ARE BACK /080929" href="/theboysareback/">
+				The Boys Are Back
+			
+			</a> - 
+DVD
+		</li>
+
+		
+
+		</ul>
+	</div>
+
+	<div class="genres">
+
+		<h3>Genres:</h3>
+		<ul>
+				<li><a name="lid=header_module/top/DIMENSION FILMS/080929" href="/shop/genre/dimension-films.html">Dimension Films</a></li>
+				<li><a name="lid=header_module/top/ACTION ADVENTURE/080929" href="/shop/genre/action-adventure.html">Action/Adventure</a></li>
+				<li><a name="lid=header_module/top/AWARD-WINNING COLLECTION/080929" href="/shop/genre/award-winning-collection.html">Award-Winning Collection</a></li>
+				<li><a name="lid=header_module/top/BLU-RAY/080929" href="/shop/genre/blu-ray.html">Blu-ray</a></li>
+				<li><a name="lid=header_module/top/COMEDY/080929" href="/shop/genre/comedy.html">Comedy</a></li>
+				<li><a name="lid=header_module/top/DRAMA/080929" href="/shop/genre/drama.html">Drama</a></li>
+				<li><a name="lid=header_module/top/ITUNES/080929" href="/shop/genre/itunes.html">iTunes</a></li>
+		</ul>
+	</div>
+	<div class="bottomlink clear">
+	<a name="lid=header_module/top/view_all_movies/080929" href="/shop.html" class="b-link">View all Miramax movies on Blu-ray &amp; DVD</a>
+<!--[if lte IE 6.5]>
+</a>
+
+
+<![endif]-->
+	</div>
+
+
+</div>	
+	</li>
+	<li class="headlines"><a name="lid=header_decorator/top/Headlines_page/080929" class="navbtn" href="/headlines.html" title="Headlines">Headlines </a>
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+<div class="flyoutHeadlines">
+
+<!--[if lte IE 6.5]>
+<a href="" style="cursor:pointer">
+<IFRAME style="
+               display:block;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:-1;
+	filter:mask();
+	width:530px;
+	height:300px;"
+ frameborder=0 scrolling=no marginwidth=0 src="" marginheight=0>
+</iframe>
+
+<![endif]-->
+
+<a class="tabHeadlines" href="/headlines.html"></a>
+<ul>
+        <li>
+        <div class="thumb">
         
-        </font>
+
+            <a name="lid=headlines_module/left_bottom/headline_<i>Los Angeles Times:</i> Movie Review - 'Everybody's Fine'/080929" href="/articles/movie-review:-everybody's-fine.html">
+            <img src="http://media.miramax.com/managed/latimes.gif">
+            </a>
+
+
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<i>Los Angeles Times:</i> Movie Review - 'Everybody's Fine'/080929" href="/articles/movie-review:-everybody's-fine.html" class="c-link"><i>Los Angeles Times:</i> Movie Review - 'Everybody's Fine'</a><br>
+         </div>
+          </li>
+            <li>
+        <div class="thumb">
         
-</td>
-    
-</tr>
-</tbody></table>
+
+            <a name="lid=headlines_module/left_bottom/headline_<i>New York Post:</i> Presence Under the Tree/080929" href="/articles/presence-under-the-tree.html">
+            <img src="http://media.miramax.com/managed/nypost.gif">
+            </a>
 
 
-<p>
-<table width="490" cellspacing="0" cellpadding="5" border="0">
-<tbody><tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/f2185e433752ee/disney.go.com/corporate/legal/images/q1_sm.gif" width="28" height="16" alt="Q1" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q1">Miramax Privacy Policy</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/5611feb706f195/disney.go.com/corporate/legal/images/q2_sm.gif" width="28" height="17" alt="Q2" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q2">What types of information are Miramax sites collecting, and how are the sites collecting it?</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/b605273726ec7a/disney.go.com/corporate/legal/images/q3_sm.gif" width="28" height="17" alt="Q3" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q3">How does Miramax use the personally identifiable information that has been collected?</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/36fece8b92a090/disney.go.com/corporate/legal/images/q4_sm.gif" width="28" height="17" alt="Q4" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q4">Does Miramax share information with companies or other organizations that are not part of the Miramax family of sites?</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/065797bc142bee/disney.go.com/corporate/legal/images/q5_sm.gif" width="28" height="17" alt="Q5" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q5">What choices do I have about Miramax collecting, using, and sharing my information?</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/d9ab0ab93bf81d/disney.go.com/corporate/legal/images/q6_sm.gif" width="28" height="17" alt="Q6" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q6">What type of security does Miramax provide?</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/048690575e25f7/disney.go.com/corporate/legal/images/q7_sm.gif" width="28" height="17" alt="Q7" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q7">How can I access my account information?</a></font></td>
-</tr>
-<tr>
-    <td width="40" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/536f262b2c1fbb/disney.go.com/corporate/legal/images/q8_sm.gif" width="28" height="17" alt="Q8" border="0"></td>
-    <td width="450"><font face="arial,helvetica" size="2"><a href="#q8">Whom do I contact with questions or concerns about this privacy policy?</a></font></td>
-</tr>
-</tbody></table>
-</p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q1"></a>
-<table width="530" cellspacing="0" cellpadding="5" border="0">
-<tbody><tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/82f2e2ca9979ea/disney.go.com/corporate/legal/images/a1.gif" width="40" height="30" alt="A1" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>Miramax Privacy Policy</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">Miramax is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use, and share information gathered about you. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. 
-<b><p>
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<i>New York Post:</i> Presence Under the Tree/080929" href="/articles/presence-under-the-tree.html" class="c-link"><i>New York Post:</i> Presence Under the Tree</a><br>
+         </div>
+          </li>
+            <li>
+        <div class="thumb">
+        
 
-<!--
+            <a name="lid=headlines_module/left_bottom/headline_<i>New York Daily News:</i> Everybody's Fine/080929" href="/articles/daily-news-everybody's-fine.html">
+            <img src="http://media.miramax.com/managed/nydailynews.gif">
+            </a>
 
-Kids' Privacy Policy</B><BR>
-We recognize the need to provide additional privacy protections for kids who visit our sites. To read about our protections for kids who are 12 and younger, <A HREF="miramax_kids_privacy.html">click here</A>.
 
--->
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<i>New York Daily News:</i> Everybody's Fine/080929" href="/articles/daily-news-everybody's-fine.html" class="c-link"><i>New York Daily News:</i> Everybody's Fine</a><br>
+         </div>
+          </li>
+            <li>
+        <div class="thumb">
+        
 
-</p></b></font><b><p><font face="arial,helvetica" size="2"></font></p></b></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q2"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/54fef40b0a2cdf/disney.go.com/corporate/legal/images/a2.gif" width="40" height="30" alt="A2" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>What types of information are Miramax sites collecting, and how are the sites <br>collecting it? </b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">The majority of great products and services on our sites are offered without our collecting any personally identifiable information from you. You can surf Miramax Web sites and view much of our terrific content anonymously. 
+            <a name="lid=headlines_module/left_bottom/headline_<i>Parade:</i> Robert De Niro Can Do No Wrong/080929" href="/articles/robert-de-niro-can-do-no-wrong.html">
+            <img src="http://media.miramax.com/managed/logo_parade.gif">
+            </a>
 
-<b></b><p><b>
-Information You Provide</b><br>
+
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<i>Parade:</i> Robert De Niro Can Do No Wrong/080929" href="/articles/robert-de-niro-can-do-no-wrong.html" class="c-link"><i>Parade:</i> Robert De Niro Can Do No Wrong</a><br>
+         </div>
+          </li>
+            <li>
+        <div class="thumb">
+        
+
+            <a name="lid=headlines_module/left_bottom/headline_<Life.com:> Robert De Niro, Kirk Jones - AFI FEST 2009 Screening of Miramax' " everybody's="" fine"="" -="" arrivals="" 080929"="" href="/articles/robert-de-niro,-kirk-jones.html">
+            <img src="http://media.miramax.com/managed/logo_life.gif">
+            </a>
+
+
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<Life.com:> Robert De Niro, Kirk Jones - AFI FEST 2009 Screening of Miramax' " everybody's="" fine"="" -="" arrivals="" 080929"="" href="/articles/robert-de-niro,-kirk-jones.html" class="c-link"><life.com:> Robert De Niro, Kirk Jones - AFI FEST 2009 Screening of Miramax' "Everybody's Fine" - Arrivals</life.com:></a><br>
+         </div>
+          </li>
+            <li>
+        <div class="thumb">
+        
+
+            <a name="lid=headlines_module/left_bottom/headline_<People.com:</> One 'Fine' Day - Drew Barrymore, Kate Beckinsale at AFI premeire of " everybody's="" fine"="" 080929"="" href="/articles/one-fine-day.html">
+            <img src="http://media.miramax.com/managed/logo_people.gif">
+            </a>
+
+
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<People.com:</> One 'Fine' Day - Drew Barrymore, Kate Beckinsale at AFI premeire of " everybody's="" fine"="" 080929"="" href="/articles/one-fine-day.html" class="c-link"><people.com:<> One 'Fine' Day - Drew Barrymore, Kate Beckinsale at AFI premeire of "Everybody's Fine"</people.com:<></a><br>
+         </div>
+          </li>
+            <li>
+        <div class="thumb">
+        
+
+            <a name="lid=headlines_module/left_bottom/headline_<i>USA Today:</i> Family comes to the fore in poignant 'Boys Are Back'/080929" href="/articles/family-comes-to-the-fore-in-poignant-boys-are-back.html">
+            <img src="http://media.miramax.com/managed/usatoday.gif">
+            </a>
+
+
+            
+        </div>
+        <div class="tagtext">
+          <a name="lid=headlines_module/left_bottom/headline_<i>USA Today:</i> Family comes to the fore in poignant 'Boys Are Back'/080929" href="/articles/family-comes-to-the-fore-in-poignant-boys-are-back.html" class="c-link"><i>USA Today:</i> Family comes to the fore in poignant 'Boys Are Back'</a><br>
+         </div>
+          </li>
+    <br><br>
+
+			<div class="bottomlink clear">
+				<a href="/headlines.html" class="b-link">View all Miramax headlines</a>
+			</div>
+  </ul>
+</div>
+
+
+
+
+
+</li>
+
+
+</ul>
+
+
+<img class="topimg" alt="top-image" src="http://media.miramax.com/managed/topimg-default.jpg">
+       
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+
+	<meta name="description" content="Privacy Policy">
+   	<meta name="keywords" content="Privacy Policy">
+	<link rel="stylesheet" href="http://media.miramax.com/managed/cssglobal.css">
+	
+	
+
+
+
+<div id="main">
+	
+	<div id="primary" style="width: 932px;">
+		
+		<h1>Privacy Policy</h1>
+		<style>
+h3 {
+color:#FFFFFF;
+font-family:Arial;
+font-size:12px;
+font-weight:bold;
+text-transform:uppercase;
+}
+</style>
+
+<br>
+<a href="#a1" style="font-size:12px;">Q1 Miramax Privacy Policy</a><br>
+<a href="#a2" style="font-size:12px;">Q2 What types of information are Miramax sites collecting, and how are the sites collecting it?</a><br>
+<a href="#a3" style="font-size:12px;">Q3 How does Miramax use the personally identifiable information that has been collected?</a><br>
+<a href="#a4" style="font-size:12px;">Q4 Does Miramax share information with companies or other organizations that are not part of the Miramax family of sites?</a><br>
+<a href="#a5" style="font-size:12px;">Q5 What choices do I have about Miramax collecting, using, and sharing my information?</a><br>
+<a href="#a6" style="font-size:12px;">Q6 What type of security does Miramax provide?</a><br>
+<a href="#a7" style="font-size:12px;">Q7 How can I access my account information?</a><br>
+<a href="#a8" style="font-size:12px;">Q8 Whom do I contact with questions or concerns about this privacy policy?</a><br>
+<hr><br>
+<h3><a name="a1">A1 Miramax Privacy Policy</a></h3><br>
+Miramax is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use, and share information gathered about you. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. <br>
+<a href="#" class="c-link">Back to Top</a> <br>
+<hr>
+<h3><a name="a2">A2 What types of information are Miramax sites collecting, and how are the sites collecting it? </a></h3><br>
+The majority of great products and services on our sites are offered without our collecting any personally identifiable information from you. You can surf Miramax Web sites and view much of our terrific content anonymously. 
+Information You Provide
 There are a few activities on our sites where the collection of personally identifiable information is necessary. Those activities include things like entering a contest or sweepstakes, signing up for a free e-mail account, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only your name, e-mail address, birth date, gender, and zip code. When you make a purchase, we also collect your street and billing addresses, your phone number, and credit card information. Depending on what you purchase, we may also need to collect other personal information, like your clothing size. 
-<b></b></p><p><b>
-Information Collected from You with Technology</b><br>
+Information Collected from You with Technology
 Miramax sites collect some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected so that we know where to send information you are requesting. An IP address is often associated with the place from which you enter the Internet like your ISP (Internet Service Provider), your company, or your university. This information is not personally identifiable. Miramax sites use information collected through technology to make our sites more interesting and useful to you. This includes helping advertisers on our site design advertisements our Guests might like. We normally don't combine this type of information with personally identifiable information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our house rules or terms of service or to protect our service, site, Guests, or others. 
-<b></b></p><p><b>
-What Are Cookies, and How Does Miramax Use Them?</b><br>
+What Are Cookies, and How Does Miramax Use Them?
 Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. Miramax and other Internet companies use cookies for a variety of purposes. 
-</p><p>
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. <b>If you turn cookies off, you won't have access to many Miramax features that make your Web experience more efficient -- like the features mentioned above -- and some of our services will not function properly.
-</b></p></font><p><font face="arial,helvetica" size="2"><b>
-</b></font></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q3"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/4ba65aa3b7a119/disney.go.com/corporate/legal/images/a3.gif" width="40" height="30" alt="A3" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>How does Miramax use the personally identifiable information that has been collected?</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">Miramax uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is used to send you e-mail updates and newsletters about our sites. We also use the information you provide to send you Miramax e-mail promotions and special offers from our third-party sponsors.</font><p><font face="arial,helvetica" size="2"></font></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q4"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/437e31a3b7d8de/disney.go.com/corporate/legal/images/a4.gif" width="40" height="30" alt="A4" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>Does Miramax share information with companies or other organizations that are not part of the Miramax family of sites?</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many Miramax features that make your Web experience more efficient -- like the features mentioned above -- and some of our services will not function properly. <br>
+<a href="#" class="c-link">Back to Top</a><br>
+<hr>
+<br>
+<h3><a name="a3">A3 How does Miramax use the personally identifiable information that has been collected?</a></h3><br>
+Miramax uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is used to send you e-mail updates and newsletters about our sites. We also use the information you provide to send you Miramax e-mail promotions and special offers from our third-party sponsors. 
+<br><a href="#" class="c-link">Back to Top</a><br>
+<hr>
+<br>
+<h3><a name="a4">A4 Does Miramax share information with companies or other organizations that are not part of the Miramax family of sites?</a></h3><br>
 One of the most valuable assets of our business is you. We aren't in the business of selling information about our Guests. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company as described below. We will also share information for security reasons. 
-
-<b></b><p><b>
-Companies That Are "Standing in the Shoes" of Miramax</b><br>
+Companies That Are "Standing in the Shoes" of Miramax
 Sometimes we hire companies to help us deliver products or services, like a shipping company that delivers a package. In those instances, we need to share your information with them. These companies are basically "standing in the shoes" of Miramax, and they are allowed to use the information only to deliver the product or service. 
-<b></b></p><p><b>
-Companies Offering Promotions, Products, or Services</b><br>
+Companies Offering Promotions, Products, or Services
 On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We will share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer, but only if you give us your permission to do so, and we will share it only with that specific sponsor. In addition, Miramax occasionally sends e-mail promotions out to our Guests on behalf of third-party sponsors. In this instance, we don't share your name with the third party -- we do the mailing for them. Again, we only send these promotions to you if you've given your permission. 
-<b></b></p><p><b>
-Content Partners</b><br>
-On some of our sites, we provide content that is created by a third-party partner Web site.  In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between Miramax and our third-party sponsors. 
-<b></b></p><p><b>
-Third-Party Advertisers and Network Advertisers</b><br>
+Content Partners
+On some of our sites, we provide content that is created by a third-party partner Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between Miramax and our third-party sponsors. 
+Third-Party Advertisers and Network Advertisers
 To help increase privacy protections for our Guests, Miramax allows advertising on our sites from only those companies that have their own privacy policy. Once you've clicked on an advertisement and have left Miramax sites, our privacy policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
-</p><p>
-In addition, many business advertisements are managed and placed on our site by third-party companies. These companies are called "network advertisers." Network advertisers collect non-personally identifiable information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realize it's being collected. The network advertisers collect this information so that they can show you ads that are more relevant and interesting to you.  If you would like to read more about network advertisers or do not want network advertisers to collect this non-personally identifiable information about you, <a href="http://www.networkadvertising.org/optout_nonppii.asp">click here</a>.
-<b></b></p><p><b>
-Purchase or Sale of Businesses</b><br>
+In addition, many business advertisements are managed and placed on our site by third-party companies. These companies are called "network advertisers." Network advertisers collect non-personally identifiable information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realize it's being collected. The network advertisers collect this information so that they can show you ads that are more relevant and interesting to you. If you would like to read more about network advertisers or do not want network advertisers to collect this non-personally identifiable information about you, click here. 
+Purchase or Sale of Businesses
 Online business is still in a very early stage and is changing and evolving rapidly. As Miramax continually looks for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honor the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honored. 
-<b></b></p><p><b>
 Organizations That Help Protect the Security and Safety of our Guests and our Sites 
-</b></p><p>
-We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of Guests and our sites. 
-</p></font><p><font face="arial,helvetica" size="2"></font></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q5"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/136eb4335d3f95/disney.go.com/corporate/legal/images/a5.gif" width="40" height="30" alt="A5" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>What choices do I have about Miramax collecting, using, and sharing my information?</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from Miramax and from our third-party partners. You can request at any time that Miramax not send future e-mail to you by unsubscribing from the communication.  Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this.</font><p><font face="arial,helvetica" size="2"></font></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q6"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/dec3a6ac6cd6c8/disney.go.com/corporate/legal/images/a6.gif" width="40" height="30" alt="A6" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>What type of security does Miramax provide?</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. Miramax takes technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information.</font><p><font face="arial,helvetica" size="2"></font></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q7"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/d18c1502623219/disney.go.com/corporate/legal/images/a7.gif" width="40" height="30" alt="A7" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>How can I access my account information?</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">You can access the personally identifiable information you gave us during registration at our member services center.  Simply click on <a href="http://register.go.com/go/memberservices/home">this link</a> and then log-in with your e-mail address and password.  There are instructions on the start page to help you recover your password if you've forgotten it. 
-<p>
-</p></font><p><font face="arial,helvetica" size="2"></font></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"><a name="q8"></a></td>
-</tr>
-<tr>
-    <td width="50" align="center"><img src="http://a1964.g.akamai.net/7/1964/24/c17e5f12a9c05c/disney.go.com/corporate/legal/images/a8.gif" width="40" height="30" alt="A8" border="0"></td>
-    <td width="480"><font face="arial,helvetica" size="2"><b>Whom do I contact with questions or concerns about this privacy policy?</b></font></td>
-</tr>
-<tr>
-        <td width="530" colspan="2"><font face="arial,helvetica" size="2">
-If you need further assistance, please:
-<p></p><ul>
-<li>send an e-mail with your questions or comments to <a href="mailto:ian.schafer@miramax-mail.com">ian.schafer@miramax-mail.com</a>
-</li><li>write us at:
-<ul>Miramax Films
-<br>c/o Ian Schafer
-<br>11 Beach Street
-<br>New York, NY 10013
+We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of Guests and our sites. <br>
+<a href="#" class="c-link">Back to Top</a><br>
+<hr><br>
+<h3><a name="a5">A5 What choices do I have about Miramax collecting, using, and sharing my information?</a></h3><br>
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from Miramax and from our third-party partners. You can request at any time that Miramax not send future e-mail to you by unsubscribing from the communication. Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this. <br>
+<a href="#" class="c-link">Back to Top</a><br>
+<hr>
+<br>
+<h3><a name="a6">A6 What type of security does Miramax provide?</a></h3><br>
+The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. Miramax takes technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information. <br>
+<a href="#" class="c-link">Back to Top</a><br>
+<hr>
+<br>
+<h3><a name="a7">A7 How can I access my account information?</a></h3><br>
+You can access the personally identifiable information you gave us during registration at our member services center. Simply click on this link and then log-in with your e-mail address and password. There are instructions on the start page to help you recover your password if you've forgotten it. <br>
+<a href="#" class="c-link">Back to Top</a><br>
+<hr>
+<br>
+<h3><a name="a8">A8 Whom do I contact with questions or concerns about this privacy policy?</a></h3><br>
+If you need further assistance, please: <br>
+?	send an e-mail with your questions or comments to 
+mmx.info@miramax.com <br>
+?	write us at: 
+Miramax Films 
+c/o Marketing
+161 Avenue of the Americas, 15th Floor
+New York, NY 10013 <br>
+?	call us at: (917) 606-5500 <br>
+**You must be 18 or have the permission of your parent or guardian to dial this number. 
+<br>
+<a href="#" class="c-link">Back to Top</a><br>
+<br>
+
+	</div>
+</div>
+
+	<script type="text/javascript" src="http://media.miramax.com/managed/jsglobal.js"></script> 
 
 
-                </ul>
-<p>
-</p></li><li>call us at: (212) 625-5163*
-<p></p></li></ul>
-</font>
+<!--  #main : end -->
 
-<p>
-<font size="1" face="arial,helvetic">*You must be 18 or have the permission of your parent or guardian to dial this number.</font></p><p></p></td>
-</tr>
-<tr>
-        <td width="530" colspan="2">
-        <p align="right"><a href="#top"><img src="http://a1964.g.akamai.net/7/1964/24/23978f756d5f33/disney.go.com/corporate/legal/images/top.gif" width="87" height="20" alt="" border="0"></a>
-        </p><hr align="CENTER" size="1" width="80%" color="#3951A5"></td>
-</tr>
-</tbody></table>
+<!-- <div id="moviestory" class="clear"></div> -->
+<div id="signature" class="clear" style="#height:170px"></div>
+<script type="text/javascript">
+var so1 = new SWFObject("/managed/miramax_movie_story.swf","moviestory","966","167","0.0.0","/managed/expressInstall.swf");
+so1.addParam("wmode", "transparent");
+so1.addParam("allowScriptAccess", "always");
+so1.addVariable("strXMLFile", "xml/moviestory.xml");
+so1.write("signature");
+</script>
 
-        
-        </td>
-    <td width="55"><img src="http://a1964.g.akamai.net/7/1964/24/94fb0c3ed8a8f9/disney.go.com/corporate/legal/images/spacer.gif" width="95" height="1" alt="" border="0"></td>
-</tr>
-<tr>
-    <td colspan="3" width="640"><p>&nbsp;</p><p>
-        </p><center><font face="arial,helvetica" size="2">
-        2000 Miramax Film Corp. All rights reserved.</font>
-        </center>
-</td>
-</tr>
-</tbody></table>
+	
+
+<div id="bottomlinks" style="position:relative;z-index:10;padding-bottom:0">
+	<div class="col" style="border:none;border-right:1px solid #2D345C; width: 330px;">
+		<h3>IN THEATERS &amp; COMING SOON:</h3>
+		
+		
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
 
 
 
+
+<div style="float:left; width: 100%;"><ul>
+		
+			<li>
+				<a class="c-link" name="lid=bottomleft_module/bottom/Everybodys Fine/080929" href="http://www.miramax.com/everybodysfine/">
+				Everybody's Fine
+				</a>
+			</li>
+
+
+
+		
+			<li>
+				<a class="c-link" name="lid=bottomleft_module/bottom/Dont Be Afraid Of The Dark/080929" href="http://www.miramax.com/dontbeafraidofthedark/">
+				Don't Be Afraid Of The Dark
+				</a>
+			</li>
+
+
+
+		
+			<li>
+				<a class="c-link" name="lid=bottomleft_module/bottom/Last Night/080929" href="http://www.miramax.com/lastnight/">
+				Last Night
+				</a>
+			</li>
+
+
+
+		
+			<li>
+				<a class="c-link" name="lid=bottomleft_module/bottom/The Debt/080929" href="http://www.miramax.com/thedebt/">
+				The Debt
+				</a>
+			</li>
+</ul></div>
+
+
+		
+                </div>
+	<div class="col" style="border:none;border-right:1px solid #2D345C;width:376px;">
+		<h3>MIRAMAX SIGNATURE FILMS:</h3>
+	
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<div style="float:left; width:185px"><ul>
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Red/080929" href="http://www.miramax.com/red/">
+				Red
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Kill Bill Volume 2/080929" href="http://www.miramax.com/killbillvolume2/">
+				Kill Bill Volume 2
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Muriels Wedding/080929" href="http://www.miramax.com/murielswedding/">
+				Muriel's Wedding
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Frida/080929" href="http://www.miramax.com/frida/">
+				Frida
+				</a>
+			</li>
+</ul></div>
+
+<div style="float:left; width:185px"><ul>
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Jackie Brown/080929" href="http://www.miramax.com/jackiebrown/">
+				Jackie Brown
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Chocolat/080929" href="http://www.miramax.com/chocolat/">
+				Chocolat
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Good Will Hunting/080929" href="http://www.miramax.com/goodwillhunting/">
+				Good Will Hunting
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Gangs Of New York/080929" href="http://www.miramax.com/gangsofnewyork/">
+				Gangs Of New York 
+				</a>
+			</li>
+</ul></div>
+	
+
+
+	</div>
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+
+
+<!-- this function returns the different vendor names for products inside a title    -->
+<div class="col last" style="border:none; width: 190px;">
+		<h3>Miramax Services:</h3>
+		<ul>
+					<li><a class="c-link" target="blank" href="http://www.miramaxhighlights.com">Miramax Highlights</a></li>
+					<li><a class="c-link" target="blank" href="http://www.miramaxpublicity.com/">Publicity Materials</a></li>
+					<li><a class="c-link" target="blank" href="http://www.miramaxawards.com/">Academy &amp; Guild Members</a></li>
+					<li><a class="c-link" target="blank" href="http://www.disneycareers.com/">Career Opportunities at Miramax</a></li>
+		</ul>
+	</div>
+	<div style="clear:both;margin:10px 0 0 10px;#margin:0px 0 0 10px; padding: 10px 0px 0px 0px;">
+                                 <b style="padding:0 215px 0 90px"><a name="lid=bottom_module/bottom/view_all_new_upcoming/080929" class="b-link" href="/current.html">View all New &amp; Upcoming</a></b>
+		<b><a class="b-link" name="lid=bottom_module/bottom/view_all_signature_films/080929" href="/shop/signature-films.html">View all Signature Films</a></b>
+	</div>
+</div>
+
+</div><!--  #content : end -->
+
+<!--  footer -->
+
+	
+
+<!-- test comment -->
+<div class="container_footer" id="cont_footer">
+<ul id="footer">
+<li class="logo"><a name="lid=footer_Module/footer/home_page/080929" href="/index.html" title="Miramax Films">Miramax Films</a></li>
+<li class="about"><a name="lid=footer_Module/footer/about_us/080929" href="/about-us.html">About Us</a></li>
+<li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="/privacy-policy.html">Privacy Policy</a></li>
+<li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/terms-of-use.html">Terms Of Use</a></li>
+
+<li class="copyright" style="font-size:11px;">© Copyright 2009 Miramax Films. All rights reserved.</li>
+</ul>
+</div>
+
+
+<div class="container_footer" id="cont_footer">
+<ul id="footer">
+<li class="logo"><a name="lid=footer_Module/footer/home_page/080929" href="/index.html" title="Miramax Films">Miramax Films</a></li>
+<li class="about"><a name="lid=footer_Module/footer/about_us/080929" href="/about-us.html">About Us</a></li>
+<li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="/privacy-policy.html">Privacy Policy</a></li>
+<li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/terms-of-use.html">Terms Of Use</a></li>
+
+<li class="copyright" style="font-size:11px;">© Copyright 2009 Miramax Films and Buena Vista Home Entertainment. All rights reserved.</li>
+</ul>
+</div>
+</div>
+<div id="preload" style="display:none">
+   <img src="http://media.miramax.com/managed/home-on.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/home-off.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/home-over.png" width="1" height="1" alt="">
+
+   <img src="http://media.miramax.com/managed/current-off.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/current-on.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/current-over.png" width="1" height="1" alt="">
+
+   <img src="http://media.miramax.com/managed/dvdbluray-off.png" width="1" height="1" alt="">
+
+   <img src="http://media.miramax.com/managed/dvdbluray-on.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/dvdbluray-over.png" width="1" height="1" alt="">
+
+   <img src="http://media.miramax.com/managed/headlines-off.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/headlines-over.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/headlines-on.png" width="1" height="1" alt="">
+
+   <img src="http://media.miramax.com/managed/insider-off.png" width="1" height="1" alt="">
+   <img src="http://media.miramax.com/managed/insider-over.png" width="1" height="1" alt="">
+</div>
+
+
+		
+
+<!-- BEGIN DOL Web Analytics 1.0 DO NOT EDIT OR REMOVE THIS LINE-->
+<script language="javascript" src="http://aglobal.go.com/stat/dolWebAnalytics.js"></script>
+
+<script language="javascript">
+
+cto=new CTO();
+cto.account="miramaxcom";
+cto.category="mov";
+cto.site="miramax";
+cto.pageName="privacy_policy";
+cto.contentType="regular";
+cto.property="";
+cto.genre="";
+cto.track();//Required. Do not remove.
+</script> 
+<!-- END DOL Web Analytics 1.0 -->
+
+<script type="text/javascript">
+setInterval("countProgress()",1000);
+$(document).ready(function() {
+          interactiveNode = $("#Mfinder");
+		  
+		  $('#Mfinder').keyup(function(e) {
+				key = e.keyCode || window.event.keyCode;
+				if(key == 13){//ENTER
+					goToSearchPage(1);
+				} else if(key == 40){//down
+					navStyle(1);
+				} else if(key == 38){//up
+				if(currentIdSuggestion > 0){
+					navStyle(-1);
+				}
+				}else{
+					resetCount();
+				}
+			});
+		});
+</script>
+
+<script type="text/javascript" src="http://media.miramax.com/managed/jquery.tache.js"></script>
+<script>
+$.Tache.SetTimeout(3600);
+</script>
+ 
 </body></html>
