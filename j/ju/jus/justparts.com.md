@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justparts.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208004729id_/http%3A//www.justparts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justparts.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231150740id_/http%3A//www.justparts.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # JustParts.com Privacy Policy
 
