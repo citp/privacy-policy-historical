@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youandyourwedding.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627143212id_/http%3A//www.youandyourwedding.co.uk/%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youandyourwedding.co.uk privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231050537id_/http%3A//www.youandyourwedding.co.uk/%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement :: You & Your Wedding
 
