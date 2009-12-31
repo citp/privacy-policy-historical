@@ -1,17 +1,15 @@
-<!--The following is the downloaded HTML source of the autonews.com privacy policy that was archived on 2009-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090603050724id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autonews.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231130728id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!--AUTOMOTIVE NEWS HOME INDEX TEMPLATE v1.1-->
-<title>Automotive News -- In-depth coverage of the automotive industry with special features for subscribers</title>
+<title>Automotive News</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="verify-v1" content="GmhJx8SIVhA1p2W/znJ+GAv4KyjSJQEFjd0ypxsHhcY=">
 <meta name="y_key" content="b309030fed32c7b0">
-<meta name="Description" content="Automotive News -- In-depth coverage of the automotive industry with special features for subscribers">
-<meta name="Keywords" content="Operand type clash: text is incompatible with int
-">
-
-
+<meta name="msvalidate.01" content="559498F855972429551A034E0ACBDDBE">
+<meta name="Description" content="Automotive News">
+<meta name="Keywords" content="Automotive industry, automakers, suppliers, American Axle, strike, labor, automaker and supplier relations, daily news, Detroit 3, General Motors, GM, Ford, Chrysler, Toyota, Honda, Nissan, BMW, Mercedes , Mercedes-Benz, Volkswagen, Audi, Delphi, Plastech">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="cache-control" content="no-cache">
@@ -27,12 +25,12 @@
 OAS_url = 'http://oascentral.autonews.com/RealMedia/ads/';
 //OAS_url = 'http://oas-central.realmedia.com/RealMedia/ads/';
 //SITEPAGE CONDITIONS;
-OAS_sitepage = 'www.autonews.com/oem/310120002'; 
-//; //thiS is theprofile;
-//; //thiS is the category;
+OAS_sitepage = 'www.autonews.com/Static_Pages/310120002'; 
+//; //this is the profile;
+//; //this is the category;
 //;
 // LIST POS CONDITIONS;
-OAS_listpos = 'Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2';
+OAS_listpos = 'Top1,Bottom1,Right,Right1,Right2,Left2';
 OAS_query = '';
 OAS_target = '_blank';
 //end of configuration
@@ -52,7 +50,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.autonews.com/RealMedia/ads/adstream_mjx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.autonews.com/RealMedia/ads/adstream_mjx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -68,8 +66,8 @@ hbx.acct="DM520930DHRS10EN3";
 //;
 //;
 //;
-hbx.mlc='AN/oem/article';
-hbx.pn='310120002';
+hbx.mlc='AN/Static_Pages//article';
+hbx.pn='310120002/';
 hbx.pndef="title";
 hbx.ctdef="full";
 hbx.lt="manual";
@@ -82,386 +80,507 @@ hbx.gpn="ANGP";
 </script><script type="text/javascript" language="javascript1.1" src="/assets/scripts/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
 
-<script>
-document.domain = "autonews.com";
-var daapiProcessUrl = "http://sitelife.autonews.com/ver1.0/Direct/Process";
-</script>
-<script src="http://sitelife.autonews.com/ver1.0/SiteLifeProxy"></script>
-<script type="text/javascript" src="http://sitelife.autonews.com/ver1.0/Direct/DirectProxy"></script>
-<!-- load up the Nyx parts (and any other libraries) needed -->
-<script type="text/javascript" src="/assets/pluck/nyxMain.js"></script>
-<script type="text/javascript" src="/assets/pluck/nyxDisco.js"></script>
-<script type="text/javascript" src="/assets/pluck/AutoNewsConfigs.js"></script>
-<script type="text/javascript" src="/config/ginsuMain.js"></script><script src="/config/ginsu.js" type="text/javascript" charset="utf-8"></script>
-<!--END PLUCK JS--><!-- YUI -->
+
+<link href="/styles/main.css" rel="stylesheet" type="text/css">
+<link href="/styles/carousel.css" rel="stylesheet" type="text/css">
+<link href="/styles/cce_events.css" rel="stylesheet" type="text/css">
+<link href="/styles/datacenter.css" rel="stylesheet" type="text/css">
+<link href="/styles/datacenterbar.css" rel="stylesheet" type="text/css">
+
+<!-- PLUCK -->
+	<!-- KPH 12/1/2009: Added: Must include cci.js before other CCI libraries -->
+	<script type="text/javascript" src="/js/cci.js"></script>
+<script type="text/javascript" src="/js/cci-setup.js"></script>
+	<script type="text/javascript" src="/js/cci-lib.js?ver=20091221-1"></script>
+	<!-- KPH 12/1/2009: Moved: jquery before template=pluckJS script -->
+	<!-- script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script -->
+	<script type="text/javascript" src="/assets/scripts/jquery-1.2.3.pack.js"></script>
+	<!-- KPH 12/1/2009: Added: template=pluckJS script -->
+	<script type="text/javascript" src="/section&amp;template=pluckJS&amp;mime=javascript&amp;ver=20091221-1"></script>
+	<script type="text/javascript" src="/js/cci-lib-pluck.js?ver=20091221-1"></script>
+<!-- END PLUCK -->
+<!-- 
+load up the Nyx parts (and any other libraries) needed (not needed after relaunch - KPH)
+script type="text/javascript" src="/assets/pluck/nyxMain.js"></script 
+script type="text/javascript" src="/assets/pluck/nyxDisco.js"></script
+script type="text/javascript" src="/assets/pluck/AutoNewsConfigs.js"></script
+script type="text/javascript" src="/config/ginsuMain.js"></script
+-->
+<!-- YUI -->
 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/yahoo/yahoo-min.js"></script>
 <script type="text/javascript" src="http://yui.yahooapis.com/2.5.1/build/json/json-min.js"></script>
 <!-- END YUI -->
 <script type="text/javascript" src="/assets/scripts/autoNewsFunctions.js"></script>
-<!--END JAVASCRIPT-->
-<!--CSS-->
-<link href="/assets/styles/home.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" id="font_size">
-<link href="/assets/styles/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
-<link href="/assets/styles/jobs_tab.css" rel="stylesheet" type="text/css">
-<!--[if IE 6]>
-	<link href="/assets/styles/home_ie_legacy.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE]>
-	<link href="/assets/styles/home_ie.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<link href="/assets/styles/article.css" rel="stylesheet" type="text/css">
-<link href="/assets/styles/style_third.css" rel="stylesheet" type="text/css">
-<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
-<body>
-<script language="javascript" type="text/javascript">
-<!--
-noFlicker();
--->
+<!-- script type="text/javascript" src="/assets/scripts/box_tabbed.js"></script -->
+	<!-- KPH 12/1/2009: This script intended for server-side use -->
+	<!-- script type="text/javascript" src="/assets/scripts/searchpages.js"></script -->
+	<!-- KPH 12/1/2009: Moved: carousel after pluck block -->
+	<!-- Carousel -->
+	<script type="text/javascript" src="/assets/scripts/jquery.jcarousel.pack.js"></script>
+	<!-- KPH 12/1/2009: This script intended for server-side use -->
+	<!-- script type="text/javascript" src="/assets/scripts/ccePages.js"></script -->
+<script type="text/javascript" src="/assets/scripts/calendar_popup.js"></script>
+<style type="text/css">
+/**
+ * Additional styles for the controls.
+ */
+.jcarousel-control {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.jcarousel-control a {
+    font-size: 75%;
+    text-decoration: none;
+    padding: 0 5px;
+    margin: 0 0 5px 0;
+    border: 1px solid #fff;
+    color: #eee;
+    background-color: #4088b8;
+    font-weight: bold;
+}
+.jcarousel-control a:focus,
+.jcarousel-control a:active {
+    outline: none;
+}
+.jcarousel-scroll {
+    margin-top: 10px;
+    text-align: center;
+}
+.jcarousel-scroll form {
+    margin: 0;
+    padding: 0;
+}
+.jcarousel-scroll select {
+    font-size: 75%;
+}
+#mycarousel-next,
+#mycarousel-prev {
+    cursor: pointer;
+    margin-bottom: -10px;
+    text-decoration: underline;
+    font-size: 11px;
+}
+</style>
+<script type="text/javascript">
+/**
+ * We use the initCallback callback
+ * to assign functionality to the controls
+ */
+function mycarousel_initCallback(carousel) {
+    jQuery('.jcarousel-control a').bind('click', function() {
+        carousel.scroll(jQuery.jcarousel.intval(jQuery(this).text()));
+        return false;
+    });
+    jQuery('.jcarousel-scroll select').bind('change', function() {
+        carousel.options.scroll = jQuery.jcarousel.intval(this.options[this.selectedIndex].value);
+        return false;
+    });
+    jQuery('#mycarousel-next').bind('click', function() {
+        carousel.next();
+        return false;
+    });
+    jQuery('#mycarousel-prev').bind('click', function() {
+        carousel.prev();
+        return false;
+    });
+};
+// Ride the carousel...
+jQuery(document).ready(function() {
+    jQuery("#mycarousel").jcarousel({
+        scroll: 1,
+        initCallback: mycarousel_initCallback,
+        // This tells jCarousel NOT to autobuild prev/next buttons
+        buttonNextHTML: null,
+        buttonPrevHTML: null
+    });
+});
 </script>
-<div id="container"> <a name="top" id="top"></a>
-<!--BEGIN HEADER-->
- 
- 
- <div id="header">
 
-   <div id="masthead">
-       <div class="left">
-<div style="height:90px">
-<script language="javascript" type="text/javascript">
-<!-- 
-OAS_RICH('Top1'); 
-//--> 
-</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Top1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Top1?" border="0"></a></div>
-<div style="width:100%">
-<div id="banner-masthead"><a href="http://www.autonews.com"><img src="/assets/gif/an_masthead_475.gif" width="475" height="60" border="0" alt="Automotive News"></a>
 
-<div id="box-digitaledition"><a href="http://www.nxtbook.com/nxtbooks/crain/an1252706779SDBJK" target="_blank"><img src="/assets/gif/small_mast/digital_edition.gif" alt="Automotive News Digital Edition" height="15"></a>  &nbsp;
-<a href="http://europe.autonews.com"><img src="/assets/gif/small_mast/ANE.gif" width="116" height="15" border="0" alt="Automotive News in Europe"></a> &nbsp;
-<a href="http://www.autonewschina.com/" target="_blank"><img src="/assets/gif/small_mast/anchina.gif" alt="Automotive News China" height="15"></a> &nbsp;
-<a href="http://www.autoweek.com/" target="_blank"><img src="/assets/gif/small_mast/autoweek.gif" alt="Autoweek" height="15"></a>
+<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+
+<body id="page1">
+<div class="tall_top1">
+	<div id="navigation4" class="clearfix">
+		<div id="navigation4_block">
+			<div class="fleft">
+				<strong>Other Editions:</strong> <a href="https://home.autonews.com/clickshare/nxtAuth.do?nxtid=/crain/an1997057483CBMMK">Digital Edition</a> | <a href="/section/TOC">Print</a> | <a href="/section/ane"><strong>Automotive News Europe</strong></a> | <a href="http://www.autonewschina.com"><strong>China</strong></a> | <a href="http://www.autoweek.com"><strong>AutoWeek</strong></a>
+			</div>
+			<div class="fright">
+				<a href="https://home.autonews.com/clickshare/subscriptionCenter.do"><strong>Subscribe</strong></a> | <a href="https://home.autonews.com/clickshare/myhome.do">Email</a> | <a href="/section/syndication">RSS</a> | <a href="/section/WEBINAR">Webinars</a> | <a href="/apps/pbcs.dll/cce?Site=CA&amp;Module=10&amp;count=20">Events</a> | <a href="/assets/html/mediakit/index.html">Media Kit</a> | <a href="/section/CONTACT01">Contact Us</a>
+			</div>
+		</div>
+	</div>
+
+	<!--MAIN-->
+	<div id="main">
+
+	<!--HEADER -->
+		<div id="header">
+		<!--HEADER TOP-->
+			<div id="header_top" class="clearfix">
+				<div class="fleft"><a href="/"><img src="/assets/gif/shim.gif" width="400" height="40" alt="Automotive News Home"></a>
+				</div>
+				<div class="fright">
+					<!-- <span style="font-family:arial,helvetica;font-weight:bold;font-size:14px;color:#dc143c;">Our search feature is not working properly. We are working on correcting the problem. Please bear with us.</span><br /> -->
+<form id="searchForm" name="searchForm" method="post" action="/apps/pbcs.dll/search?Category=SEARCH">
+<input type="hidden" name="ExclCat" value="SAP;EY;FEATURES;BP;HOLD;COPY;COPY01;VIDEO;SEO;ZZZ_SPECIAL;TEASE;WEBINAR;ANEVENTS;ANEVENTSOUT;ANEPOLL;EVENTS;DESKTOP;NEWSLETTER;NEWSLETTERANE;NEWSLETTERLITE;NEWSLETTERANELITE;NEWSLETTERSPECIAL;ANECLASS;TEASERS;INSTRUCTIONS">
+<div id="searchfield">        
+        <input type="hidden" name="SearchCategory" value="%">
+        <input type="hidden" name="noblankcheck" value="0">
+        <input class="searchField" type="text" name="crit" style="width:280px;">
+        <label><input name="searchButton" type="image" id="searchButton" src="/assets/gif/btn_search.gif">
+        </label></div>
+        <div id="searchadvanced"><a href="/section/search">Advanced<br>Search</a></div>
+      </form>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</div>
+		<!--END HEADER TOP-->
+
+
+		<!--HEADER BOTTOM-->
+		<div id="header_bottom" class="clearfix">
+		<!--HEADER BOTTOM LOGIN-->
+
+			<div class="fleft"> 
+			<div class="login_block"> 
+				<div class="inner"> 
+					<p class="login_txt">
+						</p><div id="ginsuCurrentUserModel_1" class="ginsuModel">
+							<div id="cci-current-user-response">
+								<div id="cci-current-user-response-if-pluck" style="display:none;">
+									
+								</div>
+						
+							<div id="cci-current-user-response-if-clickshare" style="display:none;">
+								
+							</div>
+						
+							<div id="cci-current-user-response-if-guest" style="display:none;">
+								
+							</div>
+							
+						</div>
+					</div>
+				<p></p> 
+			</div>
+		</div>
+	</div>
+	<script>
+	$(function() {
+		CCI.Pluck.Users.currentUserWidget({
+    		pluckResponseDiv:"cci-current-user-response-if-pluck",
+    		clickshareResponseDiv:"cci-current-user-response-if-clickshare",
+    		guestResponseDiv:"cci-current-user-response-if-guest",
+    		clickshareIsDefault:true
+		});
+	});
+	</script>
+
+		<div class="fright"><script language="JavaScript">OAS_RICH('Top1');</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Top1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Top1?" border="0"></a></div>
+	</div>
+	<!--END HEADER BOTTOM-->
 </div>
-</div>
+<!--END HEADER -->
 
-<div id="box-login"><div class="promo">
+<!--WRAPPER AUTOMAKERS-->
+<div id="wrapper">
+
+<!--AUTOMAKERS -->
+<div id="navigation3">
+<div class="block">
+<div class="top2"><div class="right_bottom_corner"><div class="left_bottom_corner">
+<div class="indent">
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1245&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- BMW" class="greenbold">BMW</a>
 <ul>
-          <li><a href="https://home.autonews.com/clickshare/subscriptionCenter.do">Subscriber Services</a></li>
-          <li><a href="/webinar">Webinars</a></li>
-          <li><a href="/article/20051012/STATIC/310110001">Media Kits</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1246&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- BMW Brand">BMW Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1247&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Mini">Mini</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1248&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Rolls Royce">Rolls Royce</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1249&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Chrysler" class="greenbold">Chrysler</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1250&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Chrysler Brand">Chrysler Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1251&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Dodge">Dodge</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1252&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Jeep">Jeep</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1285&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Daimler" class="greenbold">Daimler</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1286&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Mercedes-Benz">Mercedes-Benz</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1288&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Maybach">Maybach</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1287&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Smart">Smart</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1301&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Fiat" class="greenbold">Fiat</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1303&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Alfa Romeo">Alfa Romeo</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1304&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Maserati">Maserati</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1305&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Ferrari">Ferrari</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1200&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Ford" class="greenbold">Ford</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1254&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Ford Brand">Ford Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1256&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Lincoln">Lincoln</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1255&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Mercury">Mercury</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1257&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Volvo">Volvo</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1258&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- General Motors" class="greenbold">General Motors</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1259&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Buick">Buick</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1260&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Cadillac">Cadillac</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1261&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Chevrolet">Chevrolet</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1262&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- GMC">GMC</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1307&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Holden">Holden</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1263&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Volkswagen">Hummer</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1308&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Volkswagen">Opel</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1264&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Pontiac">Pontiac</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1265&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Saab">Saab</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1266&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Saturn">Saturn</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1272&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Honda" class="greenbold">Honda</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1273&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Honda Brand">Honda Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1274&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Acura">Acura</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1275&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Hyundai" class="greenbold">Hyundai</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1276&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Hyundai Brand">Hyundai Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1277&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Kia">Kia</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1278&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Nissan" class="greenbold">Nissan</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1279&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Nissan Brand">Nissan Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1280&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Infiniti">Infiniti</a></li>
+</ul>
+<div class="line_dotted"></div>
+<div class="greenbold"><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1268&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Mazda">Mazda</a></div>
+<div class="line_dotted"></div>
+<div class="greenbold"><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1269&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Mitsubishi">Mitsubishi</a></div>
+<div class="line_dotted"></div>
+<div class="greenbold"><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1270&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Subaru">Subaru</a></div>
+<div class="line_dotted"></div>
+<div class="greenbold"><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1271&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Suzuki">Suzuki</a></div>
+<div class="line_dotted"></div>
+<div class="greenbold"><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1281&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Tata">Tata</a></div>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1282&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Tata Brand">Tata Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1283&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Jaguar">Jaguar</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1284&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Land Rover">Land Rover</a></li>
+</ul>
+<div class="line_dotted"></div>
+<div class="greenbold"><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1289&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Toyota">Toyota</a></div>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1290&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Toyota Brand">Toyota Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1292&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Lexus">Lexus</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1291&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Scion">Scion</a></li>
+</ul>
+<div class="line_dotted"></div>
+<a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1293&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Volkswagen" class="greenbold">Volkswagen</a>
+<ul>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1294&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Volkswagen Brand">Volkswagen Brand</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1295&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Audi">Audi</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1296&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Bentley">Bentley</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1297&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Bugatti">Bugatti</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=SEARCH&amp;SearchProfile=1298&amp;exclcat=COPY;COPY01;COPY02&amp;noblankcheck=1&amp;ProfileName=-- Lamborghini">Lamborghini</a></li>
 </ul>
 </div>
 </div></div></div>
+</div>
+</div>
+<!--END AUTOMAKERS -->
 
 
-       <div class="right">
-<ul><!-- load Ginsu -->
-<script type="text/javascript">
-		new GinsuInit("daapi currentUser");
-	</script><script src="http://sitelife.web.archive.org/ver1.0/Direct/DirectProxy.js" type="text/javascript" charset="utf-8"></script><script src="/config/personaTools.js" type="text/javascript" charset="utf-8"></script><script src="/config/currentUser.js" type="text/javascript" charset="utf-8"></script><link href="/config/currentUser.css" rel="stylesheet" type="text/css" charset="utf-8">
-<div class="plbox">
-<div class="pl_interior" style="padding: 10px 10px 10px 10px;"><br><br><br>
-<div id="ginsuCurrentUserModel_1" class="ginsuModel">
-<h1>{UserName}</h1>
-<blockquote>{Avatar}</blockquote>
-<!--{Anonymous:
-<h3><a href="LOGIN_URL">Log in</a> or <a href="REGISTER_URL">Register</a></h3>
-}-->
-		<h3>You have&nbsp;<br>{Messages}&nbsp;</h3>
-		<h3>{Options} | {LogOut}&nbsp;</h3>
-</div>
-<div id="statusbox">
-<ins id="ginsuCurrentUser_upper" class="ginsuCurrentUser"></ins>
-</div>
-<code id="codeContainer"></code>
+<!-- CONTENT2 -->
+<div id="content2" class="right">
+<div class="block">
 
-<!-- do the Ginsu action -->
-<script type="text/javascript">
-var ginsuCurrentUser_upper = new GinsuCurrentUser("ginsuCurrentUser_upper", "ginsuCurrentUserModel_1");
-</script>
-<br><br>
-<script language="javascript" type="text/javascript">
-if (mycookieval==undefined || mycookieval==""){ } else {
-document.write('<span class="pl_myautonews"><A href="/myautonews">MyAutoNews</A></span><br /><span class="pl_myautonews"><A href="https://home.autonews.com/clickshare/myhome.do?">My Account</A></span>');
-}
-</script>
-<!-- <span class="pl_myautonews"><A href="/myautonews">MyAutoNews</A></span> -->
-<br>
-</div>
-</div>
-<div id="box-legend">
-<div class="an_body1"><strong>Legend:</strong></div>
-<div class="an_body1"><span class="an_buy">[$]</span> Premium content</div>
-<div class="an_body1"><span class="an_sub">[SUB]</span> Requires subscription</div>
-<div class="an_body1"><span class="an_reg">[REG]</span> Requires registration</div>
-</div>
-</ul></div>
-  </div>
-	<br clear="all"> <!--BEGIN HEADER NAV-->
-    <div id="nav">
-      <ul id="nav_menu">
-        <li class="active"><strong><a href="http://www.autonews.com">Home</a></strong>
-          <ul>
-          <li><a href="http://www.nxtbook.com/nxtbooks/crain/an1252706779SDBJK">Digital Edition</a></li>
-          <li><a href="/section/TOC">Print Issue</a></li>
-          <li><a href="https://home.autonews.com/clickshare/myhome.do">Sign up for Email</a></li>
-          <li><a href="/section/DESKTOP">Get Desktop Alerts</a></li>
-          <li class="last"><a href="http://www.autonews.com/section/CONTACT01">Contact Us</a></li>
-          </ul>
-        </li>
-        <li><strong><a href="/section/OEM">Manufacturers</a></strong>
-          <ul>
-            <li><a href="/section/MANUFACTURING">Manufacturing</a></li>
-            <li><a href="/section/EXECUTIVES">Executives</a></li>			
-            <li><a href="/section/DESIGN">Design</a></li>
-            <li><a href="/section/FUTURE">Future Product</a></li>
-            <li><a href="/section/GREENCARS">Green Cars</a></li>
-            <li><a href="/section/TECHNOLOGY">Technology</a></li>				
+<div class="left_top_corner"><div class="right_top_corner"><div class="right_bottom_corner"><div class="left_bottom_corner">
+<div class="indent">
+
+<!--NAVIGATION-->
+<div id="navigation_block">
+<span class="preload1"></span>
+<span class="preload2"></span>
+<ul class="navigation2">	<li class="top"><a href="http://www.autonews.com" id="products" class="top_link"><span class="down">Home</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+		<li><a href="/section/BREAKING?profile=&amp;date=20091231&amp;d=1">Breaking News</a></li>
+			<li><a href="/section/contact01">Contact Us</a></li>
+			<li><a href="/section/anevents">Automotive News Events</a></li>
+			<li><a href="/apps/pbcs.dll/cce?Site=CA&amp;Module=10&amp;count=20">Industry Events</a></li>	
+<li><a href="/section/special">Special Sections</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="/section/oem" class="top_link"><span class="down">OEMs &amp; Suppliers</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+		<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1055&amp;noblankcheck=1&amp;ProfileName=Supplier%20Data">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Supplier data</a></li>
+<li><a href="/section/OEM01">Manufacturing</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1074&amp;noblankcheck=1&amp;ProfileName=Inventory">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Inventory</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1053&amp;noblankcheck=1&amp;ProfileName=Production">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Production</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=CSM&amp;SearchProfile=1196&amp;noblankcheck=1&amp;ProfileName=Production%20Forecasts">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Production Forecasts</a></li>
+<li><a href="/section/JATOSPECS">&nbsp;&nbsp;--&nbsp;Vehicle Specifications</a></li>
+            <li><a href="/section/OEM02">Executives</a></li>
+<li><a href="/section/executiveguide">&nbsp;&nbsp;--&nbsp;Executive Guide</a></li>		
+            <li><a href="/section/OEM03">Design</a></li>
+            <li><a href="/section/OEM04">Future Product</a></li>
+            <li><a href="/section/OEM05">Green Cars</a></li>
+            <li><a href="/section/OEM06">Technology</a></li>				
             <li><a href="/section/CUTAWAY">Cutaways</a></li>
-            <li><a href="/section/TALKTOP">Talk from the Top</a></li>
-            <li class="last"><a href="/section/World_Congress">World Congress</a></li>			
-          </ul>
-        </li>
-        <li><strong><a href="/section/RETAIL">Retail</a></strong>
-          <ul>
-            <li class="offset_1"><a href="/section/FINANCE">Finance &amp; Insurance</a></li>
-            <li><a href="/section/MARKETING">Marketing</a></li>
-            <li><a href="/section/REMARKETING">Remarketing</a></li>
-            <li><a href="/section/SERVICE">Service &amp; Parts</a></li>
-            <li><a href="/section/AUCTIONS">Auto Auctions</a></li>
-            <li><a href="/section/BLOG10">Chrysler Dealer Blog</a></li>
-            <li class="last"><a href="/section/NADA">NADA</a></li>					
-          </ul>
-        </li>
-		        <li><strong><a href="/section/REGIONS">Other Markets</a></strong>
-          <ul>
-            <li class="offset_2"><a href="/section/ANE">Europe</a></li>
-            <li><a href="/section/GERMAN_NEWSLETTER">German Auto Industry Newsletter&nbsp;<span class="an_buy">[$]</span></a></li>				
-            <li><a href="/section/ASIA">Asia</a></li>
-            <li class="last"><a href="/section/CHINA">China</a></li>
-          </ul>
-        </li>
-        <li><strong><a href="/section/AUTOSHOWS">Auto Shows</a></strong>
-          <ul>
-            <li class="offset_3"><a href="/section/ASdetroit">Detroit</a></li>
-            <li><a href="/section/ASchicago">Chicago</a></li>
-            <li><a href="/section/ASgeneva">Geneva</a></li>
-            <li><a href="/section/ASnewyork">New York</a></li>
-            <li><a href="/section/Shanghai">Shanghai</a></li>
-            <li><a href="/section/ASfrankfurt">Frankfurt</a></li>
-            <li><a href="/section/ASparis">Paris</a></li>
-            <li><a href="/section/AStokyo">Tokyo</a></li>
-            <li class="last"><a href="/section/ASlosangeles">Los Angeles</a></li>
-          </ul>
-        </li>
-		       <li><strong><a href="/section/multimedia">Multimedia</a></strong>
-          <ul>
-            <li class="offset_7"><a href="/section/vidmedia">Video</a></li>
-            <li><a href="/section/podcast">Podcasts</a></li>
-            <li class="last"><a href="/section/photogallery">Photo Galleries</a></li>
-          </ul>
-        </li>
-        <li><strong><a href="/section/DATA">Data</a></strong>
-          <ul>
-            <li class="offset_3"><a href="/section/DATACENTER">Data Center Search</a></li>
-			 <li><a href="http://autonews.csmauto.net">CSM Market Level Forecasts&nbsp;<span class="an_buy">[$]</span></a></li> 
-			 <li><a href="https://home.autonews.com/clickshare/djoAuth.do?djoref=http://autonews.datajoe.com/app/ecom/pub_products.php">Purchase lists&nbsp;<span class="an_buy">[$]</span></a></li>
-            <li><a href="/section/DCGUIDES">Supplements</a></li>
-           <li class="last"><a href="/section/JATOSPECS">JATO U.S. Vehicle Specifications</a></li>
-          </ul>
-        </li>
-		<li><strong><a href="/section/SPECIAL">Guides and Sections</a></strong>
-          <ul>
-            <li class="offset_3"><a href="/section/SPECIAL">Special Sections</a></li>
-			<li><a href="/section/executiveguide">Guide to Industry Executives</a></li>
-            <li><a href="/SECTION/altfuels">Advanced-Propulsion Plans</a></li>			
-            <li><a href="/SECTION/prices">U.S. Vehicle Prices</a></li>
-            <li class="last"><a href="/section/partnerships">Auto Partnerships</a></li>			
-          </ul>
-        </li>
-        <li><strong><a href="/section/OPINION">Opinion</a></strong>
-          <ul>
-            <li class="offset_3"><a href="/section/OPINION">Columnists</a></li>
-            <li><a href="/section/BLOG">Blogs</a></li>			
-            <li><a href="/section/LTE">Letters to the Editor</a></li>
-            <li><a href="/section/EDITORIAL">Editorials</a></li>
-            <li><a href="/apps/pbcs.dll/gallery?Avis=CA&amp;Dato=20090406&amp;Kategori=CARTOON&amp;Lopenr=406009998&amp;Ref=PH">Leo Michael Cartoons</a></li>			
-            <li class="last"><a href="/section/letters">Send us a Letter</a></li>			
-          </ul>
-        </li>
-		 <li id="redtab"><strong><a href="http://www.autonewsdirectory.com"><img align="left" style="margin-top:-5px; margin-right: 3px;" src="/assets/gif/icon-new.gif">Directory</a></strong>
-          <ul>
-            <li class="offset_5"><a href="http://www.autonewsdirectory.com/companyIndex.php">Company Index</a></li>
-            <li><a href="http://www.autonewsdirectory.com/advertisingOptions.php">Advertising Options</a></li>
-            <li><a href="https://www.autonewsdirectory.com/buildListing/indexNEW.php">Add Your Company</a></li>
-            <li class="last"><a href="http://www.autonewsdirectory.com/userAdmin/index.php">Update Your Company</a></li>
-          </ul>
-        </li>
-        <li><strong><a href="/section/CLASSIFIEDS">Classifieds</a></strong>
-          <ul>
-            <li class="offset_5"><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></li>
-            <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></li>
-            <li class="last"><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></li>
-          </ul>
- </li>
-								<li><strong><a href="http://jobs.autonews.com">Jobs</a></strong>
-          <ul>
-            <li class="offset_5"><a href="http://jobs.autonews.com">View Jobs</a></li>
-            <li><a href="http://jobs.autonews.com/c/profile/index.cfm?site_id=2164">Post an Anonymous Resume</a></li>
-            <li><a href="http://jobs.autonews.com/r/jobs/post/post.cfm?site_id=2164">Post a Job</a></li>
-            <li class="last"><a href="http://jobs.autonews.com/r/candidates/bank/index.cfm?site_id=2164">View Resumes</a></li>
-          </ul>
-        </li>
-		 </ul>
-    </div>
-    <!--END HEADER NAV-->
-
-    <!--BEGIN HEADER SUB NAV-->
-    <div id="subnav">
-<div id="subnav_menu">
-        <ul id="subnav_js">
-          <li><a href="/section/RSS"><img src="/assets/gif/rss_icon.gif" alt="RSS Feed" width="31" height="18" border="0" class="rss"></a></li>
-          <li><a href="/section/BREAKING?profile=&amp;date=20090601&amp;d=1">Breaking News</a></li>
-          <li><a href="/section/EDITORSPICKS">Editor's Picks</a></li>
-          <li><a href="/section/MOREONLINE">More on the Web</a></li>
-          <li><a href="/section/ANEVENTS">Automotive News Events</a></li>
-          <li><a href="/apps/pbcs.dll/cce?Site=CA&amp;Module=10">Other Events</a></li>
-		  <li><a href="https://home.autonews.com/clickshare/addAccount.do?CSProduct=autonews-premium">Buy weekly/monthly access</a></li>
-
-        </ul>
-      </div>
-      <div id="font_sizer">
-        <ul id="font_sizer_js">
-          <li><a>Text Size:</a></li>
-          <li><a title="Decrease text size" onclick="setStyleSheet('font_size','/assets/styles/font_small.css',this)"><span class="font_small">&lt;a</span></a></li>
-          <li><a title="Normal text size" class="font_sizer_active" onclick="setStyleSheet('font_size','/assets/styles/font_noraml.css',this)"><span class="font_normal">a</span></a></li>
-          <li><a title="Increase text size" onclick="setStyleSheet('font_size','/assets/styles/font_large.css',this)"><span class="font_large">a&gt;</span></a></li>
-        </ul>
-      </div>
-    </div>
-    <!--END HEADER SUB NAV-->
-  </div>
-  <!--END HEADER--><!--BEGIN MAIN CONTENT-->
-  <div id="main">
-   
-   
-    <!--BEGIN RIGHT RAIL-->
-    <div id="right_rail">
-<!-- <span style="font-family:arial,helvetica;font-weight:bold;font-size:14px;color:#dc143c;">Our search feature is not working properly. We are working on correcting the problem. Please bear with us.</span><br /> -->
-<form id="searchForm" name="searchForm" method="post" action="/apps/pbcs.dll/search?Category=SEARCH">
-<input type="hidden" name="ExclCat" value="SAP;EY;FEATURES;BP;HOLD;COPY;COPY01;ZZZ_SPECIAL;TEASE;WEBINAR;ANEVENTS;ANEVENTSOUT;ANEPOLL;EVENTS;DESKTOP;NEWSLETTER;NEWSLETTERANE;NEWSLETTERLITE;NEWSLETTERANELITE;NEWSLETTERSPECIAL;ANECLASS;TEASERS">
-        <input type="hidden" name="SearchCategory" value="%">
-        <input type="hidden" name="noblankcheck" value="0">
-        <input class="searchField" type="text" name="crit">
-        <label>
-        <input name="searchButton" type="image" id="searchButton" src="/assets/gif/btn_search.gif">
-        </label>
-        <a href="/section/search"><img src="/assets/gif/link_advanced_search.gif" alt="Search" vspace="2"></a>
-      </form>
-
-      <div class="ad_unit_300_250_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right?" border="0"></a></div>
-<div id="TabbedPanels1" class="TabbedPanels">
-        <ul class="TabbedPanelsTabGroup">
-          <li class="TabbedPanelsTab TabbedPanelsTabSelected" tabindex="0"><em><strong>Most&nbsp;Read</strong></em></li>
-           <li class="TabbedPanelsTab" tabindex="0"><em><strong>Most Commented</strong></em></li>
-          <li class="TabbedPanelsTab" tabindex="0"><em><strong>Most Recommended</strong></em></li> 
-        </ul>
-        <div class="TabbedPanelsContentGroup">
-		
-          <div id="tabbedPanelsFooterRight" class="TabbedPanelsContent TabbedPanelsContentVisible" style="display: block;">
-		  
-		  
-		  <div class="Article_popular_link"><a href="/article/20090529/ANA02/905299971/1018/STATIC">GM prepares to tell more dealerships they'll ...</a></div>
-<div class="Article_popular_link"><a href="/article/20090531/ANA05/905319995/1078/STATIC">May auto sales in U.S. projected to reach 10M...</a></div>
-<div class="Article_popular_link"><a href="/article/20090529/ANA08/905299965/1018/STATIC">Bob Lutz on erasing GM's 'reputational deficit'</a></div>
-<div class="Article_popular_link"><a href="/article/20090529/ANA02/905299981/1178/STATIC">Iacocca losing pension, car in Chrysler bankr...</a></div>
-<div class="Article_popular_link"><a href="/article/20090529/ANA02/905299947/1229/STATIC">GM to hold a press briefing Monday in New York</a></div>
-<div class="Article_popular_link"><a href="/article/20090531/ANA02/305319976/1078/STATIC">Can 'Government Motors' thrive where GM failed?</a></div>
-
-		  
-
-          </div>
-		  
-          <div id="tabbedPanelsFooterRight" class="TabbedPanelsContent" style="display: none;">
-		  
-		  
-        <script language="JavaScript" type="text/javascript">
-			//submitUpdateArticleRequest();
-		  gSiteLife.SummaryArticlesMostCommented(6);
-    </script>
-
-	    
-          </div>	
-	  
-  
-          <div class="TabbedPanelsContent" style="display: none;">
-		  
-		  
-        <script language="JavaScript" type="text/javascript">
-
-			//submitUpdateArticleRequest();
-    gSiteLife.SummaryArticlesMostRecommended(6);
-      </script>
-
-          </div>
-  
-          
-		  </div>
-                   </div>
-             
-
-	  
-<div class="ad_unit_300_100_right" id="ad_unit_300_100_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right1'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right1?" border="0"></a></div>
-
-     
-	  
-	  
-           <div class="ad_unit_300_600_right" align="center">
-        <!-- <p class="most_popular_by_line">Advertisement</p> -->
-       <script language="javascript" type="text/javascript">OAS_RICH('Right2'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right2?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right2?" border="0"></a> </div>
-	   
-	   
-       <div class="ad_unit_300_100_right" id="ad_unit_300_100_right" align="center"><script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_jx.cgi/www.autonews.com/directorycenter/18005349947@Position2"></script></div>
-   
-
-       <div class="ad_unit_300_600_right" id="jt_job_list" align="center">
-<table cellspacing="0" cellpadding="0" border="0" width="225"><tbody><tr><td><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border: 1px solid rgb(0, 0, 0);"><tbody><tr><td height="24" bgcolor="#ffffff" background="/assets/jpg/tb_background.jpg" style="border-bottom: 1px solid rgb(0, 0, 0); padding-left: 4px;"><a href="http://www.jobtarget.com/home/index.cfm?site_id=2164"><span class="blacknormal">Latest job listings</span></a></td></tr><tr><td><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr></tr><tr><td class="blacktxtnor" style="padding-left: 4px; padding-right: 4px;"><div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5577592" target="_new"><span class="wsjblue">Sales Manager:</span><br><span class="wsjtext">Georgia Toyota-GM-Ford dealer group<br>GA, United States</span></a></div></div><div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5557871" target="_new"><span class="wsjblue">ALL MANAGEMENT POSITIONS:</span><br><span class="wsjtext">Confidential<br>Houston Area, TX, United States</span></a></div></div>
-
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5567006" target="_new"><span class="wsjblue">Sales Manager:</span><br><span class="wsjtext">Confidential<br>Honolulu, HI, United States</span></a></div></div><div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5567010" target="_new"><span class="wsjblue">Service Manager:</span><br><span class="wsjtext">Confidential<br>Honolulu, HI, United States</span></a></div></div>
-
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5568179" target="_new"><span class="wsjblue">PARTS MANAGER:</span><br><span class="wsjtext">Confidential<br>Mid Atlantic, NA, United States</span></a></div></div><div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5518168" target="_new"><span class="wsjblue">SERVICE MANAGER:</span><br><span class="wsjtext">Confidential<br>CENTRAL FLORIDA, FL, United States</span></a></div></div>
-
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5561998" target="_new"><span class="wsjblue">GENERAL SALES MANAGER:</span><br><span class="wsjtext">Confidential<br>Midwest, NA, United States</span></a></div></div><div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5566151" target="_new"><span class="wsjblue">Project Director - AMTEC, Job #9402:</span><br><span class="wsjtext">Kentucky Community and Technical College System<br>Versailles, KY, United States</span></a></div></div>
-
-<div style="padding-bottom:4px;" class="wsjbody"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5562807" target="_new"><span class="wsjblue">Key Dept Mgrs - Office, Parts &amp; Service:</span><br><span class="wsjtext">Confidential<br>AZ, United States</span></a></div></div><div style="padding-bottom:4px;" class="wsjbody2"><div align="left"><a class="wsjbody" href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5562503" target="_new"><span class="wsjblue">Pre-Owned Sales Manager:</span><br><span class="wsjtext">Porsche Annapolis<br>Annapolis, MD, United States</span></a></div></div>
-
-<div align="center"><a href="http://www.jobtarget.com/home/index.cfm?site_id=2164" target="_new"><img src="http://www.autonews.com/assets/gif/careerCenter.gif" width="280" height="20" border="0"></a></div></td></tr><tr style="display: none;"></tr></tbody></table></td></tr><tr></tr></tbody></table></td></tr></tbody></table>
+            <li><a href="/section/OEM08">Talk from the Top</a></li>
+            <li class="last"><a href="/section/OEM09">World Congress</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="/section/RETAIL" class="top_link"><span class="down">Retail</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+		<li><a href="/section/RETAIL01">Sales</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1057&amp;noblankcheck=1&amp;ProfileName=Sales">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><font color="#cc6600"><b>DATA:</b></font></font><![endif]--> Sales</a></li>
+<li><a href="/section/prices">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Prices -- U.S.</a></li>
+<li><a href="/section/RETAIL07">Dealers</a></li>
+<li><a href="/section/DEALERS01">Dealers Q&amp;A</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1038&amp;noblankcheck=1&amp;ProfileName=Dealer%20Data">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Dealer Data</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1033&amp;noblankcheck=1&amp;ProfileName=Incentives">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Incentives</a></li>
+<li><a href="/section/RETAIL02">Finance &amp; Insurance</a></li>
+<li><a href="/section/RETAIL03">Marketing</a></li>
+<li><a href="/section/RETAIL04">Remarketing</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1331&amp;noblankcheck=1&amp;ProfileName=Used%20Prices,%20Average%20Wholesale%20and%20Certified%20Sales">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Used Prices, Sales</a></li>
+<li><a href="/section/RETAIL05">Service &amp; Parts</a></li>
+<li><a href="/section/AUCTIONS">Auto Auctions</a></li> 
+<li><a href="/section/RETAIL06">NADA</a></li>
+<li><a href="/section/VISIONARYDEALERS">Visionary Dealers</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="/section/global" class="top_link"><span class="down">Global</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+<li><a href="/section/ANE">Europe</a></li>
+<li><a href="/section/GERMAN_NEWSLETTER">Germany</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1042&amp;noblankcheck=1&amp;ProfileName=Europe%20Data">&nbsp;&nbsp;--&nbsp;<!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">DATA:</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>DATA:</b></font><![endif]--> Europe Data</a></li>		
+<li><a href="/section/GLOBAL02">Asia</a></li>
+<li><a href="/section/GLOBAL03">China</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="/section/autoshows" class="top_link"><span class="down">Auto Shows</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+<li><a href="/section/ASdetroit">Detroit</a></li>
+<li><a href="/section/ASchicago">Chicago</a></li>
+<li><a href="/section/ASgeneva">Geneva</a></li>
+<li><a href="/section/ASnewyork">New York</a></li>
+<li><a href="/section/ASfrankfurt">Frankfurt</a></li>
+<li><a href="/section/ASparis">Paris</a></li>
+<li><a href="/section/AStokyo">Tokyo</a></li>
+<li><a href="/section/ASlosangeles">Los Angeles</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="/section/datacenter" class="top_link"><span class="down">Data</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+<li><a href="/section/altfuels">Advanced-Propulsion Plans</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchProfile=1188&amp;noblankcheck=1&amp;ProfileName=Car%20Cutaways">Car Cutaways</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1042&amp;noblankcheck=1&amp;ProfileName=Europe%20Data">Europe Data</a></li>
+<li><a href="/section/executiveguide">Executive Guide</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1033&amp;noblankcheck=1&amp;ProfileName=Incentives">Incentives</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1074&amp;noblankcheck=1&amp;ProfileName=Inventory">Inventory -- North America</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1038&amp;noblankcheck=1&amp;ProfileName=Dealer%20Data">Dealer Data</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1035&amp;noblankcheck=1&amp;ProfileName=Market%20Data%20Books">Market Data Books</a></li>
+<li><a href="/section/partnerships">Global Automotive Partnerships</a></li>
+<li><a href="/section/prices">Prices -- U.S.</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1053&amp;noblankcheck=1&amp;ProfileName=Production">Production</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=CSM&amp;SearchProfile=1196&amp;noblankcheck=1&amp;ProfileName=Production%20Forecasts">Production Forecasts</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1057&amp;noblankcheck=1&amp;ProfileName=Sales">Sales</a></li>
+<li><a href="/section/JATOSPECS">Specifications -- North America</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1055&amp;noblankcheck=1&amp;ProfileName=Supplier%20Data">Supplier data</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1331&amp;noblankcheck=1&amp;ProfileName=Used%20Prices,%20Average%20Wholesale%20and%20Certified%20Sales">Used Prices, Sales</a></li>
+<li><a href="/section/datastore"><!--[if gte IE 7]><!--><span style="color:#cc6600;font-weight:bold;">LISTS AND DATA FOR SALE</span><!--<![endif]--><!--[if lte IE 6]><font color="#cc6600"><b>LISTS AND DATA FOR SALE</b></font><![endif]--></a></li><a href="/section/datastore">
+</a></ul><a href="/section/datastore">
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</a></li><a href="/section/datastore">
+</a><li class="top"><a href="/section/datastore"></a><a href="/section/opinion" class="top_link"><span class="down">Opinion</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+<li><a href="/section/OPINION03">Columnists</a></li>
+<li><a href="/section/BLOG">Blogs</a></li>			
+<li><a href="/section/OPINION01">Letters to the Editor</a></li>
+<li><a href="/section/OPINION02">Editorials</a></li>
+<li><a href="/apps/pbcs.dll/gallery?Avis=CA&amp;Dato=20090406&amp;Kategori=CARTOON&amp;Lopenr=406009998&amp;Ref=PH">Leo Michael Cartoons</a></li>			
+<li><a href="/section/letters">Send us a Letter</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="http://www.autonewsdirectory.com" class="top_link"><span class="down">Directory</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+    <li><a href="http://www.autonewsdirectory.com/companyIndex.php">Company Index</a></li>
+ <li><a href="http://www.autonewsdirectory.com/advertisingOptions.php">Advertising Options</a></li>
+ <li><a href="https://www.autonewsdirectory.com/buildListing/indexNEW.php">Add Your Company</a></li>
+ <li><a href="http://www.autonewsdirectory.com/userAdmin/index.php">Update Your Company</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="/section/classifieds" class="top_link"><span class="down">Classifieds</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+ <li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="http://jobs.autonews.com" class="top_link"><span class="down">Jobs</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+<li><a href="http://jobs.autonews.com">View Jobs</a></li>
+<li><a href="http://jobs.autonews.com/c/profile/index.cfm?site_id=2164">Post an Anonymous Resume</a></li>
+<li><a href="http://jobs.autonews.com/r/jobs/post/post.cfm?site_id=2164">Post a Job</a></li>
+<li class="last"><a href="http://jobs.autonews.com/r/candidates/bank/index.cfm?site_id=2164">View Resumes</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+<li class="top"><a href="https://home.autonews.com/clickshare/subscriptionCenter.do" class="top_link"><span class="down" id="nav_last">Subscribe</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="sub">
+<li><a href="https://home.autonews.com/clickshare/subscriptionCenter.do">Automotive News Print</a></li>
+<li><a href="https://home.autonews.com/clickshare/subscriptionCenter.do">Digital Edition</a></li>
+<li><a href="https://home.autonews.com/clickshare/subscriptionCenter.do">German Newsletter</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+</ul>
 </div>
+<!--END NAVIGATION-->
 
-<div class="ad_unit_300_250_right" align="center"><script language="javascript" type="text/javascript">OAS_RICH('Right3'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right3?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Right3?" border="0"></a></div>
-</div>
-    <!--END RIGHT RAIL-->
+<!--CONTAINER-->
+<div class="container">
 
-
-<!--HHHHHHHHHHHH Begin Content Area  HHHHHHHHHHH -->
-
- <!--BEGIN LEFT RAIL-->
-    <div class="article" id="left_rail">
-
+<!--LEFT RAIL-->
+<div id="left_rail">
+<div id="article">
 	   
-<span class="an_artheadline1">Privacy Policy<br></span>
+<h1>Privacy Policy</h1>
 
-<span class="an_spacer"> <br> </span>
 <br>
+<div class="article_float">
 
-<table width="615" align="left" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" height="79"> 
 
-Automotivenews.com is the Web site of Automotive News, a publication of the Automotive News Group, a business unit of Crain Communications Inc. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207. We can be reached by e-mail at autonews@crain.com or by telephone at 313-446-6000. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. <br><br>We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.<br><br>When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement. We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.<br><br>We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site. Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location. We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. <br><br>Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate.<br><br>From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to autonews@crain.com or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. <br><br>We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to autonews@crain.com. You may not be able to fully access this Web site if you request removal of your personal information.<br><br>If you provided your postal mail address during registration and do not wish to receive marketing materials from the Automotive News Group, you may remove your name by sending an e-mail to autonews@crain.com with "Do Not Mail" in the subject line along with your full name or by calling us at 313-446-6000.<br><br>This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer.<br><br>If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000.<br></td>
-
-    <td width="10" height="79">&nbsp;&nbsp;</td>
-    <td width="175" valign="top" height="79"> <table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#e1e1e1">
+<table border="0" cellspacing="0" cellpadding="1" width="240" bgcolor="#e1e1e1">
   <tbody><tr bgcolor="#666666"> 
     <td> <font face="Arial, Helvetica" color="#ffffff" size="1"><b> &nbsp;&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif">Other Resources: 
       </font></b></font> </td>
@@ -501,221 +620,396 @@ Automotivenews.com is the Web site of Automotive News, a publication of the Auto
 
 
 
-   
-    </td>
-    
-  </tr>
-</tbody></table> 
+  
+</div>
+Automotivenews.com is the Web site of Automotive News, a publication of the Automotive News Group, a business unit of Crain Communications Inc. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207. We can be reached by e-mail at autonews@crain.com or by telephone at 313-446-6000. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. <br><br>We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.<br><br>When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement. We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.<br><br>We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site. Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location. We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. <br><br>Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate.<br><br>From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to autonews@crain.com or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. <br><br>We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to autonews@crain.com. You may not be able to fully access this Web site if you request removal of your personal information.<br><br>If you provided your postal mail address during registration and do not wish to receive marketing materials from the Automotive News Group, you may remove your name by sending an e-mail to autonews@crain.com with "Do Not Mail" in the subject line along with your full name or by calling us at 313-446-6000.<br><br>This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer.<br><br>If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000.
+
  
+</div>
+<div class="clear"></div>
+</div>
+<!--END LEFT RAIL-->
+<!--RIGHT RAIL-->
+<div id="right_rail">
+
+<div class="advertising2">
+<script type="text/javascript" language="javascript">OAS_RICH('Right'); </script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Right?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Right?" border="0"></a>
+</div>
+<!-- STOCK BOX-->
+<div style="margin-bottom:5px">
+<iframe src="http://www.automotivenews.idmanagedsolutions.com/www/markets.html" width="100%" height="390" frameborder="0" scrolling="no" title="Interactive Data" style="margin:0"></iframe>
+<div align="right" style="padding-bottom:5px;"><span style="font-family:arial, helvetica serif;font-size:10px;font-weight:normal;padding-top:1px;">Sponsored by</span>&nbsp;
+<script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_jx.cgi/www.autonews.com/stocklogo/18005349947@x08"></script>
+<hr align="center" width="280" size="1">
+</div>
+</div>
+
+<!-- END STOCK BOX -->
+
+<!--AN TODAY-->
+<div class="block1">
+<div class="top_tall"><div class="right_tall"><div class="bottom_tall"><div class="left_tall">
+<div class="left_top_corner"><div class="right_top_corner"><div class="right_bottom_corner"><div class="left_bottom_corner">
+<div class="indent1" style="height:225px">
+<div class="box1top"><span class="title2" style="text-decoration:none;">Automotive News TV</span></div>
+<div class="an_news_today">
+<div class="fright">
+<a href="/article/20091230/VIDEO/312309998/1219" style="font-size:13px">» Today's newscast</a>
+<div align="center">Wed., December 30</div>
+<br>
+<a href="/article/20091230/VIDEO/312309998/1219">
+Year in Review:<br>General Motors<br>staggers, survives</a>
+<div class="an_news_today_sponsor">
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div></div></div></div>
+</div></div></div></div>
+</div>
+<!--END AN TODAY-->
+<!--VIDEO-->
+<div class="block1">
+<div class="top_tall"><div class="right_tall"><div class="bottom_tall"><div class="left_tall">
+<div class="left_top_corner"><div class="right_top_corner"><div class="right_bottom_corner"><div class="left_bottom_corner">
+<div class="indent1" style="height:220px">
+<div class="box1top"><a href="/section/video"><span class="title2" style="text-decoration:none;">Videos</span></a></div>
+<!--Carousel-->
+<div id="wrap">
+  <div class=" jcarousel-skin-tango"><div id="mycarousel" class="jcarousel-container jcarousel-container-horizontal" style="display: block;">
+    <div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" style="display: block;"></div><div class="jcarousel-next jcarousel-next-horizontal" style="display: block;"></div><div class="jcarousel-clip jcarousel-clip-horizontal"><ul class="jcarousel-list jcarousel-list-horizontal" style="width: 1320px; left: 0px;">
+<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style=""> <a href="/article/20091218/VIDEO/312189998"><img src="/apps/pbcsi.dll/storyimage/CA/20091218/VIDEO/312189998/AR-312189998.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091218/VIDEO/312189998">2010 Mazda Mazdaspeed3: Small, but functional nav. system</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style=""> <a href="/article/20091217/VIDEO/312179968"><img src="/apps/pbcsi.dll/storyimage/CA/20091217/VIDEO/312179968/AR-312179968.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091217/VIDEO/312179968">2010 Cadillac SRX AWD: Solid tech</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style=""> <a href="/article/20091211/VIDEO/312099952"><img src="/apps/pbcsi.dll/storyimage/CA/20091211/VIDEO/312099952/AR-312099952.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091211/VIDEO/312099952">The 2011 Ford Mustang at the 2009 L.A. Auto Show</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style=""> <a href="/article/20091207/VIDEO/312049940"><img src="/apps/pbcsi.dll/storyimage/CA/20091207/VIDEO/312049940/AR-312049940.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091207/VIDEO/312049940">A look at the L.A. Auto Show</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style=""> <a href="/article/20091130/VIDEO/311309925"><img src="/apps/pbcsi.dll/storyimage/CA/20091130/VIDEO/311309925/AR-311309925.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091130/VIDEO/311309925">2010 Tesla Roadster Sport: Improved interior; low tech</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style=""> <a href="/article/20091125/VIDEO/311259998"><img src="/apps/pbcsi.dll/storyimage/CA/20091125/VIDEO/311259998/AR-311259998.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091125/VIDEO/311259998">2010 Nissan Altima 2.5S Coupe: Lots of tech at no extra cost</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style=""> <a href="/article/20091124/VIDEO/311249970"><img src="/apps/pbcsi.dll/storyimage/CA/20091124/VIDEO/311249970/AR-311249970.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091124/VIDEO/311249970">2010 Audi A5 2.0 TFSI Cabriolet: Starts at $43,000</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style=""> <a href="/article/20091123/VIDEO/311209951"><img src="/apps/pbcsi.dll/storyimage/CA/20091123/VIDEO/311209951/AR-311209951.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091123/VIDEO/311209951">SPECIAL REPORT: Social Media</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style=""> <a href="/article/20091119/VIDEO/311199998"><img src="/apps/pbcsi.dll/storyimage/CA/20091119/VIDEO/311199998/AR-311199998.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091119/VIDEO/311199998">2010 Subaru Outback 2.5i Premium: Average tech</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style=""> <a href="/article/20091116/VIDEO/311169900"><img src="/apps/pbcsi.dll/storyimage/CA/20091116/VIDEO/311169900/AR-311169900.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091116/VIDEO/311169900">2010 Honda Fit Sport: Starts at $17,000</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-11 jcarousel-item-11-horizontal" jcarouselindex="11" style=""> <a href="/article/20091110/VIDEO/311109905"><img src="/apps/pbcsi.dll/storyimage/CA/20091110/VIDEO/311109905/AR-311109905.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091110/VIDEO/311109905">Talk From the Top with Chrysler's Sergio Marchionne</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-12 jcarousel-item-12-horizontal" jcarouselindex="12" style=""> <a href="/article/20091110/VIDEO/311109928"><img src="/apps/pbcsi.dll/storyimage/CA/20091110/VIDEO/311109928/AR-311109928.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091110/VIDEO/311109928">2010 BMW X5M: Plenty of tech</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-13 jcarousel-item-13-horizontal" jcarouselindex="13" style=""> <a href="/article/20091106/VIDEO/311059894"><img src="/apps/pbcsi.dll/storyimage/CA/20091106/VIDEO/311059894/AR-311059894.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091106/VIDEO/311059894">Talk From the Top with Ford's Alan Mulally</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-14 jcarousel-item-14-horizontal" jcarouselindex="14" style=""> <a href="/article/20091103/VIDEO/311039931"><img src="/apps/pbcsi.dll/storyimage/CA/20091103/VIDEO/311039931/AR-311039931.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091103/VIDEO/311039931">2010 Infiniti QX56 2WD: Starts at $56,800</a></li><li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-15 jcarousel-item-15-horizontal" jcarouselindex="15" style=""> <a href="/article/20091030/VIDEO/310309998"><img src="/apps/pbcsi.dll/storyimage/CA/20091030/VIDEO/310309998/AR-310309998.jpg?ref=AR&amp;q=60" alt="" width="84" height="84"></a><br>
+<a href="/article/20091030/VIDEO/310309998">2010 Acura RDX: Outdated tech</a></li>
+</ul></div><br>
+</div></div>
+</div>
+<!--END Carousel-->
+<div class="clear"></div>
+</div>
+</div></div></div></div>
+</div></div></div></div>
+</div>
+<!--END VIDEO-->
 
 
-    <!--END LEFT RAIL-->
-  </div>
-  <!--END MAIN CONTENT--> 
-  </div>
+<div class="advertising2">
+<script type="text/javascript" language="javascript">OAS_RICH('Right1');</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Right1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Right1?" border="0"></a></div>
 
-<!-- HHHHHHHHHHHHHH End Content Area HHHHHHHHHHHHHHH -->
 
-<!--BEGIN FOOTER-->
-  <div id="footer">
-    <div class="ad_unit_728_90_bottom"><script language="javascript" type="text/javascript">
+<!--MOSTS-->
+<div id="box_mosts">
+<ul>
+<li id="current"><a href="#nogo" style="padding-top:6px">Most Read<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li>	
+	<p><a href="/article/20091230/VIDEO/312309998/1219/STATIC">Automotive News TV (12/30/09)</a></p>
+<p><a href="/article/20091230/OEM02/912309996/1178/STATIC">GM hires ex-AT&amp;T lobbyists; Cole to retire</a></p>
+<p><a href="/article/20091230/COPY01/312309995/1265/STATIC">Saab to resume output after bid deadline dropped</a></p>
+<p><a href="/article/20091229/RETAIL01/312299971/1400/STATIC">Global auto sales set for gains in 2010, repo...</a></p>
+<p><a href="/article/20091229/VIDEO/312299998/1219/STATIC">Automotive News TV (12/29/09)</a></p>
+
+
+</li>
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li><a href="#nogo">Most<br>Commented<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li>
+	 <script language="JavaScript" type="text/javascript">
+			//submitUpdateArticleRequest();
+		  gSiteLife.SummaryArticlesMostCommented(5);
+    </script>
+
+	</li>
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li><a href="#nogo">Most<br>Recommended<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li>
+	  
+        <script language="JavaScript" type="text/javascript">
+
+			//submitUpdateArticleRequest();
+    gSiteLife.SummaryArticlesMostRecommended(5);
+      </script>
+
+
+	</li>
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+</div>
+<!--END MOSTS-->
+
+<div class="clear"></div>
+<img src="/assets/gif/shim.gif" width="1" height="40" border="1">
+<div class="advertising2">
+<script type="text/javascript" language="javascript">OAS_RICH('Right2');</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Right2?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Right2?" border="0"></a></div>
+
+
+<!--JOBS-->
+
+<div id="jobs" class="block1">
+<div class="top_tall"><div class="right_tall"><div class="bottom_tall"><div class="left_tall">
+<div class="left_top_corner"><div class="right_top_corner"><div class="right_bottom_corner"><div class="left_bottom_corner">
+
+<div class="indent4">
+<div class="title4">Latest Job Listing</div><br>
+<a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6351960"><span style="text-transform:uppercase;"><b>PARTS MANAGER</b></span></a><br>
+Confidential<br>
+Lexington, KY, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6347962"><span style="text-transform:uppercase;"><b>Sales Management/GSM</b></span></a><br>
+Novato Ford<br>
+CA, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6323441"><span style="text-transform:uppercase;"><b>Fixed Operations Consultants, Facilitators, Trainers</b></span></a><br>
+Service Operations Specialists<br>
+Various, NA, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6318554"><span style="text-transform:uppercase;"><b>Controller</b></span></a><br>
+Fair Oaks Chrysler Jeep Dodge<br>
+Chantilly, VA, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6280796"><span style="text-transform:uppercase;"><b>General Sales Manager</b></span></a><br>
+Confidential<br>
+Gulf Coast, TX, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6279825"><span style="text-transform:uppercase;"><b>Pre-Owned Sales Manager</b></span></a><br>
+Confidential<br>
+NC, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=6279830"><span style="text-transform:uppercase;"><b>General Sales Manager &amp; Sales Managers</b></span></a><br>
+McGrath Automotive Group<br>
+Chicagoland Area, IL, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5087059"><span style="text-transform:uppercase;"><b>AGENTS and DEALERS WANTED</b></span></a><br>
+Auto4Life<br>
+NA, United States<br><br><a href="http://jobs.autonews.com/c/job.cfm?site_id=2164&amp;jb=5087060"><span style="text-transform:uppercase;"><b>DEALERS / AGENTS</b></span></a><br>
+Confidential<br>
+NA, United States<br><br>
+
+<div class="redbold alignright"><a href="http://jobs.autonews.com/">More</a> »</div>
+
+</div>
+
+</div></div></div></div>
+</div></div></div></div>
+</div>
+
+<!--END JOBS-->
+
+</div>
+<!--END RIGHT RAIL-->
+</div>
+<!--END CONTAINER-->
+
+<div class="row"><img src="/assets/gif/shim.gif" width="9" height="1"></div>
+</div>
+<!--END INDENT-->
+<div class="clear"></div>
+<div class="advertising2">Advertising<br>
+<script type="text/javascript" language="javascript">
 <!-- 
 OAS_RICH('Bottom1'); 
 //--> 
-</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Bottom1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/oem/310120002/1505655732@Top1,Bottom1,Right,Right1,Right2,Right3,Left1,Left2!Bottom1?" border="0"></a></div>
+</script><a href="http://oascentral.autonews.com/RealMedia/ads/click_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Bottom1?" target="_blank"><img src="http://oascentral.autonews.com/RealMedia/ads/adstream_nx.ads/www.autonews.com/Static_Pages/310120002/1511106776@Top1,Bottom1,Right,Right1,Right2,Left2!Bottom1?" border="0"></a>
+</div><br>
+</div></div></div></div>
+
+</div>
+</div>
+<!--END CONTENT-->
+<div class="clear"></div>
+</div>
+<!--END CONTAINER-->
+<div class="clear"></div>
+<!--FOOTER -->
 <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
-<script type="text/javascript" src="/assets/scripts/SpryTabbedPanels.js"></script>
-    <div id="nav_footer">
-      <div class="site_map_head">
-        <table width="100%" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td><a href="#bottom" onclick="toggle_sitemap(this,'site_map')">Site Index [-]</a></td>
-            <td><div align="right"><a href="#top">Back to Top<img src="/assets/gif/arrow_up.gif" alt="Back to Top" width="14" height="15" hspace="4" align="middle"></a></div></td>
-          </tr>
-        </tbody></table>
-      </div>
-      <div id="site_map">
-        <table width="940" cellpadding="0" cellspacing="0">
-          <tbody><tr class="head">
-            <td><a href="/section/OEM">Automakers &amp; Suppliers</a></td>
-            <td><a href="/section/RETAIL">Retail</a></td>
-            <td><a href="/section/REGIONS">Other Markets</a></td>
-            <td><a href="/section/AUTOSHOWS">Auto Shows</a></td>
-            <td><a href="/section/MULTIMEDIA">Multimedia</a></td>   			
-            <td><a href="/section/DATA">Data</a></td>
-            <td><a href="/section/OPINION">Opinion &amp; Feedback</a></td>
-            <td><a href="/section/CLASSIFIEDS">Classifieds</a></td>
-
-		</tr>
-          <tr>
-            <td><a href="/section/MANUFACTURING">Manufacturing</a></td>
-            <td><a href="/section/FINANCE">Finance &amp; Insurance</a></td>
-            <td><a href="/section/EUROPE">Europe</a></td>
-            <td><a href="/section/ASdetroit">Detroit</a></td>
-            <td><a href="/section/VIDMEDIA">Video</a></td>
-			<td><a href="/section/DATACENTER">Data Center Search</a></td>
-            <td><a href="/section/KCRAIN">Keith Crain</a></td>
-			<td><a href="http://jobs.autonews.com">Manufacturing Jobs</a></td>
-
-          </tr>
-          <tr>
-            <td><a href="/section/EXECUTIVES">Executives</a></td>
-			<td><a href="/section/MARKETING">Marketing</a></td>
-            <td><a href="/section/GERMAN_NEWSLETTER">Germany&nbsp;<span class="an_buy">[$]</span></a></td>
-            <td><a href="/section/ASchicago">Chicago</a></td>
-			<td><a href="/section/PODCAST">Podcasts</a></td>			
-            <td><a href="/section/DCGUIDES">Supplements</a></td>
-            <td><a href="/section/ELAPHAM">Edward Lapham</a></td>
-			<td><a href="http://jobs.autonews.com">Dealer Jobs</a></td>   
-          </tr>
-          <tr>
-            <td><a href="/section/DESIGN">Design</a></td> 
-            <td><a href="/section/REMARKETING">Remarketing</a></td>
-            <td><a href="/section/ASIA">Asia</a></td>
-            <td><a href="/section/ASgeneva">Geneva</a></td>
-			<td><a href="/section/PHOTOGALLERY">Photo Galleries</a></td>
-			<td><a href="/section/JATOSPECS">JATO U.S. Specifications</a></td>
-            <td><a href="/section/PBROWN">Peter Brown</a></td>
-		    <td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></td>
-
-          </tr>
-          <tr>
-            <td><a href="/section/FUTURE">Future Product</a></td>
-            <td><a href="/section/SERVICE">Service &amp; Parts</a></td>
-            <td><a href="/section/CHINA">China</a></td>
-            <td><a href="/section/ASnewyork">New York</a></td>
-			<td>&nbsp;</td>
-			<td><a href="http://autonews.csmauto.net">CSM Market Level Forecasts&nbsp;<span class="an_buy">[$]</span></a></td>
-            <td><a href="/section/JTEAHEN">John K. Teahen Jr.</a></td>
-			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></td>
-
-            </tr>
-          <tr>
-             <td><a href="/section/GREENCARS">Green Cars</a></td>
-            <td><a href="/section/AUCTIONS">Auto Auctions</a></td>
-            <td>&nbsp;</td>
-            <td><a href="/section/ASfrankfurt">Frankfurt</a></td>
-			<td>&nbsp;</td>
-			<td><a href="https://home.autonews.com/clickshare/djoAuth.do?djoref=http://autonews.datajoe.com/app/ecom/pub_products.php">Purchase lists&nbsp;<span class="an_buy">[$]</span></a></td>
-            <td><a href="/section/DSEDGWICK">David Sedgwick</a></td>
-		 <td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></td>
-
-          </tr>
-          <tr>
-            <td><a href="/section/TECHNOLOGY">Technology</a></td>
-            <td><a href="/section/NADA">NADA</a></td>
-            <td>&nbsp;</td>
-            <td><a href="/section/ASparis08">Paris</a></td>
-            <td>&nbsp;</td>
-			<td><a href="/assets/pdf/Stockwatch.pdf">Stock Watch</a></td>
-            <td><a href="/section/GUESTS">Guest Columnists</a></td>
-			<td><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20090531-20090601&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></td>		
-
-          </tr>
-          <tr>
-		    <td><a href="/section/CUTAWAY">Car Cutaways</a></td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td><a href="/section/AStokyo">Tokyo</a></td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td><a href="/section/EDITORIALS">Editorials</a></td>
-			<td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><a href="/section/TALKTOP">Talk from the Top</a></td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td><a href="/section/ASlosangeles">Los Angeles</a></td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-			<td><a href="/section/LTE">Letters to the Editor</a></td>
-			<td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><a href="/section/TALKTOP">World Congress</a></td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td><a href="/section/letters">Send us a Letter</a></td>
-			<td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>		  
-        </tbody></table>
-      </div>
-      <div id="subnav_footer">
-        <ul>
-          <li><a href="/section/RSS">RSS</a></li>
-          <li><a href="http://www.nxtbook.com/nxtbooks/crain/an1252706779SDBJK">Digital Edition</a></li>
-          <li><a href="/section/TOC">Print Issue</a></li>
-          <li><a href="/section/BREAKING">Breaking News</a></li>
-          <li><a href="https://home.autonews.com/clickshare/authenticateUserSubscription.do?CSProduct=autonews&amp;CSTargetURL=http://www.autonews.com/section/myautonews">MyAutoNews</a></li>
-          <li><a href="/section/EDITORSPICKS">Editor's Picks</a></li>
-          <li><a href="/section/MOREONLINE">More on the Web</a></li>
-          <li><a href="/section/SPECIAL">Special Sections</a></li>
-          <li><a href="/section/ANEVENTS">Automotive News Events</a></li>
-          <li><a href="/apps/pbcs.dll/cce?Site=CA&amp;Module=10">Other Events</a></li>
-
-		  </ul>
-        <ul>
-	      <li><a href="/section/CONTACT01">Contact Editorial</a></li>
-          <li><a href="/section/CONTACT02">Contact Advertising</a></li>	 
-		  <li><a href="/section/DESKTOP">Get Desktop Alerts</a></li>
-          <li><a href="/webinar">Webinars</a></li>
-          <li><a href="https://home.autonews.com/clickshare/subscriptionCenter.do">Subscriber Services</a></li>
-          <li><a href="/article/20051012/STATIC/310110001">Media Kits</a></li>
-          <li><a href="http://www.theautonewsdirectory.com/">Industry Directory</a></li>
-		  </ul>
-
-      </div>
-    </div>
-    <div id="legal">
-  <p>Entire contents © 2008 Crain Communications, Inc.</p>
-      <p> Use of editorial content without permission is strictly prohibited. All Rights Reserved.</p>
-      <ul>
-        <li><a href="/article/20051012/STATIC/310120002">Privacy Statement</a></li>
-        <li class="last"><a href="/article/20051012/STATIC/310120003">Disclaimer</a></li>
-      </ul>
-    </div>
-  </div>
-  <a name="bottom" id="bottom"></a>
-  <!--END FOOTER-->
+<div id="footer">
+<div class="block4">
+<div class="left_top_corner"><div class="right_top_corner"><div class="right_bottom_corner"><div class="left_bottom_corner">
+<div class="indent4">
+<div class="cols">
+<ul>
+<li><a href="/section/oem"><b>OEMs &amp; Suppliers</b></a></li>
+<li><a href="/section/OEM01">Manufacturing</a></li>
+<li><a href="/section/OEM02">Executives</a></li>			
+<li><a href="/section/OEM03">Design</a></li>
+<li><a href="/section/OEM04">Future Product</a></li>
+<li><a href="/section/OEM05">Green Cars</a></li>
+<li><a href="/section/OEM06">Technology</a></li>				
+<li><a href="/section/CUTAWAY">Cutaways</a></li>
+<li><a href="/section/OEM08">Talk from the Top</a></li>
+<li class="last"><a href="/section/OEM09">World Congress</a></li>
+<li><a href="/section/special">Special Sections</a></li>
+</ul>
+</div>
+<div class="cols">
+<ul>
+<li><a href="/section/retail"><b>Retail</b></a></li>
+<li><a href="/section/RETAIL02">Finance &amp; Insurance</a></li>
+<li><a href="/section/RETAIL03">Marketing</a></li>
+<li><a href="/section/RETAIL04">Remarketing</a></li>
+<li><a href="/section/RETAIL05">Service &amp; Parts</a></li>
+<li><a href="/section/AUCTIONS">Auto Auctions</a></li> 
+<li><a href="/section/RETAIL06">NADA</a></li>
+</ul>
+</div>
+<div class="cols" id="global">
+<ul>
+<li><a href="/section/global"><b>Global</b></a></li>
+<li><a href="/section/ANE">Europe</a></li>
+<li><a href="/section/GERMAN_NEWSLETTER">German</a></li>				
+<li><a href="/section/GLOBAL02">Asia</a></li>
+<li><a href="/section/GLOBAL03">China</a></li>
+</ul>
+</div>
+<div class="cols" id="autoshows">
+<ul>
+<li><a href="/section/autoshows"><b>Auto Shows</b></a></li>
+<li><a href="/section/ASdetroit">Detroit</a></li>
+<li><a href="/section/ASchicago">Chicago</a></li>
+<li><a href="/section/ASgeneva">Geneva</a></li>
+<li><a href="/section/ASnewyork">New York</a></li>
+<li><a href="/section/Shanghai">Shanghai</a></li>
+<li><a href="/section/ASfrankfurt">Frankfurt</a></li>
+<li><a href="/section/ASparis">Paris</a></li>
+<li><a href="/section/AStokyo">Tokyo</a></li>
+<li><a href="/section/ASlosangeles">Los Angeles</a></li>
+</ul>
+</div>
+<div class="cols">
+<ul>
+<li><a href="/section/datacenter"><b>Data</b></a></li>
+<li><a href="/section/altfuels">Advanced-Propulsion Plans</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchProfile=1188&amp;noblankcheck=1&amp;ProfileName=Car%20Cutaways">Car Cutaways</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1042&amp;noblankcheck=1&amp;ProfileName=Europe%20Data">Europe Data</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1033&amp;noblankcheck=1&amp;ProfileName=Incentives">Incentives</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1074&amp;noblankcheck=1&amp;ProfileName=Inventory">Inventory -- North America</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1038&amp;noblankcheck=1&amp;ProfileName=Dealer%20Data">Dealer Data</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1035&amp;noblankcheck=1&amp;ProfileName=Market%20Data%20Books">Market Data Books</a></li>
+</ul>
+</div>
+<div class="cols" id="data2">
+<ul>
+<li>&nbsp;</li>
+<li><a href="/section/partnerships">Global Automotive Partnerships</a></li>
+<li><a href="/section/prices">Prices -- U.S.</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1053&amp;noblankcheck=1&amp;ProfileName=Production">Production</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=CSM&amp;SearchProfile=1196&amp;noblankcheck=1&amp;ProfileName=Production%20Forecasts">Production Forecasts</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1057&amp;noblankcheck=1&amp;ProfileName=Sales">Sales</a></li>
+<li><a href="/section/JATOSPECS">Specifications -- North America</a></li>
+<li><a href="/apps/pbcs.dll/search?Category=DATACENTER01archive&amp;SearchCategory=DATACENTER&amp;SearchProfile=1055&amp;noblankcheck=1&amp;ProfileName=Supplier%20Data">Supplier data</a></li>
+</ul>
+</div>
+<div class="cols">
+<ul>
+<li><a href="/section/OPINION"><b>Opinion</b></a></li>
+<li><a href="/section/OPINION">Columnists</a></li>
+<li><a href="/section/BLOG">Blogs</a></li>			
+<li><a href="/section/LTE">Letters to the Editor</a></li>
+<li><a href="/section/EDITORIAL">Editorials</a></li>
+<li><a href="/apps/pbcs.dll/gallery?Avis=CA&amp;Dato=20090406&amp;Kategori=CARTOON&amp;Lopenr=406009998&amp;Ref=PH">Leo Michael Cartoons</a></li>			
+<li><a href="/section/letters">Send us a Letter</a></li>
+</ul>
+</div>
+<div class="cols">
+<ul>
+<li><a href="http://www.autonewsdirectory.com"><b>Directory</b></a></li>
+ <li><a href="http://www.autonewsdirectory.com/companyIndex.php">Company Index</a></li>
+ <li><a href="http://www.autonewsdirectory.com/advertisingOptions.php">Advertising Options</a></li>
+ <li><a href="https://www.autonewsdirectory.com/buildListing/indexNEW.php">Add Your Company</a></li>
+ <li><a href="http://www.autonewsdirectory.com/userAdmin/index.php">Update Your Company</a></li>
+</ul>
+</div>
+<div class="cols">
+<ul>
+<li><a href="/section/classifieds"><b>Classifieds</b></a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=902&amp;Execute=1&amp;Count=200">Auctions</a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=903&amp;Execute=1&amp;Count=200">Vehicles</a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=905&amp;Execute=1&amp;Count=200">Business Opportunities</a></li>
+<li><a href="/apps/pbcs.dll/cce?Category=CLASS&amp;DateRange=20091004-20091008&amp;Range=1&amp;Module=9&amp;Class=904&amp;Execute=1&amp;Count=200">Products &amp; Services</a></li>
+</ul>
 </div>
 
-<!-- Start Google Analytics tag -->
-<script type="text/javascript">
-<!--
-var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
-//-->
-</script>
-<!-- Ginsu tag -->
-<script type="text/javascript">
-//instantiate the GINSU
-setTimeout("ginsuCurrentUser_upper.process()",3000);
+<div class="clear">
+</div>
+</div></div></div></div>
+</div>
+</div>
+<!--END FOOTER -->
 
+<!--FOOTER-COPYRIGHT -->
+<div id="footer-copyright">
+<div class="indent">Quotes displayed in real time or with 15 minute delay. Market data provided by <a href="http://www.interactivedata.com" target="_blank"><strong><u>Interactive Data</u></strong></a><br>
+<a href="/article/20090929/STATIC/309299972" target="_blank"><strong><u>Terms &amp; Conditions</u></strong></a>. Powered and implemented by <a href="http://www.interactivedata.com/idms/" target="_blank"><strong><u>Interactive Data Managed Solutions</u></strong></a><br>
+Entire contents © Crain Communications, Inc.<br>
+To use of editorial content without permission is strictly prohibited. All Rights Reserved.<br>
+<a href="/article/20051012/STATIC/310120002">Privacy Statement</a> | <a href="/article/20051012/STATIC/310120003">Disclaimer</a></div>
+</div>
+<!--END FOOTER-COPYRIGHT -->
+				</div>
+			</div>
+		</div>
+<style>
+#mask, #inter {
+	text-align:center;
+	width: 100%;
+	height: 1500px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 10000;
+	background-image: url('/assets/png/mask_333.png');
+	/* background-image: url('/assets/png/mask_dark.png'); */
+}
+
+#block_5 .Label a {color:#B4421A;}
+
+#inter div.bar{
+width:100%;
+height:3em;
+background-color:#fff;
+border:1px solid #CCCCCC;
+color:#000000;
+padding:5px;
+}
+#inter div.bar .title{
+font-size: 14px;
+color:#171717;
+}
+</style>
+
+
+<div id="inter" style="display:none;">
+<div class="bar">
+	<p class="title">Going to the content you requested in <span id="secondHolder"> </span>. <small><a href="#" class="inter_hide">Skip Advertisement »</a></small></p>
+</div>
+
+<br class="clearfloats">
+<div id="cci-interstitial-ad-container"> </div>
+</div>
+
+
+
+<script>
+(function(){
+	CCI.util.countSessionViews();
+
+	var interstitial = new CCI.util.safeLoad(CCI.interstitial.showIt);
+	interstitial.execute({container:"cci-interstitial-ad-container",floaterName:"gnOffer"});
+})();
 </script>
-<!-- End Ginsu tag -->
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-21qmi7lIyyLh2";quantserve();</script>
@@ -723,119 +1017,68 @@ setTimeout("ginsuCurrentUser_upper.process()",3000);
 <a href="http://www.quantcast.com/p-21qmi7lIyyLh2" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-21qmi7lIyyLh2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
+<!-- Start Tynt tag -->
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=drw6bCyder3RfXab7jrHcU&amp;s=72"></script>
+<!-- End Tynt tag -->
 
 
-
+<!-- pbs:macro name=sitelifeTopStoriesReactions -->
 <script type="text/javascript">
-		new NYX.ieSafeExecution(articleRequest).execute();
+		$(function() {
+			articleRequest();
+		});
 	</script>
 
+<script>
+$(function() {
+	CCI.Pluck.Reactions.getArticleReactions({
+		reactionsClass: "slReactions",
+		commentsPrefix:"slReactionsComments",
+		recommendationsPrefix:"slReactionsRecommendations"
+		});
+});
+</script>
 <!--
 Build Time:
 HostName: S260608AT1VW221<br>
-Time used: 3470 ms<br>
-Initializing : 15ms<br>
+Time used: 2016 ms<br>
 <b>Starting first parse</b><br>
-.Build 0: 0 ms (Misc:17)<br>
-. HotLinks: 391ms<br>
-.Build 3: 1282 ms (Article:1)<br>
-.Parsing macro titlereplacetop<br>
-..Build 9: 0 ms (Content:1)<br>
-.Completed macro titlereplacetop<br>
-.Parsing macro titlereplacetop<br>
-..Build 9: 15 ms (Content:1)<br>
-.Completed macro titlereplacetop<br>
-.Parsing macro GetArtTaxonomy<br>
-..Build 9: 47 ms (Content:1)<br>
-.Completed macro GetArtTaxonomy<br>
-.Parsing macro oastag<br>
-..Build 9: 0 ms (Content:1)<br>
-.Completed macro oastag<br>
+.Build 0: 0 ms (Misc:2)<br>
+.Build 3: 937 ms (Article:1)<br>
+.Parsing macro SF_keywords<br>
+.Completed macro SF_keywords<br>
 .Parsing macro hitboxtag<br>
-..Build 0: 0 ms (Misc:1)<br>
-.Completed macro hitboxtag<br>
-.Parsing macro nav_menu<br>
-..Build 0: 0 ms (Misc:12)<br>
-..Parsing macro digitaledition<br>
-... NewsList: 125ms<br>
-...Build 16: 125 ms (NewsList:1)<br>
-..Completed macro digitaledition<br>
-..Build 9: 125 ms (Content:1)<br>
-.Completed macro nav_menu<br>
-.Parsing macro mostread<br>
-..Build 0: 656 ms (Misc:1)<br>
-.Completed macro mostread<br>
-.Parsing macro digitaledition<br>
-.. NewsList: 63ms<br>
-..Build 16: 63 ms (NewsList:1)<br>
-.Completed macro digitaledition<br>
-.Build 9: 1438 ms (Content:12)<br>
-
-
-Run Time:
-HostName: S260608AT1VW221<br>
-Time used: 3579 ms<br>
-Initializing : 15ms<br>
-<b>Starting first parse</b><br>
-.Build 0: 0 ms (Misc:17)<br>
-. HotLinks: 391ms<br>
-.Build 3: 1282 ms (Article:1)<br>
-.Parsing macro titlereplacetop<br>
+..Build 0: 15 ms (Misc:1)<br>
+..Parsing macro categoryname<br>
+...Build 0: 0 ms (Misc:1)<br>
+..Completed macro categoryname<br>
 ..Build 9: 0 ms (Content:1)<br>
-.Completed macro titlereplacetop<br>
-.Parsing macro titlereplacetop<br>
-..Build 9: 15 ms (Content:1)<br>
-.Completed macro titlereplacetop<br>
-.Parsing macro GetArtTaxonomy<br>
-..Build 9: 47 ms (Content:1)<br>
-.Completed macro GetArtTaxonomy<br>
-.Parsing macro oastag<br>
-..Build 9: 0 ms (Content:1)<br>
-.Completed macro oastag<br>
-.Parsing macro hitboxtag<br>
-..Build 0: 0 ms (Misc:1)<br>
 .Completed macro hitboxtag<br>
-.Parsing macro nav_menu<br>
-..Build 0: 0 ms (Misc:12)<br>
-..Parsing macro digitaledition<br>
-... NewsList: 125ms<br>
-...Build 16: 125 ms (NewsList:1)<br>
-..Completed macro digitaledition<br>
-..Build 9: 125 ms (Content:1)<br>
-.Completed macro nav_menu<br>
-.Parsing macro mostread<br>
-..Build 0: 656 ms (Misc:1)<br>
-.Completed macro mostread<br>
 .Parsing macro digitaledition<br>
-.. NewsList: 63ms<br>
-..Build 16: 63 ms (NewsList:1)<br>
+.. NewsList: 47ms<br>
+..Build 15: 47 ms (TVGuide:1)<br>
 .Completed macro digitaledition<br>
-.Build 9: 1438 ms (Content:12)<br>
-Retrieve categories: 0ms<br>
-Read templates: 48ms<br>
-Read objects: 219ms<br>
-Scripts: 92ms<br>
-<b>Starting second parse</b><br>
-.Build 0: 0 ms (Misc:1)<br>
-.Parsing macro anetease<br>
-..Parsing macro digitaledition<br>
-... NewsList: 62ms<br>
-...Build 16: 62 ms (NewsList:1)<br>
-..Completed macro digitaledition<br>
-..Build 9: 62 ms (Content:1)<br>
-.Completed macro anetease<br>
 .Parsing macro searchan<br>
 ..Build 0: 0 ms (Misc:1)<br>
 .Completed macro searchan<br>
-.Build 9: 94 ms (Content:4)<br>
+.Parsing macro mostread<br>
+..Build 0: 235 ms (Misc:1)<br>
+.Completed macro mostread<br>
+.Build 9: 1000 ms (Content:11)<br>
+
+
+Run Time:
+HostName: S260608AT1VW230<br>
+Time used: 375 ms<br>
+Initializing : 16ms<br>
+<b>Starting first parse</b><br>
+.Build 9: 296 ms (Content:10)<br>
+. NewsList: 16ms<br>
+.Build 15: 16 ms (TVGuide:1)<br>
 
 
 Time this cache file was built:
-20090601 18:23:59
+20091231 00:26:07
 
 -->
-
-
-
-
 </body></html>
