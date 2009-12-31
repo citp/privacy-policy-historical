@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625014635id_/http%3A//www.privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231010611id_/http%3A//www.privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
 
 # Web Privacy Statement - University of Florida Privacy
 
