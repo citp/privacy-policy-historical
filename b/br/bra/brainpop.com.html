@@ -1,305 +1,479 @@
-<!--The following is the downloaded HTML source of the brainpop.com privacy policy that was archived on 2009-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090502104337id_/http%3A//www.brainpop.com/support/privacy_policy.weml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainpop.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231051912id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.-->
 
-<html><head>
- 
-<meta name="description" content="Animated Science, Health, Technology, Math, Social Studies and English movies, comic strips, activity pages and school homework help for kids.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="Animated Science, Health, Technology, Math, Social Studies, Arts &amp; Music and English movies, quizzes, activity pages and school homework help for K-12 kids, aligned with state standards">
+	<meta name="keywords" content="arts and music, english, health, math, science, social studies, technology, animation, education, quizzes, homework help, state standards ">
+	<link rel="SHORTCUT ICON" href="/favicon.ico">
+	<link rel="ICON" href="/favicon.ico">
+	<link rel="stylesheet" href="/css/brainpop_new.css" type="text/css">
+	<title>BrainPOP | Privacy Policy</title>
+	<script src="/js/dropdown.js" type="text/javascript"></script>
+	<script src="/js/base64.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+var ie4 = false;
+if(document.all)  {
+ie4 = true;
+}
 
-<meta name="keywords" content="arts and music, english, health, math, science, social studies, technology, animation, education">
- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script language="JavaScript" src="/js/show_embed.js" type="text/javascript"></script>
-<script language="JavaScript" src="/js/form_check.js" type="text/javascript"></script>
-<link rel="SHORTCUT ICON" href="http://brainpop.speedera.net/www.brainpop.com/favicon.ico">
-<link rel="ICON" href="http://brainpop.speedera.net/www.brainpop.com/favicon.ico">
-<link rel="stylesheet" href="/css/brainpop_new.css" type="text/css">
-<title> BrainPOP - Health, Science, Technology, Math, English Animation and Educational Site for Kids.</title>
- 
-<style type="text/css">
-td.grid {
-	background-color: #336699;
+function getObject(id)  
+{
+  if (ie4)  
+  {
+    return document.all[id];
+  } 
+  else
+  {
+    return document.getElementById(id);
+  }
+}
+
+function toggle(link, divId)  
+{
+  var d = getObject(divId);
+  if (d.style.display == 'block' || d.style.display == '')
+  {
+    d.style.display = 'none';
+  } 
+  else  
+  {
+    d.style.display = 'block';
+  }
+}
+
+
+function get_file(file_path) {
+  window.open(Base64.decode(file_path));
+}
+
+function toggle_us_fields() {
+	if ((document.frm_details.country.value=='USA') && (document.frm_details.who_am_i.value!='parent') && (document.frm_details.who_am_i.value!='') && (document.frm_details.who_am_i.value!='other')) {
+		document.getElementById("school_zip_row").style.display='';
+		document.getElementById("states_row").style.display='none';
+		document.getElementById("school_text_row").style.display='none';
+		}
+	else {
+		if (document.frm_details.country.value=='USA') 
+			document.getElementById("states_row").style.display='';
+		else {
+			document.getElementById("states_row").style.display='none';
+			document.getElementById("state_message_row").style.display='none';
+		}
+		document.getElementById("school_zip_row").style.display='none';
+		document.getElementById("school_select_row").style.display='none';
+		}
 	}
-</style>
+
+
+
+function toggle_home_school_fields(home_school_value) {
+	if ((home_school_value=='parent') || (home_school_value=='other') || (home_school_value=='home_educator')) {
+		document.getElementById("school_zip_row").style.display='none';
+		document.getElementById("school_select_row").style.display='none';
+		document.getElementById("tech_setup_row").style.display='none';
+		document.getElementById("home_bp_username_desc_message_row").style.display='';
+		document.getElementById("school_bp_username_desc_message_row").style.display='none';
+		document.getElementById("states_row").style.display='';
+		document.getElementById("tech_space_row").style.display='none';
+
+		}
+	else {
+		if (document.getElementById("country").value=='USA') {
+			document.getElementById("school_zip_row").style.display='';
+			//document.getElementById("school_select_row").style.display='';
+		}
+		document.getElementById("tech_setup_row").style.display='';
+		document.getElementById("home_bp_username_desc_message_row").style.display='none';
+		document.getElementById("school_bp_username_desc_message_row").style.display='';
+		document.getElementById("states_row").style.display='none';
+		document.getElementById("tech_space_row").style.display='';
+	}
+	return;
+}
+
+
+function selected_school(school_id) {
+	if(school_id=='other')
+		document.getElementById("school_text_row").style.display='';
+	else
+		document.getElementById("school_text_row").style.display='none';
+
+}
+
+
+var ie4 = false;
+if(document.all)  {
+ie4 = true;
+}
+
+function toggle_other(other_field_id, value_to_show, toggeling_value) {
+  var d = document.getElementById(other_field_id);
+  if (toggeling_value==value_to_show)
+  	d.style.display = '';
+  else
+  	d.style.display = 'none';
+}
+
+
+function validateEmail (emailStr) {
+	var checkTLD=1;
+	var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
+	var emailPat=/^(.+)@(.+)$/;
+	var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
+	var validChars="\[^\\s" + specialChars + "\]";
+	var quotedUser="(\"[^\"]*\")";
+	var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+	var atom=validChars + '+';
+	var word="(" + atom + "|" + quotedUser + ")";
+	var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+
+	var matchArray=emailStr.match(emailPat);
+
+	if (matchArray==null) 
+	{
+		// alert("Email address seems incorrect (check @ and .'s)");
+		return "Invalid e-mail address.<br>";
+	}
+	var user=matchArray[1];
+	var domain=matchArray[2];
+
+	for (i=0; i<user.length; i++) 
+	{
+		if (user.charCodeAt(i)>127) 
+		{
+			// alert("Ths username contains invalid characters.");
+			return "Invalid e-mail address.<br>";
+		}
+	}
+	for (i=0; i<domain.length; i++) 
+	{
+		if (domain.charCodeAt(i)>127) 
+		{
+			// alert("Ths domain name contains invalid characters.");
+			return "Invalid e-mail address.<br>";
+		}
+	}
+
+	if (user.match(userPat)==null) 
+	{
+		// alert("The username doesn't seem to be valid.");
+		return "Invalid e-mail address.<br>";
+	}
+
+	var IPArray=domain.match(ipDomainPat);
+	if (IPArray!=null) 
+	{
+		for (var i=1;i<=4;i++) 
+		{
+			if (IPArray[i]>255) 
+			{
+				// alert("Destination IP address is invalid!");
+				return "Invalid e-mail address.<br>";
+			}
+		}
+		return '';
+	}
+
+	var atomPat=new RegExp("^" + atom + "$");
+	var domArr=domain.split(".");
+	var len=domArr.length;
+	for (i=0;i<len;i++) 
+	{
+		if (domArr[i].search(atomPat)==-1) 
+		{
+			// alert("The domain name does not seem to be valid.");
+			return "Invalid e-mail address.<br>";
+		}
+	}
+
+	if (checkTLD && domArr[domArr.length-1].length!=2 && domArr[domArr.length-1].search(knownDomsPat)==-1) 
+	{
+		// alert("The address must end in a well-known domain or two letter " + "country.");
+		return "Invalid e-mail address.<br>";
+	}
+
+	if (len<2) 
+	{
+		// alert("This address is missing a hostname!");
+		return "Invalid e-mail address.<br>";
+	}
+
+	return '';
+}
+
+
+
+function trim(str) {
+return str.replace(/^\s+|\s+$/g, '');
+}
+
+function changeDiv(the_state, the_change)
+{
+	var the_div = the_state;
+	if(the_div!="")
+	{
+	  document.getElementById(the_div+"_div").style.display = the_change;
+	 }
+	else {
+		return false;
+		}
+}
+
+
+function hideAll()
+{
+  changeDiv("az","none");
+  changeDiv("ak","none");
+  changeDiv("ca","none");
+  changeDiv("dc","none");
+  changeDiv("fl","none");
+  changeDiv("ia","none");
+  changeDiv("ks","none");
+  changeDiv("ma","none");
+  changeDiv("mn","none");
+  changeDiv("ne","none");
+  changeDiv("nm","none");
+  changeDiv("nc","none");
+  changeDiv("nd","none");
+  changeDiv("sd","none");
+  changeDiv("tn","none");
+  changeDiv("vt","none");
+  changeDiv("wv","none");
+  changeDiv("wi","none");
+
+}
+
+
+//-->
+</script>
+	<style type="text/css">td.grid{background-color: #00cccc;}</style>
+	<script language="JavaScript" src="/js/show_embed.js" type="text/javascript"></script>
 </head>
-
-<body bgcolor="#003366" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" vlink="#000000" link="#000000" alink="#000000">
-
+<body bgcolor="#009999" vlink="#000000" link="#000000" alink="#000000">
 <br>
-
-<center><img src="http://brainpop.speedera.net/www.brainpop.com/support/images/space.gif" width="3" height="8"></center>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="620">
-<tbody><tr><td width="18"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="17"></td><td class="grid" width="2"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-<!--POST-LOGIN NAV ICONS--><td colspan="5"></td><!--END PLNI-->
-<!--LOGIN/SEARCH--><!--<td class="grid" width="2"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>-->
-	<td colspan="8" align="center"></td><!--end LOGIN/SEARCH-->
-
-<td width="3" class="grid"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-<td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="17"></td>
-</tr>
-
-<tr>
-<td width="18" class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-<td class="grid" width="2" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-</tr>
-
-
-<!-- Line 1 -->
-<tr>
-		<td width="18"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="80"></td>
-		<td class="grid" width="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="80"></td>
-		<!--LOGO-->		<!--LOGO-->		<!--LOGO-->
-		<td bgcolor="FFFFFF"><a href="/"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/brainpop_logo.gif" width="80" height="80"></a></td>
-		<!--END LOGO-->		<!--END LOGO-->		<!--END LOGO-->
-		<td class="grid" width="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="80"></td>
-		<!--BEGIN BANNER-->		<!--BEGIN BANNER-->
-		<td colspan="11">
-		 <embed src="/support/privacy_policy/privacy_policy_header.swf" swliveconnect="FALSE" width="495" height="80" flashvars="pagetype=" quality="AUTOLOW" menu="false" play="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></td>
-			
-		
-		<td class="grid" width="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="80"></td>
-		<!--END BANNER--><!--END BANNER-->
-</tr>
-
-<tr>
-		<td width="18" class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-</tr>
-	<!--end line one-->
-
-<!--Main Content -->
-<tr>
-<td width="18"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="80"></td>
-<td class="grid" width="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="80"></td>
-	<td colspan="13" bgcolor="white">
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="584">
+  <tbody><tr>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+    <td width="80" height="3" class="grid"></td>
+    <td width="3" height="3" class="grid"></td>
+  </tr>
+  <tr>
+    <td width="3" height="80" class="grid"></td>
+    <td width="80" height="80" align="center"><a href="/"><img width="80" height="80" border="0" alt="BrainPOP" src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/71/71823.gif"></a></td>
+    <td width="3" height="80" class="grid"></td>
+    <td width="412" height="80" align="center" colspan="9"><script type="text/javascript">show_flash("http://brainpop.speedera.net/www.brainpop.com/new_common_images/constants/generic_header.swf", "412", "80", "&text_large=BRAINPOP&background_color=#009999&text_small=ABOUT US&text_small_color=#00FFFF&text_large_color=#006666&&header_link=/about&");</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20061018150257/http://active.macromedia.com/flash2/cabs/swflash.cab#version=3,0,0,0" id="ECHOECHO" width="412" height="80"><param name="movie" value="https://web.archive.org/web/20061018150257/http://limelight.brainpopjr.comhttp://brainpop.speedera.net/www.brainpop.com/new_common_images/constants/generic_header.swf"><param name="bgcolor" value="#FFFFFF"><param name="quality" value="AUTOLOW"><param name="play" value="true"><param name="wmode" value="transparent"><param name="menu" value="false"><param name="flashvars" value="&amp;text_large=BRAINPOP&amp;background_color=#009999&amp;text_small=ABOUT US&amp;text_small_color=#00FFFF&amp;text_large_color=#006666&amp;&amp;header_link=/about&amp;"><embed src="https://web.archive.org/web/20061018150257/http://limelight.brainpopjr.comhttp://brainpop.speedera.net/www.brainpop.com/new_common_images/constants/generic_header.swf" bgcolor="#FFFFFF" swliveconnect="FALSE" width="412" height="80" quality="AUTOLOW" menu="false" play="true" flashvars="&amp;text_large=BRAINPOP&amp;background_color=#009999&amp;text_small=ABOUT US&amp;text_small_color=#00FFFF&amp;text_large_color=#006666&amp;&amp;header_link=/about&amp;" wmode="transparent" type="application/x-shockwave-flash" pluginspage="https://web.archive.org/web/20061018150257/http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object></td>
+    <td width="3" height="80" class="grid"></td>
+    <td width="80" height="80" align="center"><a href="http://www.brainpopjr.com"><img width="80" height="80" border="0" alt="BrainPOP Jr." src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/78/78336.jpg"></a></td>
+    <td width="3" height="80" class="grid"></td>
+  </tr>
+  <tr>
+  	<td class="grid" width="584" height="3" colspan="15"></td>
+  </tr>
+  <tr>
+    <td width="3" height="40" class="grid"></td>
+    <td width="80" height="40" align="center"></td>
+    <td width="3" height="40" class="grid"></td>
+    <td width="495" height="40" align="center" colspan="11" bgcolor="#99CC00">
+    	<table border="0" cellpadding="0" cellspacing="0" align="center" width="495">
+    		<tbody><tr><td width="329" align="center"><div style="color: #11593C;font-size: 12pt;font-family: Arial;font-weight: bold;text-align: left;margin-left: 15px;">Privacy Policy</div></td><td width="3" height="40" class="grid"></td><td width="163" align="center"><script language="JavaScript" src="/js/dropdown.js" type="text/javascript"></script>
+		<style type="text/css">
+			#menu_child a{width: 163px; text-indent: 5px; text-align: left; display: block; border-bottom: 3px solid #11593C; text-decoration: none; font-weight: bold; font-size: 12px; font-family: arial, verdana; color: #336666; background-color: #CCFFFF; padding-top: 5px; padding-bottom: 5px; vertical-align:middle}
+			#menu_child a:hover{width: 160px; text-indent: 5px; text-align: left; display: block; width: 100%; border-bottom: 3px solid #11593C; text-decoration: none; font-weight: bold; font-size: 12px; font-family: arial, verdana; color: #CCFFFF; background-color: #336666; padding-top: 5px; padding-bottom: 5px; vertical-align:middle}
+		</style><div id="menu_parent"><table cellpadding="0" cellspacing="0"><tbody><tr><td align="center" style="height: 40px; width: 163px; background-color: #CCFFFF; border: 0px solid black; font-weight: bold; color: #336666; font-family: arial, verdana; vertical-align:middle" onmouseover="style.backgroundColor='#CCFFFF'" onmouseout="style.backgroundColor='#CCFFFF'">Quick Links</td></tr></tbody></table></div>
+<div id="menu_child">
+<table cellpadding="0" cellspacing="0">
+<tbody><tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/about/contact/">Contact Us</a></td></tr>
+<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/educators/">BrainPOP Educators</a></td></tr>
+<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/funding/">Funding BrainPOP</a></td></tr>
+<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/subscribe/">Subscribe to BrainPOP</a></td></tr>
+<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/brainpop_home/">BrainPOP Home</a></td></tr>
+</tbody></table></div>
+<script type="text/javascript">at_attach("menu_parent", "menu_child", "hover", "y", "pointer");</script>
+</td></tr>
+    	</tbody></table>
+    </td>
+    <td width="3" height="40" class="grid"></td>
+  </tr>
+  <tr>
+  	<td class="grid" width="584" height="3" colspan="15"></td>
+  </tr>
+  <tr>
+    <td width="3" height="80" class="grid"></td>
+    <td width="578" bgcolor="white" colspan="13">	<a name="policy"></a><table width="100%" cellspacing="0" cellpadding="0">
 	
-		<blockquote><blockquote><br>
-<center><span class="support_header">Privacy Policy</span></center>
+	<tbody><tr><td><blockquote><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td><blockquote><br>
+<center><span class="user_header">Privacy Policy</span></center>
 
 <p>
-	<span class="support_body">
-		BrainPOP.com, BrainPOP Junior, BrainPOP Español and all BrainPOP products are owned and operated by BrainPOP. BrainPOP is a business name of FWD Media, Inc(referred to herein as “BrainPOP”,“us” or “we”).  This document explains what information we collect about visitors and subscribers (together referred to as “Users” or “You”) to our websites and how we use this information.
+	<span class="user_body">
+		BrainPOP.com, BrainPOP Junior, BrainPOP Español, BrainPOP ESL and all BrainPOP products are owned and operated by BrainPOP and it's affiliates. BrainPOP is a business name of FWD Media, Inc(referred to herein as “BrainPOP”,“us” or “we”).  This document explains what information we collect about visitors and subscribers (together referred to as “Users” or “You”) to our websites and how we use this information.
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		The privacy of those who visit our websites is important to us.  We support the goals and guidelines set forth by oversight laws and bodies such as the Children's Online Privacy Protection Act of 1998 (COPPA), the Center for Media Education (CME), the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus and other organizations devoted to providing online safety and privacy for children, households, parents and schools.
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		We design and operate our technology and services with our Users’ protection and privacy in mind. This Privacy Policy outlines the types of information we gather when Users access BrainPOP's websites, technology and services, as well as some of the steps we take to safeguard it against unauthorized use.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Data collection
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		BrainPOP does not routinely collect personally identifying information from Users entering our websites.   We may make use of a standard feature found in browser software, called a "cookie", to assign each visitor a unique, random number.  Cookies allow us to track the pages on our sites visited by Users and to collect other statistical information.  Using cookies helps us to deliver a more personalized service to our Users and to improve our services.
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		BrainPOP does not knowingly collect or maintain personal information from any Person under the age of 18 (“Minors”).   Minors may not use our websites without parental consent.  If we learn that any personal information about any Minor has been collected without parental consent, then we will take reasonable steps to delete any such information.
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		</span></p><blockquote><b>A note to kids under 18:  Please get permission from your parents before using our websites or sending any e-mail to us or to anyone on the Internet.  If you wish to subscribe to any of our websites, your parents need to complete the subscription form for you.</b></blockquote>
 	
 <p></p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		From those Users who order services or products from us, we collect limited usage information in connection with User logins and passwords in order to monitor subscription compliance.  This information is kept confidential and is not shared or sold to third-parties.  As part of our subscription and registration process, subscribers are asked to voluntarily submit limited personal information in order to create an account (typically name, age, email address, affiliation, phone number, payment information and unique password).
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		BrainPOP will not sell or market directly to minors and always seeks parental or legal guardian’s authorization whenever we identify that a minor attempts to purchase a BrainPOP product or service or provide personally-identifiable information to us.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Security Practices
 	</span>
 </p>
 <p>
-	<span class="support_body">
-		When a User enters sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using encryption techniques common in e-commerce, such as secure socket layer technology (SSL).  To learn more about SSL, follow this link: <a class="link_support_body" href="http://en.wikipedia.org/wiki/Secure_Sockets_Layer">http://en.wikipedia.org/wiki/Secure_Sockets_Layer</a>.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and while maintaining this information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot and do not guarantee the information’s absolute security.
+	<span class="user_body">
+		When a User enters sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using encryption techniques common in e-commerce, such as secure socket layer technology (SSL).  To learn more about SSL, follow this link: <a class="link_user_body" href="http://en.wikipedia.org/wiki/Secure_Sockets_Layer">http://en.wikipedia.org/wiki/Secure_Sockets_Layer</a>.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and while maintaining this information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot and do not guarantee the information’s absolute security.
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		We will use subscription or registration information provided by Users only to provide or update our services, and we will not sell or license that information to third parties.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Newsletters and Service-Related Announcements
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		If a User wishes to subscribe to our newsletter(s), we will use his or her name and email address to send the newsletter. Out of respect for privacy, we provide a simple way to unsubscribe from the newsletter.  We will send Users service-related announcements on rare occasions when it is necessary or advisable to do so.  For instance, if our service is temporarily suspended for maintenance, we might send an informational email.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Legally Required Disclosure
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		We reserve the right to disclose your personally identifiable information if we are required to do so by law or if we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process. We also maintain the rights to transfer your information in case of a corporate restructuring (such as a merger or acquisition) as long as the receiving entity adopts this or stricter privacy policy that applies to your information.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Legal Jurisdictions
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		Our websites are hosted in the State of New Jersey in the United States of America and are subject to New Jersey and U.S. federal law.   Our office is located in the State of New York.  If you are accessing our websites from other jurisdictions, please be advised that you are transferring your personal information to us in New Jersey and New York, and by using any of our websites, you consent to that transfer and to abide by the applicable laws of the States of New Jersey and New York and applicable U.S. federal law concerning your use of the websites and your agreements with us.  Any Persons accessing our websites from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the websites in a manner lawful in their jurisdiction.  If your use of our websites would be unlawful in your jurisdiction, please do not use the websites.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Changes to This Policy
 	</span>
 </p>
 <p>
-	<span class="support_body">
+	<span class="user_body">
 		BrainPOP constantly strives to provide the best products and services.  Because the Internet is a dynamic and ever changing medium and as new or changed products and services are released and threats and technologies evolve, changes to this policy may be required.  BrainPOP reserves the right to amend this Privacy Policy at any time.  We expect most such changes to be minor, but there may be cases where changes may be more significant.  We urge you to examine this policy for changes when using this site.
 	</span>
 </p>
 <p>
-	<span class="support_header">
+	<span class="user_header">
 		Contact Us about Privacy
 	</span>
 </p>
 <p>
-	<span class="support_body">
-		If you have any questions or concerns about this Privacy Policy, or our software or  website practices, please contact us at <a class="link_support_body" href="mailto:info@brainpop.com">info@brainpop.com</a>.
+	<span class="user_body">
+		If you have any questions or concerns about this Privacy Policy, or our software or  website practices, please contact us at <a class="link_user_body" href="mailto:info@brainpop.com">info@brainpop.com</a>.
 	</span>
 </p>
-</blockquote></blockquote>
-	
-	</td>
-	<td class="grid" width="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="80"></td>
-</tr>
-
-
-<tr>
-		<td width="18" class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="3"></td>
-		<td class="grid" width="3" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="3"></td>
-		<td width="18" class="grid" height="3"><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="3"></td>
-</tr>
-
-	<!--end main content-->
-
-	<!--line 3-->
-
-	<!-- Footer -->
-
- <tr>
-      <td width="18">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="17"></td>
-      <td class="grid" width="2">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td width="3" class="grid">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td class="grid" width="3">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td class="grid" width="3">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td class="grid" width="3">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td class="grid" width="3">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td class="grid" width="3">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="80" height="17"></td>
-      <td width="3" class="grid">
-      <img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="3" height="17"></td>
-      <td><img border="0" src="http://brainpop.speedera.net/www.brainpop.com/grid/space.gif" width="18" height="17"></td>
- </tr>
-  </tbody></table>
-	<br>
-<!-- Copyright start --><table align="center" width="620">
-<tbody><tr><td align="center"><span class="fontsmall"><font color="white" size="1">
- <!-- FOOTER -->
-	<table align="center" width="620">
-		<tbody><tr>
-			<td align="center" style="font-family: Arial, Verdana;font-size: 8pt;color: #336699;"><a class="link_support_footer" href="http://www.brainpop.com/about">About BrainPOP</a> • <a class="link_support_footer" href="http://www.brainpop.com/contact">Contact Us</a><p><a class="link_support_footer" href="http://es.brainpop.com/" target="_blank">BrainPOP Español</a> • <a class="link_support_footer" href="http://www.brainpopjr.com" target="_blank">BrainPOP Jr. - K-3 Movies, Homework Help, Games for Kids</a></p><p><a class="link_support_footer" href="/topics">See a Full List of Topics</a> • <a class="link_support_footer" href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2077948" target="_blank">Join Our Affiliate Program</a> • <a class="link_support_footer" href="http://www.brainpop.com/jobs">Jobs</a></p><p>Can't see our movies? Download the <a class="link_support_footer" href="http://www.adobe.com/go/getflash" target="_blank">Flash Plug-in</a> here. Still need help? <a class="link_support_footer" href="/help">Click here.</a></p><p><b>© 1999-2008 BrainPOP. All rights reserved.</b><br>BrainPOP is a business name of FWD Media, Inc.<br>BrainPOP offers educational animated movies for kids. This Internet site provides information of a general nature and is designed for educational purposes only. Your use of the site indicates your agreement to be bound by our<br><a class="link_support_footer" href="/support/terms_of_use.weml">Terms of Use</a> and <a class="link_support_footer" href="/support/privacy_policy.weml">Privacy Policy</a>.</p><p> <a class="link_support_footer" href="http://www.google.com/search?q=educational+movies" target="_blank">Find us on Google</a> • <a class="link_support_footer" href="http://search.yahoo.com/search?p=educational+movies" target="_blank">Find us on Yahoo!</a> • <a class="link_support_footer" href="http://search.msn.com/results.aspx?q=educational+movies" target="_blank">Find us on MSN</a><br></p></td>
-		</tr>
+</blockquote></td></tr></tbody></table></blockquote></td></tr>
 	</tbody></table>
+
+</td>
+    <td width="3" height="80" class="grid"></td>
+  </tr>
+  <tr>
+    <td width="3" height="50" class="grid"></td>
+    <td width="578" bgcolor="white" colspan="13"></td>
+    <td width="3" height="50" class="grid"></td>
+  </tr>
+  <tr>
+  	<td class="grid" width="584" height="3" colspan="15"></td>
+  </tr>
+</tbody></table><br>
+
+<!-- FOOTER -->
+<table align="center" width="620">
+	<tbody><tr>
+		<td align="center" style="color: #33CCCC;font-family: Arial, trebuchet, Verdana;font-size: 8pt;text-decoration: none;">
+			<a class="link_user_footer_large" href="/tour">Tour</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/about">About</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/trial">Trial</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/funding/">Funding</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/about/research/">Research</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/store">Subscribe</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/help/">Help</a><span class="user_footer_large"> | <span>
+<a class="link_user_footer_large" href="/educators/">Educators</a>
+
+<br><br><span class="user_footer">© 1999-2009 BrainPOP. All rights reserved.<br>BrainPOP is a business name of FWD Media, Inc. Your use of the site <br>indicates your agreement to be bound by our <a class="link_user_footer" href="/about/terms_of_use">Terms of Use</a> and <a class="link_user_footer" href="/about/privacy_policy">Privacy Policy</a>.</span>
+		</span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+	</tr>
+</tbody></table>
 <!-- FOOTER END-->
-<!-- TRACKING CODE-->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+<!-- TRACKING CODE--><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-283674-6";
 _userv=2;
 urchinTracker();
-</script>
-<!-- TRACKING CODE END-->
-
-<br></font></span></td></tr></tbody></table><!-- Copyright end -->
+</script><!-- TRACKING CODE END-->
+<br>
 
 
 
 <!--Apache/2.0.46 (Red Hat)-->
-   </body></html>
+<!--51--></body></html>
