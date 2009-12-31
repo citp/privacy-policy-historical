@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendpepper.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520040749id_/http%3A//www.sendpepper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendpepper.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154313id_/http%3A//www.sendpepper.com/privacy.php) for the most accurate reproduction.*
 
-# Sendpepper
+# Sendpepper -
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
@@ -12,7 +12,7 @@ It is necessary to share information in order to investigate, prevent, or take a
 
 ## INFORMATION GATHERING AND USAGE
 
-  * When you register for OfficeAutopilot we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+  * When you register for OfficeAutopilot we ask for information such as your name, company name, e-mail address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
   * Moonray uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 
@@ -35,7 +35,7 @@ Moonray uses third party vendors and hosting partners to provide the necessary h
 
 ## CHANGES
 
-Moonray may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your OfficeAutopilot primary account holder account or by placing a prominent notice on our site.
+Moonray may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary e-mail address specified in your OfficeAutopilot primary account holder account or by placing a prominent notice on our site.
 
 ## QUESTIONS
 
