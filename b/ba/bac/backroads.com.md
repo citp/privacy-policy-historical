@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the backroads.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152416id_/http%3A//www.backroads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backroads.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231041424id_/http%3A//www.backroads.com/privacy) for the most accurate reproduction.*
 
 # Backroads: Privacy Policy
-
-#### 
 
 Our relationship with you is very important to us. We are sensitive to protecting the private information that you provide to us. We also want you to have the opportunity to receive interesting and useful information about Backroads and about related products and services. Here are details on how we use the information you provide us:
 
