@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622042028id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231121446id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Careersandeducation.com - Find Scholarships, Search Colleges and Universities, Find undergraduate and Graduate Degree Programs
 
@@ -69,11 +69,11 @@ Data obtained from you in connection with this SMS service may include your name
 
 We may use personal information to provide the services you've requested, including services that display customized content and advertising.  We may also use personal information for auditing, research and analysis to operate and improve our technologies and services.  We may share aggregated and non personal information with third parties outside of CareersandEducation.com.  When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.  We may also share information with third parties in limited circumstances, including when complying with legal processes, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
-You may remove your information from our database.  If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you.  You may remove your information by sending your request in writing via email to privacy@careersandeducation.com, or sending "STOP", "END", "QUIT" to the SMS text message you have received.  
+You may remove your information from our database.  If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you.  You may remove your information by sending your request in writing via email to privacy@innovationads.com, or sending "STOP", "END", "QUIT" to the SMS text message you have received.  
 
  **Choice/Opt-Out:**
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by clicking here, by following the instructions included in each newsletter or communication or by emailing us at privacy@Careersandeducation.com. See the section below on "Access to Personally Identifiable Information" for additional information on how to unsubscribe from receiving these mailings. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by clicking here, by following the instructions included in each newsletter or communication or by emailing us at privacy@innovationads.com. See the section below on "Access to Personally Identifiable Information" for additional information on how to unsubscribe from receiving these mailings. 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. If you wish to change the way a marketing partner contacts you, you must contact the marketing partner directly. 
 
@@ -81,10 +81,10 @@ You will be notified when your personal information is collected by any third pa
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site. Careersandeducation.com does not store this information. 
 
 **Access to Personally Identifiable Information:**  
-If your contact information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing Customer Support at IMWeb@Careersandeducation.com, or by contacting us by telephone or postal mail using the contact information listed below. You can also opt out and remove your information from our database online by clicking here. Any personal information we provide to a marketing partner is subject to that marketing partner's own privacy policy. If you wish to change the way a marketing partner contacts you, you must contact the marketing partner directly. 
+If your contact information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing Customer Support at IMWeb@innovationads.com, or by contacting us by telephone or postal mail using the contact information listed below. You can also opt out and remove your information from our database online by clicking here. Any personal information we provide to a marketing partner is subject to that marketing partner's own privacy policy. If you wish to change the way a marketing partner contacts you, you must contact the marketing partner directly. 
 
 Your California Privacy Rights  
-Under California law, site visitors who are residents of California may request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to IMWeb@Careersandeducation.com or write to us at Careers & Education, 233 Broadway, 21st Floor, New York, NY 10279. 
+Under California law, site visitors who are residents of California may request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to IMWeb@innovationads.com or write to us at Careers & Education, 233 Broadway, 21st Floor, New York, NY 10279. 
 
 **How to Contact Us:**  
 If you have any questions regarding our privacy policy, please contact us at: 
@@ -94,7 +94,7 @@ Careers & Education
 New York, NY 10279   
 (P) 212-509-5218   
 (F) 866-272-5129   
-IMWeb@careersandeducation.com 
+IMWeb@innovationads.com 
 
 **Changes to this Privacy Policy:**  
 If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
