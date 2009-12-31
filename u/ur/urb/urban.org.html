@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the urban.org privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627210847id_/http%3A//www.urban.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urban.org privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231081248id_/http%3A//www.urban.org/about/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright The Urban Institute --><!-- Page generated 2009-06-27 17:08:46 by CommonSpot Build 5.0.2.56 (2008-07-15 09:15:50) --><!-- JavaScript & DHTML Code Copyright 1998-2008 PaperThin, Inc.  All rights reserved --><head> <title>The Urban Institute | Privacy</title> <meta name="Description" id="Description" content="Privacy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright The Urban Institute --><!-- Page generated 2009-12-31 03:12:48 by CommonSpot Build 5.0.2.56 (2008-07-15 09:15:50) --><!-- JavaScript & DHTML Code Copyright 1998-2008 PaperThin, Inc.  All rights reserved --><head> <title>The Urban Institute | Privacy</title> <meta name="Description" id="Description" content="Privacy">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Keywords" id="Keywords" content="">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server Build 5.0.2.56">
@@ -31,183 +31,20 @@
 	document.CS_DynamicURL = "http://prod.urban.org/";
 // -->
 </script>
-<script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script> <link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss"> </head><body lang="en" class="CS_Document"><a name="__topdoc__"></a><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script type="text/javascript">
-<!--
-		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+<script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script> <link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss"> </head><body lang="en" class="CS_Document" style="zoom: 1;"><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script><!-- template-basepage-site --><link rel="stylesheet" href="/style/background.css" type="text/css">
+<div id="main">
+<a href="/index.cfm"><img src="/images/urbanheader09.gif" alt="urban institute nonprofit social and economic policy research" border="0"></a>
+<div id="cs_control_44545" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_922_44545">
 
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
+<link href="/style/dropdown.css" media="all" rel="stylesheet" type="text/css">
 
-var bCanRollover=0
-if (bName == "Netscape")
-{
-	if(bVer >= 3)
-		bCanRollover=1;
-}
-else if (bName == "Microsoft Internet Explorer")
-{
-	if(bVer >= 4)
-		bCanRollover=1;
-}
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.dropdown.js"></script>
 
-function ImageSet(imgID,newTarget)
-{
-	if (bCanRollover)
-		document[imgID].src=newTarget;
-}
-function clearStatus()
-{
-	window.status = "";
-}
-function setStatbar(statbar)
-{
-	var strStatbar=unescape(statbar);
-	window.status=strStatbar;
-}
-function onLoadComplete()
-{
-	if( menus_included == 1 )
-		document.onmouseover = document_mouseover;	// defined in menu_ie.js
-}
-function HandleLink(parentID,link,displaylink) 
-{
-	// links are in one of the following formats:
-	// 		cpe_60_0,CP___PAGEID=100
-	// 		CPNEWWIN:WindowName^params@CP___
-	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
-	// displaylink is the server relative URL or fully qualified URL
-	windowname = "";
-	windowparams = "";
-
-	// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
-	pos = link.indexOf("CPNEWWIN:");
-	if (pos != -1)
-	{
-		pos1 = link.indexOf ("^");
-		windowname = link.substring (pos+9, pos1);
-		pos2 = link.indexOf ("@");
-		windowparams = link.substring (pos1 + 1, pos2);
-		link = link.substring (pos2 + 1, link.length);
-	}
-	
-	if( displaylink && displaylink != "" )
-	{		
-		if (windowname == "")
-			window.location = displaylink;
-		else
-		{
-			windowparams = FormatWindowParams(windowparams);
-			window.open (displaylink, windowname, windowparams);
-		}
-	}
-	else
-	{
-		targetLink = link;
-
-		if (link.indexOf ("CP___") != -1)
-		{
-
-			httpPos = -1;
-			commaPos = link.indexOf(",");
-			if (commaPos != -1)
-			{
-				targetUrl = link.substr(commaPos + 1);
-				if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
-				{
-						httpPos = commaPos + 1;
-				}		
-			}
-				
-			if (httpPos != -1)
-			{
-				targetLink = link.substr(httpPos);
-
-				commaPos = targetLink.indexOf(",");
-				if (commaPos != -1)
-					targetLink = targetLink.substr(0, commaPos);
-			}
-			else
-				targetLink = jsDlgLoader + "?csModule=utilities/handle-link&thelink=" + link;
-			
-			if (windowname == "")
-				window.location = targetLink;
-			else
-			{
-				windowparams = FormatWindowParams(windowparams);
-				window.open (targetLink, windowname, windowparams);
-			}
-		}
-		else
-		{
-			//commaPos = link.indexOf(",");
-			//if (commaPos != -1)
-			//	link = link.substr(0, commaPos);
-
-			if (windowname == "")
-				window.location = link;
-			else
-			{
-				windowparams = FormatWindowParams(windowparams);
-				window.open (link, windowname, windowparams);
-			}
-		}
-	}
-
-}
-function doWindowOpen(href,name,params)
-{
-	if (params != '')
-	window.open (href, name, params);
-	else
-		window.open (href, name);	
-}
-
-// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
-function FormatWindowParams(windowparams)
-{
-	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
-	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
-	{
-		windowparams = substringReplace(windowparams,':left=',',left=');
-		windowparams = substringReplace(windowparams,'left=','left=');
-		windowparams = substringReplace(windowparams,':ww=',',width=');
-		windowparams = substringReplace(windowparams,'ww=','width=');		
-		windowparams = substringReplace(windowparams,':hh=',',height=');
-		windowparams = substringReplace(windowparams,'hh=','height=');
-		windowparams = substringReplace(windowparams,':loc=',',location=');
-		windowparams = substringReplace(windowparams,'loc=','location=');
-		windowparams = substringReplace(windowparams,':dir=',',directories=');
-		windowparams = substringReplace(windowparams,'dir=','directories=');
-		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
-		windowparams = substringReplace(windowparams,'tb=','toolbar=');
-		windowparams = substringReplace(windowparams,':stat=',',status=');
-		windowparams = substringReplace(windowparams,':mb=',',menubar=');
-		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
-		windowparams = substringReplace(windowparams,':rs=',',resizable=');
-	}
-	return windowparams;
-}
-function substringReplace(source,pattern,replacement)
-{
-	var pos = 0;
-	var target="";
-	while ((pos = source.indexOf(pattern)) != (-1))
-	{
-		target = target + source.substring(0,pos) + replacement;
-		source = source.substring(pos+pattern.length);
-		pos = source.indexOf(pattern);
-	}
-	return (target + source);
-}
-
-
-// -->
-		</script><!-- template-basepage-site --><link rel="stylesheet" href="/style/background.css" type="text/css">
-<div id="mainSub">
+<div id="topnav09">
 <div id="search_bar">
-  <div id="search_options"><p><a href="/search/index.cfm" title="Search Options">Search Options</a> | <a href="/about/UIRSS.cfm" title="RSS Feed">RSS</a> | <a href="http://jobs-urban.icims.com" title="Jobs">Jobs</a></p>
-  </div>
-  <div id="submit_wrapper">
+<div id="submit_wrapper">
+
 <!-- Begin Form -->
 <form method="get" action="http://search.urban.org/texis/search">
     <div id="query_container"><label for="query">
@@ -218,6 +55,7 @@ function substringReplace(source,pattern,replacement)
 	<input type="hidden" name="rorder" value="500">
 	<input type="hidden" name="rprox" value="500">
 	<input type="hidden" name="rdfreq" value="500">
+
 	<input type="hidden" name="rwfreq" value="750">
 	<input type="hidden" name="rlead" value="750">
 	<input type="hidden" name="sufs" value="0">
@@ -225,13 +63,17 @@ function substringReplace(source,pattern,replacement)
 	<input type="hidden" name="cq" value="">
       </label></div>
     <div id="submit_container"><input type="submit" name="submit" value="SEARCH" class="submit"></div>
+     <div id="options_for_search"><a href="/search/index.cfm">Options</a></div>
   </form>
 <!-- End Form -->
+
   </div>
 </div>
 
 
-<script language="JavaScript">
+
+
+<script language="JavaScript" type="text/javascript">
   function checkRenderVariables() {
     document.getElementById('renderforprint').href = document.getElementById('renderforprint').href + document.getElementById('renderforprintvars').value;
     return true;
@@ -239,105 +81,115 @@ function substringReplace(source,pattern,replacement)
 </script>
 
 <input type="hidden" id="renderforprintvars" name="renderforprintvars">
+
+<ul id="ui_navigation" class="ui_dropdown_nav ui_dropdown_nav-horizontal">
+	<li><a href="/projects/index.cfm">CURRENT PROJECTS</a></li>	
+    
+    <li class="ui_toplevel_menu"><a href="/toolkit/newreports.cfm/">PUBLICATIONS</a>
+		<ul class="ui_toplevel_menu">
+			<li class="ui_submenu"><a href="/toolkit/newreports.cfm/">Browse Newest</a></li>
+			<li class="ui_submenu"><a href="/researchareas/">Browse by Topic</a></li>
+			<li class="ui_submenu"><a href="/authors/index.cfm/">Browse by Author</a></li>
+		</ul>
+	</li>
+
+	<li class="ui_toplevel_menu"><a href="/Pressroom/">PRESS ROOM</a>
+		<ul class="ui_toplevel_menu">
+			<li class="ui_submenu"><a href="/Pressroom/experts.cfm">Experts</a></li>
+            <li class="ui_submenu"><a href="/Pressroom/citations.cfm">Citations</a></li>
+            <li class="ui_submenu"><a href="/Pressroom/releases.cfm">Press Releases</a></li>
+            <li class="ui_submenu"><a href="/Pressroom/testimony.cfm">Testimony</a></li>
+		</ul>
+	</li>
+	<li class="ui_toplevel_menu" style="padding-right:35px;"><a href="/events/">EVENTS</a>
+		<ul class="ui_toplevel_menu">
+			<li class="ui_submenu"><a href="/events/">Upcoming</a></li>
+            <li class="ui_submenu"><a href="/multimedia/">Past Events/Audio</a></li>
+		</ul>
+	</li>
+    <li class="ui_toplevel_menu"><a href="/toolkit/">RESOURCES</a>
+		<ul class="ui_toplevel_menu">
+			<li class="ui_submenu"><a href="/Pressroom/data.cfm">Fact Sheets</a></li>
+            <li class="ui_submenu"><a href="/toolkit/issues/">Issues in Focus</a></li>
+            <li class="ui_submenu"><a href="/toolkit/Decoder.cfm">Jargon Decoder</a></li>
+             <li class="ui_submenu"><a href="/multimedia/">Multimedia</a></li>
+                     
+		</ul>
+	</li>
+	<li class="ui_toplevel_menu">&nbsp;<a href="/about/">ABOUT US</a>&nbsp;&nbsp;
+	    <ul class="ui_toplevel_menu">
+	        <li class="ui_submenu"><a href="/about/">About UI</a></li>
+            <li class="ui_submenu"><a href="/about/careers/index.cfm">Jobs</a></li>
+            <li class="ui_submenu"><a href="/about/contact.cfm">Contact Us</a></li>
+            <li class="ui_submenu"><a href="/support/index.cfm">Support UI</a></li>
+		</ul>
+	</li>
+    </ul>
+</div>
+
+</div></div><!-- template-basepage-home -->
 <table cellpadding="0" cellspacing="0" border="0" id="mainTable">
-	<tbody><tr>
-		<td class="column_left" valign="top">
-		<div id="mainlogo">
-<div id="cs_control_766" class="cs_control CS_Element_Image"><a href="/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/index.cfm'); return true;"><img src="/images/mainlogo.gif" border="0" class="CS_Image_IMG" title="Urban Institute Logo" width="234" height="39" alt="Urban Institute Logo"></a></div>
+	<tbody><tr valign="top">
+		<td>
+        <div id="ui_leftcol">
 
+
+
+			<div id="ui_leftcontent">
+
+<div id="browsebutton">
+  <p><a href="/toolkit/newreports.cfm"><img src="/images/newbluearrow.gif" alt=">" width="10" height="12" align="left">Latest Research</a></p>
+  <p><a href="/authors/index.cfm"><img src="/images/newbluearrow.gif" alt=">" width="10" height="12" align="left">Browse by Author</a></p>
+</div>
+<div id="cs_control_44546" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_922_44546">
+<link href="/style/uisite_leftnav_style.css" media="all" rel="stylesheet" type="text/css">
+<ul id="navigation">
+
+<div id="browsebutton">
+  <p style="padding: 4px 4px;"><img src="/images/openbluearrow.gif" alt=">" width="10" height="12" align="left">Browse by Topic:</p>
+</div>
+<li><a href="/adolescents/index.cfm">Children and Youth</a></li><li><a href="/communities/index.cfm">Cities and Neighborhoods</a></li><li><a href="/justice/index.cfm">Crime and Justice</a></li><li><a href="/economy/index.cfm">Economy and Taxes</a></li><li><a href="/education/index.cfm">Education</a></li><li><a href="/work/index.cfm">Employment</a></li><li><a href="/family/index.cfm">Families and Parenting</a></li><li><a href="/government/index.cfm">Governing</a></li><li><a href="/health/index.cfm">Health and Healthcare</a></li><li><a href="/housing/index.cfm">Housing</a></li><li><a href="/immigrants/index.cfm">Immigrants</a></li><li><a href="/international/index.cfm">International Issues</a></li><li><a href="/nonprofits/index.cfm">Nonprofits</a></li><li><a href="/welfare/index.cfm">Poverty and Safety Net</a></li><li><a href="/race/index.cfm">Race, Ethnicity, Gender</a></li><li><a href="/retirees/index.cfm">Retirement and Older Americans</a></li></ul></div></div>
+<div class="socialbox">
+<table width="140" cellpadding="0" cellspacing="0" border="0" bgcolor="">
+<tbody><tr>
+<td class="social" valign="top" width="30%">
+<div align="center"><a title="Urban Institute RSS Feeds" href="http://www.urban.org/about/UIRSS.cfm"><img src="/images/rss-icon-22.gif" alt="RSS" border="0"></a><br><a title="Urban Institute RSS Feeds" href="http://www.urban.org/about/UIRSS.cfm">RSS</a></div></td>
+
+<td class="social" valign="top" width="38%"><div align="center"><a title="Urban Institute on Twitter" href="http://twitter.com/urbaninstitute" target="_blank"><img src="/images/twitter-icon-22.gif" alt="twitter" border="0"></a><br><a title="Urban Institute on Twitter" href="http://twitter.com/urbaninstitute" target="_blank">Twitter</a></div></td>
+
+<td class="social" valign="top" width="32%"><div align="center"><a title="Urban Institute on Facebook" href="http://www.facebook.com/urbaninstitute" target="_blank"><img src="/images/facebook-icon-22.gif" border="0" alt="facebook"></a><br><a title="Urban Institute on Facebook" href="http://www.facebook.com/urbaninstitute" target="_blank">Facebook</a></div></td>
+</tr>
+</tbody></table>
+</div>
+<div id="subscribehome">
+<p>
+<a title="Urban Institute E-mail Newsletters" href="/about/signup.cfm">Urban Institute E-mail Newsletters</a><br>Subscribe to receive the latest news on topics of your choice.</p>
+</div>
+
+<div class="homecontact">
+<p>THE URBAN INSTITUTE<br> 2100 M Street NW<br> Washington, DC 20037<br> 
+<a class="CP___PAGEID_926" href="/about/contact.cfm">Contact Us</a> &nbsp;|&nbsp; <a href="/about/careers/">Careers</a></p> 
+</div>
+<div class="centerlisting"> 
+<p><a href="/center/index.cfm">Policy Centers:</a></p>
+<p><a href="/center/epc/index.cfm">Education Policy</a></p> 
+<p><a href="/center/hpc/index.cfm">Health Policy</a></p> 
+<p><a href="/center/ibp/index.cfm">Income &amp; Benefits Policy</a></p> <p><a href="/center/idg/index.cfm">International Development and Governance</a></p> 
+<p><a href="/center/jpc/index.cfm">Justice Policy</a></p> <p><a href="/center/lhp/index.cfm"> Labor, Human Services, &amp; Population</a></p> 
+<p><a href="/center/lwf/index.cfm">Low-Income Working Families Project</a></p> <p><a href="/center/met/index.cfm">Metropolitan Housing &amp; Communities Policy</a></p> <p><a href="/center/cnp/index.cfm">Nonprofits &amp; Philanthropy</a></p>
+<p><a href="http://www.taxpolicycenter.org" target="_blank">Urban–Brookings Tax Policy Center</a></p>
+</div>
+
+			</div>
 		</div>
-		<div id="tagline">
-<div id="cs_control_772" class="cs_control CS_Element_Image"><img src="/images/nonpartisan_economic.gif" border="0" class="CS_Image_IMG" title="A Nonpartisan Economic and Social Policy Research Organization" width="174" height="134" alt="A Nonpartisan Economic and Social Policy Research Organization"></div>
-
-		</div>
-<div id="cs_control_775" class="cs_control CS_Element_Image"><a href="/toolkit/newreports.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--1','/images/find_research.gif'); return true;" onmouseover=" setStatbar('/toolkit/newreports.cfm'); ImageSet('AIID--1','/images/find_research_ro.gif'); return true;"><img name="AIID--1" src="/images/find_research.gif" border="0" class="CS_Image_IMG" title="Research" width="174" height="32" alt="Research"></a></div>
-<div id="cs_control_23440" class="cs_control CS_Element_Image"><a href="/toolkit/newreports.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--2','/images/browse_newest_3.gif'); return true;" onmouseover=" setStatbar('/toolkit/newreports.cfm'); ImageSet('AIID--2','/images/browse_newest_ro_3.gif'); return true;"><img name="AIID--2" src="/images/browse_newest_3.gif" border="0" class="CS_Image_IMG" title="see the latest publications" width="174" height="28" alt="see the latest publications"></a></div>
-<div id="cs_control_777" class="cs_control CS_Element_Image"><a href="/authors/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--3','/images/browse_author_2.gif'); return true;" onmouseover=" setStatbar('/authors/index.cfm'); ImageSet('AIID--3','/images/browse_author_ro_2.gif'); return true;"><img name="AIID--3" src="/images/browse_author_2.gif" border="0" class="CS_Image_IMG" title="Browse by Author" width="174" height="28" alt="Browse by Author"></a></div>
-<div id="cs_control_779" class="cs_control CS_Element_Image"><img src="/images/browse_topic_4.gif" border="0" class="CS_Image_IMG" title="Browse by Topics" width="174" height="28" alt="Browse by Topics"></div>
-<div id="cs_control_3281" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3281">
-<div id="cs_control_3286" class="cs_control CS_Element_Textblock">
-
-
-
-<h1 class="off"><a href="/issues/index.cfm">issues</a></h1>
-
-</div>
-
-</div></div><div id="cs_control_3282" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3282"></div></div>
-<div id="cs_control_3271" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3271">
-<div id="cs_control_3335" class="cs_control CS_Element_Textblock">
-
-
-
-<h1 class="off"><a href="/sectors/index.cfm">sectors</a></h1>
-
-</div>
-
-</div></div><div id="cs_control_3272" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3272"></div></div>
-<div id="cs_control_3364" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3364">
-<div id="cs_control_3369" class="cs_control CS_Element_Textblock">
-
-
-
-<h1 class="off"><a href="/places/index.cfm">places</a></h1>
-
-</div>
-
-</div></div><div id="cs_control_3365" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3365"></div></div>
-<div id="cs_control_3366" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3366">
-<div id="cs_control_3371" class="cs_control CS_Element_Textblock">
-
-
-
-<h1 class="off"><a href="/people/index.cfm">people</a></h1>
-
-</div>
-
-</div></div><div id="cs_control_3367" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_3367"></div></div>
-<div id="cs_control_795" class="cs_control CS_Element_Image"><a href="/about/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--4','/images/about_ui_2.gif'); return true;" onmouseover=" setStatbar('/about/index.cfm'); ImageSet('AIID--4','/images/about_ui_ro_2.gif'); return true;"><img name="AIID--4" src="/images/about_ui_2.gif" border="0" style="margin-top:4px;margin-bottom:4px" class="CS_Image_IMG" title="About UI" width="174" height="35" alt="About UI"></a></div>
-
-	<div class="holder">
-		<div class="chief_partdeux">
-<div id="cs_control_1208" class="cs_control CS_Element_Layout"><table id="cs_idLayout1208" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="cs_idCell1208x1x1" class="CS_Layout_TD">
-<div id="cs_control_1213" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_1213">
-<div id="cs_control_1214" class="cs_control CS_Element_LinkBar"><div class="section"><div class="on"><a href="/about/index.cfm">About UI</a></div>
-<div class="subsection"><a href="/about/faq.cfm" class="off">FAQ</a>
-<a href="/about/directions.cfm" class="off">Directions</a>
-<a href="/about/officers.cfm" class="off">Officers</a>
-<a href="/about/trustees.cfm" class="off">Trustees</a>
-<a href="/about/seniorfellows.cfm" class="off">Institute Fellows</a>
-<a href="/about/report/index.cfm" class="off">Annual Report</a>
-<a href="/about/uipress/index.cfm" class="off">About UI Press</a>
-</div></div></div>
-
-</div></div>
-</td></tr><tr class="CS_Layout_TR"><td id="cs_idCell1208x2x1" class="CS_Layout_TD">
-<div id="cs_control_1216" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_1216">
-<div id="cs_control_1218" class="cs_control CS_Element_LinkBar"><div class="section"><div class="off"><a href="/support/index.cfm">Support UI</a></div>
-</div></div>
-
-</div></div>
-</td></tr><tr class="CS_Layout_TR"><td id="cs_idCell1208x3x1" class="CS_Layout_TD">
-<div id="cs_control_1219" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_1219">
-<div id="cs_control_1221" class="cs_control CS_Element_LinkBar"><div class="section"><div class="off"><a href="/Pressroom/index.cfm">Pressroom</a></div>
-</div></div>
-
-</div></div>
-</td></tr><tr class="CS_Layout_TR"><td id="cs_idCell1208x4x1" class="CS_Layout_TD">
-<div id="cs_control_1222" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_1222">
-<div id="cs_control_1224" class="cs_control CS_Element_LinkBar"><div class="section"><div class="off"><a href="/about/careers/index.cfm">Careers</a></div>
-</div></div>
-
-</div></div>
-</td></tr>
-	</tbody></table></div>
-		</div>
-	</div>
 
 		</td>
 		<td valign="top" class="column_subHolder">
-			<div id="header"><h1>about ui</h1></div>
-			<table cellpadding="0" cellspacing="0" border="0" id="subTable">
+<div id="tools">
+                       
+
+
+ </div><table cellpadding="0" cellspacing="0" border="0" id="subTable">
 				<tbody><tr valign="top">
 					<td class="column_middle">
 						<div id="breadcrumbs">
@@ -353,65 +205,44 @@ function substringReplace(source,pattern,replacement)
 
 </td></tr>
 	</tbody></table></div>
-						<div id="tools">
-							<table align="center">
-								<tbody><tr>
-									<td>
+						</div>
+					</td>
 
-									<form action="/about/emaildocument.cfm" method="POST" name="EmailToForm">
+					<td class="home_col_right">
+                    <div class="featureright_noborder">
+
+						</div>
+                        <div class="featureboxright">
+
+						</div>						
+
+						
+					</td>
+
+
+						</tr></tbody></table><table width="246" align="right" cellpadding="0" cellspacing="0"><tbody><tr><td>									
+ <form action="/about/emaildocument.cfm" method="POST" name="EmailToForm">
 									<input type="hidden" name="pagefrom" value="http://www.urban.org/about/privacy.cfm">
 									<input type="hidden" name="title" value="Privacy">
 									<input type="hidden" name="desc" value="Privacy">
-									<a href="javascript:document.EmailToForm.pagefrom.value=document.EmailToForm.pagefrom.value+'?'+document.getElementById('renderforprintvars').value;document.EmailToForm.submit();"><img src="/images/button_email2.gif" width="99" height="22" alt="Email this Page"></a>
-									</form>
+									<a href="javascript:document.EmailToForm.pagefrom.value=document.EmailToForm.pagefrom.value+'?'+document.getElementById('renderforprintvars').value;document.EmailToForm.submit();">
+<img src="/images/button_email2.gif" width="99" height="22" alt="Email this Page"></a>
+									</form></td>
 
-										</td>
-										<td>
+<td>
                       <a onclick="return checkRenderVariables();" href="privacy.cfm?renderforprint=1" id="renderforprint" name="renderforprint"><img src="/images/button_print2.gif" width="99" height="22" alt=""></a>
-
-										</td>
-									</tr>
-								</tbody></table>
-							</div>
-
-						</div>
-					</td>
-
-					<td class="column_right">
-<div id="cs_control_23465" class="cs_control CS_Element_Image"><a href="/center/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--5','/images/policy_center_7_2.gif'); return true;" onmouseover=" setStatbar('/center/index.cfm'); ImageSet('AIID--5','/images/policy_center_ro_3_2.gif'); return true;"><img name="AIID--5" src="/images/policy_center_7_2.gif" border="0" class="CS_Image_IMG" title="see list of UI policy centers" width="169" height="30" alt="see list of UI policy centers"></a></div>
-<div id="cs_control_24429" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><div class="smallerwhite">ten centers focus on critical research areas</div></div></div>
-<div id="cs_control_843" class="cs_control CS_Element_Image"><a href="http://www.taxpolicycenter.org/" onclick="javascript:doWindowOpen('http://www.taxpolicycenter.org/','NewWindow','top=10,left=10,width=900,height=700,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');return false;" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--8','/images/urban_brookings.gif'); return true;" onmouseover=" setStatbar(' '); ImageSet('AIID--8','/images/urban_brookings_ro.gif'); return true;"><img name="AIID--8" src="/images/urban_brookings.gif" border="0" class="CS_Image_IMG" title="Urban Brookings Tax Policy Center" width="169" height="48" alt="Urban Brookings Tax Policy Center"></a></div>
-<div id="cs_control_832" class="cs_control CS_Element_Image"><a href="http://www.uipress.org" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--9','/images/books_1.gif'); return true;" onmouseover=" setStatbar('http://www.uipress.org'); ImageSet('AIID--9','/images/books_ro_1.gif'); return true;"><img name="AIID--9" src="/images/books_1.gif" border="0" class="CS_Image_IMG" title="Bookstore" width="170" height="35" alt="Bookstore"></a></div>
-
-						<div id="column_bookstore">
-<div id="cs_control_834" class=""><div class="CS_Element_Schedule" title="" id="CS_Sched_922_834">
-<div id="cs_control_835" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><h2 style="PADDING-LEFT: 8px; FONT-SIZE: 13px; LINE-HEIGHT: 16px"><a class="CP___PAGEID_36897" onmouseover="return self.status='/books/policyandevidence/index.cfm'" style="CURSOR: hand" href="/books/policyandevidence/index.cfm"><img class="CP___PAGEID_36897" title="Policy and Evidence" height="113" alt="Policy and Evidence" hspace="2" src="/images/policyandevidence_1.jpg" width="75" align="right" vspace="5" border="0"></a><br> <a class="CP___PAGEID_36897" href="/books/policyandevidence/index.cfm">Policy and Evidence in a Partisan Age: The Great Disconnect</a></h2> <p>Paul Gary Wyckoff</p></div></div>
-
-</div></div><div id="cs_control_850" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><p><img alt=">" src="/images/blue-arrow.gif" border="0" height="7" hspace="0" width="7"> <a href="http://www.uipress.org/">more titles from UI Press</a></p></div></div>
-
-						</div>
-<div id="cs_control_844" class="cs_control CS_Element_Image"><a href="/toolkit/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--6','/images/research_toolkit_2.gif'); return true;" onmouseover=" setStatbar('/toolkit/index.cfm'); ImageSet('AIID--6','/images/research_toolkit_ro_2.gif'); return true;"><img name="AIID--6" src="/images/research_toolkit_2.gif" border="0" class="CS_Image_IMG" title="Toolkit" width="170" height="50" alt="Toolkit"></a></div>
-
-						<div id="column_toolkit">
-<div id="cs_control_847" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><ul> <li><a class="CP___PAGEID_4396" href="/toolkit/Decoder.cfm">Policy Jargon Decoder</a></li> <li><a class="CP___PAGEID_7780" onmouseover="" onmouseout="" href="/Pressroom/data.cfm">Fact Sheets:</a> data at a glance</li> <li><a class="CP___PAGEID_2488" href="/toolkit/issues/index.cfm">Issues in Focus:</a> facts and findings on key issues</li> <li><a class="CP___PAGEID_5136" href="/toolkit/data-methods/index.cfm">Data Methods</a></li> <li><a class="CP___PAGEID_1105" onmouseover="" onmouseout="" href="/toolkit/databases/index.cfm">UI Databases:</a> justice and charitable statistics, transfer income model, family data and more<br> </li> </ul></div></div>
-<div id="cs_control_848" class="cs_control CS_Element_Textblock"></div>
-
-						</div>
-<div id="cs_control_852" class="cs_control CS_Element_Image"><a href="/about/signup.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--7','/images/updates_header_2.gif'); return true;" onmouseover=" setStatbar('/about/signup.cfm'); ImageSet('AIID--7','/images/updates_header_on_2.gif'); return true;"><img name="AIID--7" src="/images/updates_header_2.gif" border="0" class="CS_Image_IMG" title="get newsletters" width="170" height="43" alt="get newsletters"></a></div>
-
-						<div id="column_newsletters">
-<div id="cs_control_855" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><p>Get the latest UI news on the topics of your choice.</p> <p><img alt="what is RSS? find out here" src="/images/blue-arrow.gif" width="7" border="0" height="7" hspace="0"> <a class="CP___PAGEID_3433" onmouseover="" onmouseout="" href="/about/UIRSS.cfm"><span style="font-weight: bold; color: rgb(255, 255, 255); background-color: rgb(204, 102, 51);">RSS</span> feed</a></p> <p><img alt=">" src="/images/blue-arrow.gif" width="7" border="0" height="7" hspace="0"> <a class="CP___PAGEID_1114" href="/about/signup.cfm">e-mail newsletters</a></p> <p><img alt=">" src="/images/blue-arrow.gif" width="7" border="0" height="7" hspace="0"> <a style="" class="CP___PAGEID_34443" href="/multimedia/index.cfm">podcasts and multimedia<br> </a></p> <p><img alt=">" src="/images/blue-arrow.gif" width="7" border="0" height="7" hspace="0">&nbsp;<a href="http://twitter.com/urbaninstitute" target="_blank">follow us on Twitter</a></p> <p><img alt=">" src="/images/blue-arrow.gif" width="7" border="0" height="7" hspace="0">&nbsp;<a href="http://www.youtube.com/user/theurbaninstitute" target="_blank">UI YouTube channel</a></p></div></div>
-
-						</div>
-					</td>
+						</td></tr></tbody></table>	
+   
+    				</td>
 
 				</tr>
 			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+
+    		
+	
+
 <div id="footer">
-<div id="cs_control_864" class="cs_control CS_Element_LinkBar"><span class="CS_LinkBar_Item">© 2009 Urban Institute</span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/contact.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/contact.cfm');return true;">Contact Us</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/privacy.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/privacy.cfm');return true;">Privacy Policy</a></div>
+<div id="cs_control_864" class="cs_control CS_Element_LinkBar"><span class="CS_LinkBar_Item">© 2009 Urban Institute</span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/contact.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/contact.cfm');return true;">Contact Us</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/privacy.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/privacy.cfm');return true;">Privacy Policy</a><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><a href="/about/careers/index.cfm" class="CS_LinkBar_Item" onmouseout=" setStatbar('');return true;" onmouseover="setStatbar('/about/careers/index.cfm');return true;">Careers</a></div>
 
 </div>
 </div>
