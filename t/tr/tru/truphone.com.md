@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602033423id_/http%3A//www.truphone.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truphone.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231142502id_/http%3A//www.truphone.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Cheap Calls using VoIP with Truphone - Your Mobile VoIP Provider
 
@@ -81,7 +81,7 @@ There are strict guidelines in the UK which define for how long we may hold pers
 
 ### Can I see the data you hold about me?
 
-Yes. You may ask to see the information we hold on you by sending a letter to the Data Controller, Software Cellular Network Ltd, 2 More London Riverside, London, SE1 2JR.
+Yes. You may ask to see the information we hold on you by sending a letter to the Data Controller, Software Cellular Network Ltd (trading as Truphone), 4 Royal Mint Court, London, EC3N 4HJ.
 
 ### What are cookies and how do we use them?
 
@@ -89,7 +89,7 @@ Cookies are pieces of information that Truphone will transfer to your computer's
 
 The Help option on the toolbar of most browsers will tell you how to prevent Your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Truphone's cookies do not contain any identifying information. Please bear in mind that some personalised services may not be available if you choose to disable cookies.
 
-### How does Truphone protect your personal information? 
+### How does Truphone protect your personal information?
 
 Truphone takes appropriate organisational and technical measures to protect the Personal Data and Traffic Data provided to it or collected by it, and does not retain it any longer than permitted in order to perform its services or as required under relevant legislation. Your Personal and Traffic Data can only be accessed by authorised employees of Truphone who need to access to these data in order to be able to fulfil their given duties.
 
