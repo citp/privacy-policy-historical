@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestloanchoices.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418134124id_/http%3A//www.bestloanchoices.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestloanchoices.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231034910id_/http%3A//bestloanchoices.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - bestloanchoices.com
 
