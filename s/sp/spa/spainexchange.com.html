@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spainexchange.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218032842id_/http%3A//www.spainexchange.com/privacy-en.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spainexchange.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231085511id_/http%3A//www.spainexchange.com/privacy-en.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="shortcut icon" href="/favicon.ico">
@@ -11,7 +11,8 @@
 <link href="/inc/styles.css" rel="stylesheet" type="text/css"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	<script type="text/javascript" src="/study_abroad/ajax.js"></script>
+	
+	<script type="text/javascript" src="/inc/scripts/base.js"></script>
 	<script type="text/javascript" src="/inc/overlib/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
 	<script type="text/javascript">
 		var djConfig = {isDebug: false, debugAtAllCosts: false };
@@ -25,6 +26,8 @@
 	<style>
 		body .dojoTooltip { border: 3px #4983f9 solid; background: #FFFFFF; }
 	</style>
+
+  
 	
 <script language="JavaScript">
 
@@ -84,8 +87,12 @@ image26.src = "/img/i_student_exchange2.gif";
 var image27 = new Image();
 image27.src = "/img/i_eraseprofile2.gif";
 var image28 = new Image();
+image28.src = "/img/chat1.gif";
+var image29 = new Image();
+image29.src = "/img/chat1_1.gif";
+/*var image28 = new Image();
 image28.src = "/img/ci_blog.gif";
-/*var image29 = new Image();
+var image29 = new Image();
  image30.src = "/img/ci_blog2.gif"; */
 function roll_over(img_name, img_src)
    {
@@ -108,7 +115,6 @@ function roll_over2(img_name, img_src)
    {
    document[img_name].src = img_src;
    }
-
 </script> 
 </head>
 <body topmargin="0" marginheight="0" marginwidth="0">
@@ -117,10 +123,18 @@ function roll_over2(img_name, img_src)
 <table width="904" height="79" cellpadding="0" border="0" cellspacing="0" align="center"><tbody><tr>
 <td class="topmenu" valign="top" width="904">
 <div style="background-image:url(/img/study_spain_abroad.gif); background-repeat:no-repeat; height:95px">
-<br><br>
+<br>
 <form action="users/p_login.php?user_lang=en" method="post">
 <table cellpadding="1" cellspacing="1" border="0" align="right">
+
 <tbody><tr>
+<td colspan="5">
+<div align="center" style="font-size:10px">
+<b> &nbsp;
+</b>
+</div>
+</td>
+</tr><tr>
 <td align="left">&nbsp;</td>
 <td align="left">User:</td>
 <td align="left">Pass:</td>
@@ -129,14 +143,14 @@ function roll_over2(img_name, img_src)
 </tr><tr>
 <td align="left"><b>Login</b>: </td>
 <td class="smallcaps">
-<input name="usuario" type="text" id="usuario" size="6" style="height:12px;">
+<input name="usuario" type="text" id="head_username" size="6">
 </td>
 <td class="smallcaps">
-<input name="clave" type="password" id="clave" size="6" style="height:12px;"></td>
+<input name="clave" type="password" id="head_password" size="6"></td>
 <td class="smallcaps">
-<select name="tipo_usuario">
+<select name="tipo_usuario" id="head_type_user">
 <option value="1" selected="">User</option>
-<option value="2">Sponsor</option>
+<option value="2">School</option>
 </select>
 </td>
 <td class="smallcaps">
@@ -153,7 +167,9 @@ function roll_over2(img_name, img_src)
 </div>
 </td>
 </tr></tbody></table>
-<table width="904" cellpadding="0" border="0" cellspacing="0" align="center"><tbody><tr>
+
+<table width="904" cellpadding="0" border="0" cellspacing="0" align="center">
+<tbody><tr>
 <td bgcolor="#E6E6E6" width="904" height="22" valign="top" style="font-size:10px; font:Arial, Helvetica, sans-serif;" colspan="2">
 <script type="text/javascript" src="/inc/menu/milonic_src.js"></script> 
 <noscript><a href="http://www.milonic.com/">DHTML Menu</a></noscript>
@@ -162,54 +178,56 @@ function roll_over2(img_name, img_src)
 </td></tr>
 <tr>
 <td bgcolor="#E6E6E6" width="904" height="22" valign="top" style="font-size:10px; font:Arial, Helvetica, sans-serif;" colspan="2">
+
 <!-- school search form -->
-<form method="post" action="/study_abroad/search_schools_abroad.php?results=1&amp;language=en" accept-encoding="UTF-8">
 <table bgcolor="#E6E6E6" cellpadding="5" cellspacing="1" border="0" width="100%">
-<tbody><tr><td align="center" bgcolor="#EEEEEE" class="m1" style="font-weight:bold;">School Search</td>
-<td align="center" bgcolor="#EEEEEE" class="m1">
+<form method="post" name="frmSearch" id="frmSearch" action="/study_abroad/search_schools_abroad.php?results=1&amp;language=en" accept-encoding="UTF-8"></form>
+<tbody><tr><td align="center" bgcolor="#EEEEEE" class="m1" style="font-weight:bold; width:12%;">School Search</td>
+<td align="center" bgcolor="#EEEEEE" class="m1" style="width:5%">
 Country
 </td>
-<td align="center" bgcolor="#EEEEEE" class="m1"><input type="hidden" name="hr" value="1">
-  <select name="country2" onchange="buscar_region(this.value,'en')"> <option value="0" selected="selected">Select Country</option> <option value="0">All Countries</option><option value="3">Afghanistan</option><option value="6">Albania</option><option value="58">Algeria</option><option value="12">American Samoa</option><option value="1">Andorra</option><option value="9">Angola</option><option value="4">Antigua and Barbuda</option><option value="11">Argentina</option><option value="7">Armenia</option><option value="14">Australia</option><option value="13">Austria</option><option value="16">Azerbaijan</option><option value="29">Bahamas</option><option value="23">Bahrain</option><option value="19">Bangladesh</option><option value="18">Barbados</option><option value="33">Belarus</option><option value="20">Belgium</option><option value="34">Belize</option><option value="24">Benin</option><option value="25">Bermuda</option><option value="30">Bhutan</option><option value="27">Bolivia</option><option value="17">Bosnia and Herzegovina</option><option value="32">Botswana</option><option value="28">Brazil</option><option value="26">Brunei Darussalam</option><option value="22">Bulgaria</option><option value="31">Burundi</option><option value="107">Cambodia</option><option value="44">Cameroon</option><option value="35">Canada</option><option value="50">Cape Verde</option><option value="38">Central African Republic</option><option value="195">Chad</option><option value="43">Chile</option><option value="45">China</option><option value="46">Colombia</option><option value="37">Congo, the Democratic Republic of the</option><option value="47">Costa Rica</option><option value="91">Croatia</option><option value="49">Cuba</option><option value="51">Cyprus</option><option value="52">Czech Republic</option><option value="55">Denmark</option><option value="56">Dominica</option><option value="57">Dominican Republic</option><option value="59">Ecuador</option><option value="61">Egypt</option><option value="191">El Salvador</option><option value="63">Eritrea</option><option value="60">Estonia</option><option value="65">Ethiopia</option><option value="67">Fiji</option><option value="66">Finland</option><option value="71">France</option><option value="75">Georgia</option><option value="53">Germany</option><option value="76">Ghana</option><option value="82">Greece</option><option value="78">Greenland</option><option value="74">Grenada</option><option value="85">Guam</option><option value="84">Guatemala</option><option value="87">Guyana</option><option value="92">Haiti</option><option value="90">Honduras</option><option value="88">Hong Kong</option><option value="93">Hungary</option><option value="100">Iceland</option><option value="97">India</option><option value="94">Indonesia</option><option value="99">Iran, Islamic Republic of</option><option value="98">Iraq</option><option value="95">Ireland</option><option value="96">Israel</option><option value="101">Italy</option><option value="102">Jamaica</option><option value="104">Japan</option><option value="103">Jordan</option><option value="115">Kazakhstan</option><option value="105">Kenya</option><option value="112">Korea, Republic of</option><option value="113">Kuwait</option><option value="106">Kyrgyzstan</option><option value="125">Latvia</option><option value="117">Lebanon</option><option value="122">Lesotho</option><option value="126">Libyan Arab Jamahiriya</option><option value="119">Liechtenstein</option><option value="123">Lithuania</option><option value="124">Luxembourg</option><option value="136">Macao</option><option value="132">Macedonia, the Former Yugoslav Republic of</option><option value="130">Madagascar</option><option value="143">Malawi</option><option value="145">Malaysia</option><option value="140">Malta</option><option value="138">Mauritania</option><option value="141">Mauritius</option><option value="144">Mexico</option><option value="129">Moldova, Republic of</option><option value="128">Monaco</option><option value="127">Morocco</option><option value="146">Mozambique</option><option value="147">Namibia</option><option value="154">Nepal</option><option value="152">Netherlands</option><option value="8">Netherlands Antilles</option><option value="157">New Zealand</option><option value="151">Nicaragua</option><option value="150">Nigeria</option><option value="153">Norway</option><option value="158">Oman</option><option value="163">Pakistan</option><option value="167">Palestinian Territory, Occupied</option><option value="159">Panama</option><option value="161">Papua New Guinea</option><option value="160">Peru</option><option value="162">Philippines</option><option value="165">Pitcairn</option><option value="164">Poland</option><option value="168">Portugal</option><option value="166">Puerto Rico</option><option value="171">Qatar</option><option value="172">Romania</option><option value="173">Russia</option><option value="221">Samoa</option><option value="175">Saudi Arabia</option><option value="187">Senegal</option><option value="48">Serbia and Montenegro</option><option value="185">Sierra Leone</option><option value="180">Singapore</option><option value="184">Slovakia</option><option value="182">Slovenia</option><option value="224">South Africa</option><option value="64">Spain</option><option value="120">Sri Lanka</option><option value="178">Sudan</option><option value="189">Suriname</option><option value="193">Swaziland</option><option value="179">Sweden</option><option value="40">Switzerland</option><option value="192">Syrian Arab Republic</option><option value="207">Taiwan, Province of China</option><option value="208">Tanzania, United Republic of</option><option value="197">Thailand</option><option value="205">Trinidad and Tobago</option><option value="202">Tunisia</option><option value="204">Turkey</option><option value="210">Uganda</option><option value="209">Ukraine</option><option value="2">United Arab Emirates</option><option value="73">United Kingdom</option><option value="211">United States</option><option value="212">Uruguay</option><option value="213">Uzbekistan</option><option value="216">Venezuela</option><option value="219">Vietnam</option><option value="222">Yemen</option><option value="225">Zambia</option><option value="226">Zimbabwe</option></select></td>
-<td align="center" bgcolor="#EEEEEE" class="m1">
-City
-</td><td align="center" bgcolor="#EEEEEE" class="m1">
-<div id="ciudades"><select name="city2">
-  <option value="" selected="selected">
-	First Select Country  </option>
-</select></div>
-</td><td align="center" bgcolor="#EEEEEE" class="m1">
-Subject
-</td>
-<td align="center" bgcolor="#EEEEEE" class="m1">
-<div id="sub_1" style="display:block">
-<select name="subjects2">
-  <option>
-  First Select City  </option>
-</select> 
-<!--require("cadena_subject_".$language.".txt"); -->
-</div>
+<td align="center" bgcolor="#EEEEEE" class="m1" style="width:25%">
+	<input type="hidden" name="hr" value="1">
+    <select name="head_country" id="head_country" onchange="getCities(this.value,'en')">
+
+     	 <option value="">Select Country</option>
+<option value="3">Afghanistan</option><option value="6">Albania</option><option value="58">Algeria</option><option value="12">American Samoa</option><option value="1">Andorra</option><option value="9">Angola</option><option value="5">Anguilla</option><option value="10">Antarctica</option><option value="4">Antigua and Barbuda</option><option value="11">Argentina</option><option value="7">Armenia</option><option value="15">Aruba</option><option value="14">Australia</option><option value="13">Austria</option><option value="16">Azerbaijan</option><option value="29">Bahamas</option><option value="23">Bahrain</option><option value="19">Bangladesh</option><option value="18">Barbados</option><option value="33">Belarus</option><option value="20">Belgium</option><option value="34">Belize</option><option value="24">Benin</option><option value="25">Bermuda</option><option value="30">Bhutan</option><option value="27">Bolivia</option><option value="17">Bosnia and Herzegovina</option><option value="32">Botswana</option><option value="28">Brazil</option><option value="26">Brunei Darussalam</option><option value="22">Bulgaria</option><option value="21">Burkina Faso</option><option value="31">Burundi</option><option value="107">Cambodia</option><option value="44">Cameroon</option><option value="35">Canada</option><option value="50">Cape Verde</option><option value="114">Cayman Islands</option><option value="38">Central African Republic</option><option value="195">Chad</option><option value="43">Chile</option><option value="45">China</option><option value="36">Cocos (Keeling) Islands</option><option value="46">Colombia</option><option value="109">Comoros</option><option value="39">Congo</option><option value="37">Congo, the Democratic Republic of the</option><option value="42">Cook Islands</option><option value="47">Costa Rica</option><option value="41">Cote D'Ivoire</option><option value="91">Croatia</option><option value="49">Cuba</option><option value="51">Cyprus</option><option value="52">Czech Republic</option><option value="55">Denmark</option><option value="54">Djibouti</option><option value="56">Dominica</option><option value="57">Dominican Republic</option><option value="59">Ecuador</option><option value="61">Egypt</option><option value="191">El Salvador</option><option value="81">Equatorial Guinea</option><option value="63">Eritrea</option><option value="60">Estonia</option><option value="65">Ethiopia</option><option value="68">Falkland Islands (Malvinas)</option><option value="70">Faroe Islands</option><option value="67">Fiji</option><option value="66">Finland</option><option value="71">France</option><option value="72">Gabon</option><option value="79">Gambia</option><option value="75">Georgia</option><option value="53">Germany</option><option value="76">Ghana</option><option value="77">Gibraltar</option><option value="82">Greece</option><option value="78">Greenland</option><option value="74">Grenada</option><option value="85">Guam</option><option value="84">Guatemala</option><option value="80">Guinea</option><option value="86">Guinea-Bissau</option><option value="87">Guyana</option><option value="92">Haiti</option><option value="89">Heard Island and Mcdonald Islands</option><option value="214">Holy See (Vatican City State)</option><option value="90">Honduras</option><option value="88">Hong Kong</option><option value="93">Hungary</option><option value="100">Iceland</option><option value="97">India</option><option value="94">Indonesia</option><option value="99">Iran, Islamic Republic of</option><option value="98">Iraq</option><option value="95">Ireland</option><option value="96">Israel</option><option value="101">Italy</option><option value="102">Jamaica</option><option value="104">Japan</option><option value="103">Jordan</option><option value="115">Kazakhstan</option><option value="105">Kenya</option><option value="108">Kiribati</option><option value="111">Korea, Democratic People's Republic of</option><option value="112">Korea, Republic of</option><option value="113">Kuwait</option><option value="106">Kyrgyzstan</option><option value="116">Lao People's Democratic Republic</option><option value="125">Latvia</option><option value="117">Lebanon</option><option value="122">Lesotho</option><option value="121">Liberia</option><option value="126">Libyan Arab Jamahiriya</option><option value="119">Liechtenstein</option><option value="123">Lithuania</option><option value="124">Luxembourg</option><option value="136">Macao</option><option value="132">Macedonia, the Former Yugoslav Republic of</option><option value="130">Madagascar</option><option value="143">Malawi</option><option value="145">Malaysia</option><option value="142">Maldives</option><option value="133">Mali</option><option value="140">Malta</option><option value="131">Marshall Islands</option><option value="138">Mauritania</option><option value="141">Mauritius</option><option value="223">Mayotte</option><option value="144">Mexico</option><option value="69">Micronesia, Federated States of</option><option value="129">Moldova, Republic of</option><option value="128">Monaco</option><option value="135">Mongolia</option><option value="139">Montserrat</option><option value="127">Morocco</option><option value="146">Mozambique</option><option value="134">Myanmar (Burma)</option><option value="147">Namibia</option><option value="155">Nauru</option><option value="154">Nepal</option><option value="152">Netherlands</option><option value="8">Netherlands Antilles</option><option value="157">New Zealand</option><option value="151">Nicaragua</option><option value="148">Niger</option><option value="150">Nigeria</option><option value="156">Niue</option><option value="149">Norfolk Island</option><option value="137">Northern Mariana Islands</option><option value="153">Norway</option><option value="158">Oman</option><option value="163">Pakistan</option><option value="169">Palau</option><option value="167">Palestinian Territory, Occupied</option><option value="159">Panama</option><option value="161">Papua New Guinea</option><option value="170">Paraguay</option><option value="160">Peru</option><option value="162">Philippines</option><option value="165">Pitcairn</option><option value="164">Poland</option><option value="168">Portugal</option><option value="166">Puerto Rico</option><option value="171">Qatar</option><option value="172">Romania</option><option value="173">Russia</option><option value="174">Rwanda</option><option value="181">Saint Helena</option><option value="110">Saint Kitts and Nevis</option><option value="118">Saint Lucia</option><option value="215">Saint Vincent and the Grenadines</option><option value="221">Samoa</option><option value="186">San Marino</option><option value="190">Sao Tome and Principe</option><option value="175">Saudi Arabia</option><option value="187">Senegal</option><option value="48">Serbia and Montenegro</option><option value="177">Seychelles</option><option value="185">Sierra Leone</option><option value="180">Singapore</option><option value="184">Slovakia</option><option value="182">Slovenia</option><option value="176">Solomon Islands</option><option value="188">Somalia</option><option value="224">South Africa</option><option value="83">South Georgia and the South Sandwich Islands</option><option value="64">Spain</option><option value="120">Sri Lanka</option><option value="178">Sudan</option><option value="189">Suriname</option><option value="183">Svalbard and Jan Mayen</option><option value="193">Swaziland</option><option value="179">Sweden</option><option value="40">Switzerland</option><option value="192">Syrian Arab Republic</option><option value="207">Taiwan</option><option value="198">Tajikistan</option><option value="208">Tanzania, United Republic of</option><option value="197">Thailand</option><option value="200">Timor-Leste</option><option value="196">Togo</option><option value="199">Tokelau</option><option value="203">Tonga</option><option value="205">Trinidad and Tobago</option><option value="202">Tunisia</option><option value="204">Turkey</option><option value="201">Turkmenistan</option><option value="194">Turks and Caicos Islands</option><option value="206">Tuvalu</option><option value="210">Uganda</option><option value="209">Ukraine</option><option value="2">United Arab Emirates</option><option value="73">United Kingdom</option><option value="211">United States</option><option value="212">Uruguay</option><option value="213">Uzbekistan</option><option value="220">Vanuatu</option><option value="216">Venezuela</option><option value="219">Vietnam</option><option value="217">Virgin Islands, British</option><option value="218">Virgin Islands, U.S.</option><option value="62">Western Sahara</option><option value="222">Yemen</option><option value="225">Zambia</option><option value="226">Zimbabwe</option>    </select>
 
 </td>
-<td align="center" bgcolor="#EEEEEE">
+<td align="center" bgcolor="#EEEEEE" class="m1" style="width:5%">
+City
+</td><td align="center" bgcolor="#EEEEEE" class="m1" style="width:20%">
+	<select name="head_city" id="head_city" onchange="getSubjs(this.value,'en')">
+     	 <option value="">First Select Country</option>
+	</select>
+</td><td align="center" bgcolor="#EEEEEE" class="m1" style="width:5%">
+Subject
+</td>
+<td align="center" bgcolor="#EEEEEE" class="m1" style="width:20%">
+	<select name="head_subj" id="head_subj">
+     	 <option value="">First Select City</option>
+	</select>
+</td>
+<td align="center" bgcolor="#EEEEEE" class="m1" style="width:7%">
 <input type="submit" name="submit" value="Go!">
-</td></tr>
+</td>
+</tr>
+
 </tbody></table>
-</form>
 
 </td></tr>
 <tr>
-<td width="65%" height="30" class="subhead" valign="middle">
+<td width="45%" height="30" class="subhead" valign="middle">
 
 You are here: &nbsp; <a href="/index-en.htm">Home</a> 
  
 
 </td>
-<td width="35%" height="30" class="subhead" valign="middle" align="right">
+<td width="55%" height="30" class="subhead" valign="middle" align="right">
 <a href="/users/register.php?user_lang=en">register</a> |
-<a href="/search-en.htm">search</a> |
-<a href="/site_map.php">sitemap</a> |
-<a href="/about-en.htm">about</a> |
+<a href="/search-en.htm">site search</a> |
+<a href="/study_abroad/search_schools-en.htm">full school search</a> |
+
 <a href="/adverts.php">advertise</a> |
 <a href="/es/">español</a> 
 </td>
@@ -294,13 +312,15 @@ You are here: &nbsp; <a href="/index-en.htm">Home</a>
 <div class="leftmenu"><a style="color:#FFFFFF;" href="/international_study/study_abroad_spain.php"><strong>Other sites</strong></a></div>
 </td></tr><tr><td width="116" valign="top" class="s15" bgcolor="#EEEEEE">
 <img src="/img/greydot.gif" width="116" height="1"><br>
-<div class="leftmenu"><a href="/flights_to_tenerife.php">Flights To Tenerife</a></div>
-<img src="/img/greydot.gif" width="116" height="1"><br>
-<div class="leftmenu"><a href="/cheap-hotels-in-san-francisco.php">Cheap Hotels In San Francisco</a></div>
-<img src="/img/greydot.gif" width="116" height="1"><br>
  
 <div class="leftmenu"><a href="http://www.property-abroad.com/spain/">Property in Spain</a></div>
 <img src="/img/greydot.gif" width="116" height="1"><br>
+<div class="leftmenu"><a href="http://www.shortoncashflow.com" title="Learn about finances" target="_blank">Short on CashFlow</a></div>
+<img src="/img/greydot.gif" width="116" height="1"><br>
+<div class="leftmenu"><a href="http://www.moneybookers.com/send-money/" title="Money transfer service" target="_blank">Money transfer service</a></div>
+<img src="/img/greydot.gif" width="116" height="1"><br>
+
+
 
 </td></tr></tbody></table>
 
@@ -364,6 +384,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 <table bgcolor="#eeeeee" width="100%"><tbody><tr><td width="100%" align="center">
 
+
 <p>
 If you did not find what you are looking for, try searching:
 </p>
@@ -416,7 +437,9 @@ If you did not find what you are looking for, try searching:
 
 <br>
 <div class="s1" align="center">
-© 1999-2008 <a href="http://www.spainexchange.com">SpainExchange.com</a>, Please review our <a href="/disclaimer-en.htm">Disclaimer</a> and <a href="/privacy-en.htm">Privacy</a> statement. <a href="/adverts.php">Advertise</a><br><a href="contact-en.htm">Contact</a>, <a href="/resources/">Resources</a>
+© 1999-2008 <a href="http://www.spainexchange.com">SpainExchange.com</a>, Please review our <a href="/disclaimer-en.htm">Disclaimer</a> and <a href="/privacy-en.htm">Privacy</a> statement. <a href="/adverts.php">Advertise</a><br><a href="contact-en.htm">Contact</a>, <a href="/resources/">Resources</a>, 
+<a href="/site_map.php">Sitemap</a>,
+<a href="/about-en.htm">About</a> 
 </div>
 <br><br>
 </td><td background="/img/l_right_bg.gif" width="181" bgcolor="#EEEEEE" valign="top">
@@ -436,9 +459,7 @@ If you did not find what you are looking for, try searching:
 
 
 
-<div style="padding:7px;">
-<a href="http://www.barcelona-hotels-directory.com/" title="blank">Barcelona Hotels</a> offer best prices + free transport to <a href="http://www.barcelona-hotels-directory.com/" title="blank">Hotels in Barcelona</a>
-</div>
+
 
 
 
@@ -484,6 +505,8 @@ Main pages:
 <a href="/language_exchange/">Language Exchange</a> &nbsp;
 <a href="/exchange_student/">Exchange Students and Host Families</a> &nbsp;
 <a href="/educator_info/spain_student_exchange_program.php">Secondary School Exchange</a> &nbsp;
+<a href="/article_list.php">Areas of study</a> &nbsp;
+<a href="/jobtype_list.php">Jobs and Careers</a> &nbsp;
 <a href="/users/lista_miembros.php?user_lang=en">Meet International People</a> &nbsp;
 <a href="/closerlook/">Blog</a> &nbsp;
 <a href="/international_study/">Country Guide</a> &nbsp;
