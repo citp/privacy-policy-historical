@@ -1,74 +1,169 @@
-> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615200119id_/http%3A//www.safaribooksonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231153853id_/http%3A//www.safaribooksonline.com/Corporate/Index/privacyPolicy.php) for the most accurate reproduction.*
 
 # Safari Books Online - Privacy Policy
 
-This privacy statement discloses the privacy practices of Safari Books Online, LLC. It explains the information we collect from you when you use any of the Safari electronic reference library services, and how we use that information. Safari Books Online is operated from 75 Arlington Street, Boston, MA 02116. We can be reached by email at [marketing.inquiry@safarijv.com](mailto:marketing.inquiry@safarijv.com "blocked::mailto:marketing.inquiry@safarijv.com"). 
+This version (Version 2.0) of Safari’s Privacy Policy is effective as of   
+August 31, 2009. 
 
-If you feel that Safari Books Online is not abiding by our posted privacy policy, you should contact our customer service department by emailing [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com "blocked::mailto:customer-service@safaribooksonline.com"). 
+This Policy (the "Policy") discloses the privacy practices of Safari Books   
+Online, LLC (“Safari”).
 
-* **Information Collection and Use  
-**Safari Books Online is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others except as disclosed in this statement. 
+This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you.
 
-Safari Books Online collects information from our users at several different points on our website. We consider all of the information we collect from you to be Personal Identifying Information, including your email address, name, password, mailing address, job information, skill information, demographic information, and credit card information. Safari Books Online uses this information to serve your needs as well as our own legitimate business purposes. Our company may use your Personal Identifying Information to help us improve our Web site, or for our company's marketing and promotional purposes (for example, email announcements of new books in the service). 
+If you have any questions about this Policy, please contact us by email at  
+[customer-service@safaribooksonline.com ](mailto:customer-service@safaribooksonline.com) or by mail at:
 
-All Personal Identifying Information will be treated confidentially within our company. While our policy is not to share this information with third parties, we may share this information with affiliates of Safari Books Online, LLC, as well as with our business partners (for example, reseller sites that offer the Safari electronic reference library services). We may also release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of Safari Books Online, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+> Safari Books Online, LLC  
+>  1003 Gravenstein Hwy North  
+>  Sebastopol, CA 95472
 
-When you voluntarily post Personal Identifying Information to a public area of this Web site (for example, public notes), that information may be collected and used by others. Since this information is public, we can't prevent other users from collecting it. 
+1\. Information We Collect
 
-* **Special Notice to Parents  
-**While we have no intention of seeking Personally Identifiable Information about minors who visit this Web site, the same privacy policies will apply to that information. In addition, when we can identify a user as a minor, the Personally Identifiable Information will not be used for further marketing and promotion. We encourage you to ask your children to seek your permission before they provide information about themselves or their family members over the Internet. 
+Personally Identifiable Information (“PII”) means information that can be directly associated with you (such as your name, email address, or telephone number), or information about activities directly linked to you (such as subscriptions that you have licensed or purchased). We collect PII in the following ways:
 
-* **Special Notice to Kids  
-**Ask your parent or guardian for permission before you send any personal information over the Internet. 
+1.1  Information that you provide to us directly:
 
-* **Registration  
-**To use this website, either as a trial user or a subscriber, you must first complete the registration form. During registration, you're required to give your email. This email address is used to contact you about the services on our site in which you've expressed interest. If you are registering for Safari as a result of a promotional offer, you may also be required to provide additional information as part of the terms of the promotion. 
+  * When you contact or communicate with Safari, we may gather information such as your name, physical address, email address and phone number
+  * When you participate in a promotional offer (such as a trial subscription) and/or purchase products or services, we may gather information regarding the offer that you participate in, and any products or services that you purchase, as well as financial information such as your credit card number.
+  * When you register for an online account, subscribe to a newsletter, participate in communities or an event, program, class or promotion, or click on a URL, we may gather user preferences, product interests, industry focus, community choices and other customer profile information.
 
-* **Ordering  
-**When you place an order, we request information from you on our order form. You must provide contact information (like name and shipping address) and financial information (like credit card number and expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, this contact information is used to get in touch with you. 
 
-* **Cookies  
-**Safari Books Online uses "cookies" to improve the quality of your visit to the Safari site by providing you with personalized information and features. Cookies are a software technology that enables our systems to recognize your computer and collect non-personal information about you. This type of information includes: type of browser used to access the Internet (i.e. Netscape 6.2, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh), and the domain of your Internet service provider. Cookies are anonymous; Safari Books Online does not know the name, email address, phone number, or home address of anyone who visits our site. Safari does not sell or rent any information that we gather through the use of cookies. 
 
-You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, you will not be able to use certain site features or functions. 
+1.2 Information we collect through technology related to our   
+products and services 
 
-* **Log Files  
-**We use IP addresses from our log files to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to Personally Identifiable Information. 
+  * Certain products and services that you acquire from us may connect and transmit telemetry and system/product data to us or our authorized agents. This data may include, but is not limited to, system model, operating system, host ID and IP address.
 
-* **Sharing  
-**We sometimes share aggregated demographic information with our partners and resellers. This is not linked to any information that can identify an individual person. 
 
-We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use Personally Identifiable Information for any secondary purposes. 
 
-When we partner with another party to provide specific services (for example, ship book purchases), we will share names or other contact information that is necessary for the third party to provide these services. 
+We use this information to manage and administer our products and services, and as the basis for advising you of the availability of updates and new versions, providing agreed upon testing and monitoring of services that we provide, enhancing our products and services, and improving and targeting our communications with you.   
 
-These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. 
 
-* **Links  
-**Safari Books Online contains links to other sites. We are not responsible for the privacy practices of other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each and every web site that collects Personally Identifiable Information. This privacy statement applies solely to information collected by Safari Books Online. 
+1.3  Information we collect through online technology
 
-* **Surveys & Contests  
-**From time to time, we request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving this site. 
+  * When you are on Safari's websites, we collect information about the pages you visit. Some web pages use cookies, web beacons and similar technologies to automatically collect information from you. We may send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We may use "web beacons" (electronic images also known as pixel tags or clear gifs) to recognize a Safari cookie on your computer when you view or act upon a Safari web page, a Safari advertisement posted on a third-party web page, or an   
+email from us.
+  * Cookies, web beacons and similar technologies enable us to collect information about your visits to our websites, such as:
+    * Internet Protocol Address
+    * Browser type
+    * Operating system
+    * Referring site (site you visited before coming to our site)
+    * Date and time of visit
+    * URL of pages visited
+    * Other browsing behavior, such as products and white papers downloade
 
-* **Security  
-**Safari Books Online takes every commercially reasonable precaution under current industry standards to protect user information. When you submit sensitive information via the website, your information is protected both online and off-line using those standards. 
 
-When our registration/order form asks you to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry—SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers (e.g. Netscape Navigator or Microsoft Internet Explorer) becomes locked, as opposed to unlocked (or open) when you are just surfing. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All user information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or customer service representative) are granted access to Personally Identifiable Information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store Personally Identifiable Information on are kept in a secure environment, behind a locked cage. 
+Most browsers allow you to remove and block cookies and web beacons. If you do so, you will need to re-enter your User Name and password to access certain parts of our web sites and you will be served only generic information that is not focused on your specific interests.  Also, you may not be able to use certain Safari web site features or take full advantage of our offerings.
 
-If you have any questions about the security at our website, you can send an email to [techsupport@safaribooksonline.com](mailto:techsupport@safaribooksonline.com "blocked::mailto:techsupport@safaribooksonline.com"). 
+1.4 Information from other sources
 
-* **Special Offers  
-**Occasionally, Safari may send registered users information on products, services, and special deals via email. As a paid subscriber you may choose to be removed from this email list. 
+  * From time-to-time we may receive information from other sources, such as commercial contact lists or companies that we acquire, and we may combine that information with information previously collected.
+  * If you give us PII on behalf of someone else (or someone else gives us PII on your behalf), we require that the person providing the PII to us must have consent to do so from the person whose information is provided.
+  * Some Safari events, web sites or services may be co-branded and offered in conjunction with a third party.  When you provide PII in relation to them, both Safari and the third party(ies) may receive the information collected and use the information according to each company's privacy policy and agreement with you.
 
-* **Correction/Updating Personal Information  
-**To change your Safari account information (address, credit card, etc.), Login on to your Safari account.Click the "Account" link in the upper right hand corner and follow the instructions for updating your account information, If you have questions or need help with making changes, e-mail [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com "blocked::mailto:customer-service@safaribooksonline.com"). 
 
-* **Choice/Opt-Out  
-**You are always notified when your information is being collected by any outside parties, so that you can make an informed choice as to whether you should proceed with services that require an outside party, or not. 
 
-We will send you email messages when we need to tell you about things that effect your subscription or service. We also occasionally send subscribers email announcements of special offers or new services. You can choose to opt-out of receiving such marketing messages by clicking "unsubscribe" at the bottom of any such e-mail message. 
+2\. How We Use Information We Collect  
+  
+We use PII to conduct business, provide information and support for products and services, improve our understanding of your needs and interests, develop and improve our services and products, and personalize communications.  Examples include:
 
-* **Notification of Changes  
-**If we change our Privacy Policy, we will post those changes on www.safaribooksonline.com/PRIVACY. If we decide to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information. We will use information in accordance with the privacy policy under which the information was collected. 
+  * Advising you of relevant promotions, products, services, and news about Safari and affiliated third-parties
+  * Processing and fulfilling orders
+  * Creating and monitoring accounts
+  * Market research projects
+  * Analyzing how our products and services are used
+  * Personalizing content and advertising
+  * Monitoring our services in order to prevent and identify unauthorized content use and violations of our end user agreements
+  * Planning and forecasting
+  * Legal compliance
+  * Preventing fraud and prohibited or illegal activities 
+
+
+
+3\. How We Share and Disclose PII  
+  
+We may share or disclose your PII with:
+
+  * Companies that are related to Safari, in order to support business and marketing processes
+  * Our service providers and suppliers, who are acting and using your information solely on our behalf
+  * As necessary, if we suspect a violation of our policies or to protect the rights or safety of any person or entity
+  * Government agencies, law enforcement agencies and others, based on a good-faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law
+  * The buyer, if Safari or any of its assets are sold  
+  * Other third-parties for purposes you have allowed by agreeing to this Policy, or by otherwise giving us your consent
+  * Others including without limitation other participants, to the extent of any  PII that is posted by you or an authorized third-party to our wikis, forums, blogs, message boards, chat rooms and other social network environments
+
+
+
+4\. Notice and Choice  
+  
+We provide notice about our use of PII in this Policy, in our web pages, and in other locations where we collect information. You can choose whether or not to provide your PII to us. If you choose not to provide PII, you may be not be able to take advantage of certain offers, options, events and services that depend upon accurate PII.
+
+To change your marketing communications preferences, sign in to your account and go to the Email Preferences [/emailpreferences] section of the My Account page.  Please note that your marketing communication preferences do not affect transactional, relationship and legally required communications. 
+
+5\. Onward Transfer  
+  
+We will only share personal information with third parties if those third parties provide an adequate level of data protection to help ensure the security of personal data. 
+
+6\. Security  
+  
+Safari uses administrative, technical, and physical safeguards to protect the security, confidentiality and integrity of PII against loss, misuse and unauthorized access, disclosure, alteration, and destruction. In addition, we use standard security protocols and mechanisms to transmit sensitive data such as credit card details.
+
+You can assist us in protecting your PII by keeping your password and login information secret, and making sure that you terminate user sessions, close the browser, and log out when you access our services from shared computers. 
+
+7- Access And Accuracy  
+  
+It is important to us to maintain the accuracy of your contact information.   
+If you need to update or correct it, please do so by email at   
+[customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com).
+
+You also may update your information by writing to:
+
+> Safari Books Online, LLC   
+>  Attn: Customer Service   
+>  1003 Gravenstein Hwy North   
+>  Sebastopol, CA 95472 
+
+We will make reasonable efforts to incorporate the changes as soon as   
+possible. Before we make changes, we may ask you to verify your identity and/or provide other details. We may keep a copy of the prior information for our records. 
+
+We provide individuals with reasonable access to their PII in order to have it corrected, amended or deleted where it is inaccurate or inappropriate for the specified purposes of processing. 
+
+8\. Children's Privacy  
+  
+Safari's web sites and marketing are not directed to children under 13 years of age. If that policy changes, we will obtain consent from a parent or guardian before we collect PII from anyone under the age of 13.
+
+9\. Transfers of PII Under Safe Harbor  
+  
+Safari transacts business throughout the world and has operations, processes and systems that cross borders. If you choose to provide us with information, including PII, you understand that we may transfer it within Safari in the United States or to affiliates, joint venture partners, and third-party service providers around the world. 
+
+10\. Enforcement  
+Safari regularly reviews its compliance with this Policy. Please feel free to   
+direct any questions or concerns regarding this Policy or Safari's treatment of PII by emailing us at [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com) or by writing to us at:
+
+> Safari Books Online, LLC  
+>  Attn: Customer Service  
+>  1003 Gravenstein Hwy North  
+>  Sebastopol, CA 95472
+
+11\. Changes to this Privacy Policy  
+  
+Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent. We will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice and we will also keep prior versions of this Policy in an archive for your review.
+
+12\. Your California Privacy Rights   
+(for California residents) - Information-Sharing Disclosure
+
+Safari’s policy is to share your personal information only you have given us your consent, for instance, by your agreeing to this Policy.
+
+After obtaining such consent, Safari may from time-to-time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs.
+
+If you no longer wish your information to be shared, please let us know. If you have further inquires regarding our  information sharing practices, please let us know. You can email us at [marketing@safaribooksonline.com](mailto:marketing@safaribooksonline.com). 
+
+13\. Previous Versions  
+  
+For the previous version see [ Safari Online Privacy Policy, [Version 1.0] ](http://my.safaribooksonline.com/6.0/privacyPolicyV1.html)   
+this is Version 2.0.
+
+| 
+
+Table of Contents
