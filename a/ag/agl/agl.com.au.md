@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628142210id_/http%3A//agl.com.au/SiteTools/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231073746id_/http%3A//www.agl.com.au/SiteTools/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Site Tools
+# Privacy | AGL Energy
 
 The AGL Energy Group comprises the companies set out in the AGL Energy Group of Companies list. All references to "AGL Energy", "we", "us" and "our" in this Privacy Policy apply to the these companies. 
 
@@ -10,13 +10,14 @@ AGL Energy is bound by the National Privacy Principles (Principles) contained in
 
 AGL Energy collects certain personal information in order to understand and meet the needs of customers and provide the products and services they require. 
 
-What types of personal information does AGL Energy collect?  
+## What types of personal information does AGL Energy collect?
+
 The types of personal information that we collect may include information about:
 
-  * Customers;
-  * Shareholders;
-  * Suppliers;
-  * Employees;
+  * Customers; 
+  * Shareholders; 
+  * Suppliers; 
+  * Employees; 
   * Personal contacts at corporate clients or suppliers; 
   * Applicants for employment with AGL Energy; and 
   * Other people who come into contact in the ordinary course of business.
@@ -33,25 +34,46 @@ We may also collect and use personal information available from public sources, 
 
 In general, AGL Energy may use or disclose personal information for the following purposes: 
 
-  * To provide products and services to customers
-  * To service shareholders
+  * To provide products and services to customers 
+  * To service shareholders 
   * To communicate with contractors and suppliers 
   * To provide administration for employees within the AGL Group 
-  * To provide ongoing information about our products and services to people that we believe may be interested
+  * To provide ongoing information about our products and services to people that we believe may be interested 
   * To help manage and enhance our products and services, including by surveying customers on their future needs 
   * To consider applications for employment and 
   * To comply with legal obligations.
 
 
 
+We also use your personal information to promote and market products and services to you. This is to keep you informed of products, services and special offers and may continue after you cease to acquire services from us. If you do not wish us to contact you to promote and market products, services and special offers, or if you have subscribed to any of our newsletters or subscriptions and no longer wish to receive such communications, please call 131 245.
+
 Also, if you are the contact person for a customer or supplier, we may use your personal information such as your name to manage our relationship with your organisation.
 
 Depending on the product or service or issue concerned, we may disclose personal information to: 
 
-  * Service providers and specialist advisers who have been contracted to provide administrative, financial, research or other services
+  * Service providers and specialist advisers who have been contracted to provide administrative, financial, research or other services 
   * Insurers, credit providers, courts, tribunals and regulatory authorities (including the Australian Tax Office) as required or authorised by law 
   * Credit reporting or reference agencies or insurance investigators or 
   * Anyone authorised by an individual, as specified by that individual or the contract.
+
+
+
+We may give personal information about you to a credit reporting agency, whether before, during or after the provision of credit to you, for the following purposes:
+
+  * to obtain a consumer credit report about you; and/or 
+  * to allow the credit reporting agency to create or maintain a credit information file containing information about you
+
+
+
+However, the information that we are permitted to give to a credit reporting agency is limited to:
+
+  * your name, sex, date of birth, current and previous two addresses; 
+  * the name of your employer; 
+  * your drivers licence number; 
+  * the fact that you have applied for credit and the amount; 
+  * the fact that AGL Energy is a current credit provider to you; 
+  * information that, in our opinion, suggests you have committed a serious credit infringement (that is, that you have acted fraudulently or shown an intention not to comply with your credit obligations) 
+  * the fact that a cheque drawn by you has been dishonoured more than once.
 
 
 
@@ -59,7 +81,7 @@ Depending on the product or service or issue concerned, we may disclose personal
 
 If you are a shareholder of one of the companies within the AGL Energy Group, you may be required to provide us with your tax file number, which is kept securely on the relevant share register. In accordance with Australian tax laws, we may provide certain advice to the Australian Tax Office, including dividend information.
 
-Section 173 of the Corporations Act 2001 requires each of our companies to grant access on request to their share register. The share register sets out all shareholders' names, addresses and share holdings. We may provide information from the share register to meet specific requests such as identifying the top 100 shareholders. Shareholder information is not knowingly disclosed for purposes other than those which we consider to be in the interests of the shareholder, the investor market, brokers, financial journals and market analysts. 
+Section 173 of the _Corporations Act 2001_ requires each of our companies to grant access on request to their share register. The share register sets out all shareholders' names, addresses and share holdings. We may provide information from the share register to meet specific requests such as identifying the top 100 shareholders. Shareholder information is not knowingly disclosed for purposes other than those which we consider to be in the interests of the shareholder, the investor market, brokers, financial journals and market analysts. 
 
 AGL Energy may disclose your personal information to your stockbroker, accountant, a family member or other person who you have authorised to be contacted on your behalf. In those circumstances, you will be required to identify that party as your authorised agent. 
 
@@ -71,7 +93,7 @@ We will obtain your consent prior to collecting, using or disclosing your sensit
 
 AGL Energy has implemented appropriate technological and organisational measures to assist us in ensuring that the personal information we hold about you is accurate and up-to-date. We realise however that your personal information may change frequently with changes of address and personal circumstance. Please contact us promptly at the address set out below to inform us of any changes to your personal information. Similarly, if you have subscribed to any of our newsletters or subscriptions, or are receiving promotional communications, and no longer wish to receive such communications, you may opt out of receiving them at any time. 
 
-We expect our employees and contractors who handle personal information to comply with the Privacy Act and will take appropriate action in response to breaches of the obligations imposed by the Principles. Although we seek to engage external service providers who also comply with these requirements, we do not accept responsibility for the misuse of personal information by these third parties.
+We expect our employees and contractors who handle personal information to comply with the _Privacy Act_ and will take appropriate action in response to breaches of the obligations imposed by the Principles. Although we seek to engage external service providers who also comply with these requirements, we do not accept responsibility for the misuse of personal information by these third parties.
 
 ## Accessing your personal information
 
@@ -87,13 +109,11 @@ Please note that in circumstances prescribed by the Privacy Act, you may be refu
 
 ## Complaints about an interference with privacy 
 
-If you consider that any action taken by AGL Energy breaches this Privacy Policy or the Principles, you can make a complaint by contacting us at the address set out below. We will endeavour to act promptly in response to a complaint. 
+If you consider that any action taken by AGL Energy breaches this _Privacy Policy_ or the Principles, you can make a complaint by contacting us at the address set out below. We will endeavour to act promptly in response to a complaint. 
 
 ## How to contact us
 
-You can contact the AGL Energy Group about a privacy-related issue by email, phone or post. 
-
-Email: [customerenquiries@agl.com.au](mailto:customerenquiries@agl.com.au) 
+You can contact the AGL Energy Group about a privacy-related issue by phone, post or by filling in our [online enquiry form](https://online.agl.com.au/enquiry_form.do). 
 
 Phone: 131 245 
 
