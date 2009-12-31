@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509160439id_/http%3A//www.dfcufinancial.com/tools/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfcufinancial.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231124958id_/http%3A//dfcufinancial.com/tools/privacy_security.htm) for the most accurate reproduction.*
 
-# DFCU Financial - Dearborn, Michigan
-
-**A note about security.**   
-Please be assured that, although the home page itself does not have an "https" URL, the login component of this page is secure. When you enter your User ID and password, your information is transmitted via a secure environment, and once the login is complete, you will be redirected to our secure area. 
-
-If you prefer to login via an https connection, please use the link below:
-
-<https://www.epersonal-banking.com/servlet/dfcu/login.html>[](https://www.epersonal-banking.com/)
+# DFCU Financial - Michigan - Your Home for Online Banking
 
 **Privacy policy.**
 
-A full version of DFCU Financial's Privacy Notice is available in .pdf format by clicking [here](https://web.archive.org/NR/rdonlyres/DDD53367-2F8B-490A-AB5C-71B0A290D03E/0/2005privpolicy.pdf). 
+A full version of DFCU Financial's Privacy Notice is available in .pdf format by clicking [here](https://web.archive.org/NR/rdonlyres/197B018C-BA43-49C6-A78A-276EB74361CC/0/Dfcu060privacy.pdf). 
 
 DFCU Financial (DFCU) is committed to protecting your privacy. We recognize the importance of protecting the personal information of our members and our obligation to keep the information secure and confidential. 
 
