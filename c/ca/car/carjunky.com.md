@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620152125id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231074501id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
 
 # CarJunky.com - Privacy Statement
 
