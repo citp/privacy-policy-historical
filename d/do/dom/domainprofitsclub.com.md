@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainprofitsclub.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413164218id_/http%3A//domainprofitsclub.com/members/PrivacyPolicy.ag.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainprofitsclub.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231183257id_/http%3A//domainprofitsclub.com/membership/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Domain Flipping,Domain Flip,Domain Selling,Domain Reseller
 
@@ -43,12 +43,12 @@ You may choose to provide personal information to website visitors or other thir
 
 
 **9\. AUTORESPONDERS.**  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to dpc@gapservices.com, or sending us mail to the address listed below.  
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail [here](http://domainprofitsclub.com/go/members/helpdesk), or sending us mail to the address listed below.  
 
 
 **10\. POLICY CHANGES.**  
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.  
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to dpc@gapservices.com and providing us with information relating to your concern.   
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail [here](http://domainprofitsclub.com/go/members/helpdesk) and providing us with information relating to your concern.   
 You may also mail your concerns to us at the following address:  
 GAP Services  
 PO Box 9  
@@ -56,15 +56,15 @@ Oswego, NY 13126
 USA
 
 **11\. CALIFORNIA PRIVACY RIGHTS.** ****  
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to dpc@gapservices.com or write us at the following address:  
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail [here](http://domainprofitsclub.com/go/members/helpdesk) or write us at the following address:  
 GAP Services  
 PO Box 9  
 Oswego, NY 13126  
 USA
 
-This policy was last updated on 01-31-2009.
+This policy was last updated on 11-30-2009.
 
-Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at DomainProfitsClub.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
+Copyright © 2009 [Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at DomainProfitsClub.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
 
   
 
