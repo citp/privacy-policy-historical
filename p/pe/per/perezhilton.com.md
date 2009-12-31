@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309095221id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031945id_/http%3A//perezhilton.com/%3Fpage_id%3D37) for the most accurate reproduction.*
 
 # Celebrity gossip juicy celebrity rumors Hollywood gossip blog from Perez HiltonPRIVACY NOTICE
 
