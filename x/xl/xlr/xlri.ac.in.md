@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430153512id_/http%3A//xlri.ac.in/scripts/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231021159id_/http%3A//xlri.ac.in/scripts/privacy.php) for the most accurate reproduction.*
 
 # XLRI - Jamshedpur :: About XLRI - Privacy Policy
 
