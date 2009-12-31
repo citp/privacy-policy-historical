@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthreform.gov privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626134247id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthreform.gov privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231133422id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
 # HHS - HHS Privacy Notice
 
