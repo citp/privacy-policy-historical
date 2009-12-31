@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620123007id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025349id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ DNC Parks & Resorts at Yosemite, Inc. ("Yosemite") values the privacy of its us
 
 9. If you do not want Yosemite to use any of the personally identifiable information in the manner set forth in this Privacy Policy, you should email the [Webmaster](mailto:yosecom@dncinc.com) or call DNC Parks & Resorts at Yosemite at (801) 559-4884.
 
-10. If and when we ask for credit card data, it is transferred over a Secured Sockets Layer (SSL) line provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Netscape Navigator.  This ensures that your information is encrypted as it travels through the Internet.  This secure mode is enabled before any such information is transmitted from your computer.  You will know that you are in "secure mode" when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position.  In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https".
+10. If and when we ask for credit card data, it is transferred over a Secured Sockets Layer (SSL) line provided you are using a SSL enabled browser such as Microsoft Internet Explorer.  This ensures that your information is encrypted as it travels through the Internet.  This secure mode is enabled before any such information is transmitted from your computer.  You will know that you are in "secure mode" when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position.  In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https".
 
 11\. We will only collect personally identifiable information from you to the extent necessary to operate this Website.  Yosemite will maintain the appropriate safeguards to protect your personally identifiable information from authorized third-party use.
 
