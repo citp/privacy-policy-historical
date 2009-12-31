@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bollywoodworld.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531171101id_/http%3A//bollywoodworld.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodworld.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231135123id_/http%3A//bollywoodworld.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
   
-**Privacy Policy for Bollywood World**
+**Privacy Policy for BW Networks of sites**
 
 The privacy of our visitors to Bollywood World is important to us.   
 At Bollywood World, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Bollywood World, and how we safeguard your information. We never sell your personal information to third parties. 
