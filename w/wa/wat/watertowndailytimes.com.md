@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618093238id_/http%3A//www.watertowndailytimes.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154155id_/http%3A//www.watertowndailytimes.com/section/privacy) for the most accurate reproduction.*
 
 # Watertown Daily Times | Local News, Sports, Features, and Community Information for Jefferson County, St. Lawrence County, and Lewis County in Northern New York
 
