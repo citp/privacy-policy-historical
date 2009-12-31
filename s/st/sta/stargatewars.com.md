@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stargatewars.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430033623id_/http%3A//www.stargatewars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargatewars.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231145649id_/http%3A//gatewars.com/privacy.php) for the most accurate reproduction.*
 
-# StarGateWars_Main :: Privacy
+# GateWars_Main :: Privacy
 
 |    
 
@@ -11,7 +11,7 @@
 
 #### Information Collection
 
-StarGateWars_Main is the sole owner of the information collected on StarGateWars_Main. StarGateWars_Main collects information from our users at several different points on our Web site. 
+GateWars_Main is the sole owner of the information collected on GateWars_Main. GateWars_Main collects information from our users at several different points on our Web site. 
 
 #### Registration
 
@@ -44,17 +44,17 @@ On rare occasions it is necessary to send out a strictly service related announc
 
 #### Customer Service
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, in accordance with the users wishes. All emails will come from an email ending in StarGateWars_Main.com - if not, do not assume the email is from us.
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, in accordance with the users wishes. All emails will come from an email ending in GateWars_Main.com - if not, do not assume the email is from us.
 
 #### Links
 
-This Web site contains links to other sites. Please be aware that we, StarGateWars_Main, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that we, GateWars_Main, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 #### Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:admin@StarGateWars.com). 
 
-| [Privacy Policy](https://web.archive.org/web/20090430033623id_/http%3A//www.stargatewars.com/privacy.php) | [Contact Us](https://web.archive.org/web/20090430033623id_/http%3A//www.stargatewars.com/contact.php) | [Terms of Service](https://web.archive.org/web/20090430033623id_/http%3A//www.stargatewars.com/tos.php) | 
+| [Privacy Policy](https://web.archive.org/web/20091231145649id_/http%3A//gatewars.com/privacy.php) | [Contact Us](https://web.archive.org/web/20091231145649id_/http%3A//gatewars.com/contact.php) | [Terms of Service](https://web.archive.org/web/20091231145649id_/http%3A//gatewars.com/tos.php) | 
 
 _Brought to you by Kingdom Games Ltd._  
 note: no images are from copyrighted sources; we are not affiliated with any TV or movie company; if it doesn't say 'Kingdom Games' on the site, it is not ours. 
