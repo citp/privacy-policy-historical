@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327123629id_/http%3A//www.mountainhardwear.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231121246id_/http%3A//mountainhardwear.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mountain Hardwear: Privacy Policy
 
@@ -64,7 +64,7 @@ Mountain Hardwear uses non-personally identifiable information in any way that i
 
 **For More Information.** To review or update your personally identifiable information, to obtain information regarding the personally identifiable information that we shared, if any, with other businesses for their own marketing purposes during the prior calendar year, to opt out of receiving future marketing messages, or if you have any other questions or comments regarding Mountain Hardwear, please write to us at:
 
-Mountain Hardware, Inc.  
+Mountain Hardwear, Inc.  
 Attn: Webmaster  
 1414 Harbour Way South  
 Ford Point, Suite 1005  
