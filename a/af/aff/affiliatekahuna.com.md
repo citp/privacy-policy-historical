@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatekahuna.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050444id_/http%3A//www.affiliatekahuna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatekahuna.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231165952id_/http%3A//affiliatekahuna.com/privacy) for the most accurate reproduction.*
 
 # Affiliate Kahuna - Privacy Policy
 
