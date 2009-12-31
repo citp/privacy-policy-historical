@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyfragger.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512222714id_/http%3A//www.holyfragger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyfragger.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231134840id_/http%3A//www.holyfragger.com/privacy) for the most accurate reproduction.*
 
 # HolyFragger: Video Games PC Xbox 360 Playstation 3 PS3 Wii
 
