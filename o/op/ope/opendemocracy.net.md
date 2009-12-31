@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625063656id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231075938id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Legal | open Democracy News Analysis
+# Privacy Legal | openDemocracy
 
 openDemocracy respects your right to privacy. Any personal information you provide to openDemocracy on this website will be known only to two parties: you and openDemocracy, unless we state otherwise at the time the information is collected or in this privacy policy. 
 
-Please note that all our online transactions are processed by WorldPay, and you should refer to their [privacy policy](https://support.worldpay.com/shopper/) for more details. 
+If you have a query about an online donation or payment you have made, please send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net)
 
 The following policy is intended to explain how your personal information will be treated as you make use of our website and its features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide. 
 
@@ -36,7 +36,7 @@ After registering online, users will receive free weekly email newsletters and o
 
 **Unsubscribe, data removal and data modification policies**
 
-openDemocracy allows users to opt-out of receiving communications from us and to modify information we hold on our system any time. Sign in to the website and visit the [My Account](https://web.archive.org/accounts/my_accounts.jsp) page to edit your details or unsubscribe from the email yourself, or send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) with instructions. 
+openDemocracy allows users to opt-out of receiving communications from us and to modify information we hold on our system any time. To unsubscribe from our regular email newsletters, please click on the Unsubscribe option at the bottom of any emails you receive. 
 
 **Send this article to a friend (or foe!)**
 
@@ -63,4 +63,8 @@ openDemocracy will not use or disclose your personal information without your co
 
 We are a UK company bound by English law, and we are registered under and operate according to the Data Protection Act. Any legal requirements placed on us are those imposed by English law. This policy shall be governed by and construed in accordance with the laws of England and Wales. Any disputes arising from matters relating to the policy shall be exclusively subject to the jurisdiction of the courts of England and Wales. 
 
-More questions? Please direct them to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) or take a look at openDemocracy's [FAQs](https://web.archive.org/other_content/help.jsp)
+**Unsubscribe, data removal and data modification policies**
+
+openDemocracy allows users to opt-out of receiving communications from us and to modify or remove their information from our system any time. To do so, send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) with instructions. 
+
+More questions? Please direct them to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net)
