@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsdiscover.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514163742id_/http%3A//www.kidsdiscover.com/pcontent/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdiscover.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025738id_/http%3A//www.kidsdiscover.com/pcontent/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KIDS DISCOVER
+# Privacy Policy - KIDS DISCOVER Magazine
 
 **PRIVACY STATEMENT**
 
@@ -25,6 +25,6 @@ MODIFICATION
 KIDS DISCOVER reserves the right to modify and/or amend this privacy statement at any time, without notice. 
 
 How to Contact Us  
-KIDS DISCOVER, 192 Lexington Avenue, Suite 1003, New York, NY 10016. If you have any questions regarding our privacy statement, please contact us via email at teachers@kidsdiscover.com or by telephone at 1-212-677-4457 weekdays 9:00-5:00 EST. Thank you! 
+KIDS DISCOVER Magazine, 192 Lexington Avenue, Suite 1003, New York, NY 10016. If you have any questions regarding our privacy statement, please contact us via email at teachers@kidsdiscover.com or by telephone at 1-212-677-4457 weekdays 9:00-5:00 EST. Thank you! 
 
 © Copyright 2008 Kids Discover. All rights reserved.
