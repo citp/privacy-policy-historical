@@ -1,113 +1,134 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064431id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231092024id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids - Privacy Policy
 
-  * [What is the LIDS safe shopping guarantee?](https://web.archive.org/privacy_policy.html#guarantee)
-  * [What personal information about customers does LIDS gather?](https://web.archive.org/privacy_policy.html#personal)
-  * [What about cookies?](https://web.archive.org/privacy_policy.html#cookies)
-  * [Does LIDS share the information it receives?](https://web.archive.org/privacy_policy.html#share)
-  * [How secure is information about me?](https://web.archive.org/privacy_policy.html#secure)
-  * [What information can I access?](https://web.archive.org/privacy_policy.html#access)
-  * [What choices do I have?](https://web.archive.org/privacy_policy.html#choices)
-  * [Does LIDS collect information from children?](https://web.archive.org/privacy_policy.html#children)
-  * [What are the conditions of use, notices, and revisions for the LIDS web site?](https://web.archive.org/privacy_policy.html#revisions)
-  * [What are my LIDS bill of rights?](https://web.archive.org/privacy_policy.html#rights)
-  * [What is the LIDS fraud prevention statement?](https://web.archive.org/privacy_policy.html#fraud)
-  * [User Comments, Feedback, Postcards And Other Submissions](https://web.archive.org/privacy_policy.html#reviews)
+Last updated: October 30, 2009
 
-  
-PRIVACY & SECURITY  
-LIDS knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Lids you are accepting the practices described in this Privacy Notice. 
+Our Commitment to Privacy
 
-What is the LIDS safe shopping guarantee?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-The Lids Safe Shopping Guarantee protects you while you shop at Lids so that you never have to worry about credit card safety. We guarantee that every transaction you make at Lids will be safe. This means that you pay nothing if unauthorized charges are made to your card as a result of shopping at Lids. 
+Hat World values your time, respects your privacy, and seeks to earn your trust. 
 
-Guarantee Details: 
+We collect information about you in our stores and through the Sites ( _www.lids.com_ , _www.lids.ca_ and _www.hatworld.com_ ) in an effort to improve your shopping experience and to tell you about our products, services, contests and promotions. Your trust is essential to us, and **we are not in the business of selling or renting information about our customers to others**. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. 
 
-  1. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, Lids will cover the entire liability for you, up to the full $50. Lids will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at Lids while using the secure server.
-  2. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
-  3. Our liability if unauthorized charges are made to your card as a result of shopping at Lids is limited to $50 or the lesser amount for which your bank holds you liable. We are not liable for any incidental or consequential damages you may incur in connection with the unauthorized charges or for any amount in excess of $50 that your bank may require you to pay because you failed to comply with the bank's rules and procedures concerning the unauthorized charge.
+In line with these values, our privacy policy may change from time to time. If it does, we will post an updated policy on the Sites and change the "last updated" line above. If we make significant changes to the policy, we will provide appropriate notice to you. 
 
+If you have any unanswered questions about our privacy policy, click here to reach our Privacy Officer. 
 
+What kind of personal information does Hat World collect?
 
-What personal information about customers does Lids gather?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-The information we learn from customers helps us personalize and continually improve your shopping experience at Lids. Here are the types of information we gather: 
+We may collect personal information from you, such as your name, e-mail address, postal address, phone number, purchase history, credit card number, gender, birthday, and personal interests, when you visit one of the Sites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, return an item to a store, contact us with a question or concern, participate in a contest, promotion, or survey, or communicate with us in any other way. 
 
-  * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Scroll to the bottom of this page to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
-  * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses lids.com™ and hatworld.com™. We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
-  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Lids if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by sending an e-mail to [contactus@hatworld.com](mailto:contactus@hatworld.com).
-  * Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from other sources so that we can correct our records and deliver your next purchase or communication more easily.
+We may occasionally collect an individual's IP address to help identify an individual, gather broad demographic information about users of the Sites, diagnose problems with our systems, and administer the Sites. 
 
+How does Hat World collect this information?
 
+We receive and store any information from your visits to our Sites or that you give us in any other way. 
 
-What about cookies?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. 
+As is true of most web sites, we gather and store certain information automatically, including Internet Protocol (IP) addresses, browser types, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. This information does not identify individual users, and is used to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Lids coolest features, and we recommend that you leave them turned on. 
+To do this, we use 'cookies' or alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on the Sites. This provider may collect anonymous information about your visits to the Sites and may also use information about your visits to this and other Web sites to refine our services. If you are concerned about cookies, the "help", "options" or "preferences" functions on most browsers will allow to limit or disable cookies altogether. However, cookies allow you to take full advantage of our interactive features, and we recommend that you leave them turned on. 
 
-Does Lids share the information it receives?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-Information about our customers is an important part of our business, and **we are not in the business of selling information about our customers to others**. We share information only within the group of companies controlling, under common control with, or controlled by Hat World, INC. 
+We may also collect anonymous information about your interactions with us through the use of pixel tags (also called "web beacons" or "clear gifs"), which are tiny graphic images on the Sites and in our e-mails. Pixel tags are now standard in the industry and help to us analyze our customers' online behaviour and measure the effectiveness of our Sites and our advertising. A third-party service provider also helps us in our use of these tools. 
 
-  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Promotional Offers: Sometimes we send offers to selected groups of Lids customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please notify us by sending an e-mail to [contactus@hatworld.com](mailto:contactus@hatworld.com).
-  * Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Lids, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * Protection of Lids and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Lids, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-  * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+To ensure we are sending our e-mails to the right address, we may receive a confirmation when you open e-mail from us if your computer supports such capabilities. 
 
+Last, to provide customer service, we might receive information about you from other sources and add it to our account information. We also sometimes receive address information from these sources to correct our records and deliver your next purchase or communication more easily. 
 
+Any personal information that we collect will be stored in secure servers hosted in the U.S. or Canada. We will correct such information whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible. 
 
-How secure is information about me?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-We work to protect the security of your information during transmission by using Thawte certified Secure Sockets Layer (SSL) software, which encrypts information you input. 
+How does Hat World use your personal information?
 
-We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+The information we learn from customers helps us personalize and improve your shopping experience. In particular, by using the Sites, you agree that we may use your personal information in the following ways: 
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
-
-What information can I access?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-Lids gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
-
-Order Tracking - Gives you the ability to track orders and view order history. To access your Order Tracking information, click on the "My Account" link in the top portion of the site. 
-
-Account Information - Once you have logged in, you may access and update your account information by clicking on "My Account" displayed on the top of every page. 
-
-What choices do I have?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase. 
-
-You can add or update certain information on pages such as those listed in the "My Account" section above. When you update information, your old information is replaced by your new information. 
-
-If you do not want to receive e-mail or other mail from us, please notify us by sending an e-mail to [contactus@hatworld.com](mailto:contactus@hatworld.com). 
-
-If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Lids and it is your responsibility to review them for changes. 
-
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
-
-The Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet. 
-
-Does Lids collect information from children?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-Lids does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Lids only with involvement of a parent or guardian. 
-
-What are the conditions of use, notices, and revisions for the Lids web site?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-If you choose to visit Lids, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Indiana. If you have any concern about privacy at Lids, please send us a thorough description to [contactus@hatworld.com](mailto:contactus@hatworld.com), and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
-
-What are my Lids bill of rights?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-
-
-  1. We guarantee that every transaction you make at Lids will be safe. This means that you pay nothing, if unauthorized charges are made to your card as a result of shopping at Lids subject to the details of this policy, which are posted [here](https://web.archive.org/privacy_policy.html#guarantee). Read the details of this policy. Plus, you'll be one of thousands of customers who have safely shopped with us without credit card fraud. If you feel more comfortable, you may call us and order by phone.
-  2. No obligation. You are under no obligation to buy anything.
-  3. Unsubscribing. You can unsubscribe or change your subscription to any of our Personal Notification Services at any time.
+  * To process and fulfill your order, including sending you e-mail to confirm your order status and shipment.
+  * To communicate with you, to send you information about our products, services, contests, and promotions, and to send offers to selected groups of customers on behalf of other businesses. When we send you offer on behalf of other businesses, we never give that business your name and address. If you do not wish to receive such offers, please let us know, and we will place you on a "do not contact" list.
+  * To administer contests and other promotions.
+  * To help us learn more about your shopping preferences so that we can customize future shopping for you, improve our stores, and tailor offers and promotions to you.
+  * To help us address problems with and improve our site design, products and services.
+  * To enhance your shopping experience.
+  * To administer our loyalty programs.
+  * To process merchandise returns.
+  * To analyze trends and statistics.
+  * To correct our records and make it easier to deliver your next purchase or communication more easily.
+  * To protect the security and integrity of the Sites and our business.
+  * To respond to your requests and to contact you if necessary.
 
 
 
-What is the Lids fraud prevention statement?  ([Top](https://web.archive.org/privacy_policy.html#top))  
-Lids is concerned with the protection and privacy of all of our customers. To ensure your online shopping experience is the best it can be we have implemented procedures to safeguard against fraud. To protect our customers from the high price of fraud, Lids reserves the right to verify any order for fraud prevention purposes. This may result in delays to Express and Next Day Air orders. All orders will be researched within 24 hours. If we are unable to verify order information within 48 hours, the order will be cancelled. Lids is working to protect our customers from the high cost of fraud so that we can continue to provide a large inventory of competitively priced products and a positive online shopping experience for you, our customer.  
-  
-User Comments, Feedback, Postcards And Other Submissions  ([Top](https://web.archive.org/privacy_policy.html#top))  
-All comments, feedback, postcards, suggestions, ideas, and other submissions disclosed, submitted or offered to the Company on or by this Site or otherwise disclosed, submitted or offered in connection with your use of this Site (collectively, "Comments") shall be and remain the Company's property. Such disclosure, submission or offer of any Comments shall constitute an assignment to the Company of all worldwide rights, titles and interests in all copyrights and other intellectual properties in the Comments. Thus, the Company will own exclusively all such rights, titles and interests and shall not be limited in any way in its use, commercial or otherwise, of any Comments. The Company is and shall be under no obligation (1) to maintain any Comments in confidence; (2) to pay to user any compensation for any Comments; or (3) to respond to any user Comments.
+If you have questions or concerns about how we use personal information, please contact us as indicated below. 
 
-You agree that no Comments submitted by you to the Site will violate any right of any third party, including copyright, trademark, privacy or other personal or proprietary right(s). You further agree that no Comments submitted by you to the Site will be or contain libelous or otherwise unlawful, abusive or obscene material. You are solely responsible for the content of any Comments you make.
+Does Hat World share personal information about me?
 
-You agree that the Company may use and/or disclose information about your demographics and use of the Site in any manner that does not reveal your identity.  
-  
+By using the Sites, you agree that we may share your personal information in the following ways: 
 
+  * When you provide personal information to one of our retail stores or affiliates, we may share that information with our other retail stores or affiliates in the United States or Canada.
+  * We may share information about you with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, validating addresses, and conducting surveys.
+  * We may share information about you when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
+  * We may share personal information about you to address a security, integrity, or legal threat to the Sites or our business, including for fraud protection and credit risk reduction, to protect the legal rights, privacy or safety of Hat World or our employees, agents and contractors, to enforce our terms of use, to respond to inquiries or requests from government or public authorities in any country in which we operate, including the U.S. and Canada, or to comply with the law or legal process.
+
+
+
+We employ other companies and individuals as agents to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. 
+
+Whenever we share personal information with our agents, we restrict their access to only that information needed to perform their functions, demand that they provide a comparable level of protection for personal information, and require that they not use it for other purposes. 
+
+In addition, if you choose to participate in any loyalty program in which Hat World participates, such as Passport Club, and you authorize Hat World to provide information about purchases you make to the company administering the program, we will share personal information about you with that company. Loyalty programs allow you to obtain discounts on purchases at our stores, special member-only offers, and VIP access to new product releases and the hottest trends. The information you authorize us to disclose may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the company administering the loyalty program may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them. 
+
+How does Hat World keep your information secure?
+
+Hat World is always striving to ensure you a safe and convenient online experience. This goes beyond our technologies to include physical, contractual, and managerial safeguards to protect your personal information. 
+
+We work to protect the security of your information during transmission by using Thawte Certified Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+
+Security lies in your hands as well. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
+
+What is "phishing"?
+
+"Phishing" is a scam where fraudsters pretend that they represent well-known companies to steal your personal information. If you receive an e-mail claiming to be from Hat World that asks you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
+
+How do I access or change my personal information?
+
+You can access, add or update certain information in the "[My Account](https://web.archive.org/account/)" section of the Sites, including [Order Tracking](https://web.archive.org/account/order_history.html) and [Account Information](https://web.archive.org/account/information). When you update information, your old information is replaced by your new information. 
+
+You can ask us to change or update other personal information about you by clicking here to reach our Privacy Officer. Any request to update personal information may take up to 10 days for your e-mail request and 6-8 weeks for your postal mail request. 
+
+You can unsubscribe or change your subscription to any of our Personal Notification Services at any time. 
+
+How can I control your use of my personal information?
+
+We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from one or more of our brands, please let us know by making a written request to our Privacy Officer. 
+
+In any such request, please provide us with your full name and the e-mail address you used when you registered with or made a purchase from us. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your e-mail request and 6-8 weeks to process your postal mail request, during which transition period you may continue to receive communications from us. 
+
+To change your mind, simply contact our Privacy Officer or sign up again when you visit the Sites or our stores. 
+
+If you have questions or concerns about how we use personal information about you or if you would prefer that we delete or suppress information we have about you, please click here to reach our Privacy Officer, and we will do our best to meet your concerns. 
+
+How does Hat World protect kids' privacy?
+
+Hat World is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. The Sites are general audience sites and are not targeted to or intended for use by children. 
+
+To carry this promise through, we do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use the Sites only with involvement of a parent or guardian. 
+
+What about links to other web sites?
+
+The Sites may contain links to third-party web sites. All such sites are independent from the Sites and from Hat World. Hat World has no control over and expressly disclaims any liability for such sites or their contents. Our links do not constitute an express or implied adoption or endorsement of anything contained in the other sites. Any transactions that take place between you and the third party are directly with the third party and Hat World will not be held responsible for any loss or damage that you may incur as a consequence thereto. Please read the privacy policies and terms and conditions posted on these other sites before using the sites or disclosing any personal information to the sites. If you decide to access any of these sites, you do so entirely at your own risk.
+
+Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers of Hat World who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please click here [privacy officer link] to reach our Privacy Officer.
+
+How do I contact you?
+
+To reach us with any questions or requests about customer care or our privacy policy, you can contact us by e-mail, telephone, or postal mail: 
+
+US & CANADA
+
+Hat World  
+Attn: Privacy Officer  
+7555 Woodland Dr  
+Indianapolis, IN 46278  
+1-888-564-4287  
+[privacyofficer@hatworld.com](mailto:privacyofficer@hatworld.com)
 
 |  
