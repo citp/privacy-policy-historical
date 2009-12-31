@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420193705id_/http%3A//www.usfirst.org/content.aspx%3Fid%3D868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231091622id_/http%3A//www.usfirst.org/aboutus/content.aspx%3Fid%3D868) for the most accurate reproduction.*
 
-# Home
-
-|   |  [Home](https://web.archive.org/default.aspx "Home Page") > Privacy Policy
+# USFIRST.org
 
 **_FIRST  _Privacy Policy and User Agreement**
 
@@ -139,5 +137,3 @@ If you have any questions about this Privacy Policy, the practices of this Site,
  Manchester, NH  03101  
  (603) 666-3906   
  customerservice@us _FIRST_.org
-
-| 
