@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kentucky.gov privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610173636id_/http%3A//kentucky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentucky.gov privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231081510id_/http%3A//kentucky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Kentucky.gov : Privacy and Security
+# Privacy and Security Kentucky.gov :
 
 Your privacy and security are our highest priority.  Ensuring electronic access to state government information and services while maintaining privacy is a guiding principle of the state's [Direction of Enterprise Information Technology](http://cot.ky.gov/policies/ "Policies").  The Commonwealth of Kentucky collects only the personal information necessary to provide enhanced services to our citizens and customers.  Please note that all non-exempt information collected by Kentucky.gov services may be subject to public disclosure under [KRS 61.870, the Kentucky Open Records Act](http://lrc.ky.gov/KRS/061-00/870.PDF "Open Records Act Statute") [PDF]. 
 
@@ -43,6 +43,12 @@ If you send an E-mail message or complete an unsecured web form, which contains
   * If unsecured and / or unencrypted email is used, please do not put confidential and personal information such as social security number, date of birth, bank account and credit card information, mother's maiden name or medical information in your e-mail communications to the Commonwealth. Your privacy cannot be protected or insured by the Commonwealth during email or unsecured web form transmission. 
 
 
+
+### Electronic Payments
+
+It is the intent of the Commonwealth of Kentucky not to use the ACH system for transactions in violation of U.S. Law, including the sanctions administered by the Office of Foreign Assets Control (OFAC). It is also the intent of the agency to be in compliance with the "International ACH Transaction (IAT) rules" that are part of the NACHA Operating Rules. Accordingly, all payments made through this website/online application are intended only for payments not associated with a foreign bank account, which would classify it as an "International ACH Transaction (IAT)" under the NACHA Operating Rules. 
+
+Since this website's payment application does not accommodate IAT transactions, payors that would be considered an IAT payor should use some other method of remitting funds to the Commonwealth. Alternative forms of payment would include check or credit card.
 
 ### Live Help
 
