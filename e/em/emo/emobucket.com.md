@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513034912id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231090709id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Emo Bucket
 
@@ -9,7 +9,7 @@
 
 **The Short Version:** Emo Bucket respects your privacy. We only collect information that is needed such as your username and password, and we do set a cookie (the thing that makes it possible for your browser to remember your login here, and to allow you to actually login). We don't sell your email. You can give us your email and not worry about us selling it, we don't do that. If you need more reassuarance, our full privacy policy is below...
 
-**Emo Bucket**.com
+**Emo Bucket**.com Privacy Policy
 
 Our postal address is   
 **2201 Lockwood Dr  
@@ -29,7 +29,7 @@ With respect to cookies: We use cookies to store visitors preferences, record pa
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/privacy.html
+http://www.google.com/privacy.html http://www.exponential.com/who-we-are/privacy-policy.jsp
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
