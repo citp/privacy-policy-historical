@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428134233id_/http%3A//www.thetrumpet.com/index.php%3Fpage%3Dhelp%26q%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151945id_/http%3A//www.thetrumpet.com/index.php%3Fpage%3Dhelp%26q%3Dprivacy) for the most accurate reproduction.*
 
-# Help | Privacy Policy | theTrumpet.com
+# Help | Privacy Policy | theTrumpet.com by the Philadelphia Church of God
 
 The www.theTrumpet.com site is produced and sponsored by the Philadelphia Church of God (PCG). Various information is collected from our site. The following provides details on how the information is collected and used.
 
@@ -32,4 +32,4 @@ The PCG may provide links to Third Party sites for the purpose of enhancing the 
 
 Usage Agreement
 
-Using this site signifies your agreement to terms and conditions of this Privacy Statement. The PCG reserves the right to change this policy at any time. Questions or comments can be sent to [info@pcog.org](mailto:info@pcog.org). 
+Using this site signifies your agreement to terms and conditions of this Privacy Statement. The PCG reserves the right to change this policy at any time. Questions or comments can be sent to [info@pcog.org](https://web.archive.org/web/20091231151945id_/http%3A//www.thetrumpet.com/contact/vasb+cpbt+bet). 
