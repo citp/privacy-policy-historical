@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071115id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231075924id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.*
 
 # Public Citizen | Public Citizen | Public Citizen Home Page - Public Citizen's Privacy Policy
 
@@ -33,7 +33,7 @@ If you have any questions or concerns about this privacy policy, please contact
 
 more resources
 
-Because Public Citizen does not accept funds from corporations, professional associations or government agencies, we can remain independent and follow the truth wherever it may lead. But that means we depend on the generosity of concerned citizens like you for the resources to fight on behalf of the public interest. If you would like to help us in our fight, [click here](https://web.archive.org/join/). 
+Because Public Citizen does not accept funds from corporations, professional associations or government agencies, we can remain independent and follow the truth wherever it may lead. But that means we depend on the generosity of concerned citizens like you for the resources to fight on behalf of the public interest. If you would like to help us in our fight, [click here](https://secure.citizen.org/shop/custom.jsp?donate_page_KEY=766&t=DIA_Secure.dwt&track=w8766f). 
 
   
 
