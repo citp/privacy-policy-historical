@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourstocks.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214193814id_/http%3A//www.fourstocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourstocks.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231144335id_/http%3A//www.fourstocks.com/privacy-policy) for the most accurate reproduction.*
 
 # FourStocks: BSE/NSE Equities | Stock Picks & Research | Stock Rating
 
