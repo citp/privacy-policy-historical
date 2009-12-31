@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418075640id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031537id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # globeandmail.com - Privacy Policy
 
@@ -171,7 +171,7 @@ _The knowledge and consent of a Person are required for the collection, use or d
 
 3.6 An Individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Globe for more information regarding the implications of withdrawing consent.
 
-3.7 In certain circumstances Personal Information can be collected, used or disclosed without the knowledge and consent of the Person. For example, Globe may collect or use Personal Information without knowledge or consent if it is clearly in the interests of the Person and consent cannot be obtained in a timely way, such as when the Person is a minor, seriously ill or mentally incapacitated.
+3.7 In certain circumstances Personal Information can be collected, used or disclosed without the knowledge and consent of the Person. For example, Globe may collect or use Personal Information without knowledge or consent if it is clearly in the interests of the Person and consent cannot be obtained in a timely way, such as when the Person is a minor, seriously ill or mentally incapacitated. "The Globe may from time to time engage outside suppliers, including technology providers." 
 
 Globe may also collect, use or disclose Personal Information without knowledge or consent if seeking the consent of the Person might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law.
 
