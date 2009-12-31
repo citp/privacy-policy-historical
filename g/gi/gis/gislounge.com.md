@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173443id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231165014id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : GIS Lounge - Geographic Information Systems
+# GIS Lounge – Geographic Information Systems | Privacy Policy
 
 This is the web site of **GIS Lounge**.  
 We can be reached via e-mail at [editor@gislounge.com](mailto:editor@gislounge.com)
@@ -11,21 +11,30 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
 
-With respect to cookies: We do not set any cookies.
+**Log Files**  
+Like many other Web sites, GISLounge.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+**Cookies and Web Beacons**  
+GISLounge.com does not use cookies.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on gislounge.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to GISLounge.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are:
 
-With respect to Ad Servers:
+  * Google Adsense
+  * Amazon
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-> <https://www.burstmedia.com/release/privacy.asp>  
->  <http://www.google.com/privacy.html>
 
-The ad policy of the site can be accessed by clicking [here](http://gislounge.com/freisin/aboutads.shtml).If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on gislounge.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-[](http://twitter.com/home/?status=Privacy+Policy+http://tinyurl.com/dbq9wm "Post to Twitter")  [](http://delicious.com/post?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to Delicious")  [](http://digg.com/submit?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to Digg")  [](http://reddit.com/submit?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to Reddit")  [](http://stumbleupon.com/submit?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to StumbleUpon") 
+GISLounge.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. gislounge.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+[](http://www.addthis.com/bookmark.php?v=20)
