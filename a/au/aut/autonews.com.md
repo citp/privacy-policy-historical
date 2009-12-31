@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603050724id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231130728id_/http%3A//www.autonews.com/article/20051012/STATIC/310120002) for the most accurate reproduction.*
 
-# Automotive News -- In-depth coverage of the automotive industry with special features for subscribers
+# Automotive News
 
 Automotivenews.com is the Web site of Automotive News, a publication of the Automotive News Group, a business unit of Crain Communications Inc. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207. We can be reached by e-mail at autonews@crain.com or by telephone at 313-446-6000. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
@@ -20,6 +20,4 @@ If you provided your postal mail address during registration and do not wish to 
 
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
-If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000.
-
-|    | 
+If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000. 
