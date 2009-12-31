@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209163324id_/http%3A//www.businessinternetdirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinternetdirectory.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231123419id_/http%3A//www.businessinternetdirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy - www.businessinternetdirectory.com 
+# Business Internet Directory Privacy Policy
 
 This privacy policy (“Privacy Policy”) is provided by **Business Internet Directory Limited** (registered company number 04225065) whose registered office is at Garforth House, 54 Micklegate, York, YO1 6LF (referred to as “us”, “our” or “we” in this Privacy Policy) for the information of visitors (referred to as “you” or “your” in this Privacy Policy) to our website, the URL of which is http://www.businessinternetdirectory.com (.co.uk, .net, .org.uk, .org, .ltd.uk, .tv), referred to as the “Website” in this Privacy Policy.
 
@@ -21,7 +19,7 @@ Business Internet Directory Limited has notified the Information Commissioner un
 
 **(A) Information gathered by us - _Collected information_**
 
-_Business Internet Directory Standard Free Entry_
+Business Internet Directory Standard Free Entry
 
 I. You will appreciate that we may need to gather some information about you in order to compile our business directory. This information may include:  
 (i) Company/business name  
@@ -31,9 +29,9 @@ I. You will appreciate that we may need to gather some information about you in 
 
 The information we collect will then be featured in the Business Internet Directory as a Standard Free Entry and will be made available to users of our Website when they search our database. We may also use the information we collect to contact you about our Online Business Builder service and other services which we offer. 
 
-_Business Internet Directory Online Business Builder service_
+Business Internet Directory Online Business Builder service 
 
-II. You will appreciate that may need to gather some information from you when you wish to register to use our Online Business Builder service. This information may include: __
+II. You will appreciate that may need to gather some information from you when you wish to register to use our Online Business Builder service. This information may include: 
 
 (i) contact forename and surname  
 (ii) Company/business name  
