@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170612id_/http%3A//www.zipcodeworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231053603id_/http%3A//www.zipcodeworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | ZIPCodeWorld.com ZIP Code and Postal Code Solutions
 
@@ -13,7 +13,7 @@ When you visit and navigate our sites and when you communicate with us via our s
 
 **Your E-Mail**
 
-We welcome your comments or questions about our websites and have provided feedback box for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns. Again, HDSB will not sell, license, transmit or disclose your email address to any 3rd parties.
+We welcome your comments or questions about our websites and have provided a feedback box for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns. Again, HDSB will not sell, license, transmit or disclose your email address to any 3rd parties.
 
  **Linking to Other Sites**
 
