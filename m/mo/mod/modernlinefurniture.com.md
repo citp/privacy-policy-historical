@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernlinefurniture.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193325id_/http%3A//www.modernlinefurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernlinefurniture.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231022011id_/http%3A//www.modernlinefurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Modern furniture | Contemporary furniture | Modern Bedroom | Designer Furniture | Privacy Policy
+# Modern furniture | Contemporary furniture | Nightclub Furniture | Designer Furniture | Privacy Policy
 
 |  | 
 
