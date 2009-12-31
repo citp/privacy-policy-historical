@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spermantino.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627213302id_/http%3A//spermantino.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spermantino.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231020543id_/http%3A//www.spermantino.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
