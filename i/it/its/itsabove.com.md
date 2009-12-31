@@ -1,75 +1,61 @@
-> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223230223id_/http%3A//www.itsabove.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231013400id_/http%3A//itsabove.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Its Above.com Privacy policy
+# Itsabove - Privacy Policy
 
-Itsabove.com ONLINE PRIVACY POLICY  
-Itsabove.com is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through Itsabove.com's Web site, which includes all of the Itsabove.com.com Guide-Sites and governs online data collection and usage by Itsabove.com. Please read the complete Itsabove.com Online Privacy Policy below and contact us if you have any questions.
+HTML clipboard 
 
-COLLECTION AND TRACKING OF PERSONAL INFORMATION
+**CONSUMER PRIVACY AND RELATED SERVICES**
 
-So that we can provide you with the most efficient and enhanced service, we request information Itsabove.com you. We collect personally identifiable information such as names, email addresses and demographic information such as age, gender and zip code. We also may collect your IP address, browser type, domain name, access times and referring Web site address. This information is collected both during registration on a site or in response to specific requests, for example when signing up for a newsletter, entering a sweepstakes or contest or answering a survey. Information collected at one Itsabove.com Web site will be available within the Itsabove.com family of Web sites.
+Itsabove.com  is operated by Its Above Inc. 
 
-Sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with Itsabove.com. If you decide to accept these offers, we will provide, with your consent, your information to the third party. However, you should note that this Privacy Policy does not apply to information users consent to give to third parties not affiliated with Itsabove.com. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this Privacy Policy. Itsabove.com is not responsible for information given to other parties. Please review their privacy policies prior to providing any information to third parties.
+Itsabove Inc we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the itsabove.com website and related applications/services.
 
-WHAT WE DO WITH COLLECTED INFORMATION
+**Information we may collect** |    
+---|---  
+We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using any Itsabove Products or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
-We use personal information so that we may display custom, personalized content to our visitors and send newsletters, emails, features, promotional material, surveys and other updates to our users. A user may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our service, respond to any problems that may arise and to gauge user trends to determine what part of our services are most popular with users. 
+We also may collect other types of information in the following ways when you visit any Itsabove Product our website:
 
-We may extend offers to users on behalf of our partners Itsabove.com a particular product or service that may be of interest to you, but we will never give out your name or personal information at any time without your permission. As result, although Itsabove.com may receive a fee from our partners for this service, Itsabove.com sends all the offers so that your personal information is never shared with any outside third party.
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends
+  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
-We may, at times, produce reports for advertisers containing aggregate information Itsabove.com our users such as demographic, age and online usage information. This allows us to work more closely with advertisers to provide content and offers that are most relevant to our users. We will never include any personal information of our users in these reports.
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.  **Information others may collect** |    
+---|---  
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
-We allow users of our Web site to send articles or links by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles or links after they are sent.
+  * We do not provide any personal information to these companies. 
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the Network Advertising Initiative, which offers consumers the ability to opt out of ad targeting by all member companies.
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
+If you post information about yourself or others, or communicate with others using any Itsabove Product, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.  **How we may use information we collect** |    
+---|---  
+ 
 
-You should be aware that if you voluntarily disclose information online (whether through Itsabove.com's services or any other service available online), personal or otherwise, that information can be collected and used by others. For example, if you use chat, forums, bulletin boards, your e-mail or if you post personal information online, you may receive unsolicited messages from others. Itsabove.com has no control over this use of your personal information.
+We may use information to:
 
-USE OF COOKIES
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Process payment for products or services you order via an Itsabove Product;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our Itsabove Products;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website; and
+  * Enforce any EULA, terms of use, terms of service or other terms/policies governing your use of the Itsabove Products.
 
-Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information Itsabove.com you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features of our site, as well as other Web sites, will not be available to you.
+**With whom we may share information we collect** |    
+---|---  
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
 
-Some of the banner ads displayed in our Web sites are provided by outside companies. These ads contain cookies. While we use cookies in other parts of our Web sites, cookies received with banner ads are collected by our advertisers and we do not have access to this information. We use a reputable third party to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) Itsabove.com your visits to our sites and other sites to assist in serving advertisements to you. If you would like to know more Itsabove.com the information gathering practices and 'opt-out' procedures of our third party ad server.
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Itsabove Products or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. 
 
-CONTROLLING YOUR PERSONAL INFORMATION
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. You may choose: 
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our Itsabove  Products;
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of the Itsabove Products may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account 
 
-A user may, at any time, change, correct, modify or delete any personal information they may have provided to Itsabove.com by visiting the Member Center located on the Itsabove.com homepage. Users can also unsubscribe from any newsletters or opt out of various promotional emailings at any time by visiting the Newsletters section in the Member Center or clicking on "unsubscribe" links in each of our newsletters or emails.
-
-SECURITY OF YOUR PERSONAL INFORMATION
-
-Itsabove.com employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information and we store data on multiple service systems, in controlled, secure environments. To maintain our level of security, we conduct both internal reviews and external audits of our security measures and procedures on a regular basis.
-
-CHILDREN'S PRIVACY
-
-Some portions of the Itsabove.com Web site may be used by children under the age of 13. Itsabove.com is strongly committed to protecting the safety and privacy of children who visit our Web site.
-
-Itsabove.com has a system in place to effectively screen its users to ensure compliance with this Privacy Policy and the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet.
-
-Our site and services may collect information Itsabove.com children under 13, including e-mail forum participation and chat rooms. Use of such activities requires initial registration by the participant. Children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. Upon verification, the parent can choose in which activities he or she would like the child to participate. Parents can change the selected activities at any time.
-
-Only after verifying age in accordance with Federal standards, do we collect and maintain the name, date of birth and email address of children who register. With proper proof of identification (including name and credit card verification), parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of their child's information.
-
-We use cookies to check the age of registered users who enter chat rooms. We do not knowingly permit users under 13 into chat rooms unless their parents have consented to their participation.
-
-Itsabove.com.com includes many topical areas that all users may access. When a parent provides verifiable consent to allow his or her child to use chat and forums and to receive newsletters or other materials where a child may provide personally identifiable information, the child will also have access to those relevant services throughout the Itsabove.com site, including areas that may not be directed toward children. In particular, if you allow your child to participate in chat or forums, your child will have access to all chat and forum areas on Itsabove.com.com. Many chat areas are not monitored and private chat is permitted. Chat areas may contain information or language unsuitable for young children and visitors of all ages may participate. If you authorize your child to participate in these features, we encourage you to monitor their use closely. We also allow guests to participate in chat and forum areas at Itsabove.com.com but use techniques to prevent unregistered children under 13 from participating in areas unsuitable for them. Parents can change these options at any time.
-
-Except as authorized under COPPA, Itsabove.com.com will NOT:
-
-collect online contact information from a user under 13 without prior verifiable parental consent, which includes an opportunity for the parent to prevent use of the information and participation in the activity. When we do not obtain prior verifiable parental consent, online contact information will be used only to directly respond to the child's request and will not be used to contact the child for other purposes.  
-collect personally identifiable offline contact information from users under 13 without prior verifiable parental consent.  
-distribute to third parties any personally identifiable information collected from children known to be under 13.  
-give the ability to children to participate in forums or chat rooms without prior verifiable parental consent.  
-entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.  
-We will also place prominent notice wherever personally identifiable information is collected requesting the child to ask a parent for permission to proceed.
-
-CHANGES IN CORPORATE STRUCTURE
-
-In developing our business, we might sell certain assets or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
-
-VISITORS OUTSIDE THE UNITED STATES
-
-Our Web site and the servers that make this site available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of Georgia  in the United States. Any information you provide will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer.
-
-CHANGES TO OUR PRIVACY POLICY
-
-We will occasionally update this Privacy Policy as necessary to maintain the highest protection for our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so.
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. **Changes to our Privacy Policy** We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to your itsabove.com email address and/or by prominently posting notice of the changes on the Itsabove website. 
