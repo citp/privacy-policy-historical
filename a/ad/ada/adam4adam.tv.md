@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.tv privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/helpPrivacyPolicy%3FtheaterId%3D10899) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.tv privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231170322id_/http%3A//www.adam4adam.tv/dispatcher/helpPrivacyPolicy%3FtheaterId%3D10899) for the most accurate reproduction.*
 
 # Adam4Adam.TV Pay Per View Theater
 
@@ -6,7 +6,7 @@
 
 AEBN has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering practices for all of AEBN websites.
 
-AEBN has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first contact [billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net). 
+AEBN has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first contact [billing@aebn.net](mailto:billing@aebn.net). 
 
 **This Theater is owned and operated by: AEBN**   
 AEBN   
@@ -14,7 +14,7 @@ AEBN
 Charlotte, NC 28217   
 Phone: 1.704.529.1600   
 Customer Service Department: 1.800.628.0241   
-[billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net)
+[billing@aebn.net](mailto:billing@aebn.net)
 
 **Cookies**
 
@@ -30,7 +30,7 @@ Our site's registration form requires users to give us contact information (such
 
 **Choice/Opt-out**
 
-As an individual, you have the opportunity to limit the personal information you provide. We provide you with the opportunity to 'opt out' of having your personally identifiable information used for certain purposes when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by contacting us at 704.529.1600, [billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net) or 500 Archdale Drive Charlotte NC, 28217.
+As an individual, you have the opportunity to limit the personal information you provide. We provide you with the opportunity to 'opt out' of having your personally identifiable information used for certain purposes when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by contacting us at 704.529.1600, [billing@aebn.net](mailto:billing@aebn.net) or 500 Archdale Drive Charlotte NC, 28217.
 
 **_Information Collection & Use_**
 
@@ -40,7 +40,7 @@ In order to use this Web site, you must first complete the registration form and
 AEBN is the sole owner of the information collected on www.aebn.net. AEBN collects personally identifiable information from our users at several different points on our Web site.
 
 Access to Personally Identifiable Information   
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page, emailing our Customer Support at [billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net), or contacting us by telephone or postal mail using the information located at the top of this page.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page, emailing our Customer Support at [billing@aebn.net](mailto:billing@aebn.net), or contacting us by telephone or postal mail using the information located at the top of this page.
 
 **Surveys or Contests**   
 From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as zip code). 
@@ -52,12 +52,12 @@ We may use a third party service provider to conduct these surveys or contests; 
 **Tell-A-Friend**   
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AEBN stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net) to request that we remove this information from our database.
+Your friend may contact us at [billing@aebn.net](mailto:billing@aebn.net) to request that we remove this information from our database.
 
 **_Uses of Information_**
 
 **Email**   
-AEBN members and affiliates receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by contacting us at 704.529.1600, [billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net) or 500 Archdale Drive Charlotte NC, 28217.
+AEBN members and affiliates receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by contacting us at 704.529.1600, [billing@aebn.net](mailto:billing@aebn.net) or 500 Archdale Drive Charlotte NC, 28217.
 
 **Non-personal information**   
 Like many web sites, we collect and analyze standard log file information and Session ID information to analyze site traffic, improve site performance, and prevent fraud. Session IDs are bits of code on your computer that assist your browser in navigating our site. We do not associate personal information with log file information or cookies, except when needed to prevent fraud.
@@ -75,7 +75,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of online transmission or electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our web site, you can email us at [billing@aebn.net](https://web.archive.org/web/20090502024720id_/http%3A//www.adam4adam.tv/dispatcher/billing@aebn.net)
+If you have any questions about security on our web site, you can email us at [billing@aebn.net](mailto:billing@aebn.net)
 
 **Changes in this Privacy Statement**   
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
