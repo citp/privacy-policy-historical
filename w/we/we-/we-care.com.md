@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043410id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-care.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231022034id_/http%3A//www.we-care.com/Privacy) for the most accurate reproduction.*
 
 # We-Care.com :: Privacy Policy
 
