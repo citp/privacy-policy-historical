@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011037id_/http%3A//www.rajshri.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154558id_/http%3A//www.rajshri.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Rajshri.com. India's #1 Broadband Entertainment Destination.
+# Rajshri Media – Privacy Policy
 
-  
-Thank you for visiting the Rajshri ("RAJSHRI") internet website located under the universal resource locator at : www.rajshri.com. We are pleased to provide this privacy policy in response to the growing concern over privacy on the Internet. Rajshri Media (P) Limited owns : www.rajshri.com and Rajshri Media (P) Ltd. shall include its subsidiaries and affiliates. This Privacy Policy provides succinctly the manner your data is collected and used by Rajshri.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Rajshri.com you agree to the collection and use of your data by Rajshri.com in the manner provided in this Privacy Policy. 
+Thank you for visiting the Rajshri ("RAJSHRI") internet website located under the universal resource locator at : www.rajshri.com. We are pleased to provide this privacy policy in response to the growing concern over privacy on the Internet. Rajshri Media (P) Limited owns : www.rajshri.com and Rajshri Media (P) Limited shall include its subsidiaries and affiliates. This Privacy Policy provides succinctly the manner your data is collected and used by Rajshri.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Rajshri.com you agree to the collection and use of your data by Rajshri.com in the manner provided in this Privacy Policy. 
 
 We want you to 
 
-  * feel comfortable using our web sites 
+  * comfortable using our web sites 
   * feel secure submitting information to us 
   * contact us with your questions or concerns about privacy on this site 
-  * know that by using our sites you are consenting to the collection of certain data 
+  * know that by using our sites you are consenting to the collection of certain data
 
 
 
@@ -25,13 +24,13 @@ If you access our website through your computers we will automatically receive a
   * the type of web browser you're using 
   * We may collect from time to time the following personally identifiable information about you: 
     * name including first and last name 
-    * alternate email address 
-    * mobile phone number and contact details 
-    * ZIP/Postal code 
+    * alternate email address
+    * mobile phone number and contact details
+    * Country, City and ZIP/Postal code 
     * demographic profile (like your age, gender, occupation, education, address and durables owned); 
     * preferences and interests (such as news, sports, travel and so on); 
     * financial information (like account or credit card numbers); and 
-    * opinions of features on our websites. 
+    * opinions of features on our websites.
 
 
 
@@ -39,19 +38,19 @@ We may also collect the following information:
 
   * about the pages you visit/access 
   * the links you click on our site 
-  * the number of times you access the page 
+  * the number of times you access the page
 
 
 
 We reserve the right to terminate your use of the "site" if you breach or we have reasonable grounds to believe that you are likely to breach the terms and conditions or you otherwise engage in conduct which we determine in our sole discretion to be unacceptable. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
-WHO COLLECTS THE INFORMATION? 
+WHO COLLECTS THE INFORMATION?
 
 We will collect anonymous traffic information from you when you visit Rajshri.com 
 
-We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. 
+We will collect personally identifiable information about you as part of a registration process, on-line survey, or contest or any combination thereof. 
 
-Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. 
+Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
 
 The Site contains links to other web sites. We are not responsible for the privacy policies of such Web sites which we do not own, manage or control. 
 
@@ -61,38 +60,29 @@ HOW IS THE INFORMATION USED?
 
 We use your personal information to: 
 
-  * help us provide personalized features 
+  * help us provide you with personalized features 
   * tailor our sites to your interest 
   * to get in touch with you when necessary 
   * to provide the services requested by you 
-  * to preserve social history as governed by existing law or policy 
+  * to preserve social history as governed by existing law or policy
 
 
 
 We use contact information internally to: 
 
-  * direct our efforts for product improvement 
-  * contact you as a survey respondent 
-  * notify you if you win any contest; and 
-  * send you promotional materials from our contest sponsors or advertisers 
-
-
-
-Generally, we use anonymous traffic information to: 
-
   * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective; 
   * recognize your access privileges to our Web sites 
   * track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings 
   * make sure that you don't see the same ad repeatedly 
-  * help diagnose problems with our server 
+  * help diagnose problems with our server
   * administer our Web sites 
   * track your session so that we can understand better how people use our sites 
 
 
 
-WITH WHOM WILL YOUR INFORMATION BE SHARED? 
+WITH WHOM WILL YOUR INFORMATION BE SHARED?
 
-We will not use your financial information for any purpose other than to complete a transaction with you. 
+We will not use your financial information for any purpose other than to complete a transaction with you.
 
 We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: 
 
@@ -109,15 +99,13 @@ WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF 
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
 
-You may change your interests at any time and may opt-in or opt-out of any marketing/ promotional/ newsletters mailings. Rajshri.com reserves the right to send you certain service related communication, considered to be a part of your account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
+You may change your interests at any time and may opt-in or opt-out of any marketing/ promotional/ newsletters mailings. Rajshri.com reserves the right to send you certain service related communication, considered to be a part of your account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
+Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. 
+If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to <http://www.cookiecentral.com/faq/>. 
-
-WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION? 
+WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?
 
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. 
 
@@ -125,8 +113,8 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION? 
 
-To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can send an e-mail to [admin@rajshri.com](mailto:admin@rajshri.com)
+To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can send an e-mail to admin@rajshri.com
 
 POLICY UPDATES 
 
-We reserve the right to change or update this policy at any time by posting such revisions on our website located at www.rajshri.com.. Such changes shall be effective immediately upon posting to this site. We encourage you to review this privacy policy regularly for any changes. Your continued use of this website will be subject to the then-current privacy policy. 
+We reserve the right to change or update this policy at any time by posting such revisions on our website located at www.rajshri.com.. Such changes shall be effective immediately upon posting to this site. We encourage you to review this privacy policy regularly for any changes. Your continued use of this website will be subject to the then-current privacy policy.
