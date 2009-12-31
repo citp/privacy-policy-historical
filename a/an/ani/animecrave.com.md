@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the animecrave.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629195047id_/http%3A//animecrave.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecrave.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231024903id_/http%3A//animecrave.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Anime Crave : Privacy Policy
+
+**Privacy Policy::**
 
 The following Webpage outlines AnimeCrave.com's collection and use of personal information from it's users. AnimeCrave.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to AnimeCrave.com with anyone. This includes your e-mail address, name, and location. Upon logging on to AnimeCrave.com such things as your IP address and hostname are logged for statistical and security reasons. 
 
@@ -24,4 +26,4 @@ Third Party websites may collect information from users of AnimeCrave.com, this 
 **Website Policy Changes:**  
 AnimeCrave.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at [webmaster@AnimeCrave.com](mail:webmaster@AnimeCrave.com). 
 
-By continuing to access AnimeCrave.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of AnimeCrave.com, and are also in agreance with our [Legal Disclaimer](https://web.archive.org/web/20080629195047id_/http%3A//animecrave.com/index.php%3Fpage%3Dprivacy_policy?page=legal_disclaimer) and [Terms of Service](https://web.archive.org/web/20080629195047id_/http%3A//animecrave.com/index.php%3Fpage%3Dprivacy_policy?page=terms_of_service). 
+By continuing to access AnimeCrave.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of AnimeCrave.com, and are also in agreance with our [Legal Disclaimer](https://web.archive.org/web/20091231024903id_/http%3A//animecrave.com/index.php%3Fpage%3Dprivacy_policy?page=legal_disclaimer) and [Terms of Service](https://web.archive.org/web/20091231024903id_/http%3A//animecrave.com/index.php%3Fpage%3Dprivacy_policy?page=terms_of_service). 
