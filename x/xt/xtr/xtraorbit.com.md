@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410153407id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151534id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Liberty Reserve, AlertPay, Google CheckOut and Credit Cards Accepted.
 
@@ -57,25 +57,12 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
   
 |  |   
   
-|   
----  
-[](http://forums.xtraorbit.com/)  
----  
-[](http://www.xtraorbit.com/core/about/moneybookers.php)  
+[](http://www.xtraorbit.com/core/hosting/dedicated-servers.php)
+
+| [](http://www.xtraorbit.com/core/about/moneybookers.php)  
 ---  
 |   
 ---|---  
-  
-[ ](http://www.xtraorbit.com/core/about/quotes.php)  
----  
-|   
-You have a great way in dealing with problems, you are fair and your service is very fast.I'm enjoying it, and I hope we'll have a long business relationship.
-
-Your service is just enthusiastic !!  
-  
-|    
-**Fahad Jalali**  
-Pakistan  
   
   
   
