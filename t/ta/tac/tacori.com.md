@@ -1,0 +1,175 @@
+> *The following text is extracted and transformed from the tacori.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231084332id_/http%3A//tacori.com/privacy_policy.php) for the most accurate reproduction.*
+
+# 
+
+SECURITY & PRIVACY  
+
+
+Introduction  
+
+
+This web site ("Web Site") is operated by Tacori Enterprises ("Tacori" or "we" or "us"). This privacy policy only covers information collected at this Web Site, and does not cover any information collected offline by Tacori (unless specifically stated).  
+
+
+Security  
+
+
+We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting confidential information.  
+
+
+Privacy policy  
+
+
+To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.  
+
+
+We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used.  
+
+
+As we continue to develop our Web site and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.  
+
+
+The information we collect  
+
+
+Generally, you may browse the Web Site without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this Web Site. In some cases, if you choose not to provide us with the requested information, you may not be able to access all of this Web Site or participate in all of its features.  
+
+
+We receive and store any personally identifiable information you enter on the Web Site or information you give us in any other way. For example, if you would like to receive our email newsletter, we will collect the following personally identifiable information: your name, address, telephone number, e-mail address, age bracket, whether your wedding is set, and your wedding date.  
+
+
+When you visit this Web Site, our web server automatically collect anonymous information such as log data and IP addresses. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions.  
+
+
+How we use the information we collect  
+
+
+We use the information we collect for various purposes, including:  
+
+
+  * to provide the products and services you desire 
+  * to send you our email newsletter and other offerings that may arise from time to time 
+  * to identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you 
+  * to improve our merchandise selections, customer service, and overall shopping experience 
+
+
+
+Others with whom we share your information  
+
+
+Service providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with outside companies to: (a) manage a database of customer information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (e) provide fraud prevention; and (f) other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in the agreements.  
+
+
+Business Transitions: We may transfer or share a copy of personal information about you in the event that Tacori goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Tacori to transfer all or part of its business and/or assets to any independent third party at any time, for any purpose, without any limitation whatsoever. Tacori specifically reserves the right to transfer or share a copy of personally identifiable information collected from this Web Site to the buyer of that portion of its business relating to that information.  
+
+
+No Sharing with Third Party Vendors: We do not share you information with any third parties who may send you email solicitations.  
+
+
+Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of this Web Site or the public.  
+
+
+Children's privacy  
+
+
+Protecting children's privacy is important to us. Our Web Site is a general audience site. We do not collect or maintain information from those we actually know are under 13, and no part of our Web Site is targeted to attract anyone under 13. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent.  
+
+
+People under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web.  
+
+
+E-mails  
+
+
+We only send our Tacori email newsletter and promotional e-mails to those who have specifically requested receiving same. If you have decided that you no longer wish to receive email from Tacori, you can click on the unsubscribe link and hit send at the bottom of any email communication sent by us. Please allow us 3 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.  
+
+
+Acceptance  
+
+
+By using this Web Site, you accept the policies set forth in this Privacy Policy.  
+
+
+Any questions?  
+
+
+We'll be happy to provide additional information or answer any questions. Please contact us at info@â€¦.  
+
+
+LEGAL TERMS  
+
+
+When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are:  
+
+
+  * Subject to the terms and conditions in this legal notice, which may change from time to time without notice. 
+  * Subject to all applicable laws. 
+  * Undertaken at your own risk. 
+
+
+
+Please refer to this page frequently to review our current terms and conditions of use.  
+
+
+Copyright  
+
+
+The following elements of this Web site are the property of Tacori or our suppliers and are protected by United States and international copyright laws:  
+
+
+  * All text, graphics, logos, button icons, images, audio clips, digital downloads, and data compilations -- both individually and as they are compiled on the site. 
+  * All Tacori Jewelry 
+  * All software. 
+
+
+
+Trademarks  
+
+
+The trademarks or trade dress of Tacori may not be used without our written permission. Trademarks or trade dress include the Tacori name and logo, and other graphics, logos, page headers, button icons, scripts, and names of Tacori products, services, and programs.  
+
+
+Use  
+
+
+You have permission to electronically copy and print hard copies of pages from this Web site solely for personal, non-commercial purposes related to placing an order or shopping with Tacori.com. Unless we give you written permission in advance, any other use of this Web site, its content and its information, including linking or framing to this Web site, is strictly prohibited.  
+
+
+Errors and inaccuracies  
+
+
+Our goal is to provide complete, accurate, up-to-date information on our Web site. However, it is not possible to ensure that any Web site is completely free of human or technological errors. This site may contain typographical mistakes, inaccuracies, or omissions, and some information may not be complete or current. We reserve the right to correct any errors, inaccuracies or omissions -- including after an order has been submitted -- and to change or update information at any time without prior notice. We sincerely apologize for any inconvenience this may cause.  
+
+
+Disclaimer of liability  
+
+
+WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO THIS WEB SITE, ITS CONTENT, OR THE INFORMATION AVAILABLE ON OR THROUGH IT; THEY ARE PROVIDED "AS IS," WITH ALL FAULTS. ALL INFORMATION, INCLUDING BUT NOT LIMITED TO INFORMATION REGARDING DIAMOND AND OTHER STONE WEIGHTS, AND ANY RING OR JEWELRY SPECIFICATION, ARE APPROXIMATE AND ARE SUBJECT TO CHANGE WITHOUT ANY NOTICE. YOU AGREE THAT TACORI SHALL NOT BOUND TO ANY SPECIFICATIONS OR OTHER INFORMATION CONCERNING TACORI JEWELRY AND THAT ANY CLAIMS OR STATEMENTS ON THE WEB SITE CANNOT AND WILL NOT BE USED AGAINST TACORI.  
+
+
+EXCEPT AS OTHERWISE PROVIDED UNDER APPLICABLE LAWS, WE AND THE DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, CONTRACTORS, SUCCESSORS AND ASSIGNS OF TACORI, WILL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF OR RELATED TO THE USE OF THIS WEB SITE OR ANY OTHER WEB SITE LINKED TO IT. THIS LIMITATION OF LIABILITY APPLIES TO DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL, PUNITIVE OR OTHER DAMAGES YOU OR OTHERS MAY SUFFER, AS WELL AS DAMAGES FOR LOST PROFITS, BUSINESS INTERRUPTION OR THE LOSS OF DATA OR INFORMATION, EVEN IF WE ARE NOTIFIED IN ADVANCE OF THE POTENTIAL FOR ANY SUCH DAMAGES.  
+
+
+No confidentiality  
+
+
+Except for information necessary to request the Tacori email newsletter, we do not want to receive confidential or proprietary information or trade secrets through this Web site. Any information, materials, suggestions, ideas or comments sent to us will be deemed non-confidential, and by submitting it, you are granting us an irrevocable and unrestricted license to use, modify, reproduce, transmit, display and distribute it for any purpose whatsoever, with no payment or other compensation to you.  
+
+
+Applicable law  
+
+
+By visiting this Web site, you agree that the laws of the state of California , without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and us or any of our affiliates.  
+
+
+Disputes  
+
+
+Any dispute relating in any way to your visit to our Web site or to products purchased here shall be submitted to confidential arbitration in Los Angeles , California . However, if you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court in the state of California . You consent to exclusive jurisdiction and venue in such courts. Any arbitration under this agreement shall be conducted under the prevailing rules of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration with respect to this Web site or to products purchased here shall be joined to an arbitration involving any other party, whether through class arbitration proceedings or otherwise.  
+
+
+Protecting your information  
+
+
+As part of our ongoing commitment to ensure that your shopping experience with Tacori.com is protected, Tacori will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.  
+
