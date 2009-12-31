@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directorydemon.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523140825id_/http%3A//www.directorydemon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorydemon.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231223609id_/http%3A//www.directorydemon.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.directorydemon.com
+# Privacy Policy - directorydemon.com
 
-Privacy Policy for www.directorydemon.com 
+Privacy Policy for directorydemon.com 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at armaan.bhati@gmail.com. 
 
