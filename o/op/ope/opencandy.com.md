@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624071810id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231054731id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OpenCandy
+# Privacy Policy | Helping Software Developers and Users - OpenCandy
 
 We (OpenCandy, Inc.) know that you care about how your personal information is used and shared, and we take your privacy seriously. By visiting our website at http://www.OpenCandy.com (”OpenCandy.com”), or using any of our services or products, including the OpenCandy recommendation network, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
