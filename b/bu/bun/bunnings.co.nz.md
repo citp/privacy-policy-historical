@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626113054id_/http%3A//www.bunnings.co.nz/default_privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154742id_/http%3A//www.bunnings.co.nz/default_privacy-policy.aspx) for the most accurate reproduction.*
 
 # - - Bunnings Warehouse
 
 |   | 
 
 ####   
-Bunnings Group Limited   
+Bunnings Limited   
 PRIVACY STATEMENT
 
-Bunnings Group Limited is committed to protecting your privacy and personal information when you deal with us.
+Bunnings Limited is committed to protecting your privacy and personal information when you deal with us.
 
 Our privacy policy endorses and complies with the Commonwealth legislation governing privacy of personal information by businesses. 
 
@@ -35,7 +35,7 @@ E-mail [privacy@bunnings.com.au ](http://mailto:privacy@bunnings.com.au/)
 
 #### BUNNINGS PRIVACY POLICY 
 
-**Introduction** 1\. This Privacy Policy is Bunnings Group Limited (Bunnings) official privacy policy and it applies to all personal information collected by Bunnings. 
+**Introduction** 1\. This Privacy Policy is Bunnings Limited (Bunnings) official privacy policy and it applies to all personal information collected by Bunnings. 
 
 In this policy we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it. 
 
@@ -118,11 +118,12 @@ E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
 E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
-27\. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at [www.privacy.gov.au.](http://www.privacy.gov.au./)
+27\. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at [www.privacy.org.nz](http://www.privacy.org.nz/)
 
+   
 **Acceptance** 28\. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use. 
 
-All information ©2002 Bunnings Group Limited
+All information ©2002 Bunnings Limited
 
 |   
 ---|---|---
