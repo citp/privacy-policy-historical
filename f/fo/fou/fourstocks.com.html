@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fourstocks.com privacy policy that was archived on 2009-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090214193814id_/http%3A//www.fourstocks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fourstocks.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231144335id_/http%3A//www.fourstocks.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,6 +10,9 @@
 <meta name="copyright" content="Four Stocks">
 <meta name="revisit-after" content="2 days">
 <link href="/support/css/global.css" rel="stylesheet" type="text/css" media="screen">
+<!--[if IE]>
+<link href="/support/css/ie-fixes.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
 <script type="text/javascript" src="/support/js/generic.js"></script>
 </head>
 <body>
@@ -24,7 +27,7 @@
 			<!-- <a href="/" title="Home page"><img class="logo" src="/support/img/logo_4stocks_beta.jpg" alt="Four Stocks - Pick, learn, Invest" width="230" height="70"/></a> -->
 		
 						
-			<form name="formlogin" action="" method="post">
+			<form name="formlogin" action="" method="post" onsubmit="return false;">
 				<fieldset>
 					<ul id="user">
 						<li><a href="/new-password">Forgotten your password?</a></li>
@@ -35,8 +38,8 @@
 					<ul id="login">
 						
 						<li><label for="user">User</label><input class="txt" type="text" name="player_username" onkeypress="javascript:pressEnter(event,'formlogin','player_password','');"></li>
-						<li><label for="pasw">Pasword</label><input class="txt" type="password" name="player_password" onkeypress="javascript:pressEnter(event,'formlogin','','');"></li>
-						<li><label for="keep_logged">Keep me logged</label><input type="checkbox" name="keepmelogged" value="yes"></li>
+						<li><label for="pasw">Password</label><input class="txt" type="password" name="player_password" onkeypress="javascript:pressEnter(event,'formlogin','','checkLogin()');"></li>
+						<li><label for="keep_logged">&nbsp;&nbsp;Remember me</label><input type="checkbox" name="keepmelogged" value="yes"></li>
 						<li><a class="bot_log" href="javascript:checkLogin();"><img src="/support/img/button_login.gif" alt="login" width="58" height="16"></a></li>
 					</ul>
 				</fieldset>
@@ -48,11 +51,11 @@
 				<form name="formsearch" action="/results" method="post">
 					<fieldset>
 						<ul>
-							<li><strong>Search Options</strong></li>
+							<li><strong><b><u>Search Options</u></b></strong></li>
 							<li>
-							<input checked="checked" type="radio" name="tab" value="tickers"> Tickers 
+							<input checked="checked" type="radio" name="tab" value="tickers"> Ticker 
 							<input type="radio" name="tab" value="companies"> Company 
-							<input type="radio" name="tab" value="players"> Players 
+							<input type="radio" name="tab" value="players"> Member 
 							<input type="radio" name="tab" value="blogs"> Blogs
 							</li>
 							<li><input type="text" id="search" name="query">
@@ -64,30 +67,31 @@
 			<ul id="navlist">
 			<li><a href="/"><span>Home</span></a></li>
 <li><a href="/login?redirect=my-stocks"><span>My Stocks</span></a></li>
-<li><a href="/stocks"><span>Stocks</span></a></li>
-<li><a href="/players"><span>Players</span></a></li>
-<li><a href="/blog"><span>Blog</span></a></li>
 <li><a href="/top-lists"><span>Top Lists</span></a></li>
+<li><a href="/latest-picks"><span>Latest Picks</span></a></li>
+<li><a href="/stocks"><span>Stocks</span></a></li>
+<li><a href="/players"><span>Members</span></a></li>
+<li><a href="/blog"><span>Blog</span></a></li>
 <li><a href="/families"><span>Families</span></a></li>
-<li><a href="/competitions"><span>Competitions</span></a></li>
-<li><a href="/register"><span>Register</span></a></li>
-<li><a href="/help"><span>Help</span></a></li>
+<li><a href="/news"><span>News</span></a></li>
 			</ul>
 		
-			<a class="login_button" href="/login"><span>Login</span></a>
-	  	  </div><!--End header-->	
+			<ul id="navlist_right">
+			<li><a href="/help"><span>Help</span></a></li><li><a href="/register"><span>Register</span></a></li><li><a href="/login"><span>Login</span></a></li>			</ul>
+		
+				  	  </div><!--End header-->	
 	<div id="main_contain">
 		<div id="subheader">
 			<h1>PRIVACY POLICY</h1>
 			<p class="subtitle">&nbsp;</p>
 			<div id="index_tickers">
 <ul>
-<li><span class="tit"><a href="/indexes/sensex">SENSEX</a></span>9,634.7</li>
-<li><span class="t_up">168.9</span> <span class="percent">1.8%</span></li> 
+<li style="text-align:left;"><span class="tit" style="text-align:left;"><a href="/indexes/nifty">NIFTY</a></span><span style="padding-left:8px;padding-right:8px;text-align:left;">5,201.1</span>&nbsp;&nbsp;</li>
+<li><span class="t_up">31.6</span> <span class="percent">0.6%</span></li>
 </ul>
 <ul>
-<li><span class="tit"><a href="/indexes/nifty">NIFTY</a></span>2,948.4</li>
-<li><span class="t_up">55.3</span> <span class="percent">1.9%</span></li> 
+<li style="text-align:left;"><span class="tit" style="text-align:left;"><a href="/indexes/sensex">SENSEX</a></span><span style="padding-left:8px;padding-right:8px;text-align:left;">17,464.8</span>&nbsp;&nbsp;</li>
+<li><span class="t_up">121.0</span> <span class="percent">0.7%</span></li>
 </ul>
  
 </div>		</div>
@@ -119,17 +123,129 @@ If at any time you believe that <strong>fourstocks.com</strong> or its users/mem
 			
 			<div class="clearb"></div>
 		</div><!-- End container -->
-					<div id="col_ads_right">
-				<img src="/support/img/banner.gif" width="220" border="0" height="639" alt="Fourstocks.com" usemap="#banner">
+					<div id="col_home_right">
+				<!--
+				<img src="/support/img/banner.gif" width="220" border="0" height="639" alt="Fourstocks.com" usemap="#banner" />
 				<map name="banner">
 				<area shape="rect" coords="18,132,161,159" href="/quick-start">
 				</map>
+				-->
 				<!--
 				<img src="https://www.google.com/adsense/static/en_US/images/250x250.gif" width="220" height="250" alt="Skyscraper" />
 				<br /><br />
 				<img src="https://www.google.com/adsense/static/en_US/images/250x250.gif" width="220" height="250" alt="Skyscraper" />
 				-->
-			</div>			
+				
+								<div class="box_form">
+					 
+					
+				<table width="200" border="0" cellpadding="0" cellspacing="0" style="text-align:laft; margin-left:0px;">
+               <tbody><tr>
+                <td class="member_login_box" style="text-align:left; margin-left:0px;">
+
+<table border="0" width="100%" style="text-align:laft; margin-left:0px; padding-left:0px;">
+  <tbody><tr>
+     <td class="black_trebuchet" style="font-family: 'trebuchet MS',arial,verdana,tahoma; font-size: 18px;"><img src="http://www.fourstocks.com/images/login_key.gif" alt="" style="margin-right: 8px;" width="28" height="11"> <span style="color: rgb(51, 51, 51);"><strong>Member Login</strong>                    </span></td>
+    </tr>
+  <tr>
+    <td><form action="" method="post" id="formlogin2" onsubmit="return false;">
+					
+					<ul id="login">
+							
+						<li class="col1"><label for="user">Username</label></li>
+						<li class="col2"><input type="text" name="player_username" onkeypress="javascript:pressEnter(event,'formlogin2','player_password','');"></li>
+						<li class="col1"><label for="pasw">Password</label></li>
+						<li class="col2"><input type="password" name="player_password" onkeypress="javascript:pressEnter(event,'formlogin2','','checkLogin2()');"></li>
+						<li class="large"><label for="keep_logged">Remember me</label> <input type="checkbox" name="keepmelogged" value="yes"> 
+                        <a class="bot_log" href="javascript:checkLogin2();"> &nbsp;&nbsp;&nbsp;</a></li>
+					</ul>
+					
+					<input type="hidden" name="sent_login" value="true">
+					
+					</form></td>
+    </tr>
+  <tr>
+    <td height="10px"></td>
+    </tr>
+  <tr>
+    <td align="center"><a href="/register"><img src="http://www.fourstocks.com/images/btn_free_sing_up.gif" border="0" width="150"></a></td>
+  </tr>
+  <tr>
+    <td align="center" style="height:10px;"><!----><!----> </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="/new-password" style="color:#es8206; size:12px;" class="user"><strong>Forgotten your password?</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" style="height:10px;"></td>
+  </tr>
+  </tbody></table>
+ </td>
+              </tr></tbody></table>
+                
+                   <!-- <form action="" method="post" id="formlogin2" onsubmit="return false;">
+					
+					<ul id="login">
+							
+						<li class="col1"><label for="user">Username</label></li>
+						<li class="col2"><input  type="text" name="player_username" onkeypress="javascript:pressEnter(event,'formlogin2','player_password','');" /></li>
+						<li class="col1"><label for="pasw">Password</label></li>
+						<li class="col2"><input  type="password" name="player_password" onkeypress="javascript:pressEnter(event,'formlogin2','','checkLogin2()');" /></li>
+						<li class="large"><label for="keep_logged">Remember me</label> <input type="checkbox" name="keepmelogged" value="yes" /> <a class="bot_log" href="javascript:checkLogin2();">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+					</ul>
+					
+					<input type="hidden" name="sent_login" value="true" />
+					
+					</form>-->
+					
+					
+				</div>
+                <!--br /-->
+								
+								
+					<div class="box_blogs_col4">
+					<h2><u><a href="/players/klooloola">TOP INVESTOR</a></u></h2>					<div class="img_box">
+					<img src="/support/img/Member_profile_pics/img_1.gif" width="45" height="45" alt="Top Investor" border="0">					</div>
+					<div class="member_details_box">
+					<ul>
+					<li><a href="/players/klooloola"><b>klooloola</b></a></li>
+<li><b>Rank: 80 of 12668</b></li>
+<li><b>Picks: 50</b></li>
+<li><b>Accuracy: 78.0%</b></li>
+</ul></div><div class="clearb"></div><ul><li> Stock Returns per pick: <b>34.8%</b> </li>
+<li> Excess Returns per pick: <b>10.3%</b> </li>
+<li> <a href="/players/klooloola"><b> <u> View all picks by klooloola </u> </b></a></li>
+<li> <a href="/latest-picks"><b> <u> View picks by TOP MEMBERS </u> </b></a></li>
+</ul>					
+					<!--/div-->		
+					<br>			
+					</div>
+					<br>
+								
+				<div class="box_blogs_col">
+					<h2>TOP BLOGS</h2>
+						
+					<ul>
+					<li><a href="/blog/200912/extended_trading_hours_arent_that_bad/428">Extended Trading Hours Aren't That Bad</a><br>by <a href="/blog?blogger=Deepak_Shenoy"><u>DEEPAK SHENOY</u></a><br>Comments (0) | Recs (4)<br></li>
+<li><a href="/blog/200912/five_questions_on_asset_prices_and_monetary_policy/427">Five questions on asset prices and monetary policy</a><br>by <a href="/blog?blogger=Ajay_Shah"><u>AJAY SHAH</u></a><br>Comments (0) | Recs (2)<br></li>
+<li><a href="/blog/200912/analyzing_floating_rate_funds/426">Analyzing floating rate funds</a><br>by <a href="/blog?blogger=Rohit_Chauhan"><u>ROHIT CHAUHAN</u></a><br>Comments (0) | Recs (5)<br></li>
+<li><a href="/blog/200912/the_trading_hours_controversy/422">The trading hours controversy</a><br>by <a href="/blog?blogger=Ajay_Shah"><u>AJAY SHAH</u></a><br>Comments (0) | Recs (5)<br></li>
+<li><a href="/blog/200912/the_inflation_risk/425">The inflation risk</a><br>by <a href="/blog?blogger=Rohit_Chauhan"><u>ROHIT CHAUHAN</u></a><br>Comments (0) | Recs (3)<br></li>
+<li><a href="/blog/200912/keep_watch_on_dollar_index_/411">KEEP WATCH ON DOLLAR INDEX, </a><br>by <a href="/players/ASHOKSHARMA"><u>ASHOKSHARMA</u></a><br>Comments (0) | Recs (3)<br></li>
+<li><a href="/blog/200912/test_of_selection_and_patience/404">Test of selection and patience</a><br>by <a href="/blog?blogger=Rohit_Chauhan"><u>ROHIT CHAUHAN</u></a><br>Comments (0) | Recs (4)<br></li>
+<li><a href="/blog/200912/thoughts_for_december/397">Thoughts for December</a><br>by <a href="/players/goldlust"><u>goldlust</u></a><br>Comments (0) | Recs (9)<br></li>
+<li><a href="/blog/200912/taxes_still_not_reflecting_an_upturn/400">Taxes: Still Not Reflecting An Upturn</a><br>by <a href="/blog?blogger=Deepak_Shenoy"><u>DEEPAK SHENOY</u></a><br>Comments (0) | Recs (4)<br></li>
+<li><a href="/blog/200912/analysis__cement_companies/402">Analysis – Cement companies</a><br>by <a href="/blog?blogger=Rohit_Chauhan"><u>ROHIT CHAUHAN</u></a><br>Comments (0) | Recs (5)<br></li>
+<li><a href="/blog/200912/growth_and_inflation__highs_spell_danger/401">Growth and Inflation - Highs Spell Danger?</a><br>by <a href="/blog?blogger=Deepak_Shenoy"><u>DEEPAK SHENOY</u></a><br>Comments (0) | Recs (4)<br></li>
+<li><a href="/blog/200912/midcap_stocks_to_fire_in_next_rally/386">Midcap stocks to fire in next rally</a><br>by <a href="/blog?blogger=Nooresh_Merani"><u>NOORESH MERANI</u></a><br>Comments (0) | Recs (6)<br></li>
+<li><a href="/blog/200911/uti_first_on_mutual_fund_platform/385">UTI First on Mutual Fund Platform</a><br>by <a href="/blog?blogger=Deepak_Shenoy"><u>DEEPAK SHENOY</u></a><br>Comments (0) | Recs (5)<br></li>
+<li><a href="/blog/200911/dubais_great_crash/384">Dubai's great crash</a><br>by <a href="/blog?blogger=Ajay_Shah"><u>AJAY SHAH</u></a><br>Comments (1) | Recs (6)<br></li>
+<li><a href="/blog/200911/analysis__tata_sponge_iron_ltd/374">Analysis – Tata Sponge Iron Ltd</a><br>by <a href="/blog?blogger=Rohit_Chauhan"><u>ROHIT CHAUHAN</u></a><br>Comments (0) | Recs (6)<br></li>
+					</ul>
+				
+					<p><a href="/blog">View all blogs</a></p>
+				</div>
+							</div>			
 		<div class="clearb"></div>
 	
 	</div><!--End main container-->
@@ -141,12 +257,19 @@ If at any time you believe that <strong>fourstocks.com</strong> or its users/mem
 <div class="clearb"></div>
 		
 	<div id="footer">
-	  <p>Copyright © 2008 FourStocks Pvt Ltd. All rights reserved | <a href="/login">Login</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/terms">Terms of Service</a> | <a href="/help">Help</a> | <a href="/contact-us">Feedback</a><br>
+	  <p>Copyright © 2009 Tetra Media Pvt Ltd All rights reserved | <a href="/login">Login</a> | <a href="/aboutfourstocks">About Us</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/terms">Terms of Service</a>| <a href="/links">Links</a>| <a href="/articles">Articles</a> | <a href="/help">Help</a> | <a href="/contact-us">Feedback</a> | <a href="/register">Register</a><br>
 NOTICE: We collect personal information on this site. To learn more about how we use your information, see our <a href="/privacy-policy">Privacy Policy</a></p>
 	<p>Quotes delayed, except where indicated otherwise.<br>
 Delay times are 15-20 mins for BSE and NSE.</p>
 
 	<p>All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Prior to execution of any security trade, you are advised to consult your authorized financial advisor to verify the accuracy of all information. Neither FourStocks nor any independent provider is liable for any informational errors, incompleteness or delays or for any actions taken in reliance on information contained herein. By accessing <a href="/">www.fourstocks.com</a>, you agree not to redistribute the information found herein.<br><br></p>
+<p align="left"> <!-- Site Meter -->
+<script type="text/javascript" src="http://s21.sitemeter.com/js/counter.js?site=s21fourstocks">
+</script>
+<noscript>
+<a href="http://s21.sitemeter.com/stats.asp?site=s21fourstocks" target="_top" style="color:#fcfcfc"></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter --></p>
 	
 	<!-- Developed: <a href="http://www.josegomez.co.uk/" target="_blank">josegomez.co.uk</a> - Design: <a href="http://www.mariobastian.com" target="_blank">Mario Bastian</a> - <a href="http://validator.w3.org/check?uri=referer" target="_blank">Valid XHTML 1.0 Transitional</a> -->
 	</div><!--End footer-->
