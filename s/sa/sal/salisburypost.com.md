@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044944id_/http%3A//sls.live.mediaspanonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231072609id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.*
 
-# SalisburyPost.com
+# Privacy - Salisbury, North Carolina - The Salisbury Post
 
 **WEBSITE PRIVACY STATEMENT**
 
@@ -60,13 +60,28 @@ This Privacy Statement may be changed from time to time, so we encourage you to 
 
 **Post Publishing Company, Inc.**  
 Website Privacy Issues  
-c/o **[Brad Thomas](mailto:bthomas@salisburypost.com)**   
+c/o **[Jeremy Judd](mailto:jjudd@salisburypost.com)**   
 **PO BOX 4639**  
 **Salisbury, NC 28145**  
 Phone: (704) 797-4280  
 Fax: (704) 639-0003  
-Email: [bthomas@salisburypost.com](mailto:bthomas@salisburypost.com)
+Email: [jjudd@salisburypost.com](mailto:jjudd@salisburypost.com)
 
 The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is [Brad Thomas](mailto:bthomas@salisburypost.com), whose address is PO BOX 4639 Salisbury, NC 28145. Third parties accessible through this Site may have their own such operators.
 
 Copyright © 2007, **Post Publishing Company, Inc..** All rights reserved.
+
+******************** Marketplace Miner ********************
+
+******************** Poll ********************
+
+What was the biggest local news story in 2009?
+
+  
+
+
+******************** Latest Photos ********************
+
+\+ [View more of our photos](http://salisburypost.mycapture.com/mycapture/index.asp) | [Buy Prints](http://salisburypost.mycapture.com/mycapture/index.asp)  
+\+ [View user submitted photos](http://salisburypostables.com/) **  
+**
