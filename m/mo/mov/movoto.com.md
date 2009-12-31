@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624075442id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231090537id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Movoto Real Estate - Privacy Policy
 
-Movoto takes your privacy seriously. At Movoto we created this policy to demonstrate our commitment to ensuring that your personal information remains safe and secure. For information about safe surfing from the FTC, see <http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm>. 
+Movoto takes your privacy seriously. At Movoto we created this policy to demonstrate our commitment to ensuring that your personal information remains safe and secure. For information about safe surfing from the FTC, see <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec04.shtm>. 
 
-This policy applies to the Movoto website(s) and our interactions with Movoto clients and covers how Movoto collects and treats information that is personally identifiable, like name, address, email address or phone number.At its sole discretion, Movoto will update this privacy policy statement from time to time. You are responsible for regularly reviewing this Privacy Policy and any applicable changes. Continued use of the service after any changes take effect will constitute your acceptance of such changes. You can review the current version of this Privacy Policy at any time at [http://www.movoto.com](http://www.movoto.com/). 
+This policy applies to the Movoto website(s) and our interactions with Movoto clients and covers how Movoto collects and treats information that is personally identifiable, like name, address, email address or phone number. At its sole discretion, Movoto will update this privacy policy statement from time to time. You are responsible for regularly reviewing this Privacy Policy and any applicable changes. Continued use of the service after any changes take effect will constitute your acceptance of such changes. You can review the current version of this Privacy Policy at any time at [http://www.movoto.com](http://www.movoto.com/). 
 
 **I. What personally identifiable information is collected?**   
   
@@ -18,13 +18,13 @@ We receive and store your account information during registration. When you regi
 **   
 We automatically track certain information to understand how the site is used and how we can improve your overall experience and offer additional functionality, products and services. This information includes the IP address, browser type, operating system, URLs and referring URLs. Our website uses cookies to keep track of this information while you are visiting or using Movoto. Cookies are very small files placed on your computer so that, when you return to Movoto, we can identify you. Cookies are needed for the Movoto site to operate properly. 
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The information we collect may be personally identifiable and includes the pages visited, search terms used, time on the site and completion of certain tasks on the site. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company manages the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out of our ability to analyze such data by clicking here <http://metric.movoto.com/optout.html>. 
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The information we collect is anonymous and includes the pages visited, search terms used, time on the site and completion of certain tasks on the site. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company manages the information coming from our site on our behalf, we control how that data may and may not be used. 
 
 **II. How is personally identifiable information used and shared?**
 
 When appropriate, we will ask for information that personally identifies you (personal information) or allows us to contact you. Generally, this information will be requested when you register for a Movoto account, perform property searches, or request other information through our site. Movoto uses this information for the purpose of fulfilling your requests for products and services, improving our services, conducting research, and customizing the content and advertising you see. 
 
-When you provide your personal information to Movoto, you agree that Movoto may use that information to contact you. For example, we may send you e-mail communications related to real estate information, services or products that we believe may be of interest to you. Similarly, if you provide your phone number we may call you to discuss a request for information or to introduce you to a real estate professional. If you do not want to receive such e-mails or phone calls from Movoto, contact us at privacy@movoto.com or click on the "opt-out" link contained in the e-mails. 
+When you provide your personal information to Movoto, you agree that Movoto may use that information to contact you. For example, we may send you e-mail communications related to real estate information, services or products that we believe may be of interest to you. Similarly, if you provide your phone number we may call you to discuss a request for information or to introduce you to a real estate professional. If you do not want to receive such e-mails or phone calls from Movoto, contact us at [movoto.privacy@gmail.com](mailto:movoto.privacy@gmail.com "mailto:movoto.privacy@gmail.com") or click on the "opt-out" or "Manage My Account" link contained in the e-mails. 
 
 Movoto maintains a company Do-Not-Call List in compliance with California and Federal laws. For a copy of Movoto's Do Not Call Policy, please see section 5 below. 
 
@@ -34,9 +34,9 @@ Movoto does not rent, sell, or share personal information about you with other p
 
 **III. Your ability to change your privacy settings  
 **   
-You may opt out of receiving e-mails, e-mail updates and alerts and phone calls by contacting Movoto at [privacy@movoto.com](mailto:privacy@movoto.com). Your account can be deactivated by contacting Movoto at [privacy@movoto.com](mailto:privacy@movoto.com). You may also turn off cookies in your browser. 
+You may opt out of receiving e-mails, e-mail updates and alerts and phone calls by contacting Movoto at [movoto.privacy@gmail.com](mailto:movoto.privacy@gmail.com "mailto:movoto.privacy@gmail.com"). Your account can be deactivated by contacting Movoto at [movoto.privacy@gmail.com](mailto:movoto.privacy@gmail.com "mailto:movoto.privacy@gmail.com"). You may also turn off cookies in your browser. 
 
-In addition, you may request that Movoto not share your personal data with third parties. In order to opt out of Movoto data sharing, you must turn off cookies in your browser and contact Movoto at [privacy@movoto.com](mailto:privacy@movoto.com "mailto:privacy@movoto.com"). Movoto participates with certain advertisers that belong to the Network Advertising Initiative. You may opt out of data sharing with advertisers who belong to the Network Advertising Initiative at <http://networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **IV. Security measures to protect your information**
 
@@ -58,9 +58,9 @@ Movoto requires our sales staff, affiliated real estate agents and other personn
 
 **Our Affiliated Entities:** A do-not-call request applies to Movoto and our affiliated agents for the purposes of Movoto initiated business contact. 
 
-**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care.
+**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1155 Broadway St Ste 205, Redwood City, CA 94063. We can also be reached by fax at (650) 556-0060, or by phone at (888) 766-8686.
 
-© 2004-2008 by Movoto LLC. All rights reserved. Patent Pending. 
+© 2004-2009 by Movoto LLC. All rights reserved. Patent Pending. 
 
   
 
