@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084310id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231085321id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
 
-# ABC Reading Eggs
+# Privacy | ABC Reading Eggs
 
 ## Privacy Policy
 
@@ -76,6 +76,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 By using our site, you consent to our privacy policy.
 
-This website is published by Blake Publishing. The ABC Connect trade mark is used under license by the Australian Broadcasting Corporation.
+This website is published by Blake Publishing.  
+The ABC Connect trade mark is used under license by the Australian Broadcasting Corporation.
 
 We have created this privacy policy in accordance with the Commonwealth Privacy Act 1988 (Cth).
