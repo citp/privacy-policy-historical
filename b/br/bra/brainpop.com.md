@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502104337id_/http%3A//www.brainpop.com/support/privacy_policy.weml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231051912id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
 
-# BrainPOP - Health, Science, Technology, Math, English Animation and Educational Site for Kids.
+# BrainPOP | Privacy Policy
 
 > >   
 > 
 >> 
->> BrainPOP.com, BrainPOP Junior, BrainPOP Español and all BrainPOP products are owned and operated by BrainPOP. BrainPOP is a business name of FWD Media, Inc(referred to herein as “BrainPOP”,“us” or “we”). This document explains what information we collect about visitors and subscribers (together referred to as “Users” or “You”) to our websites and how we use this information. 
+>> BrainPOP.com, BrainPOP Junior, BrainPOP Español, BrainPOP ESL and all BrainPOP products are owned and operated by BrainPOP and it's affiliates. BrainPOP is a business name of FWD Media, Inc(referred to herein as “BrainPOP”,“us” or “we”). This document explains what information we collect about visitors and subscribers (together referred to as “Users” or “You”) to our websites and how we use this information. 
 >> 
 >> The privacy of those who visit our websites is important to us. We support the goals and guidelines set forth by oversight laws and bodies such as the Children's Online Privacy Protection Act of 1998 (COPPA), the Center for Media Education (CME), the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus and other organizations devoted to providing online safety and privacy for children, households, parents and schools. 
 >> 
