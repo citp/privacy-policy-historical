@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315071213id_/http%3A//www.4checks.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231102732id_/http%3A//www.4checks.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
