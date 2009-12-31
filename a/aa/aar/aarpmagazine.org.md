@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624215951id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231095152id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -108,7 +108,7 @@ When you click to unaffiliated third-party sites, AARP is not responsible for, a
 
 It is important to understand that the information you submit in personal profiles, message boards, journals, chat rooms, and user groups is publicly displayed. Your messages will be seen by people and organizations not related to AARP, and may be used by these third parties to contact you. As a result, you should be very careful about the information that you publish online. Because these unrelated parties will also see your "User Name" on any postings that you make in online discussions, you may not want to use your full name. You can use your first name only, or use an assumed name, if you like. Read the 
 
-_[Terms of Service](http://www.aarp.org/aarp/articles/terms_of_service.html)_
+_[Terms of Service](https://web.archive.org/aarp/articles/terms_of_service.html)_
 
 to learn more about using the AARP Online Community.
 
