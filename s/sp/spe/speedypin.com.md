@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114052id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231060549id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
 
 # SpeedyPin LLC FAQs » Privacy » General
 
@@ -16,7 +16,7 @@ The information you provide is used by our staff to verify the authenticity of y
 
  ** _Is the information I provide during registration secure?_** (e6b81)
 
-Yes! Data processed from SpeedyPin is encrypted by THAWTE's 128 bit Secure Socket Layer (SSL) and stored in a secure database for internal use only. SSL is the industry standard in ecommerce protection.
+Yes! Data processed from SpeedyPin.com is encrypted by 128 bit Secure Socket Layer (SSL) and stored in a secure database for internal use only. SSL is the industry standard in ecommerce protection.
 
   
 
