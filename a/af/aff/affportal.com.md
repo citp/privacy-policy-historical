@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affportal.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629194253id_/http%3A//www.affportal.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affportal.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231155246id_/http%3A//www.affportal.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
