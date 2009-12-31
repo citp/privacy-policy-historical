@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyt.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618023920id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyt.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025026id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
@@ -12,7 +12,7 @@
 
 
   
-_Last Updated on April 9, 2009_
+_Last Updated on July 1, 2009_
 
 The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our [complete Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
 
