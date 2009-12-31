@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629112936id_/http%3A//www.expresspros.com/us/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231084419id_/http%3A//www.expresspros.com/us/company/privacy.aspx) for the most accurate reproduction.*
 
 # Express Employment Professionals
 
@@ -11,7 +11,7 @@ We respect the privacy rights our clients, employees, applicants, associates and
 Express collects and uses personal information to respond to requests for information, products and services. Unless we have your express consent, your personal information will only be used or shared to fulfill your request. Express collects personal information when you: 
 
   * Subscribe to newsletters or utilize our web sites to seek employment or employees. Your e-mail address is collected and will only be used to send you the newsletter(s) or the services you have requested. You may subscribe or unsubscribe from our e-mail communications at any time.
-  * Request for Express� staffing services. Information such as name, e-mail address, phone number, physical address and company-related information may be requested. If you purchase one of our services, we may also collect a valid credit card number, expiration date and billing address.
+  * Request for Express' staffing services. Information such as name, e-mail address, phone number, physical address and company-related information may be requested. If you purchase one of our services, we may also collect a valid credit card number, expiration date and billing address.
   * Participate in a promotion or online survey in which we ask you for contact information (like e-mail address), and we may ask for additional optional survey information (like service preferences). We use this information to administer the program or activity, to notify winners, and, if you give us your opt-in consent at the time we collect your information, to send you promotional materials.
   * Contact Express with a question or suggestion in which we collect your name, e-mail address and any comments you have. We only use this information to respond to and/or resolve your question or concern.
   * Apply for employment with Express. We ask you to submit your contact information and resume. This information will only be used to evaluate your qualifications for the desired position and possibly to contact you for further information. Resume Viewing: If you choose to place a resume with us, your information will be available to all our franchise offices and our two professional placement affiliates (RWJ and Express Professional). Your information will not be made available to outside companies or entities.
@@ -55,6 +55,6 @@ Express Services Inc.
 Oklahoma City, OK 73162  
 Phone: 1-405-840-5000  
 Fax: 1-405-717-5516  
-[Email the Webmaster](https://web.archive.org/web/20090629112936id_/http%3A//www.expresspros.com/us/contact.aspx)
+[Email the Webmaster](https://web.archive.org/web/20091231084419id_/http%3A//www.expresspros.com/us/contact.aspx)
 
 We will address your concern and attempt to resolve any problem.
