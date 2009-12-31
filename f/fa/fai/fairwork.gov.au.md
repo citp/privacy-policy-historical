@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628192824id_/http%3A//www.fairwork.gov.au/Footer/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231011102id_/http%3A//www.fairwork.gov.au/Footer/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,6 +14,10 @@ We adhere to:
 
 
 (The guidelines focus on what should be done to make sure there is transparent collection, appropriate and ethical use and secure storage of your personal information.)
+
+### 
+
+More information on privacy
 
 ## Collecting & using personal information
 
