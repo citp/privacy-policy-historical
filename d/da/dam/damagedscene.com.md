@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the damagedscene.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625193344id_/http%3A//www.damagedscene.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damagedscene.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231141007id_/http%3A//www.damagedscene.com/privacy-policy.php) for the most accurate reproduction.*
 
-# SUMMER LAYOUTS, SUMMER GRAPHICS, DEFAULT LAYOUTS, SKINNY LAYOUTS, DOUBLE BACKGROUND, PHOTOGRAPHY, CUTE LAYOUTS & MUCH MORE!
+# DAMAGED SCENE - Winter Layouts, Christmas Layouts, Myspace Layouts, Default Layouts, Skinny layouts, Page Graphics, Photography Graphics, xmas layouts, Surveys & much more!
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
