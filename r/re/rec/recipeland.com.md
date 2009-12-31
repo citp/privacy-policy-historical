@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727142308id_/http%3A//www.recipeland.com/notice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231011142id_/http%3A//recipeland.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Recipes: Privacy Policy -
+# privacy_policy | Recipes @ RecipeLand.com
 
-## RecipeLand.com Privacy Policy
-
-At RecipeLand.com we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the RecipeLand.com Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us at recipes@recipeLand.com. 
+At RecipeLand.com we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the RecipeLand.com Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us using [this form](https://web.archive.org/feedback). 
 
 **Note to children under the age of 13**  
 If you're under 13, you must provide us with written permission from your parents before sending any information about yourself to us over the Internet. 
@@ -54,14 +52,10 @@ RecipeLand.com, as well as most sites on the Internet, use "cookies" to enhance 
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
-_RecipeLand works with a third party that serves ads to this site._
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-**Third Party Advertising**
+Google, as a third party vendor, uses cookies to serve ads on your site.
 
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-[Back to the Site](https://web.archive.org/)
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
