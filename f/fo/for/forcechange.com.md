@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106142456id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcechange.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231190050id_/http%3A//forcechange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForceChange
 
