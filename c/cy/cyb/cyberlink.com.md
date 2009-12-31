@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228200043id_/http%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231010225id_/http%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
 
 # CyberLink sitemap
 
@@ -34,6 +34,6 @@ Changes to this Statement may be made from time to time. Though some specific wo
 
 ### **Contact CyberLink**
 
-If you would like to contact CyberLink about your personal information and/or privacy, please contact us through the following Web page: [Contact Webmaster](https://web.archive.org/stat/company/enu/contact-webmaster.jsp). If you are receiving the CyberLink Newsletter but would like to unsubscribe, you can do so by clicking on the unsubscribe link at the bottom of the newsletter, or by clicking [here](https://membership.cyberlink.com/english/membership_program/member_area/subscription_status.jsp). If you would like to contact CyberLink about a general inquiry, please click [here](https://web.archive.org/prog/company/contact-mkt.do).
+If you would like to contact CyberLink about your personal information and/or privacy, please contact us through the following Web page: [Contact Webmaster](https://web.archive.org/stat/company/enu/contact-webmaster.jsp). If you are receiving the CyberLink Newsletter but would like to unsubscribe, you can do so by clicking on the unsubscribe link at the bottom of the newsletter, or by clicking [here](https://membership.cyberlink.com/prog/member/service/update-profile.do). If you would like to contact CyberLink about a general inquiry, please click [here](https://web.archive.org/prog/company/contact-mkt.do).
 
 **CyberLink Corp.** Privacy Statement last updated on August 7, 2008.
