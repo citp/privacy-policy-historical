@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsports.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061251id_/http%3A//www.outsports.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsports.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231120612id_/http%3A//outsports.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Outsports: The Home For Gay Sports Fans and Athletes
 
@@ -24,6 +24,9 @@ The Discussion Board may contain links to other sites posted by users. Please be
 
 **Security**  
 Outsports takes every precaution to protect our users' information. Only Outsports staff have access to this personal information.
+
+**Third-party advertisers**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If you have any questions about the security at our website, you can send an **[e-mail.](mailto:mail@outsports.com)**
 
