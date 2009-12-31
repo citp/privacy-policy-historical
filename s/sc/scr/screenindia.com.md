@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628080009id_/http%3A//www.screenindia.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231150847id_/http%3A//www.screenindia.com/static/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Screenindia.com
 
