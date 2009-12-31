@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildwalks.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429204615id_/http%3A//www.wildwalks.com/office/office/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildwalks.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231072746id_/http%3A//www.wildwalks.com/office/office/privacy.html) for the most accurate reproduction.*
 
 # Wildwalks - Privacy
 
@@ -14,10 +14,10 @@ Information that in some way identifies you may be gathered when you use our web
 
  **Information collected from web browsing**  
 When you view the Wildwalks website, we collect the following information:   
-• your IP (internet protocol) address or host name eg. 123.123.123.12 or xxx.yyy.com.au   
+• your IP (Internet protocol) address or host name eg. 123.123.123.12 or xxx.yyy.com.au   
 • the date and time you visited the website   
 • the pages or documents you download   
-• the web browser, operating system, screen resolution, internet settings you are using   
+• the web browser, operating system, screen resolution, Internet settings you are using   
 • the previous site you visited, if you reached our website by clicking on a link   
 • whether you have previously visited our website (only if you accept Cookies).
 
