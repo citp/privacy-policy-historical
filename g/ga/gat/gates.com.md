@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618083108id_/http%3A//www.gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231225352id_/http%3A//www.gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
 
 # The world's most trusted name in belts, hoses & hydraulics | Gates Corporation
 
