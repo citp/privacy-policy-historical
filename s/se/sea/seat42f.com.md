@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615185200id_/http%3A//seat42f.com/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231175855id_/http%3A//seat42f.com/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy) for the most accurate reproduction.*
 
 # Seat42f Privacy Policy
 
@@ -37,5 +37,5 @@ This Privacy Policy was last modified on September 17, 2007 and is effective imm
 Copyright © 2007 Seat42f - All Rights Reserved.
 
   
-[Next >](http://seat42f.com/index.php/component/content/article/7-examples/2037-connect-with-seat42f)  
+[Next >](http://seat42f.com/index.php/component/content/article/7-examples/2037-connect-with-seat42f.html)  
 ---
