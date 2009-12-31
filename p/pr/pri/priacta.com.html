@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the priacta.com privacy policy that was archived on 2009-03-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090303155755id_/http%3A//www.priacta.com/Information/Privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the priacta.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231145802id_/http%3A//www.priacta.com/Information/Privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- (c) Copyright 2007-2008 Priacta, Inc. All rights reserved. --><head>
 	<!-- top boxes on index page -->
@@ -8,8 +8,11 @@
   <meta name="copyright" content="Copyright Priacta, Inc. 2007">
   <!-- Stylesheet includes for two tiers -->
   <link href="/css2/all.css" rel="stylesheet" type="text/css">
+  <link href="/css2/droppy.css" rel="stylesheet" type="text/css">
   <link rel="SHORTCUT ICON" href="/images/favicon.ico">
   <script type="text/javascript" src="/js/marquee.js"></script>
+  <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.droppy.js"></script>
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="/css2/pngfix.js"></script>
 <![endif]-->
@@ -55,8 +58,8 @@ papTrack();
 <!--login goes here-->
 <div class="login">
 <ul>
-<li style="border:none;" class="active"><a href="/troonline/onlinetraining.php?display=login">Online Training Login</a></li>
-<li><a href="/troonline/onlinetraining.php?display=signup">Sign Up Free</a></li>
+<li style="border:none;" class="active"><a href="/troonline/onlinetraining.php">Online Training Login</a></li>
+<li><a href="/store/online-training-system-6.html">TRO Online Signup</a></li>
 </ul>
 </div>
 
@@ -78,9 +81,9 @@ function openInNewWindow(location) {
 </script>
 
 
-<div id="div_offline" class="help_box call_help_box" onclick="var newWindow = openInNewWindow('/Support/');">
+<div id="div_offline" class="help_box call_help_box" onclick="var newWindow = openInNewWindow('/Support/TRO_Coach_Support.shtml');">
 <div class="helplf"><div class="helprf">
-  <p class="help_textbig">Ask a Coach</p>
+  <p class="help_textbig">Free Coaching</p>
   <p class="gray_text"><span class="orange_text">Call Free 1 888 PRIACTA</span> US/CA</p>
 </div></div>
 </div>
@@ -90,16 +93,108 @@ function openInNewWindow(location) {
 
 <div class="display">
 <div class="navigation">
-<ul>
+<ul id="nav">
 <li><a href="/">HOME</a></li>
-<li><a href="/Training">WHAT IS TRO?</a></li>
+<li><a href="/Training/">WHAT IS TRO?</a>
+  <ul>
+    <li><a href="/Training/">Total, Relaxed Organization</a></li>
+    <li><a href="/Training/Training_FAQ.shtml#TROandGTD">TRO vs. GTD</a></li>
+  </ul>
+</li>
+<!-- Removed these entries, because we moved them under TRAINING now
 <li><a href="/Training/Remote_Training.shtml">COACHING</a></li>
-<li><a href="/Training/troonline.php">TRAINING</a></li>       
-<li><a href="/trog">SOFTWARE</a></li>       
-<li><a href="/store">STORE</a></li>       
-<li><a href="/Support">SUPPORT</a></li>       
- 
+-->
+<li><a href="/Training/troonline.php">TRAINING</a>
+  <ul>
+    <li><a href="/Training/">Total, Relaxed Organization</a></li>
+    <li><a>Training Options</a>
+      <ul>
+        <li><a href="/Training/Self_Training.shtml">Self Training</a></li>
+        <li><a href="/Training/troonline.php">Online Training</a></li>
+        <li><a href="/Training/troonline.php#Tools">&nbsp;-&nbsp;Supported Tools</a></li>
+        <li><a href="/Training/Remote_Training.shtml">Trained by a Coach</a></li>
+        <li><a href="/Training/Team_Training.shtml">Group Training</a></li>
+      </ul>
+    </li>
+    <li><a href="/testimonials.php">Testimonials</a></li>
+    <li><a href="/Training/stats.php">Live Statistics</a></li>
+    <li><a href="/Training/Training_FAQ.shtml">FAQs</a></li>
+    <li><a href="/Information/Guarantee.shtml">Money-Back Guarantee</a></li>
+    <li><a href="/troonline/onlinetraining.php">Online Training Login</a></li>
+  </ul>
+</li>
+<li><a href="/trog">SOFTWARE</a>
+  <ul>
+    <li><a href="/trog/">Trog Bar</a></li>
+    <li><a href="/trog/">&nbsp;-&nbsp;Download</a></li>
+    <li><a href="/store/software/">&nbsp;-&nbsp;Buy</a></li>
+<!--     <li><a href="/trog/history.php">History</a></li> -->
+    <li><a href="/testimonials.php#Trog">&nbsp;-&nbsp;Testimonials</a></li>
+    <li><a href="/Support/Trog_FAQ.shtml">&nbsp;-&nbsp;FAQs</a></li>
+    <li><a href="/Information/Guarantee.shtml">Money-Back Guarantee</a></li>
+    <li><a href="/Articles/Comparison_of_GTD_Software.php">GTD Software Comparison</a></li>
+  </ul>
+</li>       
+<li><a href="/store">STORE</a>
+  <ul>
+    <li><a href="/store/">Popular</a></li>
+    <li><a href="/store/training/">Training and Coaching</a></li>
+    <li><a href="/store/software/">Software</a></li>
+    <li><a href="/store/support/">Support</a></li>
+    <li><a href="/store/customer/account/">My Account</a></li>
+  </ul>
+</li>       
+<li><a href="/Support">SUPPORT</a>
+  <ul>
+    <li><a href="/forum/">Forum</a></li>
+    <li><a href="/Support/TRO_Online_Support.shtml">TRO Online Support</a>
+      <ul>
+        <li><a href="/forum/">Forum</a></li>
+        <li><a href="/Support/Phone_Number.shtml#Number">Call a Coach FREE</a></li>
+        <li><a href="/Support/Email.shtml">Email a Coach FREE</a></li>
+        <li><a href="/Support/TRO_Tech_Support.shtml">Tech Support</a></li>
+        <li><a href="/Training/Training_FAQ.shtml">Training FAQs</a></li>
+      </ul>
+    </li>
+    <li><a href="/Support/Trog_Bar_Support.shtml">Trog Bar Support</a>
+      <ul>
+        <li><a href="/trog/Quick_Start.shtml?src=support">Quick Start Guide</a></li>
+        <li><a href="/15minutecoach/">15 Minute Coaches</a></li>
+        <li><a href="/Support/Trog_FAQ.shtml">Trog Bar FAQs</a></li>
+        <li><a href="/forum/">Forum</a></li>
+        <li><a href="/Support/Email.shtml">Email</a></li>
+        <li><a href="/Support/Phone_Number.shtml#Number">Phone</a></li>
+      </ul>
+    </li>
+    <li><a href="/Support/TRO_Coach_Support.shtml">Ask a Coach</a></li>
+    <li><a href="/Support/TRO_Tech_Support.shtml">Tech Support</a></li>
+    <li><a href="/blogs/">Blogs &amp; Twitter</a></li>
+    <li><a href="/Articles/">Video and Articles</a></li>
+    <li><a href="/gismos/">Recommended Gismos</a></li>
+  </ul>
+</li>
+<li><a href="/Support/affiliate/">AFFILIATES</a>
+  <ul>
+    <li><a href="/Information/Strategic_Partner.shtml">Strategic Partner Programs</a></li>
+    <li><a href="/Support/affiliate/commissions.php">Affiliate Details</a></li>
+    <li><a href="/Support/affiliate/faq.php">FAQs</a></li>
+    <li><a href="/affiliate/signup.php">Signup</a></li>
+    <li><a href="/Support/affiliate/">Support</a></li>
+    <li><a href="/affiliate/affiliates/login.php#login">Login</a></li>
+  </ul>
+</li>
+<li style="background:none; padding-right:0;"><a href="/Information/Priacta.shtml">COMPANY</a>
+  <ul>
+    <li><a href="/Information/Priacta.shtml">About Priacta</a></li>
+    <li><a href="/blogs">Blogs</a></li>
+    <li><a href="http://www.twitter.com/priacta">Twitter</a></li>
+    <li><a href="/Information/Career.shtml">Career</a></li>
+  </ul>
+</li>
+<!-- Removed these entries, because we moved them under the new "COMPANY" entry
+<li><a href="/blogs">BLOGS</a></li>
 <li style="background:none;  padding-right:0;"><a href="/Information/Career.shtml">CAREER</a></li>
+-->
 </ul>
 <div class="clear"></div>
 </div>
@@ -107,7 +202,11 @@ function openInNewWindow(location) {
 
 </div>
 
-
+<script type="text/javascript">
+  $(function() {
+    $('#nav').droppy({speed: 200});
+  });
+</script>
 
 
 
@@ -122,7 +221,7 @@ function openInNewWindow(location) {
 </div>
 </div>
 <!-- top header ends here-->
-		<div id="header" class="sloganbar"><div class="wrap"><h1>Life-Changing Time Management. <i>Now.</i></h1></div></div>			<div id="content"><div class="wrap">			
+		<div id="header" class="sloganbar"><div class="wrap"><h1>Life-Changing Time Management. <i>Guaranteed.</i></h1></div></div>			<div id="content"><div class="wrap">			
 			<div class="content_rf"><div class="side">				<h3>Time Management Coaching</h3>
 				<a href="/Training">
 	<h4>Total, Relaxed Organization</h4>
@@ -139,11 +238,11 @@ function openInNewWindow(location) {
 
 				<p>&nbsp;</p>
 				<h3>Time Management Software</h3>
-				<a href="/trog/Free_Software_Download.shtml?src=logo">
+				<a href="/trog/?src=logo">
     <img src="/images/trog-splash-logo-261.png" alt="Download Trog Bar. Free 30 Day Trial." title="Download Trog Bar. Free 30 Day Trial.">  
 </a>			
 
-				<a href="/trog/Free_Software_Download.shtml">
+				<a href="/trog/">
     <h4>The Trog Bar</h4>
     <p>Download our smart time management sidebar. 
     <font color="red"><b>$45 value. FREE with TRO Online training.</b></font></p>
@@ -151,26 +250,26 @@ function openInNewWindow(location) {
 
 				<p>&nbsp;</p>
 				<h3>More About Priacta</h3>
-				<a href="/Information/Priacta.shtml">
+				<a href="/Information/Priacta.shtml" target="_blank">
 	<h4>Our Mission and Values</h4>
 	<p>Priacta's mission is to expedite the world's work. We're having 
 	fun in the process.</p>
 </a>
 
-				<a href="/Information/Strategic_Partner.shtml#Referral">
-	<h4>Affiliate Program</h4>
-	<p>Give away free stuff. Help others. Use a cool widget.
-	Earn money.	Way beyond a typical affiliate program.</p>
+				<a href="/Information/Strategic_Partner.shtml#Referral" target="_blank">
+	<h4>Affiliate / Referral Program</h4>
+	<p>Earn up to 50% by helping others find time. 
+  They'll love you forever. Easy.</p>
 </a>
 
 
-				<a href="/Information/Career.shtml">
+				<a href="/Information/Career.shtml" target="_blank">
 	<h4>Become a TRO Coach</h4>
 	<p>Analytical? Good listener? Like to teach, coach, or mentor? Like telecommuting? This could be your dream career.</p>
 </a>
 
 
-				<a href="/Information/Career.shtml">
+				<a href="/Information/Career.shtml" target="_blank">
 	<h4>Careers at Priacta</h4>
 	<p>Do our Values describe you perfectly? Want a full telecommuting position? Check out opportunities at Priacta.</p>
 </a>
@@ -269,7 +368,7 @@ By using our services, you assert that you are at least thirteen years of age an
 <li><a href="/Information/Priacta.shtml">About Us</a></li>
 <li><a href="/Training">What Is TRO?</a></li>
 <li><a href="/Training/Remote_Training.shtml">Coaching</a></li>
-<li><a href="/Training/Self_Training.shtml">Training</a></li>
+<li><a href="/Training/troonline.php">Training</a></li>
 <li><a href="/trog">Software</a></li>
 <li><a href="/Store">Store</a></li>
 <li><a href="/Support">Support</a></li>
