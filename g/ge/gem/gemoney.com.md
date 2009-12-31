@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemoney.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624052542id_/http%3A//www.gemoney.com/en/personal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemoney.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231050619id_/http%3A//www.gemoney.com/en/personal/privacy_policy.html) for the most accurate reproduction.*
 
 # GE Money USA: Personal - Internet Privacy Policy
 
