@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncorpmetway.com.au privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522173231id_/http%3A//www.suncorp.com.au/suncorp/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncorpmetway.com.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231135230id_/http%3A//www.suncorp.com.au/suncorp/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Suncorp - Privacy and Security
 
@@ -80,7 +80,6 @@ Suncorp consists of a large number of different companies and well known brands 
 
 #### Our other financial products or services brands
 
-  * Secure Sentinel
   * Australian Surety
   * Deposit Power
 
