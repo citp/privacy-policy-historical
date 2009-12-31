@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markit.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402213442id_/http%3A//www.markit.com/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markit.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231233720id_/http%3A//www.markit.com/en/about/legal/privacy-policy.page) for the most accurate reproduction.*
 
-# Markit Terms of Use
+# Privacy Policy
 
 ## 
 
