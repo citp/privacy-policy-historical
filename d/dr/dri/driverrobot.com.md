@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverrobot.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627201122id_/http%3A//driverrobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverrobot.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231050915id_/http%3A//www.driverrobot.com/privacy) for the most accurate reproduction.*
 
 # Driver Robot Privacy Policy
 
@@ -6,7 +6,7 @@ DriverRobot.com is owned and operated by Blitware Technology Inc. ("Blitware"). 
 
 ## Official Blitware Technology Inc. Privacy Policy
 
-  1. Our postal address is 1027 Pandora Ave., Victoria, B.C., V8V 3P6. We can be reached via e-mail at info@blitware.com, or by postal mail. 
+  1. Our postal address is 1027 Pandora Ave., Victoria, B.C., V8V 3P6. We can be reached via e-mail at support@blitware.com, or by postal mail. 
   2. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
   3. We collect the e-mail addresses of those who communicate with us via e-mail, and aggregate information on what pages consumers access or visit. 
   4. The information we collect is used to improve the content of our Web page, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website. 
