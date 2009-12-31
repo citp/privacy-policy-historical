@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627121017id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231093939id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » My Digital Life
 
@@ -44,15 +44,15 @@ My Digital Life may occasionally conduct user surveys to better target our conte
 
 By using this site, you consent to the collection and use of this information by My Digital Life. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-  * [Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1](http://www.mydigitallife.info/2007/10/14/delete-your-computer-tracks-with-advanced-privacy-cleaner-11/ "Permanent Link: Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1")
   * [Jealous E.U. Warns Google on Data Retention Policy](http://www.mydigitallife.info/2007/05/27/jealous-eu-warns-google-on-data-retention-policy/ "Permanent Link: Jealous E.U. Warns Google on Data Retention Policy")
-  * [Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft](http://www.mydigitallife.info/2008/06/20/cell-savers-announces-magi-privacy-screen-preventing-identity-theft/ "Permanent Link: Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft")
-  * [Protect Your Privacy on the Web](http://www.mydigitallife.info/2007/10/08/protect-your-privacy-on-the-web/ "Permanent Link: Protect Your Privacy on the Web")
-  * [Secure Anonymous XeroBank xB Browser (Torpark) with VPN To Protect Privacy and WiFi HotSpot Security](http://www.mydigitallife.info/2008/06/08/secure-anonymous-xerobank-xb-browser-torpark-with-vpn-to-protect-privacy-and-wifi-hotspot-security/ "Permanent Link: Secure Anonymous XeroBank xB Browser \(Torpark\) with VPN To Protect Privacy and WiFi HotSpot Security")
-  * [Cheap .NET Domain Names Registration with Free Privacy Protection](http://www.mydigitallife.info/2007/11/06/cheap-net-domain-names-registration-with-free-privacy-protection/ "Permanent Link: Cheap .NET Domain Names Registration with Free Privacy Protection")
-  * [How to Set Up and Create Sender Policy Framework (SPF) Domain DNS TXT Record with Wizard](http://www.mydigitallife.info/2007/08/08/how-to-set-up-and-create-sender-policy-framework-spf-domain-dns-txt-record-with-wizard/ "Permanent Link: How to Set Up and Create Sender Policy Framework \(SPF\) Domain DNS TXT Record with Wizard")
-  * [Google Public Policy Blog](http://www.mydigitallife.info/2007/06/21/google-public-policy-blog/ "Permanent Link: Google Public Policy Blog")
-  * [Enable and Unhide Administrator Account with Vista Local Security Policy Setting](http://www.mydigitallife.info/2007/08/10/enable-and-unhide-administrator-account-with-vista-local-security-policy-setting/ "Permanent Link: Enable and Unhide Administrator Account with Vista Local Security Policy Setting")
+  * [Limit Stranger’s Prying Eyes from Finding You in Facebook](http://www.mydigitallife.info/2007/12/26/limit-strangers-prying-eyes-from-finding-you-in-facebook/ "Permanent Link: Limit Stranger’s Prying Eyes from Finding You in Facebook")
   * [Group Policy Login or Logon Scripts Not Running, Not Working or Not Executing](http://www.mydigitallife.info/2006/09/13/group-policy-login-or-logon-scripts-not-running-not-working-or-not-executing/ "Permanent Link: Group Policy Login or Logon Scripts Not Running, Not Working or Not Executing")
+  * [Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft](http://www.mydigitallife.info/2008/06/20/cell-savers-announces-magi-privacy-screen-preventing-identity-theft/ "Permanent Link: Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft")
+  * [Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1](http://www.mydigitallife.info/2007/10/14/delete-your-computer-tracks-with-advanced-privacy-cleaner-11/ "Permanent Link: Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1")
+  * [Display Logon Message Text and Title in Windows Vista](http://www.mydigitallife.info/2007/04/03/display-logon-message-text-and-title-in-windows-vista/ "Permanent Link: Display Logon Message Text and Title in Windows Vista")
+  * [Delete, Cancel and Terminate Facebook Account and Profile](http://www.mydigitallife.info/2007/11/04/delete-cancel-and-terminate-facebook-account-and-profile/ "Permanent Link: Delete, Cancel and Terminate Facebook Account and Profile")
+  * [Google Public Policy Blog](http://www.mydigitallife.info/2007/06/21/google-public-policy-blog/ "Permanent Link: Google Public Policy Blog")
+  * [IP Privacy (with High Quality Premium Proxies) Free 3 Months License Key Giveaway](http://www.mydigitallife.info/2009/10/26/ip-privacy-with-high-quality-premium-proxies-free-3-months-license-key-giveaway/ "Permanent Link: IP Privacy \(with High Quality Premium Proxies\) Free 3 Months License Key Giveaway")
+  * [Free 1 GB Online Remote Storage Via OpenDrive](http://www.mydigitallife.info/2009/01/07/free-i-gb-online-remote-storage-via-opendrive/ "Permanent Link: Free 1 GB Online Remote Storage Via OpenDrive")
 
 
