@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curezone.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416232057id_/http%3A//curezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curezone.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231023542id_/http%3A//curezone.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement,CureZone.com
 
@@ -6,7 +6,7 @@
 
 CureZone takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-  * CureZone respects and protects the privacy of the individuals that use CureZone  services. Individually identifiable information about you is never disclosed to any third party!
+  * CureZone respects and protects the privacy of the individuals that use CureZone services. Individually identifiable information about you is never disclosed to any third party!
 
 
 
@@ -39,18 +39,36 @@ CureZone takes your privacy seriously. Please read the following to learn more a
 
   * Cookies can not be used to infect your computer with viruses!  Cookies can not be used to collect information about you that you don't wont to disclose (name, address, phone, email)
 
-  * CureZone uses cookies to improve the quality of our service.  CureZone does this by storing user preferences in cookies. CureZone will never disclose its cookies to third parties.
+  * CureZone uses cookies to improve the quality of our service. CureZone does this by storing user preferences in cookies. CureZone will never disclose its cookies to third parties.
 
   * Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the CureZone Service may not function properly if you refuse cookies.
 
 
 
 
-**What Information Do We Collect?**
+**Third Party Cookies on CureZone**
+
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+  * The DoubleClick DART cookie is used by Google in the ads served on CureZone displaying Google AdSense for content ads. When you visit CureZone and either view or click on an ad, a cookie may be dropped on your browser. The data gathered from these cookies will be used to help Google better serve and manage the ads on CureZone and across the web.
+
+
+
+
+  * Google, as a third party vendor, uses cookies to serve ads on CureZone.
+
+  * Google's use of the DART cookie enables it to serve ads to you based on the pages you visited on CureZone and other sites on the Internet.
+
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+
+**What Information Does CureZone Server Collect?**
 
   * CureZone does not collect any unique information about you (such as your name, email, etc.) except when you specifically and knowingly provide such information.
 
-  * CureZone server logs  and saves information such as time of day, browser type, browser language, and IP address with each page visit. That information is used to trace web site usage and to provide more relevant services to individual users.
+  * CureZone server, just like any other web server, logs and saves information such as time of day, browser type, browser language, and IP address with each page visit. That information is used to trace web site usage and to provide more relevant services to individual users.
 
 
 
@@ -150,15 +168,15 @@ CureZone takes your privacy seriously. Please read the following to learn more a
 
     * **[Universal Spam Policy](https://web.archive.org/spam.asp)**
 
-    * **[Security at CureZone](https://web.archive.org/web/20090416232057id_/http%3A//curezone.com/security.asp)**
+    * **[Security at CureZone](https://web.archive.org/web/20091231023542id_/http%3A//curezone.com/security.asp)**
 
-    * **[Forums](https://web.archive.org/web/20090416232057id_/http%3A//curezone.com/forums/default.asp) **
+    * **[Forums](https://web.archive.org/web/20091231023542id_/http%3A//curezone.com/forums/default.asp) **
 
-      * [ **Posting Guidelines**](https://web.archive.org/web/20090416232057id_/http%3A//curezone.com/forums/guidelines.asp) ****
+      * [ **Posting Guidelines**](https://web.archive.org/web/20091231023542id_/http%3A//curezone.com/forums/guidelines.asp) ****
 
-      * **[About Forums](https://web.archive.org/web/20090416232057id_/http%3A//curezone.com/forums/descriptionall.asp)**
+      * **[About Forums](https://web.archive.org/web/20091231023542id_/http%3A//curezone.com/forums/descriptionall.asp)**
 
-      * **[Disclaimer](https://web.archive.org/web/20090416232057id_/http%3A//curezone.com/forums/disclaimer.asp)**
+      * **[Disclaimer](https://web.archive.org/web/20091231023542id_/http%3A//curezone.com/forums/disclaimer.asp)**
 
 
 
