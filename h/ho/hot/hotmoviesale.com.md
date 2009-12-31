@@ -1,63 +1,54 @@
-> *The following text is extracted and transformed from the hotmoviesale.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422135425id_/http%3A//www.hotmoviesale.com/store/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmoviesale.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231041329id_/http%3A//www.hotmoviesale.com/store/legal/privacy.aspx) for the most accurate reproduction.*
 
 # HotMovieSale - Lowest priced DVDs & games on the net
 
-**The Privacy Policy will address the following points:**
+This is the Privacy Policy of the provider of this program (also referred to herein as “we," or "us"). If you have any questions about this Privacy Policy, please contact us using the contact information provided in your program materials or on the program website.
 
-  * What information, if any, is collected as a result of your visit?
-  * Whether Cookies are placed on your hard drive?
-  * Whether information is shared?
-  * Information Security
-  * Data Integrity
-  * Accessing and updating personal information
-  * Policy Changes
-  * Contact Information
+This Privacy Policy, which is a part of the Terms of Use (collectively, the "Agreement"), explains the types of information we collect through our Services and what we do with such information. "Services" are defined in the Agreement. Terms not defined in this Privacy Policy have the meaning described in the Agreement.
 
+We recognize the importance of privacy and have attempted to conform this Privacy Policy to applicable industry standards and practices existing at the time of its posting. We welcome your feedback. This Privacy Policy provides you information on the following areas:
 
-
-**Introduction**  
-Protecting personal information is a core SmartSavingsCenter, LLC value. This privacy statement describes how we collect and use the personal information you provide on our website. It also describes the choices available to you regarding the use of your personal information and the steps you can take to access this information and to request that we correct or delete it.
-
-SmartSavingsCenter, LLC abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
-
-**Information Collection**  
-As is true of most websites, we gather information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data. We use this information, which does not identify individual visitors, to analyze trends, to administer the website, to track visitors' movements around the site and to gather information about the geographic location of our visitors as a whole.
-
-Additionally, upon signing up with our services, we collect Personally Identifiable Information ("PII") about our users. This information may include name, contact information, account password, and for certain services, credit card or other payment account information, which we maintain in encrypted form on secure servers.
-
-**Cookies**  
-A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
-
-SmartSavingsCenter, LLC uses cookies to enhance your online experience and to learn about how you use our services in order to improve the quality of our services. Our servers automatically record information when you visit our website, including the URL, IP address, browser type and language, and the date and time of your request.
-
-**Sharing of Information**  
-Other than for the limited circumstances below, none of the information detailed above is disseminated, shared, sold, or provided to a third party. We may share PII and other data with other companies or entities in the following limited circumstances:
-
-  * We provide such information to our subsidiaries or affiliated companies for the purpose of processing PII on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of PII is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable legal agreements between us, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of SmartSavingsCenter, LLC, its users or the public as required or permitted by law.
-  * If SmartSavingsCenter, LLC becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before PII is transferred and becomes subject to a different Privacy Policy.
+  1. Use of the Service by children under the age of 13
+  2. The information we collect, and whether this includes personally identifiable information
+  3. What we do with your information, and how we share your information
+  4. Security measures in place to protect against the loss, misuse or alteration of information under our control
+  5. Choice and Correcting/Updating/Deleting/Deactivating Personal Information
+  6. Changes to the Privacy Policy
 
 
 
-**Information Security**  
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to PII to SmartSavingsCenter, LLC employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+### 1\. Use of the Service by children under the age of 13
 
-**Data Integrity**  
-SmartSavingsCenter, LLC processes PII only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+We encourage parents to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognize a special obligation to protect personal information obtained from young children. Therefore, with respect to children residing in certain jurisdictions, no information should be submitted nor posted to our online sites by children under the age of 13. In order for children under the age of 13 in such jurisdictions to participate in online activities that require registration, we require prior written permission or other verifiable consent from a parent or guardian. In other jurisdictions, prior written permission or other verifiable consent may be required from a parent or guardian for children under 14 or 18 years of age. Upon registration, the appropriate permission form will be made available. This form must be signed by the child's parent or guardian and returned to us by fax or mail. Children under the age of 13 may not participate on certain of our sites. In some cases, we may not permit children under 14 or 18 years of age to participate in certain of our sites. Once we have obtained parental consent, we are prohibited from requiring a child to disclose more personal information than is reasonably necessary for that child to participate in activity relating to the Services. If for any reason you are concerned that your child's personally identifiable information maintained by us is not correct or complete, or should you wish to have your child's personal information deleted from our records, or if you want us to discontinue further collection or use of your child's personal information, please contact us.
 
-**Accessing and Updating Personal Information**  
-When you use SmartSavingsCenter, LLC services, we make good faith efforts to provide you with access to your PII and either to correct this data, if it is inaccurate, or to delete such data at your request, if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+###  2\. Information we collect, and whether this includes personally identifiable information
 
-**Policy Changes**  
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes in a conspicuous manner to this Privacy Policy, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Personally identifiable information is collected if it is necessary to provide the Services. For example, when you visit our websites, performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous unique ID, etc.) will be transmitted to us for Services evaluation. This information does not personally identify you.
 
-**Contact Information**  
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
+When you sign up for an account or other Services that require registration, we ask you for personal information such as your name, email address and an account password. The information voluntarily provided by you during the registration process may also include or naturally entail other demographic information such as gender, age, occupation, household income, zip code and country. We also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. Our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol ("IP") address, browser type, browser language and the date and time of your request. “Cookies” are small files that contain information that we use to track trends and patterns of how people search. We send one or more cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our Services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly if your receipt of cookies is disabled. When you send email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
 
-SmartSavingsCenter, LLC  
-999 W. Yamato Road, Ste. 100  
-Boca Raton, Florida 33431
+We collect the full Uniform Resource Locator ("URL") of the web page from which you came to us, your IP address, which may include a domain name and the date and time for each page you view. We also collect the name of and information about any advertisement or other link that brought you to us. If you e-mail us, we may store copies of such e-mail or similar communications between you and us. This can result in the collection of your e-mail address or other personally identifiable information you may have in your e-mail text, addresses, or other fields, as well as the collection of the your IP address, the Internet or other routing of your communication, and the date and time of your communication.
 
-© SmartSavingsCenter, LLC
+All transmissions between you and us, including e-mails, URLs, cookie identification numbers, usage paths, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, web servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions, and many of which we cannot control.
 
-All trademarks are the property of their respective owners. All Rights Reserved.
+### 3\. What we do with the information it collects and how we share the information
+
+We use your information solely for providing Services, and therefore, as a natural part of providing the Services, we will share your information with its employees, contractors and agents. We also may contact you by e-mail to respond to your customer service inquiries. We do not disclose your e-mail address to business partners or to anyone other than employees, contractors, or agents working for or on behalf of us, except as required by law. If you have given us your e-mail address but wish to unsubscribe at any time, please see Section 5 below (Choice and Correcting/Updating/Deleting/Deactivating Personal Information) for instructions on how to do so. We may share personal information with persons outside of our company if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce agreements between you and us, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of our company, its users or the public as required or permitted by law. We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity. We do not rent or sell your personally identifiable information.
+
+If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice if such a transaction results in your information being subject to a different privacy policy. We use cookies for such functions as verifying that you are one of our users and enabling the fulfillment of Services. We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by us to gather broad demographic information, such as your general geographic location and internet service provider. IP addresses are further used to help determine the number of our users. This demographic information may also be used by us to analyze aggregate usage behavior.
+
+We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to our databases and servers, which may contain personally identifying information about users. We will not provide your account information to any third party except as described in this Privacy Policy or with your consent. These parties are obliged to use the information according to our instructions and they are bound to this Privacy Policy and must apply appropriate confidentiality and security measures.
+
+### 4\. Security measures used to protect against the loss, misuse or alteration of information under our control
+
+We use commercially reasonable computer security safeguards to protect our databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our Services. Security risks, however, cannot be completely eliminated and we therefore cannot guarantee complete security.
+
+If you send us an email, you should know that email is not necessarily secure against interception. Therefore, if your communication will include sensitive information like your bank account, charge card, or social security number, and you prefer not to transmit it electronically, please contact us by postal mail or telephone rather than email.
+
+### 5\. Choice and Correcting/Updating/Deleting/Deactivating Personal Information
+
+You can decline to submit personal information to any of our Services, in which case we may not be able to provide the Service to you. If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. If your personally identifiable information changes (such as zip code, phone, email or postal address), or if you no longer desire the Services, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done emailing our customer support through our website.
+
+### 6\. Changes to this Privacy Policy
+
+This Privacy Policy may change from time to time. We expect most such changes to be minor. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
