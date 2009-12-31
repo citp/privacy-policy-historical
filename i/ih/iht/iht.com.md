@@ -1,67 +1,82 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212211747id_/http%3A//www.iht.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025026id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies - International Herald Tribune
+# The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
-The International Herald Tribune takes your online privacy very seriously. Therefore, unless you explicitly state otherwise, or we explicitly state otherwise, any data that we collect as a result of your use of the site remains confidential.
+| [](http://www.nytimes.com/membercenter/index.html) | [](http://www.nytimes.com/mem/profile.html) | [](http://www.nytimes.com/mem/email.html) | [](https://select.nytimes.com/commerce/jsp/purchase_history.jsp) | [](http://www.nytimes.com/membercenter/sitehelp.html)  
+---|---|---|---|---  
+|  |  |   
+---|---|---  
+|  |  |  |   
+---  
+|    
 
-Why do we collect ANY data on our users? Like many web sites, we collect non-personally identifiable information about our users primarily for three purposes: 
 
-  * to analyze our traffic patterns
-  * to target advertisements
-  * to personalize our service for individuals or groups of users
-
-In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please contact us.
-
-**Log Files**
-
-In almost all cases, when you go to a web site, web servers log your interaction with the site in something called a log file. Standard log files like ours contain basic information like what time what pages were viewed, and the IP address of the visitor. We use this information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. We make no effort to identify IP addresses with individual users.
-
-When we share log file information with our advertisers, partners, or anyone else, we only do it in the aggregate. For example, "Our average user looks at x number of pages on each visit."
-
-**Cookies**
-
-We use "cookies" to allow you to customize certain aspects of the site and to measure overall traffic patterns on our site. For example, cookies can tell us which sections of iht.com are most popular with our users. Cookies served by iht.com do not gather demographic information about our users.
-
-(A cookie is a small piece of information that our web servers send to your browser and that is stored on your computer. That small piece of information allows our computers to say, "Aha. We have seen this person before," and it also allows our computers to remember things about your past interaction with the site, like, "This person told us that they like to see the weather in Celsius, not Fahrenheit.")
-
-**Cookies & Advertising**
-
-Cookies may also be used to provide our advertisers with targeted advertising opportunities, and advertising vendors that serve ads on our site may also use their own cookies. IHT.com uses DoubleClick to deliver its online ads. Like other online advertising vendors, DoubleClick uses cookies in order to, among other things, determine automatically whether you have seen a particular advertisement to avoid sending you duplicate advertisements. It also enables DoubleClick to serve you advertisements tailored to things you have shown interest in based on other sites you have visited. Some people are uncomfortable with these types of advertising cookies. If you are one of those people, you can easily "opt-out" of this feature.
-
-You may choose not to accept any cookies from any party by changing the settings on your browser. Please be aware that this will disable any cookies delivered to your browser by any party, not just the cookies delivered by iht.com, DoubleClick, and or third-party vendors.
-
-Please note that, as with most other major sites, sometimes ads being viewed on our site are being served by other ad networks other than DoubleClick. In that case, an independent cookie may be used by the third-party vendor. We do not have a mechanism to allow visitors to opt-out of cookies served by vendors with whom we do not have a contractual relationship.
-
-For more information about DoubleClick's use of cookies, and to "opt-out" of its cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/)
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
-
-|  |  |  |  **Newsletters**
-
-If a user wishes to subscribe to any of our newsletters, we ask for some basic demographic information. We use this information to learn more about what kind of person is using our site, and we share that information-again, only in the aggregate-with our advertisers, partners and potential partners. In the future, we may use the demographic information that we gather to send you iht.com content that may be of special interest to you; for example, to our subscribers in Japan, we may let you know about special features we have on the subject of Japan.
-
-You may choose not to give us any information other than your e-mail, and you will be able to benefit from the service.
-
-**Surveys & Contests**
-
-From time-to-time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose any information. Information requested may include contact information (such as name and shipping address), demographic information (such as zip code, age level), and more subjective questions about how you use our site. With surveys, the information that you give us will not be associated with you, and that information will be aggregated and used to allow us to monitor and improve the use and satisfaction of the site. We may also share this aggregated information - again, not information that is associated with you - with our partners, potential partners, advertisers and other relevant parties. As for contests, contact information will be used to notify the winners and award prizes.
-
-In some cases, we run contests in conjunction with sponsors. When this is the case, we may wish to share the information that you give with that sponsor, but if this is the case, you will be clearly notified.
-
-**Security**
-
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
-
-While we use SSL encryption to protect sensitive information online, we also protect user-information off-line.
-
-**Special Offers**
-
-For those iht.com users who have registered for any of our special services, we periodically send out updates about new features and sections of our site. Out of respect for the privacy of our users we present the option to not receive these types of communications. If there is a change to one of the services that you are subscribed to, we may send you a service update that it is not possible to opt out of.
-
-**Links**
-
-This web site contains links to other sites. Please be aware that the IHT is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.   
   
----|---|---|---|---
+_Last Updated on July 1, 2009_
+
+The New York Times wants to make our privacy practices clear and easy to understand. This page provides highlights of The New York Times Privacy Policy. For more information, please review our [complete Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). 
+
+[ ](http://www.truste.org/ivalidate.php?url=www.nytimes.com&sealid=101) The New York Times is a licensee of the TRUSTe Privacy Program. You may contact TRUSTe if you believe a privacy question is not properly addressed. By using NYTimes.com, you are agreeing to our [Terms of Service](http://www.nytimes.com/ref/membercenter/help/agree.html). 
+
+### **Scope**
+
+The New York Times privacy highlights and full Privacy Policy (available at: [www.nytimes.com/ref/membercenter/help/privacy.html](http://www.nytimes.com/ref/membercenter/help/privacy.html)) apply to the New York Times Web sites listed below, and to services that display or link to this notice. 
+
+  * [NYTimes.com](http://nytimes.com/)  
+
+  * [The New York Times Home Delivery](http://homedelivery.nytimes.com/)  
+
+  * [The New York Times Store](http://nytimes.com/store)  
+
+  * [The New York Times Learning Network](http://nytimes.com/learning/index.html)
+
+The New York Times Electronic Edition, which is maintained by NewsStand, maintains its own [Privacy Statement](http://newsstand.com/documents/privacy_en.htm). The New York Times advertising portal, for advertisers of The Times, also maintains a separate [Privacy Policy](http://www.nytadvertising.com/was/ATWWeb/public/screens/pages/privacyPolicy.jsp). 
+
+### **Information We Gather**
+
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address, and 2) tracking information collected as you navigate through our sites. [More.](http://www.nytimes.com/ref/membercenter/help/privacy.html#b)
+
+### **Use of Information**
+
+  * If you have registered online to one of our sites, The New York Times will not sell, rent, swap or authorize any third party to use your e-mail address without your permission. This also applies to any information that personally identifies you, except as noted immediately below. We do, however, share information about our audience in aggregate form. For example, we may want to know how long the average reader spends on our site, or which pages or features get the most attention. 
+  * If you are a print subscriber to The New York Times newspaper and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](http://www.nytimes.com/ref/membercenter/help/privacy.html#g). 
+  * NYTimes.com may share personal information with The New York Times Company for analysis purposes. NYTimes.com will not share personal information about you as an individual to third parties without your consent.  
+
+  * The New York Times may perform statistical analyses of subscribers and their subscribing and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our subscriber base.  
+
+  * We may use demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent. 
+  * We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management.  
+
+  * Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by The New York Times for online and offline promotional or commercial uses in any and all media. 
+  * [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#c). 
+
+
+
+### **Your Privacy Choices**
+
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](http://www.nytimes.com/ref/membercenter/help/privacy.html#g).
+
+If, at any time, you prefer not to receive traditional mail or telephone solicitations originated by The New York Times Home Delivery Department and its third party affiliates, you may choose to [opt-out](http://www.nytimes.com/ref/membercenter/help/privacy.html#g). 
+
+To view and edit your personal information, please visit the appropriate part of any of our Web sites. For example, to update your e-mail address on NYTimes.com, go to the [E-Mail Preferences page](http://www.nytimes.com/email) in Member Center. For more information on how to view and edit your personal information, [click here](http://www.nytimes.com/ref/membercenter/help/privacy.html#f). 
+
+### **Important Information**
+
+We encourage you to read our complete [Privacy Policy](http://www.nytimes.com/ref/membercenter/help/privacy.html). The full New York Times Privacy Policy contains links to supplementary information about specific New York Times sites or services. We reserve the right to update our Privacy Policy.
+
+Our Privacy Policy may be amended from time to time. Any such changes will be posted on our [main Privacy Policy page](http://www.nytimes.com/ref/membercenter/help/privacy.html). If we make a significant or material change in the way we use your personal information, the change will be posted thirty (30) days prior to taking effect and registered users will be notified via e-mail. 
+
+We employ measures designed to protect the security of your personal identifying information. [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#h). 
+
+### **COPPA Compliance**
+
+Except for [The Learning Network](http://www.nytimes.com/learning/index.html), The New York Times does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13. The Learning Network is a free service for parents, teachers and students, and does not require registration. For any questions concerning The Learning Network, please contact: Katherine Schulten, NYTimes.com, 500 7th Avenue, 8th Floor, New York, NY 10018. Telephone: 646 698 8000. [More](http://www.nytimes.com/ref/membercenter/help/privacy.html#KidsPrivacy). 
+
+### **How To Contact Us**
+
+For any questions or comments regarding our information or security practices, you may contact us by e-mail at feedback@nytimes.com or by mail at Privacy at Customer Care, 229 West 43rd Street, NY, NY 10036. The New York Times is a TRUSTe licensee and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if you feel a privacy question is not properly addressed. 
+
+  
+  
+|   
+|  | 
