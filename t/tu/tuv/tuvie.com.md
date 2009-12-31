@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221172251id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231010419id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Future Technology
-
-  
-
-
-## Privacy Policy
-
-* * *
+# Privacy Policy | Tuvie – Industrial Design and Future Technology
 
 The [http://www.tuvie.com](http://www.tuvie.com/) Privacy Statement
 
@@ -34,6 +27,11 @@ Currently we assign cookies to our readers in order to save their preferences. T
 **Third Party Cookies**
 
 Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. [http://www.tuvie.com](http://www.tuvie.com/) does not have access to this data.
+
+**About Google as Third Party Vendor**  
+\- Google, as a third party vendor, uses cookies to serve ads on your site.  
+\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Traffic Reports**
 
