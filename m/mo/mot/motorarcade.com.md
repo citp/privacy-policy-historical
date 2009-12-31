@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the motorarcade.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207091044id_/http%3A//www.motorarcade.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorarcade.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231234840id_/http%3A//www.motorarcade.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on MotorArcade.com | Driving Passion
+
+## Privacy Policy
 
 In an effort to support privacy policy disclosures on the Internet, MotorArcade.com is deeply committed to protecting the privacy of Internet users. Please read the following to learn more about our privacy policy. 
 
@@ -9,3 +11,9 @@ All personal information we collect from our visitors or registered members is u
 We publish a newsletter, and we never sell or share our visitors' email, mailing addresses or any other personal information. We do not spam and each email is attached with a convenient one-click unsubscribe link.
 
 MotorArcade.com may use the services of Google or other Marketing Companies for the serving and/or targeting of ads, promotions and other marketing messages. So any such concerns with our advertisers should be directed to them respectively.
+
+Google, as a third party vendor, uses cookies to serve ads on your site.
+
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
