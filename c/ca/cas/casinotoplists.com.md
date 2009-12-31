@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426014620id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotoplists.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151943id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.*
 
 # CasinoToplists Privacy Policy - Secure Online Gambling
 
@@ -13,58 +13,3 @@ All information collected at Casinotoplists.com will be kept strictly confidenti
 
 
 Please contact us at info@casinotoplists.com if you have any questions or comments about our privacy policy.
-
-## Progressive Jackpots
-
-We list the highest progressive jackpots on the Internet! The numbers are updated in real time.
-
-  * Current Jackpot!
-
-Win This Jackpot at:
-
-[View All Jackpots](https://web.archive.org/all-progressive-jackpots)
-
-
-
-
-## Editors Top Pick!
-
-Our gathered online-casino experience counts to more than 12 years. Here we give you our best bonus deals and top tips on how to become a successful player.  
-Linda & Steven
-
-  * 1.
-
-[](https://web.archive.org/goto/europa-casino_a546)
-
-Linda's big favourite
-
-8 /10
-
-  * 2.
-
-[](https://web.archive.org/goto/casino770_a546)
-
-8 /10
-
-  * 3.
-
-[](https://web.archive.org/goto/eurogrand-casino_a546)
-
-Steve's big favourite
-
-7 /10
-
-  * 4.
-
-[](https://web.archive.org/goto/roxy-palace-casino_a546)
-
-8 /10
-
-  * 5.
-
-[](https://web.archive.org/goto/millionaire-casino_a546)
-
-6 /10
-
-
-
