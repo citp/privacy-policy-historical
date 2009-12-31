@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the explorewww.com privacy policy that was archived on 2009-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090430201354id_/http%3A//www.explorewww.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the explorewww.com privacy policy that was archived on 2009-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231165415id_/http%3A//www.explorewww.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy - ExploreWWW</title>
-	<meta name="keywords" content="View All, Explore Worldwide Web for View All, ExploreWWW">
-	<meta name="description" content="Explore Worldwide Web for View All. ExploreWWW is a social search engine that enables you to find information contributed by our Users.">
+	<meta http-equiv="X-UA-Compatible" content="IE=7">
+	<meta name="keywords" content="Privacy Policy, Explore Worldwide Web for Privacy Policy, ExploreWWW">
+	<meta name="description" content="Explore Worldwide Web for Privacy Policy. ExploreWWW is a social search engine that enables you to find information contributed by our Users.">
 	<meta name="distribution" content="Global">
 	<meta http-equiv="Content-Language" content="en-us">
 	<meta name="robots" content="index">
@@ -17,10 +18,18 @@
 	<meta name="reply-to" content="support@ExploreWWW.com">
 
 <link href="http://www.explorewww.com/templates/v2/images/styles.css" type="text/css" rel="stylesheet">
-<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.explorewww.com/xmlfeeds.php?cmd=popular">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.explorewww.com/xmlfeeds.php?cmd=upcoming">
 <script language="JavaScript" type="text/JavaScript">
 <!--
 var http = createRequestObject();
+
+function adclk(s){
+	//alert("check the data"+s);
+	var data = escape(s);
+	if(document.images){
+	(new Image).src="http://www.explorewww.com/md.php?id="+data
+	}
+}
 
 function createRequestObject()
 {
@@ -37,6 +46,19 @@ function createRequestObject()
 	return ro;
 }
 
+
+function dig(id)
+{
+	//document.getElementById('digbut'+id).innerHTML = 'sending';
+
+	//alert(document.getElementById('digbut'+id));
+
+	http.open('get', 'http://www.explorewww.com/dig.php?i='+id);
+    http.onreadystatechange = digResponse;
+    http.send(null);
+}
+
+
 function digResponse()
 {
 	if(http.readyState == 4)
@@ -51,6 +73,7 @@ function digResponse()
 			var numdigs=returned[2];
 			var status=returned[0];
 
+
 			if(status == '1')
 			{
 				document.getElementById('digbut'+id).innerHTML = 'vote';
@@ -62,11 +85,12 @@ function digResponse()
 			}
 			else if(status == '0')
 			{
-				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Login<\/a>';
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Log in<\/a>';
 			}
 		}
     }
 }
+
 
 function cdigResponse()
 {
@@ -96,7 +120,7 @@ function cdigResponse()
 			}
 			else if(status == '0')
 			{
-				document.getElementById('comd'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Login<\/a>';
+				document.getElementById('comd'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Log in<\/a>';
 			}
 		}
     }
@@ -117,7 +141,7 @@ function buryResponse()
 
 			if(status == '0')
 			{
-				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Login<\/a>';
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Log in<\/a>';
 			}
 			else
 			{
@@ -127,14 +151,6 @@ function buryResponse()
 	}
 }
 
-function dig(id)
-{
-	document.getElementById('digbut'+id).innerHTML = 'sending';
-
-	http.open('get', 'http://www.explorewww.com/dig.php?i='+id);
-    http.onreadystatechange = digResponse;
-    http.send(null);
-}
 
 function digcom(comment_id,dir,story_id)
 {
@@ -150,16 +166,17 @@ function digcom(comment_id,dir,story_id)
 
 function bury_story(id)
 {
-	if(0 == 0)
+	if({LOGGEDIN} == 0)
 	{
-		document.getElementById('digbut'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Login<\/a>';
+		document.getElementById('digbut'+id).innerHTML = '<a href="http://www.explorewww.com/login.php">Log in<\/a>';
 		return;
 	}
 
 	http.open('get', 'http://www.explorewww.com/bury.php?i='+id);
-    http.onreadystatechange = buryResponse;
-    http.send(null);
+    	http.onreadystatechange = buryResponse;
+	http.send(null);
 }
+
 
 function inclickcheck(field,def,val)
 {
@@ -263,7 +280,7 @@ function openWindow(theURL,winName,features)
 
 function comreply(id,nickname)
 {
-	if(0 == 0)
+	if({LOGGEDIN} == 0)
 	{
 		alert('Please login before replying');
 		return;
@@ -282,15 +299,80 @@ function replycancel()
 }
 //-->
 </script>
-</head>
 
-<body>
+<script language="JavaScript">
+<!--
+
+function hlO(link) {
+   var dest=document.getElementById('floatBox');
+   dest.style.display="none";
+}
+
+function hlE(link, t, img) {
+   var dest=document.getElementById('floatBox');
+   if (dest==null) return;
+
+   if (img != '') {
+      t='<img src="'+img+'" style="float:right;margin:3px" height="60px">'+t;
+   }
+   dest.innerHTML=t;
+   var o=link;
+   var t=0;
+   var l=0;
+   while (o) {
+       t+=o.offsetTop;
+       l+=o.offsetLeft;
+       o=o.offsetParent;
+   }
+   t+=link.offsetHeight;
+   dest.style.top=t+"px";
+   dest.style.left=l+"px";
+   dest.style.display="block";
+}
+
+
+var count = "140";   //Example: var count = "175";
+function limiter(){
+ var tex = document.myform.comment.value;
+ var len = tex.length;
+ if(len > count){
+        tex = tex.substring(0,count);
+        document.myform.comment.value =tex;
+        return false;
+ }
+ document.myform.limit.value = count-len;
+}
+
+//-->
+
+</script>
+
+
+<script language="javascript">
+  function toggleDiv(divid){
+    if(document.getElementById(divid).style.display == 'none'){
+      document.getElementById(divid).style.display = 'block';
+    }else{
+      document.getElementById(divid).style.display = 'none';
+    }
+  }
+</script>
+
+
+</head><body><div style="position:absolute; display:none; float:left; width:350px; height:auto; overflow: hidden; background: #FFFFCC; font-size: 10pt; font-style: normal; font-weight: normal; padding: 3px;  margin: 0 0 0 5px; border:solid 1px #CFCFCF;" id="floatBox"></div>
+
+
+
+
+
+
+<div id="chromeFix">
 	<div id="headermain">
 		<div id="headercontainer">
 			<div class="headerlogo">
             	<div class="logo">
-			<a href="http://www.explorewww.com/" class="logo">ExploreWWW</a>
-
+				  <a href="http://www.explorewww.com/" class="logo">ExploreWWW</a>
+				  
                 </div>
             </div>
 			<div class="headeright">
@@ -299,12 +381,12 @@ function replycancel()
 						
                         <div class="headersignupouter">
 							<div class="headersignupicon"><a href="http://www.explorewww.com/signup.php"></a></div>
-							<div class="headersignuptext"><a href="http://www.explorewww.com/signup.php">Signup</a></div>
+							<div class="headersignuptext"><a href="http://www.explorewww.com/signup.php">Sign up</a></div>
 							<div class="aclear"></div>
 						</div>
 						<div class="headerloginouter">
 							<div class="headerloginicon"><a href="http://www.explorewww.com/login.php"></a></div>
-							<div class="headerlogintext"><a href="http://www.explorewww.com/login.php">Login</a></div>
+							<div class="headerlogintext"><a href="http://www.explorewww.com/login.php">Log in</a></div>
 							<div class="aclear"></div>
 						</div>
                         
@@ -313,15 +395,16 @@ function replycancel()
                 </div>
 				<div class="headerrightbottom">
 					<div align="right">
-                    	<form name="form1" method="get" action="http://www.explorewww.com/search.php" style="padding:0px;margin:0px;">
+                    	<form name="form1" method="get" action="http://explorewww.com/psearch.php" style="padding:0px;margin:0px;">
 						<div class="searchbox">
-                        	<input name="q" type="text" id="q" size="25" style="width:250px;">
+                        	                        	<input name="q" type="text" id="q" size="25" style="width:220px;" maxlength="30" class="fieldset">
+
 						</div>
 						<div class="searchbutton">
 							<input name="submit" type="image" src="http://www.explorewww.com/templates/v2/images/search.gif" width="78" height="34" align="absmiddle" vspace="0" hspace="0" style="padding:0px;margin:0px;" border="0">
 						</div>
                         </form>
-					</div>
+                     </div>
 				</div>
 			</div>
 		</div>
@@ -333,19 +416,21 @@ function replycancel()
                 	
                    	<li><a title="View All" href="http://www.explorewww.com/viewall/1.html">View All</a></li>
                     
-                   	<li><a title="Articles" href="http://www.explorewww.com/view/13/Articles/1.html">Articles</a></li>
+                   	<li><a title="Advertise" href="http://www.explorewww.com/view/30/Advertise/1.html">Advertise</a></li>
                     
                    	<li><a title="Blog" href="http://www.explorewww.com/view/14/Blog/1.html">Blog</a></li>
                     
-                   	<li><a title="Images" href="http://www.explorewww.com/view/10/Images/1.html">Images</a></li>
+                   	<li><a title="Directory" href="http://www.explorewww.com/view/15/Directory/1.html">Directory</a></li>
+                    
+                   	<li><a title="Mobile" href="http://www.explorewww.com/view/27/Mobile/1.html">Mobile</a></li>
+                    
+                   	<li><a title="Movies" href="http://www.explorewww.com/view/29/Movies/1.html">Movies</a></li>
                     
                    	<li><a title="News" href="http://www.explorewww.com/view/9/News/1.html">News</a></li>
                     
                    	<li><a title="Shopping" href="http://www.explorewww.com/view/12/Shopping/1.html">Shopping</a></li>
                     
-                   	<li><a title="Twitter" href="http://www.explorewww.com/view/15/Twitter/1.html">Twitter</a></li>
-                    
-                   	<li><a title="Videos" href="http://www.explorewww.com/view/11/Videos/1.html">Videos</a></li>
+                   	<li><a title="Users" href="http://www.explorewww.com/view/28/Users/1.html">Users</a></li>
                     
                    	<li><a title="Web" href="http://www.explorewww.com/view/8/Web/1.html">Web</a></li>
                     
@@ -354,172 +439,172 @@ function replycancel()
 		</div>
 	</div>
     
+    <div id="maincontainer">
+        <div id="newsbar">
+            <div class="newstitle">
+                Privacy Policy
+            </div>
+        </div>
+    </div>
+	<div class="aclear"></div>
+	<div id="container">
+        <div id="headerbar"></div>
+            <div class="aclear"></div>
+            <div id="main">
+                <div class="maincontent">
+					<p>Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:</p>
+					<ul>
+					  <li>We will never rent or sell your personally identifiable information to third parties for marketing purposes.</li>
+					  <li>We will never share your contact information with another user without your consent.</li>
+					  <li>Any personally identifiable information that you provide will be secured with all industry standard protocols and technology.</li>
+					</ul>
+					<p>We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make <strong>material</strong> changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you continue to use the ExploreWWW service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.</p>
+					<p>Please read this privacy policy to learn more about:</p>
+					<ol>
+					  <li>What personally identifiable information of yours is collected by ExploreWWW.</li>
+					  <li>How the information is used.</li>
+					  <li>With whom the information may be shared.</li>
+					  <li>How you can access and change your Account information.</li>
+					  <li>What security procedures are in place to protect the loss, misuse or alteration of information collected by ExploreWWW.</li>
+					  <li>How to contact us.</li>
+					</ol>
 
-<div id="maincontainer">
-	<div id="newsbar">
-		<div class="newstitle">
-			About ExploreWWW
-		</div>	
-	</div>
-</div>
+					<hr noshade="" size="1">
 
-
-<div class="aclear"></div>
-<div class="aclear"></div>
-
-
-<div id="container">
-				
-		<div id="headerbar"></div>
-		<div class="aclear"></div>
-				
-		<div id="main">
-			<div class="maincontent">									
-		
-<p>Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:</p>
-<ul>
-  <li>We will never rent or sell your personally identifiable information to third parties for marketing purposes.</li>
-  <li>We will never share your contact information with another user without your consent.</li>
-  <li>Any personally identifiable information that you provide will be secured with all industry standard protocols and technology.</li>
-</ul>
-<p>We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make <strong>material</strong> changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you continue to use the ExploreWWW service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.</p>
-<p>Please read this privacy policy to learn more about:</p>
-<ol>
-  <li>What personally identifiable information of yours is collected by ExploreWWW.</li>
-  <li>How the information is used.</li>
-  <li>With whom the information may be shared.</li>
-  <li>How you can access and change your Account information.</li>
-  <li>What security procedures are in place to protect the loss, misuse or alteration of information collected by ExploreWWW.</li>
-  <li>How to contact us.</li>
-</ol>
-
-<hr noshade="" size="1">
-
-<ol>
-  <li>
-    <h3><a name="pri-1" id="pri-1">Personal Information Collected</a></h3>
-    <p>We collect your personal information in the following ways:</p>
-    <h4>Registration</h4>
-    <p>In order to become a ExploreWWW user, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code, a brief summary of your professional background (current occupation &amp; networking objectives), and a password chosen by you.</p>
-    <h4>Profile Information</h4>
-    <p>Once a user, you may provide additional information in the  <a href="/profile" rel="external">Profile section</a> describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities in the ExploreWWW system.  To the extent any of the information you provide at registration or in the Profile section is not personally identifiable, it may be used in the same manner and extent which other information that is not personally identifiable is permitted to be used hereunder, including, without limitation, for the purpose of serving advertisements through the service.  If you opt-out you may lose the potential benefit of receiving ads that are more targeted to your interests.</p>
-    <h4>Cookies</h4>
-    <p>Like most web sites, ExploreWWW uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows ExploreWWW to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.</p>
-    <p>One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your ExploreWWW account. The next time you visit the ExploreWWW web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. In order to access or change any of your private information (like a credit card number), however, you must log in securely again with your password even if your computer contains your persistent cookie.</p>
-    <p>Additionally, if you log out of the ExploreWWW site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a “session” cookie, is used to identify a particular visit to the ExploreWWW site. Session cookies expire after a short time or when you close your web browser.</p>
-    <p>We use cookies to improve the quality of our service by storing user preferences and tracking user trends. In the course of serving advertisements or optimizing services to our users, we may allow authorized third parties to place or recognize a unique cookie on your browser.  Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, for greater customization of your user experience, Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.  Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use our website or services.  ExploreWWW does not store personally identifiable information in the cookies.</p>
-    <h4>Web Beacons</h4>
-    <p>We allow other companies, called ad networks, to serve advertisements to ExploreWWW users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. ExploreWWW may “target” some ads to users that fit a certain general profile — for example, “product managers in Texas.” ExploreWWW does NOT use personally identifiable information to target ads.</p>
-    <p>To deliver these ads properly, ExploreWWW may include a file, called a web beacon, from these ad networks within pages served by ExploreWWW so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.</p>
-    <p>Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.</p>
-    <p>These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. ExploreWWW never provides personally identifiable information to any advertiser nor any third party.</p>
-    <p>You may opt-out of use of Web beacons in ExploreWWW pages that you view and of placement of a cookie by ad networks in your browser.  To opt-out <a href="https://www.ExploreWWW.com/secure/settings?advt=" rel="external">click here</a> and go to the “Advertising” section at the bottom and change the setting there to “No”.  If you opt-out you may lose the potential benefit of receiving ads that are more targeted to your interests.</p>
-    <h4>Log files, IP addresses and information about your computer</h4>
-    <p>Due to the communications standards on the Internet, when you visit the ExploreWWW web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave ExploreWWW.  We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the ExploreWWW service. The linkage between your IP address and your personally identifiable information is never shared with third-parties without your permission or except when required by law.</p>
-  </li>
-  <li>
-    <h3><a name="pri-2" id="pri-2">Uses of personal information</a></h3>
-    <p>ExploreWWW is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by ExploreWWW Corporation from ExploreWWW users (such as, by way of example, patterns of utilization) and is exclusively owned by ExploreWWW. This information can be utilized by ExploreWWW in such manner as ExploreWWW, in its sole discretion, deems appropriate.</p>
-    <h4>ExploreWWW Communications</h4>
-    <p>ExploreWWW will communicate with you through email and notices posted on this website or through any other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges to messages your mobile device).  These include a series of up to five welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from ExploreWWW related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. ExploreWWW may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your <a href="https://www.ExploreWWW.com/secure/settings" rel="external">‘Account &amp; Settings’</a> and amending your email notification choices.  If you wish, you can also opt-out of receiving promotional emails, by sending a request to <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a>.</p>
-    <h4>Customized Content</h4>
-    <p>Information provided to ExploreWWW (or to third parties with whom it offers combined services) is also used to customize your experience on the web site. For example, when you login to your account we will display the screen names of new users who have recently joined your network.</p>
-    <h4>Sharing Information With Third Parties</h4>
-    <p>ExploreWWW takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services or information. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.</p>
-    <p>ExploreWWW offers a “public profile” feature which allows users to publish portions of their ExploreWWW profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature by editing their <a href="https://www.ExploreWWW.com/secure/settings" rel="external">account and settings</a>, however ExploreWWW does not warrant how third-party search engines will update their cache.</p>
-    <p>We may provide aggregated anonymous data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate, including, without limitation, to prospective advertisers on ExploreWWW. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a>.</p>
-    <h4>Teaming with Other Organizations to Offer Combined and Other Services</h4>
-    <p>ExploreWWW may offer our services in connection with other web sites (including updates about the ExploreWWW service) or may team with other online services to give you the combined results of both services or additional services and benefits.  Platform Applications (as defined in the User Agreement) can be designed by Platform Developers (as defined in the User Agreement) or by a subset of Platform Developers with whom ExploreWWW has more closely aligned (“Partners”).</p>
-    <p>In the case of Partners, we do some vetting and we only work with trusted Partners.  For example, SimplyHired.com is a Partner which lets you use its services to find jobs combined with the use of ExploreWWW to find referrals to those jobs.  Because of ExploreWWW’s trust in these Partners, Platform Applications or services designed by a Partner may be automatically granted permission to access account information to provide the combined services.</p> 
-    <p>For Platform Applications designed by most Platform Developers, you will be asked to confirm acceptance of the Platform Developers’ respective privacy policies and user agreements, which have not necessarily been reviewed or approved by ExploreWWW.  In these cases, it will be your choice whether to make use of the services or not and to proceed under the Platform Developers’ terms.</p>  
-    <p>Platform Developers are required to agree to restrictions on access, storage and usage of such information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Platform Developers, we may not screen or approve Platform Developers, and we cannot and do not guarantee that all Platform Developers will abide by such restrictions and agreements. Certain actions you take through the Platform Applications will be displayed to your connections.</p>
-    <p>If you, your connections, members of your network, or other users of ExploreWWW use any Platform Application, or if you interact with a Platform Application being used by any of them, such Platform Application may access and share certain information about you with others. Because a Platform Application can make calls on behalf of the user interacting with it to access non-public information, the level of detail accessible by the Platform Application is constrained by the same settings that govern visibility of your data to that user on ExploreWWW.</p> 
-    <p>For example, assuming you have not already given a Platform Application permission to access your information, your non-public profile information should not be visible to someone using a Platform Application if it is not otherwise accessible to that person on ExploreWWW.</p>
-    <p>To uninstall a Platform Application at any time, please <a href="https://www.ExploreWWW.com/secure/settings?userAgree=" rel="external">click here</a> or, if the relevant Platform Application is not listed there, go directly to the Application Details page for the Platform Application you wish to uninstall.  Note, however, that even if you uninstall a Platform Application, your connections, other members of your network, or other users of ExploreWWW may still be using the Platform Application, and so it may still have access to certain information about you, just as those users do.  To report any suspected misuse of information contact  <a href="mailto:abuse@ExploreWWW.com">abuse@ExploreWWW.com</a>.  ExploreWWW is not responsible for your use of or inability to use any Platform Applications, including the content, accuracy, or reliability of such applications and the privacy practices or other policies of Platform Developers.</p>
-    <h4>Surveys and Polls</h4>
-    <p>As a member of ExploreWWW you will receive requests to participate in market research including polls and surveys submitted by other ExploreWWW members.  If you participate in surveys and polls offered through the service, the information you provide may be visible to others using the service.   You may opt-out of participating by changing your <a href="https://www.ExploreWWW.com/secure/settings" rel="external">Account &amp; Settings</a> to stop receiving these inquiries and requests.</p>
-    <h4>Forums/Chats/Blogs</h4>
-    <p>If you post on the Answers section of ExploreWWW, or use a bulletin board, import a blog, or participate in a chat room on ExploreWWW, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  ExploreWWW is not responsible for the personally identifiable information you choose to submit in these forums.</p>
-    <h4>Testimonials and Advertisement Placed through ExploreWWW DirectAds Service</h4>
-    <p>If you provide any testimonials about the ExploreWWW service or place advertisements through the ExploreWWW DirectAds services, we may post those testimonials and examples of advertisements you place in connection with ExploreWWW’s promotion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided.  For more information about DirectAds please see the <a href="/static?key=pop%2Fpop_sas_terms" onclick="plainPop('/static?key=pop%2Fpop_sas_terms','425','500','yes','yes'); return false;" title="New window will open">DirectAds Terms of Use</a>.</p>
-    <h4>Communications to other Users</h4>
-    <p>Many emails you initiate through ExploreWWW, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you’re directly connected. Other communications that you initiate through the ExploreWWW website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.</p>
-    <h4>Legal Disclaimer</h4>
-    <p>It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.</p>
-    <h4>Disclosures to others</h4>
-    <p>We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a ExploreWWW corporation division or company and only after taking steps to ensure that your privacy rights continue to be protected. Any third party to which we transfer or sell ExploreWWW’s assets will have the right to continue to use the personal and other information that you provide to us.</p>
-  </li>
-  <li>
-    <h3><a name="pri-3" id="pri-3">Your Information Choices</a></h3>
-    <h4>Accessing and Changing Your Account Information</h4>
-    <p>You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your ExploreWWW account including your email, and contact preferences, at any time by logging in to  <a href="https://www.ExploreWWW.com/secure/settings" rel="external">your account</a> on the ExploreWWW website.  Please be aware that even after your request for a change is processed, ExploreWWW may for a time retain residual information about you in its backup and/or archival copies of its database.</p>
-    <p>You can also close your account through the ExploreWWW website. If you close your ExploreWWW account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the ExploreWWW Privacy Policy in effect at the time of your request. To request that we close your account and remove your information from the ExploreWWW service, please send your request to <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a>. Please send your request using an email account that you have registered with ExploreWWW under your name. You will receive a response to requests sent to <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a> within three business days of our receiving it.</p>
-  </li>
-  <li>
-    <h3><a name="pri-4" id="pri-4">Important Information</a></h3>
-    <h4>Children</h4>
-    <p>Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.</p>
-    <h4>Changes to this Privacy Policy</h4>
-    <p>ExploreWWW may update this privacy policy. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
-    <p>If you continue to use the ExploreWWW service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.</p>
-  </li>
-  <li>
-    <h3><a name="pri-5" id="pri-5">Security</a></h3>
-    <p>In order to secure your personal information, access to your data on ExploreWWW is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and our web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center.  It is your responsibility to protect the security of your login information.</p>
-  </li>
-</ol>
-					<div class="aclear"></div>
-				
-			</div> <!-- maincontent -->
-		</div> <!-- main -->
-				
+					<ol>
+					  <li>
+						<h3><a name="pri-1" id="pri-1">Personal Information Collected</a></h3>
+						<p>We collect your personal information in the following ways:</p>
+						<h4>Registration</h4>
+						<p>In order to become a ExploreWWW user, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code, a brief summary of your professional background (current occupation &amp; networking objectives), and a password chosen by you.</p>
+						<h4>Profile Information</h4>
+						<p>Once a user, you may provide additional information in the  <a href="/profile" rel="external">Profile section</a> describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities in the ExploreWWW system.  To the extent any of the information you provide at registration or in the Profile section is not personally identifiable, it may be used in the same manner and extent which other information that is not personally identifiable is permitted to be used hereunder, including, without limitation, for the purpose of serving advertisements through the service.  If you opt-out you may lose the potential benefit of receiving ads that are more targeted to your interests.</p>
+						<h4>Cookies</h4>
+						<p>Like most web sites, ExploreWWW uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows ExploreWWW to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.</p>
+						<p>One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your ExploreWWW account. The next time you visit the ExploreWWW web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. In order to access or change any of your private information (like a credit card number), however, you must log in securely again with your password even if your computer contains your persistent cookie.</p>
+						<p>Additionally, if you log out of the ExploreWWW site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a “session” cookie, is used to identify a particular visit to the ExploreWWW site. Session cookies expire after a short time or when you close your web browser.</p>
+						<p>We use cookies to improve the quality of our service by storing user preferences and tracking user trends. In the course of serving advertisements or optimizing services to our users, we may allow authorized third parties to place or recognize a unique cookie on your browser.  Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, for greater customization of your user experience, Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.  Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use our website or services.  ExploreWWW does not store personally identifiable information in the cookies.</p>
+						<h4>Web Beacons</h4>
+						<p>We allow other companies, called ad networks, to serve advertisements to ExploreWWW users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. ExploreWWW may “target” some ads to users that fit a certain general profile — for example, “product managers in Texas.” ExploreWWW does NOT use personally identifiable information to target ads.</p>
+						<p>To deliver these ads properly, ExploreWWW may include a file, called a web beacon, from these ad networks within pages served by ExploreWWW so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.</p>
+						<p>Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.</p>
+						<p>These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. ExploreWWW never provides personally identifiable information to any advertiser nor any third party.</p>
+						<p>You may opt-out of use of Web beacons in ExploreWWW pages that you view and of placement of a cookie by ad networks in your browser.  To opt-out <a href="https://www.ExploreWWW.com/secure/settings?advt=" rel="external">click here</a> and go to the “Advertising” section at the bottom and change the setting there to “No”.  If you opt-out you may lose the potential benefit of receiving ads that are more targeted to your interests.</p>
+						<h4>Log files, IP addresses and information about your computer</h4>
+						<p>Due to the communications standards on the Internet, when you visit the ExploreWWW web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave ExploreWWW.  We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the ExploreWWW service. The linkage between your IP address and your personally identifiable information is never shared with third-parties without your permission or except when required by law.</p>
+					  </li>
+					  <li>
+						<h3><a name="pri-2" id="pri-2">Uses of personal information</a></h3>
+						<p>ExploreWWW is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by ExploreWWW Corporation from ExploreWWW users (such as, by way of example, patterns of utilization) and is exclusively owned by ExploreWWW. This information can be utilized by ExploreWWW in such manner as ExploreWWW, in its sole discretion, deems appropriate.</p>
+						<h4>ExploreWWW Communications</h4>
+						<p>ExploreWWW will communicate with you through email and notices posted on this website or through any other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges to messages your mobile device).  These include a series of up to five welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from ExploreWWW related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. ExploreWWW may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your <a href="https://www.ExploreWWW.com/secure/settings" rel="external">‘Account &amp; Settings’</a> and amending your email notification choices.  If you wish, you can also opt-out of receiving promotional emails, by sending a request to <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a>.</p>
+						<h4>Customized Content</h4>
+						<p>Information provided to ExploreWWW (or to third parties with whom it offers combined services) is also used to customize your experience on the web site. For example, when you login to your account we will display the screen names of new users who have recently joined your network.</p>
+						<h4>Sharing Information With Third Parties</h4>
+						<p>ExploreWWW takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services or information. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.</p>
+						<p>ExploreWWW offers a “public profile” feature which allows users to publish portions of their ExploreWWW profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature by editing their <a href="https://www.ExploreWWW.com/secure/settings" rel="external">account and settings</a>, however ExploreWWW does not warrant how third-party search engines will update their cache.</p>
+						<p>We may provide aggregated anonymous data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate, including, without limitation, to prospective advertisers on ExploreWWW. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a>.</p>
+						<h4>Teaming with Other Organizations to Offer Combined and Other Services</h4>
+						<p>ExploreWWW may offer our services in connection with other web sites (including updates about the ExploreWWW service) or may team with other online services to give you the combined results of both services or additional services and benefits.  Platform Applications (as defined in the User Agreement) can be designed by Platform Developers (as defined in the User Agreement) or by a subset of Platform Developers with whom ExploreWWW has more closely aligned (“Partners”).</p>
+						<p>In the case of Partners, we do some vetting and we only work with trusted Partners.  For example, SimplyHired.com is a Partner which lets you use its services to find jobs combined with the use of ExploreWWW to find referrals to those jobs.  Because of ExploreWWW’s trust in these Partners, Platform Applications or services designed by a Partner may be automatically granted permission to access account information to provide the combined services.</p>
+						<p>For Platform Applications designed by most Platform Developers, you will be asked to confirm acceptance of the Platform Developers’ respective privacy policies and user agreements, which have not necessarily been reviewed or approved by ExploreWWW.  In these cases, it will be your choice whether to make use of the services or not and to proceed under the Platform Developers’ terms.</p>
+						<p>Platform Developers are required to agree to restrictions on access, storage and usage of such information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Platform Developers, we may not screen or approve Platform Developers, and we cannot and do not guarantee that all Platform Developers will abide by such restrictions and agreements. Certain actions you take through the Platform Applications will be displayed to your connections.</p>
+						<p>If you, your connections, members of your network, or other users of ExploreWWW use any Platform Application, or if you interact with a Platform Application being used by any of them, such Platform Application may access and share certain information about you with others. Because a Platform Application can make calls on behalf of the user interacting with it to access non-public information, the level of detail accessible by the Platform Application is constrained by the same settings that govern visibility of your data to that user on ExploreWWW.</p>
+						<p>For example, assuming you have not already given a Platform Application permission to access your information, your non-public profile information should not be visible to someone using a Platform Application if it is not otherwise accessible to that person on ExploreWWW.</p>
+						<p>To uninstall a Platform Application at any time, please <a href="https://www.ExploreWWW.com/secure/settings?userAgree=" rel="external">click here</a> or, if the relevant Platform Application is not listed there, go directly to the Application Details page for the Platform Application you wish to uninstall.  Note, however, that even if you uninstall a Platform Application, your connections, other members of your network, or other users of ExploreWWW may still be using the Platform Application, and so it may still have access to certain information about you, just as those users do.  To report any suspected misuse of information contact  <a href="mailto:abuse@ExploreWWW.com">abuse@ExploreWWW.com</a>.  ExploreWWW is not responsible for your use of or inability to use any Platform Applications, including the content, accuracy, or reliability of such applications and the privacy practices or other policies of Platform Developers.</p>
+						<h4>Surveys and Polls</h4>
+						<p>As a member of ExploreWWW you will receive requests to participate in market research including polls and surveys submitted by other ExploreWWW members.  If you participate in surveys and polls offered through the service, the information you provide may be visible to others using the service.   You may opt-out of participating by changing your <a href="https://www.ExploreWWW.com/secure/settings" rel="external">Account &amp; Settings</a> to stop receiving these inquiries and requests.</p>
+						<h4>Forums/Chats/Blogs</h4>
+						<p>If you post on the Answers section of ExploreWWW, or use a bulletin board, import a blog, or participate in a chat room on ExploreWWW, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  ExploreWWW is not responsible for the personally identifiable information you choose to submit in these forums.</p>
+						<h4>Testimonials and Advertisement Placed through ExploreWWW DirectAds Service</h4>
+						<p>If you provide any testimonials about the ExploreWWW service or place advertisements through the ExploreWWW DirectAds services, we may post those testimonials and examples of advertisements you place in connection with ExploreWWW’s promotion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided.  For more information about DirectAds please see the <a href="/static?key=pop%2Fpop_sas_terms" onclick="plainPop('/static?key=pop%2Fpop_sas_terms','425','500','yes','yes'); return false;" title="New window will open">DirectAds Terms of Use</a>.</p>
+						<h4>Communications to other Users</h4>
+						<p>Many emails you initiate through ExploreWWW, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you’re directly connected. Other communications that you initiate through the ExploreWWW website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.</p>
+						<h4>Legal Disclaimer</h4>
+						<p>It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.</p>
+						<h4>Disclosures to others</h4>
+						<p>We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a ExploreWWW corporation division or company and only after taking steps to ensure that your privacy rights continue to be protected. Any third party to which we transfer or sell ExploreWWW’s assets will have the right to continue to use the personal and other information that you provide to us.</p>
+					  </li>
+					  <li>
+						<h3><a name="pri-3" id="pri-3">Your Information Choices</a></h3>
+						<h4>Accessing and Changing Your Account Information</h4>
+						<p>You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your ExploreWWW account including your email, and contact preferences, at any time by logging in to  <a href="https://www.ExploreWWW.com/secure/settings" rel="external">your account</a> on the ExploreWWW website.  Please be aware that even after your request for a change is processed, ExploreWWW may for a time retain residual information about you in its backup and/or archival copies of its database.</p>
+						<p>You can also close your account through the ExploreWWW website. If you close your ExploreWWW account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the ExploreWWW Privacy Policy in effect at the time of your request. To request that we close your account and remove your information from the ExploreWWW service, please send your request to <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a>. Please send your request using an email account that you have registered with ExploreWWW under your name. You will receive a response to requests sent to <a href="mailto:customer_service@ExploreWWW.com">customer_service@ExploreWWW.com</a> within three business days of our receiving it.</p>
+					  </li>
+					  <li>
+						<h3><a name="pri-4" id="pri-4">Important Information</a></h3>
+						<h4>Children</h4>
+						<p>Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.</p>
+						<h4>Changes to this Privacy Policy</h4>
+						<p>ExploreWWW may update this privacy policy. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
+						<p>If you continue to use the ExploreWWW service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.</p>
+					  </li>
+					  <li>
+						<h3><a name="pri-5" id="pri-5">Security</a></h3>
+						<p>In order to secure your personal information, access to your data on ExploreWWW is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and our web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center.  It is your responsibility to protect the security of your login information.</p>
+					  </li>
+					</ol>
+                    <br><br>
+                </div>
+            </div>
 		<div class="rightcontent">
-				<br><h3><a class="posttitle" href="http://www.explorewww.com/add_story.php"> Suggest a Website</a></h3><br>
-				<script language="JavaScript" type="text/javascript">
-				<!--
-				ctxt_ad_partner = "1116358647";
-				ctxt_ad_section = "";
-				ctxt_ad_bg = "";
-				ctxt_ad_width = 250;
-				ctxt_ad_height = 250;
-				ctxt_ad_bc = "FFFFFF";
-				ctxt_ad_cc = "FFFFFF";
-				ctxt_ad_lc = "014084";
-				ctxt_ad_tc = "333333";
-				ctxt_ad_uc = "666666";
-				// -->
-				</script>
-				<script language="JavaScript" src="http://ypn-js.overture.com/partner/js/ypn.js">
-				</script>
-				
-				
-				<script language="JavaScript" type="text/javascript">
-				<!--
-				ctxt_ad_partner = "1116358647";
-				ctxt_ad_section = "";
-				ctxt_ad_bg = "";
-				ctxt_ad_width = 250;
-				ctxt_ad_height = 250;
-				ctxt_ad_bc = "FFFFFF";
-				ctxt_ad_cc = "FFFFFF";
-				ctxt_ad_lc = "014084";
-				ctxt_ad_tc = "333333";
-				ctxt_ad_uc = "666666";
-				// -->
-				</script>
-				<script language="JavaScript" src="http://ypn-js.overture.com/partner/js/ypn.js">
-				</script>
-		</div> <!-- rightcontent -->
-</div> <!-- container -->
 
+		<div id="main">
+		<form name="form1" method="post" action="add_story.php" style="padding:0px;margin:0px;">
+		  <table border="0" cellspacing="0" cellpadding="0">
+		    <tbody><tr>
+		      <td><strong>Please suggest a valid url</strong></td>
+		    </tr>
+		    <tr>
+		      <td><input name="story_url" type="text" id="story_url" size="36" maxlength="165" value="http://">
+			  <input name="story_tag" type="hidden" id="story_tag" value="{Tag_FIELD}">
+		      </td>				      
+		    </tr>
+		    <tr>
+			<td align="right"><input type="submit" name="Submit" value="Submit"></td>
+		    </tr>
+		    <tr>
+		      <td><br>
+			<span class="error"></span></td>
+		    </tr>
+		  </tbody></table>
+		</form>
+		</div>
 
+		<script type="text/javascript"><!--
+		google_ad_client = "pub-2496782724050014";
+		/* 160x600, created 6/4/09 */
+		google_ad_slot = "8664959700";
+		google_ad_width = 160;
+		google_ad_height = 600;
+		//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
 
+		<span class="posttitle"><a href="http://www.explorewww.com/signup1.php">Advertise Your Website Here</a></span>
+
+		<br><br><script type="text/javascript"><!--
+		google_ad_client = "pub-2496782724050014";
+		/* 250x250, created 6/4/09 */
+		google_ad_slot = "1247596071";
+		google_ad_width = 250;
+		google_ad_height = 250;
+		//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script><br><br>
+
+        	</div>
+        <div class="aclear">
+        </div>
+    </div>
 
     <br>
     <div id="footerbar"></div>
     <div id="footerbarcontent">
         <div id="footerinfo">
-            <div align="center" class="copyr">
+            <div align="center">
 					<p id="links">
 						<a class="footer" href="http://www.explorewww.com/about.php">About ExploreWWW</a> |
 						<a class="footer" href="http://www.explorewww.com/contact.php">Contact Us</a> |
@@ -530,14 +615,26 @@ function replycancel()
 						<a class="footer" href="http://www.explorewww.com/terms.php">Terms</a> |
 						<a class="footer" href="http://www.explorewww.com/sitemap.php">Site Map</a>
 					</p>
-					<p id="legal"><span class="footerText">©2009 All Rights Reserved. | <a href="http://www.ExploreWWW.com"><span>ExploreWWW.com</span></a></span>
-						&nbsp;&nbsp;&nbsp;&nbsp;
-						<noscript><img alt="Clicky" src="http://static.getclicky.com/54535-db8.gif" /></noscript>
-						<a title="Clicky Web Analytics" href="http://getclicky.com/46280"><img alt="Clicky Web Analytics" src="http://static.getclicky.com/media/links/badge.gif" border="0"></a>
-						<script src="http://static.getclicky.com/54535.js" type="text/javascript"></script>
-					</p>
+					<span class="copyr">©2009 All Rights Reserved. | <a href="http://www.ExploreWWW.com"><span>Social Search Engine - ExploreWWW</span></a></span>
+
             </div>
         </div>
 	</div>
+
+</div>
+
+<script src="http://toolbar.wibiya.com/toolbarLoader.php?toolbarId=25535" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12029027-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 </body></html>
