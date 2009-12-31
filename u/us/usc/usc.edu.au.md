@@ -1,14 +1,26 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181249id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231022001id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
+
+[ ](https://web.archive.org/Home.htm)
+
+## Main Navigation
+
+## Sub-Navigation
+
+## Breadcrumbs
 
 ## Main Content
 
 ### Privacy 
 
-The University of the Sunshine Coast complies with Australian and Queensland privacy laws and guidelines. Information provided by visitors to our site may be used for the administrative and educational purposes of the University. The University will not make available to a third party any personal information that is supplied by you unless required or permitted by law.
+The University of the Sunshine Coast collects and uses personal information about its students, staff and others in order to operate effectively, in compliance with Queensland’s _Information Privacy Act (2009)_. 
 
-In general, this site does not use cookies. However, some applications and services available from this site may use cookies to track business processes. If you have configured your browser to reject all cookies you are still able to view information only pages on our site.
+Personal information held by the University is collected and managed in a responsible, secure manner, and will not be released to third parties without your consent, unless required by law. 
+
+Information on how the University manages personal information can be found in our [Information Privacy Policy](https://web.archive.org/University/AbouttheUniversity/Governance/Policies/InformationPrivacy.htm).
+
+#### Website information
 
 When you look at this website, our web server makes a record of your visit and logs the following information for statistical purposes:
 
@@ -20,8 +32,14 @@ When you look at this website, our web server makes a record of your visit and l
 
 
 
-Email correspondence sent to this site may be treated as a public record and retained as required by the _Public Records Act 2002 Qld_ and other relevant legislation.
+In general, this web site does not use cookies. However, some applications and services available from this site may use cookies to track business processes. 
 
-An individual has the right under the _Freedom of Information Act 1992_ to have access to and correction of their personal information held by the University of the Sunshine Coast.
+If you have configured your browser to reject all cookies you are still able to view information only pages on our site.
 
-To obtain further information contact the FOI Coordinator, University of the Sunshine Coast, Maroochydore DC 4558 or email [FOI@usc.edu.au](mailto:FOI@usc.edu.au). Information on how the University manages personal privacy can be found in our [Privacy Plan](https://web.archive.org/University/AbouttheUniversity/Governance/Policies/PrivacyPlan/PrivacyPlan.htm).
+Email correspondence sent to this site may be treated as a public record and retained as required by Queensland’s _Public Records Act (2002)_ and other relevant legislation.
+
+#### Access
+
+An individual has the right under the _Information Privacy Act_ to have access to and amendment of their personal information held by the University. 
+
+For more information about access to your personal information, contact the Right to Information and Privacy Coordinator, University of the Sunshine Coast - ML19, Maroochydore DC 4558 or email [RTI@usc.edu.au](mailto:RTI@usc.edu.au).
