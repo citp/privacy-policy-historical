@@ -1,71 +1,41 @@
-> *The following text is extracted and transformed from the eease.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026065812id_/http%3A//eease.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eease.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003859id_/http%3A//eease.com/about/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
-Employease Privacy Policy
+ADP believes that privacy is important to the success and use of the Internet. This statement sets forth ADP's Privacy Statement for ADP.com and describes the practices that ADP will follow with respect to the privacy of users of this site. From time to time, we may change this Privacy Statement. For example, as we update and improve our service, new features may require modifications to the Privacy Statement. Accordingly, please check back periodically. 
 
-Employease, Inc. ("Employease," "our," "us" and "we") has created this privacy policy in order to communicate our commitment to the privacy of information provided to us by our employer customers and their employees. We understand the nature of the information entrusted to us and acknowledge that maintenance of the privacy of such information is of the highest importance to our customers and their employees. The following discloses our information gathering and dissemination practices for our web site, http://www.employease.com ("Web Site"), and our services, as described in our Master Service Agreement ("MSA") ("Service" or "Services").  
+**What is personally identifiable information?**  
+"Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. 
 
+**How is information collected, used, and disclosed?**  
+We do not collect personal information -- including your e-mail address -- unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. 
 
-Our Information Practices
+If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. In some circumstances, ADP may share information you voluntarily provide us with trustworthy business partners. We do not sell or rent personal information collected through this site to anyone. Also, ADP may provide aggregate statistics about visitors to our sites, such as volume, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. ADP may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others. 
 
-We collect, use and disclose the following categories of information in the following ways, subject to the Exceptions section, which follows below.
+**What are cookies and how are they used?**  
+Some ADP sites, like many other commercial web sites, may utilize a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. Cookies cannot retrieve any other data from your hard drive or obtain your e-mail address. If you are simply browsing an ADP informational site, a cookie may be used to identify your browser as one that has visited the site before. 
 
-**Company Contact Information**  
-When customers and prospective customers contract for Services or inquire about our Services, we ask them to provide us with company contact information, some examples of which are the company's name, address, number of employees and industry classification. We use company contact information to provide information to customers and prospective customers regarding our Services and to maintain a record of inquiries regarding our Services. We will also send customers and prospective customers email messages using company contact information in the following circumstances: 
+We may also make use of memory-based cookies in support of authenticating the user of certain ADP web applications. Similarly, if you are a registered user of a site providing service to ADP clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize ADP services which require registration if you reject cookies. 
 
-welcome customers to our Service;  
-explain the new features of our Service as our Service develops and grows;  
-notify customers and prospective customers of Service promotions; and  
-communicate with customers about their use of our Service. 
+**What are your choices regarding collection, use, and distribution of your information?**  
+If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. If, in connection with your use of a particular service, we ask to use your data in a way not described in this Privacy Statement and you do not wish to permit that use, you can choose not to use the particular service. 
 
-We do **not** share company or contact information with any other entities.
+If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form. 
 
-**Employee Information**  
-When our employer customers utilize our Services to manage and communicate employee information on behalf of their employees, they provide us with information typically provided by an employee to an employer's human resources and/or payroll departments. Such information often includes, but is not limited to, the employee's name, address, social security number, title, salary, date of hire, benefit elections and information regarding an employee's dependents. We utilize the information provided to deliver Services to our employer customers and their employees. 
+**How can you correct, access, and update your information?**  
+You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. 
 
-Unless directed by our customers, we do not share employee information provided by our customers with anyone. When directed by our customers, we communicate company employee information to third party service providers such as payroll service bureaus, insurance companies and third party administrators, among others. We may also aggregate employee information from multiple employer customers to perform analyses. 
+**How do we protect your information?**  
+We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers. 
 
-Examples of analyses performed include, but are not limited to: number of employees enrolled in plans provided by a particular insurance carrier, average number of employees employed by our customers and average number of benefit plans sponsored by our customers. When used to perform such analyses, information provided by an employer customer or its employees is never disclosed in a level of detail sufficient to permit the identification of any individual employer customer or individual employee record. 
+Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. 
 
-**Login Identification and Passwords**  
-Our Service requires users to provide us with login identification and a password, which we will use to verify your identity and for our internal use in maintaining your customer account. 
+We will review our security arrangements from time to time as we deem appropriate. 
 
-**Referring Web Site**  
-If a prospective customer is referred to us from a third party with whom we have a business referral relationship, we collect the name and URL of the referring web site to facilitate the business referral relationship with the referring third party. 
+**How can you help protect your information?**  
+If you are using an ADP web site for which you registered and chose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. 
 
-**IP Address**  
-We gather user IP addresses when customers and their employees use our Service and Web Site. We use IP addresses to help diagnose possible Service interruptions and administer our Service and Web Site. 
+**Other sites**  
+ADP sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. 
 
-**Cookies**  
-Cookies are small files created by web sites, including our Web Site and Service, identifying the user of the web site. We utilize cookies to manage each user interaction (often referred to as a session) with our Services to ensure proper identification of the user during each use of our Service. We do not store cookies beyond such interaction. If you choose to, you can set your web browser to reject cookies from our Service. However, rejecting cookies from our Service will prevent your use of our Service. 
-
-**Service Activity Logging**  
-Our application has the capability to monitor all of your actions while using our Service and report those actions to us. We utilize this information to understand the use of our Services, to diagnose problems and enhance the features and functionality of our Service. We do not disclose such information to anyone, including our employer customers or their employees. 
-
-**Exceptions**  
-Except as described above, we will not otherwise use or disclose any personally identifiable customer or employee information, except to the extent reasonably necessary: (i) to correct technical problems and to technically process your information; (ii) to protect the security and integrity of the Web Site and our Service, including without limitation to enforce our Master Service Agreement with you; (iii) to protect our rights and property and the rights and property of others; (iv) to take precautions against liability; (v) to respond to claims that your information violates the rights or interests of third parties; (vi) to the extent required by law or to respond to judicial process; or (vii) to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety, as applicable. 
-
-You understand and agree that technical processing of your information is and may be required (a) to send and receive messages in your use of the Service; (b) to conform to the technical requirements of connecting networks; (c) to conform to the limitations of our Service; and (d) to conform to other, similar technical requirements. 
-
-**Storage of Information**  
-We store customer and prospective customer information for up to ten (10) years for business purposes. We store employee information during the term of a customer's Master Service Agreement and for up to ninety (90) days after termination of such Master Service Agreement, after which, all employee information is automatically deleted from our Service.  
-
-
-**Links to Other Web Sites**  
-Our Web Site contains links to other web sites. We are not responsible for the privacy practices or the content of other Web Sites. 
-
-**Security**  
-Our Web Site uses firewall technology as a standard Internet security measure to prevent the loss, misuse and alteration of the information under our control. Our web servers are located in a high security and high availability co-location facility professionally managed by a third party vendor. 
-
-**Notification of Changes**   
-If we decide to change our Privacy Policy, we will post those changes on our Web Site so our users are always aware of what information we collect, use and disclose. If at any point we decide to use or disclose information we have collected in a manner different from that stated at the time it was collected, we will notify our employer customers by way of an email. 
-
-**Contact Information**  
-If you feel that Employease is not abiding by its posted privacy policy, you should contact the Vice President of Finance and Administration at: 
-
-3295 River Exchange Drive  
-Suite 500  
-Norcross, GA 30092 
-
-or call 770.325.7700
+If you have questions or concerns regarding this statement, you should contact us at [ES_Privacy@adp.com](mailto:ES_Privacy@adp.com). 
