@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217100438id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004822id_/http%3A//sploder.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Make your own Online Games Arcade, War Space & Platformer Games
 
