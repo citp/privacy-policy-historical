@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dgm-india.com privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902132528id_/http%3A//www.dgm-india.com/dgm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgm-india.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004417id_/http%3A//dgm-india.com/dgm/privacy.htm) for the most accurate reproduction.*
 
 # ::Privacy Policy:: Dgmindia
 
