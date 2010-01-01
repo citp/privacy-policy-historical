@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realexgirlfriends.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609150942id_/http%3A//realexgirlfriends.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realexgirlfriends.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102002713id_/http%3A//realexgirlfriends.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
