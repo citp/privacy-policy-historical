@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209055904id_/http%3A//chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101062105id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free Chat rooms UK Chat - Privacy Policy : www.chatbazaar.com
+# Chatting Rooms, Free Online Dating Service, Free Chatting - Privacy Policy : www.chatbazaar.com
 
 ### Disclaimer and Terms of Use
 
@@ -10,12 +10,21 @@ By accessing any part of chatbazaar.com you agree to this "Agreement" in full wh
 
 Chatbazaar.com is an online chat social networking service provider which allows members to chat live and create unique personal profile where they can share their interest and personal detail including country, city, hometown, age, picture and more. Visitors/Members can view other members profiles. To identify members and to enable them connect/communicate.
 
-Chatbazaar.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at privacy@chatbazaar.com.
+Chatbazaar.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at privacy @ chatbazaar.com.
 
 ### Information collection and Use
 
 Chatbazaar.com collects user information during registration information such as full name, date of birth, gender, country, city , home town and email to authenticate user and send notification and updates relating to chatbazaar.com's services.  
 Chatbazaar.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes We may also use a user's email address to send updates, a newsletter or news regarding the service.
+
+### Google Adverts
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
+
+
 
 ### Invitations and Other Communications to Non-members
 
@@ -47,7 +56,7 @@ Ads appearing on this Web site may be delivered to users by Chatbazaar.com or on
 
 ### Security
 
-Chatbazaar.com member accounts are secured by member-created passwords Chatbazaar.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on Chatbazaar.com, please contact us a privacy@Chatbazaar.com
+Chatbazaar.com member accounts are secured by member-created passwords Chatbazaar.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on Chatbazaar.com, please contact us a privacy @ Chatbazaar.com
 
 ### Sharing and Disclosure of Information Chatbazaar.com Collects
 
@@ -59,6 +68,6 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@Chatbazaar.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy @ Chatbazaar.com
 
  
