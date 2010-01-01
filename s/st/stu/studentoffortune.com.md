@@ -1,169 +1,115 @@
-> *The following text is extracted and transformed from the studentoffortune.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212213144id_/http%3A//www.studentoffortune.com/cgi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentoffortune.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003801id_/http%3A//studentoffortune.com/cgi/privacy) for the most accurate reproduction.*
 
-# StudentOfFortune.com » Privacy Policy
+# Privacy Policy - StudentOfFortune.com
 
-## Summary
+This privacy policy ("Privacy Policy") is designed to inform you about the type of information that Student of Fortune, Inc. ( **"we,"** **"us,"** or **"our"** ) may gather about or collect from you in connection with your use of this site (this **"Site"** ). It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
 
-Our primary purpose in collecting and storing information is to provide our users with secure, pleasant, and efficient service. Student of Fortune is the sole owner of the information collected on StudentofFortune.com. 
+The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
 
-We collect, store, and use personally identifiable information to:
+This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18. 
 
-  * Provide the services and customer support you request
-  * Prevent fraudulent and illegal activities
-  * Enforce our Terms of Use
-  * Personalize and improve our site's content and layout
-  * Offer specific questions and solutions that may interest you
+We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. **"Non–Personally–Identifying Information"** is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. "Personally–Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
+**A. Gathering Non-Personally-Identifying Information**
 
+**(i) Web Browsers**
 
-We collect, store, and use aggregate (not personally identifiable) information to:
+Like most site operators, we gather Non-Personally-Identifying Information from you of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol ( **"IP"** ) address, operating system and browser type, and the locations of the web pages you view right before arriving at, while navigating and immediately after leaving this Site.
 
-  * Offer targeted marketing to our advertisers
-  * Perform troubleshooting and routine diagnostics
-  * Improve our services and offerings
+**(ii) Web Cookies**
 
+A **"Web Cookie"** is a string of information that a site stores on a your computer. Your browser provides this string of information to us each time you submit a query to this Site. We use Web Cookies to track the pages that you visit each time you visit this Site, both to help us improve your experience and to help us understand how this Site is being used. 
 
+IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-## How We Collect Information
+**(iii) Third Parties’ Use of Web Beacons and Web Cookies**
 
-**Registration**
+This Site may include third-party advertising, links to other sites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. These third-party sites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use web beacons (also known as action tags or single-pixel gifs), and Web Cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who link from their respective sites to this Site, but this third party technology does not permit them to access your Personal Information. 
 
-In order to use most functions of our website, you must first complete the registration form and create a user name and password. During registration, you are required to give valid contact information (such as your name and email address). We use this information to contact you about the services on our site in which you have expressed interest. 
+We do not have access to or control over web beacons or Web Cookies that these third parties may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies as is described in more detail in Section 5 below. 
 
-You have the option to provide demographic information (such as educational level and gender) to us. We encourage you to submit this information so we can provide you a more personalized experience on our site. 
+Some third party advertising companies may provide a mechanism to opt-out of their technology. For more information about these partners and links to their privacy policies, please view each third party’s site.
 
-We offer you the opportunity to opt-in and opt-out of various email communications from Student of Fortune, such as a newsletter and service notifications. See **Communications from the Site** below for additional details.
+**B. Use of Non-Personally-Identifying Information**
 
-**Financial Transactions**
+We analyze Non–Personally–Identifying Information gathered from users of this Site to help us better understand how this Site is being used. By identifying patterns and trends in usage, we are able to better design this Site to improve your experiences, both in terms of content and ease of use. We may also link information gathered using Web Cookies to Personally-Identifying Information for safety and security reasons and for the purpose of improving the content and your experience on this Site. 
 
-We collect personally identifiable information each time that perform a transaction that would cause money to be added or deducted from your Student of Fortune account. This information includes (but is not limited to) your Student Of Fortune account number, IP address, question/solution numbers, third-party transaction identification numbers, transaction values, and other personally identifiable information. We use this information to administer financial transactions and to reduce the risk of fraud.
+**C. Disclosure of Non-Personally-Identifying Information**
 
-**Surveys or Contests**
+From time to time, we may also release the Non–Personally–Identifying Information gathered from Site users in the aggregate, such as by publishing a report on trends in the usage of this Site. 
 
-From time to time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except as set forth below:
 
-We may use a third-party service provider to conduct these surveys or contests. We will prohibit this third-party service provider from using our users' personally identifiable information for any other purpose.
+**A. Registration and Other Information Provided to Us**
 
-**Tell-A-Friend**
+When you register with the site, you may be asked to disclose Personally–Identifying Information. You may also choose to submit Personally-Identifying Information to us when you send us an email or purchase or sell an answer on this Site. We will not disclose this information to third parties, except as set forth in this Section 4. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. This email contains a link back to our website that contains your Student of Fortune account name. This will track which users register on our site though our referral so that we may offer you participation in our various referral programs. Student of Fortune does not store this information and uses it for the sole purpose of sending this one-time email. 
+**B. Material You Choose to Reveal in Profiles, On-line Fora, Blogs, Message Boards, Chat Rooms or Similar Locations**
 
-**Browser Activities**
+You may post Personally-Identifying Information on areas of this Site that may be viewed by other users or the public, although we recommend that you do not do so. ANY INFORMATION YOU POST IN YOUR PROFILE (EXCEPT FOR YOUR REAL NAME, GENDER AND ZIP CODE) CAN BE VIEWED BY THE PUBLIC. We urge you to use good judgment and not post Personally-Identifying Information that you do not want other users to know. 
 
-As is true of most websites, we gather certain information automatically and store it in web server log files. This information includes Internet protocol (IP) addresses, browser types, Internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and click-stream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
+You may modify information in your profile (except for your month, day and year of birth and your username) at any time. You can access your profile by clicking on the "My Account" link on your user profile page, then clicking on the "Edit My Profile" link.
 
-## Communications from the Site
+YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION.
 
-**Newsletters**
+**(i) Modifying Your Profile**
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
+You may modify the information in your user profile at any time by clicking on the "My Account" link on your user profile page, then clicking on the "Edit My Profile" link. 
 
-**Solutions**
+**C. DMCA Infringement Notifications, Notices of Violations of Site Terms of Use and Other Communications Directed to Us**
 
-You will receive copies of the solutions that you purchase from the site via email. You will also be notified when other users offer solutions to your questions. You may opt-out of receiving either or both of these notifications. Please see the "Choice and Opt-out" section.
+By submitting a Digital Millennium Copyright Act ( **"DMCA"** ) Infringement Notification or other communication (including notices of violations of Site Terms of Use and other communications directed to us) you consent to have this communication forwarded to the person or entity who stored or transmitted the content addressed by your communications in order to facilitate a prompt resolution. For notices other than DMCA Infringement Notifications, upon request, we will edit out your name and contact information. However, DMCA Infringement Notifications (including any Personally-Identifiable Information set forth in the notifications) will be forwarded as submitted to us without any deletions. 
 
-**Questions**
+**D. Email Notifications**
 
-You may subscribe to a service that will email you summaries of questions that you may be interested in answering. You may control the frequency of these emails or opt-out entirely. Please see the "Choice and Opt-out" section.
+We will email you copies of the solutions you purchase from the site and notify you by email when other users offer solutions to your questions. In addition, we will email you summaries of questions that you may be interested in answering. You may specify the frequency with which you wish to receive these emails by clicking on the "My Account" link on your user profile page, then clicking on the "Edit Account Options" link and selecting the frequency with which you would like to receive these emails from the drop down menus.
 
-**Service-Related Announcements**
+You may opt-out of receiving these emails by clicking on the "My Account" link on your user profile page, then clicking on the "Edit Account Options" link and unchecking the check boxes next to "Email Me Tutorials," "Notify Me of Tutorials," and "Notify Me of Purchases." 
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, we may send you an email if we suspend our service for maintenance or if we make material changes to our policies.
+**E. Invite a Friend Feature**
 
-Because these messages are important and not promotional in nature, you may not opt-out of these communications. If you do not wish to receive them, you may deactivate your account.
+We may offer you the ability to send friends emails about this Site. If you choose to use this feature, we will only use your friends’ email addresses on a one-time basis to send the requested email and will not store or otherwise retain this information.
 
-**Customer Service**
+**F. Surveys**
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. 
+From time to time, we may also ask you to participate in surveys designed to help us improve this Site. Any Personally-Identifying Information provided to us in connection with a survey will be used only in relation to that survey for internal use and business development purposes, and will not be disclosed to third parties. 
 
-**Profile**
+**G. Contests, Giveaways and other Promotions**
 
-We store information that we collect through cookies, log files, and/or clear gifs to create a "profile" of your preferences. We tie your personally identifiable information and purchasing history to information in the profile in order to provide tailored promotions and marketing offers, improve the content of the site, and to reduce the risk of fraud. 
+From time to time, we may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. You will not be required to participate in any promotion. 
 
-## Information Sharing and Disclosure
+**H. Security**
 
-**Aggregate Information (non-personally identifiable)**
+We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof. Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security.
 
-We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We do not link aggregate user data with personally identifiable information. 
+**I. Other Disclosures**
 
-**Personally Identifiable Information**
+Notwithstanding any other provision in this Privacy Policy, we will disclose Personally-Identifying Information in the following limited circumstances:
 
-We do not share personally identifiable information with third parties except as described below.
+**(i) Employees and Third Party Processors**
 
-_Agents_
+We will disclose Personally–Identifying Information to our employees, contractors, affiliates, vendors and suppliers who process Personally–Identifying Information on our behalf or participate with us in the provision or operation of this Site.
 
-We use credit card processing companies to enable you to use a credit card to add funds to your account. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+**(ii) By Law, to Protect Rights and to Comply with Our Policies**
 
-We permit you to use PayPal to add and withdraw funds from your accounts. Please consult the PayPal privacy policy for further information regarding their practices. You may visit the PayPal website at https://www.paypal.com/.
+We disclose Personally–Identifying Information if: (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect our property or other rights, or the rights of other users, third parties or the public at large; or (3) we believe that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
 
-_Legal Requirements_
+**(iii) Business Transfers; Bankruptcy**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website. We also reserve the right to disclose your personally identifiable information to take legal action related to breaches of our Terms of Use.
+We reserve the right to transfer all Personally-Identifying Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of our assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally–Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.
 
-## Choice and Opt-out
+**(iv) Marketing**
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. 
+We may email you about products and services that we believe may be of interest to you. We may also will provide your email information to third parties, so that those third parties may directly contact you about additional products and services.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. We offer an opportunity to opt-out of certain communications on our User Account page. 
+**J. Opting out of Receiving Marketing Materials**
 
-You will be notified when your personal information is collected by any third party that is not one of our agents or service provider, so you can make an informed choice as to whether or not to share your information with that party.
+If you wish to opt-out of receiving emails from us or from third parties, please follow the instructions at the bottom of each email. You may also opt out of receiving marketing materials from us by clicking on the "My Account" link on your user profile page, then clicking on the "Edit Account Options" link and unchecking the check box next to "Site News & Reminders."
 
-## Cookies
+Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves such as via links. We do not control the third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and you should take those steps necessary, in your discretion, to protect your privacy.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Cookies are nearly ubiquitous on the Internet, and are a feature of virtually all commercial sites.
+Because of changes in technology and the growth and development of our business or for other business reasons, we may need to modify this Privacy Policy from time to time. We will alert you by email if this policy is revised (if you have given us your email address) and will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change email addresses. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes. 
 
-We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site.
+Unless we obtain your express consent, any revised Privacy Policy will apply only to information collected after the time it takes effect, and not to information collected under any earlier Privacy Policy. 
 
-We use both temporary and persistent cookies. We use temporary cookies to make it easier for you to navigate through our site. Your computer will delete our temporary cookies when you close your Internet browser's window. 
-
-A persistent cookie will remain on your hard drive for an extended period. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. We also use persistent cookies to reduce the risk of fraud.
-
-You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
-
-If you refuse cookies issued by StudentOfFortune.com, you may be unable to use our website.
-
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See "Third Party Advertisers."
-
-This privacy statement covers the use of cookies by StudentofFortune.com only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section.]
-
-## Third Party Advertisers
-
-The ads appearing on this Website are delivered to users by our advertising partners.  We share Website usage information about users with reputable third parties for the purpose of targeting our Internet banner advertisements on this site. 
-
-Our advertising partners may use cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information that our advertising partners collect and share through this technology is not personally identifiable. 
-
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please visit their respective privacy policy.
-
-## Links to Other Sites
-
-This website contains links to other sites that are not owned or controlled by Student of Fortune. Please be aware that we, Student of Fortune, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. 
-
-This privacy statement applies only to information collected by this website. 
-
-## Questions and Solutions
-
-You should be aware that any personally identifiable information you submit when asking or answering a question on the Student of Fortune website can be read, collected, or used by other users of the website. We are not responsible for the personally identifiable information you choose to submit in this manner. The information submitted in a question or a solution to the Student of Fortune website must be consistent with the Student of Fortune Terms of Use. Student of Fortune reserves the right to terminate the accounts of any users who violate the Terms of Use as stated on the Student of Fortune website. 
-
-## Access to Personally Identifiable Information
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the appropriate changes on our member information page.
-
-## Security
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our website, you can notify us using our contact page.
-
-## Business Transitions
-
-In the event Student of Fortune goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. We will notify you via prominent notice on our Website for 30 days of any such change in ownership or control of your personal information.
-
-## Changes in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. We will notate the date of last revision at the beginning of each copy of our privacy policy. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our site after you have logged in.
-
-## Contact Us 
-
-If you have any questions or suggestions regarding our privacy policy, please contact us using our contact page.
+This policy is effective as of and was last updated on June 2, 2009.
