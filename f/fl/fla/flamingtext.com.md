@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826085135id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004219id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
 
 # FlamingText.com
 
