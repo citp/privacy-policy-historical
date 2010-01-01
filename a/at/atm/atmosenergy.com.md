@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atmosenergy.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531062532id_/http%3A//www.atmosenergy.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmosenergy.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005225id_/http%3A//www.atmosenergy.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Atmos Energy
 
 Privacy Policy
 
-This Web site is owned by Atmos Energy Corporation ("Atmos Energy"). We know that many visitors to our site are concerned about the information they may provide and how we may use that information, so the following is provided to address those concerns. If you have any questions about our Web Site Privacy Policy, you may e-mail us at custinq@atmosenergy.com or write to: 
+This Web site is owned by Atmos Energy Corporation ("Atmos Energy"). We know that many visitors to our site are concerned about the information they may provide and how we may use that information, so the following is provided to address those concerns. If you have questions about our Web Site Privacy Policy, you may e-mail us at [custinfo@atmosenergy.com](mailto:custinfo@atmosenergy.com) or write to: 
 
 Atmos Energy Corporation  
 P.O. BOX 650205  
@@ -12,7 +12,7 @@ Dallas, TX 75240
 
 Several companies in the Atmos Energy "Family of Companies" are separate affiliates of Atmos Energy and are not regulated by regulatory agencies. You are not required to purchase their products to continue to receive quality regulated services from Atmos Energy Corporation. 
 
-Atmos respects your right to privacy and recognizes our responsibility to protect the confidentiality of your proprietary customer information, including the following: 
+Atmos Energy respects your right to privacy and recognizes our responsibility to protect the confidentiality of your proprietary customer information, including the following: 
 
   * information provided on applications and other forms; 
   * information about your transactions and account experiences with us; 
@@ -58,4 +58,4 @@ Atmos Energy uses appropriate commercially available anti-virus software to ensu
 **Acceptance and Jurisdiction**  
 By using this site, you agree that you have read, understand and will abide, and be bound, by the terms of this Web Site Privacy Policy ("Terms"). If you do not agree to these Terms, please do not use Atmos Energy's Web sites. These Terms shall be governed in all respects in accordance with the laws without regard to the conflict or choice of law rules thereof. 
 
-Atmos Energy reserves the right to modify or amend this Privacy Statement. Atmos Energy will communicate material modifications or amendments to our customers and will post such modifications or amendments to the Atmos Web site. 
+Atmos Energy reserves the right to modify or amend this Privacy Statement. Atmos Energy will communicate material modifications or amendments to our customers and will post such modifications or amendments to the Atmos Energy Web site. 
