@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513182319id_/http%3A//www.hsbcprivatebank.com/misc/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101131906id_/http%3A//www.hsbcprivatebank.com/misc/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement - HSBC Private Bank - Privacy statement
 
@@ -49,7 +49,7 @@ In order to develop this Site in line with customer needs we are working with We
 
 WebTrends uses a cookie to track the number of unique users of this Site. It basically tells us whether the Site has a small number of regular visitors or a large number of infrequent visitors. None of the information can be traced to an individual – we do not know who you are as a unique user, merely that there are a certain number of people using this Site. The cookie only relates to what goes on in this Site and the information cannot be used for marketing on an individual basis.
 
-For more information about how WebTrends collects data, please read their privacy policy on the [WebTrends website](https://ondemand.webtrends.com/privacypolicy.asp#PSFV).
+For more information about how WebTrends collects data, please read their privacy policy on the WebTrends website.
 
 The web browsers of most computers are initially set up to accept cookies. If you prefer, you can set your web browser to disable cookies or to inform you when a website is attempting to add a cookie. You can also delete cookies that have previously been added to your computer’s cookie file.
 
