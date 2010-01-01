@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the goldencasino.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617111751id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasino.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004339id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.*
 
 # GoldenCasino.Com - Online Casino
 
   
-This GoldenCasino.com Privacy Statement discloses the information privacy practices for GoldenCasino.com's Web site, www.GoldenCasino.com
+This GoldenCasino.com Privacy Statement discloses the information privacy practices for GoldenCasino.com's Web site, www.NewGoldenCasino.com
 
 Our Commitment
 
-Your online privacy is important to us here at GoldenCasino.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page (http://www.GoldenCasino.com) and is available directly at (http://www.GoldenCasino.com/privacy.php). 
+Your online privacy is important to us here at GoldenCasino.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page (http://www.NewGoldenCasino.com) and is available directly at (http://www.NewGoldenCasino.com/privacy.php). 
 
 Information Collected About You
 
@@ -58,7 +58,7 @@ GoldenCasino.com may from time to time, contact the user directly to acquire mor
 
 Marketing Notifications
 
-As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenCasino.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook 2003, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.
+As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenCasino.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.
 
 You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on GoldenCasino.com and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by GoldenCasino.com. 
 
@@ -70,7 +70,7 @@ GoldenCasino.com works hard to ensure that our systems are secure and that they 
 
 Protecting Children from Online Gambling
 
-At GoldenCasino.com Protecting the privacy of the very young is especially important. GoldenCasino.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.
+At GoldenCasino.com Protecting the privacy of the very young is especially important. GoldenCasino.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 21 years of age/Age of Majority, we will immediately close their account and delete their personal information.
 
 Sharing and Control Over Your Information
 
