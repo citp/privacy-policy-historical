@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2008-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080708135741id_/http%3A//www.elliemae.com./legal/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101090555id_/http%3A//elliemae.com/legal/legal_privacy.asp) for the most accurate reproduction.*
 
 # Ellie Mae
 
 Privacy Policy
+
+Please note: Portions of this website are currently in the process of being updated.
 
 (January 21, 2000) 
 
