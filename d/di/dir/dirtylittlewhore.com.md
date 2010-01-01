@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtylittlewhore.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009142025id_/http%3A//www.clips4sale.com/do/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtylittlewhore.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003730id_/http%3A//www.clips4sale.com/do/privacy) for the most accurate reproduction.*
 
 # Clips4Sale.com - The #1 Downloadable Clip Site on the Net!
 
