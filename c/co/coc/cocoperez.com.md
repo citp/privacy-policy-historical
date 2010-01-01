@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cocoperez.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822152123id_/http%3A//cocoperez.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocoperez.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003750id_/http%3A//cocoperez.com/privacy-notice) for the most accurate reproduction.*
 
-# CocoPerezPrivacy Notice
+# CocoPerez: Privacy Notice
 
 Last updated: August 5, 2009. 
 
