@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaypornaccess.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214201709id_/http%3A//www.gaypornaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaypornaccess.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004132id_/http%3A//www.gaypornaccess.com/privacy.php) for the most accurate reproduction.*
 
-# GayPornAccess : One password... Infinite Porn !
+# GayPornAccess : One password... Infinite Gay Porn !
 
 ## Terms and conditions
 
