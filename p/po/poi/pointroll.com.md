@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PointRoll - Online Advertising Rich Media Provider
 
@@ -11,20 +11,20 @@
 ---  
 |   
   
-[view all](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press.aspx)
+[view all](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press.aspx)
 
-[02/19/09](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_021909.aspx) | [PointRoll Launches AdControl ...](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_021909.aspx)  
+[11/19/09](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_111909.aspx) | [Pointroll Enhances Leadership ...](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_111909.aspx)  
 ---|---  
-[02/12/09](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_090212.aspx) | [PointRoll Expands Mobile ...](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_090212.aspx)  
-[12/18/08](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_081218.aspx) | [Omniture Genesis(TM) Network ...](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_081218.aspx)  
-[12/11/08](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_081211.aspx) | [Komli Media and PointRoll form...](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press_release_081211.aspx)  
-[12/01/08](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/downloads/PointRoll_and_Panache_feature_sheet.pdf) | [PointRoll and Panache: A New...](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/downloads/PointRoll_and_Panache_feature_sheet.pdf)  
+[11/11/09](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_111109.aspx) | [PointRoll Makes Rich Media ...](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_111109.aspx)  
+[11/10/09](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_111009.aspx) | [ointRoll and Adobe Launch ...](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_111009.aspx)  
+[09/02/09](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_090209.aspx) | [PointRoll Strengthens Channel Team ...](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_090209.aspx)  
+[08/24/09](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_082409.aspx) | [PointRoll Enriches Yahoo! ...](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press_release_082409.aspx)  
   
-  * [Executive Team](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/executive-team.aspx)
-  * [Press](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/press.aspx)
-  * [Careers](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/careers.aspx)
-  * [Locations](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/locations.aspx)
-  * [Privacy Policy](https://web.archive.org/web/20090414125221id_/http%3A//www.pointroll.com/privacy-policy.aspx)
+  * [Executive Team](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/executive-team.aspx)
+  * [Press](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/press.aspx)
+  * [Careers](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/careers.aspx)
+  * [Locations](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/locations.aspx)
+  * [Privacy Policy](https://web.archive.org/web/20100102003358id_/http%3A//pointroll.com/privacy-policy.aspx)
 
 
 
@@ -39,6 +39,8 @@ PointRoll does NOT collect any personally identifying information in connection 
 In most cases, any information (including personally identifying information) that is supplied by users within the panels of PointRoll Ads is provided directly to the advertiser, and is not collected by either PointRoll or the publisher's site on which the advertisement is displayed. This information is used solely for the purpose that is identified by the advertiser within the advertisement in which the data is being supplied or as established within that advertiser's privacy policy. 
 
 In certain cases, an advertiser may request that PointRoll assist the advertiser in collecting the information supplied by users within the panels of PointRoll Ads, which may include personally identifying information. When this occurs, PointRoll only collects such information on behalf of that advertiser and this information is used solely by that advertiser for the purposes identified within the advertisement (e.g., to provide the user with requested goods, services, or information). PointRoll is not responsible for the advertisers' use of this voluntarily supplied information. PointRoll does NOT distribute this information to any party other than those indicated within the advertisement. 
+
+In some cases, information (including personally identifying information) that is supplied by users within the panels of PointRoll Ads for use of services of a third-party (for example, supply of userid and password for use of Twitter) is provided directly to the third party, and is not stored by either PointRoll or the publisher's site on which the advertisement is displayed. This information is used solely for the purpose that is identified by the third party within the advertisement in which the data is being supplied or as established within that third party's privacy policy. 
 
 Depending on the user's individual browser settings, some anti-spyware software programs may erroneously flag PointRoll advertisements or cookies as computer threats. PointRoll does not distribute viruses or any computer code that monitors or causes changes to users' computer system registries as part of its advertisements or cookies. 
 
