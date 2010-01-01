@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the atrochatro.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509181928id_/http%3A//www.atrochatro.com/faq_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrochatro.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003507id_/http%3A//atrochatro.com/faq_privacy.html) for the most accurate reproduction.*
 
 # Frequently Asked Questions > Privacy Policy
 
 **Privacy Policy**   
-We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line at contact(at)ramangupta.com. 
+We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line at support(at)aasma.com. 
 
 The following Privacy Statement discloses the information gathering and dissemination practices for Atrochatro.com’s Network of Web sites (which we collectively refer to below as the “Site”). 
 
@@ -29,16 +29,17 @@ If you are a minor under 12, you are prohibited from submitting any personal inf
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from Atrochatro.com and our partners. We also provide instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: contact(at)ramangupta.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: support(at)aasma.com 
 
 By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time. 
 
 Third Party Advertising   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please email us at contact(at)ramangupta.com. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please email us at support(at)aasma.com. 
 
 Third Party Cookies   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 **Related Questions!**  
-[I need help, where can i contact you?](https://web.archive.org/web/20080509181928id_/http%3A//www.atrochatro.com/faq_contact.html)  
-[About Us](https://web.archive.org/web/20080509181928id_/http%3A//www.atrochatro.com/faq_about.html)
+[I need help, where can i contact you?](https://web.archive.org/web/20100102003507id_/http%3A//atrochatro.com/faq_contact.html)  
+[About Us](https://web.archive.org/web/20100102003507id_/http%3A//atrochatro.com/faq_about.html)  
+[Terms & Conditions](https://web.archive.org/web/20100102003507id_/http%3A//atrochatro.com/faq_terms.html)
