@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosw.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201212820id_/http%3A//mosw.com/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosw.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003914id_/http%3A//mosw.com/policies.html%23privacy) for the most accurate reproduction.*
 
 # San Pedro Software Inc.: Privacy/Security/Delivery/Refund Policy
 
