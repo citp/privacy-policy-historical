@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealersocket.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226220313id_/http%3A//dealersocket.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealersocket.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101161903id_/http%3A//www.dealersocket.com/about/privacy.html) for the most accurate reproduction.*
 
-# About DealerSocket®
+# Privacy Policy | DealerSocket®
 
 At DealerSocket, we recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use DealerSocket's services, as well as some of the steps we take to safeguard it.
 
