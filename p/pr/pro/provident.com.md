@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113200337id_/https%3A//providentfunding.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101201155id_/https%3A//providentfunding.com/privacy.aspx) for the most accurate reproduction.*
 
 # Provident Funding - Privacy
 
 |   
 ---  
   
+[](https://web.archive.org/CALCULATORS/default.aspx)
+
 Privacy and Security 
 
 Provident Funding Associates, L.P., also doing business as Provident Funding Group, Inc., Provident Home Loans and PFG Loans, Inc. (collectively "PF") is committed to respecting the privacy rights of all users of its website. The following policy describes how PF uses and protects the information that is provided or collected through this website. 
