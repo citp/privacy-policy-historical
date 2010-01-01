@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockcompetition.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620012253id_/http%3A//cockcompetition.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockcompetition.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003852id_/http%3A//cockcompetition.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
