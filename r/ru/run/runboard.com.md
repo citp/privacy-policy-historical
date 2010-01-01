@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the runboard.com privacy policy that was archived on 2007-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070709073928id_/http%3A//www.runboard.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runboard.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003534id_/http%3A//www.runboard.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # runboard.com - Free message boards, free forums, remotely hosted online
-
-[runboard.com](http://www.runboard.com/)    [Create your message board](http://www.runboard.com/create_community)    [Sign up](http://www.runboard.com/create_user)    [Login](http://www.runboard.com/login)      
-
 
 * * *
 
@@ -46,5 +43,4 @@ Last Updated: 10th October 2003
 
 * * *
 
-You are not logged in ([login](https://web.archive.org/login))      Board's time is 7/9/2007, 7:39 am  |   
----|---
+You are not logged in ([login](https://web.archive.org/login)) – Board's time is 1/2/2010, 12:35 am 
