@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourwebapps.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518101625id_/http%3A//yourwebapps.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourwebapps.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003330id_/http%3A//yourwebapps.com/about/privacy.html) for the most accurate reproduction.*
 
 # yourwebapps.com Privacy Policy
 
