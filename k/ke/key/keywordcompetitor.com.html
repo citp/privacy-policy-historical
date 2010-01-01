@@ -1,565 +1,288 @@
-<!--The following is the downloaded HTML source of the keywordcompetitor.com privacy policy that was archived on 2009-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090125083256id_/http%3A//keywordcompetitor.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keywordcompetitor.com privacy policy that was archived on 2010-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100101225535id_/http%3A//www.keywordcompetitor.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="forms.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" ext-strict"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Search engine optimization (SEO) keyword tool: do keyword research by entering a competitor’s domain name. Its most effective keywords and ads are uncovered AND tracked!">
+<meta name="keywords" content="search keyword, search engine ranking, engine placement search, search engine optimization seo, search engine optimisation, search keywords, seo tools, keywords search, seo tool, keyword tools, keyword generator, keyword software, keyword seo, keyword optimization, keyword ranking, keyword search tool, organic seo, find keywords, research keyword tool, keyword suggestion tool, keyword research tool, keyword spy, keyword tracking, keywords tool, keyword discovery, organic search engine optimization, seo report, keyword selector tool, best seo software, keyword suggestion tools">
 
-    <script type="text/javascript" src="js/ajax.js"></script>
-
-    <script type="text/javascript" src="scripts.js"></script>
-
-    <script type="text/javascript" src="js/messagebox.js"></script>
-
-    <link rel="stylesheet" type="text/css" href="styles/messagebox.css">
-    
-    <link rel="stylesheet" href="general.css" type="text/css">
-	<script src="jquery.js" type="text/javascript"></script>
-	<script src="popup.js" type="text/javascript"></script>
-	
-	<link rel="stylesheet" type="text/css" href="resources/css/ext-all.css">
     <script type="text/javascript" src="js/ext-base.js"></script>
     <script type="text/javascript" src="js/ext-all.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    
+    <script type="text/javascript">
+        var userLimits = eval();
+        var isRegister = 'False';
+        var isTrialUser = 'False' == 'True';
+        var hasHomesite = 'False' == 'True';
+        var userEmail = 'Guest';
+        
+        var MonitoringSubscribePriceUsd = '95';
+        var TrialRequestCount = '2147483647';
+        var TrialPeriodDays = '36500';
+        var MaxMonitoredDomains = '1';
+        var MaxMonitoredKeywords = '2';
+        
+        Ext.BLANK_IMAGE_URL = 'resources/images/default/s.gif';
+    </script>
+    
+    <script type="text/javascript" src="js/tellAFriendWindow.js"></script>
+    <script type="text/javascript" src="scripts.js"></script>
+    <script type="text/javascript" src="js/md5.js"></script>
+    <script type="text/javascript" src="js/messagebox.js"></script>
+	<script src="jquery.js" type="text/javascript"></script>
+	<script src="popup.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/checkUsersCookie.js"></script>
     <script type="text/javascript" src="js/fixes.js"></script>
     <script type="text/javascript" src="locationLoader.ashx"></script>
     <script type="text/javascript" src="js/settings-panel.js"></script>
+    <script type="text/javascript" src="js/geo-location-window.js"></script>
+    <script type="text/javascript" src="js/editProfile.js"></script>
+    <script type="text/javascript" src="js/login.js"></script>
+    <script type="text/javascript" src="js/register.js"></script>
+    <script type="text/javascript" src="js/setAlertsSettings.js"></script>
+    <script type="text/javascript" src="js/register-window.js"></script>
+    <script type="text/javascript" src="js/master.js"></script>
+    <script type="text/javascript" src="js/forgot.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="styles/messagebox.css">
+    <link rel="stylesheet" href="general.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="resources/css/ext-all.css">
+	<link rel="shortcut icon" href="KWC-favicon.ico">
 	
-	<script type="text/javascript">
-	    Ext.BLANK_IMAGE_URL = 'resources/images/default/s.gif';
-	    
-	    function login_pop()
-        {
-         //centering with css
-         centerPopup();
-	     //load popup
-	     loadPopup();
-        }
-        
-        var state = new Ext.state.CookieProvider({
-            expires: null
-        });
-        
-        function checkForRegistration()
-        {          
-            var userRegistered = false;
-            
-            if (!userRegistered)
-            {
-               centerPopup2();
-               loadPopup2(1);
-            }
-        }
-        
-        function changeSettings() {
-            var reportSettingsPanel = Ext.getCmp('report-settings-panel');
-            
-            if (reportSettingsPanel.collapsed)
-                reportSettingsPanel.expand(true);
-            else
-                reportSettingsPanel.collapse(true);
-        }
-        
-        Ext.onReady(function(){
-            if (Ext.getDom('report-settings')) {
-            
-                var settingsPanel = new SettingsPanel({ id: 'report-settings-panel', width: 582, renderTo: 'report-settings' });    
-                
-                settingsPanel.updateState = false;
-                Ext.getCmp('fullReport').on('check', function(checkbox, checked) {
-                    if (checked)
-                        checkForRegistration();
-                });
-                Ext.getCmp('quickReport').setValue(!state.get('reportTypeFullState', false));
-                Ext.getCmp('fullReport').setValue(state.get('reportTypeFullState', false));
-                Ext.getCmp('googleCheckbox').setValue(state.get('googleState', true));
-                Ext.getCmp('yahooCheckbox').setValue(state.get('yahooState', false));
-                var countryState = state.get('countryState', 'US');
-                var regionState = state.get('regionState', '');
-                var cityState = state.get('cityState', '');
-                
-                Ext.getCmp('countryCombo').setValue(countryState);
-                var regionCombo = Ext.getCmp('regionCombo');
-                var cityCombo = Ext.getCmp('cityCombo');
-                
-                if (countryState == '') {
-                    settingsPanel.updateState = true;
-                    settingsPanel.updateTitle();
-                }
-                else {
-                    regionCombo.emptyText = 'Loading...';
-                    regionCombo.reset();
-                        
-                    //regionCombo.getEl().up('.x-form-item').down('label').dom.innerHTML = record.data.region + ':';
-                    regionCombo.store.on('load', function() {
-                    
-                        regionCombo.emptyText = 'All regions within this country';
-
-                        if (regionState == '') {
-                            //regionCombo.setDisabled(true);
-                            regionCombo.reset();
-                            settingsPanel.updateState = true;
-                            settingsPanel.updateTitle();
-                        }
-                        else
-                            regionCombo.setValue(regionState);
-                            
-                    }, regionCombo, { single: true });
-
-                    regionCombo.store.load({ params: { country: countryState} });
-                }
-                
-                if (regionState == '') {
-                    settingsPanel.updateState = true;
-                    settingsPanel.updateTitle();
-                }
-                else {
-                    cityCombo.emptyText = 'Loading...';
-                    cityCombo.reset();
-                        
-                    //regionCombo.getEl().up('.x-form-item').down('label').dom.innerHTML = record.data.region + ':';
-                    cityCombo.store.on('load', function() {
-                        cityCombo.emptyText = 'All cities within this region';
-                        
-                        if (cityCombo == '') {
-                            cityCombo.reset();
-                        }
-                        else
-                            cityCombo.setValue(cityState);
-                            
-                            settingsPanel.updateState = true;
-                            settingsPanel.updateTitle();
-                            
-                    }, cityCombo, { single: true });
-
-                    cityCombo.store.load({ params: { region: regionState} });
-                }
-                
-                settingsPanel.updateTitle();
-                
-                var searchText = Ext.getDom('searchText');
-                
-                searchText.value = state.get('searchTextState', '');
-                
-                if (searchText.value == '')
-                    inputResetTxt();
-                
-                searchText.onkeyup = function() {
-                    state.set('searchTextState', searchText.value);
-                };
-            }
-        });
-	</script>
-	<style type="text/css">
-	    #report-settings .x-panel-header-text
-        {
-        	font-weight:normal;
-        	font-size:14px;
-        }
-        
-        #report-settings .x-panel-header
-        {
-            position:relative;
-        	white-space:nowrap;
-        }
-        
-        .x-grid3-header-offset
-        {
-        	width: auto;
-        }
-        
-        .x-align-right
-        {
-        	text-align:right;        	
-        }
-	</style>
+    <link rel="stylesheet" href="styles/master.css">
+    <link rel="stylesheet" href="newDesignCss/styles.css">
+    
     <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="ie6.css">
-<script language="javascript" type="text/javascript" src="js/ie6fix.js"></script>
-<![endif]-->
-    <!--[if lt IE 7]>
-<style type="text/css">
-#shadowDIV {
- position: absolute;
-  top: expression( (  ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
-  left: expression( (  ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
-   background-color: transparent;
-   background:repeat-y scroll 0% 0%; 
-}
-#msgexit {top:0px; position:relative;}	
-</style>
-<![endif]-->
+    <link rel="stylesheet" href="iestyles.css" />
+    <![endif]-->
+
+    <style id="master_guestReportSize" type="text/css">
+        #appnav
+        {
+            height: 65px;
+        }
+    </style>
+    
     
     <title>Privacy Policy</title>
+    <style type="text/css">
+        #appnav #research-nav a
+        {
+            background-position: 1px -59px;
+            width: 307px;
+        }
+        #appnav
+        {
+            margin-bottom: -2px;
+        }
+        #researchform p
+        {
+            margin-bottom: 20px;
+        }
+        #researchform h3
+        {
+            margin-bottom: 5px;
+        }
+    </style>
+    <!--[if lt IE 7]><link rel="stylesheet" href="iestylesOtherPages.css" /><![endif]-->
 
-<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-6270948-3");
-        pageTracker._trackPageview();
-    }  catch(err) {}
-</script>  
-</head>     
-<body style="text-align:left;">
-<div><input name="master$errorMessage" type="hidden" id="master_errorMessage"></div>
-    <table id="shadowDIV" width="100%" style="display: none; height:100%;">
-        <tbody><tr>
-            <td align="center" valign="middle">
-                <div class="box_top">
-                    &nbsp;</div>
-                <div class="box2">
-                    <table width="100%" id="msgexit">
-                        <tbody><tr>
-                            <td valign="middle">
-                                <img id="msgimage" src="images/warning_alert.png" alt="Warning alert">
-                            </td>
-                            <td id="msgcopy" valign="middle">
-                                &nbsp;
-                            </td>
-                        </tr>
-                        <tr>
-                            <td align="center" valign="middle" colspan="2">
-                                <img onclick="hideDIV('shadowDIV');" class="button" src="images/buttons/ok.png" alt="OK">
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </div>
-                <div class="box_bottom2">
-                    &nbsp;</div>
+</head>
+
+<body class="  ext-safari ext-linux" id="ext-gen12">
+<div id="container">
+
+<div id="headtop">
+	<h1 style="text-indent: 0; padding-top:63px; width: 270px; height: 0px; letter-spacing: 0px;">
+	    <span id="realTimeData" style="color: #6B0F03;">Real Time Info for Real Marketing Pros™</span>
+	    <!--a href="#">Keyword Competitor</a-->
+	</h1>
+	<table id="topnavwrapper" cellpadding="0" cellspacing="0">
+	    <tbody><tr>
+	        <td>
+	            <ul id="topnav">
+    	            <li><a href="KeywordResearchTool.aspx">Home</a></li>
+    	            
+    	            <li id="master_topFreeTrialMenuItem"><a href="signup.aspx">Free Trial</a></li>
+    	            <li id="master_topSubscribeMenuItem"><a href="subscribe.aspx">Subscribe</a></li>
+                    <li><a href="contactus.aspx">Contact Us</a></li>
+                    <li><a href="http://blog.keywordcompetitor.com" target="_blank">Blog</a></li>
+                    <li><a href="http://faq.keywordcompetitor.com" target="_blank">FAQ</a></li>
+                    <li><a href="tellFriend.aspx">Tell a Friend</a></li>
+                    <li id="topstop"><a href="videoTutorials.aspx">Video Tutorials</a></li>
+                </ul>
             </td>
         </tr>
     </tbody></table>
-    <div id="wrapper">
-        <div id="siteheader">
-            <div id="header">
-                <div id="logo">
-                    <a href="default.aspx">
-                        <img src="images/logo.png" alt="logo"></a> 
-                </div>
-                <div id="l1nav">
-                    <div style="width: 300px; display: inline; float: left;">
-                        &nbsp;</div>
-                    <div style="display: inline; float: left;">
-                         <a href="feedback.aspx">
-                             <img style="cursor: pointer; margin-right: 10px;" onmouseover="javascript:this.src='images/buttons/feedback_1.png';" onmouseout="javascript:this.src='images/buttons/feedback_0.png';" src="images/buttons/feedback_0.png" alt="Feedback"></a>    
-                     </div>
-                     
-                              
-                                                                            
-                    <div style="display: inline; float: left; margin-right: 10px;">
-                        <a href="default.aspx">
-                            <img style="cursor: pointer;" onmouseover="javascript:this.src='images/buttons/home_1.png';" src="images/buttons/home_0.png" onmouseout="javascript:this.src='images/buttons/home_0.png';" alt="Home"></a>
-                    </div>
-                    <div style="display: inline; float: left;">
-                        <a href="aboutus.aspx">
-                            <img style="cursor: pointer;" onmouseover="javascript:this.src='images/buttons/about_us_1.png'" src="images/buttons/about_us_0.png" onmouseout="javascript:this.src='images/buttons/about_us_0.png';" alt="About Us"></a>
-                    </div>
-                    <div id="master_howitworks" style="display: inline; float: left;">
-                        <a href="default.aspx">
-                            <img style="cursor: pointer;" onmouseover="javascript:this.src='images/buttons/how_it_works_1.png';" src="images/buttons/how_it_works_0.png" onmouseout="javascript:this.src='images/buttons/how_it_works_0.png';" alt="How it Works"></a>
-                    </div>
-                    <div style="display: inline; float: left;">
-                        <a href="privacy.aspx">
-                            <img style="cursor: pointer;" onmouseover="javascript:this.src='images/buttons/privacy_policy_1.png';" src="images/buttons/privacy_policy_0.png" onmouseout="javascript:this.src='images/buttons/privacy_policy_0.png';" alt="Privacy Policy"></a>
-                    </div>
-                    <div style="display: inline; float: left;">
-                        <a href="contactus.aspx">
-                            <img style="cursor: pointer;" onmouseover="javascript:this.src='images/buttons/contact_us_1.png';" src="images/buttons/contact_us_0.png" onmouseout="javascript:this.src='images/buttons/contact_us_0.png';" alt="Contact Us"></a>
-                    </div>
-                </div>
-            </div>
-            <div id="l0nav">
-                <div style="width: 440px; text-align: right; white-space: nowrap; overflow: hidden;
-                    margin-right: 5px; text-overflow: ellipsis; display: inline;">
-                    Logged in as <b id="master_username">Guest</b>
-                </div>
-                <a></a><span class="items-delimiter">|</span> <span id="master_guestNavigation">
-                    <a href="javascript:login_pop()">Log In</a> <span class="items-delimiter">|</span>
-                    <a href="signup.aspx">Sign Up</a> </span>
-            </div>
-        </div>
-        <div id="sitemiddle">            
+    <img src="newDesignImages/testimonialsAnimGif.gif" id="master_testimonial" style="float: right; margin-top: 20px;" alt="spyfu keyword spy keywordspy semrush sem rush">
+</div>
+<div id="appnav">
+    <table style="width: 100%; height: 100%;">
+    <tbody><tr>
+    <td valign="bottom" id="navTabs">
+	<ul>
+    	<li id="research-nav"><a href="KeywordResearchTool.aspx">Research Competitors</a></li>
+        <li id="monitor-nav"><a class="currentnav" href="CompetitorMonitoringTool.aspx">Monitor Competitors</a></li>
+    </ul>
+    </td>
+    <td align="right" valign="bottom">
+    <div id="loginwrapper" style="font-family: Verdana;">
+        <div id="master_loginPanelForUnregUsers" style="margin-bottom: 10px;">
             
-            
-            <table width="100%" border="0px" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <td align="center">
-                        <img style=" margin:10px 0 10px 0;" src="images/head/a_new_way.png" alt="A New Way To Compete Online">
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" valign="top">
-                        <div id="master_searchBar">
-                            <form id="form" action="default.aspx" onsubmit="validateUrl(event)">
-                            <div><input type="hidden" name="searchPostback" value="true"></div>
-                            <table cellpadding="0" cellspacing="0">
-                                <tbody><tr>
-                                    <td align="left" valign="middle">
-                                        <input id="searchText" name="searchText" style="border-width: 2px;" class="greyfont" type="text" onfocus="inputClearTxt()" onblur="inputResetTxt()" size="62" value="Type in your competitor`s domain (e.g. www.example.com)"><br>
-                                    </td>
-                                    <td valign="middle">
-                                        <div id="master_tryitfree">
-                                            <input type="image" onclick="submitForm(event)" style="padding: 0px; margin-left: 7px; cursor: pointer;
-                                                position: relative;" src="images/buttons/tryitfree.png" alt="Submit"></div>
-                                        
-                                    </td>
-                                    <td valign="middle">
-                                       <div id="master_div_for_signup">
-                                       <a style="margin-left: 5px;" href="signup.aspx">
-                                       <img src="images/sign_for_free.png" alt="Sign up for free"></a></div>
-                                   </td>
-                                </tr>
-                              </tbody></table>
-                              <table>
-                                <tbody><tr>
-                                    <td valign="middle">                                                                         
-                                       <div id="report-settings" style="text-align:left; margin-top: 20px;">
-                                       </div>
-                                    </td>
-                                                                        
-                                </tr>
-                            </tbody></table>
-                            </form>
-                        </div>
-                        
-<div style="text-align: left;">
-    <h1 style="margin-top: 30px;">
-    </h1>
-    <img src="images/head/privacy.png" alt="Privacy">
-    <p>
-        PPC Competitor Reports is committed to safeguarding your privacy on-line. The following
-        statement sets our privacy policy. For the purpose of this Privacy Statement "PPC
-        Competitor Reports" shall mean keywordcompetitor.com. This policy may change
-        from time to time so please re-read this policy periodically.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/gather.png" alt="Gather">
-    <p>
-        Our site collects information in several ways. When you sign up with our PPC Competitor
-        Reports services, you are required to complete an order form. PPC Competitor Reports
-        request your "Contact Information" like your name and email address.
-    </p>
-     <img style=" margin-top:20px;" src="images/head/contact.png" alt="Contact">
-    <p>
-        The Contact Information from the order form is used to register users in our database,
-        and is also used to get in touch with them when necessary.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/share.png" alt="Share">
-    <p>
-        You should note that the Contact Information you have provided will not be made
-        publicly available, nor sold to third parties.</p>
-    <p>
-        PPC Competitor Reports may disclose Contact Information in special cases where PPC
-        Competitor Reports has reason to believe that disclosing this information is necessary
-        to identify, contact or bring legal action against someone who may be violating
-        our terms and conditions of use or may be causing injury or interference with our
-        rights, property, our customers or anyone who could be harmed by such activities.
-        We may also disclose Contact Information when we believe, in good faith, that the
-        law requires it and for administrative and other purposes necessary to maintain
-        services and improve our products and services.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/security.png" alt="Security">
-    <p>
-        Our site has security measures in place to protect against the loss, misuse and
-        alteration of the information under our control. We use SSL secure server with digital
-        certificates (https://) and all personal information is fully encrypted during all
-        transactions. Please note, however, that no data transmission over the Internet
-        is completely secure. As a result, while we attempt to protect your personal information,
-        we cannot ensure or warrant the security of any information you provide to us and
-        you transmit such information to us at your own risk. Once we receive your transmission
-        we attempt to ensure the security of your personal information on our systems.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/password.png" alt="Password">
-    <p>
-        You are responsible for maintaining the confidentiality of your password and account
-        and are fully responsible for all activities that occur using your password or account.
-        Please notify us immediately of any unauthorized use of your password or account
-        or any other breach of security. PPC Competitor Reports will not be liable for any
-        loss that you may incur as a result of any third party's use of your password or
-        account, either with or without your knowledge. You may not use anyone else's password
-        at any time.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/review.png" alt="Review">
-    <p>
-        If you wish to review or update your account details, simply sign-in to your account
-        and click the “My Account" link found on the upper right corner of the PPC Competitor
-        Reports Search Bar, or if you are on the result page, simply click the “Update Profile”
-        link which will lead you to our password protected Members' Area. You may update
-        your information any time. Should you encounter problems with updating your profile,
-        please send an email to 
-        <script type="text/javascript">
-				u0j6="a h";
-				nt6="ref='mai";
-				d0="lto:";
-				h4hl="support";
-				gs="keywordcompetitor&#46;com%20";
-				e55j="support";
-				an27b="keywordcompetitor&#46;com ";
-				d5="<"+u0j6+nt6+d0;
-				cwzmj=h4hl+"@"+gs;
-				j7o82=e55j+"@"+an27b;
-				document.write(d5+cwzmj+"'>"+j7o82+"<"+"/"+"a"+">");
-				</script><a href="mailto:support@keywordcompetitor.com%20">support@keywordcompetitor.com </a>
-        ,
-        and our Support Team will be glad to assist you.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/notification.png" alt="Notification">
-    <p>
-        If at some point in the future, there is a change to our privacy policy that will
-        affect your personal information; we will notify you by email of the relevant changes.
-    </p>
-    <img style=" margin-top:20px;" src="images/head/contacting.png" alt="Contacting">
-    <p>
-        If you have any questions about this Privacy Statement, the practices of this site
-        or your dealings with this website, please email our Customer Care Department at
-       <script type="text/javascript">
-				u0j6="a h";
-				nt6="ref='mai";
-				d0="lto:";
-				h4hl="support";
-				gs="keywordcompetitor&#46;com%20";
-				e55j="support";
-				an27b="keywordcompetitor&#46;com ";
-				d5="<"+u0j6+nt6+d0;
-				cwzmj=h4hl+"@"+gs;
-				j7o82=e55j+"@"+an27b;
-				document.write(d5+cwzmj+"'>"+j7o82+"<"+"/"+"a"+">");
-				</script><a href="mailto:support@keywordcompetitor.com%20">support@keywordcompetitor.com </a>
-       .
-    </p>
-    <br>
+    	    <a href="signup.aspx" id="master_signUpLink" style="color: #C02206;"><b>Sign Up for FREE Trial</b></a> | <a href="javascript:loginPopupShow()" style="color: #C02206;"><b>Log in</b></a>
+	    </div>
+	    
+    </div>
+    </td>
+    </tr>
+    </tbody></table>
+</div><!-- close head top -->
+<div id="master_googleAnalytics">
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-6270948-3");
+            pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
+</div>
+<div id="middle">
+
+    <div id="head">
+        <h2 class="other-page">
+            Privacy Policy</h2>
+    </div>
+    <div id="researchform" style="height: 880px;">
+        <p>
+            Keyword Competitor is committed to safeguarding your privacy online. The following
+            statement sets our privacy policy. For the purpose of this Privacy Statement "Keyword
+            Competitor" shall mean keywordcompetitor.com. This policy may change from time to
+            time so please re-read this policy periodically.</p>
+        <h3>
+            What We Gather From You</h3>
+        <p>
+            Our site collects information in several ways. When you sign up for either a Trial
+            or a Subscription to Keyword Competitor’s services, you are required to complete
+            a form. Keyword Competitor requests your "Contact Information" such as your name,
+            email address, and website domain name.</p>
+        <h3>
+            Contact Information</h3>
+        <p>
+            The Contact Information from the order form is used to register users in our database,
+            and is also used to get in touch with users when necessary.</p>
+        <h3>
+            Who Do We Share Your Contact Information With?</h3>
+        <p>
+            You should note that the Contact Information you have provided will not be made
+            publicly available, nor sold to third parties.<br>
+            Keyword Competitor may disclose Contact Information in special cases where Keyword
+            Competitor has reason to believe that disclosing this information is necessary to
+            identify, contact or bring legal action against someone who may be violating our
+            terms and conditions of use or may be causing injury or interference with our rights,
+            property, our customers or anyone who could be harmed by such activities. We may
+            also disclose Contact Information when we believe, in good faith, that the law requires
+            it and for administrative and other purposes necessary to maintain services and
+            improve our products and services.</p>
+        <h3>
+            Security
+        </h3>
+        <p>
+            Our site has security measures in place to protect against the loss, misuse and
+            alteration of the information under our control. Please note, however, that no data
+            transmission over the Internet is completely secure. As a result, while we attempt
+            to protect your personal information, we cannot ensure or warrant the security of
+            any information you provide to us and you transmit such information to us at your
+            own risk. Once we receive your transmission we attempt to ensure the security of
+            your personal information on our systems.
+        </p>
+        <h3>
+            Password Protection</h3>
+        <p>
+            You are responsible for maintaining the confidentiality of your password and account
+            and are fully responsible for all activities that occur using your password or account.
+            Please notify us immediately of any unauthorized use of your password or account
+            or any other breach of security. Keyword Competitor will not be liable for any loss
+            that you may incur as a result of any third party's use of your password or account,
+            either with or without your knowledge. You may not use anyone else's password at
+            any time.
+        </p>
+        <h3>
+            Review and Update Information</h3>
+        <p>
+            If you wish to review or update your account details, simply sign-in to your account
+            and click the “Account Information" link found in the upper right section of the
+            web page. You may update your information any time. Should you encounter problems
+            with updating your profile, please send an email to Technical Support at
+
+            <script type="text/javascript">
+                u0j6 = "a style=\"color: white;\" h";
+                nt6 = "ref='mai";
+                d0 = "lto:";
+                h4hl = "Support";
+                gs = "KeywordCompetitor&#46;com%20";
+                e55j = "Support";
+                an27b = "KeywordCompetitor&#46;com ";
+                d5 = "<" + u0j6 + nt6 + d0;
+                cwzmj = h4hl + "@" + gs;
+                j7o82 = e55j + "@" + an27b;
+                document.write(d5 + cwzmj + "'>" + j7o82 + "<" + "/" + "a" + ">");
+            </script><a style="color: white;" href="mailto:Support@KeywordCompetitor.com%20">Support@KeywordCompetitor.com </a>
+
+        </p>
+        <h3>
+            Notification of Changes</h3>
+        <p>
+            If at some point in the future, there is a change to our privacy policy that will
+            affect your personal information; we will notify you by email of the relevant changes.</p>
+        <h3>
+            Contacting the Website</h3>
+        <p>
+            If you have any questions about this Privacy Statement, the practices of this site
+            or your dealings with this website, please email Customer Service at
+
+            <script type="text/javascript">
+                u0j6 = "a style=\"color: white;\" h";
+                nt6 = "ref='mai";
+                d0 = "lto:";
+                h4hl = "Support";
+                gs = "KeywordCompetitor&#46;com%20";
+                e55j = "Support";
+                an27b = "KeywordCompetitor&#46;com ";
+                d5 = "<" + u0j6 + nt6 + d0;
+                cwzmj = h4hl + "@" + gs;
+                j7o82 = e55j + "@" + an27b;
+                document.write(d5 + cwzmj + "'>" + j7o82 + "<" + "/" + "a" + ">");
+            </script><a style="color: white;" href="mailto:Support@KeywordCompetitor.com%20">Support@KeywordCompetitor.com </a>
+
+        </p>
+    </div>
+    <div id="benefit-list" style="width: 920px; height: 0px;">
+    </div>
+
+</div>
+<div style="clear: both;"></div>
+<div id="footer">
+    <div id="footer-menu">
+	    <a href="KeywordResearchTool.aspx">Home</a> | 
+	    
+	    <span id="master_bottomFreeTrialMenuItem"><a href="signup.aspx">Free Trial</a> |</span>
+        <span id="master_bottomSubscribeMenuItem"><a href="subscribe.aspx">Subscribe</a> |</span>
+        <a href="contactus.aspx">Contact Us</a> | 
+        <a href="http://blog.keywordcompetitor.com" target="_blank">Blog</a> | 
+        <a href="http://faq.keywordcompetitor.com" target="_blank">FAQ</a> | 
+        <a href="tellFriend.aspx">Tell a Friend</a> | 
+        <a href="privacy.aspx">Privacy Policy</a> |
+        <a href="aboutus.aspx">About Us</a>
+    </div>
+    <div id="company">
+        © 2009 Ads2Sales LLC. All Rights Reserved.
+    </div>
+</div>
+   
 </div>
 
-                    </td>
-                </tr>
-            </tbody></table>
-            
-            
-            <div style="clear: both;">
-                <!-- -->
-            </div>
-            <div id="footernav">
-                <a href="feedback.aspx">Feedback</a> | 
-                <a href="Default.aspx">Home</a> | <a href="aboutus.aspx">About Us</a> |
-                <div id="master_footer_howitworks" style="display: inline; position: inherit">
-                    <a href="default.aspx">How it Works</a> |
-                </div>
-                <a href="privacy.aspx">Privacy Policy</a> | <a href="contactus.aspx">Contact Us</a>                
-            </div>
-        </div>
-        <div id="sitefooter">
-            <div id="footercopy">
-                © 2008 Ads2Sales LLC. All Rights Reserved
-            </div>            
-        </div>
-    </div>
-    <div id="popupContact">                    
-                      <div class="box_top">
-                          &nbsp;</div>
-                <div class="box2" style=" height:173px;">
-                    <form id="loginPopupForm" method="post" action="default.aspx?login=true" onsubmit="onLoginPopupSubmit(event)">
-                    <fieldset style="border: none;">
-                    <legend></legend>
-                        <br>
-                        <table>
-                        <tbody><tr><td><label for="master_login" style=" margin-left:10px;"><b>Email</b></label></td><td>
-                        <input name="master$login" type="text" id="master_login" class="thin" style="margin-bottom: 10px;  margin-left:40px;width: 255px;" size="32" maxlength="64"><br>
-                        
-                        </td></tr><tr><td><label for="master_password" style=" margin-left:10px;"><b>Password</b></label>
-                        </td><td><input name="master$password" type="password" id="master_password" class="thin" style="margin-bottom: 10px; margin-left:40px; width: 255px;" size="32" maxlength="64"><br>
-                         </td></tr></tbody></table> 
-                        <div style="margin-top: 5px; text-align:center;">
-                            <a href="forgot.aspx">Forgot your password?</a></div>
-                         <div style="text-align: center; margin-top:10px;">
-                         <div style="text-align: center;">
-                         <input type="image" name="submit" style="padding: 0px; margin-left: 7px;
-                                                cursor: pointer; position: relative;" src="images/buttons/btn_login.png" alt="Login">
-                          <img onclick="disablePopup()" style="padding: 0px; margin-left: 7px;
-                                                cursor: pointer; position: relative;" src="images/buttons/cancel.png" alt="Cancel">
-                        </div>
-                       </div>
-                    </fieldset>
-                    </form>                                           
-                </div>
-                <div class="box_bottom2">
-                    &nbsp;</div>                                                                                
-    </div>
-    <div id="backgroundPopup"></div>
-    
-    <div id="div_unregister">                    
-           <div style="margin: 0px; padding: 0px; text-align: right;">
-                <div style=" font-size:14px; color:#3b86bd; margin: 3px 5px 0pt 0pt; cursor: pointer;" onclick="disablePopup2()"><b>
-                    X</b></div>
-           </div>          
-               <div id="popup_head_text" style=" font-size:18px; color:#2d6893; margin:15px 15px 15px 20px; text-align:center;"></div><br>
-              <div class="div_box">
-               <img alt="Register Now" src="images/register_now.png" style=" float:left;">
-               
-                 <div id="regsdiv" class="loginsubdiv" style="padding-left: 20px;"> 
-                    <br>                             
-                    <form id="form2" action="Default.aspx" method="post" onsubmit="javascript:signupSubmit2(event)">                    
-                    <table>
-                      <tbody><tr><td valign="top"><label for="master_fname">
-                            First Name*</label>
-                        </td><td><input name="master$fname" type="text" id="master_fname" class="thin" style=" margin-left:20px; margin-bottom:20px;  width:180px;" size="25" maxlength="32"><br>
-                        
-                        </td></tr><tr><td valign="top"><label for="master_lname">
-                            Last Name*</label>
-                        </td><td><input name="master$lname" type="text" id="master_lname" class="thin" style=" margin-left:20px; margin-bottom:20px;  width:180px;" size="25" maxlength="32"><br>
-                        
-                        </td></tr><tr><td valign="top"><label for="master_email">
-                            Email*</label>
-                        </td><td><input name="master$email" type="text" id="master_email" class="thin" style=" margin-left:20px; margin-bottom:20px;  width:180px;" size="25" maxlength="64"><br>
-                        
-                        </td></tr><tr><td valign="top"><label for="master_password">
-                            Password*</label>
-                        </td><td><input name="master$password1" type="password" id="master_password1" class="thin" style=" margin-left:20px; margin-bottom:20px; width:180px;" size="25" maxlength="64"><br>
-                        
-                        </td></tr><tr><td valign="top"><label for="master_confirmPassword">
-                            Confirm Password*</label>
-                        </td><td><input name="master$confirmPassword" type="password" id="master_confirmPassword" class="thin" style=" margin-left:20px; margin-bottom:20px;  width:180px;" size="25" maxlength="64">
-                        </td></tr></tbody></table> 
-                        <div style="text-align: center;">
-                            <input style="margin-top:10px;" type="image" src="images/buttons/ok_grey.png" value="Submit" name="submit">
-                        </div>                     
-                     
-                     </form>
-                     <small>
-                        Fields marked with
-                        <span style="color: rgb(153, 0, 0);">*</span>
-                        are required
-                     </small>  
-               </div>
-               </div>
-               <div class="div_box" style=" width:310px;">
-               <img alt="Login" src="images/login.png" style=" float:left;"><br>
-               <div id="loginsdiv" class="loginsubdiv2" style="width: 310px;">  
-               <br>                   
-                    <form id="Form1" method="post" action="default.aspx?login=true" onsubmit="javascript:onLoginPopupSubmit2(event)">                                                                                     
-                        <table>
-                        <tbody><tr style=" height:40px;"><td valign="top"><label for="master_login2" style=" margin-left:10px;">
-                            Email</label></td><td valign="top">
-                        <input name="master$login2" type="text" id="master_login2" class="thin" style="margin-bottom: 10px;  margin-left:40px;  width:180px;" size="25" maxlength="64"><br>
-                     
-                        </td></tr><tr><td valign="top"><label for="master_password2" style=" margin-left:10px;">Password</label>
-                        </td><td valign="top"><input name="master$password2" type="password" id="master_password2" class="thin" style="margin-bottom: 10px; margin-left:40px; width:180px;" size="25" maxlength="32"><br>
-                         </td></tr></tbody></table> 
-                        <div style="margin-top: 5px; text-align:center;">
-                            <a href="forgot.aspx" onclick="javascript:disable_full()">Forgot your password?</a></div>                       
-                         <div style="text-align: center; margin-top:10px;">
-                         <div style="text-align: center;">
-                         <input type="image" name="submit" style="padding: 0px; margin-left: 7px;
-                                                cursor: pointer; position: relative;" src="images/buttons/btn_login.png">                        
-                        </div>  
-                        </div>                               
-                    </form>       
-               </div>
-              </div>                                               
-                                                                                              
-    </div>
-    
 
 
-</body></html>
+<div id="ext-comp-1037" class="x-tip" style="position: absolute; z-index: 20000; visibility: hidden; display: none;"><div class="x-tip-tl"><div class="x-tip-tr"><div class="x-tip-tc"><div class="x-tip-header x-unselectable" id="ext-gen13"><span class="x-tip-header-text"></span></div></div></div></div><div class="x-tip-bwrap" id="ext-gen14"><div class="x-tip-ml"><div class="x-tip-mr"><div class="x-tip-mc"><div class="x-tip-body" id="ext-gen15" style="height: auto;"></div></div></div></div><div class="x-tip-bl x-panel-nofooter"><div class="x-tip-br"><div class="x-tip-bc"></div></div></div></div></div></body></html>
