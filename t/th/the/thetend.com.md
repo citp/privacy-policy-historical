@@ -1,234 +1,234 @@
-> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805061904id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004627id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
 
 # Amateur video
 
-[](http://www.thetend.com/sp/vid/181/chinese-nice-fuck.php)  
+[](http://209.51.149.138/sp/vid/198/it-takes-a-very-skilled-and-flexible-slut-for-this-blowjob.php)  
   
-[Chinese nice fuck ](http://www.thetend.com/sp/vid/181/chinese-nice-fuck.php)
+[It takes a very skilled and flexible slut for this blowjob ](http://209.51.149.138/sp/vid/198/it-takes-a-very-skilled-and-flexible-slut-for-this-blowjob.php)
 
-(265791 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/179/taiwanese-couple-caught-by-hidden-cam.php)
-
-[taiwanese couple caught by hidden cam ](http://www.thetend.com/sp/vid/179/taiwanese-couple-caught-by-hidden-cam.php)
-
-(112684 views)
+(41491 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/178/chinese-whore-in-japan.php)
+[](http://209.51.149.138/sp/vid/197/hilarious-cumshot-fail!.php)
 
-[Chinese whore in Japan ](http://www.thetend.com/sp/vid/178/chinese-whore-in-japan.php)
+[Hilarious cumshot fail! ](http://209.51.149.138/sp/vid/197/hilarious-cumshot-fail!.php)
 
-(285395 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/177/asian-sex-scandal.php)
-
-[Asian Sex Scandal ](http://www.thetend.com/sp/vid/177/asian-sex-scandal.php)
-
-(201548 views)
+(44846 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/176/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
+[](http://209.51.149.138/sp/vid/195/clueless-teen-tries-to-suck-someone-back-to-life-.php)
 
-[Hotels are expensive, so they fuck in parking lot ](http://www.thetend.com/sp/vid/176/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
+[Clueless teen tries to suck someone back to life ](http://209.51.149.138/sp/vid/195/clueless-teen-tries-to-suck-someone-back-to-life-.php)
 
-(87063 views)  
+(94700 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/194/arab-teen-amateur-sextape.php)
+
+[Arab teen amateur sextape ](http://209.51.149.138/sp/vid/194/arab-teen-amateur-sextape.php)
+
+(74044 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/193/hot-asian-teen-whore-thrashed-big-tourist-cock!.php)
+
+[Hot Asian teen whore thrashed big tourist cock! ](http://209.51.149.138/sp/vid/193/hot-asian-teen-whore-thrashed-big-tourist-cock!.php)
+
+(37675 views)  
   
-[](http://www.thetend.com/sp/vid/175/chinese-play-mahjong-sex-.php)
+[](http://209.51.149.138/sp/vid/192/chinese-amateur-couple-fuck.php)
 
-[Chinese Play Mahjong Sex ](http://www.thetend.com/sp/vid/175/chinese-play-mahjong-sex-.php)
+[Chinese amateur couple fuck ](http://209.51.149.138/sp/vid/192/chinese-amateur-couple-fuck.php)
 
-(126609 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
-
-[Chinese student fucked by bf and film ](http://www.thetend.com/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
-
-(231643 views)
+(72961 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/173/mainland-girl-get-fucked.php)
+[](http://209.51.149.138/sp/vid/190/sexy-asian-hottie-sucks-cock-in-public-.php)
 
-[Mainland girl get fucked ](http://www.thetend.com/sp/vid/173/mainland-girl-get-fucked.php)
+[Sexy Asian hottie sucks cock in public ](http://209.51.149.138/sp/vid/190/sexy-asian-hottie-sucks-cock-in-public-.php)
 
-(171140 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/172/chinese-student-fuck-in-hotel.php)
-
-[Chinese student fuck in hotel ](http://www.thetend.com/sp/vid/172/chinese-student-fuck-in-hotel.php)
-
-(192870 views)
+(24357 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/171/asian-beauty-enjoying-a-cock-at-home.php)
+[](http://209.51.149.138/sp/vid/189/hot-arab-amateur-gets-pounded-doggystyle.php)
 
-[Asian Beauty enjoying a cock at home ](http://www.thetend.com/sp/vid/171/asian-beauty-enjoying-a-cock-at-home.php)
+[Hot Arab amateur gets pounded doggystyle ](http://209.51.149.138/sp/vid/189/hot-arab-amateur-gets-pounded-doggystyle.php)
 
-(195547 views)  
+(57391 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/188/chinese-couple-fuck-in-the-hotel.php)
+
+[Chinese couple fuck in the hotel ](http://209.51.149.138/sp/vid/188/chinese-couple-fuck-in-the-hotel.php)
+
+(46648 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/187/asian-beauty-enjoying-a-cock-at-home.php)
+
+[Asian Beauty enjoying a cock at home ](http://209.51.149.138/sp/vid/187/asian-beauty-enjoying-a-cock-at-home.php)
+
+(91600 views)  
   
-[](http://www.thetend.com/sp/vid/169/cute-asian-teen-bitch.php)
+[](http://209.51.149.138/sp/vid/186/big-booty-ho-gets-pounded-on-the-road-.php)
 
-[Cute asian teen bitch ](http://www.thetend.com/sp/vid/169/cute-asian-teen-bitch.php)
+[Big booty ho gets pounded on the road ](http://209.51.149.138/sp/vid/186/big-booty-ho-gets-pounded-on-the-road-.php)
 
-(325462 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/168/asian-students-amateur-group-sex.php)
-
-[Asian students amateur group sex ](http://www.thetend.com/sp/vid/168/asian-students-amateur-group-sex.php)
-
-(168396 views)
+(44000 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/164/chinese-girl-get-fucked.php)
+[](http://209.51.149.138/sp/vid/185/guy-publish-sextape-from-his-ex-girlfriend-as-revenge.php)
 
-[Chinese girl get fucked ](http://www.thetend.com/sp/vid/164/chinese-girl-get-fucked.php)
+[Guy publish sextape from his ex girlfriend as revenge ](http://209.51.149.138/sp/vid/185/guy-publish-sextape-from-his-ex-girlfriend-as-revenge.php)
 
-(132258 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/161/two-chinese-whores-licking-together.php)
-
-[Two Chinese whores licking together ](http://www.thetend.com/sp/vid/161/two-chinese-whores-licking-together.php)
-
-(98310 views)
+(23524 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/160/chinese-homemade-sex.php)
+[](http://209.51.149.138/sp/vid/184/chinese-amateur-couple-fuck.php)
 
-[Chinese homemade sex ](http://www.thetend.com/sp/vid/160/chinese-homemade-sex.php)
+[Chinese amateur couple fuck ](http://209.51.149.138/sp/vid/184/chinese-amateur-couple-fuck.php)
 
-(112920 views)  
+(85745 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/183/sexy-girl-gets-fucked-on-the-beach-.php)
+
+[Sexy girl gets fucked on the beach ](http://209.51.149.138/sp/vid/183/sexy-girl-gets-fucked-on-the-beach-.php)
+
+(35973 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/181/chinese-nice-fuck.php)
+
+[Chinese nice fuck ](http://209.51.149.138/sp/vid/181/chinese-nice-fuck.php)
+
+(336033 views)  
   
-[](http://www.thetend.com/sp/vid/159/chinese-student-fuck-in-hotel.php)
+[](http://209.51.149.138/sp/vid/180/lovely-chinese-girl.php)
 
-[Chinese student fuck in hotel ](http://www.thetend.com/sp/vid/159/chinese-student-fuck-in-hotel.php)
+[Lovely chinese girl ](http://209.51.149.138/sp/vid/180/lovely-chinese-girl.php)
 
-(169768 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/158/nice-asian-girl-with-big-boob-get-fucked.php)
-
-[Nice asian girl with big boob get fucked ](http://www.thetend.com/sp/vid/158/nice-asian-girl-with-big-boob-get-fucked.php)
-
-(221583 views)
+(95451 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/156/chinese-couple-homemade.php)
+[](http://209.51.149.138/sp/vid/179/taiwanese-couple-caught-by-hidden-cam.php)
 
-[Chinese couple homemade ](http://www.thetend.com/sp/vid/156/chinese-couple-homemade.php)
+[taiwanese couple caught by hidden cam ](http://209.51.149.138/sp/vid/179/taiwanese-couple-caught-by-hidden-cam.php)
 
-(100261 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/155/taiwanese-girl-masturbate-at-home.php)
-
-[Taiwanese girl masturbate at home ](http://www.thetend.com/sp/vid/155/taiwanese-girl-masturbate-at-home.php)
-
-(285161 views)
+(140632 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/154/asian-couple-amateur-fuck.php)
+[](http://209.51.149.138/sp/vid/178/chinese-whore-in-japan.php)
 
-[Asian couple amateur fuck ](http://www.thetend.com/sp/vid/154/asian-couple-amateur-fuck.php)
+[Chinese whore in Japan ](http://209.51.149.138/sp/vid/178/chinese-whore-in-japan.php)
 
-(100552 views)  
+(340471 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/177/asian-sex-scandal.php)
+
+[Asian Sex Scandal ](http://209.51.149.138/sp/vid/177/asian-sex-scandal.php)
+
+(255409 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/176/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
+
+[Hotels are expensive, so they fuck in parking lot ](http://209.51.149.138/sp/vid/176/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
+
+(111229 views)  
   
-[](http://www.thetend.com/sp/vid/149/boundet-amateur-girl-fucked-hard.php)
+[](http://209.51.149.138/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
 
-[Boundet Amateur Girl fucked hard ](http://www.thetend.com/sp/vid/149/boundet-amateur-girl-fucked-hard.php)
+[Chinese student fucked by bf and film ](http://209.51.149.138/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
 
-(89514 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/143/china-couple-fuck-on-web-.php)
-
-[China couple fuck on web ](http://www.thetend.com/sp/vid/143/china-couple-fuck-on-web-.php)
-
-(33521 views)
+(268028 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/137/short-haired-brunette-girl-fucked-in-the-bushes-.php)
+[](http://209.51.149.138/sp/vid/173/mainland-girl-get-fucked.php)
 
-[Short haired brunette girl fucked in the bushes ](http://www.thetend.com/sp/vid/137/short-haired-brunette-girl-fucked-in-the-bushes-.php)
+[Mainland girl get fucked ](http://209.51.149.138/sp/vid/173/mainland-girl-get-fucked.php)
 
-(109281 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/125/hot-girl-fucked-outdoor-right-next-to-the-eiffel-tower-.php)
-
-[Hot girl fucked outdoor right next to the Eiffel Tower ](http://www.thetend.com/sp/vid/125/hot-girl-fucked-outdoor-right-next-to-the-eiffel-tower-.php)
-
-(42135 views)
+(189561 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/124/cute-japanese-playing-with-her-dildo.php)
+[](http://209.51.149.138/sp/vid/172/chinese-student-fuck-in-hotel.php)
 
-[Cute japanese playing with her dildo ](http://www.thetend.com/sp/vid/124/cute-japanese-playing-with-her-dildo.php)
+[Chinese student fuck in hotel ](http://209.51.149.138/sp/vid/172/chinese-student-fuck-in-hotel.php)
 
-(51633 views)  
+(219314 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/170/chinese-girl-tracy-having-sex-.php)
+
+[Chinese Girl Tracy Having Sex ](http://209.51.149.138/sp/vid/170/chinese-girl-tracy-having-sex-.php)
+
+(55006 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/168/asian-students-amateur-group-sex.php)
+
+[Asian students amateur group sex ](http://209.51.149.138/sp/vid/168/asian-students-amateur-group-sex.php)
+
+(195075 views)  
   
-[](http://www.thetend.com/sp/vid/123/asian-woman-sucks-and-gets-fucked!.php)
+[](http://209.51.149.138/sp/vid/164/chinese-girl-get-fucked.php)
 
-[Asian woman sucks and gets fucked! ](http://www.thetend.com/sp/vid/123/asian-woman-sucks-and-gets-fucked!.php)
+[Chinese girl get fucked ](http://209.51.149.138/sp/vid/164/chinese-girl-get-fucked.php)
 
-(102913 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/122/thin-brunette-girl-gets-fucked-hard-from-behind-by-a-stranger-.php)
-
-[Thin brunette girl gets fucked hard from behind by a stranger ](http://www.thetend.com/sp/vid/122/thin-brunette-girl-gets-fucked-hard-from-behind-by-a-stranger-.php)
-
-(124957 views)
+(154398 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/112/creampie-thai-teen-bitch.php)
+[](http://209.51.149.138/sp/vid/159/chinese-student-fuck-in-hotel.php)
 
-[Creampie thai Teen Bitch ](http://www.thetend.com/sp/vid/112/creampie-thai-teen-bitch.php)
+[Chinese student fuck in hotel ](http://209.51.149.138/sp/vid/159/chinese-student-fuck-in-hotel.php)
 
-(71175 views)
-
-| 
-
-[](http://www.thetend.com/sp/vid/109/asian-chick-in-action.php)
-
-[Asian chick in action ](http://www.thetend.com/sp/vid/109/asian-chick-in-action.php)
-
-(105393 views)
+(193042 views)
 
 | 
 
-[](http://www.thetend.com/sp/vid/94/asian-cute-girl-want-to-have-sex-first-time.php)
+[](http://209.51.149.138/sp/vid/158/nice-asian-girl-with-big-boob-get-fucked.php)
 
-[Asian cute girl want to have sex first time ](http://www.thetend.com/sp/vid/94/asian-cute-girl-want-to-have-sex-first-time.php)
+[Nice asian girl with big boob get fucked ](http://209.51.149.138/sp/vid/158/nice-asian-girl-with-big-boob-get-fucked.php)
 
-(191731 views)  
+(254875 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/156/chinese-couple-homemade.php)
+
+[Chinese couple homemade ](http://209.51.149.138/sp/vid/156/chinese-couple-homemade.php)
+
+(118890 views)
+
+| 
+
+[](http://209.51.149.138/sp/vid/152/chinese-couple-fuck.php)
+
+[Chinese couple fuck ](http://209.51.149.138/sp/vid/152/chinese-couple-fuck.php)
+
+(77306 views)  
   
 This document details important information regarding the use and disclosure of User Data collected on TheTend.com 
 
