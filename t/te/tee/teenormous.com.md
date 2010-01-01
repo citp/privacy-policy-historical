@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenormous.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302101128id_/http%3A//teenormous.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenormous.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003204id_/http%3A//teenormous.com/pages/privacy) for the most accurate reproduction.*
 
 # Teenormous - Funny t-shirts, vintage tees, custom tshirts and cool shirts from all over the internet
 
@@ -44,9 +44,3 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**  
 Should you have other questions or concerns about these privacy policies, please send an email to [privacy@teenormous.com](mailto:privacy@teenormous.com). 
-
-Teenormous is _the_ place to find all the latest and coolest t-shirts, hoodies, sweatshirts and jerseys for sale on the internet.   
-We search the internet for t-shirts so you don't have to.   
-
-
-Copyright © 2007-2009 [Brainy Atom, LLC](http://brainyatom.com/). All designs copyright by their owners.
