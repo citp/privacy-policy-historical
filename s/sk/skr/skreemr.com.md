@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skreemr.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227072825id_/http%3A//www.skreemr.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skreemr.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102002945id_/http%3A//www.skreemr.com/privacy.jsp) for the most accurate reproduction.*
 
 # SkreemR Mp3 Search - Privacy
 
