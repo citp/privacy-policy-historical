@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the msnerdslayouts.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219011442id_/http%3A//www.msnerdslayouts.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnerdslayouts.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004522id_/http%3A//msnerdslayouts.com/privacy-policy.php) for the most accurate reproduction.*
 
-# MSNERDS - Myspace Layouts, Valentine Layouts, Default Layouts, Skinny Layouts, Skinny Defaults, Double Background, Bulletin Surveys, Music Skins, Comment Boxes, Page Graphics, Drop Down Menus
+# MSNERDS - Winter Layouts, Christmas Layouts, Fall Layouts, Myspace Layouts, Default Layouts, Skinny Defaults, Double Background, Bulletin Surveys, Music Skins, Comment Boxes, Page Graphics, Drop Down Menus
 
+  
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
 **General**
@@ -35,11 +36,3 @@ You are responsible for maintaining the accuracy of your profile by notifying us
 **Binding Agreement**
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
-
-  
-
-
-> Page Tags: Myspace Layouts, **Valentine Layouts** , **Default Layouts** , Skinny Layouts, Skinny Defaults, Double Background, **Bulletin Surveys** , Music Skins, Comment Boxes, Page Graphics, Drop Down Menus, Extended Networks, **Cute Layouts** , Icons, **2.0 myspace layouts**
-
-[Myspace Layouts](https://web.archive.org/myspacelayouts.php) \- [Myspace Codes](https://web.archive.org/codes.php) \- [Add Us on Myspace](http://collect.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&friendID=240113258) \- [Support Us](https://web.archive.org/support.php)   
-© 2007-2008 MsnerdsLayouts.com. All Rights Reserved.
