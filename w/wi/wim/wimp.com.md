@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316032914id_/http%3A//www.wimp.com/y) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003558id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 No information is sold or released to anyone about visitors to Wimp.com without prior consent or a court order. In other words, no information is released to anyone unless you give permission first.
 
@@ -8,7 +8,7 @@ Wimp.com does not attempt to collect personal information from children. Note th
 
 When visiting any Internet site, your unique address called an "IP address" is recorded. Wimp.com does not release any information about the collection of this address to any third party except under court order. Wimp.com archives the log files in order to create aggregate statistical reports, detect errors on the web site, and for security reasons. The log files are eventually deleted.
 
-IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers. 
+IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers.
 
 Overview
 
@@ -22,22 +22,8 @@ Wimp.com will explicitly ask when it needs information that personally identifie
 
 Wimp.com uses cookies as part of tracking process for advertisement banners so you do not see the same ad repeatedly, but cookies will not be used to personally identify you without your prior consent.
 
-Wimp.com uses subscription forms for individuals to subscribe to its newsletter. Wimp.com will use your email address to provide you with the newsletter, which is usually mailed daily. Wimp.com will never send you any unsolicited email outside of the newsletter.
-
-Wimp.com does not and will not share, sell or rent your email address to outside third parties. Neither does it supplement your information with any outside third parties. The contents of Wimp.com's mailing list will only be disclosed due to law or court demands. 
-
-Unsubscribing from Wimp.com's newsletter is simple and can be done by following the instructions at the end of every email sent. 
-
-Disclaimer
-
-Wimp.com does not denote ownership of any images or content unless specified. Wimp.com recognizes all images and content on this site as free material. Wimp.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. Wimp.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on Wimp.com is your work, please contact wimpcom@gmail.com for its removal. 
-
-Any pages that are the original material of Wimp.com will include Wimp.com's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
-
-Some links on Wimp.com will take visitors outside its web server. Although these links were established to provide access to useful information, Wimp.com is not responsible for any of these sites or their content. 
+Some links on Wimp.com will take visitors outside its web server. Although these links were established to provide access to useful information, Wimp.com is not responsible for any of these sites or their content.
 
 Contact
 
-If you have any questions, please contact:
-
-wimpcom@gmail.com
+If you have any questions about this privacy statement, you may contact Wimp.com [here](https://web.archive.org/contact/).
