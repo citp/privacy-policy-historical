@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prohosting.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317024231id_/http%3A//www.prohosting.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohosting.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102002732id_/http%3A//www.prohosting.com/policies/privacy.htm) for the most accurate reproduction.*
 
-# ProHosting.com Web Hosting| Call Toll Free 1-866-566-HOST(4678)
+# ProHosting.com Web Hosting| Call Toll Free 866-566-HOST(4678)
 
 [Policies >](https://web.archive.org/policies/index.htm) Privacy
 
@@ -52,7 +52,7 @@ If you have any questions about this privacy statement, the practices of this si
 Technical Support  ProHosting  P.O. Box 702  
 Midway UT 84049  [support@prohosting.com](mailto:support@prohosting.com)
 
-**CALL TOLL FREE: 1-866-566-HOST (4678)**
+**CALL TOLL FREE: 866-566-HOST (4678)**
 
 **  
-ProHosting is currently hosting over 1,187,572 web sites! **
+ProHosting is currently hosting over 1,196,444 web sites! **
