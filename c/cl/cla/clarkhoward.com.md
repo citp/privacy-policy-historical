@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035225id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004314id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
 
 # clarkhoward.com - Save more, spend less and avoid rip-offs
 
