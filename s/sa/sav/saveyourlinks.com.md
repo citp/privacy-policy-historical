@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveyourlinks.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229174422id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveyourlinks.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004015id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Save Your Links - free, easy to use bookmark and favorites manager
 
@@ -32,8 +32,8 @@ You should be aware that when you voluntarily disclose personal information on t
 This site is maintained by:
 
 > Wizdata Systems, Inc.  
->  125 Greenrale Ave.  
->  Wayne, NJ 07470  
+>  2001 Route 46, Suite 310  
+>  Parsippany, NJ 07054  
 > 
 
 If you have any questions about this privacy statement or the practices of this site, please contact us at [support@saveyourlinks.com](mailto:support@saveyourlinks.com)
