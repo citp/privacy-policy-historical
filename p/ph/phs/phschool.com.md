@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phschool.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172053id_/http%3A//www.phschool.com/about_pearson/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phschool.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003547id_/http%3A//www.phschool.com/about_pearson/privacy.html) for the most accurate reproduction.*
 
 # Pearson - Privacy Statement
 
