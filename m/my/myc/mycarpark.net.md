@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycarpark.net privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031211806id_/http%3A//www.mycarpark.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarpark.net privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102001013id_/http%3A//www.mycarpark.net/privacypolicy.php) for the most accurate reproduction.*
 
 # www.MyCarPark.net
 
