@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the directcpv.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830142411id_/http%3A//www.directcpv.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directcpv.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004039id_/http%3A//www.directcpv.com/cpv-advertiser-advertisement-affiliate-privacy.html) for the most accurate reproduction.*
 
-# Targeted Contextual Advertising, Cost Per View Advertising & Pop Up Advertising with Contextual Pop Up Ads.
+# DirectCPV Advertising Network Privacy Policy for all PPV Pay per View Products
 
-**PRIVACY POLICY**
-
-Bond Carry Fund LLC, an Irvine, California corporation, and its subsidiaries and affiliated entities (collectively, "Bond Carry Fund" or the "Company") is committed to protecting the privacy of our customer's personal information and expects that its publishers will take similar precautions to protect their end-users. This Website Privacy Policy (this "Privacy Policy") applies with respect to the information that we collect (directly or indirectly through our publishers and/or advertisers) through the use from the Company Website, located at Directcpv.com, and explains how we collect, use and disclose your personal information in connection with our services. Amendments to this Policy will be posted at this URL. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. While the Company may update you of any changes to its Privacy Policy, it is your obligation to review the terms of this Privacy Policy and stay current therewith.
+Directcpv Technologies, Inc., a British Columbia corporation, and its subsidiaries and affiliated entities (collectively, "Directcpv" or "Company") is committed to protecting the privacy of our customer's personal information and expects that its publishers will take similar precautions to protect their end-users. This Website Privacy Policy (this "Privacy Policy") applies with respect to the information that we collect (directly or indirectly through our publishers and/or advertisers) through the use from the Company Website, located at Directcpv.com, and explains how we collect, use and disclose your personal information in connection with our services. Amendments to this Policy will be posted at this URL. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. While the Company may update you of any changes to its Privacy Policy, it is your obligation to review the terms of this Privacy Policy and stay current therewith.
 
 **1\. INFORMATION COLLECTED**
 
@@ -36,12 +34,12 @@ Our site has industry standard security measures in place to protect the loss, m
 
 Our Website or the links we provide to related results contains links to other Websites. Because this Policy only applies to the Company Website itself and not linked Websites, you should examine the privacy policy of any other Websites that you access from the Company Website. The Company is not responsible for the privacy practices or the content of such other Websites.
 
-**7\. CORRECT; UPDATE**
+**7\. FOR MORE INFORMATION/UPDATE**
 
 The Company allows its users the option to change or modify information previously provided. This may be done through the following methods:
 
-**E-mail the information to support@directcpv.com.  
-Contact us by telephone or by mail to advise us of any changes.**
+E-mail the information to support@directcpv.com.  
+Contact us by telephone (866) 984-6278 or by mail: 1270-1188 Georgia Street West, Vancouver, BC V6E 4A2, Canada to advise us of any changes.
 
 Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
 
@@ -50,7 +48,7 @@ Unfortunately, to the extent that such information is also stored in other datab
 You may opt-out of receiving communications from our partners, and from us, by the following means:
 
 **Send an e-mail to support@directcpv.com.  
-Contact us by telephone or by mail to advise us of your desire to opt out. **
+Contact us by telephone (866) 984-6278 or by mail: 1270-1188 Georgia Street West, Vancouver, BC V6E 4A2, Canada to advise us of your desire to opt out.**
 
 We reserve the right to send you certain communications relating to the Company service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them absent a cancellation of services with the Company.
 
