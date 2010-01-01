@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilshare.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827124316id_/http%3A//evilshare.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilshare.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003558id_/http%3A//evilshare.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Evilshare - One-click File Hosting
 
