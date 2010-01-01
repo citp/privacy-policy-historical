@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futafan.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510143834id_/http%3A//www.futafan.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futafan.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004254id_/http%3A//futafan.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
