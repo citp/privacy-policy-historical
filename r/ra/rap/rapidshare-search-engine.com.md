@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815052504id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidshare-search-engine.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003741id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
 
 # Rapidshare-search-engine.com - Find files on rapidshare
 
