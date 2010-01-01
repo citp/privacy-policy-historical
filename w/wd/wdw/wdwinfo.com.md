@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801153524id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005554id_/http%3A//wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
-t is important that our site visitors understand that any information you provide to us during the course of your visit to our site is NEVER sold or provided to any third party for any reason.  The information collected is used ONLY for it's intended purpose.
+It is important that our site visitors understand that any information you provide to us during the course of your visit to our site is NEVER sold or provided to any third party for any reason.  The information collected is used ONLY for it's intended purpose.
 
 1\. What Personally Identifiable Information of yours is collected   
 2\. What organization is collecting the information   
