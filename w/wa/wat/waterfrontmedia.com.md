@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterfrontmedia.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217123556id_/http%3A//www.waterfrontmedia.com/wfm-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterfrontmedia.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003617id_/http%3A//waterfrontmedia.com/wfm-privacy.aspx) for the most accurate reproduction.*
 
 # Waterfront Media Privacy Policy
 
