@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the all-science-fair-projects.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131091133id_/http%3A//www.all-science-fair-projects.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-science-fair-projects.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003902id_/http%3A//www.all-science-fair-projects.com/help/privacy.html) for the most accurate reproduction.*
 
-# Science Fair Projects Help Page
+# Science Fair Projects - From Our Editor
 
-## Our Privacy Policy 
+## Our Privacy Policy
 
 **All Science Fair Projects respects your privacy. We do not sell any information that we collect.**
 
@@ -12,6 +12,14 @@ We keep records of general statistics (for example, the total number of daily vi
 
 **Cookies:**  
 To allow us to provide the services for which our site was designed, we use a common feature found in browser, called "cookies". This doesn't identify the person but simply just the computer that the visitor uses to access our site. You can disable cookies at any time by changing the preferences in your browser. Our advertisers or third-party ad servers may assign their own cookies to your browser, a process that we do not normally control. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not including** your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please read on. 
+
+Google, as a third party vendor, uses cookies to serve ads on all-science-fair-projects.com. 
+
+Google's use of the [Doubleclick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to persons who visit all-science-fair-projects.com based on their visit to all-science-fair-projects.com and other sites on the Internet. 
+
+All users of all-science-fair-projects.com may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Attention all Kids!**  
 All Science Fair Projects encourages you to get permission from your parents before sending any personal information about yourself (such as your name or your email address) over the Internet, to us or to anyone else. 
