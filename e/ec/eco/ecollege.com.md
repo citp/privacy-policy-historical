@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecollege.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207002149id_/http%3A//www.ecollege.com/Privacy_Policy.learn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecollege.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004000id_/http%3A//ecollege.com/Privacy_Policy.learn) for the most accurate reproduction.*
 
 # eCollege: Privacy Policy
 
