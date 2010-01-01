@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paramountcommunication.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214213252id_/http%3A//paramountcommunication.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramountcommunication.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004459id_/http%3A//paramountcommunication.com/privacy.html) for the most accurate reproduction.*
 
 # Paramount Communication Group
 
-This statement is effective as of 1/2/03. For the most current version of the Paramount Communication Group, Inc. Privacy Statement, please visit [www.ParamountCommunication.com](https://web.archive.org/web/20090214213252id_/http%3A//paramountcommunication.com/www.ParamountCommunication.com)
+This statement is effective as of 1/2/03. For the most current version of the Paramount Communication Group, Inc. Privacy Statement, please visit [www.ParamountCommunication.com](https://web.archive.org/web/20100102004459id_/http%3A//paramountcommunication.com/www.ParamountCommunication.com)
 
 ## Overview
 
