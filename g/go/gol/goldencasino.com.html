@@ -1,129 +1,225 @@
-<!--The following is the downloaded HTML source of the goldencasino.com privacy policy that was archived on 2007-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617111751id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldencasino.com privacy policy that was archived on 2010-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102004339id_/http%3A//www.goldencasino.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>GoldenCasino.Com - Online Casino</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<link href="/style.php?sec=privacy" rel="stylesheet" type="text/css">
+<link href="/style-v2.php?sec=privacy" rel="stylesheet" type="text/css">
+<meta name="keywords" content="online casino, online gambling, casino games, casino online, gambling, internet casino, internet gambling, blackjack, online blackjack, online slots, roulette, no download slots, online flash casino, baccarat, keno">
+<meta name="description" content="Are you looking for a great place to play casino games like Blackjack, Craps, Roulette, Slots and more? GoldenCasino.com is your online casino of choice. American players can play their favorite online casino games for free or for real. No download is required to play at GoldenCasino.com.">
 <script language="JavaScript">
-<!-- 
 
-floatX=10;
-floatY=20;
-layerwidth=100;
-layerheight=40;
-halign="left";
-valign="left";
-delayspeed=3;
-minTop = 129;
-
-
-NS6=false;
-IE4=(document.all);
-if (!IE4) {NS6=(document.getElementById);}
-NS4=(document.layers);
-
-function adjust() {
-	if ((NS4) || (NS6)) {
-		if (lastX==-1 || delayspeed==0){
-			lastX=window.pageXOffset + floatX;
-			lastY=window.pageYOffset + floatY;
-		}else{
-			var dx=Math.abs(window.pageXOffset+floatX-lastX);
-			var dy=Math.abs(window.pageYOffset+floatY-lastY);
-			var d=Math.sqrt(dx*dx+dy*dy);
-			var c=Math.round(d/10);
-			if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
-			if (window.pageYOffset+floatY>lastY) {lastY=lastY+delayspeed+c;}
-			if (window.pageYOffset+floatY<lastY) {lastY=lastY-delayspeed-c;}
-		}
-
-		if (lastY < minTop) lastY = minTop;
-
-		if (NS4){
-			document.layers['floatlayer'].pageX = lastX+'px';
-			document.layers['floatlayer'].pageY = lastY+'px';
-		}
-		if (NS6){
-			document.getElementById('floatlayer').style.left=lastX+'px';
-			document.getElementById('floatlayer').style.top=lastY+'px';
-		}
-	}else if (IE4){
-		
-		var sTop = (document.documentElement && document.documentElement.scrollTop) ? document.documentElement.scrollTop : document.body.scrollTop;
-		var sLeft = (document.documentElement && document.documentElement.scrollLeft) ? document.documentElement.scrollLeft : document.body.scrollLeft;
-		
-		if (lastX==-1 || delayspeed==0){
-			lastX=sLeft + floatX;
-			lastY=sTop + floatY;
-		}else{
-			var dx=Math.abs(sLeft+floatX-lastX);
-			var dy=Math.abs(sTop+floatY-lastY);
-			var d=Math.sqrt(dx*dx+dy*dy);
-			var c=Math.round(d/10);
-			if (sLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			if (sLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
-			if (sTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
-			if (sTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
-		}
-
-		if (lastY < minTop) lastY = minTop;
-
-		document.all['floatlayer'].style.posLeft = lastX;
-		document.all['floatlayer'].style.top = lastY;
-	} 
-	setTimeout('adjust()',50);
-}
-
-function define(){
-
-	// get pos of logo_bottom.gif
-	if (NS4 || NS6){
-		xPos=eval('document.logo').x;
-		yPos=eval('document.logo').y;
-	}else if (IE4){
-		xPos = eval('document.logo').offsetLeft;
-		tempEl = eval('document.logo').offsetParent;
-		while (tempEl != null) {
-			xPos += tempEl.offsetLeft;
-			tempEl = tempEl.offsetParent;
-		}
-	}
-	ifloatX=xPos+530;
-	ifloatY=floatY;
-
-	if ((NS4) || (NS6)){ 
-		if (halign=="left") {floatX=ifloatX};
-		if (halign=="right") {floatX=window.innerWidth-ifloatX-layerwidth-20};
-		if (halign=="center") {floatX=Math.round((window.innerWidth-20)/2)-Math.round(layerwidth/2)};
-		if (valign=="top") {floatY=ifloatY};
-		if (valign=="bottom") {floatY=window.innerHeight-ifloatY-layerheight};
-		if (valign=="center") {floatY=Math.round((window.innerHeight-20)/2)-Math.round(layerheight/2)};
-	}
-	if (IE4){
-		if (halign=="left") {floatX=ifloatX};
-		if (halign=="right") {floatX=document.body.offsetWidth-ifloatX-layerwidth-20}
-		if (halign=="center") {floatX=Math.round((document.body.offsetWidth-20)/2)-Math.round(layerwidth/2)}
-		if (valign=="top") {floatY=ifloatY};
-		if (valign=="bottom") {floatY=document.body.offsetHeight-ifloatY-layerheight}
-		if (valign=="center") {floatY=Math.round((document.body.offsetHeight-20)/2)-Math.round(layerheight/2)}
-	}
-}
-
-//-->
-</script>
-<script language="JavaScript">
 <!--
+// force buggy old IE6 to cache background images
+try {
+	document.execCommand('BackgroundImageCache', false, true);
+}
+catch(e) {}
+
+
+
+
+
+// functions to DL software and redir to specific pages
+function clickForTournaments(){document.location='/download/download_engine.php'; setTimeout(redirToTournamentInfo,2000);setCookie('tx_unique_dl','1',1,'/','.goldencasino.com');}
+function redirToTournamentInfo(){ location.href='/promotions_tournaments.php'; }
+
+function clickForPromotions(){document.location='/download/download_engine.php'; setTimeout(redirToPromotions,2000);setCookie('tx_unique_dl','1',1,'/','.goldencasino.com');}
+function redirToPromotions(){ location.href='/promotions.php'; }
+
+function clickForPreviews(){document.location='/download/download_engine.php'; setTimeout(redirToPreviews,2000);setCookie('tx_unique_dl','1',1,'/','.goldencasino.com');}
+function redirToPreviews(){ location.href='/preview.php'; }
+
+function clickForVIPRewards(){document.location='/download/download_engine.php'; setTimeout(redirToVIPRewards,2000);setCookie('tx_unique_dl','1',1,'/','.goldencasino.com');}
+function redirToVIPRewards(){ location.href='/promotions-vip.php'; }
+
+
+
+
+
+
+
+// cookie functions
+function setCookie(name, value, days, path, domain, secure) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	
+	var curCookie = name + "=" + escape(value) + expires +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		((secure) ? "; secure" : "");
+	document.cookie = curCookie;
+}
+
+function getCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for (var i=0;i < ca.length;i++){
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+
+//---------------------------------------------------[ start click tracking ]---------------------------------------------------//
+
+function addOnclickToAllAnchors() {
+	// this function needs to be run either onLoad or at the very bottom of the page...
+	// typically "onLoad" includes loading of images - for our purposes we'd rather call this in the
+	// html after the </body> tag :)
+	
+	var anchors = document.getElementsByTagName("a");
+    for (var i in anchors){
+    	
+    	// preserve inline onclick events...
+    	if (anchors[i].onclick) anchors[i].onclick_ = anchors[i].onclick;
+    	
+    	// if it's a call to download, return false, otherwise just let it go...
+    	if (anchors[i].href && anchors[i].innerHTML){
+   			anchors[i].onclick = function(){ return trackClickEvents(this); };
+	   	}
+    }
+}
+
+function trackClickEvents(objAnchor){
+	
+	// kill the exit
+	doExit = false;
+	
+	// if there was an inline click event, call it
+	if (objAnchor.onclick_) objAnchor.onclick_();
+	
+	var linkDest = objAnchor.href;
+	if (objAnchor.rel){
+		var clickedLink = objAnchor.rel;
+	}else{
+		if (objAnchor.childNodes[0].tagName == "IMG"){
+			var clickedLink = objAnchor.childNodes[0].src.substring(objAnchor.childNodes[0].src.lastIndexOf('/')+1);
+		}else{
+			var clickedLink = objAnchor.innerHTML;
+		}
+	}
+	
+	// if it's a download link, call the download function that'll call the EXE and swap to the download help page
+	if (linkDest.indexOf('download.php') != -1){
+		downloadCasinoV2(clickedLink);
+		return false;
+	}else if (linkDest.indexOf('PopFlashGames') != -1){
+		// record the link
+		recordLinkClick(linkDest,clickedLink);
+
+		// record the flash pop
+		delete myPic;
+		var myPic = new Image();
+		myPic.src = '/global/tx/pixel.php?action=flash&site=10&c=&item='+escape(clickedLink)+'&r='+Math.random();
+			}else{
+		// record the link
+		// alert(linkDest+' '+clickedLink);
+		recordLinkClick(linkDest,clickedLink);
+	}
+	
+	if (linkDest.indexOf('download_engine.php') != -1){
+		return false;
+	}else{
+		return true;
+	}
+}
+
+function downloadCasinoV2(strLinkName){
+	//alert('downloading');
+	
+	// call any custome tracking pixels
+	callCustomDownloadPixels();
+	
+	// if we've been passed "strLinkName" then record the click
+	if (strLinkName) recordLinkClick('http://www.newgoldencasino.com/download.php',strLinkName);
+	
+	// start the download
+	document.location='/download/download_engine.php';
+	
+	// record the download
+	delete myPic;
+	var myPic = new Image();
+	myPic.src = '/global/tx/pixel.php?action=dl&site=10&c=&item='+escape(strLinkName)+'&r='+Math.random();
+		
+	// set the download unique cookie
+	setCookie('tx_unique_dl','1',1,'/','.goldencasino.com');
+	
+	// in 2 seconds, once the download is started, go to the download page
+	setTimeout(redirToDownloadHelpPage,2000);
+}
+
+function redirToDownloadHelpPage(){
+	location.href='/download.php';
+}
+
+function recordLinkClick(linkDest,clickedLink){
+	delete myPic;
+	var myPic = new Image();
+	myPic.src = '/global/tx/pixel.php?action=click&site=10&c=&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
+	}
+
+function callCustomDownloadPixels() {
+	// do nothing for now...
+}
+
+//---------------------------------------------------[ end click tracking ]---------------------------------------------------//
+
+function simFlashMouseOver(flashMovieName){
+	var flashMovie=getFlashMovieObject(flashMovieName);
+	flashMovie.SetVariable("/:zoom", 0);
+	flashMovie.Play();
+}
+
+function simFlashMouseOut(flashMovieName){
+	var flashMovie=getFlashMovieObject(flashMovieName);
+	flashMovie.SetVariable("/:zoom", 1);
+	flashMovie.StopPlay();
+}
+
+function getFlashMovieObject(movieName){
+	if (window.document[movieName]){
+		return window.document[movieName];
+	}
+	if (navigator.appName.indexOf("Microsoft Internet")==-1){
+		if (document.embeds && document.embeds[movieName]) return document.embeds[movieName]; 
+	}else{
+		return document.getElementById(movieName);
+	}
+}
 
 function PopWin(url) {
 	var WindowWidth = 550;
-	var WindowHeight = 400;
+	var WindowHeight = 470;
 	var WindowTop = (screen.availHeight/2) - (WindowHeight/2);
 	var WindowLeft = (screen.availWidth/2) - (WindowWidth/2);
 	var WindowProps = 'toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable,width='+WindowWidth+',height='+WindowHeight+',left='+WindowLeft+',top='+WindowTop+',screenx='+WindowLeft+',screeny='+WindowTop;
 	PoppedWin = window.open(url,"PoppedWin",WindowProps);
+	PoppedWin.focus();
 	return;
 }
+
+function PopFlashGames(){
+	var url = '/flash/index.php';
+	var WindowWidth = 800;
+	var WindowHeight = 600;
+	var WindowTop = (screen.availHeight/2) - (WindowHeight/2);
+	var WindowLeft = (screen.availWidth/2) - (WindowWidth/2);
+	var WindowProps = 'toolbar=0,location=0,status=0,menubar=0,scrollbars=no,resizable,width='+WindowWidth+',height='+WindowHeight+',left='+WindowLeft+',top='+WindowTop+',screenx='+WindowLeft+',screeny='+WindowTop;
+	PoppedFlashGames = window.open(url,"PoppedFlashGames",WindowProps);
+	PoppedFlashGames.focus();
+	// set the download unique cookie
+	setCookie('tx_unique_flash','1',1,'/','.goldencasino.com');
+	return;
+}
+
+function PopDlPageTutorialVid() {PopWin('/tutorial_download-n-account_dlpage.php');}
+function PopTournamentTutorialVid() {PopWin('/promotions_tournaments-tutorial.php');}
 
 function toggleDisplay(obj){
 	var el = document.getElementById(obj);
@@ -139,31 +235,63 @@ function GoToPageInParent(url){
 	opener.location.href = url;
 }
 
+
+
+//---------------------------------------------------[ start dhmlt exit pop ]---------------------------------------------------//
+
+
+//---------------------------------------------------[ end dhmlt exit pop ]---------------------------------------------------//
+
+//---------------------------------------------------[ start JS entry confirm pop ]---------------------------------------------------//
+
+function doEntryConfirmDownloadPop(){
+		
+	//if (testEntry==1){
+	//	if ((getCookie('tx_unique_flash') != 1) && (getCookie('tx_unique_dl') != 1) && (getCookie('tx_unique_entryconfirmpop') != 1)){
+	//		// no flash click, download click, and previous JS entry confirm pop
+	//		setCookie('tx_unique_entryconfirmpop','1',1,'/','.goldencasino.com');
+	//		var msg = "Click 'OK' to download our free software while browsing the site.";
+	//		if (confirm(msg)) document.location='/download/download_engine.php';
+	//	}
+	//}
+}
+
+setTimeout("doEntryConfirmDownloadPop()",3000);
+
+//---------------------------------------------------[ end JS entry confirm pop ]---------------------------------------------------//
+
+
 //-->
 </script></head>
 <body>
 
-<!-- .39 -->
+
+
+
+
+
+<div id="innerBody">
 
 <div align="center">
+	
+	<div id="head">
+		<a href="/"><img id="logo" name="logo" src="/images-v2/top_01_v3.gif" alt="" border="0"></a><a href="/download.php"><img src="/images-v2/top_02_v3.jpg" alt="" border="0"></a>
+	</div>
+	
+	<div id="top_nav">
+		<div id="rollingNav"><a id="nav_download" href="/download.php">Download</a><a id="nav_promotions" href="/promotions.php">Promotions</a><a id="nav_tournaments" href="/promotions_tournaments.php">Tournaments</a><a id="nav_viprewards" href="/promotions-vip.php">VIP Rewards</a><a id="nav_cashier" href="/cashier.php">Cashier</a><a id="nav_preview" href="/preview.php">Preview</a><a id="nav_support" href="/support.php">24hr Support</a><a id="nav_faq" href="/faq.php">FAQ</a><a id="nav_affiliates" href="http://www.bestcasinopartner.com" target="_blank">Affiliates</a></div>
+	</div>
 
-<table border="0" cellpadding="0" cellspacing="0" width="760">
-	<tbody><tr>
-		<td><a href="/"><img id="logo" name="logo" src="/images/top_01.gif" width="211" height="100" alt="" border="0"></a></td>
-		<td><div id="top_nav"><a class="nav_download" href="/download.php">DOWNLOAD</a> &nbsp;|&nbsp; <a class="nav" href="/promotions.php">Promotions</a> &nbsp;|&nbsp; <a class="nav" href="/cashier.php">Cashier</a> &nbsp;|&nbsp; <!-- <a class="nav" href="#">Preview</a> &nbsp;|&nbsp; --><a class="nav" href="/support.php">24hr Support</a> &nbsp;|&nbsp; <a class="nav" href="/faq.php">FAQ</a> &nbsp;|&nbsp; <a class="nav" href="/support.php">Contact Us</a> &nbsp;|&nbsp; <a class="nav" href="http://www.bestcasinopartner.com" target="_blank">Affiliates</a></div></td>
-	</tr>
-</tbody></table>
 
 	
-	<img src="/images/top_03.gif" width="760" height="30" alt="" border="0"><br>
+	<img src="/images-v2/top_03_v2.gif" width="760" height="30" alt="" border="0"><br>
 	<div id="content">
-		<img src="/images/header_privacy.gif" width="490" height="46" alt="" border="0"><br>
 	
-	
-This GoldenCasino.com Privacy Statement discloses the information privacy practices for GoldenCasino.com's Web site, www.GoldenCasino.com<br><br>
+	<img src="/images-v2/header_privacy_v2.gif" width="490" height="46" alt="" border="0"><br>
+This GoldenCasino.com Privacy Statement discloses the information privacy practices for GoldenCasino.com's Web site, www.NewGoldenCasino.com<br><br>
 
 <br><span class="title">Our Commitment</span><br><br>
-Your online privacy is important to us here at GoldenCasino.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page (http://www.GoldenCasino.com) and is available directly at (http://www.GoldenCasino.com/privacy.php).
+Your online privacy is important to us here at GoldenCasino.com. To better protect your privacy we explain here our information practices about the way your information is collected and used. This statement is available via a link from our home page (http://www.NewGoldenCasino.com) and is available directly at (http://www.NewGoldenCasino.com/privacy.php).
 <br><br>
 
 <br><span class="title">Information Collected About You</span><br><br>
@@ -203,7 +331,7 @@ We release Information when we believe release is appropriate to comply with law
 GoldenCasino.com may from time to time, contact the user directly to acquire more information in order to validate an online transaction or to disburse promotional monies.<br><br>
 
 <br><span class="title">Marketing Notifications</span><br><br>
-As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenCasino.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook 2003, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
+As a registered user, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, newsletters about GoldenCasino.com and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.<br><br>
 You may also receive telephone calls about special promotions, surveys, contests, sweepstakes, on GoldenCasino.com and its marketing partners. E-mail or telephone marketing notifications containing offers for our marketing partners will be sent by GoldenCasino.com. <br><br>
 You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, about GoldenCasino.com and its marketing partners. Postal marketing notifications containing offers for our marketing partners will be sent by GoldenCasino.com directly.<br><br>
 
@@ -211,7 +339,7 @@ You may also receive postal mail notifications from us about special promotions,
 GoldenCasino.com works hard to ensure that our systems are secure and that they meet industry standards. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. All transactions pass through Secure Socket Layer 3.0 technology to ensure your data is protected. The security of personal information you may submit in connection with a promotion entry, survey response, online facilities and/or registration for any feature on the Site is of the utmost concern to us, and we strive to ensure its security through encryption on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. We will continue to assess new technology to evaluate its ability to provide additional protection of your Information.<br><br>
 
 <br><span class="title">Protecting Children from Online Gambling</span><br><br>
-At GoldenCasino.com Protecting the privacy of the very young is especially important. GoldenCasino.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 18 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
+At GoldenCasino.com Protecting the privacy of the very young is especially important. GoldenCasino.com will not allow Children under the age of majority (minors) to participate in contests or open real money accounts. In the event of a registration where we receive notice afterwards that a member submitted an inaccurate birth date at registration and is actually under 21 years of age/Age of Majority, we will immediately close their account and delete their personal information.<br><br>
 
 <br><span class="title">Sharing and Control Over Your Information</span><br><br>
 GoldenCasino.com does not and shall not sell your User Information to anyone. Our parent management company may share your information between other sites that it manages, but will never provide your User Information to a third party for sale or rental. Within our gaming software, the user may update their personal information. <br><br>
@@ -221,36 +349,52 @@ GoldenCasino.com reserves the right to change this privacy statement at any time
 
 	
 	</div>
-	<div id="bottom_nav"><a class="nav_download" href="/download.php">DOWNLOAD</a> | <a class="nav" href="/promotions.php">Promotions</a> | <a class="nav" href="/cashier.php">Cashier</a> | <!-- <a class="nav" href="#">Preview</a> | --><a class="nav" href="/support.php">24hr Support</a> | <a class="nav" href="/faq.php">FAQ</a> | <a class="nav" href="/support.php">Contact Us</a></div>
+	<div id="bottom_nav"><a class="nav_download" href="/download.php">DOWNLOAD</a> | <a class="nav" href="/promotions.php">Promotions</a> | <a class="nav" href="/cashier.php">Cashier</a> | <a class="nav" href="#">Preview</a> | <a class="nav" href="/support.php">24hr Support</a> | <a class="nav" href="/faq.php">FAQ</a> | <a class="nav" href="/support.php">Contact Us</a></div>
 	
 	
-<div id="copyright">Copyright © 2007 GoldenCasino.com. All Rights Reserved.  Read our <a href="/privacy.php">Privacy Policy</a>.  Webmasters, join our <a href="http://www.bestcasinopartner.com/?c=0&amp;id=index" target="_blank">online casino affiliate program</a>.</div>
+<div id="copyright">© 2010 GoldenCasino.com. All Rights Reserved. <a href="/privacy.php">Privacy Policy</a> | <a href="javascript:PopWin('/terms.php');">Terms of Use</a> | Webmasters, join our <a href="http://www.bestcasinopartner.com/?c=54522&amp;id=index" target="_blank">online casino affiliate program</a>.</div>
+
+</div>
+
+<div align="center">
+	<br>
+	Advertisers: <a href="/advertiser-contact.php">Click here</a> if you have any advertising opportunities for GoldenCasino.com.<br>
+	Game Info: 
+	<a href="http://www.newgoldencasino.com/blackjack/">Blackjack</a>, 
+	<a href="http://www.newgoldencasino.com/roulette/">Roulette</a>, 
+	<a href="http://www.newgoldencasino.com/baccarat/">Baccarat</a>, 
+	<a href="http://www.newgoldencasino.com/casino-war/">Casino War</a>, 
+	<a href="http://www.newgoldencasino.com/craps/">Craps</a>, 
+	<a href="http://www.newgoldencasino.com/keno/">Keno</a>, 
+	<a href="http://www.newgoldencasino.com/red-dog/">Red Dog</a>
+</div>
 
 </div>
 
 
+<script language="javascript">
+<!--
+document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="/global/tx/pixel.php?site=10&lang=&c=54522&action=page&ref=' + escape(document.referrer) + '">');
+//-->
+</script><img width="1" height="1" border="0" hspace="0" vspace="0" src="/global/tx/pixel.php?site=10&amp;lang=&amp;c=54522&amp;action=page&amp;ref=">
+<noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="/global/tx/pixel.php?site=10&lang=&c=54522&action=page"></noscript>
+
+<script type="text/javascript" src="/floater.js"></script>	<style type="text/css"> #floatDiv { position:absolute; visibility:hidden; z-index:100; } </style>
+	<script src="/dhtml_popup/dhtml_popup.js" type="text/javascript"></script>
+	<div id="floatDiv" style="left: 1106px; top: 110px; width: 250px; height: 268px; visibility: visible;"><a href="javascript:SetCookie('dhtmlPopup','1',exp);floatLyr.floatUp();"><img src="/images-v2/250x18_closetop.gif" width="250" height="18" alt="" border="0"></a><br><a href="/65k-winner-interview.php" onclick="SetCookie('dhtmlPopup','1',exp);floatLyr.floatUp();"><img src="/images-v2/65kwinner_dropdown.gif" width="250" height="250" alt="" border="0"></a></div>
+	
+
+
+
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/global/pngfix.js"></script>
+<![endif]-->
+
 <script language="JavaScript">
-<!-- 
+<!--
 
-if (NS4) {document.write('<LAYER NAME="floatlayer" LEFT="'+floatX+'px" TOP="'+floatY+'px">');}
-if (NS6) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'px; top:'+floatY+'px;">');}
-if (IE4) {document.write('<div id="floatlayer" style="position:absolute; left:'+floatX+'; top:'+floatY+';"  visibility="hidden">');}
-document.write('<a href=\"/download.php\"><img src=\"/images/floater_01.gif\" width=\"230\" height=\"162\" alt=\"\" border=\"0\" /></a><br /><a href=\"/download.php\"><img src=\"/images/floater_02.gif\" width=\"230\" height=\"70\" alt=\"\" border=\"0\" /></a><br />');
-if (NS4){
-	document.write('</LAYER>');
-}
-if ((IE4) || (NS6)){
-	document.write('</DIV>');
-}
-
-define();
-window.onresize=define;
-lastX=-1;
-lastY=-1;
-adjust();
+// go over all the anchors and add an onClick event for each one...
+addOnclickToAllAnchors();
 
 //-->
-</script><div id="floatlayer" style="position: absolute; left: 833px; top: 129px;"><a href="/download.php"><img src="/images/floater_01.gif" width="230" height="162" alt="" border="0"></a><br><a href="/download.php"><img src="/images/floater_02.gif" width="230" height="70" alt="" border="0"></a><br></div>
-
-
-</body></html>
+</script></body></html>
