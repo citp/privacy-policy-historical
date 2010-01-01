@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mmorpgtoplist.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413190212id_/http%3A//www.mmorpgtoplist.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpgtoplist.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003628id_/http%3A//www.mmorpgtoplist.com/privacypolicy.php) for the most accurate reproduction.*
 
 # MmorpgTopList.com - mmorpg top list
 
-  
+## Privacy Policy:
+
 **MMORPGTopList.com** takes your privacy seriously, this privacy policy describes what personal information we collect and how we use it.
 
 **Routine Information Collection**
@@ -26,3 +27,9 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 **Contact Information**
 
 Concerns or questions about this privacy policy can be directed to MMORPGTopList.com for further clarification. 
+
+  
+
+
+
+
