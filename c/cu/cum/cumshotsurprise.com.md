@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cumshotsurprise.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207073204id_/http%3A//cumshotsurprise.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumshotsurprise.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003412id_/http%3A//cumshotsurprise.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
