@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provenskill.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417054746id_/http%3A//www.provenskill.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provenskill.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004107id_/http%3A//provenskill.com/privacy.html) for the most accurate reproduction.*
 
 # Provenskill.com
 
