@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2007-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070715210421id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003651id_/http%3A//stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
-# SoundTrack Lyrics - Privacy Policy
+# SoundTrack Lyrics Source #1. Privacy
 
 Stlyrics.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: stlyrics.com 
 
@@ -8,16 +8,19 @@ Stlyrics.com has created this privacy statement in order to demonstrate our comm
 **We use your IP address to help diagnose problems with our server and to administer our Web site.
 
 **Advertisers  
-**We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](http://www.allposters.com/help/guarantee.asp#privacy). Adtegrity.com [privacy policy](http://www.adtegrity.com/privacy.asp), Freeze.com [privacy policy.](https://web.archive.org/web/20070715210421id_/http%3A//www.stlyrics.com/regman.freeze.com/freeze/unified/privacy.html)   
+**We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Amazon.com [privacy policy](http://rcm.amazon.com/e/cm/privacy-policy.html?o=1). AllPosters.com [privacy policy](http://www.allposters.com/help/guarantee.asp#privacy). Adtegrity.com [privacy policy](http://www.adtegrity.com/privacy.asp).
+
 **Third Party Advertising**  
-We use BUDS INC and other third-party advertising companies to serve ads  
+We use advertising companies to serve ads  
 when you visit our Web site. These companies may use information (not  
 including your name, address, email address or telephone number) about your  
 visits to this and other Web sites in order to provide advertisements on  
 this site and other sites about goods and services that may be of interest  
 to you. If you would like more information about this practice and to know  
 your choices about not having this information used by these companies,  
-please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+please contact them. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://networkadvertising.org/managing/opt_out.asp>. 
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party  
@@ -43,5 +46,4 @@ The copyright law of the United States (Title 17, U.S. Code) governs the making 
 or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement. 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20070715210421id_/http%3A//www.stlyrics.com/contact.htm).  
-
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20100102003651id_/http%3A//stlyrics.com/contact.htm).
