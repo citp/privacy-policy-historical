@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchmirror.com privacy policy that was archived on 2009-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614025019id_/http%3A//www.searchmirror.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchmirror.com privacy policy that was archived on 2010-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102003522id_/http%3A//www.searchmirror.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -190,6 +190,7 @@ function hide( id )
 var click_act = "web";
 function screen_lock_unloack(show_flag,sect)
 {
+	window.scrollTo(0,0);
    //Lock The Screen With Totaly Transparent DIV,
    //DIv's sed in Locking Screen are Generated On Runtime if Not Found in Source Code
 	var layer_0 = window['layer_0'] || document.getElementById("layer_0");//fading div
@@ -230,19 +231,7 @@ function screen_lock_unloack(show_flag,sect)
 		//layer_0['style']['height'] = h + "px";
 	   	document.body.appendChild( layer_0 );
 		//alert(h);
-	   	if(sect == "wn")//what's new
-	   	{
-	   		sm = (w/2) - (750/2) ;//750 is the Middle content width
-	   		sm += 'px';
-	   		layer_1 = document.createElement('DIV');
-	   		layer_1['id'] = 'layer_1';
-	   		//layer_1['innerHTML'] = '<center><a style=\"cursor:hand;cursor:pointer\" onclick=\"screen_lock_unloack(0,'+"'wn'"+')\"><img border="0" src="http://images.searchmirror.com/whts_new.jpg" /></a></center>';
-	   		layer_1['innerHTML'] = '<center><a style=\"cursor:hand;cursor:pointer\" onclick=\"hide('+"'layer_1'"+');hide('+"'layer_0'"+');\"><img border="0" src="http://images.searchmirror.com/whts_new.jpg" /></a></center>';
-	   		layer_1['className'] = 'layer_1';
-			layer_1['style']['top'] = 2 + "px";
-			layer_1['style']['left'] = sm;
-		   	document.body.appendChild( layer_1 );
-	   	}
+	   	
 	   	if(sect == "au")//aboutus
 	   	{
 	   		var tpp = document.getElementById('aboutus');
@@ -257,47 +246,12 @@ function screen_lock_unloack(show_flag,sect)
 	   		//width:550px; border:1px solid #CCCCCC; margin:auto; border-top:5px solid #999999; border-bottom:5px solid #999999; text-align:center;
 	   		/*layer_2['style']['top'] = 2 + "px";*/
 			layer_2['style']['left'] = "43%";
-			layer_2['style']['left'] = "43%";
-			layer_2.style.marginTop = "-70px";
+			layer_2['style']['position'] = "absolute";
+			layer_2.style.marginTop = "-80px";
 	   		layer_2.innerHTML = ttt.innerHTML;
 	   		document.body.appendChild(layer_2);
 	   	}
-	   	if(sect == "tou")//aboutus
-	   	{
-	   		var tpp1 = document.getElementById('termsofuse');
-	   		var ttt1 = tpp1.cloneNode(tpp1);
-	   		
-	   		//alert(w);
-	   		sm = (w/2) - (550/2) ;//750 is the Middle content width
-	   		sm += 'px';
-
-	   		layer_3 = document.createElement('DIV');
-	   		layer_3['id'] = 'layer_3';
-	   		//width:550px; border:1px solid #CCCCCC; margin:auto; border-top:5px solid #999999; border-bottom:5px solid #999999; text-align:center;
-	   		/*layer_2['style']['top'] = 2 + "px";*/
-			layer_3['style']['left'] = "43%";
-			layer_3.style.marginTop = "-70px";
-	   		layer_3.innerHTML = ttt1.innerHTML;
-	   		document.body.appendChild(layer_3);
-	   	}
-	   	if(sect == "pp")//aboutus
-	   	{
-	   		var tpp2 = document.getElementById('privacypolicy');
-	   		var ttt2 = tpp2.cloneNode(tpp2);
-	   		
-	   		//alert(w);
-	   		sm = (w/2) - (550/2) ;//750 is the Middle content width
-	   		sm += 'px';
-
-	   		layer_4 = document.createElement('DIV');
-	   		layer_4['id'] = 'layer_4';
-	   		//width:550px; border:1px solid #CCCCCC; margin:auto; border-top:5px solid #999999; border-bottom:5px solid #999999; text-align:center;
-	   		/*layer_2['style']['top'] = 2 + "px";*/
-			layer_4['style']['left'] = "43%";
-			layer_4.style.marginTop = "-80px";
-	   		layer_4.innerHTML = ttt2.innerHTML;
-	   		document.body.appendChild(layer_4);
-	   	}
+	   	
 	   	if(sect == "cu")//aboutus
 	   	{
 	   		var tpp3 = document.getElementById('contactus');
@@ -312,7 +266,8 @@ function screen_lock_unloack(show_flag,sect)
 	   		//width:550px; border:1px solid #CCCCCC; margin:auto; border-top:5px solid #999999; border-bottom:5px solid #999999; text-align:center;
 	   		/*layer_2['style']['top'] = 2 + "px";*/
 			layer_5['style']['left'] = "43%";
-			layer_5.style.marginTop = "-20px";
+			layer_5['style']['position'] = "absolute";
+			layer_5.style.marginTop = "-70px";
 	   		layer_5.innerHTML = ttt3.innerHTML;
 	   		document.body.appendChild(layer_5);
 	   	}
@@ -515,7 +470,7 @@ CONTACTING US:</strong><br> If you have any questions about this privacy policy,
 <div style="height:35px;">
 		<div style="margin:auto; width:450px; text-align:center; padding-top:12px" class="footer_text"><a style="cursor:hand;cursor:pointer;" onclick="screen_lock_unloack(1,'au');">About Us</a><span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|&nbsp;</span><a href="http://www.searchmirror.com/termsofuse.html">Terms of Use</a><span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|&nbsp;</span><a href="http://www.searchmirror.com/privacy.html">Privacy Policy</a><span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|&nbsp;</span><a style="cursor:hand;cursor:pointer;" onclick="screen_lock_unloack(1,'cu');">Contact Us</a><!--<span class="footer_text" style="margin:auto; width:450px; text-align:center; padding-top:10px">&nbsp;&nbsp;|</span> <a href="#">Feedback</a>-->
 		</div>
-		<div style="margin:auto; width:450px; text-align:center; padding: 5px 10px 5px 10px;" class="footer_text">© 2006-2008 Searchmirror.com. All rights reserved.
+		<div style="margin:auto; width:450px; text-align:center; padding: 5px 10px 5px 10px;" class="footer_text">© 2006-2010 Searchmirror.com. All rights reserved.
 		</div>
 	</div>
   <!--baap ends-->
@@ -565,7 +520,7 @@ We'd love to hear from you. Please send your rants and raves to <a href="mailto:
 </div>
 <!--about us-->
 <!--contact us -->
-<div id="contactus" style="display:none;">
+<div id="contactus" style="display:none;float:left;">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td height="80" valign="top"><table width="100%" height="80" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -583,7 +538,7 @@ We'd love to hear from you. Please send your rants and raves to <a href="mailto:
               <td align="left" valign="middle" class="feedback_txt" style="background-image:url(http://images.searchmirror.com/contact_bg.jpg); background-position:top; background-repeat:no-repeat;">
             <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left:25px;">
   <tbody><tr>
-    <td height="75">&nbsp;</td>
+    <td height="50">&nbsp;</td>
   </tr>
   <tr>
     <td><span class="feedback_txt01" style="line-height:45px;"><strong>Got anything for us? </strong></span>
@@ -597,11 +552,14 @@ We'd love to hear from you. Please send your rants and raves to <a href="mailto:
       <br>
       <a href="mailto:admin@searchmirror.com">admin@searchmirror.com</a>      <br>
         <span class="feedback_txt01">Advertise with us</span>
-      <br>      <a href="mailto:advertise@searchmirror.com">advertise@searchmirror.com</a></td>
+      <br>      <a href="mailto:advertise@searchmirror.com">advertise@searchmirror.com</a>
+      <br><br><span style="line-height:22px;font-size:16px;font-weight:bold;">Address:</span>
+      <span class="feedback_txt01"><br>207 E. Ohio St.<br>Box #206<br>Chicago, IL 60611</span>
+      <br><br><span style="line-height:22px;font-size:16px;font-weight:bold;">Phone No:</span>
+      <span class="feedback_txt01"><br>(773) 696-1346 x1841</span>
+      </td>
   </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
+  
 </tbody></table>
 </td>
             </tr>
