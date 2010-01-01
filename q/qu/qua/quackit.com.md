@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826031311id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005010id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Quackit.com
 
+With every domain name you register with [ZappyHost](http://www.zappyhost.com/), you get FREE hosting. 
+
+With every new non-domain purchase thru [ZappyHost](http://www.zappyhost.com/domain_names/), you get a domain name for only $1.99. 
+
 | 
 
-[](https://web.archive.org/web/20090826031311id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
+[](https://web.archive.org/web/20100102005010id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
 
 As a visitor to Quackit.com, your privacy is important to us.
 
@@ -34,10 +38,10 @@ Some of the products and services provided on Quackit.com are made in conjunctio
 
 ## Enjoy this website?
 
-  1. Link to this page (copy/paste into your own website or blog): 
-  2. Add this page to your favorite social bookmarks sites:  
-[](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom "Digg")  [](http://del.icio.us/post?url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom "del.icio.us")  [](http://reddit.com/submit?url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom "Reddit")  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&t=Privacy%20Policy%20for%20Quackit%2Ecom "YahooMyWeb")  [](http://www.netvouz.com/action/submitBookmark?url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom&popup=no "Netvouz")  [](http://slashdot.org/bookmark.pl?title=Privacy%20Policy%20for%20Quackit%2Ecom&url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm "Slashdot") 
-  3. Add this page to your Favorites
+  1. Add this page to your Favorites
+  2. Link to this page (copy/paste into your own website or blog): 
+  3. Help support Quackit by making a [donation](https://web.archive.org/donate/)
+  4. Add this page to your favorite social bookmarks sites: [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom "Digg")  [](http://del.icio.us/post?url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom "del.icio.us")  [](http://reddit.com/submit?url=http%3A%2F%2Fwww%2Equackit%2Ecom%2Fprivacy%5Fpolicy%2Ecfm&title=Privacy%20Policy%20for%20Quackit%2Ecom "Reddit") 
 
 
 
