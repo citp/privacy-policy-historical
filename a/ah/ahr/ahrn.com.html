@@ -1,50 +1,62 @@
-<!--The following is the downloaded HTML source of the ahrn.com privacy policy that was archived on 2008-07-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080715134709id_/http%3A//www.ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ahrn.com privacy policy that was archived on 2010-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100101102932id_/http%3A//www.ahrn.com/ahrs_shell.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-		<link rel="shortcut icon" href="favicon.ico">
-		<link href="ahrs_styles/style.css" rel="stylesheet" type="text/css">
-		<link href="includes/form_style.css" rel="stylesheet" type="text/css">
-		<meta name="description" content="The Automated Housing Referral Network (AHRN) is a Department of Defense-sponsored site featuring available housing for military families in communities surrounding service installations.">
-		<meta name="keywords" content="off-base housing,off-post-housing,community housing,rental housing,community based housing,housing referral,housing referral system,places to rent,permanent change of station,automated housing referral network,AHRN">
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<title>Automated Housing Referral Network (AHRN.com) v5.2</title>
+        <link rel="shortcut icon" href="ahrn.ico" type="image/x-icon">
+        <meta name="description" content="The Automated Housing Referral Network (AHRN) is a Department of Defense-sponsored site featuring available housing for military families in communities surrounding service installations.">
+        <meta name="keywords" content="off-base housing,off-post-housing,community housing,rental housing,community based housing,housing referral,housing referral system,places to rent,permanent change of station,automated housing referral network,AHRN">
+        <meta http-equiv="Content-Type" content="text/html;">
 
-        <script type="text/javascript" src="gz_out.php?f=includes/functions.js&amp;t=js"></script>
+        <title>Automated Housing Referral Network (AHRN.com) v6.0</title>
 
+        
+<link type="text/css" rel="stylesheet" href="css/form_style.css">
 
-		<script type="text/javascript" src="ajax_server.php?client=all&amp;stub=all"></script>
-		<script type="text/javascript">
+<link type="text/css" rel="stylesheet" href="css/style.css">
 
-			function addLoadEvent(func) {
+<script type="text/javascript" src="js/functions.js"></script>
 
-				var oldonload = window.onload;
+<script type="text/javascript" src="js/urchin.js"></script>
 
-				if (typeof window.onload != 'function') {
-					window.onload = func;
-				} else {
-					window.onload = function() {
+<script type="text/javascript" src="js/php.namespaced.js"></script>
+<script type="text/javascript" src="ajax_server.php?client=all&amp;stub=all"></script>
+<script type="text/javascript">
 
-						if (typeof(oldonload) == 'function') {
-							oldonload();
-						}
+			var utils_ActionCallback  = {
 
-						func();
-					}
-				}
+                record_pagehit_performance_stats: function(result) {
+                    return
+                },
+
+                refresh_state_options: function(o) {
+
+                    var s = gid(o.id);
+                    s.options.length = 0;
+
+                    for (var i = 0; i <= o.options.length - 1; i++) {
+                        var opt     = document.createElement("option");
+                        opt.text    = $P.html_entity_decode(o.options[i].text);
+                        opt.value   = $P.html_entity_decode(o.options[i].value);
+                        s.options.add(opt);
+                    }
+                },
+
+                draw_account_phone_number: function(o) {
+                    gid(o.divid).innerHTML = o.html;
+                },
+
+                phone_change_fields: function(o) {
+                    var d = gid(o.divid);
+                    if (d) { d.innerHTML = o.field; }
+                }
+
+            }
+
+			var remote_utils;
+			function init_remote_utils (t) {
+				remote_utils = new utils(utils_ActionCallback);
+                remote_utils.record_pagehit_performance_stats(t);
 			}
-
-
-            var userAgent = navigator.userAgent.toLowerCase();
-
-            // Figure out what browser is being used
-            var browser = {
-                version: (userAgent.match( /.+(?:rv|it|ra|ie)[\/: ]([\d.]+)/ ) || [])[1],
-                safari: /webkit/.test( userAgent ),
-                opera: /opera/.test( userAgent ),
-                msie: /msie/.test( userAgent ) && !/opera/.test( userAgent ),
-                mozilla: /mozilla/.test( userAgent ) && !/(compatible|webkit)/.test( userAgent )
-            };
 
 
             /**
@@ -53,137 +65,87 @@
              */
             function LoadDOM() {
 
-                ; 
-                //alert('DOM functions loaded');
-            }
+        init_remote_utils({'start_time':'1262341772.5434','server_ready':'0.004'}); ; 
 
-
-            // DOM Readiness
-            var readyBound = false;     //Has DOMReady already been executed
-            var isReady    = false;     //Flag to indicate whether DOM is ready
-
-            function DOMReady(fn) {
-
-                // Mozilla, Opera (see further below for it) and webkit nightlies currently support this event
-                if ( document.addEventListener && !browser.opera && !browser.safari) {
-                    // Use the handy event callback
-                    document.addEventListener( "DOMContentLoaded", fn, false );
-                    return;
-                }
-
-                // If IE is used and is not in a frame
-                // Continually check to see if the document is ready
-                if ( browser.msie && window == top ) (function(){
-                    if (isReady) return;
-                    try {
-                        document.documentElement.doScroll("left");
-                    } catch( error ) {
-                        setTimeout( arguments.callee, 0 );
-                        return;
-                    }
-                    // and execute any waiting functions
-                    isReady = true;
-                    eval(fn);
-
-                })();
-
-                // Opera
-                if ( browser.opera )
-                    document.addEventListener( "DOMContentLoaded", function () {
-                        if (isReady) return;
-                        for (var i = 0; i < document.styleSheets.length; i++)func
-                            if (document.styleSheets[i].disabled) {
-                                setTimeout( arguments.callee, 0 );
-                                return;
-                            }
-                        // and execute any waiting functions
-                        isReady = true;
-                        eval(fn);
-                    }, false);
-
-                // Safari
-                if ( browser.safari ) {
-                    var numStyles;
-                    (function(){
-                        if (isReady) return;
-                        if ( document.readyState != "loaded" && document.readyState != "complete" ) {
-                            setTimeout( arguments.callee, 0 );
-                            return;
-                        } else {
-                            // and execute any waiting functions
-                            isReady = true;
-                            eval(fn);
-                        }
-                    })();
-                }
-
-                // A fallback to window.onload that will always work
-                addLoadEvent(fn);
             }
 
             DOMReady(LoadDOM);  // Perform check to see if DOM is ready and fire functions if so
+        
+</script>
 
-		</script>
+    </head>
 
-	</head>
+        <body><div id="HTML_AJAX_LOADING" style="color: rgb(255, 255, 255); position: absolute; top: 0px; right: 0px; background-color: rgb(255, 0, 0); border: 1px solid rgb(255, 153, 153); width: 80px; padding: 4px; font-family: Arial, Helvetica, sans; display: block;">Loading...</div>
 
-
-	
-    <body bgcolor="#FFFFFF" style="margin: 0 0 0 0">
-
-      <!-- ******************************************************************
-           ***                                                            ***
-           ***          Automated Housing Referral Network (AHRN)         ***
-           ***                                                            ***
-           ***   - Site Design:                                           ***
-           ***       Lisa Townsend, PRIDE Industries                      ***
-           ***                                                            ***
-           ***   - Additional Content:                                    ***
-           ***       Runzheimer International                             ***
-           ***                                                            ***
-           ***   - Programmed by:                                         ***
-           ***       Ray Anderson - Lead Developer, PRIDE Industries      ***
-           ***       David Wright - PRIDE Industries                      ***
-           ***       Rick Johnston, PRIDE Industries                      ***
-           ***                                                            ***
-           ******************************************************************
-           ***                                                            ***
-           ***     Copyright 2004, Runzheimer International               ***
-           ***                                                            ***
-           ****************************************************************** -->
+        <!--
+        ******************************************************************
+        ***          Automated Housing Referral Network (AHRN)         ***
+        ******************************************************************
+        ***                                                            ***
+        ***   - Site Design:                                           ***
+        ***       Lisa Townsend, R&B Communications                    ***
+        ***                                                            ***
+        ***   - Additional Content:                                    ***
+        ***       Runzheimer International                             ***
+        ***                                                            ***
+        ***   - Programmed by:                                         ***
+        ***       Ray Anderson, David Wright, Rick Johnston            ***
+        ***       R&B Communications                                   ***
+        ***                                                            ***
+        ***   - Hosted by                                              ***
+        ***       R&B Communications                                   ***
+        ***                                                            ***
+        ******************************************************************
+        ***                                                            ***
+        ***           Copyright 2004, 2005, 2006, 2007, 2008, 2009     ***
+        ***                 Runzheimer International                   ***
+        ***                                                            ***
+        ******************************************************************
+        -->
 
                <table width="800" border="0" cellpadding="0" cellspacing="0" summary="shell table">
-         	<tbody><tr>
-         		<td><img src="ahrs_images/misc/shim.gif" width="118" height="1" border="0" alt=""></td>
-         		<td><img src="ahrs_images/misc/shim.gif" width="682" height="1" border="0" alt=""></td>
-         	</tr>
-         	<tr>
-         		<td colspan="2">
-         			 <img src="ahrs_images/shell/top_left.jpg" width="118" height="91" alt=""><img src="ahrs_images/shell/top.jpg" width="682" height="91" alt=""></td>
-         	</tr>
-         	<tr>
-         		<td width="118" valign="top" style="background-image: url(ahrs_images/shell/left.gif); background-repeat: no-repeat">
-         		   <img src="ahrs_images/misc/shim.gif" width="118" height="10" border="0" alt="">
-         	      <img src="ahrs_images/misc/shim.gif" width="10" height="5" align="left" border="0" alt="">
+            <tbody><tr>
+                <td><img src="ahrs_images/misc/shim.gif" width="118" height="1" border="0" alt=""></td>
+                <td><img src="ahrs_images/misc/shim.gif" width="682" height="1" border="0" alt=""></td>
+            </tr>
+            <tr>
+                <td colspan="2"><img src="ahrs_images/shell/top_left.jpg" width="118" height="91" alt=""><img src="ahrs_images/shell/top.jpg" width="682" height="91" alt=""></td>
+            </tr>
+            <tr>
+                <td width="118" valign="top" style="background-image: url(ahrs_images/shell/left.gif); background-repeat: no-repeat">
+                   <img src="ahrs_images/misc/shim.gif" width="118" height="10" border="0" alt="">
+                  <img src="ahrs_images/misc/shim.gif" width="10" height="5" align="left" border="0" alt="">
 
-					         			<img src="ahrs_images/misc/shim.gif" width="1" height="536" alt="" border="0"><br>
-         			<img src="ahrs_images/misc/powered_by.gif" width="102" height="54" border="0" alt="Powered by Runzheimer &amp; Pride">
-         		</td>
-         	   <!-- main body cell -->
-         	   <td width="682" valign="top">
-         	      <!-- top nav buttons -->
-         	      <table border="0" width="682" summary="table for top nav tabs"><tbody><tr><td align="right">
-         	         <img src="ahrs_images/misc/shim.gif" width="6" height="1" border="0" alt="">         	      </td></tr></tbody></table>
-         		   <table width="100%" border="0" cellpadding="0" cellspacing="0" summary="main contents">
-         		      <tbody><tr>
-            		      <td valign="top" width="1%">
-                  	      <!-- ensure the main body cell is tall -->
-                  	      <img src="ahrs_images/misc/shim.gif" width="1" height="400" alt="" align="left" border="0">
-            		         <img src="ahrs_images/misc/shim.gif" width="15" height="1" border="0" alt=""></td>
-            		      <td valign="top" width="99%">
+                                        <img src="ahrs_images/misc/shim.gif" width="1" height="536" alt="" border="0"><br>
+                    <img src="ahrs_images/misc/powered_by.gif" width="102" height="54" border="0" alt="Powered by Runzheimer &amp; R&amp;B Communications">
+                </td>
+               <!-- main body cell -->
+               <td width="682" valign="top">
+                  <!-- top nav buttons -->
+                  <table border="0" width="682" summary="table for top nav tabs"><tbody><tr><td align="right">
+                     <img src="ahrs_images/misc/shim.gif" width="6" height="1" border="0" alt="">                  </td></tr></tbody></table>
+                   <table width="100%" border="0" cellpadding="0" cellspacing="0" summary="main contents">
+                      <tbody><tr>
+                          <td valign="top" width="1%">
+                          <!-- ensure the main body cell is tall -->
+                          <img src="ahrs_images/misc/shim.gif" width="1" height="400" alt="" align="left" border="0">
+                             <img src="ahrs_images/misc/shim.gif" width="15" height="1" border="0" alt=""></td>
+                          <td valign="top" width="99%">
 
-                     		   <!-- content goes here -->
-         					<h1>Our Privacy Policy<p></p></h1>
+                             <!-- content goes here -->
+                <noscript>
+                <div id="no-javascript">
+                    <p>We have detected that your browser does not have JavaScript
+                        properly enabled. For optimal use of the AHRN.com site, we
+                        highly recommend that you enable JavaScript. Otherwise,
+                        the site may not perform as expected.</p>
+                    <p>For instructions on enabling JavaScript for your particular
+                        browser, please visit <a href="http://support.microsoft.com/gp/howtoscript" target="_blank">http://support.microsoft.com/gp/howtoscript</a>.</p>
+                    <p>It may be necessary to refresh your browser after JavaScript has been enabled.</p>
+                </div>
+                </noscript>
+
+                        <h1>Our Privacy Policy<p></p></h1>
 <p>
 	Welcome to the Department of Defense's ("DoD") Automated Housing Referral Network (AHRN).  Your use of the Website signifies your agreement with our privacy policies.
 </p>
@@ -224,30 +186,32 @@
 <p>
 	If you have any questions about our Privacy Policy, please feel free to e-mail your questions to us at ahrnsupport@ahrn.com.
 </p>
-            			   </td>
-         			   </tr>
-         			</tbody></table><br><br>
-         			<!-- footer -->
-         	      <table width="100%" summary="footer"><tbody><tr><td align="right">
-         	         <a href="javascript:;" onclick="MM_openBrWindow('ahrs_shell.php?page=help_index&amp;hide_frame=1','HELPwin','header=no, scrollbars=yes,resizable=yes, width=450, height=350')" class="smalltext"><font color="#888888">Help</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=deployed_installations" class="smalltext"><font color="#888888">Deployed installations</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=privacy" class="smalltext"><font color="#888888">Privacy policy</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=TermsAndConditions" class="smalltext"><font color="#888888">Terms and conditions</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=eho" class="smalltext"><font color="#888888">Equal Housing Opportunity</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="smalltext"><font color="#888888">©2008</font></span>         	      </td></tr></tbody></table>
-         	   </td>
-         	</tr>
+                           </td>
+                       </tr>
+                    </tbody></table><br><br>
+                    <!-- footer -->
+                  <table width="100%" summary="footer"><tbody><tr><td align="right">
+                     <a href="javascript:;" onclick="MM_openBrWindow('ahrs_shell.php?page=help_index&amp;hide_frame=1','HELPwin','header=no, scrollbars=yes,resizable=yes, width=450, height=350')" class="smalltext"><font color="#888888">Help</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=deployed_installations" class="smalltext"><font color="#888888">Deployed installations</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=privacy" class="smalltext"><font color="#888888">Privacy policy</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=TermsAndConditions" class="smalltext"><font color="#888888">Terms and conditions</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ahrs_shell.php?page=eho" class="smalltext"><font color="#888888">Equal Housing Opportunity</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="smalltext"><font color="#888888">©2010</font></span>                  </td></tr></tbody></table>
+               </td>
+            </tr>
          </tbody></table>
 
-<div style="color:white; padding:15px;font-size:16px; width:300px;">LVS Host: spirit1-3</div>
-         
-				<!-- this stuff is for live chat -->
-					<!-- BEGIN Invitation Positioning  -->
-						<script language="javascript" type="text/javascript">
-							var lpPosY = 133;
-							var lpPosX = 600;
-						</script>
-					<!-- END Invitation Positioning  -->
+        <div style="color: white; padding: 5px; font-size: 12px; width: 300px;">LVS Host: spirit1-2<br>Rendered in 0.004 seconds</div>
+        
+            <!-- this stuff is for live chat -->
+                <!-- BEGIN Invitation Positioning  -->
+                    <script language="javascript" type="text/javascript">
+                        var lpPosY = 133; var lpPosX = 600;
+                    </script>
+                <!-- END Invitation Positioning  -->
 
-					<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-						<script language="javascript" type="text/javascript" src="https://server.iad.liveperson.net/hc/64255668/x.js?cmd=file&amp;file=chatScript3&amp;site=64255668&amp;&amp;category=en;woman;7"></script>
-					<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-				<!-- end live chat -->
-			   
+                <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+                <script language="javascript" type="text/javascript" src="https://server.iad.liveperson.net/hc/64255668/x.js?cmd=file&amp;file=chatScript3&amp;site=64255668&amp;&amp;category=en;woman;7"></script>
+                <!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+            <!-- end live chat -->
+           
+    <script type="text/javascript">_uacct = "UA-1618498-1"; urchinTracker();</script>
+
+   
 
 </body></html>
