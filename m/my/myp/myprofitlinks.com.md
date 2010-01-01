@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprofitlinks.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821122325id_/http%3A//myprofitlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprofitlinks.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003407id_/http%3A//myprofitlinks.com/privacy.php) for the most accurate reproduction.*
 
 # My Profit Links Privacy Policy
 
