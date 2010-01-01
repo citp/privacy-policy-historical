@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-astro.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719123019id_/http%3A//live-astro.com/sitewide/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-astro.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003830id_/http%3A//live-astro.com/sitewide/privacy.php) for the most accurate reproduction.*
 
 # Russell Grant Horoscopes
 
@@ -34,4 +34,4 @@ Use of your data for analytical and statistical purposes: Your data together wit
 
  **Security of the Internet:** The Internet is not a 100% secure medium for communication and, accordingly, Russell Grant Astrology cannot guarantee the security of any information you send to Russell Grant Astrology via the Internet. Russell Grant Astrology is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
- **Further information:** If you have any questions regarding the privacy policy of Russell Grant Astrology or require any further information please send your request by email by [clicking here](https://web.archive.org/web/20090719123019id_/http%3A//live-astro.com/sitewide/mailus.php).
+ **Further information:** If you have any questions regarding the privacy policy of Russell Grant Astrology or require any further information please send your request by email by [clicking here](https://web.archive.org/web/20100102003830id_/http%3A//live-astro.com/sitewide/mailus.php).
