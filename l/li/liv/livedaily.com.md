@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321092232id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003339id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
 
-# America's Concert Source >> LiveDaily
+# America's Concert Source
 
 * **Business partners.   **When you participate in a promotion, we may share your personal information with the merchants offering the products, services, promotions, contests and/or sweepstakes. We won’t share your personal information with these businesses unless you choose to participate in their offer or program.  When you choose to engage in a particular offer or program, we will ask you to authorize us to share your email address and other information with the relevant merchant.
 
