@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesite.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528115540id_/http%3A//www.onesite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesite.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004019id_/http%3A//www.onesite.com/privacy.html) for the most accurate reproduction.*
 
 # Social Network Software, ONEsite Solutions
 
@@ -26,7 +26,7 @@ Information about Users that is maintained on our systems is protected using ind
 
 **European Union, Safe Harbor Compliance**
 
-ONEsite is Safe Harbor compliant, for our Safe Harbor policy, [click here](https://web.archive.org/web/20090528115540id_/http%3A//www.onesite.com/safeHarbor.html).
+ONEsite is Safe Harbor compliant, for our Safe Harbor policy, [click here](https://web.archive.org/web/20100102004019id_/http%3A//www.onesite.com/safeHarbor.html).
 
 **Questions**
 
