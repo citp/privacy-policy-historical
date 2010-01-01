@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723234109id_/http%3A//epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005237id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
 
-# Epoch - Privacy Policy
+# Privacy Policy - Epoch Credit Card Processing and Epoch Billing Support 1-800-893-8871 or 1-310-664-5810 or Skype: 1-800-893-8871
 
 #### PRIVACY POLICY
 
@@ -23,10 +23,10 @@ To protect your privacy, we have adopted the following principles:
 
 **Information Collection**
 
-You may access and browse our Website without disclosing any Personal Information. However, if you attempt to use Epoch's services to purchase a product or service online, Epoch may request that you voluntarily supply it with Personal Information. Epoch uses a secure transmission method for all of its transmissions. Epoch receives and stores all information that you enter in our Website and billing pages. In addition, Epoch collects information about you during your visit, such as your IP Address and Epoch employs its software in order to ascertain your physical location when making a purchase. Except as set forth below, Epoch does not collect information from other sources such as public records, or private organizations. However, Epoch does collect Personal Information you submit to Epoch's Website and its clients in order to complete processing online transactions. You are required to provide Epoch and its clients with accurate and up to date information, and your failure to accurately provide such information could result in the voiding of your agreement(s) with Epoch.
+You may access and browse our Website without disclosing any Personal Information. However, if you attempt to use Epoch's services to purchase a product or service online, Epoch may request that you voluntarily supply it with Personal Information such as your name, billing address, credit/debit card details, electronic check details and the last 4 digits of your social security number (applicable only to electronic check payment option). Epoch uses a secure transmission method for all of its transmissions. Epoch receives and stores all information that you enter in our Website and billing pages. In addition, Epoch collects information about you during your visit, such as your IP Address and Epoch employs its software in order to ascertain your physical location when making a purchase. Except as set forth below, Epoch does not collect information from other sources such as public records, or private organizations. However, Epoch does collect Personal Information you submit to Epoch's Website and its clients in order to complete processing online transactions. You are required to provide Epoch and its clients with accurate and up to date information, and your failure to accurately provide such information could result in the voiding of your agreement(s) with Epoch.
 
 **Information Use**  
-Epoch is the sole owner of the information collected on its Website. We will not sell, share, or rent this information to Third Parties, except as set forth in this Privacy Policy. Epoch shall release data when required by law, to enforce its agreement(s) with you, or to enforce the contract rights of its clients.
+Epoch is the sole owner of the information collected on its Website. We will not sell, share, or rent this information to Third Parties, except as set forth in this Privacy Policy. We will not use any of your personal information to send you any promotional materials or advertisements. You may however receive from us order/cancelation e-mail confirmations that are automatically generated whenever an order/cancelation is placed through us and that confirm your purchase or cancellation with important details about your purchase or cancellation, including but not limited to, product purchased/canceled, order/cancellation date, username/password and our customer service toll free telephone number that may be used for any inquiries about the purchase/cancellation. Epoch shall release data when required by law, to enforce its agreement(s) with you, or to enforce the contract rights of its clients.
 
 **Information Sharing**  
 We ensure that your Personal Information will not be disclosed to anyone other than a government institution or authority when required by law or other regulation, Epoch's affiliated merchant bank and card processors as required to process online transactions, and website owners/operators from which you are purchasing goods and services using Epoch ("Third Parties").
@@ -41,7 +41,7 @@ You may choose whether or not to provide Personal Information to Epoch. If you c
 
 ##### SECURITY
 
-We have implemented security policies, rules and technical measures to protect the Personal Information that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. Epoch encrypts the sensitive information that you provide. Epoch reveals your credit card number when communicating on a private dedicated line of communication with our associated financial institution. 
+We have implemented security policies, rules and technical measures to protect the Personal Information that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. Epoch utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. Epoch encrypts the sensitive information that you provide. Epoch reveals your payment information when communicating on a private dedicated line of communication with our associated financial institution. 
 
 In addition, Epoch protects your Personal Information off-line. Security cards are used to enter our facility. All employees and data processors, who have access to and are associated with the processing of Personal Information, are obliged to respect the confidentiality of your Personal Information. Epoch conducts background and credit checks on all of its employees prior to employment. Epoch employs a User ID and password scheme in order to limit and achieve access to our computer network by our employees and Third Parties.
 
@@ -69,7 +69,7 @@ Occasionally, Epoch receives information from Third Parties to compare it to inf
 
 Any websites displayed to you by our Website as Internet search results or linked to Internet search results pages provided to you by our Website, including websites owned or operated by our clients, have been developed by Third Parties over which Epoch exercises no control. Such websites may send their own cookies to end users, collect data, or solicit Personal Information from you. Epoch is not responsible for the privacy practices or the content of such websites, including such websites' use of any information collected when you are directed to or click through to such websites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those websites.
 
-**DATA PROTECTION SAFE HARBOR POLICY**  
+**DATA PROTECTION SAFE HARBOR PROGRAM**  
 Epoch is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce and the European Union, and is listed by the U.S. Department of Commerce. Epoch has certified that we adhere to the Safe Harbor Privacy Principles. Epoch uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at [legal@epoch.com](mailto:legal@epoch.com). For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) website.
 
 **CHILDREN**  
@@ -84,3 +84,7 @@ We are committed to privacy and are actively involved in and support current ind
 If you have any comments or questions regarding our Privacy Policy, please contact us at 
 
 [legal@epoch.com](mailto:legal@epoch.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities and as soon as possible.
+
+**EFFECTIVE DATE**  
+This privacy policy is effective immediately.  
+
