@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskdancer.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214214501id_/http%3A//www.privacypolicy1.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskdancer.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003611id_/http%3A//www.deskdancer.com/privacy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy1.com - We're serious about your privacy!
 
