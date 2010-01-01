@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myeduconnect.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519060754id_/http%3A//myeduconnect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeduconnect.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005404id_/http%3A//myeduconnect.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - My EDU Connect
+# Privacy Policy - myEduConnect.com
 
 Your Source for Educational Programs Nationwide
 
@@ -59,7 +59,7 @@ Vast Interactive is committed to online data security. To prevent unauthorized a
 
 #### What Personal Information Can I Access or correct?
 
-You can correct factual errors in your Personal Information by sending a request to corrections at Achemy that credibly shows error. To protect your privacy and security, we will also take responsible steps to verify your identity before granting access or making corrections to Personal Information.
+You can correct factual errors in your Personal Information by sending a request to corrections at Vast Interactive that credibly shows error. To protect your privacy and security, we will also take responsible steps to verify your identity before granting access or making corrections to Personal Information.
 
 #### What Choices Do I Have?
 
@@ -85,4 +85,4 @@ Vast Interactive may amend this Privacy Policy from time to time. If we make mat
 
 #### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Vast Interactive Sites, please send us a detailed message to privacy at Achemy or to Attn: Privacy Officer, Vast Interactive, LLC., 499 Hamilton Avenue Palo Alto, CA 94301 United States. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Vast Interactive Sites, please send us a detailed message to contact@myeduconnect.com or to Attn: Privacy Officer, My EDU Connect, 650 Castro St, Ste 105, Mountain View, CA 94104, United States. We will make every effort to resolve your concerns.
