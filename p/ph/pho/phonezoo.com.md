@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonezoo.com privacy policy that was archived on 2007-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070331093127id_/http%3A//www.phonezoo.com/pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonezoo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004738id_/http%3A//www.phonezoo.com/Privacy.do) for the most accurate reproduction.*
 
 # Phonezoo - Privacy Policy
 
@@ -20,7 +20,7 @@ Phonezoo members can invite friends to join the service and preview content by s
 
 _How Phonezoo uses your personal information_
 
-Phonezoo uses your personal information to operate, maintain and provide you with the features and functionality of the Phonezoo site and services. Phonezoo uses your mobile phone number to deliver the ringtones you create and other content you request. **Phonezoo will not use your mobile phone number to call you or send commercial or marketing messages.**
+Phonezoo uses your personal information to operate, maintain and provide you with the features and functionality of the Phonezoo site and services. Phonezoo uses your mobile phone number to deliver the mobile content you create and other content you request. **Phonezoo will not use your mobile phone number to call you or send commercial or marketing messages.**
 
 Additionally, Phonezoo will not use your email address or other personally identifiable information to send commercial or marketing messages without your consent except as part of a specific program or feature for which you will have the ability to opt-in or subsequently opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Phonezoo service changes or for customer service purposes). 
 
@@ -33,7 +33,9 @@ Phonezoo uses personally identifiable and certain non-personally identifiable in
 
 
 
-Any personal information or content that you voluntarily disclose online (on the Phonezoo site, in our discussion, rating and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload ringtones or send messages from the Phonezoo site. Others can contact you as a result of messages you send. Any text, audio, image or other content posted at the direction of users onto the Phonezoo site becomes published content and is not considered personally identifiable information for the purposes of this Privacy Policy. In addition, Phonezoo may use comments posted in public areas about the Phonezoo site or services for editorial purposes or in promotional, advertising or marketing materials. Users who submit such comments in these public places on the site grant a non-exclusive, perpetual, irrevocable, transferable, royalty-free license to Phonezoo to transmit, publicly display, publicly perform, reproduce, edit, translate and reformat and otherwise use such public information. 
+Any personal information or content that you voluntarily disclose online (on the Phonezoo site, in our discussion, rating and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload contents or send messages from the Phonezoo site. Others can contact you as a result of messages you send. Any text, audio, image or other content posted at the direction of users onto the Phonezoo site becomes published content and is not considered personally identifiable information for the purposes of this Privacy Policy. In addition, Phonezoo may use comments posted in public areas about the Phonezoo site or services for editorial purposes or in promotional, advertising or marketing materials. Users who submit such comments in these public places on the site grant a non-exclusive, perpetual, irrevocable, transferable, royalty-free license to Phonezoo to transmit, publicly display, publicly perform, reproduce, edit, translate and reformat and otherwise use such public information. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google.com. 
 
 _Information Sharing and Disclosure_
 
@@ -76,8 +78,8 @@ _Questions about our Privacy Policy_
 If you have any questions about our Privacy Policy, please contact us at:
 
 Phonezoo Communications, Inc.  
-1290 Oakmead Parkway, Suite 118  
-Sunnyvale, CA 95085  
+1290 Oakmead Parkway, Suite 107  
+Sunnyvale, CA 94085  
 [privacy@phonezoo.com](mailto:privacy@phonezoo.com)
 
 Effective date: September 18, 2006 
