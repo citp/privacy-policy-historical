@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2007-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070917064813id_/http%3A//www.manufacturer.com/business/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005247id_/http%3A//manufacturer.com/business/policy.html) for the most accurate reproduction.*
 
 # E-bridge the business only! -policy - Find Trade leads,Products and Companies at Manufacturer.com
 
