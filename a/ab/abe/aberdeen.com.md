@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927085106id_/http%3A//www.aberdeen.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005755id_/http%3A//www.aberdeen.com/about_us/privacy.asp) for the most accurate reproduction.*
 
 # Aberdeen Group Web Registration Terms and Conditions/Privacy Policy
 
