@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightscribe.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903103224id_/http%3A//www.lightscribe.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightscribe.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004456id_/http%3A//lightscribe.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # LightScribe - Privacy Policy
 
