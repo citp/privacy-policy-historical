@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efashionsolutions.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905173855id_/http%3A//www.efashionsolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efashionsolutions.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003646id_/http%3A//www.efashionsolutions.com/privacy) for the most accurate reproduction.*
 
 # eFashionSolutions :: Privacy
 
-### Privacy Policy
+### Privacy Policy, June 1st 2008
 
 This is the web site of eFashionSolutions.
 
