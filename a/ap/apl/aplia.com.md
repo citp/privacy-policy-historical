@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309085836id_/http%3A//www.aplia.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003646id_/http%3A//www.aplia.com/privacy.jsp) for the most accurate reproduction.*
 
-# Aplia: Engage. Prepare. Educate. :: Aplia Privacy Notice
-
-Aplia Privacy Notice
+# Aplia :: Aplia Privacy Notice
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our current online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
 
