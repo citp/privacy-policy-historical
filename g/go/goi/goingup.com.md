@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goingup.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510133106id_/http%3A//www.goingup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingup.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003630id_/http%3A//www.goingup.com/privacy.html) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# FREE Web Stats and Analytics, Page Rank, SEO Optimization, Website Tools and Search Engine Marketing - Are you GoingUp?
 
 GoingUp! (GU!) is committed to protecting the privacy of visitors to our website, as well as our customers and clients. GU! has established this Privacy Policy to explain what information we collect through this website and how it is used. 
 
