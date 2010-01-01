@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728164833id_/http%3A//www.myfantasyleague.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004219id_/http%3A//www.myfantasyleague.com/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Football League Management from MyFantasyLeague.com
 
