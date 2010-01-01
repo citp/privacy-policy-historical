@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2009-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090920040614id_/http%3A//wallst.com/common/pdf/privacy%2520policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003454id_/http%3A//wallst.com/common/pdf/privacy%2520policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
