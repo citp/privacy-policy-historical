@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the active-venture.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624163705id_/http%3A//www.active-venture.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-venture.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004427id_/http%3A//active-venture.com/privacy.htm) for the most accurate reproduction.*
 
 # Active-Venture's privacy statement concerning the use of our web hosting service
 
