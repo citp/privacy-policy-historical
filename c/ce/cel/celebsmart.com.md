@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebsmart.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912045527id_/http%3A//celebsmart.com/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsmart.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003656id_/http%3A//celebsmart.com/content-privacy.html) for the most accurate reproduction.*
 
 # Celebsmart [Fastest Free Image Hosting] -
 
