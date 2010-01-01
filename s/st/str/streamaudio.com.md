@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamaudio.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126172312id_/http%3A//www.streamaudio.com/site/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamaudio.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004849id_/http%3A//www.streamaudio.com/site/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
