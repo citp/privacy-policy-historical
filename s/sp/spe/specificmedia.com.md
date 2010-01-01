@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819173838id_/http%3A//specificmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004235id_/http%3A//www.specificmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Specific Media
 
@@ -64,4 +64,4 @@ The privacy policy was last revised on May 1, 2008.
 
 ##### Questions and Comments
 
-Questions and comments about your privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to Privacy Officer, Specific Media, Inc, 4 Park Plaza, Suite 1900, Irvine CA 92614.
+Questions and comments about your privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to Privacy Officer, Specific Media, Inc, 4 Park Plaza, Suite 1500, Irvine CA 92614.
