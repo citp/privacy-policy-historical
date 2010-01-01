@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brian4governor.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004225753id_/http%3A//www.brian4governor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brian4governor.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003625id_/http%3A//www.brian4governor.com/privacy.php) for the most accurate reproduction.*
 
 # Brian Genigeski - Michigan's Next Governor - Privacy Policy
 
