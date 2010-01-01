@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sukoku.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009040150id_/http%3A//www.sukoku.com%3Ftmp%3Dsukoku_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukoku.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003350id_/http%3A//sukoku.com%3Ftmp%3Dsukoku_privacy) for the most accurate reproduction.*
 
 # Sukoku - Privacy Policy
 
