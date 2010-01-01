@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517070753id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003517id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy - davesite.com
 
@@ -10,13 +10,25 @@ We do not sell, share, or rent personal information about our users obtained fro
 
 ## Cookies
 
-added 10/05/2002:  
 Davesite.com uses cookies in an attempt to limit the amount of some types of advertising received by visitors to the site. Our advertisers may also use cookies from time to time. While we do not believe third-party cookies are used to track personal information such as users' names, addresses, and phone numbers, we do not have control or access to this information. We encourage users to read the privacy policies of our advertisers (linked below.)
 
+  * [Google Privacy Policy](http://www.google.com/privacy.html)
   * [Burst!Media Privacy Policy](http://www.burstmedia.com/release/privacy.asp)
 
+
+
+**Managing Cookies**
+
+Learning about and managing cookies vary based on your web browser. To learn how to manage cookies with your web browser, type **managing cookies** and your browser name in the box below. For example, if you're using Internet Explorer, type **managing cookies Internet Explorer**. If you are using Firefox, type **managing cookies Firefox**. 
+
 We use third-party advertising companies to serve ads when you visit our website. These companies MAY use information (not including your name, address, email address, or telephone number) about your visits to this and all other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, view: 
+
   * [ValueClick Privacy Statement](http://valueclick.com/privacy.html)
+
+In addition, please note that: 
+
+  * Google uses [Doubleclick's DART cookie](http://www.doubleclick.com/privacy/faq.aspx) to serve ads to you based on your visit to this site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 
 
@@ -43,7 +55,7 @@ On some pages in our site there is a box that allows our servers to e-mail users
 
 ## Changes in Policy
 
-Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002. 
+Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002 / May 20, 2008 / April 7, 2009. 
 
 ## Contact
 
