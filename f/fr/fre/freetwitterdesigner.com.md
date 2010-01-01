@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetwitterdesigner.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223112751id_/http%3A//www.freetwitterdesigner.com//privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetwitterdesigner.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004220id_/http%3A//www.freetwitterdesigner.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Free Twitter Designer
 
@@ -14,7 +14,9 @@ This Privacy Policy does not apply to the practices of companies, organizations 
 
 ####  Personal Information You Provide to Us: 
 
-We do not request users of the Website to provide any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address, and an email address or other contact information, whether at work or at home ("Personal Information"). If you submit any Personal Information to the Website, we will not use or share it with any other person except as provided in this Privacy Policy. If you send email or other communications to us, we may retain and store those communications in order to process your inquiries, respond to your requests and improve the Website or our services. 
+We do not request users of the Website to provide any information that may be used to personally identify an individual, such as your name, a physical address, an email address or other contact information ("Personal Information"). If you submit any Personal Information to the Website, we will not use or share it with any other person except as provided in this Privacy Policy. If you send email or other communications to us, we may retain and store those communications in order to process your inquiries, respond to your requests and improve the Website or our services. 
+
+In order to allow users to take advantage of certain features on the Website, we sometimes request users to sign in to their Twitter accounts. For example, you may choose to allow the Website to directly update the background image on your Twitter profile with the image created on the Website. In that case, you will be provided with a link to the Twitter.com website where you can sign in to your Twitter account and authorize the Website to update your Twitter profile. We will neither receive nor store any Personal Information you submit to the Twitter.com website or any other third party website.
 
 ####  Personal Information Collected Automatically: 
 
@@ -22,7 +24,7 @@ We receive and store certain types of information whenever you interact with the
 
 ### USE AND DISCLOSURE OF INFORMATION
 
-We will not use or transfer Personal Information provided to us in ways unrelated to the ones described below without also providing you with an opportunity to opt out of these unrelated uses. We neither rent, sell, nor otherwise provide your Personal Information to anyone, except as described below: 
+We will not use or transfer Personal Information provided to us in ways unrelated to the ones described in this Privacy Policy without also providing you with an opportunity to opt out of these unrelated uses. We neither rent, sell, nor otherwise provide your Personal Information to anyone, except as described below: 
 
 Protection of Zugara and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Zugara, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action. 
 
@@ -52,4 +54,4 @@ We make every effort to safeguard your Personal Information. We commit to use se
 
 If you have any questions or concerns regarding privacy at the Website, please send a detailed message to [feedback@freetwitterdesigner.com](mailto:feedback@freetwitterdesigner.com), call us at 310-945-4950, or send a fax to us at 310-945-4951. If at any time you believe that we have not adhered to this Privacy Policy or you have a complaint regarding the way your Personal Information is being handled, please contact us by email, phone or fax (as indicated above). We will resolve disputes under this Privacy Policy and, if necessary, correct any problem. 
 
-Date Last Revised: February 11, 2009
+Date Last Revised: July 7, 2009
