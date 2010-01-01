@@ -1,95 +1,115 @@
-> *The following text is extracted and transformed from the etherpad.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206024531id_/http%3A//etherpad.com/ep/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etherpad.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004802id_/http%3A//etherpad.com/ep/about/privacy) for the most accurate reproduction.*
 
-# EtherPad: Privacy Policy
+# Privacy Policy – Google Privacy Center
 
-**I. Pad Text**
+## Privacy Policy
 
-When you type into an EtherPad document, the edits are transmitted through our servers, which process them according to our patent-pending edit synchronization algorithm. The entire change history of pads are stored in our servers' database. 
+Last modified: March 11, 2009 ([view archived versions](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_archive.html)) 
 
-We go to great lengths to secure these data. Our servers reside in professionally managed data centers, and we have an expert staff of system administrators who secure our systems from outside attacks. 
+At Google we recognize that privacy is important. This Privacy Policy applies to all of the [products, services and websites](https://web.archive.org/options/) offered by Google Inc. or its subsidiaries or affiliated companies except DoubleClick ([DoubleClick Privacy Policy](http://www.doubleclick.com/privacy/)) and Postini ([Postini Privacy Policy](https://web.archive.org/a/help/intl/en/security/terms/new_privacy.html)); collectively, Google’s “services.” In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process [personal information](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_faq.html#toc-terms-personal-info). These notices can be found in the [Google Privacy Center](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy.html). 
 
-Note that in the free version of EtherPad, all pad text is publicly available via the pad's URL. When you create a new pad, the URL is generated randomly. This provides some security because these URLs are not guessable, so as long as you are careful about who you share them with, unwanted visitors will not access your pad. 
+Google adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/). 
 
-We will not publish indices of pad URLs, link to, or direct any traffic to pads or published pad revisions. Nor will we publish the contents of anyone's pads in any public domain. Furthermore, we the engineers and operators of etherpad.com, promise to not even _look_ at the contents of your pads unless we absolutely need to in order to debug a critical systems error. 
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=privacy&hl=en) through our website or write to us at 
 
-We may publish aggregate statistics about pads in general. For example, we may compute the average words-per-minute that people type across all pads and publish that average. Or we may analyze pad texts for the most commonly misspelled words. Whenever we do aggregate analysis like this, we will never disclose specific information about any given pads or authors. 
+Privacy Matters  
+c/o Google Inc.  
+1600 Amphitheatre Parkway  
+Mountain View, California, 94043  
+USA
 
-**II. What other information do we collect?**
+### Information we collect and how we use it
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form, or type into a pad. 
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Google Search. In order to provide our full range of services, we may collect the following types of information: 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information.
+  * **Information you provide** – When you sign up for a [Google Account](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_faq.html#toc-terms-account) or other Google service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Google services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
+  * **Cookies** – When you visit Google, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Google also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set one or more cookies in your browser when you visit a website, including Google sites that use our advertising cookies, and view or click on an ad supported by Google’s advertising services. 
+  * **Log information** – When you access Google services, our servers automatically record information that your browser sends whenever you visit a website. These [server logs](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_faq.html#toc-terms-server-logs) may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+  * **User communications** – When you send email or other communications to Google, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+  * **Affiliated Google Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Google in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies. 
+  * **Gadgets** – Google may make available third party applications through its services. The information collected by Google when you enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget provider is governed by their privacy policies. 
+  * **Location data** – Google offers location-enabled services, such as Google Maps for mobile. If you use those services, Google may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID). 
+  * **Links** – Google may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. Read more information about [links and redirected URLs](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_faq.html#toc-terms-urls). 
+  * **Other sites** – This Privacy Policy applies to Google services only. We do not exercise control over the sites displayed as search results, sites that include Google applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
-Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-**III. What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Google only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include: 
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+  * Providing our services, including the display of customized content and advertising; 
+  * Auditing, research and analysis in order to maintain, protect and improve our services; 
+  * Ensuring the technical functioning of our network; 
+  * Protecting the rights or property of Google or our users; and 
+  * Developing new services. 
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To process transactions
+You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services. 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Google processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
 
-**IV. How do we protect your information?**
+### Choices for personal information
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use [sensitive information](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_faq.html#toc-terms-sensitive-info) for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled. 
 
-**V. Do we use cookies?**
+Google uses the [DoubleClick advertising cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on AdSense partner sites and certain Google services to help advertisers and publishers serve and manage ads across the web. You can view, edit, and manage your ads preferences associated with this cookie by accessing the [Ads Preferences Manager](https://web.archive.org/ads/preferences/). In addition, you may choose to opt out of the DoubleClick cookie at any time by using [DoubleClick’s opt-out cookie](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_ads.html). 
 
-Yes. Cookies are small pieces of data that a site or its service provider transfers to your computer through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+You can decline to submit personal information to any of our services, in which case Google may not be able to provide those services to you. 
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+### Information sharing
 
-**VI. Do we disclose any information to outside parties?**
+Google only shares personal information with other companies or individuals outside of Google in the following limited circumstances: 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Google, its users or the public as required or permitted by law. 
 
-**VII. California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**VIII. Childrens Online Privacy Protection Act Compliance**
+If Google becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We may share with third parties certain pieces of [aggregated, non-personal information](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_faq.html#toc-terms-aggregated-info), such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
 
-**IX. Online Privacy Policy Only**
+Please contact us at the address below for any additional questions about the management or use of personal data. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+### Information security
 
-**X. Terms and Conditions**
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://etherpad.com/ep/about/tos>
+We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
-**XI. Your Consent**
+### Data integrity
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+Google processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
 
-**XII. Changes to our Privacy Policy**
+### Accessing and updating personal information
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+When you use Google services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
 
-This policy was last modified on Wednesday, November 19th, 2008
+### Enforcement
 
-**XIII. Contacting Us**
+Google regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Google’s treatment of personal information by [contacting us](https://web.archive.org/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=privacy&hl=en) through this web site or by writing to us at 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Privacy Matters  
+c/o Google Inc.  
+1600 Amphitheatre Parkway  
+Mountain View, California, 94043  
+USA
 
-http://appjet.com/  
-3520 20th St. #6  
-San Francisco, CA 94110  
-USA  
-<[support@e***rp*d.com](mailto:support@e***rp*d.com)>  
+When we receive formal written complaints at this address, it is Google’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Google and an individual. 
 
+### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep [prior versions](https://web.archive.org/web/20100207224230id_/http://www.google.com/intl/en/privacy_archive.html) of this Privacy Policy in an archive for your review. 
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at 
+
+Privacy Matters  
+c/o Google Inc.  
+1600 Amphitheatre Parkway  
+Mountain View, California, 94043  
+USA
