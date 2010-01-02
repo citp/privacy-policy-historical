@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425072050id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103002035id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -10,7 +10,7 @@ Testimonials
 
  
 
-  * UR just changed my life! I've earned $400 for two days and bought my Palm Treo 700w!
+  * I've just signed up for absolutely free offers and received $105 for two days!
 
 Russel  
 Fairfield, OH
@@ -93,24 +93,16 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=695)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=1918)
 
-**MyFax**
+**MyThoughtCounts (Daily Survey)**
 
-With 30 day free trials and plans starting as low as $10 a month, MyFax and my1voice are the perfect solutions for many business needs.   
-Sign up for free trial and get reward!
+Share your Opinions and Win great Prizes.
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=3140)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=3147)
 
-**E-Poll CPA**
+**IDz Surveys (Daily Survey)**
 
-It's free and easy to become an E-Poll member!  
-Complete the brief member registration and get reward!
-
-[](https://web.archive.org/cgi-bin/click.cgi?mid=3235)
-
-**StubHub.com**
-
-Buy and sell tickets on StubHub.
+Give us your opinion and get rewarded!
 
 | 
