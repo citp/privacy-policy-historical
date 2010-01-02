@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cornellsun.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918014412id_/http%3A//cornellsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornellsun.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102174203id_/http%3A//www.cornellsun.com/privacy) for the most accurate reproduction.*
 
 # CornellSun.com Privacy Policy | The Cornell Daily Sun
-
-CornellSun.com Privacy Policy
 
 This privacy policy describes what information we collect from you as you use CornellSun.com. Updates will be posted to this page, so be sure to check back periodically to check for changes. If you have any questions, please feel free to [contact us](https://web.archive.org/contact) at any time.
 
