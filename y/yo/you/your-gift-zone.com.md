@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the your-gift-zone.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505185426id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1423name%26catalog_id%3D7566%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-gift-zone.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013821id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D1423name%26catalog_id%3D7566%26gift%3D71) for the most accurate reproduction.*
 
 # Your-gift-zone
 
 **PRIVACY POLICY**
 
-**March 26, 2009**
+**December 11, 2009**
 
 **Our Commitment To Privacy**
 
@@ -30,11 +30,19 @@ By signing up for our Program you expressly opt in to receive future information
 
 In addition, in the event we consider a transaction involving the purchase or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
 
+**_Express Consent:_** By accepting the terms and conditions of this Site and providing your telephone number, you are subscribing to a service that transmits special offers to subscribers via pre-recorded voice messages. 
+
+By subscribing, you are expressly consenting to receive pre-recorded telephone messages from The Firebrand Group, LLC, a Nevada company doing business as Worldwide Commerce Associates (“WCA”) that include special or discounted sales offers. You are subscribing to receive offers only from WCA, and only at the specific numbers(s) you have provided to us. Your consent will be effective regardless of whether the number you have provided: (a) is a home, business, or cell phone line; and/or (b) is or will be registered on any state or federal Do-Not-Call (DNC) list, and shall remain in effect until you revoke your consent and cancel your subscription. 
+
+To unsubscribe: You may cancel your subscription and revoke your consent to receive pre-recorded telephone calls at any time by either (a) utilizing the opt-out procedure included in any message you receive; or (b) by calling 800-269-0281 
+
+NOTE: WCA does not send offers via email, and is unable to honor any unsubscribe requests sent by other companies. If you are receiving offers via email please follow the unsubscribe instructions included therein. 
+
 **Special Note About Information You Provide Directly To Our Advertisers.**
 
 You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites.
 
-**Third Part Ad Servers.**
+**Third Party Ad Servers.**
 
 We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org). 
 
@@ -44,7 +52,7 @@ We use reasonable technical efforts to prevent unauthorized access or disclosure
 
 **How You Can Choose To "Opt Out" Of Receiving Further Information About Products Or Services**
 
-If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may chose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
+If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may choose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
 
 Customer Service  
 13762 W. SR. 84, Suite 612  
