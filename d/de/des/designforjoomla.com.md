@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309065123id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102145150id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
 [Home](http://designforjoomla.com/index.php) Privacy Policy 
 
-Written by Administrator      
----  
-Monday, 13 February 2006   
-  
 DesignForJoomla.com Privacy Policy are deeply committed to protecting the privacy of Internet users. Following outlines our continued support for the responsible management of consumer information. 
 
 ### Consumer Information
@@ -20,23 +16,23 @@ Your personal information will not be released to third parties and shared among
 
 ### No Sell of User List
 
-We do not sell user list of our users to any third party company for any further purposes. All information about our users are stored in the password protected database installed in secure server hosting machine.   
-  
+We do not sell user list of our users to any third party company for any further purposes. All information about our users are stored in the password protected database installed in secure server hosting machine. 
+
 ### Search for commercial and free Joomla! extensions, commercial and free Joomla! templates, free Joomla! tutorials and guides
 
 ### Popular D4J Joomla! Templates Club Templates
 
-**Sun Flower** is simple and usable design. You can use ...
+**Ornate** is a very impressive template from D4J Joomla! Templates Club. ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/sunflower.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/ornate.php)  
 ---|---  
   
-**Summer_Holiday** is a vivid and inspired template that is a perfect ...
+**Terrafirma** is an inspired and light-weight template that is a perfect fit ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/summer_holiday.php)  
+| [](http://designforjoomla.com/home/joomla_templates_club/terrafirma.php)  
 ---|---  
   
-**Infotech Growth** is a modest design added to D4J Joomla! Template ...
+**Visual Tomfoolery** is a two column, fluid, dark background, light header for ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/breakingontop_2.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/visual_tomfoolery.php)  
 ---|---
