@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcaribbeanjobs.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302234742id_/http%3A//www.allcaribbeanjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcaribbeanjobs.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102014209id_/http%3A//allcaribbeanjobs.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - All Caribbean Jobs
+# Privacy Policy - All Caribbean Jobs, Seasonal and Permanent Jobs in the Caribbean
 
 All data collected by AllWorldJobs Ltd for the operation of this site is collected stritly in compliance with our obligations under the Data Protection Act (UK) - one of the strongest data protection acts in the world. Wherever you are from your personal data will be kept secure and safe, as described below.
 
