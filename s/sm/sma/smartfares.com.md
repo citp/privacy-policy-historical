@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927142133id_/http%3A//smartfares.com/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102083522id_/http%3A//www.smartfares.com/PRIVACY) for the most accurate reproduction.*
 
 # Smartfares.com Privacy Policy
 
