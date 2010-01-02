@@ -1,36 +1,31 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021458id_/http%3A//audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102071719id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-sound effects,  
-wav,  
-professional multimedia business presentations,  
-sonido para eventos,  
+order sound wav,  
+audio wav files,  
+wav file sounds,  
+audiowarez,  
 sound effects mask,  
-sound effects wavs,  
-downloadable sound effects,  
-high quality sound effects,  
-sound effects,  
-royalty-free sounds,  
-16-bit sound effects,  
-hollywood sound effects,  
-geluidseffecten,  
-sonido,  
-infografia multimedia 3d,  
-24-bit sound effects,  
-royalty-free sound effects,  
-fresh sound effects,  
-find sound effects,  
-movie wavs,  
-sound wavs 
+fx,  
+kb sounds,  
+mp3 audio,  
+mp3s download,  
+system wav files,  
+office wav files,  
+wav sound bytes,  
+efeitos sadios,  
+productos audio profesional,  
+surround sound effects,  
+sound lighting,  
+音響効果,  
+wav file sounds,  
+audio wav files,  
+order sound wav 
 
-|  |  | 
-
-|  **  HOME    ** |  **     TESTIMONIALS    ** |  **     SEARCH    ** |  **     SOUND EFFECTS    ** |  **     PRODUCTION MUSIC    ** |  **     INSTRUMENTS    ** |  **     RINGTONES    ** |  **     ARTISTS    ** |  **     JOIN NOW    ** |  **     SUPPORT  **  
----|---|---|---|---|---|---|---|---|---  
-  
-  
-
+|  |   
+---  
+| 
 
 **Privacy Policy of AudioSparx  **
 
@@ -98,30 +93,26 @@ We know that you care how your information is used, and we appreciate your trust
 
 *************************************
 
+|   
+Copyright © 1996 - 2010 AudioSparx               [Privacy Policy](https://web.archive.org/sa/privacy/privacy_policy.cfm)    [Terms & Conditions](https://web.archive.org/sa/license.cfm)      Hostname: AXC2  
   
-  
-  
-[](https://web.archive.org/sa/)  
-| 
-
-sound effects,  
-wav sound effects,  
-hollywood edge,  
-hollywood sound effects,  
-royalty free sound effect,  
-productos audio profesional,  
-son,  
+wav files work,  
+open wav files,  
+mp3 wav files,  
+sondage,  
 desarrollo de aplicaciones multimedia,  
-television sound effects,  
-movie background sounds,  
-음향 효과,  
-sound effect libraries,  
-wav,  
-download sounds,  
-royalty-free sounds,  
-royalty-free sound effect,  
-surround sound effects,  
-royalty-free sound effects,  
-sound effects,  
-wav sounds,  
-sonido para eventos 
+download mp3s,  
+commercial sounds,  
+audio,  
+aiff,  
+the movie sounds,  
+sound bytes wav files,  
+used mp3,  
+24-bit sound effects,  
+system wav files,  
+fx,  
+sfx mask,  
+mp3 audio,  
+mp3 wav files,  
+open wav files,  
+wav files work 
