@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youbeenblinded.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194300id_/http%3A//youbeenblinded.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeenblinded.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102174040id_/http%3A//youbeenblinded.com/contact-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY
 
 You Been Blinded(Recognized here forward as YBB) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
