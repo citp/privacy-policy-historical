@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igossip.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621003600id_/http%3A//igossip.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igossip.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102034321id_/http%3A//igossip.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / iGossip
 
@@ -86,4 +86,4 @@ If you have any questions about this Policy, our practices related to this Site,
 
 6.2. UPDATES AND CHANGES
 
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice of such change on the Site for 30 days. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. 
+We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice of such change on the Site for 30 days. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
