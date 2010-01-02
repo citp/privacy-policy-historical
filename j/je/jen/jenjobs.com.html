@@ -1,110 +1,97 @@
-<!--The following is the downloaded HTML source of the jenjobs.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217075427id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jenjobs.com privacy policy that was archived on 2010-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102121951id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="description" content="JenJOBS.com is a results-oriented job portal focused primarily on providing on cost and time effective solutions to meet the exacting needs of today’s jobseekers and employers.">
-<meta name="keywords" content="Jobs in malaysia, recruitment, career, work, employment, staffing, vacancy, occupation"> 
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="description" content="Job portal in Malaysia offering thousands of jobs. Find new employment in Malaysia, Kuala Lumpur, Selangor, Penang, Perak, Johor and Asia. Employers, advertise jobs and find resumes here.">
 
-<meta http-equiv="Content-Type" charset="utf-8" name="KEYWORDS" content="jobs in malaysia, malaysia, jobs, malaysia, jobs, IT jobs, HR jobs, finance jobs, sales jobs, marketing jobs, engineering jobs, customer service jobs, accounting jobs, management jobs, legal jobs, business development, HR, career resource,  career, create resume, education career, employer, employment, employment opportunity, employment asia,  find job, free job posting,  it recruitment, human resource, internet recruitment, jawatan kosong, jobstreet, job, job interview, job listing, job site, job vacancy, job opening, job placement, job opportunity, job seeker, job tips,  job alert,  job online, job search,online job search, online recruitment,  post advertisement, recruitment, recruitment agency, resume, resume service, kuala lumpur, kl job, johor bahru, penang, penang job">
+		<title>Privacy Statement : JenJOBS</title>
+	
 
-<meta name="verify-v1" content="RLhVANbpH1S3BBVqslogUjGW6INQyccmuJrGd57/Fog=">
-<meta name="country" content="Malaysia">
-
-<title>JenJOBS.com</title>
 <link href="/includes/css/general.css" rel="stylesheet" type="text/css">
 <link rel="icon" href="http://www.jenjobs.com/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.jenjobs.com/favicon.ico" type="image/x-icon">
 <script language="javascript" type="text/javascript" src="/includes/js/mouseover.js"></script>
+
+
+<script type="text/javascript" src="/nd2/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/nd2/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/nd2/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/nd2/js/main.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/Mike/autocomplete/jquery.autocomplete.css">
+<script type="text/javascript" src="/Mike/autocomplete/js/jquery.autocomplete.min.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+$().ready(function() {
+	// The actual autocomplete function, you can hook autocomplete up on a field by field basis.
+	$("#suggest").autocomplete('/Mike/autocomplete/asproxy.cfm', {
+		minChars: 1, // The absolute chars we want is at least 1 character.
+		width: 400,  // The width of the auto complete display
+		formatItem: function(row){
+			return row[0] ; // Formatting of the autocomplete dropdown.
+		}
+	});
+	// The results function, what happens once I select what I want.  In this case, I'm populating a hidden field.
+	$("#suggest").result(
+		function(event, data, formatted) {
+		// Make sure there's data, otherwise, what's the point? ;P
+		if (data) $('#stuff').val(data[1]);
+		document.searchform.submit();
+	});
+});</script>
+
+<style type="text/css">
+	@import url('/nd2/css/reset.css');
+	@import url('/nd2/css/base.css');
+	@import url('/nd2/css/tables.css');
+	@import url('/nd2/css/forms.css');
+	@import url('/nd2/css/search.css');
+	@import url('/nd2/css/custom-theme/jquery-ui-1.7.2.custom.css');
+</style>
 </head>
 
-<body onload="MM_preloadImages('/includes/templates/pics/btn_home_on.gif','/includes/templates/pics/btn_jseekers_on.gif','/includes/templates/pics/btn_employers_on.gif')">
 
+<body>
+	<div id="body">
+				
+				<div align="center"><table style="font-size:16px" width="990"><tbody><tr><td><div align="right">
+				 <b>
+						<a href="/privacy.cfm?&amp;ver=cn">[中文]</a>
+						<a href="/privacy.cfm?&amp;ver=eng">[English]</a>
+					</b>
+				&nbsp;</div></td></tr></tbody></table></div>
+		<div id="shadow_container">
+			<div id="container">
+				<div id="header">
+				<!-- Login/Register panel -->
+					
+					<!-- End panel -->
 <!-- ++++++++++++++++ TOP NAVIGATION ++++++++++++++++ -->
-<div id="topBg"><img src="/pics/spacer.gif" alt="spacer"></div>
-
-<div id="topNavigation">
-
-<div class="col1"><a href="http://www.jenjobs.com"><img src="/pics/jenJOBS_logo.gif" alt="JenJOBS.com Logo" class="logo" border="0"></a></div>
-
-<!-- // Search Function // -->
-
-<div class="col2"><div class="topNavPad">
-<div class="searchBg">
-<table border="0" align="center" cellpadding="5"><form action="/jobs/displayall.cfm"></form><tbody><tr><td>
-<input type="hidden" name="toType" value="3">
-<input type="hidden" name="frmownsearch" value="1">
-Keywords / Jobcode <font size="1"><i>(eg:kkhhq)</i></font>:<br>
-<input name="keywords" type="text" size="35"> <input type="submit" value="Search" class="btnClass" onmouseover="this.className='btnClass btnMV'" onmouseout="this.className='btnClass'"><br>
-List jobs by: <a href="/searchSpec.cfm?loc=specialization">Specialisation</a> / <a href="/searchInd.cfm?loc=industry">Industry</a> / <a href="/searchComp.cfm?loc=company">Company</a> 
-
-</td></tr></tbody></table>
-</div></div></div>
-
-<!-- // Search Function // -->
-
-<div id="clear"></div>
-
-<!-- // Navigation // -->
-<div id="navArea"><div class="navBg">
+					<table cellpadding="0" cellspacing="0"><tbody><tr><td><div id="logo" onclick="location.href='http://www.jenjobs.com';" style="cursor:pointer;"></div></td>
+					    <td width="100"></td><td height="90"> <a href="/Jobs/ListAllJobs/ListAllJobs.cfm?emid=24" target="_blank"><img src="/AdFiles/img/JL4Uleadeboard.jpg" border="0"></a>
+		</td>
+					</tr></tbody></table>
+					<!-- Navigation bar -->
+					<div id="nav">
+						<ul id="main_nav">
+							<li><a href="http://www.jenjobs.com">Laman Utama</a></li>
+							<li><a href="/jobseeker/page.cfm">Pencari Kerja</a></li>
+							<li><a href="/employer/index.cfm">Majikan</a></li>
+							<li><a href="/employer/jobposting.cfm">Pakej Pengambilan</a></li>
+							<li><a href="/classifieds/DisplayAll.cfm?loc=classifieds">Klassified</a></li>
+							<li><a href="/partners.cfm">Rakan Kongsi</a></li>
+							<li><a href="/aboutus.cfm">Mengenai Kami</a></li>
+							<li><a href="/contactus.cfm">Hubungi </a></li>
 
 
-<!-- // Main navigation // -->
-<div class="col1">
-<ul><li><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/includes/templates/pics/btn_home_on.gif',1)"><img src="/includes/templates/pics/btn_home.gif" alt="Home" name="home" width="69" height="21" border="0"></a></li>
-<li><img src="/includes/templates/pics/btn_separator.gif" alt="Separator"></li>
-<li><a href="/jobseeker/page.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Jobseekers','','/includes/templates/pics/btn_jseekers_on.gif',1)"><img src="/includes/templates/pics/btn_jseekers.gif" alt="Jobseekers" name="Jobseekers" width="95" height="21" border="0"></a></li>
-<li><img src="/includes/templates/pics/btn_separator.gif" alt="Separator"></li>
-<li><a href="/employer/page.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Employers','','/includes/templates/pics/btn_employers_on.gif',1)"><img src="/includes/templates/pics/btn_employers.gif" alt="Employers" name="Employers" width="95" height="21" border="0"></a></li></ul>
-</div>
-<div class="col2">
-<ul><li><a href="/joinUs.cfm">Careers with JenJOBS.com</a></li>
-<li class="subliSpace"></li></ul>
-</div>
-<div id="clear"></div>
-<!-- // Main navigation // -->
-<!-- // Navigation // -->
-</div></div></div>
-<!-- ++++++++++++++++ TOP NAVIGATION ++++++++++++++++ --> 
-<!-- ++++++++++++++++ Sub Navigation ++++++++++++++++ -->
-<div id="subNav"><div class="subNavBg">
-<ul class="sublink">
-<li id="sublinkArrow">&nbsp;</li>
-<li><a href="http://www.jenjobs.com/theJenJOBSDaily/?loc=jjd">The JenJOBS Daily</a></li>
+						</ul>
+					
+					</div>
+					<!-- End nav bar -->
+					
+										
+					
+				</div>
 
-<li class="subliSpace"></li>
-<li id="sublinkArrow">&nbsp;</li>
-<li><a href="/classifieds/DisplayAll.cfm?loc=classifieds">Classifieds</a></li>
-
-<li class="subliSpace"></li>
-<li id="sublinkArrow">&nbsp;</li>
-<li><a href="/microsite/jl4u/?loc=jl4u">JobsLook4U</a></li>
-
-<li class="subliSpace"></li>
-<li id="sublinkArrow">&nbsp;</li>
-<li><a href="/microsite/jobGift/?loc=jobGift">JobGift Referral Programme</a></li>
-
-<!--
-<li class="subliSpace"></li>
-<li id="sublinkArrow">&nbsp;</li>
-<li><a href="/microsite/jenStudio/?loc=jenstudio" >Jen Studio</a></li>
--->
-
-
-
-
-</ul>
-</div></div>
-<!-- ++++++++++++++++ Sub Navigation ++++++++++++++++ -->
-
-
-<!--<li id="sublinkArrow">&nbsp;</li>
-<li><a href="/microstite/mgm/" class="new">Member Get Member</a></li>
-<li id="newService">&nbsp;</li>
-
-<li class="subliSpace"></li>-->
 
 <script language="javascript">
 	function changeRace(){
@@ -113,8 +100,8 @@ List jobs by: <a href="/searchSpec.cfm?loc=specialization">Specialisation</a> / 
 </script>
 
 <!-- ********** CONTENT ********** -->
-<div id="body">
-<div class="content">
+<div id="main">
+<div class="main_content">
 
 
 
@@ -236,36 +223,60 @@ The Company is committed to respecting the privacy of the User. The Company stri
 
 <!-- ********** CONTENT ********** -->
 
-<!-- ++++++++++++++++ FOOTER ++++++++++++++++ -->
-<div id="footer">
 
-<div class="col1">
-<ul>
-<li><a href="/faq/">FAQ</a></li>
-<li class="subliSpace"></li>
-<li>/</li>
+				</div>
+				<!-- End main -->
+			</div>
+			<!-- End Container -->
+		</div>
+			
 
-<li class="subliSpace"></li>
-<li><a href="/aboutUs.cfm">About Us</a></li>
-<li class="subliSpace"></li>
-<li>/</li>
+		<div id="footer">
+			<a href="/faq">Soalan Lazim</a> / 
+			<a href="/aboutUs.cfm">Mengenai Kami</a> / 
+			<a href="/contactUs.cfm">Hubungi Kami</a> / 
+			<a href="/termsOfUse.cfm">Syarat Penggunaan</a> / 
+			<a href="/privacy.cfm"><font color="#FF6600">Penyataan Privasi</font></a> 
+			<br>
+			 © 2010 JenJOBS.com Hakcipta Terpelihara.
+		</div>
+	
+			<!-- Login Box (Show as dialog) -->
+		
+		<!-- End Login Box -->
 
-<li class="subliSpace"></li>
-<li><a href="/contactUs.cfm">Contact Us</a></li>
-<li class="subliSpace"></li>
-<li>/</li>
-
-<li class="subliSpace"></li>
-<li><a href="/termsOfUse.cfm">Terms of Use</a></li>
-<li class="subliSpace"></li>
-<li>/</li>
-
-<li class="subliSpace"></li>
-<li><a href="/privacy.cfm">Privacy Statement</a></li></ul>
-</div>
-<div class="col2"><span class="copyright">Copyright ©2008, JenJOBS.com.  All Rights Reserved.</span><span class="subliSpace"></span></div>
-</div>
-<!-- ++++++++++++++++ FOOTER ++++++++++++++++ -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6443643-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
-</body></html>
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-login_box" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-login_box" unselectable="on">Login</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="login_box" class="ui-dialog-content ui-widget-content">
+			<form action="/login.cfm" name="login" method="post">
+				<table class="form border_bottom">
+						<tbody><tr><td colspan="2"><input name="type" type="radio" value="0" checked="">&nbsp;Jobseekers&nbsp;<input name="type" type="radio" value="1">&nbsp;Employers</td></tr>
+					<tr>
+						<th>Username</th>
+						<td><input type="text" class="textbox" name="login" id="username"></td>
+					</tr>
+					<tr>
+						<th>Password</th>
+						<td><input type="password" class="textbox" name="password" id="password"></td>
+					</tr>
+					<tr id="invalid_password" style="display:none;">
+						<td colspan="2" class="bold red">Invalid username and/or password.</td>
+					</tr>
+					<tr>
+						<td colspan="2"><span class="fright"><img src="/nd2/img/ajax_loader.gif" id="login_loader" style="display:none;"><input type="submit" onclick="doLogin()" class="button ui-state-default ui-corner-all" value="Login"></span><a href="/ForgotPwd/forgotPwd.cfm" target="_blank">Forgot Password</a></td>
+					</tr>
+				</tbody></table>
+				
+				
+				<p>Haven't got an account? <a href="/xpress.cfm">Click here to register</a>. Registration is free.</p>
+			</form>
+		</div></div></body></html>
