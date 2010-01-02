@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164201id_/http%3A//www.solarbuzz.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102162743id_/http%3A//www.solarbuzz.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **  
-** The Solarbuzz.com web site ("Web Site") is owned and operated by Solarbuzz, Inc ("Solarbuzz"). The following privacy statement describes the practice of Solarbuzz with respect to the collection, maintenance and disclosure of information on the Web Site. **  
+** The Solarbuzz.com web site ("Web Site") is owned and operated by Solarbuzz, LLC ("Solarbuzz"). The following privacy statement describes the practice of Solarbuzz with respect to the collection, maintenance and disclosure of information on the Web Site. **  
 **
 
 **Information Collected**
@@ -20,7 +20,7 @@ To improve services and the quality of the Web Site, we offer users an opportuni
 
 **Use of Personal Information Collected**
 
-Personal information collected on this Web Site is used primarily for the purpose it is requested. In particular, contact information, such as name and e-mail address, is used to provide users services they have chosen on this Web Site such as the provision of newsletters. Personal information collected in connection with a contest is used to notify the winners and to award prizes. We also use personal information to provide users with information about new services and products offered on the Web Site and to forward promotional materials from us and our partners. It is important to note that users may opt-out of receiving promotional materials and information about new services on the Web Site. The opt out procedure is discussed in detail below. We may use personal information collected to contact users in connection with their inappropriate use of this Web Site, non-compliance with the [Terms of Use](https://web.archive.org/web/20080509164201id_/http%3A//www.solarbuzz.com/TermsandConditions.htm) or in connection with a complaint filed by another user. We may share personal information collected on the Web Site with our partners and third parties but only with your consent, which can be granted in the form of an opt-out at the points where personal information is collected. We collect and use non-personal information such as demographic data to analyze and develop our marketing strategy and to determine how you found out about us, your interests regarding our services and how to further improve our Web Site based upon user data. We share non-personal information with our partners and third parties.
+Personal information collected on this Web Site is used primarily for the purpose it is requested. In particular, contact information, such as name and e-mail address, is used to provide users services they have chosen on this Web Site such as the provision of newsletters. Personal information collected in connection with a contest is used to notify the winners and to award prizes. We also use personal information to provide users with information about new services and products offered on the Web Site and to forward promotional materials from us and our partners. It is important to note that users may opt-out of receiving promotional materials and information about new services on the Web Site. The opt out procedure is discussed in detail below. We may use personal information collected to contact users in connection with their inappropriate use of this Web Site, non-compliance with the [Terms of Use](https://web.archive.org/web/20100102162743id_/http%3A//www.solarbuzz.com/TermsandConditions.htm) or in connection with a complaint filed by another user. We may share personal information collected on the Web Site with our partners and third parties but only with your consent, which can be granted in the form of an opt-out at the points where personal information is collected. We collect and use non-personal information such as demographic data to analyze and develop our marketing strategy and to determine how you found out about us, your interests regarding our services and how to further improve our Web Site based upon user data. We share non-personal information with our partners and third parties.
 
 **Disclosure Required By Law**
 
@@ -60,6 +60,8 @@ We will use information in accordance with the privacy statement under which the
 
 **Enforcement**
 
-If users have any questions or complaints with respect to the principles outlined in this privacy statement or enforcement of this privacy statement they should contact us at [info@solarbuzz.com](mailto:info@solarbuzz.com). Last revised on May 3, 2001.   
+If users have any questions or complaints with respect to the principles outlined in this privacy statement or enforcement of this privacy statement they should contact us at [info@solarbuzz.com](mailto:info@solarbuzz.com). 
+
+Last revised on May 3, 2001.   
   
-© 2007 Solarbuzz, LLC. All rights reserved
+© 2010 Solarbuzz, LLC. All rights reserved
