@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423061033id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102113101id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # LIWeddings.com Internet Privacy Policy
 
 | 
 
-| 
+|  **In order to take advantage of the tools offered in the LIWeddings.com Planning section, you must be a registered user.**
 
 Long Island Weddings ™, Inc ("LIWeddings.com") has developed this privacy statement for you, the visitor, to demonstrate our commitment to privacy on the Internet. The following discloses our information gathering and dissemination practices for www.LIWeddings.com and all other Web sites owned and operated by LIWeddings.com.
 
@@ -63,8 +63,8 @@ The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserv
 
 | 
 
-[](http://www.liweddings.com/scripts/tracking/static.aspx?ID=29) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=187) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=183)
+[](http://www.liweddings.com/scripts/tracking/static.aspx?ID=37) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=194) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=187)
 
-[](http://www.liweddings.com/vendors/banners/?ID=139) [](http://www.liweddings.com/vendors/banners/?ID=1504) [](http://www.liweddings.com/vendors/banners/?ID=231)  
+[](http://www.liweddings.com/vendors/banners/?ID=19) [](http://www.liweddings.com/vendors/banners/?ID=1204) [](http://www.liweddings.com/vendors/banners/?ID=230)  
   
 ---|---|---
