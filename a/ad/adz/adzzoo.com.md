@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzzoo.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923173658id_/http%3A//adzzoo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzzoo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102112825id_/http%3A//adzzoo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AdzZoo.com
 
