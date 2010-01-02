@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014112033id_/http%3A//merchantwarehouse.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102012121id_/http%3A//merchantwarehouse.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Merchant Warehouse Privacy Policy
 
