@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burjdubaiskyscraper.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923193315id_/http%3A//www.burjdubaiskyscraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burjdubaiskyscraper.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102183934id_/http%3A//www.burjdubaiskyscraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
