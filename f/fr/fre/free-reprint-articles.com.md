@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-reprint-articles.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723220453id_/http%3A//free-reprint-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-reprint-articles.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102051731id_/http%3A//free-reprint-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Free Reprint Articles | Privacy Statement
 
