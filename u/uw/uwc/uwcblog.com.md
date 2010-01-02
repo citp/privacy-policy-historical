@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcblog.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720112345id_/http%3A//uwcblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcblog.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102222519id_/http%3A//uwcblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « UWC Blog Network | Free Blogging Software
 
