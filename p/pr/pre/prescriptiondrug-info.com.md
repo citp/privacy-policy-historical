@@ -1,35 +1,9 @@
-> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820044308id_/http%3A//www.prescriptiondrug-info.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010603id_/http%3A//www.prescriptiondrug-info.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - The People's Medicine Community
 
-[ Home Page](https://web.archive.org/)  
-[ Post Your Story or Question](https://web.archive.org/drug_discussion.asp)  
-[ Follow Us On Twitter](http://twitter.com/druginfo)  
-[ Registered Community Experts](https://web.archive.org/experts)  
-[Topics Submitted](https://web.archive.org/forums/drug_submissions.asp) [](http://feeds.prescriptiondrug-info.com/DrugSubmissions)  
-[Prescription Drug Forums](https://web.archive.org/forums/prescription_drug_discussions.asp) [](http://feeds.prescriptiondrug-info.com/DrugDiscussions)  
-[Top 200 Prescription Drugs](https://web.archive.org/top_prescription_drugs.asp)  
-[Drugs by Category](https://web.archive.org/drug_categories.asp)  
-[Recent FDA Approvals](https://web.archive.org/recent_drug_approvals.asp)  
-[August 2009 Health News](https://web.archive.org/news/?sm=8&sd=1&sy=2009&em=8&ed=31&ey=2009)  
-[Advertising & Contact Details](https://web.archive.org/advertising.asp)  
-[About the Community](https://web.archive.org/about.asp)  
-[Medical Disclaimer](https://web.archive.org/disclaimer.asp)  
-[Terms of Use](https://web.archive.org/terms_of_use.asp)  
-[Privacy Policy](https://web.archive.org/privacy.asp)  
-Make Us Your Home Page  
-[Bookmark this Page ](http://www.addthis.com/bookmark.php)  
-
-
-### Helpful Tools
-
-[Health Insurance Quotes](https://web.archive.org/insurance)  
-[Find a Healthcare Provider](http://healthcare.prescriptiondrug-info.com/syndication/directory/search/66b64c3f1bc44a87d277fbaa331969fd/)
-
-### Recent Topics
-
-[Oc 10](https://web.archive.org/topics/oc-10/ "oc 10")  [5113](https://web.archive.org/topics/5113/ "5113")  [Acne Medicine](https://web.archive.org/topics/acne-medicine/ "acne medicine")  [Flextra Plus](https://web.archive.org/topics/flextra-plus/ "flextra plus")  [Pliva434](https://web.archive.org/topics/pliva434/ "pliva434")  [Nuvigil](https://web.archive.org/topics/nuvigil/ "nuvigil")  [5312](https://web.archive.org/topics/5312/ "5312")  [Naproxen](https://web.archive.org/topics/naproxen/ "naproxen")  [Nasalcort](https://web.archive.org/topics/nasalcort/ "nasalcort")  [Hydroxyzine Hcl](https://web.archive.org/topics/hydroxyzine-hcl/ "hydroxyzine hcl")  [White Round Percocet Pill With M 0552](https://web.archive.org/topics/white-round-percocet-pill-with-m-0552/ "white round percocet pill with m 0552")  [B375](https://web.archive.org/topics/B375/ "B375")  [M White Circle Pill](https://web.archive.org/topics/m-white-circle-pill/ "m white circle pill")  [Round Blue Pill With E 72](https://web.archive.org/topics/round-blue-pill-with-E-72/ "round blue pill with E 72")  [Phenazopyrid](https://web.archive.org/topics/phenazopyrid/ "phenazopyrid")  [014 White Pill](https://web.archive.org/topics/014-white-pill/ "014 white pill")  [Yellow Round Pill Ss Wyeth](https://web.archive.org/topics/yellow-round-pill-ss-wyeth/ "yellow round pill ss wyeth")  [What Is Lortab](https://web.archive.org/topics/what-is-lortab/ "what is lortab")  [Blood Presure Pills](https://web.archive.org/topics/blood-presure-pills/ "blood presure pills")  [Z4172](https://web.archive.org/topics/Z4172/ "Z4172")  [A 9](https://web.archive.org/topics/a-9/ "a 9")  [Watson 853 Yellow Tablet](https://web.archive.org/topics/watson-853-yellow-tablet/ "watson 853 yellow tablet")  [Arrow S 50 Pill](https://web.archive.org/topics/arrow-S-50-pill/ "arrow S 50 pill")  [Yellow Norco Pill](https://web.archive.org/topics/yellow-norco-pill/ "yellow norco pill")  [Tryptophan](https://web.archive.org/topics/tryptophan/ "tryptophan")  [Side Effects Of Ecospirin](https://web.archive.org/topics/Side-effects-of-ecospirin/ "Side effects of ecospirin")  [Opana Er](https://web.archive.org/topics/opana-er/ "opana er")  [Vicodin](https://web.archive.org/topics/vicodin/ "vicodin")  [White Pill With Am 10](https://web.archive.org/topics/White-pill-with-AM-10/ "White pill with AM 10")  [Zanaflex](https://web.archive.org/topics/zanaflex/ "zanaflex")  |    
-Our site PrescriptionDrug-Info.com ("PDI") operates an online community for our users to share their drug related questions and stories with one another. We are committed to safeguarding the privacy of our web site visitors; as such, this policy explains how we will treat your personal information. | [](http://www.truste.org/ivalidate.php?url=www.prescriptiondrug-info.com&sealid=101)  | PrescriptionDrug-Info.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.prescriptiondrug-info.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us directly.  
+  
+Our site PrescriptionDrug-Info.com ("PDI") operates an online community for our users to share their drug related questions and stories with one another. We are committed to safeguarding the privacy of our web site visitors; as such, this policy explains how we will treat your personal information. [](http://www.truste.org/ivalidate.php?url=www.prescriptiondrug-info.com&sealid=101)  | PrescriptionDrug-Info.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.prescriptiondrug-info.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us directly.  
   
 ---|---  
   
@@ -44,8 +18,7 @@ Westlake Village, CA 91362
 <http://twitter.com/druginfo>
 
   **Email Us:**  
-All email correspondence should be sent to   
-Please keep the email subject as "Web Contact" so that we may quickly identify your message.
+You can use our [Contact Form](https://web.archive.org/contact.asp) to reach us via email.
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -108,5 +81,5 @@ _Google Advertising Cookie._ Google, as a third party vendor, uses cookies to se
   
 All rules, policies (including privacy policies) and operating procedures of Merchants will apply to You while on such sites. We are not responsible for information provided by You to Merchants. We and the Merchants are independent contractors and neither party has authority to make any representations or commitments on behalf of the other.  
 PDI reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.  
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.This information has been independently compiled and is for educational purposes only. It is not intended to be a substitute for face to face medical advice from a qualified healthcare professional. Please remember that the content within this community is totally compiled by users of this site. Our website displays many pages which do not contain any medical information regarding the drug name stated. These pages are only provided for the purpose of opening community discussions about that drug by our users. For more details please see the [Disclaimer](https://web.archive.org/Disclaimer.asp). This data is Copyright © 2005-2009 PrescriptionDrug-Info.com and is protected under U.S. and International Copyright laws. All Rights Reserved.  
+If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.This information has been independently compiled and is for educational purposes only. It is not intended to be a substitute for face to face medical advice from a qualified healthcare professional. Please remember that the content within this community is totally compiled by users of this site. Our website displays many pages which do not contain any medical information regarding the drug name stated. These pages are only provided for the purpose of opening community discussions about that drug by our users. For more details please see the [Disclaimer](https://web.archive.org/Disclaimer.asp). This data is Copyright © 2005-2010 PrescriptionDrug-Info.com and is protected under U.S. and International Copyright laws. All Rights Reserved.  
 privacy.asp Last Updated August 18 2009 
