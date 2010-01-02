@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070047id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102194627id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # 
 
