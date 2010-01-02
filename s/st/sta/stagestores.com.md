@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172135id_/http%3A//www.stagestores.com/policies/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102125140id_/http%3A//www.stagestores.com/policies/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Stage: Privacy Policy
 
@@ -9,7 +9,7 @@ Thank you for visiting our web site. We appreciate your trust in us and we respe
 
 ## Sites Covered By This Privacy Policy
 
-This Privacy Policy applies to web sites that may be accessed at the following addresses: [www.stagestores.com](http://www.stagestores.com/); [www.stagestoresinc.com](http://www.stagestoresinc.com/); [www.palaisroyal.com](http://www.palaisroyal.com/); [www.beallstx.com](http://www.beallstx.com/); [www.peebles.com](http://www.peebles.com/); and [www.fashionrulz.com](http://www.fashionrulz.com/), (each, a "Site"). We request that you carefully read this Privacy Policy and our Terms of Use before using the Site. By visiting, viewing or using the Site in any manner you are agreeing to the terms set forth in this Privacy Policy, as well as the Terms of Use for the Site. If you choose to use the Credit Card portion of the Site to either apply online or access your credit account, you will enter a web site operated by World Financial Network National Bank ("WFNNB"), who is not an affiliate of Specialty Retailers, Inc. For information regarding WFNNB privacy practices, please review the WFNNB Customer Privacy Statement.
+This Privacy Policy applies to web sites that may be accessed at the following addresses: [www.stagestores.com](http://www.stagestores.com/); [www.stagestoresinc.com](http://www.stagestoresinc.com/); [www.palaisroyal.com](http://www.palaisroyal.com/); [www.beallstx.com](http://www.beallstx.com/); [www.peebles.com](http://www.peebles.com/); [www.goodysonline.com](http://www.goodysonline.com/); and [www.fashionrulz.com](http://www.fashionrulz.com/), (each, a "Site"). We request that you carefully read this Privacy Policy and our Terms of Use before using the Site. By visiting, viewing or using the Site in any manner you are agreeing to the terms set forth in this Privacy Policy, as well as the Terms of Use for the Site. If you choose to use the Credit Card portion of the Site to either apply online or access your credit account, you will enter a web site operated by World Financial Network National Bank ("WFNNB"), who is not an affiliate of Specialty Retailers, Inc. For information regarding WFNNB privacy practices, please review the WFNNB Customer Privacy Statement.
 
 ## The Types of Information We Collect
 
