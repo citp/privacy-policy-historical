@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slackernetwork.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106085307id_/http%3A//www.slackernetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slackernetwork.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102170847id_/http%3A//www.slackernetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Slacker Network # Privacy
 
