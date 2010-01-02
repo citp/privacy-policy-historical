@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171855id_/http%3A//www.seobythesea.com/%3Fpage_id%3D1139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102193251id_/http%3A//www.seobythesea.com/%3Fpage_id%3D1139) for the most accurate reproduction.*
 
-# Privacy Policy | SEO by the Sea
-
-## Privacy Policy 
+# Privacy Policy for SEO by the Sea
 
 > “The makers of the Constitution conferred the most comprehensive of rights and the right most valued by all civilized men—the right to be let alone.”
 > 
