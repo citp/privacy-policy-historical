@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214171814id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102050939id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
 
 # PKmela.com - Privacy Policy
 
@@ -16,6 +16,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-Crush Name Revealer is faked by the name 'Love Compability Checker', which may be used by your friends to fool you and get your crush names. We assume before using PKmela.com which includes using the crush name revealer you agree to all the terms & privacy policy which states that the actual name for the service is 'Crush Name Revealer'. The purpose of the tool is only 'fun & humour', we are not responsible that how may it be used.
+Crush Name Revealer is faked by the name 'Love Compability Checker', which may be used by your friends to fool you and get your crush names. We assume before using PKmela.com which includes using the crush name revealer you agree to all the terms & privacy policy which states that the actual name for the service is 'Crush Name Revealer'. The purpose of the tool is only 'fun & humour', we are not responsible that how may it be used. 
+
+* Google, as a third party vendor, uses cookies to serve ads on this site. * Google's use of the DART cookie enables it to serve ads to our users based on their visit to the site and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 |   
