@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the igossip.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621003600id_/http%3A//igossip.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igossip.com privacy policy that was archived on 2010-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102034321id_/http%3A//igossip.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,22 +13,31 @@
 				<link href="http://igossip.com/css/eyeGossip.css" rel="stylesheet" type="text/css">
 				<link rel="icon" href="http://igossip.com/browser_icon.ico" type="image/x-icon">	
 				
+				
 				<link rel="alternate" type="application/rss+xml" title="Latest Gossip / iGossip RSS Feed" href="http://igossip.com/rss/rss.php">
 				
 				<script type="text/javascript">
 					var site_url = 'http://igossip.com';
 					var image_dir = 'http://igossip.com/i';
+					var dev_server = '';
 				</script>
 				
 				<script src="http://igossip.com/js/xmlhttp.php" type="text/javascript"></script>
+				<script type="text/javascript" src="http://igossip.com/js/common.js"></script>
+				
 			</head>
 	
 		<body align="center" style="
-				background-color:#DFDFDF;
+				margin:0px;
+				background-color:rgb(234,234,234);
 			">
 			<center>
-			
-		<script type="text/javascript" src="http://igossip.com/js/dd.js"></script>
+			<div style="
+					width:980px;
+					overflow:hidden;
+					text-align:center;
+				">
+				
 		
 		<div style="
 				width:980px;
@@ -53,7 +62,7 @@
 							</a>
 						</td>
 						<td width="300" valign="top" style="padding-bottom:10px; padding-left:10px; padding-top:35px; font-size:20px;">
-							<span style="font-size:19px; font-weight:bold;">What's YOUR opinion?</span>
+							<span style="font-size:16px; font-weight:bold;">What's your <i>celebrity</i> opinion?</span>
 						</td>
 						
 			<td width="380" style="width:430px; text-align:right" class="tiny fake_red">
@@ -67,7 +76,14 @@
 						<tr>
 							<td align="left">
 								<span style="font-weight:bold;">Email</span><br>
-								<input type="text" name="u_title" size="24" style="border:3px solid orange;">
+								<input type="text" name="u_title" size="24" style="border:3px solid orange;" onclick="
+										if(document.getElementById('signin_email'))
+										{
+											this.blur();
+											document.getElementById('signin_email').focus();
+											alert('Please log in from the area below that this page provides.');
+										}
+									">
 							</td>
 							<td align="left" style="padding-left:10px;">
 								<span style="font-weight:bold;">Password</span><br>
@@ -81,7 +97,23 @@
 							<td colspan="3" class="tiny" valign="bottom">
 								<div style="padding-top:5px; float:right; width:170px; overflow:hidden;">
 									
-			<fb:login-button size="medium" background="dark" length="long" onlogin="fb_logged_in();"></fb:login-button>
+			<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+			<script type="text/javascript">
+				FB_RequireFeatures(['XFBML'], function(){
+					FB.init('f09a0d187cffa04d1bc8eaf92051bf54', 'http://igossip.com/connect/xd_receiver.htm', null);
+				});
+			</script>
+			
+				<fb:login-button size="medium" background="dark" length="long" onlogin="fb_logged_in();"></fb:login-button>
+				<script type="text/javascript">
+					function fb_logged_in()
+					{
+						//var api = FB.Facebook.apiClient;
+						//var uid = api.get_session().uid;
+						window.location='http://igossip.com/connect/fb_connect_register.php';
+					}
+				</script>
+			
 		
 								</div>
 								Remember Me<input type="checkbox" name="persistent">
@@ -145,10 +177,10 @@
 					</tr>
 					<tr>
 						<td colspan="3">
-							<table width="100%" border="0" cellspacing="0" cellpadding="0" height="25">
-								<tbody><tr height="25">
+							<table width="100%" border="0" cellspacing="0" cellpadding="0" height="26">
+								<tbody><tr height="26">
 									
-									<td width="80" height="25" style="
+									<td width="80" height="26" style="
 											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
 											background-repeat: no-repeat;
 										" align="center" valign="center">
@@ -157,48 +189,57 @@
 										</a>
 									</td>
 									
-									<td width="80" height="25" style="
-											background-image: url(&quot;http://igossip.com/i/header_tab_gp.png&quot;);
+									<td width="80" height="26" style="
+											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
+											background-repeat: no-repeat;
+										" align="center">
+										<a href="http://igossip.com/gossips/latest" style="display:block;">
+											Gossip
+										</a>
+									</td>
+									
+									<td width="80" height="26" style="
+											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
 											background-repeat: no-repeat;
 										" align="center" valign="center">
-										<a href="http://igossip.com/submit?type=poll" style="display:block;">
-											+Poll
+										<a href="http://igossip.com/polls/latest" style="display:block;">
+											Polls
 										</a>
 									</td>
 									
-									<td width="80" height="25" style="
-											background-image: url(&quot;http://igossip.com/i/header_tab_q.png&quot;);
+									<td width="80" height="26" style="
+											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
 											background-repeat: no-repeat;
 										" align="center">
-										<a href="http://igossip.com/submit?type=question" style="display:block;">
-											+Ask
+										<a href="http://igossip.com/questions/latest" style="display:block;">
+											Answers
 										</a>
 									</td>
 									
-									<td width="80" height="25" style="
-											background-image: url(&quot;http://igossip.com/i/header_tab_g.png&quot;);
-											background-repeat: no-repeat;
-										" align="center">
-										<a href="http://igossip.com/submit?type=gossip" style="display:block;">
-											+Gossip
-										</a>
-									</td>
-									
-									<td width="80" height="25" style="
-											background-image: url(&quot;http://igossip.com/i/header_tab_u.png&quot;);
+									<td width="80" height="26" style="
+											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
 											background-repeat: no-repeat;
 										" align="center">
 										<a href="http://igossip.com/leaderboard" style="display:block;">
-											People
+											Users
 										</a>
 									</td>
 									
-									<td width="80" height="25" style="
+									<td width="80" height="26" style="
 											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
 											background-repeat: no-repeat;
 										" align="center">
 										<a href="http://igossip.com/celebrities" style="display:block;">
-											Celebs
+											Photos
+										</a>
+									</td>
+									
+									<td width="80" height="26" style="
+											background-image: url(&quot;http://igossip.com/i/header_tab.png&quot;);
+											background-repeat: no-repeat;
+										" align="center">
+										<a href="http://igossip.com/submit" style="display:block;">
+											+Post
 										</a>
 									</td>
 									
@@ -237,37 +278,9 @@
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/Sizzle/400020/gossip">
+					<a href="http://igossip.com/category/Movies/400006/gossip">
 						<span style="font-weight:normal; font-size:11px;">
-							Sizzle
-						</span>
-					</a>
-					&nbsp;&nbsp;
-				
-					<a href="http://igossip.com/category/Hot+Bods/400004/gossip">
-						<span style="font-weight:normal; font-size:11px;">
-							Hot Bods
-						</span>
-					</a>
-					&nbsp;&nbsp;
-				
-					<a href="http://igossip.com/category/The+Good+Life/400007/gossip">
-						<span style="font-weight:normal; font-size:11px;">
-							The Good Life
-						</span>
-					</a>
-					&nbsp;&nbsp;
-				
-					<a href="http://igossip.com/category/Rumors/400024/gossip">
-						<span style="font-weight:normal; font-size:11px;">
-							Rumors
-						</span>
-					</a>
-					&nbsp;&nbsp;
-				
-					<a href="http://igossip.com/category/Up-n-Coming+Stars/400010/gossip">
-						<span style="font-weight:normal; font-size:11px;">
-							Up-n-Coming Stars
+							Movies
 						</span>
 					</a>
 					&nbsp;&nbsp;
@@ -279,9 +292,16 @@
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/Movies/400006/gossip">
+					<a href="http://igossip.com/category/TheGoodLife/400007/gossip">
 						<span style="font-weight:normal; font-size:11px;">
-							Movies
+							The Good Life
+						</span>
+					</a>
+					&nbsp;&nbsp;
+				
+					<a href="http://igossip.com/category/HotBods/400004/gossip">
+						<span style="font-weight:normal; font-size:11px;">
+							Hot Bods
 						</span>
 					</a>
 					&nbsp;&nbsp;
@@ -293,21 +313,28 @@
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/Activism/400011/gossip">
+					<a href="http://igossip.com/category/Sizzle/400020/gossip">
 						<span style="font-weight:normal; font-size:11px;">
-							Activism
+							Sizzle
 						</span>
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/Knocked+Up/400008/gossip">
+					<a href="http://igossip.com/category/Up-n-ComingStars/400010/gossip">
+						<span style="font-weight:normal; font-size:11px;">
+							Up-n-Coming Stars
+						</span>
+					</a>
+					&nbsp;&nbsp;
+				
+					<a href="http://igossip.com/category/KnockedUp/400008/gossip">
 						<span style="font-weight:normal; font-size:11px;">
 							Knocked Up
 						</span>
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/15+Minutes+of+Fame/400018/gossip">
+					<a href="http://igossip.com/category/FifteenMinutesofFame/400018/gossip">
 						<span style="font-weight:normal; font-size:11px;">
 							15 Minutes of Fame
 						</span>
@@ -321,16 +348,30 @@
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/Sightings/400001/gossip">
+					<a href="http://igossip.com/category/Rumors/400024/gossip">
 						<span style="font-weight:normal; font-size:11px;">
-							Sightings
+							Rumors
 						</span>
 					</a>
 					&nbsp;&nbsp;
 				
-					<a href="http://igossip.com/category/New+Projects/400012/gossip">
+					<a href="http://igossip.com/category/Awards/400015/gossip">
 						<span style="font-weight:normal; font-size:11px;">
-							New Projects
+							Awards
+						</span>
+					</a>
+					&nbsp;&nbsp;
+				
+					<a href="http://igossip.com/category/Activism/400011/gossip">
+						<span style="font-weight:normal; font-size:11px;">
+							Activism
+						</span>
+					</a>
+					&nbsp;&nbsp;
+				
+					<a href="http://igossip.com/category/Sightings/400001/gossip">
+						<span style="font-weight:normal; font-size:11px;">
+							Sightings
 						</span>
 					</a>
 					&nbsp;&nbsp;
@@ -343,6 +384,7 @@
 		
 		</div>
 		</div>
+		<div style="padding:4px;"></div>
 	
 		<script language="JavaScript" type="text/javascript">
 			var search_display = document.getElementById('search_display');
@@ -376,92 +418,57 @@
 			}
 		</script>
 	
-		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-		<script type="text/javascript">
-			function fb_logged_in()
-			{
-				//var api = FB.Facebook.apiClient;
-				//var uid = api.get_session().uid;
-				window.location='http://igossip.com/connect/fb_connect_register.php';
-			}
-			FB_RequireFeatures(['XFBML'], function(){
-				FB.init('f09a0d187cffa04d1bc8eaf92051bf54', 'http://igossip.com/connect/xd_receiver.htm', null);
-			});
+	<div style="padding-top:0px; text-align:right;">
+				<div style="padding-top:15px; float:left; text-align:center; width:240px; height:75px;">
+					
+		<script type="text/javascript"><!--
+		google_ad_client = "pub-6209413806391834";
+		/* 234x60, created 9/22/09 */
+		google_ad_slot = "9734229305";
+		google_ad_width = 234;
+		google_ad_height = 60;
+		//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 		</script>
 	
-				<div style="width:980px; padding-left:0px; text-align:left; background-color:transparent; position:relative; overflow:hidden; z-index: 3;" border="1" cellpadding="0" cellspacing="0" align="center">
-	<div style="padding-top:10px; text-align:right;">
-				<div class="area_white" style="float:left; text-align:left; width:240px; height:90px; border:1px solid #DD9922;">
-					<div style="background-color:#b92E27;">
-						<span class="small fake_red" style="padding-left:7px;">
-							New to iGossip?
-						</span>
-					</div>
-					<table align="center" border="0">
-						<tbody><tr>
-							<td align="center" class="tiny area_white">
-								<a href="http://igossip.com/leaderboard">
-									<img src="http://igossip.com/i/meet_people.png" border="0">
-									Meet People
-								</a>
-							</td>
-							<td align="center" class="tiny area_white">
-								<a href="http://igossip.com/questions">
-									<img src="http://igossip.com/i/ask_questions.png" border="0">
-									Answers
-								</a>
-							</td>
-							<td align="center" class="tiny area_white">
-								<a href="http://igossip.com/submit?type=poll">
-									<img src="http://igossip.com/i/create_polls.png" border="0">
-									Create Polls
-								</a>
-							</td>
-						</tr>
-					</tbody></table>
 				</div>
-			<div style="float:right; width:728px; height:90px;"><script type="text/javascript"><!--
-	google_ad_client = "pub-6209413806391834";
-	google_ad_slot = "4369489251";
-	google_ad_width = 728;
-	google_ad_height = 90;
-	//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
-			</div></div>
-		<div class="tiny" align="left" valign="top" style="clear:both; padding-top:15px; padding-bottom:10px; width:670px; overflow:hidden; float:left;">
-			<div style="float:left; width:600px; overflow:hidden;">
-				<a href="http://igossip.com">iGossip</a>
-				 / Privacy Policy
-			</div>
 			
-		</div>
-	
+				<div style="float:right; width:728px; height:90px;">
+					
+<script type="text/javascript"><!--
+google_ad_client = "pub-6209413806391834";
+google_ad_slot = "4369489251";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		
+				</div>
+			</div>
+			<div style="padding-top:7px; clear:both;"></div>
+		
 		<div id="page_content_div" style="width:674px; overflow:hidden; float:left; clear:left;">
 			
-		<div style="border:2px solid #990E07;">
+		<div style="border:1px solid #990E07;">
 			
 		<div width="100%" style="
 				left:0px;
 				position:relative;
 				height:32px;
-				color:#FFFFFF;
 				text-align:left;
 				font-size:22px;
-			" class="fake_red">
-			<div style="border:1px solid #a91E17; height:30px;">
-				<div style="background-color: #b92E27;	height:30px; padding-left:5px; font-weight:bold;">
+			"><div style="border:1px solid #a91E17; height:30px;">
+				<div style="background-color: #b92E27; height:30px; padding-left:5px; color:white; font-weight:bold;">
 					<h1 class="inline_heading">Privacy Policy</h1>
 				</div>
 			</div>
 		</div>
-		<div style="height:1px; background-color:#AAAAAA;"></div>
-		<div style="height:1px; background-color:#EEEEEE;"></div>
-		<div style="height:1px; background-color:#FFFFFF;"></div>
+		<div style="height:3px; background-color:#EEEEEE; font-size:0px;"><div style="height:1px; background-color:#AAAAAA;"></div></div>
 	
 			<div class="area_white" style="padding:5px;">
-	
+	<div style="text-align:left;">
 This is the official privacy policy ("Privacy Policy") for igossip.com ("Site," "we," "us," 
 or "our"), an Internet website offered by the parent company ("Parent Company"). iGossip and its 
 Parent Company are committed to respecting the privacy rights of its Users of the Site. We 
@@ -702,7 +709,7 @@ Any such change, update, or modification will be effective immediately upon post
 If, however, we are going to use Users' personally identifiable information in a manner 
 materially different from that stated at the time of collection we will notify by posting a notice of 
 such change on the Site for 30 days. It is your responsibility to review this Policy from time to 
-time to ensure that you continue to agree with all of its terms.
+time to ensure that you continue to agree with all of its terms.</div>
 			</div>
 		</div>
 	
@@ -722,159 +729,48 @@ time to ensure that you continue to agree with all of its terms.
 			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 			</script>
 		<!-- END sidebar_modules/ad_300_250.php --><div style="padding:7px;"> </div><!-- START sidebar_modules/whats_new.php -->
-		<div style="width:291px; border:2px solid #990E07;">
+		<div style="width:291px; border:1px solid #990E07;">
 			
 		<div width="100%" style="
 				left:0px;
 				position:relative;
 				height:32px;
-				color:#FFFFFF;
 				text-align:left;
 				font-size:22px;
-			" class="fake_red">
-			<div style="border:1px solid #a91E17; height:30px;">
-				<div style="background-color: #b92E27;	height:30px; padding-left:5px; font-weight:bold;">
-					<a href="http://igossip.com/?type=all&amp;page=1">On the home page...</a>
+			"><div style="border:1px solid #a91E17; height:30px;">
+				<div style="background-color: #b92E27; height:30px; padding-left:5px; color:white; font-weight:bold;">
+					<a href="http://igossip.com/?type=all&amp;page=1" style="color:white; font-weight:bold;">What's on page 1</a>
 				</div>
 			</div>
 		</div>
-		<div style="height:1px; background-color:#AAAAAA;"></div>
-		<div style="height:1px; background-color:#EEEEEE;"></div>
-		<div style="height:1px; background-color:#FFFFFF;"></div>
+		<div style="height:3px; background-color:#EEEEEE; font-size:0px;"><div style="height:1px; background-color:#AAAAAA;"></div></div>
 	
 			<div class="area_white" style="padding:2px;">
 				
 		<div id="new_gucs" style="overflow:hidden; text-align:left;">
 			
-		<div style="padding-left:3px; padding-right:4px;">
+		<div style="padding-left:3px; padding-right:4px; height:74px;">
 			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
 				<tbody><tr>
-					<td align="left">
-						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
+					<td rowspan="3" width="65">
+						<div style="padding-right:5px;">
+						<div style="width:60px; height:60px; overflow:hidden;">
 							
-		<a href="http://igossip.com/gossip/Ryan_and_Deacon_Phillippe_Out_Shopping_Before_Father_s_Day_Ryan_Phillippe/687636" class="heading area_white" style="font-size:12px;">
-			<h2 class="inline_heading">
-				Ryan and Deacon Phillippe Out Sh...
-			</h2>
-		</a>
-	
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						
-		<div style="
-				padding-top:2px;
-				padding-left:0px;
-				clear:both;
-			" class="area_white">
-			
-			<a id="c687636"></a>
-			
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="41" style="padding-right:2px;">
-									
-		<div style="width:41px; text-align:center;">
-			<a href="http://igossip.com/user/karlerikson/531024">
-				
-		</a><a href="http://igossip.com/user/karlerikson/531024">
-			<img src="http://igossip.com/avatars/user_uploaded/531024.jpg_small" alt="karlerikson" title="karlerikson" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
-		</a>
-	
-			
-		</div>
-	
-								</td>
-								
-								<td width="100%">
-									<table width="100%" cellspacing="0" cellpadding="0" border="0">
-										<tbody><tr height="4" align="right" style="text-align:right;">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td rowspan="3" class="area_yellow" style="padding:4px;">
-												
-												<a href="http://igossip.com/gossip/Ryan_and_Deacon_Phillippe_Out_Shopping_Before_Father_s_Day_Ryan_Phillippe/687636" style="color:black;">Ryan and Deacon Phillippe Out Shopping Befor...</a>
-												
-												
-											</td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="10px">
-											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
-											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="4">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
-										</tr>
-									</tbody></table>
-								</td>
-								
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td align="left" class="tiny">
-									by <a href="http://igossip.com/user/karlerikson/531024">karlerikson</a>
-									
-									
-								</td>
-								
-								<td align="right">
-									<a href="http://igossip.com/report?c_id=687636&amp;url=http://igossip.com/gossip/Ryan_and_Deacon_Phillippe_Out_Shopping_Before_Father_s_Day_Ryan_Phillippe/687636" class="tiny">report abuse</a>
-								</td>
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-			</tbody></table>
-			
-		</div>
+				<div style="width:60px; height:60px; overflow:hidden;">
+					<a href="http://igossip.com/gossip/Is_Dana_baron_in_shape_in_this_photo_Dana_Barron/1016577"><img src="http://i05.bdbphotos.com/6L/11/0001525611-46876L.jpg" style="border:0px black outset;" alt="Photo: Is Dana baron in shape in this photo?" title="Is Dana baron in shape in this photo?" width="60"></a>
+				</div>
 		
-		<div style="clear:both;">
-		</div>
-	
+						</div>
+						</div>
 					</td>
 				</tr>
-			</tbody></table>
-		</div>
-		<div style="padding-top:10px; padding-bottom:4px;">
-			<div style="border-bottom:1px dashed #bbbbbb;">
-			</div>
-		</div>
-	
-		<div style="padding-left:3px; padding-right:4px;">
-			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
-				<tbody><tr>
+				<tr>
 					<td align="left">
 						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
 							
-		<a href="http://igossip.com/gossip/Mercy_Madonna_s_New_Daughter_Flown_to_London/687625" class="heading area_white" style="font-size:12px;">
+		<a href="http://igossip.com/gossip/Is_Dana_baron_in_shape_in_this_photo_Dana_Barron/1016577" class="heading area_white" style="font-size:12px;">
 			<h2 class="inline_heading">
-				Mercy! Madonna’s New Daughter...
+				Is Dana baron in shape in this photo?
 			</h2>
 		</a>
 	
@@ -882,7 +778,7 @@ time to ensure that you continue to agree with all of its terms.
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td align="left">
 						
 		<div style="
 				padding-top:2px;
@@ -890,7 +786,7 @@ time to ensure that you continue to agree with all of its terms.
 				clear:both;
 			" class="area_white">
 			
-			<a id="c687625"></a>
+			<a id="c1086517"></a>
 			
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
@@ -900,376 +796,16 @@ time to ensure that you continue to agree with all of its terms.
 							<tbody><tr>
 								<td width="41" style="padding-right:2px;">
 									
-		<div style="width:41px; text-align:center;">
-			<a href="http://igossip.com/user/karlerikson/531024">
-				
-		</a><a href="http://igossip.com/user/karlerikson/531024">
-			<img src="http://igossip.com/avatars/user_uploaded/531024.jpg_small" alt="karlerikson" title="karlerikson" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
-		</a>
-	
-			
-		</div>
-	
-								</td>
-								
-								<td width="100%">
-									<table width="100%" cellspacing="0" cellpadding="0" border="0">
-										<tbody><tr height="4" align="right" style="text-align:right;">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td rowspan="3" class="area_yellow" style="padding:4px;">
-												
-												<a href="http://igossip.com/gossip/Mercy_Madonna_s_New_Daughter_Flown_to_London/687625" style="color:black;">Mercy! Madonna’s New Daughter Flown to London</a>
-												
-												
-											</td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="10px">
-											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
-											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="4">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
-										</tr>
-									</tbody></table>
-								</td>
-								
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td align="left" class="tiny">
-									by <a href="http://igossip.com/user/karlerikson/531024">karlerikson</a>
-									
-									
-								</td>
-								
-								<td align="right">
-									<a href="http://igossip.com/report?c_id=687625&amp;url=http://igossip.com/gossip/Mercy_Madonna_s_New_Daughter_Flown_to_London/687625" class="tiny">report abuse</a>
-								</td>
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-			</tbody></table>
-			
-		</div>
-		
-		<div style="clear:both;">
-		</div>
-	
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		<div style="padding-top:10px; padding-bottom:4px;">
-			<div style="border-bottom:1px dashed #bbbbbb;">
-			</div>
-		</div>
-	
-		<div style="padding-left:3px; padding-right:4px;">
-			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
-				<tbody><tr>
-					<td align="left">
-						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
-							
-		<a href="http://igossip.com/gossip/Michelle_Pfeiffer_Hates_the_Term_Cougar_David_Kelley/687613" class="heading area_white" style="font-size:12px;">
-			<h2 class="inline_heading">
-				Michelle Pfeiffer Hates the Ter...
-			</h2>
-		</a>
-	
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						
-		<div style="
-				padding-top:2px;
-				padding-left:0px;
-				clear:both;
-			" class="area_white">
-			
-			<a id="c687613"></a>
-			
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="41" style="padding-right:2px;">
-									
-		<div style="width:41px; text-align:center;">
-			<a href="http://igossip.com/user/karlerikson/531024">
-				
-		</a><a href="http://igossip.com/user/karlerikson/531024">
-			<img src="http://igossip.com/avatars/user_uploaded/531024.jpg_small" alt="karlerikson" title="karlerikson" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
-		</a>
-	
-			
-		</div>
-	
-								</td>
-								
-								<td width="100%">
-									<table width="100%" cellspacing="0" cellpadding="0" border="0">
-										<tbody><tr height="4" align="right" style="text-align:right;">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td rowspan="3" class="area_yellow" style="padding:4px;">
-												
-												<a href="http://igossip.com/gossip/Michelle_Pfeiffer_Hates_the_Term_Cougar_David_Kelley/687613" style="color:black;">Michelle Pfeiffer Hates the Term Cougar</a>
-												
-												
-											</td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="10px">
-											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
-											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="4">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
-										</tr>
-									</tbody></table>
-								</td>
-								
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td align="left" class="tiny">
-									by <a href="http://igossip.com/user/karlerikson/531024">karlerikson</a>
-									
-									
-								</td>
-								
-								<td align="right">
-									<a href="http://igossip.com/report?c_id=687613&amp;url=http://igossip.com/gossip/Michelle_Pfeiffer_Hates_the_Term_Cougar_David_Kelley/687613" class="tiny">report abuse</a>
-								</td>
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-			</tbody></table>
-			
-		</div>
-		
-		<div style="clear:both;">
-		</div>
-	
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		<div style="padding-top:10px; padding-bottom:4px;">
-			<div style="border-bottom:1px dashed #bbbbbb;">
-			</div>
-		</div>
-	
-		<div style="padding-left:3px; padding-right:4px;">
-			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
-				<tbody><tr>
-					<td align="left">
-						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
-							
-		<a href="http://igossip.com/gossip/Update_Jon_Kate_NOT_Divorcing_True_Announcement_Revealed_Jon_Gosselin/687583" class="heading area_white" style="font-size:12px;">
-			<h2 class="inline_heading">
-				Update: Jon &amp; Kate NOT Divorcin...
-			</h2>
-		</a>
-	
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						
-		<div style="
-				padding-top:2px;
-				padding-left:0px;
-				clear:both;
-			" class="area_white">
-			
-			<a id="c687583"></a>
-			
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="41" style="padding-right:2px;">
-									
-		<div style="width:41px; text-align:center;">
-			<a href="http://igossip.com/user/sassy1969xo/530991">
-				
-		</a><a href="http://igossip.com/user/sassy1969xo/530991">
-			<img src="http://igossip.com/avatars/user_uploaded/530991.jpg_small" alt="sassy1969xo" title="sassy1969xo" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
-		</a>
-	
-			
-		</div>
-	
-								</td>
-								
-								<td width="100%">
-									<table width="100%" cellspacing="0" cellpadding="0" border="0">
-										<tbody><tr height="4" align="right" style="text-align:right;">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td rowspan="3" class="area_yellow" style="padding:4px;">
-												
-												<a href="http://igossip.com/gossip/Update_Jon_Kate_NOT_Divorcing_True_Announcement_Revealed_Jon_Gosselin/687583" style="color:black;">Update: Jon &amp; Kate NOT Divorcing! True Anno...</a>
-												
-												
-											</td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="10px">
-											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
-											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
-										</tr>
-										<tr height="4">
-											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
-											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
-											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
-										</tr>
-									</tbody></table>
-								</td>
-								
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td align="left" class="tiny">
-									by <a href="http://igossip.com/user/sassy1969xo/530991">sassy1969xo</a>
-									
-									
-								</td>
-								
-								<td align="right">
-									<a href="http://igossip.com/report?c_id=687583&amp;url=http://igossip.com/gossip/Update_Jon_Kate_NOT_Divorcing_True_Announcement_Revealed_Jon_Gosselin/687583" class="tiny">report abuse</a>
-								</td>
-							</tr>
-						</tbody></table>
-						
-					</td>
-				</tr>
-			</tbody></table>
-			
-		</div>
-		
-		<div style="clear:both;">
-		</div>
-	
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-		<div style="padding-top:10px; padding-bottom:4px;">
-			<div style="border-bottom:1px dashed #bbbbbb;">
-			</div>
-		</div>
-	
-		<div style="padding-left:3px; padding-right:4px;">
-			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
-				<tbody><tr>
-					<td align="left">
-						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
-							
-		<a href="http://igossip.com/gossip/Robert_Pattinson_Was_Hit_By_A_Car_/684568" class="heading area_white" style="font-size:12px;">
-			<h2 class="inline_heading">
-				Robert Pattinson Was Hit By A C...
-			</h2>
-		</a>
-	
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						
-		<div style="
-				padding-top:2px;
-				padding-left:0px;
-				clear:both;
-			" class="area_white">
-			
-			<a id="c687573"></a>
-			
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>
-						
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="41" style="padding-right:2px;">
-									
-		<div style="width:41px; text-align:center;">
-			<a href="http://igossip.com/user/Anonymous/100000">
-				
+			<div style="width:20px; text-align:center;">
+				<a href="http://igossip.com/user/Anonymous/100000">
+					
 		</a><a href="http://igossip.com/user/Anonymous/100000">
-			<img src="http://igossip.com/avatars/user_uploaded/100000.jpg_small" alt="Anonymous" title="Anonymous" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
+			<img src="http://igossip.com/avatars/user_uploaded/100000.jpg_small" alt="Anonymous" title="Anonymous" width="21" height="21" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
 		</a>
 	
-			
-		</div>
-	
+				
+			</div>
+		
 								</td>
 								
 								<td width="100%">
@@ -1281,9 +817,9 @@ time to ensure that you continue to agree with all of its terms.
 										</tr>
 										<tr>
 											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td rowspan="3" class="area_yellow" style="padding:4px;">
+											<td rowspan="3" class="area_yellow" style="padding:0px; text-align:left;">
 												
-												<a href="http://igossip.com/gossip/Robert_Pattinson_Was_Hit_By_A_Car_/684568" style="color:black;">its funny but i would kill myself if he died!!...</a>
+												<a href="http://igossip.com/gossip/Is_Dana_baron_in_shape_in_this_photo_Dana_Barron/1016577" style="color:black; font-size:10px;">All you people insulting her, at least she can...</a>
 												
 												
 											</td>
@@ -1323,7 +859,7 @@ time to ensure that you continue to agree with all of its terms.
 								</td>
 								
 								<td align="right">
-									<a href="http://igossip.com/report?c_id=687573&amp;url=http://igossip.com/gossip/Robert_Pattinson_Was_Hit_By_A_Car_/684568" class="tiny">report abuse</a>
+									
 								</td>
 							</tr>
 						</tbody></table>
@@ -1346,15 +882,28 @@ time to ensure that you continue to agree with all of its terms.
 			</div>
 		</div>
 	
-		<div style="padding-left:3px; padding-right:4px;">
+		<div style="padding-left:3px; padding-right:4px; height:74px;">
 			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
 				<tbody><tr>
+					<td rowspan="3" width="65">
+						<div style="padding-right:5px;">
+						<div style="width:60px; height:60px; overflow:hidden;">
+							
+				<div style="width:60px; height:60px; overflow:hidden;">
+					<a href="http://igossip.com/gossip/Miley_Cryus_Worked_a_Pole_at_the_Teen_Choice_Awards_/827779"><img src="http://igossip.com/i/gossip_default.jpg" style="border:0px black outset;" alt="Photo: Miley Cryus Worked a Pole at the `Teen Choice Awards`" title="Miley Cryus Worked a Pole at the `Teen Choice Awards`" width="60"></a>
+				</div>
+		
+						</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
 					<td align="left">
 						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
 							
-		<a href="http://igossip.com/gossip/Is_Beyonce_Still_A_Sexy_Fine_Mama_Without_Makeup_Beyonce_Knowles/604873" class="heading area_white" style="font-size:12px;">
+		<a href="http://igossip.com/gossip/Miley_Cryus_Worked_a_Pole_at_the_Teen_Choice_Awards_/827779" class="heading area_white" style="font-size:12px;">
 			<h2 class="inline_heading">
-				Is Beyonce Still A Sexy Fine M...
+				Miley Cryus Worked a Pole at the 'Teen Choice Awards'
 			</h2>
 		</a>
 	
@@ -1362,7 +911,7 @@ time to ensure that you continue to agree with all of its terms.
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td align="left">
 						
 		<div style="
 				padding-top:2px;
@@ -1370,7 +919,7 @@ time to ensure that you continue to agree with all of its terms.
 				clear:both;
 			" class="area_white">
 			
-			<a id="c687536"></a>
+			<a id="c1086501"></a>
 			
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
@@ -1380,16 +929,16 @@ time to ensure that you continue to agree with all of its terms.
 							<tbody><tr>
 								<td width="41" style="padding-right:2px;">
 									
-		<div style="width:41px; text-align:center;">
-			<a href="http://igossip.com/user/Anonymous/100000">
-				
-		</a><a href="http://igossip.com/user/Anonymous/100000">
-			<img src="http://igossip.com/avatars/user_uploaded/100000.jpg_small" alt="Anonymous" title="Anonymous" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
+			<div style="width:20px; text-align:center;">
+				<a href="http://igossip.com/user/meme/987251">
+					
+		</a><a href="http://igossip.com/user/meme/987251">
+			<img src="http://igossip.com/avatars/avatar_default.png_small" alt="meme" title="meme" width="21" height="21" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
 		</a>
 	
-			
-		</div>
-	
+				
+			</div>
+		
 								</td>
 								
 								<td width="100%">
@@ -1401,9 +950,9 @@ time to ensure that you continue to agree with all of its terms.
 										</tr>
 										<tr>
 											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
-											<td rowspan="3" class="area_yellow" style="padding:4px;">
+											<td rowspan="3" class="area_yellow" style="padding:0px; text-align:left;">
 												
-												<a href="http://igossip.com/gossip/Is_Beyonce_Still_A_Sexy_Fine_Mama_Without_Makeup_Beyonce_Knowles/604873" style="color:black;">shes a naturally beautiful woman she looks 10...</a>
+												<a href="http://igossip.com/gossip/Miley_Cryus_Worked_a_Pole_at_the_Teen_Choice_Awards_/827779" style="color:black; font-size:10px;">listen you slut i can stop children from watch...</a>
 												
 												
 											</td>
@@ -1437,13 +986,548 @@ time to ensure that you continue to agree with all of its terms.
 						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
 								<td align="left" class="tiny">
-									by <a href="http://igossip.com/user/Anonymous/100000">Anonymous</a>
+									by <a href="http://igossip.com/user/meme/987251">meme</a>
 									
 									
 								</td>
 								
 								<td align="right">
-									<a href="http://igossip.com/report?c_id=687536&amp;url=http://igossip.com/gossip/Is_Beyonce_Still_A_Sexy_Fine_Mama_Without_Makeup_Beyonce_Knowles/604873" class="tiny">report abuse</a>
+									
+								</td>
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+			</tbody></table>
+			
+		</div>
+		
+		<div style="clear:both;">
+		</div>
+	
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div style="padding-top:10px; padding-bottom:4px;">
+			<div style="border-bottom:1px dashed #bbbbbb;">
+			</div>
+		</div>
+	
+		<div style="padding-left:3px; padding-right:4px; height:74px;">
+			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td rowspan="3" width="65">
+						<div style="padding-right:5px;">
+						<div style="width:60px; height:60px; overflow:hidden;">
+							
+				<div style="width:60px; height:60px; overflow:hidden;">
+					<a href="http://igossip.com/gossip/do_you_want_to_get_back_with_chrisbrown_Rihanna/1086499"><img src="http://igossip.com/photos/small__ineedmyfixashley_18459_full_rihanna_10_wenn2701948.jpg" style="border:0px black outset;" alt="Photo: do you want to get back with chrisbrown" title="do you want to get back with chrisbrown" width="60"></a>
+				</div>
+		
+						</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
+							
+		<a href="http://igossip.com/gossip/do_you_want_to_get_back_with_chrisbrown_Rihanna/1086499" class="heading area_white" style="font-size:12px;">
+			<h2 class="inline_heading">
+				do you want to get back with chrisbrown
+			</h2>
+		</a>
+	
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						
+		<div style="
+				padding-top:2px;
+				padding-left:0px;
+				clear:both;
+			" class="area_white">
+			
+			<a id="c1086499"></a>
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="41" style="padding-right:2px;">
+									
+			<div style="width:20px; text-align:center;">
+				<a href="http://igossip.com/user/meme/987251">
+					
+		</a><a href="http://igossip.com/user/meme/987251">
+			<img src="http://igossip.com/avatars/avatar_default.png_small" alt="meme" title="meme" width="21" height="21" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
+		</a>
+	
+				
+			</div>
+		
+								</td>
+								
+								<td width="100%">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="4" align="right" style="text-align:right;">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td rowspan="3" class="area_yellow" style="padding:0px; text-align:left;">
+												
+												<a href="http://igossip.com/gossip/do_you_want_to_get_back_with_chrisbrown_Rihanna/1086499" style="color:black; font-size:10px;">do you want to get back with chrisbrown</a>
+												
+												
+											</td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="10px">
+											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
+											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="4">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
+										</tr>
+									</tbody></table>
+								</td>
+								
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td align="left" class="tiny">
+									by <a href="http://igossip.com/user/meme/987251">meme</a>
+									
+									
+								</td>
+								
+								<td align="right">
+									
+								</td>
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+			</tbody></table>
+			
+		</div>
+		
+		<div style="clear:both;">
+		</div>
+	
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div style="padding-top:10px; padding-bottom:4px;">
+			<div style="border-bottom:1px dashed #bbbbbb;">
+			</div>
+		</div>
+	
+		<div style="padding-left:3px; padding-right:4px; height:74px;">
+			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td rowspan="3" width="65">
+						<div style="padding-right:5px;">
+						<div style="width:60px; height:60px; overflow:hidden;">
+							
+				<div style="width:60px; height:60px; overflow:hidden;">
+					<a href="http://igossip.com/gossip/Rihanna_Rocks_Dubai/1086429"><img src="http://igossip.com/photos/small__ineedmyfixashley_18459_full_rihanna_10_wenn2701948.jpg" style="border:0px black outset;" alt="Photo: Rihanna Rocks Dubai" title="Rihanna Rocks Dubai" width="60"></a>
+				</div>
+		
+						</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
+							
+		<a href="http://igossip.com/gossip/Rihanna_Rocks_Dubai/1086429" class="heading area_white" style="font-size:12px;">
+			<h2 class="inline_heading">
+				Rihanna Rocks Dubai
+			</h2>
+		</a>
+	
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						
+		<div style="
+				padding-top:2px;
+				padding-left:0px;
+				clear:both;
+			" class="area_white">
+			
+			<a id="c1086498"></a>
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="41" style="padding-right:2px;">
+									
+			<div style="width:20px; text-align:center;">
+				<a href="http://igossip.com/user/meme/987251">
+					
+		</a><a href="http://igossip.com/user/meme/987251">
+			<img src="http://igossip.com/avatars/avatar_default.png_small" alt="meme" title="meme" width="21" height="21" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
+		</a>
+	
+				
+			</div>
+		
+								</td>
+								
+								<td width="100%">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="4" align="right" style="text-align:right;">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td rowspan="3" class="area_yellow" style="padding:0px; text-align:left;">
+												
+												<a href="http://igossip.com/gossip/Rihanna_Rocks_Dubai/1086429" style="color:black; font-size:10px;">ok listen she need to lose that hair stile yal...</a>
+												
+												
+											</td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="10px">
+											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
+											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="4">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
+										</tr>
+									</tbody></table>
+								</td>
+								
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td align="left" class="tiny">
+									by <a href="http://igossip.com/user/meme/987251">meme</a>
+									
+									
+								</td>
+								
+								<td align="right">
+									
+								</td>
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+			</tbody></table>
+			
+		</div>
+		
+		<div style="clear:both;">
+		</div>
+	
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div style="padding-top:10px; padding-bottom:4px;">
+			<div style="border-bottom:1px dashed #bbbbbb;">
+			</div>
+		</div>
+	
+		<div style="padding-left:3px; padding-right:4px; height:74px;">
+			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td rowspan="3" width="65">
+						<div style="padding-right:5px;">
+						<div style="width:60px; height:60px; overflow:hidden;">
+							
+		<object width="60" height="60">
+			<param name="movie" value="http://www.youtube.com/v/mYNknVkmdnc&amp;hl=en">
+			
+			<embed src="http://www.youtube.com/v/mYNknVkmdnc&amp;hl=en" type="application/x-shockwave-flash" width="60" height="60">
+			
+		</object>
+	
+						</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
+							
+		<a href="http://igossip.com/gossip/What_a_Way_to_End_2009_and_bring_in_2010_Country_Music_Celebrity_Robin_Ariel_Ross_St_Claire_Holgate/1085639" class="heading area_white" style="font-size:12px;">
+			<h2 class="inline_heading">
+				What a Way to End 2009 and bring in 2010 Country...
+			</h2>
+		</a>
+	
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						
+		<div style="
+				padding-top:2px;
+				padding-left:0px;
+				clear:both;
+			" class="area_white">
+			
+			<a id="c1086475"></a>
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="41" style="padding-right:2px;">
+									
+			<div style="width:20px; text-align:center;">
+				<a href="http://igossip.com/user/arielchaser_ra/1066422">
+					
+		</a><a href="http://igossip.com/user/arielchaser_ra/1066422">
+			<img src="http://igossip.com/avatars/user_uploaded/1066422.jpg_small" alt="Just Me" title="Just Me" width="21" height="21" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
+		</a>
+	
+				
+			</div>
+		
+								</td>
+								
+								<td width="100%">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="4" align="right" style="text-align:right;">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td rowspan="3" class="area_yellow" style="padding:0px; text-align:left;">
+												
+												<a href="http://igossip.com/gossip/What_a_Way_to_End_2009_and_bring_in_2010_Country_Music_Celebrity_Robin_Ariel_Ross_St_Claire_Holgate/1085639" style="color:black; font-size:10px;">Wow !! Just Google Robin Ariel Ross St Clai...</a>
+												
+												
+											</td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="10px">
+											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
+											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="4">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
+										</tr>
+									</tbody></table>
+								</td>
+								
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td align="left" class="tiny">
+									by <a href="http://igossip.com/user/arielchaser_ra/1066422">Just Me</a>
+									
+									
+								</td>
+								
+								<td align="right">
+									
+								</td>
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+			</tbody></table>
+			
+		</div>
+		
+		<div style="clear:both;">
+		</div>
+	
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div style="padding-top:10px; padding-bottom:4px;">
+			<div style="border-bottom:1px dashed #bbbbbb;">
+			</div>
+		</div>
+	
+		<div style="padding-left:3px; padding-right:4px; height:74px;">
+			<table class="area_white" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td rowspan="3" width="65">
+						<div style="padding-right:5px;">
+						<div style="width:60px; height:60px; overflow:hidden;">
+							
+				<div style="width:60px; height:60px; overflow:hidden;">
+					<a href="http://igossip.com/gossip/Photo_from_Video_Taylor_Swift_and_Taylor_Lautner_Break_Up_Heart_Breaking_/1084949"><img src="http://i.ytimg.com/vi/0h8DTrIpqb8/default.jpg" style="border:0px black outset;" alt="Photo: Photo from &quot;Video: Taylor Swift and Taylor Lautner Break Up!(Heart Breaking..)&quot;" title="Photo from &quot;Video: Taylor Swift and Taylor Lautner Break Up!(Heart Breaking..)&quot;" width="60"></a>
+				</div>
+		
+						</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<div style="padding-left:1px; padding-top:3px; padding-bottom:5px; text-align:left;">
+							
+		<a href="http://igossip.com/gossip/Photo_from_Video_Taylor_Swift_and_Taylor_Lautner_Break_Up_Heart_Breaking_/1084949" class="heading area_white" style="font-size:12px;">
+			<h2 class="inline_heading">
+				Photo from "Video: Taylor Swift and Taylor Lautner...
+			</h2>
+		</a>
+	
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						
+		<div style="
+				padding-top:2px;
+				padding-left:0px;
+				clear:both;
+			" class="area_white">
+			
+			<a id="c1086463"></a>
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="41" style="padding-right:2px;">
+									
+			<div style="width:20px; text-align:center;">
+				<a href="http://igossip.com/user/lazystar22/1086462">
+					
+		</a><a href="http://igossip.com/user/lazystar22/1086462">
+			<img src="http://igossip.com/avatars/avatar_default.png_small" alt="lazystar22" title="lazystar22" width="21" height="21" style="border:1px solid white;" onmouseover="javascript: this.style.borderColor = '#990000';" onmouseout="javascript: this.style.borderColor = 'white';">
+		</a>
+	
+				
+			</div>
+		
+								</td>
+								
+								<td width="100%">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="4" align="right" style="text-align:right;">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_ul.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_u.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="bottom" align="left"><img src="http://igossip.com/i/c_box_ur.bmp" border="0" width="4" height="4"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td rowspan="3" class="area_yellow" style="padding:0px; text-align:left;">
+												
+												<a href="http://igossip.com/gossip/Photo_from_Video_Taylor_Swift_and_Taylor_Lautner_Break_Up_Heart_Breaking_/1084949" style="color:black; font-size:10px;">i can't believe dey r breaking up!! i hope Tay...</a>
+												
+												
+											</td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="10px">
+											<td height="10px" width="13px" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"><img src="http://igossip.com/i/c_box_arrow.bmp" width="13" height="10"></td>
+											<td height="10px" width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_l.bmp); background-repeat:repeat-y; background-position:right;"></td>
+											<td width="4" style="background-image:url(http://igossip.com/i/c_box_r.bmp); background-repeat:repeat-y;"></td>
+										</tr>
+										<tr height="4">
+											<td height="4" width="13" valign="top" align="right"><img src="http://igossip.com/i/c_box_dl.bmp" border="0" width="4" height="4"></td>
+											<td height="4" width="100%" style="background-image:url(http://igossip.com/i/c_box_d.bmp); background-repeat:repeat-x;"></td>
+											<td height="4" width="4" valign="top" align="left"><img src="http://igossip.com/i/c_box_dr.bmp" border="0" width="4" height="4"></td>
+										</tr>
+									</tbody></table>
+								</td>
+								
+							</tr>
+						</tbody></table>
+						
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td align="left" class="tiny">
+									by <a href="http://igossip.com/user/lazystar22/1086462">lazystar22</a>
+									
+									
+								</td>
+								
+								<td align="right">
+									
 								</td>
 							</tr>
 						</tbody></table>
@@ -1476,13 +1560,10 @@ time to ensure that you continue to agree with all of its terms.
 	<!-- END sidebar_modules/whats_new.php --><div style="padding:7px;"> </div>
 		</div>
 	
-						<!-- sidebar area end -->
-					</div>
+					<!-- sidebar area end -->
 					
-				</center>
-				<div style="clear:both;">
-				</div>
-				<center>
+					<div style="clear:both;">
+					</div>
 					
 		<!-- footer begin -->
 		
@@ -1498,11 +1579,11 @@ time to ensure that you continue to agree with all of its terms.
 					</td>
 					<td align="left" valign="top">
 						<div class="area_black small" style="padding:5px; padding-left:10px; padding-right:0px; width:130px;"><span style="font-weight:bold;">Best Stuff</span></div>
-						<div style="padding-top:3px; width:125px; white-space:nowrap;"><a href="http://igossip.com/gossips/hottest/1"><span class="tiny">· Most popular stories</span></a></div>
-						<div style="width:125px;"> <a href="http://igossip.com/leaderboard"><span class="tiny">· Top Gossipers</span></a></div>
-						<div style="width:125px;"> <a href="http://igossip.com/about_the_points"><span class="tiny">· About the Points</span></a></div>
-						<div style="width:125px;"> <a href="http://igossip.com/introduction"><span class="tiny">· Become a Journalist</span></a></div>
-						<div style="width:125px;"> <a href="http://igossip.com/subscribe"><span class="tiny">· The EyeOpener</span></a></div>
+						<div style="padding-top:3px; width:125px; white-space:nowrap;"><a href="http://igossip.com/gossips/hottest/1"><span class="tiny">- Most popular stories</span></a></div>
+						<div style="width:125px;"> <a href="http://igossip.com/leaderboard"><span class="tiny">- Top Gossipers</span></a></div>
+						<div style="width:125px;"> <a href="http://igossip.com/about_the_points"><span class="tiny">- About the Points</span></a></div>
+						<div style="width:125px;"> <a href="http://igossip.com/introduction"><span class="tiny">- Become a Journalist</span></a></div>
+						<div style="width:125px;"> <a href="http://igossip.com/subscribe"><span class="tiny">- The iGossip Weekly</span></a></div>
 					</td>
 					
 					<td align="left" valign="top">
@@ -1513,16 +1594,16 @@ time to ensure that you continue to agree with all of its terms.
 							Join the iGossip Blog network and get more exposure and traffic to your blog.
 						</div>
 						<div style="width:120px;">
-							<a href="http://igossip.com/ebn/signup"><span class="tiny">· Join iG Blog</span></a>
+							<a href="http://igossip.com/ebn/signup"><span class="tiny">- Join iG Blog</span></a>
 						</div>
 						<div style="width:120px;">
-							<a href="http://igossip.com/ebn/members"><span class="tiny">· iGossip Royalty</span></a>
+							<a href="http://igossip.com/ebn/members"><span class="tiny">- iGossip Royalty</span></a>
 						</div>
 						<div style="width:130px;">
-							<a href="http://igossip.com/ebn/blogger_tools"><span class="tiny">· Blogger Tools</span></a>
+							<a href="http://igossip.com/ebn/blogger_tools"><span class="tiny">- Blogger Tools</span></a>
 						</div>
 						<div style="width:130px;">
-							<a href="http://igossip.com/blogroll"><span class="tiny">· Blogroll</span></a>
+							<a href="http://igossip.com/blogroll"><span class="tiny">- Blogroll</span></a>
 						</div>
 					</td>
 					
@@ -1531,19 +1612,16 @@ time to ensure that you continue to agree with all of its terms.
 							<span style="font-weight:bold;">iGossip Info</span>
 						</div>
 						<div style="padding-top:3px; width:130px;">
-							<a href="http://igossip.com/about_us"><span class="tiny">· About Us</span></a>
-						</div>
-						<div style="width:130px;">
-							<a href="http://igossip.com/company_blog"><span class="tiny">· Company Blog</span></a>
+							<a href="http://igossip.com/about_us"><span class="tiny">- About Us</span></a>
 						</div>
 						<div style="width:135px;">
-							<a href="http://igossip.com/community_guidelines"><span class="tiny">· Community Guidelines</span></a>
+							<a href="http://igossip.com/community_guidelines"><span class="tiny">- Community Guidelines</span></a>
 						</div>
 						<div style="width:135px;">
-							<a href="http://igossip.com/site_map"><span class="tiny">· Site Map</span></a>
+							<a href="http://igossip.com/site_map"><span class="tiny">- Site Map</span></a>
 						</div>
 						<div style="width:135px;">
-							<a href="http://igossip.com/tags"><span class="tiny">· Tag Popularity</span></a>
+							<a href="http://igossip.com/tags"><span class="tiny">- Tag Popularity</span></a>
 						</div>
 					</td>
 					
@@ -1552,31 +1630,31 @@ time to ensure that you continue to agree with all of its terms.
 							<span style="font-weight:bold;">Help</span>
 						</div>
 						<div style="padding-top:3px; width:120px;">
-							<a href="http://igossip.com/help"><span class="tiny">· Frequent Questions</span></a>
+							<a href="http://igossip.com/help"><span class="tiny">- Frequent Questions</span></a>
 						</div>
 						<div style="width:120px;">
-							<a href="http://igossip.com/privacy_policy"><span class="tiny">· Privacy Policy</span></a>
+							<a href="http://igossip.com/privacy_policy"><span class="tiny">- Privacy Policy</span></a>
 						</div>
 						<div style="width:120px;">
-							<a href="http://igossip.com/terms"><span class="tiny">· Terms of Use</span></a>
+							<a href="http://igossip.com/terms"><span class="tiny">- Terms of Use</span></a>
 						</div>
 						<div style="width:125px;">
-							<a href="http://igossip.com/copyright_policy"><span class="tiny">· Copyright / IP Policy</span></a>
+							<a href="http://igossip.com/copyright_policy"><span class="tiny">- Copyright / IP Policy</span></a>
 						</div>
 						<div style="width:120px;">
-							<a href="http://igossip.com/contact_us"><span class="tiny">· Contact Us</span></a>
+							<a href="http://igossip.com/contact_us"><span class="tiny">- Contact Us</span></a>
 						</div>
 					</td>
 					
 					
-			<td valign="top" style="border-left: solid thin #660033; padding-left:20px; overflow:hidden; text-align:left;">
+			<td valign="top" style="border-left: solid thin #000000; padding-left:20px; overflow:hidden; text-align:left;">
 				<div id="whats_eg_heading" class="area_black small" style="width:200px; padding:5px; padding-left:10px;"><span style="font-weight:bold;">What is iGossip?</span></div>
 				<div id="whats_eg_description" class="tiny" style="width:185px;padding-top:3px;">iGossip is the place where fans converse about celebrity news and gossip, read and write articles, and watch videos.</div>
 				<div id="whats_eg_join_conv_subheading" style="padding-top:8px; padding-left:3px;width:185px;">
-					<a href="http://igossip.com/register"><span class="tiny">· Join the conversation</span></a>
+					<a href="http://igossip.com/register"><span class="tiny">- Join the conversation</span></a>
 				</div>
 				<div id="whats_eg_faq_subheading" style="padding-left:3px; color:white; width:185px;">
-					<a href="http://igossip.com/help"><span class="tiny">· Frequently Asked Questions</span></a>
+					<a href="http://igossip.com/help"><span class="tiny">- Frequently Asked Questions</span></a>
 				</div>
 			</td>
 		
@@ -1588,16 +1666,116 @@ time to ensure that you continue to agree with all of its terms.
 		<div style="
 				text-align:left;
 				padding:15px;
-				border-top:solid thin #660033;
 			" class="area_black">
 			<span class="small" style="font-weight:bold;">Most talked about celebrities...</span>
-			<a href="http://igossip.com/celeb/Rihanna/300275"><span class="tiny">1.&nbsp;Rihanna</span></a> <a href="http://igossip.com/celeb/Lindsay+Lohan/300205"><span class="tiny">2.&nbsp;Lindsay Lohan</span></a> <a href="http://igossip.com/celeb/Britney+Spears/300034"><span class="tiny">3.&nbsp;Britney Spears</span></a> <a href="http://igossip.com/celeb/lindsay/300675"><span class="tiny">4.&nbsp;lindsay</span></a> <a href="http://igossip.com/celeb/Chris+Brown/500715"><span class="tiny">5.&nbsp;Chris Brown</span></a> <a href="http://igossip.com/celeb/Robert+Pattinson/513241"><span class="tiny">6.&nbsp;Robert Pattinson</span></a> <a href="http://igossip.com/celeb/Paris+Hilton/300251"><span class="tiny">7.&nbsp;Paris Hilton</span></a> <a href="http://igossip.com/celeb/Miley+Cyrus/300230"><span class="tiny">8.&nbsp;Miley Cyrus</span></a> <a href="http://igossip.com/celeb/Madonna/300209"><span class="tiny">9.&nbsp;Madonna</span></a> <a href="http://igossip.com/celeb/Angelina+Jolie/300014"><span class="tiny">10.&nbsp;Angelina Jolie</span></a> <a href="http://igossip.com/celeb/Jennifer+Aniston/300130"><span class="tiny">11.&nbsp;Jennifer Aniston</span></a> <a href="http://igossip.com/celeb/Heidi/546343"><span class="tiny">12.&nbsp;Heidi</span></a> <a href="http://igossip.com/celeb/Megan+Fox/300428"><span class="tiny">13.&nbsp;Megan Fox</span></a> <a href="http://igossip.com/celeb/Brad+Pitt/300031"><span class="tiny">14.&nbsp;Brad Pitt</span></a> <a href="http://igossip.com/celeb/britney/551276"><span class="tiny">15.&nbsp;britney</span></a> <a href="http://igossip.com/celeb/Cher/300702"><span class="tiny">16.&nbsp;Cher</span></a> <a href="http://igossip.com/celeb/Kim+Kardashian/300188"><span class="tiny">17.&nbsp;Kim Kardashian</span></a> <a href="http://igossip.com/celeb/Prince/300264"><span class="tiny">18.&nbsp;Prince</span></a> <a href="http://igossip.com/celeb/Zac+Efron/300343"><span class="tiny">19.&nbsp;Zac Efron</span></a> <a href="http://igossip.com/celeb/Heidi+Montag/300110"><span class="tiny">20.&nbsp;Heidi Montag</span></a> <a href="http://igossip.com/celeb/Spencer/546344"><span class="tiny">21.&nbsp;Spencer</span></a> <a href="http://igossip.com/celeb/Kristen+Stewart/518045"><span class="tiny">22.&nbsp;Kristen Stewart</span></a> <a href="http://igossip.com/celeb/Barack+Obama/300641"><span class="tiny">23.&nbsp;Barack Obama</span></a> <a href="http://igossip.com/celeb/Angelina/507880"><span class="tiny">24.&nbsp;Angelina</span></a> <a href="http://igossip.com/celeb/Beyonce/513137"><span class="tiny">25.&nbsp;Beyonce</span></a> <a href="http://igossip.com/celeb/Adam+Lambert/536035"><span class="tiny">26.&nbsp;Adam Lambert</span></a> <a href="http://igossip.com/celeb/Jessica+Simpson/300143"><span class="tiny">27.&nbsp;Jessica Simpson</span></a> <a href="http://igossip.com/celeb/Katie+Holmes/300172"><span class="tiny">28.&nbsp;Katie Holmes</span></a> <a href="http://igossip.com/celeb/Jonas+Brothers/300659"><span class="tiny">29.&nbsp;Jonas Brothers</span></a> <a href="http://igossip.com/celeb/Kate+Gosselin/539767"><span class="tiny">30.&nbsp;Kate Gosselin</span></a> <a href="http://igossip.com/celeb/Pink/300262"><span class="tiny">31.&nbsp;Pink</span></a> <a href="http://igossip.com/celeb/Spencer+Pratt/300551"><span class="tiny">32.&nbsp;Spencer Pratt</span></a> <a href="http://igossip.com/celeb/Kanye+West/300162"><span class="tiny">33.&nbsp;Kanye West</span></a> <a href="http://igossip.com/celeb/Obama/508351"><span class="tiny">34.&nbsp;Obama</span></a> <a href="http://igossip.com/celeb/John+Mayer/300149"><span class="tiny">35.&nbsp;John Mayer</span></a> <a href="http://igossip.com/celeb/Hugh+Jackman/300114"><span class="tiny">36.&nbsp;Hugh Jackman</span></a> <a href="http://igossip.com/celeb/Amy+Winehouse/300013"><span class="tiny">37.&nbsp;Amy Winehouse</span></a> <a href="http://igossip.com/celeb/the+jonas+brothers/520560"><span class="tiny">38.&nbsp;the jonas brothers</span></a> <a href="http://igossip.com/celeb/Jessica+Alba/300141"><span class="tiny">39.&nbsp;Jessica Alba</span></a> <a href="http://igossip.com/celeb/Justin+Timberlake/300161"><span class="tiny">40.&nbsp;Justin Timberlake</span></a> <a href="http://igossip.com/celeb/Nicole+Richie/300242"><span class="tiny">41.&nbsp;Nicole Richie</span></a> <a href="http://igossip.com/celeb/Tom+Cruise/300323"><span class="tiny">42.&nbsp;Tom Cruise</span></a> <a href="http://igossip.com/celeb/Samantha+Ronson/300569"><span class="tiny">43.&nbsp;Samantha Ronson</span></a> <a href="http://igossip.com/celeb/Katy+Perry/518240"><span class="tiny">44.&nbsp;Katy Perry</span></a> <a href="http://igossip.com/celeb/Lauren+Conrad/300200"><span class="tiny">45.&nbsp;Lauren Conrad</span></a> <a href="http://igossip.com/celeb/The+Who/521553"><span class="tiny">46.&nbsp;The Who</span></a> <a href="http://igossip.com/celeb/Lady+Gaga/519955"><span class="tiny">47.&nbsp;Lady Gaga</span></a> <a href="http://igossip.com/celeb/Kim+Kardashia/509431"><span class="tiny">48.&nbsp;Kim Kardashia</span></a> <a href="http://igossip.com/celeb/Michael+Jackson/300226"><span class="tiny">49.&nbsp;Michael Jackson</span></a> <a href="http://igossip.com/celeb/Hayden+Panettiere/300105"><span class="tiny">50.&nbsp;Hayden Panettiere</span></a> 
-			<a href="http://igossip.com/tags"><span class="tiny"> -- all celebs »</span></a>
+			
+			<a href="http://igossip.com/celeb/Michael_Jackson/300226" class="tiny">1.&nbsp;Michael Jackson</a>
+		
+			<a href="http://igossip.com/celeb/Lindsay_Lohan/300205" class="tiny">2.&nbsp;Lindsay Lohan</a>
+		
+			<a href="http://igossip.com/celeb/Perez_Hilton/555468" class="tiny">3.&nbsp;Perez Hilton</a>
+		
+			<a href="http://igossip.com/celeb/Rihanna/300275" class="tiny">4.&nbsp;Rihanna</a>
+		
+			<a href="http://igossip.com/celeb/Chris_Brown/500715" class="tiny">5.&nbsp;Chris Brown</a>
+		
+			<a href="http://igossip.com/celeb/Britney_Spears/300034" class="tiny">6.&nbsp;Britney Spears</a>
+		
+			<a href="http://igossip.com/celeb/Robert_Pattinson/513241" class="tiny">7.&nbsp;Robert Pattinson</a>
+		
+			<a href="http://igossip.com/celeb/Megan_Fox/300428" class="tiny">8.&nbsp;Megan Fox</a>
+		
+			<a href="http://igossip.com/celeb/Beyonce_Knowles/300027" class="tiny">9.&nbsp;Beyonce Knowles</a>
+		
+			<a href="http://igossip.com/celeb/Barack_Obama/300641" class="tiny">10.&nbsp;Barack Obama</a>
+		
+			<a href="http://igossip.com/celeb/Miley_Cyrus/300230" class="tiny">11.&nbsp;Miley Cyrus</a>
+		
+			<a href="http://igossip.com/celeb/Kristen_Stewart/518045" class="tiny">12.&nbsp;Kristen Stewart</a>
+		
+			<a href="http://igossip.com/celeb/Kim_Kardashian/300188" class="tiny">13.&nbsp;Kim Kardashian</a>
+		
+			<a href="http://igossip.com/celeb/Madonna/300209" class="tiny">14.&nbsp;Madonna</a>
+		
+			<a href="http://igossip.com/celeb/Kanye_West/300162" class="tiny">15.&nbsp;Kanye West</a>
+		
+			<a href="http://igossip.com/celeb/Prince/300264" class="tiny">16.&nbsp;Prince</a>
+		
+			<a href="http://igossip.com/celeb/Paris_Hilton/300251" class="tiny">17.&nbsp;Paris Hilton</a>
+		
+			<a href="http://igossip.com/celeb/Angelina_Jolie/300014" class="tiny">18.&nbsp;Angelina Jolie</a>
+		
+			<a href="http://igossip.com/celeb/Lady_Gaga/519955" class="tiny">19.&nbsp;Lady Gaga</a>
+		
+			<a href="http://igossip.com/celeb/Jon_Gosselin/573825" class="tiny">20.&nbsp;Jon Gosselin</a>
+		
+			<a href="http://igossip.com/celeb/Brad_Pitt/300031" class="tiny">21.&nbsp;Brad Pitt</a>
+		
+			<a href="http://igossip.com/celeb/Jennifer_Aniston/300130" class="tiny">22.&nbsp;Jennifer Aniston</a>
+		
+			<a href="http://igossip.com/celeb/David_Letterman/300068" class="tiny">23.&nbsp;David Letterman</a>
+		
+			<a href="http://igossip.com/celeb/Kate_Gosselin/539767" class="tiny">24.&nbsp;Kate Gosselin</a>
+		
+			<a href="http://igossip.com/celeb/Taylor_Swift/502219" class="tiny">25.&nbsp;Taylor Swift</a>
+		
+			<a href="http://igossip.com/celeb/Pink/300262" class="tiny">26.&nbsp;Pink</a>
+		
+			<a href="http://igossip.com/celeb/Jessica_Simpson/300143" class="tiny">27.&nbsp;Jessica Simpson</a>
+		
+			<a href="http://igossip.com/celeb/Jay_Z/300129" class="tiny">28.&nbsp;Jay-Z</a>
+		
+			<a href="http://igossip.com/celeb/Ciara/520483" class="tiny">29.&nbsp;Ciara</a>
+		
+			<a href="http://igossip.com/celeb/the_jonas_brothers/520560" class="tiny">30.&nbsp;the jonas brothers</a>
+		
+			<a href="http://igossip.com/celeb/Khloe_Kardashian/514703" class="tiny">31.&nbsp;Khloe Kardashian</a>
+		
+			<a href="http://igossip.com/celeb/Katy_Perry/518240" class="tiny">32.&nbsp;Katy Perry</a>
+		
+			<a href="http://igossip.com/celeb/Harry_Potter/504604" class="tiny">33.&nbsp;Harry Potter</a>
+		
+			<a href="http://igossip.com/celeb/Katie_Holmes/300172" class="tiny">34.&nbsp;Katie Holmes</a>
+		
+			<a href="http://igossip.com/celeb/Justin_Timberlake/300161" class="tiny">35.&nbsp;Justin Timberlake</a>
+		
+			<a href="http://igossip.com/celeb/honor_marie_warren/523479" class="tiny">36.&nbsp;honor marie warren</a>
+		
+			<a href="http://igossip.com/celeb/taylor_lautner/518095" class="tiny">37.&nbsp;taylor lautner</a>
+		
+			<a href="http://igossip.com/celeb/Posh_Spice/546957" class="tiny">38.&nbsp;Posh Spice</a>
+		
+			<a href="http://igossip.com/celeb/Heidi_Montag/300110" class="tiny">39.&nbsp;Heidi Montag</a>
+		
+			<a href="http://igossip.com/celeb/Usher/300331" class="tiny">40.&nbsp;Usher</a>
+		
+			<a href="http://igossip.com/celeb/Mariah_Carey/300214" class="tiny">41.&nbsp;Mariah Carey</a>
+		
+			<a href="http://igossip.com/celeb/Oprah_Winfrey/300245" class="tiny">42.&nbsp;Oprah Winfrey</a>
+		
+			<a href="http://igossip.com/celeb/Kourtney_Kardashian/508160" class="tiny">43.&nbsp;Kourtney Kardashian</a>
+		
+			<a href="http://igossip.com/celeb/Tom_Cruise/300323" class="tiny">44.&nbsp;Tom Cruise</a>
+		
+			<a href="http://igossip.com/celeb/Amy_Winehouse/300013" class="tiny">45.&nbsp;Amy Winehouse</a>
+		
+			<a href="http://igossip.com/celeb/Zac_Efron/300343" class="tiny">46.&nbsp;Zac Efron</a>
+		
+			<a href="http://igossip.com/celeb/Lil_Wayne/502631" class="tiny">47.&nbsp;Lil Wayne</a>
+		
+			<a href="http://igossip.com/celeb/Cameron_Diaz/300038" class="tiny">48.&nbsp;Cameron Diaz</a>
+		
+			<a href="http://igossip.com/celeb/Jessica_Alba/300141" class="tiny">49.&nbsp;Jessica Alba</a>
+		
+			<a href="http://igossip.com/celeb/Diddy/521387" class="tiny">50.&nbsp;Diddy</a>
+		
+			<a href="http://igossip.com/tags"><span class="tiny"><i> -- all celebs »</i></span></a>
 		</div>
 	
 		</div>
 		<!-- footer end -->
 	
+				</div>
 				</center>
 				
 			<script type="text/javascript">
