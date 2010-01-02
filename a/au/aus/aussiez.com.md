@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiez.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919011004id_/http%3A//aussiez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiez.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102043550id_/http%3A//aussiez.com/privacy) for the most accurate reproduction.*
 
 # Find friends, classmates, people, a person in Australia. Australian social community network Aussiez.
 
