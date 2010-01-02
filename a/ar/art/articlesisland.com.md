@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesisland.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925104353id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesisland.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102163534id_/http%3A//www.articlesisland.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Articles island
 
