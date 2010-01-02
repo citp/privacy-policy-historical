@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanauctioncenter.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429112214id_/http%3A//www.japanauctioncenter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanauctioncenter.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102024945id_/http%3A//www.japanauctioncenter.com/privacy.php) for the most accurate reproduction.*
 
 # Japan Auctions with 1 click! eBay Japan information
 
