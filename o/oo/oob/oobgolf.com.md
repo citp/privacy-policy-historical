@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2009-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090723224835id_/http%3A//www.oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102021521id_/http%3A//oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
 
 # oobgolf
 
@@ -75,7 +75,7 @@ oobgolf has the discretion to occasionally update this privacy statement.� Whe
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.
 
-info@oobgolf.com or send your comments to :
+info@oobgolf.comor send your comments to :
 
 oobgolf
 
