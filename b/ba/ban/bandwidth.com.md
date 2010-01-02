@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414130456id_/http%3A//bandwidth.com/resources/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102023039id_/http%3A//www.bandwidth.com/resources/legal/privacy.html) for the most accurate reproduction.*
 
 # Bandwidth.com Website Terms of Use | Legal | Bandwidth.com
 
@@ -8,7 +8,7 @@
 
 2\. In this document, we describe what information we protect and how we protect it:
 
-[Download CPNI Protections Document](https://web.archive.org/assets/pdf/legal/CPNI_policy.pdf) (pdf document, 38 kb)
+[Download CPNI Protections Document](http://bandwidth.com/assets/pdf/legal/CPNI_policy.pdf) (pdf document, 38 kb)
 
 1\. Bandwidth.com hereby agrees to hold in confidence, and not to reproduce, distribute, disclose on-line, transmit, or transfer, directly or indirectly, in any form, by any means, or for any purpose, to any persons, either the company, contact or personal identification information included with your request for quotes from our telecom partners without your express consent.
 
