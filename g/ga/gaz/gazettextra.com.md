@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515101632id_/http%3A//www.gazettextra.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102020036id_/http%3A//www.gazettextra.com/privacypolicy) for the most accurate reproduction.*
 
-# GazetteXtra
+# Terms of Use and Privacy Policy -- GazetteXtra
 
 PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY BEFORE USING GAZETTEXTRA.COM, JANESVILLEHOMEFRONT.COM OR JANESVILLECLASSIFIEDS.COM. By using one or more of these sites, you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use these sites.
 
