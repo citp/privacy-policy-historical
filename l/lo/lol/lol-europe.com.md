@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lol-europe.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726123433id_/http%3A//www.lol-europe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lol-europe.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011627id_/http%3A//lol-europe.com/privacy.html) for the most accurate reproduction.*
 
 # League of Legends - Privacy Policy
 
