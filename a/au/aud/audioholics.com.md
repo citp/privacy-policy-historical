@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126044508id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102015028id_/http%3A//www.audioholics.com/groups/admin/privacy) for the most accurate reproduction.*
 
 # Privacy — Reviews and News from Audioholics
 
@@ -22,7 +22,7 @@ We may provide your information as required by law or legal process; to protect 
 
 ### Links to External and/or Co-Branded Sites
 
-Our site may contain links to other sites on the Internet that are not under our control. Audioholics is not responsible for the privacy practices or the content of such web sites. See our [Terms of Service and Legal Notices](http://www.audioholics.com/groups/admin/legal "Legal Notices, Statements and Contest Rules"). We do have co-branded sites with other companies. You should review those policies.
+Our site may contain links to other sites on the Internet that are not under our control. Audioholics is not responsible for the privacy practices or the content of such web sites. See our [Terms of Service and Legal Notices](http://audioholics.com/groups/admin/legal "Legal Notices, Statements and Contest Rules"). We do have co-branded sites with other companies. You should review those policies.
 
 ### Cookies
 
@@ -44,7 +44,7 @@ Each time you view a page or download images or materials at Audioholics or prov
 
 We offer you the opportunity to opt-out of receiving communications from us at the point where we request the information. Or, you may contact us in one of the following ways:
 
-  * You can use our [contact form](http://www.audioholics.com/contact-info).
+  * You can use our [contact form](http://audioholics.com/contact-info).
   * You can send us mail to: 
 
 Audioholics  
@@ -60,7 +60,7 @@ New Port Richey, FL 34654
 
 You may contact us if you have any questions about this privacy statement, the practices of this site, or your dealings with this site:
 
-  * You can use our [contact form](http://www.audioholics.com/contact-info).
+  * You can use our [contact form](http://audioholics.com/contact-info).
   * You can send us mail to: 
 
 Audioholics  
