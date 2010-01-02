@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629073825id_/http%3A//www.afbank.com/security/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102031943id_/http%3A//www.afbank.com/security/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy Statement || Armed Forces Bank, N.A.
 
@@ -61,7 +61,7 @@ We recognize and respect your privacy expectations. We want you to understand ou
 
 9\. PRIVACY INFORMATION SPECIFIC TO INTERNET USAGE 
 
-  1. When you visit our web site (www.afbank.com, www.academybankco.com, www.afbca.com), we want to assure you that we adhere to this Privacy Policy.
+  1. When you visit our web site (www.afbank.com), we want to assure you that we adhere to this Privacy Policy.
   2. We collect and store information about "hits" on our web site for internal review purposes only. Such information may include the name of the domain from which you access the Internet (such as AOL.com or ATT.net), the date and time you access our site, and the Internet address of the web site from which you linked to us. This information enables us to see how you use our web site and keep our web site user-friendly.
   3. Our web site may require you disclose any personally identifying information. If you do provide personal information, such as your mailing and e-mail address, telephone and fax numbers, or demographic and customer identification, we will not disclose (share, sell, or divulge) it except:
     * In order to complete a transaction initiated by you
