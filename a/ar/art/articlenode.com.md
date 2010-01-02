@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlenode.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015235210id_/http%3A//www.articlenode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlenode.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102133219id_/http%3A//www.articlenode.com/privacy.php) for the most accurate reproduction.*
 
 # Article Node | Privacy Statement
 
