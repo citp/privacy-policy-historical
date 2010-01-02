@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qnap.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114145421id_/http%3A//www.qnap.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnap.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102020029id_/http%3A//www.qnap.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# QNAP Systems Inc. (Privacy Policy)- NAS storage and Surveillance products provider
+# QNAP Systems, Inc. ( Privacy Policy ) - Quality Network Appliance Provider
 
-|  |  |   
+|  |  |  |   
 ---  
-[Home](https://web.archive.org/web/20081114145421id_/http%3A//www.qnap.com/index.asp) > Privacy Policy   
+[Home](https://web.archive.org/web/20100102020029id_/http%3A//www.qnap.com/index.asp) > Privacy Policy   
   
 |  | QNAP Privacy Policy  
 ---  
@@ -209,6 +209,8 @@ QNAP website will not collect personal information of children on purpose. If fi
 
 We may amend this Privacy Policy at any time if necessary. We will notify you of significant changes in the way we handle your personal information by placing an obvious notice on QNAP website.
 
-If you have any question about QNAP Privacy Policy, please contact with QNAP by email: or by phone: +886-2-8698-2000  
+If you have any question about QNAP Privacy Policy, please contact with QNAP by email:  
+or by phone: +886-2-8698-2000  
   
----|---
+---|---  
+ 
