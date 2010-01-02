@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131084921id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010927id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
 
 # vBSkinworks - Quality vBulletin Skins, vBulletin Styles and more
 
-| [](https://web.archive.org/web/20090131084921id_/http%3A//vbskinworks.com/index.php) | [](http://vbskinworks.com/forum/index.php) | [](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [](http://vbskinworks.com/desk/index.php) | [](http://vbskinworks.com/affiliate/index.php) | [](https://web.archive.org/web/20090131084921id_/http%3A//vbskinworks.com/contact.php)  
+| [](https://web.archive.org/web/20100102010927id_/http%3A//vbskinworks.com/index.php) | [](http://vbskinworks.com/forum/index.php) | [](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [](http://vbskinworks.com/desk/index.php) | [](http://vbskinworks.com/affiliate/index.php) | [](https://web.archive.org/web/20100102010927id_/http%3A//vbskinworks.com/contact.php)  
 ---|---|---|---|---|---  
   
 Step 1
