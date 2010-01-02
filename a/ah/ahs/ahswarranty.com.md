@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the ahswarranty.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122943id_/http%3A//www.ahswarranty.com/about-ahswarranty/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahswarranty.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013240id_/http%3A//www.ahswarranty.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy, AHS - American Home Shield
+# American Home Shield - Privacy Policy
+
+### Privacy Policy/Your Policy Rights
 
 At American Home Shield, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.
 
 #### What information do we collect? How do we use it?
 
-When you request information about a product or service or register with our site, we may need to know specific information about you. This enables us to process your registration/requests and promptly reply to your needs.
-
-When you order products or services from American Home Shield, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. To learn more about our encryption policies, please review the section "How does American Home Shield protect customer information?"
-
-This site contains links to other sites. American Home Shield is not responsible for the privacy practices or the content of such Web sites. We will not pass your information along to the linked site. However, we cannot protect your information if you provide it to that site.
-
-We monitor customer traffic patterns and site usage to help us develop the design and layout of American Home Shield's web sites.
-
+When you request information about a product or service or register with our site, we may need to know specific information about you. This enables us to process your registration/requests and promptly reply to your needs.  
+When you order products or services from American Home Shield, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. To learn more about our encryption policies, please review the section "How does American Home Shield protect customer information?"  
+This site contains links to other sites. American Home Shield is not responsible for the privacy practices or the content of such Web sites. We will not pass your information along to the linked site. However, we cannot protect your information if you provide it to that site.  
+We monitor customer traffic patterns and site usage to help us develop the design and layout of American Home Shield's web sites.  
 We may also use the information we collect to occasionally notify you about important changes to the Web site, new American Home Shield services, and special offers and information we think you'll find valuable. If you would rather not receive this information, please contact us through one of the channels identified in the choice/opt-out section.
 
 #### How does American Home Shield protect customer information?
@@ -26,8 +24,7 @@ American Home Shield does not sell, trade or rent your personal information to o
 
 #### Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communication from American Home Shield and our partners when we request information about a visitor.
-
+Our site provides users the opportunity to opt-out of receiving communication from American Home Shield and our partners when we request information about a visitor.  
 This site allows the following options for removing your information from our database. If you do so, you will not receive future communication from us.
 
   * You can send e-mail to [customercare@ahslink.com](mailto:customercare@ahslink.com)
@@ -53,11 +50,8 @@ By using our Web site, you consent to the collection and use of this information
 If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can contact us at: 
 
 **[customercare@ahslink.com](mailto:customercare@ahslink.com)  
-1-800-776-4663  
-**
+1-800-776-4663**
 
 #### Special Notice to California Residents
 
 American Home Shield customers residing in California who have submitted personal information to us may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. All requests for disclosure information must be submitted to us at [customerprivacy@ahslink.com](mailto:customerprivacy@ahslink.com). Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. Pursuant to California law, we reserve our right not to respond to requests submitted to addresses other than those specified in this paragraph.
-
-P03102006U03312006
