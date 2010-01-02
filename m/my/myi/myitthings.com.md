@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522111127id_/http%3A//www.myitthings.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102033432id_/http%3A//myitthings.com/Privacy) for the most accurate reproduction.*
 
 # MyItThings - User Generated Magazine - Privacy
 
@@ -21,6 +21,8 @@ From time to time, MyItThings.com or a partner, may sponsor a promotion, sweepst
 MyItThings.com uses cookies to store visitors' preferences and to record session information for various purposes, including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletters, advertising and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set.  Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.  However, you must enable the cookies on your browser in order to use most functions on the Site.  
 
 Ads appearing on this Web site may be delivered to users by MyItThings.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. This privacy statement covers the use of cookies by MyItThings.com and does not cover the use of cookies by any advertisers.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Links**  
 MyItThings.com contains links to sites. MyItThings.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on MyItThings.com. 
