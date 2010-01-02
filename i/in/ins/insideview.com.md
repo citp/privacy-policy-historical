@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207075003id_/http%3A//insideview.com/cat-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102124152id_/http%3A//www.insideview.com/cat-privacy.html) for the most accurate reproduction.*
 
 # InsideView - Privacy, It's Important to All of Us
 
