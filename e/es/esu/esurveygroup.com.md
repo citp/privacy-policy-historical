@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurveygroup.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826095050id_/http%3A//www.esurveygroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurveygroup.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102121054id_/http%3A//www.esurveygroup.com/privacy.php) for the most accurate reproduction.*
 
 # eSurveyGroup.com - A Short Survey Could Win You $100,000!
 
