@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odigger.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527093100id_/http%3A//odigger.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odigger.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102153123id_/http%3A//odigger.com/privacy.php) for the most accurate reproduction.*
 
-# oDigger.com Affiliate Marketing 101
+# oDigger Privacy Policy
 
 ODigger.com Privacy Policy 
 
