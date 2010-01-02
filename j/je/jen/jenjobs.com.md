@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075427id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102121951id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.*
 
-# JenJOBS.com
+# Privacy Statement : JenJOBS
 
 The Company is committed to respecting the privacy of the User. The Company strives to provide a safe and secure user experience. The Company's Privacy Statement sets forth the online data collection, usage policies and practices that apply to the Site. 
 
