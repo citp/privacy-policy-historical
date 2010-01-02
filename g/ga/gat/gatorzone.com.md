@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004083517id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102020901id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - GatorZone.com
 
