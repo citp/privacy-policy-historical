@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505194038id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102045807id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : True Blood Net - HBO True Blood News Cast Interviews
+# Privacy Policy : True Blood Net – HBO True Blood News Cast Interviews
 
 Browse >
 
