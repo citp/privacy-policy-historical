@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416011928id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102133137id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Computer Review, Download Freeware, Notebook Review, Laptop Driver, Electronic Review, Hardware, Printer Review, PDA Review, Smartphones Review, Car Electronics, Gadgets Review, Resetting Printer, PDA Cold Reset, PDA Hard Reset, Smartphone Cold Reset, Smartphone Hard Reset
+# Privacy Policy | Reviews | Features | Specifications | Drivers
 
 **Slayo.com Privacy Statement**
 
@@ -53,8 +53,6 @@ We use third-party advertising companies to serve ads when you visit our website
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us.
-
-Copy the code below to your web site.
 
   
 
