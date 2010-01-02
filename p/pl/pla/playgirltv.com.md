@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the playgirltv.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720104001id_/http%3A//www.playgirltv.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgirltv.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102021035id_/http%3A//playgirltv.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PLAYGIRL - Privacy Policy
 
-> **Privacy Policy**  
->  **Trans Digital Media Privacy Policy**  
+> **Privacy Policy**
+> 
+> **Trans Digital Media Privacy Policy**  
 >  TRANS DIGITAL MEDIA has created this privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices for this Web site (the "Web site"). By using or accessing this Web site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEB SITE. 
 > 
 > **Personal and Non-Personal Information**  
@@ -31,5 +32,3 @@
 >  For questions or concerns relating to privacy, we can be contacted at: 
 > 
 > [_INFO@TDMLLC.COM_](mailto:INFO@TDMLLC.COM)
-
-| 
