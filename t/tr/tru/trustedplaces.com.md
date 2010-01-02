@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedplaces.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406083426id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedplaces.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010325id_/http%3A//trustedplaces.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TrustedPlaces - Local Reviews of Restaurants, Pubs, Bars, Clubs & More
 
@@ -60,6 +60,22 @@ In addition, we may disclose personal information in the good faith belief that 
 
 **Cookies**  
 Cookies are small text files that are stored on your computer's hard drive by your web browser and identify you as a unique user. This allows you a more personalised service when you revisit us. The cookie allows us to find out about your last visit.  We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their username/email address and password every time.
+
+Some advertisers may use the cookie technology when they advertise on our site, which will also send these advertisers (such as Google through their Google AdSense program) some information including your IP address, your ISP, and the browser used when you visit our site.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. This process is usually used for geo-targeting purposes only and/or for showing relevant ads based on specific topics that you as web user is searching.
+
+Google's use of the DART cookie enables it to serve ads to its users, based on their interests ("interest based targeting").
+
+DART cookies are used for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).
+
+This cookie is used to serve ads specific to you and your interests ("interest-based targeting") and the ads served will be targeted based on your previous browsing history.
+
+DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+
+You can opt-out of this ad serving on all sites using this advertising by visiting [DART Ad-Serving and Search Cookie Opt-Out](http://www.doubleclick.com/privacy/dart_adserving.aspx).
+
+Users may also opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance if you prefer. If you’d prefer, you can set your browser to refuse cookies (details can be found at [www.aboutcookies.org](http://www.aboutcookies.org/)). You should be aware that if you choose not to receive our cookies, we cannot guarantee that our website will be as functional as if you do receive cookies. 
 
