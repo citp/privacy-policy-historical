@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925170612id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102161741id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
 
 # AspSpider Privacy Policy
 
