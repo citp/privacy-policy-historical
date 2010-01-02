@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715080032id_/http%3A//www2.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011834id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Compare Mobile Tariff Plans - Reduce Mobile Phone Bills |YourBillBuddy
 
@@ -12,11 +12,13 @@ Upload your e-bill now:
 
 Or
 
+## Enter Call Details
+
 Don't have an e-bill? Enter your outgoing call/SMS details:
 
 **Introduction**
 
-Trilogy E Business Software India Pvt. Ltd. ("Trilogy") has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of September 15, 2005. Any questions regarding this policy should be directed by email to yourbillbuddy@yourbillbuddy.com. You may also contact Trilogy at No. 5, Salarpuria Infinity, Bannerghatta Road, Bangalore - 560 029, India. The following discloses Trilogy's information gathering and dissemination practices for its marketing website. 
+Trilogy E Business Software India Pvt. Ltd. ("Trilogy") has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of September 15, 2005. Any questions regarding this policy should be directed by email to feedback@yourbillbuddy.com. You may also contact Trilogy at No. 5, Salarpuria Infinity, Bannerghatta Road, Bangalore - 560 029, India. The following discloses Trilogy's information gathering and dissemination practices for its marketing website. 
 
 **Information Collected and Received**
 
@@ -48,8 +50,8 @@ Trilogy may amend this policy at any time. If Trilogy is going to use personally
 
 **Contacts**
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact yourbillbuddy@yourbillbudy.com. Upon request, Trilogy will provide you with access to information (e.g., name, address, phone number) that Trilogy collects and maintains about you. This site gives you the following options for changing and modifying information previously provided: (i) email: yourbillbuddy@yourbillbuddy.com; or (ii) visit www.yourbillbuddy.com. There you can also log into your account to update your contact information. 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact feedback@yourbillbudy.com. Upon request, Trilogy will provide you with access to information (e.g., name, address, phone number) that Trilogy collects and maintains about you. This site gives you the following options for changing and modifying information previously provided: (i) email: feedback@yourbillbuddy.com; or (ii) visit www.yourbillbuddy.com. There you can also log into your account to update your contact information. 
 
 **Opt-Out**
 
-Trilogy's site provides users the opportunity to opt-out of receiving communications from Trilogy. To opt-out of receiving our communications, you can (i) send email to yourbillbuddy@yourbillbuddy.com; or (ii) send postal mail to: No. 5, Salarpuria Infinity, Bannerghatta Road, Bangalore - 560 029, India. 
+Trilogy's site provides users the opportunity to opt-out of receiving communications from Trilogy. To opt-out of receiving our communications, you can (i) send email to feedback@yourbillbuddy.com; or (ii) send postal mail to: No. 5, Salarpuria Infinity, Bannerghatta Road, Bangalore - 560 029, India. 
