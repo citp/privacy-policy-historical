@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430081130id_/http%3A//www.sharemyplaylists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102015504id_/http%3A//sharemyplaylists.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Share Spotify Playlists at ShareMyPlaylists.com
-
-**Privacy Policy for ShareMyPlaylists.com**
+# Privacy Policy for ShareMyPlaylists.com | Share Spotify Playlists at ShareMyPlaylists.com
 
 ### **Introduction**
 
