@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmyrank.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129161319id_/http%3A//upmyrank.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmyrank.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102044944id_/http%3A//www.upmyrank.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Give Your Alexa Rank A Boost
 
@@ -43,7 +43,7 @@ When visiting other members websites on the UpMyRank AutoSurf Program. These web
 
 **External Links**
 
-The UpMyRank AutoSurf Program� delivers members Web sites to your computer. UpMyRank.com is not responsible for the privacy practices or the content of such Web sites. 
+The UpMyRank AutoSurf Program™ delivers members Web sites to your computer. UpMyRank.com is not responsible for the privacy practices or the content of such Web sites. 
 
 **Security**
 
@@ -51,11 +51,11 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Consent to Process Your Personal Data**
 
-UpMyRank.com members constantly have the option to enter and exit the UpMyRank.com service at any time and for any length of time. Members who participate in the UpMyRank AutoSurf Program� Service have the opportunity to opt-in to receive promotional/marketing information via the UpMyRank AutoSurf Program from our partners at any time, simply by opening the UpMyRank AutoSurf Program. By opening the UpMyRank AutoSurf Program, You consent to having the UpMyRank AutoSurf Program record data which will be used by UpMyRank.com in accordance with this policy. To opt-out, You may simply close the UpMyRank AutoSurf Program. Members are always free to close their account by sending an email to [support@UpMyRank.com](mailto:support@upmyrank.com). Furthermore, all members are provided opportunities to opt-in to marketing and promotional programs provided by our advertisers through our Web site. 
+UpMyRank.com members constantly have the option to enter and exit the UpMyRank.com service at any time and for any length of time. Members who participate in the UpMyRank AutoSurf Program™ Service have the opportunity to opt-in to receive promotional/marketing information via the UpMyRank AutoSurf Program from our partners at any time, simply by opening the UpMyRank AutoSurf Program. By opening the UpMyRank AutoSurf Program, You consent to having the UpMyRank AutoSurf Program record data which will be used by UpMyRank.com in accordance with this policy. To opt-out, You may simply close the UpMyRank AutoSurf Program. Members are always free to close their account by sending an email to [support@UpMyRank.com](mailto:support@upmyrank.com). Furthermore, all members are provided opportunities to opt-in to marketing and promotional programs provided by our advertisers through our Web site. 
 
 **A Special Note About Children**
 
-UpMyRank.com wants to help parents protect the privacy of children and has taken steps to obtain parental permission before children may begin the UpMyRank AutoSurf Program� Service. UpMyRank.com does not consider our Web Site or the UpMyRank AutoSurf Program� Service to be directed at children but some children have signed up as Members. We ask that children under 13 obtain parental permission before joining UpMyRank.com. To remove your child from UpMyRank.com membership or the UpMyRank AutoSurf Program� Service, please contact us at [support@UpMyRank.com](mailto:support@upmyrank.com). 
+UpMyRank.com wants to help parents protect the privacy of children and has taken steps to obtain parental permission before children may begin the UpMyRank AutoSurf Program™ Service. UpMyRank.com does not consider our Web Site or the UpMyRank AutoSurf Program™ Service to be directed at children but some children have signed up as Members. We ask that children under 13 obtain parental permission before joining UpMyRank.com. To remove your child from UpMyRank.com membership or the UpMyRank AutoSurf Program™ Service, please contact us at [support@UpMyRank.com](mailto:support@upmyrank.com). 
 
 **Changes to the Policy**
 
