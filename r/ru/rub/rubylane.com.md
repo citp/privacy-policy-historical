@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612175435id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102173210id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Ruby Lane and Your Privacy
+Privacy Policy
 
 Ruby Lane recognizes the importance of protecting your personal information. Therefore, we have put together a privacy policy that respects and addresses your needs. 
 
