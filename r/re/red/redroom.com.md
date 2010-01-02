@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redroom.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905133024id_/http%3A//www.redroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redroom.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102035502id_/http%3A//www.redroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Room
 
