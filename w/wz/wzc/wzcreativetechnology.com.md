@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wzcreativetechnology.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415200114id_/http%3A//wzcreativetechnology.com/joomla-tips-and-tricks/96-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wzcreativetechnology.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102162805id_/http%3A//wzcreativetechnology.com/joomla-tips-and-tricks/96-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
