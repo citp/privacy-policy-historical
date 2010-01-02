@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticsurgery4u.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309061938id_/http%3A//www.plasticsurgery4u.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery4u.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102111856id_/http%3A//www.plasticsurgery4u.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Information for Bermant Plastic and Cosmetic Surgery
 
@@ -6,7 +6,7 @@ Privacy is the cornerstone of medical care. Web visitors should never be concern
 
 Please review our policy statement, which has been developed to maintain the privacy and confidentiality of our visitors. 
 
-Web Service Purpose and Overview of Policy  
+**Web Service Purpose and Overview of Policy**  
 The purpose of PlasticSurgery4U.com is to inform and educate the public and potential patients about Dr. Bermant, various aspects of plastic and cosmetic surgery, and Richmond Virginia. 
 
 Just as we assure our patients privacy, we also assure our Web visitors that we operate under the following set of privacy principles. In general:   
@@ -14,31 +14,31 @@ The only data Dr. Bermant stores and maintains about individual visitors to Plas
 
 Should you decide to have a consultation or undergo surgery by Dr. Bermant at any time any information you supply via this website may become a permanent part of your medical chart. This information would then be kept in the strictest confidence in keeping with federal laws regarding medical information. 
 
-Private e-mail  
+**Private e-mail**  
 Private e-mail messages or photographs that you send to PlasticSurgery4U.com will not be posted on the site.  They remain private.  However, we may edit a letter and strip out identifying clues so that a commonly-asked question can be answered publicly or a particularly wise piece of advice can be shared in our "Bulletin Boards" section. 
 
-Cookies  
+**Cookies**  
 Cookies are pieces of information that a Web service transfers to an individual's hard disk for record keeping and personalization purposes. PlasticSurgery4U.com does not use cookies.
 
-External Links  
+**External Links**  
 In order to provide visitors with greater value, PlasticSurgery4U.com may provide links to various third party Web services. However, even if a third-party affiliation exists between PlasticSurgery4U.com and that destination site, PlasticSurgery4U.com exercises no authority over linked sites, each of which maintains independent privacy and data collection policies and procedures.
 
 PlasticSurgery4U.com assumes no responsibility or liability for these independent methods or actions and is not responsible for the independent policies or procedures of destination sites. 
 
 To that end, PlasticSurgery4U.com cannot take responsibility for the privacy initiatives or the content of such Web services. These destination links are provided only for our visitors' convenience, and visitors access them at their own risk. 
 
-Since Dr. Bermant wishes to ensure the integrity of PlasticSurgery4U.com and its destination links, any comments pertaining Web services accessed through PlasticSurgery4U.com links are greatly appreciated, and can be submitted to [Dr. Bermant](https://web.archive.org/web/20090309061938id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html)
+Since Dr. Bermant wishes to ensure the integrity of PlasticSurgery4U.com and its destination links, any comments pertaining Web services accessed through PlasticSurgery4U.com links are greatly appreciated, and can be submitted to [Dr. Bermant](https://web.archive.org/web/20100102111856id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html)
 
-Third Party Affiliations and Partnerships  
-Dr. Bermant may develop partnerships and affiliations with third parties that offer products or services he believes are relevant to PlasticSurgery4U.com visitors. These relationships may or may not result in remuneration to Dr. Bermant for these product or service purchases.  There are also banners from exchange services that Dr. Bermant does not necessarily endorse.
+**Third Party Affiliations and Partnerships**  
+Dr. Bermant may develop partnerships and affiliations with third parties that offer products or services he believes are relevant to PlasticSurgery4U.com visitors. These relationships may or may not result in remuneration to Dr. Bermant for these product or service purchases.  There are also banners from exchange services that Dr. Bermant does not necessarily endorse. We do not control this banner and link details and our editorial content is free of any commercial influence.
 
 Dr. Bermant never provides personally identifiable information about PlasticSurgery4U.com visitors to any third party affiliates or companies with which Dr. Bermant has a partnership agreement. 
 
-Site Funding  
+**Site Funding**  
 PlasticSurgery4U.com otherwise is funded by Dr. Bermant. 
 
-Contacting Us  
-If you have any questions about this privacy statement, the practices of PlasticSurgery4U.com, or your interaction with our Web service, please contact us by [E-mail](https://web.archive.org/web/20090309061938id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html) or at our office. We hope to see you in the office to work out a plan that would work for your individual needs and wants. 
+**Contacting Us**  
+If you have any questions about this privacy statement, the practices of PlasticSurgery4U.com, or your interaction with our Web service, please contact us by [E-mail](https://web.archive.org/web/20100102111856id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html) or at our office. We hope to see you in the office to work out a plan that would work for your individual needs and wants. 
 
 * * *
 
