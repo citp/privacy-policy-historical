@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naxosmusiclibrary.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111151427id_/http%3A//www.naxosmusiclibrary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naxosmusiclibrary.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102131837id_/http%3A//naxosmusiclibrary.com/privacy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Naxos Music Library
 
 Our business is built on the trust and confidence you place in us. We respect your privacy and we are committed to safeguarding and protecting any data we collect about you. 
 
