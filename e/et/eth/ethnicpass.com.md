@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethnicpass.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321004212id_/http%3A//www.ethnicpass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicpass.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102214247id_/http%3A//ethnicpass.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
