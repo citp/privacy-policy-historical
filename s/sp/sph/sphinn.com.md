@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sphinn.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423021200id_/http%3A//www.thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sphinn.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102160236id_/http%3A//thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for Third Door Media
 
@@ -57,6 +57,7 @@ Your personally identifiable information will only be shared with other companie
 
   * We have asked for and you have given your consent to share the information with advertisers, exhibitors and sponsors for a specific service.
   * We need to provide it to other companies in order to deliver the services you want from us, such as having an email list sent out or to process your event order. In these cases, the information is used only for the specific service you wanted from us.
+  * You allow your badge to be scanned at Search Marketing Expo conference.
 
 
 
