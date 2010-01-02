@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909164142id_/http%3A//twibbon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013918id_/http%3A//twibbon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Start Something - Twibbon.com
 
@@ -18,13 +18,15 @@ demographic information such as postcode, preferences and interests
 
 other information relevant to customer surveys and/or offers
 
+When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website. This data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, the location of your ISP and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use this data to monitor the use of the Site and of our Service, to gather information about the location of our users and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
+
 ##  What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping 
   * We may use the information to improve our products and services
-  * We may use the information to customise the website according to your interests.
+  * The services we provide may include advertisements, which may be targeted to you based on your use of Twibbon.com as well as via data provided by third party services including Twitter.com or Facebook.com.
 
 
 
