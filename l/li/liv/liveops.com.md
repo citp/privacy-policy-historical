@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608004357id_/http%3A//www.liveops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011600id_/http%3A//liveops.com/privacy.html) for the most accurate reproduction.*
 
 # LiveOps Privacy Policy
 
