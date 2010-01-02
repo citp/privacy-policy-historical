@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spice-mobile.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123064507id_/http%3A//www.spice-mobile.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spice-mobile.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102020404id_/http%3A//spice-mobile.com/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Spice Mobile Phones ::..
 
