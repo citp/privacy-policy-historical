@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdirectory.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216103609id_/http%3A//www.linkdirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdirectory.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010447id_/http%3A//www.linkdirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Link Directory | Free Link Directory- Privacy Policy
 
