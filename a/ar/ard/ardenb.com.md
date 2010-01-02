@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ardenb.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912143158id_/http%3A//www.ardenb.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardenb.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010833id_/http%3A//ardenb.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Women's Clothing and Apparel - Modern Dresses, Fashion Tops, Sweaters, Outerwear and Accessories, Privacy Policy
 
