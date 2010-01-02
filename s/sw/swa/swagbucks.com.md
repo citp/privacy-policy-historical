@@ -1,58 +1,58 @@
-> *The following text is extracted and transformed from the swagbucks.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629053839id_/http%3A//www.swagbucks.com%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagbucks.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011031id_/http%3A//www.swagbucks.com%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
 
 # swagbucks.com: Swag Store
 
-## swagbucks.com Privacy Policy
+## Swagbucks.com Privacy Policy
 
-swagbucks.com owns and operates a number of different sites on the Web (each, " swagbucks.com "). swagbucks.com is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information swagbucks.com. may gather about individuals who visit the swagbucks.com. Sites, how that information is used, and swagbucks.com disclosure practices. Please note that this policy applies only to the swagbucks.com. Sites, and not to the Web sites of other companies or organizations to which we provide links.
+Swagbucks.com owns and operates a number of different sites on the Web (each, " Swagbucks.com "). Swagbucks.com is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information Swagbucks.com. may gather about individuals who visit the Swagbucks.com. Sites, how that information is used, and Swagbucks.com disclosure practices. Please note that this policy applies only to the Swagbucks.com. Sites, and not to the Web sites of other companies or organizations to which we provide links.
 
 * * *
 
 ## Anonymous User Information:
 
-swagbucks.com Collects some anonymous information each time you visit swagbucks.com Site so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with swagbucks.com before we can collect this anonymous information. The swagbucks.com Sites do not require you to share information that identifies you personally, such as your name or email address, in order for you to use the swagbucks.com Sites. The swagbucks.com Sites assign an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited the swagbucks.com Site, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. swagbucks.com analyzes the information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
+Swagbucks.com Collects some anonymous information each time you visit Swagbucks.com Site so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with Swagbucks.com before we can collect this anonymous information. The Swagbucks.com Sites do not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Swagbucks.com Sites. The Swagbucks.com Sites assign an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited the Swagbucks.com Site, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. Swagbucks.com analyzes the information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
 
 * * *
 
 ## Tell-A-Friend
 
-If you elect to use our referral service for informing a friend about any of our sites, we ask you for your friend's name and email address. swagbucks.com will automatically send the friend a one-time email inviting them to visit the swagbucks.com Site. swagbucks.com does not store the information related to your friends and the one-time email sent pursuant to your input will be our only contact with that person for such input. 
+If you elect to use our referral service for informing a friend about any of our sites, we ask you for your friend's name and email address. Swagbucks.com will automatically send the friend a one-time email inviting them to visit the Swagbucks.com Site. Swagbucks.com does not store the information related to your friends and the one-time email sent pursuant to your input will be our only contact with that person for such input. 
 
 * * *
 
 ## Correspondence:
 
-If you contact swagbucks.com , we may keep a record of that correspondence and we may collect your email address. 
+If you contact Swagbucks.com , we may keep a record of that correspondence and we may collect your email address. 
 
 * * *
 
 ## Third Party Information Gathering:
 
-The swagbucks.com Sites contain links to other sites on the Web. Please be aware that swagbucks.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+The Swagbucks.com Sites contain links to other sites on the Web. Please be aware that Swagbucks.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 * * *
 
 ## Cookies:
 
-swagbucks.com May set and access swagbucks.com or partner cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the swagbucks.com Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various swagbucks.com Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site. 
+Swagbucks.com May set and access Swagbucks.com or partner cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the Swagbucks.com Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various Swagbucks.com Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site. 
 
 * * *
 
 ## Sharing:
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of swagbucks.com or such swagbucks.com Site's terms of use, or as otherwise required by law. 
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Swagbucks.com or such Swagbucks.com Site's terms of use, or as otherwise required by law. 
 
 * * *
 
 ## Mergers; Business Transitions:
 
-In the event swagbucks.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+In the event Swagbucks.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
 * * *
 
 ## Choice/Opt-out:
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to swagbucks.com and that swagbucks.com controls. In order to elect not to receive future communications from us, please email us at info@prodege.com. 
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to Swagbucks.com and that Swagbucks.com controls. In order to elect not to receive future communications from us, please email us at info@prodege.com. 
 
 * * *
 
@@ -64,7 +64,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ##  Special Notification with respect to Children's Privacy (Users under the age of 13):
 
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with swagbucks.com policy and COPPA regulations, we DO NOT:
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with Swagbucks.com policy and COPPA regulations, we DO NOT:
 
   1. 1\. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or
   2. 2\. Knowingly use or share personal information from users under 13 years of age with third parties;
@@ -76,7 +76,7 @@ Questions regarding children's privacy should be directed to:
 
 * * *
 
-## swagbucks.com
+## Swagbucks.com
 
 **P.O. Box 2748  
 Redondo Beach , CA 90278
