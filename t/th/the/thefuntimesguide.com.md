@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefuntimesguide.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402214119id_/http%3A//thefuntimesguide.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefuntimesguide.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102034328id_/http%3A//thefuntimesguide.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy for The Fun Times Guide
+# Privacy Policy - The Fun Times Guide
 
 At TheFunTimesGuide.com, we respect your privacy.
 
