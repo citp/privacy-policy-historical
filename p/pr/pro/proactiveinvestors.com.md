@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820041524id_/http%3A//www.proactiveinvestors.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102191604id_/http%3A//proactiveinvestors.com/pages/privacy) for the most accurate reproduction.*
 
-# Financial News, Stock Market News, Gold News, Mining News - Privacy
+# Proactive Investors North America - Run by Investors, for Investors Providing a Leading Source of Financial News - Privacy
 
 ## Proactiveinvestors.com
 
@@ -52,5 +52,3 @@ Our Site may offer links to other websites, which may have information policies 
 ###### Privacy questions
 
 If you have any questions regarding our privacy policy, please contact us at info@proactiveinvestor.com. You may also view your personal information at any time by logging in to your account page.
-
-You need the Flash Player version 8.0.0.0 or higher and a JavaScript enabled browser to view this content 
