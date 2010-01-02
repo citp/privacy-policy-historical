@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytripjournal.com privacy policy that was archived on 2009-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090117222122id_/http%3A//mytripjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytripjournal.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102151635id_/http%3A//www.mytripjournal.com/privacy) for the most accurate reproduction.*
 
 # MyTripJournal - Privacy Policy
 
