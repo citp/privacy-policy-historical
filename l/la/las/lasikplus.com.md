@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423193704id_/http%3A//www.lasikplus.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102181105id_/http%3A//www.lasikplus.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # LasikPlus Privacy Policy
 
