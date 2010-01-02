@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitnfind.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208040246id_/http%3A//www.hitnfind.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitnfind.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102124129id_/http%3A//hitnfind.com/docs/privacy.html) for the most accurate reproduction.*
 
 # HitNFind
 
