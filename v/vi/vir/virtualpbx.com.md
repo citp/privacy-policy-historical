@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214210612id_/http%3A//www.virtualpbx.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102024144id_/http%3A//www.virtualpbx.com/company/privacy.asp) for the most accurate reproduction.*
 
 # 
 
