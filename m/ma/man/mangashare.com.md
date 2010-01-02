@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangashare.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220075507id_/http%3A//www.mangashare.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangashare.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102034305id_/http%3A//www.mangashare.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Manga Share
 
