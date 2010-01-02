@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vr-zone.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928234305id_/http%3A//vr-zone.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vr-zone.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102015842id_/http%3A//vr-zone.com/privacy_policy.php) for the most accurate reproduction.*
 
 # VR-Zone.com Privacy Policy
 
