@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2gamez.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523131016id_/http%3A//way2gamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2gamez.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102025100id_/http%3A//www.way2gamez.com/privacy.html) for the most accurate reproduction.*
 
 # Play Free Online Games - Play Over 1000 + Free Flash games including Racing games, Shooting Games, Cricket , Pool , Chess , Action games, And most exciting 3D Games.
 
@@ -24,4 +24,5 @@ We have implemented appropriate physical, electronic, and managerial procedures 
 Changes to this Privacy Policy  
 This Privacy Policy is part of the Way2gamez main Terms and Conditions which you agree to by accessing the Way2gamez.com webstie and/or services. You agree that Way2gamez   may change this Privacy Policy and the main Way2gamez Terms and Conditions at any time.
 
-We also reserve the right to comply with any order or otherwise cooperate with law enforcement officials regarding the identification of any user alleged to be using a Way2gamez   website or service in violation of the law
+We also reserve the right to comply with any order or otherwise cooperate with law enforcement officials regarding the identification of any user alleged to be using a Way2gamez   website or service in violation of the law.  
+
