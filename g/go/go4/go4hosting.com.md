@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go4hosting.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901093032id_/http%3A//www.go4hosting.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4hosting.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102170612id_/http%3A//www.go4hosting.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Go4Hosting.com
+# Go4hosting :: Privacy Policy
 
 **PRIVACY POLICY**  
 
