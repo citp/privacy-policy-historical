@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypurplemartini.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416022751id_/http%3A//www.mypurplemartini.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypurplemartini.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010947id_/http%3A//www.mypurplemartini.com/privacy_policy.php) for the most accurate reproduction.*
 
 # My Purple Martini :Changing Night Life in India, Search for clubs in India, Discs in India, Lounge Bars, Restro Bars, nightlife in India
 
