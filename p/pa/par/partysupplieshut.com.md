@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partysupplieshut.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620233023id_/http%3A//partysupplieshut.com/kids/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partysupplieshut.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102115523id_/http%3A//partysupplieshut.com/kids/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,10 @@ We also use third party advertisements on PartySuppliesHut.com to support our si
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Do enjoy the season with free party games:  
-[4th of July Party Games](http://partysupplieshut.com/4th-of-july/4th-of-july-party-games.htm "4th of July Party Games")  
-[Flag Day Party Games](http://partysupplieshut.com/flag-day/flag-day-party-games.htm "Flag Day Party Games")  
-[Independence Day Party Games](http://partysupplieshut.com/independence-day/independence-day-party-games.htm "Independence Day Party Games")
+[Chinese New Year Party Games](http://partysupplieshut.com/chinese-new-year/chinese-new-year-party-games.htm "Chinese New Year Party Games")  
+[Groundhog Day Party Games](http://partysupplieshut.com/groundhog-day/groundhog-day-party-games.htm "Groundhog Day Party Games")  
+[Mardi Gras Party Games](http://partysupplieshut.com/mardi-gras/mardi-gras-party-games.htm "Mardi Gras Party Games")  
+[Martin Luther King Party Games](http://partysupplieshut.com/martin-luther-king/martin-luther-king-party-games.htm "Martin Luther King Party Games")  
+[Super Bowl Party Games](http://partysupplieshut.com/super-bowl/super-bowl-party-games.htm "Super Bowl Party Games")  
+[Oscar Award Party Games](http://partysupplieshut.com/oscar/oscar-party-games.htm "Oscar Award Party Games")  
+[Valentines Day Party Games](http://partysupplieshut.com/valentines-day/valentines-day-party-games.htm "Valentines Day Party Games")
