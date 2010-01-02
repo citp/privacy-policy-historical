@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605174558id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102135730id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
-
-  
-
-
-  
-|    | 
 
 Britain Express has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -62,27 +56,3 @@ Little Risssington
 Cheltenham  
 Gloucestershire  
 GL54 2ND 
-
-|    | 
-
-  
-  
-
-
-| 
-
-Great British Heritage Pass  
-  
----  
-  
-[](https://web.archive.org/gbhp.htm) [**Free entry to almost 600 top UK attractions**](https://web.archive.org/gbhp.htm)
-
-**Visit** castles, gardens, abbeys, stately homes, Roman forts, museums, mills, historic buildings, lighthouses, townhouses, museums, windmills, nature reserves, stone circles, medieval tithe barns, industrial heritage sites, dovecotes, battlefields, tunnels, cathedrals, bridges, and royal palaces. **Whew!**
-
-All with one pass. [**The Great British Heritage Pass**](https://web.archive.org/gbhp.htm)
-
-(overseas visitors only)  
-  
-  
-  
-
