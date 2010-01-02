@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hartley-greenhouses.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213163228id_/http%3A//www.hartley-greenhouses.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartley-greenhouses.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102195036id_/http%3A//www.hartley-greenhouses.com/privacy.php) for the most accurate reproduction.*
 
 # Hartley Botanic Privacy Policy
 
