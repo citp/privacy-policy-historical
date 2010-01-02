@@ -1,61 +1,57 @@
-> *The following text is extracted and transformed from the stockshifters.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517025121id_/http%3A//www.stockshifters.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockshifters.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102142120id_/http%3A//www.stockshifters.com/%3Ftype%3Dpage%26cid%3Dprivacy-security) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-   
----  
-  
-**Summary**
+Privacy & Security
 
-Stockshifters is committed to protecting your privacy, and takes its responsibilities regarding the security of information provided to us by customers very seriously. This policy explains how we use any information you provide to us, and how we protect your privacy.
+We take security and privacy policy issues seriously, and each of us is notified to the Office of the Information Commissioner as a data controller for the purposes of the Data Protection Act 1998. The following policy sets out how we collect and use personal and other data through Stockshifters.com (the 'Website').
 
-  
+Top
 
+General use of the Website
 
-In essence, we do not ask you for any more information than would reasonably be asked of any business seeking to carry out transactions with another business. 
+We shall not ask you to supply any personal data as a condition of your use of the Website. We will only ask for personal data if you choose to purchase products advertised on the Website, where it is necessary for you to provide your name, billing and delivery address(es), contact and payment details.
 
-We particularly draw to your attention this extract from the following detailed policies: Stockshifters is a business to business site. Given proper proof both of the identity of the persons representing an organisation, and of their relevant position in the organisation, we undertake to disclose to any organisation the full details of any information we hold about any registrants or transactions undertaken on the organisation's behalf. For this reason, when entering information on behalf of an organisation, including information about yourself as an employee or representative of the organisation, you should be clearly aware that that information could be disclosed, on reasonable demand, to properly accredited representatives of that organisation.   
-  
-   
-  
-**How we use Information provided by you to us**
+We may use cookies whilst you use the Website to monitor your use of the Website. This will enable us to improve the information we present to you. Use of a cookie is not linked to any personal identifying information, and once you close your browser, the cookie terminates. We will also use your Internet protocol ("IP") address to analyse usage trends on the Website and to administer it. Again, IP addresses are not linked to personally identifiable information. If you do not wish to permit us to use cookies, you are free at any time to disable the use of cookies by means of your Internet browser software. Please note, however, that disabling cookies will affect certain functions of the Website, including the ordering and payment functions. While you will continue to be able to browse the Website, unfortunately you will not be able to make purchases on the Website.
 
-_Information required to register you as a bidder_   
-We require certain information to allow us to process your bids. This includes your name, your job title and the organisation for which you work, your telephone number and email address, and normally your business address. For some auctions, where the lots have a value over a certain amount of money, we also may need to request your debit card number and expiry date, or other credit information. We need to know this to protect the interests of bona-fide bidders and vendors alike. Unfortunately, even business-to-business sites can be subject to abuse by time-wasters; and no-one is helped by finding out that a bidder for an important piece of equipment cannot raise the money, so that the whole process has to be gone through again.
+Top
 
-This information allows us to process your bids, and to send you confirmation of successful or unsuccessful bids by email. We ask for your telephone number so that we can contact you urgently if there is a problem with your bid - for example, if we discover something about a lot which might materially affect your decision to bid for it, or the value you would place on it.   
-  
-  
-**E-mail and Personal Information Services**
+Use of registered users' data
 
-By registering with us and indicating your agreement to receive information about relevant auctions, you will receive latest news, updates and information about items that fit your interests. Clearly, the more information you give to us about where your interests may lie, the more accurately we can tailor this information to your needs. This can be a most valuable resource for cost-cutting in your company's procurement activities.   
-  
-**Customer Feedback**
+If you are a registered user of the Website, we shall use that profile in order to set permissions for your use of the Website and to provide you with the information services you request as part of the registration process. Your registered user name may also be used to identify all messages, posts or other interactive content you submit to the Website.
 
-Your feedback is an essential part of how we improve our service, bringing benefits to both you and us. You are welcome to stipulate, if you provide feedback to us in any form, that we do not hold information about what you say to us, in a database that links your comments to your identification details – i.e., once you have had your say, your comments can be made anonymous if you prefer.  
-  
-**Security Facts**
+We may use cookies whilst you use our forums, blogs, wikis and other interactive channels. This will enable us to improve the information we present to you and your user experience of the Website interactive services. Once you close your browser, the cookie terminates. We will also use your IP address to analyse usage trends and to administer your use of the Website. Although the use of a cookie and your IP address is not linked to any personal identifying information, the Website administrators will report on the use of our interactive services using information obtained through our use of cookies. We shall also be able to ensure that registered users cannot falsely attribute messages, posts or other interactive content to other registered users.
 
-We make every effort to comply with the provisions of the UK Data Protection Acts of 1984 and 1998. We follow strict security procedures in the storage and disclosure of information that you have given us, to prevent unauthorised access. Our security procedures mean that we may request proof of identity before we are able to disclose sensitive information to you.
+Top
 
-The Stockshifters auction site is a business to business site. Given proper proof both of the identity of the persons representing an organisation, and of their relevant position in the organisation, we undertake to disclose to any organisation the full details of any information we hold about any registrants or transactions undertaken on the organisation's behalf. For this reason, when entering information on behalf of an organisation, including information about yourself as an employee or representative of the organisation, you should be clearly aware that that information will be disclosed on demand to properly accredited representatives of that organisation.   
-  
-  
-**Cookies**
+Personal data
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Cookies come in two forms: permanent cookies (which stay on your hard drive unless you delete them) and session cookies, which disappear at the end of the session in which you are communicating with our site. We use session cookies but not permanent cookies, in order to make the site work faster and to allow you to navigate around the site. You can disable all cookies by making the appropriate entries in your browser settings: our site will not work properly if you do this, however.  
-  
-**Disclosure to Third Parties**
+To enable us to register you for use of the Website (and to create your personal profile) and accept your orders on the Website, we need to collect and use personal data about you (your "Personal Information"). The Personal Information is all the information requested on any online order form.
 
-Stockshifters does not sell, trade, or rent your information to others. We may provide aggregate statistics about our customers, sales, and related site information to reputable surveys or Government departments, but these statistics will include no identifying information.
+We shall keep your Personal Information secure and confidential, and in accordance with this Security and Privacy Policy. We warrant that any party under our control processing personal data holds and will maintain a notification with the Information Commissioner under the Data Protection Act 1998, as amended or re-enacted form time to time, for all processing of your Personal Information. We shall not disclose or share your Personal Information to or with any third party without your consent, other than disclosure to each of us and our payment agent for the purpose of facilitating payments and to other trusted third parties for their and our provision of information that we and they consider that you may find interesting, where you have given us permission to do so.
 
-The only people to whom we disclose information, that you have given to us, are properly accredited members of your own organisation, as discussed above in the Summary and under Security Facts.   
-  
-  
-**Your Consent**
+All Personal Information that you provide to us is stored on our secure servers. Any payment transactions will be encrypted and is not, in any event, held on our servers. Where we have given you (or where you have selected) a password that enables you to access the Website, you are responsible for keeping this password confidential. Please do not share your password with any other person.
 
-In using the Stockshifters auction web site, you consent to the collection and use of the information you provide to us by Stockshifters, according to the policies set out above.  
-  
-**Changes to our Privacy Policy**
+Please note that the transmission of personal data via the Internet is not completely secure. We recognise the importance of security when information is being passed over the Internet and maintain high standards of security. However, while we will do our best to ensure that your Personal Information is protected, we cannot guarantee the security of the Personal Information that is transmitted to the Website; transmission is therefore at your own risk.
 
-If we decide to change our privacy policy, we will not only change the policy but clearly state on this page what we have changed, with the date, so that you can see if your position is materially affected by the changes.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes.
+
+Top
+
+Links
+
+This Website contains links to other sites, which may include partner networks, advertisers and affiliates. Please be aware that we cannot accept any responsibility for these other websites, and you are recommended to check the privacy policy of the website you link to before submitting any personal information. We do not accept any responsibility or liability in respect of these policies. Please check these policies before you submit any personal data to these websites.
+
+Top
+
+Access
+
+You have the right to access information held about you. Your right to access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with the information that we hold about you.
+
+Top
+
+Changes to Privacy & Security Policy
+
+Any changes that we make to this Security and Privacy Policy will be updated on this page.
+
+Top
