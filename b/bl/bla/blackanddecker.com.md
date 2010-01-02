@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418005943id_/http%3A//www.blackanddecker.com/CustomerCenter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011228id_/http%3A//www.blackanddecker.com/CustomerCenter/Privacy.aspx) for the most accurate reproduction.*
 
 # Black & Decker Power Tools
 
@@ -8,7 +8,6 @@
  [Contact Us](http://blackanddecker.com/CustomerCenter/Default.aspx)  
  [Safety Notices](http://blackanddecker.com/CustomerCenter/Recalls.aspx)  
  [Warranty Information](http://blackanddecker.com/CustomerCenter/Warranty.aspx)  
- [Product Registration](http://blackanddecker.com/ProductRegistration/Product-Registration.aspx)  
  [Service Center Locator](http://blackanddecker.com/CustomerCenter/ServiceCenterLocator2.aspx)  
  [Product Ideas](http://blackanddecker.com/CustomerCenter/Product-Ideas.aspx)  
  [Privacy Policy](http://blackanddecker.com/CustomerCenter/Privacy.aspx)  
