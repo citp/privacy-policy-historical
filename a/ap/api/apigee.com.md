@@ -1,34 +1,25 @@
-> *The following text is extracted and transformed from the apigee.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828035518id_/http%3A//www.apigee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apigee.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102181428id_/http%3A//apigee.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Apigee
+# Apigee
 
-PRIVACY STATEMENT - APIGEE
+This Privacy Policy applies to the Apigee service offered by Sonoa, Inc. (“Sonoa”). Sonoa is committed to providing a private and secure experience while using Apigee. The following privacy policy will help you to understand how Sonoa will treat your personal information. As Sonoa continues to improve Apigee and as Sonoa takes advantage of developments in technology, this policy may change from time to time so please check this policy on an ongoing basis for revisions and updates. If you have any questions or concerns in connection with Sonoa's information collection practice summarized in this Apigee Privacy Policy, please send an email, with the subject heading "Apigee Privacy Policy Question," to [info@sonoasystems.com](mailto:info@sonoasystems.com). In the email, please state your questions or concerns. In addition, where more detailed information is needed to explain Sonoa’s privacy practices, Sonoa posts supplementary privacy notices. These notices can be found on Sonoa’s website at [http://www.Sonoa.com](http://www.sonoa.com/).
 
-The Apigee website is operated by Sonoa Systems ("Sonoa Systems"). Sonoa Systems collects some personal and non-personal information on the Apigee website. Sonoa Systems is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users our information collection practice. If you have any questions or concerns in connection with Sonoa Systems's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [info@sonoasystems.com](mailto:info@sonoasystems.com). In the email, please state your questions or concerns.
+1\. Collection of Information  
+Information is collected within the Apigee in several ways. During the ordering process, Sonoa asks for information such as names, addresses, and account information. Once you have submitted this information, you will be registered into Apigee. You may also be asked for personal information when you add Users, report a problem with Apigee, or if you otherwise contact Sonoa. When your API is accessed through Apigee our servers automatically record information that developer programs send. These server logs may include information such as your web request, Internet Protocol address and the date and time of your request.  
+Sonoa’s Apigee Privacy Policy applies solely to information collection practice on the Apigee website. This website may contain links to other sites. Please be aware that Sonoa has no control or influence over the privacy practices of such other sites. Sonoa encourages Apigee users to be aware when they leave the Apigee website and to read the Privacy Policy of each and every website that they visit.
 
-WHAT INFORMATION IS COLLECTED?
+2\. Use of Information  
+Sonoa’s primary purpose for collecting and using personal information is to ensure the Apigee is tailored to your preferences. The information better equips Sonoa to provide you with services and products that you expect from Sonoa.  
+Sonoa may also use information for marketing purposes. For example, Sonoa may use information you provide to contact you to further discuss your interest in Apigee and to send you information regarding Sonoa, such as information about promotions or events. 
 
-To participate in certain activities and to obtain certain services offered on this web site, a user is asked to provide varying amounts of personal information. Some information is mandatory while other information might be discretionary. Activities or services that require provision of personal information generally seek full name, email address, company and country. We endeavor to limit our requests for personal information to information we believe is minimally necessary to achieve our collection purposes stated below.
+3\. Choices Regarding Collection, Use and Distribution of Information  
+If you indicated upon ordering that you are not interested in receiving offers or information from Sonoa, Sonoa will remove you from the distribution list. Only Sonoa will send you these emails. 
 
-When your API is accessed through Apigee our servers automatically record information that developer programs send. These server logs may include information such as the API request, Internet Protocol address and the date and time of the API request.
+4\. Collection and Sharing of Information  
+When you are on the Apigee website and are asked for personal information, you are sharing that information with only Sonoa. Sonoa will not sell, rent, share, or otherwise dispose of the personal information collected on the Apigee website to third parties. Sonoa will not disclose any of your personally identifiable information except when we have your express permission or under special circumstances, such as when we believe in good faith that the law requires it. Sonoa may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Sonoa’s rights or property, other users of Apigee, or anyone else that could be harmed by such activities. Sonoa may disclose aggregated user statistics to others, but none of these statistics will contain personally identifiable information about our customers and their use of this site. Sonoa may use non-personal information to determine how you found out about Apigee, what your interests are regarding Sonoa.
 
-HOW DOES SONOA SYSTEMS USE MY INFORMATION?
+5\. Cookies  
+A “cookie” is a small file that is sent to your Web browser from a Web server and stored on your computer’s hard drive. Sonoa may use cookies to compile information about you and your use of our site so that we may improve your experience of Apigee. Generally, we may use cookies in connection with our site for security purposes. 
 
-Personal information is collected and used primarily for such purposes as, for example, facilitating communication while providing website visitors with complete information on applicable technologies. We may also use a user's email address or phone number:
-
-To distribute surveys to obtain feedback on our products, our web site, or on other aspects of our business that impact you as an Apigee customer;  
-To notify a user of new products or services that we think may be of interest;  
-To send promotional materials  
-We do not sell, rent, share, or otherwise dispose of the personal information collected on the Apigee website to third parties. We may, however, disclose your personal information when required by law or in the good-faith belief that such disclosure is necessary to comply with law. We use non-personal information such as demographic data to analyze and develop our marketing strategy. We use non-personal information to determine how you found out about us, what your interests are regarding our services, and how to further improve our site and our service towards you. We also may share non-personal information with third parties.
-
-DOES SONOA SYSTEMS'S PRIVACY POLICY APPLY TO LINKED WEB SITES?
-
-Our Privacy Statement applies solely to information collection practice on the Apigee website. This website contains links to other sites. Please be aware that Sonoa Systems has no control or influence over the privacy practices of such other sites. We encourage our users to be aware when they leave the Apigee webite and to read the privacy statements of each and every website that they visit.
-
-CAN I CORRECT/UPDATE THE INFORMATION COLLECTED ABOUT ME?
-
-You have the right to correct or update the personal information collected about you on the Apigee website. To correct or update personal information, send an email, with the subject heading "Correct/Update Personal Information," to [info@sonoasystems.com](mailto:info@sonoasystems.com).
-
-CHANGES TO THIS PRIVACY STATEMENT
-
-If we later change our Privacy Statement, we will post those changes on Apigee website so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+6\. Correction of Information Collected  
+You have the right to correct or update the personal information collected about you on the Apigee website. To correct or update personal information, send an email, with the subject heading "Correct/ Update Personal Information," to [info@sonoasystems.com](mailto:info@sonoasystems.com).
