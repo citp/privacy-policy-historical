@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100156id_/http%3A//bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102113356id_/http%3A//bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogging Without A Blog
 
@@ -12,8 +12,8 @@
 Welcome to Bloggingwithoutablog.com (the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.  
-This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Bloggingwithoutablog.com (collectively, “Services”) (”Authorized Customers”).
+This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without  
+transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Bloggingwithoutablog.com (collectively, “Services”) (“Authorized Customers”).
 
   
 **“Personally Identifiable Information”**  
@@ -66,7 +66,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
   
-Â© 2007 **Bloggingwithoutablog.com** , All rights reserved.  
+© 2007-2009 **Bloggingwithoutablog.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials  
 from this Site is expressly prohibited.
 
@@ -75,4 +75,5 @@ Get your own Privacy Policy [here](http://www.prioritydigital.com/)!
   
 
 
-Tags: [Blogging](http://bloggingwithoutablog.com/tag/blogging/ "Blogging")
+[](http://creativecommons.org/licenses/by-nd/3.0/us/)  
+This work is licensed under a [Creative Commons Attribution-No Derivative Works 3.0 United States License](http://creativecommons.org/licenses/by-nd/3.0/us/).
