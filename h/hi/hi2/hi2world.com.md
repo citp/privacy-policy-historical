@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hi2world.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223044501id_/http%3A//www.hi2world.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi2world.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102045231id_/http%3A//www.hi2world.com/privacy.php) for the most accurate reproduction.*
 
 # Hi2World - Privacy Policy
 
