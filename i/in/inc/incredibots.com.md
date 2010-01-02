@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the incredibots.com privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709125948id_/http%3A//www.incredibots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibots.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010137id_/http%3A//www.incredibots.com/privacy.php) for the most accurate reproduction.*
 
 # IncrediBots - Online Robot Physics Game!
 
   | 
 
-Last modified: June 12, 2009
+Last modified: December 30, 2009
 
 IncrediBots.com, IncrediBotsGold.com and IncrediBots2.com (individually and collectively, "IncrediBots") are owned and operated by Big Fish Games, Inc. ("Big Fish Games").  Big Fish Games and the IncrediBots team have created this Privacy Policy to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices.  **By visiting IncrediBots, you are accepting the practices described in this Privacy Policy.**
 
@@ -12,9 +12,9 @@ IncrediBots.com, IncrediBotsGold.com and IncrediBots2.com (individually and coll
 
 ### Personally Identifiable Information:
 
-We may collect the following information when you create an account: 
+We collect no personally identifiable information when you create an IncrediBots account. We may collect the following information if you sign up to become an IncrediBots supporter: 
 
-  * First name, last name, e-mail address, mailing address, phone number 
+  * First name, last name, e-mail address, billing address, phone number 
   * credit or debit card information, depending on your form of payment. We do not store any credit card information after your transaction is complete. 
 
 
