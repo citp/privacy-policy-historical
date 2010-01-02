@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172713id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102043749id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
 
-# Designer Handbags, Wallets, Clothes and Designer Scarves Source - Shop Burberry Fendi, Prada, Chloe Handbags, and shoes at discounted prices - www.designersimports.com
+# Designer Handbags, Wallets, Scarves, Dresses, Clothing, Shoes, Belts, PDA Cases Sale - Shop Ed Hardy, Coach, Jessica Simpson, Christian Audigier, Steve Madden, True Religion, BCBG at discounted prices - www.designersimports.com
 
 |  | 
 
