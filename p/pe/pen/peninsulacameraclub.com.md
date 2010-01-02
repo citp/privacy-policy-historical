@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peninsulacameraclub.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128035213id_/http%3A//www.peninsulacameraclub.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsulacameraclub.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102035653id_/http%3A//peninsulacameraclub.com/%28A%28Yc5Yl_DBygEkAAAAZGI2YWU3ZWUtYzdkYi00Yzk0LTg2YWItMWMxYTViNDc5YzYzAsL3FHyA7f9n18kWKQDglaW763E1%29%29/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Peninsula Camera Club
 
@@ -24,7 +24,7 @@ Google, as a third party vendor, uses cookies to serve ads which may appear on o
 
 9\. We retain information in our databases until it is no longer required to provide the service requested of us or your organization. We archive information as a standard backup procedure. Obsolete archives are generally purged after one year or when they are deemed to have no value to you or your organization. 
 
-If you have any comment on or have questions concerning our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to Software Pursuits, Inc., please contact us using any of the methods on our [_contact us_](https://web.archive.org/web/20091128035213id_/http%3A//www.peninsulacameraclub.com/Help/SupportRequest.aspx) page. 
+If you have any comment on or have questions concerning our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to Software Pursuits, Inc., please contact us using any of the methods on our [ _contact us_ ](https://web.archive.org/web/20100102035653id_/http%3A//peninsulacameraclub.com/%28A%28Yc5Yl_DBygEkAAAAZGI2YWU3ZWUtYzdkYi00Yzk0LTg2YWItMWMxYTViNDc5YzYzAsL3FHyA7f9n18kWKQDglaW763E1%29%29/Help/SupportRequest.aspx) page. 
 
   
 
