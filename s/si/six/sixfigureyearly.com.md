@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sixfigureyearly.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204172019id_/http%3A//www.sixfigureyearly.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureyearly.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102143301id_/http%3A//www.sixfigureyearly.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Six Figure Yearly Privacy Policy
 
 Privacy Policy Statement  
 
 
-Last Updated: April 01, 2005  
+Last Updated: April 01, 2009  
 
 
 Six Figure Yearly.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.  
@@ -74,5 +74,14 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
 
 
-Copyright ©2000-2007 Six Figure Yearly, All Rights Reserved  
+Copyright ©2000-2009 Six Figure Yearly, All Rights Reserved  
+
+
+AdWords(TM) is a Trademark  
+
+
+of Google Inc., Mountain View, California.  
+
+
+Six Figure Yearly is an independent consulting firm, and is not affiliated with Google.  
 
