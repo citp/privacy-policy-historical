@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vemma.com privacy policy that was archived on 2007-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070706083242id_/http%3A//www.vemma.com/pdf/vemma_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vemma.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102012718id_/http%3A//www.vemma.com/pdf/vemma_privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
-VEMMA™ PRIVACY POLICY
+PRIVACY POLICY
 The protection of personal information is crucial with the Vemma Nutrition Company
 (“Vemma”). Privacy protection is, and always will be, critical to our business. Vemma
 will maintain strict customer information confidentiality policies. Vemma has
