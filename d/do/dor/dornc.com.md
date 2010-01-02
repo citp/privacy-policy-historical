@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dornc.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509070905id_/http%3A//www.dornc.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dornc.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102174806id_/http%3A//www.dornc.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NCDOR Privacy Policy
 
@@ -27,6 +27,10 @@ When you visit our website, we automatically collect and store the following inf
 
 We use this information to learn about the number of visitors to the site, the items of most and least interest to visitors, and system performance or problems in an effort to continually improve the site’s usefulness to the public.
 
+**International ACH Transaction (IAT) Rules**
+
+It is the intent of the North Carolina Department of Revenue not to use the ACH system for transactions in violation of US Law, including the sanctions administered by the Office of Foreign Assets Control (OFAC). It is also the intent of the agency to be in compliance with the "International ACH Transaction (IAT) rules" that are part of the NACHA Operating Rules. Accordingly, all ACH payments made through this website are intended only for payments not associated with a foreign bank account, which would classify it as an "International ACH Transaction (IAT)" under the NACHA Operating Rules. Since this website's payment applications do not accommodate IAT transactions, payors that would be considered an IAT payor should use [alternative payment methods](https://web.archive.org/web/20100102174806id_/http%3A//www.dornc.com/alternate_payment.html) for remitting funds to the agency.
+
 **E-mail**
 
 E-mail is not a secure means of communication. Therefore, you should _never_ send confidential information (e.g. Social Security numbers, tax account numbers) through e-mail. To protect your privacy, we will not send sensitive or confidential information to anyone in an e-mail unless the sensitive or confidential information is in an encrypted attachment. Also we will not use e-mail to request personal, tax or financial information. 
@@ -51,4 +55,4 @@ You should be aware that other websites that you link to from our site may conta
 
 References or links on the North Carolina Department of Revenue’s website to any other website, process, or service, is for the information and convenience of our taxpayers, and does not constitute endorsement or recommendation by the North Carolina Department of Revenue.
 
-_Last modified on: **01/14/08 01:03:05 PM**. _
+_Last modified on: **10/23/09 11:47:03 AM**. _
