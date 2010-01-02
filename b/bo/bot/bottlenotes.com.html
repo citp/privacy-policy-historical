@@ -1,20 +1,56 @@
-<!--The following is the downloaded HTML source of the bottlenotes.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617050448id_/http%3A//www.bottlenotes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bottlenotes.com privacy policy that was archived on 2010-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102144520id_/http%3A//www.bottlenotes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="verify-v1" content="h+KBUVt/bfpk8tySMkK/PBsjIMx6KU7hhGq/3IpFNL0=">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
 	<title>Bottlenotes</title>
 	<link rel="stylesheet" type="text/css" href="/sites/default/themes/amadeus/assets/css/css.css">
+	
+
 			<link rel="SHORTCUT ICON" href="/sites/default/themes/amadeus/assets/images/favicon.ico" type="image/x-icon">
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="/sites/default/themes/amadeus/assets/css/ieFix.css" /><![endif]-->
-	<script src="/misc/jquery.js" type="text/javascript" charset="utf-8"></script>
+		
+	<script src="/misc/jquery.js" type="text/javascript" charset="utf-8"></script>	
+		
 	<script src="/sites/default/themes/amadeus/js/misc.js" type="text/javascript" charset="utf-8"></script>
-</head>
-<body>
+<script type="text/javascript" src="https://c.adroll.com/retarget/3U7FPYUUOVEHLMKZMILI4Q/ADGTWRPQUZHQDFTM6EDUN2/"></script></head>
+<body> 
+
+<div id="shade" style="display: none"></div>	
+ <div id="shadecontest" style="display: none"></div>
 <div id="wrapper" class="">
 
+<script type="text/javascript">
+function numeric(e) 
+{
+    if(e.keyCode == 13){
+        global_search();
+    }     
+}
+function global_search(){
+
+        var selectedIndex = document.getElementById("zrpSearchType").selectedIndex;
+        var sortingSelectedValue =  document.getElementById("zrpSearchType")[selectedIndex].value;
+        if(sortingSelectedValue === 'wine'){
+            document.searchForm.action = 'http://search.bottlenotes.com/bottlenotes-search/searchwine.action';
+        }else if(sortingSelectedValue === 'people'){
+            document.searchForm.action = 'http://search.bottlenotes.com/bottlenotes-search/searchuser.action';
+        }else{
+            //bydefault , wine search should be dispaly
+            document.searchForm.action = 'http://search.bottlenotes.com/bottlenotes-search/searchwine.action';
+        }
+        
+        document.searchForm.submit();
+}
+</script>
+
     	<div id="header">
-				<h1><a href="/"><img src="/sites/default/themes/amadeus/assets/images/bottlenotesLogo.gif"></a></h1>
+		
+
+		<h1><a href="/"><img src="/sites/default/themes/amadeus/assets/images/bottlenotesLogo.gif"></a></h1>
 		<p>Good People. Great Wine.</p>
 		<ul class="cart">
 			<li class="last">
@@ -28,30 +64,44 @@
 				</ul>
 			
 		<div id="search_bar" style="float:right;clear:right;top:20px;width:270px;">
-			<div style="width:250px;float:left;">
-				<input type="text" id="zrpSearchKeyword" onclick="this.value=''" style="font:11px Arial !important;width:150px;border:1px solid #ccc;">
-				<select id="zrpSearchType" style="font:11px Arial !important;width:90px;border:1px solid #ccc;">
-					<option value="wine" selected="">Wine or Gift</option>
-					<option value="people">People</option>
-				</select>
+                         <div style="width:250px;float:left;">
+			      <form id="searchwine" name="searchForm" method="post" onsubmit="return false;">
+			      	    <input type="text" name="searchString" id="searchString" onclick="this.value=''" onkeydown="return numeric(event);" style="font:11px Arial !important;width:150px;border:1px solid #ccc;">
+			      	    <select id="zrpSearchType" style="font:11px Arial !important;width:90px;border:1px solid #ccc;">
+			      	    <option value="wine" selected="">Wine</option>
+				    <option value="people">People</option>
+				    </select>
+				</form>
 			</div>
 			<div style="float:right;">
-				<img onclick="global_search()" src="/sites/default/themes/amadeus/assets/images/searchButton.gif" style="position:relative;padding:0;margin:0;display:block;width:19px;height:22px;border:none;overflow:hidden;text-indent:-9999px;cursor:pointer;">
+			     <img onclick="global_search()" src="sites/default/themes/amadeus/assets/images/searchButton.gif" style="position:relative;padding:0;margin:0;display:block;width:19px;height:22px;border:none;overflow:hidden;text-indent:-9999px;cursor:pointer;">
 			</div>
 		</div>
+
+
 	</div>
-	<ul id="navigation">
+			<ul id="navigation">
 		<li id="navWines"><a href="/wines-home">Wines</a></li>
-		<li id="navPeople"><a href="/people">People</a></li>
-		<li id="navNotes"><a href="/tasting-notes">Notes</a></li>
 		<li id="navClubs"><a href="/wine-clubs">Clubs</a></li>
 		<li id="navGifts"><a href="/wine-gifts">Gifts</a></li>
+		<li id="navPeople"><a href="/people">People</a></li>
+		<li id="navNotes"><a href="/tasting-notes">Notes</a></li>
 		<li id="navKnowledge"><a href="/wine-knowledge">Knowledge</a></li>
 		<li id="navRegistry"><a href="/registry">Registry</a></li>
 		<li id="navCorp"><a href="http://corporate.bottlenotes.com/">Corporate Gifts</a></li>
-		<li id="navEvent"><a href="/around-the-world-in-80-sips-chicago">Events</a></li>
+		<li id="navEvent"><a href="/events">Events</a></li>
 		<li id="navSip"><a href="/the-daily-sip">Daily Sip</a></li>
+		              <li id="navMy" class="last"><a href="/log-in">My Bottlenotes</a></li>
 			</ul>
+         <div id="headersubscribe">
+        <form id="a" action="/daily-sip-signup">
+        <div id="fontsub" class="fontsubscribe"><b>Increase Your Wine Knowledge: Get a daily dose of wine tips, people, gadgets &amp; more...</b>
+        <div id="inputemail" class="inputemailsubscribe"><input value="      Your Email Address" class="passive" id="query" name="email" tabindex="4" onfocus="this.className='active'; if(this.value=='      Your Email Address')this.value='';" onblur="if(this.value=='')this.value='      Your Email Address';this.className='passive';" type="text">
+        </div>
+		<div id="imagesub" class="imagesubscribe"><input type="image" src="/sites/default/themes/amadeus/assets/images/subscribetoday_but.jpg">		</div>
+        </div> 
+		</form>
+    </div>
 		  <div class="node">
             <!--//<span class="submitted">Submitted by admin on Fri, 10/31/2008 - 23:48.</span>//-->
     <span class="taxonomy"></span>
@@ -168,6 +218,8 @@ Legal and Safety Obligations:  We may disclose your Personal </a><a name="15"> <
 </div>
 </div>
       </div>
+
+
 	<div class="common-popup" id="weship" style="display:none">
 		<h4>Where We Ship</h4>
 		<ul style="width: 49%; float: left;">
@@ -175,23 +227,31 @@ Legal and Safety Obligations:  We may disclose your Personal </a><a name="15"> <
 		<ul style="width: 49%; float: left;">
 <li>Nevada</li><li>New Hampshire</li><li>New Jersey</li><li>New Mexico</li><li>New York</li><li>North Dakota</li><li>Oregon</li><li>Texas</li><li>Wisconsin</li><li>Wyoming</li><li>District of Columbia</li>		</ul>
 		<div class="close"><a href="javascript: void(0);" onclick="HideWhereWeShip()"></a></div>
-	</div>
-	<div id="shade" style="display: none"></div>
+	</div>  
+    <div class="common-popup-contest" id="contestbanner" style="display:none;">
+    <div class="contest-block"><img src="/sites/default/themes/amadeus/assets/images/contest.jpg" usemap="#ContestOverlay"><map name="ContestOverlay" id="ContestOverlay">
+  <area shape="rect" coords="705,246,881,278" href="javascript:;" alt="Contest Banner" onclick="contestclick()">
+<area shape="rect" coords="901,4,928,105" href="javascript:;" alt="Close" onclick="HideContestBanner()">
+<area shape="rect" coords="349,272,421,288" href="javascript:;" onclick="RulesClick()">
+</map>
+</div>
+    </div>
 	<div id="footer">
 		<ul class="mainFoot">
 			<li><a href="/about-us">About Us</a></li>
-			<li><a href="/press">Press Links</a></li>
+			<li><a href="/press">Press</a></li>
 			<li><a href="/contact-us">Contact Us</a></li>
 			<li><a href="/faq">FAQs</a></li>
 			<li><a href="/our-story">Our Story</a></li>
 			<li><a href="/privacy-policy">Privacy Policy</a></li>
-			<li><a href="/terms-of-service">Terms of Service</a></li>
-			<li class="last"><a href="/daily-sip-unsubscribe">Unsubscribe</a></li>
+			<li><a href="/terms-of-service">TOS</a></li>
+			<li><a href="/daily-sip-unsubscribe">Unsubscribe</a></li>
+			<li class="last"><a href="/wine-list.html">Wine Directory</a></li>
 		</ul>
 		<ul class="miscFoot">
-			<li>Copyright © 2009 Bottlenotes, Inc. All rights reserved.</li>
 			<li><a href="http://www.twitter.com/bottlenotes"><img src="/sites/default/themes/amadeus/assets/images/miscImages/twitter_small.jpg"></a></li>
 			<li class="last"><a href="http://www.facebook.com/add.php?api_key=cf3677d8a4537deb96b53054c7cf098c&amp;canvas" id="facebookFoot">Facebook</a></li>
+			<li>Copyright © 2009 Bottlenotes, Inc. All rights reserved.</li>
 		</ul>
 	</div>
 </div>
@@ -205,18 +265,10 @@ var pageTracker = _gat._getTracker("UA-237380-3");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-4cHyWgOZOfKFQ"
-};
-</script>
-<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
-<noscript>
-<img src="//secure.quantserve.com/pixel/p-4cHyWgOZOfKFQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
 
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://publishers.halogennetwork.com/tracking/bottlenotes.js"></script>
+<!-- End Quantcast tag -->
 <script type="text/javascript" src="http://publishers.halogennetwork.com/tracking/bottle_notes.js"></script>
 
 <!-- Start of StatCounter Code -->
@@ -229,9 +281,20 @@ sc_https=1;
 </script>
 <script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="hits counter" href="http://www.statcounter.com/" target="_blank"><img class="statcounter" src="https://c11.statcounter.com/1174335/0/196e7115/1/" alt="hits counter" ></a></div></noscript>
 <!-- End of StatCounter Code -->
-<script>
-$(document).ready(function() {
 
+<!-- Begin AdRoll -->
+<script type="text/javascript">
+  var _adrRETScr = document.createElement("script");
+  var _adrRETHost = (("https:" == document.location.protocol) ? "https://c.adroll.com/retarget" : "http://c.adroll.com/retarget");
+  _adrRETScr.type = "text/javascript";
+  _adrRETScr.src = _adrRETHost + "/3U7FPYUUOVEHLMKZMILI4Q/ADGTWRPQUZHQDFTM6EDUN2/";
+  document.getElementsByTagName('head')[0].appendChild(_adrRETScr);
+</script>
+<!-- Exit AdRoll -->
+
+<script>
+
+$(document).ready(function() {
 	$("#zrpSearchKeyword").keydown(function(e) {
 		if(e.keyCode == 13)	global_search();
 	});
@@ -253,10 +316,7 @@ function toggle_tab(tab_num, a)
 	$(a).children('a:first').replaceWith('<strong>'+ $(a).children('a:first').html() +'</strong>');
 }
 
-function global_search()
-{
-	window.location.href = '/search/'+ $('#zrpSearchType').val() +'/?s='+ $('#zrpSearchKeyword').val();
-}
 </script>
+<!-- 208.113.73.203-->
 
 </body></html>
