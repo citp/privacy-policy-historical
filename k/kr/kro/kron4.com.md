@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kron4.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325053123id_/http%3A//kron4.com/News/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kron4.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102183918id_/http%3A//kron4.com/News/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # KRON4.com - The Bay Area's News Station
 
@@ -7,6 +7,8 @@ KRON 4 is committed to protecting your privacy and developing technology that gi
 Collection of your Personal Information
 
 KRON 4 collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. KRON 4 also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 There is also information about your computer hardware and software that is automatically collected by KRON 4. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by KRON 4 for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the KRON 4 Web site.
 
