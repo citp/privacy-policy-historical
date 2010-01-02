@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the submityoursite.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615133637id_/http%3A//www.submityoursite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submityoursite.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102051938id_/http%3A//www.submityoursite.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Submit Your Site : Privacy Policy
+
+|   
+---  
+|  |  |   
+---  
+  |  |  |   
+Get Noticed   
+---  
+   
+[](http://twitter.com/submityoursite)   
+| 
+
+ Total Sites Submitted : **841337**  
+  
+---  
+|   
+---  
+  
+Submit your site is the fastest growing web directory. It allows you to create your own categories specific to your website. Over 50,000 categories to choose from..   
+  
+   
+ [Directory listing](https://web.archive.org/Top)  
+   
+[Submit Your Site](https://web.archive.org/) | [Edit Your Site](https://web.archive.org/edit)  
+  
+PRIVACY POLICY
 
 By using http://www.submityoursite.com (“this Website”), you (“the User”) are giving your consent to our processing of your information as set forth in this Privacy Policy now and as amended by this Website from time to time.
 
@@ -11,6 +37,8 @@ Should this Website ask you to provide Personally Identifiable Information when 
 This Website may without any notice or reason, update this privacy policy from time to time by updating this page. You should check this page periodically to ensure that you are comfortable with any changes. This policy was last updated on December 10th 2008.
 
 * * *
+
+| 
 
 What This Website Collects  
   
@@ -56,4 +84,14 @@ Limitation of Liability
 ---  
 This Website may contain links to other websites or advertisements which drive you to another website. However, once you have used these links to leave the Website, you should note that the Website does not have any control over that other website. Therefore, the Website cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites as such sites are not governed by this Privacy Policy. You should exercise caution and look at the Privacy Policy applicable to the website in question.  
   
+  
+  
+[About Us](https://web.archive.org/about-us.php) | [Terms & Condition](https://web.archive.org/tnc.php) | [Privacy Policy](https://web.archive.org/privacy-policy.php) | [Contact Us](https://web.archive.org/contact-us.php) |[FAQs](https://web.archive.org/FAQ.php)| [API](https://web.archive.org/api.php)  
+   
+[](http://www.infobase.co.in/)     
+  
+COMPARE INFOBASE LIMITED
 
+* * *  
+  
+| 
