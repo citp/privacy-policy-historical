@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701104356id_/http%3A//www.travelguard.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010516id_/http%3A//www.travelguard.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Travel Guard: Why Buy Travel Insurance?
 
