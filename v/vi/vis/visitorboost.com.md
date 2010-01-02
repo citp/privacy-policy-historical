@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitorboost.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010180745id_/http%3A//www.visitorboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorboost.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102014816id_/http%3A//www.visitorboost.com/privacy.php) for the most accurate reproduction.*
 
 # Visitor Boost - Privacy Policy
 
@@ -8,7 +8,7 @@ Our postal address is
 **1451 Graeme Way  
 Warminster, PA 18974**
 
-We can be reached via e-mail at [sales@visitorboost.com](mailto:sales@visitorboost.com). 
+We can be reached via e-mail at [sales@visitorboost.com](mailto:sales@visitorboost.com).
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -26,19 +26,16 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
 
-Consumers can access this information by or logging in to your account. 
+Consumers can access this information by or logging in to your account.
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers.
 
-Consumers can have this information corrected by or logging in to your account. 
+Consumers can have this information corrected by or logging in to your account.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-  
-
