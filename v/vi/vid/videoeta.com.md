@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529060214id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102014050id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-**VideoETA Privacy Policy**  
-
+_Revised May 28, 2009_
 
 VideoETA, and its advertisers and agents are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
@@ -15,25 +14,8 @@ VideoETA, as well as most sites on the Internet, use "cookies" to enhance your e
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
+We use third-party advertising companies to serve ads when you visit VideoETA. These companies may use cookies to store information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and/or the ability to opt out of the use of these specific cookies, click [here](http://www.google.com/privacy_ads.html) and [here](http://www.doubleclick.com/privacy/index.aspx).
+
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at VideoETA periodically.
 
-If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
-
-|  [](https://web.archive.org/movie.html?id=104500&ad=550)
-
-[**Love & Other Disasters**](https://web.archive.org/movie.html?id=104500&ad=550)   
-Coming Jun 17  
-[Remind me when it's released!](https://web.archive.org/reminder.html?id=104500)  
- 
-
-[ **Put VideoETA release dates on your web site! NEW**](https://web.archive.org/link.html)  
- 
-
- 
-
-[ ](http://affiliates.allposters.com/link/redirect.asp?AID=304601&PSTID=1&LTID=13&LID=15)   
-
-
-[ ](http://www.jdoqocy.com/click-2487945-10535013)
-
-[ ](http://www.kqzyfj.com/click-2487945-10444974)
+If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us via our [Contact Page](https://web.archive.org/contact.html).
