@@ -1,93 +1,177 @@
-> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009040316id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WrongDiagnosis.com
 
-_Adviware_ recognises and values the protection of your personal information. _Adviware_ also recognises our customers’ concerns about the collection of any personal information and how _Adviware_ will use that information. _Adviware_ observes and is governed by the National Privacy Principles pursuant to the Australian Privacy Act 1988 (Cth). _Adviware_ has implemented this privacy policy in order to reassure our customers about how _Adviware_ will use any collected personal information. 
+Health Grades, Inc. ("HealthGrades") has developed this privacy policy (the "Privacy Policy") for the benefit of the users ("Users" or "you") of its web site, namely, WWW.WRONGDIAGNOSIS.COM, to demonstrate our serious commitment to protecting privacy on this Site. The following information summarizes HealthGrades' personal data gathering and distribution practices for http://www.wrongdiagnosis.com (the "Site"). HealthGrades reserves the right to change this Privacy Policy, or any other policy or practice, at any time. Your use, or continued use, of this Site will be conclusively deemed acceptance of this Privacy Policy and any changes or modifications to this Privacy Policy, respectively. Please see HealthGrades' User Agreement for more information on the Terms and Conditions governing the use of this Site. 
 
-## ▲Top 1\. Personal identification and collection 
+**Why does HealthGrades need my personal information?**
 
-Every time you use our website, information is collected by our service. Types of information include: 
+In order to provide our Users with a more personalized, relevant, and intelligent service, HealthGrades regularly makes improvements to this Site. The collection of personal data greatly assists HealthGrades in this improvement process by identifying the interests and needs of the many Users to this Site. Data collection also assists HealthGrades by allowing it and its affiliates to advertise its products and/or services in a more efficient manner. 
 
-  * The date and time of your visit to our website; 
-  * Your IP address; 
-  * The address of the documents you access; 
-  * The type of browser and operating system you are using; and 
-  * Any address of any referring site and any website you are about to visit through our website links. 
+Although HealthGrades' primary goal in collecting personal information is to deliver a customized and personalized service to you, HealthGrades may also use the personal information it collects to (i) send Users e-mail notification of new features or information available through the Site or that HealthGrades otherwise feels might be of interest to Users of this Site and (ii) allow third party advertisers and retailers, and their affiliates, offering goods or services that HealthGrades thinks might be of interest to Users of this Site to deliver to you relevant information and offers. HealthGrades also collects IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes, and to report aggregate information to our advertisers and others. 
+
+**How and what information does HealthGrades gather or track?**
+
+Through the use of "cookies" (as described below) and on-line data entry, survey, product purchase and registration forms, HealthGrades may collect and/or monitor, in aggregate and individual form, personal identifying facts or data on, among other things, the following information: 
+
+"Health" Information 
+
+| 
+
+"Technical" Information 
+
+| 
+
+"Reference" Information   
+  
+---|---|---  
+  
+  * age 
+
+  * gender 
+
+  * other various health-  
+related information 
+
+
+| 
+
+  * home server 
+
+  * domain name 
+
+  * e-mail address 
+
+  * site traffic 
+
+
+| 
+
+  * name 
+
+  * mailing address 
+
+  * telephone number 
+
+  * password 
+
+
+  
+  
+HealthGrades gathers most of the personal information it collects on its Users during an initial voluntary registration process. Although some of the personal identifying information is necessary for HealthGrades to deliver some of its valuable services, all of the personal information collected is optional with respect to use of this Site. Accordingly, Users can determine to a large extent what information they wish to submit on a voluntary basis to HealthGrades. 
+
+In addition to the initial voluntary registration process, HealthGrades occasionally asks Users for personal information at other times, including when they complete optional survey forms or fill out optional contact forms for additional information on particular products and services. In addition, Users are required to submit personal information to HealthGrades when purchasing certain products on the Site. 
+
+**Cookies**
+
+"Cookies" are small pieces of information that are stored by your web browser software on your computer's hard drive or temporarily in your computer's memory. The use of cookies is now an industry standard, and Users will find them on most major web sites. 
+
+HealthGrades may place and store Internet cookies on a User's hard drive. Cookies can save any of the types of information noted above. Cookies enable HealthGrades to personalize the viewing experience of a User of this Site. When the User revisits this Site, HealthGrades can recognize the User by the cookie and customize the User's experience at this Site accordingly. For example, HealthGrades uses cookies to recognize User access privileges to this Site, track Site usage and traffic patterns, add advertisements for goods or services of interest, and estimate this Site's audience size. HealthGrades also uses cookies to store User names and passwords that are supplied at registration. If HealthGrades utilizes cookies in connection with the collection of information for third parties, i.e., advertisers, the relevant advertiser(s) may receive electronic notification when a User views the advertisement. 
+
+HealthGrades may use third party network advertisers to serve advertisements on the Site and may use a traffic measurement service to analyze traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to the Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Site, the Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Site, you may wish to visit http://www.networkadvertising.org/optout_nonppii.asp, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. 
+
+Although most web browsers are initially set up to accept cookies, if you prefer, a User may decline the placement of a cookie on his or her hard drive by using the appropriate feature(s) of one's web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within this Site may not function properly if the web browser will not accept cookies. 
+
+**What about external web sites?**
+
+To the extent hyperlinks are utilized to access third party sites, Users should be aware that these third party web sites are not controlled by HealthGrades and, therefore, are not subject to this Privacy Policy. Users should check the privacy policies of these individual sites to see how their personal information will be utilized by the proprietors of those third party web sites. In those cases where HealthGrades has entered into agreements with third parties, where pricing and other tools are made available to HealthGrades users, see "What about information I enter into third party programs included in HealthGrades' Site?," discussed below. 
+
+**What does HealthGrades do to keep this Site secure?**
+
+HealthGrades has implemented a number of security features throughout the Site to prevent the unauthorized release of or access to personal information. For example, HealthGrades grants access to any stored personal information HealthGrades may collect on its Users only to authorized personnel. Moreover, when a User registers on-line or accesses his or her account information through this Site, HealthGrades offers the User the ability to use a secure server. The secure server encrypts all information a User inputs before it is sent to HealthGrades. 
+
+Please be advised, however, that although HealthGrades has endeavored to create a secure and reliable Site for its Users, the confidentiality of any communication or material transmitted to/from HealthGrades via this Site or E-mail cannot be guaranteed. When disclosing any personal information, all Users should remain mindful of the fact that it is potentially accessible to the public, and consequently, can be collected and used by others without User consent. Accordingly, Users should consider carefully if they want to submit sensitive information that they would not want disclosed to the public and should recognize that their use of the Internet and this Site is solely at their own risk. Users, alone, are ultimately responsible for maintaining the secrecy of their personal information. HealthGrades has no responsibility or liability for the security of personal information transmitted via the Internet. HealthGrades urges all of its Users to be careful and responsible whenever they are on-line. 
+
+**Can I opt-out of HealthGrades' data collection and/or distribution?**
+
+As noted earlier, the collection, use, and distribution of personal data greatly assist HealthGrades in creating a more personalized, relevant, and intelligent service. Without the use of personal data, HealthGrades could not deliver its valuable content and services in the most beneficial way. Consequently, HealthGrades does ask for the submission of some personal data, although such submission is not required to use the Site. 
+
+Users of this Site have the ability to "opt-out" of having their data shared with third parties or otherwise used as described in this Privacy Policy by requesting removal of the User's personal data record from HealthGrades' database (as described below) or by clicking on the "opt-out" link in any e-mail sent to you by HealthGrades. However, as discussed above, registration and provision of personal information is voluntary. 
+
+**Do I have the ability to access and correct my personal information?**
+
+At any time, a User may contact HealthGrades via e-mail to request: 
+
+  * A summary of any personal information retained by HealthGrades on such User, 
+  * A change to the User's personal data record maintained by HealthGrades, or 
+  * Removal of the User's personal data record from HealthGrades' database. 
 
 
 
-The information that will be collected provides _Adviware_ with details about how the website will be used including the frequency and duration of visits, and which web pages have been accessed on our site. 
+Users may send their requests to the following e-mail address, info@healthgrades.com. In the event HealthGrades receives such a request, HealthGrades may require the User to confirm or verify any change to the User's personal record. 
 
-_Adviware_ may also conduct surveys or market research and may seek information from you from time to time. These surveys will provide _Adviware_ with information that allows improvement in the types and quality of service offered to you and the manner in which those services are offered. 
+**What about the collection of personal information from children?**
 
-We will not collect any personal information which may reveal racial or ethnic origin, political opinions, philosophical beliefs, trade union membership, sexual activity or sexual orientation. 
+This Site is not primarily intended for individuals under the age of eighteen (18) ("children"). Accordingly, HealthGrades will not knowingly collect or post information from children without parental or guardian consent. Moreover, HealthGrades will not knowingly collect or use any personal data collected from children for any purpose whatsoever, including disclosure to any third party. 
 
-Information may also be collected by our third-party advertising partners, as described below. 
+**Does HealthGrades disclose personal information to third parties?**
 
-## ▲Top 1.1 Information That You Provide May Be Published 
+HealthGrades may share your personal information: (i) with third parties who are under obligations of confidentiality with us, (ii) if HealthGrades is required by law to do so, (iii) in the event of a transfer of ownership of HealthGrades, merger or other similar transaction, or (iv) as otherwise set forth in this Privacy Policy, including as set forth below. Note, however, that HealthGrades is not and cannot be responsible for the activities or privacy policies of any third parties. 
 
-You may supply to us sensitive information relating to personal health information through emails, chatgroups, chatrooms, discussion forums, surveys, comment forms, or feedback forms. You expressly consent for _Adviware_ to publish on the web site or disclose this information to contracted third parties. _Adviware_ will _not_ anonymise or remove your personal details relating to health information you submit to us prior to any publication on our website or otherwise. Personal information that you post in discussion forums, chat rooms, chatgroups, comment forms, or surveys, including any username that you choose to use, may be posted immediately on our web site and available immediately to the public. 
+1\. With respect to obtaining certain products and/or services from this Site, HealthGrades may request your permission to disclose to a third party certain registration information you have provided to HealthGrades ("Registration Information"). Where HealthGrades has obtained your permission, HealthGrades will disclose your Registration Information to such third party so that you do not have to enter your Registration Information more than once. HealthGrades may also disclose your Registration Information to certain third parties in connection with Third Party Programs as described below. 
 
-## ▲Top 1.2 Personal Information via the Adviware website 
+2\. We may employ other third parties to perform services or functions on our behalf in order to improve our Site, merchandising, marketing and promotional efforts, communications or other services, or to facilitate e-commerce transactions, including processing orders placed by credit card. Those third parties may include authorized contractors, consultants and other companies working with us (collectively, "agents"). They only have access to your information as needed to perform their functions, and they may not share any of your information with others or use it for any other purpose than providing or improving HealthGrades' services and offerings. 
 
-Most commercial websites use cookies. Cookies are pieces of information that websites send to the browser and are stored in the computer hard-drive. Cookies make using this website easier by storing information about your preferences on this website. This allows the site to be tailored to you on any of your return visits. Cookies will not identify you personally. If you would prefer not to receive cookies, you can alter your security settings on your web browser to disable cookies or to warn you when cookies are being used. However, by disabling the cookie function in your web browser you may impede your ability to use parts of the site. 
+3\. HealthGrades may be obligated to cooperate with various law enforcement inquiries. HealthGrades reserves the right to share or transfer your Registration Information or other information to comply with a legal requirement, disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, for the administration of justice, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. 
 
-## ▲Top 2\. Use and disclosure of information 
+4\. HealthGrades discloses personal information in aggregate form to third parties or advertisers, in a manner by which you will not be personally identifiable. For example, HealthGrades might tell an advertiser how many males between 20 and 30 years in age have visited the site over a period of time. What about information I enter into third party programs included in HealthGrades' Site? 
 
-The symptom and disease information that you provide to us via emails, chatgroups, chatrooms, discussion forums, surveys, comment forms, or feedback forms may be used for two primary purposes. First it will be used for statistical purposes and may be provided to third party researchers. Secondly, it may be used for the _Adviware_ website (e.g. published on the web site), published in medical journals, books or magazines. 
+As an additional service to its subscribers, HealthGrades has included in its Site various programs and tools created and administered by third parties ("Third Party Programs") whereby, as examples, you can receive useful items such as information concerning potential diseases/conditions, information about drug alternatives, and tools whereby you can maintain records relating to your condition. Your use of these Third Party Programs is entirely optional and at your sole discretion. However, if you choose to use them, some or all of these Third Party Programs may require that you provide certain personal information such as your age, current health condition, medical history, prescription history or other health and lifestyle data (collectively, "Private Information"). If you elect to use one or more of these Third Party Programs, then any Private Information you provide as part of the Third Party Program, as well as your Registration Information, will be available to the third party administering that Third Party Program. By using any Third Party Program, you acknowledge that any Private Information and Registration Information you provide to the third party does not constitute a violation of HealthGrades' Privacy Policy. HealthGrades will maintain the privacy of your Private Information in HealthGrades' possession in accordance with the Health Insurance Portability and Accountability Act ("HIPAA") Privacy Rule (to the extent it is applicable) and applicable state and federal privacy laws. Furthermore, HealthGrades will require any third party receiving any of your Private Information to maintain the privacy of your Private Information in accordance with the HIPAA Privacy Rule (to the extent it is applicable) and applicable state and federal privacy laws. HealthGrades cannot guarantee that any third party will maintain the privacy of Private Information, even if the third party has promised to comply with the HIPAA Privacy Rule. 
 
-Specifically, _Adviware_ will not use or disclose or permit the use or disclosure of information that could be used to identify an individual member in any circumstances except: 
+**What about information I enter into public forums included in HealthGrades' Site?**
 
-(a) to ensure the proper functioning of the _Adviware_ website; and 
+You may supply to HealthGrades sensitive information relating to personal health information through emails, chatgroups, chatrooms, discussion forums, surveys, comment forms, or feedback forms on the Site. You expressly provide your consent for HealthGrades to publish on the Site or disclose this information to contracted third parties. HealthGrades will notanonymise or remove your personal details relating to health information you submit to HealthGrades prior to any publication on the Site or otherwise. Personal information that you post in discussion forums, chat rooms, chatgroups, comment forms, or surveys, including any username that you choose to use, may be posted immediately on the Site and available immediately to the public. Please remember that any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Information disclosed in these areas is not subject to this Privacy Policy and will be seen by third parties not related to HealthGrades and may be used by them for unauthorized purposes, such as to contact you. 
 
-(b) where personal information is to be used by a participating third party contracted to _Adviware_ for research and where the participating third party is bound by a confidentiality agreement with _Adviware_. 
+**Further Questions?**
 
-Your information may also be used or disclosed if: 
+HealthGrades welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to HealthGrades at the following e-mail address, info@healthgrades.com. 
 
-(a) _Adviware_ is required or authorised by law or if it is reasonably necessary to enforce the law; the information is necessary for the establishment, exercise or defence of a legal claim; or 
+**Privacy Policy Page Last Updated:** October 23, 2008.   
+ » Next page: [Spam Statement](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/spamstatement.htm)
 
-(b) the necessary authorities (i.e. police, ambulance and fire services) are to believe on reasonable grounds that disclosure is necessary to prevent a threat to life or health; 
+### Rate This Website
 
-(c) you have given express consent to _Adviware_ for a prescribed purpose, including but not limited to, your providing information to us via email, chatgroups, chatrooms, discussion forums, surveys, comment forms, or feedback forms. With regard to any information that you submit to the website or Adviware for any purposes, you expressly grant Adviware a perpetual, irrevocable, royalty-free, transferable, sub-licensable, worldwide license to use such materials, and to use or modify the materials in any way including, but not limited to, not identifying you as its author. 
+What do you think about the features of this website? Take our user survey and have your say: 
 
-_Adviware_ will not sell, distribute, rent, licence, disclose or reveal, share or pass your personally identifiable information onto any third parties, other than those who are contracted to _Adviware_ to keep the information confidential subject to the Australian Privacy Act 1988 (Cth) and regulations regarding the handling of personal information. 
+[Website User Survey](https://web.archive.org/user-survey/index.html)
 
-## ▲Top 3\. Sending information overseas 
+### Medical Tools & Articles:
 
-You consent to _Adviware_ disclosing your symptoms or diseases that you provide via our website, emails, chatgroups, chatrooms, discussion forums, surveys, comment forms, or feedback forms to other third parties or researchers contracted to _Adviware_ located outside Australia. _Adviware_ will take all reasonable steps to ensure that contractually such recipients respect the confidentiality of this information by abiding by equivalent privacy obligations, as those required in Australia. 
+**Next articles:**
 
-## ▲Top 4\. Security of your information 
+  * [Spam Statement](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/spamstatement.htm)
+  * [Advertising Policy](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/admin/adpolicy.htm)
+  * [Advertising On Our Site](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/advertising.htm)
+  * [Submitting Content To Our Site](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/submission.htm)
+  * [Citing Our Material](https://web.archive.org/web/20100102022235id_/http%3A//www.wrongdiagnosis.com/crtop/citing.htm)
 
-We will take reasonable steps to ensure that all information you provide to us that we use or disclose is stored in a secure environment accessed only by authorised _Adviware_ personnel. Please keep in mind that no information transmitted over the internet can be guaranteed to be 100% secure. We will endeavour to protect your personal information, however we cannot ensure or warrant the security of any information you transmit to us or receive from our online services. These activities are conducted at your own risk. Once we receive your transmission, we will use our reasonable efforts to ensure its security. However, as a small company, the extent to which _Adviware_ can protect such information and maintain security is limited. 
 
-## ▲Top5\. Credit Card Information 
 
-_Adviware_ does not currently accept credit card details directly. Instead, our partners such as Amazon.com process credit card transactions without distributing this information to us. For example, credit card details for orders at our Amazon Zshop are handled by Amazon Payments and are not seen by us. Email and shipping addresses are provided for us to ship product, but we do not see your billing details. Furthermore, for ordinary Amazom.com book, magazine or other referral sales that bypass our Amazon Zshop, we do not even receive email addresses or personal information, let alone credit card details. If for any reason we do receive your credit card details, we will use such information only in order to perform credit card verification and transaction approval. Our partners that collect credit card information may use this information in accordance with their own privacy or other policies and this is beyond our control. 
+**Tools & Services:**
 
-## ▲Top 6\. Links 
+  * Bookmark this page
+  * [Symptom Search](https://web.archive.org/symptomcenter.htm)
+  * [Symptom Checker](http://symptoms.wrongdiagnosis.com/)
+  * [Medical Dictionary](https://web.archive.org/lists/dictaz.htm)
+  * [Give your feedback](https://web.archive.org/user-survey/index.html)
 
-This privacy statement applies solely to information collected by this Web site. This web site contains links to other web sites on the Internet. Please be aware that we at _Adviware_ are not responsible or liable for the privacy practices of such other web sites. 
 
-We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. You access destination links at your own risk. Because we want to provide you with the best service possible, we would appreciate your comments about any external links at privacy@Adviware.com. 
 
-## ▲Top 7\. Third Party Advertising Services 
+**Medical Articles:**
 
-_Adviware_ may utilise certain third-party advertising services (e.g. organizations such as Burst Media, FastClick, Google, Amazon, Advertising.com and others) to display advertising for our advertisers. These third-party services may receive information collected as part of a web site visit, such as your IP address, the name of the pages visited, and so on. These third-party services may also place a cookie on your computer for the purposes of ad tracking and presentation. _Adviware_ does not share personally identifiable visitor information with its advertising services. However, _Adviware_ cannot control how these partners collect and use any information that may be collected about you via web visits, cookies, interactions with advertisements, or other means. Some of our partners may use this information for "behavioral targeting" of advertising to you on our web site and when you visit other web sites. 
+  * [Disease & Treatments Search](https://web.archive.org/diseasecenter.htm)
+  * [Misdiagnosis Center](https://web.archive.org/intro/overview.htm)
+  * [Full list of interesting articles](https://web.archive.org/premium.htm)
 
-## ▲Top 8\. Public Forums 
 
-_Adviware_ may provide its users with chat rooms, chatgroups, discussion forums, polls, surveys, discussion forums, message boards, comment forms, and/or news groups. Please remember that any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Information disclosed in these areas is not subject to this Privacy Statement and will be seen by third parties not related to _Adviware_ and may be used by them for unauthorised purposes, such as to contact you. 
 
-## ▲Top 9\. How to contact us 
+### Forums & Message Boards
 
-If you have any concerns or questions, please contact _Adviware_ via our email privacy@adviware.com. _Adviware_ reserves the right to modify or amend this Statement at any time. 
+  * Ask or answer a question at the [Boards](http://forums.wrongdiagnosis.com/ "Forums and Message Boards"):
+    * [I cannot get a diagnosis. Please help.](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=I%20can%20not%20get%20a%20diagnosis.%20Please%20help.)
+    * [Tell us your medical story.](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=Tell%20us%20your%20medical%20story.)
+    * [Share your misdiagnosis story.](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=Share%20your%20Misdiagnosis%20story.)
+    * [What is the best treatment for my condition?](http://forums.wrongdiagnosis.com/forumdisplay.php?f=title&title=What%20is%20the%20best%20treatment%20for%20this?)
+    * [See all the Boards.](http://forums.wrongdiagnosis.com/)
 
-We appreciate you taking the time to read the _Adviware_ Privacy Statement. 
 
-© 2006 Adviware Pty Ltd. All Rights Reserved 
-
-_Privacy Statement last updated 23 May 2006_
-
-* * *
-
-By using this site you agree to our [Terms of Use](https://web.archive.org/crtop/termsofuse.htm). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/crtop/termsofuse.htm). 
