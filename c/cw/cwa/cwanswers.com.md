@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwanswers.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903115829id_/http%3A//www.cwanswers.com/8921/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwanswers.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010628id_/http%3A//www.cwanswers.com/8921/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - at CWAnswers
 
