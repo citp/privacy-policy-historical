@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the voip.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512001648id_/http%3A//www.voip.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102104008id_/http%3A//www.voip.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Voip](https://web.archive.org/) > Privacy Policy
+[Voip](https://voip.com/) > Privacy Policy
 
 ## Privacy Policy
 
