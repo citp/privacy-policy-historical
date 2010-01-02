@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photo-flash-maker.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174824id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo-flash-maker.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011850id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photo Flash Maker values your privacy
 
@@ -12,13 +12,17 @@ We will only collect your personal information for defined purposes. We do not d
 
 ## What information do we collect? What do we use it for?
 
-We partner with PayPal, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
+We partner with Avangate, PayPal, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
 
 Actually, We does not deal with the transaction and will not get your credit card information. We only keep your user name, email address and the info of the product you purchase. This information is kept for customer services purpose only.
 
 ## How do 3rd party credit card processors protect your information?
 
 The e-commerce partners we select are the leading companies in software distribution and online payment. 
+
+#### Avangate 
+
+Avangate is a secure ordering platform for software distribution channels. It's a member of GECAD Group , creator of RAV antivirus technology, delivering top IT solutions worldwide since 1992. Avangate was launched in 2005, Headquartered in Amsterdam, The Netherlands. [Read the Privacy Policy of Avangate](http://www.avangate.com/online-payment-solutions/privacy.php)
 
 #### PayPal
 
