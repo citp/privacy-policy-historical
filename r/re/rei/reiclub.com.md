@@ -1,124 +1,83 @@
-> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811225312id_/http%3A//reiclub.com/info.php%3Fsec%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102050457id_/http%3A//www.reiclub.com/info.php%3Fsec%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # 
 
-  
-**IMPORTANT - PLEASE READ**  
-This Privacy Policy describes the terms of our commitment to your privacy.  
-**PERSONS OR PARTIES COVERED**
+**HOW WE PROTECT YOUR PRIVACY**
 
-This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-**PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED**
+ **MINORS**
 
-In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-**PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE**
+ **POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
- _This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions._
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
-**VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY**
+ **THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
-Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website. If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-**ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED**
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
-**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'**
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
+**WHAT WE DO WITH YOUR INFORMATION**
 
-Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
 
-**ONLINE ORDERING**
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-**VISITOR EMAIL INQUIRIES**
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any 'submission' provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-**CUSTOMER EMAIL OR TESTIMONIALS**
+ **USER NAMES AND PASSWORDS**
 
-If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
+ **YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
 
-**INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS**
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that 'cookies' will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems.  
 
-**INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS**
 
-If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
+**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
 
-**INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
+ **AUTORESPONDERS**
 
-**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'**
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]reiclub.com, or sending us mail to the address listed below.  
 
-Many websites, including this one, collect information about your computer, your email address, your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
-"Cookies" is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
+**POLICY CHANGES**
 
-Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-**HOW INFORMATION MAY BE USED**
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support[at]reiclub.com and providing us with information relating to your concern.
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+You may also mail your concerns to us at the following address:
 
-**INFORMATION THAT IS NOT SHARED**
+GRQ Properties, Inc. DBA REIClub  
+402-A W. Palm Valley Blvd. #192  
+Round Rock, Texas 78664  
+USA 
 
-Credit card information or other financial information is not usually known to the website. However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies. However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
+**CALIFORNIA PRIVACY RIGHTS**
 
-**BULLETIN BOARDS AND PUBLIC FORUMS**
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]reiclub.com or write us at the following address:
 
-Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
+GRQ Properties, Inc. DBA REIClub  
+402-A W. Palm Valley Blvd. #192  
+Round Rock, Texas 78664  
+USA
 
-**SPAM**
+This privacy policy was last updated on 12-11-2009.
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
-
-**DATA SECURITY**
-
-This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
-
-**QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
-
-You may direct questions, comments or reports to: [Contact Us](https://web.archive.org/web/20070811225312id_/http%3A//reiclub.com/contact.php).
-
-**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
-
-This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
-
-**LATEST UPDATE**
-
-This Privacy Policy was last updated on December 4, 2003.
-
-**COPYRIGHT**
-
-This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and IP Management, LLC.
-
-**DISPUTES**
-
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
-
-Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller. 
-
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal. 
-
-The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
-
-**JURISDICTION AND VENUE**
-
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
-
-**APPLICABLE LAW**
-
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
-
-**COPYRIGHT AND LICENSE**
-
-This "Privacy Policy" is copyrighted by Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website. If you wish to lawfully use this Privacy Policy on your website, contact support@internetlawcompliance.com for licensing information or this website.
+Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at REIClub.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
