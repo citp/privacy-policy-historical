@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsbb.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223035620id_/http%3A//picsbb.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsbb.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102134604id_/http%3A//picsbb.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PicsBB.com » More Information » Privacy Policy
 
