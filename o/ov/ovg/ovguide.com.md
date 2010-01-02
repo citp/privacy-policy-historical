@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovguide.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101163902id_/http%3A//www.ovguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovguide.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102024215id_/http%3A//www.ovguide.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - OVGuide
 
@@ -12,4 +12,4 @@ Although OVGuide makes a very strong effort to prevent links on our site that ma
 
 When you click on a link, which takes you to another website, you assume all the risks in doing so, which is really not much different than the risk you take when clicking on a search engine results link on Google or Yahoo.
 
-If you find a link that you feel is malicious please report it to us using our [contact](https://web.archive.org/web/20091101163902id_/http%3A//www.ovguide.com/contact.html) form.
+If you find a link that you feel is malicious please report it to us using our [contact](https://web.archive.org/web/20100102024215id_/http%3A//www.ovguide.com/contact.php) form.
