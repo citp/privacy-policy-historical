@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106070418id_/http%3A//www.razoo.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102180255id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
 
-# Razoo Privacy Policy - Razoo
+# Privacy Policy - Razoo
 
 Our privacy policy is simple--we are vigilant about protecting yours. Our mission is to serve donors and provide you with the best possible experience so you can focus on your giving.
 
