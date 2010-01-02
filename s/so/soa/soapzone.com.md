@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapzone.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417052538id_/http%3A//soapzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapzone.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011129id_/http%3A//soapzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@
 
 ####  Information Automatically Logged 
 
-We use your IP address to help diagnose problems with our server, to administer our web site, and to roughly estimate the number of unique visitors per day. 
+We use your IP address to help diagnose problems with our server, to administer our web site, and to roughly estimate the number of unique visitors to the site over various time periods. 
 
 We use your browser's identification string (such as `Mozilla/4.7 (Macintosh; I; PPC)`) to help diagnose problems with page designs and coding. 
 
@@ -18,9 +18,17 @@ Our site uses cookies to store member preferences input by members in certain fo
 
 ####  Advertisers 
 
-SoapZone.com works with third parties that serve ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. To find out more about how Burst Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/release/privacy.asp>. 
+SoapZone.com works with third parties that serve ads to this site. 
 
-Ads delivered on SoapZone.com may contain cookies. While we use cookies in other parts of our web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. Likewise, our ad companies do not have access to cookies generated and accessed by SoapZone.com. 
+Ads delivered on SoapZone.com may contain cookies. While we use cookies in other parts of our web site, cookies received with advertising are collected by our ad companies, and we do not have access to this information. Likewise, our ad companies do not have access to cookies generated and accessed by SoapZone.com. 
+
+**GOOGLE advertising:**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+
+**BURST MEDIA and VALUECLICK advertising:**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ####  Registration Forms 
 
@@ -46,7 +54,4 @@ The member database is password-protected and the password list is encrypted. Th
 
 ###  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:   
-
-
-[ feedback@soapzone.com ](mailto:feedback@soapzone.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can use the feedback form at: <http://soapzone.com/doc/webmasterfeedback.html>
