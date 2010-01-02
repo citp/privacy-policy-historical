@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmoov.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923224708id_/http%3A//xmoov.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmoov.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102133648id_/http%3A//xmoov.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
