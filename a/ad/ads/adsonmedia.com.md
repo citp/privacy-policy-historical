@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsonmedia.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820060338id_/http%3A//www.adsonmedia.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsonmedia.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102164845id_/http%3A//adsonmedia.com/privacy) for the most accurate reproduction.*
 
 # Adsonmedia.com| The Leading Online Advertising network in India
 
@@ -10,7 +10,7 @@ Accordingly, we strictly adhere to all industry guidelines, and will continue to
 
 Consumer Information
 
-AdsOnMedia uses one or more third party ad serving technology to serve ads at this site and at our clients' sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this non-personally-identifiable information used to serve ads to you, please [click here](mailto:contact@adsonmedia.com).
+AdsOnMedia uses one or more third party ad serving technology to serve ads at this site and at our clients' sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this non-personally-identifiable information used to serve ads to you, please [click here](mailto:support@adsonmedia.com).
 
 Cookies and Opt Out 
 
@@ -24,16 +24,16 @@ Although we believe that cookies help enhance your experience on the Web (by not
 
 Opt Out
 
-If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may [click here](mailto:contact@adsonmedia.com).
+If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may [click here](mailto:support@adsonmedia.com).
 
 Industry Efforts to Protect Consumer Privacy
 
-AdsOnMedia is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. To review information regarding privacy practices on our AdsOnMedia Web site, please [click here](mailto:contact@adsonmedia.com). If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at [contact@adsonmedia.com](mailto:contact@adsonmedia.com). We recommend that you periodically review this Privacy Statement, as AdsOnMedia may update it from time to time.
+AdsOnMedia is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. To review information regarding privacy practices on our AdsOnMedia Web site, please [click here](mailto:support@adsonmedia.com). If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at [support@adsonmedia.com](mailto:support@adsonmedia.com). We recommend that you periodically review this Privacy Statement, as AdsOnMedia may update it from time to time.
 
 Third Party Advertising
 
-We use AdsOnMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](mailto:contact@adsonmedia.com)
+We use AdsOnMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](mailto:support@adsonmedia.com)
 
 Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
