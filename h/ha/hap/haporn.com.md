@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haporn.com privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930023805id_/http%3A//www.haporn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haporn.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102064202id_/http%3A//haporn.com/privacy.php) for the most accurate reproduction.*
 
-# Haporn.com - Privacy Policy - Free Adult Video Sharing Website
+# Free Porn & Adult Video Sharing - Sex, Porno, Tube Movies, Free XXX Porn - Privacy Policy
 
 The Way Haporn Uses Information
 
