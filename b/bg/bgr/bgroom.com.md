@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgroom.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926062646id_/http%3A//www.bgroom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgroom.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102163108id_/http%3A//www.bgroom.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to BGRoom - The no.1 Online BackGammon Software
 
