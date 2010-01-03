@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808160258id_/http%3A//novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103104113id_/http%3A//novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
 
-# novascotia.com - Privacy Policy
+# Privacy Policy
 
 **Disclaimer**  
 Some information contained within the website has been obtained by outside sources. Although every effort has been made to ensure accuracy, currency and reliability of content, the Nova Scotia Department of Tourism, Culture and Heritage accepts no responsibility for any errors or omissions, whether caused by data entry, programming error, computer malfunction or any other possible circumstance that may result in misinformation or malfunction. 
 
 Any links to other websites are suggested as sources of more information about tourism in Nova Scotia. The Nova Scotia Department of Tourism, Culture and Heritage is not an agent for, and does not recommend or endorse for any purpose, any person, or product referred to in any of these linked websites. 
 
-Nova Scotia Government Website Privacy Policy Statement
+**Nova Scotia Government Website Privacy Policy Statement**
 
  **Basic Statement  
 ** Government of Nova Scotia websites are covered by the [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm). Our privacy policy arises from that Act, other legislation, and fair information practices. 
@@ -33,6 +33,12 @@ Government websites may use cookies or tracking devices during your visit to our
 **Server Logs**  
 Government web servers automatically collect some information about a visitor's computer or other access device, such as its Internet protocol address or browser version, in their logs. This information is used in aggregate form for statistical purposes only. 
 
-**Further Information**  
+Google[novascotia.com](https://web.archive.org/) uses a variety of Google Applications, including Google Analytics, Google Earth and Google Maps, to provide users with relevant information and to enhance their online experience. Through these applications, Google collects users’ IP addresses. You are offered choices when asked for personal information, such as the ability to decline providing the information and/or refuse cookies in your browser. However, this may prevent personalized services from being provided and you may not be able to take full advantage of all the features available. 
+
+To learn more about how Google collects and stores IP address, please see [Google's Privacy Centre](http://www.google.com/privacy.html). Further information on Google Applications and Google’s policies on the protection of personal information, can be found through [Google's Privacy FAQ](http://www.google.com/privacy_faq.html).
+
+ **Further Information**  
 [Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/govt/privacy/privacypolicy.htm)  
-[Nova Scotia Government Website Privacy Policy Statement](http://www.gov.ns.ca/govt/privacy/default.htm)
+[Nova Scotia Government Website Privacy Policy Statement](http://www.gov.ns.ca/govt/privacy/)
+
+| 
