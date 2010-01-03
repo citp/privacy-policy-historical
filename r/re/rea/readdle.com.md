@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readdle.com privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811065543id_/http%3A//readdle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readdle.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103162011id_/http%3A//readdle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Readdle
 
