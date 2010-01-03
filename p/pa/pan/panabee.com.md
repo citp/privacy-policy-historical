@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panabee.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821123247id_/http%3A//www.panabee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panabee.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103092447id_/http%3A//panabee.com/privacy) for the most accurate reproduction.*
 
-# Panabee: Search Portal
+# Panabee
 
 ## Privacy Policy
 
