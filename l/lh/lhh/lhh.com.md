@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926051433id_/http%3A//www.lhh.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104000008id_/http%3A//lhh.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Lee Hecht Harrison
 
