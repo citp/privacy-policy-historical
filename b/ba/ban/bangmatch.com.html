@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bangmatch.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228110400id_/http%3A//bangmatch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bangmatch.com privacy policy that was archived on 2010-01-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100103133022id_/http%3A//bangmatch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
 	BangMatch - Meet ID verified sex seekers online for chat and more -  Privacy Policy
@@ -110,10 +110,10 @@
 		var val = jQuery.trim($(sUsername).val());
 		if (val.length == 0) {
 		    doAlert("missingUsername", 
-		        "Please enter a Username",
+		        "Please enter a Username.",
 		        {css: "bo msgBox"},
 		        [{id: "okBtn", css: "buttonRed buttonGray", style: "width:100px", value: "OK", click: "$.modal.close();" }]);
-			//alert('Please enter a Username');
+			//alert('Please enter a Username.');
 			$(sUsername).focus();
 			return false;
 		}
@@ -121,10 +121,10 @@
 		val = jQuery.trim($(sPassword).val());
 		if (val.length == 0) {
 		    doAlert("missingPassword", 
-		        "Please enter a Password",
+		        "Please enter a Password.",
 		        {css: "bo msgBox"},
 		        [{id: "okBtn", css: "buttonRed buttonGray", style: "width:100px", value: "OK", click: "$.modal.close();" }]);
-			//alert('Please enter a Password');
+			//alert('Please enter a Password.');
 			$(sPassword).focus();
 			return false;
 		}
@@ -155,6 +155,11 @@
 	}
 	
 	$(document).ready(function() {
+   
+ //  $("a").hover(function(){$(this).css("color","#ff0000 !important")},function(){$(this).css("color","")})
+    
+  //   $("input.buttonRed").hover(function(){$(this).css("color","#ff0000")},function(){$(this).css("color","")})
+   
 		var searcTxt = $("#searcTxt");
 		if(searcTxt.length > 0){
 		    searcTxt.keyfilter(/[a-z0-9]/i, null).val("")
@@ -193,10 +198,10 @@
 			if (val.length < 3) {
 				searcTxt.val(val);
 				doAlert("searchMinChar", 
-		            "Please enter at least 3 letters",
+		            "Please enter at least 3 letters.",
 		            {css: "bo msgBox"},
 		            [{id: "okBtn", css: "buttonRed", style: "width:100px", value: "OK", click: "$.modal.close();" }]);
-				//alert('Please enter at least 3 letters');
+				//alert('Please enter at least 3 letters.');
 				searcTxt.focus();
 				return false;
 			}
@@ -456,7 +461,7 @@
 
 	</script>
 	
-	<span style="visibility:hidden;display:none">IMLIVE2PR4</span>
+	<span style="visibility:hidden;display:none">IMLIVE2PR1</span>
 	    
 	
 
