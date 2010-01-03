@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmpmedica.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526004706id_/http%3A//www.cmpmedica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmpmedica.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103191801id_/http%3A//cmpmedica.com/privacy) for the most accurate reproduction.*
 
 # CMPMedica - Privacy Policy
 
@@ -8,7 +8,7 @@ If you do not agree to this Privacy Policy, please do not provide your personal 
 
 In this Privacy Policy, " **CMPMedica** " means CMP Medica Limited (registered company number:00370721). The address from which we provide these online services is: CMPMedica, Ludgate House, 245 Blackfriars Road, London SE1 9UY. 
 
-The information you provide to us will be held on [CMP Medica](http://www.cmpmedica.com/) computers that are based in the UK. [CMP Medica](http://www.cmpedica.com/) processes personal data in accordance with the Data Protection Act 1998. This Privacy Policy only relates to the Website service and does not extend to your use of the Internet outside of the Website. 
+The information you provide to us will be held on [CMP Medica](http://cmpmedica.com/) computers that are based in the UK. [CMP Medica](http://www.cmpedica.com/) processes personal data in accordance with the Data Protection Act 1998. This Privacy Policy only relates to the Website service and does not extend to your use of the Internet outside of the Website. 
 
 **DataCollection**
 
@@ -34,4 +34,4 @@ In the event of a sale, merger, consolidation, change in control, transfer of su
 
 We have taken all appropriate action to safeguard and prevent unauthorised access to personal data, to maintain data security and to ensure that the information we collect online is used only in accordance with the Data Protection Act 1998 and for the purpose(s) outlined above. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties. 
 
-For further information or to edit your personal information please contact: [pcallow@cmpmedica.com](http://www.cmpmedica.com/#mce_temp_url#)
+For further information or to edit your personal information please contact: [pcallow@cmpmedica.com](http://cmpmedica.com/#mce_temp_url#)
