@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalesurvivalkits.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330023920id_/http%3A//www.wholesalesurvivalkits.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalesurvivalkits.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103125442id_/http%3A//www.wholesalesurvivalkits.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Guardian - Privacy Policy
 
