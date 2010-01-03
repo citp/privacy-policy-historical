@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paintingsilove.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625041114id_/http%3A//www.paintingsilove.com/home/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintingsilove.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103054425id_/http%3A//www.paintingsilove.com/home/page/privacy) for the most accurate reproduction.*
 
-# Paintings I Love - Exhibit your paintings, drawings and prints for free
+# privacy
 
-###  Paintings I Love Privacy Policy
+##  Paintings I Love Privacy Policy
 
 Your privacy is important to us. We only collect the names and email addresses of those who sign up with us for signing in purposes, and we aggregate anonymous statistical information on what pages visitors access. The information we collect is not shared with or sold to other organizations for any purpose, except where it is required by law. 
 
