@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920083653id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103012038id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – SuperSaaS
 
-April 14, 2007
+At SuperSaaS we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by SuperSaaS. If you have any questions about this Policy, please feel free to contact us through the [contact form](https://web.archive.org/info/contact). 
 
-At SuperSaas we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by SuperSaaS. If you have any questions about this Policy, please feel free to contact us through the contact form at our website.
+**Last Updated: March 2009**
 
 ## Information we collect and how we use it
 
@@ -27,6 +27,10 @@ SuperSaaS only processes personal information for the purposes described in the 
 
 
 SuperSaaS processes personal information on our servers in the Netherlands and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+
+## Third-Party advertisements on the free version
+
+If you use the free version of SuperSaaS then we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 ## Choices for personal information 
 
@@ -66,4 +70,4 @@ When you use SuperSaaS services, we make good faith efforts to provide you with 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site.
+If you have any additional questions or concerns about this Policy, please feel free to [contact](https://web.archive.org/info/contact) us at any time through this web site.
