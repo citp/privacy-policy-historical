@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytickets.com.au privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104120123id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytickets.com.au privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104003040id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - MyTickets
 
