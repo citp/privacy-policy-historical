@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826172626id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103043010id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
-# MLM Brilliance
+# MLM Brilliance :: Privacy Policy
 
 Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable using our site.
 
