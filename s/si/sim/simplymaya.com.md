@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplymaya.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901015337id_/http%3A//www.simply3dworld.com/privacy_policy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymaya.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103052150id_/http%3A//www.simply3dworld.com/privacy_policy.mhtml) for the most accurate reproduction.*
 
 # Simply Maya - Video training for Maya 3D.
 
