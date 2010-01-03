@@ -1,41 +1,77 @@
-<!--The following is the downloaded HTML source of the solyndra.com privacy policy that was archived on 2009-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090318160532id_/http%3A//www.solyndra.com/Terms-Privacy/Privacy-Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solyndra.com privacy policy that was archived on 2010-01-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100103151606id_/http%3A//www.solyndra.com/Terms-Privacy/Privacy-Policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head> 
+<!DOCTYPE dir="rtl"><html><head> 
     <title>Solyndra - Privacy Policy</title>
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 		<meta name="keywords" content="Solar power, solar electricity, solar panels, commercial solar, CIGS solar, thin-film solar, Copper indium gallium selenide, photovoltaic systems">
 		<meta name="description" content="Solyndra designs and manufactures solar photovoltaic systems for the commercial rooftop market.">
 	  <link rel="stylesheet" type="text/css" href="/style/reset.css"> 
 	  <link rel="stylesheet" type="text/css" href="/style/base.css">
+      <link rel="stylesheet" type="text/css" href="/style/thickbox.css">
 		<script type="text/javascript" src="/scripts/jquery.js"></script>
 		<script type="text/javascript" src="/scripts/jquery.validate.js"></script>
 		<script type="text/javascript" src="/scripts/jquery.maskedinput.js"></script>
 		<script type="text/javascript" src="/scripts/jquery.meiomask.compressed.js"></script>
-		
-        
+		<script type="text/javascript" src="/scripts/thickbox.js"></script>
 
+
+        
+		<script type="text/javascript">
+		function makeSublist(parent,child,isSubselectOptional,childVal)
+{
+	$("body").append("<select style='display:none' id='"+parent+child+"'></select>");
+	$('#'+parent+child).html($("#"+child+" option"));
+	
+		var parentValue = $('#'+parent).attr('value');
+		$('#'+child).html($("#"+parent+child+" .sub_"+parentValue).clone());
+	
+	childVal = (typeof childVal == "undefined")? "" : childVal ;
+	$("#"+child+' option[@value="'+ childVal +'"]').attr('selected','selected');
+	
+	$('#'+parent).change( 
+		function()
+		{
+			var parentValue = $('#'+parent).attr('value');
+			$('#'+child).html($("#"+parent+child+" .sub_"+parentValue).clone());
+			if(isSubselectOptional) $('#'+child).prepend("<option value='none'> -- Select -- </option>");
+			$('#'+child).trigger("change");
+                        $('#'+child).focus();
+		}
+	);
+}
+
+		$(document).ready(function()
+	{
+		
+		makeSublist('00N80000002T0UL','00N800000032Kce', false, '1');	
+	});
+
+		</script>
 
 	</head> 
 	<body class=" Privacy-Policy Terms-Privacy ">
 		<div id="holder">
 			<div id="hd">
             <div id="languages">    
-            Language:&nbsp;
+Language&nbsp;
+            
             <a href="http://de.solyndra.com"><img src="/img/languages/de.gif" width="16" height="11" border="0" alt="View this site in German" align="absmiddle"></a>
             <a href="http://fr.solyndra.com"><img src="/img/languages/fr.gif" width="16" height="11" border="0" alt="View this site in French" align="absmiddle"></a>
             <a href="http://it.solyndra.com"><img src="/img/languages/it.gif" width="16" height="11" border="0" alt="View this site in Italian" align="absmiddle"></a>
-            <a href="http://es.solyndra.com"><img src="/img/languages/es.gif" width="16" height="11" border="0" alt="View this site in Spanish" align="absmiddle"></a>            </div>
+            <a href="http://es.solyndra.com"><img src="/img/languages/es.gif" width="16" height="11" border="0" alt="View this site in Spanish" align="absmiddle"></a> 
+            <a href="http://il.solyndra.com"><img src="/img/languages/il.gif" width="16" height="11" border="0" alt="View this site in Hebrew" align="absmiddle"></a> 
+            <a href="http://sa.solyndra.com"><img src="/img/languages/sa.gif" width="16" height="11" border="0" alt="View this site in Arabic" align="absmiddle"></a>           </div>
 			  <h2 id="logo"><a href="/"><img src="/img/solyndra-logo.gif" alt="SOLYNDRA"></a></h2>
 				<div id="nav-container">
 					<ul>
-						<li><a href="/Products/Optimized-PV">Products</a></li>
+						<li><a href="/Products/PV-Systems">Products</a></li>
 						<li><a href="/Customers">Customers</a></li>
 						<li><a href="/News">News</a></li>
 						<li><a href="/About-Us">About Us</a></li>
 						<li><a href="/Contact-Us">Contact Us</a></li>
 					</ul>
-				</div> <!-- close nav-containter -->
+		    </div> <!-- close nav-containter -->
 				<div id="login-box">
 					<p>
 					<a href="https://na6.salesforce.com/secur/login_portal.jsp?orgId=00D80000000Jxoj&amp;portalId=0608000000060m8" id="login-button"><img src="/img/login-button.png" width="10" height="10" alt="Login">&nbsp;Customer Login</a>						
@@ -45,7 +81,7 @@
 					<a href="https://na6.salesforce.com/secur/login_portal.jsp?orgId=00D80000000Jxoj&portalId=0608000000060m8" id="login-button"></a> -->
 					<!-- ><p id="worldwide"><a href="#">Worldwide</a></p>		 -->				
 				</div> <!-- close login-box -->
-			</div> <!-- close hd -->				<div id="bd">
+</div> <!-- close hd -->				<div id="bd">
 			<div id="sidebar">			
 										<ul>
 								<li><a href="/Terms-Privacy/">Terms of Use</a></li>
@@ -83,23 +119,14 @@
 
 </div><!-- closes holder -->
 	
-<div id="ft">© 2009 Solyndra, Inc.  |  <a href="/Terms-Privacy/">Terms of Use</a>  |  <a href="/Terms-Privacy/Privacy-Policy.php">Privacy Policy</a></div> 
+<div id="ft">© 2010 Solyndra, Inc.  |  <a href="/Terms-Privacy/">Terms of Use</a>  |  <a href="/Terms-Privacy/Privacy-Policy.php">Privacy Policy</a></div> 
 
 
 
 <script src="/scripts/jquery.flash.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript">       
-		$(function() {
-			$("#needflash").flash({
-			    src: "/video/solyndra_introVid.swf",
-			    width: 848,
-			    height: 297,
-					wmode: "transparent"
-			});
-		
-		});		
-	</script><script type="text/javascript" src="/scripts/swfobject.js"></script>
+<script type="text/javascript" src="/scripts/swfobject.js"></script>
 <script type="text/javascript">swfobject.embedSWF("/video/rooftop-install.swf", "Installation-Video", "480", "312", "9.0.0", "expressInstall.swf", "allowfullscreen");</script>	
+<script type="text/javascript">swfobject.embedSWF("/video/sol-corp.swf", "sol-corp", "480", "312", "9.0.0", "expressInstall.swf", "allowfullscreen");</script>	
 		<script type="text/javascript">       
 			$(function() {
 				$("#username").focus(function(){
@@ -128,4 +155,4 @@
 		pageTracker._trackPageview();
 		</script>		
 	
-</body></html>
+<select style="display:none" id="00N80000002T0UL00N800000032Kce"></select></body></html>
