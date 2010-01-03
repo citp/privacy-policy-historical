@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bgpaymail.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718000706id_/http%3A//www.bgpaymail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgpaymail.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103101605id_/http%3A//www.bgpaymail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # BGPayMail.com
-
-  |  |   
-| 
 
   
 **BGPayMail Respects Your Privacy** **Information Collected**  
@@ -16,8 +13,4 @@ BGPayMail, in the future, may make chat rooms, forums, message boards, and/or ne
 BGPayMail has security measures in place to protect the loss, misuse and alteration of the information under our control. **Children's Guidelines:**  
 We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable off-line contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. **Choice/Opt-Out:**  
 BGPayMail provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. BGPayMail gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also Contact Us and request your membership to be canceled at anytime. **Correct/Update:**  
-BGPayMail gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with BGPayMail, you can Contact Us.   
-  
----  
-[Help](https://web.archive.org/pages/help.php) | [Terms](https://web.archive.org/pages/terms.php) | [Privacy | ](https://web.archive.org/pages/privacy.php)[Contact us ](https://web.archive.org/pages/contact.php)  
-2002-2009 - BGPayMail.com
+BGPayMail gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with BGPayMail, you can Contact Us. 
