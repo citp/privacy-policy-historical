@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebategiant.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204055525id_/http%3A//www.rebategiant.com/local/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebategiant.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104004639id_/http%3A//www.rebategiant.com/local/privacy.aspx) for the most accurate reproduction.*
 
 # RebateGiant.com: Cash Back Rebates, Coupons and Discount Offers
 
