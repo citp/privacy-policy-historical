@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the education2020.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525121616id_/http%3A//education2020.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education2020.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103115501id_/http%3A//education2020.com/privacy.html) for the most accurate reproduction.*
 
 # EDUCATION 2020
 
 **EDUCATION 2020's Privacy Policy**
 
-EDUCATION 2020, A Limited Liability Company, is committed to protecting you and your family's privacy when you visit any of our family of web sites, or use our electronic services, such as product registration or technical support. EDUCATION 2020 does not require anyone to register or share personal information to visit most of our web sites. However, many of our sites and online products require registration to access content or other privileges provided. We do not knowingly collect and keep any of your personal information unless you volunteer it. In addition, we do not knowingly collect and keep personal information from children under the age of 13 without parental consent. Please review the information below to familiarize yourself with our policies on web site privacy. By visiting any EDUCATION 2020 sites, you hereby agree to all the terms set forth within this Privacy Policy and listed in the Terms of Use section. 
+EDUCATION 2020 (E2020, Inc.), is committed to protecting you and your family's privacy when you visit any of our family of web sites, or use our electronic services, such as product registration or technical support. EDUCATION 2020 does not require anyone to register or share personal information to visit most of our web sites. However, many of our sites and online products require registration to access content or other privileges provided. We do not knowingly collect and keep any of your personal information unless you volunteer it. In addition, we do not knowingly collect and keep personal information from children under the age of 13 without parental consent. Please review the information below to familiarize yourself with our policies on web site privacy. By visiting any EDUCATION 2020 sites, you hereby agree to all the terms set forth within this Privacy Policy and listed in the Terms of Use section. 
 
 **A SPECIAL NOTE FOR PARENTS:**  
 EDUCATION 2020 adheres to the Children's Online Privacy Protection Act of 1998 (COPPA) and the guidelines of the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus, Inc. Parents can help by spending time online with your children and monitoring your children's online use. Please help us protect your child's privacy by instructing them never to provide personal information on this site or any other, or within any software registration process, without your permission.
@@ -85,7 +85,7 @@ EDUCATION 2020™
 
 Attn: Customer Service
 
-4110 N. Scottsdale Road
+7303 E. Earll Dr., Suite 200
 
 Scottsdale, AZ 85251
 
