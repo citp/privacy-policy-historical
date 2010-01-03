@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2009-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090125084212id_/http%3A//www.cit.com/utility/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103192305id_/http%3A//www.cit.com/utility/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # 
 
