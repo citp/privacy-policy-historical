@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyworth.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912001208id_/http%3A//www.dailyworth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyworth.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103150939id_/http%3A//www.dailyworth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
