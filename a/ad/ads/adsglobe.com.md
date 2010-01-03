@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsglobe.com privacy policy that was archived on 2009-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090124034750id_/http%3A//www.infozeal.com/privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsglobe.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103064527id_/http%3A//www.infozeal.com/privacy_policy.do) for the most accurate reproduction.*
 
 # Infozeal - Privacy Policy
 
