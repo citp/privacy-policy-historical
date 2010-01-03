@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothingemart.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204053444id_/http%3A//www.clothingemart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingemart.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103235441id_/http%3A//www.clothingemart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clothing E Mart
 
