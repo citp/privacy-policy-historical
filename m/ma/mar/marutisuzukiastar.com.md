@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marutisuzukiastar.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411033820id_/http%3A//www.marutisuzukiastar.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutisuzukiastar.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103044017id_/http%3A//www.marutisuzukiastar.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Maruti Suzuki A-star
 
@@ -50,4 +50,4 @@ Changes to this Policy**
   
   
 ---  
-[](https://web.archive.org/web/20090411033820id_/http%3A//www.marutisuzukiastar.com/pentadrive.html)
+[](https://web.archive.org/web/20100103044017id_/http%3A//www.marutisuzukiastar.com/pentadrive.html)
