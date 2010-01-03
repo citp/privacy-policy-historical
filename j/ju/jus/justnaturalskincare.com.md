@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103092810id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy and Security at JustNaturalSkinCare website
 
@@ -85,7 +85,7 @@ _**
 
 If you have questions we are here to help. Leave us a detailed e-mail message by clicking   
 here [**COMMENTS / QUESTIONS  
-**](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/questions-ask-our-experts.html) We'll respond as  soon as possible to help you with your concerns.  
+**](https://web.archive.org/web/20100103092810id_/http%3A//www.justnaturalskincare.com/questions-ask-our-experts.html) We'll respond as  soon as possible to help you with your concerns.  
 
 
 **_Thank you for coming to visit._** _   
@@ -99,7 +99,7 @@ Copyright © 1999-2008 JustNatural® LLC
 All Rights Reserved  
 
 
-[](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20100103092810id_/http%3A//www.justnaturalskincare.com/index.html)
 
 _____________________________________________________________________________________  
 
@@ -112,7 +112,7 @@ ________________________________________________________________________________
 
 [](http://order.store.yahoo.net/cgi-bin/wg-order?yhst-39215427130365)
 
-[](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20100103092810id_/http%3A//www.justnaturalskincare.com/index.html)
 
 All UPS Ground Shipping  $5.99  
 
@@ -122,3 +122,5 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________  
 
+
+[](https://web.archive.org/web/20100103092810id_/http%3A//www.justnaturalskincare.com/about-us/made-in-the-USA.html)
