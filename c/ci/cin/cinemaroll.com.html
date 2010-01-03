@@ -1,50 +1,128 @@
-<!--The following is the downloaded HTML source of the cinemaroll.com privacy policy that was archived on 2009-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420033407id_/http%3A//www.cinemaroll.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinemaroll.com privacy policy that was archived on 2010-01-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100103031501id_/http%3A//cinemaroll.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Cinemaroll :: Privacy</title>
-<link href="http://s3.amazonaws.com/stanza/readers/rstyles_all.css" rel="stylesheet" type="text/css">
-<link href="/rstyles.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="alternate" type="application/rss+xml" href="">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" http-equiv="description" content="CinemarollPrivacy">
-<meta name="keywords" http-equiv="keywords" content="Cinemaroll, Privacy">
-<script language="javascript" type="text/javascript">
-resource_url = 'http://s3.amazonaws.com/stanza';
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="">
+<meta name="generator" content="WordPress 2.8.4"><!-- Please leave for stats -->
+
+<title>Privacy Policy | Cinemaroll</title>
+
+<link rel="stylesheet" href="http://cinemaroll.com/wp-content/themes/cinemaroll/style.css" type="text/css" media="screen">
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://cinemaroll.com/wp-content/themes/cinemaroll/ie6fix.css" type="text/css" media="screen" />
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Cinemaroll RSS Feed" href="http://cinemaroll.com/feed/">
+
+<script type="text/javascript" src="http://cinemaroll.com/wp-content/themes/cinemaroll/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://cinemaroll.com/wp-content/themes/cinemaroll/js/jquery-init.js"></script>
+
+<link rel="pingback" href="http://cinemaroll.com/xmlrpc.php">	
+
+<link rel="alternate" type="application/rss+xml" title="Cinemaroll » Privacy Policy Comments Feed" href="http://cinemaroll.com/privacy-policy/feed/">
+	<link rel="icon" href="http://cinemaroll.com/">
+	<link rel="shortcut icon" href="http://cinemaroll.com/">
+<script type="text/javascript" src="http://cinemaroll.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+<script type="text/javascript">
+//<![CDATA[
+function doILikeIt( website_channel_article_id,blog_id,post_id )
+{
+   document.getElementById('iLikeItLinkDiv').innerHTML = '';
+   document.getElementById('iLikeItNumber').innerHTML = '<img src="http://cinemaroll.com/wp-content/themes/cinemaroll/images/i-like-it-load.gif" />';
+   var mysack = new sack( 
+       "http://cinemaroll.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "website_channel_article_id", website_channel_article_id );
+  mysack.setVar( "blog_id", blog_id );
+  mysack.setVar( "post_id", post_id );
+  mysack.setVar( "results_div_id", "iLikeItNumber" );
+  mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
 </script>
-<script language="javascript" type="text/javascript" src="http://s3.amazonaws.com/stanza/IEtoW3C-loader.js"></script>
-<script language="javascript" type="text/javascript" src="/javafuncs.php"></script>
-<script language="javascript" type="text/javascript" src="/acf.php"></script>
-<script language="javascript" type="text/javascript" src="/ajaxView.php"></script>
-<script language="javascript" type="text/javascript">
-antiMalkar = {adLeaderboard: true, adNav336: true, adNav125: true};
+<script type="text/javascript" src="/wp-content/mu-plugins/w4l/acf.js"></script><script type="text/javascript" src="/wp-content/mu-plugins/w4l/antimalkar.js"></script><script type="text/javascript">window.google_analytics_uacct = "UA-1488967-14";</script><style type="text/css" media="screen">
+
+/* Begin Contact Form ][ CSS */
+.contactform {
+	position: static;
+	overflow: hidden;
+}
+
+.contactleft {
+	width: 25%;
+	text-align: right;
+	clear: both;
+	float: left;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+    font-weight: bold;
+}
+
+.contactright {
+	width: 70%;
+	text-align: left;
+	float: right;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contacterror {
+	border: 2px solid #ff0000;
+}
+/* End Contact Form ][ CSS */
+
+	</style>
+
+
+<!-- all in one seo pack 1.4.6.15 [418,460] -->
+<meta name="description" content="1. General . a. Cinemaroll regards the privacy of your personal information very seriously. This Privacy Policy describes the manner in which Cinemaroll">
+<!-- /all in one seo pack -->
+<script type="text/javascript">
+//<![CDATA[
+function showTriondSignupForm()
+{
+   var mysack = new sack( 
+       "http://cinemaroll.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+
+  mysack.execute = 0;
+  mysack.method = 'GET';
+  mysack.onCompletion = function() {document.getElementById("triond-signup-div").innerHTML = mysack.response;};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
 </script>
 
-<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cemail&amp;charset=utf-8&amp;services=facebook%2Cdigg%2Cstumbleupon%2Cdelicious%2Creddit%2Cblinklist%2Cnewsvine%2Cfurl%2Ctailrank%2Cmagnolia%2Cyahoo_myweb%2Cgoogle_bmarks%2Ctechnorati%2Cwindows_live%2Cblogmarks&amp;style=default&amp;publisher=d0691ed4-d9cb-4f64-ba1a-0e1b3ef4fd1f"></script>
+<!--
+	generated because: No batcache item found
+	67e34c0f8b5fd24fc2f227959101e8ed generated in 1.977 seconds
+	38340 bytes batcached for 300 seconds
+-->
 </head>
-<body style="text-align:center;">
-<div align="center" id="mainDiv">
-<img src="/CntImp.php?home_channel_ID=1034&amp;rand=ae3de329e2656906ffb71d2d771ae5b1" width="1" height="1" alt="" align="left"><table class="mainTable" cellpadding="0" cellspacing="0" border="0" width="960">
 
-	<!-- logo + banner row -->
-	<tbody><tr>
-		<td class="topRowCell">
-			<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td class="logoCell"><a href="http://www.cinemaroll.com">
-				<img src="/images/logo.png" border="0" alt="">				
-				</a></td>
-				<td width="740" class="leaderBoardCell" id="adLeaderboardWrapper">
-				
-				<div name="adLeaderboard" id="adLeaderboard">
+<body>
+
+<div id="leaderboard" style="display: block;">
+	
+<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=597&amp;target=_blank");
-   document.write ("&clr_link=0800ab&clr_title=000000&clr_bg=dedede&clr_border=7f88a1&clr_text=000000&source=acf=__wc=__wca_id=__hc=&kc_decode=&kcm_decode=&kcl_decode=&ksp_decode=");
+   document.write ("?zoneid=597");
+   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc"));
    document.write ('&amp;cb=' + m3_r);
    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
    document.write ("&amp;loc=" + escape(window.location));
@@ -52,177 +130,199 @@ antiMalkar = {adLeaderboard: true, adNav336: true, adNav125: true};
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=597&amp;target=_blank&amp;clr_link=0800ab&amp;clr_title=000000&amp;clr_bg=dedede&amp;clr_border=7f88a1&amp;clr_text=000000&amp;source=acf=__wc=__wca_id=__hc=&amp;kc_decode=&amp;kcm_decode=&amp;kcl_decode=&amp;ksp_decode=&amp;cb=89280371332&amp;loc=https%3A//web.archive.org/web/20090420033407id_/http%253A//www.cinemaroll.com/privacy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=a0d39d74&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=597&amp;n=a0d39d74' border='0' alt='' /></a></noscript>
-					<script language="javascript" type="text/javascript">
-						fireAd("adLeaderboard");
-					</script>
-					</div>
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
+//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=597&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=&amp;cb=13066785127&amp;loc=https%3A//web.archive.org/web/20100103031501id_/http%3A//cinemaroll.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=801c64&amp;cb=847e59c9fa415365e976b84c5ca1af0e' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=597&amp;cb=847e59c9fa415365e976b84c5ca1af0e&amp;n=801c64' border='0' alt='' /></a></noscript>	<script type="text/javascript">antimalkar_detect('leaderboard')</script></div>
+
+<div id="wrapper">
+	
+	<div id="header">
+					<h3 id="logo"><a href="http://cinemaroll.com" title="Cinemaroll"><span>Cinemaroll</span></a></h3>
+				
+		<div id="header-right">
+			<div id="search">
+				<p>Search Cinemaroll:</p>
+				 
+				<form method="get" id="searchform" action="http://cinemaroll.com/"> 
+					<input type="text" value="Type keywords and hit Enter to search" name="s" id="s" onblur="if (this.value == '') {this.value = 'Type keywords and hit Enter to search';}" onfocus="if (this.value == 'Type keywords and hit Enter to search') {this.value = '';}"> 
+					<input type="hidden" id="searchsubmit"> 
+				</form>
+			</div>
+			<div id="subscribe">
+				<p><a href="http://cinemaroll.com/feed/">Receive our RSS Feed</a></p>
+			</div>
+		</div>
+	</div><!--  #header -->
+
+	<div id="mainmenu">
+		<ul>			
+				<li class="cat-item cat-item-36649"><a href="http://cinemaroll.com/category/cinemarolling/" title="View all posts filed under Cinemarolling">Cinemarolling</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://cinemaroll.com/category/drama/" title="View all posts filed under Drama">Drama</a>
+</li>
+	<li class="cat-item cat-item-2097"><a href="http://cinemaroll.com/category/horror/" title="View all posts filed under Horror">Horror</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://cinemaroll.com/category/action/" title="View all posts filed under Action">Action</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://cinemaroll.com/category/comedy/" title="View all posts filed under Comedy">Comedy</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://cinemaroll.com/category/science-fiction/" title="View all posts filed under Science Fiction">Science Fiction</a>
+</li>
+			<li id="allcats-handle"><a href="javascript:void(0);">Categories ∨</a></li>
+		</ul>
+	</div>
+	<div id="filmstrip"></div>
+
+	<div id="container">
+
+	<div id="content" class="leftcol">
+
+				
+		<div id="post-13" class="post">			
+			<div class="post-inner">
+			
+				<h1 id="page-title">Privacy Policy</h1>
+				<div id="post-content">
+					<p>
+1.  General .</p>
+<p>a.  Cinemaroll regards the privacy of your personal information very seriously. This Privacy Policy describes the manner in which Cinemaroll treats and uses personal information that Cinemaroll will receive and collect from you.</p>
+<p>b.  Personal information refers to information about you that is personally identifiable, as further detailed herein, that is provided by you and which is not otherwise publicly available.</p>
+<p>c.  Please review the ter ms of this Privacy Policy carefully. By accepting the Privacy Policy and the Cinemaroll Standard Ter ms of Use you shall be deemed to have expressly consented to the use of your personal information in the manner described herein.</p>
+<p>d.  This policy may be revised by Cinemaroll from time to time, and at any time. Any material changes will be effective only after Cinemaroll will provide prior notice of the amended Privacy Policy at least 10 days in advance. Notice of the amended Privacy Policy may be given by general notice on the Web-Site ( http://www.cinemaroll.com ) (the “ Site ”) or by e-mail. Any amended Privacy Policy will be clearly posted on the Site. If such changes will result in the use or disclosure of your personal information in a manner materially different from that stated at the time Cinemaroll collected the information, you will have choice whether or nor Cinemaroll shall use or disclose your information in accordance with the amended Privacy Policy. Notice of your choice not to disclose your information is to be delivered in the manner instructed on the Site.</p>
+<p>e.  This Privacy Policy applies to the practices of Cinemaroll and its affiliates only. Other Web-Sites to which the Site is linked may be governed by their own privacy policies and statements, and Cinemaroll is not and shall not be responsible for their operation, including but not limited to their information practices. Submission of information to or through these third party Web-Sites should be made by you after reviewing the privacy policies and statements of these sites.</p>
+<p>2.  Information Collected .</p>
+<p>a.  Cinemaroll collects personal information when you register with Cinemaroll for the purpose of receiving Cinemaroll’s newsletters.. Cinemaroll may also collect personal information and/or install a “cookie” on your personal computer when you use, access or logon other products or services provided by Cinemaroll, when you visit pages of certain partners of Cinemaroll, and when you enter certain links or other promotional features on the Site.</p>
+<p>b.  Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Cinemaroll may request.</p>
+<p>c.  The information collected by Cinemaroll is used primarily for the delivery of Cinemaroll newsletters, but may be used for other general purposes, such as trying to understand user preferences; customize promotional and advertising content users see;; improve services provided; contact users</p>
+<p>d.  Cinemaroll may offer, from time to time, optional questionnaires, surveys and user services correspondences for the purpose of collecting information assessing users’ interests and needs (“Informative Data Requests”). Any use of any personal information collected in such Informative Date Requests shall be explained in advance and in detail.</p>
+<p>3.  Use and Disclosure of Information .</p>
+<p>a.  Cinemaroll collects, stores and processes your personal information on serves located in San Francisco, CA, USA. Cinemaroll shall use your personal information for such purposes stated above in Section 2(e);</p>
+<p>b.  Unless otherwise expressly provided herein Cinemaroll will not sell, lease or otherwise share or provide your personal information to any third parties, without your express permission. Notwithstanding the above, there may be certain circu ms tances in which some of your personal information will be shared with third parties, under strict restrictions, as further provided in this Privacy Policy.</p>
+<p>c.  Cinemaroll may disclose personal information collected as provided herein:</p>
+<p>(1)  Cinemaroll shall disclose information that it, in good faith, believes is appropriate to cooperate in investigations of suspected fraud or other illegal activity, situations involving potential threat to the physical safety of any person, or to conduct investigations of violation of its Publishing Agreement; or any such similar information.</p>
+<p>(2)  Cinemaroll shall disclose information in response to a subpoena, warrant, court order, levy, attachment, or any comparable or applicable process; or otherwise to establish or exercise Cinemaroll’s legal rights or to defend against legal clai ms .</p>
+<p>(3)  Cinemaroll may share information with or disclose information to its employees, officers, directors, consultants, advisors, subsidiaries, affiliates, business partners, joint ventures, provided such disclosure is on a need-to-know basis, and subject to confidentiality provisions.</p>
+<p>(4)  Cinemaroll may share aggregated statistic data provided such information is not connected with personally identifiable data.</p>
+<p>(5)  In the event that v is merged with or acquired by another entity, the successor entity will have access to the information maintained by Cinemaroll. In such case the successor entity shall continue to be bound by the provisions of this Privacy Policy, unless and until amended in accordance with the provisions in this Privacy Policy.</p>
+<p>(6) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>.</p>
+<p>4.  Communications .</p>
+<p>a.  Cinemaroll will generally communicate with its users via email. Cinemaroll further reserves the right to use your email address to send you other communications, such as periodic newsletters, user questionnaires and surveys, and any other communications.</p>
+<p>b.  You will be able to choose whether to receive these communications, in whole or in part, upon completing a standard registration form, or at any time thereafter, by changing your preferences as instructed on the Site.</p>
+<p>5.  Changing your Information .</p>
+<p>You can review the personal information you have provided us and make any desired changes to such information including deleting information, at any time, by changing the preferences and information as instructed on the Site.</p>
+<p>6.  Security .</p>
+<p>Cinemaroll is committed to handling your personal information with the highest standards of security information. Cinemaroll shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
+<p>7.  Contact .</p>
+<p>If you have any questions about this Privacy Policy or your dealings with Cinemaroll, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@cinemaroll.com .</p>
+				</div>
+				
+			</div>
+		</div><!-- .post -->
+
+	</div><!-- #content -->
+
+		<div id="sidebar" class="rightcol">
+	
+		<div class="sidepanel" id="allcats" style="display: none;">
+			<h3>All Categories</h3>
+			<ul>			
+					<li class="cat-item cat-item-79"><a href="http://cinemaroll.com/category/action/" title="View all posts filed under Action">Action</a>
+</li>
+	<li class="cat-item cat-item-1189"><a href="http://cinemaroll.com/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="http://cinemaroll.com/category/animation/" title="View all posts filed under Animation">Animation</a>
+</li>
+	<li class="cat-item cat-item-36649"><a href="http://cinemaroll.com/category/cinemarolling/" title="View all posts filed under Cinemarolling">Cinemarolling</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://cinemaroll.com/category/comedy/" title="View all posts filed under Comedy">Comedy</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://cinemaroll.com/category/documentary/" title="View all posts filed under Documentary">Documentary</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://cinemaroll.com/category/drama/" title="View all posts filed under Drama">Drama</a>
+</li>
+	<li class="cat-item cat-item-1449"><a href="http://cinemaroll.com/category/family/" title="View all posts filed under Family">Family</a>
+</li>
+	<li class="cat-item cat-item-1301"><a href="http://cinemaroll.com/category/fantasy/" title="View all posts filed under Fantasy">Fantasy</a>
+</li>
+	<li class="cat-item cat-item-2059"><a href="http://cinemaroll.com/category/history/" title="View all posts filed under History">History</a>
+</li>
+	<li class="cat-item cat-item-2097"><a href="http://cinemaroll.com/category/horror/" title="View all posts filed under Horror">Horror</a>
+</li>
+	<li class="cat-item cat-item-5069"><a href="http://cinemaroll.com/category/musical/" title="View all posts filed under Musical">Musical</a>
+</li>
+	<li class="cat-item cat-item-1413"><a href="http://cinemaroll.com/category/mystery/" title="View all posts filed under Mystery">Mystery</a>
+</li>
+	<li class="cat-item cat-item-1621"><a href="http://cinemaroll.com/category/romance/" title="View all posts filed under Romance">Romance</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://cinemaroll.com/category/science-fiction/" title="View all posts filed under Science Fiction">Science Fiction</a>
+</li>
+	<li class="cat-item cat-item-2401"><a href="http://cinemaroll.com/category/thriller/" title="View all posts filed under Thriller">Thriller</a>
+</li>
+	<li class="cat-item cat-item-3741"><a href="http://cinemaroll.com/category/war/" title="View all posts filed under War">War</a>
+</li>
+			
+			</ul>		
+		</div>
+		
+		<div id="ad300" style="display: block;">
+			
+<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=504");
+   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc"));
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=504&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=&amp;cb=55185441870&amp;loc=https%3A//web.archive.org/web/20100103031501id_/http%3A//cinemaroll.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=334807&amp;cb=cec1a4d547fca84247b310c9ca2dedd3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=504&amp;cb=cec1a4d547fca84247b310c9ca2dedd3&amp;n=334807' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad300')</script>		</div>
+	
+		<div class="sidepanel" id="popularposts">
+			<h3>Popular Articles</h3>	
+			<ul class="sidebar-list">
+				<li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/science-fiction/avatar-unveiling-its-stunning-hidden-messages/" title="Avatar: Unveiling Its Stunning Hidden Messages"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/01/21/103262.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/science-fiction/avatar-unveiling-its-stunning-hidden-messages/" title="Avatar: Unveiling Its Stunning Hidden Messages">Avatar: Unveiling Its Stunning Hidden Messages</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/avatar-6/" title="" avatar""=""><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/01/21/103262.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/avatar-6/" title="" avatar""="">"Avatar"</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/truth-behind-three-idiots/" title="Truth Behind Three Idiots"><img src="http://s3.amazonaws.com/readers/writinghood/2009/06/10/1044443.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/truth-behind-three-idiots/" title="Truth Behind Three Idiots">Truth Behind Three Idiots</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/ten-best-prison-movies/" title="Ten Best Prison Movies"><img src="http://s3.amazonaws.com/readers/socyberty/2008/01/13/99668.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/ten-best-prison-movies/" title="Ten Best Prison Movies">Ten Best Prison Movies</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/vhs-movies-that-are-rare-and-valuable/" title="Vhs Movies That are Rare and Valuable"><img src="http://s3.amazonaws.com/readers/cinemaroll/2009/03/02/765897.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/vhs-movies-that-are-rare-and-valuable/" title="Vhs Movies That are Rare and Valuable">Vhs Movies That are Rare and Valuable</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/war/rambo/" title="Rambo"><img src="http://s3.amazonaws.com/readers/socyberty/2009/07/16/1168101.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/war/rambo/" title="Rambo">Rambo</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/avatar-james-cameron-is-a-genius/" title="Avatar - James Cameron is a Genius!"><img src="http://s3.amazonaws.com/readers/gameolosophy/2009/06/06/1006973.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/avatar-james-cameron-is-a-genius/" title="Avatar - James Cameron is a Genius!">Avatar - James Cameron is a Genius!</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/science-fiction/final-frontier-a-personal-reflection-of-star-trek-movie/" title="Final Frontier - a Personal Reflection of Star Trek Movie"><img src="http://s3.amazonaws.com/readers/bookstove/2009/06/17/1068035.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/science-fiction/final-frontier-a-personal-reflection-of-star-trek-movie/" title="Final Frontier - a Personal Reflection of Star Trek Movie">Final Frontier - a Personal Reflection of Star Trek Movie</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/science-fiction/avatar-native-americans-and-human-stereotyping/" title="Avatar, Native Americans, and Human Stereotyping"><img src="http://s3.amazonaws.com/readers/cinemaroll/2009/01/02/578951.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/science-fiction/avatar-native-americans-and-human-stereotyping/" title="Avatar, Native Americans, and Human Stereotyping">Avatar, Native Americans, and Human Stereotyping</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/roman-polanski-thanks-great-support/" title="Roman Polanski Thanks Great Support"><img src="http://s3.amazonaws.com/readers/authspot/2007/03/18/21597.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/roman-polanski-thanks-great-support/" title="Roman Polanski Thanks Great Support">Roman Polanski Thanks Great Support</a></div><div style="clear:both;"></div></li>			</ul>
+		</div>
+		
+		
+	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+	<div id="triond-signup-div" style="display:none">
+	</div>
+	<script type="text/javascript">
+	if(triond_user_logged_in != undefined)
+	{
+		if(!triond_user_logged_in)
+		{
+			document.getElementById("triond-signup-div").style.display = "block";
+			showTriondSignupForm();
+		}
+	}
+	</script>
 	
 
-	<!-- main row -->
-	<tr>
-		<td class="mainRowCell">
-			<table class="mainRowTable" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<!-- left column -->
-				<td class="leftColumnCell">
-				<table class="channelArticlesTable" cellpadding="0" cellspacing="0" border="0">
+		<div id="ad160Wrapper">
+			<div style="margin-bottom: 10px; width:120px; float:left;">
+				<script src="http://s3.smrtlnks.com/users/GenerateBlueLinks.php?feedUrl=http%3A%2F%2Frss.netflix.com%2FNewReleasesRSS&amp;title=Netflix%20New%20Releases&amp;skin=white&amp;width=120&amp;numItems=4&amp;type=list&amp;display=thumbs&amp;xsl=netflix.xsl&amp;blueAmazonId=quazen-20&amp;blueCJId=2068266" type="text/javascript"></script>		
+			</div>
+			<!-- 
+			<div id="ad120">
+							</div>
+			 -->
+			<div id="ad160" style="display: block;">
 				
-								
-				<tbody><tr>
-	<td class="topNavCell">
-	<a class="navBarLink" href="/">Cinemaroll</a><span class="navBarSelected">&nbsp;&gt;&nbsp;Privacy Policy</span>
-	</td>
-</tr>				
+<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 
-								
-
-				<tr>
-	<td class="captionWithBorder">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-		<td class="pageTitleCell">
-			<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td class="pageTitleInnerImgCell"><img src="/images/arrow-title.gif"></td>
-				<td class="pageTitleInnerCell"><h1 class="channelCaption">Privacy Policy</h1></td>
-			</tr>
-			</tbody></table>
-		</td>
-		</tr>
-	</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-	<div id="uagreediv">
-		  <p>1.&nbsp; <strong>General </strong>. </p>
-		  <p style="padding-left:20px; ">a.&nbsp; Cinemaroll regards the privacy of your personal information very seriously. This Privacy Policy describes the manner in which Cinemaroll treats and uses personal information that Cinemaroll will receive and collect from you. </p>
-		  <p style="padding-left:20px; ">b.&nbsp; Personal information refers to information about you that is personally identifiable, as further detailed herein, that is provided by you and which is not otherwise publicly available. </p>
-		  <p style="padding-left:20px; ">c.&nbsp; Please review the ter ms of this Privacy Policy carefully. By accepting the Privacy Policy and the Cinemaroll Standard Ter ms of Use you shall be deemed to have expressly consented to the use of your personal information in the manner described herein. </p>
-		  <p style="padding-left:20px; ">d.&nbsp; This policy may be revised by Cinemaroll from time to time, and at any time. Any material changes will be effective only after Cinemaroll will provide prior notice of the amended Privacy Policy at least 10 days in advance. Notice of the amended Privacy Policy may be given by general notice on the Web-Site ( <a href="http://www.cinemaroll.com/">http://www.cinemaroll.com </a>) (the “ <strong>Site </strong>”) or by e-mail. Any amended Privacy Policy will be clearly posted on the Site. If such changes will result in the use or disclosure of your personal information in a manner materially different from that stated at the time Cinemaroll collected the information, you will have choice whether or nor Cinemaroll shall use or disclose your information in accordance with the amended Privacy Policy. Notice of your choice not to disclose your information is to be delivered in the manner instructed on the Site. </p>
-		  <p style="padding-left:20px; ">e.&nbsp; This Privacy Policy applies to the practices of Cinemaroll and its affiliates only. Other Web-Sites to which the Site is linked may be governed by their own privacy policies and statements, and Cinemaroll is not and shall not be responsible for their operation, including but not limited to their information practices. Submission of information to or through these third party Web-Sites should be made by you after reviewing the privacy policies and statements of these sites. </p>
-		  <p>2.&nbsp; <strong>Information Collected </strong>. </p>
-		  <p style="padding-left:20px; ">a.&nbsp; Cinemaroll collects personal information when you register with Cinemaroll for the purpose of receiving Cinemaroll's newsletters.. Cinemaroll may also collect personal information and/or install a "cookie" on your personal computer when you use, access or logon other products or services provided by Cinemaroll, when you visit pages of certain partners of Cinemaroll, and when you enter certain links or other promotional features on the Site. </p>
-		  <p style="padding-left:20px; ">b.&nbsp; Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Cinemaroll may request. </p>
-		  <p style="padding-left:20px; ">c.&nbsp; The information collected by Cinemaroll is used primarily for the delivery of Cinemaroll newsletters, but may be used for other general purposes, such as trying to understand user preferences; customize promotional and advertising content users see;; improve services provided; contact users </p>
-		  <p style="padding-left:20px; ">d.&nbsp; Cinemaroll may offer, from time to time, optional questionnaires, surveys and user services correspondences for the purpose of collecting information assessing users' interests and needs (“Informative Data Requests”). Any use of any personal information collected in such Informative Date Requests shall be explained in advance and in detail. </p>
-		  <p>3.&nbsp; <strong>Use and Disclosure of Information </strong>. </p>
-		  <p style="padding-left:20px; ">a.&nbsp; Cinemaroll collects, stores and processes your personal information on serves located in San Francisco, CA, USA. Cinemaroll shall use your personal information for such purposes stated above in Section 2(e); </p>
-		  <p style="padding-left:20px; ">b.&nbsp; Unless otherwise expressly provided herein Cinemaroll will not sell, lease or otherwise share or provide your personal information to any third parties, without your express permission. Notwithstanding the above, there may be certain circu ms tances in which some of your personal information will be shared with third parties, under strict restrictions, as further provided in this Privacy Policy. </p>
-		  <p style="padding-left:20px; ">c.&nbsp; Cinemaroll may disclose personal information collected as provided herein: </p>
-		  <p style="padding-left:40px; ">(1)&nbsp; Cinemaroll shall disclose information that it, in good faith, believes is appropriate to cooperate in investigations of suspected fraud or other illegal activity, situations involving potential threat to the physical safety of any person, or to conduct investigations of violation of its Publishing Agreement; or any such similar information. </p>
-		  <p style="padding-left:40px; ">(2)&nbsp; Cinemaroll shall disclose information in response to a subpoena, warrant, court order, levy, attachment, or any comparable or applicable process; or otherwise to establish or exercise Cinemaroll's legal rights or to defend against legal clai ms . </p>
-		  <p style="padding-left:40px; ">(3)&nbsp; Cinemaroll may share information with or disclose information to its employees, officers, directors, consultants, advisors, subsidiaries, affiliates, business partners, joint ventures, provided such disclosure is on a need-to-know basis, and subject to confidentiality provisions. </p>
-		  <p style="padding-left:40px; ">(4)&nbsp; Cinemaroll may share aggregated statistic data provided such information is not connected with personally identifiable data. </p>
-		  <p style="padding-left:40px; ">(5)&nbsp; In the event that v is merged with or acquired by another entity, the successor entity will have access to the information maintained by Cinemaroll. In such case the successor entity shall continue to be bound by the provisions of this Privacy Policy, unless and until amended in accordance with the provisions in this Privacy Policy. </p>
-		  <p>4.&nbsp; <strong>Communications </strong>. </p>
-		  <p style="padding-left:20px; ">a.&nbsp; Cinemaroll will generally communicate with its users via email. Cinemaroll further reserves the right to use your email address to send you other communications, such as periodic newsletters, user questionnaires and surveys, and any other communications. </p>
-		  <p style="padding-left:20px; ">b.&nbsp; You will be able to choose whether to receive these communications, in whole or in part, upon completing a standard registration form, or at any time thereafter, by changing your preferences as instructed on the Site. </p>
-		  <p>5.&nbsp; <strong>Changing your Information </strong>. </p>
-		  <p>You can review the personal information you have provided us and make any desired changes to such information including deleting information, at any time, by changing the preferences and information as instructed on the Site. </p>
-		  <p>6.&nbsp; <strong>Security </strong>. </p>
-		  <p>Cinemaroll is committed to handling your personal information with the highest standards of security information. Cinemaroll shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly. </p>
-		  <p>7.&nbsp; <strong>Contact </strong>. </p>
-		  <p>If you have any questions about this Privacy Policy or your dealings with Cinemaroll, you can contact us at: 1-800-671-1860 (USA) Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@www.cinemaroll.com . </p>
-	  </div>
-
-	</td>
-
-</tr>				
-				</tbody></table>
-				</td>
-				
-			
-				<!-- right column -->
-				<td class="rightColumnCell">
-				<table class="rightColumnTable" cellpadding="0" cellspacing="0" border="0">
-					
-										<tbody><tr>
-						<td class="categoriesCell">
-						<table class="categoriesTable" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td class="categoriesTitle">Inside Cinemaroll</td>
-						</tr>
-						<tr>
-							<td class="categoriesNamesCell">
-							<h2 style="display: inline;"><a class="navCategoryLink" href="/Action/index.1038">Action</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Adventure/index.1043">Adventure</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Animation/index.1047">Animation</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Cinemarolling/index.1035">Cinemarolling</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Comedy/index.1037">Comedy</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Documentary/index.1042">Documentary</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Drama/index.1036">Drama</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Family/index.1350">Family</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Fantasy/index.1039">Fantasy</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/History/index.1049">History</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Horror/index.1041">Horror</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Musical/index.1051">Musical</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Mystery/index.1046">Mystery</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Romance/index.1045">Romance</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Science-Fiction/index.1044">Science Fiction</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/Thriller/index.1040">Thriller</a></h2>&nbsp;/  <h2 style="display: inline;"><a class="navCategoryLink" href="/War/index.1050">War</a></h2>							</td>
-						</tr>
-						</tbody></table>
-						</td>
-					</tr>
-			  
-					<tr>
-		<td class="rightNavCell">
-			<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td class="searchboxCell">
-			<!-- SiteSearch Google -->
-			
-<div id="ysrchForm" style=" margin:0 auto;
-                               padding:0px; 
-                               position:relative;
-                             ">
-
-<form id="searchBoxForm_undefined" action="http://search.yahoo.com/search" style="padding:0px;margin:0px;">
-                        
-<input name="ei" value="UTF-8" type="hidden">
-<input name="fr" value="ystg" type="hidden">
-
-<ul style="color:#FFFFFF;
-           font:11px/11px normal Arial, Helvetica, sans-serif;
-	   margin:0;
-	   padding:0;
-	   text-align:left;
-	   list-style-type:none;">
-	 
-<li style="display:inline;">
-	<input type="text" id="searchTerm" onfocus="this.style.background='#fff';" onblur="if(this.value=='')this.style.background='#fff url(http://us.i1.yimg.com/us.yimg.com/i/us/sch/gr/horiz_pwrlogo_red2.gif) 3px center  no-repeat'" name="p" style=" margin:0px; width:200px; border:1px solid #7E9DB9; color:#666666; height:18px; background:#fff url(http://us.i1.yimg.com/us.yimg.com/i/us/sch/gr/horiz_pwrlogo_red2.gif) 3px center no-repeat; position:relative;">
-</li>
-
-<li style="display:inline;">
-	<input type="submit" id="btn_undefined" value="Search">
-</li>
-
-<br>
-
-<li style="display:inline;">
-	<input name="vs" id="web_radio" value="" type="radio" style="vertical-align:middle;">
-	<label for="web_radio" style="display:inline;vertical-align:middle;color:#0800ab;">Web</label>
-</li>
-
-<li style="display:inline;">
-	<input name="vs" id="site_radio" value="XcinemarollYZ.com" checked="checked" type="radio" style="vertical-align:middle;">
-	<label for="site_radio" style="display:inline;vertical-align:middle;color:#0800ab;">Cinemaroll</label>
-</li>
-
-</ul>
-</form>
-</div>
-			<!-- SiteSearch Google -->
-			</td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>					
-										<tr>
-						<td class="rightNavCell">
-							<table class="rightNavBannerTable" cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td name="adNav336Wrapper" id="adNav336Wrapper">
-								<div name="adNav336" id="adNav336" style="text-align: center">
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=504&amp;target=_blank");
-   document.write ("&clr_link=0800ab&clr_title=000000&clr_bg=dedede&clr_border=7f88a1&clr_text=000000&source=acf=__wc=__wca_id=__hc=&kc_decode=&kcm_decode=&kcl_decode=&ksp_decode=");
+   document.write ("?zoneid=505");
+   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc"));
    document.write ('&amp;cb=' + m3_r);
    if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
    document.write ("&amp;loc=" + escape(window.location));
@@ -230,202 +330,130 @@ antiMalkar = {adLeaderboard: true, adNav336: true, adNav125: true};
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=504&amp;target=_blank&amp;clr_link=0800ab&amp;clr_title=000000&amp;clr_bg=dedede&amp;clr_border=7f88a1&amp;clr_text=000000&amp;source=acf=__wc=__wca_id=__hc=&amp;kc_decode=&amp;kcm_decode=&amp;kcl_decode=&amp;ksp_decode=&amp;cb=51839393521&amp;loc=https%3A//web.archive.org/web/20090420033407id_/http%253A//www.cinemaroll.com/privacy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=ae6b2442&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=504&amp;source=aaa&amp;n=ae6b2442' border='0' alt='' /></a></noscript>
-									<script language="javascript" type="text/javascript">
-										fireAd("adNav336");
-									</script>
-									 </div>								</td>
-							</tr>
-							</tbody></table>
-						</td>
-					</tr>
-															
-					<tr>
-						<td class="rightNavCell">
-							<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td class="rightNavTitle">
-								Popular Tags								</td>
-							</tr>
-							<tr>
-								<td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td class="tagCloudCell"><ul class="tags"><li style="font-size:112.09677419355%;"><a href="/tags/action" rel="tag">action</a>   </li><li style="font-size:101.88172043011%;"><a href="/tags/Batman" rel="tag">Batman</a>   </li><li style="font-size:106.98924731183%;"><a href="/tags/cinema" rel="tag">cinema</a>   </li><li style="font-size:117.20430107527%;"><a href="/tags/Comedy" rel="tag">Comedy</a>   </li><li style="font-size:105.91397849462%;"><a href="/tags/drama" rel="tag">drama</a>   </li><li style="font-size:100.8064516129%;"><a href="/tags/DVD" rel="tag">DVD</a>   </li><li style="font-size:159.67741935484%;"><a href="/tags/film" rel="tag">film</a>   </li><li style="font-size:100%;"><a href="/tags/film+review" rel="tag">film review</a>   </li><li style="font-size:111.29032258065%;"><a href="/tags/films" rel="tag">films</a>   </li><li style="font-size:101.61290322581%;"><a href="/tags/funny" rel="tag">funny</a>   </li><li style="font-size:105.91397849462%;"><a href="/tags/Hollywood" rel="tag">Hollywood</a>   </li><li style="font-size:124.1935483871%;"><a href="/tags/horror" rel="tag">horror</a>   </li><li style="font-size:108.60215053763%;"><a href="/tags/love" rel="tag">love</a>   </li><li style="font-size:195.43010752688%;"><a href="/tags/movie" rel="tag">movie</a>   </li><li style="font-size:122.04301075269%;"><a href="/tags/Movie+Review" rel="tag">Movie Review</a>   </li><li style="font-size:200%;"><a href="/tags/movies" rel="tag">movies</a>   </li><li style="font-size:144.35483870968%;"><a href="/tags/review" rel="tag">review</a>   </li><li style="font-size:102.15053763441%;"><a href="/tags/romance" rel="tag">romance</a>   </li><li style="font-size:101.88172043011%;"><a href="/tags/thriller" rel="tag">thriller</a>   </li><li style="font-size:100.2688172043%;"><a href="/tags/twilight" rel="tag">twilight</a>   </li></ul></td></tr></tbody></table></td>
-							</tr>
-							</tbody></table>
-						</td>
-					</tr>
-					
-											
-										<tr>
-						<td class="rightNavCell">
-							<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td class="rightNavTitle">
-								Popular Writers								</td>
-							</tr>
-							<tr>
-								<td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="tagCloudCell"><ul class="tags"><li style="font-size:109.03073524347%;"><a href="/writers/acecampillo.40024">acecampillo</a>   </li><li style="font-size:106.595603491%;"><a href="/writers/Albert Latham.51313">Albert Latham</a>   </li><li style="font-size:129.88769330276%;"><a href="/writers/Anne Lyken Garner.4225">Anne Lyken Garner</a>   </li><li style="font-size:105.28437870121%;"><a href="/writers/Bill Yarrow.10212">Bill Yarrow</a>   </li><li style="font-size:116.38148997472%;"><a href="/writers/Bozsi Rose.75289">Bozsi Rose</a>   </li><li style="font-size:200%;"><a href="/writers/Bren Parks.1842">Bren Parks</a>   </li><li style="font-size:111.61370528102%;"><a href="/writers/CA Johnson.646">CA Johnson</a>   </li><li style="font-size:108.6493796672%;"><a href="/writers/Eliza Worner.37390">Eliza Worner</a>   </li><li style="font-size:130.91248141522%;"><a href="/writers/Evis T.52093">Evis T</a>   </li><li style="font-size:104.06807281036%;"><a href="/writers/excabel.37700">excabel</a>   </li><li style="font-size:148.50355735873%;"><a href="/writers/Hannahhhhhhh.85227">Hannahhhhhhh</a>   </li><li style="font-size:120.05308738419%;"><a href="/writers/Jeremy Mullin.16777">Jeremy Mullin</a>   </li><li style="font-size:105.97569068199%;"><a href="/writers/Katalyn Louis Parks.79349">Katalyn Louis Parks</a>   </li><li style="font-size:149.18730942721%;"><a href="/writers/Keith Lamar.28089">Keith Lamar</a>   </li><li style="font-size:106.42592545926%;"><a href="/writers/Louie Jerome.6712">Louie Jerome</a>   </li><li style="font-size:102.75264806928%;"><a href="/writers/Lucas Dié.85113">Lucas Dié</a>   </li><li style="font-size:100%;"><a href="/writers/Nelson Doyle.10367">Nelson Doyle</a>   </li><li style="font-size:119.37353526699%;"><a href="/writers/R J Evans.22874">R J Evans</a>   </li><li style="font-size:122.57977807457%;"><a href="/writers/RJ Chamberlain.38433">RJ Chamberlain</a>   </li><li style="font-size:126.86036841973%;"><a href="/writers/Spencer Hawken.40253">Spencer Hawken</a>   </li></ul></td></tr></tbody></table></td>
-							</tr>
-							</tbody></table>
-						</td>
-					</tr>
-										
-					
-										<tr>
-						<td class="rightNavCell">
-							<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<!-- left inner column -->
-								<td class="rightNavInnerColumnCell">
-									<table cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-																			
-											<td class="rightNavSmallInnerCell" style="padding-top: 5px;" align="center" name="adNav125-2Wrapper" id="adNav125-2Wrapper">
-											
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=792&amp;target=_blank");
-   document.write ("&clr_link=0800ab&clr_title=000000&clr_bg=dedede&clr_border=7f88a1&clr_text=000000&source=acf=__wc=__wca_id=__hc=&kc_decode=&kcm_decode=&kcl_decode=&ksp_decode=");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=792&amp;target=_blank&amp;clr_link=0800ab&amp;clr_title=000000&amp;clr_bg=dedede&amp;clr_border=7f88a1&amp;clr_text=000000&amp;source=acf=__wc=__wca_id=__hc=&amp;kc_decode=&amp;kcm_decode=&amp;kcl_decode=&amp;ksp_decode=&amp;cb=49306620576&amp;loc=https%3A//web.archive.org/web/20090420033407id_/http%253A//www.cinemaroll.com/privacy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=a811d78a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=792&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a811d78a' border='0' alt='' /></a></noscript>
-											</td>
-										
-																		</tr>
+//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=505&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=&amp;cb=13566031375&amp;loc=https%3A//web.archive.org/web/20100103031501id_/http%3A//cinemaroll.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=a99aa3&amp;cb=a9881601a43fe3855a2bc551c7a88d08' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=505&amp;cb=a9881601a43fe3855a2bc551c7a88d08&amp;n=a99aa3' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160')</script>			</div>
+		</div>
+		<div style="clear: both;"></div>
 
-									
+		<div class="sidepanel" id="populartags">
+			<h3>Popular Tags</h3>	
+			<div><a href="http://cinemaroll.com/tag/action/" class="tag-link-79" title="125 topics" rel="tag" style="font-size: 14.77811550152px;">Action</a>
+<a href="http://cinemaroll.com/tag/adventure/" class="tag-link-1189" title="42 topics" rel="tag" style="font-size: 13.13829787234px;">Adventure</a>
+<a href="http://cinemaroll.com/tag/animation/" class="tag-link-103" title="35 topics" rel="tag" style="font-size: 13px;">Animation</a>
+<a href="http://cinemaroll.com/tag/arts/" class="tag-link-7255" title="66 topics" rel="tag" style="font-size: 13.612462006079px;">Arts</a>
+<a href="http://cinemaroll.com/tag/avatar/" class="tag-link-3731" title="39 topics" rel="tag" style="font-size: 13.079027355623px;">Avatar</a>
+<a href="http://cinemaroll.com/tag/batman/" class="tag-link-4883" title="63 topics" rel="tag" style="font-size: 13.553191489362px;">batman</a>
+<a href="http://cinemaroll.com/tag/bollywood/" class="tag-link-38737" title="44 topics" rel="tag" style="font-size: 13.177811550152px;">bollywood</a>
+<a href="http://cinemaroll.com/tag/cinema/" class="tag-link-2421" title="106 topics" rel="tag" style="font-size: 14.40273556231px;">cinema</a>
+<a href="http://cinemaroll.com/tag/comedy/" class="tag-link-9" title="165 topics" rel="tag" style="font-size: 15.568389057751px;">Comedy</a>
+<a href="http://cinemaroll.com/tag/death/" class="tag-link-1269" title="40 topics" rel="tag" style="font-size: 13.098784194529px;">death</a>
+<a href="http://cinemaroll.com/tag/disney/" class="tag-link-2069" title="41 topics" rel="tag" style="font-size: 13.118541033435px;">Disney</a>
+<a href="http://cinemaroll.com/tag/drama/" class="tag-link-11" title="89 topics" rel="tag" style="font-size: 14.066869300912px;">Drama</a>
+<a href="http://cinemaroll.com/tag/dvd/" class="tag-link-2827" title="67 topics" rel="tag" style="font-size: 13.632218844985px;">DVD</a>
+<a href="http://cinemaroll.com/tag/entertainment/" class="tag-link-293" title="57 topics" rel="tag" style="font-size: 13.434650455927px;">Entertainment</a>
+<a href="http://cinemaroll.com/tag/fantasy/" class="tag-link-1301" title="41 topics" rel="tag" style="font-size: 13.118541033435px;">Fantasy</a>
+<a href="http://cinemaroll.com/tag/film/" class="tag-link-4925" title="508 topics" rel="tag" style="font-size: 22.344984802432px;">film</a>
+<a href="http://cinemaroll.com/tag/film-review/" class="tag-link-37373" title="64 topics" rel="tag" style="font-size: 13.572948328267px;">film review</a>
+<a href="http://cinemaroll.com/tag/films/" class="tag-link-36705" title="121 topics" rel="tag" style="font-size: 14.699088145897px;">films</a>
+<a href="http://cinemaroll.com/tag/funny/" class="tag-link-861" title="83 topics" rel="tag" style="font-size: 13.948328267477px;">funny</a>
+<a href="http://cinemaroll.com/tag/halloween/" class="tag-link-6039" title="37 topics" rel="tag" style="font-size: 13.039513677812px;">Halloween</a>
+<a href="http://cinemaroll.com/tag/harry-potter/" class="tag-link-10627" title="57 topics" rel="tag" style="font-size: 13.434650455927px;">Harry Potter</a>
+<a href="http://cinemaroll.com/tag/hollywood/" class="tag-link-1305" title="102 topics" rel="tag" style="font-size: 14.323708206687px;">Hollywood</a>
+<a href="http://cinemaroll.com/tag/horror/" class="tag-link-2097" title="230 topics" rel="tag" style="font-size: 16.852583586626px;">Horror</a>
+<a href="http://cinemaroll.com/tag/humor/" class="tag-link-525" title="36 topics" rel="tag" style="font-size: 13.019756838906px;">humor</a>
+<a href="http://cinemaroll.com/tag/life/" class="tag-link-1267" title="57 topics" rel="tag" style="font-size: 13.434650455927px;">life</a>
+<a href="http://cinemaroll.com/tag/love/" class="tag-link-581" title="102 topics" rel="tag" style="font-size: 14.323708206687px;">love</a>
+<a href="http://cinemaroll.com/tag/movie/" class="tag-link-3123" title="674 topics" rel="tag" style="font-size: 25.62462006079px;">movie</a>
+<a href="http://cinemaroll.com/tag/movie-review/" class="tag-link-9753" title="177 topics" rel="tag" style="font-size: 15.80547112462px;">Movie Review</a>
+<a href="http://cinemaroll.com/tag/movies/" class="tag-link-3009" title="693 topics" rel="tag" style="font-size: 26px;">movies</a>
+<a href="http://cinemaroll.com/tag/murder/" class="tag-link-1585" title="47 topics" rel="tag" style="font-size: 13.237082066869px;">murder</a>
+<a href="http://cinemaroll.com/tag/new-moon/" class="tag-link-130235" title="55 topics" rel="tag" style="font-size: 13.395136778116px;">New Moon</a>
+<a href="http://cinemaroll.com/tag/review/" class="tag-link-309" title="366 topics" rel="tag" style="font-size: 19.539513677812px;">review</a>
+<a href="http://cinemaroll.com/tag/reviews/" class="tag-link-277" title="53 topics" rel="tag" style="font-size: 13.355623100304px;">reviews</a>
+<a href="http://cinemaroll.com/tag/romance/" class="tag-link-1621" title="74 topics" rel="tag" style="font-size: 13.770516717325px;">Romance</a>
+<a href="http://cinemaroll.com/tag/scary/" class="tag-link-6635" title="41 topics" rel="tag" style="font-size: 13.118541033435px;">scary</a>
+<a href="http://cinemaroll.com/tag/science-fiction/" class="tag-link-5" title="46 topics" rel="tag" style="font-size: 13.217325227964px;">Science Fiction</a>
+<a href="http://cinemaroll.com/tag/sci-fi/" class="tag-link-241" title="52 topics" rel="tag" style="font-size: 13.335866261398px;">Sci fi</a>
+<a href="http://cinemaroll.com/tag/sex/" class="tag-link-3309" title="43 topics" rel="tag" style="font-size: 13.158054711246px;">sex</a>
+<a href="http://cinemaroll.com/tag/star-wars/" class="tag-link-5513" title="48 topics" rel="tag" style="font-size: 13.256838905775px;">Star Wars</a>
+<a href="http://cinemaroll.com/tag/suspense/" class="tag-link-6135" title="35 topics" rel="tag" style="font-size: 13px;">suspense</a>
+<a href="http://cinemaroll.com/tag/the/" class="tag-link-1905" title="37 topics" rel="tag" style="font-size: 13.039513677812px;">The</a>
+<a href="http://cinemaroll.com/tag/thriller/" class="tag-link-2401" title="71 topics" rel="tag" style="font-size: 13.711246200608px;">Thriller</a>
+<a href="http://cinemaroll.com/tag/twilight/" class="tag-link-9069" title="121 topics" rel="tag" style="font-size: 14.699088145897px;">twilight</a>
+<a href="http://cinemaroll.com/tag/vampires/" class="tag-link-4497" title="38 topics" rel="tag" style="font-size: 13.059270516717px;">vampires</a>
+<a href="http://cinemaroll.com/tag/war/" class="tag-link-3741" title="40 topics" rel="tag" style="font-size: 13.098784194529px;">War</a></div>
+		</div>
+		
+		<div class="sidepanel" id="comments">
+			<h3>Recent Comments</h3>	
+			<ul class="sidebar-list">
+				<li><strong>Sakipooh:</strong> <a href="http://cinemaroll.com/cinemarolling/three-reasons-avatar-is-not-a-great-film/#comment-15047" title="View the entire comment by Sakipooh">Maybe I was just lost</a></li><li><strong>rzymol:</strong> <a href="http://cinemaroll.com/cinemarolling/the-truth-about-paranormal-activity/#comment-15045" title="View the entire comment by rzymol">You are a total moron</a></li><li><strong>jaysonv:</strong> <a href="http://cinemaroll.com/cinemarolling/ten-best-kirk-douglas-movies/#comment-15043" title="View the entire comment by jaysonv">I love Kirk Douglas' Movies.</a></li><li><strong>jaysonv:</strong> <a href="http://cinemaroll.com/drama/henry-fonda-in-the-grapes-of-wrath-1940/#comment-15041" title="View the entire comment by jaysonv">great film for sure..thanks for</a></li><li><strong>delia:</strong> <a href="http://cinemaroll.com/horror/paranormal-activity-vs-the-blair-witch-project/#comment-15039" title="View the entire comment by delia">I haven't seen Blair Witch,</a></li>			</ul>
+		</div>
 
-									<tr>
-																			</tr>
-									
-									<tr>
-																			
-									</tr>
-									</tbody></table>
-								</td>
-
-								<td style="width:16px;"></td>
-								
-								<!-- right inner column -->
-								<td class="rightNavInnerColumnCell">
-									<table cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-										<td class="rightNavSmallCell">
-											<table class="rightNavBannerTable" cellpadding="0" cellspacing="0" border="0">
-																							<tbody><tr>
-													<td class="rightNavSmallInnerCell" align="center" name="adNav125Wrapper" id="adNav125Wrapper">
-													<div name="adNav125" id="adNav125">
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=505&amp;target=_blank");
-   document.write ("&clr_link=0800ab&clr_title=000000&clr_bg=dedede&clr_border=7f88a1&clr_text=000000&source=acf=__wc=__wca_id=__hc=&kc_decode=&kcm_decode=&kcl_decode=&ksp_decode=");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=505&amp;target=_blank&amp;clr_link=0800ab&amp;clr_title=000000&amp;clr_bg=dedede&amp;clr_border=7f88a1&amp;clr_text=000000&amp;source=acf=__wc=__wca_id=__hc=&amp;kc_decode=&amp;kcm_decode=&amp;kcl_decode=&amp;ksp_decode=&amp;cb=75965788481&amp;loc=https%3A//web.archive.org/web/20090420033407id_/http%253A//www.cinemaroll.com/privacy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=a811d78a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=505&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a811d78a' border='0' alt='' /></a></noscript>
-														<script language="javascript" type="text/javascript">
-															fireAd("adNav125");
-														</script>
-														</div>													</td>
-												</tr>
-																						</tbody></table>
-										</td>
-									</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							</tbody></table>
-						</td>
-					</tr>
-									</tbody></table>
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
+	</div><!-- #sidebar -->
 	
-	<!-- footer row -->
-	<tr>
-		<td class="footerContainerCell">
-			<table cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td style="text-align:right; padding-bottom: 10px; font-size:10px">
-				Powered by <a href="http://www.triond.com" target="_blank">
-				<img src="http://s3.amazonaws.com/triond/images/triond_network_logo_89x20.png" border="0" width="89" height="20">				</a>
-				</td>
-			</tr>
-			<tr>
-				<td class="footerCell" align="center">
-					<table cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td class="footerInnerCell"><span class="footerTitle">Cinemaroll</span><br><a class="footerLink" href="/about">About Us</a><br><a class="footerLink" href="/terms">Terms of Use</a><br><a class="footerLink" href="/privacy">Privacy Policy</a></td><td class="footerInnerCell"><span class="footerTitle">Services</span><br><a class="footerLink" href="http://www.triond.com">Submit an Article</a><br><a class="footerLink" href="/advertise">Advertise with Us</a></td><td class="footerInnerCell"><span class="footerTitle">Contact</span><br>
-					<script type="text/javascript">
-					<!--
-					emailE=('we' + 'bmaster' + '@' + 'XcinemarollYZ.com')
-					document.write('<a class="footerLink" href="mailto:' + emailE + '">' + 'Webmaster' + '</a>')
-					//-->
-					</script><a class="footerLink" href="mailto:webmaster@XcinemarollYZ.com">Webmaster</a>
-				<br>
-					<script type="text/javascript">
-					<!--
-					emailE=('su' + 'pport' + '@' + 'XcinemarollYZ.com')
-					document.write('<a class="footerLink" href="mailto:' + emailE + '">' + 'Support' + '</a>')
-					//-->
-					</script><a class="footerLink" href="mailto:support@XcinemarollYZ.com">Support</a>
-				</td></tr></tbody></table>				</td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td class="copyrightCell">© 2006-2009 Copyright Stanza Ltd. All Rights Reserved.</td>	
-	</tr>
-</tbody></table>
-</div>
 
+	</div><!-- #container -->
+	
+	<div id="footer">
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1488967-14");
-pageTracker._trackPageview();
-var networkPageTracker = _gat._getTracker("UA-1488967-29");
-networkPageTracker._trackPageview();
-} catch(err) {}</script>
+		<div class="rightcol"><a href="http://www.triond.com"><img src="http://cinemaroll.com/wp-content/themes/cinemaroll/images/triond.gif" alt="Powered by Triond"></a></div>	
+		
+		<div id="footer-menu" class="leftcol">
+			Copyright © 2008 Cinemaroll&nbsp;&nbsp;&nbsp;<a href="/terms-of-service">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;<a href="/privacy-policy">Privacy Policy</a>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/contact">Contact</a></li>
+				<li><a href="/advertise-with-us">Advertise With Us</a></li>
+				<li><a href="http://www.triond.com">Submit an Article</a></li>
+			</ul>
+		</div>
+		
+		<div class="clear"></div>
+		
+	</div><!-- #footer -->
 
+</div><!-- #wrapper -->
+
+<!-- Start Quantcast By WP-Plugin: Quantcast-Quantifier -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-daj4ISsTm6BnE";quantserve();</script>
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1034&amp;rnd=1747751934">
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker0 = _gat._getTracker("UA-1488967-14");
+							pageTracker0._trackPageview();var pageTracker1 = _gat._getTracker("UA-1488967-29");
+							pageTracker1._trackPageview();
+			} catch(err) {}</script>
+		
+ 
+	<div id="ad-slider">
+		
+<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=956");
+   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc"));
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=956&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=&amp;cb=97212914959&amp;loc=https%3A//web.archive.org/web/20100103031501id_/http%3A//cinemaroll.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=b1e96d&amp;cb=f817e3a8442d4ed78c36060a4af99868' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=956&amp;cb=f817e3a8442d4ed78c36060a4af99868&amp;n=b1e96d' border='0' alt='' /></a></noscript>	</div>
 
 
-<!-- ads -->
 
-
-<div name="adNav125-2" id="adNav125-2" style="display:none;">
-</div>
-<div name="adCpa468" id="adCpa468" style="display:none;">
-</div>
-<!-- 
-<div name="adComments468" id="adComments468" style="display:none;">
- -->
-<!-- 
-</div>
- -->
 </body></html>
