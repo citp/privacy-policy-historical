@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507180629id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103052900id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
@@ -44,4 +44,4 @@ These sites may help you:
 
 
 
-We hope this answers any concerns you have about privacy. If you have any further queries, please don't hesitate to contact us at the email address shown on our [about us](https://web.archive.org/web/20090507180629id_/http%3A//www.explainthatstuff.com/aboutus.html) page. 
+We hope this answers any concerns you have about privacy. If you have any further queries, please don't hesitate to contact us at the email address shown on our [about us](https://web.archive.org/web/20100103052900id_/http%3A//www.explainthatstuff.com/aboutus.html) page. 
