@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teeniegfs.com privacy policy that was archived on 2009-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090702041610id_/http%3A//www.teeniegfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeniegfs.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103194651id_/http%3A//www.teeniegfs.com/privacy.html) for the most accurate reproduction.*
 
 # GF Cash Privacy Policy
 
