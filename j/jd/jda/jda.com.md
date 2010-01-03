@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112173752id_/http%3A//www.jda.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103141350id_/http%3A//jda.com/privacy.html) for the most accurate reproduction.*
 
-# JDA Privacy/Legal Statement
-
-  
-|    
-
+# JDA Software: JDA Privacy/Legal Statement
 
 **THE CONDITIONS OF USE OF THIS SITE**  
 This site is owned and operated by JDA Software Group, Inc. (“JDA”). By using JDA’s Web site, JDA.COM (“Web Site”), you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use the site. 
@@ -58,9 +54,3 @@ If you have any questions about this Privacy Policy, the practices of this Web S
 
 **OTHER JDA LEGAL LINKS    
 **[Click here](http://www.jda.com/intactixLegal.asp) to view standard Intactix Software License Agreements.
-
-|   
-|    
-  
-|   
-
