@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psigate.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305055350id_/http%3A//www.psigate.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psigate.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103060140id_/http%3A//psigate.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # PSiGate Privacy Statement
 
@@ -8,9 +8,9 @@ We value your business and thank you for your confidence in choosing our company
 Personal Information is any information about an identifiable individual but does not include that individual's name, title, business address, telephone number or electronic address that is otherwise publicly available.  
 
 
-PSiGate collects personal information for the following purposes:
+PSiGate collects personal information for the following purposes: 
 
-  * To help us to determine and establish and maintain a commercial relationship with you and provide ongoing PSiGate transaction, fraud prevention, and reporting services.  
+  * To help us determine, establish and maintain a commercial relationship with you while  providing transaction, fraud prevention, and reporting services.  
 
   * To allow us to recommend suitable products, services, solutions, advice, promotions or upgrades as they are developed.  
 
@@ -50,21 +50,17 @@ You will find that most major web sites use cookies and most major browsers are 
 If there are any questions or concerns these may be addressed in writing by contacting PSiGate's Privacy Officer.   
 
 
-## Security  
+### Security  
 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-## Contacting the Web Site  
+### Contacting the Web Site  
 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 PSiGate  
-
-
-1600-145 King St. W.
-
-Toronto, Ontario
-
+1600-145 King St. W.  
+Toronto, Ontario  
 M5H 1J8
