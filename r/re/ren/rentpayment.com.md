@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924025608id_/http%3A//www.rentpayment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103035127id_/http%3A//www.rentpayment.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: RentPayment :: E-Payments for Properties
 
-[Print our Privacy Policy](https://web.archive.org/web/20090924025608id_/http%3A//www.rentpayment.com/images/rp_privacy_policy.pdf)
+[Print our Privacy Policy](https://web.archive.org/web/20100103035127id_/http%3A//www.rentpayment.com/images/rp_privacy_policy.pdf)
 
 Thank you for visiting RentPayment. Your privacy is important to us. In order to better protect your privacy, we have developed a privacy policy. Our privacy policy explains our online information practices and the choices you can make about the way your information is collected and used at this site. The privacy policy is based on these principles: 
 
@@ -43,4 +43,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-[Print our Privacy Policy](https://web.archive.org/web/20090924025608id_/http%3A//www.rentpayment.com/images/rp_privacy_policy.pdf)
+[Print our Privacy Policy](https://web.archive.org/web/20100103035127id_/http%3A//www.rentpayment.com/images/rp_privacy_policy.pdf)
