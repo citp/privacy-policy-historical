@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhraprabha.com privacy policy that was archived on 2007-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070913213314id_/http%3A//www.andhraprabha.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhraprabha.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103093802id_/http%3A//www.andhraprabha.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Welcome to Andhraprabha.com - Privacy Policy
 
@@ -43,3 +43,29 @@ If you have any comments or questions with regard to our Privacy Policy, you may
 | 
 
 [](http://www.newindpress.com/smsxpress/News.asp)
+
+The page cannot be found
+
+The page you are looking for might have been removed, had its name changed, or is temporarily unavailable. 
+
+* * *
+
+Please try the following:
+
+  * Make sure that the Web site address displayed in the address bar of your browser is spelled and formatted correctly.
+  * If you reached this page by clicking a link, contact the Web site administrator to alert them that the link is incorrectly formatted. 
+  * Click the Back button to try another link.
+
+
+
+## HTTP Error 404 - File or directory not found.  
+Internet Information Services (IIS)
+
+* * *
+
+Technical Information (for support personnel)
+
+  * Go to [Microsoft Product Support Services](http://go.microsoft.com/fwlink/?linkid=8180) and perform a title search for the words **HTTP** and **404**.
+  * Open **IIS Help** , which is accessible in IIS Manager (inetmgr), and search for topics titled **Web Site Setup** , **Common Administrative Tasks** , and **About Custom Error Messages**.
+
+
