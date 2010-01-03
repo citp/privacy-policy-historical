@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fotozup.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008125814id_/http%3A//fotozup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotozup.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103122202id_/http%3A//fotozup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funny pictures at FotozUp.com
+# Privacy Policy | funny pictures at FotozUp.com
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
