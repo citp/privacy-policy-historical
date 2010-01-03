@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elagaan.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430174714id_/http%3A//elagaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elagaan.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103174231id_/http%3A//elagaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eLagaan
 
