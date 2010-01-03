@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129101848id_/http%3A//www.rosie.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103083521id_/http%3A//www.rosie.com/privacy.aspx) for the most accurate reproduction.*
 
 # rosie.com » privacy policy
 
