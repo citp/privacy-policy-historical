@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expertsforge.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211212006id_/http%3A//www.expertsforge.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsforge.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104005028id_/http%3A//www.expertsforge.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Expertsforge.com - Privacy Policy
+# Privacy Policy
 
 **What This Privacy Policy Covers**
 
@@ -60,11 +60,7 @@
 
 **Questions and Suggestions**
 
-If you have questions or suggestions, please complete a feedback form or you can [contact us here](https://web.archive.org/web/20071211212006id_/http%3A//www.expertsforge.com/contact.asp) or
+If you have questions or suggestions, please complete a feedback form or you can [contact us here](https://web.archive.org/web/20100104005028id_/http%3A//www.expertsforge.com/contact.asp) or
 
 **Expertsforge.com**  
-25 B, KKS Street,BR Puram,  
-Peelamedu,  
-Coimbatore - 641004  
-Tamil Nadu.  
-India
+[W3Geeks](http://www.w3geeks.com/) Network. 
