@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the mvpspot.com privacy policy that was archived on 2008-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081120005039id_/http%3A//mvpspot.com/service/static/privacyp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mvpspot.com privacy policy that was archived on 2010-01-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100103180957id_/http%3A//mvpspot.com/service/static/privacyp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-
-    <title>Sports Social Network: For Amateur &amp; Professional Athletes</title>
-    <meta name="keywords" content="sports social network, social network, professional athletes, amateur athletes, athletes, baseball, football, action sports, basketball, hockey, soccer">
-    <meta name="description" content="MVPSPOT#1 Sports social network, view amazing amateur and professional Athlete profiles. Connect with old or new teammates. Meet others with similar hobbies.">
-    <meta name="title" content="Sports Social Network: For Amateur &amp; Professional Athletes">
+    	<title>Sports Social Network: Football, Baseball, Basketball, Soccer, Tennis, Softball, Cheerleading and Other Sports - Athletes, Coaches, Fans, Teams - MVPSpot.com</title>
+    <meta name="keywords" content="sports social network, social network, athletes, coaches, football, baseball, basketball, soccer, tennis, softball, cheerleading, teams, fans">
+    <meta name="description" content="MVPSpot is a community for people that love sports, #1 Sports Social Network. View Athlete profiles. Connect with your teammates. Meet people with similar hobbies. Create your groups, teams, become a coach, an athlere or a fan.">
+    <meta name="title" content="Sports Social Network: Football, Baseball, Basketball, Soccer, Tennis, Softball, Cheerleading and Other Sports - Athletes, Coaches, Fans, Teams - MVPSpot.com">
 
 
 <meta name="robots" content="all">
@@ -15,9 +14,11 @@
 <meta name="rating" content="General">
 <meta name="category" content="Sports Social Network">
 <meta name="author" content="MVPSpot.com">
-
-    <link href="/public/styles/style.css.php" rel="stylesheet" type="text/css">
-	<link href="/public/styles/nutrition/additional.css.php" rel="stylesheet" type="text/css">
+    <link href="/public/styles/style_new.css.php" rel="stylesheet" type="text/css">
+    <link href="/public/styles/nutrition/additional.css.php" rel="stylesheet" type="text/css">
+	<!--[if IE 6]>
+	  <link rel="stylesheet" href="/public/styles/style_new_ie6.css.php" type="text/css" />
+	<![endif]-->
     <script language="javascript">
 
     prev='';
@@ -39,539 +40,1175 @@
         document.getElementById('PeopleSubmenu').style.display='none';
     }
 
+    prev="";
+
+    function show_menu(id)
+    {
+    if (prev!='')
+    document.getElementById(prev).style.display='none';
+    document.getElementById(id).style.display='block';
+    prev = id;
+    selectboxes('hide');
+    }
+    tohide='';
+    
+    function hide_menu()
+    {
+    if (tohide!='')
+    document.getElementById(tohide).style.display='none';
+    selectboxes('show');
+    }
+
+    function hide_feedback_bubble()
+    {
+        feedback_is_hidden = 1;
+        $('#feedback_info_popup').hide('slow');
+        $.post('/service/helper/shownofeedbackbubble/',{});
+
+
+    }
+
+    var feedback_is_hidden = 0;
+
+    function hide_feedback_bubble_temp()
+    {
+
+        if(feedback_is_hidden == 0)
+        $('#feedback_info_popup').hide('slow');
+
+    }
+
   </script>
     <link rel="shortcut icon" href="/favicon.ico">
-<script src="/public/js/jquery.js"></script><script language="javascript" src="/public/js/lib.js"></script></head>
+<script src="/public/js/jquery.js"></script><script language="javascript" src="/public/js/lib.js.php"></script></head>
 
 
 
 
-<body>
+<body onclick="hidePoppedUpDivs()" style="background-image:url(http://mvpspot.com/public/images/images_3.5/main_bg.jpg);">
+<div id="global_container">
 
-<div id="global_container" class="global_container">
+<script language="javascript" src="/public/js/jquery.scrollTo.js"></script>
+<script language="javascript" src="/public/js/jquery.serialScroll-min.js"></script>
+<script language="javascript">
+jQuery.easing.easeOutQuart = function (x, t, b, c, d) {
+    return -c * ((t=t/d-1)*t*t*t - 1) + b;
+};
 
-<div class="header_container">
+jQuery(function( $ ){
 
-				<div class="header_main_container">
-	<div class="header_bg_sides"></div>
-<div class="header_bg_center">
+    $('#slideshow').serialScroll({
+        items:'li',
+        prev:'#prev',
+        next:'#next',
+        offset:0, //when scrolling to photo, stop 230 before reaching it (from the left)
+        start:0,
+        duration:1200,
+        constant:false,
+        force:true,
+        stop:true,
+        lock:false,
+        cycle:false, //don't pull back once you reach the end
+        easing:'easeOutQuart', //use this easing equation for a funny effect
+        jump: false //click on the images to scroll to them
+    });
 
-<div class="header_logo_container">
-	<div class="header_logo" onclick="location.href='/index';">
-	<div class="header_logo_beta_container"><strong class="header_logo_beta_title">Beta</strong></div>
-	</div>
-</div>
+   /* $('#slideshow2').serialScroll({
+        items:'li',
+        prev:'#prev2',
+        next:'#next2',
+        offset:0, //when scrolling to photo, stop 230 before reaching it (from the left)
+        start:0,
+        duration:1200,
+        constant:false,
+        force:true,
+        stop:true,
+        lock:false,
+        cycle:false, //don't pull back once you reach the end
+        easing:'easeOutQuart', //use this easing equation for a funny effect
+        jump: false //click on the images to scroll to them
+    });*/
 
-<div class="header_right_side_container">
+});
+var prev_background = 'main_bg';
+
+if(prev_background)
+    $('body').attr('style','background-image:url(http://mvpspot.com/public/images/images_3.5/'+prev_background+'.jpg);');
+
+function setBackground(image)
+{
+    
+    $('#sel2_'+prev_background).hide();
+    prev_background = image;
+
+    $.post('/user/index/setbackground/',
+    {
+        image: image
+    },
+    function(data)
+        {
+            $('body').attr('style','background-image:url(http://mvpspot.com/public/images/images_3.5/'+image+'.jpg);');
+            $('#sel2_'+prev_background).show();
+        });
+    
+
+}
 
 
-		<div class="header_login_container">
-	<div class="header_login_username_container"><strong class="header_login_username_text">Already a Member?  | </strong><a href="/user/auth/signin" class="header_login_username_text">Login</a></div>
-		</div>
+var prev_header_color = 'CCCCCC';
 
-<div class="cleaner"><!-- --></div>
+function setColor(col)
+{
+    $('#sel_'+prev_header_color).hide();
+    prev_header_color = col;
+    
+    $.get('/user/index/setcolor/',
+    {
+        col: col
+    },
+    function(data)
+        {
+            $('#header_color_bg').attr('style','background-color:#'+col);
+            $('#sel_'+prev_header_color).show();
+        });
+}
 
-	<div class="header_menu_container">
+function restoreDefaults()
+{
+    setColor('B8B8B8');
+    setBackground('');
+}
 
-	<div class="header_menu">
-
-    <div class="hp_menu_container hp_m_c_home" id="home" onmouseover="show_menu('home');tohide='home';" onmouseout="hide_menu();return false;">
-    <table class="table_100p_fixed">
+</script>
+<!-- Background Selection Popup -->
+<div style="width: 624px;display:none;" id="change_theme_popup">
+    <table class="pp_shadow_table">
         <tbody><tr>
-            <td class="hp_menu_center_sides"></td>
-                <td class="hp_menu_center_center">
-                <a href="/service/static/teamgive/" class="hp_menu_link">Team Give Program</a>
-                <a href="/service/static/nutrition/" class="hp_menu_link hp_m_link_last">Training &amp; Nutrition</a>
-                </td>
-            <td class="hp_menu_center_sides hp_m_center_right"></td>
+            <td class="pp_shadow_corners"></td>
+            <td class="pp_shadow_top_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_top_right"></td>
         </tr>
         <tr>
-            <td class="hp_menu_bottom_sides"></td>
-                <td class="hp_menu_bottom_center"></td>
-            <td class="hp_m_bottom_right"></td>
+            <td class="pp_shadow_sides"></td>
+            <td class="pp_shadow_center">
+                <div class="gray_block_header_container">
+                    <div class="gray_block_header_left">
+                        <strong class="gray_block_title_white">Change your MVPSpot Theme</strong>
+                        <div class="gray_block_title_black_container"><strong class="gray_block_title_black">Change your MVPSpot Theme</strong></div>
+                    </div>
+                    <div class="pp_header_close_container" onclick="tb_remove();">
+                        <div class="pp_header_close"></div>
+                    </div>
+                        <div class="cleaner"><!-- --></div>
+                </div>
+
+                <div class="pp_center_top_container">
+                    <div class="pp_center_title_contaienr"><strong class="pp_center_title">Header Background <!--[if IE 6]><strong style="font-weight: normal; font-style: italic;">(not supported in Internet Explorer 6.0)</strong><![endif]--></strong></div>
+                    <div class="pp_center_arrows_container" id="prev">
+                        <div class="pp_center_arrow_left" style="display: block;"></div>
+                        <div class="pp_center_arrow_left pp_c_arrow_right" style="display: none;"></div>
+                    </div>
+                    <div id="slideshow" style="overflow: hidden; width: 530px; float: left;">
+                        <ul style="width: 10000px;">
+                                        <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('B8B8B8');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#B8B8B8;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_B8B8B8" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Default</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('ff6c00');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#ff6c00;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_ff6c00" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Orange</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('5daaec');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#5daaec;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_5daaec" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Blue</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('ef4848');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#ef4848;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_ef4848" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Red</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('50c66f');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#50c66f;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_50c66f" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Green</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('c875e4');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#c875e4;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_c875e4" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Violet</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('f1618f');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#f1618f;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_f1618f" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Vinous</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('62729a');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#62729a;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_62729a" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Navy</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('FFFFFF');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#FFFFFF;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_FFFFFF" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">White</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setColor('777777');">
+                        <div class="pp_center_bg_item_img" style="height: 73px; width: 73px; cursor: pointer; border: 1px solid #AAAAAA; padding: 0px;">
+							<div style="width: 69px; height: 69px; border: 2px solid #FFFFFF; background-color:#777777;">
+								<div class="color_background"></div>
+							</div>
+						</div>
+
+                        <div class="pp_center_bg_selected_container" id="sel_777777" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Dark Gray</a>
+                        </div>
+                    </div>
+                    </li>                    </ul>
+                    </div>
+
+
+                    <div class="pp_center_arrows_container pp_c_arrows_container_right" id="next">
+                        <div class="pp_center_arrow_left" style="display: none;"></div>
+                        <div class="pp_center_arrow_left pp_c_arrow_right" style="display: block;"></div>
+                    </div>
+        <div class="cleaner"><!-- --></div>
+                </div>
+
+
+                <div class="pp_center_top_container">
+                    <div class="pp_center_title_contaienr"><strong class="pp_center_title">Entire Page Background</strong></div>
+                    <div class="pp_center_arrows_container" id="prev2">
+                        <div class="pp_center_arrow_left" style="display: none;"></div>
+                        <div class="pp_center_arrow_left pp_c_arrow_right" style="display: none;"></div>
+                    </div>
+
+
+                     <div id="slideshow2" style="overflow:hidden;width:530px;float:left;">
+                        <ul style="width:10000px;">
+                                        <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setBackground('main_bg');">
+                        <img src="http://mvpspot.com/public/images/images_3.5/main_bg_small.jpg" class="pp_center_bg_item_img" alt="">
+
+                        <div class="pp_center_bg_selected_container" id="sel2_main_bg" style="display: block;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Default</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setBackground('main_bg_2');">
+                        <img src="http://mvpspot.com/public/images/images_3.5/main_bg_small_2.jpg" class="pp_center_bg_item_img" alt="">
+
+                        <div class="pp_center_bg_selected_container" id="sel2_main_bg_2" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Martial Arts</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setBackground('main_bg_3');">
+                        <img src="http://mvpspot.com/public/images/images_3.5/main_bg_small_3.jpg" class="pp_center_bg_item_img" alt="">
+
+                        <div class="pp_center_bg_selected_container" id="sel2_main_bg_3" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Swimming</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setBackground('main_bg_4');">
+                        <img src="http://mvpspot.com/public/images/images_3.5/main_bg_small_4.jpg" class="pp_center_bg_item_img" alt="">
+
+                        <div class="pp_center_bg_selected_container" id="sel2_main_bg_4" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Athletics</a>
+                        </div>
+                    </div>
+                    </li>                    <li style="float:left;width:106px;">
+                    <div class="pp_center_bg_item_container" onclick="setBackground('main_bg_5');">
+                        <img src="http://mvpspot.com/public/images/images_3.5/main_bg_small_5.jpg" class="pp_center_bg_item_img" alt="">
+
+                        <div class="pp_center_bg_selected_container" id="sel2_main_bg_5" style="display: none;">
+                            <table>
+                                <tbody><tr>
+                                    <td class="pp_center_bg_selected_sides"></td>
+                                    <td class="pp_center_bg_selected_center"><strong class="pp_center_bg_selected_link">Selected</strong></td>
+                                    <td class="pp_center_bg_selected_sides pp_c_b_selected_sides_right"></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+
+                        <div class="pp_center_bg_bottom_container">
+                            <a href="#" class="pp_center_bg_bottom_link">Hockey</a>
+                        </div>
+                    </div>
+                    </li>                    </ul>
+                    </div>
+
+
+
+                    <div class="pp_center_arrows_container pp_c_arrows_container_right" id="next2">
+                        <div class="pp_center_arrow_left" style="display: none;"></div>
+                        <div class="pp_center_arrow_left pp_c_arrow_right" style="display: none;"></div>
+                    </div>
+        <div class="cleaner"><!-- --></div>
+                </div>
+
+                 <div class="pp_bottom_save_container" onclick="restoreDefaults();" style="float: left; display: none;">
+                    <table class="pp_bottom_save_table">
+                        <tbody><tr>
+                            <td class="pp_bottom_save_sides"></td>
+                            <td class="pp_bottom_save_center">
+                                <div class="pp_bottom_save_inline">
+                                    <strong class="pp_bottom_save_top_title">Restore defaults</strong>
+                                    <div class="pp_bottom_save_bottom_title_container"><strong class="pp_bottom_save_bottom_title">Restore defaults</strong></div>
+                                </div>
+                            </td>
+                            <td class="pp_bottom_save_sides pp_b_s_sides_right"></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+
+                <div class="pp_bottom_save_container" onclick="tb_remove();">
+                    <table class="pp_bottom_save_table">
+                        <tbody><tr>
+                            <td class="pp_bottom_save_sides"></td>
+                            <td class="pp_bottom_save_center">
+                                <div class="pp_bottom_save_inline">
+                                    <strong class="pp_bottom_save_top_title">Save</strong>
+                                    <div class="pp_bottom_save_bottom_title_container"><strong class="pp_bottom_save_bottom_title">Save</strong></div>
+                                </div>
+                            </td>
+                            <td class="pp_bottom_save_sides pp_b_s_sides_right"></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+
+                <div style="clear:both;"></div>
+
+            </td>
+            <td class="pp_s_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="pp_shadow_corners pp_s_corners_bottom_left"></td>
+            <td class="pp_shadow_top_bottom pp_s_t_b_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_bottom_right"></td>
         </tr>
     </tbody></table>
 </div>
+<!-- Background Selection Popup -->
+<script type="text/javascript" src="/public/js/thickbox.js"></script>
+<link href="/public/styles/thickbox_gray.css" rel="stylesheet" type="text/css">
 
-<div class="hp_menu_container hp_m_c_profile" id="profile" onmouseover="show_menu('profile');tohide='profile';" onmouseout="hide_menu();return false;">
-    <table class="table_100p_fixed">
+
+
+
+<!-- Report Popup -->
+<div style="display: none;" id="report_popup">
+    <table class="pp_shadow_table">
         <tbody><tr>
-            <td class="hp_menu_center_sides"></td>
-                <td class="hp_menu_center_center">
-                <a href="/user/profile/personalinfo/" class="hp_menu_link">Edit Profile</a>
-                <a href="/user/message/list/inboxType/inbox" class="hp_menu_link">Inbox</a>
-                <a href="/user/profile/settings" class="hp_menu_link">Account Settings</a>
-                <a href="/user/profile/index/UserID/" class="hp_menu_link hp_m_link_last">View Profile</a>
-                </td>
-            <td class="hp_menu_center_sides hp_m_center_right"></td>
+            <td class="pp_shadow_corners"></td>
+            <td class="pp_shadow_top_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_top_right"></td>
         </tr>
         <tr>
-            <td class="hp_menu_bottom_sides"></td>
-                <td class="hp_menu_bottom_center"></td>
-            <td class="hp_m_bottom_right"></td>
-        </tr>
-    </tbody></table>
-</div>
+            <td class="pp_shadow_sides"></td>
+            <td class="pp_shadow_center">
+                <div class="gray_block_header_container">
+                    <div class="gray_block_header_left popup">
+                        <strong class="gray_block_title_white">Report <span class="report_type_title"></span></strong>
+                        <div class="gray_block_title_black_container"><strong class="gray_block_title_black">Report <span class="report_type_title"></span></strong></div>
+                    </div>
+                    <div class="pp_header_close_container" onclick="tb_remove();">
+                        <div class="pp_header_close"></div>
+                    </div>
+                        <div class="cleaner"><!-- --></div>
+                </div>
 
-<div class="hp_menu_container hp_m_c_browse" id="browse" onmouseover="show_menu('browse');tohide='browse';" onmouseout="hide_menu();return false;">
-    <table class="table_100p_fixed">
-        <tbody><tr>
-            <td class="hp_menu_center_sides"></td>
-                <td class="hp_menu_center_center">
-                <a href="/user/people/" class="hp_menu_link">People</a>
-                <a href="/user/friends/show/userID/" class="hp_menu_link">Friends</a>
-                <a href="/user/groups/" class="hp_menu_link">Groups</a>
-                <a href="/user/team/view/" class="hp_menu_link hp_m_link_last">Teams</a>
-                </td>
-            <td class="hp_menu_center_sides hp_m_center_right"></td>
-        </tr>
-        <tr>
-            <td class="hp_menu_bottom_sides"></td>
-                <td class="hp_menu_bottom_center"></td>
-            <td class="hp_m_bottom_right"></td>
-        </tr>
-    </tbody></table>
-</div>
+<div class="p_report_inline_container">
+        <strong class="p_report_title">Reason</strong>
+        <input type="text" class="p_report_field" alt="" id="report_reason">
+        <input type="hidden" id="report_id">
+        <input type="hidden" id="report_type">
 
-
-<div class="hp_menu_container hp_m_c_photos" id="photos" onmouseover="show_menu('photos');tohide='photos';" onmouseout="hide_menu();return false;">
-    <table class="table_100p_fixed">
-        <tbody><tr>
-            <td class="hp_menu_center_sides"></td>
-                <td class="hp_menu_center_center">
-                <a href="/user/image/list/sort/featured/" class="hp_menu_link">Featured Photos</a>
-                <a href="/user/image/list/sort/latest/" class="hp_menu_link">Latest Photos</a>
-                <a href="/user/image/list/sort/popular/" class="hp_menu_link">Most Popular</a>
-                <a href="/user/image/" class="hp_menu_link hp_m_link_last">My Photos</a>
-                </td>
-            <td class="hp_menu_center_sides hp_m_center_right"></td>
-        </tr>
-        <tr>
-            <td class="hp_menu_bottom_sides"></td>
-                <td class="hp_menu_bottom_center"></td>
-            <td class="hp_m_bottom_right"></td>
-        </tr>
-    </tbody></table>
-</div>
-
-
-<div class="hp_menu_container hp_m_c_videos" id="videos">
-    <div onmouseover="show_menu('videos');tohide='videos';" onmouseout="hide_menu();return false;">
-    <table class="table_100p_fixed">
-        <tbody><tr>
-            <td class="hp_menu_center_sides"></td>
-                <td class="hp_menu_center_center">
-                <a href="/user/video/list/sort/featured/" class="hp_menu_link">Featured Videos</a>
-                <a href="/user/video/list/sort/latest/" class="hp_menu_link">Latest Videos</a>
-                <a href="/user/video/list/sort/popular/" class="hp_menu_link">Most Popular</a>
-                <a href="/user/video/index/" class="hp_menu_link hp_m_link_last">My Videos</a>
-                </td>
-            <td class="hp_menu_center_sides hp_m_center_right"></td>
-        </tr>
-        <tr>
-            <td class="hp_menu_bottom_sides"></td>
-                <td class="hp_menu_bottom_center"></td>
-            <td class="hp_m_bottom_right"></td>
-        </tr>
-    </tbody></table>
+    <div class="p_report_message_container">
+        <strong style="font-size: 18px; font-weight: normal;">Message</strong>
+        <textarea cols="" rows="" class="p_report_textarea" id="report_message"></textarea>
     </div>
 </div>
 
+                <div class="pp_bottom_save_container">
+                    <span id="report_error" style="display:none;">You should fill Reason/Message fields</span>
+                    <table class="pp_bottom_save_table" onclick="reportItem();">
+                        <tbody><tr>
+                            <td class="pp_bottom_save_sides"></td>
+                            <td class="pp_bottom_save_center">
+                                <div class="pp_bottom_save_inline">
+                                    <strong class="pp_bottom_save_top_title">Report</strong>
+                                    <div class="pp_bottom_save_bottom_title_container"><strong class="pp_bottom_save_bottom_title">Report</strong></div>
+                                </div>
+                            </td>
+                            <td class="pp_bottom_save_sides pp_b_s_sides_right"></td>
+                        </tr>
+                    </tbody></table>
+                </div>
 
-<!-- <div class="hp_menu_container hp_m_c_home" id="home">
-	<table class="table_100p_fixed">
-		<tr>
-			<td class="hp_menu_center_sides"></td>
-				<td class="hp_menu_center_center">
-				<a href="#" class="hp_menu_link">Team Give Program</a>
-				<a href="#" class="hp_menu_link hp_m_link_last">Training & Nutrition</a>
-				</td>
-			<td class="hp_menu_center_sides hp_m_center_right"></td>
-		</tr>
-		<tr>
-			<td class="hp_menu_bottom_sides"></td>
-				<td class="hp_menu_bottom_center"></td>
-			<td class="hp_m_bottom_right"></td>
-		</tr>
-	</table>
+            </td>
+            <td class="pp_s_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="pp_shadow_corners pp_s_corners_bottom_left"></td>
+            <td class="pp_shadow_top_bottom pp_s_t_b_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_bottom_right"></td>
+        </tr>
+    </tbody></table>
 </div>
+<!-- Report Popup -->
+<script type="text/javascript" src="/public/js/thickbox.js"></script>
+<link href="/public/styles/thickbox_gray.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/public/js/whistle.js.php"></script>
 
-<div class="hp_menu_container hp_m_c_profile" id="profile">
-	<table class="table_100p_fixed">
-		<tr>
-			<td class="hp_menu_center_sides"></td>
-				<td class="hp_menu_center_center">
-				<a href="#" class="hp_menu_link">Edit Profile</a>
-				<a href="#" class="hp_menu_link">Inbox</a>
-				<a href="#" class="hp_menu_link">Account Settings</a>
-				<a href="#" class="hp_menu_link hp_m_link_last">View Profile</a>
-				</td>
-			<td class="hp_menu_center_sides hp_m_center_right"></td>
-		</tr>
-		<tr>
-			<td class="hp_menu_bottom_sides"></td>
-				<td class="hp_menu_bottom_center"></td>
-			<td class="hp_m_bottom_right"></td>
-		</tr>
-	</table>
+
+
+<!-- Report Popup -->
+<div style="display: none;" id="sendmessage_popup">
+    <table class="pp_shadow_table">
+        <tbody><tr>
+            <td class="pp_shadow_corners"></td>
+            <td class="pp_shadow_top_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_top_right"></td>
+        </tr>
+        <tr>
+            <td class="pp_shadow_sides"></td>
+            <td class="pp_shadow_center">
+            <form method="post" name="sendMessageForm" id="sendMessageForm_">
+                <div class="gray_block_header_container">
+                    <div class="gray_block_header_left popup">
+                        <strong class="gray_block_title_white">Send message</strong>
+                        <div class="gray_block_title_black_container"><strong class="gray_block_title_black">Send message</strong></div>
+                    </div>
+                    <div class="pp_header_close_container" onclick="tb_remove();">
+                        <div class="pp_header_close"></div>
+                    </div>
+                        <div class="cleaner"><!-- --></div>
+                </div>
+
+                <div class="p_report_inline_container">
+                        <strong class="p_report_title">Subject</strong>
+                        <input type="text" class="p_report_field" alt="" name="subject" id="subject_">
+                        <input type="hidden" id="toUserID_" name="toUserID">
+
+
+                    <div class="p_report_message_container">
+                        <strong style="font-size: 18px; font-weight: normal;">Message</strong>
+                        <textarea cols="" rows="" class="p_report_textarea" name="textMessage" id="textMessage_"></textarea>
+                    </div>
+                </div>
+            </form>
+                <div class="pp_bottom_save_container">
+                    <span id="send_mess_error" style="display:none;">You should fill Subject / Message fields</span>
+                    <table class="pp_bottom_save_table" onclick="$('#sendMessageForm_').submit()">
+                        <tbody><tr>
+                            <td class="pp_bottom_save_sides"></td>
+                            <td class="pp_bottom_save_center">
+                                <div class="pp_bottom_save_inline">
+                                    <strong class="pp_bottom_save_top_title">Send</strong>
+                                    <div class="pp_bottom_save_bottom_title_container"><strong class="pp_bottom_save_bottom_title">Send</strong></div>
+                                </div>
+                            </td>
+                            <td class="pp_bottom_save_sides pp_b_s_sides_right"></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+
+            </td>
+            <td class="pp_s_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="pp_shadow_corners pp_s_corners_bottom_left"></td>
+            <td class="pp_shadow_top_bottom pp_s_t_b_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_bottom_right"></td>
+        </tr>
+    </tbody></table>
 </div>
-
-<div class="hp_menu_container hp_m_c_browse" id="browse">
-	<table class="table_100p_fixed">
-		<tr>
-			<td class="hp_menu_center_sides"></td>
-				<td class="hp_menu_center_center">
-				<a href="#" class="hp_menu_link">People</a>
-				<a href="#" class="hp_menu_link">Friends</a>
-				<a href="#" class="hp_menu_link hp_m_link_last">Groups</a>
-				</td>
-			<td class="hp_menu_center_sides hp_m_center_right"></td>
-		</tr>
-		<tr>
-			<td class="hp_menu_bottom_sides"></td>
-				<td class="hp_menu_bottom_center"></td>
-			<td class="hp_m_bottom_right"></td>
-		</tr>
-	</table>
-</div>
-
-<div class="hp_menu_container hp_m_c_photos" id="photos">
-	<table class="table_100p_fixed">
-		<tr>
-			<td class="hp_menu_center_sides"></td>
-				<td class="hp_menu_center_center">
-				<a href="#" class="hp_menu_link">Featured Photos</a>
-				<a href="#" class="hp_menu_link">Newest Photos</a>
-				<a href="#" class="hp_menu_link">Most Popular</a>
-				<a href="#" class="hp_menu_link hp_m_link_last">My Photos</a>
-				</td>
-			<td class="hp_menu_center_sides hp_m_center_right"></td>
-		</tr>
-		<tr>
-			<td class="hp_menu_bottom_sides"></td>
-				<td class="hp_menu_bottom_center"></td>
-			<td class="hp_m_bottom_right"></td>
-		</tr>
-	</table>
-</div>
-
-<div class="hp_menu_container hp_m_c_videos" id="videos">
-	<table class="table_100p_fixed">
-		<tr>
-			<td class="hp_menu_center_sides"></td>
-				<td class="hp_menu_center_center">
-				<a href="#" class="hp_menu_link">Featured Videos</a>
-				<a href="#" class="hp_menu_link">Newest Videos</a>
-				<a href="#" class="hp_menu_link">Most Popular</a>
-				<a href="#" class="hp_menu_link hp_m_link_last">My Videos</a>
-				</td>
-			<td class="hp_menu_center_sides hp_m_center_right"></td>
-		</tr>
-		<tr>
-			<td class="hp_menu_bottom_sides"></td>
-				<td class="hp_menu_bottom_center"></td>
-			<td class="hp_m_bottom_right"></td>
-		</tr>
-	</table>
-</div> -->
-
-
+<!-- Report Popup -->
+<script language="javascript" src="/public/js/jquery.form.js"></script>
 
 <script language="javascript">
 
-prev="";
+    var options = {
+        dataType:       'json',
+        url:        '/user/message/send/',
+        beforeSubmit:  showRequest_,
+        success:    tb_remove
+    };
 
-function show_menu(id)
-{
-if (prev!='')
-document.getElementById(prev).style.display='none';
-document.getElementById(id).style.display='block';
-prev = id;
+    $('#sendMessageForm_').ajaxForm(options);
 
-}
-tohide='';
-function hide_menu()
-{
-if (tohide!='')
-document.getElementById(tohide).style.display='none';
-}
+    function showRequest_(formData, jqForm, options)
+    {
+        if($('#textMessage_').val().length <= 0 || $('#subject_').val().length <= 0 )
+        {
+            alert('You should fill Subject and Message fields.');
+            //$('#send_mess_error').show();
+            return false;
+        }
+        else
+            return true;
 
-
-
-function hide_feedback_bubble()
-{
-    feedback_is_hidden = 1;
-    $('#feedback_info_popup').hide('slow');
-    $.post('/service/helper/shownofeedbackbubble/',{});
-    
-}
-
-
-var feedback_is_hidden = 0;
-
-function hide_beedback_bubble_temp()
-{
-
-    if(feedback_is_hidden == 0)
-    $('#feedback_info_popup').hide('slow');
-
-}
-
-
+    }
 </script>
 
 
+<!-- HEADER -->
+    <div class="header_bgs_container">
+        <div class="header_cover">
 
-        <a href="/index" class="header_menu_link" onmouseover="show_menu('home');return false;">Home</a>
-        <a href="/user/auth/signin" class="header_menu_link h_m_l_profile" onmouseover="show_menu('profile');return false;">Profile</a>
-        <a href="/user/people/show" class="header_menu_link h_m_l_browse" onmouseover="show_menu('browse');return false;">Browse</a>
-        <a href="/user/image/list/sort/popular" class="header_menu_link h_m_l_photos" onmouseover="show_menu('photos');return false;">Photos</a>
-        <a href="/user/video/list" class="header_menu_link h_m_l_videos" onmouseover="show_menu('videos');return false;">Videos</a>
-		<a href="#TB_inline?height=350&amp;width=373&amp;inlineId=send_feedback&amp;modal=true" class="thickbox header_menu_link h_m_l_feedback">Feedback</a>
+<div class="header_cover_line"></div>
+        </div>
+        <div class="header_color_bg" id="header_color_bg"></div>
 
-		<!-- <a href="/index" class="header_menu_link" onmouseover="document.getElementById('home').style.display='block';">Home</a>
-			<a href="/user/auth/signin" class="header_menu_link h_m_l_profile" onmouseover="document.getElementById('profile').style.display='block';">Profile</a>
-				<a href="/user/people/show" class="header_menu_link h_m_l_browse" onmouseover="document.getElementById('browse').style.display='block';">Browse</a>
-			<a href="/user/image/list/sort/popular" class="header_menu_link h_m_l_photos" onmouseover="document.getElementById('photos').style.display='block';">Photos</a>
-		<a href="/user/video/list" class="header_menu_link h_m_l_videos" onmouseover="document.getElementById('videos').style.display='block';">Videos</a> -->
-	</div>
+        <div class="header_line_bg"></div>
+    </div>
 
-	</div>
-
-
-
-		<div class="header_bottom_right">
-
-		<div class="header_bottom_spotlight_container"><div class="header_bottom_spotlight"></div></div>
-
-			<div class="header_search_container">
-			<form name="globalSearch" id="globalSearch" action="/user/search/people" method="POST">
-			<input type="text" alt="" name="searchString" class="header_search_field">
-
-				<div class="header_searchbutton_container">
-					<div class="header_searchbutton_sides"></div>
-						<div class="header_searchbutton_right">
-						<a href="#" class="header_searchbutton_link" onclick="$('#globalSearch').submit();return false;" id="SearchNormal">Search</a>
-						</div>
-					<div class="header_searchbutton_sides h_sb_right"></div>
-				</div>
-			</form>
-			</div>
-
-			<div class="cleaner"><!-- --></div>
-
-		</div>
-
-			<div class="cleaner"><!-- --></div>
+    <div class="global_container">
+<table class="table_100p_fixed">
+    <tbody><tr>
+        <td class="header_left_container">
+    <div class="header_logo" onclick="location.href='/index';"></div>
+        </td>
+        <td class="header_right_container">
+            <div class="header_menu_floater" style="width: 510px;">
+<div class="header_menu_container">
+    <div class="header_menu_sides"></div>
+        <div class="header_menu_center" style="width: 459px;"></div>
+    <div class="header_menu_sides h_m_sides_right"></div>
+<div class="cleaner"><!-- --></div>
 </div>
 
-			<div class="cleaner"><!-- --></div>
-</div>
-				</div>
+<div class="header_menu_content_container">
 
-	<div class="header_bg_sides header_bg_right"></div>
-			<div class="cleaner"><!-- --></div>
+<table>
+    <tbody><tr>
+        <td class="header_menu_content_item" onclick="location.href='/index';">
+			<div class="header_menu_content_item_home"></div>
+            <div class="header_menu_content_item_text_container" style="padding-right: 0px;">
+                <strong class="header_menu_content_item_text_1">Home</strong>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">Home</strong></div>
+            </div>
+                <div class="cleaner"><!-- --></div>
+        </td>
+        <td class="header_menu_content_item" onmouseover="show_menu('people');tohide='people';" onmouseout="hide_menu();return false;">
+            <div class="header_menu_content_item_text_container">
+                <strong class="header_menu_content_item_text_1">People</strong>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">People</strong></div>
+            </div>
 
+            <div class="header_menu_content_item_arrow"></div>
+                <div class="cleaner"><!-- --></div>
+        </td>
+        <td class="header_menu_content_item" onmouseover="show_menu('photos');tohide='photos';" onmouseout="hide_menu();return false;">
+            <div class="header_menu_content_item_text_container">
+                <strong class="header_menu_content_item_text_1">Photos</strong>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">Photos</strong></div>
+            </div>
 
-			<div class="header_b_menu_container">
-				<div class="header_b_menu_sides"></div>
-					<div class="header_b_menu_center">
-					<!--table class="table_100p_fixed" >
-						<tr>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Football</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Basketball</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Soccer</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Baseball</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Tennis</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Golf</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Boxing</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Hockey</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Softball</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Volleyball</a></td>
-							<td class="header_b_menu_link_container"><a href="#" class="header_b_menu_link">Racing</a></td>
-						</tr>
-					</table-->
-					</div>
-				<div class="header_b_menu_sides h_b_m_right"></div>
-					<div class="cleaner"><!-- --></div>
-			</div>
+            <div class="header_menu_content_item_arrow"></div>
+                <div class="cleaner"></div>
+        </td>
+        <td class="header_menu_content_item" onmouseover="show_menu('videos');tohide='videos';" onmouseout="hide_menu();return false;">
+            <div class="header_menu_content_item_text_container">
+                <strong class="header_menu_content_item_text_1">Videos</strong>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">Videos</strong></div>
+            </div>
 
-</div>
+            <div class="header_menu_content_item_arrow"></div>
+                <div class="cleaner"><!-- --></div>
+        </td>
+        <!--td class="header_menu_content_item" onmouseover="show_menu('teams');tohide='teams';" onmouseout="hide_menu();return false;">
+            <div class="header_menu_content_item_text_container">
+                <strong class="header_menu_content_item_text_1">Teams</strong>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">Teams</strong></div>
+            </div>
 
+            <div class="header_menu_content_item_arrow"></div>
+                <div class="cleaner"></div>
+        </td-->
+        <td class="header_menu_content_item" onmouseover="show_menu('board');tohide='board';" onmouseout="hide_menu();return false;">
+            <div class="header_menu_content_item_text_container">
+                <strong class="header_menu_content_item_text_1">Board</strong>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">Board</strong></div>
+            </div>
 
-<div class="content_container">
+            <div class="header_menu_content_item_arrow"></div>
+                <div class="cleaner"><!-- --></div>
+        </td>
 
-<div class="left_side_container">
-
-<div class="left_side_banner_top_title"><strong>Advertisement</strong></div>
-    <div class="left_side_banner_itself">
-                <!-- begin ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Wide Skyscraper - 160 x 600 -->
-                <iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=510;c=268;d=7;w=160;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>
-                <!-- end ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Wide Skyscraper - 160 x 600 --></div>
-
-</div>
-
-<div class="center_container_account_settings">
-
-
-<div class="acc_set_options_top_center"><strong>&nbsp;</strong></div>
-
-
-<div class="all_stats_header">
-    <div class="all_stats_username_left"><h1><strong>MVPSpot Privacy Policy</strong></h1></div>
-
-</div>
-
-
-<div class="all_stats_content_container" style="padding-top: 11px;">
-
-<div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Privacy Policy</strong><br>
-<strong class="help_inline_text">The use of the MVPSpot website(s) and/or MVPSpot software and any MVPSpot services and products (collectively, the "Website") provided by MVPSpot, LLC., ("MVPSpot") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the MVPSpot Terms &amp; Conditions. If you do not agree to this Privacy Policy, please do not use the Website. Your use of the Website constitutes your acceptable of the terms in this Privacy Policy.</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">General</strong><br>
-<strong class="help_inline_text">MVPSpot takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
-
-<p>BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. MVPSpot reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to check back, from time to time, for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.</p>
-
-If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us.
-
-<p>Please note that any video, photo, or other content posted at the direction of users onto the MVPSpot website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.</p></strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Collection of Personal Information.</strong><br>
-<strong class="help_inline_text">When you register to become a member of MVPSpot.com, you submit information such as your name and email address. As part of your personal profile, you may choose to submit additional information such as age, hobbies, and interests and other content, such as photos.
-
-<p>We also collect other non-personally identifiable data, which may include your IP address and what browser you are using.</p></strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Non personally-identifiable Information.</strong><br>
-<strong class="help_inline_text">MVPSpot may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.
-
-<p>MVPSpot may also collect or receive (in some cases as part of the Internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a MVPSpot client is used.</p></strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">How is the information being used?</strong><br>
-<strong class="help_inline_text">
-The information is used to operate and improve the features, offerings and content presented to you by MVPSpot, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest.
-
-<p>Please note that MVPSpot may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while MVPSpot's business partners and advertisers may receive aggregate data about MVPSpot users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information.</p>
-
-Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by MVPSpot in good faith. Furthermore, MVPSpot may transfer personally identifiable information in the event of a transfer of ownership of MVPSpot or any of its websites or products, in which case the information could become subject to a different privacy policy.
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Cookies and Similar Technology</strong><br>
-<strong class="help_inline_text">
-A "cookie" is a small text file that a Web site can place on your computer's hard drive to, for example, collect information about your activity on that site, or simply to "remember" your preferences on the site. The "cookie" transmits this information back to the Web site's computer. Many uses do not know that "cookies" are being place on their computers when they visit Web sites.
-
-<p>MVPSpot may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.</p>
-
-MVPSpot does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. You can also set your Web browser settings to notify you whenever a Web site seeks to place a "cookie" on your system, As technology evolves, MVPSpot reserves the right to employ other information collection technologies similar to "cookies."
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Third Party Ad Servers</strong><br>
-<strong class="help_inline_text">
-MVPSpot or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MVPSpot's.
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Security</strong><br>
-<strong class="help_inline_text">
- MVPSpot has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.
-
-<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, SSL and managerial procedures to safeguard and secure the information we collect online. </p>
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Data Collection and Sharing Policy</strong><br>
-<strong class="help_inline_text">
- MVPSpot's Privacy Policy is to share personal information only with the owner's informed consent. If you register with us, we may collect your personal information and send you communications from time to time. With your consent, from time-to-time, MVPSpot may also provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding MVPSpot's information sharing practices, please let us know. The designated contact for these queries is <a href="mailto:legal@MVPSpot.com">legal@MVPSpot.com</a>.
-
-<p>Note: In certain rare instances, we may be ordered by a court or other government entity to share your information. In such instances, we will share your personal information without your consent as required to do so by law enforcement, a court, or other government agency, or to protect our legal rights or the legal rights of others.</p>
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Other Information Automatically Collected</strong><br>
-<strong class="help_inline_text">
-Our servers automatically collect certain non-personally identifying information, such as your computer's IP address, the type of browser in use and pages viewed as you visit our Web site. We use this information to understand how visitors navigate our site, to enhance your experiences while using our site and to make the materials we post as valuable to visitors as possible.
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Special Note for Parents</strong><br>
-<strong class="help_inline_text">
-Protecting the privacy of young children is especially important. For that reason, MVPSpot does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If MVPSpot learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then MVPSpot will take the appropriate steps to delete this information.
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Third Parties' Practices.</strong><br>
-<strong class="help_inline_text">
-This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that MVPSpot does not own or control, or does not employ or manage. See also, "Third Party Ad Servers."
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Non-U.S. Users</strong><br>
-<strong class="help_inline_text">
-The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
-</strong>
-</div>
-
-<div class="help_inline_container">
-<strong class="help_inline_title">Assignment of Information</strong><br>
-<strong class="help_inline_text">
-MVPSpot reserves the right to transfer, sell or assign the information we collect to any entity that purchases all or part of our assets, or which otherwise should obtain the information in connection with a merger, consolidation, change in control, reorganization, or liquidation of all or part of our business.
-</strong>
-</div>
-
-<div class="help_go_back_link_container"><a href="#" onclick="history.go(-1);return false;" class="help_go_back_link">← Go back</a></div>
-
-</div>
+        <td class="thickbox header_menu_content_item h_m_content_item_last" onclick="">
+            <div class="header_menu_content_item_text_container">
+                <a href="#TB_inline?height=400&amp;width=626&amp;inlineId=send_feedback&amp;modal=true" class="thickbox header_menu_content_item_text_1">Feedback</a>
+                <div class="header_menu_content_item_text_2_container"><strong class="header_menu_content_item_text_2">Feedback</strong></div>
+            </div>
+                <div class="cleaner"><!-- --></div>
+        </td>
+    </tr>
+</tbody></table>
 
 
-<div class="all_stats_inside_cleaner"><!-- --></div>
-
-
+<div id="people" onmouseover="show_menu('people');tohide='people';" onmouseout="hide_menu();return false;" style="display: none; position: absolute; z-index: 100; margin: -4px 0px 0px 69px;">
+    <table class="h_submenu_table">
+        <tbody><tr>
+            <td class="h_submenu_top_sides"></td>
+            <td class="h_submenu_top_center"></td>
+            <td class="h_submenu_top_sides h_s_top_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_center_sides"></td>
+            <td class="h_submenu_center_center" style="width:171px;">
+                <a href="/user/people/show/type/MostPopular" class="h_submenu_link">Most Popular</a>
+                <a href="/user/people/show/type/NewestMembers" class="h_submenu_link">Newest Members</a>
+                <a href="/user/people/show/type/FeaturedMembers" class="h_submenu_link h_submenu_link_last">Featured Members</a>
+            </td>
+            <td class="h_submenu_center_sides h_s_center_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_bottom_sides"></td>
+            <td class="h_submenu_bottom_center"></td>
+            <td class="h_submenu_bottom_sides h_s_bottom_sides_right"></td>
+        </tr>
+    </tbody></table>
 </div>
 
 
 
+<div id="groups" onmouseover="show_menu('groups');tohide='groups';" onmouseout="hide_menu();return false;" style="display:none;position: absolute; z-index: 100; margin: -4px 0px 0px 148px;">
+    <table class="h_submenu_table">
+        <tbody><tr>
+            <td class="h_submenu_top_sides"></td>
+            <td class="h_submenu_top_center"></td>
+            <td class="h_submenu_top_sides h_s_top_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_center_sides"></td>
+            <td class="h_submenu_center_center" style="width:171px;">
+
+                <a href="/user/groups/view/show/featured/" class="h_submenu_link">Featured Groups</a>
+                <a href="/user/groups/view/show/popular/" class="h_submenu_link">Most Popular</a>
+                <a href="/user/groups/view/show/recent/" class="h_submenu_link">Latest Groups</a>
+                <a href="/user/groups/view/show/my_groups/" class="h_submenu_link">My Groups</a>
+                <a href="/user/groups/create/" class="h_submenu_link h_submenu_link_last">Create Group</a>
+            </td>
+            <td class="h_submenu_center_sides h_s_center_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_bottom_sides"></td>
+            <td class="h_submenu_bottom_center"></td>
+            <td class="h_submenu_bottom_sides h_s_bottom_sides_right"></td>
+        </tr>
+    </tbody></table>
 </div>
 
 
-<div class="acc_set_right_main_container">
 
-    <div class="acc_set_bottom_right_banner">
-        <div class="left_side_banner_top_title">
-        <strong>Advertisement</strong>
+<div id="teams" onmouseover="show_menu('teams');tohide='teams';" onmouseout="hide_menu();return false;" style="display:none;position: absolute; z-index: 100; margin: -4px 0px 0px 230px;">
+    <table class="h_submenu_table">
+        <tbody><tr>
+            <td class="h_submenu_top_sides"></td>
+            <td class="h_submenu_top_center"></td>
+            <td class="h_submenu_top_sides h_s_top_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_center_sides"></td>
+            <td class="h_submenu_center_center" style="width:171px;">
+
+                                 <a href="/user/team/view/show/my_teams/" class="h_submenu_link">Manage Teams</a>
+                <a href="/user/team/view/show/popular/" class="h_submenu_link">Popular Teams</a>
+                <a href="/user/team/view/show/recent/" class="h_submenu_link h_submenu_link_last">Latest Teams</a>
+
+            </td>
+            <td class="h_submenu_center_sides h_s_center_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_bottom_sides"></td>
+            <td class="h_submenu_bottom_center"></td>
+            <td class="h_submenu_bottom_sides h_s_bottom_sides_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+<div id="board" onmouseover="show_menu('board');tohide='board';" onmouseout="hide_menu();return false;" style="display:none;position: absolute; z-index: 100; margin: -4px 0px 0px 304px;">
+    <table class="h_submenu_table">
+        <tbody><tr>
+            <td class="h_submenu_top_sides"></td>
+            <td class="h_submenu_top_center"></td>
+            <td class="h_submenu_top_sides h_s_top_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_center_sides"></td>
+            <td class="h_submenu_center_center" style="width:105px;">
+                <a href="/user/board/" class="h_submenu_link">View Board</a>
+                <a href="/user/board/mythreads/" class="h_submenu_link h_submenu_link_last">My Threads</a>
+
+
+            </td>
+            <td class="h_submenu_center_sides h_s_center_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_bottom_sides"></td>
+            <td class="h_submenu_bottom_center"></td>
+            <td class="h_submenu_bottom_sides h_s_bottom_sides_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+
+
+<div id="photos" onmouseover="show_menu('photos');tohide='photos';" onmouseout="hide_menu();return false;" style="display:none;position: absolute; z-index: 100; margin: -4px 0px 0px 148px;">
+    <table class="h_submenu_table">
+        <tbody><tr>
+            <td class="h_submenu_top_sides"></td>
+            <td class="h_submenu_top_center"></td>
+            <td class="h_submenu_top_sides h_s_top_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_center_sides"></td>
+            <td class="h_submenu_center_center" style="width:145px;">
+                <a href="/user/image/list/sort/latest/" class="h_submenu_link">Latest</a>
+                <a href="/user/image/list/sort/popular/" class="h_submenu_link">Most popular</a>
+                <a href="/user/image/list/sort/rated/" class="h_submenu_link">Highest rated</a>
+                <a href="/user/image/list/sort/featured/" class="h_submenu_link">Featured</a>
+                <a href="/user/index/index/citem/photos/" class="h_submenu_link h_submenu_link_last">My Albums</a>
+            </td>
+            <td class="h_submenu_center_sides h_s_center_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_bottom_sides"></td>
+            <td class="h_submenu_bottom_center"></td>
+            <td class="h_submenu_bottom_sides h_s_bottom_sides_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+<div id="videos" onmouseover="show_menu('videos');tohide='videos';" onmouseout="hide_menu();return false;" style="display:none;position: absolute; z-index: 100; margin: -4px 0px 0px 227px;">
+    <table class="h_submenu_table">
+        <tbody><tr>
+            <td class="h_submenu_top_sides"></td>
+            <td class="h_submenu_top_center"></td>
+            <td class="h_submenu_top_sides h_s_top_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_center_sides"></td>
+            <td class="h_submenu_center_center" style="width:145px;">
+                <a href="/user/video/list/sort/latest/" class="h_submenu_link">Latest</a>
+                <a href="/user/video/list/sort/popular/" class="h_submenu_link">Most Popular</a>
+                <a href="/user/video/list/sort/rated/" class="h_submenu_link">Highest rated</a>
+                <a href="/user/video/list/sort/featured/" class="h_submenu_link">Featured</a>
+                <a href="/user/index/index/citem/videos/" class="h_submenu_link h_submenu_link_last">My Videos</a>
+                <!--a href="/user/index/index/citem/uploadvideos/" class="h_submenu_link ">Upload Videos</a-->
+
+            </td>
+            <td class="h_submenu_center_sides h_s_center_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="h_submenu_bottom_sides"></td>
+            <td class="h_submenu_bottom_center"></td>
+            <td class="h_submenu_bottom_sides h_s_bottom_sides_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+
+
+
+
+</div>
+
         </div>
 
-            
-                <!-- begin ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Medium Rectangle - 300 x 250 -->
-                <iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=510;c=268;s=72;d=9;w=300;h=250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe>
-                <!-- end ZEDO for channel: MVPSpot , publisher: MVPSpot , Ad Dimension: Medium Rectangle - 300 x 250 -->    </div>
 
+
+        <div class="header_search_container">
+			<form name="globalSearch" id="globalSearch" action="/user/search/advancedPeople" method="POST" style="padding: 0px; border: 0px; margin: 0px; float: none;">
+				<div class="header_search_input_container">
+					<input type="text" class="header_search_input" alt="" name="firstName" id="searchInput_def">
+				</div>
+				<div class="header_search_button_container" id="searchButton">
+					<table class="header_search_button_table" onclick="$('#globalSearch').submit();return false;" id="SearchNormal">
+						<tbody><tr>
+							<td class="header_search_button_sides"></td>
+							<td class="header_search_button_center">
+								<strong class="header_search_title_white">Search</strong>
+								<div class="header_search_title_black_container">
+									<strong class="header_search_title_black">Search</strong>
+								</div>
+							</td>
+							<td class="header_search_button_sides h_s_b_sides_right"></td>
+						</tr>
+					</tbody></table>
+									<div style="width: 0px; height: 0px; overflow: hidden;">
+					<input type="submit" alt="">
+				</div>
+				</div>
+			</form>
+        </div>
+
+<div class="cleaner"><!-- --></div>
+
+<div class="header_welcome_params_container">
+    <div class="header_welcome_container">
+           </div>
+    <div class="header_params_container">
+    
+        <script type="text/javascript" src="/public/js/thickbox.js"></script>
+
+        <link href="/public/styles/thickbox_gray.css" rel="stylesheet" type="text/css">
+                
+        <a href="/user/auth/signin" class="header_params_link_gray">Login</a>
+    </div>
+<div class="cleaner"><!-- --></div>
 </div>
+
+        </td>
+    </tr>
+</tbody></table>
+    </div>
+<!-- HEADER END -->
+
+<div class="center_main_container">
+
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="center_shadow_sides"></td>
+            <td class="center_shadow_center">
+<table class="table_100p_fixed">
+    <tbody><tr>
+        <td class="center_center_container">
+
+<div class="about_title">
+    <h1 class="r_i_left_title bigger">Privacy Policy</h1>
+</div>
+
+<div class="about_content">
+The use of the MVPSpot website(s) and/or MVPSpot software and any MVPSpot services and products (collectively, the "Website") provided by MVPSpot, LLC., ("MVPSpot") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto.
+<br>This Privacy Policy is incorporated into and is subject to the MVPSpot Terms &amp; Conditions.
+
+<br><br>If you do not agree to this Privacy Policy, please do not use the Website. Your use of the Website constitutes your acceptable of the terms in this Privacy Policy.
+
+    <div class="about_p">
+        <h2 class="r_i_left_title">General</h2>
+        <p>
+MVPSpot takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
+<br><br>
+BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER.<br>
+MVPSpot reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to check back, from time to time, for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms.
+If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us.
+<br><br>
+Please note that any video, photo, or other content posted at the direction of users onto the MVPSpot website becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Collection of Personal Information.</h2>
+        <p>
+When you register to become a member of MVPSpot.com, you submit information such as your name and email address. As part of your personal profile, you may choose to submit additional information such as age, hobbies, and interests and other content, such as photos.<br><br>
+
+We also collect other non-personally identifiable data, which may include your IP address and what browser you are using.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Non personally-identifiable Information.</h2>
+        <p>
+MVPSpot may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website.
+<br><br>
+MVPSpot may also collect or receive (in some cases as part of the Internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a MVPSpot client is used.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">How is the information being used?</h2>
+        <p>
+The information is used to operate and improve the features, offerings and content presented to you by MVPSpot, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest.
+<br><br>
+Please note that MVPSpot may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while MVPSpot's business partners and advertisers may receive aggregate data about MVPSpot users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information.
+<br><br>
+Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by MVPSpot in good faith. Furthermore, MVPSpot may transfer personally identifiable information in the event of a transfer of ownership of MVPSpot or any of its websites or products, in which case the information could become subject to a different privacy policy.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Cookies and Similar Technology</h2>
+        <p>
+A "cookie" is a small text file that a Web site can place on your computer's hard drive to, for example, collect information about your activity on that site, or simply to "remember" your preferences on the site. The "cookie" transmits this information back to the Web site's computer. Many uses do not know that "cookies" are being place on their computers when they visit Web sites.
+<br><br>
+MVPSpot may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.
+<br><br>
+MVPSpot does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. You can also set your Web browser settings to notify you whenever a Web site seeks to place a "cookie" on your system, As technology evolves, MVPSpot reserves the right to employ other information collection technologies similar to "cookies."
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Third Party Ad Servers</h2>
+        <p>
+MVPSpot or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MVPSpot's.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Security</h2>
+        <p>
+MVPSpot has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.
+<br><br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, SSL and managerial procedures to safeguard and secure the information we collect online.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Data Collection and Sharing Policy</h2>
+        <p>
+MVPSpot's Privacy Policy is to share personal information only with the owner's informed consent. If you register with us, we may collect your personal information and send you communications from time to time. With your consent, from time-to-time, MVPSpot may also provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding MVPSpot's information sharing practices, please let us know.
+<br><br>
+The designated contact for these queries is <a href="mailto:legal@MVPSpot.com">legal@MVPSpot.com</a>.
+<br><br>
+Note: In certain rare instances, we may be ordered by a court or other government entity to share your information. In such instances, we will share your personal information without your consent as required to do so by law enforcement, a court, or other government agency, or to protect our legal rights or the legal rights of others
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Other Information Automatically Collected</h2>
+        <p>
+Our servers automatically collect certain non-personally identifying information, such as your computer's IP address, the type of browser in use and pages viewed as you visit our Web site. We use this information to understand how visitors navigate our site, to enhance your experiences while using our site and to make the materials we post as valuable to visitors as possible.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Special Note for Parents</h2>
+        <p>
+Protecting the privacy of young children is especially important. For that reason, MVPSpot does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If MVPSpot learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then MVPSpot will take the appropriate steps to delete this information.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Third Parties' Practices.</h2>
+        <p>
+This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that MVPSpot does not own or control, or does not employ or manage. See also, "Third Party Ad Servers."
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Non-U.S. Users</h2>
+        <p>
+The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
+        </p>
+    </div>
+    <div class="about_p">
+        <h2 class="r_i_left_title">Assignment of Information</h2>
+        <p>
+MVPSpot reserves the right to transfer, sell or assign the information we collect to any entity that purchases all or part of our assets, or which otherwise should obtain the information in connection with a merger, consolidation, change in control, reorganization, or liquidation of all or part of our business.
+        </p>
+    </div>
+</div>
+
+        </td>
+    </tr>
+</tbody></table>
+
 
 
 <script type="text/javascript" src="/public/js/thickbox.js"></script>
-<!--script type="text/javascript" src="/public/js/jqbrowser.js"></script-->
-
 <link href="/public/styles/thickbox_gray.css" rel="stylesheet" type="text/css">
 
 <script language="javascript">
@@ -579,66 +1216,60 @@ MVPSpot reserves the right to transfer, sell or assign the information we collec
 
 
 function feedback_submit()
+{
+    var error=0;
+
+    if($('#f_your_name').val()=='' )
     {
-       
-        var error=0;
-
-                            if($('#f_your_name').val()=='' )
-                {
-                    error=1;
-                    $('#f_name_err').html('Type in Your Name');
-                }
-                else
-                {
-                    error=0;
-                    $('#f_name_err').html('');
-                }
-
-               /* if($('#f_your_email').val()=='' )
-                {
-                    error=1;
-                    $('#f_email_err').html('Type in Your Email');
-                }
-                else
-                {
-                    error=0;
-                    $('#f_email_err').html('');
-                }*/
-            
-            
-        if($('#f_message').val()=='' )
-        {
-            error=1;
-            $('#f_message_err').html('Type in Your Message');
-        }
-        else
-            {
-                error=0;
-                $('#f_message_err').html('');
-            }
-
-        if(error==0)
-        {
-            send_feedback();
-        }
-
+        error=1;
+        $('#f_name_err').html('Type in Your Name');
     }
+    else
+    {
+        error=0;
+        $('#f_name_err').html('');
+    }
+
+
+
+    if($('#f_message').val()=='' )
+    {
+        error=1;
+        $('#f_message_err').html('Type in Your Message');
+    }
+    else
+    {
+        error=0;
+        $('#f_message_err').html('');
+    }
+
+    if(error==0)
+    {
+        send_feedback();
+    }
+
+}
 
 function send_feedback()
 {
+    //html = $('#body').html();
     html = $('#global_container').html();
+
     f_ID = $('#f_ID').val();
     f_your_name = $('#f_your_name').val();
-         f_your_email = $('#f_your_email').val();
-    
+
+
+    f_your_email = $('#f_your_email').val();
+
+
     f_message = $('#f_message').val();
     f_href = location.href;
     b_version ='';
     b_name ='';
 
-    browser_name = ''; //($.browser.browser() +" "+ $.browser.version.number());
+    browser_name = '';//($.browser.browser() +" "+ $.browser.version.number());
     os = '';//$.browser.OS();
-    
+
 
 
    $.post(
@@ -652,9 +1283,9 @@ function send_feedback()
                 Userhref: f_href,
                 browser_stats: browser_name,
                 Useros: os,
-                design: 'old'
+                design: 'new'
 
-                
+
             },onFeedbackSuccess
 
           );
@@ -662,156 +1293,171 @@ function send_feedback()
 }
 function onFeedbackSuccess(data)
 {
-   // text = data;
 
-   if(data == 'success')
-        {
+    if(data == 'success')
+    {
         text = 'Your message has been succesfully sent. Thank you. ';
         setTimeout('tb_remove();',2000);
         $('#f_message').val('');
         $('#result_div').css({color: '#5c8842'});
-        }
+    }
     else
-        {
+    {
         text = 'Your message has not been sent. Try again later. ';
         $('#result_div').css({color: '#cb2b2b'});
         $('#result_div').css({color: '#5c8842'});
-        }
+    }
+
    if(data == 'email_error')
          $('#f_email_err').html('The email is incorrect.');
    else
         $('#f_email_err').html('');
-        
-   $('#result_div').html(text);
-    
 
-    
+   $('#result_div').html(text);
 
 }
 
-        
+
 
 
         </script>
 
+<!-- Report Popup -->
+<div style="display: none;" id="send_feedback">
+    <table class="pp_shadow_table">
+        <tbody><tr>
+            <td class="pp_shadow_corners"></td>
+            <td class="pp_shadow_top_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_top_right"></td>
+        </tr>
+        <tr>
+            <td class="pp_shadow_sides"></td>
+            <td class="pp_shadow_center">
+                <div class="gray_block_header_container">
+                    <div class="gray_block_header_left popup">
+                        <strong class="gray_block_title_white">MVPSpot Feedback</strong>
+                        <div class="gray_block_title_black_container"><strong class="gray_block_title_black">MVPSpot Feedback</strong></div>
+                    </div>
+                    <div class="pp_header_close_container" onclick="tb_remove();">
+                        <div class="pp_header_close"></div>
+                    </div>
+                        <div class="cleaner"><!-- --></div>
+                </div>
+                <div id="friends_list">
+                <form name="feedback_form" id="feedback_form" action="" method="post">
 
+                <div class="p_report_inline_container">
+                    <strong class="p_report_title">Your name</strong><br>
+                    
+                        <input type="text" class="p_report_field" name="f_your_name" id="f_your_name">
+                        
+                        <strong id="f_name_err" class="p_report_field" style="color: #cb2b2b;"></strong>
+                        
+                        <strong class="index_right_regular_join_text">Your email (optional)</strong><br>
+                        
+                        <input type="text" class="p_report_field" name="f_your_email" id="f_your_email">
+                        <input type="hidden" name="f_ID" id="f_ID" value="0">
+                        
+                        <strong id="f_email_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
+                                                        
+                    
 
-<div id="send_feedback" class="center_right_comments_left_pic" style="width: 100%; height: 100%; display: none;">
+                    <div class="p_report_message_container">
+                        <strong style="font-size: 18px; font-weight: normal;">Message</strong>
+                        <textarea cols="" rows="" class="p_report_textarea" name="f_message" id="f_message"></textarea>
+                    </div>
+                </div>
 
-    <div style="padding: 0px 0px 0px 0px;">
-	
-<div class="all_stats_header">
-    <div class="all_stats_username_left" style="padding-left: 7px; padding-top: 7px;"><h1><strong>MVPSpot Feedback</strong></h1></div>
+                <div class="pp_bottom_save_container">
+                    
+                    <table class="pp_bottom_save_table" onclick="feedback_submit();return false;">
+                        <tbody><tr>
+                            <td class="pp_bottom_save_sides"></td>
+                            <td class="pp_bottom_save_center">
+                                <div class="pp_bottom_save_inline">
+                                    <strong class="pp_bottom_save_top_title">Send</strong>
+                                    <div class="pp_bottom_save_bottom_title_container"><strong class="pp_bottom_save_bottom_title">Send</strong></div>
+                                </div>
+                            </td>
+                            <td class="pp_bottom_save_sides pp_b_s_sides_right"></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                </form>
+                </div>
+
+            </td>
+            <td class="pp_s_sides_right"></td>
+        </tr>
+        <tr>
+            <td class="pp_shadow_corners pp_s_corners_bottom_left"></td>
+            <td class="pp_shadow_top_bottom pp_s_t_b_bottom"></td>
+            <td class="pp_shadow_corners pp_s_corners_bottom_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+<!-- Report Popup -->
+
+</td>
+        <td class="center_shadow_sides c_s_sides_right"></td>
+    </tr>
+</tbody></table>
+
+<div class="center_bottom_shadows_container">
+    <table class="table_100p_fixed">
+        <tbody><tr>
+            <td class="center_shadow_bottom_sides"></td>
+            <td class="center_shadow_bottom_center"></td>
+            <td class="center_shadow_bottom_sides c_s_b_sides_right"></td>
+        </tr>
+    </tbody></table>
+</div>
+
+            </div>
+
+<div class="footer_container">
+    <div class="right" style="padding: 0px 14px 0px 0px; background: none;">© 2009 MVPSpot, INC</div>
+        <a href="/service/static/about" class="footer_link">About MVPSpot</a>|<!--<a href="/service/static/contactNotExisting" class="footer_link">Contact Information</a>|--><a href="/service/static/privacyp" class="footer_link">Privacy Policy</a>|<a href="/service/static/terms" class="footer_link">Terms &amp; Conditions</a>|<a href="/service/static/help" class="footer_link">Help</a>|<a href="#TB_inline?height=400&amp;width=626&amp;inlineId=send_feedback&amp;modal=true" class="thickbox footer_link">Feedback</a>
+    <div class="cleaner"><!-- --></div>
 </div>
 
 
-<div class="edit_friends_content_container" style="padding: 6px 0px 5px 18px;">
-
-        <table class="main_inline_content_container_table">
-           <tbody><tr>
-                <td>
-				<div id="friends_list">
-
-<form name="feedback_form" id="feedback_form" action="" method="post">
-
-                                            <table class="table_100p_fixed">
-                                                <tbody><tr>
-                                                    
-                                                    <td>
-                                                    <div style="float: none; clear: both">
-                                                        <strong class="index_right_regular_join_text">Your name</strong><br>
-                                                         
-                                                                    <input type="text" class="blog_create_long_input" style="width: 164px;" name="f_your_name" id="f_your_name">
-																	<div style="clear: both; height: 4px; font-size: 0px; line-height: 0px;"><!-- --></div>	
-																	<strong id="f_name_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
-																	<div style="clear: both; height: 6px; font-size: 0px; line-height: 0px;"><!-- --></div>	
-                                                                    <strong class="index_right_regular_join_text">Your email (optional)</strong>
-                                                                    <br>
-                                                                    <input type="text" class="blog_create_long_input" style="width: 164px;" name="f_your_email" id="f_your_email">
-                                                                    <input type="hidden" class="n_s_def_input" style="width: 164px;" name="f_ID" id="f_ID" value="0">
-																	<div style="clear: both; height: 4px; font-size: 0px; line-height: 0px;"><!-- --></div>	
-                                                                    <strong id="f_email_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
-                                                                                                                    </div>
-
-                                                    <div style="padding: 7px 0px 0px 0px;">
-                                                        <strong class="index_right_regular_join_text">Your message</strong><br>
-                                                        <textarea cols="" rows="" class="edit_profile_personal_default_textarea" style="width: 330px;" name="f_message" id="f_message"></textarea>
-														<div style="clear: both; height: 4px; font-size: 0px; line-height: 0px;"><!-- --></div>	
-                                                        <strong id="f_message_err" class="index_right_regular_join_text" style="color: #cb2b2b;"></strong>
-                                                    </div>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-
-											<div style="float: right; padding: 15px 18px 0px 0px;">
-												<a href="javascript:void(0);" onclick="tb_remove();"><img src="http://static.mvpspot.com/public/images/user/cancel_button.png" alt=""></a>
-												<a href="javascript:void(0);" onclick="feedback_submit();return false;" style="margin-left: 10px;"><img src="http://static.mvpspot.com/public/images/user/save_button.png" alt=""></a>
-
-                                            </div>
-                											
-											<div style="clear: both; height: 6px; font-size: 0px; line-height: 0px;"><!-- --></div>	
-				                                            <div class="index_right_regular_join_text" style="color: #cb2b2b;" id="result_div"></div>
-                                            </form>
-                                            
-				
-                   </div>
-				</td>
-                </tr>
-        </tbody></table>
-
-</div>
-
-
-    
-</div>
-
-
-
-
-  </div>
-
-
-
-<div class="footer_main_container">
-    <a href="/service/static/about" class="footer_menu_link">About MVPSpot</a>|
-    <a href="/service/static/contactNotExisting" class="footer_menu_link">Contact Information</a>|
-    <a href="/service/static/privacyp" class="footer_menu_link">Privacy Policy</a>|
-    <a href="/service/static/terms" class="footer_menu_link">Terms &amp; Conditions</a>|
-    <a href="/service/static/help" class="footer_menu_link">HELP!</a>|
-    <a href="#TB_inline?height=350&amp;width=373&amp;inlineId=send_feedback&amp;modal=true" class="thickbox footer_menu_link">Feedback</a>
-
-    <strong class="footer_copyright">© 2008 MVPSpot, INC.</strong>
-
-    <!--<a href="/user/rss"><img src="http://static.mvpspot.com/public/images/user/rss_icon.png" alt="" class="footer_rss_icon" /></a> -->
-</div>
-
-
-
-
-
-
-
-</div>
-    </div>
-
-
-<!-- Start Quantcast tag -->
- <script type="text/javascript" src="http://edge.quantserve.com/quant.js" ;=""></script>
+<!-- Start Quantcast tag
+ <script type="text/javascript" src="http://edge.quantserve.com/quant.js";></script>
 <script type="text/javascript">_qacct="p-c3dJ1YYWL1WIU";quantserve();</script>
 <noscript>
 <a href=" http://www.quantcast.com/p-c3dJ1YYWL1WIU"; target="_blank"><img src=" http://pixel.quantserve.com/pixel/p-c3dJ1YYWL1WIU.gif"; style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<!-- End Quantcast tag -->
+ End Quantcast tag -->
 
 
 
-        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-        <script type="text/javascript">_uacct = "UA-2869392-1";urchinTracker();</script>
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-3726998-1");
+        pageTracker._trackPageview();
+        } catch(err) {}</script>
 
-        <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> var pageTracker = _gat._getTracker("UA-2869392-1"); pageTracker._trackPageview(); </script>
-        
-        
+        <!-- Start of StatCounter Code -->
+        <script type="text/javascript">
+        var sc_project=5091216;
+        var sc_invisible=1;
+        var sc_partition=58;
+        var sc_click_stat=1;
+        var sc_security="e1433cc8";
+        </script>
 
+        <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+        class="statcounter"><a title="wordpress com stats plugin"
+        href="http://www.statcounter.com/wordpress.com/" target="_blank"><img
+        class="statcounter" src="http://c.statcounter.com/5091216/0/e1433cc8/1/"
+        alt="wordpress com stats plugin" ></a></div></noscript>
+        <!-- End of StatCounter Code -->
+        </div>
 
 
 </body></html>
