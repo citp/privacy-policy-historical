@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513100934id_/http%3A//studiosystem.com%3Faction%3DunauthPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103064357id_/http%3A//studiosystem.com%3Faction%3DunauthPrivacy) for the most accurate reproduction.*
 
 # The StudioSystem
 
@@ -15,7 +15,7 @@ We may run contests on our site in which we ask visitors for contact information
 
 Baseline products and services are directed at an adult market, and therefore this site is inteded for use by adults only. Baseline encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this web site by users under 13 years of age without the consent of their parent or guardian. 
 
-Users that Baseline knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to info@filmtracker.com so that Baseline may alert the parent or guardian of their child's use of this web site. The parent or guardian must consent to Baseline's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside Baseline. If Baseline collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Policy Act of 1998 (U.S.C. 6501 et seq.). 
+Users that Baseline knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian [here](http://blssi.com/contact.aspx) so that Baseline may alert the parent or guardian of their child's use of this web site. The parent or guardian must consent to Baseline's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside Baseline. If Baseline collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Policy Act of 1998 (U.S.C. 6501 et seq.). 
 
 Ads appearing on this web site are delivered to you by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -31,23 +31,23 @@ This site has security measures in place to protect the loss, misuse, and altera
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 This site gives users the following options for removing their information from our database to not receive future commuincations or to no longer receive our service:   
-Users can send email to [contact@filmtracker.com](mailto:contact@filmtracker.com)   
-Users can visit the following URL: http://baseline.filmtracker.com   
+Users can send [here](http://blssi.com/contact.aspx)   
+Users can visit the following URL: http://blssi.com   
 Users can send mail to the following postal address:  
-520 Broadway Street  
-Suite 230  
-Santa Monica, CA 90401  
+3415 S. Sepulveda Blvd.  
+Suite 200  
+Los Angeles, CA 90034  
 Users can call the following telephone number: (310) 434-7295  
 
 
 **Correct/Update**  
 The site gives users the following options for changing and modifying information previously provided:   
-Users can send email to [contact@filmtracker.com](mailto:contact@filmtracker.com)   
-Users can visit the following URL: http://baseline.filmtracker.com   
+Users can send email [here](http://blssi.com/contact.aspx)   
+Users can visit the following URL: http://blssi.com   
 Users can send mail to the following postal address:  
-520 Broadway Street  
-Suite 230  
-Santa Monica, CA 90401  
+3415 S. Sepulveda Blvd.  
+Suite 200  
+Los Angeles, CA 90034  
 
 
 Users can call the following telephone number: (310) 434-7295  
@@ -57,9 +57,9 @@ This policy may change from time to time so please check back periodically.
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
 Baseline, Inc.  
-520 Broadway  
-Suite 230  
-Santa Monica, CA 90401  
+3415 S. Sepulveda Blvd.  
+Suite 200  
+Los Angeles, CA 90034  
 
 
-or email us at [contact@filmtracker.com](mailto:contact@filmtracker.com). 
+or email us [here](http://blssi.com/contact.aspx). 
