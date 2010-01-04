@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216003036id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104121543id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
-# Satisfaction - MySpace Layouts, Free MySpace Comments, MySpace Graphics, Backgrounds & Codes
+# Satisfaction | MySpace Layouts, MySpace Comments, Graphics & Codes
 
 Satisfaction.com strongly believes in the privacy of all information collected through this site and we do not sell, rent or otherwise transfer any personally identifiable information about our users to any third party without the prior consent of the individual user.
 
@@ -12,9 +12,11 @@ Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
+Satisfaction.com adheres to the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. More information about the NAI and its 2008 NAI Principles can be found at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out from such information collection and use, visit the NAI's opt-out page at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
 The Information We Collect:
 
-This notice applies to all information collected or submitted on the Satisfaction.com website. On some pages, you can make requests and register to buy and sell. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the Satisfaction.com website. On some pages, you can sign up, make requests and register to buy and sell. The types of personal information collected at these pages are: 
 
 Name   
 Address   
@@ -36,7 +38,7 @@ Phone Number
 
 The Way We Use Information:
 
-We use the information you provide about yourself when buying or selling. We do not share this information with outside parties except to the extent necessary to complete that transaction 
+We use the information you provide about yourself when buying or selling at our auction site. We do not share this information with outside parties except to the extent necessary to complete that transaction 
 
 We use the information you provide about someone else when buying or selling only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete the transactoin. 
 
