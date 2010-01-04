@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vebnest.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629114753id_/http%3A//www.vebnest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebnest.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104151815id_/http%3A//www.vebnest.com/privacy.html) for the most accurate reproduction.*
 
 # VEBNEST 24 Hours Web Solutions, Web Hosting start at $1.95/month, Linux Hosting, Windows Hosting, Ecommerce Hosting
 
