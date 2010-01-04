@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebenta.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803160504id_/http%3A//www.ebenta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebenta.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104121527id_/http%3A//www.ebenta.com/privacy.php) for the most accurate reproduction.*
 
 # eBenTa ver2.0 - Your Source for Social News and Networking
 
