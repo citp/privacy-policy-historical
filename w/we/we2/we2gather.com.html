@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the we2gather.com privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615105611id_/http%3A//we2gather.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the we2gather.com privacy policy that was archived on 2010-01-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100104091743id_/http%3A//www.we2gather.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-				
+		
 
 
 	<meta http-equiv="Pragma" content="no-cache">
@@ -16,42 +16,104 @@
 	<meta name="Robots" content="All">
 		
 
-	
-		<link rel="stylesheet" type="text/css" href="/templates/wistie/css/style.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="/templates/wistie/css/wick.css">
 
-		<link rel="stylesheet" type="text/css" href="/templates/wistie/css/dropdown.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="/templates/wistie/css/dropdown-default.css" media="screen">
-		<!--[if lt IE 7]>
-		<script type="text/javascript" src="/templates/wistie/js/jquery/jquery.js"></script>
-		<script type="text/javascript" src="/templates/wistie/js/jquery/jquery.dropdown.js"></script>
-		<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/w2g/css/style.css" media="screen">
 	
-			
-						
-	
-								
-				<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
-						
+    <!--[if lte IE 6]>
+    <script type="text/javascript">
+    /* <![CDATA[ */
+       blankimgpath = '/templates/w2g/images/blank.gif';
+     /* ]]> */
+    </script>
+    <style type="text/css" media="screen">
+      @import "/templates/w2g/css/ie6.css";
+      body{ behavior:url("/templates/w2g/js/ie6hoverfix.htc"); }
+      img{ behavior: url("/templates/w2g/js/ie6pngfix.htc"); }
+    </style>
+    <![endif]-->
 
-					<title> WE2GATHER | </title>
+
+	    <script type="text/javascript" src="/templates/w2g/js/jquery.js"></script>
+    <script type="text/javascript" src="/templates/w2g/js/fusion.js"></script>
+
+		
+						
+			<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
 				
-		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.we2gather.com/rss.php">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-			
+
+			<title> WE2GATHER | </title>
 		
-<script src="./modules/scriptaculous/js/prototype.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/scriptaculous.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/builder.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/controls.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/dragdrop.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/EditInPlace.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/effects.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/slider.js.gz" type="text/javascript"></script>
-<script src="./modules/scriptaculous/js/sound.js.gz" type="text/javascript"></script></head>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.we2gather.com/rss.php">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+ jQuery(document).ready(function(){
+  // body .safari class
+  if (jQuery.browser.safari) jQuery('body').addClass('safari');
+
+  // layout controls
+
+   jQuery("#layoutcontrol a").click(function() {
+     switch (jQuery(this).attr("class")) {
+	   case 'setFont' : setFontSize();	break;
+	   case 'setLiquid'	: setPageWidth();	break;
+	 }
+	 return false;
+    });
+   // set the font size from cookie
+   var font_size = jQuery.cookie('fontSize');
+   if (font_size == '.7em') { jQuery('body').css("font-size",".7em"); }
+   if (font_size == '.95em') { jQuery('body').css("font-size",".95em"); }
+   if (font_size == '.8em') { jQuery('body').css("font-size",".8em"); }
+
+   // set the page width from cookie
+   var page_width = jQuery.cookie('pageWidth');
+   if (page_width) jQuery('#page').css('width', page_width);
+
+
+  jQuery('#secondary-tabs').minitabs(333, 'slide');
+
+  if (document.all && !window.opera && !window.XMLHttpRequest && jQuery.browser.msie) { var isIE6 = true; }
+  else { var isIE6 = false;} ;
+  jQuery.browser.msie6 = isIE6;
+  if (!isIE6) {
+    initTooltips({
+		timeout: 6000
+   });
+  }
+  tabmenudropdowns();
+  simple_tooltip("a.with-tooltip","tooltip");
+
+  // some jquery effects...
+  jQuery('#sidebar ul.nav li ul li a').mouseover(function () {
+   	jQuery(this).animate({ marginLeft: "4px" }, 100 );
+  });
+  jQuery('#sidebar ul.nav li ul li a').mouseout(function () {
+    jQuery(this).animate({ marginLeft: "0px" }, 100 );
+  });
+  // scroll to top
+  jQuery("a#toplink").click(function(){
+    jQuery('html, body').animate({scrollTop:0}, 'slow');
+  });
+
+ });
+
+ /* ]]> */
+</script>
+
+		
+	</head>
+
 <body dir="ltr">
-		
-	<div id="content">
+    <!-- page wrappers (100% width) -->
+  <div id="page-wrap1">
+    <div id="page-wrap2">
+      <!-- page (actual site content, custom width) -->
+      <div id="page" class="with-sidebar">
+
+
 		
 			<script type="text/javascript" language="JavaScript">
 			function checkForm() {
@@ -62,93 +124,57 @@
 			}//
 			</script>
 		
-		
-				
-		
-<!-- START HEADER -->
-<div id="login">
-		
-	<a href="/register.php">Register</a> | <a href="/login.php?return=/privacy.php">Login</a></div>
-	<div id="logo"><a href="http://www.we2gather.com">WE2GATHER</a></div>
-	
-	<!-- start search -->
-	<div class="search">
-								
-		
-					<form action="/search.php" method="get" name="thisform-search" id="thisform-search">
-				<input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
-				<input type="submit" value="Go" class="searchbutton">
-			</form>
-			<div class="clear"></div>
-			</div>
-	<!-- end search -->
 
-	<ul id="nav">
-				<li><a href="http://www.we2gather.com/index.php">Published News</a></li>
-		<li><a href="/upcoming.php">Upcoming News</a></li>
-		<li><a href="/submit.php">Submit a New Story</a></li>
-			
-			<li><a href="/groups.php"><span>Groups</span></a></li>
-						<li><a href="/submit_groups.php"><span>Create a Group</span></a></li>
-						
-							</ul>
+       <!-- main wrapper (side & main) -->
+       <div id="main-wrap">
+        <!-- mid column wrap -->
+    	<div id="mid-wrap">
+          <!-- sidebar wrap -->
+          <div id="side-wrap">
+            <!-- mid column -->
+    	    <div id="mid">
+              <!-- header -->
+              <div id="header">
+
+                
+<div id="topnav" class="description">
+ <ul>
+  <li class="first"><a href="http://www.we2gather.com"><span>Home</span></a></li>
+    <li><a href="/topusers"><span>Top Users</span></a></li>
+    <li><a href="/groups/"><span>Groups</span></a></li>
+    
+  <li><a href="/tagcloud"><span>Tag cloud</span></a></li>  <li><a href="/live"><span>Live</span></a></li>
+  
+   </ul>
+</div>
+
+<h1><a href="http://www.we2gather.com"><img src="./templates/w2g/images/logo.gif"></a></h1>
+
+<!-- top tab navigation -->
+<div id="tabs">
+ <ul>
+  <li><a href="http://www.we2gather.com"><span><span>Published News</span></span></a></li>
+  <li><a href="/upcoming"><span><span>Upcoming News</span></span></a></li>
+  <li><a href="/submit"><span><span>Submit a New Story</span></span></a></li>
+ </ul>
+</div>
+<script type="text/javascript" src="http://track.mybloglog.com/js/jsserv.php?mblID=2009011906494840"></script>
+<!-- /top tabs -->
 
 
-<div id="categories">
-	<ul class="dropdown dropdown-horizontal">
-																					<li>			
-			<a href="/index.php?category=Gadgets">Gadgets</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Entertainment">Entertainment</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Business">Business</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=GeneralTech">General Tech</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Political">Political</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Social">Social</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Design">Design</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Linux">Linux</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Gaming">Gaming</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Sports">Sports</a>
-			</li>						
-															<li>			
-			<a href="/index.php?category=Technology">Technology</a>
-			</li>						
-							</ul>
-	
-</div><!-- END HEADER -->
+              </div><!-- /header -->
 
-<div class="rsslink">
-	</div>
-	
-    <h1>
-																												 
-	
-																</h1>
-	
-	
-			<div id="leftcol">
-		
-			
-<!-- START STORY -->
-								
+
+              <!-- mid content -->
+              <div id="mid-content">
+
+              	
+            	
+            
+                
+        		        			        			
 <h2>
-  <strong>WE2GATHER Privacy Policy</strong>
+  <strong>WETOGETHER Privacy Policy</strong>
 </h2>
 <center>
  <script type="text/javascript"><!--
@@ -164,18 +190,18 @@ google_ad_height = 60;
 </center>
 
 <div class="c1">
-  WE2GATHER was developed by principles of providing opportunities to people to discover new information by enabling them to share the best views which they find interesting with one another. WE2GATHER knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the WE2GATHER website, you are accepting the practices outlined in this Privacy Policy
+  WETOGETHER was developed by principles of providing opportunities to people to discover new information by enabling them to share the best views which they find interesting with one another. WETOGETHER knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the WETOGETHER website, you are accepting the practices outlined in this Privacy Policy
 .<br>
 <br>
-This Privacy Policy covers WE2GATHER's management of personal information that WE2GATHER gathers when you are on the WE2GATHER website and when you use WE2GATHER services. This policy does not apply to the practices of third parties that WE2GATHER does not own or control, or to individuals that WE2GATHER does not employ or manage.
+This Privacy Policy covers WETOGETHER's management of personal information that WETOGETHER gathers when you are on the WETOGETHER website and when you use WETOGETHER services. This policy does not apply to the practices of third parties that WETOGETHER does not own or control, or to individuals that WETOGETHER does not employ or manage.
 <br>
 <br>
 </div>
 <h2>
-<strong>Information Collected by WE2GATHER </strong>
+<strong>Information Collected by WETOGETHER </strong>
 </h2>
 <div class="c1">
-  We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our WE2GATHER users:
+  We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our WETOGETHER users:
 <br>
 <br>
 <ol>
@@ -184,7 +210,7 @@ Information You Provide to Us:
 We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 </li>
 <br>
-&lt;&gt; Registration: In order for you to use WE2GATHER services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
+&lt;&gt; Registration: In order for you to use WETOGETHER services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
 <br>
 <br>
 &lt;&gt; User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used.
@@ -194,13 +220,13 @@ We receive and store any information you enter on our website or provide to us i
 Automatic Information: 
 </li>
 <br>
-&lt;&gt; We receive and store certain types of information whenever you interact with us. WE2GATHER and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, WE2GATHER cookie information, and the page you requested. WE2GATHER uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+&lt;&gt; We receive and store certain types of information whenever you interact with us. WETOGETHER and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, WETOGETHER cookie information, and the page you requested. WETOGETHER uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 <br>
 <br>
-&lt;&gt; WE2GATHER may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages. 
+&lt;&gt; WETOGETHER may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages. 
 <br>
 <br>
-&lt;&gt; Many companies offer programs that help you to visit websites anonymously. While WE2GATHER will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+&lt;&gt; Many companies offer programs that help you to visit websites anonymously. While WETOGETHER will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 <br>
 <br>
 </ol>
@@ -208,14 +234,14 @@ Automatic Information:
 <br>
 <br>
 <div class="c1">
-WE2GATHER is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. WE2GATHER may send out e-mails with WE2GATHER-related news, products, offers, surveys or promotions. You may also receive notification e-mails from WE2GATHER, which inform you of actions that have been performed on the site. 
+WETOGETHER is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. WETOGETHER may send out e-mails with WETOGETHER-related news, products, offers, surveys or promotions. You may also receive notification e-mails from WETOGETHER, which inform you of actions that have been performed on the site. 
 <h2>Cookies </h2>
 <br>
 <br>
-&lt;&gt; Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. WE2GATHER cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+&lt;&gt; Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. WETOGETHER cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 <br>
 <br>
-&lt;&gt; The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of WE2GATHER's coolest features. 
+&lt;&gt; The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of WETOGETHER's coolest features. 
 <br>
 <br>
 &lt;&gt; Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
@@ -226,349 +252,320 @@ WE2GATHER is very concerned about your privacy and we will never provide your em
 <h2>Sharing Your Information</h2>
 <br>
 <br>
-Because WE2GATHER enables people to discover and share information with one another, information about the people who use WE2GATHER is an integral part of the WE2GATHER experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+Because WETOGETHER enables people to discover and share information with one another, information about the people who use WETOGETHER is an integral part of the WETOGETHER experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 <br>
 <br>
-&lt;&gt; WE2GATHER Personnel: WE2GATHER personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of WE2GATHER business.
+&lt;&gt; WETOGETHER Personnel: WETOGETHER personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of WETOGETHER business.
 <br>
 <br>
-&lt;&gt; Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if WE2GATHER, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+&lt;&gt; Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if WETOGETHER, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
 <br>
 <br>
-&lt;&gt; Protection of WE2GATHER and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of WE2GATHER, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+&lt;&gt; Protection of WETOGETHER and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of WETOGETHER, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 <br>
 <br>
-&lt;&gt; User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other WE2GATHER users in your User Profile. The User Profile is the area on WE2GATHER where we allow you to tell other WE2GATHER users about yourself and your interests. 
+&lt;&gt; User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other WETOGETHER users in your User Profile. The User Profile is the area on WETOGETHER where we allow you to tell other WETOGETHER users about yourself and your interests. 
 <br>
 <br>
-&lt;&gt; Member Directory: The e-mail address that you submit upon registration will be searchable by other WE2GATHER users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through WE2GATHER. 
+&lt;&gt; Member Directory: The e-mail address that you submit upon registration will be searchable by other WETOGETHER users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through WETOGETHER. 
 <br>
 <br>
-&lt;&gt; Social sharing of data: WE2GATHER allows other users to browse stories that you have gathered, submitted, saved, or commented on. This information is made available via your User Profile, on the WE2GATHER live page (http://www.we2gather.com/live.php) within the permalink URL of the story on which you performed the action. WE2GATHER may choose to post this data on other site features. 
+&lt;&gt; Social sharing of data: WETOGETHER allows other users to browse stories that you have gathered, submitted, saved, or commented on. This information is made available via your User Profile, on the WETOGETHER live page (http://www.we2gather.com/live.php) within the permalink URL of the story on which you performed the action. WETOGETHER may choose to post this data on other site features. 
 <br>
 <br>
-&lt;&gt; Friends' Activity: Much like other online social networks, WE2GATHER allows non-friends to browse your friends' activity (www.we2gather.com/users/usersname/friends). 
+&lt;&gt; Friends' Activity: Much like other online social networks, WETOGETHER allows non-friends to browse your friends' activity (www.we2gather.com/users/usersname/friends). 
 <br>
 <br>
-&lt;&gt; Syndication: WE2GATHER allows for the RSS syndication of all of its public content within the WE2GATHER website. 
+&lt;&gt; Syndication: WETOGETHER allows for the RSS syndication of all of its public content within the WETOGETHER website. 
 <br>
 <br>
-&lt;&gt; With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.					<!-- END STORY -->
-	</div>
-	
-<!-- START MIDDLE COLUMN -->
-	<div id="midcol">
-		
-
-	
-	
-		
-	
-	 
- 
-
-<div class="headline">
-	<div class="sectiontitle"><a href="/login.php?return=/privacy.php">Login</a></div>
-</div>
-<div class="boxcontent">
-	<form action="/login.php?return=/privacy.php" method="post"> 
-			Username:<br><input type="text" name="username" class="login" value="" tabindex="40"><br>
-			Password:<br><input type="password" name="password" class="login" tabindex="41"><br>
-			<input type="hidden" name="processlogin" value="1">
-			<input type="hidden" name="return" value="">
-			Remember: <input type="checkbox" name="persistent" tabindex="42">
-			<input type="submit" value="Login" class="submit-s" tabindex="43">
-	</form>
-	</div>
- 
+&lt;&gt; With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+<br>
+<br>
 
 
+        			        		
 
-	
-<div class="headline">
-	<div class="sectiontitle"><a href="http://www.we2gather.com">Top Today</a></div>
-</div>
-<div class="boxcontent">
-	<ul class="sidebar-stories">
-		
-	</ul>
-</div>
-		
+              </div>
+              <!-- mid content -->
+              </div>
+              <!-- /mid -->
 
 
+                            <!-- sidebar -->
+              <div id="sidebar">
+                 
+ <!-- sidebar 1st container -->
+ <div id="sidebar-wrap1">
+  <!-- sidebar 2nd container -->
+  <div id="sidebar-wrap2">
+     <ul id="sidelist">
 
-	
+        
+        <li id="sidebar-toplinks">
+                  <a href="/register">Register</a> | <a href="/login.php?return=/privacy.php">Login</a>        </li>
 
-<div class="headline">
-	<div class="sectiontitle"><a href="http://www.we2gather.com">Published News</a></div>
-</div>
-<div class="boxcontent">
-	<ul class="sidebar-stories">
-		
-
-	<li><span class="sidebar-vote-number"><a href="/story.php?title=home-solar-energy-systems">3</a></span>	<span class="sidebar-article"><a href="/story.php?title=home-solar-energy-systems" class="switchurl">Home Solar Energy Systems</a></span></li>
-
-
-	<li><span class="sidebar-vote-number"><a href="/story.php?title=online-dating-sites-are-meant-for-singles-who-want-to-explore">2</a></span>	<span class="sidebar-article"><a href="/story.php?title=online-dating-sites-are-meant-for-singles-who-want-to-explore" class="switchurl">Online dating sites are me...</a></span></li>
-
-
-	<li><span class="sidebar-vote-number"><a href="/story.php?title=sizzling-hot-namitha--hq-wallpapers--movies--cinema--entertainment">3</a></span>	<span class="sidebar-article"><a href="/story.php?title=sizzling-hot-namitha--hq-wallpapers--movies--cinema--entertainment" class="switchurl">Sizzling Hot Namitha -HQ w...</a></span></li>
-
-
-	<li><span class="sidebar-vote-number"><a href="/story.php?title=why-is-microsoft-worried-about-chrome---the-inquirer">3</a></span>	<span class="sidebar-article"><a href="/story.php?title=why-is-microsoft-worried-about-chrome---the-inquirer" class="switchurl">Why is microsoft worried a...</a></span></li>
+       <li id="sidebar-search">
+        <div id="searchtab">
+          <div class="inside">
 
 
-	<li><span class="sidebar-vote-number"><a href="/story.php?title=world-superbikes--yamaha-fz-1-09--world-superbikes">3</a></span>	<span class="sidebar-article"><a href="/story.php?title=world-superbikes--yamaha-fz-1-09--world-superbikes" class="switchurl">World Superbikes : Yamaha ...</a></span></li>
+        	        		        	
+        	
 
-	</ul>
-</div>
+                <form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.we2gather.com/search/&quot;+encodeURIComponent(this.search.value); return false;">
 
+        <input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+        <input type="submit" value="Go" class="searchbutton">
+                </form>
 
+        		<div class="clear"></div>
+        	
 
-	
-<div class="headline">
-	<div class="sectiontitle"><a href="">Latest Comments</a></div>
-</div>
-<div class="boxcontent" id="sidebar-comments">
-	
-<p>“<a class="switchurl" href="/story.php?title=sizzling-hot-namitha--hq-wallpapers--movies--cinema--entertainment#c652">very very sexy and busty babe...</a>” </p>
+          </div>
+        </div>
+       </li>
 
-
-<p>“<a class="switchurl" href="/story.php?title=usa-campsites-guide#c651">Campsites are one the best ways to vacation or holiday saving you money,...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=clothing-franchise#c650">Terranova clothing brand gives you the opportunity to open a franchise...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=concept-builder#c649">Site shows you how to start your own internet business....</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=road-haulage#c648">recently purchased a job lot of old PC`s on eBay - a mixed bag of old and...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=legitimate-online-business#c647">Learn how normal people like YOU are earning a very real $5000 to $10,000...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=this-company-transformed-our-website#c646">We`ve Integrated a Blog into our Company Website
-After trying to get into...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=good-online-shopping-services#c645">Recently I just found the interesting site for promoting my web. They...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=new-lightning-gt-concept#c644">http://www.gadgets-reviews.com/lightning-gt.html...</a>” </p>
-
-
-<p>“<a class="switchurl" href="/story.php?title=fraxel-laser#c643">Fraxel Laser
-Cool resource for those interested in fraxel and other...</a>” </p>
-
-
-</div>
- 
-
-
-<div class="headline">
-	<div class="sectiontitle"><a href="/cloud.php">Top Tags</a></div>
-</div>
-<div class="boxcontent tagformat">
-		
-			<span style="font-size: 13.2062780269pt">
-				<a href="/search.php?search=business&amp;tag=true">business</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 14.0538116592pt">
-				<a href="/search.php?search=cinema&amp;tag=true">cinema</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 13.8520179372pt">
-				<a href="/search.php?search=film&amp;tag=true">film</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 14.7399103139pt">
-				<a href="/search.php?search=finance&amp;tag=true">finance</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 12.802690583pt">
-				<a href="/search.php?search=hqsilver&amp;tag=true">hqsilver</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 13.8520179372pt">
-				<a href="/search.php?search=money&amp;tag=true">money</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 13.6905829596pt">
-				<a href="/search.php?search=movie&amp;tag=true">movie</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 13.0044843049pt">
-				<a href="/search.php?search=property&amp;tag=true">property</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 13.6905829596pt">
-				<a href="/search.php?search=real+estate&amp;tag=true">real estate</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 12.8430493274pt">
-				<a href="/search.php?search=seo&amp;tag=true">seo</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 13.2466367713pt">
-				<a href="/search.php?search=seo+services&amp;tag=true">seo services</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 14.5784753363pt">
-				<a href="/search.php?search=shopping&amp;tag=true">shopping</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 15.0224215247pt">
-				<a href="/search.php?search=silver&amp;tag=true">silver</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 14.8206278027pt">
-				<a href="/search.php?search=sterling&amp;tag=true">sterling</a>
-			</span>
-		
-		
-		
-			<span style="font-size: 17pt">
-				<a href="/search.php?search=theater&amp;tag=true">theater</a>
-			</span>
-		
-		
-		</div> 
-	</div>
-<!-- END MIDDLE COLUMN -->
-
-<!-- START RIGHT COLUMN -->
-	<div id="rightcol">
-		
-			                 	<!-- START ABOUT -->
-		
-
-<!-- START ABOUT -->
-        	<div class="headline">
-            	<div class="sectiontitle"><a href="/faq-en.php">What is WE2GATHER?</a></div>
-            </div>
-                        <div id="aboutcontent">
-                WE2GATHER is social networking and social bookmarking site to promote your web articles
-                            </div>
-<!-- END ABOUT --><center>
+<center>
 <script type="text/javascript"><!--
 google_ad_client = "pub-2780752993705470";
-/* 120x240, created 3/31/09 */
-google_ad_slot = "4698183576";
-google_ad_width = 120;
-google_ad_height = 240;
+/* 250x250, created 7/12/09 */
+google_ad_slot = "0170661979";
+google_ad_width = 250;
+google_ad_height = 250;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </center>
-	<!-- END ABOUT -->
+<br>
 
-	<!-- START LINKS -->
-	        	<div class="links">
-	            	<div class="sectiontitle"><a href="/topusers.php"> Top Users</a></div>
-	            </div>
-	            <div class="links">
-	            	<div class="sectiontitle"><a href="/cloud.php">Tag cloud</a></div>
-	            </div>
-	            <div class="links">
-	            	<div class="sectiontitle"> <a href="/live.php"> Live</a></div>
-	            </div>
-	<!-- END LINKS -->
+ <li class="sidebar-block">
 
-	
-	              	<br>
-	</div>
-	
-		
-<br clear="all">
-<script type="text/javascript"><!--
-google_ad_client = "pub-2780752993705470";
-/* 728x90, created 3/31/09 */
-google_ad_slot = "3043483210";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<!-- start footer -->
-<div id="footer">
-<div id="footer_w2gr">
-	<p class="link_w2gr">
-<script type="text/javascript" src="http://track.mybloglog.com/js/jsserv.php?mblID=2009011906494840"></script>
-</p><div class="footer-contents"><div class="footer-contents2">
-<dl>
-<dt>Navigation Links</dt>
- <dd><a href="./index.php">Home</a></dd>
- <dd><a href="./register.php">Register</a></dd>
- <dd><a href="./search.php">Search</a></dd>
- <dd><a href="./rss.php">RSS Feeds</a></dd>
- <dd><a href="./index.php?part=year">Most Popular Stories</a></dd>
- <dd><a href="./invite.php">Invite Friends</a>&nbsp;(Registered Users Only)</dd>
-</dl>
-<dl>
-<dt>About WE2GATHER</dt>
-<dd><a href="./about.php">About WE2GATHER</a></dd>
-<dd><a href="./tools.php">Tools &amp; Widgets</a></dd>
-<dd><a href="./tos.php">Terms of Service</a>&nbsp; and &nbsp;<a href="./privacy.php">Privacy</a></dd>
-<dd>Powered By <a href="http://www.we2gather.com">WE2GATHER</a>&nbsp;and&nbsp;<a href="http://www.pligg.com/">Pligg</a></dd>
-<dd>©2007-2009 <a href="http://www.we2gather.com/">WE2GETHER</a>.</dd>
-</dl>
-<dl>
-<dt>Contact</dt>
-<dd><a href="./module.php?module=ajaxcontact">For General Purpose</a></dd>
-<dd><a href="./module.php?module=ajaxcontact">For Reporting Bug</a></dd>
-<dd><a href="./module.php?module=ajaxcontact">For Advertisement</a></dd>
-<dd>Legal: <a href="http://www.affero.org/oagpl.html">License</a>&nbsp;and&nbsp;<a href="https://sourceforge.net/project/showfiles.php?group_id=176676">Source</a></dd>
-<dd> All Rights Reserved by Shafi Kamal</dd>
-<dd>Design by WE2GATHER Team </dd>
-<dt>Add to Google</dt>
-<dd> <a href="http://fusion.google.com/add?source=atgs&amp;moduleurl=http%3A//www.we2gather.com/rss.php"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google"></a> </dd>
+        <ul class="nav">
+                        		        			        		        	        	<li class="cat-item">
+        	<a href="/category/Gadgets"><span>Gadgets</span></a><a href="/rss/category/1" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Entertainment"><span>Entertainment</span></a><a href="/rss/category/2" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Business"><span>Business</span></a><a href="/rss/category/3" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/GeneralTech"><span>General Tech</span></a><a href="/rss/category/4" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Political"><span>Political</span></a><a href="/rss/category/5" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Social"><span>Social</span></a><a href="/rss/category/6" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Design"><span>Design</span></a><a href="/rss/category/7" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Linux"><span>Linux</span></a><a href="/rss/category/8" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Gaming"><span>Gaming</span></a><a href="/rss/category/9" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Sports"><span>Sports</span></a><a href="/rss/category/10" target="_blank" class="rss tip"></a>
+        	</li>        	                		        	        	<li class="cat-item">
+        	<a href="/category/Technology"><span>Technology</span></a><a href="/rss/category/11" target="_blank" class="rss tip"></a>
+        	</li>        	                        </ul> </li>
 
-</dl></div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-4749849-2";
-urchinTracker();
-</script>
-</div>
+
+ <li class="sidebar-block">
+
+<h2>What is WE2GATHER?</h2>
+<p>WE2GATHER is social networking and social bookmarking site to promote your web articles</p>
+<p><a href="/about.php" class="readmore">read more</a></p>
+ </li>
+  
+ <li class="sidebar-block">
+
+
+<h2>Login</h2>
+<div class="boxcontent">
+<form action="/login.php?return=/privacy.php" method="post">
+Username:<br><input type="text" name="username" class="login" value="" tabindex="40"><br>
+Password:<br><input type="password" name="password" class="login" tabindex="41"><br>
+<input type="hidden" name="processlogin" value="1">
+<input type="hidden" name="return" value="">
+Remember: <input type="checkbox" class="checkbox" name="persistent" tabindex="42">
+<input type="submit" value="Login" class="submit-s" tabindex="43">
+</form>
 </div>
 
-<!-- end footer -->
-	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
-		
-	</div>
-	
-	
+ </li>
 
-</div></div></div></body></html>
+        
+
+
+
+ 
+ <li class="sidebar-block">
+
+
+<h2>Top Tags</h2>
+
+<div class="boxcontent tags">
+		
+        <span style="font-size: 13.2869955157pt">
+            <a href="/tag/business">business</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 14.0538116592pt">
+            <a href="/tag/cinema">cinema</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 12.8430493274pt">
+            <a href="/tag/credit">credit</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 13.8520179372pt">
+            <a href="/tag/film">film</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 14.8206278027pt">
+            <a href="/tag/finance">finance</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 13.8520179372pt">
+            <a href="/tag/money">money</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 13.6905829596pt">
+            <a href="/tag/movie">movie</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 13.1255605381pt">
+            <a href="/tag/property">property</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 13.8116591928pt">
+            <a href="/tag/real+estate">real estate</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 12.8834080717pt">
+            <a href="/tag/seo">seo</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 13.2466367713pt">
+            <a href="/tag/seo+services">seo services</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 14.5784753363pt">
+            <a href="/tag/shopping">shopping</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 15.0224215247pt">
+            <a href="/tag/silver">silver</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 14.8206278027pt">
+            <a href="/tag/sterling">sterling</a>
+        </span>
+		
+		
+		
+        <span style="font-size: 17pt">
+            <a href="/tag/theater">theater</a>
+        </span>
+		
+		
+		</div> </li> 
+
+
+        
+
+     </ul>
+  </div>
+  <!-- /sidebar 2nd container -->
+ </div>
+ <!-- /sidebar 1st container -->
+
+
+
+
+
+
+
+
+
+              </div>
+              <!-- /sidebar -->
+              
+
+
+  </div>
+  <!-- /side wrap -->
+ </div>
+ <!-- /mid column wrap -->
+</div>
+<!-- /main wrapper -->
+
+<!-- clear main & sidebar sections -->
+<div class="clearcontent"></div>
+<!-- /clear main & sidebar sections -->
+
+<!-- footer -->
+ <div id="footer">
+       	
+
+<!-- please do not remove this. respect the authors :) -->
+<p>
+<a href="./index.php">Home</a> | <a href="./register.php">Register</a> | <a href="./index.php?part=year">Most Popular Stories</a> | <a href="./about.php">About</a> | <a href="./tools.php">Tools &amp; Widgets</a> | <a href="./tos.php">Terms of Service</a>&nbsp; and &nbsp;<a href="./privacy.php">Privacy</a>
+
+<br>
+Powered by <a href="http://www.pligg.com/">Pligg</a> and Shafi Kamal | Fusion theme by <a href="http://digitalnature.ro/projects/fusion">digitalnature</a>
+<br>
+ <a href="/advanced-search/">Advanced Search</a> | <a href="http://www.we2gather.com/rssfeeds.php" class="rss">RSS Feeds</a>
+</p>
+
+
+
+
+
+
+ </div>
+ <!-- /footer -->
+
+ <div id="layoutcontrol">
+   <a href="javascript:void(0);" class="setFont" title="Increase/Decrease text size"><span>SetTextSize</span></a>
+   <a href="javascript:void(0);" class="setLiquid" title="Switch between full and fixed width"><span>SetPageWidth</span></a>
+ </div>
+
+
+
+</div>
+<!-- /page -->
+
+</div>
+</div>
+<!-- /page wrappers -->
+
+
+<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
+
+
+</div></div></body></html>
