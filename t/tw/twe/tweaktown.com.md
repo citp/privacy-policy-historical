@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530051558id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104154418id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
 
 # Legal and Privacy Policy
 
@@ -17,6 +17,8 @@ Content not owned by Tweak Town Pty Ltd, published, is copyright of their respec
 Tweak Town Pty Ltd will not take any responsibility for any software or hardware damage due to the use of guide related content on TweakTown or any affiliated members or links. The work you conduct on your PC through advice given by Tweak Town Pty Ltd is done by choice and as such, you are responsible for any damages, which may occur. 
 
 In accordance with Section 91 of the Broadcasting Services Act Australia, Tweak Town Pty Ltd will not be held responsible for personal opinions or suggestions expressed in the TweakTown Forums or any other part of the Web Site where users have the option to interact, such as User Reviews and News Comments.
+
+Tweak Town Pty Ltd's staff, contributors and editors etc often receives hardware and software products from manufacturers and service providers and the like from all around the world. These products are used and put through their paces to provide an unbiased opinion in a review or article or the like style format. Most of the time we are allowed to keep the products at no cost to Tweak Town Pty Ltd.
 
   
 
