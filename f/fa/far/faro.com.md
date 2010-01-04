@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035210id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Ddi%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104010332id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Dau%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
-# FARO International - Privacy Policy
+# FARO International Australia - Privacy Policy
 
 ---  
   
@@ -64,21 +64,4 @@ The inquiries should include the individual's name, address, and other relevant 
 
 **VII. Changes to This Safe Harbor Privacy Policy  
 **The practices described in this Policy are current Personal data protection policies as of February 28, 2005. FARO Technologies reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.  
-  
-  
-|   
----  
-|   | 
 
-FARO Swiss Holding GmbH, Wiesengasse 20, 8222 Beringen, Switzerland  
-Phone: +49 (0) 7150 - 97 97 0 · Fax: +49 (0) 7150 - 97 97 44 
-
-| [  ](https://web.archive.org/contentv2.aspx?ct=di&content=misc&cat=Certificates)  
----|---|---  
-  | 
-
-FARO, THE MEASURE OF SUCCESS, FaroArm, CAM2, XtremeADM and FARO Laser ScanArm   
-are registered trademarks and trademarks of FARO Technologies Inc.   
-© 2009 FARO Technologies Inc. All Rights Reserved. 
-
-| 
