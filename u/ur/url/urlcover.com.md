@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlcover.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228061924id_/http%3A//urlcover.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlcover.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104075901id_/http%3A//urlcover.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Free URL Redirection Service by UrlCover.com
 
@@ -16,7 +16,7 @@ Users' privacy is very important to Url Cover. We are committed to safeguarding 
 
 **The Information We Collect**
 
-Url Cover may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Url Cover may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
+Url Cover may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Url Cover may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Usersâ€™ PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
 
 **How We Use Information**
 
