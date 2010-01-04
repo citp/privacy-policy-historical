@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827111628id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104160759id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
 
 # Stored Value Solutions - Stored Value Solutions Internet Privacy Policy
 
-[Home](https://web.archive.org/web/20090827111628id_/http%3A//www.storedvalue.com/index.php) >> [Privacy Policy](https://web.archive.org/web/20090827111628id_/http%3A//www.storedvalue.com/privacy.php)
+[Home](https://web.archive.org/web/20100104160759id_/http%3A//www.storedvalue.com/index.php) >> [Privacy Policy](https://web.archive.org/web/20100104160759id_/http%3A//www.storedvalue.com/privacy.php)
 
 ### SVS’s Commitment to Privacy
 
