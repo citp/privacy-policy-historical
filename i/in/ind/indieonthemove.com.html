@@ -1,19 +1,24 @@
-<!--The following is the downloaded HTML source of the indieonthemove.com privacy policy that was archived on 2009-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531183115id_/http%3A//indieonthemove.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indieonthemove.com privacy policy that was archived on 2010-01-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100104155637id_/http%3A//indieonthemove.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Indie On The Move: Privacy Policy</title>
+<title>Indie on the Move: Privacy Policy</title>
 <meta name="keywords" content="Privacy Policy">
   <meta name="description" content="Privacy Policy">
   
-  <link rel="stylesheet" href="http://www.indieonthemove.com/style/style.css">
+  <link rel="stylesheet" href="http://indieonthemove.com/style/style.css">
 
-<link rel="stylesheet" href="http://www.indieonthemove.com/style/stylesheet.css">
+<link rel="stylesheet" href="http://indieonthemove.com/style/stylesheet.css">
 
-<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://www.indieonthemove.com/script/validation.js"></script>
+<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://indieonthemove.com/script/prototype.js"></script>
+
+<script type="text/javascript" language="JavaScript" charset="utf-8" src="http://indieonthemove.com/script/validation.js"></script>
 
 
+  <!--[if IE]>
+  <link href="http://indieonthemove.com/style/ie.css" rel="stylesheet" type="text/css" />
+  <![endif]-->
 </head>
 <body>
 
@@ -29,12 +34,12 @@ function submitSearch()
 }
 </script>
 <div id="top">
-		<div class="logo"><a href="http://www.indieonthemove.com"><img src="http://www.indieonthemove.com/images/logo.gif" alt="Indie on the move" border="0"></a></div>
-		<div class="banner"><a target="_blank" href="http://www.shareasale.com/r.cfm?b=72833&amp;u=340284&amp;m=5993&amp;urllink=&amp;afftrack="><img src="http://www.shareasale.com/image/728by90_2.gif" border="0"></a>
+		<div class="logo"><a href="http://indieonthemove.com"><img src="http://indieonthemove.com/images/logo.gif" alt="Indie on the move" border="0"></a></div>
+		<div class="banner"><a href="http://www.howiewood.com" target="_blank"><img src="http://indieonthemove.com/images/banner/howiebannerspec1240519115.gif" border="0" alt="Howard Rosen Radio Promo"></a>
 		</div>
 		<div class="topstip">
-			<div class="link"><a href="http://www.indieonthemove.com/index.html"><img src="http://www.indieonthemove.com/images/home.gif" alt="Home" border="0"></a><img src="http://www.indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://www.indieonthemove.com/about.html"><img src="http://www.indieonthemove.com/images/about.gif" alt="About" height="15" border="0"></a><img src="http://www.indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://www.indieonthemove.com/contact.html"><img src="http://www.indieonthemove.com/images/contact.gif" alt="Contact" height="15" border="0"></a></div>
-			<div class="curve"><img src="http://www.indieonthemove.com/images/curve.gif" alt="Indie on the move"></div>
+			<div class="link"><a href="http://indieonthemove.com/index.html"><img src="http://indieonthemove.com/images/home.gif" alt="Home" border="0"></a><img src="http://indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://indieonthemove.com/about.html"><img src="http://indieonthemove.com/images/about.gif" alt="About" height="15" border="0"></a><img src="http://indieonthemove.com/images/line.gif" alt="Indie on the move"><a href="http://indieonthemove.com/contact.html"><img src="http://indieonthemove.com/images/contact.gif" alt="Contact" height="15" border="0"></a></div>
+			<div class="curve"><img src="http://indieonthemove.com/images/curve.gif" alt="Indie on the move"></div>
 			<div class="form">
 			<script type="text/javascript" language="JavaScript" charset="utf-8">
 function validateTLoginForm(formObj){
@@ -45,40 +50,70 @@ function validateTLoginForm(formObj){
     if(!v_char(tUsername.value) || tUsername.value == 'Username')
      {
        error = false;
-       errorTxt += 'Valid username must be 6-25 alpha-numeric characters long without any spaces.\n';
+       errorTxt += 'Valid username must be 6-25 alpha-numeric characters long without any spaces\n';
      }
      if(!v_char(tPassword.value) || tPassword.value == '******')
      {
        error = false;
-       errorTxt += 'Password must be 6-25 characters long.\n';
+       errorTxt += 'Password must be 6-25 characters long\n';
      }
 
   }
   // -------------------
   if(!error){
   	alert(errorTxt);
+  }else{
+    $('toplogin').request({
+        onFailure: function() { 
+            alert('Server is down. Please try again after some time.'); 
+        },
+        onSuccess: function(rl) {
+            var resLog = rl.responseText;
+            //alert(resLog);
+            if(resLog == 'member'){
+                window.location = 'http://indieonthemove.com/member/index.html';
+            }else if(resLog == 'invalid'){
+                alert('Supplied credentials are not valid');
+            }else if(resLog == 'inactive'){
+                alert('Your account is not active.\nPlease contact to administraor from more detail');
+            }else{
+                alert('Supplied credentials are not valid');
+            }
+        }
+    });
   }
-  return error;
+  return false;
 }
-
+ 
 </script>
-
 			<div class="login">
-			<form name="tLogin" method="post" action="" style="display:inline;" onsubmit="return validateTLoginForm(this);">
-			<div class="search-img"><img src="http://www.indieonthemove.com/images/login.gif" alt="Login"></div>
+			<form name="toplogin" id="toplogin" method="post" action="http://indieonthemove.com/loginAjax.html" style="display:inline;" onsubmit="return validateTLoginForm(this);">
+			<div class="search-img"><img src="http://indieonthemove.com/images/login.gif" alt="Login"></div>
 			<input type="text" name="tUsername" value="Username" onfocus="javascript:this.value=''" style="color:#000">
 			<input type="password" name="tPassword" value="******" onfocus="javascript:this.value = '';" style="color:#000">
-			<!--<input type="image" name="go" class="search-img" src="http://www.indieonthemove.com/images/go.gif" style="width:19px; height:19px; background:none;" alt="Go" border="0" title="Go" width="19" height="19"/>  -->
-			<div class="search-img"><input type="image" src="http://www.indieonthemove.com/images/go.gif" alt="Go" style="width:19px;height:19px;background:none;border:none; margin:0px 5px; padding:0px;"></div><span><a href="http://www.indieonthemove.com/password.html"><img src="http://www.indieonthemove.com/images/forgotpassword.gif" border="0" alt="forgot password" title="forgot password"></a></span>
+			<!--<input type="image" name="go" class="search-img" src="http://indieonthemove.com/images/go.gif" style="width:19px; height:19px; background:none;" alt="Go" border="0" title="Go" width="19" height="19"/>  -->
+			<div class="search-img"><input type="image" src="http://indieonthemove.com/images/go.gif" alt="Go" style="width:19px;height:19px;background:none;border:none; margin:0px 5px; padding:0px;"></div><span><a href="http://indieonthemove.com/password.html"><img src="http://indieonthemove.com/images/forgotpassword.gif" border="0" alt="forgot password" title="forgot password"></a></span>
 			</form> 
 			</div>
 			
 
-				<div class="search"><form name="searchVen" method="get" action="http://www.indieonthemove.com/searchVenue.html">
-				<input type="text" name="srchKey" value="Search" onfocus="javascript:this.value=''" style="color:#000"><div class="search-img"><a href="javascript:submitSearch()"><img src="http://www.indieonthemove.com/images/search.gif" alt="Search" border="0"></a></div>
+				<div class="search"><form name="searchVen" method="get" action="http://indieonthemove.com/searchVenue.html">
+				<input type="text" name="srchKey" value="Search" onfocus="javascript:this.value=''" style="color:#000"><div class="search-img"><a href="javascript:submitSearch()"><img src="http://indieonthemove.com/images/search.gif" alt="Search" border="0"></a></div>
 				</form></div>
 			</div>
 		</div>
+		<div class="follow-us-on">
+			<div class="follow-us-on-head"><img alt="" src="http://indieonthemove.com/images/follow-us-on-head.gif"></div>
+			<div class="follow-us-on-web"><a href="http://www.facebook.com/pages/Indie-on-the-Move/32917194897" target="_blank"><img border="0" alt="" src="http://indieonthemove.com/images/f-img.jpg"></a><a href="http://twitter.com/indieonthemove" target="_blank"><img border="0" alt="" src="http://indieonthemove.com/images/t-img.jpg"></a><a href="http://www.myspace.com/indieonthemove" target="_blank"><img border="0" alt="" src="http://indieonthemove.com/images/p-img.jpg"></a></div>
+			<div class="follow-us-on-share">
+			<script type="text/javascript">var addthis_pub="49f17bcb042cfb0e";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0;margin-top:0px; vertical-align:middle"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+			</div>
+			<div class="follow-us-on-blog"><a href="http://indieonthemove.com/blog"><img alt="" src="http://indieonthemove.com/images/IOTM-blog.jpg" border="0"></a><a href="http://indieonthemove.com/blog/?feed=rss2" target="_blank"><img alt="" src="http://indieonthemove.com/images/IOTM-blog-2.jpg" border="0"></a></div>
+			<div class="follow-us-on-news"><marquee width="330" height="20" style="font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: rgb(51, 51, 51); margin-left: 85px; padding-top: 3px;" scrolldelay="200" onmouseover="this.stop();" onmouseout="this.start();"><a href=""></a><a href="http://indieonthemove.com/venue/la.html?selCit=325" title="http://indieonthemove.com/venue/la.html?selCit=325" alt="http://indieonthemove.com/venue/la.html?selCit=325" target="_blank">The Caterie in Baton Rouge, LA burned to the ground. See the city page for more venue options.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://indieonthemove.com/venue/447.html" title="http://indieonthemove.com/venue/447.html" alt="http://indieonthemove.com/venue/447.html" target="_blank">PJ's Lager House in Detroit, MI is seeking acts for 1/6, 1/12, 1/13, 1/18, 1/20, 1/25, &amp; 1/26.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://indieonthemove.com/venue/2420.html" title="http://indieonthemove.com/venue/2420.html" alt="http://indieonthemove.com/venue/2420.html" target="_blank">Heirloom Arts Theatre in Danbury, CT is seeking CT acts for 1/17.</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.indieonthemove.com" title="http://www.indieonthemove.com" alt="http://www.indieonthemove.com" target="_blank">INDIE ON THE MOVE REACHES 10,000 MEMBERS!!!!!!!!!!</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://indieonthemove.com/venue/1503.html" title="http://indieonthemove.com/venue/1503.html" alt="http://indieonthemove.com/venue/1503.html" target="_blank">Venue 162 in Council Bluffs, IA is seeking alt, rock, indie, blues, and acoustic acts for Sat. 1/2</a>
+			</marquee></div>
+		</div>
+		
 	</div>
 <!-- header div ends here -->
 
@@ -86,27 +121,25 @@ function validateTLoginForm(formObj){
 <div id="content">
 		<!--<div class="spacer">&nbsp;</div> -->
 		<div class="curvearea">	<div class="bottombg">		
-  	  	  <div class="leftpannel-inner"><div class="leftimage"><img src="http://www.indieonthemove.com/images/indiemovie.jpg" alt="Indie on the Move"></div><a href="http://www.indieonthemove.com/create-your-account.html"><img src="http://www.indieonthemove.com/images/createyouraccount.png" alt="Create Your Account" border="0"></a><a href="http://www.indieonthemove.com/member/gig.html"><img src="http://www.indieonthemove.com/images/gig.png" alt="Gig Swap" border="0"></a><a href="http://www.indieonthemove.com/tips/"><img src="http://www.indieonthemove.com/images/touringtip.png" alt="Touring Tips" border="0"></a></div>
+  	  	  <div class="leftpannel-inner"><div class="leftimage"><img src="http://indieonthemove.com/images/indiemovie.jpg" alt="Indie on the Move"></div><a href="http://indieonthemove.com/create-your-account.html"><img src="http://indieonthemove.com/images/createyouraccount.png" alt="Create Your Account" border="0"></a><a href="http://indieonthemove.com/member/gig.html"><img src="http://indieonthemove.com/images/gig.png" alt="Gig Swap" border="0"></a><a href="http://indieonthemove.com/tips/"><img src="http://indieonthemove.com/images/touringtip.png" alt="Touring Tips" border="0"></a></div>
 		  <div class="txtarea">
-		  <div class="crum"><a href="http://www.indieonthemove.com/index.html">Home</a> » <strong>Privacy Policy</strong></div>
+		  <div class="crum"><a href="http://indieonthemove.com/index.html">Home</a> » <strong>Privacy Policy</strong></div>
 		  	 <p>&nbsp;</p>
 <p><strong style="font-size: 14px">Privacy Policy</strong></p>
 <p>&nbsp;</p>
 <p>Welcome to IndieOnTheMove.com (the “Site”).  The following privacy policy sets forth the way in which personal and other information you provide to the Site will be used.  The words “user,” “you” and “your” as used in this agreement refer to users of the Site, and if you are under the age of 18, “you” and “your” also includes your parents or legal guardians.  “We” and “us” refers to Indie On The Move LLC.</p>
 <p><br> <strong>REGISTERED MEMBERSHIP</strong></p>
-<p>&nbsp;</p>
-<p>In order to use the Site, we required that users submit personal information (e.g. full name, e-mail address, country of residence, age).  We expressly acknowledge that the submission of personal information does not constitute consent for us to share this information with third parties.  All such personal information is collected for the purpose of providing our users access to the Site’s registered user features.  We do not require a user to disclose more information than is reasonably necessary to use these features.  <br> <br> Once registered, users can use all of the features provided on the Site.  Personally identifiable information provided by registered members, namely the member’s user name and e-mail address, will not be shared with third parties<br> <br> <strong>INFORMATION WE COLLECT</strong><br> <br> We may collect personally identifiable information from you that may include your name, age,  e-mail address, and other information. We do not, however, knowingly collect personal information from children under the age of thirteen.  We may use this information: (i) for the purposes for which you specifically provided the information, (ii) to send you e-mails relating to the Site or Indie On The Move LLC unless you have opted out of receiving such e-mail, (iii) to enhance existing features or develop new features, products and services, and (iv) to provide advertisers and other third parties with aggregate non-personally identifiable information about the Site’s user base and usage patterns.<br> <br> We will not share your personally identifiable information with third parties, provided, however, that we may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use or when we reasonably believe that we are required to do so under the law.  <br> <br> <strong>COMMENTS</strong> <br> <br> When you post a comment or any other information, you may be making public any information that you provide including your name, location and e-mail address.<br> <br> <strong>COOKIES</strong></p>
-<p>&nbsp;</p>
-<p>Cookies are files that your web browser saves to your computer’s hard drive when you visit a website.  These files contain information that allows websites to “remember” user activities on a website and user visits to a site. Indie On The Move LLC uses cookies to uniquely and anonymously identify the user.  No personal information is stored in the cookie. These cookies cannot damage a user’s files, and cannot read information from a user’s hard drive.  <br> <br> <strong>LINKS</strong><br> <br> The Site may contain links to other websites.  Indie On The Move is not responsible for the privacy practices of such other websites.  You should read the privacy policies of all websites that are linked to the Site.  <br> <br> <strong>TRANSFER OF INFORMATION</strong><br> <br> Your information may be stored and processed in the United States or any other country where Indie On The Move LLC maintains its servers.  By using the Site, you consent to the transfer of information to the United States and/or to any other country.<br> <br> <strong>SEVERABILITY</strong></p>
-<p>&nbsp;</p>
+<p>In order to use the Site, we required that users submit personal information (e.g. full name, e-mail address, country of residence, age).  We expressly acknowledge that the submission of personal information does not constitute consent for us to share this information with third parties.  All such personal information is collected for the purpose of providing our users access to the Site’s registered user features.  We do not require a user to disclose more information than is reasonably necessary to use these features.&nbsp;</p>
+<p><br> Once registered, users can use all of the features provided on the Site.  Personally identifiable information provided by registered members, namely the member’s user name and e-mail address, will not be shared with third parties<br> <br> <strong>INFORMATION WE COLLECT</strong><br>We may collect personally identifiable information from you that may include your name, age,  e-mail address, and other information. We do not, however, knowingly collect personal information from children under the age of thirteen.  We may use this information: (i) for the purposes for which you specifically provided the information, (ii) to send you e-mails relating to the Site or Indie On The Move LLC unless you have opted out of receiving such e-mail, (iii) to enhance existing features or develop new features, products and services, and (iv) to provide advertisers and other third parties with aggregate non-personally identifiable information about the Site’s user base and usage patterns.<br> <br> We will not share your personally identifiable information with third parties, provided, however, that we may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use or when we reasonably believe that we are required to do so under the law.  <br> <br> <strong>COMMENTS</strong> <br>When you post a comment or any other information, you may be making public any information that you provide including your name, location and e-mail address.<br> <br> <strong>COOKIES</strong></p>
+<p>Cookies are files that your web browser saves to your computer’s hard drive when you visit a website.  These files contain information that allows websites to “remember” user activities on a website and user visits to a site. Indie On The Move LLC uses cookies to uniquely and anonymously identify the user.  No personal information is stored in the cookie. These cookies cannot damage a user’s files, and cannot read information from a user’s hard drive.&nbsp;</p>
+<p><br> <strong>LINKS</strong><br>The Site may contain links to other websites.  Indie On The Move is not responsible for the privacy practices of such other websites.  You should read the privacy policies of all websites that are linked to the Site.  <br> <br> <strong>TRANSFER OF INFORMATION</strong><br>Your information may be stored and processed in the United States or any other country where Indie On The Move LLC maintains its servers.  By using the Site, you consent to the transfer of information to the United States and/or to any other country.<br> <br> <strong>SEVERABILITY</strong></p>
 <p>If any provision of this Privacy Policy is found to be illegal, void, or unenforceable, that provision will be deemed severed from the balance of the agreement and will not affect the validity and enforceability of the remaining provisions, which will continue in full force and effect.</p>
 <p>&nbsp;</p>
 <p><strong>GENERALLY</strong></p>
-<p>&nbsp;</p>
-<p>Indie On The Move LLC has taken steps to ensure that personally identifiable information collected is secure, including instituting an electronic security systems and password protection to guard against unauthorized access.<br> This policy is subject to change.  We will notify you of material changes by posting them on this page.  We encourage you to check back and review this policy periodically so that you will always know what information we collect, how we use it, and to whom we disclose it.</p>
+<p>Indie On The Move LLC has taken steps to ensure that personally identifiable information collected is secure, including instituting an electronic security systems and password protection to guard against unauthorized access.</p>
+<p>This policy is subject to change.  We will notify you of material changes by posting them on this page.  We encourage you to check back and review this policy periodically so that you will always know what information we collect, how we use it, and to whom we disclose it.</p>
 <p>&nbsp;</p>
 <p><strong>CALIFORNIA PRIVACY RIGHTS</strong></p>
-<p>&nbsp;</p>
 <p>California Civil Code Section 1798.83 allows users who are California residents to request information about the disclosure of their personal information to third parties for direct marketing purposes.  To make such a request, please contact us at Indie On The Move LLC, privacy@indieonthemove.com.</p>
 <p><br> <em>This page was lasted updated on Aug 19, 2008.</em></p>
 <p>&nbsp;</p>
@@ -125,10 +158,10 @@ function validateTLoginForm(formObj){
 				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 				</center> 		  	 
 		  </div></div>
-			<div class="botcurve"><img src="http://www.indieonthemove.com/images/curvebot.gif" alt="Indie on the move"></div>
+			<div class="botcurve"><img src="http://indieonthemove.com/images/curvebot.gif" alt="Indie on the move"></div>
 		</div>
 
-		<div class="bannerright"><a href="http://www.artistdata.com/us/?cpe=Y3A9T24rU2l0ZStCYW5uZXImcz1JbmRpZU9uVGhlTW92ZSZjPTA%253D" target="_blank"><img src="http://www.indieonthemove.com/images/banner/ArtistData120x6001238644565.png" border="0" alt="Artist Data"></a>
+		<div class="bannerright"><a href="http://www.ftfmc.com" target="_blank"><img src="http://indieonthemove.com/images/banner/ftfmclongad1259976857.jpg" border="0" alt="FTF Music Conference"></a>
 		<script type="text/javascript">
 		<!--
 		google_ad_client = "pub-8252084645055969";
@@ -145,14 +178,20 @@ function validateTLoginForm(formObj){
 	</div>
 <!-- middle div ends here -->
 <!-- footer div starts here -->
+<div style="clear:both;"></div>
 <div class="bottom">
 		<ul>
-			<li>Copyright © Indie on the Move 2009 | <a href="http://www.indieonthemove.com/privacy.html">Privacy</a> | <a href="http://www.indieonthemove.com/terms.html">Terms</a> | <a href="http://www.indieonthemove.com/advertise.html">Advertise</a></li>
+			<li>Copyright © Indie on the Move 2009 | <a href="http://indieonthemove.com/privacy.html">Privacy</a> | <a href="http://indieonthemove.com/terms.html">Terms</a> | <a href="http://indieonthemove.com/advertise.html">Advertise</a></li>
 			<li class="rt"><a href="http://BlueBeginning.com/" target="_blank" title="Web Development by BlueBeginning.com"><u>Web Development by BlueBeginning.com</u></a></li>
 		</ul>
+		
+		
+        <div style="clear:both;"></div>
+
+		
 	</div>
 <!-- footer div ends here -->
-
+                                                                                                                                                                                 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
