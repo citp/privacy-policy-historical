@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202045928id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104083257id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays
 
@@ -53,7 +53,7 @@ AllStays is concerned about privacy on the internet. Please read the following t
 
     * We respond to subpoenas, court orders or legal process; or 
 
-    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20091202045928id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
+    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20100104083257id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
 
 
 
@@ -81,7 +81,7 @@ Allstays has also contracted with AlmondNet, which may use information (not incl
 **Questions or Suggestions**  
 
 
-  * If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20091202045928id_/http%3A//www.allstays.com/Services/feedback.htm)
+  * If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20100104083257id_/http%3A//www.allstays.com/Services/feedback.htm)
 
 
 
