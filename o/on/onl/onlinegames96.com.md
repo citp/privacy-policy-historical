@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegames96.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611221927id_/http%3A//www.onlinegames96.com/page/7.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegames96.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104172332id_/http%3A//www.onlinegames96.com/page/7.html) for the most accurate reproduction.*
 
 # Free Online Fun Addicting Flash Games at OnlineGames96.com - Privacy Policy
 
