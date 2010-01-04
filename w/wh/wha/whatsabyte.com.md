@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207020626id_/http%3A//whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104165501id_/http%3A//www.whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for the What's A Byte Website
-
-**  
-The What's A Byte Privacy Policy**
 
 Effective 01/01/2008
 
 **Privacy Policy Table Of Contents:**
 
   * Our Commitment To Privacy 
+  * Advertising Policy
   * The Information We Collect 
   * How We Use Information
   * Our Commitment To Data Security
@@ -23,6 +21,14 @@ Effective 01/01/2008
 ******Our Commitment To Privacy**
 
 Your privacy is important to What's A Byte. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+**Advertising Policy**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.
+
+Google, as a third party vendor, uses cookies to serve ads on What’s A Byte.   
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **The Information We Collect: **
 
