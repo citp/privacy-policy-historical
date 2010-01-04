@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheekymunkey.co.uk privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027195137id_/http%3A//www.cheekymunkey.co.uk/page.asp%3Fsection%3D0001000100020003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheekymunkey.co.uk privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104092624id_/http%3A//www.cheekymunkey.co.uk/page.asp%3Fsection%3D0001000100020003) for the most accurate reproduction.*
 
 # Cheeky Munkey » Privacy
 
