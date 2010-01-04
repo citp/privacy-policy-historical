@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the video4asian.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330100129id_/http%3A//www.video4asian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video4asian.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104214457id_/http%3A//www.video4asian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Episode 1 | Korean Drama
 
