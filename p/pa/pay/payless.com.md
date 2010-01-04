@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214114739id_/http%3A//www.payless.com/store/home/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104091457id_/http%3A//www.payless.com/store/home/privacy.jsp) for the most accurate reproduction.*
 
 # Payless ShoeSource - Privcacy & Security
 
