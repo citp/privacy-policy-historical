@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902025641id_/http%3A//www.attainresponse.com/share/docs/en_US/AttainResponse_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104114613id_/http%3A//www.attainresponse.com/share/docs/en_US/AttainResponse_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
