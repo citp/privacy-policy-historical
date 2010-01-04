@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayajaal.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218010305id_/http%3A//www.mayajaal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayajaal.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104230104id_/http%3A//www.mayajaal.com/privacy.htm) for the most accurate reproduction.*
 
 # Mayajaal
 
