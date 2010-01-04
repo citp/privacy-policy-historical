@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502042002id_/http%3A//www.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104032151id_/http%3A//www.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rate My Area
 
@@ -62,7 +62,7 @@ You should be particularly careful that you have complied with these obligations
 
 **3.4** We may sell or licence your reviews to third parties for their use (including for publishing) without remuneration to you, in which case your username/display name and any personally identifiable information you have included in your reviews may be shown to users/ readers of such third party media. Except as set out in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. 
 
-**3.5** We may also use your email address to send you updates or news regarding the Website or a RateMyArea Service, but you may choose not to receive emails of this type by accessing the "Your Account" page of the Website and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends and group contacts (such as when someone sends you a personal message). 
+**3.5** We may also use your email address to send you updates or news regarding the Website or a RateMyArea Service, but you may choose not to receive emails of this type by accessing the "My Account" page of the Website and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends and group contacts (such as when someone sends you a personal message). 
 
 **3.6** We may use your reviews to personalise the Website and identify/feature popular members. For example, we may promote the most popular and latest reviews, groups, listings and members. We may also promote most active members. While we do not expect to transfer the complete review and member database to others, we use the database throughout our networks and to generate results for others. 
 
@@ -72,7 +72,7 @@ You should be particularly careful that you have complied with these obligations
 
 **4.2** If you provide personal information to us you understand and agree that we may disclose your personal information to the following third parties: 
 
-**4.2.1** if you have indicated at registration, or at any time during your time as a user of the Website, that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. You may opt out of receiving such offers or change your preferences at any time by accessing the "Email notifications" tab on the "Your Account" page of the Website or alternatively, if you have problems doing this, you can contact us at [keepusbusy@ratemyarea.com](mailto:keepusbusy@ratemyarea.com); 
+**4.2.1** if you have indicated at registration, or at any time during your time as a user of the Website, that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. You may opt out of receiving such offers or change your preferences at any time by accessing the "Email notifications" tab on the "My Account" page of the Website or alternatively, if you have problems doing this, you can contact us at [keepusbusy@ratemyarea.com](mailto:keepusbusy@ratemyarea.com); 
 
 **4.2.2** any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries; 
 
@@ -96,7 +96,7 @@ You should be particularly careful that you have complied with these obligations
 
 **5.4** You should be aware that when you voluntarily disclose personally identifiable information and agree to make that information public on the Website (e.g., user name, e-mail address) via reviews, messages, forums, postings or in other areas of the Website and/or RateMyArea Service, that information, along with any substantive information disclosed in your communication, can be collected, correlated and used by third parties. These third parties or other Website users may use your information to send you unsolicited messages if you make the information available publically or to them on the site. Such activities are beyond our control. Please do not post any personal information on the Website that you wish to keep private. 
 
-**5.5** As a registered user of the Website and/or the RateMyArea Service, you can modify your personal information at any time by accessing the "Your Account" section of the Website or alternatively if you have problems doing this, you can contact us at [keepusbusy@ratemyarea.com](mailto:keepusbusy@ratemyarea.com). It is your responsibility to keep your personal information up to date at all times. 
+**5.5** As a registered user of the Website and/or the RateMyArea Service, you can modify your personal information at any time by accessing the "My Account" section of the Website or alternatively if you have problems doing this, you can contact us at [keepusbusy@ratemyarea.com](mailto:keepusbusy@ratemyarea.com). It is your responsibility to keep your personal information up to date at all times. 
 
 ### 6\. LINKS TO THIRD PARTY WEBSITES
 
