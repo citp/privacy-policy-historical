@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photofunia.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805055121id_/http%3A//www.photofunia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photofunia.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104113200id_/http%3A//www.photofunia.com/privacy) for the most accurate reproduction.*
 
 # PhotoFunia
 
