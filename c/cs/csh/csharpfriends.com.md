@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502134006id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104122416id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
 # C# C Sharp and Tutorials on C# Friends.com
 
@@ -7,8 +7,11 @@
   
   
 ---  
+  
+[](http://www.maximumasp.com/about/specials.aspx)
+
 [ C# Consulting](http://www.csharpfriends.com/statics/consulting.aspx "C# Consulting")   
-[sql server forums](http://www.sqlserverfriends.com/)   
+[AspDotNetStoreFront](http://www.csharpfriends.com/statics/aspdotnetstorefront.aspx)   
 
 
 Your use of the CSharpFriends.com Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
@@ -66,3 +69,11 @@ If you have any questions regarding this privacy policy you can contact CSharpFr
 CSharpFriends.com may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, CSharpFriends.com will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. 
 
 | 
+
+[](http://www.maximumasp.com/about/specials.aspx)
+
+  
+  
+  
+  
+
