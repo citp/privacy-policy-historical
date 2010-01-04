@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025084934id_/http%3A//www.packagemapping.com/privacy_notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104191954id_/http%3A//packagemapping.com/privacy_notice.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -45,7 +45,7 @@ If you send an E-mail, participate in an online survey, or provide other informa
 
 
 
-The information collected is not limited to text characters and may include audio, video and graphic information formats you you choose to send. 
+The information collected is not limited to text characters and may include audio, video and graphic information formats you choose to send. 
 
 Your E-mail address is used to answer your questions, address your concerns, or forward to someone else for a response. Survey information is used for much the same purposes.
 
@@ -65,13 +65,15 @@ Any personally identifiable information is never made available for commercial u
 
 **Our Policy Towards Children**
 
-The Site is not directed to persons under 18\. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should [contact us](https://web.archive.org/web/20091025084934id_/http%3A//www.packagemapping.com/contact_info.htm "Contact Us"). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable information, we will delete such information from our files.
+The Site is not directed to persons under 18\. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should [contact us](https://web.archive.org/web/20100104191954id_/http%3A//packagemapping.com/contact_info.htm "Contact Us"). We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable information, we will delete such information from our files.
 
 **__**
 
 **__****Cookies and Applets**
 
 PackageMapping.com might use cookies to store only non personal information.  Additionally, PackageMapping.com gathers information from outside sources that might use "cookies" to better serve their users. Cookies are simple text files stored on your computer by your web browser. They are temporary random identifiers that help personalize your browser session. Cookies do not contain personally identifying information and do not affect your privacy or security. You can refuse the cookie or delete the cookie file from your computer by using the method indicated when you access the application that uses cookies.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google®, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 An applet is a subprogram that executes within another application, and can be sent along with a web page to a user to support certain functions, such as interactive animations, immediate calculations, or other simple tasks without having to access the host’s server. PackageMapping.com does not currently use applets.
 
@@ -107,4 +109,4 @@ _****_**_Contact Information_**
 > 
 > **Webmaster**  
 >  PackageMapping.com  
->  [Click here for contact information](https://web.archive.org/web/20091025084934id_/http%3A//www.packagemapping.com/contact_info.htm)
+>  [Click here for contact information](https://web.archive.org/web/20100104191954id_/http%3A//packagemapping.com/contact_info.htm)
