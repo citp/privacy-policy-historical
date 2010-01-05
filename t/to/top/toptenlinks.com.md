@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516010428id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105031554id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
@@ -250,6 +250,10 @@ For example, to determine if our customers qualify for credit terms, we may use 
 
 Or in order for Top10Links to enhance its ability to tailor the site to an individual�s preference, we may combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile. When a user makes a purchase from one of our partners, they collect and share that purchase information with us so we can tailor the site to our users� preferences.   
   
+**Advertisments:**  
+  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.  
+  
 **Correct/Update/Delete Policy:**  
   
 If your personally identifiable information changes (such as your zip code), or if you no longer desire to use one of our services, we will endeavor to provide a way to correct, update or remove any of your personal data you provided to us.
@@ -323,4 +327,4 @@ Browser version is a number the browser developers assign to their software prog
   
 |  **Featured Site**  
 ---  
-[](https://web.archive.org/go.php?siteid=967178934)
+[](https://web.archive.org/go.php?siteid=936143356)
