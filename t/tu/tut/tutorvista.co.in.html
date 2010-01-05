@@ -1,36 +1,66 @@
-<!--The following is the downloaded HTML source of the tutorvista.co.in privacy policy that was archived on 2009-08-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090805054953id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tutorvista.co.in privacy policy that was archived on 2010-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100106005944id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><link rel="icon" type="image/png" href="http://image.tutorvista.com/webimg/favicon.ico"><title>Privacy Policy</title>		
-		<link rel="stylesheet" type="text/css" href="http://image.tutorvista.com/webimg/css/v1.0.5/tutorvista.css">
+		<link rel="stylesheet" type="text/css" href="http://image.tutorvista.com/webimg/css/v1.0.9/tutorvista.css">
 		<!--[if IE 8]>
-			<link rel="stylesheet" type="text/css" href="http://image.tutorvista.com/webimg/css/v1.0.5/ie8.css" />
+			<link rel='stylesheet' type='text/css' href='http://image.tutorvista.com/webimg/css/v1.0.9/ie8.css' />
 		<![endif]-->
 		<!--[if IE 7]>
-			<link rel="stylesheet" type="text/css" href="http://image.tutorvista.com/webimg/css/v1.0.5/ie7.css" />
+			<link rel='stylesheet' type='text/css' href='http://image.tutorvista.com/webimg/css/v1.0.9/ie7.css' />
 		<![endif]-->
 		<!--[if IE 6]>
-			<link rel="stylesheet" type="text/css" href="http://image.tutorvista.com/webimg/css/v1.0.5/ie6.css" />
+			<link rel='stylesheet' type='text/css' href='http://image.tutorvista.com/webimg/css/v1.0.9/ie6.css' />
 		<![endif]-->
+
+		<script type="text/javascript">
+			function bookmark(title,url){
+			var ua=navigator.userAgent.toLowerCase();
+			var isKonq=(ua.indexOf('konqueror')!=-1);
+			var isSafari=(ua.indexOf('webkit')!=-1);
+			var isMac=(ua.indexOf('mac')!=-1);
+			var buttonStr=isMac?'Command/Cmd':'CTRL';
+		
+			if (window.sidebar){ // firefox
+				window.sidebar.addPanel(title, url, "");
+			}
+			else if(window.opera && window.print){ // opera
+				var elem = document.createElement('a');
+				elem.setAttribute('href',url);
+				elem.setAttribute('title',title);
+				elem.setAttribute('rel','sidebar');
+				elem.click();
+			} 
+			else if(document.all){// ie
+				window.external.AddFavorite(url, title);
+			}else if(isKonq){
+				alert('You need to press CTRL + B to bookmark our site.');
+			}else if(window.home || isSafari){ // Firefox, Netscape, Safari, iCab
+				alert('You need to press '+buttonStr+' + D to bookmark our site.');
+			}else if(!window.print || isMac){ // IE5/Mac and Safari 1.0
+				alert('You need to press Command/Cmd + D to bookmark our site.');    
+			}else{
+				alert('In order to bookmark this site you need to do so manually through your browser.');
+			}
+		}
+		</script>
 	</head> 
     <body>
     	        	<div id="centering">
 		<div id="main">
             <!-- START SUB NAV -->
-            <!--<div id="subNav"><a href="#" onClick="javascript: LaunchCCChat();" name='ccchattoplink' id='ccchattoplink' rel='nofollow'>Customer Care</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://vista.tutorvista.com/login/login.php" target="_top" name='logintoplink' id='logintoplink' rel='nofollow'>Login</a></div>-->
+            <!--<div id="subNav"><a href="http://vista.tutorvista.com/login/login.php" target="_top" name='logintoplink' id='logintoplink' rel='nofollow'>Login</a></div>-->
 			<div id="subNav">
 				<script language="javascript" src="http://www.tutorvista.com/js/enc_js.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.tutorvista.com/common/js/login.js" type="text/javascript"></script>
 <div align="right">
 <form action="http://vista.tutorvista.com/login/login_xt.php" method="POST" name="tvLoginForm" id="tvLoginForm" title="Login Form" class="formMargin">
-	<table cellpadding="0" cellspacing="0" border="0">
+	<table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:17px; margin-top:6px;">
 		<tbody><tr>
 			<td height="25">
 				<input type="text" name="userid" id="userid" maxlength="127" value="Email" class="subText" onfocus="disabletxt()" style="color:#cccccc;width:125px;">
 			</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
+			<td width="3">&nbsp;</td>
 			<td height="25">
 				<input type="text" name="password" id="password" maxlength="30" value="Password" class="subText" onfocus="enablepass()" style="color:#cccccc;width:125px;">
 				<input type="hidden" name="encpassword" id="pas_hid">
@@ -42,8 +72,14 @@
 		<tr>
 			<td class="subText">
 				<a href="http://vista.tutorvista.com/login/forgot_pass_front.php" rel="nofollow">Forgot your password?</a>
+			</td>	
+			<td width="3">&nbsp;</td>		
+			<td class="subText" align="right">
+				<font color="#FFFFFF">No Account?</font>
 			</td>
-			<td>&nbsp;</td>
+			<td align="center">
+				<a style="text-decoration:underline; color:#97c6fb;" href="https://payments2.tutorvista.com/v2/checkout_process_new.php?hh=ygPqY4rpfg" rel="nofollow" alt="Join Us" title="Join Us">Join Us</a>
+			</td>
 		</tr>
 	</tbody></table>
 	<input type="hidden" name="cookieexists" value="false">
@@ -57,17 +93,24 @@
 			</div>
             <!-- END SUB NAV -->
 			<div id="logo" class="logopos"><!-- The logo will come from default.php-->
-				<a href="http://www.tutorvista.com" name="hometoplink" id="hometoplink"><img id="mast" src="http://image.tutorvista.com/webimg/logo.gif" alt="Online Tutoring"></a>			</div>
+				<a href="http://www.tutorvista.com" name="hometoplink" id="hometoplink"><img id="mast" src="http://image.tutorvista.com/webimg/logo.gif" alt="Online Tutoring"></a>				<div id="sessionMsg">Over <b>4,156,000</b> live tutoring sessions served !</div>			</div>
             			<!-- START NAV -->
 			<div id="nav">
                 <a class="homeSelected" href="http://www.tutorvista.com" name="homenavlink" id="homenavlink" rel="nofollow"><div class="navLink" id="homenavilink">Home</div></a>
-                <a class="nav" href="http://www.tutorvista.com/howitworks.php" name="howitnavlink" id="howitnavlink"><div class="navLink" id="hownavilink">How It Works</div></a>
-                <a class="nav" href="https://payments2.tutorvista.com/v2/checkout_process_new.php?hh=ygPqY4rpfg" name="buynownavlink" id="buynownavlink" rel="nofollow"><div class="navLink" id="buynavlink">Online Tutoring</div></a>
-                <a class="nav" href="https://payments2.tutorvista.com/v2/checkout_process_new.php?hh=ygPqY4rpfg&amp;assbuynow=y" id="assignmentnavlink" name="assignmentnavlink" rel="nofollow"><div class="navLink" id="myaccnavilink">Assignment Help</div></a>
-                				<!--
-								a class="nav" href='http://help.tutorvista.com/orientations/studindex.php' id="getstartednavlink" name="getstartednavlink" target="_blank"><div class="navLink" id="getstartnavilink">Get Started</div></a>
-				<a class="tutoringPlatform" href='http://vista.tutorvista.com/schedule/meeting/regular/trail/main.php?schid=_trail_1249451393' id="tryTutoring" name="tryTutoring" target="_blank"><div class="navLink" id="tryTutoringNavilink">Try Our Tutoring Platform</div></a>
+				                <a class="nav" href="http://www.tutorvista.com/howitworks.php" name="howitnavlink" id="howitnavlink"><div class="navLink" id="hownavilink">How It Works</div></a>
+				 <a class="nav" href="https://payments2.tutorvista.com/v2/checkout_process_new.php?hh=ygPqY4rpfg" name="buynownavlink" id="buynownavlink" rel="nofollow"><div class="navLink" id="buynavlink">Online Tutoring</div></a>
+                				<!--a class="nav" href='http://help.tutorvista.com/orientations/studindex.php' id="getstartednavlink" name="getstartednavlink" target="_blank"><div class="navLink" id="getstartnavilink">Get Started</div></a>
+				<a class="tutoringPlatform" href='http://vista.tutorvista.com/schedule/meeting/regular/trail/main.php?schid=_trail_1262739583' id="tryTutoring" name="tryTutoring" target="_blank"><div class="navLink" id="tryTutoringNavilink">Try Our Tutoring Platform</div></a>
 								-->
+			</div>
+			<div id="sitelinks" align="right" style="font-size:12px;color:#DF4800;background:#f4eedb;padding:3px;margin-right:13px;margin-left:13px;">
+				<a style="cursor:pointer; cursor:hand; color:#0060FF;" title="" onclick="javascript:bookmark(document.title,document.location.href);" rel="nofollow">Bookmark</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<script type="text/javascript" src="http://cdn.socialtwist.com/200901298611/script.js"></script>
+				<a onclick="return false;" rel="nofollow"></a><a style="cursor:pointer; cursor:hand; color:#0060FF;" onmouseout="STTAFFUNC.hideHoverMap(this)" onmouseover="STTAFFUNC.showHoverMap(this, '200901298611', window.location, document.title)" onclick="STTAFFUNC.cw(this, {id:'200901298611', link: window.location, title: document.title });" rel="nofollow">Share</a>
+				<!--<img src="http://images.socialtwist.com/200901298611/button.png" onmouseout="STTAFFUNC.hideHoverMap(this)" onmouseover="STTAFFUNC.showHoverMap(this, '200901298611', window.location, document.title)" onclick="STTAFFUNC.cw(this, {id:'200901298611', link: window.location, title: document.title });" alt="SocialTwist Tell-a-Friend" style="border:0;padding:0;margin:0;" />-->
+				&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a style="{color:#0060FF;},{hover:text-decoration:underline;}" href="http://help.tutorvista.com" target="_blank" title="" rel="nofollow">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a style="{color:#0060FF;},{hover:text-decoration:underline;}" href="http://www.tutorvista.com/allplans.php" title="" rel="nofollow">View All Plans</a>&nbsp;&nbsp;
 			</div>
 			<!--END NAV -->
         <div id="default" class="">        
@@ -79,28 +122,11 @@
         	<center><h2>Privacy Statement Effective as of August, 2006</h2></center><br>
             
             <h2 class="orange">TutorVista.com Privacy statement</h2>
-            	<p>
-    	<span class="rightSideBox">
-        	</span></p><div id="rightBoxTop"></div>
-            <div id="rightBoxMiddle">
-					<div id="innerBoxRight" align="center" style="line-height:20px;">
-        	<h4>Customer Care</h4>
-            Click to get customer service, technical support and subscription help.<br>
-            <center>
-            	<a href="#" onclick="javascript: LaunchCCChat();" name="ccchatrightlink" id="ccchatrightlink">
-					<img src="http://image.tutorvista.com/webimg/customer_care_ylw.gif" border="0">
-				</a>
-            </center>
-        </div>
-            			</div>
-        	<div id="rightBoxBottom"></div>
-    	
-	<p>
-            </p><p>
+            <p>
 	            TutorVista.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the TutorVista.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit TutorVista.com regularly to review our privacy statement.
             </p>
             <p>
-	            If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing <a href="mailto:care@tutorvista.com">care@tutorvista.com</a>., or by <a href="#" onclick="javascript: LaunchCCChat();">24X7 online chat</a>.
+				If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing <a href="mailto:care@tutorvista.com">care@tutorvista.com</a>.
             </p>
             
             <h2 class="orange">Collected Information</h2>
@@ -205,7 +231,7 @@
             <h2 class="orange">Contact Us</h2>
             
             <p>
-	            If you have any questions or suggestions regarding our privacy policy, please contact us by emailing <a href="mailto:care@tutorvista.com">care@tutorvista.com</a>, or by <a href="#" onclick="javascript: LaunchCCChat();">24X7 online chat</a>.
+	            If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing <a href="mailto:care@tutorvista.com">care@tutorvista.com</a>.
             </p>
 
 		<!-- Privacy Policy Content Ends -->
@@ -251,7 +277,7 @@
 		<center>
 			<div id="footerInner">
 				<p>
-					<a href="http://www.tutorvista.com" name="homebtmlink" id="homebtmlink" rel="nofollow">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="http://www.tutorvista.com/" name="homebtmlink" id="homebtmlink" rel="nofollow">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.tutorvista.com/corporate.php" name="aboutusbtmlink" id="aboutusbtmlink" rel="nofollow">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.tutorvista.com/press/overview.php" name="pressroombtmlink" id="pressroombtmlink" rel="nofollow">Press Room</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.tutorvista.com/contact.php" name="contactusbtmlink" id="contactusbtmlink" rel="nofollow">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -267,10 +293,11 @@
 					<a href="http://homework-help.tutorvista.com/" name="hw-helpbtmlink" id="hw-helpbtmlink">Homework Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.tutorvista.com/math-help" name="math-help" id="math-help">Math Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.tutorvista.com/precalculus-help" name="search-lessons" id="precalculus-help">Precalculus Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="http://www.tutorvista.com/search" name="search-lessons" id="search-lessons">Search Lessons</a>
+					<a href="http://www.tutorvista.com/search" name="search-lessons" id="search-lessons">Search Lessons</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="http://www.tutorvista.com/questions/" name="questions" id="questions">Questions</a>
 				</p>
 				<p>
-					Copyright © 2008 <a href="http://www.tutorvista.com">TutorVista.com</a>, All rights reserved.
+					Copyright © 2008 <a href="http://www.tutorvista.com/">TutorVista.com</a>, All rights reserved.
 				</p>
 			</div>
 		</center>
