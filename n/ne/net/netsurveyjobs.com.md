@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsurveyjobs.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925172908id_/http%3A//www.netsurveyjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsurveyjobs.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105150900id_/http%3A//www.netsurveyjobs.com/privacy.php) for the most accurate reproduction.*
 
 # NetSurveyJobs.com- Privacy Policy
 
