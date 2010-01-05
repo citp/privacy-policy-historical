@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107133646id_/http%3A//www.texasguntrader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105113250id_/http%3A//texasguntrader.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
