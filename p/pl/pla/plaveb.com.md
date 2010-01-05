@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plaveb.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901134838id_/http%3A//www.plaveb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaveb.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105123605id_/http%3A//www.plaveb.com/privacy-policy) for the most accurate reproduction.*
 
-# Plaveb.com | company privacy policy statement
+# Privacy Policy - PLAVEB
 
 Plaveb is committed to protecting privacy and personal information that visitors may provide for information purposes. This information is necessary in order to provide you proper service. User information is only being used for particular project purposes and will not be distributed, sold or rented for any reason to third party. In the unlikely event that we choose to do so in the future with trustworthy external resources, you will be notified by email and given the opportunity to notify us not to share your personal information with any other external party.
 
@@ -20,4 +20,4 @@ Plaveb website may have links to other websites and affiliates. Plaveb is not re
 
 Plaveb may log IP addresses and or end systems information for better web administration. This information is used for analysis, diagnostics and to maintain the integrity of our services.
 
-For any questions about privacy and similar issues, please contact us at [privacy@plaveb.com.](mailto:privacy@plaveb.com)
+For any questions about privacy and similar issues, please[ contact us](https://web.archive.org/contact-us)
