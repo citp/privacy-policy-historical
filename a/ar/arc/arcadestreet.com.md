@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadestreet.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226035141id_/http%3A//www.arcadestreet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadestreet.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106005141id_/http%3A//www.arcadestreet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeStreet.com
 
@@ -14,7 +14,7 @@ During the process of delivering an ad to you, no personally identifiable inform
 
 Ads shown on our site, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. These cookies cannot be used to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time an ad is served to you. This unique number, which is stored in a cookie file on your computer, helps target ads to you. This cookie can help ensure that the same ad will not be served you multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for an ad to be delivered you. If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
-If you have any additional questions about ArcadeStreet.com's dedication to consumer privacy, please contact us at support@ArcadeStreet.com.
+If you have any additional questions about ArcadeStreet.com's dedication to consumer privacy, please contact us at support@arcadestreet.com.
 
 **Advertisers**
 
@@ -23,3 +23,7 @@ This site, ArcadeStreet.com, uses the services of FastClick, ValueClick and focu
 To learn more about FastClick, go to http://www.fastclick.com/about/opt-out.html.  
 To learn more about ValueClick, go to http://www.valueclick.com/privacy.html.  
 To learn more about focusIN, go to http://www.focusin.com/privacy.htm.
+
+**Google Advertising Cookie and Privacy Policies**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
