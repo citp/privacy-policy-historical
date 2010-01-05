@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.edu privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606124538id_/http%3A//www.nus.edu.sg/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105174229id_/http%3A//www.nus.edu.sg/policy.php) for the most accurate reproduction.*
 
 # National University of Singapore (NUS) - A global university centred in Asia
 
@@ -11,7 +11,7 @@
   * For your convenience, when you are carrying out a transaction using your personally identifiable data, we may also display to you data you had previously supplied to us or to other Government agencies (or non-Government entities that have been authorised to carry out specific Government services). This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of University services to you. 
   * To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. 
   * This site may contain links to other independently-managed websites within the NUS network and to some sites outside the "nus.edu.sg" domain whose data protection and privacy practices may be different from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to examine the privacy notices of those sites. 
-  * NUS students may also wish to view the provisions under the ['Privacy Statement for NUS Students'](https://web.archive.org/web/20090606124538id_/http%3A//www.nus.edu.sg/privacy.php). 
+  * NUS students may also wish to view the provisions under the ['Privacy Statement for NUS Students'](https://web.archive.org/web/20100105174229id_/http%3A//www.nus.edu.sg/privacy.php). 
   * Please keep in mind that whenever you voluntarily disclose personal data online – for example on message boards, through e-mails, or in chat areas – that information can be collected and used by others. By posting personal data online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
   * If you have any questions or concerns regarding this Statement, you should first contact the NUS Quality Manager (email: ). 
 
