@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806075334id_/http%3A//www.autosport.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosport.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105144120id_/http%3A//www.autosport.com/privacy.html) for the most accurate reproduction.*
 
 # autosport.com - the authority on Formula One, F1, Formula 1
 
