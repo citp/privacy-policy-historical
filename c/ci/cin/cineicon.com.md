@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822102635id_/http%3A//cineicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105062607id_/http%3A//www.cineicon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Poli... | Cineicon.com - Tamil Telugu Hindi Malayalam K
 
