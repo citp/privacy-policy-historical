@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xna.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911014716id_/http%3A//creators.xna.com/w3c/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xna.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105223329id_/http%3A//creators.xna.com/w3c/policy) for the most accurate reproduction.*
 
 # XNA Creators Club Online - privacy statement
 
