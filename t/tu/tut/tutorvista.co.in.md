@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorvista.co.in privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805054953id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorvista.co.in privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106005944id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,13 +9,9 @@
 
 ## TutorVista.com Privacy statement
 
-#### Customer Care
-
-Click to get customer service, technical support and subscription help.
-
 TutorVista.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the TutorVista.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit TutorVista.com regularly to review our privacy statement. 
 
-If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing [care@tutorvista.com](mailto:care@tutorvista.com)., or by 24X7 online chat. 
+If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing [care@tutorvista.com](mailto:care@tutorvista.com). 
 
 ## Collected Information
 
@@ -87,4 +83,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by emailing [care@tutorvista.com](mailto:care@tutorvista.com), or by 24X7 online chat. 
+If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing [care@tutorvista.com](mailto:care@tutorvista.com). 
