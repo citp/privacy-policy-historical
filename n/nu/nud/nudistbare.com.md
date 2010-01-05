@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nudistbare.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130030426id_/http%3A//www.nudistbare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudistbare.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105155252id_/http%3A//www.nudistbare.com/privacy.html) for the most accurate reproduction.*
 
-# 2007 NUDISM (HQ) - Online Nudist Privacy Policy
+# 2009 NUDISM (HQ) - Online Nudist Privacy Policy
 
 Generally, you can browse through our Website without giving us any information about yourself (including your email address). When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
