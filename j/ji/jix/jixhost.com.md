@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jixhost.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205181427id_/http%3A//jixhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jixhost.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105080347id_/http%3A//jixhost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# JIXHost - Privacy Policy.
+# JixHost - Privacy Policy.
 
 We can be reached via e-mail at privacy@jixhost.com. For each visitor to our web page, our web server automatically recognizes no information regarding the domain or e-mail address. We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site . If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
@@ -12,7 +12,7 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them, no information that we have collected and that we maintain about them. Consumers can access this information by e-mail us at the above address.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them. With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them. With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a safe server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at privacy@jixhost.com.  
 
