@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002212120id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105170545id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
 
 # Insider Pages Privacy Policy
 
-InsiderPages is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to InsiderPages, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications, Gifts.com, Pronto and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, InsiderPages has revised its [Privacy Policy](https://web.archive.org/legal/privacy_full), effective July 23, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/legal/privacy_faq) for details about the changes. Please review both the Consumer Privacy statement and this site’s complete privacy policy.
+InsiderPages.com("Insiderpages") is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to InsiderPages, Ask.com, Match.com, Citysearch, Evite, ServiceMagic, Gifts.com, Shoebuy, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, InsiderPages has revised its [Privacy Policy](https://web.archive.org/legal/privacy_full), effective November 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/legal/privacy_faq) for details about the changes. Please review both the Consumer Privacy statement and this site’s complete privacy policy.
 
 ### Consumer Privacy at InsiderPages, an IAC Company
 
-InsiderPages is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/).
+InsiderPages is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Evite, Gifts.com, Match.com, RealEstate.com, ServiceMagic, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/).
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of InsiderPages, please [click here](https://web.archive.org/legal/privacy_full).
 
@@ -26,7 +26,12 @@ We do not knowingly collect personal information from children under the age of 
 
 ###  Information others may collect [(read more »)](https://web.archive.org/legal/privacy_full#information_others_collect)
 
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. We do not provide any personal information to these companies. These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements. Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) which offers consumers the ability to opt out of ad targeting by all member companies. 
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) which offers consumers the ability to opt out of ad targeting by all member companies.
+
+
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
@@ -82,8 +87,8 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/legal/privacy_full), or our information practices, please contact us by email or postal mail below: 
 
 Privacy Officer  
-InsiderPages  
-1355 Market Street, #310  
+Insider Pages  
+201 3rd Street, Suite 615  
 San Francisco, CA 94103
 
 [legal@insiderpages.com](mailto:legal@insiderpages.com)
