@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907033832id_/http%3A//www.patriotmemory.com/company/index.jsp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105051155id_/http%3A//www.patriotmemory.com/company/index.jsp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Patriot Memory - Company
 
