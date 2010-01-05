@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatbetteramerica.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207095601id_/http%3A//www.eatbetteramerica.com/global/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatbetteramerica.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105221438id_/http%3A//www.eatbetteramerica.com/global/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Eat Better America
 
@@ -68,7 +68,7 @@ This website is intended for use by residents of the United States of America on
 We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information gathered via this site. 
 
 **Your consent to the terms of this privacy policy**  
-By using this website, you signify your assent to all of the terms of this Privacy Policy and this website's [Terms of Use](https://web.archive.org/web/20091207095601id_/http%3A//www.eatbetteramerica.com/global/TermsOfUse.aspx). If you do not agree with any term of this Privacy Policy or our [Terms of Use](https://web.archive.org/web/20091207095601id_/http%3A//www.eatbetteramerica.com/global/TermsOfUse.aspx), please do not use this site or submit any personally identifiable information. 
+By using this website, you signify your assent to all of the terms of this Privacy Policy and this website's [Terms of Use](https://web.archive.org/Global/TermsOfUse.aspx). If you do not agree with any term of this Privacy Policy or our [Terms of Use](https://web.archive.org/Global/TermsOfUse.aspx), please do not use this site or submit any personally identifiable information. 
 
 **How To Contact Us**  
 If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](http://consumercontacts.generalmills.com/ConsolidatedContact.aspx?page=http://www.eatbetteramerica.com). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time. 
