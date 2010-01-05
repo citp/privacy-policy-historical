@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wm.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919062217id_/http%3A//www.wm.com/wm/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wm.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105122807id_/http%3A//www.wm.com/wm/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Waste Management Corporation – Official Site
 
