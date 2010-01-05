@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232134id_/http%3A//www.funphotobox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funphotobox.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105231110id_/http%3A//www.funphotobox.com/privacy.aspx) for the most accurate reproduction.*
 
 # FunPhotoBox - Best Photo Effects and Gif Animations. Photo Fun online. Create funny pictures.
 
