@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moosegrunt.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831105411id_/http%3A//moosegrunt.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosegrunt.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105114650id_/http%3A//moosegrunt.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Moose Grunt
 
