@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828023142id_/http%3A//www.budgettruck.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105233744id_/http%3A//www.budgettruck.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Budget Truck Rental
+
+[](http://www.truste.org/ivalidate.php?url=www.budgettruck.com&sealid=101)
 
 Budget Rent a Car System, Inc.’s  
 To help you understand how Budget Truck Rental, LLC (“Budget Truck”) plans to keep you informed of our money-saving promotions, products and services – and to explain how we strive to safeguard your personal security information – we’ve prepared this detailed privacy policy. Please refer to it anytime you have questions about how we might use your Personally Identifiable Information, as defined below.
@@ -39,7 +41,7 @@ We at Budget Truck recognize the importance of protecting your personally identi
 
 The purpose of this Privacy Policy is to tell you how Budget Truck strives to better serve you by keeping you informed of promotions, products and services, while, at the same time, safeguarding your PII. Our intent is to bring you offers and discounts that we believe are relevant to your interests offered by and through Avis Budget Group, Inc.’s business units and affiliates (including, for purposes of this Privacy Policy, our franchise system affiliates) and other non-affiliated companies with whom we have business relationships.
 
-This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20080828023142id_/http%3A//www.budgettruck.com/Terms_Of_Use.aspx), which govern Budget Truck’s web site at www.budgettruck.com (the “Site”). 
+This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20100105233744id_/http%3A//www.budgettruck.com/Terms_Of_Use.aspx), which govern Budget Truck’s web site at www.budgettruck.com (the “Site”). 
 
 **What Personally Identifiable Information Budget Truck Collects and How it is Collected**
 
@@ -109,9 +111,9 @@ We may disclose your PII to affiliated and non-affiliated organizations includin
 > 
 > To government, regulatory and law enforcement agencies where the disclosure is required or authorized by law, and otherwise as we believe is necessary or appropriate to satisfy any law, regulation or other governmental request, to operate our Site properly, or to protect or defend our rights or the rights and well-being of our employees, users or others or, if you are involved (or are suspected by governmental authorities or our security functions to be involved) in any illegal activity, even without a subpoena, warrant or court order.
 
-We also may disclose your information to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such information to send you information about their products and services and other information and materials that may be of interest to you. You may opt-out of us disclosing your PII for these purposes through one of the methods described below.
-
 We also may share your information with other non-affiliated third parties, such as entities that provide services for or through our Site, or for our business (e.g., advertisers, ad servers, content providers, services providers, credit card processors, fulfillment services providers, e-mail list hosting companies and distribution companies) that use such information on our behalf consistent with this Privacy Policy.
+
+We use other third parties to provide data processing, development and support on our site. When you make a reservation on Budgettruck.com, we will share any information you provided, as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose.
 
 We also may transfer or assign your information to third parties as a result of or in connection with a sale, merger, consolidation, change in control, transfer of assets, reorganization or liquidation.
 
@@ -153,11 +155,11 @@ We will never request that you send us any sensitive PII, such as your credit ca
 
 In the unlikely event that we believe that the security of your PII in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. 
 
-**How to Correct or Update Personally Identifiable Information that Budget Truck Maintains Or Opt Out of Receiving Marketing Materials from Budget Truck**
+**How to Correct, Update or Access Personally Identifiable Information that Budget Truck Maintains Or Opt Out of Receiving Marketing Materials from Budget Truck**
 
 You can opt-out of our use and disclosure of your PII for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for same, by the methods provided below. Your consent will be withdrawn; however, it is possible that you may receive correspondences scheduled prior to our receipt and processing of your opt-out request.
 
-To Opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word “Unsubscribe” in the subject line or you can email us directly at privacyofficer@budgettruck.com or call us at 1-800-287-6620. (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)
+To Opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word “Unsubscribe” in the subject line or you can email us directly at [budgettruck.marketing@budgettruck.com](mailto:budgettruck.marketing@budgettruck.com) or call us at 1-800-287-6620. (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)
 
 To Opt-out of Postal Mail: Call us at 1-800-287-6620 or write to us at:   
 Budget Rent A Car System Inc.   
@@ -170,7 +172,13 @@ We may also provide additional methods for you to opt-out of having your PII use
 
 Your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by e-mail or otherwise, regarding your relationship with us (e.g., your account status and activity or our responses to questions or inquiries you pose to us, confirmations for existing reservations); (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your PII for our internal business purposes; and (c) shall not preclude us from disclosing your PII as described in this Privacy Policy for purposes other than sending you promotional and marketing materials.
 
-If you wish to contact us to: (1) inquire about our privacy practices; (2) provide feedback and comments regarding our privacy practices; or (3) access or correct your PII that we have, then contact us as detailed above. ****
+If you personally identifiable information changes, you may change or correct it by: Calling us at 1-800-287-6620, emailing [privacyofficer@budgettruck.com](mailto:privacyofficer@budgettruck.com) or by writing to us by Postal Mail:
+
+Budget Rent A Car System Inc.  
+Budget Truck   
+6 Sylvan Way   
+Parsippany, NJ 07054   
+ATTN: Privacy Officer
 
 **Applicable Law and Jurisdiction**
 
@@ -178,10 +186,28 @@ This Privacy Policy shall be governed by the laws of the United State and the St
 
 **Changes to this Privacy Policy**
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy at the inception of each session. If we change the way your personal information will be used, we will post an announcement on www.budgettruck.com/custserv/privacy.asp. The changes will be displayed on the top of the pages in a section highlighted as “Changes” with the date the changes took effect. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices. ****
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy at the inception of each session. If we change the way your personal information will be used, we will notify you here ([www.budgettruck.com/Privacy-Policy.aspx](https://web.archive.org/web/20100105233744id_/http%3A//www.budgettruck.com/www.budgettruck.com/Privacy-Policy.aspx)), by e-mail or by means of a notice on our home page. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices. ****
+
+If we make material changes to this policy, we will notify you here ([www.budgettruck.com/Privacy-Policy.aspx](https://web.archive.org/web/20100105233744id_/http%3A//www.budgettruck.com/www.budgettruck.com/Privacy-Policy.aspx)), by e-mail or by means of a notice on our home page.
+
+**Truste Privacy Program**
+
+Budget Truck, LLC. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.budgettruck.com](http://www.budgettruck.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact 
+
+Budget Rent A Car System Inc.   
+Budget Truck   
+6 Sylvan Way  
+Parsippany, NJ 07054  
+ATTN: Privacy Officer
+
+or eMail [privacyofficer@budgettruck.com](mailto:privacyofficer@budgettruck.com)
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns
 
 **Your Acceptance of this Privacy Policy**
 
 By using our Site, or otherwise providing your PII to us, you signify your acceptance of our Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Site or provide any PII to us. 
 
-**Privacy Policy Effective Date:** May 24, 2007.
+**Privacy Policy Effective Date:** January 29, 2009.
