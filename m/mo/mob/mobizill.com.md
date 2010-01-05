@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428173411id_/http%3A//www.mobizill.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105143820id_/http%3A//www.mobizill.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Mobizill - Free For Your Mobile :: Mobile Content,Games,Ringtones,Videos,Wallpaper,Themes,Softwares,Mobile Groups.
 
