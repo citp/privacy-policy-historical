@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124014908id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105033508id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
 
-# Cineworld Cinemas: Privacy Policy
+# Cineworld Cinemas: Cineworld Cinemas: Privacy Policy
 
 ## Privacy Policy
 
-Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/web/20091124014908id_/http%3A//terms).
+Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/web/20100105033508id_/http%3A//terms).
 
 We use the information we collect about you to help efficiently administer our business and the services we provide to you in accordance with the Data Protection Act 1998. We take privacy seriously and endeavour to be as open as possible in terms of how your information is used.
 
@@ -18,7 +18,7 @@ If you wish to book tickets using our web site, we will need to know your name, 
 
 #### MyCineworld
 
-If you wish to sign up to the MyCineworld service, you will need to complete the registration process and we will need to know your name, e-mail and postal addresses, telephone number and for the purposes of identification, either your father's name, your mother's name or your place of birth.
+If you wish to sign up to the MyCineworld service, you will need to complete the registration process and we will need to know your name and e-mail.
 
 If you sign up to the MyCineworld service, our agents and sub-contractors shall use this information to communicate with you on any matter relating to provision of our services in general. We may further use the information we collect to facilitate your use of our Cineworld Advance Booking service or to send to you our weekly email communication, containing information of upcoming attractions and information about special features of our Web Site or any other service or products which we think may be of interest to you. If at any time you decide you would rather not receive this information, please use the modify function on the Web Site. In any event, a facility explaining how to unsubscribe is available at the end of every correspondence.
 
