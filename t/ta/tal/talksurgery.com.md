@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talksurgery.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125151410id_/http%3A//www.talksurgery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksurgery.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105053551id_/http%3A//www.talksurgery.com/privacy.php) for the most accurate reproduction.*
 
 # Plastic surgery information service, Community, Information and Doctor Locator
 
