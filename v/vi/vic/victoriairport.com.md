@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriairport.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904042251id_/http%3A//www.victoriairport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriairport.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105153149id_/http%3A//www.victoriairport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Victoria Airport - Airport Tickets & Guides Online
 
