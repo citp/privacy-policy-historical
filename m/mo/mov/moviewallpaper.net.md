@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviewallpaper.net privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826192946id_/http%3A//www.ugo.com/ugo/html/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviewallpaper.net privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105181028id_/http%3A//www.ugo.com/ugo/html/static/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | UGO.com
 
