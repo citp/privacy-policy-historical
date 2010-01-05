@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodkeywords.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822052726id_/http%3A//www.softnik.com/icenter/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodkeywords.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105062151id_/http%3A//www.softnik.com/icenter/privacy.php) for the most accurate reproduction.*
 
 # Softnik Technologies: Privacy Policy
 
