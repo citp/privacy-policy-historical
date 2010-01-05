@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208003603id_/http%3A//www.budgettravel.com/bt-srv/misc/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105084816id_/http%3A//www.budgettravel.com/bt-srv/misc/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Budget Travel
 
-_Our privacy policy has changed as of May 20, 2008. To view the previous version of our privacy policy, please[click here](https://web.archive.org/web/20091208003603id_/http%3A//www.budgettravel.com/bt-srv/misc/privacypolicy_2007.html)._
+_Our privacy policy has changed as of May 20, 2008. To view the previous version of our privacy policy, please[click here](https://web.archive.org/web/20100105084816id_/http%3A//www.budgettravel.com/bt-srv/misc/privacypolicy_2007.html)._
 
 Welcome to BudgetTravel.com, the online version of Arthur Frommer's Budget Travel Magazine (the"Service"), a website provided by Newsweek Budget Travel, Inc. ("Budget Travel," "we," or "us") a subsidiary of The Washington Post Company. Portions of the Service are hosted by our affiliated company, Washington Post Newsweek Interactive, and by other companies with which we have service agreements. This privacy policy describes how we treat the information we collect through the Service. If you have any questions about this policy, please click here, and indicate on our feedback form that your question concerns privacy.
 
@@ -67,7 +67,7 @@ Often our advertisers contract with a third-party service to host their ads. In 
 
 **A special word about user submissions**
 
-Please keep in mind that whenever you voluntarily disclose personal information online in public forums, that information can be collected and used by others. For this reason, we encourage all users to refrain from providing or sharing their personal information in article and blog comment threads, discussion forums, message boards, and other areas in which we allow users to submit content to be made available to the public. For information on our requirements for user content, please see our [User Submission Guidelines](https://web.archive.org/web/20091208003603id_/http%3A//www.budgettravel.com/bt-srv/misc/user_agreement.html#guidelines).
+Please keep in mind that whenever you voluntarily disclose personal information online in public forums, that information can be collected and used by others. For this reason, we encourage all users to refrain from providing or sharing their personal information in article and blog comment threads, discussion forums, message boards, and other areas in which we allow users to submit content to be made available to the public. For information on our requirements for user content, please see our [User Submission Guidelines](https://web.archive.org/web/20100105084816id_/http%3A//www.budgettravel.com/bt-srv/misc/user_agreement.html#guidelines).
 
 **External links**
 
@@ -83,4 +83,4 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
 This privacy policy is effective as of May 20, 2008.
 
-All rights reserved. Copyright © 2009. Newsweek Budget Travel, Inc. 
+All rights reserved. Copyright © 2010. Newsweek Budget Travel, Inc. 
