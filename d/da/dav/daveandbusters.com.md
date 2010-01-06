@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the daveandbusters.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317164232id_/http%3A//www.daveandbusters.com/Misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveandbusters.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106114411id_/http%3A//www.daveandbusters.com/Misc/Privacy.aspx) for the most accurate reproduction.*
 
 # Dave & Buster’s – Eat, Drink, Play – Privacy Policy
+
+## PRIVACY POLICY
 
 This is the Web site of  **Dave & Buster's, Inc.**
 
@@ -17,3 +19,6 @@ From time to time, we may share our user's contact information with our partners
 We hope visitors understand and appreciate our insistence on a strong Privacy Policy Statement as a matter of standard corporate policy and procedure.
 
 We can be reached via telephone at (214) 357-9588 or via fax at (214) 350-0941 to receive visitors' comments regarding our Privacy Policy Statement.
+
+  
+
