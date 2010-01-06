@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421123930id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106154053id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - theOtaku.com
 
@@ -10,7 +10,7 @@ The information we collect is used to improve the content of our Web page.
 
 **With respect to cookies:** We use cookies to record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads.
 
-**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [Google](http://www.google.com/privacy.html) and [Burst! Media](http://www.burstmedia.com/isl/privacy.asp)
+**With respect to Ad Servers:** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
