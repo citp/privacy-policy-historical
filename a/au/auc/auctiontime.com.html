@@ -1,461 +1,324 @@
-<!--The following is the downloaded HTML source of the auctiontime.com privacy policy that was archived on 2005-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050206004504id_/http%3A//www.auctiontime.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctiontime.com privacy policy that was archived on 2010-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100106141558id_/http%3A//www.auctiontime.com/info/privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Auction Time - eBay Consignment Drop Off Stores</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+		<title>Sandhills Publishing Privacy Policy</title>
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">		
+		<link rel="stylesheet" type="text/css" href="/css/AuctionTime.css">
+	</head>
+	<body>
+	    <form name="ctl00" method="post" action="Privacy.aspx" id="ctl00">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ0MjA5MTg4Mw9kFgJmD2QWAgIBD2QWBGYPZBYEZg8WAh4EVGV4dAVrPHNjcmlwdCBsYW5ndWFnZT1qYXZhc2NyaXB0PiBpZiAod2luZG93LnRvcCAhPSB3aW5kb3cpe3dpbmRvdy50b3AubG9jYXRpb249Ii9JbmZvL1ByaXZhY3kuYXNweD8iO308L3NjcmlwdD5kAgIPZBYCZg9kFghmDxYCHgRocmVmBThodHRwczovL3d3dy5hdWN0aW9udGltZS5jb20vcmVnaXN0cmF0aW9uL2VudHJ5LmFzcHg/YnI9MWQCAQ8WAh4HVmlzaWJsZWhkAgcPZBYCAgEPFgIeBXN0eWxlBSJjdXJzb3I6cG9pbnRlcjt2ZXJ0aWNhbC1hbGlnbjo0cHg7ZAIJDxYCHwJoZAICD2QWAmYPZBYEZg9kFgJmDxYCHgV3aWR0aAUDNzg1FgJmD2QWBGYPZBYEZg8PFgIfAAVUU2FuZGhpbGxzIFB1Ymxpc2hpbmc8Zm9udCBzaXplPSItMSIgZmFjZT0iYXJpYWwiPjxzdXA+wq4gPC9zdXA+PC9mb250PlByaXZhY3kgUG9saWN5ZGQCAQ8PFgIfAGRkZAIBD2QWBAIBDw8WAh8CaGRkAgMPDxYGHwAFCkVtYWlsIFRoaXMeC05hdmlnYXRlVXJsBVAvZm9ybXMvZnJpZW5kLmFzcCZwcmVwYWdlPWh0dHAlM2ElMmYlMmZ3d3cuYXVjdGlvbnRpbWUuY29tJTJmSW5mbyUyZlByaXZhY3kuYXNweB8CaGRkAgIPFgIfBAUDNzg1ZGQn5jONq7onkEC6XOMfUkd4gZ2+QQ==">
 
-<script language="JavaScript">
-//
-// Rollover
-//
-function Hilite(name,over)
-{
-	if(window.document.images) 
-	{
-		if (over)
-			window.document.images[name].src = "images/" + name + "_on.gif";
-		else
-			window.document.images[name].src =  "images/" + name + ".gif";
+		    <script language="javascript"> if (window.top != window){window.top.location="/Info/Privacy.aspx?";}</script>
+<div id="MasterPageControl_header1_pnHeader">
+	
+<link rel="stylesheet" type="text/css" href="/css/AuctionTime.css">
+<script language="javascript" type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
+<script language="javascript">
+	var bWaitingToShow;
+
+	function SubmitLogIn() {
+		document.getElementById("hidLogIn").value = "1";
+		SubmitForm();
 	}
-}
+	
+	function SubmitChangeEmail() {
+		document.getElementById("hidChangeEmail").value = "1";
+		SubmitForm();
+	}
+	
+	function SubmitForm() {
+		var sViewStateName = "__VIEWSTATE";
+		
+		if (document.getElementById(sViewStateName)) {
+			document.getElementById(sViewStateName).parentNode.removeChild(document.getElementById(sViewStateName));
+		}
+		
+		document.forms[0].method = "post";
+		document.forms[0].submit();
+	}
+	
+	function hitEnter(elem, e) {
+		var nKeyCode = 0;
+		
+		if (e.keyCode) {
+			nKeyCode = e.keyCode;
+		} else if (e.which) {
+			nKeyCode = e.which;
+		}
+	
+		if (nKeyCode == 13) {
+			if (elem.id == "txtUPass") {
+				SubmitLogIn();
+			} else if (elem.id == "txtUserEmail") {
+				SubmitChangeEmail();
+			}
+		} else {
+			return true;
+		}
+	}
+	
+	function getBidStatus() {
+		bWaitingToShow = true;
+		$.get("/onlineauctions/canibid.aspx", { gsc: "1", rn: new Date().getTime() }, function (data) {
+			spanCanIBid.innerHTML = data;
+			
+			if (bWaitingToShow) {
+				bWaitingToShow = false;
+				spanCanIBid.style.display = "";
+			}
+		});
+	}
+	
+	function CanIBidMouseOver() {
+		var aPos = findPos(imgCanIBid);
+		
+		spanCanIBid.style.left = aPos[0] + "px";
+		spanCanIBid.style.top = (aPos[1] + 34) + "px";
+		
+		getBidStatus();
+	}
+	
+	function CanIBidMouseOut() {
+		bWaitingToShow = false;
+		spanCanIBid.style.display = "none";
+	}
+	
+	function findPos(obj) {
+		var curleft = curtop = 0;
+
+		if (obj.offsetParent) {
+			do {
+				curleft += obj.offsetLeft;
+				curtop += obj.offsetTop;
+			} while (obj = obj.offsetParent);
+		}
+		
+		return [curleft,curtop];
+	}
+	
+	function fixRelativeLinks() {
+		var regColon = new RegExp(":");
+		var regRel = new RegExp("^/");
+		var regAnchor = new RegExp("^#");
+
+		var links = $("a,area");
+		var iLink = 0;
+		var oLink;
+		var sHref;
+		var sNewHref;
+		var sPathMinusPage = getPathMinusPage();
+
+		while (iLink < links.length) {
+			oLink = $(links[iLink]);
+			sHref = oLink.attr("href");
+			
+			if (!regColon.test(sHref)) {
+				if (!regAnchor.test(sHref)) {
+					sNewHref = "http://" + location.host;
+				
+					if (!regRel.test(sHref)) {
+						sNewHref = sNewHref + sPathMinusPage
+					}
+					
+					oLink.attr("href", sNewHref + sHref);
+				}
+			}
+						
+			iLink++;
+		}
+	}
+	
+	function getPathMinusPage() {
+		var sPath = "/";
+		var aPathParts = location.pathname.split("/");
+		var iPathPart = 0;
+		
+		while (iPathPart < aPathParts.length - 1) {
+			if (aPathParts[iPathPart] != "") {
+				sPath = sPath + aPathParts[iPathPart] + "/";
+			}
+			
+			iPathPart++;
+		}
+		
+		return sPath;
+	}
+	
 </script>
+<map name="logo">
+	<area href="/list/onlineauctionlist.aspx" shape="RECT" coords="0,0,392,107" title="AuctionTime.com: Tractor Auction, Truck Auctions, Trailer Auction, and Heavy Equipment Auction." alt="AuctionTime.com: Tractor Auction, Truck Auctions, Trailer Auction, and Heavy Equipment Auction.">
+	<area href="http://www.truckpaper.com" shape="RECT" coords="390, 0, 600, 107" title="Auction Time: Powered by Truck Paper, TractorHouse, and Machinery Trader." alt="Auction Time: Powered by Truck Paper, TractorHouse, and Machinery Trader." target="_blank">
+	<area href="http://www.machinerytrader.com" shape="RECT" coords="602, 0, 812, 107" title="AuctionTime.com: Tractor Auction, Truck Auctions, Trailer Auction, and Heavy Equipment Auction." alt="AuctionTime.com: Tractor Auction, Truck Auctions, Trailer Auction, and Heavy Equipment Auction." target="_blank">
+	<area href="http://www.tractorhouse.com" shape="RECT" coords="814, 0, 992, 107" title="Auction Time: Powered by Truck Paper, TractorHouse, and Machinery Trader." alt="Auction Time: Powered by Truck Paper, TractorHouse, and Machinery Trader." target="_blank">
+</map>
+<table cellpadding="0" cellspacing="0" width="994" align="center" bgcolor="white">
+	<tbody><tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="994" align="center" bgcolor="white">
+				<tbody><tr>
+					<td colspan="2">
+						<table cellpadding="2" cellspacing="2" border="0" width="100%" id="blackpageheader">
+							<tbody><tr>
+								<td width="450">&nbsp;
+									<a href="https://www.auctiontime.com/registration/entry.aspx?br=1" id="MasterPageControl_header1_ctl00_lnkRegister">Register</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+									<a href="/info/aboutweb.aspx">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+									<a href="/info/customerservice.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+									<a href="/specialfeatures/sitemap.aspx">Site Map</a>
+								</td>
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut1" align="right"><nobr>User Name:&nbsp;</nobr></td>
+	
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut2" class="nopadding">
+								<input id="txtUName" name="txtUName" type="text" size="20"></td>
+	
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut3" align="right">Password:&nbsp;</td>
+	
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut4" class="nopadding">
+								<input id="txtUPass" name="txtUPass" type="password" size="20" onkeypress="return hitEnter(this, event);"></td>
+	
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut5" width="50"><input type="button" value="Log In" style="cursor:pointer;" onclick="SubmitLogIn();"><input type="hidden" id="hidLogIn" name="hidLogIn" value="0"></td>
+	
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut6" class="nopadding"><nobr>
+								<input id="cbCookie" name="cbCookie" type="checkbox" style="border: 0px; background-color :transparent; height:18px; padding-right:2px; cursor:pointer;" checked=""><label id="MasterPageControl_header1_ctl00_labelGSCcbCookie" for="cbCookie" style="cursor:pointer;vertical-align:4px;"> Remember Me</label></nobr></td>
+	
+								<td id="MasterPageControl_header1_ctl00_tdLoggedOut7" class="nopadding" style="padding-right:6px;"><nobr>&nbsp;&nbsp;<a href="/registration/lookuppass.aspx">Forgot Password?</a></nobr></td>
+	
+								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr><td><img src="/siteart/headerbanner.jpg" usemap="#logo" border="0" width="994" height="107"></td></tr>
+				<tr><td style="background-color:#902d18;"><img src="/siteart/clear.gif" alt="" height="4" width="3"></td></tr>
+				<tr><td id="buttons">
+					<table cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td style="padding-right:6px;"><a href="/List/OnlineAuctionList.aspx?lp=MAT&amp;oauctions=1"><img src="/siteart/construction_inactive.gif" onmouseover="this.src='/siteart/construction_hover.gif';" onmouseout="this.src='/siteart/construction_inactive.gif';" alt="Construction Equipment Auction At Auction Time" title="Construction Equipment Auction At Auction Time"></a></td>
+							<td style="padding-right:6px;"><a href="/List/OnlineAuctionList.aspx?lp=TH&amp;oauctions=1"><img src="/siteart/farm_inactive.gif" onmouseover="this.src='/siteart/farm_hover.gif';" onmouseout="this.src='/siteart/farm_inactive.gif';" alt="Tractor Auction At Auction Time" title="Tractor Auction At Auction Time"></a></td>
+							<td style="padding-right:6px;"><a href="/List/OnlineAuctionList.aspx?lp=TRK&amp;oauctions=1&amp;bcatid=27"><img src="/siteart/trucks_inactive.gif" onmouseover="this.src='/siteart/trucks_hover.gif';" onmouseout="this.src='/siteart/trucks_inactive.gif';" alt="Truck Auctions At Auction Time" title="Truck Auctions At Auction Time"></a></td>
+							<td style="padding-right:6px;"><a href="/List/OnlineAuctionList.aspx?lp=TRK&amp;oauctions=1&amp;bcatid=28"><img src="/siteart/trailers_inactive.gif" onmouseover="this.src='/siteart/trailers_hover.gif';" onmouseout="this.src='/siteart/trailers_inactive.gif';" alt="Trailer Auction At Auction Time" title="Trailer Auction At Auction Time"></a></td>
+							<td><span id="spanCanIBid" class="botdivdemo1" style="position:absolute; z-index:2; left:0px; top:34px; display:none;" onmouseover="spanCanIBid.style.display = '';" onmouseout="CanIBidMouseOut();"></span><a href="/onlineauctions/canibid.aspx"><img src="/siteart/canibid_inactive.gif" id="MasterPageControl_header1_ctl00_imgCanIBid" onmouseover="this.src='/siteart/canibid_hover.gif';CanIBidMouseOver();" onmouseout="this.src='/siteart/canibid_inactive.gif';CanIBidMouseOut();" title=""></a></td>
+						</tr>
+					</tbody></table>
+				</td></tr>
+			</tbody></table>
 
-</head>
 
-<body>
 
-<div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber1">
-    <tbody><tr>
-      <td width="100%">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber2">
-        <tbody><tr>
-          <td width="389">
-          <map name="FPMap1">
-          <area href="index.html" shape="rect" coords="12, 8, 377, 71">
-          </map>
-          <img border="0" src="images/logo.gif" width="389" height="83" usemap="#FPMap1"></td>
-          <td width="225">
-          <p align="center">
-          <img border="0" src="images/tollfree.gif" width="167" height="32"></p></td>
-          <td width="166">
-          <div align="right">
-          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="122" id="AutoNumber3" bgcolor="#F58220">
-            <tbody><tr>
-              <td width="136" colspan="2">
-              <img border="0" src="images/customerlogin.gif" hspace="2" vspace="2" width="103" height="16"></td>
-            </tr>
-            <tr>
-              <td width="136" colspan="2"><font face="Verdana" size="1">&nbsp; 
-              Username</font></td>
-            </tr>
-            <tr>
-              <td width="136" colspan="2"><span class="inputBox">&nbsp; 
-              <input type="text" size="15" maxlength="18" name="username" value="" style="font-family: Verdana; font-size: 9"></span></td>
-            </tr>
-            <tr>
-              <td width="136" colspan="2"><font size="1" face="Verdana">&nbsp; 
-              Password</font></td>
-            </tr>
-            <tr>
-              <td width="97"><span class="inputBox">&nbsp;
-              <input type="password" size="12" maxlength="18" name="password" value="" style="font-family: Verdana; font-size: 9"></span></td>
-              <td width="39">
-              <p align="center">
-              <img border="0" src="images/login_go.gif" align="left" width="19" height="24"></p></td>
-            </tr>
-            <tr>
-              <td width="136" colspan="2">
-              <img border="0" src="images/3x3.gif" width="3" height="3"></td>
-            </tr>
-          </tbody></table>
-          </div>
-          </td>
-        </tr>
-      </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
-        <tbody><tr>
-          <td width="16%">
-            <a onmouseover="Hilite('whyus',true)" onmouseout="Hilite('whyus',false)" href="whyus.html">
-		<img name="whyus" border="no" src="images/whyus.gif" width="141" height="29"></a></td>
-          <td width="16%">
-          <a onmouseover="Hilite('getstarted',true)" onmouseout="Hilite('getstarted',false)" href="getstarted.html">
-		<img name="getstarted" border="no" src="images/getstarted.gif" width="113" height="29"></a></td>
-          <td width="17%">
-          <a onmouseover="Hilite('howitworks',true)" onmouseout="Hilite('howitworks',false)" href="howitworks.html">
-		<img name="howitworks" border="no" src="images/howitworks.gif" width="128" height="29"></a></td>
-          <td width="17%">
-          <a onmouseover="Hilite('fees',true)" onmouseout="Hilite('fees',false)" href="fees.html">
-		<img name="fees" border="no" src="images/fees.gif" width="68" height="29"></a></td>
-          <td width="17%">
-          <a onmouseover="Hilite('locations',true)" onmouseout="Hilite('locations',false)" href="locations.html">
-		<img name="locations" border="no" src="images/locations.gif" width="99" height="29"></a></td>
-          <td width="17%">
-          <a onmouseover="Hilite('auctions',true)" onmouseout="Hilite('auctions',false)" target="_blank" href="http://search.ebay.com/auctiontime01_W0QQsofocusZbsQQsorecordsperpageZ50QQsspagenameZhQ3AhQ3AfitemQ3AUSQQsofindtypeZ0QQfromZR6QQnojsprZyQQpfidZ0">
-		<img name="auctions" border="no" src="images/auctions.gif" width="231" height="29"></a></td>
-        </tr>
-      </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <img border="0" src="images/1x1.gif" width="1" height="1"></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5">
-        <tbody><tr>
-          <td>
-          <img border="0" src="images/bluefillbar.gif" width="624" height="15"></td>
-          <td><a href="index.html"><img border="0" src="images/home.gif" width="39" height="15"></a></td>
-          <td><a href="aboutus.html"><img border="0" src="images/aboutus.gif" width="56" height="15"></a></td>
-          <td><a href="contactus.html"><img border="0" src="images/contact.gif" width="60" height="15"></a></td>
-        </tr>
-      </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <img border="0" src="images/1x1.gif" width="1" height="1"></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <img border="0" src="images/privacypolicy_head.gif" width="468" height="43"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber6" height="211">
-        <tbody><tr>
-          <td width="199" valign="top">
-          <p align="center">&nbsp;</p>
-          <div align="center">
-            <center>
-            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="80%" id="AutoNumber12">
-              <tbody><tr>
-                <td width="100%">&nbsp;</td>
-              </tr>
-            </tbody></table>
-            </center>
-          </div>
-          </td>
-          <td width="13" background="images/vertdotsgrey-45.gif">&nbsp;</td>
-          <td width="568" valign="top">
-          &nbsp;<table cellspacing="0" cellpadding="0" width="780" align="center" border="0">
-            <tbody><tr>
-              <td width="100%">
-              <table cellspacing="0" cellpadding="0" width="100%" border="0">
-                <tbody><tr>
-                  <td valign="top">
-                  <div align="center">
-                    <center>
-                    <table cellspacing="0" cellpadding="0" width="100%" border="0">
-                      <tbody><tr>
-                        <td class="grey" align="middle" width="100%">
-                        <div align="center">
-                          <table style="border-collapse: collapse" bordercolor="#111111" cellspacing="0" cellpadding="0" width="85%" border="0">
-                            <tbody><tr>
-                              <td width="100%"><font face="Verdana">
-                              <font style="font-size: 9pt">Auction Time is 
-                              committed to respecting your privacy and 
-                              recognizing your need for appropriate protection 
-                              and management of personally identifiable 
-                              information you share with us (the phrases 
-                              "personally identifiable information" or "personal 
-                              information" mean any information by which you can 
-                              be identified, such as your name, address, 
-                              telephone number, etc.). The purpose of this 
-                              privacy policy is to inform you what personally 
-                              identifiable information or personal information 
-                              we may collect from you when you visit our web 
-                              sites, how we use such information, and the 
-                              choices you have regarding our use of, and your 
-                              ability to review and correct, the information. 
-                              This policy applies only to users accessing our 
-                              web site from the United States. <br>
-                              <br>
-                              As a part of our commitment to your privacy, 
-                              Auction Time supports and adheres to the 
-                              guidelines and practices adopted by the Direct 
-                              Marketing Association's "Privacy Promise to 
-                              American Consumers." We have agreed to (1) provide 
-                              customers with notice of their ability to opt out 
-                              of information rental, sale or exchange with other 
-                              marketers; (2) honor customers' requests not to 
-                              share their information with other marketers; and 
-                              (3) honor customers' requests not to receive mail, 
-                              telephone or other solicitations from Auction 
-                              Time. <br>
-                              <br>
-                              <b>Collecting Information About You</b><br>
-                              <br>
-                              In general, you can visit many of our web pages 
-                              without telling us who you are or revealing any 
-                              personal information about yourself. We may track 
-                              the Internet domain address from which people 
-                              visit us and analyze this data for trends and 
-                              statistics, but individual users will remain 
-                              anonymous, unless you voluntarily tell us who you 
-                              are. <br>
-                              <br>
-                              There may be times (such as when you purchase or 
-                              order a product, subscribe to a service or to 
-                              participate in contests, sweepstakes or 
-                              promotions, etc.) at which we ask you to provide 
-                              certain information about yourself, such as your 
-                              name, shipping/billing address, telephone number, 
-                              email address, credit card information, birth 
-                              date, gender, occupation, personal interests, etc. 
-                              We also maintain a record of your online product 
-                              purchases. Whether or not to provide such 
-                              information is completely your own choice. But if 
-                              you choose not to provide the information we 
-                              request, you may be unable to purchase products, 
-                              or access certain services, offers and content on 
-                              our web site. <br>
-                              <br>
-                              <b>Using Information About You</b><br>
-                              <br>
-                              We use the personally identifiable information you 
-                              provide for internal purposes, such as confirming 
-                              and tracking your order, subscription or 
-                              registration, analyzing trends and statistics, 
-                              informing you of our new products, services and 
-                              offers, and providing you with information from 
-                              and about Auction Time. <br>
-                              <br>
-                              To serve you better, we may combine information 
-                              you give us online or through our catalogs. We may 
-                              also combine that information with publicly 
-                              available information and information we receive 
-                              from third parties. We use that combined 
-                              information to enhance and personalize your 
-                              shopping experience with us, to communicate with 
-                              you about our products and events that may be of 
-                              interest to you, and for other promotional 
-                              purposes.<br>
-                              <br>
-                              We may contract with companies or persons to 
-                              provide certain services including credit card 
-                              processing, shipping, data management, promotional 
-                              services, etc. We call them our Service Providers. 
-                              We provide our Service Providers with the 
-                              information needed for them to perform these 
-                              services. We also ask our Service Providers to 
-                              confirm that their privacy practices are 
-                              consistent with ours.<br>
-                              <br>
-                              Although unlikely, in certain instances we may 
-                              disclose your personally identifiable information 
-                              when we have reason to believe that it is 
-                              necessary to identify, contact or bring legal 
-                              action against persons or entities who may be 
-                              causing injury to you, to Auction Time or to 
-                              others. We may also disclose your personally 
-                              identifiable information when we believe the law 
-                              requires it.<br>
-                              <br>
-                              <b>Editing, Updating, Correcting and Deleting 
-                              Information About You</b><br>
-                              <br>
-                              We want to communicate with you only if you want 
-                              to hear from us. If you prefer not to receive 
-                              information from us, please let us know by calling 
-                              us at 1-877-WE-AUCTION (1-877-932-8284), by sending us an
-                              <a href="contactus.html">email</a> or by clicking 
-                              on the link "opt-in" once logged into your 
-                              account. When sending email please be sure to 
-                              include your email address, full name, and 
-                              specifically what information you do not want to 
-                              receive. If you would like to update or correct 
-                              your email address, street address or other 
-                              personal information with us, please log into your 
-                              account by entering your login and password and 
-                              click "go" at the top of our website.</font><span style="font-size: 9pt">
-                              </span></font>
-                              <p><font face="Verdana" style="font-size: 9pt">
-                              Please note that sometimes these requests may take 
-                              up to 6-8 weeks to be effective, particularly if 
-                              we are removing your name from postal mailings. In 
-                              addition, when you purchase from us online or 
-                              through our catalogs, or when you choose to enter 
-                              a sweepstakes or other promotion, we may need to 
-                              contact you via phone, email or mail to address 
-                              questions or issues specific to your order, entry, 
-                              etc., even if you have opted to not receive 
-                              communications.<br>
-                              <br>
-                              Please remember, if you delete certain information 
-                              you may not be able to continue to purchase 
-                              products or access other portions of our web site 
-                              without entering additional information.<br>
-                              <br>
-                              <b>Cookies</b><br>
-                              <br>
-                              Our web sites use "cookies." A cookie is a small 
-                              amount of data that is sent to your browser from a 
-                              web server and stored on your computer's hard 
-                              drive. Generally, we use cookies to remind us of 
-                              who you are, tailor our products and services to 
-                              suit your personal interests, estimate our 
-                              audience size, assist our online merchants to 
-                              track visits to and sales at their stores and to 
-                              process your order, track your status in our 
-                              promotions, contests and sweepstakes, and/or 
-                              analyzing your visiting patterns. You can 
-                              generally set your browser to not accept cookies 
-                              or to notify you when you are sent a cookie, 
-                              giving you the chance to decide whether or not to 
-                              accept it.<br>
-                              <br>
-                              <b>Security</b><br>
-                              <br>
-                              We use sophisticated encryption and authentication 
-                              tools to protect the security of your personal 
-                              information that you share with us. Unfortunately, 
-                              however, no data transmission over the Internet 
-                              can be guaranteed to be 100% secure. As a result, 
-                              while we strive to protect your personal 
-                              information, we cannot guarantee or warrant the 
-                              security of any information you transmit to or 
-                              from our web sites, and you do so at your own 
-                              risk. Once we receive your transmission, we will 
-                              do our best to protect its security on our 
-                              systems.<br>
-                              <br>
-                              We urge you to keep your password in a safe place 
-                              and not to divulge it to anyone. Also remember to 
-                              sign off your account and close your browser 
-                              window when you have finished your visit. This is 
-                              to ensure that others cannot access your account, 
-                              especially if you are sharing a computer with 
-                              someone else or are using a computer in a public 
-                              place such as a library or Internet cafe.<br>
-                              <br>
-                              <b>Links to Third Party Sites</b><br>
-                              <br>
-                              Our web sites may contain links to web sites 
-                              operated and maintained by third parties, over 
-                              which we have no control. Privacy policies on such 
-                              linked sites may be different from our privacy 
-                              policy. You access such linked sites at your own 
-                              risk. You should always read the privacy policy of 
-                              a linked site before disclosing any personal 
-                              information on such site.<br>
-                              <br>
-                              <b>Policy Changes</b><br>
-                              <br>
-                              If we decide to change our privacy policy in whole 
-                              or in part, we will inform you by posting a notice 
-                              on our web site. Those changes will go into effect 
-                              on the date posted in the notice. The new policy 
-                              will apply to all current and past users of our 
-                              web site and will replace any prior policies that 
-                              are inconsistent. <br>
-                              <br>
-                              <b>Your Feedback</b><br>
-                              <br>
-                              To help us improve our privacy policy and 
-                              practice, please give us your feedback. You may 
-                              contact us <a href="contactus.html">here</a>.</font></p></td>
-                            </tr>
-                          </tbody></table>
-                        </div>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                    </center>
-                  </div>
-                  </td>
-                </tr>
-              </tbody></table>
-              </td>
-            </tr>
-          </tbody></table>
-          <p>&nbsp;</p></td>
-        </tr>
-        <tr>
-          <td width="199" valign="top">
-          &nbsp;</td>
-          <td width="13" background="images/vertdotsgrey-45.gif">&nbsp;</td>
-          <td width="568" valign="top" align="center">
-          &nbsp;</td>
-        </tr>
-        <tr>
-          <td width="199" valign="top">
-          &nbsp;</td>
-          <td width="13" background="images/vertdotsgrey-45.gif">&nbsp;</td>
-          <td width="568" valign="top" align="center">
-          &nbsp;</td>
-        </tr>
-        </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
-        <tbody><tr>
-          <td width="25%" align="center">
-          <img border="0" src="images/tradingassis.gif" width="72" height="52"></td>
-          <td width="25%" align="center">
-          <img border="0" src="images/powerseller.gif" width="73" height="52"></td>
-          <td width="25%" align="center">
-          <img border="0" src="images/paypalcert.gif" width="86" height="52"></td>
-          <td width="25%" align="center">
-          <img border="0" src="images/squaretrade.gif" width="95" height="52"></td>
-        </tr>
-      </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <map name="FPMap0">
-      <area href="aboutus.html" shape="rect" coords="93, 4, 147, 15">
-      <area href="getstarted.html" shape="rect" coords="152, 5, 210, 15">
-      <area href="howitworks.html" shape="rect" coords="220, 5, 289, 14">
-      <area href="fees.html" shape="rect" coords="298, 5, 325, 14">
-      <area href="locations.html" shape="rect" coords="337, 6, 388, 15">
-      <area target="_blank" href="http://search.ebay.com/jconlin2003_W0QQsofocusZbsQQsorecordsperpageZ50QQsspagenameZhQ3AhQ3AfitemQ3AUSQQsofindtypeZ0QQfromZR6QQnojsprZyQQpfidZ0" shape="rect" coords="399, 5, 486, 15">
-      <area href="atbm.html" shape="rect" coords="494, 5, 599, 15">
-      <area href="fundraising.html" shape="rect" coords="609, 4, 671, 15">
-      </map>
-      <img border="0" src="images/footer.gif" width="780" height="23" usemap="#FPMap0"></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber9">
-        <tbody><tr>
-          <td width="100%">
-          <p align="center"><font face="Verdana" style="font-size: 8.5pt">
-          <a href="privacy.html">Privacy Policy</a>&nbsp; |&nbsp;
-          <a href="tou.html">Terms of Use</a>&nbsp; |&nbsp; <a href="help.html">Help</a>&nbsp; |&nbsp;
-          <a href="contactus.html">Contact Us</a></font></p></td>
-        </tr>
-        <tr>
-          <td width="100%"><hr color="#E6E6E6" width="95%" size="1"></td>
-        </tr>
-        <tr>
-          <td width="100%">
-          <p align="center"><font face="Verdana">
-          <span style="font-size: 9pt; font-weight: 700">We can only accept 
-          items from the continental U.S. (excludes Alaska, Hawaii and U.S. 
-          territories).</span></font></p></td>
-        </tr>
-        <tr>
-          <td width="100%">
-          <p align="center"><font face="Verdana" style="font-size: 8.5pt">©2004 
-          Auction Time, Inc. All Rights Reserved. Trademarks cited are the 
-          property of their respective owners.</font></p></td>
-        </tr>
-      </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-  </center>
+		<br>
+<div id="MasterPageControl_pnlForm">
+	<table id="MasterPageControl_ctl00_SubHead_tblWidth" cellspacing="0" cellpadding="1" width="785" align="center" border="0">
+		<tbody><tr>
+			<td valign="bottom"><span id="MasterPageControl_ctl00_SubHead_lblHeading" class="heading">Sandhills Publishing<font size="-1" face="arial"><sup>® </sup></font>Privacy Policy</span><span id="MasterPageControl_ctl00_SubHead_lblHeading2"></span></td>
+			<td valign="bottom" align="right">
+			<nobr>
+			</nobr>
+		</td>
+		</tr>
+		<tr>
+			<td colspan="2" valign="top"><hr></td>
+		</tr>
+	</tbody></table>
+	
+
+
+
+<br>
+<table id="MasterPageControl_ctl00_tblWidth" border="0" cellspacing="0" width="785" align="center">
+		<tbody><tr>
+			<td>Sandhills Publishing understands the concerns people have about privacy and 
+			safety while using the Internet. This Privacy Policy explains what information 
+			we gather from visitors, how we use that information, and the steps we take to 
+			protect your privacy.<br>
+			<br>
+			<table align="center" width="520" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="top" width="20">1.</td>
+					<td>Sandhills Publishing collects information from visitors through voluntary site 
+						registration, voluntary submission of information when purchasing products or 
+						completing an online employment application, and through the voluntary 
+						acceptance of cookies. Sandhills Publishing will not collect information from 
+						you if you do not want us to collect it.<br>
+						&nbsp;<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="20">2.</td>
+					<td valign="top">Sandhills Publishing uses cookies (small pieces of code delivered 
+						to visitors' systems) to learn more about the way in which people use our site. 
+						We do not perform any individual analysis of this data and are not interested 
+						in individual information. Cookies allow us to tell what type of browsers our 
+						audience uses, which helps us to design our site so that everyone can access 
+						it. We also find out how people are using our site (what parts of the site get 
+						viewed more than others), which helps us make better content and layout 
+						decisions.<br>
+						&nbsp;<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="20">3.</td>
+					<td valign="top">When people purchase issues or subscriptions at our site, it's 
+						important that the information they enter is secure. That's why we use VeriSign<font size="-1"><sup>®</sup></font>
+						digital certificates to verify transactions. Customer transactions are secured 
+						by SSL encryption and Verisign (R) Certification.<br>
+						&nbsp;<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="20">4.</td>
+					<td valign="top">Sandhills Publishing uses a secure firewall to keep out 
+						unauthorized users and ensure the integrity of our systems. We are vigilant 
+						about protecting our site from unwanted intrusions.<br>
+						&nbsp;<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="20">5.</td>
+					<td valign="top">Sandhills Publishing does <b>not</b> sell, trade, or otherwise 
+						release any personal information on our site visitors or subscribers. We 
+						respect your desire for privacy and zealously protect any information you give 
+						us. Your information is safe with us!<br>
+						&nbsp;<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="20">6.</td>
+					<td valign="top">We are participants in the BBBOnLine<font size="-1"><sup>®</sup></font>
+						Reliability Program. Our company has been in business since 1978, and we have always 
+						strived to provide the best customer service available.<br>
+						&nbsp;<br>
+					</td>
+				</tr>
+			</tbody></table>
+			<br>
+			If you have any questions at all about our Privacy Policy or our Web site, <a href="mailto:feedback@sandhills.com">
+				<b>please send us a message</b></a>. Thank you for visiting our site.</td>
+		</tr>
+	</tbody></table>
+	
+<br>
+</div>
+			<br>
+<div id="MasterPageControl_footer1_pnFooter">
+	
+			<table cellpadding="0" cellspacing="0" width="994" align="center" bgcolor="white">
+				<tbody><tr><td id="footerlinks">
+					<a href="/specialfeatures/sitemap.aspx">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/info/legal.aspx">Copyright &amp; Legal Notice</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/info/privacy.aspx">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/info/aboutweb.aspx">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="/info/customerservice.aspx">Contact Us</a>
+				</td></tr>
+				<tr><td id="footer">Copyright by Sandhills Publishing Company 2010. All rights reserved.</td></tr>
+			</tbody></table>
+		</div></td>
+	</tr>
+</tbody></table>
 </div>
 
-
+		
+<script language="javascript">var imgCanIBid = document.getElementById('MasterPageControl_header1_ctl00_imgCanIBid');var spanCanIBid = document.getElementById('spanCanIBid');</script></form>
+		
 
 </body></html>
