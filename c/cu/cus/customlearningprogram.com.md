@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customlearningprogram.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230042151id_/http%3A//www.customlearningprogram.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customlearningprogram.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106230314id_/http%3A//www.customlearningprogram.com/privacy.html) for the most accurate reproduction.*
 
 # customlearningprogram.com
 
