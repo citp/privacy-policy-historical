@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226130357id_/http%3A//petsmart.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106075031id_/http%3A//www.petsmart.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Help Desk - Petsmart.com
 
@@ -43,6 +43,9 @@ Unless you "opt-out" through opportunities available to you through our PetSmart
 **We may combine the personal information you provide to us** (on our Site, at our stores, through our programs) with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use the combined information to enhance and personalize your experience with us; improve the accuracy of our customer database (such as the U.S. Post Office to verify accuracy of addresses); increase our understanding of our customers; identify potential customers; and send PetSmart Marketing Communications.
 
 **We may be required to disclose your personal information for legal reasons,** such as in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may release certain personal information when we believe that such release is reasonably necessary to protect the rights, property, and safety of others and PetSmart. We may also release personal information in the event of a corporate sale, merger, reorganization, dissolution or similar event. We will require such parties to treat your personal information in accordance with our Policy and to use and disclose your personal information solely for the purposes for which it was collected.
+
+**Your California Privacy Rights.**  
+Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the personal information (if any) we disclosed to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and a customer and would like to make such a request, please submit your request in writing to [customercare@petsmart.com](mailto:customercare@petsmart.com).
 
 **GENERAL INFORMATION ABOUT OUR SITE AND THE INTERNET**
 
