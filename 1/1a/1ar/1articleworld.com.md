@@ -1,82 +1,47 @@
-> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2008-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080229114123id_/http%3A//www.1articleworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1articleworld.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106015047id_/http%3A//www.1articleworld.com/privacy.php) for the most accurate reproduction.*
 
-# 1ArticleWorld.com - Article Directory Submission Centre
+# 1Article World | Privacy Statement
 
-1ArticleWorld Article Directory - Privacy Policy
+1ArticleWorld.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+**How we gather information from users**
 
-**We recognizes the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, 1ArticleWorld.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-**What Information Do We Collect?** **  
-** When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+**What we do with the information we collect**
 
-**1\. Personal Information You Choose to Provide**
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-**Registration Information**  
-When you register for any of our products, services or newsletters you will provide us information about yourself. 
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-**Credit Card Information**  
-If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:  
--Name  
--Mailing address  
--Email address  
--Credit card number  
--Name on credit card  
--Credit card billing address  
--Business and home phone number 
+We may use Personally Identifiable Information collected on www.1ArticleWorld.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.1ArticleWorld.com and other topics we think you might find of interest. 
 
-**Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+Personally Identifiable Information collected by 1ArticleWorld.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-  
-**2\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+**Affiliated sites, linked sites and advertisements**
 
-**How Do We Use the Information That You Provide to Us?  
-**Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
+1ArticleWorld.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.1ArticleWorld.com page, certain content that is actually created or hosted by a third party. Also, through 1ArticleWorld.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. 1ArticleWorld.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. 1ArticleWorld.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us, after which we will remove your records from our system. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of 1ArticleWorld.com and this policy. 
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. ** A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. **
+**Children**
 
-**How Do We Use Information We Collect from Cookies?**  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+1ArticleWorld.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe 1ArticleWorld.com has any information from or about anyone under 13, please contact us at the address listed below. 
 
-**IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you. 
+**Contacting Us**
 
-**Sharing and Selling Information**  
-We **do not** share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
+We can be reached by emailing us. 
 
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. 
+**Changes to this Policy**
 
-**What About Legally Compelled Disclosure of Information?  
-**We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+1ArticleWorld.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+**Governing law**
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-**Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-_**Our Commitment To Data Security:  
-**_Please note that your information will be stored and processed on our computers. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-**Surveys & Contests  
-**From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-
-**A Special Note About Children  
-**Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
-
-**Acquisition or Changes in Ownership  
-**In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
-
-**Policy Modifications  
-**We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
