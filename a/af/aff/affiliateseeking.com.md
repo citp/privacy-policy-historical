@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429055205id_/http%3A//www.affiliateseeking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106120313id_/http%3A//www.affiliateseeking.com/privacy.html) for the most accurate reproduction.*
 
 # AffiliateSeeking.com :: Privacy Policy
 
