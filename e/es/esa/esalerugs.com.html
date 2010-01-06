@@ -1,19 +1,88 @@
-<!--The following is the downloaded HTML source of the esalerugs.com privacy policy that was archived on 2009-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090423020544id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esalerugs.com privacy policy that was archived on 2010-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100106193429id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Rug Education Center</title>
+
+
 		<link rel="stylesheet" type="text/css" href="/includes/main.css">
 		<link rel="stylesheet" href="/includes/colorpicker.css" type="text/css">		
 		<meta name="description" content="">
-		<script type="text/javascript" src="/jquery-1.2.6.min.js"></script>
+		<script type="text/javascript" src="/jquery-1.3.1.min.js"></script>
 		<script type="text/javascript" src="/jquery.magnify-1.0.2.js"></script>
 		<script type="text/javascript" src="/jquery.cycle.all.pack.js"></script>
 		<script type="text/javascript" src="/jquery.selectboxes.pack.js"></script>
+		<script type="text/javascript" src="/jquery-ui-personalized-1.6rc6.min.js"></script>
 		<script type="text/javascript" src="/colorpicker.js"></script>
 		<script type="text/javascript" src="/jquery.countdown.js"></script>
 		<script type="text/javascript">
 		var until_date = new Date(2009, 1, 15);
+		window.RelatedItems = new Array();
+		var SelectedItem = "";
+		function HelpfulReviewVote(reviewID, vote){
+			var get_url = "/web/reviews.py/rate_review?ReviewID=" + reviewID + "&vote=" + vote;
+			$.ajax({
+				type: "GET",
+				url: get_url
+			});
+			$("#review-helpful-" + reviewID).html("Thank you for your opinion!");
+		}
+		function ShowRelatedItemsBox(SkuNo, RelationCode){
+			SelectedItem = SkuNo;
+			var get_url = "/web/browse.py/related_items?SkuNo=" + SkuNo + "&RelationCode=" + RelationCode;
+			$.ajax({
+				type: "GET",
+				url: get_url,
+				dataType: "xml",
+				success: ShowRelatedItemsBoxHandleResponse
+			});
+		}
+		function ShowRelatedItemsBoxHandleResponse(xml){
+			RelatedItems = new Array();
+			$('item', xml).each(function(i){
+				var sku = $(this).find("skuno").text();
+				RelatedItems[sku] = new Object();
+				RelatedItems[sku].SkuNo = sku
+				RelatedItems[sku].Price = $(this).find("price").text();
+				RelatedItems[sku].Size = $(this).find("size").text();
+				RelatedItems[sku].Shape = $(this).find("shape").text();
+				RelatedItems[sku].Image = $(this).find("image").text();
+			});
+			var list_of_related_items_html = "";
+			for (x in RelatedItems){
+				list_of_related_items_html += "<a href=\"/" + RelatedItems[x].SkuNo + "\" OnMouseOver=\"ShowRelatedItems_Item('" + RelatedItems[x].SkuNo + "');\">" + RelatedItems[x].Size + " " + RelatedItems[x].Shape + " $" + RelatedItems[x].Price + "</a><br />";
+			}
+			$("#related_browse_box_items").html(list_of_related_items_html);
+			var pos = $("#" + SelectedItem).position();
+			$("#related_browse_box").css("position", "absolute");
+			$("#related_browse_box").css("left", pos.left);
+			if (($("#related_browse_box").width() + pos.left) >= ($("#wrap").width() + $("#wrap").offset().left)){
+				$("#related_browse_box").css("left", pos.left-220);
+			}
+			$("#related_browse_box").css("top", pos.top);
+			$("#related_browse_box").fadeIn("def").css("visibility", "visible");
+			
+			$("#related_browse_box_size").text(RelatedItems[SelectedItem].Size);
+			$("#related_browse_box_price").text("$" + RelatedItems[SelectedItem].Price);
+			$("#related_browse_box_image_link").attr("href", "/" + SelectedItem);
+			$("#related_browse_box_view_item_link").attr("href", "/" + SelectedItem);
+			$("#related_browse_box_image").attr("src", RelatedItems[SelectedItem].Image);
+			
+		}
+		function ShowRelatedItems_Item(SkuNo){
+			
+			$("#related_browse_box_size").text(RelatedItems[SkuNo].Size);
+			$("#related_browse_box_price").text("$" + RelatedItems[SkuNo].Price);
+			$("#related_browse_box_image_link").attr("href", "/" + SkuNo);
+			$("#related_browse_box_view_item_link").attr("href", "/" + SkuNo);
+			$("#related_browse_box_image").attr("src", RelatedItems[SkuNo].Image);
+		}
+		function CloseRelatedItemsBox(){
+			$("#related_browse_box").css("visibility", "hidden");
+}		
+		
+		
+		
 		$(document).ready(function() {
 			$("#d2").magnify({
 			showEvent: 'mouseover',
@@ -35,8 +104,13 @@
 			if ($.browser.msie && $.browser.version == '6.0'){
                $("quantityBox").css("visibility","visible");
 			   }
-			}			
+			}
 		});
+		$(".m_sizes").click(function(i){
+			var sku = $(this).attr("alt");
+			var rel_code = $(this).attr("rel");
+			ShowRelatedItemsBox(sku, rel_code);
+		})		
 		$('#colorSelector').ColorPicker({
 		color: '#0000ff',
 		onShow: function (colpkr) {
@@ -108,7 +182,9 @@
 			var action_url = "http://esalerugs.com/cart/freerug?SkuNo=" + SkuNo
 			$.get(action_url);
 			$("#free_rug_image").attr("src", ImagePath);
+			$("#free_rug_link").attr("href", "/"  + SkuNo.toString().substring(0,1) + SkuNo);
 		}
+		
 		</script>
 
 
@@ -118,7 +194,7 @@ function LiveChatPop(){
 	winpops=window.open(popurl,"","width=500,height=500,scrollbars,");
 }
 function UPSMap(){
-	var popurl="http://bestofferrugs.com/images/ups_map.png";
+	var popurl="http://www.bestofferrugs.com/images/ups_map.png";
 	winpops=window.open(popurl,"","width=535,height=355,scrollbars,");
 }
 
@@ -278,8 +354,8 @@ window.onload=initalizetooltip
 				el1.value = '';
 			}
 		}
-function openseries(id){
-var popurl="http://www.esalerugs.com/web/imageseries?id=" + id;
+function openseries(id, index){
+var popurl="http://esalerugs.com/web/imageseries?id=" + id + "#" + index;
 winpops=window.open(popurl,"","width=800,height=600,scrollbars,");
 }
 function sharewithfriends(id){
@@ -305,6 +381,78 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 + "></SCR" + "IPT>");
 // -->
 </script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1QOBG4CEK4H62QQEDCC45EREVMC"></script>
+<style>
+#related_browse_box{
+	font-family: Arial;
+	font-size: 14px;
+	width: 411px;
+	height: 273px;
+	background: url("/images/related/bg.png") no-repeat;
+	overflow: hidden;
+	visibility: hidden;
+	display: none;
+}
+
+#related_browse_box_image_box{
+	width: 190px;
+	height: 175px;
+	margin-left: 15px;
+	padding: 5px 5px 0px 8px;
+	background: url("/images/related/image_box.png") no-repeat;
+}
+#related_browse_box_header{
+	width: 210px;
+	text-align: center;
+	padding: 10px 0 6px 0;
+}
+#related_browse_box_size{
+	font-size: 18px;
+	padding-right: 5px;
+display: inline;
+}
+#related_browse_box_price{
+	font-size: 22px;
+	color: #098122;
+	font-weight: bold;
+	display: inline;
+}
+#related_browse_box_lower{
+	padding-top: 3px;
+	width: 215px;
+	text-align: center;
+}
+#related_browse_box_right{
+	width: 193px;
+	float: right;
+}
+#related_browse_box_left{
+	width: 210px;
+	float: left;
+	
+}
+#related_browse_box_exit{
+	text-align: right;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 15px;
+}
+#related_browse_box_items{
+	height: 170px;
+	width: 170px;
+	overflow: auto;
+}
+#related_browse_box_items a{
+	text-decoration: none;
+	font-size: 12px;
+}
+#related_browse_box_sizes_text{
+	padding-bottom: 7px;
+}
+</style>
+<script type="text/javascript">
+
+
+</script>
 		</head>
 		<body>
 		<div id="wrap">
@@ -316,7 +464,9 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 						<tbody><tr>
 							<td style="height: 72px; padding:0; margin: 0; width: 200px;" valign="middle" align="center"><a href="/"><img src="/images/logo.png" id="top_logo"></a></td>
 							<td>
-								<div id="top_phone_livechat"><table width="100%"><tbody><tr><td align="center"><div id="phone_number">1-866-647-3965</div></td></tr><tr><td align="center"><div id="customer_service"><a href="/web/order-status">Order Status</a></div></td></tr></tbody></table></div>
+								<div id="top_phone_livechat">
+								<table width="100%"><tbody><tr><td align="center"><div id="phone_number">1-866-647-3965</div></td></tr><tr><td align="center"><div id="customer_service"><a href="/web/order-status">Order Status</a> | <a href="/customer-service/faq">FAQ</a></div></td></tr></tbody></table>
+								</div>
 							</td>
 							<td style="padding-right: 3px;">
 								<div id="top_blue_search"><table width="100%"><tbody><tr><td valign="MIDDLE" style="height: 72px;"><form action="/web/search"><input type="text" name="s" id="search_form" onclick="searchClear();" value="Search (Enter SkuNo or Keywords)"></form></td><td valign="MIDDLE" style="width: 42px; padding: 0 4px 0 0px;"><div style="padding-bottom: 8px;"><input type="image" height="42px" width="43px" src="/images/go_blue.png"></div></td><td valign="MIDDLE" align="left"><div id="account_cart"><a href="/account">My Account</a><br><a href="http://esalerugs.com/cart">Shopping Cart (1 Items)</a></div></td></tr></tbody></table></div>
@@ -337,6 +487,8 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 					<li> | </li>
 					<li><a href="http://esalerugs.com/browse?s=persian-rugs">Persian Rugs</a></li>
 					<li> | </li>
+					<li><a href="http://esalerugs.com/browse?s=oriental-rugs">Oriental Rugs</a></li>
+					<li> | </li>
 					<li><a href="http://esalerugs.com/browse?s=traditional-rugs">Traditional Rugs</a></li>
 					<li> | </li>
 					<li><a href="http://esalerugs.com/browse?s=contemporary-rugs">Contemporary Rugs</a></li>
@@ -344,8 +496,6 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 					<li><a href="http://esalerugs.com/browse?s=most-popular">Most Popular</a></li>
 					<li> | </li>
 					<li><a href="http://esalerugs.com/browse?s=clearance"><strong>Clearance</strong></a></li>
-					<li> | </li>
-					<li><a href="http://esalerugs.com/customer-service">Customer Service</a></li>
 				</ul>
 				</td>
 				</tr>
@@ -358,7 +508,7 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 		
 				<tbody><tr><td colspan="2"><table colspacing="0" colpadding="0" width="950px;"><tbody><tr><td><div style="display: block; clear: both; padding-bottom: 10px;"><a target="_blank" href="https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/Promo/NoPaymentsForNinetyDays-outside&amp;channel=2&amp;promo=1101"><img border="0" src="https://www.paypal.com/en_US/i/bnr/bnr_PLhptrad_790x30.gif"></a></div></td><td style="text-align: right;"><!-- START SCANALERT CODE --><a href="https://www.mcafeesecure.com/RatingVerify?ref=esalerugs.com" target="_blank"><img height="32" border="0" width="115" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/esalerugs.com/22.gif"></a><!-- END SCANALERT CODE --></td></tr></tbody></table></td></tr>		
 			
-				<tr><td colspan="2"><div id="free-rug-pad" "=""><a href="http://esalerugs.com/browse?s=most-popular"><img src="/images/free_rug_pad.jpg" style="padding-bottom: 10px;"></a></div></td></tr>
+				<tr><td colspan="2"><div id="banner-free-shipping" "=""><a href="https://esalerugs.com/account"><img src="/images/free_shipping.png" style="padding-bottom: 10px;"></a></div></td></tr>
 			<tr><td><h2>Privacy Policy</h2>
 <p>Your email address and other personally identifiable information will be used only in order fulfillment, and to send you newsletters if you so request. We will never sell or give your information to third parties, unless related to order fulfillment (such as giving your email address to UPS so that they can inform you if there is a problem with delivery.)</p>
 <p>This site is owned and operated by Unique USA Inc. Your privacy on the Internet is of the utmost importance to us. At Unique USA Inc, we want to make your experience online satisfying and safe.</p>
@@ -439,10 +589,41 @@ Unique USA Inc uses the above-described information to tailor our content to sui
 		</div>
 
 		<div id="footer">
-		<a href="/customer-service/privacy">Privacy Policy</a> | <a href="/customer-service/returns">Returns Policy</a> | <a href="/customer-service/">Contact Us</a> <br>Copyright 2007 - 2009 eSaleRugs.com<br>
-
-		104 Williamson St. Fort Mill, SC 29715
+		<div id="footer_table">
+		<table width="100%">
+		<tbody><tr>
+		<td valign="top">
+		<h2>Tools &amp; Resources</h2>
+		<ul>
+			<li><a href="/customer-service/faq">FAQ</a></li>
+			<li><a href="/customer-service/">Contact Us</a></li>
+		</ul>
+		</td>
+		<td valign="top">
+		<h2>My Account</h2>
+		<ul>
+		<li><a href="/account/login">Log In / Register</a></li>
+		<li><a href="/account">My Account</a></li>
+		<li><a href="/order-status">Order Status</a></li>
+		</ul>
+		</td>
+		<td valign="top">
+		<h2>Company Info</h2>
+		<ul>
+		<li><a href="/customer-service/returns">Return Policy</a></li>
+		<li><a href="/customer-service/privacy">Privacy Policy</a></li>
+		</ul>
+		</td>
+		<td valign="middle">
+		Copyright 2007 - 2010 eSaleRugs.com<br>
+		104 Williamson St. Fort Mill, SC 29715<br>
+		Unique USA, Inc. 
+		</td>
+		</tr>
+		</tbody></table>
 		</div>
+		<br>
+		</div> 
 		
 				
 		</body></html>
