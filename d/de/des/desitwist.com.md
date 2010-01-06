@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitwist.com privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107070205id_/http%3A//www.desitwist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitwist.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106163930id_/http%3A//www.desitwist.com/privacy.php) for the most accurate reproduction.*
 
 # Desi Forums - Privacy Policy
 
