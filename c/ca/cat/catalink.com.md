@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730215024id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106113816id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Catalink Privacy Policy
 
