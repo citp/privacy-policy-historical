@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bengalspider.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006030758id_/http%3A//www.bengalspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengalspider.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106153907id_/http%3A//bengalspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# BengalSpider privacy policy
+# BengalSpider.com privacy policy
 
 * * *
 
@@ -25,6 +25,13 @@ For statistical purposes, we gather and store general visitor information like I
  **Cookies**
 
 Cookies are small pieces of information stored in your computer. When you login to Bengalspider.com.com, we store small cookies in your computer, to provide a better browsing experience for you.
+
+We use third-party advertising companies to serve ads when you visit  
+our website. These companies may use non personal about your visits to  
+this and other websites in order to provide advertisements about goods  
+and services of interest to you. If you would like more information  
+about this practice and to know your choices about not having this  
+information used by these companies, [click here](http://www.google.com/%3CBR%3Eprivacy_ads.html).
 
  **Advertisements**
 
