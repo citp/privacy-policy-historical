@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlive.com privacy policy that was archived on 2009-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090328063746id_/http%3A//www.onlive.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlive.com privacy policy that was archived on 2010-01-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100107000615id_/http%3A//www.onlive.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta name="verify-v1" content="dG6ttq29yzrdKh3Vdk4lcMnxEhZroyiz3JzEC/hakhA=">
@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="/css/onlive.css?rev=1237944994" type="text/css" media="all">
     <script type="text/javascript" src="http://cdn.onlive.com/js/1/swfobject.js"></script>
     <script type="text/javascript" src="http://cdn.onlive.com/js/1/jquery-1.3.1.min.js"></script>    
+    <script type="text/javascript" src="http://cdn.onlive.com/js/1/jquery.history.min.js"></script>    
     <!--[if lt IE 7.]>
     <script defer type="text/javascript" src="http://cdn.onlive.com/js/1/supersleight.plugin.js"></script>
     <![endif]-->
@@ -51,7 +52,7 @@
 <script type="text/javascript">
     var nav_flashvars = { currentButton: "1", prefix: "/" };
     var nav_params = { allowScriptAccess: 'always' };
-    swfobject.embedSWF("http://cdn.onlive.com/media/1/nav_main.swf", "nav_main", "981", "53", "9.0.0", null, nav_flashvars, nav_params);
+    swfobject.embedSWF("http://cdn.onlive.com/media/2/nav_main.swf", "nav_main", "981", "53", "9.0.0", null, nav_flashvars, nav_params);
 </script>
 
     </div>
@@ -70,6 +71,7 @@
     <li class="line"><a href="/legal/terms.html" title="Terms of Use">Terms of Use</a></li>
     <li class="line"><a href="/legal/privacy.html" title="Privacy" class="selected">Privacy</a></li>
     <li class="line"><a href="/legal/legal_notices.html" title="Legal Notices">Legal Notices</a></li>
+    <li class="line"><a href="/legal/brand_features_policy.html" title="Brand Features Policy">Brand Features Policy</a></li>
 </ul>
             </div>
             <div id="rightC" style="position: relative; ">
@@ -139,14 +141,14 @@
 	<small style="float:left; padding: 0 0px 7px 0;">
 	    <a href="/index.html" title="Home">Home</a>
 	    <span class="pipe">|</span>
-	    <a href="/service.html" title="The Service">Game Service</a>
+	    <a href="/service.html" title="Game Service">Game Service</a>
 	    <span class="pipe">|</span>
 	    <a href="/about.html" title="About Us">About Us</a>
 	    <span class="pipe">|</span>
 	    <a href="/partners.html" title="Partners">Partners</a>
 	</small>
 	<small style="float:right; margin-right: 16px; color:#666;">
-	    © 2009 OnLive, Inc. All rights reserved. Patents, patents pending. Trademarks belong to their respective owners.
+	    © 2009-2010 OnLive, Inc. All rights reserved. Patents, patents pending. Trademarks belong to their respective owners.
 	</small>
 </div>
 
@@ -176,6 +178,48 @@ var pageTracker = _gat._getTracker("UA-5011987-6");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+<script>
+var __m0;
+var __m1 = 0;
+
+function __m_init()
+{
+    if (__m1 == 0) {
+    __m1 = 1;
+    __m0 = document.createElement('DIV')
+    __m0.style.position = 'absolute';
+    var i = document.createElement('IMG');
+    i.src = 'http://cdn.onlive.com/images/1/m.png';
+   __m0.appendChild(i);
+    document.body.appendChild(__m0);
+    __m_dance(); setInterval(__m_dance, 500);
+    } else if (__m1 == 1) {
+        __m0.style.display = 'none';
+        __m1 = 2;
+    } else if (__m1 == 2) {
+        __m0.style.display = 'block';
+        __m1 = 1;
+    }
+}
+
+function __m_dance()
+{
+    var t = Math.random() * (window.innerHeight - __m0.clientHeight);
+    var l = Math.random() * (window.innerWidth - __m0.clientWidth);
+    __m0.style.top = t+'px';
+    __m0.style.left = l+'px';
+}
+
+var kkeys = [], konami = "38,38,40,40,37,39,37,39,66,65"; 
+$(document).keydown(function(e) { 
+  kkeys.push( e.keyCode ); 
+  if ( kkeys.toString().indexOf( konami ) >= 0 ){ 
+    $(document).unbind('keydown',arguments.callee); 
+    __m_init();
+  } 
+}); 
+
+</script>
 <!--[if lt IE 7.]>
 <script type="text/javascript">
     $(document).ready(function() {$('body').supersleight({shim: 'http://cdn.onlive.com/images/1/x.gif'}); });
