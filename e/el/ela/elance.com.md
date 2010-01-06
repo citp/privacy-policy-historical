@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the elance.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022023415id_/http%3A//www.elance.com/p/legal/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elance.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106020314id_/http%3A//www.elance.com/p/legal/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
                                       Privacy Policy
 This Privacy Policy hereby incorporates by reference all terms, conditions rules, policies and guidelines on
-the Site, including the Elance Terms of Service (“Terms of Service”). Capitalized terms not defined in this
-Privacy Policy are defined in the Terms of Service.
-This Privacy Policy is effective as of October 6, 2009. Your continued use of the Site after such time will
-signify your acceptance of this Privacy Policy. We reserve the right to modify the provisions in this Privacy
-Policy without prior notice to you, so please check back often for updates.
+the Site, including the Elance Terms of Service (“Terms of Service”), a copy of which may be found here.
+Capitalized terms not defined in this Privacy Policy are defined in the Terms of Service.
+This Privacy Policy is effective as of August 26, 2009. Your continued use of the Site after such time will
+signify your acceptance of this Privacy Policy.
 Elance, Inc. ("Elance", "us" or "we") respects the privacy of the visitors to its Web site, the home page of
 which is located at http://www.elance.com ("Site"). This Privacy Policy is intended to inform you of our
 policies and practices regarding the collection, use and disclosure of Personal Information and Anonymous
@@ -19,9 +18,8 @@ organizations that use the Services on the Site. In addition, if you are a perso
 (a "Visitor"), the provisions titled "Consent," "This Site Contains Links to Other Sites," "Automatically
 Gathered Information" (applicable parts only), "Service Providers and Clients," "Legal Requests" and
 "Anonymous Information" apply to you.
-"Personal Information" is information about you that is personally identifiable to you, like your name,
-address, email address or phone number, as well as other non-public information that is associated with the
-foregoing.
+"Personal Information" is information about you that is personally identifiable to you, like your name, address,
+email address or phone number, as well as other non-public information that is associated with the foregoing.
 Elance is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization
 whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information
 practices. This privacy statement covers the Web site www.elance.com. Because this Web site wants to
@@ -44,7 +42,7 @@ notice that this Privacy Policy has changed in the MyElance area of the Site and
 notification of revised terms will appear on the website 30 days prior to the changes taking place. Once any
 changes that we make to this Privacy Policy become effective, your continued use of the Site after such time
 will signify your acceptance of the new terms.
-privacy-policy-10.06.09-b                                1
+                                                          1
 
 
 THIS SITE CONTAINS LINKS TO OTHER SITES
@@ -91,7 +89,7 @@ Occasionally, Elance conducts a User survey to collect information about our Use
 surveys are optional and if you choose to respond, your responses will be kept anonymous. Similarly, we
 may offer contests to qualifying Users in which we ask for contact and demographic information such as
 name, email address and mailing address. None of this information is shared with third parties, except in
-privacy-policy-10.06.09-b                                      2
+                                                          2
 
 
 summary form, if at all. The demographic information that Elance collects in the registration process and
@@ -141,7 +139,7 @@ emails about providing or purchasing Services through Elance. If you choose to u
 assured that Elance only uses your friends' email addresses on a one-time basis to send the requested
 posting, and we use your email address to copy you on the message or to send on your behalf. Your friends'
 email addresses will be deleted from our database after the message is sent.
-privacy-policy-10.06.09-b                                    3
+                                                        3
 
 
 Public Information
@@ -192,7 +190,7 @@ disclose any information about you, including the content of your online communi
 good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or
 warrants served on us; (b) protect or defend the rights or property of Elance or third parties; (c) assist in an
 investigation; or (d) respond to an emergency that poses a threat to the safety of Users or other persons.
-privacy-policy-10.06.09-b                                     4
+                                                          4
 
 
 Affiliates
@@ -240,23 +238,23 @@ Correcting/Updating Your Information and Opting Out
 This Site gives the following options for changing and modifying information previously provided:
     1.  You may update your registration information using the Preferences page, under MyElance, in the
         Elance navigation bar after you register.
-privacy-policy-10.06.09-b                                      5
+                                                         5
 
 
     2.  You may update your credit card information using the Account page, under the MyElance section of
         the Site.
-    3.   This Site provides Users the opportunity to opt out of receiving promotional email communications
-         from us, Elance newsletters and other Site information using Preferences, Email Notifications under
-         the MyElance section of the Site or by contacting Customer Support. However, you may not opt out
-         of receiving administrative communications from Elance regarding the Services or the Site, except by
-         terminating your membership. In addition, you may not opt out of Elance sending you legal notices
-         related to the Services or the Site.
-    4.   For other requests, please contact Customer Support.
+    3.  This Site provides Users the opportunity to opt out of receiving promotional email communications
+        from us, Elance newsletters and other Site information using Preferences, Email Notifications under
+        the MyElance section of the Site or by contacting Customer Support. However, you may not opt out
+        of receiving administrative communications from Elance regarding the Services or the Site, except by
+        terminating your membership. In addition, you may not opt out of Elance sending you legal notices
+        related to the Services or the Site.
+    4.  For other requests, please contact Customer Support.
 CONTACTING US
-If you wish to report a violation of the Terms of Service, have any questions or need assistance, please
-contact Elance Customer Support as follows:
+If you wish to report a violation of Site Policies, have any questions or need assistance, please contact
+Elance Customer Support as follows:
 Web Support: http://www.elance.com/service
 Email: services@Elance.com
 Phone: (Mon-Fri, 8 a.m. - 5 p.m. Pacific Time): 1-877-4-ELANCE (1-877-435-2623)
 Online Help Topics: http://www.elance.com/help
-privacy-policy-10.06.09-b                                    6
+                                                          6
