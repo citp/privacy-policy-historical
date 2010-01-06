@@ -1,294 +1,141 @@
-<!--The following is the downloaded HTML source of the medwow.com privacy policy that was archived on 2009-02-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090222105017id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medwow.com privacy policy that was archived on 2010-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100106113411id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>www.medwow.com</title>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="Keywords" content="">
-	<meta name="Description" content="">
-	<meta http-equiv="cache-control" content="public">
-	<meta http-equiv="expires" content="0">
-	<meta name="robots" content="all"> 
-	<meta name="verify-v1" content="3cUXXz7y3YkbwpfPgpDO1nqVZbjMPndyw/sdRK/T78A=">
+	<title>MedWOW - Used Medical Equipment Marketplace</title>
+	<meta name="robots" content="index, follow"> 
+	<meta name="robots" content="NOODP">
+	<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.medwow.com/&quot; r (SS~~000 1))">
 	<link rel="alternate" type="application/rss+xml" title="MedWOW.com News" href="/news.php?actions=rss">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="stylesheet" href="gstyle.css" type="text/css">
-	<link rel="stylesheet" href="styles.css" type="text/css">
-	<style type="text/css">
-		#modal_container {
-		    padding:0px;
-		    background-color:#fff;
-		    border:1px solid #666;
-		    overflow:auto;
-		    font-family:"Lucida Grande",Verdana;
-		    font-size:12px;
-		    color:#030303;
-		    text-align:left;
-		}
-		
-		#modal_overlay {
-	    /*background-color:#fff;*/
-		}
-
-	</style>
-	<script type="text/javascript">
-	var errorColor = "#E3F2D5";
-
-
-function set_currency_ajax(after_request_actions, currency_id,UpdateSessionCurrency, stop) {
-
-  if(stop == 1)
-  {
-    eval(after_request_actions);
-  }
-  if(stop == 0)
-  {
-     after_request_actions = after_request_actions.replace(/\\'/g,'\'');
-     after_request_actions = after_request_actions.replace(/\\"/g,'"');
-     after_request_actions = after_request_actions.replace(/\\\\/g,'\\');
-     after_request_actions = after_request_actions.replace(/\\0/g,'\0');
-     
-	if(confirm('Would you like the selected currency to become your default currency on all MedWOW pages?')) 
-	{ 
-		ajax = new Ajax.Request('shared_ajax_services.php?NODC=ee588d99eaf34ac526c0d2c6982eccb3&session_currency='+UpdateSessionCurrency+'&actions=set_default_currency&currency_id='+currency_id,{
-			method:'get',
-			onSuccess: function(transport){
-				if(after_request_actions){
-				eval(after_request_actions);
-				}
-			}
-		}
-		)
-	}
-	else {
-		if(after_request_actions){
-		eval(after_request_actions);
-		}
-	}
-  }
-}
-
-function set_language_ajax(language_id, language_origine_id) {
-  var message= "";
-  
-  if(language_origine_id == 1)
-  {
-	  if(confirm("Would you like the selected language to become your default language on all MedWOW pages?")) 
-	  { 
-	    ajax = new Ajax.Request('shared_ajax_services.php?NODC=dcff9e838b7e2db1c8aba9cc476ecd2b&actions=set_default_language&language_id='+language_id,{
-		method:'get',
-		onSuccess: function(transport){}
-		}
-		)
-	  }
-  }
-  else
-  {
-  	  if(confirm("Would you like the selected language to become your default language on all MedWOW pages?\n\nWould you like the selected language to become your default language on all MedWOW pages?")) 
-	  { 
-	    ajax = new Ajax.Request('shared_ajax_services.php?NODC=dcff9e838b7e2db1c8aba9cc476ecd2b&actions=set_default_language&language_id='+language_id,{
-		method:'get',
-		onSuccess: function(transport){}
-		}
-		)
-	  }
-  }
-}	</script>
-	
+	<link rel="stylesheet" href="/gstyle.css" type="text/css">
+	<link rel="stylesheet" href="/styles_v2.css" type="text/css">
 	<script type="text/javascript" src="/scripts/prototype.js"></script>
-	<script type="text/javascript" src="/scripts/common.js"></script>
-	<script type="text/javascript" src="/scripts/AC_ActiveX.js"></script>
-	<script type="text/javascript" src="/scripts/AC_RunActiveContent.js"></script>
-	<script type="text/javascript" src="/scripts/FormCheck_eng.js"></script>
-	<script type="text/javascript" src="/scripts/SelectBoxFunctions.js"></script>
-	<script type="text/javascript" src="/scripts/dateselect.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=8326867"></script></head><body><div id="calMain" class="cl_out" style="position:absolute; display:none; background-color:#dddddd;"><br></div>
-	<script type="text/javascript" src="/scripts/overlib/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
-	<script type="text/javascript" src="/scripts/jsvalidator.js"><!-- jsValidator By Amir Saleh--></script>
-    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-    <script type="text/javascript">
-
-    google.load("language", "1");
-
-    function detect (text){
-		
-		google.language.detect(text, function(result) {  if (!result.error) {    var language = 'unknown';    for (l in google.language.Languages) {      if (google.language.Languages[l] == result.language) {        language = l;        break;      }    }    
-		return language }});    
-    }
-    function translate(text,parseto) {
-      google.language.translate(text, "", "en", function(result) {
-        if (!result.error) {
-			document.getElementById(parseto).innerHTML=result.translation;
-        }
-      });
-    }
-
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script>
+      google.load("swfobject", "2.1");
     </script>
-	<script type="text/javascript">
-		function showHelpful(){
-		
-			objHelpful = document.getElementById('id_helpful');
-			//alert(objHelpful);
-			if(objHelpful.style.display=='block'){
-				objHelpful.style.display='none';
-			}
-			else {
-				objHelpful.style.display='block';
-				document.forms['helpful'].why.focus();
-			}
-			return 0;
-		}
-		function checkSearch() {
-				if ($F('head_search_word').length < 2) {
-					alert ("Search string too short!");
-					return false;
-				}
-				$('search_form_div').hide()
-				$('searchin_animate').show()
-				var x=0;
-				var xlang=1;
-				var arr=new Array();
-				if(xlang>1){
-					arr[x++]='xlang='+xlang;
-				}
-				arr[x++]='searchstring='+$F('head_search_word');
-				location.href ='quick_search_v2.php?' +arr.join("&");
-		}
-	function change_lang(lang_url) {
-			var lngUrl=lang_url.split(",");
-			location.href=lngUrl[1];
-	}
-	</script>
-	<!--Start MyMedWOW CSS-->
-	<link rel="stylesheet" href="my_style_0.css" type="text/css">
-	<!--End MyMedWOW CSS-->
-
-
-
-	<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
-		<a name="abs_top" id="abs_top"></a>
-		<script type="text/javascript"> 
-			function login_form()
-			{
-				document.location.href="members.php?actions=login_form&url=/members.php?actions=login_form";
-			}
-			
-			function Register()
-			{
-				document.location.href="registration_v3.php";
-			}
-		</script>
-				<form name="currency_changer" id="currency_changer" method="POST">
-			<input type="hidden" name="get_currency">
-		</form>
-		<div id="main">
-			<table style="width:780px" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr class="print_hide">
-				<td style="height:41px">
-					<table border="0" cellspacing="0" cellpadding="0" class="menu_top" align="center">
-					<tbody><tr>
-						<!--Start Search--> 
-						<td style="padding-right:10px;">
-								<table border="0" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td><input type="text" id="head_search_word" name="searchstring" style="border: 1px solid #B8B8B8; width: 120px; height: 15px; " value="" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"></td>
-									<td style="padding-left:5px;">
-										<div id="search_form_div">
-											<button type="button" onclick="checkSearch();" id="go_button">Search</button>
-										</div>
-										<div id="searchin_animate" style="display:none;">
-											<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="69" height="19" id="btn1" align="middle">
-											<param name="allowScriptAccess" value="sameDomain">
-											<param name="movie" value="gfx/btn1.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="gfx/btn1.swf" quality="high" bgcolor="#ffffff" width="69" height="19" name="btn1" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
-											</object>
-										</div>
-									</td>
-								</tr>
-								</tbody></table>
-						</td>
-						<td nowrap="nowrap"><a href="/browse.php?ViewType=1&amp;ItemType=1">Search Options</a></td>
-						<!--End Search--> 
-						<!--Start Login-->
-												<td style="text-align:right; width:100%;" nowrap="nowrap">
-												 	<a rel="nofollow" href="#" onclick="login_form();">Log In</a> &nbsp;|&nbsp; 
-						 	<a rel="nofollow" href="#" onclick="Register();">Register</a>
-												</td>
-						<!--End Login-->
-						<!--Start Languages-->
-						<td style="text-align:right; padding-left:10px;">
-									<script type="text/javascript">
-				document.write('<select name=\'language_select\' onchange=\'javascript:change_lang(this.options[this.selectedIndex].value);\'>\n<option value="1,/view_content.php?xlang=1&id=626" selected>English</option>\n<option value="4,/view_content.php?xlang=4&id=626" >Español</option>\n<option value="3,/view_content.php?xlang=3&id=626" >Русский</option>\n</select>\n')
-			</script><select name="language_select" onchange="javascript:change_lang(this.options[this.selectedIndex].value);">
-<option value="1,/view_content.php?xlang=1&amp;id=626" selected="">English</option>
-<option value="4,/view_content.php?xlang=4&amp;id=626">Español</option>
-<option value="3,/view_content.php?xlang=3&amp;id=626">Русский</option>
-</select>
-
-			<noscript>
-								<a href="/view_content.php?id=626">English</a>&nbsp;
-				<a href="/view_content.php?xlang=4&id=626">Español</a>&nbsp;
-				<a href="/view_content.php?xlang=3&id=626">Русский</a>
-			</noscript>
-									</td>
-						<!--End Languages-->
-					</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			<tr class="print_hide">
-				<td style="height:122px; background-image:url(gfx/header_eng.gif)"> 
-					<table style="width:740px; height:122px" border="0" cellspacing="0" cellpadding="0" align="center">
-					<tbody><tr> 
-						<td valign="top">
-						<div style="float:right;"><img src="gfx/spacer.gif" width="540" height="35" usemap="#map_header" border="0" alt=""></div>
-						<div style="clear:both;"></div>
-						<a id="logo" href="/"></a>
-						<h1 id="slogan">
-							Global On-Line Trading Arena<br>
-							for Pre-Owned Medical Devices
-						</h1>
-												</td>
-					</tr>
-					<tr> 
-						<td class="menu_sub">
-						
-							<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/8326867/?cmd=file&amp;file=visitorWantsToChat&amp;site=8326867&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="chat8326867" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/8326867/?cmd=file&amp;file=visitorWantsToChat&amp;site=8326867&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat8326867','width=475,height=400,resizable=yes');return false;">
-							<img src="gfx/live_support1.png" align="absmiddle" border="0">&nbsp;Live Support
-							</a>&nbsp;|&nbsp;
-							<!--			
+	<script type="text/javascript" src="/medwow_header_misc.js_v2.php"></script>
+	<script type="text/javascript" src="/scripts/jsvalidator.js"><!-- jsValidator By Amir Saleh--></script>
+	<script type="text/javascript" src="/scripts/btn.js"></script>
+	<script type="text/javascript" src="/scripts/common.js"></script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=8326867"></script></head>
+<body>
+	<a name="abs_top" id="abs_top"></a>
+	<div id="main" align="center" style="overflow:hidden;overflow-x:hidden;">
+						<div id="main_child">
+			<!--START_OF_HEADER-->
+						<div id="top_part">
+				<div id="logo_div">
+					<a rel="nofollow" href="/">
+						<img src="/gfx/ver2/logo.jpg" "="" title="Used medical equipment for sale, auction &amp; wanted items" alt="Used medical equipment for sale, auction &amp; wanted items">
+					</a>
+				</div>
+				<div id="slogan">
+					<a href="/">
+						Global Online Marketplace for<br>Pre-Owned Medical Equipment					</a>
+					<!--LANDING_SPACER-->
+		  	  	</div>
+				<div id="top_search_languages">
+					<div id="languages_div" dir="ltr">
+				       					   <span class="selected_lang"> 					   English</span>					   &nbsp;
+					     <a href="/view_content.php?xlang=5&amp;id=626" class="lang"> 					   Français</a>					   &nbsp;
+					     <a href="/view_content.php?xlang=4&amp;id=626" class="lang"> 					   Español</a>					   &nbsp;
+					     <a href="/view_content.php?xlang=3&amp;id=626" class="lang"> 					   Русский</a>					   &nbsp;
+					     <a href="/view_content.php?xlang=10&amp;id=626" class="lang"> 					   عربي</a>					   
+					</div>
+					<!--START_OF_SEARCH_DIV-->
+					<div style="margin-bottom:5px;width:526px;text-align:left;background-color:#f0f1f3;margin-top:25px;margin-right:1px;">
+							<div id="auto_complete_results" style="display:none;position:absolute;z-index:6000;margin-top:26px;margin-left:6px"></div>
+							<div id="quick_search_div" align="left" style="padding:4px;">
+							<table cellpadding="0" cellspacing="0" dir="ltr" width="100%">
+							<tbody><tr><td>
+							<table cellpadding="0" cellspacing="0" dir="ltr">
+								<tbody><tr><td>
+									<input class="home_lft2" dir="ltr" type="text" value="Quick Search" onkeypress="checkEnter(event,'checkSearch();');" onclick="if(this.value=='Quick Search') { this.value = ''; }" onblur="if(this.value=='') { this.value = 'Quick Search'; }" id="head_search_word" name="searchstring" style="border:0;width:160px;height:16px;border:1px solid #7f9db9;" onkeyup="stripHTML(this.value, this);">
+								</td>
+								<td>
+									<select name="ViewType" id="ViewType" class="home_lft2" dir="ltr" style="margin-right:7px;">
+										<option value="1">Items for sale</option>
+										<option value="2">Wanted Items</option>
+									</select>
+								</td>
+								<td>
+									<button id="search_form_div" onclick="checkSearch();">Search</button>
+								</td>
+								<td>
+									<a class="home_lft2" href="/quick_search_tips.php" target="_blank">
+										<img src="/gfx/ver2/help.png" id="search_tooltip" alt="Quick search tips" title="Quick search tips" style="border:0px;">
+									</a>
+								</td>
+							</tr></tbody></table>
+							</td>
+							<td align="right">
+								<a class="uomo" style="margin-left:3px;font-size:10px;" rel="nofollow" href="/used-medical-equipment">Advanced Search</a>
+							</td>
+							</tr></tbody></table>
 							
-							<a id="_lpChatBtn" href='https://server.iad.liveperson.net/hc/8326867/?cmd=file&file=visitorWantsToChat&site=8326867&byhref=1&SESSIONVAR!skill=MedWOW%20English&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a' target='chat8326867'  onClick="javascript:window.open('https://server.iad.liveperson.net/hc/8326867/?cmd=file&file=visitorWantsToChat&site=8326867&SESSIONVAR!skill=MedWOW%20English&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&referrer='+escape(document.location),'chat8326867','width=475,height=400,resizable=yes');return false;" >
-							<img src="gfx/live_support1.png" align="absmiddle" border="0" />&nbsp;Live Support</a> &nbsp;|&nbsp;
-							-->			  	
-							<a href="help.php">Help</a> &nbsp;|&nbsp; 
-							<a href="faq.php">FAQs</a> &nbsp;|&nbsp; 
-														<a rel="nofollow" href="contact.php">Contact Us</a>
-						</td>
-					</tr>
-					</tbody></table>
+							<script type="text/javascript">
+								fnSetAutoComplete('head_search_word','auto_complete_results','/autocomplete.php',"checkSearch();");
+							</script>
+							</div>
+							<div id="quick_search_animation_div" style="display:none;width:213px;color:#333377;font-weight:bold;padding-left:1px;">
+								<span>Searching</span> <embed src="/gfx/proccessing.swf" width="50px" height="20px" quality="high" bgcolor="#eaeff5" name="main" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+							</div>
+
+					</div>
+					<!--END_OF_SEARCH_DIV-->
+				</div>
+				<div style="clear:both;height:10px;"></div>
+				<table width="100%" cellpadding="0" cellspacing="0" id="header_menu">
+				<!--START_OF_TOP_LINKS-->
+				<tbody><tr><td id="top_links_left">
+										<table cellspacing="0" cellpadding="0">
+												<tbody><tr><td>
+							<a rel="nofollow" href="/" class="header_menu_not_selected">Home</a>
+							</td>
+							<td><img class="piper" src="/gfx/ver2/header_piper.jpg"></td>													<td>
+							<a href="/used-medical-equipment" class="header_menu_not_selected">Buy</a>
+							</td>
+							<td><img class="piper" src="/gfx/ver2/header_piper.jpg"></td>													<td>
+							<a href="/sale_welcome.php" class="header_menu_not_selected">Sell</a>
+							</td>
+							<td><img class="piper" src="/gfx/ver2/header_piper.jpg"></td>													<td>
+							<a href="/services.php" class="header_menu_not_selected">Services</a>
+							</td>
+							<td><img class="piper" src="/gfx/ver2/header_piper.jpg"></td>													<td>
+							<a rel="nofollow" href="/mymedwow.php" class="header_menu_not_selected">My MedWOW</a>
+							</td>
+							<td><img class="piper" src="/gfx/ver2/header_piper.jpg"></td>													<td>
+							<a href="/tag/medical-franchise-opportunity" class="header_menu_not_selected">Franchise</a>
+							</td>
+																		</tr></tbody></table>
 				</td>
-			</tr>
-			<tr>
-				<td class="content">
-					<div style="float:left;width:120px" class="screen_hide">
-						<img src="gfx/logo_print.gif" alt="">
-					</div>
-					<div style="float:left; padding-top:37px; font-weight:bold; color:#3EA7E9;" class="screen_hide">
-						Global On-Line Trading Arena<br>for Pre-Owned Medical Devices
-					</div>
-					<div style="clear:both" class="screen_hide"></div>
-					<table style="width:100%; line-height: 18px; padding-bottom: 20px;" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr valign="top"> 
-											<td>
-							<div style="min-height:390px;">
-												<!--End Header-->
-							<!--Start Content-->
-							<div id="print_version">
+				<td id="top_links_right">
+								
+						<!--Start Login-->
+												 	<a rel="nofollow" href="/members.php?actions=login_form&amp;url=/members.php?actions=login_form" class="login">Log In</a>&nbsp;
+						 	<img src="/gfx/ver2/separat_login.gif" width="5" height="9" alt="">&nbsp; 
+						 	<a rel="nofollow" href="/registration_v3.php" class="login">Register</a>
+												<!--End Login-->	
+								</td>
+				</tr></tbody></table>
+				<!--END_OF_TOP_LINKS-->
+			</div>
+			<!--End_OF_HEADER-->
+			<div id="main_content" class="content" style="padding-left:50px;padding-right:30px;">
+			
+	<style>
+	.view_content h2 { font-size:16px;font-family:arial;font-weight:bold;color:#556f86; }
+	</style><div style="height:8px;"></div>
 <table width="100%"><tbody><tr><td width="90%" align="left">
 <h1>Privacy Policy</h1>
 </td><td width="10%" align="right">
-<img name="action_buttons" src="gfx/Print.png" border="0" onclick="javascript:pprint('div_view_content','Privacy Policy', '1');" style="cursor:pointer" align="absmiddle">
+<img name="action_buttons" src="/gfx/Print.png" border="0" onclick="javascript:pprint('div_view_content','Privacy Policy', '1');" style="cursor:pointer" align="absmiddle">
 </td></tr></tbody></table>
-<div id="div_view_content">
+<div id="div_view_content" class="view_content">
 
 
 <p dir="ltr" align="left">We respect your privacy. 
@@ -425,248 +272,257 @@ function set_language_ajax(language_id, language_origine_id) {
 
 <div>You may send us requests, responses, questions and complaints, by using the <a href="http://www.medwow.com/contact.php">'contact us'</a> form on MedWOW, or by contacting us at <a href="mailto:service@medwow.com">service@medwow.com</a>.</div>
 
-<p dir="ltr">Copyright © 2008 MedWOW ltd. All rights reserved. 
+<p dir="ltr">Copyright © 2010 MedWOW ltd. All rights reserved. 
 	<ins cite="mailto:Shibolet" datetime="2008-10-05T13:16"></ins></p></div>
-			</div>
-		</div>
-						</td>
-		</tr>
-		<tr class="print_hide">
-			<td style="min-height:40px;">
-			<!--Start Help Window-->
-			<div style="margin-top: 20px; font-size:8pt; text-align:center;"><a onclick="return showHelpful();" class="help">Was this page helpful?</a></div>
-			<div align="center" id="id_helpful" style="display:none;">
-			<script language="javascript">
-	function validate_helpful_form(form_obj)
-	{	
-		var err = "";
-		if (form_obj.why.value.length < 2 || ((form_obj.helpful_country_code_telephone.value.length ==  0 && form_obj.helpful_area_code_telephone.value.length == 0 && form_obj.helpful_telephone.value.length == 0) && form_obj.helpful_email.value.length == 0))
-			err = "Please supply the reason and your Email or phone number." + "\n";
-			
-		if (err.length > 0)
-		{
-			alert(err);
-		} else {
-			var captcha_value=document.getElementById('captcha_helpful').value;
-			new Ajax.Request('wanted_item_ajax_handler.php',{
-			method:'post',
-			parameters: 'NODC=28b1ca56bda34c12f7c9b45437b625bf&actions=captchaCheck&captcha='+captcha_value,
-			onSuccess: function(transport){
-					if(transport.responseText!='SUCCESS'){
-						alert('Please enter the text appearing in the image.');
-					} else {
-						sendData()
-					}
-			}
-			}
-			)
-		}
-	}
-	
-	
-function sendData(){
-	var helpfulStatus = document.getElementById('yesChecked').checked; 
-	document.getElementById('viewer').style.display='';
-	//document.getElementById('why').style.display='none';
-	var why=document.getElementById('why').value;
-	var uri=document.getElementById('uri').value;
-	var helpful_email=document.getElementById('helpful_email').value;
-	var helpful_country_code_telephone=document.getElementById('helpful_country_code_telephone').value;
-	var helpful_area_code_telephone=document.getElementById('helpful_area_code_telephone').value;
-	var helpful_telephone=document.getElementById('helpful_telephone').value;
-	var captcha=document.getElementById('captcha_helpful').value;
-	
-	serialized_request=document.getElementById('serialized_request').value;
-	var isHelpful = (helpfulStatus)?1:0;
-
-	
-	new Ajax.Request('helpful_system.ctrl.php', {
-			method: 'get',
-			parameters: {why: escape(why), uri: uri, helpful_email: escape(helpful_email), helpful_country_code_telephone: escape(helpful_country_code_telephone), helpful_area_code_telephone: escape(helpful_area_code_telephone), helpful_telephone: escape(helpful_telephone), serialized_request: serialized_request, captcha: captcha, isHelpful:isHelpful },
-			onFailure :function() {},
-			onSuccess: function() {intervalID=setInterval("updateViewer()",1500); }
-	});
-	
-}
-
-function updateViewer(){
-	clearInterval(intervalID);
-	alert('Thank you very much for sharing your opinion with us. We will review your comments shortly.');
-	//$('viewer').update("<textarea name='why' id='why' style='width:460px; height:40px;'></textarea>");
-	document.getElementById('viewer').style.display='none';
-	document.getElementById('why').innerHTML='';
-	$('id_helpful').style.display = 'none';
-}
-
-function helpful_addslashes(str) 
-{
-	str=str.replace(/\'/g,'\\\'');
-	str=str.replace(/\"/g,'\\"');
-	str=str.replace(/\\/g,'\\\\');
-	str=str.replace(/\0/g,'\\0');
-	return str;
-}
-</script>
-<form name="helpful" method="POST" action="helpful_system.ctrl.php">
+				<!--START_OF_HelpFul_System-->
+				<div class="helpful_page" style="margin-top:20px;font-size:8pt;text-align:center;position:relative;" align="center">
+					<a style="width:160px;cursor:pointer;" onclick="return showHelpful();">Was this page helpful?</a>
+				</div>
+				<div align="center" id="id_helpful" style="display:none;">
+				<form name="helpful" id="helpful" method="POST" action="/helpful_system.ctrl.php">
 <input type="hidden" name="reg" value="1">
 <input type="hidden" name="actions" value="SaveData">
 <input type="hidden" id="uri" name="uri" value="/view_content.php?id=626">
-<input type="hidden" id="serialized_request" name="serialized_request" value="YTo0OntzOjI6ImlkIjtzOjM6IjYyNiI7czo5OiJQSFBTRVNTSUQiO3M6MjY6InJwb2k2c2FiMzFkamZqYnMyOGQwdW04NHYyIjtzOjU6InhsYW5nIjtzOjE6IjEiO3M6OToiaW50VmlzaXRzIjtzOjE6IjEiO30=">
+<input type="hidden" id="serialized_request" name="serialized_request" value="YToxNDp7czoyOiJpZCI7czozOiI2MjYiO3M6OToiUEhQU0VTU0lEIjtzOjMyOiJiYWNlZGI2YWE5NzhiYzFmOGY0OTQyMjEwMTliYzVkZSI7czo5OiJDRkdMT0JBTFMiO3M6MzE3OiI9OWQ5NTRmMDhmZjNhNzhjNC1FQzc2MTE1Ni1DMjBBLTEwN0EtQ0NEREZBN0Q4QzU5MTczRSNISVRDT1VOVD0xI0xBU1RWSVNJVD17dHMgJzIwMTAtMDEtMDQgMjI6NDI6MTcnfSNUSU1FQ1JFQVRFRD17dHMgJzIwMTAtMDEtMDQgMjI6NDI6MTcnfSNjZmlkPTQ0OTk4NzA2I2NmdG9rZW49OWQ5NTRmMDhmZjNhNzhjNC1FQzc2MTE1Ni1DMjBBLTEwN0EtQ0NEREZBN0Q4QzU5MTczRSNoaXRjb3VudD05I2xhc3R2aXNpdD17dHMgJzIwMTAtMDEtMDQgMDM6MDk6MTknfSN0aW1lY3JlYXRlZD17dHMgJzIwMTAtMDEtMDIgMDY6MjU6MjcnfSN1cmx0b2tlbj1DRklEIyI7czo0OiJDRklEIjtzOjg6IjQ0OTk4NzA2IjtzOjc6IkNGTUFHSUMiO3M6NjE6IjQ0OTk4NzA2OjlkOTU0ZjA4ZmYzYTc4YzQtRUM3NjExNTYtQzIwQS0xMDdBLUNDRERGQTdEOEM1OTE3M0UiO3M6NzoiQ0ZUT0tFTiI7czo1MjoiOWQ5NTRmMDhmZjNhNzhjNC1FQzc2MTE1Ni1DMjBBLTEwN0EtQ0NEREZBN0Q4QzU5MTczRSI7czoxMzoiTVlfU0VTU0lPTl9JRCI7czozMjoiZmI0MWRlYThmNTIzYTJmMDY1NWVmODk1OTc0NzM5YjIiO3M6MjoiT0oiO3M6MzQ6IjEtMjYyNzBiNDUwMjM3ODU0YTQ2OTJkNjhlZTYzZjAwZTkiO3M6MTM6IlBYUm91dGVDb29raWUiO3M6MzY6IkQ0RUY5QjM2LTA5NDEtNDI0Qy1CQUUzLUI0QjI3QjcyRERDNSI7czoxNDoiUFhSb3V0ZUNvb2tpZVQiO3M6MzY6IkQ0RUY5QjM2LTA5NDEtNDI0Qy1CQUUzLUI0QjI3QjcyRERDNSI7czoxMDoiU01JREVOVElUWSI7czo1NzY6InhHaUlUaW82ZXpDUkgyL2tQcjJiQjVVaHA2cEtrZGt4SXBITVk0bzV6YkV0Ti9iUlVSQWxreHdFN28gZGVsYkcvVnM2dzFEaUtOblJqVmxjcnA3VnJ4UENCWkhQQ2Q0WW4gVXZWb3k4V1czSnY2UUFVZ1hvNlhLVE9tRS9zZjg4c0wyenpKRGt4Q1U3RXZlNzMxWVVRaHR3MjVaaC91UkpkTEx4OFlqRmJhMHFIcE1Ka202YlNlbVBpMGo4MXcva2Y0aHI4IDd4S2NXcVJVclZsTy9VNjg5bUNMR212QnFNQXJuRUc0MmZKL3ZycUdUIG9CSGx0IGRISGdKZ0svZXFDUkFnbGggWU04QTZKL09VWWl0WnFpVDFUWnQ4SXRNcWEyOVdOWWtldklzY2tLbDFFaXN1R0xCMTA2ZTV4L1Z4Y3VHdjhPbG5hejdiamxLMElJNFJWNVFDVXk5VGczSGFnMlE3Qk1qRHJ5QSBqendzRWN0YjJsNFBodGY5NFNFMEE2aE50SjJTWWEzcG15elppZmdQTm55VTJxWVZUZmFVU3Q5eWh2WmxjeXk2VmxMMXNYYWJGUHVZZkFYcUhEMDYvIFBsc2l0Z3U2QWZmdi9JaEpDbHRDL3NBIDJkSGJMNGU2NkxvNXBITUg1T1lhQTNGSlg2a01VRTM5UUJqcy9ScDBNQ0U5d0trNVVvaE5Vcy8zcjNMeGM1ejgyalFxa2d0ZHJSZE9aZUpiVVdHRXBjOFo4MEF4eVkxaEN1UWE1TSI7czo1OiJfbGFuZyI7czoyOiJlbiI7czoxMjoiY29yZV9wZW5kaW5nIjtzOjM6InllcyI7czo0OiJOT0RDIjtOO30=">
 
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#F2F2F2; margin-top:10px; width:500px;">
 	<tbody><tr>
-	    <td><img src="gfx/corner_lt.gif" width="8" height="8"></td>
-		<td><img src="gfx/spacer.gif" width="1" height="1"></td>
-	    <td><img src="gfx/corner_rt.gif" width="8" height="8"></td>
+	    <td><img src="/gfx/corner_lt.gif" width="8" height="8"></td>
+		<td><img src="/gfx/spacer.gif" width="1" height="1"></td>
+	    <td><img src="/gfx/corner_rt.gif" width="8" height="8"></td>
 	</tr>
 	<tr>
-	    <td><img src="gfx/spacer.gif" width="1" height="1"></td>
+	    <td><img src="/gfx/spacer.gif" width="1" height="1"></td>
 		<td style="padding-right:10px; padding-left:10px; padding-bottom:5px;">
 			<table border="0" cellpadding="0" cellspacing="0" class="form_eng" style="margin-top:5px; font-size:8pt;" width="100%">
 				<tbody><tr> 
-					<td style="padding-right:0px; text-align:center;">
-						<input type="radio" id="yesChecked" name="isHelpful" value="1" checked="checked">Yes
-						<input type="radio" name="isHelpful" value="0">No
-						&nbsp;&nbsp; If yes, how? If not, why?</td>
+					<td style="padding-right:0px; text-align:left;">
+						<input type="radio" id="yesChecked" name="isHelpful" value="1" checked="checked">Yes						<input type="radio" name="isHelpful" value="0">No					</td>
 				</tr>
 				<tr> 
 					<td style="padding-right:0px;">
 					<div align="left" id="viewer" style="width:455px;height:40px;display:none">
 						Sending Data...
 					</div>
+					<div style="text-align:left">
+					Comments:<br>
 					<textarea name="why" id="why" style="width:455px; height:40px;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"></textarea>
+					</div>
 					</td>
 				</tr>
 				<tr>
-					<td style="padding-right:0px;">
-						<table cellpadding="0" cellspacing="0" width="102%" style="margin-top:5px; font-size:8pt;">
-							<tbody><tr>
-								<td></td>
-								<td style="color:#3ea7e9;" align="left">Country code</td>
-								<td>&nbsp;&nbsp;&nbsp;</td>
-								<td style="color:#3ea7e9;" align="left">Area code</td>
-								<td>&nbsp;&nbsp;&nbsp;</td>
-								<td style="color:#3ea7e9;" align="left">Number</td>
-								</tr>
-								<tr>
-								<td>Telephone :  &nbsp;&nbsp;&nbsp;</td>
-								<td><input type="text" id="helpful_country_code_telephone" name="helpful_country_code_telephone" value="" style="width:80px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);"></td>
-								<td> - </td>
-								<td><input type="text" id="helpful_area_code_telephone" name="helpful_area_code_telephone" value="" style="width:60px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);"> </td>
-								<td> - </td>
-								<td><input type="text" id="helpful_telephone" name="helpful_telephone" value="" style="width:130px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);"></td>
-							</tr>
-						</tbody></table>
+					<td style="padding-right:0px;text-align:left">
+						Phone number:<br>
+						<div>
+							<div style="float:left;width:150px">
+								Country code							</div>
+							<div style="float:left;width:150px;">
+								Area code							</div>
+							<div style="float:left;width:155px;padding-left:10px">
+								Number							</div>
+						</div>
+						<div>
+							<div style="float:left;width:150px">
+								<input type="text" id="helpful_country_code_telephone" name="helpful_country_code_telephone" value="" style="width:80px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);">
+							</div>
+							<div style="float:left;width:150px;">
+								<input type="text" id="helpful_area_code_telephone" name="helpful_area_code_telephone" value="" style="width:80px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);">
+							</div>
+							<div style="float:left;width:155px;text-align:right;">
+								<input type="text" id="helpful_telephone" name="helpful_telephone" value="" style="width:140px;" onkeyup="stripHTML(this.value, this);" onkeypress="editKeyBoard(this,keybNumeric,event);">
+							</div>
+						</div>
 					</td>
 				</tr>
 				<tr>
 					<td style="padding-right:0px;" align="left">
-					Email : <input type="text" id="helpful_email" name="helpful_email" value="" style="width:88%;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"> 
+					Email :<br>
+					<input type="text" id="helpful_email" name="helpful_email" value="" style="width:455px;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"> 
 					</td>
 				</tr>
 				<tr>
 					<td colspan="2" width="100%" align="left">
-						Please enter the text appearing in the image into the text box, for verification :<br>
 						<table cellpadding="0" cellspacing="0" style="margin-top:10px;">
 						<tbody><tr>
 							<td>
-								<img src="_captcha_img.php?PHPSESSID=f0nopdetsjvqh2jcquv2pjq223" id="captcha_captcha" align="middle">
+								<img src="/_captcha_img.php?PHPSESSID=f0nopdetsjvqh2jcquv2pjq223" id="helpful_captcha" align="middle" style="border:1px solid #333377"><br>
 							</td>
-							<td style="vertical-align:bottom">
-								<input id="captcha_helpful" type="text" name="captcha_helpful" value="" style="width:150px;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"><br>
+							<td valign="bottom" style="font-size:8pt;">
+								Please enter the text in the image for verification								<input id="captcha_helpful" type="text" name="captcha_helpful" value="" style="width:320px;" onkeyup="stripHTML(this.value, this);" onkeypress="stripHTML(this.value, this);"><br>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a onclick="change_captcha_image($('helpful_captcha'));" class="blue_Arrow_Links" style="font-size:8pt;">Change Image</a>
+							</td>
+							<td>
+								&nbsp;
 							</td>
 						</tr>
 						</tbody></table>
 					</td> 
 				</tr>
 				<tr>
-					<td style="padding-bottom:0px; padding-right:0px; text-align:center;">
-					<input type="button" name="Submit2" value="Submit" class="buttons" onclick="validate_helpful_form(this.form);" style="width:80px;"> 
-					<input type="button" name="Cancel" value="Cancel" class="buttons" onclick="showHelpful();" style="width:80px;">
+					<td align="right">
+						<div style="float:right">
+						<table>
+							<tbody><tr>
+							<td><div tabindex="1" class="btnLeftBlueBack" id="" style="width: 80px;"><div class="btnRightBlueBack"><div class="btnInnerBlueBack">Cancel</div></div></div></td>
+							<td>&nbsp;</td>
+							<td><div tabindex="1" class="btnLeftBlue" id="" style="width: 80px;"><div class="btnRightBlue"><div class="btnInnerBlue">Submit</div></div></div></td>
+							</tr>
+						</tbody></table>
+						</div>
 					</td>
 									</tr>
 			</tbody></table>
 		</td>
-	    <td><img src="gfx/spacer.gif" width="1" height="1"></td>
+	    <td><img src="/gfx/spacer.gif" width="1" height="1"></td>
 	</tr>
 	<tr>
-	    <td><img src="gfx/corner_lb.gif" width="8" height="8"></td>
-		<td><img src="gfx/spacer.gif" width="1" height="1"></td>
-	    <td><img src="gfx/corner_rb.gif" width="8" height="8"></td>
+	    <td><img src="/gfx/corner_lb.gif" width="8" height="8"></td>
+		<td><img src="/gfx/spacer.gif" width="1" height="1"></td>
+	    <td><img src="/gfx/corner_rb.gif" width="8" height="8"></td>
 	</tr>
 </tbody></table>
-</form></div>
-			<!--End Help Window-->
-						<!--End Content-->
-		  <!--Start Footer-->
-		  </td>
-                  </tr>
-        		</tbody></table>
+</form>				</div>
+				<!--END_OF_HelpFul_System-->
+			</div>
+			<div id="footer">
+ 				
+					 <div id="footer_links_container">
+					 <div style="width:100%;padding-top:12px;">
+					 								 			<strong><font style="color:#888888;" class="footer_device">Popular Searches</font></strong>
+					 			<div style="height:7px;"></div>
+					 									 			<div class="footer_devices">
+						 										 			<div style="position:relative;">
+						 																	<a href="/used-ct-scanner-equipment/210.med">CT Scanner</a>
+																								<a href="/used-mri-equipment/236.med">MRI</a>
+																								<a href="/used-radiotherapy-simulator-equipment/222.med">Radiotherapy Simulator</a>
+																								<a href="/used-pet-ct-equipment/238.med">PET/CT</a>
+																								<a href="/used-computer-assisted-surgery-equipment/263.med">Computer Assisted Surgery</a>
+																			 			</div>
+							 									 			<div style="position:relative;">
+						 																	<a href="/used-ultrasound-diagnostic-equipment/243.med">Diagnostic Ultrasound</a>
+																								<a href="/used-ultrasound-cardiac-equipment/178.med">Cardiac Ultrasound</a>
+																								<a href="/used-ultrasound-equipment/1382.med">Used Ultrasound</a>
+																								<a href="/used-bone-densitometer-dual-energy-equipment/333.med">Bone Densitometer, Dual Energy</a>
+																								<a href="/used-cath-lab-equipment/327.med">Cath Lab</a>
+																			 			</div>
+							 									 			<div style="position:relative;">
+						 																	<a href="/used-laser-excimer-equipment/282.med">Laser - Excimer </a>
+																								<a href="/used-patient-monitor-equipment/145.med">Patient Monitor</a>
+																								<a href="/tag/refurbished-medical-equipment.htm">Refurbished Medical Equipment</a>
+																								<a href="/used-portable-x-ray-equipment/225.med">Mobile Radiographic Unit</a>
+																								<a href="/used-mammography-unit-equipment/208.med">Mammography Unit</a>
+																			 			</div>
+							 									 			<div style="position:relative;">
+						 																	<a href="/used-ambulance-equipment/679.med">Used Ambulance for Sale</a>
+																								<a href="/used-heart-lung-machine-equipment/116.med">Heart-Lung Machine</a>
+																								<a href="/used-hospital-beds-equipment/1368.med">Used Hospital Beds</a>
+																								<a href="/used-hospital-equipment.htm">Used Hospital Equipment</a>
+																								<a href="/used-medical-parts">Used Medical Parts</a>
+																			 			</div>
+							 								 			</div>
+						 							 	</div>
+				 		<div style="clear:both"></div>
+				 		<div style="height:5px;"></div>
+				 	</div>
+				 	
+				 	<style>
+					.footer_site_links3 a{text-decoration:none;color:#336699;}
+					.footer_site_links3 a:hover {text-decoration:underline;color:#336699;}				
+					</style>
+				 	
+				 	<div style="background-color:#f0f1f3;width:100%;height:55px;color:#336699;font-weight:bold;border-bottom:1px solid #dddddd;text-align:center;" class="footer_site_links3">
+					 	<div style="float:left;width:86%;padding-top:22px;height:15px;">
+				 			<a href="/about.php">About Us</a>&nbsp;|&nbsp;
+					 		<a href="/helpnew.php">Help</a>&nbsp;|&nbsp;
+					 							 		<a href="/contact.php">Contact Us</a>&nbsp;|&nbsp;
+					 		<a href="/news.php" style="text-transform:capitalize;">News</a>&nbsp;|&nbsp;
+					 																																					<a href="http://used-medicalequipmentblog.blogspot.com" target="_blank" style="text-transform:capitalize;">Blog</a>&nbsp;|&nbsp;
+							<a href="/resources.php">Resources</a>&nbsp;|&nbsp;
+							<a href="/link_to_us.php">Link to Us</a>&nbsp;|&nbsp;
+														<a href="/medwow_forum.php">Forum</a>&nbsp;|&nbsp;
+							<a href="/sitemap2.php" style="margin-bottom:0px;">Site Map</a>
+							<div style="height:10px;"></div>
+						</div>
+													<div style="float:left;width:14%;">
+								<a href="http://twitter.com/MedWOWmedical" target="_blank"><img src="/gfx/ver2/twitter.png" style="border:0px;"></a>
+							</div>
+												<div style="clear:both;"></div>
+				 	</div>
+				 	<div style="height:5px;"></div>								 <div class="privacy" style="width:100%;">
+					 Use of this website constitutes acceptance of the MedWOW <a rel="nofollow" href="/view_content.php?id=622">User Agreement</a> and <a rel="nofollow" href="/view_content.php?id=626">Privacy Policy</a>. 				 </div>
+				 <div class="privacy" style="width:100%;">
+				 						
+
+<div>© 2010 All rights reserved, MedWOW Ltd. Global online marketplace for buying and selling <a href="/">used medical equipment</a>&nbsp;and second hand medical equipment.</div>													</div>
+		</div>
+	</div>
+	<div id="show" style="display:none;">
+	</div>
+	<div id="overDiv" style="display:none;">
+	</div>
+	<div id="hider" style="display:none;">
+	</div>
+
+	<div id="menu_context" style="width:300px;height:270px;z-index:300;position:absolute;border:1px solid #000000; cursor:default;display:none;visibility:hidden;background-color:white;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td align="left" height="30">&nbsp;<strong><font style="font-family:arial;font-weight:bold;font-size:13pt;color:#556f86;text-align:left;">&nbsp;Please choose a currency :</font></strong></td>
+	<td align="right" height="30" valign="top"><div style="margin-top:5px;"><img src="/gfx/ico_close.gif" onclick="javascript:document.getElementById(document.getElementById('popup_id').value).value = document.getElementById('popup_value').value;close_popup();" style="cursor:hand;cursor:pointer;">&nbsp;</div></td>
+	</tr>
+	<tr>
+	<td align="left">
+
+	<div style="padding-left:15px;padding-top:5px;width:250px;text-align:center;">
+		<form name="currencies_form" id="currencies_form"><select id="popup_select_currencies" name="popup_select_currencies" size="5" style="width:220px;height:120px;" ondblclick="popup_select_currency();"></select></form>
+		<script type="text/javascript" src="/scripts/currency_rebuild.js"></script>
+		<center>
+			<table>
+			<tbody><tr>
+				<td>
+					<div tabindex="1" class="btnLeftBlueBack" id=""><div class="btnRightBlueBack"><div class="btnInnerBlueBack">Cancel</div></div></div>
+				</td>
+				<td>&nbsp;</td>
+				<td>
+					<div tabindex="1" class="btnLeftBlue" id=""><div class="btnRightBlue"><div class="btnInnerBlue">Continue</div></div></div>
+				</td>
+			</tr></tbody></table>
+		</center>
+	</div>	
+	
 		</td>
-		</tr>
-		<tr class="print_hide">
-			<td style="height:27px"><img src="gfx/footer.gif" width="780" height="27" alt=""></td>
-		</tr>
-		<tr class="print_hide">
-			<td class="footer">
-				  	
-				  <div class="menu_bottom"><a href="/">Home</a> &nbsp;
-				  |&nbsp; <a href="about.php">About Us</a> &nbsp;
-				  |&nbsp; <a rel="nofollow" href="view_content.php?id=622">User Agreement</a> &nbsp;
-				  |&nbsp; <a rel="nofollow" href="view_content.php?id=626">Privacy Policy</a> &nbsp;
-<!--				  |&nbsp; <a href="site_map.php">Site Map</a> &nbsp;-->
-				  |&nbsp; <a href="help.php">Help</a> &nbsp;
-				  |&nbsp; <a rel="nofollow" href="contact.php">Contact Us</a></div>
-				  <!--<div style="margin-top: 10px; margin-bottom: 7px"><a href="#" onClick="return showHelpful();">Was this page helpful?</a></div>
-				  <div align="center" id="id_helpful" style="display:none;">
-					  				  </div>
-				  -->
-				  	<div style="margin-top: 10px; margin-bottom: 7px">
-				  		Current MedWOW Time (GMT): <b>Sunday, February 22nd 2009, 10:48</b> &nbsp;					</div>
-					Use of this website constitutes acceptance of the MedWOW <a rel="nofollow" href="view_content.php?id=622">User Agreement</a>&nbsp;and <a rel="nofollow" href="view_content.php?id=626">Privacy Policy</a>. 					<br><br>
-					<div style="width:680px;">
-					© 2009. All rights reserved, MedWOW Ltd. The leading global marketplace for used medical equipment, medical devices, medical equipment dealers, medical suppliers and companies, medical instruments auctions, offering comprehensive information and professional services for buying and selling secondhand medical devices, parts and accessories.
-					</div>
-
-			</td>
-		</tr>
+	</tr>
 	</tbody></table>
-<map name="map_header" id="map_header"> 
-  <area shape="rect" rel="nofollow" coords="455,0,545,35" href="mymedwow.php" alt="My MedWOW" title="My MedWOW"> <!--My MedWOW-->
-  <area shape="rect" coords="365,0,455,35" href="services.php" alt="Services" title="Services"> <!--Services-->
-    <!-- alexey changed link in next line <area shape="rect" coords="275,0,365,35" href="/sale_offer_mgr.php?actions=sale_form" alt="Sell" title="Sell"/> Sell--> 
-  <area shape="rect" coords="275,0,365,35" href="/sale_welcome.php" alt="Sell" title="Sell"> <!--Sell--> 
-  <area shape="rect" coords="185,0,275,35" href="/browse.php?ViewType=1&amp;ItemType=1" alt="Buy" title="Buy"> <!--Browse--> 
-  <area shape="rect" coords="95,0,185,35" href="/" alt="Home" title="Home"> <!--Home-->
-  </map>
-
-</div>
-<script language="JavaScript"><!--
-agent_dom = 24398001; //-->
-</script>
-<script language="JavaScript" src="http://stats.agentinteractive.com/stats.js" type="text/javascript"></script>
-
-
+	</div>
 	
-	
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "8326867",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
-	
-	<!--BEGIN GOOGLE ANALYTICS CODE -->
-	<script type="text/javascript">
+<!-- BEGIN LivePerson Monitor. -->
+<script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "8326867",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
+<!-- END LivePerson Monitor. -->
+
+<!--BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-3731214-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-	</script>
-	<!--END GOOGLE ANALYTICS CODE -->
-	<div id="show" style="position:absolute;left:0;top:0;background-color:#ffff00;">
-</div>
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-8548183-2");
+		//pageTracker._setAllowLinker(true);
+		//pageTracker._setDomainName("none");
+		
+		pageTracker._trackPageview();
+	
+	} catch(err) {}
+</script>
+<!--END GOOGLE ANALYTICS CODE -->
 
 
 
 
-</body></html>
+</div><style>.ACL_selected {padding:3px;height:18px;line-height:18px;overflow-y:hidden;background-color:#59A910;cursor:pointer;color: #fff}
+.ACL_unselected{padding:3px;line-height:18px;height:18px;overflow-y:hidden;background-color: #fff;cursor:pointer;color: #666}</style></body></html>
