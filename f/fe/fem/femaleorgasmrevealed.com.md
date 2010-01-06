@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503104403id_/http%3A//www.femaleorgasmrevealed.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106051200id_/http%3A//www.femaleorgasmrevealed.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # The Female Orgasm Revealed - Privacy Policy
 
@@ -28,4 +28,4 @@ We can be reached by contacting:
 
 www.femaleorgasmrevealed.com
 
-Email: support@porteglobalpublishing.com
+Email: support@portepublishing.com
