@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetbollywood.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009105305id_/http%3A//www.indolink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetbollywood.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106082142id_/http%3A//www.indolink.com/privacy.html) for the most accurate reproduction.*
 
 # INDOlink - Privacy Policy
 
