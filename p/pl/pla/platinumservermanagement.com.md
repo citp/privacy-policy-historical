@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724035137id_/http%3A//www.platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106111731id_/http%3A//www.platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
 
 # Platinum Server Management, Inc.
 
@@ -17,8 +17,6 @@ If you purchase a service from us, we request certain personally identifiable in
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at sales@platinumservermanagement.com 
-
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
 
@@ -70,7 +68,7 @@ Contact information provide by you may be accessed and updated by simply sending
 If you have questions or wish to send comments about this Privacy Policy, please send an e-mail with your questions or comments to sales@platinumservermanagement.com or write to: 
 
 _Platinum Server Management, Inc._  
-PO Box 442,  
+PO Box 441,  
 Edgewater, NJ 07020
 
 Please be assured that any personal information that you provide in communications to the above email and mailing addresses will not be used to send you promotional materials, unless you so request. 
