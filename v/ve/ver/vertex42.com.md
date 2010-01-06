@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426094306id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106025428id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
@@ -40,4 +40,4 @@ We do not knowingly collect personal information from children under the age of 
 
 Check out the FTC's site  for more tips on protecting children's privacy online.
 
-Contacting Us: We can be reached [via email](https://web.archive.org/web/20090426094306id_/http%3A//www.vertex42.com/about.html)
+Contacting Us: We can be reached [via email](https://web.archive.org/web/20100106025428id_/http%3A//www.vertex42.com/about.html)
