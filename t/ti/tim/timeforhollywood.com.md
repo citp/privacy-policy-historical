@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforhollywood.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909151751id_/http%3A//www.timeforhollywood.com/page/3/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforhollywood.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106065654id_/http%3A//www.timeforhollywood.com/page/3/privacy_policy) for the most accurate reproduction.*
 
 # Time For Hollywood - Time 4 Hollywood - Privacy Policy
 
