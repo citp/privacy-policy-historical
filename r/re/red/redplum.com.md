@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120125735id_/http%3A//www.redplum.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redplum.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106045631id_/http%3A//www.redplum.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # RedPlum: Privacy Policy
 
