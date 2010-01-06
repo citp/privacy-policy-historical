@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetspark.com privacy policy that was archived on 2008-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080909210517id_/http%3A//www.dotnetspark.com/TOS/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspark.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106150058id_/http%3A//www.dotnetspark.com/TOS/Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,3 +28,7 @@ As we continue to develop and grow our web site, we may sell dotnetspark.com or 
 
 **Disclaimer**   
 Information on this web site may contain inaccuracies or typographical errors or sometimess not standard. Any contents of the website may be subject to change or update or delete without any notice. dotnetspark.com will not be liable for any kind of loss due to any information provided here and no claim will be entertained in any case. 
+
+**Contest and Prizes**
+
+www.dotnetspark.com may start or stop contests and prizes without any prior notification. The winners of contest and prizes are selected based on the their number and quality of submissions, contents usefulness, readers feedback, www.dotnetspark.com Team member decision and other factors. www.dotnetspark.com reserves all the rights to determine which entries are winners as well as to cancel the contest or prizes without any prior notice. dotnetspark.com will try to send winner prizes as soon as possible. Further terms and conditions of Contests and Prizes are published with its notification and that applies for that contests, if any.
