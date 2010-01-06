@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curbed.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216103614id_/http%3A//identity.curbed.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curbed.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106080716id_/http%3A//identity.curbed.com/privacy_policy) for the most accurate reproduction.*
 
-# Curbed : The New York City neighborhoods and real estate blog
+# Curbed NY : The New York City neighborhoods and real estate blog
 
 Curbed.com LLC (the "Company") greatly values the privacy of its readers and contributors (collectively, the "Users") and is committed to protecting that privacy. We do not share our Users’ personal information unless the User specifically authorizes us to do so or we are required to do so by law. The following statement discloses our information collection and dissemination policies in greater detail. This privacy policy covers all of the Curbed.com LLC sites and related services (collectively, the "Sites") provided to you. Please read all of the terms below carefully before using any of the Sites. Your use of the Sites indicates your agreement to abide by the terms in effect.
 
@@ -59,3 +59,13 @@ Whenever we change our privacy policy, we will post those changes to this privac
 ### How to Contact Us
 
 If you have any questions, concerns, or suggestions regarding our privacy policy, please drop us a line at [help@curbed.com](mailto:help@curbed.com). You may also reach us by mail at Curbed.com LLC, 36 Cooper Square, New York, NY, 10003. 
+
+### Log in via Facebook
+
+### Return from whence you came
+
+Manhattan
+
+Brooklyn
+
+Queens
