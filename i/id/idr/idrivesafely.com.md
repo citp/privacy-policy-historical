@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018181926id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106152350id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
 # Online Defensive Driving, Traffic School, & More
 
@@ -65,8 +65,8 @@ If, however, we are going to use users' personally identifiable information in a
 **Corporate Office**
 
 I DRIVE SAFELY, L.L.C.  
-294 La Moree Road  
-San Marcos, CA 92078  
+5770 Armada Drive, Suite 200  
+Carlsbad, CA 92008  
 760.744.3070
 
 "Privacy Policy last updated August 19, 2009" 
