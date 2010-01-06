@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the forex-megadroid.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806084356id_/http%3A//forex-megadroid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-megadroid.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106080122id_/http%3A//www.forex-megadroid.com/privacy.html) for the most accurate reproduction.*
 
-# Forex MegaDroid
+# Forex Megadroid
 
 **1\. Acknowledgement and acceptance of terms**  
-The Forex MegaDroid team is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing http://www.forex-megadroid.com, you acknowledge and fully understand the http://www.forex-megadroid.com Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+The Forex Megadroid team is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing http://www.forex-megadroid.com, you acknowledge and fully understand the http://www.forex-megadroid.com Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 **2\. Participating Merchant Policies**  
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in http://www.forex-megadroid.com’s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or content of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
