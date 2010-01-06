@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831113303id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106112024id_/http%3A//www.construction.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # McGraw-Hill Construction Privacy Notice
 
 McGraw-Hill Construction Privacy Notice
 
-**Updated July 23, 2009**
+**Updated October 15, 2009**
 
 When you register on one of our web sites, your personal contact information provided on the registration form (including your name, e-mail address, and fax) is added to an electronic mailing list so that we can fulfill your order and, from time to time, send you product information or news about changes to our web site. In addition, McGraw-Hill Construction may share this data collected about subscribers with:
 
   * Other units within the family of The McGraw-Hill Companies; 
-  * Third party vendors who are authorized to use this information solely to perform services (such as a “mailing” house) on our behalf
+  * Third party vendors who are authorized to use this information solely to perform services (such as a “mailing” house) on our behalf 
   * Companies outside The McGraw-Hill Companies whose products or services we feel may be of interest to you; 
   * Applicable project owners and architects so that they can monitor use of their intellectual property rights in the applicable plans and specifications; 
-  * Companies outside The McGraw-Hill Companies for purposes of lead generation.  These may include sponsors of our Continuing Education courses, manufacturers of products you demonstrate interest in throughout our Web sites or other businesses who may contact you based on a listing in a directory published by McGraw-Hill Construction that includes your contact information. 
+  * Companies outside The McGraw-Hill Companies for purposes of lead generation.  These may include sponsors of our Continuing Education courses and white papers, manufacturers of products you demonstrate interest in throughout our Web sites or other businesses who may contact you based on a listing in a directory published by McGraw-Hill Construction that includes your contact information. 
 
 
 
@@ -36,11 +36,12 @@ Customers may choose not to accept cookies. Your Web browser may alert and permi
 
 If you do not wish to have your information shared as previously described, if you wish to review the accuracy of the information you have provided or if you have any questions about our privacy practices, please send us an email or written note with your name, address and account number to:
 
-> **Amy Sidelinger**  
+>  **Amy Sidelinger**  
 >  Privacy Officer  
 >  McGraw-Hill Construction  
 >  148 Princeton-Hightstown Rd  
->  Hightstown, NJ 08520
+>  Hightstown, NJ 08520  
+> 
 
 [Construction_Privacy_Policy@mcgraw-hill.com](mailto:Construction_Privacy_Policy@mcgraw-hill.com)  
 If you want to prevent a third-party advertising companies from sending and reading cookies on your computer, you can opt-out of tracking by individual ad networks.  Many of the ad networks that we work with provide a simple opt-out through the [Network Advertising Initiative (NAI) website](http://www.networkadvertising.org/managing/opt_out.asp).  For those not participating in the NAI opt-out system, you can visit the ad network’s Web site in order to opt-out:
@@ -50,4 +51,5 @@ If you want to prevent a third-party advertising companies from sending and read
 
 
 
-Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect your privacy. To that end, The McGraw-Hill Companies has developed a comprehensive privacy policy. For more information about The McGraw-Hill Companies' Customer Privacy Policy, see [www.mcgraw-hill.com/privacy.html](http://www.mcgraw-hill.com/privacy.html). For a complete listing of The McGraw-Hill Companies' premium brands, visit our Web site at [www.mcgraw-hill.com](http://www.mcgraw-hill.com/).
+Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect your privacy. To that end, The McGraw-Hill Companies has developed a comprehensive privacy policy. For more information about The McGraw-Hill Companies' Customer Privacy Policy, see [www.mcgraw-hill.com/privacy.html](http://www.mcgraw-hill.com/privacy.html). For a complete listing of The McGraw-Hill Companies' premium brands, visit our Web site at [www.mcgraw-hill.com](http://www.mcgraw-hill.com/).  
+
