@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlive.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328063746id_/http%3A//www.onlive.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlive.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107000615id_/http%3A//www.onlive.com/legal/privacy.html) for the most accurate reproduction.*
 
 # OnLive: Privacy Policy
 
