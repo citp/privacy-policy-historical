@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrydefender.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044443id_/http%3A//www.registrydefender.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrydefender.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106112722id_/http%3A//www.registrydefender.com/privacy.asp) for the most accurate reproduction.*
 
 # Registry Defender: Privacy Policy
 
@@ -36,7 +36,7 @@ We employ other companies and individuals to perform certain functions on our be
 
 ## Third-party Advertising
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to be removed from any 3rd party advertising and solicitation through E-mail, telemarketing, or direct mail please send your request to info@registrydefender.com or simply go to http://www.registrydefender.com/email.asp and enter the email address you would like removed.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to be removed from any 3rd party advertising and solicitation through E-mail, telemarketing, or direct mail please send your request to info@registrydefender.com or simply go to http://www.registrydefender.com/email.aspx and enter the email address you would like removed.
 
 ## Cookies
 
