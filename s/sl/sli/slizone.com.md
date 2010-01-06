@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804164935id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106022120id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
-# NVIDIA Privacy Policy
+# None
 
 This policy was last updated on July 1, 2009.
 
