@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801065008id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106111724id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LawInfo.com
 
