@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815061642id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106115349id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
 
 # Writing.Com: Our Privacy Statement
 
