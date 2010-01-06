@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180006id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106024148id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Piano World
 
@@ -52,7 +52,7 @@ Privacy Policy - Piano World
 > 
 > Questions or comments? 
 > 
-> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20090616180006id_/http%3A//www.pianoworld.com/contact.htm) us. 
+> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20100106024148id_/http%3A//www.pianoworld.com/contact.htm) us. 
 > 
 > Purchase Policy 
 > 
