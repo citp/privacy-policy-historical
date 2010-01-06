@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329225020id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106043743id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
-# ARTFACT.COM : Find, Price & Research Antiques and Fine Art
+# Artfact: Online Live Auctions & Auction Price Results
 
 **ARTFACT PRIVACY POLICY**
 
-Artfact, LLC (“Artfact”) is a Delaware Limited Liability Company based in Newton, Massachusetts.  Artfact provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
+Artfact, LLC (“Artfact”) is a Delaware Limited Liability Company based in Allston, Massachusetts.  Artfact provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
 
 Our policies have been developed with the recognition that Internet technologies and underlying business models are rapidly evolving.  Accordingly, our policies are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect, and registered users will be notified as appropriate.
 
@@ -120,8 +120,8 @@ Artfact, LLC
 
 Attention: William M. Peverill
 
-2 Newton Place 
+38 Everett Street, Suite 101 
 
-Newton, MA 02458.
+Allston, MA 02134.
 
-This policy document 1.70 was last revised February 1, 2008.
+This policy document 1.80 was last revised June 8, 2009.
