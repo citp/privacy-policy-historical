@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417150800id_/http%3A//www.ebates.com/privacy_policy.htm%3Fnavigation_id%3D18571) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106121823id_/http%3A//www.ebates.com/privacy_policy.htm%3Fnavigation_id%3D18571) for the most accurate reproduction.*
 
 # Ebates Privacy Agreement
-
-Privacy Policy
 
 Ebates was founded by two former Deputy District Attorneys who take privacy and security very seriously. We at Ebates know that these issues are essential to making this site a success for us and our members. Rest assured that privacy, security and integrity are first and foremost at Ebates.
 
@@ -71,7 +69,7 @@ Ebates requires its members to have cookies enabled in order to accumulate cash 
 
 Periodically we may send you emails on new features or special offers. On every one of these emails you will be given the choice to unsubscribe from Ebates’ promotional mailings. Simply follow the directions in any of our emails.
 
-It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your[account page](https://web.archive.org/myebates.htm) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including for sending you cash back payments. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
+It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your [account page](https://web.archive.org/myebates.htm) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including for sending you cash back payments. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
 
 We will post all changes to this Privacy Agreement here at our site. You are responsible for checking periodically on policy updates.
 
