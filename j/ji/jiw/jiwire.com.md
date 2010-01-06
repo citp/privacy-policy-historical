@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806082734id_/http%3A//www.jiwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106160826id_/http%3A//www.jiwire.com/privacy) for the most accurate reproduction.*
 
 # JiWire. The Leading Mobile Audience Media Channel & Wi-Fi Advertising Network
 
