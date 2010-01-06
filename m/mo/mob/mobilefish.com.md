@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefish.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206050446id_/http%3A//www.mobilefish.com/legal/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefish.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106014613id_/http%3A//mobilefish.com/legal/privacy/privacy.html) for the most accurate reproduction.*
 
 # Mobilefish.com - Information about privacy policy.
 
@@ -43,4 +43,4 @@ Mobilefish.com is primarily using Google Adsense to serve ads. Google AdSense se
   
 Mobilefish.com hates spam, junk mail, and unwanted advertisements just as much as you. What i am saying is that i know what it's like and consider spam a horrible way to promote a website and would therefore never do it myself or help any other site to do it. In fact i recommend you to join project [Honey Pot](http://www.projecthoneypot.org/?rf=43013) to identify spammers and the spambots they use to scrape addresses from websites.
 
-[](https://web.archive.org/web/20091206050446id_/http%3A//www.mobilefish.com/legal/privacy/rss.xml)
+[](https://web.archive.org/web/20100106014613id_/http%3A//mobilefish.com/legal/privacy/rss.xml)
