@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babelgum.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909055358id_/http%3A//www.babelgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babelgum.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106140040id_/http%3A//www.babelgum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Babelgum
 
