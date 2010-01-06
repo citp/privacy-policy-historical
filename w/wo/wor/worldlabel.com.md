@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlabel.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228054509id_/http%3A//www.worldlabel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlabel.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106021134id_/http%3A//www.worldlabel.com/privacy.htm) for the most accurate reproduction.*
 
 # WorldLabel.com's Privacy Policy
 
@@ -30,4 +30,4 @@ Providing a secure shopping environment is one of Worldlabel.com's highest prior
 
 How to Contact Worldlabel.com
 
-If you have any questions or concerns regarding purchasing online, please feel free to call us and speak with a customer service representative directly to place your order. We can be reached from **9am - 9pm EST** at 1-866-226-8669 or by filling out a [support request](https://secure.worldlabel.com/Support/SupportRequest.aspx).
+If you have any questions or concerns regarding purchasing online, please feel free to call us and speak with a customer service representative directly to place your order. We can be reached from **9am - 9pm EST** at 1-877-955-2235 or by filling out a [support request](http://www.worldlabel.com/Pages/pagecontact.htm).
