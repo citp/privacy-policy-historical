@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artipot.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409144722id_/http%3A//artipot.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artipot.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106113458id_/http%3A//www.artipot.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Artipot Privacy Policy
 
 **Artipot Privacy Policy**
 
-July 19, 2007
+June 3, 2009
 
 At Artipot we take your privacy seriously. This policy covers how Artipot treats personal information that is collected and received when you interact with our site or use our services.
 
@@ -30,6 +30,10 @@ Artipot does not sell, trade, or rent personal information about you with other 
 **Cookies**
 
 Artipot uses cookies to improve the quality of our service by storing user preferences. You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, refuse certain cookies, or decline cookies completely. However, some Artipot features and services may not function properly if your cookies are disabled.
+
+**Third-Party Ad Networks**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Confidentiality and Security**
 
