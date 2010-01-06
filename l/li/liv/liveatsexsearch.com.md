@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveatsexsearch.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019045421id_/http%3A//www.liveatsexsearch.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveatsexsearch.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106194601id_/http%3A//www.liveatsexsearch.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy Policy - LiveAtSexSearch
+# LiveAtSexSearch - Privacy Policy
 
 [Home](http://www.liveatsexsearch.com/) / Privacy Policy
 
