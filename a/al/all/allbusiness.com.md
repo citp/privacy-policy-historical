@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211194212id_/http%3A//www.allbusiness.com/2984776-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106090307id_/http%3A//www.allbusiness.com/2984776-1.html) for the most accurate reproduction.*
 
 # AllBusiness Privacy Policy
 
