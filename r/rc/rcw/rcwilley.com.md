@@ -1,25 +1,48 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012500id_/http%3A//www.rcwilley.com/Privacy.soa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106114042id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
 
-# RC Willey Home Furnishings
+# RC Willey Home Furnishings - Furniture, Electronics, Appliances, Mattresses and Flooring in Utah, Idaho, Nevada and California
 
-Privacy Policy 
+**What Information do we collect?**
 
-We at R.C. Willey hold the privacy of our visitors and customers in the highest regard. In the following sections, we hope to answer all of your questions regarding the information we collect, how we use that information, and the control you have over your information. 
+We may collect **personally identifiable information** (ex: your full name, email address, mailing address, telephone number, or credit card number) from you when you voluntarily provide us this information. This information allows us to process and fulfill your order, notify you of your order status, and to provide you with services that will make your transactions with us easier in the future. We may also collect personally identifiable information from you if you choose to subscribe to our Online Shoppers Club, or participate in contests, and surveys, or in connection with content or reviews you post on our web site.
 
-We collect two types of information about you, personally identifiable information and non-personally identifiable information, both of which are controllable by you.
+We also collect **non-personally identifiable information** , which relates to the information associated with your computer’s interaction with our Web server, such as browser types, domain names and IP addresses.  This data is collected automatically and utilized to help us look for trends to improve our web site. This information allows us to recognize you when you return to our web site and to provide you with a customized experience that will be of value to you. The information stored on your computer by our web site does not contain any personally identifying information, such as your name, or sensitive information, such as your credit card number.
 
-The personally identifiable information we collect relates to information that you willingly provide to us such as name, address, and other account information necessary to process a transaction or survey. R.C. Willey also offers its customers an online Shopper's Club. This Shopper's Club is an opt-in Shopper's Club, meaning customers only receive emails and information if they sign up to receive it. Of course, just as customers can opt-in to the Shopper's Club, customers can also opt-out.
+**Who do we Share this information with?**
 
-The non-personally identifiable information we collect relates to the information associated with your computer's interaction with our Web server such as browser types and IP addresses. Such information is typically used in aggregate form. This information allows us to analyze Web site usage and, subsequently, improve our site, your browsing and shopping experience, and our offerings to you. 
+**RC Willey does not rent, sell, or share your personally identifiable information with third parties** (other than regulatory authorities and law enforcement officials in accordance with applicable laws.) The only party that may gain access to some of your information is Pay Pal, the company we employ to authorize and process all of our credit card transactions.  Your safety and privacy are important to us.  In order to ensure the confidentiality and security of your personal information, we use the latest web technologies to provide you with a safe and private online experience. 
 
-**R.C. Willey does not exchange, rent, reveal or sell personally identifiable information about its customers to any third parties** (other than regulatory authorities and law enforcement officials in accordance with applicable laws). At the same time, we work diligently to protect your information and seek to use the latest web technologies to provide you with a safe and private online experience.
+**What if you have more Questions?**
 
-With regard to your purchases, we utilize your personal information only in an effort to fulfill the sale and delivery of the product or service purchased and to track aggregate information pertaining to sales and marketing. With regard to our Shopper's Club, we utilize your information only in an effort to fulfill the distribution of our Shopper's Club.
+** ** If you would like to inquire or update your personal information or voice complaints about RC Willey’s Privacy practices, please contact our Corporate Credit Department.
 
-With regard to non-personal information such as IP address, we, as stated above, use this information in aggregate form in order to analyze the usage of our Web site and to improve upon your customer experience.
+**Toll-Free-Billing:** 1-877-315-0183
 
-With regard to personally identifiable information, you have the option to remove all such information or discontinue your participation in our Shopper's Club. This can be accomplished by making the appropriate changes within your online account or by responding to our Shopper's Club using the appropriate method.
+**Phone:** 1-800-461-3900
 
-With regard to non-personally identifiable information, there are software programs available that can assist you in establishing a more 'anonymous' presence on the Internet. 
+**E-mail:** [privacymanager@rcwilley.com](mailto:privacymanager@rcwilley.com)
 
-If we have not sufficiently addressed your questions or you have additional questions, please contact us.
+**Regular Mail:**
+
+RC Willey Corporate
+
+Attn: Website Privacy Manager
+
+2301 S. 300 W.
+
+Salt Lake City, UT  84115
+
+**California** **Privacy Act**
+
+Due to Section 1798.83 of the California Civil Code, if you are a California Resident and Customer of RC Willey, you have the right to request information regarding how RC Willey shares certain categories of your personal information with third parties for the third parties’ direct marketing purposes. 
+
+California Law states that you are entitled to submit a request to RC Willey and receive the following information:
+
+A list of categories of your personal information that RC Willey shared with third parties’ for the third parties’ direct marketing purposes during preceding calendar year.
+
+  1. Names and addresses of all the third parties that received said information
+  2. Examples of the products or services marketed by such Third Parties if the nature of the third parties’ business cannot reasonably be determined from their name.
+
+
+
+Please submit such requests to [privacymanager@rcwilley.com](mailto:privacymanager@rcwilley.com)
