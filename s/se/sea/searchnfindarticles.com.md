@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the searchnfindarticles.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020083707id_/http%3A//www.searchnfindarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnfindarticles.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106044734id_/http%3A//www.searchnfindarticles.com/privacy.php) for the most accurate reproduction.*
 
-# Free Article | Find Articles | Submit Article | Article Directory
+# Search N Find Articles | Privacy Statement
+
+**Search N Find Articles Privacy Policy**
+
+  
+We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
@@ -9,7 +14,18 @@
 
 **1\. Personal Information You Choose to Provide**
 
- **How Do We Use the Information That You Provide to Us?  
+>  **Registration Information**  
+>  When you register for any of our products, services or newsletters you will provide us information about yourself. 
+> 
+> **Email Information**  
+>  If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+
+**2\. Web Site Use Information  
+**
+
+> Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+
+**How Do We Use the Information That You Provide to Us?  
 **Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
 
 Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. 
@@ -48,3 +64,6 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Policy Modifications  
 **We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
+
+  
+
