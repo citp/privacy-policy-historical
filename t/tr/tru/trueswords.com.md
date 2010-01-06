@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028111054id_/https%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106163913id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
 
 # True Swords - Samurai Swords, Full Tang, Real Blades, Movie, Anime, Video Game, & Manga Replicas
 
