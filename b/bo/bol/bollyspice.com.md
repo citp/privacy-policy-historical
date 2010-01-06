@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyspice.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429071400id_/http%3A//www.bollyspice.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyspice.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106054010id_/http%3A//www.bollyspice.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Bollywood Spice - Privacy Policy
 
