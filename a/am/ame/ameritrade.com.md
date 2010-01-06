@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameritrade.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822071322id_/http%3A//www.tdameritrade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameritrade.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106072121id_/http%3A//www.tdameritrade.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - TD AMERITRADE - Use and Protection of Client Information
 
