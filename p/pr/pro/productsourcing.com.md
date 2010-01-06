@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productsourcing.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901185405id_/http%3A//www.productsourcing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productsourcing.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106010734id_/http%3A//www.productsourcing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProductSourcing.com
 
