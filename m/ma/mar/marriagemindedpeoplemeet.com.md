@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriagemindedpeoplemeet.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912231823id_/http%3A//www.marriagemindedpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagemindedpeoplemeet.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106133743id_/http%3A//www.marriagemindedpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # MarriageMindedPeopleMeet.com - Privacy Policy
 
@@ -48,16 +48,16 @@ Cookies may be used to manage your sessions on this website and to properly segr
 
 **Opt-Out Ability.**
 
-We provide you the opportunity to opt out at any time of receiving marketing communications from us or our partners and affiliates or of other marketing arrangements that we may add from time to time. You can accomplish this through your Account Profile. Simply click on [Edit Alerts] under your Account Profile and follow the directions for opting-out of the identified marketing programs. Notwithstanding your choice to opt-out of certain marketing communications, we (including our parent and affiliated companies) reserve the right to send you certain communications regarding the Services and your subscription to the Services.
+We provide you the opportunity to opt out at any time of receiving marketing communications from us or our partners and affiliates or of other marketing arrangements that we may add from time to time. You can accomplish this through your Account Profile. Simply click on Edit Alerts under your Account Profile and follow the directions for opting-out of the identified marketing programs. Notwithstanding your choice to opt-out of certain marketing communications, we (including our parent and affiliated companies) reserve the right to send you certain communications regarding the Services and your subscription to the Services.
 
 As discussed above, we (including our parent or affiliated companies) may use third-party advertising companies to serve ads. These companies may use Aggregate Information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/consumer/opt_out.asp).
 
-As discussed in the "Public Availability of User Profile Information" section above, in the event we elect to make your profile available to Internet search engines, you will have the opportunity to opt out at any time of allowing us to make your profiles available to Internet search engines. You can accomplish this through your Account Profile. Simply click on [Edit Alerts] under your Account Profile and follow the directions for opting-out of allowing access to your profiles by Internet Search Engines. To the extent that you have allowed your profiles to be made available to Internet search engines at any time, you acknowledge and agree that your profile information may be stored or cached on third party servers, and we have no ability to cause or require such third parties to delete such information.
+As discussed in the "Public Availability of User Profile Information" section above, in the event we elect to make your profile available to Internet search engines, you will have the opportunity to opt out at any time of allowing us to make your profiles available to Internet search engines. You can accomplish this through your Account Profile. Simply click on "My Account" after signing in, click the "Edit" button under "Preferences" and follow the directions for opting-out of allowing access to your profile via the MarriageMindedPeopleMeet.com Extended Network. To the extent that you have allowed your profile to be made available to Internet search engines at any time, you acknowledge and agree that your profile information may be stored or cached on third party servers, and we have no ability to cause or require such third parties to delete such information.
 
 **Age Requirements.**
 
 The website is a general audience website and is intended to be used by adults interested in the Services. You must be at least 18 years of age to use this website and/or the Services. We do not knowingly solicit, collect or use Personally Identifiable Information or other contact information about visitors under 18 years of age.
 
-This Policy was last updated on August 6, 2009.
+This Policy was last updated on October 21, 2009.
 
-Copyright © 2000-2009 People Media L.L.C. All rights reserved.
+Copyright © 2000-2010 People Media L.L.C. All rights reserved.
