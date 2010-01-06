@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221070919id_/http%3A//www.readersdigest.co.uk/privacy-policy-i-19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106070630id_/http%3A//www.readersdigest.co.uk/privacy-policy-i-19.html) for the most accurate reproduction.*
 
 # Magazines, Books, DVDs and CD's | Reader's Digest UK
 
