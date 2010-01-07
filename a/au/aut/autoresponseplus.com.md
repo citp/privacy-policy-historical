@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230006id_/http%3A//www.autoresponseplus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107022055id_/http%3A//www.autoresponseplus.com/privacy.php) for the most accurate reproduction.*
 
 # Follow Up Autoresponder and Mailing List Software - AutoResponse Plus
 
@@ -22,4 +22,4 @@ When you enter our web site we may use cookies. Cookies are small pieces of info
 
 These cookies do not store any personal details relating to you or your Pay Pal account. If you do not wish to receive cookies you must not use this web site.
 
-If you have any questions about privacy, please [contact us](https://web.archive.org/web/20091230230006id_/http%3A//www.autoresponseplus.com/contact.php).
+If you have any questions about privacy, please [contact us](https://web.archive.org/web/20100107022055id_/http%3A//www.autoresponseplus.com/contact.php).
