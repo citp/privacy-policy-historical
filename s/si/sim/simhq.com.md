@@ -1,34 +1,27 @@
-> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225105300id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107185401id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
 
-# SimHQ.com - About Us
+# SimHQ
 
-About SimHQ
+About Us
 
-Click on a bookmark link below to jump to that section:
-
-Site History
-
-Staff Biographies
-
-The SimHQ Pledge to Our Readers
-
-The SimHQ Privacy Statement of Policy
-
-Forum Registration and Use Agreement
-
+Site History  
+Staff Biographies  
+The SimHQ Pledge to Our Readers  
+The SimHQ Privacy Statement of Policy  
+Forum Registration and Use Agreement  
 Frequently Asked Questions
 
 * * *
 
 Site History
 
-Since 1997, SimHQ has existed for one purpose... providing the simulation community with the best articles, news, message boards, and tips to make our common passion more enjoyable. What started out as one man’s personal website has quickly risen to become the community’s leader for sim information.
+Since 1997, SimHQ has existed to provide the simulation community with the best articles, news, message boards, and tips to make our common passion more enjoyable. What started out as one man’s personal website has quickly risen to become the community’s leader for sim information.
 
-This didn’t happen by accident… it took dedicated volunteers, the support of our readers, and a continuing desire to be the best. If you’re new to SimHQ, take a look at our Staff Bios. Here you’ll see one of the things that set us apart. Many of our writers not only have “been there and done that” around the world, but continue pushing the envelope today. They are our inspiration and our ‘reality check’ that we are, after all, gaming, but their deep knowledge of the topics they write about shines through in their articles.
+This didn’t happen by accident… it took dedicated volunteers, the support of our readers, and a continuing desire to be the best. Many of our writers not only have “been there and done that” around the world, but continue pushing the envelope today. They are our inspiration and our ‘reality check’ that we are, after all, gaming, but their deep knowledge of the topics they write about shines through in their articles.
 
 Another ‘SimHQ difference’ is our technical knowledge. We’re all tinkerers…the kind of people who understand what makes our PCs tick, and who always seek to make our sims run the fastest, most stable, and with the highest quality that it can. Several of our staff either currently work for the world’s leading technology companies, or have in the past. We’re the best of both worlds…a site focused on simulations, but deeply interested in the hardware that makes it happen.
 
-Lastly, SimHQ staff are here for a simple reason….the freedom to tell it like it is. Many of us have written for other commercial or fan sites, and the experience hasn’t always been a good one. That desire to be accurate, truthful, and respectable comes through in any of our articles, and it’s the core of our Pledge to our Readers. Check the pledge out, and think about it the next time you’re reading an article trying to decide whether to spend your hard-earned money on a software title or piece of hardware. We mean what we say, and for good reason.
+Many of us have written for other commercial or fan sites, and the experience hasn’t always been a good one. That desire to be accurate, truthful, and respectable comes through in any of our articles, and it’s the core of our Pledge to our Readers. Check the pledge out, and think about it the next time you’re reading an article trying to decide whether to spend your hard-earned money on a software title or piece of hardware. We mean what we say, and for good reason.
 
 If you’re a long-time SimHQ reader, you already know all of this, and hopefully have seen it in action. If you’re new to our site, welcome, and thanks for choosing us. Be sure to read our Frequently Asked Questions (FAQ) page to learn more about the history and current operations of the site, and please drop us a line if you have any suggestions, comments, or questions!
 
@@ -36,8 +29,7 @@ Click here to go to top of this page.
 
 * * *
 
-The SimHQ Staff  
-
+SimHQ Staff
 
 | 
 
@@ -49,42 +41,28 @@ Forums Manager
 Tom "20mm" Hayden
 
 Assistant Forums Manager  
-Jay "Weasel Keeper" Jenkins  
-(Note: Jay is on leave of absence  
-moving to a new home)
+Jay "Weasel Keeper" Jenkins
 
-Downloads Manager  
-David "Stormtrooper" Tessier
-
-Administrators  
+Contributing Editors  
 Chuck "PFunk" Bellows  
 Dan "Chipwich" Blake  
 "Cat"  
 "Chunx"  
 Tom "WKLINK" Cofield  
-"dude163"  
 "Electra"  
-"*Panther*"  
-"Sandbagger"
-
-Custodian  
-Doug "guod" Atkinson
+Ken "531 Ghost" King  
+Mike "Sandbagger" Norris  
+"*Panther*"   
+David "Stormtrooper" Tessier
 
 | 
 
 Aviation & Air Combat Editors  
-Frank "Dart" Giger  
-Ken "531 Ghost" King
-
-Chris "BeachAV8R" Frishmuth  
-(Note: Chris is on leave of absence  
-catching-up on personal stuff)
+Frank "Dart" Giger   
+Chris "BeachAV8R" Frishmuth
 
 Land & Armor Combat Editor  
 Chuck "Magnum" Ankenbauer
-
-Naval Combat Editor  
-Tom "NightCrawler" Mauk
 
 Motorsports Editor  
 Jens "McGonigle" Lindblad
@@ -92,11 +70,11 @@ Jens "McGonigle" Lindblad
 Technology Editor  
 Joe Keefe
 
-Hardware Editor  
-John Reynolds
-
 Console Simulations Editor  
-Chuck "Magnum" Ankenbauer  
+Chuck "Magnum" Ankenbauer
+
+Senior Editor (and Custodian)   
+Doug "guod" Atkinson  
   
 ---|---  
   
@@ -104,8 +82,7 @@ Click here to go to top of this page.
 
 * * *
 
-The SimHQ Pledge to Our Readers  
-
+The SimHQ Pledge to Our Readers
 
   * SimHQ has never and will never force one of its writers to change an article due to commercial pressure or the desire to please / recruit an advertiser. Articles written by SimHQ staff will be edited for clarity and grammar only. All writers have the final approval and edits of their articles.
   * SimHQ has never and will never mislead industry companies by using voluntary cooperation / publicity as a leverage for commercial solicitations.
@@ -133,7 +110,8 @@ The SimHQ Privacy Statement of Policy
 
 The trust of the simming community is essential to the success of SimHQ. Therefore, we take concerns regarding privacy very seriously.
 
-What Information Does SimHQ Collect On Its Traffic?  
+What Information Does SimHQ Collect On Its Traffic?
+
 We collect general site server statistical information from all visitors to SimHQ, both to monitor utilization and for site security purposes. While this information contains such features as the machine (IP) address you are using, as well as the date, time, and file(s) requested, it typically cannot be used to identify you on an individual basis. Specifically, our tracking software logs the following:
 
   * Web Browser Used
@@ -148,13 +126,16 @@ We collect general site server statistical information from all visitors to SimH
 
 
 
-Cookies  
+Cookies
+
 Persistent client side data ("cookies") are used for some features on the site, particularly the Ultimate Bulletin Board system. This cookie is a built-in feature of the bulletin board software and is used primarily for the purposes of tracking whether new message board threads have appeared since you last visited.
 
-SimHQ's Policy on Children  
+SimHQ's Policy on Children
+
 While this site is a general purpose information provider, it is not directed, in whole or part, at children under the age of 13. Children under the age of 13 years are expressly prohibited from providing any personal information. We strongly recommend parental supervision of children when using this, or any, web site. For more information on children's online privacy generally and the Children's Online Privacy Protection Act, please see the FTC's Kidz Privacy site. If you are a minor (under the age of 18), you may not take part in any contest run by SimHQ.
 
-Sharing of Personal Information  
+Sharing of Personal Information
+
 Certain features of the site (such as registration for the message boards) do require the provision of personal information. The following categories are requested during the board registration process, but only those marked with an asterisk are required.
 
   * User Name*
@@ -170,17 +151,31 @@ Certain features of the site (such as registration for the message boards) do re
 
 We may occasionally request additional information, primarily for contests or giveaways. If you are a minor (under the age of 18), you may not take part in these contests.
 
-Banner Ads  
+Banner Ads
+
 Our banner ads are monitored by a software package that tracks exposures, hits to the banner, date / time, and the viewer's / clicker's IP address. All banner ad "customers," whether free (such as affiliates) or paid advertisers, have access to the information for THEIR banner ad(s) ONLY.
 
-Dissemination of Personal Information by SimHQ  
+Dissemination of Personal Information by SimHQ
+
 Any information collected by SimHQ, for instance at a survey or in a contest, is for the internal use of SimHQ and will not be disclosed to third parties without your prior express consent, except under extraordinary circumstances, such as a court order. Other examples of exceptions are to notify a contest partner of the winner's names, addresses, etc. OR if a party requests that SimHQ provide a feedback form for them on their product for readers to fill out.
 
 Another exception to this may be aggregate data shared with advertisers (for instance, "90% of our viewers responding to a survey rate our news as "excellent.")
 
 This policy is effective and updated on July 31, 2000, and is subject to change without notice, particularly as new site features are added.
 
-For any questions about this policy,[ please contact us](mailto:webmaster@simhq.com).
+For any questions about this policy, please contact guod.
+
+Google Advertising Cookie and Privacy Policies
+
+Google, as a third party vendor, uses cookies to serve ads on the SimHQ.com site.
+
+Google's use of the DoubleClick DART cookie enables it and its partners to serve ads to the users based on their selections and interests on the SimHQ.com site and/or other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+
+Users may visit the vendor websites to opt out of cookies (if the vendor offers this capability). Users can opt out of some, but not all, of these vendor cookies in one location at the Network Advertising Initiative's opt-out web site at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+SimHQ uses third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies is available here [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html.)[.](http://www.google.com/privacy_ads.html.)
 
 Click here to go to top of this page.
 
@@ -210,26 +205,22 @@ Frequently Asked Questions
 
 **How much does it cost to maintain SimHQ?**
 
-The hours provided by our volunteers each month is well into the hundreds, as is the amount of money to pay for server space and traffic. The site depends on advertising revenue to exist. If you would like to advertise on SimHQ, [click here](https://web.archive.org/web/20090225105300id_/http%3A//www.simhq.com/_advertising/advertising.html).
+Operations for the two SimHQ servers costs several hundred dollars each month. Because SimHQ remains 100% free, the site depends on advertising revenue to exist. The hours provided by our volunteers each month is well into the hundreds.
+
+**I would like to advertise on SimHQ. Who do I contact?**
+
+If you would like to advertise on SimHQ, [click here](https://web.archive.org/web/20100107185401id_/http%3A//www.simhq.com/_aboutus/guod@simhq.com).
 
 **How can I support SimHQ?**
 
 There are several ways to support us.
 
-  * Purchasing a book, video, or other product through our [Library](https://web.archive.org/web/20090225105300id_/http%3A//www.simhq.com/_library/library.html). A percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
+  * Purchasing a book, video, or other product through our [Library](https://web.archive.org/web/20100107185401id_/http%3A//www.simhq.com/_library/library.html). A percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
   * Supporting our advertisers’ banner ads and letting them know you appreciate their supporting SimHQ.
   * You can also support us by recommending us to a friend. 
   * By visiting the site yourself!
 
 
-
-**Do you accept freelance articles?**
-
-We’ll be glad to take a look, at the very least! Let us know before you start writing something, though, just in case we’re working on the same type of article.
-
-**Do you pay for articles?**
-
-Not at this time, sorry.
 
 **Wasn’t the site once owned by....?**
 
@@ -241,17 +232,4 @@ Dan "Crash" Crenshaw and Pete "Pygmy" Marone (2000-2001)
 Bubba "Masterfung" Wolford (2001-2004)  
 Doug "guod" Atkinson (2005- )
 
-**How do I know your staff are who they say they are?**
-
-Well, ask them. We take our staff’s background very seriously, and have publicly removed staff who lied about their backgrounds.
-
-**How much traffic do you get?**
-
-A lot. ;)  
-
-
 Click here to go to top of this page.
-
-* * *
-
-Copyright 2009, SimHQ. All Rights Reserved. Contact the [webmaster](mailto:webmaster@simhq.com).
