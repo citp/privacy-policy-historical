@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301055827id_/http%3A//kingolotto.co.uk/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107020804id_/http%3A//www.kingolotto.co.uk/mentions.php) for the most accurate reproduction.*
 
-# Kingolotto - 100% free UK lottery - Win : vouchers, DVDs, holidays, DVD players, mobile phones and loads of great prizes!
+# Kingolotto - 100% Free Game - Win: Vouchers, prizes, DVD, mobiles, video games, holidays, Nintendo DS, PSP, digital camera, PS3, MP3 players !
 
-Purpose of this Privacy Policy
+## Privacy Policy
+
+### Purpose of this Privacy Policy
 
 Mediastay Ltd is registered with The Information Commissioner's Office under the Data Protection Act 1998 (ICO Registration No. Z962923X).   
 This Privacy Policy relates to the KINGOLOTTO website accessible at [www.kingolotto.co.uk](http://www.kingolotto.co.uk/) (the “Website”) which is owned by and operated by the proprietor : Mediastay Limited Natixis Pramex International Cannon Bridge House 25, Dowgate Hill London EC4T 2YA England. Company Registration No. 5958600.
@@ -11,7 +13,7 @@ Mediastay respects your privacy and is committed to protecting it. Mediastay als
 
 Mediastay ensures that any data about individuals received via the Site will be processed in accordance with the eight principles of the Data Protection Act 1998 (the “Act”) and the policy set out below.
 
-Data Collection and Purpose Specification
+### Data Collection and Purpose Specification
 
 The types of personal data you may provide to us via the Website may include name, address, phone, e-mail address, User IDs and passwords, contact preferences and other similar information.
 
@@ -23,7 +25,7 @@ Occasionally, Mediastay may also use your information to contact you for market 
 
 By providing your personal data via the Website you consent to such use of your personal data.
 
-Disclosure to Third Parties
+### Disclosure to Third Parties
 
 Unless Mediastay has your consent including that given below, Mediastay will not disclose your personal data to third party organisations, institutions and authorities unless required by law and Mediastay will not sell, rent or lease your personal data to others.
 
@@ -35,11 +37,11 @@ Mediastay does not collect extra information about its visitors from other sourc
 
 If Mediastay wishes to use your personal data for a new purpose, other than for which it was originally supplied, Mediastay will ask you first. Mediastay takes seriously the trust you place in us. 
 
-Links to Third Party Websites
+### Links to Third Party Websites
 
 Parts of the Website may contain links to third party websites for your convenience and information. If you use these links, you will leave the Website. When you access a third party website, please understand that Mediastay does not control the content and is not responsible for the privacy practices of that site. Mediastay suggests that you carefully review the privacy policies of each website you visit. This Privacy Policy does not cover the information practices of those third party websites linked to the Website. These other websites may send their own cookies to users, collect data, or solicit personal information. 
 
-Security
+### Security
 
 Mediastay does not give visitors to Kingolotto Website the option of using a secure transmission method to send Mediastay their personal data, unless otherwise indicated. Accordingly, your attention is drawn to the fact that any information carried over the Internet is _not_ secure. Information can be intercepted, lost, redirected, changed and read by third parties.
 
@@ -47,7 +49,7 @@ To prevent unauthorized access, maintain accuracy, and ensure proper use of info
 
 All Mediastay’s employees and data processors who have access to and are associated with the processing of personal data, are obliged to respect the confidentiality of such personal data.
 
-Your Rights to Access Personal Data
+### Your Rights to Access Personal Data
 
 You have rights in relation to your personal data held by Mediastay under the Act, including a right to have it modified and to request access to it. For any enquiry or concern about your personal data, or to request access to your personal data please contact Mediastay’s Data Compliance Officer as set out below: 
 
@@ -74,12 +76,10 @@ If you have authorised Mediastay to use your personal data, you may cancel that 
 
 Mediastay reserves the right to refuse to provide you with a copy of your personal data, but will give reasons for our refusal and allow you to challenge our decision.
 
-Complaints and Disputes
+### Complaints and Disputes
 
 Medistay is committed to working with you to obtain a fair and rapid resolution of any complaints or disputes relating to privacy matters. Please send us your questions and comments regarding our privacy practices to the address set out above.           
 
-Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
-If there are changes or additions to the terms of this Privacy Policy, Mediastay will post those changes on the Website so that you will always know what information Mediastay collects online, how it is used, and what choices you have. Mediastay, therefore, recommends that you regularly check this Privacy Policy page for updates. Regardless of any changes Mediastay makes to this Privacy Policy, Mediastay will always use your personal data in accordance with the Privacy Policy in place at the time you provided your information, unless you give your express consent for Mediastay to do otherwise.
-
-**Kingolotto is a 100% free online lottery.** Fancy winning prizes? Kingolotto is the answer! **Free & funny game easy and quick to play.** Join the best free competition and draws site in the UK : loads of prizes and points are waiting for you all for free.
+If there are changes or additions to the terms of this Privacy Policy, Mediastay will post those changes on the Website so that you will always know what information Mediastay collects online, how it is used, and what choices you have. Mediastay, therefore, recommends that you regularly check this Privacy Policy page for updates. Regardless of any changes Mediastay makes to this Privacy Policy, Mediastay will always use your personal data in accordance with the Privacy Policy in place at the time you provided your information, unless you give your express consent for Mediastay to do otherwise. 
