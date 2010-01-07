@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the futurenowinc.com privacy policy that was archived on 2009-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the futurenowinc.com privacy policy that was archived on 2010-01-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100107010909id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 	_fni_subnav = null;
@@ -17,7 +17,7 @@
     <!-- end top metrics include -->
 	
 	<!-- header include -->
-	<!-- begin header include -->
+	<!-- begin header include DHC -->
 <link href="/css/styles.css" type="text/css" rel="stylesheet" media="screen">
 <link href="/css/print.css" type="text/css" rel="stylesheet" media="print">
 <!--[if IE 6]>
@@ -60,30 +60,6 @@ function mapsitna() {
 	$(document).ready(function() {
 		// code here to run when DOM is ready
 		
-		// devNotes
-		/*
-		devNotes_ProjectName = "2009 FNI website";	
-
-		$('#newDevNoteDiv').hide();
-		getDevNoteCount(getDevNoteProjectName(), getDevNotePageName());
-		getDevNotes(getDevNoteProjectName(), getDevNotePageName());
-		
-		$('#createDevNote').click(function() {
-			$('#newDevNoteDiv').toggle();
-		});
-
-		$('#newDevNoteSubmit').click(function() {
-			var a = $('#authorname').val();
-			var n = $('#devnote').val();
-
-			if (a.length > 0 && n.length > 0) {
-				//alert(a + ' has length ' + n.length);
-				$('#newDevNoteDiv').toggle();
-				createDevNote(getDevNoteProjectName(), getDevNotePageName(), a, n);
-			}
-			return false;
-		});
-		*/
 	
 		// make jQueryUI active window tabs work on mouseover
 		$(function() {
@@ -105,22 +81,25 @@ function mapsitna() {
 		*/
 		
 		// deal with the primary/secondary nav
-		var _fni_pri_nav_array = ['home','aboutus','clientsuccess', 'resourcecenter'];
+		var _fni_pri_nav_array = ['home','services','aboutus','clientsuccess', 'resourcecenter'];
 		var _fni_sub_nav_array = { 
 		
-			"home": [
-				{"id": "home", "text": "Home", "href": "/"},
+			 "home": [
+				{"id": "home", "text": "", "href": "/"}
+
+			], 	
+		"services": [
+				
 				{"id": "OTleadgen-subnav", "text": "OnTarget for Lead Gen", "href": "/ontarget_leadgen.htm"},
 				{"id": "OTecommerce-subnav", "text": "OnTarget for eCommerce", "href": "/ontarget_ecommerce.htm"},
 				{"id": "process-subnav", "text": "Process &amp; Expertise", "href": "/process_and_expertise.htm"},
 				{"id": "profservices-subnav", "text": "Professional Services", "href": "/professional_services.htm"}
 
-			], 	
+			], 
 		
 			"aboutus": [ 
 				{"id": "fni-subnav", "text": "About Us", "href": "/aboutus.htm"},
-				{"id": "team-subnav", "text": "Our Team", "href": "/futurenow_team.htm"},
-				{"id": "partners-subnav", "text": "Our Partners", "href": "/partners.htm"},
+				{"id": "partners-subnav", "text": "Become a Partner", "href": "/partners.htm"},
 				{"id": "currentpartners-subnav", "text": "Current Partners", "href": "/current_partners.htm"},
 				{"id": "publications-subnav", "text": "Publications", "href": "/publications.htm"}
 			], 
@@ -128,17 +107,12 @@ function mapsitna() {
 			"clientsuccess": [ 
 				{"id": "success-subnav", "text": "Client Success Stories", "href": "/client_success.htm"},			
 				{"id": "whatotherssay-subnav", "text": "What Others Say", "href": "/what_others_say_about_us.htm"}
-			], 	
-										 
-											 
+			], 
+
 			"resourcecenter": [ 
-				{"id": "whitepapers-subnav", "text": "Whitepapers", "href": "/whitepapers.htm"},
-				{"id": "webinars-subnav", "text": "Webinars", "href": "/webinars.htm"},
-				{"id": "video-subnav", "text": "Videos & Podcasts", "href": "/videos_podcasts.htm"},
-				{"id": "tools-subnav", "text": "Calculators &amp; Tools", "href": "/conversion_calculators_tools.htm"},
-				{"id": "articles-subnav", "text": "Publications", "href": "/articles_publications.htm"},
-				{"id": "training-subnav", "text": "Training", "href": "/training.htm"}
-			] 	
+				{"id": "resource-subnav", "text": "", "href": "/resource_center.htm"}
+			] 		
+										 
 																 
 		};// END _fni_sub_nav_array									
 		Array.prototype.inArray = function (value, caseSensitive) {
@@ -167,7 +141,17 @@ function mapsitna() {
 			$('#nav-'+primary).addClass('selected');
 			$('.sub-nav').addClass(primary.toLowerCase());
 			
-			for (var i=0; i< _fni_sub_nav_array[primary].length; i++) {
+			/* for (var i=0; i< _fni_sub_nav_array[primary].length; i++) {
+                         
+				var a = $('<a class="sub-nav-item"></a>')
+					.html(_fni_sub_nav_array[primary][i].text)
+					.attr('id', _fni_sub_nav_array[primary][i].id.toLowerCase())
+					.attr('href', _fni_sub_nav_array[primary][i].href)
+					.appendTo('.sub-nav');
+			} */
+
+			   for (var i=0; i< _fni_sub_nav_array[primary].length; i++) {
+                         
 				var a = $('<a class="sub-nav-item"></a>')
 					.html(_fni_sub_nav_array[primary][i].text)
 					.attr('id', _fni_sub_nav_array[primary][i].id.toLowerCase())
@@ -202,8 +186,7 @@ function mapsitna() {
 				},
 				emailORphone: "required",
 				company_website: {
-					required: false,
-					url: true
+					required: false
 				}
 			},
 			messages: {
@@ -269,10 +252,11 @@ function mapsitna() {
       <div id="nav">
         <ul class="cf primary-nav">
             <li><a id="nav-home" class="first primary-nav" href="/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home</a></li>
+	    <li><a id="nav-services" class="primary-nav2" href="/services.htm">&nbsp;&nbsp;&nbsp;&nbsp;Services</a></li>
             <li><a id="nav-aboutus" class="primary-nav" href="/aboutus.htm">&nbsp;&nbsp;&nbsp;&nbsp;About Us</a></li>
             <li><a id="nav-clientsuccess" class="primary-nav" href="/client_success.htm">&nbsp;Client&nbsp;Success</a></li>
-            <li><a id="nav-resourcecenter" class="primary-nav" href="/resource_center.htm">Resource&nbsp;Center</a></li>
-            <li><a id="nav-store" class="primary-nav" href="http://shop.futurenowinc.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Store</a></li>
+            <li><a id="nav-resourcecenter" class="primary-nav" href="/resource_center.htm">&nbsp;&nbsp;Resources</a></li>
+            <!--<li><a id="nav-store" class="primary-nav" href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li> -->
             <li class="blog"><a href="http://www.grokdotcom.com/"><img src="/images/icon_blog.gif" border="0" height="29" width="39" alt="">Visit Our Blog</a></li>
         </ul>  
       </div>
@@ -361,7 +345,7 @@ function replaceDoubleQuotesWithSingle() {
             </div>
             <!-- content cf -->		  
             <div class="button">
-			<input name="submitter" id="submitter" type="image" src="/images/btn_pls_contact.gif" class="submit">
+			<input name="submitter" id="submitter" type="image" src="/images/btn_pls_contact.gif" class="submit" width="227" height="34">
 			<br>
 			<a href="/privacypolicy.htm"><img src="/images/img-we-value-your-privacy.gif" width="130" height="19" alt="" border="0"></a>
 			</div>
@@ -383,39 +367,45 @@ function replaceDoubleQuotesWithSingle() {
       <!-- begin right sidebar include -->
 
 <div id="rightCol">
-        <div id="newsletter">
+<div id="newsletter">
+
+
+  
           <div class="content"> 
-		  <form name="addemail" action="http://lnk.nxr1.com/fimp" onsubmit="this.ew_redirurl.value = this.ew_redirurl.value + '?EMAIL=' + this.u_email.value + '&amp;FNAME=' + this.u_first_name.value" method="post"><img src="/images/hd_grok.gif" width="135" height="19" border="0" alt="">
-            <div>Marketing Optimization Blog</div>
-            <div class="yellow"> FREE Newsletter Sign Up
-			<input size="20" maxlength="100" class="input" name="u_first_name" id="u_first_name" value="Enter Your Name" onfocus="this.select()" type="text">
-			<input size="20" maxlength="100" class="input" name="u_email" id="u_email" value="Enter Email Address" onfocus="this.select()" type="text">
+		<!--  <form name="addemail" action="http://lnk.nxr1.com/fimp" onsubmit="this.ew_redirurl.value = this.ew_redirurl.value + '?EMAIL=' + this.u_email.value + '&amp;FNAME=' + this.u_first_name.value" method="post"> -->
+	<form name="addemail" action="http://www.grokdotcom.com/thanks.php" method="post">
+<img src="http://www.grokdotcom.com/wp-content/themes/grokdotcom-by-contentrobot-v2.0/images/hd_grok.gif" width="135" height="19" border="0" alt="">
+   
+
+         <div>Marketing Optimization Blog</div>
+            <div class="yellow"> FREE Newsletter Sign-Up
+			<input size="10" maxlength="100" class="input" name="u_first_name" id="u_first_name" value="First Name" onfocus="this.select()" type="text">
+			<input size="10" maxlength="100" class="input" name="u_last_name" id="u_last_name" value="Last Name" onfocus="this.select()" type="text">
+			<input size="20" maxlength="100" class="input" name="u_email" id="u_email" value="Email Address" onfocus="this.select()" type="text">
+
             </div>
             <!-- yellow -->
             <div class="select"> send it once every:&nbsp;&nbsp;
               <select name="c_mail_frequency">
-			  	<option value="D">Day</option>
-			  	<option value="W" selected="selected">Week</option>
-			  	<option value="M">Month</option>
+			  	<option value="Weekly" selected="selected">Week</option>
+			  	<option value="Monthly">Month</option>
+
 			  </select> 
             </div>
-            <div class="subscribe"> <input name="submit" src="/images/btn_subscribe.gif" type="image">
+            <div class="subscribe"> <input name="submit" src="http://www.grokdotcom.com/wp-content/themes/grokdotcom-by-contentrobot-v2.0/images/btn_subscribe.gif" type="image">
 			<br>We Value Your Privacy!
-			<a href="http://www.grokdotcom.com/weekly-newsletter" target="_blank" class="groksample">View Sample</a><br> <a href="http://www.grokdotcom.com/subscribe-to-grokdotcom-content/"><img src="/images/btn_rss.gif" class="rss_feed" width="78" height="14" border="0" alt=""></a> </div>
+			<a href="http://www.grokdotcom.com/weekly-newsletter/" target="_blank" class="groksample">View Sample</a><br> <a href="http://www.grokdotcom.com/subscribe-to-grokdotcom-content/"><img src="http://www.grokdotcom.com/wp-content/themes/grokdotcom-by-contentrobot-v2.0/images/btn_rss.gif" class="rss_feed" width="78" height="14" border="0" alt=""></a> </div>
 
-			<input value="GR" name="u_source_key" type="hidden">
-			<input value="http://www.grokdotcom.com/thanks.htm" name="ew_redirurl" type="hidden">
-			<input value="http://www.grokdotcom.com/" name="ew_errurl" type="hidden">
-			<input value="113" name="ew_eid" type="hidden">
-			<input value="231" name="pid" type="hidden">
-			<script type="text/javascript">var remtAddr = "<!--#echo var='REMOTE_ADDR'-->";
-			document.write('<input type="hidden" name="u_ip_address" value="'  + remtAddr + '"/>');
-			document.write('<input type="hidden" name="u_signup_url" value="' + document.URL + '"/>');
-			</script><input type="hidden" name="u_ip_address" value="<!--#echo var='REMOTE_ADDR'-->"><input type="hidden" name="u_signup_url" value="https://web.archive.org/web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm">
+			
+			<script language="Javascript" type="text/javascript"> 
+  			document.write('<input value="'+location.href+'" name="ew_redirurl" type="hidden"/>');
+			</script><input value="https://web.archive.org/web/20100107010909id_/http%3A//www.futurenowinc.com/privacypolicy.htm" name="ew_redirurl" type="hidden">
+
 			</form>
           </div>
           <!-- content -->
         </div>
+
         <!-- newsletter -->
 		
 		
@@ -473,36 +463,6 @@ function replaceDoubleQuotesWithSingle() {
 <!-- end footer include -->
 
 
-<!-- and now some DevNotes -->
-<!--
-<style type="text/css">
-	div#devNotes blockquote {font-size: 11pt; background-color: #f8ff6d; margin-top: 2px;}
-</style>
-<div id="devNotes">
-<h1>Development Notes and Comments</h1>
-
-<h2 id="devNoteCount" style="display: inline">None</h2>&nbsp;&nbsp;&nbsp;
-<input type="button" value="create new Dev Note" id="createDevNote" />
-<div id="newDevNoteDiv" style="display: inline"><form id="newDevNoteForm" action="">Your Note: <textarea id="devnote" cols="30" rows="2"></textarea>&nbsp;&nbsp;&nbsp;
-Your Name: <select id="authorname">
-<option value="">...who are you? ...</option>
-<option value="Anthony Garcia">Anthony Garcia</option>
-<option value="Bryan Eisenberg">Bryan Eisenberg</option>
-<option value="Jeff Eisenberg">Jeff Eisenberg</option>
-<option value="Jeff Sexton">Jeff Sexton</option>
-<option value="John Quarto-vonTivadar">John Quarto-vonTivadar</option>
-</select>&nbsp;&nbsp;&nbsp;
-<input type="submit" name="newDevNoteSubmit" id="newDevNoteSubmit" value="save"/>
-</form></div>
-
-<ul id="devNoteList" style="list-style-type: square">
-</ul>
-
-<h1>Site Visualization:</h1>
-view <a href="/2009-site.jpg" class="thickbox">site sketch</a> or <a href="http://johnquarto.com/ideas/forcedirectedgraph/graphtest_3.htm?TB_iframe=true&width=900&height=700" title="a force-directed implementation of the site" class="thickbox">view a site graph</a> or <a href="/site-map.htm">the site map</a><br/>
-</div>
--->
-<!-- done with DevNotes -->
 	
  
 	<!-- end footer include -->
@@ -516,7 +476,7 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-930047-4"); //futurenowinc.com
+var pageTracker = _gat._getTracker("UA-12080245-1"); //futurenowinc.com
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
@@ -539,7 +499,7 @@ if ( typeof( window[ 's_PageName' ] ) == "undefined" ) {
 }
 //-->
 </script>
-<script type="text/javascript" src="/js/ontarget.js"></script><div id="eliticslayer" style="position:absolute; left:200; top:10; width:100; height:100; clip:rect(0,100,100,0); visibility:hidden; zindex:-3; background-color:white;"><img name="elitics" src="https://gi.elitics.com/gi.aspx?&amp;sbn=Saf&amp;sld=01/31/2020&amp;slt=13:05:16&amp;stz=0&amp;sdn=https%3A//web.archive.org/web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm&amp;shn=web.archive.org&amp;srs=800 * 600&amp;ck=1&amp;v=28&amp;ppn=web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm&amp;cid=192&amp;pt=p" border="0"> </div>
+<script type="text/javascript" src="/js/ontarget.js"></script><div id="eliticslayer" style="position:absolute; left:200; top:10; width:100; height:100; clip:rect(0,100,100,0); visibility:hidden; zindex:-3; background-color:white;"><img name="elitics" src="https://gi.elitics.com/gi.aspx?&amp;sbn=Saf&amp;sld=01/31/2020&amp;slt=13:05:15&amp;stz=0&amp;sdn=https%3A//web.archive.org/web/20100107010909id_/http%3A//www.futurenowinc.com/privacypolicy.htm&amp;shn=web.archive.org&amp;srs=800 * 600&amp;ck=1&amp;v=28&amp;ppn=web/20100107010909id_/http%3A//www.futurenowinc.com/privacypolicy.htm&amp;cid=192&amp;pt=p" border="0"> </div>
 <!-- END   elitics -->
 
 <!-- end bottom metrics include -->
