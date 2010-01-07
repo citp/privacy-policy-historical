@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227062430id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107015607id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # privacy
 
@@ -8,26 +8,26 @@ Our privacy pledge
 
 Effective on December 02, 2008
 
-#### _kanetix_ believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _kanetix_ provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
+#### _Kanetix_ believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _Kanetix_ provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
 
-#### _kanetix_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site kanetix.ca. Because the _kanetix_ website wants to demonstrate its commitment to your privacy, _kanetix_ has agreed to disclose its information practices to TRUSTe and have its privacy practices reviewed for compliance to TRUSTe privacy standards. By displaying the TRUSTe trustmark, we have agreed to provide you with information on the following: 
+#### _Kanetix_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site _Kanetix.ca_. Because the _Kanetix_ website wants to demonstrate its commitment to your privacy, _Kanetix_ has agreed to disclose its information practices to TRUSTe and have its privacy practices reviewed for compliance to TRUSTe privacy standards. By displaying the TRUSTe trustmark, we have agreed to provide you with information on the following: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the website
   2. Who is collecting the information
   3. How the information is used
   4. With whom the information may be shared
   5. What choices are available to you regarding the collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the control of _kanetix_
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the control of _Kanetix_
   7. How you can correct any inaccuracies in the information
 
 
 
-#### If you have questions or concerns regarding this statement, you should first contact [kanetix](http://www.kanetix.ca/about_generic_about_us). If you do not receive acknowledgment of your inquiry or you do not feel your inquiry has been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with _kanetix_ to resolve your concerns.
+#### If you have questions or concerns regarding this statement, you should first contact [Kanetix](http://www.kanetix.ca/about_generic_about_us). If you do not receive acknowledgment of your inquiry or you do not feel your inquiry has been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with _Kanetix_ to resolve your concerns.
 
 [](https://www.entrust.net/customer/profile.cfm?domain=www.kanetix.ca) [](http://www.truste.org/ivalidate.php?url=www.kanetix.ca&sealid=101)
 
 ####   
-Entering personal data on _kanetix_ is not only easy but also safe. _kanetix_ uses an Apache server with SSL (Secure Socket Layer) protocol, among the best Internet security software in the world, and Entrust.net certificates for securing the exchange of confidential data. This security technology encrypts the personal information that you send us (including things like names, addresses, emails and telephone numbers), so it cannot be read by anyone as it travels over the Internet. We will evaluate and adopt new security technology as it becomes available.
+Entering personal data on _Kanetix_ is not only easy but also safe. _Kanetix_ uses an Apache server with SSL (Secure Socket Layer) protocol, among the best Internet security software in the world, and Entrust.net certificates for securing the exchange of confidential data. This security technology encrypts the personal information that you send us (including things like names, addresses, emails and telephone numbers), so it cannot be read by anyone as it travels over the Internet. We will evaluate and adopt new security technology as it becomes available.
 
 #### You can find out when the secure SSL connection is activated by looking for the key or padlock icon in the lower corner of your browser window. If the key becomes whole, or the padlock becomes closed, this indicates that the browser is now in "secure" mode.
 
@@ -40,7 +40,7 @@ Cookies are small pieces of information stored on your hard drive. The only pers
 
 #### Cookie technology can save you time by eliminating the need to re-enter frequently requested information such as your personal identification. Cookies also give us capability to understand how visitors use our site. We use this information to optimize our website and improve the visitor experience. 
 
-#### Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from _kanetix_ , you may not be able to use all the services available on the site. These cookies are not tied to your personally identifiable information.
+#### Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from _Kanetix_ , you may not be able to use all the services available on the site. These cookies are not tied to your personally identifiable information.
 
 ####   
 We gather and store data about online usage on a collective rather than individual basis. For example, like most websites, we gather aggregate information about the number of visitors that visit our website and the pages that they view, NOT what pages were viewed by each individual. We use this information to anticipate bottlenecks, to gauge the capacity of our servers, and to improve the overall management of our website.
@@ -50,13 +50,13 @@ We gather and store data about online usage on a collective rather than individu
 #### Please note that our online usage and affiliate tracking systems do not gather or store personally identifiable information.
 
 ####    
-In some provinces, _kanetix_ offers visitors the option of personalized quotes and gathers personal information as part of this process. Also, from time to time, _kanetix_ requests and collects personal information from visitors via surveys, contests, "Tell-a-friend" and Renewal Reminder services. Participation is completely voluntary (opt-in). Information requested has included your email address and that of the friend you are referring, name, demographic and insurance-related information.
+In some provinces, _Kanetix_ offers visitors the option of personalized quotes and gathers personal information as part of this process. Also, from time to time, _Kanetix_ requests and collects personal information from visitors via surveys, contests, "Tell-a-friend" and Renewal Reminder services. Participation is completely voluntary (opt-in). Information requested has included your email address and that of the friend you are referring, name, demographic and insurance-related information.
 
 #### **Communication of personal identifiable information**  
-At various points on the _kanetix_ website and when visitors contact _kanetix_ , visitors may be asked if they consent to sharing their personal information with 3rd parties. If they agree, _kanetix_ , provides one or more insurance suppliers with their personal information for the purposes of either preparing or validating an insurance quote.
+At various points on the _Kanetix_ website and when visitors contact _Kanetix_ , visitors may be asked if they consent to sharing their personal information with 3rd parties. If they agree, _Kanetix_ , provides one or more insurance suppliers with their personal information for the purposes of either preparing or validating an insurance quote.
 
 #### **Email**  
-_kanetix_ will not accept transactions or instructions by Internet email messages. However, questions of a general nature or inquiries may be communicated by [submitting your question online](http://www.kanetix.ca/about_generic_about_us). By submitting your question, comment or suggestion online the information you provide becomes the property of _kanetix_. Where necessary, we may share the information you provide in your email with 3rd parties in order to address your question, comments or concerns. The content of your email may be used for any purpose and _kanetix_ is free to use any idea contained in it for any purpose whatsoever, including, but not limited to, developing, manufacturing and marketing products using such information.
+_Kanetix_ will not accept transactions or instructions by Internet email messages. However, questions of a general nature or inquiries may be communicated by [submitting your question online](http://www.kanetix.ca/about_generic_about_us). By submitting your question, comment or suggestion online the information you provide becomes the property of _Kanetix_. Where necessary, we may share the information you provide in your email with 3rd parties in order to address your question, comments or concerns. The content of your email may be used for any purpose and _Kanetix_ is free to use any idea contained in it for any purpose whatsoever, including, but not limited to, developing, manufacturing and marketing products using such information.
 
 #### **Tell-a-friend**  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Kanetix Ltd. does not store this information.
@@ -65,7 +65,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 Our surveys are used to identify consumer or improve visitor satisfaction with our site. The 'Tell-a-friend' service sends an email to a friend informing him/her about our site. With our Renewal Reminder service, visitors can elect to have an email reminder sent to them a month before their insurance policy expires.
 
 ####    
-If you purchase a policy online through _kanetix_ , additional information is needed to process your request. This information may include your first and last name, email address, and dwelling address; your telephone number, driver's license number, vehicle identification number (if purchasing auto insurance), your current insurance company, employer name and credit card number or bank account information. We forward this information to the insurance company to underwrite your policy. If you agree to purchase a policy from the insurance company, it may use your personal information for the purpose of fulfilling the requested insurance transaction and for future contact in accordance with the terms and conditions of its own privacy policy.
+If you purchase a policy online through _Kanetix_ , additional information is needed to process your request. This information may include your first and last name, email address, and dwelling address; your telephone number, driver's license number, vehicle identification number (if purchasing auto insurance), your current insurance company, employer name and credit card number or bank account information. We forward this information to the insurance company to underwrite your policy. If you agree to purchase a policy from the insurance company, it may use your personal information for the purpose of fulfilling the requested insurance transaction and for future contact in accordance with the terms and conditions of its own privacy policy.
 
 ####   
 In some cases, we use third parties to provide the online quotes you receive on our site. The only information shared with the third party is the information required to provide you with an accurate quote. Depending on the type of quote you are seeking, this information may be comprised of one or more of the following: your age, gender, marital status, smoking status, driving, and insurance history. This information is only shared as necessary for the third party to provide you with an accurate quote.
@@ -76,12 +76,12 @@ These third parties are prohibited from using your personally identifiable infor
 If you submit a testimonial to be posted on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 ####   
-You can change your username (email address) and password online in the 'My kanetix' section of the site or you can update your personal information by calling us at 1 888 854 2503 or writing to us at 129 Spadina Ave., Suite 400, Toronto, Ontario, M5V 2L3.
+You can change your username (email address) and password online in the 'My _Kanetix_ ' section of the site or you can update your personal information by calling us at 1 888 854 2503 or writing to us at 129 Spadina Ave., Suite 400, Toronto, Ontario, M5V 2L3.
 
 ####    
-Your password is your private, secret entry code to your account information at _kanetix_. It is required when you first log in to view or to modify your saved information. Your password keeps your account information private and secure and you can change it as many times as you like.
+Your password is your private, secret entry code to your account information at _Kanetix_. It is required when you first log in to view or to modify your saved information. Your password keeps your account information private and secure and you can change it as many times as you like.
 
-#### _kanetix_ contains links to other websites. For example, you may find links to the suppliers featured in our Quotemaker or links to our affiliated brokerages. We do not exchange any information with these third-party sites if you click on them. If you do decide to click on one of these links, we encourage you to read the privacy statements of these linked sites as their policies may differ from ours.
+#### _Kanetix_ contains links to other websites. For example, you may find links to the suppliers featured in our Quotemaker or links to our affiliated brokerages. We do not exchange any information with these third-party sites if you click on them. If you do decide to click on one of these links, we encourage you to read the privacy statements of these linked sites as their policies may differ from ours.
 
 ####   
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. For example, when you sign up to our newsletter or renewal reminder service we automatically send you a confirmation email specifying the services you requested. From these confirmation emails, you can opt-out of both of these services at any time by replying and indicating your preference to be removed from our lists. You can also opt-out by emailing us at unsubscribe@kanetix.ca, calling us at 1 888 854 2503 or by writing to us at 129 Spadina Ave., Suite 400, Toronto, Ontario, M5V 2L3.
@@ -101,7 +101,7 @@ We are committed to providing excellent service to you. However, if you have a c
   * [sending us a question through our online form](http://www.kanetix.ca/about_generic_about_us) or,
   * writing to us at: 
 
-_kanetix_  
+_Kanetix_  
 129 Spadina Ave.  
 Suite 400  
 Toronto, Ontario  
