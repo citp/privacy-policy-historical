@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205042009id_/http%3A//party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107015953id_/http%3A//party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -9,7 +9,6 @@
 **Shop Online**  
 • [The Shops](http://www.party411.com/theshops.html)  
     [@ Party411.com](http://www.party411.com/theshops.html)  
-• [Banner Guide](http://www.party411.com/bannerguide.html)  
 
 
   
@@ -18,10 +17,13 @@
 • [Daily Dish Blog](http://sherrifoxman.typepad.com/daily_party_dish/)  
 
 
+[ ](http://www.facebook.com/pages/Party411com/111245620037)[ ](http://twitter.com/party411)[ ](http://www.myspace.com/partygirlparty411)
+
 **Personalize Your Party**  
-• [Candy Bar Wrappers](http://www.party411.com/custom-wrappers.html)  
+• [Personalized Candy](http://www.party411.com/custom-wrappers.html)  
+• [Banners](http://www.party411.com/custom-banners.html)  
 • [Life-Sized Cutouts](http://www.party411.com/custom-cutouts.html)  
-    [and Photo Ops](http://www.party411.com/custom-photo-ops.html)  
+• [Photo Ops](http://www.party411.com/custom-photo-ops.html)  
 • [Caricatures](http://www.party411.com/caricature.html)  
 • [Invitations](http://www.party411.com/custom-invitations.html)  
 • [Sign-In Boards and](http://www.party411.com/custom-signin.html)  
@@ -29,8 +31,10 @@
 • [Bottle Labels](http://www.party411.com/custom-labels.html)  
 • [Centerpieces](http://www.party411.com/custom-centerpieces.html)  
 • [Seating Cards](http://www.party411.com/custom-seating.html)  
-• [Favors, Accessories](https://web.archive.org/web/20090205042009id_/http%3A//party411.com/custom-favors.html)  
-    [and more!](https://web.archive.org/web/20090205042009id_/http%3A//party411.com/custom-favors.html)  
+• [Personalized](http://www.party411.com/custom-mint-tins.html)  
+    [Mint Tins](http://www.party411.com/custom-mint-tins.html)  
+• [Favors, Accessories](http://www.party411.com/custom-favors.html)  
+    [and more!](http://www.party411.com/custom-favors.html)  
 • [Custom Party Plans](http://www.party411.com/partyhelp.html)  
 • [Creations for You](http://www.party411.com/custom.html)
 
@@ -78,7 +82,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20090205042009id_/http%3A//party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20100107015953id_/http%3A//party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
