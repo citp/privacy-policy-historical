@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229065807id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107060419id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sea Fishing and Sea Angling Online
 
