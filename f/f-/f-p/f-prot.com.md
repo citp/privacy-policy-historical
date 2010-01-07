@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-prot.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525141754id_/http%3A//www.f-prot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-prot.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107122849id_/http%3A//www.f-prot.com/privacy.html) for the most accurate reproduction.*
 
 # FRISK Software International's Privacy policy - F-PROT Antivirus
 
