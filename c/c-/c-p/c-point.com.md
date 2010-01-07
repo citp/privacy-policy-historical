@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216182604id_/http%3A//www.dralexmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107213232id_/http%3A//www.dralexmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Dr Alex Internet Marketing: Privacy Policy
 
