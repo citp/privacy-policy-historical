@@ -1,0 +1,122 @@
+> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107015145id_/http%3A//www.makingfun.com/privacy) for the most accurate reproduction.*
+
+# Making Fun | Privacy Policy
+
+Your privacy is a priority at Making Fun, and the aim of our Privacy Policy is to help you make informed decisions about how you interact with Making Fun products, services, and marketing communications. 
+
+This Privacy Policy applies only to the collection, use and disclosure of personal information that you may decide to provide to Making Fun, Inc. (“Making Fun”, or “we”) in your use of our software applications (“Making Fun Applications”), our interactive platform implemented in a Making Fun Application or third party applications that present and abide by our Terms of Service (“Making Fun Platform”), and the MakingFun.com domain and its sub domains (“Sites”). Together Making Fun Applications, the Making Fun Platform and Sites may be referred to as the “Services”. Please take a moment to read this document to learn about our information collection practices that may impact you as either a registered or non-registered user (each a “Making Fun User”) of our Services. 
+
+We may update our Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted in our Services, and on the Sites along with the updated privacy policy. 
+
+## Why We Collect Personal Information 
+
+We may collect information about you through your use of the Services to provide you with a superior and personally relevant user experience. The information we collect can be personal or non-personal in nature, and may be used alone or in the aggregate with that of other Making Fun Users. Your Personal Information (defined below), for instance, may be used in some cases to recommend products of interest directly to you, and in other cases for market research purposes that support our efforts to deliver a more valuable service to our community of users. For example, we may use your Personal Information to contact you with announcements, newsletters and promotional materials related to our Services or to offer you opportunities to participate in surveys, contests or sweepstakes (any of these a “Promotion”) via our Services. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See “Changing or Removing Information” below for further information.) 
+
+## What Information We Collect
+
+In the course of using the Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you; personally identifiable information may include, but is not limited to, your name, phone number, photo representation (“avatar”), email address and mailing address (“Personal Information”). We collect your Personal Information in connection with your registration to join our Services. You can register to join either via a Making Fun Application or via an application created by a third party that has developed its own application that is connected to our Services (“Third Party Publisher”). 
+
+Other instances when Personal Information may be collected via our Services include the following: 
+
+  * If you, as a registered user, choose to link your Making Fun account to a social networking service (“SNS”): Personal Information you independently submit to an SNS like Facebook may be collected and used by us in order to provide you with enhanced functionality. In these instances, you consent to Making Fun’s access and use of your username, alias and any other Personal Information you have independently provided to and made accessible through the SNS. Such access will be in accordance with the privacy settings you have set in your SNS account, if any. 
+  * If you choose to participate in a Promotion: We may request that you provide us with Personal Information like your email address or mailing address in order to administer your participation in the Promotion. 
+
+
+
+We also collect other information that you may provide as part of registration and the administration and personalization of your user experience (e.g., without limitation, zip code, geolocation and user preferences) (“Non-Identifying Information”). Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (e.g., combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (e.g., your viewing preferences). 
+
+When you launch any of our Making Fun Applications or register to join our Services via an application created by a Third Party Publisher, we collect your device type, the unique device ID issued by Apple for your iPhone OS (“Device ID”) and Internet Protocol (“IP”) address, if applicable. We use the Device ID to make it possible to authenticate and understand use of our Services, or the third party services that a Making Fun User may choose to access through them. Related to this information collection, our Services may serve ads that contain links to other iPhone OS applications connected to our Services, and your Device ID enables us to track any clicks you may choose to make. Our use of your Device ID does not enable us to identify you personally, and we do not store this information in connection with your Making Fun User account information. 
+
+## Cookies & Other Technologies
+
+As is standard practice on many websites, Making Fun’s Sites use “cookies” to help us study traffic patterns on our Sites and understand the effectiveness of our marketing communications. A cookie is a small string of text that a website can send to your browser. Other types of cookies exist, but the cookies we use in connection with our Services can only identify your browser and cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your email address. Cookies can reveal, for instance, which pages on the Sites are the most popular, how much time visitors are spending there, and how they are interacting with the content on these pages. You have the option to disable cookies by changing the options in your browser to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to view or use all portions of the Sites due to limited functionality. 
+
+Some of our email messages use a “click-through URL” linked to content on the Sites. We track this click-through data to help us determine interest in topics. If you prefer not to be tracked by us in this way, do not click on our click-through URLs. 
+
+When you use our Services (e.g., when you visit our Sites or interact with one of our Making Fun Applications connected to our Sites, our servers automatically record information that your browser sends whenever you visit a website or service connected to the Internet (“Log Data”). This Log Data may include information such as your computer’s or mobile device’s IP address, browser type, the webpage you were visiting before you came to our Sites, pages of our Sites that you visit, the time spent on those pages, information you search for on our Sites, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services for technical administration and tailoring our Services to our visitors’ needs. 
+
+## When We Disclose Your Information 
+
+### Within the Making Fun Services
+
+As a Making Fun User registered for a Full Account (defined below), you may create your own profile, connect with other users of the Services, send messages and transmit information through various channels. Please remember that any communications you have via the Services, depending on, for example, the functionality of the Making Fun Application or an application created by a Third Party Publisher connected to our Services, may reveal your screen name, and the content of your communications making this information publicly available to other Making Fun Users. Making Fun is not responsible for the activities of other Making Fun Users or other third parties with whom you choose to provide your Personal Information or otherwise. 
+
+### With Third Party Publishers
+
+We may share aggregated information that includes Non-Identifying Information with Third Party Publishers with whom we have a strategic relationship. The information shared with these third parties may be used to support user trend analyses and demographic profiling but will not contain your Personal Information. Some Third Party Publishers also act as service providers and vendors to us, so in those cases we will share your information as described below. 
+
+### With Third Party Social Networking Services
+
+Making Fun Users who are registered for a Full Account (defined below) may link their Making Fun account information with certain SNSs where Making Fun Users have an existing account with the SNS. In these instances, with your permission and on your behalf, we will share your email address and screen name or alias with the applicable SNS. Through use of such services’ APIs, as stated above, we also receive certain information (which may include your personal information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS in connection with your linking of accounts, the personal information an SNS has about you is obtained by the SNS independent of our Services. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other services you use. We will not share the Personal Information of holders of a Full Account or Limited Account (both defined below) who are under age 14 with any SNSs. 
+
+### With our Service Providers and Vendors
+
+Disclosure of your Personal Information and Non-Identifying Information may also occur where we employ third party companies and individuals to facilitate our Services (e.g., without limitation, improvement of our Services’ features, user account authentication), to provide the Services on our behalf, or to assist us in analyzing how our Services are being used. These third parties may have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+### Under Special Circumstances
+
+At times, we may disclose information about you to law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Making Fun or a third party, to protect the safety of the public or any person or to prevent or stop activity we may consider to be or to pose a risk of being, any illegal, unethical or legally actionable activity. 
+
+Under another special set of circumstances, for example, in connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy, we may sell, transfer or otherwise share some or all of Making Fun assets, including your Personal Information. 
+
+## Our Policy Toward Children
+
+We are committed to compliance with the Children’s Online Privacy Protection Act (“COPPA”). Consequently, we do not collect Personal Information from children under age 14 (“child” or “children”) in a manner inconsistent with COPPA. 
+
+A child may use certain Making Fun Applications without registering for our Services, in which case no submitted Personal Information is collected. Certain other Making Fun Applications may require a registration with our Services. 
+
+If a child has the opportunity and chooses to register to join our Services, we may offer one of two account types – Limited Account or Full Account (both defined below) – depending on the age that the child indicates at the start of the registration process and the consent, or lack thereof, to the collection of the child’s submitted Personal Information that the child’s parents or legal guardians (“Parent(s)”) may provide. 
+
+  * Those visitors who indicate they are under age 14 and do not have verifiable parental consent to submit Personal Information in the registration for and use of our Services will not able to enjoy the full functionality of our Services. The child will be provided with a limited version of our Services, which does not collect the submission of Personal Information (“Limited Account”). 
+  * Those visitors who indicate they are under age 14 and have obtained verifiable parental consent to submit Personal Information in the registration for and use of our Services will be able to enjoy the full functionality of our Services (“Full Account”). 
+
+
+
+To determine who is younger than 14 years old, we ask visitors who wish to join our Services to select their age from a set of age ranges at the start of the registration process. If the visitor is determined to be a child, we will ask for the child’s first name and the email address of the child’s Parent. The Parent’s email address is correlated with the child’s account user name. We use this information to send the Parent a message that can be used to activate a Full Account (which involves obtaining the consent of the Parent to such activation), to notify the Parent about our privacy practices, to send the Parent communications about the child’s Making Fun account or about features of our Services, and for the other purposes described in this Privacy Policy. We do not condition a child’s participation in an activity on the child providing more personal information than is reasonably necessary for that activity. 
+
+When a parent consents to the activation of a child’s Full Account, we will collect Personal Information from the child so that the child may participate in various activities via the Services. When you, as the child, have obtained your Parent’s consent to use our Services through a Full Account: 
+
+  * You may create your own profile, connect with other users of the Services, send messages and transmit information through various channels. We will collect your name, email address and avatar in this regard. Please remember that any communications you have via the Services, depending on, for example, the functionality of the Making Fun Application or an application created by a Third Party Publisher connected to our Services, may reveal your screen name, and the content of your communications, making this information publicly available to other Making Fun Users. Making Fun is not responsible for the activities of other Making Fun Users or other third parties with whom you choose to provide your Personal Information or otherwise. If as a Parent, you do not want us to share your child’s Personal Information with other Making Fun Users as part of the interactive aspect of the Services, you may reset your child’s account to a limited version of our Services. 
+  * We may use your name and email address to contact you with announcements, newsletters and other updates related to our Services, to send advertisements and marketing messages to you or to offer you opportunities to participate in a Promotion via our Services. If you win a prize, we may ask for your mailing address so that we can send you your prize. 
+
+
+
+Our practices regarding collection of Non-Identifying Information, including Device IDs, and our practices regarding use of Cookies and Other Technology and Log Data described above in this Privacy Policy, apply to all Making Fun Users including children who hold a Full Account or Limited Account. We may also offer children the opportunity to sign up to receive email updates regarding our Services (“Making Fun Update Emails”). To determine who is younger than 14 years old, we ask visitors who wish to receive Making Fun Update Emails to submit their date of birth. Those visitors that indicate they are under the age of 14 are asked to submit their first name, email address and the email address of their Parent. Within two business days of receiving this information, we send the child’s Parent a notification email informing him or her of the child’s request to receive Making Fun Update Emails on an ongoing basis and giving the Parent the option to have his or her child’s information removed from the Making Fun Update Emails database. At any time after receiving this notification email, the Parent has the opportunity to exercise the option to request that we stop sending the Making Fun Update Emails to his or her child and have the child’s information removed from Making Fun Update Emails database by following the “unsubscribe” instructions found at the end of any of the Making Fun Update Emails or in the original email notice to the parent. All information collected for Making Fun Update Emails is used only to send the child the Making Fun Update Emails. 
+
+If you as a Parent have given us permission to collect your child’s submitted Personal Information in connection with our Services, you can at any time: (1) confirm, correct or delete your child’s Personal Information; (2) discontinue further use of your child’s Personal Information, collection of your child’s Personal Information, or communication with your child; and/or (3) revoke your earlier consent to the collection and use of your child’s Personal Information. You may also contact us by email at privacy@MakingFun.com, and we will review or update your permissions concerning your child’s Personal Information as appropriate. Please note that we may require the provision of certain information about your child in these communications for security reasons, which may require a live phone call at a number provided to you via email. 
+
+## Invite-A-Friend
+
+If you choose to use our referral services to tell a friend about our Services, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to use an aspect of our Services. Making Fun stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+
+## Emailing Via a Making Fun Application
+
+Making Fun Users may send pre-formatted messages through use of their personal email account connected to their iPhone OS device to, for example, challenge their friends to beat their high score in a Making Fun or third party application powered by our Services where this functionality is available. In such a scenario, Making Fun does not store the email address of the friend you choose to email. The message you initiate will be sent through your personal email account to the email addresses you choose. 
+
+## How We Protect Your Personal Information
+
+Making Fun takes your privacy very seriously and employs administrative, physical and electronic measures to safeguard your information from identity theft and unauthorized access. We do not and will not, at any time, request your credit card information, your account ID, login password or national identification numbers in a non-secure or unsolicited communication (e.g. via e-mail, telephone, iPhone OS device). 
+
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Sites in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+
+## Changing or Removing Information
+
+As a registered user, your may update or delete the Personal Information in your profile by logging into your account. You may also email us at privacy@MakingFun.com to request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+
+Where you share information with other users through the communication channels of our Services, you generally cannot remove such communications. 
+
+If you participate in a Promotion (where you may or may not disclose the information requested), you have the option to opt out at any time from such participation and the receipt of any related communications. Please follow the unsubscribe instructions provided in the relevant communications. 
+
+If your friend received an invitation from Making Fun per your referral to try the Services, your friend may request that the name and email address used in the invitation be removed from Making Fun’s records. We store this information for the sole purposes of measuring the effectiveness of our referral program and sending the email you initiated, but your friend can request to have it removed from our database by emailing us at privacy@MakingFun.com. 
+
+## Links to Other Websites
+
+Our Services may contain links to other websites and online services. If you choose to click on an advertisement or another third party link, you may be directed to that third party’s website or service. The fact that we link to a third party website or service is not an endorsement or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites or services. These other websites or services may place their own cookies or other files on your computer or mobile devices, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites and services you use. 
+
+## International Users
+
+If you are located outside the United States and choose to provide information to Making Fun, we transfer Personal Information to and process it in the United States. Your consent to this Privacy Policy followed by your submission of Personal Information represents your agreement to that transfer. 
+
+## Contacting Us
+
+If you have any questions about Making Fun’s Privacy Policy or information practices, please contact us at [privacy@MakingFun.com](mailto:privacy@MakingFun.com). 
