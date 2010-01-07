@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152337id_/http%3A//www5.gameduell.co.uk/gd/i01.do%3Fpage%3Dhelp.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107054136id_/http%3A//www.gameduell.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
@@ -32,7 +32,7 @@ You may use our services via a pseudonym-based username. If your IP address can 
 
 4\. DISCLOSURE
 
-If you have any questions then we would be pleased to provide more detailed information regarding your personal data. If you would like to be informed of exactly what personal data we possess, then please contact our [customer service](https://web.archive.org/gd/service.do). You will then receive a detailed reply in a reasonable amount of time.
+If you have any questions then we would be pleased to provide more detailed information regarding your personal data. If you would like to be informed of exactly what personal data we possess, then please contact our [customer service](https://web.archive.org/service.html). You will then receive a detailed reply in a reasonable amount of time.
 
   
 **Information regarding types of data and how they are used**
