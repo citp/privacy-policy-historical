@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the dressupstyle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012420id_/http%3A//www.dressupstyle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupstyle.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107185651id_/http%3A//www.dressupstyle.com/help-privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Our Privacy Policy
+## Our Privacy Policy 
 
-  
-DressupStyle, its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. **Consumer Information**
+DressupStyle, its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
+
+**Consumer Information**
 
 During the process of delivering an ad to you, no personally identifiable information about you such as name, address, phone number, or e-mail address is collected. However, some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example) are obtained. The information collected are used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, this information may be collected on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, This information may be combined with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website. 
 
@@ -25,4 +26,5 @@ This site, DressupStyle, uses the services of Yahoo, Google, MochiAds, CPM Star 
   * To learn more about FastClick, go to <http://www.fastclick.com/about/opt-out.html>
   * To learn more about ValueClick, go to <http://www.valueclick.com/privacy.html>
 
+  
 
