@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go2album.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423000326id_/http%3A//www.go2album.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2album.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107040514id_/http%3A//www.go2album.com/about/privacy.php) for the most accurate reproduction.*
 
-# Go2Album
+# - Web Album Created with Flash Slideshow Software
 
 **Go2Albums Commitment to Privacy**    
 
