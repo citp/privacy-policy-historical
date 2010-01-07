@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruitkingsplaza.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419164624id_/http%3A//www.fruitkingsplaza.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruitkingsplaza.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107061128id_/http%3A//www.fruitkingsplaza.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Our Privacy policy:
 
