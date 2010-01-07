@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828115922id_/http%3A//www.apmex.com/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107051204id_/http%3A//www.apmex.com/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
 
 # 
 
