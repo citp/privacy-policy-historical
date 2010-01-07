@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the articlesmaker.com privacy policy that was archived on 2009-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090702070224id_/http%3A//www.articlesmaker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesmaker.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107074250id_/http%3A//www.articlesmaker.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ArticlesMaker.com
+# Privacy Policy - ArticlesMaker
 
-[ArticlesMaker.com](https://web.archive.org/) » Privacy Policy 
+[ArticlesMaker](https://web.archive.org/) » Privacy-policy 
 
 * * *
 
-## Privacy Policy
+### Privacy Policy
 
 * ArticlesMaker.com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of ArticlesMaker.com and are only used for troubleshooting purposes.
 
@@ -42,3 +42,6 @@
 * This is the website of ArticlesMaker.com. We can be reached via e-mail at support at articlesmaker.com. Please replace (at) with @.  If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
 ...............................................................
+
+  
+
