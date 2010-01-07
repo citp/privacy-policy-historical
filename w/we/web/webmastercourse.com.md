@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925121244id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108005959id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Use This Free Privacy Policy For Your Website From WebmasterCourse.Com
+# Privacy Policy WebmasterCourse.Com
 
 ## You May Use This Free Privacy Policy For Your Blog Or Website - _Details Here >>_
 
