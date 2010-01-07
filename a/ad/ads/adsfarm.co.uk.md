@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsfarm.co.uk privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405183336id_/http%3A//www.adsfarm.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsfarm.co.uk privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107013001id_/http%3A//www.adsfarm.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,7 @@ This notice applies to all information collected or submitted on this website. O
 
 Website adress  
 Email address   
+Your IP address  
 
 
 The Information We DONT Collect:
@@ -24,15 +25,15 @@ Credit/Debit Card Information
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
-
 Information you provide to us to create a link is only used for that purpose, and it is only disclosed to the website. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+Exception from the above rule is your IP address. You can opt-in to display or not your contact email address.
 
 ###  Our Commitment To Data Security
 
@@ -44,12 +45,12 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ###  How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by calling us or sending us an email. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by clicking the Edit link in your confirmation email received or sending us an email asking for support. We use this procedure to better safeguard your information. You are not allowed to modify your originating IP address and we will not do that for you.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will also take some steps to verify your identity before granting access or making corrections. 
 
 ###  How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact us at **info [at] adsfarm [dot] co [dot] uk**.
+Should you have other questions or concerns about these privacy policies, please[ contact us](http://www.adsfarm.co.uk/contact.php) at **info [at] adsfarm [dot] co [dot] uk**.
