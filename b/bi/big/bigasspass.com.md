@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigasspass.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208175804id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigasspass.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108002947id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
 
 # BigAssPass - Privacy Policy
 
