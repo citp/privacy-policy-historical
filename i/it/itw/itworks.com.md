@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworks.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002070609id_/http%3A//www.itworks.com/common/online_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworks.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107030355id_/http%3A//www.itworks.com/common/online_privacy_policy.htm) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
