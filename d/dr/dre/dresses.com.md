@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dresses.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226043753id_/http%3A//www.dresses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresses.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107133656id_/http%3A//www.dresses.com/privacy.html) for the most accurate reproduction.*
 
 # Dresses.com - Privacy and Security Statement
 
 ****DRESSES.COM PRIVACY POLICY****  
 
 
-This Privacy Policy is effective for all users of the DRESSES.COM website (hereinafter, "User"). The purpose of this Privacy Policy is to provide you with ODETTE CHRISTIANE, LLC (hereinafter "DRESSES.COM," "we," "us" or "our") information collection practices (including the information DRESSES.COM collects, how it is collected, and the circumstances under which the information is disclosed), and to demonstrate DRESSES.COM�s firm commitment to privacy and adherence to the California Online Privacy Protection Act. 
+This Privacy Policy is effective for all users of the DRESSES.COM website (hereinafter, "User"). The purpose of this Privacy Policy is to provide you with ODETTE CHRISTIANE, LLC (hereinafter "DRESSES.COM," "we," "us" or "our") information collection practices (including the information DRESSES.COM collects, how it is collected, and the circumstances under which the information is disclosed), and to demonstrate DRESSES.COM’s firm commitment to privacy and adherence to the California Online Privacy Protection Act. 
 
 The following discloses our information gathering and dissemination practices for the website DRESSES.COM:
 
