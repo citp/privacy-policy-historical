@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222035948id_/http%3A//www.autoworld.com.my/aw/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107162031id_/http%3A//www.autoworld.com.my/v2/misc/policy.asp) for the most accurate reproduction.*
 
-# Autoworld - Help Guide
+# Autoworld - Malaysia's First Automotive Portal
 
 This Statement of Privacy applies to the web site of autoworld.com.my ("Site"), an automotive portal service provided by Autoworld.com.my Sdn.Bhd. ("AWSB"). Our postal and office address is :- 
 
 > Autoworld.com.my Sdn Bhd (Co. No. 804477-T)  
 >  Wisma Jobstreet.com,  
-> No. 27, Lorong Medan Tuanku 1,  
-> (Off Jalan Sultan Ismail)  
+>  No. 27, Lorong Medan Tuanku 1,  
+>  (Off Jalan Sultan Ismail)  
 >  50300 Kuala Lumpur,  
 >  Malaysia. 
 > 
@@ -99,4 +99,4 @@ This Privacy Policy, as modified/revised from time to time, is incorporated into
 
 We encourage you to periodically review this Privacy Policy to be informed of how we are protecting your information. 
 
-This Privacy Policy was last revised on 9th January 2003. 
+This Privacy Policy was last revised on 9th January 2003.
