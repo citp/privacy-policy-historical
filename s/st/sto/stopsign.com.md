@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926155952id_/http%3A//www.stopsign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107133902id_/http%3A//www.stopsign.com/privacy) for the most accurate reproduction.*
 
-# StopSign Privacy Policy
+# StopSign® Privacy Policy
 
 Last updated: June 5, 2009
 
@@ -12,7 +12,7 @@ This policy discloses our information handling practices for subscribers to our 
 
 ## General Practices:
 
-  1. Selected eAcceleration and StopSign web pages use tags to ensure that downloads are attributed to the proper source (e.g., a link from a search engine).
+  1. Selected eAcceleration® and StopSign® web pages use tags to ensure that downloads are attributed to the proper source (e.g., a link from a search engine).
 
   2. Some statistical data about the client computer (default language, time zone, operating system and CPU speed) and some software performance data are included in communications between the software and our servers, to optimize the performance of the software.
 
@@ -40,7 +40,7 @@ This policy discloses our information handling practices for subscribers to our 
 
 ## Downloads:
 
-  1. Subscribers or Free Trial users who have opted to "always trust content from eAcceleration" may not receive future "Security Warning" dialogs upon invocation of downloads. This behavior is determined by the settings of your internet browser. However, regardless of your browser settings, StopSign products will provide a prompt before installation, which allows you to continue or cancel the install.
+  1. Subscribers or Free Trial users who have opted to "always trust content from eAcceleration" may not receive future "Security Warning" dialogs upon invocation of downloads. This behavior is determined by the settings of your Internet browser. However, regardless of your browser settings, StopSign products will provide a prompt before installation, which allows you to continue or cancel the install.
 
   2. Any download of software from an eAcceleration website will occur only through an opt-in choice that obtains explicit user permission. If you have received a download of our software without having granted explicit permission, please let us know by emailing: [Problems@eAcceleration.com](mailto:Problems@eAcceleration.com).
 
@@ -103,3 +103,9 @@ Attn: Operations Department
 Poulsbo, WA 98370 USA 
 
 or, email us at: [Privacy@eAcceleration.com](mailto:Privacy@eAcceleration.com).
+
+[](http://www.stopsign.com/downloads/stop-sign_install.exe?uid=af755fa47d82bfae77684d8d0880f33b&bit_mask=604506368&bit_sample=904356484&ver=online&b=%26qq_eac-nohost&pg=%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26more-info%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2&n=d_mss&SV=stopsign.com_index_boxcd_02&lxt=11&redir=www-stopsign-com&view=prod&crt=4.6.11.1&cart_init=membership&cart_value=none)
+
+### Chat With a Technician
+
+Available daily from 5:00 a.m. to 11:00 p.m. (Pacific).
