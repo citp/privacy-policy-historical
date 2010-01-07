@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibps.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228061332id_/http%3A//ibps.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibps.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107030341id_/http%3A//www.ibps.com/privacy.cfm) for the most accurate reproduction.*
 
 # Kalahare - Privacy Policy
 
