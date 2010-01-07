@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831050114id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107010808id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
 
-# HypeDC Legals - latest sneakers from around the globe
+# Legals - Hype DC
 
 Terms and Conditions
 
