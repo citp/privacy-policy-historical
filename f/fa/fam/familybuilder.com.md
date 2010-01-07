@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familybuilder.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608092452id_/http%3A//www.familybuilder.com/siteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familybuilder.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107163802id_/http%3A//familybuilder.com/siteprivacypolicy) for the most accurate reproduction.*
 
 # Global Site Privacy Policy Familybuilder
 
