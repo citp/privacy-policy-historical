@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkybank.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625060521id_/http%3A//www.linkybank.com/privatepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkybank.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107025355id_/http%3A//linkybank.com/privatepolicy.php) for the most accurate reproduction.*
 
 # Turn your links into cash
 
