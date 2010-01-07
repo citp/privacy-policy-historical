@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ges.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516083713id_/http%3A//www.ges.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ges.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107135018id_/http%3A//www.ges.com/privacy) for the most accurate reproduction.*
 
 # GES - Privacy Policy
 
