@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihc.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208163906id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihc.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108055731id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
 
 # Intermountain Healthcare Notice of Privacy Practices - Salt Lake City, Utah
 
