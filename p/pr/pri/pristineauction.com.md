@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208062504id_/http%3A//www.pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108102806id_/http%3A//www.pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
 
 # Pristine Auction
 
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.pristineauction.com/default/index/pages/name/policies](https://web.archive.org/web/20091208062504id_/http%3A//www.pristineauction.com/default/index/pages/name/policies)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.pristineauction.com/default/index/pages/name/policies](https://web.archive.org/web/20100108102806id_/http%3A//www.pristineauction.com/default/index/pages/name/policies)
 
  **Your Consent**
 
