@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornhubking.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125162444id_/http%3A//www.pornhubking.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhubking.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108031019id_/http%3A//www.pornhubking.com/static/privacy) for the most accurate reproduction.*
 
-# PornHub King - Watch, Download and Upload Porn Videos & DVDs Free
+# PornHubKing - Watch, Download and Upload Porn Videos & DVDs Free
 
 ## PRIVACY
 
