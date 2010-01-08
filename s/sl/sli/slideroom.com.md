@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503001749id_/http%3A//slideroom.com/About_Us_Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108103601id_/http%3A//slideroom.com/About_Us_Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # SlideRoom
 
@@ -30,14 +30,10 @@ Our site has industry standard security measures in place to protect the loss, m
 
 SlideRoom allows its users the option to change or modify information previously provided. This may be done through accessing your user account in the ‘my account’ section of the Website.
 
-###  CHOICE; OPT OUT
-
-You may opt-out of receiving communications from our partners, and from us by stating your request in the SlideRoom contact form [here.](https://web.archive.org/web/20090503001749id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml).
-
 ### PUBLIC FORUMS
 
 This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 ### CONTACTING US
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](https://web.archive.org/web/20090503001749id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](https://web.archive.org/web/20100108103601id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml)
