@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfactorcentral.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208171304id_/http%3A//www.rfactorcentral.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfactorcentral.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108055147id_/http%3A//www.rfactorcentral.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # rFactor Central // Privacy Policy
 
