@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocentro.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207170743id_/http%3A//www.seocentro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocentro.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108095456id_/http%3A//www.seocentro.com/privacy.html) for the most accurate reproduction.*
 
 # SEOCentro Privacy Policy
 
