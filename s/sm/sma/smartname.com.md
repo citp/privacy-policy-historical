@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartname.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207165734id_/http%3A//www.smartname.com/smartname/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartname.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108091103id_/http%3A//www.smartname.com/smartname/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - SmartName.com
 
@@ -8,4 +8,4 @@
 
 **SmartName.com (or NameMedia)** or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. 
 
-If you need assistance in updating the information you have provided to **SmartName.com (or NameMedia)** or you have questions or comments about these policies, contact SmartName.com's manager of customer information with our [contact form](https://web.archive.org/web/20091207165734id_/http%3A//www.smartname.com/smartname/contact-us.jsp).
+If you need assistance in updating the information you have provided to **SmartName.com (or NameMedia)** or you have questions or comments about these policies, contact SmartName.com's manager of customer information with our [contact form](https://web.archive.org/web/20100108091103id_/http%3A//www.smartname.com/smartname/contact-us.jsp).
