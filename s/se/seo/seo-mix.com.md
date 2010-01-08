@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-mix.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410145415id_/http%3A//seo-mix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-mix.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108100957id_/http%3A//www.seo-mix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO-Mix
 
