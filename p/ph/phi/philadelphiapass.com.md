@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the philadelphiapass.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209062650id_/http%3A//www.philadelphiapass.com/contactPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiapass.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108194641id_/http%3A//www.philadelphiapass.com/contactPrivacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Philadelphia Pass
 
-[Home](https://web.archive.org/web/20091209062650id_/http%3A//www.philadelphiapass.com/index.asp) > [Contact](https://web.archive.org/web/20091209062650id_/http%3A//www.philadelphiapass.com/contactUs) > **Privacy Policy**
+[Home](https://web.archive.org/web/20100108194641id_/http%3A//www.philadelphiapass.com/index.asp) > [Contact](https://web.archive.org/web/20100108194641id_/http%3A//www.philadelphiapass.com/contactUs) > **Privacy Policy**
 
 Leisure Pass North America is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act of 1998)
 
