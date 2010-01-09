@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110073436id_/http%3A//www.reasonproject.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109144331id_/http%3A//www.reasonproject.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | The Reason Project
 
