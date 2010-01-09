@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grafpedia.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029111436id_/http%3A//www.grafpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafpedia.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109122312id_/http%3A//www.grafpedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grafpedia
 
@@ -9,7 +9,7 @@
 **Statistical Data**  
 Our servers (as most) track IP addresses and referring pages to help with site maintenance and improvements. This data is viewed only as anonymous statistics to show the busiest times of the day or week, pages with errors and how effective our advertising has been. This information is not used for any other purpose.
 
-**Personal Information Collected - Order Forms**  
+**Personal Information Collected – Order Forms**  
 We store the information from your order form to allow us to track consulting issues or refer to a previous order to help provide some customer service.
 
 **What information do we collect?**  
