@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moreover.com privacy policy that was archived on 2009-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091127184324id_/http%3A//w.moreover.com/public/general/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moreover.com privacy policy that was archived on 2010-01-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100109134818id_/http%3A//w.moreover.com/public/general/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Moreover Technologies-Privacy Policy</title>
@@ -74,7 +74,7 @@
          <li><a href="../customers/media-monitoring.html"><span>Media Monitoring</span></a></li>
          <li><a href="../customers/portals-and-publishers.html"><span>Portals &amp; Publishers</span></a></li>
          <li><a href="../customers/search-engines.html"><span>Search Engines</span></a></li>
-         <li><a href="../customers/partners-and-oem.html"><span>Partners &amp; OEM</span></a></li>
+         <li><a href="../customers/partners.html"><span>Partners</span></a></li>
          <li class="last-child"><a href="../customers/shell-case-study.html"><span>Shell Case Study</span></a></li>
         </ul>
        </li>
@@ -176,8 +176,12 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-155125-6");
-pageTracker._trackPageview();
+try
+	{
+	var pageTracker = _gat._getTracker("UA-155125-6");
+	typeof(is404)=="undefined" ? pageTracker._trackPageview() : pageTracker._trackPageview("/404.html?page=" + document.location.pathname + document.location.search + "&amp;from=" + document.referrer);
+	}
+catch(err) {}
 </script>
 <!--[if !IE]> END: Google Analytics Code <![endif]-->
 <!--[if !IE]> START: Statcounter Code <![endif]-->
