@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesfan.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230051454id_/http%3A//www.pesfan.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesfan.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109195740id_/http%3A//www.pesfan.com/doc/privacy) for the most accurate reproduction.*
 
 # PESFan.com - Official PES fan site for Konami's Pro Evolution Soccer with Forums, News, Downloads, Trailers
 
