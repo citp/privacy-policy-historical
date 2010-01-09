@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencechannel.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228154311id_/http%3A//science.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencechannel.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109113331id_/http%3A//science.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : The Science Channel
 
