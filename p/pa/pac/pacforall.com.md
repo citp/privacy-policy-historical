@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacforall.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820064237id_/http%3A//www.pacforall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacforall.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109113849id_/http%3A//www.pacforall.com/privacy.php) for the most accurate reproduction.*
 
 # PAC for ALL : Privacy Policy
 
