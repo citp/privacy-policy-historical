@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705113010id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109032849id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
 
-# Privacy-Policy
+# Privacy Policy
 
 **Privacy Policy for www.a1newspapers.com**
 
@@ -13,6 +13,14 @@ Like many other Web sites, www.a1newspapers.com makes use of log files. The info
 
 **Cookies and Web Beacons**   
 www.a1newspapers.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, CAPTCHA validation purposes, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+Google, DoubleClick and other advertisement partners may use cookies to serve ads in this site.
+
+Google use DART cookie to serve ads to users based on their visit to this and other sites.
+
+You can opt out of the use of DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+We use third-party advertising companies to display ads in this site, these companies may use information about your visits to this site and to other sites to provider interest based advertisements. 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
 
