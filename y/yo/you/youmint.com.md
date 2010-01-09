@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youmint.com privacy policy that was archived on 2009-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090712030945id_/http%3A//www.youmint.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmint.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109111751id_/http%3A//www.youmint.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# YouMint Privacy Policy
+# Privacy Policy - YouMint.com
 
 **YouMint.com** is a website owned by **MobileTree Media Private Limited**. Wherever the term "YouMint" is used it represents the company **MobileTree Media Private Limited** and the services provided through **YouMint.com**. YouMint takes your privacy seriously.   
 Please read the following to learn more about our privacy policy. The premise of this proposition is completely based on respecting your **privacy.**
