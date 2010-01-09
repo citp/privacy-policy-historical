@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109142514id_/http%3A//marenda.biz/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109020538id_/http%3A//marenda.biz/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Living Life Abundantly
-
-## Privacy Policy
 
 If you're new here, you may want to subscribe to my [RSS feed](http://marenda.biz/feed/). Thanks for visiting!
 
