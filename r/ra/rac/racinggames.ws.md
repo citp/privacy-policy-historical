@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racinggames.ws privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830031358id_/http%3A//www.racinggames.ws/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racinggames.ws privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109101001id_/http%3A//www.racinggames.ws/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cool Racing Games - RacingGames.ws
 
@@ -72,5 +72,4 @@ Please address comments or questions regarding this Privacy Policy to us by [e-m
 
 ### Binding Agreement
 
-Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 08/04/09   
-
+Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 08/04/09
