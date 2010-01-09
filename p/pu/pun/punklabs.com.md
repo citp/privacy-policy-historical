@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punklabs.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830020608id_/http%3A//punklabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punklabs.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109041858id_/http%3A//punklabs.com/privacy) for the most accurate reproduction.*
 
 # Punk Labs - Privacy Policy
 
