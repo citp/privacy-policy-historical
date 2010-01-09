@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the edelweiss.in privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522112034id_/http%3A//www.edelweiss.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelweiss.in privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109122906id_/http%3A//edelweiss.in/privacy.aspx) for the most accurate reproduction.*
 
-# EdelBlue
+# Edelweiss
 
 PRIVACY POLICY
 
-Your privacy is important to Edelcap Securities & Transaction Services Limited. This privacy statement provides information about the personal information that Edelcap Securities & Transaction Services Limited collects, and the ways in which Edelcap Securities & Transaction Services Limited uses that personal information.
+Your privacy is important to Edelweiss Capital Services Limited. This privacy statement provides information about the personal information that Edelweiss Capital Services Limited collects, and the ways in which Edelweiss Capital Services Limited uses that personal information.
 
 **Personal information collection**
 
-Edelcap Securities & Transaction Services Limited may collect and use the following kinds of personal information: 
+Edelweiss Capital Services Limited may collect and use the following kinds of personal information: 
 
   * information about your use of this website 
   * information that you provide using for the purpose of registering with www.edelweiss.in (“the Website”).
   * information about transactions carried out over this Website .
   * information that you provide for the purpose of subscribing to the Website services 
-  * any other information that you send to Edelcap Securities & Transaction Services Limited .
+  * any other information that you send to Edelweiss Capital Services Limited.
 
 
 
 **Using personal information**
 
-Edelcap Securities & Transaction Services Limited may use your personal information to: 
+Edelweiss Capital Services Limited may use your personal information to: 
 
   * administer this Website; 
   * personalize the Website for you;
@@ -34,41 +34,41 @@ Edelcap Securities & Transaction Services Limited may use your personal informat
 
 
 
-Where Edelcap Securities & Transaction Services Limited discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+Where Edelweiss Capital Services Limited discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. Edelweiss Capital Services Limited shall or its agents and/or sub-contractors may use your personal information to make contact you for promotion of products/schemes etc of Edelweiss Capital Services Limited or of its partners from time to time. You hereby agree and understand that such promotional calls shall be made to you unless you specifically convey to Edelweiss Capital Services Limited to not call you further for such promotions, schemes etc.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Edelcap Securities & Transaction Services Limited may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Edelweiss Capital Services Limited may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
 **Securing Your Data**
 
-Edelcap Securities & Transaction Services Limited will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. 
+Edelweiss Capital Services Limited will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. 
 
-Edelcap Securities & Transaction Services Limited will store all the personal information you provide on its secure servers. 
+Edelweiss Capital Services Limited will store all the personal information you provide on its secure servers. 
 
 Information relating to electronic transactions entered into via this Website will be protected by encryption technology.
 
 **Cross-border data transfers**
 
-Information that Edelcap Securities & Transaction Services Limited collects may be stored and processed in and transferred between any of the countries in which Edelcap Securities & Transaction Services Limited operates (if at all) to enable the use of the information in accordance with this privacy policy.
+Information that Edelweiss Capital Services Limited collects may be stored and processed in and transferred between any of the countries in which Edelweiss Capital Services Limited operates (if at all) to enable the use of the information in accordance with this privacy policy.
 
 In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world. You agree to such cross-border transfers of personal information.
 
 **Updating this statement**
 
-Edelcap Securities & Transaction Services Limited may update this privacy policy by posting a new version on this Website. You should check this page occasionally to ensure you are familiar with any changes. 
+Edelweiss Capital Services Limited may update this privacy policy by posting a new version on this Website. You should check this page occasionally to ensure you are familiar with any changes. 
 
 **Other websites**
 
-This website contains links to other websites. Edelcap Securities & Transaction Services Limited is not responsible for the privacy policies or practices of any third party.
+This website contains links to other websites. Edelweiss Capital Services Limited is not responsible for the privacy policies or practices of any third party.
 
-**Edelcap Securities & Transaction Services Limited **
+**Edelweiss Capital Services Limited**
 
-If you have any questions about this privacy policy or Edelcap Securities & Transaction Services Limited’s treatment of your personal information, please write to:
+If you have any questions about this privacy policy or Edelweiss Capital Services Limited’s treatment of your personal information, please write to:
 
 By email:         [helpdesk@edelweiss.in](mailto:helpdesk@edelweiss.in) or 
 
 By post: 
 
-**Edelcap Securities & Transaction Services Limited**,
+**Edelweiss Capital Services Limited** ,
 
 14th Floor, 
 
