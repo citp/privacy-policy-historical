@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashninjaclan.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901195744id_/http%3A//www.flashninjaclan.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashninjaclan.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109125926id_/http%3A//www.flashninjaclan.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
