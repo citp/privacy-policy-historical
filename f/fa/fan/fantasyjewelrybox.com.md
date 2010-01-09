@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyjewelrybox.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/faqs.html%23secure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyjewelrybox.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/faqs.html%23secure) for the most accurate reproduction.*
 
 # FAQs
 
@@ -42,7 +42,7 @@
   
 **Jewelry Glossary**  
 
-* [Click here for jewelry terms and definitions](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/jewelryglossary.html)
+* [Click here for jewelry terms and definitions](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/jewelryglossary.html)
 
 **Q: How can I contact Fantasy Jewelry Box?**
 
@@ -66,39 +66,39 @@ Delays may occur for products on back order, in limited availability or on speci
 
 **Q: What is your return& exchange policy?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/returnexchanges.html) for detailed return and exchange information.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/returnexchanges.html) for detailed return and exchange information.
 
 **Q: What does your gift box look like?**
 
 **A:** If you choose to have your item gift wrapped, your order will arrive in an attractive pink 3 ½” x 3 ½” jewelry box topped with an elegant white satin bow. Your piece(s) will be placed inside a small black velvet pouch within the box. Additionally, the jewelry box will be nested inside an attractive 5”x5” white shipping box surrounded by elegant pearl white striped tissue paper. Perfect for gift-giving! We are extremely proud of our gift wrapping services and we promise you will be amazed at the response you will get from the lucky recipient!  
-To see an example of our gift boxing please [click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/giftboxing.html). 
+To see an example of our gift boxing please [click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/giftboxing.html). 
 
 **Q: How can I determine my ring size?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/ringsizer.html) for more information on determining your ring size.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/ringsizer.html) for more information on determining your ring size.
 
 **Q: How do I take care of my jewelry?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/jewelrycare.html) for more information on how to take care of your new jewelry.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/jewelrycare.html) for more information on how to take care of your new jewelry.
 
 **Q: What is Sterling Silver?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/aboutsilver.html) for more information about .925 Sterling Silver.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/aboutsilver.html) for more information about .925 Sterling Silver.
 
 **Q: What is cubic zirconia?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/aboutcz.html) for more information on cubic zirconias.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/aboutcz.html) for more information on cubic zirconias.
 
 **Q: What is rhodium?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/aboutrhodium.html) for more information on rhodium plating.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/aboutrhodium.html) for more information on rhodium plating.
 
 **Q: What is stainless steel?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on stainless steel.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on stainless steel.
 
 **Q: What is titanium?**
 
-[Click here](https://web.archive.org/web/20090831054850id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on titanium.
+[Click here](https://web.archive.org/web/20100109095239id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on titanium.
 
  
