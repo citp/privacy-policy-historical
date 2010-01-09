@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115110530id_/http%3A//www.tassimodirect.com/Tassimo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109131358id_/http%3A//www.tassimodirect.com/Tassimo/privacy.aspx) for the most accurate reproduction.*
 
 # Tassimo - Tassimo Privacy
 
