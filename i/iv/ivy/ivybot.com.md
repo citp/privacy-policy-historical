@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivybot.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901191832id_/http%3A//www.ivybot.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivybot.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109115653id_/http%3A//ivybot.com/privacy/index.html) for the most accurate reproduction.*
 
 # IvyBot - Confirm
 
@@ -6,7 +6,7 @@ Last updated: July 28, 2009
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such info. We request that you read this Privacy Policy carefully.
 
-If you have questions or concerns regarding this statement, you should first contact Cameron through our [privacy@ivybot.com](https://web.archive.org/web/20090901191832id_/http%3A//www.ivybot.com/privacy/support.php). 
+If you have questions or concerns regarding this statement, you should first contact Cameron through our [privacy@ivybot.com](https://web.archive.org/web/20100109115653id_/http%3A//ivybot.com/privacy/support.php). 
 
 ## Personal Information Our Company Collects and How It Is Used
 
