@@ -1,230 +1,741 @@
-<!--The following is the downloaded HTML source of the imathlete.com privacy policy that was archived on 2008-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081009221157id_/http%3A//www.imathlete.com/page.php%3Fpage_id%3D163) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imathlete.com privacy policy that was archived on 2010-01-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100109122609id_/http%3A//www.imathlete.com/account/info/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		<title>imATHLETE: participate</title>
-		<link rel="stylesheet" type="text/css" href="./html/css/framework.css" media="all">
-		<meta name="description" content="imATHLETE is a collaborative database of athletic experiences and information to inform, inspire and connect sports participants around the world. imATHLETE is an easy-to-use community forum for all sports participants to effectively manage and enhance their athletic lifestyle."> 
-		<meta name="keywords" content="triathlon, triathalon, running, jogging, jog, run, bicycle, mountain bike, mountain biking, biking, cycling, swimming, swim, swimmers, race, event, social networking, sports, sporting, race report, race reports, sports experience, race experience, marathon, Olympic, sprint, sprint triathlon, international triathlon, Olympic triathlon, trail run, road run, track and field, new york marathon, los angeles marathon, usa triathlon, usat, usa cycling, usac, us Olympic committee, usoc, usa track and field, usatf, us adventure racing, usara, wildflower, ironman, IM, sports, athletic, race photos, photo, sports encyclopedia, sports, event calendar, sports event calendar">
- 		<meta name="keyphrases" content="race report, course information, find triathlons, find runs, elevation profile, elevation gain, marathon information, running races, sports calendar, event calendar">
-		<meta name="author" content="imATHLETE">
-		<link rel="shortcut icon" href="./site/gui/favicon.ico">
-		<base href="http://www.imathlete.com/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-		<script language="JavaScript" type="text/javascript" src="./html/js/framework.js"></script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			_uacct = "UA-2678392-1";
-			urchinTracker();
-		</script>
-	</head>
+	<title>
+	Welcome to imATHLETE.com!
+</title><meta name="keywords" content="<%= string.IsNullOrEmpty(PageMetaKeywords) ? Resources.Strings_EN_US.IMAMetaKeywords : PageMetaKeywords %>"><meta name="description" content="<%= Resources.Strings_EN_US.IMAMetaDescription %>"><meta http-equiv="cache-control" content="no-cache"><link rel="stylesheet" type="text/css" href="/includes/jquery/ui.all.css"><link rel="stylesheet" type="text/css" href="/includes/jquery.ui.stars.css"><link rel="stylesheet" type="text/css" href="/includes/styles/general.css">
+	
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="/includes/styles/ie6.css" />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="/includes/styles/ie7.css" />
+<![endif]-->
+
+	<script type="text/javascript" src="/includes/jquery/jquery-1.3.1.js"></script>
+    <script type="text/javascript" src="/includes/jquery/jquery.ui.all.min.js"></script>
+    <script type="text/javascript" src="/includes/jquery/jquery.json-1.3.min.js"></script>
+	<script type="text/javascript" src="/includes/jquery.blockUI.js"></script>
+	<script type="text/javascript" src="/includes/global.js"></script>
+	<script type="text/javascript" src="/includes/gStandard.js"></script>
+	<script type="text/javascript" src="/includes/jquery/jquery.ui.stars.js"></script>
+	<script type="text/javascript" src="/includes/gFeedback.js"></script>
+	
+	
+	<script type="text/javascript">
 		
-	<body>
-		<div id="container" class="event">
-			<div id="header">
-				<div id="super_nav">
-					<ul>
-						<li><a href="sports.php?category=0">sports</a></li>
-						<li><a href="locations.php">locations</a></li>
-						<li><a href="my_sports.php">my sports</a></li>					
-					</ul>
-				</div>
+	var bCompanyPortalAccess = false;
+	var sEBoolOn = "E1";
+	var sEBoolOff = "E0";
+	var sSiteURL = 'http://www.imathlete.com';
+	var sSiteURLSec = 'https://www.imathlete.com';
+	
+	var giCountryDefaultUS = 1233;
+	var giCountryCanada = 1039;
+	
+	var sLogin = "";
+	
+	$.blockUI.defaults.css.cursor = 'default';
+	$.blockUI.defaults.css.fontSize = '18px';
+	$.blockUI.defaults.css.width = '400px';
+	
+	// Startup functionality =========================================	
+	$(document).ready( function () {
+		
+		gLoadUserSession(true);
+		
+		// To make IE work:
+		$(".TopNavMenu ul ").css({display: "none"}); // Opera Fix
+		$(".TopNavMenu li").hover(function(){
+				$(this).find('ul:first').css({visibility: "visible",display: "none"}).show();
+				},function(){
+				$(this).find('ul:first').css({visibility: "hidden"});
+				});
+		
+		$(document).find(".StandardHeaderReq").each(function() {
 			
-				<div id="logo">
-					<a href="http://www.imathlete.com/"><h1>imAthlete</h1></a>
-					<div id="tag_line">
-						<p>participate.</p>
-					</div>
-				</div>
+			if ($(this).find(".ToolTipBox").length > 0)
+				$(this).find(".ToolTipBox").before(" *&nbsp;");
+			else
+				$(this).append(" *");
 			
-			</div><!--end header-->
-<!-- <a href="my_reviews.php">My Reviews</a> -->
-
-
-		<div id="aux_nav">
-			<div id="main" class="section">
-							<div id="welcome" class="signin">
-					<form method="POST" action="login.php">
-					<p>login name:</p>
-					<p><input type="text" name="login" class="txt"></p>
-					<p>password:</p>
-					<p><input type="password" name="pwd" class="txt"></p>
-					<input type="hidden" name="action" value="login">
-										<input type="hidden" name="destination" value="/page.php?page_id=163">
-					<p class="btn"><input type="image" src="html/gui/btn_signin_gray.gif" class="btn" value="submit"></p>
-					<h2>participate.<br><span><a href="signup.php">sign-up for free!</a></span></h2>
-					</form>
-				</div>
-							<div class="links">
-					<ul>
-						<li><a href="add_event.php">add event</a></li>
-						<li><a href="sports.php?category=0">sports</a></li>
-						<ul class="submenu">
-												</ul>	
-						
-						<li><a href="locations.php">locations</a></li>
-						<ul class="submenu">
-												</ul>	
-						
-						<li><a href="recent_additions.php">recent additions</a></li>
-						<li><a href="recent_update.php">recent updates</a></li>
-						<li><a href="most_viewed.php">most viewed</a></li>
-						<li><a href="highest_rated.php">highest rated</a></li>
-						<li><a href="top_favorites.php">top favorites</a></li>
-					</ul>
-				</div>
-			</div>
+		});//end each
+		
+		$(document).find("label.LabelRequired").each(function() {
 			
-			<div id="quick_search" class="section">
-				<div class="content">
-					<h2>quick search</h2>
-					<form action="events.php" method="get">
-						<input name="q" type="text" class="txt">
-						<input name="action" value="search" type="hidden" class="txt">
-						<input type="image" src="html/gui/btn_search-wht.gif" class="btn">
-					</form>
-					<p><a href="events.php?show_advanced=true">advanced search</a></p>	
-				</div>
-			</div>
+			if ($(this).find(".ToolTipBox").length > 0)
+				$(this).find(".ToolTipBox").before(" *&nbsp;");
+			else
+				$(this).append(" *");
 			
-					
-
-			<div id="calendar" class="section">
-				<div class="content" id="calendarupdate">
-					<h2>calendar</h2>
-										<div class="months">
-						<p>
-							<span class="prev_month"><a href="#" onclick="getCalendar(09, 2008); return false;">&lt; Sep' 08</a></span>
-							<span class="next_month"><a href="#" onclick="getCalendar(11, 2008); return false;">Nov' 08 &gt;</a></span>
-						</p>
-					</div>
-				</div>
-			</div>
+		});//end each
+		
+		if (CheckLogin("", null))
+		{
+			$("#TopNavProfileLink").show();
+			$("#TopNavFriendsLink").show();
+			$("#TopNavInboxLink").show();
+			$("#TopNavMyEventsLink").show();
+			$("#TopNavMyGroupsLink").show();
 			
-		</div>	
-		<div id="content">
-<h1>our privacy policy</h1>
-<br>
-<strong>THE BASICS</strong>
-<p>We strive to maintain your privacy in all matters.  If we gather information, we want you to know when and how.  That's the point of this.  Suffice to say, we hate spam as much as the next guy, so to save you from reading through this whole thing just to find out what we do with your e-mail address, let me tell you right now that we don't let it out of our possession.  We never let anybody else use our mailing list - spammers or not.  We treasure your privacy and are pretty sure that you already get enough e-mails about vi@gr@ and cheap mortgages, and that you don't want us to contribute to that annoyance anymore than we want to be a part of it.  If you have opted-in to receive information from us, you will receive that.  
-</p><br>
-<p>If you just browse around the imATHLETE website, no information is collected other than that which is typically collected in server logs by any given website you visit.  We may plant cookies for your convenience.</p>
-<br>
-<p>If you contribute to imATHLETE by adding or editing information, you are publishing all of the words and information that you post.  You should assume that everything you put on the Website will be there forever, because it might be in an Internet archive somewhere.  </p>
-<br>
-<strong>PUBLISHING INFORMATION ON imATHLETE</strong><br>
-<p>Your identity will not be publicly exposed by just visiting the imATHLETE website.  When you add or edit a page, this is considered to be "publishing".  "Publishing" is a public act.  WHENEVER YOU PUBLISH INFORMATION ON IMATHLETE, YOU ARE ALWAYS PUBLICLY IDENTIFIED AS THE AUTHOR OF THAT INFORMATION. </p>
-<br>
-<strong>IDENTIFICATION OF AN AUTHOR</strong><br>
-<p>It is required that you be logged-in to an account for you to Publish information. Since you are logged-in to an account when you Publish information, you will be identified by the user name of the account.  The user name may be your real name or not, depending on what you've selected when you initially created the account.  The account username will be the identifying name for information you Publish.</p>
-<br>
-<p>Additionally, any information you Publish may also be tracked by your network IP address,  Your IP address will not be readily available to the public.  Instead, your IP address may be stored in the imATHLETE servers and can be seen by our server administration folks and others who are granted individual and temporary access.</p>
-<br>
-<p>In case you don't know, an IP address is a series of numbers that identifies the Internet address that you are using to access imATHLETE.  Depending on your Internet connection, this IP number may be traceable to your home, school, office or just to your Internet service provider.  You need to know that it is possible that the IP address may also be associated with other interests or websites you have visited on the Internet.  It may or may not be difficult for somebody to connect your IP address with your actual identity.  </p>
-<br>
-<strong>COOKIES.  NOT CHOCOLATE CHIP.</strong><br>
-<p>imATHLETE may set a temporary cookie whenever you visit the site.  Please note that you need this cookie to be able to log-in.  If you deny this cookie, you won't be able to log-in to your account.  Either way, the cookie will be deleted when you close your browser.  </p>
-<br>
-<p>When you log in to an account, we may set more cookies so that you don't have to keep typing in your username every time you visit this wonderful Website.  Feel free to clear these cookies after you use the Website - especially if you are using a public machine and you don't want others to see your username.  (While you'te at it, you oughta clear the browser cache as well, just for safe keeping.)</p>
-<br>
-<strong>PASSWORDS</strong><br>
-<p>All users are encouraged to select strong passwords and to never share them.  As a basic rule, we highly suggest that you never let anybody know your passwords,  Ever.  We here at imATHLETE promise to never ask you for your password (except in a login box to gain access to certain parts of the Website) nor knowingly expose any user's password to another user or to the public, either directly or indirectly.  We wouldn't want you to do that to us, so we're not going to do it to you.</p>
-<br>
-<strong>PRIVATE LOGGING</strong><br>
-<p>Whether you know it or not, whenever you visit any web page on the Internet there is quite a bit of information that gets sent to the web servers.  Most of this stuff is used simply to get an understanding of what pages are popular, what other sites link to that one and what web browsers people are using.  Like most other websites, we here at imATHLETE will be gathering the same information as well.  The only way we will be using this information is to create our site statistics (the log data is kept private and not made public.)  No individual data is logged by our Website, except to maintain usernames and password lists and in some cases to track abuses and abusers.</p>
-<br>
-<strong>ABUSE</strong><br>
-<p>From time to time we may look at individual IP addresses of users to try and correlate such addresses and usernames with abuse of the imATHLETE site.  We don't like people who abuse our site and will do whatever is within our means to keep the abusers away and maintain your privacy.</p>
-<br>
-<strong>THE REASONS WE MAY RELEASE PERSONAL DATA</strong><br>
-<p>There are a few instances in which we may release personal data of imATHLETE users.  These instances are as follows:<br>
-1.	In response to a subpoena or other compulsory request from law enforcement.<br>
-2.	With the permission of the user in question.<br>
-3.	When needed for investigation of abuse complaints.<br>  
-4.	When the information is needed to resolve technical issues.<br> 
-5.	Where it is reasonably necessary to protect the rights, property or safety of the imATHLETE, its users, or the public. <br></p>
-
-<p>The imATHLETE Privacy Policy does not permit the public distribution of personal data for any reason, except as described above.</p>
-<br>
-<strong>THE SHARING OF USER INFORMATION</strong><br>
-<p>Except where otherwise noted, all of the text that has been added to imATHLETE is available for reuse based on the Limited License agreement we have outlined in the imATHLETE Terms of Use and Dislaimer.  </p>
-<br>
-<p>imATHLETE will not sell or share private information (like e-mail addresses) to third parties unless you agree to release this information or we are required by law to release the info.  </p>
-<br>
-<strong>INFORMATION SECURITY</strong><br>
-<p>We have to tell you that imATHLETE makes no guarantee against unauthorized access to your information.  Though we strive to create a highly secure environment, user information may be available to certain employees, internal developers, and administrators who have access to the imATHLETE servers.  </p>
-<br>
-<strong>E-MAILS</strong><br>
-<p>You may be asked to provide your e-mail address when you create a user account.  Other logged-in users may send you e-mail through the imATHLETE system.  Please not that your actual e-mail address will not be revealed to the other users unless you respond to them (or, perhaps, if the e-mail bounces).  </p>
-<br>
-<p>If you have opted-in to receive information from imATHLETE, we may use your e-mail address to communicate with you.  In this case your e-mail address will be included on the imATHLETE mailing list, though the actual address will not be viewable to any other members.  </p>
-<br>
-<p>If you do not provide an accurate e-mail address, you will not be able to reset your password if you forget it.</p>
-<br>
-<strong>USER DATA</strong><br>
-<p>Basic data on imATHLETE users, such as the number of edits they've made and the times at which they've edited information, may be available for other users to view.  This information will not include e-mail addresses but, rather only usernames and/or IP addresses.</p>
-<br>
-<strong>REMOVAL OF USER ACCOUNTS</strong><br>
-<p>Once you've created a user account it can not be removed.  You may change your user name if you really want to, though we can't guarantee that the username you want hasn't already been taken.  </p>
-<br>
-<strong>DELETION OF CONTENT</strong><br>
-<p>Removing information from an imATHLETE post does not permanently delete the information.  Any person browsing the imATHLETE Website can view information that has been deleted.  The only way information will be permanently deleted from the servers is if select administrators deem it necessary to remove the information.  Unless there is a legal reason to remove information, this probably won't happen. </p>
-<br>
-<p>That is our Privacy Policy.  We hope you enjoyed reading it and we hope that it answered all of your questions.  If you still have questions about your privacy, please feel free to drop us a line.</p>
-<br>
-<p>If you don't have any questions, why not go outside and play.  </p>
-<br><br>
- 
-
-		</div> <!--end content-->
-		<div class="cb"></div>
-		<div id="footer">	
-			<div id="footer_nav">
-				<p>
-					<a href="page.php?page_id=2">imA mission</a>
-					<a href="page.php?page_id=3">terms of use</a>
-					<a href="page.php?page_id=163">our privacy policy</a>
-					<a href="page.php?page_id=172">the disclaimer</a>
-					<a href="page.php?page_id=4">faq</a>
-					<a href="page.php?page_id=1098">contact us</a>
-				</p>
-			</div>
+			$("#PreLoginInfoBox").hide();
+			$("#PostLoginInfoBox").show();
+			
+			// Temporary - So they can find their list of events first and manage them that way.
+			$("#TopNavEditRegLink a").attr("href", "/account/MyEvents.aspx");
+			
+		}//end if
+		else
+		{
+			$("#TopNavProfileLink").hide();
+			$("#TopNavFriendsLink").hide();
+			$("#TopNavInboxLink").hide();
+			$("#TopNavMyEventsLink").hide();
+			$("#TopNavMyGroupsLink").hide();
+			
+			$("#PreLoginInfoBox").show();
+			$("#PostLoginInfoBox").hide();
+			
+			// Temporary:
+			$("#TopNavEditRegLink a").attr("href", "/events/EditReg/EditReg_EditRegistration.aspx");
+			
+		}//end if
+		
+		$(".TopNavSpecLinkOff").hover(function() {
+			
+			var sSrc = $(this).find("img").attr("src");
+			var pattern = /_off\.(?:gif|jpg){1}$/;
+			
+			var matches = sSrc.match(pattern);
+			var sReplacement = "";
+			
+			if (matches != null && matches.length > 0)
+			{
+				sReplacement = sSrc.match(pattern)[0];
+			
+				sReplacement = sReplacement.replace("_off.", "_on.");
+			
+				sSrc = sSrc.replace(pattern, sReplacement);
+			}//end if
+			
+			$(this).find("img").attr("src", sSrc);
+			
+			
+		}, function() {
+			
+			var sSrc = $(this).find("img").attr("src");
+			var pattern = /_on\.(?:gif|jpg){1}$/;
+			
+			var matches = sSrc.match(pattern);
+			var sReplacement = "";
+			
+			if (matches != null && matches.length > 0)
+			{
+				sReplacement = sSrc.match(pattern)[0];
+			
+				sReplacement = sReplacement.replace("_on.", "_off.");
+			
+				sSrc = sSrc.replace(pattern, sReplacement);
+			}//end if
+			
+			$(this).find("img").attr("src", sSrc);
+			
+		});//end hover
+		
+		
+		$(".ToolTipBox").hover(function () {
+			
+			$(this).find(".ToolTipText").show();
+			
+		}, function() {
+			
+			$(this).find(".ToolTipText").hide();
+			
+		});//end
+		
+		$("#LoginForm").submit(function() {
+			
+			return ValidateLoginForm();
+			
+		});//end submit		
+		
+		
+		$("#fLoginCancelButton").click(function() {
+			
+			$("#fLoginName").val("");
+			$("#fLoginPass").val("");
+			
+			$.unblockUI();
+			
+			
+			return false;
+			
+		});//end fLoginCancelButton
+		
+		
+		// START - FORGOT PASS ========================================================
+		
+		$("#ForgotPassLink").click(function() {
+			
+			$.unblockUI();
+			
+			$("#ForgotPassMainForm").show();
+			$("#ForgotPassResult").hide();
+			
+			
+			$.blockUI( { message: $("#ForgotPassFormBox"), 
+				css: { width: '400px', height: '175px', textAlign: 'left', padding: '10px 10px' , fontSize: '12px'} });
+			
+			
+			return false;
+			
+		});//end forgot pass click
+		
+		$("#fForgotPassSubmitButton").click(function() {
+			
+			var sForgotPass = $("#fForgotPassEmail").val();
+			
+			if (sForgotPass == null || sForgotPass == "")
+			{
+				alert("Please enter your e-mail address.");
+				$("#fForgotPassEmail").focus();
+				return false;
+			
+			}//end if
+			
+			if (!gIsValidEmail(sForgotPass))
+			{			
+				alert("Please enter a valid e-mail address.");
+				$("#fForgotPassEmail").focus();
+				return false;
+			
+			}//end if
+			
+			$(".ForgotPassError").html("");
+			
+			gProcessAjaxForm("ForgotPassForm", "/data/ResetPassword.aspx", FinishForgotPass);
+			
+			
+			$("#fForgotPassEmail").attr("disabled", "disabled");
+			
+			return false;
+			
+		});//end click
+		
+		$("#fForgotPassCancelButton").click(function() {
+			
+			ResetForgotPass();
+			
+			$.unblockUI();
+			
+			gLogin();		
+			
+			return false;
+			
+		});//end click
+		
+		function ResetForgotPass()
+		{
+			$(".ForgotPassError").html("");
+			$("#fForgotPassEmail").val("").attr("disabled", "");
+			$("#ForgotPassResult").hide();
+			
+		}//end ResetForgotPass
+		
+		function FinishForgotPass(inData, inError) {
+			
+			var data = $(inData);
+			
+			var bSuccess = false;
+			
+			data.find("status").each(function() {
 				
-			<div id="copyright">
-				<p>© 2007 imAthlete.com. All rights reserved.</p>
-				<p>design by <span><a href="http://www.nonfatmedia.com">nonfatmedia</a></span></p>
-			</div>
+				bSuccess = gGetBoolFromDB($(this).text());
+				
+			});//end each
+			
+			if (bSuccess)
+			{
+				$("#ForgotPassMainForm").hide();
+				$("#ForgotPassResult").show();
+				
+				$("#fForgotPassEmail").val("").attr("disabled", "");
+				
+				
+			}//end if	
+			else
+			{
+				$(".ForgotPassError").html(inError);
+				$("#fForgotPassEmail").attr("disabled", "");
+				
+			}//end else
+			
+		}//end FinishForgotPass
+		
+		$("#ForgotPassLoginAgainLink").click(function() {
+			
+			$.unblockUI();
+			
+			ResetForgotPass();
+			
+			gLogin();
+			
+			return false;
+			
+		});//end ForgotPassLoginAgainLink click
+		
+		$("#ForgotPassCloseLink").click(function() {
+			
+			$.unblockUI();
+			
+			ResetForgotPass();
+			
+			return false;			
+			
+		});//end ForgotPassCloseLink click
+		
+		// END - FORGOT PASS ========================================================
+		
+		$("#SearchButton").click(function() {
+			
+			$("#MainSearchForm").submit();
+			
+			return false;
+			
+		});//end click
+		
+		function DoNavSearch()
+		{
+			var sSearchTerms = $("#fMainSearchTerms").val();
+			
+			
+			if (sSearchTerms.length == 0 || sSearchTerms == "Search for your favorite events")
+			{
+				alert("Please enter a search term.");
+				return false;
+				
+			}//end if
+			
+			if (!gIsValidText(sSearchTerms))
+			{	
+				alert("Please do not include any HTML markup in your search terms.");
+				return false;
+			}//end if
+			
+			//$("#MainSearchForm").submit();
+			return true;
+			
+		}//end DoNavSearch
+		
+		$("#fMainSearchTerms").focus(function() {
+			
+			if ($(this).attr("class").indexOf("MainSearchFieldTeaser") > -1)
+			{
+				$(this).val("");
+				$(this).removeClass("MainSearchFieldTeaser");
+				
+			}//end if
+			
+		});//end focus
+		
+		$("#fMainSearchTerms").blur(function() {
+			
+			if ($(this).attr("class").indexOf("MainSearchFieldTeaser") == -1 && $(this).val() == "")
+			{
+				$(this).val("Search for your favorite events");
+				$(this).addClass("MainSearchFieldTeaser");
+				
+			}//end if
+			
+		});//end blur	
+		
+		gApplyRollovers();
+		
+		if (sLogin.length > 0)
+			gProcessLogin(sLogin);
+		
+	});//end document.ready
+	
+	
+	</script>
+	
+	
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$("#PageHeaderBlock").remove();
+	
+});//end document.ready
+
+</script>
+
+</head>
+<body>
+
+
+<div class="TopNavBlockWrapper">
+<div class="TopNavBlock">
+
+	<div id="homelink"><img src="/images/global/im_logo.gif"></div>
+	
+	<div class="ContestCallout"><a href="/contest"><img src="/images/contest/btn_entertowin_off.gif" width="68" height="44" alt="Enter to Win!"></a></div>
+	
+	<div class="TopNavInfoBox">
+		
+		<div id="PostLoginInfoBox" style="display: none;" class="TopNavInfoLinks">
+			<span id="UserInfoName"></span>
+			&nbsp;&nbsp;
+			<a href="/account/settings/" class="UserInfoLink">Settings</a>
+			&nbsp;|&nbsp;
+			<a href="#" id="SignoutLink">Sign Out</a>
 		</div>
+		
+		<div id="PreLoginInfoBox" class="TopNavInfoLinks">
+			<a href="#" id="RegisterLink">Sign Up</a> 
+			&nbsp;|&nbsp;
+			<a href="#" id="LoginLink">Login</a>
+		</div>
+		
+		<div id="ShoppingCartLink" class="TopNavShoppingCart">
+			<a href="/events/EventReg/ShoppingCart.aspx"><img src="/images/global/icn_shoppingcart.gif" alt="Shopping Cart"></a> 
+			<a href="/events/EventReg/ShoppingCart.aspx"><span id="ShoppingCartItemsLabel"></span></a>
+		</div>
+		
+		<div style="margin: 10px 0px 0px 0px;">
+		<form name="MainSearchForm" id="MainSearchForm" method="post" action="/events/EventSearch.aspx">
+			<input type="text" name="fMainSearchTerms" id="fMainSearchTerms" size="30" maxlength="150" class="StandardField MainSearchFieldTeaser" value="Search for your favorite events">
+			<img id="SearchButton" class="MainSearchButton ImageRollover" src="/images/global/btn_findit_off.gif" alt="Find it!">
+		</form>
+		</div>
+		
+		
+	</div>
+	
+</div>
+</div>
+
+<div class="TopNavWrapper">
+<ul class="TopNavMenu">
+	<li class="TopNavSpecLinkOff"><a href="#">Sports <img src="/images/global/nav_dropdown_off.gif" alt="|v"></a> 
+		<ul class="SearchBySportList"></ul>	
+	</li>
+	<!--
+	<li class="TopNavSpecLinkOff"><a href="#">Location <img src="/images/global/nav_dropdown_off.gif" alt="|v"/></a> 
+		<ul class="SearchByLocationList"></ul>
+	</li> 
+	-->
+	<li id="TopNavProfileLink"><a href="/account/MyProfile.aspx">Profile</a></li>
+	<li id="TopNavFriendsLink"><a href="/account/MyFriends.aspx">Friends</a></li>
+	<li id="TopNavInboxLink"><a href="/account/inbox/Inbox.aspx">Inbox<span id="fNavInboxCount"></span></a></li>
+	<li id="TopNavMyEventsLink"><a href="/account/MyEvents.aspx">My Events</a></li>
+	<li id="TopNavMyGroupsLink"><a href="/groups/MyGroups.aspx">My Groups</a></li>
+	<li id="ManageEventsLink"><a href="/account/default.aspx">Manage Account</a></li>
+		
+	<li class="TopNavSpecLinkOff"><a href="#">Participants <img src="/images/global/nav_dropdown_off.gif" alt="|v"></a> 
+		<ul>
+			<li id="TopNavEditRegLink"><a href="/events/EditReg/EditReg_EditRegistration.aspx">Edit Registration</a></li>
+			<li><a href="/events/EditReg/EditReg_QuestionsComments.aspx">Ask a Question</a></li>
+		</ul>
+	</li>
+</ul>
+</div>
+
+<div id="OuterWrapperBlock">
+<div id="InnerWrapperBlock">
+
+
+<div id="PageHeaderBlock">
+
+
+<div id="SubNavBlock">
+
+</div>
+
+</div>
+
+
+
+<div id="MainContentBlock">
+	
+
+<div class="LegalDoc">
+	
+	<h1>imATHLETE<br>PRIVACY POLICY</h1>
+
+	<h4>The Basics</h4>
+	<p>
+	We strive to maintain your privacy in all matters.  If we gather information, we want you to know when and how.  That's the point of this.  Suffice to say, we hate spam as much as the next guy, so to save you from reading through this whole thing just to find out what we do with your e-mail address, let me tell you right now that we don't let it out of our possession.  We never let anybody else use our mailing list – spammers or not.  We treasure your privacy and are pretty sure that you already get enough e-mails about vi@gr@ and cheap mortgages, and that you don't want us to contribute to that annoyance anymore than we want to be a part of it.  If you have opted-in to receive information from us, you will receive that.  
+	</p><p>
+	If you just browse around the imATHLETE website, no information is collected other than that which is typically collected in server logs by any given website you visit.  We may plant cookies for your convenience.
+	</p><p>
+	If you contribute to imATHLETE by adding or editing information, you are publishing all of the words and information that you post.  You should assume that everything you put on the Website will be there forever, because it might be in an Internet archive somewhere.  
+	</p>
+	
+	<h4>Publishing information on imATHLETE</h4>
+	<p>
+	Your identity will not be publicly exposed by just visiting the imATHLETE website.  When you add or edit a page, this is considered to be "publishing".  "Publishing" is a public act.  WHENEVER YOU PUBLISH INFORMATION ON IMATHLETE, YOU ARE ALWAYS PUBLICLY IDENTIFIED AS THE AUTHOR OF THAT INFORMATION. 
+	</p>
+	
+	<h4>Identification of an author</h4>
+	<p>
+	It is required that you be logged-in to an account for you to Publish information. Since you are logged-in to an account when you Publish information, you will be identified by the user name of the account.  The user name will be your real name, as identified when you initially created the account.  The account username will be the identifying name for information you Publish.
+	</p><p>
+	Additionally, any information you Publish may also be tracked by your network IP address,  Your IP address will not be readily available to the public.  Instead, your IP address may be stored in the imATHLETE servers and can be seen by our server administration folks and others who are granted individual and temporary access.
+	</p><p>
+	In case you don't know, an IP address is a series of numbers that identifies the Internet address that you are using to access imATHLETE.  Depending on your Internet connection, this IP number may be traceable to your home, school, office or just to your Internet service provider.  You need to know that it is possible that the IP address may also be associated with other interests or websites you have visited on the Internet.  It may or may not be difficult for somebody to connect your IP address with your actual identity.  
+	</p>
+	
+	<h4>Cookies.  Not chocolate chip.</h4>
+	<p>
+	imATHLETE may set a temporary cookie whenever you visit the site.  Please note that you need this cookie to be able to log-in.  If you deny this cookie, you won't be able to log-in to your account.  Either way, the cookie will be deleted when you close your browser.  
+	</p><p>
+	When you log in to an account, we may set more cookies so that you don't have to keep typing in your username every time you visit this wonderful Website.  Feel free to clear these cookies after you use the Website – especially if you are using a public machine and you don't want others to see your username.  (While you're at it, you oughta clear the browser cache as well, just for safe keeping.)
+	</p>
+	
+	<h4>Passwords</h4>
+	<p>
+	All users are encouraged to select strong passwords and to never share them.  As a basic rule, we highly suggest that you never let anybody know your passwords,  Ever.  We here at imATHLETE promise to never ask you for your password (except in a login box to gain access to certain parts of the Website) nor knowingly expose any user's password to another user or to the public, either directly or indirectly.  We wouldn't want you to do that to us, so we're not going to do it to you.
+	</p>
+	
+	<h4>Private logging</h4>
+	<p>
+	Whether you know it or not, whenever you visit any web page on the Internet there is quite a bit of information that gets sent to the web servers.  Most of this stuff is used simply to get an understanding of what pages are popular, what other sites link to that one and what web browsers people are using.  Like most other websites, we here at imATHLETE will be gathering the same information as well.  The only way we will be using this information is to create our site statistics (the log data is kept private and not made public.)  No individual data is logged by our Website, except to maintain usernames and password lists and in some cases to track abuses and abusers.
+	</p>
+	
+	<h4>Abuse</h4>
+	<p>
+	From time to time we may look at individual IP addresses of users to try and correlate such addresses and usernames with abuse of the imATHLETE site.  We don't like people who abuse our site and will do whatever is within our means to keep the abusers away and maintain your privacy.
+	</p>
+	<h4>The Reasons We May Release Personal Data</h4>
+	<p>
+	There are a few instances in which we may release personal data of imATHLETE users.  These instances are as follows:
+	</p><ol>
+	<li>In response to a subpoena or other compulsory request from law enforcement.</li>
+	<li>With the permission of the user in question.</li>
+	<li>When needed for investigation of abuse complaints.  </li>
+	<li>When the information is needed to resolve technical issues. </li>
+	<li>Where it is reasonably necessary to protect the rights, property or safety of the imATHLETE, its users, or the public. </li>
+	</ol>
+	<p></p><p>
+	The imATHLETE Privacy Policy does not permit the public distribution of personal data for any reason, except as described above.
+	</p>
+	
+	<h4>The Sharing of User Information</h4>
+	<p>
+	Except where otherwise noted, all of the text that has been added to imATHLETE is available for reuse based on the Limited License agreement we have outlined in the imATHLETE Terms of Use and Dislaimer.  
+	</p><p>
+	imATHLETE will not sell or share private information (like e-mail addresses) to third parties unless you agree to release this information or we are required by law to release the info.  
+	</p>
+	
+	<h4>Information Security</h4>
+	<p>
+	We have to tell you that imATHLETE makes no guarantee against unauthorized access to your information.  Though we strive to create a highly secure environment, user information may be available to certain employees, internal developers, and administrators who have access to the imATHLETE servers.  
+	</p>
+	
+	<h4>E-Mails</h4>
+	<p>
+	You may be asked to provide your e-mail address when you create a user account.  Other logged-in users may send you e-mail through the imATHLETE system.  Please not that your actual e-mail address will not be revealed to the other users unless you respond to them (or, perhaps, if the e-mail bounces).  
+	</p><p>
+	If you have opted-in to receive information from imATHLETE, we may use your e-mail address to communicate with you.  In this case your e-mail address will be included on the imATHLETE mailing list, though the actual address will not be viewable to any other members.  
+	</p><p>
+	If you do not provide an accurate e-mail address, you will not be able to reset your password if you forget it.
+	</p>
+	
+	<h4>User data</h4>
+	<p>
+	Basic data on imATHLETE users, such as the number of edits they've made and the times at which they've edited information, may be available for other users to view.  This information will not include e-mail addresses but, rather only usernames and/or IP addresses.
+	</p>
+	
+	<h4>Removal of user accounts</h4>
+	<p>
+	Once you've created a user account it can not be removed.  You may change your user name if you really want to, though we can't guarantee that the username you want hasn't already been taken.  
+	</p>
+	
+	<h4>Deletion of content</h4>
+	<p>
+	Removing information from an imATHLETE post does not permanently delete the information.  Any person browsing the imATHLETE Website can view information that has been deleted.  The only way information will be permanently deleted from the servers is if select administrators deem it necessary to remove the information.  Unless there is a legal reason to remove information, this probably won't happen. 
+	</p><p>
+	That is our Privacy Policy.  We hope you enjoyed reading it and we hope that it answered all of your questions.  If you still have questions about your privacy, please feel free to drop us a line.
+	</p><p>
+	If you don't have any questions, why not go outside and play.  
+	</p>
+	
+</div>
+	
+
+</div>
+	
+	
+	<div id="FooterBlock">
+		<a href="/account/info/IMAMission.aspx" target="_blank">imATHLETE Mission</a>&nbsp;|&nbsp;
+		<a href="/account/info/TermsOfUse.aspx" target="_blank">Terms of Use</a>&nbsp;|&nbsp;
+		<a href="/account/info/PrivacyPolicy.aspx" target="_blank">Privacy Policy</a>&nbsp;|&nbsp;
+		<a href="/account/info/Disclaimer.aspx" target="_blank">Disclaimer</a>&nbsp;|&nbsp;
+		<a href="/account/info/FAQ.aspx" target="_blank">FAQ</a>&nbsp;|&nbsp;
+		<a href="/ContactUs.aspx" target="_blank">Contact Us</a>&nbsp;|&nbsp;
+		© 2008-2010 By I Am Athlete, LLC. All Rights Reserved Worldwide.
+		
+		<div class="ABCPDFBlock">
+			<a href="http://www.abcpdf.com">We use the ABCpdf .NET PDF component for HTML to PDF conversion...</a>
+		</div>
+			
 	</div>
 
+</div>
+</div>
+
+
+
+
+	<div id="LoginFormBox" class="FormContainer">
+
+		<form id="LoginForm" method="post" action="https://www.imathlete.com/account/login/default.aspx">
+		
+		<input type="hidden" name="fLoginRedirect" id="fLoginRedirect" value="">
+		
+		<div class="LoginErrorMsg"></div>
+		
+		<div class="FormFieldCombo">
+			<div class="StandardHeaderReq LoginHeader">E-mail Address:</div>
+			<input type="text" name="fLoginName" id="fLoginName" size="20" maxlength="150" style="width: 200px;" value="" class="StandardField" tabindex="1001">
+		</div>
 	
-<script language="javascript" type="text/javascript">
-	// Transcorners - for outlined rounded corner boxes
-	if($('similar'))
-		$('similar').makeRounded({radius: 15});
-	if ($('event_ratings'))
-		$('event_ratings').makeRounded({radius: 15});
-	if ($('downloads'))
-		$('downloads').makeRounded({radius: 15});
-	if ($('event_photos'))
-		$('event_photos').makeRounded({radius: 15});
-	if ($('quick_search'))
-		$('quick_search').makeRounded({radius: 15});
-	if ($('calendar'))
-		$('calendar').makeRounded({radius: 15});
-	if ($('home-box1'))
-		$('home-box1').makeRounded({radius: 15});
-	if ($('home-box2'))
-		$('home-box2').makeRounded({radius: 15});
-	if ($('home-box3'))
-		$('home-box3').makeRounded({radius: 15});
-	// for gray rounded corner boxes
-	Nifty("div#main,div#member_nav,div#profile-main,div#event_ratings,div#profile-stats","big");
-</script>		
+		<div class="FormFieldCombo">
+			<div class="StandardHeaderReq LoginHeader">Password:</div>
+			<input type="password" name="fLoginPass" id="fLoginPass" size="20" maxlength="150" style="width: 200px;" value="" class="StandardField" tabindex="1002" autocomplete="off">
+		</div>
 
-<script language="JavaScript" type="text/javascript" src="ajaxCalls.php"></script>
+		<div class="LoginRemember">
+		<input type="checkbox" name="fRememberLogin" id="fRememberLogin" value="1" tabindex="1003"> 
+		<label for="fRememberLogin" class="StandardHeader">Remember Me</label>
+		</div>
+		
+		<div class="LoginForgotPass"><a href="#" id="ForgotPassLink" tabindex="1004">Forgot your password?</a></div>
+		
+		<div>
+		<input type="image" name="fLoginSubmitButton" id="fLoginSubmitButton" class="ImageRollover Padding5" tabindex="5" src="/images/global/btn_login_off.gif" alt="Login">
+		<input type="image" name="fLoginCancelButton" id="fLoginCancelButton" class="ImageRollover Padding5" tabindex="6" src="/images/global/btn_cancel_off.gif" alt="Cancel">
+		</div>
+		
+		</form>
+	</div>
+	
+	
+	<div id="ForgotPassFormBox" class="FormContainer">
+		
+		<div id="ForgotPassMainForm">
+		
+		<form id="ForgotPassForm" method="post" action="">
+			
+			<div class="ForgotPassInstructions">For your security, we cannot retrieve passwords.They must be reset.<br>Enter your e-mail address below and we will help you create a new one.</div>
+			
+			<div class="ForgotPassError"></div>
+			
+			<div class="FormFieldCombo">
+				<div class="StandardHeaderReq">E-mail Address:</div>
+				<input type="text" name="fForgotPassEmail" id="fForgotPassEmail" size="20" maxlength="150" style="width: 200px;" value="" class="StandardField" tabindex="2000">
+			</div>
+			
+			<div class="ForgotPassButtons">
+				<input type="image" name="fForgotPassSubmitButton" id="fForgotPassSubmitButton" class="ImageRollover Padding5" tabindex="2005" src="/images/global/btn_submit_off.gif" alt="Reset My Password">
+				<input type="image" name="fForgotPassCancelButton" id="fForgotPassCancelButton" class="ImageRollover Padding5" tabindex="2006" src="/images/global/btn_cancel_off.gif" alt="Cancel">
+			</div>
+			
+		</form>
+		
+		</div>
+		
+		<div id="ForgotPassResult">
+			
+			<div class="ForgotPassInstructions">We have just sent you an e-mail with instructions on how to change your password. <br><small>(this is the part where you check your email inbox)</small></div>
+			
+			<div class="ForgotPassResultsContent">
+				
+				<div><a href="#" id="ForgotPassLoginAgainLink">Login Again</a></div>
+				
+				<div>Didn't get the e-mail? <a href="mailto: support@imathlete.com">Contact Customer Support</a></div>
+				
+				<div><a href="#" id="ForgotPassCloseLink">Close This Window</a></div>
+				
+			</div>
+		</div>
+		
+	</div>
+	
+
+<div id="FeedbackFormBlock" name="testNewDiv" class="feedbackcontainer">
+    <div id="FeedbackFormContainer" class="feedbackformcontainer">
+        <div id="FeedbackFormHeader" class="feedbackformheader">
+            <div class="feedbackformtitletext">imAthlete Feedback</div>
+            <div class="feedbackformsubtitletext">Whattaya think?  We wanna know.</div>
+        </div>
+        <div id="FeedbackForm" class="feedbackform">
+            <form name="fFeedbackForm" id="fFeedbackForm" method="post">
+            <input type="text" name="fFeedbackEmail" id="fFeedbackEmail" class="feedbacktextfield feedbackfieldteaser" value="email address (optional)"><br><br>
+            <textarea name="fFeedbackText" id="fFeedbackText" class="feedbacktextarea feedbackfieldteaser">Let us know what you think</textarea>
+            <input type="hidden" name="fFeedbackPage" id="fFeedbackPage" value="/account/info/PrivacyPolicy.aspx">
+            <div class="feedbackbuttons">
+            <div class="feedbackbuttonsleft"><input name="fSendFeedback" id="fSendFeedback" type="image" src="/images/global/btn_feedback_send_off.gif" class="ImageRollover"></div>
+            <div class="feedbackbuttonsright"><input name="fCancelFeedback" id="fCancelFeedback" type="image" src="/images/global/btn_feedback_cancel_off.gif" class="ImageRollover"></div>
+            </div><br><br>
+            </form>
+        </div>
+        <div id="FeedbackFormComplete" class="feedbackformcomplete">
+            <br><div class="feedbackformtext">Thank you very much for the<br> feedback! <br>It helps us immensely.<br>Keep it coming.</div><br><br><br><br>
+            <input type="image" name="fFeedbackClose" id="fFeedbackClose" src="/images/global/btn_feedback_close_off.gif" class="ImageRollover"><br><br><br>
+        </div>
+    </div>
+    <div class="feedbackformtab"><img src="/images/global/btn_feedbacktab_off.gif" class="ImageRollover" width="32" height="96" name="fFeedbackTab" id="fFeedbackTab" alt="Feedback"></div>
+</div>
+
+<div class="FormContainer">
+	
+	<div id="IMADialog" class="StandardDialog">
+		
+		<p></p>
+		
+		<div class="DialogButtonBar">
+		<input type="button" name="fIMADialogSubmit" id="fIMADialogSubmit" class="StandardButton" value="OK">
+		</div>
+	</div>
+	
+</div>
+
+<div class="DataContainer">
+
+	<script type="text/javascript">
+		var gCountries = [{"ID":1233,"Name":"United States","ShortCode":"US","LongCode":"USA","ContinentName":"North America","NumericCode":840,"Displayed":true,"HasStates":true},{"ID":1039,"Name":"Canada","ShortCode":"CA","LongCode":"CAN","ContinentName":"North America","NumericCode":124,"Displayed":true,"HasStates":true},{"ID":1000,"Name":"Afghanistan","ShortCode":"AF","LongCode":"AFG","ContinentName":"Asia","NumericCode":4,"Displayed":true,"HasStates":false},{"ID":1001,"Name":"Aland Islands","ShortCode":"AX","LongCode":"ALA","ContinentName":"Europe","NumericCode":248,"Displayed":true,"HasStates":false},{"ID":1002,"Name":"Albania","ShortCode":"AL","LongCode":"ALB","ContinentName":"Europe","NumericCode":8,"Displayed":true,"HasStates":false},{"ID":1003,"Name":"Algeria","ShortCode":"DZ","LongCode":"DZA","ContinentName":"Africa","NumericCode":12,"Displayed":true,"HasStates":false},{"ID":1004,"Name":"American Samoa","ShortCode":"AS","LongCode":"ASM","ContinentName":"Oceania","NumericCode":16,"Displayed":true,"HasStates":false},{"ID":1005,"Name":"Andorra","ShortCode":"AD","LongCode":"AND","ContinentName":"Europe","NumericCode":20,"Displayed":true,"HasStates":false},{"ID":1006,"Name":"Angola","ShortCode":"AO","LongCode":"AGO","ContinentName":"Africa","NumericCode":24,"Displayed":true,"HasStates":false},{"ID":1007,"Name":"Anguilla","ShortCode":"AI","LongCode":"AIA","ContinentName":"North America","NumericCode":660,"Displayed":true,"HasStates":false},{"ID":1008,"Name":"Antarctica","ShortCode":"AQ","LongCode":"ATA","ContinentName":"Antarctica","NumericCode":10,"Displayed":true,"HasStates":false},{"ID":1009,"Name":"Antigua and Barbuda","ShortCode":"AG","LongCode":"ATG","ContinentName":"North America","NumericCode":28,"Displayed":true,"HasStates":false},{"ID":1010,"Name":"Argentina","ShortCode":"AR","LongCode":"ARG","ContinentName":"South America","NumericCode":32,"Displayed":true,"HasStates":false},{"ID":1011,"Name":"Armenia","ShortCode":"AM","LongCode":"ARM","ContinentName":"Asia","NumericCode":51,"Displayed":true,"HasStates":false},{"ID":1012,"Name":"Aruba","ShortCode":"AW","LongCode":"ABW","ContinentName":"North America","NumericCode":533,"Displayed":true,"HasStates":false},{"ID":1013,"Name":"Australia","ShortCode":"AU","LongCode":"AUS","ContinentName":"Oceania","NumericCode":36,"Displayed":true,"HasStates":false},{"ID":1014,"Name":"Austria","ShortCode":"AT","LongCode":"AUT","ContinentName":"Europe","NumericCode":40,"Displayed":true,"HasStates":false},{"ID":1015,"Name":"Azerbaijan","ShortCode":"AZ","LongCode":"AZE","ContinentName":"Asia","NumericCode":31,"Displayed":true,"HasStates":false},{"ID":1016,"Name":"Bahamas","ShortCode":"BS","LongCode":"BHS","ContinentName":"North America","NumericCode":44,"Displayed":true,"HasStates":false},{"ID":1017,"Name":"Bahrain","ShortCode":"BH","LongCode":"BHR","ContinentName":"Asia","NumericCode":48,"Displayed":true,"HasStates":false},{"ID":1018,"Name":"Bangladesh","ShortCode":"BD","LongCode":"BGD","ContinentName":"Asia","NumericCode":50,"Displayed":true,"HasStates":false},{"ID":1019,"Name":"Barbados","ShortCode":"BB","LongCode":"BRB","ContinentName":"North America","NumericCode":52,"Displayed":true,"HasStates":false},{"ID":1020,"Name":"Belarus","ShortCode":"BY","LongCode":"BLR","ContinentName":"Europe","NumericCode":112,"Displayed":true,"HasStates":false},{"ID":1021,"Name":"Belgium","ShortCode":"BE","LongCode":"BEL","ContinentName":"Europe","NumericCode":56,"Displayed":true,"HasStates":false},{"ID":1022,"Name":"Belize","ShortCode":"BZ","LongCode":"BLZ","ContinentName":"North America","NumericCode":84,"Displayed":true,"HasStates":false},{"ID":1023,"Name":"Benin","ShortCode":"BJ","LongCode":"BEN","ContinentName":"Africa","NumericCode":204,"Displayed":true,"HasStates":false},{"ID":1024,"Name":"Bermuda","ShortCode":"BM","LongCode":"BMU","ContinentName":"North America","NumericCode":60,"Displayed":true,"HasStates":false},{"ID":1025,"Name":"Bhutan","ShortCode":"BT","LongCode":"BTN","ContinentName":"Asia","NumericCode":64,"Displayed":true,"HasStates":false},{"ID":1026,"Name":"Bolivia","ShortCode":"BO","LongCode":"BOL","ContinentName":"South America","NumericCode":68,"Displayed":true,"HasStates":false},{"ID":1027,"Name":"Bosnia and Herzegovina","ShortCode":"BA","LongCode":"BIH","ContinentName":"Europe","NumericCode":70,"Displayed":true,"HasStates":false},{"ID":1028,"Name":"Botswana","ShortCode":"BW","LongCode":"BWA","ContinentName":"Africa","NumericCode":72,"Displayed":true,"HasStates":false},{"ID":1029,"Name":"Bouvet Island","ShortCode":"BV","LongCode":"BVT","ContinentName":"Antarctica","NumericCode":74,"Displayed":true,"HasStates":false},{"ID":1030,"Name":"Brazil","ShortCode":"BR","LongCode":"BRA","ContinentName":"South America","NumericCode":76,"Displayed":true,"HasStates":false},{"ID":1031,"Name":"British Indian Ocean Territory (Chagos Archipelago)","ShortCode":"IO","LongCode":"IOT","ContinentName":"Asia","NumericCode":86,"Displayed":true,"HasStates":false},{"ID":1032,"Name":"British Virgin Islands","ShortCode":"VG","LongCode":"VGB","ContinentName":"North America","NumericCode":92,"Displayed":true,"HasStates":false},{"ID":1033,"Name":"Brunei Darussalam","ShortCode":"BN","LongCode":"BRN","ContinentName":"Asia","NumericCode":96,"Displayed":true,"HasStates":false},{"ID":1034,"Name":"Bulgaria","ShortCode":"BG","LongCode":"BGR","ContinentName":"Europe","NumericCode":100,"Displayed":true,"HasStates":false},{"ID":1035,"Name":"Burkina Faso","ShortCode":"BF","LongCode":"BFA","ContinentName":"Africa","NumericCode":854,"Displayed":true,"HasStates":false},{"ID":1036,"Name":"Burundi","ShortCode":"BI","LongCode":"BDI","ContinentName":"Africa","NumericCode":108,"Displayed":true,"HasStates":false},{"ID":1037,"Name":"Cambodia","ShortCode":"KH","LongCode":"KHM","ContinentName":"Asia","NumericCode":116,"Displayed":true,"HasStates":false},{"ID":1038,"Name":"Cameroon","ShortCode":"CM","LongCode":"CMR","ContinentName":"Africa","NumericCode":120,"Displayed":true,"HasStates":false},{"ID":1040,"Name":"Cape Verde","ShortCode":"CV","LongCode":"CPV","ContinentName":"Africa","NumericCode":132,"Displayed":true,"HasStates":false},{"ID":1041,"Name":"Cayman Islands","ShortCode":"KY","LongCode":"CYM","ContinentName":"North America","NumericCode":136,"Displayed":true,"HasStates":false},{"ID":1042,"Name":"Central African Republic","ShortCode":"CF","LongCode":"CAF","ContinentName":"Africa","NumericCode":140,"Displayed":true,"HasStates":false},{"ID":1043,"Name":"Chad","ShortCode":"TD","LongCode":"TCD","ContinentName":"Africa","NumericCode":148,"Displayed":true,"HasStates":false},{"ID":1044,"Name":"Chile","ShortCode":"CL","LongCode":"CHL","ContinentName":"South America","NumericCode":152,"Displayed":true,"HasStates":false},{"ID":1045,"Name":"China","ShortCode":"CN","LongCode":"CHN","ContinentName":"Asia","NumericCode":156,"Displayed":true,"HasStates":false},{"ID":1046,"Name":"Christmas Island","ShortCode":"CX","LongCode":"CXR","ContinentName":"Asia","NumericCode":162,"Displayed":true,"HasStates":false},{"ID":1047,"Name":"Cocos (Keeling) Islands","ShortCode":"CC","LongCode":"CCK","ContinentName":"Asia","NumericCode":166,"Displayed":true,"HasStates":false},{"ID":1048,"Name":"Colombia","ShortCode":"CO","LongCode":"COL","ContinentName":"South America","NumericCode":170,"Displayed":true,"HasStates":false},{"ID":1049,"Name":"Comoros","ShortCode":"KM","LongCode":"COM","ContinentName":"Africa","NumericCode":174,"Displayed":true,"HasStates":false},{"ID":1050,"Name":"Congo, Democratic Republic of the","ShortCode":"CD","LongCode":"COD","ContinentName":"Africa","NumericCode":180,"Displayed":true,"HasStates":false},{"ID":1051,"Name":"Congo, Republic of the","ShortCode":"CG","LongCode":"COG","ContinentName":"Africa","NumericCode":178,"Displayed":true,"HasStates":false},{"ID":1052,"Name":"Cook Islands","ShortCode":"CK","LongCode":"COK","ContinentName":"Oceania","NumericCode":184,"Displayed":true,"HasStates":false},{"ID":1053,"Name":"Costa Rica","ShortCode":"CR","LongCode":"CRI","ContinentName":"North America","NumericCode":188,"Displayed":true,"HasStates":false},{"ID":1054,"Name":"Cote d\u0027Ivoire","ShortCode":"CI","LongCode":"CIV","ContinentName":"Africa","NumericCode":384,"Displayed":true,"HasStates":false},{"ID":1055,"Name":"Croatia","ShortCode":"HR","LongCode":"HRV","ContinentName":"Europe","NumericCode":191,"Displayed":true,"HasStates":false},{"ID":1056,"Name":"Cuba","ShortCode":"CU","LongCode":"CUB","ContinentName":"North America","NumericCode":192,"Displayed":true,"HasStates":false},{"ID":1057,"Name":"Cyprus","ShortCode":"CY","LongCode":"CYP","ContinentName":"Asia","NumericCode":196,"Displayed":true,"HasStates":false},{"ID":1058,"Name":"Czech Republic","ShortCode":"CZ","LongCode":"CZE","ContinentName":"Europe","NumericCode":203,"Displayed":true,"HasStates":false},{"ID":1059,"Name":"Denmark","ShortCode":"DK","LongCode":"DNK","ContinentName":"Europe","NumericCode":208,"Displayed":true,"HasStates":false},{"ID":1060,"Name":"Djibouti","ShortCode":"DJ","LongCode":"DJI","ContinentName":"Africa","NumericCode":262,"Displayed":true,"HasStates":false},{"ID":1061,"Name":"Dominica","ShortCode":"DM","LongCode":"DMA","ContinentName":"North America","NumericCode":212,"Displayed":true,"HasStates":false},{"ID":1062,"Name":"Dominican Republic","ShortCode":"DO","LongCode":"DOM","ContinentName":"North America","NumericCode":214,"Displayed":true,"HasStates":false},{"ID":1063,"Name":"Ecuador","ShortCode":"EC","LongCode":"ECU","ContinentName":"South America","NumericCode":218,"Displayed":true,"HasStates":false},{"ID":1064,"Name":"Egypt","ShortCode":"EG","LongCode":"EGY","ContinentName":"Africa","NumericCode":818,"Displayed":true,"HasStates":false},{"ID":1065,"Name":"El Salvador","ShortCode":"SV","LongCode":"SLV","ContinentName":"North America","NumericCode":222,"Displayed":true,"HasStates":false},{"ID":1066,"Name":"Equatorial Guinea","ShortCode":"GQ","LongCode":"GNQ","ContinentName":"Africa","NumericCode":226,"Displayed":true,"HasStates":false},{"ID":1067,"Name":"Eritrea","ShortCode":"ER","LongCode":"ERI","ContinentName":"Africa","NumericCode":232,"Displayed":true,"HasStates":false},{"ID":1068,"Name":"Estonia","ShortCode":"EE","LongCode":"EST","ContinentName":"Europe","NumericCode":233,"Displayed":true,"HasStates":false},{"ID":1069,"Name":"Ethiopia","ShortCode":"ET","LongCode":"ETH","ContinentName":"Africa","NumericCode":231,"Displayed":true,"HasStates":false},{"ID":1071,"Name":"Falkland Islands (Malvinas)","ShortCode":"FK","LongCode":"FLK","ContinentName":"South America","NumericCode":238,"Displayed":true,"HasStates":false},{"ID":1070,"Name":"Faroe Islands","ShortCode":"FO","LongCode":"FRO","ContinentName":"Europe","NumericCode":234,"Displayed":true,"HasStates":false},{"ID":1072,"Name":"Fiji","ShortCode":"FJ","LongCode":"FJI","ContinentName":"Oceania","NumericCode":242,"Displayed":true,"HasStates":false},{"ID":1073,"Name":"Finland","ShortCode":"FI","LongCode":"FIN","ContinentName":"Europe","NumericCode":246,"Displayed":true,"HasStates":false},{"ID":1074,"Name":"France","ShortCode":"FR","LongCode":"FRA","ContinentName":"Europe","NumericCode":250,"Displayed":true,"HasStates":false},{"ID":1075,"Name":"French Guiana","ShortCode":"GF","LongCode":"GUF","ContinentName":"South America","NumericCode":254,"Displayed":true,"HasStates":false},{"ID":1076,"Name":"French Polynesia","ShortCode":"PF","LongCode":"PYF","ContinentName":"Oceania","NumericCode":258,"Displayed":true,"HasStates":false},{"ID":1077,"Name":"French Southern Territories","ShortCode":"TF","LongCode":"ATF","ContinentName":"Antarctica","NumericCode":260,"Displayed":true,"HasStates":false},{"ID":1078,"Name":"Gabon","ShortCode":"GA","LongCode":"GAB","ContinentName":"Africa","NumericCode":266,"Displayed":true,"HasStates":false},{"ID":1079,"Name":"Gambia","ShortCode":"GM","LongCode":"GMB","ContinentName":"Africa","NumericCode":270,"Displayed":true,"HasStates":false},{"ID":1080,"Name":"Georgia","ShortCode":"GE","LongCode":"GEO","ContinentName":"Asia","NumericCode":268,"Displayed":true,"HasStates":false},{"ID":1081,"Name":"Germany","ShortCode":"DE","LongCode":"DEU","ContinentName":"Europe","NumericCode":276,"Displayed":true,"HasStates":false},{"ID":1082,"Name":"Ghana","ShortCode":"GH","LongCode":"GHA","ContinentName":"Africa","NumericCode":288,"Displayed":true,"HasStates":false},{"ID":1083,"Name":"Gibraltar","ShortCode":"GI","LongCode":"GIB","ContinentName":"Europe","NumericCode":292,"Displayed":true,"HasStates":false},{"ID":1084,"Name":"Greece","ShortCode":"GR","LongCode":"GRC","ContinentName":"Europe","NumericCode":300,"Displayed":true,"HasStates":false},{"ID":1085,"Name":"Greenland","ShortCode":"GL","LongCode":"GRL","ContinentName":"North America","NumericCode":304,"Displayed":true,"HasStates":false},{"ID":1086,"Name":"Grenada","ShortCode":"GD","LongCode":"GRD","ContinentName":"North America","NumericCode":308,"Displayed":true,"HasStates":false},{"ID":1087,"Name":"Guadeloupe","ShortCode":"GP","LongCode":"GLP","ContinentName":"North America","NumericCode":312,"Displayed":true,"HasStates":false},{"ID":1088,"Name":"Guam","ShortCode":"GU","LongCode":"GUM","ContinentName":"Oceania","NumericCode":316,"Displayed":true,"HasStates":false},{"ID":1089,"Name":"Guatemala","ShortCode":"GT","LongCode":"GTM","ContinentName":"North America","NumericCode":320,"Displayed":true,"HasStates":false},{"ID":1090,"Name":"Guernsey","ShortCode":"GG","LongCode":"GGY","ContinentName":"Europe","NumericCode":831,"Displayed":true,"HasStates":false},{"ID":1091,"Name":"Guinea","ShortCode":"GN","LongCode":"GIN","ContinentName":"Africa","NumericCode":324,"Displayed":true,"HasStates":false},{"ID":1092,"Name":"Guinea-Bissau","ShortCode":"GW","LongCode":"GNB","ContinentName":"Africa","NumericCode":624,"Displayed":true,"HasStates":false},{"ID":1093,"Name":"Guyana","ShortCode":"GY","LongCode":"GUY","ContinentName":"South America","NumericCode":328,"Displayed":true,"HasStates":false},{"ID":1094,"Name":"Haiti","ShortCode":"HT","LongCode":"HTI","ContinentName":"North America","NumericCode":332,"Displayed":true,"HasStates":false},{"ID":1095,"Name":"Heard Island and McDonald Islands","ShortCode":"HM","LongCode":"HMD","ContinentName":"Antarctica","NumericCode":334,"Displayed":true,"HasStates":false},{"ID":1096,"Name":"Holy See (Vatican City State)","ShortCode":"VA","LongCode":"VAT","ContinentName":"Europe","NumericCode":336,"Displayed":true,"HasStates":false},{"ID":1097,"Name":"Honduras","ShortCode":"HN","LongCode":"HND","ContinentName":"North America","NumericCode":340,"Displayed":true,"HasStates":false},{"ID":1098,"Name":"Hong Kong","ShortCode":"HK","LongCode":"HKG","ContinentName":"Asia","NumericCode":344,"Displayed":true,"HasStates":false},{"ID":1099,"Name":"Hungary","ShortCode":"HU","LongCode":"HUN","ContinentName":"Europe","NumericCode":348,"Displayed":true,"HasStates":false},{"ID":1100,"Name":"Iceland","ShortCode":"IS","LongCode":"ISL","ContinentName":"Europe","NumericCode":352,"Displayed":true,"HasStates":false},{"ID":1101,"Name":"India","ShortCode":"IN","LongCode":"IND","ContinentName":"Asia","NumericCode":356,"Displayed":true,"HasStates":false},{"ID":1102,"Name":"Indonesia","ShortCode":"ID","LongCode":"IDN","ContinentName":"Asia","NumericCode":360,"Displayed":true,"HasStates":false},{"ID":1103,"Name":"Iran","ShortCode":"IR","LongCode":"IRN","ContinentName":"Asia","NumericCode":364,"Displayed":true,"HasStates":false},{"ID":1104,"Name":"Iraq","ShortCode":"IQ","LongCode":"IRQ","ContinentName":"Asia","NumericCode":368,"Displayed":true,"HasStates":false},{"ID":1105,"Name":"Ireland","ShortCode":"IE","LongCode":"IRL","ContinentName":"Europe","NumericCode":372,"Displayed":true,"HasStates":false},{"ID":1106,"Name":"Isle of Man","ShortCode":"IM","LongCode":"IMN","ContinentName":"Europe","NumericCode":833,"Displayed":true,"HasStates":false},{"ID":1107,"Name":"Israel","ShortCode":"IL","LongCode":"ISR","ContinentName":"Asia","NumericCode":376,"Displayed":true,"HasStates":false},{"ID":1108,"Name":"Italy","ShortCode":"IT","LongCode":"ITA","ContinentName":"Europe","NumericCode":380,"Displayed":true,"HasStates":false},{"ID":1109,"Name":"Jamaica","ShortCode":"JM","LongCode":"JAM","ContinentName":"North America","NumericCode":388,"Displayed":true,"HasStates":false},{"ID":1110,"Name":"Japan","ShortCode":"JP","LongCode":"JPN","ContinentName":"Asia","NumericCode":392,"Displayed":true,"HasStates":false},{"ID":1111,"Name":"Jersey","ShortCode":"JE","LongCode":"JEY","ContinentName":"Europe","NumericCode":832,"Displayed":true,"HasStates":false},{"ID":1112,"Name":"Jordan","ShortCode":"JO","LongCode":"JOR","ContinentName":"Asia","NumericCode":400,"Displayed":true,"HasStates":false},{"ID":1113,"Name":"Kazakhstan","ShortCode":"KZ","LongCode":"KAZ","ContinentName":"Asia","NumericCode":398,"Displayed":true,"HasStates":false},{"ID":1114,"Name":"Kenya","ShortCode":"KE","LongCode":"KEN","ContinentName":"Africa","NumericCode":404,"Displayed":true,"HasStates":false},{"ID":1115,"Name":"Kiribati","ShortCode":"KI","LongCode":"KIR","ContinentName":"Oceania","NumericCode":296,"Displayed":true,"HasStates":false},{"ID":1116,"Name":"Korea","ShortCode":"KP","LongCode":"PRK","ContinentName":"Asia","NumericCode":408,"Displayed":true,"HasStates":false},{"ID":1117,"Name":"Korea","ShortCode":"KR","LongCode":"KOR","ContinentName":"Asia","NumericCode":410,"Displayed":true,"HasStates":false},{"ID":1118,"Name":"Kuwait","ShortCode":"KW","LongCode":"KWT","ContinentName":"Asia","NumericCode":414,"Displayed":true,"HasStates":false},{"ID":1119,"Name":"Kyrgyz Republic","ShortCode":"KG","LongCode":"KGZ","ContinentName":"Asia","NumericCode":417,"Displayed":true,"HasStates":false},{"ID":1120,"Name":"Lao","ShortCode":"LA","LongCode":"LAO","ContinentName":"Asia","NumericCode":418,"Displayed":true,"HasStates":false},{"ID":1121,"Name":"Latvia","ShortCode":"LV","LongCode":"LVA","ContinentName":"Europe","NumericCode":428,"Displayed":true,"HasStates":false},{"ID":1122,"Name":"Lebanon","ShortCode":"LB","LongCode":"LBN","ContinentName":"Asia","NumericCode":422,"Displayed":true,"HasStates":false},{"ID":1123,"Name":"Lesotho","ShortCode":"LS","LongCode":"LSO","ContinentName":"Africa","NumericCode":426,"Displayed":true,"HasStates":false},{"ID":1124,"Name":"Liberia","ShortCode":"LR","LongCode":"LBR","ContinentName":"Africa","NumericCode":430,"Displayed":true,"HasStates":false},{"ID":1125,"Name":"Libyan Arab Jamahiriya","ShortCode":"LY","LongCode":"LBY","ContinentName":"Africa","NumericCode":434,"Displayed":true,"HasStates":false},{"ID":1126,"Name":"Liechtenstein","ShortCode":"LI","LongCode":"LIE","ContinentName":"Europe","NumericCode":438,"Displayed":true,"HasStates":false},{"ID":1127,"Name":"Lithuania","ShortCode":"LT","LongCode":"LTU","ContinentName":"Europe","NumericCode":440,"Displayed":true,"HasStates":false},{"ID":1128,"Name":"Luxembourg","ShortCode":"LU","LongCode":"LUX","ContinentName":"Europe","NumericCode":442,"Displayed":true,"HasStates":false},{"ID":1129,"Name":"Macao","ShortCode":"MO","LongCode":"MAC","ContinentName":"Asia","NumericCode":446,"Displayed":true,"HasStates":false},{"ID":1130,"Name":"Macedonia","ShortCode":"MK","LongCode":"MKD","ContinentName":"Europe","NumericCode":807,"Displayed":true,"HasStates":false},{"ID":1131,"Name":"Madagascar","ShortCode":"MG","LongCode":"MDG","ContinentName":"Africa","NumericCode":450,"Displayed":true,"HasStates":false},{"ID":1132,"Name":"Malawi","ShortCode":"MW","LongCode":"MWI","ContinentName":"Africa","NumericCode":454,"Displayed":true,"HasStates":false},{"ID":1133,"Name":"Malaysia","ShortCode":"MY","LongCode":"MYS","ContinentName":"Asia","NumericCode":458,"Displayed":true,"HasStates":false},{"ID":1134,"Name":"Maldives","ShortCode":"MV","LongCode":"MDV","ContinentName":"Asia","NumericCode":462,"Displayed":true,"HasStates":false},{"ID":1135,"Name":"Mali","ShortCode":"ML","LongCode":"MLI","ContinentName":"Africa","NumericCode":466,"Displayed":true,"HasStates":false},{"ID":1136,"Name":"Malta","ShortCode":"MT","LongCode":"MLT","ContinentName":"Europe","NumericCode":470,"Displayed":true,"HasStates":false},{"ID":1137,"Name":"Marshall Islands","ShortCode":"MH","LongCode":"MHL","ContinentName":"Oceania","NumericCode":584,"Displayed":true,"HasStates":false},{"ID":1138,"Name":"Martinique","ShortCode":"MQ","LongCode":"MTQ","ContinentName":"North America","NumericCode":474,"Displayed":true,"HasStates":false},{"ID":1139,"Name":"Mauritania","ShortCode":"MR","LongCode":"MRT","ContinentName":"Africa","NumericCode":478,"Displayed":true,"HasStates":false},{"ID":1140,"Name":"Mauritius","ShortCode":"MU","LongCode":"MUS","ContinentName":"Africa","NumericCode":480,"Displayed":true,"HasStates":false},{"ID":1141,"Name":"Mayotte","ShortCode":"YT","LongCode":"MYT","ContinentName":"Africa","NumericCode":175,"Displayed":true,"HasStates":false},{"ID":1142,"Name":"Mexico","ShortCode":"MX","LongCode":"MEX","ContinentName":"North America","NumericCode":484,"Displayed":true,"HasStates":false},{"ID":1143,"Name":"Micronesia","ShortCode":"FM","LongCode":"FSM","ContinentName":"Oceania","NumericCode":583,"Displayed":true,"HasStates":false},{"ID":1144,"Name":"Moldova","ShortCode":"MD","LongCode":"MDA","ContinentName":"Europe","NumericCode":498,"Displayed":true,"HasStates":false},{"ID":1145,"Name":"Monaco","ShortCode":"MC","LongCode":"MCO","ContinentName":"Europe","NumericCode":492,"Displayed":true,"HasStates":false},{"ID":1146,"Name":"Mongolia","ShortCode":"MN","LongCode":"MNG","ContinentName":"Asia","NumericCode":496,"Displayed":true,"HasStates":false},{"ID":1147,"Name":"Montenegro","ShortCode":"ME","LongCode":"MNE","ContinentName":"Europe","NumericCode":499,"Displayed":true,"HasStates":false},{"ID":1148,"Name":"Montserrat","ShortCode":"MS","LongCode":"MSR","ContinentName":"North America","NumericCode":500,"Displayed":true,"HasStates":false},{"ID":1149,"Name":"Morocco","ShortCode":"MA","LongCode":"MAR","ContinentName":"Africa","NumericCode":504,"Displayed":true,"HasStates":false},{"ID":1150,"Name":"Mozambique","ShortCode":"MZ","LongCode":"MOZ","ContinentName":"Africa","NumericCode":508,"Displayed":true,"HasStates":false},{"ID":1151,"Name":"Myanmar","ShortCode":"MM","LongCode":"MMR","ContinentName":"Asia","NumericCode":104,"Displayed":true,"HasStates":false},{"ID":1152,"Name":"Namibia","ShortCode":"NA","LongCode":"NAM","ContinentName":"Africa","NumericCode":516,"Displayed":true,"HasStates":false},{"ID":1153,"Name":"Nauru","ShortCode":"NR","LongCode":"NRU","ContinentName":"Oceania","NumericCode":520,"Displayed":true,"HasStates":false},{"ID":1154,"Name":"Nepal","ShortCode":"NP","LongCode":"NPL","ContinentName":"Asia","NumericCode":524,"Displayed":true,"HasStates":false},{"ID":1156,"Name":"Netherlands","ShortCode":"NL","LongCode":"NLD","ContinentName":"Europe","NumericCode":528,"Displayed":true,"HasStates":false},{"ID":1155,"Name":"Netherlands Antilles","ShortCode":"AN","LongCode":"ANT","ContinentName":"North America","NumericCode":530,"Displayed":true,"HasStates":false},{"ID":1157,"Name":"New Caledonia","ShortCode":"NC","LongCode":"NCL","ContinentName":"Oceania","NumericCode":540,"Displayed":true,"HasStates":false},{"ID":1158,"Name":"New Zealand","ShortCode":"NZ","LongCode":"NZL","ContinentName":"Oceania","NumericCode":554,"Displayed":true,"HasStates":false},{"ID":1159,"Name":"Nicaragua","ShortCode":"NI","LongCode":"NIC","ContinentName":"North America","NumericCode":558,"Displayed":true,"HasStates":false},{"ID":1160,"Name":"Niger","ShortCode":"NE","LongCode":"NER","ContinentName":"Africa","NumericCode":562,"Displayed":true,"HasStates":false},{"ID":1161,"Name":"Nigeria","ShortCode":"NG","LongCode":"NGA","ContinentName":"Africa","NumericCode":566,"Displayed":true,"HasStates":false},{"ID":1162,"Name":"Niue","ShortCode":"NU","LongCode":"NIU","ContinentName":"Oceania","NumericCode":570,"Displayed":true,"HasStates":false},{"ID":1163,"Name":"Norfolk Island","ShortCode":"NF","LongCode":"NFK","ContinentName":"Oceania","NumericCode":574,"Displayed":true,"HasStates":false},{"ID":1164,"Name":"Northern Mariana Islands","ShortCode":"MP","LongCode":"MNP","ContinentName":"Oceania","NumericCode":580,"Displayed":true,"HasStates":false},{"ID":1165,"Name":"Norway","ShortCode":"NO","LongCode":"NOR","ContinentName":"Europe","NumericCode":578,"Displayed":true,"HasStates":false},{"ID":1166,"Name":"Oman","ShortCode":"OM","LongCode":"OMN","ContinentName":"Asia","NumericCode":512,"Displayed":true,"HasStates":false},{"ID":1167,"Name":"Pakistan","ShortCode":"PK","LongCode":"PAK","ContinentName":"Asia","NumericCode":586,"Displayed":true,"HasStates":false},{"ID":1168,"Name":"Palau","ShortCode":"PW","LongCode":"PLW","ContinentName":"Oceania","NumericCode":585,"Displayed":true,"HasStates":false},{"ID":1169,"Name":"Palestinian Territory","ShortCode":"PS","LongCode":"PSE","ContinentName":"Asia","NumericCode":275,"Displayed":true,"HasStates":false},{"ID":1170,"Name":"Panama","ShortCode":"PA","LongCode":"PAN","ContinentName":"North America","NumericCode":591,"Displayed":true,"HasStates":false},{"ID":1171,"Name":"Papua New Guinea","ShortCode":"PG","LongCode":"PNG","ContinentName":"Oceania","NumericCode":598,"Displayed":true,"HasStates":false},{"ID":1172,"Name":"Paraguay","ShortCode":"PY","LongCode":"PRY","ContinentName":"South America","NumericCode":600,"Displayed":true,"HasStates":false},{"ID":1173,"Name":"Peru","ShortCode":"PE","LongCode":"PER","ContinentName":"South America","NumericCode":604,"Displayed":true,"HasStates":false},{"ID":1174,"Name":"Philippines","ShortCode":"PH","LongCode":"PHL","ContinentName":"Asia","NumericCode":608,"Displayed":true,"HasStates":false},{"ID":1175,"Name":"Pitcairn Islands","ShortCode":"PN","LongCode":"PCN","ContinentName":"Oceania","NumericCode":612,"Displayed":true,"HasStates":false},{"ID":1176,"Name":"Poland","ShortCode":"PL","LongCode":"POL","ContinentName":"Europe","NumericCode":616,"Displayed":true,"HasStates":false},{"ID":1177,"Name":"Portugal","ShortCode":"PT","LongCode":"PRT","ContinentName":"Europe","NumericCode":620,"Displayed":true,"HasStates":false},{"ID":1178,"Name":"Puerto Rico","ShortCode":"PR","LongCode":"PRI","ContinentName":"North America","NumericCode":630,"Displayed":true,"HasStates":false},{"ID":1179,"Name":"Qatar","ShortCode":"QA","LongCode":"QAT","ContinentName":"Asia","NumericCode":634,"Displayed":true,"HasStates":false},{"ID":1180,"Name":"Reunion","ShortCode":"RE","LongCode":"REU","ContinentName":"Africa","NumericCode":638,"Displayed":true,"HasStates":false},{"ID":1181,"Name":"Romania","ShortCode":"RO","LongCode":"ROU","ContinentName":"Europe","NumericCode":642,"Displayed":true,"HasStates":false},{"ID":1182,"Name":"Russian Federation","ShortCode":"RU","LongCode":"RUS","ContinentName":"Europe","NumericCode":643,"Displayed":true,"HasStates":false},{"ID":1183,"Name":"Rwanda","ShortCode":"RW","LongCode":"RWA","ContinentName":"Africa","NumericCode":646,"Displayed":true,"HasStates":false},{"ID":1184,"Name":"Saint Barthelemy","ShortCode":"BL","LongCode":"BLM","ContinentName":"North America","NumericCode":652,"Displayed":true,"HasStates":false},{"ID":1185,"Name":"Saint Helena","ShortCode":"SH","LongCode":"SHN","ContinentName":"Africa","NumericCode":654,"Displayed":true,"HasStates":false},{"ID":1186,"Name":"Saint Kitts and Nevis","ShortCode":"KN","LongCode":"KNA","ContinentName":"North America","NumericCode":659,"Displayed":true,"HasStates":false},{"ID":1187,"Name":"Saint Lucia","ShortCode":"LC","LongCode":"LCA","ContinentName":"North America","NumericCode":662,"Displayed":true,"HasStates":false},{"ID":1188,"Name":"Saint Martin","ShortCode":"MF","LongCode":"MAF","ContinentName":"North America","NumericCode":663,"Displayed":true,"HasStates":false},{"ID":1189,"Name":"Saint Pierre and Miquelon","ShortCode":"PM","LongCode":"SPM","ContinentName":"North America","NumericCode":666,"Displayed":true,"HasStates":false},{"ID":1190,"Name":"Saint Vincent and the Grenadines","ShortCode":"VC","LongCode":"VCT","ContinentName":"North America","NumericCode":670,"Displayed":true,"HasStates":false},{"ID":1191,"Name":"Samoa","ShortCode":"WS","LongCode":"WSM","ContinentName":"Oceania","NumericCode":882,"Displayed":true,"HasStates":false},{"ID":1192,"Name":"San Marino","ShortCode":"SM","LongCode":"SMR","ContinentName":"Europe","NumericCode":674,"Displayed":true,"HasStates":false},{"ID":1193,"Name":"Sao Tome and Principe","ShortCode":"ST","LongCode":"STP","ContinentName":"Africa","NumericCode":678,"Displayed":true,"HasStates":false},{"ID":1194,"Name":"Saudi Arabia","ShortCode":"SA","LongCode":"SAU","ContinentName":"Asia","NumericCode":682,"Displayed":true,"HasStates":false},{"ID":1195,"Name":"Senegal","ShortCode":"SN","LongCode":"SEN","ContinentName":"Africa","NumericCode":686,"Displayed":true,"HasStates":false},{"ID":1196,"Name":"Serbia","ShortCode":"RS","LongCode":"SRB","ContinentName":"Europe","NumericCode":688,"Displayed":true,"HasStates":false},{"ID":1197,"Name":"Seychelles","ShortCode":"SC","LongCode":"SYC","ContinentName":"Africa","NumericCode":690,"Displayed":true,"HasStates":false},{"ID":1198,"Name":"Sierra Leone","ShortCode":"SL","LongCode":"SLE","ContinentName":"Africa","NumericCode":694,"Displayed":true,"HasStates":false},{"ID":1199,"Name":"Singapore","ShortCode":"SG","LongCode":"SGP","ContinentName":"Asia","NumericCode":702,"Displayed":true,"HasStates":false},{"ID":1200,"Name":"Slovakia","ShortCode":"SK","LongCode":"SVK","ContinentName":"Europe","NumericCode":703,"Displayed":true,"HasStates":false},{"ID":1201,"Name":"Slovenia","ShortCode":"SI","LongCode":"SVN","ContinentName":"Europe","NumericCode":705,"Displayed":true,"HasStates":false},{"ID":1202,"Name":"Solomon Islands","ShortCode":"SB","LongCode":"SLB","ContinentName":"Oceania","NumericCode":90,"Displayed":true,"HasStates":false},{"ID":1203,"Name":"Somalia","ShortCode":"SO","LongCode":"SOM","ContinentName":"Africa","NumericCode":706,"Displayed":true,"HasStates":false},{"ID":1204,"Name":"South Africa","ShortCode":"ZA","LongCode":"ZAF","ContinentName":"Africa","NumericCode":710,"Displayed":true,"HasStates":false},{"ID":1205,"Name":"South Georgia and the South Sandwich Islands","ShortCode":"GS","LongCode":"SGS","ContinentName":"Antarctica","NumericCode":239,"Displayed":true,"HasStates":false},{"ID":1206,"Name":"Spain","ShortCode":"ES","LongCode":"ESP","ContinentName":"Europe","NumericCode":724,"Displayed":true,"HasStates":false},{"ID":1207,"Name":"Sri Lanka","ShortCode":"LK","LongCode":"LKA","ContinentName":"Asia","NumericCode":144,"Displayed":true,"HasStates":false},{"ID":1208,"Name":"Sudan","ShortCode":"SD","LongCode":"SDN","ContinentName":"Africa","NumericCode":736,"Displayed":true,"HasStates":false},{"ID":1209,"Name":"Suriname","ShortCode":"SR","LongCode":"SUR","ContinentName":"Africa","NumericCode":740,"Displayed":true,"HasStates":false},{"ID":1210,"Name":"Svalbard & Jan Mayen Islands","ShortCode":"SJ","LongCode":"SJM","ContinentName":"Europe","NumericCode":744,"Displayed":true,"HasStates":false},{"ID":1211,"Name":"Swaziland","ShortCode":"SZ","LongCode":"SWZ","ContinentName":"Africa","NumericCode":748,"Displayed":true,"HasStates":false},{"ID":1212,"Name":"Sweden","ShortCode":"SE","LongCode":"SWE","ContinentName":"Europe","NumericCode":752,"Displayed":true,"HasStates":false},{"ID":1213,"Name":"Switzerland","ShortCode":"CH","LongCode":"CHE","ContinentName":"Europe","NumericCode":756,"Displayed":true,"HasStates":false},{"ID":1214,"Name":"Syrian Arab Republic","ShortCode":"SY","LongCode":"SYR","ContinentName":"Asia","NumericCode":760,"Displayed":true,"HasStates":false},{"ID":1215,"Name":"Taiwan","ShortCode":"TW","LongCode":"TWN","ContinentName":"Asia","NumericCode":158,"Displayed":true,"HasStates":false},{"ID":1216,"Name":"Tajikistan","ShortCode":"TJ","LongCode":"TJK","ContinentName":"Asia","NumericCode":762,"Displayed":true,"HasStates":false},{"ID":1217,"Name":"Tanzania","ShortCode":"TZ","LongCode":"TZA","ContinentName":"Africa","NumericCode":834,"Displayed":true,"HasStates":false},{"ID":1218,"Name":"Thailand","ShortCode":"TH","LongCode":"THA","ContinentName":"Asia","NumericCode":764,"Displayed":true,"HasStates":false},{"ID":1219,"Name":"Timor-Leste","ShortCode":"TL","LongCode":"TLS","ContinentName":"Asia","NumericCode":626,"Displayed":true,"HasStates":false},{"ID":1220,"Name":"Togo","ShortCode":"TG","LongCode":"TGO","ContinentName":"Africa","NumericCode":768,"Displayed":true,"HasStates":false},{"ID":1221,"Name":"Tokelau","ShortCode":"TK","LongCode":"TKL","ContinentName":"Oceania","NumericCode":772,"Displayed":true,"HasStates":false},{"ID":1222,"Name":"Tonga","ShortCode":"TO","LongCode":"TON","ContinentName":"Oceania","NumericCode":776,"Displayed":true,"HasStates":false},{"ID":1223,"Name":"Trinidad and Tobago","ShortCode":"TT","LongCode":"TTO","ContinentName":"North America","NumericCode":780,"Displayed":true,"HasStates":false},{"ID":1224,"Name":"Tunisia","ShortCode":"TN","LongCode":"TUN","ContinentName":"Africa","NumericCode":788,"Displayed":true,"HasStates":false},{"ID":1225,"Name":"Turkey","ShortCode":"TR","LongCode":"TUR","ContinentName":"Asia","NumericCode":792,"Displayed":true,"HasStates":false},{"ID":1226,"Name":"Turkmenistan","ShortCode":"TM","LongCode":"TKM","ContinentName":"Asia","NumericCode":795,"Displayed":true,"HasStates":false},{"ID":1227,"Name":"Turks and Caicos Islands","ShortCode":"TC","LongCode":"TCA","ContinentName":"North America","NumericCode":796,"Displayed":true,"HasStates":false},{"ID":1228,"Name":"Tuvalu","ShortCode":"TV","LongCode":"TUV","ContinentName":"Oceania","NumericCode":798,"Displayed":true,"HasStates":false},{"ID":1229,"Name":"Uganda","ShortCode":"UG","LongCode":"UGA","ContinentName":"Africa","NumericCode":800,"Displayed":true,"HasStates":false},{"ID":1230,"Name":"Ukraine","ShortCode":"UA","LongCode":"UKR","ContinentName":"Europe","NumericCode":804,"Displayed":true,"HasStates":false},{"ID":1231,"Name":"United Arab Emirates","ShortCode":"AE","LongCode":"ARE","ContinentName":"Asia","NumericCode":784,"Displayed":true,"HasStates":false},{"ID":1232,"Name":"United Kingdom of Great Britain & Northern Ireland","ShortCode":"GB","LongCode":"GBR","ContinentName":"Europe","NumericCode":826,"Displayed":true,"HasStates":false},{"ID":1236,"Name":"Uruguay","ShortCode":"UY","LongCode":"URY","ContinentName":"South America","NumericCode":858,"Displayed":true,"HasStates":false},{"ID":1234,"Name":"US Minor Outlying Islands","ShortCode":"UM","LongCode":"UMI","ContinentName":"Oceania","NumericCode":581,"Displayed":true,"HasStates":false},{"ID":1235,"Name":"US Virgin Islands","ShortCode":"VI","LongCode":"VIR","ContinentName":"North America","NumericCode":850,"Displayed":true,"HasStates":false},{"ID":1237,"Name":"Uzbekistan","ShortCode":"UZ","LongCode":"UZB","ContinentName":"Asia","NumericCode":860,"Displayed":true,"HasStates":false},{"ID":1238,"Name":"Vanuatu","ShortCode":"VU","LongCode":"VUT","ContinentName":"Oceania","NumericCode":548,"Displayed":true,"HasStates":false},{"ID":1239,"Name":"Venezuela","ShortCode":"VE","LongCode":"VEN","ContinentName":"South America","NumericCode":862,"Displayed":true,"HasStates":false},{"ID":1240,"Name":"Vietnam","ShortCode":"VN","LongCode":"VNM","ContinentName":"Asia","NumericCode":704,"Displayed":true,"HasStates":false},{"ID":1241,"Name":"Wallis and Futuna","ShortCode":"WF","LongCode":"WLF","ContinentName":"Oceania","NumericCode":876,"Displayed":true,"HasStates":false},{"ID":1242,"Name":"Western Sahara","ShortCode":"EH","LongCode":"ESH","ContinentName":"Africa","NumericCode":732,"Displayed":true,"HasStates":false},{"ID":1243,"Name":"Yemen","ShortCode":"YE","LongCode":"YEM","ContinentName":"Asia","NumericCode":887,"Displayed":true,"HasStates":false},{"ID":1244,"Name":"Zambia","ShortCode":"ZM","LongCode":"ZMB","ContinentName":"Africa","NumericCode":894,"Displayed":true,"HasStates":false},{"ID":1245,"Name":"Zimbabwe","ShortCode":"ZW","LongCode":"ZWE","ContinentName":"Africa","NumericCode":716,"Displayed":true,"HasStates":false}];
+		var gStates = [{"ID":1051,"Name":"Alberta","NameShort":"AB","CountryID":1039},{"ID":1052,"Name":"British Columbia","NameShort":"BC","CountryID":1039},{"ID":1053,"Name":"Manitoba","NameShort":"MB","CountryID":1039},{"ID":1054,"Name":"New Brunswick","NameShort":"NB","CountryID":1039},{"ID":1055,"Name":"Newfoundland and Labrador","NameShort":"NL","CountryID":1039},{"ID":1056,"Name":"Nova Scotia","NameShort":"NS","CountryID":1039},{"ID":1057,"Name":"Northwest Territories","NameShort":"NT","CountryID":1039},{"ID":1058,"Name":"Nunavut","NameShort":"NU","CountryID":1039},{"ID":1059,"Name":"Ontario","NameShort":"ON","CountryID":1039},{"ID":1060,"Name":"Prince Edward Island","NameShort":"PE","CountryID":1039},{"ID":1061,"Name":"Quebec","NameShort":"QC","CountryID":1039},{"ID":1062,"Name":"Saskatchewan","NameShort":"SK","CountryID":1039},{"ID":1063,"Name":"Yukon","NameShort":"YT","CountryID":1039},{"ID":1000,"Name":"Alabama","NameShort":"AL","CountryID":1233},{"ID":1001,"Name":"Alaska","NameShort":"AK","CountryID":1233},{"ID":1002,"Name":"Arizona","NameShort":"AZ","CountryID":1233},{"ID":1003,"Name":"Arkansas","NameShort":"AR","CountryID":1233},{"ID":1004,"Name":"California","NameShort":"CA","CountryID":1233},{"ID":1005,"Name":"Colorado","NameShort":"CO","CountryID":1233},{"ID":1006,"Name":"Connecticut","NameShort":"CT","CountryID":1233},{"ID":1007,"Name":"Delaware","NameShort":"DE","CountryID":1233},{"ID":1008,"Name":"District of Columbia","NameShort":"DC","CountryID":1233},{"ID":1009,"Name":"Florida","NameShort":"FL","CountryID":1233},{"ID":1010,"Name":"Georgia","NameShort":"GA","CountryID":1233},{"ID":1011,"Name":"Hawaii","NameShort":"HI","CountryID":1233},{"ID":1012,"Name":"Idaho","NameShort":"ID","CountryID":1233},{"ID":1013,"Name":"Illinois","NameShort":"IL","CountryID":1233},{"ID":1014,"Name":"Indiana","NameShort":"IN","CountryID":1233},{"ID":1015,"Name":"Iowa","NameShort":"IA","CountryID":1233},{"ID":1016,"Name":"Kansas","NameShort":"KS","CountryID":1233},{"ID":1017,"Name":"Kentucky","NameShort":"KY","CountryID":1233},{"ID":1018,"Name":"Louisiana","NameShort":"LA","CountryID":1233},{"ID":1019,"Name":"Maine","NameShort":"ME","CountryID":1233},{"ID":1020,"Name":"Maryland","NameShort":"MD","CountryID":1233},{"ID":1021,"Name":"Massachusetts","NameShort":"MA","CountryID":1233},{"ID":1022,"Name":"Michigan","NameShort":"MI","CountryID":1233},{"ID":1023,"Name":"Minnesota","NameShort":"MN","CountryID":1233},{"ID":1024,"Name":"Mississippi","NameShort":"MS","CountryID":1233},{"ID":1025,"Name":"Missouri","NameShort":"MO","CountryID":1233},{"ID":1026,"Name":"Montana","NameShort":"MT","CountryID":1233},{"ID":1027,"Name":"Nebraska","NameShort":"NE","CountryID":1233},{"ID":1028,"Name":"Nevada","NameShort":"NV","CountryID":1233},{"ID":1029,"Name":"New Hampshire","NameShort":"NH","CountryID":1233},{"ID":1030,"Name":"New Jersey","NameShort":"NJ","CountryID":1233},{"ID":1031,"Name":"New Mexico","NameShort":"NM","CountryID":1233},{"ID":1032,"Name":"New York","NameShort":"NY","CountryID":1233},{"ID":1033,"Name":"North Carolina","NameShort":"NC","CountryID":1233},{"ID":1034,"Name":"North Dakota","NameShort":"ND","CountryID":1233},{"ID":1035,"Name":"Ohio","NameShort":"OH","CountryID":1233},{"ID":1036,"Name":"Oklahoma","NameShort":"OK","CountryID":1233},{"ID":1037,"Name":"Oregon","NameShort":"OR","CountryID":1233},{"ID":1038,"Name":"Pennsylvania","NameShort":"PA","CountryID":1233},{"ID":1039,"Name":"Rhode Island","NameShort":"RI","CountryID":1233},{"ID":1040,"Name":"South Carolina","NameShort":"SC","CountryID":1233},{"ID":1041,"Name":"South Dakota","NameShort":"SD","CountryID":1233},{"ID":1042,"Name":"Tennessee","NameShort":"TN","CountryID":1233},{"ID":1043,"Name":"Texas","NameShort":"TX","CountryID":1233},{"ID":1044,"Name":"Utah","NameShort":"UT","CountryID":1233},{"ID":1045,"Name":"Vermont","NameShort":"VT","CountryID":1233},{"ID":1046,"Name":"Virginia","NameShort":"VA","CountryID":1233},{"ID":1047,"Name":"Washington","NameShort":"WA","CountryID":1233},{"ID":1048,"Name":"West Virginia","NameShort":"WV","CountryID":1233},{"ID":1049,"Name":"Wisconsin","NameShort":"WI","CountryID":1233},{"ID":1050,"Name":"Wyoming","NameShort":"WY","CountryID":1233}];
+		var gSports = [{"ID":1005,"Level1Name":"Adventure Racing","Level2Name":"Sprint","Level3Name":""},{"ID":1006,"Level1Name":"Aquabike","Level2Name":"","Level3Name":""},{"ID":1007,"Level1Name":"Aquathlon","Level2Name":"","Level3Name":""},{"ID":1008,"Level1Name":"Bicycling","Level2Name":"","Level3Name":""},{"ID":1032,"Level1Name":"Duathlon","Level2Name":"","Level3Name":""},{"ID":1038,"Level1Name":"Mountain Biking","Level2Name":"","Level3Name":""},{"ID":1051,"Level1Name":"Running","Level2Name":"","Level3Name":""},{"ID":1076,"Level1Name":"Swimming","Level2Name":"","Level3Name":""},{"ID":1084,"Level1Name":"Track & Field","Level2Name":"","Level3Name":""},{"ID":1087,"Level1Name":"Triathlon","Level2Name":"","Level3Name":""},{"ID":1069,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"5k"},{"ID":1057,"Level1Name":"Running","Level2Name":"Road","Level3Name":"5k"},{"ID":1056,"Level1Name":"Running","Level2Name":"Road","Level3Name":"5 miler"},{"ID":1068,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"5 miler"},{"ID":1054,"Level1Name":"Running","Level2Name":"Road","Level3Name":"10k"},{"ID":1066,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"10k"},{"ID":1065,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"10 miler"},{"ID":1053,"Level1Name":"Running","Level2Name":"Road","Level3Name":"10 miler"},{"ID":1094,"Level1Name":"Triathlon","Level2Name":"Off-Road","Level3Name":"Sprint"},{"ID":1097,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Sprint"},{"ID":1055,"Level1Name":"Running","Level2Name":"Road","Level3Name":"15k"},{"ID":1067,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"15k"},{"ID":1092,"Level1Name":"Triathlon","Level2Name":"Off-Road","Level3Name":"International / Olympic"},{"ID":1095,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"International / Olympic"},{"ID":1070,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"Half Marathon"},{"ID":1058,"Level1Name":"Running","Level2Name":"Road","Level3Name":"Half Marathon"},{"ID":1091,"Level1Name":"Triathlon","Level2Name":"Off-Road","Level3Name":"Half Iron Distance"},{"ID":1088,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Half Iron Distance"},{"ID":1072,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"Marathon"},{"ID":1060,"Level1Name":"Running","Level2Name":"Road","Level3Name":"Marathon"},{"ID":1089,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Ironman"},{"ID":1001,"Level1Name":"Adventure Racing","Level2Name":"","Level3Name":""},{"ID":1063,"Level1Name":"Running","Level2Name":"Road","Level3Name":"Ultra-Distance"},{"ID":1075,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"Ultra-Distance"},{"ID":1098,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Ultra-Distance"},{"ID":1002,"Level1Name":"Adventure Racing","Level2Name":"Multi-day","Level3Name":""},{"ID":1062,"Level1Name":"Running","Level2Name":"Road","Level3Name":"Relay"},{"ID":1074,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"Relay"},{"ID":1099,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Winter"},{"ID":1102,"Level1Name":"Triathlon","Level2Name":"Off-Road","Level3Name":"Winter"},{"ID":1003,"Level1Name":"Adventure Racing","Level2Name":"One day","Level3Name":""},{"ID":1059,"Level1Name":"Running","Level2Name":"Road","Level3Name":"Kids"},{"ID":1071,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"Kids"},{"ID":1103,"Level1Name":"Triathlon","Level2Name":"Off-Road","Level3Name":"Kids"},{"ID":1090,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Kids"},{"ID":1004,"Level1Name":"Adventure Racing","Level2Name":"Other","Level3Name":""},{"ID":1009,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":""},{"ID":1021,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":""},{"ID":1022,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"12-hour/24-Hour"},{"ID":1023,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Century"},{"ID":1010,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Circuit Race"},{"ID":1011,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Collegiate"},{"ID":1012,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Criterium"},{"ID":1024,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Criterium"},{"ID":1025,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Cyclocross"},{"ID":1013,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Cyclocross"},{"ID":1026,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Half Century"},{"ID":1027,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Metric Century"},{"ID":1014,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Omnium"},{"ID":1105,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Open"},{"ID":1016,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Road Race"},{"ID":1017,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Series"},{"ID":1029,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Spinning"},{"ID":1018,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Stage Race"},{"ID":1019,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Time Trial"},{"ID":1020,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Track"},{"ID":1030,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Training Ride"},{"ID":1031,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Ultra-Distance"},{"ID":1033,"Level1Name":"Duathlon","Level2Name":"Long Course","Level3Name":""},{"ID":1034,"Level1Name":"Duathlon","Level2Name":"Off-Road","Level3Name":""},{"ID":1036,"Level1Name":"Duathlon","Level2Name":"Short Course","Level3Name":""},{"ID":1037,"Level1Name":"Duathlon","Level2Name":"Winter","Level3Name":""},{"ID":1048,"Level1Name":"Mountain Biking","Level2Name":"Non-Competitive","Level3Name":""},{"ID":1039,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":""},{"ID":1040,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"12-hour/24-Hour"},{"ID":1041,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Cross Country"},{"ID":1042,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Cyclocross"},{"ID":1043,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Downhill"},{"ID":1044,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Mountain Cross"},{"ID":1050,"Level1Name":"Mountain Biking","Level2Name":"Non-Competitive","Level3Name":"Riding Route"},{"ID":1046,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Slalom"},{"ID":1047,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Trials Riding"},{"ID":1052,"Level1Name":"Running","Level2Name":"Road","Level3Name":""},{"ID":1064,"Level1Name":"Running","Level2Name":"Trail","Level3Name":""},{"ID":1077,"Level1Name":"Swimming","Level2Name":"Collegiate","Level3Name":""},{"ID":1078,"Level1Name":"Swimming","Level2Name":"Diving","Level3Name":""},{"ID":1079,"Level1Name":"Swimming","Level2Name":"Masters","Level3Name":""},{"ID":1080,"Level1Name":"Swimming","Level2Name":"Open Water","Level3Name":""},{"ID":1082,"Level1Name":"Swimming","Level2Name":"Synchronized","Level3Name":""},{"ID":1083,"Level1Name":"Swimming","Level2Name":"Water Polo","Level3Name":""},{"ID":1085,"Level1Name":"Track & Field","Level2Name":"Indoor Track","Level3Name":""},{"ID":1086,"Level1Name":"Track & Field","Level2Name":"Outdoor Track","Level3Name":""},{"ID":1028,"Level1Name":"Bicycling","Level2Name":"Non-competitive","Level3Name":"Other"},{"ID":1015,"Level1Name":"Bicycling","Level2Name":"Competitive","Level3Name":"Other"},{"ID":1035,"Level1Name":"Duathlon","Level2Name":"Other","Level3Name":""},{"ID":1049,"Level1Name":"Mountain Biking","Level2Name":"Non-Competitive","Level3Name":"Other"},{"ID":1045,"Level1Name":"Mountain Biking","Level2Name":"Competitive","Level3Name":"Other"},{"ID":1061,"Level1Name":"Running","Level2Name":"Road","Level3Name":"Other"},{"ID":1073,"Level1Name":"Running","Level2Name":"Trail","Level3Name":"Other"},{"ID":1081,"Level1Name":"Swimming","Level2Name":"Other","Level3Name":""},{"ID":1096,"Level1Name":"Triathlon","Level2Name":"Road","Level3Name":"Other"},{"ID":1093,"Level1Name":"Triathlon","Level2Name":"Off-Road","Level3Name":"Other"},{"ID":1106,"Level1Name":"Club","Level2Name":"","Level3Name":""},{"ID":1107,"Level1Name":"Other","Level2Name":"","Level3Name":""}];
+		var gUInfo = {"UserID":"","FirstName":"","InboxCount":""};
+	</script>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2678392-1");
+pageTracker._trackPageview();
+</script>
 
 
-	</body></html>
+<script type="text/javascript">
+var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1106&domain=imathlete.com";
+var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+</script><script src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js?uid=1106&amp;domain=imathlete.com" type="text/javascript"></script>
+
+
+
+
+</body></html>
