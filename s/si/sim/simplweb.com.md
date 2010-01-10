@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplweb.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502013108id_/http%3A//www.simplweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplweb.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111005714id_/http%3A//www.simplweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ How To Contact Us
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **The Information We Collect:  
-**This notice applies to all information collected or submitted on the Simplweb website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+**This notice applies to all information collected or submitted on the Simplweb [website](http://www.simplweb.com/showcase "Simplweb Website Showcase"). On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name   
 Address   
@@ -50,4 +50,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections
 
 **How To Contact Us**   
-Should you have other questions or concerns about these privacy policies, please end us an email at support@simplweb.com.
+Should you have other questions or concerns about these privacy policies, please end us an email at [support](http://www.simplweb.com/support "Simplweb Support Forum")@simplweb.com.
