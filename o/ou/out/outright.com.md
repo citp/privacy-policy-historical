@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901201951id_/http%3A//outright.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110122259id_/http%3A//outright.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,13 +51,13 @@ We reserve the right to modify this policy at any time. You agree to accept elec
 
 ### What people are saying
 
-"I love freshbooks and Outright so far."
+"There is some invaluable stuff on there. Not only do they help you keep basic records of income and expense, but they have pages upon pages of advice on how to spend smart, what you can expense, ideas on [how to be more green and save](http://blog.outright.com/home-business/5-ways-to-green-your-office-for-a-black-bottom-line/)...and the list goes on and on. I am sure the more I use it, the more I will find."
 
-Lori Siets; Corporate Contract Recruiter
+Will Lindow; Will Makes Music
 
-"I'm so grateful I found this application! This has been a gap in the freelance market and a need for this."
+"I love Bootstrap [ _sic_ Outright]. As a freelancer, this was the missing link in my bookkeeping without surrendering to the bloated overkill of QuickBooks. Freshbooks already does my invoicing, I just needed the profits/losses and expense-tracking features... and here it is."
 
-Jonathan Sharp; Outwestmedia.com
+Eric Fields; Ericdfields.com
 
-© 2009 Outright. All Rights Reserved  
+© 2010 Outright. All Rights Reserved  
 A product of Bootstrap, Inc 
