@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submiturlhere.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430025801id_/http%3A//www.submiturlhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submiturlhere.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110092002id_/http%3A//www.submiturlhere.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
