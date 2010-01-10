@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025349id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yosemitepark.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110220619id_/http%3A//www.yosemitepark.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
