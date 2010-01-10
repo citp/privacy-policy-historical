@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stateuniversity.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205060149id_/http%3A//www.stateuniversity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateuniversity.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110044158id_/http%3A//www.stateuniversity.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We collect the IP address and query data from every visitor to the StateUniversi
 
 Visitors may also volunteer personal information to StateUniversity or partners of StateUniversity for purposes of school interest forms or online applications.
 
-In addition to personal information that visitors volunteer to StateUniversity, we may use third-party advertising companies to serve and track advertisements appearing on our website. Such third-party companies may employ cookies and action tags to measure advertising effectiveness.
+We use third-party advertising companies to serve ads when you visit the StateUniversity website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this website, other websites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 ## Transferability of Information
 
