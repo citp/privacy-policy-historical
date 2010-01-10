@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303224257id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110131654id_/http%3A//fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - FXCM
 
@@ -11,7 +11,7 @@ When you apply for or maintain a live account with FXCM, we collect personal inf
 
   * application information: Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income; 
   * transaction information: Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses;
-  * verification information: Information necessary to verify your identity, such as a passport or driver’s license. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. The USA PATRIOT Act requires us to collect information and take actions necessary to verify your identity.
+  * verification information: Information necessary to verify your identity, such as a passport or drivers license. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. The USA PATRIOT Act requires us to collect information and take actions necessary to verify your identity.
 
   
 
