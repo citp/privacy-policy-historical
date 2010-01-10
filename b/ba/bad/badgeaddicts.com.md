@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the badgeaddicts.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200832id_/http%3A//www.badgeaddicts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeaddicts.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110094408id_/http%3A//www.badgeaddicts.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Badgeaddicts Privacy Policy
-
-## Badgeaddicts's Philosophy
-
-Your private information is not a commodity for this site or anyone else to buy, sell, or trade.
+# BadgeAddicts.com - Privacy Policy
 
 ## Information collected
 
