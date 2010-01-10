@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesigndevelopments.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226190557id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesigndevelopments.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110221120id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
 
 # Information Packaging - Privacy Policy
 
