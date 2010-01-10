@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830022029id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110050549id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
 
 # MyHotComments - Privacy Policy
 
