@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacknight.ie privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202102119id_/http%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacknight.ie privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110211339id_/http%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Hosting and Domains
 
 This website is owned and maintained by Blacknight Internet Solutions Ltd ([http://www.blacknight.com/](http://www.blacknight.ie/))  
 Our postal address is:
