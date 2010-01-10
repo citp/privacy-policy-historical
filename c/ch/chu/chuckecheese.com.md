@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301144602id_/http%3A//www.chuckecheese.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110134305id_/http%3A//www.chuckecheese.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Chuck E. Cheese - Privacy Policy
 
@@ -14,7 +14,7 @@ A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
 
 CEC Entertainment makes a special effort to encourage children to consult with their parents before furnishing data. However, CEC Entertainment believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission. For additional information about parental control tools, please consult <http://www.icra.org/_en/parents>.
 
-We do not seek to acquire information specifically from children under the age of 13 on the Chuck E. Cheese's web site. Individuals must be 18 or older to order items from the Chuck E. Cheese's e-shop.
+We do not seek to acquire information specifically from children under the age of 18 on the Chuck E. Cheese's web site. Individuals must be 18 or older to order items from the Chuck E. Cheese's e-shop.
 
 PRIVACY
 
