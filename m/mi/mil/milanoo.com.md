@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111111115id_/http%3A//www.milanoo.com/help/Privacy-Policy--module-index-id-72.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110202939id_/http%3A//www.milanoo.com/help/Privacy-Policy--module-index-id-72.html) for the most accurate reproduction.*
 
 # China Wholesale - Wholesale Cheap sexy lingerie, mascot costumes, Lolita dresses, swimsuits and women's shoes - Milanoo.com
 
