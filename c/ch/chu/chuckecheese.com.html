@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chuckecheese.com privacy policy that was archived on 2009-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090301144602id_/http%3A//www.chuckecheese.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chuckecheese.com privacy policy that was archived on 2010-01-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100110134305id_/http%3A//www.chuckecheese.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -34,7 +34,7 @@
 	<link rel="stylesheet" type="text/css" href="/includes/screen_global.css" media="screen" charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="/includes/nav.css" media="screen" charset="utf-8">
 	<script src="/includes/nav.js" language="javascript" type="text/javascript"></script>
-	
+	<script src="/includes/popup.js" language="javascript" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="/includes/screen.css" media="screen" charset="utf-8">	
 	
 	<link rel="stylesheet" type="text/css" href="/includes/print.css" media="print" charset="utf-8">
@@ -121,7 +121,7 @@
 <body>
 <div id="container" align="center">
 			<h3 class="the_experience">	
-	<a href="/"><span>Chuck E Cheese</span></a>
+	<a href="/"><span>Chuck E. Cheese</span></a>
 	</h3>
 	<!-- Restaurant Locator - Start -->
 		<div id="locator">
@@ -129,7 +129,7 @@
 				<form name="quickSearch" action="/locations/results.php">
 					<p class="label"><label for="zip">Location Finder</label></p>
 					<input type="text" id="zip" name="zip" tabindex="1" value="Enter Zip Code" onfocus="select();">
-					<a href="/locations/results.php" class="btn" onclick="document.forms['quickSearch'].submit(); return false;">Go</a>					
+					<a href="/locations/results.php" class="btn" onclick="document.forms['quickSearch'].submit(); return false;" onfocus="if(this.value==this.defaultValue) this.value='';">Go</a>					
 				</form>
 			<!--</div>	-->
 		</div>
@@ -149,7 +149,7 @@
 
 			<p>CEC Entertainment makes a special effort to encourage children to consult with their parents before furnishing data. However, CEC Entertainment believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission. For additional information about parental control tools, please consult <a href="http://www.icra.org/_en/parents" title="Parental Control Tools" target="_blank">http://www.icra.org/_en/parents</a>.</p>
 
-			<p>We do not seek to acquire information specifically from children under the age of 13 on the Chuck E. Cheese's web site. Individuals must be 18 or older to order items from the Chuck E. Cheese's e-shop.</p>
+			<p>We do not seek to acquire information specifically from children under the age of 18 on the Chuck E. Cheese's web site. Individuals must be 18 or older to order items from the Chuck E. Cheese's e-shop.</p>
  
 
 			<p class="subpage_subtitle">PRIVACY</p>
@@ -222,8 +222,10 @@
 			Email: <a href="mailto:guestrelations@cecentertainment.com" target="_blank">guestrelations@cecentertainment.com</a></p>
 		</div>	
 	</div>	
-				<div id="nav">            
-            <ul id="navul">		
+		
+		<div id="nav">
+					<div id="e_games"><a class="tnavlink" href="/chuck-e-games/"><img src="/images/nav/e_games_btn_static.gif" alt="CHUCK E-GAMES" height="52" width="142" border="0"></a></div>
+		            <ul id="navul">		
                 <li id="experience" class="tnavlink"><a class="tnavlink" href="/the-experience/"><span>The Experience</span></a>
                     <ul class="navli_experience">
                         <li id="games_rides" class="tnavlinkSub"><a href="/the-experience/games-rides.php" class="subNav" title="Games &amp; Rides"><span>Games &amp; Rides</span></a></li>
@@ -254,9 +256,15 @@
                     <ul class="navli_parties">
                         <li id="birthday"><a href="/parties/birthday.php" class="subNav" title="Birthday Parties"><span>Birthday Parties</span></a></li>
                         <li id="organizational"><a href="/parties/organizational.php" class="subNav" title="Organizational Parties"><span>Organizational Parties</span></a></li>
-                        <li id="school_fundraisers"><a href="/parties/school-fundraisers.php" class="subNav" title="School Fundraisers"><span>School Fundraisers</span></a></li>
-                        <li id="send_invitations"><a href="/parties/send-invitations.php" class="subNav" title="Send Party Invitations"><span>Send Party Invitations</span></a></li>				
+                                                <li id="send_invitations"><a href="/parties/send-invitations.php" class="subNav" title="Send Party Invitations"><span>Send Party Invitations</span></a></li>				
                     </ul>
+                </li>
+				 <li id="fundraising" class="tnavlink"><a class="tnavlink" href="/fundraising/"><span>Fundraisers</span></a>       
+				 	<ul class="navli_fundraising">
+						<li id="school_fundraising"><a href="/fundraising/school-fundraising.php" class="subNav" title="School Fundraising"><span>School Fundraising</span></a></li>
+						<li id="non_profit_fundraising"><a href="/fundraising/non-profit-fundraising.php" class="subNav" title="Non-Profit Fundraising"><span>Non-Profit Fundraising</span></a></li>
+						<li id="send_invitations"><a href="/fundraising/send-invitations.php" class="subNav" title="Send Invitations"><span>Send Invitations</span></a></li>
+				 	</ul>
                 </li>
                 <li id="gift_cards" class="tnavlink"><a class="tnavlink" href="/gift-cards/"><span>Gift Cards</span></a>                	
                 </li>
@@ -272,17 +280,17 @@
                     <ul class="navli_company_info">
                        	<li id="history" class="first"><a href="/company-info/history.php" class="subNav" title="History"><span>History</span></a></li>
                         <li id="employment"><a href="/company-info/employment.php" class="subNav" title="Employment"><span>Employment</span></a></li>
-                        <li id="investor_information"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=72589&amp;p=irol-irhome" class="subNav" title="Investor Information"><span>Investor Information</span></a></li>
+                        <li id="investor_information"><a href="http://phx.corporate-ir.net/preview/phoenix.zhtml?c=72589&amp;p=irol-irhome" class="subNav" title="Investor Information"><span>Investor Information</span></a></li>
+						<li id="franchising"><a href="/company-info/franchising.php" class="subNav" title="Franchising"><span>Franchising</span></a></li>
                         <li id="contact_us"><a href="/company-info/contact-us.php" class="subNav" title="Contact Us"><span>Contact Us</span></a></li>
                         <li id="product_advisory"><a href="/company-info/product-advisory.php" class="subNav" title="Product Advisory"><span>Product Advisory</span></a></li>			
                     </ul>
                 </li>
-                <li id="e_games" class="tnavlink"><a class="tnavlink" href="/chuck-e-games/"><span>Chuck E-Games</span></a>                	
-                </li>
-            </ul>
+                           </ul>
 		</div>		
 				<div id="tagline_no_locator">		
-						
+				
+								
 		</div>			
 		
 				<div id="footer">
