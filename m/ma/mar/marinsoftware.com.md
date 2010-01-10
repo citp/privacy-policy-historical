@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinsoftware.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207095321id_/http%3A//www.marinsoftware.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinsoftware.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110111152id_/http%3A//www.marinsoftware.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to Marin Software
 
