@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082351id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110123414id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ Diet.com requests personal information when you sign up for our services. This i
 
 When you become a registered user on Diet.com, we also collect non-personally identifiable information, such as demographic information (e.g. age or gender), health information (e.g. current weight and height), and email address. Non-personally identifiable information may also include your computer IP address, browser type, domain name, and other anonymous statistical data involving the use of our site. This type of information is used to help us better understand our clients and their needs, and to improve and market our services and products on our site. 
 
-We may also use a user's email address to send news, tips or newsletters regarding our service. Users may choose not to receive email of this type by opting out via the "unsubscribe" link at the bottom of these communications or by writing to membersupport08 [at] diet [dot] com.  
+We may also use a user's email address to send news, tips or newsletters regarding our service. Users may choose not to receive email of this type by opting out using the "unsubscribe" link at the bottom of these communications or by heading to the Diet.com [Preference Center](https://web.archive.org/newsletter/preference_center.php) and adjusting your preferences.  
   
   
 Go back to the top  
@@ -57,7 +57,7 @@ Go back to the top
   
 Email Choice/Opt-out  
   
-Users who do not wish to receive Diet.com news, tips and newsletters may choose not to type by opting out using the "unsubscribe" link at the bottom of these communications or by writing to [membersupport08 [at] diet [dot] com](mailto:membersupport08@Diet.com).  
+Users who do not wish to receive Diet.com news, tips and newsletters may choose not to receive them by opting out using the "unsubscribe" link at the bottom of these communications or by heading to the Diet.com [Preference Center](https://web.archive.org/newsletter/preference_center.php) and adjusting your preferences.   
   
   
 Go back to the top  
