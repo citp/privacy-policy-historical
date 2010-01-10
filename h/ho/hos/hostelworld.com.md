@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001112838id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110133817id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
-# Hostelworld.com - Secure Online Bookings at Hostels Worldwide
+# Hostels Worldwide - Online Bookings, Ratings and Reviews
 
 Hostelworld.com realises some people are unsure about entering their personal details into websites over the Internet. Below, we explain how we use your information and how we protect your privacy. Hostelworld.com and its associated companies respect and protect your right to privacy in relation to your interactions with this website. Any information which is provided by you to Hostelworld.com via this website or otherwise will be treated in accordance with the terms of the Data Protection Acts, 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time. 
 
