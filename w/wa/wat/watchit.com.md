@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the watchit.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526054441id_/http%3A//corporate.smartpros.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchit.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110011514id_/http%3A//corporate.smartpros.com/about/privacy.html) for the most accurate reproduction.*
 
 # SmartPros: Knowledge for Professionals
 
   
-[**Home**](https://web.archive.org/web/20090526054441id_/http%3A//corporate.smartpros.com/index.html) > [**About Us**](https://web.archive.org/web/20090526054441id_/http%3A//corporate.smartpros.com/about/about.html) > Privacy Policy
+[**Home**](https://web.archive.org/web/20100110011514id_/http%3A//corporate.smartpros.com/index.html) > [**About Us**](https://web.archive.org/web/20100110011514id_/http%3A//corporate.smartpros.com/about/about.html) > Privacy Policy
 
 About Us  
 **Privacy Policy**
@@ -22,4 +22,4 @@ A "cookie" is a small data file transferred by a Web site to a computer's hard d
 Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If cookies are turned off though, there may be some features of our site that will not be available and some Web pages may not display properly. For more information on adjusting your cookie settings, go to the Help menu of your browser.
 
   
-[**Contact us**](https://web.archive.org/web/20090526054441id_/http%3A//corporate.smartpros.com/contact/contact.html) for more information.
+[**Contact us**](https://web.archive.org/web/20100110011514id_/http%3A//corporate.smartpros.com/contact/contact.html) for more information.
