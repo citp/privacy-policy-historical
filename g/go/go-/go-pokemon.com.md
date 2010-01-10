@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228185413id_/http%3A//www.go-pokemon.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110210337id_/http%3A//www.go-pokemon.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Go-Pokemon.com - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 [ ](https://www.esrb.org/confirm/pokemon-confirmation.htm)
 
-##### Last updated November 14, 2008   
+##### Last updated March 24, 2009   
 
 
 ## Our Privacy Commitment
@@ -117,7 +117,7 @@ Additionally, we may also collect other types of non-personal information (known
 > As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by doing the following: 
 > 
 >   * **www.pokemoncenter.com:** To remove your name from the [www.pokemoncenter.com](http://www.pokemoncenter.com/) site, contact us with your request at [myaccount@pokemoncenter.com](mailto:myaccount@pokemoncenter.com) or contact us at Pokémon USA, Inc., Attn.: Privacy Policy Administrator, 1177 Avenue of the Americas, 31st floor, New York, NY 10036, (212) 765-6000.
->   * **www.op.pokemon-tcg.com:** To remove your name from the [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) site, log into the website and follow the instructions to unregister or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 777 108th Avenue, NE, Suite 2000, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
+>   * **www.op.pokemon-tcg.com:** To remove your name from the [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) site, log into the website and follow the instructions to unregister or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
 >   * **www.pokemonlearningleague.com:** To remove your name from the [www.pokemonlearningleague.com](http://www.pokemonlearningleague.com/) website, please send an email to [myaccount@pokemonlearningleague.com](mailto:myaccount@pokemonlearningleague.com) or contact us at Pokémon USA, Inc., Attn.: Privacy Policy Administrator, 1177 Avenue of the Americas, 31st floor, New York, NY 10036, (212) 765-6000.
 > 
 If you contact us, please include the name of the website you used to register and the email address you used to register with us so we can verify your request.
@@ -128,7 +128,7 @@ If you contact us, please include the name of the website you used to register a
 > 
 >   * **www.pokemoncenter.com:** By editing your profile with the "My Account" section of the [www.pokemoncenter.com](http://www.pokemoncenter.com/). You may also contact us with your requested updates at [myaccount@pokemoncenter.com](mailto:myaccount@pokemoncenter.com). You can also contact us at Pokémon USA, Inc., Attn.: Privacy Policy Administrator, 1177 Avenue of the Americas, 31st floor, New York, NY 10036, (212) 765-6000.
 >   * **www.pokemonlearningleague.com:** By contacting us with your requested updates at [myaccount@pokemonlearningleague.com](mailto:myaccount@pokemonlearningleague.com). You can also contact us at Pokémon USA, Inc., Attn.: Privacy Policy Administrator, 1177 Avenue of the Americas, 31st floor, New York, NY 10036, (212) 765-6000.
->   * **www.op.pokemon-tcg.com:** Please visit the "Edit Profile" section on the [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) site (where you can modify your contact information and preferences after logging in) or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 777 108th Avenue, NE, Suite 2000, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
+>   * **www.op.pokemon-tcg.com:** Please visit the "Edit Profile" section on the [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) site (where you can modify your contact information and preferences after logging in) or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
 > 
 If you contact us, please include the name of the website you used to register and the email address you used to register with us so we can verify your request.
 
@@ -141,8 +141,8 @@ If you contact us, please include the name of the website you used to register a
 > [www.go-pokemon.com](http://www.go-pokemon.com/)   
 >  [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) | Pokémon USA, Inc.   
 >  Attn.: Privacy Policy Administrator   
->  777 108th Avenue, NE   
->  Suite 2000   
+>  333 108th Avenue, NE   
+>  Suite 1900   
 >  Bellevue, WA 98004   
 >  fax your inquiry to +1(425)274-1041.  
   
@@ -188,7 +188,7 @@ If you contact us, please include the name of the website you used to register a
 
 [ ](https://www.esrb.org/confirm/pokemon-confirmation.htm)
 
-##### Last updated November 14, 2008
+##### Last updated March 24, 2009
 
 ## OUR PRIVACY COMMITMENT
 
@@ -262,7 +262,7 @@ We may collect demographic information (date of birth, gender, and preferences) 
 > At any time, a parent can contact our customer service department to access, change or delete the personal information that we have collected from his or her kid as follows: 
 > 
 >   * **www.pokemoncenter.com:** To access, change or delete the personal information about your child on the [www.pokemoncenter.com](http://www.pokemoncenter.com/) site, please email us at [myaccount@pokemoncenter.com](mailto:myaccount@pokemoncenter.com) or contact us at Pokémon USA, Inc., Attn.: Privacy Policy Administrator, 1177 Avenue of the Americas, 31st floor, New York, NY 10036, (212) 765-6000.
->   * **www.op.pokemon-tcg.com:** To access, change or delete the personal information about your child on the [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) site, log into the website and follow the instructions to unregister or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 777 108th Avenue, NE, Suite 2000, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
+>   * **www.op.pokemon-tcg.com:** To access, change or delete the personal information about your child on the [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) site, log into the website and follow the instructions to unregister or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
 >   * **www.pokemonlearningleague.com:** To access, change or delete the personal information about your child on the [pokemonlearningleague.com](http://www.pokemonlearningleague.com/) website, please send an email to [myaccount@pokemonlearningleague.com](mailto:myaccount@pokemonlearningleague.com) or contact us at Pokémon USA, Inc., Attn.: Privacy Policy Administrator, 1177 Avenue of the Americas, 31st floor, New York, NY 10036, (212) 765-6000.
 > 
 Please include the kid-member's name and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
@@ -280,8 +280,8 @@ Please include the kid-member's name and the parent's e-mail address in the e-ma
 > [www.go-pokemon.com](http://www.go-pokemon.com/)   
 >  [www.op.pokemon-tcg.com](http://www.op.pokemon-tcg.com/) | Pokémon USA, Inc.   
 >  Attn.: Privacy Policy Administrator   
->  777 108th Avenue, NE   
->  Suite 2000   
+>  333 108th Avenue, NE   
+>  Suite 1900   
 >  Bellevue, WA 98004   
 >  fax your inquiry to +1(425)274-1041.  
   
