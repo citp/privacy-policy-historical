@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beefjack.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110135429id_/http%3A//www.beefjack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beefjack.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110213834id_/http%3A//beefjack.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :
+# Privacy Policy : BeefJack
 
 **PRIVACY POLICY for www.beefjack.com**
 
