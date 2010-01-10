@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizu.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901233341id_/http%3A//www.vizu.com/w3c/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizu.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110211211id_/http%3A//www.vizu.com/w3c/policy.htm) for the most accurate reproduction.*
 
 # Vizu: Privacy Policy
 
