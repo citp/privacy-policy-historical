@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuts.co.uk privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208053449id_/http%3A//www.nuts.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuts.co.uk privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110032138id_/http%3A//www.nuts.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | nuts.co.uk
 
