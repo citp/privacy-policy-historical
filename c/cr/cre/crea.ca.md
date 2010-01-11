@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129174430id_/http%3A//crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111060441id_/http%3A//www.crea.ca/public/legal/privacy.htm) for the most accurate reproduction.*
 
 # CREA
 
@@ -13,7 +13,7 @@ The Canadian Real Estate Association (CREA) is a national trade Association repr
 
 THE PRIVACY CODE OF THE CANADIAN REAL ESTATE ASSOCIATION
 
-In 2001, the members of The Canadian Real Estate Association approved the adoption of a national Privacy Code. This Code, which applies to all member Boards, Associations, brokerage firms, brokers and salespersons, is comprised of the 10 Principles of privacy, which set in place a solid foundation within which the REALTOR community can protect the confidentiality of the Personal Information of its customers, clients and the general public. 
+In 2001, the members of The Canadian Real Estate Association approved the adoption of a national Privacy Code. This Code, which applies to all member Boards, Associations, brokerage firms, brokers and salespersons, is comprised of the 10 Principles of privacy, which set in place a solid foundation within which the REALTOR® community can protect the confidentiality of the Personal Information of its customers, clients and the general public. 
 
 CREA adheres to and abides by the Principles set out in the Privacy Code. 
 
@@ -46,7 +46,7 @@ Information on properties listed for sale on MLS® systems may be provided to CR
 
   * Providing leadership, support, counsel and representation on behalf of organized real estate; 
   * Providing products, services, information and advice to individual members and Boards/Associations; 
-  * Operating and maintaining its residential property website ([ **realtor.ca**](http://www.realtor.ca/)), its commercial property website ( **[www.icx.ca](http://www.icx.ca/)** ) and its Intranet site **([www.realtorlink.ca](http://www.realtorlink.ca/)**; **[www.lienimmobilier.ca](http://www.lienimmobilier.ca/) )**; 
+  * Operating and maintaining its residential property website ([ **REALTOR.ca**](http://www.realtor.ca/)), its commercial property website ( **[www.icx.ca](http://www.icx.ca/)** ) and its Intranet site **([www.realtorlink.ca](http://www.realtorlink.ca/)**; **[www.lienimmobilier.ca](http://www.lienimmobilier.ca/) )**; 
   * Administering and facilitating membership in the Boards/Associations across Canada; 
   * Administering trademark and competition law compliance programs; 
   * Furthering national policies; 
@@ -56,7 +56,7 @@ Information on properties listed for sale on MLS® systems may be provided to CR
   * Any other purposes consistent with CREA's mission statement and strategic plan. 
 
 **DISCLOSURE TO THIRD PARTIES  
-**Certain Personal Information of Members, (name, licensed status, firm name and business contact information) is available to other Members of CREA through REALTOR LinkT, a password-protected Intranet site. CREA may also disclose personal information of members to Boards/Associations or real estate regulators for membership or related purposes. 
+**Certain Personal Information of Members, (name, licensed status, firm name and business contact information) is available to other Members of CREA through REALTOR Link®, a password-protected Intranet site. CREA may also disclose personal information of members to Boards/Associations or real estate regulators for membership or related purposes. 
 
 CREA may also disclose Personal Information of Members to third parties, such as lawyers, consultants, affinity partners or others who work with CREA to collect and analyse information from Members, to improve the products and services offered by CREA or to provide products and services to Members. Some of these third parties may send information to or contact the individual as part of membership surveys. 
 
@@ -91,7 +91,7 @@ CREA attempts to insure the Personal Information under its control is as accurat
 
 Personal Information of Members which is uploaded directly to CREA's database by Member Boards/Associations is the responsibility of the Member and or the Boards/Associations. 
 
-Listing information uploaded by the Boards/Associations to CREA's property database websites is the responsibility of the listing REALTOR and/or the Board/Association. 
+Listing information uploaded by the Boards/Associations to CREA's property database websites is the responsibility of the listing REALTOR® and/or the Board/Association. 
 
 Information in closed files is not updated or maintained. 
 
