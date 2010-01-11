@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rjmetrics.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025051529id_/http%3A//www.rjmetrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rjmetrics.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111080059id_/http%3A//www.rjmetrics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : RJMetrics
-
-### Privacy Policy
 
 RJMetrics Website Visitor Privacy Policy  
 Last updated: October 13, 2008
@@ -76,7 +74,7 @@ The Site may, from time to time, contain links to external websites. RJMetrics e
 Back to top
 
 Can I change my information?  
-To keep your Personally Identifiable Information accurate, current and complete, please contact us via the email form on the [About Us](https://web.archive.org/web/20081025051529id_/http%3A//www.rjmetrics.com/about.php) page. RJMetrics shall use commercially reasonable efforts to respond to your data access request within 30 days of receiving your request. If RJMetrics is unable to respond to your request within such period RJMetrics shall use commercially reasonable efforts to notify you of the reason why RJMetrics is so unable. Should you choose to unsubscribe from any mailing lists for which you registered, you may do so by following the instructions on how to unsubscribe provided in all RJMetrics communications.   
+To keep your Personally Identifiable Information accurate, current and complete, please contact us via the email form on the [About Us](https://web.archive.org/web/20100111080059id_/http%3A//www.rjmetrics.com/about.php) page. RJMetrics shall use commercially reasonable efforts to respond to your data access request within 30 days of receiving your request. If RJMetrics is unable to respond to your request within such period RJMetrics shall use commercially reasonable efforts to notify you of the reason why RJMetrics is so unable. Should you choose to unsubscribe from any mailing lists for which you registered, you may do so by following the instructions on how to unsubscribe provided in all RJMetrics communications.   
 Back to top
 
 Changes to this Privacy Policy  
@@ -88,5 +86,5 @@ RJMetrics does not knowingly collect information from children under the age of 
 Back to top
 
 Contact us  
-If you have any queries about the privacy statement or to report a privacy issue please contact us using the information on the [About Us](https://web.archive.org/web/20081025051529id_/http%3A//www.rjmetrics.com/about.php) section of our website.  
+If you have any queries about the privacy statement or to report a privacy issue please contact us using the information on the [About Us](https://web.archive.org/web/20100111080059id_/http%3A//www.rjmetrics.com/about.php) section of our website.  
 Back to top
