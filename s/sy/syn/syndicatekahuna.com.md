@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the syndicatekahuna.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822004404id_/http%3A//www.syndicatekahuna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndicatekahuna.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111014831id_/http%3A//syndicatekahuna.com/privacy) for the most accurate reproduction.*
 
 # Syndicate Kahuna - Privacy Policy
 
-PRIVACY POLICY  
-\-- IMPORTANT -- PLEASE READ
+PRIVACY POLICY -- IMPORTANT -- PLEASE READ
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
-PERSONS OR PARTIES COVERED This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
+PERSONS OR PARTIES COVERED
+
+This Privacy Policy is intended to cover all visitors to this website (http://www.syndicatekahuna.com), all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
 
 PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED
 
@@ -23,8 +24,7 @@ Acceptance of the terms of this Privacy Policy is a portion of the consideration
 
 A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)
 
-It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in order to insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.  
-
+It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in order to insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
 ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED
 
@@ -42,7 +42,7 @@ Online ordering via SSL encrypted communication provided by shopping cart servic
 
 VISITOR EMAIL INQUIRIES
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
+Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any "submission" provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
 
 CUSTOMER EMAIL OR TESTIMONIALS
 
@@ -52,7 +52,7 @@ Any communication which, in its sole discretion, the site deems to be a testimon
 
 INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that "cookies" will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
 INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS
 
@@ -82,10 +82,9 @@ BULLETIN BOARDS AND PUBLIC FORUMS
 
 Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
 
-SPAM 
+SPAM
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.  
-
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
 DATA SECURITY
 
@@ -93,13 +92,7 @@ This website takes measures to protect its data that contains information relate
 
 QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
 
-You may direct questions, comments or reports to:
-
-Archon Media   
-1718 Fry Rd suite 465  
-Houston, TX  
-77084   
-281-599-7250
+You may direct questions, comments or reports to: CONTACT
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
@@ -107,23 +100,21 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 LATEST UPDATE
 
-This Privacy Policy was last updated on: August 30, 2008
+This Privacy Policy was last updated on: December 24, 2008
 
 COPYRIGHT
 
-This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and Nevada Processing Center, Inc.  
-
+This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and Nevada Processing Center, Inc.
 
 DISPUTES
 
 As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
 
-Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller. 
+Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
 
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal. 
+In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will be final and binding with limited rights of appeal.
 
-The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.  
-
+The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses.
 
 JURISDICTION AND VENUE
 
@@ -133,6 +124,6 @@ APPLICABLE LAW
 
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
 
-COPYRIGHT AND LICENSE 
+COPYRIGHT AND LICENSE
 
-This "Privacy Policy" is copyrighted © 2003-2008 by Mining Gold Corporation Nevada Processing Center, Inc and is fully licensed for use by this website. If you wish to lawfully use this Privacy Policy on your website, contact support@internetlawcompliance.com for licensing information or visit legal documents website at http://www.internetlawcompliance.com.
+This "Privacy Policy" is (c) 2003-2009 by Mining Gold Corporation and Nevada Processing Center, Inc. (888) 214-3349, and is fully licensed for use by this website. If you wish to lawfully use this Terms of Use on your website, contact support@internetlawcompliance.com for licensing information or visit legal documents website. 
