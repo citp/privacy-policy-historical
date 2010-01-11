@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807013304id_/http%3A//www.wsjwine.com/customer_policies.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111063848id_/http%3A//www.wsjwine.com/customer_policies.aspx%23privacy) for the most accurate reproduction.*
 
 # WSJ Wine - Customer Policies
 
 ## Policies
 
-You'll find our Shipping, Returns and Privacy Statement policies described here. For more information, please contact us by phone toll-free at 1-877-WSJ-WINE (1-877-975-9463) or via [e-mail](https://web.archive.org/web/20090807013304id_/http%3A//www.wsjwine.com/contact_us.aspx).
+You'll find our Shipping, Returns and Privacy Statement policies described here. For more information, please contact us by phone toll-free at 1-877-975-9463 or via [e-mail](https://web.archive.org/web/20100111063848id_/http%3A//www.wsjwine.com/contact_us.aspx).
 
 ### Shipping Policy
 
@@ -18,13 +18,13 @@ Please allow 10 - 14 business days for delivery (actual delivery time varies by 
 
 ### Returns Policy
 
-WSJwine is 100% committed to your satisfaction. If you should ever have broken bottles or delivery problems, please call us at 1-877-WSJ-WINE (1-877-975-9463). We will be able to handle any problems with UPS or any other courier within 60 days following delivery. We will always work to get your problem solved as quickly as possible.
+WSJwine is 100% committed to your satisfaction. If you should ever have broken bottles or delivery problems, please call us at 1-877-975-9463. We will be able to handle any problems with UPS or any other courier within 60 days following delivery. We will always work to get your problem solved as quickly as possible.
 
 (top)
 
 ### Privacy Policy
 
-WSJwine.com (the “Site”) is operated by Beverage Solutions, Inc. under an agreement between Beverage Solutions, Inc. and Dow Jones & Company, Inc., publisher of The Wall Street Journal (“We” and “Us”). The Site offers the opportunity to purchase wines for home or office delivery and review related tastings notes.
+WSJwine (the “Site”) is operated by Direct Wines, Inc. under an agreement between Direct Wines, Inc. and Dow Jones & Company, Inc., publisher of The Wall Street Journal (“We” and “Us”). The Site offers the opportunity to purchase wines for home or office delivery and review related tastings notes.
 
 We know that you, our valued customer, care how your information is used and how your privacy is protected. We are committed to protecting your privacy and have created this policy (the “Privacy Policy”) in order to demonstrate our commitment to that privacy. This Privacy Policy describes how we collect, use and share personally identifiable information (“PII”) (such as your name, shipping address, email address, telephone number, or credit card number) we obtain from and about visitors to the Site, members of our wine Discovery Club or customers of the Site.
 
@@ -58,7 +58,7 @@ Except as described in this Privacy Policy, we will not use the PII you provide 
 
 Except as disclosed in this Privacy Policy, we do not share or sell your PII.
 
-We may share your PII with companies that are affiliated with us, including but not limited to Dow Jones and Beverage Solutions, Inc. 
+We may share your PII with companies that are affiliated with us, including but not limited to Dow Jones and Direct Wines, Inc. 
 
 From time to time we may share PII with unaffiliated, third-party businesses that can provide you with valuable offers and information. However, you will always have the opportunity to instruct us not to share your information with such third parties when PII is collected. 
 
@@ -66,7 +66,7 @@ We work with certain companies that, in conjunction with their own membership pr
 
 We may use other companies to perform services including, without limitation, facilitating some aspects of our Site, sending e-mail, fulfilling purchase requests, delivering orders, processing credit cards and payment information, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access to your PII and non-PII solely for the purpose of providing these services to us or on our behalf.
 
-There may be instances when we may disclose PII without providing you with a choice in order to protect the legal rights of WSJwine.com and affiliated companies, including Dow Jones and Beverage Solutions, Inc., or their employees, agents and contractors; to protect the safety and security of visitors to our site; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if we sell all or part of the business of WSJwine.com or makes a sale or transfer of assets or are otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
+There may be instances when we may disclose PII without providing you with a choice in order to protect the legal rights of WSJwine and affiliated companies, including Dow Jones and Direct Wines, Inc., or their employees, agents and contractors; to protect the safety and security of visitors to our site; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if we sell all or part of the business of WSJwine or makes a sale or transfer of assets or are otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
 
 **Security**
 
@@ -74,13 +74,13 @@ We use commercially reasonable administrative, technical, personnel, and physica
 
 **Access**
 
-Whenever possible, you may review and update the PII that you have provided to us by contacting Customer Service at customerservice@wsjwine.com. 
+Whenever possible, you may review and update the PII that you have provided to us by contacting Customer Service at customerservice@WSJwine.com. 
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at:
 
-**Email:** customerservice@wsjwine.com
+**Email:** customerservice@WSJwine.com 
 
 **Mail:** WSJwine Customer Service   
           930 Plaza Drive   
           Montoursville, PA 17754   
-**Phone:** 1-877 975 9463 
+**Phone:** 1-877-975-9463 
