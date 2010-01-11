@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexyandfunny.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204144628id_/http%3A//www.sexyandfunny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyandfunny.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111162038id_/http%3A//www.sexyandfunny.com/privacy.html) for the most accurate reproduction.*
 
-# Sexy and Funny - Privacy Policy/Terms - Sexy Videos, Hot Girls, Funny and Sexy Photos/Animations
+# Sexy and Funny - Privacy Policy/Terms - SexyAndFunny.com
 
   
 **SexyAndFunny.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
