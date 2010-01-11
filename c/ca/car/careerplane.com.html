@@ -1,0 +1,389 @@
+<!--The following is the downloaded HTML source of the careerplane.com privacy policy that was archived on 2010-01-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100111065910id_/http%3A//careerplane.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
+	Privacy Policy - CareerPlane.com ©2009
+</title><link href="main.css" rel="Stylesheet" type="text/css"><meta name="keywords" content="Careerplane, career, plane, school, major, education, American education system, USA education, US education, American education, US education system, USA education system, study in the us, study in the Canada, study in america, study usa, study canada, study us, study ca"><meta name="description" content="CareerPlane provides the information necessary to make the best decision concerning your degree program, career, and school preference. ">
+    <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>	
+    <script type="text/javascript" language="javascript">        
+    
+    function window_onload() {
+        var pageName = "privacy";
+        var lnk = null;
+        switch(pageName) {        
+            case "home" : lnk = document.getElementById("lnkHome");break;
+            case "majors" : lnk = document.getElementById("lnkMajor");break;
+            case "careers" : lnk = document.getElementById("lnkCareers");break;
+            case "about_us" : lnk = document.getElementById("lnkAboutUs");break;
+            case "contact_us" : lnk = document.getElementById("lnkContactUs");break;
+        }
+        if(lnk != null) {
+            lnk.className = "mnuSelected";
+        }
+        buildButtons();
+    }
+    
+    function changeClass(pCtrlID, pClass){ 
+        var ctrl = document.getElementById(pCtrlID);
+        if(ctrl != null) {
+            ctrl.className = pClass;
+        }
+    }
+    
+    function onFocusZip(elementId, defaultText) { 
+       if (document.getElementById(elementId).value == defaultText) {
+          document.getElementById(elementId).maxLength = 5;
+          document.getElementById(elementId).className = "inputSearchNormal";
+          document.getElementById(elementId).value = "";
+       }
+    }
+    
+    function onBlurZip(elementId, defaultText) {
+       var textValue = document.getElementById(elementId).value;
+       if (textValue == defaultText || textValue.length == 0) {
+          document.getElementById(elementId).maxLength = 18;
+          document.getElementById(elementId).className = "inputSearch";
+          document.getElementById(elementId).value = defaultText;
+       }
+       else
+          document.getElementById(elementId).className = "inputSearchNormal";
+    }
+    
+    function navigateToZip() {
+        var zip = document.getElementById("txtSearch");
+        if(zip != null) {
+            if(zip.value == "" || zip.value.length != 5 || !isNumber(zip.value)) {
+                alert("You must enter a valid 5 digit zip code.");
+                zip.focus();
+            }
+            else {
+                window.open("home_z.aspx?zip=" + zip.value, "_self");
+            }
+        }
+        return false;
+    }
+    
+    function isNumber(value) {
+          var check = true;          
+          //check that all characters are digits, ., -, or ""
+          for(var i=0;i < value.length;i++) {
+               var new_key = value.charAt(i); //cycle through characters               
+               if(((new_key < "0") || (new_key > "9")) && !(new_key == "")) {
+                    check = false;
+                    break;
+               }
+          }          
+          return check;
+     }
+     
+    function onkeypressZip(e) {   
+        var keynum;
+        if(window.event) {
+            keynum = window.event.keyCode;           
+        } 
+        else if(e.which) {
+            keynum = e.which;                        
+        }
+        if(keynum == 13) {       
+            navigateToZip();
+            return false;
+        }
+        return true;
+    }
+    
+    function onsubmitMain() {       
+        return ("privacy" == "contact_us");
+    }
+    
+    function buildButtons() {
+        $(".linkBoxContainer, .linkFeaturedBoxContainer, .btnStyle, .btnStyle2, .linkDiplomaBoxContainer").css("cursor", "pointer");        
+        $(".linkBoxContainer a, .linkFeaturedBoxContainer a, .btnStyle a, .btnStyle2 a, .linkDiplomaBoxContainer a, .letterOff a, .letterOn a").click(function(e) {
+                e.stopPropagation(); 
+                e.cancelBubble = true;              
+                return true;
+            });   
+        $(".linkBoxContainer, .linkFeaturedBoxContainer, .btnStyle, .btnStyle2, .linkDiplomaBoxContainer, .letterOff, .letterOn").click(function(e) {                                
+                var lnk = $(this).find("a");  
+                if(lnk.attr("onclick") == null) {              
+                    window.open(lnk.attr("href"), (lnk.attr("target") != null && lnk.attr("target") != "") ? lnk.attr("target") : "_self");
+                }
+                else {
+                    lnk[0].onclick();
+                }
+            });
+    }
+    
+    </script>       
+
+</head>
+<body onload="window_onload()">
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" onsubmit="return onsubmitMain();">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZHlYucNeSrMJ4QxN+vsvlougrzqU">
+
+        <table class="tblFull" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td>
+                    <table id="tblMain" align="center" cellpadding="0" cellspacing="0" style="width: 900px;" class="mainTable">
+                        <tbody><tr valign="top">
+                            <td align="center" style="border-bottom:solid 1px #c3ded4; width:650px;">
+                                <div class="headerTable">
+                                    <table width="100%" align="left" cellpadding="0" cellspacing="0">
+                                        <tbody><tr valign="top">
+                                            <td>
+                                                <div id="mnuCP" class="mnuHeader">
+                                                    <table>
+                                                        <tbody><tr valign="top">
+                                                            <td style="width: 65px; padding-left: 35px;">
+                                                                <a id="lnkHome" href="home.aspx" class="mnuHeaderLink">Home</a></td>
+                                                            <td style="width: 70px;">
+                                                                <a id="lnkMajor" href="majors.aspx" class="mnuHeaderLink">Majors</a></td>
+                                                            <td style="width: 70px;">
+                                                                <a id="lnkCareers" href="careers.aspx" class="mnuHeaderLink">Careers</a></td>
+                                                            <td style="width: 80px;">
+                                                                <a id="lnkAboutUs" href="about_us.aspx" class="mnuHeaderLink">About Us</a></td>
+                                                            <td style="width: 70px;">
+                                                                <a id="lnkContactUs" href="contact_us.aspx" class="mnuHeaderLink">Contact Us</a></td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </div>
+                                            </td>
+                                            <td rowspan="2" class="headerRight">
+                                                <table width="100%" cellpadding="0" cellspacing="0">
+                                                    <tbody><tr valign="top">
+                                                        <td style=" padding:0px 0px 0px 0px;">
+                                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                            <tbody><tr valign="top">
+                                                                <td colspan="2" style="height:60px; margin-bottom:0px; padding-bottom:0px; border-bottom:solid 1px #c3ded4;">
+                                                                    <a href="home_c.aspx" style=" padding:0px 0px 0px 0px;"><div class="image"></div></a>
+                                                                </td>
+                                                            </tr>
+                                                                <tr valign="top">
+                                                                    <td align="left" style="padding:0 10px 0 5px;">
+                                                                        <img src="images/img_search.png">
+                                                                    </td>
+                                                                    <td align="left">
+                                                                    <span class="mainSubTitle2">Looking for a school near you?</span>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr valign="top">
+                                                                    <td align="left" colspan="2" style="padding:0 10px 0 5px; text-align:center;">
+                                                                        <input type="text" name="txtSearch" style="width:150px;" id="txtSearch" value="Enter your Zipcode" maxlength="18" class="inputSearch" onfocus="javascript:onFocusZip(this.id,'Enter your Zipcode');" onblur="javascript:onBlurZip(this.id,'Enter your Zipcode');" onkeypress="return onkeypressZip(event);">
+                                                                        <span class="btnStyle" style="padding: 0px 0px 10px; cursor: pointer;"><a id="lnkSubmitZipCode" onclick="javascript:navigateToZip()" style="cursor:pointer;">&nbsp;&nbsp;Submit&nbsp;&nbsp;&nbsp;</a></span>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                        <tr valign="bottom">
+                                            <td style="vertical-align: bottom; height: 115px; width:650px;">
+                                                <a href="home.aspx" style="cursor: pointer;">
+                                                    <img src="images/header_1.jpg" border="0"></a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td align="center" style="width:100%;">
+                                <div style="overflow:hidden;">
+                                
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <tbody><tr valign="top" align="center">
+            <td class="contentColumn">
+                <div style="overflow:hidden; max-width:650px;">
+                    
+    <table style="height:380px;" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td style="width:100%; padding-left:20px; text-align:left; padding-top:15px;" class="pText">
+                <span class="mainTitle2">Privacy Policy</span><br><br>
+                <div style="padding-left:0px; padding-right:15px;">
+                <span class="mainSubTitle">CareerPlane, LLC</span><br><br>
+
+CareerPlane, LLC (hereinafter "CareerPlane") shares your concern about personal privacy. CareerPlane recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://CareerPlane.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. CareerPlane provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
+<br><br>
+<span class="mainSubTitle">General</span><br>
+By reference, this Privacy Policy is incorporated into and is subject to the CareerPlane Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official CareerPlane contact remains subject to this Privacy Policy, as well as the CareerPlane Terms of Use, and/or other governing CareerPlane policies.
+<br><br>
+You are informed that any content posted by Users onto the Website becomes published or informational content, or the like, and is not considered personally identifiable information subject to this Privacy Policy.
+<br><br>
+<span class="mainSubTitle">Collected Information</span><br>
+CareerPlane may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information. CareerPlane may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data.
+<br><br>
+Specifically, but not limited to, the following information is collected:<br>
+a. User Provided Data: Users may provide personally identifiable information (such as a name, address, telephone, and an email address) to CareerPlane when choosing to participate in the services and activities available on the Website (collectively, the "Services").<br>
+b. Cookies: Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. CareerPlane may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as 'reminders' as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer's settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled.<br>
+c. Clear .GIFs: CareerPlane may choose to utilize "clear .GIFs" to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, CareerPlane may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps CareerPlane to determine active and inactive email addresses.<br>
+d. Log File Data: When Users log-in to their CareerPlane account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User's authorization to access the account. Information, such as a Web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User's entry and activity on the Website.
+<br><br>
+<span class="mainSubTitle">Information Uses</span><br>
+a. Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User's use and pleasure.<br>
+b. All personal information, data, or content that you, the User, voluntarily disclose to the Website public areas become available to other Users and can be collected and used by others. Your account Username is displayed to other Users when you post or send messages through the Website.<br>
+c. CareerPlane does use your personally identifiable and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.<br>
+d. CareerPlane uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) remember information necessary for logging in to your Website account so as to save you time in re-entering such information; (iii) monitor the impact and effectiveness of CareerPlane marketing efforts; (iv) monitor aggregate metrics providing detailed data on User activities while on the Website; (v) track your submissions, entries, and status.
+<br><br>
+<span class="mainSubTitle">Disclosure of Information</span><br>
+a. CareerPlane provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of CareerPlane. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.<br>
+b. CareerPlane reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the CareerPlane Terms of Service, or other governing CareerPlane policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend CareerPlane against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of CareerPlane, Users of the Website, or others.<br>
+c. CareerPlane does not share your personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out.<br>
+d. CareerPlane does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.<br>
+e. CareerPlane may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.
+<br><br>
+<span class="mainSubTitle">Decline to Accept</span><br>
+ You may, of course, decline to submit or allow the submission of personally identifiable information through the Website, in which case CareerPlane may not be able to provide certain Services to you, if any at all. You may, at any time, update or edit your profile information and email preferences by visiting your CareerPlane account profile page.
+<br><br>
+<span class="mainSubTitle">Links and Third Party Advertisers</span><br>
+ CareerPlane allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the "Advertisers") to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website.
+<br><br>
+CareerPlane does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, CareerPlane highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. CareerPlane's Privacy Policy does not apply to, nor can CareerPlane control, the activities of other websites or Advertisers.
+<br><br>
+<span class="mainSubTitle">Data Security</span><br>
+ In an effort to provide maximum protection of User's privacy, CareerPlane routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, CareerPlane cannot ensure or warrant the security of any information you transmit to CareerPlane or place upon the Website and you do so at your own risk. Once we receive said transmission of personal information, CareerPlane engages commercially reasonable efforts to ensure the security of our systems and the personal information you provided to our custody. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+<br><br>
+<span class="mainSubTitle">Data Processing</span><br>
+The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America ("US"). To reconcile these differences, the US and the EU have created a safe harbor ("Safe Harbor") that defines mutually acceptable privacy operations. For more information see www.export.gov/safeharbor/.
+<br><br>
+By providing information to us, you acknowledge that we operate in the US and you agree to (i) permit us to transmit and use your user Information anywhere necessary, including across international boundaries, to better improve the services and transactions provided by CareerPlane; and (ii) that such use by us shall be subject to the terms and conditions stated in this Privacy Policy and the Terms of Use.
+<br><br>
+<span class="mainSubTitle">Children's Privacy</span><br>
+ CareerPlane complies with the Children's Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone's ability. For that reason, CareerPlane does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and CareerPlane has unknowingly collected said information, then CareerPlane will take the appropriate steps to delete this information.
+<br><br>
+<span class="mainSubTitle">Transfer of Rights</span><br>
+Should CareerPlane be acquired, merged, or endeavor to become closed for business, CareerPlane reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status.
+<br><br>
+In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, CareerPlane may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify CareerPlane owner(s), officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses.
+<br><br>
+<span class="mainSubTitle">Contact Information</span><br>
+ You may contact CareerPlane Customer Service at:<br>
+<br>
+CareerPlane, LLC<br>
+Attention: Customer Service<br>
+6908 E. Thomas Rd.<br>
+Suite 201<br>
+Scottsdale, AZ 85251<br>
+Email: <a href="mailto:support@CareerPlane.com">support@CareerPlane.com</a><br>
+<!--Toll Free (USA): 1-XXX-XXX-XXXX<br />
+Direct Dial (International): (1)XXX-XXX-XXXX-->
+<br><br>
+<span class="mainSubTitle">Changes and Updates</span><br>
+ This Privacy Policy may be revised at will. Such changes, edits, revisions, and/or updates will be made available by posting updated Privacy Policies to the Website. All such changed and updated Privacy Policies can be identified by way of the Date of Modification. You are advised to frequently visit the CareerPlane Privacy Policy to determine the last Date of Modification so as to afford you the opportunity to access the most current Privacy Policy. Regardless of your visitation habits to this Privacy Policy, your continued access and use of the CareerPlane Website constitutes your agreement to this Privacy Policy, the CareerPlane Terms of Use, and any other governing policies of CareerPlane, as well as any future revisions of said legal documents and policies.
+<br><br>
+<span class="mainSubTitle">Communications</span><br>
+ On occasion as deemed necessary by CareerPlane (daily, weekly, monthly, etc.), CareerPlane will send the User various communications, such as email newsletters or alerts, account updates, and special offers targeted to the interests of the User. as determined by CareerPlane. Said communications shall originate from CareerPlane only and shall be conducted in compliance to Section 4, entitled "Disclosure of Information", of this Privacy Policy. At any time, the User may modify or entirely opt-out of such communications by accessing the "Email Options" link as provided in the post-login Administration section of the User's personal CareerPlane website.
+<br><br>
+<span class="mainSubTitle">Presiding Language</span><br>
+ This Agreement and all CareerPlane policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document.
+<br><br>
+DATE OF MODIFICATION: January 18, 2009
+<br><br><br>
+                </div>
+            </td>         
+        </tr>
+    </tbody></table>
+
+                </div>
+            </td>
+            <td class="rightColumn" style="overflow:hidden;">
+            <div style="overflow:hidden; max-width:225px;">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                        <td>
+                            <div style="padding: 0px 5px 0px 15px; vertical-align: middle;">
+                                <img src="images/selected.png"><span class="mainSubTitle"> Movers &amp; Shakers:</span></div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="padding-left: 15px; text-align: left;"><div style="overflow:hidden; max-width:210px;">
+                            <span class="mainSubTitle2">Top Majors</span><br>
+                             <table cellspacing="0" cellpadding="0" align="left" class="toplist toplist"><tbody><tr><td style="text-align:left;"></td></tr><tr><td style="text-align:left; padding-left:0;"><span class="item">1)&nbsp;<a href="major.aspx?id=4" target="_self" class="linkitem">e-Business</a></span><br><span class="item">2)&nbsp;<a href="major.aspx?id=19" target="_self" class="linkitem">Elementary Education</a></span><br><span class="item">3)&nbsp;<a href="major.aspx?id=1" target="_self" class="linkitem">Accounting</a></span><br><span class="item">4)&nbsp;<a href="major.aspx?id=29" target="_self" class="linkitem">Web Development</a></span><br><span class="item">5)&nbsp;<a href="major.aspx?id=30" target="_self" class="linkitem">RN to BSN</a></span><br><br></td></tr></tbody></table>
+                                </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div id="ctl00_ctl00_cphMain_bpAllMajors" class="cpdRoundedContainer linkBoxContainer" style="cursor: pointer;"><b class="xtop"><b class="xt1"></b><b class="xt2"></b><b class="xt3"></b><b class="xt4"></b></b><div class="xboxcontent" style="height:-14px;">
+                                <a href="majors.aspx">View All Majors</a></div><b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1">
+                                                                    </b></b></div>
+                            <br>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="padding-left: 15px; text-align: left;"><div style="overflow:hidden; max-width:210px;">
+                            <span class="mainSubTitle2">Top Career Salaries</span>
+                            <table cellspacing="0" cellpadding="0" align="left" class="toplist "><tbody><tr><td style="text-align:left;"></td></tr><tr><td style="text-align:left; padding-left:0;"><span class="item">1)&nbsp;<a href="career.aspx?id=126" target="_self" class="linkitem">eBusiness Management</a></span><br><span class="item">2)&nbsp;<a href="career.aspx?id=153" target="_self" class="linkitem">Financial Systems Management</a></span><br><span class="item">3)&nbsp;<a href="career.aspx?id=277" target="_self" class="linkitem">Pharmacy Director</a></span><br><span class="item">4)&nbsp;<a href="career.aspx?id=295" target="_self" class="linkitem">Psychiatrist</a></span><br><span class="item">5)&nbsp;<a href="career.aspx?id=304" target="_self" class="linkitem">Registered Nurse – ER</a></span><br><br></td></tr></tbody></table>
+                                </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div id="ctl00_ctl00_cphMain_BasePanel1" class="cpdRoundedContainer linkBoxContainer" style="cursor: pointer;"><b class="xtop"><b class="xt1"></b><b class="xt2"></b><b class="xt3"></b><b class="xt4"></b></b><div class="xboxcontent" style="height:-14px;">
+                                <a href="careers.aspx">View Career Salaries</a></div><b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1">
+                                                                    </b></b></div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td align="center">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="footerTable" align="center">
+                    <div class="footerContent">
+                        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td class="footerLeft">
+                                <img src="images/img_text_footer.png"><br><br><br>
+                                <span class="pText">Copyright ©2009 CareerPlane.com   All rights reserved.</span>
+                                </td>
+                                <td class="footerRight">
+                                    <table>
+                                        <tbody><tr>
+                                            <td><a href="home.aspx">Home</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="majors.aspx">Majors</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="careers.aspx">Careers</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="about_us.aspx">About Us</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="contact_us.aspx">Contact Us</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="terms.aspx">Terms &amp; Conditions</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="privacy.aspx">Privacy Policy</a></td>
+                                        </tr>
+                                         <tr>
+                                            <td><a href="docs/CP_mediaKit.pdf" target="_blank">Media Kit</a></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+    </form>
+
+
+</body></html>
