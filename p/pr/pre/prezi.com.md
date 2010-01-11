@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190957id_/http%3A//prezi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111072533id_/http%3A//prezi.com/privacy-policy) for the most accurate reproduction.*
 
 # Prezi - The zooming presentation editor
 
