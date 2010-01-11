@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718120910id_/http%3A//www.zumiez.com/411-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111065123id_/http%3A//www.zumiez.com/411-privacy) for the most accurate reproduction.*
 
 # Zumiez 411 Privacy & Security
 
 Privacy and Security Policy
 
-Updated 6/18/09
+Updated 10/30/09
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE. FOR CHILDREN VISITING THIS WEB PAGE, ASK YOUR PARENTS TO GO OVER THIS WITH YOU.
 
 By using http://www.zumiez.com ("Site") you signify your assent to this Privacy Policy. If you do not agree with this policy, please do not use this Site. Your continued use of our Site following the posting of changes tot hese terms will mean you accept those changes. Zumiez reserves the right, as its sole discretion, to change, modify, add, or remove portions of this policy at any time.
-
-_[NOTE- Material changes to terms should be conspicuously noted on the home page.]_
 
 Zumiez Inc. values the relationship we have built with our customers. Our customers' rights to privacy online and the concerns of parents for their children visiting our site are very important. In efforts to bring you a great shopping experience and keep you updated with current promotions, events and product, we may collect some personal information.
 
@@ -30,7 +28,7 @@ From time to time our privacy policy may change; our most recent information wil
 
 Privacy of Children on Our Site
 
-The Childre's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certail features of our Site. Below we explain how we comply with COPPA. When we use the term "parent" below, we mean to include legal guardians.
+The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certail features of our Site. Below we explain how we comply with COPPA. When we use the term "parent" below, we mean to include legal guardians.
 
 Information should not be submitted to or posted at Zumiez.com by guests under 13 years of age without the consent of their parent or guardian. If Zumiez.com learns that a guest under 13 years of age has submitted personally indentifiable information online Zumiez will take reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
 
@@ -46,7 +44,7 @@ We collect birth dates to validate the ages of our guests, including children. W
 
 If a child registers for a sweepstakes or contest, we use the parent's e-mail address to notify the parent of the child's registration request and to get the parent's permission to allow the child's registration and entry. We may collect a child's e-mail address from the parent in order to send the child a newsletter. In addition, we may share a child's personal information with third parties to the extent reasonably necessary to protect the security of integrity of our Site; to take precautions against liability; to respond to judicial process; or to the extent permitted under provisions of law, to provide information to law enforcement agencies or for an investigation related to public safety. Information is shared with third party service providers to manage our customer information, including shipping, name and address verification, email distribution, market research and promotions management. Those parties have agreed to maintain the confidentiality, security and integrity of the information. Parents have the right to consent to Zumiez's collection of their children's information without agreeing to allow Zumiez to disclose the information to third parties.
 
-Parents always have the right to review personal information that we have collected from their children. At any time parents can refuse to permit us to collect further personal information from their child and can request that any personal information we have collected be deleted from our records. Parents may review, change or delete the personally identifiable information that we have collected from their children by logging on to the child's account at the [My Account Home Page](https://www.zumiez.com/modcustomer/account/login) located at https://www.zumiez.com/zshop/MyAccount/Login.aspx. The parent will need to have their child's member name and password. There are instructions on the My Account home page explaining how to recover a password if the child has forgotten it. Parents can also contact our customer service department to review, change or delete the personal information that we have collected from his or her child by sending an e-mail to [help@zumiez.com](mailto:help@zumiez.com)
+Parents always have the right to review personal information that we have collected from their children. At any time parents can refuse to permit us to collect further personal information from their child and can request that any personal information we have collected be deleted from our records. Parents may review, change or delete the personally identifiable information that we have collected from their children by logging on to the child's account at the [My Account Home Page](https://www.zumiez.com/modcustomer/account/login) located at https://www.zumiez.com/modcustomer/account/login. The parent will need to have their child's member name and password. There are instructions on the My Account home page explaining how to recover a password if the child has forgotten it. Parents can also contact our customer service department to review, change or delete the personal information that we have collected from his or her child by sending an e-mail to [help@zumiez.com](mailto:help@zumiez.com)
 
 We will provide parents notice via email of any material changes in the way we intend to collect, use, and/or share children's personal information. Parents should consistently update their personal information to provide us current e-mail addresses. We will apply material changes in our Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
 
@@ -66,7 +64,7 @@ NOTICE: Please visit http://www.ftc.gov/privacy/privacyinitiatives/childrens.htm
 
 Information we Collect
 
-We may collect information including (your name, postal address, billing address, telephone number, email address and, when necessary, credit card information when you:
+We may collect information including: your name, postal address, billing address, telephone number, email address and, when necessary, credit card information when you:
 
   * Place an order online
   * Make a purchase at one of our Zumiez Retail Stores 
@@ -76,9 +74,11 @@ We may collect information including (your name, postal address, billing address
   * Create an account at Zumiez.com 
   * Register at an event
   * Subscribe to ZMail 
+  * Subscribe to receive Text Messages 
   * Send a wish list
   * Shop with a Friend
-  * Share your Shopping Cart
+  * Share your Shopping Bag
+  * Rate, Review or Tag a Product or Service
   * Enter a contest or sweepstakes 
   * Are referred to us through a marketing promotion 
   * Participate in a marketing survey, promotion, or events
@@ -104,6 +104,7 @@ Providing your information will simply help us offer products and services that 
   * Send promotional and contest emails
   * Send you promotional material
   * Send you Zumiez Email
+  * Send you a Text message
   * Identify your product and service preferences
   * Customize our communications to you
   * Provide information concerning products you have purchased
@@ -142,7 +143,7 @@ Phone: Zumiez.com Customer Care Toll Free at (877) 828-6929
 
 Your Choice About Receiving Promotional Communications
 
-We want to keep you updated, that is, if you want to hear about it. Zumiez will only correspond with customers who have agreed to receive communication. If you would like to stay updated with Zumiez events, promotions, new product and much more; Sign up for [Zmail](https://web.archive.org/web/20090718120910id_/http%3A//www.zumiez.com/zmail/index/index)! 
+We want to keep you updated, that is, if you want to hear about it. Zumiez will only correspond with customers who have agreed to receive communication. If you would like to stay updated with Zumiez events, promotions, new product and much more; Sign up for [Zmail](https://web.archive.org/web/20100111065123id_/http%3A//www.zumiez.com/zmail/index/index)! 
 
 If you no longer want to receive this information, contact us by:
 
@@ -160,6 +161,7 @@ Cookies and Pixels Tags
 A "cookie" is the term we use to describe a small data file that many Web sites use to write a file onto your hard disk. A cookie can contain data like an ID number used to track what pages were visited. Cookies do not have the ability, by itself, to be used by a Web site to obtain person information about the user or to read information from your computer. Cookies are simply there to help improve your experience with Zumiez.com. Why we use cookies:
 
   * View items placed in shopping cart
+  * Track products that have been visited
   * Track when Zumiez.com has been visited
   * Track pages that have been visited
   * Determine whether a visitor came to Zumiez.com from a particular internet link or banner advertisement
