@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolcomputing.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915021109id_/http%3A//www.coolcomputing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcomputing.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111145954id_/http%3A//www.coolcomputing.com/privacy_policy.php) for the most accurate reproduction.*
 
-# CoolComputing - Privacy Policy
+# Privacy Policy | CoolComputing
 
 CoolComputing is committed to maintaining your confidence and trust. We do not set up to track, collect or distribute personal information about its visitors. The server does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. 
 
