@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114175134id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111180208id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.*
 
 # Digi International Privacy Policy - Digi International
 
