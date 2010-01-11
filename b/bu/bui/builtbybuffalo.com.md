@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtbybuffalo.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515215558id_/http%3A//builtbybuffalo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtbybuffalo.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111222804id_/http%3A//www.builtbybuffalo.com/privacy) for the most accurate reproduction.*
 
 # Buffalo - Brighton based interactive web design, development & e-commerce
 
@@ -41,21 +41,19 @@ If you have questions about this privacy policy or the privacy aspects of our se
 
 ### Latest news
 
-[Helping clients write their brief](https://web.archive.org/blog/post/helping_clients_write_their_brief)
+[E-commerce](https://web.archive.org/blog/post/ecommerce)
 
-Often when we get enquiries we are not given much information in the way of a brief. Clients don't really know how to put a brief together and why should they?
+We often get asked about starting an e-commerce business - it can be confusing so hopefully this will help to make things a little clearer around the technical bits.
 
-[Our Process](https://web.archive.org/blog/post/our_process)
+[Less Copy Please!](https://web.archive.org/blog/post/less_copy_please)
 
-The approach we take has developed over the past few years and people often ask about it. 
-
-When we take on a project we like to do things thoroughly - this means we follow a set of tasks to make things lovely.
+Most people read differently when online, whereas reading a newspaper may be more of a cover to cover experience the web needs to have concise content that allows skim reading. 
 
 [More on our blog](https://web.archive.org/blog/)
 
 ### Twitter Feed
 
-Finally we have launched a blog..... expect some updates, articles and the like here.... http://www.builtbybuffalo.com/blog/  
-Posted 5th May, 2009
+Merry Christmas from all at Buffalo...enjoy!  
+Posted 25th December, 2009
 
 [Follow us on Twitter](http://twitter.com/builtbybuffalo "Follow us on Twitter")
