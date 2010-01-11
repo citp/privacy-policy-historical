@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewallpapers.org privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221045612id_/http%3A//www.thewallpapers.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewallpapers.org privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111033622id_/http%3A//www.thewallpapers.org/privacy.php) for the most accurate reproduction.*
 
 # Wallpapers
 
