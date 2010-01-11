@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vafq.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193939id_/http%3A//www.vafq.org/Privacy%2520Policy%2520.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vafq.org privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111181025id_/http%3A//www.vafq.org/Privacy%2520Policy%2520.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
