@@ -1,241 +1,190 @@
-<!--The following is the downloaded HTML source of the games2win.com privacy policy that was archived on 2009-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090529033433id_/http%3A//www.games2win.com/corporate/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the games2win.com privacy policy that was archived on 2010-01-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100111140915id_/http%3A//www.games2win.com/corporate/privacy_policy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="dj_khtml dj_safari"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Games2win.com - Play Free Games Online</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<link href="http://cdn.adoption.games2win.com/cssv3/globe.css?v=1213" rel="stylesheet" type="text/css">
-<link href="http://cdn.adoption.games2win.com/cssv3/corporate.css" rel="stylesheet" type="text/css">
-<script language="javascript" type="text/javascript" src="http://cdn.adoption.games2win.com/scriptsv3/globe.js"></script>
-<script src="http://cdn.adoption.games2win.com/scriptsv3/common.js?t=333" language="javascript" type="text/javascript"></script>
-<script type="text/javascript" src="/dojoroot/dojo/dojo.js" djconfig="parseOnLoad:true"></script>
-<script type="text/javascript" src="/dojoroot/dojo/g2wdojo.js" djconfig="parseOnLoad:true"></script>
-    
+<link href="http://cdn.adoption.games2win.com/cssv3/globe.css?v=20090818" rel="stylesheet" type="text/css">
+<link href="http://cdn.adoption.games2win.com/cssv3/corporate.css?v=20090825" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="http://cdn.adoption.games2win.com/scriptsv3/globe.js?v=20090731"></script>
+<script src="http://cdn.adoption.games2win.com/scriptsv3/common_jq.js" language="javascript" type="text/javascript"></script>
+<script src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
-   
-   dojo.addOnLoad(function() { // Load mygames, recentgames etc. after the document is loaded
-    ajaxLoader('/en/jump_to_list.html','contentLYR');
+	/*
+	*  How to load jQueryUI and then make a draggable div with it.
+	*/
 	
-   }
-   )
+	google.load("jquery", "1");
+	google.load("jqueryui", "1");
+	var game_loaded = false;
+	function OnLoad(){
+		$("#contentLYR").load("/en/jump_to_list.html");
+	}
+	
+	google.setOnLoadCallback(OnLoad);
 </script>
+<script type="text/javascript">
+var browser=navigator.appName;
+var b_version=navigator.appVersion;
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){ //test for MSIE x.x;
+	var ieversion=new Number(RegExp.$1)
+}
+var version=parseFloat(b_version);
+
+
+function hideselectbox()
+{	
+	if(browser.toLowerCase()=="microsoft internet explorer" && ieversion <= 6)
+	{
+		if($("#contentLYR"))
+		$("#contentLYR").css("display","none");		
+	}
+}
+function showselectbox()
+{
+	if(browser.toLowerCase()=="microsoft internet explorer" && ieversion <= 6)
+	{
+		if($("#contentLYR"))
+		$("#contentLYR").css("display","block");
+	}
+}
+</script>
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-8979435940516933");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-8979435940516933", "G2W_Corporate_Bottom_728x90");
+  GA_googleAddSlot("ca-pub-8979435940516933", "G2W_Corporate_728x90");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
 </head>
 <body class="games2win">
 <div id="wrapper" class="dheight"><!-- Wrapper -->
 
 <!-- Include Header -->
-		<div id="header" class="dheight"><!-- Header -->
+		<div id="header" class="dheight" style="height:158px;"><!-- Header -->
 		<div class="disBlock">
-			<div id="logo">
-				<div class="alignCenter marginLeft10" id="logo_inner"><a href="/"><img src="http://cdn.adoption.games2win.com/imagesv3/chimpus5.gif" alt="Chimpoo" title="Chimpoo" name="chimpoo" width="129" height="79" border="0" id="chimpoo"></a><br>
+			<div id="logo" style="padding-top:0px;">
+				<div class="alignCenter marginLeft10" id="logo_inner"><a href="/"></a><br>
 					<a href="/"><img src="http://cdn.adoption.games2win.com/imagesv3/g2wlogo_new.gif" alt="Games2win" title="Games2win" width="211" height="38" border="0"></a><br>
 					<img id="getAddicted" src="http://cdn.adoption.games2win.com/imagesv3/tagline_new_1.gif" alt="Get Addicted!" title="Get Addicted!" width="126" height="13"><br>
 					<h1 class="padBtmFive g2w_heading">Free Online Games by Games2win</h1>
-				</div>
-				<div class="sBarSmallLBg"><img src="http://cdn.adoption.games2win.com/imagesv3/searchdleft_crn.jpg" alt="img" class="dbfl" width="5" height="12">
-				</div>
+			  </div>
+
 			</div>
 
-			<div id="headerTop">
-				<div id="topFlags">
-					
-				</div>
-					<div id="topAd">
-						
+			<div id="headerTop" style="height:100px;">
 
-		<!-- begin ZEDO for channel: Corporate , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
-		<script language="JavaScript">
-		var zflag_nid="712"; var zflag_cid="13"; var zflag_sid="0"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+					<div id="topAd" style="padding-top:9px;">
+						
+	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT G2W_Corporate_728x90-->
+		<script type="text/javascript">
+			GA_googleFillSlot("G2W_Corporate_728x90");
 		</script>
-		<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
-<!-- end ZEDO for channel: Corporate , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->	
-
-
+	<!-- END OF TAG FOR SLOT G2W_Corporate_728x90-->
 
 					</div>
-					<div id="topbs">
-					<div id="bookMark">
-										  <script language="JavaScript1.2" type="text/javascript">
-						 function bookmark(url,title){
-						  if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
-						  window.external.AddFavorite(url,title);
-						  } else if (navigator.appName == "Netscape") {
-							window.sidebar.addPanel(title,url,"");
-						  } else {
-							alert("Press CTRL-D (Netscape) or CTRL-T (Opera) to bookmark");
-						  }
-						}
-						function sethomepage()
-						{
-							var browser=navigator.appName
-							if (browser=="Netscape")
-							  {alert("1. Drag the Link and drop it onto the House icon above\n2. Select Yes from the pop up window ")
-							  				}
-							else if (browser=="Microsoft Internet Explorer")
-							  {
-								  document.body.style.behavior='url(#default#homepage)';
-								  document.body.setHomePage('http://www.games2win.com');
-							  }
-						}
-					</script>
-<a href="/" onclick="bookmark(window.location,document.title);return false;">Bookmark this page</a> | <a href="/" onclick="sethomepage();return false;">Make Games2win your Homepage</a>
 
-						
-
-
-						
-
-					</div>
-				  </div>
-					<div id="topSearchBar">
-						<div class="dbfl width532" id="topSearchleftBar">
-							<div class="dbfl width33"><img src="http://cdn.adoption.games2win.com/imagesv3/searchd_img1.jpg" alt="img" width="33" height="46"></div>
-							
-								<div id="contentLYR" class="j2g">
-								<select class="marginLeftRight" name="gourl">
-								<option value="">Loading...</option>
-								</select>
-								</div>
-							
-						<div class="dbfr width33"><img src="http://cdn.adoption.games2win.com/imagesv3/searchd_img2.jpg" alt="#" width="33" height="46"></div>
-					</div>
-					<div class="dbfr width232 height46">
-						<div class="login"> <a href="/en/register.asp" target="_blank">Join the Gang</a><span>(<a href="javascript:void(0);" onmouseover="javascript:document.getElementById('contentLYR').style.display='none';tooltipShow('tooltip_memberbenefits');" onmouseout="javascript:document.getElementById('contentLYR').style.display='';tooltipHide('tooltip_memberbenefits');">Membership Benefits</a>)</span></div>
-						<!-- member benefits tool tip -->
-						<div id="tooltip_memberbenefits" class="ttipOuterMB" style="display:none;">
-        									<div class="ttipMB">
-											
-									<div class="dbfl width600 marginTop19">
-										
-										<div class="greyCHead width600">
-										<img src="http://cdn.adoption.games2win.com/imagesv3/stepsChunk_TLcrnr.gif" alt="steps to Download" width="7" height="38">
-										<div class="greyCHeadbar2 width586 brdrBtm">
-										<h2 class="padRt22 greenTxt">Membership Benefits</h2>
-										</div>
-										<img src="http://cdn.adoption.games2win.com/imagesv3/stepsChunk_TRcrnr.gif" alt="steps to Download" width="7" height="38">
-										</div>
-										
-										
-										<div class="dbfl">
-										<div class="rightContentDiv padTopBtm10 width584 stepBg">
-										 <ul class="List"><li>Get to submit your High Score</li><li>Get new game alerts by email</li><li>Get a sneak preview of our new games</li><li>Get to test our beta Games</li><li>Get to submit games</li><li class="greenTxt">And of course, we wish you on your Birthday!!</li></ul>
-										</div>
-										</div>
-										
-										
-										<div class="stepABtm">
-										<div class="width600"><img src="http://cdn.adoption.games2win.com/imagesv3/stepsChunk_BLcrnr.gif" alt="Steps to Download" width="6" height="6" class="dbfl"><div class="dbfl btmbg width588"></div><img src="http://cdn.adoption.games2win.com/imagesv3/stepsChunk_BRcrnr.gif" alt="Steps to Download" width="6" height="6" class="dbfr"></div>
-										</div>
-										
-										</div> 
-											</div>
-        				</div>
-						<!-- end member benefits tool tip -->
-						<div class="rigthSmallBar"><img src="http://cdn.adoption.games2win.com/imagesv3/searchdRight_crn.jpg" alt="#" width="5" height="12"></div>
-					</div>
-				</div>
-			</div>
+		  </div>
 		</div>
-		<div id="navDiv">
-			<div id="navTop">
-				<ul><li id="active"><a href="/en/" title="All Games">All Games</a><span> </span></li>
-				<!--
-				<li id="navLi" onmouseover="javascript:activeTab('navLi', 'navA3', 'navSpan');" onmouseout="javascript:normalTab('navLi', 'navA3', 'navSpan');"  ><a href="http://multiplayer.games2win.com" title="Multiplayer" id="navA3">Multiplayer Games</a><span id="navSpan"> </span></li> -->
-				<li id="navLi_bg" onmouseover="javascript:activeTab('navLi_bg', 'navA3_bg', 'navSpan_bg');" onmouseout="javascript:normalTab('navLi_bg', 'navA3_bg', 'navSpan_bg');"><a href="/en/boys_index.asp" title="Boys Games" id="navA3_bg"><img src="http://cdn.adoption.games2win.com/imagesv3/new_tab.gif" width="45" height="22" border="0" align="texttop">Boys Games</a><span id="navSpan_bg"> </span></li>
-				<li id="navLi_pg" onmouseover="javascript:activeTab('navLi_pg', 'navA3_pg', 'navSpan_pg');" onmouseout="javascript:normalTab('navLi_pg', 'navA3_pg', 'navSpan_pg');"><a href="/en/premium-games.asp" title="Super Games" id="navA3_pg">Super Games</a><span id="navSpan_pg"> </span></li>
-				<li id="navLi_wg" onmouseover="javascript:activeTab('navLi_wg', 'navA3_wg', 'navSpan_wg');" onmouseout="javascript:normalTab('navLi_wg', 'navA3_wg', 'navSpan_wg');"><a href="/en/quizzes.asp" title="Quizzes" id="navA3_wg">Quizzes</a><span id="navSpan_wg"> </span></li>
-				<li id="navLi_mp" onmouseover="javascript:activeTab('navLi_mp', 'navA3_mp', 'navSpan_mp');" onmouseout="javascript:normalTab('navLi_mp', 'navA3_mp', 'navSpan_mp');"><a href="/en/multiplayer.asp" title="Multiplayer Games" id="navA3_mp">Multiplayer Games</a><span id="navSpan_mp"> </span></li>
-				</ul>
+		<div class="clearBoth"></div>
+		<div id="nav" style="height:30px;">
+			<div id="mainNav">
+				<div id="mainTab">
+				  <ul>
+				    <li><a href="/index.asp" class="selected">All Games</a></li>
+				    <!--<li><a href="/en/super_games.asp">Super Games</a></li>-->
+				    <li><a href="/en/quizzes.asp">Quizzes</a></li>
+				   <!-- <li><a href="/en/multiplayer.asp">Multiplayer Games</a></li>-->
+			      </ul>
+			    </div>
 				
-				<span id="topRss">
-					<a href="http://www.games2win.com/rss/new_games.rss" target="_blank" class="dbfl" title="RSS"><img border="0" class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/rss_btn.jpg" alt="RSS" title="RSS" width="24" height="24">
-					<span>RSS Feed</span></a>
-				</span>
-				<span id="what"><a href="javascript:void(0);" onmouseover="javascript:tooltipShow('tooltip_rsshelp');" onmouseout="javascript:tooltipHide('tooltip_rsshelp');"><img border="0" src="http://cdn.adoption.games2win.com/imagesv3/question_icon_green.gif" alt="'RSS Help"></a></span>
-					
-		<!--		<img src="http://cdn.adoption.games2win.com/imagesv3/changeColor_Btn.jpg" alt="Options" name="optionBtn" width="18" height="20" class="dbfr" id="optionBtn" onclick="javascript:toggleOptions();" /><span class="dbfr" id="webOptions"><a href="javascript:toggleOptions();" class="whiteText" >Customize this site</a></span>
-				
-				<span id="mainoption" >
-				<span class="dbfr" id="options" style="display:none;">
-				<span class="spanhead">Change color</span>
-				<span id="colorBox1">
-				<a href="#." title="Color Name" class="co"><span class="co1"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co2"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co3"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co4"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co5"> </span></a></span>
-				<span id="colorBox2">
-				<a href="#." title="Color Name" class="co"><span class="co6"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co7"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co8"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co9"> </span></a>
-				<a href="#." title="Color Name" class="co"><span class="co10"> </span></a></span>
-				<span id="txtSize" >
-				<span class="spanhead2 disBlock">Make Text Larger</span>
-				<span class="disBlock" style="background:#00FF99"><a href="#." class="dbfl">A+</a><a href="#." class="dbfl">A-</a></span></span></span></span>
-				-->
+						<div id="contentLYR" class="j2g">
+				<select class="marginLeftRight" name="gourl">
+				<option value="">Loading...</option>
+				</select>
 			</div>
-			<!-- rss help tool tip -->
+			<div id="rssfeed">
+				<span id="topRss">
+					<a href="http://www.games2win.com/rss/new_games.rss" target="_blank" class="dbfl" title="RSS"><img border="0" class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/rss_btn.jpg" alt="RSS Feed" title="RSS Feed" width="22" height="22" align="absmiddle">
+					<span>RSS Feed</span></a>				</span>
+				<!--span id="what"><a href="javascript:void(0);" onmouseover="javascript:tooltipShow('tooltip_rsshelp');"  onmouseout="javascript:tooltipHide('tooltip_rsshelp');"><img src="http://cdn.adoption.games2win.com/imagesv3/question_icon.gif" alt="'RSS Help" width="16" height="16" border="0" / align="absmiddle"></a></span-->
+<!-- rss help tool tip -->
 						<div id="tooltip_rsshelp" class="ttipOuterRSS" style="display:none">
-        									<div class="ttipRSS"><h5 class="padTopFive">RSS Feed</h5><br><p>RSS (Really Simple Syndication) is a term for Web feeds that are used to publish frequently updated works such as new content, news headlines, blog entries, audio, and video-in a standardized format.<br><br>On Games2win.com, they benefit users (readers) who want to subscribe to timely new game updates.<br><br>RSS feeds can be read using a software called an 'RSS Reader', 'Feed Reader' or 'Aggregator', which can be web-based or desktop-based.<br><br>The user can subscribe to the feed by entering the feed's URL into the reader or by clicking the RSS icon in a browser that initiates the subscription process.</p></div>
+        									<div class="ttipRSS"><h5 class="padTopFive">RSS Feed</h5><br><p>RSS (Really Simple Syndication) is a term for Web feeds that are used to publish frequently updated works such as new content, news headlines, blog entries, audio, and video-in a standardized format<br><br>On Games2win.com, they benefit users (readers) who want to subscribe to timely new game updates.<br><br>RSS feeds can be read using a software called an 'RSS Reader', 'Feed Reader' or 'Aggregator', which can be web-based or desktop-based.<br><br>The user can subscribe to the feed by entering the feed's URL into the reader or by clicking the RSS icon in a browser that initiates the subscription process.</p></div>
         				</div>
 						<!-- end rss help tool tip -->
-			<div id="navSub">
-				<div class="dbfl" id="leftCrnr">&nbsp;</div>                                             
-				<div class="dbfl"><ul id="homeSublinks">
-					<li><a href="/en/action.asp">Action</a></li>
-					<li><a href="/en/adventure.asp">Adventure</a></li>
-					<li><a href="/en/arcade.asp">Arcade</a></li>
-					<li><a href="/en/car.asp">Car</a></li>
-					<li><a href="/en/cricket.asp">Cricket</a></li>
-					<li><a href="/en/dressup.asp">Dress Up</a></li>
-					<li><a href="/en/funny.asp">Funny</a></li>
-					<li><a href="/en/puzzle.asp">Puzzle</a></li>
-					<li><a href="/en/romance.asp">Romance</a></li>
-					<li><a href="/en/sports.asp">Sports</a></li>
-				
-					</ul>
-				</div>
-
-				<div class="dbfr" id="rightCrnr">&nbsp;</div>
-				<div class="dbfr" id="submitGames"></div>
+</div>
 			</div>
-		</div>
-	</div><!-- End of Header -->
+
+<div id="topNav">
+	<div id="links">
+	  <ul>
+	  <li><a href="/en/funny.asp">Funny</a></li>
+<li><a href="/en/romance.asp">Romance</a></li>
+<li><a href="/en/dress-up.asp">Dress Up</a></li>
+<li><a href="/en/puzzle.asp">Puzzle</a></li>
+<li><a href="/en/adventure.asp">Adventure</a></li>
+<li><a href="/en/arcade.asp">Arcade</a></li>
+<li><a href="/en/car.asp">Car</a></li>
+<li><a href="/en/sports.asp">Sports</a></li>
+<li><a href="/en/action.asp">Action</a></li>
+<li><a href="/en/cricket.asp">Cricket</a></li>
+	  </ul>
+		    </div>
+			</div>
+
+		</div></div>
+<!-- End of Header --><script type="text/javascript">
+					var purl = escape(location.href);
+					var gameid = "DEF";
+					if (typeof track_game_id != 'undefined') {
+						gameid = track_game_id;
+						document.write("<img src='http://track.games2win.com/lookup.html?g="+gameid+"&h=g2w&type=track&purl="+purl+"' height='1' width='1' border='0' style='display:none' />");
+					}else{
+						document.write("<img src='http://track.games2win.com/lookup.html?g="+gameid+"&h=g2w&type=track&purl=null' height='1' width='1' border='0' style='display:none'/>");
+					}</script><img src="http://track.games2win.com/lookup.html?g=DEF&amp;h=g2w&amp;type=track&amp;purl=null" height="1" width="1" border="0" style="display:none">
 
 
 <div id="content" class="dheight"><!-- Content -->
 
 <div class="dbfl pad10">
-<div id="breadcrum" class="width965">You are here : <a href="/">Home</a> » <strong>Privacy Policy</strong></div>
-<!-- Breadcrum -->
-
 <div class="dheight"><!-- Game Categories -->
 
 <div id="titleBar" class="width965"><!-- Heading -->
-<img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/gcleft_crnr.gif" alt="Game Categories"><div class="headDiv dbfl width953"><h2>
-Corporate Sections</h2></div><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/gcRight_crnr.gif" alt="Game Categories">
-</div><!--End of Heading -->
+  <div class="headDiv dbfl width966"><h2>
+Corporate Sections</h2></div>
+</div>
+<!--End of Heading -->
 
 <div class="dheight"><!-- Game Categories Tabs -->
-<div class="vtabs height600">
-  <div class="tabBtn height55"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="about_us.asp">About Us</a></div>
-  <div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="contact_us.asp">Contact Us</a></div>
-<div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="rules.asp">Rules</a></div>
-<div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabActBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl active" href="#.">Privacy Policy</a></div>
-<div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="media_centre.asp">Media Centre</a></div>
-<div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="jobs.asp">Jobs</a></div>
-<div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="faqs.asp">FAQs</a></div>
-<div class="tabBtn height60"><img class="dbfl" src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories"><a class="dbfl" href="feedback.asp">Feedback</a></div>
-<div class="tabBtn height60"><img src="http://cdn.adoption.games2win.com/imagesv3/VtabBtn_left_crnr.gif" alt="Game Categories" width="8" height="51" class="dbfl"><a class="dbfl" href="site_map.asp">Site Map</a></div>
-
+<div class="vtabs height1700">
+<div class="tabBtn height60"><a class="dbfl" href="sponsorship.asp">Game Sponsorship</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="advertisers.asp">Advertise with us</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="feedback.asp">Feedback</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="faqs.asp">FAQs</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="presentations.asp">Presentations</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="rules.asp">Rules</a></div>
+<div class="tabBtn height60"><a class="dbfl active" href="#">Privacy Policy</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="media_centre.asp">Media Centre</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="jobs.asp">Jobs</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="contact_us.asp">Contact Us</a></div>
+<div class="tabBtn height60"><a class="dbfl" href="about_us.asp">About Us</a></div>
 </div>
 <div class="vtabCont width813">
 
-<div class="vtabcontent disBlock height600">
+<div class="vtabcontent disBlock height1700">
   <div class="scrolDiv">
 <div id="corpSection">
   <h1>Privacy Policy  - Games2win </h1>
@@ -335,35 +284,32 @@ Corporate Sections</h2></div><img class="dbfl" src="http://cdn.adoption.games2wi
 					<div id="footerAd">
 					
 
-		<!-- begin ZEDO for channel: Corporate-Bottom , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
-		
-		<iframe src="http://c2.zedo.com/jsc/c2/ff2.html?n=712;c=594;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
-		
-		<!-- end ZEDO for channel: Corporate-Bottom , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT HomepageBottom-->
+			<script type="text/javascript">
+			 GA_googleFillSlot("HomepageBottom");
+			</script>
+		<!-- END OF TAG FOR SLOT HomepageBottom-->
 		
 
+					<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT G2W_Corporate_Bottom_728x90
+						 -->
+					<script type="text/javascript">
+					  GA_googleFillSlot("G2W_Corporate_Bottom_728x90");
+					</script>
+					<!-- END OF TAG FOR SLOT G2W_Corporate_Bottom_728x90
+						 -->
 					</div>
 					<div class="alignCenter padTopTen"><h6>Play free online games only at Games2win!</h6></div>
-						<div id="footerLinks"><a href="/corporate/about_us.asp">About Us</a> | <a href="/corporate/contact_us.asp">Contact Us</a> | <a href="/corporate/rules.asp">Rules</a> | <a href="/corporate/privacy_policy.asp">Privacy Policy</a> | <a href="/corporate/media_centre.asp">Media Centre</a> | <a href="/corporate/jobs.asp">Jobs</a> | <a href="/corporate/faqs.asp">FAQs</a>  | <a href="/corporate/feedback.asp">Feedback</a> | <a href="/corporate/site_map.asp">Site Map</a></div>
-                        <div id="footerLinks"><a href="http://www.games2win.com/betatesters/">Test our Games</a> | <a href="http://www.games2win.com/rss/new_games.rss" target="_blank">Games Feed</a> <a href="http://www.games2win.com/rss/new_games.rss" target="_blank"><img src="http://cdn.adoption.games2win.com/imagesv3/rssFooter_ico.gif" alt="RSS" title="RSS" border="0" width="14" height="14"></a></div>
-				<div id="copyrights" class="alignCenter"><p>Copyright 2006-2009 Games2win India Pvt. Ltd. All rights reserved.</p></div>
+						<div id="footerLinks"><a target="_self" href="/corporate/about_us.asp">About Us</a> | <a target="_self" href="/corporate/contact_us.asp">Contact Us</a> | <a target="_self" href="/corporate/rules.asp">Rules</a> | <a target="_self" href="/corporate/privacy_policy.asp">Privacy Policy</a> | <a target="_self" href="/corporate/media_centre.asp">Media Centre</a> | <a target="_self" href="/corporate/jobs.asp">Jobs</a> | <a target="_self" href="/corporate/faqs.asp">FAQs</a> | <a target="_self" href="/corporate/sponsorship.asp">Game Sponsorship</a>  | <a target="_self" href="/corporate/feedback.asp">Feedback</a> | <a target="_self" href="/corporate/presentations.asp">Presentations</a>
+						| <a target="_self" href="/corporate/advertisers.asp">Advertisers</a>
+						</div>
+                        <div id="footerLinks"> <a target="_self" href="http://www.games2win.com/rss/new_games.rss">Games Feed</a> <a target="_self" href="http://www.games2win.com/rss/new_games.rss"><img src="http://cdn.adoption.games2win.com/imagesv3/rssFooter_ico.gif" alt="RSS" title="RSS" border="0" width="14" height="14"></a></div>
+				<div id="copyrights" class="alignCenter"><p>Copyright 2006-2010 Games2win India Pvt. Ltd. All rights reserved.</p></div>
   </div>
 				</div>
 				
-				<img src="http://www.games2win.com/g2wcookies.asp?referer=index1&amp;day=29" height="1" width="1" border="0">
+				<img src="http://www.games2win.com/g2wcookies.asp?referer=index1&amp;day=11" height="1" width="1" border="0">
 				
-				
-								<script type="text/javascript">
-				var purl = escape(location.href);
-				var gameid = "DEF";
-				if (typeof track_game_id != 'undefined') {
-					gameid = track_game_id;
-					document.write("<img src='http://track.games2win.com/lookup.html?g="+gameid+"&h=g2w&type=track&purl="+purl+"' height='1' width='1' border='0'>");
-				}else{
-					document.write("<img src='http://track.games2win.com/lookup.html?g="+gameid+"&h=g2w&type=track&purl=null' height='1' width='1' border='0'>");
-				}
-				</script><img src="http://track.games2win.com/lookup.html?g=DEF&amp;h=g2w&amp;type=track&amp;purl=null" height="1" width="1" border="0">
-
 				<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
