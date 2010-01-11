@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptower.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033835id_/http%3A//www.poptower.com/bottom/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptower.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111085730id_/http%3A//www.poptower.com/bottom/privacy-policy.php) for the most accurate reproduction.*
 
 # Pop Tower | Privacy Policy
 
@@ -63,10 +63,14 @@ We will not share information about individual users with any third party, excep
 
 We give users options wherever necessary and practical.  Such choices include opting not to register to receive our electronic newsletters and opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users. 
 
-11\. Your Consent
+11\. Advertising
+
+We use third-party advertising companies to serve ads when you visit our Site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit networkadvertising•org.
+
+12\. Your Consent
 
 By using this Site, you consent to the collection and use of this information by us.
 
-12\. Policy Revisions 
+13\. Policy Revisions 
 
 We reserve the right to modify this policy at any time.  Any changes to the policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  Users are encouraged to check the page regularly as they will be bound by the changes once posted on the Site.
