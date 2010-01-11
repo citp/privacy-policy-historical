@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024060823id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111152134id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
 
 # ModdingWay - Pro Evolution Soccer, FIFA Soccer, NBA 2K - Video Games - Mods, Videos, News, Reviews
 
