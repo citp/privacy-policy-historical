@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061905id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelson.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111061226id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.*
 
 # Nelson Education Ltd. - Privacy Policy
 
-## Nelson Education Ltd.
-
-## Privacy Code
-
-### Scope And Application Of The Nelson Education Ltd. Privacy Code:
+Scope And Application Of The Nelson Education Ltd. Privacy Code: 
 
 The scope and application of the Nelson Education Ltd. Privacy Code are as follows: 
 
-The Nelson Education Ltd. Privacy Code applies to Personal Information about Nelson Education Ltd. Employees and non-employee Persons who interact with Nelson Education Ltd. that is collected, used or disclosed by Nelson Education Ltd.
+The Nelson Education Ltd. Privacy Code applies to Personal Information about Nelson Education Ltd. 
+
+Employees and non-employee Persons who interact with Nelson Education Ltd. that is collected, used or disclosed by Nelson Education Ltd.
 
   * Employees in this context includes past and present employees and independent contractors of Nelson Education Ltd.
   * Non-employee Persons in this context includes Individuals who are viewers, readers, subscribers, advertisers, contest participants, job applicants, Internet users who are exposed to the media content of Nelson Education Ltd. or a Nelson Education Ltd. Company and about whom Nelson Education Ltd. collects Personal Information.
@@ -21,9 +19,13 @@ The Nelson Education Ltd. Privacy Code applies to the management of Personal Inf
 
 The application of the Nelson Education Ltd. Privacy Code is subject to the requirements or provisions of any applicable legislation, regulations or agreements (such as collective agreements), or the order of any court or other lawful authority.
 
-_**Exclusions from privacy protection:**_ The Nelson Education Ltd. Privacy Code does not impose any limits on the collection, use or disclosure of the following information by a Nelson Education Ltd. Company: a) information that is publicly available, such as a Person’s name, address, telephone number and electronic address, when listed in a directory or made available through directory assistance; b) business-contact information, such as the name, title or business address or telephone number of an employee of an organization; c) information collected, used or disclosed in the course of journalistic, literary or artistic activities; or d) aggregate information that cannot be associated with a specific person, such as demographic statistics about Nelson Education Ltd. customers, or number of visitors and average time spent on a website.
+_**Exclusions from privacy protection:**_
 
-### Purposes for Collection of Personal Information:
+The Nelson Education Ltd. Privacy Code does not impose any limits on the collection, use or disclosure of the following information by a Nelson Education Ltd. Company: a) information that is publicly available, such as a Person’s name, address, telephone number and electronic address, when listed in a directory or made available through directory assistance; b) business-contact information, such as the name, title or business address or telephone number of an employee of an organization; c) information collected, used or disclosed in the course of journalistic, literary or artistic activities; or d) aggregate information that cannot be associated with a specific person, such as demographic statistics about Nelson Education Ltd. customers, or number of visitors and average time spent on a website.
+
+### 
+
+Purposes for Collection of Personal Information: 
 
 Nelson Education Ltd. has collected and collects Personal Information for the following purposes: a) to establish and maintain responsible commercial relations with Individuals and to provide ongoing service; b) to understand Individual needs; c) to develop, enhance, market or provide products and services; d) to manage and develop its business and operations, including personnel and employment matters; and e) to meet legal or regulatory requirements, including to protect or defend a legal interest, and in connection with an actual or possible Nelson Education Ltd. corporate re-organization, merger or amalgamation with another entity, or an actual or possible sale of all or a substantial portion of the assets of Nelson Education Ltd., provided that the Personal Information disclosed continues to be used by the entity acquiring the information either for evaluation of the possible transaction, or, on completion of any such transaction, for the purposes permitted by this Privacy Policy.
 
@@ -35,11 +37,15 @@ As examples of the above:
 > 
 > iii) if a Person enters a contest or other promotion offered on a Nelson Education Ltd. Companies website, Nelson Education Ltd. may, under the rules of the promotion, use the Person’s name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion.
 
-### Transfer of Information
+### 
+
+Transfer of Information
 
 At times Nelson Education Ltd. may use Nelson Education Ltd. Companies and/or Third Parties outside of Canada, including in the United States, to perform services for Nelson Education Ltd. involving some or all of a Person's Personal Information. This may require transfer of information to those Nelson Education Ltd. Companies and/or Third Parties. This information is subject to the laws of the Nelson Education Ltd. Companies' and/or Third Parties' jurisdiction, including laws with respect to disclosure of such information.
 
-### Obtaining Consent:
+### 
+
+Obtaining Consent:
 
 Nelson Education Ltd. will make a reasonable effort to make sure Persons understand how their Personal Information will be used by Nelson Education Ltd. Nelson Education Ltd. will obtain consent from Persons before or when it collects or uses the Personal Information. Nelson Education Ltd. will not attempt to deceive Persons into giving consent. 
 
@@ -49,15 +55,21 @@ A Person’s consent can be express, implied, or given through an authorized rep
 >  i) write to Customer Service – Privacy, Nelson Education Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4; or  
 >  ii) provide information to Nelson Education Ltd. through the form on its Internet Privacy page.
 
-###  Refusing or withdrawing Consent:
+### 
+
+Refusing or withdrawing Consent:
 
 Subject to legal and contractual requirements, a Person can refuse to consent to Nelson Education Ltd.’s collection, use or disclosure of Personal Information about the Person, or a Person may withdraw the Person’s consent to Nelson Education Ltd.’s further collection, use or disclosure of Personal Information at any time in the future by giving Nelson Education Ltd. reasonable notice, unless: i) the consent relates to certain information required for credit approval which a Person applies for or accepts, ii) the consent is otherwise required by law or iii) the use or disclosure is permitted by law or is related to the legal or regulatory requirements described herein. If a Person refuses or withdraws the Person’s consent, Nelson Education Ltd. may not be able to provide the Person or continue to provide the Person with some products, services or information which may be of value to the Person.
 
-###  Internet Aspects:
+### 
+
+Internet Aspects:
 
 Personal Information may be collected when a user conducts activities on or related to all websites of Nelson Education Ltd. Companies (“Nelson Education Ltd. Companies Sites”) or related to services made available on the Nelson Education Ltd. Companies Sites (“Nelson Education Ltd. Companies Services”). Although information collected, used or disclosed on the Internet as described below often does not constitute Personal Information (and to the extent that such is the case, then the obligations under the Nelson Education Ltd. Privacy Code do not extend to such information), Nelson Education Ltd. provides the details below about Internet aspects of Nelson Education Ltd. Companies Services for the purposes of disclosure about Nelson Education Ltd. Companies Services.
 
 _Internet Protocol Address (IP Address)_  
+
+
 When the user’s web browser requests a web page from another computer on the Internet, it automatically gives that computer the address where it should send the information. This address is called the computer's "IP address." For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time the user logs on.
 
 Nelson Education Ltd. Companies may use the user’s IP Address to:
@@ -91,21 +103,31 @@ _Additional Information_
 Nelson Education Ltd. Companies automatically collect certain information about the user’s computer hardware and software. This information may include: browser type, operating system type, domain names, access times and referring Web site addresses. This information is used by Nelson Education Ltd. Companies to operate the service, to maintain the quality of the service, and to provide general statistics regarding use of the Nelson Education Ltd. Companies Sites.  
 Certain Nelson Education Ltd. Companies Services may be co-branded and offered in conjunction with another company. If a user registers for or uses such services, both Nelson Education Ltd. Companies and the other company may receive information collected in conjunction with the co-branded services. 
 
-## The Nelson Education Ltd. Privacy Code in Detail
+## 
 
-###  Definitions 
+The Nelson Education Ltd. Privacy Code in Detail
+
+### 
+
+**Definitions**
 
 **Nelson Education Ltd. Companies** – all companies providing services under the brands of Nelson Education Ltd. and any successor company or companies thereof, as a result of corporate reorganization or restructuring.
 
 **Collection** \- the act of gathering, acquiring, recording or obtaining Personal Information from any source, including third parties, by any means.
 
-**Consent** \- voluntary agreement with the collection, use and disclosure of Personal Information for defined purposes. Consent can be either express or implied and can be provided directly by the Person or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require any inference on the part of Nelson Education Ltd. Implied consent is consent that can reasonably be inferred from a Person’s action or inaction.
+**Consent**
+
+\- voluntary agreement with the collection, use and disclosure of Personal Information for defined purposes. Consent can be either express or implied and can be provided directly by the Person or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require any inference on the part of Nelson Education Ltd. Implied consent is consent that can reasonably be inferred from a Person’s action or inaction.
 
 **Disclosure** \- making Personal Information available to a Third Party.
 
-**Employee** \- an employee or independent contractor (including freelancers)1 of Nelson Education Ltd.
+**Employee** \- an employee or independent contractor (including freelancers)1
 
-**Individual** \- an individual other than an Employee who **(a)** corresponds with Nelson Education Ltd., including complaints and including applications for employment; **(b)** enters an contest sponsored by Nelson Education Ltd.; or **(c)** uses, or applies to use, the products or services of Nelson Education Ltd.
+of Nelson Education Ltd.
+
+**Individual**
+
+\- an individual other than an Employee who **(a)** corresponds with Nelson Education Ltd., including complaints and including applications for employment; **(b)** enters an contest sponsored by Nelson Education Ltd.; or **(c)** uses, or applies to use, the products or services of Nelson Education Ltd.
 
 **Person** – an Employee or an Individual.
 
@@ -115,7 +137,9 @@ Certain Nelson Education Ltd. Companies Services may be co-branded and offered i
 
 **Use** \- the treatment, handling, and management of Personal Information by the Nelson Education Ltd. Companies.
 
-###  Principle 1 - Accountability 
+### 
+
+Principle 1 - Accountability 
 
 Nelson Education Ltd. is responsible for Personal Information under its control and shall designate one or more persons who are accountable for Nelson Education Ltd.’s compliance with the following principles.
 
@@ -127,7 +151,9 @@ Nelson Education Ltd. is responsible for Personal Information under its control 
 
 1.4 Nelson Education Ltd. has implemented policies and procedures to give effect to the Nelson Education Ltd. Privacy Code, including: a) implementing procedures to protect Personal Information and to oversee Nelson Education Ltd.’s compliance with the Nelson Education Ltd. Privacy Code; b) establishing procedures to receive and respond to inquiries or complaints; c) training and communicating to staff about Nelson Education Ltd.’s policies and practices; and d) developing public information to explain Nelson Education Ltd.’s policies and practices.
 
-### Principle 2 - Identifying Purposes for Collection of Personal Information 
+### 
+
+Principle 2 - Identifying Purposes for Collection of Personal Information 
 
 _Nelson Education Ltd. has collected and collects Personal Information for the purposes set out below, and shall identify the purposes for which Personal Information is collected at or before the time the information is collected._
 
@@ -147,7 +173,9 @@ Further references to “identified purposes” mean the purposes identified in 
 
 2.3 Unless required by law, Nelson Education Ltd. shall not use or disclose, for any new purpose, Personal Information that has been collected without first identifying the new purpose and obtaining the consent of the Person.
 
-### Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information 
+### 
+
+Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information 
 
 _The knowledge and consent of a Person are required for the collection, use or disclosure of Personal Information, except where inappropriate._
 
@@ -171,7 +199,9 @@ Nelson Education Ltd. may also use or disclose Personal Information without know
 
 Nelson Education Ltd. may disclose Personal Information without knowledge or consent to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise related to the legal or regulatory requirements described herein.
 
-### Principle 4 - Limiting Collection of Personal Information 
+### 
+
+Principle 4 - Limiting Collection of Personal Information 
 
 _Nelson Education Ltd. shall limit the collection of Personal Information to that which is necessary for the purposes identified by Nelson Education Ltd._
 
@@ -181,7 +211,9 @@ _Nelson Education Ltd. shall collect Personal Information by fair and lawful mea
 
 4.2 Nelson Education Ltd. may also collect Personal Information from other sources including credit bureaus, employers or personal references, or other third parties that represent that they have the right to disclose the information.
 
-### Principle 5 - Limiting Use, Disclosure and Retention of Personal Information 
+### 
+
+Principle 5 - Limiting Use, Disclosure and Retention of Personal Information 
 
 _Nelson Education Ltd. shall not use or disclose Personal Information for purposes other than those for which it was collected, except with the consent of the Person or as required by law. Nelson Education Ltd. shall retain Personal Information only as long as necessary for the fulfillment of the purposes for which it was collected._
 
@@ -197,7 +229,9 @@ _Nelson Education Ltd. shall not use or disclose Personal Information for purpos
 
 5.6 Nelson Education Ltd. shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to Personal Information that is no longer necessary or relevant for the identified purposes or required by law to be retained. Such information shall be destroyed, erased or made anonymous.
 
-### Principle 6 - Accuracy of Personal Information 
+### 
+
+Principle 6 - Accuracy of Personal Information 
 
 _Personal Information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used._
 
@@ -205,7 +239,9 @@ _Personal Information shall be as accurate, complete and up-to-date as is necess
 
 6.2 Nelson Education Ltd. shall update Personal Information about Persons as and when necessary to fulfill the identified purposes or upon notification by the Person.
 
-### Principle 7 - Security Safeguards 
+### 
+
+Principle 7 - Security Safeguards 
 
 _Nelson Education Ltd. shall protect Personal Information by security safeguards appropriate to the sensitivity of the information._
 
@@ -215,7 +251,9 @@ _Nelson Education Ltd. shall protect Personal Information by security safeguards
 
 7.3 All employees of Nelson Education Ltd. with access to Personal Information shall be required as a condition of employment to respect the confidentiality of Personal Information.
 
-### Principle 8 - Openness Concerning Policies and Practices 
+### 
+
+Principle 8 - Openness Concerning Policies and Practices 
 
 _Nelson Education Ltd. shall make readily available to Persons specific information about its policies and practices relating to the management of Personal Information._
 
@@ -223,7 +261,9 @@ _Nelson Education Ltd. shall make readily available to Persons specific informat
 
 8.2 Nelson Education Ltd. shall make available information to help Persons exercise choices regarding the use of their Personal Information.
 
-### Principle 9 - Access to Personal Information 
+### 
+
+Principle 9 - Access to Personal Information 
 
 _Nelson Education Ltd. shall inform a Person of the existence, use and disclosure of his or her Personal Information upon request and shall give the Person access to that information._
 
@@ -243,14 +283,16 @@ A Person shall be able to challenge the accuracy and completeness of the Persona
 
 9.6 An employee can obtain information or seek access to his or her Personal Information by contacting his or her immediate supervisor within Nelson Education Ltd.
 
-### Principle 10 - Challenging Compliance 
+### 
+
+Principle 10 - Challenging Compliance 
 
 _A Person shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the compliance of Nelson Education Ltd. with the Nelson Education Ltd. Privacy Code._
 
 10.1 Nelson Education Ltd. shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about Nelson Education Ltd.’s handling of their Personal Information. If any Person at any time has any questions or concerns about Nelson Education Ltd.’s privacy practices, the Person can either:
 
 > i) write to Customer Service – Privacy, Nelson Education Ltd., 1120 Birchmount Road, Toronto, ON, M1K 5G4; or  
->  ii) provide information to Nelson Education Ltd. through the form on its Internet Privacy page.
+>  ii) provide information to Nelson Education Ltd. through the form on itsInternet Privacy page.
 
 10.2 Nelson Education Ltd. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures.
 
