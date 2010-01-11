@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elocallawyers.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618035335id_/http%3A//elocallawyers.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elocallawyers.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111063842id_/http%3A//www.elocallawyers.com/pages/privacy) for the most accurate reproduction.*
 
 # Lawyers - Attorneys - Find Local Lawyers By Zip Code
 
