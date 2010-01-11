@@ -1,14 +1,16 @@
-<!--The following is the downloaded HTML source of the sadlier.com privacy policy that was archived on 2009-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090202101254id_/http%3A//www.sadlier.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sadlier.com privacy policy that was archived on 2010-01-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100111025145id_/http%3A//www.sadlier.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>William H. Sadlier, Inc.</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"> 
+	<meta name="verify-v1" content="30519tOV6lNm9RqqzlY9pXEq5J8pqXWyUEJe2JBxtm0=">
 	<link href="/inc_site/css/styles.css" rel="stylesheet" type="text/css" media="screen">
 	<link href="/inc_site/css/styles_print.css" rel="stylesheet" type="text/css" media="print"> 
 	<script language="JavaScript" src="/inc_site/js/scripts.js" type="text/javascript"></script>
 	<script language="JavaScript" src="/inc_site/js/share.js" type="text/javascript"></script>
 	<script language="JavaScript" src="http://s7.addthis.com/js/152/addthis_widget.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/inc_site/js/jquery.min.js"></script>
 </head>
 
 <body onload="Load()">
@@ -78,7 +80,7 @@
 	<div id="contentBody">
 		<div id="printBanner">
 			<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', window.location.href, '')" onmouseout="addthis_close()" onclick="return addthis_sendto()" id="share">Share</a>
-			<a href="/pop_email.cfm?urls=/privacy.cfm?" onclick="Email(); return false;" id="email" title="Email this page">Email</a>
+			<a href="/pop_email.cfm?contentTitle=" onclick="Email(); return false;" id="email" title="Email this page">Email</a>
 			<a href="/privacy.cfm?&amp;ispf=1" onclick="Print(); return false;" id="print" title="Print this page">Print</a>
 		</div>
 
@@ -96,10 +98,24 @@
 
 </div><br clear="all">
 
+<script> 
+	// for wide PR photos
+	$(document).ready(function() {  
+		if ($("div#contentBody p img").width() > 570) {
+			$("#wrapper").css({
+				"width" : 240 + $("div#contentBody p img").width() 
+			});
+			$("div#contentBody").css({
+				"width" : 10 + $("div#contentBody p img").width() 
+			});
+		};
+	}); 
+</script>
+
 	
 	<br clear="all">
 	<p align="center" id="footer">
-		Copyright © 2009 by William H. Sadlier, Inc. All rights reserved.<br>
+		Copyright © 2010 by William H. Sadlier, Inc. All rights reserved.<br>
 		<a href="/privacy.cfm">Privacy</a> :
 		<a href="/terms.cfm">Terms &amp; Conditions</a> :
 		<a href="/sitemap.cfm">Site Map</a>
@@ -148,8 +164,6 @@
 
 
 
-
-
  
- 		 
-		</body></html>
+ 
+ 		</body></html>
