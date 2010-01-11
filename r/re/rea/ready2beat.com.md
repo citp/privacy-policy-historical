@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ready2beat.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212055153id_/http%3A//ready2beat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ready2beat.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111202036id_/http%3A//ready2beat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ready2Beat
 
@@ -29,4 +29,4 @@ This Privacy Policy is effective as of August 1, 2008 and last updated June 18, 
 **Advertisement:**  
 Ready2beat.com is ad supported website. We place third party advertisement in most of our pages. We are not responsible for any privacy policies of their websites. Such advertisement may use cookies or log, but it is harmless.
 
-If you have any questions of suggestion regarding our Privacy policies, Please [contact us](https://web.archive.org/web/20091212055153id_/http%3A//ready2beat.com/contact-us).
+If you have any questions of suggestion regarding our Privacy policies, Please [contact us](https://web.archive.org/web/20100111202036id_/http%3A//ready2beat.com/contact-us).
