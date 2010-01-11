@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justinbenedick.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405224800id_/http%3A//www.justinbenedick.com/action/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinbenedick.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111051248id_/http%3A//www.justinbenedick.com/action/static/privacy) for the most accurate reproduction.*
 
 # Justin Benedick - No.1 Asia Gay Personal, Asian Gay Pic and Video Community
 
