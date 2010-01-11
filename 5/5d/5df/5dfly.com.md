@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5dfly.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231121702id_/http%3A//www.5dfly.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5dfly.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111060027id_/http%3A//www.5dfly.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # 5DFly Photo Design Software - Privacy policy
 
