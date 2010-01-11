@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epurplemedia.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142529id_/http%3A//www.epurplemedia.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epurplemedia.co.uk privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111071528id_/http%3A//www.epurplemedia.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,11 +30,11 @@ Other Identified Data: access is given to certain other identified data (e.g., u
 
 If a website visitor wants to file a dispute pertaining to your websites privacy policy, the dispute will be resolved by: Individual may complain to the Web sites customer service representative for resolution of disputes regarding the use of collected data.
 
-You may view information on our dispute resolution policies and procedures here: [privacy.html](https://web.archive.org/web/20081218142529id_/http%3A//www.epurplemedia.co.uk/privacy.html)
+You may view information on our dispute resolution policies and procedures here: [privacy.html](https://web.archive.org/web/20100111071528id_/http%3A//www.epurplemedia.co.uk/privacy.html)
 
 Customer support at Rupiz media Ltd. can be contacted via email at info@epurplemedial.co.uk. Please allow atleast 72 hrs for us to do the initial investigation and response. 
 
-A visitor may verify our privacy practice here: [privacy.html](https://web.archive.org/web/20081218142529id_/http%3A//www.epurplemedia.co.uk/privacy.html)
+A visitor may verify our privacy practice here: [privacy.html](https://web.archive.org/web/20100111071528id_/http%3A//www.epurplemedia.co.uk/privacy.html)
 
 Our organization responds to visitor claims by: Errors or wrongful actions arising in connection with the privacy policy will be remedied by the service. 
 
