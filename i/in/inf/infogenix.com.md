@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infogenix.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926071114id_/http%3A//infogenix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogenix.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111035137id_/http%3A//infogenix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Infogenix - Web Design, Advertising, Marketing, Programming
 
