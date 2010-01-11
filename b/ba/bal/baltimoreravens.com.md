@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229012912id_/http%3A//www.baltimoreravens.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111121203id_/http%3A//www.baltimoreravens.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Baltimore Ravens | About | Privacy Policy
+
+Alert! Jan 10, 2010, 8:30 PM: Divisional Playoff Game Schedule: The Ravens will play at the Indianapolis Colts on Saturday, January 16 at 8:15 p.m. [ »](https://web.archive.org/Gameday/Schedule.aspx)
 
 Revised: February 15, 2006
 
