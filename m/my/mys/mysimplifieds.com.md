@@ -1,25 +1,9 @@
-> *The following text is extracted and transformed from the mysimplifieds.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216085810id_/http%3A//www.mysimplifieds.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysimplifieds.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112035609id_/http%3A//www.mysimplifieds.com/privacy-policy) for the most accurate reproduction.*
 
-# mySimplifieds.com Malaysia: Privacy Policy
-
-|    
----  
-  | 
-
-|   
----  
-|  Privacy Policy  
----  
-  
-**mySimplifieds.com**
-
-  
-| 
+# Privacy Policy - mySimplifieds.com
 
 PRIVACY POLICY  
    
-  
----  
   
 This Statement of Privacy applies to the web site of mySimplifieds.com, an online and mobile portal service provided by Kasatria Technologies Sdn. Bhd. (Company No.: 618655-V) (hereinafter known as “Kasatria Technologies”). As a media communications and internet based company which provides web services to the public, Kasatria Technologies is committed to safeguarding your privacy online. Please read the following to fully understand our practices regarding the use of your personal information. By using mySimplifieds.com (the “Site”), you consent to the data practices described herein.
 
@@ -128,26 +112,14 @@ We may, at our sole discretion, modify, update or revise this Privacy Policy at 
 
 (ii)            your consent to abide and be bound by this Privacy Policy, as modified/revised from time to time.   
   
-This Privacy Policy, as modified/revised from time to time, is incorporated into and subject to the [Terms of Use](http://www.mysimplifieds.com/TermsOfUse.aspx) for the Services. 
+This Privacy Policy, as modified/revised from time to time, is incorporated into and subject to the [Terms of Use](http://www.mysimplifieds.com/terms-of-use) for the Services. 
 
 We encourage you to periodically review this Privacy Policy to be informed of how we are protecting your information. 
 
 If you have any questions or concerns regarding these Terms of Service, please contact us at: 
 
-Kasatria Technologies Sdn Bhd (618655-V)  
-Unit 912, Block B2,   
-Leisure Commerce Square   
-46150 Bandar Sunway 
-
+Kasatria Technologies Sdn Bhd   
+Lot 7.07, Level 7, 1 Tech Park   
+Tanjung Bandar Utama, Bandar Utama   
+47800 Petaling Jaya, Selangor   
 Tel: +603 78771560 / Fax: +603 58820309 / Email: 
-
-[feedback@kasatria.com](http://www.mysimplifieds.com/CustomerService.aspx)  
-  
-[](https://web.archive.org/web/20090216085810id_/http%3A//www.mysimplifieds.com/AdSearch.aspx)
-
-|    
-   
-  
-  |  |   | [](https://web.archive.org/web/20090216085810id_/http%3A//www.mysimplifieds.com/Default.aspx) |   |   
----|---|---|---  
- 
