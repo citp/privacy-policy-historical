@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208131602id_/http%3A//www.spotxchange.com/spx_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112140033id_/http%3A//www.spotxchange.com/spx_privacypolicy.html) for the most accurate reproduction.*
 
 # Video Advertise Solutions - Privacy Policy
 
