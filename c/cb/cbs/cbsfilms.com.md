@@ -1,98 +1,361 @@
-> *The following text is extracted and transformed from the cbsfilms.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109055825id_/http%3A//www.cbsfilms.com/library/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsfilms.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112040213id_/http%3A//www.cbsfilms.com/library/html/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# CBS Interactive Privacy Principles
 
-Privacy Policy
+**_CBS Films Privacy Principles_**
 
-This privacy policy applies to the U.S. operations of all websites within the CBS Films family.
+**Transparency** **: CBS Films provides clear notice of its privacy practices through a single** **Privacy Policy** **  that is readily accessible across all CBS Films Web Sites. CBS Films also provides clear information about its ****_online advertising_** **  practices.**
 
-**Overall privacy statement**  
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
+**Choice** **: CBS Films allows you to enjoy content and features on CBS Films Web Sites without directly providing any contact information.**
 
-**1\. What information does CBS Films collect?**  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards.
+**-** ******If you choose to share contact information with us, CBS Films will identify any options you have for controlling the use of this information at the time it is collected.**
 
-We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
+**-** ******You are also given the opportunity to opt out of commercial email or text messages from a particular CBS Films Web Site or service by following the instructions contained in any such message.**
 
-Once you register with one of our CBS Films sites you are no longer anonymous to us.
+**-** ******You have choices about the collection and use of your data by third parties to deliver relevant advertising, as described in our overview of** ** _third-party online advertising_** **.**
 
-**2\. What is CBS Films� practice regarding cookies?**  
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+**Access** **: CBS Films allows you to update or disable the contact information you have provided through our Web Sites.**
 
-We also use technologies, including electronic images known as Web bugs-sometimes called transparent GIFs, clear GIFs, or beacons-that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
+**Security** **: CBS Films has adopted commercially reasonable information security policies and practices to help protect your information.**
 
-We use cookies and tracking technologies in a variety of ways, including: 
+**Accountability** **: CBS Films responds to user inquiries, participates in industry programs, and has adopted privacy practices that are consistent with applicable country, state, and local data protection laws.**
 
-  1. Keeping count of return visits to our site or our advertisers' or partners' sites;
-  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
-  3. Determining which features our overall user population likes best; 
-  4. Saving your password so you don't have to re-enter it each time you visit our sites; 
-  5. Displaying the most appropriate advertising or content based on your interests.
+**If you have any questions about these principles or CBS Films Privacy Policy, please** ******_contact us_** **.**
 
+**_CBS Films Privacy Policy Highlights_**
 
+**Scope of Privacy Policy**
 
-We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies. 
+**CBS Films owns, operates, or provides access to, several interactive web sites for its motion pictures and other interactive features that provide an authorized link to the** ** _CBS Films Privacy Policy_** **  (collectively "CBS Films Web Sites"). This Privacy Policy, effective November 23, 2009, is guided by a core set of ****_Privacy Principles_** **  and applies only to the CBS Films Web Sites.**
 
-**3\. How does CBS Interactive use the information?**  
-We use the information we gather for four general purposes:  
+**Information Collected**
 
+**We collect a variety of information about you, including:**
 
-  1. To customize the advertising and the content you see; 
-  2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
-  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;
-  4. To send you information you agreed to receive about topics we think will be of interest to you.
+**-** ******Information you provide directly to a CBS Films Web Site.**
 
-  
+**-** ******Information about your computer and browsing activities on the Web Sites, including through** ** _cookies, web beacons, and other technologies_** **.**
 
+**-** ******Information about you from other sources where permitted by law.**
 
-**4\. How does CBS Films share the information?**
+**Use of Information**
 
-**Personally identifiable information**
+**We use the information we collect to:**
 
-We will make your personally identifiable information available to other companies or people when:
+**-** ******Provide the services you request.**
 
-  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website. 
-  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction. 
-  3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  4. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use. Notwithstanding the foregoing, we may disclose and let our sister CBS company, CBS Interactive, use your information, and to the extent that they use it, it will be used in accordance with their privacy policy found at http://www.cbsinteractive.com/privacy.php?tag=footer;footer_nav.
-  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails. 
-  6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process. 
-  7. When required by law, such as when we respond to subpoenas, court orders, or legal process. 
-  8. We believe that your actions violate applicable laws, CBS Films� Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+**-** ******Tell you about offers we think you will value.**
 
+**-** ******Customize the content and advertising you see.**
 
+**-** ******Improve your experience on CBS Films Web Sites.**
 
-**Aggregate information**
+**-** ******As otherwise described to you at the point of collection or with your consent.**
 
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally. 
+**Disclosure of Information**
 
-**ChannelOnline data**
+**We may share your information:**
 
-Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties. 
+**-** ******Where we have obtained your consent.**
 
-**Business transfers**
+**-** ******With our third-party service providers.**
 
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+**-** ******With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Films Web Site.**
 
-**5\. What are my options?**  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
+**-** ******Within the family of CBS Films Web Sites,**[ ** _CBS Interactive Web Sites_**](http://www.cbsinteractive.com/) **and other CBS businesses.**
 
-We also give users the following options:
+**-** ******If a CBS Films Web Site is sold to another company.**
 
-  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;
-  2. Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+**-** ******To protect or defend the rights of CBS Films or our users.**
 
+**-** ******When required by law or public authorities.**
 
+**Your Choices**
 
-**6\. How can I remove my personal information from CBS Films� database?**  
-You can send requests to remove your personal information from CBS Films� database by sending an email from the email address you want removed to eric.levine@cbs.com and putting �REMOVE� in the subject line. No other requests or correspondence will be handled by the above-referenced CBS Films email address.
+**-** ******If you choose to share contact information with us, you will have the opportunity to update that information.**
 
-**7\. How will I know if the privacy policy is changed?**  
-Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+**-** ******You can stop the delivery of commercial email messages from a CBS Films Web Site or service by following the instructions in any such email you receive.**
 
-**8\. Privacy of children**  
-None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+**-** **You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of** ** _third-party online advertising_** **.**
 
-**_Notice to California Residents / Your California Privacy Rights:_** California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year (e.g. requests made in 2010 will receive information about 2009 sharing activities). As set forth in this Privacy Policy, we comply with this law by offering our visitors the ability to tell us not to share your personally identifiable information with third parties for their direct marketing purposes. To make such a request, please send an e-mail eric.levine@cbs.com to . You must include this Website as the subject line, and your full name, e-mail address, and postal address in your message.
+**Other Information**
 
-Effective date: June 22, 2009 
+**-** ******CBS Films is committed to working with you to obtain a fair resolution of any privacy concern.**
+
+**-** ******We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.**
+
+**-** ******For more information about our privacy practices, please review the full** ** _CBS Films Privacy Policy_** **.**
+
+**How to Contact Us**
+
+#### If you have questions regarding the CBS Films Privacy Policy, please contact us.
+
+**_CBS Films Privacy Policy_**
+
+**_Effective Date: November 23, 2009_**
+
+**CBS Films Inc. ("CBS Films") is committed to protecting your privacy. CBS Films owns, operates, or provides access to, several interactive web sites for its motion pictures and other interactive features that provide an authorized link to this Privacy Policy (collectively "CBS Films Web Sites"). This Privacy Policy applies only to the CBS Films Web Sites.**
+
+**This Privacy Policy describes, among other things, the types of information collected about you when you visit a CBS Films Web Site; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.**
+
+**1.** ** Scope of Privacy Policy**
+
+**This Privacy Policy applies to information, including contact information, collected about you by a CBS Films Web Site. This Privacy Policy does not cover any information collected through any other web site.** ******Please note that some CBS Films Web Sites may contain links to non-CBS Films Web Sites. We are not responsible for the privacy practices of those sites, and we recommend that you visit the privacy policies of each web site that you visit.**
+
+**2.** ** Information Collected**
+
+**__Information you provide directly to CBS Films Web Sites__** **. You are not required to provide information about yourself when you visit a CBS Films Web Site. CBS Films Web Sites may ask you for some or all of the following types of information when you register for certain services, access various content or features, or directly contact the Web Site:**
+
+**-** ******Contact information, such as name, email address, postal address, phone number, facsimile number, and mobile number;**
+
+**-** ******User name, password, and password reminder questions and answers;**
+
+**-** ******Age and date of birth;**
+
+**-** ******Other demographic information, such as gender, job information, and zip code;**
+
+**-** ******Information for a public profile, such as your interests and the address of your web site;**
+
+**-** ******Communications preferences, such as which newsletters you would like to receive;**
+
+**-** ******Search queries;**
+
+**-** ******In limited circumstances, payment and identity verification information, such as credit card number, social security number or comparable national identifiers, and driver's license number where needed for payment or to access a particular service (e.g., contests);**
+
+**-** ******Contact information about others when you provide information about others or refer a friend to a particular site or service (note: such information is used solely to facilitate the communications requested);**
+
+**-** ******Information posted in community discussions and other interactive online features;**
+
+**-** ******Correspondence you send to us; and**
+
+**-** ******Information collected about you offline (including via facsimile, mail, or in person for sweepstakes entrance forms).**
+
+**__Information we collect automatically on CBS Films Web Sites__** **.** ******CBS Films Web Sites may collect certain information automatically, including:**
+
+**-** ******Your browser type and operating system;**
+
+**-** ******Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;**
+
+**-** ******Sites you visited before and after visiting a CBS Films Web Site;**
+
+**-** ******Web pages and advertisements you view and links you click on within CBS Films Web Sites;**
+
+**-** ******Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law;**
+
+**-** ******Information collected through** ** _cookies, web beacons, and other technologies_** **;**
+
+**-** ******Information about your interactions with video content, such as the type of content viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded;**
+
+**-** ******Upon request, your bandwidth speed and information about the software programs installed on your computer; and**
+
+**-** ******Standard server log information.**
+
+**__Information we obtain from other sources__** **.** ******We may collect information about you from other sources, including through interactive applications (such as mobile devices, third-party services, and embedded video players), from co-branded partners,  and from commercially available sources (such as data aggregators and public databases). The following are examples of information we may collect from other sources:**
+
+**-** ******Name, postal address, and telephone number;**
+
+**-** ******Demographic data, such as age, gender, and income level;**
+
+**-** ******If you access third-party services (such as Facebook Connect) through a CBS Films Web Site, your username and password for those services and other information available about you on those services;**
+
+**-** ******Your interests and purchase behavior;**
+
+**-** ******Publicly-observed data, such as activities on blogs, videos, and other online postings; and**
+
+**-** ******Other navigation data, such as web sites visited and advertisements viewed or clicked on.**
+
+**Please note that all of the information we collect about you may be combined, including to help us tailor our communications to you and to develop rich online content and services across the CBS Films Web Sites and**[ ** _CBS Interactive Web Sites_**](http://www.cbsinteractive.com/) **.**
+
+**3\. Use of** ** Information**
+
+**We only use payment and identity verification information, such as credit card numbers, driver's license numbers, social security numbers, or comparable national identifiers as necessary for completing a particular transaction or fulfilling a service (e.g., paid subscriptions or awarding prizes to contest winners) or as otherwise required by law.**
+
+**We generally use other information we collect about you to:**
+
+**-** **Fulfill your requests for products, services, and information, including to send you electronic newsletters, authorize a purchase, and complete a transaction that you have requested;**
+
+**-** ******Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;**
+
+**-** ******Provide you with special offers and promotional materials on behalf of CBS Films Web Sites,**[ ** _CBS Interactive Web Sites_**](http://www.cbsinteractive.com/), **companies within our corporate family, and third parties, in accordance with applicable law;**
+
+**-** ******Analyze the use of CBS Films Web Sites and information about visitors to our Web Sites to understand and improve our service offerings;**
+
+**-** ******Customize the content you see when you visit a CBS Films Web Site;**
+
+**-** ******Develop and provide advertising tailored to your interests, as described in our overview of _CBS Films online advertising_;**
+
+**-** ******Prevent potentially prohibited or illegal activities and otherwise in accordance with CBS Films** ****[**_Terms of Use_**](https://web.archive.org/library/html/terms.html) **; and**
+
+**-** ******For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.**
+
+**4\. Disclosure of Information**
+
+**CBS Films is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you.**
+
+**-** ******_With your consent._** ******You may be asked to consent to have your contact information shared with third-party business partners.**
+
+**-** ******_Authorized third-party service providers._** ******We share your information with third-party vendors who help us with specialized services, including customer support, email and text message deployment, business analytics, marketing, and data processing. These third parties are allowed to use your contact information to help us provide our services and not for any other purpose.**
+
+**-** ******_Sweepstakes, contests, or promotions._** ******When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotions, your information may be disclosed to sponsors and third parties who help administer the promotion, including in connection with winner selection and prize fulfillment. Your information also may be disclosed as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing the sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law.**
+
+**-** ******_Co-Branded Partners_** ** _._** ******Co-Branded Partners are third parties with whom a CBS Films Web Site may jointly offer a service or feature. You can tell when you are accessing a service offered by a Co-Branded Partner because the Co-Branded Partner's name will be featured prominently. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner, or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner's privacy policy may apply to its use of your information.**
+
+**-** ******_CBS Films Web Sites, CBS Interactive Web Sites_** ** __****_and other CBS businesses._** ******We may share information we collect about you within the family of CBS Films Web Sites,**[ ** _CBS Interactive Web Sites_**](http://www.cbsinteractive.com/), **and with CBS Corporation, our parent company, and other CBS-affiliated companies, so we can provide you with information about products and services that might interest you.**
+
+**-** ******_Business transfers._** ******We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Films Web Site, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.**
+
+**-** ******_Legal requirements_** ** _._** ******We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with other legal obligations.**
+
+**-** ******_Protect our Web Sites and users_** **.** ******We may disclose information to protect and defend the legal rights, interests, and safety of CBS Films Web Sites,**[ ** _CBS Interactive Web Sites_**](http://www.cbsinteractive.com/), **other CBS companies, and their employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users of the Web Sites and members of the public; and as otherwise disclosed in our** ****[**Terms of Use**](http://www.cbsinteractive.com/terms_of_use.php?tag=footer;footer_nav "Terms of Use") **.**
+
+**Please note that we may share information with advertisers as described in our overview of** ** _CBS Films online advertising_** **. We also may share aggregated or anonymized information with third parties, including to help us develop content and services we hope you will find of interest. This information cannot be used to individually identify you.**
+
+**5.Your Choices**
+
+**You can choose to enjoy content and features on CBS Films Web Sites without directly providing us with any information about you; however, as described above, some information may automatically be collected or may be requested so you can take advantage of certain features and services offered on CBS Films Web Sites.**
+
+**You can opt out of receiving commercial email or text messages from a particular CBS Films Web Site or service by following the instructions contained in any such message. Please note that even if you unsubscribe to commercial messages, we still may need to send you communications relating to your use of the CBS Films Web Sites, such as service announcements.**
+
+**You have a choice about the display of relevant advertisements by third parties; for more information, visit our overview of** ** _third-party online advertising_** **.**
+
+**6\. Access**
+
+**If you choose to share contact information with us, you may have the opportunity to update that information on a CBS Films Web Site. You also may update or amend your information by** ** _contacting us_** **. If you ask us to shut down your account or  delete your information, we will disable your account within a reasonable period of time. Please note that we may need to retain some information about you in order to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to delete it. In some cases, you may be entitled under local laws to access or object to the processing of information that we hold relating to you.**
+
+**7\. Protection of Information**
+
+**We are committed to protecting your information. We have adopted commercially reasonable technical, administrative, and physical procedures to help protect your information from loss, misuse, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using CBS Films Web Sites but we cannot ensure or warrant the security of any information you transmit to us. Please refer to the** ****[**U.S. Federal Trade Commission's web site**](http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm "FTC") ******for information on how to protect yourself from identity theft.**
+
+**8\. Visiting from Outside the United States**
+
+**CBS Films is headquartered in the United States. Please be aware that information you provide to us or we obtain as a result of your use of the CBS Films Web Sites may be processed and transferred to the United States and be subject to United States law. The privacy and data protection laws in the United States may not be equivalent to such laws in your country of residence. By using and participating in any CBS Films Web Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.**
+
+**9\. California Visitors**
+
+**Residents of the State of California may request a list of all third parties to which a CBS Films Web Site has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please** ** _contact us_** **.   For all requests, you must put the statement "Your California Privacy Rights" in the body of your request and include the name of the CBS Films Web Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.**
+
+**10\. Privacy Protections for Children**
+
+**Most CBS Films Web Sites are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13. Some CBS Films Web Sites may ask for a birth date to ensure that they are not collecting information from children under 13 or to identify when additional steps may need to be taken in connection with information collected from children under 18. In those instances where a CBS Films Web Site has actual knowledge that it collects information from children, or offers a service directed toward children, it will comply with applicable laws, including the U.S. Children's Online Privacy Protection Act. To read about our privacy policy for children under the age of 13, please see the** ** _Children's Privacy Policy._**
+
+**11\. User-Generated Content**
+
+**Some CBS Films Web Sites enable users to submit their own content for contests, blogs, videos, message boards, and other functions. Please remember that any information you disclose becomes public information and exercise caution when deciding to disclose your contact, financial, and other information in a submission. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety.**
+
+**12\. Changes to This Privacy Policy**
+
+**We may update this Privacy Policy to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Effective Date" and such changes will be effective upon posting. If we make any material changes in the way we use your information, we will notify you by sending an email message to the email address you most recently provided to us or by prominently posting a notice of the changes on CBS Films Web Sites.**
+
+**13\. Questions**
+
+**If you have questions regarding this Privacy Policy, please** ** _contact us_** **and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:**
+
+**CBS Films Inc.  
+235 Second Street  
+San Francisco, CA 94105  
+Attn: Legal Department**
+
+**We are committed to working with you to obtain a fair resolution of any privacy concern.**
+
+**_Cookies, Web Beacons and Other Technologies_**
+
+**Cookies**
+
+**Cookies are small amounts of data that are stored in separate files within your computer's Internet browser. Cookies are accessed and recorded by the web sites you visit, and by the companies that show advertisements on web sites, so they can recognize the same browser navigating online.**
+
+**CBS Films Web Sites** ** ** **use cookies for the following general purposes:**
+
+**-** **To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Web Sites. For example, if you register on a CBS Films Web Site, the Web Site may save your password, so you do not have to re-enter it each time you visit.**
+
+**-** **To help us customize the content and advertisements you are shown while visiting CBS Films Web Sites and potentially other web sites online. Please read about** ** _our online advertising_** **  to learn more about our efforts to show you relevant advertising.**
+
+**-** **To help measure and research the effectiveness of our interactive online content, features, advertisements, and other communications.**
+
+**CBS Films Web Sites may also allow third parties to place their own cookies within your browser in order to serve you with relevant advertising online. Please note that we do not share contact information with these third parties and CBS Films can only access cookies that we set on your browser, not the cookies sent to you by other companies. For more information about the use of cookies by third parties for advertising purposes, please read about** ** _third-party online advertising_** **  on CBS Films Web Sites.**
+
+**You have the choice to set your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us or third parties to send you cookies, but if you block cookies, you may not be able to view or access some or all of  a CBS Films Web Site.**
+
+**Web Beacons and Other Technologies**
+
+**We may use standard Internet technology, such as web beacons and similar technologies, to track your use of the CBS Films Web Sites. Web beacons (sometimes called transparent GIFs, clear GIFs, or web bugs) are small strings of code that provide a way for us to deliver a small graphic image (usually invisible) on a web page or in an email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page where the web beacon is placed.**
+
+**We use web beacons to improve your experience on our Web Sites, including to provide you with content customized to your interests and to understand whether users read email messages and click on links contained within those messages so that we can deliver relevant content and offers. Our web beacons may collect some contact information (for example, the email address associated with an email message that contains a web beacon).**
+
+**CBS Films Web Sites also may include third-party web beacons so that these third parties may receive auditing, research, and reporting information about advertisements viewed on the CBS Films Web Sites. Third parties do not have access to your contact information in connection with their use of web beacons.**
+
+**Mobile Devices**
+
+**Certain mobile devices contain unique identifiers that can be used, for example, to identify the physical location of such devices. Mobile devices also typically transmit caller ID data when used to transmit a telephone call or text message. CBS Films Web Sites may collect, use, transmit, process and maintain unique identifiers, caller ID data, location-based data, and similar information when you rely on mobile devices, including to provide the services you request, tell you about offers we think you will value, and improve your experience on CBS Films Web Sites. CBS Films Web Sites also may require collection of your mobile phone number in order for you to participate in certain services or features and that number may be associated with such information.**
+
+**_CBS Films Online Advertising_**
+
+**In order to customize your experience on the CBS Films Web Sites, we may use** ** _cookies, web beacons, and other technologies_** **  to collect information about the content and advertisements you view on our Web Sites. Based on this information, and other information we may collect about you, we try to infer your interests and show content and advertising that is more relevant to you. **
+
+**We also may receive information from third parties about you and your activities on other sites for the purpose of serving relevant advertisements to you on CBS Films Web Sites. For example, if you access an article on a third-party site about computers, we may use that information to serve you with a computer-related advertisement on a CBS Films Web Site.**
+
+**Please note that we may share information about our users with advertisers so that they can measure the effectiveness of advertisements viewed on the CBS Films Web Sites. For example, we may tell advertisers the number of users who clicked on a particular advertisement.**
+
+**These online advertising efforts across CBS Films Web Sites do not result in you seeing more advertisements, just more relevant advertising, and they allow us to provide you with free content and services on our Web Sites. We hope you value our efforts to show you content and advertising that more closely reflects your interests.**
+
+**Some of the advertisements you see on CBS Films Web Sites are delivered by third parties. To learn more, please read about** ** _third-party online advertising_** **.**
+
+**_Third-Party Online Advertising_**
+
+**Some of the advertisements you see on CBS Films Web Sites are delivered by third parties who also collect information through** ** _cookies, web beacons, and other technologies_** **  about your online activities, either on our Web Sites or across the Internet, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These third parties include advertisers, advertising agencies, and ad networks that may collect information when you view or interact with one of their advertisements.**
+
+**Please note that CBS Films does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy. In addition, some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit:** ****[****](http://www.networkadvertising.org/optout_nonppii.asp)**<http://www.networkadvertising.org/optout_nonppii.asp>****.**
+
+**Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Web Sites, but these advertisements may not be as relevant to you.**
+
+**For more information about relevant advertisements delivered by CBS Films, please read about** ** _CBS Films online advertising_** **.**
+
+**_Children's Privacy Policy_**
+
+**We recognize the need to provide additional privacy protections when children visit the sites on which this Children's Privacy Policy is posted. The following guidelines supplement our general** ** _Privacy Policy_** **  and follow the rules set by the U.S. Children's Online Privacy Protection Act and other applicable laws. "Child" means an individual under 13 years of age or an individual under 18 where the collection, use or disclosure of personal information about such an individual is restricted by applicable law. When we use the term "parent" below, we mean to include legal guardians.**
+
+**Information We Collect**
+
+**Children can enjoy content and features on CBS Films Web Sites without directly providing contact information. However, children who wish to participate in sweepstakes, contests, and certain other special activities may need to provide information such as first name, user name, password, email address, date of birth, city and state of residence, and gender.**
+
+**In the course of participating in interactive features such as chat rooms and message boards, a child may provide us with additional information about himself or herself, such as the contents of his or her postings. Some information, including information collected through** ** _cookies, web beacons, and other technologies_** **, may be collected automatically. For more information, see the "** ** _Information we collect automatically_** **" section of our general Privacy Policy.**
+
+**If we collect, use, or disclose contact information collected from a child, we will provide notice and obtain parental consent in accordance with applicable law.**
+
+**We do not condition a child's participation in an online activity on the child's providing more contact information than is reasonably necessary to participate in that activity.**
+
+**Use of Information**
+
+**We use the information we collect consistent with the services requested by the child. For example, we may use information provided by the child to:**
+
+**-** ******Send a newsletter, electronic card, and other communication requested by the child;**
+
+**-** ******Enable a child's participation in certain interactive features such as games, contests, message boards, chat rooms, song requests, and online scrolling tickers; and**
+
+**-** ******Respond to correspondence sent by the child.**
+
+**In addition, we may use a parent's contact information to communicate with the parent regarding the child's activities on CBS Films Web Sites. For example, if a child wins a sweepstakes or contest, we may use the parent's contact information to conduct prize fulfillment.**
+
+**Disclosure of Information**
+
+**Information collected from children will be disclosed in the same ways described in the "** ** _Disclosure of Information_** **" section of our general Privacy Policy. Third parties who receive contact information collected by CBS Films have agreed to maintain the confidentiality, security, and integrity of that information. Parents have the option not to consent to the disclosure of their child's contact information to third parties. Parents may consent to CBS Films collection and use of their child's contact information while refusing to permit the disclosure of that information to third parties.**
+
+**Parents' Choices and Access to Children's Information**
+
+**Parents may review the contact information we have collected from their child, refuse to permit us to collect further contact information from their child, and request that any contact information we have collected be deleted from our records. Parents may also correct factual inaccuracies.**
+
+**To review, update, or delete your child's contact information, please  ** ** _contact us_** **.   You may also send your request to the postal address listed below. To protect your child's safety, we ask for proof of your identification. We may deny access if we believe there is a question about your identity.**
+
+**Certain information cannot be deleted because of other legal obligations.**
+
+**Changes to the Children's Privacy Policy**
+
+**We may amend our Children's Privacy Policy at any time. We will provide parents with notice of any material changes in the way we intend to collect, use, and share children's contact information. Please note that, at all times, parents should update their contact information to provide us with current email addresses. We will apply material changes in our Children's Privacy Policy only in conformance with applicable law.**
+
+**Contact Us**
+
+**If you need further assistance,  please ** ** _contact us_** **.   If you would prefer to submit your questions or comments by mail, please send a letter to the address below:**
+
+**CBS Films Inc.  
+235 Second Street  
+San Francisco, CA 94105  
+Attn: Legal Department**
