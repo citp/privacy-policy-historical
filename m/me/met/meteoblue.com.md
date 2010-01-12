@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteoblue.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212215509id_/http%3A//www.meteoblue.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteoblue.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112211818id_/http%3A//www.meteoblue.com/en/privacy) for the most accurate reproduction.*
 
 # meteoblue - Privacy
 
