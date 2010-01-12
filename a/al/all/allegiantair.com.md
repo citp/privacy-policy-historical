@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125104749id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112044807id_/http%3A//www.allegiantair.com/aaPrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Airfare & Hotel Packages from Allegiant
 
