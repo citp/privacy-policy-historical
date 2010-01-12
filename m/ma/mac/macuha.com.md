@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228201057id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112043653id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make Money Online Philippines | Macuha.com
 
@@ -13,11 +13,13 @@ If a user wishes to subscribe to my posts via e-mail _(powered by Feedburner)_ ,
 **Cookies**  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’ activity. Some of my business partners use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
 
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 **Links**  
 This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Advertisers**  
-I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense, Project Wonderful, Adbrite, Widgetbucks, Kontera and Chitika. Please check their websites for respective privacy policies.
+I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense, Project Wonderful, Adbrite, Widgetbucks, Infolinks and Chitika. Please check their websites for respective privacy policies.
 
 **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://www.macuha.com/contact/).
