@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713030413id_/http%3A//www.cosmopolitan.co.uk/Cosmopolitan_Website_Privacy/v1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112050435id_/http%3A//www.cosmopolitan.co.uk/Cosmopolitan_Website_Privacy/v1) for the most accurate reproduction.*
 
 # Cosmopolitan Website Privacy :: Cosmopolitan
 
@@ -22,12 +22,3 @@ Data Protection: The National Magazine Company and our sponsors and promoters ma
 Please leave the Site and its Service now if you don't agree to our privacy terms.
 
 #### See our full [Terms and Conditions](http://www.cosmopolitan.co.uk/index.php?module=roles&func=terms).
-
-[ ](http://www.cosmopolitan.co.uk/love-&-sex/relationship-topics-men-vs-women-are-bad-pants-a-crime%5E/v1)
-
-##### [Are bad pants a crime?](http://www.cosmopolitan.co.uk/love-&-sex/relationship-topics-men-vs-women-are-bad-pants-a-crime%5E/v1)
-
-Every week Cosmopolitan.co.uk's very own Venus & Mars give their take on the most talked about...
-
-  
-
