@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acnefreein3days.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429130846id_/http%3A//www.acnefreein3days.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnefreein3days.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112035423id_/http%3A//www.acnefreein3days.com/privacy.html) for the most accurate reproduction.*
 
-# Acne Free in 3 Days - Privacy Policy
+# Acne Free in 3 Days - Get rid of Acne & Pimples Natural Acne Treatment Home Remedy for Zits Blackheads
 
 Last Updated: September 23rd, 2003
 
