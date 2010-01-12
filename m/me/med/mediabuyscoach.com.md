@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabuyscoach.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924030625id_/http%3A//mediabuyscoach.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabuyscoach.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112033808id_/http%3A//www.mediabuyscoach.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Media Buys Coach :: The Place to Learn About Media Buys for Affiliate Marketers
 
