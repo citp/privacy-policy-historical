@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicwebtown.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618122432id_/http%3A//musicwebtown.com/community/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicwebtown.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112034613id_/http%3A//www.musicwebtown.com/community/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
