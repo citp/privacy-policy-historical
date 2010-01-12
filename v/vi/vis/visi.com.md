@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911095054id_/http%3A//www.visi.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112044300id_/http%3A//www.visi.com/privacy.aspx) for the most accurate reproduction.*
 
-# None
+# VISI Privacy Policy | Customer privacy policy| VISI
 
 _Effective  September 18th, 2007_
 
