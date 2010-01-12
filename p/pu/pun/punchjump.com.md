@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchjump.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929161043id_/http%3A//www.punchjump.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchjump.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112055210id_/http%3A//www.punchjump.com/privacy.php) for the most accurate reproduction.*
 
 # Punch Jump - Hip to be Square - Privacy Policy
 
