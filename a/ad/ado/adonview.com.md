@@ -1,6 +1,45 @@
-> *The following text is extracted and transformed from the adonview.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112192453id_/http%3A//www.adonview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonview.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112070504id_/http%3A//www.adonview.com/privacy.php) for the most accurate reproduction.*
 
 # California, UNITED STATES - ADONVIEW Classifieds
+
+  
+|  Search   
+---  
+  
+  
+             
+   
+You can post any events of interest for FREE.  
+---  
+Event Calendar (0)  
+  
+| [«](http://www.adonview.com/?_xzcal_m=12&_xzcal_y=2009) | January 2010 | [»](http://www.adonview.com/?_xzcal_m=2&_xzcal_y=2010)  
+---|---|---  
+S | M | T | W | T | F | S  
+ |  |  |  |  | [1](http://www.adonview.com/404/events/2010-01-01/)| [2](http://www.adonview.com/404/events/2010-01-02/)  
+[3](http://www.adonview.com/404/events/2010-01-03/)| [4](http://www.adonview.com/404/events/2010-01-04/)| [5](http://www.adonview.com/404/events/2010-01-05/)| [6](http://www.adonview.com/404/events/2010-01-06/)| [7](http://www.adonview.com/404/events/2010-01-07/)| [8](http://www.adonview.com/404/events/2010-01-08/)| [9](http://www.adonview.com/404/events/2010-01-09/)  
+[10](http://www.adonview.com/404/events/2010-01-10/)| [11](http://www.adonview.com/404/events/2010-01-11/)| [12](http://www.adonview.com/404/events/2010-01-12/)| [13](http://www.adonview.com/404/events/2010-01-13/)| [14](http://www.adonview.com/404/events/2010-01-14/)| [15](http://www.adonview.com/404/events/2010-01-15/)| [16](http://www.adonview.com/404/events/2010-01-16/)  
+[17](http://www.adonview.com/404/events/2010-01-17/)| [18](http://www.adonview.com/404/events/2010-01-18/)| [19](http://www.adonview.com/404/events/2010-01-19/)| [20](http://www.adonview.com/404/events/2010-01-20/)| [21](http://www.adonview.com/404/events/2010-01-21/)| [22](http://www.adonview.com/404/events/2010-01-22/)| [23](http://www.adonview.com/404/events/2010-01-23/)  
+[24](http://www.adonview.com/404/events/2010-01-24/)| [25](http://www.adonview.com/404/events/2010-01-25/)| [26](http://www.adonview.com/404/events/2010-01-26/)| [27](http://www.adonview.com/404/events/2010-01-27/)| [28](http://www.adonview.com/404/events/2010-01-28/)| [29](http://www.adonview.com/404/events/2010-01-29/)| [30](http://www.adonview.com/404/events/2010-01-30/)  
+[31](http://www.adonview.com/404/events/2010-01-31/)|  |  |  |  |  |    
+  
+  
+  
+[ No Event Today ](http://www.adonview.com/404/events/2010-01-12)  
+[Upcoming Events](http://www.adonview.com/404/events/)  
+[POST EVENT](http://www.adonview.com/index.php?view=post&postevent=1&cityid=404)  
+  
+  
+  
+Image posting is FREE. Please be discreet when sharing your images with the community.  
+---  
+Images (0)  
+  
+[ POST IMAGE](http://www.adonview.com/?view=postimg&cityid=404&lang=en)  
+  
+  
+  
+
 
 **Privacy Policy**
 
@@ -65,3 +104,5 @@ ADONVIEW has established this privacy policy to explain how your information is 
 
   
 
+
+| 
