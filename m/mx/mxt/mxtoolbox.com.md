@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mxtoolbox.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805233433id_/http%3A//www.mxtoolbox.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtoolbox.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112125128id_/http%3A//www.mxtoolbox.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # MxToolbox - Managed IT Services for Small Business
 
-Effective 12/13/2006
+Effective 08/19/2009
 
 **Our Commitment To Privacy**
 
@@ -31,6 +31,8 @@ To enhance your experience with our sites, many of our web pages may use "cookie
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  MXToolBox reserves the right to reveal this information pursuant to a valid subpoena or court order. 
 
 We use return email addresses to answer the email we receive.  Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+We may partner with third parties to help us respond to some types of requests you may make on our website. Examples of these include sales, support and general customer service or information requests. We may share your information with these third parties. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.  If you have registered for one of our services and have thereby granted us permission to use your information, your sole recourse in prohibiting use of your information will be to cancel your registration and terminate your license.  In any case, termination will be governed by the license agreement. 
 
