@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318000242id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112035820id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
 
 # Search engine optmization with guaranteed results
 
