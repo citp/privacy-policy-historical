@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911095642id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112044221id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Globat's Privacy Policy
 
@@ -53,7 +53,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   15. **How to Access or Modify Your Information.** To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact Globat Support by phone or through our online support form.
   
 
-  16. **Where to Direct Questions About Globat's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Globat, 70 Blanchard Rd 3rd Floor, Burlington, MA 1803 or support@globat-inc.com.
+  16. **Where to Direct Questions About Globat's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Globat, 70 Blanchard Rd 3rd Floor, Burlington, MA 01803 or support@globat-inc.com.
   
 
   17. **Exceptions**. Except as stated in this policy, we will never give out your information without your permission. As noted above, we may be required to share certain information if one of our partners requires it, but these situations are rare and we will always ask for your explicit permission first. We reserve the right to give out such information without explicit permission in the following circumstances: 
