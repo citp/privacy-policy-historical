@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the birkenstockusa.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414064356id_/http%3A//www.birkenstockusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birkenstockusa.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112041803id_/http%3A//www.birkenstockusa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| Birkenstock USA
+# Privacy Policy | Birkenstock USA Official Site
 
-## Privacy Policy
-
-Birkenstock USA, LP (BUSA) respects your right to privacy. We know that the information about you that we gather on the Birkenstockusa.com website (the "Site") needs to be carefully and sensitively managed. We do not sell or rent your personal information to third parties. As described in this policy, under certain circumstances, we may share your information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
+Birkenstock USA, LP (BUSA) respects your right to privacy. We know that the information about you that we gather on the Birkenstockusa.com website (the "Site") needs to be carefully and sensitively managed. We do not sell or rent your personal information to third parties. As described in this policy, under certain circumstances, we may share your information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
 
 This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. If our information practices change, we will post an updated policy on our Site. You can tell if the policy has changed by checking the revision date that appears at the top of this policy. You may exercise your choices about how we collect and use your information consistent with this policy at any time. Please contact us with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing us at marketing@birkenstockusa.com
 
-This notice describes our privacy policy - which governs your use of the Site. This Privacy Notice is incorporated into and is subject to the Terms of Use. **By visiting Birkentockusa.com, you are accepting the practices described in this Privacy Notice and[Terms of Use](https://web.archive.org/terms-of-use).**
+This notice describes our privacy policy - which governs your use of the Site. This Privacy Notice is incorporated into and is subject to the Terms of Use.
+
+**By visiting Birkentockusa.com, you are accepting the practices described in this Privacy Notice and[Terms of Use](https://web.archive.org/terms-of-use).**
 
 What personal information does Birkenstockusa.com gather?  
 How does Birkenstockusa.com use my information?  
@@ -19,7 +19,7 @@ What about links to other websites?
 What information can I access?  
 Are children allowed to use Birkenstockusa.com?
 
-## What personal information does Birkenstockusa.com gather?
+### What personal information does Birkenstockusa.com gather?
 
 The information we learn from customers helps us continually improve your shopping experience. Here are the types of information we gather.
 
