@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthinengineering.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023230102id_/http%3A//www.audiusa.com/us/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthinengineering.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112092902id_/http%3A//www.audiusa.com/us/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
 
 # Audi of America > Privacy
 
@@ -8,6 +8,8 @@ Privacy Policy
 It is our sincere hope at Audi of America that what is now a purely digital relationship will evolve into a more personal one. A relationship built on trust. Our policy on privacy is simple and unwavering. We would also remind you that audiusa.com is a private, copyrighted site and intended solely for personal use. And now that we've taken care of the business that our attorneys advised us had to be stated, let's get back to something more exciting, more promising: Audi and you.
 
 Should you have other questions or concerns about this privacy policy, please email us at:
+
+For information on how to opt out of certain advertising campaigns, please visit:
 
 Our Commitment to Privacy
     
