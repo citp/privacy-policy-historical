@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219175109id_/http%3A//taxsalelists.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxsalelists.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113210549id_/http%3A//www.taxsalelists.com/privacy.html) for the most accurate reproduction.*
 
-# Tax Lien Auction, Government Tax Liens, Auctions, and Lien Sales
+# TaxSaleLists.com - Lists and Manuals for Tax Lien and Tax Deed Sales Nationwide
 
 #####  Our Commitment To Privacy 
 
