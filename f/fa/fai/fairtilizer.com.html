@@ -1,24 +1,32 @@
-<!--The following is the downloaded HTML source of the fairtilizer.com privacy policy that was archived on 2009-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090704104558id_/http%3A//fairtilizer.com/start/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fairtilizer.com privacy policy that was archived on 2010-01-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100113034030id_/http%3A//fairtilizer.com/start/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <title>Start - Privacy_policy, on Fairtilizer</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <!-- Fairtilizer revision 2946, production environment -->
+  <title>Start - Privacy_policy, on Fairtilizer</title>
+  <meta name="description" content="Manage your music from one single place: Public and Private URL for tracks and playlists, players, traffic stats and more.">
   
-  <link href="/stylesheets/shared.css" media="screen" rel="Stylesheet" type="text/css">
-  <link href="/stylesheets/player.css" media="screen" rel="Stylesheet" type="text/css">
-  <link href="/stylesheets/explore.css" media="screen" rel="Stylesheet" type="text/css">
-  <link href="/stylesheets/landing.css" media="screen" rel="Stylesheet" type="text/css">
-  <link href="/stylesheets/tracks.css" media="screen" rel="Stylesheet" type="text/css">
+  <link rel="image_src" href="">
+  <link rel="video_src" href="http://fairtilizer.com/flash/fairplayer-small.swf?autoplay=true&amp;feed=http://fairtilizer.com">
+  <meta name="video_height" content="40">
+  <meta name="video_width" content="420"> 
+  <meta name="video_type" content="application/x-shockwave-flash">
+
+    <!-- Fairtilizer revision 0f79ad, master branch, production environment -->
+
   
-  <!--[if lt IE 7]><link href="/stylesheets/main_ie6.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+  <link href="/stylesheets/shared.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/landing.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/tracks.css" media="screen" rel="stylesheet" type="text/css">
+  
+  <!--[if lt IE 7]><link href="/stylesheets/main_ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
   
   <script src="/javascripts/combined/mootools.js" type="text/javascript"></script>
   <script src="/javascripts/combined/plugins.js" type="text/javascript"></script>
   <script src="/javascripts/combined/fair.js" type="text/javascript"></script>
+  <script src="/javascripts/combined/player.js" type="text/javascript"></script>
   <script src="/javascripts/fair/landing.js" type="text/javascript"></script>
-  <script type="text/javascript" charset="utf-8">
+    <script type="text/javascript" charset="utf-8">
   if (Fair) {
     Fair.Messages = {
       flash: "",
@@ -28,31 +36,90 @@
     Fair.Params = {
       feed: 'http://fairtilizer.com/tracks.xspf?limit=200',
       movie: 'http://fairtilizer.com/flash/fairplayer-large.swf?feed=http%3A%2F%2Ffairtilizer.com%2Ftracks.xspf%3Flimit%3D200',
-      flashvars: {"player_frame": true, "autoplay": 0, "vote": "no"}
+      flashvars: {"vote":"no","autoplay":0,"player_frame":true}
     };
-    if (Fair.loadFeed) Fair.loadFeed();
+    if (Fair.loadFeed && Fair.Params.feed != '') Fair.loadFeed();
   }
+</script>
+
+  <script type="text/javascript">
+/* <![CDATA[ */
+  window.addEvent('domready', function(){
+    var fp = Browser.Plugins.Flash;
+    if (fp.version < 8 || (fp.version == 8 && fp.build < 22)) $('upgrade-player').show();
+    else if (Fair.Params && Fair.Params.movie) {
+      var size = 'large',
+          sizes = { large: [220, 350], standard: [160, 240], medium: [110, 180], small: ['100%', 40], mini: [34, 18], tiny: [16, 16] };
+      size = sizes[size] || sizes['large'];
+      Fair.Player = new Swiff(Fair.Params.movie, {
+        width: size[0],
+        height: size[1],
+        id: 'fairplayer',
+        container: 'player',
+        vars: Fair.Params.flashvars
+      }).object;
+    }
+    else {
+      var links = $('player-links');
+      if (links) links.hide(true);
+    }
+  });
+/* ]]> */
 </script>
 
   
 </head>
 <body>
   <div id="left-frame">
- 	  <div id="logo"><a href="/"><span>FAIRTILIZER</span></a></div>
- 	</div>
+    <div id="logo"><a href="/"><span>FAIRTILIZER</span></a></div>
+    <div id="player">
+  <a href="http://www.macromedia.com/go/getflashplayer" target="_blank" style="visibility:hidden;" id="upgrade-player">
+    <img src="/images/nocover.png" alt=""><br>
+    You must update your Flash Player to listen to our tracks.
+  </a>
+</div>
 
- 	<div id="right-frame">
+    <table id="player-links" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+                <td><a href="#" class="popup" id="detach">detach player</a></td>
+      </tr>
+    </tbody></table>
+    <div class="banner" style="margin-top:15px;">
+  <a class="artists banner" href="/start/artists_and_labels"><img src="/images/home/banners/public.jpg" alt="Who is blogging your music?"></a>
+</div>
+
+  </div>
+  
+  <div id="right-frame">
     <div id="container">
-      <div id="upload-container"></div>
-      <div class="header" style="background:transparent;"></div>
+      <div class="header">
+	<ul>
+		<li><a href="#" class="tease">Sign in</a></li>
+		<li class="last"><a href="#" class="tease join">Join</a></li>
+	</ul>
+</div>
 
       <div class="clear"></div>
       
+	  <!--
+      <div id="navigation">
+                    </div>
+	  -->
+
       <div id="content">
-        <div class="overlay">
-  <div class="controls">
+        <div class="intro">
+  <h1><a href="/start/artists_and_labels" class="artists">host and distribute  music</a> from one single place</h1>
+    <!--
+	    <div class="enter"><a href="#" class="tease submit">sign in</a> or <a href="#" class="tease submit">join</a></div>
+    	-->
+	
+	    <div class="enter"><a href="#" class="tease submit">upload</a></div>
+    	
+</div>
+        
+  <div class="controls top">
     <div class="left info"><span>Privacy Policy</span></div>
-    <div class="right actions"><a class="close" href="#"><span>Close</span></a></div>
+    <div class="right actions"><a class="back" href="javascript:void(0);">Back</a></div>
   </div>
   <div class="terms policy">
     <h3>Information gathering and usage</h3>
@@ -70,15 +137,11 @@
     <h3>Questions</h3>
     <p>Any questions about this Privacy Policy should be addressed to <a href="mailto:support@fairtilizer.com">support@fairtilizer.com</a>.</p>
   </div>
-</div>
 
-        <div class="bottomlinks">
-          <div class="right actions">
-            <a href="#"><span>Top</span></a>
-          </div>
-        </div>
       </div>
-
+	  
+	  <div id="panel"></div>
+      
       <div class="footer">
   <div>
     <ul>
@@ -87,27 +150,28 @@
   </div>
   <div>
      <ul>
-       <li><a href="/start/about" class="overlay">About / Contact</a></li>
-       <li><a href="/start/terms" class="overlay">Terms of use</a></li>
-       <li><a href="/start/privacy_policy" class="overlay">Privacy policy</a></li>
+       <li><a class="about" href="/start/about">About / Contact</a></li>
+       <li><a class="terms" href="/start/terms">Terms of use</a></li>
+	   <li><a class="privacy" href="/start/privacy_policy">Privacy policy</a></li>
      </ul>
    </div>
    <div>
      <ul>
-       <li><a href="/start/help" class="feedback">Help / Feedback</a></li>
-       <li><a href="/start/artists_and_labels" class="overlay">Club</a></li>
-       <li><a href="/start/pro_account" class="overlay">Pro account</a></li>
+     	<li><a class="help" href="/start/help">Help / Feedback</a></li>
+		<li><a class="artists" href="/start/artists_and_labels">Club</a></li>
+		<li><a class="proaccount" href="/start/pro_account">Pro account</a></li>
      </ul>
    </div>
   <div>
     <ul>
        <li><a target="fairstatic" href="http://blog.fairtilizer.com/">Blog</a></li>
-        <li><a target="fairstatic" href="http://store.fairtilizer.com/">Store</a></li>
+        <li><a target="fairstatic" href="http://store.fairtilizer.com/" class="store">Store</a></li>
       <li><a target="fairstatic" href="http://twitter.com/Fairtilizer">Twitter</a></li>
-      <li><a target="fairstatic" href="http://www.facebook.com/pages/Fairtilizer/96512538280?ref=ts">Facebook</a></li>
+      <li><a target="fairstatic" href="http://www.facebook.com/Fairtilizer">Facebook</a></li>
     </ul>
   </div>
 </div>
+
       <div id="mask"></div>
 <div id="overlays" class="shadow" style="display:none;">
   <table class="shadow" cellspacing="0" cellpadding="0" border="0"><tbody>
@@ -121,8 +185,98 @@
   </tbody></table>
 </div>
 
+      <div id="signin-overlay" class="overlay" style="display:none;">
+  <div class="controls">
+    <div class="right actions"><a class="close" href="#"><span>Close</span></a></div>
+  </div>
+  
+  <form method="post" action="/sessions">
+    <fieldset>
+      <legend class="strong">Already a member? Sign in</legend>
+      <div class="block">
+        <table cellspacing="0" cellpadding="0" border="0" class="form">
+          <tbody><tr>
+            <td width="40%">
+              <label for="login">Username</label>
+              <input type="text" name="login" id="login" tabindex="1">
+            </td>
+            <td width="40%">
+              <label for="password">Password</label>
+              <input type="password" name="password" id="password" tabindex="2">
+            </td>
+            <td width="20%">
+              <input type="submit" class="submit" value="Sign in" tabindex="4" style="margin-top:14px;">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <div class="choices" style="margin-bottom:11px;">
+                <input type="checkbox" name="remember_me" id="remember_me" checked="checked" tabindex="3">
+                <label for="remember_me">Remember me</label>
+              </div>
+            </td>
+            <td colspan="2"><a href="/request_password" class="password official">I've lost my password</a></td>
+          </tr>
+        </tbody></table>
+      </div>
+    </fieldset>
+  </form>
+
+  <form action="/start/request_invite" method="post">    <fieldset>
+      <legend class="strong">Or join Fairtilizer today!</legend>
+      <img src="/images/icons/free.gif" alt="free" class="free">
+      <div class="block">
+        <table cellspacing="0" cellpadding="0" class="form">
+          <tbody><tr>
+            <td colspan="2" width="80%">
+              <input id="invite_email" name="invite[email]" size="30" type="text" value="Enter email address">
+            </td>
+            <td width="20%">
+              <input type="submit" class="submit" value="Join">
+              <input id="invite_partner" name="invite[partner]" type="hidden">
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <input name="invite[uploader]" type="hidden" value="0"><input id="invite_uploader" name="invite[uploader]" style="float:left; margin-top:5px;" type="checkbox" value="1">
+              <div style="margin-left:20px; border:1px solid #eee; padding:5px; background-color:#ffe;"><label for="invite_uploader" style="display:inline;">Artist, Label, Music Media?</label> Check this box to apply for an official account. <a href="/start/artists_and_labels" target="fairstatic" class="overlay official">learn more</a></div>
+            </td>
+          </tr>
+        </tbody></table>
+        <table cellspacing="0" cellpadding="0" class="form" id="uploader_data" style="display:none;">
+          <tbody><tr>
+            <td>
+              <label for="invite_first_name">First name</label>
+              <input id="invite_first_name" name="invite[first_name]" size="30" type="text">
+            </td>
+            <td>
+              <label for="invite_last_name">Last name</label>
+              <input id="invite_last_name" name="invite[last_name]" size="30" type="text">
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <label for="invite_url">Website</label>
+              <input id="invite_url" name="invite[url]" size="30" type="text">
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2"><label>You are:</label>
+              <div class="choices">
+                <input id="invite_band_or_company_artist" name="invite[band_or_company]" type="radio" value="artist"><label for="invite_band_or_company_artist">an artist</label>
+                <input id="invite_band_or_company_label" name="invite[band_or_company]" type="radio" value="label"><label for="invite_band_or_company_label">a label</label>
+                <input id="invite_band_or_company_media" name="invite[band_or_company]" type="radio" value="media"><label for="invite_band_or_company_media">a music media</label>
+              </div>
+                          </td>
+          </tr>
+        </tbody></table>
+      </div>
+    </fieldset>
+  </form></div>
+
     </div>
   </div>
+
           <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
     </script>
     <script type="text/javascript">
@@ -130,5 +284,6 @@
       urchinTracker();
     </script>
      
+
 
 </body></html>
