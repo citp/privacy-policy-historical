@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218182055id_/http%3A//www.racingone.com/genArticle.aspx%3Fartnum%3D29747) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113122516id_/http%3A//www.racingone.com/genArticle.aspx%3Fartnum%3D29747) for the most accurate reproduction.*
 
 # RacingOne.com - Privacy Policy
 
