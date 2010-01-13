@@ -1,42 +1,41 @@
-> *The following text is extracted and transformed from the gambling.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430203159id_/http%3A//www.gambling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gambling.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113021658id_/http%3A//www.gambling.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Gambling.com - Discover your luck
+# Privacy Policy | Gambling.com
 
 Media Corporation plc (“Gambling.com”) is committed to protecting its users’ privacy. This Privacy Policy (the “Privacy Policy”), as set forth below, covers Gambling.com (“Gambling.com” or the “website”) and applies solely to information collected on Gambling.com. Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on Gambling.com. This Privacy Policy may change from time to time, so please check back periodically.
 
 ## What personally identifiable information is collected from me?
 
-We recognise the importance of protecting the privacy of personally identifiable information collected about visitors to the Site. Except with respect to certain designated elements of the Site that require registration, you can use [Gambling](http://www.gambling.com/).com without divulging any personally identifiable information, including your email address. The Site does not collect personally identifiable information about you unless you expressly provide such information to us on a voluntary basis. For example, you may provide your personally identifiable information to subscribe to a magazine, to complete contest entry forms, to complete your registration on the Site or the various services offered on the Site, including community postings such as the Gambling.com Community, chats and bulletin boards. Except as described below, in those instances in which you “opt-in” to receive offers directly from our third party partners, such personally identifiable information will never be shared with third parties outside of Gambling.com and its affiliated companies or third party vendors acting on their behalf.
+We recognise the importance of protecting the privacy of personally identifiable information collected about visitors to the Site. Except with respect to certain designated elements of the Site that require registration, you can use Gambling.com without divulging any personally identifiable information, including your email address. The Site does not collect personally identifiable information about you unless you expressly provide such information to us on a voluntary basis. For example, you may provide your personally identifiable information to subscribe to a magazine, to complete contest entry forms, to complete your registration on the Site or the various services offered on the Site, including community postings such as the Gambling.com Community, chats and bulletin boards. Except as described below, in those instances in which you “opt-in” to receive offers directly from our third party partners, such personally identifiable information will never be shared with third parties outside of Gambling.com and its affiliated companies or third party vendors acting on their behalf.
 
 At any time after providing us with your personally identifiable information, you have the ability to ask that your personally identifiable information be edited or removed from our database by contacting us at the e-mail or physical address provided below under the heading “Contact Information.” We may, from time to time, give you the opportunity to receive special offers, such as newsletters, email reminders or special discounts, directly from companies with which we partner. In order to take advantage of these opportunities, you must affirmatively authorise us to share your personally identifiable information with these third party partners; we will never share such information unless you specifically “opt-in” to receive such an offer from one of our partners. Similarly, as part of certain sweepstakes entries we may also give you the opportunity to sign up to receive special offers from our advertising partners. Again, during the entry process, your information will be shared with our partners only if you take specific action to indicate that you would like us to do so.
 
 You may choose to provide us with the certain personally identifiable information when using the Site or the various services offered on the Site, including:
 
-  * Your name
-  * Your birth date
-  * Your home contact information (physical address and/or phone number)
-  * Online contact information (email address)
-  * Your login information
+  * Your name 
+  * Your birth date 
+  * Your home contact information (physical address and/or phone number) 
+  * Online contact information (email address) 
+  * Your login information 
 
 
 
 In addition, at times, we may ask you to provide non-personally identifiable information about yourself that may be linked with your personally identifiable information you provide. Provision of this information is optional. Such information includes:
 
-  * TV service provider
-  * Gender
-  * Preferences (what you like or dislike)
-  * Survey answers (votes and ratings of TV shows)
+  * TV service provider 
+  * Gender 
+  * Preferences (what you like or dislike) 
+  * Survey answers (votes and ratings of TV shows) 
 
 
 
-## What non-personally identifiable information is collected automatically?
-
+What non-personally identifiable information is collected automatically?  
 We automatically collect certain non-personally identifiable information from you to optimize our web pages for your computer such as:
 
-  * clickstream information (internet protocol (“IP”) address, internet service provider, platform type, date/time stamp) http protocol information (last URL requested and browser type)Your birth date
-  * interaction information (browser interaction such as when the mouse moves over an image)
-  * computer information (computer and browser information)
-  * search terms (search text)
+  * Clickstream information (internet protocol (“IP”) address, internet service provider, platform type, date/time stamp) http protocol information (last URL requested and browser type)Your birth date 
+  * Interaction information (browser interaction such as when the mouse moves over an image) 
+  * Computer information (computer and browser information) 
+  * Search terms (search text) 
 
 
 
@@ -50,7 +49,9 @@ We may also use the statistical compilation and aggregation of non-personally id
 
 We may also disclose your personally identifiable information to any third party as we, in our sole discretion, believe necessary or appropriate, in connection with a merger or consolidation with such third party or the sale of some or all of our assets, provided that such third party agrees to comply with the then-current version of this Privacy Policy.
 
-How is my information kept secure? We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Sites, and we periodically review and update security measures in light of current technologies.
+## How is my information kept secure?
+
+We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Sites, and we periodically review and update security measures in light of current technologies.
 
 ## What do I need to know about third party sites, co-branded sites, and Gambling.com’s online business partners?
 
@@ -72,11 +73,10 @@ We will occasionally update this Privacy Policy. When we do, we will also revise
 
 ## Contact Information
 
-You can review and update your personally identifiable information (such as phone, e-mail or postal address) by contacting us at [feedback@Gambling.com](mailto:feedback@Gambling.com) or at the physical address listed below. You may also request that we remove your personally identifiable information from our database. Magazine subscribers may visit Magazine Customer Support to update their account and subscription information.
+You can review and update your personally identifiable information (such as phone, e-mail or postal address) by contacting us at feedback@Gambling.com or at the physical address listed below. You may also request that we remove your personally identifiable information from our database. Magazine subscribers may visit Magazine Customer Support to update their account and subscription information.
 
 If you have any questions or comments about this Privacy Policy, please contact us at:
 
-Gambling.com Customer Service  
+**Gambling.com Customer Service  
 77 Queen Victoria St  
-London, EC4V 4AY  
-E-mail: [jamesm@gambling.com](mailto:jamesm@gambling.com)
+London, EC4V 4AY**
