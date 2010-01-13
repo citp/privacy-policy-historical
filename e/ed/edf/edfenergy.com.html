@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edfenergy.com privacy policy that was archived on 2009-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090417015743id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edfenergy.com privacy policy that was archived on 2010-01-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100113122308id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:xalan-nodeset="http://xml.apache.org/xalan" xmlns:java="http://xml.apache.org/xslt/java"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -201,25 +201,53 @@ If you have any questions in relation to the Conditions of Use or the Privacy Po
 	
 </ul>
 
-<p class="copy">© EDF Energy 2009 All rights reserved</p></div>
+<p class="copy">© EDF Energy 2010 All rights reserved</p>
+</div>
+
+<script type="text/javascript" src="/includes/js/edf-analytics.min.js" language="JavaScript"></script>
+
 
 <script type="text/javascript">
+	var domains = new Array("savetodaysavetomorrow.com");
+	function addAnalyticsOnload() {
+		if (window.addEventListener) {
+			window.addEventListener('load',function() {attachCrossDomainAnalytics(domains)},false);
+			window.addEventListener('load',attachLinkTracking,false);
+			window.addEventListener('load',attachFormTracking,false);
+		}
+		else if (window.attachEvent) {
+			window.attachEvent('onload',function() {attachCrossDomainAnalytics(domains)});
+			window.attachEvent('onload',attachLinkTracking);
+			window.attachEvent('onload',attachFormTracking);
+		} else {
+			document.addEventListener('load',function(){attachCrossDomainAnalytics(domains)}, false);
+			document.addEventListener('load',attachLinkTracking,false);
+			document.addEventListener('load',attachFormTracking, false);
+		}
+	}
+	addAnalyticsOnload();
+</script>
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-3451254-5");
-
-pageTracker._initData();
-
+try {
+var pageTracker = _gat._getTracker("UA-3451254-5"); pageTracker._setDomainName(".edfenergy.com");
+pageTracker._setAllowLinker(true);
+pageTracker._setAllowHash(false);
 pageTracker._trackPageview();
 
+var globalTracker = _gat._getTracker("UA-9018886-1"); globalTracker._setDomainName(".edfenergy.com");
+globalTracker._setAllowLinker(true);
+
+globalTracker._setAllowHash(false);
+globalTracker._trackPageview();
+} catch(err) {}
 </script>
+
 </div>
                 <br>
             </div>
