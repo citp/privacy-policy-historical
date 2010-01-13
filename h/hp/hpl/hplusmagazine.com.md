@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928042657id_/http%3A//www.hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032719id_/http%3A//www.hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | h+ Magazine
 
