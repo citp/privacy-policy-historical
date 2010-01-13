@@ -1,64 +1,68 @@
-> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617213418id_/http%3A//officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032128id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# OfficialWire: The Official News Source
+# OfficialWire: The Affordable Business Wire of Choice For PR Professionals
 
-OfficialWire is owned by Mayside, Inc. Your privacy on the Internet is of the utmost importance to us. Because this Website gathers certain types of information about the users of OfficialWire's Websites and services, the operator feels you should understand OfficialWire's policies surrounding the collection and use of that information. This privacy statement discloses what information is gather, how we use it, and how to correct or change it. 
+## Privacy Statement
 
-**Information Gathered by OfficialWire**  
-For visitors to our Website, subscribers to our news notifications, and clients and prospective clients of our service (collectively referred to as a "User" or "Users"), we log standard technical information such as your IP address. We use this information to help diagnose problems with our service, and to administer our Website. For example, your IP address may be used to help identify you and your account information and to gather broad demographic information.
+Thank you for visiting OfficialWire.com. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this website. 
 
-Our Website uses cookies to keep track of your account. We also use cookies to deliver content specific to you.
+**The Information We Collect**   
+On OfficialWire.com, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, email address, telephone number, fax number and information about your interests in and use of various products, programs, and services. 
 
-OfficialWire requires registration for certain services, such as the distribution of your press releases, and our Website may contain order forms for other products and services or online surveys. In order to provide our services to you, we may ask you for contact information (like name and Email address), financial information (like account and/or credit card numbers), and demographic information (like zip code and age).
+On OfficialWire you can submit information about other people. For example, you might submit a person's name and email address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, email address, and telephone number. 
 
-**OfficialWire's Use of Information**  
-We may use your contact information to send you information about our company or our advertisers, however, you may opt-out of receiving such mailings (see the Client Prospects and Subscribers sections below). We use financial information to bill you for products and services. Demographic and profile data is also collected at our Website. We use this data to tailor your experience at our Website, to deliver content that we think you might be interested in, and to display the content according to your preferences. We may share aggregate information about our users with third parties, such as advertisers.
+At certain parts of our website, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the website's activities and offerings. 
 
-OfficialWire may also disclose your personal information, the contents of your communications, and/or your contact and financial information if required to do so by law, or with your consent, or in the good faith belief that such action is necessary: 
+We also may collect certain non-personally identifiable information when you visit many of our webpages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink, etc.). 
 
-  * to conform to the edicts of the law or comply with a legal process served on OfficialWire;
-  * to protect and defend the rights or property of OfficialWire or others; or
-  * to assist, under exigent circumstances, in the investigation of securities law violations or other investigations.
+**How We Use The Information**   
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
-It is possible that as we continue to develop our business, OfficialWire might be acquired. In such a transaction, your information may be transferred to the acquiring entity. 
+We sometimes use this information to communicate with you, such as to notify you when news or information has been posted or published on OfficialWire or to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
-**Advertisers and Other Third Parties**  
-This Website contains links to other Websites. OfficialWire is not responsible for the privacy practices or the content of such Websites.
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-We use a third party ad company to display ads on our Website. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by the third party ad company, and we do not have access to this information. The privacy practices of companies who provide services or ads through our Website are not covered by this Privacy Statement. Please contact those companies directly for more information about their privacy practices.
+If you choose to submit content for publication (e.g., articles, press releases, classified ads, letters to our editors, comments associated with articles and or a posting to a blog or a discussion board), we may publish your screen name and other information you have provided to us. 
 
-**Changes to Our Policies**  
-OfficialWire's Privacy Statement may change from time to time. If we make any substantive changes to our policies, we will notify you by sending Email to the address provided by you, or by posting notice of changes to this Website. Your use of the Website after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
-**Security**  
-This Website has industry standard security measures in place to protect against the loss, misuse or alteration of the information under our control, but we cannot guarantee complete security.
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of service, to verify or enforce compliance with the policies governing our Web Site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company. Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us. 
 
-**Use by Minors Prohibited**  
-OfficialWire is not intended for and should not be used by anyone under the age of 18. OfficialWire complies with the Children's Online Privacy Protection Act and does not permit registration or use by anyone under the age of 13.
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement. 
 
-**International Users**  
-If you are an international User, by registering with OfficialWire or by using our service, you agree that we may collect, use, and transfer your information as described in this Privacy Statement. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by contacting us.
+OfficialWire may disclose personally identifiable information to companies whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure. 
 
-**Clients**  
-Clients who have registered in order to use our services can change or update their account information and preferences by visiting [**Log in**](https://web.archive.org/web/20060617213418id_/http%3A//officialwire.com/user_area.php)
+We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you have signed up to receive our emails and prefer not to receive marketing information from this website, follow the "unsubscribe" instructions provided on any marketing email you receive from this website. 
 
-**Client Prospects**  
-From time to time we will Email client prospects whom we have reason to believe might be interested in our services because of their involvement in the public relations, investor relations, or related fields. Prospects can opt-out of future communications simply by visiting [**Cancel**](https://web.archive.org/web/20060617213418id_/http%3A//officialwire.com/main.php?action=cancel.notification)
+Finally, the websites covered by this Privacy Statement will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-**Subscribers**  
-We provide subscribers to our Email news notifications with the opportunity to opt-out of receiving promotional communications at the point when we request your information. After they have signed up, subscribers can change their preferences regarding promotional communications, can subscribe to and/or unsubscribe from any of our Email news notifications, and can modify other registration information previously provided to us by visiting [**Cancel**](https://web.archive.org/web/20060617213418id_/http%3A//officialwire.com/main.php?action=cancel.notification)
+**Cookies & Web Beacons**   
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish The website with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-**Contacting the Website**  
-If you have any questions about this Privacy Statement, the practices of OfficialWire, or your dealings with this Website, you can contact us at the postal address, phone number, fax number, or Email address listed below.
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
 
-**G Smith.**  
-Ornos  
-846 00 Mykonos  
-Greece  
-Tel/Fax: (+30) 2289027284  
-[**Email Website**](https://web.archive.org/web/20060617213418id_/http%3A//officialwire.com/static.php?action=email_us)
+"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this website from time to time for this and other purposes. 
 
-Revised: February 18, 2006
+**Collection Of Information By Third-Party Websites, Ad Servers, & Sponsors**   
+Some of our sites contain links to other websites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
-  
+The website covered by this Privacy Statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the website activity. We have no control over these third parties' use of this information. The website will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
+**Our Commitment To Security**   
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+
+**How You Can Access Or Correct Information**   
+Access to personally identifiable information that is collected from our website may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our website, you can access that account to review the information you provided. 
+
+You may send an [email](https://web.archive.org/web/20100113032128id_/http%3A//www.officialwire.com/static.php?action=email_us) requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, email address and the password you use for said service.
+
+**Special Note For Parents**   
+The website you are visiting is one of our general audience sites. For more information about our online privacy practices for children's websites, consult the privacy notice at the children's website in which you are interested. 
+
+**How To Contact Us**   
+If you have any questions or concerns about the online privacy statement for this website or its implementation you may contact us by [email](https://web.archive.org/web/20100113032128id_/http%3A//www.officialwire.com/static.php?action=email_us). 
+
+**Updates & Effective Date**   
+From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+
+The Privacy Statement posted on this website was updated on or about October 11, 2007. 
