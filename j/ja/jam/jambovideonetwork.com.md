@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambovideonetwork.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503063924id_/http%3A//jambovideonetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambovideonetwork.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113084815id_/http%3A//www.jambovideonetwork.com/privacy.html) for the most accurate reproduction.*
 
 # The Jambo Video Network - Say Hello to Video
 
