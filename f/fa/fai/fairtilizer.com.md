@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairtilizer.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704104558id_/http%3A//fairtilizer.com/start/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairtilizer.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113034030id_/http%3A//fairtilizer.com/start/privacy_policy) for the most accurate reproduction.*
 
 # Start - Privacy_policy, on Fairtilizer
 
