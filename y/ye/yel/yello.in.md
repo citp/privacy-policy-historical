@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yello.in privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625161315id_/http%3A//www.yello.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yello.in privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113125056id_/http%3A//www.yello.in/privacy.php) for the most accurate reproduction.*
 
 # Yello.in - Free Classifieds for Cars, Real Estate, Jobs in India
 
