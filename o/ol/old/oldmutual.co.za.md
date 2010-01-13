@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720030016id_/http%3A//www.oldmutual.co.za/help/site-usage-and-information/terms-of-use/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113233929id_/http%3A//www.oldmutual.co.za/help/site-usage-and-information/terms-of-use/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Old Mutual - Privacy Policy
+# Old Mutual - Old Mutual - Privacy Policy
+
+## Privacy Policy
 
 "The companies in the Old Mutual Group represented on this website (“Old Mutual”) and its employees respect your privacy and the confidentiality of your personal information.
 
