@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezycashgifts.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227043730id_/http%3A//www.ezycashgifts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezycashgifts.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113024521id_/http%3A//ezycashgifts.com/privacy.php) for the most accurate reproduction.*
 
 # EzyCashGifts-Receive Unlimited Cash Gifts Directly To Your Alertpay!
 
@@ -24,19 +24,18 @@
 > **Changes Made To Our Privacy Policy**  
 >  From time to time, we make changes to our privacy policy. All changes to our privacy policy will be posted here, and it is the consumer's responsibility to frequently check our privacy policy for such changes.
 
-|   | 
+|   |  | 
+
+**[Terms](https://web.archive.org/web/20100113024521id_/http%3A//ezycashgifts.com/terms.php?f=)**
 
 | 
 
-**[Terms](https://web.archive.org/web/20090227043730id_/http%3A//www.ezycashgifts.com/terms.php?f=)**
+**[Privacy](https://web.archive.org/web/20100113024521id_/http%3A//ezycashgifts.com/privacy.php?f=)**
 
 | 
 
-**[Privacy](https://web.archive.org/web/20090227043730id_/http%3A//www.ezycashgifts.com/privacy.php?f=)**
-
-| 
-
-**[Earning Disclaimer](https://web.archive.org/web/20090227043730id_/http%3A//www.ezycashgifts.com/earning.php?f=)**
+**[Earning Disclaimer](https://web.archive.org/web/20100113024521id_/http%3A//ezycashgifts.com/earning.php?f=)**
 
 |   
----|---|---|---|---|---
+---|---|---|---|---|---  
+\-- 
