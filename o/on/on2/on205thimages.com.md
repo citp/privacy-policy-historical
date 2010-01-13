@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the on205thimages.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171831id_/http%3A//on205thimages.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on205thimages.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113030913id_/http%3A//on205thimages.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # on 205th Images » More Information » Privacy Policy
+
+  |  |   |  |    
+---|---|---|---|---  
+  
+[**CHECK OUT THESE HILARIOUS VIDEOS!**](http://www.funnyhub.com/) \-- [**CHECK OUT THESE HILARIOUS VIDEOS!**](http://www.funnyhub.com/) \-- [**CHECK OUT THESE HILARIOUS VIDEOS!**](http://www.funnyhub.com/)
 
 When you sign up for an account with on 205th Images, we collect personal information from you including your e-mail address, and a password. 
 
