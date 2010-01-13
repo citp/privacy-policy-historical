@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strikingoffers.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909085449id_/http%3A//strikingoffers.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strikingoffers.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032136id_/http%3A//strikingoffers.com/docs/privacy.html) for the most accurate reproduction.*
 
 # StrikingOffers
 
