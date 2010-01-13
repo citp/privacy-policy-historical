@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229030425id_/http%3A//walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp%3Ffoot%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113071018id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | Walgreens
 
