@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleystewart.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212072345id_/http%3A//www.ashleystewart.com/ashleystewart/myaccount/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleystewart.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113215656id_/http%3A//www.ashleystewart.com/ashleystewart/myaccount/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Ashley Stewart provides plus size style and fashion to full figured women of sizes 12 to 26
 
