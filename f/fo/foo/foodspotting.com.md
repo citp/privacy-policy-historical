@@ -1,0 +1,89 @@
+> *The following text is extracted and transformed from the foodspotting.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113103531id_/http%3A//www.foodspotting.com/privacy) for the most accurate reproduction.*
+
+# Foodspotting / Privacy Policy
+
+* **Overview**
+
+Foodspotting provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of the Foodspotting Service, including but not limited to the website at http://www.foodspotting.com, the food@foodspotting.com email address and the mobile applications created by Foodspotting.
+
+Foodspotting reserves the right to modify the Privacy Policy without explicit notice. Continued use of the Service after any such changes shall constitute your consent to such changes. You are responsible for reviewing our current Privacy Policy at [http://www.foodspotting.com/privacy](https://web.archive.org/privacy)
+
+This privacy policy applies to your use of the Foodspotting Service, but not does apply to any third party sites that may be linked to them, or any relationships you may have with the business listed on the Foodspotting.com Service, nor to individuals Foodspotting does not employ or manage.
+
+The terms "We", "Us", "Service" and "Foodspotting" refer to the Foodspotting Service. The terms "You" and "Your" refer to you, as a user of any of the Foodspotting Service. The term "Personal Information" and "Your Information" means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information. "Your Public Content" refers to the information that you submit or post to the Foodspotting Service for public display, such as a sightings, reviews, photos, and your public profile information, including your public name (your "Display Name").
+
+BY USING THE FOODSPOTTING SERVICE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE FOODSPOTTING SERVICE.
+
+By using our Service you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By using our Service and providing information to us, you consent to such transfer to, and processing in, the US.
+
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [support@foodspotting.com](mailto:support@foodspotting.com). 
+
+* **Information Collection and Use**
+
+Our primary goal in collecting Personal Information is to provide you with a personalized, useful, and efficient experience. We collect the following types of information from our users:
+
+Personal Information. If you create an account to take advantage of the full range of services offered on the Foodspotting Service, we ask for and record Personal Information such as your email address. Your Personal Information will not be visible to other users.
+
+Your Public Content. By submitting Your Public Content to Foodspotting, including your public profile information such as your Display Name, you recognize that we store and may publicly display Your Public Content, along with your Display Name, in order to provide the services that we offer.
+
+Feedback. If you contact us to provide feedback, register a complaint, or ask a question, we will record any Personal Information and other content that you provide in your communication so that we can effectively respond to your communication.
+
+Activity. We record information relating to your use of the Foodspotting Service, such as the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the Foodspotting Service and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Foodspotting Service. You cannot be identified from this aggregate information.
+
+Login location. When you sign into Foodspotting, we use your approximate physical location (based on the Internet Protocol address of your computer or your Current Location, should you choose to provide it, via your iPhone) to provide more relevant suggestions to you.
+
+Cookies. We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term "cookies" refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the Service. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Foodspotting Service may not work properly or at all.
+
+Enforcement. We may use the information we collect in connection with your use of the Service (including your Personal Information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.
+
+* **Transfer of Information**
+
+We may distribute Your Public Content to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish Your Public Content in connection with their own websites and media platforms. When we distribute Your Public Content to third parties, we typically include your Display Name (but not your Personal Information unless you include your Personal Information in Your Public Content).
+
+We may share your Personal Information with third parties to provide you with services that we offer through Foodspotting Service, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your Personal Information other than to provide the services requested by you.
+
+We may share your Personal Information with subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your Personal Information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
+
+We may disclose your Personal Information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
+
+We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
+
+We may use third party advertising companies to serve ads when you visit the Foodspotting Service. These companies may use information about Your Public Content (not including your name, address, email address, or telephone number) and Activity related to your use of the Foodspotting Service to provide advertisements about goods and services of interest to you.
+
+* **Others' Information**
+
+You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their Personal Information. We may disclose such information if required to do so in order to comply with legal process, as described above.
+
+* **Links**
+
+The Foodspotting Service may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your Personal Information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
+
+* **Controlling Your Personal Data**
+
+To the extent you include Personal Information in Your Public Content (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Please do not include information in Your Public Content that you expect to keep private.
+
+Third parties can also associate you with your user account using the user search and browse features of the Foodspotting Service, which display Your Public Content. Third parties can only find you using your Personal Information if they know this information in the first place.
+
+You may request to deactivate your account at any time by contacting Foodspotting. If you deactivate your account, we will use commercially reasonable efforts to stop displaying your profile on the Service. Public Content that you have contributed to Foodspotting prior to account deactivation (such as sightings of food or comments on sightings) may continue to displayed. We may still retain your Personal Information and Your Public Content in our systems. Registered users who wish to close their account should contact us at [support@foodspotting.com](mailto:support@foodspotting.com). 
+
+* **Security**
+
+Your account is password protected. We use industry standard measures to protect the Personal Information that is stored in our database. Your password will never be visible to members of the Foodspotting team.
+
+We are very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your Personal Information will never be disclosed.
+
+You hereby acknowledge that Foodspotting is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+
+We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+* **E-mails**
+
+We use your email address to send you updates and news and to notify you on behalf of other users (such as other users who comment on or "want" your sighting). Your email address and Personal Information will not be displayed publicly.
+
+* **Membership policy for children.**
+
+Our Service and the services available through Foodspotting are not intended for children under the age of 13. Foodspotting does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents' consent before giving out any Personal Information.
+
+* **Questions or Concerns**
+
+If you have any questions or concerns regarding privacy, please contact us at [support@foodspotting.com](mailto:support@foodspotting.com). Your privacy is important to us and we will make every effort to resolve your concerns. 
