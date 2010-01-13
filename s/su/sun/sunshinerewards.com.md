@@ -1,39 +1,20 @@
-> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211172731id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113074527id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
 
 # Earn Rewards for Reading Email, Shopping, and Surfing at Sunshine Rewards
 
-[](http://www.addthis.com/bookmark.php)
-
-**[Follow us on Twitter](http://www.twitter.com/sunshinerewards)**
-
-[ ](http://www.sunshinerewards.com/learnmore.php)  
-Watch our Intro Video
-
-Hot Shopping Links:
-
-[ Free Shipping Offers](http://www.sunshinerewards.com/freeshipping.php)  
-[ Cash Back on Gift Cards](http://www.sunshinerewards.com/category/gift-certificates)  
-[ Valentine's Day Gift Ideas](http://www.sunshinerewards.com/category/valentines-gifts/)
-
- Featured Stores
-
-[](http://www.sunshinerewards.com/shopping/Ice/)
-
-[ ](http://www.sunshinerewards.com/shopping/1-800-FLORALS/)
-
-[ ](http://www.sunshinerewards.com/shopping/CrazyforBargains/)
+[ ](http://www.sunshinerewards.com/shopping/MedifastDiet)
 
  Featured Offers
 
-[ ](http://www.sunshinerewards.com/offers.php?oid=2926)
+[ ](http://www.sunshinerewards.com/offers.php?oid=471)
 
 * * *
 
 [Sunshine Rewards Videoblog](http://www.sunshinerewards.com/videoblog)
 
-[Space Bags at Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2009/02/05/space-bags-at-sunshine-rewards/)
+[Merry Christmas from Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2009/12/21/merry-christmas-from-sunshine-rewards/)
 
-[Sunshine Rewards Partners with Loxly Gallery Passion Collection](http://www.sunshinerewards.com/videoblog/2009/01/28/sunshine-rewards-partners-with-loxly-gallery-passion-collection/)
+[She Shops Around 17: Last Minute Gifts](http://www.sunshinerewards.com/videoblog/2009/12/15/she-shops-around-17-last-minute-gifts/)
 
 * * *
 
