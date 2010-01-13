@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212153420id_/http%3A//www.eurocarparts.com/ecp/s/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113063047id_/http%3A//www.eurocarparts.com/ecp/s/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Euro Car Parts UK’s No.1 for Car Parts
 
