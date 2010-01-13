@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327043427id_/http%3A//webng.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113034357id_/http%3A//www.webng.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,6 +47,14 @@ We use your unique network address (IP address) to help diagnose problems with o
 **Cookies  
 **   
 We may use "cookies" to track how users use our web site. A cookie is a piece of software that a web server can store on the users' computer and use to identify the user should they visit the web site again. While not all of the information that we collect from users is personally identifiable, it may be associated with personally identifiable information that users provide us through our web site.  We gather this information for internal use only and will never authorize the release of this information with anyone. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Edit and Delete Your Account Information.**
 
