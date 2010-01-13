@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416202821id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillpod.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113154610id_/http%3A//www.skillpod.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # SkillPod Media (Pty) Ltd Privacy Policy
 
@@ -24,15 +24,15 @@ SkillPod Media (Pty) Ltd takes your privacy seriously. Please read the following
 Contact Information   
 We invite you to contact us if you have questions about this privacy policy. 
 
-Our Internet address is located at [http://www.skillpod.com](http://www.skillpod.com/)
+Our Internet address is located at [http://www.skillpodmedia.com](http://www.skillpodmedia.com/)
 
 **SkillPod Media (Pty) Ltd  
 180 Lenchen Ave Lyttelton Manor   
 Centurion 0157   
 Gauteng South Africa **
 
-You may contact us by e-mail at [info@SkillPodMedia.com](mailto:info@SkillPodMedia.com)   
-You may contact us by phone on 27126655085 
+You may contact us by e-mail at [Info@SkillPodMedia.com](mailto:info@SkillPodMedia.com)   
+You may contact us by phone on 27126640071 
 
 
 
