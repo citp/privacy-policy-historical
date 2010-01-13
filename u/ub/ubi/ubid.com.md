@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417220009id_/http%3A//www.ubid.com/help/policies_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113020619id_/http%3A//www.ubid.com/help/policies_privacy.asp) for the most accurate reproduction.*
 
 # uBid.com - Help Pages
 
