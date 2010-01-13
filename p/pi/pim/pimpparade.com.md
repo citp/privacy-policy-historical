@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimpparade.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211223753id_/http%3A//shadypi.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimpparade.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113190501id_/http%3A//shadypi.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
