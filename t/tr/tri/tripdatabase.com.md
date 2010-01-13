@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripdatabase.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008035526id_/http%3A//www.tripdatabase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripdatabase.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113233032id_/http%3A//www.tripdatabase.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
