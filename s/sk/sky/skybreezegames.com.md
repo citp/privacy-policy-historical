@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819084442id_/http%3A//www.skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybreezegames.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113031541id_/http%3A//www.skybreezegames.com/siteInfo/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
