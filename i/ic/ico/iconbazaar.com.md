@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconbazaar.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926202419id_/http%3A//iconbazaar.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconbazaar.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113230404id_/http%3A//www.iconbazaar.com/privacy/index.html) for the most accurate reproduction.*
 
 # IconBAZAAR - Privacy Policy
 
