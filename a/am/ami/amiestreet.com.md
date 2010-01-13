@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the amiestreet.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316065843id_/http%3A//amiestreet.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiestreet.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113074556id_/http%3A//amiestreet.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amie Street
+
+  * [Home](https://web.archive.org/)  > 
+  * Privacy Policy
+  * For the next 24 hours get 25% off when you purchase credit! 
+
+
 
 Our privacy policy is designed to let you know what information we collect from you, how that information is used, and how can you tailor your Amie Street experience to your personal preferences. For complete details, please see the [Terms Of Agreement ](https://web.archive.org/page/user-agreement).
 
