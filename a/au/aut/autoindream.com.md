@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoindream.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129071314id_/http%3A//autoindream.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoindream.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113040132id_/http%3A//autoindream.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.AutoInDream.Com
 
