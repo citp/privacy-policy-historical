@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416054835id_/http%3A//osh.com/Cultures/en-US/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113053433id_/http%3A//www.osh.com/Cultures/en-US/PrivacyPolicy) for the most accurate reproduction.*
 
 # Orchard Supply Hardware - Privacy Statement
 
