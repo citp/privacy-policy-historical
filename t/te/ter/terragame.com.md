@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terragame.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826074538id_/http%3A//www.terragame.com/terraprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terragame.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113041933id_/http%3A//www.terragame.com/terraprivacy.html) for the most accurate reproduction.*
 
 # Terragame: downloadable game collection. Download full and trial games online, read reviews, try demos, see screenshots for modern PC games, classic and newest.
 
