@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
+
+  * [Home](https://web.archive.org/?centre=med "www.virtualmedicalcentre.com home page")
+  * [Health A-Z](https://web.archive.org/web/20100113023830id_/http%3A/health_A-Z.asp "Health A-Z")
+  * [Calculators](https://web.archive.org/web/20100113023830id_/http%3A/tools.asp "Medical calculators")
+  * [Men](https://web.archive.org/web/20100113023830id_/http%3A/?centre=men "Men's health")
+  * [Women](https://web.archive.org/web/20100113023830id_/http%3A/?centre=wom "Women's health")
+  * [Drugs & Supplements](https://web.archive.org/web/20100113023830id_/http%3A/drugsandsupplements.asp "Drugs and supplements")
+  * [Health & Lifestyle](https://web.archive.org/web/20100113023830id_/http%3A/healthandlifestyle.asp "Health and lifestyle")
+  * [About Us](https://web.archive.org/web/20100113023830id_/http%3A/aboutus.asp "About virtualmedicalcentre.com")
+  * [advertisementBiggest Loser](https://web.archive.org/web/20100113023830id_/http%3A/biggestloser.asp "Biggest Loser")
+  * [Visum](https://www.visum.com.au/ "Visum connects the community of Australian doctors in real time to exchange medical knowledge and ideas. ")
+
+
 
 ## Privacy Policy
 
@@ -30,7 +43,7 @@ VMC may vary this privacy policy from time to time. The updates will be posted o
   * The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. VMC analyses our site logs to continually improve the value of the materials available on our site. Our site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse this site.
   * VMC will not collect your personal information unless you have consented and given it to us.
   * Where and what personal information is collected and how it is used: 
-    * [Sign-up page](https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/signup.asp)
+    * [Sign-up page](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/signup.asp)
       * General Patient Membership 
         * What personal information is collected: If you sign-up as a patient member of the site, the following information is collected: title, name, username, password, gender, year of birth, your interest in receiving our patient email publications and your interest in receiving marketing materials from Telstra.
         * How this personal information is used: This information is used to identify you, so you can log into the site, for correspondence with you (if you opt to receive VMC publications) and for VMC internal statistics purposes.
@@ -39,18 +52,18 @@ VMC may vary this privacy policy from time to time. The updates will be posted o
         * What personal information is collected: If you are signing up as a health professional, the following information is collected: title, name, username, password, gender, year of birth, professional area, professional body provider number, areas of interest, if you are interested in receiving VMC professional email and print publications and your interest in receiving marketing materials from Telstra.
         * How this personal information is used: For health professionals, professional body numbers are collected to ensure that you are in fact a health professional, in order to view the password-secure professional level of information.
         * If you opt in to receive marketing materials from Telstra, this personal information will be passed onto them and they will deal with it in accordance with their privacy policy located at <http://www.telstra.com.au/privacy/privacy_statement.html>.
-    * [Surveys](https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/survey.asp)
+    * [Surveys](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/survey.asp)
       * Surveys are conducted on both the website and enewsletters. They are optional. 
         * What information is collected: Health surveys collect opinions on a health topic- the opinions are recorded but are anonymous.
         * User acceptance surveys collect opinions of the services VMC provide, an email and username.
         * How this information is used: Health surveys are used for health promotion purposes.
         * User acceptance surveys are used to improve the services VMC provide.
-    * [Continuing Medical Education (CME) (Health Professionals only)](https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/education.asp)
+    * [Continuing Medical Education (CME) (Health Professionals only)](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/education.asp)
       * What personal information is collected: The CME program collects the following information from health professionals who choose to participate in the education program: title, name, email, username, password, college, college identification number.
       * The health professional also submits educational materials (including edited disease information, research on relevant clinical trials, case study and clinical audit).
       * How this personal information is used: This personal information is collected for identification purposes and accreditation with CME points (if work is of a sufficient standard).
       * The educational materials are collected for marking purposes by the specialist mentoring the GP.
-    * [Tools](https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/tools.asp)
+    * [Tools](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/tools.asp)
       * What personal information is collected: Tools collect your responses to the questions in the tool. Some tools are for health promotion purposes, some for symptom management, some for investigation analysis and some for drug dose conversions.
       * Some tools give the option for you to enter your name so you can print the tool and results and take it to the doctor with you. However, we do not save your name.
       * How this personal information is used: We may look at responses to the tools for statistical purposes only.
@@ -68,7 +81,7 @@ VMC may vary this privacy policy from time to time. The updates will be posted o
 
   * Every effort is made to ensure that personal information held on members is current, accurate and complete.
   * You can review any personal information VMC collects about you. You may recommend changes to personal information you believe is an error by submitting a written request.
-  * If you believe that your personal information is being used for a purpose other than what you intended it for, [contact VMC](https://web.archive.org/web/20090219001154id_/http%3A//www.virtualmedicalcentre.com/contactus.asp).
+  * If you believe that your personal information is being used for a purpose other than what you intended it for, [contact VMC](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/contactus.asp).
   * A member´s identity needs to be validated before his⁄her personal information is divulged when requested. In all cases, VMC will take reasonable steps to verify your identity before granting access to personal information or making corrections. If in doubt we do not divulge any information.
 
 
@@ -90,7 +103,8 @@ VMC may vary this privacy policy from time to time. The updates will be posted o
 
 
 
-  
+###### Current Sponsors
 
+###### Current Sponsors
 
-[](http://www.addthis.com/bookmark.php)
+[](https://web.archive.org/web/20100113023830id_/http%3A//www.virtualmedicalcentre.com/aboutus.asp#partners)
