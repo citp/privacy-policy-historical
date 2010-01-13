@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeindia.in privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627034528id_/http%3A//www.bikeindia.in/global/Privacy-Policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeindia.in privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113115825id_/http%3A//www.bikeindia.in/global/Privacy-Policy/) for the most accurate reproduction.*
 
 # Privacy Policy
 
