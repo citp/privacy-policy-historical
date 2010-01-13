@@ -1,54 +1,47 @@
-> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423003443id_/http%3A//itracks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113042446id_/http%3A//www.itracks.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statements
+# Itracks - Experts in Online Research - Leading Provider of Online Focus Groups
 
-**Itracks Privacy Statement**
+Itracks - Experts in Online Research is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Itracks - Experts in Online Research Web site and governs data collection and usage. By using the Itracks - Experts in Online Research website, you consent to the data practices described in this statement.
 
-Interactive Tracking Systems Inc. (hereafter known as Itracks) takes the privacy of those using our sites and products very seriously. Itracks is a provider of online tools for the market research industry. As such, we may from time to time gather information about clients and the public to ensure we are providing the best services possible. All information collected is held with the strictest confidence and is stored within Itracks internal servers.
+Collection of your Personal Information
 
-To help you protect your privacy, we provide this notice to explain our practices of collecting online information and give you important information about your role in this collection.
+Itracks - Experts in Online Research collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Itracks - Experts in Online Research also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
- **What Type of Information is Collected?**
+There is also information about your computer hardware and software that is automatically collected by Itracks - Experts in Online Research . This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Itracks - Experts in Online Research for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Itracks - Experts in Online Research Web site.
 
-At Itracks.com, the Research Center, and other online products, you may have the option to order products or demos, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services (like our online newsletter), or participate in one of our online forums (Online Focus Group or Bulletin Board Focus Group).
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Itracks - Experts in Online Research public message boards, this information may be collected and used by others. Note: Itracks - Experts in Online Research does not read any of your private online communications.
 
-At these pages we may or may not ask for information including name, address, email, phone and fax numbers, corporate information, interest in products/areas, and other information directly related to Itracks' services. You may, in the case of the Research Center, be asked to submit information about other people as well including their name and corporate affiliation for administrative purposes.
+Itracks - Experts in Online Research encourages you to review the privacy statements of Web sites you choose to link to from Itracks - Experts in Online Research so that you can understand how those Web sites collect, use and share your information. Itracks - Experts in Online Research is not responsible for the privacy statements or other content on Web sites outside of the Itracks - Experts in Online Research and Itracks - Experts in Online Research family of Web sites.
 
-Itracks also collects information that is considered non-personally identifiable, including the type of browser and operating system you are using. This information helps us create the best websites and products for the broadest range of users.
+Use of your Personal Information
 
- **What Does Itracks Do With the Information?**
+Itracks - Experts in Online Research collects and uses your personal information to operate the Itracks - Experts in Online Research Web site and deliver the services you have requested. Itracks - Experts in Online Research also uses your personally identifiable information to inform you of other products or services available from Itracks - Experts in Online Research and its affiliates. Itracks - Experts in Online Research may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Itracks uses the information you provide to best fulfill your requests for our products, programs, and services, to adequately respond to inquiries, as well as offering you other Itracks products and services that we have a strong reason to believe may be of interest to you. Information will also be used within the Online Focus Group or Bulletin Board Focus Group forums to facilitate your participation in these services.
+Itracks - Experts in Online Research does not sell, rent or lease its customer lists to third parties. Itracks - Experts in Online Research may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Itracks - Experts in Online Research may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Itracks - Experts in Online Research , and they are required to maintain the confidentiality of your information.
 
-Your information will never be passed on to a third party without your express consent.  
-Itracks will also use this information for correspondence purposes (e.g., to let you know about special offers) and to facilitate the dissemination of such products as our online newsletter. The information you provide about others is for the sole purpose of providing access to areas you have predetermined within the Research Center.
+Itracks - Experts in Online Research does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Any content that is submitted for inclusion within our newsletter (e.g., corporate news) may be published with your name and company worked for, unless you explicitly request otherwise.  
-Non-personally identifiable information may be used to help us with the design and content of our site as well as for personalization of some services. This information may be used in the aggregate to analyze aspects of site usage.
+Itracks - Experts in Online Research keeps track of the Web sites and pages our customers visit within Itracks - Experts in Online Research , in order to determine what Itracks - Experts in Online Research services are the most popular. This data is used to deliver customized content and advertising within Itracks - Experts in Online Research to customers whose behavior indicates that they are interested in a particular subject area.
 
- **Our Policy Concerning Children**
+Itracks - Experts in Online Research Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Itracks - Experts in Online Research or the site; (b) protect and defend the rights or property of Itracks - Experts in Online Research ; and, (c) act under exigent circumstances to protect the personal safety of users of Itracks - Experts in Online Research , or the public.
 
-Itracks will never knowingly collect information from any individual under the age of 13 years without the express, written permission from the parents or legal guardian of said child. Itracks adheres to all Canadian, US and International laws regarding Internet use by minors.
+Use of Cookies
 
- **Notification of Changes**
+The Itracks - Experts in Online Research Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Itracks will notify you directly if there are any material changes to this Privacy Statement. Any changes in our privacy statement will be posted 30 days prior to that change.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Itracks - Experts in Online Research pages, or register with Itracks - Experts in Online Research site or services, a cookie helps Itracks - Experts in Online Research to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Itracks - Experts in Online Research Web site, the information you previously provided can be retrieved, so you can easily use the Itracks - Experts in Online Research features that you customized.
 
- **Links**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Itracks - Experts in Online Research services or Web sites you visit.
 
-Itracks may occasionally offer options that allow visitors to voluntarily link to outside sites. Itracks is not responsible for the content or effect of the privacy policies of these other sites.
+Security of your Personal Information
 
- **Our Commitment to Security**
+Itracks - Experts in Online Research secures your personal information from unauthorized access, use or disclosure. Itracks - Experts in Online Research secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Itracks has implemented physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access of the information provided. For full details regarding these safeguards please contact [info@itracks.com](mailto:info@itracks.com).
+Changes to this Statement
 
- **Legal Notices  
-** Under the laws of the Government of Canada, we may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+Itracks - Experts in Online Research will occasionally update this Statement of Privacy to reflect company and customer feedback. Itracks - Experts in Online Research encourages you to periodically review this Statement to be informed of how Itracks - Experts in Online Research is protecting your information.
 
-Itracks will take all necessary measures to unsure that there are no unauthorized disclosures of information. However, we cannot assure you that, in unforeseen circumstances, information will never be disclosed in a manner inconsistent with this Privacy Statement.
+Contact Information
 
-Itracks is not in any way responsible for use or misuse of Itracks' tools by clients and/or resellers.
-
- **How to Contact Us**
-
-If you have any questions or comments about Itracks Privacy Statement, or you would like to request a change or deletion for your personal information that has already been collected, please contact [info@itacks.com](mailto:info@itacks.com).
+Itracks - Experts in Online Research welcomes your comments regarding this Statement of Privacy. If you believe that Itracks - Experts in Online Research has not adhered to this Statement, please contact Itracks - Experts in Online Research at [systems@itracks.com](mailto:systems@itracks.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
