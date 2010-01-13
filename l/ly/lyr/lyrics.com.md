@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrics.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819032050id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113073409id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.*
 
 # Lyrics.com - your music community with the largest searchable lyrics database.
 
