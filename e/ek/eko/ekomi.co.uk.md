@@ -1,74 +1,78 @@
-> *The following text is extracted and transformed from the ekomi.co.uk privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927030343id_/http%3A//www.ekomi.co.uk/datenschutz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi.co.uk privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113232634id_/http%3A//www.ekomi.co.uk/datenschutz.php) for the most accurate reproduction.*
 
 # eKomi - Privacy
 
-We raise, store and use your personal data according to the regulations of the Data Protection Acts. In this declaration we would like to inform you about the kind of data used, for what purposes and which rights you entitle.
+We raise, store and use your personal data according to the regulations of the Data Protection Act. In this declaration we inform you about the kind of data used and for what purposes plus your rights.
 
-**1\. Anonymised data collection and processing on this Internet site**
+**1\. Identity protected data collection and processing**
 
-On our server automatically collects log file data and saves data in an internal log file, which will be delivered to us via your browser. It concerns following data:
+Our server automatically collects log file data and saves it. This data is delivered to us via your browser. It uses the following data:
 
 – Type and version of your browser  
 – Type and version of your operating software  
 – The URL of the website by which you reached us  
 – Search terms by which means you found our website  
-– Date and time of the call of our website   
-– Names of the subsites called by you
+– Date and time of the call to our website   
+– Names of the undersites called by you  
 
-This data is collected in an anonymised form. The data can not be attributed to a particular person. The data collection and processing is used for internal analytic and statistic purposes.
+
+This data is collected in an identity protected form and cannot be attributed to a specific person or customer. The data collection and processing is used for internal analytic and statistic purposes only.
 
 Use of Google Analytics: 
 
-This website uses Google Analytics, a web analysis tool of Google Incorporate. Google Analytics uses so called „cookies“, which are text files saved on your computer to enable the analysis of the activities on a website. The information created by the cookie (incl. your IP-address) will be delivered to Google (USA) in an anonymised form and saved on a server.  
+We use Google Analytics, the web analysis tool of Google Inc. Google Analytics uses “cookies“, - text files saved on your computer to enable site activity analysis. The information created by the cookie (incl. your IP-address) will be delivered to Google (USA) in an identity protected form and saved on a server.  
 
 
-**2\. Pseudonymised data collection and processing on this Internet site**
+**2\. Data collection and processing through assumed name creation**
 
-After registering on our website, we collect and save the above mentioned data in a pseudonymised form. This data is connected to an internal code, but does not stand in connection with your name or other personal characteristics. An attribution to your person does not take place. For the purpose of personalised and tailor-made advertisement and therewith improved service performance for our customers, utilization profiles are compiled based on the data collection and processing in pseudonymised form. 
+After registering on our website, we collect and save the above mentioned data in an assumed name form. This data is connected to an internal code but is re-named, with the assumed name having no connection or link with the actual name or other personal characteristics. 
 
-You may object the compilation of an utilization profile. Full particulars to the exercise of your right of objection can be found under the paragraph „Right of withdrawal & Right of objection”.  
+For the purpose of tailor-made advertising and marketing campaigns improving the service we offer our customers all profiles are compiled based on actual data collection but only using assumed names.  
 
 
-Personal specifications & data as much as bank details will not be passed on to third parties. It will exclusively be used for internal purposes. 
+You may object to the compilation of a utilization profile. The full details of your rights of objection can be found under the paragraph “Right of Withdrawal & Right of Objection”.
 
-**3\. Interface between eKomi and the online shop:**
+We guarantee that no personal details and data of any kind are passed to any third parties but will be exclusively used for internal purposes in the assumed name format.
 
-eKomi receives no customer information from the database of the online shop via the interface. Only anonymised customer-ID of the order transaction will be transmitted.
+**3\. The interface between eKomi and an online shop:**
+
+eKomi receives no customer information from the database of the online shop via the interface. Only the assumed name customer-ID of the order transaction will be transmitted.
 
 **4\. Cookies**
 
-For our website we use so called „cookies“. Applying “cookies” enables our web server to recognise your individual settings on our website and (if applicable) parts of your registration data in coded form in order to facilitate use and allow automatic log-in. The browser settings offer the possibility to refuse, delete, block or to dispose an inquiry before applying a “cookie”. The “cookies” applied by eKomi will be deleted from your computer after each session. 
+For our website we use “cookies“. Using “cookies” enables our web server to recognise your individual settings on our website and (if applicable) parts of your registration data in coded form in order to facilitate their use and allow automatic log-in. The browser settings offer the possibility to refuse, delete, block or to cancel an inquiry before applying a “cookie”. The “cookies” applied by eKomi will be deleted from your computer after each session.   
+
 
 **5\. Use of your e-mail address**
 
-We use your e-mail address in order to complete and confirm the registration on our website with a confirmation e-mail.  
-Your e-mail address is used for the delivery of our newsletter or other offers which might be of interest for you only if you gave your consent. You may withdraw your consent and stop the reception of e-mails from our company at any time. Full particulars to the exercise of your right of withdrawal can be found under the paragraph „Right of withdrawal & Right of objection”.
+We use your e-mail address in order to complete and confirm the registration on our website via a confirmation e-mail.
 
-**6\. Right of access, amendment, blocking and deletion of data**
+Only if you consent will your e-mail address be used by us to send you our newsletter or other offers which might be of interest. You may withdraw your consent and stop receiving e-mails from our company at any time. Full particulars of your right of withdrawal can be found under the paragraph „Right of Withdrawal & Right of Objection”. 
 
-If requested, we inform you about individual data related to your person referring to your origin, the receiver and the purpose of the storage absolutely free of charge. The information can be obtained under below given contact details. 
+**6\. Right of access, amendment, blocking and deletion of data.**
 
-If legal requirements are fulfilled you are entitled to amendment, blocking or deletion of the data. Please address your inquiry to the below given contact details. 
+If you request it, we will supply you with any content data related to your store, free of charge. You can request the information by using the contact details below. 
 
-**7\. Right of withdrawal & Right of objection**
+If you have complied with our legal requirements you are entitled to request that we change, block or delete your data. Please contact us using the details below. 
 
-You are entitled the right to raise objection against the compilation of an utilization profile and as the case may be to withdraw your former consent. In this case we will not process your data for such purposes. The objection or the withdrawal can be presented to us in an informal notice via postal way, phone, fax or e-mail without giving reasons.
+**7\. Your rights for Withdrawal or Objection.**
 
-Via postal way:   
+You are entitled to object to our utilization profile compilation and withdraw any prior consent you may have given. If you do we will cease processing your data for this purpose. You can withdraw your consent by post, fax or e-mail, without giving your reasons.
+
+Post to us at:  
 eKomi Ltd.  
+Chausseestr. 115  
 D – 10115 Berlin 
 
-Via phone:   
-+44 (0) 870 495 8995 or +49 30 398 2099 390  
-(free of cost from the landline of Deutschen Telekom)
+Call us at 0870 495 8995
 
-Via e-mail: info@ekomi.co.uk 
+Email us at: privacy@ekomi.co.uk
 
 **8\. Declaration of consent**
 
-Provided that you gave consent to the reception of newsletters and offers from our company via e-mail, you must have given the following declaration of consent to us. We logged your declaration of consent.  
+Provided that you have consented to receive newsletters and offers from us by email we will have recorded such consent, which will remain in place until you inform us that you wish to withdraw such consent.  
 
 
 Declaration of consent for the use of your e-mail address
 
-I want to receive information from eKomi Ltd. about offers and subscribe to the newsletter on a regular basis and herewith give my consent to the use of my e-mail address for this matter. I can withdraw my consent at any time and stop the reception of newsletters and information on offers with a deregistration (Click on link at the end of this e-mail). 
+I wish to receive information from eKomi Ltd regarding future offers and subscribe to receiving their newsletter on a regular basis. I herewith give my consent to the use of my email address for this purpose. I accept that I can withdraw my consent at any time by clicking on the ‘unsubscribe’ link at the foot of every email, at which point these communications will cease. 
