@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823062120id_/http%3A//about.mercuryinsurance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113024715id_/http%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
 
-# Mercury Insurance - Privacy Statement
+# 
 
 Mercury and its affiliated companies appreciate the trust you place in us when you ask us to help protect you and your assets. You trust us with your private, personal information when you purchase insurance from us, and we are committed to protecting this information. Mercury does not sell information about you to others.
 
-## Mercury's Use Of Your Personal Information
+### Mercury's Use of Your Personal Information
 
 We treat your information with respect and concern for your privacy. We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted or required by law.
 
@@ -12,34 +12,37 @@ For example, we may share any or all of your information with our affiliated com
 
 When we make this type of disclosure it is done to service your Mercury account or policy, or to inform you about Mercury products and services. Before disclosing your information, we require these companies to agree to keep it confidential and use it only for the transaction we request.
 
-## Independent Mercury Agents and Brokers
+### Independent Mercury Agents and Brokers
 
-The Independent Insurance Agents/Brokers authorized to sell Mercury products and services are not Mercury employees and are subject to Mercury's Privacy Policy only insofar as they sell or service our products. Because they have a unique business relationship with you, they may have additional personal information about you that Mercury does not have. They may use this information differently than Mercury. Contact your Mercury Agent/Broker or advisor to learn more about their privacy practices.
+The independent insurance agents and brokers authorized to sell Mercury products and services are not Mercury employees and are subject to Mercury's Privacy Policy only insofar as they sell or service our products. Because they have a unique business relationship with you, they may have additional personal information about you that Mercury does not. They may use this information differently than Mercury. Contact your Mercury Agent/Broker or advisor to learn more about their privacy practices.
 
-## Information About Mercury's Web Sites
+## Information About Mercury's Websites
 
 #### Information collected
 
-Mercury collects personal information (for example, name, address, E-mail address, telephone number or social security number) on our web site only when you voluntarily provide it to us. Only your Internet domain is recognized when you visit our website; your individual E-mail address is not.
+Mercury collects personal information (for example, name, address, E-mail address, telephone number or Social Security number) on our web site only when you voluntarily provide it to us. Only your Internet domain is recognized when you visit our website; your individual E-mail address is not.
 
-Mercury Insurance Group works with several third-party vendors, including, but not necessarily limited to, [Yahoo!](http://www.yahoo.com/), [Google](http://www.google.com/), [ValueClick](http://www.valueclick.com/), [Specific Media](http://www.specificmedia.com/), [Fetchback](http://www.fetchback.com/), [24/7 Real Media](http://www.247realmedia.com/), [Atlas DMT](http://www.atlassolutions.com/), [CBS2](http://cbs2.com/), and [NBC Los Angeles](http://www.nbclosangeles.com/), to research usage and activities on our web site. These third-party vendors use Web beacons to conduct this research. The information collected through these Web beacons is used to find out more about our Web site usage patterns, for more accurate reporting, and to improve the effectiveness of our marketing. Information recorded through the use of these Web beacons is aggregated and then shared with us. No personally identifiable information about you is shared by these third-party vendors with the Mercury family of companies.
+If you provide us with your E-mail address, Mercury may use it to occasionally notify you of new services, special offers, or to confirm transactions. If you do not wish to be contacted by E-mail you may click on the "unsubscribe" link at the bottom of any Mercury E-mail you receive and you will no longer receive non-policy related communications from us via E-mail.
 
-#### _To learn more about how Mercury collects and uses your personal information, please read the following notice._
+The companies of Mercury Insurance Group may work with several third-party vendors, including, but not necessarily limited to [Yahoo!](http://www.yahoo.com/), [Google](http://www.google.com/), [ValueClick](http://www.valueclick.com/), [Specific Media](http://www.specificmedia.com/), [Fetchback](http://www.fetchback.com/), [MSN](http://www.msn.com/), [BurstMedia](http://www.burstmedia.com/), [24/7 Real Media](http://www.247realmedia.com/), [Atlas DMT](http://www.atlassolutions.com/) and others, to research usage and activities on our website. These third-party vendors use Web beacons and cookies to conduct this research. The information collected through these Web beacons and cookies is used to find out more about our Web site usage patterns, for more accurate reporting, and to improve the effectiveness of our marketing. Information recorded through the use of these Web beacons and cookies is aggregated and then shared with us. No personally identifiable information about you is shared by these third-party vendors with the Mercury family of companies. 
+
+###### _To learn more about how Mercury collects and uses your personal information, please read the following notice._
 
 #### Mercury's Sources of Information About You
 
-We collect personal information about you from:
+We may collect personal information about you from:
 
-  * The information you provide on quotes, applications or other forms (such as your name, address and Social Security number) 
-  * Your transactions with us (such as your payment history and claims information) 
-  * The information we receive from a consumer reporting agency (such as your credit history, except in California) 
-  * Your insurance Agent/Broker (such as updated information pertaining to your account) 
+  * The information you provide on quotes, applications or other forms (such as your name, address and Social Security number)
+  * Your transactions with us (such as your payment history and claims information)
+  * The information we receive from a consumer reporting agency (such as your credit history, your driving record, and claims history with other insurance carriers)
+  * Your insurance agent/broker (such as updated information pertaining to your account)
+  * Public records (such as motor vehicle reports and criminal records)
 
 
 
 #### Information sharing and use
 
-Mercury does not sell information about you to others. If you only browse our Web site and do not supply any information, you will not receive unsolicited E-mail, telephone calls, or other marketing materials from Mercury as a result of your visit.
+Mercury does not sell information about you to others. If you only browse our website and do not supply any information, you will not receive unsolicited E-mail, telephone calls, or other marketing materials from Mercury as a result of your visit.
 
 When you make changes to your account or request more information about our products we may forward information you supply to us to your Mercury Independent Insurance Agent/Broker. We do this so they can service your account or contact you with additional information about our products.
 
@@ -55,7 +58,7 @@ Mercury has security measures in place to protect the loss, misuse, and alterati
 
 #### Links to other sites
 
-MercuryInsurance.com contains links to other Web sites. These other Web sites are not under Mercury's direct control, and they may collect information about you that Mercury does not. We are not responsible for the privacy practices or the content of linked Web sites.
+MercuryInsurance.com contains links to other websites. These other websites are not under Mercury's direct control, and they may collect information about you that Mercury does not. We are not responsible for the privacy practices or the content of linked websites.
 
 #### Protecting Your Personal Information from Unauthorized Access
 
@@ -73,69 +76,72 @@ If you submitted information to Mercury online and would like to review that inf
 
 Please be aware that we may periodically update or revise this Statement. Please check our Consumer Privacy Statement frequently for changes.
 
-## This Privacy Statement applies to the following members of the Mercury Family of Companies:
+#### This Privacy Statement applies to the following members of the Mercury Family of Companies:
 
-#### Arizona 
+##### Arizona
 
-Mercury Casualty Company 
+Mercury Casualty Company
 
-#### California
+##### California
 
-Mercury Insurance Company   
-Mercury Casualty Company   
-California Automobile Insurance Company 
+Mercury Insurance Company  
+Mercury Casualty Company  
+American Mercury Insurance Company  
+California Automobile Insurance Company
 
-#### Florida
+##### Florida
 
 Mercury Insurance Company of Florida  
 Mercury Casualty Company  
 American Mercury Insurance Company
 
-#### Georgia
+##### Georgia
 
-Mercury Insurance Company of Georgia   
-Mercury Indemnity of Georgia   
-American Mercury Insurance Company 
+Mercury Insurance Company of Georgia  
+Mercury Indemnity of Georgia  
+American Mercury Insurance Company
 
-#### Illinois
+##### Illinois
 
-Mercury Insurance Company of Illinois   
-Mercury Indemnity of Illinois 
+Mercury Insurance Company of Illinois  
+Mercury National Insurance Company
 
-#### Michigan
+##### Michigan
 
 Mercury National Insurance Company
 
-#### Nevada
+##### Nevada
 
 Mercury Casualty Company
 
-#### New Jersey
+##### New Jersey
 
 Mercury Indemnity of America
 
-#### New York
+##### New York
 
 Mercury Casualty Company
 
-#### Oklahoma
+##### Oklahoma
 
 American Mercury Insurance Company
 
-#### Pennsylvania
+##### Pennsylvania
 
 Mercury Insurance Company of Florida
 
-#### Texas
+##### Texas
 
-Mercury County Mutual Insurance Company   
-American Mercury Insurance Company   
-American Mercury Lloyds Insurance Company 
+Mercury County Mutual Insurance Company
 
-#### Virginia
+American Mercury Insurance Company
+
+American Mercury Lloyds Insurance Company
+
+##### Virginia
 
 Mercury Casualty Company
 
-#### Mercury Select Management Company, Inc.
+##### Mercury Select Management Company, Inc.
 
-All states with the exception of Connecticut, Maine and Maryland
+All states with the exception of Connecticut and Maine
