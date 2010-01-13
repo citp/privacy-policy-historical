@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtgsalvation.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827222107id_/http%3A//www.mtgsalvation.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgsalvation.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113030841id_/http%3A//mtgsalvation.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
