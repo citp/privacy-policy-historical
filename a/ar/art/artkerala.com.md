@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artkerala.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212012908id_/http%3A//www.artkerala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artkerala.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113214833id_/http%3A//www.artkerala.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -51,9 +51,3 @@ Consumers can have this information corrected by writing to us at the above addr
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local consumer protection office.
-
-## Information
-
-<script LANGUAGE="JavaScript">
-
-</script>
