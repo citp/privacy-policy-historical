@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gate2way.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414221419id_/http%3A//www.gate2way.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gate2way.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113051712id_/http%3A//www.gate2way.com/privacy.php) for the most accurate reproduction.*
 
-# Gate2Way.com
+# Gate2Way.com | Free Proxy Service
 
 ## Privacy Policy
 
