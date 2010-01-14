@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeonbd.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214210419id_/http%3A//www.xeonbd.com/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeonbd.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114160700id_/http%3A//www.xeonbd.com/privacy-policy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy - Xeon Software Limited
 
