@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftasatellitesource.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201042646id_/http%3A//ftasatellitesource.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftasatellitesource.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114094316id_/http%3A//www.ftasatellitesource.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FTA Satellite Source Privacy Policy
 
