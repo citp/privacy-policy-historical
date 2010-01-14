@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the theworknumber.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802171403id_/http%3A//www.theworknumber.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworknumber.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114042810id_/http%3A//www.theworknumber.com/Privacy) for the most accurate reproduction.*
 
 # The Work Number Privacy Statement
 
-|  |   
+|  |  |   
+---|---|---  
+|   
 ---|---  
 |   |  |   
 ---  
@@ -82,5 +84,5 @@ TALX
 Return to top
 
 |   
-| [Terms and Conditions](https://web.archive.org/web/20090802171403id_/http%3A//TermsConditions) | [](https://web.archive.org/web/20090802171403id_/http%3A//TermsConditions) |   | Copyright © 2009 TALX. All Rights Reserved |    
+| [Terms and Conditions](https://web.archive.org/web/20100114042810id_/http://theworknumber.com/TermsConditions) | [](https://web.archive.org/web/20100114042810id_/http://theworknumber.com/TermsConditions) |   | Copyright © 2010 TALX. All Rights Reserved |    
 ---|---|---|---|---
