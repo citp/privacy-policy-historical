@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadeporn.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213115751id_/http%3A//www.homemadeporn.com/info.php%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeporn.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114072044id_/http%3A//www.homemadeporn.com/info.php%23privacypolicy) for the most accurate reproduction.*
 
 # Homemadeporn.com
 
