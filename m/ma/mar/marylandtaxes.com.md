@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marylandtaxes.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421060241id_/http%3A//www.marylandtaxes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marylandtaxes.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114194038id_/http%3A//www.marylandtaxes.com/taxpayerrights/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Comptroller of Maryland's Homepage
 
@@ -23,12 +23,12 @@ Date | Date the visit occurred.
 Time | Time the visit occurred.  
 Client IP | Internet Protocol address of the visitor.  
 Server IP | Internet Protocol address of Web server accessed. This will always be the IP address of our Web server. We do not and cannot track sites you visit other than our Web site.  
-HTTP Status | Hyper Text Transfer Protocol (HTTP) status or error code.  
+HTTP Status | Hyper Text Transfer Protocol (HTTP) status or error code.   
 HTTP Request URL | Identifies the Web page or file requested.  
 Bytes Sent | Amount of data sent from the Web server to a visitor during that connection.  
 Bytes Received | Amount of data sent from the visitor to the Web server.  
 User Agent | Type of Web browser or client software that made request to the Web server.  
-Referrer | Uniform Resource Locator (URL) that referred a visitor to the requested file.  
+Referrer | Uniform Resource Locator (URL) that referred a visitor to the requested file.   
 Protocol Version | Version of HTTP used by the visitor's Web browser software.  
   
 **How We Use the Information**
@@ -42,3 +42,5 @@ We use the information we gather from your visit to help us improve our Web site
 The privacy of all tax information, including any information you submit to our Web site or information accessed through our Web site (such as the status of your refund), is protected by the Tax General Article of the Maryland Annotated Code, Section 13 - 202. The tax confidentiality law prohibits any state employee from divulging confidential tax information.
 
 **If you have any questions....**
+
+Contact our Webmaster: [David M. Hildebrand](mailto:dhildebr@comp.state.md.us). 
