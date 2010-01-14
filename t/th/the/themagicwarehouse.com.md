@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themagicwarehouse.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002035229id_/http%3A//www.themagicwarehouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themagicwarehouse.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114184322id_/http%3A//www.themagicwarehouse.com/privacy.html) for the most accurate reproduction.*
 
-# The Magic Warehouse - Magic Trick Shop
+# The Magic Warehouse - Discount Magic Tricks
 
 **For visitors on our website we collect:**
 
@@ -49,10 +49,3 @@ By using our site you agree to our privacy policy.
 Any changes to our policy will be posted on this page. 
 
 For questions regarding our privacy policy or website in general, please contact us by email.
-
-**Our Contact Information is:**  
-The Magic Warehouse   
-11419 Cronridge Dr   
-Owings MIlls, MD 21117  
-410-561-0777  
-[ sales@themagicwarehouse.com](mailto:sales@themagicwarehouse.com)
