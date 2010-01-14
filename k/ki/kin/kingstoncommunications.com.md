@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514192942id_/http%3A//www.kingstoncommunications.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114085414id_/http%3A//kingstoncommunications.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Kingston Communications - Privacy Policy
 
