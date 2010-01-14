@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapeservices.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922220337id_/http%3A//shapeservices.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapeservices.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114025124id_/http%3A//shapeservices.com/en/privacy) for the most accurate reproduction.*
 
 # SHAPE Services - Privacy Policy
 
