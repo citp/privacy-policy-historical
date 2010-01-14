@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keezchat.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905233659id_/http%3A//keezchat.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keezchat.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114054152id_/http%3A//keezchat.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # keezchat.com - Privacy Policy
 
@@ -62,7 +62,7 @@ Visitors who have any questions about this Privacy Policy, the practices of this
 
 At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [ /optout.php](https://web.archive.org/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
 
-© Copyright 2005, 2006 keezchat.com, All Rights Reserved.
+© Copyright 2005-2010 keezchat.com, All Rights Reserved.
 
 Toll Free 24 Hour Support Line: **1-866-449-9191**  
 International 24 Hour Support Line: **+1-312-264-4170**  
