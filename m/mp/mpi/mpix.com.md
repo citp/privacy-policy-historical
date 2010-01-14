@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpix.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226193855id_/http%3A//www.mpix.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpix.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114040519id_/http%3A//www.mpix.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # Mpix.com - Privacy Policy
 
