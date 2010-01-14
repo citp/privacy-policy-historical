@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlymarketingjobs.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214062613id_/http%3A//www.onlymarketingjobs.com/privacy.cms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlymarketingjobs.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114053859id_/http%3A//www.onlymarketingjobs.com/privacy.cms.asp) for the most accurate reproduction.*
 
 # Only Marketing Jobs
 
