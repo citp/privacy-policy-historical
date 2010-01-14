@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204003035id_/http%3A//theahl.com/privacy-policy-p137632) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115003110id_/http%3A//theahl.com/privacy-policy-p137632) for the most accurate reproduction.*
 
 # TheAHL.com | The American Hockey League | Privacy Policy
 
