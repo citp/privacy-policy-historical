@@ -1,52 +1,168 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609183231id_/http%3A//legacy.com/Obituaries.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114040413id_/http%3A//legacy.com/NS/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
-_Last updated: April 2004_
+Legacy.com
 
-Use of information
+820 Davis Street  
+Suite 210  
+Evanston, IL  60201 
 
-**General**
+| | 
 
-In general, you can visit the Legacy.com Web site or a site powered by Legacy.com, hereafter collectively referred to as "this site", without telling us who you are or revealing any information about yourself. Legacy.com, Inc. does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Examples of personal information we collect include name, postal address, e-mail address, and phone number. Personal information is collected from Guest Book submissions and sponsorships, ObitMessenger subscriptions, and orders for Life Stories and other products and services offered or administered by Legacy.com.
+### Privacy Policy
 
-This site makes Obituaries, Death Notices, Guest Books, Life Stories, and other related products available to all our visitors. Please remember that any information disclosed therein becomes public information. You therefore should exercise caution when disclosing any personal information in these forums.
+Last updated: June 2007
 
-Information also is collected as our server logs automatically receive and record information from your browser, including your IP address and the page(s) you requested. Legacy.com, Inc. uses your IP address to help diagnose problems with our Web server, and to administer our Web site. Other purposes of collecting such information are to customize the advertising you see on our pages and to fulfill visitors' requests for certain products and services. Legacy.com, Inc. and/or the associated newspaper are the sole owner(s) of the information collected on this site. IP addresses are not linked to personally identifiable information.
+Please read the following Privacy Policy carefully before using Legacy.com or any site powered by Legacy.com (collectively, this “Site"). 
 
-Legacy.com, Inc. does not share personally identifiable information about our visitors with third parties, and does not sell or share any information at the individual visitor level, unless our visitors have provided consent for us to do so. We may share information aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. with our partners, advertisers and others.
+| 
 
-Legacy.com, Inc. may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of this site; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions.)
+###  1\. What This Privacy Policy Covers 
 
-**Cookies**
+| Top  
+---|---  
+  
+  * This Privacy Policy covers how Legacy.com, Inc. (collectively, “Legacy.com”, “we”, “us”, or “our”) and all of its affiliated websites, products, and services (including without limitation, www.legacy.com, the Gift Shop at Legacy.com, Moving Tributes, ObitMessenger, Obituaries, Enhanced Obituaries, Guest Books, Death Notices, Commemorative Books, Life Stories, Photo Album submissions, Memorial Websites (e.g., wwww.legacymemorialwebsites.com, www.[deceased].Legacy.com), and other related products and services available to our users) (collectively, the “Services”) treats user or personally identifiable information that the Services collect and receive. If, however, you are accessing this Privacy Policy from a website operated in conjunction with one of our affiliate newspapers (listed at www.legacy.com/Obituaries.asp and www.legacy.com/Obituaries.asp?Page=SelectNewspapers, also recognizable by the URL format www.Legacy.com/[newspaper name]) (our “Affiliate Newspaper(s)”), the privacy policy of the Affiliate Newspaper will govern unless such policy states otherwise.
+  * Subject to the above, this Privacy Policy does not apply to the practices of companies that Legacy.com does not own or control, or to people that it does not employ or manage.
 
-Legacy.com uses cookies to track and measure user traffic to this site.
 
-Correcting or updating information
 
-You may modify and correct information previously provided directly to Legacy.com, Inc. for the purposes of Obituaries, Death Notices, and Life Stories, if necessary. Additionally, although Guest Book entries are screened for appropriateness, they are not altered except by request. Legacy.com, Inc. offers users the following options for updating information:
+In general, you can visit the Site without telling us who you are or revealing any information about yourself. Legacy.com does not collect personally identifiable information about individuals, except when specifically and knowingly provided by such individuals on interactive areas of the Site. “Personally Identifiable Information” is information that can be used to uniquely identify, contact, or locate a single person, such as name, postal address, e-mail address, phone number, and credit card number, among other information, and that is not otherwise publicly available). Any posting made while using the Site and Services can be viewed by the public and therefore is not considered “personal information” or “Personally Identifiable Information” and is not the type of information protected by this Privacy Policy. 
 
-    1\. Send e-mail to info@legacy.com  
-    2\. Send postal mail to the following address:
+###  3\. Information We Collect 
 
-            Legacy.com, Inc.  
-            820 Davis Street  
-            Suite 210  
-            Evanston, IL 60201  
-            Attention: Life Stories Staff
+| Top  
+---|---  
+  
+  * Personally Identifiable Information. 
+    * Examples of Personally Identifiable Information we collect include name, postal address, e-mail address, credit card number and related information, and phone number. With respect to Memorial Websites and Enhanced Obituaries, we also collect the date of birth and date of death for the deceased person. We also maintain a record of all information that you submit to us, including e-mail and other correspondence. We may collect Personally Identifiable Information when you register to receive alert or email subscriptions and mailings (including ObitMessenger), sponsor or submit information for a Guest Book, Obituary, Death Notice, Commemorative Book, Photo Album, Moving Tribute, Life Story, Enhanced Obituary, or Memorial Website, post other content on the Site, purchase products or other services, or participate in other activities offered or administered by Legacy.com.
+    * We may also collect Personally Identifiable Information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you, such as your credit card number.
+    * We do not intentionally or knowingly collect Personally Identifiable Information about children under the age of 13. Please see the section on “Children’s Privacy” below.
+  * Other User Information. 
+    * Like most websites, Legacy.com also receives and records information on our server logs from your browser automatically and through the use of electronic tools such as cookies. Our server logs automatically receive and record information from your browser (including, for example, your IP address, and the page(s) you visit). The information gathered through these methods is not “personally identifiable;” i.e., it cannot be used to uniquely identify, contact, or locate a single person.
 
-Links
 
-This site contains links to other sites that may be of interest to our visitors. The Legacy.com, Inc. Privacy Policy applies only to Legacy.com, Inc. and not to other companies' or organizations' Web sites to which we link. We are not responsible for the content or the privacy practices employed by other sites.
 
-Privacy alert
+###  4\. How We Use Your Information 
 
-Whenever you voluntarily disclose personal information online — for example, in a Guest Book entry or through information contained within an Obituary, Death Notice or Life Story — that information can be collected and used by others. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties. Please be careful and responsible whenever you are online.
+| Top  
+---|---  
+  
+  * We will use your information only as permitted by law, and subject to the terms of our Privacy Policy;
+  * Use of Personally Identifiable Information: 
+    * We do not sell or share your Personally Identifiable Information with unrelated third parties for their direct marketing purposes.
+    * Personally Identifiable Information and other personal information you specifically provide may be used: 
+      * to provide the Services we offer, to process transactions and billing, for identification and authentication purposes, to communicate with you concerning transactions, security, privacy, and administrative issues relating to your use of the Site and Services, to improve Services, to do something your have asked us to do, or to tell you of Services that we think may be of interest to you.
+      * to communicate with you regarding our Site and Services.
+      * for the administration of and troubleshooting regarding the Site. Certain third parties who provide technical support for the operation of the Site (our web hosting service, for example), may need to access such information from time to time, but are not permitted to disclose such information to others.
+    * We may disclose Personally Identifiable Information about you under the following circumstances: 
+      * In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personally Identifiable Information to others such as our service providers, contractors and select vendors so that we can operate the Site and our business. Where practical, we will seek to obtain confidentiality agreements consistent with this Privacy Policy and that limit others’ use or disclosure of the information you have shared.
+      * We may share your Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary to: (1) comply with the law or with legal process (such as pursuant to court order, subpoena, or a request by law enforcement officials); (2) protect, enforce, and defend our Terms of Use, rights and property; (3) protect against misuse or unauthorized use of this Site; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions.)
+  * Use of Anonymous Information: 
+    * Certain information that we collect automatically or with electronic tools (such as cookies) is used to anonymously track and measure user traffic to this Site and to enhance your experience on this Site. For example: 
+      * IP Addresses/Session Information. We occasionally may obtain IP addresses from users depending upon how you access our Site. IP addresses, browser, and session information may be used for various purposes, including to help administer this Site and diagnose and prevent service or other technology problems related to this Site. This information also may be used to estimate the total number of users visiting the Site from specific geographical areas, to help determine which users have access privileges to certain content or services that we offer, and to monitor and prevent fraud and abuse. IP addresses are not linked to Personally Identifiable Information
+      * Cookies. A cookie is a small amount of data that often includes an anonymous unique identifier that is sent to your browser from a website’s computers and stored on your computer’s hard drive. You can configure your browser to accept cookies, reject them, or notify you when a cookie is sent. If you reject cookies, you may not be able to use our Services that require you to sign in, or to take full advantage of all our offerings. Cookies may involve the transmission of information either directly to us or to another party we authorize to collect information on our behalf. We use our own cookies to transmit information for a number of purposes, including to: 
+        * require you to re-enter your password after a certain period of time has elapsed to protect you against others accessing your account contents;
+        * keep track of preferences you specify while you are using the Site;
+        * estimate and report our total audience size and traffic;
+        * conduct research to improve the content and services provided on the Site.
+We let other entities that show advertisements on some of our web pages set and access their cookies on your computer. Other entities’ use of their cookies is subject to their own privacy policies and not this Privacy Policy. Advertisers or other entities do not have access to our cookies. 
+    * We may share anonymous information aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. with our partners, advertisers and others.
 
-Changes to this Privacy Policy
 
-Legacy.com, Inc. may periodically edit this Privacy Policy. We encourage you to review this Privacy Policy whenever you provide information on this Web site.
 
-Additional information
+###  5\. Privacy Alert: Your Site Postings Generally Are Accessible to the Public 
 
-Questions regarding the Legacy.com, Inc. Privacy Policy should be directed to [info@legacy.com](https://web.archive.org/web/20070609183231id_/http%3A//legacy.com/Obituaries.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy+Policy).
+| Top  
+---|---  
+  
+  * Your own use of the Site may disclose personal information or Personally Identifiable Information to the public. For example: 
+    * This Site makes Guest Books, Death Notices, Obituaries, Moving Tributes, Life Stories, Enhanced Obituaries, Commemorative Books, Memorial Websites, Photo Album submissions, and other postings to our Services available for viewing by all our visitors unless the sponsor or host of a Service selects a privacy setting that restricts public access (available as an option only on certain Services, such as Memorial Websites). Please remember that any information disclosed on a non-restricted Service becomes public information and may be collected and used by others without our knowledge. You therefore should exercise caution when disclosing any personal information or Personally Identifiable Information in these forums.
+    * When you post a message to any message board, blog, or other public forum on the Site, your user ID or alias that you are posting under may be visible to other users, and you have the ability to post a message that may include personal information.
+  * If you post Personally Identifiable Information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Such activities are beyond the control of Legacy.com and this Privacy Policy. Please be careful and responsible whenever you are online. In addition, although we employ technology and software designed to minimize spam sent to users and unsolicited, automatic posts to message boards, blogs, or other public forums on the Site (like the CAPTCHA word verification you see on email and registration forms), we cannot ensure such measures to be 100% reliable or satisfactory.
+
+
+
+###  6\. Children’s Privacy 
+
+| Top  
+---|---  
+  
+  * Legacy.com does not intentionally or knowingly collect from or maintain Personally Identifiable Information of children under the age of 13, nor do we offer any content targeted to children.
+  * In the event that Legacy.com becomes aware that a user of the Site is under the age of 13, the following additional privacy terms and notices apply: 
+    * Prior to collecting any Personally Identifiable Information about a child that Legacy.com has become aware is under the age of 13, Legacy.com will make reasonable efforts to contact the child’s parent, to inform the parent about the types of information Legacy.com will collect, how it will be used, and under what circumstances it will be disclosed, and to obtain consent from the child's parent to collection and use of such information.
+    * Although Legacy.com will apply these children's privacy terms whenever it becomes aware that a user who submits Personally Identifiable Information is less than 13 years old, no method is foolproof. Legacy.com strongly encourages parents and guardians to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personal information without parental permission.
+    * Personally Identifiable Information collected from children may include any of the information defined above as Personally Identifiable Information with respect to general users of the Site and may be used by Legacy.com for the same purposes. Except as necessary to process a child's requests or orders placed with advertisers or merchants featured on the Site, Legacy.com does not rent, sell, barter or give away any lists containing a child's Personally Identifiable Information for use by any outside company.
+    * A child's parent or legal guardian may request Legacy.com to provide a description of the Personally Identifiable Information that Legacy.com has collected from the child, as well as instruct Legacy.com to cease further use, maintenance and collection of Personally Identifiable Information from the child.
+    * If a child voluntarily discloses his or her name, e-mail address or other personally-identifying information on chat areas, bulletin boards or other forums or public posting areas, such disclosures may result in unsolicited messages from other parties.
+
+
+
+Legacy.com and/or the Affiliate Newspaper(s) are the sole owner(s) of the information collected on this Site. 
+
+The security and confidentiality of your Personally Identifiable Information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect guest information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable, and no data transmissions over the web can be guaranteed 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
+
+###  9\. Correcting or Updating Information 
+
+| Top  
+---|---  
+  
+You may modify and correct Personally Identifiable Information provided directly to Legacy.com for a Guest Book, Death Notice, Obituary, Commemorative Book, Photo Album, Moving Tribute, Life Story, Enhanced Obituary, Memorial Website, or the Gift Shop at Legacy.com, if necessary. Legacy.com offers users the following options for updating information: 
+
+  * Send an e-mail to us at [Contact Us](https://web.archive.org/NS/about/contact.aspx?Type=General&Subject=Privacy%20Policy); or
+  * Send a letter to us via postal mail to the following address:  
+Legacy.com 820 Davis Street Suite 210, Evanston, IL 60201 Attention: Operations 
+
+
+
+###  10\. Opt-Out Procedures 
+
+| Top  
+---|---  
+  
+You may opt out of receiving future mailings or other information from Legacy.com. If the mailing does not have an e-mail cancellation form, send an e-mail to [Contact Us](https://web.archive.org/NS/about/contact.aspx?Type=General&Subject=Privacy%20Policy) detailing the type of information that you no longer wish to receive. 
+
+###  11\. Advertising and Links 
+
+| Top  
+---|---  
+  
+  * This Site contains links to other sites that may be of interest to our visitors. This Privacy Policy applies only to Legacy.com and not to other companies' or organizations' websites to which we link. We are not responsible for the content or the privacy practices employed by other sites.
+  * Many advertisements on this Site are managed and placed on this Site by third parties. These companies are called "third party advertisers." Third party advertisers who place advertisements on this Site may use cookies and other technical means to collect information (not including personally identifiable information such as your name, address, e-mail address and telephone number) about your visits to this site and other websites in order to provide advertisements about goods and services of interest to you. Please keep in mind that if you click on an advertisement on this sites and link to a third party's website, then Legacy.com’s Privacy Policy will not apply to any Personally Identifiable Information collected on that third party's website and you must read the privacy policy posted on that site to see how your Personally Identifiable Information will be handled.
+
+
+
+###  12\. Changes to This Privacy Policy 
+
+| Top  
+---|---  
+  
+We may periodically edit or update this Privacy Policy. We encourage you to review this Privacy Policy whenever you provide information on this Web site. Your use of the Site after changes of the terms of the Privacy Policy have been posted will mean that you accept the changes. 
+
+###  13\. Additional Information 
+
+| Top  
+---|---  
+  
+Questions regarding the Legacy.com Privacy Policy should be directed to [Contact Us](https://web.archive.org/NS/about/contact.aspx?Type=General&Subject=Privacy%20Policy). 
+
+or
+
+Legacy.com 820 Davis Street Suite 210, Evanston, IL 60201 Attention: Operations 
+
+###  Your California Privacy Rights 
+
+| Top  
+---|---  
+  
+(As provided by California Civil Code Section 1798.83) 
+
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. 
+
+Legacy.com does not share information with third parties for their direct marketing purposes. If, however, you are accessing this Privacy Policy from one of our Affiliate Newspaper sites, the privacy policy of our Affiliate Newspaper will apply to the collection of your information unless the affiliate’s privacy policy specifically states otherwise. You should review the privacy policy of the Affiliate Newspaper to understand what information may be collected from you and how it may be used. 
+
+California customers may request further information about our compliance with this law by e-mailing [Contact Us](https://web.archive.org/NS/about/contact.aspx?Type=General&Subject=Privacy%20Policy). 
+
+  
+
