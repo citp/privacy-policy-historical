@@ -1,46 +1,52 @@
-> *The following text is extracted and transformed from the eprize.com privacy policy that was archived on 2000-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001001130242id_/http%3A//eprize.com/eprise/main/Eprise/Company/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprize.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114023822id_/http%3A//eprize.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Interactive Promotions Brand Marketing by ePrize: Privacy Policy
 
-|    
-**Eprise Corporation**     
-**Privacy Policy**     
-Eprise knows you don't want the information you provide us shared indiscriminately. Here, we explain how we collect information, what we do with it, and what controls you have. **General**  
-Eprise does not compile, buy, sell, rent or trade consumer mailing lists. All marketing efforts we undertake are targeted toward a business audience only. For each visitor to our Website, our Web server does not recognize information regarding the e-mail address. We collect the e-mail addresses of those who communicate with us by e-mail, and any information volunteered by the customer, such as company name, job title and other information collected when a form is submitted. The information we collect is used to improve the content of our Website and to contact customers for marketing purposes.
+#### ePrize, LLC Privacy Policy (last revised: October 27, 2008)
 
-If you do not want to be contacted by Eprise in the future, please let us know by sending us an e-mail, or by calling or writing us at the address listed below.
+ePrize, LLC is a company that helps other businesses operate sweepstakes, contests and promotions (“Promotions”). In addition, ePrize occasionally runs its own Promotions. Such Promotions gather personally identifiable information from those individuals who choose to enter a particular Promotion and anonymous data regarding the Promotion itself. ePrize takes its privacy obligations both to its clients and to people who enter its Promotions very seriously. ePrize adheres to the Safe Harbor Principles as established by the European Commission and the United States Department of Commerce. 
 
- **E-mail Addresses**  
-Eprise maintains an e-mail database containing the names of people who have communicated with us. All registration forms on our Website give visitors the option of choosing to be (or not to be) included on this list. In addition, we collect e-mail addresses from standard e-mail correspondence we receive. This information is used soley to promote our own products and services Eprise does not sell, trade, or otherwise share these e-mail addresses with outside organizations. Visitors may request to be removed from our e-mail database by sending an e-mail to [douellette@eprise.com](mailto:douellette@eprise.com). **Postal Addresses**  
-Visitors who supply their postal addresses on-line may receive periodic mailings from Eprise with information on Eprise products and services or upcoming Eprise or related events. They may also receive mailings from other reputable companies that provide complementary products and/or services, such as Eprise e-business partners. Eprise does not sell, trade, or otherwise share addresses collected by it with outside organizations. If you do not wish to receive such mailings, please let us know by sending an e-mail to douelette@eprise.com. **Telephone Numbers**  
-Visitors who supply Eprise with their telephone numbers on-line may receive telephone contact from us with information regarding Eprise products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to douelette@eprise.com. **Demographic Information**  
-Visitors to the Eprise Website may provide optional demographic information about themselves and their companies. We use this information for internal analysis and to let e-business partners know what kinds of businesses visit our Website. Individual names and company details are not shared with outside companies. Eprise also uses this information to better target its mailings about Eprise products. **Passwords**  
-Certain areas of the Eprise Website require a password and log-in code for admission. Access to the database of password names and log-in codes is limited to a small number of Eprise employees and is not disclosed to outside companies. **Cookies**  
-All visitors to the Eprise Website are issued a cookie--a small text file that we place on visitors' hard drives. These cookies are used to customize the display of pages according to browser type and site preferences when available. **IP Addresses**  
-Eprise logs the IP addresses of its visitors for internal analysis. **Other Things to Consider**  
-In several clearly-marked places on our Website, Eprise has partnered with outside companies to provide visitors with direct access to these companies' services. Information you give these companies may be used by them in ways that are different from Eprise's policies; please review these companies' privacy practices if you are concerned.
+This policy outlines our treatment of personally identifiable information we collect on behalf of our clients and for our own use. There are three types of Promotions in which ePrize is involved: 1) Client Promotions; 2) ePrize “Opt-in” to Client Promotions; and 3) ePrize Promotions. 
 
-Any information you transmit on the Internet, whether through a web site, email service, message board or chat room, may be received or intercepted by parties who do not have or do not follow a privacy policy. Therefore, you must be careful and cautious about sending personal information (and all other information) over the Internet. Eprise cannot guarantee that information you have sent to us has not been intercepted by other parties.
+Client Promotions: As a full service promotions and sweepstakes agency, ePrize operates Promotions on behalf of its clients. As part of those services, ePrize collects personally identifiable information for its clients by use of ePrize’s proprietary online technology, ePrize mailboxes, and points of entry offline. ePrize collects such personally identifiable information solely for the use of its clients and the operation of the Promotions. ePrize does not use any of the data collected itself, other than to notify potential winners and for prize fulfillment purposes in connection with a Promotion. ePrize does not consolidate data across different clients’ Promotions, does not maintain data beyond the conclusion of client Promotions (other than for back-up purposes on its client’s behalf), and does not “monetize” data collected on behalf of its clients in any manner whatsoever. ePrize strictly limits access to all personally identifiable information within its organization, and data is never shared outside of the company for any reason whatsoever (with, of course, the exception of appropriate governmental or legal requests). Personally identifiable information collected from different client Promotions is never mingled or shared with anyone other than the client on whose behalf the information was collected. Personally identifiable information collected by ePrize on behalf of a client belongs solely to the client and will be used solely in accordance with that particular client’s Privacy Policy. An individual’s desire to “opt-out” of receiving marketing or other information from a client will be handled in accordance with a particular client’s Privacy Policy. ePrize requires its clients, by contract, to use the data which ePrize collects on its behalf in accordance with generally accepted privacy standards for both offline and online data, which includes an “opt-out” method for individuals who have provided personally identifiable information. Ultimately, however, ePrize is not responsible for data collected on behalf of its clients when such data is in its client’s possession. Where ePrize operates one Promotion on behalf of multiple clients, the use of the personally identifiable information by all of the companies involved will be clearly outlined by a Privacy Policy created for that Promotion.
 
-Eprise strives to build and maintain the trust of our customers and Website visitors. Please e-mail any questions, concerns, or comments you have about these policies to 
+ePrize “Opt-in” to Client Promotions: From time to time, ePrize and one of its clients will agree to allow ePrize to offer entrants to a Promotion an opportunity to “opt-in” to receiving marketing information from ePrize and its partners. In such cases, on the Promotion registration page, an ePrize “opt-in” question will appear clearly explaining to potential entrants that by checking the box they will be agreeing to share their personally identifiable information with ePrize. If there is not an ePrize “opt-in” question on the registration form, ePrize will not share or use any of the data collected whatsoever. When individuals “opt-in” to receive information from ePrize, they are agreeing to receive email and other notices from ePrize, including marketing messages, surveys, special offers and notices about other Promotions. Such notices may come from ePrize itself, companies with whom ePrize has a business relationship and/or ePrize clients.   
+If you want to “opt-out” of receiving such notices from ePrize after you have “opted-in”, or you wish to correct the information you have provided to ePrize, you may do so in one of two (2) ways: 
 
-[bull@eprise.com](mailto:bull@eprise.com).
+  1. Please send an email to remove@eprize.com. Please make sure to include the name of the promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
+  2. Mail the details of your request to: 
+    * Privacy Policy c/o ePrize, LLC
+    * One ePrize Drive
+    * Pleasant Ridge, MI 48069
 
-The Eprise Website and databases are maintained by the staff of Eprise Corporation at its offices in Framingham, Massachusetts.
 
-To reach us by mail, phone or e-mail:
 
-Eprise Corporation  
-1671 Worcester Road  
-Fourth Floor  
-Framingham, MA 01701  
-Phone: (508) 872-0200  
-e-mail: 
+ePrize Promotions: ePrize also runs Promotions on its own behalf. Such Promotions are to generate interest from other businesses in ePrize’s products and services. ePrize uses the personally identifiable information collected in such Promotions as sales leads and may contact the individual registrants by email, mail or phone. ePrize will never sell such information or share it with another business. When individuals “opt-in” to receive information from ePrize, they are agreeing to receive email and other notices from ePrize, including marketing messages, surveys, special offers and notices about other Promotions. Such notices may come from ePrize itself or from ePrize on behalf of companies with whom ePrize has a business relationship. If you want to “opt-out” of being contacted by ePrize after you have participated in one of its Promotions, or you wish to correct the information you have provided to ePrize, you may do so in one of two (2) ways: 
 
-[douelette@eprise.com](mailto:douellette@eprise.com)
+  1. Please send an email to remove@eprize.com. Please make sure to include the name of the promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
+  2. Mail the details of your request to: 
+    * Privacy Policy c/o ePrize, LLC
+    * One ePrize Drive
+    * Pleasant Ridge, MI 48069
 
-Last updated: June 23, 1999
 
-  
-[](https://web.archive.org/eprise/main/eprise/99_productRequests)  
----|---
+
+ePrize’s Online Promotion Technology: ePrize’s proprietary Promotion technology has the ability to collect data other than personally identifiable information for any of the three (3) kinds of Promotions it operates online. ePrize may collect information about your computer configuration, such as your browser type, operating system, or ISP domain name. ePrize may collect information about the site you last visited prior to the Promotion or about your activity during your visit to the Promotion site. This information will not reveal your personal identity (it is anonymous), may be used by ePrize to administer the technical and operational aspects of this site, and may include using your IP address to help diagnose problems with our server. Your IP address may also be used to gather broad demographic information for aggregate use. ePrize may use a cookie, a piece of data stored on the user’s hard drive containing information about the user, to assist in performing some or all of these activities and also to limit your ability to play a Promotion more times than allowed. You can set your browser to accept all, some, or no cookies. If you set your browser to reject all cookies, you may be limited in your ability to access some, or all aspects of a particular Promotion. 
+
+Special Note about Children: Unless otherwise specifically indicated, ePrize Promotions are not available to anyone under the age of thirteen (13). ePrize does, however, operate some Promotions on behalf of its clients which collect personally identifiable information from children under the age of thirteen (13). In each such instance, ePrize and its clients comply fully with all aspects of the Children’s Online Privacy Protection Act (“COPPA”) in the operation of the Promotion, in the collection of the information itself and in the subsequent use of the data collected. Personally identifiable information will not be collected from children under the age of thirteen (13) without parental consent in compliance with the COPPA guidelines.
+
+Your California Privacy Rights (As provided by California Civil Code Section 1798.83): A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. 
+
+However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. 
+
+Contact ePrize: If you wish to contact ePrize to correct, amend, or delete information (if ePrize is holding on to your information as explained above), about privacy related issues or for any reason at all, you may do so in one of two (2) ways
+
+  1. Mail the details of your request to: 
+    * Privacy Policy c/o ePrize, LLC
+    * One ePrize Drive
+    * Pleasant Ridge, MI 48069 or
+  2. Email to: privacy@eprize.com
+
+
+
+Material Changes to Policy: ePrize may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, ePrize shall send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above.
