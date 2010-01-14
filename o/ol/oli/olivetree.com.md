@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the olivetree.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213319id_/http%3A//www.olivetree.com/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivetree.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114235343id_/http%3A//www.olivetree.com/press/privacy.php) for the most accurate reproduction.*
 
-# Olive Tree Bible Software - Privacy Statement
+# About Olive Tree Bible Software
 
-## Online Privacy and Credit Card Protection Policy
+## ONLINE PRIVACY AND CREDIT CARD PROTECTION POLICY
 
 At Olive Tree Bible Software we want you to feel safe and secure when you provide us with your personal information online. For this reason we use Secure Socket Layer (SSL) technology to encrypt your credit card and other sensitive information when you make product purchases or request technical assistance. The process of encryption prevents unauthorized individuals from viewing your information as it is securely transmitted over the internet. Once received, your credit card information is not transmitted over the internet again. Even with the very best protection policies and safeguard procedures in place, there is always the remote possibility of fraud. If you believe unauthorized use of your credit information has occurred, follow the [reporting procedures](http://www.ftc.gov/bcp/conline/pubs/credit/atmcard.htm) defined by your credit card's issuing bank and contact us immediately. Most credit card companies cover all charges that result form unauthorized use of your credit card or may limit your liability to $50. 
 
@@ -10,7 +10,7 @@ Our store is very secure. At checkout you can see the little gold lock is closed
 
 ## OUR COMMITMENT TO PRIVACY
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. It applies to all information you submit, such as your name, address, e-mail address, telephone number and credit card number. We use the information you provide when placing an order to complete that order, and when assisting with support issues. We do not share this information with outside parties. You can review information about you that we have collected online and maintain by writing us at [support@olivetree.com](mailto:support@olivetree.com). You can also call to request factual correction in your information. To better safeguard your information, we will take reasonable steps to verify your identity before granting access or making corrections. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. It applies to all information you submit, such as your name, address, e-mail address, telephone number and credit card number. We use the information you provide when placing an order to complete that order, and when assisting with support issues. We may also contact you from time to time with product updates, links to free downloads, and other product information that we think may be of interest to you. You will always have the opportunity to opt-out of email communications from Olive Tree Bible Software. We do not share this information with outside parties. You can review information about you that we have collected online and maintain by writing us at [support@olivetree.com](mailto:support@olivetree.com). You can also call to request factual correction in your information. To better safeguard your information, we will take reasonable steps to verify your identity before granting access or making corrections. 
 
 ## OUR COMMITMENT TO DATA SECURITY
 
