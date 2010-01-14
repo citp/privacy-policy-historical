@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the battlecalc.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129015449id_/http%3A//www.battlecalc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlecalc.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114231012id_/http%3A//www.battlecalc.com/privacy) for the most accurate reproduction.*
 
-# Battle Calc!
+# BattleCalc! Privacy Policy
 
-## Battle Calc! A Combat Calculator for Starfleet Commander
+## BattleCalc! A Combat Calculator for Starfleet Commander
 
 #### Privacy Policy
 
