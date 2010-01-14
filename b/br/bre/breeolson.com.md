@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breeolson.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008043825id_/http%3A//www.breeolson.com/MCE/bree/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breeolson.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114043821id_/http%3A//www.breeolson.com/MCE/bree/0/privacy) for the most accurate reproduction.*
 
 # BreeOlson.com :: Privacy Policy
 
