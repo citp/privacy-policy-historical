@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830014340id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114051005id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Discount Ramps.com - Privacy Policy
 
@@ -27,7 +27,7 @@ Discount Ramps.Com LLC may access and/or disclose your personal information if r
 
 Personal information collected on this site may be stored and processed in the United States or any other country in which Discount Ramps.Com LLC or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Discount Ramps.Com LLC abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Information we collect on the Discount Ramps.Com LLC and it's Affiliate Sites may be used to enhance your shopping experience in the following ways: 
+Information we collect on the Discount Ramps.Com LLC and it's Affiliate Sites may be used to enhance your shopping experience in the following ways:
 
   * To deliver merchandise that you have purchased online or at our facility
   * Register you as a member of Discount Ramps.Com LLC
@@ -42,15 +42,13 @@ Information we collect on the Discount Ramps.Com LLC and it's Affiliate Sites ma
 
 
 Control your Personal Information  
-Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20090830014340id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records. Alternatively, if you created an account with Discount Ramps.Com LLC you may log in to your account via the "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)" area and make adjustments to your personal information online.  
+Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20100114051005id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records. Alternatively, if you created an account with Discount Ramps.Com LLC you may log in to your account via the "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)" area and make adjustments to your personal information online.  
 **Note:** You may also stop the delivery of future promotional e-mail from Discount Ramps.Com LLC by responding directly to any email you receive with a request to remove you from the mailing list.
 
 Do not share your Discount Ramps.Com LLC account password with anyone. Other than on the Discount Ramps.Com LLC and it's Affiliate Websites, Discount Ramps.Com LLC will never ask you for your password information.
 
 Security of your Personal Information  
-Discount Ramps.Com LLC is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in external controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through 
-
-[VeriSign's Payment Service.](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=CHECKOUT.NETSUITE.COM&lang=en&KeepThis=true&TB_iframe=true&height=400&width=600)  
+Discount Ramps.Com LLC is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in external controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through [VeriSign's Payment Service.](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=CHECKOUT.NETSUITE.COM&lang=en&KeepThis=true&TB_iframe=true&height=400&width=600)  
 [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=CHECKOUT.NETSUITE.COM&lang=en&KeepThis=true&TB_iframe=true&height=400&width=600)
 
 Discount Ramps.Com LLC also utilizes a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your personal information will be automatically encrypted, or encoded, before it is sent through the Internet. The digital certificate and seal that you see on our checkout system is from Verisign, Inc., a leading provider of Internet trust services. When you enter a secure portion of Discount Ramps.Com LLC and it's Affiliates (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small popup window displaying site security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form. Ultimately, your personal information is protected by the password you created when you signed up for an account at Discount Ramps.Com LLC or it's Affiliates (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of Discount Ramps.Com LLC will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime by going to "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)". Log in with your email address and password, then click "Change Email & Password" and enter a new password. 
@@ -61,7 +59,7 @@ When you visit DiscountRamps.Com LLC or it's Affiliates, you may be assigned a p
 How can I contact DiscountRamps.Com LLC with questions about my privacy?  
 If you have questions or comments about the DiscountRamps.Com LLC privacy policy, please contact us in any of the following ways:
 
-Online: [Contact Us](https://web.archive.org/web/20090830014340id_/http%3A//www.discountramps.com/contact.htm)
+Online: [Contact Us](https://web.archive.org/web/20100114051005id_/http%3A//www.discountramps.com/contact.htm)
 
 By Phone: 888-651-3431 
 
