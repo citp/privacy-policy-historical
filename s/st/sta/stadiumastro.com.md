@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stadiumastro.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605053712id_/http%3A//www.stadiumastro.com/PrivacyPolicy/tabid/175/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stadiumastro.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114044859id_/http%3A//stadiumastro.com/tabid/175/Default.aspx) for the most accurate reproduction.*
 
 # Stadium Astro | Privacy Policy
 
