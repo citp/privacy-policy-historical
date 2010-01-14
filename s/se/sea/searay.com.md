@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015104347id_/http%3A//www.searay.com/Page.aspx/pageId/10837/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115002003id_/http%3A//www.searay.com/Page.aspx/pageId/10837/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sea Ray Boats
 
