@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toocle.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207045127id_/http%3A//www.toocle.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toocle.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115140536id_/http%3A//www.toocle.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Toocle - A trading circle connecting sellers around one buyer
 
