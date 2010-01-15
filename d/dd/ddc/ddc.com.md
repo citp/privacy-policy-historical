@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddc.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129111801id_/http%3A//www.ddc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddc.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115030502id_/http%3A//www.ddc.com/privacy.php) for the most accurate reproduction.*
 
 # Domain Development Corp
 
@@ -112,4 +112,4 @@ Or you can contact us by mail at:
 >  Agoura Hills, CA 91301 
 
 Updated June, 2009  
-©2009 Domain Development Corp. 
+©2010 Domain Development Corp. 
