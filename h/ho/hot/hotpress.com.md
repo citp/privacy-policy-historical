@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216031434id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116004726id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
 
 # Hotpress Privacy Policy
 
