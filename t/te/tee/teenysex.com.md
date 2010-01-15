@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the teenysex.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618074404id_/http%3A//teenysex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenysex.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115111327id_/http%3A//teenysex.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for Internet Media Productions websites
+# Privacy Policy for Callstar Enterprises Limited websites
 
-Privacy Policy for "Internet Media Productions" websites  
+Privacy Policy for Callstar Enterprises Limited websites  
 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 The Information We Collect: We collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as there username & password if they signup to one of our sites. We do collect users details on the 2nd joinpage of any of our sites but this data is not stored for future use, the customers details are only stored temporaily for use in cascading billing. Sending the data via server scripts from credit card biller 1-2-3. The data is only stored on a permanenet basis if the customer decides to join one of our sites with there credit card, checking account, web900 or dialer.
 
-This notice applies to all information collected or submitted on [Internet Media Productions Ltd] websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on [CALLSTAR ENTERPRISES LIMITED] websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   * Name:
   * Address:
