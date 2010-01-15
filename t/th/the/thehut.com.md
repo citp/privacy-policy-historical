@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428132803id_/http%3A//www.thehut.com/hut/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115174543id_/http%3A//www.thehut.com/privacy-policy.info) for the most accurate reproduction.*
 
 # TheHut.com: Privacy Policy
 
