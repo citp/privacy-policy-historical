@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2009-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091007190108id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115020814id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Intellicast.com
+# Intellicast - Privacy Policy
 
 EFFECTIVE AS OF March 5, 2007 
 
@@ -26,7 +26,7 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 We use the information you provide in a limited number of ways. We may use the information to service your account, conduct a transaction that you have requested, display information and advertisements that match your interests and profile, notify you if you've won a contest or sweepstakes and compile demographic statistics about our users. We may on occasion combine information about you that we have with information we obtain from other parties to enhance our ability to market to you those products or services that may be of interest to you. 
 
 **How We Share Your Information**  
-One of the most valuable assets of our business is you. WSI does not rent, sell or share personal information about you with other people or nonaffiliated companies except as described below. 
+One of the most valuable assets of our business is you. WSI does not rent, sell or share personal information about you with other people or non-affiliated companies except as described below. 
 
 **intellicast.com and its Affiliates**  
 We provide you with the opportunity to opt in to receive special offers from intellicast.com and it affiliates. If you opt in, WSI and its affiliates will use your personally identifiable information to inform you of other products or services available from intellicast.com and its affiliates, including WSI Corporation. 
@@ -78,6 +78,3 @@ WSI reserves the right to alter our Privacy Policy as business needs require. If
 WSI Interactive, Inc.   
 400 Minuteman Rd.  
 Andover, MA 01810 
-
-|   
----|---
