@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikofx.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224194235id_/http%3A//www.ikofx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikofx.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115144236id_/http%3A//ikofx.com/privacy.php) for the most accurate reproduction.*
 
 # FOREX | CURRENCY TRADING | FOREX BROKER | FOREX TRADING | METATRADER4 | IKOFX
 
