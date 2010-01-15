@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108033124id_/http%3A//www.meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115192751id_/http%3A//www.meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Meat Processing Products Privacy Policy
 
