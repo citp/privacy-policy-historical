@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tube2u.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218093514id_/http%3A//www.tube2u.com/Our%2520Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube2u.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115062629id_/http%3A//www.tube2u.com/Our%2520Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
