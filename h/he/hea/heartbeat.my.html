@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heartbeat.my privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212052332id_/http%3A//heartbeat.my/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heartbeat.my privacy policy that was archived on 2010-01-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100115180723id_/http%3A//heartbeat.my/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
 
@@ -48,192 +48,10 @@ pageTracker._trackPageview();
 </head>
  
 <body>
-<script type="text/javascript">
-
-/******************************************
-* Snow Effect Script- By Altan d.o.o. (http://www.altan.hr/snow/index.html)
-* Visit Dynamic Drive DHTML code library (http://www.dynamicdrive.com/) for full source code
-* Last updated Nov 9th, 05' by DD. This notice must stay intact for use
-******************************************/
-  
-  //Configure below to change URL path to the snow image
-  var snowsrc="../images/snow3.gif"
-  // Configure below to change number of snow to render
-  var no = 8;
-  // Configure whether snow should disappear after x seconds (0=never):
-  var hidesnowtime = 0;
-  // Configure how much snow should drop down before fading ("windowheight" or "pageheight")
-  var snowdistance = "windowheight";
-
-///////////Stop Config//////////////////////////////////
-
-  var ie4up = (document.all) ? 1 : 0;
-  var ns6up = (document.getElementById&&!document.all) ? 1 : 0;
-
-	function iecompattest(){
-	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-	}
-
-  var dx, xp, yp;    // coordinate and position variables
-  var am, stx, sty;  // amplitude and step variables
-  var i, doc_width = 800, doc_height = 600; 
-  
-  if (ns6up) {
-    doc_width = self.innerWidth;
-    doc_height = self.innerHeight;
-  } else if (ie4up) {
-    doc_width = iecompattest().clientWidth;
-    doc_height = iecompattest().clientHeight;
-  }
-
-  dx = new Array();
-  xp = new Array();
-  yp = new Array();
-  am = new Array();
-  stx = new Array();
-  sty = new Array();
-  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "snow.gif" : snowsrc
-  for (i = 0; i < no; ++ i) {  
-    dx[i] = 0;                        // set coordinate variables
-    xp[i] = Math.random()*(doc_width-50);  // set position variables
-    yp[i] = Math.random()*doc_height;
-    am[i] = Math.random()*20;         // set amplitude variables
-    stx[i] = 0.02 + Math.random()/10; // set step variables
-    sty[i] = 0.7 + Math.random();     // set step variables
-		if (ie4up||ns6up) {
-      if (i == 0) {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><a href=\"http://dynamicdrive.com\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
-      } else {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
-      }
-    }
-  }
-
-  function snowIE_NS6() {  // IE and NS6 main animation function
-    doc_width = ns6up?window.innerWidth-10 : iecompattest().clientWidth-10;
-		doc_height=(window.innerHeight && snowdistance=="windowheight")? window.innerHeight : (ie4up && snowdistance=="windowheight")?  iecompattest().clientHeight : (ie4up && !window.opera && snowdistance=="pageheight")? iecompattest().scrollHeight : iecompattest().offsetHeight;
-    for (i = 0; i < no; ++ i) {  // iterate for every dot
-      yp[i] += sty[i];
-      if (yp[i] > doc_height-50) {
-        xp[i] = Math.random()*(doc_width-am[i]-30);
-        yp[i] = 0;
-        stx[i] = 0.02 + Math.random()/10;
-        sty[i] = 0.7 + Math.random();
-      }
-      dx[i] += stx[i];
-      document.getElementById("dot"+i).style.top=yp[i]+"px";
-      document.getElementById("dot"+i).style.left=xp[i] + am[i]*Math.sin(dx[i])+"px";  
-    }
-    snowtimer=setTimeout("snowIE_NS6()", 10);
-  }
-
-	function hidesnow(){
-		if (window.snowtimer) clearTimeout(snowtimer)
-		for (i=0; i<no; i++) document.getElementById("dot"+i).style.visibility="hidden"
-	}
-		
-
-if (ie4up||ns6up){
-    snowIE_NS6();
-		if (hidesnowtime>0)
-		setTimeout("hidesnow()", hidesnowtime*1000)
-		}
-
-</script><div id="dot0" style="position: absolute; z-index: 0; visibility: visible; top: 36.9083px; left: 1098.81px;"><a href="http://dynamicdrive.com"><img src="../images/snow3.gif" border="0"></a></div><div id="dot1" style="position: absolute; z-index: 1; visibility: visible; top: 564.681px; left: 779.899px;"><img src="../images/snow3.gif" border="0"></div><div id="dot2" style="position: absolute; z-index: 2; visibility: visible; top: 374.43px; left: 537.967px;"><img src="../images/snow3.gif" border="0"></div><div id="dot3" style="position: absolute; z-index: 3; visibility: visible; top: 359.776px; left: 1059.08px;"><img src="../images/snow3.gif" border="0"></div><div id="dot4" style="position: absolute; z-index: 4; visibility: visible; top: 625.825px; left: 338.36px;"><img src="../images/snow3.gif" border="0"></div><div id="dot5" style="position: absolute; z-index: 5; visibility: visible; top: 74.7782px; left: 184.045px;"><img src="../images/snow3.gif" border="0"></div><div id="dot6" style="position: absolute; z-index: 6; visibility: visible; top: 251.024px; left: 1259.04px;"><img src="../images/snow3.gif" border="0"></div><div id="dot7" style="position: absolute; z-index: 7; visibility: visible; top: 224.655px; left: 601.021px;"><img src="../images/snow3.gif" border="0"></div>
-
-<div id="floater" style="Z-INDEX: 0; LEFT: 922px; WIDTH: 17px; POSITION: absolute; TOP: 20px; HEIGHT: 70px;">
-<table width="180" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#CC3399" align="center"><font color="#FFFFFF" size="2">
-<b>:: BIZ OPPORTUNITY ::</b></font>
-</td>
-</tr>
-
-
-<tr><td align="center"><a href="http://heartbeat.my/bizopp.asp"><img src="http://heartbeat.my/images/b/bizopp.gif" title="Business Opportunity - Together Everyone Earn &amp; Save more" border="1" class="mainTbborderLine"></a><br></td></tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr><td bgcolor="#CC3399" align="center"><font color="#FFFFFF" size="2">
-<b>:: BULK ORDERS ::</b></font>
-</td>
-</tr>
-
-
-<tr><td align="center"><a href="http://heartbeat.my/mugs/mug-bulk-orders.asp"><img src="http://heartbeat.my/images/b/mug_bulk_order.gif" title="Mug Printing Bulk Order - As LOW as RM7 each" border="1" class="mainTbborderLine"></a><br></td></tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr><td align="center"><a href="http://heartbeat.my/photocards/photocard-bulk-orders.asp"><img src="http://heartbeat.my/images/b/idcard-bulk-order.gif" title="ID Card | Membership Card Printing - As LOW as RM1.50 each" border="1" class="mainTbborderLine"></a><br></td></tr>
-
-<tr><td>&nbsp;</td></tr>
-
-<tr><td align="center"><a href="http://heartbeat.my/buttonbadges/buttonbadge-bulk-orders.asp"><img src="http://heartbeat.my/images/b/buttonbadge_bulk_order.jpg" title="Button Badge Making | Promotional Items" border="1" class="mainTbborderLine"></a><br></td></tr>
-
-<!--<tr><td align="center">
-
-<div align="center"><embed src="http://img519.imageshack.us/img519/7718/cdsbbretirenavy.swf? quality="high" width="180" height="270" wmode="transparent" flashvars="v_t=2009/06/21&word=Happy Father's Day - Wish all daddy Happy Father's day 2009!"></div>
-</td></tr>-->
-
-<!--
-<tr><td align="center">
-<img src="/images/b/bulk.gif" alt="Bulk Order - Unique Gifts"  class="borderLine" /></td>
-</tr>
--->
-
-
-<!--
-<tr><td align="center"><br><a href="http://heartbeat.my/review.asp"><img src="http://heartbeat.my/images/b/review.gif" title="Thanks for the reviews by press, blogger, magazine." border="1" class="mainTbborderLine"></a></td></tr>
-
-<tr><td align="center"><br><a href="http://heartbeat.my/cblog" target="_blank"><img src="http://heartbeat.my/images/b/cblog.gif" title="Chinese Blog - Sharing of Gift Giving" border="1" class="mainTbborderLine"></a></td></tr>
-
-<tr><td align="center"><br><a href="http://heartbeat.my/eblog" target="_blank"><img src="http://heartbeat.my/images/b/eblog.gif" title="Welcome to HeartBeat English Blog - Sharing of Gift Giving Ideas" border="1" class="mainTbborderLine"></a></td></tr>
--->
-
-<!--
-
-<tr><td>&nbsp;</td></tr>
-
-<tr><td bgcolor="#CC3399" align="center"><font color="#FFFFFF" size="2">
-<b>:: SPONSORED LISTING ::</b></font>
-</td>
-</tr>
-
-
-<tr><td align="center">
-<br />
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-2778686640268918";
-/* 120x600, created 10/31/08 */
-google_ad_slot = "4901243753";
-google_ad_width = 120;
-google_ad_height = 600;
-//
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-<br />
-<!-- Zone Tag : Sharing of Gift Giving Ideas 120X600HB -->
-<!--<script type="text/javascript">
-innity_pub = "e7b24b112a44fdd9ee93bdf998c6ca0e";
-innity_cat = "WOMEN";
-innity_zone = "4244";
-innity_width = "120";
-innity_height = "600";
-innity_country = "MY";
-</script>
-<script type="text/javascript" src="http://cdn.innity.com/network.js"></script>
--->
 
 
 
-</tbody></table>
-</div>
-
-
-<table width="900" border="0" cellspacing="0" cellpadding="4" bgcolor="#FFFFFF">
+<table width="900" border="0" cellspacing="0" cellpadding="4" bgcolor="#FFFFFF" align="center">
   <tbody><tr>
     <td height="101" colspan="3">
 <table width="100%" border="0" cellspacing="2" cellpadding="2">
@@ -280,7 +98,7 @@ innity_country = "MY";
                       <td><img src="http://heartbeat.my/images/bottomcurve_right.gif" width="8" height="8"></td>
                     </tr>
                     <tr>
-                      <td colspan="3" class="fontsize1" align="right"><img src="http://heartbeat.my/images/customercare.gif">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://heartbeat.my/images/how2order.jpg" target="_blank"><img src="http://heartbeat.my/images/how2order.gif" alt="How to Order Your Unique Gifts?" border="0"></a><br>
+                      <td colspan="3" class="fontsize1" align="right"><!--<img src="http://heartbeat.my/images/customercare.gif"/>--><span class="productSalePrice2">Contact:</span> Vincent Tong (012 - 647 9294)&nbsp;&nbsp;&nbsp;&nbsp;<span class="productSalePrice2">Email: </span>order@HeartBeat.my&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://heartbeat.my/images/how2order.jpg" target="_blank"><img src="http://heartbeat.my/images/how2order.gif" alt="How to Order Your Unique Gifts?" border="0"></a><br>
                         
 						<form method="post" name="NewsletterForm">
 						<img src="http://heartbeat.my/images/signup.gif" alt="Sign up for the latest new products, special offers, and more.">&nbsp;
@@ -300,186 +118,140 @@ innity_country = "MY";
     <td width="21%" height="322" valign="top">
 	
 
-<table width="100%" border="0" cellpadding="2" cellspacing="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="1">
+<!--
+<tr><td><div align="center"><img src="http://heartbeat.my/images/btn_hottest.gif" alt="Most Popular | Hottest Gift Ideas For Loved One" border="0" /></div></td></tr>
 
- 
-  <tbody><tr>
-    <td><img src="http://heartbeat.my/images/btn_bycategory.gif" border="0" title="Gifts By Category - T-shirt, Mugs, Puzzle, Cushions and Gift Package for wedding gifts, anniversary gifts, birthday gifts &amp; graduation gifts."></td>
-  </tr>
-  
-  
-  <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/tshirts/tshirt-gifts.asp" class="noLine" title="Design personalized T-shirts online from our various of unique design ideas">T-shirt</a> </td>
-  </tr>
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/mugs/mug-gifts.asp" class="sidelink" title="Unique, affordable, memorable Photo Mug">Mug</a> </span></td>
-  </tr>
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/cushions/cushion-gifts.asp" class="noLine" title="Silk Cushion in high quality soft fabric and variety colors">Cushion</a> </span></td>
-  </tr>
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/puzzles/puzzle-gifts.asp" class="noLine" title="Our Personalized Jigsaw Photo Puzzles are not pre-built or pre-packed but 'Made to Order'. ">Puzzle</a> </span></td>
-  </tr>
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/crystals/crystal-gifts.asp" class="noLine" title="Better way to keep your lovely photos than transforming it into crystal photo">Crystal</a></span></td>
-  </tr>
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/photocards/photocard-gifts.asp" class="noLine" title="Romantic gifts that you carry away with beloved one">Photo Card</a></span></td>
-  </tr>
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/valentine/valentine-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_valentine.gif" border="0" alt="Valentine Gift Ideas | Florist | Gift Ideas for Couples"/></a></div></td></tr>
 
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/ceramictiles/ceramictile-gifts.asp" class="noLine" title="Print any of your lovely picture, or digital photo to ceramic tile and frame it">Ceramic Tile</a> &nbsp;<blink><span class="recommendProduct">NEW</span></blink></span></td>
-  </tr>
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/cosmeticmirrors/cosmeticmirror-gifts.asp" class="noLine" title="Perfect gift for ladies, mother, and girl friend ">Cosmetic Mirror</a></span></td>
-  </tr>
-
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/minitee/minitee-gifts.asp" class="noLine" title="Car decorative gift item for him, boy friend, and dad">Mini Tee</a></span></td>
-  </tr>
-
-  <tr>
-  <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/mousepads/mousepad-gifts.asp" class="noLine" title="Unique, affordable, personalize and promotional gifts to decorate your computer desk">Mousepad</a> </span>  </td></tr>
-     
-
- <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/buttonbadges/buttonbadge-gifts.asp" class="noLine" title="Design Your Own Button Badge live on-line... It's easy!">Button Badge</a></span></td>
-  </tr>
-
-  
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/keychains/keychain-gifts.asp" class="noLine" title="Personalize gift to carry your loved ones photo all the time with you">Keychain</a></span></td>
-  </tr>
-  
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/carsigns/carsign-gifts.asp" class="noLine" title="Creative Car sign is a sign put on cars to show a statement that bring joys to everyone">Car Sign</a></span></td>
-  </tr>
-  
-    <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/coasters/coaster-gifts.asp" class="noLine" title="Bring Joy to Your Family During Dinner With Coasters">Coasters</a>&nbsp;<blink><span class="recommendProduct">NEW</span></blink></span></td>
-  </tr>
-  
-  <!--
-  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0" /> <a href="http://heartbeat.my/doorhangers/doorhanger-gifts.asp" class="noLine" title="Personalized car sign that spread your word to the world">Door Hanger</a></span></td>
-  </tr>    
+<tr><td>&nbsp;</td></tr>
 -->
-	  
-<!--  <tr>
-    <td><span class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0" /> <a href="http://heartbeat.my/plates/plate-gifts.asp" class="noLine" title="Gift for all gift giving occasions like bridal showers, birthdays, new born baby and anniversaries">Plates</a></span></td>
-  </tr>	-->
- <tr>
-    <td>&nbsp;</td>
-  </tr>
- <tr>
-    <td><img src="http://heartbeat.my/images/btn_byoccasion.gif" title="Gifts By Occasions - Birthday, Wedding, Anniversary, Graduation etc." border="0"></td>
-  </tr>
 
-   <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/christmas/christmas-gifts.asp" class="noLine" title="Christmas Presents | Personalized Gifts | Unique Gifts | Early Bird Xmas Gift 2009">Christmas 2009</a> &nbsp;<blink><span class="recommendProduct">NEW</span></blink></td>
-  </tr>
+<tbody><tr><td><div align="center"><a href="http://heartbeat.my/gifts-by-category.asp"><img src="http://heartbeat.my/images/btn_bycategory.gif" alt="Design personalized T-shirts online from our various of unique design ideas" border="0"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/tshirts/tshirt-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_tee.gif" border="0" alt="Design personalized T-shirts online from our various of unique design ideas"></a></div></td></tr>
   
-   <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/wedding/wedding-gifts.asp" class="noLine" title="Wedding Gifts | Personalized Gifts | Unique Gifts | For Bridesmaid &amp; Groomsman on Wedding Party">Wedding</a> </td>
-  </tr>
-
-   <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/birthday/birthday-gifts.asp" class="noLine" title="Birthday Gifts | Personalized Gifts | Unique Gifts | For Him For Her at Birthday Party">Birthday</a> </td>
-  </tr>
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/mugs/mug-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_mug.gif" border="0" alt="Unique, affordable, memorable Photo Mug"></a></div></td></tr>
   
-     <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/graduation/graduation-gifts.asp" class="noLine" title="Graduation Gifts | Gifts For Graduate | Unique Gifts | For Class For Teacher">Graduation</a> </td>
-  </tr>
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/cushions/cushion-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_cushion.gif" border="0" alt="Silk Cushion in high quality soft fabric and variety colors"></a></div></td></tr>
 
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/puzzles/puzzle-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_puzzle.gif" border="0" alt="Our Personalized Jigsaw Photo Puzzles are not pre-built or pre-packed but 'Made to Order'"></a></div></td></tr>
+  
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/crystals/crystal-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_crystal.gif" border="0" alt="Better way to keep your lovely photos than transforming it into crystal photo"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/photocards/photocard-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_photocard.gif" border="0" alt="Romantic gifts that you carry away with beloved one"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/ceramictiles/ceramictile-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_ceramictile.gif" border="0" alt="Print any of your lovely picture, or digital photo to ceramic tile and frame it"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/cosmeticmirrors/cosmeticmirror-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_cosmeticmirror.gif" border="0" alt="Perfect gift for ladies, mother, and girl friend"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/minitee/minitee-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_minitee.gif" border="0" alt="Car decorative gift item for him, boy friend, and dad"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/mousepads/mousepad-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_mousepad.gif" border="0" alt="Unique, affordable, personalize and promotional gifts to decorate your computer desk"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/buttonbadges/buttonbadge-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_buttonbadge.gif" border="0" alt="Design Your Own Button Badge live on-line... It's easy!"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/keychains/keychain-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_keychain.gif" border="0" alt="Personalize gift to carry your loved ones photo all the time with you"></a></div></td></tr>
+
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/carsigns/carsign-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_carsign.gif" border="0" alt="Creative Car sign is a sign put on cars to show a statement that bring joys to everyone"></a></div></td></tr>
+
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/coasters/coaster-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_coaster.gif" border="0" alt="Bring Joy to Your Family During Dinner With Photo Coasters"></a></div></td></tr>
+
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/plates/plate-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_plate.gif" border="0" alt="Gift for all gift giving occasions like bridal showers, birthdays, new born baby and anniversaries"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/straps/straps-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_strap.gif" border="0" alt="Personalized Straps With Your Own Text for Hand Phone, Keychain etc"></a></div></td></tr>
+
+
+<tr><td>&nbsp;</td></tr>
+
+<tr><td><div align="center"><a href="http://heartbeat.my/gifts-by-occasion.asp"><img src="http://heartbeat.my/images/btn_byoccasion.gif" title="Gifts By Occasions - Birthday, Wedding, Anniversary, Graduation etc." border="0"></a></div></td></tr><tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/christmas/christmas-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_xmas.gif" border="0" alt="Christmas Presents | Personalized Gifts | Unique Gifts | Early Bird Xmas Gift"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/wedding/wedding-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_wedding.gif" border="0" alt="Wedding Gifts | Personalized Gifts | Unique Gifts | For Bridesmaid &amp; Groomsman on Wedding Party"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/birthday/birthday-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_birthday.gif" border="0" alt="Birthday Gifts | Personalized Gifts | Unique Gifts | For Him For Her at Birthday Party"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/graduation/graduation-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_graduation.gif" border="0" alt="Graduation Gifts | Gifts For Graduate | Unique Gifts | For Class For Teacher"></a></div></td></tr>
+
+<tr><td>&nbsp;</td></tr>
  
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
- 
- <tr>
-    <td><img src="http://heartbeat.my/images/btn_bycreative.gif" title="Gifts By Creative Idea- Horoscope etc..." border="0"></td>
-  </tr>
-   <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/horoscope/horoscope-gifts.asp" class="noLine" title="Special Birthday Gift Ideas - Horoscope Photo Gifts">Horoscope</a> </td>
-  </tr>
-  
-     <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/color-portrait/index.asp" class="noLine" title="High Key Technique, Color Portrait">Color Portrait</a> </td>
-  </tr>
-  
-     <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <span class="updated">~ Coming soon ~ </span></td>
-  </tr>
-  
-       <tr>
-    <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <span class="updated">~ Coming soon ~</span> </td>
-  </tr>
-  
-    <tr>
-    <td>&nbsp;</td>
-  </tr>
-    <tr>
-      <td><img src="http://heartbeat.my/images/btn_links.gif" title="Gifts By Creative Idea- Horoscope etc..." border="0"></td>
-    </tr>
-    <tr>
-      <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/cblog" target="_blank" class="noLine" title="Chinese Blog - Gift Giving Ideas">Chinese Blog</a> </td>
-    </tr>
-    <tr>
-      <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0"> <a href="http://heartbeat.my/eblog" target="_blank" class="noLine" title="English Blog - Unique Gift Ideas">English Blog</a> </td>
-    </tr>
-	
+<tr><td><div align="center"><img src="http://heartbeat.my/images/btn_bycreative.gif" title="Gifts By Creative Idea- Horoscope etc..." border="0"></div></td></tr>
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/horoscope/horoscope-gifts.asp" class="noLine"><img src="http://heartbeat.my/images/b_horoscope.gif" border="0" alt="Special Birthday Gift Ideas - Horoscope Photo Gifts"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/color-portrait/index.asp" class="noLine"><img src="http://heartbeat.my/images/b_colorportrait.gif" border="0" alt="High Key Technique, Color Portrait"></a></div></td></tr>
+<tr>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><div align="center"><img src="http://heartbeat.my/images/b_business.gif" title="Business Opportunity | Bulk Corporate Gifts" border="0"></div></td>
+</tr>
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/bulk-order.asp" class="noLine"><img src="http://heartbeat.my/images/bulkorder.gif" border="0" alt="Bulk Order for Corporate Gift, Promotional Gift etc."></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/bizopp.asp" class="noLine"><img src="http://heartbeat.my/images/b_bizpartner.gif" border="0" alt="Business Partner | Florist | Photo Lab | Gift Shop etc."></a></div></td></tr> 
+<tr><td>&nbsp;</td></tr>
+
+<tr><td><div align="center"><img src="http://heartbeat.my/images/btn_links.gif" title="Gifts By Creative Idea- Horoscope etc..." border="0"></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/eblog" target="_blank" class="noLine"><img src="http://heartbeat.my/images/b_blog_e.gif" border="0" alt="English Blog - Unique Gift Ideas"></a></div></td></tr>
+
+<tr><td class="fontsize2" align="left"><div align="center"><a href="http://heartbeat.my/cblog" target="_blank" class="noLine"><img src="http://heartbeat.my/images/b_blog_c.gif" border="0" alt="Chinese Blog - Sharing of Gift Giving Stories"></a></div></td></tr>
+
+
 	
 	<!-- <tr>
-      <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0" /> <a href="http://www.photofunia.com" target="_blank" class="noLine" target="_blank" title="Photo Funia - digital photo effects, photofun,fotofun,photofunia,effects,fun!">Photo Funia</a> </td>
+      <td class="fontsize2"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0" /> <a href="http://www.photofunia.com" target="_blank" class="noLine" target="_blank" title="Photo Funia - digital photo effects, photofun,fotofun,photofunia,effects,fun!">Photo Funia</a> </td>
     </tr>
 	
 		 <tr>
-      <td class="fontsize1"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0" /> <a href="http://www.yearbookyourself.com" target="_blank" class="noLine" target="_blank" title="How are you look like in past fifty years?">Year Book Yourself</a> </td>
+      <td class="fontsize2"><img src="http://heartbeat.my/images/arrow.gif" width="9" height="9" border="0" /> <a href="http://www.yearbookyourself.com" target="_blank" class="noLine" target="_blank" title="How are you look like in past fifty years?">Year Book Yourself</a> </td>
     </tr>
 	-->
 	
 	
-    <tr>
-      <td>&nbsp;</td>
-    </tr>
+<tr><td>&nbsp;</td></tr>
  
   
-  <tr>
-    <td><img src="http://heartbeat.my/images/btn_powersearch.gif" title="Search Your Gifts here." border="0"></td>
-  </tr>
-  <tr>
-    <td>
+<tr><td><div align="center"><img src="http://heartbeat.my/images/btn_powersearch.gif" title="Search Your Gifts here." border="0"></div></td></tr>
+<tr><td>
 
 
-<style type="text/css">
+<div align="center">
+  <style type="text/css">
 @import url(http://www.google.com/cse/api/branding.css);
 </style>
+</div>
 <div class="cse-branding-bottom" style="background-color:#FFFFFF;color:#000000">
   <div class="cse-branding-form">
     <form action="http://heartbeat.my/search.asp" id="cse-search-box">
       <div>
-        <input type="hidden" name="cx" value="partner-pub-2778686640268918:nmpm1z-b2td">
-        <input type="hidden" name="cof" value="FORID:10">
-        <input type="hidden" name="ie" value="ISO-8859-1">
-        <input type="text" name="q" size="8">
-        <input type="submit" name="sa" value="Search">
+        <div align="center">
+          <input type="hidden" name="cx" value="partner-pub-2778686640268918:nmpm1z-b2td">
+          <input type="hidden" name="cof" value="FORID:10">
+          <input type="hidden" name="ie" value="ISO-8859-1">
+          <input type="text" name="q" size="8">
+          <input type="submit" name="sa" value="Search">
+          </div>
       </div>
     </form>
   </div>
   <div class="cse-branding-logo">
-    <img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google">  </div>
+    <div align="center"><img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google">  </div>
+  </div>
   <div class="cse-branding-text">
-    Custom Search  </div>
+    <div align="center">Custom Search  </div>
+  </div>
 </div>  </td></tr>
 
-     
+ <!--    
 	<tr><td>
 		<iframe title="heartbeatstore" src="http://www2.shoutmix.com/?heartbeatstore" width="175" height="340" frameborder="0" scrolling="auto"> <a href="http://www2.shoutmix.com/?heartbeatstore">View shoutbox</a></iframe></td></tr>
-	
-	
+	-->
+	<tr><td>&nbsp;</td></tr>
      <tr>
        <td align="center" valign="top" class="borderLine">
-	     <span class="steps">Need helps?</span> <br><span class="fontsize1"><strong>Go to:</strong> <a href="http://heartbeat.my/faq.asp" class="noLine">FAQ</a> | <a href="msnim:add?contact=heartbeatstore@hotmail.com" class="noLine">MSN</a> | <a href="callto:heartbeatstore" class="noLine">SKYPE</a></span><br><br>
+	     <span class="steps">Need helps?</span> <br><span class="fontsize2"><strong>Go to:</strong> <a href="http://heartbeat.my/faq.asp" class="noLine">FAQ</a> | <a href="msnim:add?contact=heartbeatstore@hotmail.com" class="noLine">MSN</a> | <a href="callto:heartbeatstore" class="noLine">SKYPE</a></span><br><br>
 		 
 	   <a href="http://heartbeat.my/faq.asp" class="noLine"><img src="http://heartbeat.my/images/faq.jpg" alt="Click here to see our FAQ. You may get your answer here." width="158" height="77" border="0"></a><br>
 	   
@@ -490,13 +262,7 @@ innity_country = "MY";
        <a href="callto:heartbeatstore"><img border="0" src="http://heartbeat.my/images/skypechat.jpg" title="SKYPE Chat" width="160" height="40"></a></td>
      </tr>
 
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  
-  <tr><td align="center"><!-- Facebook Badge START -->
-  <a href="http://www.facebook.com/people/Heartbeat-Gifts/1710439875" title="Heartbeat Fans - Facebook" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;">Heartbeat Fans - Facebook</a><br><a href="http://www.facebook.com/people/Heartbeat-Gifts/1710439875" title="Heartbeat Gifts" target="_TOP"><img src="http://heartbeat.my/images/facebook.jpg" style="border: 0px;"></a><br><!-- Facebook Badge END -->
-  </td></tr>
+<tr><td>&nbsp;</td></tr>
 </tbody></table>
 
     </td><td width="2%" valign="top" background="images/left-vert-hr.gif"></td>
@@ -575,12 +341,12 @@ innity_country = "MY";
  <tbody><tr><td width="1010" background="http://heartbeat.my/images/top-hr-new.gif"><img src="http://heartbeat.my/images/spacer.gif" width="1" height="1"></td></tr>
  </tbody></table></td></tr>
 		
-  <tr><td colspan="3"><table width="60%" border="0" align="center" cellpadding="3" cellspacing="0"><tbody><tr>
-    <td width="108" align="right" valign="top"><br>
-        <strong class="fontsize1">WE ACCEPT</strong></td>
-    <td width="346"><img src="http://heartbeat.my/images/maybank2u.gif" width="197" height="36"> <img src="http://heartbeat.my/images/bank_rhb.jpg" width="127" height="35"><br>
-        <img src="http://heartbeat.my/images/visa.gif" width="42" height="27"> <img src="http://heartbeat.my/images/mc.gif" width="50" height="28"> <img src="http://heartbeat.my/images/mmpp.jpg" width="151" height="25"></td>
-  </tr>
+  <tr><td colspan="3"><table width="80%" border="0" align="center" cellpadding="3" cellspacing="0">
+    <tbody><tr>
+    <td align="right" valign="top"><br>
+      <div align="center"><strong class="fontsize1">WE ACCEPT FOLLOWING PAYMENT METHODS</strong><br><img src="../images/payment_banks.jpg" width="482" height="86"><br>
+      </div></td>
+    </tr>
 </tbody></table>
 <table border="0" align="center" cellpadding="1" cellspacing="1" width="100%">
   <tbody><tr>
@@ -600,7 +366,7 @@ innity_country = "MY";
 </tbody></table>
 <br>
 <div align="center" class="fontsize1">Copyright ©
- 2006 - 2009 All rights reserved.<br>
+ 2006 - 2010 All rights reserved.<br>
    <h3>   Malaysia Online Personalized Gift Store - HeartBeat.my <br><br>
     ~ Unique, Personalized &amp; Memorable Gifts During Gift Giving Occasions such as <br>Anniversary, Birthday, Graduation, New Born Baby, Wedding etc. ~</h3></div></td>
   </tr> 
