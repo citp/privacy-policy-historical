@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eltonjohn.com privacy policy that was archived on 2009-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214095133id_/http%3A//web.eltonjohn.com/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eltonjohn.com privacy policy that was archived on 2010-01-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100115015434id_/http%3A//web.eltonjohn.com/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	
@@ -24,6 +24,8 @@
 	</script>
 
 	
+	<script src="/shared/scripts/external/jquery.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/shared/scripts/bam.packed.js"></script> 
 	<script src="/shared/scripts/mplayer.js" type="text/javascript"></script>
 	<script src="/shared/scripts/flashobject.js" type="text/javascript"></script>
 	<script src="/shared/scripts/util.js" type="text/javascript"></script>
@@ -36,6 +38,8 @@
 <script src="/scripts/global_tracking.js" type="text/javascript"></script>
 
 	<script src="/scripts/elton_player.js" type="text/javascript"></script>
+	
+
 
 	
 	
@@ -47,7 +51,7 @@ function getMLBDate() {
 	
 	//Day Start: 11
 	try {
-		var sysDate = new Date("December 13, 2009");
+		var sysDate = new Date("January 14, 2010");
 		sysDate.toDirectoryPath = function() {
 			var mm = (this.getMonth() + 1);
 				mm = (mm < 10)?"0" + mm:mm;
@@ -66,46 +70,49 @@ function getMLBDate() {
 <div style="position:absolute; top:-100px; left:-100px; width:100px;">
 
 
-<!-- SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com -->
 <script language="JavaScript">
-<!--
-var omDomain = document.location.hostname.toLowerCase();
-var omURL = document.location.href.toLowerCase();
-
-var isProd = (((omDomain.indexOf("beta.") == -1) && (omDomain.indexOf("dev.") == -1) && (omDomain.indexOf("qa.") == -1)) ? true : false);
-if (isProd) var s_account = "bamenteltonjohn";
-else var s_account = "devmlbglobal";
-
-if (typeof s_pageName == "undefined") {
-	var s_pageName = (omURL.slice(omURL.indexOf(omDomain) + (omDomain.length + 1)));
-	if (s_pageName == "") s_pageName = "index.jsp";
-	else if (s_pageName == document.location.search.toLowerCase()) s_pageName = ("index.jsp" + s_pageName);
-	s_pageName = ("bamenteltonjohn_" + s_pageName);
-}
-var s_server="";
-var s_channel=section;
-if (typeof s_pageType == "undefined") var s_pageType = "";
-if (typeof s_campaign == "undefined") var s_campaign = "";
-if (typeof s_state == "undefined") var s_state = "";
-if (typeof s_zip == "undefined") var s_zip = "";
-var s_prop1 = pageid;
-for (var i = 2; i <= 20; i++) eval('if (typeof s_prop' + i + ' == "undefined") var s_prop' + i + ' = "";');
-
-if (typeof s_events == "undefined") var s_events = "";
-if (typeof s_products == "undefined") var s_products = "";
-for (var i = 1; i <= 10; i++) eval('if (typeof s_eVar' + i + ' == "undefined") var s_eVar' + i + ' = "";');
-if (typeof s_purchaseID == "undefined") var s_purchaseID = "";
-else if (s_purchaseID != "") {
-	if (s_events.length > 0) s_events += ",";
-	s_events += "purchase";
-	s_purchaseID = "bamenteltonjohn_" + s_purchaseID;
-}
-var s_linkInternalFilters="javascript:,eltonjohn,/";
-//-->
+var omDomain  = document.location.hostname.toLowerCase();
+var omURL     = document.location.href.toLowerCase();
+var isProd    = (((omDomain.indexOf("qa") == -1) && (omDomain.indexOf("beta") == -1) && (omDomain.indexOf("dev") == -1)) ? true : false);
+var s_account, s_rsid = (isProd) ? "bamentglobal,bamneneltonjohn" : "mlbdevsandbox";
 </script>
-<script type="text/javascript" src="/shared/scripts/s_code_remote.js"></script><img name="s_i_bamenteltonjohn" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/bamenteltonjohn/1/G.5-Pd-R/s78598813566219?[AQB]&amp;ndh=1&amp;t=31/0/2020%205%3A24%3A51%205%200&amp;pageName=bamenteltonjohn_web/20091214095133id_/http%253a//web.eltonjohn.com/help/privacy.jsp&amp;ch=help&amp;c1=privacy&amp;c24=bamenteltonjohn&amp;g=https%3A//web.archive.org/web/20091214095133id_/http%253A//web.eltonjohn.com/help/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<!-- End SiteCatalyst code version: G.5. -->
+<!-- SiteCatalyst code version: H.14. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com ${Page.config.env} -->
+<script language="JavaScript" src="/shared/scripts/external/mlbamscv2.js"></script>
+<script language="JavaScript"><!--
 
+if (typeof s.pageName == "undefined") {
+	s.pageName = omURL.slice(omURL.indexOf(omDomain) + (omDomain.length + 1));
+	if (s.pageName == "") s.pageName = "index.jsp";
+}
+s.channel  = section;
+
+if (typeof(pageid) !== 'undefined') {
+	s.prop1    = pageid;
+} else if (typeof(page_id) !== 'undefined') {
+	s.prop1 = page_id;
+} else {
+	s.prop1 = "";
+}
+
+s.prop24   = s_account;
+/* Conversion Variables */
+s.campaign   = "";
+s.state      = "";
+s.zip        = "";
+s.events     = "";
+s.products   = "";
+s.purchaseID = "";
+s.linkInternalFilters="javascript:,eltonjohn,tickets,/";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+<!-- End SiteCatalyst code version: H.14. -->
+function trackFlash(){}
+function trackClick(){}
+function launchFlashLink(linkURL, trackCode) {
+	if(linkURL.indexOf("javascript:") != -1) { eval(linkURL); }
+	else { window.location.href = linkURL; }
+}
+//--></script>
 </div>
 
 
@@ -131,42 +138,42 @@ var s_linkInternalFilters="javascript:,eltonjohn,/";
 <div class="hdrMain">
 
 <div class="hdrLogin floatRight">
-	&nbsp;<a href="https://secure.eltonjohn.com/enterworkflow.do?flowId=registration.profile" class="white">LOGIN / REGISTER »</a> 
+	&nbsp;<a href="https://secure.eltonjohn.com/enterworkflow.do?flowId=registration.profile" class="white" onclick="s_objectID=&quot;https://secure.eltonjohn.com/enterworkflow.do_flowId=registration.profile_1&quot;;return this.s_oc?this.s_oc(e):true">LOGIN / REGISTER »</a> 
 	
 	<p>
 	
 </p></div>
 
 
-<a href="/" border="0"><img src="/images/home/hdr_logo.gif" alt="" width="528" height="80" border="0"></a>
+<a href="/" border="0" onclick="s_objectID=&quot;https://web.archive.org/_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/images/home/hdr_logo.gif" alt="" width="528" height="80" border="0"></a>
 
 <br clear="all">
 
 <div class="headArea">
 
-<a href="http://www.eltonjohn.com/news/" onmouseover="document.navNews.src='/images/nav/nav_news_on.gif';" onmouseout="document.navNews.src='/images/nav/nav_news.gif';">
+<a href="http://www.eltonjohn.com/news/" onmouseover="document.navNews.src='/images/nav/nav_news_on.gif';" onmouseout="document.navNews.src='/images/nav/nav_news.gif';" onclick="s_objectID=&quot;http://www.eltonjohn.com/news/_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_news.gif" alt="" width="37" border="0" class="btnNav" name="navNews"></a> |
 
 
-<a href="http://www.eltonjohn.com/about/" onmouseover="document.navAbout.src='/images/nav/nav_about_on.gif';" onmouseout="document.navAbout.src='/images/nav/nav_about.gif';">
+<a href="http://www.eltonjohn.com/about/" onmouseover="document.navAbout.src='/images/nav/nav_about_on.gif';" onmouseout="document.navAbout.src='/images/nav/nav_about.gif';" onclick="s_objectID=&quot;http://www.eltonjohn.com/about/_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_about.gif" alt="" width="110" border="0" class="btnNav" name="navAbout"></a> |
 
-<a href="http://www.eltonjohn.com/concerts/" onmouseover="document.navConcerts.src='/images/nav/nav_concerts_on.gif';" onmouseout="document.navConcerts.src='/images/nav/nav_concerts.gif';">
+<a href="http://www.eltonjohn.com/concerts/" onmouseover="document.navConcerts.src='/images/nav/nav_concerts_on.gif';" onmouseout="document.navConcerts.src='/images/nav/nav_concerts.gif';" onclick="s_objectID=&quot;http://www.eltonjohn.com/concerts/_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_concerts.gif" alt="" width="131" border="0" class="btnNav" name="navConcerts"></a> |
 
-<a href="http://www.eltonjohn.com/video/" onmouseover="document.navVideo.src='/images/nav/nav_video_on.gif';" onmouseout="document.navVideo.src='/images/nav/nav_video.gif';">
+<a href="http://www.eltonjohn.com/video/" onmouseover="document.navVideo.src='/images/nav/nav_video_on.gif';" onmouseout="document.navVideo.src='/images/nav/nav_video.gif';" onclick="s_objectID=&quot;http://www.eltonjohn.com/video/_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_video.gif" alt="" width="42" border="0" class="btnNav" name="navVideo"></a> |
 
-<a href="http://www.eltonjohn.com/photo/" onmouseover="document.navPhoto.src='/images/nav/nav_photo_on.gif';" onmouseout="document.navPhoto.src='/images/nav/nav_photo.gif';">
+<a href="http://www.eltonjohn.com/photo/" onmouseover="document.navPhoto.src='/images/nav/nav_photo_on.gif';" onmouseout="document.navPhoto.src='/images/nav/nav_photo.gif';" onclick="s_objectID=&quot;http://www.eltonjohn.com/photo/_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_photo.gif" alt="" width="45" border="0" class="btnNav" name="navPhoto"></a>|
 
-<a href="http://www.eltonjohn.com/rocketclub/" onmouseover="document.navPremium.src='/images/nav/nav_club_on.gif';" onmouseout="document.navPremium.src='/images/nav/nav_club.gif';">
+<a href="http://www.eltonjohn.com/rocketclub/" onmouseover="document.navPremium.src='/images/nav/nav_club_on.gif';" onmouseout="document.navPremium.src='/images/nav/nav_club.gif';" onclick="s_objectID=&quot;http://www.eltonjohn.com/rocketclub/_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_club.gif" alt="" width="115" border="0" class="btnNav" name="navPremium"></a> |
 
-<a href="http://www.bamstores.com/shop/index.jsp?categoryId=3010442&amp;clickid=elton_splashmain" target="_blank" onmouseover="document.navShop.src='/images/nav/nav_shop_on.gif';" onmouseout="document.navShop.src='/images/nav/nav_shop.gif';">
+<a href="http://www.bamstores.com/shop/index.jsp?categoryId=3010442&amp;clickid=elton_splashmain" target="_blank" onmouseover="document.navShop.src='/images/nav/nav_shop_on.gif';" onmouseout="document.navShop.src='/images/nav/nav_shop.gif';" onclick="s_objectID=&quot;http://www.bamstores.com/shop/index.jsp_categoryId=3010442&amp;clickid=elton_splashmain_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_shop.gif" alt="" width="37" border="0" class="btnNav" name="navShop"></a> |
 
-<a href="http://forums.prospero.com/n/pfx/forum.aspx?webtag=eltonjohn" onmouseover="document.navCommunity.src='/images/nav/nav_community_on.gif';" onmouseout="document.navCommunity.src='/images/nav/nav_community.gif';">
+<a href="http://forums.prospero.com/n/pfx/forum.aspx?webtag=eltonjohn" onmouseover="document.navCommunity.src='/images/nav/nav_community_on.gif';" onmouseout="document.navCommunity.src='/images/nav/nav_community.gif';" onclick="s_objectID=&quot;http://forums.prospero.com/n/pfx/forum.aspx_webtag=eltonjohn_1&quot;;return this.s_oc?this.s_oc(e):true">
 <img src="/images/nav/nav_community.gif" alt="" width="78" border="0" class="btnNav" name="navCommunity"></a> 
 
 </div>
@@ -244,10 +251,10 @@ If we decide to make an important change to our Privacy Policy, we will post a n
 
 	<div style="padding-top:8px;">
 	
-		<a href="/help/terms.jsp" style="color:#666; padding:0px 6px;">Terms of Use</a>|
-		<a href="/help/privacy.jsp" style="color:#666; padding:0px 6px;">Privacy Policy</a>|
-		<a href="/help/tickets.jsp" style="color:#666; padding:0px 6px;">Ticket Purchase Agreement</a>|
-		<a href="/rocketclub/faq.jsp" style="color:#666; padding:0px 6px;">Help/FAQ's</a>
+		<a href="/help/terms.jsp" style="color:#666; padding:0px 6px;" onclick="s_objectID=&quot;https://web.archive.org/help/terms.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Terms of Use</a>|
+		<a href="/help/privacy.jsp" style="color:#666; padding:0px 6px;" onclick="s_objectID=&quot;https://web.archive.org/help/privacy.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy Policy</a>|
+		<a href="/help/tickets.jsp" style="color:#666; padding:0px 6px;" onclick="s_objectID=&quot;https://web.archive.org/help/tickets.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Ticket Purchase Agreement</a>|
+		<a href="/rocketclub/faq.jsp" style="color:#666; padding:0px 6px;" onclick="s_objectID=&quot;https://web.archive.org/rocketclub/faq.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Help/FAQ's</a>
 	
 	</div>
 
