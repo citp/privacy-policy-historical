@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the xb-online.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121115145id_/http%3A//xb-online.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xb-online.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115232112id_/http%3A//xb-online.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # XpressBet® Anytime....from Anywhere®
+
+[Home](https://web.archive.org/web/20100115232112id_/http%3A//xb-online.com/index.aspx)
 
 ## Security and Privacy Policy
 
