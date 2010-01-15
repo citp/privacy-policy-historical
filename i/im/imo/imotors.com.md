@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imotors.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612064052id_/http%3A//www.imotors.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imotors.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115054836id_/http%3A//www.imotors.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # iMotors.com - Privacy Policy
 
