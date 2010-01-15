@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612043821id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115041219id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
 
-# Community - YouClubVideo
+# Community, Music fans - YouClubVideo
 
-Privacy Statement for this Website incl. Sub-pages
+Privacy Statement for www.youclubvideo.com incl. Sub-pages
 
 An Operator refers to the person, company or corporation represented by a person, company or corporation that is designated on the contact page of this Website. 
 
@@ -10,7 +10,7 @@ The term Users refers to people who have or have not registered at the website a
 
 The term Website refers to all the documents, contents, and information offered at the same internet address, under which the operations of the aforementioned materials and these Terms and Conditions are made available. The term Website also includes all its sub-directories and sub-pages. 
 
-This document is the Privacy Statement for using the Operator’s Website. The Operator dedicated himself to respect and to protect your privacy and to use any personal information gather on this Website only in accordance with the current Data Protection Laws and Regulations. 
+This document is the Privacy Statement for using the Operator's Website. The Operator dedicated himself to respect and to protect your privacy and to use any personal information gather on this Website only in accordance with the current Data Protection Laws and Regulations. 
 
 **What is considered personal data?**
 
@@ -22,7 +22,7 @@ All data transmitted to the operator are expressly treated as confidential! In p
 
 **For what purposes does the operator use these data?**
 
-The Operator gathers, stores, and processes information in order to better understand the Users of this Website and to be able to improve the services offered to them. In addition, the Operator will compile internal investigations concerning the demography, user interests and user behavior. This is done anonymously; meaning no data will be used that would make it possible to identify an individual User. With your prior approval, the Operator will inform you of newly developed Website-features and other important topics about this Website on a regular basis. At any time, you have the right to cancel this permission using a written (email – please see the contact page) statement. In addition to that, in every email-newsletter, the Operator will provide you with information on how to opt-out from receiving further information. The Operator may also store your IP-address over a period of not more than four weeks upon utilization of any services enabling you to communicate with him, with a third party, or with other Users (such as upload of media, publication of comments, etc.). This is done in order to be able to identify the individual User(s) in case of their intervention with the Operator’s Website or in case of other rights being violated. The stored information is deleted immediately after being kept for four weeks. 
+The Operator gathers, stores, and processes information in order to better understand the Users of this Website and to be able to improve the services offered to them. In addition, the Operator will compile internal investigations concerning the demography, user interests and user behavior. This is done anonymously; meaning no data will be used that would make it possible to identify an individual User. With your prior approval, the Operator will inform you of newly developed Website-features and other important topics about this Website on a regular basis. At any time, you have the right to cancel this permission using a written (email ? please see the contact page) statement. In addition to that, in every email-newsletter, the Operator will provide you with information on how to opt-out from receiving further information. The Operator may also store your IP-address over a period of not more than four weeks upon utilization of any services enabling you to communicate with him, with a third party, or with other Users (such as upload of media, publication of comments, etc.). This is done in order to be able to identify the individual User(s) in case of their intervention with the Operator?s Website or in case of other rights being violated. The stored information is deleted immediately after being kept for four weeks. 
 
 **Use of Cookies**
 
