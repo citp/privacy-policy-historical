@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qcda.gov.uk privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010213432id_/http%3A//www.qcda.gov.uk/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qcda.gov.uk privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115034223id_/http%3A//www.qcda.gov.uk/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
