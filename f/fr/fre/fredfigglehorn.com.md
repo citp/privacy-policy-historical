@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredfigglehorn.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021081241id_/http%3A//fredfigglehorn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredfigglehorn.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115085517id_/http%3A//fredfigglehorn.com/privacy) for the most accurate reproduction.*
 
 # FRED FIGGLEHORN’S Wall — fredfigglehorn.com: Privacy Policy
 
