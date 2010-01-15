@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coderetard.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924232008id_/http%3A//www.coderetard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderetard.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115043523id_/http%3A//www.coderetard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy § Code Retard
 
@@ -21,9 +21,7 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of Code Retard then you may contact us at [sales@coderetard.com](mailto:sales@coderetard.com)
-
-Last updated Sat, 22 Aug 2009 21:01
+If you have any questions regarding the privacy policy of Code Retard then you may contact us.
 
   
 
