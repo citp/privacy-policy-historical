@@ -1,0 +1,26 @@
+> *The following text is extracted and transformed from the luckygirltrading.blogspot.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115040303id_/http%3A//luckygirltrading.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+
+# Make Every Day Your Lucky Day: Privacy Policy
+
+## WAITING FOR A REPLY?
+
+If you left a comment on one of my 31 Days, 31 Deals posts and are waiting for my response, make sure you left a way for me to contact you! A link to your blog or your email address will make it possible for me to get in touch with you.  
+
+
+[ ](http://www.blogger.com/rearrange?blogID=2495240464765510463&widgetType=Text&widgetId=Text1&action=editWidget "Edit")
+
+###  [Privacy Policy](http://luckygirltrading.blogspot.com/2008/03/privacy-policy.html)
+
+I respect your privacy and I am committed to safeguarding your privacy while online at my site luckygirltrading.blogspot.com . The following discloses the information gathering and dissemination practices for this Web site.  
+  
+Log Files  
+Like most standard Web site servers, I use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
+  
+Cookies  
+A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’ activity. Some of my business partners use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising.
+
+Links  
+This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
+  
+Advertisers  
+I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense and Project Wonderful. Please check their websites for respective privacy policies.
