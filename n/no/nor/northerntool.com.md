@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623060940id_/http%3A//www.northerntool.com/custhelp/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115141806id_/http%3A//www.northerntool.com/custhelp/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Help | Northern Tool + Equipment
 
