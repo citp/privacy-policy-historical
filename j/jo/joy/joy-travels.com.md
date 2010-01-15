@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joy-travels.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002185802id_/http%3A//www.joy-travels.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joy-travels.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115220332id_/http%3A//www.joy-travels.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Joy Travels - Privacy Policy
 
