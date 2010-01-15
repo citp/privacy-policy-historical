@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214095133id_/http%3A//web.eltonjohn.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115015434id_/http%3A//web.eltonjohn.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Elton John: Help: Privacy Policy
 
