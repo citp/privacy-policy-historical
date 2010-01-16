@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurudominationblueprint.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206023426id_/http%3A//www.gurudominationblueprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurudominationblueprint.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116215332id_/http%3A//www.gurudominationblueprint.com/privacy) for the most accurate reproduction.*
 
 # Guru Domination Blueprint Privacy Policy
 
