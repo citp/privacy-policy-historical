@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indiainfo.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907051719id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfo.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116201302id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
 
 # Contact Ad-Sales
 
 [ **Home**](http://www.indiainfo.com/) -> **Privacy Policy**
 
-[](https://web.archive.org/web/20090907051719id_/http%3A//www.indiainfo.com/index.html)   [](https://web.archive.org/web/20090907051719id_/http%3A//www.indiainfo.com/advantage.html)    
+[](https://web.archive.org/web/20100116201302id_/http%3A//www.indiainfo.com/index.html)   [](https://web.archive.org/web/20100116201302id_/http%3A//www.indiainfo.com/advantage.html)    
 **Privacy Policy**
 
 Indiainfo.com Ltd values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources. We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided. We will enable you to communicate your privacy concerns to us and that we will respond to them appropriately. We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password, credit card number and bank account number. The credit card transaction information is protected by the industry standard Secure Socket Layer (SSL).
