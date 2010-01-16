@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colts.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016084813id_/http%3A//www.colts.com/sub.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colts.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116082250id_/http%3A//www.colts.com/sub.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Official Website of the Indianapolis Colts
 
