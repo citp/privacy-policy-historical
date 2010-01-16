@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalstudioshollywood.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216205037id_/http%3A//www.universalstudioshollywood.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalstudioshollywood.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116095357id_/http%3A//www.universalstudioshollywood.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Universal Studios Hollywood - Privacy Policy
 
