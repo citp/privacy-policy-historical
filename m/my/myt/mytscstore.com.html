@@ -1,1094 +1,42 @@
-<!--The following is the downloaded HTML source of the mytscstore.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011004341id_/http%3A//www.mytscstore.com/about_TSC.asp%3FpageID%3Dpolicies%26%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytscstore.com privacy policy that was archived on 2010-01-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100116071235id_/http%3A//www.tractorsupply.com/content/home/privacy%2520policy) for the most accurate reproduction.-->
 
-<html><head><script language="javascript">
-//The following fucntion is used to check the char count on the text area boxes in functions_about.asp
-function textCounter( field, friendlyname, countfield, maxlimit ) {
-	var fldval;
- fldval = TrimAll(field.value);
-  if ( fldval.length > maxlimit )
-  {
-    field.value = field.value.substring( 0, (maxlimit -1) );
-    alert( 'Please limit your entry for ' + friendlyname + ' to 3000 characters.' );
-    return false;
-  }
-  else
-  {
-    countfield.value = maxlimit - fldval.length;
-  }
-}
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href="/wcsstore/ConsumerDirectStorefrontAssetStore/css/layout.css" rel="stylesheet" type="text/css">
+<link href="/wcsstore/ConsumerDirectStorefrontAssetStore/css/content.css" rel="stylesheet" type="text/css">
+<!--[if IE 6]><link href="/wcsstore/ConsumerDirectStorefrontAssetStore/css/browserspecific/ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="/wcsstore/ConsumerDirectStorefrontAssetStore/css/browserspecific/ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-220381-1";
-urchinTracker();
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-936158-1";
-urchinTracker();
-</script>
-
-<script src="/__utm.js"></script>
-
-<script language="JavaScript">
-function forcerefresh() {
-var date = new Date()
-var year = date.getYear()
-var month = date.getMonth()
-var day = date.getDate()
-var hour = date.getHours()
-var minute = date.getMinutes()
-var second = date.getSeconds()
-document.location.href = document.location.href + "&rf=" + month + "" + day + "" + year + "" + hour + "" + minute + "" + second
-}
-
-function doIt() {
-	if (document.cookie == "")
-	{
-		alert("Please enable cookies and try again.");
-		return false;
-	}
-}
-
-function popUp(URL, prodTitle) {
-	//replace(URL,"&","&amp;");
-	window.open('includes/popupWindow.asp?image='+URL+'&prodTitle='+prodTitle, 'popup_window', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=610,height=630,left = 100,top = 100');
-}
-
-function rules() {
-	window.open('rules.asp', 'popup_window', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=610,height=630,left = 100,top = 100');
-}
-
-function thankYou() {
-	window.open('popupMessage.asp', 'popup_window', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=549,height=185,left = 100,top = 100');
-}
 
 
-function showAll(keyword, showFamily) {
-	document.forms.showAll.keyword.value = keyword;
-	document.forms.showAll.showFamily.value = showFamily;
-	document.forms.showAll.submit();
-}
-
-function submitSearch(formName) {
-	if(formName == "searchForm")
-	{
-		keyword=TrimAll(document.forms.searchForm.keyword.value);
-		if(keyword == "Product Search"){
-			alert("Please enter a keyword in the product search box.");
-			document.forms.searchForm.keyword.focus();
-			return false;
-		}
-	}else{
-		keyword=TrimAll(document.forms.searchForm2.keyword.value);
-	}
 	
-	if(keyword.length<3) {
-		alert("Please change your search to more than " + keyword.length + ' letters');
-		return false;
-	}else{
-	return true;
-	}
-}
-
-function shoppingList(sku,action){
-	document.forms.shoppingList.sku.value = sku;
-	document.forms.shoppingList.action.value = action;
-	document.forms.shoppingList.submit();
-}
-
-
-function thumbnailHelper(object) {
-    document.forms.thumbnails.orderBy.value = (object.options[object.selectedIndex].value);
-    document.forms.thumbnails.submit();
-}
-
-function MM_executeFlashDispatcher(){
-  var args = MM_executeFlashDispatcher.arguments;
-  MM_FlashDispatch(args[0],args[1],args[2],args[3],args[4],args[5],args[6],args[7],args[8]);
-}
-
-//-------------------------------------------------------------------
-// Trim functions
-//   Returns string with whitespace trimmed
-//-------------------------------------------------------------------
-function LTrim(str){
-	if (str==null){return null;}
-	for(var i=0;str.charAt(i)==" ";i++);
-	return str.substring(i,str.length);
-	}
-function RTrim(str){
-	if (str==null){return null;}
-	for(var i=str.length-1;str.charAt(i)==" ";i--);
-	return str.substring(0,i+1);
-	}
-function Trim(str){return LTrim(RTrim(str));}
-function LTrimAll(str) {
-	if (str==null){return str;}
-	for (var i=0; str.charAt(i)==" " || str.charAt(i)=="\n" || str.charAt(i)=="\t"; i++);
-	return str.substring(i,str.length);
-	}
-function RTrimAll(str) {
-	if (str==null){return str;}
-	for (var i=str.length-1; str.charAt(i)==" " || str.charAt(i)=="\n" || str.charAt(i)=="\t"; i--);
-	return str.substring(0,i+1);
-	}
-function TrimAll(str) {
-	return LTrimAll(RTrimAll(str));
-	}
-
-
-function verifySurvey(){
-var msg = "";
-email = TrimAll(document.forms.survey1.email.value);
-fname = TrimAll(document.forms.survey1.fname.value);
-lname = TrimAll(document.forms.survey1.lname.value);
-address = TrimAll(document.forms.survey1.address.value);
-city = TrimAll(document.forms.survey1.city.value);
-state = TrimAll(document.forms.survey1.state.value);
-zip = TrimAll(document.forms.survey1.zip.value);
-phone1 = TrimAll(document.forms.survey1.phone1.value);
-phone2 = TrimAll(document.forms.survey1.phone2.value);
-phone3 = TrimAll(document.forms.survey1.phone3.value);
-
-
-	if(email.length<6) {
-		msg = msg + " - Email\r\n";
-	}
-	if(fname.length==0) {
-		msg = msg + " - First name\r\n";
-	}
-	if(lname.length==0) {
-		msg = msg + " - Last name\r\n";
-	}
-	if(address.length==0) {
-		msg = msg + " - Address\r\n";
-	}
-	if(city.length==0) {
-		msg = msg + " - City\r\n";
-	}
-	if(state.length<2) {
-		msg = msg + " - State\r\n";
-	}
-	if(zip.length<5) {
-		msg = msg + " - Zip\r\n";
-	}
-	if(phone1.length<3) {
-		msg = msg + " - Area code\r\n";
-	}
-	if(phone2.length<3) {
-		msg = msg + " - Phone prefix\r\n";
-	}
-	if(phone3.length<4) {
-		msg = msg + " - Phone suffix\r\n";
-	}
-
-	//alert(msg.length);
-	if(msg.length>0){
-	alert("Please correct the following:\r\n" + msg);
-	return false;
-	}
-}
-
-
-function getHTTPObject() {
-	var xmlhttp;
-	//look for mozilla/firefox version
-	if(window.XMLHttpRequest) {
-    	try {
-			xmlhttp = new XMLHttpRequest();
-        } catch(e) {
-			xmlhttp = false;
-        }
-    // branch for IE/Windows ActiveX version
-    } else if(window.ActiveXObject) {
-       	try {
-        	xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
-      	} catch(e) {
-        	try {
-          		xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-        	} catch(e) {
-          		xmlhttp = false;
-        	}
-		}
-    }
-	return xmlhttp;
-}
-
-var http = getHTTPObject();
-
-function sendData(email, zip) {
-	var now = new Date();
-	var myurl = "/includes/quickoptin_processor.asp"
-	http.open("GET", myurl + "?emailaddress=" + escape(email) + "&zipcode=" + escape(zip) + "&time=" +  now.getTime(), true);
-	http.onreadystatechange = useHttpResponse;
-	http.send(null);
-} 
-
-
-function useHttpResponse() {
-	if (http.readyState == 4) {
-		var strResponse = http.responseText;
-		writeToLayer(strResponse, "quickOptIn");
-	}
-}
-
-function submitOptIn() {
-	var emailaddress;
-	var zipcode;
-	emailaddress = document.quickOptInForm.quickEmail.value;
-	zipcode = document.quickOptInForm.quickZip.value;
-	if (!_CF_checkemailformat(emailaddress)) {
-		alert("Please enter a valid email address.");
-	} else if (!_CF_checkzip(zipcode)) {
-		alert("Please enter a valid zip code.");
-	} else {
-		sendData(emailaddress, zipcode);
-	}
-	
-}
-
-function writeToLayer(text,id)
-{
-	if (document.getElementById)
-	{
-		x = document.getElementById(id);
-		x.innerHTML = '';
-		x.innerHTML = text;
-	}
-	else if (document.all)
-	{
-		x = document.all[id];
-		x.innerHTML = text;
-	}
-	else if (document.layers)
-	{
-		x = document.layers[id];
-		text2 = '<P CLASS="testclass">' + text + '</P>';
-		x.document.open();
-		x.document.write(text2);
-		x.document.close();
-	}
-}
-
-
-</script>
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
-<!--
-
-
-function _CF_onError(form_object, input_object, object_value, error_message)
-    {
-	alert(error_message);
-       	return false;	
-    }
-
-
-
-function _CF_hasValue(obj, obj_type)
-    {
-    if (obj_type == "TEXT" || obj_type == "PASSWORD")
-	{
-    	if (obj.value.length == 0) 
-      		return false;
-    	else 
-      		return true;
-    	}
-    else if (obj_type == "SELECT")
-	{
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj.options[i].selected)
-			return true;
-		}
-
-       	return false;	
-	}
-    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
-	{
-
-		if (obj.checked)
-			return true;
-		else
-       		return false;	
-	}
-    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
-	{
-
-        for (i=0; i < obj.length; i++)
-	    	{
-		if (obj[i].checked)
-			return true;
-		}
-
-       	return false;	
-	}
-	}
-
-
-
-function _CF_checkinteger(object_value)
-    {
-    //Returns true if value is a number or is NULL
-    //otherwise returns false	
-
-    if (object_value.length == 0)
-        return true;
-
-    //Returns true if value is an integer defined as
-    //   having an optional leading + or -.
-    //   otherwise containing only the characters 0-9.
-	var decimal_format = ".";
-	var check_char;
-
-    //The first character can be + -  blank or a digit.
-	check_char = object_value.indexOf(decimal_format)
-    //Was it a decimal?
-    if (check_char < 1)
-	return _CF_checknumber(object_value);
-    else
-	return false;
-    }
-
-
-
-function _CF_numberrange(object_value, min_value, max_value)
-    {
-    // check minimum
-    if (min_value != null)
-	{
-        if (object_value < min_value)
-		return false;
-	}
-
-    // check maximum
-    if (max_value != null)
-	{
-	if (object_value > max_value)
-		return false;
-	}
-	
-    //All tests passed, so...
-    return true;
-    }
-
-
-
-function _CF_checknumber(object_value)
-    {
-    //Returns true if value is a number or is NULL
-    //otherwise returns false	
-
-    if (object_value.length == 0)
-        return true;
-
-    //Returns true if value is a number defined as
-    //   having an optional leading + or -.
-    //   having at most 1 decimal point.
-    //   otherwise containing only the characters 0-9.
-	var start_format = " .+-0123456789";
-	var number_format = " .0123456789";
-	var check_char;
-	var decimal = false;
-	var trailing_blank = false;
-	var digits = false;
-
-    //The first character can be + - .  blank or a digit.
-	check_char = start_format.indexOf(object_value.charAt(0))
-    //Was it a decimal?
-	if (check_char == 1)
-	    decimal = true;
-	else if (check_char < 1)
-		return false;
-        
-	//Remaining characters can be only . or a digit, but only one decimal.
-	for (var i = 1; i < object_value.length; i++)
-	{
-		check_char = number_format.indexOf(object_value.charAt(i))
-		if (check_char < 0)
-			return false;
-		else if (check_char == 1)
-		{
-			if (decimal)		// Second decimal.
-				return false;
-			else
-				decimal = true;
-		}
-		else if (check_char == 0)
-		{
-			if (decimal || digits)	
-				trailing_blank = true;
-        // ignore leading blanks
-
-		}
-	        else if (trailing_blank)
-			return false;
-		else
-			digits = true;
-	}	
-    //All tests passed, so...
-    return true
-    }
-
-
-
-function _CF_checkrange(object_value, min_value, max_value)
-    {
-    //if value is in range then return true else return false
-
-    if (object_value.length == 0)
-        return true;
-
-
-    if (!_CF_checknumber(object_value))
-	{
-	return false;
-	}
-    else
-	{
-	return (_CF_numberrange((eval(object_value)), min_value, max_value));
-	}
-	
-    //All tests passed, so...
-    return true;
-    }
-
-
-
-function _CF_checkphone(object_value)
-    {
-    if (object_value.length == 0)
-        return true;
 		
-    if (object_value.length != 12)
-        return false;
-
-	// check if first 3 characters represent a valid area code
-    if (!_CF_checknumber(object_value.substring(0,3)))
-		return false;
-    else
-	if (!_CF_numberrange((eval(object_value.substring(0,3))), 100, 1000))
-		return false;
-
-	// check if area code/exchange separator is either a'-' or ' '
-	if (object_value.charAt(3) != "-" && object_value.charAt(3) != " ")
-        return false
-
-	// check if  characters 5 - 7 represent a valid exchange
-    if (!_CF_checknumber(object_value.substring(4,7)))
-		return false;
-    else
-	if (!_CF_numberrange((eval(object_value.substring(4,7))), 100, 1000))
-		return false;
-	
-	// check if exchange/number separator is either a'-' or ' '
-	if (object_value.charAt(7) != "-" && object_value.charAt(7) != " ")
-        return false;
-
-	// make sure last for digits are a valid integer
-	if (object_value.charAt(8) == "-" || object_value.charAt(8) == "+")
-        return false;
-	else
-	{
-		return (_CF_checkinteger(object_value.substring(8,12)));
-	}
-    }
-
-function _CF_checkemailformat(object_value) 
-	{
-		var passed = false;
-		var indat = object_value.indexOf("@");
-		var inddot = object_value.indexOf(".");
-		var lastdot = object_value.lastIndexOf(".")
-		if (object_value == "") {
-		return false;
-		}
-		else if (indat <= 0 ||
-		inddot == -1) {
-		return false;
-		}
-		else if (indat > lastdot) {
-		return false;
-		}
-		else if (lastdot == object_value.length - 2) {
-		return false;
-		}
-		else if (lastdot == object_value.length) {
-		return false;
-		}
-		else {
-		passed = true;
-		}
-		return passed;
-}
-
-function _CF_checkpasswordmatch(object_value,object_confirmvalue) 
-	{
-		if (object_value == object_confirmvalue) {
-		return true;
-		}
-		else {
-		return false;
-		}
-}
-
-function _CF_checkzip(object_value)
-    {
-    if (object_value.length == 0)
-        return true;
 		
-    if (object_value.length != 5 && object_value.length != 10)
-        return false;
-
-	// make sure first 5 digits are a valid integer
-	if (object_value.charAt(0) == "-" || object_value.charAt(0) == "+")
-        return false;
-
-	if (!_CF_checkinteger(object_value.substring(0,5)))
-		return false;
-
-	if (object_value.length == 5)
-		return true;
-	
-	// make sure
-
-	// check if separator is either a'-' or ' '
-	if (object_value.charAt(5) != "-" && object_value.charAt(5) != " ")
-        return false;
-
-	// check if last 4 digits are a valid integer
-	if (object_value.charAt(6) == "-" || object_value.charAt(6) == "+")
-        return false;
-
-	return (_CF_checkinteger(object_value.substring(6,10)));
-    }
-
-
-function  _CF_checkAS_Register(_CF_this)
-
-    {
-
-    if  (!_CF_hasValue(_CF_this.firstname, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.firstname, _CF_this.firstname.value, "You must complete your First Name."))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    if  (!_CF_hasValue(_CF_this.lastname, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.lastname, _CF_this.lastname.value, "You must complete your Last Name."))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-
-    if  (!_CF_hasValue(_CF_this.email, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.email, _CF_this.email.value, "You must complete your email.\n\nformat: you@domain.com"))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    if  (!_CF_checkemailformat(_CF_this.email.value))
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.email, _CF_this.email.value, "You must complete your email.\n\nformat: you@domain.com"))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-    if  (!_CF_hasValue(_CF_this.pwd, "TEXT" )) 
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.pwd, _CF_this.pwd.value, "You must complete your Password and the Confirmation Password.\n\nThese must match."))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    if  (!_CF_checkpasswordmatch(_CF_this.pwd.value,_CF_this.cpwd.value))
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.pwd, _CF_this.pwd.value, "Your Password and Confirmation do not match"))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-	if (!(_CF_hasValue(_CF_this.trade2, "RADIO" )) && (_CF_this.tradeconsumer[1].checked))
-		{
-	       if  (!_CF_onError(_CF_this, _CF_this.trade2, _CF_this.trade2.value, "You must enter a trade"  ))
-
-            {
-
-            return false; 
-
-            }
-		}
-
-    return true;
-
-    }
-
-
-var explorer;
-var netscape4;
-var netscape6;
-var theDOM, theSuffix, hiddenKeyword, dhtml, showKeyword;
-if (document.all) {
-explorer = true;
-}
-else if (document.layers) {
-netscape4 = true;
-} else {
-netscape6 = true;
-}
-if(explorer){
-   theDOM = 'document.all';
-   theSuffix = '.style';
-   hiddenKeyword = 'hidden';
-   dhtml = true;
-   showKeyword = 'visible';
-}
-if(netscape4){
-   theDOM = 'document';
-   theSuffix = '';
-   hiddenKeyword = 'hide';
-   dhtml = false;
-   showKeyword = 'show';
-}
-if (netscape6) {
-  theDOM = "document.getElementsByTagName('*')";
-  theSuffix = ".style";
-  hiddenKeyword = "hidden";
-  dhtml = true;
-  showKeyword = 'visible';
-}
-function showOrHide(){
-   
-   if(dhtml){
-			var theObjectReference = eval(theDOM + '.trade' + theSuffix);
-			theObjectReference.visibility = hiddenKeyword;
-			theObjectReference.position = 'absolute';
-			var theObjectReference = eval(theDOM + '.consumer' + theSuffix);
-			theObjectReference.visibility = hiddenKeyword;
-			theObjectReference.position = 'absolute';
 			
-			if (document.forms.AS_Register.tradeconsumer[0].checked)
-			{
-				theObject = document.forms.AS_Register.tradeconsumer[0].value;
-			}
-			else
-			{
-				theObject = document.forms.AS_Register.tradeconsumer[1].value;
-			}
-			if(theObject == "trade" || theObject == "consumer"){
-				var theObjectReference = eval(theDOM + '.' + theObject + theSuffix);
-				if(theObjectReference.visibility == hiddenKeyword){
-					
-					theObjectReference.position = 'static';
-					theObjectReference.visibility = showKeyword;
-				} else {
-					theObjectReference.visibility = hiddenKeyword;
-					
-					
-				}
-			}
-        }
-	else
+		
+	
+
+
+
+	
+	
+	
+		
+	
+		
+
+
+<script type="text/javascript" src="/wcsstore/ConsumerDirectStorefrontAssetStore/javascript/Util.js"></script>	
+<script type="text/javascript" src="/wcsstore/ConsumerDirectStorefrontAssetStore/javascript/textsize.js"></script>
+
+<script type="text/javascript">
+	function fonSizeInit()
 	{
-		document.AS_Register.isrefresh.value = 'true';
-		document.AS_Register.submit();
-	}
-}
-//-->
-
-</script>
-<script language="JavaScript">
-function validateApplication(){
-	var msg = "";
-	name=TrimAll(document.forms.appForm.name.value);
-	if(name.length==0) {
-		msg = msg + "- enter your name\n";
-	}
-
-	address=TrimAll(document.forms.appForm.address.value);
-	if(address.length==0) {
-		msg = msg + "- enter your address\n";
-	}
-
-	city=TrimAll(document.forms.appForm.city.value);
-	if(city.length==0) {
-		msg = msg + "- enter your city\n";
-	}
-	state=TrimAll(document.forms.appForm.state.value);
-	if(state.length==0) {
-		msg = msg + "- select your state\n";
+		//updateText('/wcsstore/ConsumerDirectStorefrontAssetStore/images/rightCol/', 'sText','dText', 'lText');
 	}	
-	zip=TrimAll(document.forms.appForm.zip.value);
-	if(zip.length<5) {
-		msg = msg + "- zip is the wrong length\n";
-	}else{
-		if((zip/zip) != 1) {
-			msg = msg + "- zip must be numeric\n";
-		}		
-	}	
-	
-	phone_home=TrimAll(document.forms.appForm.phone_home.value);
-	var strPhoneMsg = strIsPhone(phone_home,"home phone",1);
-	if(strPhoneMsg != 'okay'){
-		msg = msg + strPhoneMsg + "\n"
-	}	
-
-	phone_alt=TrimAll(document.forms.appForm.phone_alt.value);
-	var strPhoneMsg = strIsPhone(phone_alt,"alternate phone",0);
-	if(strPhoneMsg != 'okay'){
-		msg = msg + strPhoneMsg + "\n"
-	}
-
-	email=TrimAll(document.forms.appForm.email.value);
-	
-	if(email.length==0) {
-		msg = msg + "- enter your email address\n";
-	}else{
-		if(isValidEmail(email)==false){
-			msg = msg + "- email address is in an incorrect format\n";
-		}
-	}
-
-	high_school_name=TrimAll(document.forms.appForm.high_school_name.value);
-	if(high_school_name.length==0) {
-		msg = msg + "- enter your high school name\n";
-	}
-	
-	var rad_val = "";
-	for (var i=0; i < document.appForm.hs_graduated.length; i++)
-	{
-	if (document.appForm.hs_graduated[i].checked)
-		{
-		var rad_val = document.appForm.hs_graduated[i].value;
-		}
-	}
-	if(rad_val.length==0){
-		msg = msg + "- select if you graduated high school\n";
-	}
-	
-	
-	job_title1=TrimAll(document.forms.appForm.job_title1.value);
-	if(job_title1.length==0) {
-		msg = msg + "- enter your job title\n";
-	}
-	
-	company1=TrimAll(document.forms.appForm.company1.value);
-	if(company1.length==0) {
-		msg = msg + "- enter your company name\n";
-	}		
-	
-	description_of_duties1=TrimAll(document.forms.appForm.description_of_duties1.value);
-	if(description_of_duties1.length==0) {
-		msg = msg + "- enter your description of duties\n";
-	}	
-	
-	ending_wage1=TrimAll(document.forms.appForm.ending_wage1.value);
-	if(ending_wage1.length==0) {
-		msg = msg + "- enter your ending wage\n";
-	}	
-
-	reason_for_leaving1=TrimAll(document.forms.appForm.reason_for_leaving1.value);
-	if(reason_for_leaving1.length==0) {
-		msg = msg + "- enter your reason for leaving\n";
-	}	
-	
-	desired_wage=TrimAll(document.forms.appForm.desired_wage.value);
-	if(desired_wage.length==0) {
-		msg = msg + "- enter your desired wage\n";
-	}		
-	
-	
-	
-	sd_dd1 = TrimAll(document.forms.appForm.start_date_dd1.value);
-	sd_mm1 = TrimAll(document.forms.appForm.start_date_mm1.value); 
-	sd_yy1 = TrimAll(document.forms.appForm.start_date_yy1.value);
-	
-	ed_dd1 = TrimAll(document.forms.appForm.end_date_dd1.value);
-	ed_mm1 = TrimAll(document.forms.appForm.end_date_mm1.value); 
-	ed_yy1 = TrimAll(document.forms.appForm.end_date_yy1.value);
-	
-	
-	sd_dd2 = TrimAll(document.forms.appForm.start_date_dd2.value);
-	sd_mm2 = TrimAll(document.forms.appForm.start_date_mm2.value); 
-	sd_yy2 = TrimAll(document.forms.appForm.start_date_yy2.value);
-	
-	ed_dd2 = TrimAll(document.forms.appForm.end_date_dd2.value);
-	ed_mm2 = TrimAll(document.forms.appForm.end_date_mm2.value); 
-	ed_yy2 = TrimAll(document.forms.appForm.end_date_yy2.value);
-
-	sd_dd3 = TrimAll(document.forms.appForm.start_date_dd3.value);
-	sd_mm3 = TrimAll(document.forms.appForm.start_date_mm3.value); 
-	sd_yy3 = TrimAll(document.forms.appForm.start_date_yy3.value);
-	
-	ed_dd3 = TrimAll(document.forms.appForm.end_date_dd3.value);
-	ed_mm3 = TrimAll(document.forms.appForm.end_date_mm3.value); 
-	ed_yy3 = TrimAll(document.forms.appForm.end_date_yy3.value);
-
-	stillEmployed = document.appForm.stillEmployed.checked;
-
-	if(isDate(sd_mm1+'-'+sd_dd1+'-'+sd_yy1)==false){
-		msg = msg + "- enter a valid starting date (job 1)\n";
-	}
-	if(isDate(ed_mm1+'-'+ed_dd1+'-'+ed_yy1)==false){
-		if(stillEmployed==false){
-			msg = msg + "- select if you are still employed or enter a valid ending date (job 1)\n";
-		}
-	}else{
-		if(stillEmployed==true){
-			msg = msg + "- select if you are still employed or enter a valid ending date (job 1)\n";
-		}
-	}
-	
-	if(sd_mm2.length>0 || sd_dd2.length>0 || sd_yy2.length>0){
-		if(isDate(sd_mm2+'-'+sd_dd2+'-'+sd_yy2)==false){
-			msg = msg + "- enter a valid starting date (job 2)\n";
-		}
-		
-	}
-	if(ed_mm2.length>0 || ed_dd2.length>0 || ed_yy2.length>0){
-		if(isDate(ed_mm2+'-'+ed_dd2+'-'+ed_yy2)==false){
-			msg = msg + "- enter a valid ending date (job 2)\n";
-		}
-		
-	}
-	if(sd_mm3.length>0 || sd_dd3.length>0 || sd_yy3.length>0){
-		if(isDate(sd_mm3+'-'+sd_dd3+'-'+sd_yy3)==false){
-			msg = msg + "- enter a valid starting date (job 3)\n";
-		}
-		
-	}
-	if(ed_mm3.length>0 || ed_dd3.length>0 || ed_yy3.length>0){
-		if(isDate(ed_mm3+'-'+ed_dd3+'-'+ed_yy3)==false){
-			msg = msg + "- enter a valid ending date (job 3)\n";
-		}
-		
-	}	
-	
-	closest_store_city=TrimAll(document.forms.appForm.closest_store_city.value);
-	if(closest_store_city.length==0) {
-		msg = msg + "- enter your closest store city\n";
-	}
-
-	closest_store_state=TrimAll(document.forms.appForm.closest_store_state.value);
-	if(closest_store_state.length==0) {
-		msg = msg + "- select your closest store state\n";
-	}	
-
-
-	if(msg != ""){
-		alert("Please correct the following\n"+msg);
-		return false;
-	}else{
-	return true;
-	//return false;
-	}
-}
-
-function popupMovie(filename, title) {
-	window.open('includes/play_video.asp?movie=' + filename + '&title=' + title,'movie','location=no,menubar=no,toolbar=no,scroolbars=no,resiazable=no,width=320,height=256');
-}
-
-function strIsPhone(str,displayText,reqSW){
-	var stripped = str.replace(/[\(\)\.\-\ ]/g, '');
-	var displayMessage = "okay";
-	validString = strIsValid(stripped,'0123456789');
-	
-	//IS required
-	
-	if(reqSW == 1){
-		if(str.length == 0){
-			displayMessage = "- enter your " + displayText;
-		}else if(validString == false){
-			displayMessage = "- " + displayText + " must be numeric\r";
-		}else if(stripped.length != 10){
-			displayMessage = "- " + displayText + " is the wrong length\r";
-		}
-	//not required...
-	}else{
-		if(validString == false){
-			displayMessage = "- " + displayText + " must be numeric (not required)\r";
-		}
-		else if(str.length > 0 && stripped.length != 10){
-			displayMessage = "- " + displayText + " is the wrong length (field not required)\r";
-		}
-	}
-	return displayMessage;
-}
-
-
-function strIsValid(str,allowed){
-    for (var i=0; i< str.length; i++) {
-       if (allowed.indexOf(str.charAt(i)) == -1)
-          return false;
-    }
-    return true;
-}
-
-function isDate(dateStr) {
-	var datePat = /^(\d{1,2})(\/|-)(\d{1,2})(\/|-)(\d{4})$/;
-	var matchArray = dateStr.match(datePat); // is the format ok?
-
-	if (matchArray == null) {
-	//alert("Please enter date as either mm/dd/yyyy or mm-dd-yyyy.");
-	return false;
-	}
-
-	month = matchArray[1]; // p@rse date into variables
-	day = matchArray[3];
-	year = matchArray[5];
-
-	if (month < 1 || month > 12) { // check month range
-	//alert("Month must be between 1 and 12.");
-	return false;
-	}
-
-	if (day < 1 || day > 31) {
-	//alert("Day must be between 1 and 31.");
-	return false;
-	}
-
-	if ((month==4 || month==6 || month==9 || month==11) && day==31) {
-	//alert("Month "+month+" doesn`t have 31 days!")
-	return false;
-	}
-
-	if (month == 2) { // check for february 29th
-	var isleap = (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0));
-	if (day > 29 || (day==29 && !isleap)) {
-	//alert("February " + year + " doesn`t have " + day + " days!");
-	return false;
-	}
-	}
-	return true; // date is valid
-}
-
-
-function validatePaisley(){
-	var msg = "";
-	email=TrimAll(document.forms.appForm.email.value);
-	
-	if(email.length==0) {
-		msg = msg + "- enter your email address\n";
-	}else{
-		if(isValidEmail(email)==false){
-			msg = msg + "- email address is in an incorrect format\n";
-		}
-	}
-	
-	fname=TrimAll(document.forms.appForm.fname.value);
-	if(fname.length==0) {
-		msg = msg + "- enter your first name\n";
-	}
-	lname=TrimAll(document.forms.appForm.lname.value);
-	if(lname.length==0) {
-		msg = msg + "- enter your last name\n";
-	}
-
-	address=TrimAll(document.forms.appForm.address.value);
-	if(address.length==0) {
-		msg = msg + "- enter your address\n";
-	}
-
-	city=TrimAll(document.forms.appForm.city.value);
-	if(city.length==0) {
-		msg = msg + "- enter your city\n";
-	}
-	state=TrimAll(document.forms.appForm.state.value);
-	if(state.length==0) {
-		msg = msg + "- select your state\n";
-	}
-	
-	zip=TrimAll(document.forms.appForm.zip.value);
-	if(zip.length<5) {
-		msg = msg + "- zip is the wrong length\n";
-	}else{
-		if((zip/zip) != 1) {
-			msg = msg + "- zip must be numeric\n";
-		}		
-	}	
-		
-	phone=TrimAll(document.forms.appForm.phone.value);
-	var strPhoneMsg = strIsPhone(phone,"phone",1);
-	if(strPhoneMsg != 'okay'){
-		msg = msg + strPhoneMsg + "\n"
-	}	
-
-
-	if(msg != ""){
-		alert("Please correct the following\n"+msg);
-		return false;
-	}else{
-	//alert("looks good!");
-	return true;
-	//return false;
-	}
-}
-
-function isValidEmail(str) {
-     var emailReg = "^[\\w-_\.]*[\\w-_\.]\@[\\w]\.+[\\w]+[\\w]$";
-     var regex = new RegExp(emailReg);
-     //alert(regex.test(str));
-     return regex.test(str);
-}
-
-
 </script>
 
 
@@ -1097,6 +45,28 @@ function isValidEmail(str) {
 
 
 
+	
+	
+		
+		<meta name="description" content="Tractor Supply Company is the largest retail farm and ranch store chain in the United States.  Whether you're a homeowner caring for a backyard, or a farmer with a 'back 40', we have the products available for purchase online or at your local TSC store to help you get the job done. Our product offering includes all types of feed, fencing, mowers, tools, work clothing, horse supplies and much more.">
+		<meta name="keywords" content="Tractor Supply, Tractor Supply Company, Tractor Supply Co, TSC, Tractor, Supply, company, farm, home, tools, home improvement, agriculture, lawn and garden, equine, horse, pet care, livestock, apparel, ranching">
+		
+		<!--  no meta page -->
+		
+		 
+		
+		
+			
+			
+				
+					
+					   		<title>Privacy Policy</title>						
+										
+				
+			
+		
+		
+	
 
 
 
@@ -1106,269 +76,2774 @@ function isValidEmail(str) {
 
 
 
+<script type="text/javascript">
+document.domain = "tractorsupply.com";
 
+ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, recommendPercentage, productID)  {
+     if (totalReviewsCount == 0) {
+         var bvRevCntr = document.getElementById("BVReviewsContainer");
+         var bvSecRatings = document.getElementById("BVSecondaryCustomerRatings");  
+         var bvSVPLink = document.getElementById("BVSVPLinkContainer");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--TEST--><meta name="description" content="Tractor Supply Company is the largest retail farm and ranch store chain in the United States.  Whether you're caring for a backyard, or a 'back 40', we have the products and services to help you get the job done. Both homeowners and farmers can find what they need at Tractor Supply Company. Our product offering includes all types of feed, fencing, mowers, tools, work clothing and much, much more.">
-<meta name="keywords" content="Tractor Supply, Tractor Supply Company, Tractor Supply Co, TSC, Tractor, Supply, company, farm, home, tools, home improvement, agriculture, lawn and garden, equine, horse, pet care, livestock, apparel, ranching">
-<script src="Dispatcher.js"></script><script src="AC_RunActiveContent.js" type="text/javascript"></script><script src="AC_ActiveX.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="includes/style_sheet.css"></head><body bgcolor="#FEF7E2" leftmargin="0" topmargin="10" marginwidth="0" marginheight="10" onload="MM_preloadImages('images/navigation/subPage_on/101.gif','images/navigation/subPage_on/103.gif','images/navigation/subPage_on/105.gif','images/navigation/subPage_on/107.gif','images/navigation/subPage_on/109.gif','images/navigation/subPage_on/111.gif','images/navigation/subPage_on/113.gif','images/navigation/subPage_on/115.gif','images/navigation/subPage_on/117.gif','images/navigation/subPage_on/119.gif');"><center><table bgcolor="#FEF7E2" cellpadding="0" cellspacing="0" border="0" width="749" bordercolor="red"><tbody><tr><td valign="middle" width="236"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="default.asp" target="_top"><img border="0" src="images/header/logo.gif" alt="Tractor Supply Company"></a></td><td bgcolor="#D26E3D" width="1"><img src="images/cp.gif" width="1" height="45"></td><td><img border="0" src="images/header/the_stuff.gif"></td></tr></tbody></table></td><td bgcolor="#D26E3D" width="1"><img src="images/cp.gif" width="1" height="1"></td><td width="512"><table cellpadding="0" cellspacing="0" border="0" width="512"><tbody><tr><td><table cellpadding="1" cellspacing="0" border="0">	<form action="customer_service.asp?action=editStore" method="post" target="_top"></form>	<input type="hidden" name="pageid" value="s">	<input type="hidden" name="srchtype" value="z">	<tbody><tr>		<td width="1"><img src="images/cp.gif" width="1" height="1"></td>		<td bgcolor="#CCC3AC" width="75"><img src="images/header/store_locator.gif"></td>		<td bgcolor="#CCC3AC" align="right" width="70"><input type="text" name="zip" value="Enter Zip" size="8" onfocus="this.value='';"></td>		<td bgcolor="#CCC3AC" align="left" width="40"><input type="image" name="zipsrchbutton" src="images/header/button_arrow.gif" border="0"></td>		<td bgcolor="#CCC3AC" width="1"><img src="images/cp.gif" width="1" height="1"></td>	</tr>	</tbody></table></td><td><img src="images/cp.gif" width="2" height="1"></td><td bgcolor="#D26E3D"><img src="images/cp.gif" width="1" height="1"></td><td align="right"><a href="customer_service.asp?pageid=r" target="_top" onclick="return doIt();">Register / Sign In</a></td></tr><tr><td width="100%" colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td width="100%" colspan="4" bgcolor="#D26E3D"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td width="100%" colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td><table cellpadding="1" cellspacing="0" border="0"><form action="search.asp" method="post" name="searchForm" onsubmit="return submitSearch(&quot;searchForm&quot;);" target="_top"></form><tbody><tr><td width="1"><img src="images/cp.gif" width="1" height="1"></td><td bgcolor="#CCC3AC" align="right"><input type="text" name="keyword" value="Product Search" size="23" onfocus="this.value='';"></td><td bgcolor="#CCC3AC" align="right" width="40"><input type="image" src="images/header/button_arrow.gif" border="0"></td><td bgcolor="#CCC3AC" width="1"><img src="images/cp.gif" width="1" height="1"></td></tr></tbody></table></td><td><img src="images/cp.gif" width="2" height="1"></td><td bgcolor="#D26E3D"><img src="images/cp.gif" width="1" height="1"></td><td class="bold_10px" align="right" width="100%" nowrap=""><script language="JavaScript">
-{
-top_nav_1_off = new MakeArray(3)
-top_nav_1_on = new MakeArray(3)
-top_nav_1_off[0].src = "images/header/careers_off.gif"
-top_nav_1_on[0].src = "images/header/careers_on.gif"
-top_nav_1_off[1].src = "images/header/out_here_off.gif"
-top_nav_1_on[1].src = "images/header/out_here_on.gif"
-top_nav_1_off[2].src = "images/header/customer_service_off.gif"
-top_nav_1_on[2].src = "images/header/customer_service_on.gif"
-top_nav_1_off[3].src = "images/header/shopping_list_off.gif"
-top_nav_1_on[3].src = "images/header/shopping_list_on.gif"
-}
-function MakeArray(n) {
-this.length = 3
-for (var i = 0; i<=n; i++) {
-this[i] = new Image()
-}
-return this
-}
-</script>
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td nowrap=""><a href="/careers/" onmouseout="document.nav0.src=top_nav_1_off[0].src" onmouseover="document.nav0.src=top_nav_1_on[0].src" target="_blank"><img border="0" name="nav0" src="images/header/careers_off.gif" alt="Careers"></a><img src="images/header/splitter_1.gif"><a href="outhere.asp?linkedFrom=Homepage" onmouseout="document.nav1.src=top_nav_1_off[1].src" onmouseover="document.nav1.src=top_nav_1_on[1].src" target="_top"><img border="0" name="nav1" src="images/header/out_here_off.gif" alt="Out Here Magazine"></a><img src="images/header/splitter_1.gif"><a href="customer_service.asp?linkedFrom=Homepage" onmouseout="document.nav2.src=top_nav_1_off[2].src" onmouseover="document.nav2.src=top_nav_1_on[2].src" target="_top"><img border="0" name="nav2" src="images/header/customer_service_off.gif" alt="Customer Service"></a><img src="images/header/splitter_1.gif"><a href="shopping_list.asp?linkedFrom=Homepage" onmouseout="document.nav3.src=top_nav_1_off[3].src" onmouseover="document.nav3.src=top_nav_1_on[3].src" target="_top"><img border="0" name="nav3" src="images/header/shopping_list_off.gif" alt="Shopping List"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td colspan="3"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="3" bgcolor="#993300"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="3"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFCC99"><img src="images/cp.gif" width="1" height="1"></td></tr></tbody></table>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+         if (bvRevCntr) { bvRevCntr.style.display = "none"; }                       
+         if (bvSVPLink) { bvSVPLink.style.display = "none"; }
+         if (bvSecRatings) { bvSecRatings.style.display = "block"; }                
+     }
+     // Other custom items leveraging these values.
+     // TODO: insert Web Analytics tracking here  
+  }  
 </script>
 
 
+
+</head>
+
+
+
+
+
+	
+	
+		
 	
 
-
-
-
-<table width="749" bgcolor="#FEF7E2" border="0" bordercolor="red" cellpadding="0" cellspacing="0">
-	
-		<tbody><tr><td colspan="19"><img src="images/cp.gif" width="1" height="2"></td></tr>
-	
-  <tr> 
-  	<td><a href="detail.asp?pcID=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Tools','','images/navigation/subPage_on/101.gif',1)" target="_top"><img src="images/navigation/subPage_off/101.gif" alt="Tools" name="Tools" width="56" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/102.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home Improvement','','images/navigation/subPage_on/103.gif',1)" target="_top"><img src="images/navigation/subPage_off/103.gif" alt="Home Improvement" name="Home Improvement" width="86" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/104.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=3" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Vehicle Mainenance','','images/navigation/subPage_on/105.gif',1)" target="_top"><img src="images/navigation/subPage_off/105.gif" alt="Vehicle Maintenance" name="Vehicle Mainenance" width="83" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/106.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=4" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Agriculture','','images/navigation/subPage_on/107.gif',1)" target="_top"><img src="images/navigation/subPage_off/107.gif" alt="Agriculture" name="Agriculture" width="81" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/108.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=5" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Lawn &amp; Garden','','images/navigation/subPage_on/109.gif',1)" target="_top"><img src="images/navigation/subPage_off/109.gif" alt="Lawn &amp; Garden" name="Lawn &amp; Garden" width="69" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/110.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Equine Care','','images/navigation/subPage_on/111.gif',1)" target="_top"><img src="images/navigation/subPage_off/111.gif" alt="Equine Care" name="Equine Care" width="64" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/112.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=7" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Pet Care','','images/navigation/subPage_on/113.gif',1)" target="_top"><img src="images/navigation/subPage_off/113.gif" alt="Pet Care" name="Pet Care" width="45" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/114.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=8" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Livestock Care','','images/navigation/subPage_on/115.gif',1)" target="_top"><img src="images/navigation/subPage_off/115.gif" alt="Livestock Care" name="Livestock Care" width="74" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/116.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=9" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Recreation','','images/navigation/subPage_on/117.gif',1)" target="_top"><img src="images/navigation/subPage_off/117.gif" alt="Recreation" name="Recreation" width="79" height="34" border="0"></a></td>
-    <td><img src="images/navigation/subPage_off/118.gif" width="5" height="34"></td>
-    <td><a href="detail.asp?pcID=10" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Apparel','','images/navigation/subPage_on/119.gif',1)" target="_top"><img src="images/navigation/subPage_off/119.gif" alt="Apparel" name="Apparel" width="67" height="34" border="0"></a></td>
-  </tr>
  
-  
-  <tr> 
-    <td colspan="5" valign="top"><img src="images/navigation/subPage_off/120.gif" width="235" height="17"></td>
-    <td colspan="4" valign="top"><img src="images/navigation/subPage_off/121.gif" width="160" height="17"></td>
-    <td colspan="6" valign="top"><img src="images/navigation/subPage_off/122.gif" width="198" height="17"></td>
-    <td colspan="4" valign="top"><img src="images/navigation/subPage_off/123.gif" width="156" height="17"></td>
-  </tr>
-  
-  <tr><td colspan="19"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="19" bgcolor="#993300"><img src="images/cp.gif" width="1" height="2"></td></tr>
-</tbody></table><title>Tractor Supply Company - About TSC</title>
-<table width="749" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top" width="163" align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="purple">
-<tbody><tr><td colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr>
-<tr>
-<td bgcolor="E3BE94" colspan="3"><img src="images/cp.gif" width="1" height="1"></td>
-<td><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td colspan="2"><img src="images/cp.gif" width="1" height="2"></td>
-<td bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td bgcolor="ccc3ac"><img src="images/cp.gif" width="158" height="8"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td><img src="images/left_nav/dots_158_by_1.gif" width="158" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td><img src="images/cp.gif" width="1" height="3"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr><td align="center"><img alt="" src="images/left_nav/h_aboutTSC.gif" height="8"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td><img src="images/cp.gif" width="1" height="3"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td><img src="images/left_nav/dots_158_by_1.gif" width="158" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td bgcolor="ccc3ac"><img src="images/cp.gif" width="1" height="5"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td bgcolor="ccc3ac" width="158">
-<font color="000000"><table cellpadding="2" cellspacing="0" width="100%"><tbody><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=history" class="Left_Nav_font_black">History</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=historyBook" class="Left_Nav_font_black">History Book</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="/careers/" class="Left_Nav_font_black" target="_blank">Employment</a></td></tr><tr><td><span class="normal_9px">»</span>&nbsp;<a href="about_TSC.asp?pageID=policies" class="Left_Nav_font_selected_black">Policies</a></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about_TSC.asp?pageID=policies&amp;sectionID=refund&amp;#refund" class="Left_Nav_font_black">Refund Policy</a></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about_TSC.asp?pageID=policies&amp;sectionID=privacy&amp;#privacy" class="Left_Nav_font_black">Privacy</a></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="about_TSC.asp?pageID=policies&amp;sectionID=legal&amp;#legal" class="Left_Nav_font_black">Legal Policy</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=buyingdays" class="left_nav_font_black">Open Buying Days</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=management" class="left_nav_font_black">Key Management Profiles</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=mission" class="left_nav_font_black">Mission Values</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=expertise" class="left_nav_font_black">Product Category Expertise</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=company" class="left_nav_font_black">Company Profile</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=facts" class="Left_Nav_font_black">Fact Sheet</a></td></tr><tr><td><span class="normal_9px">&nbsp;</span>&nbsp;<a href="about_TSC.asp?pageID=states" class="Left_Nav_font_black">Stores by State</a></td></tr></tbody></table>
-</font></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td bgcolor="ccc3ac"><img src="images/cp.gif" width="1" height="5"></td>
-<td width="1"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1" bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td width="1"><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td colspan="2"><img src="images/cp.gif" width="1" height="2"></td>
-<td bgcolor="E3BE94"><img src="images/cp.gif" width="1" height="1"></td>
-<td><img src="images/cp.gif" width="2" height="1"></td>
-</tr>
-<tr>
-<td bgcolor="E3BE94" colspan="3"><img src="images/cp.gif" width="1" height="1"></td>
-<td><img src="images/cp.gif" width="1" height="1"></td>
-</tr>
-<tr><td colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr>
-<tr><td bgcolor="990000" colspan="4"><img src="images/cp.gif" width="1" height="2"></td></tr>
-</tbody></table>
-</td><td width="2" bgcolor="#993300"><img src="images/cp.gif" width="2" height="1"></td><td width="100%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table3"><tbody><tr><td class="bold_16px" colspan="2"><br>&nbsp;POLICIES</td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><td width="2" bgcolor="#B88981"><img src="images/cp.gif" width="2" height="1"></td></tr><tr><td><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td width="2" valign="top" bgcolor="#993300"><img src="images/cp.gif" width="2" height="2"></td></tr><tr><td><table width="100%" border="0" cellspacing="4" cellpadding="4" id="Table2"><tbody><tr><td align="center"><p class="Header_990000_bold_12px">We may be outside the city limits,<br>but we still live by the rules.</p></td></tr><tr><td align="center"><ul></ul><table align="center" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><li><a href="#refund">Refund Policy</a></li></td></tr><tr><td><li><a href="#privacy">Privacy</a></li></td></tr><tr><td><li><a href="#legal">Legal Policy</a></li></td></tr></tbody></table><br><br><br><br></td></tr><tr><td align="center">----------------------------------------------------------------------------------------------------------------</td></tr><tr><td><p><a name="#refund">&nbsp;</a><br><table cellspacing="4" cellpadding="4" width="100%" border="0" id="tblRefund"><tbody><tr><td colspan="3"><p align="center" class="Header_990000_bold_12px">Hassle-free refunds up to 30 days<br>from purchase date with receipt.<br><br></p></td></tr><tr><td width="33%"><strong>Return Made</strong></td><td width="33%" valign="top"><strong>If refund occurs within 30 days of purchase and was paid for by...</strong></td><td width="33%" valign="top"><strong>Refund issued in form of...</strong></td></tr><tr><td rowspan="5"><table><tbody><tr><td>With receipt and within 30 days from date of purchase</td><td><img src="images/thingiemabob.gif"></td></tr></tbody></table></td><td>Cash</td><td>Cash<font color="red">*</font></td></tr><tr><td>Check less than 10 business days from purchase date</td><td>Check mailed from our<br>Store Support Center</td></tr><tr><td>Check 10 or more days from purchase date</td><td>Cash if under $100*<br>Check if over $100<br>mailed from our<br>Store Support Center.</td></tr><tr><td>Credit Card</td><td>Credit issued to same credit card account</td></tr><tr><td>Gift Card</td><td>Merchandise Return Card <font color="red">*</font></td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"><br><br><font color="red">*</font>Subject to available cash on hand.</td></tr><tr><td colspan="3">MANAGER APPROVAL IS REQUIRED for any return made without a receipt and/or after 30 days from date of purchase. If approved, the refund will only be issued in the form of a check mailed from our Store Support Center.</td></tr><tr><td colspan="3" align="center"><br><a href="#Top">Back to Top</a></td></tr></tbody></table></p></td></tr><tr><td align="center">----------------------------------------------------------------------------------------------------------------</td></tr><tr><td><p><a name="#privacy">&nbsp;</a><br><table cellspacing="4" cellpadding="4" width="100%" border="0" id="tblPrivacy"><tbody><tr><td colspan="2"><p align="center"></p><div class="Header_990000_bold_12px" align="center">INTERNET &amp; CONTEST DATA<br>PRIVACY POLICY</div><p></p><div class="bold_12px">CONTESTS</div><br><b>Tractor Supply Company Respects Your Privacy</b><br>Tractor Supply Company (TSC) collects personal information about our users during sign up for our contests. The information we collect is used in the aggregate to give us demographic information about the entire Tractor Supply Company customer base to improve our service and help us sell the advertising that supports the site. Tractor Supply Company does not sell or give visitor information to third parties for the purpose of direct mail or spamming without visitor permission. However, the personal information you provide lets us inform you about updates to Tractor Supply Company and, if you have elected to receive such information, the products and services of Tractor Supply's vendors who we believe may be of interest to you.<p></p><p><b>Contest Entries</b><br>Tractor Supply Company (TSC) collects information from all contest entrants except those under the age of 13 years old. Information collected during this process is used to tell us about your system ownership and preferences for awarding contest prizes, as well as, contact information should you win. In addition, should you also choose to receive promotional mailings from Tractor Supply Company contest sponsors (vendors) your contact and system ownership information may be forwarded to them so that they may contact you with information related to their products and services.</p><p>Tractor Supply Company does not release any e-mail addresses from users unless they have specifically and actively consented to this use during the contest entry process. Tractor Supply Company generally conducts mailings on behalf of third parties to ensure the proper use of such information. Tractor Supply Company permits a third party to use the information for limited purposes only after the agreement to comply with certain safeguards and other requirements.</p><p>Tractor Supply Company respects your right to privacy. As part of the contest entry process, we give you the opportunity to decline to receive any mailings from other parties to whom Tractor Supply Company may provide such information.</p><p><b>Surveys and User Research</b><br>Tractor Supply Company also conducts periodic e-mail and Web-delivered surveys to gather information about our audience. We share the aggregate results of these surveys - not individual data - with our vendors to help them better understand our Internet audience and monitor the reach of their advertising on our Web site. Tractor Supply Company uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information.</p><p>If you have questions please send an e-mail to <a href="mailto:cseay@tractorsupply.com">cseay@tractorsupply.com</a>.</p><p></p><div class="bold_12px">INTERNET</div><br>Tractor Supply Company does not rent, sell or exchange information about its customers. Access to customer information is limited to those employees who need it to carry out their business functions.<p></p><p>When transmitting sensitive information online (such as credit card information), Tractor Supply Company uses the industry standard security measure called Secure Socket Layer, or SSL, encryption (indicated by the locked icon at the bottom of most browsers).</p><p>Tractor Supply Company collects personally identifiable information (such as name, address, telephone number or e-mail address) from Web site visitors only when visitors voluntarily provide such information. This information may be stored and used by Tractor Supply Company to better understand its customers' needs, to improve Tractor Supply Company products and services, and to contact customers regarding offers that may be of interest to them. Tractor Supply Company also collects information from Web site visitors that is not personally identifiable such as the visitor's operating system, browser, domain name, and the specific Web pages on the Tractor Supply Company Web site that were visited. Tractor Supply Company may implore the use of a 'cookie' or similar file to gather information that is not personally identifiable.</p></td></tr><tr><td colspan="2" align="center"><br><a href="#Top">Back to Top</a></td></tr></tbody></table></p></td></tr><tr><td align="center">----------------------------------------------------------------------------------------------------------------</td></tr><tr><td><p><a name="#legal">&nbsp;</a><br><table cellspacing="4" cellpadding="4" width="100%" border="0" id="tblLegal"><tbody><tr><td colspan="2"><p align="center" class="Header_990000_bold_12px">LEGAL NOTICE/DISCLAIMER<br>TERMS OF USE</p><p align="center"></p><div class="bold_12px">READ THESE TERMS CAREFULLY<br>BEFORE USING THIS SITE.</div><br>By using this site, tractorsupplyco.com, tractorsupply.com, or mytscstore.com, you agree to these terms. If you do not agree to these terms, do not use the site.<p></p><p><b>Copyright</b><br>All site design, graphics, text and the selection and arrangement thereof, and all software are Copyright © 2005, Tractor Supply Company. ALL RIGHTS RESERVED. Redistribution, retransmission, republication or commercial exploitation of the contents of this site is expressly prohibited without the consent of Tractor Supply Company.</p><p><b>Disclaimer</b><br>TRACTOR SUPPLY COMPANY IS PROVIDING THIS SITE AND ITS CONTENTS ON AN 'AS IS' BASIS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THIS SITE, ITS CONTENTS OR ANY SITE THAT IS LINKED HERETO. TRACTOR SUPPLY COMPANY DISCLAIMS ALL SUCH REPRESENTATIONS AND WARRANTIES, INCLUDING, FOR EXAMPLE, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN ADDITION, TRACTOR SUPPLY COMPANY DOES NOT REPRESENT OR WARRANT THAT THE INFORMATION ACCESSIBLE VIA THIS SITE OR ANY SITE LINKED HERETO IS ACCURATE, COMPLETE OR CURRENT. PRICE AND AVAILABILITY INFORMATION, AS WELL AS OTHER INFORMATION CONTAINED IN THIS SITE, IS SUBJECT TO CHANGE WITHOUT NOTICE.</p></td></tr><tr><td colspan="2" align="center"><br><a href="#Top">Back to Top</a></td></tr></tbody></table></p></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="749" border="0" bordercolor="red" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" bgcolor="#993300"><img src="images/cp.gif" width="1" height="2"></td></tr><tr><td colspan="5"><img src="images/cp.gif" width="1" height="6"></td></tr><tr><td align="center"><div id="quickOptIn">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<form name="quickOptInForm" action="" method="post"></form>
-<td align="center">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><img src="/images/quickoptin/haulin.gif" width="246" height="35" alt=""></td>
-<td><img src="/images/quickoptin/blank.gif" width="5" height="1" alt=""></td>
-<td bgcolor="#7F7B71"><img src="blank.gif" width="1" height="1" alt=""></td>
-<td><img src="/images/quickoptin/blank.gif" width="5" height="1" alt=""></td>
-<td>
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><span class="normal_9px">Email:</span></td>
-</tr>
-<tr>
-<td><input type="textbox" name="quickEmail" size="25"></td>
-</tr>
-</tbody></table>
-</td>
-<td><img src="/images/quickoptin/blank.gif" width="5" height="1" alt=""></td>
-<td>
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><span class="normal_9px">Zip:</span></td>
-</tr>
-<tr>
-<td><input type="textbox" name="quickZip" size="6"></td>
-</tr>
-</tbody></table>
-</td>
-<td><img src="/images/quickoptin/blank.gif" width="5" height="1" alt=""></td>
-<td>
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><img src="blank.gif" width="1" height="12" alt=""></td>
-</tr>
-<tr>
-<td><a href="javascript:submitOptIn()"><img src="/images/quickoptin/sign_up.gif" width="60" height="21" alt="" border="0"></a></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
+   
 
-</tr>
-</tbody></table>
+<body onload="fonSizeInit();">
+	
+	<div id="container">
+	
+		 
+		
+			
+		
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start - JSP File Name:  TSCHeader.jsp -->
+
+<script language="javascript">
+var storeZip = '';
+var storeCity = '';
+var search = '';
+var storeCityLastFocused = 0;
+var storeZipLastFocused = 0;
+
+var storeLocSbtHasFocus = 0;
+var searchSbtHasFocus = 0;
+
+function changeAction()
+  {
+    var x=document.getElementById("StoreSearchForm")
+    x.action="http://" + document.domain + "/webapp/wcs/stores/servlet/StoreLocatorSearchAndResultsView"
+    if(storeZipLastFocused==1)
+      {
+        x.storeZip.value = storeZip;
+      }
+    
+    if(storeCityLastFocused==1)
+      {
+        x.storeCity.value= storeCity; 
+      }
+    document.CatalogSearchForm.ip_textHH.value = search;
+    storeCityLastFocused = 0;
+    storeZopLastFocused = 0;
+    document.StoreSearchForm.submit(); 
+  }  
+function storeZipLostFocus()
+  {
+    storeCityLastFocused = 0;
+    storeZipLastFocused = 1;
+    var x=document.getElementById("StoreSearchForm");
+    storeZip = x.storeZip.value;
+    
+    if((storeZip.length > 0) && (storeZip != null) && (storeZip != 'zip'))
+      {
+        x.storeZip.value=storeZip;    
+      }
+    else
+      {
+         x.storeZip.value = "";
+      }
+  }
+function storeCityLostFocus()
+  {
+    storeZipLastFocused = 0;
+    storeCityLastFocused = 1;
+    var x=document.getElementById("StoreSearchForm");
+    storeCity = x.storeCity.value;
+    
+    if((storeCity.length > 0) && (storeCity != null) && (storeCity != 'city, state'))
+      {
+        x.storeCity.value=storeCity;    
+      }
+    else
+      {
+         x.storeCity.value = "";
+      }    
+  }  
+  
+function searchHHlostFocus(e)
+  {
+    var x = document.getElementById("CatalogSearchForm"); 
+    search =  document.CatalogSearchForm.ip_textHH.value;  
+   // document.CatalogSearchForm.ip_textHH.value="keyword or item#"; 
+    if((search.length > 0) && (search != null) && (search != 'keyword or item#'))
+      {
+        document.CatalogSearchForm.ip_textHH.value=search;    
+      }
+    else
+      {
+         document.CatalogSearchForm.ip_textHH.value = "";
+      }   
+   
+  }  
+ 
+function submitSearch()
+  {
+  
+    document.CatalogSearchForm.ip_textHH.value = search;
+    searchCheck(document.CatalogSearchForm);
+  }
+  
+
+</script>
+
+
+
+
+			
+<div id="header">
+			
+			<div id="logo">
+				
+				<a href="/">
+					<img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/layout/logo.gif" alt="Tractor Supply Co.: The stuff you need out here" width="233" height="40" border="0">
+				</a>
+			</div>
+			<!-- LOGO :: END -->
+			
+		<div id="tscPhoneNum">
+			<p>1-877-718-6750 | <a href="/ServiceDeskView?storeId=10551&amp;catalogId=10001">Customer Service</a></p>                                                                   
+		</div>
+			
+			
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<flow:fileref id="vfileColor" fileid="vfile.color">
+<flow:fileref id="StyleDir" fileid="StyleDir">
+<flow:fileref id="vfileStylesheet" fileid="vfile.stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<flow:fileref id="vfileColor" fileid="vfile.color">
+<flow:fileref id="StyleDir" fileid="StyleDir">
+<flow:fileref id="vfileStylesheet" fileid="vfile.stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+			
+		
+
+
+
+<script language="javascript">
+	function launchStoreFinder() {
+		var url = "http://tractorsupply.shoplocal.com";
+		if ("" != "") {
+			url = url + "?pagename=storefinder&zipcode=&session('zz')&";
+		}
+		window.open(url, "storeFinder");
+	}
+</script>					
+
+
+			<div id="headerLinks">
+			
+				
+					
+					
+					
+					
+					
+					
+				
+				
+				
+
+				
+				
+				
+				
+				 
+
+				<ul>
+				
+				
+				
+					<li class="cartLink">
+						<a href="/OrderCalculate?URL=OrderItemDisplay&amp;storeId=10551&amp;catalogId=10001&amp;orderId=.">
+							Cart: 0 item(s)
+						</a>
+					</li>
+				
+				
+				
+					<!-- <li>
+						<a href="/InterestItemDisplay?storeId=10551&catalogId=10001&listId=.">
+							Shopping List
+						</a>
+					</li> -->
+					<li>
+						<a href="/ServiceDeskView?storeId=10551&amp;catalogId=10001">
+							Customer Service
+						</a>
+					</li>
+				</ul>
+			
+			
+			</div>
+			<!-- HEADER LINKS :: END -->
+ 
+			<div id="storeLocator">
+				<form name="StoreSearchForm" method="post" action="/StoreLocatorSearchAndResultsView" id="StoreSearchForm">
+				<input type="hidden" name="storeId" value="10551" id="WC_StoreLocatorSearchDisplay_FormInput_storeId_In_StoreSearchForm_1">
+				<input type="hidden" name="catalogId" value="10001" id="WC_StoreLocatorSearchDisplay_FormInput_catalogId_In_StoreSearchForm_1">
+				<input type="hidden" name="langId" value="-1" id="WC_StoreLocatorSearchDisplay_FormInput_langId_In_StoreSearchForm_1">
+				<table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td><strong>STORE LOCATOR</strong></td>
+						<td><input type="text" maxlength="5" value="zip" name="storeZip" onkeypress="return isNumberKey(event)" id="storeZip" class="zipcodeTxt" onfocus="inputClear(&quot;storeZip&quot;)" onblur="storeZipLostFocus()"></td>
+						<td>or </td>					
+						<td><input type="text" value="city, state" name="storeCity" id="storeCity" class="locatorTxt" onfocus="inputClear(&quot;storeCity&quot;)" onblur="storeCityLostFocus()"></td>
+						<td>
+						
+						</td><td>
+ 
+						
+						
+						<button class="storeLocGoBtn" type="submit"><span>Go</span></button>
+						</td>
+
+					       
+					       
+					</tr>
+				</tbody></table>
+				</form>
+			</div>
+			<!-- STORE LOCATOR :: END -->
+			
+		</flow:fileref></flow:fileref></flow:fileref></flow:fileref></flow:fileref></flow:fileref></div>
+		<!-- HEADER :: END -->
+		
+		
+	<div id="topNav">
+	
+<script language="javascript">
+   // alert('Testing...');
+   var x=document.getElementById("hiddenCell");
+   var browser=navigator.appName;
+                    
+     if(browser != "Microsoft Internet Explorer")
+     {
+       document.getElementById("hiddenCell").style.display = 'none';
+     }
+ </script>
+			 
+			<div id="mainNav">
+				<img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/layout/mainNavBegin.gif" class="floatLeft" border="0" alt="Main Nav Image" width="3" height="30">
+				<ul>
+			
+					
+					
+					<li>
+						<a href="/">
+							HOME
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					<li>  
+						<a href="/content/storeevents/storeeventspage">
+							STORE EVENTS
+						</a>
+					</li>
+					<li>
+						<a href="/content/home/my_life_out_here">
+							MY LIFE OUT HERE
+						</a>
+					</li>
+					
+										
+					
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+	
+	
+		<li>
+			<a href="/content/abouttsc/aboutuslanding">
+				ABOUT US
+			</a>
+		</li>
+	
+
+
+				</ul>				
+			</div>
+			<!-- MAIN NAV :: END -->
+			
+			
+			
+				
+			<form name="CatalogSearchForm" action="http://www.tractorsupply.com/webapp/wcs/stores/servlet/CatalogSearchResultView" method="get" onsubmit="return SKUFormat()" target="">
+				<input type="hidden" name="storeId" value="10551">
+				<input type="hidden" name="catalogId" value="10001">
+				<input type="hidden" name="langId" value="-1">
+				<input type="hidden" name="pageSize" value="20">
+				<input type="hidden" name="beginIndex" value="0">
+				<input type="hidden" name="sType" value="SimpleSearch">
+				<input type="hidden" name="resultCatEntryType" value="2">
+				<input type="hidden" name="error1" value="">
+                                <input type="hidden" name="ip_text" value="" id="search">
+						
+			<div id="searchNav">
+				<table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td><strong>SEARCH</strong></td>
+						<td><label for="WC_CachedHeaderDisplay_FormInput_searchTerm_In_CatalogSearchForm_1">
+							
+						
+						
+							<input class="input" type="text" size="20" maxlength="32" id="searchHH" name="ip_textHH" title="searchTerm" value="keyword or item #" onfocus="inputClear(&quot;searchHH&quot;)" onblur="searchHHlostFocus(event)">			
+			
+						
+						
+                                                
+                                                	
+                                                
+                                                	
+                                                
+                                                	
+                                                
+                                                	
+                                                
+                                                	
+                                                
+                                                <input type="hidden" name="ip_requestUri" value="CategoryDisplay">
+                                                <input type="hidden" name="ip_categoryId" value="14626">
+                                                <input type="hidden" name="ip_mode" value="">
+                                                <input type="hidden" name="ip_perPage" value="20">
+
+						</label></td> 
+						
+						<td><a href="javascript:searchCheck(document.CatalogSearchForm)">
+						<img border="0" src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/buttons/goBtn.gif" onmouseover="this.src='/wcsstore/ConsumerDirectStorefrontAssetStore/images/buttons/go_hover.gif';" onmouseout="this.src='/wcsstore/ConsumerDirectStorefrontAssetStore/images/buttons/goBtn.gif';" name="go" alt="Submit button for search form"></a></td>							
+						<td>
+						<a href="/content/home/searchhelp">
+							search help
+						</a></td>
+					</tr>
+				</tbody></table>
+			</div>
+			</form>
+			<!-- SEARCH NAV :: END -->
+			
+		</div>
+		<!-- TOP NAVIGATION :: END -->
+		
+		
+		
+		
+		
+		
+	
+	
+		
+		 
+			
+
+		<div id="columnContainer">
+		
+		  	
+			
+				
+				
+				
+				
+				
+			
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start TSCLeftNav.jsp -->
+
+ 
+
+
+
+
+	
+
+
+
+
+<div id="leftCol"> 
+	<!-- #######################################
+	###### Only html needed on page is the ul ##
+	###### with class leftColTopNav           ##
+	###### Each espot should generate an li   ##
+	###### as seen below                      ##
+	#########################################-->
+
+	<ul class="leftColTopNav"><!-- LEFT TOP NAV :: START -->	
+		 
+			
+			<!--  user is guest -->		
+								
+				
+					
+					
+					
+					
+					
+				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start - JSP File Name:  ErrorMessageSetup.jspf -->
+
+       
+
+ 
+
+<!-- End - JSP File Name:  ErrorMessageSetup.jspf -->
+
+<script language="JavaScript">
+	function setCookie(c_name,value,expiredays)
+	{
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate()+expiredays);
+		document.cookie=c_name+ "=" +escape(value)+";path=/"+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+	}
+	if(document.location.href.indexOf("RememberMeLogonFormView") == -1)
+		setCookie('_last_URL',document.location.href,null);
+</script>
+
+
+
+
+
+	
+	
+
+	  
+	
+	<li id="signIn">
+			<a href="/RememberMeLogonFormView?langId=-1&amp;storeId=10551&amp;catalogId=10001&amp;new=Y&amp;storeZip=&amp;storeCity="><img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/buttons/sign_in_bg.gif" alt="Sign In"></a>
+			<a id="signInLink" href="/UserRegistrationForm?langId=-1&amp;storeId=10551&amp;catalogId=10001&amp;new=Y&amp;storeZip=&amp;storeCity=">Not Registered?</a>
+	</li>
+								
+			    
+												
+		
+
+				
+	
+	  
+	  
+	  	  
+	  	     	 
+	    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+
+ 
+ 
+
+ <div id="leftCol">
+
+ 
+ 
+				
+							   
+							   
+							   
+							   
+							   
+				
+   
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+		
+		
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+		
+			
+			
+			
+			
+		
+		
+	
+
+	
+	
+	
+		
+	  		
+		
+		
+	
+	
+		
+	  		
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+
+
+	
+ 	 
+ 	
+
+
+	
+
+
+
+				
+							   
+							   
+							   
+							   
+							   
+				
+   
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+		
+		
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+		
+			
+			
+			
+			
+		
+		
+	
+
+	
+	
+	
+		
+	  		
+		
+		
+	
+	
+		
+	  		
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+
+
+	
+ 	 
+ 	
+
+
+
+
+	
+
+
+	
+ 	
+
+
+		
+			
+			
+
+			
+			
+			
+
+			    
+			
+	
+
+			
+		                                   
+			
+			
+				
+				
+				  
+								
+			
+
+				
+		
+		
+
+		 
+
+         
+
+
+	
+
+  	
+       		
+       		  
+				<ul id="leftColMainNav">
+<li class="subHeader">
+<a href="/content/abouttsc/aboutuslanding">
+                                About Us             </a>             </li>
+             <li class="subHeader"><a href="/content/abouttsc/aboutushistory">
+                                History
+                </a></li>
+                <li class="subHeader"><a href="/content/abouttsc/aboutuscompanyprofile">
+                                Company Profile
+                </a></li>
+                <li class="subHeader"><a href="/content/abouttsc/aboutusmissionvalues">
+                                Mission Values
+                </a></li>
+                <li class="subHeader"><a href="/content/abouttsc/aboutusfactsheet">                              Fact Sheet
+                </a></li>
+                <li class="subHeader"><a href="/content/abouttsc/aboutusproductcategoryexpertise">
+                                Product Category Expertise
+                </a></li>
+<li class="subHeader"><a href="/content/abouttsc/corporate sponsorships">
+                                Corporate Sponsorship
+                </a></li>
+<li class="subHeader"><a href="/content/storeevents/storeeventspage">
+                                Store Events
+                </a></li>
+                <li class="subHeader"><a href="/content/abouttsc/aboutusvendorcenter">
+                                Vendor Center
+                </a></li>
+<li class="navListing">
+<a href="/content/abouttsc/vendor_center_logistics">Logistics Information</a>, <a href="/content/abouttsc/vendor_center_edi&#10;">EDI Information</a>,  <a href="/content/abouttsc/vendordoclibrary">Document Library</a>
+                </li><li class="subHeader"><a href="http://www.tractorsupply.com/careers/" target="_blank">
+                                Careers
+                </a></li>
+                <li class="subHeader"><a href="/InvestorRelationView?storeId=10551&amp;catalogId=10001">
+                                Investor Relations
+                </a></li>
+<li class="subHeader"><a href="/content/home/contests_sweepstakes_special_events">
+                                Contests
+                </a></li>
+
+<li class="subHeader"><a href="/content/abouttsc/marketing_tvspots">
+                                TV Ads
+                </a></li>
+<li class="subHeader"><a href="/content/abouttsc/tsc affiliate program">
+                                Affiliates
+                </a></li>
+</ul>
+		  
+					
+  	
+
+	
+	
+
+
+
+
+				
+				
+							   
+							   
+							   
+							   
+							   
+				
+   
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+		
+		
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+		
+			
+			
+			
+			
+		
+		
+	
+
+	
+	
+	
+		
+	  		
+		
+		
+	
+	
+		
+	  		
+		
+		
+	
+
+	
+	
+	
+
+	
+	
+
+
+	
+ 	 
+ 	
+
+
+	
+	</div>
+	
+    
+
+ 
+ 
+ 
+			 
+			
+	  
+	  
+	
+
+
 </div>
-</td></tr><tr><td colspan="5"><img src="images/cp.gif" width="1" height="6"></td></tr><tr><td colspan="5" bgcolor="#993300"><img src="images/cp.gif" width="1" height="1"></td></tr><tr><td colspan="5"><img src="images/cp.gif" width="1" height="6"></td></tr></tbody></table><table cellpadding="0" cellspacing="0" width="749" border="0"><tbody><tr><td align="center"><img src="images/cp.gif" width="1" height="2"><br><span class="normal_9px">© 2007 Tractor Supply Company is a publicly owned company listed on the NASDAQ under the symbol TSCO</span></td></tr><tr><td align="center"><img src="images/cp.gif" width="1" height="10"></td></tr><tr><td align="center"><img src="images/cp.gif" width="1" height="2"><a class="left_nav_font_black" target="_top" href="/investor_relations.asp">Investor Relations</a><img src="images/cp.gif" width="6" height="1">|<img src="images/cp.gif" width="6" height="1"><a class="left_nav_font_black" target="_top" href="/about_TSC.asp">About TSC</a><img src="images/cp.gif" width="6" height="1">|<img src="images/cp.gif" width="6" height="1"><a class="left_nav_font_black" target="_top" href="/about_TSC.asp?pageID=policies&amp;#privacy">Privacy</a><img src="images/cp.gif" width="6" height="1">|<img src="images/cp.gif" width="6" height="1"><a class="left_nav_font_black" target="_top" href="sitemap.asp">Site Map</a><img src="images/cp.gif" width="6" height="1">|<img src="images/cp.gif" width="6" height="1"><a class="left_nav_font_black" target="_top" href="/about_TSC.asp?pageID=buyingdays">Open Buying Days</a><img src="images/cp.gif" width="6" height="1">|<img src="images/cp.gif" width="6" height="1"><a class="left_nav_font_black" target="_top" href="/customer_service.asp?pageID=c">Contact Us</a><br><img src="images/cp.gif" width="1" height="8"><br></td></tr></tbody></table><title>Tractor Supply Company</title></center></body></html>
+
+<!-- End TSCLeftNav.jsp -->	
+		 	
+		 	
+
+		 	
+			  
+			  
+			     
+			    <div id="centerCol2">
+			  			  
+		        
+			  
+				
+				 
+
+					
+					
+						<div class="bread_crumbs">
+					 
+							<h4>
+							
+							
+							    
+							    
+							    
+							    
+							    
+							    
+							    
+							    
+							    
+							    
+							    
+							    
+							
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<fmt:setlocale value="en_US">
+<fmt:setbundle basename="/ConsumerDirectStorefrontAssetStore/storetext" var="storeText" scope="page">
+<fmt:setbundle basename="/ConsumerDirectStorefrontAssetStore/globalConstants" var="globalConstants" scope="page">
+<fmt:setbundle basename="/ConsumerDirectStorefrontAssetStore/storeErrorMessages" var="storeErrorMessages" scope="page">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<fmt:message var="wcmPath" key="WCM_PATH" bundle="" scope="page">
+
+
+
+
+	
+	
+	
+	
+
+
+
+ 
+
+<!-- BEGIN SidebarDisplay.jspf -->
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<flow:fileref id="vfileColor" fileid="vfile.color">
+<flow:fileref id="StyleDir" fileid="StyleDir">
+<flow:fileref id="vfileStylesheet" fileid="vfile.stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/">Home</a> 
+&nbsp;/&nbsp;
+
+About Us
+
+
+
+
+<!-- END SidebarDisplay.jspf -->
+
+							
+						</flow:fileref></flow:fileref></flow:fileref></fmt:message></fmt:setbundle></fmt:setbundle></fmt:setbundle></fmt:setlocale></h4>
+					</div>
+				
+						
+						
+						  
+						     
+						    	<div id="centerColPadding"> 
+						  			  
+				        
+					
+						
+						
+						    
+						    
+						    
+							
+
+
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+				
+					       		   <table cellspacing="0" cellpadding="0" class="heading_container2">       					<tbody>       						<tr>       							       	
+				
+					       							<td align="center" style="background:url(/wps/wcm/myconnect/eaadcf00470a8331871a876b5af3388e/red_border.gif?MOD=AJPERES) 0px 9px repeat-x; padding: 0px 60px 0px 60px;"><b>Privacy Policy</b></td>       	
+				
+					       							       						</tr>       					</tbody>       		    </table>	
+				
+							<a name="_top_"></a><ol type="A">  <li><a href="#a">Our Customer Pledge</a></li>  <li><a href="#b">Collection and Use of Personal Information</a></li>  <li><a href="#c">Tractor Supply's Additional Use of Personal Information</a></li>  <li><a href="#d">Privacy Preferences/Opt-Out</a></li>  <li><a href="#e">Access to Personal Information</a></li>  <li><a href="#f">California Privacy Rights</a></li>  <li><a href="#g">Children's Privacy Policy</a></li>  <li><a href="#h">Security Limitations</a></li>  <li><a href="#i">Security Questions or Comments</a></li>  <li><a href="#j">How to Contact Tractor Supply</a></li>  <li><a href="#k">Changes to the Privacy and Security Statement</a></li></ol><p>We at Tractor Supply Company ("<u><strong>Tractor Supply</strong></u>") protect the personal information you provide us in accordance with this Privacy and Security Policy. We have prepared this Privacy and Security Policy to let you know how we collect, use, disclose and otherwise manage the personal information you provide to us at any of our Tractor Supply Company stores (the "<u><strong>Stores</strong></u>"), through any Tractor Supply Company Customer Call Centers (the "<u><strong>Customer Call Centers</strong></u>"), through the <a href="http://www.tractorsupply.com">tractorsupply.com</a> website and other sites that may be established by Tractor Supply (the "<u><strong>Sites</strong></u>"). </p><p>When you provide personal information at our Stores, to our Customer Call Centers, or through our Sites you are consenting to the manner in which Tractor Supply will collect, use, disclose and otherwise manage your personal information, as described below. Tractor Supply Company does engage third party service providers ("<u><strong>Service Providers</strong></u>") with whom your information may be shared. Service Providers have their own security policies and Tractor Supply is not responsible for their conduct.</p><p><strong><a name="a"></a>A. Our Customer Pledge</strong> (<a href="#_top_">back to top</a>)</p><p>Tractor Supply will collect, use, disclose and otherwise manage your personal information in accordance with this Privacy and Security Policy.</p><p><strong><a name="b"></a>B. Collection and Use of Personal Information</strong> (<a href="#_top_">back to top</a>)</p><p>Tractor Supply may collect and use personal information that you provide us when you:</p><ul> <li>Purchase, order, return, exchange or request certain information about Tractor Supply's products and services; </li> <li>Request warranty or tax exempt information; </li> <li>Contact a Customer Call Center or customer service desk; </li> <li>Visit, register on, or participate in the features of one of Tractor Supply's Sites, such as a bulletin board or community; </li> <li>Enter into a contest or sweepstakes or respond to one of Tractor Supply's surveys; </li> <li>Provide Tractor Supply with comments or suggestions; </li> <li>Provide Tractor Supply with any information contributed to our Sites on your behalf; or </li> <li>Provide Tractor Supply other contact information. </li></ul><p>When you use one of the Tractor Supply Sites, certain additional information is collected without you being prompted to provide it. This information includes, but is not limited to, cookies, click tracking and tracer tags, which are covered below.</p><p><strong>1. Shopping at Tractor Supply Company<br></strong>When you purchase products and services at one of Tractor Supply's Stores, you may do so anonymously when you pay with cash. If you use a credit or debit card for any of your purchases, whether online or in a store, Tractor Supply will collect your credit or debit card information and keep a history of your purchases. Tractor Supply uses this information to process your orders, to ensure proper delivery, to better assist you when you visit or call us as well as to improve our product and service offerings.</p><p>When you return previously purchased merchandise or request a refund or exchange, you may be asked to give your name, address, telephone number and provide other information that identifies you, such as your driver's license. Tractor Supply collects this information to help prevent fraud.</p><p><strong>2. Customer Call Centers<br></strong>When you call one of Tractor Supply's Customer Call Centers about a product, delivery, an installation, a billing question or for customer service, you may be asked for information that identifies you along with additional information we need to help us promptly answer your questions, such as your name, email information, mailing address and a telephone number where we might contact you. Tractor Supply may retain this information to assist you in the future or for its other business needs.</p><p><strong>3. Online Registration<br></strong>(a) <em>Information Tractor Supply Requests.</em> Registration is an optional service provided by Tractor Supply through its Sites. You do not have to register to browse or shop online. When you register, you are asked for certain personal information which may be used to assist us in our provision of services.</p><p>(b) <em>Newsletters.</em> When you register, you will have the opportunity to receive future marketing information from Tractor Supply and to sign up for email newsletters that cover certain subjects that are of interest to you. These newsletters will be sent to you only if you choose to place your name on our mailing list. In order for us to deliver these newsletters, Tractor Supply may need to pass along your name and email address to the Service Providers who supply us with email service and who authenticate and validate the information you provide.</p><p>(c) <em>Updating Your Profile.</em> If you need to view, change, update or delete any of your registration information, log in and click "My Account" at the top of the screen. You will be taken to a page where you can access your information so that you can edit it. For more, see our section entitled "Access to Personal Information."</p><p><strong>4. Contests, Questions or Surveys<br></strong>When you ask a question, participate in a survey or enter a contest or sweepstakes at a Store, a Tractor Supply Company sponsored event or through our Sites, we may collect your personal information. This information is used to administer your participation in a contest or sweepstakes.</p><p><strong>5. Extended Warranty Services<br></strong>If you purchase a Tractor Supply Company Extended Warranty Service, you will be required to provide personal information to third party Service Providers.</p><p><strong>6. Non-Voluntary Information<br></strong><em>(a) General Tracking Information.</em> Tractor Supply keeps records of the pages visited by each site user. Tractor Supply aggregates this information with data on the pages visited by other users to track overall visitor traffic patterns. Tractor Supply uses this information to improve its Sites and to develop functions and user tools which will make it more responsive to the needs and preferences of Tractor Supply customers.</p><p><em>(b) Cookies.</em>  Tractor Supply websites use a technology called "cookies" to help facilitate transactions on the Sites. A cookie is an element of software code that Tractor Supply Sites can send to your browser, which is then stored on your hard drive so we can recognize you when you return. All pages on our Sites where you are prompted to log in or that are customizable require that you accept cookies. If you have registered with our Sites, these cookies: (1) may let us know who you are; (2) are necessary to access the personal information previously provided to us by you in order to deliver products and personalized services; and (3) will provide us and our Service Providers with information that we will use to personalize our Sites in accordance with your preferences. Should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Site.</p><p><em>(c) Tracer Tags.</em> Tractor Supply's Sites may use a technology called "tracer tags", which may also be referred to as "Clear GIFs" or "Web Beacons". This technology allows us to identify which pages you visit on our Sites. These tags are used by us to help optimize and update our Sites for you and other future website visitors.</p><p><em>(d) Other Information.</em> We may collect additional automatic information about your visit to our Site, such as time of day, browser type and version, browser language, your operating system and platform, and the Internet Protocol (IP) address used to connect your computer to the Internet. This information is used for analytical purposes and to help us provide services to our customers. We may also use this information to administer and troubleshoot our Sites.</p><p><em>(e) Aggregate Information.</em> On occasion we may provide this aggregate information (which shall not include personally identifiable information) to vendors, investors, potential advertisers, or news agencies to demonstrate the amount of interest in our Site and to help us plan for technical infrastructure requirements.</p><p><strong><a name="c"></a>C. Tractor Supply's Additional Use of Personal Information</strong> (<a href="#_top_">back to top</a>)</p><p><strong>1. Research and Marketing<br></strong>In the U.S., to better serve you, we may combine the personal information that you provide with publicly available information and information we receive from or cross-reference with our marketing partners and others. Tractor Supply uses that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</p><p><strong>2. Third Party Products<br></strong>We may share personal information about Tractor Supply consumers with third parties in order to provide you with tailored information about products and services and special offers. These Service Providers also have their own privacy statement that sets out the manner in which they will collect, use and disclose personal information.</p><p><strong>3. Service Providers<br></strong>Some of our operations, such as our Customer Call Centers, may be managed by unaffiliated companies. These companies may have access to your personal information on a confidential basis only to the extent necessary to perform their functions.</p><p><strong>4. Shipping<br></strong>If your purchases are being shipped to you, we will share your shipping information with our delivery service providers (United Parcel Service, FedEx, U.S. Postal Service, or other delivery companies we select).</p><p><strong>5. Sale of Business<br></strong>Tractor Supply Company reserves the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets to a third party acquirer.</p><p><strong>6. Legal Disclosure<br></strong>Tractor Supply Company must provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law.</p><p><strong>7. Third Party Links and Data<br></strong>Tractor Supply's Sites may include links to the websites of our business partners, vendors and advertisers. The inclusion of any link does not imply Tractor Supply's endorsement of any other company, its websites, or its products and/or services. These linked websites have separate and independent privacy policies, which we encourage you read carefully. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose and otherwise treat your personal information.Third party Service Providers may need access to some of your personal information. In such cases, we only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We may also provide your information to our affiliated companies and successors. We reserve the right to provide third parties with aggregate statistics about our clients, traffic patterns and related site information. This data reflects site usage patterns, but does not contain personally identifiable information about any individual user.</p><p><strong>8. Secure Shopping<br></strong>When you place orders on tractorsupply.com your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology works with your browser to encrypt your order information before transmitting it to our server.</p><p><strong><a name="d"></a>D. Privacy Preferences/Opt-Out</strong> (<a href="#_top_">back to top</a>)</p><p>If at anytime you would like to be removed from any/all Tractor Supply Company marketing lists, newsletters, distribution lists, or the like, you may do so by contacting us in any of the ways identified in Section J of this page.  Registered site users may log onto their account at TractorSupply.com to change your privacy preferences or opt-out.</p><p><strong><a name="e"></a>E. Access to Personal Information</strong> (<a href="#_top_">back to top</a>)</p><p>As a registered user with our Sites, you can access your profile information at any time by:</p><ul> <li>Clicking on the "Sign In" (link) button at the top of any page on the Sites on which you registered, then </li> <li>Clicking on the "Your Account" (link) button on the page header or on the "Your Account" link under Customer Support. </li></ul><p>For further instructions on accessing the personal information that Tractor Supply Company may have about you, please see the "How to Contact Tractor Supply" Section (Section J) of this Privacy and Security Statement.</p><p><strong><a name="f"></a>F. California Privacy Rights</strong> (<a href="#_top_">back to top</a>)</p><p>Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Tractor Supply Company pursuant to Section 1798.83 of the California Civil Code, please contact us pursuant to any method identified in Section J.</p><p><strong><a name="g"></a>G. Children's Privacy Policy</strong> (<a href="#_top_">back to top</a>)</p><p>Tractor Supply does not intend to collect any personally identifiable information from children through the Tractor Supply Sites. Please do not allow children under the age of 18 to provide any personally identifiable information, ask questions or participate in communities related to our Sites. If we determine that a child under 18 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 18, please notify us by contacting a Tractor Supply Customer Call Center in any of the ways identified in Section J. Please be certain to include in the subject line Privacy Policy Request.</p><p><strong><a name="h"></a>H. Security Limitations</strong> (<a href="#_top_">back to top</a>)</p><p>No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from unauthorized access, use or disclosure, Tractor Supply Company cannot ensure or warrant the security of any information you transmit to us on our Sites.</p><p><strong><a name="i"></a>I. Security Questions or Comments</strong> (<a href="#_top_">back to top</a>)</p><p>If you have any questions, comments or concerns, please contact us in any one of the ways identified in Section J.</p><p><strong><a name="j"></a>J. How to Contact Tractor Supply.</strong> (<a href="#_top_">back to top</a>)<br>You may contact us in one of the following ways:</p><p>1. Send an e-mail to: customerservice@tractorsupply.com</p><p>2. Call 1-877-718-6750;</p><p>3. Send your request by mail to:</p><p>Tractor Supply Company<br>200 Powell Place<br>Brentwood, TN 37027<br>ATTN: Internet Customer Service</p><p>4. Fill out a comment form online now. <u><a href="http://www.tractorsupply.com/webapp/wcs/stores/servlet/ContactUsForm?langId=-1&amp;storeId=10551&amp;catalogId=10001">Click here to go to Contact Us comment form.</a></u></p><p><strong><a name="k"></a>K. Changes to the Privacy and Security Statement</strong> (<a href="#_top_">back to top</a>)</p><p>We may change this Privacy and Security Policy at any time in our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Tractor Supply services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes.</p><p>Last update: October 4, 2007</p><p align="center">Copyright © 2007 Tractor Supply Company, Inc. All Rights Reserved.</p>	
+				
+			
+			
+						
+						
+					</div>
+				
+					
+		
+		
+			
+		
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+		
+
+		</div>
+			
+		</div> 
+		<!-- COLUMN CONTAINER :: END -->
+		
+		<div>
+		
+		
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start - JSP File name:  TSCFooterDisplay.jsp --> 
+
+
+
+
+
+
+
+	
+
+					
+<div id="footer">
+			
+			<ul>
+				<li><a href="/content/abouttsc/tsc%20affiliate%20program">Affiliates</a></li>
+				<li><a href="/content/home/tsccard">Tractor Supply Credit Cards</a></li>
+				<li><a href="http://www.tractorsupply.com/careers/" target="_blank">Careers</a></li>
+				<li><a href="/InvestorRelationView?storeId=10551&amp;catalogId=10001">Investor Relations</a></li>
+				<li><a href="/ContactUsForm?langId=-1&amp;storeId=10551&amp;catalogId=10001">Contact Us</a></li>
+				<li><a href="/content/home/privacy%20policy">Privacy Policy</a></li>
+				<li><a href="/content/home/terms%20and%20conditions%20of%20use">Terms &amp; Conditions</a></li>
+				<li class="liLast"><a href="/SiteMap?langId=-1&amp;storeId=10551&amp;catalogId=10001">Site Map</a></li>
+			</ul>
+			
+			<p>
+			
+			©2010 Tractor Supply Co.
+			</p>
+			<br>
+			&nbsp;
+			
+</div>
+
+
+<div id="verisign3" style="float: right">
+	<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="right">
+				<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.tractorsupply.com">
+					<img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.tractorsupply.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime.">
+				</a>
+			</td>
+			<td align="right">
+				<a target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.TRACTORSUPPLY.COM&amp;lang=en">
+					<img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/layout/verisign.gif" align="right" alt="Verisign Certification" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications." width="134" height="61" border="0">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td align="right">
+				<a href="http://www.verisign.com/ssl/ssl-information-center/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a><!--
+			</td-->
+		</td></tr>
+	</tbody></table>
+</div>
+
+
+		<!-- FOOTER :: END -->
+<!-- End - JSP File name:  TSCFooterDisplay.jsp -->
+		
+		</div>
+		
+		 
+	</div>
+	<!-- CONTAINER :: END -->
+
+
+
+		
+     		
+			
+			
+			
+			
+		
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<flow:fileref id="vfileColor" fileid="vfile.color">
+<flow:fileref id="StyleDir" fileid="StyleDir">
+<flow:fileref id="vfileStylesheet" fileid="vfile.stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start - JSP File Name:  CoremetricsTag.jsp -->
+
+
+
+
+	
+		
+		
+	
+	
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+			
+		
+	
+	
+
+
+	
+	
+	
+		
+	 
+			
+<script language="JavaScript1.1" type="text/JavaScript" src="/wcsstore/ConsumerDirectStorefrontAssetStore/javascript/eluminate.js"></script>
+<script language="JavaScript1.1" type="text/JavaScript" src="/wcsstore/ConsumerDirectStorefrontAssetStore/javascript/cmdatatagutils.js"></script>
+<script language="JavaScript1.1" type="text/JavaScript">
+
+	cmSetProduction();
+
+</script><script language="JavaScript1.1" type="text/JavaScript">
+<!--
+cmCreatePageviewTag("Privacy Policy", "0", null, null, 10551);
+//-->
+</script>
+						
+	
+
+
+
+<!-- End - JSP File Name:  CoremetricsTag.jsp -->
+
+
+<!--  Code removed for iPercpetions -->
+
+
+
+
+
+<!-- BOX - P4-->
+<!-- End - JSP File Name:  SiteTemplate.jsp -->
+
+
+
+<!-- End - JSP File Name:  WcmDisplay.jsp -->
+</flow:fileref></flow:fileref></flow:fileref></body></html>
