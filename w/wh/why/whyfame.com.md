@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyfame.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215004510id_/http%3A//www.whyfame.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyfame.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116095137id_/http%3A//www.whyfame.com/privacypolicy.php) for the most accurate reproduction.*
 
 # WhyFame.com: Privacy Policy
 
