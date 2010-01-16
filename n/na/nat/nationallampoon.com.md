@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationallampoon.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815110746id_/http%3A//www.nationallampoon.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationallampoon.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116231059id_/http%3A//www.nationallampoon.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | National Lampoon
 
