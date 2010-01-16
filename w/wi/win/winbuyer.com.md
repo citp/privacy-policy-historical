@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winbuyer.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227042803id_/http%3A//www.winbuyer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winbuyer.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116061224id_/http%3A//www.winbuyer.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Compare and Get great deals at winbuyer.com
 
 Winbuyer.com Privacy Policy 
 
@@ -30,3 +30,6 @@ Winbuyer.comdoes not share any contact information or IP address information wit
 The privacy and protection of your personal information is vitally important to us. Winbuyer.comdoes not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your Winbuyer.comusage are provided in the aggregate only and do not include any personally identifiable information about any individual user.   
 This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.  
 We are happy to receive any errors that occur while attaching a link from the site. Thank you very much! 
+
+  
+
