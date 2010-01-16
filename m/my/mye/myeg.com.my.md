@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216053709id_/http%3A//www.myeg.com.my/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116081925id_/http%3A//www.myeg.com.my/privacy.htm) for the most accurate reproduction.*
 
 # MyEG Services Berhad
 
