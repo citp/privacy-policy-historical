@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appeagle.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009200326id_/http%3A//appeagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appeagle.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116114222id_/http%3A//appeagle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AppEagle
 
