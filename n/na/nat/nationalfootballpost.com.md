@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalfootballpost.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216021805id_/http%3A//www.nationalfootballpost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfootballpost.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116094723id_/http%3A//www.nationalfootballpost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | National Football Post
 
