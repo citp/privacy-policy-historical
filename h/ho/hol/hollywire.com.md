@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywire.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216062708id_/http%3A//www.hollywire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywire.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116072337id_/http%3A//www.hollywire.com/privacy.html) for the most accurate reproduction.*
 
 # Hollywire.com Privacy Policy
 
