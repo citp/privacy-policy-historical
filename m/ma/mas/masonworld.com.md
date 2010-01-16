@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129032537id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116081924id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
 
 # MasonWorld Privacy Policy | MasonWorld Late Night Internet Marketing
 
@@ -21,3 +21,5 @@ I hope you have a great day, and thanks again for subscribing to the list.
 Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
 #### Related posts
+
+Honesty and integrity are part of our core principles, and we believe strongly in transparent marketing standards. As such, we need you to know that we are compensated for some of our recommendations (it's how we pay the bills). Want to know more? Be sure to read our [disclosure](http://www.masonworld.com/disclosure/). 
