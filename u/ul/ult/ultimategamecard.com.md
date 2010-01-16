@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214205522id_/http%3A//www.ultimategamecard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116022433id_/http%3A//www.ultimategamecard.com/content/privacy-statement) for the most accurate reproduction.*
 
-# Ultimate Game Card: Privacy Statement
+# Privacy Statement | UGC
 
 [Last updated on August 21, 2007]
 
-[](http://www.truste.org/ivalidate.php?url=www.paybycash.com&sealid=101)
+[ ](http://www.truste.org/ivalidate.php?url=www.paybycash.com&sealid=101)
 
 This privacy statement covers the domain **ULTIMATEGAMECARD.COM**. This statement demonstrates our commitment to our users' privacy. This statement covers the following topics, generally considered the most sensitive to users concerned about their privacy:
 
@@ -14,12 +14,9 @@ This privacy statement covers the domain **ULTIMATEGAMECARD.COM**. This statemen
   4. How Internet Payment Solutions, Inc., uses the information. 
   5. With whom Internet Payment Solutions, Inc., may share user information. 
   6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under Internet Payment Solutions, Inc. control. 
+  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under Internet Payment Solutions, Inc.control.
   8. How users can correct any inaccuracies in the information. 
 
-
-
-**Information Collection and Use:**  
 
 
 **Information Collection**  
@@ -37,10 +34,7 @@ This privacy statement covers the use of cookies by UltimateGameCard.com only an
 We do not store information collected through third parties to create a profile of our users. A "profile" is stored information kept on individual users that details their viewing preferences. UltimateGameCard.com does not use persistent cookies nor in any way store information on the user's computer that could be used to build a customer profile. Internet Payment Solutions, Inc., uses log files only to track web site usage. These log files do not contain information that is tied to unique users or their use of our site.
 
 ******Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
-
-**Communications from the Site:**  
-
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp,and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
 
 **Service Announcements**  
 On rare occasions it is necessary to send out a strictly service-related announcement. For instance, if there is an issue regarding the use of our Ultimate Game Card we might send users an email. These communications may be promotional in nature.
@@ -68,11 +62,11 @@ This Web site takes every precaution to protect our users’ information.
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees or contractors who need the information to perform a specific job (for example, our account management service representatives are granted access to personally identifiable information. Our employees or contractors must use password-protected screen-savers when they leave their desk unattended. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. At the time of hire and every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. 
 
-If users have any questions about the security at our Web site, users can send an email to us through our [Contact Form.](https://web.archive.org/contact_us.php?PHPSESSID=s5nn88bougrqlgqhh3bhquo8v0)
+If users have any questions about the security at our Web site, users can send an email to us through our [Contact Form.](https://web.archive.org/contact)
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.  
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please use our [Contact Form.](https://web.archive.org/contact_us.php?PHPSESSID=s5nn88bougrqlgqhh3bhquo8v0)
+If users have any questions or suggestions regarding our privacy policy, please use our [Contact Form.](https://web.archive.org/contact)
