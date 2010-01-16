@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startingpage.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908013520id_/http%3A//www.startingpage.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startingpage.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116151837id_/http%3A//www.startingpage.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
