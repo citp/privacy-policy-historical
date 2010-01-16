@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castlegem.co.uk privacy policy that was archived on 2009-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090120084751id_/http%3A//www.castlegem.co.uk/%3Fpage_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlegem.co.uk privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116030608id_/http%3A//www.castlegem.co.uk/%3Fpage_id%3D9) for the most accurate reproduction.*
 
 # Hosting Virtual Server Dedicated Server Managed Server
 
