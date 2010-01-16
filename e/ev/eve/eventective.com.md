@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113124701id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116055520id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy for Eventective
 
+| |   
+---|---  
+| 
+
+[](https://web.archive.org/)  
+Plan the Perfect Event
+
+|  What's this?  |  | **News**|  **About Us**|  **Contact Us**|  **My Eventective**  
+---|---|---|---  
+  
   
 Eventective.com ("Website") is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. 
 
-The Eventective.com website is owned and operated by Eventective, Inc., which is located at 480 Congress Street, Portland, ME 04101. The website refers visitors to hotels, restaurants, and other Venues that have meeting and event rooms, as well as to event- and meeting-related service providers.
+The Eventective.com website is owned and operated by Eventective, Inc., which is located at 480 Congress Street, Portland, ME 04101. The website refers visitors to hotels, restaurants, and other Venues that have meeting and event rooms, as well as to event- and meeting-related service providers or vendors.
 
-In some instances, when you provide personal information to this website, you are providing it to both Eventective.com and to one of the companies featured on the site. For example, if you create an account with Eventective.com and then search for a Venue in which to hold your event, you may request that information about your event be sent to certain Venues. In this case, your information will be provided to both Eventective.com and the Venues you have chosen.
+In some instances, when you provide personal information to this website, you are providing it to both Eventective.com and to one of the companies featured on the site. For example, if you create an account with Eventective.com and then search for a Venue in which to hold your event, or a Vendor for your event, you may request that information about your event be sent to certain Venues and Vendors. In this case, your information will be provided to both Eventective.com and the Venues or Vendors you have chosen.
 
-Consequently, to understand how any information collected may be used, you should review both Eventective.com's privacy policy and the privacy policy of the hotel, Venue, or service provider you intend to work with or request information from.
+Consequently, to understand how any information collected may be used, you should review both Eventective.com's privacy policy and the privacy policy of the hotel, Venue, or service provider, Vendor, you intend to work with or request information from.
 
-We encourage you to read the Eventective.com privacy policy, as well as those of our participating Venues and service providers, so that you understand what types of personal information are collected and how this information may be used. 
+We encourage you to read the Eventective.com privacy policy, as well as those of our participating Venues and Vendors, so that you understand what types of personal information are collected and how this information may be used. 
 
 **As part of our Privacy Policy, we address the following:**
 
@@ -26,9 +36,7 @@ We encourage you to read the Eventective.com privacy policy, as well as those of
 * Additional information about online privacy and changes to our policy 
 
 **The personal information we collect**  
-Eventective.com and its partners collect personal information necessary to respond to your requests for information about Venues, events, and service providers, as well as our customized products and services, and to allow you to use the resources available on our website, including the creation and maintenance of an account. Personal information includes, but is not limited to, name, physical address, email address, phone number, age and any other information that itself identifies or, when tied to the above information, may identify you as a specific individual. Eventective.com and its partners also collect information related to your event, including dates and locations of your event, and information relating to the number of attendees. Eventective.com also uses order forms for you to request certain information, products and services. On such order forms, we collect your contact information, financial information (including credit card numbers) and demographic information. 
-
-**Referral Program and Surveys.** Eventective.com offers a Referral Program that rewards you for referring other users and members. Your participation in this Referral Program is entirely optional. Information we collect for the Referral Program can include your contact information as well as the contact information of those you refer. Eventective.com also values the opinions and comments from all of our users, so we frequently conduct surveys online, via email, or by telephone. Your participation in these surveys is entirely optional. Information we collect in online surveys will include general information on the use of our site and other demographic information, such as age and income bracket. Survey participants are anonymous unless otherwise stated in the survey. 
+Eventective.com and its partners collect personal information necessary to respond to your requests for information about Venues, Events, and Vendors, as well as our customized products and services, and to allow you to use the resources available on our website, including the creation and maintenance of an account. Personal information includes, but is not limited to, name, physical address, email address, phone number, age and any other information that itself identifies or, when tied to the above information, may identify you as a specific individual. Eventective.com and its partners also collect information related to your event, including dates and locations of your event, and information relating to the number of attendees. Eventective.com also uses order forms for you to request certain information, products and services. On such order forms, we collect your contact information, financial information (including credit card numbers) and demographic information. 
 
 **Cookies.** "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies in several very common ways. Cookie files are used to better understand how you go through our website so that we may tailor your experience at our website. Cookies are also used to tell us whether you have visited our website previously, and to help us determine whether you came to our website from a particular Internet link, banner advertisement, or search engine. Cookies can also be used to help you to save and retrieve passwords and other information and preferences you use on our website, saving you from having to re-enter this information upon every visit to our website. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our partners' sites or when you view or click on banner advertisements served by our outside advertising company and we do not have control over how they use this information. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. However, most of our features will not function if you do not accept cookies. 
 
