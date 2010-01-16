@@ -1,50 +1,53 @@
-> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727160836id_/http%3A//www.velonews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116022016id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VeloNews
+# Privacy Policy – Competitor.com
 
-This policy was updated on April 10, 2008. Please take a few moments to review it. 
+Your privacy and security are important to Competitor Group, Inc. (“Competitor Group”). This privacy statement demonstrates our firm commitment to privacy. This privacy statement discloses the information we gather and how we use it. Any questions concerning this statement should be directed to [customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com).
 
-VeloNews.com will not sell, rent or lease your email address to third parties without your permission. And we won't knowingly allow anyone under 13 to register with any of our sites or to provide other personally identifying information. 
+### Capture and Use of Information
 
-Our relationship with you is something that we value and respect. You are the core of our business. Any goals of long-term success as a company will go unmet if we disappoint readers and customers in how they're treated. 
+Our websites automatically recognize the consumer’s IP address, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
 
-This policy covers all Web sites produced by Competitor Group, Inc, including VeloNews.com, Inside Triathlon.com, VeloGear.com and VeloSwap.com. It also includes our magazine subscription sites. This policy does not cover information collected on sites linked from Competitor Group sites. 
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and used by us to contact consumers for marketing purposes. We may also use your IP address to administer our web sites, and to help diagnose problems with our servers.
 
-Visitor Data and Email collection:  
-Competitor Group only collects personally identifying information with your specific knowledge and consent. For instance, when you register for our services, enter a sweepstakes or contest, complete a survey or subscribe to our magazines, you are asked to provide information such as your email address, name, or phone number. Optional information such as your age or gender may also be requested. 
+Our websites contain links to other web sites. Competitor Group is not responsible for the privacy practices or the content of such websites.
 
-Competitor Group, Inc. uses this information to provide you with the service you have requested. For example, if you subscribe to one of our magazines, we will use your email address to send you a confirmation notice. We may also use this information to send you regular email newsletters, inform you about new features, products or services, or other changes to the services. If you do not wish to receive email communications from us, simply follow the unsubscribe instructions contained within every email message we send. 
+If you register for a Competitor Group event, you will be asked to register for a free ID and password and to provide information on event registration forms. Unique identifiers, such as IDs and passwords, are collected to verify your identity and for use as account numbers in our record system. Your contact information may also be used to contact you when necessary for customer service reasons. Financial information that is collected is used only to bill you for products and services that you specifically request. Your contact information may also be used to provide you with important race updates.
 
-From time to time, we may offer contests, sweepstakes or other promotions on our sites. If you enter one of these promotions, you'll have to provide information about yourself (such as your name and email address) so that we can contact you if you win. We may share this information -- if you give us that permission on the contest or sweepstakes entry -- with any co-sponsor of the promotion, which we will identify in the official rules. 
+[Active.com](http://www.active.com/) is our partner in the registration process for Competitor Group events. [Active.com](http://www.active.com/) holds the same high standard in insuring the integrity of our users’ security and privacy. Please refer to The Active Network’s Privacy Statement for details.
 
-There is also information about your computer hardware and software that is automatically collected by Competitor Group and may be shared with other Web sites within our family of Web sites. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Web sites. 
+<http://www.activenetwork.com/privacy-policy.htm>
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. It is a cookie, for example, that allows us to let you join the VeloNews Tech Talk Forum without having to enter your password for each visit. In addition, we may use cookies to track the pages on our sites visited by users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites. 
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our Web sites -- it is always in the form of aggregated statistics on traffic to various pages within our sites. 
+Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by writing to us at the address below. Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums software, but only for the purpose of and to the extent necessary to provide you with those services. Any third party that has access to our database for this purpose is bound by the terms set forth in this policy. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Mailing Addresses:  
-Postal addresses are used to promote Competitor Group products and services, and may be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully. 
+If you feel that this site is not following its stated information policy, you may contact us at the address below or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office.
 
-Telephone Numbers:  
-Telephone numbers of Competitor Group customers will only be used by Competitor Group to notify customers of current subscription or order status. We will not rent or sell telephone numbers to any third party. 
+### Choice/Opt-Out
 
-Subscribers or applicants who do not want their names used in any of the above ways may write to us at: 
+Our registration forms provide the opportunity to opt-out of receiving communications from Competitor Group at the point where we request contact information about our new customers.
+
+If you do not want to receive e-mail from us in the future, please let us know by writing to us at the address below.
+
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the address below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+
+### Security
+
+Competitor Group has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information. We use a variety of industry-standard security measures to maintain the safety of your personal information. For example, credit card numbers are encrypted in a secure database, which is located behind a firewall. Personal information collected is stored in a secure operating environment that is not available to the public. All credit card and registration information supplied by users is transmitted via [Secure Socket Layer (SSL)](http://www.theactivenetwork.com/exec/tanweb/Secure.cfm?publicationID=289) technology. 
+
+"Perfect security," however, does not exist on the Internet. Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, Competitor Group will disclose personal information about an individual user if we believe in good faith that such disclosure is necessary to comply with an applicable law or valid legal process.
+
+### Contact Us 
 
 Competitor Group, Inc.  
-Circulation Department  
-1830 North 55th St.  
-Boulder, CO 80301-2730 
+9401 Waples Street, Suite 150   
+San Diego, CA 92121   
+(800)-311-1255  
+[customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com)
 
-Or email us at vn-subscriptions@insideinc.com 
+### Protecting Yourself
 
-This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive. 
-
-We welcome your feedback. You can also send us regular mail at the following address: 
-
-Competitor Group, Inc  
-Attn: Circulation  
-1830 N. 55th St.  
-Boulder CO, USA 80301
+You can help to protect your information by safeguarding your Competitor Group password, and by learning more about Internet privacy from web sites such as TRUSTe ([www.truste.com](http://www.truste.com/)).
