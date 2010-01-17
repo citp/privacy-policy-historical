@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usearchlocal.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913060219id_/http%3A//www.usearchlocal.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usearchlocal.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117191731id_/http%3A//www.usearchlocal.com/%3Fsetlocation%3Dhelp%26setarea%3Dprivacy) for the most accurate reproduction.*
 
 # UsearchLocal.com - privacy policy
 
@@ -30,7 +30,7 @@ All credit card and billing information is transferred under 128bit SSL. This me
   
 |   
 ---  
-**Phone: (800) 501-1478**   
+**Phone: 303-658-9149**   
 • 9am - 5pm Weekdays (Eastern)   
 Your email: |   
 Reason: |   
