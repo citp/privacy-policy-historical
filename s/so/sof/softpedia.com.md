@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202152211id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpedia.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117070952id_/http%3A//www.softpedia.com/user/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy policy - Softpedia
 
@@ -54,7 +54,9 @@ As a conclusion, when you access Softpedia website and are asked to offer inform
 
 Our online surveys may ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). The customer's contact information is only used to contact the visitor when necessary. We do not share this information with third parties.
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+
+Advertisements served by Google, as a third party vendor, use [DART cookies](http://www.doubleclick.com/privacy/faq.aspx). These cookies are used to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **How we can correct errors contained by data collected from you**  
 If you create an account to one of our services, we shall send you a confirmation e-mail in which we give you the details of the newly created account. The confirmation message will be sent at the e-mail address that you provided. We strongly advise you to keep this confirmation mail secret, because it contains information that can be useful when you encounter problems in accessing our services. 
