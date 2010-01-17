@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618040822id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117183211id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
-
-[](http://www.etrust.org/cert/879309.html)
 
 Thanks for using [http://www.zazzle.com.au](http://www.zazzle.com.au%3E/) (the "Zazzle Website"). At Zazzle.com, Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Zazzle Website will be subject to the then current privacy policy. 
 
@@ -109,7 +107,7 @@ Zazzle.Com, Inc.
 Attn: Privacy  
 1900 Seaport Blvd  
 Redwood City, CA 94063  
-[COPPA@zazzle.com.au](mailto:COPPA@zazzle.com.au)  
+[coppa@zazzle.com.au](mailto:coppa@zazzle.com.au)  
 +1-408-983-2800. 
 
 ####  How can I change, delete, or update my information? 
