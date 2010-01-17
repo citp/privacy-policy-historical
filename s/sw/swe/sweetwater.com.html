@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sweetwater.com privacy policy that was archived on 2009-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090511192344id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sweetwater.com privacy policy that was archived on 2010-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100117102726id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/Sweetwater_2005_Generic.dwt" codeOutsideHTMLIsLocked="true" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/Sweetwater_2005_Generic.dwt" codeOutsideHTMLIsLocked="true" --><head>
 <!-- InstanceBeginEditable name="head" -->
 <title>Privacy Policy | Sweetwater.com</title>
 <link rel="STYLESHEET" type="text/css" href="/site2.0/css/sweetwater.css">
@@ -26,258 +26,402 @@
 </script></head>
 
 <body bgcolor="white" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
-
 <link rel="stylesheet" type="text/css" href="/modules/css/main.css" media="all">
 <link rel="stylesheet" type="text/css" href="/modules/css/navigation.css" media="all">
 <link rel="stylesheet" type="text/css" href="/modules/css/store_search.css">
 <link rel="stylesheet" type="text/css" href="/site2.0/css/shop.css">
 
-<style type="text/css">
-<!--
-	#gwTabbedMenu { height: 32px; position: relative;width:506px; float: left; overflow: hidden; }
-	#gwTabbedMenu ul { list-style:none; margin:0; padding:0; list-style-position: outside; }
-	#gwTabbedMenu li { display: inline; }
-	#gwTabbedMenu a { float: left; height: 0; overflow: hidden; padding-top: 32px; }
-	#gwTabbedMenu #nowShippingTab a, #gwTabbedMenu #nowShippingTab { background: url(/images/header/tabs-2008.gif) no-repeat left top; width: 107px; }
-	#gwTabbedMenu #dealzoneTab a, #gwTabbedMenu #dealzoneTab {  background: url(/images/header/tabs-2008.gif) no-repeat -107px top; width: 94px; }
-	#gwTabbedMenu #expertCenterTab a, #gwTabbedMenu #expertCenterTab {  background: url(/images/header/tabs-2008.gif) no-repeat -201px top; width: 99px; }
-	#gwTabbedMenu #guitarGalleryTab a, #gwTabbedMenu #guitarGalleryTab {  background: url(/images/header/tabs-2008.gif) no-repeat -300px top; width: 104px; }
-	#gwTabbedMenu #sweetcareTab a, #gwTabbedMenu #sweetcareTab {  background: url(/images/header/tabs-2008.gif) no-repeat -404px top; width: 102px; }
-	
-	#small_menu {
-		position:relative;
-		z-index:5;
-	}
-	#support_popdown {
-		display:none;
-		position:absolute;
-		z-index:200;
-		width:298px;
-		height:128px;
-		background:#FFF url(/images/header/support_popup-bg.gif) repeat-x bottom center;
-		border:1px solid #00519D;
-		border-top:none;
-		padding:10px;
-		text-align:left;
-	}
-	.sws_support_panel {
-		width:130px;
-		height:110px;
-		padding:5px;
-		font-family:Arial;
-		font-size:12px;
-	}
-	.sws_support_panel ul, .panel li {
-		margin:0px;
-		padding:0px;
-	}
-	.sws_support_panel li {
-		margin-left:15px;
-	}
-	#support_leftside {
-		float:left;
-	}
-	#support_rightside {
-		float:right;
-		border-left:1px solid #B7D4EB;
-		width:135px;
-		padding-left:10px;
-	}
-	.support_title {
-		font-size:13px;
-		font-weight:bold;
-		color:#FF0202;
-		padding:0px 0px 3px 0px;
-		margin-bottom:5px;
-		background:#EFF5FA;
-		text-align:center;
-	}
-	a.boldlink {
-		display:block;
-		margin-top:10px;
-		font-weight:bold;
-		font-size:15px;
-		text-decoration:none;
-	}
-	a.boldlink:HOVER {
-		font-weight:bold;
-		text-decoration:underline;
-	}
-	a.support_link img {
-		border:0px;
-		margin-left:5px;
-	}
--->
-</style>
-<!--[if IE]>
-<style type="text/css">
-	#support_popdown {
-		width:320px;
-		height:150px;
-	}
-	.sws_support_panel {
-		width:140px;
-		height:120px;
-	}
-</style>
+<link rel="stylesheet" type="text/css" media="all" href="/include/header/css/header.css">
+
+<!--[if lte IE 7]>
+	<style type="text/css">
+		#SWCatMenu .SWInterest {
+			display:inline;
+			float:left;
+		}
+	</style>
 <![endif]-->
-<script language="JavaScript">
-	var rolledout = false;
-	var mouseX = mouseY = 0;
-	//var supportW = document.getElementById("hotzone").style.width;
-	var supportX = supportY = linkX = linkY = 0;
-	var my_timer;
-	var watching = false;
-	var oldListener;
-	function showSupport() {
-		var popdown = document.getElementById("support_popdown");
-		var winH = 0, winW = 0;
-	
-		if (parseInt(navigator.appVersion)>3) {
-			if (navigator.appName=="Netscape") {
-				winW = window.innerWidth;
-				winH = window.innerHeight;
-			}
-			if (navigator.appName.indexOf("Microsoft")!=-1) {
-				winW = document.body.offsetWidth;
-				winH = document.body.offsetHeight;
-			}
-		}
-		var yoffset = document.body.scrollTop;
-		supportX = (((winW -760)/ 2) + 440);
-		linkX = ((winW -760)/ 2) + 641;
-		popdown.style.left = supportX + "px";
-		supportY = 27;
-		linkY = 15;
-		popdown.style.top = supportY + "px";
-		popdown.style.display = "block";
 
-		//;
+<script language="JavaScript" type="text/javascript">
+	// if not already defined lets define the jquery include
+	if (!document.getElementById("jQuery")) {
+		document.write("<script id=\"jQuery\" type=\"text/javascript\" src=\"/site2.0/js/jquery.js\" ><"+"/script>");
 	}
-	function startWatching() {
-		if (!watching) {
-			watching = true;
-			oldListener = document.onmousemove;
-			document.onmousemove = watchCursor;
+</script><script id="jQuery" type="text/javascript" src="/site2.0/js/jquery.js"></script>
+<script language="JavaScript" type="text/javascript">
+	$(document).ready(function() {
+		function addClass() {
+			var tmpThis = this;
+			clearInterval(this.timer);
+			this.timer = setTimeout(function(){$("#SWCatMenu .selected").removeClass("selected"); $(tmpThis).addClass("selected");},150);
 		}
-	}
-	function hideSupport() {
-		document.getElementById('hotzone').style.display = 'none'
-	}
-	
-	function watchCursor(e) {
-		if (document.all) { // grab the x-y pos.s if browser is IE
-			mouseX = event.clientX + document.body.scrollLeft;
-			mouseY = event.clientY + document.body.scrollTop;
-		} else {  // grab the x-y pos.s if browser is NS
-			mouseX = e.pageX;
-			mouseY = e.pageY;
+		function removeClass() {
+			var tmpThis = this;
+			clearInterval(this.timer);
+			this.timer = setTimeout(function(){$(tmpThis).removeClass("selected")},200);
 		}
-		// catch possible negative values in NS4
-		if (mouseX < 0){mouseX = 0}
-		if (mouseY < 0){mouseY = 0}  
-		// show the position values in the form named Show
-		// in the text fields named MouseX and MouseY
-				
-		if (!(mouseX > supportX && mouseX < (supportX + 320) && mouseY > supportY && mouseY < (supportY + 150)) &&
-			!(mouseX > linkX && mouseX < (linkX + 95) && mouseY > linkY && mouseY < (linkY + 20))) {
-			//alert("mouse: "+mouseX+" "+mouseY+" "+supportX+" "+supportY+" "+linkX);
-			watching = false;
-			document.onmousemove = oldListener;
-			document.getElementById("support_popdown").style.display = 'none';
-		}
-	}
+		// cat menu rules
+		$("#SWCatMenu #SWRecording").hover(addClass,removeClass);
+		$("#SWCatMenu #SWComputer-audio").hover(addClass,removeClass);
+		$("#SWCatMenu #SWGuitar").hover(addClass,removeClass);
+		$("#SWCatMenu #SWBass").hover(addClass,removeClass);
+		$("#SWCatMenu #SWKeyboard").hover(addClass,removeClass);
+		$("#SWCatMenu #SWDrums").hover(addClass,removeClass);
+		$("#SWCatMenu #SWLive-sound").hover(addClass,removeClass);
+		$("#SWCatMenu #SWDj").hover(addClass,removeClass);
+		$("#SWCatMenu #SWBooks-videos").hover(addClass,removeClass);
+		$("#SWCatMenu #SWAccessories").hover(addClass,removeClass);
+		// help menu
+		$("#SWHelp-support").hover(addClass,removeClass);
+		// fix rollover search box
+		$("#s").mouseover(function(){$("#SWCatMenu .selected").removeClass("selected")});
+	});
 </script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td height="72" valign="top" background="/images/header/top-bg.gif">
-			<!-- top header -->
-			<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="169" rowspan="2" valign="top"><a href="/"><img src="/images/header/sw-logo.gif" alt="Sweetwater" width="177" height="72" border="0"></a></td>
-					<!-- top of the top header -->
-					<td width="591" height="35" valign="top">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="26%" align="center" valign="bottom" class="colorred" style="font-size: 18px;">1-800-222-4700</td>
-								<td width="74%" valign="top" class="smallfont" style="padding:15px 0px 4px 5px;"><div id="small_menu" style="white-space:nowrap;"><a href="/forums/">Forums</a> &nbsp;| &nbsp;<a href="/insync/">inSync News</a> &nbsp;| &nbsp;<a href="/store/wishlist.php">Wish List</a> &nbsp;| &nbsp;<a href="/tracking/">Order Status</a> &nbsp;|&nbsp; <a href="/myaccount/">My Account</a> &nbsp;|&nbsp; <a class="support_link" href="/help/" onmouseover="showSupport()" onmouseout="startWatching()">Help / Support<img src="/images/header/down_arrow.gif"></a></div></td>
-							</tr>
-						</tbody></table>
-					</td>
-					<!-- /top of the top header -->
-				</tr>
-				<tr>
-					<td height="31" align="left" valign="bottom"><div id="gwTabbedMenu"><ul><li id="nowShippingTab"><a href="/nowshipping/">What's New!</a></li><li id="dealzoneTab"><a href="/dealzone/">Dealzone</a></li><li id="expertCenterTab"><a href="/expert-center/">Expert Center</a></li><li id="guitarGalleryTab"><a href="/guitargallery/">Guitar Gallery</a></li><li id="sweetcareTab"><a href="/sweetcare/">SweetCare</a></li></ul></div><a href="/store/cart.php"><img src="/images/header/tab-cart.gif" alt="View Cart" width="69" height="31" border="0" style="margin-left: 5px;"></a></td>
-				</tr>
-			</tbody></table>
-			<!-- /top header -->
-		</td>
-	</tr>
-	<tr>
-		<td valign="top" style="background:#004E96 url(/images/header/nav-bg.gif) repeat-x top left;">
-			<!-- nav -->
-			<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td><img src="/images/header/nav-buttons.gif" width="760" height="31" border="0" usemap="#headernav"></td>
-				</tr>
-			</tbody></table>
-			<!-- /nav -->
-		</td>
-	</tr>
-	<tr>
-		<td valign="top" align="center" style="background:#F7F7F7 url(/images/header/subnav-bg.gif) repeat-x top left;">
-			<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="45" valign="top" style="font-family:'Trebuchet MS';font-size:13px;font-weight:bold;padding:9px;">SEARCH</td>
-					<td width="230" valign="middle">
-						<!-- search -->
-						<form name="searchform" id="searchform" method="get" action="/store/search.php" style="margin: 0px; padding: 0px;">
-							<input type="text" name="s" id="s" value="" size="15" style="width:175; margin:0px; padding:0px;">
-							<input type="submit" value="Go!" name="go">
-						</form>
-						<!-- /search -->
-					</td>
-					<td width="128" valign="middle" class="smallfont"><a href="/store/manufacturer/">SHOP BY BRAND</a><a href="/store/manufacturer/"></a></td>
-					<td width="349" align="right" valign="top"><a href="/feature/freeshipping/"><img src="/images/header/subnav-snipe-freeshipping.jpg" alt="Free Shipping!" width="350" height="37" border="0"></a></td>
-				</tr>
-			</tbody></table>
-			<div id="support_popdown">
-				<div id="support_leftside">
-					<div class="sws_support_panel">
-						<div class="support_title">Tech Support:</div>
-						<a href="/sweetcare/"><img src="/images/header/sweetcare_logo.gif" border="0"></a>
-						<div style="margin-top:10px;">Over 15,000 product support articles and factory-authorized service. <a href="/sweetcare/" style="font-weight:bold;">Click Here »</a></div>
-					</div>
-				</div>
-				<div id="support_rightside">
-					<div class="sws_support_panel">
-						<div class="support_title">Customer Service:</div>
+<div id="SWHeader">
+	<div class="SWBody">
+		<div id="SWUtilityMenu">
+			<p id="SWLogo"><a href="/"><img src="/include/header/images/sw-logo.gif" alt="Sweetwater®" width="192" height="65" border="0"></a></p>
+<p id="SWOffer">
+				<a href="/feature/freeshipping/" class="freeship">Free Shipping with no minimum purchase. Learn more »</a>
+			</p>
+			<ul class="SWLinks">
+				<li id="SWHelp-support">
+					<a href="/help/">Help/Support</a>
+					<ul class="SWSupport_dropdown">
+						<li class="SWLeftside">
+							<strong class="SWSupport_title">Tech Support:</strong>
+							<a href="/sweetcare/"><img src="/images/header/sweetcare_logo.gif" border="0"></a>
+							Over 19,000 product support articles and factory-authorized service. <a href="/sweetcare/" style="font-weight:bold;">Click Here »</a>
+						</li>
+						<li class="SWRightside">
+							<strong class="SWSupport_title">Customer Service:</strong>
+							<ul>
+								<li><a href="/help/shipping-delivery.php">Shipping Policy</a>
+								</li><li><a href="/help/returns-exchanges.php">Return Policy</a>
+								</li><li><a href="/help/shipping-delivery.php#5">International Orders</a>
+								</li><li><a href="/help/" style="font-weight:bold;">View All Topics</a>
+							</li></ul>
+							<a href="/about/contact.php" class="SWLgLink">Contact Us »</a>
+						</li>
+					</ul>
+				</li>
+				<li><a href="/tracking/">Order Status</a></li>
+				<li><a href="/store/wishlist.php">Wish List</a></li>
+				<li><a href="/myaccount/">My Account</a></li>
+			</ul>
+			<p class="SWPhoneCart">
+				<a href="/store/cart.php" class="SWCart">Cart</a>
+				<strong class="SWPhone">(800) 222-4700</strong>
+			</p>
+		</div>
+		<div id="SWMainMenu">
+			<form name="searchform" id="searchform" method="get" action="/store/search.php">
+				<input name="s" id="s" value="" size="15" type="text"><input value="Search" name="go" type="submit" class="SWSubmit">
+			</form>
+			<ul>
+				<li><a href="/dealzone/"><span>DealZone</span></a></li>
+				<li><a href="/expert-center/"><span>Videos &amp; Research</span></a></li>
+				<li><a href="/forums/"><span>Community</span></a></li>
+				<li><a href="/guitargallery/"><span>Guitar Gallery</span></a></li>
+				<li><a href="/shop/cables/finder.php"><span>Cable Finder</span></a></li>
+			</ul>
+		</div>
+		<ul id="SWCatMenu">
+			<!-- #SWRecording -->
+			<li id="SWRecording">
+				<a href="/shop/studio" class="SWCat">Recording</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
 						<ul>
-							<li><a href="/help/shipping-delivery.php">Shipping Policy</a>
-							</li><li><a href="/help/returns-exchanges.php">Return Policy</a>
-							</li><li><a href="/help/shipping-delivery.php#5">International Orders</a>
-							</li><li><a href="/help/" style="font-weight:bold;">View All Topics</a>
-						</li></ul>
-						<a href="/about/contact.php" class="boldlink">Contact Us »</a>
-					</div>
-				</div>
-			</div>
-		</td>
-	</tr>
-</tbody></table>
-
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/pro-tools">Pro Tools</a></li>
+							<li class="SWDDRt"><a href="/shop/studio/recorders">Recorder</a></li>
+							<li class="SWDDLt"><a href="/shop/studio/studio-microphones">Microphones</a></li>
+							<li class="SWDDRt"><a href="/shop/studio/studio-monitors">Studio Monitors</a></li>
+							<li class="SWDDLt"><a href="/shop/studio/mixers">Studio Mixers</a></li>
+							<li class="SWDDRt"><a href="/shop/studio/preamps">Preamps</a></li>
+							<li class="SWDDLt"><a href="/shop/studio/signal-processing">Signal Processing</a></li>
+							<li class="SWDDRt"><a href="/shop/studio/studio-furniture">Studio Furniture</a></li>
+							<li class="SWDDLt"><a href="/shop/studio/acoustic-treatment">Acoustic Treatment</a></li>
+							<li class="SWDDRt"><a href="/c1002--Video_Recorders">Video Recorders</a></li>
+							<li class="SWDDLt"><a href="/c1009--Players">Players</a></li>
+							<li class="SWDDRt"><a href="/shop/accessories/toolbox">Studio Tool Box</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Digidesign">Digidesign</a></li><li><a href="/store/manufacturer/PreSonus">PreSonus</a></li><li><a href="/store/manufacturer/Sennheiser">Sennheiser</a></li><li><a href="/store/manufacturer/Focusrite">Focusrite</a></li><li><a href="/store/manufacturer/Universal_Audio">Universal Audio</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/recording-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Recording"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=40"><span>Forums</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWRecording -->
+			<!-- #SWComputer-audio -->
+			<li id="SWComputer-audio">
+				<a href="/shop/computer-audio" class="SWCat">Computer Audio</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/pro-tools">Pro Tools</a></li>
+							<li class="SWDDRt"><a href="/shop/computer-audio/software_plugins">Software &amp; Plug-ins</a></li>
+							<li class="SWDDLt"><a href="/shop/computer-audio/audio_interfaces">Audio Interfaces</a></li>
+							<li class="SWDDRt"><a href="/shop/computer-audio/computers">Computers</a></li>
+							<li class="SWDDLt"><a href="/shop/computer-audio/midi_interfaces">MIDI Interfaces</a></li>
+							<li class="SWDDRt"><a href="/shop/computer-audio/control_surfaces">Control Surfaces</a></li>
+							<li class="SWDDLt"><a href="/shop/computer-audio/storage_backup">Hard Drives &amp; Storage</a></li>
+							<li class="SWDDRt"><a href="/shop/computer-audio/accessories">Computer Accessories</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/MOTU">MOTU</a></li><li><a href="/store/manufacturer/Apple">Apple</a></li><li><a href="/store/manufacturer/M-Audio">M-Audio</a></li><li><a href="/store/manufacturer/Apogee">Apogee</a></li><li><a href="/store/manufacturer/Waves">Waves</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/computer-audio-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Computer_Audio"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=6"><span>Forums</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWComputer-audio -->
+			<!-- #SWGuitar -->
+			<li id="SWGuitar">
+				<a href="/shop/guitars" class="SWCat">Guitar</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/guitars/electric-guitars">Electric Guitars</a></li>
+							<li class="SWDDLt"><a href="/shop/guitars/acoustic">Acoustic Guitars</a></li>
+							<li class="SWDDLt"><a href="/shop/guitars/guitar-accessories">Guitar Accessories</a></li>
+							<li class="SWDDLt"><a href="/shop/guitars/guitar-pedals">Guitar Pedals &amp; Effects</a></li>
+							<li class="SWDDLt"><a href="/shop/guitars/guitar-amps">Guitar Amps</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Gibson">Gibson</a></li><li><a href="/store/manufacturer/Fender">Fender®</a></li><li><a href="/store/manufacturer/Paul_Reed_Smith">Paul Reed Smith</a></li><li><a href="/store/manufacturer/Martin">Martin</a></li><li><a href="/store/manufacturer/Taylor">Taylor</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/guitar-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Guitar"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=10"><span>Forums</span></a></li>
+						</ul>
+					</li>
+					<li class="SWHeaderFeature"><a href="/guitargallery/">Guitar Gallery: Guitars up-close and personal! - Shop now »</a></li>
+				</ul>
+			</li>
+			<!-- /#guitar -->
+			<!-- #SWBass -->
+			<li id="SWBass">
+				<a href="/shop/bass-guitars" class="SWCat">Bass</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/bass-guitars/bass-guitars">Bass Guitars</a></li>
+							<li class="SWDDLt"><a href="/shop/bass-guitars/bass-guitar-amps">Bass Guitar Amps</a></li>
+							<li class="SWDDLt"><a href="/shop/bass-guitars/bass-guitar-accessories">Bass Guitar Accessories</a></li>
+							<li class="SWDDLt"><a href="/c584--Bass_Guitar_Pedals__and__Effects">Bass Guitar Pedals &amp; Effects</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Fender">Fender</a></li><li><a href="/store/manufacturer/Gibson">Gibson</a></li><li><a href="/store/manufacturer/Ibanez">Ibanez</a></li><li><a href="/store/manufacturer/Epiphone">Epiphone</a></li><li><a href="/store/manufacturer/Squier">Squier</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/bass-guitar-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Bass"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=24"><span>Forums</span></a></li>
+						</ul>
+					</li>
+					<li class="SWHeaderFeature"><a href="/guitargallery/">Guitar Gallery: Guitars up-close and personal! - Shop now »</a></li>
+				</ul>
+			</li>
+			<!-- /#SWBass -->
+			<!-- #SWKeyboard -->
+			<li id="SWKeyboard">
+				<a href="/shop/keyboards" class="SWCat">Keyboard</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/keyboards/professional-keyboards">Professional Keyboards</a></li>
+							<li class="SWDDRt"><a href="/shop/keyboards/home-keyboards">Home Keyboards</a></li>
+							<li class="SWDDLt"><a href="/shop/keyboards/sound-module-samplers">Sound Modules &amp; Samplers</a></li>
+							<li class="SWDDRt"><a href="/shop/keyboards/keyboard-controllers">Keyboard Controllers</a></li>
+							<li class="SWDDLt"><a href="/c525--Keyboard_Amplifiers">Keyboard Amplifiers</a></li>
+							<li class="SWDDRt"><a href="/shop/keyboards/keyboard-accessories">Keyboard Accessories</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Roland">Roland</a></li><li><a href="/store/manufacturer/Yamaha">Yamaha</a></li><li><a href="/store/manufacturer/Korg">Korg</a></li><li><a href="/store/manufacturer/Moog">Moog</a></li><li><a href="/store/manufacturer/Kurzweil">Kurzweil</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/keyboard-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Keyboard"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=9"><span>Forums</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWKeyboard -->
+			<!-- #SWDrums -->
+			<li id="SWDrums">
+				<a href="/shop/drums-percussion" class="SWCat">Drums</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/c1016--Acoustic_Drum_Kits">Acoustic Drum Kits</a></li>
+							<li class="SWDDRt"><a href="/c650--Electronic_Drum_Kits">Electronic Drum Kits</a></li>
+							<li class="SWDDLt"><a href="/c1017--Snare_Drums">Snare Drums</a></li>
+							<li class="SWDDRt"><a href="/c645--Percussion_Controllers">Percussion Controllers</a></li>
+							<li class="SWDDLt"><a href="/shop/drums-percussion/cymbals">Cymbals</a></li>
+							<li class="SWDDRt"><a href="/c1031--Percussion">Percussion</a></li>
+							<li class="SWDDLt"><a href="/c643--Drum_Machines_Modules">Drum Machines/Modules</a></li>
+							<li class="SWDDRt"><a href="/shop/drums-percussion/drum-accessories">Drum Accessories</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Roland">Roland</a></li><li><a href="/store/manufacturer/Alesis">Alesis</a></li><li><a href="/store/manufacturer/Pearl">Pearl</a></li><li><a href="/store/manufacturer/Yamaha">Yamaha</a></li><li><a href="/store/manufacturer/Zildjian">Zildjian</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/drum-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Drums"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=26"><span>Forums</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWDrums -->
+			<!-- #SWLive-sound -->
+			<li id="SWLive-sound">
+				<a href="/shop/live-sound" class="SWCat">Live Sound</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/live-sound/mixers">Mixers</a></li>
+							<li class="SWDDRt"><a href="/shop/live-sound/microphones">Microphones</a></li>
+							<li class="SWDDLt"><a href="/shop/live-sound/pa-speakers">PA Speakers</a></li>
+							<li class="SWDDRt"><a href="/shop/live-sound/power-amplifiers">Power Amplifiers</a></li>
+							<li class="SWDDLt"><a href="/shop/live-sound/monitors">Live sound Monitors</a></li>
+							<li class="SWDDRt"><a href="/shop/live-sound/signal-processing">Signal Processing</a></li>
+							<li class="SWDDLt"><a href="/c991--Staging">Staging</a></li>
+							<li class="SWDDRt"><a href="/shop/live-sound/racks-cases">Racks &amp; Cases</a></li>
+							<li class="SWDDLt"><a href="/shop/accessories/toolbox">Live Sound Tool Box</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Shure">Shure</a></li><li><a href="/store/manufacturer/JBL">JBL</a></li><li><a href="/store/manufacturer/Mackie">Mackie</a></li><li><a href="/store/manufacturer/Samson">Samson</a></li><li><a href="/store/manufacturer/Peavey">Peavey</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/live-sound-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Live_Sound"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=8"><span>Forums</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWLive-sound -->
+			<!-- #SWDj -->
+			<li id="SWDj">
+				<a href="/shop/dj-remix" class="SWCat">DJ</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/c654--DJ_CD_Players">DJ CD Players</a></li>
+							<li class="SWDDLt"><a href="/c660--DJ_Software">DJ Software</a></li>
+							<li class="SWDDLt"><a href="/c656--DJ_Mixers">DJ Mixers</a></li>
+							<li class="SWDDLt"><a href="/c655--Turntables__and__Cartridges">Turntables &amp; Cartridges</a></li>
+							<li class="SWDDLt"><a href="/c657--DJ_Groove_Production">DJ Groove Production</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Ableton">Ableton</a></li><li><a href="/store/manufacturer/Akai_Professional">Akai Professional</a></li><li><a href="/store/manufacturer/Numark">Numark</a></li><li><a href="/store/manufacturer/Focusrite">Focusrite</a></li><li><a href="/store/manufacturer/Vestax">Vestax</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/dj-deals"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/DJ"><span>What's New</span></a></li>
+							<li class="SWForums"><a href="/forums/forumdisplay.php?f=76"><span>Forums</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWDj -->
+			<!-- #SWBooks-videos -->
+			<li id="SWBooks-videos">
+				<a href="/shop/books-videos-courses" class="SWCat">Books/Videos</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/c536--Instructional_Books">Instructional Books</a></li>
+							<li class="SWDDLt"><a href="/c540--Tutorial_CD-ROMs">CD-Rom Tutorials</a></li>
+							<li class="SWDDLt"><a href="/c537--Instructional_Videos__and__DVDs">Instructional Videos &amp; DVDs</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Hal_Leonard">Hal Leonard</a></li><li><a href="/store/manufacturer/Berklee_Press">Berklee Press</a></li><li><a href="/store/manufacturer/Secrets_of_the_Pros">Secrets of the Pros</a></li><li><a href="/store/manufacturer/Multi_Platinum_Pro_Tools">Multi Platinum Pro Tools</a></li><li><a href="/store/manufacturer/brainwerks">brainwerks</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul>
+							<li class="SWDeals"><a href="/dealzone/"><span>Deals</span></a></li>
+							<li class="SWNew"><a href="/nowshipping/Books_Videos"><span>What's New</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<!-- /#SWBooks-videos -->
+			<!-- #SWAccessories -->
+			<li id="SWAccessories">
+				<a href="/shop/accessories" class="SWCat">Accessories</a>
+				<ul class="SWDropdown">
+					<li class="SWCats">
+						<ul>
+							<li class="SWDDHead"><strong>Categories</strong></li>
+							<li class="SWDDLt"><a href="/shop/cables">Cables, Snakes, &amp; Adapters</a></li>
+							<li class="SWDDLt"><a href="/shop/accessories/">Stands</a></li>
+							<li class="SWDDLt"><a href="/c41--Blank_Media">Blank Media</a></li>
+							<li class="SWDDLt"><a href="/shop/accessories/">Other Accessories</a></li>
+							<li class="SWDDLt"><a href="/shop/accessories/toolbox">Tool Box</a></li>
+						</ul>
+					</li>
+					<!-- .SWBrands -->
+					<li class="SWBrands"><ul><li class="SWDDHead"><strong>Brands</strong></li><li><a href="/store/manufacturer/Monster_Cable">Monster Cable</a></li><li><a href="/store/manufacturer/Fender_Accessories">Fender Accessories</a></li><li><a href="/store/manufacturer/Gibson_Audio">Gibson Audio</a></li><li><a href="/store/manufacturer/Pro_Co">Pro Co</a></li><li><a href="/store/manufacturer/On-Stage_Stands">On-Stage Stands</a></li><li class="SWAll"><a href="/store/manufacturer/">View all »</a></li></ul></li>
+					<li class="SWClearRight"></li>
+					<!-- /.SWBrands -->
+					<li class="SWInterest">
+						<ul><li class="SWDeals"><a href="/dealzone/"><span>Deals</span></a></li><li class="SWNew"><a href="/nowshipping/Accessories"><span>What's New</span></a></li></ul></li><li class="SWHeaderFeature"><a href="/shop/cables/finder.php">Cable Finder: Find any cable in 3 easy steps! - Shop now »</a></li>
+				</ul>
+			</li>
+			<!-- /#SWAccessories -->
+		</ul>
+	</div>
+</div>
 <br>
-<map name="headernav" id="headernav"><area shape="rect" coords="5,5,72,26" href="/shop/studio/">
-<area shape="rect" coords="87,6,187,26" href="/shop/computer-audio/">
-<area shape="rect" coords="197,5,254,26" href="/shop/guitars/">
-<area shape="rect" coords="264,5,305,26" href="/shop/bass-guitars/">
-<area shape="rect" coords="316,5,384,26" href="/shop/keyboards/">
-<area shape="rect" coords="396,5,448,26" href="/shop/drums-percussion/">
-<area shape="rect" coords="457,3,531,27" href="/shop/live-sound/">
-<area shape="rect" coords="541,5,575,27" href="/shop/dj-remix/">
-<area shape="rect" coords="583,3,675,27" href="/shop/books-videos-courses/">
-<area shape="rect" coords="683,5,758,26" href="/shop/accessories/">
-</map>
 <table border="0" cellpadding="0" cellspacing="5" width="760" align="center">
   <tbody><tr>
     <td valign="top" width="100%"><br>
@@ -321,22 +465,23 @@
                 </td>
               </tr>
               <tr>
-                <td class="titles"><span style="color:#FF0000; font-size: 16px;">»</span>&nbsp;<span class="h4"><a href="/help/returns-exchanges.php">Returns &amp; Exchanges</a></span></td>
-              </tr>
-              <tr>
-                <td class="helpareas">· <a href="/help/returns-exchanges.php#1">What if there is a problem with my order?</a></td>
-              </tr>
-              <tr>
-                <td class="helpareas">· <a href="/help/returns-exchanges.php#2">"No Hassle" Return Policy</a></td>
-              </tr>
-              <tr>
-                <td class="helpareas">· <a href="/help/returns-exchanges.php#3">How to Make a Return</a></td>
-              </tr>
-              <tr>
-                <td class="helpareas">· <a href="/help/returns-exchanges.php#4">Non-returnable Items</a><br>
-                    <br>
-                </td>
-              </tr>
+                      <td class="titles"><span style="color:#FF0000; font-size: 16px;">»</span>&nbsp;<span class="h4"><a href="/help/returns-exchanges.php">Returns &amp; Exchanges</a></span></td>
+                    </tr>
+                    <tr>
+                      <td class="helpareas">· <a href="/help/returns-exchanges.php#1">What if there is a problem with my order?</a></td>
+                    </tr>
+					<tr>
+                      <td class="helpareas">· <a href="/help/returns-exchanges.php#2">What if I receive a defective product?</a></td>
+                    </tr>
+                    <tr>
+                      <td class="helpareas">· <a href="/help/returns-exchanges.php#3">"No Hassle" Return Policy</a></td>
+                    </tr>
+                    <tr>
+                      <td class="helpareas">· <a href="/help/returns-exchanges.php#4">How to Make a Return</a></td>
+                    </tr>
+                    <tr>
+                      <td class="helpareas">· <a href="/help/returns-exchanges.php#5">Non-returnable Items</a><br><br></td>
+                    </tr>
               <tr>
                 <td class="titles"><span style="color:#FF0000; font-size: 16px;">»</span>&nbsp;<span class="h4"><a href="/help/ordering-information.php">Ordering Information</a></span></td>
               </tr>
@@ -449,191 +594,153 @@
   </tr>
 </tbody></table>
 <div style="font-size: 10px;">
-  <style type="text/css"><!--
-#gwFooter .bodyWidth { width:760px; margin-left:auto; margin-right:auto; }
-
-#gwFooter .darkBG a { color:#FFF; }
-#gwFooter .darkBG a:hover, #gwFooter .darkBG a:focus, #gwFooter .darkBG a:active { color:#B9DEFF; }
-
-#gwFooter form { margin:0; padding:0; }
-#gwFooter, #gwFooter table { font:12px Arial, Helvetica, sans-serif; }
-
-#gwFooter .links div { float:left; font-size:11px; overflow:auto; width:157px; text-align:left; }
-#gwFooter .links strong { background:#3977AE; display:block; font-size:12px; margin:12px 10px 0 0; padding:4px 6px; }
-#gwFooter .links ul { list-style:none; padding:0; margin:0; width:147px; }
-#gwFooter .links li { margin:0; padding:0; }
-#gwFooter .links a { color:#FFF; border-bottom:1px dashed #155D9E; display:block; padding:6px 6px 5px; text-decoration:none; }
-#gwFooter .links a:hover, #gwFooter .links a:focus, #gwFooter .links a:active { background:#00294F; color:#FFF; }
-
-#gwFooter .credits a, #gwFooter .credits a:link, #gwFooter .credits a:visited { color:#84BCED; }
-#gwFooter .credits a:hover, #gwFooter .credits a:focus, #gwFooter .credits a:active { color:#B9DEFF; }
-
-#gwFooter .inlineList li { display:inline; border-right:1px solid #3977AE; }
-#gwFooter .inlineList li a { padding:0 8px 0 4px; }
-#gwFooter .inlineList li.last { border-right:none; }
-
-#GWcontact { color:#FFF; }
-
-/* Tiles */
-#gwFooter .tiles { font-size:10px; }
-#gwFooter .tiles td.tileImg { border:solid #94ADC3; border-width:1px 0 1px 1px; vertical-align:middle; width:75px; height:75px; }
-#gwFooter .tiles td.tileImg a { display:block; height:100%; }
-#gwFooter .tiles td.tileCont { background:url(/site2.0/images/footer/footer2/tile-bg.gif) repeat-x center bottom #FFF; border:solid #94ADC3; border-width:1px 1px 1px 0; vertical-align:top; width:110px; }
-#gwFooter .tiles td.div { width:10px; }
-#gwFooter .tiles td.tileCont br { display:none; }
-#gwFooter .tiles td.tileCont strong { display:block; font-size:14px; line-height:14px; margin-bottom:3px; }
-#gwFooter .tiles td.tileCont span { display:block; line-height:11px; margin-top:4px; }
-#gwFooter .tiles td.shad1 { height:1px; background:#CFCFCF; }
-#gwFooter .tiles td.shad2 { height:1px; background:#EFEFEF; }
-#gwFooter .tiles td.tileCont a { color:#000; display:block; padding:6px 5px 6px 4px; text-decoration:none; }
---></style>
-
-<br><br><br>
-<!-- Footer -->
-<div id="gwFooter" style="width:100%;">
-	<table cellpadding="0" cellspacing="0" border="0" width="760" align="center" class="tiles">
-		<tbody><tr>
-			<td class="tileImg" style="background:url(/site2.0/images/footer/footer2/pubs.jpg) no-repeat -3px bottom;"><a href="/publications"></a></td>
-			<td class="tileCont"><a href="/publications">
-				<strong>FREE Publications</strong><br class="hidden">
-				<span>Sign up today! <img src="/site2.0/images/footer/footer2/tiles-arrow.gif" alt="»" width="12" height="11" border="0" style="vertical-align:middle;"></span>
-			</a></td>
-			<td class="div"></td>
-			<td class="tileImg" style="background:url(/site2.0/images/footer/footer2/giveaway.jpg) no-repeat -2px bottom;"><a href="/giveaway"></a></td>
-			<td class="tileCont"><a href="/giveaway">
-				<strong>Win FREE Gear!</strong><br class="hidden">
-				<span>Enter now <img src="/site2.0/images/footer/footer2/tiles-arrow.gif" alt="»" width="12" height="11" border="0" style="vertical-align:middle;"></span>
-			</a></td>
-			<td class="div"></td>
-			<td class="tileImg" style="background:url(/site2.0/images/footer/footer2/careers.jpg) no-repeat -2px bottom;"><a href="/careers"></a></td>
-			<td class="tileCont"><a href="/careers">
-				<strong>Sweetwater Careers</strong><br>
-				<span>The best place in the business to work!</span><br>
-				<span>Learn more! <img src="/site2.0/images/footer/footer2/tiles-arrow.gif" alt="»" width="12" height="11" border="0" style="vertical-align:middle;"></span>
-			</a></td>
-			<td class="div"></td>
-			<td class="tileImg" style="background:url(/site2.0/images/footer/footer2/financing.jpg) no-repeat -2px bottom;"><a href="/financing"></a></td>
-			<td class="tileCont"><a href="/financing">
-				<strong>Financing</strong><br class="hidden">
-				<span>More payment options for you!</span><br>
-				<span>Learn more <img src="/site2.0/images/footer/footer2/tiles-arrow.gif" alt="»" width="12" height="11" border="0" style="vertical-align:middle;"></span>
-			</a></td>
-		</tr>
-		<tr><td class="shad1" colspan="2"></td><td class="div"></td><td class="shad1" colspan="2"></td><td class="div"></td><td class="shad1" colspan="2"></td><td class="div"></td><td class="shad1" colspan="2"></td></tr>
-		<tr><td class="shad2" colspan="2"></td><td></td><td class="shad2" colspan="2"></td><td></td><td class="shad2" colspan="2"></td><td></td><td class="shad2" colspan="2"></td></tr>
-	</tbody></table>
+  <script type="text/javascript">
+<!--
+	function inputClear(thisfield, defaulttext) {
+		if (thisfield.value == defaulttext) {
+			thisfield.value = "";
+		} else if (thisfield.value == "") {
+			thisfield.value = defaulttext;	
+		}
+	}
+//-->
+</script>
+<link rel="stylesheet" type="text/css" media="all" href="/include/footer/css/footer.css">
+<div id="SWFooter">
 	
-	<div style="width:100%; background:url(/site2.0/images/footer/footer2/bg-grad.gif) repeat-x top center #003464; border-top:1px solid #4C8DC7; color:#FFF; margin:18px 0 0; overflow:auto; text-align:center;" class="darkBG">
-		<!-- Sweetwater Deals -->
-		<script type="text/javascript">
-		<!--
-			function inputClear(thisfield, defaulttext) {
-				if (thisfield.value == defaulttext) {
-					thisfield.value = "";
-				} else if (thisfield.value == "") {
-					thisfield.value = defaulttext;	
-				}
-			}
-		//-->
-		</script>
-		<form name="list" method="post" action="/subscribeconfirm.php?action=subscribe" style="margin: 0px; padding: 0px;">
-		<input type="hidden" name="redirect" value="http://www.sweetwater.com/insync/">
-        <input type="hidden" name="goto_url" value="http://www.sweetwater.com/insync/">
-        <input type="hidden" name="goto_text" value="Click here to return to Sweetwater.com">
-		<div style="background:url(/site2.0/images/footer/footer2/sw-deals-bg-top.gif) no-repeat top center #DA0000; margin-top:9px; padding:7px 0 0; text-align:left;" class="bodyWidth">
-		<div style="width:100%; background:url(/site2.0/images/footer/footer2/sw-deals-bg-btm.gif) no-repeat bottom center;">
-			<p style="margin:0 90px 0 10px; padding:0 0 7px;">
-				<img src="/site2.0/images/footer/footer2/sw-deals-hdr.gif" alt="Sweetwater Deals" width="164" height="20" border="0" style="vertical-align:middle; margin-bottom:6px;"> Sign up for weekly e-mail offers: <input type="text" onfocus="inputClear(this, 'Enter your e-mail')" onblur="inputClear(this, 'Enter your e-mail')" value="Enter your e-mail" maxlength="50" style="background:#7F0000; border:1px solid #570000; color:#FFF; font-size:12px; margin-left:3px; margin-right:3px; padding:2px 8px; width:166px;" size="19"><input name="list[]" type="hidden" value="gearnet"> <input type="image" src="/site2.0/images/footer/footer2/join-btn.gif" width="50" height="21" alt="Join" style="margin-right:5px; vertical-align:middle;"> <a href="/gearnet/" style="font-size:10px; color:#FFF; white-space:nowrap;">Learn more »</a>
-			</p>
+				<div id="custComments">
+					<div class="SWBody">
+						<h2>Our <span>Customers</span> Say...</h2>
+						<blockquote>
+							<p><span class="ltquote">“</span><span class="quote">My Sales Engineer is not only extremely knowledgeable and kind, but he has been completely professional and responsive. I always rely upon Dave to give me sound advice and support.</span><span class="rtquote">”</span>
+							<span class="source"><br><strong>Monique Berry</strong>, <em>CA</em></span></p>
+						</blockquote>
+						<div class="SWClearBoth"></div>		
+					</div>
+				</div>
+				
+	<!-- #SWFooterMenu -->
+	<div id="SWFooterMenu">
+		<div class="SWBody">
+			<ul class="SWPolicies-support">
+				<li class="SWFooterTitle"><strong>Policies &amp; Support</strong></li>
+				<li><a href="/financing/">Payment Options</a></li>
+			  <li><a href="/feature/freeshipping/">Free Shipping Policy</a></li>
+				<li><a href="/help/shipping-delivery.php">Shipping &amp; Delivery Times</a></li>
+				<li><a href="/tracking/">Track Your Order</a></li>
+				<li><a href="/help/returns-exchanges.php">Return Policy</a></li>
+				<li><a href="/sweetcare">SweetCare 24/7 Support</a></li>
+				<li><a href="/help/">More...</a></li>
+			</ul>
+			<ul class="SWFeatures">
+				<li class="SWFooterTitle"><strong>Additional Features</strong></li>
+				<li><a href="/careers/">Careers</a></li>
+				<li><a href="http://academy.sweetwater.com">Academy of Music</a></li>
+				<li><a href="/about/events/">Events &amp; Seminars</a></li>
+				<li><a href="http://productions.sweetwater.com">Recording Studio</a></li>
+				<li><a href="http://tradingpost.sweetwater.com">Trading Post</a></li>
+				<li><a href="/download/">Downloads</a></li>
+				<li><a href="/store/giftcertificate/">Gift Certificates</a></li>
+				<li><a href="/about/">Our Story</a></li>				
+			</ul>
+			<ul class="SWSocial">
+				<li class="SWFooterTitle"><strong>Follow us on</strong></li>
+				<li class="SWYoutube"><a href="http://www.youtube.com/user/SweetwaterSound">YouTube</a></li>
+				<li class="SWFacebook"><a href="http://www.facebook.com/pages/Sweetwater-Sound/37168748745?ref=s">Facebook</a></li>
+				<li class="SWTwitter"><a href="http://www.twitter.com/sweetwatersound">Twitter</a></li>
+				<li class="SWMyspace"><a href="http://profile.myspace.com/sweetwatersound">MySpace</a></li>
+			</ul>
+			
+			<form name="list" method="post" action="/subscribeconfirm.php?action=subscribe" style="margin: 0px; padding: 0px;">
+				<input type="hidden" name="redirect" value="http://www.sweetwater.com/insync/">
+				<input type="hidden" name="goto_url" value="http://www.sweetwater.com/insync/">
+				<input type="hidden" name="goto_text" value="Click here to return to Sweetwater.com">
+				<input name="list[]" type="hidden" value="gearnet">
+			<ul class="SWTiles">
+				<li class="SWProgear"><span class="inner"><a href="/publications/">
+					<strong>FREE Catalog</strong><br>
+					and other Sweetwater<br>
+					publications!<br>
+					<span class="SWButton">Learn More »</span>
+				</a></span></li>
+				<li class="SWGearnet">
+					<strong>Special Deals!<br></strong>
+					<span>Sign up for weekly<br>
+						e-mail offers:<br class="hide"></span>
+					<input type="text" onfocus="inputClear(this, 'Enter your e-mail')" onblur="inputClear(this, 'Enter your e-mail')" value="Enter your e-mail" maxlength="50" size="19" class="SWEmail"><br>
+					<input type="submit" value="Join" class="SWJoinButton SWButton"> <a href="/gearnet/" class="learnMore">Learn more »</a>
+					<!-- <span>Learn More &raquo;</span> -->
+				</li>
+				<li class="SWFinancing"><span class="inner"><a href="/financing/allaccess.php">
+					<strong>Easy<br>
+						Financing</strong><br>
+					We'll help you<br>
+						get the gear you need!<br>
+					<span class="SWButton">Apply Today »</span>
+				</a></span></li>
+			</ul>
+			</form>
+			<div class="SWClearBoth"></div>
 		</div>
-		</div>
-		</form>
-		<!-- Sweetwater Deals END -->
-		
-		<!-- Links Lists -->
-		<div class="bodyWidth" style="background:url(/site2.0/images/footer/footer2/links-right-brdr.gif) repeat-y top right; border-bottom:1px solid #155D9E;">
-		<div class="links bodyWidth" style="background:url(/site2.0/images/footer/footer2/link-sales.jpg) no-repeat top right; border-bottom:1px solid #001F3B; overflow:auto; padding-bottom:10px;">
-			<!-- Col -->
-			<div>
-				<strong>About Sweetwater</strong>
-				<ul><li><a href="/about">Why Sweetwater</a></li><li><a href="/about/history.php">Our History</a></li><li><a href="/about/feedback.php">Customer Testimonials</a></li><li><a href="/feature/expansion">Tour Our New Headquarters!</a></li></ul>
-			</div>
-			<!-- Col -->
-			<div>
-				<strong>Additional Services</strong>
-				<ul><li><a href="/publications">Publications</a></li><li><a href="/store/giftcertificate">Gift Certificates</a></li><li><a href="/financing">Special Financing</a></li><li><a href="http://tradingpost.sweetwater.com">Sell Your Used Gear</a></li></ul>
-			</div>
-			<!-- Col -->
-			<div>
-				<strong>Benefits &amp; Policies</strong>
-				<ul><li><a href="/feature/freeshipping">Free Shipping Policy</a></li><li><a href="/help/safe-shopping-guarantee.php">Safe Shopping Guarantee</a></li><li><a href="/help/shipping-delivery.php">Shipping &amp; Delivery Times</a></li><li><a href="/about/privacy.php">We Protect Your Privacy</a></li></ul>
-			</div>
-			<!-- Col -->
-			<div>
-				<strong>Customer Support</strong>
-				<ul><li><a href="/tracking">Track Your Order</a></li><li><a href="/help/returns-exchanges.php">Return Policy</a></li><li><a href="/sweetcare">SweetCare 24/7 Support</a></li><li><a href="/help">More...</a></li></ul>
-			</div>
-		</div>
-		</div>
-		<!-- Links Lists END -->
-		
-		<ul class="inlineList bodyWidth" style="font-size:11px; font-weight:bold; list-style:none; margin-top:13px; margin-bottom:0; padding:0; text-align:center;">
-			<li><a href="/careers">Careers</a></li>
-			<li><a href="http://academy.sweetwater.com">Academy of Music</a></li>
-			<li><a href="/about/events">Events &amp; Seminars</a></li>
-			<li><a href="http://productions.sweetwater.com">Recording Studio</a></li>
-			<li><a href="http://tradingpost.sweetwater.com">Trading Post</a></li>
-			<li><a href="/download">Download</a></li>
-			<li><a href="/about/links.php">Links</a></li>
-			<li class="last"><a href="/about/press-releases">Press Releases</a></li>
-		</ul>
-		
-		<div class="bodyWidth" style="border-bottom:1px solid #00315E; margin-top:15px;">
-		<div class="bodyWidth" style="border-bottom:1px solid #002A51;">
-		<table cellpadd="0" cellspacing="0" border="0" width="760" id="GWcontact" style="background:url(/site2.0/images/footer/footer2/contact-bg-grad.gif) repeat-x bottom center #3977AE; border:1px solid #00274B; font-size:11px;">
-			<tbody><tr><td colspan="4" height="10" style="font-size:10px; line-height:10px;">&nbsp;</td></tr>
-			<tr>
-				<td valign="top" style="border-right:1px solid #1B4E7B; padding:0 25px 0 10px;">
-					<strong>Sweetwater Sound Inc.</strong><br>
-					5501 U.S. Hwy 30 W<br>
-					Fort Wayne, IN 46818<br>
-					<a href="/about/directions.php" style="padding-top:4px; display:inline-block;">Get Directions »</a>
-				</td><td valign="top" style="border-right:1px solid #1B4E7B; border-left:1px solid #4188C7; padding:0 25px;">
-					<strong>Toll-free</strong> (800) 222-4700<br>
-					<strong>Local</strong> (260) 432-8176<br>
-					<strong>Fax</strong> (260) 432-1758<br>
-					<a href="/about/contact.php?type=feedback" style="padding-top:4px; display:inline-block;">Contact Us »</a>
-				</td><td valign="top" style="border-right:1px solid #1B4E7B; border-left:1px solid #4188C7; padding:0 25px;">
-					<strong>Telephone hours:</strong><br>
-					9-9 Mon-Thu, 9-8 Fri, 9-7 Sat EST<br>
-					<strong style="padding-top:4px; display:inline-block;">Retail Store hours:</strong><br>
-					9-8 Mon-Fri, 9-7 Sat EST<br>
-					<strong style="padding-top:4px; display:inline-block;">Current Sweetwater time is 3:23 PM.</strong><br>
-				</td><td valign="middle" align="center" width="160" style="border-left:1px solid #4188C7;">
-					<!-- START SCANALERT CODE -->
-						<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.sweetwater.com"><img src="//images.scanalert.com/meter/www.sweetwater.com/23.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" border="0" height="54" width="94"></a>
-					<!-- END SCANALERT CODE -->
-				</td>
-			</tr>
-			<tr><td colspan="4" height="10" style="font-size:10px; line-height:10px;">&nbsp;</td></tr>
-		</tbody></table>
-		</div>
-		</div>
-		
-		<p style="clear:both; color:#5695CD; font-size:11px; margin-bottom:25px;" align="center" class="credits">© 2009 Sweetwater Sound Inc. All rights reserved. Please read our <a href="/about/terms-of-use.php">Terms of Use</a> and <a href="/about/privacy.php">Privacy Policy</a>. <a href="/sitemap.php">Site Map</a></p>
 	</div>
+	<!-- /#SWFooterMenu -->
+	<!-- #SWFooterContact -->
+	<div id="SWFooterContact">
+		<div class="SWBody">
+			<div class="SWContact-info">
+				<div class="inner">
+					<div class="SE" style="background:url(/include/footer/images/se/dave-brow.gif) no-repeat 0 0;"></div>
+					<div class="SWInfo SWFirst">
+						<div>
+							<p><strong>Sweetwater Sound Inc.</strong><br>
+							5501 U.S. Hwy 30 W<br>
+							Fort Wayne, IN 46818<br>
+							<a href="/about/directions.php">Get Directions »</a></p>
+						</div>
+					</div>
+					<div class="SWInfo">
+						<div>
+							<p><strong>Toll-Free</strong> (800) 222-4700<br>
+							<strong>Local</strong> (260) 432-8176<br>
+							<strong>Fax</strong> (260) 432-1758
+							<a href="/about/contact.php?type=feedback" class="SWButton"><br>E-mail us</a></p>
+						</div>
+					</div>
+					<div class="SWInfo">
+						<div>
+							<p><strong>Telephone hours:</strong><br>
+							9-9 Mon-Thu, 9-8 Fri, 9-7 Sat EST</p>
+						
+							<p class="SWTwo"><strong>Retail Store hours:</strong><br>
+							9-8 Mon-Fri, 9-7 Sat EST</p>
+						</div>
+					</div>
+					<div class="SWInfo SWScanalert">
+						<div>
+							<p>
+								<!-- START SCANALERT CODE -->
+								<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.sweetwater.com"><img src="//images.scanalert.com/meter/www.sweetwater.com/23.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" border="0" height="54" width="94"></a>
+								<!-- END SCANALERT CODE -->
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p class="SWCredits">© 2010 Sweetwater Sound Inc. All rights reserved. Please read our <a href="/about/terms-of-use.php">Terms of Use</a> and <a href="/about/privacy.php">Privacy Policy</a>.<span> <a href="/sitemap.php">Site Map</a> | <a href="/about/links.php">Links</a> | <a href="/about/press-releases/">Press Releases</a></span></p>
+		</div>
+	</div>
+	<!-- /#SWFooterContact -->
 </div>
-<!-- Footer Close -->
 
 <!-- GOOGLE ANALYTICS -->
 <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-
 var pageTracker = _gat._getTracker("UA-138673-1");
 pageTracker._setDomainName("www.sweetwater.com");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
 </div>
 
 <!-- InstanceEnd -->
