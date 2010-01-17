@@ -1,24 +1,35 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711164122id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117071457id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
 # Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com
 
-Privacy Policy
+We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. It describes how we treat personal information when you use our services and how you can manage the communication we have with you.
 
-This Privacy Policy will be continuously assessed against new technologies, business practices and our customers' changing needs. We may change our privacy practices from time to time. If we make any changes, we'll update this privacy statement accordingly.
+## Personal information
 
-As a registered user of media-match we may use the information we collect from you individually or aggregated with other user's information to improve our service, to customize the website, and to notify you about updates or new features. In addition, we may use information we collect to notify you of third-party products and services in which you may be interested.
+You need register with us in order to use our services. We ask for some personal information when you register, including your alternate contact information and a password, which is used to protect your account from unauthorized access. This allows you to access many of our services that require registration. We store, process and maintain this information in order to provide the service to you.
 
-**Freelancers :** As a subscribing freelancer, we shall make the Information you provide available to such potential employers who visit our Website
+When you use our services our servers automatically record certain information about your usage. Similar to other web services, we record information such as account activity, data displayed or clicked on; and other log information.
 
-Some of the materials included on this Web site, including advertising, are served by third parties. These third parties, in the course of serving such materials, may collect information regarding use of this Web site, including by placing a "cookie" on a user's hard drive. Collection, use, disclosure and security of information collected by third parties are subject to their own privacy policies.
+## Uses
 
-In addition to the options made available to you, if any, when we collect information, you may elect to 'opt out' of having your individually identifiable information shared with third-parties that are not affiliated with media-match. Third-party opt out request must be submitted in writing to our support staff at the following address:
+Our administrative staff maintain and process your contact details and the content of your profile to provide the service to you and to improve our services. 
 
-Attention : Privacy Manager  
-Address : media-match, 714 Nth La Brea, Los Angeles, CA 90038  
+We will send you, as necessary from time to time, information related to administration of your profile or the services you have registered to receive.
 
+In addition you can chose to opt in or out of other communication from us which currently includes job alerts, information about your profile viewings and a weekly news digest. This information may be subject to change, in which case you will be notified and will have the option to opt in or out of receiving it. 
 
+You may chose to whether or not you wish to receive information from third parties, the content of which will be approved by us. You may edit your choice at any time using your profile settings.
 
-Registered users of the media-match site who choose to opt out will have their details remove from all media-match lists and access correspondingly terminated.
+## Information sharing and onward transfer
 
-We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs.
+We will not sell, rent or otherwise share your personal information with any third parties without your advance permission or unless ordered by a court of law.
+
+In addition to this you can chose which groups of people have access to your contact details and to the content of your profile. You can change your privacy settings at any time by editing your profile settings. 
+
+## Your choices
+
+You may change your choices at any time through your profile settings.
+
+You may cancel the service and unsubscribe at any time you like using the cancel button in your profile settings.
+
+If you have any queries or concerns you can email us at: [ info@media-match.com](mailto:%20info@media-match.com "Contact Us!").
