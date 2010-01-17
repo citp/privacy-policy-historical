@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221034102id_/http%3A//www.pcoptimizerpro.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117061355id_/http%3A//www.pcoptimizerpro.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # PC Optimizer Pro - Privacy Policy
 
@@ -72,15 +72,15 @@ We care about children and understand that they have special privacy needs. Ther
 |    
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional / marketing information from our partners, and us.   
-1. | You can [contact us ](https://web.archive.org/web/20091221034102id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
+1. | You can [contact us ](https://web.archive.org/web/20100117061355id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
 ---|---  
 2. | You can visit the following URL: [www.pcoptimizerpro.com ](http://www.pcoptimizerpro.com/)  
 **Data Quality/Access**  
   
-This site gives users the following options for changing and modifying information previously provided by [contacting us ](https://web.archive.org/web/20091221034102id_/http%3A//www.pcoptimizerpro.com/contactus.htm).   
+This site gives users the following options for changing and modifying information previously provided by [contacting us ](https://web.archive.org/web/20100117061355id_/http%3A//www.pcoptimizerpro.com/contactus.htm).   
   
 **Contacting the Web Site**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20091221034102id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20100117061355id_/http%3A//www.pcoptimizerpro.com/contactus.htm)  
   
   
 [ ](http://www.oneclickprivacy.com/1/FreePCScan.htm)
