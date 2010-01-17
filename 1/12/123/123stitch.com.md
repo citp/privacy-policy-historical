@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123stitch.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215030930id_/http%3A//www.123stitch.com/cgi-perl/123stitch_privacy_policy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123stitch.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117150154id_/http%3A//www.123stitch.com/cgi-perl/123stitch_privacy_policy.pl) for the most accurate reproduction.*
 
 # Privacy Policy for 1-2-3 Stitch!
 
