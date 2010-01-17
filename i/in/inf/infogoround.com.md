@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infogoround.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504213714id_/http%3A//www.infogoround.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogoround.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117013149id_/http%3A//www.infogoround.com/privacy.html) for the most accurate reproduction.*
 
 # InfoGoRound.com
 
