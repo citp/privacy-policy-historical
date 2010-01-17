@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildwarsguru.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416044156id_/http%3A//www.guildwarsguru.com/content/privacy-policy-id2023.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwarsguru.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117183647id_/http%3A//www.guildwarsguru.com/content/privacy-policy-id2023.php) for the most accurate reproduction.*
 
 # Privacy Policy - Site - Guild Wars Guru
 
