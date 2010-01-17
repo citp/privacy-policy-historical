@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaeljacksonlive.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512040049id_/http%3A//www.michaeljacksonlive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljacksonlive.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117115536id_/http%3A//www.michaeljacksonlive.com/privacy.php) for the most accurate reproduction.*
 
 # Michael Jackson Live!
 
@@ -94,7 +94,7 @@ Your request must include your name, email address, mailing address and must be 
 Back to Top
 * ##### What choices do I have about AEG Live and MJJ Productions collecting, using, and sharing my information?
 
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information ó to limit e-mail communications from AEG Live and from our third-party partners. You can request at any time that AEG Live not send future e-mail to you either by unsubscribing from the communication or by contacting us at [internetpolicy@aeg-la.com](https://web.archive.org/web/20090512040049id_/http%3A//www.michaeljacksonlive.com/internetpolicy@aeg-la.com). Also, as mentioned above, there are ways to limit the information collected through technology ó though some of our features won't work if you decide to do this.
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information ó to limit e-mail communications from AEG Live and from our third-party partners. You can request at any time that AEG Live not send future e-mail to you either by unsubscribing from the communication or by contacting us at [internetpolicy@aeg-la.com](https://web.archive.org/web/20100117115536id_/http%3A//www.michaeljacksonlive.com/internetpolicy@aeg-la.com). Also, as mentioned above, there are ways to limit the information collected through technology ó though some of our features won't work if you decide to do this.
 
 Back to Top
 * ##### What security precautions are in place to protect against the loss, misuse, or alteration of your information?
@@ -131,7 +131,7 @@ By using this Site, you signify your agreement to the terms of our privacy polic
 Back to Top
 * ##### Correcting and updating personal information
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an option out message in an email, or by emailing us at [internetpolicy@aeg-la.com](https://web.archive.org/web/20090512040049id_/http%3A//www.michaeljacksonlive.com/internetpolicy@aeg-la.com). Please click here to make any changes to your profile and/or opt out of The Home Depot Center.
+If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an option out message in an email, or by emailing us at [internetpolicy@aeg-la.com](https://web.archive.org/web/20100117115536id_/http%3A//www.michaeljacksonlive.com/internetpolicy@aeg-la.com). Please click here to make any changes to your profile and/or opt out of The Home Depot Center.
 
 Back to Top
 * ##### Whom do I contact with questions or concerns about this privacy policy
@@ -141,4 +141,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Attn: Privacy Policy AEG Live  
 714 W Olympic Blvd Ste #303 Los Angeles, CA 90015 
 
-You may also contact us by e-mail at [internetpolicy@aeg-la.com](https://web.archive.org/web/20090512040049id_/http%3A//www.michaeljacksonlive.com/internetpolicy@aeg-la.com)
+You may also contact us by e-mail at [internetpolicy@aeg-la.com](https://web.archive.org/web/20100117115536id_/http%3A//www.michaeljacksonlive.com/internetpolicy@aeg-la.com)
